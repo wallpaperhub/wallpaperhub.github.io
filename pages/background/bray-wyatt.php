@@ -1,0 +1,129 @@
+<title>Bray Wyatt: The Master of Dark Storytelling in WWE</title>
+                    <meta name="description" content="Explore the captivating world of Bray Wyatt, WWE's enigmatic superstar known for his dark personas and compelling storylines. Discover how his character work and in-ring talent enthrall fans, making him a unique figure in professional wrestling entertainment.">
+                    <meta name="keywords" content="bray wyatt">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bray-wyatt">
+                            <span itemprop="name">bray wyatt</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Bray Wyatt: The Master of Dark Storytelling in WWE</h1>
+                <p>Bray Wyatt, born Windham Lawrence Rotunda, is a charismatic WWE superstar known for his unique storytelling and theatrical persona. With gimmicks like "The Fiend" and "Firefly Fun House," he captivates audiences with dark, psychological narratives. His in-ring skills, combined with innovative promos, make him a standout performer in professional wrestling.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bray Wyatt - Simple English Wikipedia, the free encyclopedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bray_Wyatt_2017.jpg/800px-Bray_Wyatt_2017.jpg' alt='Bray Wyatt - Simple English Wikipedia, the free encyclopedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1092">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simple Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bray_Wyatt_2017.jpg/800px-Bray_Wyatt_2017.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bray Wyatt - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bray_Wyatt%2C_2022_%28cropped-2%29.jpg/220px-Bray_Wyatt%2C_2022_%28cropped-2%29.jpg' alt='Bray Wyatt - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="321">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bray_Wyatt%2C_2022_%28cropped-2%29.jpg/220px-Bray_Wyatt%2C_2022_%28cropped-2%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bray Wyatt | Antagonists Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/antagonists/images/2/2b/CEE031BE-0B1E-49AA-A521-0FC0368ADE1A.jpg/revision/latest?cb=20240410015048' alt='Bray Wyatt | Antagonists Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3464">
+                                <meta itemprop="height" content="3464">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Antagonists Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/antagonists/images/2/2b/CEE031BE-0B1E-49AA-A521-0FC0368ADE1A.jpg/revision/latest?cb=20240410015048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WWE star Bray Wyatt dead at 36: Known for Wyatt Family and 'The Fiend'">
+                                <img itemprop="contentUrl url" src='https://www.usatoday.com/gcdn/authoring/authoring-images/2023/08/24/USAT/70673663007-usatsi-19882101.jpg?crop=2665,3553,x981,y0' alt='WWE star Bray Wyatt dead at 36: Known for Wyatt Family and 'The Fiend''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2665">
+                                <meta itemprop="height" content="3553">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USA Today" />
+                                </span>
+                                <a href='https://www.usatoday.com/gcdn/authoring/authoring-images/2023/08/24/USAT/70673663007-usatsi-19882101.jpg?crop=2665,3553,x981,y0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fans Pick 'Wyatt Family Leader' As Their Favorite Version Of Bray ...">
+                                <img itemprop="contentUrl url" src='https://www.wrestlinginc.com/img/gallery/fans-pick-wyatt-family-leader-as-their-favorite-version-of-bray-wyatt-in-wwe/l-intro-1694284715.jpg' alt='Fans Pick 'Wyatt Family Leader' As Their Favorite Version Of Bray ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="898">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wrestling Inc." />
+                                </span>
+                                <a href='https://www.wrestlinginc.com/img/gallery/fans-pick-wyatt-family-leader-as-their-favorite-version-of-bray-wyatt-in-wwe/l-intro-1694284715.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bray Wyatt: Profile, Career Stats, Face/Heel Turns, Titles Won ...">
+                                <img itemprop="contentUrl url" src='https://www.thesmackdownhotel.com/images/wrestling/wrestlers/full-body/bray-wyatt-new.png' alt='Bray Wyatt: Profile, Career Stats, Face/Heel Turns, Titles Won ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The SmackDown Hotel" />
+                                </span>
+                                <a href='https://www.thesmackdownhotel.com/images/wrestling/wrestlers/full-body/bray-wyatt-new.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WWE Bray Wyatt dies aged 36: what caused his death? - AS USA">
+                                <img itemprop="contentUrl url" src='https://img.asmedia.epimg.net/resizer/v2/SGB5WW4IHND5NPI27NOCZNTHVE.jpg?auth=f7ef0ea0a2ee2e6fcccffa1f85b2b75720a1b9952d33ae8b962a21a46a6530c7&width=1472&height=828&focal=710%2C282' alt='WWE Bray Wyatt dies aged 36: what caused his death? - AS USA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1472">
+                                <meta itemprop="height" content="828">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AS USA - Diario AS" />
+                                </span>
+                                <a href='https://img.asmedia.epimg.net/resizer/v2/SGB5WW4IHND5NPI27NOCZNTHVE.jpg?auth=f7ef0ea0a2ee2e6fcccffa1f85b2b75720a1b9952d33ae8b962a21a46a6530c7&width=1472&height=828&focal=710%2C282' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Remembering Bray Wyatt - The Punished Backlog">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/punishedbacklog.com/wp-content/uploads/2023/08/braywyatt3.jpg?resize=788%2C788&ssl=1' alt='Remembering Bray Wyatt - The Punished Backlog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="788">
+                                <meta itemprop="height" content="788">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Punished Backlog" />
+                                </span>
+                                <a href='https://i0.wp.com/punishedbacklog.com/wp-content/uploads/2023/08/braywyatt3.jpg?resize=788%2C788&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bray Wyatt (Wrestling) - TV Tropes">
+                                <img itemprop="contentUrl url" src='https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/braywyatt.jpg' alt='Bray Wyatt (Wrestling) - TV Tropes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TV Tropes" />
+                                </span>
+                                <a href='https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/braywyatt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bray Wyatt: Professional wrestler dies at age 36, WWE says | CNN">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/230824184807-bray-wyatt-restricted.jpg?c=original' alt='Bray Wyatt: Professional wrestler dies at age 36, WWE says | CNN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2518">
+                                <meta itemprop="height" content="1679">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/230824184807-bray-wyatt-restricted.jpg?c=original' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

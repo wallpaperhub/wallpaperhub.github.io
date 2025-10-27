@@ -1,0 +1,129 @@
+<title>Elegant Black Background with White Heart</title>
+                    <meta name="description" content="Discover the beauty of a black background adorned with a white heart. This minimalist design offers a bold contrast, making it an ideal choice for art, fashion, and social media. Elevate your visual presence with this striking combination that symbolizes love and simplicity.">
+                    <meta name="keywords" content="black background white heart">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/black-background-white-heart">
+                            <span itemprop="name">black background white heart</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Black Background with White Heart</h1>
+                <p>A black background with a white heart creates a striking contrast that symbolizes purity, love, and passion. This minimalist design aesthetic is perfect for various contexts—art, fashion, or social media. The simplicity of the black and white palette allows the white heart to stand out, making it a powerful visual statement.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/1e/91/37/1e913761859d10067ef6501a10a1032a.jpg' alt='Black wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="316">
+                                <meta itemprop="height" content="588">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/1e/91/37/1e913761859d10067ef6501a10a1032a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Heart Emoji Isolated On Black Stock Vector (Royalty Free ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/white-heart-emoji-isolated-on-260nw-1383554990.jpg' alt='White Heart Emoji Isolated On Black Stock Vector (Royalty Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/white-heart-emoji-isolated-on-260nw-1383554990.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Heart">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/33/0d/ae/330dae9d96567cfe047da47dfd9f03a1.jpg' alt='White Heart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="952">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/33/0d/ae/330dae9d96567cfe047da47dfd9f03a1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download free Black Aesthetic Collage White Heart Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://mrwallpaper.com/images/hd/black-aesthetic-collage-white-heart-r9z9h3zm88wv1i23.jpg' alt='Download free Black Aesthetic Collage White Heart Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrWallpaper" />
+                                </span>
+                                <a href='https://mrwallpaper.com/images/hd/black-aesthetic-collage-white-heart-r9z9h3zm88wv1i23.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Heart Icon On Black Background Stock Vector (Royalty Free ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/white-heart-icon-on-black-260nw-636816301.jpg' alt='White Heart Icon On Black Background Stock Vector (Royalty Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/white-heart-icon-on-black-260nw-636816301.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Black and White Heart Background | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/black-and-white-heart-636-x-1200-background-abam1kt40fq3wg9c.jpg' alt='Download Black and White Heart Background | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="636">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/black-and-white-heart-636-x-1200-background-abam1kt40fq3wg9c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD white heart black backgrounds wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/493/985/HD-wallpaper-white-heart-black-black-background-fantasy-flying-moon-phoenix-star.jpg' alt='HD white heart black backgrounds wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/493/985/HD-wallpaper-white-heart-black-black-background-fantasy-flying-moon-phoenix-star.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Hearts with a black background with a white heart ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/background-with-hearts-vector_363897-14067.jpg' alt='Premium Vector | Hearts with a black background with a white heart ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="352">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/background-with-hearts-vector_363897-14067.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black And White Heart, Black Background, white heart, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/363/932/HD-wallpaper-black-and-white-heart-black-background-white-heart.jpg' alt='Black And White Heart, Black Background, white heart, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/363/932/HD-wallpaper-black-and-white-heart-black-background-white-heart.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Heart On Black Background Stock Illustration 1313545424 ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/white-heart-on-black-background-260nw-1313545424.jpg' alt='White Heart On Black Background Stock Illustration 1313545424 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/white-heart-on-black-background-260nw-1313545424.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Mizzou Football Wallpapers: Show Your Team Spirit!</title>
+                    <meta name="description" content="Explore stunning Mizzou football wallpaper options to elevate your devices. Download vibrant, high-quality images that celebrate your favorite team and enhance your screen with Mizzou pride. Perfect for fans looking to showcase their love for the Tigers wherever they go!">
+                    <meta name="keywords" content="mizzou football wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/football">
+                            <span itemprop="name">Football</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/football/mizzou-football-wallpaper">
+                            <span itemprop="name">mizzou football wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mizzou Football Wallpapers: Show Your Team Spirit!</h1>
+                <p>Looking for the perfect Mizzou football wallpaper to showcase your team spirit? Our collection features high-quality images that capture the excitement of game day with vibrant colors and gripping action shots. Download your favorite design today and show your support for the Tigers in style, whether on your desktop or mobile device!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mizzou Wallpapers - University of Missouri Athletics">
+                                <img itemprop="contentUrl url" src='https://mutigers.com/images/2020/8/24/640x1136_iPhoneSE.jpg' alt='Mizzou Wallpapers - University of Missouri Athletics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mizzou Athletics" />
+                                </span>
+                                <a href='https://mutigers.com/images/2020/8/24/640x1136_iPhoneSE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mizzou Football Wallpapers :: Behance">
+                                <img itemprop="contentUrl url" src='https://mir-s3-cdn-cf.behance.net/project_modules/1400/a12e8b136254523.61f682a359a4d.jpg' alt='Mizzou Football Wallpapers :: Behance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="3031">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Behance" />
+                                </span>
+                                <a href='https://mir-s3-cdn-cf.behance.net/project_modules/1400/a12e8b136254523.61f682a359a4d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mizzou Wallpaper :: Behance">
+                                <img itemprop="contentUrl url" src='https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/cfefb815781835.56296ded36bc9.jpg' alt='Mizzou Wallpaper :: Behance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Behance" />
+                                </span>
+                                <a href='https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/cfefb815781835.56296ded36bc9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2015 Mizzou Football wallpaper - Rock M Nation">
+                                <img itemprop="contentUrl url" src='https://cdn1.vox-cdn.com/uploads/chorus_asset/file/3865698/mizzoufootball_poster_1.0.jpg' alt='2015 Mizzou Football wallpaper - Rock M Nation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="9300">
+                                <meta itemprop="height" content="6300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rock M Nation" />
+                                </span>
+                                <a href='https://cdn1.vox-cdn.com/uploads/chorus_asset/file/3865698/mizzoufootball_poster_1.0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WallpaperWednesday    #MIZ      · Mizzou Football · Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10158516680360283' alt='WallpaperWednesday    #MIZ      · Mizzou Football · Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10158516680360283' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Curtis Luper on X: "@thebeast_cody clearly the best RB on the ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/F-IW23sXUAAvWwH.jpg:large' alt='Curtis Luper on X: "@thebeast_cody clearly the best RB on the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1290">
+                                <meta itemprop="height" content="1632">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/F-IW23sXUAAvWwH.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mizzou Football on X: "It's Wednesday. That means more #NewZou ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/EcaxFyoVcAAndXf.jpg:large' alt='Mizzou Football on X: "It's Wednesday. That means more #NewZou ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/EcaxFyoVcAAndXf.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some Mizzou Desktop Wallpapers (via @MizzouFootball on Twitter ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/nnwse7mh6xu51.jpg?width=640&crop=smart&auto=webp&s=390d5b6146d28571cea8fe2117b51979c7a3b1c6' alt='Some Mizzou Desktop Wallpapers (via @MizzouFootball on Twitter ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="426">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/nnwse7mh6xu51.jpg?width=640&crop=smart&auto=webp&s=390d5b6146d28571cea8fe2117b51979c7a3b1c6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mizzou Football - #WallpaperWednesday    #MIZ x #NewZou ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10157843405465283' alt='Mizzou Football - #WallpaperWednesday    #MIZ x #NewZou ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10157843405465283' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="22,146 Mizzou Football Stock Photos, High-Res Pictures, and Images ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/2179628259/photo/columbia-missouri-quarterback-brady-cook-of-the-missouri-tigers-passes-during-the-2nd-half-of.jpg?s=612x612&w=gi&k=20&c=gvGNn-Ckc6fpY88nbdcueZndVIdeHyivupmMii0p8jk=' alt='22,146 Mizzou Football Stock Photos, High-Res Pictures, and Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="412">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/2179628259/photo/columbia-missouri-quarterback-brady-cook-of-the-missouri-tigers-passes-during-the-2nd-half-of.jpg?s=612x612&w=gi&k=20&c=gvGNn-Ckc6fpY88nbdcueZndVIdeHyivupmMii0p8jk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

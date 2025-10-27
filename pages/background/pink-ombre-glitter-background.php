@@ -1,0 +1,129 @@
+<title>Stunning Pink Ombre Glitter Background for Every Occasion</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="pink ombre glitter background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pink-ombre-glitter-background">
+                            <span itemprop="name">pink ombre glitter background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Pink Ombre Glitter Background for Every Occasion</h1>
+                <p>Transform your designs with a stunning pink ombre glitter background that radiates elegance and charm. This eye-catching backdrop, featuring delightful shades of pink blended seamlessly with sparkling glitter, is perfect for party invitations, social media graphics, wallpapers, and creative projects. Elevate your visuals today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink White Ombre Glitter Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/pink-ombre-glitter-textured-background_53876-113879.jpg' alt='Pink White Ombre Glitter Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/pink-ombre-glitter-textured-background_53876-113879.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Ombre Glitter Photos, Images & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/pink-gradient-glittering-background-ombre-260nw-785338399.jpg' alt='Pink Ombre Glitter Photos, Images & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/pink-gradient-glittering-background-ombre-260nw-785338399.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download premium image of Pink ombre glitter textured mobile ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b7/f3/e5/b7f3e5faf19eac901db2772ae1991793.jpg' alt='Download premium image of Pink ombre glitter textured mobile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b7/f3/e5/b7f3e5faf19eac901db2772ae1991793.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download premium image of Pink ombre glitter textured mobile ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2f/84/ad/2f84ade2024fee65a84762594bb3a4e8.jpg' alt='Download premium image of Pink ombre glitter textured mobile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2f/84/ad/2f84ade2024fee65a84762594bb3a4e8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download a pink and white glitter background Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/rose-gold-ombre-mo9v0sfvtir4t2pm.jpg' alt='Download a pink and white glitter background Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/rose-gold-ombre-mo9v0sfvtir4t2pm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blush Pink Ombre Glitter Art T-Shirt and Home Decor">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/8d/1d/dd/8d1ddd8d55227b3ef39aea6ee1f2cb2e.jpg' alt='Blush Pink Ombre Glitter Art T-Shirt and Home Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/8d/1d/dd/8d1ddd8d55227b3ef39aea6ee1f2cb2e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink gradient glittering background. Ombre sparkling backdrop ...">
+                                <img itemprop="contentUrl url" src='https://st3.depositphotos.com/7045070/19572/v/1600/depositphotos_195721962-stock-illustration-pink-gradient-glittering-background-ombre.jpg' alt='Pink gradient glittering background. Ombre sparkling backdrop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://st3.depositphotos.com/7045070/19572/v/1600/depositphotos_195721962-stock-illustration-pink-gradient-glittering-background-ombre.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Hot Pink Ombre Glitter Texture Fabric | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/11245840/p/f/m/z-KcUWtsNr3LOUUOF_FwnRQZHXt2hCy8QURna6DWk6COlowPbFz9/Pink_Hot_Pink_Ombre_Glitter_Texture.jpg' alt='Pink Hot Pink Ombre Glitter Texture Fabric | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/11245840/p/f/m/z-KcUWtsNr3LOUUOF_FwnRQZHXt2hCy8QURna6DWk6COlowPbFz9/Pink_Hot_Pink_Ombre_Glitter_Texture.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink ombre glitter textured background | Free Photo - rawpixel">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0yMDAtdGFuZy0wMS5qcGc.jpg' alt='Pink ombre glitter textured background | Free Photo - rawpixel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0yMDAtdGFuZy0wMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glitter Ombre Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/realistic-pink-silver-background_23-2150003152.jpg' alt='Glitter Ombre Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/realistic-pink-silver-background_23-2150003152.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

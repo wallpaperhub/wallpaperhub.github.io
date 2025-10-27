@@ -1,0 +1,129 @@
+<title>Chic Pink Pastel Wallpaper for Every Room</title>
+                    <meta name="description" content="Add elegance to your decor with our pink pastel wallpaper. Ideal for creating a tranquil atmosphere, this wallpaper is perfect for nurseries, bedrooms, and more. Simplify your space transformation with easy application and stylish design. Explore our collection today!">
+                    <meta name="keywords" content="pink:gdxr6qp7qy0= pastel:_j-gwkugvie= wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pinkgdxr6qp7qy0-pastel_j-gwkugvie-wallpaper">
+                            <span itemprop="name">pink:gdxr6qp7qy0= pastel:_j-gwkugvie= wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Pink Pastel Wallpaper for Every Room</h1>
+                <p>Transform your space with pink pastel wallpaper! This soft, soothing hue brings warmth and charm, perfect for any room. Ideal for nurseries, bedrooms, or creative spaces, pink pastel wallpaper creates a calming atmosphere while adding a touch of elegance. Easy to apply and maintain, it’s a stylish choice for modern decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel pink gradient water wallpaper | Premium AI-generated image">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/pastel-pink-gradient-water-wallpaper_960396-555480.jpg' alt='Pastel pink gradient water wallpaper | Premium AI-generated image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/pastel-pink-gradient-water-wallpaper_960396-555480.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glittery Pink Pastel Galaxy Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/glittery-pink-pastel-galaxy-rgv7u8gpjn1wvvji.jpg' alt='Glittery Pink Pastel Galaxy Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1820">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/glittery-pink-pastel-galaxy-rgv7u8gpjn1wvvji.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Pink And White Pastel Gradient Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/white-pastel-odr32cmwaeddjkq0.jpg' alt='Download Pink And White Pastel Gradient Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/white-pastel-odr32cmwaeddjkq0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Pink Wallpapers | Download 203 images for Free | WidgetClub">
+                                <img itemprop="contentUrl url" src='https://s.widget-club.com/images/YyiR86zpwIMIfrCZoSs4ulVD9RF3/64d0083c648ecdbc0dcd497c063b6890/d420192ac43b88e73ed04a3e65cdcf6a.jpg?q=70&w=500' alt='Light Pink Wallpapers | Download 203 images for Free | WidgetClub'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper App by WidgetClub" />
+                                </span>
+                                <a href='https://s.widget-club.com/images/YyiR86zpwIMIfrCZoSs4ulVD9RF3/64d0083c648ecdbc0dcd497c063b6890/d420192ac43b88e73ed04a3e65cdcf6a.jpg?q=70&w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="THE PASTEL /// pastel aesthetic / pink aesthetic / kawaii ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/9e/55/98/9e5598c9e4c93e3a2aff8013760b8cb5.jpg' alt='THE PASTEL /// pastel aesthetic / pink aesthetic / kawaii ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="564">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/9e/55/98/9e5598c9e4c93e3a2aff8013760b8cb5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BG pls use w/ credits ^w^">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d2/87/35/d2873501d74558f497c74449ff4d4ce1.jpg' alt='BG pls use w/ credits ^w^'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1268">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d2/87/35/d2873501d74558f497c74449ff4d4ce1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/6a/73/68/6a73687b8ec793f165974014bb7d70bb.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="482">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/6a/73/68/6a73687b8ec793f165974014bb7d70bb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ultra Wide Girly Wallpaper 2560x1080">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ba/2f/7a/ba2f7a8ed3e0bcce124e89e8a18791ff.jpg' alt='Ultra Wide Girly Wallpaper 2560x1080'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ba/2f/7a/ba2f7a8ed3e0bcce124e89e8a18791ff.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Wallpaper - Modern, Retro & Vintage Patterns - Hovia">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_720/v1716294830/articles/SG0068PI06W_product.jpg' alt='Pink Wallpaper - Modern, Retro & Vintage Patterns - Hovia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hovia" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_720/v1716294830/articles/SG0068PI06W_product.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fa/40/f2/fa40f26310f6f324bd60c3410728b820.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fa/40/f2/fa40f26310f6f324bd60c3410728b820.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Ariana Grande: The Pop Icon You Need to Know</title>
+                    <meta name="description" content="Discover Ariana Grande, the pop superstar with chart-topping hits and a powerful voice. Explore her music, influence, and advocacy for mental health and equality. Stay updated on her latest projects and achievements in the entertainment world.">
+                    <meta name="keywords" content="ariana grande">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ariana-grande">
+                            <span itemprop="name">ariana grande</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ariana Grande: The Pop Icon You Need to Know</h1>
+                <p>Ariana Grande is a pop sensation known for her powerful vocals and hit songs. Bursting onto the music scene with her debut album, she quickly rose to fame. Blending R&B and pop influences, she captures hearts with tracks like "Thank U, Next" and "7 Rings." Beyond music, Ariana is an advocate for mental health and equality.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ariana Grande - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/7/7c/Ariana_Grande_promoting_Wicked_%282024%29.jpg' alt='Ariana Grande - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="574">
+                                <meta itemprop="height" content="717">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/7/7c/Ariana_Grande_promoting_Wicked_%282024%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ariana Grande: Biography, Singer, 2025 Golden Globe Nominee">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/ariana-grande-attends-the-wsj-magazine-2024-innovator-news-photo-1733523847.jpg' alt='Ariana Grande: Biography, Singer, 2025 Golden Globe Nominee'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3334">
+                                <meta itemprop="height" content="5000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/ariana-grande-attends-the-wsj-magazine-2024-innovator-news-photo-1733523847.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ariana Grande | Songs, Albums, 7 Rings, & TV Shows | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/92/211792-050-E764F875/American-singer-Ariana-Grande-2018.jpg' alt='Ariana Grande | Songs, Albums, 7 Rings, & TV Shows | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1067">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/92/211792-050-E764F875/American-singer-Ariana-Grande-2018.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Grammy Looks of All Time">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/gettyimages-2074292147-67a0184c52a55.jpg' alt='Best Grammy Looks of All Time'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5000">
+                                <meta itemprop="height" content="3333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Harper's BAZAAR" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/gettyimages-2074292147-67a0184c52a55.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ariana Grande is proud to be in Wicked's 'beautiful coven' : NPR">
+                                <img itemprop="contentUrl url" src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3001x4000+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F08%2Ffe%2Fc10ab5cf4a719f0fa0f902afc885%2Fag-katiatemkin-85070.jpg' alt='Ariana Grande is proud to be in Wicked's 'beautiful coven' : NPR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1466">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3001x4000+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F08%2Ffe%2Fc10ab5cf4a719f0fa0f902afc885%2Fag-katiatemkin-85070.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ariana Grande - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BM2JhZWJmMDEtNTU5MS00YmQ3LTk1NjMtOGFlMjM2MjZlNjg5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' alt='Ariana Grande - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BM2JhZWJmMDEtNTU5MS00YmQ3LTk1NjMtOGFlMjM2MjZlNjg5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ariana Grande - Singer, Actress">
+                                <img itemprop="contentUrl url" src='https://ntvb.tmsimg.com/assets/assets/568557_v9_bd.jpg?w=360&h=480' alt='Ariana Grande - Singer, Actress'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TV Insider" />
+                                </span>
+                                <a href='https://ntvb.tmsimg.com/assets/assets/568557_v9_bd.jpg?w=360&h=480' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ariana Grande addresses body-shaming comments on TikTok">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/ariana-grande-attends-the-wicked-part-one-european-premiere-news-photo-1733499931.jpg?crop=1xw:0.99169xh;center,top&resize=1200:*' alt='Ariana Grande addresses body-shaming comments on TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ELLE" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/ariana-grande-attends-the-wicked-part-one-european-premiere-news-photo-1733499931.jpg?crop=1xw:0.99169xh;center,top&resize=1200:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ariana Grande (@arianagrande) • Instagram photos and videos">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3495580352117517510' alt='Ariana Grande (@arianagrande) • Instagram photos and videos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1266">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3495580352117517510' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ariana Grande Goes Glinda-Coded in 190,000 Crystals at Oscars 2025">
+                                <img itemprop="contentUrl url" src='https://people.com/thmb/V1yL71AuAw0R2VH2WxGpbV5X8kM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/ariana-grande-2025-oscars-030225-8fc4e63badf145fd993d1806d7cbc012.jpg' alt='Ariana Grande Goes Glinda-Coded in 190,000 Crystals at Oscars 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="People.com" />
+                                </span>
+                                <a href='https://people.com/thmb/V1yL71AuAw0R2VH2WxGpbV5X8kM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/ariana-grande-2025-oscars-030225-8fc4e63badf145fd993d1806d7cbc012.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

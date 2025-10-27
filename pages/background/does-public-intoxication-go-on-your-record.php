@@ -1,0 +1,129 @@
+<title>Does Public Intoxication Stay on Your Record?</title>
+                    <meta name="description" content="Learn if public intoxication can affect your criminal record. Understand the legal implications, potential charges, and options for expungement based on your situation. Stay informed and protect your future. Discover more about public intoxication and its lasting effects now!">
+                    <meta name="keywords" content="does public intoxication go on your record">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/does-public-intoxication-go-on-your-record">
+                            <span itemprop="name">does public intoxication go on your record</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Does Public Intoxication Stay on Your Record?</h1>
+                <p>Public intoxication can lead to legal consequences, but whether it goes on your record depends on the jurisdiction and the specifics of the case. In some areas, it may result in a misdemeanor charge, which could appear on your criminal record. However, first-time offenders may have options for expungement or diversion programs.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Long Does Public Intoxication Stay on Your Record ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/H5Q4ne_sA8U/hqdefault.jpg' alt='How Long Does Public Intoxication Stay on Your Record ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/H5Q4ne_sA8U/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Texas Penal Code 49.02 - Public Intoxication">
+                                <img itemprop="contentUrl url" src='https://www.dwilawyerstexas.com/wp-content/uploads/2023/07/Texas-Penal-Code-49.02-Public-Intoxication.png' alt='Texas Penal Code 49.02 - Public Intoxication'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="731">
+                                <meta itemprop="height" content="1903">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Trey Porter Law" />
+                                </span>
+                                <a href='https://www.dwilawyerstexas.com/wp-content/uploads/2023/07/Texas-Penal-Code-49.02-Public-Intoxication.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Get Public Intoxication Off Your Record? - CountyOffice.org">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/2U7qZG_dO48/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDTd7bjNXvDTuqmKWAO48uS-Kfraw' alt='How to Get Public Intoxication Off Your Record? - CountyOffice.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/2U7qZG_dO48/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDTd7bjNXvDTuqmKWAO48uS-Kfraw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Long Is Public Intoxication On Your Record In Texas? - Plano ...">
+                                <img itemprop="contentUrl url" src='https://www.pevetolaw.com/wp-content/uploads/2023/01/Public-Intoxication-Charges-in-Texas.jpg' alt='How Long Is Public Intoxication On Your Record In Texas? - Plano ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="940">
+                                <meta itemprop="height" content="788">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Plano Criminal Defense Lawyers" />
+                                </span>
+                                <a href='https://www.pevetolaw.com/wp-content/uploads/2023/01/Public-Intoxication-Charges-in-Texas.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Serious is a Public Intoxication Charge? - Law Office of David ...">
+                                <img itemprop="contentUrl url" src='https://www.wm-attorneys.com/wp-content/uploads/2023/05/shutterstock_2254146827-1.jpg' alt='How Serious is a Public Intoxication Charge? - Law Office of David ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Austin Criminal Defense Lawyer" />
+                                </span>
+                                <a href='https://www.wm-attorneys.com/wp-content/uploads/2023/05/shutterstock_2254146827-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Get Out Of A Public Intoxication Charge - DWI Lawyers">
+                                <img itemprop="contentUrl url" src='http://www.pevetolaw.com/wp-content/uploads/2023/03/How-To-Get-Out-Of-A-Public-Intoxication-Charge-300x252.jpg' alt='How To Get Out Of A Public Intoxication Charge - DWI Lawyers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="252">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Plano Criminal Defense Lawyers" />
+                                </span>
+                                <a href='http://www.pevetolaw.com/wp-content/uploads/2023/03/How-To-Get-Out-Of-A-Public-Intoxication-Charge-300x252.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Get A Public Intoxication Charge Dismissed? - CountyOffice.org">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/ENRff5npkKU/sddefault.jpg' alt='How To Get A Public Intoxication Charge Dismissed? - CountyOffice.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/ENRff5npkKU/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Public Intoxication - Bart Kaspero Law">
+                                <img itemprop="contentUrl url" src='https://bartkasperolaw.com/wp-content/uploads/2016/11/Drunk-in-public-intoxication-300x200.jpg' alt='Public Intoxication - Bart Kaspero Law'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bart Kaspero" />
+                                </span>
+                                <a href='https://bartkasperolaw.com/wp-content/uploads/2016/11/Drunk-in-public-intoxication-300x200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Public Intoxication in Texas - Michael & Associates, Attorneys at Law">
+                                <img itemprop="contentUrl url" src='https://zealousadvocate.com/wp-content/uploads/2023/05/public-intoxication-in-austin-how-to-beat-it.jpg' alt='Public Intoxication in Texas - Michael & Associates, Attorneys at Law'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1350">
+                                <meta itemprop="height" content="759">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Michael & Associates, Attorneys at Law" />
+                                </span>
+                                <a href='https://zealousadvocate.com/wp-content/uploads/2023/05/public-intoxication-in-austin-how-to-beat-it.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Serious Is a Public Intoxication Charge in Texas?">
+                                <img itemprop="contentUrl url" src='https://www.rbisenberg.com/wp-content/uploads/2024/08/How-serious-is-a-public-intoxication-charge-in-texas.jpg' alt='How Serious Is a Public Intoxication Charge in Texas?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Criminal Defense & DWI Lawyer" />
+                                </span>
+                                <a href='https://www.rbisenberg.com/wp-content/uploads/2024/08/How-serious-is-a-public-intoxication-charge-in-texas.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

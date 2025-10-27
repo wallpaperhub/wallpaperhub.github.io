@@ -1,0 +1,129 @@
+<title>Explore the Magical World of Elf Backgrounds</title>
+                    <meta name="description" content="Discover the rich and diverse backgrounds of elves in fantasy lore. From noble warriors to nature guardians, explore their unique traits, traditions, and histories that shape these enchanting beings. Learn how their cultural roots influence their roles in mythical tales and adventures.">
+                    <meta name="keywords" content="elf backgrounds">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/elf-backgrounds">
+                            <span itemprop="name">elf backgrounds</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Magical World of Elf Backgrounds</h1>
+                <p>Elves are a popular fantasy race known for their agility, grace, and mystical connections to nature. Originating from folklore, their backgrounds encompass diverse cultures, from highborn nobles in enchanted forests to humble dwellers in hidden glades. Each elf bears unique traits, traditions, and skills influenced by their environment and lineage.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Christmas Elf Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/christmas-elf-sbnln9x8kc89p757.jpg' alt='100+] Christmas Elf Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="999">
+                                <meta itemprop="height" content="996">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/christmas-elf-sbnln9x8kc89p757.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10,700+ Elf Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1187695674/vector/christmas-poster-template-with-santa-claus-elves-snowman-reindeer-and-christmas-tree-winter.jpg?s=612x612&w=0&k=20&c=YE4em9JCNZIO9rSj525NmW5jdUSKjHfttobmFtLySSw=' alt='10,700+ Elf Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1187695674/vector/christmas-poster-template-with-santa-claus-elves-snowman-reindeer-and-christmas-tree-winter.jpg?s=612x612&w=0&k=20&c=YE4em9JCNZIO9rSj525NmW5jdUSKjHfttobmFtLySSw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Elf Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1511881721716-686204776e2b?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hyaXN0bWFzJTIwZWxmfGVufDB8fDB8fHww' alt='Christmas Elf Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1511881721716-686204776e2b?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hyaXN0bWFzJTIwZWxmfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Elf Movie Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/elf-movie-5gg8zs8jk6zpvvn5.jpg' alt='100+] Elf Movie Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/elf-movie-5gg8zs8jk6zpvvn5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="76,805 Christmas Elf Background Royalty-Free Photos and Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/merry-xmas-banner-3d-paper-600nw-2002384862.jpg' alt='76,805 Christmas Elf Background Royalty-Free Photos and Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="316">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/merry-xmas-banner-3d-paper-600nw-2002384862.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Buddy The Elf">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fb/47/23/fb4723d096eaa79e6284d37299182d43.jpg' alt='Buddy The Elf'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fb/47/23/fb4723d096eaa79e6284d37299182d43.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Female Christmas Elf Photos, Images & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2527879709/display_1500/stock-photo-young-woman-in-elf-costume-holding-christmas-gift-box-on-green-background-2527879709.jpg' alt='Female Christmas Elf Photos, Images & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2527879709/display_1500/stock-photo-young-woman-in-elf-costume-holding-christmas-gift-box-on-green-background-2527879709.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="161 Elf Wallpaper High Res Illustrations - Getty Images">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1362910250/vector/christmas-banner-with-elves-greeting-card-design-concept.jpg?s=612x612&w=gi&k=20&c=ucucbUTzy10isDu-uh4m3MgOTZVG2CllsTxw4QRVV3E=' alt='161 Elf Wallpaper High Res Illustrations - Getty Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="462">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1362910250/vector/christmas-banner-with-elves-greeting-card-design-concept.jpg?s=612x612&w=gi&k=20&c=ucucbUTzy10isDu-uh4m3MgOTZVG2CllsTxw4QRVV3E=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Elf Movie Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/elf-movie-kogh6hyv0ed1gy93.jpg' alt='100+] Elf Movie Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/elf-movie-kogh6hyv0ed1gy93.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,300+ Christmas Elf Woman Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1347878590/photo/full-length-body-size-view-of-attractive-cheerful-funny-girl-elf-having-fun-celebratory.jpg?s=612x612&w=0&k=20&c=NNbz-2wIVirtQ3_mXvtrO1Hsz3yH-s9kaUz53rbYIpE=' alt='4,300+ Christmas Elf Woman Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1347878590/photo/full-length-body-size-view-of-attractive-cheerful-funny-girl-elf-having-fun-celebratory.jpg?s=612x612&w=0&k=20&c=NNbz-2wIVirtQ3_mXvtrO1Hsz3yH-s9kaUz53rbYIpE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

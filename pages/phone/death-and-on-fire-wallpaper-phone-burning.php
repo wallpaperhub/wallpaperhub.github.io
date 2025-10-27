@@ -1,0 +1,129 @@
+<title>Intense Death & Fire Phone Wallpapers</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="death and on fire wallpaper phone burning">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/death-and-on-fire-wallpaper-phone-burning">
+                            <span itemprop="name">death and on fire wallpaper phone burning</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Intense Death & Fire Phone Wallpapers</h1>
+                <p>Explore the contrast of "death and on fire" wallpaper for your phone. This bold design captures striking visuals of flames against dark themes, creating a captivating and edgy look. Perfect for those who dare to embrace the intensity of life and loss through art. Discover a unique wallpaper that ignites conversation!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fire of Death, burn, death, heaven and hell, eternity, boiling ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/357/670/HD-wallpaper-fire-of-death-burn-death-heaven-and-hell-eternity-boiling-hell-fire-skulls-flame-murder-hot-dam-bones.jpg' alt='Fire of Death, burn, death, heaven and hell, eternity, boiling ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/357/670/HD-wallpaper-fire-of-death-burn-death-heaven-and-hell-eternity-boiling-hell-fire-skulls-flame-murder-hot-dam-bones.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fire rose, bonfiresparks, bridge, burning, failure, love, occean ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/372/556/HD-wallpaper-fire-rose-bonfiresparks-bridge-burning-failure-love-occean-spark.jpg' alt='Fire rose, bonfiresparks, bridge, burning, failure, love, occean ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="889">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/372/556/HD-wallpaper-fire-rose-bonfiresparks-bridge-burning-failure-love-occean-spark.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fire, terror, pain, death, flames, head, black, woman, fire head ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/211/688/HD-wallpaper-fire-terror-pain-death-flames-head-black-woman-fire-head.jpg' alt='Fire, terror, pain, death, flames, head, black, woman, fire head ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="588">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/211/688/HD-wallpaper-fire-terror-pain-death-flames-head-black-woman-fire-head.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Burning skull, hades, death, hell, fire, demon, fantasy, flames ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/921/218/HD-wallpaper-burning-skull-hades-death-hell-fire-demon-fantasy-flames-dark-devil-skull.jpg' alt='Burning skull, hades, death, hell, fire, demon, fantasy, flames ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/921/218/HD-wallpaper-burning-skull-hades-death-hell-fire-demon-fantasy-flames-dark-devil-skull.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper fire, death, witch, chains for mobile and desktop ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/f/87/witch-fire-chains-death-438.webp' alt='Wallpaper fire, death, witch, chains for mobile and desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/f/87/witch-fire-chains-death-438.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The_world, fire, death, burn, flames, dark, black, earth, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/598/742/HD-wallpaper-the-world-fire-death-burn-flames-dark-black-earth.jpg' alt='The_world, fire, death, burn, flames, dark, black, earth, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/598/742/HD-wallpaper-the-world-fire-death-burn-flames-dark-black-earth.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD dead burn wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/748/581/HD-wallpaper-burning-skull-black-my-art-badass-burn-creepy-darkness-dead-death-digital-drawing-flames-halloween-noir-occult-oled-true-black-thumbnail.jpg' alt='HD dead burn wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/748/581/HD-wallpaper-burning-skull-black-my-art-badass-burn-creepy-darkness-dead-death-digital-drawing-flames-halloween-noir-occult-oled-true-black-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download "The Burning Dead" wallpapers for mobile phone, free "The ...">
+                                <img itemprop="contentUrl url" src='https://wallpaper.forfun.com/fetch/cc/ccbcd9b37d930835ce5e1c95eaf93b3e.jpeg' alt='Download "The Burning Dead" wallpapers for mobile phone, free "The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1458">
+                                <meta itemprop="height" content="820">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Phone wallpapers free HD download for mobile - Mob.org" />
+                                </span>
+                                <a href='https://wallpaper.forfun.com/fetch/cc/ccbcd9b37d930835ce5e1c95eaf93b3e.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD dead burn wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/575/434/HD-wallpaper-hellskull-my-amoled-badass-bones-burn-dead-evil-filre-flames-glow-illustration-mean-oled-skull-thumbnail.jpg' alt='HD dead burn wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/575/434/HD-wallpaper-hellskull-my-amoled-badass-bones-burn-dead-evil-filre-flames-glow-illustration-mean-oled-skull-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper head, fire, death, flesh for mobile and desktop, section ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/d/48/death-fire-golova-plot.webp' alt='Wallpaper head, fire, death, flesh for mobile and desktop, section ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/d/48/death-fire-golova-plot.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

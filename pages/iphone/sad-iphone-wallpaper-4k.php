@@ -1,0 +1,129 @@
+<title>Emotional 4K Sad iPhone Wallpapers</title>
+                    <meta name="description" content="Discover a stunning selection of sad 4K wallpapers for your iPhone, perfectly designed to resonate with your emotions. Find the ideal backdrop for your device that reflects your feelings, all in high-resolution quality. Download now and express your mood with art on your screen!">
+                    <meta name="keywords" content="sad iphone wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/sad-iphone-wallpaper-4k">
+                            <span itemprop="name">sad iphone wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Emotional 4K Sad iPhone Wallpapers</h1>
+                <p>Explore our collection of sad iPhone wallpapers in stunning 4K resolution. Each wallpaper captures the essence of melancholy, featuring breathtaking visuals that evoke emotions. Perfect for those moments when you need to express your feelings through art. Download your favorite sad wallpaper to reflect your mood.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Sad Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/sad-death-in-iphone-ndglh53biircuo0a.jpg' alt='100+] Sad Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1438">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/sad-death-in-iphone-ndglh53biircuo0a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sad Iphone HD Wallpapers (100++) - MrWallpaper.com">
+                                <img itemprop="contentUrl url" src='https://mrwallpaper.com/images/hd/sad-lonely-person-iphone-jnok3qot7mregc7y.jpg' alt='Sad Iphone HD Wallpapers (100++) - MrWallpaper.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrWallpaper" />
+                                </span>
+                                <a href='https://mrwallpaper.com/images/hd/sad-lonely-person-iphone-jnok3qot7mregc7y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sad Cigarettes & Roses Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/sad-cigarettes-roses-iphone-ncydd7b4e5emnlqg.jpg' alt='Sad Cigarettes & Roses Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1244">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/sad-cigarettes-roses-iphone-ncydd7b4e5emnlqg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sad Forever Is Over Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/sad-forever-is-over-iphone-pcs8xnmwwmfwekhc.jpg' alt='Sad Forever Is Over Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/sad-forever-is-over-iphone-pcs8xnmwwmfwekhc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made an iPhone X style Sad Mac wallpaper : r/iphone">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/xk2v6u14t2e01.jpg' alt='I made an iPhone X style Sad Mac wallpaper : r/iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/xk2v6u14t2e01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Depressing Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/depressing-iphone-uulv4v3ts1xyueu8.jpg' alt='100+] Depressing Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/depressing-iphone-uulv4v3ts1xyueu8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sad aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/a9/ec/58/a9ec581943e0b3f357603bc06c65e947.jpg' alt='Sad aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="843">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/a9/ec/58/a9ec581943e0b3f357603bc06c65e947.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sad, alone, alone, black, iphone, sad, sad, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/479/430/HD-wallpaper-sad-alone-alone-black-iphone-sad-sad.jpg' alt='Sad, alone, alone, black, iphone, sad, sad, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/479/430/HD-wallpaper-sad-alone-alone-black-iphone-sad-sad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Sad 4k Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11077782.jpg' alt='iPhone Sad 4k Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1921">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11077782.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I'M OK, abstract, alone, bonito, depression, iphone, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/924/521/HD-wallpaper-i-m-ok-abstract-alone-beautiful-depression-iphone.jpg' alt='I'M OK, abstract, alone, bonito, depression, iphone, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/924/521/HD-wallpaper-i-m-ok-abstract-alone-beautiful-depression-iphone.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

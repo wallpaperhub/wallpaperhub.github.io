@@ -1,0 +1,129 @@
+<title>Paw Patrol Christmas Wallpaper: Festive Fun for Your Devices</title>
+                    <meta name="description" content="Discover vibrant Paw Patrol Christmas wallpaper perfect for fans of all ages. Adorn your devices with festive designs featuring Ryder and his lovable pups. Elevate your holiday spirit with these delightful backgrounds, ensuring your screens radiate cheer throughout the season!">
+                    <meta name="keywords" content="paw patrol christmas wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/paw-patrol-christmas-wallpaper">
+                            <span itemprop="name">paw patrol christmas wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Paw Patrol Christmas Wallpaper: Festive Fun for Your Devices</h1>
+                <p>Paw Patrol Christmas wallpaper brings festive cheer to your devices! Featuring your favorite pups in their holiday gear, these vibrant backgrounds are perfect for spreading joy. Ideal for fans of all ages, you can enjoy the spirit of Christmas with Ryder, Chase, Skye, and the gang. Brighten your screens with adorable holiday scenes!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Merry Christmas to every puppy/people in the world!      Go to my ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3265065142349146245' alt='Merry Christmas to every puppy/people in the world!      Go to my ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3265065142349146245' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wallpaper - 1920x1200 pxls)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/24/3a/e1/243ae1dede0d5166347e5c914f964d9b.jpg' alt='wallpaper - 1920x1200 pxls)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/24/3a/e1/243ae1dede0d5166347e5c914f964d9b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paw Patrol Christmas Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp13095527.jpg' alt='Paw Patrol Christmas Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1655">
+                                <meta itemprop="height" content="1655">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp13095527.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Holiday Pups! by Chocky25 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a41d615-41b9-42df-a5c6-40c01482fd96/dfl2y4s-02ed5ab0-7e88-470f-8d69-1282e3b829e0.png/v1/fill/w_1252,h_638,q_70,strp/holiday_pups__by_chocky25_dfl2y4s-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjA5MCIsInBhdGgiOiJcL2ZcLzdhNDFkNjE1LTQxYjktNDJkZi1hNWM2LTQwYzAxNDgyZmQ5NlwvZGZsMnk0cy0wMmVkNWFiMC03ZTg4LTQ3MGYtOGQ2OS0xMjgyZTNiODI5ZTAucG5nIiwid2lkdGgiOiI8PTQwOTYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.1iBvkWL15RAz0V4_zDbQRS-pMDiz-gfwwqGhuuazcx8' alt='Holiday Pups! by Chocky25 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1252">
+                                <meta itemprop="height" content="638">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a41d615-41b9-42df-a5c6-40c01482fd96/dfl2y4s-02ed5ab0-7e88-470f-8d69-1282e3b829e0.png/v1/fill/w_1252,h_638,q_70,strp/holiday_pups__by_chocky25_dfl2y4s-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjA5MCIsInBhdGgiOiJcL2ZcLzdhNDFkNjE1LTQxYjktNDJkZi1hNWM2LTQwYzAxNDgyZmQ5NlwvZGZsMnk0cy0wMmVkNWFiMC03ZTg4LTQ3MGYtOGQ2OS0xMjgyZTNiODI5ZTAucG5nIiwid2lkdGgiOiI8PTQwOTYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.1iBvkWL15RAz0V4_zDbQRS-pMDiz-gfwwqGhuuazcx8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PAW PATROL Puzzle Christmas Compilation - Satisfying Puzzle for Kids">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/lMxZS1t1foM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAHLT4rTm7FN67Egnf3OHUu3BvPcQ' alt='PAW PATROL Puzzle Christmas Compilation - Satisfying Puzzle for Kids'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/lMxZS1t1foM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAHLT4rTm7FN67Egnf3OHUu3BvPcQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Merry Christmas! Who gave the gift of... - PAW Patrol Live! | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1070634806602594' alt='Merry Christmas! Who gave the gift of... - PAW Patrol Live! | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1875">
+                                <meta itemprop="height" content="985">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1070634806602594' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paw Patrol Christmas">
+                                <img itemprop="contentUrl url" src='https://purpleseamstressfabric.com/wp-content/uploads/2023/02/paw-patrol-christmas-2.jpg' alt='Paw Patrol Christmas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Purpleseamstress Fabric" />
+                                </span>
+                                <a href='https://purpleseamstressfabric.com/wp-content/uploads/2023/02/paw-patrol-christmas-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Very Puppy Christmas! (PAW Patrol)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/7e/15/2e/7e152e93584ce8420bf1c61cf051779d.jpg' alt='A Very Puppy Christmas! (PAW Patrol)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="362">
+                                <meta itemprop="height" content="499">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/7e/15/2e/7e152e93584ce8420bf1c61cf051779d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paw Patrol Template | PosterMyWall">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/paw-patrol-poster-template-e280df07ff992e7915c5f7d4b6fa7a5b_screen.jpg?ts=1592978820' alt='Paw Patrol Template | PosterMyWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="691">
+                                <meta itemprop="height" content="691">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/paw-patrol-poster-template-e280df07ff992e7915c5f7d4b6fa7a5b_screen.jpg?ts=1592978820' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby Hero Paw Patrol Chase Rubble Skye The Mighty Halloween Christmas |  Poster">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.2493626062.5533/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Baby Hero Paw Patrol Chase Rubble Skye The Mighty Halloween Christmas |  Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.2493626062.5533/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

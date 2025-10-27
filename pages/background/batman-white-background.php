@@ -1,0 +1,129 @@
+<title>Batman: Iconic Hero on a White Background</title>
+                    <meta name="description" content="Explore the striking imagery of Batman against a clean white background. This powerful visual juxtaposition enhances his mysterious character while showcasing his iconic symbol, appealing to fans and newcomers alike. Discover the essence of Batman in a fresh light!">
+                    <meta name="keywords" content="batman white background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/batman-white-background">
+                            <span itemprop="name">batman white background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Batman: Iconic Hero on a White Background</h1>
+                <p>Batman, the iconic superhero known for his dark persona and wit, stands out strikingly against a white background, amplifying his presence and allure. This contrasting backdrop highlights his emblematic bat symbol and intense gaze, making his character more captivating and relatable to fans. Experience the dynamic blend of darkness and light!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Batman">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e8/77/cd/e877cdb8738bf7c2d8fe6463ef714f66.jpg' alt='Batman'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="566">
+                                <meta itemprop="height" content="778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e8/77/cd/e877cdb8738bf7c2d8fe6463ef714f66.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Batman">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2d/79/17/2d7917e11f4e9edd68d0014c9846f0aa.jpg' alt='Batman'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="728">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2d/79/17/2d7917e11f4e9edd68d0014c9846f0aa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Clipart Images">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/27/98/dc/2798dca37cd5c826772239ca381c28a9.jpg' alt='Free Clipart Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/27/98/dc/2798dca37cd5c826772239ca381c28a9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Product Photography (part 1) - Amanda Leeland Photography">
+                                <img itemprop="contentUrl url" src='http://www.discoveringmagicinpixels.com/uploads/1/0/2/6/102634606/img-6917-final_orig.jpg' alt='Product Photography (part 1) - Amanda Leeland Photography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amanda Leeland Photography" />
+                                </span>
+                                <a href='http://www.discoveringmagicinpixels.com/uploads/1/0/2/6/102634606/img-6917-final_orig.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Batman wallpaper 4 | I scanned the image from an issue of Su… | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/2452/3911504716_e7762511ba_b.jpg' alt='Batman wallpaper 4 | I scanned the image from an issue of Su… | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/2452/3911504716_e7762511ba_b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Batman PNG transparent image download, size: 729x1095px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/batman_PNG91.png' alt='Batman PNG transparent image download, size: 729x1095px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="729">
+                                <meta itemprop="height" content="1095">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/batman_PNG91.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BVS' Batman - Transparent Background! by SpeedCam on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/11/ff/aa/11ffaae1337437ba34d3e7010cf77529.jpg' alt='BVS' Batman - Transparent Background! by SpeedCam on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1083">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/11/ff/aa/11ffaae1337437ba34d3e7010cf77529.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Batman (universe) | Chronicles of Illusion Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/chroniclesofillusion/images/e/ed/Batman..png/revision/latest?cb=20180327194206' alt='Batman (universe) | Chronicles of Illusion Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="622">
+                                <meta itemprop="height" content="848">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chronicles of Illusion Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/chroniclesofillusion/images/e/ed/Batman..png/revision/latest?cb=20180327194206' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Batman Dynamic Pose Desktop Wallpaper - Batman Wallpaper 4K">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2024/05/batman-dynamic-pose-white-desktop-wallpaper-preview.jpg' alt='Batman Dynamic Pose Desktop Wallpaper - Batman Wallpaper 4K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2024/05/batman-dynamic-pose-white-desktop-wallpaper-preview.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Highquality 3d Batman Full Body Isolated White Background ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/highquality-3d-batman-full-body-isolated-white-background_899449-659976.jpg?w=360' alt='Highquality 3d Batman Full Body Isolated White Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/highquality-3d-batman-full-body-isolated-white-background_899449-659976.jpg?w=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

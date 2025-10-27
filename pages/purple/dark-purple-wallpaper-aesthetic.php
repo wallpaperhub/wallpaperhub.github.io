@@ -1,0 +1,129 @@
+<title>Dark Purple Wallpaper Aesthetic: Elegance Redefined</title>
+                    <meta name="description" content="Discover the enchanting world of dark purple wallpaper aesthetic. Elevate your interior design with this rich hue that adds depth and sophistication to your space. Ideal for creating a cozy atmosphere, it complements various decor styles effortlessly. Embrace elegance in every corner of your home!">
+                    <meta name="keywords" content="dark purple wallpaper aesthetic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/dark-purple-wallpaper-aesthetic">
+                            <span itemprop="name">dark purple wallpaper aesthetic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dark Purple Wallpaper Aesthetic: Elegance Redefined</h1>
+                <p>Transform your space with dark purple wallpaper aesthetic that exudes elegance and mystery. This rich hue adds a touch of drama and sophistication to any room, creating a cozy atmosphere. Perfect for accent walls, it pairs beautifully with metallic accents and soft textures, enhancing the overall aesthetic of your home.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="  photos for dark lovers   | Dark purple wallpaper, Purple ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/80/f0/ec/80f0ecfed16df945fe4bcf44311578c7.jpg' alt='  photos for dark lovers   | Dark purple wallpaper, Purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/80/f0/ec/80f0ecfed16df945fe4bcf44311578c7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Purple Aesthetic Collage Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/dark-purple-aesthetic-collage-2ku1mlb3fihxk1au.jpg' alt='Dark Purple Aesthetic Collage Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/dark-purple-aesthetic-collage-2ku1mlb3fihxk1au.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Purple Aesthetic Quote Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/dark-purple-aesthetic-quote-5kz8emxicrc98209.jpg' alt='Dark Purple Aesthetic Quote Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="502">
+                                <meta itemprop="height" content="904">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/dark-purple-aesthetic-quote-5kz8emxicrc98209.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="340 Purple Grunge Aesthetic ideas | dark purple aesthetic, purple ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/15/87/25/1587255aeba8a82f93e9a0f9d7143667.jpg' alt='340 Purple Grunge Aesthetic ideas | dark purple aesthetic, purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/15/87/25/1587255aeba8a82f93e9a0f9d7143667.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable dark purple wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAF5XyUW7TY/2/0/900w/canva-purple-celestial-watercolor-phone-wallpaper-orcOc9H6YrI.jpg' alt='Free and customizable dark purple wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAF5XyUW7TY/2/0/900w/canva-purple-celestial-watercolor-phone-wallpaper-orcOc9H6YrI.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple aesthetic. Dark purple aesthetic, Purple aesthetic, Sky ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/884/328/HD-wallpaper-purple-aesthetic-dark-purple-aesthetic-purple-aesthetic-sky-aesthetic.jpg' alt='Purple aesthetic. Dark purple aesthetic, Purple aesthetic, Sky ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/884/328/HD-wallpaper-purple-aesthetic-dark-purple-aesthetic-purple-aesthetic-sky-aesthetic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Purple Aesthetic Rose Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/dark-purple-aesthetic-rose-8xn2oospkv14h6v4.jpg' alt='Dark Purple Aesthetic Rose Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1273">
+                                <meta itemprop="height" content="1902">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/dark-purple-aesthetic-rose-8xn2oospkv14h6v4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin em Iphone wallpaper | Dark purple wallpaper, Black and purple ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/61/e5/e8/61e5e855781c6484e184223377d32f56.jpg' alt='Pin em Iphone wallpaper | Dark purple wallpaper, Black and purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/61/e5/e8/61e5e855781c6484e184223377d32f56.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Aesthetic Vintage Dark Purple Collage Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-vintage-purple-p7cy2vs8i7ksljhx.jpg' alt='Download Aesthetic Vintage Dark Purple Collage Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-vintage-purple-p7cy2vs8i7ksljhx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable dark purple wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFq3aUFXtI/1/0/1600w/canva-dark-purple-illustrative-night-city-desktop-wallpaper-HbS6doClKz0.jpg' alt='Free and customizable dark purple wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFq3aUFXtI/1/0/1600w/canva-dark-purple-illustrative-night-city-desktop-wallpaper-HbS6doClKz0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

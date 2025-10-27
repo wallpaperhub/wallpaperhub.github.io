@@ -1,0 +1,129 @@
+<title>George Pickens: Rising NFL Star and Wide Receiver Sensation</title>
+                    <meta name="description" content="Discover the latest on George Pickens, the dynamic wide receiver making waves in the NFL. From his impressive skills to his impact on the Pittsburgh Steelers, stay updated on this rising star's journey and performance in the league.">
+                    <meta name="keywords" content="george pickens">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/george-pickens">
+                            <span itemprop="name">george pickens</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>George Pickens: Rising NFL Star and Wide Receiver Sensation</h1>
+                <p>George Pickens is an emerging star in the NFL, known for his exceptional skills as a wide receiver. Drafted by the Pittsburgh Steelers in 2022, he quickly gained attention for his agility, impressive catches, and ability to read defenses. With a bright future ahead, fans are eager to see how Pickens will impact the league.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="George Pickens 2023 Player Profile | Reception Perception">
+                                <img itemprop="contentUrl url" src='https://receptionperception.com/wp-content/uploads/2024/06/george-pickens.jpg' alt='George Pickens 2023 Player Profile | Reception Perception'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1706">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reception Perception" />
+                                </span>
+                                <a href='https://receptionperception.com/wp-content/uploads/2024/06/george-pickens.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="George Pickens - Pittsburgh Steelers Wide Receiver - ESPN">
+                                <img itemprop="contentUrl url" src='https://a.espncdn.com/i/headshots/nfl/players/full/4426354.png' alt='George Pickens - Pittsburgh Steelers Wide Receiver - ESPN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ESPN" />
+                                </span>
+                                <a href='https://a.espncdn.com/i/headshots/nfl/players/full/4426354.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="George Pickens injury updates: Steelers WR dealing with ailing ...">
+                                <img itemprop="contentUrl url" src='https://theeagleswire.usatoday.com/gcdn/authoring/images/smg/2024/12/09/SMGW/76863301007-69-718080.jpeg?width=660&height=441&fit=crop&format=pjpg&auto=webp' alt='George Pickens injury updates: Steelers WR dealing with ailing ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="441">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eagles Wire - USA Today" />
+                                </span>
+                                <a href='https://theeagleswire.usatoday.com/gcdn/authoring/images/smg/2024/12/09/SMGW/76863301007-69-718080.jpeg?width=660&height=441&fit=crop&format=pjpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steelers expected to pair George Pickens with $60 million former ...">
+                                <img itemprop="contentUrl url" src='https://library.sportingnews.com/styles/twitter_card_120x120/s3/2024-11/George%20Pickens.jpg?itok=FiTJxUgq' alt='Steelers expected to pair George Pickens with $60 million former ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6000">
+                                <meta itemprop="height" content="3375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sporting News" />
+                                </span>
+                                <a href='https://library.sportingnews.com/styles/twitter_card_120x120/s3/2024-11/George%20Pickens.jpg?itok=FiTJxUgq' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steelers Sign Round 2 WR George Pickens">
+                                <img itemprop="contentUrl url" src='https://cdn.profootballrumors.com/files/2022/05/USATSI_17494983.jpg' alt='Steelers Sign Round 2 WR George Pickens'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2810">
+                                <meta itemprop="height" content="3598">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pro Football Rumors" />
+                                </span>
+                                <a href='https://cdn.profootballrumors.com/files/2022/05/USATSI_17494983.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Second-Year Scouting Report: George Pickens">
+                                <img itemprop="contentUrl url" src='https://d18d41pmnj8qe1.cloudfront.net/source/2020/George_Pickens_Steelers.jpg' alt='Second-Year Scouting Report: George Pickens'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FTN Fantasy" />
+                                </span>
+                                <a href='https://d18d41pmnj8qe1.cloudfront.net/source/2020/George_Pickens_Steelers.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pittsburgh Steelers Could Get First-Round Pick for George Pickens?">
+                                <img itemprop="contentUrl url" src='https://images2.minutemediacdn.com/image/upload/c_crop,w_8144,h_4581,x_0,y_291/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/all_steelers/01jmse4qwkb270wmxtvd.jpg' alt='Pittsburgh Steelers Could Get First-Round Pick for George Pickens?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Illustrated" />
+                                </span>
+                                <a href='https://images2.minutemediacdn.com/image/upload/c_crop,w_8144,h_4581,x_0,y_291/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/all_steelers/01jmse4qwkb270wmxtvd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steelers-George Pickens trade talks appear to be off the table">
+                                <img itemprop="contentUrl url" src='https://steelerswire.usatoday.com/wp-content/uploads/sites/76/2025/01/2192445524.jpg?w=1000&h=600&crop=1' alt='Steelers-George Pickens trade talks appear to be off the table'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steelers Wire - USA Today" />
+                                </span>
+                                <a href='https://steelerswire.usatoday.com/wp-content/uploads/sites/76/2025/01/2192445524.jpg?w=1000&h=600&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steelers GM addresses Russell Wilson's future, confirms exit ...">
+                                <img itemprop="contentUrl url" src='https://static.toiimg.com/thumb/msid-118564537,width-400,resizemode-4/118564537.jpg' alt='Steelers GM addresses Russell Wilson's future, confirms exit ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="496">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Times of India" />
+                                </span>
+                                <a href='https://static.toiimg.com/thumb/msid-118564537,width-400,resizemode-4/118564537.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steelers GM Confirms 'Exit Meeting' With George Pickens After ...">
+                                <img itemprop="contentUrl url" src='https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1zLGLW.img?w=768&h=512&m=6&x=578&y=210&s=234&d=234' alt='Steelers GM Confirms 'Exit Meeting' With George Pickens After ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MSN" />
+                                </span>
+                                <a href='https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1zLGLW.img?w=768&h=512&m=6&x=578&y=210&s=234&d=234' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

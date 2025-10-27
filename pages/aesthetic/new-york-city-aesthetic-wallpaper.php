@@ -1,0 +1,129 @@
+<title>Stunning New York City Aesthetic Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore a collection of breathtaking New York City aesthetic wallpapers that capture the essence of urban life. Perfect for personalizing your device, these wallpapers showcase the city's beauty, vibrancy, and artistic energy. Find your favorite design and elevate your screen's style today!">
+                    <meta name="keywords" content="new york city aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/new-york-city-aesthetic-wallpaper">
+                            <span itemprop="name">new york city aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning New York City Aesthetic Wallpapers for Your Device</h1>
+                <p>Transform your device with striking New York City aesthetic wallpaper. From the iconic skyline at sunset to vintage street scenes, each design encapsulates the city's vibrant energy and artistic soul. Perfect for those who love urban flair, these wallpapers bring a dynamic vibe to your screen, making every glance a visual delight.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York City Wallpapers: Free HD Download [500+ HQ] | Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1541336032412-2048a678540d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bmV3JTIweW9yayUyMGNpdHklMjB3YWxscGFwZXJ8ZW58MHx8MHx8fDA%3D' alt='New York City Wallpapers: Free HD Download [500+ HQ] | Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1541336032412-2048a678540d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bmV3JTIweW9yayUyMGNpdHklMjB3YWxscGFwZXJ8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/67/65/5a/67655a3799d087c92455e9cac5832b64.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/67/65/5a/67655a3799d087c92455e9cac5832b64.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="High Angle View of Cityscape Against Cloudy Sky · Free Stock Photo">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/313782/pexels-photo-313782.jpeg' alt='High Angle View of Cityscape Against Cloudy Sky · Free Stock Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5103">
+                                <meta itemprop="height" content="3320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/313782/pexels-photo-313782.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="the million dollar view">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/9f/cc/ed/9fcced2c02c1f01532e3cf20f43c9391.jpg' alt='the million dollar view'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="427">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/9f/cc/ed/9fcced2c02c1f01532e3cf20f43c9391.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York Aesthetic Wallpapers (35 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/4/8/f/1393615-2048x1393-desktop-hd-new-york-aesthetic-wallpaper-photo.jpg' alt='New York Aesthetic Wallpapers (35 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1393">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/4/8/f/1393615-2048x1393-desktop-hd-new-york-aesthetic-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York Aesthetic Street Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/new-york-aesthetic-scene-hb4en7hi82fuc7t6.webp' alt='New York Aesthetic Street Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/new-york-aesthetic-scene-hb4en7hi82fuc7t6.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="500,000+ Best New York City Wallpaper Photos · 100% Free Download ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/597909/pexels-photo-597909.jpeg' alt='500,000+ Best New York City Wallpaper Photos · 100% Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5696">
+                                <meta itemprop="height" content="3797">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/597909/pexels-photo-597909.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] New York Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/new-york-aesthetic-hdj6cfehppy286jt.jpg' alt='100+] New York Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/new-york-aesthetic-hdj6cfehppy286jt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York City Aesthetic Theme Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/new-york-city-aesthetic-theme-1c8audmlnondsmc7.jpg' alt='New York City Aesthetic Theme Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/new-york-city-aesthetic-theme-1c8audmlnondsmc7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York Wallpaper Aesthetic - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/49610470/r/il/cad8ea/5774617513/il_1080xN.5774617513_4prg.jpg' alt='New York Wallpaper Aesthetic - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="603">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/49610470/r/il/cad8ea/5774617513/il_1080xN.5774617513_4prg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

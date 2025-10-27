@@ -1,0 +1,129 @@
+<title>Custom Wallpaper: Personalize Your Walls Today</title>
+                    <meta name="description" content="Discover the beauty of personalized wallpaper! Create a stunning interior that truly reflects your style with customized designs. Perfect for any space, our affordable options will transform your walls and enhance your home's ambiance. Start your decor journey today!">
+                    <meta name="keywords" content="personalized wallpaper for walls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/personalized-wallpaper-for-walls">
+                            <span itemprop="name">personalized wallpaper for walls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Custom Wallpaper: Personalize Your Walls Today</h1>
+                <p>Transform your living space with personalized wallpaper that reflects your unique style. Whether it's vibrant patterns, serene landscapes, or cherished family photos, custom wallpaper allows you to express creativity and individuality. Elevate your home decor and create a welcoming atmosphere that resonates with your personality.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: SIGNFORD Custom Wall Mural Prints with Your Photos Removable  Wallpaper Personalized Wall Decorration for Bedroom Living Room - 100x144  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71hFF5BBgCL.jpg' alt='Amazon.com: SIGNFORD Custom Wall Mural Prints with Your Photos Removable  Wallpaper Personalized Wall Decorration for Bedroom Living Room - 100x144  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1076">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71hFF5BBgCL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Personalized Wallpaper Designed by you - Platon Graphics">
+                                <img itemprop="contentUrl url" src='https://platongraphics.com/wp-content/uploads/2020/07/custom-wallpaper-online-uk-made-scaled-1.jpg' alt='Personalized Wallpaper Designed by you - Platon Graphics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="944">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Platon Graphics" />
+                                </span>
+                                <a href='https://platongraphics.com/wp-content/uploads/2020/07/custom-wallpaper-online-uk-made-scaled-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Wall Murals | Create Your Own Mural | CanvasChamp">
+                                <img itemprop="contentUrl url" src='https://cdn.canvaschamp.com/static/images/landingpage/custom-wall-murals/wall-murals-for-home.png' alt='Custom Wall Murals | Create Your Own Mural | CanvasChamp'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canvas Champ" />
+                                </span>
+                                <a href='https://cdn.canvaschamp.com/static/images/landingpage/custom-wall-murals/wall-murals-for-home.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Wallpaper Murals personalized with Your Own Photos">
+                                <img itemprop="contentUrl url" src='https://platongraphics.com/wp-content/uploads/2020/07/07.jpg' alt='Custom Wallpaper Murals personalized with Your Own Photos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="602">
+                                <meta itemprop="height" content="602">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Platon Graphics" />
+                                </span>
+                                <a href='https://platongraphics.com/wp-content/uploads/2020/07/07.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Wallpaper - Make Your Own Bespoke Mural | Wallsauce US">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/img/uyo-main-image.jpg' alt='Custom Wallpaper - Make Your Own Bespoke Mural | Wallsauce US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="578">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/img/uyo-main-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emotion Customized Unique Wallpaper, Removable, Washable and ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/13128726/r/il/46ce80/2060615198/il_570xN.2060615198_8orz.jpg' alt='Emotion Customized Unique Wallpaper, Removable, Washable and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="735">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/13128726/r/il/46ce80/2060615198/il_570xN.2060615198_8orz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Wallpaper Murals 3D Stereo Space Arch Balcony Landscape ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20679300/r/il/22c295/3012121323/il_570xN.3012121323_1q1j.jpg' alt='Custom Wallpaper Murals 3D Stereo Space Arch Balcony Landscape ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="515">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20679300/r/il/22c295/3012121323/il_570xN.3012121323_1q1j.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Customize Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.trade4asia.com/ProductImg/custom3.jpg' alt='Customize Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Trade4asia" />
+                                </span>
+                                <a href='https://www.trade4asia.com/ProductImg/custom3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bespoke Wallpaper">
+                                <img itemprop="contentUrl url" src='https://raven.contrado.app/resources/images/2024-10/220480/custom-wallpaper1566780_l.png?w=567&h=756&fit=crop&dpr=1&auto=format' alt='Bespoke Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="567">
+                                <meta itemprop="height" content="756">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Contrado" />
+                                </span>
+                                <a href='https://raven.contrado.app/resources/images/2024-10/220480/custom-wallpaper1566780_l.png?w=567&h=756&fit=crop&dpr=1&auto=format' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3d Wallpaper Wall Beauty Living Room | 3d Room Wallpapers Wall Bedroom -  Custom - Aliexpress">
+                                <img itemprop="contentUrl url" src='https://ae01.alicdn.com/kf/S7e1b99614f114360bc7563216d30ff48J.jpg' alt='3d Wallpaper Wall Beauty Living Room | 3d Room Wallpapers Wall Bedroom -  Custom - Aliexpress'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AliExpress" />
+                                </span>
+                                <a href='https://ae01.alicdn.com/kf/S7e1b99614f114360bc7563216d30ff48J.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

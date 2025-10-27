@@ -1,0 +1,129 @@
+<title>Ultimate Messi GOAT Wallpapers for Fans</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="messi is the goat wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/messi">
+                            <span itemprop="name">Messi</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/messi/messi-is-the-goat-wallpaper">
+                            <span itemprop="name">messi is the goat wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ultimate Messi GOAT Wallpapers for Fans</h1>
+                <p>Transform your device with stunning "Messi is the GOAT" wallpapers. Celebrate the football legend with dynamic designs featuring his iconic moments on the pitch. Whether you’re a die-hard fan or appreciate his incredible talent, elevate your screen background and showcase your love for the game and Lionel Messi. Download now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Messi Goat Wallpaper - IXpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8d/d8/bd/8dd8bd69d2212c5e4145bfd87aeb8925.jpg' alt='Messi Goat Wallpaper - IXpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1077">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8d/d8/bd/8dd8bd69d2212c5e4145bfd87aeb8925.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Messi Wallpaper - Messi Goat Wallpaper Hd (#519086) - HD Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/46/4c/23/464c23e150defc0f68c1a32f942aeb3e.jpg' alt='Messi Wallpaper - Messi Goat Wallpaper Hd (#519086) - HD Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/46/4c/23/464c23e150defc0f68c1a32f942aeb3e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Lionel Messi Cristiano Ronaldo Soccer Sports HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/115/thumb-1920-1159549.png' alt='Download Lionel Messi Cristiano Ronaldo Soccer Sports HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/115/thumb-1920-1159549.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barça Universal on X: "Lionel Messi goat wallpapers. | by ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/DydYjE5WkAEdXub.jpg' alt='Barça Universal on X: "Lionel Messi goat wallpapers. | by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/DydYjE5WkAEdXub.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Messi The Goat Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp10402446.jpg' alt='Messi The Goat Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1035">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp10402446.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lionel Messi Goat - 4K Poster - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/39867769/r/il/a53242/4696953309/il_570xN.4696953309_91pj.jpg' alt='Lionel Messi Goat - 4K Poster - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/39867769/r/il/a53242/4696953309/il_570xN.4696953309_91pj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Messi The GOAT 4k Wallpaper">
+                                <img itemprop="contentUrl url" src='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/messi-4_63841821310588.4.jpg' alt='Messi The GOAT 4k Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Hackster" />
+                                </span>
+                                <a href='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/messi-4_63841821310588.4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Messi Goat Trophy Celebration Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/messi-goat-trophy-celebration-gqxzivx0li85ybu6.jpg' alt='Download Messi Goat Trophy Celebration Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="959">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/messi-goat-trophy-celebration-gqxzivx0li85ybu6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Messi has directly contributed to      goals in his last      ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3125763596299776017' alt='Messi has directly contributed to      goals in his last      ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1349">
+                                <meta itemprop="height" content="1687">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3125763596299776017' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GOAT LIONEL MESSI WALLPAPER 2018|17 by 10mohamedmahmoud on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fd7913df-814c-4bc8-80e1-a8186569348f/dc8nsbk-396a2d29-8f3e-482a-81e2-ffbbcb6493d6.png/v1/fill/w_1024,h_1695,q_80,strp/goat_lionel_messi_wallpaper_2018_17_by_10mohamedmahmoud_dc8nsbk-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTY5NSIsInBhdGgiOiJcL2ZcL2ZkNzkxM2RmLTgxNGMtNGJjOC04MGUxLWE4MTg2NTY5MzQ4ZlwvZGM4bnNiay0zOTZhMmQyOS04ZjNlLTQ4MmEtODFlMi1mZmJiY2I2NDkzZDYucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.wNP1e2V11N5wBL8nin0WPkRw6-17enBHcyRyudTi7T8' alt='GOAT LIONEL MESSI WALLPAPER 2018|17 by 10mohamedmahmoud on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1695">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fd7913df-814c-4bc8-80e1-a8186569348f/dc8nsbk-396a2d29-8f3e-482a-81e2-ffbbcb6493d6.png/v1/fill/w_1024,h_1695,q_80,strp/goat_lionel_messi_wallpaper_2018_17_by_10mohamedmahmoud_dc8nsbk-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTY5NSIsInBhdGgiOiJcL2ZcL2ZkNzkxM2RmLTgxNGMtNGJjOC04MGUxLWE4MTg2NTY5MzQ4ZlwvZGM4bnNiay0zOTZhMmQyOS04ZjNlLTQ4MmEtODFlMi1mZmJiY2I2NDkzZDYucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.wNP1e2V11N5wBL8nin0WPkRw6-17enBHcyRyudTi7T8' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

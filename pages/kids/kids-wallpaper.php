@@ -1,0 +1,129 @@
+<title>Enchanting Kids' Wallpaper for Dreamy Spaces</title>
+                    <meta name="description" content="Discover a delightful range of kids' wallpaper designed to inspire and uplift your child's room. Browse fun patterns and characters tailored for creativity and comfort. Easy to put up and remove, our wallpapers create a magical environment for your little ones to play and dream in.">
+                    <meta name="keywords" content="kids' wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kids">
+                            <span itemprop="name">Kids</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kids/kids-wallpaper">
+                            <span itemprop="name">kids' wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enchanting Kids' Wallpaper for Dreamy Spaces</h1>
+                <p>Transform your child's room with vibrant kids' wallpaper that sparks imagination and creativity. From whimsical patterns to favorite characters, our collection offers endless options to enhance playtime and bedtime. Easy to apply and remove, these wallpapers add a personal touch while providing a fun and inviting atmosphere for your little ones.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Kids Wallpaper Nursery Cartoon Animal Fairy Colorful Peel ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/24202607/r/il/7f1e87/3096893895/il_570xN.3096893895_ha6w.jpg' alt='Rainbow Kids Wallpaper Nursery Cartoon Animal Fairy Colorful Peel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="491">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/24202607/r/il/7f1e87/3096893895/il_570xN.3096893895_ha6w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Cozy Cat Pattern Wallpaper | Girls Nursery Wallpaper | Kids  Wallpaper | Childrens Wallpaper | Peel Stick Removable Wallpaper | 936">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/files/ConvertOut-Resized-936.jpg' alt='Floral Cozy Cat Pattern Wallpaper | Girls Nursery Wallpaper | Kids  Wallpaper | Childrens Wallpaper | Peel Stick Removable Wallpaper | 936'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1008">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/files/ConvertOut-Resized-936.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animals for kids">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/interiors/56997/landscape/wallpaper/room75.jpg?w=2000&q=80' alt='Animals for kids'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1090">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/interiors/56997/landscape/wallpaper/room75.jpg?w=2000&q=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jungle and Animals Wall Mural Kids Wallpaper Children's Room Nursery  Toddlers">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/wLsAAOSwYOJj922H/s-l1200.jpg' alt='Jungle and Animals Wall Mural Kids Wallpaper Children's Room Nursery  Toddlers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="888">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/wLsAAOSwYOJj922H/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Self Adhesive Peel and Stick Kids Wallpaper Animals Cartoon Non ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/24202607/r/il/50e2d8/3096895475/il_570xN.3096895475_hm6q.jpg' alt='Self Adhesive Peel and Stick Kids Wallpaper Animals Cartoon Non ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/24202607/r/il/50e2d8/3096895475/il_570xN.3096895475_hm6q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Murwall Kids Wallpaper Cute Little Girl with Cat Wall ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/7128Rl6vZzL._UF894,1000_QL80_.jpg' alt='Amazon.com: Murwall Kids Wallpaper Cute Little Girl with Cat Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="568">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/7128Rl6vZzL._UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Butterfly Wallpaper | Girls Nursery Wallpaper | Kids Wallpaper |  Childrens Wallpaper | Peel Stick Removable Wallpaper | 3912">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3866770418_6jlg.jpg' alt='Floral Butterfly Wallpaper | Girls Nursery Wallpaper | Kids Wallpaper |  Childrens Wallpaper | Peel Stick Removable Wallpaper | 3912'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2801">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3866770418_6jlg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9 Cute Wallpapers for Kids That Are Awe-Inspiring | Wallsauce US">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/images/2021-03/blobid1617178258899.jpg' alt='9 Cute Wallpapers for Kids That Are Awe-Inspiring | Wallsauce US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/images/2021-03/blobid1617178258899.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Murwall Kids Wallpaper for Boys Space Wall Mural ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71MtcETfpnL._UF894,1000_QL80_.jpg' alt='Amazon.com: Murwall Kids Wallpaper for Boys Space Wall Mural ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71MtcETfpnL._UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall murals kids buy in USA - Shop Uwalls">
+                                <img itemprop="contentUrl url" src='https://static.uwalls.com/products/97000/97372/u98694pir3ms_900.webp' alt='Wall murals kids buy in USA - Shop Uwalls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uwalls.com" />
+                                </span>
+                                <a href='https://static.uwalls.com/products/97000/97372/u98694pir3ms_900.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

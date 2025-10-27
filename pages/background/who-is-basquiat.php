@@ -1,0 +1,129 @@
+<title>Who Was Jean-Michel Basquiat? Understanding His Art and Impact</title>
+                    <meta name="description" content="Discover the life and legacy of Jean-Michel Basquiat, a pivotal figure in modern art renowned for his expressive style. Explore his significant contributions to the art world, addressing themes of race and identity. Join us in celebrating the impact of his unique vision and thought-provoking works.">
+                    <meta name="keywords" content="who is basquiat">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/who-is-basquiat">
+                            <span itemprop="name">who is basquiat</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Who Was Jean-Michel Basquiat? Understanding His Art and Impact</h1>
+                <p>Jean-Michel Basquiat was a groundbreaking American artist known for his raw, neo-expressionist style. Emerging from the New York City graffiti scene in the late 1970s, he gained fame for his vibrant paintings that explored themes of race, identity, and social issues. His unique fusion of text and imagery continues to influence contemporary art.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jean-Michel Basquiat - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/5/51/Jean-Michel_Basquiat_1982_by_Andy_Warhol.png' alt='Jean-Michel Basquiat - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/5/51/Jean-Michel_Basquiat_1982_by_Andy_Warhol.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jean-Michel Basquiat - Art, Death & Paintings">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/the27club-basquiat-jean-michel-raw.jpg' alt='Jean-Michel Basquiat - Art, Death & Paintings'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/the27club-basquiat-jean-michel-raw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Basquiat Paintings, Bio, Ideas | TheArtStory">
+                                <img itemprop="contentUrl url" src='https://www.theartstory.org/images20/hero/profile/basquiat_jean_michel.jpg' alt='Basquiat Paintings, Bio, Ideas | TheArtStory'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="846">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Art Story" />
+                                </span>
+                                <a href='https://www.theartstory.org/images20/hero/profile/basquiat_jean_michel.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 interesting facts about Jean-Michel Basquiat | American Masters ...">
+                                <img itemprop="contentUrl url" src='https://www.pbs.org/wnet/americanmasters/files/2018/08/Basquiat_Newsletter.jpg' alt='5 interesting facts about Jean-Michel Basquiat | American Masters ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PBS" />
+                                </span>
+                                <a href='https://www.pbs.org/wnet/americanmasters/files/2018/08/Basquiat_Newsletter.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jean-Michel Basquiat - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Untitled_acrylic_and_mixed_media_on_canvas_by_--Jean-Michel_Basquiat--%2C_1984.jpg/170px-Untitled_acrylic_and_mixed_media_on_canvas_by_--Jean-Michel_Basquiat--%2C_1984.jpg' alt='Jean-Michel Basquiat - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="170">
+                                <meta itemprop="height" content="204">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Untitled_acrylic_and_mixed_media_on_canvas_by_--Jean-Michel_Basquiat--%2C_1984.jpg/170px-Untitled_acrylic_and_mixed_media_on_canvas_by_--Jean-Michel_Basquiat--%2C_1984.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Notable Resident: Jean-Michel Basquiat - Green-Wood">
+                                <img itemprop="contentUrl url" src='https://www.green-wood.com/wp-content/uploads/2010/10/jean_michel_basuiat.jpg' alt='Notable Resident: Jean-Michel Basquiat - Green-Wood'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="308">
+                                <meta itemprop="height" content="309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Green-Wood Cemetery" />
+                                </span>
+                                <a href='https://www.green-wood.com/wp-content/uploads/2010/10/jean_michel_basuiat.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Was Jean-Michel Basquiat? Why Was He Important?">
+                                <img itemprop="contentUrl url" src='https://www.artnews.com/wp-content/uploads/2020/12/AP_17263427583808.jpg?w=2000' alt='Who Was Jean-Michel Basquiat? Why Was He Important?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ARTnews.com" />
+                                </span>
+                                <a href='https://www.artnews.com/wp-content/uploads/2020/12/AP_17263427583808.jpg?w=2000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The story of Jean-Michel Basquiat – Our Weekly">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.ourweekly.com/wp-content/uploads/2022/07/image-7.png?fit=720%2C512&quality=80&ssl=1' alt='The story of Jean-Michel Basquiat – Our Weekly'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Our Weekly" />
+                                </span>
+                                <a href='https://i0.wp.com/www.ourweekly.com/wp-content/uploads/2022/07/image-7.png?fit=720%2C512&quality=80&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art and Design Gallery & Exhibitions in Miami, Florida">
+                                <img itemprop="contentUrl url" src='https://cdn.sanity.io/images/fvhcpakg/production/9e0a3917334c3ecb75f822984e3e920db085f954-1548x870.png' alt='Art and Design Gallery & Exhibitions in Miami, Florida'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1548">
+                                <meta itemprop="height" content="870">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Art and Design Gallery & Exhibitions in Miami, Florida" />
+                                </span>
+                                <a href='https://cdn.sanity.io/images/fvhcpakg/production/9e0a3917334c3ecb75f822984e3e920db085f954-1548x870.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Look back: Jean-Michel Basquiat died 25 years ago today">
+                                <img itemprop="contentUrl url" src='https://www.usatoday.com/gcdn/-mm-/c44d3f8ded1953ebf5216f7c1a80312fca5662a9/c=738-0-2658-1922&r=1920x1922/local/-/media/USATODAY/popcandy/2013/08/12/1376326874000-BASQUIAT.JPG' alt='Look back: Jean-Michel Basquiat died 25 years ago today'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1922">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USA Today" />
+                                </span>
+                                <a href='https://www.usatoday.com/gcdn/-mm-/c44d3f8ded1953ebf5216f7c1a80312fca5662a9/c=738-0-2658-1922&r=1920x1922/local/-/media/USATODAY/popcandy/2013/08/12/1376326874000-BASQUIAT.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

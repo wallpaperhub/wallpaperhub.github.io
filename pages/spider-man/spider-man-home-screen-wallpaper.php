@@ -1,0 +1,129 @@
+<title>Stunning Spider-Man Home Screen Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover a selection of amazing Spider-Man home screen wallpapers perfect for any fan! Download vibrant designs and personalize your device with the ultimate superhero visuals. Easy to apply, these wallpapers bring the web-slinger to life right on your screen!">
+                    <meta name="keywords" content="spider man home screen wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spider-man">
+                            <span itemprop="name">Spider man</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spider-man/spider-man-home-screen-wallpaper">
+                            <span itemprop="name">spider man home screen wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Spider-Man Home Screen Wallpapers for Your Device</h1>
+                <p>Transform your device with stunning Spider-Man home screen wallpapers! Whether you love the classic red and blue suit or the dynamic poses of our friendly neighborhood hero, you'll find a variety of captivating designs to suit your style. Get ready to swing into action every time you unlock your screen!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What's everyone's favorite spider-man photo as their Lock Screen ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/nsees9x0lkoa1.jpg' alt='What's everyone's favorite spider-man photo as their Lock Screen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="891">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/nsees9x0lkoa1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spiderman Suit Home Screen Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/home-screen/images/640/spiderman-suit-home-screen-wallpaper.png' alt='Spiderman Suit Home Screen Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/home-screen/images/640/spiderman-suit-home-screen-wallpaper.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My lock screen wallpaper : r/Spiderman">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/my-lock-screen-wallpaper-v0-m8m3qv4nyy4b1.jpeg?width=800&format=pjpg&auto=webp&s=e53d9ef676dd5e732961a9cc7299cc0d0af84551' alt='My lock screen wallpaper : r/Spiderman'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/my-lock-screen-wallpaper-v0-m8m3qv4nyy4b1.jpeg?width=800&format=pjpg&auto=webp&s=e53d9ef676dd5e732961a9cc7299cc0d0af84551' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spiderman Home Screen and Lock Screen Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/phone/images/640/spiderman.png' alt='Spiderman Home Screen and Lock Screen Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/phone/images/640/spiderman.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spiderman No Way Home Full Screen • For You, Spiderman Portrait ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/363/285/HD-wallpaper-spiderman-no-way-home-full-screen-%E2%80%A2-for-you-spiderman-portrait.jpg' alt='Spiderman No Way Home Full Screen • For You, Spiderman Portrait ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/363/285/HD-wallpaper-spiderman-no-way-home-full-screen-%E2%80%A2-for-you-spiderman-portrait.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 16 Wallpapers | HD & 4K Wallpapers for Apple iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/63/f9/2d/63f92d540da2b0521e48a7426c419d50.jpg' alt='iPhone 16 Wallpapers | HD & 4K Wallpapers for Apple iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="290">
+                                <meta itemprop="height" content="580">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/63/f9/2d/63f92d540da2b0521e48a7426c419d50.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spiderman Lock Screen Hd (#1592495) - HD Wallpaper & Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/31/38/94/31389407ce13ee30860028d6816bec1e.jpg' alt='Spiderman Lock Screen Hd (#1592495) - HD Wallpaper & Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1166">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/31/38/94/31389407ce13ee30860028d6816bec1e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark spider, black spider, lock screen, 2019, spider man, spider ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/567/546/HD-wallpaper-dark-spider-black-spider-lock-screen-2019-spider-man-spider-logo-spider-man-logo-marval.jpg' alt='Dark spider, black spider, lock screen, 2019, spider man, spider ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1068">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/567/546/HD-wallpaper-dark-spider-black-spider-lock-screen-2019-spider-man-spider-logo-spider-man-logo-marval.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made a new wallpaper and gave my home screen an overhaul today : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ulo1tllotjf31.jpg' alt='Made a new wallpaper and gave my home screen an overhaul today : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ulo1tllotjf31.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Spider Man Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/spider-man-phone-r75y1rk7k45apuyw.jpg' alt='100+] Spider Man Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/spider-man-phone-r75y1rk7k45apuyw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

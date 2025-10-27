@@ -1,0 +1,129 @@
+<title>Enhance Your Web Design with CSS Textures</title>
+                    <meta name="description" content="Discover how CSS textures can elevate your web design. Learn about incorporating background images, gradients, and patterns for a visually appealing, user-friendly site. Create dynamic styles while maintaining mobile optimization and fast loading times. Transform your website aesthetics with unique texture designs!">
+                    <meta name="keywords" content="css textures">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/css-textures">
+                            <span itemprop="name">css textures</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enhance Your Web Design with CSS Textures</h1>
+                <p>CSS textures enhance web design by adding depth and visual interest. Utilizing background images, gradients, and patterns, designers can create unique styles that go beyond flat colors. Incorporate subtle textures to improve user experience, while ensuring mobile-friendliness and loading efficiency. Experiment with different styles for a dynamic web presence.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CSS Texture pack [Source Engine] [Works In Progress]">
+                                <img itemprop="contentUrl url" src='https://images.gamebanana.com/img/ss/wips/58bfb0c22a1ad.jpg' alt='CSS Texture pack [Source Engine] [Works In Progress]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameBanana" />
+                                </span>
+                                <a href='https://images.gamebanana.com/img/ss/wips/58bfb0c22a1ad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CSS: Creating textured backgrounds - Stack Overflow">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/pMAiU.jpg' alt='CSS: Creating textured backgrounds - Stack Overflow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1480">
+                                <meta itemprop="height" content="925">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/pMAiU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CSS Texture pack [Source Engine] [Works In Progress]">
+                                <img itemprop="contentUrl url" src='https://images.gamebanana.com/img/ss/wips/58bfb0c2c8081.jpg' alt='CSS Texture pack [Source Engine] [Works In Progress]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1915">
+                                <meta itemprop="height" content="979">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameBanana" />
+                                </span>
+                                <a href='https://images.gamebanana.com/img/ss/wips/58bfb0c2c8081.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Easy Textures with CSS Masks | Viget">
+                                <img itemprop="contentUrl url" src='https://viget.com/uploads/image/blog/grit.png' alt='Easy Textures with CSS Masks | Viget'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="180">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Viget" />
+                                </span>
+                                <a href='https://viget.com/uploads/image/blog/grit.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10+ CSS Background Texture without Image — CodeHim">
+                                <img itemprop="contentUrl url" src='https://codehim.com/wp-content/uploads/2023/10/CSS-Background-Texture-without-Image.png' alt='10+ CSS Background Texture without Image — CodeHim'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CodeHim" />
+                                </span>
+                                <a href='https://codehim.com/wp-content/uploads/2023/10/CSS-Background-Texture-without-Image.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="html - CSS: Combine Texture and Color - Stack Overflow">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/oslRB.png' alt='html - CSS: Combine Texture and Color - Stack Overflow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="307">
+                                <meta itemprop="height" content="292">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/oslRB.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CSS] How to connect metallic, roughness and other textures ...">
+                                <img itemprop="contentUrl url" src='https://www.mapcore.org/uploads/monthly_2022_08/image.png.8de2cce26e61023a5701720bdc989e14.png' alt='CSS] How to connect metallic, roughness and other textures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="541">
+                                <meta itemprop="height" content="137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mapcore" />
+                                </span>
+                                <a href='https://www.mapcore.org/uploads/monthly_2022_08/image.png.8de2cce26e61023a5701720bdc989e14.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CSS Textures">
+                                <img itemprop="contentUrl url" src='https://shots.codepen.io/username/pen/AzowBq-1280.jpg?version=1449011810' alt='CSS Textures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CodePen" />
+                                </span>
+                                <a href='https://shots.codepen.io/username/pen/AzowBq-1280.jpg?version=1449011810' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello and I need help, can anyone tell me how to download CSS ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/3smk6nk1cia81.jpg' alt='Hello and I need help, can anyone tell me how to download CSS ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/3smk6nk1cia81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HOW TO FIX MISSING TEXTURES 2019 (EASY) [UPDATED!] - CSS TEXTURES ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/_IZ-7CAb5WM/sddefault.jpg' alt='HOW TO FIX MISSING TEXTURES 2019 (EASY) [UPDATED!] - CSS TEXTURES ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/_IZ-7CAb5WM/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

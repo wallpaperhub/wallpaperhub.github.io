@@ -1,0 +1,129 @@
+<title>Transform Your Space with Rifle Peel and Stick Wallpaper</title>
+                    <meta name="description" content="Discover the beauty of Rifle peel and stick wallpaper, a hassle-free way to enhance your home decor. Easy to use and stylish, these removable wallpapers are ideal for any room, allowing you to express your personal style without the mess. Perfect for renters and DIY projects!">
+                    <meta name="keywords" content="rifle peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/rifle-peel-and-stick-wallpaper">
+                            <span itemprop="name">rifle peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Rifle Peel and Stick Wallpaper</h1>
+                <p>Rifle peel and stick wallpaper offers a stylish and convenient way to elevate your decor without the commitment of traditional wallpaper. Easy to apply and remove, it features trendy designs that can refresh any room. Perfect for renters or DIY enthusiasts, you can effortlessly create a unique space in minutes!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rifle Paper Co. Juniper Forest Peel & Stick Wallpaper - Evergreen">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/products/PSW1197RL_3c57f7dd-ca1b-4b2d-bb47-49b3860aab10.jpg?v=1609906138' alt='Rifle Paper Co. Juniper Forest Peel & Stick Wallpaper - Evergreen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/products/PSW1197RL_3c57f7dd-ca1b-4b2d-bb47-49b3860aab10.jpg?v=1609906138' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Menagerie Peel & Stick Wallpaper - Black – Rifle Paper Co">
+                                <img itemprop="contentUrl url" src='http://riflepaperco.com/cdn/shop/files/psw1321rl_03_1024x1024.jpg?v=1717037315' alt='Menagerie Peel & Stick Wallpaper - Black – Rifle Paper Co'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="855">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rifle Paper Co" />
+                                </span>
+                                <a href='http://riflepaperco.com/cdn/shop/files/psw1321rl_03_1024x1024.jpg?v=1717037315' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RIFLE PAPER CO. 45 sq. ft. Menagerie Peel and Stick Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/bc3f3ab9-9c83-4ea1-945b-17fac93c8055/svn/rifle-paper-co-wallpaper-rolls-psw1321rl-64_600.jpg' alt='RIFLE PAPER CO. 45 sq. ft. Menagerie Peel and Stick Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/bc3f3ab9-9c83-4ea1-945b-17fac93c8055/svn/rifle-paper-co-wallpaper-rolls-psw1321rl-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rifle Paper Co PSW1469RL Willowberry Blue and White Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/245076.jpg' alt='Rifle Paper Co PSW1469RL Willowberry Blue and White Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/245076.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rifle Paper Co PSW1547RL Woodland Navy Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/261728.jpg' alt='Rifle Paper Co PSW1547RL Woodland Navy Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/261728.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Citrus Grove Peel & Stick Wallpaper - Black – Rifle Paper Co">
+                                <img itemprop="contentUrl url" src='http://riflepaperco.com/cdn/shop/files/was047-03_1024x1024.jpg?v=1717037322' alt='Citrus Grove Peel & Stick Wallpaper - Black – Rifle Paper Co'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="854">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rifle Paper Co" />
+                                </span>
+                                <a href='http://riflepaperco.com/cdn/shop/files/was047-03_1024x1024.jpg?v=1717037322' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rifle Paper Co. Peacock Garden Peel & Stick Wallpaper - Linen">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/files/PSW1538RL_d6651499-cdbf-4b43-8385-cb14f63caf2a.jpg?v=1697733187' alt='Rifle Paper Co. Peacock Garden Peel & Stick Wallpaper - Linen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/files/PSW1538RL_d6651499-cdbf-4b43-8385-cb14f63caf2a.jpg?v=1697733187' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RIFLE PAPER CO. 45 sq. ft. Menagerie Peel and Stick Wallpaper PSW1322RL">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/b1687b09-e6cb-4c99-843a-f5c985c12f22/svn/rifle-paper-co-wallpaper-rolls-psw1322rl-31_600.jpg' alt='RIFLE PAPER CO. 45 sq. ft. Menagerie Peel and Stick Wallpaper PSW1322RL'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/b1687b09-e6cb-4c99-843a-f5c985c12f22/svn/rifle-paper-co-wallpaper-rolls-psw1322rl-31_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rifle Paper Co. Garden Party Peel And Stick Wallpaper Linen Multi ...">
+                                <img itemprop="contentUrl url" src='https://target.scene7.com/is/image/Target/GUEST_7ed4464d-91cf-41d6-a124-5851ca174a50' alt='Rifle Paper Co. Garden Party Peel And Stick Wallpaper Linen Multi ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Target" />
+                                </span>
+                                <a href='https://target.scene7.com/is/image/Target/GUEST_7ed4464d-91cf-41d6-a124-5851ca174a50' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rifle Paper Co Bramble Garden Peel & Stick Wallpaper - Black">
+                                <img itemprop="contentUrl url" src='https://relishdecor.com/cdn/shop/products/PSW1478RL_E96BrambleGardens_RS1ex_650x_7f752ad8-84a4-4a16-9069-19fe1e9b26e7.jpg?v=1679333470&width=1445' alt='Rifle Paper Co Bramble Garden Peel & Stick Wallpaper - Black'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Relish Decor" />
+                                </span>
+                                <a href='https://relishdecor.com/cdn/shop/products/PSW1478RL_E96BrambleGardens_RS1ex_650x_7f752ad8-84a4-4a16-9069-19fe1e9b26e7.jpg?v=1679333470&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Cuddle Up with Cinnamoroll: The Cutest Puppy!</title>
+                    <meta name="description" content="Discover the delightful world of Cinnamoroll, the cutest Sanrio puppy! From his charming antics to heartwarming adventures, explore everything that makes this fluffy character a fan favorite. Perfect for Cinnamoroll lovers of all ages, dive into his magical universe today!">
+                    <meta name="keywords" content="cute cinnamoroll">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cute-cinnamoroll">
+                            <span itemprop="name">cute cinnamoroll</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cuddle Up with Cinnamoroll: The Cutest Puppy!</h1>
+                <p>Cinnamoroll is the adorable puppy character from Sanrio, known for his fluffy ears that resemble cinnamon rolls. With his charming blue eyes and gentle personality, he captures hearts everywhere. Whether he's flying with his ears or enjoying sweet treats with friends, Cinnamoroll radiates cuteness and warmth, perfect for fans of all ages!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="i WILL draw cinnamoroll miku at some point but this will have to ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2932582237406646061' alt='i WILL draw cinnamoroll miku at some point but this will have to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2932582237406646061' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Cinnamoroll     ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0b/11/ce/0b11ceaa3cd391dbc791c54489d88691.jpg' alt='Cute Cinnamoroll     '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="741">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0b/11/ce/0b11ceaa3cd391dbc791c54489d88691.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cinnamoroll - Cute Cartoon Rabbit Character - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://icon2.cleanpng.com/20240331/zcz/transparent-cinnamoroll-bunny-rabbit-cute-adorable-cute-white-bunny-with-big-blue-eyes660a1c2aa50901.91914622.webp' alt='Cinnamoroll - Cute Cartoon Rabbit Character - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://icon2.cleanpng.com/20240331/zcz/transparent-cinnamoroll-bunny-rabbit-cute-adorable-cute-white-bunny-with-big-blue-eyes660a1c2aa50901.91914622.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Cinnamoroll Avatar Design">
+                                <img itemprop="contentUrl url" src='https://avatarfiles.alphacoders.com/367/thumb-1920-367478.jpeg' alt='Cute Cinnamoroll Avatar Design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Avatar Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://avatarfiles.alphacoders.com/367/thumb-1920-367478.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cinnamoroll PFP">
+                                <img itemprop="contentUrl url" src='https://avatarfiles.alphacoders.com/375/thumb-1920-375426.png' alt='Download Cinnamoroll PFP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Avatar Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://avatarfiles.alphacoders.com/375/thumb-1920-375426.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Cinnamoroll Wallpaper HD - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/Qi1WhP1VFiwTx93zN1ZOz-wh8jZ7VvQkNANYCrlFiNgBJPJWLlnZvSs38SCg9BRpZws' alt='Cute Cinnamoroll Wallpaper HD - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/Qi1WhP1VFiwTx93zN1ZOz-wh8jZ7VvQkNANYCrlFiNgBJPJWLlnZvSs38SCg9BRpZws' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Cinnamoroll love">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=61555056762225' alt='Profile for Cinnamoroll love'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=61555056762225' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cinnamoroll | The Sanrio Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/thesanrio/images/2/23/Cinnamoroll.png/revision/latest/scale-to-width-down/372?cb=20110622211953' alt='Cinnamoroll | The Sanrio Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="372">
+                                <meta itemprop="height" content="187">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Sanrio Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/thesanrio/images/2/23/Cinnamoroll.png/revision/latest/scale-to-width-down/372?cb=20110622211953' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Cute and Charming Story of Cinnamoroll – TokuDeals">
+                                <img itemprop="contentUrl url" src='https://www.tokudeals.com/cdn/shop/articles/the-cute-and-charming-story-of-cinnamoroll-551334_975x.jpg?v=1724144891' alt='The Cute and Charming Story of Cinnamoroll – TokuDeals'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="975">
+                                <meta itemprop="height" content="717">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TokuDeals" />
+                                </span>
+                                <a href='https://www.tokudeals.com/cdn/shop/articles/the-cute-and-charming-story-of-cinnamoroll-551334_975x.jpg?v=1724144891' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Today is Cinnamoroll's birthday, so I made a little graphic/post ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/today-is-cinnamorolls-birthday-so-i-made-a-little-graphic-v0-swsof2bvkrmc1.png?auto=webp&s=5f88e7e631a88ee8e56fd5e93ebb389e40581935' alt='Today is Cinnamoroll's birthday, so I made a little graphic/post ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4500">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/today-is-cinnamorolls-birthday-so-i-made-a-little-graphic-v0-swsof2bvkrmc1.png?auto=webp&s=5f88e7e631a88ee8e56fd5e93ebb389e40581935' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

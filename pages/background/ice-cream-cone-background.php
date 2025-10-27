@@ -1,0 +1,129 @@
+<title>Delicious Ice Cream Cone Backgrounds for Every Occasion</title>
+                    <meta name="description" content="Explore a variety of charming ice cream cone backgrounds, perfect for adding a fun touch to your projects. Whether for digital designs or print, our selection captures the joy of ice cream in vibrant colors and delightful patterns. Ideal for social media, parties, or personal use!">
+                    <meta name="keywords" content="ice cream cone background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ice-cream-cone-background">
+                            <span itemprop="name">ice cream cone background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Delicious Ice Cream Cone Backgrounds for Every Occasion</h1>
+                <p>Ice cream cones are a delightful symbol of summer indulgence. Their crispy, golden-brown texture complements a variety of flavors, from classic vanilla to exotic matcha. The cone's cone shape is perfect for holding a generous scoop, making each bite a delightful experience. Whether enjoyed in a park or at a beach, ice cream cones bring joy!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8,600+ Home Made Ice Cream Cone Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1302679757/photo/ice-cream-scoops-in-cones-with-copy-space-on-blue.jpg?s=612x612&w=0&k=20&c=IDqF7Jo4yDFBrUszP8onJrJG2VOYg9EfjOF7tjz3yJc=' alt='8,600+ Home Made Ice Cream Cone Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="345">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1302679757/photo/ice-cream-scoops-in-cones-with-copy-space-on-blue.jpg?s=612x612&w=0&k=20&c=IDqF7Jo4yDFBrUszP8onJrJG2VOYg9EfjOF7tjz3yJc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ice Cream Cone Pattern Images – Browse 57,283 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/92/95/74/360_F_592957440_y9XAvwHBIa1YXJEtfdo3jEE58TA2JS6w.jpg' alt='Ice Cream Cone Pattern Images – Browse 57,283 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="617">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/92/95/74/360_F_592957440_y9XAvwHBIa1YXJEtfdo3jEE58TA2JS6w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ice Cream Cone Illustration with Dripping White Glaze and Wafer ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/02/44/21/96/1000_F_244219646_uBeveVs1zCcKTn8LGGcq1zXARQ46PpsA.jpg' alt='Ice Cream Cone Illustration with Dripping White Glaze and Wafer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/02/44/21/96/1000_F_244219646_uBeveVs1zCcKTn8LGGcq1zXARQ46PpsA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ice Cream Cone Vector Illustration with Dripping White Glaze and ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/023/105/368/non_2x/ice-cream-cone-illustration-with-dripping-white-glaze-and-wafer-texture-abstract-food-background-sweet-pattern-vector.jpg' alt='Ice Cream Cone Vector Illustration with Dripping White Glaze and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1387">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/023/105/368/non_2x/ice-cream-cone-illustration-with-dripping-white-glaze-and-wafer-texture-abstract-food-background-sweet-pattern-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ice Cream Cone Wallpaper Photos and Images & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/bright-colorful-ice-cream-cones-260nw-2333439879.jpg' alt='Ice Cream Cone Wallpaper Photos and Images & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="507">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/bright-colorful-ice-cream-cones-260nw-2333439879.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ice Cream Cone Pattern Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/009/576/599/non_2x/waffle-pattern-ice-cream-cone-texture-sweet-dessert-wafer-background-space-for-your-text-illustration-vector.jpg' alt='Ice Cream Cone Pattern Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1820">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/009/576/599/non_2x/waffle-pattern-ice-cream-cone-texture-sweet-dessert-wafer-background-space-for-your-text-illustration-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel ice cream in waffle cones, bright background, copy space ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/02/71/19/77/1000_F_271197707_gQGU33lNXj9zcAUWd4nDkawyKX2JPmIv.jpg' alt='Pastel ice cream in waffle cones, bright background, copy space ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/02/71/19/77/1000_F_271197707_gQGU33lNXj9zcAUWd4nDkawyKX2JPmIv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ice Cream Cone Wallpaper Stock Illustrations – 9,643 Ice Cream ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/ice-cream-cone-seamless-pattern-background-realistic-bright-pastel-colors-print-web-vector-eps-118029296.jpg' alt='Ice Cream Cone Wallpaper Stock Illustrations – 9,643 Ice Cream ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/ice-cream-cone-seamless-pattern-background-realistic-bright-pastel-colors-print-web-vector-eps-118029296.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ice Cream Waffle Cone Background Graphic by Rizwana Khan ...">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2023/04/02/Ice-Cream-Waffle-Cone-Background-Graphics-65983281-1.jpg' alt='Ice Cream Waffle Cone Background Graphic by Rizwana Khan ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2023/04/02/Ice-Cream-Waffle-Cone-Background-Graphics-65983281-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="80,345 Ice Cream Cone Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/various-ice-cream-flavor-cones-blueberry-strawberry-pistachio-almond-orange-cherry-setup-dark-stone-background-summer-100318250.jpg' alt='80,345 Ice Cream Cone Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/various-ice-cream-flavor-cones-blueberry-strawberry-pistachio-almond-orange-cherry-setup-dark-stone-background-summer-100318250.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

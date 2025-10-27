@@ -1,0 +1,129 @@
+<title>Stunning Purple Samsung Wallpapers - Personalize Your Device</title>
+                    <meta name="description" content="Discover a beautiful collection of purple Samsung wallpapers to elevate your device's look. Perfect for adding a touch of elegance and personality, our wallpapers feature vibrant shades to suit every taste. Transform your home and lock screens with our stunning designs today!">
+                    <meta name="keywords" content="purple samsung wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/purple-samsung-wallpaper">
+                            <span itemprop="name">purple samsung wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Purple Samsung Wallpapers - Personalize Your Device</h1>
+                <p>Enhance your device's aesthetics with stunning purple Samsung wallpapers. From deep shades to soft lavender hues, explore a variety of designs that complement your style. Perfect for personalizing your home screen or lock screen, these wallpapers offer a vibrant touch while reflecting your unique personality. Download now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Desert Galaxy Samsung Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/purple-desert-galaxy-samsung-uju8j0hwx2eo18h4.jpg' alt='Purple Desert Galaxy Samsung Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/purple-desert-galaxy-samsung-uju8j0hwx2eo18h4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Samsung Galaxy S21 Wallpaper 4K, Purple, Stock, AMOLED, Particles">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/samsung-galaxy-s21-stock-amoled-particles-purple-pink-black-2732x2732-3974.png' alt='Samsung Galaxy S21 Wallpaper 4K, Purple, Stock, AMOLED, Particles'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2732">
+                                <meta itemprop="height" content="2732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/samsung-galaxy-s21-stock-amoled-particles-purple-pink-black-2732x2732-3974.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="vo33-galaxy-7-edge-samsung-purple-pattern-wallpaper">
+                                <img itemprop="contentUrl url" src='https://papers.co/wallpaper/papers.co-vo33-galaxy-7-edge-samsung-purple-pattern-41-iphone-wallpaper.jpg' alt='vo33-galaxy-7-edge-samsung-purple-pattern-wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papers.co" />
+                                </span>
+                                <a href='https://papers.co/wallpaper/papers.co-vo33-galaxy-7-edge-samsung-purple-pattern-41-iphone-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Samsung Galaxy S22 Series Bora Purple wallpaper    - Samsung Members">
+                                <img itemprop="contentUrl url" src='https://r2.community.samsung.com/t5/image/serverpage/image-id/3214364i2F6E54890C7BD100?v=v2' alt='Samsung Galaxy S22 Series Bora Purple wallpaper    - Samsung Members'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="1170">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Samsung Members" />
+                                </span>
+                                <a href='https://r2.community.samsung.com/t5/image/serverpage/image-id/3214364i2F6E54890C7BD100?v=v2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Samsung Galaxy Z Flip 3 - Purple - Wallpapers Central">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2021/08/5.jpg' alt='Samsung Galaxy Z Flip 3 - Purple - Wallpapers Central'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1420">
+                                <meta itemprop="height" content="3073">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Central - iSpazio" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2021/08/5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="vt82-curve-samsung-galaxy-art-purple-pattern-wallpaper">
+                                <img itemprop="contentUrl url" src='https://papers.co/wallpaper/papers.co-vt82-curve-samsung-galaxy-art-purple-pattern-41-iphone-wallpaper.jpg' alt='vt82-curve-samsung-galaxy-art-purple-pattern-wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papers.co" />
+                                </span>
+                                <a href='https://papers.co/wallpaper/papers.co-vt82-curve-samsung-galaxy-art-purple-pattern-41-iphone-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Ink Samsung Galaxy Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/phone/images/download/purple-ink.png' alt='Purple Ink Samsung Galaxy Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/phone/images/download/purple-ink.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="160 Best Purple galaxy wallpaper ideas | galaxy wallpaper, purple ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/b0/b9/3e/b0b93e1c1708edf34e02a5dac66217c2.jpg' alt='160 Best Purple galaxy wallpaper ideas | galaxy wallpaper, purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="977">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/b0/b9/3e/b0b93e1c1708edf34e02a5dac66217c2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Samsung Mobile Purple Polygons Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/samsung-mobile-purple-polygons-e3o30l826l7byszq.jpg' alt='Samsung Mobile Purple Polygons Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/samsung-mobile-purple-polygons-e3o30l826l7byszq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Samsung brings new Purple wallpaper to Galaxy S22, grab it now ...">
+                                <img itemprop="contentUrl url" src='https://www.sammyfans.com/wp-content/uploads/2022/07/galaxy-s22-purple-wallpaper-img-2.jpg' alt='Samsung brings new Purple wallpaper to Galaxy S22, grab it now ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="597">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sammy Fans" />
+                                </span>
+                                <a href='https://www.sammyfans.com/wp-content/uploads/2022/07/galaxy-s22-purple-wallpaper-img-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

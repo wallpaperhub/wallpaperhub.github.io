@@ -1,0 +1,129 @@
+<title>Edgy Skull Wallpaper for Unique Wall Decor</title>
+                    <meta name="description" content="Discover the perfect skull wallpaper for your walls! Ideal for adding a bold and artistic flair to any room, our collection features various designs to suit your style. Elevate your space with unique decor that stands out. Shop now for quality and creativity!">
+                    <meta name="keywords" content="skull wallpaper for walls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/skull-wallpaper-for-walls">
+                            <span itemprop="name">skull wallpaper for walls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Edgy Skull Wallpaper for Unique Wall Decor</h1>
+                <p>Transform your space with stunning skull wallpaper for walls that brings an edgy, artistic touch to any room. Perfect for those who appreciate unique decor, this wallpaper offers a blend of style and individuality. Choose from various designs, colors, and sizes to match your aesthetic and create a bold statement in your home or office.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Floral With Skull Wallpaper, Gothic Flower Wall Mural, Peel ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/40990538/r/il/42934a/4626164368/il_fullxfull.4626164368_rr86.jpg' alt='Dark Floral With Skull Wallpaper, Gothic Flower Wall Mural, Peel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/40990538/r/il/42934a/4626164368/il_fullxfull.4626164368_rr86.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black & White Skulls Wall Mural CCM065">
+                                <img itemprop="contentUrl url" src='https://costacover.com/cdn/shop/products/01_e0d98ec5-f1aa-4b0d-bd5f-7cf93687e434_1080x.jpg?v=1676431993' alt='Black & White Skulls Wall Mural CCM065'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CostaCover" />
+                                </span>
+                                <a href='https://costacover.com/cdn/shop/products/01_e0d98ec5-f1aa-4b0d-bd5f-7cf93687e434_1080x.jpg?v=1676431993' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skull Art Skeleton Murals for TV and Sofa Background, Wall Art ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81-ce43viXL.jpg' alt='Skull Art Skeleton Murals for TV and Sofa Background, Wall Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81-ce43viXL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Gothic Wallpaper, Skull Wallpaper Peel and Stick, Mystic ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/49598443/r/il/3c7fe2/6052035941/il_fullxfull.6052035941_dth5.jpg' alt='Dark Gothic Wallpaper, Skull Wallpaper Peel and Stick, Mystic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2876">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/49598443/r/il/3c7fe2/6052035941/il_fullxfull.6052035941_dth5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FLFK Sugar Skull Wallpaper Peel and Stick Removable Wall Mural for Living  Room, Bedroom, Kitchen, Office, Apartment Decor 16"x128" - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91aPEif7XjL.jpg' alt='FLFK Sugar Skull Wallpaper Peel and Stick Removable Wall Mural for Living  Room, Bedroom, Kitchen, Office, Apartment Decor 16"x128" - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91aPEif7XjL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dice and Skulls">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/697322/pr22/1/1280/dice-skulls-skull-wallpaper.jpg' alt='Dice and Skulls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="645">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/697322/pr22/1/1280/dice-skulls-skull-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Skulls Wallpaper in Monochrome – I Love Wallpaper">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/3-FloralSkulls-Monochrome_ILW50341_Roomset_Detail_WEB.webp?crop=center&height=1024&v=1706007976&width=1024' alt='Floral Skulls Wallpaper in Monochrome – I Love Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/3-FloralSkulls-Monochrome_ILW50341_Roomset_Detail_WEB.webp?crop=center&height=1024&v=1706007976&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moody Monochrome Skulls Mural Wallpaper | Ever Wallpaper">
+                                <img itemprop="contentUrl url" src='https://everwallpaper.com/cdn/shop/products/black-and-white-skeleton-wallpaper-for-home.jpg?v=1650356278&width=1445' alt='Moody Monochrome Skulls Mural Wallpaper | Ever Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='https://everwallpaper.com/cdn/shop/products/black-and-white-skeleton-wallpaper-for-home.jpg?v=1650356278&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flowers & Skulls Wallpaper for Walls | Buried Treasure – WallsNeedLove">
+                                <img itemprop="contentUrl url" src='https://wallsneedlove.com/cdn/shop/products/w0466_1s_Flowers-_-Skulls-Wallpaper-for-Walls-Buried-Treasure_For-Living-Rooms-2_cd9a73ee-e920-4a17-b384-8f2553a1ed40_1800x1800.jpg?v=1734718018' alt='Flowers & Skulls Wallpaper for Walls | Buried Treasure – WallsNeedLove'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1113">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='https://wallsneedlove.com/cdn/shop/products/w0466_1s_Flowers-_-Skulls-Wallpaper-for-Walls-Buried-Treasure_For-Living-Rooms-2_cd9a73ee-e920-4a17-b384-8f2553a1ed40_1800x1800.jpg?v=1734718018' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mexican Sugar Skull Wallpaper Mural - Hovia">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1717491707/articles/CH0030MU02W_interior3.jpg' alt='Mexican Sugar Skull Wallpaper Mural - Hovia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="333">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hovia" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1717491707/articles/CH0030MU02W_interior3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

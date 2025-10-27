@@ -1,0 +1,129 @@
+<title>Colorful Rainbow Paw Print Backgrounds for Pet Lovers</title>
+                    <meta name="description" content="Discover the perfect rainbow paw print background to showcase your love for pets! This vibrant, colorful design is ideal for decor, social media, and more. Brighten your space with playful paw prints and celebrate your furry companions in a joyful way. Perfect for pet lovers everywhere!">
+                    <meta name="keywords" content="rainbow paw print background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rainbow-paw-print-background">
+                            <span itemprop="name">rainbow paw print background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Colorful Rainbow Paw Print Backgrounds for Pet Lovers</h1>
+                <p>Bring color to your space with a stunning rainbow paw print background! Ideal for pet lovers, this vibrant design features an array of multicolored paw prints against a soft backdrop, making it perfect for wallpapers, social media, or custom merchandise. Celebrate your furry friends in style and brighten your day!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Dog Paw Stock Illustrations – 558 Rainbow Dog Paw Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/paw-prints-gradient-rainbow-colors-black-background-seamless-pattern-71988940.jpg' alt='Rainbow Dog Paw Stock Illustrations – 558 Rainbow Dog Paw Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/paw-prints-gradient-rainbow-colors-black-background-seamless-pattern-71988940.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Pawprints Seamless Background On White Background Or ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/0f/24/f6/0f24f68a981b4c8efbd5448deaa12393.jpg' alt='Rainbow Pawprints Seamless Background On White Background Or ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/0f/24/f6/0f24f68a981b4c8efbd5448deaa12393.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Paw Prints Images – Browse 5,200 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/09/57/67/59/360_F_957675907_WMurqKD4D3NZhdRl0jCoeubP60VQeac4.jpg' alt='Rainbow Paw Prints Images – Browse 5,200 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/09/57/67/59/360_F_957675907_WMurqKD4D3NZhdRl0jCoeubP60VQeac4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | A rainbow paw print with a rainbow pattern.">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/rainbow-paw-print-with-rainbow-pattern_688395-628.jpg' alt='Premium Vector | A rainbow paw print with a rainbow pattern.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/rainbow-paw-print-with-rainbow-pattern_688395-628.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Paw Prints on Blue Fabric bydragonstarart">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/8619866/p/f/m/KD3yqSA2K5qU-Szf4BTFC1ZvqhnJRxJp2YCmRIY_ht2CTXrFMGA/Rainbow_Paw_Prints_on_Blue.jpg' alt='Rainbow Paw Prints on Blue Fabric bydragonstarart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/8619866/p/f/m/KD3yqSA2K5qU-Szf4BTFC1ZvqhnJRxJp2YCmRIY_ht2CTXrFMGA/Rainbow_Paw_Prints_on_Blue.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow paw print pattern — Design element — Lightstock">
+                                <img itemprop="contentUrl url" src='https://d113wk4ga3f0l0.cloudfront.net/c?o=eJyVkEFvwjAMhf-Lpd1YUlo6QW_TOGzSEAi0c5S1ps1okyh26Qbivy9MaIzjLPnwnn343jsCuT6UqPrQQgENs6dCSsqE7vTBWT2QKF0n44rW1A0Tu3InTKdrJNH71umKhA-u6ks2zsoOK6OVYeyUD7g3ONBfL8-maZLI8UM6mSTTbJzfL_DZLz_tplmXr-t3vdysF4_zN2SZ_Iyau3oVjOWX0lm10swYrErFh69hBDv8itTbfLvNZlEOpuIGiuksGUGDZ9yLiPjeUSSA4gj_i6qJkG8iDjoydDrsSF7_1K8rvK2vLJDnd3ClucjKkGv3qDzG7m3003wEAckcUNVB7w2fcz3FEwY4nb4B9oeShw==&s=f22813f0f55df5906d087cd74540ef3e332a912e' alt='Rainbow paw print pattern — Design element — Lightstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="890">
+                                <meta itemprop="height" content="890">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lightstock" />
+                                </span>
+                                <a href='https://d113wk4ga3f0l0.cloudfront.net/c?o=eJyVkEFvwjAMhf-Lpd1YUlo6QW_TOGzSEAi0c5S1ps1okyh26Qbivy9MaIzjLPnwnn343jsCuT6UqPrQQgENs6dCSsqE7vTBWT2QKF0n44rW1A0Tu3InTKdrJNH71umKhA-u6ks2zsoOK6OVYeyUD7g3ONBfL8-maZLI8UM6mSTTbJzfL_DZLz_tplmXr-t3vdysF4_zN2SZ_Iyau3oVjOWX0lm10swYrErFh69hBDv8itTbfLvNZlEOpuIGiuksGUGDZ9yLiPjeUSSA4gj_i6qJkG8iDjoydDrsSF7_1K8rvK2vLJDnd3ClucjKkGv3qDzG7m3003wEAckcUNVB7w2fcz3FEwY4nb4B9oeShw==&s=f22813f0f55df5906d087cd74540ef3e332a912e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow colors. Colorful paw print background Stock Vector Image ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2BM7AHH/rainbow-colors-colorful-paw-print-background-2BM7AHH.jpg' alt='Rainbow colors. Colorful paw print background Stock Vector Image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2BM7AHH/rainbow-colors-colorful-paw-print-background-2BM7AHH.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Paw Prints wallpaper by 1ArtfulAngel - Download on ZEDGE ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/51/d5/a2/51d5a202bc0737cdd87129a65155245f.jpg' alt='Rainbow Paw Prints wallpaper by 1ArtfulAngel - Download on ZEDGE ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/51/d5/a2/51d5a202bc0737cdd87129a65155245f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fat Quarter - Meow-Za - Rainbow Cat Paws-Cat-C7486-RAINB-FQ">
+                                <img itemprop="contentUrl url" src='https://www.felinedrive.com/assets/images/meowzarainbowpaws.jpg' alt='Fat Quarter - Meow-Za - Rainbow Cat Paws-Cat-C7486-RAINB-FQ'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Feline Drive" />
+                                </span>
+                                <a href='https://www.felinedrive.com/assets/images/meowzarainbowpaws.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animal paw rainbow print seamless... - Stock Illustration ...">
+                                <img itemprop="contentUrl url" src='https://t.pimg.jp/096/544/709/1/96544709.jpg' alt='Animal paw rainbow print seamless... - Stock Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="346">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PIXTA" />
+                                </span>
+                                <a href='https://t.pimg.jp/096/544/709/1/96544709.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

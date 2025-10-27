@@ -1,0 +1,129 @@
+<title>Mastering Blur Transparency: Enhance Your Design</title>
+                    <meta name="description" content="Discover how to effectively use blur transparency in your designs for a sleek, modern look. Learn tips and tricks to create stunning visuals that enhance depth and focus, elevating your creativity. Perfect for web and graphic designers looking to add sophistication to their projects!">
+                    <meta name="keywords" content="blur transparent">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blur-transparent">
+                            <span itemprop="name">blur transparent</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mastering Blur Transparency: Enhance Your Design</h1>
+                <p>Blur transparency is a powerful design technique that involves applying a blur effect to transparent elements, creating a soft, diffused appearance. This method enhances depth and focus, allowing background visuals to merge seamlessly with foreground elements. Ideal for modern web and graphic design, it adds elegance and sophistication.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blur Png Overlay - Vignette Png, Transparent Png(700x458) - PngFind">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b2/72/88/b2728812d4c3f23887b8c345191aa999.jpg' alt='Blur Png Overlay - Vignette Png, Transparent Png(700x458) - PngFind'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="471">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b2/72/88/b2728812d4c3f23887b8c345191aa999.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Transparent Blur Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/white-blurred-background_1034-249.jpg' alt='Transparent Blur Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/white-blurred-background_1034-249.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WebCensor blur effect texture isolated on transparent background ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/04/80/35/20/1000_F_480352049_C3p0VmWZQiSO5cVzZyAfVmaYpvCufj0c.jpg' alt='WebCensor blur effect texture isolated on transparent background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="714">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/04/80/35/20/1000_F_480352049_C3p0VmWZQiSO5cVzZyAfVmaYpvCufj0c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Transparent Blur Png Transparent Download - Transparent Blur Png ...">
+                                <img itemprop="contentUrl url" src='https://www.pngkey.com/png/detail/111-1111447_transparent-blur-png-transparent-download-transparent-blur-png.png' alt='Transparent Blur Png Transparent Download - Transparent Blur Png ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="820">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGkey" />
+                                </span>
+                                <a href='https://www.pngkey.com/png/detail/111-1111447_transparent-blur-png-transparent-download-transparent-blur-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blur PNG Transparent Images Free Download | Vector Files | Pngtree">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20220211/ourmid/pngtree-black-blur-gradient-bottom-shadow-png-image_4386530.png' alt='Blur PNG Transparent Images Free Download | Vector Files | Pngtree'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20220211/ourmid/pngtree-black-blur-gradient-bottom-shadow-png-image_4386530.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Transparent Blur Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-psd/beautiful-white-cloud_23-2151886986.jpg?w=360' alt='Transparent Blur Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-psd/beautiful-white-cloud_23-2151886986.jpg?w=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Blurry Rectangle - Blurry black rectangle design - CleanPNG ...">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180329/pqw/avi2jv7c0.webp' alt='Black Blurry Rectangle - Blurry black rectangle design - CleanPNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180329/pqw/avi2jv7c0.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Transparent Blur Png - Water - Free Transparent PNG Download - PNGkey">
+                                <img itemprop="contentUrl url" src='https://www.pngkey.com/png/detail/10-107968_transparent-blur-png-water.png' alt='Transparent Blur Png - Water - Free Transparent PNG Download - PNGkey'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="820">
+                                <meta itemprop="height" content="573">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGkey" />
+                                </span>
+                                <a href='https://www.pngkey.com/png/detail/10-107968_transparent-blur-png-water.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blur PNGs for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/044/449/879/small/black-and-white-striped-abstract-background-overlay-motion-effect-graphic-illustration-with-transparent-background-png.png' alt='Blur PNGs for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="210">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/044/449/879/small/black-and-white-striped-abstract-background-overlay-motion-effect-graphic-illustration-with-transparent-background-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo & Art Print Censor blur effect texture isolated on ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/v2/jpg/04/85/52/87/1000_F_485528735_KGyMkJdcSasqcykQxKTd68oOXXEefi3r.jpg' alt='Photo & Art Print Censor blur effect texture isolated on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Posters" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/v2/jpg/04/85/52/87/1000_F_485528735_KGyMkJdcSasqcykQxKTd68oOXXEefi3r.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

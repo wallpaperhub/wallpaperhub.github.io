@@ -1,0 +1,129 @@
+<title>Funny GIF Wallpapers for Your iPhone</title>
+                    <meta name="description" content="Discover a collection of hilarious GIF wallpapers for your iPhone that will keep you entertained and smiling! Find the perfect funny GIF to personalize your device and showcase your unique style. Get ready to brighten your day, every time you look at your screen!">
+                    <meta name="keywords" content="funny gif wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/funny-gif-wallpaper-iphone">
+                            <span itemprop="name">funny gif wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Funny GIF Wallpapers for Your iPhone</h1>
+                <p>Looking to add a touch of humor to your iPhone? Funny GIF wallpapers are the perfect way to express your personality with a dash of fun. From cute animals to quirky memes, there’s a GIF wallpaper to make you smile every time you unlock your phone. Enjoy daily laughs right on your home screen!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/cf/a7/2b/cfa72b64e7b428fd44d28df9abca59ac.gif' alt='Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="270">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/cf/a7/2b/cfa72b64e7b428fd44d28df9abca59ac.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Walking Duck Rainbow GIF - Walking Duck Rainbow - Discover & Share ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/47/a2/fb/47a2fbadcce97b155bbc90d5d6c3ba15.gif' alt='Walking Duck Rainbow GIF - Walking Duck Rainbow - Discover & Share ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/47/a2/fb/47a2fbadcce97b155bbc90d5d6c3ba15.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="083ce0b57dad7803eb1e9ba1ae07705f.gif 720×1,230 pixels | Cartoon ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/0a/4a/8e/0a4a8e7dc8cc978af18ce8f5cd765c1f.gif' alt='083ce0b57dad7803eb1e9ba1ae07705f.gif 720×1,230 pixels | Cartoon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1230">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/0a/4a/8e/0a4a8e7dc8cc978af18ce8f5cd765c1f.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Duck Vibe Duck GIF - Duck Vibe Duck Vibes - Discover & Share GIFs">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/3e/c5/bc/3ec5bc7f311d1fcf3966aa6409d70495.gif' alt='Duck Vibe Duck GIF - Duck Vibe Duck Vibes - Discover & Share GIFs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="280">
+                                <meta itemprop="height" content="498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/3e/c5/bc/3ec5bc7f311d1fcf3966aa6409d70495.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Android GIF by Fresh Cake - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media0.giphy.com/media/W0Wbe1ufF3W3rAYrfT/giphy.gif?cid=6c09b952vvcre3kz1rnd9j2klril0m7ufouhgq0o7gxewyf9&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' alt='Iphone Android GIF by Fresh Cake - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="270">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media0.giphy.com/media/W0Wbe1ufF3W3rAYrfT/giphy.gif?cid=6c09b952vvcre3kz1rnd9j2klril0m7ufouhgq0o7gxewyf9&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Wallpaper GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media2.giphy.com/media/hqmtfIzR00swwpynW6/200w.gif?cid=6c09b952pz938nkrlr78teb1mcjn0c8vqhpdw8rtmr3k4nab&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Iphone Wallpaper GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media2.giphy.com/media/hqmtfIzR00swwpynW6/200w.gif?cid=6c09b952pz938nkrlr78teb1mcjn0c8vqhpdw8rtmr3k4nab&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amongusgolpeo GIF - Amongusgolpeo - Discover & Share GIFs">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/ee/a9/15/eea9158957577d7470af1080de4fb87b.gif' alt='Amongusgolpeo GIF - Amongusgolpeo - Discover & Share GIFs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/ee/a9/15/eea9158957577d7470af1080de4fb87b.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny Gif Wallpapers GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/lg5ogJ2DhVkAAAAM/wallpaper-reface.gif' alt='Funny Gif Wallpapers GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="391">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/lg5ogJ2DhVkAAAAM/wallpaper-reface.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Set a GIF as a Live Wallpaper for Your iPhone's Lock Screen ...">
+                                <img itemprop="contentUrl url" src='https://i.giphy.com/8mexVHDAfSf7HdpcbY.gif' alt='How to Set a GIF as a Live Wallpaper for Your iPhone's Lock Screen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="222">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iOS Gadget Hacks" />
+                                </span>
+                                <a href='https://i.giphy.com/8mexVHDAfSf7HdpcbY.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Among Us GIF - Among Us - Discover & Share GIFs">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/5b/15/97/5b1597f2b0f184d469dc76af4d32125d.gif' alt='Among Us GIF - Among Us - Discover & Share GIFs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="280">
+                                <meta itemprop="height" content="498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/5b/15/97/5b1597f2b0f184d469dc76af4d32125d.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

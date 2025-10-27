@@ -1,0 +1,129 @@
+<title>"Discover the Magic of Charlie and the Chocolate Factory"</title>
+                    <meta name="description" content="Dive into the enchanting world of "Charlie and the Chocolate Factory." Join Charlie Bucket on his adventure through Willy Wonka's magical factory, filled with wonders and life lessons. A timeless classic that delights readers of all ages, inspiring imagination and celebrating kindness. Perfect for both young readers and adults!">
+                    <meta name="keywords" content="charlie and the chocolate factory book">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/charlie-and-the-chocolate-factory-book">
+                            <span itemprop="name">charlie and the chocolate factory book</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Discover the Magic of Charlie and the Chocolate Factory"</h1>
+                <p>"Charlie and the Chocolate Factory" is a whimsical tale by Roald Dahl that follows young Charlie Bucket as he embarks on an adventure in Willy Wonka's magical chocolate factory. Filled with enchanting characters and imaginative sweets, the story explores themes of greed, kindness, and the joy of discovery. It's a delightful read for all ages!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charlie and the Chocolate Factory">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81Dp5Of3zeL._AC_UF1000,1000_QL80_.jpg' alt='Charlie and the Chocolate Factory'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="654">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81Dp5Of3zeL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charlie and the Chocolate Factory">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81R1kuhws4L._AC_UF1000,1000_QL80_.jpg' alt='Charlie and the Chocolate Factory'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="665">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81R1kuhws4L._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charlie and the Chocolate Factory (Puffin Modern Classics ...">
+                                <img itemprop="contentUrl url" src='https://images.booksense.com/images/088/401/9780142401088.jpg' alt='Charlie and the Chocolate Factory (Puffin Modern Classics ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="285">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hudson Booksellers" />
+                                </span>
+                                <a href='https://images.booksense.com/images/088/401/9780142401088.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charlie and the Chocolate Factory by Roald Dahl 1988 Paperback ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25003448/r/il/96b0ab/4830347425/il_fullxfull.4830347425_4x56.jpg' alt='Charlie and the Chocolate Factory by Roald Dahl 1988 Paperback ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25003448/r/il/96b0ab/4830347425/il_fullxfull.4830347425_4x56.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charlie and the Chocolate Factory by Roald Dahl (Paperback)">
+                                <img itemprop="contentUrl url" src='https://www.myimaginationkingdom.com/cdn/shop/products/charlie_chocolate.jpg?v=1459668287' alt='Charlie and the Chocolate Factory by Roald Dahl (Paperback)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1335">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="My Imagination Kingdom" />
+                                </span>
+                                <a href='https://www.myimaginationkingdom.com/cdn/shop/products/charlie_chocolate.jpg?v=1459668287' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charlie and the Chocolate Factory">
+                                <img itemprop="contentUrl url" src='https://treehousetoys.us/cdn/shop/products/web3.46.03PM_22dab35a-126c-4846-9e23-bf8cf66bea73.jpg?v=1653598698&width=1500' alt='Charlie and the Chocolate Factory'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Treehouse Toys" />
+                                </span>
+                                <a href='https://treehousetoys.us/cdn/shop/products/web3.46.03PM_22dab35a-126c-4846-9e23-bf8cf66bea73.jpg?v=1653598698&width=1500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charlie and the Chocolate Factory (Paperback) | Parnassus Books">
+                                <img itemprop="contentUrl url" src='https://images.booksense.com/images/215/418/9780142418215.jpg' alt='Charlie and the Chocolate Factory (Paperback) | Parnassus Books'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="296">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Parnassus Books" />
+                                </span>
+                                <a href='https://images.booksense.com/images/215/418/9780142418215.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charlie and the Chocolate Factory by Roald Dahl (Hardcover)">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/RvcAAOSwnKBf~lvm/s-l640.jpg' alt='Charlie and the Chocolate Factory by Roald Dahl (Hardcover)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="337">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/RvcAAOSwnKBf~lvm/s-l640.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charlie and the Chocolate Factory : The Golden Edition (Paperback)">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Charlie-and-the-Chocolate-Factory-The-Golden-Edition-Paperback-9780593349663_10a2ae1d-5d82-4bdb-9136-20b7699abf69.d18122bbe8141993696d7e62a14bd93c.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Charlie and the Chocolate Factory : The Golden Edition (Paperback)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Charlie-and-the-Chocolate-Factory-The-Golden-Edition-Paperback-9780593349663_10a2ae1d-5d82-4bdb-9136-20b7699abf69.d18122bbe8141993696d7e62a14bd93c.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charlie and the Chocolate Factory by Roald Dahl, Illustrated by ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/43422145/r/il/182a55/5494794605/il_1080xN.5494794605_790y.jpg' alt='Charlie and the Chocolate Factory by Roald Dahl, Illustrated by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/43422145/r/il/182a55/5494794605/il_1080xN.5494794605_790y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

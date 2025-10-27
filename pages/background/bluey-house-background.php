@@ -1,0 +1,129 @@
+<title>Discover the Charming Bluey House Background</title>
+                    <meta name="description" content="Explore the delightful and vibrant background of Bluey’s house! This playful setting reflects the essence of joy, family, and adventure. Perfect for fans and creative play, dive into the charming features that make Bluey’s home a haven of imagination.">
+                    <meta name="keywords" content="bluey house background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bluey-house-background">
+                            <span itemprop="name">bluey house background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Charming Bluey House Background</h1>
+                <p>The "Bluey" house background is a bright, whimsical setting that captures the essence of playfulness and family life. The cozy home features vibrant colors, a spacious backyard, and identifiable spaces from the show, inviting children to engage their imagination. This charming backdrop enhances the show's themes of creativity and adventure.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The 'Bluey' House: A Look Inside The Kitchen, Backyard, & More Rooms">
+                                <img itemprop="contentUrl url" src='https://imgix.bustle.com/uploads/image/2024/4/3/1bbabc5f-1af6-46ce-ae25-7c5ad433c6f7-screen-shot-2024-04-02-at-51946-pm.png?w=1200&h=1200&fit=crop&crop=faces&fm=jpg' alt='The 'Bluey' House: A Look Inside The Kitchen, Backyard, & More Rooms'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Romper" />
+                                </span>
+                                <a href='https://imgix.bustle.com/uploads/image/2024/4/3/1bbabc5f-1af6-46ce-ae25-7c5ad433c6f7-screen-shot-2024-04-02-at-51946-pm.png?w=1200&h=1200&fit=crop&crop=faces&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Looking for Bluey's House Wallpaper in 4K : r/bluey">
+                                <img itemprop="contentUrl url" src='https://www.bluey.tv/wp-content/uploads/2024/02/Valentines-Sky.png' alt='Looking for Bluey's House Wallpaper in 4K : r/bluey'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://www.bluey.tv/wp-content/uploads/2024/02/Valentines-Sky.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Reasons Why We Want To Live In Bluey's House - realestate.com.au">
+                                <img itemprop="contentUrl url" src='https://lh6.googleusercontent.com/7M4FzAg1R30ZVe3PAur19VpaXIA9zv33ckFFWT61tR-bUJJDAgpsl0DFgU6D6c40IyG0EiMm6GJIvmNLxj8bs_g28jCrEkHmG2TexsjXVWNsxYtBc2EI7PJvDxTKFiFULxZnAr8T' alt='7 Reasons Why We Want To Live In Bluey's House - realestate.com.au'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="712">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Realestate" />
+                                </span>
+                                <a href='https://lh6.googleusercontent.com/7M4FzAg1R30ZVe3PAur19VpaXIA9zv33ckFFWT61tR-bUJJDAgpsl0DFgU6D6c40IyG0EiMm6GJIvmNLxj8bs_g28jCrEkHmG2TexsjXVWNsxYtBc2EI7PJvDxTKFiFULxZnAr8T' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Reasons Why We Want To Live In Bluey's House - realestate.com.au">
+                                <img itemprop="contentUrl url" src='https://lh3.googleusercontent.com/yV1MXYBodsGqykGquak76G-GpRWPTOtytuHpkWSHSS8oLdc6QJwc2panpyy4eOf-7UVrBac5KVV7J_C1nVCCiMLetdT8F0Ovpz0qTDd5eqscLXu8IdkqzcYuoDKKtuZjGfOnr-mA' alt='7 Reasons Why We Want To Live In Bluey's House - realestate.com.au'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Realestate" />
+                                </span>
+                                <a href='https://lh3.googleusercontent.com/yV1MXYBodsGqykGquak76G-GpRWPTOtytuHpkWSHSS8oLdc6QJwc2panpyy4eOf-7UVrBac5KVV7J_C1nVCCiMLetdT8F0Ovpz0qTDd5eqscLXu8IdkqzcYuoDKKtuZjGfOnr-mA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bluey - Bluey ha actualitzat la seva foto de portada.">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=724220449844711' alt='Bluey - Bluey ha actualitzat la seva foto de portada.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2432">
+                                <meta itemprop="height" content="1068">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=724220449844711' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bluey House Listed on Real Estate Website - Theme Park Professor">
+                                <img itemprop="contentUrl url" src='https://www.themeparkprofessor.com/wp-content/uploads/2024/04/IMG_4984.jpeg' alt='Bluey House Listed on Real Estate Website - Theme Park Professor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="689">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Theme Park Professor" />
+                                </span>
+                                <a href='https://www.themeparkprofessor.com/wp-content/uploads/2024/04/IMG_4984.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bluey's & Bingo's room   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b9/ec/94/b9ec945742a2a3f67f1459c2f0f0fd4b.jpg' alt='Bluey's & Bingo's room   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="407">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b9/ec/94/b9ec945742a2a3f67f1459c2f0f0fd4b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Join Bluey and family on their fun outdoor adventures ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/bluey-background-72xnm95e3rm0hh76.jpg' alt='Download Join Bluey and family on their fun outdoor adventures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1066">
+                                <meta itemprop="height" content="1240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/bluey-background-72xnm95e3rm0hh76.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Creating a 3D Heeler home - Bluey Official Website">
+                                <img itemprop="contentUrl url" src='https://www.bluey.tv/wp-content/uploads/2022/01/Pablo-heeler-house-design-1-1024x435.jpg' alt='Creating a 3D Heeler home - Bluey Official Website'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="435">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bluey" />
+                                </span>
+                                <a href='https://www.bluey.tv/wp-content/uploads/2022/01/Pablo-heeler-house-design-1-1024x435.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="So I found this photo online and i think it's from an upcoming ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3195487699066853501' alt='So I found this photo online and i think it's from an upcoming ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3195487699066853501' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

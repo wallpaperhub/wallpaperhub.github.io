@@ -1,0 +1,129 @@
+<title>Does a Medical Marijuana Card Show Up on Background Checks?</title>
+                    <meta name="description" content="Find out whether a medical marijuana card shows up on background checks. Learn about privacy laws and what employers can see regarding your medical marijuana status. Discover how this impacts job applications and your rights as a patient.">
+                    <meta name="keywords" content="does medical marijuana card show up on background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/does-medical-marijuana-card-show-up-on-background-check">
+                            <span itemprop="name">does medical marijuana card show up on background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Does a Medical Marijuana Card Show Up on Background Checks?</h1>
+                <p>Medical marijuana cards generally do not appear on standard background checks, as these checks primarily focus on criminal records and financial history. However, specific employers or agencies may conduct more in-depth searches where such information could potentially be revealed. Always verify local laws and employer policies.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does a Medical Marijuana Card Show Up on Background Check?">
+                                <img itemprop="contentUrl url" src='https://www.veriheal.com/blog/wp-content/uploads/2024/01/Background-Checks.jpg' alt='Does a Medical Marijuana Card Show Up on Background Check?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Veriheal" />
+                                </span>
+                                <a href='https://www.veriheal.com/blog/wp-content/uploads/2024/01/Background-Checks.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Medical Marijuana Cards Show Up On Background Checks?">
+                                <img itemprop="contentUrl url" src='https://www.thefreedomcenter.com/wp-content/uploads/2022/04/does-having-a-medical-card-show-up-on-a-background-check.jpg' alt='Do Medical Marijuana Cards Show Up On Background Checks?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Freedom Center" />
+                                </span>
+                                <a href='https://www.thefreedomcenter.com/wp-content/uploads/2022/04/does-having-a-medical-card-show-up-on-a-background-check.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does a Medical Marijuana Card Show Up On a Background Check Florida?">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/b1be6e_5ef2a49ac0e14982b7f4be91358f2079~mv2.png/v1/fill/w_488,h_484,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/b1be6e_5ef2a49ac0e14982b7f4be91358f2079~mv2.png' alt='Does a Medical Marijuana Card Show Up On a Background Check Florida?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="488">
+                                <meta itemprop="height" content="484">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ARCannabisClinic" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/b1be6e_5ef2a49ac0e14982b7f4be91358f2079~mv2.png/v1/fill/w_488,h_484,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/b1be6e_5ef2a49ac0e14982b7f4be91358f2079~mv2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does medical marijuana card show up on government background ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/does-medical-marijuana-card-show-up-on-government-v0-qppmv9xxz94b1.jpeg?width=1284&format=pjpg&auto=webp&s=b87096ad162af7ce812f6609d86b65536c1edf0a' alt='Does medical marijuana card show up on government background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="959">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/does-medical-marijuana-card-show-up-on-government-v0-qppmv9xxz94b1.jpeg?width=1284&format=pjpg&auto=webp&s=b87096ad162af7ce812f6609d86b65536c1edf0a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does a Medical Marijuana Card Show Up on Background Checks? What ...">
+                                <img itemprop="contentUrl url" src='https://s3-us-west-1.amazonaws.com/hopegrown/blog-images/_blogPrimary/medical-marijuana-card-gaia-verde-with-privacy-lock-symbol-hopegrown.jpeg' alt='Does a Medical Marijuana Card Show Up on Background Checks? What ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1680">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hopegrown" />
+                                </span>
+                                <a href='https://s3-us-west-1.amazonaws.com/hopegrown/blog-images/_blogPrimary/medical-marijuana-card-gaia-verde-with-privacy-lock-symbol-hopegrown.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does a Medical Marijuana Card Show Up on a Background Check in ...">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/b1be6e_6f87c75c36bb4d0ea258f1bd8310f0da~mv2.png/v1/fill/w_488,h_490,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/b1be6e_6f87c75c36bb4d0ea258f1bd8310f0da~mv2.png' alt='Does a Medical Marijuana Card Show Up on a Background Check in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="488">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ARCannabisClinic" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/b1be6e_6f87c75c36bb4d0ea258f1bd8310f0da~mv2.png/v1/fill/w_488,h_490,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/b1be6e_6f87c75c36bb4d0ea258f1bd8310f0da~mv2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does a Medical Marijuana Card Show Up on a Background Check in ...">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/b1be6e_f1af3a6bd17f4b5e96a0725161fdb9a4~mv2.png/v1/fill/w_488,h_486,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/b1be6e_f1af3a6bd17f4b5e96a0725161fdb9a4~mv2.png' alt='Does a Medical Marijuana Card Show Up on a Background Check in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="488">
+                                <meta itemprop="height" content="486">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ARCannabisClinic" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/b1be6e_f1af3a6bd17f4b5e96a0725161fdb9a4~mv2.png/v1/fill/w_488,h_486,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/b1be6e_f1af3a6bd17f4b5e96a0725161fdb9a4~mv2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does a Medical Marijuana Card Show Up On a Background Check in Ohio?">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/b1be6e_373af687bfdc4918bf63b42d0d546056~mv2.png/v1/fill/w_612,h_612,al_c,q_90/b1be6e_373af687bfdc4918bf63b42d0d546056~mv2.png' alt='Does a Medical Marijuana Card Show Up On a Background Check in Ohio?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ARCannabisClinic" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/b1be6e_373af687bfdc4918bf63b42d0d546056~mv2.png/v1/fill/w_612,h_612,al_c,q_90/b1be6e_373af687bfdc4918bf63b42d0d546056~mv2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does a Medical Marijuana Card Show Up on Background Checks? What ...">
+                                <img itemprop="contentUrl url" src='https://s3-us-west-1.amazonaws.com/hopegrown/blog-images/sample-medical-marijuana-registry-card-hopegrown.jpeg' alt='Does a Medical Marijuana Card Show Up on Background Checks? What ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1201">
+                                <meta itemprop="height" content="686">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hopegrown" />
+                                </span>
+                                <a href='https://s3-us-west-1.amazonaws.com/hopegrown/blog-images/sample-medical-marijuana-registry-card-hopegrown.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will A Medical Card Show Up on a Background Check? - Rethink-Rx">
+                                <img itemprop="contentUrl url" src='https://rethink-rx.com/wp-content/uploads/2023/11/employment-background-check.jpg' alt='Will A Medical Card Show Up on a Background Check? - Rethink-Rx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rethink-Rx" />
+                                </span>
+                                <a href='https://rethink-rx.com/wp-content/uploads/2023/11/employment-background-check.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

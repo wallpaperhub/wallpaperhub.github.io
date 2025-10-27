@@ -1,0 +1,129 @@
+<title>High-Quality Umbrella PNG Images for Creative Designs</title>
+                    <meta name="description" content="Discover a collection of stunning umbrella PNG images perfect for your creative projects. Easily incorporate these transparent-background graphics into your designs to elevate your visuals and captivate your audience. Ideal for marketing materials, presentations, and more!">
+                    <meta name="keywords" content="umbrella png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/umbrella-png">
+                            <span itemprop="name">umbrella png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>High-Quality Umbrella PNG Images for Creative Designs</h1>
+                <p>Umbrella PNG images are versatile graphics ideal for various design projects, ranging from weather-themed layouts to event promotions. These transparent background images allow seamless integration into any artwork. Use umbrella PNGs to enhance your visuals with style and creativity, ensuring they stand out in your marketing materials or personal projects.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Umbrella PNG transparent image download, size: 1024x1024px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/umbrella_PNG69155.png' alt='Umbrella PNG transparent image download, size: 1024x1024px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/umbrella_PNG69155.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Umbrella PNG Clip Art Image​ | Gallery Yopriceville - High-Quality ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/downloadfullsize/send/23655' alt='Umbrella PNG Clip Art Image​ | Gallery Yopriceville - High-Quality ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="8000">
+                                <meta itemprop="height" content="6006">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/downloadfullsize/send/23655' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Umbrella PNG Clipart Image​ | Gallery Yopriceville - High ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/downloadfullsize/send/9917' alt='Red Umbrella PNG Clipart Image​ | Gallery Yopriceville - High ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6414">
+                                <meta itemprop="height" content="5281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/downloadfullsize/send/9917' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Umbrella PNG Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA0L3N2MTQ5MTg0LWltYWdlLTAyLWpvYjcwNi5wbmc.png' alt='Umbrella PNG Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="571">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA0L3N2MTQ5MTg0LWltYWdlLTAyLWpvYjcwNi5wbmc.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3d Umbrella Png Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/realistic-blue-umbrella_1284-11412.jpg' alt='3d Umbrella Png Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/realistic-blue-umbrella_1284-11412.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector Multicolor Umbrella PNG - freepng">
+                                <img itemprop="contentUrl url" src='https://freepng.com/uploads/images/202302/ree-vector-multicolor-umbrella-png_1020x.jpg' alt='Free Vector Multicolor Umbrella PNG - freepng'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="freepng" />
+                                </span>
+                                <a href='https://freepng.com/uploads/images/202302/ree-vector-multicolor-umbrella-png_1020x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Umbrella PNG transparent image download, size: 600x476px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/umbrella_PNG69186.png' alt='Umbrella PNG transparent image download, size: 600x476px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="476">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/umbrella_PNG69186.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Umbrella, Cartoon Umbrella, image File Formats, umbrella png | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/284/52/png-clipart-umbrella-cartoon-umbrella-image-file-formats-umbrella.png' alt='Umbrella, Cartoon Umbrella, image File Formats, umbrella png | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="898">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/284/52/png-clipart-umbrella-cartoon-umbrella-image-file-formats-umbrella.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="background-Umbrella-transparent png for Free Download | DLPNG">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f9/73/7f/f9737f189cf0d0bda7cd4bdae919615e.jpg' alt='background-Umbrella-transparent png for Free Download | DLPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f9/73/7f/f9737f189cf0d0bda7cd4bdae919615e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Umbrella PNG Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA0L3N2MTQ5MTg0LWltYWdlLWpvYjcwNi1ybTY0OS5wbmc.png' alt='Umbrella PNG Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA0L3N2MTQ5MTg0LWltYWdlLWpvYjcwNi1ybTY0OS5wbmc.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

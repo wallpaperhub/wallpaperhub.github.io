@@ -1,0 +1,129 @@
+<title>Stylish Hearts Wallpaper: Love Your Space</title>
+                    <meta name="description" content="Discover the perfect hearts wallpaper to brighten up your home! Explore a variety of designs that add charm and elegance to any room. Shop now for high-quality options that bring warmth and love to your space. Perfect for any decor style and ideal for a cozy atmosphere!">
+                    <meta name="keywords" content="hearts wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/hearts-wallpaper">
+                            <span itemprop="name">hearts wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Hearts Wallpaper: Love Your Space</h1>
+                <p>Transform your space with our stunning hearts wallpaper! Perfect for adding a touch of love and charm to any room, our selection features diverse styles and colors. Whether you're redecorating a bedroom or sprucing up a cozy nook, our hearts wallpaper will create a warm and inviting atmosphere, making your space truly special.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable wallpaper heart templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFXkszR_Ds/1/0/900w/canva-red-beige-cute-valentine%27s-day-hearts-pattern-phone-wallpaper-pYkf_3Zs4QA.jpg' alt='Free and customizable wallpaper heart templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFXkszR_Ds/1/0/900w/canva-red-beige-cute-valentine%27s-day-hearts-pattern-phone-wallpaper-pYkf_3Zs4QA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable wallpaper heart templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAEvPRTwFtU/3/0/1600w/canva-beige-doodle-heart-desktop-wallpaper-zwtpUKFUbWs.jpg' alt='Free and customizable wallpaper heart templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAEvPRTwFtU/3/0/1600w/canva-beige-doodle-heart-desktop-wallpaper-zwtpUKFUbWs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Falling Hearts Galaxy Wallpaper #androidwallpaper #iphonewallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/62/df/8f/62df8f2eca183014b89a965cc8d6b22a.jpg' alt='Falling Hearts Galaxy Wallpaper #androidwallpaper #iphonewallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/62/df/8f/62df8f2eca183014b89a965cc8d6b22a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Hearts Wallpaper">
+                                <img itemprop="contentUrl url" src='http://www.wellappointedhouse.com/cdn/shop/files/pink-hearts-wallpaper-little-loves-wallpaper-the-well-appointed-house-1_b0764cdf-8478-4b1b-9aa8-ad5402f3bff3.webp?v=1724889971' alt='Pink Hearts Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Well Appointed House" />
+                                </span>
+                                <a href='http://www.wellappointedhouse.com/cdn/shop/files/pink-hearts-wallpaper-little-loves-wallpaper-the-well-appointed-house-1_b0764cdf-8478-4b1b-9aa8-ad5402f3bff3.webp?v=1724889971' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Abstract pink background with red hearts wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/abstract-pink-background-with-red-hearts-wallpaper-mobile-devices-3d-illustration_116441-27745.jpg?w=360' alt='Premium Photo | Abstract pink background with red hearts wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="541">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/abstract-pink-background-with-red-hearts-wallpaper-mobile-devices-3d-illustration_116441-27745.jpg?w=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hearts Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b6/45/08/b645085a786af8ad5f35038286272757.jpg' alt='Hearts Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b6/45/08/b645085a786af8ad5f35038286272757.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute heart 2025 background">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/two-intricately-designed-cute-hearts-set-in-pastel-background-1v390rnhflort2lm.jpg' alt='Cute heart 2025 background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="722">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/two-intricately-designed-cute-hearts-set-in-pastel-background-1v390rnhflort2lm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WALLPAPER HEART FREE VECTOR Vector Download">
+                                <img itemprop="contentUrl url" src='https://images.vexels.com/content/2452/preview/wallpaper-heart-free-vector-1754fa.png' alt='WALLPAPER HEART FREE VECTOR Vector Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="941">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vexels" />
+                                </span>
+                                <a href='https://images.vexels.com/content/2452/preview/wallpaper-heart-free-vector-1754fa.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IPhone Valentine's Day Pink Hearts Wallpaper Digital Download, Pretty  Watercolor Hearts on Pink Background Instant Download">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/31650537/r/il/d7eab6/5646904144/il_570xN.5646904144_f6a2.jpg' alt='IPhone Valentine's Day Pink Hearts Wallpaper Digital Download, Pretty  Watercolor Hearts on Pink Background Instant Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/31650537/r/il/d7eab6/5646904144/il_570xN.5646904144_f6a2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Love Hearts Pattern Pink Wallpaper - Aesthetic Heart Wallpaper 4k">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2022/09/love-hearts-pattern-pink-wallpaper-2-scaled.jpg' alt='Love Hearts Pattern Pink Wallpaper - Aesthetic Heart Wallpaper 4k'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1183">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2022/09/love-hearts-pattern-pink-wallpaper-2-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

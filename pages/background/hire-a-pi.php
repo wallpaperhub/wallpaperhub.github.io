@@ -1,0 +1,129 @@
+<title>Find Trusted Private Investigators for Your Needs</title>
+                    <meta name="description" content="Looking to hire a reliable private investigator? Our experts specialize in discreet investigations, background checks, and surveillance. Get professional help for legal cases or personal matters. Fast, confidential, and effective services tailored to your specific needs. Contact us today!">
+                    <meta name="keywords" content="hire a pi">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/hire-a-pi">
+                            <span itemprop="name">hire a pi</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Find Trusted Private Investigators for Your Needs</h1>
+                <p>Hiring a private investigator (PI) can be a crucial step for various situations, whether you need help solving a mystery, conducting background checks, or gathering evidence for legal matters. PIs bring expertise in surveillance and research, ensuring confidentiality and professionalism. Choose a licensed PI to meet your needs effectively.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Reasons to Hire a Private Investigator [Infographic]">
+                                <img itemprop="contentUrl url" src='https://inbound.usisecurity.com/hubfs/12-reasons-to-hire-a-private-investigator-infographic.png' alt='12 Reasons to Hire a Private Investigator [Infographic]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="775">
+                                <meta itemprop="height" content="1695">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="United Security, Inc." />
+                                </span>
+                                <a href='https://inbound.usisecurity.com/hubfs/12-reasons-to-hire-a-private-investigator-infographic.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Dos and Don'ts of Hiring a Private Investigator [VIDEO]">
+                                <img itemprop="contentUrl url" src='https://www.gravitasinv.com/wp-content/uploads/2021/09/adamvisnic-Thumbnail-3.jpeg' alt='The Dos and Don'ts of Hiring a Private Investigator [VIDEO]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gravitas Investigations" />
+                                </span>
+                                <a href='https://www.gravitasinv.com/wp-content/uploads/2021/09/adamvisnic-Thumbnail-3.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What A Private Investigator Costs in California | Free Consultation">
+                                <img itemprop="contentUrl url" src='https://www.nolanep.com/wp-content/uploads/HirePIGuideCovers-1024x833.png' alt='What A Private Investigator Costs in California | Free Consultation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="833">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nolan Enterprises" />
+                                </span>
+                                <a href='https://www.nolanep.com/wp-content/uploads/HirePIGuideCovers-1024x833.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employee Hiring Tool & Assessment - The Predictive Index">
+                                <img itemprop="contentUrl url" src='https://media.predictiveindex.com/wp-content/uploads/2022/07/19101948/Hire.png' alt='Employee Hiring Tool & Assessment - The Predictive Index'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="629">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Predictive Index" />
+                                </span>
+                                <a href='https://media.predictiveindex.com/wp-content/uploads/2022/07/19101948/Hire.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Hire a Private Investigator: The 12 Basic Questions You ...">
+                                <img itemprop="contentUrl url" src='https://www.gravitasinv.com/wp-content/uploads/2020/05/How-to-Hire-a-Private-Investigator.png' alt='How to Hire a Private Investigator: The 12 Basic Questions You ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="560">
+                                <meta itemprop="height" content="315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gravitas Investigations" />
+                                </span>
+                                <a href='https://www.gravitasinv.com/wp-content/uploads/2020/05/How-to-Hire-a-Private-Investigator.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hiring a PI: What to Look For in a Private Investigator | OPS ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/opssecuritygroup.com/wp-content/uploads/2021/09/security-guard-typing.jpg?fit=1600%2C1067&ssl=1' alt='Hiring a PI: What to Look For in a Private Investigator | OPS ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OPS Security Group" />
+                                </span>
+                                <a href='https://i0.wp.com/opssecuritygroup.com/wp-content/uploads/2021/09/security-guard-typing.jpg?fit=1600%2C1067&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How much does it cost to hire a private investigator in California ...">
+                                <img itemprop="contentUrl url" src='https://image.isu.pub/221117064951-38d6ca3e4f30c001c8245112b89dccfc/jpg/page_1_thumb_large.jpg' alt='How much does it cost to hire a private investigator in California ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="340">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Issuu" />
+                                </span>
+                                <a href='https://image.isu.pub/221117064951-38d6ca3e4f30c001c8245112b89dccfc/jpg/page_1_thumb_large.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Find And Hire The Best Private Investigator - Kay And ...">
+                                <img itemprop="contentUrl url" src='https://kayandassociates.com/wp-content/uploads/2019/07/hire_Best_PI-735x675.png' alt='How To Find And Hire The Best Private Investigator - Kay And ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kay and Associates Investigations" />
+                                </span>
+                                <a href='https://kayandassociates.com/wp-content/uploads/2019/07/hire_Best_PI-735x675.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Things to Know Before You Hire a Private Investigator">
+                                <img itemprop="contentUrl url" src='https://www.reddoorinvestigations.com/wp-content/uploads/2021/12/Hire-a-Private-Investigator.jpeg' alt='5 Things to Know Before You Hire a Private Investigator'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Red Door Investigations" />
+                                </span>
+                                <a href='https://www.reddoorinvestigations.com/wp-content/uploads/2021/12/Hire-a-Private-Investigator.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why You Should Hire a Private Investigator Today?">
+                                <img itemprop="contentUrl url" src='https://cdn-knhbl.nitrocdn.com/ReMqtoDXsKTkOUBZMdEPaZpXMRqIMmAe/assets/images/optimized/rev-24b39db/www.wmtxlaw.com/images/word-image-31485-1.jpeg' alt='Why You Should Hire a Private Investigator Today?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Warren & Migliaccio, L.L.P." />
+                                </span>
+                                <a href='https://cdn-knhbl.nitrocdn.com/ReMqtoDXsKTkOUBZMdEPaZpXMRqIMmAe/assets/images/optimized/rev-24b39db/www.wmtxlaw.com/images/word-image-31485-1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

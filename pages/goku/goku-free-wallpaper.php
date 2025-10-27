@@ -1,0 +1,129 @@
+<title>Free Goku Wallpapers for Your Device | Download Now!</title>
+                    <meta name="description" content="Discover a vast collection of free Goku wallpapers to enhance your device's look. Enjoy high-quality images featuring your favorite Dragon Ball character, perfect for fans. Download instantly for a personalized and vibrant background! Ideal for mobile and desktop devices.">
+                    <meta name="keywords" content="goku free wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/goku">
+                            <span itemprop="name">Goku</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/goku/goku-free-wallpaper">
+                            <span itemprop="name">goku free wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Free Goku Wallpapers for Your Device | Download Now!</h1>
+                <p>Explore the ultimate collection of Goku free wallpapers! From iconic moments in Dragon Ball Z to epic action scenes, transform your device's background with stunning visuals of this beloved character. Perfect for fans of all ages, our high-quality images are easy to download and personalize your screen in seconds!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Goku wallpaper by GokuGohanFan on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9a5e8d0e-3a3a-4ef7-8c40-cd7e828e1e3b/deed66x-4c8c21dc-ba1b-4398-8045-b14493844ea7.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzlhNWU4ZDBlLTNhM2EtNGVmNy04YzQwLWNkN2U4MjhlMWUzYlwvZGVlZDY2eC00YzhjMjFkYy1iYTFiLTQzOTgtODA0NS1iMTQ0OTM4NDRlYTcuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.VAnhkFFqlavqg_f4dLSbZS93v3lE9C4bGodTbmN6osQ' alt='Free Goku wallpaper by GokuGohanFan on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9a5e8d0e-3a3a-4ef7-8c40-cd7e828e1e3b/deed66x-4c8c21dc-ba1b-4398-8045-b14493844ea7.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzlhNWU4ZDBlLTNhM2EtNGVmNy04YzQwLWNkN2U4MjhlMWUzYlwvZGVlZDY2eC00YzhjMjFkYy1iYTFiLTQzOTgtODA0NS1iMTQ0OTM4NDRlYTcuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.VAnhkFFqlavqg_f4dLSbZS93v3lE9C4bGodTbmN6osQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="500+] Goku Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/goku-e2us8ym3rraxbnve.jpg' alt='500+] Goku Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="604">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/goku-e2us8ym3rraxbnve.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download wallpapers Son Goku, Dragon Ball, main character, art ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ec/64/93/ec64939790bb7a19616181f365d4b967.jpg' alt='Download wallpapers Son Goku, Dragon Ball, main character, art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="444">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ec/64/93/ec64939790bb7a19616181f365d4b967.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Wallpapers (38 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/2/0/6/1215980-3840x2160-desktop-4k-goku-background-image.jpg' alt='Goku Wallpapers (38 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/2/0/6/1215980-3840x2160-desktop-4k-goku-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Dragon Ball Super Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/dragon-ball-super-31k7m53hb2l6rbge.jpg' alt='200+] Dragon Ball Super Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/dragon-ball-super-31k7m53hb2l6rbge.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download wallpapers Goku Migatte No Gokui, Ultra Instinct Goku, 4k ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6e/ef/61/6eef613a5afc09ca994728736bc24478.jpg' alt='Download wallpapers Goku Migatte No Gokui, Ultra Instinct Goku, 4k ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="444">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6e/ef/61/6eef613a5afc09ca994728736bc24478.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku HD Wallpapers (400++) - MrWallpaper.com">
+                                <img itemprop="contentUrl url" src='https://mrwallpaper.com/images/hd/great-goku-dragon-ball-kmi69ds9ankwfzad.jpg' alt='Goku HD Wallpapers (400++) - MrWallpaper.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1332">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrWallpaper" />
+                                </span>
+                                <a href='https://mrwallpaper.com/images/hd/great-goku-dragon-ball-kmi69ds9ankwfzad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Wallpaper Stock Photos and Pictures - 87 Images | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/goku-wallpaperposter-variant-dragon-ball-260nw-2314812543.jpg' alt='Goku Wallpaper Stock Photos and Pictures - 87 Images | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="130">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/goku-wallpaperposter-variant-dragon-ball-260nw-2314812543.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1300+] Goku Wallpapers">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/866/866812.png' alt='1300+] Goku Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5760">
+                                <meta itemprop="height" content="3240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/866/866812.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Wallpaper 4K Free download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/60/c3/42/60c342c53def74ac4062dad106e0a239.jpg' alt='Goku Wallpaper 4K Free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/60/c3/42/60c342c53def74ac4062dad106e0a239.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

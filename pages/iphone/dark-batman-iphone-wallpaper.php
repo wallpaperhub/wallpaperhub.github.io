@@ -1,0 +1,129 @@
+<title>Dark Batman iPhone Wallpaper Collection</title>
+                    <meta name="description" content="Discover the ultimate collection of dark Batman iPhone wallpapers. These sleek designs add a superhero edge to your device, perfect for fans who appreciate a darker aesthetic. Download now to transform your phone with iconic images of Batman and the mysterious allure of Gotham City!">
+                    <meta name="keywords" content="dark batman iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/dark-batman-iphone-wallpaper">
+                            <span itemprop="name">dark batman iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dark Batman iPhone Wallpaper Collection</h1>
+                <p>Elevate your iPhone's style with our collection of dark Batman wallpapers. Perfect for fans of the caped crusader, these striking designs feature Gotham City, dramatic shadows, and iconic poses that capture the essence of Batman. Download your favorite to give your device a bold and edgy look!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Batman Dark iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1a/2b/e3/1a2be39dc5fc6440933d4d80eb8ac3d3.jpg' alt='Batman Dark iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1a/2b/e3/1a2be39dc5fc6440933d4d80eb8ac3d3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark The Batman Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/dark-the-batman-iphone-8e6xh149b57xyk35.jpg' alt='Dark The Batman Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/dark-the-batman-iphone-8e6xh149b57xyk35.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b4/31/ee/b431eeabd77d4197eac83adc7c128d2c.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b4/31/ee/b431eeabd77d4197eac83adc7c128d2c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Batman Dark Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/batman-dark-iphone-v230ys2xtjskq89y.jpg' alt='100+] Batman Dark Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/batman-dark-iphone-v230ys2xtjskq89y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Let's post our favorite Batman wallpapers! : r/batman">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/TgDrsnopzjaq8JlLePHNRAmM-RCoB79wztmGKcK5K-c.jpg?auto=webp&s=a329361ecc476eebee1af22f73f307a86257e9be' alt='Let's post our favorite Batman wallpapers! : r/batman'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="809">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/TgDrsnopzjaq8JlLePHNRAmM-RCoB79wztmGKcK5K-c.jpg?auto=webp&s=a329361ecc476eebee1af22f73f307a86257e9be' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Batman, dark, gotham, kight, throne, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/233/709/HD-wallpaper-batman-dark-gotham-kight-throne.jpg' alt='Batman, dark, gotham, kight, throne, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/233/709/HD-wallpaper-batman-dark-gotham-kight-throne.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Backview Of Batman Dark Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/backview-of-batman-dark-iphone-4b7g8bdu1ibdi88x.jpg' alt='Backview Of Batman Dark Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/backview-of-batman-dark-iphone-4b7g8bdu1ibdi88x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download The Dark Knight On Your Iphone Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/awesome-batman-iphone-lc9cbdkh8p082nrb.jpg' alt='Download The Dark Knight On Your Iphone Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/awesome-batman-iphone-lc9cbdkh8p082nrb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Batman iPhone Wallpaper HD Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/48/2c/dc/482cdcfc24e7f1ed733dd62f85492802.jpg' alt='Batman iPhone Wallpaper HD Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1374">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/48/2c/dc/482cdcfc24e7f1ed733dd62f85492802.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Silhouette Of Batman Dark Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/silhouette-of-batman-dark-iphone-03mt36plrslfiyam.jpg' alt='Silhouette Of Batman Dark Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/silhouette-of-batman-dark-iphone-03mt36plrslfiyam.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

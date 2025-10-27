@@ -1,0 +1,129 @@
+<title>Stunning Dragon Ball Z Wallpapers for Your iPhone Home Screen</title>
+                    <meta name="description" content="Elevate your iPhone's look with amazing Dragon Ball Z wallpapers! Discover a selection of vibrant and high-quality images featuring your favorite characters. Perfect for anime lovers wanting to personalize their devices with epic designs. Download now and showcase your DBZ passion effortlessly!">
+                    <meta name="keywords" content="iphone home screen dragon ball z wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/iphone-home-screen-dragon-ball-z-wallpaper">
+                            <span itemprop="name">iphone home screen dragon ball z wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Dragon Ball Z Wallpapers for Your iPhone Home Screen</h1>
+                <p>Transform your iPhone home screen with stunning Dragon Ball Z wallpapers! Whether you're a Goku fanatic or prefer other iconic characters, bring your favorite anime vibes to your device. Find high-quality, vibrant designs that showcase epic battles and beloved heroes. Customize your screen and showcase your passion for DBZ!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I will never have a better lock screen than this. : r/dbz">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/2nysqn5vygoa1.jpg' alt='I will never have a better lock screen than this. : r/dbz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1290">
+                                <meta itemprop="height" content="2796">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/2nysqn5vygoa1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Dragon Ball Z Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/dragon-ball-z-iphone-vmi5qjhyv2vnyj0c.jpg' alt='100+] Dragon Ball Z Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/dragon-ball-z-iphone-vmi5qjhyv2vnyj0c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 Best Dragon ball z iphone wallpaper ideas | dragon ball, dragon ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/c5/30/e4/c530e4d6653bbeb648b541eb3ea8a65a.jpg' alt='20 Best Dragon ball z iphone wallpaper ideas | dragon ball, dragon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/c5/30/e4/c530e4d6653bbeb648b541eb3ea8a65a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball Z | Dragon Ball Z Wallpapers | iPhone Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/a1/57/79/a157797ad9ce87686dcff192152240c1.jpg' alt='Dragon Ball Z | Dragon Ball Z Wallpapers | iPhone Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/a1/57/79/a157797ad9ce87686dcff192152240c1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball Z Iphone Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/shenron-dragon-ball-z-iphone-cojqj2yv5quv1z1g.jpg' alt='Dragon Ball Z Iphone Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1079">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/shenron-dragon-ball-z-iphone-cojqj2yv5quv1z1g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Dragon Ball Z Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/caption-epic-saiyan-battle-display-dragon-ball-z-iphone-wallpaper-z5xgt3nfd41x70b5.jpg' alt='100+] Dragon Ball Z Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/caption-epic-saiyan-battle-display-dragon-ball-z-iphone-wallpaper-z5xgt3nfd41x70b5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My new iPhone wallpaper. : r/dbz">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/scnoZqu.jpg' alt='My new iPhone wallpaper. : r/dbz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://i.imgur.com/scnoZqu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flying on Nimbus wallpaper | Dragon Ball Z Wallpapers | iPhone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3e/69/7c/3e697c5ba1a2ce47605e419ad2eff747.jpg' alt='Flying on Nimbus wallpaper | Dragon Ball Z Wallpapers | iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3e/69/7c/3e697c5ba1a2ce47605e419ad2eff747.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball Z Aesthetic iPhone, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/295/421/HD-wallpaper-goku-dragon-ball-z-dragon-ball-z-vegeta-thumbnail.jpg' alt='Dragon Ball Z Aesthetic iPhone, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="704">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/295/421/HD-wallpaper-goku-dragon-ball-z-dragon-ball-z-vegeta-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lock Screen Dragon Ball iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp8063110.jpg' alt='Lock Screen Dragon Ball iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp8063110.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

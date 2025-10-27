@@ -1,0 +1,129 @@
+<title>Chic Pastel Goth Wallpapers for Your iPhone</title>
+                    <meta name="description" content="Discover trendy pastel goth wallpapers for your iPhone. Join the aesthetic movement that combines soft colors with edgy designs, allowing you to personalize your device and showcase your unique style effortlessly. Explore a variety of options to find your perfect match!">
+                    <meta name="keywords" content="pastel goth wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/pastel-goth-wallpaper-iphone">
+                            <span itemprop="name">pastel goth wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Pastel Goth Wallpapers for Your iPhone</h1>
+                <p>Enhance your iPhone's aesthetic with pastel goth wallpapers! These unique designs blend soft pastel hues with dark, edgy elements, perfect for expressing your individuality. Transform your device into a canvas of creativity and style, reflecting your personality while keeping it trendy. Discover the perfect wallpaper today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Goth Wallpaper iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/56/82/76/56827654d9207c0eba288283ee36c885.jpg' alt='Pastel Goth Wallpaper iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/56/82/76/56827654d9207c0eba288283ee36c885.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Goth Wallpaper | Halloween wallpaper iphone, Goth wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/06/3e/d4/063ed49354556a7933f8c0233d6f754d.jpg' alt='Pastel Goth Wallpaper | Halloween wallpaper iphone, Goth wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/06/3e/d4/063ed49354556a7933f8c0233d6f754d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel goth">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/68/2a/56/682a568277d6ee059357fdf6213e82e4.jpg' alt='Pastel goth'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="605">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/68/2a/56/682a568277d6ee059357fdf6213e82e4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pastel Goth Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pastel-goth-skulls-and-roses-vm1xpv4i60eqn0oc.jpg' alt='100+] Pastel Goth Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="742">
+                                <meta itemprop="height" content="1294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pastel-goth-skulls-and-roses-vm1xpv4i60eqn0oc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gentle Gothic iPhone Wallpaper Bundle, Pastel Goth Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11992787/r/il/dbadc6/5451545866/il_570xN.5451545866_snvb.jpg' alt='Gentle Gothic iPhone Wallpaper Bundle, Pastel Goth Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1037">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11992787/r/il/dbadc6/5451545866/il_570xN.5451545866_snvb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="57 ♡PASTEL GOTH♡ ideas | pastel goth, pastel, pastel aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/24/85/2b/24852bcffa036bcdb19a82bf909e802b.jpg' alt='57 ♡PASTEL GOTH♡ ideas | pastel goth, pastel, pastel aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="627">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/24/85/2b/24852bcffa036bcdb19a82bf909e802b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Goth Galaxy Portrait Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pastel-goth-galaxy-portrait-vxhy730rruwqqwhx.jpg' alt='Pastel Goth Galaxy Portrait Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1236">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pastel-goth-galaxy-portrait-vxhy730rruwqqwhx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel goth, crazy, dead, skull, skulls, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/243/398/HD-wallpaper-pastel-goth-crazy-dead-skull-skulls.jpg' alt='Pastel goth, crazy, dead, skull, skulls, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1424">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/243/398/HD-wallpaper-pastel-goth-crazy-dead-skull-skulls.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Goth Planet Aesthetics Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/pastel-goth-planet-aesthetics-zvu71zo1b0dwzdi2.jpg' alt='Pastel Goth Planet Aesthetics Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/pastel-goth-planet-aesthetics-zvu71zo1b0dwzdi2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Girly Pastel Witch Goth Pattern" iPhone Case | Goth wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/72/09/0a/72090a71587ffebb51a04b9790470003.jpg' alt='Girly Pastel Witch Goth Pattern" iPhone Case | Goth wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/72/09/0a/72090a71587ffebb51a04b9790470003.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

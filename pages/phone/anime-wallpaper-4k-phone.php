@@ -1,0 +1,129 @@
+<title>Vibrant 4K Anime Wallpapers for Your Phone</title>
+                    <meta name="description" content="Explore beautiful 4K anime wallpapers designed for mobile devices. Transform your phone's background with high-resolution images featuring captivating characters and stunning visuals. Perfect for any anime lover looking to personalize their device with style!">
+                    <meta name="keywords" content="anime wallpaper 4k phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/anime-wallpaper-4k-phone">
+                            <span itemprop="name">anime wallpaper 4k phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant 4K Anime Wallpapers for Your Phone</h1>
+                <p>Discover stunning 4K anime wallpapers for your phone! Elevate your device's aesthetic with vibrant, high-resolution images featuring your favorite characters and scenes. Whether you're a fan of action, romance, or fantasy, there’s perfect artwork available to suit your style. Customize your phone effortlessly!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Aesthetic Phone Anime Wallpapers Pack 1">
+                                <img itemprop="contentUrl url" src='https://storage.ko-fi.com/cdn/useruploads/display/ea8d011f-0280-469b-bc2f-a3935e468ec8_1.jpeg' alt='4K Aesthetic Phone Anime Wallpapers Pack 1'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="1342">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ko-fi" />
+                                </span>
+                                <a href='https://storage.ko-fi.com/cdn/useruploads/display/ea8d011f-0280-469b-bc2f-a3935e468ec8_1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Obito Uchiha From Naruto 4k Anime Phone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/obito-uchiha-from-naruto-4k-anime-phone-osnkeyeokiv1qzyv.jpg' alt='Obito Uchiha From Naruto 4k Anime Phone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/obito-uchiha-from-naruto-4k-anime-phone-osnkeyeokiv1qzyv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k Anime Wallpapers Mobile Pictures | Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/anime-moon-landscape_23-2151645906.jpg' alt='4k Anime Wallpapers Mobile Pictures | Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="373">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/anime-moon-landscape_23-2151645906.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime wallpaper 4k 2025 phone">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/sukuna-jujutsu-kaisen-anime-633@0@e-phone-4k.jpg' alt='Anime wallpaper 4k 2025 phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/sukuna-jujutsu-kaisen-anime-633@0@e-phone-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d7/c2/dd/d7c2dd18cfa0b0bca1970d31fff6af29.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d7/c2/dd/d7c2dd18cfa0b0bca1970d31fff6af29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="City Night Sky Anime Phone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/city-night-sky-anime-phone-q7anj64nbgv39u8c.jpg' alt='City Night Sky Anime Phone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/city-night-sky-anime-phone-q7anj64nbgv39u8c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Girl Sunset 4K Wallpaper iPhone HD Phone #8710i">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/anime-girl-sunset-871@0@i-phone-4k.jpg' alt='Anime Girl Sunset 4K Wallpaper iPhone HD Phone #8710i'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/anime-girl-sunset-871@0@i-phone-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Demon Slayer: Kimetsu no Yaiba Wallpapers (45 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/c/4/1/182302-2160x3840-samsung-4k-demon-slayer-kimetsu-no-yaiba-wallpaper.jpg' alt='Demon Slayer: Kimetsu no Yaiba Wallpapers (45 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/c/4/1/182302-2160x3840-samsung-4k-demon-slayer-kimetsu-no-yaiba-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Iphone Wallpaper - Iphone Anime Wallpapers 4k is hd ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bf/96/dc/bf96dc8b0f33deeeef7c169f94cd6c4b.jpg' alt='Goku Iphone Wallpaper - Iphone Anime Wallpapers 4k is hd ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1553">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bf/96/dc/bf96dc8b0f33deeeef7c169f94cd6c4b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k Anime Wallpapers Mobile Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/illustration-anime-city_23-2151779623.jpg' alt='4k Anime Wallpapers Mobile Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="358">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/illustration-anime-city_23-2151779623.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>"Dancing Cat GIFs That Will Make You Smile!"</title>
+                    <meta name="description" content="Discover the cutest collection of dancing cat GIFs! These adorable clips are perfect for sharing with friends or adding a playful touch to your messages. Brighten your day with the joy of dancing felines and let their moves put a smile on your face!">
+                    <meta name="keywords" content="dancing cat gif">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dancing-cat-gif">
+                            <span itemprop="name">dancing cat gif</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Dancing Cat GIFs That Will Make You Smile!"</h1>
+                <p>Get ready to smile with our delightful dancing cat GIF! Whether it's a fluffy feline doing the cha-cha or a sassy kitty grooving to the beat, these entertaining clips are sure to brighten your day. Perfect for sharing with friends or using in your messages, these dancing cats capture the joy of feline fun!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cat Dance Dance Cat GIF - Cat dance Dance cat Cat - Discover ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/ee/42/d9/ee42d91ece376e6847f6941b72269c76.gif' alt='Cat Dance Dance Cat GIF - Cat dance Dance cat Cat - Discover ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="374">
+                                <meta itemprop="height" content="374">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/ee/42/d9/ee42d91ece376e6847f6941b72269c76.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dancing Cat GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/5BYK-WS0__gAAAAM/cool-fun.gif' alt='Dancing Cat GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="165">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/5BYK-WS0__gAAAAM/cool-fun.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cats Dancing GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/NcCe__ZKe9oAAAAM/dancing-cat-cat-meme.gif' alt='Cats Dancing GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="165">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/NcCe__ZKe9oAAAAM/dancing-cat-cat-meme.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Catjam Cat Dancing GIF - Catjam Cat Dancing Cat Music - Discover ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/23/51/bc/2351bc65b2b5d75cef146b7edddf805b.gif' alt='Catjam Cat Dancing GIF - Catjam Cat Dancing Cat Music - Discover ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/23/51/bc/2351bc65b2b5d75cef146b7edddf805b.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cat Happy Dance GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media1.giphy.com/media/33OrjzUFwkwEg/200.gif?cid=6c09b952fy57uyaiepeahmri5rlsl9bg2ifwdntld54u0q87&ep=v1_gifs_search&rid=200.gif&ct=g' alt='Cat Happy Dance GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="182">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media1.giphy.com/media/33OrjzUFwkwEg/200.gif?cid=6c09b952fy57uyaiepeahmri5rlsl9bg2ifwdntld54u0q87&ep=v1_gifs_search&rid=200.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dancing Cat GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/SMHpOYdWvnYAAAAM/cat-dance-dancing-cat.gif' alt='Dancing Cat GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="165">
+                                <meta itemprop="height" content="292">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/SMHpOYdWvnYAAAAM/cat-dance-dancing-cat.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Russian Blue Cat GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media4.giphy.com/media/BK1EfIsdkKZMY/200w.gif?cid=6c09b952hqhw8hippticgjghlu8rzqyjtp2dvclfffh3awpj&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Russian Blue Cat GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="254">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media4.giphy.com/media/BK1EfIsdkKZMY/200w.gif?cid=6c09b952hqhw8hippticgjghlu8rzqyjtp2dvclfffh3awpj&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dance Cat GIF - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media3.giphy.com/media/yXuh72NAzALwf8ipgA/giphy.gif?cid=6c09b952dssrnywdk3p4p7i2darfkzuuyxlwcoqxxv2bqlff&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' alt='Dance Cat GIF - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="268">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media3.giphy.com/media/yXuh72NAzALwf8ipgA/giphy.gif?cid=6c09b952dssrnywdk3p4p7i2darfkzuuyxlwcoqxxv2bqlff&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cat Dancing Gif Dancing Cat GIF - Cat dancing gif Dancing cat ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/7f/d4/93/7fd493d029e88f51324cc8e3ebb8d403.gif' alt='Cat Dancing Gif Dancing Cat GIF - Cat dancing gif Dancing cat ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="212">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/7f/d4/93/7fd493d029e88f51324cc8e3ebb8d403.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dancing Cat Gif - IceGif">
+                                <img itemprop="contentUrl url" src='https://www.icegif.com/wp-content/uploads/2023/09/icegif-354.gif' alt='Dancing Cat Gif - IceGif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IceGif" />
+                                </span>
+                                <a href='https://www.icegif.com/wp-content/uploads/2023/09/icegif-354.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Pink & Purple Marble Designs for Your Home</title>
+                    <meta name="description" content="Discover the elegance of pink and purple marble! This beautiful stone enhances your space with its unique swirls and vibrant hues. Perfect for countertops and flooring, it adds a touch of luxury to any room while providing timeless beauty and charm. Transform your home with this exquisite marble today!">
+                    <meta name="keywords" content="pink and purple marble">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pink-and-purple-marble">
+                            <span itemprop="name">pink and purple marble</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Pink & Purple Marble Designs for Your Home</h1>
+                <p>Pink and purple marble offers a stunning fusion of colors, perfect for adding elegance to any space. This unique stone boasts beautiful swirls and patterns, making it ideal for countertops, flooring, and decorative accents. Whether used in modern or traditional designs, pink and purple marble creates a captivating aesthetic that enhances any room's charm.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Liquid Marble No. 2 purple-pink by Melanie Viola">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/liquid-marble-no-2-purple-pink-melanie-viola.jpg' alt='Liquid Marble No. 2 purple-pink by Melanie Viola'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Melanie Viola - Pixels" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/liquid-marble-no-2-purple-pink-melanie-viola.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink and purple marble vector texture. Abstract background Stock ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/TY80PN/pink-and-purple-marble-vector-texture-abstract-background-TY80PN.jpg' alt='Pink and purple marble vector texture. Abstract background Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/TY80PN/pink-and-purple-marble-vector-texture-abstract-background-TY80PN.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxurious Purple and Pink Marble Wall Mural, Colorful Abstract Accent Wall  Wallpaper, Purple Stone Mural, Peel and Stick Removable Decor">
+                                <img itemprop="contentUrl url" src='https://chicandkiddo.com/cdn/shop/files/0-WN139-purple-and-pink-marble-alcohol-ink-wall-mural.jpg?v=1721683058&width=2500' alt='Luxurious Purple and Pink Marble Wall Mural, Colorful Abstract Accent Wall  Wallpaper, Purple Stone Mural, Peel and Stick Removable Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1401">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chic&Kiddo" />
+                                </span>
+                                <a href='https://chicandkiddo.com/cdn/shop/files/0-WN139-purple-and-pink-marble-alcohol-ink-wall-mural.jpg?v=1721683058&width=2500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Purple Marble With Gold Sparkle Background Wallpaper Image ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/be/11/31/be113179bffc24fe1568f0c2bcce2092.jpg' alt='Pink Purple Marble With Gold Sparkle Background Wallpaper Image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/be/11/31/be113179bffc24fe1568f0c2bcce2092.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Enigmatic Pink Purple Blue Marble #1 #decor #art by Anitas and Bellas Art">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/enigmatic-pink-purple-blue-marble-1-decor-art-anitas-and-bellas-art.jpg' alt='Enigmatic Pink Purple Blue Marble #1 #decor #art by Anitas and Bellas Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="613">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fine Art America" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/enigmatic-pink-purple-blue-marble-1-decor-art-anitas-and-bellas-art.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple & Pink Marble | Poster">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.611975869.2779/flat,750x,075,f-pad,750x1000,f8f8f8.u1.jpg' alt='Purple & Pink Marble | Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.611975869.2779/flat,750x,075,f-pad,750x1000,f8f8f8.u1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Purple Marble Background Photos, Images & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/abstract-purple-acrylic-pour-liquid-260nw-2090055622.jpg' alt='Pink Purple Marble Background Photos, Images & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="389">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/abstract-purple-acrylic-pour-liquid-260nw-2090055622.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink and Purple Marble">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/sr/305211/5/28/0/pink-purple-marble-wallpaper.jpg' alt='Pink and Purple Marble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="575">
+                                <meta itemprop="height" content="575">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/sr/305211/5/28/0/pink-purple-marble-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Marble Texture Gorgeous Abstract Pattern Of And Purple ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/wp/202344/pink-marble-texture-gorgeous-abstract-pattern-of-and-purple_9923545.jpg!w700wp' alt='Pink Marble Texture Gorgeous Abstract Pattern Of And Purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/wp/202344/pink-marble-texture-gorgeous-abstract-pattern-of-and-purple_9923545.jpg!w700wp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Purple Marble Background Photos, Images & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/1984426871/display_1500/stock-vector-abstract-two-colored-rose-and-lavender-liquid-marble-background-with-gold-stripes-and-glitter-dust-1984426871.jpg' alt='Pink Purple Marble Background Photos, Images & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/1984426871/display_1500/stock-vector-abstract-two-colored-rose-and-lavender-liquid-marble-background-with-gold-stripes-and-glitter-dust-1984426871.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

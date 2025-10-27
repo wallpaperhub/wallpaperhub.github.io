@@ -1,0 +1,129 @@
+<title>Explore Timeless Vintage Farmhouse Wallpaper Designs</title>
+                    <meta name="description" content="Discover the allure of vintage farmhouse wallpaper. From charming floral patterns to rustic designs, enhance your home’s cozy ambiance. Perfect for any room, these wallpapers blend classic beauty with modern trends. Transform your space today for a timeless, inviting feel!">
+                    <meta name="keywords" content="vintage farmhouse wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage">
+                            <span itemprop="name">Vintage</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage/vintage-farmhouse-wallpaper">
+                            <span itemprop="name">vintage farmhouse wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore Timeless Vintage Farmhouse Wallpaper Designs</h1>
+                <p>Vintage farmhouse wallpaper adds charm and character to any room, combining rustic appeal with modern elegance. With patterns inspired by nature, florals, and classic designs, it transforms spaces into cozy havens. Perfect for kitchens, living rooms, or bedrooms, this wallpaper style celebrates a timeless aesthetic that never goes out of fashion.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Farmhouse Vintage White Floral Wallpaper, Rustic Boho Vanilla ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/45303920/r/il/035215/5837380370/il_570xN.5837380370_rfrc.jpg' alt='Farmhouse Vintage White Floral Wallpaper, Rustic Boho Vanilla ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/45303920/r/il/035215/5837380370/il_570xN.5837380370_rfrc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toile Blue and White Vintage Peel and Stick Wallpaper 16 x 393.7 Inch Blue  and White Wallpaper Blue Contact Paper Removable Vintage French Farmhouse  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91VVAg2eVlL._AC_UF894,1000_QL80_.jpg' alt='Toile Blue and White Vintage Peel and Stick Wallpaper 16 x 393.7 Inch Blue  and White Wallpaper Blue Contact Paper Removable Vintage French Farmhouse  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91VVAg2eVlL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Wallpaper 101 - American Farmhouse Style">
+                                <img itemprop="contentUrl url" src='https://americanfarmhousestyle.com/wp-content/uploads/2024/08/AFS-Holly-Thompson-104.jpg' alt='Vintage Wallpaper 101 - American Farmhouse Style'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="American Farmhouse Style" />
+                                </span>
+                                <a href='https://americanfarmhousestyle.com/wp-content/uploads/2024/08/AFS-Holly-Thompson-104.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Farm Wallpaper With Horse and Cow, Farmhouse Decor, Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20454595/r/il/b3ae7c/3105647548/il_570xN.3105647548_dejk.jpg' alt='Farm Wallpaper With Horse and Cow, Farmhouse Decor, Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20454595/r/il/b3ae7c/3105647548/il_570xN.3105647548_dejk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Farmhouse Vegetables Removable Wallpaper">
+                                <img itemprop="contentUrl url" src='https://livetteswallpaper.com/cdn/shop/products/2-VINTAGE-FARMHOUSE-VEGETABLES-REMOVABLE-WALLPAPER_1100x.jpg?v=1706036930' alt='Vintage Farmhouse Vegetables Removable Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livettes Wallpaper" />
+                                </span>
+                                <a href='https://livetteswallpaper.com/cdn/shop/products/2-VINTAGE-FARMHOUSE-VEGETABLES-REMOVABLE-WALLPAPER_1100x.jpg?v=1706036930' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RollsRolla Farmhouse Wallpaper Vintage Dainty Flowers Ivory Neutral Beige  Easy Peel Off Wallpaper, French Country Wallpaper for Accent Wall, Bedroom,  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91QzrA3eaiL.jpg' alt='RollsRolla Farmhouse Wallpaper Vintage Dainty Flowers Ivory Neutral Beige  Easy Peel Off Wallpaper, French Country Wallpaper for Accent Wall, Bedroom,  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1917">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91QzrA3eaiL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FH4087 York Blue Flowers Heritage Rose Rustic Farmhouse Wallpaper">
+                                <img itemprop="contentUrl url" src='http://wallcoveringsmart.com/cdn/shop/products/FH4087ex.jpg?v=1598543830' alt='FH4087 York Blue Flowers Heritage Rose Rustic Farmhouse Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallcoverings mart" />
+                                </span>
+                                <a href='http://wallcoveringsmart.com/cdn/shop/products/FH4087ex.jpg?v=1598543830' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Decoratorsbest Farmhouse Floral Gold Peel And Stick Wallpaper, 28 Sq. Ft.">
+                                <img itemprop="contentUrl url" src='https://www.decoratorsbest.com/cdn/shop/files/6899904643118.jpg?v=1693660694' alt='Decoratorsbest Farmhouse Floral Gold Peel And Stick Wallpaper, 28 Sq. Ft.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecoratorsBest" />
+                                </span>
+                                <a href='https://www.decoratorsbest.com/cdn/shop/files/6899904643118.jpg?v=1693660694' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Farmhouse Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://jiffdiff.com/cdn/shop/files/2_28a7036e-0925-40e1-8119-501034ea5f2e_600x.jpg?v=1724310359' alt='Vintage Farmhouse Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JIFFDIFF" />
+                                </span>
+                                <a href='https://jiffdiff.com/cdn/shop/files/2_28a7036e-0925-40e1-8119-501034ea5f2e_600x.jpg?v=1724310359' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3115-12431 - Farmhouse Wallpaper-Vintage Tin Tile">
+                                <img itemprop="contentUrl url" src='https://wallpaperthehome.com/17547-superlarge_default/3115-12431-farmhouse-wallpaper-vintage-tin-tile.jpg' alt='3115-12431 - Farmhouse Wallpaper-Vintage Tin Tile'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper The Home" />
+                                </span>
+                                <a href='https://wallpaperthehome.com/17547-superlarge_default/3115-12431-farmhouse-wallpaper-vintage-tin-tile.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

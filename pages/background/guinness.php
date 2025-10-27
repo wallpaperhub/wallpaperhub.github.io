@@ -1,0 +1,129 @@
+<title>Discover the Legend of Guinness: An Iconic Irish Stout</title>
+                    <meta name="description" content="Explore the rich heritage of Guinness, the world-famous Irish stout known for its smooth flavor and iconic creamy head. Celebrate the history and culture behind this legendary beer that has brought people together for generations. Perfect for enthusiasts and casual drinkers alike!">
+                    <meta name="keywords" content="guinness">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/guinness">
+                            <span itemprop="name">guinness</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Legend of Guinness: An Iconic Irish Stout</h1>
+                <p>Guinness is more than just a beer; it's an iconic Irish stout known for its rich, dark color and creamy head. With its unique blend of roasted barley and hops, it offers a smooth, malty flavor that's loved worldwide. Originating from the 18th century, this legendary brew embodies Irish culture and celebrates countless toasts.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guinness - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Guinness_logo_dark_text.svg/1200px-Guinness_logo_dark_text.svg.png' alt='Guinness - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Guinness_logo_dark_text.svg/1200px-Guinness_logo_dark_text.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History and Symbolism of the Guinness Logo - Free Logo Design">
+                                <img itemprop="contentUrl url" src='https://api.freelogodesign.org/assets/blog/thumb/20200309091037750guinness-glass-with-logo_1176x840.jpg?t=638355680730000000' alt='The History and Symbolism of the Guinness Logo - Free Logo Design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="932">
+                                <meta itemprop="height" content="666">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Logo Design" />
+                                </span>
+                                <a href='https://api.freelogodesign.org/assets/blog/thumb/20200309091037750guinness-glass-with-logo_1176x840.jpg?t=638355680730000000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guinness Draught 8 pack 14.9 oz. Can - Allendale Wine Shoppe">
+                                <img itemprop="contentUrl url" src='https://icdn.bottlenose.wine/images/full/400411.jpg?ar=1&fit=crop&crop=entropy' alt='Guinness Draught 8 pack 14.9 oz. Can - Allendale Wine Shoppe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="487">
+                                <meta itemprop="height" content="487">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Allendale Wine Shoppe" />
+                                </span>
+                                <a href='https://icdn.bottlenose.wine/images/full/400411.jpg?ar=1&fit=crop&crop=entropy' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Making of a Classic: Guinness Draught — Beervana">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5876279bbebafb82a7c81c00/1617043580504-VIPP3ZSKF8I7WMY3CRFK/DSCN5229.JPG' alt='The Making of a Classic: Guinness Draught — Beervana'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Beervana Blog" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5876279bbebafb82a7c81c00/1617043580504-VIPP3ZSKF8I7WMY3CRFK/DSCN5229.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guinness Draught | Colonial Spirits">
+                                <img itemprop="contentUrl url" src='https://www.colonialspirits.com/wp-content/uploads/2016/01/Guinness-Draught-Stout-6-Bottles.jpg' alt='Guinness Draught | Colonial Spirits'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Colonial Spirits" />
+                                </span>
+                                <a href='https://www.colonialspirits.com/wp-content/uploads/2016/01/Guinness-Draught-Stout-6-Bottles.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guinness Extra Stout Beer 5.6% ABV Single Bottle - 22 Oz - albertsons">
+                                <img itemprop="contentUrl url" src='https://images.albertsons-media.com/is/image/ABS/189010321-C1N1?$ng-ecom-pdp-desktop$&defaultImage=Not_Available' alt='Guinness Extra Stout Beer 5.6% ABV Single Bottle - 22 Oz - albertsons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="564">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Albertsons" />
+                                </span>
+                                <a href='https://images.albertsons-media.com/is/image/ABS/189010321-C1N1?$ng-ecom-pdp-desktop$&defaultImage=Not_Available' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guinness Draught Stout (4-Pack) - The Whisky Shop - San Francisco">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-d24ojig/images/stencil/1280x1280/products/5322/11869/guinness-draught-stout-4x149-oz-cans__04393.1685997618.jpg?c=2' alt='Guinness Draught Stout (4-Pack) - The Whisky Shop - San Francisco'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Whisky Shop" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-d24ojig/images/stencil/1280x1280/products/5322/11869/guinness-draught-stout-4x149-oz-cans__04393.1685997618.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The World of Guinness: Beers, Experiences & More | Guinness® EN">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/8nq3bs98o7cv/jb4Bun8BuXIpBx66l8OAq/b41bbe3af43b7a39da1fbc0ec9e05a6a/eyJidWNrZXQiOiJzZXJ2ZXJsZXNzaW1naG5kbHItcHJkIiwia2V5IjoiRENIL2ltYWdlL2pwZWcvMTA4MDE1NjgvTElHSFQgQlVaWl9zbWFsbC5qcGciLCJlZGl0cyI6' alt='The World of Guinness: Beers, Experiences & More | Guinness® EN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.guinness.com" />
+                                </span>
+                                <a href='https://images.ctfassets.net/8nq3bs98o7cv/jb4Bun8BuXIpBx66l8OAq/b41bbe3af43b7a39da1fbc0ec9e05a6a/eyJidWNrZXQiOiJzZXJ2ZXJsZXNzaW1naG5kbHItcHJkIiwia2V5IjoiRENIL2ltYWdlL2pwZWcvMTA4MDE1NjgvTElHSFQgQlVaWl9zbWFsbC5qcGciLCJlZGl0cyI6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guinness Pub Draught 4 pack 4 pack 12 oz. Bottle - Bottle Shop of ...">
+                                <img itemprop="contentUrl url" src='https://icdn.bottlenose.wine/images/full/651152.jpg?ar=1&fit=crop&crop=entropy' alt='Guinness Pub Draught 4 pack 4 pack 12 oz. Bottle - Bottle Shop of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bottle Shop of Spring Lake" />
+                                </span>
+                                <a href='https://icdn.bottlenose.wine/images/full/651152.jpg?ar=1&fit=crop&crop=entropy' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: [Pack of 4] Guinness Irish Dry Stout Draught Non ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/818LA3ndD8L._AC_UF1000,1000_QL80_.jpg' alt='Amazon.com: [Pack of 4] Guinness Irish Dry Stout Draught Non ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="856">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/818LA3ndD8L._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

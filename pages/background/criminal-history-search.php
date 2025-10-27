@@ -1,0 +1,129 @@
+<title>Criminal History Search: What You Need to Know</title>
+                    <meta name="description" content="Discover the importance of criminal history searches for making safe, informed decisions. Learn how to access records efficiently and what insights they can provide for employment, housing, or personal safety. Stay informed to protect yourself and others.">
+                    <meta name="keywords" content="criminal history search">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/criminal-history-search">
+                            <span itemprop="name">criminal history search</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Criminal History Search: What You Need to Know</h1>
+                <p>A criminal history search involves checking an individual’s past criminal records, including arrests, convictions, and other legal issues. This search is essential for employers, landlords, and others who need to ensure safety and make informed decisions. Accessing this information can help minimize risks and foster trust in various relationships.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Background Checks in New York for Looking Up Public Records ...">
+                                <img itemprop="contentUrl url" src='https://www.imagehosting1.net/wp-content/uploads/2021/10/truthfinder.jpg' alt='Free Background Checks in New York for Looking Up Public Records ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="874">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cision News" />
+                                </span>
+                                <a href='https://www.imagehosting1.net/wp-content/uploads/2021/10/truthfinder.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="State Criminal History searches criminal records directly at the state">
+                                <img itemprop="contentUrl url" src='https://f.hubspotusercontent30.net/hubfs/7261588/backgroundchecks.com%20Statewide%20Criminal%20Sample.jpg' alt='State Criminal History searches criminal records directly at the state'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2356">
+                                <meta itemprop="height" content="5844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BackgroundChecks.com" />
+                                </span>
+                                <a href='https://f.hubspotusercontent30.net/hubfs/7261588/backgroundchecks.com%20Statewide%20Criminal%20Sample.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Criminal Records Search | Crime Search Engines Free Trial">
+                                <img itemprop="contentUrl url" src='https://www.tracers.com/wp-content/uploads/2021/06/Criminal-Record-Search.jpg' alt='Criminal Records Search | Crime Search Engines Free Trial'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tracers" />
+                                </span>
+                                <a href='https://www.tracers.com/wp-content/uploads/2021/06/Criminal-Record-Search.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free New York Criminal & Arrest Records Search: Counties & Boroughs">
+                                <img itemprop="contentUrl url" src='https://newyork.recordspage.org/wp-content/uploads/sites/33/2023/06/CHRS-Create-Account-Information-In-New-York-State-Unified-Court-System-Screenshot.webp' alt='Free New York Criminal & Arrest Records Search: Counties & Boroughs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Access Free New York Public Records (Search Resource)" />
+                                </span>
+                                <a href='https://newyork.recordspage.org/wp-content/uploads/sites/33/2023/06/CHRS-Create-Account-Information-In-New-York-State-Unified-Court-System-Screenshot.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is a nationwide criminal background check? | HireSafe">
+                                <img itemprop="contentUrl url" src='https://www.hiresafe.com/wp-content/uploads/2015/11/What-is-a-nationwide-criminal-background-check.jpg' alt='What is a nationwide criminal background check? | HireSafe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="448">
+                                <meta itemprop="height" content="299">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HireSafe" />
+                                </span>
+                                <a href='https://www.hiresafe.com/wp-content/uploads/2015/11/What-is-a-nationwide-criminal-background-check.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Do I Find New York Criminal Records? - CountyOffice.org">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/6I83LBRIbqk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBqcFoOIF6Khf_yveurwpLe8ilc0w' alt='How Do I Find New York Criminal Records? - CountyOffice.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/6I83LBRIbqk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBqcFoOIF6Khf_yveurwpLe8ilc0w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York Background Check (Search Criminal and Public Information ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/pj_hgBGRyjU/maxresdefault.jpg' alt='New York Background Check (Search Criminal and Public Information ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/pj_hgBGRyjU/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Understand Your FBI Background Check Results">
+                                <img itemprop="contentUrl url" src='https://blog.certifixlivescan.com/wp-content/uploads/2023/10/FBI-Background-Check-Results-1.png' alt='How to Understand Your FBI Background Check Results'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Certifix Live Scan Blog -" />
+                                </span>
+                                <a href='https://blog.certifixlivescan.com/wp-content/uploads/2023/10/FBI-Background-Check-Results-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CRIMINAL HISTORY RECORD NAME SEARCH REQUEST OR ...">
+                                <img itemprop="contentUrl url" src='https://img.yumpu.com/33791440/1/500x640/criminal-history-record-name-search-request-or-.jpg' alt='CRIMINAL HISTORY RECORD NAME SEARCH REQUEST OR ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="495">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YUMPU" />
+                                </span>
+                                <a href='https://img.yumpu.com/33791440/1/500x640/criminal-history-record-name-search-request-or-.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FBI Background Check: Identity History Summary | GlobalPassport™">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/64dfb2fda17888b40feb3c26/665e0e240c719ca80e5df39f_FBI%20Background%20Check%20Sample.webp' alt='FBI Background Check: Identity History Summary | GlobalPassport™'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="932">
+                                <meta itemprop="height" content="926">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GlobalPassport™" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/64dfb2fda17888b40feb3c26/665e0e240c719ca80e5df39f_FBI%20Background%20Check%20Sample.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

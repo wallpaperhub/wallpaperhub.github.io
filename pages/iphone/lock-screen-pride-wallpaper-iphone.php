@@ -1,0 +1,129 @@
+<title>Vibrant iPhone Lock Screen Pride Wallpapers</title>
+                    <meta name="description" content="Discover eye-catching pride wallpapers for your iPhone lock screen! Celebrate love, diversity, and inclusion with stunning visuals that resonate with your individuality. Ideal for expressing your true self, these wallpapers are designed to inspire and uplift. Perfect for showcasing your support wherever you go!">
+                    <meta name="keywords" content="lock screen pride wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/lock-screen-pride-wallpaper-iphone">
+                            <span itemprop="name">lock screen pride wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant iPhone Lock Screen Pride Wallpapers</h1>
+                <p>Showcase your pride with vibrant lock screen wallpapers for your iPhone! Celebrate love and diversity with stunning designs that reflect the spirit of the LGBTQ+ community. Transform your device into a canvas of self-expression, embracing equality and unity. Find the perfect wallpaper to make a bold statement today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40 Rainbow | Pride | Phone Wallpaper ideas | wallpaper backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/9e/20/b3/9e20b3816a3f9f9d54f5553213d5aeca.jpg' alt='40 Rainbow | Pride | Phone Wallpaper ideas | wallpaper backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="412">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/9e/20/b3/9e20b3816a3f9f9d54f5553213d5aeca.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Pride Aesthetic Desktop Lock Screen Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pride-aesthetic-klqnvxk3z905np8d.jpg' alt='Download Pride Aesthetic Desktop Lock Screen Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pride-aesthetic-klqnvxk3z905np8d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to bypass region lock for Pride wallpaper on 16.5? : r/iphone">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/how-to-bypass-region-lock-for-pride-wallpaper-on-16-5-v0-7nge5tq3z54b1.png?width=1170&format=png&auto=webp&s=8e23b8a22694da74ac8deca995dc8d1b0ebd88ee' alt='How to bypass region lock for Pride wallpaper on 16.5? : r/iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/how-to-bypass-region-lock-for-pride-wallpaper-on-16-5-v0-7nge5tq3z54b1.png?width=1170&format=png&auto=webp&s=8e23b8a22694da74ac8deca995dc8d1b0ebd88ee' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pride Iphone Wallpaper Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA2L3JtNTQ4LWlsbHVzdC0wMDhjLXM5My14LWw0amh0am91LmpwZw.jpg' alt='Pride Iphone Wallpaper Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA2L3JtNTQ4LWlsbHVzdC0wMDhjLXM5My14LWw0amh0am91LmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pride Iphone Wallpaper Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9zdGF0aWMvZmlsZXMvd2Vic2l0ZS8yMDIyLTEwL3JtNTk3ZGVzaWduLW1vYmlsZS1hLTAwOC5qcGc.jpg' alt='Pride Iphone Wallpaper Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9zdGF0aWMvZmlsZXMvd2Vic2l0ZS8yMDIyLTEwL3JtNTk3ZGVzaWduLW1vYmlsZS1hLTAwOC5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apple Pride 2023 inspired wallpapers">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2023/05/Purple-neon-rainbow-sign-wallpaper-jason-leung.jpg' alt='Apple Pride 2023 inspired wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3781">
+                                <meta itemprop="height" content="5671">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2023/05/Purple-neon-rainbow-sign-wallpaper-jason-leung.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="OK, it's pure corporate pink-washing with Pride coming up, but I ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/threads/C67EoBEsITI/4/image.jpg' alt='OK, it's pure corporate pink-washing with Pride coming up, but I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="998">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Threads" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/threads/C67EoBEsITI/4/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iOS 16 - Official Stock Wallpaper - Pride LockScreen - Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2022/06/ispazio-1-1280x2770.png' alt='iOS 16 - Official Stock Wallpaper - Pride LockScreen - Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="2770">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Central - iSpazio" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2022/06/ispazio-1-1280x2770.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pride Phone Background LGBTQ Gay Lesbian Trans Pansexual Pan Wallpapers  Multicolor Inclusive Lock Screen iPhone Android Digital Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38513094/r/il/19bd03/4330179661/il_fullxfull.4330179661_te54.jpg' alt='Pride Phone Background LGBTQ Gay Lesbian Trans Pansexual Pan Wallpapers  Multicolor Inclusive Lock Screen iPhone Android Digital Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2700">
+                                <meta itemprop="height" content="2025">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38513094/r/il/19bd03/4330179661/il_fullxfull.4330179661_te54.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow LGBTQ pride month lock | Premium Photo - rawpixel">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS90ZW1wbGF0ZXMvZmlsZXMvY3JlYXRlX3Rvb2wvMjAyMy0wOC8wMWg2cW5qd2U2Y20xdzc4YW5rcGRxeHhiMy1sa3J4bjNuYi5wbmc.png' alt='Rainbow LGBTQ pride month lock | Premium Photo - rawpixel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="731">
+                                <meta itemprop="height" content="1299">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS90ZW1wbGF0ZXMvZmlsZXMvY3JlYXRlX3Rvb2wvMjAyMy0wOC8wMWg2cW5qd2U2Y20xdzc4YW5rcGRxeHhiMy1sa3J4bjNuYi5wbmc.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

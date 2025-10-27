@@ -1,0 +1,129 @@
+<title>Stunning Border Collie PNG Images for Your Projects</title>
+                    <meta name="description" content="Discover high-quality Border Collie PNG images for your creative projects. Ideal for dog enthusiasts, these transparent-background graphics enhance your designs and social media content with stunning visuals of this intelligent and agile breed. Download now for instant access!">
+                    <meta name="keywords" content="border collie png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/border-collie-png">
+                            <span itemprop="name">border collie png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Border Collie PNG Images for Your Projects</h1>
+                <p>Border Collie PNG images are high-quality graphics showcasing the breed's intelligence, agility, and stunning appearance. Perfect for dog lovers, these transparent-background images can be used in various projects, from digital art to social media posts. Enhance your design with these adorable and energetic dogs!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Border Collie Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA3L3JvYl9yYXdwaXhlbF9hX3N0dWRpb19waG90b19vZl9hX2JvcmRlcl9jb2xsaWVfZnVsbF9ib2R5X2lzb2xhdF84YTdhNzNmMC1jZWZiLTQ3YTEtOTJiYy1mZGIwM2RkOTJkMWMtNXgtaHEtc2NhbGUtNV8wMHgtam9iMTg5NF8xLnBuZw.png' alt='Border Collie Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA3L3JvYl9yYXdwaXhlbF9hX3N0dWRpb19waG90b19vZl9hX2JvcmRlcl9jb2xsaWVfZnVsbF9ib2R5X2lzb2xhdF84YTdhNzNmMC1jZWZiLTQ3YTEtOTJiYy1mZGIwM2RkOTJkMWMtNXgtaHEtc2NhbGUtNV8wMHgtam9iMTg5NF8xLnBuZw.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Border Collie PNG, Dog Design, PNG Design, Digital Download, BorderCollie  dog graphic for Cricut cutout, t-shirt design image">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/7906453/r/il/3e5637/2225034944/il_fullxfull.2225034944_hn15.jpg' alt='Border Collie PNG, Dog Design, PNG Design, Digital Download, BorderCollie  dog graphic for Cricut cutout, t-shirt design image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1552">
+                                <meta itemprop="height" content="1720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/7906453/r/il/3e5637/2225034944/il_fullxfull.2225034944_hn15.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Border Collie PNG Transparent Images Free Download | Vector Files ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20230923/ourmid/pngtree-black-and-white-border-collie-white-background-png-image_10054341.png' alt='Border Collie PNG Transparent Images Free Download | Vector Files ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20230923/ourmid/pngtree-black-and-white-border-collie-white-background-png-image_10054341.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Border Collie Puppy Cat Pet Veterinarian PNG - Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e5/73/66/e57366d078c03c19af248736c0cd3309.jpg' alt='Border Collie Puppy Cat Pet Veterinarian PNG - Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="927">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e5/73/66/e57366d078c03c19af248736c0cd3309.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animal Border Collie dog Design Elements Isolated Transparent ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/05/71/45/31/1000_F_571453114_P3Dw2aEfkhmRQcX56PH198KjJeDjMR6S.jpg' alt='Animal Border Collie dog Design Elements Isolated Transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/05/71/45/31/1000_F_571453114_P3Dw2aEfkhmRQcX56PH198KjJeDjMR6S.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Border Collie Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA4L3Jhd3BpeGVsX29mZmljZV8zMF9waG90b19hX3N0dWRpb19zaG90X29mX2RvZ19naXZlX21lX2ZpdmVfd2F2aV8yOTg4NGY5Ni0xZGQxLTQ0N2EtODNmNi0zM2Q1NGIxOGU1YjgucG5n.png' alt='Border Collie Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="918">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA4L3Jhd3BpeGVsX29mZmljZV8zMF9waG90b19hX3N0dWRpb19zaG90X29mX2RvZ19naXZlX21lX2ZpdmVfd2F2aV8yOTg4NGY5Ni0xZGQxLTQ0N2EtODNmNi0zM2Q1NGIxOGU1YjgucG5n.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Border Collie Png Svg Clipart Vector Graphic by DynjoDesigns ...">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2023/03/31/Border-Collie-Png-Svg-Clipart-Vector-Graphics-65804883-3-580x387.png' alt='Border Collie Png Svg Clipart Vector Graphic by DynjoDesigns ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="580">
+                                <meta itemprop="height" content="387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2023/03/31/Border-Collie-Png-Svg-Clipart-Vector-Graphics-65804883-3-580x387.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Border Collie Dog - Brown and White Border Collie Illustration ...">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180920/scv/kisspng-dog-breed-border-collie-rough-collie-old-english-s-5ba34694127b12.8684139815374270920757.jpg' alt='Border Collie Dog - Brown and White Border Collie Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="820">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180920/scv/kisspng-dog-breed-border-collie-rough-collie-old-english-s-5ba34694127b12.8684139815374270920757.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="41,700+ Border Collie Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/505372604/photo/playful-border-collie.jpg?s=612x612&w=0&k=20&c=Av2ZIslovAb-bwON7Wuz-FvSsRfjqseQZEfM_uHHd2U=' alt='41,700+ Border Collie Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="534">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/505372604/photo/playful-border-collie.jpg?s=612x612&w=0&k=20&c=Av2ZIslovAb-bwON7Wuz-FvSsRfjqseQZEfM_uHHd2U=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Border Collie Purebred, Dog, White, Border Collie PNG Transparent ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20231110/original/pngtree-border-collie-purebred-picture-image_13250961.png' alt='Border Collie Purebred, Dog, White, Border Collie PNG Transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20231110/original/pngtree-border-collie-purebred-picture-image_13250961.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

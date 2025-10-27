@@ -1,0 +1,129 @@
+<title>Get High-Quality Fortnite PNG Images for Your Projects!</title>
+                    <meta name="description" content="Explore a vast collection of Fortnite PNG images! Perfect for fans and creators, these transparent images enhance your graphics, wallpapers, and social media content. Unleash your creativity with high-quality assets from the Fortnite universe!">
+                    <meta name="keywords" content="fortnite png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fortnite-png">
+                            <span itemprop="name">fortnite png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Get High-Quality Fortnite PNG Images for Your Projects!</h1>
+                <p>Fortnite PNG images are essential for fans and content creators looking to enhance their gaming experience. These transparent images bring characters, emotes, and scenes to life, enabling users to create eye-catching graphics, wallpapers, and social media posts. Discover a variety of high-quality Fortnite PNG images for your projects!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/294/297/png-clipart-fortnite-battle-royale-computer-icons-desktop-battle-royale-game-fortnite-battle-royal-thumbnail.png' alt='Fortnite png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="348">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/294/297/png-clipart-fortnite-battle-royale-computer-icons-desktop-battle-royale-game-fortnite-battle-royal-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Logo transparent PNG - StickPNG">
+                                <img itemprop="contentUrl url" src='https://assets.stickpng.com/images/5ef09460f3d0af0004ad1776.png' alt='Fortnite Logo transparent PNG - StickPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StickPNG" />
+                                </span>
+                                <a href='https://assets.stickpng.com/images/5ef09460f3d0af0004ad1776.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite PNG transparent image download, size: 1024x1024px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/fortnite_PNG19.png' alt='Fortnite PNG transparent image download, size: 1024x1024px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/fortnite_PNG19.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e1.pngegg.com/pngimages/207/32/png-clipart-fortnite-fortnite-battle-royale-thumbnail.png' alt='Fortnite png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e1.pngegg.com/pngimages/207/32/png-clipart-fortnite-fortnite-battle-royale-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite logo PNG transparent image download, size: 5400x1800px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/fortnite_PNG97.png' alt='Fortnite logo PNG transparent image download, size: 5400x1800px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5400">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/fortnite_PNG97.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Characters transparent PNG - StickPNG">
+                                <img itemprop="contentUrl url" src='https://assets.stickpng.com/images/5b43b81fe99939b4572e32ac.png' alt='Fortnite Characters transparent PNG - StickPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1835">
+                                <meta itemprop="height" content="878">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StickPNG" />
+                                </span>
+                                <a href='https://assets.stickpng.com/images/5b43b81fe99939b4572e32ac.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Fortnite.png - Wikimedia Commons">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/3/36/Fortnite.png' alt='File:Fortnite.png - Wikimedia Commons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1581">
+                                <meta itemprop="height" content="441">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikimedia Commons" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/3/36/Fortnite.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Leviathan transparent PNG - StickPNG">
+                                <img itemprop="contentUrl url" src='https://assets.stickpng.com/images/5b43b7d9e99939b4572e32a2.png' alt='Fortnite Leviathan transparent PNG - StickPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StickPNG" />
+                                </span>
+                                <a href='https://assets.stickpng.com/images/5b43b7d9e99939b4572e32a2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/601/851/png-clipart-fortnite-logo-playstation-4-battle-royale-game-llama-fortnite-fortnite-poster-text-monochrome-thumbnail.png' alt='Fortnite png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="232">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/601/851/png-clipart-fortnite-logo-playstation-4-battle-royale-game-llama-fortnite-fortnite-poster-text-monochrome-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="fortnite logo png, fortnite icon transparent png 27127477 PNG">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/027/127/477/non_2x/fortnite-logo-fortnite-icon-transparent-free-png.png' alt='fortnite logo png, fortnite icon transparent png 27127477 PNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/027/127/477/non_2x/fortnite-logo-fortnite-icon-transparent-free-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

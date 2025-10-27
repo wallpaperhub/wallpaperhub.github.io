@@ -1,0 +1,129 @@
+<title>Girly Floral Wallpaper: Elevate Your Space</title>
+                    <meta name="description" content="Add a splash of charm to your decor with our girly floral wallpaper! Ideal for any room, it features beautiful floral patterns that create a cozy, inviting atmosphere. Perfect for adding a feminine touch, discover designs that brighten your space and reflect your unique style. Shop now for your dream decor!">
+                    <meta name="keywords" content="girly floral wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/girly-floral-wallpaper">
+                            <span itemprop="name">girly floral wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Girly Floral Wallpaper: Elevate Your Space</h1>
+                <p>Transform your space with girly floral wallpaper that brings a touch of charm and elegance. Perfect for bedrooms, nurseries, or any area craving a fresh look, these wallpapers feature vibrant flowers and soft pastels, adding a feminine flair. Explore various designs to create a serene, stylish environment that inspires relaxation and joy.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cutesie Floral Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='http://shop.projectnursery.com/cdn/shop/products/Cutsie.jpg?v=1660919278' alt='Cutesie Floral Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Project Nursery" />
+                                </span>
+                                <a href='http://shop.projectnursery.com/cdn/shop/products/Cutsie.jpg?v=1660919278' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WENMER Pink Floral Wallpaper 17.7" x 78.7" Peel and Stick Peach Pink Flower  Wallpaper Decorative Watercolor Removable Wallpaper for Dresser Cabinet ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81IrZuGbwUL._AC_UF894,1000_QL80_.jpg' alt='WENMER Pink Floral Wallpaper 17.7" x 78.7" Peel and Stick Peach Pink Flower  Wallpaper Decorative Watercolor Removable Wallpaper for Dresser Cabinet ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81IrZuGbwUL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galerie G56649 Delicate Floral Pink Green Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/250504.jpg' alt='Galerie G56649 Delicate Floral Pink Green Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/250504.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Françoise Floral' Wallpaper by Clare V. - Blush">
+                                <img itemprop="contentUrl url" src='https://www.wallshoppe.com/cdn/shop/products/Francoise_Floral_by_Clare_V_Blush_detail_720x.jpg?v=1633378017' alt=''Françoise Floral' Wallpaper by Clare V. - Blush'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='https://www.wallshoppe.com/cdn/shop/products/Francoise_Floral_by_Clare_V_Blush_detail_720x.jpg?v=1633378017' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Wallpaper | Flowers, Roses & More | I Love Wallpaper">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/1-GorgeousGardinea-SageGreenandPinkonWhite_ILW50251_Thumbnail_WEB_0bb0baca-2190-4144-a6aa-963daab03ead.webp?crop=center&height=1080&v=1706014431&width=1080' alt='Floral Wallpaper | Flowers, Roses & More | I Love Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/1-GorgeousGardinea-SageGreenandPinkonWhite_ILW50251_Thumbnail_WEB_0bb0baca-2190-4144-a6aa-963daab03ead.webp?crop=center&height=1080&v=1706014431&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Wallpaper, Peony Wallpaper, Pink Floral Wallpaper, Baby ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17487362/r/il/4503cb/3264144119/il_570xN.3264144119_oonn.jpg' alt='Floral Wallpaper, Peony Wallpaper, Pink Floral Wallpaper, Baby ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17487362/r/il/4503cb/3264144119/il_570xN.3264144119_oonn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Girly floral">
+                                <img itemprop="contentUrl url" src='https://lagrandclassique.com/cdn/shop/products/00199_girly_floral_main_800x.jpg?v=1667383610' alt='Girly floral'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="La Grand Classique" />
+                                </span>
+                                <a href='https://lagrandclassique.com/cdn/shop/products/00199_girly_floral_main_800x.jpg?v=1667383610' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Françoise Floral' Wallpaper by Clare V. - Blush">
+                                <img itemprop="contentUrl url" src='http://www.wallshoppe.com/cdn/shop/products/Francoise_Floral_by_Clare_V_Blush_design_4d5da9d8-2d00-4bff-b81b-c927f96e3ee2.jpg?v=1633378017' alt=''Françoise Floral' Wallpaper by Clare V. - Blush'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='http://www.wallshoppe.com/cdn/shop/products/Francoise_Floral_by_Clare_V_Blush_design_4d5da9d8-2d00-4bff-b81b-c927f96e3ee2.jpg?v=1633378017' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral wallpaper - country style - gloss » buy online | A.S.">
+                                <img itemprop="contentUrl url" src='https://www.new-walls.com/media/c1/26/ee/1711236569/0d1ef065bfe4926fe27cba0d39326c82.webp' alt='Floral wallpaper - country style - gloss » buy online | A.S.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="New-Walls.com" />
+                                </span>
+                                <a href='https://www.new-walls.com/media/c1/26/ee/1711236569/0d1ef065bfe4926fe27cba0d39326c82.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mays Stripe MF20811">
+                                <img itemprop="contentUrl url" src='https://mayflowerwallpaper.com/cdn/shop/products/mays-stripe-mf20811-410828.jpg?v=1675881929' alt='Mays Stripe MF20811'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1119">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mayflower Wallpaper" />
+                                </span>
+                                <a href='https://mayflowerwallpaper.com/cdn/shop/products/mays-stripe-mf20811-410828.jpg?v=1675881929' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Vibrant Red Wallpaper Ideas for Every Room</title>
+                    <meta name="description" content="Explore our collection of red wallpaper, designed to energize your home. Perfect for creating a bold accent wall or a warm ambiance, our selection features diverse patterns and textures. Upgrade your interior with striking red hues today!">
+                    <meta name="keywords" content="color red wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red">
+                            <span itemprop="name">Red</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red/color-red-wallpaper">
+                            <span itemprop="name">color red wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Red Wallpaper Ideas for Every Room</h1>
+                <p>Transform your space with stunning red wallpaper that radiates energy and warmth. Featuring various shades and patterns, it’s perfect for adding a bold touch to any room. Whether you're looking to create a cozy atmosphere or a vibrant statement wall, red wallpaper is a timeless choice. Discover designs that suit every style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1920x1080 Red Solid Color Background">
+                                <img itemprop="contentUrl url" src='https://www.solidbackgrounds.com/images/1920x1080/1920x1080-red-solid-color-background.jpg' alt='1920x1080 Red Solid Color Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Solid Color Backgrounds" />
+                                </span>
+                                <a href='https://www.solidbackgrounds.com/images/1920x1080/1920x1080-red-solid-color-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Color Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/grainy-pure-red-surface-xvcftytjy1gdccsk.jpg' alt='Red Color Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/grainy-pure-red-surface-xvcftytjy1gdccsk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1125x2436 Dark Red Solid Color Background">
+                                <img itemprop="contentUrl url" src='https://www.solidbackgrounds.com/images/1125x2436/1125x2436-dark-red-solid-color-background.jpg' alt='1125x2436 Dark Red Solid Color Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Solid Color Backgrounds" />
+                                </span>
+                                <a href='https://www.solidbackgrounds.com/images/1125x2436/1125x2436-dark-red-solid-color-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solid Red Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/card-soft-template-paper-report_1258-167.jpg' alt='Solid Red Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/card-soft-template-paper-report_1258-167.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple Dark Red Solid Color Wallpaper Background Wallpaper Image ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/87/03/3f/87033fcb65eaf4cadac3cdc2b60ffe25.jpg' alt='Simple Dark Red Solid Color Wallpaper Background Wallpaper Image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="896">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/87/03/3f/87033fcb65eaf4cadac3cdc2b60ffe25.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blank Red Color Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/glowing-red-color-rays-rzs2jq99m3fomrgs.webp' alt='Blank Red Color Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/glowing-red-color-rays-rzs2jq99m3fomrgs.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD the color red wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/653/205/HD-wallpaper-red-smoke-red-colorful-red-color-%C5%9Eahin-thumbnail.jpg' alt='HD the color red wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/653/205/HD-wallpaper-red-smoke-red-colorful-red-color-%C5%9Eahin-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solid Red Color Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/16075036/p/f/m/omYmXR1vG0g5JIeBULRdOlNP_tSH3Op83sqluA5Voz-l-SIXEWGD1IY/burgandy%20red%20solid.jpg' alt='Solid Red Color Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/16075036/p/f/m/omYmXR1vG0g5JIeBULRdOlNP_tSH3Op83sqluA5Voz-l-SIXEWGD1IY/burgandy%20red%20solid.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Red Color Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/red-color-rbcjk3mwnuadind4.jpg' alt='200+] Red Color Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/red-color-rbcjk3mwnuadind4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900+ Red Background Images: Download HD Backgrounds on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1595757816291-ab4c1cba0fc2?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8cmVkJTIwYmFja2dyb3VuZHxlbnwwfHwwfHx8MA%3D%3D' alt='900+ Red Background Images: Download HD Backgrounds on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1595757816291-ab4c1cba0fc2?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8cmVkJTIwYmFja2dyb3VuZHxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

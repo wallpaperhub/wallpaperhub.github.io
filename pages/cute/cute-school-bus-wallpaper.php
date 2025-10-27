@@ -1,0 +1,129 @@
+<title>Adorable School Bus Wallpapers for Kids</title>
+                    <meta name="description" content="Discover the cutest school bus wallpapers that brighten up your screen! Perfect for kids and bus enthusiasts, our collection features vibrant designs to inspire joy and creativity. Download now and bring a cheerful touch to your device's background!">
+                    <meta name="keywords" content="cute school bus wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-school-bus-wallpaper">
+                            <span itemprop="name">cute school bus wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable School Bus Wallpapers for Kids</h1>
+                <p>Transform your device with adorable school bus wallpapers! Perfect for kids and bus lovers, these cute designs feature bright colors and cheerful themes that bring a smile. Whether you're decorating a classroom or your home screen, these wallpapers add a touch of fun and creativity. Download your favorite today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="School Buses Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/13101365/p/f/m/NaeYiA_v1KtmCUCArKUZEIRway7H8V1tm2rVgr_y1irWoGG7pP_0lPY/Back%20to%20School%20Vintage%20Boy%20Pattern.jpg' alt='School Buses Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/13101365/p/f/m/NaeYiA_v1KtmCUCArKUZEIRway7H8V1tm2rVgr_y1irWoGG7pP_0lPY/Back%20to%20School%20Vintage%20Boy%20Pattern.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Bus Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/11840399/p/f/m/e3nj5MrMkGUm89jeDPlPqH5BCA_O8A5RD-2UCKVkkp1HH9PQCVJvsUWyFg/School%20Buses%20%26%20Flowers%20%20(Small%20Scale).jpg' alt='Cute Bus Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/11840399/p/f/m/e3nj5MrMkGUm89jeDPlPqH5BCA_O8A5RD-2UCKVkkp1HH9PQCVJvsUWyFg/School%20Buses%20%26%20Flowers%20%20(Small%20Scale).jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download School Bus And Apple Pattern Background Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/school-bus-and-apple-pattern-background-ed481bl83strslp7.jpg' alt='Download School Bus And Apple Pattern Background Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/school-bus-and-apple-pattern-background-ed481bl83strslp7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cute Yellow School Bus Clipart Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-yellow-school-bus-clipart-7d0t99n273fe7052.jpg' alt='Download Cute Yellow School Bus Clipart Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-yellow-school-bus-clipart-7d0t99n273fe7052.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow School Bus Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/6399293/p/f/l/lRLDnz4NMz7FoheYDrvsLkLwuHT-pztJvBSxRJnUNtss41L1sFRlLq2vbf4/school%20bus%20fabric.jpg' alt='Yellow School Bus Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/6399293/p/f/l/lRLDnz4NMz7FoheYDrvsLkLwuHT-pztJvBSxRJnUNtss41L1sFRlLq2vbf4/school%20bus%20fabric.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="School Bus Wallpaper - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/46279494/r/il/4b01e0/6035749848/il_300x300.6035749848_ld7u.jpg' alt='School Bus Wallpaper - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/46279494/r/il/4b01e0/6035749848/il_300x300.6035749848_ld7u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Digital Illustration Yellow School Bus Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/digital-illustration-yellow-school-bus-4xzbzcxvcvrko2dn.jpg' alt='Download Digital Illustration Yellow School Bus Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/digital-illustration-yellow-school-bus-4xzbzcxvcvrko2dn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vector Seamless Pattern With School Bus Background, Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/03/35/04/03350487ff9dfa122d9baf369f1005e7.jpg' alt='Vector Seamless Pattern With School Bus Background, Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/03/35/04/03350487ff9dfa122d9baf369f1005e7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bus Pattern Stock Illustrations – 10,531 Bus Pattern Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/z/school-bus-pattern-26690858.jpg' alt='Bus Pattern Stock Illustrations – 10,531 Bus Pattern Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1587">
+                                <meta itemprop="height" content="1690">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/z/school-bus-pattern-26690858.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Bus Back Stock Illustrations – 1,414 Retro Bus Back Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/retro-school-bus-pastel-pattern-seamless-repeating-doodle-design-back-to-background-330151622.jpg' alt='Retro Bus Back Stock Illustrations – 1,414 Retro Bus Back Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/retro-school-bus-pastel-pattern-seamless-repeating-doodle-design-back-to-background-330151622.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

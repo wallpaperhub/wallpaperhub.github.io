@@ -1,0 +1,129 @@
+<title>Criminal Record Search: Your Essential Guide</title>
+                    <meta name="description" content="Discover how to perform a criminal record search effectively. From hiring background check services to utilizing online databases, ensure you have the information for safer choices in employment and housing. Stay informed and make confident decisions with our comprehensive guide.">
+                    <meta name="keywords" content="criminal record search">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/criminal-record-search">
+                            <span itemprop="name">criminal record search</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Criminal Record Search: Your Essential Guide</h1>
+                <p>Conducting a criminal record search is vital for various reasons, including employment verification, tenant screening, and personal safety. This process involves accessing public records to uncover any past criminal history. Understanding the search process and knowing where to look can help individuals make informed decisions.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Instant National Criminal Search, Search Background Checks ...">
+                                <img itemprop="contentUrl url" src='https://www.criminalbackgroundrecords.com/images/Criminal%20Report_Final.JPG' alt='Instant National Criminal Search, Search Background Checks ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1097">
+                                <meta itemprop="height" content="1428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Criminal Background Records" />
+                                </span>
+                                <a href='https://www.criminalbackgroundrecords.com/images/Criminal%20Report_Final.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Criminal Records Search | Crime Search Engines Free Trial">
+                                <img itemprop="contentUrl url" src='https://www.tracers.com/wp-content/uploads/2021/06/Criminal-Record-Search.jpg' alt='Criminal Records Search | Crime Search Engines Free Trial'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tracers" />
+                                </span>
+                                <a href='https://www.tracers.com/wp-content/uploads/2021/06/Criminal-Record-Search.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Access Florida State Records & Free Public Information">
+                                <img itemprop="contentUrl url" src='https://florida.recordspage.org/wp-content/uploads/sites/10/2024/04/State-Of-Florida-Criminal-History-Record-Check-Screenshot.webp' alt='Access Florida State Records & Free Public Information'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="florida.recordspage.org" />
+                                </span>
+                                <a href='https://florida.recordspage.org/wp-content/uploads/sites/10/2024/04/State-Of-Florida-Criminal-History-Record-Check-Screenshot.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Criminal Background Check In Florida (Online Criminal and ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/uJBcxHz6Cqk/maxresdefault.jpg' alt='Free Criminal Background Check In Florida (Online Criminal and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/uJBcxHz6Cqk/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arrest Records Search Online | Online Background Checks">
+                                <img itemprop="contentUrl url" src='https://hireshield.com/wp-content/uploads/2018/09/Hireshield-Product-Arrest-Records.png' alt='Arrest Records Search Online | Online Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="601">
+                                <meta itemprop="height" content="603">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HireShield" />
+                                </span>
+                                <a href='https://hireshield.com/wp-content/uploads/2018/09/Hireshield-Product-Arrest-Records.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Instant National Criminal Search, Search Background Checks ...">
+                                <img itemprop="contentUrl url" src='http://www.criminalbackgroundrecords.com/images/finalNoRecords.jpg' alt='Instant National Criminal Search, Search Background Checks ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1106">
+                                <meta itemprop="height" content="1494">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Criminal Background Records" />
+                                </span>
+                                <a href='http://www.criminalbackgroundrecords.com/images/finalNoRecords.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="County Criminal Records Search - Accurate Public Records">
+                                <img itemprop="contentUrl url" src='https://accuratepublicrecords.com/wp-content/uploads/2021/08/County-Criminal-Records-Search.png' alt='County Criminal Records Search - Accurate Public Records'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1275">
+                                <meta itemprop="height" content="1650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Accurate Public Records" />
+                                </span>
+                                <a href='https://accuratepublicrecords.com/wp-content/uploads/2021/08/County-Criminal-Records-Search.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="State Criminal History searches criminal records directly at the state">
+                                <img itemprop="contentUrl url" src='https://f.hubspotusercontent30.net/hubfs/7261588/backgroundchecks.com%20Statewide%20Criminal%20Sample.jpg' alt='State Criminal History searches criminal records directly at the state'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2356">
+                                <meta itemprop="height" content="5844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BackgroundChecks.com" />
+                                </span>
+                                <a href='https://f.hubspotusercontent30.net/hubfs/7261588/backgroundchecks.com%20Statewide%20Criminal%20Sample.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="County Court Search – Universal Background Screening">
+                                <img itemprop="contentUrl url" src='https://universalbackground.com/wordpress/wp-content/uploads/2016/07/countycriminal.jpg' alt='County Court Search – Universal Background Screening'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1998">
+                                <meta itemprop="height" content="1852">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Universal Background Screening" />
+                                </span>
+                                <a href='https://universalbackground.com/wordpress/wp-content/uploads/2016/07/countycriminal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Public Arrest Records Florida Free">
+                                <img itemprop="contentUrl url" src='https://public-arrest-records-florida-free.govbackgroundchecks.com/screenshots/public-arrest-records-florida-free/4.jpg' alt='Public Arrest Records Florida Free'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://public-arrest-records-florida-free.govbackgroundchecks.com/screenshots/public-arrest-records-florida-free/4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

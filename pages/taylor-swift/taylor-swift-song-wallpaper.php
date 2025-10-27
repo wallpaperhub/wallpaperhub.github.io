@@ -1,0 +1,129 @@
+<title>Beautiful Taylor Swift Song Wallpapers for Swifties</title>
+                    <meta name="description" content="Discover a collection of captivating Taylor Swift song wallpapers to elevate your device's look. Perfect for die-hard fans, these wallpapers showcase stunning visuals inspired by her iconic hits. Personalize your screens with art that reflects your favorite songs today!">
+                    <meta name="keywords" content="taylor swift song wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/taylor-swift">
+                            <span itemprop="name">Taylor-Swift</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/taylor-swift/taylor-swift-song-wallpaper">
+                            <span itemprop="name">taylor swift song wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful Taylor Swift Song Wallpapers for Swifties</h1>
+                <p>Transform your device with stunning Taylor Swift song wallpapers! Celebrate your favorite tracks and albums with breathtaking art that captures her musical essence. From "Lover" to "Folklore," find vibrant images that reflect the mood of her songs. Perfect for Swifties looking to personalize their screens!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="evermore wallpapers that I made! I'd gladly take requests, just ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/obqpwymbvjt71.jpg?width=900&format=pjpg&auto=webp&s=9df40d6421f6094fcb0bd830effbe53ed0d8ed36' alt='evermore wallpapers that I made! I'd gladly take requests, just ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/obqpwymbvjt71.jpg?width=900&format=pjpg&auto=webp&s=9df40d6421f6094fcb0bd830effbe53ed0d8ed36' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone wallpapers for each Eras show : r/TaylorSwift">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/phone-wallpapers-for-each-eras-show-v0-tgkzx6l2q7wa1.jpg?width=1755&format=pjpg&auto=webp&s=d002b35f5e71233abf2612f6e3bc9306aaefd5c7' alt='Phone wallpapers for each Eras show : r/TaylorSwift'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1755">
+                                <meta itemprop="height" content="3120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/phone-wallpapers-for-each-eras-show-v0-tgkzx6l2q7wa1.jpg?width=1755&format=pjpg&auto=webp&s=d002b35f5e71233abf2612f6e3bc9306aaefd5c7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Taylor Swift Lyrics Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/taylor-swift-lyrics-1080-x-1920-aoxru0bkuy5bolue.jpg' alt='100+] Taylor Swift Lyrics Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/taylor-swift-lyrics-1080-x-1920-aoxru0bkuy5bolue.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Small Quotes From Taylor Swift Songs Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/small-quotes-from-taylor-swift-songs-v7yzpa240h6l23av.jpg' alt='Small Quotes From Taylor Swift Songs Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/small-quotes-from-taylor-swift-songs-v7yzpa240h6l23av.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift Lyrics Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2e/0f/d6/2e0fd6ebe36c5c259b5f6c2e11c2a2f4.jpg' alt='Taylor Swift Lyrics Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2e/0f/d6/2e0fd6ebe36c5c259b5f6c2e11c2a2f4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hi guys i'm making this kind of lyrics wallpapers i hope you like ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/kzwl5gnlyiy71.jpg?width=640&crop=smart&auto=webp&s=88f51a1a29c3864d0db2c2e6c09896ef7eb3c35f' alt='Hi guys i'm making this kind of lyrics wallpapers i hope you like ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/kzwl5gnlyiy71.jpg?width=640&crop=smart&auto=webp&s=88f51a1a29c3864d0db2c2e6c09896ef7eb3c35f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TAYLOR SWIFT MUSIC PLAYER AESTHETIC">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0c/2e/6d/0c2e6dd5675fe90b42dbca61c811372c.jpg' alt='TAYLOR SWIFT MUSIC PLAYER AESTHETIC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0c/2e/6d/0c2e6dd5675fe90b42dbca61c811372c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Taylor Swift Lyrics With Purple Stars Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/taylor-swift-lyrics-l9bitjblcv89uvy6.jpg' alt='Download Taylor Swift Lyrics With Purple Stars Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="863">
+                                <meta itemprop="height" content="1757">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/taylor-swift-lyrics-l9bitjblcv89uvy6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift Lover, 2019, daylight, lyrics, music, taylor swift ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/224/265/HD-wallpaper-taylor-swift-lover-2019-daylight-lyrics-music-taylor-swift.jpg' alt='Taylor Swift Lover, 2019, daylight, lyrics, music, taylor swift ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/224/265/HD-wallpaper-taylor-swift-lover-2019-daylight-lyrics-music-taylor-swift.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="@taylorswift        #lover #erastour #taylorswifttok #taylorswift #fypシ  #greenscreen sry i havent posted in a while!">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7220454515936480554&location=0&aid=1988' alt='@taylorswift        #lover #erastour #taylorswifttok #taylorswift #fypシ  #greenscreen sry i havent posted in a while!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7220454515936480554&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

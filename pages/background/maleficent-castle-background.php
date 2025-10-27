@@ -1,0 +1,129 @@
+<title>Maleficent Castle: Enchanting Background & Mystique</title>
+                    <meta name="description" content="Discover the enchanting background of Maleficent's castle, a breathtaking blend of magic and intrigue. Explore its dark beauty and captivating spires that embody the essence of one of Disney's most iconic characters. Perfect for fans seeking to delve into the mystical world of Maleficent.">
+                    <meta name="keywords" content="maleficent castle background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/maleficent-castle-background">
+                            <span itemprop="name">maleficent castle background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Maleficent Castle: Enchanting Background & Mystique</h1>
+                <p>Maleficent's castle background is a hauntingly beautiful setting that evokes a sense of magic and mystery. Nestled among dark forests and towering mountains, its twisted spires and ethereal glow captivate the imagination. This iconic backdrop is not only a symbol of enchantment but also of the complex emotions surrounding the character of Maleficent.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Forbidden Mountain | Disney Wikmrd Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/disney-wikmrd/images/6/67/Forbidden_Mountain.jpg/revision/latest?cb=20170323191424' alt='Forbidden Mountain | Disney Wikmrd Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="330">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Wikmrd Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/disney-wikmrd/images/6/67/Forbidden_Mountain.jpg/revision/latest?cb=20170323191424' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney Sleeping Beauty Maleficent's Castle Disney Art Illustration ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/19797905/r/il/d11710/2485042801/il_fullxfull.2485042801_6ps2.jpg' alt='Disney Sleeping Beauty Maleficent's Castle Disney Art Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2121">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/19797905/r/il/d11710/2485042801/il_fullxfull.2485042801_6ps2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney Villains - Bring Maleficent's castle - and more bad ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10158218191156055' alt='Disney Villains - Bring Maleficent's castle - and more bad ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10158218191156055' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="23 Reasons Maleficent Is The Most Badass Disney Villain">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/3c/d3/e5/3cd3e5b1010a04e77cf4d3302598d84f.jpg' alt='23 Reasons Maleficent Is The Most Badass Disney Villain'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="490">
+                                <meta itemprop="height" content="207">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/3c/d3/e5/3cd3e5b1010a04e77cf4d3302598d84f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MALEFICENT CASTLE FLOOR / BACKDROP - PKP">
+                                <img itemprop="contentUrl url" src='http://pkppropsanddecor.com/cdn/shop/files/QW.png?v=1688925911' alt='MALEFICENT CASTLE FLOOR / BACKDROP - PKP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="998">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PKP PROPS and Decor" />
+                                </span>
+                                <a href='http://pkppropsanddecor.com/cdn/shop/files/QW.png?v=1688925911' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SLEEPING BEAUTY, MALEFICENT CASTLE, 1959, POSTCARD, FILM FRAME | eBay">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/UW8AAOSwkJZc35SU/s-l400.jpg' alt='SLEEPING BEAUTY, MALEFICENT CASTLE, 1959, POSTCARD, FILM FRAME | eBay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/UW8AAOSwkJZc35SU/s-l400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated Antic on X: "One attention to detail I love in Sleeping ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/EoKs5xZVQAEzI7e?format=jpg&name=4096x4096' alt='Animated Antic on X: "One attention to detail I love in Sleeping ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1129">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/EoKs5xZVQAEzI7e?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maleficent- Early iron clad castle concept⁠ This was very early ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3351940795362143704' alt='Maleficent- Early iron clad castle concept⁠ This was very early ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3351940795362143704' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maleficent's castle">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/38/21/d6/3821d6e992ec95eeb171fdd4e1b77284.gif' alt='Maleficent's castle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/38/21/d6/3821d6e992ec95eeb171fdd4e1b77284.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maleficent Castle Entrance and Throne Garage Facade | Halloween Forum">
+                                <img itemprop="contentUrl url" src='https://www.halloweenforum.com/attachments/tumblr_mn67q5rqgm1s4zjvuo1_1280-jpg.252527/' alt='Maleficent Castle Entrance and Throne Garage Facade | Halloween Forum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="273">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Halloween Forum" />
+                                </span>
+                                <a href='https://www.halloweenforum.com/attachments/tumblr_mn67q5rqgm1s4zjvuo1_1280-jpg.252527/' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

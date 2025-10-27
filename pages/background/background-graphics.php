@@ -1,0 +1,129 @@
+<title>Stunning Background Graphics to Elevate Your Design</title>
+                    <meta name="description" content="Discover how to transform your projects with eye-catching background graphics. Learn tips and techniques to select and implement backgrounds that enhance your design, improve user engagement, and communicate your brand effectively. Perfect for web and print use!">
+                    <meta name="keywords" content="background graphics">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/background-graphics">
+                            <span itemprop="name">background graphics</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Background Graphics to Elevate Your Design</h1>
+                <p>Background graphics play a crucial role in enhancing visual appeal and creating an immersive experience for users. They set the tone and atmosphere for any layout, whether it's for websites, presentations, or print materials. Using the right background graphics can elevate branding, draw attention, and improve user engagement.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graphics Background Design Vector Art, Icons, and Graphics for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/001/849/553/small/modern-gold-background-free-vector.jpg' alt='Graphics Background Design Vector Art, Icons, and Graphics for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="313">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/001/849/553/small/modern-gold-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graphics Background Design Vector Art, Icons, and Graphics for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/002/106/276/small/geometric-black-and-gold-background-free-vector.jpg' alt='Graphics Background Design Vector Art, Icons, and Graphics for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="313">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/002/106/276/small/geometric-black-and-gold-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graphic Background" Images – Browse 58,666 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/06/56/81/58/360_F_656815872_7a94JYMrZfbLGpPTD1gRUF4yScdAjdtl.jpg' alt='Graphic Background" Images – Browse 58,666 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/06/56/81/58/360_F_656815872_7a94JYMrZfbLGpPTD1gRUF4yScdAjdtl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graphic Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/realistic-polygonal-background_52683-60158.jpg' alt='Graphic Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/realistic-polygonal-background_52683-60158.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graphic Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210709/original/pngtree-simple-abstract-graphics-color-picture-image_946381.jpg' alt='Graphic Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1799">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210709/original/pngtree-simple-abstract-graphics-color-picture-image_946381.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Graphics Backgrounds to Download">
+                                <img itemprop="contentUrl url" src='https://unblast.com/wp-content/uploads/2023/04/Dynamic-Background-Designs-1.jpg' alt='Free Graphics Backgrounds to Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="440">
+                                <meta itemprop="height" content="330">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unblast" />
+                                </span>
+                                <a href='https://unblast.com/wp-content/uploads/2023/04/Dynamic-Background-Designs-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Background Graphics Vector Art & Graphics | freevector.com">
+                                <img itemprop="contentUrl url" src='https://www.freevector.com/uploads/vector/preview/8186/FreeVector-Blue-Background-Graphics.jpg' alt='Blue Background Graphics Vector Art & Graphics | freevector.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="765">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Vector Art & Graphics" />
+                                </span>
+                                <a href='https://www.freevector.com/uploads/vector/preview/8186/FreeVector-Blue-Background-Graphics.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graphic Design Abstract Inspiring Backgrounds And Textures ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/wp/202343/graphic-design-abstract-inspiring-backgrounds-and-textures_9939893.jpg!w700wp' alt='Graphic Design Abstract Inspiring Backgrounds And Textures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/wp/202343/graphic-design-abstract-inspiring-backgrounds-and-textures_9939893.jpg!w700wp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="237,056 Graphic Backgrounds High Res Illustrations - Getty Images ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1370189361/vector/abstract-blast-excitement-explosion-lightning-bolt-patriotic-background.jpg?s=612x612&w=gi&k=20&c=r8rT-XbvKq7OAetrR7tnL3Z8rg974y2DSWoHwO0LX0o=' alt='237,056 Graphic Backgrounds High Res Illustrations - Getty Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="383">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1370189361/vector/abstract-blast-excitement-explosion-lightning-bolt-patriotic-background.jpg?s=612x612&w=gi&k=20&c=r8rT-XbvKq7OAetrR7tnL3Z8rg974y2DSWoHwO0LX0o=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Graphics Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/background-crystal-geometric-colorful-abstract_343694-2894.jpg' alt='Background Graphics Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/background-crystal-geometric-colorful-abstract_343694-2894.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

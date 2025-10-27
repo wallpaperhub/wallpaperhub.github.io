@@ -1,0 +1,129 @@
+<title>Kawaii Food Wallpapers: Cute & Whimsical Designs</title>
+                    <meta name="description" content="Discover the cutest kawaii food wallpapers, perfect for brightening up your device! Enjoy vibrant designs of adorable treats, bento boxes, and more, tailored for lovers of all things cute. Download now to add joyful flair to your screens!">
+                    <meta name="keywords" content="cute kawaii food wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii">
+                            <span itemprop="name">Kawaii</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii/cute-kawaii-food-wallpaper">
+                            <span itemprop="name">cute kawaii food wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Kawaii Food Wallpapers: Cute & Whimsical Designs</h1>
+                <p>Indulge in the sweetness of kawaii food with our delightful wallpaper collection! Featuring adorable desserts, cute bento boxes, and vibrant snacks, these wallpapers bring a joyful touch to your space. Perfect for anime lovers and anyone who enjoys whimsy, transform your screen with these charming illustrations today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Food Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-food-vnp4s9nvgi2bmjnx.jpg' alt='100+] Cute Food Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="699">
+                                <meta itemprop="height" content="1103">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-food-vnp4s9nvgi2bmjnx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Free download Cute Food Wallpaper Sayuri on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/84/55/98/84559849302dd79528df7568ccadf3ae.jpg' alt='   Free download Cute Food Wallpaper Sayuri on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="502">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/84/55/98/84559849302dd79528df7568ccadf3ae.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Food Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/cute-food-characters-smiling-orange-sweet-cake-happy-burger_123891-162781.jpg?semt=ais_hybrid' alt='Kawaii Food Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/cute-food-characters-smiling-orange-sweet-cake-happy-burger_123891-162781.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cute kawaii food illustrations with various smiling ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/kawaii-food-900-x-1600-wallpaper-vmt4kqz3xbtzbp20.jpg' alt='Download Cute kawaii food illustrations with various smiling ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/kawaii-food-900-x-1600-wallpaper-vmt4kqz3xbtzbp20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Food Pattern Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-drawn-cute-food_23-2149602168.jpg' alt='Kawaii Food Pattern Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-drawn-cute-food_23-2149602168.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Kawaii Cute Food Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/69/ee/67/69ee67a8a9c749bfe1fb9e912e0a5132.jpg' alt='Iphone Kawaii Cute Food Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/69/ee/67/69ee67a8a9c749bfe1fb9e912e0a5132.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Cute Girly Japanese Food Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/kawaii-cute-girly-japanese-food-9ul9jah09mck645v.jpg' alt='Kawaii Cute Girly Japanese Food Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/kawaii-cute-girly-japanese-food-9ul9jah09mck645v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Wallpapers (52 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/b/4/e/822888-1080x1920-phone-full-hd-kawaii-wallpaper-photo.jpg' alt='Kawaii Wallpapers (52 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/b/4/e/822888-1080x1920-phone-full-hd-kawaii-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute food Wallpaper 4K, Kawaii food, Kawaii cupcake">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/cute-food-kawaii-1280x1280-10106.png' alt='Cute food Wallpaper 4K, Kawaii food, Kawaii cupcake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/cute-food-kawaii-1280x1280-10106.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Food Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/12968907/p/f/m/kGQjLSMsJJbNwDCPnk9MaZLw3AJ55MQRbkoPf5Z5fuDwkkbXJZplCZ8i-Q/Cat%20picnic%20food.jpg' alt='Kawaii Food Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/12968907/p/f/m/kGQjLSMsJJbNwDCPnk9MaZLw3AJ55MQRbkoPf5Z5fuDwkkbXJZplCZ8i-Q/Cat%20picnic%20food.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

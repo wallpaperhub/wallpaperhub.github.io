@@ -1,0 +1,129 @@
+<title>Exploring the Ethereal Beauty of Abstract Water</title>
+                    <meta name="description" content="Dive into the world of abstract water, an artistic concept that captures the serenity and fluidity of water. Discover how this captivating theme can inspire creativity across various mediums, transforming perceptions and sparking imagination.">
+                    <meta name="keywords" content="abstract water">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/abstract-water">
+                            <span itemprop="name">abstract water</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring the Ethereal Beauty of Abstract Water</h1>
+                <p>Abstract water captivates with its ethereal quality and fluidity, enabling artists and designers to explore themes of serenity and motion. This concept transcends the tangible, inviting viewers to perceive water's essence rather than its form, inspiring creativity in various mediums, from visual art to digital design.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,091,100+ Abstract Water Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1368264124/photo/extreme-close-up-of-thrashing-emerald-ocean-waves.jpg?s=612x612&w=0&k=20&c=-DVP7P2U3U9qqjILIfjgzFe2gfpvbf9wdbPXKn8N_LY=' alt='2,091,100+ Abstract Water Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1368264124/photo/extreme-close-up-of-thrashing-emerald-ocean-waves.jpg?s=612x612&w=0&k=20&c=-DVP7P2U3U9qqjILIfjgzFe2gfpvbf9wdbPXKn8N_LY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7,502,408 Abstract Water Images, Stock Photos, 3D objects ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/cut-paper-collage-repeating-pattern-600nw-2393728269.jpg' alt='7,502,408 Abstract Water Images, Stock Photos, 3D objects ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/cut-paper-collage-repeating-pattern-600nw-2393728269.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,091,100+ Abstract Water Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1359361685/vector/landscape-on-light-background.jpg?s=612x612&w=0&k=20&c=kEE6pd8hOIu5F_2V6ny1qwhUfnxzD5hjHn15jZ2MuMk=' alt='2,091,100+ Abstract Water Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="444">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1359361685/vector/landscape-on-light-background.jpg?s=612x612&w=0&k=20&c=kEE6pd8hOIu5F_2V6ny1qwhUfnxzD5hjHn15jZ2MuMk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Water Abstraction 1 - Limited Edition 1 of 20 Photography by Iryna ...">
+                                <img itemprop="contentUrl url" src='https://images.saatchiart.com/saatchi/1139957/art/5319279/4389095-HSC00002-7.jpg' alt='Water Abstraction 1 - Limited Edition 1 of 20 Photography by Iryna ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="1155">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Saatchi Art" />
+                                </span>
+                                <a href='https://images.saatchiart.com/saatchi/1139957/art/5319279/4389095-HSC00002-7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,091,100+ Abstract Water Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/925440650/photo/underwater-bubbles.jpg?s=612x612&w=0&k=20&c=k_iJkW8e2l7UdUvxRviAFanteIKgsOUYDkWtBrl8nzs=' alt='2,091,100+ Abstract Water Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/925440650/photo/underwater-bubbles.jpg?s=612x612&w=0&k=20&c=k_iJkW8e2l7UdUvxRviAFanteIKgsOUYDkWtBrl8nzs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Abstraction of Water. Quenching the Global Thirst for Water ...">
+                                <img itemprop="contentUrl url" src='https://cdn-images-1.medium.com/max/853/1*0RBXuFT_bBnGMxawie4VYQ.jpeg' alt='The Abstraction of Water. Quenching the Global Thirst for Water ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="852">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://cdn-images-1.medium.com/max/853/1*0RBXuFT_bBnGMxawie4VYQ.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Flowing Water by Wweagle">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/abstract-flowing-water-wweagle.jpg' alt='Abstract Flowing Water by Wweagle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="613">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photos.com by Getty Images" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/abstract-flowing-water-wweagle.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Water Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/fluid-organic-picton-blue-color-abstract-background-unique-designs_851755-377795.jpg' alt='Abstract Water Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/fluid-organic-picton-blue-color-abstract-background-unique-designs_851755-377795.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Water: New Work from France | Cattie Coyle Photography">
+                                <img itemprop="contentUrl url" src='https://blog.cattiecoylephotography.com/wp-content/uploads/2020/08/Abstract-Water-No-15-closeup-Seafoam-green-ocean-art-print-by-Cattie-Coyle-Photography.jpg' alt='Abstract Water: New Work from France | Cattie Coyle Photography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="680">
+                                <meta itemprop="height" content="677">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cattie Coyle Photography | Blog" />
+                                </span>
+                                <a href='https://blog.cattiecoylephotography.com/wp-content/uploads/2020/08/Abstract-Water-No-15-closeup-Seafoam-green-ocean-art-print-by-Cattie-Coyle-Photography.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Water Painting Contemporary by Holly Anderson">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images-medium-large-5/abstract-water-painting-contemporary-holly-anderson.jpg' alt='Abstract Water Painting Contemporary by Holly Anderson'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="897">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixels" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images-medium-large-5/abstract-water-painting-contemporary-holly-anderson.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Moss Green Background: Nature's Calming Canvas</title>
+                    <meta name="description" content="Explore the elegance of moss green backgrounds, perfect for enhancing your design projects. Discover how this soothing color can bring a touch of nature indoors, creating a relaxing atmosphere in digital or physical spaces. Ideal for home decor, websites, and branding. Embrace the tranquility of moss green today!">
+                    <meta name="keywords" content="moss green background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/moss-green-background">
+                            <span itemprop="name">moss green background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Moss Green Background: Nature's Calming Canvas</h1>
+                <p>Moss green backgrounds evoke a sense of tranquility and natural beauty. This versatile hue complements various design aesthetics, whether you're aiming for a rustic, modern, or minimalist look. Perfect for websites, social media, or home decor, a moss green background adds depth and a refreshing touch that promotes relaxation.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1920x1080 Moss Green Solid Color Background">
+                                <img itemprop="contentUrl url" src='https://www.solidbackgrounds.com/images/1920x1080/1920x1080-moss-green-solid-color-background.jpg' alt='1920x1080 Moss Green Solid Color Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Solid Color Backgrounds" />
+                                </span>
+                                <a href='https://www.solidbackgrounds.com/images/1920x1080/1920x1080-moss-green-solid-color-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1920x1080 Deep Moss Green Solid Color Background">
+                                <img itemprop="contentUrl url" src='https://www.solidbackgrounds.com/images/1920x1080/1920x1080-deep-moss-green-solid-color-background.jpg' alt='1920x1080 Deep Moss Green Solid Color Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Solid Color Backgrounds" />
+                                </span>
+                                <a href='https://www.solidbackgrounds.com/images/1920x1080/1920x1080-deep-moss-green-solid-color-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Moss green paper texture background colored ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/moss-green-paper-texture-background-colored-cardboard-fibers-grain-empty-space-concept_279525-24390.jpg' alt='Premium Photo | Moss green paper texture background colored ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/moss-green-paper-texture-background-colored-cardboard-fibers-grain-empty-space-concept_279525-24390.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Deep moss green background with smooth co green screen background ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/deep-moss-green-background-with-smooth-co-green-screen-background-image-wallpaper_1020697-721284.jpg' alt='Deep moss green background with smooth co green screen background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/deep-moss-green-background-with-smooth-co-green-screen-background-image-wallpaper_1020697-721284.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7680x4320 Light Moss Green Solid Color Background">
+                                <img itemprop="contentUrl url" src='https://www.solidbackgrounds.com/images/7680x4320/7680x4320-light-moss-green-solid-color-background.jpg' alt='7680x4320 Light Moss Green Solid Color Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7680">
+                                <meta itemprop="height" content="4320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Solid Color Backgrounds" />
+                                </span>
+                                <a href='https://www.solidbackgrounds.com/images/7680x4320/7680x4320-light-moss-green-solid-color-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Moss Green Felt Stock Photo 58331005 | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/background-moss-green-felt-260nw-58331005.jpg' alt='Background Moss Green Felt Stock Photo 58331005 | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/background-moss-green-felt-260nw-58331005.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moss green watercolor background with light cloudy center and ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/05/19/17/01/1000_F_519170139_vpAa6tINBqw37qcwtLDTqsgx4AdsdbGT.jpg' alt='Moss green watercolor background with light cloudy center and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/05/19/17/01/1000_F_519170139_vpAa6tINBqw37qcwtLDTqsgx4AdsdbGT.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Black dot pattern on a moss green background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/black-dot-pattern-moss-green-background_53876-153828.jpg' alt='Premium Photo | Black dot pattern on a moss green background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/black-dot-pattern-moss-green-background_53876-153828.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10+ Moss Green Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/2155806788/vector/bright-dark-olive-green-colored-like-blank-empty-wood-backdrop-with-blotches-grainy-wooden.jpg?s=612x612&w=0&k=20&c=GHSnxDraIf_qQho6rT67Cd_qJ5STI8eqmj-dqJMfJoM=' alt='10+ Moss Green Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/2155806788/vector/bright-dark-olive-green-colored-like-blank-empty-wood-backdrop-with-blotches-grainy-wooden.jpg?s=612x612&w=0&k=20&c=GHSnxDraIf_qQho6rT67Cd_qJ5STI8eqmj-dqJMfJoM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MOSS GREEN BACKGROUND stock photo. Image of single, smooth - 126264706">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/background-wallpaper-image-moss-colour-single-sheet-green-range-moss-green-background-126264706.jpg' alt='MOSS GREEN BACKGROUND stock photo. Image of single, smooth - 126264706'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="564">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/background-wallpaper-image-moss-colour-single-sheet-green-range-moss-green-background-126264706.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

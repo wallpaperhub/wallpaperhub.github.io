@@ -1,0 +1,129 @@
+<title>Enchanting Princess Backdrop for Magical Events</title>
+                    <meta name="description" content="Add a touch of magic to your celebration with our enchanting princess backdrop. Perfect for birthday parties and events, it creates a whimsical atmosphere for unforgettable photos and memories. Elevate your décor and delight your little princess with this stunning centerpiece.">
+                    <meta name="keywords" content="princess backdrop">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/princess-backdrop">
+                            <span itemprop="name">princess backdrop</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enchanting Princess Backdrop for Magical Events</h1>
+                <p>Transform your event space with a stunning princess backdrop, perfect for birthday parties, themed celebrations, or photo ops. Adorned with enchanting designs, it sets the scene for magical memories. Ideal for little princesses, this backdrop creates a whimsical atmosphere that will delight both children and adults alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Royal Princess Backdrop - Princess Theme Birthday Backdrop - Printed  Photography Backdrop Set up - Cake Smash Backdrop Girl WHM262 ERP - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/9434318/r/il/1e92bd/4964024687/il_1080xN.4964024687_sql2.jpg' alt='Royal Princess Backdrop - Princess Theme Birthday Backdrop - Printed  Photography Backdrop Set up - Cake Smash Backdrop Girl WHM262 ERP - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/9434318/r/il/1e92bd/4964024687/il_1080xN.4964024687_sql2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Princess Castle Backdrop Photography Flower Pink Floor Decorations Girls  1st Birthday Cake Crush Party Photo Background Photo Studio Banner (5x3FT)">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71qdgwC15WL._AC_UF894,1000_QL80_.jpg' alt='Princess Castle Backdrop Photography Flower Pink Floor Decorations Girls  1st Birthday Cake Crush Party Photo Background Photo Studio Banner (5x3FT)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="860">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71qdgwC15WL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kate Pink Princess Castle Birthday Backdrop Designed by Ashley Paul">
+                                <img itemprop="contentUrl url" src='http://www.katebackdrop.com/cdn/shop/files/BH1044256B.jpg?v=1684829797' alt='Kate Pink Princess Castle Birthday Backdrop Designed by Ashley Paul'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="933">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kate Backdrop" />
+                                </span>
+                                <a href='http://www.katebackdrop.com/cdn/shop/files/BH1044256B.jpg?v=1684829797' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pretty Princess Party">
+                                <img itemprop="contentUrl url" src='https://www.hsdbackdrops.com/cdn/shop/files/WHM3177x5princesscakesmashbackdrop.jpg?v=1694668779&width=720' alt='Pretty Princess Party'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="514">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HSD Backdrops" />
+                                </span>
+                                <a href='https://www.hsdbackdrops.com/cdn/shop/files/WHM3177x5princesscakesmashbackdrop.jpg?v=1694668779&width=720' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Princess Backdrop, Princess Banner, Princess Printable Backdrop ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35625614/r/il/0e6a59/5350830137/il_fullxfull.5350830137_slni.jpg' alt='Princess Backdrop, Princess Banner, Princess Printable Backdrop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1502">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35625614/r/il/0e6a59/5350830137/il_fullxfull.5350830137_slni.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kate Sweet Princess Backdrop Pink Golden Castle Designed by Megan Leigh  Photography">
+                                <img itemprop="contentUrl url" src='http://www.katebackdrop.com/cdn/shop/products/KateSweetPrincessBackdropPinkGoldenCastleforPhotography7x5ftBH1037989D.jpg?v=1649390139' alt='Kate Sweet Princess Backdrop Pink Golden Castle Designed by Megan Leigh  Photography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="714">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kate Backdrop" />
+                                </span>
+                                <a href='http://www.katebackdrop.com/cdn/shop/products/KateSweetPrincessBackdropPinkGoldenCastleforPhotography7x5ftBH1037989D.jpg?v=1649390139' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney Princess Party Backdrop Personalized Step & Repeat - Designed,  Printed & Shipped!">
+                                <img itemprop="contentUrl url" src='http://bannersbyroz.com/cdn/shop/products/imagejpg_1200x1200.png?v=1579497901' alt='Disney Princess Party Backdrop Personalized Step & Repeat - Designed,  Printed & Shipped!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Banners by Roz" />
+                                </span>
+                                <a href='http://bannersbyroz.com/cdn/shop/products/imagejpg_1200x1200.png?v=1579497901' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NEW!!! We have added this exact cute princess castle to our rental ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3376517619349725330' alt='NEW!!! We have added this exact cute princess castle to our rental ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1282">
+                                <meta itemprop="height" content="1275">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3376517619349725330' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Disney Princess Backdrop Girl Birthday Party Photo Background  Banner">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/fIsAAOSwRg9i6LlC/s-l1200.jpg' alt='Beautiful Disney Princess Backdrop Girl Birthday Party Photo Background  Banner'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/fIsAAOSwRg9i6LlC/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9x6ft Pink Balloons Princess Birthday Backdrop Sweet One Castle Photography  Background Girls Happy Birthday Party Cake Table Banner Decorations ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71HHk95M5oL._AC_UF894,1000_QL80_.jpg' alt='9x6ft Pink Balloons Princess Birthday Backdrop Sweet One Castle Photography  Background Girls Happy Birthday Party Cake Table Banner Decorations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71HHk95M5oL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Aesthetic Composition Notebook Wallpapers for Creative Inspiration</title>
+                    <meta name="description" content="Discover stunning aesthetic composition notebook wallpapers designed to enhance creativity and productivity. Perfect for students and artists, these digital backgrounds offer beautiful designs and inspire your work environment. Upgrade your device's look with styles that reflect your personality and motivate your daily tasks!">
+                    <meta name="keywords" content="aesthetic composition notebook wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic-composition-notebook-wallpaper">
+                            <span itemprop="name">aesthetic composition notebook wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Composition Notebook Wallpapers for Creative Inspiration</h1>
+                <p>Aesthetic composition notebook wallpapers are perfect for adding a touch of creativity to your digital space. These wallpapers feature pleasing designs, soft palettes, and artistic motifs, making your devices visually appealing. Whether you prefer floral patterns or minimalist aesthetics, these wallpapers inspire productivity and creativity while you study or work, enhancing your experience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ipad composition notebook wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/35/df/89/35df8947ae9f7d45f27ee030aa7c8b4f.jpg' alt='ipad composition notebook wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="337">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/35/df/89/35df8947ae9f7d45f27ee030aa7c8b4f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Pink Squares Wallpaper : Kawaii Aesthetic Composition Book:  Aesthetic Pink Squares Wallpaper : Kawaii Aesthetic Composition Book">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51e-jbMq-EL._AC_UF1000,1000_QL80_.jpg' alt='Aesthetic Pink Squares Wallpaper : Kawaii Aesthetic Composition Book:  Aesthetic Pink Squares Wallpaper : Kawaii Aesthetic Composition Book'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51e-jbMq-EL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IPad Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5d/80/86/5d8086b888ed1222380ffff2f02b846c.jpg' alt='IPad Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5d/80/86/5d8086b888ed1222380ffff2f02b846c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Composition Notebook Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/decorated-composition-notebook-cover-umkt6smur7j2gkqo.jpg' alt='100+] Composition Notebook Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/decorated-composition-notebook-cover-umkt6smur7j2gkqo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPad wallpaper | Gallery posted by Allyn | Lemon8">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7316731823722349061&index=0&sign=9358f349b4a2dfa911b0799a6155c2ed' alt='iPad wallpaper | Gallery posted by Allyn | Lemon8'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1123">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7316731823722349061&index=0&sign=9358f349b4a2dfa911b0799a6155c2ed' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Composition Book Lockscreen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0f/14/2c/0f142c2aa3212bfa8a0adb49184c6b8c.jpg' alt='Composition Book Lockscreen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0f/14/2c/0f142c2aa3212bfa8a0adb49184c6b8c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Composition Notebook College Ruled: Cute Vintage William Morris Blue  Wallpaper Aesthetic Journal for School, College, Office, Work">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81lSfYJfLNL._AC_UF1000,1000_QL80_.jpg' alt='Composition Notebook College Ruled: Cute Vintage William Morris Blue  Wallpaper Aesthetic Journal for School, College, Office, Work'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="811">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81lSfYJfLNL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Composition Notebook Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-fruity-composition-notebook-cover-ptcoocj81j4ixn28.jpg' alt='100+] Composition Notebook Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-fruity-composition-notebook-cover-ptcoocj81j4ixn28.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Composition Notebook Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp12999696.jpg' alt='Composition Notebook Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="901">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp12999696.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Composition Notebook College Ruled: Vintage William Morris Blue Wallpaper  Aesthetic Journal for School, College, Office, Work">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81aR0t80lfL._AC_UF1000,1000_QL80_.jpg' alt='Composition Notebook College Ruled: Vintage William Morris Blue Wallpaper  Aesthetic Journal for School, College, Office, Work'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="811">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81aR0t80lfL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

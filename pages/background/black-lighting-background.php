@@ -1,0 +1,129 @@
+<title>Stunning Black Lighting Backgrounds: Elevate Your Visuals</title>
+                    <meta name="description" content="Discover the power of black lighting backgrounds to elevate your creative projects. Perfect for photographers and designers, these backgrounds enhance contrast and make colors vibrant. Transform your visuals with a touch of sophistication and drama using black lighting effects.">
+                    <meta name="keywords" content="black lighting background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/black-lighting-background">
+                            <span itemprop="name">black lighting background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Black Lighting Backgrounds: Elevate Your Visuals</h1>
+                <p>Black lighting backgrounds offer a stunning contrast that enhances visual elements in photography and design. They provide depth, making colors pop and ensuring that subjects stand out. Ideal for events and creatives alike, a black background can evoke sophistication and drama, transforming any scene into a captivating experience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lightning Black Background Stock Photos, Images and Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/050/393/450/small_2x/abstract-black-marble-lightning-background-photo.jpg' alt='Lightning Black Background Stock Photos, Images and Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/050/393/450/small_2x/abstract-black-marble-lightning-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lightning Black Background Stock Photos, Images and Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/029/950/970/small_2x/storm-lightning-overlay-ready-to-use-black-background-ai-generated-photo.jpg' alt='Lightning Black Background Stock Photos, Images and Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/029/950/970/small_2x/storm-lightning-overlay-ready-to-use-black-background-ai-generated-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="167,786 Black Lightning Background Royalty-Free Images, Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/panorama-dark-cloud-evening-sky-600nw-2309160769.jpg' alt='167,786 Black Lightning Background Royalty-Free Images, Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/panorama-dark-cloud-evening-sky-600nw-2309160769.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Lightning on black background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/lightning-black-background_173948-5928.jpg' alt='Premium Photo | Lightning on black background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/lightning-black-background_173948-5928.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Lightning Background Royalty-Free Images, Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/flash-lightning-on-dark-background-600nw-1922090477.jpg' alt='Dark Lightning Background Royalty-Free Images, Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="275">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/flash-lightning-on-dark-background-600nw-1922090477.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="890+ Lightning Black Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1370824094/vector/set-of-four-different-lightning-bolts-isolated-on-black-background.jpg?s=170667a&w=is&k=20&c=PfoxTe2MfISTw3hfnwzGUHhxACfVnuTZGQWi8vbzMhc=' alt='890+ Lightning Black Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="511">
+                                <meta itemprop="height" content="339">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1370824094/vector/set-of-four-different-lightning-bolts-isolated-on-black-background.jpg?s=170667a&w=is&k=20&c=PfoxTe2MfISTw3hfnwzGUHhxACfVnuTZGQWi8vbzMhc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="890+ Blue Lightning On Black Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/972721812/photo/blue-lightning-arc-electric-discharge.jpg?s=612x612&w=0&k=20&c=zal-OW3Skm3AsZ74-DSnSfrvNTxV8-orgTsWwaHhBEQ=' alt='890+ Blue Lightning On Black Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="459">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/972721812/photo/blue-lightning-arc-electric-discharge.jpg?s=612x612&w=0&k=20&c=zal-OW3Skm3AsZ74-DSnSfrvNTxV8-orgTsWwaHhBEQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lightning, glow, black, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/141/817/HD-wallpaper-lightning-glow-black.jpg' alt='Lightning, glow, black, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/141/817/HD-wallpaper-lightning-glow-black.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="129,055 Black Lighting Background Stock Photos - Free & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/spot-lighting-black-brick-wall-background-abstract-image-spot-lighting-black-brick-wall-background-160273652.jpg' alt='129,055 Black Lighting Background Stock Photos - Free & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/spot-lighting-black-brick-wall-background-abstract-image-spot-lighting-black-brick-wall-background-160273652.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lightning Black Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/realistic-lightning-isolated-black-background-natural-light-effect-bright-glowing_1441-2158.jpg' alt='Lightning Black Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="470">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/realistic-lightning-isolated-black-background-natural-light-effect-bright-glowing_1441-2158.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

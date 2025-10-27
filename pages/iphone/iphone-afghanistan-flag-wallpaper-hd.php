@@ -1,0 +1,129 @@
+<title>Stunning Afghanistan Flag HD Wallpapers for iPhone</title>
+                    <meta name="description" content="Explore our collection of Afghanistan flag HD wallpapers designed for iPhone. Perfectly crafted for mobile display, they bring vibrant colors and pride to your device. Download now to personalize your iPhone with breathtaking images that resonate with your love for Afghanistan.">
+                    <meta name="keywords" content="iphone afghanistan flag wallpaper hd">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-afghanistan-flag-wallpaper-hd">
+                            <span itemprop="name">iphone afghanistan flag wallpaper hd</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Afghanistan Flag HD Wallpapers for iPhone</h1>
+                <p>Discover stunning HD iPhone wallpapers featuring the Afghanistan flag. Showcase your pride and love for Afghanistan with high-resolution images that fit perfectly on your device’s screen. Whether you want a bold design or an artistic interpretation, these wallpapers are sure to enhance your iPhone experience while celebrating your heritage.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wallpaper iphone afghanistan flag">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d7/7b/b6/d77bb64b0194d45c07cac8540699d04e.jpg' alt='wallpaper iphone afghanistan flag'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1407">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d7/7b/b6/d77bb64b0194d45c07cac8540699d04e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Afghanistan, Afghanistan country, Afghanistan flag, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/509/224/HD-wallpaper-afghanistan-afghanistan-country-afghanistan-flag.jpg' alt='Afghanistan, Afghanistan country, Afghanistan flag, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/509/224/HD-wallpaper-afghanistan-afghanistan-country-afghanistan-flag.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Afghanistan, afghanistan, flag, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/86/216/HD-wallpaper-afghanistan-afghanistan-flag.jpg' alt='Afghanistan, afghanistan, flag, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1396">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/86/216/HD-wallpaper-afghanistan-afghanistan-flag.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="پرچم افغانستان">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/75/29/43/752943c8f527aea7770040fe2dc41dba.jpg' alt='پرچم افغانستان'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/75/29/43/752943c8f527aea7770040fe2dc41dba.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Afghanistan flag, afghan, aghanistan, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/123/636/HD-wallpaper-afghanistan-flag-afghan-aghanistan.jpg' alt='Afghanistan flag, afghan, aghanistan, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/123/636/HD-wallpaper-afghanistan-flag-afghan-aghanistan.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Afghanistan Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/afghanistan-national-flag-002m5ul6bcgn8u7s.jpg' alt='100+] Afghanistan Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/afghanistan-national-flag-002m5ul6bcgn8u7s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Afghanistan Flag Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a4/d8/34/a4d8348ca4a3d953314ee9c8de84807d.jpg' alt='Awesome Afghanistan Flag Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a4/d8/34/a4d8348ca4a3d953314ee9c8de84807d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AFGHANISTAN - AFGHAN FLAG - AFGHANISTAN FLAG | iPhone Case">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.2646527581.1453/flat,750x1000,075,t.jpg' alt='AFGHANISTAN - AFGHAN FLAG - AFGHANISTAN FLAG | iPhone Case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.2646527581.1453/flat,750x1000,075,t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Afghanistan National Emblem over Flag Tapestry">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images-medium-5/afghanistan-national-emblem-over-flag-serge-averbukh.jpg' alt='Afghanistan National Emblem over Flag Tapestry'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fine Art America" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images-medium-5/afghanistan-national-emblem-over-flag-serge-averbukh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Afghanistan flag Stock Photos, Royalty Free Afghanistan flag ...">
+                                <img itemprop="contentUrl url" src='https://st4.depositphotos.com/2397649/38941/i/450/depositphotos_389418580-stock-photo-realistic-flag-afghanistan-illustration.jpg' alt='Afghanistan flag Stock Photos, Royalty Free Afghanistan flag ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="364">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://st4.depositphotos.com/2397649/38941/i/450/depositphotos_389418580-stock-photo-realistic-flag-afghanistan-illustration.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

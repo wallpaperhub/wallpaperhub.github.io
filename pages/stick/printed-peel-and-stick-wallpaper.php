@@ -1,0 +1,129 @@
+<title>Revamp Your Space with Printed Peel and Stick Wallpaper</title>
+                    <meta name="description" content="Discover the beauty of printed peel and stick wallpaper! Transform your walls effortlessly with stylish designs that are perfect for renters. Easy to apply and remove, these wallpapers allow you to refresh your space without commitment. Perfect for a quick seasonal update or a long-term look!">
+                    <meta name="keywords" content="printed peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/printed-peel-and-stick-wallpaper">
+                            <span itemprop="name">printed peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Revamp Your Space with Printed Peel and Stick Wallpaper</h1>
+                <p>Printed peel and stick wallpaper offers a stylish, hassle-free solution for elevating your home decor. Easy to apply and remove, it's perfect for renters or anyone looking to refresh a space without commitment. Available in various designs and colors, it transforms walls effortlessly, allowing you to express your unique style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wild Flower Print Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/products/wild-flower-print-peel-and-stick-wallpaper-446947.png?v=1685602539' alt='Wild Flower Print Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1558">
+                                <meta itemprop="height" content="1560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/products/wild-flower-print-peel-and-stick-wallpaper-446947.png?v=1685602539' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tempaper Terracotta Block Print Leaves Vinyl Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/78c701b2-9882-4075-b18d-80d152ed0ff5/svn/tempaper-wallpaper-rolls-hd15022-c3_600.jpg' alt='Tempaper Terracotta Block Print Leaves Vinyl Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/78c701b2-9882-4075-b18d-80d152ed0ff5/svn/tempaper-wallpaper-rolls-hd15022-c3_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper Removable Wallpaper Wall Decor Home Decor Wall Art  Printable Wall Art Room Decor Wall Prints Wall Hanging - B019">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.5957289996_r9dn.jpg?v=1722514747&width=1946' alt='Peel and Stick Wallpaper Removable Wallpaper Wall Decor Home Decor Wall Art  Printable Wall Art Room Decor Wall Prints Wall Hanging - B019'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.5957289996_r9dn.jpg?v=1722514747&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Removable Wallpaper With Grey Floral Pattern, Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11265430/r/il/da7732/2626516373/il_570xN.2626516373_ox6c.jpg' alt='Removable Wallpaper With Grey Floral Pattern, Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11265430/r/il/da7732/2626516373/il_570xN.2626516373_ox6c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Seamless with Flowers Leaves Abstract Floral Impression Summer  Print Peel & Stick Wallpaper Removable Self-Adhesive Large Wallpaper Roll  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71onr3m0nWL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com: Seamless with Flowers Leaves Abstract Floral Impression Summer  Print Peel & Stick Wallpaper Removable Self-Adhesive Large Wallpaper Roll  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71onr3m0nWL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Print Your Own Design on Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://tempaper.com/cdn/shop/files/CP9134-custom-print-your-own-pattern-peel-stick-wallpaper-pdp.jpg?v=1738685163' alt='Print Your Own Design on Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='http://tempaper.com/cdn/shop/files/CP9134-custom-print-your-own-pattern-peel-stick-wallpaper-pdp.jpg?v=1738685163' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper Removable Wallpaper Wall Decor Home Decor Wall Art  Printable Wall Art Room Decor Wall Prints Wall Hanging - B898">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.6061167105_84k8.jpg?v=1730242513&width=1946' alt='Peel and Stick Wallpaper Removable Wallpaper Wall Decor Home Decor Wall Art  Printable Wall Art Room Decor Wall Prints Wall Hanging - B898'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.6061167105_84k8.jpg?v=1730242513&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper Removable Wallpaper Wall Decor Home Decor ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21219368/r/il/229a2c/5761917950/il_570xN.5761917950_phzs.jpg' alt='Peel and Stick Wallpaper Removable Wallpaper Wall Decor Home Decor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21219368/r/il/229a2c/5761917950/il_570xN.5761917950_phzs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Removable Wallpaper Cream Off White Modern Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick Wall Mural 3520">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3753034907_8fv2.jpg' alt='Removable Wallpaper Cream Off White Modern Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick Wall Mural 3520'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2143">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3753034907_8fv2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golden Hummingbirds Wallcovering">
+                                <img itemprop="contentUrl url" src='https://greenplanetprint.com/cdn/shop/products/195a_2048x.jpg?v=1666806732' alt='Golden Hummingbirds Wallcovering'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Green Planet Print" />
+                                </span>
+                                <a href='https://greenplanetprint.com/cdn/shop/products/195a_2048x.jpg?v=1666806732' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Top Warframe Wallpapers for Your Phone</title>
+                    <meta name="description" content="Discover the best Warframe wallpapers for your phone! Explore an array of vibrant designs and characters that capture the essence of the game. Perfect for Warframe enthusiasts looking to personalize their devices with high-quality, eye-catching images. Elevate your mobile experience today!">
+                    <meta name="keywords" content="warframe wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/warframe-wallpaper-phone">
+                            <span itemprop="name">warframe wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Top Warframe Wallpapers for Your Phone</h1>
+                <p>Transform your mobile screen with stunning Warframe wallpapers! Featuring your favorite Warframes and breathtaking scenes from the game, these wallpapers bring the essence of the battlefield to your device. Dive into the universe of Warframe and showcase your love for the Tenno! Perfect for every player!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="OC] Got Bored here's a Warframe Phone Background/Poster : r/Warframe">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/-1Q4MTT8Vy8s41B7YJl-g1dSb0CTdZ1gEZWguen-w-c.jpg?width=640&crop=smart&auto=webp&s=04a1133c2c08c6c6066626d3e010ac0dc1fd996a' alt='OC] Got Bored here's a Warframe Phone Background/Poster : r/Warframe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/-1Q4MTT8Vy8s41B7YJl-g1dSb0CTdZ1gEZWguen-w-c.jpg?width=640&crop=smart&auto=webp&s=04a1133c2c08c6c6066626d3e010ac0dc1fd996a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Warframe Fortuna mobile wallpaper I made, thought I would share ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/isXSDBA5P9T7sGnAzc3ydZBvpo_eLO2BeHmkAOwSlEQ.jpg?auto=webp&s=af1abebf08a14ac38ead9807d7e491ed01b0a7a6' alt='Warframe Fortuna mobile wallpaper I made, thought I would share ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1579">
+                                <meta itemprop="height" content="2890">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/isXSDBA5P9T7sGnAzc3ydZBvpo_eLO2BeHmkAOwSlEQ.jpg?auto=webp&s=af1abebf08a14ac38ead9807d7e491ed01b0a7a6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spent more than 24 hours on this poster. Hope you like it.(If you ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/in556ieqpfj31.jpg' alt='Spent more than 24 hours on this poster. Hope you like it.(If you ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2514">
+                                <meta itemprop="height" content="3374">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/in556ieqpfj31.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Warframe wallpapers for phones | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/4e4385fd-7e7a-45b9-8b22-d156d87b8966/scale-to-width/755' alt='Warframe wallpapers for phones | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="755">
+                                <meta itemprop="height" content="1342">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WARFRAME Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/4e4385fd-7e7a-45b9-8b22-d156d87b8966/scale-to-width/755' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Phone Wallpapers ideas | warframe art, warframe wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/83/cd/0e/83cd0e5bf027e715474ae735aeb9f8d4.jpg' alt='12 Phone Wallpapers ideas | warframe art, warframe wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="435">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/83/cd/0e/83cd0e5bf027e715474ae735aeb9f8d4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Phone Wallpapers ideas | warframe art, warframe wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/15/ae/2c/15ae2ce0fbb8a7c2c2e1c148a214385b.jpg' alt='12 Phone Wallpapers ideas | warframe art, warframe wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="518">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/15/ae/2c/15ae2ce0fbb8a7c2c2e1c148a214385b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made this wallpaper for my phone, feel free to use it : r/Warframe">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/tqnyj5hwmq411.jpg' alt='I made this wallpaper for my phone, feel free to use it : r/Warframe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/tqnyj5hwmq411.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Underwater Beauty" Ivara Phone Wallpaper - AoD : r/Warframe">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/a6tmhvvcpo841.png' alt='Underwater Beauty" Ivara Phone Wallpaper - AoD : r/Warframe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/a6tmhvvcpo841.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Warframe 2020 Game Poster 4K Ultra HD Mobile Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/91/99/7f/91997ff7d72609b9cafe72d23dab9907.jpg' alt='Warframe 2020 Game Poster 4K Ultra HD Mobile Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/91/99/7f/91997ff7d72609b9cafe72d23dab9907.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tried captura for the first time, got myself a neat phone ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ukjvavaomff11.jpg' alt='Tried captura for the first time, got myself a neat phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="831">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ukjvavaomff11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

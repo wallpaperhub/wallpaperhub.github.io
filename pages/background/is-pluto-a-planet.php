@@ -1,0 +1,129 @@
+<title>Is Pluto a Planet? Unveiling the Dwarf Planet Debate</title>
+                    <meta name="description" content="Discover the ongoing debate: Is Pluto a planet or a dwarf planet? Explore its reclassification and the implications for our understanding of celestial bodies in our solar system. Join the conversation now!">
+                    <meta name="keywords" content="is pluto a planet">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/is-pluto-a-planet">
+                            <span itemprop="name">is pluto a planet</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Is Pluto a Planet? Unveiling the Dwarf Planet Debate</h1>
+                <p>Pluto, once considered the ninth planet of our solar system, was reclassified by the International Astronomical Union in 2006 as a "dwarf planet." This change sparked debate among astronomers and the public alike. While some argue for its planetary status based on historical reasons, others support the criteria for defining a planet that Pluto does not meet.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pluto and the Solar System | IAU">
+                                <img itemprop="contentUrl url" src='https://www.iau.org/static/archives/images/screen/iau0601a.jpg' alt='Pluto and the Solar System | IAU'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="790">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="International Astronomical Union" />
+                                </span>
+                                <a href='https://www.iau.org/static/archives/images/screen/iau0601a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why is Pluto no longer a planet? | Library of Congress">
+                                <img itemprop="contentUrl url" src='https://www.loc.gov/static/managed-content/uploads/sites/16/2018/09/pluto-rich-color.jpg' alt='Why is Pluto no longer a planet? | Library of Congress'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="363">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Library of Congress" />
+                                </span>
+                                <a href='https://www.loc.gov/static/managed-content/uploads/sites/16/2018/09/pluto-rich-color.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ASTROBLOG: If Pluto's not a planet, what exactly is it anyway ...">
+                                <img itemprop="contentUrl url" src='https://scmuseum.org/sites/default/files/styles/wysiwyg/public/wp_uploads/Pluto_Blog_NASA.jpg?itok=fQ6iMQAJ' alt='ASTROBLOG: If Pluto's not a planet, what exactly is it anyway ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="South Carolina State Museum" />
+                                </span>
+                                <a href='https://scmuseum.org/sites/default/files/styles/wysiwyg/public/wp_uploads/Pluto_Blog_NASA.jpg?itok=fQ6iMQAJ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="You Won't Like The Consequences Of Making Pluto A Planet Again">
+                                <img itemprop="contentUrl url" src='https://imageio.forbes.com/blogs-images/startswithabang/files/2018/05/shot.png?format=png&height=600&width=1200&fit=bounds' alt='You Won't Like The Consequences Of Making Pluto A Planet Again'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="898">
+                                <meta itemprop="height" content="467">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forbes" />
+                                </span>
+                                <a href='https://imageio.forbes.com/blogs-images/startswithabang/files/2018/05/shot.png?format=png&height=600&width=1200&fit=bounds' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pluto isn't a planet — but it gives us clues for how the solar ...">
+                                <img itemprop="contentUrl url" src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2400+0+0/resize/3000x2400!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F46%2F75%2F2b99a0d746328ff2af1b05d825ad%2Fjpegpia05567.jpg' alt='Pluto isn't a planet — but it gives us clues for how the solar ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2400+0+0/resize/3000x2400!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F46%2F75%2F2b99a0d746328ff2af1b05d825ad%2Fjpegpia05567.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pluto - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/e/ef/Pluto_in_True_Color_-_High-Res.jpg' alt='Pluto - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="8000">
+                                <meta itemprop="height" content="8000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/e/ef/Pluto_in_True_Color_-_High-Res.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inside Dwarf Planet Pluto | Space">
+                                <img itemprop="contentUrl url" src='https://cdn.mos.cms.futurecdn.net/KAkFVy4xb7M22ufs4y8SEK.jpg' alt='Inside Dwarf Planet Pluto | Space'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Space.com" />
+                                </span>
+                                <a href='https://cdn.mos.cms.futurecdn.net/KAkFVy4xb7M22ufs4y8SEK.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="16 Years Ago Today Pluto Stopped Being A Planet. Nine Years Later ...">
+                                <img itemprop="contentUrl url" src='https://imageio.forbes.com/specials-images/imageserve/63056ea9ed6b7d90a54fdbbc/Dwarf-planets/960x0.jpg?height=533&width=711&fit=bounds' alt='16 Years Ago Today Pluto Stopped Being A Planet. Nine Years Later ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="711">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forbes" />
+                                </span>
+                                <a href='https://imageio.forbes.com/specials-images/imageserve/63056ea9ed6b7d90a54fdbbc/Dwarf-planets/960x0.jpg?height=533&width=711&fit=bounds' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why Isn't Pluto a Planet? – The Wildcat Voice">
+                                <img itemprop="contentUrl url" src='https://wildcatvoice.org/wp-content/uploads/2017/12/pluto-main.jpg' alt='Why Isn't Pluto a Planet? – The Wildcat Voice'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="787">
+                                <meta itemprop="height" content="524">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Wildcat Voice" />
+                                </span>
+                                <a href='https://wildcatvoice.org/wp-content/uploads/2017/12/pluto-main.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is Pluto a Planet?">
+                                <img itemprop="contentUrl url" src='https://sciencenotes.org/wp-content/uploads/2023/07/Is-Pluto-a-Planet.png' alt='Is Pluto a Planet?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Science Notes" />
+                                </span>
+                                <a href='https://sciencenotes.org/wp-content/uploads/2023/07/Is-Pluto-a-Planet.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

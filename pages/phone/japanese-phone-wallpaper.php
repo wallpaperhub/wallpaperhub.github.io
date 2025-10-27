@@ -1,0 +1,129 @@
+<title>Stunning Japanese Phone Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore a diverse collection of Japanese phone wallpapers that enhance your device's look. From tranquil nature scenes to colorful city views, find the perfect backdrop that reflects your personality and passion for Japan. Download your favorite wallpapers today!">
+                    <meta name="keywords" content="japanese phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/japanese-phone-wallpaper">
+                            <span itemprop="name">japanese phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Japanese Phone Wallpapers for Your Device</h1>
+                <p>Discover the beauty of Japanese culture with stunning phone wallpapers. From serene landscapes and delicate cherry blossoms to vibrant cityscapes and traditional art, find the perfect background that resonates with your style. Elevate your phone's aesthetic with a touch of Japan's elegance and charm!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Artistic Japanese Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/927/927238.jpg' alt='Download Artistic Japanese Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mobile Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/927/927238.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Have An Unforgettable Phone Experience With This Compact Japanese ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/have-an-unforgettable-phone-experience-with-this-compact-japanese-phone-2sh1payve8x2jgwl.jpg' alt='Have An Unforgettable Phone Experience With This Compact Japanese ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/have-an-unforgettable-phone-experience-with-this-compact-japanese-phone-2sh1payve8x2jgwl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper phone 4k - Japanese style neon shallows">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/08/a6/34/08a634fa02a32364f69ebc86a98eb1eb.jpg' alt='Wallpaper phone 4k - Japanese style neon shallows'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/08/a6/34/08a634fa02a32364f69ebc86a98eb1eb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Japanese Wallpaper Background Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAyL3Jhd3BpeGVsX29mZmljZV80M190cmFkaXRpb25hbF9qYXBhbmVzZV93b29kX2Jsb2NrX3ByaW50X2lsbHVzdF8xN2FiYzAwMy01MTY1LTQxYzktYWIxOC04NjQ4NTJhN2FmMjMuanBn.jpg' alt='Japanese Wallpaper Background Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAyL3Jhd3BpeGVsX29mZmljZV80M190cmFkaXRpb25hbF9qYXBhbmVzZV93b29kX2Jsb2NrX3ByaW50X2lsbHVzdF8xN2FiYzAwMy01MTY1LTQxYzktYWIxOC04NjQ4NTJhN2FmMjMuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Japan Phone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp4631954.jpg' alt='Japan Phone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2053">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp4631954.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stay Connected With The Latest Japanese Phone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/japanese-mobile-phone-in-a-case-with-home-screen-displaying-icons-kpluesx6qd6vfjnp.webp' alt='Stay Connected With The Latest Japanese Phone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="537">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/japanese-mobile-phone-in-a-case-with-home-screen-displaying-icons-kpluesx6qd6vfjnp.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD japan vibe wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/763/647/HD-wallpaper-japan-vibe-thumbnail.jpg' alt='HD japan vibe wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="507">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/763/647/HD-wallpaper-japan-vibe-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Japan Phone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp5607434.jpg' alt='Aesthetic Japan Phone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp5607434.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Japanese Wallpaper for iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0d/d2/b8/0dd2b8f8dedb62b9e7daa2c823c7a6e4.jpg' alt='Aesthetic Japanese Wallpaper for iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1286">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0d/d2/b8/0dd2b8f8dedb62b9e7daa2c823c7a6e4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Japanese Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/japanese-phone-ozs7bw4nwmiadc3i.jpg' alt='100+] Japanese Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/japanese-phone-ozs7bw4nwmiadc3i.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

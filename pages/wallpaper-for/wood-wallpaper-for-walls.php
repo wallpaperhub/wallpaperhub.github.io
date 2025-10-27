@@ -1,0 +1,129 @@
+<title>Transform Your Space with Stunning Wood Wallpaper</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="wood wallpaper for walls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/wood-wallpaper-for-walls">
+                            <span itemprop="name">wood wallpaper for walls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Stunning Wood Wallpaper</h1>
+                <p>Wood wallpaper is a stylish and versatile option for enhancing your walls. With its rich textures and natural tones, it brings warmth and a rustic charm to any space. Perfect for living rooms, bedrooms, or even offices, wood wallpaper imitates the beauty of wood without the heavy installation. Discover stunning designs that suit your style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wood Wallpaper, Wood Effect Wallpaper, Wood Wall Mural, Peel and ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/29168372/r/il/c27f35/3406910149/il_fullxfull.3406910149_f4si.jpg' alt='Wood Wallpaper, Wood Effect Wallpaper, Wood Wall Mural, Peel and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/29168372/r/il/c27f35/3406910149/il_fullxfull.3406910149_f4si.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Decoroom Wood Wallpaper 17.71''×118'' Shiplap Peel and Stick Wallpaper  Rustic Wood Grain Contact Paper Removable Self Adhesive Distressed Vinyl  Film ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81PIJSi1N+L.jpg' alt='Decoroom Wood Wallpaper 17.71''×118'' Shiplap Peel and Stick Wallpaper  Rustic Wood Grain Contact Paper Removable Self Adhesive Distressed Vinyl  Film ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81PIJSi1N+L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rustic Wood Panels Wallpaper • Milton & King">
+                                <img itemprop="contentUrl url" src='https://s29938.pcdn.co/wp-content/uploads/2018/10/Wallpaper-Kemra-RusticWood-2.jpg.optimal.jpg' alt='Rustic Wood Panels Wallpaper • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1318">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://s29938.pcdn.co/wp-content/uploads/2018/10/Wallpaper-Kemra-RusticWood-2.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Brown Wood Wallpaper, 3D Rugged Wooden Texture Floor Wooden ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/22370788/r/il/bcacaa/3712083538/il_fullxfull.3712083538_e5uo.jpg' alt='Dark Brown Wood Wallpaper, 3D Rugged Wooden Texture Floor Wooden ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/22370788/r/il/bcacaa/3712083538/il_fullxfull.3712083538_e5uo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rustic Wood Wallpaper - Happywall">
+                                <img itemprop="contentUrl url" src='https://happywall-statix.imgix.net/rooms/room-20-d.jpg?w=2560&h=1280&fit=min&crop=center&auto=format&q=50&blend64=aHR0cHM6Ly9oYXBweXdhbGwtaW1nLWdhbGxlcnkuaW1naXgubmV0LzQzNzM3LzQzNzM3LTI5MC0zMDAweDE1MDBmOTAwOWFhOGZlNzg4NzU3OTQ0MjIwNzFiZjg4MTFjYi5qcGc_dz0yNTYwJnE9OTkmYmxlbmQtYWxwaGE9MSZibGVuZC1jb2xvcj0wMDAwMDAmYnJpPTYmc2F0PTEw&blend-mode=multiply&mark64=aHR0cHM6Ly9oYXBweXdhbGwtc3RhdGl4LmltZ2l4Lm5ldC9yb29tcy9yb29tLTIwLWQucG5nP3c9MjU2MCZoPTEyODAmZml0PW1pbiZjcm9wPWNlbnRlciZhdXRvPWZvcm1hdCZxPTUw&mark-x=0&mark-y=0' alt='Rustic Wood Wallpaper - Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-statix.imgix.net/rooms/room-20-d.jpg?w=2560&h=1280&fit=min&crop=center&auto=format&q=50&blend64=aHR0cHM6Ly9oYXBweXdhbGwtaW1nLWdhbGxlcnkuaW1naXgubmV0LzQzNzM3LzQzNzM3LTI5MC0zMDAweDE1MDBmOTAwOWFhOGZlNzg4NzU3OTQ0MjIwNzFiZjg4MTFjYi5qcGc_dz0yNTYwJnE9OTkmYmxlbmQtYWxwaGE9MSZibGVuZC1jb2xvcj0wMDAwMDAmYnJpPTYmc2F0PTEw&blend-mode=multiply&mark64=aHR0cHM6Ly9oYXBweXdhbGwtc3RhdGl4LmltZ2l4Lm5ldC9yb29tcy9yb29tLTIwLWQucG5nP3c9MjU2MCZoPTEyODAmZml0PW1pbiZjcm9wPWNlbnRlciZhdXRvPWZvcm1hdCZxPTUw&mark-x=0&mark-y=0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Geometric Wood Texture Effect Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://www.wallmur.com/media/catalog/product/cache/d2490ff774ad2196f075b30a2e194e25/s/s/ss647716339_5.jpg' alt='Geometric Wood Texture Effect Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://www.wallmur.com/media/catalog/product/cache/d2490ff774ad2196f075b30a2e194e25/s/s/ss647716339_5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="65 Impressive Wood Wallpaper for 2025 | Rebel Walls">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_720/v1638278325/articles/R14291_interior1.jpg' alt='65 Impressive Wood Wallpaper for 2025 | Rebel Walls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rebel Walls" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_720/v1638278325/articles/R14291_interior1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graphic Rib Wood Wallpaper Brown Oak">
+                                <img itemprop="contentUrl url" src='https://belartestudio.com/cdn/shop/products/JapandiEssence-GraphicRibWood-BAS01013088-BrownOak-7.jpg?v=1699364221' alt='Graphic Rib Wood Wallpaper Brown Oak'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="belarteSTUDIO" />
+                                </span>
+                                <a href='https://belartestudio.com/cdn/shop/products/JapandiEssence-GraphicRibWood-BAS01013088-BrownOak-7.jpg?v=1699364221' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Mural Photo Wallpaper Geometric panels with wood texture Nr ...">
+                                <img itemprop="contentUrl url" src='https://static.uwalls.com/products/95000/95779/u97427piw3r_1200.webp' alt='Wall Mural Photo Wallpaper Geometric panels with wood texture Nr ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uwalls.com" />
+                                </span>
+                                <a href='https://static.uwalls.com/products/95000/95779/u97427piw3r_1200.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Livelynine 15.8x394 Inch 3D Wood Slat Wallpaper for Accent Wall Peel and  Stick Wallpaper for Bedroom Living Room Walls Natural Wood Contact Paper  Self ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81wH9ZQ6PtL.jpg' alt='Livelynine 15.8x394 Inch 3D Wood Slat Wallpaper for Accent Wall Peel and  Stick Wallpaper for Bedroom Living Room Walls Natural Wood Contact Paper  Self ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81wH9ZQ6PtL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Elevate Your Space with Black Water Wallpaper</title>
+                    <meta name="description" content="Discover the beauty of black water wallpaper. Ideal for creating a stunning focal point in your home, it combines elegance and versatility to enhance any decor. Explore our collection to find the perfect design that transforms your living space with depth and sophistication.">
+                    <meta name="keywords" content="black water wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/black-water-wallpaper">
+                            <span itemprop="name">black water wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Space with Black Water Wallpaper</h1>
+                <p>Transform your space with black water wallpaper, a stylish and sophisticated option for any room. Its unique texture and deep, rich tones create an atmosphere of elegance and mystery. Perfect for accent walls or covering entire rooms, this wallpaper adds depth and character while complementing various decor styles.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30k+ Black Water Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1594289765464-d4d8b4dcf42d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmxhY2slMjB3YXRlcnxlbnwwfHwwfHx8MA%3D%3D' alt='30k+ Black Water Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1594289765464-d4d8b4dcf42d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmxhY2slMjB3YXRlcnxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Samsung Black Water Drops Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/samsung-black-water-drops-aagyq3y696rm1l5x.jpg' alt='Samsung Black Water Drops Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/samsung-black-water-drops-aagyq3y696rm1l5x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Water Wallpaper 4K for Mobile | Phones">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/phone/images/download/black-water.png' alt='Black Water Wallpaper 4K for Mobile | Phones'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/phone/images/download/black-water.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Waters, black, ocean, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/849/679/HD-wallpaper-dark-waters-black-ocean.jpg' alt='Dark Waters, black, ocean, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/849/679/HD-wallpaper-dark-waters-black-ocean.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black water wallpaper danasrge.top">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e4/bd/63/e4bd631f8fbfa07a1bc9102baaca696a.jpg' alt='Black water wallpaper danasrge.top'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="455">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e4/bd/63/e4bd631f8fbfa07a1bc9102baaca696a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Water Images – Browse 5,455,331 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/05/16/36/47/360_F_516364735_y55GrOvjrPz1d5wVq05PGqygTzGY0o9E.jpg' alt='Black Water Images – Browse 5,455,331 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="673">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/05/16/36/47/360_F_516364735_y55GrOvjrPz1d5wVq05PGqygTzGY0o9E.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Water Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/black-background-with-water-texture_23-2149872536.jpg' alt='Black Water Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="418">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/black-background-with-water-texture_23-2149872536.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Water, black, waves, night, mono, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/359/361/HD-wallpaper-dark-water-black-waves-night-mono.jpg' alt='Dark Water, black, waves, night, mono, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/359/361/HD-wallpaper-dark-water-black-waves-night-mono.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best 500+ Dark Water Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1593933793706-718c54aa34c6?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZGFyayUyMHdhdGVyfGVufDB8fDB8fHww' alt='Best 500+ Dark Water Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1593933793706-718c54aa34c6?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZGFyayUyMHdhdGVyfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Water Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/grayscale-vertical-shot-seawater_181624-2138.jpg' alt='Black Water Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="418">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/grayscale-vertical-shot-seawater_181624-2138.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

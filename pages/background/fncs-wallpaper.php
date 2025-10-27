@@ -1,0 +1,129 @@
+<title>Stunning FNCS Wallpaper for Fortnite Fans</title>
+                    <meta name="description" content="Discover the ultimate FNCS wallpaper collection! Perfectly designed for Fortnite enthusiasts, these high-quality backgrounds will enhance your device aesthetic while showcasing your love for competitive play. Download now and elevate your gaming vibe!">
+                    <meta name="keywords" content="fncs wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fncs-wallpaper">
+                            <span itemprop="name">fncs wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning FNCS Wallpaper for Fortnite Fans</h1>
+                <p>Elevate your gaming experience with FNCS wallpaper! Perfect for Fortnite fans, these vibrant and dynamic designs showcase your favorite characters and moments from the competitive scene. Transform your desktop or mobile background into a stunning tribute to your passion for FNCS and stay inspired every day.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Fncs Projects :: Photos, videos, logos, illustrations and ...">
+                                <img itemprop="contentUrl url" src='https://mir-s3-cdn-cf.behance.net/projects/404/e128bc179630889.Y3JvcCwxMzgwLDEwODAsMjcwLDA.jpg' alt='Fortnite Fncs Projects :: Photos, videos, logos, illustrations and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="404">
+                                <meta itemprop="height" content="316">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Behance" />
+                                </span>
+                                <a href='https://mir-s3-cdn-cf.behance.net/projects/404/e128bc179630889.Y3JvcCwxMzgwLDEwODAsMjcwLDA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FNCS, black, logo, victory, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/472/523/HD-wallpaper-fncs-black-logo-victory.jpg' alt='FNCS, black, logo, victory, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/472/523/HD-wallpaper-fncs-black-logo-victory.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Competitive on X: "Your new phone wallpaper    https://t ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/GVl6Dk_WEAAsSl8.jpg:large' alt='Fortnite Competitive on X: "Your new phone wallpaper    https://t ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/GVl6Dk_WEAAsSl8.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FNCS, logo, victory, wrestling, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/160/975/HD-wallpaper-fncs-logo-victory-wrestling.jpg' alt='FNCS, logo, victory, wrestling, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/160/975/HD-wallpaper-fncs-logo-victory-wrestling.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Leaks & News on X: "NEW TOURNAMENT: - FNCS Global ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/GWGMBvLbUAAoSyK.jpg:large' alt='Fortnite Leaks & News on X: "NEW TOURNAMENT: - FNCS Global ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/GWGMBvLbUAAoSyK.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite FNCS Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp8732305.jpg' alt='Fortnite FNCS Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp8732305.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Chapter 2 Season 8 FNCS Playlist images : r/FortNiteBR">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/1hs65hbpi4s71.jpg?width=1080&crop=smart&auto=webp&s=00499e06ea799799177812b44322cfdb5970109f' alt='Fortnite Chapter 2 Season 8 FNCS Playlist images : r/FortNiteBR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/1hs65hbpi4s71.jpg?width=1080&crop=smart&auto=webp&s=00499e06ea799799177812b44322cfdb5970109f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New FNCS branding and logo (from FNCompetitive Twitter) : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/wtf3qw6bnhe81.jpg?width=640&crop=smart&auto=webp&s=4b0a4a69bf0f930139c06a6ba60f0862f1bd5339' alt='New FNCS branding and logo (from FNCompetitive Twitter) : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/wtf3qw6bnhe81.jpg?width=640&crop=smart&auto=webp&s=4b0a4a69bf0f930139c06a6ba60f0862f1bd5339' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Championship Series (FNCS) 2024 | Fortnite Competitive">
+                                <img itemprop="contentUrl url" src='https://static.gcp.maestro.io/media/5d65aef0a64db800a50bd6f0/65a957853fe44400a74fecbe.jpg' alt='Fortnite Championship Series (FNCS) 2024 | Fortnite Competitive'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fortnite Competitive" />
+                                </span>
+                                <a href='https://static.gcp.maestro.io/media/5d65aef0a64db800a50bd6f0/65a957853fe44400a74fecbe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::FNCS Pickaxe">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/2514781679711697428/B36DFEB538C271E350E5B183C278B24F47F49660/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::FNCS Pickaxe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/2514781679711697428/B36DFEB538C271E350E5B183C278B24F47F49660/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

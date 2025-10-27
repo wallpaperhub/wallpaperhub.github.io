@@ -1,0 +1,129 @@
+<title>Superman Phone Wallpapers: Heroic Backgrounds for Your Device</title>
+                    <meta name="description" content="Discover stunning Superman phone wallpapers that bring your favorite superhero to life right on your screen. Perfect for fans, these high-quality images enhance your device's look while celebrating the iconic Man of Steel. Download the best backgrounds today and show off your superpower pride!">
+                    <meta name="keywords" content="superman phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/superman-phone-wallpaper">
+                            <span itemprop="name">superman phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Superman Phone Wallpapers: Heroic Backgrounds for Your Device</h1>
+                <p>Transform your device with dynamic Superman phone wallpapers that embody strength and heroism. Whether you prefer classic comic art or modern interpretations, our collection will inspire and uplift you. Enjoy high-quality images that fit any screen size perfectly and showcase your love for the Man of Steel!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jonathan Belle">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/57afa154440243d6c7e92525/1185e337-eadb-4037-9aa3-8e9892bee0fc/Superman+wallpaper+9.png' alt='Jonathan Belle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1504">
+                                <meta itemprop="height" content="3168">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jonathan Belle" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/57afa154440243d6c7e92525/1185e337-eadb-4037-9aa3-8e9892bee0fc/Superman+wallpaper+9.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="James Gunn shares Superman and Krypto phone wallpapers : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/james-gunn-shares-superman-and-krypto-phone-wallpapers-v0-8jbzga8ga5vd1.jpg?width=640&crop=smart&auto=webp&s=9b19c54e57f9727dcac6454a07cf5e99f2085976' alt='James Gunn shares Superman and Krypto phone wallpapers : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1388">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/james-gunn-shares-superman-and-krypto-phone-wallpapers-v0-8jbzga8ga5vd1.jpg?width=640&crop=smart&auto=webp&s=9b19c54e57f9727dcac6454a07cf5e99f2085976' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Free Mobile Phone Wallpaper Superman - 4655 - GSMintro.net">
+                                <img itemprop="contentUrl url" src='https://gsmintro.net/user/images/upload_images/2020/04/8/www.mobilesmspk.net_superman-image-1.jpg' alt='Download Free Mobile Phone Wallpaper Superman - 4655 - GSMintro.net'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="563">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="gsmintro" />
+                                </span>
+                                <a href='https://gsmintro.net/user/images/upload_images/2020/04/8/www.mobilesmspk.net_superman-image-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Converted the Superman poster into a Mobile Wallpaper. : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/converted-the-superman-poster-into-a-mobile-wallpaper-v0-z3papfkm0a7e1.png?auto=webp&s=1b6fb040bcd22e8d88380b1d52dfbc6ba8b67bc3' alt='Converted the Superman poster into a Mobile Wallpaper. : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1181">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/converted-the-superman-poster-into-a-mobile-wallpaper-v0-z3papfkm0a7e1.png?auto=webp&s=1b6fb040bcd22e8d88380b1d52dfbc6ba8b67bc3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Superman Phone Wallpaper – Superman Poll Results – Superman Homepage">
+                                <img itemprop="contentUrl url" src='https://www.supermanhomepage.com/clickandbuilds/SupermanHomepage/wp-content/uploads/2024/07/Superman2025-Phone-Wallpaper.jpg' alt='Superman Phone Wallpaper – Superman Poll Results – Superman Homepage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1179">
+                                <meta itemprop="height" content="2556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Superman Homepage" />
+                                </span>
+                                <a href='https://www.supermanhomepage.com/clickandbuilds/SupermanHomepage/wp-content/uploads/2024/07/Superman2025-Phone-Wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Free Mobile Phone Wallpaper Superman - 6841 - GSMintro.net">
+                                <img itemprop="contentUrl url" src='https://gsmintro.net/user/images/wallpaper_images/2024/11/12/gsmintro.net_superman_6841.jpg' alt='Download Free Mobile Phone Wallpaper Superman - 6841 - GSMintro.net'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1128">
+                                <meta itemprop="height" content="2070">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="gsmintro" />
+                                </span>
+                                <a href='https://gsmintro.net/user/images/wallpaper_images/2024/11/12/gsmintro.net_superman_6841.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Superman, comics, dc, man of steel, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/239/817/HD-wallpaper-superman-comics-dc-man-of-steel.jpg' alt='Superman, comics, dc, man of steel, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/239/817/HD-wallpaper-superman-comics-dc-man-of-steel.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Give me your best, most beautiful Superman wallpapers (preferably ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/give-me-your-best-most-beautiful-superman-wallpapers-v0-nn6cs0wzpc7e1.jpeg?width=642&format=pjpg&auto=webp&s=a2afe03831999c2a7ea7760aeb4b0bb0c076b856' alt='Give me your best, most beautiful Superman wallpapers (preferably ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="642">
+                                <meta itemprop="height" content="1053">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/give-me-your-best-most-beautiful-superman-wallpapers-v0-nn6cs0wzpc7e1.jpeg?width=642&format=pjpg&auto=webp&s=a2afe03831999c2a7ea7760aeb4b0bb0c076b856' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Free Mobile Phone Wallpaper Superman - 4408 - GSMintro.net">
+                                <img itemprop="contentUrl url" src='https://gsmintro.net/user/images/wallpaper_images/2020/01/4/www.mobilesmspk.net_superman_4408.jpg' alt='Download Free Mobile Phone Wallpaper Superman - 4408 - GSMintro.net'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="624">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="gsmintro" />
+                                </span>
+                                <a href='https://gsmintro.net/user/images/wallpaper_images/2020/01/4/www.mobilesmspk.net_superman_4408.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Superman Grunge Wallpaper 4K Phone | Phone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/phone/images/640/superman-grunge.png' alt='Superman Grunge Wallpaper 4K Phone | Phone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/phone/images/640/superman-grunge.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

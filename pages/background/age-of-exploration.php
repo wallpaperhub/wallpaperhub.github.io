@@ -1,0 +1,129 @@
+<title>"Discovering New Worlds: The Age of Exploration"</title>
+                    <meta name="description" content="Explore the transformative Age of Exploration, where intrepid sailors ventured into uncharted waters, reshaping global trade and cultures. Learn about legendary explorers who opened the doors to new territories, forever changing history. Join us on this journey of discovery!">
+                    <meta name="keywords" content="age of exploration">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/age-of-exploration">
+                            <span itemprop="name">age of exploration</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Discovering New Worlds: The Age of Exploration"</h1>
+                <p>The Age of Exploration, spanning the 15th to 17th centuries, was a pivotal era marked by European maritime expeditions that unveiled new lands, trade routes, and cultures. Driven by the pursuit of wealth, religious conversion, and national prestige, explorers like Columbus and Magellan expanded the known world, forever altering history.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Age of Exploration - Encyclopedia Virginia">
+                                <img itemprop="contentUrl url" src='https://encyclopediavirginia.org/wp-content/uploads/2020/11/9390_605017cc479d242.jpg' alt='The Age of Exploration - Encyclopedia Virginia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="858">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Encyclopedia Virginia" />
+                                </span>
+                                <a href='https://encyclopediavirginia.org/wp-content/uploads/2020/11/9390_605017cc479d242.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Brief History of the Age of Exploration">
+                                <img itemprop="contentUrl url" src='https://www.thoughtco.com/thmb/QbTYSGsx0a2O14yFn7tFVBP8hmA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-517433014-5c4a211a46e0fb00017be09b.jpg' alt='A Brief History of the Age of Exploration'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1058">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ThoughtCo" />
+                                </span>
+                                <a href='https://www.thoughtco.com/thmb/QbTYSGsx0a2O14yFn7tFVBP8hmA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-517433014-5c4a211a46e0fb00017be09b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Age of Exploration Overview - HISTORY CRUNCH - History Articles ...">
+                                <img itemprop="contentUrl url" src='https://www.historycrunch.com/uploads/4/1/1/6/41169839/4_1_orig.jpg' alt='Age of Exploration Overview - HISTORY CRUNCH - History Articles ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HISTORY CRUNCH" />
+                                </span>
+                                <a href='https://www.historycrunch.com/uploads/4/1/1/6/41169839/4_1_orig.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flocabulary - Educational Hip-Hop">
+                                <img itemprop="contentUrl url" src='https://static.flocabulary.com/media/images/ccc07d353e90864464ac4e298ade3b23/age-of-exploration-image.jpg' alt='Flocabulary - Educational Hip-Hop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flocabulary - Educational Hip-Hop" />
+                                </span>
+                                <a href='https://static.flocabulary.com/media/images/ccc07d353e90864464ac4e298ade3b23/age-of-exploration-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Causes and Impacts of the European Age of Exploration">
+                                <img itemprop="contentUrl url" src='https://brewminate.com/wp-content/uploads/2020/08/080120-75-History-Europe-Exploration.jpg' alt='Causes and Impacts of the European Age of Exploration'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="781">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Brewminate" />
+                                </span>
+                                <a href='https://brewminate.com/wp-content/uploads/2020/08/080120-75-History-Europe-Exploration.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Brief History of the Age of Exploration">
+                                <img itemprop="contentUrl url" src='https://www.thoughtco.com/thmb/ORcaUbpwP8Nvp4E09TK1U1GfftE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-52149332-5c4a2383c9e77c000160e390.jpg' alt='A Brief History of the Age of Exploration'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1006">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ThoughtCo" />
+                                </span>
+                                <a href='https://www.thoughtco.com/thmb/ORcaUbpwP8Nvp4E09TK1U1GfftE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-52149332-5c4a2383c9e77c000160e390.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Age of Exploration - Mr. Knutson's History">
+                                <img itemprop="contentUrl url" src='http://mrknutsonhistory.weebly.com/uploads/5/2/8/1/52815881/774391788.JPG' alt='Age of Exploration - Mr. Knutson's History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="877">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mr. Knutson's History - Weebly" />
+                                </span>
+                                <a href='http://mrknutsonhistory.weebly.com/uploads/5/2/8/1/52815881/774391788.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lesson Plans of Age of Exploration in America: British - Early Phase">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/c90d45_86647314c2cd42849124414526a4ce8c~mv2.webp/v1/fill/w_568,h_324,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/c90d45_86647314c2cd42849124414526a4ce8c~mv2.webp' alt='Lesson Plans of Age of Exploration in America: British - Early Phase'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="568">
+                                <meta itemprop="height" content="324">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Historical Conquest" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/c90d45_86647314c2cd42849124414526a4ce8c~mv2.webp/v1/fill/w_568,h_324,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/c90d45_86647314c2cd42849124414526a4ce8c~mv2.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Age of Exploration — Timeline of Art | Obelisk Art History">
+                                <img itemprop="contentUrl url" src='https://www.arthistoryproject.com/site/assets/files/17050/age-of-exploration-obelisk-art-history.webp' alt='Age of Exploration — Timeline of Art | Obelisk Art History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2501">
+                                <meta itemprop="height" content="2098">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Obelisk Art History" />
+                                </span>
+                                <a href='https://www.arthistoryproject.com/site/assets/files/17050/age-of-exploration-obelisk-art-history.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Introduction to the Age of Exploration | United States History I">
+                                <img itemprop="contentUrl url" src='https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/5595/2021/02/02184259/the-first-voyage-2.jpg' alt='Introduction to the Age of Exploration | United States History I'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="816">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lumen Learning" />
+                                </span>
+                                <a href='https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/5595/2021/02/02184259/the-first-voyage-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

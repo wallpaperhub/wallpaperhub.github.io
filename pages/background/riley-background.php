@@ -1,0 +1,129 @@
+<title>Discover the Rich Heritage of the Name Riley</title>
+                    <meta name="description" content="Explore the fascinating background of the name Riley, its Irish origins, and cultural significance. Whether you're looking for baby names or simply curious, delve into the meaning and modern appeal of this popular name.">
+                    <meta name="keywords" content="riley background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/riley-background">
+                            <span itemprop="name">riley background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Rich Heritage of the Name Riley</h1>
+                <p>Riley is a multifaceted name, often associated with both genders. It has Irish origins, meaning "courageous" or "valiant." The name has gained popularity in various cultures, often linked to youthful energy and creativity. Famous Rileys in sports and entertainment amplify its appeal, making it a trendy choice for modern parents.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD riley with names wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/687/311/HD-wallpaper-happy-birtay-riley-blue-neon-lights-riley-name-creative-riley-happy-birtay-riley-birtay-popular-american-male-names-with-riley-name-riley-thumbnail.jpg' alt='HD riley with names wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="211">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/687/311/HD-wallpaper-happy-birtay-riley-blue-neon-lights-riley-name-creative-riley-happy-birtay-riley-birtay-popular-american-male-names-with-riley-name-riley-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hi follow her!!!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c1/6b/e1/c16be169161003eaed610a8ae458cc85.jpg' alt='Hi follow her!!!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c1/6b/e1/c16be169161003eaed610a8ae458cc85.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Riley male name, colorful letter balloons background Stock Photo ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/03/80/64/72/1000_F_380647288_H6t7joQi7R4JYgAXN7LwxnNgiGe75LJD.jpg' alt='Riley male name, colorful letter balloons background Stock Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/03/80/64/72/1000_F_380647288_H6t7joQi7R4JYgAXN7LwxnNgiGe75LJD.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD with riley name wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/864/52/HD-wallpaper-happy-birtay-riley-pink-neon-lights-riley-name-creative-riley-happy-birtay-riley-birtay-popular-american-female-names-with-riley-name-riley.jpg' alt='HD with riley name wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/864/52/HD-wallpaper-happy-birtay-riley-pink-neon-lights-riley-name-creative-riley-happy-birtay-riley-birtay-popular-american-female-names-with-riley-name-riley.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="217 Riley Stock Vectors and Vector Art | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/graffiti-lettering-typography-art-illustration-260nw-2452983129.jpg' alt='217 Riley Stock Vectors and Vector Art | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/graffiti-lettering-typography-art-illustration-260nw-2452983129.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Riley with names, horizontal text, Riley name, blue neon lights ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/838/283/HD-wallpaper-riley-with-names-horizontal-text-riley-name-blue-neon-lights-with-riley-name.jpg' alt='Riley with names, horizontal text, Riley name, blue neon lights ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/838/283/HD-wallpaper-riley-with-names-horizontal-text-riley-name-blue-neon-lights-with-riley-name.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : ATTNEON Riley Name Neon Sign,LED Name Neon Light for Kids  Bedroom,Birthday Party Decoration,Neon Sign Customizable for Girl,Birthday  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/8122cBu7TjL.jpg' alt='Amazon.com : ATTNEON Riley Name Neon Sign,LED Name Neon Light for Kids  Bedroom,Birthday Party Decoration,Neon Sign Customizable for Girl,Birthday  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/8122cBu7TjL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Riley- name in 3d - Google Search">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/95/c6/eb/95c6ebe9cda42c43df2df09de3e03213.jpg' alt='Riley- name in 3d - Google Search'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="501">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/95/c6/eb/95c6ebe9cda42c43df2df09de3e03213.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="217 Riley Stock Vectors and Vector Art | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/female-name-stylish-lettering-cursive-260nw-2524399429.jpg' alt='217 Riley Stock Vectors and Vector Art | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/female-name-stylish-lettering-cursive-260nw-2524399429.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Riley Name Stickers for Sale | Redbubble">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.1464383294.7681/st,small,507x507-pad,600x600,f8f8f8.jpg' alt='Riley Name Stickers for Sale | Redbubble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.1464383294.7681/st,small,507x507-pad,600x600,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

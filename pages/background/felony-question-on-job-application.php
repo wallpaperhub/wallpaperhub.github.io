@@ -1,0 +1,129 @@
+<title>Handling Felony Questions on Job Applications</title>
+                    <meta name="description" content="Learn how to navigate felony questions on job applications. Understand the importance of honesty, how to position your past positively, and prepare effective responses. Boost your chances for employment despite a criminal record with our helpful tips!">
+                    <meta name="keywords" content="felony question on job application">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/felony-question-on-job-application">
+                            <span itemprop="name">felony question on job application</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Handling Felony Questions on Job Applications</h1>
+                <p>When applying for a job, many applications include a question about felony convictions. It's important to answer truthfully, as dishonesty can lead to disqualification. Consider the relevance of your conviction to the job, and if necessary, prepare to discuss it in a positive light, focusing on rehabilitation and growth.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ohio Removes Felony Question From Job Applications | WOSU Public Media">
+                                <img itemprop="contentUrl url" src='https://npr.brightspotcdn.com/dims4/default/6a51f33/2147483647/strip/true/crop/443x273+0+11/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fwosu2%2Ffiles%2F201506%2Fjob_application.jpg' alt='Ohio Removes Felony Question From Job Applications | WOSU Public Media'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="542">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WOSU" />
+                                </span>
+                                <a href='https://npr.brightspotcdn.com/dims4/default/6a51f33/2147483647/strip/true/crop/443x273+0+11/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fwosu2%2Ffiles%2F201506%2Fjob_application.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Answer Application Questions About Criminal Charges">
+                                <img itemprop="contentUrl url" src='https://www.carolinaattorneys.com/blog/wp-content/uploads/2018/03/Criminal-Record-Search.jpg' alt='How To Answer Application Questions About Criminal Charges'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="753">
+                                <meta itemprop="height" content="591">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Powers Law Firm PA" />
+                                </span>
+                                <a href='https://www.carolinaattorneys.com/blog/wp-content/uploads/2018/03/Criminal-Record-Search.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ohio HB 56 Targets Felon Hiring Bias - LEAF Ministry">
+                                <img itemprop="contentUrl url" src='http://www.leafministry.org/wp-content/uploads/2015/05/applilcaiton-sample.jpg' alt='Ohio HB 56 Targets Felon Hiring Bias - LEAF Ministry'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="941">
+                                <meta itemprop="height" content="392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LEAF Ministry" />
+                                </span>
+                                <a href='http://www.leafministry.org/wp-content/uploads/2015/05/applilcaiton-sample.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Federal job applications no longer ask about criminal history ...">
+                                <img itemprop="contentUrl url" src='https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2019/09/764/432/crime_question2_1446520422491_422583_ver1.0_640_360.jpg?ve=1&tl=1' alt='Federal job applications no longer ask about criminal history ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="764">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FOX 5 Atlanta" />
+                                </span>
+                                <a href='https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2019/09/764/432/crime_question2_1446520422491_422583_ver1.0_640_360.jpg?ve=1&tl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bill aims to lessen impact of criminal history on job search in ...">
+                                <img itemprop="contentUrl url" src='https://bloximages.newyork1.vip.townnews.com/taosnews.com/content/tncms/assets/v3/editorial/8/d2/8d220d46-c0da-52fe-be77-48647944a90c/5efd065612fd4.image.jpg' alt='Bill aims to lessen impact of criminal history on job search in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="552">
+                                <meta itemprop="height" content="315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Taos News" />
+                                </span>
+                                <a href='https://bloximages.newyork1.vip.townnews.com/taosnews.com/content/tncms/assets/v3/editorial/8/d2/8d220d46-c0da-52fe-be77-48647944a90c/5efd065612fd4.image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rochester considers ordinance to limit questions about criminal ...">
+                                <img itemprop="contentUrl url" src='https://npr.brightspotcdn.com/dims4/default/cfdccde/2147483647/strip/true/crop/750x358+0+0/resize/880x420!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Finnovationtrail%2Ffiles%2F201405%2FBan_The_Box_red.jpg' alt='Rochester considers ordinance to limit questions about criminal ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Innovation Trail" />
+                                </span>
+                                <a href='https://npr.brightspotcdn.com/dims4/default/cfdccde/2147483647/strip/true/crop/750x358+0+0/resize/880x420!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Finnovationtrail%2Ffiles%2F201405%2FBan_The_Box_red.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A total demonization of women': Formerly incarcerated women face ...">
+                                <img itemprop="contentUrl url" src='http://www.oidj.org/wp-content/uploads/2021/07/Recidivism-copy-1024x683.jpg' alt='A total demonization of women': Formerly incarcerated women face ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OIDJ" />
+                                </span>
+                                <a href='http://www.oidj.org/wp-content/uploads/2021/07/Recidivism-copy-1024x683.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Job application - inappropriate questions : r/jobs">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/job-application-inappropriate-questions-v0-q5qeezfmiaxc1.jpg?width=1242&format=pjpg&auto=webp&s=1af23b34c6ef6215a21742ed1f35421308f0bb0a' alt='Job application - inappropriate questions : r/jobs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/job-application-inappropriate-questions-v0-q5qeezfmiaxc1.jpg?width=1242&format=pjpg&auto=webp&s=1af23b34c6ef6215a21742ed1f35421308f0bb0a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Have You Ever Been Convicted? - First Intelligence Group ...">
+                                <img itemprop="contentUrl url" src='http://firstintelligencegroup.com/wp-content/uploads/2014/01/ban_box-292x162.jpg' alt='Have You Ever Been Convicted? - First Intelligence Group ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="292">
+                                <meta itemprop="height" content="162">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="First Intelligence Group" />
+                                </span>
+                                <a href='http://firstintelligencegroup.com/wp-content/uploads/2014/01/ban_box-292x162.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ban The Box: Nebraska Removes Criminal History Questions From Job Apps">
+                                <img itemprop="contentUrl url" src='https://fox42kptm.com/resources/media/fb4e1ab2-1720-4321-9baa-dc1966bdd2da-3567520_G.jpg?1452588752738' alt='Ban The Box: Nebraska Removes Criminal History Questions From Job Apps'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="986">
+                                <meta itemprop="height" content="555">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KPTM Fox 42" />
+                                </span>
+                                <a href='https://fox42kptm.com/resources/media/fb4e1ab2-1720-4321-9baa-dc1966bdd2da-3567520_G.jpg?1452588752738' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

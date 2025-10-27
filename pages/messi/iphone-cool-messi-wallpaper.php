@@ -1,0 +1,129 @@
+<title>Cool Messi iPhone Wallpapers: Download Now!</title>
+                    <meta name="description" content="Elevate your iPhone aesthetic with stunning Messi wallpapers. Perfect for every football fan, these dynamic images of Lionel Messi capture his legendary prowess and style. Download your favorite wallpaper today and showcase your love for the game on your mobile device!">
+                    <meta name="keywords" content="iphone cool messi wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/messi">
+                            <span itemprop="name">Messi</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/messi/iphone-cool-messi-wallpaper">
+                            <span itemprop="name">iphone cool messi wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cool Messi iPhone Wallpapers: Download Now!</h1>
+                <p>Looking for the perfect iPhone wallpaper featuring Lionel Messi? Discover a selection of cool Messi wallpapers that capture his awesome style and skills on the field. Whether you’re a die-hard fan or just appreciate his talent, these vibrant images will personalize your device and inspire you every day. Download now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Messi, blood, young, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/115/855/HD-wallpaper-messi-football.jpg' alt='Messi, blood, young, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/115/855/HD-wallpaper-messi-football.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Messi Football King iPhone Wallpaper HD | Lionel messi wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bd/2b/cf/bd2bcf787bb897d5e7011ab6b1673651.jpg' alt='Messi Football King iPhone Wallpaper HD | Lionel messi wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bd/2b/cf/bd2bcf787bb897d5e7011ab6b1673651.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Messi iPhone, Messi World Cup, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/622/917/HD-wallpaper-messi-iphone-messi-world-cup.jpg' alt='Messi iPhone, Messi World Cup, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1731">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/622/917/HD-wallpaper-messi-iphone-messi-world-cup.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 16 Wallpapers | HD & 4K Wallpapers for Apple iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3b/5f/b0/3b5fb00fa4cd94fd595f6098705e0ebc.jpg' alt='iPhone 16 Wallpapers | HD & 4K Wallpapers for Apple iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="599">
+                                <meta itemprop="height" content="1066">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3b/5f/b0/3b5fb00fa4cd94fd595f6098705e0ebc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Messi iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp4310305.jpg' alt='Messi iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="668">
+                                <meta itemprop="height" content="1197">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp4310305.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lionel Messi iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6a/df/6c/6adf6c0b1ce69c8a5c64507ffe843005.jpg' alt='Lionel Messi iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6a/df/6c/6adf6c0b1ce69c8a5c64507ffe843005.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Leo Messi IPhone Wallpaper by rkfootydesigns on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/88512646-37a8-495b-b2de-77309ea17bc4/da6yipe-1f599f1e-2479-453c-bf1d-72fa03913a57.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg4NTEyNjQ2LTM3YTgtNDk1Yi1iMmRlLTc3MzA5ZWExN2JjNFwvZGE2eWlwZS0xZjU5OWYxZS0yNDc5LTQ1M2MtYmYxZC03MmZhMDM5MTNhNTcuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.UlUbcNbToVpa2T2mHJsWt52NIfFO9Hf4GiXL5_wiBwQ' alt='Leo Messi IPhone Wallpaper by rkfootydesigns on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="701">
+                                <meta itemprop="height" content="1245">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/88512646-37a8-495b-b2de-77309ea17bc4/da6yipe-1f599f1e-2479-453c-bf1d-72fa03913a57.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg4NTEyNjQ2LTM3YTgtNDk1Yi1iMmRlLTc3MzA5ZWExN2JjNFwvZGE2eWlwZS0xZjU5OWYxZS0yNDc5LTQ1M2MtYmYxZC03MmZhMDM5MTNhNTcuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.UlUbcNbToVpa2T2mHJsWt52NIfFO9Hf4GiXL5_wiBwQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Leo Messi iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp12238107.jpg' alt='Leo Messi iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp12238107.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cool As Ever -- Lionel Messi" Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/lionel-messi-capturing-the-fans-with-his-signature-style-8s46ovc2q857we9b.webp' alt='cool As Ever -- Lionel Messi" Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="635">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/lionel-messi-capturing-the-fans-with-his-signature-style-8s46ovc2q857we9b.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Trust Only One Legendary Phone - Messi Iphone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/messi-iphone-67pa7zhpob1s8paw.jpg' alt='Download Trust Only One Legendary Phone - Messi Iphone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/messi-iphone-67pa7zhpob1s8paw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

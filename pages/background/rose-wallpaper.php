@@ -1,0 +1,129 @@
+<title>Bloom Your Space: Beautiful Rose Wallpaper</title>
+                    <meta name="description" content="Enhance your home decor with stunning rose wallpaper. Available in various styles, it's perfect for adding elegance to any room. Discover floral designs that bring nature indoors and elevate your interior aesthetics. Shop now for the perfect bloom!">
+                    <meta name="keywords" content="rose wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rose-wallpaper">
+                            <span itemprop="name">rose wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Bloom Your Space: Beautiful Rose Wallpaper</h1>
+                <p>Rose wallpaper adds a touch of elegance and charm to any space. Perfect for bedrooms or living areas, floral designs can create a serene environment. Available in various colors and patterns, it allows you to express your style while bringing nature indoors. Transform your home with stunning rose wallpaper that captivates the eye.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rose Wallpapers: Free HD Download [500+ HQ] | Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1559563362-c667ba5f5480?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cm9zZSUyMHdhbGxwYXBlcnxlbnwwfHwwfHx8MA%3D%3D' alt='Rose Wallpapers: Free HD Download [500+ HQ] | Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4349">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1559563362-c667ba5f5480?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cm9zZSUyMHdhbGxwYXBlcnxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rose full hd 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://c0.wallpaperflare.com/preview/735/87/826/rose-valentine-s-valentine-s-day-romantic.jpg' alt='Rose full hd 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="910">
+                                <meta itemprop="height" content="1369">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://c0.wallpaperflare.com/preview/735/87/826/rose-valentine-s-valentine-s-day-romantic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red rose wallpaper hd 1080p | Red rose wallpaper hd">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/72/93/4e/72934ef2fc38a2419922914197d9fa71.jpg' alt='Red rose wallpaper hd 1080p | Red rose wallpaper hd'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/72/93/4e/72934ef2fc38a2419922914197d9fa71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Beautiful Roses Wallpaper Backgrounds For iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/41/85/71/418571c40839cf3b0da0619cac966dfb.jpg' alt='25 Beautiful Roses Wallpaper Backgrounds For iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/41/85/71/418571c40839cf3b0da0619cac966dfb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower Wallpaper, Floral, Rose Background: Rosely - App on Amazon ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81jKTA+z24L.jpg' alt='Flower Wallpaper, Floral, Rose Background: Rosely - App on Amazon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81jKTA+z24L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vintage Rose Wallpaper Image | Download at StockCake">
+                                <img itemprop="contentUrl url" src='https://images.stockcake.com/public/1/9/4/194a8669-7ec4-4598-8d43-fac203b683b9_large/vintage-rose-wallpaper-stockcake.jpg' alt='Free Vintage Rose Wallpaper Image | Download at StockCake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="728">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockCake" />
+                                </span>
+                                <a href='https://images.stockcake.com/public/1/9/4/194a8669-7ec4-4598-8d43-fac203b683b9_large/vintage-rose-wallpaper-stockcake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower Wallpaper, Floral, Rose Background: Rosely - App on Amazon ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81J4w9lb+1L.jpg' alt='Flower Wallpaper, Floral, Rose Background: Rosely - App on Amazon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81J4w9lb+1L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Roses Wallpaper Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1603519467863-b4792cbcd3fc?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cm9zZXMlMjB3YWxscGFwZXJ8ZW58MHx8MHx8fDA%3D' alt='Roses Wallpaper Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1603519467863-b4792cbcd3fc?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cm9zZXMlMjB3YWxscGFwZXJ8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Roses Wallpaper" Images – Browse 499 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/08/82/66/10/360_F_882661053_WwYU588o0cTa9E116z45j4Ydz42AiRZ8.jpg' alt='Roses Wallpaper" Images – Browse 499 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="240">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/08/82/66/10/360_F_882661053_WwYU588o0cTa9E116z45j4Ydz42AiRZ8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant Red Rose Wallpaper - free download">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/high/elegant-red-rose-wallpaper-233.webp' alt='Elegant Red Rose Wallpaper - free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="838">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/high/elegant-red-rose-wallpaper-233.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

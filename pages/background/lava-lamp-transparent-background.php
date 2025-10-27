@@ -1,0 +1,129 @@
+<title>Stunning Lava Lamp with Transparent Background</title>
+                    <meta name="description" content="Discover the beauty of lava lamps with a transparent background! Perfect for adding a retro touch to any space, these lamps feature captivating colors and mesmerizing motions. Ideal for home decor, parties, or as a unique nightlight. Illuminate your evenings effortlessly with this iconic piece!">
+                    <meta name="keywords" content="lava lamp transparent background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lava-lamp-transparent-background">
+                            <span itemprop="name">lava lamp transparent background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Lava Lamp with Transparent Background</h1>
+                <p>Lava lamps are mesmerizing decorative pieces that combine vibrant colors and unique shapes, creating a captivating glow. A transparent background enhances the visual appeal, allowing you to showcase the lamp's hypnotic movements without distractions. Perfect for cozy corners, parties, or as a nightlight, they bring a retro vibe to any space!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Lava Lamp PNG Images & PSDs for Download | PixelSquid ...">
+                                <img itemprop="contentUrl url" src='http://atlas-content-cdn.pixelsquid.com/stock-images/pink-lava-lamp-5E6KdV6-600.jpg' alt='Pink Lava Lamp PNG Images & PSDs for Download | PixelSquid ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PixelSquid" />
+                                </span>
+                                <a href='http://atlas-content-cdn.pixelsquid.com/stock-images/pink-lava-lamp-5E6KdV6-600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lava Lamp PNG Transparent Images Free Download | Vector Files ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20210917/ourmid/pngtree-lava-lamp-jellyfish-lamp-realistic-style-blue-purple-bulb-png-image_3931185.jpg' alt='Lava Lamp PNG Transparent Images Free Download | Vector Files ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20210917/ourmid/pngtree-lava-lamp-jellyfish-lamp-realistic-style-blue-purple-bulb-png-image_3931185.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5225">
+                                <img itemprop="contentUrl url" src='https://lavalamp.com/wp-content/uploads/2016/08/5225_1500x2000.jpg' alt='5225'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lava® Lamp" />
+                                </span>
+                                <a href='https://lavalamp.com/wp-content/uploads/2016/08/5225_1500x2000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Lava Lamp PNG Images & PSDs for Download | PixelSquid ...">
+                                <img itemprop="contentUrl url" src='http://atlas-content-cdn.pixelsquid.com/stock-images/green-lava-lamp-RBndq7E-600.jpg' alt='Green Lava Lamp PNG Images & PSDs for Download | PixelSquid ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PixelSquid" />
+                                </span>
+                                <a href='http://atlas-content-cdn.pixelsquid.com/stock-images/green-lava-lamp-RBndq7E-600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lava Lamp PNG Transparent Images Free Download | Vector Files ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20210928/ourmid/pngtree-lava-lamp-jellyfish-lamp-onion-lamp-wax-lamp-realistic-style-gradient-png-image_3957528.png' alt='Lava Lamp PNG Transparent Images Free Download | Vector Files ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20210928/ourmid/pngtree-lava-lamp-jellyfish-lamp-onion-lamp-wax-lamp-realistic-style-gradient-png-image_3957528.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1953">
+                                <img itemprop="contentUrl url" src='https://lavalamp.com/wp-content/uploads/2017/08/1953-1500x2000.jpg' alt='1953'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lava® Lamp" />
+                                </span>
+                                <a href='https://lavalamp.com/wp-content/uploads/2017/08/1953-1500x2000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Tricolor White and Clear Lava® Lamp | 14.5" Inches ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61cw7JJzu9L.jpg' alt='Amazon.com: Tricolor White and Clear Lava® Lamp | 14.5" Inches ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61cw7JJzu9L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Blue Background - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180812/liw/kisspng-lighting-designer-lava-lamp-electric-light-lava-lamp-blue-hahh-info-5b6fb30249e873.0384931415340469783027.jpg' alt='Light Blue Background - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180812/liw/kisspng-lighting-designer-lava-lamp-electric-light-lava-lamp-blue-hahh-info-5b6fb30249e873.0384931415340469783027.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lava Lamp PNG Transparent Images Free Download | Vector Files ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20210928/ourmid/pngtree-lava-lamp-decorative-table-lamp-household-png-image_3955530.png' alt='Lava Lamp PNG Transparent Images Free Download | Vector Files ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20210928/ourmid/pngtree-lava-lamp-decorative-table-lamp-household-png-image_3955530.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="About Me - Purple And Orange Lava Lamp - Free Transparent PNG ...">
+                                <img itemprop="contentUrl url" src='https://www.pngkey.com/png/detail/338-3389338_about-me-purple-and-orange-lava-lamp.png' alt='About Me - Purple And Orange Lava Lamp - Free Transparent PNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="820">
+                                <meta itemprop="height" content="917">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGkey" />
+                                </span>
+                                <a href='https://www.pngkey.com/png/detail/338-3389338_about-me-purple-and-orange-lava-lamp.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

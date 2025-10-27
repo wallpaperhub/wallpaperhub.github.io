@@ -1,0 +1,129 @@
+<title>Discover Playboi Carti: The Sound of a Generation</title>
+                    <meta name="description" content="Explore the world of Playboi Carti, a trailblazer in hip-hop known for his innovative sound and fashion. Dive into his music, style, and influence shaping today's music scene. Perfect for fans and newcomers alike!">
+                    <meta name="keywords" content="playboi carti">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/playboi-carti">
+                            <span itemprop="name">playboi carti</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Playboi Carti: The Sound of a Generation</h1>
+                <p>Playboi Carti is a defining figure in modern hip-hop, known for his unique sound and style. With hits like "Magnolia" and "Shoota," he blends catchy melodies and innovative production, making him a favorite among fans. His fashion sense and energetic performances also contribute to his cultural impact.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This is PlayBoi Carti – Miami High News">
+                                <img itemprop="contentUrl url" src='https://miamihighnews.com/wp-content/uploads/2022/05/Playboi_Carti-604x900.webp' alt='This is PlayBoi Carti – Miami High News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="604">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Miami High News" />
+                                </span>
+                                <a href='https://miamihighnews.com/wp-content/uploads/2022/05/Playboi_Carti-604x900.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Playboi Carti: albums, songs, playlists | Deezer">
+                                <img itemprop="contentUrl url" src='https://cdn-images.dzcdn.net/images/artist/b90097972a60d9d8598a79a786be1a3a/1900x1900-000000-80-0-0.jpg' alt='Playboi Carti: albums, songs, playlists | Deezer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Deezer" />
+                                </span>
+                                <a href='https://cdn-images.dzcdn.net/images/artist/b90097972a60d9d8598a79a786be1a3a/1900x1900-000000-80-0-0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Playboi Carti Plans To Preview Upcoming Album At Rolling Loud ...">
+                                <img itemprop="contentUrl url" src='https://i.iheart.com/v3/re/new_assets/67473687a2e3b6d97c31b1c1?ops=contain(1480,0)' alt='Playboi Carti Plans To Preview Upcoming Album At Rolling Loud ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1480">
+                                <meta itemprop="height" content="833">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iHeart" />
+                                </span>
+                                <a href='https://i.iheart.com/v3/re/new_assets/67473687a2e3b6d97c31b1c1?ops=contain(1480,0)' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: elixir design Playboi Carti Poster Musician Concert Tour Rapper  12X18 inches Rolled: Posters & Prints">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/A194kjllWaL.jpg' alt='Amazon.com: elixir design Playboi Carti Poster Musician Concert Tour Rapper  12X18 inches Rolled: Posters & Prints'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1698">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/A194kjllWaL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wireless festival 2022: weekend one review – Playboi Carti stomps ...">
+                                <img itemprop="contentUrl url" src='https://i.guim.co.uk/img/media/a6d708b3363d3537ce431767e9c8b1cc58927eeb/1063_5_2768_1661/master/2768.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=1def6c38e0b6db9a68ba5a6e2dbc9735' alt='Wireless festival 2022: weekend one review – Playboi Carti stomps ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Guardian" />
+                                </span>
+                                <a href='https://i.guim.co.uk/img/media/a6d708b3363d3537ce431767e9c8b1cc58927eeb/1063_5_2768_1661/master/2768.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=1def6c38e0b6db9a68ba5a6e2dbc9735' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,193 Playboi Carti Photos & High Res Pictures - Getty Images">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/2170117873/photo/the-weeknd-after-hours-til-dawn-tour-sao-paulo.jpg?s=594x594&w=gi&k=20&c=3qoOOP4DMw_CREz9EOSoQjyMBF10ETse_ae8SsYdkoA=' alt='1,193 Playboi Carti Photos & High Res Pictures - Getty Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="594">
+                                <meta itemprop="height" content="396">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/2170117873/photo/the-weeknd-after-hours-til-dawn-tour-sao-paulo.jpg?s=594x594&w=gi&k=20&c=3qoOOP4DMw_CREz9EOSoQjyMBF10ETse_ae8SsYdkoA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Playboi Carti's 'Whole Lotta Red': Album Review">
+                                <img itemprop="contentUrl url" src='https://www.rollingstone.com/wp-content/uploads/2021/01/Carti-music-pageC.jpg?w=1581&h=1054&crop=1' alt='Playboi Carti's 'Whole Lotta Red': Album Review'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1581">
+                                <meta itemprop="height" content="1054">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone" />
+                                </span>
+                                <a href='https://www.rollingstone.com/wp-content/uploads/2021/01/Carti-music-pageC.jpg?w=1581&h=1054&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Playboi Carti Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/playboi-carti-o1duxv134a98qd2w.jpg' alt='100+] Playboi Carti Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/playboi-carti-o1duxv134a98qd2w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whole Lotta Red by Playboi Carti | Album Review | by Mark Chinapen ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1400/0*q67NCd8MThnAwlVJ.jpg' alt='Whole Lotta Red by Playboi Carti | Album Review | by Mark Chinapen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="2121">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1400/0*q67NCd8MThnAwlVJ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Playboi Carti cancels two festival appearances, one just hours ...">
+                                <img itemprop="contentUrl url" src='https://theneedledrop.com/content/images/2024/11/Snapinsta.app_449874788_916168053601511_3596105522905998334_n_1080-2-1-1.jpg' alt='Playboi Carti cancels two festival appearances, one just hours ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="722">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Needle Drop" />
+                                </span>
+                                <a href='https://theneedledrop.com/content/images/2024/11/Snapinsta.app_449874788_916168053601511_3596105522905998334_n_1080-2-1-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Blue Dragon Wallpaper - Elevate Your Space!</title>
+                    <meta name="description" content="Discover magical blue dragon wallpaper to transform any room! Perfect for adding a whimsical touch to your decor, this captivating design enhances your space effortlessly. Ideal for dragon lovers and fantasy fans alike. Shop now and give your walls a mythical makeover!">
+                    <meta name="keywords" content="blue:a5idevtjioa= dragon wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/dragon">
+                            <span itemprop="name">Dragon</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/dragon/bluea5idevtjioa-dragon-wallpaper">
+                            <span itemprop="name">blue:a5idevtjioa= dragon wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Blue Dragon Wallpaper - Elevate Your Space!</h1>
+                <p>Enhance your space with mesmerizing blue dragon wallpaper! This stunning design features dynamic dragons in deep azure hues, creating an enchanting atmosphere. Perfect for dragon enthusiasts or anyone looking to add a touch of fantasy and whimsy to their decor. Transform your walls with this captivating artwork today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Dragon Wallpaper,HD Abstract Wallpapers,4k Wallpapers,Images ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4b/6e/86/4b6e86228f876430c0d6413d402f712b.jpg' alt='Blue Dragon Wallpaper,HD Abstract Wallpapers,4k Wallpapers,Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4b/6e/86/4b6e86228f876430c0d6413d402f712b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DRAGON WALLPAPER BLUE">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/72/57/26/72572616aa047fdf2e58b1f50269e8f5.jpg' alt='DRAGON WALLPAPER BLUE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/72/57/26/72572616aa047fdf2e58b1f50269e8f5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Dragon, digital, art, mystic, reptile, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/385/907/HD-wallpaper-blue-dragon-digital-art-mystic-reptile.jpg' alt='Blue Dragon, digital, art, mystic, reptile, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/385/907/HD-wallpaper-blue-dragon-digital-art-mystic-reptile.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Blue Dragon Wallpapers HD on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/45/11/0c/45110c1695569957215cee10c48be5a2.jpg' alt='   Blue Dragon Wallpapers HD on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/45/11/0c/45110c1695569957215cee10c48be5a2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yugioh Blue Dragon Art Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/yugioh-blue-dragon-art-bia367rm5wr6ja99.webp' alt='Yugioh Blue Dragon Art Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="169">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/yugioh-blue-dragon-art-bia367rm5wr6ja99.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Free download Full Fantasy Blue Dragon Wallpaper HD on ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a3/c5/88/a3c5883b09ef106f18bde97deed533e5.jpg' alt='   Free download Full Fantasy Blue Dragon Wallpaper HD on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a3/c5/88/a3c5883b09ef106f18bde97deed533e5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Blue Dragon Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e7/2e/b0/e72eb07e1db4c3526fd73aa38fcbe44b.jpg' alt='The Blue Dragon Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="588">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e7/2e/b0/e72eb07e1db4c3526fd73aa38fcbe44b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Dragon, game, fantasy, japanese, ink, rpg, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/728/374/HD-wallpaper-blue-dragon-game-fantasy-japanese-ink-rpg.jpg' alt='Blue Dragon, game, fantasy, japanese, ink, rpg, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/728/374/HD-wallpaper-blue-dragon-game-fantasy-japanese-ink-rpg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5a/03/20/5a03202c99f36faab085ba22b0634eb3.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5a/03/20/5a03202c99f36faab085ba22b0634eb3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Dragon Wallpapers Picture">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0e/ec/96/0eec967ef62ae452714df37c86c06181.jpg' alt='Blue Dragon Wallpapers Picture'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0e/ec/96/0eec967ef62ae452714df37c86c06181.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

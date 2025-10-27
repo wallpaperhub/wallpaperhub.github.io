@@ -1,0 +1,129 @@
+<title>How to Create Stunning Background Images in Unity 2D</title>
+                    <meta name="description" content="Discover the essentials of designing captivating background images in Unity 2D. Learn tips on layering, resolution, and efficient importing to enhance your game's visuals and performance. Perfect for developers looking to elevate their gaming project with stunning graphics!">
+                    <meta name="keywords" content="unity 2d background image">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/unity-2d-background-image">
+                            <span itemprop="name">unity 2d background image</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>How to Create Stunning Background Images in Unity 2D</h1>
+                <p>In Unity 2D, creating the perfect background image can elevate your game's visual appeal. Utilize layers to add depth and perspective, while considering resolution to ensure crisp visuals across devices. Import images efficiently and adjust settings for optimal performance, helping enhance the overall gaming experience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free 2D Adventure Beach Background | 2D Environments | Unity Asset ...">
+                                <img itemprop="contentUrl url" src='https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/c912a5f5-ea27-4d46-91a8-e70a3bb6237c_scaled.jpg' alt='Free 2D Adventure Beach Background | 2D Environments | Unity Asset ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unity Asset Store" />
+                                </span>
+                                <a href='https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/c912a5f5-ea27-4d46-91a8-e70a3bb6237c_scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon Simple 2D Background | 2D Environments | Unity Asset Store">
+                                <img itemprop="contentUrl url" src='https://assetstorev1-prd-cdn.unity3d.com/key-image/698ad987-1cfe-43ff-9bd4-88e36b9337aa.png' alt='Cartoon Simple 2D Background | 2D Environments | Unity Asset Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unity Asset Store" />
+                                </span>
+                                <a href='https://assetstorev1-prd-cdn.unity3d.com/key-image/698ad987-1cfe-43ff-9bd4-88e36b9337aa.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free 2D Adventure Beach Background | 2D Environments | Unity Asset ...">
+                                <img itemprop="contentUrl url" src='https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/7fd0d413-7ff5-4b68-8ed2-91890bac11a9_scaled.jpg' alt='Free 2D Adventure Beach Background | 2D Environments | Unity Asset ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1131">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unity Asset Store" />
+                                </span>
+                                <a href='https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/7fd0d413-7ff5-4b68-8ed2-91890bac11a9_scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free 2D Adventure Beach Background | 2D Environments | Unity Asset ...">
+                                <img itemprop="contentUrl url" src='https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/971fd2c9-83e7-4f50-8003-db5127fb006a_scaled.jpg' alt='Free 2D Adventure Beach Background | 2D Environments | Unity Asset ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="692">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unity Asset Store" />
+                                </span>
+                                <a href='https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/971fd2c9-83e7-4f50-8003-db5127fb006a_scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2D Field Parallax Background">
+                                <img itemprop="contentUrl url" src='https://assetstorev1-prd-cdn.unity3d.com/key-image/dc64c2b8-328a-4533-aa6b-574919b302c0.jpg' alt='2D Field Parallax Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="516">
+                                <meta itemprop="height" content="389">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unity Asset Store" />
+                                </span>
+                                <a href='https://assetstorev1-prd-cdn.unity3d.com/key-image/dc64c2b8-328a-4533-aa6b-574919b302c0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free 2D Cartoon Parallax Background | 2D Environments | Unity ...">
+                                <img itemprop="contentUrl url" src='https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/be185622-aa11-43ba-bb31-eedb8a86d851_scaled.jpg' alt='Free 2D Cartoon Parallax Background | 2D Environments | Unity ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unity Asset Store" />
+                                </span>
+                                <a href='https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/be185622-aa11-43ba-bb31-eedb8a86d851_scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2D Fantasy Village Background">
+                                <img itemprop="contentUrl url" src='https://assetstorev1-prd-cdn.unity3d.com/key-image/962bde0e-3882-4068-80ca-8a63f6578f3b.jpg' alt='2D Fantasy Village Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1950">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unity Asset Store" />
+                                </span>
+                                <a href='https://assetstorev1-prd-cdn.unity3d.com/key-image/962bde0e-3882-4068-80ca-8a63f6578f3b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Game Backgrounds | 2D Environments | Unity Asset Store">
+                                <img itemprop="contentUrl url" src='https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/85cbdd67-7de9-44b7-a44a-f7b8c122141c_scaled.jpg' alt='10 Game Backgrounds | 2D Environments | Unity Asset Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="785">
+                                <meta itemprop="height" content="393">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unity Asset Store" />
+                                </span>
+                                <a href='https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/85cbdd67-7de9-44b7-a44a-f7b8c122141c_scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mountain background for my 2D Unity game.">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d2/63/55/d26355a4484cf412669476a57a263abc.jpg' alt='Mountain background for my 2D Unity game.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d2/63/55/d26355a4484cf412669476a57a263abc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Game Backgrounds | 2D Environments | Unity Asset Store">
+                                <img itemprop="contentUrl url" src='https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/67e249f2-39f4-44b9-9c94-cc68d4ecc417_scaled.jpg' alt='10 Game Backgrounds | 2D Environments | Unity Asset Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="785">
+                                <meta itemprop="height" content="393">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unity Asset Store" />
+                                </span>
+                                <a href='https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/67e249f2-39f4-44b9-9c94-cc68d4ecc417_scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Transparent Suicide Awareness Ribbon: Symbol of Hope</title>
+                    <meta name="description" content="Explore the powerful symbolism of the suicide awareness ribbon with a transparent background. Perfect for spreading awareness and support for mental health initiatives. Join the conversation and help save lives by promoting understanding in your community!">
+                    <meta name="keywords" content="suicide awareness ribbon transparent background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/suicide-awareness-ribbon-transparent-background">
+                            <span itemprop="name">suicide awareness ribbon transparent background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transparent Suicide Awareness Ribbon: Symbol of Hope</h1>
+                <p>The suicide awareness ribbon, often depicted in vibrant colors, symbolizes hope and support for those affected by suicide. A transparent background enhances its visibility, making it perfect for use in various campaigns, educational content, or social media. By raising awareness, we can save lives and foster understanding.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Teal And Purple Awareness Ribbon - Teal and Purple Awareness ...">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180514/vre/avcsa64ju.webp' alt='Teal And Purple Awareness Ribbon - Teal and Purple Awareness ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="580">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180514/vre/avcsa64ju.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Suicide Prevention Ribbon Stock Illustrations – 471 Suicide ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/d-purple-blue-ribbon-suicide-prevention-awareness-realistic-purple-blue-ribbon-suicide-prevention-awareness-isolated-128314099.jpg' alt='Suicide Prevention Ribbon Stock Illustrations – 471 Suicide ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/d-purple-blue-ribbon-suicide-prevention-awareness-realistic-purple-blue-ribbon-suicide-prevention-awareness-isolated-128314099.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free: Awareness ribbon Suicide prevention Purple ribbon, ribbon ...">
+                                <img itemprop="contentUrl url" src='https://gimgs2.nohat.cc/thumb/f/640/awareness-ribbon-suicide-prevention-purple-ribbon-ribbon-transparent-background-png-clipart--comhiclipartynzww.jpg' alt='Free: Awareness ribbon Suicide prevention Purple ribbon, ribbon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="475">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nohat" />
+                                </span>
+                                <a href='https://gimgs2.nohat.cc/thumb/f/640/awareness-ribbon-suicide-prevention-purple-ribbon-ribbon-transparent-background-png-clipart--comhiclipartynzww.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Suicide Awareness Ribbon. Empowering Suicide Awareness Free SVG ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:500/1*kZzIOnaHGL_ibNAn2q-_tA.png' alt='Suicide Awareness Ribbon. Empowering Suicide Awareness Free SVG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="freedesigns - Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:500/1*kZzIOnaHGL_ibNAn2q-_tA.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Suicide Awareness Ribbon JPG, PNG & SVG instant Download - Etsy ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/26633874/r/il/d2fd04/3838485756/il_fullxfull.3838485756_mx80.jpg' alt='Suicide Awareness Ribbon JPG, PNG & SVG instant Download - Etsy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2318">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/26633874/r/il/d2fd04/3838485756/il_fullxfull.3838485756_mx80.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Suicide Prevention Ribbon Stock Illustrations – 471 Suicide ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/suicide-prevention-ribbon-purple-turquoise-color-depression-consequences-awareness-disease-prevention-diagnosis-treatment-cure-193357470.jpg' alt='Suicide Prevention Ribbon Stock Illustrations – 471 Suicide ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/suicide-prevention-ribbon-purple-turquoise-color-depression-consequences-awareness-disease-prevention-diagnosis-treatment-cure-193357470.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Suicide Awareness Ribbon PNGs for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/049/676/106/small/purple-ribbon-with-heart-clipart-png.png' alt='Suicide Awareness Ribbon PNGs for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/049/676/106/small/purple-ribbon-with-heart-clipart-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Suicide Prevention Awareness Ribbon SVG Cut file by Creative ...">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2020/11/25/1606291237/Suicide-Prevention-Awareness-Ribbon-580x386.jpg' alt='Suicide Prevention Awareness Ribbon SVG Cut file by Creative ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="580">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2020/11/25/1606291237/Suicide-Prevention-Awareness-Ribbon-580x386.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,824 Suicide Awareness Ribbon Stock Vectors and Vector Art ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2326771085/display_1500/stock-vector-suicide-prevention-ribbon-flat-vector-2326771085.jpg' alt='1,824 Suicide Awareness Ribbon Stock Vectors and Vector Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2326771085/display_1500/stock-vector-suicide-prevention-ribbon-flat-vector-2326771085.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green and purple ribbon, Awareness ribbon Suicide prevention Decal ...">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/292/696/png-clipart-purple-and-teal-ribbon-illustration-national-suicide-prevention-week-death-awareness-ribbon-others-miscellaneous-purple.png' alt='Green and purple ribbon, Awareness ribbon Suicide prevention Decal ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/292/696/png-clipart-purple-and-teal-ribbon-illustration-national-suicide-prevention-week-death-awareness-ribbon-others-miscellaneous-purple.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

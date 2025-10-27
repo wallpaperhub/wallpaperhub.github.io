@@ -1,0 +1,129 @@
+<title>Stunning Spider-Gwen Logo Wallpaper for Superhero Fans</title>
+                    <meta name="description" content="Add a pop of creativity to your walls with Spider-Gwen logo wallpaper. Perfect for Marvel fans, this design offers a unique way to express your love for the character. Ideal for bedrooms, offices, or game rooms. Easy to install and remove, making decorating a breeze!">
+                    <meta name="keywords" content="wallpaper spider gwen logo">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spider-man">
+                            <span itemprop="name">Spider man</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spider-man/wallpaper-spider-gwen-logo">
+                            <span itemprop="name">wallpaper spider gwen logo</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Spider-Gwen Logo Wallpaper for Superhero Fans</h1>
+                <p>Transform your space with stunning wallpaper featuring Spider-Gwen's iconic logo! This design captures the bold essence of the character, perfect for fans and decorators alike. Infuse your room with a touch of superhero flair and style, making it a unique and inspiring environment. Ideal for a bedroom, office, or gaming room!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Minimalist Comic Spider-Gwen HD Wallpaper by Andika Aditya">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/101/1017445.jpg' alt='Download Minimalist Comic Spider-Gwen HD Wallpaper by Andika Aditya'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2800">
+                                <meta itemprop="height" content="2321">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/101/1017445.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wanted to share my current wallpaper :) : r/SpiderGwen">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ha55ypaafsbb1.jpg' alt='Wanted to share my current wallpaper :) : r/SpiderGwen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ha55ypaafsbb1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper spider Gwen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/05/20/8a/05208a3424d905db3821e938a550c646.jpg' alt='Wallpaper spider Gwen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/05/20/8a/05208a3424d905db3821e938a550c646.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gwen Stacy Wallpaper 4K, Logo, Colorful background">
+                                <img itemprop="contentUrl url" src='http://4kwallpapers.com/images/walls/thumbs_2t/18202.jpg' alt='Gwen Stacy Wallpaper 4K, Logo, Colorful background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='http://4kwallpapers.com/images/walls/thumbs_2t/18202.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gwen Spiderman wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/12/9e/0e/129e0e4dbe742f975e4516d6c5e7aaab.jpg' alt='Gwen Spiderman wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="536">
+                                <meta itemprop="height" content="1160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/12/9e/0e/129e0e4dbe742f975e4516d6c5e7aaab.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spider-Gwen Logo by theclontoons on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a6dc7b88-fcb2-4fc1-97e3-319fe5c364a5/dfmi0gx-714bb26e-56c7-4dd8-927c-738bf5086691.png/v1/fill/w_601,h_1330,q_70,strp/spider_gwen_logo_by_theclontoons_dfmi0gx-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Nzk5NiIsInBhdGgiOiJcL2ZcL2E2ZGM3Yjg4LWZjYjItNGZjMS05N2UzLTMxOWZlNWMzNjRhNVwvZGZtaTBneC03MTRiYjI2ZS01NmM3LTRkZDgtOTI3Yy03MzhiZjUwODY2OTEucG5nIiwid2lkdGgiOiI8PTM2MTIifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.asRhl9_UpflPW5RZG67eKUTTBCrhd5LHgQ7JpQ5DJU8' alt='Spider-Gwen Logo by theclontoons on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="601">
+                                <meta itemprop="height" content="1330">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a6dc7b88-fcb2-4fc1-97e3-319fe5c364a5/dfmi0gx-714bb26e-56c7-4dd8-927c-738bf5086691.png/v1/fill/w_601,h_1330,q_70,strp/spider_gwen_logo_by_theclontoons_dfmi0gx-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Nzk5NiIsInBhdGgiOiJcL2ZcL2E2ZGM3Yjg4LWZjYjItNGZjMS05N2UzLTMxOWZlNWMzNjRhNVwvZGZtaTBneC03MTRiYjI2ZS01NmM3LTRkZDgtOTI3Yy03MzhiZjUwODY2OTEucG5nIiwid2lkdGgiOiI8PTM2MTIifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.asRhl9_UpflPW5RZG67eKUTTBCrhd5LHgQ7JpQ5DJU8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/3a/99/d4/3a99d40ce2184eef6828c918138d5570.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="832">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/3a/99/d4/3a99d40ce2184eef6828c918138d5570.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spider-Gwen Wallpaper by JackTheKnight on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a4f2faf-7d57-48f8-8b4e-ea655774db6b/dcutz7m-35bafa63-888f-460a-a51f-141ef344f790.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdhNGYyZmFmLTdkNTctNDhmOC04YjRlLWVhNjU1Nzc0ZGI2YlwvZGN1dHo3bS0zNWJhZmE2My04ODhmLTQ2MGEtYTUxZi0xNDFlZjM0NGY3OTAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.G9BpBx8BpwiyArbfXFjwipHbbr2ND3de6lvyJBcQang' alt='Spider-Gwen Wallpaper by JackTheKnight on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a4f2faf-7d57-48f8-8b4e-ea655774db6b/dcutz7m-35bafa63-888f-460a-a51f-141ef344f790.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdhNGYyZmFmLTdkNTctNDhmOC04YjRlLWVhNjU1Nzc0ZGI2YlwvZGN1dHo3bS0zNWJhZmE2My04ODhmLTQ2MGEtYTUxZi0xNDFlZjM0NGY3OTAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.G9BpBx8BpwiyArbfXFjwipHbbr2ND3de6lvyJBcQang' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spider-Gwen collage wallpaper   ️    : r/SpiderGwen">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/38mkfxw8znmb1.jpg' alt='Spider-Gwen collage wallpaper   ️    : r/SpiderGwen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/38mkfxw8znmb1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Spider Gwen Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-spider-gwen-vector-art-ml0rhyn1x7ydafgt.jpg' alt='100+] Spider Gwen Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1680">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-spider-gwen-vector-art-ml0rhyn1x7ydafgt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

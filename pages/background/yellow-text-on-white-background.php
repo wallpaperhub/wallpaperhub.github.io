@@ -1,0 +1,129 @@
+<title>"The Impact of Yellow Text on White Backgrounds"</title>
+                    <meta name="description" content="Discover the effects of using yellow text on white backgrounds. Learn about its striking aesthetics, readability challenges, and best practices for enhancement. Perfect for designers seeking modern visuals and effective communication strategies.">
+                    <meta name="keywords" content="yellow text on white background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/yellow-text-on-white-background">
+                            <span itemprop="name">yellow text on white background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"The Impact of Yellow Text on White Backgrounds"</h1>
+                <p>Yellow text on a white background can create a striking visual contrast that grabs attention. However, it's important to consider readability and accessibility. While it may look modern and fresh, yellow can sometimes be difficult to read, especially in smaller fonts or poor lighting. Choosing the right shade and pairing can enhance impact.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow text on white background? Check. : r/CrappyDesign">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/v1sBbLAc3YqBICz0IHZVGYN02n_cR0BDrIEkfE-LxnA.png?width=640&crop=smart&auto=webp&s=8853a51173be4ef07010c81cb4c5f40cfcd6f94f' alt='Yellow text on white background? Check. : r/CrappyDesign'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="288">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/v1sBbLAc3YqBICz0IHZVGYN02n_cR0BDrIEkfE-LxnA.png?width=640&crop=smart&auto=webp&s=8853a51173be4ef07010c81cb4c5f40cfcd6f94f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="usability - Can I use yellow text on a white background to ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/2mk1Z.png' alt='usability - Can I use yellow text on a white background to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1390">
+                                <meta itemprop="height" content="510">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UX Stack Exchange" />
+                                </span>
+                                <a href='https://i.sstatic.net/2mk1Z.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="why use yellow text over a white background? I can't see a damn ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/veutt0hu8rn51.png?auto=webp&s=8881f6ae3964f185c9e58e3a638c610ed66febbc' alt='why use yellow text over a white background? I can't see a damn ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="767">
+                                <meta itemprop="height" content="411">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/veutt0hu8rn51.png?auto=webp&s=8881f6ae3964f185c9e58e3a638c610ed66febbc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="usability - Can I use yellow text on a white background to ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/Oqhkh.png' alt='usability - Can I use yellow text on a white background to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="781">
+                                <meta itemprop="height" content="547">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UX Stack Exchange" />
+                                </span>
+                                <a href='https://i.sstatic.net/Oqhkh.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colour and text contrast tips for creating accessible documents ...">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/4099342650/original/7uLT0OKwtmabG1DqJ014HOKUbFGeGPucsA.png?1618387928' alt='Colour and text contrast tips for creating accessible documents ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="820">
+                                <meta itemprop="height" content="388">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Digital Learning - Freshdesk" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/4099342650/original/7uLT0OKwtmabG1DqJ014HOKUbFGeGPucsA.png?1618387928' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="usability - Can I use yellow text on a white background to ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/ZdgNT.png' alt='usability - Can I use yellow text on a white background to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UX Stack Exchange" />
+                                </span>
+                                <a href='https://i.sstatic.net/ZdgNT.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ah yes, the old bright yellow text on a white background. (You can ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/u05usyi1xma51.jpg' alt='Ah yes, the old bright yellow text on a white background. (You can ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1728">
+                                <meta itemprop="height" content="2304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/u05usyi1xma51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow text on a white background always works. : r/CrappyDesign">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/o9g1vWc.jpg' alt='Yellow text on a white background always works. : r/CrappyDesign'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2448">
+                                <meta itemprop="height" content="3264">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://i.imgur.com/o9g1vWc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sweet Dreams are made of Cheese | Just because Cards & Quotes        | Send  real postcards online">
+                                <img itemprop="contentUrl url" src='https://designshop-6aa0.kxcdn.com/photos/cheese-dreams-just-because-cards-send-online-10993_13.jpg' alt='Sweet Dreams are made of Cheese | Just because Cards & Quotes        | Send  real postcards online'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="846">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MyPostcard" />
+                                </span>
+                                <a href='https://designshop-6aa0.kxcdn.com/photos/cheese-dreams-just-because-cards-send-online-10993_13.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tips to Create an Accessible and Contrasted Color Palette by ...">
+                                <img itemprop="contentUrl url" src='https://stephaniewalter.design/wp-content/uploads/2014/04/accessible-colorcode-yellow01.jpg' alt='Tips to Create an Accessible and Contrasted Color Palette by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="971">
+                                <meta itemprop="height" content="1161">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stéphanie Walter" />
+                                </span>
+                                <a href='https://stephaniewalter.design/wp-content/uploads/2014/04/accessible-colorcode-yellow01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

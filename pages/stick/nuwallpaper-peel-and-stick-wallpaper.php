@@ -1,0 +1,129 @@
+<title>Revamp Your Home: Easy NuWallpaper Peel & Stick Solutions</title>
+                    <meta name="description" content="Discover the simplicity of NuWallpaper peel and stick wallpaper. Perfect for quick home makeovers, this removable wallpaper adds style without the mess. Explore a variety of trendy designs to enhance your living space with ease!">
+                    <meta name="keywords" content="nuwallpaper peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/nuwallpaper-peel-and-stick-wallpaper">
+                            <span itemprop="name">nuwallpaper peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Revamp Your Home: Easy NuWallpaper Peel & Stick Solutions</h1>
+                <p>Transform your space effortlessly with NuWallpaper peel and stick wallpaper. Ideal for renters and DIY enthusiasts, it offers a hassle-free way to refresh any room. Available in various designs, colors, and textures, it’s easy to apply and remove without damaging surfaces. Revitalize your home decor today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NuWallpaper NUS3144 Breezy Peel & Stick Wallpaper, Grey - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81r4S1lpH9L.jpg' alt='NuWallpaper NUS3144 Breezy Peel & Stick Wallpaper, Grey - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81r4S1lpH9L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NuWallpaper Breezy Green Peel and Stick Wallpaper NU4371 - The ...">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/c47891c3-245c-4fc4-8634-4d5e008c8548/svn/nuwallpaper-wallpaper-rolls-nu4371-31_600.jpg' alt='NuWallpaper Breezy Green Peel and Stick Wallpaper NU4371 - The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/c47891c3-245c-4fc4-8634-4d5e008c8548/svn/nuwallpaper-wallpaper-rolls-nu4371-31_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NuWallpaper NU3039 Groovy Garden Grey Peel & Stick Wallpaper, Multicolor -  Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81P7szeGvCL.jpg' alt='NuWallpaper NU3039 Groovy Garden Grey Peel & Stick Wallpaper, Multicolor -  Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1757">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81P7szeGvCL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NuWallpaper 30.75-sq ft Black Vinyl Floral Self-adhesive Peel and ...">
+                                <img itemprop="contentUrl url" src='https://mobileimages.lowes.com/productimages/125856a1-4520-4c26-b972-88a168daf02e/16080901.jpg?size=pdhz' alt='NuWallpaper 30.75-sq ft Black Vinyl Floral Self-adhesive Peel and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lowe's" />
+                                </span>
+                                <a href='https://mobileimages.lowes.com/productimages/125856a1-4520-4c26-b972-88a168daf02e/16080901.jpg?size=pdhz' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NuWallpaper 30.75-sq ft Blue Vinyl Floral Self-adhesive Peel and ...">
+                                <img itemprop="contentUrl url" src='https://mobileimages.lowes.com/productimages/c2fe049a-9c34-44ae-9584-b1d724d71835/44237931.jpg' alt='NuWallpaper 30.75-sq ft Blue Vinyl Floral Self-adhesive Peel and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lowe's" />
+                                </span>
+                                <a href='https://mobileimages.lowes.com/productimages/c2fe049a-9c34-44ae-9584-b1d724d71835/44237931.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NuWallpaper Taupe Eloise Peel & Stick Wallpaper - Walmart.com">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/NuWallpaper-Taupe-Eloise-Peel-Stick-Wallpaper_a2874ece-3e96-48f9-9c91-5b21a52d7bb4.922e8cf758b4fffef21b1157d446e8b4.jpeg' alt='NuWallpaper Taupe Eloise Peel & Stick Wallpaper - Walmart.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/NuWallpaper-Taupe-Eloise-Peel-Stick-Wallpaper_a2874ece-3e96-48f9-9c91-5b21a52d7bb4.922e8cf758b4fffef21b1157d446e8b4.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NuWallpaper NUS4301 Mirei Peel & Stick Wallpaper, Grey, 1 ...">
+                                <img itemprop="contentUrl url" src='https://www.kroger.com/product/images/large/front/0009121276486' alt='NuWallpaper NUS4301 Mirei Peel & Stick Wallpaper, Grey, 1 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Smith's Food and Drug" />
+                                </span>
+                                <a href='https://www.kroger.com/product/images/large/front/0009121276486' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NuWallpaper Treetops Peel & Stick Wallpaper, 1 ct - Mariano's">
+                                <img itemprop="contentUrl url" src='https://www.kroger.com/product/images/large/front/0009121225952' alt='NuWallpaper Treetops Peel & Stick Wallpaper, 1 ct - Mariano's'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="491">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mariano's" />
+                                </span>
+                                <a href='https://www.kroger.com/product/images/large/front/0009121225952' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pattern NU3038 Groovy Garden Navy Peel & Stick Wallpaper from ...">
+                                <img itemprop="contentUrl url" src='https://cdn.totalwallcovering.com/product/groovy-garden-navy-peel-stick-wallpaper-fubs-m.jpg' alt='Pattern NU3038 Groovy Garden Navy Peel & Stick Wallpaper from ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Total Wallcovering" />
+                                </span>
+                                <a href='https://cdn.totalwallcovering.com/product/groovy-garden-navy-peel-stick-wallpaper-fubs-m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NuWallpaper Silver Sunburst Peel and Stick Wallpaper LLS4117">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/ae4a0dbe-71f8-432a-ac55-687255e12059/svn/nuwallpaper-wallpaper-rolls-lls4117-64_600.jpg' alt='NuWallpaper Silver Sunburst Peel and Stick Wallpaper LLS4117'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/ae4a0dbe-71f8-432a-ac55-687255e12059/svn/nuwallpaper-wallpaper-rolls-lls4117-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Adorable iPhone Backgrounds: Cute Wallpapers for Your Screen</title>
+                    <meta name="description" content="Find the cutest iPhone background wallpapers to personalize your device! Explore a variety of adorable designs that perfectly match your style. Download your favorites now and transform your screen with joy and charm today!">
+                    <meta name="keywords" content="iphone cute background wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/iphone-cute-background-wallpaper">
+                            <span itemprop="name">iphone cute background wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable iPhone Backgrounds: Cute Wallpapers for Your Screen</h1>
+                <p>Discover the charm of iPhone cute background wallpapers that add a touch of beauty and joy to your device! From adorable animals and whimsical patterns to vibrant floral designs, you will find the perfect wallpaper to express your personality. Brighten up your screen and make every glance a delight!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable iphone background templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFPnhwhzx4/1/0/900w/canva-yellow-daisy-cute-flower-iphone-wallpaper-XUyIHx9eH2Q.jpg' alt='Free and customizable iphone background templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFPnhwhzx4/1/0/900w/canva-yellow-daisy-cute-flower-iphone-wallpaper-XUyIHx9eH2Q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute iPhone Wallpapers HD Quality - Free Download!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/e0/f5/82/e0f5824463629accae169eade272cae3.jpg' alt='Cute iPhone Wallpapers HD Quality - Free Download!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="537">
+                                <meta itemprop="height" content="953">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/e0/f5/82/e0f5824463629accae169eade272cae3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute iPhone Wallpapers HD Quality - Free Download!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/54/f3/c6/54f3c6c4bbc23f4b34d03bb8f1204c8f.jpg' alt='Cute iPhone Wallpapers HD Quality - Free Download!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="538">
+                                <meta itemprop="height" content="957">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/54/f3/c6/54f3c6c4bbc23f4b34d03bb8f1204c8f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="0+] Cute Spring Iphone Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cute-spring-iphone-background-02j4cpsdtzru5k5d.jpg' alt='0+] Cute Spring Iphone Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cute-spring-iphone-background-02j4cpsdtzru5k5d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Wallpaper for iPhone - Piktochart">
+                                <img itemprop="contentUrl url" src='https://piktochart.com/wp-content/uploads/2023/10/large-203.jpg' alt='Cute Wallpaper for iPhone - Piktochart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Piktochart" />
+                                </span>
+                                <a href='https://piktochart.com/wp-content/uploads/2023/10/large-203.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute iPhone Wallpapers HD Quality - Free Download!">
+                                <img itemprop="contentUrl url" src='https://anastasiablogger.com/wp-content/uploads/2018/11/bbc09c9019b94cd85eb7473a3e8b4b93.jpg' alt='Cute iPhone Wallpapers HD Quality - Free Download!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anastasia Blogger" />
+                                </span>
+                                <a href='https://anastasiablogger.com/wp-content/uploads/2018/11/bbc09c9019b94cd85eb7473a3e8b4b93.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Cute iPhone Wallpapers To Try In 2024">
+                                <img itemprop="contentUrl url" src='https://pixel77.com/wp-content/uploads/2024/07/cute-iphone-wallpapers-1-1024x1820.webp' alt='10 Cute iPhone Wallpapers To Try In 2024'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1820">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixel77" />
+                                </span>
+                                <a href='https://pixel77.com/wp-content/uploads/2024/07/cute-iphone-wallpapers-1-1024x1820.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300+] Cute Iphone Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cute-iphone-background-cbrd24liv5b3s42u.jpg' alt='300+] Cute Iphone Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cute-iphone-background-cbrd24liv5b3s42u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free downloadable cute phone wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAF75sVF3q8/1/0/900w/canva-pink-cute-ribbon-quote-phone-wallpaper-AnXsf2cfOpI.jpg' alt='Free downloadable cute phone wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAF75sVF3q8/1/0/900w/canva-pink-cute-ribbon-quote-phone-wallpaper-AnXsf2cfOpI.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Wallpaper Cute | Free Aesthetic HD & 4K Mobile Phone Images ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3YxMTI2LWQtMDAzNGUuanBn.jpg' alt='Iphone Wallpaper Cute | Free Aesthetic HD & 4K Mobile Phone Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3YxMTI2LWQtMDAzNGUuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

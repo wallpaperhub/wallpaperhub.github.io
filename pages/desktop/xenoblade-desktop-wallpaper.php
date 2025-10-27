@@ -1,0 +1,129 @@
+<title>Xenoblade Chronicles: Stunning Desktop Wallpapers for Gamers</title>
+                    <meta name="description" content="Discover an array of breathtaking Xenoblade desktop wallpapers, perfect for any fan of the series. Personalize your screen with vibrant visuals from the iconic games. Download now and enhance your gaming experience! Quick access, stunning designs, and fan-favorite images await!">
+                    <meta name="keywords" content="xenoblade desktop wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/xenoblade-desktop-wallpaper">
+                            <span itemprop="name">xenoblade desktop wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Xenoblade Chronicles: Stunning Desktop Wallpapers for Gamers</h1>
+                <p>Elevate your screen with stunning Xenoblade desktop wallpapers! Immerse yourself in the vibrant landscapes and captivating characters of the Xenoblade Chronicles universe. Whether you’re a fan of the original game or its sequels, find the perfect wallpaper to express your love for this epic RPG. Download today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Xenoblade 3 Wallpaper I cropped from aionios moments : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/xenoblade-3-wallpaper-i-cropped-from-aionios-moments-v0-415ir26icxzc1.png?auto=webp&s=1dd397f89210f02e5de58cf27317b368b173837e' alt='Xenoblade 3 Wallpaper I cropped from aionios moments : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2340">
+                                <meta itemprop="height" content="1188">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/xenoblade-3-wallpaper-i-cropped-from-aionios-moments-v0-415ir26icxzc1.png?auto=webp&s=1dd397f89210f02e5de58cf27317b368b173837e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Official Xenoblade Chronicles 3 4K desktop wallpapers from My ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/4x50dqozyqb91.jpg' alt='Official Xenoblade Chronicles 3 4K desktop wallpapers from My ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/4x50dqozyqb91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Xenoblade Chronicles 3 [4K]">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/1818901417394645916/4093C202D8A362E1955296BD5CE029BC3621E014/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::Xenoblade Chronicles 3 [4K]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/1818901417394645916/4093C202D8A362E1955296BD5CE029BC3621E014/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers - Xenoblade Chronicles: Definitive Edition (Individuals ...">
+                                <img itemprop="contentUrl url" src='https://cdn-image-f3580964b8e711e5b95f2ff191a1c838.baas.nintendo.com/1/a916aaacf06cedef' alt='Wallpapers - Xenoblade Chronicles: Definitive Edition (Individuals ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="711">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="My Nintendo" />
+                                </span>
+                                <a href='https://cdn-image-f3580964b8e711e5b95f2ff191a1c838.baas.nintendo.com/1/a916aaacf06cedef' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Xenoblade Chronicles DE MyNintendo PC Wallpapers! : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/xenoblade-chronicles-de-mynintendo-pc-wallpapers-v0-f6i3rueqfr1b1.jpg?width=640&crop=smart&auto=webp&s=5cd0be2ccaa6f40bb37f02b07bef628c01022872' alt='Xenoblade Chronicles DE MyNintendo PC Wallpapers! : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/xenoblade-chronicles-de-mynintendo-pc-wallpapers-v0-f6i3rueqfr1b1.jpg?width=640&crop=smart&auto=webp&s=5cd0be2ccaa6f40bb37f02b07bef628c01022872' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game Xenoblade Chronicles Art">
+                                <img itemprop="contentUrl url" src='https://artfiles.alphacoders.com/818/thumb-1920-81817.jpg' alt='Download Video Game Xenoblade Chronicles Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://artfiles.alphacoders.com/818/thumb-1920-81817.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Official Xenoblade 2 artwork without the text : r/Xenoblade_Chronicles">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/tglspf3xdpc01.png?auto=webp&s=5c2de84b81f86f68ad7988913651af37dd151586' alt='Official Xenoblade 2 artwork without the text : r/Xenoblade_Chronicles'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/tglspf3xdpc01.png?auto=webp&s=5c2de84b81f86f68ad7988913651af37dd151586' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game Xenoblade Chronicles HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/215/215811.jpg' alt='Download Video Game Xenoblade Chronicles HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/215/215811.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Official Xenoblade Chronicles 3 4K desktop wallpapers from My ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/vi7n31pzyqb91.jpg' alt='Official Xenoblade Chronicles 3 4K desktop wallpapers from My ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/vi7n31pzyqb91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Xenoblade Chronicles 2 Wallpapers in Ultra HD | 4K - Gameranx">
+                                <img itemprop="contentUrl url" src='https://gameranx.com/wp-content/uploads/2017/04/Xenoblade-Chronicles-2-720P-Wallpaper.jpg' alt='Xenoblade Chronicles 2 Wallpapers in Ultra HD | 4K - Gameranx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gameranx" />
+                                </span>
+                                <a href='https://gameranx.com/wp-content/uploads/2017/04/Xenoblade-Chronicles-2-720P-Wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

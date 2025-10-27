@@ -1,0 +1,129 @@
+<title>Star Print Wallpaper: Celestial Home Decor</title>
+                    <meta name="description" content="Explore stunning star print wallpaper to elevate your home decor! Perfect for creating a whimsical ambiance in any room, our collection features diverse styles and colors. Ideal for kids’ spaces or playful adult settings, discover how star patterns can transform your walls and inspire creativity!">
+                    <meta name="keywords" content="star print wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star">
+                            <span itemprop="name">Star</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star/star-print-wallpaper">
+                            <span itemprop="name">star print wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Star Print Wallpaper: Celestial Home Decor</h1>
+                <p>Transform your space with star print wallpaper, perfect for adding a celestial touch to any room. Ideal for nurseries, playrooms, or even adult spaces, this playful design sparks imagination and creativity. Available in various colors and styles, star print wallpaper makes it easy to create a dreamy, whimsical atmosphere in your home.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Small Prints Resource Library Stella Star Wallpaper - Off White">
+                                <img itemprop="contentUrl url" src='https://uswalldecor.com/cdn/shop/products/SP1500-Small-Prints-Resource-Library-Stella-Star-Wallpaper-White.jpg?v=1571709030&width=1920' alt='Small Prints Resource Library Stella Star Wallpaper - Off White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='https://uswalldecor.com/cdn/shop/products/SP1500-Small-Prints-Resource-Library-Stella-Star-Wallpaper-White.jpg?v=1571709030&width=1920' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art Prints & Printed Wall Decor | Society6">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d7/44/a9/d744a9463552ccf6f535ba756147bd7f.jpg' alt='Art Prints & Printed Wall Decor | Society6'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="989">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d7/44/a9/d744a9463552ccf6f535ba756147bd7f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star wallpapers Collection | Peel & Stick Or Non-pasted">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/starlit-doll-house-inspired-pattern-repeat-removable-wallpaper-design-683x1024.jpg' alt='Star wallpapers Collection | Peel & Stick Or Non-pasted'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/starlit-doll-house-inspired-pattern-repeat-removable-wallpaper-design-683x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="stars     ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ba/b6/d1/bab6d1d584454487ab70ca5741d187eb.jpg' alt='stars     '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ba/b6/d1/bab6d1d584454487ab70ca5741d187eb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wallpaper | Serena and Lily">
+                                <img itemprop="contentUrl url" src='https://cdn.media.amplience.net/i/serenaandlily/Wallpaper_Star_Ivory_Fold_MJ_19435_Crop_OL?fmt=auto&qlt=default&fmt.jp2.qlt=60&fmt.webp.qlt=70&img404=noimagemedium&unsharp=0,0.3,10,0&w=900&h=1200' alt='Star Wallpaper | Serena and Lily'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Serena and Lily" />
+                                </span>
+                                <a href='https://cdn.media.amplience.net/i/serenaandlily/Wallpaper_Star_Ivory_Fold_MJ_19435_Crop_OL?fmt=auto&qlt=default&fmt.jp2.qlt=60&fmt.webp.qlt=70&img404=noimagemedium&unsharp=0,0.3,10,0&w=900&h=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chesapeake Fable Amira Stars Wallpaper - Taupe">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/files/4060-128866.jpg?v=1720197636' alt='Chesapeake Fable Amira Stars Wallpaper - Taupe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/files/4060-128866.jpg?v=1720197636' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Pattern Images – Browse 4,080,496 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/01/91/53/360_F_201915398_SQBmS16UbAS5Mc5tNr7GDtzL9pnxntz6.jpg' alt='Star Pattern Images – Browse 4,080,496 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/01/91/53/360_F_201915398_SQBmS16UbAS5Mc5tNr7GDtzL9pnxntz6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="STAR NIGHT Art Print by KIND OF STYLE">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6c/a5/f8/6ca5f89383dac1d349d55c9ee97d557b.jpg' alt='STAR NIGHT Art Print by KIND OF STYLE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="989">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6c/a5/f8/6ca5f89383dac1d349d55c9ee97d557b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Little stars removable wallpaper">
+                                <img itemprop="contentUrl url" src='https://livetteswallpaper.com/cdn/shop/products/minimal-star-pattern-removable-wallpaper_1100x.jpg?v=1595364789' alt='Little stars removable wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livettes Wallpaper" />
+                                </span>
+                                <a href='https://livetteswallpaper.com/cdn/shop/products/minimal-star-pattern-removable-wallpaper_1100x.jpg?v=1595364789' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Small Prints Resource Library Stella Star Wallpaper - Navy">
+                                <img itemprop="contentUrl url" src='https://uswalldecor.com/cdn/shop/products/SP1498-Small-Prints-Resource-Library-Stella-Star-Wallpaper-Navy-Blue.jpg?v=1571709030&width=1946' alt='Small Prints Resource Library Stella Star Wallpaper - Navy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='https://uswalldecor.com/cdn/shop/products/SP1498-Small-Prints-Resource-Library-Stella-Star-Wallpaper-Navy-Blue.jpg?v=1571709030&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

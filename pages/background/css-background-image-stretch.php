@@ -1,0 +1,129 @@
+<title>Optimize CSS Background Images: Stretching Techniques</title>
+                    <meta name="description" content="Learn effective techniques to stretch CSS background images, ensuring perfect fit and display. Discover how to use `background-size`, `cover`, and `contain` for optimal results. Improve your website's visual appeal with expert tips on background image management.">
+                    <meta name="keywords" content="css background image stretch">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/css-background-image-stretch">
+                            <span itemprop="name">css background image stretch</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Optimize CSS Background Images: Stretching Techniques</h1>
+                <p>CSS background images can be stretched to fill a container or maintain their aspect ratio using properties like `background-size`. The `cover` value allows the image to cover the entire background, while `contain` keeps the image's proportions intact. Adjust `background-repeat` and `position` for the desired display effect.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to stretch background-image in html and css styling? - Stack ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/BuWC2.png' alt='How to stretch background-image in html and css styling? - Stack ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="610">
+                                <meta itemprop="height" content="1110">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/BuWC2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stretch a Background Image Using CSS">
+                                <img itemprop="contentUrl url" src='https://www.thoughtco.com/thmb/qqSwGBQEdBdrdIajyex-4cGvS38=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/css-background-cover-example-48a4b4f299a848308f0037b063b0d05e.jpg' alt='Stretch a Background Image Using CSS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ThoughtCo" />
+                                </span>
+                                <a href='https://www.thoughtco.com/thmb/qqSwGBQEdBdrdIajyex-4cGvS38=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/css-background-cover-example-48a4b4f299a848308f0037b063b0d05e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To: Resizeable Background Image | CSS-Tricks">
+                                <img itemprop="contentUrl url" src='https://css-tricks.com/wp-content/uploads/2008/05/resizeablebackgroundimage.jpg' alt='How To: Resizeable Background Image | CSS-Tricks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="227">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CSS-Tricks" />
+                                </span>
+                                <a href='https://css-tricks.com/wp-content/uploads/2008/05/resizeablebackgroundimage.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="css - How to stretch the background image to fill a div - Stack ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/P6s4f.png' alt='css - How to stretch the background image to fill a div - Stack ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="461">
+                                <meta itemprop="height" content="195">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/P6s4f.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to stretch background-image in html and css styling? - Stack ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/C1ciG.png' alt='How to stretch background-image in html and css styling? - Stack ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1226">
+                                <meta itemprop="height" content="678">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/C1ciG.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6 Ways to Stretch a Background Image with CSS | Cloudinary">
+                                <img itemprop="contentUrl url" src='https://cloudinary-marketing-res.cloudinary.com/images/w_1000,c_scale/v1702935326/CSS_Stretch_Background_Image_header/CSS_Stretch_Background_Image_header-png?_i=AA' alt='6 Ways to Stretch a Background Image with CSS | Cloudinary'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="523">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cloudinary" />
+                                </span>
+                                <a href='https://cloudinary-marketing-res.cloudinary.com/images/w_1000,c_scale/v1702935326/CSS_Stretch_Background_Image_header/CSS_Stretch_Background_Image_header-png?_i=AA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="twitter bootstrap - how to make background image stretch ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/3oFtF.png' alt='twitter bootstrap - how to make background image stretch ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/3oFtF.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Perfect Full Page Background Image | CSS-Tricks">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/css-tricks.com/wp-content/csstricks-uploads/fullpagebackground.jpg' alt='Perfect Full Page Background Image | CSS-Tricks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CSS-Tricks" />
+                                </span>
+                                <a href='https://i0.wp.com/css-tricks.com/wp-content/csstricks-uploads/fullpagebackground.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stretch a Background Image Using CSS">
+                                <img itemprop="contentUrl url" src='https://www.thoughtco.com/thmb/bOGkr-WMVfOGHobG0nUQHs5JbxM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/css-background-cover-fullscreen-121a93586a864318a7c0e9fbaf69f226.jpg' alt='Stretch a Background Image Using CSS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="759">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ThoughtCo" />
+                                </span>
+                                <a href='https://www.thoughtco.com/thmb/bOGkr-WMVfOGHobG0nUQHs5JbxM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/css-background-cover-fullscreen-121a93586a864318a7c0e9fbaf69f226.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="html - Does background-size: cover stretch a background image ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/XvaqE.png' alt='html - Does background-size: cover stretch a background image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="819">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/XvaqE.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Download High-Quality Statue of Liberty PNG Images</title>
+                    <meta name="description" content="Explore a collection of high-quality Statue of Liberty PNG images, ideal for design projects and presentations. Enjoy transparent backgrounds and sharp details of this iconic symbol of freedom. Perfect for both personal and professional use—download yours today!">
+                    <meta name="keywords" content="statue of liberty png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/statue-of-liberty-png">
+                            <span itemprop="name">statue of liberty png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Download High-Quality Statue of Liberty PNG Images</h1>
+                <p>Discover stunning PNG images of the Statue of Liberty, a symbol of freedom and democracy. Perfect for creative projects, these transparent background images showcase the iconic monument from various angles. Download high-quality images to enhance your design, whether for websites, presentations, or personal use.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Statue of Liberty PNG transparent image download, size: 1912x2608px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/statue_of_liberty_PNG6.png' alt='Statue of Liberty PNG transparent image download, size: 1912x2608px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1912">
+                                <meta itemprop="height" content="2608">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/statue_of_liberty_PNG6.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Statue Of Liberty Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdXB3azYxNzUxNzIxLXdpa2ltZWRpYS1pbWFnZS1rb3dxc2l2dy5qcGc.jpg' alt='Statue Of Liberty Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdXB3azYxNzUxNzIxLXdpa2ltZWRpYS1pbWFnZS1rb3dxc2l2dy5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Statue Of Liberty PNG, Statue Of Liberty Transparent Background ...">
+                                <img itemprop="contentUrl url" src='https://www.freeiconspng.com/thumbs/statue-of-liberty/statue-of-libertyillustration-download-new-york-image-10.png' alt='Statue Of Liberty PNG, Statue Of Liberty Transparent Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="859">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Icons PNG" />
+                                </span>
+                                <a href='https://www.freeiconspng.com/thumbs/statue-of-liberty/statue-of-libertyillustration-download-new-york-image-10.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Statue Of Liberty Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvdXB3azYxNzUxNzIxLXdpa2ltZWRpYS1qb2I2MjNfMS1sMXBxYXcwai5wbmc.png' alt='Statue Of Liberty Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1201">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvdXB3azYxNzUxNzIxLXdpa2ltZWRpYS1qb2I2MjNfMS1sMXBxYXcwai5wbmc.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Statue of Liberty PNG Image - PurePNG | Free transparent CC0 PNG ...">
+                                <img itemprop="contentUrl url" src='https://purepng.com/public/uploads/large/statue-of-liberty-zti.png' alt='Statue of Liberty PNG Image - PurePNG | Free transparent CC0 PNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1040">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PurePNG" />
+                                </span>
+                                <a href='https://purepng.com/public/uploads/large/statue-of-liberty-zti.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Statue of Liberty PNG Clipart Image​ | Gallery Yopriceville - High ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/downloadfullsize/send/8692' alt='Statue of Liberty PNG Clipart Image​ | Gallery Yopriceville - High ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="431">
+                                <meta itemprop="height" content="1218">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/downloadfullsize/send/8692' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top Half Of Statue Of Liberty Monument HD PNG | Citypng">
+                                <img itemprop="contentUrl url" src='https://www.citypng.com/public/uploads/preview/top-half-of-statue-of-liberty-monument-hd-png-704081694690825txi5gdiaql.png' alt='Top Half Of Statue Of Liberty Monument HD PNG | Citypng'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CityPNG" />
+                                </span>
+                                <a href='https://www.citypng.com/public/uploads/preview/top-half-of-statue-of-liberty-monument-hd-png-704081694690825txi5gdiaql.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Statue Of Liberty PNG Image - PurePNG | Free transparent CC0 PNG ...">
+                                <img itemprop="contentUrl url" src='https://purepng.com/public/uploads/large/purepng.com-statue-of-libertystatue-of-libertystatuelibertyenlighteningla-libertliberty-island-17015284878877j8hr.png' alt='Statue Of Liberty PNG Image - PurePNG | Free transparent CC0 PNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="923">
+                                <meta itemprop="height" content="2064">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PurePNG" />
+                                </span>
+                                <a href='https://purepng.com/public/uploads/large/purepng.com-statue-of-libertystatue-of-libertystatuelibertyenlighteningla-libertliberty-island-17015284878877j8hr.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Statue Of Liberty Is Standing On It, Statue Of Liberty, Is ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20240709/original/pngtree-statue-of-liberty-is-standing-on-it-png-image_15524550.png' alt='Statue Of Liberty Is Standing On It, Statue Of Liberty, Is ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20240709/original/pngtree-statue-of-liberty-is-standing-on-it-png-image_15524550.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Statue of Liberty Statue of Unity Graphic arts, statue of liberty ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/10/7b/2b/107b2bc019c668879f2a95052d449bcc.jpg' alt='Statue of Liberty Statue of Unity Graphic arts, statue of liberty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="802">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/10/7b/2b/107b2bc019c668879f2a95052d449bcc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

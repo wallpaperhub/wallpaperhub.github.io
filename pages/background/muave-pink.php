@@ -1,0 +1,129 @@
+<title>Experience the Charm of Muave Pink</title>
+                    <meta name="description" content="Discover the elegance of muave pink! This soft pastel hue enhances home decor, fashion, and design with its soothing charm. Learn how to incorporate this versatile color into your life for a stylish and sophisticated look. Perfect for those seeking a touch of warmth in their color palette!">
+                    <meta name="keywords" content="muave pink">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/muave-pink">
+                            <span itemprop="name">muave pink</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Experience the Charm of Muave Pink</h1>
+                <p>Muave pink is a soft, pastel hue that beautifully blends the warmth of mauve with a hint of pink. This charming color creates a calming ambiance, making it perfect for home decor, fashion, and graphic design. Whether used as an accent or a main color, muave pink adds a touch of elegance and sophistication to any setting.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="mauve pink Color Palette">
+                                <img itemprop="contentUrl url" src='https://www.color-hex.com/palettes/112037.png' alt='mauve pink Color Palette'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Color Hex" />
+                                </span>
+                                <a href='https://www.color-hex.com/palettes/112037.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mauve Pink color hex code is #C77398">
+                                <img itemprop="contentUrl url" src='https://www.color-name.com/images/color/C77398.webp' alt='Mauve Pink color hex code is #C77398'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Color-Name.com" />
+                                </span>
+                                <a href='https://www.color-name.com/images/color/C77398.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ultimate Guide to Mauve Color: 2024 - Fotor">
+                                <img itemprop="contentUrl url" src='https://imgv3.fotor.com/images/blog-richtext-image/mauve-pink-color-c77398.jpg' alt='Ultimate Guide to Mauve Color: 2024 - Fotor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fotor" />
+                                </span>
+                                <a href='https://imgv3.fotor.com/images/blog-richtext-image/mauve-pink-color-c77398.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Mauve Color? Different Variations & Shades | #E0B0FF">
+                                <img itemprop="contentUrl url" src='https://imageupscaler.com/wp-content/uploads/2023/04/Pink-Mauve-Color-C77398.jpg' alt='What is Mauve Color? Different Variations & Shades | #E0B0FF'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Image Upscaler" />
+                                </span>
+                                <a href='https://imageupscaler.com/wp-content/uploads/2023/04/Pink-Mauve-Color-C77398.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Mauve information | Hsl | Rgb | Pantone">
+                                <img itemprop="contentUrl url" src='https://www.icolorpalette.com/download/shades/c292a1_color_shades.jpg' alt='Light Mauve information | Hsl | Rgb | Pantone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1650">
+                                <meta itemprop="height" content="1580">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iColorpalette" />
+                                </span>
+                                <a href='https://www.icolorpalette.com/download/shades/c292a1_color_shades.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Mauve Color? Different Variations & Shades | #E0B0FF">
+                                <img itemprop="contentUrl url" src='https://imageupscaler.com/wp-content/uploads/2023/04/Dark-Mauve-Color-874C62.jpg.webp' alt='What is Mauve Color? Different Variations & Shades | #E0B0FF'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Image Upscaler" />
+                                </span>
+                                <a href='https://imageupscaler.com/wp-content/uploads/2023/04/Dark-Mauve-Color-874C62.jpg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mauvelous Mauve to Dusty Rose Pink Color Palette">
+                                <img itemprop="contentUrl url" src='https://www.color-hex.com/palettes/83566.png' alt='Mauvelous Mauve to Dusty Rose Pink Color Palette'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Color Hex" />
+                                </span>
+                                <a href='https://www.color-hex.com/palettes/83566.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Mauve Color | ArtyClick">
+                                <img itemprop="contentUrl url" src='https://colors.artyclick.com/color-names-dictionary/color-names/light-mauve-color/light-mauve-color_color.png' alt='Light Mauve Color | ArtyClick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="950">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtyClick Colors" />
+                                </span>
+                                <a href='https://colors.artyclick.com/color-names-dictionary/color-names/light-mauve-color/light-mauve-color_color.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2174-40 Dusty Mauve - Paint Color">
+                                <img itemprop="contentUrl url" src='https://www.thecolorbloc.com/cdn/shop/products/D29185_800x.png?v=1642193844' alt='2174-40 Dusty Mauve - Paint Color'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Color Bloc" />
+                                </span>
+                                <a href='https://www.thecolorbloc.com/cdn/shop/products/D29185_800x.png?v=1642193844' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mauve-Pink Color Scheme - Palettes - SchemeColor.com">
+                                <img itemprop="contentUrl url" src='https://www.schemecolor.com/images/scheme/mauve-pink-color-palette.png' alt='Mauve-Pink Color Scheme - Palettes - SchemeColor.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SchemeColor" />
+                                </span>
+                                <a href='https://www.schemecolor.com/images/scheme/mauve-pink-color-palette.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

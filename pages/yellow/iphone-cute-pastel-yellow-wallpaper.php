@@ -1,0 +1,129 @@
+<title>Charming Pastel Yellow iPhone Wallpapers: Brighten Your Screen!</title>
+                    <meta name="description" content="Discover the perfect cute pastel yellow wallpaper for your iPhone! Brighten your device with this delightful aesthetic that enhances your screen and adds a cheerful touch. Ideal for anyone looking to refresh their home screen with a soft and stylish design.">
+                    <meta name="keywords" content="iphone cute pastel yellow wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/iphone-cute-pastel-yellow-wallpaper">
+                            <span itemprop="name">iphone cute pastel yellow wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Pastel Yellow iPhone Wallpapers: Brighten Your Screen!</h1>
+                <p>Transform your iPhone with a cute pastel yellow wallpaper that radiates warmth and cheerfulness. This delightful shade can brighten your screen and mood, making it perfect for those who love a soft, aesthetic touch. Ideal for spring vibes or to add a pop of color, this wallpaper complements various app icons beautifully.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e0/44/df/e044dfb4cb5a42be4be83e59e4fb9988.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="638">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e0/44/df/e044dfb4cb5a42be4be83e59e4fb9988.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/38/91/d6/3891d691b6a0e89b4bd409d648400064.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/38/91/d6/3891d691b6a0e89b4bd409d648400064.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+ Summer IPhone Wallpapers That You Have To See. | Artist Hue">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8c/67/fe/8c67fe91f89c11f44fc3ffadd6c39f23.jpg' alt='100+ Summer IPhone Wallpapers That You Have To See. | Artist Hue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8c/67/fe/8c67fe91f89c11f44fc3ffadd6c39f23.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amarillo | Yellow aesthetic pastel, Iphone wallpaper yellow ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/43/80/ad/4380add2235f608d54368f7a8af5fb77.jpg' alt='Amarillo | Yellow aesthetic pastel, Iphone wallpaper yellow ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/43/80/ad/4380add2235f608d54368f7a8af5fb77.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Pastel Yellow Aesthetic With Lemon Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/dancing-ducks-on-cute-pastel-yellow-aesthetic-r1lyv6nt8int44e4.webp' alt='Cute Pastel Yellow Aesthetic With Lemon Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/dancing-ducks-on-cute-pastel-yellow-aesthetic-r1lyv6nt8int44e4.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Yellow Iphone Wallpaper Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjIzLWctZnJhbWUtMDAxYi0wMS5qcGc.jpg' alt='Pastel Yellow Iphone Wallpaper Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjIzLWctZnJhbWUtMDAxYi0wMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Pastel Yellow Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/pattern-with-stars-yellow-background_363897-14127.jpg?semt=ais_hybrid' alt='Cute Pastel Yellow Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="352">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/pattern-with-stars-yellow-background_363897-14127.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Pastel Yellow Aesthetic Wave Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/daisy-flowers-over-cute-pastel-yellow-aesthetic-x3yhfy08hog0arcu.webp' alt='Cute Pastel Yellow Aesthetic Wave Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/daisy-flowers-over-cute-pastel-yellow-aesthetic-x3yhfy08hog0arcu.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Daisy Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/af/95/62/af95627383b1546c6f9ff8b49adda096.jpg' alt='Yellow Daisy Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/af/95/62/af95627383b1546c6f9ff8b49adda096.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Yellow Iphone Wallpaper Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjIzLWctYm9yZGVyLTAwMWItMDEuanBn.jpg' alt='Pastel Yellow Iphone Wallpaper Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjIzLWctYm9yZGVyLTAwMWItMDEuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Purple Backgrounds for Every Design</title>
+                    <meta name="description" content="Discover the enchanting appeal of purple background colors! Perfect for designs that need a touch of elegance and creativity, purple backgrounds can elevate your projects. Explore tips and ideas to effectively use this captivating color in your work.">
+                    <meta name="keywords" content="background purple color">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/background-purple-color">
+                            <span itemprop="name">background purple color</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Purple Backgrounds for Every Design</h1>
+                <p>Background purple color evokes feelings of creativity, tranquility, and luxury. Often associated with spirituality and mystery, purple can transform spaces, enhancing aesthetics by adding depth and sophistication. Ideal for designing websites or interiors, it strikes a balance between warm and cool tones, creating an inviting atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="640x1136 Dark Violet Solid Color Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/80/d9/a1/80d9a1353fc88c8a9b79e61118c49edc.jpg' alt='640x1136 Dark Violet Solid Color Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/80/d9/a1/80d9a1353fc88c8a9b79e61118c49edc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/studio-background-concept-abstract-empty-light-gradient-purple-studio-room-background-product_1258-52339.jpg?semt=ais_hybrid' alt='Purple Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/studio-background-concept-abstract-empty-light-gradient-purple-studio-room-background-product_1258-52339.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plain Light Pastel Purple Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1c/cb/24/1ccb2489899ae4255043dc10557fc7da.jpg' alt='Plain Light Pastel Purple Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1041">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1c/cb/24/1ccb2489899ae4255043dc10557fc7da.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Background Design Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/005/152/375/small/modern-futuristic-neon-purple-background-free-vector.jpg' alt='Purple Background Design Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="313">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/005/152/375/small/modern-futuristic-neon-purple-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Wallpapers: Free HD Download [500+ HQ] | Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1568861368385-3534aca5cf41?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHVycGxlJTIwd2FsbHBhcGVyfGVufDB8fDB8fHww' alt='Purple Wallpapers: Free HD Download [500+ HQ] | Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1568861368385-3534aca5cf41?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHVycGxlJTIwd2FsbHBhcGVyfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : LYLYCTY 5x7ft Purple Solid Color Backdrop Purple Non-Woven  Backdrop Ultra Violet Backdrops Solid Color Background Pantone Backdrop :  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61pjsMxXLML.jpg' alt='Amazon.com : LYLYCTY 5x7ft Purple Solid Color Backdrop Purple Non-Woven  Backdrop Ultra Violet Backdrops Solid Color Background Pantone Backdrop :  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="752">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61pjsMxXLML.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Color Plain Wallpaper Vectors & Illustrations for Free ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/abstract-purple-background_698452-1053.jpg?semt=ais_hybrid' alt='Purple Color Plain Wallpaper Vectors & Illustrations for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/abstract-purple-background_698452-1053.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful purple color gradient background 5851556 Vector Art at ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/005/489/374/non_2x/beautiful-purple-color-gradient-background-free-vector.jpg' alt='Beautiful purple color gradient background 5851556 Vector Art at ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1633">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/005/489/374/non_2x/beautiful-purple-color-gradient-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="17,000+ Dark Purple Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1452775956/vector/tech-background-big-data-concept-with-triangles-dark-modern-wallpaper-abstract-futuristic.jpg?s=612x612&w=0&k=20&c=tF_UYAdvZvNqytkzd6kY3SSQvHgjkvRMKDkBVAKg3q0=' alt='17,000+ Dark Purple Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="383">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1452775956/vector/tech-background-big-data-concept-with-triangles-dark-modern-wallpaper-abstract-futuristic.jpg?s=612x612&w=0&k=20&c=tF_UYAdvZvNqytkzd6kY3SSQvHgjkvRMKDkBVAKg3q0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Backdrops Pure Color Background Backdrop J03761 – iBACKDROP">
+                                <img itemprop="contentUrl url" src='https://www.ibackdrop.com/cdn/shop/products/J03761.jpg?v=1495871279' alt='Purple Backdrops Pure Color Background Backdrop J03761 – iBACKDROP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iBACKDROP" />
+                                </span>
+                                <a href='https://www.ibackdrop.com/cdn/shop/products/J03761.jpg?v=1495871279' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

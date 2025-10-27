@@ -1,0 +1,129 @@
+<title>Discover the Rich Background of the Star Wars Galaxy</title>
+                    <meta name="description" content="Explore the fascinating background of the Star Wars galaxy, where diverse planets and thrilling lore bring the epic saga to life. Dive into the unique environments, iconic characters, and timeless battles that make Star Wars a beloved universe for fans worldwide. Uncover the magic today!">
+                    <meta name="keywords" content="star wars galaxy background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/star-wars-galaxy-background">
+                            <span itemprop="name">star wars galaxy background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Rich Background of the Star Wars Galaxy</h1>
+                <p>Star Wars galaxies are vast and diverse, featuring a rich tapestry of planets, species, and interstellar conflicts. From the desert landscapes of Tatooine to the lush forests of Endor, each galaxy corner holds mysteries and adventures. The intricate lore combines technology and mysticism, showcasing the eternal struggle between good and evil.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Galaxy Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/3d-hyperspace-background-with-warp-tunnel-effect_1048-12526.jpg' alt='Star Wars Galaxy Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="470">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/3d-hyperspace-background-with-warp-tunnel-effect_1048-12526.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BELECO 7x5ft Fabric Blue Death Star Backdrop for Photography Galactic  Superweapon for Star Wars Galaxy Wars Background Universe Outer Space Baby  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/6127qsu+YbL._AC_UF894,1000_QL80_.jpg' alt='BELECO 7x5ft Fabric Blue Death Star Backdrop for Photography Galactic  Superweapon for Star Wars Galaxy Wars Background Universe Outer Space Baby  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="637">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/6127qsu+YbL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download The Outerspace of the Star Wars Galaxy | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/star-wars-space-background-1920-x-1080-f1o3qr8zm0z4662c.jpg' alt='Download The Outerspace of the Star Wars Galaxy | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/star-wars-space-background-1920-x-1080-f1o3qr8zm0z4662c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Galaxy Wallpapers [100+ Free Background Images ...">
+                                <img itemprop="contentUrl url" src='https://www.wallpapergap.com/cdn/24/153/galaxy-wallpaper-star-wars-1600x1200.jpg' alt='Star Wars Galaxy Wallpapers [100+ Free Background Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperGap" />
+                                </span>
+                                <a href='https://www.wallpapergap.com/cdn/24/153/galaxy-wallpaper-star-wars-1600x1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD star wars galaxies wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/256/535/HD-wallpaper-star-wars-death-star-galaxy-thumbnail.jpg' alt='HD star wars galaxies wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/256/535/HD-wallpaper-star-wars-death-star-galaxy-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Star Wars Images – Browse 19,031 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/12/98/58/360_F_312985894_9b7bXYHboBtbdqtkexi3OB8d5zMQVtJV.jpg' alt='Galaxy Star Wars Images – Browse 19,031 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/12/98/58/360_F_312985894_9b7bXYHboBtbdqtkexi3OB8d5zMQVtJV.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Star Wars Space Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/star-wars-space-background-1280-x-720-j0j7t2welsrveks8.jpg' alt='100+] Star Wars Space Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/star-wars-space-background-1280-x-720-j0j7t2welsrveks8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Galaxy Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/053/722/550/small/stars-on-a-clear-and-black-sky-photo.jpg' alt='Star Wars Galaxy Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/053/722/550/small/stars-on-a-clear-and-black-sky-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and White Star Wars Removable Wallpaper | Walls By Me">
+                                <img itemprop="contentUrl url" src='https://wallsbyme.com/cdn/shop/products/Star_Wars_Black_and_White_Peel_and_Stick_Removable_Wallpaper_Themed_313670658_01_grande.jpg?v=1642623477' alt='Black and White Star Wars Removable Wallpaper | Walls By Me'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls By Me" />
+                                </span>
+                                <a href='https://wallsbyme.com/cdn/shop/products/Star_Wars_Black_and_White_Peel_and_Stick_Removable_Wallpaper_Themed_313670658_01_grande.jpg?v=1642623477' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Star Wars Images – Browse 19,031 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/91/65/45/360_F_291654511_n9lnaCyRVCtBQM01APlDCq55UP78xApb.jpg' alt='Galaxy Star Wars Images – Browse 19,031 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/91/65/45/360_F_291654511_n9lnaCyRVCtBQM01APlDCq55UP78xApb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

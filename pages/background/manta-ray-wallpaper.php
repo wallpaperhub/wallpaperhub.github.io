@@ -1,0 +1,129 @@
+<title>Stunning Manta Ray Wallpaper for Ocean Lovers</title>
+                    <meta name="description" content="Explore our unique manta ray wallpaper collection! Perfect for creating a serene underwater atmosphere in your home. Available in various designs and colors, ideal for sea enthusiasts. Elevate your decor with these breathtaking ocean-themed wallpapers.">
+                    <meta name="keywords" content="manta ray wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/manta-ray-wallpaper">
+                            <span itemprop="name">manta ray wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Manta Ray Wallpaper for Ocean Lovers</h1>
+                <p>Transform your space with stunning manta ray wallpaper! Featuring vibrant ocean blues and intricate designs, these wallpapers bring the beauty of the ocean into your home. Perfect for sea lovers and anyone looking to add a unique touch to their decor. Dive into an undersea adventure with our mesmerizing manta ray designs!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1K+ Manta Ray Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1558586545-5634bea8ef84?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bWFudGElMjByYXl8ZW58MHx8MHx8fDA%3D' alt='1K+ Manta Ray Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3794">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1558586545-5634bea8ef84?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bWFudGElMjByYXl8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1K+ Manta Ray Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1661963626161-0fb7da616bd1?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bWFudGElMjByYXl8ZW58MHx8MHx8fDA%3D' alt='1K+ Manta Ray Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1661963626161-0fb7da616bd1?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bWFudGElMjByYXl8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1K+ Manta Ray Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1582012446386-1682363c2f1c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bWFudGElMjByYXl8ZW58MHx8MHx8fDA%3D' alt='1K+ Manta Ray Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1582012446386-1682363c2f1c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bWFudGElMjByYXl8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Manta Ray Photos, Download The BEST Free Manta Ray Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/5547010/pexels-photo-5547010.jpeg?cs=srgb&dl=pexels-taryn-elliott-5547010.jpg&fm=jpg' alt='Manta Ray Photos, Download The BEST Free Manta Ray Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="6000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/5547010/pexels-photo-5547010.jpeg?cs=srgb&dl=pexels-taryn-elliott-5547010.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Manta Rays" Images – Browse 49,970 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/08/30/05/28/360_F_830052810_aelImAJ2VFNCIulmNKgSoUJBbkLqbt8P.jpg' alt='Manta Rays" Images – Browse 49,970 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/08/30/05/28/360_F_830052810_aelImAJ2VFNCIulmNKgSoUJBbkLqbt8P.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Manta Ray – wall murals online – Photowall">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/60244/manta-ray.jpg?h=699&q=85' alt='Manta Ray – wall murals online – Photowall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1049">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/60244/manta-ray.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Manta Ray Photos, Download The BEST Free Manta Ray Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/5547006/pexels-photo-5547006.jpeg?cs=srgb&dl=pexels-taryn-elliott-5547006.jpg&fm=jpg' alt='Manta Ray Photos, Download The BEST Free Manta Ray Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2624">
+                                <meta itemprop="height" content="3936">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/5547006/pexels-photo-5547006.jpeg?cs=srgb&dl=pexels-taryn-elliott-5547006.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Manta Ray Wallpaper • Under-Sea Wallpaper • Milton & King">
+                                <img itemprop="contentUrl url" src='https://s29938.pcdn.co/wp-content/uploads/2022/06/Katie-OShea-Manta-Ray-Blue-1.jpg.optimal.jpg' alt='Manta Ray Wallpaper • Under-Sea Wallpaper • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://s29938.pcdn.co/wp-content/uploads/2022/06/Katie-OShea-Manta-Ray-Blue-1.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1K+ Manta Ray Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1544552866-fef1d68c69b5?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fG1hbnRhJTIwcmF5fGVufDB8fDB8fHww' alt='1K+ Manta Ray Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1544552866-fef1d68c69b5?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fG1hbnRhJTIwcmF5fGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Manta Ray Backgrounds Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0xNDYtdGFuZy0zMi5qcGc.jpg' alt='Manta Ray Backgrounds Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0xNDYtdGFuZy0zMi5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

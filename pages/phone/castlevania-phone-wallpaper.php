@@ -1,0 +1,129 @@
+<title>Stunning Castlevania Phone Wallpapers: Elevate Your Screen!</title>
+                    <meta name="description" content="Discover captivating Castlevania phone wallpapers perfect for fans. Featuring iconic characters and breathtaking designs, these wallpapers will bring the gothic charm of the series to your device. Upgrade your phone’s aesthetic with these striking visuals today!">
+                    <meta name="keywords" content="castlevania phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/castlevania-phone-wallpaper">
+                            <span itemprop="name">castlevania phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Castlevania Phone Wallpapers: Elevate Your Screen!</h1>
+                <p>Transform your phone's look with stunning Castlevania wallpapers that capture the essence of this iconic game series. Choose from vibrant artwork featuring legendary characters, eerie landscapes, and dark themes that resonate with fans. Experience the gothic charm of Castlevania on your device and immerse yourself in the adventure!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CastleVania Phone Wallpaper Mega Gallery [1440x2960] : r/castlevania">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/OQGGPlNimE-4Mr-moz-Anxy39umDBxrMzetFBy64iAw.jpg?auto=webp&s=bac2960aac62ae9fa339ed69cb8760401c380181' alt='CastleVania Phone Wallpaper Mega Gallery [1440x2960] : r/castlevania'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/OQGGPlNimE-4Mr-moz-Anxy39umDBxrMzetFBy64iAw.jpg?auto=webp&s=bac2960aac62ae9fa339ed69cb8760401c380181' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="i made this mobile wallpaper because i didn't find any fanart ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/aufrvfstha671.jpg' alt='i made this mobile wallpaper because i didn't find any fanart ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="3250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/aufrvfstha671.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alucard, castlevania, vampire, HD phone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/91/2e/31/912e3197ea1bc8fd1a70058c30e146f6.jpg' alt='Alucard, castlevania, vampire, HD phone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/91/2e/31/912e3197ea1bc8fd1a70058c30e146f6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Castlevania iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp12239670.jpg' alt='Castlevania iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp12239670.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Castlevania (Netflix) Wallpapers (45 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/a/6/4/45674-1536x2732-iphone-hd-castlevania-netflix-wallpaper-photo.jpg' alt='Castlevania (Netflix) Wallpapers (45 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="2732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/a/6/4/45674-1536x2732-iphone-hd-castlevania-netflix-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CastleVania Phone Wallpaper Mega Gallery [1440x2960] - castlevania ...">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/WSt1iQK.png' alt='CastleVania Phone Wallpaper Mega Gallery [1440x2960] - castlevania ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Imgur" />
+                                </span>
+                                <a href='https://i.imgur.com/WSt1iQK.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Castlevania mobile wallpaper [1536 × 2916] : r/castlevania">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/v512qbn7f0d71.jpg' alt='Castlevania mobile wallpaper [1536 × 2916] : r/castlevania'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="2592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/v512qbn7f0d71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Castlevania Mobile Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp5284618.jpg' alt='Castlevania Mobile Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1350">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp5284618.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Castlevania, anime, dracula, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/857/251/HD-wallpaper-castlevania-anime-dracula.jpg' alt='Castlevania, anime, dracula, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1244">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/857/251/HD-wallpaper-castlevania-anime-dracula.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Castlevania iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/915/915398.jpg' alt='Castlevania iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/915/915398.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

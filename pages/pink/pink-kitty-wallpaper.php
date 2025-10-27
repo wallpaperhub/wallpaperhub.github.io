@@ -1,0 +1,129 @@
+<title>Charming Pink Kitty Wallpaper for Cat Lovers</title>
+                    <meta name="description" content="Discover delightful pink kitty wallpaper that brings joy to your space! Ideal for nurseries, playrooms, and more, this charming design instantly uplifts any room. Shop now to create a cozy, fun atmosphere filled with adorable feline friends!">
+                    <meta name="keywords" content="pink kitty wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-kitty-wallpaper">
+                            <span itemprop="name">pink kitty wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Pink Kitty Wallpaper for Cat Lovers</h1>
+                <p>Transform your space with adorable pink kitty wallpaper! Perfect for cat lovers, this charming decor option adds a touch of whimsy to any room. Whether it's for a nursery, kids' play area, or your personal sanctuary, our pink kitty wallpaper is vibrant and playful, creating a cozy atmosphere you’ll love.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/10/76/ce/1076ce2716edd555b996fa26bcc70d48.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/10/76/ce/1076ce2716edd555b996fa26bcc70d48.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="68 Pink hello kitty wallpapers ideas | hello kitty wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/a5/11/5b/a5115b4bf0b5cc77d5e6bbd0cbe00f13.jpg' alt='68 Pink hello kitty wallpapers ideas | hello kitty wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/a5/11/5b/a5115b4bf0b5cc77d5e6bbd0cbe00f13.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Pink Hello Kitty Drawing Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/cute-pink-hello-kitty-drawing-762flnr9eyysvlx5.jpg' alt='Cute Pink Hello Kitty Drawing Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/cute-pink-hello-kitty-drawing-762flnr9eyysvlx5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute And Pink Hello Kitty Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-and-pink-hello-kitty-3te8n3unxexmzhiv.jpg' alt='Cute And Pink Hello Kitty Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-and-pink-hello-kitty-3te8n3unxexmzhiv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pink Hello Kitty Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dreamy-pink-hello-kitty-blurry-backdrop-eflelo2tenfan6he.jpg' alt='100+] Pink Hello Kitty Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dreamy-pink-hello-kitty-blurry-backdrop-eflelo2tenfan6he.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,424 Pink Cat Wallpaper Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/dreamy-pink-kitty-whimsical-cat-illustration-wallpaper-high-detailed-image-features-cute-against-plain-background-330645151.jpg' alt='1,424 Pink Cat Wallpaper Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/dreamy-pink-kitty-whimsical-cat-illustration-wallpaper-high-detailed-image-features-cute-against-plain-background-330645151.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="kawaii hello kitty pink wallpaper by greentea45 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a5755734-d63b-4e8a-9ad4-e4b375c9db0b/deautl7-a146ee98-ba74-4d7f-9ea5-1ea0b275de78.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E1NzU1NzM0LWQ2M2ItNGU4YS05YWQ0LWU0YjM3NWM5ZGIwYlwvZGVhdXRsNy1hMTQ2ZWU5OC1iYTc0LTRkN2YtOWVhNS0xZWEwYjI3NWRlNzguanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.dYj03D3xmdNI5z5fXuy95NosVDWIyMHVnqJ1N92xs50' alt='kawaii hello kitty pink wallpaper by greentea45 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a5755734-d63b-4e8a-9ad4-e4b375c9db0b/deautl7-a146ee98-ba74-4d7f-9ea5-1ea0b275de78.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E1NzU1NzM0LWQ2M2ItNGU4YS05YWQ0LWU0YjM3NWM5ZGIwYlwvZGVhdXRsNy1hMTQ2ZWU5OC1iYTc0LTRkN2YtOWVhNS0xZWEwYjI3NWRlNzguanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.dYj03D3xmdNI5z5fXuy95NosVDWIyMHVnqJ1N92xs50' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Kitty Wallpaper Inspiration">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7182822962054106411&location=0&aid=1988' alt='Hello Kitty Wallpaper Inspiration'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="888">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7182822962054106411&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="                                                         ">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/threads/DCtyblROBM6/0/image.jpg' alt='                                                         '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Threads" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/threads/DCtyblROBM6/0/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Hello Kitty Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/hello-kitty-aesthetic-nux8p0k0es4c5tgn.jpg' alt='100+] Hello Kitty Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/hello-kitty-aesthetic-nux8p0k0es4c5tgn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

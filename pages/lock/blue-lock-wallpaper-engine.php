@@ -1,0 +1,129 @@
+<title>Blue Lock Wallpaper Engine: Elevate Your Screen</title>
+                    <meta name="description" content="Discover the ultimate Blue Lock wallpaper engine collection! Enhance your device with captivating visuals inspired by the popular series, perfect for fans. Immerse yourself in vibrant designs that bring your screen to life and showcase your love for Blue Lock in style!">
+                    <meta name="keywords" content="blue lock wallpaper engine">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock">
+                            <span itemprop="name">Lock</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock/blue-lock-wallpaper-engine">
+                            <span itemprop="name">blue lock wallpaper engine</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Blue Lock Wallpaper Engine: Elevate Your Screen</h1>
+                <p>Transform your screen with stunning Blue Lock wallpaper engine designs! Experience the thrilling world of Blue Lock right on your device as you immerse yourself in vibrant visuals featuring your favorite characters and scenes. Perfect for fans who appreciate dynamic art, these wallpapers will elevate your aesthetic game!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::| zetch's BLUELOCK Wallpapers |">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/1957405965872686132/68A6806E63BDF36CC833F2D2E0ADBD628EE568ED/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::| zetch's BLUELOCK Wallpapers |'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="674">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/1957405965872686132/68A6806E63BDF36CC833F2D2E0ADBD628EE568ED/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::| zetch's BLUELOCK Wallpapers |">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/wQglo8OVkxE/maxresdefault.jpg' alt='Steam Workshop::| zetch's BLUELOCK Wallpapers |'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/wQglo8OVkxE/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated a wallpaper using the new visual (Wallpaper Engine)">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/N98vKthAUFWLoA_QIEvfVe3FUCnQuph6yVgxhCY-JlA.png?format=pjpg&auto=webp&s=2644b27cd57018b6210a9886eb090aecb172757c' alt='Animated a wallpaper using the new visual (Wallpaper Engine)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/N98vKthAUFWLoA_QIEvfVe3FUCnQuph6yVgxhCY-JlA.png?format=pjpg&auto=webp&s=2644b27cd57018b6210a9886eb090aecb172757c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::| zetch's BLUELOCK Wallpapers |">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/2036224757699587263/0135D5A593C63006B038415FA3C847E5EC77A509/?imw=200&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::| zetch's BLUELOCK Wallpapers |'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/2036224757699587263/0135D5A593C63006B038415FA3C847E5EC77A509/?imw=200&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::| zetch's BLUELOCK Wallpapers |">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/1957405965872666750/F66754D060D8C41C61C15BF9FBA47C8B79F233FF/?imw=200&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::| zetch's BLUELOCK Wallpapers |'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/1957405965872666750/F66754D060D8C41C61C15BF9FBA47C8B79F233FF/?imw=200&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::| zetch's BLUELOCK Wallpapers |">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/1914618751885985152/C04836FB2AB64FC5E34305D0E43C0382D19B06E6/?imw=200&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::| zetch's BLUELOCK Wallpapers |'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/1914618751885985152/C04836FB2AB64FC5E34305D0E43C0382D19B06E6/?imw=200&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Blue Lock Nagi">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/5082907302188237927/B12F6788AFF4527D8BDA3BE7C3BAE15FFB302474/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::Blue Lock Nagi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/5082907302188237927/B12F6788AFF4527D8BDA3BE7C3BAE15FFB302474/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::| zetch's BLUELOCK Wallpapers |">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/1893227391387009346/8D8D3319DBCF1054E25F03D070F7BC89433CD273/?imw=200&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::| zetch's BLUELOCK Wallpapers |'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/1893227391387009346/8D8D3319DBCF1054E25F03D070F7BC89433CD273/?imw=200&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Lock - Nagi Seishiro [ Live Wallpaper Engine ] PC   + Mobile   ||  Animation">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/wG4e-O613tI/maxresdefault.jpg' alt='Blue Lock - Nagi Seishiro [ Live Wallpaper Engine ] PC   + Mobile   ||  Animation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/wG4e-O613tI/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::| zetch's BLUELOCK Wallpapers |">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/5102047032330108665/77530BBACCE5D501E40C20A664B356FAFE3F7FF6/?imw=200&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::| zetch's BLUELOCK Wallpapers |'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/5102047032330108665/77530BBACCE5D501E40C20A664B356FAFE3F7FF6/?imw=200&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

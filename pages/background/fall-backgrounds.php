@@ -1,0 +1,129 @@
+<title>Stunning Fall Backgrounds for Every Occasion</title>
+                    <meta name="description" content="Discover beautiful fall backgrounds featuring vibrant autumn colors and seasonal charm. Perfect for social media, projects, or cozy decor. Immerse yourself in the beauty of autumn with our curated collection!">
+                    <meta name="keywords" content="fall backgrounds">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fall-backgrounds">
+                            <span itemprop="name">fall backgrounds</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Fall Backgrounds for Every Occasion</h1>
+                <p>Fall backgrounds evoke the essence of the season, showcasing vibrant hues of orange, red, and yellow. From rustic forests to cozy pumpkins, these settings create a warm, inviting feel. Perfect for seasonal projects or social media, fall backgrounds capture the beauty of nature as it transitions, offering a picturesque escape into autumn's charm.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Swepuck 7x5ft Fall Photography Backdrop Autumn Maple Leaves  Pumpkin Friendsgiving Background Thanksgiving Party Supplies Farm Harvest  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81qD6jPZomL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com : Swepuck 7x5ft Fall Photography Backdrop Autumn Maple Leaves  Pumpkin Friendsgiving Background Thanksgiving Party Supplies Farm Harvest  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="638">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81qD6jPZomL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn Background Images – Browse 12,345,685 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/23/14/76/360_F_223147682_WkiiomIDecSp5LDabGFRUFlLXLxul4K8.jpg' alt='Autumn Background Images – Browse 12,345,685 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="607">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/23/14/76/360_F_223147682_WkiiomIDecSp5LDabGFRUFlLXLxul4K8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn Background Photos, Download The BEST Free Autumn Background ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/33109/fall-autumn-red-season.jpg' alt='Autumn Background Photos, Download The BEST Free Autumn Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3456">
+                                <meta itemprop="height" content="2304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/33109/fall-autumn-red-season.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/009/640/598/non_2x/fall-floral-background-free-vector.jpg' alt='Fall Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1531">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/009/640/598/non_2x/fall-floral-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn Background Photos, Download The BEST Free Autumn Background ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1114896/pexels-photo-1114896.jpeg?cs=srgb&dl=pexels-jplenio-1114896.jpg&fm=jpg' alt='Autumn Background Photos, Download The BEST Free Autumn Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1114896/pexels-photo-1114896.jpeg?cs=srgb&dl=pexels-jplenio-1114896.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Aesthetic Fall Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/aesthetic-fall-background-oc80u3fb1q67y0gf.jpg' alt='200+] Aesthetic Fall Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/aesthetic-fall-background-oc80u3fb1q67y0gf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="504,000+ Fall Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1616269561/vector/autumn-leaf-background.jpg?s=612x612&w=0&k=20&c=lJWl6QxCcKvyNmrjVcp7GWelM7m4QnI2J5mTrnyG2Yg=' alt='504,000+ Fall Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1616269561/vector/autumn-leaf-background.jpg?s=612x612&w=0&k=20&c=lJWl6QxCcKvyNmrjVcp7GWelM7m4QnI2J5mTrnyG2Yg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute backgrounds inspired by fall | Parkview Health">
+                                <img itemprop="contentUrl url" src='https://emi.parkview.com/media/file/FallDD_9_21_D2.jpg' alt='Cute backgrounds inspired by fall | Parkview Health'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Parkview Health" />
+                                </span>
+                                <a href='https://emi.parkview.com/media/file/FallDD_9_21_D2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a4/c0/63/a4c06321f60e80a4a1585635c7e8aafc.jpg' alt='Fall wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a4/c0/63/a4c06321f60e80a4a1585635c7e8aafc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Backgrounds" Images – Browse 1,337 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/08/69/20/36/360_F_869203678_CuWu4FraqEcMC0GW31TAQ7rSc3IyI7Pm.jpg' alt='Fall Backgrounds" Images – Browse 1,337 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/08/69/20/36/360_F_869203678_CuWu4FraqEcMC0GW31TAQ7rSc3IyI7Pm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

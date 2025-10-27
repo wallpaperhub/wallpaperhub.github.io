@@ -1,0 +1,129 @@
+<title>Stylish Jordan Phone Wallpapers for Every Fan</title>
+                    <meta name="description" content="Explore a vibrant collection of Jordan phone wallpapers, featuring stylish designs and iconic imagery. Perfect for basketball fans, these wallpapers will personalize your device while showcasing your love for the brand. Download your favorites today for a fresh and motivational look on your phone!">
+                    <meta name="keywords" content="jordan phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/jordan-phone-wallpaper">
+                            <span itemprop="name">jordan phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Jordan Phone Wallpapers for Every Fan</h1>
+                <p>Discover a stunning collection of Jordan phone wallpapers that celebrate the iconic basketball brand. From classic Air Jordan styles to modern designs, our curated selection offers vibrant colors and unique visuals to customize your phone. Elevate your device with these stylish and motivational wallpapers, perfect for every Jordan fan!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD michael jordan wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/621/648/HD-wallpaper-michael-jordan-jordan-goat-bulls-thumbnail.jpg' alt='HD michael jordan wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/621/648/HD-wallpaper-michael-jordan-jordan-goat-bulls-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Michael Jordan Wallpapers (63 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/d/c/5/102065-1220x2160-phone-hd-michael-jordan-background-photo.jpg' alt='Michael Jordan Wallpapers (63 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1220">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/d/c/5/102065-1220x2160-phone-hd-michael-jordan-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD michael jordan wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/635/694/HD-wallpaper-michael-jordan-air-jordan-red-thumbnail.jpg' alt='HD michael jordan wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="478">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/635/694/HD-wallpaper-michael-jordan-air-jordan-red-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Jordan Logo Phone Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/jordan-logo-phone-8dw78f1gj9mr6urz.jpg' alt='Download Jordan Logo Phone Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/jordan-logo-phone-8dw78f1gj9mr6urz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="70 Best Michael jordan wallpaper iphone ideas | michael jordan ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/f9/20/1d/f9201df40daf326828295538b63503ca.jpg' alt='70 Best Michael jordan wallpaper iphone ideas | michael jordan ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="977">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/f9/20/1d/f9201df40daf326828295538b63503ca.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 AIR JORDANS WALLPAPER IPHONE ideas | air jordans, jordans, nike ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/1b/c0/d2/1bc0d2bb187dc7e10ddd047d043b1be8.jpg' alt='20 AIR JORDANS WALLPAPER IPHONE ideas | air jordans, jordans, nike ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/1b/c0/d2/1bc0d2bb187dc7e10ddd047d043b1be8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Jordan Logo Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/jordan-logo-phone-x6r51qqgnj7bi84m.jpg' alt='100+] Jordan Logo Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/jordan-logo-phone-x6r51qqgnj7bi84m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Michael Jordan iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/100/thumb-1920-1008047.jpg' alt='Michael Jordan iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/100/thumb-1920-1008047.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Jordan phone wallpaper : r/chicagobulls">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/qfiy81j2as251.jpg?auto=webp&s=f37d6a0c6cffbc51b53388fbc6db25457b9e586a' alt='Awesome Jordan phone wallpaper : r/chicagobulls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/qfiy81j2as251.jpg?auto=webp&s=f37d6a0c6cffbc51b53388fbc6db25457b9e586a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Air Jordan wallpaper by Milann02 - Download on ZEDGE™ | ba6e">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e0/d8/31/e0d8313f0300381186f97dc39d23dddb.jpg' alt='Air Jordan wallpaper by Milann02 - Download on ZEDGE™ | ba6e'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e0/d8/31/e0d8313f0300381186f97dc39d23dddb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

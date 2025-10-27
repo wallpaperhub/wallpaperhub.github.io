@@ -1,0 +1,129 @@
+<title>Change Colors in Outlook: A Quick Guide</title>
+                    <meta name="description" content="Discover how to easily change colors in Outlook to enhance your email and calendar experience. This quick guide walks you through selecting themes and customizing calendar colors for better visibility and personal preference. Perfect for users seeking a refreshed look in Outlook!">
+                    <meta name="keywords" content="how to change colors in outlook">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/how-to-change-colors-in-outlook">
+                            <span itemprop="name">how to change colors in outlook</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Change Colors in Outlook: A Quick Guide</h1>
+                <p>To change colors in Outlook, open the application and go to "File" > "Options". Click on "General" then scroll to the "Office Theme" dropdown to select your preferred color scheme, such as Dark Gray or Black. For customizing calendar colors, right-click the calendar, select "Color" and choose a shade that suits your preference.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to change the color of your Outlook">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/daId6P96zn0/maxresdefault.jpg' alt='How to change the color of your Outlook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/daId6P96zn0/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Change Background Color in Outlook Email: Simple Guide">
+                                <img itemprop="contentUrl url" src='https://a.storyblok.com/f/228452/787x613/befdbe2abe/background-color-outlook.png' alt='Change Background Color in Outlook Email: Simple Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="787">
+                                <meta itemprop="height" content="613">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Exclaimer" />
+                                </span>
+                                <a href='https://a.storyblok.com/f/228452/787x613/befdbe2abe/background-color-outlook.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="how to change the color appearance on outlook - Microsoft Community">
+                                <img itemprop="contentUrl url" src='https://filestore.community.support.microsoft.com/api/images/c2a485d4-6a33-4070-9fbb-831fa9ff0d6b?upload=true' alt='how to change the color appearance on outlook - Microsoft Community'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="377">
+                                <meta itemprop="height" content="477">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Microsoft Community" />
+                                </span>
+                                <a href='https://filestore.community.support.microsoft.com/api/images/c2a485d4-6a33-4070-9fbb-831fa9ff0d6b?upload=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to change color scheme in Outlook 2019, 2016, 2013, 2010 and 2007">
+                                <img itemprop="contentUrl url" src='https://www.codetwo.com/blog/wp-content/uploads/Change-color-scheme-Outlook_OG.png' alt='How to change color scheme in Outlook 2019, 2016, 2013, 2010 and 2007'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CodeTwo" />
+                                </span>
+                                <a href='https://www.codetwo.com/blog/wp-content/uploads/Change-color-scheme-Outlook_OG.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Change the Outlook.com Color Scheme">
+                                <img itemprop="contentUrl url" src='https://www.groovypost.com/wp-content/uploads/2012/08/Hover-Mouse-over-Color.jpg' alt='How To Change the Outlook.com Color Scheme'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="616">
+                                <meta itemprop="height" content="519">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="groovyPost" />
+                                </span>
+                                <a href='https://www.groovypost.com/wp-content/uploads/2012/08/Hover-Mouse-over-Color.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Change the Theme in Outlook on the Web- Instructions">
+                                <img itemprop="contentUrl url" src='https://www.teachucomp.com/wp-content/uploads/blog-5-22-2017-ChangeTheThemeInOutlookOnTheWeb.png' alt='Change the Theme in Outlook on the Web- Instructions'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2003">
+                                <meta itemprop="height" content="1027">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TeachUcomp, Inc." />
+                                </span>
+                                <a href='https://www.teachucomp.com/wp-content/uploads/blog-5-22-2017-ChangeTheThemeInOutlookOnTheWeb.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Change Background Color in Outlook Email: Simple Guide">
+                                <img itemprop="contentUrl url" src='https://a.storyblok.com/f/228452/792x736/250d900ac5/fill-effects-outlook.png' alt='Change Background Color in Outlook Email: Simple Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="792">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Exclaimer" />
+                                </span>
+                                <a href='https://a.storyblok.com/f/228452/792x736/250d900ac5/fill-effects-outlook.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Change Background Color of an email in Outlook - Office 365">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/ESHaIMArhlM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBKYwur-fO9DdX2BqDHGhuUuvXLXA' alt='How to Change Background Color of an email in Outlook - Office 365'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/ESHaIMArhlM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBKYwur-fO9DdX2BqDHGhuUuvXLXA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Changing background colors in Outlook 2007, 2010, 2013 and 2016 ...">
+                                <img itemprop="contentUrl url" src='http://www.codetwo.com/blog/wp-content/uploads/300.jpg' alt='Changing background colors in Outlook 2007, 2010, 2013 and 2016 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="268">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Support Portal" />
+                                </span>
+                                <a href='http://www.codetwo.com/blog/wp-content/uploads/300.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Change the Outlook.com Color Scheme">
+                                <img itemprop="contentUrl url" src='https://www.groovypost.com/wp-content/uploads/2012/08/Dark-Red.jpg' alt='How To Change the Outlook.com Color Scheme'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="415">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="groovyPost" />
+                                </span>
+                                <a href='https://www.groovypost.com/wp-content/uploads/2012/08/Dark-Red.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

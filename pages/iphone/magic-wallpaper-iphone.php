@@ -1,0 +1,129 @@
+<title>Enchanting Magic Wallpapers for Your iPhone</title>
+                    <meta name="description" content="Explore stunning magic wallpapers that bring your iPhone to life! Find captivating designs that change dynamically, perfect for every style. Discover your favorite aesthetic and personalize your device with unique visuals. Transform your iPhone today with our enchanting wallpaper collection!">
+                    <meta name="keywords" content="magic wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/magic-wallpaper-iphone">
+                            <span itemprop="name">magic wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enchanting Magic Wallpapers for Your iPhone</h1>
+                <p>Transform your iPhone with magic wallpaper that captivates and enchants! Discover a variety of mesmerizing designs that change color, pattern, or animate with motion. Whether you prefer abstract art, nature scenes, or celestial themes, find the perfect backdrop to express your style and bring your screen to life. Elevate your device now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Magical iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp6133509.jpg' alt='Magical iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp6133509.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fox Fall Magic Background, iPhone wallpaper, Cell phone background, iPhone  lock screen, Cell phone wallpaper, Phone background">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/13432603/r/il/61ad5c/1333583560/il_570xN.1333583560_miwg.jpg' alt='Fox Fall Magic Background, iPhone wallpaper, Cell phone background, iPhone  lock screen, Cell phone wallpaper, Phone background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1012">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/13432603/r/il/61ad5c/1333583560/il_570xN.1333583560_miwg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 16 Wallpapers | HD & 4K Wallpapers for Apple iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/f1/29/bc/f129bcdd467016a03a1b013a3f096c93.jpg' alt='iPhone 16 Wallpapers | HD & 4K Wallpapers for Apple iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="469">
+                                <meta itemprop="height" content="832">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/f1/29/bc/f129bcdd467016a03a1b013a3f096c93.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Magic Wallpaper 4K, Book, Fairy tale, 5K, Study">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/magic-book-fairy-tale-5k-1284x2778-909.jpg' alt='Magic Wallpaper 4K, Book, Fairy tale, 5K, Study'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/magic-book-fairy-tale-5k-1284x2778-909.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD iphone magic wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/661/309/HD-wallpaper-magical-stones-anime-black-galaxy-iphone-iphone-11-joker-joker-2019-sad-star-thumbnail.jpg' alt='HD iphone magic wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/661/309/HD-wallpaper-magical-stones-anime-black-galaxy-iphone-iphone-11-joker-joker-2019-sad-star-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Magic The Gathering iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp7585070.jpg' alt='Magic The Gathering iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp7585070.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Magic IPhone Wallpaper by wallpaperpad on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/060350d8-3a06-4110-a1d8-71dc8a736b24/dfambsr-2603a47c-5451-42d7-a249-f660878484b2.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA2MDM1MGQ4LTNhMDYtNDExMC1hMWQ4LTcxZGM4YTczNmIyNFwvZGZhbWJzci0yNjAzYTQ3Yy01NDUxLTQyZDctYTI0OS1mNjYwODc4NDg0YjIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1w2zxWsWL3KI-XxH2Lbmavtw_9YmdTkexyGz3RDC6kQ' alt='Neon Magic IPhone Wallpaper by wallpaperpad on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/060350d8-3a06-4110-a1d8-71dc8a736b24/dfambsr-2603a47c-5451-42d7-a249-f660878484b2.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA2MDM1MGQ4LTNhMDYtNDExMC1hMWQ4LTcxZGM4YTczNmIyNFwvZGZhbWJzci0yNjAzYTQ3Yy01NDUxLTQyZDctYTI0OS1mNjYwODc4NDg0YjIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1w2zxWsWL3KI-XxH2Lbmavtw_9YmdTkexyGz3RDC6kQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tree wallpaper magical">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9c/a2/f6/9ca2f605f1ead77a68fc7a81dda5cc4f.jpg' alt='Tree wallpaper magical'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1362">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9c/a2/f6/9ca2f605f1ead77a68fc7a81dda5cc4f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Magic Light In The Forest Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/magic-light-in-the-forest-abhjth7bmn6m8lvc.jpg' alt='Magic Light In The Forest Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1265">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/magic-light-in-the-forest-abhjth7bmn6m8lvc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Magic Circle Inactive, fantasy, occult, arcane, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/74/15/HD-wallpaper-magic-circle-inactive-fantasy-occult-arcane.jpg' alt='Magic Circle Inactive, fantasy, occult, arcane, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/74/15/HD-wallpaper-magic-circle-inactive-fantasy-occult-arcane.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

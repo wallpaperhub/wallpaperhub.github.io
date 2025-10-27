@@ -1,0 +1,129 @@
+<title>Nolle Prosequi: Will It Affect Your Criminal Record?</title>
+                    <meta name="description" content="Discover if a nolle prosequi case impacts your criminal record. Learn about your rights and the implications of case dismissal. Find out more now!">
+                    <meta name="keywords" content="will i have criminal record if my case was nolle prosequi">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/will-i-have-criminal-record-if-my-case-was-nolle-prosequi">
+                            <span itemprop="name">will i have criminal record if my case was nolle prosequi</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Nolle Prosequi: Will It Affect Your Criminal Record?</h1>
+                <p>Your case being nolle prosequi means it has been dismissed, and generally, it does not result in a criminal record. However, it’s essential to verify local laws, as circumstances may vary. Consulting a legal professional can provide clarity on how this status affects your record and future legal standing.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nolle Prosequi | Meaning & Examples | Study.com">
+                                <img itemprop="contentUrl url" src='https://study.com/cimages/multimages/16/nolle_prosequi_example2441878748282676299.jpg' alt='Nolle Prosequi | Meaning & Examples | Study.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="225">
+                                <meta itemprop="height" content="174">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Study.com" />
+                                </span>
+                                <a href='https://study.com/cimages/multimages/16/nolle_prosequi_example2441878748282676299.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Nolle Prosequi Show On Background Checks">
+                                <img itemprop="contentUrl url" src='https://does-nolle-prosequi-show-on-background-checks.govbackgroundchecks.com/screenshots/does-nolle-prosequi-show-on-background-checks/6.jpg' alt='Does Nolle Prosequi Show On Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://does-nolle-prosequi-show-on-background-checks.govbackgroundchecks.com/screenshots/does-nolle-prosequi-show-on-background-checks/6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Nolle Prosequi Show On Background Checks">
+                                <img itemprop="contentUrl url" src='https://does-nolle-prosequi-show-on-background-checks.govbackgroundchecks.com/screenshots/does-nolle-prosequi-show-on-background-checks/1.jpg' alt='Does Nolle Prosequi Show On Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://does-nolle-prosequi-show-on-background-checks.govbackgroundchecks.com/screenshots/does-nolle-prosequi-show-on-background-checks/1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Nolle Prosequi Show On Background Checks">
+                                <img itemprop="contentUrl url" src='https://does-nolle-prosequi-show-on-background-checks.govbackgroundchecks.com/screenshots/does-nolle-prosequi-show-on-background-checks/7.jpg' alt='Does Nolle Prosequi Show On Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://does-nolle-prosequi-show-on-background-checks.govbackgroundchecks.com/screenshots/does-nolle-prosequi-show-on-background-checks/7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will I Have a Criminal Record if my case was Nolle Prosequi ...">
+                                <img itemprop="contentUrl url" src='https://lh7-rt.googleusercontent.com/docsz/AD_4nXdO0M9WveyY1OlW0DEs9Xy6pwQVPln99HhIND3Yuk-aw8zkKHGpfvUGSunrmDsCp2GDmC_rrk_6fT3tXX5hTg7YSaYJ7sIdLANuTYk51dyVaBeAVBlEFqlrtVEjfD3uMn2Q_UZarUVGXCe2p6cGfwZIpbtEVcTZxprw-6Ab3HIsG1iBFrSKrA?key=qpbLhHO17o26NCDhIEOY4w' alt='Will I Have a Criminal Record if my case was Nolle Prosequi ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NetLingo" />
+                                </span>
+                                <a href='https://lh7-rt.googleusercontent.com/docsz/AD_4nXdO0M9WveyY1OlW0DEs9Xy6pwQVPln99HhIND3Yuk-aw8zkKHGpfvUGSunrmDsCp2GDmC_rrk_6fT3tXX5hTg7YSaYJ7sIdLANuTYk51dyVaBeAVBlEFqlrtVEjfD3uMn2Q_UZarUVGXCe2p6cGfwZIpbtEVcTZxprw-6Ab3HIsG1iBFrSKrA?key=qpbLhHO17o26NCDhIEOY4w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nolle Prosequi: What is Nolle Prossed in a GA Criminal Case ...">
+                                <img itemprop="contentUrl url" src='https://www.georgiacriminaldefense.com/photos/sample.jpg' alt='Nolle Prosequi: What is Nolle Prossed in a GA Criminal Case ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="473">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kohn & Yager" />
+                                </span>
+                                <a href='https://www.georgiacriminaldefense.com/photos/sample.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Nolle Prosequi Show On Background Checks">
+                                <img itemprop="contentUrl url" src='https://does-nolle-prosequi-show-on-background-checks.govbackgroundchecks.com/screenshots/does-nolle-prosequi-show-on-background-checks/3.jpg' alt='Does Nolle Prosequi Show On Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://does-nolle-prosequi-show-on-background-checks.govbackgroundchecks.com/screenshots/does-nolle-prosequi-show-on-background-checks/3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Nolle Prosequi Show On Background Checks">
+                                <img itemprop="contentUrl url" src='https://does-nolle-prosequi-show-on-background-checks.govbackgroundchecks.com/screenshots/does-nolle-prosequi-show-on-background-checks/8.jpg' alt='Does Nolle Prosequi Show On Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://does-nolle-prosequi-show-on-background-checks.govbackgroundchecks.com/screenshots/does-nolle-prosequi-show-on-background-checks/8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nolle Prosequi | Kevin R. Fisher Kevin Fisher Kevin Fisher">
+                                <img itemprop="contentUrl url" src='https://kevinfisherlegal.com/wp-content/uploads/Nolle-Prosequi.png' alt='Nolle Prosequi | Kevin R. Fisher Kevin Fisher Kevin Fisher'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="940">
+                                <meta itemprop="height" content="788">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kevin Fisher Legal" />
+                                </span>
+                                <a href='https://kevinfisherlegal.com/wp-content/uploads/Nolle-Prosequi.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Understanding Nolle Prosequi: Implications for Your Criminal Case ...">
+                                <img itemprop="contentUrl url" src='https://www.meltzerandbell.com/wp-content/uploads/2025/01/wpbnp_1914418099-486x324.webp' alt='Understanding Nolle Prosequi: Implications for Your Criminal Case ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="486">
+                                <meta itemprop="height" content="324">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Meltzer & Bell, P.A." />
+                                </span>
+                                <a href='https://www.meltzerandbell.com/wp-content/uploads/2025/01/wpbnp_1914418099-486x324.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

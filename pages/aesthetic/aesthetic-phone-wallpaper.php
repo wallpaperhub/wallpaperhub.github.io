@@ -1,0 +1,129 @@
+<title>Aesthetic Phone Wallpapers: Elevate Your Style</title>
+                    <meta name="description" content="Discover the perfect aesthetic phone wallpapers to personalize your device! Explore a curated collection of stunning designs, from minimalism to vibrant art. Transform your screen and express your individuality today with our diverse range of wallpapers that suit every vibe.">
+                    <meta name="keywords" content="aesthetic phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic-phone-wallpaper">
+                            <span itemprop="name">aesthetic phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Phone Wallpapers: Elevate Your Style</h1>
+                <p>Elevate your phone's style with aesthetic wallpapers that reflect your personality! From minimalist designs to vibrant art, find the perfect backdrop to enhance your device. Whether you prefer nature, abstract, or serene pastel palettes, explore a range of options that inspire and calm. Refresh your screen and express yourself today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone & Smartphone Wallpaper, Minimalist Aesthetic Wallpaper, Backgrounds,  Minimalist Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/39367109/r/il/845f01/4511904762/il_570xN.4511904762_5lvm.jpg' alt='iPhone & Smartphone Wallpaper, Minimalist Aesthetic Wallpaper, Backgrounds,  Minimalist Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1015">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/39367109/r/il/845f01/4511904762/il_570xN.4511904762_5lvm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free aesthetic phone wallpaper templates to customize | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFlBlYxWGY/1/0/900w/canva-pink-white-minimalist-aesthetic-quotes-phone-wallpaper-JD5lEpJ6VRc.jpg' alt='Free aesthetic phone wallpaper templates to customize | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFlBlYxWGY/1/0/900w/canva-pink-white-minimalist-aesthetic-quotes-phone-wallpaper-JD5lEpJ6VRc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Blue Aesthetic Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/blue-aesthetic-phone-c0n4y4omitdmwtg2.jpg' alt='200+] Blue Aesthetic Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1133">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/blue-aesthetic-phone-c0n4y4omitdmwtg2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Aesthetic Phone Wallpaper Background Ideas">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/e6/c2/e0/e6c2e00264f737d83c5130cc6fb0e524.jpg' alt='25 Aesthetic Phone Wallpaper Background Ideas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="1026">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/e6/c2/e0/e6c2e00264f737d83c5130cc6fb0e524.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic phone 2025 backgrounds">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFWgDw-TW4/1/0/900w/canva-pink-and-purple-aesthetic-watercolor-flower-phone-wallpaper-UhSfVWq4ROM.jpg' alt='Aesthetic phone 2025 backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFWgDw-TW4/1/0/900w/canva-pink-and-purple-aesthetic-watercolor-flower-phone-wallpaper-UhSfVWq4ROM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable phone wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFiN8tytkM/1/0/900w/canva-brown-aesthetic-flower-phone-wallpaper-JdUFkY6mPh4.jpg' alt='Free and customizable phone wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFiN8tytkM/1/0/900w/canva-brown-aesthetic-flower-phone-wallpaper-JdUFkY6mPh4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Wallpaper Cute | Free Aesthetic HD & 4K Mobile Phone Images ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNTk3ZGVzaWduLWEtMDI4LmpwZw.jpg' alt='Iphone Wallpaper Cute | Free Aesthetic HD & 4K Mobile Phone Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNTk3ZGVzaWduLWEtMDI4LmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Aesthetic Phone Daisy Flowers Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/purple-aesthetic-phone-daisy-flowers-i3y69sz7wwwlitkg.jpg' alt='Purple Aesthetic Phone Daisy Flowers Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/purple-aesthetic-phone-daisy-flowers-i3y69sz7wwwlitkg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Abstract Aesthetic Phone Wallpaper Background Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210717/original/pngtree-beautiful-abstract-aesthetic-phone-wallpaper-picture-image_1445176.jpg' alt='Beautiful Abstract Aesthetic Phone Wallpaper Background Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210717/original/pngtree-beautiful-abstract-aesthetic-phone-wallpaper-picture-image_1445176.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Phone Wallpaper Neutral Minimalist iPhone Home Screen ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28615394/r/il/b97c00/4638119174/il_570xN.4638119174_s1yv.jpg' alt='Aesthetic Phone Wallpaper Neutral Minimalist iPhone Home Screen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28615394/r/il/b97c00/4638119174/il_570xN.4638119174_s1yv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

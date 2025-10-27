@@ -1,0 +1,129 @@
+<title>Access Your DCFS Portal Easily Online</title>
+                    <meta name="description" content="Discover the DCFS Portal – your go-to resource for efficient case management and communication with the Department of Children and Family Services. Access important documents and support services effortlessly from any device. Start connecting today!">
+                    <meta name="keywords" content="dcfs portal">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dcfs-portal">
+                            <span itemprop="name">dcfs portal</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Access Your DCFS Portal Easily Online</h1>
+                <p>The DCFS Portal is an essential online platform designed for the Department of Children and Family Services. It allows users to access vital resources, submit documents, and manage cases efficiently. With its user-friendly interface, the portal enhances communication between families and caseworkers, ensuring timely support and streamlined processes.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CAFE - Create an Account | Louisiana Department of Children ...">
+                                <img itemprop="contentUrl url" src='https://dcfs.louisiana.gov/assets/images/CAFE/cafe_get_started_link_2000.jpg' alt='CAFE - Create an Account | Louisiana Department of Children ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1819">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Louisiana Department of Children & Family Services - Louisiana.gov" />
+                                </span>
+                                <a href='https://dcfs.louisiana.gov/assets/images/CAFE/cafe_get_started_link_2000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LA CAFE - Louisiana CAFE Customer Portal">
+                                <img itemprop="contentUrl url" src='https://sspweb.ie.dcfs.la.gov/selfservice/images/CFA_Pilot_Banner.png' alt='LA CAFE - Louisiana CAFE Customer Portal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="453">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DCFS - Louisiana.gov" />
+                                </span>
+                                <a href='https://sspweb.ie.dcfs.la.gov/selfservice/images/CFA_Pilot_Banner.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CAFE - Create an Account | Louisiana Department of Children ...">
+                                <img itemprop="contentUrl url" src='https://dcfs.louisiana.gov/assets/images/CAFE/cafe_warning_message_1400.jpg' alt='CAFE - Create an Account | Louisiana Department of Children ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="708">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Louisiana Department of Children & Family Services - Louisiana.gov" />
+                                </span>
+                                <a href='https://dcfs.louisiana.gov/assets/images/CAFE/cafe_warning_message_1400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CAFE - Create an Account | Louisiana Department of Children ...">
+                                <img itemprop="contentUrl url" src='https://dcfs.louisiana.gov/assets/images/CAFE/cafe_create_account_button_900.jpg' alt='CAFE - Create an Account | Louisiana Department of Children ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Louisiana Department of Children & Family Services - Louisiana.gov" />
+                                </span>
+                                <a href='https://dcfs.louisiana.gov/assets/images/CAFE/cafe_create_account_button_900.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DCFS Foster and Adoptive Family Portal Quick Start Guide">
+                                <img itemprop="contentUrl url" src='x-raw-image:///bb2bce6812d11ec202c88d3bd0fe441d1285a2eb0eed7d0ce14175157a47e692' alt='DCFS Foster and Adoptive Family Portal Quick Start Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="749">
+                                <meta itemprop="height" content="551">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Arkansas Department of Human Services - Arkansas.gov" />
+                                </span>
+                                <a href='x-raw-image:///bb2bce6812d11ec202c88d3bd0fe441d1285a2eb0eed7d0ce14175157a47e692' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Louisiana Issues February SNAP Food Benefits Early | Louisiana ...">
+                                <img itemprop="contentUrl url" src='http://www.dcfs.louisiana.gov/assets/images/CAFE/cafe_check_benefit_status_1100.jpg' alt='Louisiana Issues February SNAP Food Benefits Early | Louisiana ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="599">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Louisiana Department of Children & Family Services - Louisiana.gov" />
+                                </span>
+                                <a href='http://www.dcfs.louisiana.gov/assets/images/CAFE/cafe_check_benefit_status_1100.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LA CAFE - Louisiana CAFE Customer Portal">
+                                <img itemprop="contentUrl url" src='https://sspweb.ie.dcfs.la.gov/selfservice/images/211_Banner.png' alt='LA CAFE - Louisiana CAFE Customer Portal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="453">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LA CAFE - Louisiana CAFE Customer Portal - Louisiana.gov" />
+                                </span>
+                                <a href='https://sspweb.ie.dcfs.la.gov/selfservice/images/211_Banner.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Policy Portal - DCFS Policy Institute Website">
+                                <img itemprop="contentUrl url" src='https://policy.dcfs.lacounty.gov/wwwroot/elfinder/files/Images/PolicyPortal/Policy-Portal-bold-banner-2023.png' alt='Policy Portal - DCFS Policy Institute Website'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1030">
+                                <meta itemprop="height" content="176">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DCFS Policy - COUNTY OF LOS ANGELES" />
+                                </span>
+                                <a href='https://policy.dcfs.lacounty.gov/wwwroot/elfinder/files/Images/PolicyPortal/Policy-Portal-bold-banner-2023.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Need to check your child support case information? The LA CAFÉ ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3429635629296590739' alt='Need to check your child support case information? The LA CAFÉ ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3429635629296590739' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DCFS Foster and Adoptive Family Portal Quick Start Guide">
+                                <img itemprop="contentUrl url" src='x-raw-image:///e27668259f87dd270ebc15ed7362eb1d3d8d4a53dc10910db4c6c5156a3946fa' alt='DCFS Foster and Adoptive Family Portal Quick Start Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="784">
+                                <meta itemprop="height" content="583">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Arkansas Department of Human Services - Arkansas.gov" />
+                                </span>
+                                <a href='x-raw-image:///e27668259f87dd270ebc15ed7362eb1d3d8d4a53dc10910db4c6c5156a3946fa' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

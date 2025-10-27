@@ -1,0 +1,129 @@
+<title>Discovering Atlantis: Myths, Theories, and Legacy</title>
+                    <meta name="description" content="Unravel the mystery of Atlantis, the legendary lost city. Explore its myths, theories of existence, and cultural impact in this concise journey through history. Perfect for history enthusiasts and adventure seekers alike!">
+                    <meta name="keywords" content="atlantis">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/atlantis">
+                            <span itemprop="name">atlantis</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discovering Atlantis: Myths, Theories, and Legacy</h1>
+                <p>Atlantis, the legendary sunken city, fascinates historians and explorers alike. Often depicted as an advanced civilization, it was said to have vanished mysteriously beneath the waves. Numerous theories about its existence have sparked intrigue, inspiring countless novels, films, and research. Is Atlantis merely a myth or a lost treasure waiting to be discovered?</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Atlantis: The Lost Empire (2001) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BNWY5NTgzMTYtZmFhMi00MDczLTljYzctNTQ1MjRiMDY4NzIyXkEyXkFqcGc@._V1_.jpg' alt='Atlantis: The Lost Empire (2001) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="1170">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BNWY5NTgzMTYtZmFhMi00MDczLTljYzctNTQ1MjRiMDY4NzIyXkEyXkFqcGc@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Behind The Scenes: Conservation And Innovation At Atlantis">
+                                <img itemprop="contentUrl url" src='https://imageio.forbes.com/specials-images/imageserve/65a549defb1564efae20bdad/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds' alt='Behind The Scenes: Conservation And Innovation At Atlantis'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1374">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forbes" />
+                                </span>
+                                <a href='https://imageio.forbes.com/specials-images/imageserve/65a549defb1564efae20bdad/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Atlantis">
+                                <img itemprop="contentUrl url" src='https://assets.editorial.aetnd.com/uploads/2010/10/gettyimages-1388719730.jpg' alt='Atlantis'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="8000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.history.com" />
+                                </span>
+                                <a href='https://assets.editorial.aetnd.com/uploads/2010/10/gettyimages-1388719730.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="City Of Atlantis: Is The Sunken City Of Atlantis Real?">
+                                <img itemprop="contentUrl url" src='https://www.scienceabc.com/wp-content/uploads/ext-www.scienceabc.com/wp-content/uploads/2017/02/atlantis-1024x576.jpg-.jpg' alt='City Of Atlantis: Is The Sunken City Of Atlantis Real?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ScienceABC" />
+                                </span>
+                                <a href='https://www.scienceabc.com/wp-content/uploads/ext-www.scienceabc.com/wp-content/uploads/2017/02/atlantis-1024x576.jpg-.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Atlantis: The Lost Empire | Disney Movies">
+                                <img itemprop="contentUrl url" src='https://lumiere-a.akamaihd.net/v1/images/p_atlantis_19870_4a082829.jpeg' alt='Atlantis: The Lost Empire | Disney Movies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Movies" />
+                                </span>
+                                <a href='https://lumiere-a.akamaihd.net/v1/images/p_atlantis_19870_4a082829.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lost city of Atlantis rises again to fuel a dangerous myth ...">
+                                <img itemprop="contentUrl url" src='https://i.guim.co.uk/img/media/11370c1faa0827c29220068f8f408c6a02b3777e/1352_554_5152_3092/master/5152.jpg?width=1200&quality=85&auto=format&fit=max&s=8937e8415cd5b391f4f769eee6baed96' alt='Lost city of Atlantis rises again to fuel a dangerous myth ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Guardian" />
+                                </span>
+                                <a href='https://i.guim.co.uk/img/media/11370c1faa0827c29220068f8f408c6a02b3777e/1352_554_5152_3092/master/5152.jpg?width=1200&quality=85&auto=format&fit=max&s=8937e8415cd5b391f4f769eee6baed96' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Atlantis Resorts (World's Most Iconic Resorts) Dubai | Best Beach ...">
+                                <img itemprop="contentUrl url" src='https://assets.kerzner.com/api/public/content/434185142a3644718cad792aff117d47?v=64ffc60c&t=w2880' alt='Atlantis Resorts (World's Most Iconic Resorts) Dubai | Best Beach ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.atlantis.com" />
+                                </span>
+                                <a href='https://assets.kerzner.com/api/public/content/434185142a3644718cad792aff117d47?v=64ffc60c&t=w2880' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Atlantis is a Myth - NeuroLogica Blog">
+                                <img itemprop="contentUrl url" src='https://theness.com/neurologicablog/wp-content/uploads/sites/3/2022/11/Atlantis.jpg' alt='Atlantis is a Myth - NeuroLogica Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="977">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="theness.com" />
+                                </span>
+                                <a href='https://theness.com/neurologicablog/wp-content/uploads/sites/3/2022/11/Atlantis.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Atlantis - The Lost Empire">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81uHnWyCWGL._AC_UF894,1000_QL80_.jpg' alt='Atlantis - The Lost Empire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="674">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81uHnWyCWGL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is Atlantis Real? The Truth Behind the Atlantis Myth">
+                                <img itemprop="contentUrl url" src='https://cdn.thecollector.com/wp-content/uploads/2022/12/atlantis-myth-maroti-painting.jpg' alt='Is Atlantis Real? The Truth Behind the Atlantis Myth'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="690">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheCollector" />
+                                </span>
+                                <a href='https://cdn.thecollector.com/wp-content/uploads/2022/12/atlantis-myth-maroti-painting.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

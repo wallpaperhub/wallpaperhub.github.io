@@ -1,0 +1,129 @@
+<title>Delightful Cute Candy Wallpaper for a Sweet Home Decor</title>
+                    <meta name="description" content="Discover the enchanting world of cute candy wallpaper! Perfect for nurseries or playful spaces, these vibrant patterns add a sweet touch to your home. Ideal for candy lovers, this wallpaper will brighten any room with its joyful charm. Explore our collection now and indulge in a sugary sweet ambiance!">
+                    <meta name="keywords" content="cute candy wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-candy-wallpaper">
+                            <span itemprop="name">cute candy wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Delightful Cute Candy Wallpaper for a Sweet Home Decor</h1>
+                <p>Transform your space with adorable cute candy wallpaper! Perfect for kids' rooms, play areas, or anyone who loves a sweet aesthetic. Featuring vibrant colors and delightful designs of candies, lollipops, and treats, this wallpaper adds a whimsical touch and brings joy to every corner. Sweeten your home decor today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/1c/a2/a2/1ca2a2d6924c5e7317003eb02f2c882b.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="354">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/1c/a2/a2/1ca2a2d6924c5e7317003eb02f2c882b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Candy Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/candy-pastel-color-pattern-design_23-2150623222.jpg' alt='Cute Candy Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/candy-pastel-color-pattern-design_23-2150623222.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Candy Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-halloween-candies-light-colors-3g6xztfzyc28xmfo.jpg' alt='100+] Cute Candy Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-halloween-candies-light-colors-3g6xztfzyc28xmfo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Candy wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/26/3c/62/263c622fd62ac5fc6fdfe1b32906f44d.jpg' alt='Candy wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/26/3c/62/263c622fd62ac5fc6fdfe1b32906f44d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Pastel Faces Cute Candies Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pastel-faces-cute-candies-hnfw54eupmh7bcba.jpg' alt='Download Pastel Faces Cute Candies Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pastel-faces-cute-candies-hnfw54eupmh7bcba.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Cute candy seamless pattern sweets desserts ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/cute-candy-seamless-pattern-sweets-desserts-isolated-pink-background_71374-1399.jpg' alt='Premium Vector | Cute candy seamless pattern sweets desserts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/cute-candy-seamless-pattern-sweets-desserts-isolated-pink-background_71374-1399.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute White Cotton Candy Png Yuri Background Wallpaper Image For ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20220731/original/pngtree-cute-white-cotton-candy-png-yuri-picture-image_1907814.jpg' alt='Cute White Cotton Candy Png Yuri Background Wallpaper Image For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20220731/original/pngtree-cute-white-cotton-candy-png-yuri-picture-image_1907814.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1000+ Candy Wallpaper Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1529767367174-535729449d71?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2FuZHklMjB3YWxscGFwZXJ8ZW58MHx8MHx8fDA%3D' alt='1000+ Candy Wallpaper Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1529767367174-535729449d71?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2FuZHklMjB3YWxscGFwZXJ8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Cute Lollipop Candy Background, Candy Ring, Cake, Strawberry ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210717/original/pngtree-pink-cute-lollipop-candy-background-picture-image_1442117.jpg' alt='Pink Cute Lollipop Candy Background, Candy Ring, Cake, Strawberry ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="857">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210717/original/pngtree-pink-cute-lollipop-candy-background-picture-image_1442117.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Candies Tumblr Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-candies-tumblr-aesthetic-y89xyqjrya60fe3t.jpg' alt='Cute Candies Tumblr Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-candies-tumblr-aesthetic-y89xyqjrya60fe3t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

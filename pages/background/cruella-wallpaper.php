@@ -1,0 +1,129 @@
+<title>Fierce and Fashionable: Cruella Wallpaper</title>
+                    <meta name="description" content="Explore our exclusive collection of Cruella wallpaper, perfect for adding a daring touch to your home. Vibrant designs inspired by the classic character enhance any space, making it stylish and memorable. Shop now to unleash your inner fashionista with wallpaper that speaks volumes!">
+                    <meta name="keywords" content="cruella wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cruella-wallpaper">
+                            <span itemprop="name">cruella wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Fierce and Fashionable: Cruella Wallpaper</h1>
+                <p>Transform your space with stunning Cruella wallpaper that captures the essence of this iconic character. Perfect for fans, these designs feature bold colors and striking patterns inspired by Cruella's fashion. Whether decorating a bedroom or a stylish office, our wallpaper adds a fierce touch of elegance and creativity to any room.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cruella (2021) Wallpapers (38 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/3/4/5/35957-3840x2160-desktop-4k-cruella-2021-background-photo.jpg' alt='Cruella (2021) Wallpapers (38 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/3/4/5/35957-3840x2160-desktop-4k-cruella-2021-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download These Cruella Wallpapers to Add Fashion to Your Phone - D23">
+                                <img itemprop="contentUrl url" src='https://d23.com/app/uploads/2021/05/1180-x-600-052621_cruella-phone-wallpapers-iris.jpg' alt='Download These Cruella Wallpapers to Add Fashion to Your Phone - D23'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1180">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="D23" />
+                                </span>
+                                <a href='https://d23.com/app/uploads/2021/05/1180-x-600-052621_cruella-phone-wallpapers-iris.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MAKE WAY FOR THE QUEEN OF MEAN WITH MOBILE WALLPAPERS INSPIRED BY ...">
+                                <img itemprop="contentUrl url" src='https://lumiere-a.akamaihd.net/v1/images/cruella-wallpaper-12_54b3a323.jpeg' alt='MAKE WAY FOR THE QUEEN OF MEAN WITH MOBILE WALLPAPERS INSPIRED BY ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2209">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Singapore" />
+                                </span>
+                                <a href='https://lumiere-a.akamaihd.net/v1/images/cruella-wallpaper-12_54b3a323.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cruella Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cruella-g6fum1b78i0hk2j7.jpg' alt='100+] Cruella Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cruella-g6fum1b78i0hk2j7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="D23_Cruella_1440 x 2960_02 - D23">
+                                <img itemprop="contentUrl url" src='https://d23.com/app/uploads/2021/05/D23_Cruella_1440-x-2960_02.jpg' alt='D23_Cruella_1440 x 2960_02 - D23'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="D23" />
+                                </span>
+                                <a href='https://d23.com/app/uploads/2021/05/D23_Cruella_1440-x-2960_02.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="D23_Cruella_1440 x 2960_06 - D23">
+                                <img itemprop="contentUrl url" src='https://d23.com/app/uploads/2021/05/D23_Cruella_1440-x-2960_06.jpg' alt='D23_Cruella_1440 x 2960_06 - D23'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="D23" />
+                                </span>
+                                <a href='https://d23.com/app/uploads/2021/05/D23_Cruella_1440-x-2960_06.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cruella (2021) Wallpapers (38 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/5/f/0/35967-3840x2160-desktop-4k-cruella-2021-wallpaper-image.jpg' alt='Cruella (2021) Wallpapers (38 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/5/f/0/35967-3840x2160-desktop-4k-cruella-2021-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/b0/cb/29/b0cb29b5eb6cdd76c48de9b3a61c5dbd.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/b0/cb/29/b0cb29b5eb6cdd76c48de9b3a61c5dbd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cruella Emma Stone Movie Poster Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/emma-stone-as-disney-s-cruella-2021-ad3dok779sn39oex.webp' alt='Cruella Emma Stone Movie Poster Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/emma-stone-as-disney-s-cruella-2021-ad3dok779sn39oex.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cruella Wallpaper 4K, Artwork, Emma Stone, 2021 Movies">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/cruella-emma-stone-2021-movies-artwork-2880x1800-6280.jpg' alt='Cruella Wallpaper 4K, Artwork, Emma Stone, 2021 Movies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/cruella-emma-stone-2021-movies-artwork-2880x1800-6280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

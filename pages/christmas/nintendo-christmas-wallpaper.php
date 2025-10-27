@@ -1,0 +1,129 @@
+<title>Nintendo Christmas Wallpapers: Festive & Fun for Your Devices</title>
+                    <meta name="description" content="Explore a delightful collection of Nintendo Christmas wallpapers that bring holiday cheer to your screens. Perfect for casual fans and gamers, these vibrant designs are optimized for mobile devices, making it easy to enjoy your favorite characters throughout the festive season!">
+                    <meta name="keywords" content="nintendo christmas wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/nintendo-christmas-wallpaper">
+                            <span itemprop="name">nintendo christmas wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Nintendo Christmas Wallpapers: Festive & Fun for Your Devices</h1>
+                <p>Transform your devices this holiday season with vibrant Nintendo Christmas wallpapers! Featuring your favorite characters and festive themes, these wallpapers add a touch of joy to your screens. Perfect for fans of all ages, each design celebrates the magic of Nintendo during the most wonderful time of the year. Download yours today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper - Happy Holidays! | Rewards | My Nintendo">
+                                <img itemprop="contentUrl url" src='https://cdn-image-f3580964b8e711e5b95f2ff191a1c838.baas.nintendo.com/1/531f6bb14e3130c6' alt='Wallpaper - Happy Holidays! | Rewards | My Nintendo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="580">
+                                <meta itemprop="height" content="244">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="My Nintendo" />
+                                </span>
+                                <a href='https://cdn-image-f3580964b8e711e5b95f2ff191a1c838.baas.nintendo.com/1/531f6bb14e3130c6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper: Happy Holidays 2022 | Rewards | My Nintendo">
+                                <img itemprop="contentUrl url" src='https://cdn-image-f3580964b8e711e5b95f2ff191a1c838.baas.nintendo.com/1/017867e3b775a24c' alt='Wallpaper: Happy Holidays 2022 | Rewards | My Nintendo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="918">
+                                <meta itemprop="height" content="383">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="My Nintendo" />
+                                </span>
+                                <a href='https://cdn-image-f3580964b8e711e5b95f2ff191a1c838.baas.nintendo.com/1/017867e3b775a24c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Legend of Zelda Wallpaper: An epic snow scene - Play Nintendo.">
+                                <img itemprop="contentUrl url" src='https://play.nintendo.com/images/2X1_LOZ_wallpaper.58e179fa.98557231.jpg' alt='The Legend of Zelda Wallpaper: An epic snow scene - Play Nintendo.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="970">
+                                <meta itemprop="height" content="546">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Play Nintendo" />
+                                </span>
+                                <a href='https://play.nintendo.com/images/2X1_LOZ_wallpaper.58e179fa.98557231.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nintendo Holiday Wallpaper - Cat with Monocle">
+                                <img itemprop="contentUrl url" src='https://catwithmonocle.com/wp-content/uploads/2020/12/nm-holiday-2020-1170x2532-1.jpg' alt='Nintendo Holiday Wallpaper - Cat with Monocle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cat with Monocle" />
+                                </span>
+                                <a href='https://catwithmonocle.com/wp-content/uploads/2020/12/nm-holiday-2020-1170x2532-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nintendo Christmas">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a7/74/d3/a774d3b8311fbd96c94778fb96bc3d06.jpg' alt='Nintendo Christmas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="368">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a7/74/d3/a774d3b8311fbd96c94778fb96bc3d06.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper - Happy Holidays! | Rewards | My Nintendo">
+                                <img itemprop="contentUrl url" src='https://cdn-image-f3580964b8e711e5b95f2ff191a1c838.baas.nintendo.com/1/e57cb2c9f44326f3' alt='Wallpaper - Happy Holidays! | Rewards | My Nintendo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="My Nintendo" />
+                                </span>
+                                <a href='https://cdn-image-f3580964b8e711e5b95f2ff191a1c838.baas.nintendo.com/1/e57cb2c9f44326f3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nintendo Holiday Wallpaper - Cat with Monocle">
+                                <img itemprop="contentUrl url" src='https://catwithmonocle.com/wp-content/uploads/2020/12/nm-holiday-2020-1280x1024-1.jpg' alt='Nintendo Holiday Wallpaper - Cat with Monocle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cat with Monocle" />
+                                </span>
+                                <a href='https://catwithmonocle.com/wp-content/uploads/2020/12/nm-holiday-2020-1280x1024-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animal Christmas, crossing, nintendo, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/239/889/HD-wallpaper-animal-christmas-crossing-nintendo-thumbnail.jpg' alt='Animal Christmas, crossing, nintendo, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/239/889/HD-wallpaper-animal-christmas-crossing-nintendo-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Holiday computer background from My Nintendo back in 2017. Happy ...">
+                                <img itemprop="contentUrl url" src='https://mariomasta64.me/my.nintendo.com/my.nintendo.com/Wallpaper%20-%20Happy%20Holidays%20(2017)/HappyHolidays_2017_[1242x2208].jpg' alt='Holiday computer background from My Nintendo back in 2017. Happy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://mariomasta64.me/my.nintendo.com/my.nintendo.com/Wallpaper%20-%20Happy%20Holidays%20(2017)/HappyHolidays_2017_[1242x2208].jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper - Happy Holidays! | Rewards | My Nintendo">
+                                <img itemprop="contentUrl url" src='https://cdn-image-f3580964b8e711e5b95f2ff191a1c838.baas.nintendo.com/1/688255ef4a2539c7' alt='Wallpaper - Happy Holidays! | Rewards | My Nintendo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="652">
+                                <meta itemprop="height" content="236">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="My Nintendo" />
+                                </span>
+                                <a href='https://cdn-image-f3580964b8e711e5b95f2ff191a1c838.baas.nintendo.com/1/688255ef4a2539c7' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

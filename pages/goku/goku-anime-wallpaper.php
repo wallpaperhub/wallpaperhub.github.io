@@ -1,0 +1,129 @@
+<title>Epic Goku Anime Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover amazing Goku anime wallpapers that enhance your device! Featuring vibrant designs and dynamic scenes from Dragon Ball Z, these wallpapers express your love for Goku while providing a fresh look for your screens. Perfect for any fan, download now and energize your background!">
+                    <meta name="keywords" content="goku anime wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/goku">
+                            <span itemprop="name">Goku</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/goku/goku-anime-wallpaper">
+                            <span itemprop="name">goku anime wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Goku Anime Wallpapers for Your Device</h1>
+                <p>Transform your screens with stunning Goku anime wallpapers! Perfect for fans of Dragon Ball Z, these wallpapers capture Goku's iconic moments and powerful aura, bringing energy and excitement to your device's background. Choose from epic battles to serene portraits, and showcase your love for one of anime's greatest heroes!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download wallpaper 1280x2120 goku, anime art, glowing eyes and ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersmug.com/download/1280x2120/bd1f8f/goku-anime-art-glowing-eyes.jpg' alt='Download wallpaper 1280x2120 goku, anime art, glowing eyes and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="2120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersMug" />
+                                </span>
+                                <a href='https://wallpapersmug.com/download/1280x2120/bd1f8f/goku-anime-art-glowing-eyes.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download wallpaper 1125x2436 son goku, anime boy, powerfull ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersmug.com/download/1125x2436/a7a814/son-goku-anime-boy-powerfull.jpg' alt='Download wallpaper 1125x2436 son goku, anime boy, powerfull ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersMug" />
+                                </span>
+                                <a href='https://wallpapersmug.com/download/1125x2436/a7a814/son-goku-anime-boy-powerfull.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Anime Dark Mobile Wallpaper">
+                                <img itemprop="contentUrl url" src='https://save.zerowallpaper.com/mobilewallpaper/hdv/goku_anime_dark-8074.webp' alt='Goku Anime Dark Mobile Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="786">
+                                <meta itemprop="height" content="1397">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ZeroWallpaper" />
+                                </span>
+                                <a href='https://save.zerowallpaper.com/mobilewallpaper/hdv/goku_anime_dark-8074.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Iphone Wallpaper - Iphone Anime Wallpapers 4k (#2935313) - HD ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/88/d9/ae/88d9ae3160914e83dd218bafe6e8bf6a.jpg' alt='Goku Iphone Wallpaper - Iphone Anime Wallpapers 4k (#2935313) - HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1553">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="jp.pinterest.com" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/88/d9/ae/88d9ae3160914e83dd218bafe6e8bf6a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Iphone 12 Anime Dragon Ball Super Goku Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/iphone-12-anime-dragon-ball-super-goku-p962bwyk2neuigj5.jpg' alt='Download Iphone 12 Anime Dragon Ball Super Goku Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/iphone-12-anime-dragon-ball-super-goku-p962bwyk2neuigj5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Wallpapers (38 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/0/1/9/1215952-1080x1920-mobile-1080p-goku-background-photo.jpg' alt='Goku Wallpapers (38 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/0/1/9/1215952-1080x1920-mobile-1080p-goku-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku 2020, goku, anime, artwork, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/357/719/HD-wallpaper-goku-2020-goku-anime-artwork.jpg' alt='Goku 2020, goku, anime, artwork, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/357/719/HD-wallpaper-goku-2020-goku-anime-artwork.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Goku Anime Dragon Ball Super HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/922/thumb-1920-922139.jpg' alt='Download Goku Anime Dragon Ball Super HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/922/thumb-1920-922139.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Supreme Power Collection">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4a/d1/5f/4ad15f0fae6898054caa83bfc6275c7c.jpg' alt='Goku Supreme Power Collection'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4a/d1/5f/4ad15f0fae6898054caa83bfc6275c7c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1320x2868px, 2K free download | Goku, android, anime, ball, dragon ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/839/105/HD-wallpaper-goku-android-anime-ball-dragon-ios-iphone-saiyan.jpg' alt='1320x2868px, 2K free download | Goku, android, anime, ball, dragon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/839/105/HD-wallpaper-goku-android-anime-ball-dragon-ios-iphone-saiyan.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Mesmerizing Trippy Wallpaper for Your iPhone</title>
+                    <meta name="description" content="Discover the ultimate collection of trippy wallpaper for your iPhone. Elevate your phone's aesthetic with stunning, psychedelic designs that capture attention and inspire creativity. Browse now to find the perfect background that reflects your unique style and personality!">
+                    <meta name="keywords" content="trippy wallpaper for iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/trippy-wallpaper-for-iphone">
+                            <span itemprop="name">trippy wallpaper for iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mesmerizing Trippy Wallpaper for Your iPhone</h1>
+                <p>Transform your iPhone with captivating trippy wallpaper that adds a splash of creativity to your device. From psychedelic patterns to vivid landscapes, these designs are perfect for expressing your unique style. Explore a vibrant variety of colors and shapes that will mesmerize you every time you unlock your phone!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Psychedelic Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/psychedelic-iphone-er5q3skuczq5e84h.jpg' alt='100+] Psychedelic Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/psychedelic-iphone-er5q3skuczq5e84h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vibrant Psychedelic Iphone Wallpaper Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/psychedelic-iphone-flaming-jets-in-space-7fk9w3p10rvboyh1.webp' alt='Vibrant Psychedelic Iphone Wallpaper Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/psychedelic-iphone-flaming-jets-in-space-7fk9w3p10rvboyh1.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trippy collage">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/7a/7d/66/7a7d664b1f13cf008780af6bd7b4ae61.jpg' alt='Trippy collage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/7a/7d/66/7a7d664b1f13cf008780af6bd7b4ae61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trippy Cool Iphone Wallpapers Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/85/58/53/855853827b3f6d300a91908e07495f59.jpg' alt='Trippy Cool Iphone Wallpapers Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="349">
+                                <meta itemprop="height" content="620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/85/58/53/855853827b3f6d300a91908e07495f59.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Psychedelic Iphone Colorful Spiral Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/psychedelic-iphone-colorful-pillars-ey3k3jhyvh6agty1.webp' alt='Psychedelic Iphone Colorful Spiral Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/psychedelic-iphone-colorful-pillars-ey3k3jhyvh6agty1.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trippy wallpaper : r/iphonewallpapers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/t7gytb60d9j11.jpg?width=1080&crop=smart&auto=webp&s=42fb10f48cc46e2275ef4d069f1b269b459a68a4' alt='Trippy wallpaper : r/iphonewallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/t7gytb60d9j11.jpg?width=1080&crop=smart&auto=webp&s=42fb10f48cc46e2275ef4d069f1b269b459a68a4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Psychedelic Iphone Trippy Abstract Eyes Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/psychedelic-iphone-trippy-abstract-eyes-021gvw8isgc6juev.jpg' alt='Psychedelic Iphone Trippy Abstract Eyes Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/psychedelic-iphone-trippy-abstract-eyes-021gvw8isgc6juev.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d2/df/8f/d2df8f45370b0aec5cfa870c710ed200.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d2/df/8f/d2df8f45370b0aec5cfa870c710ed200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Psychedelic 14, art, pattern, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/773/144/HD-wallpaper-psychedelic-14-art-pattern.jpg' alt='Psychedelic 14, art, pattern, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/773/144/HD-wallpaper-psychedelic-14-art-pattern.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD trippy cool iphone wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/91/302/HD-wallpaper-savannah-saturn-on-twitter-trippy-iphone-cool-cartoon-graffiti-iphone-crazy-awesome-thumbnail.jpg' alt='HD trippy cool iphone wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/91/302/HD-wallpaper-savannah-saturn-on-twitter-trippy-iphone-cool-cartoon-graffiti-iphone-crazy-awesome-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

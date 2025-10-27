@@ -1,0 +1,129 @@
+<title>Understanding the Big 5 Personality Traits: OCEAN Explained</title>
+                    <meta name="description" content="Discover the Big Five Personality Traits (OCEAN) and how they shape your behavior, relationships, and career. Learn about openness, conscientiousness, extraversion, agreeableness, and neuroticism in a concise and engaging way. Perfect for anyone seeking personal growth and deeper self-awareness!">
+                    <meta name="keywords" content="big 5 personality">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/big-5-personality">
+                            <span itemprop="name">big 5 personality</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding the Big 5 Personality Traits: OCEAN Explained</h1>
+                <p>The Big Five Personality Traits, often referred to as OCEAN, encompass openness, conscientiousness, extraversion, agreeableness, and neuroticism. These traits help in understanding human behavior and personality. They influence how we interact, work, and navigate relationships, shaping our unique patterns of thinking and feeling.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Big 5 Personality Traits: The 5-Factor Model of Personality">
+                                <img itemprop="contentUrl url" src='https://www.simplypsychology.org/wp-content/uploads/big-five-personality.jpeg' alt='Big 5 Personality Traits: The 5-Factor Model of Personality'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1902">
+                                <meta itemprop="height" content="1902">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simply Psychology" />
+                                </span>
+                                <a href='https://www.simplypsychology.org/wp-content/uploads/big-five-personality.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Big Five personality traits - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/c/c0/Wiki-grafik_peats-de_big_five_ENG.svg' alt='Big Five personality traits - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="779">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/c/c0/Wiki-grafik_peats-de_big_five_ENG.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Big 5 Personality Traits: The 5-Factor Model of Personality">
+                                <img itemprop="contentUrl url" src='https://www.simplypsychology.org/wp-content/uploads/big-5-personality-1024x512.jpeg' alt='Big 5 Personality Traits: The 5-Factor Model of Personality'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simply Psychology" />
+                                </span>
+                                <a href='https://www.simplypsychology.org/wp-content/uploads/big-5-personality-1024x512.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Big 5 Personality Traits: The 5-Factor Model of Personality">
+                                <img itemprop="contentUrl url" src='https://www.simplypsychology.org/wp-content/uploads/Big-5-Personality-Traits.png' alt='Big 5 Personality Traits: The 5-Factor Model of Personality'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1345">
+                                <meta itemprop="height" content="1902">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simply Psychology" />
+                                </span>
+                                <a href='https://www.simplypsychology.org/wp-content/uploads/Big-5-Personality-Traits.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Uncover Yourself with The Big Five Personality Trait | by Erfandi ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1200/0*Upy9xAGKDdZwpsQ8.png' alt='Uncover Yourself with The Big Five Personality Trait | by Erfandi ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Erfandi Maula Yusnu, Lalu - Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1200/0*Upy9xAGKDdZwpsQ8.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Big 5 Personality Traits - The Framework Bank - Medium">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1192/1*hHoKYHmR9jx-H2fCsuPtIw.png' alt='The Big 5 Personality Traits - The Framework Bank - Medium'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1192">
+                                <meta itemprop="height" content="478">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Framework Bank - Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1192/1*hHoKYHmR9jx-H2fCsuPtIw.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Big Five Personality model and the Mental Toughness Concept">
+                                <img itemprop="contentUrl url" src='https://aqrinternational.co.uk/wp-content/uploads/2021/05/MT-and-the-BIg-Five.png' alt='The Big Five Personality model and the Mental Toughness Concept'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AQR International" />
+                                </span>
+                                <a href='https://aqrinternational.co.uk/wp-content/uploads/2021/05/MT-and-the-BIg-Five.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Big Five | Embrace Autism">
+                                <img itemprop="contentUrl url" src='https://embrace-autism.com/wp-content/uploads/diagram-BigFive.svg' alt='The Big Five | Embrace Autism'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Embrace Autism" />
+                                </span>
+                                <a href='https://embrace-autism.com/wp-content/uploads/diagram-BigFive.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Big 5 Personality Traits: Factors of Personality">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/61258807d2d4f9553cc9d3e6/6579c442c6b55772b481c8ed_blog-layout-6579c4373d866.webp' alt='The Big 5 Personality Traits: Factors of Personality'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="678">
+                                <meta itemprop="height" content="1511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reframe App" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/61258807d2d4f9553cc9d3e6/6579c442c6b55772b481c8ed_blog-layout-6579c4373d866.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Big 5 Personality Traits: The 5-Factor Model of Personality">
+                                <img itemprop="contentUrl url" src='https://www.verywellmind.com/thmb/N-oixlZbS6MeTK7Fd-p20X6l6J8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2795422-article-the-big-five-personality-dimensions-5a9083fb6edd650036603137.png' alt='Big 5 Personality Traits: The 5-Factor Model of Personality'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Verywell Mind" />
+                                </span>
+                                <a href='https://www.verywellmind.com/thmb/N-oixlZbS6MeTK7Fd-p20X6l6J8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2795422-article-the-big-five-personality-dimensions-5a9083fb6edd650036603137.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

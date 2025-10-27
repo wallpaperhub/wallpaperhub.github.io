@@ -1,0 +1,129 @@
+<title>Stunning RWBY Wallpapers for iPhone</title>
+                    <meta name="description" content="Discover a collection of vibrant RWBY wallpapers for your iPhone. Customize your device with stunning images of your favorite characters and scenes from the series. Perfect for fans looking to showcase their love for RWBY in style! Download now and bring Remnant to life on your screen!">
+                    <meta name="keywords" content="rwby wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/rwby-wallpaper-iphone">
+                            <span itemprop="name">rwby wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning RWBY Wallpapers for iPhone</h1>
+                <p>If you're a fan of RWBY and want to personalize your iPhone, consider downloading stunning RWBY wallpapers. These high-quality images feature your favorite characters and scenes, perfect for showcasing your love for the series. Transform your device with vibrant visuals that reflect the essence of Remnant. Find the best RWBY wallpapers today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RWBY Phone Wallpapers : r/RWBY">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/myw3ZSY.jpg' alt='RWBY Phone Wallpapers : r/RWBY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="987">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.imgur.com/myw3ZSY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made this to be used for IPhone Wallpaper : r/RWBY">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/p1l9csqjvnz51.jpg' alt='Made this to be used for IPhone Wallpaper : r/RWBY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="2210">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/p1l9csqjvnz51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7a/bb/36/7abb365797b704ff57c43a8ddda5472f.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7a/bb/36/7abb365797b704ff57c43a8ddda5472f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rwby mobile wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/16/ab/97/16ab97fafc81e44d828390f80794851a.jpg' alt='Rwby mobile wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/16/ab/97/16ab97fafc81e44d828390f80794851a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RWBY Wallpapers (63 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/2/5/c/2115849-1284x2778-samsung-hd-rwby-wallpaper.jpg' alt='RWBY Wallpapers (63 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/2/5/c/2115849-1284x2778-samsung-hd-rwby-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RWBY Volume 7, anime, ruby rose, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/505/634/HD-wallpaper-rwby-volume-7-anime-ruby-rose.jpg' alt='RWBY Volume 7, anime, ruby rose, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/505/634/HD-wallpaper-rwby-volume-7-anime-ruby-rose.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/71/fb/f8/71fbf88ed8e0f361c0ae574ef82ad52a.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/71/fb/f8/71fbf88ed8e0f361c0ae574ef82ad52a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RWBY - WhiteRose iPhone 12 Background by Flip0024 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0d9287dd-6ad8-4fd1-8d34-c2b1a4a64044/decuifs-24fee6b8-3804-4a87-aab4-4c25a5e804e4.png/v1/fill/w_1280,h_2770,q_80,strp/rwby___whiterose_iphone_12_background_by_flip0024_decuifs-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Mjc3MCIsInBhdGgiOiJcL2ZcLzBkOTI4N2RkLTZhZDgtNGZkMS04ZDM0LWMyYjFhNGE2NDA0NFwvZGVjdWlmcy0yNGZlZTZiOC0zODA0LTRhODctYWFiNC00YzI1YTVlODA0ZTQucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.dJuMYvb7aohYHluqucMsoyFrWYtqplDkNutDmyV5Dhs' alt='RWBY - WhiteRose iPhone 12 Background by Flip0024 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="2770">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0d9287dd-6ad8-4fd1-8d34-c2b1a4a64044/decuifs-24fee6b8-3804-4a87-aab4-4c25a5e804e4.png/v1/fill/w_1280,h_2770,q_80,strp/rwby___whiterose_iphone_12_background_by_flip0024_decuifs-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Mjc3MCIsInBhdGgiOiJcL2ZcLzBkOTI4N2RkLTZhZDgtNGZkMS04ZDM0LWMyYjFhNGE2NDA0NFwvZGVjdWlmcy0yNGZlZTZiOC0zODA0LTRhODctYWFiNC00YzI1YTVlODA0ZTQucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.dJuMYvb7aohYHluqucMsoyFrWYtqplDkNutDmyV5Dhs' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Remastered My Previous RWBY Wallpaper For My iPhone 8. : r/RWBY">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/1g8fq6lnu8v51.jpg?width=640&crop=smart&auto=webp&s=c021708ecdbc2645c53b99c3f2e8e3466cd17ec4' alt='Remastered My Previous RWBY Wallpaper For My iPhone 8. : r/RWBY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/1g8fq6lnu8v51.jpg?width=640&crop=smart&auto=webp&s=c021708ecdbc2645c53b99c3f2e8e3466cd17ec4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RWBY, rose, ruby, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/343/992/HD-wallpaper-rwby-rose-ruby-thumbnail.jpg' alt='RWBY, rose, ruby, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/343/992/HD-wallpaper-rwby-rose-ruby-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

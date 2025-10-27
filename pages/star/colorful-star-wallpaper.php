@@ -1,0 +1,129 @@
+<title>Colorful Star Wallpaper: Brighten Your Space</title>
+                    <meta name="description" content="Discover vibrant colorful star wallpaper that adds a playful touch to any room. Perfect for kids and creative spaces, these stunning designs transform your walls into a starry dreamland. Easy to apply and remove, our wallpapers are ideal for each season of style. Brighten your home today!">
+                    <meta name="keywords" content="colorful star wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star">
+                            <span itemprop="name">Star</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star/colorful-star-wallpaper">
+                            <span itemprop="name">colorful star wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Colorful Star Wallpaper: Brighten Your Space</h1>
+                <p>Transform your space with vibrant colorful star wallpaper that brings life and energy to any room. Perfect for kids' bedrooms, playrooms, or even cozy corners, these wallpapers come in various shades and patterns, allowing for creativity and style. Light up your walls and let your imagination shine with a starry design!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Stars wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/d9/29/53/d92953d2a44294b3465487b922d1b5ba.jpg' alt='Colorful Stars wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/d9/29/53/d92953d2a44294b3465487b922d1b5ba.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background With Colorful Stars, Good For Wallpaper Or Wrapping ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/viktorijareut/viktorijareut1708/viktorijareut170800190/84154650-background-with-colorful-stars-good-for-wallpaper-or-wrapping-paper.jpg' alt='Background With Colorful Stars, Good For Wallpaper Or Wrapping ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/viktorijareut/viktorijareut1708/viktorijareut170800190/84154650-background-with-colorful-stars-good-for-wallpaper-or-wrapping-paper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stars Colorful Backgrounds">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ac/20/bc/ac20bc2d907f250f5db75f06f388d61e.jpg' alt='Stars Colorful Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="590">
+                                <meta itemprop="height" content="332">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ac/20/bc/ac20bc2d907f250f5db75f06f388d61e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Stars Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/stars-seamless-pattern-colors-lgbt-rainbow-flag-black-background_654766-87.jpg' alt='Colorful Stars Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/stars-seamless-pattern-colors-lgbt-rainbow-flag-black-background_654766-87.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sparkly colorful stars wallpaper - Digital Art wallpapers - #51758">
+                                <img itemprop="contentUrl url" src='https://cdn.suwalls.com/wallpapers/digital-art/sparkly-colorful-stars-51758-1920x1200.jpg' alt='Sparkly colorful stars wallpaper - Digital Art wallpapers - #51758'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SUWalls Desktop Wallpapers" />
+                                </span>
+                                <a href='https://cdn.suwalls.com/wallpapers/digital-art/sparkly-colorful-stars-51758-1920x1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Star Background Stock Illustrations – 369,473 Colorful ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/colorful-transparent-seamless-star-background-circle-party-wallpaper-accessories-png-additional-file-124079499.jpg' alt='Colorful Star Background Stock Illustrations – 369,473 Colorful ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/colorful-transparent-seamless-star-background-circle-party-wallpaper-accessories-png-additional-file-124079499.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD colorful stars background wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/40/246/HD-wallpaper-colorful-stars-creative-black-background.jpg' alt='HD colorful stars background wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/40/246/HD-wallpaper-colorful-stars-creative-black-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Star Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/party-stars-decorations-background_23-2147491608.jpg' alt='Colorful Star Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/party-stars-decorations-background_23-2147491608.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Artistic Starlight Spectrum HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/469/thumb-1920-469185.jpg' alt='Artistic Starlight Spectrum HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/469/thumb-1920-469185.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Stars Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/012/506/325/non_2x/light-pink-blue-background-with-colorful-stars-vector.jpg' alt='Colorful Stars Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/012/506/325/non_2x/light-pink-blue-background-with-colorful-stars-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

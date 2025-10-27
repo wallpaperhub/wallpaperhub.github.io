@@ -1,0 +1,129 @@
+<title>Spring Wallpaper Ideas: Brighten Your Space!</title>
+                    <meta name="description" content="Discover stunning wallpaper designs perfect for spring! Explore floral patterns, cheerful colors, and nature-inspired styles that will transform your home. Refresh your interiors and embrace the spirit of the season with our curated spring wallpaper selections. Brighten up your walls today!">
+                    <meta name="keywords" content="wallpaper for spring">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spring">
+                            <span itemprop="name">Spring</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spring/wallpaper-for-spring">
+                            <span itemprop="name">wallpaper for spring</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spring Wallpaper Ideas: Brighten Your Space!</h1>
+                <p>Refresh your space this spring with vibrant wallpaper options. Choose floral patterns, pastel shades, or nature-inspired designs to echo the beauty of the season. Create a joyful atmosphere in any room as spring blooms outside, and let your personality shine through every wall. Explore the endless possibilities for a cheerful, rejuvenating look!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring Wallpapers - Free for you to download - Corrie Bromfield">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/08/e2/5e/08e25efaf1a1e2680bd923e2449ae42f.jpg' alt='Spring Wallpapers - Free for you to download - Corrie Bromfield'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/08/e2/5e/08e25efaf1a1e2680bd923e2449ae42f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="400+] Spring Flowers Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/spring-flowers-eoojawyepah3if12.jpg' alt='400+] Spring Flowers Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/spring-flowers-eoojawyepah3if12.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Spring Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/spring-background_23-2148857818.jpg' alt='Cute Spring Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/spring-background_23-2148857818.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Spring Background Stock Photos, Images and Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/047/886/889/non_2x/a-field-of-flowers-with-a-blue-sky-in-the-background-photo.jpg' alt='Colorful Spring Background Stock Photos, Images and Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/047/886/889/non_2x/a-field-of-flowers-with-a-blue-sky-in-the-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+ Breathtaking Spring Phone Wallpapers to Brighten your screen ...">
+                                <img itemprop="contentUrl url" src='https://daysinspired.com/wp-content/uploads/2024/02/spring-phone-wallpaper-16.jpg' alt='100+ Breathtaking Spring Phone Wallpapers to Brighten your screen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Days Inspired" />
+                                </span>
+                                <a href='https://daysinspired.com/wp-content/uploads/2024/02/spring-phone-wallpaper-16.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900+ Spring Background Images: Download HD Backgrounds on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/opengraph/1x1.png?mark=https%3A%2F%2Fimages.unsplash.com%2Fopengraph%2Flogo.png&mark-w=64&mark-align=top%2Cleft&mark-pad=50&h=630&w=1200&blend=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1523766775147-152d0d6e2adb%3Fcrop%3Dfaces%252Cedges%26h%3D630%26w%3D1200%26blend%3D000000%26blend-mode%3Dnormal%26blend-alpha%3D10%26mark-w%3D750%26mark-align%3Dmiddle%252Ccenter%26mark%3Dhttps%253A%252F%252Fimages.unsplash.com%252Fopengraph%252Fsearch-input.png%253Fw%253D750%2526h%253D84%2526txt%253Dspring%252Bbackground%2526txt-pad%253D80%2526txt-align%253Dmiddle%25252Cleft%2526txt-color%253D%252523000000%2526txt-size%253D40%2526txt-width%253D660%2526txt-clip%253Dellipsis%2526auto%253Dformat%2526fit%253Dcrop%2526q%253D60%26auto%3Dformat%26fit%3Dcrop%26q%3D60%26ixid%3DM3wxMjA3fDB8MXxzZWFyY2h8Mnx8c3ByaW5nJTIwYmFja2dyb3VuZHxlbnwwfHx8fDE3NDA0OTg0MzF8MA%26ixlib%3Drb-4.0.3&blend-w=1&auto=format&fit=crop&q=60' alt='900+ Spring Background Images: Download HD Backgrounds on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/opengraph/1x1.png?mark=https%3A%2F%2Fimages.unsplash.com%2Fopengraph%2Flogo.png&mark-w=64&mark-align=top%2Cleft&mark-pad=50&h=630&w=1200&blend=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1523766775147-152d0d6e2adb%3Fcrop%3Dfaces%252Cedges%26h%3D630%26w%3D1200%26blend%3D000000%26blend-mode%3Dnormal%26blend-alpha%3D10%26mark-w%3D750%26mark-align%3Dmiddle%252Ccenter%26mark%3Dhttps%253A%252F%252Fimages.unsplash.com%252Fopengraph%252Fsearch-input.png%253Fw%253D750%2526h%253D84%2526txt%253Dspring%252Bbackground%2526txt-pad%253D80%2526txt-align%253Dmiddle%25252Cleft%2526txt-color%253D%252523000000%2526txt-size%253D40%2526txt-width%253D660%2526txt-clip%253Dellipsis%2526auto%253Dformat%2526fit%253Dcrop%2526q%253D60%26auto%3Dformat%26fit%3Dcrop%26q%3D60%26ixid%3DM3wxMjA3fDB8MXxzZWFyY2h8Mnx8c3ByaW5nJTIwYmFja2dyb3VuZHxlbnwwfHx8fDE3NDA0OTg0MzF8MA%26ixlib%3Drb-4.0.3&blend-w=1&auto=format&fit=crop&q=60' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring Aesthetic Wallpaper, Feel Good Beautiful Collage Background - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/49439613/r/il/ffd9bd/5833762794/il_1080xN.5833762794_fjvv.jpg' alt='Spring Aesthetic Wallpaper, Feel Good Beautiful Collage Background - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2273">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/49439613/r/il/ffd9bd/5833762794/il_1080xN.5833762794_fjvv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable spring desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGK_VGJ-wk/1/0/1600w/canva-purple-illustrative-lavender-desktop-wallpaper-IJjKe9JIOeM.jpg' alt='Free and customizable spring desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGK_VGJ-wk/1/0/1600w/canva-purple-illustrative-lavender-desktop-wallpaper-IJjKe9JIOeM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flourishing Spring">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/92612/flourishing-spring.jpg?h=699&q=85' alt='Flourishing Spring'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1398">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/92612/flourishing-spring.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring Wallpapers (41 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/5/f/1/155956-2160x3840-iphone-4k-spring-wallpaper-photo.jpg' alt='Spring Wallpapers (41 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/5/f/1/155956-2160x3840-iphone-4k-spring-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

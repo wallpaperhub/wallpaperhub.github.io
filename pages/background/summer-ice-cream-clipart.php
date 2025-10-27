@@ -1,0 +1,129 @@
+<title>Delightful Summer Ice Cream Clipart for Creative Projects</title>
+                    <meta name="description" content="Discover vibrant summer ice cream clipart to elevate your designs! Perfect for invitations, events, and digital projects, these fun illustrations bring a splash of summer joy. Enhance your creativity with delicious graphics that make a perfect blend of fun and flavor!">
+                    <meta name="keywords" content="summer ice cream clipart">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/summer-ice-cream-clipart">
+                            <span itemprop="name">summer ice cream clipart</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Delightful Summer Ice Cream Clipart for Creative Projects</h1>
+                <p>Summer ice cream clipart brings a delightful touch to your creative projects! Perfect for invitations, summer events, or digital designs, these vibrant illustrations capture the joy of warm days and sweet treats. From cones to popsicles, enhance your artwork with fun and playful designs that evoke the spirit of summer!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Ice Cream Cone Clip Art - Summer Ice Cream Cone Image">
+                                <img itemprop="contentUrl url" src='https://content.mycutegraphics.com/graphics/summer/summer-ice-cream-cone.png' alt='Summer Ice Cream Cone Clip Art - Summer Ice Cream Cone Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="148">
+                                <meta itemprop="height" content="463">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MyCuteGraphics" />
+                                </span>
+                                <a href='https://content.mycutegraphics.com/graphics/summer/summer-ice-cream-cone.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Summer Cartoon Clipart Sticker Ice Cream Isolated for free">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/55/60/2a/55602a4d5b54f3836439701fb264fc00.jpg' alt='Download Summer Cartoon Clipart Sticker Ice Cream Isolated for free'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/55/60/2a/55602a4d5b54f3836439701fb264fc00.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="summer ice cream 26834709 Vector Art at Vecteezy">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/026/834/709/non_2x/summer-ice-cream-vector.jpg' alt='summer ice cream 26834709 Vector Art at Vecteezy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="426">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/026/834/709/non_2x/summer-ice-cream-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Ice Cream Vector Art & Graphics | freevector.com">
+                                <img itemprop="contentUrl url" src='https://www.freevector.com/uploads/vector/preview/30770/Summer_Ice_Cream-02.jpg' alt='Summer Ice Cream Vector Art & Graphics | freevector.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1136">
+                                <meta itemprop="height" content="936">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Vector Art & Graphics" />
+                                </span>
+                                <a href='https://www.freevector.com/uploads/vector/preview/30770/Summer_Ice_Cream-02.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ice cream summer food Royalty Free Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn4.vectorstock.com/i/1000x1000/70/08/ice-cream-summer-food-vector-20847008.jpg' alt='Ice cream summer food Royalty Free Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn4.vectorstock.com/i/1000x1000/70/08/ice-cream-summer-food-vector-20847008.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Ice Cream Cute Pattern, Summer, Ice Cream, Summer Day PNG ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20230414/original/pngtree-summer-ice-cream-cute-pattern-png-image_9057347.png' alt='Summer Ice Cream Cute Pattern, Summer, Ice Cream, Summer Day PNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20230414/original/pngtree-summer-ice-cream-cute-pattern-png-image_9057347.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Ice Cream Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/watercolor-cute-summer-illustration_23-2150344500.jpg' alt='Summer Ice Cream Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/watercolor-cute-summer-illustration_23-2150344500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Ice Cream White Transparent, Ice Cream Cartoon Ice Cream ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/49/ee/8e/49ee8e603405e60589c6fc2f0a296489.jpg' alt='Summer Ice Cream White Transparent, Ice Cream Cartoon Ice Cream ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="718">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/49/ee/8e/49ee8e603405e60589c6fc2f0a296489.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Sun Ice Cream Stock Illustrations – 19,911 Summer Sun Ice ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/summer-sun-holding-ice-cream-52272773.jpg' alt='Summer Sun Ice Cream Stock Illustrations – 19,911 Summer Sun Ice ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/summer-sun-holding-ice-cream-52272773.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ice cream Clipart summer graphics, popsicle, ice cream cone">
+                                <img itemprop="contentUrl url" src='http://mujka-cliparts.com/cdn/shop/products/il_fullxfull.1886657931_kxnq_15171e4d-3eb9-4947-a24e-12e3220043a6.jpg?v=1605835487' alt='Ice cream Clipart summer graphics, popsicle, ice cream cone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2499">
+                                <meta itemprop="height" content="2499">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="mujka cliparts" />
+                                </span>
+                                <a href='http://mujka-cliparts.com/cdn/shop/products/il_fullxfull.1886657931_kxnq_15171e4d-3eb9-4947-a24e-12e3220043a6.jpg?v=1605835487' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

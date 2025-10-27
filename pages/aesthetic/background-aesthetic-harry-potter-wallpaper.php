@@ -1,0 +1,129 @@
+<title>Magical Harry Potter Aesthetic Wallpapers</title>
+                    <meta name="description" content="Breathe life into your screens with captivating Harry Potter aesthetic wallpapers! Perfect for fans, these high-quality images capture the magic and adventure of the beloved series. Download your favorites and immerse yourself in the enchanting world of Hogwarts today!">
+                    <meta name="keywords" content="background aesthetic harry potter wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/background-aesthetic-harry-potter-wallpaper">
+                            <span itemprop="name">background aesthetic harry potter wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Magical Harry Potter Aesthetic Wallpapers</h1>
+                <p>Discover the enchanting world of Harry Potter with mesmerizing background aesthetic wallpapers. From the majestic Hogwarts castle to the whimsical charm of Diagon Alley, these high-quality images capture the essence of the magical universe. Transform your desktop or phone with these stunning visuals that inspire wonder and nostalgia.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Harry Potter Hogwarts Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-harry-potter-hogwarts-aesthetic-lqj1ftya39w85jnv.jpg' alt='Cute Harry Potter Hogwarts Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1075">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-harry-potter-hogwarts-aesthetic-lqj1ftya39w85jnv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Amazing Harry Potter Wallpapers - Add Magic to Your Phone">
+                                <img itemprop="contentUrl url" src='https://www.greenthemood.com/wp-content/uploads/2024/10/vintage-harry-potter-1.jpg' alt='30 Amazing Harry Potter Wallpapers - Add Magic to Your Phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Green The Mood - Lifestyle, Fashion, Beauty, Plants, Healthy life ..." />
+                                </span>
+                                <a href='https://www.greenthemood.com/wp-content/uploads/2024/10/vintage-harry-potter-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter Aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fd/02/f6/fd02f6c5a78996e5143de5ce46aa6783.jpg' alt='Harry Potter Aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="674">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fd/02/f6/fd02f6c5a78996e5143de5ce46aa6783.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Harry Potter Owl And Books Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/pastel-pink-cute-harry-potter-hogwarts-7sfs8jg4q4t3hwui.webp' alt='Cute Harry Potter Owl And Books Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/pastel-pink-cute-harry-potter-hogwarts-7sfs8jg4q4t3hwui.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Hogwarts Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/hogwarts-aesthetic-gcztte8rnc68ag2o.jpg' alt='100+] Hogwarts Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/hogwarts-aesthetic-gcztte8rnc68ag2o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fe/90/5d/fe905d39f9d0ccfb5e561a1dd95d57e7.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fe/90/5d/fe905d39f9d0ccfb5e561a1dd95d57e7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hogwarts Crest Phone Wallpaper by Seymonster on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8ef46fbb-d25c-49ba-9e20-8c2bc14dc32d/debqtcg-fd0e925c-28a1-47b8-afd7-039eedf7cee3.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhlZjQ2ZmJiLWQyNWMtNDliYS05ZTIwLThjMmJjMTRkYzMyZFwvZGVicXRjZy1mZDBlOTI1Yy0yOGExLTQ3YjgtYWZkNy0wMzllZWRmN2NlZTMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.h1glYR3eDm2ypHxrmzEmdG9o3_TV4yBKOlQynCT9i60' alt='Hogwarts Crest Phone Wallpaper by Seymonster on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8ef46fbb-d25c-49ba-9e20-8c2bc14dc32d/debqtcg-fd0e925c-28a1-47b8-afd7-039eedf7cee3.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhlZjQ2ZmJiLWQyNWMtNDliYS05ZTIwLThjMmJjMTRkYzMyZFwvZGVicXRjZy1mZDBlOTI1Yy0yOGExLTQ3YjgtYWZkNy0wMzllZWRmN2NlZTMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.h1glYR3eDm2ypHxrmzEmdG9o3_TV4yBKOlQynCT9i60' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter Hogwarts Castle Peel & Stick Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/files/RMK12279M.jpg?v=1695064926' alt='Harry Potter Hogwarts Castle Peel & Stick Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="686">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/files/RMK12279M.jpg?v=1695064926' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Harry Potter Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/harry-potter-aesthetic-painted-hogwarts-4abgaa2fel7aqv8e.jpg' alt='200+] Harry Potter Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/harry-potter-aesthetic-painted-hogwarts-4abgaa2fel7aqv8e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hogwarts - Dark Path Phone Wallpaper : r/HarryPotterGame">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/kn4oosuklzj91.jpg' alt='Hogwarts - Dark Path Phone Wallpaper : r/HarryPotterGame'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/kn4oosuklzj91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>I Heart D Wallpaper: Vibrant Digital Art for Your Device</title>
+                    <meta name="description" content="Discover a collection of vibrant digital wallpapers at I Heart D Wallpaper! Transform your device with stunning designs that inspire and elevate your screens. Explore our unique artistic creations and personalize your space today for an eye-catching look on any device.">
+                    <meta name="keywords" content="i heart d wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart">
+                            <span itemprop="name">Heart</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart/i-heart-d-wallpaper">
+                            <span itemprop="name">i heart d wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>I Heart D Wallpaper: Vibrant Digital Art for Your Device</h1>
+                <p>I Heart D Wallpaper celebrates the beauty of digital art with stunning, high-resolution wallpapers that inspire and uplift. Featuring vibrant colors and intricate designs, these wallpapers transform your device into a canvas of creativity. Perfect for personalizing your screens, each design is crafted with passion and artistry.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/bf/ea/b1/bfeab1ba80506893d2e6836f79ef17d6.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/bf/ea/b1/bfeab1ba80506893d2e6836f79ef17d6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I love D wallpaper by N0t_S1m0nA - Download on ZEDGE™ | 7367">
+                                <img itemprop="contentUrl url" src='https://is.zobj.net/image-server/v1/images?r=jbHoEM-37SkBE4z-Ld8AGVv_zcPBZfb243ekdz8Z5x64tLr-vGghE7wMeR53vQgiUGA08_FV2H2wRMMcCogSWDEXgz7bdz1vIVFAP3HGO7to58ZuT8_F9KfqUKSHMjsxI_NK48epIGEq3vvki7oOJpaReHRa5j-nkCduLMQFvF_6zi7YQ0e179GCybwxOBZF0KZ9h2JM8rbEdn2CkUUaxAWbM0Hd83IB92R9OSmrf0TpVUw_mDpOVyCqhJc' alt='I love D wallpaper by N0t_S1m0nA - Download on ZEDGE™ | 7367'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="337">
+                                <meta itemprop="height" content="599">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zedge" />
+                                </span>
+                                <a href='https://is.zobj.net/image-server/v1/images?r=jbHoEM-37SkBE4z-Ld8AGVv_zcPBZfb243ekdz8Z5x64tLr-vGghE7wMeR53vQgiUGA08_FV2H2wRMMcCogSWDEXgz7bdz1vIVFAP3HGO7to58ZuT8_F9KfqUKSHMjsxI_NK48epIGEq3vvki7oOJpaReHRa5j-nkCduLMQFvF_6zi7YQ0e179GCybwxOBZF0KZ9h2JM8rbEdn2CkUUaxAWbM0Hd83IB92R9OSmrf0TpVUw_mDpOVyCqhJc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Love D wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/72/d8/75/72d875b1228ba7c84fc3e5a6a4a8fd24.jpg' alt='My Love D wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/72/d8/75/72d875b1228ba7c84fc3e5a6a4a8fd24.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Love You A to Z Alphabet DPz For Lover Couple Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/1b/7a/b5/1b7ab5b23b4152bc8b7cafb5ab521c6a.jpg' alt='I Love You A to Z Alphabet DPz For Lover Couple Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="524">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/1b/7a/b5/1b7ab5b23b4152bc8b7cafb5ab521c6a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8a/89/5e/8a895e4fa99afd0478dcce7fb6745c4a.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8a/89/5e/8a895e4fa99afd0478dcce7fb6745c4a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flaming Red D With A Heart Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/flaming-red-d-with-a-heart-869qq5a160iirk3r.jpg' alt='Flaming Red D With A Heart Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/flaming-red-d-with-a-heart-869qq5a160iirk3r.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Letter D Wallpaper for Stylish Phone Backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7420793016262216991&location=0&aid=1988' alt='Letter D Wallpaper for Stylish Phone Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7420793016262216991&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'I LOVE D*' bumper sticker | Greeting Card">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.3849565953.8756/flat,750x,075,f-pad,750x1000,f8f8f8.webp' alt=''I LOVE D*' bumper sticker | Greeting Card'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.3849565953.8756/flat,750x,075,f-pad,750x1000,f8f8f8.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/fa/eb/bb/faebbb54e8193abaaf38246d82ac0592.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/fa/eb/bb/faebbb54e8193abaaf38246d82ac0592.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="D letter wallpaper #fyp #viral #wallpaper #d #letter #oromotiktok #solomon">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7201140787940232449&location=0&aid=1988' alt='D letter wallpaper #fyp #viral #wallpaper #d #letter #oromotiktok #solomon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7201140787940232449&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>The Ultimate Pink Pantheress & Ice Spice Wallpaper Collection</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="pink pantheress ice spice wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-pantheress-ice-spice-wallpaper">
+                            <span itemprop="name">pink pantheress ice spice wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The Ultimate Pink Pantheress & Ice Spice Wallpaper Collection</h1>
+                <p>Discover the perfect blend of style and creativity with Pink Pantheress and Ice Spice wallpapers! These vibrant designs not only showcase the unique aesthetics of both artists but also enhance your device's look. Explore a collection of eye-catching wallpapers that resonate with their music and artistry. Download now for a fresh vibe!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ice spice x PinkPantheress">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/95/fd/04/95fd04ca4510fa68d37352e5bdb0f1b8.jpg' alt='Ice spice x PinkPantheress'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="556">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/95/fd/04/95fd04ca4510fa68d37352e5bdb0f1b8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PINKPANTHERESS    on X: "https://t.co/wl3CndwT1Y" / X">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FoCLAc2aUAAWQU7?format=jpg&name=4096x4096' alt='PINKPANTHERESS    on X: "https://t.co/wl3CndwT1Y" / X'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2584">
+                                <meta itemprop="height" content="3213">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FoCLAc2aUAAWQU7?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The boys a liar | ice spice | pink pantheress | pink wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d2/b9/12/d2b912087cb610a545e8712f3ec77f42.jpg' alt='The boys a liar | ice spice | pink pantheress | pink wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d2/b9/12/d2b912087cb610a545e8712f3ec77f42.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Ice spice and pinkpantheress>>> ideas | ice and spice, cartoon ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/ba/4e/e5/ba4ee51c36687578bb5a6f57d9ad8f01.jpg' alt='12 Ice spice and pinkpantheress>>> ideas | ice and spice, cartoon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="744">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/ba/4e/e5/ba4ee51c36687578bb5a6f57d9ad8f01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PinkPantheress opens up about Ice Spice collaboration 'Boy's A ...">
+                                <img itemprop="contentUrl url" src='https://www.nme.com/wp-content/uploads/2023/02/2023_pinkpantheress_icespice_miateresa_nme_2000x1270.jpg' alt='PinkPantheress opens up about Ice Spice collaboration 'Boy's A ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NME" />
+                                </span>
+                                <a href='https://www.nme.com/wp-content/uploads/2023/02/2023_pinkpantheress_icespice_miateresa_nme_2000x1270.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ice spice + Pink pantheress fanart.  ✨, ., #icespice #pinkpanthress  #boysaliarpt2 #boysaliar #artreel #arttrend #digitalartreel  #drawingfromreference #blackart #blackartist #nigerianartist">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3059736936691327065' alt='Ice spice + Pink pantheress fanart.  ✨, ., #icespice #pinkpanthress  #boysaliarpt2 #boysaliar #artreel #arttrend #digitalartreel  #drawingfromreference #blackart #blackartist #nigerianartist'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3059736936691327065' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stream HEATGENERAL | Listen to Ice Spice & Pink Pantheress - Boy's ...">
+                                <img itemprop="contentUrl url" src='https://i1.sndcdn.com/artworks-iP8NwyQqFInWFb4g-pM4PWw-t500x500.jpg' alt='Stream HEATGENERAL | Listen to Ice Spice & Pink Pantheress - Boy's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SoundCloud" />
+                                </span>
+                                <a href='https://i1.sndcdn.com/artworks-iP8NwyQqFInWFb4g-pM4PWw-t500x500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PinkPantheress Brings Out Ice Spice, Kelela at New York concert: Watch">
+                                <img itemprop="contentUrl url" src='https://www.billboard.com/wp-content/uploads/2023/03/PinkPantheress-and-Ice-Spice-2023-iHeartRadio-Music-Awards-billboard-1548.jpg?w=942&h=623&crop=1' alt='PinkPantheress Brings Out Ice Spice, Kelela at New York concert: Watch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="942">
+                                <meta itemprop="height" content="623">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Billboard" />
+                                </span>
+                                <a href='https://www.billboard.com/wp-content/uploads/2023/03/PinkPantheress-and-Ice-Spice-2023-iHeartRadio-Music-Awards-billboard-1548.jpg?w=942&h=623&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ice Spice & Pink Pantheress  ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/83/e0/27/83e02791e6930ecf9465e5432502ec7c.jpg' alt='Ice Spice & Pink Pantheress  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/83/e0/27/83e02791e6930ecf9465e5432502ec7c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PinkPantheress, Ice Spice - Boy's a liar Pt. 2 (Official Video ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/oftolPu9qp4/mqdefault.jpg' alt='PinkPantheress, Ice Spice - Boy's a liar Pt. 2 (Official Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/oftolPu9qp4/mqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

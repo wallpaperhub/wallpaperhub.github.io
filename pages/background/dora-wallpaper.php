@@ -1,0 +1,129 @@
+<title>Dora Wallpaper: Adventure Awaits on Your Walls</title>
+                    <meta name="description" content="Add a splash of fun to your child's room with our Dora wallpaper! Featuring beloved characters and adventure themes, this wallpaper is easy to apply and perfect for sparking creativity. Explore our collection now and turn walls into a magical adventure zone!">
+                    <meta name="keywords" content="dora wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dora-wallpaper">
+                            <span itemprop="name">dora wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dora Wallpaper: Adventure Awaits on Your Walls</h1>
+                <p>Transform your space with vibrant Dora wallpaper! Perfect for kids' rooms, playrooms, or any adventure-themed area, our Dora designs bring joy and creativity to your walls. Easy to apply and remove, these wallpapers spark imagination while adding color and fun. Explore our collection and embark on a decorating journey with Dora!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Dora The Explorer Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/dora-the-explorer-uqhuubsa7dklyeos.jpg' alt='100+] Dora The Explorer Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/dora-the-explorer-uqhuubsa7dklyeos.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dora">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a7/d3/bd/a7d3bd2ac7a98dcb4e29ae4c62065440.jpg' alt='Dora'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a7/d3/bd/a7d3bd2ac7a98dcb4e29ae4c62065440.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dora The Explorer And Boots Walking Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/dora-the-explorer-hugging-boots-w1dg984m940iqxg3.webp' alt='Dora The Explorer And Boots Walking Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/dora-the-explorer-hugging-boots-w1dg984m940iqxg3.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dora the Explorer Wallpaper by JPNinja426 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fd26e87c-5667-4cf9-9be9-e58887610efe/dedk51r-cacb3c43-c4e7-4d46-84ea-1ce57f278b69.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZkMjZlODdjLTU2NjctNGNmOS05YmU5LWU1ODg4NzYxMGVmZVwvZGVkazUxci1jYWNiM2M0My1jNGU3LTRkNDYtODRlYS0xY2U1N2YyNzhiNjkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.mnuLIx4uyUfVQWcr3FcTxnkpMXIBvJO0oDyN9kxMZdk' alt='Dora the Explorer Wallpaper by JPNinja426 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fd26e87c-5667-4cf9-9be9-e58887610efe/dedk51r-cacb3c43-c4e7-4d46-84ea-1ce57f278b69.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZkMjZlODdjLTU2NjctNGNmOS05YmU5LWU1ODg4NzYxMGVmZVwvZGVkazUxci1jYWNiM2M0My1jNGU3LTRkNDYtODRlYS0xY2U1N2YyNzhiNjkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.mnuLIx4uyUfVQWcr3FcTxnkpMXIBvJO0oDyN9kxMZdk' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dora The Explorer Jump Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/dora-the-explorer-jump-gmf39stshp674kam.jpg' alt='Dora The Explorer Jump Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/dora-the-explorer-jump-gmf39stshp674kam.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dora Wallpaper - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6d/42/47/6d424754a97064b7082574b38e700d06.jpg' alt='Dora Wallpaper - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6d/42/47/6d424754a97064b7082574b38e700d06.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dora the Explorer and Friends Wallpaper Border NK2100b">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20754978/r/il/811097/2742477518/il_fullxfull.2742477518_ia4c.jpg' alt='Dora the Explorer and Friends Wallpaper Border NK2100b'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="333">
+                                <meta itemprop="height" content="224">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20754978/r/il/811097/2742477518/il_fullxfull.2742477518_ia4c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dora The Explorer Kids Wallpaper - Magic Decor ®">
+                                <img itemprop="contentUrl url" src='https://cdn.magicdecor.in/com/2022/10/30090401/1609330243.jpg' alt='Dora The Explorer Kids Wallpaper - Magic Decor ®'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="584">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Magicdecor" />
+                                </span>
+                                <a href='https://cdn.magicdecor.in/com/2022/10/30090401/1609330243.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Dora Pictures | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dora-pictures-8x1dotjl2zf6foi8.jpg' alt='100+] Dora Pictures | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dora-pictures-8x1dotjl2zf6foi8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dora The Explorer">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b9/24/b6/b924b6c1bcea09c5f8f8b67331b2e9b5.jpg' alt='Dora The Explorer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="725">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b9/24/b6/b924b6c1bcea09c5f8f8b67331b2e9b5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

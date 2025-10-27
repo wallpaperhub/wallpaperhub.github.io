@@ -1,0 +1,129 @@
+<title>Winter Bible Verse Wallpapers: Inspire Your Faith</title>
+                    <meta name="description" content="Discover a collection of winter Bible verse wallpapers that blend stunning visuals with uplifting scriptures. Perfect for inspiring daily faith reminders on your phone or desktop, these wallpapers offer a beautiful way to reflect on God’s love and serenity during the winter season.">
+                    <meta name="keywords" content="winter bible verse wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bible-verse">
+                            <span itemprop="name">Bible Verse</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bible-verse/winter-bible-verse-wallpaper">
+                            <span itemprop="name">winter bible verse wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Winter Bible Verse Wallpapers: Inspire Your Faith</h1>
+                <p>As winter blankets the world in serene beauty, find inspiration in scripture with winter Bible verse wallpapers. These beautiful designs combine stunning imagery with uplifting verses, perfect for your phone or desktop. Reflect on God’s love and peace daily as you enjoy the warmth of His presence amid the winter chill.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter Mountains Matthew 5:3-5 – Encouraging Bible Verses">
+                                <img itemprop="contentUrl url" src='https://bibleversestogo.com/wp-content/uploads/2022/12/WinterMountains1Cor6-12Web-1.jpg' alt='Winter Mountains Matthew 5:3-5 – Encouraging Bible Verses'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bible Verses To Go" />
+                                </span>
+                                <a href='https://bibleversestogo.com/wp-content/uploads/2022/12/WinterMountains1Cor6-12Web-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/12/23/18/122318f801f39a997cb9bb49c72fa2ff.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="577">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/12/23/18/122318f801f39a997cb9bb49c72fa2ff.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christian Winter IPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2d/0d/9c/2d0d9cf79378b7a8440596bf70de5992.jpg' alt='Christian Winter IPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2d/0d/9c/2d0d9cf79378b7a8440596bf70de5992.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Snowfall Romans 8:28 – Encouraging Bible Verses">
+                                <img itemprop="contentUrl url" src='https://bibleversestogo.com/wp-content/uploads/2022/12/Snowfall_Rom_8-28_Web-1.png' alt='Snowfall Romans 8:28 – Encouraging Bible Verses'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bible Verses To Go" />
+                                </span>
+                                <a href='https://bibleversestogo.com/wp-content/uploads/2022/12/Snowfall_Rom_8-28_Web-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5d/28/02/5d28028f66924086f5be56b94ebf957f.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5d/28/02/5d28028f66924086f5be56b94ebf957f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Christian Bible John Winter Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/christian-bible-john-winter-k2xp2qtkbia4mag7.jpg' alt='Download Christian Bible John Winter Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1680">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/christian-bible-john-winter-k2xp2qtkbia4mag7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White As Snow - Holly Lane">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6a/e0/ed/6ae0ed3cb14537a8eb74553904449613.jpg' alt='White As Snow - Holly Lane'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1302">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6a/e0/ed/6ae0ed3cb14537a8eb74553904449613.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter Desktop Bible Verses Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp3603543.jpg' alt='Winter Desktop Bible Verses Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp3603543.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bible Verse Iphone 1080 X 1920 Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/bible-verse-iphone-1080-x-1920-of1zm2gk78wz56mw.jpg' alt='Bible Verse Iphone 1080 X 1920 Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/bible-verse-iphone-1080-x-1920-of1zm2gk78wz56mw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bible-Verses-On-Faith-Hebrews-10-23-25-Snow-HD-Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mypastorsvoice.wordpress.com/wp-content/uploads/2015/11/bible-verses-on-faith-hebrews-10-23-25-snow-hd-wallpaper.jpg' alt='Bible-Verses-On-Faith-Hebrews-10-23-25-Snow-HD-Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="My Pastor's Voice - WordPress.com" />
+                                </span>
+                                <a href='https://mypastorsvoice.wordpress.com/wp-content/uploads/2015/11/bible-verses-on-faith-hebrews-10-23-25-snow-hd-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

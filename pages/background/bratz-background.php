@@ -1,0 +1,129 @@
+<title>The Iconic World of Bratz Dolls: A Fashion Revolution</title>
+                    <meta name="description" content="Discover the vibrant universe of Bratz Dolls, where fashion meets friendship. Explore their unique styles, captivating stories, and lasting impact on pop culture. Join the Bratz revolution and celebrate individuality and self-expression!">
+                    <meta name="keywords" content="bratz background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bratz-background">
+                            <span itemprop="name">bratz background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The Iconic World of Bratz Dolls: A Fashion Revolution</h1>
+                <p>Bratz Dolls burst onto the scene in 2001, redefining fashion and friendship for pre-teens. Created by MGA Entertainment, these dolls featured bold styles, unique personalities, and a diverse cast. Their storylines often focused on self-expression, confidence, and adventure, making them a cultural phenomenon that resonates with fans worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bratz Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c2/c9/f4/c2c9f4c1acfe55f94b153ce8f7a437a6.jpg' alt='Bratz Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="677">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c2/c9/f4/c2c9f4c1acfe55f94b153ce8f7a437a6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bratz Pink Background Rare Hot Art Wall Indoor Room Outdoor - POSTER 20x30">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/QvsAAOSwRAtjDctH/s-l1200.jpg' alt='Bratz Pink Background Rare Hot Art Wall Indoor Room Outdoor - POSTER 20x30'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/QvsAAOSwRAtjDctH/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Party Time with the Bratz Gang | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/bratz-1200-x-900-background-5xmct4ya2yv8aotj.jpg' alt='Download Party Time with the Bratz Gang | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/bratz-1200-x-900-background-5xmct4ya2yv8aotj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bratz aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/71/b6/72/71b67239e6bd9f15a0db03e33d09129c.jpg' alt='Bratz aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="680">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/71/b6/72/71b67239e6bd9f15a0db03e33d09129c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Wallpapers — Lookin' Bratz — The Ultimate Bratz Resource!">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/588023714402431d67d54f8a/1634531963976-TBA8BDMCP3TKSJLUV3KJ/LB+Monogram+Classic+Kool+Kat+Phone+Background.jpg' alt='Phone Wallpapers — Lookin' Bratz — The Ultimate Bratz Resource!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lookin' Bratz" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/588023714402431d67d54f8a/1634531963976-TBA8BDMCP3TKSJLUV3KJ/LB+Monogram+Classic+Kool+Kat+Phone+Background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Bratz Logo Pink Aesthetic Background | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-aesthetic-background-6wopw8mog8do5jdy.jpg' alt='Download Bratz Logo Pink Aesthetic Background | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-aesthetic-background-6wopw8mog8do5jdy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD bratz wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/155/603/HD-wallpaper-bratz-black-bratz-pink-blue.jpg' alt='HD bratz wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/155/603/HD-wallpaper-bratz-black-bratz-pink-blue.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Y2K Bratz Backdrop Happy Birthday Girls Party Photo Background Decorations  Beautiful Doll Portrait Photography Props Wall Banner - AliExpress">
+                                <img itemprop="contentUrl url" src='https://ae01.alicdn.com/kf/S0bd8a4b5c371411a9a369b61900e84c9V.jpg' alt='Y2K Bratz Backdrop Happy Birthday Girls Party Photo Background Decorations  Beautiful Doll Portrait Photography Props Wall Banner - AliExpress'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AliExpress" />
+                                </span>
+                                <a href='https://ae01.alicdn.com/kf/S0bd8a4b5c371411a9a369b61900e84c9V.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bratz Dolls Wallpapers (27 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/c/1/5/827011-1080x1920-iphone-full-hd-bratz-dolls-background.jpg' alt='Bratz Dolls Wallpapers (27 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/c/1/5/827011-1080x1920-iphone-full-hd-bratz-dolls-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bratz: Downloadable Wallpapers+Backgrounds | BratzLips.com">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/a27d24_606b8e24039143ce819e9d5c4b12a7c1~mv2.jpg/v1/fill/w_560,h_316,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/a27d24_606b8e24039143ce819e9d5c4b12a7c1~mv2.jpg' alt='Bratz: Downloadable Wallpapers+Backgrounds | BratzLips.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="560">
+                                <meta itemprop="height" content="316">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BratzLips.com" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/a27d24_606b8e24039143ce819e9d5c4b12a7c1~mv2.jpg/v1/fill/w_560,h_316,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/a27d24_606b8e24039143ce819e9d5c4b12a7c1~mv2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

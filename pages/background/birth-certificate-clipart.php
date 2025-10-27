@@ -1,0 +1,129 @@
+<title>Creative Birth Certificate Clipart for Every Need</title>
+                    <meta name="description" content="Discover a collection of unique birth certificate clipart perfect for various projects. Whether for baby announcements, educational materials, or creative invitations, our clipart adds a personal touch and enhances visual appeal. Explore now and find the perfect designs to celebrate new beginnings!">
+                    <meta name="keywords" content="birth certificate clipart">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/birth-certificate-clipart">
+                            <span itemprop="name">birth certificate clipart</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Creative Birth Certificate Clipart for Every Need</h1>
+                <p>Birth certificate clipart is a valuable resource for designers, educators, and parents. These creative images can be used in various projects, from educational materials to baby shower invitations. Having a selection of clipart options allows for personal touches and increased visual appeal, making documentation and celebrations even more special.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Birth Certificate Clip Art at Clker.com - vector clip art online ...">
+                                <img itemprop="contentUrl url" src='http://www.clker.com/cliparts/3/I/v/W/d/4/birth-certificate-hi.png' alt='Birth Certificate Clip Art at Clker.com - vector clip art online ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="330">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Clker" />
+                                </span>
+                                <a href='http://www.clker.com/cliparts/3/I/v/W/d/4/birth-certificate-hi.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="27 Birth Certificate Templates (Word, PPT & PDF) ᐅ TemplateLab">
+                                <img itemprop="contentUrl url" src='https://templatelab.com/wp-content/uploads/2020/05/Birth-Certificate-Template-1-TemplateLab-scaled.jpg' alt='27 Birth Certificate Templates (Word, PPT & PDF) ᐅ TemplateLab'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1810">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TemplateLab" />
+                                </span>
+                                <a href='https://templatelab.com/wp-content/uploads/2020/05/Birth-Certificate-Template-1-TemplateLab-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Birth Certificate Images – Browse 5,581 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/06/17/32/83/360_F_617328329_lKArBm6C1Lnghyq8PSJJnzFSI1VwOrSn.jpg' alt='Birth Certificate Images – Browse 5,581 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="519">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/06/17/32/83/360_F_617328329_lKArBm6C1Lnghyq8PSJJnzFSI1VwOrSn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Birth Certificate Template | TheRoyalStore">
+                                <img itemprop="contentUrl url" src='https://www.theroyalstore.com/wp-content/uploads/2020/12/Birth-Certificate-Free-Template-Image-M.png' alt='Birth Certificate Template | TheRoyalStore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="292">
+                                <meta itemprop="height" content="292">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Royal Store" />
+                                </span>
+                                <a href='https://www.theroyalstore.com/wp-content/uploads/2020/12/Birth-Certificate-Free-Template-Image-M.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Birth Certificates Template 9675660 Vector Art at Vecteezy">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/009/675/660/non_2x/birth-certificates-template-free-vector.jpg' alt='Birth Certificates Template 9675660 Vector Art at Vecteezy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1531">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/009/675/660/non_2x/birth-certificates-template-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalist Birth Certificate, Certificate of Birth, Printable ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38658013/r/il/9de622/5158870037/il_fullxfull.5158870037_fxhh.jpg' alt='Minimalist Birth Certificate, Certificate of Birth, Printable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38658013/r/il/9de622/5158870037/il_fullxfull.5158870037_fxhh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Birth Certificate Baby: Over 3,296 Royalty-Free Licensable Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/unique-flat-rounded-icon-birth-600nw-2296644957.jpg' alt='Birth Certificate Baby: Over 3,296 Royalty-Free Licensable Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/unique-flat-rounded-icon-birth-600nw-2296644957.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="210+ Birth Certificate Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/165765660/vector/an-unmarked-birth-certificate-with-a-blue-ribbon-pattern.jpg?s=612x612&w=0&k=20&c=m3dMaV0i95cmyvvEFpD86ib_E_YGjzjxLAgNnm7oADo=' alt='210+ Birth Certificate Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="407">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/165765660/vector/an-unmarked-birth-certificate-with-a-blue-ribbon-pattern.jpg?s=612x612&w=0&k=20&c=m3dMaV0i95cmyvvEFpD86ib_E_YGjzjxLAgNnm7oADo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Birth Certificate Template | Free Word Templates">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/48/0f/a2/480fa20e14960bb77aa176ac4fa3cec9.jpg' alt='Birth Certificate Template | Free Word Templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="465">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/48/0f/a2/480fa20e14960bb77aa176ac4fa3cec9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Editable Minimalist Birth Certificate, Certificate of Birth ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38658013/r/il/eb77e2/5160109599/il_fullxfull.5160109599_ryhc.jpg' alt='Editable Minimalist Birth Certificate, Certificate of Birth ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38658013/r/il/eb77e2/5160109599/il_fullxfull.5160109599_ryhc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Nebula iPhone Wallpapers: Cosmic Beauty for Your Screen</title>
+                    <meta name="description" content="Discover captivating nebula iPhone wallpapers to elevate your device's aesthetic. Explore a galaxy of colors and designs, ideal for space enthusiasts. Download your favorite cosmic image today and give your iPhone a stellar makeover!">
+                    <meta name="keywords" content="nebula iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/nebula-iphone-wallpaper">
+                            <span itemprop="name">nebula iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Nebula iPhone Wallpapers: Cosmic Beauty for Your Screen</h1>
+                <p>Transform your iPhone's screen with stunning nebula wallpapers! Featuring vibrant colors and cosmic designs, these wallpapers bring the beauty of the universe to your fingertips. Perfect for space lovers, each image immerses you in a celestial wonderland. Download now and let your device shine with galactic charm!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Carina Nebula NASA iPhone wallpapers">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2022/07/Carina-Nebular-22Cosmic-Cliffs22-iPhone-wallpaper.jpeg' alt='Carina Nebula NASA iPhone wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2022/07/Carina-Nebular-22Cosmic-Cliffs22-iPhone-wallpaper.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cosmic Nebula iPhone Wallpaper 4K - HeroWall | Phone Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/a/AVvXsEhtBvxSnK5LSjkyV_BPC_k4Wj4WjuMfhqq766I1YM24uY8bNZC_IypSw3RaknXLUDfuiFLSw4nKmRBZmS7_mvFT_VZiHrqG0mp3rbO-y0x_L_ZO6ffnFO2vszkYKaAT2WYgXJRl2NGVyHZv3HCUO6iB1ONYOc7sUGoFST-vRNnEpGKkIFAD5QGkx1zrY0ll' alt='Cosmic Nebula iPhone Wallpaper 4K - HeroWall | Phone Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="738">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HeroWall" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/a/AVvXsEhtBvxSnK5LSjkyV_BPC_k4Wj4WjuMfhqq766I1YM24uY8bNZC_IypSw3RaknXLUDfuiFLSw4nKmRBZmS7_mvFT_VZiHrqG0mp3rbO-y0x_L_ZO6ffnFO2vszkYKaAT2WYgXJRl2NGVyHZv3HCUO6iB1ONYOc7sUGoFST-vRNnEpGKkIFAD5QGkx1zrY0ll' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nebula iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp9881029.jpg' alt='Nebula iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1579">
+                                <meta itemprop="height" content="2890">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp9881029.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cool Nebula In Universe iPhone Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/universe-iphone-witlme0dv0t1ks3m.jpg' alt='Download Cool Nebula In Universe iPhone Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/universe-iphone-witlme0dv0t1ks3m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nebula iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp13075630.jpg' alt='Nebula iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp13075630.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Carina Nebula NASA iPhone wallpapers">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2022/07/Southern-Ring-Nebula-iPhone-wallpaper.jpg' alt='Carina Nebula NASA iPhone wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2022/07/Southern-Ring-Nebula-iPhone-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nebula Mix iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3a/6a/89/3a6a89dec920822a9917187d87410a57.jpg' alt='Nebula Mix iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3a/6a/89/3a6a89dec920822a9917187d87410a57.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iOS 7 Nebula Wallpaper — Basic Apple Guy">
+                                <img itemprop="contentUrl url" src='https://basicappleguy.com/s/Nebula_iPhone.png' alt='iOS 7 Nebula Wallpaper — Basic Apple Guy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1290">
+                                <meta itemprop="height" content="2796">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Basic Apple Guy" />
+                                </span>
+                                <a href='https://basicappleguy.com/s/Nebula_iPhone.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50+ Space iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ba/2a/64/ba2a64aa7cac29fd6958afb7802846e0.jpg' alt='50+ Space iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ba/2a/64/ba2a64aa7cac29fd6958afb7802846e0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Universe iPhone Sparkly Nebula Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/universe-iphone-fbf7mo7lpatma1bi.jpg' alt='Download Universe iPhone Sparkly Nebula Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/universe-iphone-fbf7mo7lpatma1bi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

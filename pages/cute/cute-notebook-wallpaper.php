@@ -1,0 +1,129 @@
+<title>Cute Notebook Wallpapers: Stylish & Fun Designs for Your Study Space</title>
+                    <meta name="description" content="Discover adorable notebook wallpapers to personalize your study experience. From pastel patterns to quirky illustrations, find the perfect design to inspire creativity and make learning enjoyable. Upgrade your notebook with styles that reflect your personality in just a few clicks!">
+                    <meta name="keywords" content="cute notebook wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-notebook-wallpaper">
+                            <span itemprop="name">cute notebook wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cute Notebook Wallpapers: Stylish & Fun Designs for Your Study Space</h1>
+                <p>Cute notebook wallpapers can transform your study space! Whether you're looking for pastel patterns, whimsical illustrations, or floral designs, these wallpapers add personality and inspiration to your notes. Choose designs that reflect your style and make studying enjoyable. Find the perfect wallpaper that sparks creativity each time you open your notebook!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable cute desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAF2WG7l7bw/1/0/1600w/canva-beige-and-white-cute-abstract-hearts-dots-and-stars-desktop-wallpaper-6pFeduo1Feo.jpg' alt='Free and customizable cute desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAF2WG7l7bw/1/0/1600w/canva-beige-and-white-cute-abstract-hearts-dots-and-stars-desktop-wallpaper-6pFeduo1Feo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Notebook: Cute Wallpaper Design Lined Notebook Journal ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61ZOuCXiIaL._AC_UF1000,1000_QL80_.jpg' alt='Amazon.com: Notebook: Cute Wallpaper Design Lined Notebook Journal ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="773">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61ZOuCXiIaL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Notebook Paper Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/cute-star-design-memo_53876-93615.jpg' alt='Cute Notebook Paper Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/cute-star-design-memo_53876-93615.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Violet Cute Notebook Illustration Wallpaper Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2301848435/display_1500/stock-photo-the-blue-and-violet-cute-notebook-illustration-wallpaper-2301848435.jpg' alt='Blue Violet Cute Notebook Illustration Wallpaper Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1001">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2301848435/display_1500/stock-photo-the-blue-and-violet-cute-notebook-illustration-wallpaper-2301848435.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Instagram Notebook Background Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-instagram-notebook-background-u705fi9lefwyfe41.jpg' alt='Cute Instagram Notebook Background Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-instagram-notebook-background-u705fi9lefwyfe41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon Cute Ring Notebook Design Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/93/a6/5f/93a65f058d74b3f37a44006ff1627547.jpg' alt='Cartoon Cute Ring Notebook Design Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="983">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/93/a6/5f/93a65f058d74b3f37a44006ff1627547.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Notebook Paper Background Vector Cards Stock Vector (Royalty ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/716838583/display_1500/stock-vector-cute-notebook-paper-background-vector-cards-notes-page-notebook-design-with-butterfly-716838583.jpg' alt='Cute Notebook Paper Background Vector Cards Stock Vector (Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1070">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/716838583/display_1500/stock-vector-cute-notebook-paper-background-vector-cards-notes-page-notebook-design-with-butterfly-716838583.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Notebook Paper Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/cute-background-with-pink-checked-background-torn-paper_1048-20686.jpg' alt='Cute Notebook Paper Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/cute-background-with-pink-checked-background-torn-paper_1048-20686.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute laptop wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/85/de/1c/85de1c606c3cb85b657c8b469a6f90bc.jpg' alt='Cute laptop wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/85/de/1c/85de1c606c3cb85b657c8b469a6f90bc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Notebook: Pink Wallpaper Rectangle Themed Beautiful Cover College Ruled  Notebook For Kids , Boys, Girls, Students, Gift, Home, School, College cute  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61bU8I8HqlL._AC_UF1000,1000_QL80_.jpg' alt='Notebook: Pink Wallpaper Rectangle Themed Beautiful Cover College Ruled  Notebook For Kids , Boys, Girls, Students, Gift, Home, School, College cute  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61bU8I8HqlL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

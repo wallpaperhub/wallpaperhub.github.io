@@ -1,0 +1,129 @@
+<title>Vaporwave Aesthetic Wallpaper: Retro & Dreamy Designs</title>
+                    <meta name="description" content="Explore our collection of vaporwave aesthetic wallpapers, designed to bring retro charm and dreamy vibes to your space. Perfect for enthusiasts of nostalgia and surreal art, these wallpapers transform any room with vibrant colors and unique visuals. Discover the perfect backdrop for your modern aesthetic today!">
+                    <meta name="keywords" content="wallpaper:-cwxcj5tr3w= vaporwave aesthetic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/wallpaper-cwxcj5tr3w-vaporwave-aesthetic">
+                            <span itemprop="name">wallpaper:-cwxcj5tr3w= vaporwave aesthetic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vaporwave Aesthetic Wallpaper: Retro & Dreamy Designs</h1>
+                <p>Immerse yourself in the vaporwave aesthetic with stunning wallpaper designs that evoke nostalgia and a dreamy surrealism. Featuring vibrant colors, glitch art, and retro visuals, these wallpapers transform your space into a unique haven. Perfect for fans of 80s and 90s culture, elevate your surroundings with captivating vaporwave vibes.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Vaporwave Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/vaporwave-holographic-sunset-48t0p39h7je2faf9.jpg' alt='200+] Vaporwave Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/vaporwave-holographic-sunset-48t0p39h7je2faf9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Immerse Yourself In Aesthetic Vaporwave Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-vaporwave-dak60jsx4hkxh879.jpg' alt='Download Immerse Yourself In Aesthetic Vaporwave Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-vaporwave-dak60jsx4hkxh879.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 AMAZING VAPORWAVE PHONE WALLPAPERS">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f4/aa/ef/f4aaef3003da1b28581eeb96abb15e62.jpg' alt='12 AMAZING VAPORWAVE PHONE WALLPAPERS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f4/aa/ef/f4aaef3003da1b28581eeb96abb15e62.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AESTHETIC VAPORWAVE PHONE WALLPAPER COLLECTION 192 - Heroscreen ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkmJXB2ho-QMvQJLWLWuIlrcbrUs8oIBaCieuM5XhTRui-HskMYminRAQ_LQ9qsycgnM7pLwpVIRWwM3U5zVyTDgwliNEPJS4d7RL9vqYhUybYVT2MaNL15UU2Qj_f1g5d6Uj7_C4lIdk/w2160-d/vaporwave+aesthetic+wallpaper+%25285%2529.jpg' alt='AESTHETIC VAPORWAVE PHONE WALLPAPER COLLECTION 192 - Heroscreen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1152">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkmJXB2ho-QMvQJLWLWuIlrcbrUs8oIBaCieuM5XhTRui-HskMYminRAQ_LQ9qsycgnM7pLwpVIRWwM3U5zVyTDgwliNEPJS4d7RL9vqYhUybYVT2MaNL15UU2Qj_f1g5d6Uj7_C4lIdk/w2160-d/vaporwave+aesthetic+wallpaper+%25285%2529.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Aesthetic Vaporwave Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-vaporwave-2gqpw1petn5irm5e.jpg' alt='100+] Aesthetic Vaporwave Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-vaporwave-2gqpw1petn5irm5e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Synthwave Neon Glitch and Vaporwave wallpapers | Premium ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/aesthetic-synthwave-neon-glitch-vaporwave-wallpapers_1029476-28982.jpg' alt='Aesthetic Synthwave Neon Glitch and Vaporwave wallpapers | Premium ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/aesthetic-synthwave-neon-glitch-vaporwave-wallpapers_1029476-28982.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD vaporwave wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/651/296/HD-wallpaper-retrofuturism-vaporwave-thumbnail.jpg' alt='HD vaporwave wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="190">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/651/296/HD-wallpaper-retrofuturism-vaporwave-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Galaxies Vaporwave Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/aesthetic-galaxies-vaporwave-5o7bz0qjx62lw3ri.jpg' alt='Aesthetic Galaxies Vaporwave Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/aesthetic-galaxies-vaporwave-5o7bz0qjx62lw3ri.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD vaporwave wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/433/48/HD-wallpaper-retro-retro-wave-sun-vaporwave-vaporwave.jpg' alt='HD vaporwave wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/433/48/HD-wallpaper-retro-retro-wave-sun-vaporwave-vaporwave.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Vaporwave Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/vaporwave-iphone-4mdck8z28nvp59ie.jpg' alt='100+] Vaporwave Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/vaporwave-iphone-4mdck8z28nvp59ie.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

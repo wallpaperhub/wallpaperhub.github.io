@@ -1,0 +1,129 @@
+<title>Elegant Thin Red Line Wallpaper for Your Space</title>
+                    <meta name="description" content="Add a bold statement to your decor with our thin red line wallpaper. Ideal for showcasing support and honoring heroes, this stylish design elevates any room's look. Shop now for vibrant and durable wallpaper that melds meaning with modern aesthetics. Perfect for home or workspace!">
+                    <meta name="keywords" content="thin red line wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red">
+                            <span itemprop="name">Red</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red/thin-red-line-wallpaper">
+                            <span itemprop="name">thin red line wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Thin Red Line Wallpaper for Your Space</h1>
+                <p>Transform your space with stunning thin red line wallpaper. Perfect for showcasing patriotism and support for first responders, this wallpaper features a sleek, modern design that adds depth and style to any room. Whether it's in your home, office, or garage, this wallpaper stands out while honoring the brave.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thin Red Line Flag Stock Illustrations – 1,996 Thin Red Line Flag ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/grunge-usa-firefighter-thin-red-line-wallpaper-background-stock-vector-your-banner-173300396.jpg' alt='Thin Red Line Flag Stock Illustrations – 1,996 Thin Red Line Flag ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="563">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/grunge-usa-firefighter-thin-red-line-wallpaper-background-stock-vector-your-banner-173300396.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thin Red Line Flag Images – Browse 3,919 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/01/41/66/360_F_501416694_mKo6kfotLAnmZFeLEq3usQvut4XvD4WV.jpg' alt='Thin Red Line Flag Images – Browse 3,919 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="814">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/01/41/66/360_F_501416694_mKo6kfotLAnmZFeLEq3usQvut4XvD4WV.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thin Red Line Flag Images – Browse 3,919 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/92/32/42/360_F_292324222_RnGYYDUDifngOJKMl1wAzLotB3KlnDh5.jpg' alt='Thin Red Line Flag Images – Browse 3,919 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="684">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/92/32/42/360_F_292324222_RnGYYDUDifngOJKMl1wAzLotB3KlnDh5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thin Red Line Flag Images – Browse 3,919 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/05/28/49/53/360_F_528495318_gwk7zuOGZD0LwM7xPZXf5pg5M9Pt0eUx.jpg' alt='Thin Red Line Flag Images – Browse 3,919 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/05/28/49/53/360_F_528495318_gwk7zuOGZD0LwM7xPZXf5pg5M9Pt0eUx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Distressed Thin Red Line Flag American Firefighter Flag Wallpaper |  Photographic Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.3822801333.9453/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Distressed Thin Red Line Flag American Firefighter Flag Wallpaper |  Photographic Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.3822801333.9453/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thin Red Line Fire & Rescue Wallpaper Border">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28239477/r/il/5b9fba/3635150713/il_570xN.3635150713_z2yx.jpg' alt='Thin Red Line Fire & Rescue Wallpaper Border'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28239477/r/il/5b9fba/3635150713/il_570xN.3635150713_z2yx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD thin red line flag wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/337/827/HD-wallpaper-thin-red-line-flag-firedepartment-fireman-thumbnail.jpg' alt='HD thin red line flag wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/337/827/HD-wallpaper-thin-red-line-flag-firedepartment-fireman-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thin Red Line Flag Stock Illustrations – 1,996 Thin Red Line Flag ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/grunge-usa-firefighter-thin-red-line-wallpaper-background-stock-vector-your-banner-173302071.jpg' alt='Thin Red Line Flag Stock Illustrations – 1,996 Thin Red Line Flag ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/grunge-usa-firefighter-thin-red-line-wallpaper-background-stock-vector-your-banner-173302071.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thin Red Line Flag by Traffic analyzer">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/thin-red-line-flag-traffic-analyzer.jpg' alt='Thin Red Line Flag by Traffic analyzer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="594">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photos.com by Getty Images" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/thin-red-line-flag-traffic-analyzer.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Honoring Brave Fire Fighters with New Thin Red Line – GunSkins">
+                                <img itemprop="contentUrl url" src='https://www.gunskins.com/cdn/shop/articles/honoring-brave-fire-fighters-with-new-thin-red-line-135740.jpg?v=1678242086' alt='Honoring Brave Fire Fighters with New Thin Red Line – GunSkins'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GunSkins" />
+                                </span>
+                                <a href='https://www.gunskins.com/cdn/shop/articles/honoring-brave-fire-fighters-with-new-thin-red-line-135740.jpg?v=1678242086' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

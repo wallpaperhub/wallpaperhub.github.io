@@ -1,0 +1,129 @@
+<title>Stunning Red Hood Wallpaper for Your Device</title>
+                    <meta name="description" content="Discover captivating red hood wallpaper designs that bring your screen to life! Browse our collection of vibrant and enchanting visuals, perfect for adding a touch of fantasy to your device. Elevate your background today with unique styles that resonate with your personality!">
+                    <meta name="keywords" content="red hood wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/red-hood-wallpaper">
+                            <span itemprop="name">red hood wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Red Hood Wallpaper for Your Device</h1>
+                <p>Transform your device's aesthetic with stunning red hood wallpaper! Featuring vibrant designs and enchanting visuals, these wallpapers are perfect for fans of fantasy and fairy tales. Whether it’s a bold red cloak or a mystical forest backdrop, explore our collection to find the perfect fit for your screen and personality!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Red Hood Pictures | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/red-hood-pictures-ses0suxqs87pfglw.jpg' alt='200+] Red Hood Pictures | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/red-hood-pictures-ses0suxqs87pfglw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Couldn't find a Red Hood wallpaper with black background,so I made ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/h3biii1jmxmz.jpg' alt='Couldn't find a Red Hood wallpaper with black background,so I made ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/h3biii1jmxmz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Hood And Gotham Knights Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/red-hood-vigilante-hero-8rln096knbif4hgs.webp' alt='Red Hood And Gotham Knights Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="501">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/red-hood-vigilante-hero-8rln096knbif4hgs.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Hood Comic HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/812/812516.jpg' alt='Red Hood Comic HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/812/812516.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pretty Cool Red Hood Wallpaper - Superhero">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/5d/34/11/5d34111463c7a845bf5636202ec09aaf.jpg' alt='Pretty Cool Red Hood Wallpaper - Superhero'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="483">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/5d/34/11/5d34111463c7a845bf5636202ec09aaf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fan Art] As requested after my Nightwing wallpaper yesterday ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/H6KF02PvKaOTJZwRe_XlRdjaeMn9rXMPCxbWjWSkAgw.jpg?width=640&crop=smart&auto=webp&s=d50409a8909042fbdf4530ef0d9e518f7010c904' alt='Fan Art] As requested after my Nightwing wallpaper yesterday ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/H6KF02PvKaOTJZwRe_XlRdjaeMn9rXMPCxbWjWSkAgw.jpg?width=640&crop=smart&auto=webp&s=d50409a8909042fbdf4530ef0d9e518f7010c904' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Hood Wallpaper by heyPierce on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a890b611-f7ff-44e1-b21b-8d8586549335/d6ryox9-f052da20-d39c-47ce-a1ff-b7284574999b.jpg/v1/fill/w_1024,h_576,q_75,strp/red_hood_wallpaper_by_heypierce_d6ryox9-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvYTg5MGI2MTEtZjdmZi00NGUxLWIyMWItOGQ4NTg2NTQ5MzM1XC9kNnJ5b3g5LWYwNTJkYTIwLWQzOWMtNDdjZS1hMWZmLWI3Mjg0NTc0OTk5Yi5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.QLqdmxi5Z7vR7X4Ailc10--8o-_fgJHREsBCNmio_94' alt='Red Hood Wallpaper by heyPierce on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a890b611-f7ff-44e1-b21b-8d8586549335/d6ryox9-f052da20-d39c-47ce-a1ff-b7284574999b.jpg/v1/fill/w_1024,h_576,q_75,strp/red_hood_wallpaper_by_heypierce_d6ryox9-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvYTg5MGI2MTEtZjdmZi00NGUxLWIyMWItOGQ4NTg2NTQ5MzM1XC9kNnJ5b3g5LWYwNTJkYTIwLWQzOWMtNDdjZS1hMWZmLWI3Mjg0NTc0OTk5Yi5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.QLqdmxi5Z7vR7X4Ailc10--8o-_fgJHREsBCNmio_94' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Jason Todd DC Comics Comic Red Hood 4k Ultra HD Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/112/1125607.jpg' alt='Download Jason Todd DC Comics Comic Red Hood 4k Ultra HD Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/112/1125607.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Hood, Jason Todd, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/872/353/HD-wallpaper-red-hood-jason-todd.jpg' alt='Red Hood, Jason Todd, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/872/353/HD-wallpaper-red-hood-jason-todd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jason Todd/Red Hood by Bosslogic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b1/0e/03/b10e037daea902545d11e707afbed66d.jpg' alt='Jason Todd/Red Hood by Bosslogic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1068">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b1/0e/03/b10e037daea902545d11e707afbed66d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

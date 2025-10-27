@@ -1,0 +1,129 @@
+<title>Magical Lord of the Rings Zoom Backgrounds for Fans</title>
+                    <meta name="description" content="Discover a collection of amazing Lord of the Rings Zoom backgrounds to elevate your video calls. Perfect for fans of all ages, these backgrounds showcase iconic scenes from Middle-earth, making every meeting feel like an adventure. Choose your favorite and bring Tolkien's world to your virtual space today!">
+                    <meta name="keywords" content="lord of the rings zoom background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lord-of-the-rings-zoom-background">
+                            <span itemprop="name">lord of the rings zoom background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Magical Lord of the Rings Zoom Backgrounds for Fans</h1>
+                <p>Transform your virtual meetings with enchanting Lord of the Rings Zoom backgrounds. Choose from stunning landscapes of Middle-earth, featuring the Shire, Rivendell, and Mount Doom. Whether you're a fan of hobbits, elves, or epic battles, these backgrounds will enhance your video calls and bring the magic of Tolkien's world to life!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Lord of the Rings hobbit house entrance - Virtual Backgrounds">
+                                <img itemprop="contentUrl url" src='https://virtualbackgrounds.site/wp-content/uploads/2020/07/the-lord-of-the-rings-hobbit-house-entrance.jpg' alt='The Lord of the Rings hobbit house entrance - Virtual Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Virtual Backgrounds" />
+                                </span>
+                                <a href='https://virtualbackgrounds.site/wp-content/uploads/2020/07/the-lord-of-the-rings-hobbit-house-entrance.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Lord Of The Rings Zoom Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/lord-of-the-rings-zoom-background-armpxq7f2cksqewn.jpg' alt='100+] Lord Of The Rings Zoom Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/lord-of-the-rings-zoom-background-armpxq7f2cksqewn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lord of the Rings Virtual Backgrounds - VirtualOffice.ninja">
+                                <img itemprop="contentUrl url" src='https://virtualoffice.ninja/wp-content/uploads/rivendell-castle-hall-elves-Lord-of-The-Rings-virtual-background-for-zoom-1024x576.jpeg' alt='Lord of the Rings Virtual Backgrounds - VirtualOffice.ninja'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VirtualOffice.ninja" />
+                                </span>
+                                <a href='https://virtualoffice.ninja/wp-content/uploads/rivendell-castle-hall-elves-Lord-of-The-Rings-virtual-background-for-zoom-1024x576.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lord of The Rings - The Hobbit's Home - Video Meeting Backgrounds">
+                                <img itemprop="contentUrl url" src='https://background.live/wp-content/uploads/2022/04/916140775613mmvgsbohtjoq406pmqsatclfwsoa6tc02anmgpfvljowemxt4rld2twhmnr5xrlmdsf2vpbykyrpwrgahouzcnqftkydixehcvt.jpg' alt='Lord of The Rings - The Hobbit's Home - Video Meeting Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background.live" />
+                                </span>
+                                <a href='https://background.live/wp-content/uploads/2022/04/916140775613mmvgsbohtjoq406pmqsatclfwsoa6tc02anmgpfvljowemxt4rld2twhmnr5xrlmdsf2vpbykyrpwrgahouzcnqftkydixehcvt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live in Hobbits House - Fineshare">
+                                <img itemprop="contentUrl url" src='https://www.fineshare.com/background/live-in-hobbits-house.jpg' alt='Live in Hobbits House - Fineshare'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fineshare" />
+                                </span>
+                                <a href='https://www.fineshare.com/background/live-in-hobbits-house.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lord of the Rings | Zoom background">
+                                <img itemprop="contentUrl url" src='https://www.roomforzoom.com/backgrounds/Lord-of-the-Rings-Fellowship-of-268.jpg' alt='Lord of the Rings | Zoom background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Meeting Backgrounds" />
+                                </span>
+                                <a href='https://www.roomforzoom.com/backgrounds/Lord-of-the-Rings-Fellowship-of-268.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bring Middle-earth to Your Next Zoom Meeting with These Fun Lord ...">
+                                <img itemprop="contentUrl url" src='https://i.chzbgr.com/full/10458589440/hBF8515B7' alt='Bring Middle-earth to Your Next Zoom Meeting with These Fun Lord ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cheezburger" />
+                                </span>
+                                <a href='https://i.chzbgr.com/full/10458589440/hBF8515B7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A bunch of wallpapers (x-post from r/wallpapers) : r/tolkienfans">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/SKtJ-LVhPkQR4GlFMWO2bnL_WeSx-XYxeJ8oWKFk2Jg.jpg?auto=webp&s=68c8c1b832096ae67a55276eb4658b14cc48aac0' alt='A bunch of wallpapers (x-post from r/wallpapers) : r/tolkienfans'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/SKtJ-LVhPkQR4GlFMWO2bnL_WeSx-XYxeJ8oWKFk2Jg.jpg?auto=webp&s=68c8c1b832096ae67a55276eb4658b14cc48aac0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bring Middle-earth to Your Next Zoom Meeting with These Fun Lord ...">
+                                <img itemprop="contentUrl url" src='https://i.chzbgr.com/full/10458593280/h48DF1E24/000' alt='Bring Middle-earth to Your Next Zoom Meeting with These Fun Lord ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cheezburger" />
+                                </span>
+                                <a href='https://i.chzbgr.com/full/10458593280/h48DF1E24/000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Experience the mystical world of Middle-earth through ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/lord-of-the-rings-zoom-background-rxtqnzho2eq6ap1q.jpg' alt='Download Experience the mystical world of Middle-earth through ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="846">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/lord-of-the-rings-zoom-background-rxtqnzho2eq6ap1q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

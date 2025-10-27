@@ -1,0 +1,129 @@
+<title>Stunning Pictures of Canada: Nature's Beauty Unveiled</title>
+                    <meta name="description" content="Explore the breathtaking beauty of Canada through captivating pictures. Discover the landscapes, wildlife, and vibrant cities that make Canada a visual masterpiece. Perfect for travel enthusiasts and nature lovers, our collection highlights the country's diverse charm in stunning detail.">
+                    <meta name="keywords" content="pictures of canada">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pictures-of-canada">
+                            <span itemprop="name">pictures of canada</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Pictures of Canada: Nature's Beauty Unveiled</h1>
+                <p>Canada is renowned for its stunning landscapes and diverse beauty. From the majestic Rocky Mountains to the serene shores of Lake Louise, each corner of this vast country offers breathtaking views. Capture the vibrant fall foliage in Ontario, the stunning Northern Lights in Yukon, and the charming cities like Quebec and Vancouver.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Canada's 50 Places of a Lifetime">
+                                <img itemprop="contentUrl url" src='https://i.natgeofe.com/n/79a61997-3ede-411d-a063-9624ede3eb23/park-canada.jpg?w=2048&h=1366' alt='Canada's 50 Places of a Lifetime'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1366">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic" />
+                                </span>
+                                <a href='https://i.natgeofe.com/n/79a61997-3ede-411d-a063-9624ede3eb23/park-canada.jpg?w=2048&h=1366' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Best Places to Visit in Canada | Vogue">
+                                <img itemprop="contentUrl url" src='https://assets.vogue.com/photos/6600dd2cc10d57da1e6ba479/4:3/w_3796,h_2847,c_limit/525508231' alt='The Best Places to Visit in Canada | Vogue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3796">
+                                <meta itemprop="height" content="2847">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vogue" />
+                                </span>
+                                <a href='https://assets.vogue.com/photos/6600dd2cc10d57da1e6ba479/4:3/w_3796,h_2847,c_limit/525508231' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20,000+ Best Canada Photos · 100% Free Download · Pexels Stock Photos">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/756790/pexels-photo-756790.jpeg' alt='20,000+ Best Canada Photos · 100% Free Download · Pexels Stock Photos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4032">
+                                <meta itemprop="height" content="3024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/756790/pexels-photo-756790.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Canada photos: 20 of the most beautiful places | CNN">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/140630124917-12-canada-most-beautiful-places.jpg?q=w_2000,h_1363,x_0,y_0,c_fill' alt='Canada photos: 20 of the most beautiful places | CNN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1363">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/140630124917-12-canada-most-beautiful-places.jpg?q=w_2000,h_1363,x_0,y_0,c_fill' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Canada in Pictures: 18 Beautiful Places to Photograph | PlanetWare">
+                                <img itemprop="contentUrl url" src='https://www.planetware.com/wpimages/2019/11/canada-in-pictures-beautiful-places-to-photograph-yoho-national-park-emerald-lake.jpg' alt='Canada in Pictures: 18 Beautiful Places to Photograph | PlanetWare'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="730">
+                                <meta itemprop="height" content="484">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PlanetWare" />
+                                </span>
+                                <a href='https://www.planetware.com/wpimages/2019/11/canada-in-pictures-beautiful-places-to-photograph-yoho-national-park-emerald-lake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 best things to do in Canada from the Rockies to Niagara Falls ...">
+                                <img itemprop="contentUrl url" src='https://content.api.news/v3/images/bin/15a68dc4169b2e0bdb8e679a81d51d79' alt='20 best things to do in Canada from the Rockies to Niagara Falls ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Escape" />
+                                </span>
+                                <a href='https://content.api.news/v3/images/bin/15a68dc4169b2e0bdb8e679a81d51d79' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,383,200+ Canada Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1178852373/photo/canadian-flag-flying-over-old-quebec-city.jpg?s=612x612&w=0&k=20&c=0dsOXraklB5DCLYeYVpmDxfgquLlVSalCcHacs0LgTY=' alt='2,383,200+ Canada Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1178852373/photo/canadian-flag-flying-over-old-quebec-city.jpg?s=612x612&w=0&k=20&c=0dsOXraklB5DCLYeYVpmDxfgquLlVSalCcHacs0LgTY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Canada: All You Must Know Before You Go (2025) - Tripadvisor">
+                                <img itemprop="contentUrl url" src='https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/c1/ff/28/caption.jpg?w=1400&h=1400&s=1' alt='Canada: All You Must Know Before You Go (2025) - Tripadvisor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tripadvisor" />
+                                </span>
+                                <a href='https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/c1/ff/28/caption.jpg?w=1400&h=1400&s=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Canada Trip - Cosmos® Canada Vacation">
+                                <img itemprop="contentUrl url" src='https://delivery.gfobcontent.com/api/public/content/d1f2303939494c86bf0056666818ac26?v=9ad8ef9b' alt='Canada Trip - Cosmos® Canada Vacation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cosmos Tours" />
+                                </span>
+                                <a href='https://delivery.gfobcontent.com/api/public/content/d1f2303939494c86bf0056666818ac26?v=9ad8ef9b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="See the Top 10 Universities in Canada">
+                                <img itemprop="contentUrl url" src='https://www.usnews.com/dims4/USNEWS/a314a45/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F8c%2F98%2F3273fce54825bc85e4613cae90bc%2Fhttps-media-gettyimages-com-id-532218031-photo-skyline-of-toronto.jpg' alt='See the Top 10 Universities in Canada'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="970">
+                                <meta itemprop="height" content="647">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USNews.com" />
+                                </span>
+                                <a href='https://www.usnews.com/dims4/USNEWS/a314a45/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F8c%2F98%2F3273fce54825bc85e4613cae90bc%2Fhttps-media-gettyimages-com-id-532218031-photo-skyline-of-toronto.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

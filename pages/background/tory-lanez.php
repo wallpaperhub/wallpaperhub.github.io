@@ -1,0 +1,129 @@
+<title>Discover Tory Lanez: Music, Controversies & Career Insights</title>
+                    <meta name="description" content="Explore the dynamic world of Tory Lanez, from his chart-topping hits to his impactful career. Stay updated on his latest music and controversies as he navigates the spotlight in the music industry.">
+                    <meta name="keywords" content="tory lanez">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/tory-lanez">
+                            <span itemprop="name">tory lanez</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Tory Lanez: Music, Controversies & Career Insights</h1>
+                <p>Tory Lanez is a Canadian singer, rapper, and songwriter known for his versatile music style that blends R&B, hip-hop, and dancehall. Bursting onto the scene with hits like "Say It" and "Luv," he has built a loyal fan base. Despite legal controversies, Tory continues to create music that resonates with audiences worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tory Lanez discography - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Tory_Lanez_2500x1669.jpg/640px-Tory_Lanez_2500x1669.jpg' alt='Tory Lanez discography - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="779">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Tory_Lanez_2500x1669.jpg/640px-Tory_Lanez_2500x1669.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tory Lanez | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab6761610000e5ebbd5d3e1b363c3e26710661c3' alt='Tory Lanez | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab6761610000e5ebbd5d3e1b363c3e26710661c3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tory Lanez - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/f/f7/Tory_Lanez_2021.png' alt='Tory Lanez - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="584">
+                                <meta itemprop="height" content="910">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/f/f7/Tory_Lanez_2021.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tory Lanez - Say It">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/xUq1rZ7mmns/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC96kMxVyiyHppCrZlD9eBbIXzByw' alt='Tory Lanez - Say It'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/xUq1rZ7mmns/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC96kMxVyiyHppCrZlD9eBbIXzByw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Tory Lanez Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/tory-lanez-tzzg1fpjewq1n4at.jpg' alt='100+] Tory Lanez Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1219">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/tory-lanez-tzzg1fpjewq1n4at.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tory Lanez Birthday">
+                                <img itemprop="contentUrl url" src='https://nationaltoday.com/wp-content/uploads/2022/06/Tory-Lanez-Birthday.jpg' alt='Tory Lanez Birthday'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Today" />
+                                </span>
+                                <a href='https://nationaltoday.com/wp-content/uploads/2022/06/Tory-Lanez-Birthday.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tory Lanez Details New Album & Flexes Prison Physique On Cover ...">
+                                <img itemprop="contentUrl url" src='https://app.hiphopdx.com/wp-content/uploads/2025/03/tory-lanez-shares-details-of-new-album.jpg?w=1200' alt='Tory Lanez Details New Album & Flexes Prison Physique On Cover ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HipHopDX" />
+                                </span>
+                                <a href='https://app.hiphopdx.com/wp-content/uploads/2025/03/tory-lanez-shares-details-of-new-album.jpg?w=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drake's Support of Tory Lanez is Disappointing But Not Surprising">
+                                <img itemprop="contentUrl url" src='https://www.rollingstone.com/wp-content/uploads/2024/02/tory-lanez-messaging.jpg?crop=67px%2C84px%2C1733px%2C976px&resize=1600%2C900' alt='Drake's Support of Tory Lanez is Disappointing But Not Surprising'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone" />
+                                </span>
+                                <a href='https://www.rollingstone.com/wp-content/uploads/2024/02/tory-lanez-messaging.jpg?crop=67px%2C84px%2C1733px%2C976px&resize=1600%2C900' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tory Lanez music, videos, stats, and photos | Last.fm">
+                                <img itemprop="contentUrl url" src='https://lastfm.freetls.fastly.net/i/u/ar0/e819a2cc0d974d8fc155b08f8029b62d.jpg' alt='Tory Lanez music, videos, stats, and photos | Last.fm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Last.fm" />
+                                </span>
+                                <a href='https://lastfm.freetls.fastly.net/i/u/ar0/e819a2cc0d974d8fc155b08f8029b62d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stream Tory Lanez music | Listen to songs, albums, playlists for ...">
+                                <img itemprop="contentUrl url" src='https://i1.sndcdn.com/avatars-zw9t81jJB4EGM7ZL-yNLWjA-t1080x1080.jpg' alt='Stream Tory Lanez music | Listen to songs, albums, playlists for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SoundCloud" />
+                                </span>
+                                <a href='https://i1.sndcdn.com/avatars-zw9t81jJB4EGM7ZL-yNLWjA-t1080x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

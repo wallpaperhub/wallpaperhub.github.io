@@ -1,0 +1,129 @@
+<title>Eagle Scout Clip Art: Achieve and Inspire</title>
+                    <meta name="description" content="Explore our collection of Eagle Scout clip art, perfect for projects, invitations, or personal use. High-quality graphics celebrate accomplishment and adventure. Download today to elevate your Eagle Scout events and creations!">
+                    <meta name="keywords" content="eagle scout clip art">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/eagle-scout-clip-art">
+                            <span itemprop="name">eagle scout clip art</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Eagle Scout Clip Art: Achieve and Inspire</h1>
+                <p>Discover a variety of eagle scout clip art that captures the spirit of achievement and adventure. Perfect for invitations, scrapbooking, or educational projects, our high-quality graphics showcase eagles, badges, and scout emblems. Easily accessible, these designs will inspire and enhance your Eagle Scout celebrations.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="USSSP - Clipart & Library">
+                                <img itemprop="contentUrl url" src='http://clipart.usscouts.org/library/BSA_Boy_Scout_Ranks/Eagle_Scout/eagle_badge_clip_color.gif' alt='USSSP - Clipart & Library'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="328">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USSSP - Clipart & Library" />
+                                </span>
+                                <a href='http://clipart.usscouts.org/library/BSA_Boy_Scout_Ranks/Eagle_Scout/eagle_badge_clip_color.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="USSSP - Clipart & Library">
+                                <img itemprop="contentUrl url" src='http://clipart.usscouts.org/library/BSA_Boy_Scout_Ranks/Eagle_Scout/eagle_medal_large_bw.gif' alt='USSSP - Clipart & Library'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="544">
+                                <meta itemprop="height" content="1214">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USSSP - Clipart & Library" />
+                                </span>
+                                <a href='http://clipart.usscouts.org/library/BSA_Boy_Scout_Ranks/Eagle_Scout/eagle_medal_large_bw.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="USSSP - Clipart & Library">
+                                <img itemprop="contentUrl url" src='http://clipart.usscouts.org/library/BSA_Boy_Scout_Ranks/Eagle_Scout/eagle_badge_clip_bw.gif' alt='USSSP - Clipart & Library'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="574">
+                                <meta itemprop="height" content="705">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USSSP - Clipart & Library" />
+                                </span>
+                                <a href='http://clipart.usscouts.org/library/BSA_Boy_Scout_Ranks/Eagle_Scout/eagle_badge_clip_bw.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="USSSP - Clipart & Library">
+                                <img itemprop="contentUrl url" src='http://clipart.usscouts.org/library/BSA_Boy_Scout_Ranks/Eagle_Scout/eagle_badge_rank_color.gif' alt='USSSP - Clipart & Library'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="624">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USSSP - Clipart & Library" />
+                                </span>
+                                <a href='http://clipart.usscouts.org/library/BSA_Boy_Scout_Ranks/Eagle_Scout/eagle_badge_rank_color.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Large Eagle Scout Badge and Medal Image for Presentations">
+                                <img itemprop="contentUrl url" src='https://www.sageventure.com/eagle/copy/copy_medal.jpg' alt='Large Eagle Scout Badge and Medal Image for Presentations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="222">
+                                <meta itemprop="height" content="538">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SageVenture.com" />
+                                </span>
+                                <a href='https://www.sageventure.com/eagle/copy/copy_medal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eagle Scout Emblem - Eagle Scout Emblem of Boy Scouts of America ...">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180804/lzg/afd7570722317d564197ac7010ed45ec.webp' alt='Eagle Scout Emblem - Eagle Scout Emblem of Boy Scouts of America ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="780">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180804/lzg/afd7570722317d564197ac7010ed45ec.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free: Eagle Scout Vector graphics Scouting Clip art Badge - - nohat.cc">
+                                <img itemprop="contentUrl url" src='https://gimgs2.nohat.cc/thumb/f/350/scouting-in-the-united-states-boy-scouts-of-america-scouting-in-the-united-states-scout-promise-scout--6516799361253376.jpg' alt='Free: Eagle Scout Vector graphics Scouting Clip art Badge - - nohat.cc'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nohat" />
+                                </span>
+                                <a href='https://gimgs2.nohat.cc/thumb/f/350/scouting-in-the-united-states-boy-scouts-of-america-scouting-in-the-united-states-scout-promise-scout--6516799361253376.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="USSSP - Clipart & Library">
+                                <img itemprop="contentUrl url" src='http://clipart.usscouts.org/library/BSA_Boy_Scout_Ranks/Eagle_Scout/eagle_scout_award_color.gif' alt='USSSP - Clipart & Library'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="594">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USSSP - Clipart & Library" />
+                                </span>
+                                <a href='http://clipart.usscouts.org/library/BSA_Boy_Scout_Ranks/Eagle_Scout/eagle_scout_award_color.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="35 Eagle Scout Court of Honor ideas | eagle scout, scout, eagle ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/d9/44/2f/d9442f29270f16b16177372b3c94e9bb.jpg' alt='35 Eagle Scout Court of Honor ideas | eagle scout, scout, eagle ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="491">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/d9/44/2f/d9442f29270f16b16177372b3c94e9bb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eagle Scouts | Eagle scout project ideas, Eagle scout, Scout">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/01/8f/a7/018fa73e401780d238477f8468f7f703.jpg' alt='Eagle Scouts | Eagle scout project ideas, Eagle scout, Scout'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="515">
+                                <meta itemprop="height" content="338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/01/8f/a7/018fa73e401780d238477f8468f7f703.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

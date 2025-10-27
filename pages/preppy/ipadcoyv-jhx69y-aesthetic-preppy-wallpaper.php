@@ -1,0 +1,129 @@
+<title>Aesthetic Preppy iPad Wallpaper Collection</title>
+                    <meta name="description" content="Discover a stunning collection of aesthetic preppy wallpapers for your iPad. Perfect for those who love classy designs, our selection boasts trendy colors and patterns to personalize your device. Elevate your iPad's aesthetic with wallpapers that reflect your unique style and personality!">
+                    <meta name="keywords" content="ipad:coyv-jhx69y= aesthetic preppy wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy">
+                            <span itemprop="name">Preppy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy/ipadcoyv-jhx69y-aesthetic-preppy-wallpaper">
+                            <span itemprop="name">ipad:coyv-jhx69y= aesthetic preppy wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Preppy iPad Wallpaper Collection</h1>
+                <p>Transform your iPad's look with aesthetic preppy wallpapers that exude charm and sophistication. Whether you're into pastel colors, classic patterns, or trendy designs, these wallpapers are perfect for adding a touch of elegance. Browse a collection that will elevate your device and showcase your unique style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy wallpaper!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/09/2e/bc/092ebc413b0e20432e43a5c5dc87e4e0.jpg' alt='Preppy wallpaper!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="544">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/09/2e/bc/092ebc413b0e20432e43a5c5dc87e4e0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Ipad Preppy Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/preppy-aesthetic-collage-g8wsaxr98ogqr05x.jpg' alt='100+] Ipad Preppy Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/preppy-aesthetic-collage-g8wsaxr98ogqr05x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Wallpaper for iPad - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/31814892/r/il/dfb4f5/5864777799/il_fullxfull.5864777799_6hab.jpg' alt='Preppy Wallpaper for iPad - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/31814892/r/il/dfb4f5/5864777799/il_fullxfull.5864777799_6hab.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Ipad Preppy Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/preppy-collage-aesthetic-wallpaper-i1nakwzhthxs3wbj.jpg' alt='100+] Ipad Preppy Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="822">
+                                <meta itemprop="height" content="1529">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/preppy-collage-aesthetic-wallpaper-i1nakwzhthxs3wbj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Ipad Wallpaper - NawPic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/a3/1d/d6/a31dd6f94505f303cb13db3b1c3930d4.jpg' alt='Preppy Ipad Wallpaper - NawPic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/a3/1d/d6/a31dd6f94505f303cb13db3b1c3930d4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy For iPad Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2b/9b/69/2b9b695511eb66202ffdbe98341bdd69.jpg' alt='Preppy For iPad Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2b/9b/69/2b9b695511eb66202ffdbe98341bdd69.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CUSTOM WALLPAPER! Preppy Glitter Varsity Patch Desktop Wallpaper Aesthetic  Trendy Artsy Colorful Collage Bright Happy Monogram Pink Blue - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/33981161/r/il/b64b8d/3651348567/il_1080xN.3651348567_ihyy.jpg' alt='CUSTOM WALLPAPER! Preppy Glitter Varsity Patch Desktop Wallpaper Aesthetic  Trendy Artsy Colorful Collage Bright Happy Monogram Pink Blue - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="764">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/33981161/r/il/b64b8d/3651348567/il_1080xN.3651348567_ihyy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Edgy Cute Aesthetic Wallpapers 2021 | Preppy wallpaper, Cute ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b7/ee/6e/b7ee6e869e5b056d39d90f512a8170f0.jpg' alt='Edgy Cute Aesthetic Wallpapers 2021 | Preppy wallpaper, Cute ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b7/ee/6e/b7ee6e869e5b056d39d90f512a8170f0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy iPad Aesthetic Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11235404.jpg' alt='Preppy iPad Aesthetic Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="749">
+                                <meta itemprop="height" content="1060">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11235404.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PREPPY WALLPAPER for IPAD, Cherry Coquette Bow Checkered Aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17725108/r/il/afeee1/6221369078/il_fullxfull.6221369078_eksj.jpg' alt='PREPPY WALLPAPER for IPAD, Cherry Coquette Bow Checkered Aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17725108/r/il/afeee1/6221369078/il_fullxfull.6221369078_eksj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

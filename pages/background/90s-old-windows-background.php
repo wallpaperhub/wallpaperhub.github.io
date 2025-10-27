@@ -1,0 +1,129 @@
+<title>Nostalgic Windows Backgrounds of the 90s</title>
+                    <meta name="description" content="Explore the iconic Windows backgrounds of the 90s that defined an era. From serene landscapes to abstract designs, these wallpapers evoke nostalgia and a sense of creativity, perfect for any retro enthusiast. Discover the charm of vintage computing aesthetics!">
+                    <meta name="keywords" content="90's old windows background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/90s-old-windows-background">
+                            <span itemprop="name">90's old windows background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Nostalgic Windows Backgrounds of the 90s</h1>
+                <p>The 90s saw the rise of iconic Windows backgrounds, from the famous blue sky and green hills to abstract patterns and pixel art. These vibrant wallpapers defined the era's computing experience, reflecting both nostalgia and a simpler digital age. Each design evoked a sense of personality and creativity on every desktop.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Story behind the Famous Windows XP Desktop Background | Artsy">
+                                <img itemprop="contentUrl url" src='https://d7hftxdivxxvm.cloudfront.net/?quality=80&resize_to=width&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2F2RNK1P0BYVrSCZEy_Sd1Ew%252F3417757448_4a6bdf36ce_o.jpg&width=910' alt='The Story behind the Famous Windows XP Desktop Background | Artsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="910">
+                                <meta itemprop="height" content="732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Artsy" />
+                                </span>
+                                <a href='https://d7hftxdivxxvm.cloudfront.net/?quality=80&resize_to=width&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2F2RNK1P0BYVrSCZEy_Sd1Ew%252F3417757448_4a6bdf36ce_o.jpg&width=910' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Story behind the Famous Windows XP Desktop Background | Artsy">
+                                <img itemprop="contentUrl url" src='https://d7hftxdivxxvm.cloudfront.net/?quality=80&resize_to=width&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2F1E2blfmrxuSPUH-2oc08gw%252F14273043642_d63ded6c05_o%2B%25281%2529.png&width=910' alt='The Story behind the Famous Windows XP Desktop Background | Artsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="910">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Artsy" />
+                                </span>
+                                <a href='https://d7hftxdivxxvm.cloudfront.net/?quality=80&resize_to=width&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2F1E2blfmrxuSPUH-2oc08gw%252F14273043642_d63ded6c05_o%2B%25281%2529.png&width=910' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Computer, 90s, Microsoft Windows, Vintage - Wallpaperforu">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f7/f2/d7/f7f2d7f734328f1261473552c0057961.jpg' alt='Wallpaper Computer, 90s, Microsoft Windows, Vintage - Wallpaperforu'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f7/f2/d7/f7f2d7f734328f1261473552c0057961.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Old Windows Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/old-windows-af07vukszlj6l7zi.jpg' alt='100+] Old Windows Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1680">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/old-windows-af07vukszlj6l7zi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Experience the Iconic Operating System of the 90s ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/windows-98-hbg3kj5b70ibnpff.jpg' alt='Download Experience the Iconic Operating System of the 90s ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/windows-98-hbg3kj5b70ibnpff.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="28 Images Of Computers You'll Only Recognize If You Grew Up In The ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/8c/f2/2a/8cf22a6857e94589a812ea6aacecca47.jpg' alt='28 Images Of Computers You'll Only Recognize If You Grew Up In The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/8c/f2/2a/8cf22a6857e94589a812ea6aacecca47.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Was tired of looking for a highres windows 95 wallpaper so I made ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/zge85fc9j0g11.jpg?auto=webp&s=2be29a2bf6ce4e377f11c25a27429546d726f6cd' alt='Was tired of looking for a highres windows 95 wallpaper so I made ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/zge85fc9j0g11.jpg?auto=webp&s=2be29a2bf6ce4e377f11c25a27429546d726f6cd' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract vaporwave aesthetics computer windows background with 90s ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2AT7N3G/abstract-vaporwave-aesthetics-computer-windows-background-with-90s-style-system-message-window-and-checkered-floor-covered-with-pink-and-blue-mist-2AT7N3G.jpg' alt='Abstract vaporwave aesthetics computer windows background with 90s ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="870">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2AT7N3G/abstract-vaporwave-aesthetics-computer-windows-background-with-90s-style-system-message-window-and-checkered-floor-covered-with-pink-and-blue-mist-2AT7N3G.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10,100+ Old Windows Backgrounds Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1971234484/vector/retro-user-interface-elements-90s-style-90s-retro-user-interface-elements.jpg?s=612x612&w=0&k=20&c=Dn0mlB9pvQqhyhlmrvVjk3OO_aRafw2jXekaSPudVO8=' alt='10,100+ Old Windows Backgrounds Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="341">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1971234484/vector/retro-user-interface-elements-90s-style-90s-retro-user-interface-elements.jpg?s=612x612&w=0&k=20&c=Dn0mlB9pvQqhyhlmrvVjk3OO_aRafw2jXekaSPudVO8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Vintage Charm: Old Windows Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/old-windows-ik1299xsln6uxwmp.jpg' alt='Download Vintage Charm: Old Windows Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/old-windows-ik1299xsln6uxwmp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

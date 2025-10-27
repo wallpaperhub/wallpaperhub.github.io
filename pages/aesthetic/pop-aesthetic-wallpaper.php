@@ -1,0 +1,129 @@
+<title>Vibrant Pop Aesthetic Wallpapers for Every Screen</title>
+                    <meta name="description" content="Discover trendy pop aesthetic wallpapers that transform your screens with vibrant colors and retro designs. Ideal for self-expression, these wallpapers bring a cheerful vibe to your mobile and desktop backgrounds. Explore and find the perfect match for your style!">
+                    <meta name="keywords" content="pop aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/pop-aesthetic-wallpaper">
+                            <span itemprop="name">pop aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Pop Aesthetic Wallpapers for Every Screen</h1>
+                <p>Enhance your digital space with pop aesthetic wallpaper! Bursting with vibrant colors and retro-inspired designs, these wallpapers bring a fun and lively atmosphere to your screen. Perfect for those who crave a nostalgic vibe, pop aesthetic wallpapers allow self-expression while brightening your phone or computer background.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pop Art Wallpapers (64 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/e/4/f/86176-1080x2042-samsung-hd-pop-art-wallpaper-image.jpg' alt='Pop Art Wallpapers (64 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2042">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/e/4/f/86176-1080x2042-samsung-hd-pop-art-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="230 Best Pop art wallpaper ideas | pop art, pop art wallpaper, pop ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/ef/d5/29/efd5298ae359da4801b7c2931a1d0bd1.jpg' alt='230 Best Pop art wallpaper ideas | pop art, pop art wallpaper, pop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="305">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/ef/d5/29/efd5298ae359da4801b7c2931a1d0bd1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Citypop aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f5/a5/ff/f5a5ff2d77a7e24aee035fc6c0157092.jpg' alt='Citypop aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f5/a5/ff/f5a5ff2d77a7e24aee035fc6c0157092.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lollipop Pop Art Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/lollipop-pop-art-vpjac6vxz8ks2u2z.jpg' alt='Lollipop Pop Art Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1168">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/lollipop-pop-art-vpjac6vxz8ks2u2z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Pop Art Aesthetic Girl Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pink-pop-art-aesthetic-girl-a9o0lehv7pkbce77.jpg' alt='Pink Pop Art Aesthetic Girl Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pink-pop-art-aesthetic-girl-a9o0lehv7pkbce77.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A vibrantly colored and abstract take on the traditional ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pop-art-background-empf3kx4bqwh467b.jpg' alt='Download A vibrantly colored and abstract take on the traditional ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pop-art-background-empf3kx4bqwh467b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Made A City Pop Aesthetic Design : r/citypop">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/yjl9eza6xsv51.png?auto=webp&s=f2afbf5d9b3e968c9de17aa9e68982374b880161' alt='I Made A City Pop Aesthetic Design : r/citypop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="3200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/yjl9eza6xsv51.png?auto=webp&s=f2afbf5d9b3e968c9de17aa9e68982374b880161' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11 amazing aesthetic phone wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/da/e9/e7/dae9e79e35c64d62c83b15913753c423.jpg' alt='11 amazing aesthetic phone wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/da/e9/e7/dae9e79e35c64d62c83b15913753c423.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 Comme Des Gracons Wallpapers for All Devices : Playful Pop Art ...">
+                                <img itemprop="contentUrl url" src='https://www.fabmood.com/wp-content/uploads/2023/08/comme-des-garcons-13.jpg' alt='20 Comme Des Gracons Wallpapers for All Devices : Playful Pop Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fab Mood" />
+                                </span>
+                                <a href='https://www.fabmood.com/wp-content/uploads/2023/08/comme-des-garcons-13.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Popit Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/fantastic-purple-pop-it-background-rbn9mi3t90p39jwu.jpg' alt='100+] Popit Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/fantastic-purple-pop-it-background-rbn9mi3t90p39jwu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

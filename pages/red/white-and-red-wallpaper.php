@@ -1,0 +1,129 @@
+<title>Elevate Your Space with White and Red Wallpaper</title>
+                    <meta name="description" content="Discover the perfect blend of style and vibrancy with white and red wallpaper. Transform any room with bold patterns that energize your decor, creating an inviting atmosphere. Explore our collection to find the ideal designs for your home!">
+                    <meta name="keywords" content="white and red wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red">
+                            <span itemprop="name">Red</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red/white-and-red-wallpaper">
+                            <span itemprop="name">white and red wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Space with White and Red Wallpaper</h1>
+                <p>White and red wallpaper creates a striking visual contrast that can energize any space. Ideal for both modern and traditional interiors, this dynamic combination adds depth and warmth. Whether in a bedroom, living room, or office, such wallpaper patterns enhance aesthetics, offering a bold statement or subtle charm, depending on your choice.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300+] Red And White Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/red-and-white-background-fiz6a761rqvywafe.jpg' alt='300+] Red And White Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/red-and-white-background-fiz6a761rqvywafe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VEHELLA left red over white.">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/83/2e/3a/832e3a4bfed1a6703514e1afe3444d60.jpg' alt='VEHELLA left red over white.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/83/2e/3a/832e3a4bfed1a6703514e1afe3444d60.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red And White X-shape White Background Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/red-and-white-x-shape-white-background-b4c63dbl6i2xtz9o.jpg' alt='Red And White X-shape White Background Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/red-and-white-x-shape-white-background-b4c63dbl6i2xtz9o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White And Red Waves Red Aesthetic, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/214/775/HD-wallpaper-white-and-red-waves-red-aesthetic.jpg' alt='White And Red Waves Red Aesthetic, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/214/775/HD-wallpaper-white-and-red-waves-red-aesthetic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red, white & black iphone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/92/3b/70/923b70f3a1136768399b54196ad4afec.jpg' alt='Red, white & black iphone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/92/3b/70/923b70f3a1136768399b54196ad4afec.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black, Red And White Sharp Abstract Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/black-red-and-white-sharp-abstract-i0r3givqk1g4ca6l.jpg' alt='Black, Red And White Sharp Abstract Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1083">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/black-red-and-white-sharp-abstract-i0r3givqk1g4ca6l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red White Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20240104/pngtree-abstract-background-with-overlapping-layers-and-textured-dots-in-white-and-image_13883664.png' alt='Red White Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="359">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20240104/pngtree-abstract-background-with-overlapping-layers-and-textured-dots-in-white-and-image_13883664.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Textile Texture Background With Red Flower Watercolor ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/wp/202344/white-textile-texture-background-with-red-flower-watercolor-perfect-for-wallpaper-and-summer-designs_9938834.jpg!sw800' alt='White Textile Texture Background With Red Flower Watercolor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/wp/202344/white-textile-texture-background-with-red-flower-watercolor-perfect-for-wallpaper-and-summer-designs_9938834.jpg!sw800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red White Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/red-curve-gray-background-vector_53876-165845.jpg' alt='Red White Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/red-curve-gray-background-vector_53876-165845.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red and white, colors, red, white, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/1002/21/HD-wallpaper-red-and-white-colors-red-white.jpg' alt='Red and white, colors, red, white, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/1002/21/HD-wallpaper-red-and-white-colors-red-white.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

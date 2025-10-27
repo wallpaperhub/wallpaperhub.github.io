@@ -1,0 +1,129 @@
+<title>Stunning Thorn Backgrounds: Nature's Elegance and Edge</title>
+                    <meta name="description" content="Discover the beauty and symbolism of thorn backgrounds. Perfect for artists and designers, these striking elements combine elegance and resilience, enhancing your visual projects. Explore various styles and uses to elevate your creative work with captivating thorn-themed designs.">
+                    <meta name="keywords" content="thorn background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/thorn-background">
+                            <span itemprop="name">thorn background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Thorn Backgrounds: Nature's Elegance and Edge</h1>
+                <p>Thorn backgrounds are captivating elements often found in nature and design. They symbolize protection and resilience, adding depth to artistic compositions. Whether in floral motifs or digital art, thorns evoke a sense of beauty intertwined with danger, creating a striking contrast. Explore how thorn backgrounds can enhance your visual storytelling.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thorn Images – Browse 1,266,710 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/22/52/80/360_F_522528034_o9niIqTzQ98SgJSehCjGib0WMdA2BlFz.jpg' alt='Thorn Images – Browse 1,266,710 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="514">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/22/52/80/360_F_522528034_o9niIqTzQ98SgJSehCjGib0WMdA2BlFz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50,000+ Thorns Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1609752749778-c7200f6bbaec?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8dGhvcm5zfGVufDB8fDB8fHww' alt='50,000+ Thorns Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1609752749778-c7200f6bbaec?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8dGhvcm5zfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thorns Wallpaper Royalty-Free Images, Stock Photos & Pictures ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2050816346/display_1500/stock-vector-hand-drawn-vector-seamless-black-and-white-pattern-of-tangled-vertical-briar-patch-with-stems-and-2050816346.jpg' alt='Thorns Wallpaper Royalty-Free Images, Stock Photos & Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2050816346/display_1500/stock-vector-hand-drawn-vector-seamless-black-and-white-pattern-of-tangled-vertical-briar-patch-with-stems-and-2050816346.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11,300+ Thorn Backgrounds Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1032076490/vector/horror-art-style-horrible-seamless-pattern-vector-background-blackthorn-branches-with-thorns.jpg?s=612x612&w=0&k=20&c=9Dynhl0IO2yS7MLpDuCCMsyDr3pe-QJxRQI6TJmZaLI=' alt='11,300+ Thorn Backgrounds Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1032076490/vector/horror-art-style-horrible-seamless-pattern-vector-background-blackthorn-branches-with-thorns.jpg?s=612x612&w=0&k=20&c=9Dynhl0IO2yS7MLpDuCCMsyDr3pe-QJxRQI6TJmZaLI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Roses And Thorns Border Frame Png Background Free (Nature-Grass ...">
+                                <img itemprop="contentUrl url" src='http://www.textures4photoshop.com/tex/thumbs/roses-and-thorns-border-frame-PNG-background-free-thumb49.png' alt='Roses And Thorns Border Frame Png Background Free (Nature-Grass ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Textures4Photoshop" />
+                                </span>
+                                <a href='http://www.textures4photoshop.com/tex/thumbs/roses-and-thorns-border-frame-PNG-background-free-thumb49.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thorn Wallpaper: Over 15,091 Royalty-Free Licensable Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/seamless-pattern-branches-thorns-vector-260nw-440113093.jpg' alt='Thorn Wallpaper: Over 15,091 Royalty-Free Licensable Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="437">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/seamless-pattern-branches-thorns-vector-260nw-440113093.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thorns Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/thorny-hedge-natural-background_1401-366.jpg' alt='Thorns Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/thorny-hedge-natural-background_1401-366.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thorn Background Stock Photo, Picture and Royalty Free Image ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/nsmastersky/nsmastersky1604/nsmastersky160400022/57889306-thorn-background.jpg' alt='Thorn Background Stock Photo, Picture and Royalty Free Image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="866">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/nsmastersky/nsmastersky1604/nsmastersky160400022/57889306-thorn-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Horror style horrible seamless pattern, vector background ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/03/64/70/72/1000_F_364707281_Gtd3QQQd6dqgowZyn81ugvBu06nXfjll.jpg' alt='Horror style horrible seamless pattern, vector background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/03/64/70/72/1000_F_364707281_Gtd3QQQd6dqgowZyn81ugvBu06nXfjll.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thorns Black Background Royalty-Free Images, Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/hand-drawn-vector-seamless-black-260nw-2127687089.jpg' alt='Thorns Black Background Royalty-Free Images, Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="373">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/hand-drawn-vector-seamless-black-260nw-2127687089.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

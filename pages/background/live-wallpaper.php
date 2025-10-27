@@ -1,0 +1,129 @@
+<title>Stunning Live Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover the world of live wallpapers! Transform your device's screen with mesmerizing animations and beautiful visuals that express your personality. Explore a vast collection of themes and styles to find the perfect match for your device. Download now and elevate your mobile experience!">
+                    <meta name="keywords" content="live wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/live-wallpaper">
+                            <span itemprop="name">live wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Live Wallpapers for Your Device</h1>
+                <p>Live wallpapers are dynamic backgrounds that bring your device to life with stunning visuals and animations. Perfect for enhancing your smartphone or tablet, they offer a unique way to personalize your screen. From nature scenes to abstract designs, live wallpapers can create an immersive experience and reflect your style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live Wallpaper Videos, Download The BEST Free 4k Stock Video ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/videos/9669111/abstract-background-blue-cg-9669111.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' alt='Live Wallpaper Videos, Download The BEST Free 4k Stock Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="889">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/videos/9669111/abstract-background-blue-cg-9669111.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Games Live Wallpapers | Animated backgrounds from popular video games">
+                                <img itemprop="contentUrl url" src='https://wallsflow.com/uploads/posts/2024-12/6160d08d9b_chill-rain-lo-fi-live-wallpaper.webp' alt='Games Live Wallpapers | Animated backgrounds from popular video games'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsflow" />
+                                </span>
+                                <a href='https://wallsflow.com/uploads/posts/2024-12/6160d08d9b_chill-rain-lo-fi-live-wallpaper.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live Moving Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/51/78/89/517889af43caedc8f1bae1ce7ba1f6d4.jpg' alt='Live Moving Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/51/78/89/517889af43caedc8f1bae1ce7ba1f6d4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live Wallpapers on WallpaperDog">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/ba/40/89/ba4089fce9085cba83987fac7bfe84c4.gif' alt='Live Wallpapers on WallpaperDog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/ba/40/89/ba4089fce9085cba83987fac7bfe84c4.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Electricity | LIVE Wallpaper - Wallpapers Central">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2021/07/2C6CD836-0404-4DC8-9285-6F2E0A0269F3.MOV-00m01s69-A38FFC16-BDA5-4888-99D1-F2FAA18EB6F5-474x1024.jpg' alt='Electricity | LIVE Wallpaper - Wallpapers Central'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Central - iSpazio" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2021/07/2C6CD836-0404-4DC8-9285-6F2E0A0269F3.MOV-00m01s69-A38FFC16-BDA5-4888-99D1-F2FAA18EB6F5-474x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunset, Palm Trees, Road">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/video/2020/10/05/51587-465226632_tiny.jpg' alt='Sunset, Palm Trees, Road'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/video/2020/10/05/51587-465226632_tiny.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moving Bubbles | LIVE Wallpaper - Wallpapers Central">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2021/03/1F1C1874-E317-4AA2-AB42-E740EE36C061.MOV-00m03s00-A7E95ADD-8671-41C5-BEC1-8A9FDF3095DF-768x1659.jpg' alt='Moving Bubbles | LIVE Wallpaper - Wallpapers Central'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1659">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Central - iSpazio" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2021/03/1F1C1874-E317-4AA2-AB42-E740EE36C061.MOV-00m03s00-A7E95ADD-8671-41C5-BEC1-8A9FDF3095DF-768x1659.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6790+ Live Wallpapers 4K - Free Animated Wallpapers for PC">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/i/c/364x205/media/1194/vegeta-ultra-ego.jpg' alt='6790+ Live Wallpapers 4K - Free Animated Wallpapers for PC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="364">
+                                <meta itemprop="height" content="205">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="motionbgs.com" />
+                                </span>
+                                <a href='https://motionbgs.com/i/c/364x205/media/1194/vegeta-ultra-ego.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to use animated wallpapers on Windows 11">
+                                <img itemprop="contentUrl url" src='https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2024/05/lively-wallpaper-2.png' alt='How to use animated wallpapers on Windows 11'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3120">
+                                <meta itemprop="height" content="2080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="XDA Developers" />
+                                </span>
+                                <a href='https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2024/05/lively-wallpaper-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="live wallpaper pc 4k free download | pink blue neon background video">
+                                <img itemprop="contentUrl url" src='https://1a-1791.com/video/s8/1/U/q/H/B/UqHBi.JQ4e-small-live-wallpaper-pc-4k-free-d.jpg' alt='live wallpaper pc 4k free download | pink blue neon background video'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rumble" />
+                                </span>
+                                <a href='https://1a-1791.com/video/s8/1/U/q/H/B/UqHBi.JQ4e-small-live-wallpaper-pc-4k-free-d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

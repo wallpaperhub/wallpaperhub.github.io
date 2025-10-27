@@ -1,0 +1,129 @@
+<title>Discover the Fascinating History of Polaris</title>
+                    <meta name="description" content="Explore the captivating history of Polaris, the North Star, a celestial guide for navigators through the ages. Learn about its significance in various cultures and why it remains a symbol of guidance and hope today. Perfect for astronomy enthusiasts and history buffs alike!">
+                    <meta name="keywords" content="polaris history">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/polaris-history">
+                            <span itemprop="name">polaris history</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Fascinating History of Polaris</h1>
+                <p>Polaris has a rich history that dates back to ancient civilizations. Revered as the North Star, it has guided explorers and navigators for centuries. Its significance spans cultures, playing a vital role in navigation and folklore. The star remains a symbol of constancy and hope in the night sky, steering travelers towards their destinations.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History Timeline | Polaris">
+                                <img itemprop="contentUrl url" src='https://cdn1.polaris.com/globalassets/crp/2019/history-timeline/timeline/1954-xxs.jpg?v=65e893a3' alt='History Timeline | Polaris'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="479">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Polaris" />
+                                </span>
+                                <a href='https://cdn1.polaris.com/globalassets/crp/2019/history-timeline/timeline/1954-xxs.jpg?v=65e893a3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History Timeline | Polaris">
+                                <img itemprop="contentUrl url" src='https://cdn1.polaris.com/globalassets/crp/2019/history-timeline/timeline/1968-xxs.jpg?v=666993ed' alt='History Timeline | Polaris'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="479">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Polaris" />
+                                </span>
+                                <a href='https://cdn1.polaris.com/globalassets/crp/2019/history-timeline/timeline/1968-xxs.jpg?v=666993ed' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Polaris How it all began in 1954 - The Story of a Company in the ...">
+                                <img itemprop="contentUrl url" src='https://goroseau.com/wp-content/uploads/2023/12/image_123650291-1-1024x762.jpg' alt='Polaris How it all began in 1954 - The Story of a Company in the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="762">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Go Roseau" />
+                                </span>
+                                <a href='https://goroseau.com/wp-content/uploads/2023/12/image_123650291-1-1024x762.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History Timeline | Polaris">
+                                <img itemprop="contentUrl url" src='https://cdn1.polaris.com/globalassets/crp/2019/history-timeline/hero/history-timeline-hero-xxs.jpg?v=65f629f1' alt='History Timeline | Polaris'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="479">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Polaris" />
+                                </span>
+                                <a href='https://cdn1.polaris.com/globalassets/crp/2019/history-timeline/hero/history-timeline-hero-xxs.jpg?v=65f629f1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Polaris Snowmobiles | MNopedia">
+                                <img itemprop="contentUrl url" src='https://www.mnopedia.org/sites/default/files/styles/article_main/public/TL234_ad_2.jpg?itok=59x0Xal6' alt='Polaris Snowmobiles | MNopedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="323">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MNopedia" />
+                                </span>
+                                <a href='https://www.mnopedia.org/sites/default/files/styles/article_main/public/TL234_ad_2.jpg?itok=59x0Xal6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Polaris History | Roseau Where It All Began">
+                                <img itemprop="contentUrl url" src='https://goroseau.com/wp-content/uploads/2023/09/IMG_5859.jpeg' alt='Polaris History | Roseau Where It All Began'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="615">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Go Roseau" />
+                                </span>
+                                <a href='https://goroseau.com/wp-content/uploads/2023/09/IMG_5859.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Polaris | race-deZert">
+                                <img itemprop="contentUrl url" src='https://cdn3.race-dezert.com/forum/data/attachment-files/2023/07/425423.IMG_1783.jpeg' alt='The History of Polaris | race-deZert'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1068">
+                                <meta itemprop="height" content="1175">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="race-deZert" />
+                                </span>
+                                <a href='https://cdn3.race-dezert.com/forum/data/attachment-files/2023/07/425423.IMG_1783.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Polaris Inc. - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Polaris_snowmobile_1965.JPG/220px-Polaris_snowmobile_1965.JPG' alt='Polaris Inc. - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="143">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Polaris_snowmobile_1965.JPG/220px-Polaris_snowmobile_1965.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of the Snowmobile – Polaris Industries • NH Snowmobile ...">
+                                <img itemprop="contentUrl url" src='https://slednh.com/wp-content/uploads/2024/01/History-of-the-Snowmobile-Polaris-Industries.jpg' alt='History of the Snowmobile – Polaris Industries • NH Snowmobile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1140">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="slednh.com" />
+                                </span>
+                                <a href='https://slednh.com/wp-content/uploads/2024/01/History-of-the-Snowmobile-Polaris-Industries.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Polaris | race-deZert">
+                                <img itemprop="contentUrl url" src='https://cdn3.race-dezert.com/forum/data/attachment-files/2023/07/425418.IMG_1775.jpeg' alt='The History of Polaris | race-deZert'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1040">
+                                <meta itemprop="height" content="692">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="race-deZert" />
+                                </span>
+                                <a href='https://cdn3.race-dezert.com/forum/data/attachment-files/2023/07/425418.IMG_1775.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

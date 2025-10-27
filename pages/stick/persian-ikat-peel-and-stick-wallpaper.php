@@ -1,0 +1,129 @@
+<title>Persian Ikat Peel and Stick Wallpaper: Transform Your Space</title>
+                    <meta name="description" content="Add timeless beauty to your home with Persian Ikat peel and stick wallpaper. Ideal for any room, it offers easy application and removal, making it perfect for quick makeovers. Elevate your decor with vibrant patterns that blend tradition and modern style effortlessly!">
+                    <meta name="keywords" content="persian ikat peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/persian-ikat-peel-and-stick-wallpaper">
+                            <span itemprop="name">persian ikat peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Persian Ikat Peel and Stick Wallpaper: Transform Your Space</h1>
+                <p>Transform your space with Persian Ikat peel and stick wallpaper! This stunning, intricate design combines traditional elegance with modern convenience. Easy to apply and reposition, it’s perfect for renters or those looking to refresh their decor without commitment. Enjoy a burst of color and creativity in just minutes!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RoomMates RMK12371PL Black Persian Ikat Peel and Stick Wallpaper, 20.5 in x  18 ft - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/A1mBx+lurHL.jpg' alt='RoomMates RMK12371PL Black Persian Ikat Peel and Stick Wallpaper, 20.5 in x  18 ft - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/A1mBx+lurHL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Persian Ikat Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.yorkwallcoverings.com/cdn/shop/products/RMK11769RL_RS1.jpg?v=1703803749&width=2400' alt='Persian Ikat Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="York Wallcoverings" />
+                                </span>
+                                <a href='https://www.yorkwallcoverings.com/cdn/shop/products/RMK11769RL_RS1.jpg?v=1703803749&width=2400' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Persian Ikat Peel & Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://roommatesdecor.com/cdn/shop/products/RMK12372PL_RS2ex.jpg?v=1662581863' alt='Persian Ikat Peel & Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RoomMates Decor" />
+                                </span>
+                                <a href='https://roommatesdecor.com/cdn/shop/products/RMK12372PL_RS2ex.jpg?v=1662581863' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RoomMates RMK12371PL Black Persian Ikat Peel and Stick Wallpaper, 20.5 in x  18 ft - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91Z4RViUPrL.jpg' alt='RoomMates RMK12371PL Black Persian Ikat Peel and Stick Wallpaper, 20.5 in x  18 ft - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91Z4RViUPrL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Persian Ikat Peel + Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://renovate-wallcoverings.myshopify.com/cdn/shop/products/RMK11769RL_RS2_1800x1800_302b5340-2ea4-4b04-85b1-eb6cdb04346a_1000x.jpg?v=1602550510' alt='Persian Ikat Peel + Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Renovate Wallcoverings" />
+                                </span>
+                                <a href='https://renovate-wallcoverings.myshopify.com/cdn/shop/products/RMK11769RL_RS2_1800x1800_302b5340-2ea4-4b04-85b1-eb6cdb04346a_1000x.jpg?v=1602550510' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Persian Ikat Black Peel & Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.burkedecor.com/cdn/shop/products/RMK12371PL_RS2_1800x1800.jpg?v=1664286741' alt='Persian Ikat Black Peel & Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Burke Decor" />
+                                </span>
+                                <a href='https://www.burkedecor.com/cdn/shop/products/RMK12371PL_RS2_1800x1800.jpg?v=1664286741' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RoomMates 30.75 sq. ft. Persian Ikat Blue Peel and Stick Wallpaper  RMK12372PL">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/6b4f02a3-810f-47e8-a50c-0391967afd35/svn/roommates-wallpaper-rolls-rmk12372pl-4f_600.jpg' alt='RoomMates 30.75 sq. ft. Persian Ikat Blue Peel and Stick Wallpaper  RMK12372PL'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/6b4f02a3-810f-47e8-a50c-0391967afd35/svn/roommates-wallpaper-rolls-rmk12372pl-4f_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Persian Ikat Peel & Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://roommatesdecor.com/cdn/shop/products/RMK12371PL_RS3ex.jpg?v=1670942736' alt='Persian Ikat Peel & Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RoomMates Decor" />
+                                </span>
+                                <a href='https://roommatesdecor.com/cdn/shop/products/RMK12371PL_RS3ex.jpg?v=1670942736' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RoomMates Persian Ikat Peel and Stick Wallpaper Black: Removable Vinyl,  Self-Adhesive, Abstract Pattern, 30.8 Sq Ft Coverage">
+                                <img itemprop="contentUrl url" src='https://target.scene7.com/is/image/Target/GUEST_d58275fa-8394-40b6-9697-9fe3a039103e?wid=300&hei=300&fmt=pjpeg' alt='RoomMates Persian Ikat Peel and Stick Wallpaper Black: Removable Vinyl,  Self-Adhesive, Abstract Pattern, 30.8 Sq Ft Coverage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Target" />
+                                </span>
+                                <a href='https://target.scene7.com/is/image/Target/GUEST_d58275fa-8394-40b6-9697-9fe3a039103e?wid=300&hei=300&fmt=pjpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pattern RMK12370PL Persian Ikat P & S Wallpaper from RoomMates ...">
+                                <img itemprop="contentUrl url" src='https://cdn.totalwallcovering.com/book/rmk11768rlrs2-l.jpg' alt='Pattern RMK12370PL Persian Ikat P & S Wallpaper from RoomMates ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Total Wallcovering" />
+                                </span>
+                                <a href='https://cdn.totalwallcovering.com/book/rmk11768rlrs2-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Beautiful Screen Wallpapers for Every Device</title>
+                    <meta name="description" content="Explore our collection of beautiful screen wallpapers designed to elevate your device's look. Choose from breathtaking landscapes, artistic designs, and more to reflect your style. Perfect for mobile and desktop users looking for inspiration and vibrant visuals to enhance their screens daily.">
+                    <meta name="keywords" content="beautiful screen wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/beautiful-screen-wallpaper">
+                            <span itemprop="name">beautiful screen wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Beautiful Screen Wallpapers for Every Device</h1>
+                <p>Transform your device with stunning screen wallpapers that inspire and captivate! From serene landscapes to vibrant abstract art, our collection features high-quality images perfect for every style. Discover the beauty of personalized visuals that brighten your day, enhance productivity, and reflect your unique personality.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful screen 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pretty-glittering-butterfly-lock-screen-rkrvqhgb3hu5tgrb.jpg' alt='Beautiful screen 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pretty-glittering-butterfly-lock-screen-rkrvqhgb3hu5tgrb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful screen 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/299/894/HD-wallpaper-beautiful-nature-butterflies-season-songs-trees.jpg' alt='Beautiful screen 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/299/894/HD-wallpaper-beautiful-nature-butterflies-season-songs-trees.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bright Love, beautiful, lock screen, night, well, valentine ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/99/590/HD-wallpaper-bright-love-beautiful-lock-screen-night-well-valentine-christmas-holiday.jpg' alt='Bright Love, beautiful, lock screen, night, well, valentine ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/99/590/HD-wallpaper-bright-love-beautiful-lock-screen-night-well-valentine-christmas-holiday.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink aqua floral leaves bokeh ocean sea view iphone phone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fc/07/43/fc07437c8734d3beee226bf87f812d19.jpg' alt='Pink aqua floral leaves bokeh ocean sea view iphone phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fc/07/43/fc07437c8734d3beee226bf87f812d19.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Natural Beauty Beautiful Home Screen Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/phone/images/640/natural-beauty.png' alt='Natural Beauty Beautiful Home Screen Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/phone/images/640/natural-beauty.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unlock The World With Phone Screen Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/unlock-the-world-with-phone-screen-qys2cp534mw7r94w.jpg' alt='Unlock The World With Phone Screen Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/unlock-the-world-with-phone-screen-qys2cp534mw7r94w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mobile phone - lock screen - desktop wallpaper - screen saver ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2E9335N/mobile-phone-lock-screen-desktop-wallpaper-screen-saver-beauty-plum-flowers-2E9335N.jpg' alt='Mobile phone - lock screen - desktop wallpaper - screen saver ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2E9335N/mobile-phone-lock-screen-desktop-wallpaper-screen-saver-beauty-plum-flowers-2E9335N.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Beautiful Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/beautiful-phone-3nqin4l713w5aiva.jpg' alt='100+] Beautiful Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/beautiful-phone-3nqin4l713w5aiva.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Free download Lock Screen Wallpaper For Girls Cute Girly HD ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/55/2c/7d/552c7d5d9b6f55083b079842401c45b8.jpg' alt='   Free download Lock Screen Wallpaper For Girls Cute Girly HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/55/2c/7d/552c7d5d9b6f55083b079842401c45b8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas, beautiful, blue, ross, home screen, event, holiday ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/644/1003/HD-wallpaper-christmas-beautiful-blue-ross-home-screen-event-holiday-luxury.jpg' alt='Christmas, beautiful, blue, ross, home screen, event, holiday ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/644/1003/HD-wallpaper-christmas-beautiful-blue-ross-home-screen-event-holiday-luxury.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

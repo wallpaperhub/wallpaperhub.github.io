@@ -1,0 +1,129 @@
+<title>Download Engaging News Intros for Your Broadcast</title>
+                    <meta name="description" content="Discover a range of customizable news intro downloads to enhance your broadcast. Our high-quality templates are designed to engage audiences and reflect your brand identity. Perfect for professionals seeking to make an impact from the start. Download now for compelling news presentations!">
+                    <meta name="keywords" content="news intro download">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/news-intro-download">
+                            <span itemprop="name">news intro download</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Download Engaging News Intros for Your Broadcast</h1>
+                <p>Are you looking to elevate your news presentation? Download high-quality news intro templates tailored for various formats. These customizable intros can help you deliver an engaging broadcast, setting the professional tone from the very start. Choose from a variety of styles to suit your brand identity and captivate your audience instantly!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Breaking News Intro - After Effects Templates | Motion Array">
+                                <img itemprop="contentUrl url" src='https://motionarray-portfolio.imgix.net/preview-251750-5x6HQ8LQup-high_0016.jpg?w=660&q=60&fit=max&auto=format' alt='Breaking News Intro - After Effects Templates | Motion Array'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Motion Array" />
+                                </span>
+                                <a href='https://motionarray-portfolio.imgix.net/preview-251750-5x6HQ8LQup-high_0016.jpg?w=660&q=60&fit=max&auto=format' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="News Intro (After Effects templates)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/_rxpDKhyhDo/maxresdefault.jpg' alt='News Intro (After Effects templates)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/_rxpDKhyhDo/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="News Intro ( After Effects Template ) @aetemplates">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/0speF0oUdjo/maxresdefault.jpg' alt='News Intro ( After Effects Template ) @aetemplates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/0speF0oUdjo/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="News Intro Templates - Envato">
+                                <img itemprop="contentUrl url" src='https://elements-resized.envatousercontent.com/elements-video-cover-images/files/401759590/preview.jpg?w=500&cf_fit=cover&q=85&format=auto&s=5ed55b3b4b0dea15e9f8fadaead281089f917e06a73f9d4f4fce8e88cf987a79' alt='News Intro Templates - Envato'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Envato" />
+                                </span>
+                                <a href='https://elements-resized.envatousercontent.com/elements-video-cover-images/files/401759590/preview.jpg?w=500&cf_fit=cover&q=85&format=auto&s=5ed55b3b4b0dea15e9f8fadaead281089f917e06a73f9d4f4fce8e88cf987a79' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Breaking News Intro Graphic">
+                                <img itemprop="contentUrl url" src='https://images.pond5.com/breaking-news-intro-graphic-111201990_prevstill.jpeg' alt='Breaking News Intro Graphic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pond5" />
+                                </span>
+                                <a href='https://images.pond5.com/breaking-news-intro-graphic-111201990_prevstill.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3d Breaking News Intro Animation Globe">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/videos/1104364555/thumb/12.jpg?ip=x480' alt='3d Breaking News Intro Animation Globe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/videos/1104364555/thumb/12.jpg?ip=x480' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 News Intro Templates & Motion Graphics | Motion Array">
+                                <img itemprop="contentUrl url" src='https://ma-hub.imgix.net/wp-images/2019/05/28232454/news-intro-template.jpg' alt='20 News Intro Templates & Motion Graphics | Motion Array'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2480">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Motion Array" />
+                                </span>
+                                <a href='https://ma-hub.imgix.net/wp-images/2019/05/28232454/news-intro-template.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="News Intro Templates | PhotoADKing">
+                                <img itemprop="contentUrl url" src='https://d3jmn01ri1fzgl.cloudfront.net/photoadking/webp_thumbnail/60433fc153cca_sample_image_1615019969.webp' alt='News Intro Templates | PhotoADKing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PhotoADKing" />
+                                </span>
+                                <a href='https://d3jmn01ri1fzgl.cloudfront.net/photoadking/webp_thumbnail/60433fc153cca_sample_image_1615019969.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VIDEOHIVE NEWS INTRO 21178010 - Free After Effects Template ...">
+                                <img itemprop="contentUrl url" src='http://gfxdownload.com/wp-content/uploads/2019/03/NEWS-INTRO.jpg' alt='VIDEOHIVE NEWS INTRO 21178010 - Free After Effects Template ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="590">
+                                <meta itemprop="height" content="332">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GFXdownload.com" />
+                                </span>
+                                <a href='http://gfxdownload.com/wp-content/uploads/2019/03/NEWS-INTRO.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="News Intro Templates | PhotoADKing">
+                                <img itemprop="contentUrl url" src='https://d3jmn01ri1fzgl.cloudfront.net/photoadking/webp_thumbnail/6049eedae0d0e_sample_image_1615458010.webp' alt='News Intro Templates | PhotoADKing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PhotoADKing" />
+                                </span>
+                                <a href='https://d3jmn01ri1fzgl.cloudfront.net/photoadking/webp_thumbnail/6049eedae0d0e_sample_image_1615458010.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

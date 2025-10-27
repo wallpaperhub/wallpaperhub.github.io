@@ -1,0 +1,129 @@
+<title>Vintage Wall Backgrounds: Timeless Charm for Your Space</title>
+                    <meta name="description" content="Explore stunning vintage wall backgrounds to enhance your home or photography. With timeless designs and rich textures, these backdrops bring warmth and character to any setting. Perfect for creating a nostalgic vibe or a unique atmosphere in your space. Discover the perfect vintage touch today!">
+                    <meta name="keywords" content="vintage wall background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/vintage-wall-background">
+                            <span itemprop="name">vintage wall background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vintage Wall Backgrounds: Timeless Charm for Your Space</h1>
+                <p>Transform your space with a vintage wall background that exudes charm and character. Perfect for photography or interior design, these timeless patterns bring warmth and nostalgia to any setting. Whether you prefer floral motifs, distressed wood, or textured plaster, a vintage wall backdrop can elevate your decor and create a unique atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kate Retro Vintage Wall Beige Backdrop Designed by Chain Photography">
+                                <img itemprop="contentUrl url" src='http://www.katebackdrop.com/cdn/shop/products/BH1041128DKateRetroVintageWallBeigeBackdropforPhotography.jpg?v=1662450383' alt='Kate Retro Vintage Wall Beige Backdrop Designed by Chain Photography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="682">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kate Backdrop" />
+                                </span>
+                                <a href='http://www.katebackdrop.com/cdn/shop/products/BH1041128DKateRetroVintageWallBeigeBackdropforPhotography.jpg?v=1662450383' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Wall Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/material-surface-block-white-urban_1172-177.jpg' alt='Vintage Wall Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/material-surface-block-white-urban_1172-177.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Wall Texture Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/damaged-stucco-wall_1194-7610.jpg' alt='Vintage Wall Texture Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/damaged-stucco-wall_1194-7610.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Wall Background Stock Photos, Images and Backgrounds for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/043/775/070/small/aged-street-wall-background-texture-concept-photo.jpg' alt='Vintage Wall Background Stock Photos, Images and Backgrounds for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="357">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/043/775/070/small/aged-street-wall-background-texture-concept-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Wall Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/copy-space-old-outdoors-wall_23-2148742478.jpg' alt='Vintage Wall Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="441">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/copy-space-old-outdoors-wall_23-2148742478.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Racked Concrete Vintage Wall Background,old Walls Stock Photo ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/meenna/meenna1702/meenna170200207/72330116-racked-concrete-vintage-wall-background-old-walls.jpg' alt='Racked Concrete Vintage Wall Background,old Walls Stock Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="866">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/meenna/meenna1702/meenna170200207/72330116-racked-concrete-vintage-wall-background-old-walls.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kate Gray Vintage Wall Door Backdrop">
+                                <img itemprop="contentUrl url" src='https://www.katebackdrop.com/cdn/shop/products/Kate_Gray_Vintage_Wall_Door_Backdrop_10x8ft_HJ13610-U.jpg?v=1641276872&width=1000' alt='Kate Gray Vintage Wall Door Backdrop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="833">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kate Backdrop" />
+                                </span>
+                                <a href='https://www.katebackdrop.com/cdn/shop/products/Kate_Gray_Vintage_Wall_Door_Backdrop_10x8ft_HJ13610-U.jpg?v=1641276872&width=1000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="racked concrete vintage wall background,old walls Stock Photo ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/01/37/87/17/1000_F_137871797_n3sUEdOPnVofYgv6DLoRLXhJ3YTUc5gF.jpg' alt='racked concrete vintage wall background,old walls Stock Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/01/37/87/17/1000_F_137871797_n3sUEdOPnVofYgv6DLoRLXhJ3YTUc5gF.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Texture background vintage wall with window 3671888 Stock Photo at ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/003/671/888/large_2x/texture-background-vintage-wall-with-window-photo.jpg' alt='Texture background vintage wall with window 3671888 Stock Photo at ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3484">
+                                <meta itemprop="height" content="1960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/003/671/888/large_2x/texture-background-vintage-wall-with-window-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="472,700+ Vintage Wall Paper Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/185050010/photo/old-wallpaper-with-light-and-shadows.jpg?s=612x612&w=0&k=20&c=CoJ3nxxv4eQMn8SVAQqYFUcbW83Iu7GO6oYv14IO7-A=' alt='472,700+ Vintage Wall Paper Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="446">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/185050010/photo/old-wallpaper-with-light-and-shadows.jpg?s=612x612&w=0&k=20&c=CoJ3nxxv4eQMn8SVAQqYFUcbW83Iu7GO6oYv14IO7-A=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

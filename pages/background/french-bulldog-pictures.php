@@ -1,0 +1,129 @@
+<title>Adorable French Bulldog Pictures to Brighten Your Day</title>
+                    <meta name="description" content="Discover a charming collection of French bulldog pictures that showcase their unique personalities and adorable features. Perfect for fans and dog lovers, these images promise to warm your heart and inspire you to share the love of this playful breed!">
+                    <meta name="keywords" content="french bulldog pictures">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/french-bulldog-pictures">
+                            <span itemprop="name">french bulldog pictures</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable French Bulldog Pictures to Brighten Your Day</h1>
+                <p>Explore the adorable world of French bulldog pictures! From their cute squished faces to their playful antics, these images capture the essence of this beloved breed. Whether you’re a proud owner or simply an admirer, these delightful photos are sure to bring a smile to your face. Join the Frenchie love today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="French Bulldog Dog Breed Health and Care | PetMD">
+                                <img itemprop="contentUrl url" src='https://image.petmd.com/files/styles/978x550/public/2022-10/french-bulldog.jpeg' alt='French Bulldog Dog Breed Health and Care | PetMD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="978">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PetMD" />
+                                </span>
+                                <a href='https://image.petmd.com/files/styles/978x550/public/2022-10/french-bulldog.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="French Bulldog Dog Breed Traits & Profile | Petz Park">
+                                <img itemprop="contentUrl url" src='http://petzpark.com.au/cdn/shop/articles/Breeds_Thumbnails_5_1_1024x1024.jpg?v=1638422681' alt='French Bulldog Dog Breed Traits & Profile | Petz Park'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Petz Park" />
+                                </span>
+                                <a href='http://petzpark.com.au/cdn/shop/articles/Breeds_Thumbnails_5_1_1024x1024.jpg?v=1638422681' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Breed Spotlight: The French Bulldog - Gator Kennels®">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-fduu8evurl/images/stencil/original/uploaded_images/blue.jpg?t=1593485603' alt='Breed Spotlight: The French Bulldog - Gator Kennels®'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1230">
+                                <meta itemprop="height" content="1509">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gator Kennels" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-fduu8evurl/images/stencil/original/uploaded_images/blue.jpg?t=1593485603' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="French Bulldog Dog Breed Information">
+                                <img itemprop="contentUrl url" src='https://www.akc.org/wp-content/uploads/2017/11/French-Bulldog-standing-outdoors.jpg' alt='French Bulldog Dog Breed Information'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="American Kennel Club" />
+                                </span>
+                                <a href='https://www.akc.org/wp-content/uploads/2017/11/French-Bulldog-standing-outdoors.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="French Bulldog Coat Colors in Depth | NW Frenchies — Northwest ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5abef86f7e3c3a242ca0bd46/7bb5d762-74c3-445b-97d3-4b40f5038e7b/0Y2A6620.jpg' alt='French Bulldog Coat Colors in Depth | NW Frenchies — Northwest ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NW Frenchies" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5abef86f7e3c3a242ca0bd46/7bb5d762-74c3-445b-97d3-4b40f5038e7b/0Y2A6620.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="French Bulldog | Size, Lifespan, Colors & Health Issues | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/44/233844-050-A0F9F39C/French-bulldog.jpg' alt='French Bulldog | Size, Lifespan, Colors & Health Issues | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1076">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/44/233844-050-A0F9F39C/French-bulldog.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="French Bulldogs: Everything You Need To Know About The Dog Breed">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/french-bulldogs-667985caac372.jpg?crop=0.8903570866761051xw:1xh;center,top&resize=1200:*' alt='French Bulldogs: Everything You Need To Know About The Dog Breed'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Country Living Magazine" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/french-bulldogs-667985caac372.jpg?crop=0.8903570866761051xw:1xh;center,top&resize=1200:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="French Bulldog - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2008-07-28_Dog_at_Frolick_Field.jpg/640px-2008-07-28_Dog_at_Frolick_Field.jpg' alt='French Bulldog - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="475">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2008-07-28_Dog_at_Frolick_Field.jpg/640px-2008-07-28_Dog_at_Frolick_Field.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Fascinating Facts About the French Bulldog">
+                                <img itemprop="contentUrl url" src='https://www.dailypaws.com/thmb/2u5acIDPkoAI5hw9LFRezOTvixs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/brown-french-bulldog-824971812-2000-831c18ddd3ba4a9290ea33d9b5b01969.jpg' alt='10 Fascinating Facts About the French Bulldog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Daily Paws" />
+                                </span>
+                                <a href='https://www.dailypaws.com/thmb/2u5acIDPkoAI5hw9LFRezOTvixs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/brown-french-bulldog-824971812-2000-831c18ddd3ba4a9290ea33d9b5b01969.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Breed Profile: All About French Bulldogs | ElleVet Sciences">
+                                <img itemprop="contentUrl url" src='https://www.ellevetsciences.com/wp-content/uploads/2022/04/EV_BLOG_FrenchBullDogs_Header.jpg' alt='Breed Profile: All About French Bulldogs | ElleVet Sciences'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ElleVet Sciences" />
+                                </span>
+                                <a href='https://www.ellevetsciences.com/wp-content/uploads/2022/04/EV_BLOG_FrenchBullDogs_Header.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

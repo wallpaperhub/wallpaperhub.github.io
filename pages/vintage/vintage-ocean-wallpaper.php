@@ -1,0 +1,129 @@
+<title>Timeless Vintage Ocean Wallpaper for Coastal Decor</title>
+                    <meta name="description" content="Explore our collection of vintage ocean wallpaper, ideal for adding a nostalgic nautical touch to your home. Perfect for beach houses or any room, these wallpapers feature classic motifs that evoke the charm of the sea. Transform your space with our unique designs today!">
+                    <meta name="keywords" content="vintage ocean wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage">
+                            <span itemprop="name">Vintage</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage/vintage-ocean-wallpaper">
+                            <span itemprop="name">vintage ocean wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Timeless Vintage Ocean Wallpaper for Coastal Decor</h1>
+                <p>A vintage ocean wallpaper transforms any space with its timeless charm and nostalgic appeal. Featuring classic nautical motifs, such as ships, seashells, and waves, this decor option evokes memories of the sea. Perfect for beach houses or any room seeking a coastal vibe, vintage ocean wallpaper brings warmth and character to your home.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Iphone Nature Ocean Sunset Rocks Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/vintage-iphone-blue-ocean-aesthetic-pcunfj4dpccf49jo.webp' alt='Vintage Iphone Nature Ocean Sunset Rocks Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/vintage-iphone-blue-ocean-aesthetic-pcunfj4dpccf49jo.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage beach boat background wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a6/12/97/a612978dc21cb8e890e3ba9691509cf8.jpg' alt='Vintage beach boat background wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a6/12/97/a612978dc21cb8e890e3ba9691509cf8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Abstract Nature Background. Surf Of Water Foam From Boat ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/jakkapan/jakkapan1704/jakkapan170400122/77313950-vintage-abstract-nature-background-surf-of-water-foam-from-boat-in-ocean-vintage-color-effect-tone.jpg' alt='Vintage Abstract Nature Background. Surf Of Water Foam From Boat ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="928">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/jakkapan/jakkapan1704/jakkapan170400122/77313950-vintage-abstract-nature-background-surf-of-water-foam-from-boat-in-ocean-vintage-color-effect-tone.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Vintage Image Of Ocean Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/fascinating-pastel-vintage-photograph-of-ocean-eagmhls1qt1fnx01.webp' alt='Pastel Vintage Image Of Ocean Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/fascinating-pastel-vintage-photograph-of-ocean-eagmhls1qt1fnx01.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD retro sea wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/955/605/HD-wallpaper-waves-aesthetic-ocean-retro-sea-vintage-thumbnail.jpg' alt='HD retro sea wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/955/605/HD-wallpaper-waves-aesthetic-ocean-retro-sea-vintage-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="19 13 Beaches ideas | scenery, beautiful places, beach wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/46/f3/e0/46f3e0d5726a7b9acf07ea1076abba93.jpg' alt='19 13 Beaches ideas | scenery, beautiful places, beach wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/46/f3/e0/46f3e0d5726a7b9acf07ea1076abba93.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD vintage beach wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/382/751/HD-wallpaper-landscape-beach-brown-summer-vintage-thumbnail.jpg' alt='HD vintage beach wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/382/751/HD-wallpaper-landscape-beach-brown-summer-vintage-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wave background, vintage ocean illustration | Free Photo ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA1L3BkbWlzYzE1LWJnLXljYmF0bXM5NTk4YS1pbWFnZS0wOF8zLmpwZw.jpg' alt='Wave background, vintage ocean illustration | Free Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1401">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA1L3BkbWlzYzE1LWJnLXljYmF0bXM5NTk4YS1pbWFnZS0wOF8zLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Vintage Beach Waves Sand Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/vintage-beach-waves-sand-mllsa56w6cdb8bfx.jpg' alt='Download Vintage Beach Waves Sand Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/vintage-beach-waves-sand-mllsa56w6cdb8bfx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Beach And Sea Free Stock Photo - Public Domain Pictures">
+                                <img itemprop="contentUrl url" src='https://www.publicdomainpictures.net/pictures/400000/nahled/retro-beach-and-sea-1620826082ntX.jpg' alt='Retro Beach And Sea Free Stock Photo - Public Domain Pictures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="615">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Public Domain Pictures" />
+                                </span>
+                                <a href='https://www.publicdomainpictures.net/pictures/400000/nahled/retro-beach-and-sea-1620826082ntX.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

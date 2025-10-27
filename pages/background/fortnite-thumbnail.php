@@ -1,0 +1,129 @@
+<title>Epic Fortnite Thumbnails: Boost Your Click-Through Rate!</title>
+                    <meta name="description" content="Discover how to design striking Fortnite thumbnails that captivate your audience. Learn tips on using bold colors, dynamic imagery, and effective text placement to enhance your video’s appeal. Elevate your content and increase views with eye-catching thumbnail designs tailored for Fortnite fans!">
+                    <meta name="keywords" content="fortnite thumbnail">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fortnite-thumbnail">
+                            <span itemprop="name">fortnite thumbnail</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Fortnite Thumbnails: Boost Your Click-Through Rate!</h1>
+                <p>Creating an eye-catching Fortnite thumbnail is essential for attracting viewers to your videos. Use vibrant colors, dynamic poses, and iconic in-game characters to convey excitement. Include bold text with keywords and ensure the design is visually balanced. Remember, a great thumbnail can significantly increase your video’s click-through rate!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite thumbnail">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/67/13/6e/67136e52ed1c633507e525e05c191524.jpg' alt='Fortnite thumbnail'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/67/13/6e/67136e52ed1c633507e525e05c191524.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free to use Fortnite Thumbnail made by twitter.com/@Outrage_FN (6 ...">
+                                <img itemprop="contentUrl url" src='https://mir-s3-cdn-cf.behance.net/project_modules/fs/a29ce1109751271.5fdbc6cb54e7d.jpg' alt='Free to use Fortnite Thumbnail made by twitter.com/@Outrage_FN (6 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1068">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Behance" />
+                                </span>
+                                <a href='https://mir-s3-cdn-cf.behance.net/project_modules/fs/a29ce1109751271.5fdbc6cb54e7d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6 Best Fortnite Thumbnails | Animatron">
+                                <img itemprop="contentUrl url" src='https://www.animatron.com/blog/wp-content/uploads/2023/03/image13-1024x576.jpg' alt='6 Best Fortnite Thumbnails | Animatron'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Animatron" />
+                                </span>
+                                <a href='https://www.animatron.com/blog/wp-content/uploads/2023/03/image13-1024x576.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="create a high quality fortnite thumbnail">
+                                <img itemprop="contentUrl url" src='https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/153031504/original/2278317ebe522df072d892afe6c042a8732ace7e/create-a-high-quality-fortnite-youtube-thumbnail.jpg' alt='create a high quality fortnite thumbnail'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fiverr" />
+                                </span>
+                                <a href='https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/153031504/original/2278317ebe522df072d892afe6c042a8732ace7e/create-a-high-quality-fortnite-youtube-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Thumbnail Projects :: Photos, videos, logos ...">
+                                <img itemprop="contentUrl url" src='https://mir-s3-cdn-cf.behance.net/projects/404/31701e125320879.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg' alt='Fortnite Thumbnail Projects :: Photos, videos, logos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="404">
+                                <meta itemprop="height" content="316">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Behance" />
+                                </span>
+                                <a href='https://mir-s3-cdn-cf.behance.net/projects/404/31701e125320879.Y3JvcCwxMDA3LDc4OCwxOTcsMA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Thumbnails - gyrekk design">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a5/ba/d7/a5bad7a90a29937eaf23eebae40e957f.jpg' alt='Fortnite Thumbnails - gyrekk design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a5/ba/d7/a5bad7a90a29937eaf23eebae40e957f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What do you guys think (Thumbnail for a video called "1v1ing an OG ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/4jw36q76hlk21.jpg' alt='What do you guys think (Thumbnail for a video called "1v1ing an OG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1076">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/4jw36q76hlk21.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MaceDZN - Fortnite Thumbnails">
+                                <img itemprop="contentUrl url" src='https://cdna.artstation.com/p/assets/images/images/052/544/782/large/macedzn-fortnite-thumbnail-1.jpg?1660071399' alt='MaceDZN - Fortnite Thumbnails'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MaceDZN" />
+                                </span>
+                                <a href='https://cdna.artstation.com/p/assets/images/images/052/544/782/large/macedzn-fortnite-thumbnail-1.jpg?1660071399' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I will create you a fortnite thumbnail for $10, freelancer Zain ...">
+                                <img itemprop="contentUrl url" src='https://cdn.kwork.com/files/portfolio/t0/30/5420ef7493f7f2cc04dd76490911def1cc14c14a-1700663086.jpg' alt='I will create you a fortnite thumbnail for $10, freelancer Zain ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shop freelance services with confidence on Kwork. Offers start at $10." />
+                                </span>
+                                <a href='https://cdn.kwork.com/files/portfolio/t0/30/5420ef7493f7f2cc04dd76490911def1cc14c14a-1700663086.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Thumbnail Work    : r/FortNiteBR">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/oz2mm4kjt8731.jpg' alt='Fortnite Thumbnail Work    : r/FortNiteBR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/oz2mm4kjt8731.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

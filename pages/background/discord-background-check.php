@@ -1,0 +1,129 @@
+<title>Essential Guide to Discord Background Checks</title>
+                    <meta name="description" content="Discover the importance of Discord background checks in safeguarding your community. Learn how to effectively screen members, minimize risks, and promote a safer, more enjoyable online experience for everyone. Secure your server with these essential practices.">
+                    <meta name="keywords" content="discord background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/discord-background-check">
+                            <span itemprop="name">discord background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Guide to Discord Background Checks</h1>
+                <p>Discord background checks are essential for ensuring safety and fostering a trustworthy community. These checks help server admins identify potential risks and screen new members to prevent malicious activity. Implementing background checks can enhance user experience, create a secure environment, and promote positive interactions among users.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Run a Background Check on a User on Discord">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/j1x1x73x24M/maxresdefault.jpg' alt='How To Run a Background Check on a User on Discord'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/j1x1x73x24M/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Applicant and Candidate Privacy Policy | Discord">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/625fe439fb70a9d901e138ab/66a27f28ded55ab00cdd40bd_665643dd8c7ac752237b5cef_Discord-OG-1200x630.jpg' alt='Applicant and Candidate Privacy Policy | Discord'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Discord" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/625fe439fb70a9d901e138ab/66a27f28ded55ab00cdd40bd_665643dd8c7ac752237b5cef_Discord-OG-1200x630.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Run a Background Check on a User on Discord — Tech How">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/6028101b47193120a4863356/0585c15e-acc3-4013-8902-314ed10253a3/manage+servers' alt='How To Run a Background Check on a User on Discord — Tech How'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1483">
+                                <meta itemprop="height" content="986">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tech How" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/6028101b47193120a4863356/0585c15e-acc3-4013-8902-314ed10253a3/manage+servers' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Run a Background Check on a User on Discord - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/a1i-3xwcSGA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDOcKE4VAHSWcXTV266VApNr8_iWA' alt='How To Run a Background Check on a User on Discord - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/a1i-3xwcSGA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDOcKE4VAHSWcXTV266VApNr8_iWA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Run a Background Check on a User on Discord — Tech How">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/6028101b47193120a4863356/8ed8e300-dd2b-43d8-bc7e-13add01a8771/authorize+bot+on+server' alt='How To Run a Background Check on a User on Discord — Tech How'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1483">
+                                <meta itemprop="height" content="877">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tech How" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/6028101b47193120a4863356/8ed8e300-dd2b-43d8-bc7e-13add01a8771/authorize+bot+on+server' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Change Your Background in Discord">
+                                <img itemprop="contentUrl url" src='https://www.alphr.com/wp-content/uploads/2021/11/Screenshot_20211118-000032_Discord.jpg' alt='How to Change Your Background in Discord'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alphr" />
+                                </span>
+                                <a href='https://www.alphr.com/wp-content/uploads/2021/11/Screenshot_20211118-000032_Discord.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Run a Background Check on a User on Discord — Tech How">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/6028101b47193120a4863356/bf4a0717-04e1-4578-8ab8-8d36ee806e60/add+to+bot+role' alt='How To Run a Background Check on a User on Discord — Tech How'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1267">
+                                <meta itemprop="height" content="927">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tech How" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/6028101b47193120a4863356/bf4a0717-04e1-4578-8ab8-8d36ee806e60/add+to+bot+role' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joyiscode on X: "Introducing Infoblox, ROBLOX's most sofisticated ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/E4Qih9iXMAMNXkl.png' alt='Joyiscode on X: "Introducing Infoblox, ROBLOX's most sofisticated ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="669">
+                                <meta itemprop="height" content="470">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/E4Qih9iXMAMNXkl.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to have an Animated Discord Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/66L-tksLPMI/sddefault.jpg' alt='How to have an Animated Discord Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/66L-tksLPMI/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Actual great idea here lol #futures #daytrading #bigchar | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7475095204278635818&location=0&aid=1988' alt='Actual great idea here lol #futures #daytrading #bigchar | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1048">
+                                <meta itemprop="height" content="1518">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7475095204278635818&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

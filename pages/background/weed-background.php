@@ -1,0 +1,129 @@
+<title>Understanding the History and Impact of Cannabis</title>
+                    <meta name="description" content="Discover the fascinating history of weed, exploring its medicinal and recreational uses through the ages. Learn how cannabis has transformed from ancient remedies to modern legalization, shaping today's vibrant culture. Stay informed about its impact and significance in society.">
+                    <meta name="keywords" content="weed background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/weed-background">
+                            <span itemprop="name">weed background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding the History and Impact of Cannabis</h1>
+                <p>Weed, or cannabis, has a rich history dating back thousands of years, used for medicinal, recreational, and industrial purposes. Ancient civilizations revered it for its therapeutic properties, while modern legislation has shifted toward legalization. Today, cannabis culture is vibrant, encompassing diverse strains and uses, reflecting its evolving role in society.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="270+ Weed Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1498671546682-94a232c26d17?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d2VlZHxlbnwwfHwwfHx8MA%3D%3D' alt='270+ Weed Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3883">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1498671546682-94a232c26d17?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d2VlZHxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Weed Background Images – Browse 8,086,844 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/28/89/06/360_F_428890602_oRQP97Tj4l4mKMeQdnI1V6B0oZpmv8UZ.jpg' alt='Weed Background Images – Browse 8,086,844 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/28/89/06/360_F_428890602_oRQP97Tj4l4mKMeQdnI1V6B0oZpmv8UZ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="370+ Marijuana Bud Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1352868384/vector/vector-marijuana-seamless-pattern.jpg?s=612x612&w=0&k=20&c=GgE4EOsZlBS_iFqxIsKBdEP0CeyaW-XAZKJepNvCCeY=' alt='370+ Marijuana Bud Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1352868384/vector/vector-marijuana-seamless-pattern.jpg?s=612x612&w=0&k=20&c=GgE4EOsZlBS_iFqxIsKBdEP0CeyaW-XAZKJepNvCCeY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marijuana and Diabetes: What You Need To Know">
+                                <img itemprop="contentUrl url" src='https://diatribe.org/_next/image?url=https%3A%2F%2Fapi.diatribe.org%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fcontent_teaser_large%2Fpublic%2F2024-09%2Fmarijuana-and-diabetes-istock-1418313314.jpg%3Fitok%3Da6M5u21e&w=3840&q=75' alt='Marijuana and Diabetes: What You Need To Know'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="diaTribe.org" />
+                                </span>
+                                <a href='https://diatribe.org/_next/image?url=https%3A%2F%2Fapi.diatribe.org%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fcontent_teaser_large%2Fpublic%2F2024-09%2Fmarijuana-and-diabetes-istock-1418313314.jpg%3Fitok%3Da6M5u21e&w=3840&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Weed Background Images – Browse 8,086,844 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/06/26/61/01/360_F_626610187_fV1e485GUpLLJhpGvXnZmTZRQulVvzGQ.jpg' alt='Weed Background Images – Browse 8,086,844 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/06/26/61/01/360_F_626610187_fV1e485GUpLLJhpGvXnZmTZRQulVvzGQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seamless Marijuana Background High-Res Vector Graphic - Getty Images">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1127172590/vector/seamless-marijuana-background.jpg?s=1024x1024&w=gi&k=20&c=vcZiR3vOppUIdXoUd-uMlPq5FCuY4qy2vdP_-RaVwPU=' alt='Seamless Marijuana Background High-Res Vector Graphic - Getty Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1127172590/vector/seamless-marijuana-background.jpg?s=1024x1024&w=gi&k=20&c=vcZiR3vOppUIdXoUd-uMlPq5FCuY4qy2vdP_-RaVwPU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="14,354 Cannabis Banner Royalty-Free Photos and Stock Images ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/inscription-2024-neon-on-green-600nw-2372977551.jpg' alt='14,354 Cannabis Banner Royalty-Free Photos and Stock Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/inscription-2024-neon-on-green-600nw-2372977551.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="680+ Crazy Weed Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1254371912/vector/bright-hallucinogenic-trippy-fantastic-cannabis-leaves-rainbow-neon-gradient-outline-color.jpg?s=612x612&w=0&k=20&c=1-749GAa5ObtsLGGez4aysRLBI9J5XIWeStwhWEj5Dk=' alt='680+ Crazy Weed Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1254371912/vector/bright-hallucinogenic-trippy-fantastic-cannabis-leaves-rainbow-neon-gradient-outline-color.jpg?s=612x612&w=0&k=20&c=1-749GAa5ObtsLGGez4aysRLBI9J5XIWeStwhWEj5Dk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cannabis Photographer | Commercial Photography in Springfield, MO">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/65bbdb1090b738b03dd4f2c1/65f9c41deab869082034a00f_01-Cannabis-34.jpg' alt='Cannabis Photographer | Commercial Photography in Springfield, MO'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="597">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Punchbowl Studios" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/65bbdb1090b738b03dd4f2c1/65f9c41deab869082034a00f_01-Cannabis-34.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,376 Weed Background High Res Illustrations - Getty Images | Wood ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/942638624/vector/seamless-background-cannabis-leaf.jpg?s=170667a&w=gi&k=20&c=CVMg1HS7X_mUPgetiraRrsX_NlTEArYpNmZ3n6_BVQ8=' alt='3,376 Weed Background High Res Illustrations - Getty Images | Wood ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/942638624/vector/seamless-background-cannabis-leaf.jpg?s=170667a&w=gi&k=20&c=CVMg1HS7X_mUPgetiraRrsX_NlTEArYpNmZ3n6_BVQ8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

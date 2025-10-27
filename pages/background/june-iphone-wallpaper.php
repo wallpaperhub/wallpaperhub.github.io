@@ -1,0 +1,129 @@
+<title>Stunning June iPhone Wallpapers to Brighten Your Screen</title>
+                    <meta name="description" content="Discover the perfect June iPhone wallpapers to elevate your device. Explore vibrant designs, floral patterns, and sunny landscapes that make your screen come alive this summer. Refresh your iPhone with our curated collection and embrace the beauty of the season!">
+                    <meta name="keywords" content="june iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/june-iphone-wallpaper">
+                            <span itemprop="name">june iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning June iPhone Wallpapers to Brighten Your Screen</h1>
+                <p>Celebrate the warmth of June with vibrant iPhone wallpapers that capture the essence of summer. From sunny landscapes to floral blooms, our collection offers stunning visuals to refresh your screen. Embrace the season's beauty and let your iPhone reflect the sunny vibes of June with these delightful backgrounds!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="June Desktop Downloads!">
+                                <img itemprop="contentUrl url" src='https://ohsobeautifulpaper.com/wp-content/uploads/2017/06/Summer-Fruit-Illustrated-Wallpaper-The-Good-Twin-OSBP-iPhone.jpg' alt='June Desktop Downloads!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="852">
+                                <meta itemprop="height" content="1608">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oh So Beautiful Paper" />
+                                </span>
+                                <a href='https://ohsobeautifulpaper.com/wp-content/uploads/2017/06/Summer-Fruit-Illustrated-Wallpaper-The-Good-Twin-OSBP-iPhone.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="June 2018 Wallpapers!">
+                                <img itemprop="contentUrl url" src='http://bit.ly/2Lem3PF' alt='June 2018 Wallpapers!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="852">
+                                <meta itemprop="height" content="1608">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oh So Beautiful Paper" />
+                                </span>
+                                <a href='http://bit.ly/2Lem3PF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE June Desktop Background & Wallpaper – Pen & Paint">
+                                <img itemprop="contentUrl url" src='http://pen-and-paint.com/cdn/shop/articles/june_pen_and_paint_1200x1200.jpg?v=1654101062' alt='FREE June Desktop Background & Wallpaper – Pen & Paint'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pen & Paint" />
+                                </span>
+                                <a href='http://pen-and-paint.com/cdn/shop/articles/june_pen_and_paint_1200x1200.jpg?v=1654101062' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Simple June iPhone Wallpaper Lock Screen @PanPins">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d9/f1/b3/d9f1b3f7ba9d51c519d2172486b16254.jpg' alt='Pastel Simple June iPhone Wallpaper Lock Screen @PanPins'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d9/f1/b3/d9f1b3f7ba9d51c519d2172486b16254.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/16/94/05/169405d4dd24ea451b5d6edfc75a7b31.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="534">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/16/94/05/169405d4dd24ea451b5d6edfc75a7b31.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="June 2022 Popsicle Calendar Wallpaper - Sarah Hearts">
+                                <img itemprop="contentUrl url" src='https://www.sarahhearts.com/wp-content/uploads/2022/05/06-2022-iphone-art.jpg' alt='June 2022 Popsicle Calendar Wallpaper - Sarah Hearts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1171">
+                                <meta itemprop="height" content="2533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sarah Hearts" />
+                                </span>
+                                <a href='https://www.sarahhearts.com/wp-content/uploads/2022/05/06-2022-iphone-art.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="June 2024 Phone Wallpapers | EntheosWeb">
+                                <img itemprop="contentUrl url" src='https://www.entheosweb.com/wp-content/uploads/2024/03/June-2024-Phone-Wallpaper-Calendar-7.jpg' alt='June 2024 Phone Wallpapers | EntheosWeb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EntheosWeb" />
+                                </span>
+                                <a href='https://www.entheosweb.com/wp-content/uploads/2024/03/June-2024-Phone-Wallpaper-Calendar-7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free iPhone Mobile Wallpaper June Simple Elegant Flowers by ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/97/01/2f/97012f1402e7f651ff432dc3c993b4d8.jpg' alt='Free iPhone Mobile Wallpaper June Simple Elegant Flowers by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/97/01/2f/97012f1402e7f651ff432dc3c993b4d8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello June | 36 Beautiful Wallpapers & Ideas For June Vibes">
+                                <img itemprop="contentUrl url" src='https://worldofprintables.com/wp-content/uploads/2022/04/Hello-June-Wallpaper-iPhone-Floral.jpg' alt='Hello June | 36 Beautiful Wallpapers & Ideas For June Vibes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World of Printables" />
+                                </span>
+                                <a href='https://worldofprintables.com/wp-content/uploads/2022/04/Hello-June-Wallpaper-iPhone-Floral.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="June Calendar Wallpaper (2024 Free Update) - AnjaHome">
+                                <img itemprop="contentUrl url" src='https://anjahome.com/wp-content/uploads/2023/05/Cute-summer-June-iPhone-Wallpaper.jpg' alt='June Calendar Wallpaper (2024 Free Update) - AnjaHome'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AnjaHome" />
+                                </span>
+                                <a href='https://anjahome.com/wp-content/uploads/2023/05/Cute-summer-June-iPhone-Wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning iPhone Widget Wallpapers to Elevate Your Home Screen</title>
+                    <meta name="description" content="Discover the perfect iPhone widget wallpaper to enhance your home screen! Find eye-catching designs that combine beauty and functionality, allowing you to personalize your device while enjoying a seamless user experience. Upgrade your iPhone with stylish wallpapers today!">
+                    <meta name="keywords" content="iphone widget wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-widget-wallpaper">
+                            <span itemprop="name">iphone widget wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning iPhone Widget Wallpapers to Elevate Your Home Screen</h1>
+                <p>Elevate your iPhone's aesthetic with stunning widget wallpapers! These dynamic backgrounds seamlessly blend functionality and style, allowing you to personalize your home screen while providing at-a-glance information. Explore vibrant designs that match your mood, enhancing your device experience like never before.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glance - Setup & features (custom wallpaper widgets) : r/iOSsetups">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/to9iiz07pcra1.jpg' alt='Glance - Setup & features (custom wallpaper widgets) : r/iOSsetups'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1827">
+                                <meta itemprop="height" content="2873">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/to9iiz07pcra1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IPhone Wallpaper iPhone Widget Phone Wallpaper Wallpaper iPhone ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/50284171/r/il/69d8dd/6484646851/il_570xN.6484646851_521e.jpg' alt='IPhone Wallpaper iPhone Widget Phone Wallpaper Wallpaper iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/50284171/r/il/69d8dd/6484646851/il_570xN.6484646851_521e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stylish Icons & Widgets!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/39/72/ef/3972efcc88b9d3f3f5a6642c1da4f8e0.jpg' alt='Stylish Icons & Widgets!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/39/72/ef/3972efcc88b9d3f3f5a6642c1da4f8e0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Add, edit, and remove widgets on iPhone - Apple Support">
+                                <img itemprop="contentUrl url" src='https://help.apple.com/assets/6758C14AEA2BBD75D7023772/6758C150890517C4260090D6/en_US/bcb19f6c6f8138fc1fa16e6f05d84727.png' alt='Add, edit, and remove widgets on iPhone - Apple Support'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="490">
+                                <meta itemprop="height" content="1008">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Support" />
+                                </span>
+                                <a href='https://help.apple.com/assets/6758C14AEA2BBD75D7023772/6758C150890517C4260090D6/en_US/bcb19f6c6f8138fc1fa16e6f05d84727.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iOS 14 wallpaper widget">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/2a/45/29/2a452932627fed3a016cd99d03197331.jpg' alt='iOS 14 wallpaper widget'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/2a/45/29/2a452932627fed3a016cd99d03197331.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Aesthetic Widgets Pictures | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/aesthetic-widgets-pictures-tcdinsgo1pfdif1j.jpg' alt='100+] Aesthetic Widgets Pictures | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="652">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/aesthetic-widgets-pictures-tcdinsgo1pfdif1j.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AR7 on X: "#wallpapers #widget #widgets MacOS Big Sur Light & Dark ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/Ei04fB_XsAAxmkv?format=jpg&name=large' alt='AR7 on X: "#wallpapers #widget #widgets MacOS Big Sur Light & Dark ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/Ei04fB_XsAAxmkv?format=jpg&name=large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IOS 14 Home Screen ideas">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/a6/de/02/a6de02133400cdef76607fdd13b3c18c.jpg' alt='IOS 14 Home Screen ideas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/a6/de/02/a6de02133400cdef76607fdd13b3c18c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iOS 16.3 lets users add lock screen widgets to a classic wallpaper">
+                                <img itemprop="contentUrl url" src='https://9to5mac.com/wp-content/uploads/sites/6/2023/02/iOS-16.3-classic-wallpaper-lockscreen.jpg?quality=82&strip=all&w=1600' alt='iOS 16.3 lets users add lock screen widgets to a classic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="9to5Mac" />
+                                </span>
+                                <a href='https://9to5mac.com/wp-content/uploads/sites/6/2023/02/iOS-16.3-classic-wallpaper-lockscreen.jpg?quality=82&strip=all&w=1600' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How do I make the background of the widget the same as my ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/o5karfnybhu51.jpg?width=1080&crop=smart&auto=webp&s=1a1e7c238715bfdc36701797cb5db5065ac34d99' alt='How do I make the background of the widget the same as my ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/o5karfnybhu51.jpg?width=1080&crop=smart&auto=webp&s=1a1e7c238715bfdc36701797cb5db5065ac34d99' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

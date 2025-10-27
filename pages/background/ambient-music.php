@@ -1,0 +1,129 @@
+<title>Discover the Tranquility of Ambient Music</title>
+                    <meta name="description" content="Explore the soothing world of ambient music, a genre that creates serene soundscapes for relaxation, meditation, and focus. Immerse yourself in calming melodies and atmospheric textures that enhance your well-being and transform your environment.">
+                    <meta name="keywords" content="ambient music">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ambient-music">
+                            <span itemprop="name">ambient music</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Tranquility of Ambient Music</h1>
+                <p>Ambient music is a genre designed to create an atmospheric soundscape, often emphasizing tone and atmosphere over traditional musical structure. It invites listeners into a tranquil space, perfect for relaxation or contemplation. With soft melodies and layered textures, ambient music can enhance focus, meditation, and overall well-being.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ambient Chill Music [Full Tracks] | Royalty Free Background Music">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/DZpPhCGoPLg/maxresdefault.jpg' alt='Ambient Chill Music [Full Tracks] | Royalty Free Background Music'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/DZpPhCGoPLg/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alone: Relaxing Ambient SPACE Music for Being Alone on Distant Planets">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/YUaSVFXTHlk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCyymlQB8_smPN1CIHHDYbKLeNXuw' alt='Alone: Relaxing Ambient SPACE Music for Being Alone on Distant Planets'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/YUaSVFXTHlk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCyymlQB8_smPN1CIHHDYbKLeNXuw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Relaxing Ambient Music: 4 Hours Of Instrumental Background Music">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/pJ5lOKoBtC4/maxresdefault.jpg' alt='Relaxing Ambient Music: 4 Hours Of Instrumental Background Music'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/pJ5lOKoBtC4/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stream Ambient Music Royalty Free music | Listen to songs, albums ...">
+                                <img itemprop="contentUrl url" src='https://i1.sndcdn.com/avatars-iXyFVyNDNONOHlhK-S3XGOA-t1080x1080.jpg' alt='Stream Ambient Music Royalty Free music | Listen to songs, albums ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SoundCloud" />
+                                </span>
+                                <a href='https://i1.sndcdn.com/avatars-iXyFVyNDNONOHlhK-S3XGOA-t1080x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ambient Atmospheric Music - Album by Ambient | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab67616d0000b2739531348f412a50a609626fb2' alt='Ambient Atmospheric Music - Album by Ambient | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab67616d0000b2739531348f412a50a609626fb2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Play Ambient Music: Chill Bird Serenade for Therapeutic Massage by ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51qPLFYtnIL._UXNaN_FMjpg_QL85_.jpg' alt='Play Ambient Music: Chill Bird Serenade for Therapeutic Massage by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51qPLFYtnIL._UXNaN_FMjpg_QL85_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Relaxing Ambient Music - Dream Sounds">
+                                <img itemprop="contentUrl url" src='https://vhx.imgix.net/dreamsounds/assets/6ac23456-8506-4f32-97e3-7e1eb10482c6.jpg?auto=format%2Ccompress&fit=crop&h=360&q=70&w=640' alt='Relaxing Ambient Music - Dream Sounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dream Sounds" />
+                                </span>
+                                <a href='https://vhx.imgix.net/dreamsounds/assets/6ac23456-8506-4f32-97e3-7e1eb10482c6.jpg?auto=format%2Ccompress&fit=crop&h=360&q=70&w=640' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="22 Atmospheric Royalty Free Ambient Music Tracks - Motion Array">
+                                <img itemprop="contentUrl url" src='https://ma-hub.imgix.net/wp-images/2019/05/29222105/royalty-free-music-Ambient.jpg' alt='22 Atmospheric Royalty Free Ambient Music Tracks - Motion Array'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2480">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Motion Array" />
+                                </span>
+                                <a href='https://ma-hub.imgix.net/wp-images/2019/05/29222105/royalty-free-music-Ambient.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is Ambient Music? — NiaSounds">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/56d4a15e59827ec2fa12eff5/1464904649858-SX981RM1X7GWG0JN1WBW/Ambient+Music+Cover+%286%3A9%29.jpeg?format=1500w' alt='What Is Ambient Music? — NiaSounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="818">
+                                <meta itemprop="height" content="466">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NiaSounds" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/56d4a15e59827ec2fa12eff5/1464904649858-SX981RM1X7GWG0JN1WBW/Ambient+Music+Cover+%286%3A9%29.jpeg?format=1500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to make ambient music, how to create ambient music">
+                                <img itemprop="contentUrl url" src='https://ampedstudio.com/wp-content/uploads/2023/06/how-to-make-ambient-music.jpg' alt='How to make ambient music, how to create ambient music'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1269">
+                                <meta itemprop="height" content="713">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amped Studio" />
+                                </span>
+                                <a href='https://ampedstudio.com/wp-content/uploads/2023/06/how-to-make-ambient-music.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

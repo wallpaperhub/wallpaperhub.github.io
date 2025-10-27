@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="pink floyd">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pink-floyd">
+                            <span itemprop="name">pink floyd</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Floyd - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/d/d6/Pink_Floyd_-_all_members.jpg' alt='Pink Floyd - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="329">
+                                <meta itemprop="height" content="303">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/d/d6/Pink_Floyd_-_all_members.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Floyd | Members, Albums, Songs, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/64/23164-050-A7D2E9D9/Pink-Floyd.jpg' alt='Pink Floyd | Members, Albums, Songs, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1270">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/64/23164-050-A7D2E9D9/Pink-Floyd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Dark Side of the Moon at 50: an album artwork expert on Pink ...">
+                                <img itemprop="contentUrl url" src='https://images.theconversation.com/files/512871/original/file-20230301-26-ryosag.jpg?ixlib=rb-4.1.0&rect=97%2C79%2C5799%2C5817&q=45&auto=format&w=926&fit=clip' alt='The Dark Side of the Moon at 50: an album artwork expert on Pink ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="926">
+                                <meta itemprop="height" content="929">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Conversation" />
+                                </span>
+                                <a href='https://images.theconversation.com/files/512871/original/file-20230301-26-ryosag.jpg?ixlib=rb-4.1.0&rect=97%2C79%2C5799%2C5817&q=45&auto=format&w=926&fit=clip' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Floyd — Polar Music Prize">
+                                <img itemprop="contentUrl url" src='https://img2.storyblok.com/2400x0/filters:quality(85)/f/101652/850x360/0e09610844/pf2-1968-80-850x360.jpg' alt='Pink Floyd — Polar Music Prize'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1016">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Polar Music Prize" />
+                                </span>
+                                <a href='https://img2.storyblok.com/2400x0/filters:quality(85)/f/101652/850x360/0e09610844/pf2-1968-80-850x360.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Floyd Songs and Music | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/d011c95081cd9a329e506abd7ded47535d524a07' alt='Pink Floyd Songs and Music | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/d011c95081cd9a329e506abd7ded47535d524a07' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Album Art Tales: Behind Storm Thorgerson's Art for Pink Floyd ...">
+                                <img itemprop="contentUrl url" src='https://media.soundoflife.com/34/resources/pEgJr23aBCUMsUPzXPOUqkx4b7ydmFsOEpIsSc03.jpg' alt='Album Art Tales: Behind Storm Thorgerson's Art for Pink Floyd ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sound of Life" />
+                                </span>
+                                <a href='https://media.soundoflife.com/34/resources/pEgJr23aBCUMsUPzXPOUqkx4b7ydmFsOEpIsSc03.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Floyd - Iconic British Rock Band | uDiscover Music">
+                                <img itemprop="contentUrl url" src='https://www.udiscovermusic.com/wp-content/uploads/2020/10/Pink-Floyd-GettyImages-74290466.jpg' alt='Pink Floyd - Iconic British Rock Band | uDiscover Music'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uDiscover Music" />
+                                </span>
+                                <a href='https://www.udiscovermusic.com/wp-content/uploads/2020/10/Pink-Floyd-GettyImages-74290466.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Floyd discography - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/4/4d/Pink_Floyd%2C_1971.jpg' alt='Pink Floyd discography - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="682">
+                                <meta itemprop="height" content="247">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/4/4d/Pink_Floyd%2C_1971.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Floyd (Dark Side of the Moon) Album Cover Framed Print | The ...">
+                                <img itemprop="contentUrl url" src='https://www.artgroup.com/assets/img/products/ACPPR48139W' alt='Pink Floyd (Dark Side of the Moon) Album Cover Framed Print | The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="709">
+                                <meta itemprop="height" content="709">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Art Group" />
+                                </span>
+                                <a href='https://www.artgroup.com/assets/img/products/ACPPR48139W' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Was It Like To See Pink Floyd In 1966? Joe Boyd Knows : All ...">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/img/2016/11/06/gettyimages-73999058-e77baec9f5f97849f41212ff4e1eae31f61853db.jpg' alt='What Was It Like To See Pink Floyd In 1966? Joe Boyd Knows : All ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3047">
+                                <meta itemprop="height" content="2285">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/img/2016/11/06/gettyimages-73999058-e77baec9f5f97849f41212ff4e1eae31f61853db.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

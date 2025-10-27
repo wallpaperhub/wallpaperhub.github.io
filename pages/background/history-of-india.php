@@ -1,0 +1,129 @@
+<title>Exploring the Rich History of India</title>
+                    <meta name="description" content="Discover the captivating history of India, from ancient civilizations to modern independence. Explore key events, cultural milestones, and the legacy of influential figures that shaped the nation's journey through time.">
+                    <meta name="keywords" content="history of india">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/history-of-india">
+                            <span itemprop="name">history of india</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring the Rich History of India</h1>
+                <p>India's history spans thousands of years, marked by the rise and fall of empires such as the Maurya, Gupta, Mughal, and British. It showcases a rich tapestry of cultures, religions, and philosophies, with significant milestones including the Indus Valley Civilization, the birth of Hinduism and Buddhism, and the struggle for independence led by figures like Mahatma Gandhi.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of India: An Enthralling Overview of Significant Civilizations,  Empires, Events, People, and Religion: Wellman, Billy: 9798887651644: ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81fNDk26kqL._AC_UF1000,1000_QL80_.jpg' alt='History of India: An Enthralling Overview of Significant Civilizations,  Empires, Events, People, and Religion: Wellman, Billy: 9798887651644: ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="629">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81fNDk26kqL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Illustrated History of India">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71eCLdAkkFL._AC_UF1000,1000_QL80_.jpg' alt='Illustrated History of India'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="766">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71eCLdAkkFL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of India Podcast | Podcast on Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab6765630000ba8addf26ae5cfb8acbbf8ec549b' alt='The History of India Podcast | Podcast on Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab6765630000ba8addf26ae5cfb8acbbf8ec549b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="India: A History. Revised and Updated">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/914IqHav6IL._AC_UF1000,1000_QL80_.jpg' alt='India: A History. Revised and Updated'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="677">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/914IqHav6IL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of India: A Captivating Guide to Ancient India, Medieval Indian  History, and Modern India Including Stories of the Maurya Empire, the  British ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71+jbTlqLmL._AC_UF1000,1000_QL80_.jpg' alt='History of India: A Captivating Guide to Ancient India, Medieval Indian  History, and Modern India Including Stories of the Maurya Empire, the  British ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="629">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71+jbTlqLmL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of India - MAGIK INDIA">
+                                <img itemprop="contentUrl url" src='https://magikindia.com/wp-content/uploads/2020/05/India-map-978x800.jpg' alt='History of India - MAGIK INDIA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="978">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="magik india" />
+                                </span>
+                                <a href='https://magikindia.com/wp-content/uploads/2020/05/India-map-978x800.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of India - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/North_Gateway_-_Rear_Side_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4480-4481.JPG/1200px-North_Gateway_-_Rear_Side_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4480-4481.JPG' alt='History of India - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1192">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/North_Gateway_-_Rear_Side_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4480-4481.JPG/1200px-North_Gateway_-_Rear_Side_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4480-4481.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A History of India">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71OprbyChzL._AC_UF894,1000_QL80_.jpg' alt='A History of India'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="703">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71OprbyChzL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of India">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51OXxOj5RwL._SL500_.jpg' alt='History of India'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Audible" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51OXxOj5RwL._SL500_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of India - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ranganathaswamy_temple_tiruchirappalli.jpg/300px-Ranganathaswamy_temple_tiruchirappalli.jpg' alt='History of India - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ranganathaswamy_temple_tiruchirappalli.jpg/300px-Ranganathaswamy_temple_tiruchirappalli.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

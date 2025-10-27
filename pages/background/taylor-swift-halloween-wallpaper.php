@@ -1,0 +1,129 @@
+<title>Spooktacular Taylor Swift Halloween Wallpapers for Fans</title>
+                    <meta name="description" content="Discover enchanting Taylor Swift Halloween wallpapers that merge your love for music with festive spirit. Perfect for fans who want to celebrate with style, these wallpapers bring Halloween charm to your screens. Get ready to transform your device and join the spooky fun!">
+                    <meta name="keywords" content="taylor swift halloween wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/taylor-swift-halloween-wallpaper">
+                            <span itemprop="name">taylor swift halloween wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spooktacular Taylor Swift Halloween Wallpapers for Fans</h1>
+                <p>Taylor Swift Halloween wallpaper combines spooky vibes with a pop icon's charm, offering fans a perfect blend of fright and fun. Featuring Taylor in Halloween-themed outfits, enchanting colors, and atmospheric backgrounds, these wallpapers capture the essence of the season. Transform your device with a touch of magic and nostalgia this Halloween!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2d/e7/05/2de705d12c11bc9477438ed0df50a848.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2d/e7/05/2de705d12c11bc9477438ed0df50a848.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift Halloween Wallpapers">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/threads/DAyRSr0yu6L/1/image.jpg' alt='Taylor Swift Halloween Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1204">
+                                <meta itemprop="height" content="2492">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Threads" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/threads/DAyRSr0yu6L/1/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="taylorswift #taylorswiftred #taylorswiftmidnights #autumn #fall ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bc/67/fe/bc67fe6b3accaed5b2122cbd54933ac5.jpg' alt='taylorswift #taylorswiftred #taylorswiftmidnights #autumn #fall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bc/67/fe/bc67fe6b3accaed5b2122cbd54933ac5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check out kikigirly2009's Shuffles   Halloween/ fall wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/345x/c4/a4/43/c4a443b135eaba6761f1bcd7f4801b28.jpg' alt='Check out kikigirly2009's Shuffles   Halloween/ fall wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="345">
+                                <meta itemprop="height" content="613">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shuffles" />
+                                </span>
+                                <a href='https://i.pinimg.com/345x/c4/a4/43/c4a443b135eaba6761f1bcd7f4801b28.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="In My Spooky Era Taylor Swift Halloween Svg Digital File, Halloween Party  Svg">
+                                <img itemprop="contentUrl url" src='https://www.inspireuplift.com/resizer/?image=https://cdn.inspireuplift.com/uploads/images/seller_products/45443/iu_1713829617_1.png&width=600&height=600&quality=90&format=auto&fit=pad' alt='In My Spooky Era Taylor Swift Halloween Svg Digital File, Halloween Party  Svg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Inspire Uplift" />
+                                </span>
+                                <a href='https://www.inspireuplift.com/resizer/?image=https://cdn.inspireuplift.com/uploads/images/seller_products/45443/iu_1713829617_1.png&width=600&height=600&quality=90&format=auto&fit=pad' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="edits    on X: "free taylor swift lock screen halloween fall ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/F7UiktpacAAznlB.jpg:large' alt='edits    on X: "free taylor swift lock screen halloween fall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="946">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/F7UiktpacAAznlB.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Spooky Season Swifties! Oct 1st is finally here! To celebrate here  are some cute Swiftie Spooky Season posters/wallpapers that were made on  @Canva #greenscreen #swiftie #swifttok #taylorswift ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7420653628773633326&location=0&aid=1988' alt='Happy Spooky Season Swifties! Oct 1st is finally here! To celebrate here  are some cute Swiftie Spooky Season posters/wallpapers that were made on  @Canva #greenscreen #swiftie #swifttok #taylorswift ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7420653628773633326&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift Eras Tour 2023 Halloween | Art Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.5280883792.0415/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Taylor Swift Eras Tour 2023 Halloween | Art Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.5280883792.0415/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="       #fall #autumn #taylorswift #halloween #thanksgiving #leaves ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/04/09/a9/0409a993d45c00049e949435ba54a552.jpg' alt='       #fall #autumn #taylorswift #halloween #thanksgiving #leaves ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/04/09/a9/0409a993d45c00049e949435ba54a552.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift Cute Halloween Wallpapers">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/threads/DBTvUjWyns_/9/image.jpg' alt='Taylor Swift Cute Halloween Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1193">
+                                <meta itemprop="height" content="2516">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Threads" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/threads/DBTvUjWyns_/9/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

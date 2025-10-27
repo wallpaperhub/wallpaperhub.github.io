@@ -1,0 +1,129 @@
+<title>Maddie Wallpaper: Vibrant Designs for Your Screen</title>
+                    <meta name="description" content="Discover a stunning collection of Maddie wallpapers that brighten up your device. Perfect for every fan, these vibrant designs are just a click away! Download your favorite Maddie wallpaper and transform your screen today!">
+                    <meta name="keywords" content="maddie wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/maddie-wallpaper">
+                            <span itemprop="name">maddie wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Maddie Wallpaper: Vibrant Designs for Your Screen</h1>
+                <p>Transform your screen with stunning Maddie wallpaper designs! From vibrant colors to mesmerizing patterns, Maddie wallpapers will bring a fresh and lively touch to your devices. Perfect for fans of Maddie, you can choose from a variety of styles that reflect your personality. Download your favorite Maddie wallpaper today and elevate your digital experience!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="To Any Girl Named Maddie">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5b/c7/5d/5bc75d06687e3efd768e917c59016c34.jpg' alt='To Any Girl Named Maddie'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5b/c7/5d/5bc75d06687e3efd768e917c59016c34.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="aesthetic hot pink glitter maddie name | Art Board Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.1695529976.1089/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='aesthetic hot pink glitter maddie name | Art Board Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.1695529976.1089/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maddie">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/45/4d/dc/454ddcd612b8224eefdc3402c7d6d54c.jpg' alt='Maddie'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1254">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/45/4d/dc/454ddcd612b8224eefdc3402c7d6d54c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maddie Logo | Name Logo Generator - Candy, Pastel, Lager, Bowling ...">
+                                <img itemprop="contentUrl url" src='https://logos.textgiraffe.com/logos/logo-name/Maddie-designstyle-pastel-m.png' alt='Maddie Logo | Name Logo Generator - Candy, Pastel, Lager, Bowling ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="textgiraffe logo" />
+                                </span>
+                                <a href='https://logos.textgiraffe.com/logos/logo-name/Maddie-designstyle-pastel-m.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Get my art printed on awesome products. Support me at Redbubble ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8c/ff/f6/8cfff65a61baa2a5c9b7b135954aa7a4.jpg' alt='Get my art printed on awesome products. Support me at Redbubble ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8c/ff/f6/8cfff65a61baa2a5c9b7b135954aa7a4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maddie    @Maddie <3 #foryou #Maddie #flowerlanguage | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7368269911480716550&location=0&aid=1988' alt='Maddie    @Maddie <3 #foryou #Maddie #flowerlanguage | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7368269911480716550&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="aesthetic hot pink glitter maddie name | Art Board Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.1695529976.1089/gbrf,10x10,f,540x540-pad,450x450,f8f8f8.jpg' alt='aesthetic hot pink glitter maddie name | Art Board Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.1695529976.1089/gbrf,10x10,f,540x540-pad,450x450,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maddie Heart - I Love Maddie | Poster">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.5271310726.3624/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Maddie Heart - I Love Maddie | Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.5271310726.3624/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maddie Text Effect and Logo Design Name">
+                                <img itemprop="contentUrl url" src='https://cdn.textstudio.com/output/sample/normal/0/2/7/2/maddie-logo-286-272.png' alt='Maddie Text Effect and Logo Design Name'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="272">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Text Studio" />
+                                </span>
+                                <a href='https://cdn.textstudio.com/output/sample/normal/0/2/7/2/maddie-logo-286-272.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maddie Logo | Name Logo Generator - Candy, Pastel, Lager, Bowling ...">
+                                <img itemprop="contentUrl url" src='https://logos.textgiraffe.com/logos/logo-name/Maddie-designstyle-candy-m.png' alt='Maddie Logo | Name Logo Generator - Candy, Pastel, Lager, Bowling ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="840">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="textgiraffe logo" />
+                                </span>
+                                <a href='https://logos.textgiraffe.com/logos/logo-name/Maddie-designstyle-candy-m.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Popsicle Images with Transparent Backgrounds</title>
+                    <meta name="description" content="Explore vibrant popsicle images with transparent backgrounds, perfect for enhancing your creative projects. Ideal for web designs, social media, and more, these appealing visuals add a splash of color and fun to any artwork. Find the perfect popsicle image today!">
+                    <meta name="keywords" content="popsicle transparent background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/popsicle-transparent-background">
+                            <span itemprop="name">popsicle transparent background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Popsicle Images with Transparent Backgrounds</h1>
+                <p>Discover the refreshing world of popsicles with transparent backgrounds! Perfect for digital design, these delightful images highlight vibrant colors and tempting textures, making them ideal for social media posts, websites, and graphic projects. Elevate your creative work with these eye-catching popsicle visuals that capture summer joy!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bom Pop Popsicle PNG Graphic - Transparent Digital Download File ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28921914/r/il/d923fa/3656366438/il_570xN.3656366438_8w35.jpg' alt='Bom Pop Popsicle PNG Graphic - Transparent Digital Download File ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="518">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28921914/r/il/d923fa/3656366438/il_570xN.3656366438_8w35.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Popsicle PNG Clipart​ | Gallery Yopriceville - High-Quality ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/downloadfullsize/send/28544' alt='Green Popsicle PNG Clipart​ | Gallery Yopriceville - High-Quality ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3092">
+                                <meta itemprop="height" content="8000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/downloadfullsize/send/28544' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Popsicle PNG, Vector, PSD, and Clipart With Transparent Background ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20220609/ourmid/pngtree-orange-popsicle-icon-realistic-vector-png-image_4848868.png' alt='Popsicle PNG, Vector, PSD, and Clipart With Transparent Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20220609/ourmid/pngtree-orange-popsicle-icon-realistic-vector-png-image_4848868.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Popsicle PNG Clipart​ | Gallery Yopriceville - High-Quality ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/downloadfullsize/send/28543' alt='Blue Popsicle PNG Clipart​ | Gallery Yopriceville - High-Quality ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3092">
+                                <meta itemprop="height" content="8000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/downloadfullsize/send/28543' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Popsicles Clipart Transparent PNG Hd, Popsicle, Watermelon, Ice ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20220110/original/pngtree-popsicle-png-image_7068274.png' alt='Popsicles Clipart Transparent PNG Hd, Popsicle, Watermelon, Ice ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20220110/original/pngtree-popsicle-png-image_7068274.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful assorted ice popsicles isolated on transparent background ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-psd/colorful-assorted-ice-popsicles-isolated-transparent-background_698214-3472.jpg' alt='Colorful assorted ice popsicles isolated on transparent background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-psd/colorful-assorted-ice-popsicles-isolated-transparent-background_698214-3472.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Popsicle Clipart transparent PNG - StickPNG">
+                                <img itemprop="contentUrl url" src='https://assets.stickpng.com/thumbs/5a902450b15d5c051b36908e.png' alt='Popsicle Clipart transparent PNG - StickPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StickPNG" />
+                                </span>
+                                <a href='https://assets.stickpng.com/thumbs/5a902450b15d5c051b36908e.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Popsicle PNG Transparent Images Free Download | Vector Files | Pngtree">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20201128/ourmid/pngtree-popsicle-png-image_2448737.jpg' alt='Popsicle PNG Transparent Images Free Download | Vector Files | Pngtree'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20201128/ourmid/pngtree-popsicle-png-image_2448737.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tasty strawberry popsicle isolated on transparent background ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/027/144/777/non_2x/tasty-strawberry-popsicle-isolated-on-transparent-background-png.png' alt='Tasty strawberry popsicle isolated on transparent background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/027/144/777/non_2x/tasty-strawberry-popsicle-isolated-on-transparent-background-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Popsicle Ice Cream PNG Transparent Clipart​ | Gallery ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/downloadfullsize/send/29829' alt='Blue Popsicle Ice Cream PNG Transparent Clipart​ | Gallery ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3258">
+                                <meta itemprop="height" content="8000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/downloadfullsize/send/29829' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

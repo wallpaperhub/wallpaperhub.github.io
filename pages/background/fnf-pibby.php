@@ -1,0 +1,129 @@
+<title>FNF Pibby: Adventure Time meets Rhythm Fun!</title>
+                    <meta name="description" content="Explore the exciting FNF Pibby mod, where Adventure Time characters collide with rhythm battles! Enjoy unique songs, vibrant visuals, and engaging gameplay in this thrilling crossover. Perfect for fans looking for new challenges in Friday Night Funkin'! Play now and dive into the chaos!">
+                    <meta name="keywords" content="fnf pibby">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fnf-pibby">
+                            <span itemprop="name">fnf pibby</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>FNF Pibby: Adventure Time meets Rhythm Fun!</h1>
+                <p>FNF Pibby is a thrilling crossover mod of Friday Night Funkin' that introduces characters from the popular show "Adventure Time" into the rhythm game. Players enjoy fun, challenging battles while navigating vibrant environments. The mod showcases unique songs and animations, capturing the chaotic essence of both universes.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SENSITIVE CONTENT] Friday Night Funkin': Pibby Corrupted [Friday ...">
+                                <img itemprop="contentUrl url" src='https://images.gamebanana.com/img/ss/mods/6681cfcc5e12f.jpg' alt='SENSITIVE CONTENT] Friday Night Funkin': Pibby Corrupted [Friday ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameBanana" />
+                                </span>
+                                <a href='https://images.gamebanana.com/img/ss/mods/6681cfcc5e12f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pibby (disambiguation) | Funkipedia Mods Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/fridaynightfunking/images/a/ac/Pibbyshadedidle.gif/revision/latest/scale-to-width-down/250?cb=20220204142257' alt='Pibby (disambiguation) | Funkipedia Mods Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="292">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Funkipedia Mods Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/fridaynightfunking/images/a/ac/Pibbyshadedidle.gif/revision/latest/scale-to-width-down/250?cb=20220204142257' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FNF: Pibby Corrupted 1.5 - Play Online on Snokido">
+                                <img itemprop="contentUrl url" src='https://w8.snokido.com/img/large/fnf-pibby-corrupted.jpg' alt='FNF: Pibby Corrupted 1.5 - Play Online on Snokido'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Snokido" />
+                                </span>
+                                <a href='https://w8.snokido.com/img/large/fnf-pibby-corrupted.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FNF: Pibby Invasion | Funkin' Fanon Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/friday-night-funkin-fanon/images/4/48/Survivor_bf_fixed.gif/revision/latest?cb=20220817004752' alt='FNF: Pibby Invasion | Funkin' Fanon Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="463">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Funkin' Fanon Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/friday-night-funkin-fanon/images/4/48/Survivor_bf_fixed.gif/revision/latest?cb=20220817004752' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pibby All Mods (BIG PACK) FNF x Come and Learn with Pibby! - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/FT8NtVsH5_I/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCb8BegM1Q2qxQr3pBEqiPvkD2BYQ' alt='Pibby All Mods (BIG PACK) FNF x Come and Learn with Pibby! - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/FT8NtVsH5_I/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCb8BegM1Q2qxQr3pBEqiPvkD2BYQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FNF] Pibby Corrupted BF Animations! by IanIsDaArtist on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/076b259c-cfd2-4b75-87c0-ca612d476693/dexfzaj-25f692fd-6273-482c-a7e2-6aa665d0240a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA3NmIyNTljLWNmZDItNGI3NS04N2MwLWNhNjEyZDQ3NjY5M1wvZGV4Znphai0yNWY2OTJmZC02MjczLTQ4MmMtYTdlMi02YWE2NjVkMDI0MGEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.oSOrwNKLw7LF7dELXc4TxR4PoDlaK2wn__UY21pOx7c' alt='FNF] Pibby Corrupted BF Animations! by IanIsDaArtist on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="458">
+                                <meta itemprop="height" content="458">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/076b259c-cfd2-4b75-87c0-ca612d476693/dexfzaj-25f692fd-6273-482c-a7e2-6aa665d0240a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA3NmIyNTljLWNmZDItNGI3NS04N2MwLWNhNjEyZDQ3NjY5M1wvZGV4Znphai0yNWY2OTJmZC02MjczLTQ4MmMtYTdlMi02YWE2NjVkMDI0MGEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.oSOrwNKLw7LF7dELXc4TxR4PoDlaK2wn__UY21pOx7c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pibby Fnf Sticker - Pibby Fnf Pibby apocalypse - Discover & Share GIFs">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/-vFGRdeAVusAAAAe/pibby-fnf.png' alt='Pibby Fnf Sticker - Pibby Fnf Pibby apocalypse - Discover & Share GIFs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="326">
+                                <meta itemprop="height" content="424">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/-vFGRdeAVusAAAAe/pibby-fnf.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some FNF Pibby Corrupted mod concepts i made : r/Pibby">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/some-fnf-pibby-corrupted-mod-concepts-i-made-v0-qfi4ckzadyk81.png?width=1920&format=png&auto=webp&s=5591089c197479ad5eabfd18c879dab2e68b0029' alt='Some FNF Pibby Corrupted mod concepts i made : r/Pibby'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/some-fnf-pibby-corrupted-mod-concepts-i-made-v0-qfi4ckzadyk81.png?width=1920&format=png&auto=webp&s=5591089c197479ad5eabfd18c879dab2e68b0029' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FNF VS Pibby Corrupted v1.5 | Friday Night Funkin'">
+                                <img itemprop="contentUrl url" src='https://gamaverse.com/c/i/y/fnf-vs-pibby-corrupted-full-week.jpg' alt='FNF VS Pibby Corrupted v1.5 | Friday Night Funkin''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gamaverse" />
+                                </span>
+                                <a href='https://gamaverse.com/c/i/y/fnf-vs-pibby-corrupted-full-week.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Friday Night Funkin': Pibby Corrupted/Characters | Funkipedia Mods ...">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/fridaynightfunking/images/d/d3/PibbyCorruptedStevenShieldIdle.gif/revision/latest/scale-to-width/360?cb=20240707074756' alt='Friday Night Funkin': Pibby Corrupted/Characters | Funkipedia Mods ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="382">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Funkipedia Mods Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/fridaynightfunking/images/d/d3/PibbyCorruptedStevenShieldIdle.gif/revision/latest/scale-to-width/360?cb=20240707074756' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Blur Your Background: Easy Steps to Enhance Your Pictures</title>
+                    <meta name="description" content="Learn how to easily blur backgrounds in your photos with our step-by-step guide. Discover tools and techniques to highlight your subject and create stunning images with depth and focus. Perfect for beginners and pros alike!">
+                    <meta name="keywords" content="how to blur the background in a picture">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/how-to-blur-the-background-in-a-picture">
+                            <span itemprop="name">how to blur the background in a picture</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Blur Your Background: Easy Steps to Enhance Your Pictures</h1>
+                <p>To blur the background in a picture, start by selecting a photo editing tool or app with a blur feature. Import your image and use the selection tool to isolate the subject. Once selected, apply the blur effect to the background, adjusting the intensity to achieve the desired look. Save your edited image for a professional finish.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Blur Background In Your iPhone Photos: The Ultimate Guide">
+                                <img itemprop="contentUrl url" src='https://images.iphonephotographyschool.com/26722/1120/How-To-Blur-Background-On-iPhone.jpg' alt='How To Blur Background In Your iPhone Photos: The Ultimate Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1120">
+                                <meta itemprop="height" content="1105">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iPhone Photography School" />
+                                </span>
+                                <a href='https://images.iphonephotographyschool.com/26722/1120/How-To-Blur-Background-On-iPhone.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Blur Background Tool - Blur Photo Background Online | Canva">
+                                <img itemprop="contentUrl url" src='https://content-management-files.canva.com/7ca6af86-2238-4f94-a8ad-6e7cf03b5297/tools-feature_blur-background_promo-showcase_01.jpg' alt='Free Blur Background Tool - Blur Photo Background Online | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4032">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://content-management-files.canva.com/7ca6af86-2238-4f94-a8ad-6e7cf03b5297/tools-feature_blur-background_promo-showcase_01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Blur Photo Background in Photoshop Like Very Expensive Lens  Photography">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/azsfUXCxtO8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLABJvraXMYJRBob92a_Hf73Odhbmg' alt='How to Blur Photo Background in Photoshop Like Very Expensive Lens  Photography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/azsfUXCxtO8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLABJvraXMYJRBob92a_Hf73Odhbmg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3 Ways to Blur the Background of Your Photos | Learn BeFunky">
+                                <img itemprop="contentUrl url" src='https://www.befunky.com/images/wp/wp-2020-05-Blur-Photo-Background-17.jpg?auto=avif,webp&format=jpg&width=944' alt='3 Ways to Blur the Background of Your Photos | Learn BeFunky'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="944">
+                                <meta itemprop="height" content="629">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BeFunky" />
+                                </span>
+                                <a href='https://www.befunky.com/images/wp/wp-2020-05-Blur-Photo-Background-17.jpg?auto=avif,webp&format=jpg&width=944' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3 Ways to Blur the Background of Your Photos | Learn BeFunky">
+                                <img itemprop="contentUrl url" src='https://www.befunky.com/images/wp/wp-2022-12-blur-background-blur-tool-after.jpg?auto=avif,webp&format=jpg&width=944' alt='3 Ways to Blur the Background of Your Photos | Learn BeFunky'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="944">
+                                <meta itemprop="height" content="708">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BeFunky" />
+                                </span>
+                                <a href='https://www.befunky.com/images/wp/wp-2022-12-blur-background-blur-tool-after.jpg?auto=avif,webp&format=jpg&width=944' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 pro tips to change the background blur of photos on iPhone">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2023/11/Increase-or-decrease-background-blur-after-taking-photo-on-iPhone.jpg' alt='5 pro tips to change the background blur of photos on iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1678">
+                                <meta itemprop="height" content="1665">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2023/11/Increase-or-decrease-background-blur-after-taking-photo-on-iPhone.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Blur Background in Photoshop - A Guide for Beginners | Fotor">
+                                <img itemprop="contentUrl url" src='https://imgv3.fotor.com/images/blog-cover-image/blur-female-image-background-with-photoshop.jpg' alt='How to Blur Background in Photoshop - A Guide for Beginners | Fotor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fotor" />
+                                </span>
+                                <a href='https://imgv3.fotor.com/images/blog-cover-image/blur-female-image-background-with-photoshop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to get background blur in your photos by Zoë Power | Beautiful ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/620bb50c00af5319710b2218/1645370862384-86PJCO17J3RI7D1L1VEB/image-asset.jpeg' alt='How to get background blur in your photos by Zoë Power | Beautiful ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Beautiful Simplicity" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/620bb50c00af5319710b2218/1645370862384-86PJCO17J3RI7D1L1VEB/image-asset.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Blur Background on iPhone Instantly: 4 Easy Ways">
+                                <img itemprop="contentUrl url" src='https://imgv3.fotor.com/images/blog-richtext-image/use-portrait-mode-to-take-a-photo-of-a-female-on-iPhone.jpg' alt='How to Blur Background on iPhone Instantly: 4 Easy Ways'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="765">
+                                <meta itemprop="height" content="468">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fotor" />
+                                </span>
+                                <a href='https://imgv3.fotor.com/images/blog-richtext-image/use-portrait-mode-to-take-a-photo-of-a-female-on-iPhone.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Blur a Background in Photoshop">
+                                <img itemprop="contentUrl url" src='https://blog.spoongraphics.co.uk/wp-content/uploads/2019/02/post-thumbnail-1.jpg' alt='How To Blur a Background in Photoshop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoon Graphics" />
+                                </span>
+                                <a href='https://blog.spoongraphics.co.uk/wp-content/uploads/2019/02/post-thumbnail-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

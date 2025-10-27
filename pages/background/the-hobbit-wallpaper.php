@@ -1,0 +1,129 @@
+<title>The Hobbit Wallpaper: Enchant Your Space</title>
+                    <meta name="description" content="Discover enchanting Hobbit wallpaper designs that illuminate your space with the magic of Middle-earth. Perfect for fans, these wallpapers feature beloved characters and breathtaking landscapes, adding a touch of adventure to any room. Explore our collection now!">
+                    <meta name="keywords" content="the hobbit wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/the-hobbit-wallpaper">
+                            <span itemprop="name">the hobbit wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The Hobbit Wallpaper: Enchant Your Space</h1>
+                <p>Transform your space with stunning Hobbit wallpaper that brings the enchanting world of Middle-earth to life. Featuring vibrant landscapes, iconic characters, and magical scenes from J.R.R. Tolkien's beloved tale, these wallpapers will inspire adventure and imagination in any room. Perfect for fans of all ages!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Hobbit Wallpapers (86 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/e/6/2/136194-3840x2160-desktop-4k-the-hobbit-wallpaper-image.jpg' alt='The Hobbit Wallpapers (86 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/e/6/2/136194-3840x2160-desktop-4k-the-hobbit-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Hobbit: The Desolation of Smaug Wallpaper by 1love1jesus on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bc4f6bd2-7249-4aab-80c0-035f8d88afe6/d6afef2-e6d5269f-9e3b-4c5c-8175-edd4dd85f1c9.png/v1/fill/w_1024,h_640/the_hobbit__the_desolation_of_smaug_wallpaper_by_1love1jesus_d6afef2-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjQwIiwicGF0aCI6IlwvZlwvYmM0ZjZiZDItNzI0OS00YWFiLTgwYzAtMDM1ZjhkODhhZmU2XC9kNmFmZWYyLWU2ZDUyNjlmLTllM2ItNGM1Yy04MTc1LWVkZDRkZDg1ZjFjOS5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.yGzz-T7NFotqtUt-kDrJtJokeGEvLfuXCBcRdpcEW6M' alt='The Hobbit: The Desolation of Smaug Wallpaper by 1love1jesus on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bc4f6bd2-7249-4aab-80c0-035f8d88afe6/d6afef2-e6d5269f-9e3b-4c5c-8175-edd4dd85f1c9.png/v1/fill/w_1024,h_640/the_hobbit__the_desolation_of_smaug_wallpaper_by_1love1jesus_d6afef2-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjQwIiwicGF0aCI6IlwvZlwvYmM0ZjZiZDItNzI0OS00YWFiLTgwYzAtMDM1ZjhkODhhZmU2XC9kNmFmZWYyLWU2ZDUyNjlmLTllM2ItNGM1Yy04MTc1LWVkZDRkZDg1ZjFjOS5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.yGzz-T7NFotqtUt-kDrJtJokeGEvLfuXCBcRdpcEW6M' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Hobbit: The Desolation of Smaug - Captivating HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/496/496632.jpg' alt='The Hobbit: The Desolation of Smaug - Captivating HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/496/496632.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Hobbit Wallpapers (86 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/d/d/a/136786-2560x1600-desktop-hd-the-hobbit-wallpaper-image.jpg' alt='The Hobbit Wallpapers (86 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/d/d/a/136786-2560x1600-desktop-hd-the-hobbit-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Hobbit Home Screen Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/home-screen/images/640/the-hobbit-home-screen-wallpaper.png' alt='The Hobbit Home Screen Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/home-screen/images/640/the-hobbit-home-screen-wallpaper.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gandalf in The Shire HD Wallpaper - The Hobbit: An Unexpected ...">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/289/289924.jpg' alt='Gandalf in The Shire HD Wallpaper - The Hobbit: An Unexpected ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/289/289924.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper mountains, minimalism, the hobbit, the desolation of ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/original/1920x1080/1/e0/gory-khobbit-pustosh-smauga-minimalizm.jpg' alt='Wallpaper mountains, minimalism, the hobbit, the desolation of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/original/1920x1080/1/e0/gory-khobbit-pustosh-smauga-minimalizm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Smaug From The Hobbit Wallpaper - GetWalls.io">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/da/d2/20/dad2203e58c75208085d77c24127873c.jpg' alt='Download Smaug From The Hobbit Wallpaper - GetWalls.io'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/da/d2/20/dad2203e58c75208085d77c24127873c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] The Hobbit Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/the-hobbit-dicrd9to40d8op57.jpg' alt='100+] The Hobbit Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/the-hobbit-dicrd9to40d8op57.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Hobbit Wallpapers (86 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/1/7/e/136217-3840x2160-desktop-4k-the-hobbit-wallpaper-photo.jpg' alt='The Hobbit Wallpapers (86 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/1/7/e/136217-3840x2160-desktop-4k-the-hobbit-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

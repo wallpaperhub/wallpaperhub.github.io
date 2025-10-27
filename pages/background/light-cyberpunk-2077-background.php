@@ -1,0 +1,129 @@
+<title>Exploring the Neon World of Cyberpunk 2077</title>
+                    <meta name="description" content="Discover the vibrant yet gritty background of Cyberpunk 2077. Dive into a futuristic landscape where technology and humanity collide, offering a unique gaming experience filled with adventure, intrigue, and visually striking environments. Perfect for fans of immersive narratives and stunning visuals!">
+                    <meta name="keywords" content="light cyberpunk 2077 background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/light-cyberpunk-2077-background">
+                            <span itemprop="name">light cyberpunk 2077 background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring the Neon World of Cyberpunk 2077</h1>
+                <p>In the neon-lit world of Cyberpunk 2077, the setting immerses players in a sprawling dystopia filled with augmented humans, towering skyscrapers, and the allure of technology. Amidst the chaos, factions vie for power while cybernetic enhancements blur the line between man and machine, crafting a unique backdrop for thrilling adventures.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lights and Color in Cyberpunk Environments">
+                                <img itemprop="contentUrl url" src='https://cdn.80.lv/api/upload/post/4547/images/5d2cbf50e279d/widen_2440x0.jpg' alt='Lights and Color in Cyberpunk Environments'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2440">
+                                <meta itemprop="height" content="1281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="80 Level" />
+                                </span>
+                                <a href='https://cdn.80.lv/api/upload/post/4547/images/5d2cbf50e279d/widen_2440x0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k Wallpaper + lights and reflections : r/cyberpunkgame">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/l4dosh4ghh311.jpg' alt='4k Wallpaper + lights and reflections : r/cyberpunkgame'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/l4dosh4ghh311.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cyberpunk 2077 Night City Wallpaper 4K : r/cyberpunkgame">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/mdvmefeejg331.jpg' alt='Cyberpunk 2077 Night City Wallpaper 4K : r/cyberpunkgame'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/mdvmefeejg331.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cyberpunk 2077 City Urban Lights Neon City Pan HD WALLPAPER ...">
+                                <img itemprop="contentUrl url" src='https://images.hdqwalls.com/download/neon-city-pan-4k-20-1920x1080.jpg' alt='Cyberpunk 2077 City Urban Lights Neon City Pan HD WALLPAPER ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gnome Look" />
+                                </span>
+                                <a href='https://images.hdqwalls.com/download/neon-city-pan-4k-20-1920x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cyberpunk 2077 Wallpaper 4K, Neon art, Neon Lights, Triangles">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/motorcycle-cyberpunk-2077-neon-art-neon-lights-triangles-3840x2160-7289.jpg' alt='Cyberpunk 2077 Wallpaper 4K, Neon art, Neon Lights, Triangles'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/motorcycle-cyberpunk-2077-neon-art-neon-lights-triangles-3840x2160-7289.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Night City Lights 1440p Cyberpunk 2077 Background ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/1440p-cyberpunk-2077-background-xalsmxcwj8dpnet9.jpg' alt='Download Night City Lights 1440p Cyberpunk 2077 Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="804">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/1440p-cyberpunk-2077-background-xalsmxcwj8dpnet9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Neon Street Night Video Game Cyberpunk 2077 4k Ultra HD ...">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/108/1083382.jpg' alt='Download Neon Street Night Video Game Cyberpunk 2077 4k Ultra HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/108/1083382.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The lighting in Cyberpunk 2077 is gorgeous. : r/gaming">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/cenqp9ipajae1.jpeg' alt='The lighting in Cyberpunk 2077 is gorgeous. : r/gaming'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2132">
+                                <meta itemprop="height" content="1599">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/cenqp9ipajae1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="City Lights Night Cyberpunk 2077 Video Games Dark Background ...">
+                                <img itemprop="contentUrl url" src='https://w.wallha.com/ws/14/Ib1jWKGl.png' alt='City Lights Night Cyberpunk 2077 Video Games Dark Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallha.com" />
+                                </span>
+                                <a href='https://w.wallha.com/ws/14/Ib1jWKGl.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: Cyberpunk 2077, video game art, city, night, city ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c8/26/37/c8263784c7b1571a99b1ae88335df5a2.jpg' alt='HD wallpaper: Cyberpunk 2077, video game art, city, night, city ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c8/26/37/c8263784c7b1571a99b1ae88335df5a2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

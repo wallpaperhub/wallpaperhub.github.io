@@ -1,0 +1,129 @@
+<title>Miles Morales 4K PC Wallpaper Collection</title>
+                    <meta name="description" content="Discover an exclusive collection of 4K Miles Morales wallpapers for your PC. Enhance your screen with high-resolution images featuring the iconic Spider-Man. Perfect for fans looking to personalize their devices with vibrant and stunning visuals. Download your favorite designs today!">
+                    <meta name="keywords" content="miles morales wallpaper 4k pc">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/miles-morales-wallpaper-4k-pc">
+                            <span itemprop="name">miles morales wallpaper 4k pc</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Miles Morales 4K PC Wallpaper Collection</h1>
+                <p>Transform your PC with stunning 4K Miles Morales wallpapers! Featuring vibrant colors and dynamic poses, these wallpapers elevate your screen's look while celebrating the beloved Spider-Man character. Perfect for fans and gamers, each wallpaper captures the essence of Miles in breathtaking detail. Download now and enjoy!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Miles Morales (Spider-Man: Into the Spider-Verse) [1920x1080] : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/xk3soxi020311.jpg?auto=webp&s=78f33503ea76c01e71aeec4c26df94b713968a18' alt='Miles Morales (Spider-Man: Into the Spider-Verse) [1920x1080] : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/xk3soxi020311.jpg?auto=webp&s=78f33503ea76c01e71aeec4c26df94b713968a18' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Ultra HD Wallpaper of Miles Morales: The Urban Spider-Man">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/113/1137946.jpg' alt='4K Ultra HD Wallpaper of Miles Morales: The Urban Spider-Man'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5120">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/113/1137946.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marvel's Spider-Man: Miles Morales PC Games Wallpaper 4K">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/marvels-spider-man-3440x1440-11794.jpeg' alt='Marvel's Spider-Man: Miles Morales PC Games Wallpaper 4K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/marvels-spider-man-3440x1440-11794.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MILES MORALES WALLPAPER (3840x2160) : r/wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/7ppvb8uyrjj61.jpg' alt='MILES MORALES WALLPAPER (3840x2160) : r/wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/7ppvb8uyrjj61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30+ Miles Morales Live Wallpapers 4K & HD">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/media/2001/miles-morales-in-multiverse.jpg' alt='30+ Miles Morales Live Wallpapers 4K & HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/media/2001/miles-morales-in-multiverse.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Miles Morales in Jacket Spiderman Desktop Wallpaper in 4K">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2024/06/miles-morales-in-jacket-spiderman-desktop-wallpaper-preview.jpg' alt='Free Miles Morales in Jacket Spiderman Desktop Wallpaper in 4K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2024/06/miles-morales-in-jacket-spiderman-desktop-wallpaper-preview.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Miles Morales Epic Laptop HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/miles-14_63863140925853.1.jpg' alt='Miles Morales Epic Laptop HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Hackster" />
+                                </span>
+                                <a href='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/miles-14_63863140925853.1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Miles Morales Marvel's Spider-Man: Miles Morales 4k Ultra ...">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/131/1316969.png' alt='Download Miles Morales Marvel's Spider-Man: Miles Morales 4k Ultra ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2881">
+                                <meta itemprop="height" content="1618">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/131/1316969.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Miles Morales Spider-Man: Across the Spider-Verse 4K Wallpaper HD ...">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/miles-morales-spider-man-across-the-spider-verse-903@0@h-pc-4k.jpg' alt='Miles Morales Spider-Man: Across the Spider-Verse 4K Wallpaper HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/miles-morales-spider-man-across-the-spider-verse-903@0@h-pc-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Spider-Man Miles Morales 2020 Wallpaper, HD Games 4K Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/65/77/6c/65776c59f766dae505df83fb50ff79ca.jpg' alt='4K Spider-Man Miles Morales 2020 Wallpaper, HD Games 4K Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/65/77/6c/65776c59f766dae505df83fb50ff79ca.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stylish Terracotta Aesthetic Wallpaper for Cozy Home Decor</title>
+                    <meta name="description" content="Discover the beauty of terracotta aesthetic wallpaper. Perfect for adding warmth and charm to your home, this wallpaper is ideal for bohemian and modern styles alike. Transform your space with rich earthy tones and create an inviting atmosphere. Shop now for stylish designs!">
+                    <meta name="keywords" content="terracotta aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/terracotta-aesthetic-wallpaper">
+                            <span itemprop="name">terracotta aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Terracotta Aesthetic Wallpaper for Cozy Home Decor</h1>
+                <p>Terracotta aesthetic wallpaper brings warmth and a touch of rustic charm to any space. Its earthy hues, reminiscent of sunbaked clay, create a cozy atmosphere, perfect for modern and bohemian interiors alike. Ideal for feature walls or entire rooms, this wallpaper transforms your home into a stylish sanctuary effortlessly.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Venation Wallpaper Terracotta from 17 Patterns, Botanical Wallcovering">
+                                <img itemprop="contentUrl url" src='https://www.17patterns.com/wp-content/uploads/2022/05/A17-VE-08W_Venation-Terracotta-SQ-WEB.jpg' alt='Venation Wallpaper Terracotta from 17 Patterns, Botanical Wallcovering'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="17 Patterns" />
+                                </span>
+                                <a href='https://www.17patterns.com/wp-content/uploads/2022/05/A17-VE-08W_Venation-Terracotta-SQ-WEB.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Terracotta Sun - Heavy Type II">
+                                <img itemprop="contentUrl url" src='http://wallsneedlove.com/cdn/shop/products/w0584_1s_White-daisy-flower-sketch-terracotta-pattern-wallpaper-Terracotta-Sun_Repeating-Pattern-Sample-1.jpg?v=1734715685' alt='Terracotta Sun - Heavy Type II'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2097">
+                                <meta itemprop="height" content="1296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='http://wallsneedlove.com/cdn/shop/products/w0584_1s_White-daisy-flower-sketch-terracotta-pattern-wallpaper-Terracotta-Sun_Repeating-Pattern-Sample-1.jpg?v=1734715685' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Terracotta Wavy Elegance">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/terracotta-wavy-elegance-pattern-repeat-removable-wallpaper-design.jpg' alt='Terracotta Wavy Elegance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/terracotta-wavy-elegance-pattern-repeat-removable-wallpaper-design.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Terracotta Evenings Collection Collection | Peel & Stick Or Non-pasted">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/tropical-terracotta-leaves-pattern-repeat-removable-wallpaper-design-683x1024.jpg' alt='Terracotta Evenings Collection Collection | Peel & Stick Or Non-pasted'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/tropical-terracotta-leaves-pattern-repeat-removable-wallpaper-design-683x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="aesthetic abstract terracotta phone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cb/e5/c8/cbe5c8220d6d9322420b8bb8ab4d4455.jpg' alt='aesthetic abstract terracotta phone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cb/e5/c8/cbe5c8220d6d9322420b8bb8ab4d4455.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ea/5b/36/ea5b36a49d64ce6b59325104bfb6bcd3.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1041">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ea/5b/36/ea5b36a49d64ce6b59325104bfb6bcd3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Terracotta Evenings Collection Collection | Peel & Stick Or Non-pasted">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/terracotta-sand-lines-pattern-repeat-removable-wallpaper-design-683x1024.jpg' alt='Terracotta Evenings Collection Collection | Peel & Stick Or Non-pasted'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/terracotta-sand-lines-pattern-repeat-removable-wallpaper-design-683x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Venation Wallpaper Terracotta from 17 Patterns, Botanical Wallcovering">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.17patterns.com/wp-content/uploads/2022/05/A17-VE-08W_Venation-Terracotta_Lifetsyle-WEB-II.jpg?fit=1600%2C1600&ssl=1' alt='Venation Wallpaper Terracotta from 17 Patterns, Botanical Wallcovering'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="17 Patterns" />
+                                </span>
+                                <a href='https://i0.wp.com/www.17patterns.com/wp-content/uploads/2022/05/A17-VE-08W_Venation-Terracotta_Lifetsyle-WEB-II.jpg?fit=1600%2C1600&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Terracotta and Beige Cool Doodle Abstract Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/b5/8e/8e/b58e8e8d6e4c448660e6aa75ae0c8dbc.jpg' alt='Terracotta and Beige Cool Doodle Abstract Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/b5/8e/8e/b58e8e8d6e4c448660e6aa75ae0c8dbc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 2 | Wallpaper Brown Aesthetic Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/watercolor-terracotta-background_23-2149563397.jpg' alt='Page 2 | Wallpaper Brown Aesthetic Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/watercolor-terracotta-background_23-2149563397.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

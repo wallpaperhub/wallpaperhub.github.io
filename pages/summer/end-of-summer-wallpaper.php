@@ -1,0 +1,129 @@
+<title>Vibrant End of Summer Wallpaper Collection</title>
+                    <meta name="description" content="Explore a curated collection of end of summer wallpapers that celebrate nature’s beauty during the transitional season. Transform your device with stunning visuals of sunsets and golden leaves, perfect for welcoming autumn's cozy vibes. Download your favorites to embrace the warmth of summer's end!">
+                    <meta name="keywords" content="end of summer wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/summer">
+                            <span itemprop="name">Summer</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/summer/end-of-summer-wallpaper">
+                            <span itemprop="name">end of summer wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant End of Summer Wallpaper Collection</h1>
+                <p>As summer fades, embrace the beauty of transition with stunning end of summer wallpapers. From vibrant sunsets to golden leaves, these designs capture the essence of nature’s lullaby. Elevate your screens with seasonal charm, blending warmth into your digital spaces while welcoming the cozy vibes of autumn.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] End Of Summer Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/end-of-summer-9tk6w2wede914maq.jpg' alt='100+] End Of Summer Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/end-of-summer-9tk6w2wede914maq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="End Of Summer Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1573735980586-f976e664f5f6?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZW5kJTIwb2YlMjBzdW1tZXJ8ZW58MHx8MHx8fDA%3D' alt='End Of Summer Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1573735980586-f976e664f5f6?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZW5kJTIwb2YlMjBzdW1tZXJ8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="End Of Summer Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1626875948363-0fea2ff31148?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZW5kJTIwb2YlMjBzdW1tZXJ8ZW58MHx8MHx8fDA%3D' alt='End Of Summer Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1994">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1626875948363-0fea2ff31148?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZW5kJTIwb2YlMjBzdW1tZXJ8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="14,800+ End Of Summer Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/487044812/photo/text-bye-bye-summer-in-a-chalkboard-on-the-beach.jpg?s=612x612&w=0&k=20&c=8Zpo5d03_e4P2c-M9cfXKqUiiUGFyCHnHyR-UDVs8cI=' alt='14,800+ End Of Summer Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="406">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/487044812/photo/text-bye-bye-summer-in-a-chalkboard-on-the-beach.jpg?s=612x612&w=0&k=20&c=8Zpo5d03_e4P2c-M9cfXKqUiiUGFyCHnHyR-UDVs8cI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Wallpaper Photos, Download The BEST Free Summer Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/262325/pexels-photo-262325.jpeg?cs=srgb&dl=pexels-pixabay-262325.jpg&fm=jpg' alt='Summer Wallpaper Photos, Download The BEST Free Summer Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4928">
+                                <meta itemprop="height" content="3264">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/262325/pexels-photo-262325.jpeg?cs=srgb&dl=pexels-pixabay-262325.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="0+] End Of Summer Pictures | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/end-of-summer-pictures-067c159kl6egnu89.jpg' alt='0+] End Of Summer Pictures | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/end-of-summer-pictures-067c159kl6egnu89.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="End Of Summer Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp9820290.jpg' alt='End Of Summer Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp9820290.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD end of summer sunset wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/510/235/HD-wallpaper-land-s-end-cornwall-summer-sunset.jpg' alt='HD end of summer sunset wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/510/235/HD-wallpaper-land-s-end-cornwall-summer-sunset.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Park in the end of summer - Other & Nature Background Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://cache.desktopnexus.com/thumbseg/892/892857-bigthumbnail.jpg' alt='Park in the end of summer - Other & Nature Background Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nature Wallpapers - Desktop Nexus" />
+                                </span>
+                                <a href='https://cache.desktopnexus.com/thumbseg/892/892857-bigthumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="End Of Summer Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1565593753903-d5cd8a5765d3?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZW5kJTIwb2YlMjBzdW1tZXJ8ZW58MHx8MHx8fDA%3D' alt='End Of Summer Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1565593753903-d5cd8a5765d3?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZW5kJTIwb2YlMjBzdW1tZXJ8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

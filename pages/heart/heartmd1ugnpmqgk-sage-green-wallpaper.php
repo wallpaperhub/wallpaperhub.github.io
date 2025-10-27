@@ -1,0 +1,129 @@
+<title>Sage Green Wallpaper: Elegant & Calming Decor</title>
+                    <meta name="description" content="Discover the beauty of sage green wallpaper, a perfect choice for stylish and serene interiors. This trendy color enhances any space, offering a fresh and modern touch while promoting relaxation. Ideal for all rooms, see how this wallpaper can transform your home effortlessly.">
+                    <meta name="keywords" content="heart:md1ugnpmqgk= sage green wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart">
+                            <span itemprop="name">Heart</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart/heartmd1ugnpmqgk-sage-green-wallpaper">
+                            <span itemprop="name">heart:md1ugnpmqgk= sage green wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Sage Green Wallpaper: Elegant & Calming Decor</h1>
+                <p>Transform your space with beautiful sage green wallpaper, perfect for creating a calming atmosphere. This soft, muted hue complements various decor styles, from modern to vintage, adding elegance and tranquility to any room. Elevate your walls with this versatile option that harmonizes with nature and enhances your home's aesthetic.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SAGE GREEN HEART WALLPAPER">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/92/62/37/92623737dd38b008dfab1cce3ee95ce7.jpg' alt='SAGE GREEN HEART WALLPAPER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="665">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/92/62/37/92623737dd38b008dfab1cce3ee95ce7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sage Green Simple Heart Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0b/01/ac/0b01ac3d893327554b7978e09887364f.jpg' alt='Sage Green Simple Heart Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="515">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0b/01/ac/0b01ac3d893327554b7978e09887364f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sage green aesthetic heart background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/33/86/57/3386578b41b09bdc86effac40d55fda7.jpg' alt='Sage green aesthetic heart background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1030">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/33/86/57/3386578b41b09bdc86effac40d55fda7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart Laptop Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bf/00/32/bf0032f7f39727098d44dd5a59c2762f.jpg' alt='Heart Laptop Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bf/00/32/bf0032f7f39727098d44dd5a59c2762f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="sage green hearts<3">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/19/85/9c/19859c408dfc9f98de4ce8f5325e3eff.jpg' alt='sage green hearts<3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/19/85/9c/19859c408dfc9f98de4ce8f5325e3eff.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart Doodles In Sage Green Wallpaper - Happywall">
+                                <img itemprop="contentUrl url" src='https://happywall-img-gallery.imgix.net/52753/heart_doodles_in_sage_green_limited.jpg' alt='Heart Doodles In Sage Green Wallpaper - Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-img-gallery.imgix.net/52753/heart_doodles_in_sage_green_limited.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="sage green hearts wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/90/a4/8b/90a48b4231bed0c681ec8e5d780206af.jpg' alt='sage green hearts wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/90/a4/8b/90a48b4231bed0c681ec8e5d780206af.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="sage green aesthetic iphone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/77/91/24/779124b8b11598ef7f9234d7bfef73ef.jpg' alt='sage green aesthetic iphone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="551">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/77/91/24/779124b8b11598ef7f9234d7bfef73ef.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Hearts Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/24/73/2f/24732f2729bd7457778deb6addaef106.jpg' alt='Green Hearts Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/24/73/2f/24732f2729bd7457778deb6addaef106.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer muted green heart pattern background aesthetic pastel">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d2/49/04/d2490422e19dd594b72cc1129a7c4238.jpg' alt='Summer muted green heart pattern background aesthetic pastel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d2/49/04/d2490422e19dd594b72cc1129a7c4238.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

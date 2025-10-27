@@ -1,0 +1,129 @@
+<title>Change Background Color in Premiere Pro: A Quick Guide</title>
+                    <meta name="description" content="Learn how to effortlessly change the background color in Premiere Pro with our step-by-step guide. Transform your videos by creating custom color mattes and enhancing your creative projects. Perfect for beginners and seasoned editors alike! Dive in for quick tips and techniques!">
+                    <meta name="keywords" content="change background color premiere">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/change-background-color-premiere">
+                            <span itemprop="name">change background color premiere</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Change Background Color in Premiere Pro: A Quick Guide</h1>
+                <p>To change the background color in Adobe Premiere Pro, start by selecting your sequence. Then, create a color matte by going to File > New > Color Matte. Choose your desired color and click OK. Drag the color matte to your timeline on a video track below your clips. Resize it to fill the entire frame to achieve your new background color.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to modify Black Background Color in Premiere Pro (Color Matte)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/IMT38csKvjc/maxresdefault.jpg' alt='How to modify Black Background Color in Premiere Pro (Color Matte)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/IMT38csKvjc/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Change Background Color - Premiere Pro 2022">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/NmJAPV7jsnA/maxresdefault.jpg' alt='How To Change Background Color - Premiere Pro 2022'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/NmJAPV7jsnA/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to replace a video background in Adobe Premiere Pro.">
+                                <img itemprop="contentUrl url" src='https://adobe.scene7.com/is/image/AdobeCreate/step5_DSC20211013_ReplaceVidBgd_HT?$small$' alt='How to replace a video background in Adobe Premiere Pro.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="528">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Cloud - Adobe" />
+                                </span>
+                                <a href='https://adobe.scene7.com/is/image/AdobeCreate/step5_DSC20211013_ReplaceVidBgd_HT?$small$' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solved: Set Background Color of Sequence, without using a ...">
+                                <img itemprop="contentUrl url" src='https://community.adobe.com/legacyfs/online/1287969_Screen%20Shot%202017-08-28%20at%2010.02.37%20AM.png' alt='Solved: Set Background Color of Sequence, without using a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1176">
+                                <meta itemprop="height" content="1215">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Community" />
+                                </span>
+                                <a href='https://community.adobe.com/legacyfs/online/1287969_Screen%20Shot%202017-08-28%20at%2010.02.37%20AM.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Change Background Color in Premiere Pro 2019">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/l-vVcw4A-xc/maxresdefault.jpg' alt='How to Change Background Color in Premiere Pro 2019'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/l-vVcw4A-xc/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to add a colour background in Premiere Pro">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Qt4hxRWrf6A/maxresdefault.jpg' alt='How to add a colour background in Premiere Pro'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Qt4hxRWrf6A/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solved: In Adobe Rush Change Background Screen From Black ...">
+                                <img itemprop="contentUrl url" src='https://community.adobe.com/legacyfs/online/1817800_pastedImage_0.png' alt='Solved: In Adobe Rush Change Background Screen From Black ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1394">
+                                <meta itemprop="height" content="993">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Community" />
+                                </span>
+                                <a href='https://community.adobe.com/legacyfs/online/1817800_pastedImage_0.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Apply a Background to a Video in Adobe Premiere Pro">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Cwf0xIlnBLo/maxresdefault.jpg' alt='How to Apply a Background to a Video in Adobe Premiere Pro'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Cwf0xIlnBLo/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to change your background color in Adobe Premiere Pro - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/T_ol8Jbzlec/sddefault.jpg' alt='How to change your background color in Adobe Premiere Pro - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/T_ol8Jbzlec/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Change Background Colour - Adobe Premiere Pro 2020 | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=542166743367889&get_thumbnail=1' alt='Change Background Colour - Adobe Premiere Pro 2020 | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=542166743367889&get_thumbnail=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

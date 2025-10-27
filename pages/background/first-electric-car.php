@@ -1,0 +1,129 @@
+<title>"The First Electric Car: A Historical Breakthrough"</title>
+                    <meta name="description" content="Discover the origins of the first electric car, a revolutionary invention that paved the way for modern eco-friendly vehicles. Explore its impact on automotive history and how it has shaped today's sustainable transportation initiatives. Learn more about this groundbreaking milestone!">
+                    <meta name="keywords" content="first electric car">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/first-electric-car">
+                            <span itemprop="name">first electric car</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"The First Electric Car: A Historical Breakthrough"</h1>
+                <p>The first electric car, developed in the 1830s, was a groundbreaking innovation that sparked the evolution of sustainable transportation. Pioneering inventors like Robert Anderson created early models using rechargeable batteries. Despite early promise, electric vehicles faded until the late 20th century, reviving interest in eco-friendly solutions today.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="First Electric Car: A Brief History of the EV, 1830 to Present">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/wp-content/uploads/2015/12/History-of-the-EV-Lead.jpg?fill=1:1&resize=1200:*' alt='First Electric Car: A Brief History of the EV, 1830 to Present'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Car and Driver" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/wp-content/uploads/2015/12/History-of-the-EV-Lead.jpg?fill=1:1&resize=1200:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This little electric car made history. 25 years ago, GM stopped ...">
+                                <img itemprop="contentUrl url" src='https://cloudfront-us-east-1.images.arcpublishing.com/opb/YL26VD3TDVLN5DZMC5GJRWBOJA.jpg' alt='This little electric car made history. 25 years ago, GM stopped ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2968">
+                                <meta itemprop="height" content="1856">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OPB" />
+                                </span>
+                                <a href='https://cloudfront-us-east-1.images.arcpublishing.com/opb/YL26VD3TDVLN5DZMC5GJRWBOJA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A brief history of electric cars: the most popular car of 1900 ...">
+                                <img itemprop="contentUrl url" src='https://cdn.vox-cdn.com/thumbor/_eZv-2crGCqJWXJOR66aCd2Mepg=/1400x788/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/9304835/30003403.jpg' alt='A brief history of electric cars: the most popular car of 1900 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="788">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Curbed" />
+                                </span>
+                                <a href='https://cdn.vox-cdn.com/thumbor/_eZv-2crGCqJWXJOR66aCd2Mepg=/1400x788/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/9304835/30003403.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="General Motors EV1 - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/c/c5/EV1A014_%281%29_cropped.jpg' alt='General Motors EV1 - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1173">
+                                <meta itemprop="height" content="782">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/c/c5/EV1A014_%281%29_cropped.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thomas Parker Invented the First Electric Car in 1884 - History ...">
+                                <img itemprop="contentUrl url" src='https://cdn.historycollection.com/wp-content/uploads/2017/02/ParkerElectric-Car.jpg' alt='Thomas Parker Invented the First Electric Car in 1884 - History ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="492">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="History Collection" />
+                                </span>
+                                <a href='https://cdn.historycollection.com/wp-content/uploads/2017/02/ParkerElectric-Car.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Short History of Electric Vehicles — WILL BYERS | Photography ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/57e70bd6e6f2e191cbe69e81/1505054658357-83CMQ3Q2DIWYSRRXFB9Y/early-electric-car-SCHENECTADY-MUSEUM-HALL-OF-ELECTRICAL-HISTORY-FOUNDATION-CORBIS.jpg' alt='A Short History of Electric Vehicles — WILL BYERS | Photography ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="922">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Will Byers" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/57e70bd6e6f2e191cbe69e81/1505054658357-83CMQ3Q2DIWYSRRXFB9Y/early-electric-car-SCHENECTADY-MUSEUM-HALL-OF-ELECTRICAL-HISTORY-FOUNDATION-CORBIS.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The First Electric Car | Edmunds">
+                                <img itemprop="contentUrl url" src='https://media.ed.edmunds-media.com/non-make/ot/ot_80823_1600.jpg' alt='The First Electric Car | Edmunds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1066">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Edmunds" />
+                                </span>
+                                <a href='https://media.ed.edmunds-media.com/non-make/ot/ot_80823_1600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Brief, Brilliant Reign of the Fritchle: Colorado's First ...">
+                                <img itemprop="contentUrl url" src='https://history.denverlibrary.org/sites/history/files/cdm_17669.jpg' alt='The Brief, Brilliant Reign of the Fritchle: Colorado's First ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="646">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Denver Public Library Special Collections and Archives" />
+                                </span>
+                                <a href='https://history.denverlibrary.org/sites/history/files/cdm_17669.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="First Electric Car: A Brief History of the EV, 1830 to Present">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/wp-content/uploads/2015/12/Citicar-collage.jpeg' alt='First Electric Car: A Brief History of the EV, 1830 to Present'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5120">
+                                <meta itemprop="height" content="3128">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Car and Driver" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/wp-content/uploads/2015/12/Citicar-collage.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="When Was the First Electric Car Made? | History Hit">
+                                <img itemprop="contentUrl url" src='https://www.historyhit.com/app/uploads/2022/04/Electric-car-1910s-750px.jpg' alt='When Was the First Electric Car Made? | History Hit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="581">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="History Hit" />
+                                </span>
+                                <a href='https://www.historyhit.com/app/uploads/2022/04/Electric-car-1910s-750px.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

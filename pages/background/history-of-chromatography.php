@@ -1,0 +1,129 @@
+<title>Discovering the Evolution of Chromatography Techniques</title>
+                    <meta name="description" content="Explore the fascinating history of chromatography, from its origins in 1900 to its key role in modern science. Learn how this essential technique has evolved through time and transformed the fields of chemistry and biology, enabling breakthroughs in substance analysis and purification.">
+                    <meta name="keywords" content="history of chromatography">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/history-of-chromatography">
+                            <span itemprop="name">history of chromatography</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discovering the Evolution of Chromatography Techniques</h1>
+                <p>Chromatography, developed in the early 20th century by Mikhail Tsvet, revolutionized the separation of mixtures. Initially used for plant pigments, it evolved into various forms like gas, liquid, and thin-layer chromatography. This technique is now essential in chemistry, biology, and pharmaceuticals for analyzing and purifying complex substances.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Short History of Chromatography - ChemistryViews">
+                                <img itemprop="contentUrl url" src='https://www.chemistryviews.org/wp-content/uploads/legacy/chem/image/2012/2012_June/Bild1(2).jpg' alt='Short History of Chromatography - ChemistryViews'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="826">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ChemistryViews" />
+                                </span>
+                                <a href='https://www.chemistryviews.org/wp-content/uploads/legacy/chem/image/2012/2012_June/Bild1(2).jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Chromatography">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOq55fH9yin9OGnhp2Iui56QbxGVE0Ho82GjSvVdutPvMYh0LIgSln-0Wek-fch90q_PqKtmVzzu3nFSSBLTRFgzHPnB75S3ES2NZCmr9rr6O4K-tkU6b-rWSpxtwlU3Cr8YFO1RS9cwY/s1600/Mikhail+Tswett+chromatography.JPG' alt='History of Chromatography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="685">
+                                <meta itemprop="height" content="277">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Science of Chromatography" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOq55fH9yin9OGnhp2Iui56QbxGVE0Ho82GjSvVdutPvMYh0LIgSln-0Wek-fch90q_PqKtmVzzu3nFSSBLTRFgzHPnB75S3ES2NZCmr9rr6O4K-tkU6b-rWSpxtwlU3Cr8YFO1RS9cwY/s1600/Mikhail+Tswett+chromatography.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Chromatography">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/IOi0JP9eNPw/maxresdefault.jpg' alt='History of Chromatography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/IOi0JP9eNPw/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="THE HISTORY OF CHROMATOGRAPHY">
+                                <img itemprop="contentUrl url" src='https://img.yumpu.com/10193072/1/500x640/the-history-of-chromatography.jpg' alt='THE HISTORY OF CHROMATOGRAPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="472">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YUMPU" />
+                                </span>
+                                <a href='https://img.yumpu.com/10193072/1/500x640/the-history-of-chromatography.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of chromatography | PPT">
+                                <img itemprop="contentUrl url" src='https://cdn.slidesharecdn.com/ss_thumbnails/historyofchromatography-130425151129-phpapp02-thumbnail.jpg?width=560&fit=bounds' alt='History of chromatography | PPT'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="560">
+                                <meta itemprop="height" content="315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideShare" />
+                                </span>
+                                <a href='https://cdn.slidesharecdn.com/ss_thumbnails/historyofchromatography-130425151129-phpapp02-thumbnail.jpg?width=560&fit=bounds' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of chromatography">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaIl7Sq72KM2KEvWNE7xcrAhDWkStMxkrmnXT3Xo2xOWeWTqDkwycrN-o7wLaDFf0rYM-Ose7pO6Xmm3n4eXZHgl_dMboTU0AGDHCaEZUTSZSZzEZe40Yuw6FxddqyqxQ3c9tL7OwR5vhu/s1600/picture-740084.jpg' alt='History of chromatography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="562">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="List of History Articles" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaIl7Sq72KM2KEvWNE7xcrAhDWkStMxkrmnXT3Xo2xOWeWTqDkwycrN-o7wLaDFf0rYM-Ose7pO6Xmm3n4eXZHgl_dMboTU0AGDHCaEZUTSZSZzEZe40Yuw6FxddqyqxQ3c9tL7OwR5vhu/s1600/picture-740084.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Chromatography n Early LC carried out in glass columns ...">
+                                <img itemprop="contentUrl url" src='https://slideplayer.com/7617743/25/images/slide_1.jpg' alt='History of Chromatography n Early LC carried out in glass columns ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlidePlayer" />
+                                </span>
+                                <a href='https://slideplayer.com/7617743/25/images/slide_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Origins, evolution & principle of preparative and analytical ...">
+                                <img itemprop="contentUrl url" src='https://blog.interchim.com/wp-content/uploads/2019/12/Preparative_liquid_chromatography_Interchim_Blog1219.jpg' alt='Origins, evolution & principle of preparative and analytical ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="734">
+                                <meta itemprop="height" content="261">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Interchim – Blog" />
+                                </span>
+                                <a href='https://blog.interchim.com/wp-content/uploads/2019/12/Preparative_liquid_chromatography_Interchim_Blog1219.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CHAPTERS IN THE EVOLUTION OF CHROMATOGRAPHY: Ettre, Leslie S., Hinshaw,  John V.: 9781860949432: Amazon.com: Books">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/41LJnwekTDL._AC_UF1000,1000_QL80_.jpg' alt='CHAPTERS IN THE EVOLUTION OF CHROMATOGRAPHY: Ettre, Leslie S., Hinshaw,  John V.: 9781860949432: Amazon.com: Books'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="674">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/41LJnwekTDL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Basics of Chromatography Jony Mallik. Introductory Principles ...">
+                                <img itemprop="contentUrl url" src='https://images.slideplayer.com/18/6184338/slides/slide_3.jpg' alt='Basics of Chromatography Jony Mallik. Introductory Principles ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlidePlayer" />
+                                </span>
+                                <a href='https://images.slideplayer.com/18/6184338/slides/slide_3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

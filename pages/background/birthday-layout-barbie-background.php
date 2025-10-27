@@ -1,0 +1,129 @@
+<title>"Enchanting Barbie Birthday Layout Ideas"</title>
+                    <meta name="description" content="Discover creative ideas for a Barbie-themed birthday layout! Transform your celebration with vibrant colors and magical décor that capture the essence of Barbie. Perfect for all ages, these tips will help you plan an unforgettable party filled with fun and glamour. Let’s make your dream birthday come true!">
+                    <meta name="keywords" content="birthday layout barbie background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/birthday-layout-barbie-background">
+                            <span itemprop="name">birthday layout barbie background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Enchanting Barbie Birthday Layout Ideas"</h1>
+                <p>Celebrate your special day with a stunning Barbie-themed birthday layout! Incorporate vibrant pinks, glittery accents, and elegant decorations that embody the charm of Barbie. Use themed tableware, stunning centerpieces, and beautiful backdrops to immerse your guests in a delightful Barbie world. Make magical memories!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="22+ Barbie Canva Birthday Invitation Templates">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/37/29/83/372983559b541666708b6b64002570a3.jpg' alt='22+ Barbie Canva Birthday Invitation Templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1030">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/37/29/83/372983559b541666708b6b64002570a3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Balon Barbie Birthday Template | PosterMyWall">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/pink-balon-barbie-birthday-design-template-a5d92e8eb3eb9e519f7a30dafc9ac70a_screen.jpg?ts=1690529790' alt='Pink Balon Barbie Birthday Template | PosterMyWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="691">
+                                <meta itemprop="height" content="691">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/pink-balon-barbie-birthday-design-template-a5d92e8eb3eb9e519f7a30dafc9ac70a_screen.jpg?ts=1690529790' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barbie Pink Princess Birthday Party and Photography Backdrop ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/817sJuAI7ZL.jpg' alt='Barbie Pink Princess Birthday Party and Photography Backdrop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.amazon.sa" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/817sJuAI7ZL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE Printable Barbie Birthday Invitation Templates">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f1/c3/73/f1c373420b9b5f1feda380c5f224c633.jpg' alt='FREE Printable Barbie Birthday Invitation Templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="732">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f1/c3/73/f1c373420b9b5f1feda380c5f224c633.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barbie Castle Birthday Template | PosterMyWall">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/barbie-castle-birthday-design-template-f396ab03cefd9c31aabf3fbaeb88178b_screen.jpg?ts=1692712861' alt='Barbie Castle Birthday Template | PosterMyWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="462">
+                                <meta itemprop="height" content="693">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/barbie-castle-birthday-design-template-f396ab03cefd9c31aabf3fbaeb88178b_screen.jpg?ts=1692712861' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adorable Barbie Invitation Templates You Can't Miss! - Invitation ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/31/68/01/31680196f8addfe29cf8792fd608341f.jpg' alt='Adorable Barbie Invitation Templates You Can't Miss! - Invitation ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/31/68/01/31680196f8addfe29cf8792fd608341f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barbie: Free Printable Photo Frames. - Oh My Fiesta! in english">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjizhCdaLSsYt273h5jDfKFu2tjptua49FU18JTc3_K0k-z4ntMjaIPNopONbony9HTHxW1IJRSh_6-tb0MuQZMhKAkPRDKfm_RxVN02YzFC9L515d81aX4sD4WEs4dORVk5n0MoJdl-r0/s1600-rw/Barbie-free-printables-189.jpg' alt='Barbie: Free Printable Photo Frames. - Oh My Fiesta! in english'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oh My Fiesta!" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjizhCdaLSsYt273h5jDfKFu2tjptua49FU18JTc3_K0k-z4ntMjaIPNopONbony9HTHxW1IJRSh_6-tb0MuQZMhKAkPRDKfm_RxVN02YzFC9L515d81aX4sD4WEs4dORVk5n0MoJdl-r0/s1600-rw/Barbie-free-printables-189.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barbie Pink Princess Birthday Party and Photography Backdrop ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71pmVpQpAdL._AC_UF350,350_QL80_.jpg' alt='Barbie Pink Princess Birthday Party and Photography Backdrop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.amazon.sa" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71pmVpQpAdL._AC_UF350,350_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barbie everybody's girl theme tarpaulin design">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/15/5a/5b/155a5be3afdefe4407fdf7e90c8394f4.jpg' alt='Barbie everybody's girl theme tarpaulin design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/15/5a/5b/155a5be3afdefe4407fdf7e90c8394f4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barbie Pink latest Birthday Invitation">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIjLogA-yjJ9dpL8ItYQqdwPrk4hI-hn0b70mPCqbveMh5tgJonkj2zwgT1fid4FG6qcY0nUV6e49JS8617kwrCX0NXAgtVTq5G_8nTZI36ULyJYGZigqUzlTkuoSHzULKA1aF69alfS9h/s1600-rw/barbie-princess-school-free-printables-001.jpg' alt='Barbie Pink latest Birthday Invitation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Elgi Ultra" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIjLogA-yjJ9dpL8ItYQqdwPrk4hI-hn0b70mPCqbveMh5tgJonkj2zwgT1fid4FG6qcY0nUV6e49JS8617kwrCX0NXAgtVTq5G_8nTZI36ULyJYGZigqUzlTkuoSHzULKA1aF69alfS9h/s1600-rw/barbie-princess-school-free-printables-001.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

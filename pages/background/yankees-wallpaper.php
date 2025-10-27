@@ -1,0 +1,129 @@
+<title>Yankees Wallpaper: Elevate Your Space with Team Spirit</title>
+                    <meta name="description" content="Discover the ultimate Yankees wallpaper collection! Perfect for fans, these designs elevate any space with vibrant colors and team spirit. Enhance your home or office decor effortlessly. Browse now to find the ideal wallpaper that showcases your love for the Yankees!">
+                    <meta name="keywords" content="yankees wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/yankees-wallpaper">
+                            <span itemprop="name">yankees wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Yankees Wallpaper: Elevate Your Space with Team Spirit</h1>
+                <p>Transform your space with stunning Yankees wallpaper! Whether you're a die-hard fan or just love the iconic blue and white colors, our collection showcases a variety of designs to fit any room. Perfect for your home, office, or man cave, these wallpapers bring team spirit to life while adding a stylish touch to your décor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York Yankees Wallpapers (30 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/3/e/0/245995-1080x1920-mobile-full-hd-new-york-yankees-background-image.jpg' alt='New York Yankees Wallpapers (30 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/3/e/0/245995-1080x1920-mobile-full-hd-new-york-yankees-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 New York Yankees Wallpapers ideas | new york yankees wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/c6/56/9f/c6569f7972fe2320cc1970c4c653c07a.jpg' alt='20 New York Yankees Wallpapers ideas | new york yankees wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="977">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/c6/56/9f/c6569f7972fe2320cc1970c4c653c07a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York Yankees Iphone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/e2/4a/26/e24a2661381e1e51063b994e6a9f5231.jpg' alt='New York Yankees Iphone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/e2/4a/26/e24a2661381e1e51063b994e6a9f5231.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] New York Yankees Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/new-york-yankees-iphone-3m26ht3bavnbfhvp.jpg' alt='100+] New York Yankees Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1079">
+                                <meta itemprop="height" content="1918">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/new-york-yankees-iphone-3m26ht3bavnbfhvp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yankees Wallpapers | New York Yankees">
+                                <img itemprop="contentUrl url" src='https://content.mlb.com/images/1/8/2/302991182/Rivera_Legend_Wallpaper.jpg' alt='Yankees Wallpapers | New York Yankees'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MLB.com" />
+                                </span>
+                                <a href='https://content.mlb.com/images/1/8/2/302991182/Rivera_Legend_Wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York Yankees Pinstripe Wordmark Logo Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/new-york-yankees-logo-on-blue-flag-vlyxhiay45su0bms.webp' alt='New York Yankees Pinstripe Wordmark Logo Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/new-york-yankees-logo-on-blue-flag-vlyxhiay45su0bms.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York Yankees on X: "New mobile wallpapers coming in hot ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/Dcnr1oSWkAAndwJ.jpg:large' alt='New York Yankees on X: "New mobile wallpapers coming in hot ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1152">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/Dcnr1oSWkAAndwJ.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="73 Yankees Phone Backgrounds ideas | yankees, yankees wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/48/6a/bc/486abce5f70fc4442e25eefbed6aee3c.jpg' alt='73 Yankees Phone Backgrounds ideas | yankees, yankees wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="843">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/48/6a/bc/486abce5f70fc4442e25eefbed6aee3c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yankees Wallpapers | New York Yankees">
+                                <img itemprop="contentUrl url" src='https://content.mlb.com/images/4/6/8/302991468/Rivera_Unanimous_Wallpaper.jpg' alt='Yankees Wallpapers | New York Yankees'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MLB.com" />
+                                </span>
+                                <a href='https://content.mlb.com/images/4/6/8/302991468/Rivera_Unanimous_Wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Yankees Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/yankees-s1owhqam64db9rzq.jpg' alt='100+] Yankees Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/yankees-s1owhqam64db9rzq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

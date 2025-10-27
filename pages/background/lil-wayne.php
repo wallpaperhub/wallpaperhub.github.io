@@ -1,0 +1,129 @@
+<title>Lil Wayne: The Rap Icon You Need to Know</title>
+                    <meta name="description" content="Discover Lil Wayne, the iconic rapper known for his distinctive style and lyrical prowess. Explore his journey, music, and impact on hip-hop today!">
+                    <meta name="keywords" content="lil wayne">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lil-wayne">
+                            <span itemprop="name">lil wayne</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Lil Wayne: The Rap Icon You Need to Know</h1>
+                <p>Lil Wayne, born Dwayne Michael Carter Jr., is an influential American rapper, singer, and songwriter. Known for his unique voice and intricate wordplay, he gained fame with albums like "Tha Carter" series. An icon in hip-hop, Wayne's blend of Southern rap and mainstream appeal has made him a leading figure in the music industry.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lil Wayne - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Lil_Wayne_Feb._2020.jpg/640px-Lil_Wayne_Feb._2020.jpg' alt='Lil Wayne - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Lil_Wayne_Feb._2020.jpg/640px-Lil_Wayne_Feb._2020.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lil Wayne Songs and Music | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab6761610000e5ebc1c08e541eae3cc82c6988c4' alt='Lil Wayne Songs and Music | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab6761610000e5ebc1c08e541eae3cc82c6988c4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lil Wayne - Age, Songs & Facts">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/lil_wayne_photo_by_ray_tamarra_getty_images_entertainment_getty_56680625.jpg' alt='Lil Wayne - Age, Songs & Facts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/lil_wayne_photo_by_ray_tamarra_getty_images_entertainment_getty_56680625.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lil Wayne announces Tha Carter VI release date">
+                                <img itemprop="contentUrl url" src='https://gray-kalb-prod.gtv-cdn.com/resizer/v2/LLNZVV5UQND5HAZ2P66XITSII4.jpg?auth=a3c0c52b6f818d5c0860383117f9e91d47a8e07e75d103b8c10ced2ca51c36cb&width=800&height=450&smart=true' alt='Lil Wayne announces Tha Carter VI release date'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FOX 8" />
+                                </span>
+                                <a href='https://gray-kalb-prod.gtv-cdn.com/resizer/v2/LLNZVV5UQND5HAZ2P66XITSII4.jpg?auth=a3c0c52b6f818d5c0860383117f9e91d47a8e07e75d103b8c10ced2ca51c36cb&width=800&height=450&smart=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lil Wayne | Biography, Songs, Albums, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/11/199511-050-D55ABD32/Lil-Wayne-2008.jpg' alt='Lil Wayne | Biography, Songs, Albums, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1137">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/11/199511-050-D55ABD32/Lil-Wayne-2008.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lil Wayne | NoCopyrightSounds Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/nocopyrightsounds/images/e/e0/Lil_Wayne.jpg/revision/latest?cb=20240205123051' alt='Lil Wayne | NoCopyrightSounds Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1999">
+                                <meta itemprop="height" content="1124">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NoCopyrightSounds Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/nocopyrightsounds/images/e/e0/Lil_Wayne.jpg/revision/latest?cb=20240205123051' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lil Wayne - Rapper, Singer, Songwriter, Executive, Entrepreneur">
+                                <img itemprop="contentUrl url" src='https://ntvb.tmsimg.com/assets/assets/506402_v9_bb.jpg' alt='Lil Wayne - Rapper, Singer, Songwriter, Executive, Entrepreneur'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TV Insider" />
+                                </span>
+                                <a href='https://ntvb.tmsimg.com/assets/assets/506402_v9_bb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LIL WAYNE - The Factory">
+                                <img itemprop="contentUrl url" src='https://www.thefactorystl.com/wp-content/uploads/Lil-Wayne_750x450.jpg' alt='LIL WAYNE - The Factory'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Factory" />
+                                </span>
+                                <a href='https://www.thefactorystl.com/wp-content/uploads/Lil-Wayne_750x450.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lil Wayne">
+                                <img itemprop="contentUrl url" src='https://www.lilwayneofficial.com/files/2023/11/artwork-440x440-1.jpg' alt='Lil Wayne'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="440">
+                                <meta itemprop="height" content="440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.lilwayneofficial.com" />
+                                </span>
+                                <a href='https://www.lilwayneofficial.com/files/2023/11/artwork-440x440-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Lil Wayne">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100044565333884' alt='Profile for Lil Wayne'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="958">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100044565333884' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

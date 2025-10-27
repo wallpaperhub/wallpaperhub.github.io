@@ -1,0 +1,129 @@
+<title>Trick 'r Treat: The Legend of Sam</title>
+                    <meta name="description" content="Discover the chilling allure of Sam from "Trick 'r Treat." This iconic Halloween figure, with his pumpkin head and eerie charm, represents the spirit of the holiday. Dive into the legend of Sam and explore what makes him a beloved character in Halloween lore. Perfect for fans of horror and Halloween traditions!">
+                    <meta name="keywords" content="trick r treat sam">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/trick-r-treat-sam">
+                            <span itemprop="name">trick r treat sam</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Trick 'r Treat: The Legend of Sam</h1>
+                <p>Sam, the iconic trick-or-treating figure from the cult film "Trick 'r Treat," embodies the spirit of Halloween with his pumpkin-headed appearance and eerie presence. As the guardian of Halloween traditions, Sam enforces the rules of the holiday. His mysterious nature captivates fans, making him a cherished symbol of Halloween horror.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TRICK R TREAT - SAM DELUXE 1:6 SCALE FIGURE">
+                                <img itemprop="contentUrl url" src='https://trickortreatstudios.com/cdn/shop/products/TTLE109-trt-sam-figure-unmasked-front.jpg?v=1685474970' alt='TRICK R TREAT - SAM DELUXE 1:6 SCALE FIGURE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Trick Or Treat Studios" />
+                                </span>
+                                <a href='https://trickortreatstudios.com/cdn/shop/products/TTLE109-trt-sam-figure-unmasked-front.jpg?v=1685474970' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sam (Trick 'r Treat) | Villains Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/villains/images/7/7c/Sam_render.png/revision/latest?cb=20210522113856' alt='Sam (Trick 'r Treat) | Villains Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="565">
+                                <meta itemprop="height" content="1058">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Villains Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/villains/images/7/7c/Sam_render.png/revision/latest?cb=20210522113856' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sam (Trick 'r Treat) | Halloween Specials Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/halloweenspecials/images/1/1e/Trick_%27r_Treat_Sam.jpg/revision/latest?cb=20180324035731' alt='Sam (Trick 'r Treat) | Halloween Specials Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Halloween Specials Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/halloweenspecials/images/1/1e/Trick_%27r_Treat_Sam.jpg/revision/latest?cb=20180324035731' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Spirit Halloween Trick r’ Treat Unmasked Sam Plush | Officially  Licensed | Horror Décor | Halloween Decoration | Indoor Decor : Toys & ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71gvGgViKiL.jpg' alt='Amazon.com: Spirit Halloween Trick r’ Treat Unmasked Sam Plush | Officially  Licensed | Horror Décor | Halloween Decoration | Indoor Decor : Toys & ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1900">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71gvGgViKiL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Spirit Halloween Trick r’ Treat Sam Plush | Officially Licensed  | Horror Décor | Halloween Decoration | Indoor Decor : Toys & Games">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/814dJbdGSxL.jpg' alt='Amazon.com: Spirit Halloween Trick r’ Treat Sam Plush | Officially Licensed  | Horror Décor | Halloween Decoration | Indoor Decor : Toys & Games'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1900">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/814dJbdGSxL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neca Reveals New 'Trick 'r Treat' Sam Clothed Action Figure for ...">
+                                <img itemprop="contentUrl url" src='https://halloweendailynews.com/wp-content/uploads/2019/02/Trick-r-Treat-Sam-Clothed-Action-Figure-by-Neca-02-1-e1550519768684.jpg' alt='Neca Reveals New 'Trick 'r Treat' Sam Clothed Action Figure for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="657">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Halloween Daily News" />
+                                </span>
+                                <a href='https://halloweendailynews.com/wp-content/uploads/2019/02/Trick-r-Treat-Sam-Clothed-Action-Figure-by-Neca-02-1-e1550519768684.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This is my original concept art for the Halloween demon, Sam (+ ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3121672613500195272' alt='This is my original concept art for the Halloween demon, Sam (+ ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1331">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3121672613500195272' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sam Deluxe Sixth Scale Figure by Trick or Treat Studios | Sideshow ...">
+                                <img itemprop="contentUrl url" src='https://www.sideshow.com/cdn-cgi/image/quality=90,f=auto/https://www.sideshow.com/storage/product-images/911851/sam-deluxe__gallery_633c9a64f0b7f.jpg' alt='Sam Deluxe Sixth Scale Figure by Trick or Treat Studios | Sideshow ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="753">
+                                <meta itemprop="height" content="753">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sideshow" />
+                                </span>
+                                <a href='https://www.sideshow.com/cdn-cgi/image/quality=90,f=auto/https://www.sideshow.com/storage/product-images/911851/sam-deluxe__gallery_633c9a64f0b7f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unmasked Sam Full Mask - Trick 'r Treat - Spirithalloween.com">
+                                <img itemprop="contentUrl url" src='https://spirit.scene7.com/is/image/Spirit/01484229-b?wid=640&hei=640&fmt=webp' alt='Unmasked Sam Full Mask - Trick 'r Treat - Spirithalloween.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spirit Halloween" />
+                                </span>
+                                <a href='https://spirit.scene7.com/is/image/Spirit/01484229-b?wid=640&hei=640&fmt=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trick r Treat Sam Diorama by liquid-venom on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/42909ddb-41fb-46b5-980e-2e0ece340e0a/da3ls3e-6586eaf8-918e-47b9-9052-dcaf412e2220.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQyOTA5ZGRiLTQxZmItNDZiNS05ODBlLTJlMGVjZTM0MGUwYVwvZGEzbHMzZS02NTg2ZWFmOC05MThlLTQ3YjktOTA1Mi1kY2FmNDEyZTIyMjAuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.mz8MkQc3lp5mCicXSmUOjwDu1NG-FQCEDQRWosRfa0k' alt='Trick r Treat Sam Diorama by liquid-venom on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1667">
+                                <meta itemprop="height" content="2493">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/42909ddb-41fb-46b5-980e-2e0ece340e0a/da3ls3e-6586eaf8-918e-47b9-9052-dcaf412e2220.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQyOTA5ZGRiLTQxZmItNDZiNS05ODBlLTJlMGVjZTM0MGUwYVwvZGEzbHMzZS02NTg2ZWFmOC05MThlLTQ3YjktOTA1Mi1kY2FmNDEyZTIyMjAuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.mz8MkQc3lp5mCicXSmUOjwDu1NG-FQCEDQRWosRfa0k' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

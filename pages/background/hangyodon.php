@@ -1,0 +1,129 @@
+<title>Discover the Adorable World of Hangyodon</title>
+                    <meta name="description" content="Explore the delightful charm of Hangyodon, the beloved aquatic character from Korean media. Dive into its playful adventures and unique traits that captivate fans of all ages. Uncover the stories and fun behind this quirky mascot that brings joy to countless hearts!">
+                    <meta name="keywords" content="hangyodon">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/hangyodon">
+                            <span itemprop="name">hangyodon</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Adorable World of Hangyodon</h1>
+                <p>Hangyodon is a charming aquatic creature featured in various Korean cartoons and games. With its unique charm and adorable yet quirky appearance, it captivates audiences of all ages. Known for its playful personality and adventurous spirit, Hangyodon often finds itself in comedic situations that resonate with fans, making it a beloved mascot.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hangyodon | Hello Kitty Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/hellokitty/images/d/d9/Sanrio_Characters_Hangyodon_Image004.png/revision/latest/thumbnail/width/360/height/360?cb=20170403193609' alt='Hangyodon | Hello Kitty Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="268">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hello Kitty Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/hellokitty/images/d/d9/Sanrio_Characters_Hangyodon_Image004.png/revision/latest/thumbnail/width/360/height/360?cb=20170403193609' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HANGYODON Explained — Ultimate Sanrio Character Guide!">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/WN7yFpU1_8k/maxresdefault.jpg' alt='HANGYODON Explained — Ultimate Sanrio Character Guide!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/WN7yFpU1_8k/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hangyodon Room 3 Clip Set">
+                                <img itemprop="contentUrl url" src='https://www.japanla.com/cdn/shop/files/Hangyodon3clipset1.jpg?v=1694030200' alt='Hangyodon Room 3 Clip Set'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JapanLA" />
+                                </span>
+                                <a href='https://www.japanla.com/cdn/shop/files/Hangyodon3clipset1.jpg?v=1694030200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hangyodon | Hello Kitty Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/hellokitty/images/6/6a/Sanrio_Characters_Hangyodon_Image002.png/revision/latest/scale-to-width-down/250?cb=20170403193609' alt='Hangyodon | Hello Kitty Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hello Kitty Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/hellokitty/images/6/6a/Sanrio_Characters_Hangyodon_Image002.png/revision/latest/scale-to-width-down/250?cb=20170403193609' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HANGYODON - Characters - Sanrio Hong Kong">
+                                <img itemprop="contentUrl url" src='https://www.sanrio.com.hk/_ul/character_profile_hangyodon.png' alt='HANGYODON - Characters - Sanrio Hong Kong'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="664">
+                                <meta itemprop="height" content="664">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sanrio Hong Kong" />
+                                </span>
+                                <a href='https://www.sanrio.com.hk/_ul/character_profile_hangyodon.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Buff Hangyodon Sticker - Laptop Decals - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/45335487/r/il/734439/5745415429/il_1080xN.5745415429_2b71.jpg' alt='Buff Hangyodon Sticker - Laptop Decals - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/45335487/r/il/734439/5745415429/il_1080xN.5745415429_2b71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hangyodon Sanrio: Biography, Characteristics, Friends, Girlfriend ...">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0568/2298/8958/files/hangyodon-sanrio_10_480x480.png?v=1701325630' alt='Hangyodon Sanrio: Biography, Characteristics, Friends, Girlfriend ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="461">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Japan Figure" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0568/2298/8958/files/hangyodon-sanrio_10_480x480.png?v=1701325630' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Japan Sanrio Original Mascot Magnet - Hangyodon">
+                                <img itemprop="contentUrl url" src='https://cdn.kawaii.limited/products/37/37079/2/xl/japan-sanrio-original-mascot-magnet-hangyodon.jpg' alt='Japan Sanrio Original Mascot Magnet - Hangyodon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kawaii Limited" />
+                                </span>
+                                <a href='https://cdn.kawaii.limited/products/37/37079/2/xl/japan-sanrio-original-mascot-magnet-hangyodon.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="18.10.2020: I named my boat Hangyodon | by W Chiu | My paddle log ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:572/1*3h2zxCJPWQhXFKsu2q6CBw.jpeg' alt='18.10.2020: I named my boat Hangyodon | by W Chiu | My paddle log ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="572">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:572/1*3h2zxCJPWQhXFKsu2q6CBw.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hangyodon is my Emotional Support Sanrio Character at the moment ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/hangyodon-is-my-emotional-support-sanrio-character-at-the-v0-ery0qpluctyc1.jpg?width=750&format=pjpg&auto=webp&s=b7e3c7415dd4a99b81f5410832b46e03521be8d8' alt='Hangyodon is my Emotional Support Sanrio Character at the moment ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/hangyodon-is-my-emotional-support-sanrio-character-at-the-v0-ery0qpluctyc1.jpg?width=750&format=pjpg&auto=webp&s=b7e3c7415dd4a99b81f5410832b46e03521be8d8' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

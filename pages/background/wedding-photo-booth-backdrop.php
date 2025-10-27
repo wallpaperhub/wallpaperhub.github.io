@@ -1,0 +1,129 @@
+<title>Wedding Photo Booth Backdrops: Make Your Day Memorable</title>
+                    <meta name="description" content="Discover beautiful wedding photo booth backdrops that enhance your celebration. From vintage to modern styles, find the perfect backdrop to capture cherished memories. Ideal for guests and couples alike, our unique designs will elevate your wedding photos and create a fun experience! Explore now!">
+                    <meta name="keywords" content="wedding photo booth backdrop">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/wedding-photo-booth-backdrop">
+                            <span itemprop="name">wedding photo booth backdrop</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Wedding Photo Booth Backdrops: Make Your Day Memorable</h1>
+                <p>Capture unforgettable moments with a stunning wedding photo booth backdrop! Choose from elegant designs, rustic themes, or vibrant colors to complement your wedding decor. Customized options allow you to showcase your unique style. Create a fun atmosphere for guests to take memorable photos, adding a personal touch to your special day.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wedding Backdrop, Rustic Wood Wedding Banner, Photo Booth Wedding ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/7020907/r/il/4d7b22/1925816181/il_fullxfull.1925816181_c7cd.jpg' alt='Wedding Backdrop, Rustic Wood Wedding Banner, Photo Booth Wedding ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/7020907/r/il/4d7b22/1925816181/il_fullxfull.1925816181_c7cd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Wedding Backdrop with Names, Wedding Decor or Photo ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91zSN1WDluL._UF1000,1000_QL80_.jpg' alt='Amazon.com: Wedding Backdrop with Names, Wedding Decor or Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="905">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91zSN1WDluL._UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Botanical Wedding Backdrop, Photo Booth Backdrop, Custom Wedding ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/29161065/r/il/9ce7a9/3268053496/il_fullxfull.3268053496_ddpu.jpg' alt='Botanical Wedding Backdrop, Photo Booth Backdrop, Custom Wedding ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2540">
+                                <meta itemprop="height" content="2017">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/29161065/r/il/9ce7a9/3268053496/il_fullxfull.3268053496_ddpu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: OERJU Wedding Photography Backdrop Wedding Floral Wall Backdrop  Wedding Backdrop for Reception Bridal Shower Marriage Anniversary ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61xZZepLH5L.jpg' alt='Amazon.com: OERJU Wedding Photography Backdrop Wedding Floral Wall Backdrop  Wedding Backdrop for Reception Bridal Shower Marriage Anniversary ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61xZZepLH5L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wood White Floral Photo Booth Backdrop">
+                                <img itemprop="contentUrl url" src='https://blushingdrops.com/cdn/shop/products/il_1588xN.1968790581_62u5.jpg?v=1597819732' alt='Wood White Floral Photo Booth Backdrop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1324">
+                                <meta itemprop="height" content="1504">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Blushing Drops" />
+                                </span>
+                                <a href='https://blushingdrops.com/cdn/shop/products/il_1588xN.1968790581_62u5.jpg?v=1597819732' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 DIY Photo Booth Ideas for Your Wedding">
+                                <img itemprop="contentUrl url" src='https://www.brides.com/thmb/9IOlqZNvA3lcZiobxFVDEqzd6TM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/diy-photo-booth-draping-laura-memory-7691ff550c2544acac2d2e7af20d0e95.jpg' alt='25 DIY Photo Booth Ideas for Your Wedding'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Brides" />
+                                </span>
+                                <a href='https://www.brides.com/thmb/9IOlqZNvA3lcZiobxFVDEqzd6TM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/diy-photo-booth-draping-laura-memory-7691ff550c2544acac2d2e7af20d0e95.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wedding Photo Booth Backdrop, Engagement Party decor, Rustic Wedding decor,  wedding Backdrop, Greenery, Printed BWD0015">
+                                <img itemprop="contentUrl url" src='https://shopiconica.com/cdn/shop/products/il_fullxfull.1565924381_98rp_900x.jpg?v=1603249076' alt='Wedding Photo Booth Backdrop, Engagement Party decor, Rustic Wedding decor,  wedding Backdrop, Greenery, Printed BWD0015'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Iconica Design" />
+                                </span>
+                                <a href='https://shopiconica.com/cdn/shop/products/il_fullxfull.1565924381_98rp_900x.jpg?v=1603249076' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DIY Photo Booth Backdrop – “Knock It Off!” Wedding | East Coast ...">
+                                <img itemprop="contentUrl url" src='https://eastcoastcreativeblog.com/wp-content/uploads/2014/07/DIY-Wedding-Photo-Backdrop-East-Coast-Creative-Blog.jpg' alt='DIY Photo Booth Backdrop – “Knock It Off!” Wedding | East Coast ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2396">
+                                <meta itemprop="height" content="1598">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="East Coast Creative" />
+                                </span>
+                                <a href='https://eastcoastcreativeblog.com/wp-content/uploads/2014/07/DIY-Wedding-Photo-Backdrop-East-Coast-Creative-Blog.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Floral Wedding Photo Booth Backdrop Ideas">
+                                <img itemprop="contentUrl url" src='https://blushingdrops.com/cdn/shop/products/fall-wedding-backdrop.jpg?v=1571709182' alt='Fall Floral Wedding Photo Booth Backdrop Ideas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Blushing Drops" />
+                                </span>
+                                <a href='https://blushingdrops.com/cdn/shop/products/fall-wedding-backdrop.jpg?v=1571709182' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DIY Wedding Photo Booth: How to DIY a Photo Booth in 6 Steps ...">
+                                <img itemprop="contentUrl url" src='https://cdn0.hitched.co.uk/article/7679/original/1280/jpg/149767-wooden-wedding-frame.jpeg' alt='DIY Wedding Photo Booth: How to DIY a Photo Booth in 6 Steps ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1233">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hitched" />
+                                </span>
+                                <a href='https://cdn0.hitched.co.uk/article/7679/original/1280/jpg/149767-wooden-wedding-frame.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

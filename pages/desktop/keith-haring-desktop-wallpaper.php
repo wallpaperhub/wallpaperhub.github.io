@@ -1,0 +1,129 @@
+<title>Vibrant Keith Haring Desktop Wallpapers for Creative Energy</title>
+                    <meta name="description" content="Discover stunning Keith Haring desktop wallpapers that infuse your workspace with creativity and color. Enhance your digital experience with these iconic designs, perfect for art enthusiasts. Download your favorite now and let the energy of Haring’s art brighten your day!">
+                    <meta name="keywords" content="keith haring desktop wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/keith-haring-desktop-wallpaper">
+                            <span itemprop="name">keith haring desktop wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Keith Haring Desktop Wallpapers for Creative Energy</h1>
+                <p>Transform your digital space with vibrant Keith Haring desktop wallpapers that celebrate art and self-expression. Featuring bold colors and iconic designs, these wallpapers not only enhance your screen but also inspire creativity. Perfect for art lovers, they bring the energy of Haring's work right to your desktop!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Keith Haring Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/dc/30/62/dc3062deacd80abce4330e13707f4e0d.jpg' alt='Keith Haring Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/dc/30/62/dc3062deacd80abce4330e13707f4e0d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Keith Haring Wallpaper – YELLOWPOP">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0063/7779/9733/products/WPKHDNCNGMN100.jpg?v=1653408977' alt='Keith Haring Wallpaper – YELLOWPOP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="yellowpop" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0063/7779/9733/products/WPKHDNCNGMN100.jpg?v=1653408977' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Keith Haring Desktop Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/keith-haring-inspired-abstract-art-647ed5cgsmmyieju.jpg' alt='100+] Keith Haring Desktop Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1461">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/keith-haring-inspired-abstract-art-647ed5cgsmmyieju.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Keith Haring Wallpaper – YELLOWPOP">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0063/7779/9733/products/WPKHTHREYDFC900.jpg?v=1653409108' alt='Keith Haring Wallpaper – YELLOWPOP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2991">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="yellowpop" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0063/7779/9733/products/WPKHTHREYDFC900.jpg?v=1653409108' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Keith Haring Desktop Wallpapers - Top Free Keith Haring Desktop ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/da/72/7f/da727fcda4375fab5da212a697a2aee4.jpg' alt='Keith Haring Desktop Wallpapers - Top Free Keith Haring Desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/da/72/7f/da727fcda4375fab5da212a697a2aee4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: Keith Haring, acrylic, pop art, fabric, oil painting ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cc/37/1e/cc371e5b664645f095854526e3e91809.jpg' alt='HD wallpaper: Keith Haring, acrylic, pop art, fabric, oil painting ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cc/37/1e/cc371e5b664645f095854526e3e91809.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart Magnet Wallpaper, YP x Keith Haring">
+                                <img itemprop="contentUrl url" src='http://www.yellowpop.com/cdn/shop/products/WPKHHRTMGNT000_1200x630.png?v=1653408640' alt='Heart Magnet Wallpaper, YP x Keith Haring'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="yellowpop" />
+                                </span>
+                                <a href='http://www.yellowpop.com/cdn/shop/products/WPKHHRTMGNT000_1200x630.png?v=1653408640' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Keith Haring - Three Eyed Face Wallpaper (White Cloud) for Sale ...">
+                                <img itemprop="contentUrl url" src='https://d5wt70d4gnm1t.cloudfront.net/media/a-s/artworks/keith-haring/109926-193341457852/keith-haring-three-eyed-face-wallpaper-white-cloud-800x800.jpg' alt='Keith Haring - Three Eyed Face Wallpaper (White Cloud) for Sale ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="535">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Artspace" />
+                                </span>
+                                <a href='https://d5wt70d4gnm1t.cloudfront.net/media/a-s/artworks/keith-haring/109926-193341457852/keith-haring-three-eyed-face-wallpaper-white-cloud-800x800.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Keith Haring Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp1996426.jpg' alt='Keith Haring Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2652">
+                                <meta itemprop="height" content="2031">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp1996426.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Discover Keith Haring and make your reservation now San Ranieri ...">
+                                <img itemprop="contentUrl url" src='https://cdn.blastness.biz/media/1167/top/thumbs/full/top_keith-haring-tuttomondo.jpg' alt='Discover Keith Haring and make your reservation now San Ranieri ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="San Ranieri Hotel Pisa" />
+                                </span>
+                                <a href='https://cdn.blastness.biz/media/1167/top/thumbs/full/top_keith-haring-tuttomondo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

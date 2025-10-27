@@ -1,0 +1,129 @@
+<title>Summer Party Invitation Ideas: Bright & Fun Designs</title>
+                    <meta name="description" content="Explore creative summer party invitation backgrounds that capture the essence of fun in the sun! Discover vibrant themes and designs perfect for your next outdoor gathering, ensuring your invites stand out and set the party mood. Perfect for any summer celebration!">
+                    <meta name="keywords" content="summer party invitation background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/summer-party-invitation-background">
+                            <span itemprop="name">summer party invitation background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Summer Party Invitation Ideas: Bright & Fun Designs</h1>
+                <p>Get ready to soak up the sun with a vibrant summer party! This invitation background features bright colors, tropical motifs, and playful designs, perfect for your summer gathering. Whether it's a beach BBQ, pool party, or garden gathering, this eye-catching backdrop sets the tone for fun and relaxation.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="vector Summer party invitation template clip art Stock Vector ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2C1RJPY/vector-summer-party-invitation-template-clip-art-2C1RJPY.jpg' alt='vector Summer party invitation template clip art Stock Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="919">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2C1RJPY/vector-summer-party-invitation-template-clip-art-2C1RJPY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drink Poster Summer Party Invitation Background Wallpaper Image ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20250109/original/pngtree-drink-poster-summer-party-invitation-picture-image_15464471.jpg' alt='Drink Poster Summer Party Invitation Background Wallpaper Image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1672">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20250109/original/pngtree-drink-poster-summer-party-invitation-picture-image_15464471.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Party Greeting Invitation Poster On Pink Background Vector ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/origin/06/31/45/71cpIkbEsTWPg.png!w700wp' alt='Summer Party Greeting Invitation Poster On Pink Background Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="616">
+                                <meta itemprop="height" content="860">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/origin/06/31/45/71cpIkbEsTWPg.png!w700wp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="vector Summer party invitation template clip art Stock Vector ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2C1RJD7/vector-summer-party-invitation-template-clip-art-2C1RJD7.jpg' alt='vector Summer party invitation template clip art Stock Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="919">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2C1RJD7/vector-summer-party-invitation-template-clip-art-2C1RJD7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7+ Fun Tropical Summer Birthday Invitation Templates">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0b/fa/79/0bfa79c45b77a5037f776650415c08c2.jpg' alt='7+ Fun Tropical Summer Birthday Invitation Templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1030">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0b/fa/79/0bfa79c45b77a5037f776650415c08c2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9,518 Summer Party Invites Stock Photos, High-Res Pictures, and ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1323694533/vector/summer-party-invitation-template-with-string-lights.jpg?s=612x612&w=gi&k=20&c=JJpwnCBBpDmysh0p8zAQ7H6v3VZql4KmzOb8mHPdgWg=' alt='9,518 Summer Party Invites Stock Photos, High-Res Pictures, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="437">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1323694533/vector/summer-party-invitation-template-with-string-lights.jpg?s=612x612&w=gi&k=20&c=JJpwnCBBpDmysh0p8zAQ7H6v3VZql4KmzOb8mHPdgWg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Pool Party Invitation Background Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/summer-pool-party-invitation-background-4tftxgxx2knd1oif.jpg' alt='Summer Pool Party Invitation Background Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/summer-pool-party-invitation-background-4tftxgxx2knd1oif.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beach Invitations Images – Browse 160,362 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/55/55/08/360_F_255550849_8CqZkASBIvTTUFzgQct7OefSifzBuf8s.jpg' alt='Beach Invitations Images – Browse 160,362 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/55/55/08/360_F_255550849_8CqZkASBIvTTUFzgQct7OefSifzBuf8s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Party Invitation Templates – Editable .Docx">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c0/b5/32/c0b53244f6f5ea6024a7267a3f03cd7c.jpg' alt='Summer Party Invitation Templates – Editable .Docx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1031">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c0/b5/32/c0b53244f6f5ea6024a7267a3f03cd7c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Party Greeting Invitation On Beach Background Vector ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/origin/06/31/45/70ApIkbEsTUy6.png!bw700' alt='Summer Party Greeting Invitation On Beach Background Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="604">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/origin/06/31/45/70ApIkbEsTUy6.png!bw700' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

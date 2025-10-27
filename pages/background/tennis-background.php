@@ -1,0 +1,129 @@
+<title>Discover the History of Tennis: From Origins to Modern Game</title>
+                    <meta name="description" content="Explore the fascinating evolution of tennis, from its ancient roots to its status as a global sport. Learn about different court types, playing styles, and how tennis became a beloved pastime for millions. Perfect for history buffs and sports enthusiasts alike!">
+                    <meta name="keywords" content="tennis background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/tennis-background">
+                            <span itemprop="name">tennis background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the History of Tennis: From Origins to Modern Game</h1>
+                <p>Tennis has a rich history, dating back to the late 12th century when it originated as a handball game in France. Evolving into lawn tennis in the late 19th century, it gained popularity worldwide. The sport offers physical challenge, strategy, and camaraderie, with grass, clay, and hard courts supporting diverse playing styles.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tennis Court Background Stock Photos, Images and Backgrounds for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/030/632/713/small_2x/a-tennis-themed-wallpaper-featuring-tennis-rackets-and-balls-on-a-light-green-textured-court-background-offering-a-sophisticated-and-sporty-scene-ai-generated-photo.jpg' alt='Tennis Court Background Stock Photos, Images and Backgrounds for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="714">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/030/632/713/small_2x/a-tennis-themed-wallpaper-featuring-tennis-rackets-and-balls-on-a-light-green-textured-court-background-offering-a-sophisticated-and-sporty-scene-ai-generated-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tennis Ball Speed Stock Illustrations – 3,988 Tennis Ball Speed ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/burning-tennis-ball-speed-motion-abstract-background-fire-explosion-effect-generated-ai-349147308.jpg' alt='Tennis Ball Speed Stock Illustrations – 3,988 Tennis Ball Speed ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/burning-tennis-ball-speed-motion-abstract-background-fire-explosion-effect-generated-ai-349147308.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="193,500+ Tennis Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1483011696/photo/tennis-ball-racket-and-court-ground-with-mockup-space-blurred-background-or-outdoor-sunshine.jpg?s=612x612&w=0&k=20&c=XHTdIS788Vry0iNFL04YaTfOoxAEojz4RqSz-ZA5fZY=' alt='193,500+ Tennis Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="355">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1483011696/photo/tennis-ball-racket-and-court-ground-with-mockup-space-blurred-background-or-outdoor-sunshine.jpg?s=612x612&w=0&k=20&c=XHTdIS788Vry0iNFL04YaTfOoxAEojz4RqSz-ZA5fZY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tennis Background Images – Browse 274,588 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/00/42/28/79/360_F_42287934_1N9DweR9O5AUT6G43bMqiLFuzXKdR0XI.jpg' alt='Tennis Background Images – Browse 274,588 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/00/42/28/79/360_F_42287934_1N9DweR9O5AUT6G43bMqiLFuzXKdR0XI.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12,100+ Tennis Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1195639942/vector/tennis-balls-realistic-vector-background.jpg?s=612x612&w=0&k=20&c=cEjxx3cHHnkV3jypXmcc4v2Wweh0xcxvDQFgvv8XLwk=' alt='12,100+ Tennis Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1195639942/vector/tennis-balls-realistic-vector-background.jpg?s=612x612&w=0&k=20&c=cEjxx3cHHnkV3jypXmcc4v2Wweh0xcxvDQFgvv8XLwk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b7/64/40/b76440ddd51f87ee7525298a1b6deebb.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1407">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b7/64/40/b76440ddd51f87ee7525298a1b6deebb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="151 Simple Racquet Stock Photos - Free & Royalty-Free Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/tennis-ball-racquet-pink-background-generative-ai-classic-yellow-surface-blurred-sport-concept-328292642.jpg' alt='151 Simple Racquet Stock Photos - Free & Royalty-Free Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/tennis-ball-racquet-pink-background-generative-ai-classic-yellow-surface-blurred-sport-concept-328292642.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Loccor 10x8ft Fabric Tennis Court Backdrop for ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71xkGZtpcaL.jpg' alt='Amazon.com : Loccor 10x8ft Fabric Tennis Court Backdrop for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1140">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71xkGZtpcaL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tennis Court Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/tennis-ball-hard-court-corner-line_1150-6396.jpg' alt='Tennis Court Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/tennis-ball-hard-court-corner-line_1150-6396.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tennis Ball Close-Up - A Background for PowerPoint">
+                                <img itemprop="contentUrl url" src='https://content.presentermedia.com/files/clipart/00032000/32877/tennis_ball_close-up_800_wht.jpg' alt='Tennis Ball Close-Up - A Background for PowerPoint'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1456">
+                                <meta itemprop="height" content="816">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PresenterMedia" />
+                                </span>
+                                <a href='https://content.presentermedia.com/files/clipart/00032000/32877/tennis_ball_close-up_800_wht.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

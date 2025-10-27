@@ -1,0 +1,129 @@
+<title>Brighten Your Space with Lemon Aesthetic Wallpaper</title>
+                    <meta name="description" content="Add a splash of sunshine to your home with lemon aesthetic wallpaper. Perfect for brightening up kitchens or living spaces, these wallpapers feature cheerful lemon designs that elevate your decor and mood. Discover a refreshing vibe with our unique lemon patterns today!">
+                    <meta name="keywords" content="lemon aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/lemon-aesthetic-wallpaper">
+                            <span itemprop="name">lemon aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Brighten Your Space with Lemon Aesthetic Wallpaper</h1>
+                <p>Lemon aesthetic wallpaper brings a refreshing, sunny vibe to any space. Perfect for creating a cheerful atmosphere, these wallpapers feature vibrant yellow lemons, lush greenery, and playful patterns. Ideal for kitchens, nurseries, or as an accent wall, they can brighten your day and elevate your interior decor effortlessly.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lemon Phone Backgrounds - Phone/ Wallpaper/ Lemons/ Phone Background/  Aesthetic Phone Wallpaper/ Lemon/ Citrus - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16628724/r/il/a84e81/3710503825/il_1080xN.3710503825_dge3.jpg' alt='Lemon Phone Backgrounds - Phone/ Wallpaper/ Lemons/ Phone Background/  Aesthetic Phone Wallpaper/ Lemon/ Citrus - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16628724/r/il/a84e81/3710503825/il_1080xN.3710503825_dge3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lemon aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fd/e0/a4/fde0a4036c2adbfddca2caa82ccceefa.jpg' alt='Lemon aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1186">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fd/e0/a4/fde0a4036c2adbfddca2caa82ccceefa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lemon Wallpaper Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA2L3YxMDEzLXAtMDAwNmQtMDEta3NpODc4ZnEuanBn.jpg' alt='Lemon Wallpaper Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA2L3YxMDEzLXAtMDAwNmQtMDEta3NpODc4ZnEuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Vintage lemon and cream flower aesthetic phone ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/vintage-lemon-cream-flower-aesthetic-phone-wallpaper-watercolor_587382-129.jpg' alt='Premium Vector | Vintage lemon and cream flower aesthetic phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="352">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/vintage-lemon-cream-flower-aesthetic-phone-wallpaper-watercolor_587382-129.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300+] Lemon Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/lemon-gpljacc1bbsj9tzz.jpg' alt='300+] Lemon Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/lemon-gpljacc1bbsj9tzz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD lemon aesthetic wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/986/858/HD-wallpaper-lemon-daisy-aesthetic-flower-happy-positive-positive-aesthetic.jpg' alt='HD lemon aesthetic wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1170">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/986/858/HD-wallpaper-lemon-daisy-aesthetic-flower-happy-positive-positive-aesthetic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lemon wallpaper | Pattern wallpaper, Print patterns, Aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/ae/76/ba/ae76ba2fa53007df69f7907e4a5a5b59.jpg' alt='Lemon wallpaper | Pattern wallpaper, Print patterns, Aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="846">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/ae/76/ba/ae76ba2fa53007df69f7907e4a5a5b59.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Pastel Yellow Aesthetic With Lemon Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-pastel-yellow-aesthetic-with-lemon-6pirlfy0r8boxeoa.jpg' alt='Cute Pastel Yellow Aesthetic With Lemon Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-pastel-yellow-aesthetic-with-lemon-6pirlfy0r8boxeoa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic lemon">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/aesthetic-lemon-pattern-repeat-removable-wallpaper-design.jpg' alt='Aesthetic lemon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/aesthetic-lemon-pattern-repeat-removable-wallpaper-design.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Lemon Evergreen Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/lemon-for-phone-9n5t0exj89ieo3u0.webp' alt='Vintage Lemon Evergreen Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/lemon-for-phone-9n5t0exj89ieo3u0.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

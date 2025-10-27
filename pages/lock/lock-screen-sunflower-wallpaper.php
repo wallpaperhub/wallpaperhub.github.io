@@ -1,0 +1,129 @@
+<title>Vibrant Sunflower Lock Screen Wallpapers for Your Phone</title>
+                    <meta name="description" content="Discover the beauty of sunflower lock screen wallpapers! Bright and cheerful, these designs will uplift your mood every time you unlock your phone. Perfect for nature lovers, choose from high-resolution images to give your device a refreshing and sunny look.">
+                    <meta name="keywords" content="lock screen sunflower wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock">
+                            <span itemprop="name">Lock</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock/lock-screen-sunflower-wallpaper">
+                            <span itemprop="name">lock screen sunflower wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Sunflower Lock Screen Wallpapers for Your Phone</h1>
+                <p>Brighten up your phone with a stunning lock screen sunflower wallpaper! Sunflowers radiate warmth and positivity, making them perfect for daily motivation. Choose from various designs featuring lush fields, vibrant close-ups, or artistic interpretations. Transform your device into a cheerful escape and let the sunshine in!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Wallpaper •">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/d1/7b/2e/d17b2e66ccae3526a0ba8c28353d0f53.jpg' alt='Phone Wallpaper •'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1128">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/d1/7b/2e/d17b2e66ccae3526a0ba8c28353d0f53.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic sunflower wallpaper!       | Sunflower wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/98/1b/cf/981bcf5c3a95d3580ce6e906d0b9efb2.jpg' alt='Aesthetic sunflower wallpaper!       | Sunflower wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/98/1b/cf/981bcf5c3a95d3580ce6e906d0b9efb2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Sunflower Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/sunflower-iphone-tq3q4h6sw8od19js.jpg' alt='100+] Sunflower Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/sunflower-iphone-tq3q4h6sw8od19js.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunflower Wallpaper Photos, Download The BEST Free Sunflower ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/5241874/pexels-photo-5241874.jpeg?cs=srgb&dl=pexels-todd-trapani-488382-5241874.jpg&fm=jpg' alt='Sunflower Wallpaper Photos, Download The BEST Free Sunflower ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3356">
+                                <meta itemprop="height" content="5032">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/5241874/pexels-photo-5241874.jpeg?cs=srgb&dl=pexels-todd-trapani-488382-5241874.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunflower iPhone Wallpaper | Gallery posted by   ☠️Kimiko ...">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7275553093117821445&index=0&sign=484c3d1c4647239221baae0e6a7019b6' alt='Sunflower iPhone Wallpaper | Gallery posted by   ☠️Kimiko ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="767">
+                                <meta itemprop="height" content="1026">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7275553093117821445&index=0&sign=484c3d1c4647239221baae0e6a7019b6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lockscreens, Mountain Sunflower, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/394/325/HD-wallpaper-lockscreens-mountain-sunflower.jpg' alt='Lockscreens, Mountain Sunflower, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1424">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/394/325/HD-wallpaper-lockscreens-mountain-sunflower.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunflower Screen Lock Wallpaper | Phone">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/phone/images/640/sunflower.png' alt='Sunflower Screen Lock Wallpaper | Phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/phone/images/640/sunflower.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lockscreen. - #Sunflower  ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/59/83/b4/5983b473a721053e8d4433ebe3ed5d3d.jpg' alt='Lockscreen. - #Sunflower  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="405">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/59/83/b4/5983b473a721053e8d4433ebe3ed5d3d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunflower Lock Screen Wallpaper Challenge">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7140690715893337386&location=0&aid=1988' alt='Sunflower Lock Screen Wallpaper Challenge'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7140690715893337386&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I wanted to have the sunflower picture as my phone background, but ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/i-wanted-to-have-the-sunflower-picture-as-my-phone-v0-67s0rcvcn8mb1.jpg?width=640&crop=smart&auto=webp&s=0fab5c34b4ec4e36a2cd31f23746f9076272c153' alt='I wanted to have the sunflower picture as my phone background, but ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/i-wanted-to-have-the-sunflower-picture-as-my-phone-v0-67s0rcvcn8mb1.jpg?width=640&crop=smart&auto=webp&s=0fab5c34b4ec4e36a2cd31f23746f9076272c153' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

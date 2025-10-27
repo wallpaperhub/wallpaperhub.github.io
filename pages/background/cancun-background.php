@@ -1,0 +1,129 @@
+<title>Discover Cancun: Beaches, Culture, and Adventure!</title>
+                    <meta name="description" content="Explore the beauty of Cancun, where pristine beaches meet rich cultural heritage. Enjoy breathtaking ocean views, ancient Mayan ruins, and vibrant nightlife. Perfect for beach lovers and adventure seekers alike. Uncover the magic of Cancun today!">
+                    <meta name="keywords" content="cancun background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cancun-background">
+                            <span itemprop="name">cancun background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Cancun: Beaches, Culture, and Adventure!</h1>
+                <p>Cancun is a vibrant destination known for its stunning beaches, rich history, and lively culture. Surrounded by the Caribbean Sea, it boasts crystal-clear waters and white sandy shores. Visitors can explore ancient Mayan ruins, indulge in delicious cuisine, and experience an exciting nightlife, making it a perfect vacation spot.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="32,800+ Cancun Mexico Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1359239820/photo/cancun-coast-with-sun-and-sailboats.jpg?s=612x612&w=0&k=20&c=qgZA3RCvooV2UXDrccnjjrlA61OoghLTGKU9ktl9AYg=' alt='32,800+ Cancun Mexico Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="379">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1359239820/photo/cancun-coast-with-sun-and-sailboats.jpg?s=612x612&w=0&k=20&c=qgZA3RCvooV2UXDrccnjjrlA61OoghLTGKU9ktl9AYg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1K+ Cancun Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1570737543098-0983d88f796d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2FuY3VufGVufDB8fDB8fHww' alt='1K+ Cancun Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2539">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1570737543098-0983d88f796d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2FuY3VufGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="32,800+ Cancun Mexico Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1391487796/photo/cancun-resort-during-a-sunset.jpg?s=612x612&w=0&k=20&c=626ZnZpzcGc0cRcyVyJHPVt9JH-_RwxqGZuU_q50PFk=' alt='32,800+ Cancun Mexico Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="278">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1391487796/photo/cancun-resort-during-a-sunset.jpg?s=612x612&w=0&k=20&c=626ZnZpzcGc0cRcyVyJHPVt9JH-_RwxqGZuU_q50PFk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,200+ Cancun Beach Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1415694067/photo/mexico-riviera-maya-in-cancun-playa-delfines-dolphin-beach-nicknamed-el-mirador.jpg?s=612x612&w=0&k=20&c=AEzhlsiWof9FkBfOfx0fxuIYhCzCgpeIF4EotiCkJro=' alt='2,200+ Cancun Beach Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1415694067/photo/mexico-riviera-maya-in-cancun-playa-delfines-dolphin-beach-nicknamed-el-mirador.jpg?s=612x612&w=0&k=20&c=AEzhlsiWof9FkBfOfx0fxuIYhCzCgpeIF4EotiCkJro=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cancun Images – Browse 72,423 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/01/98/44/47/360_F_198444713_FC6htTbJZbAb2DiCorypgyHoTLYnZp4f.jpg' alt='Cancun Images – Browse 72,423 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="538">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/01/98/44/47/360_F_198444713_FC6htTbJZbAb2DiCorypgyHoTLYnZp4f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Cancun Became a Favorite Beachfront Destination">
+                                <img itemprop="contentUrl url" src='https://www.travelandleisure.com/thmb/TclJ_n6VOoScGo_6USUucHz3pbw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/cancun-mexico-hotels-tourism-now-CANCUNFIFTY0521-dfb554b3726b40e2b6102eaeb83b5668.jpg' alt='How Cancun Became a Favorite Beachfront Destination'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Travel + Leisure" />
+                                </span>
+                                <a href='https://www.travelandleisure.com/thmb/TclJ_n6VOoScGo_6USUucHz3pbw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/cancun-mexico-hotels-tourism-now-CANCUNFIFTY0521-dfb554b3726b40e2b6102eaeb83b5668.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Relax and Unwind in Cancun | USA3000 Airlines">
+                                <img itemprop="contentUrl url" src='https://www.usa3000.com/wp-content/uploads/2018/09/cancun.jpg' alt='How to Relax and Unwind in Cancun | USA3000 Airlines'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USA3000 Airlines" />
+                                </span>
+                                <a href='https://www.usa3000.com/wp-content/uploads/2018/09/cancun.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cancún caliente">
+                                <img itemprop="contentUrl url" src='https://media-cldnry.s-nbcnews.com/image/upload/t_focal-360x700,f_auto,q_auto:best/msnbc/Components/Slideshows/_production/ss_070323_cancun/ss_070323_cancun_tease.jpg' alt='Cancún caliente'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBC News" />
+                                </span>
+                                <a href='https://media-cldnry.s-nbcnews.com/image/upload/t_focal-360x700,f_auto,q_auto:best/msnbc/Components/Slideshows/_production/ss_070323_cancun/ss_070323_cancun_tease.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9,229 Cancun Sunset Beach Royalty-Free Photos and Stock Images ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/cancun-sunset-drone-wiew-600nw-1903587787.jpg' alt='9,229 Cancun Sunset Beach Royalty-Free Photos and Stock Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="372">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/cancun-sunset-drone-wiew-600nw-1903587787.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="943 Cancun Mexico Photos, Pictures And Background Images For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20230216/pngtree-cancun-forum-beach-playa-gaviota-azul-in-mexico-at-hotel-zone-image_1589666.jpg' alt='943 Cancun Mexico Photos, Pictures And Background Images For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20230216/pngtree-cancun-forum-beach-playa-gaviota-azul-in-mexico-at-hotel-zone-image_1589666.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

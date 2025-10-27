@@ -1,0 +1,129 @@
+<title>Aesthetic Skeleton Hand Wallpaper - Elegant & Unique Designs</title>
+                    <meta name="description" content="Discover stunning aesthetic skeleton hand wallpaper to elevate your device's look. Perfect for art lovers, this unique collection brings a blend of beauty and edginess, making your screen stand out. Download now for a fresh, artistic upgrade!">
+                    <meta name="keywords" content="aesthetic skeleton hand wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic-skeleton-hand-wallpaper">
+                            <span itemprop="name">aesthetic skeleton hand wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Skeleton Hand Wallpaper - Elegant & Unique Designs</h1>
+                <p>Transform your device with aesthetic skeleton hand wallpaper! Featuring intricate designs that blend elegance with a touch of the macabre, these wallpapers add a unique flair to your screen. Perfect for those who appreciate art, nature, or the supernatural, this wallpaper collection is ideal for personalizing your space.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skeleton hand">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/22/ce/26/22ce263e8cf23697c782d8aebde2df88.jpg' alt='Skeleton hand'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="608">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/22/ce/26/22ce263e8cf23697c782d8aebde2df88.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skeleton Hands making a heart">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/1f/7a/f1/1f7af1826b1b30bc7b4725446ecfa7c5.jpg' alt='Skeleton Hands making a heart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/1f/7a/f1/1f7af1826b1b30bc7b4725446ecfa7c5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Black Aesthetic Rose Skeleton Hands Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/black-aesthetic-rose-skeleton-hands-a7cwsdyb7xj2oskq.jpg' alt='Download Black Aesthetic Rose Skeleton Hands Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/black-aesthetic-rose-skeleton-hands-a7cwsdyb7xj2oskq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/e2/de/bb/e2debb9981405c684ffdbc218bc772bb.jpg' alt='Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/e2/de/bb/e2debb9981405c684ffdbc218bc772bb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD skeleton hand wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/199/891/HD-wallpaper-dollars-dollar-hand-skeleton-thumbnail.jpg' alt='HD skeleton hand wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/199/891/HD-wallpaper-dollars-dollar-hand-skeleton-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Aesthetic Cute Halloween Skeleton Hand Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-cute-halloween-skeleton-hand-a7qe1ilc2a859806.jpg' alt='Download Aesthetic Cute Halloween Skeleton Hand Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="888">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-cute-halloween-skeleton-hand-a7qe1ilc2a859806.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Human skeleton hand illustration of a human skeleton hand isolated ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/048/044/376/non_2x/human-skeleton-hand-illustration-of-a-human-skeleton-hand-isolated-on-black-background-free-vector.jpg' alt='Human skeleton hand illustration of a human skeleton hand isolated ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/048/044/376/non_2x/human-skeleton-hand-illustration-of-a-human-skeleton-hand-isolated-on-black-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/13/51/9d/13519daaa6f38b1cdefffc3ecf496af0.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/13/51/9d/13519daaa6f38b1cdefffc3ecf496af0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skeleton hand desktop, phone and tablet wallpaper – makeandtell">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0633/7039/5889/files/skeleton-hand-blogpic-social-media.jpg?v=1663975821' alt='Skeleton hand desktop, phone and tablet wallpaper – makeandtell'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="3334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="makeandtell" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0633/7039/5889/files/skeleton-hand-blogpic-social-media.jpg?v=1663975821' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Aesthetic Halloween Background Skeleton Hand Peace Sign ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-halloween-background-4lji19fbv608aa80.jpg' alt='Download Aesthetic Halloween Background Skeleton Hand Peace Sign ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-halloween-background-4lji19fbv608aa80.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

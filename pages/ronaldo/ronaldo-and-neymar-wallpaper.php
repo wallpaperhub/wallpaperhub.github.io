@@ -1,0 +1,129 @@
+<title>Stunning Ronaldo and Neymar Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover a vibrant collection of Ronaldo and Neymar wallpapers perfect for fans! Enjoy high-quality images featuring iconic moments and artistic designs to personalize your device. Download now and display your passion for these football superstars with style!">
+                    <meta name="keywords" content="ronaldo and neymar wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/ronaldo">
+                            <span itemprop="name">Ronaldo</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/ronaldo/ronaldo-and-neymar-wallpaper">
+                            <span itemprop="name">ronaldo and neymar wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Ronaldo and Neymar Wallpapers for Your Device</h1>
+                <p>Transform your screen with stunning Ronaldo and Neymar wallpapers that showcase their incredible talent and style. Perfect for fans of these football legends, our collection offers high-resolution images that will bring your device to life. Choose from dynamic action shots to artistic portraits and elevate your background today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cristiano Ronaldo Neymar Jr Wallpaper by adi-149 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e74e7002-7e71-4d38-b7aa-324a199423f8/dc3qsfw-cf13b9b1-ea67-453d-b9d2-a27011c76d17.jpg/v1/fill/w_670,h_1192,q_70,strp/cristiano_ronaldo_neymar_jr_wallpaper_by_adi_149_dc3qsfw-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTMzNCIsInBhdGgiOiJcL2ZcL2U3NGU3MDAyLTdlNzEtNGQzOC1iN2FhLTMyNGExOTk0MjNmOFwvZGMzcXNmdy1jZjEzYjliMS1lYTY3LTQ1M2QtYjlkMi1hMjcwMTFjNzZkMTcuanBnIiwid2lkdGgiOiI8PTc1MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.ieSJaiCR1imDH5AeA9KqkcgPS9WAgaW-8oiWapsm8fA' alt='Cristiano Ronaldo Neymar Jr Wallpaper by adi-149 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="670">
+                                <meta itemprop="height" content="1192">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e74e7002-7e71-4d38-b7aa-324a199423f8/dc3qsfw-cf13b9b1-ea67-453d-b9d2-a27011c76d17.jpg/v1/fill/w_670,h_1192,q_70,strp/cristiano_ronaldo_neymar_jr_wallpaper_by_adi_149_dc3qsfw-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTMzNCIsInBhdGgiOiJcL2ZcL2U3NGU3MDAyLTdlNzEtNGQzOC1iN2FhLTMyNGExOTk0MjNmOFwvZGMzcXNmdy1jZjEzYjliMS1lYTY3LTQ1M2QtYjlkMi1hMjcwMTFjNzZkMTcuanBnIiwid2lkdGgiOiI8PTc1MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.ieSJaiCR1imDH5AeA9KqkcgPS9WAgaW-8oiWapsm8fA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neymar Vs Ronaldo | Juventus | Cr7 | Jr">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/a0/43/15/a04315634a72d76bf7990f86c18b2dd8.jpg' alt='Neymar Vs Ronaldo | Juventus | Cr7 | Jr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/a0/43/15/a04315634a72d76bf7990f86c18b2dd8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy birthday both of you     ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0c/b6/5f/0cb65f622b641034e9898621773c4fcf.jpg' alt='Happy birthday both of you     '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0c/b6/5f/0cb65f622b641034e9898621773c4fcf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neymar With Ronaldo, neymar, ronaldo, footballer, sports, athlete ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/865/934/HD-wallpaper-neymar-with-ronaldo-neymar-ronaldo-footballer-sports-athlete.jpg' alt='Neymar With Ronaldo, neymar, ronaldo, footballer, sports, athlete ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/865/934/HD-wallpaper-neymar-with-ronaldo-neymar-ronaldo-footballer-sports-athlete.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="279 Cristiano Ronaldo Neymar Photos & High Res Pictures - Getty Images">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/918873994/photo/madrid-spain-cristiano-ronaldo-of-real-madrid-and-neymar-of-paris-looks-on-during-the-uefa.jpg?s=612x612&w=gi&k=20&c=2d5Xwdep1m4CrIMhIM-hCHpp4RUY_UJGVVGash7FbY4=' alt='279 Cristiano Ronaldo Neymar Photos & High Res Pictures - Getty Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/918873994/photo/madrid-spain-cristiano-ronaldo-of-real-madrid-and-neymar-of-paris-looks-on-during-the-uefa.jpg?s=612x612&w=gi&k=20&c=2d5Xwdep1m4CrIMhIM-hCHpp4RUY_UJGVVGash7FbY4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ronaldo and Neymar wallpaper by M_MOHIB - Download on ZEDGE™ | 7b23">
+                                <img itemprop="contentUrl url" src='https://is.zobj.net/image-server/v1/images?r=jBWS4BsCngnLaku6LsH1QyU84iIsfKJXY-JBpSRtoAAK3kFpYFcQ1JdC5FutXdUtdjlVvHUVTZ94Vyg_sTuvybylRdMzqj999TE45Eyj1uBotiIpImRZk6yQGNBcLD7ycVLmc6URJks4EV4el6sgv0bve-bb4c_-qKuzkt3PsvM5FVxH1I3Q6L_cJc0EjKy6JFTAx-eyulldM-jhC945adxqDmPsPZhZ93dXFWGKa6jKygX6kS3Iler7l5g' alt='Ronaldo and Neymar wallpaper by M_MOHIB - Download on ZEDGE™ | 7b23'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="336">
+                                <meta itemprop="height" content="603">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zedge" />
+                                </span>
+                                <a href='https://is.zobj.net/image-server/v1/images?r=jBWS4BsCngnLaku6LsH1QyU84iIsfKJXY-JBpSRtoAAK3kFpYFcQ1JdC5FutXdUtdjlVvHUVTZ94Vyg_sTuvybylRdMzqj999TE45Eyj1uBotiIpImRZk6yQGNBcLD7ycVLmc6URJks4EV4el6sgv0bve-bb4c_-qKuzkt3PsvM5FVxH1I3Q6L_cJc0EjKy6JFTAx-eyulldM-jhC945adxqDmPsPZhZ93dXFWGKa6jKygX6kS3Iler7l5g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cristiano Ronaldo Lionel Messi Neymar Jr Wallpapers Football Comprehensive  Poster Famous Sports Star Poster Poster Canvas Wall Art Print Decorative ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71CsJ6KNsXL._AC_UF894,1000_QL80_.jpg' alt='Cristiano Ronaldo Lionel Messi Neymar Jr Wallpapers Football Comprehensive  Poster Famous Sports Star Poster Poster Canvas Wall Art Print Decorative ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="597">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71CsJ6KNsXL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neymar and Ronaldo | iPhone Case">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.2684165971.0535/flat,750x1000,075,t.jpg' alt='Neymar and Ronaldo | iPhone Case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.2684165971.0535/flat,750x1000,075,t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MS Edits      on X: "   | Wallpapers ➱ Neymar & Cristiano ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/Fo8zQgZWAAUMy7e?format=jpg&name=4096x4096' alt='MS Edits      on X: "   | Wallpapers ➱ Neymar & Cristiano ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/Fo8zQgZWAAUMy7e?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="444 Neymar Ronaldo Photos & High Res Pictures - Getty Images">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/918291570/photo/topshot-real-madrids-portuguese-forward-cristiano-ronaldo-and-paris-saint-germains-brazilian.jpg?s=612x612&w=gi&k=20&c=Ey9I3Y7FbQ0N_ncIX2P9sU2JvgxvnZnwDVl5n0HR4jI=' alt='444 Neymar Ronaldo Photos & High Res Pictures - Getty Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/918291570/photo/topshot-real-madrids-portuguese-forward-cristiano-ronaldo-and-paris-saint-germains-brazilian.jpg?s=612x612&w=gi&k=20&c=Ey9I3Y7FbQ0N_ncIX2P9sU2JvgxvnZnwDVl5n0HR4jI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

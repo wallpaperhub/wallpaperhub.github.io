@@ -1,0 +1,129 @@
+<title>Broken Heart Aesthetic Wallpapers: Express Your Feelings</title>
+                    <meta name="description" content="Explore our collection of broken heart wallpaper aesthetics, blending beauty and emotion. Perfect for those looking to express feelings of love and loss through stunning visuals. Discover designs that resonate with your heart's journey and transform your digital space today! Ideal for mobile optimization.">
+                    <meta name="keywords" content="broken heart wallpaper aesthetic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/broken-heart-wallpaper-aesthetic">
+                            <span itemprop="name">broken heart wallpaper aesthetic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Broken Heart Aesthetic Wallpapers: Express Your Feelings</h1>
+                <p>A broken heart wallpaper aesthetic encapsulates the beauty in sorrow with soft colors, gentle textures, and poignant imagery. Combining elements like wilted flowers, tear-stained letters, and moody sunsets, these wallpapers evoke deep emotions, serving as a reminder of love lost yet cherished, perfect for expressing one's feelings in a visually stunning way.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Broken Heart Aesthetics Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/broken-heart-aesthetics-8g1424mkl824qcax.jpg' alt='100+] Broken Heart Aesthetics Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/broken-heart-aesthetics-8g1424mkl824qcax.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broken Heart Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/broken-heart-aesthetic-fam2gxh3rs4h77sn.jpg' alt='Broken Heart Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1079">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/broken-heart-aesthetic-fam2gxh3rs4h77sn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart Broken Wallpaper Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA1L2Z0MDItMTEwNDI0LWZyZWVzdHlsZTFxdW90ZS1uZy0wMDFiLXN0b3J5LmpwZw.jpg' alt='Heart Broken Wallpaper Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA1L2Z0MDItMTEwNDI0LWZyZWVzdHlsZTFxdW90ZS1uZy0wMDFiLXN0b3J5LmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broken Heart Aesthetic Neon Pink Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/broken-heart-aesthetic-neon-pink-uc6jv52g3d06uqtv.jpg' alt='Broken Heart Aesthetic Neon Pink Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/broken-heart-aesthetic-neon-pink-uc6jv52g3d06uqtv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broken heart wallpaper aesthetic        – @hannahxcorleone on Tumblr">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/1409e5cf5e99e726ab1c7c3cdf6baa8e/31df44aa9c9b288c-46/s540x810/e35cd66d9937f37e475da98e8957ef4e7a2e656a.jpg' alt='Broken heart wallpaper aesthetic        – @hannahxcorleone on Tumblr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="456">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/1409e5cf5e99e726ab1c7c3cdf6baa8e/31df44aa9c9b288c-46/s540x810/e35cd66d9937f37e475da98e8957ef4e7a2e656a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A shattered heart in darkness | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/broken-heart-black-720-x-1280-background-72oml55pd860suvr.jpg' alt='Download A shattered heart in darkness | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/broken-heart-black-720-x-1280-background-72oml55pd860suvr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic, broken, heart, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/143/787/HD-wallpaper-aesthetic-broken-heart.jpg' alt='Aesthetic, broken, heart, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/143/787/HD-wallpaper-aesthetic-broken-heart.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart Broken Wallpaper Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA3L3JtNjU1LXJlbWl4LWJtLTAwNGEtYi5qcGc.jpg' alt='Heart Broken Wallpaper Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA3L3JtNjU1LXJlbWl4LWJtLTAwNGEtYi5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Broken Heart Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/broken-heart-iphone-ntvha1fjgd2n08bc.jpg' alt='100+] Broken Heart Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="507">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/broken-heart-iphone-ntvha1fjgd2n08bc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broken heart wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/ef/65/0b/ef650b5c56ef2348b62d5f3eda3f102d.jpg' alt='Broken heart wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/ef/65/0b/ef650b5c56ef2348b62d5f3eda3f102d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>How to Overcome Apartment Denial from Background Checks</title>
+                    <meta name="description" content="Learn how to handle apartment denials caused by background checks. Discover tips to review your report, correct errors, and find more flexible landlords. Don't let a background check hold you back from finding your new home!">
+                    <meta name="keywords" content="denied apartment because background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/denied-apartment-because-background-check">
+                            <span itemprop="name">denied apartment because background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>How to Overcome Apartment Denial from Background Checks</h1>
+                <p>Being denied an apartment due to a background check can be disheartening. Landlords often rely on these checks to assess potential tenants' credit history, criminal records, and rental history. If you face this situation, consider reviewing your report for errors, seeking explanations, or finding landlords who are more flexible.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NYC landlords could soon be denied criminal background checks for ...">
+                                <img itemprop="contentUrl url" src='https://nypost.com/wp-content/uploads/sites/2/2022/11/nyc-landlords-can-soon-be-denied-criminal-background-check-5.jpg' alt='NYC landlords could soon be denied criminal background checks for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="New York Post" />
+                                </span>
+                                <a href='https://nypost.com/wp-content/uploads/sites/2/2022/11/nyc-landlords-can-soon-be-denied-criminal-background-check-5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Can You Do if Your Tenant Background Report Is Wrong? – The ...">
+                                <img itemprop="contentUrl url" src='https://mrkp-static-production.themarkup.org/uploads/2020/05/tenant-screening-1200x600.jpg' alt='What Can You Do if Your Tenant Background Report Is Wrong? – The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Markup" />
+                                </span>
+                                <a href='https://mrkp-static-production.themarkup.org/uploads/2020/05/tenant-screening-1200x600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Access Denied: Faulty Automated Background Checks Freeze Out ...">
+                                <img itemprop="contentUrl url" src='https://mrkp-static-production.themarkup.org/uploads/2020/05/example-report-720x506.jpg' alt='Access Denied: Faulty Automated Background Checks Freeze Out ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Markup" />
+                                </span>
+                                <a href='https://mrkp-static-production.themarkup.org/uploads/2020/05/example-report-720x506.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Denied Housing Due to Credit Report Errors">
+                                <img itemprop="contentUrl url" src='https://www.consumerlawfirm.com/wp-content/uploads/2020/06/Denied-Housing-Due-to-Inaccurate-tenant-screening-video-thumbnail.jpg' alt='Denied Housing Due to Credit Report Errors'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1919">
+                                <meta itemprop="height" content="1077">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Francis Mailman Soumilas, P.C." />
+                                </span>
+                                <a href='https://www.consumerlawfirm.com/wp-content/uploads/2020/06/Denied-Housing-Due-to-Inaccurate-tenant-screening-video-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Understanding Tenant Screening Laws in New York - Azibo">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/642f473d941777aea3efadcc/66f592b7fd3b54f8b5e923ad_7f632d08-68b6-4603-8985-c30fba336431.png' alt='Understanding Tenant Screening Laws in New York - Azibo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="966">
+                                <meta itemprop="height" content="1240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Azibo" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/642f473d941777aea3efadcc/66f592b7fd3b54f8b5e923ad_7f632d08-68b6-4603-8985-c30fba336431.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Denied For a Job Or Apartment Due to a Background or Credit Check">
+                                <img itemprop="contentUrl url" src='https://www.kazlg.com/wp-content/uploads/2020/10/shutterstock_571652542-1024x683.jpg' alt='Denied For a Job Or Apartment Due to a Background or Credit Check'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kazerouni Law Group" />
+                                </span>
+                                <a href='https://www.kazlg.com/wp-content/uploads/2020/10/shutterstock_571652542-1024x683.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Rental Application Denial Letter | PDF & Word">
+                                <img itemprop="contentUrl url" src='https://legaltemplates.net/wp-content/uploads/rental-application-rejection-letter-240x310.png' alt='Free Rental Application Denial Letter | PDF & Word'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="240">
+                                <meta itemprop="height" content="310">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Legal Templates" />
+                                </span>
+                                <a href='https://legaltemplates.net/wp-content/uploads/rental-application-rejection-letter-240x310.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sloppy' Background Checks Can Block Renters From Housing | Money">
+                                <img itemprop="contentUrl url" src='https://money.com/wp-content/uploads/2022/12/News-Tenant-Background-Check-Errors.jpg?quality=60&w=600' alt='Sloppy' Background Checks Can Block Renters From Housing | Money'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Money" />
+                                </span>
+                                <a href='https://money.com/wp-content/uploads/2022/12/News-Tenant-Background-Check-Errors.jpg?quality=60&w=600' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Denied an Apartment Because of a Failed Background Check? | Fair ...">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/63d19cd484817e15bcefbdff/64f3b96149d28c5f0659959f_denied-apartment.jpg' alt='Denied an Apartment Because of a Failed Background Check? | Fair ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fair Credit" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/63d19cd484817e15bcefbdff/64f3b96149d28c5f0659959f_denied-apartment.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beyond Backgrounds">
+                                <img itemprop="contentUrl url" src='https://beyondbackgrounds.carrd.co/assets/images/card.jpg?v=4940e066' alt='Beyond Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="beyondbackgrounds.carrd.co" />
+                                </span>
+                                <a href='https://beyondbackgrounds.carrd.co/assets/images/card.jpg?v=4940e066' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

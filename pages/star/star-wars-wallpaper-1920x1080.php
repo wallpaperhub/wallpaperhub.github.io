@@ -1,0 +1,129 @@
+<title>Stunning Star Wars 1920x1080 Wallpapers for Your Screen</title>
+                    <meta name="description" content="Explore an exciting collection of Star Wars wallpapers in 1920x1080 resolution. Perfect for fans who want to enhance their devices with vibrant images of iconic characters and scenes. Download now and let your screen tell the story of a galaxy far, far away!">
+                    <meta name="keywords" content="star wars wallpaper 1920x1080">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star">
+                            <span itemprop="name">Star</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star/star-wars-wallpaper-1920x1080">
+                            <span itemprop="name">star wars wallpaper 1920x1080</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Star Wars 1920x1080 Wallpapers for Your Screen</h1>
+                <p>Transform your screen with stunning Star Wars wallpaper at 1920x1080 resolution! Discover epic images featuring beloved characters, starships, and iconic scenes from the galaxy far, far away. Perfect for fans seeking to personalize their desktops or devices. Bring your passion for Star Wars to life today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A collection of Star Wars wallpapers. All 1920x1080. : r/StarWars">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/8t2Ke2zdrHx669tFR1UzcOvELcpRPMUsPUyMLVB0EN0.jpg?auto=webp&s=5c7efaff25d7b9e5071ee25e8f01f3e7fc160196' alt='A collection of Star Wars wallpapers. All 1920x1080. : r/StarWars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/8t2Ke2zdrHx669tFR1UzcOvELcpRPMUsPUyMLVB0EN0.jpg?auto=webp&s=5c7efaff25d7b9e5071ee25e8f01f3e7fc160196' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] 1920 X 1080 Star Wars Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/1920-x-1080-star-wars-88kwuwvd3lsml1zk.jpg' alt='100+] 1920 X 1080 Star Wars Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/1920-x-1080-star-wars-88kwuwvd3lsml1zk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Wallpapers (148 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/0/d/c/33297-1920x1080-desktop-1080p-star-wars-background-image.jpg' alt='Star Wars Wallpapers (148 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/0/d/c/33297-1920x1080-desktop-1080p-star-wars-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Wallpapers (148 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/4/e/a/33262-3376x1899-desktop-hd-star-wars-background.jpg' alt='Star Wars Wallpapers (148 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3376">
+                                <meta itemprop="height" content="1899">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/4/e/a/33262-3376x1899-desktop-hd-star-wars-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Best Star Wars Hd Desktop Wallpaper FULL HD 1080p For PC Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f5/6d/f2/f56df271a32e13a8956dbc731305e4c6.jpg' alt='10 Best Star Wars Hd Desktop Wallpaper FULL HD 1080p For PC Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f5/6d/f2/f56df271a32e13a8956dbc731305e4c6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1000+] Star Wars Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/star-wars-plzcoaffexgf4h81.jpg' alt='1000+] Star Wars Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/star-wars-plzcoaffexgf4h81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Darth Vader (1920x1080) : r/wallpaper">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/SCJoNtnq_Z9CZarcXJwdkHYVB878KKCvirr7KQT-wzQ.jpg?width=640&crop=smart&auto=webp&s=be8163d5605389f5c40ff789d3232530035d850f' alt='Darth Vader (1920x1080) : r/wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/SCJoNtnq_Z9CZarcXJwdkHYVB878KKCvirr7KQT-wzQ.jpg?width=640&crop=smart&auto=webp&s=be8163d5605389f5c40ff789d3232530035d850f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Wallpapers (148 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/8/6/3/33268-1920x1080-desktop-1080p-star-wars-background-image.jpg' alt='Star Wars Wallpapers (148 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/8/6/3/33268-1920x1080-desktop-1080p-star-wars-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Jedi: Fallen Order Wallpapers - PlayStation Universe">
+                                <img itemprop="contentUrl url" src='https://www.psu.com/wp/wp-content/uploads/2020/09/star-wars-jedi-fallen-order-ps4-wallpapers-41.jpg' alt='Star Wars Jedi: Fallen Order Wallpapers - PlayStation Universe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PlayStation Universe" />
+                                </span>
+                                <a href='https://www.psu.com/wp/wp-content/uploads/2020/09/star-wars-jedi-fallen-order-ps4-wallpapers-41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Galaxy Wallpapers [100+ Free Background Images ...">
+                                <img itemprop="contentUrl url" src='https://www.wallpapergap.com/cdn/24/153/samsung-galaxy-s10-star-wars-wallpaper-1920x1080.jpg' alt='Star Wars Galaxy Wallpapers [100+ Free Background Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperGap" />
+                                </span>
+                                <a href='https://www.wallpapergap.com/cdn/24/153/samsung-galaxy-s10-star-wars-wallpaper-1920x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

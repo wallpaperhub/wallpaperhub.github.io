@@ -1,0 +1,129 @@
+<title>Vibrant Orange Tie Dye Background for Bold Creative Projects</title>
+                    <meta name="description" content="Add a splash of color to your designs with our vibrant orange tie dye background! Perfect for digital projects or event decor, this eye-catching pattern creates a lively atmosphere. Easy to use and versatile, enhance your creative endeavors with this unique and dynamic backdrop today!">
+                    <meta name="keywords" content="orange tie dye background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/orange-tie-dye-background">
+                            <span itemprop="name">orange tie dye background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Orange Tie Dye Background for Bold Creative Projects</h1>
+                <p>Transform your space with a vibrant orange tie dye background. Perfect for parties, photoshoots, or simply adding a pop of color to your creative projects, this unique pattern blends warm hues for an eye-catching effect. Use it as a backdrop for events, art, or digital designs to evoke energy and joy.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,000+ Orange Tie Dye Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1416317242/photo/handcrafted-batik-orange-abstract-pattern.jpg?s=612x612&w=0&k=20&c=jbFbh3EYEJRjYTxWwkL6hPrJPIwPioWYpS_QzLsxn3w=' alt='1,000+ Orange Tie Dye Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1416317242/photo/handcrafted-batik-orange-abstract-pattern.jpg?s=612x612&w=0&k=20&c=jbFbh3EYEJRjYTxWwkL6hPrJPIwPioWYpS_QzLsxn3w=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange Tiedye Digital Paper — drypdesigns">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/609701bc21f2ee5734517421/1640206520736-DA2QOANIHJ6ZK5ISX459/Orange+Tie-Dye+Cover+1+WM.jpg?format=1500w' alt='Orange Tiedye Digital Paper — drypdesigns'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1364">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="drypdesigns" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/609701bc21f2ee5734517421/1640206520736-DA2QOANIHJ6ZK5ISX459/Orange+Tie-Dye+Cover+1+WM.jpg?format=1500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange tie dye pattern. Spiral tie-dye texture background. Stock ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/03/76/17/81/1000_F_376178138_CgTtl0WJ1vdRuyXXGlAFeGJitGiHK4HN.jpg' alt='Orange tie dye pattern. Spiral tie-dye texture background. Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="751">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/03/76/17/81/1000_F_376178138_CgTtl0WJ1vdRuyXXGlAFeGJitGiHK4HN.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,000+ Orange Tie Dye Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1127737698/photo/tie-dye-background.jpg?s=612x612&w=0&k=20&c=NHd1aEJ7uBuO7CTPtxWc1Rp314_jxaXA0uI87BY_egk=' alt='1,000+ Orange Tie Dye Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1127737698/photo/tie-dye-background.jpg?s=612x612&w=0&k=20&c=NHd1aEJ7uBuO7CTPtxWc1Rp314_jxaXA0uI87BY_egk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange Tie Dye Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/top-view-tie-dye-cloth_23-2148778171.jpg' alt='Orange Tie Dye Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/top-view-tie-dye-cloth_23-2148778171.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange + Black Tie-dye Swirl Digital Paper Background Pattern ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28921914/r/il/3cf47a/3812065508/il_570xN.3812065508_i9kr.jpg' alt='Orange + Black Tie-dye Swirl Digital Paper Background Pattern ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="518">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28921914/r/il/3cf47a/3812065508/il_570xN.3812065508_i9kr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10+ Free Orange+Aesthetic+Light+Orange+ & Orange Images">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/c1/f5/2a/c1f52aae6a2c2c66f95193f10e8b2278.jpg' alt='10+ Free Orange+Aesthetic+Light+Orange+ & Orange Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="632">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/c1/f5/2a/c1f52aae6a2c2c66f95193f10e8b2278.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange + White Tiedye Digital Paper — drypdesigns">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/609701bc21f2ee5734517421/1654553071910-3EVR981CC7DMR2YV9YSL/Orange+White+Tiedye+Cover+WM+2.jpg?format=1500w' alt='Orange + White Tiedye Digital Paper — drypdesigns'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1364">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="drypdesigns" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/609701bc21f2ee5734517421/1654553071910-3EVR981CC7DMR2YV9YSL/Orange+White+Tiedye+Cover+WM+2.jpg?format=1500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange Tie Dye Stock Illustrations – 7,556 Orange Tie Dye Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/abstract-orange-swirling-tie-dye-background-illustration-backdrop-187005401.jpg' alt='Orange Tie Dye Stock Illustrations – 7,556 Orange Tie Dye Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="641">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/abstract-orange-swirling-tie-dye-background-illustration-backdrop-187005401.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Tie dye swirls orange background.">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/tie-dye-swirls-orange-background_78899-850.jpg' alt='Premium Photo | Tie dye swirls orange background.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/tie-dye-swirls-orange-background_78899-850.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

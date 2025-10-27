@@ -1,0 +1,129 @@
+<title>Gothic iPhone HD Wallpapers: Dark Elegance for Your Device</title>
+                    <meta name="description" content="Elevate your iPhone's aesthetic with our collection of HD Gothic wallpapers. Perfect for fans of dark artistry, these stunning backgrounds bring a touch of elegance and mystery to your screen. Discover your ideal Gothic wallpaper today!">
+                    <meta name="keywords" content="gothic iphone wallpaper hd">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/gothic-iphone-wallpaper-hd">
+                            <span itemprop="name">gothic iphone wallpaper hd</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Gothic iPhone HD Wallpapers: Dark Elegance for Your Device</h1>
+                <p>Discover stunning Gothic iPhone wallpapers in HD that add a dark and dramatic flair to your device. From intricate designs featuring castles and ravens to haunting landscapes and eerie motifs, these wallpapers will transform your home screen. Explore a variety of styles that perfectly capture the essence of Gothic art!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Gothic Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/gothic-iphone-x083yy8cp214rxh8.jpg' alt='100+] Gothic Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1281">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/gothic-iphone-x083yy8cp214rxh8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Goth Wallpaper - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/eb/52/60/eb526082f48f89ca04d0ce4bdf87c42a.jpg' alt='iPhone Goth Wallpaper - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/eb/52/60/eb526082f48f89ca04d0ce4bdf87c42a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gothic Art Wallpapers (63 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/d/c/b/1233123-1080x1920-phone-1080p-gothic-art-background.jpg' alt='Gothic Art Wallpapers (63 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/d/c/b/1233123-1080x1920-phone-1080p-gothic-art-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gothic architecture iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d2/d0/18/d2d018d6ba33f1303aec20e9e7ac4379.jpg' alt='Gothic architecture iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d2/d0/18/d2d018d6ba33f1303aec20e9e7ac4379.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Goth Wallpaper - KoLPaPer - Awesome Free HD Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0e/e8/98/0ee898da7d00ec737430dea37c4fb724.jpg' alt='Dark Goth Wallpaper - KoLPaPer - Awesome Free HD Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0e/e8/98/0ee898da7d00ec737430dea37c4fb724.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="An iPhone 6S wallpaper I made. Been revisiting my goth and metal ...">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/YlKCjkp.png' alt='An iPhone 6S wallpaper I made. Been revisiting my goth and metal ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.imgur.com/YlKCjkp.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gothic Flower Black Rose Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/gothic-flower-black-rose-iphone-jrd0raipgzgvalzx.jpg' alt='Gothic Flower Black Rose Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/gothic-flower-black-rose-iphone-jrd0raipgzgvalzx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goth iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp9565179.jpg' alt='Goth iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp9565179.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download White Spider Webs Gothic Iphone Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/gothic-iphone-neh8azkj0grd2i72.jpg' alt='Download White Spider Webs Gothic Iphone Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1079">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/gothic-iphone-neh8azkj0grd2i72.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Devil inside, black, emo, goth, goth goth, skull, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/233/381/HD-wallpaper-devil-inside-black-emo-goth-goth-goth-skull.jpg' alt='Devil inside, black, emo, goth, goth goth, skull, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/233/381/HD-wallpaper-devil-inside-black-emo-goth-goth-goth-skull.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

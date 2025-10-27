@@ -1,0 +1,129 @@
+<title>Stunning Blue Stars Background for Your Designs</title>
+                    <meta name="description" content="Discover the beauty of a blue stars background, perfect for adding a touch of tranquility to your projects. Enhance your creative work with this celestial theme that evokes wonder and calmness. Ideal for websites, social media, and more, it captures the essence of a serene night sky.">
+                    <meta name="keywords" content="blue stars background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blue-stars-background">
+                            <span itemprop="name">blue stars background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Blue Stars Background for Your Designs</h1>
+                <p>A blue stars background creates a serene and enchanting atmosphere, making it perfect for various designs. Whether you’re looking to enhance your website, social media posts, or digital artwork, this celestial theme captivates with its calmness. Ideal for dreamlike aesthetics, it evokes feelings of tranquility and wonder.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue star 2025 background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/gradient-galaxy-background_23-2150873548.jpg' alt='Blue star 2025 background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/gradient-galaxy-background_23-2150873548.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brewster Stars Sky Blue Stars Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/8c/35/dc/8c35dc76e9e08e2ac34103c84d1c642f.jpg' alt='Brewster Stars Sky Blue Stars Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="567">
+                                <meta itemprop="height" content="567">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/8c/35/dc/8c35dc76e9e08e2ac34103c84d1c642f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Star Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1539721972319-f0e80a00d424?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Ymx1ZSUyMHN0YXJ8ZW58MHx8MHx8fDA%3D' alt='Blue Star Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1539721972319-f0e80a00d424?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Ymx1ZSUyMHN0YXJ8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Stars Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/000/094/726/small_2x/shiny-stars-blue-background-vector.jpg' alt='Blue Stars Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="571">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/000/094/726/small_2x/shiny-stars-blue-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue star 2025 background">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/00/54/76/31/360_F_54763188_3NAy3ZL4mM96ogDpHXXw7r1NVYrWbagV.jpg' alt='Blue star 2025 background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="544">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/00/54/76/31/360_F_54763188_3NAy3ZL4mM96ogDpHXXw7r1NVYrWbagV.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Blue Stars Background in Illustrator, JPG, SVG, EPS ...">
+                                <img itemprop="contentUrl url" src='https://images.template.net/74963/Free-light-blue-stars-background-1.jpg' alt='Light Blue Stars Background in Illustrator, JPG, SVG, EPS ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="1570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template.net" />
+                                </span>
+                                <a href='https://images.template.net/74963/Free-light-blue-stars-background-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="14,400+ Dark Blue Stars Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/153814923/vector/background-of-a-clear-starry-sky.jpg?s=612x612&w=0&k=20&c=nwTxz-W3eiJDwDX-l9Cp_IT4I-cNM-KSUpdE4E6IH_4=' alt='14,400+ Dark Blue Stars Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="425">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/153814923/vector/background-of-a-clear-starry-sky.jpg?s=612x612&w=0&k=20&c=nwTxz-W3eiJDwDX-l9Cp_IT4I-cNM-KSUpdE4E6IH_4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Blue Stars Images – Browse 4,010,326 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/10/79/13/33/360_F_1079133350_I06tLPDNfrxYz20LpFAgh8Zp7tvhHR4W.jpg' alt='Background Blue Stars Images – Browse 4,010,326 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/10/79/13/33/360_F_1079133350_I06tLPDNfrxYz20LpFAgh8Zp7tvhHR4W.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Blue Stars Images – Browse 4,010,326 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/08/01/47/01/360_F_801470196_YN8blznaFGdfObL5Oc4Icz3cqefFtmNT.jpg' alt='Background Blue Stars Images – Browse 4,010,326 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/08/01/47/01/360_F_801470196_YN8blznaFGdfObL5Oc4Icz3cqefFtmNT.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stars Blue Stars">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/0018829_stars-blue-stars-l.jpeg' alt='Stars Blue Stars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="491">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/0018829_stars-blue-stars-l.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

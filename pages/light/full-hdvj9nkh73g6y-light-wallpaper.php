@@ -1,0 +1,129 @@
+<title>Brighten Your Space: Full HD Light Wallpaper</title>
+                    <meta name="description" content="Discover the beauty of Full HD light wallpaper! Transform your walls with vibrant, serene designs that create a refreshing atmosphere in any room. Perfect for modern aesthetics, our wallpapers enhance your space effortlessly. Explore our collection and brighten your home today!">
+                    <meta name="keywords" content="full hd:vj9nkh73g6y= light wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light">
+                            <span itemprop="name">Light</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light/full-hdvj9nkh73g6y-light-wallpaper">
+                            <span itemprop="name">full hd:vj9nkh73g6y= light wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Brighten Your Space: Full HD Light Wallpaper</h1>
+                <p>Elevate your space with stunning Full HD light wallpaper, perfect for adding a serene touch to any room. Featuring soft hues and vibrant designs, these wallpapers transform your walls into a canvas of light and tranquility. Perfect for modern homes or serene spaces, embrace a refreshing atmosphere with every glance!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900+ Light Background Images: Download HD Backgrounds on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1556691421-cf15fe27a0b6?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bGlnaHQlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww' alt='900+ Light Background Images: Download HD Backgrounds on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1556691421-cf15fe27a0b6?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bGlnaHQlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Hd Light Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/hd-light-36a8duz7js1lsn12.jpg' alt='100+] Hd Light Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/hd-light-36a8duz7js1lsn12.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900+ Light Background Images: Download HD Backgrounds on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1545494097-1545e22ee878?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGxpZ2h0JTIwYmFja2dyb3VuZHxlbnwwfHwwfHx8MA%3D%3D' alt='900+ Light Background Images: Download HD Backgrounds on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1545494097-1545e22ee878?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGxpZ2h0JTIwYmFja2dyb3VuZHxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Wallpaper Photos, Download The BEST Free Light Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1910236/pexels-photo-1910236.jpeg?cs=srgb&dl=pexels-bruthethe-1910236.jpg&fm=jpg' alt='Light Wallpaper Photos, Download The BEST Free Light Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3456">
+                                <meta itemprop="height" content="5184">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1910236/pexels-photo-1910236.jpeg?cs=srgb&dl=pexels-bruthethe-1910236.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hd Light Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/featured/hd-light-xzjfawk2rcwimpqc.jpg' alt='Hd Light Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/featured/hd-light-xzjfawk2rcwimpqc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Hd Light Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/tree-branches-hd-lights-3dfy6cs0gwkdc74v.jpg' alt='100+] Hd Light Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/tree-branches-hd-lights-3dfy6cs0gwkdc74v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Hd Light Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/sparkling-christmas-hd-light-gzyy6w8v0ja0plxf.jpg' alt='100+] Hd Light Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/sparkling-christmas-hd-light-gzyy6w8v0ja0plxf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool vaporwave, lights, vaporvave, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/375/95/HD-wallpaper-cool-vaporwave-lights-vaporvave.jpg' alt='Cool vaporwave, lights, vaporvave, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1429">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/375/95/HD-wallpaper-cool-vaporwave-lights-vaporvave.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Hd Light Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/neon-flowers-hd-light-fiebb9x0pv6la69e.jpg' alt='100+] Hd Light Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/neon-flowers-hd-light-fiebb9x0pv6la69e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Hour - VJ LOOP GLOWING NEON PINK LIGHTS - live wallpaper windows - Motion  4k Screensaver relaxing">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/HlAicRPrrOE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gEyh7MA8=&rs=AOn4CLD6m4q1jcn1NBpKf1pLApRuImrj0w' alt='5 Hour - VJ LOOP GLOWING NEON PINK LIGHTS - live wallpaper windows - Motion  4k Screensaver relaxing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/HlAicRPrrOE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gEyh7MA8=&rs=AOn4CLD6m4q1jcn1NBpKf1pLApRuImrj0w' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

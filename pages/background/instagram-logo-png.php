@@ -1,0 +1,129 @@
+<title>Download Instagram Logo PNG - Perfect for Your Creative Projects</title>
+                    <meta name="description" content="Discover high-quality Instagram logo PNG files for your design needs. Easily integrate the iconic logo into your projects with a transparent background, perfect for websites, presentations, and social media graphics. Download now for quick and artistic applications!">
+                    <meta name="keywords" content="instagram logo png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/instagram-logo-png">
+                            <span itemprop="name">instagram logo png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Download Instagram Logo PNG - Perfect for Your Creative Projects</h1>
+                <p>The Instagram logo in PNG format is ideal for digital projects, presentations, and creative designs. This logo features the iconic camera icon in a gradient of pink, purple, and yellow, making it instantly recognizable. The transparent background allows for easy integration into various applications, ensuring your design stands out effortlessly.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Instagram icon.png - Wikimedia Commons">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png' alt='File:Instagram icon.png - Wikimedia Commons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikimedia Commons" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Instagram PNG Icons, Instagram Logo PNG Images For Free Download ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/element_our/sm/20180630/sm_5b37de3263964.jpg' alt='Instagram PNG Icons, Instagram Logo PNG Images For Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/element_our/sm/20180630/sm_5b37de3263964.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Instagram Logo Png Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/instagram-logo_976174-11.jpg?semt=ais_hybrid' alt='Instagram Logo Png Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/instagram-logo_976174-11.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="instagram-logo-png-transparent-background – The Dream Foundry">
+                                <img itemprop="contentUrl url" src='https://dreamfoundry.org/wp-content/uploads/2018/12/instagram-logo-png-transparent-background.png' alt='instagram-logo-png-transparent-background – The Dream Foundry'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1455">
+                                <meta itemprop="height" content="1454">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Dream Foundry" />
+                                </span>
+                                <a href='https://dreamfoundry.org/wp-content/uploads/2018/12/instagram-logo-png-transparent-background.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Instagram logo.png - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Instagram_logo.png/1024px-Instagram_logo.png' alt='File:Instagram logo.png - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Instagram_logo.png/1024px-Instagram_logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Instagram Logo Png Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/instagram-vector-logo-icon-social-media-logotype_901408-395.jpg?semt=ais_hybrid' alt='Instagram Logo Png Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/instagram-vector-logo-icon-social-media-logotype_901408-395.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download premium png of Instagram flat graphic icon for social ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fa/2e/3e/fa2e3ecfb5cfcdc9a679974c6a06c45b.jpg' alt='Download premium png of Instagram flat graphic icon for social ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fa/2e/3e/fa2e3ecfb5cfcdc9a679974c6a06c45b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Instagram logo png, Instagram icon transparent 18930691 PNG">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/018/930/691/non_2x/instagram-logo-instagram-icon-transparent-free-png.png' alt='Instagram logo png, Instagram icon transparent 18930691 PNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/018/930/691/non_2x/instagram-logo-instagram-icon-transparent-free-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Instagram - Instagram Logo with Gradient Colors - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20240323/hre/transparent-social-media-instagram-icon-with-centered-image-symbol65ff3fa8a91258.78351108.webp' alt='Instagram - Instagram Logo with Gradient Colors - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="930">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20240323/hre/transparent-social-media-instagram-icon-with-centered-image-symbol65ff3fa8a91258.78351108.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="instagram logo image PNG & clipart images | Citypng">
+                                <img itemprop="contentUrl url" src='https://www.citypng.com/public/uploads/preview/hd-official-outline-instagram-ig-logo-icon-png-701751694786948nms5td2hyk.png?v=2025022801' alt='instagram logo image PNG & clipart images | Citypng'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CityPNG" />
+                                </span>
+                                <a href='https://www.citypng.com/public/uploads/preview/hd-official-outline-instagram-ig-logo-icon-png-701751694786948nms5td2hyk.png?v=2025022801' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

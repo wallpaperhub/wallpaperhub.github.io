@@ -1,0 +1,129 @@
+<title>Captivating Winter Wallpaper for Your Device</title>
+                    <meta name="description" content="Discover breathtaking winter wallpapers to elevate your device's look. Perfect for fans of the season, these stunning images capture snow-covered beauty and cozy vibes. Download now to enjoy a serene and festive background!">
+                    <meta name="keywords" content="background:pdto_fsmfs0= winter wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/winter">
+                            <span itemprop="name">Winter</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/winter/backgroundpdto_fsmfs0-winter-wallpaper">
+                            <span itemprop="name">background:pdto_fsmfs0= winter wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Captivating Winter Wallpaper for Your Device</h1>
+                <p>Transform your device with stunning winter wallpaper that brings the serene beauty of the season to life. From snow-covered landscapes to cozy cabin scenes, these wallpapers are designed to evoke the magic of winter. Perfect for creating a tranquil atmosphere, these backgrounds will refresh your screen and enhance your winter mood.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter Background Wallpapers (339 images)">
+                                <img itemprop="contentUrl url" src='https://wallpapershome.com/images/pages/ico_h/26904.jpg' alt='Winter Background Wallpapers (339 images)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersHome" />
+                                </span>
+                                <a href='https://wallpapershome.com/images/pages/ico_h/26904.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper winter, snow, snowflakes, background, Christmas, winter ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/original/6000x5000/1/63/zima-sneg-snezhinki-fon-christmas-winter-background-snow-s-7.jpg' alt='Wallpaper winter, snow, snowflakes, background, Christmas, winter ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6000">
+                                <meta itemprop="height" content="5000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/original/6000x5000/1/63/zima-sneg-snezhinki-fon-christmas-winter-background-snow-s-7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter Desktop Wallpapers Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/db/42/12/db42129a456797ced686e8c5f29e5982.jpg' alt='Winter Desktop Wallpapers Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/db/42/12/db42129a456797ced686e8c5f29e5982.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper winter, forest, snow, snowflakes, tree, nature, winter ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/original/6800x4533/b/4d/winter-snow-nature-les-elka-4515.jpg' alt='Wallpaper winter, forest, snow, snowflakes, tree, nature, winter ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6800">
+                                <meta itemprop="height" content="4533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/original/6800x4533/b/4d/winter-snow-nature-les-elka-4515.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper winter, snow, snowflakes, background, Christmas, winter ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/5/d6/zima-sneg-snezhinki-fon-christmas-winter-background-snow-s-4.webp' alt='Wallpaper winter, snow, snowflakes, background, Christmas, winter ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/5/d6/zima-sneg-snezhinki-fon-christmas-winter-background-snow-s-4.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Snowy Forest Winter Wallpaper Collection">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/07/69/37/0769374caefcc55ad6d5bb2e96315d52.jpg' alt='Snowy Forest Winter Wallpaper Collection'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/07/69/37/0769374caefcc55ad6d5bb2e96315d52.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper winter, snow, snowflakes, background, Christmas, winter ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/a/d8/zima-sneg-snezhinki-fon-christmas-winter-background-snow-s-9.webp' alt='Wallpaper winter, snow, snowflakes, background, Christmas, winter ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/a/d8/zima-sneg-snezhinki-fon-christmas-winter-background-snow-s-9.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter Wallpapers Background Images, HD Pictures and Wallpaper For ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20241225/pngtree-bright-autumn-maple-leaf-on-sparkling-snow-in-winter-forest-wallpaper-image_16863790.jpg' alt='Winter Wallpapers Background Images, HD Pictures and Wallpaper For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20241225/pngtree-bright-autumn-maple-leaf-on-sparkling-snow-in-winter-forest-wallpaper-image_16863790.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter Wallpapers Background Images, HD Pictures and Wallpaper For ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20221202/pngtree-winter-wallpaper-image_1493458.jpg' alt='Winter Wallpapers Background Images, HD Pictures and Wallpaper For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20221202/pngtree-winter-wallpaper-image_1493458.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper winter, snow, snowflakes, background, Board, Christmas ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/0/ea/zima-sneg-snezhinki-fon-christmas-winter-background-snow--12.webp' alt='Wallpaper winter, snow, snowflakes, background, Board, Christmas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/0/ea/zima-sneg-snezhinki-fon-christmas-winter-background-snow--12.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

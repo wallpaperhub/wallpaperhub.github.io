@@ -1,0 +1,129 @@
+<title>Stunning Tulips - Lock Screen Wallpaper for iPhone</title>
+                    <meta name="description" content="Discover beautiful tulips lock screen wallpaper for your iPhone. Elevate your device's style with vibrant floral designs that exude elegance. Perfect for nature lovers, these wallpapers add a refreshing touch to your screen. Download your favorite tulip wallpaper today and transform your iPhone!">
+                    <meta name="keywords" content="lock screen tulips wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/lock-screen-tulips-wallpaper-iphone">
+                            <span itemprop="name">lock screen tulips wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Tulips - Lock Screen Wallpaper for iPhone</h1>
+                <p>Enhance your iPhone's aesthetic with stunning tulips wallpaper for your lock screen. These vibrant floral designs bring a touch of nature's beauty right to your fingertips. Whether you prefer soft pastels or bold colors, tulip wallpapers radiate freshness and elegance, making every glance at your screen a delightful experience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tulips iPhone Lock Screen Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/phone/images/download/tulips.png' alt='Tulips iPhone Lock Screen Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/phone/images/download/tulips.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Free download Tulips iPhone Wallpaper HD on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3d/a9/b9/3da9b9ee06d2ff23c771ba522c7b2760.jpg' alt='   Free download Tulips iPhone Wallpaper HD on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3d/a9/b9/3da9b9ee06d2ff23c771ba522c7b2760.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Wallpaper Tulips Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3BmLWZsb3dlcjEtYWtlMTkwMy1leWUtbC1qb2I1OTcuanBn.jpg' alt='Iphone Wallpaper Tulips Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3BmLWZsb3dlcjEtYWtlMTkwMy1leWUtbC1qb2I1OTcuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tulip Fields of Netherlands iPhone 11 Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2f/b5/65/2fb565bfee092133a2a1ea407bc940c1.jpg' alt='Tulip Fields of Netherlands iPhone 11 Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2f/b5/65/2fb565bfee092133a2a1ea407bc940c1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download IPhone Lock Screen Tulips Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/iphone-lock-screen-tulips-oekq7cl503vj3kxi.jpg' alt='Download IPhone Lock Screen Tulips Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/iphone-lock-screen-tulips-oekq7cl503vj3kxi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tulip Field iPhone Lock Screen Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/phone/images/640/tulip-field.png' alt='Tulip Field iPhone Lock Screen Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/phone/images/640/tulip-field.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="lockscreen idea         ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6b/7d/40/6b7d4087bb1f8b7e453856e9bcd0a462.jpg' alt='lockscreen idea         '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="582">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6b/7d/40/6b7d4087bb1f8b7e453856e9bcd0a462.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tulip iPhone Wallpapers [39+ Free Background Images] - WallpaperGap">
+                                <img itemprop="contentUrl url" src='https://www.wallpapergap.com/cdn/24/373/pink-tulips-wallpaper-iphone-750x1334.jpg' alt='Tulip iPhone Wallpapers [39+ Free Background Images] - WallpaperGap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperGap" />
+                                </span>
+                                <a href='https://www.wallpapergap.com/cdn/24/373/pink-tulips-wallpaper-iphone-750x1334.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="19+ Tulip Lock Screen ideas for iPhone - Download all | WidgetClub">
+                                <img itemprop="contentUrl url" src='https://s.widget-club.com/images/94Y1RDw5K3gNQgB058b3gMt9eKy1/C6bH2BeylkrkQu0gaHcS/4C47BC0A-1BD8-4427-83D2-018419DC4571.jpg?q=70' alt='19+ Tulip Lock Screen ideas for iPhone - Download all | WidgetClub'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1624">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper App by WidgetClub" />
+                                </span>
+                                <a href='https://s.widget-club.com/images/94Y1RDw5K3gNQgB058b3gMt9eKy1/C6bH2BeylkrkQu0gaHcS/4C47BC0A-1BD8-4427-83D2-018419DC4571.jpg?q=70' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tulip wallpapers for iphone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bf/42/c0/bf42c0e50f43dfb480b6e8d9aa570856.jpg' alt='Tulip wallpapers for iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1103">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bf/42/c0/bf42c0e50f43dfb480b6e8d9aa570856.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

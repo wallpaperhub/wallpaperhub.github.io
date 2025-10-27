@@ -1,0 +1,129 @@
+<title>Discover Aesthetic Sad Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore a curated collection of aesthetic sad wallpapers that capture the beauty in melancholy. Perfect for expressing emotions, these wallpapers blend artistry with depth, ideal for anyone seeking to evoke introspection and connection through their device's background.">
+                    <meta name="keywords" content="aesthetic sad wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic-sad-wallpaper">
+                            <span itemprop="name">aesthetic sad wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Aesthetic Sad Wallpapers for Your Device</h1>
+                <p>Aesthetic sad wallpapers evoke deep emotions, showcasing melancholy through dreamlike imagery. Featuring muted colors and poignant visuals, they create a reflective atmosphere, perfect for those seeking a touch of beauty in sadness. These wallpapers can transform your device into a canvas of artful sorrow, resonating with the sensitive soul.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="sad aesthetic wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/f7/d9/ce/f7d9ce39bf0b236304b60dbff28f4188.jpg' alt='sad aesthetic wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/f7/d9/ce/f7d9ce39bf0b236304b60dbff28f4188.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Sad Aesthetic Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/sad-aesthetic-phone-pp6z4hdvs1im0fjs.jpg' alt='100+] Sad Aesthetic Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="539">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/sad-aesthetic-phone-pp6z4hdvs1im0fjs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Sad Aesthetic Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7e/5e/ed/7e5eed00ca77ebb54ee3dded7a501b6e.jpg' alt='Awesome Sad Aesthetic Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7e/5e/ed/7e5eed00ca77ebb54ee3dded7a501b6e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sad Girls Club Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/sad-girls-club-aesthetic-bv3lojvhdaqwl3yz.jpg' alt='Sad Girls Club Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/sad-girls-club-aesthetic-bv3lojvhdaqwl3yz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD sad aesthetic wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/419/812/HD-wallpaper-black-aesthetic-black-aesthetic-noir-sad.jpg' alt='HD sad aesthetic wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/419/812/HD-wallpaper-black-aesthetic-black-aesthetic-noir-sad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Girl In Uniform Sad Aesthetic Anime Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/sad-aesthetic-anime-wallpaper-ncq96dvitoeqdkqf.jpg' alt='Download Girl In Uniform Sad Aesthetic Anime Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="905">
+                                <meta itemprop="height" content="1571">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/sad-aesthetic-anime-wallpaper-ncq96dvitoeqdkqf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sad wallpapers!! .sending hugs... - Aesthetic wallpapers | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=473143301515017' alt='Sad wallpapers!! .sending hugs... - Aesthetic wallpapers | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="719">
+                                <meta itemprop="height" content="1271">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=473143301515017' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sad wallpapers for 2025 phone">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/328/274/HD-wallpaper-bad-vibe-sad-sadness-thumbnail.jpg' alt='Sad wallpapers for 2025 phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/328/274/HD-wallpaper-bad-vibe-sad-sadness-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Sad Girl Disintegrating Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/aesthetic-sad-girl-disintegrating-kvx48zd711m7yngf.jpg' alt='Aesthetic Sad Girl Disintegrating Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1229">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/aesthetic-sad-girl-disintegrating-kvx48zd711m7yngf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Sad Aesthetic Desktop Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c4/e3/be/c4e3be708391854d06310f88b1a415a6.jpg' alt='Awesome Sad Aesthetic Desktop Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="401">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c4/e3/be/c4e3be708391854d06310f88b1a415a6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

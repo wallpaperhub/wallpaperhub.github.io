@@ -1,0 +1,129 @@
+<title>“Amazing Safari Backgrounds for Nature Lovers”</title>
+                    <meta name="description" content="Discover stunning safari backgrounds that capture the wild's beauty. Perfect for nature enthusiasts, our collection features breathtaking landscapes and majestic animals. Elevate your screens with these vibrant images that bring adventure to your fingertips. Perfect for mobile!">
+                    <meta name="keywords" content="cool safari backgrounds">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cool-safari-backgrounds">
+                            <span itemprop="name">cool safari backgrounds</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>“Amazing Safari Backgrounds for Nature Lovers”</h1>
+                <p>Explore mesmerizing safari backgrounds that transport you to the heart of the savanna! From stunning sunsets and majestic elephants to sprawling landscapes filled with vibrant wildlife, these cool backgrounds add an adventurous touch to your device. Perfect for nature lovers, each image captures the beauty and spirit of the wild.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Safari Background Images – Browse 1,005,783 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/25/19/04/360_F_325190460_Mm4BX8qJYvgKWDq4hPIFsWks8RQjgqIs.jpg' alt='Safari Background Images – Browse 1,005,783 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/25/19/04/360_F_325190460_Mm4BX8qJYvgKWDq4hPIFsWks8RQjgqIs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="458,575 African Safari Background Images, Stock Photos, 3D objects ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/acacia-tree-etosha-pan-distance-600nw-2433797507.jpg' alt='458,575 African Safari Background Images, Stock Photos, 3D objects ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="326">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/acacia-tree-etosha-pan-distance-600nw-2433797507.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Safari Background Royalty-Free Images, Stock Photos & Pictures ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/afican-savannah-evening-light-260nw-232768828.jpg' alt='Safari Background Royalty-Free Images, Stock Photos & Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/afican-savannah-evening-light-260nw-232768828.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Safari Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/safari-background-7b307lu49ejfue0y.jpg' alt='100+] Safari Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/safari-background-7b307lu49ejfue0y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Animals Silhouette Safari Background | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/safari-background-fnxos64v9ti6dcip.jpg' alt='Download Animals Silhouette Safari Background | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/safari-background-fnxos64v9ti6dcip.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Safari Background Images – Browse 1,005,783 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/06/81/36/34/360_F_681363429_CZGI72ynCFRa5IPTUGMGqyeyeqmNdOxs.jpg' alt='Safari Background Images – Browse 1,005,783 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="635">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/06/81/36/34/360_F_681363429_CZGI72ynCFRa5IPTUGMGqyeyeqmNdOxs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Sunset On Safari Background | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/safari-background-3z5xv9rllfh6rwcp.jpg' alt='Download Sunset On Safari Background | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/safari-background-3z5xv9rllfh6rwcp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="49,700+ Safari Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1412263287/vector/african-savannah-landscape-with-green-trees-and-plain-grassland-field-under-blue-clear-sky.jpg?s=612x612&w=0&k=20&c=MGzEOjyD93dHJhTP5aYu34YNngR_AWT6UGIR7GT3i1I=' alt='49,700+ Safari Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1412263287/vector/african-savannah-landscape-with-green-trees-and-plain-grassland-field-under-blue-clear-sky.jpg?s=612x612&w=0&k=20&c=MGzEOjyD93dHJhTP5aYu34YNngR_AWT6UGIR7GT3i1I=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="49,700+ Safari Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/594487818/vector/african-safari-background-with-giraffes-and-zebras.jpg?s=612x612&w=0&k=20&c=QiJDd40M10EMbQCXsuFQSuI9ffO6AAlxi-yX59OdsAM=' alt='49,700+ Safari Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/594487818/vector/african-safari-background-with-giraffes-and-zebras.jpg?s=612x612&w=0&k=20&c=QiJDd40M10EMbQCXsuFQSuI9ffO6AAlxi-yX59OdsAM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Safari Sunset Background Images – Browse 73,078 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/66/32/96/360_F_266329631_G2DCVSOXakrLg1smfXjdyKFwnWnjI84O.jpg' alt='Safari Sunset Background Images – Browse 73,078 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="539">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/66/32/96/360_F_266329631_G2DCVSOXakrLg1smfXjdyKFwnWnjI84O.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

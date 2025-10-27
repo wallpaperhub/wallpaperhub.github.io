@@ -1,0 +1,129 @@
+<title>Starfield Backgrounds Ranked: The Ultimate Tier List</title>
+                    <meta name="description" content="Explore our concise "Starfield Background Tier List" to find the best backgrounds for your gameplay! Discover rankings, perks, and tips to maximize your adventure in the universe of Starfield. Perfect for new and experienced players alike, this guide helps you choose the right background for your journey!">
+                    <meta name="keywords" content="starfield background tier list">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/starfield-background-tier-list">
+                            <span itemprop="name">starfield background tier list</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Starfield Backgrounds Ranked: The Ultimate Tier List</h1>
+                <p>The "Starfield Background Tier List" showcases the different backgrounds available to players in the game, ranked by their effects on gameplay and exploration. Each background offers unique perks and skills that cater to diverse playstyles, impacting your journey in the vast universe of Starfield. Discover which backgrounds elevate your experience and enhance your adventure!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Your Top 10 background choice : r/Starfield">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/your-top-10-background-choice-v0-89pp4vxmjelb1.png?width=744&format=png&auto=webp&s=c6c0c53ff161e0b7046bb42020031160e84bc948' alt='Your Top 10 background choice : r/Starfield'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="744">
+                                <meta itemprop="height" content="763">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/your-top-10-background-choice-v0-89pp4vxmjelb1.png?width=744&format=png&auto=webp&s=c6c0c53ff161e0b7046bb42020031160e84bc948' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Character Background Skills Chart : r/Starfield">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/character-background-skills-chart-v0-tpb94j71ejlb1.jpg?auto=webp&s=7e4dae16f747f1913df100ca8d9c18061d2abce5' alt='Character Background Skills Chart : r/Starfield'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/character-background-skills-chart-v0-tpb94j71ejlb1.jpg?auto=webp&s=7e4dae16f747f1913df100ca8d9c18061d2abce5' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Backgrounds Tier List | Starfield｜Game8">
+                                <img itemprop="contentUrl url" src='https://img.game8.co/3750138/953ec8979022dc25199292dc38a3ed1d.png/original' alt='Best Backgrounds Tier List | Starfield｜Game8'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Game8" />
+                                </span>
+                                <a href='https://img.game8.co/3750138/953ec8979022dc25199292dc38a3ed1d.png/original' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starfield Best Backgrounds: All Backgrounds explained | VGC">
+                                <img itemprop="contentUrl url" src='https://www.videogameschronicle.com/files/2023/08/Starfield-Best-Backgrounds-14.jpg' alt='Starfield Best Backgrounds: All Backgrounds explained | VGC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Video Games Chronicle" />
+                                </span>
+                                <a href='https://www.videogameschronicle.com/files/2023/08/Starfield-Best-Backgrounds-14.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Starfield Background: Every Background Ranked Worst to Best ...">
+                                <img itemprop="contentUrl url" src='https://www.denofgeek.com/wp-content/uploads/2022/06/Starfield_03_Temple.png?resize=768%2C432' alt='Best Starfield Background: Every Background Ranked Worst to Best ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Den of Geek" />
+                                </span>
+                                <a href='https://www.denofgeek.com/wp-content/uploads/2022/06/Starfield_03_Temple.png?resize=768%2C432' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starfield: All Backgrounds, Ranked">
+                                <img itemprop="contentUrl url" src='https://static1.dualshockersimages.com/wordpress/wp-content/uploads/wm/2023/08/starfield-backgrounds-split-image-1.jpg' alt='Starfield: All Backgrounds, Ranked'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DualShockers" />
+                                </span>
+                                <a href='https://static1.dualshockersimages.com/wordpress/wp-content/uploads/wm/2023/08/starfield-backgrounds-split-image-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Backgrounds Tier List | Starfield｜Game8">
+                                <img itemprop="contentUrl url" src='https://img.game8.co/3748618/5ea50120f6ba9889e364d79096838852.png/show' alt='Best Backgrounds Tier List | Starfield｜Game8'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="440">
+                                <meta itemprop="height" content="440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Game8" />
+                                </span>
+                                <a href='https://img.game8.co/3748618/5ea50120f6ba9889e364d79096838852.png/show' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starfield Backgrounds Tier List – All Background Tier List – Gamezebo">
+                                <img itemprop="contentUrl url" src='https://www.gamezebo.com/wp-content/uploads/2023/09/starfield-backgrounds-tier-list.jpg' alt='Starfield Backgrounds Tier List – All Background Tier List – Gamezebo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gamezebo" />
+                                </span>
+                                <a href='https://www.gamezebo.com/wp-content/uploads/2023/09/starfield-backgrounds-tier-list.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starfield Top 5 BEST Backgrounds to Choose! - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/l_aaGj9xnFM/sddefault.jpg' alt='Starfield Top 5 BEST Backgrounds to Choose! - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/l_aaGj9xnFM/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Best Backgrounds in Starfield">
+                                <img itemprop="contentUrl url" src='https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2023/08/starfield-best-backgrounds-featured-image-1.jpg' alt='The Best Backgrounds in Starfield'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Game Rant" />
+                                </span>
+                                <a href='https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2023/08/starfield-best-backgrounds-featured-image-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Faded Red Background: A Perfect Canvas</title>
+                    <meta name="description" content="Discover the beauty of a faded red background. Ideal for enhancing design projects, it adds warmth and depth without overshadowing your main focus. Whether for photography or digital art, this color creates an inviting atmosphere perfect for any creative endeavor. Explore its potential today!">
+                    <meta name="keywords" content="faded red background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/faded-red-background">
+                            <span itemprop="name">faded red background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Faded Red Background: A Perfect Canvas</h1>
+                <p>A faded red background can evoke a sense of warmth, nostalgia, and passion. Ideal for design projects, this color adds depth and mood without overwhelming the viewer. Whether used in photography, graphic design, or web backgrounds, a subtle faded red enhances aesthetics, drawing attention and creating an inviting atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Fade Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/background-gradient-lights_23-2149304962.jpg' alt='Red Fade Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="417">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/background-gradient-lights_23-2149304962.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Faded Red Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/elegant-gradient-background_1340-3947.jpg' alt='Faded Red Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/elegant-gradient-background_1340-3947.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="42,100+ Red Fade Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/938453686/photo/abstract-red-dreamy-background.jpg?s=612x612&w=0&k=20&c=vmLUO8xKr4B-lzgOqhEkfY_tMjF_XYukeLUXlNPsY6M=' alt='42,100+ Red Fade Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/938453686/photo/abstract-red-dreamy-background.jpg?s=612x612&w=0&k=20&c=vmLUO8xKr4B-lzgOqhEkfY_tMjF_XYukeLUXlNPsY6M=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Fading White Gradient Wallpaper Stock Illustration 1420768406 ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/red-fading-white-gradient-wallpaper-260nw-1420768406.jpg' alt='Red Fading White Gradient Wallpaper Stock Illustration 1420768406 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="347">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/red-fading-white-gradient-wallpaper-260nw-1420768406.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red background texture, old distressed vintage grunge in faded ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/02/93/48/98/1000_F_293489835_KpcUGZ2c9Ou3AEGakceHi218S17NNBBY.jpg' alt='Red background texture, old distressed vintage grunge in faded ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/02/93/48/98/1000_F_293489835_KpcUGZ2c9Ou3AEGakceHi218S17NNBBY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Fade Ombre Wall Mural">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/233652-825-auto?width=825&height=auto&aspect=true' alt='Red Fade Ombre Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="825">
+                                <meta itemprop="height" content="582">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/233652-825-auto?width=825&height=auto&aspect=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Fade Black Royalty-Free Images, Stock Photos & Pictures ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/red-wallpaper-gradient-light-abstract-260nw-780661894.jpg' alt='Red Fade Black Royalty-Free Images, Stock Photos & Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="712">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/red-wallpaper-gradient-light-abstract-260nw-780661894.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frosted Color Fade Background - Red Stock Photo | Adobe Stock">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/02/59/40/79/1000_F_259407969_a19XjdMFIw8y5r0tQzbDk6lakuuGgKg7.jpg' alt='Frosted Color Fade Background - Red Stock Photo | Adobe Stock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="773">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/02/59/40/79/1000_F_259407969_a19XjdMFIw8y5r0tQzbDk6lakuuGgKg7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Faded Red Color Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/faded-red-color-uunb9aeoggxcedh9.jpg' alt='Download Faded Red Color Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/faded-red-color-uunb9aeoggxcedh9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fadedredblack, black, blood, chill, colors, fade, gradient ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/849/149/HD-wallpaper-fadedredblack-black-blood-chill-colors-fade-gradient-minimal-red-simple.jpg' alt='Fadedredblack, black, blood, chill, colors, fade, gradient ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/849/149/HD-wallpaper-fadedredblack-black-blood-chill-colors-fade-gradient-minimal-red-simple.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

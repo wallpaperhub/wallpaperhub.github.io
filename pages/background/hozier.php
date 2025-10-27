@@ -1,0 +1,129 @@
+<title>Explore the Soulful Music of Hozier: A Journey Through His Artistry</title>
+                    <meta name="description" content="Discover the enchanting world of Hozier, the Irish singer-songwriter behind hits like "Take Me to Church." Dive into his soulful melodies, captivating lyrics, and the impact of his music on fans worldwide. Perfect for music lovers seeking authentic artistry and emotional connection.">
+                    <meta name="keywords" content="hozier">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/hozier">
+                            <span itemprop="name">hozier</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Soulful Music of Hozier: A Journey Through His Artistry</h1>
+                <p>Hozier is an Irish singer-songwriter known for his unique blend of folk, rock, and blues music. Gaining international fame with the hit "Take Me to Church," Hozier's soulful voice and poignant lyrics tackle themes of love, identity, and social issues. His albums continue to resonate with fans worldwide, showcasing his artistry and emotional depth.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Hozier">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100044188161732' alt='Profile for Hozier'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100044188161732' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hozier - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Hozier_2015_01_%28cropped%29.jpg/1200px-Hozier_2015_01_%28cropped%29.jpg' alt='Hozier - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1325">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Hozier_2015_01_%28cropped%29.jpg/1200px-Hozier_2015_01_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hozier On His Smash Hit 'Too Sweet' And His New 'Unaired' EP">
+                                <img itemprop="contentUrl url" src='https://www.rollingstone.com/wp-content/uploads/2024/08/R1391_Random-Notes_Hozier_A-e1723646684359.jpg' alt='Hozier On His Smash Hit 'Too Sweet' And His New 'Unaired' EP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone" />
+                                </span>
+                                <a href='https://www.rollingstone.com/wp-content/uploads/2024/08/R1391_Random-Notes_Hozier_A-e1723646684359.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hozier on His Tour, 'Church' Legacy, New Album, Brandi Carlile Duet">
+                                <img itemprop="contentUrl url" src='https://variety.com/wp-content/uploads/2023/08/Hozier-Press-3_Barry-McCall-e1692483483514.jpg?w=1000&h=667&crop=1' alt='Hozier on His Tour, 'Church' Legacy, New Album, Brandi Carlile Duet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Variety" />
+                                </span>
+                                <a href='https://variety.com/wp-content/uploads/2023/08/Hozier-Press-3_Barry-McCall-e1692483483514.jpg?w=1000&h=667&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hozier | Spotify">
+                                <img itemprop="contentUrl url" src='https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da841f5155d3e5d1f8b7b830f226' alt='Hozier | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da841f5155d3e5d1f8b7b830f226' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inside Hozier's 'Unreal Unearth': How The Singer Flipped Dante's ...">
+                                <img itemprop="contentUrl url" src='https://i8.amplience.net/i/naras/Hozier_Press_Photo_2023_Julia_Johnson' alt='Inside Hozier's 'Unreal Unearth': How The Singer Flipped Dante's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1328">
+                                <meta itemprop="height" content="908">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GRAMMY.com" />
+                                </span>
+                                <a href='https://i8.amplience.net/i/naras/Hozier_Press_Photo_2023_Julia_Johnson' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Album Review: Hozier - 'Unreal Unearth' — When The Horn Blows">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5b0dd7581aef1d319395b854/982a6fa3-8c2f-4a0b-b504-2d24e185b162/unnamed-10.jpg' alt='Album Review: Hozier - 'Unreal Unearth' — When The Horn Blows'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="When The Horn Blows" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5b0dd7581aef1d319395b854/982a6fa3-8c2f-4a0b-b504-2d24e185b162/unnamed-10.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Interview: Silver Linings Amidst the Wasteland with Hozier - WERS ...">
+                                <img itemprop="contentUrl url" src='https://wers.org/wp-content/uploads/2019/11/IMG_1809-683x1024.jpg' alt='Interview: Silver Linings Amidst the Wasteland with Hozier - WERS ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WERS 88.9FM" />
+                                </span>
+                                <a href='https://wers.org/wp-content/uploads/2019/11/IMG_1809-683x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hozier (album) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/a/a0/Hozier_-_Hozier.png' alt='Hozier (album) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/a/a0/Hozier_-_Hozier.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hozier Shares 'Unheard' EP Featuring Viral Single 'Too Sweet'">
+                                <img itemprop="contentUrl url" src='https://www.rollingstone.com/wp-content/uploads/2024/03/Hozier-Unheard-EP.jpg' alt='Hozier Shares 'Unheard' EP Featuring Viral Single 'Too Sweet''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone" />
+                                </span>
+                                <a href='https://www.rollingstone.com/wp-content/uploads/2024/03/Hozier-Unheard-EP.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

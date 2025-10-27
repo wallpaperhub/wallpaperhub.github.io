@@ -1,0 +1,129 @@
+<title>Stunning iPhone Max Wallpapers: Personalize Your Device</title>
+                    <meta name="description" content="Explore a collection of beautiful iPhone Max wallpapers that bring your device to life. Choose from landscapes, abstract designs, and more to find the perfect fit for your style. Transform your screen with high-resolution images that inspire and impress. Personalization made easy for your iPhone Max!">
+                    <meta name="keywords" content="iphone max wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-max-wallpaper">
+                            <span itemprop="name">iphone max wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning iPhone Max Wallpapers: Personalize Your Device</h1>
+                <p>Looking for the perfect iPhone Max wallpaper? Discover stunning high-resolution designs that showcase the beauty of your device. From serene landscapes to vibrant abstract art, there’s a wallpaper for every style. Personalize your iPhone Max and make it uniquely yours with wallpapers that inspire and delight. Upgrade your screen today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30+ Cool High Quality iPhone XS Max Wallpapers & Backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.designbolts.com/wp-content/uploads/2018/08/iPhone-XS-Max-wallpaper-HD.jpg' alt='30+ Cool High Quality iPhone XS Max Wallpapers & Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Designbolts" />
+                                </span>
+                                <a href='https://www.designbolts.com/wp-content/uploads/2018/08/iPhone-XS-Max-wallpaper-HD.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6 Unique Wallpapers for the iPhone 15 Pro Max - FilterGrade">
+                                <img itemprop="contentUrl url" src='https://cdn.filtergrade.com/wp-content/uploads/2024/01/08094938/img_1920x_659c06bd2e6ce0-71453311-40909495-scaled.jpg' alt='6 Unique Wallpapers for the iPhone 15 Pro Max - FilterGrade'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1181">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FilterGrade" />
+                                </span>
+                                <a href='https://cdn.filtergrade.com/wp-content/uploads/2024/01/08094938/img_1920x_659c06bd2e6ce0-71453311-40909495-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download the Official iPhone 16 Wallpaper Here - iClarified">
+                                <img itemprop="contentUrl url" src='https://www.iclarified.com/images/news/94911/453966/453966-640.jpg' alt='Download the Official iPhone 16 Wallpaper Here - iClarified'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iClarified" />
+                                </span>
+                                <a href='https://www.iclarified.com/images/news/94911/453966/453966-640.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6 Unique Wallpapers for the iPhone 15 Pro Max - FilterGrade">
+                                <img itemprop="contentUrl url" src='https://cdn.filtergrade.com/wp-content/uploads/2024/01/08094853/img_1920x_659c06af3d77c2-29262668-54112596-scaled.jpg' alt='6 Unique Wallpapers for the iPhone 15 Pro Max - FilterGrade'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1181">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FilterGrade" />
+                                </span>
+                                <a href='https://cdn.filtergrade.com/wp-content/uploads/2024/01/08094853/img_1920x_659c06af3d77c2-29262668-54112596-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Original iPhone XS Max, XS and XR Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0c/22/f6/0c22f6d2574336eb15e2b48d583d41f9.jpg' alt='Download Original iPhone XS Max, XS and XR Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0c/22/f6/0c22f6d2574336eb15e2b48d583d41f9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Most Popular Unique iPhone 16 Pro Max Wallpapers">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/iphone/creative-unique-astronaut-wallpaper-for-iphone-14-15-16-pro-and-pro-max-29-11-2024-1732932369-hd-wallpaper.jpeg' alt='Most Popular Unique iPhone 16 Pro Max Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1197">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/iphone/creative-unique-astronaut-wallpaper-for-iphone-14-15-16-pro-and-pro-max-29-11-2024-1732932369-hd-wallpaper.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Iphone 12 Pro Max Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/iphone-12-pro-max-hknmpjtf3rmp9egv.jpg' alt='100+] Iphone 12 Pro Max Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/iphone-12-pro-max-hknmpjtf3rmp9egv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Get Ready For The Next Iphone 14 Pro Max Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/get-ready-for-the-next-iphone-14-pro-max-b91yo4f29l8bepll.jpg' alt='Get Ready For The Next Iphone 14 Pro Max Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1290">
+                                <meta itemprop="height" content="2796">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/get-ready-for-the-next-iphone-14-pro-max-b91yo4f29l8bepll.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iphone 15 Pro Max Wallpaper Apple Logo No.5 A by rix-wn on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4f63b008-f1d4-4222-b7a1-3c45d4aaab7f/dhav59p-c8dd887d-5ae8-4d40-8525-49e213e122fc.png/v1/fill/w_1280,h_2775,q_80,strp/iphone_15_pro_max_wallpaper_apple_logo_no_5_a_by_rix_wn_dhav59p-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Mjc3NSIsInBhdGgiOiJcL2ZcLzRmNjNiMDA4LWYxZDQtNDIyMi1iN2ExLTNjNDVkNGFhYWI3ZlwvZGhhdjU5cC1jOGRkODg3ZC01YWU4LTRkNDAtODUyNS00OWUyMTNlMTIyZmMucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.t4fWaunDE8OPtEjx18SGfd-iSDmpu8xyz_fOCerXXhg' alt='iphone 15 Pro Max Wallpaper Apple Logo No.5 A by rix-wn on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="2775">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4f63b008-f1d4-4222-b7a1-3c45d4aaab7f/dhav59p-c8dd887d-5ae8-4d40-8525-49e213e122fc.png/v1/fill/w_1280,h_2775,q_80,strp/iphone_15_pro_max_wallpaper_apple_logo_no_5_a_by_rix_wn_dhav59p-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Mjc3NSIsInBhdGgiOiJcL2ZcLzRmNjNiMDA4LWYxZDQtNDIyMi1iN2ExLTNjNDVkNGFhYWI3ZlwvZGhhdjU5cC1jOGRkODg3ZC01YWU4LTRkNDAtODUyNS00OWUyMTNlMTIyZmMucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.t4fWaunDE8OPtEjx18SGfd-iSDmpu8xyz_fOCerXXhg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iphone 16 pro max wallpaper 4k - HeroWall | Phone Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/a/AVvXsEi_z4Dsg3Q7EvXV69dZIYdkRDA4jqXKXZ6e_g8rhN4OcyViNSo-nr5wRlsfE2WqkH7Ya9mTWLUMycW-GEYZ46kew2xDdfOnRiLyjZxavHRmqrdgndoMKmrEFl-TLxAgDNpueQlixnmejo56IpPKCWn5ayTyxAVhjuZHFxtNd6BCAwSr1h4sQaVWb3YECKMF' alt='iphone 16 pro max wallpaper 4k - HeroWall | Phone Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HeroWall" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/a/AVvXsEi_z4Dsg3Q7EvXV69dZIYdkRDA4jqXKXZ6e_g8rhN4OcyViNSo-nr5wRlsfE2WqkH7Ya9mTWLUMycW-GEYZ46kew2xDdfOnRiLyjZxavHRmqrdgndoMKmrEFl-TLxAgDNpueQlixnmejo56IpPKCWn5ayTyxAVhjuZHFxtNd6BCAwSr1h4sQaVWb3YECKMF' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

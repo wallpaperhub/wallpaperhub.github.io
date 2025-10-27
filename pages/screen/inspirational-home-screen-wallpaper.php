@@ -1,0 +1,129 @@
+<title>Inspire Your Day: Stunning Home Screen Wallpapers</title>
+                    <meta name="description" content="Discover a collection of motivational home screen wallpapers designed to inspire positivity and creativity. Elevate your smartphone experience and stay focused on your goals with beautiful images that encourage resilience. Perfect for daily motivation on the go!">
+                    <meta name="keywords" content="inspirational home screen wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/inspirational-home-screen-wallpaper">
+                            <span itemprop="name">inspirational home screen wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Inspire Your Day: Stunning Home Screen Wallpapers</h1>
+                <p>Transform your daily motivation with inspirational home screen wallpapers! Choose from stunning designs that inspire positivity, resilience, and creativity. These wallpapers serve as daily reminders to stay focused on your goals and embrace every moment. Elevate your smartphone experience and let inspiration greet you every time you unlock your device.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free custom motivational phone wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFC1TXmyIQ/1/0/900w/canva-phone-wallpaper-lock-and-home-screen-yBnW8SpzCWI.jpg' alt='Free custom motivational phone wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFC1TXmyIQ/1/0/900w/canva-phone-wallpaper-lock-and-home-screen-yBnW8SpzCWI.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="85+ Best Free Motivational iPhone Wallpapers to Keep You Inspired ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3f/4a/0a/3f4a0adbbba91d4cb50cc887df18180b.jpg' alt='85+ Best Free Motivational iPhone Wallpapers to Keep You Inspired ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3f/4a/0a/3f4a0adbbba91d4cb50cc887df18180b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free custom motivational phone wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE4hS-rxbQ/1/0/900w/canva-phone-wallpaper-motivational-quote-minimal-elegant-XyV6r4oc6ws.jpg' alt='Free custom motivational phone wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE4hS-rxbQ/1/0/900w/canva-phone-wallpaper-motivational-quote-minimal-elegant-XyV6r4oc6ws.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free custom motivational phone wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFuXLoA1rs/1/0/900w/canva-white-minimalist-quote-motivational-phone-wallpaper-ywUul4hHw-k.jpg' alt='Free custom motivational phone wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFuXLoA1rs/1/0/900w/canva-white-minimalist-quote-motivational-phone-wallpaper-ywUul4hHw-k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free custom motivational phone wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFdQHsPoLs/1/0/900w/canva-motivational-phone-wallpaper-xYfIqIndmWM.jpg' alt='Free custom motivational phone wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFdQHsPoLs/1/0/900w/canva-motivational-phone-wallpaper-xYfIqIndmWM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="You Can Do Hard Things" Digital Phone Wallpaper –– Inspirational Home  Screen – Motivational Affirmation – Printable Empowering Gift Idea">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38308367/r/il/c85b45/4258535382/il_570xN.4258535382_4lda.jpg' alt='You Can Do Hard Things" Digital Phone Wallpaper –– Inspirational Home  Screen – Motivational Affirmation – Printable Empowering Gift Idea'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1014">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38308367/r/il/c85b45/4258535382/il_570xN.4258535382_4lda.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free custom motivational phone wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFHiXVGJ48/1/0/900w/canva-minimal-simple-motivational-quote-phone-wallpaper-0pyUbQVmnnQ.jpg' alt='Free custom motivational phone wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFHiXVGJ48/1/0/900w/canva-minimal-simple-motivational-quote-phone-wallpaper-0pyUbQVmnnQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="85+ Best Free Motivational iPhone Wallpapers to Keep You Inspired ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/45/b1/cd/45b1cd26509fe2d4abd53d6251797977.jpg' alt='85+ Best Free Motivational iPhone Wallpapers to Keep You Inspired ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/45/b1/cd/45b1cd26509fe2d4abd53d6251797977.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free custom motivational phone wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAF2beyqht4/1/0/900w/canva-orange-gradient-motivational-phone-wallpaper-VaKb7aEevAE.jpg' alt='Free custom motivational phone wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAF2beyqht4/1/0/900w/canva-orange-gradient-motivational-phone-wallpaper-VaKb7aEevAE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free custom motivational phone wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFDNgl0up8/1/0/900w/canva-pink-purple-modern-colorful-retro-inspirational-phone-wallpaper-03Wdjifcbao.jpg' alt='Free custom motivational phone wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFDNgl0up8/1/0/900w/canva-pink-purple-modern-colorful-retro-inspirational-phone-wallpaper-03Wdjifcbao.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

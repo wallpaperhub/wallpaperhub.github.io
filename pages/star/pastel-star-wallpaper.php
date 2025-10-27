@@ -1,0 +1,129 @@
+<title>Charming Pastel Star Wallpaper for Your Dream Space</title>
+                    <meta name="description" content="Discover delightful pastel star wallpaper that enhances any room with a whimsical, calming touch. Perfect for nurseries and bedrooms, it’s easy to apply and remove, making it ideal for all interior projects. Update your decor effortlessly and create a dreamy atmosphere today!">
+                    <meta name="keywords" content="pastel star wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star">
+                            <span itemprop="name">Star</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star/pastel-star-wallpaper">
+                            <span itemprop="name">pastel star wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Pastel Star Wallpaper for Your Dream Space</h1>
+                <p>Transform your space with enchanting pastel star wallpaper. Ideal for nurseries, bedrooms, or creative spaces, this charming design brings a whimsical touch and a calming atmosphere. Easy to apply and remove, it’s perfect for renters and those looking to refresh their decor without commitment. Brighten up any room with soft hues and celestial beauty!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/63/3a/e7/633ae74455499c7bcb476f15040e2940.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="343">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/63/3a/e7/633ae74455499c7bcb476f15040e2940.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Stars Images – Browse 376,687 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/08/80/92/25/360_F_880922580_NZBhoXW0VZ9sVywGHElizB40ZjvMoF5F.jpg' alt='Pastel Stars Images – Browse 376,687 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/08/80/92/25/360_F_880922580_NZBhoXW0VZ9sVywGHElizB40ZjvMoF5F.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone wallpaper, background. 'bright pastel stars' (4)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6c/36/26/6c36260652e26c220efb5b6613e5e36e.jpg' alt='Phone wallpaper, background. 'bright pastel stars' (4)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6c/36/26/6c36260652e26c220efb5b6613e5e36e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Star Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/colorful-background-with-glowing-stars_1017-33782.jpg' alt='Pastel Star Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/colorful-background-with-glowing-stars_1017-33782.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stars And Rainbow Cute Pastel Colors Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/stars-and-rainbow-cute-pastel-colors-gbp561fmveri9k6d.webp' alt='Stars And Rainbow Cute Pastel Colors Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/stars-and-rainbow-cute-pastel-colors-gbp561fmveri9k6d.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soft White Star On Pastel Purple Watercolor Wallpaper, Light Lilac Starry  Sky Nursery, Teen Girl Abstract Boho Room – By The Yard LW26409">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8274094/r/il/760812/2030130228/il_570xN.2030130228_g8km.jpg' alt='Soft White Star On Pastel Purple Watercolor Wallpaper, Light Lilac Starry  Sky Nursery, Teen Girl Abstract Boho Room – By The Yard LW26409'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="567">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8274094/r/il/760812/2030130228/il_570xN.2030130228_g8km.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Stars Phone Wallpaper - twinkletoebeans's Ko-fi Shop - Ko ...">
+                                <img itemprop="contentUrl url" src='https://storage.ko-fi.com/cdn/useruploads/display/c4935e3a-f5cc-4e25-a1a0-b4cb55c2199f_fbeaca91-62b2-4495-929a-5840cc4c0765.jpeg' alt='Pastel Stars Phone Wallpaper - twinkletoebeans's Ko-fi Shop - Ko ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ko-fi" />
+                                </span>
+                                <a href='https://storage.ko-fi.com/cdn/useruploads/display/c4935e3a-f5cc-4e25-a1a0-b4cb55c2199f_fbeaca91-62b2-4495-929a-5840cc4c0765.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pastel star wallpaper          =              ➹小兔子ੈ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/6c/69/63/6c69638b444aa00b8734c12d5ec79de1.jpg' alt='pastel star wallpaper          =              ➹小兔子ੈ'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="549">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/6c/69/63/6c69638b444aa00b8734c12d5ec79de1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Star Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/cute-rainbow-colorful-wallpaper-background-stripes-with-stars_363897-14608.jpg?semt=ais_hybrid' alt='Pastel Star Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/cute-rainbow-colorful-wallpaper-background-stripes-with-stars_363897-14608.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD pastel stars wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/841/530/HD-wallpaper-pastel-stars-colorful-cute-pastel-pretty-stars-thumbnail.jpg' alt='HD pastel stars wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="465">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/841/530/HD-wallpaper-pastel-stars-colorful-cute-pastel-pretty-stars-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

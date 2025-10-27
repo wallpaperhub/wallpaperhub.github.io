@@ -1,0 +1,129 @@
+<title>Stunning Bonfire Images: Capture the Cozy Vibes</title>
+                    <meta name="description" content="Discover captivating bonfire images that evoke warmth and nostalgia. Perfect for social media or personal projects, these visuals embody the magic of outdoor gatherings. Explore and find inspiration for your next cozy evening under the stars.">
+                    <meta name="keywords" content="bonfire images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bonfire-images">
+                            <span itemprop="name">bonfire images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Bonfire Images: Capture the Cozy Vibes</h1>
+                <p>Bonfire images capture the essence of warmth and togetherness, perfect for evoking cherished memories. From friends gathering around the flames to picturesque sunsets reflected in dancing embers, each image tells a story. Explore stunning bonfire visuals that ignite nostalgia and inspire cozy outdoor moments with loved ones.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="199,400+ Bonfire Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/819949828/photo/late-evening-campfire-at-a-beatiful-canadian-chalet.jpg?s=612x612&w=0&k=20&c=sD663Ow_2NihMqeefmUiKW5xvBg-1C_ySA90CZuj17o=' alt='199,400+ Bonfire Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/819949828/photo/late-evening-campfire-at-a-beatiful-canadian-chalet.jpg?s=612x612&w=0&k=20&c=sD663Ow_2NihMqeefmUiKW5xvBg-1C_ySA90CZuj17o=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bonfire Photos, Download The BEST Free Bonfire Stock Photos & HD ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/266416/pexels-photo-266416.jpeg?cs=srgb&dl=pexels-pixabay-266416.jpg&fm=jpg' alt='Bonfire Photos, Download The BEST Free Bonfire Stock Photos & HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2112">
+                                <meta itemprop="height" content="2816">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/266416/pexels-photo-266416.jpeg?cs=srgb&dl=pexels-pixabay-266416.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Campfire And Bonfire Safety">
+                                <img itemprop="contentUrl url" src='https://www.streetwisecadlink.com/media/k2/items/cache/358873fad4914931314b94f2036b503a_XL.jpg' alt='Campfire And Bonfire Safety'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1059">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StreetWise CADlink" />
+                                </span>
+                                <a href='https://www.streetwisecadlink.com/media/k2/items/cache/358873fad4914931314b94f2036b503a_XL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bonfire Photos, Download The BEST Free Bonfire Stock Photos & HD ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1434598/pexels-photo-1434598.jpeg?cs=srgb&dl=pexels-greg-gulik-349419-1434598.jpg&fm=jpg' alt='Bonfire Photos, Download The BEST Free Bonfire Stock Photos & HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3024">
+                                <meta itemprop="height" content="4032">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1434598/pexels-photo-1434598.jpeg?cs=srgb&dl=pexels-greg-gulik-349419-1434598.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bonfire Night: food cooked over fire - Crumbs on the Table">
+                                <img itemprop="contentUrl url" src='https://www.crumbsonthetable.co.uk/wordpress/wp-content/uploads/2019/11/pexels-photo-266436.jpeg' alt='Bonfire Night: food cooked over fire - Crumbs on the Table'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Crumbs on the Table" />
+                                </span>
+                                <a href='https://www.crumbsonthetable.co.uk/wordpress/wp-content/uploads/2019/11/pexels-photo-266436.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="199,400+ Bonfire Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1442416042/photo/campfire-on-the-sandy-beach-at-night-tversted-denmark.jpg?s=612x612&w=0&k=20&c=QEoKA5xnqi1ik3tilb26nO5uNofrS6HL4BdXgI64ycw=' alt='199,400+ Bonfire Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1442416042/photo/campfire-on-the-sandy-beach-at-night-tversted-denmark.jpg?s=612x612&w=0&k=20&c=QEoKA5xnqi1ik3tilb26nO5uNofrS6HL4BdXgI64ycw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Community Bonfire Party Ideas - Grit">
+                                <img itemprop="contentUrl url" src='http://ogden_images.s3.amazonaws.com/www.grit.com/images/2022/07/29194639/man-at-bonfire.jpg' alt='Community Bonfire Party Ideas - Grit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1514">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.grit.com" />
+                                </span>
+                                <a href='http://ogden_images.s3.amazonaws.com/www.grit.com/images/2022/07/29194639/man-at-bonfire.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to have an eco-friendly bonfire night">
+                                <img itemprop="contentUrl url" src='https://images.prismic.io/oddbox/5d407a83-5695-4f6b-839f-a50e237bd751_clovis-wood-photography-eqLlzEZNLdU-unsplash.jpg?auto=compress%2Cformat&fit=max&w=750&h=999' alt='How to have an eco-friendly bonfire night'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="999">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oddbox" />
+                                </span>
+                                <a href='https://images.prismic.io/oddbox/5d407a83-5695-4f6b-839f-a50e237bd751_clovis-wood-photography-eqLlzEZNLdU-unsplash.jpg?auto=compress%2Cformat&fit=max&w=750&h=999' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bonfire - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Seurasaari-2005-johannus2.jpg/800px-Seurasaari-2005-johannus2.jpg' alt='Bonfire - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="596">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Seurasaari-2005-johannus2.jpg/800px-Seurasaari-2005-johannus2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bonfire Photos, Download The BEST Free Bonfire Stock Photos & HD ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1454789/pexels-photo-1454789.jpeg?cs=srgb&dl=pexels-minan1398-1454789.jpg&fm=jpg' alt='Bonfire Photos, Download The BEST Free Bonfire Stock Photos & HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2832">
+                                <meta itemprop="height" content="2832">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1454789/pexels-photo-1454789.jpeg?cs=srgb&dl=pexels-minan1398-1454789.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

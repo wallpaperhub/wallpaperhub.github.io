@@ -1,0 +1,129 @@
+<title>Retro 70s Wallpaper for iPhone: Vintage Vibes</title>
+                    <meta name="description" content="Explore a collection of eye-catching 70s wallpaper for your iPhone. Enjoy vibrant retro designs and colors that add a nostalgic touch to your device. Perfect for anyone looking to infuse a little fun and individuality into their mobile experience. Download your favorite today!">
+                    <meta name="keywords" content="70s wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/70s-wallpaper-iphone">
+                            <span itemprop="name">70s wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Retro 70s Wallpaper for iPhone: Vintage Vibes</h1>
+                <p>Transform your iPhone's look with vibrant 70s wallpaper! Dive into retro patterns featuring bold colors and funky designs that bring nostalgia to your fingertips. From groovy swirls to psychedelic hues, there's a wallpaper to match every mood. Embrace the vintage vibe and stand out with a unique aesthetic!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="70s Retro Floral Wallpaper HD Phone Wallpaper Iphone Android">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a8/d3/1c/a8d31c3c583416967d5301e6ba72f1af.jpg' alt='70s Retro Floral Wallpaper HD Phone Wallpaper Iphone Android'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a8/d3/1c/a8d31c3c583416967d5301e6ba72f1af.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funky 70s Wallpaper | iPhone Case">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.1481967979.2049/flat,750x1000,075,t.jpg' alt='Funky 70s Wallpaper | iPhone Case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.1481967979.2049/flat,750x1000,075,t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="70s Retro Wallpaper Anna- Cream Orange Yellow Brown | iPhone Case">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.3317885909.5323/flat,750x1000,075,t.jpg' alt='70s Retro Wallpaper Anna- Cream Orange Yellow Brown | iPhone Case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.3317885909.5323/flat,750x1000,075,t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="70s iphone 6/7/8 background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/33/f1/43/33f14357e058f5498b5a31dd52d2b8b9.jpg' alt='70s iphone 6/7/8 background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="674">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/33/f1/43/33f14357e058f5498b5a31dd52d2b8b9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 70s 4k Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp10127797.jpg' alt='iPhone 70s 4k Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1149">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp10127797.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Muted Rainbow 70s Retro Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/muted-rainbow-70s-retro-aesthetic-dygosxqcsysw6nvn.webp' alt='Muted Rainbow 70s Retro Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/muted-rainbow-70s-retro-aesthetic-dygosxqcsysw6nvn.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pop art psychedelic, 70s art, art, cool art, hippie art, orange ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/301/705/HD-wallpaper-pop-art-psychedelic-70s-art-art-cool-art-hippie-art-orange-pop-art-psychedelic-retro-art.jpg' alt='Pop art psychedelic, 70s art, art, cool art, hippie art, orange ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/301/705/HD-wallpaper-pop-art-psychedelic-70s-art-art-cool-art-hippie-art-orange-pop-art-psychedelic-retro-art.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] 70s Retro Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/70s-retro-aesthetic-zvywlo3eazhr3kxk.jpg' alt='100+] 70s Retro Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="897">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/70s-retro-aesthetic-zvywlo3eazhr3kxk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="70s inspired iphone background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/89/8d/7d/898d7d71ec92a852be89aa4fd1ba2a55.jpg' alt='70s inspired iphone background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/89/8d/7d/898d7d71ec92a852be89aa4fd1ba2a55.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Floral 70s Retro Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/vintage-floral-70s-retro-aesthetic-kod7f31gddv7x263.jpg' alt='Vintage Floral 70s Retro Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/vintage-floral-70s-retro-aesthetic-kod7f31gddv7x263.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

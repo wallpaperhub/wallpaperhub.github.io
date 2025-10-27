@@ -1,0 +1,129 @@
+<title>When Did Oppenheimer Die? Chronology of His Life</title>
+                    <meta name="description" content="Discover when Oppenheimer died and explore the influential life of the father of the atomic bomb. Learn about his contributions to science, ethics, and the legacy he left behind in the world of nuclear physics. Find key insights into his life and the events surrounding his death in this concise overview.">
+                    <meta name="keywords" content="when did oppenheimer die">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/when-did-oppenheimer-die">
+                            <span itemprop="name">when did oppenheimer die</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>When Did Oppenheimer Die? Chronology of His Life</h1>
+                <p>J. Robert Oppenheimer, the American physicist renowned for his role in the Manhattan Project, passed away on February 18, 1967. His contributions to nuclear physics and his complex legacy continue to be subjects of study and debate, reflecting the profound impact of his work on science and ethics.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="J. Robert Oppenheimer - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/8/85/Oppenheimer_%28cropped%29.jpg' alt='J. Robert Oppenheimer - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1698">
+                                <meta itemprop="height" content="2471">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/8/85/Oppenheimer_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How did Oppenheimer die? Cause of death explained - Dexerto">
+                                <img itemprop="contentUrl url" src='https://www.dexerto.com/cdn-image/wp-content/uploads/2023/07/17/how-did-oppenheimer-die.jpg?width=1200&quality=75&format=auto' alt='How did Oppenheimer die? Cause of death explained - Dexerto'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dexerto" />
+                                </span>
+                                <a href='https://www.dexerto.com/cdn-image/wp-content/uploads/2023/07/17/how-did-oppenheimer-die.jpg?width=1200&quality=75&format=auto' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Did J Robert Oppenheimer Die? Cause of Death, What Happened">
+                                <img itemprop="contentUrl url" src='https://stylecaster.com/wp-content/uploads/2023/07/cillian-murphy-robert-j-oppenheimer.png' alt='How Did J Robert Oppenheimer Die? Cause of Death, What Happened'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StyleCaster" />
+                                </span>
+                                <a href='https://stylecaster.com/wp-content/uploads/2023/07/cillian-murphy-robert-j-oppenheimer.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How did Oppenheimer die? Cause of death explained - Dexerto">
+                                <img itemprop="contentUrl url" src='https://www.dexerto.com/cdn-image/wp-content/uploads/2023/07/17/how-did-oppenheimer-die-1.jpg' alt='How did Oppenheimer die? Cause of death explained - Dexerto'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dexerto" />
+                                </span>
+                                <a href='https://www.dexerto.com/cdn-image/wp-content/uploads/2023/07/17/how-did-oppenheimer-die-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Real Tragedy of Robert Oppenheimer | Science History Institute">
+                                <img itemprop="contentUrl url" src='https://www.sciencehistory.org/wp-content/uploads/2023/05/robert_oppenheimer.jpeg' alt='The Real Tragedy of Robert Oppenheimer | Science History Institute'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Science History Institute" />
+                                </span>
+                                <a href='https://www.sciencehistory.org/wp-content/uploads/2023/05/robert_oppenheimer.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Did J Robert Oppenheimer Die? Cause of Death, What Happened">
+                                <img itemprop="contentUrl url" src='https://stylecaster.com/wp-content/uploads/2023/07/GettyImages-515582880.jpg' alt='How Did J Robert Oppenheimer Die? Cause of Death, What Happened'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="829">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StyleCaster" />
+                                </span>
+                                <a href='https://stylecaster.com/wp-content/uploads/2023/07/GettyImages-515582880.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="J. Robert Oppenheimer | Biography, Manhattan Project, Atomic Bomb ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/78/25478-050-4C4B5885/J-Robert-Oppenheimer.jpg' alt='J. Robert Oppenheimer | Biography, Manhattan Project, Atomic Bomb ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1015">
+                                <meta itemprop="height" content="1552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/78/25478-050-4C4B5885/J-Robert-Oppenheimer.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Sad Death Of Oppenheimer, The Man Who Invented The Atomic Bomb">
+                                <img itemprop="contentUrl url" src='https://www.grunge.com/img/gallery/the-sad-death-of-oppenheimer-the-man-who-invented-the-atomic-bomb-upgrade/l-intro-1689187944.jpg' alt='The Sad Death Of Oppenheimer, The Man Who Invented The Atomic Bomb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="899">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Grunge" />
+                                </span>
+                                <a href='https://www.grunge.com/img/gallery/the-sad-death-of-oppenheimer-the-man-who-invented-the-atomic-bomb-upgrade/l-intro-1689187944.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="J. Robert Oppenheimer - Nuclear Museum">
+                                <img itemprop="contentUrl url" src='https://ahf.nuclearmuseum.org/wp-content/uploads/2014/05/Oppie%20in%20front%20of%20Chalkboard%20square.jpg' alt='J. Robert Oppenheimer - Nuclear Museum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="457">
+                                <meta itemprop="height" content="457">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Atomic Heritage Foundation - National Museum of Nuclear Science ..." />
+                                </span>
+                                <a href='https://ahf.nuclearmuseum.org/wp-content/uploads/2014/05/Oppie%20in%20front%20of%20Chalkboard%20square.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="J. Robert Oppenheimer - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Oppenheimer-j_r.jpg/180px-Oppenheimer-j_r.jpg' alt='J. Robert Oppenheimer - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="180">
+                                <meta itemprop="height" content="198">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Oppenheimer-j_r.jpg/180px-Oppenheimer-j_r.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

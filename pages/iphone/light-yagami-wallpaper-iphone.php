@@ -1,0 +1,129 @@
+<title>Epic Light Yagami iPhone Wallpapers</title>
+                    <meta name="description" content="Explore our collection of Light Yagami wallpapers for iPhone! From captivating designs to vibrant colors, find the perfect background that showcases your passion for "Death Note." Optimize your device’s look with these high-quality, downloadable wallpapers. Personalize your iPhone now!">
+                    <meta name="keywords" content="light yagami wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/light-yagami-wallpaper-iphone">
+                            <span itemprop="name">light yagami wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Light Yagami iPhone Wallpapers</h1>
+                <p>Looking for striking Light Yagami wallpaper for your iPhone? Discover a variety of stunning designs that capture the essence of this iconic character from "Death Note." Whether you prefer minimalist art or dramatic scenes, personalize your device with wallpapers that reflect your love for anime. Enhance your iPhone's aesthetic today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kira, black, death note, evil, light, oled, shinigami, yagami, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/948/292/HD-wallpaper-kira-black-death-note-evil-light-oled-shinigami-yagami.jpg' alt='Kira, black, death note, evil, light, oled, shinigami, yagami, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/948/292/HD-wallpaper-kira-black-death-note-evil-light-oled-shinigami-yagami.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light With Shinigami Ryuk Death Note Phone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/light-with-shinigami-ryuk-death-note-phone-8hbhgus3xfibvvof.webp' alt='Light With Shinigami Ryuk Death Note Phone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/light-with-shinigami-ryuk-death-note-phone-8hbhgus3xfibvvof.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Found this awesome Light Yagami wallpaper on Facebook : r/deathnote">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/f58ouuweuse51.jpg' alt='Found this awesome Light Yagami wallpaper on Facebook : r/deathnote'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/f58ouuweuse51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yagami Light">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f4/c3/b8/f4c3b8f5ba488f29f624ababd7d458ba.jpg' alt='Yagami Light'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1557">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f4/c3/b8/f4c3b8f5ba488f29f624ababd7d458ba.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Yagami Wallpaper 4K, 5K, Death Note, Black background">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/light-yagami-5k-8k-1290x2796-10500.png' alt='Light Yagami Wallpaper 4K, 5K, Death Note, Black background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1290">
+                                <meta itemprop="height" content="2796">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/light-yagami-5k-8k-1290x2796-10500.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Light Yagami Apple Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/light-yagami-apple-ukxkhr9hx7bfadcg.jpg' alt='Download Light Yagami Apple Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="886">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/light-yagami-apple-ukxkhr9hx7bfadcg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Yagami iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp13812515.jpg' alt='Light Yagami iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp13812515.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Light and Ryuk - The Unholy Alliance from Death Note on ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/light-and-ryuk-glowing-red-death-note-iphone-0m67l6zi5zt3u8bu.jpg' alt='Download Light and Ryuk - The Unholy Alliance from Death Note on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/light-and-ryuk-glowing-red-death-note-iphone-0m67l6zi5zt3u8bu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Yagami, death note, kira, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/728/68/HD-wallpaper-light-yagami-death-note-kira.jpg' alt='Light Yagami, death note, kira, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/728/68/HD-wallpaper-light-yagami-death-note-kira.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light x Ryuk Iphone 11 wallpaper! - Made by me: (Tony) : r/deathnote">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/rdrnzk7q4ov41.png?width=1080&crop=smart&auto=webp&s=bccb0a063a114f062b264f444cc09ff1e2929876' alt='Light x Ryuk Iphone 11 wallpaper! - Made by me: (Tony) : r/deathnote'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2337">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/rdrnzk7q4ov41.png?width=1080&crop=smart&auto=webp&s=bccb0a063a114f062b264f444cc09ff1e2929876' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

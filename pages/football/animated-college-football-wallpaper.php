@@ -1,0 +1,129 @@
+<title>Dynamic Animated College Football Wallpapers</title>
+                    <meta name="description" content="Explore stunning animated college football wallpapers that ignite your passion! Perfect for fans, these vibrant designs keep your spirit alive. Download now for a energizing touch to your devices and show off your team pride!">
+                    <meta name="keywords" content="animated college football wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/football">
+                            <span itemprop="name">Football</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/football/animated-college-football-wallpaper">
+                            <span itemprop="name">animated college football wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dynamic Animated College Football Wallpapers</h1>
+                <p>Elevate your college football spirit with dynamic animated wallpapers! Perfect for fans, these vibrant designs showcase your team's colors and logos, bringing energy to your device. Whether you’re gearing up for game day or just want to feel the thrill of the season, these wallpapers keep your passion alive. Download and support your team!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   on Twitter">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/42/f3/96/42f396c7008f174a811b9190d62d7a66.jpg' alt='   on Twitter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/42/f3/96/42f396c7008f174a811b9190d62d7a66.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Texas">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/19/08/26/19082687bfe21eb8df0ed6805e598ada.jpg' alt='Texas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/19/08/26/19082687bfe21eb8df0ed6805e598ada.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9 College Football ideas | football, college football art, nfl ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/49/d7/d4/49d7d4776ea389df28aa6e9e1886988b.jpg' alt='9 College Football ideas | football, college football art, nfl ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="295">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/49/d7/d4/49d7d4776ea389df28aa6e9e1886988b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ty Lockwood on X: "Back in Columbus on Saturday! #GoBucks   https ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FClQX-FWUAMbdmO.jpg:large' alt='Ty Lockwood on X: "Back in Columbus on Saturday! #GoBucks   https ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1638">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FClQX-FWUAMbdmO.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/c7/b6/99/c7b6991acf553166e7a0bfbc4a5d5032.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="444">
+                                <meta itemprop="height" content="794">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/c7/b6/99/c7b6991acf553166e7a0bfbc4a5d5032.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Florida">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4b/ce/f9/4bcef98ed92f53eff000b6bcc757ea37.jpg' alt='Florida'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="607">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4b/ce/f9/4bcef98ed92f53eff000b6bcc757ea37.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Florida Gators Football on X">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/06/38/89/0638890bf5d44eb635f784528b07a805.jpg' alt='Florida Gators Football on X'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/06/38/89/0638890bf5d44eb635f784528b07a805.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Texas Football Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/texas-football-n42gceoca9xf4iau.jpg' alt='100+] Texas Football Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/texas-football-n42gceoca9xf4iau.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/92/b9/29/92b92953a990cb1ff2c04dbdc3e4e2b5.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1707">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/92/b9/29/92b92953a990cb1ff2c04dbdc3e4e2b5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Texas Football (@TexasFootball) on X">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/54/06/ff/5406ff01b38a4f27bd2a65e301b971b2.jpg' alt='Texas Football (@TexasFootball) on X'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="544">
+                                <meta itemprop="height" content="680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/54/06/ff/5406ff01b38a4f27bd2a65e301b971b2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

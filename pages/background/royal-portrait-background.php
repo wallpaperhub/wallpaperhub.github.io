@@ -1,0 +1,129 @@
+<title>Captivating Royal Portrait Backgrounds: Elevate Your Artwork</title>
+                    <meta name="description" content="Explore the stunning world of royal portrait backgrounds! Discover how opulent settings enhance the majesty of your subjects, elevating their presence and storytelling. Perfect for artists and historians alike, these backgrounds blend history and artistry to create captivating visuals that command attention.">
+                    <meta name="keywords" content="royal portrait background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/royal-portrait-background">
+                            <span itemprop="name">royal portrait background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Captivating Royal Portrait Backgrounds: Elevate Your Artwork</h1>
+                <p>Royal portrait backgrounds have long been a significant aspect of classical art, serving as a visual context that enhances the subject’s status and personality. These backgrounds often feature opulent fabrics, architectural elements, or lush landscapes, creating a narrative that complements and elevates the royal figure at the forefront.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AOFOTO 10x10ft Romantic Wedding Royal Gazebo Background Classic Gloriette  Photography Backdrop Vintage Garden Pavilion Retro Columns Photo Studio ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71gjPtRk+3L._AC_UF894,1000_QL80_.jpg' alt='AOFOTO 10x10ft Romantic Wedding Royal Gazebo Background Classic Gloriette  Photography Backdrop Vintage Garden Pavilion Retro Columns Photo Studio ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71gjPtRk+3L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30,900+ Royal Portrait Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1064211542/photo/portrait-of-a-girl-wearing-a-retro-princess-or-countess-dress.jpg?s=612x612&w=0&k=20&c=xg_vQ_stIbr23rXrQ7_CewHvd4NY-_LZ2FkDiFcxM1o=' alt='30,900+ Royal Portrait Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="458">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1064211542/photo/portrait-of-a-girl-wearing-a-retro-princess-or-countess-dress.jpg?s=612x612&w=0&k=20&c=xg_vQ_stIbr23rXrQ7_CewHvd4NY-_LZ2FkDiFcxM1o=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="905 Royal Wallpaper Photos, Pictures And Background Images For ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20220328/pngtree-old-wallpaper-royal-wallpaper-element-photo-image_5310666.jpg' alt='905 Royal Wallpaper Photos, Pictures And Background Images For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="280">
+                                <meta itemprop="height" content="403">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20220328/pngtree-old-wallpaper-royal-wallpaper-element-photo-image_5310666.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Royal background Stock Photos, Royalty Free Royal background ...">
+                                <img itemprop="contentUrl url" src='https://static8.depositphotos.com/1491329/1068/i/450/depositphotos_10687021-stock-photo-curtain.jpg' alt='Royal background Stock Photos, Royalty Free Royal background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="501">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://static8.depositphotos.com/1491329/1068/i/450/depositphotos_10687021-stock-photo-curtain.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Royal Background Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/041/391/325/small_2x/ai-generated-royal-crown-on-red-velvet-background-photo.jpg' alt='Royal Background Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="714">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/041/391/325/small_2x/ai-generated-royal-crown-on-red-velvet-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Haoyiyi 5x3ft Red Royal Chair Backdrop European Retro Red  Curtains Classic Red Gold Chair King Throne Photography Background Wedding  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61zO46rvexL.jpg' alt='Amazon.com : Haoyiyi 5x3ft Red Royal Chair Backdrop European Retro Red  Curtains Classic Red Gold Chair King Throne Photography Background Wedding  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1001">
+                                <meta itemprop="height" content="999">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61zO46rvexL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Royal Portrait Background Images, HD Pictures and Wallpaper For ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20241202/pngtree-the-royal-affair-an-indian-bridal-portrait-image_16729532.jpg' alt='Royal Portrait Background Images, HD Pictures and Wallpaper For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="270">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20241202/pngtree-the-royal-affair-an-indian-bridal-portrait-image_16729532.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="luxurious background for a royal portrait on Craiyon">
+                                <img itemprop="contentUrl url" src='https://pics.craiyon.com/2024-09-04/1Lu44iirQzKZ5_uo8IyUWw.webp' alt='luxurious background for a royal portrait on Craiyon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Craiyon" />
+                                </span>
+                                <a href='https://pics.craiyon.com/2024-09-04/1Lu44iirQzKZ5_uo8IyUWw.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="147,700+ Royal Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1321716367/vector/golden-dark-classic-arch-portal-and-columns.jpg?s=612x612&w=0&k=20&c=hEPMFrPoHUmOGSxU7X5DJDjFyGzZGE6rWxdk4Ac4Xv8=' alt='147,700+ Royal Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="502">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1321716367/vector/golden-dark-classic-arch-portal-and-columns.jpg?s=612x612&w=0&k=20&c=hEPMFrPoHUmOGSxU7X5DJDjFyGzZGE6rWxdk4Ac4Xv8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Royal Pet Portrait Templates - Pet Portrait Layered PSD Photoshop File  Digital Background">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21253554/r/il/42048c/2733402545/il_fullxfull.2733402545_ooqs.jpg' alt='Royal Pet Portrait Templates - Pet Portrait Layered PSD Photoshop File  Digital Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1438">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21253554/r/il/42048c/2733402545/il_fullxfull.2733402545_ooqs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

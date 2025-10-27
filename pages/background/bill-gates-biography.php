@@ -1,0 +1,129 @@
+<title>Bill Gates: From Tech Titan to Philanthropist</title>
+                    <meta name="description" content="Explore the incredible journey of Bill Gates—co-founder of Microsoft and global philanthropist. Discover how his innovations shaped technology and his commitment to global health and education through his foundation. Learn more about his life, achievements, and impact on the world.">
+                    <meta name="keywords" content="bill gates biography">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bill-gates-biography">
+                            <span itemprop="name">bill gates biography</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Bill Gates: From Tech Titan to Philanthropist</h1>
+                <p>Bill Gates, co-founder of Microsoft, revolutionized personal computing in the 1970s. Born on October 28, 1955, in Seattle, Washington, he exhibited an early passion for programming. Gates' innovative vision led Microsoft to become the world's largest software company. Today, he is also known for his philanthropic efforts through the Bill & Melinda Gates Foundation.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bill Gates: A Biography (Greenwood Biographies): Becraft, Michael B.:  9781440830136: Amazon.com: Books">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71Y29fvXjaL.jpg' alt='Bill Gates: A Biography (Greenwood Biographies): Becraft, Michael B.:  9781440830136: Amazon.com: Books'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1696">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71Y29fvXjaL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bill Gates | Book, College, Microsoft, Divorce, & Facts ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/47/188747-050-1D34E743/Bill-Gates-2011.jpg' alt='Bill Gates | Book, College, Microsoft, Divorce, & Facts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1182">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/47/188747-050-1D34E743/Bill-Gates-2011.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bill Gates (Biography (A & E))">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/417Qnjaq1SL._AC_UF1000,1000_QL80_.jpg' alt='Bill Gates (Biography (A & E))'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/417Qnjaq1SL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DOC) Bill Gates Biography">
+                                <img itemprop="contentUrl url" src='https://0.academia-photos.com/attachment_thumbnails/38387572/mini_magick20190225-24355-1bprnb5.png?1551118813' alt='DOC) Bill Gates Biography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="776">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Academia.edu" />
+                                </span>
+                                <a href='https://0.academia-photos.com/attachment_thumbnails/38387572/mini_magick20190225-24355-1bprnb5.png?1551118813' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bill Gates: Biography: Life from Beginning to End">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61xIfc-vDJL._AC_UF1000,1000_QL80_.jpg' alt='Bill Gates: Biography: Life from Beginning to End'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61xIfc-vDJL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bill Gates Biography: Details About the Microsoft Entrepreneur ...">
+                                <img itemprop="contentUrl url" src='https://assets.entrepreneur.com/content/3x2/2000/1680813141-GettyImages-850154658copy.jpg' alt='Bill Gates Biography: Details About the Microsoft Entrepreneur ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Entrepreneur" />
+                                </span>
+                                <a href='https://assets.entrepreneur.com/content/3x2/2000/1680813141-GettyImages-850154658copy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Biography of Bill Gates: Secrets Behind the Success of the Microsoft  Billionaire (Biographies of Famous People Series) See more">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/816JOwCLM7L._UF1000,1000_QL80_.jpg' alt='The Biography of Bill Gates: Secrets Behind the Success of the Microsoft  Billionaire (Biographies of Famous People Series) See more'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/816JOwCLM7L._UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DOC) Biography of Bill Gates">
+                                <img itemprop="contentUrl url" src='https://0.academia-photos.com/attachment_thumbnails/52634401/mini_magick20190122-18434-1405zoy.png?1548203502' alt='DOC) Biography of Bill Gates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="776">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Academia.edu" />
+                                </span>
+                                <a href='https://0.academia-photos.com/attachment_thumbnails/52634401/mini_magick20190122-18434-1405zoy.png?1548203502' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bill Gates: A Biography ebook by Calvin Stanton - Rakuten Kobo">
+                                <img itemprop="contentUrl url" src='https://cdn.kobo.com/book-images/37434787-fd0a-410c-9d81-467a08d11968/1200/1200/False/bill-gates-a-biography-2.jpg' alt='Bill Gates: A Biography ebook by Calvin Stanton - Rakuten Kobo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rakuten Kobo" />
+                                </span>
+                                <a href='https://cdn.kobo.com/book-images/37434787-fd0a-410c-9d81-467a08d11968/1200/1200/False/bill-gates-a-biography-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bill Gates Biography | Success Story of Microsoft | Childhood | Billionaire">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/kBmT_MDpDCg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDLgKjiiqbRBUqMt4eFrWSSAefazA' alt='Bill Gates Biography | Success Story of Microsoft | Childhood | Billionaire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/kBmT_MDpDCg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDLgKjiiqbRBUqMt4eFrWSSAefazA' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

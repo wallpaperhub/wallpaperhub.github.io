@@ -1,0 +1,129 @@
+<title>Stunning Green Phone Backgrounds for a Refreshing Look</title>
+                    <meta name="description" content="Discover beautiful green phone backgrounds that enhance your device's aesthetic. Perfect for nature lovers, these vibrant designs offer tranquility and a refreshing vibe. Update your phone today with a stunning green background that suits your style!">
+                    <meta name="keywords" content="green phone background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/green-phone-background">
+                            <span itemprop="name">green phone background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Green Phone Backgrounds for a Refreshing Look</h1>
+                <p>Transform your device with a stunning green phone background that brings tranquility and freshness to your screen. Whether you prefer vibrant emerald hues or soft pastel greens, these backgrounds can inspire relaxation and harmony. Explore a variety of designs to fit your style and elevate your mobile experience today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable green wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGFWr-O7YA/1/0/900w/canva-green-leaf-aesthetic-minimalist-wallpaper-phone-4-1hrnwjCco.jpg' alt='Free and customizable green wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGFWr-O7YA/1/0/900w/canva-green-leaf-aesthetic-minimalist-wallpaper-phone-4-1hrnwjCco.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plain Mint Green Phone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/plain-mint-green-phone-t58rgwurm094f31g.jpg' alt='Plain Mint Green Phone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/plain-mint-green-phone-t58rgwurm094f31g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Green Phone Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/green-phone-background-k5r82i3cp1woced8.jpg' alt='100+] Green Phone Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/green-phone-background-k5r82i3cp1woced8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pretty leaf green wallpaper for phone | Aesthetic iphone wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.fabmood.com/wp-content/uploads/2022/04/spring-wallpaper-2.jpg' alt='Pretty leaf green wallpaper for phone | Aesthetic iphone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1257">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fab Mood" />
+                                </span>
+                                <a href='https://www.fabmood.com/wp-content/uploads/2022/04/spring-wallpaper-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract background Wallpaper 4K, Sage green abstract, Modern, 5K">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/abstract-background-1080x2160-10920.jpg' alt='Abstract background Wallpaper 4K, Sage green abstract, Modern, 5K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/abstract-background-1080x2160-10920.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sage Green Phone Wallpaper - Fox + Hazel | free art + designs">
+                                <img itemprop="contentUrl url" src='https://foxandhazel.com/wp-content/uploads/2021/04/Sage-Green-Wallpaper-Fox-Hazel.jpg' alt='Sage Green Phone Wallpaper - Fox + Hazel | free art + designs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fox + Hazel" />
+                                </span>
+                                <a href='https://foxandhazel.com/wp-content/uploads/2021/04/Sage-Green-Wallpaper-Fox-Hazel.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="green phone background with stars">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/2b/06/60/2b06606417f01bc865b8d989aaeb6966.jpg' alt='green phone background with stars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="376">
+                                <meta itemprop="height" content="632">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/2b/06/60/2b06606417f01bc865b8d989aaeb6966.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Wallpaper | Free Beautiful HD iPhone, Samsung & Mobile Phone ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTEwL3RwNTQ3LTA1LWF1bS1iZy0wMDVjLmpwZw.jpg' alt='Green Wallpaper | Free Beautiful HD iPhone, Samsung & Mobile Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTEwL3RwNTQ3LTA1LWF1bS1iZy0wMDVjLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/924/924197.jpg' alt='Green iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/924/924197.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Wallpaper | Free Beautiful HD iPhone, Samsung & Mobile Phone ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjEwLXJlbWl4LTgwLWIuanBn.jpg' alt='Green Wallpaper | Free Beautiful HD iPhone, Samsung & Mobile Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjEwLXJlbWl4LTgwLWIuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

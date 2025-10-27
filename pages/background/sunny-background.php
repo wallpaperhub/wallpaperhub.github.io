@@ -1,0 +1,129 @@
+<title>Brighten Your Scenes: The Power of Sunny Backgrounds</title>
+                    <meta name="description" content="Discover the beauty of sunny backgrounds! Explore how sunlight enhances imagery and creates lively, positive atmospheres. Perfect for photography, art, or design, a sunny backdrop can transform any scene into a radiant experience that sparks joy and creativity.">
+                    <meta name="keywords" content="sunny background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sunny-background">
+                            <span itemprop="name">sunny background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Brighten Your Scenes: The Power of Sunny Backgrounds</h1>
+                <p>A sunny background brings warmth and vibrancy to any scene. It illuminates colors, enhances mood, and creates a cheerful atmosphere that captivates both the eye and the spirit. Whether in photography, painting, or digital art, a sunny backdrop serves as a radiant canvas, inviting joy and positivity into the composition.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunny Background" Images – Browse 9,414 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/10/56/74/19/360_F_1056741938_J9MfXjPAQaTtBhRAvzEu0bcnqXe1Z7yN.jpg' alt='Sunny Background" Images – Browse 9,414 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="636">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/10/56/74/19/360_F_1056741938_J9MfXjPAQaTtBhRAvzEu0bcnqXe1Z7yN.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunny Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/006/262/965/non_2x/sunny-background-blue-sky-with-white-clouds-and-sun-vector.jpg' alt='Sunny Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="832">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/006/262/965/non_2x/sunny-background-blue-sky-with-white-clouds-and-sun-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunny Background Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1676320125952-85ced2f39d7f?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c3VubnklMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww' alt='Sunny Background Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1676320125952-85ced2f39d7f?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c3VubnklMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="112,200+ Sunny Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/483419887/vector/summer-landscape.jpg?s=612x612&w=0&k=20&c=vRvUDtlAmEks8Doyxk2qezBY-GnOYOpz8Rd6ZVMoFas=' alt='112,200+ Sunny Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="481">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/483419887/vector/summer-landscape.jpg?s=612x612&w=0&k=20&c=vRvUDtlAmEks8Doyxk2qezBY-GnOYOpz8Rd6ZVMoFas=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="112,200+ Sunny Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/683515204/vector/sunshine-yellow-background-vector-illustration.jpg?s=612x612&w=0&k=20&c=-SMn9OSfhjHPpRrfljdH-9CdzIspu4CA7nM7osIzVyc=' alt='112,200+ Sunny Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/683515204/vector/sunshine-yellow-background-vector-illustration.jpg?s=612x612&w=0&k=20&c=-SMn9OSfhjHPpRrfljdH-9CdzIspu4CA7nM7osIzVyc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Vintage sunny background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/vintage-sunny-background_548832-15414.jpg' alt='Premium Photo | Vintage sunny background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/vintage-sunny-background_548832-15414.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunny Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/bokeh-bubbles-sun-flash-blue-background_1182-1755.jpg' alt='Sunny Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/bokeh-bubbles-sun-flash-blue-background_1182-1755.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunny Background" Images – Browse 8,955 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/09/16/28/13/360_F_916281326_5hWWVQ2AYHuJYbBIWFTaglIajbHvlRD9.jpg' alt='Sunny Background" Images – Browse 8,955 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/09/16/28/13/360_F_916281326_5hWWVQ2AYHuJYbBIWFTaglIajbHvlRD9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunny Landscape Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/044/173/747/small/clear-sky-sunny-weather-green-grass-beautiful-landscape-photo.jpeg' alt='Sunny Landscape Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/044/173/747/small/clear-sky-sunny-weather-green-grass-beautiful-landscape-photo.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sticker sunny background">
+                                <img itemprop="contentUrl url" src='https://img.pixers.pics/pho_wat(s3:700/FO/53/75/75/47/700_FO53757547_24e83ed685426986b897ce94b574fa9e.jpg,700,700,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,650,jpg)/stickers-sunny-background.jpg.jpg' alt='Sticker sunny background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixers" />
+                                </span>
+                                <a href='https://img.pixers.pics/pho_wat(s3:700/FO/53/75/75/47/700_FO53757547_24e83ed685426986b897ce94b574fa9e.jpg,700,700,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,650,jpg)/stickers-sunny-background.jpg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

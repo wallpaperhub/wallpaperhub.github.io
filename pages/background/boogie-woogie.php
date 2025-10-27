@@ -1,0 +1,129 @@
+<title>Experience the Rhythm of Boogie Woogie!</title>
+                    <meta name="description" content="Dive into the energetic world of boogie woogie music! Celebrated for its infectious rhythms and improvisational flair, this genre offers a vibrant blend of jazz and blues. Perfect for dancing and elevating your mood, boogie woogie promises to get your feet tapping and your spirits soaring!">
+                    <meta name="keywords" content="boogie woogie">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/boogie-woogie">
+                            <span itemprop="name">boogie woogie</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Experience the Rhythm of Boogie Woogie!</h1>
+                <p>Boogie woogie is a lively and energetic style of piano-based music characterized by its upbeat tempo and rhythmic variations. It emerged in the early 20th century, blending jazz and blues influences. Known for its improvisation, boogie woogie invites creativity, making it a favorite in dance halls and jazz clubs. Experience the thrill of its contagious beats!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broadway Boogie Woogie - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/3/30/Piet_Mondrian%2C_1942_-_Broadway_Boogie_Woogie.jpg' alt='Broadway Boogie Woogie - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4104">
+                                <meta itemprop="height" content="4111">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/3/30/Piet_Mondrian%2C_1942_-_Broadway_Boogie_Woogie.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boogie Woogie – Originalpeople.org">
+                                <img itemprop="contentUrl url" src='https://originalpeople.org/wp-content/uploads/2024/04/7261e9937b7f49888b77ba14a8ebfb61.jpg' alt='Boogie Woogie – Originalpeople.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Originalpeople.org" />
+                                </span>
+                                <a href='https://originalpeople.org/wp-content/uploads/2024/04/7261e9937b7f49888b77ba14a8ebfb61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boogie Woogie - Encyclopedia of DanceSport">
+                                <img itemprop="contentUrl url" src='https://www.wikidancesport.com/Attachments/dances/BoogieWoogie/111.jpg' alt='Boogie Woogie - Encyclopedia of DanceSport'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1046">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WikiDanceSport" />
+                                </span>
+                                <a href='https://www.wikidancesport.com/Attachments/dances/BoogieWoogie/111.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boogie Woogie - Compilation by Various Artists | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab67616d0000b27353a5a289a1d550ef297c6489' alt='Boogie Woogie - Compilation by Various Artists | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab67616d0000b27353a5a289a1d550ef297c6489' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Victory Boogie-Woogie, 1944 by Piet Mondrian">
+                                <img itemprop="contentUrl url" src='https://www.piet-mondrian.org/assets/img/paintings/victory-boogie-woogie.jpg' alt='Victory Boogie-Woogie, 1944 by Piet Mondrian'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Piet Mondrian" />
+                                </span>
+                                <a href='https://www.piet-mondrian.org/assets/img/paintings/victory-boogie-woogie.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BREAKING NEWS: *** This Sunday, Boogie Woogie Man Rob McBride will ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3430097691575242302' alt='BREAKING NEWS: *** This Sunday, Boogie Woogie Man Rob McBride will ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3430097691575242302' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boogie Woogie Competition WILD | Rock That Swing 2016">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Bx743aah7o8/maxresdefault.jpg' alt='Boogie Woogie Competition WILD | Rock That Swing 2016'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Bx743aah7o8/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boogie Woogie Bugle Boy - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/5/57/Boogie_Woogie_Bugle_Boy_-_The_Andrews_Sisters.jpg' alt='Boogie Woogie Bugle Boy - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="316">
+                                <meta itemprop="height" content="316">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/5/57/Boogie_Woogie_Bugle_Boy_-_The_Andrews_Sisters.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boogie Woogie / Various">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/917l+AwFtiL._UF1000,1000_QL80_.jpg' alt='Boogie Woogie / Various'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="984">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/917l+AwFtiL._UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is there a coherent story in "Boogie-Woogie Bugle Boy"?">
+                                <img itemprop="contentUrl url" src='https://www.debisimons.com/wp-content/uploads/2015/03/365867447.jpg' alt='Is there a coherent story in "Boogie-Woogie Bugle Boy"?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="253">
+                                <meta itemprop="height" content="318">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="debisimons" />
+                                </span>
+                                <a href='https://www.debisimons.com/wp-content/uploads/2015/03/365867447.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Vibrant Star Burst Wallpaper for Dynamic Spaces</title>
+                    <meta name="description" content="Discover the lively charm of star burst wallpaper, perfect for transforming any room! Its radiant designs bring energy and style to your walls, making your space uniquely yours. Ideal for modern decor enthusiasts looking to make a bold statement without overwhelming the space. Elevate your home aesthetic today!">
+                    <meta name="keywords" content="star burst wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star">
+                            <span itemprop="name">Star</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star/star-burst-wallpaper">
+                            <span itemprop="name">star burst wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Star Burst Wallpaper for Dynamic Spaces</h1>
+                <p>Star burst wallpaper adds a vibrant and dynamic touch to your walls, perfect for any modern space. This eye-catching design features radiant patterns that burst with color, creating a sense of movement and energy. Ideal for living rooms, bedrooms, or creative spaces, star burst wallpaper effortlessly elevates your decor while reflecting your unique style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Century Starburst Wallpaper">
+                                <img itemprop="contentUrl url" src='https://static.basicinvite.com/media/bi/33996/century-starburst-wallpaper-2x.jpg?q=1739234066' alt='Century Starburst Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love vs. Design" />
+                                </span>
+                                <a href='https://static.basicinvite.com/media/bi/33996/century-starburst-wallpaper-2x.jpg?q=1739234066' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Abstract wallpaper background with starburst design">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/abstract-wallpaper-background-with-starburst-design_1048-17779.jpg' alt='Premium Photo | Abstract wallpaper background with starburst design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="508">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/abstract-wallpaper-background-with-starburst-design_1048-17779.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper | Geometric Wallpaper | Abstract Wallpaper | Starburst ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/19440758/r/il/723693/3680533271/il_570xN.3680533271_dsz2.jpg' alt='Wallpaper | Geometric Wallpaper | Abstract Wallpaper | Starburst ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/19440758/r/il/723693/3680533271/il_570xN.3680533271_dsz2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starburst, Light Blue — Kristen Leigh Studio">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5f172e04a453086b6171da36/1617292220253-ZUMYMAEGFVQHOPN3R9RU/Starburst+light+blue+wallpaper+mock-up.jpg?format=1000w' alt='Starburst, Light Blue — Kristen Leigh Studio'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kristen Leigh Studio" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5f172e04a453086b6171da36/1617292220253-ZUMYMAEGFVQHOPN3R9RU/Starburst+light+blue+wallpaper+mock-up.jpg?format=1000w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow starburst retro background design. Abstract ray wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/05/20/55/01/1000_F_520550101_yOwrG7WMmBIASa4uFQZoQeL3tATsmpNf.jpg' alt='Yellow starburst retro background design. Abstract ray wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="537">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/05/20/55/01/1000_F_520550101_yOwrG7WMmBIASa4uFQZoQeL3tATsmpNf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glow light effect. Star burst with sparkles. Lens Flare wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/01/43/82/41/1000_F_143824184_gj6bdCHFuKzTX7J5bHYCcxHraRgo3EVa.jpg' alt='Glow light effect. Star burst with sparkles. Lens Flare wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/01/43/82/41/1000_F_143824184_gj6bdCHFuKzTX7J5bHYCcxHraRgo3EVa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starburst – Chasing Paper">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0205/1280/t/24/assets/cf668bec5029--CP-PDP-Wallpaper-starburst-tile-carousel-2-min-db1096.jpg?v=1591100557' alt='Starburst – Chasing Paper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chasing Paper" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0205/1280/t/24/assets/cf668bec5029--CP-PDP-Wallpaper-starburst-tile-carousel-2-min-db1096.jpg?v=1591100557' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Celestial Peel and Stick Wallpaper, Removable Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/6062353/r/il/c4032d/4103334158/il_fullxfull.4103334158_go7u.jpg' alt='Custom Celestial Peel and Stick Wallpaper, Removable Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/6062353/r/il/c4032d/4103334158/il_fullxfull.4103334158_go7u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Burst Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210715/original/pngtree-star-burst-colorful-dynamic-line-background-picture-image_1310116.jpg' alt='Star Burst Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="857">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210715/original/pngtree-star-burst-colorful-dynamic-line-background-picture-image_1310116.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Starburst Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/starburst-background-ufm2bpmlhe84ryzh.jpg' alt='100+] Starburst Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/starburst-background-ufm2bpmlhe84ryzh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

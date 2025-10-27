@@ -1,0 +1,129 @@
+<title>DUI Court Supervision: What You Need to Know About Background Checks</title>
+                    <meta name="description" content="Navigate DUI court supervision and understand its effect on background checks. Learn how these checks influence your criminal record and opportunities while under supervision. Stay informed to manage your future effectively after a DUI. Discover essential insights for your peace of mind.">
+                    <meta name="keywords" content="dui court supervision background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dui-court-supervision-background-check">
+                            <span itemprop="name">dui court supervision background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>DUI Court Supervision: What You Need to Know About Background Checks</h1>
+                <p>When facing DUI court supervision, it's vital to understand how background checks may affect your record. Supervision can lead to reduced penalties, but it often involves thorough reviews of your criminal history. If you’re seeking employment or housing, being aware of how these checks work can help you prepare for potential impacts on your future.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Checks with a DWI - Texas Criminal Defense Group">
+                                <img itemprop="contentUrl url" src='https://texascriminaldefensegroup.com/wp-content/uploads/2023/06/Background-Checks-with-a-DWI-1.png' alt='Background Checks with a DWI - Texas Criminal Defense Group'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="940">
+                                <meta itemprop="height" content="788">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Texas Criminal Defense Group" />
+                                </span>
+                                <a href='https://texascriminaldefensegroup.com/wp-content/uploads/2023/06/Background-Checks-with-a-DWI-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will You Pass a Background Check with a Misdemeanor?">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/law-media/uploads/1814/255338/large/background-check-2.jpg?1696263988' alt='Will You Pass a Background Check with a Misdemeanor?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eisner Gorin LLP" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/law-media/uploads/1814/255338/large/background-check-2.jpg?1696263988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will Your DUI Show Up on Your Background Check">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/D5612AQF9tovUo9cPEw/article-cover_image-shrink_720_1280/B56ZTmBDuGGsAI-/0/1739025826161?e=2147483647&v=beta&t=8tDKuZBDPndhAtUgznt1uVcOFXaN_-ELvw7gTz_5G3s' alt='Will Your DUI Show Up on Your Background Check'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="719">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/D5612AQF9tovUo9cPEw/article-cover_image-shrink_720_1280/B56ZTmBDuGGsAI-/0/1739025826161?e=2147483647&v=beta&t=8tDKuZBDPndhAtUgznt1uVcOFXaN_-ELvw7gTz_5G3s' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Long Does A DUI Stay On Your Record In Pennsylvania | McKenzie Law">
+                                <img itemprop="contentUrl url" src='https://www.davidmckenzielawfirm.com/wp-content/uploads/2017/04/Driving-Under-the-Influence-Record-scaled.jpeg' alt='How Long Does A DUI Stay On Your Record In Pennsylvania | McKenzie Law'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="McKenzie Law Firm, P.C." />
+                                </span>
+                                <a href='https://www.davidmckenzielawfirm.com/wp-content/uploads/2017/04/Driving-Under-the-Influence-Record-scaled.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DUIs & Background Checks: What It Means For Employment | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/1c6d68f1f96b542267a79114c0f64024/e2d37/dashboard-illustration.png' alt='DUIs & Background Checks: What It Means For Employment | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="618">
+                                <meta itemprop="height" content="399">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/1c6d68f1f96b542267a79114c0f64024/e2d37/dashboard-illustration.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Criminal Background Checks">
+                                <img itemprop="contentUrl url" src='https://www.backgroundchecks.com/hs-fs/hubfs/Criminal-Background-Check-optimized.jpg?width=420&name=Criminal-Background-Check-optimized.jpg' alt='Criminal Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="420">
+                                <meta itemprop="height" content="279">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BackgroundChecks.com" />
+                                </span>
+                                <a href='https://www.backgroundchecks.com/hs-fs/hubfs/Criminal-Background-Check-optimized.jpg?width=420&name=Criminal-Background-Check-optimized.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Long Does a DUI Remain on Your Record?">
+                                <img itemprop="contentUrl url" src='https://cdn.lawlytics.com/law-media/uploads/1814/247437/large/background-check.jpg?1691770933' alt='How Long Does a DUI Remain on Your Record?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eisner Gorin LLP" />
+                                </span>
+                                <a href='https://cdn.lawlytics.com/law-media/uploads/1814/247437/large/background-check.jpg?1691770933' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Long Does A DUI Stay On Your Record In Illinois?">
+                                <img itemprop="contentUrl url" src='https://cfw51.rabbitloader.xyz/eyJjIjp0cnVlLCJoIjoiZG9obWFubGF3LmNvbSIsInYiOjM3NzQ3OTM0NjAsInIiOjEsImkiOiIyY2QzMTZkNy1mZTYxLTQ1MjEtYzQ5Ny02ZDI3ZGI4ODg3MDAifQ/wp-content/uploads/2021/07/dui-stay-on-record-1.jpg' alt='How Long Does A DUI Stay On Your Record In Illinois?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dohman Law Group" />
+                                </span>
+                                <a href='https://cfw51.rabbitloader.xyz/eyJjIjp0cnVlLCJoIjoiZG9obWFubGF3LmNvbSIsInYiOjM3NzQ3OTM0NjAsInIiOjEsImkiOiIyY2QzMTZkNy1mZTYxLTQ1MjEtYzQ5Ny02ZDI3ZGI4ODg3MDAifQ/wp-content/uploads/2021/07/dui-stay-on-record-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DUI Court Program: An In-Depth Exploration Of Orange County's ...">
+                                <img itemprop="contentUrl url" src='https://vulawoffice.com/wp-content/uploads/2023/10/DUI-Court-Agreement-1.jpg' alt='DUI Court Program: An In-Depth Exploration Of Orange County's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="821">
+                                <meta itemprop="height" content="953">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Law Office of Hieu Vu" />
+                                </span>
+                                <a href='https://vulawoffice.com/wp-content/uploads/2023/10/DUI-Court-Agreement-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Will a court supervision for a DUI show up on a background check ...">
+                                <img itemprop="contentUrl url" src='https://images.avvo.com/avvo/ugc/images/head_shot/standard/lawyer_harold_wallin_1043600_1698687190.jpg' alt='Will a court supervision for a DUI show up on a background check ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="168">
+                                <meta itemprop="height" content="224">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Avvo.com" />
+                                </span>
+                                <a href='https://images.avvo.com/avvo/ugc/images/head_shot/standard/lawyer_harold_wallin_1043600_1698687190.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

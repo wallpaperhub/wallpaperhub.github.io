@@ -1,0 +1,129 @@
+<title>"Rick Roll Image: The Classic Internet Prank"</title>
+                    <meta name="description" content="Discover the iconic Rick Roll image that has become a beloved internet prank. Perfect for sharing and bringing laughter, this classic meme features Rick Astley’s memorable 1987 hit. Join the fun and learn how to creatively use this image in your own online antics!">
+                    <meta name="keywords" content="rick roll image">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rick-roll-image">
+                            <span itemprop="name">rick roll image</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Rick Roll Image: The Classic Internet Prank"</h1>
+                <p>A "Rick Roll" image typically features Rick Astley’s iconic 1987 hit "Never Gonna Give You Up." This playful meme involves tricking someone into clicking a seemingly irrelevant link, only to be greeted by Astley's music video. The image captures his retro style, making it a humorous and light-hearted internet prank that never gets old!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Famous Rickroll Incidents | Rickroll Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/dqw4w9wgxcq/images/0/08/Site-background-dark/revision/latest/scale-to-width-down/1400?cb=20220428173233' alt='Famous Rickroll Incidents | Rickroll Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rickroll Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/dqw4w9wgxcq/images/0/08/Site-background-dark/revision/latest/scale-to-width-down/1400?cb=20220428173233' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="You can now 'rickroll' your friends in HD with a remastered ...">
+                                <img itemprop="contentUrl url" src='https://s.yimg.com/ny/api/res/1.2/Onq1adoghZAHhpsXXmF8Pw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD05MzE-/https://media.zenfs.com/en/insider_articles_922/c6ce8d0b9a7b28f9c2dee8171da98b8f' alt='You can now 'rickroll' your friends in HD with a remastered ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="931">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yahoo" />
+                                </span>
+                                <a href='https://s.yimg.com/ny/api/res/1.2/Onq1adoghZAHhpsXXmF8Pw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD05MzE-/https://media.zenfs.com/en/insider_articles_922/c6ce8d0b9a7b28f9c2dee8171da98b8f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rick Astley - Never Gonna Give You Up (Official Music Video)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/dQw4w9WgXcQ/maxresdefault.jpg' alt='Rick Astley - Never Gonna Give You Up (Official Music Video)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/dQw4w9WgXcQ/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rick Astley Rick Roll Sticker – Rick Astley Rick Roll You Got Rick ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/86/00/06/8600060fcd0aa514e645bd5d06a401a3.gif' alt='Rick Astley Rick Roll Sticker – Rick Astley Rick Roll You Got Rick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/86/00/06/8600060fcd0aa514e645bd5d06a401a3.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rick Astley 'Never Gonna Give You Up' Tops 1 Billion YouTube Views">
+                                <img itemprop="contentUrl url" src='https://variety.com/wp-content/uploads/2021/07/Rick-Astley-Never-Gonna-Give-You-Up.png?w=1000&h=563&crop=1' alt='Rick Astley 'Never Gonna Give You Up' Tops 1 Billion YouTube Views'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Variety" />
+                                </span>
+                                <a href='https://variety.com/wp-content/uploads/2021/07/Rick-Astley-Never-Gonna-Give-You-Up.png?w=1000&h=563&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rickroll Grad Prank Exposes Exterity IPTV Bug | Threatpost">
+                                <img itemprop="contentUrl url" src='https://media.threatpost.com/wp-content/uploads/sites/103/2021/10/14162918/rickroll-e1634243370645.jpg' alt='Rickroll Grad Prank Exposes Exterity IPTV Bug | Threatpost'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Threatpost" />
+                                </span>
+                                <a href='https://media.threatpost.com/wp-content/uploads/sites/103/2021/10/14162918/rickroll-e1634243370645.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="  ️ The Great Rickroller | Rickroll your friends! - The Gallery ...">
+                                <img itemprop="contentUrl url" src='https://c.tenor.com/_4YgA77ExHEAAAAd/rick-roll.gif' alt='  ️ The Great Rickroller | Rickroll your friends! - The Gallery ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Glitch Community Forum" />
+                                </span>
+                                <a href='https://c.tenor.com/_4YgA77ExHEAAAAd/rick-roll.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="That time I secretly rick-rolled a quarter million people | by ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:2000/1*zwUCapFGHln9VKG-LSvWlw.jpeg' alt='That time I secretly rick-rolled a quarter million people | by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="731">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:2000/1*zwUCapFGHln9VKG-LSvWlw.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rickroll GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/jmQbkMc1iiQAAAAM/rickroll-roll.gif' alt='Rickroll GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/jmQbkMc1iiQAAAAM/rickroll-roll.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My oldest kids pranked me by switching the background on my search ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3382303239084298862' alt='My oldest kids pranked me by switching the background on my search ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3382303239084298862' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

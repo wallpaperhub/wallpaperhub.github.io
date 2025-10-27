@@ -1,0 +1,129 @@
+<title>Explore the Colorful World of Daniel Tiger</title>
+                    <meta name="description" content="Discover the enchanting background of Daniel Tiger's Neighborhood, where children learn vital social skills through engaging stories and songs. Join Daniel and friends in a fun, educational journey perfect for preschoolers! Explore themes of kindness, friendship, and emotional growth today!">
+                    <meta name="keywords" content="daniel tiger background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/daniel-tiger-background">
+                            <span itemprop="name">daniel tiger background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Colorful World of Daniel Tiger</h1>
+                <p>Daniel Tiger's Neighborhood is an animated children's series inspired by "Mister Rogers' Neighborhood." It features Daniel Tiger, a young tiger who navigates social and emotional skills in a vibrant, friendly world. With catchy songs and relatable stories, the show engages preschoolers while teaching valuable life lessons.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PBS KIDS Backgrounds for Your Next Video Chat… | PBS KIDS for Parents">
+                                <img itemprop="contentUrl url" src='https://cms-tc.pbskids.org/parents/zoom/PBS-KIDS_Video-Chat-Background_DANIEL-TIGER_S-NEIGHBORHOOD-2.jpg?mtime=20200504171339' alt='PBS KIDS Backgrounds for Your Next Video Chat… | PBS KIDS for Parents'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PBS" />
+                                </span>
+                                <a href='https://cms-tc.pbskids.org/parents/zoom/PBS-KIDS_Video-Chat-Background_DANIEL-TIGER_S-NEIGHBORHOOD-2.jpg?mtime=20200504171339' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Daniel Tiger's Neighbourhood | Shows | CBC Gem">
+                                <img itemprop="contentUrl url" src='https://images.gem.cbc.ca/v1/synps-cbc/show/perso/cbc_daniel_tigers_neighbourhood_ott_background_v03.jpg?impolicy=ott&im=Resize=(_Size_)&quality=75' alt='Daniel Tiger's Neighbourhood | Shows | CBC Gem'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CBC Gem" />
+                                </span>
+                                <a href='https://images.gem.cbc.ca/v1/synps-cbc/show/perso/cbc_daniel_tigers_neighbourhood_ott_background_v03.jpg?impolicy=ott&im=Resize=(_Size_)&quality=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PBS KIDS Backgrounds for Your Next Video Chat… | PBS KIDS for Parents">
+                                <img itemprop="contentUrl url" src='https://cms-tc.pbskids.org/parents/zoom/PBS-KIDS_Video-Chat-Background_DANIEL-TIGER_S-NEIGHBORHOOD-4.jpg?mtime=20200504171337' alt='PBS KIDS Backgrounds for Your Next Video Chat… | PBS KIDS for Parents'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PBS" />
+                                </span>
+                                <a href='https://cms-tc.pbskids.org/parents/zoom/PBS-KIDS_Video-Chat-Background_DANIEL-TIGER_S-NEIGHBORHOOD-4.jpg?mtime=20200504171337' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Daniel Tiger Meet & Greet - Alaska State Fair">
+                                <img itemprop="contentUrl url" src='https://www.alaskastatefair.org/site/wp-content/uploads/2017/07/daniel-tiger-BANNER.jpg' alt='Daniel Tiger Meet & Greet - Alaska State Fair'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1140">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alaska State Fair" />
+                                </span>
+                                <a href='https://www.alaskastatefair.org/site/wp-content/uploads/2017/07/daniel-tiger-BANNER.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Daniel Tiger Coloring Contest | Hult Center">
+                                <img itemprop="contentUrl url" src='https://hult-center-assets.s3.amazonaws.com/uploads/2022/02/Tiger-Contest-2100x700-1-1800x600.jpg' alt='Daniel Tiger Coloring Contest | Hult Center'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hult Center" />
+                                </span>
+                                <a href='https://hult-center-assets.s3.amazonaws.com/uploads/2022/02/Tiger-Contest-2100x700-1-1800x600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c1/6e/14/c16e14dafd9714d0215cd6534c347841.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c1/6e/14/c16e14dafd9714d0215cd6534c347841.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Daniel Tiger's Neighborhood">
+                                <img itemprop="contentUrl url" src='http://bigbigbee.com/cdn/shop/products/IBB170.jpg?v=1671783960' alt='Daniel Tiger's Neighborhood'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="793">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BigBigBee Party Sign" />
+                                </span>
+                                <a href='http://bigbigbee.com/cdn/shop/products/IBB170.jpg?v=1671783960' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WTF is a picture of Daniel doing on the front of his house? : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/wtf-is-a-picture-of-daniel-doing-on-the-front-of-his-house-v0-vydm5ncr2thb1.jpg?auto=webp&s=7bc6747fac455c3cfc3210f6f476b71fbbd1fc0e' alt='WTF is a picture of Daniel doing on the front of his house? : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/wtf-is-a-picture-of-daniel-doing-on-the-front-of-his-house-v0-vydm5ncr2thb1.jpg?auto=webp&s=7bc6747fac455c3cfc3210f6f476b71fbbd1fc0e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Daniel Tiger | Daniel Tiger's Neighborhood Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/danieltigerneighborhood/images/a/a9/Daniel_Tiger.JPEG/revision/latest?cb=20120907154123' alt='Daniel Tiger | Daniel Tiger's Neighborhood Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="672">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Daniel Tiger's Neighborhood Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/danieltigerneighborhood/images/a/a9/Daniel_Tiger.JPEG/revision/latest?cb=20120907154123' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Daniel Tiger's Neighborhood LIVE!: King For A Day | bergenPAC">
+                                <img itemprop="contentUrl url" src='https://www.bergenpac.org/assets/img/DanielTiger840-bf34687ba0.jpg' alt='Daniel Tiger's Neighborhood LIVE!: King For A Day | bergenPAC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="840">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="bergenPAC" />
+                                </span>
+                                <a href='https://www.bergenpac.org/assets/img/DanielTiger840-bf34687ba0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

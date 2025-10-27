@@ -1,0 +1,129 @@
+<title>University of Arizona Zoom Backgrounds: Show Your School Spirit</title>
+                    <meta name="description" content="Discover the perfect University of Arizona Zoom backgrounds to express your school spirit! Ideal for students and alumni, these vibrant images will make your virtual meetings more engaging and personal. Download your favorite backdrop today and elevate your online presence!">
+                    <meta name="keywords" content="university of arizona zoom background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/university-of-arizona-zoom-background">
+                            <span itemprop="name">university of arizona zoom background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>University of Arizona Zoom Backgrounds: Show Your School Spirit</h1>
+                <p>Enhance your virtual meetings with a University of Arizona-themed Zoom background! Showcase your school pride with stunning images of iconic campus landmarks, like the Old Main and the union. Perfect for students, alumni, or fans, these digital backgrounds will help you stand out while working remotely or attending classes.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arizona Alumni - Looking for Zoom virtual backgrounds that show ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10157443482404335' alt='Arizona Alumni - Looking for Zoom virtual backgrounds that show ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10157443482404335' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="University of Arizona Downloadable Swag">
+                                <img itemprop="contentUrl url" src='https://spirit.arizona.edu/downloads/files/digital/Swag_DesktopBackground1.jpg' alt='University of Arizona Downloadable Swag'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The University of Arizona" />
+                                </span>
+                                <a href='https://spirit.arizona.edu/downloads/files/digital/Swag_DesktopBackground1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arizona Law Virtual Backgrounds | University of Arizona Law">
+                                <img itemprop="contentUrl url" src='https://law.arizona.edu/sites/default/files/styles/az_large/public/UArizonaLaw_AZwildcat.png.webp?itok=PoFc0_7u' alt='Arizona Law Virtual Backgrounds | University of Arizona Law'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1140">
+                                <meta itemprop="height" content="641">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Arizona's Law School - The University of Arizona" />
+                                </span>
+                                <a href='https://law.arizona.edu/sites/default/files/styles/az_large/public/UArizonaLaw_AZwildcat.png.webp?itok=PoFc0_7u' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="University of Arizona Downloadable Swag">
+                                <img itemprop="contentUrl url" src='https://spirit.arizona.edu/downloads/thumbs/Swag_DesktopBackground3.jpg' alt='University of Arizona Downloadable Swag'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="711">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The University of Arizona" />
+                                </span>
+                                <a href='https://spirit.arizona.edu/downloads/thumbs/Swag_DesktopBackground3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arizona Athletics on X: "Looking to add some flavor to your ZOOM ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/ETzrD31VAAEsdUS.jpg:large' alt='Arizona Athletics on X: "Looking to add some flavor to your ZOOM ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/ETzrD31VAAEsdUS.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="University of Arizona Downloadable Swag">
+                                <img itemprop="contentUrl url" src='https://spirit.arizona.edu/downloads/thumbs/Swag_DesktopBackground2.jpg' alt='University of Arizona Downloadable Swag'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="711">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The University of Arizona" />
+                                </span>
+                                <a href='https://spirit.arizona.edu/downloads/thumbs/Swag_DesktopBackground2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="UAZ Engineering على X: "Tired of your living room couch  ️ being ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/Edo6AzDVoAAkMSU.jpg:large' alt='UAZ Engineering على X: "Tired of your living room couch  ️ being ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/Edo6AzDVoAAkMSU.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] University Of Arizona Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/university-of-arizona-roofs-fqzosg5qw3dzgjjf.jpg' alt='100+] University Of Arizona Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1592">
+                                <meta itemprop="height" content="682">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/university-of-arizona-roofs-fqzosg5qw3dzgjjf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] University Of Arizona Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/university-of-arizona-balcony-2sudw0phntmd4t4w.jpg' alt='100+] University Of Arizona Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/university-of-arizona-balcony-2sudw0phntmd4t4w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arizona Athletics on X: "Looking to add some flavor to your ZOOM ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/ETzrD33UYAAZ-J4.jpg' alt='Arizona Athletics on X: "Looking to add some flavor to your ZOOM ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/ETzrD33UYAAZ-J4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

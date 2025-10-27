@@ -1,0 +1,129 @@
+<title>Bright & Cheerful: Yellow & White Background Ideas</title>
+                    <meta name="description" content="Discover the vibrant appeal of a yellow and white background! Perfect for design and decor, this lively color combination brightens any space while evoking creativity and positivity. Explore ideas and inspiration to elevate your projects with this fresh aesthetic. Perfect for mobile viewing!">
+                    <meta name="keywords" content="yellow and white background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/yellow-and-white-background">
+                            <span itemprop="name">yellow and white background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Bright & Cheerful: Yellow & White Background Ideas</h1>
+                <p>A yellow and white background creates a lively and fresh atmosphere, perfect for brightening up any space. The combination of cheerful yellow and calm white can inspire creativity and enhance mood. Ideal for graphic design, websites, or home decor, this color pairing is versatile and eye-catching, making it a popular choice for modern aesthetics.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow White Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/modern-soft-yellow-watercolor-background-design_1055-8911.jpg' alt='Yellow White Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="470">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/modern-soft-yellow-watercolor-background-design_1055-8911.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow White Gradient Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/vivid-blurred-colorful-wallpaper-background_58702-3697.jpg' alt='Yellow White Gradient Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/vivid-blurred-colorful-wallpaper-background_58702-3697.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow and White Background Vector Images (over 1.4 million)">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/500p/47/26/abstract-yellow-and-white-grunge-texture-vector-55084726.jpg' alt='Yellow and White Background Vector Images (over 1.4 million)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="875">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/500p/47/26/abstract-yellow-and-white-grunge-texture-vector-55084726.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poster, Print Abstract Yellow White Wave Background Design with Empty Space  for Text Template, 40x26.7 cm">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/v2/jpg/03/32/15/48/1000_F_332154808_kVLeUjTwE7srfqi0FYrULidLnQ4KqBEQ.jpg' alt='Poster, Print Abstract Yellow White Wave Background Design with Empty Space  for Text Template, 40x26.7 cm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abposters.com" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/v2/jpg/03/32/15/48/1000_F_332154808_kVLeUjTwE7srfqi0FYrULidLnQ4KqBEQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow White Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/018/033/143/small/abstract-soft-yellow-watercolor-background-creative-yellow-clouds-and-white-shades-hand-drawn-texture-watercolor-paper-textured-aquarelle-canvas-for-modern-creative-design-wash-aqua-vector.jpg' alt='Yellow White Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/018/033/143/small/abstract-soft-yellow-watercolor-background-creative-yellow-clouds-and-white-shades-hand-drawn-texture-watercolor-paper-textured-aquarelle-canvas-for-modern-creative-design-wash-aqua-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="16,893,792 Background Yellow White Royalty-Free Images, Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/abstract-pentagon-background-technology-science-260nw-2278441519.jpg' alt='16,893,792 Background Yellow White Royalty-Free Images, Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="433">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/abstract-pentagon-background-technology-science-260nw-2278441519.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soft Yellow Background Images – Browse 2,177,176 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/06/44/96/59/360_F_644965993_CShenGPM4bi0UfgZUMeWI1rhpHwOHzcC.jpg' alt='Soft Yellow Background Images – Browse 2,177,176 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/06/44/96/59/360_F_644965993_CShenGPM4bi0UfgZUMeWI1rhpHwOHzcC.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow White Background Stock Photos, Images and Backgrounds for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/013/227/534/small/background-wallpaper-animated-light-and-color-images-of-yellow-white-orange-and-gray-photo.jpg' alt='Yellow White Background Stock Photos, Images and Backgrounds for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="355">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/013/227/534/small/background-wallpaper-animated-light-and-color-images-of-yellow-white-orange-and-gray-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow & white background Stock Vector by ©kritchanut 69670305">
+                                <img itemprop="contentUrl url" src='https://st2.depositphotos.com/2101611/6967/v/950/depositphotos_69670305-stock-illustration-yellow-white-background.jpg' alt='Yellow & white background Stock Vector by ©kritchanut 69670305'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://st2.depositphotos.com/2101611/6967/v/950/depositphotos_69670305-stock-illustration-yellow-white-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow White Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/abstract-yellow-triangle-low-poly-background_1017-33836.jpg' alt='Yellow White Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="357">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/abstract-yellow-triangle-low-poly-background_1017-33836.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

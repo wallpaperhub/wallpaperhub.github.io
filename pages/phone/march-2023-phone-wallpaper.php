@@ -1,0 +1,129 @@
+<title>Trendy March 2023 Phone Wallpapers: Refresh Your Screen</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="march 2023 phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/march-2023-phone-wallpaper">
+                            <span itemprop="name">march 2023 phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Trendy March 2023 Phone Wallpapers: Refresh Your Screen</h1>
+                <p>March 2023 phone wallpaper trends feature vibrant designs and refreshing themes to invigorate your screen. Whether you prefer nature-inspired art, minimalist patterns, or motivational quotes, there's something for everyone. Explore unique wallpapers that reflect your style and personality this month, perfect for a fresh start!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="March 2023 Desktop Wallpaper Calendar - CalendarLabs">
+                                <img itemprop="contentUrl url" src='https://www.calendarlabs.com/wallpaper/monthly-wallpaper/03-2023/march-2023-wallpaper-calendar-cute-glitter-360x800.jpg' alt='March 2023 Desktop Wallpaper Calendar - CalendarLabs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="3333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Calendar Labs" />
+                                </span>
+                                <a href='https://www.calendarlabs.com/wallpaper/monthly-wallpaper/03-2023/march-2023-wallpaper-calendar-cute-glitter-360x800.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="March 2023 wallpapers – 55 FREEBIES for desktop & phones!">
+                                <img itemprop="contentUrl url" src='https://www.ohsolovelyblog.com/wp-content/uploads/2023/01/March-2023-wallpapers-OhSoLovelyBlog.com-SundayStart2.jpg' alt='March 2023 wallpapers – 55 FREEBIES for desktop & phones!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oh So Lovely Blog" />
+                                </span>
+                                <a href='https://www.ohsolovelyblog.com/wp-content/uploads/2023/01/March-2023-wallpapers-OhSoLovelyBlog.com-SundayStart2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free March 2023 Wallpaper & Instagram quote">
+                                <img itemprop="contentUrl url" src='https://www.designerblogs.com/wp-content/uploads/2023/02/free-march-2023-wallpaper-designerblogs.png' alt='Free March 2023 Wallpaper & Instagram quote'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="753">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Designer Blogs" />
+                                </span>
+                                <a href='https://www.designerblogs.com/wp-content/uploads/2023/02/free-march-2023-wallpaper-designerblogs.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="March 2023 Desktop Wallpaper Calendar - CalendarLabs">
+                                <img itemprop="contentUrl url" src='https://www.calendarlabs.com/wallpaper/monthly-wallpaper/03-2023/march-2023-wallpaper-calendar-patricks-day-390x844.jpg' alt='March 2023 Desktop Wallpaper Calendar - CalendarLabs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1625">
+                                <meta itemprop="height" content="3517">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Calendar Labs" />
+                                </span>
+                                <a href='https://www.calendarlabs.com/wallpaper/monthly-wallpaper/03-2023/march-2023-wallpaper-calendar-patricks-day-390x844.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="March 2023 Calendar Wallpaper - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5a/1d/17/5a1d17c78fe2f945013db5257523a30f.jpg' alt='March 2023 Calendar Wallpaper - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5a/1d/17/5a1d17c78fe2f945013db5257523a30f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="March 2023 wallpapers – 55 FREEBIES for desktop & phones!">
+                                <img itemprop="contentUrl url" src='https://www.ohsolovelyblog.com/wp-content/uploads/2023/01/March-2023-wallpapers-OhSoLovelyBlog.com-SundayStart4.jpg' alt='March 2023 wallpapers – 55 FREEBIES for desktop & phones!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oh So Lovely Blog" />
+                                </span>
+                                <a href='https://www.ohsolovelyblog.com/wp-content/uploads/2023/01/March-2023-wallpapers-OhSoLovelyBlog.com-SundayStart4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free March 2023 Wallpaper & Instagram quote">
+                                <img itemprop="contentUrl url" src='https://www.designerblogs.com/wp-content/uploads/2023/02/march-2023-wallpaper-phone-preview.png' alt='Free March 2023 Wallpaper & Instagram quote'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="562">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Designer Blogs" />
+                                </span>
+                                <a href='https://www.designerblogs.com/wp-content/uploads/2023/02/march-2023-wallpaper-phone-preview.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="March 2023 - Hello March! Desktop Calendar- Free March Wallpaper">
+                                <img itemprop="contentUrl url" src='https://media.swncdn.com/via/images/2023/02/17/29527/29527-hello-march-1280x1024_source_file.png' alt='March 2023 - Hello March! Desktop Calendar- Free March Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Crosscards.com" />
+                                </span>
+                                <a href='https://media.swncdn.com/via/images/2023/02/17/29527/29527-hello-march-1280x1024_source_file.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="March 2023 Wallpaper for iPhone and Desktop Organizer">
+                                <img itemprop="contentUrl url" src='https://www.jennifersquires.ca/blog/wp-content/uploads/2023/02/march-2023-iphone-wallpaper-with-phone.jpg' alt='March 2023 Wallpaper for iPhone and Desktop Organizer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="934">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jennifer Squires Productions" />
+                                </span>
+                                <a href='https://www.jennifersquires.ca/blog/wp-content/uploads/2023/02/march-2023-iphone-wallpaper-with-phone.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="March 2023 Calendar Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11848647.jpg' alt='March 2023 Calendar Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="791">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11848647.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

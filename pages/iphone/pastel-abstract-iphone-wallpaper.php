@@ -1,0 +1,129 @@
+<title>Stunning Pastel Abstract iPhone Wallpaper</title>
+                    <meta name="description" content="Discover a captivating collection of pastel abstract iPhone wallpaper that adds a touch of elegance to your device. Perfect for those who appreciate serene colors and artistic designs, our wallpapers are ideal for your iPhone screen, making it both stylish and visually appealing. Download your favorite pastel looks today!">
+                    <meta name="keywords" content="pastel abstract iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/pastel-abstract-iphone-wallpaper">
+                            <span itemprop="name">pastel abstract iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Pastel Abstract iPhone Wallpaper</h1>
+                <p>Transform your device with stunning pastel abstract iPhone wallpaper that brings a serene and artistic vibe to your screen. These soft hues and fluid shapes create an enchanting backdrop, perfect for expressing your personality. Elevate your iPhone aesthetic with our unique collection of pastel designs that inspire tranquility and creativity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Peach Watercolor iPhone Wallpaper / Abstract / iPhone Lock ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/36437479/r/il/40ba34/4061827772/il_570xN.4061827772_9yrz.jpg' alt='Pastel Peach Watercolor iPhone Wallpaper / Abstract / iPhone Lock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1233">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/36437479/r/il/40ba34/4061827772/il_570xN.4061827772_9yrz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Pastel Phone Wallpaper Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTExL3Jhd3BpeGVsb2ZmaWNlMV9wYWxtX2xlYXZlc19pbl90aGVfc3R5bGVfb2ZfcGFzdGVsX2RyZWFtX2FydF9ub18wOWUwMmNiMy1iZDRlLTQyNDAtYWQzNy02Y2U3MDFjZmJiMTFfMS5qcGc.jpg' alt='Abstract Pastel Phone Wallpaper Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTExL3Jhd3BpeGVsb2ZmaWNlMV9wYWxtX2xlYXZlc19pbl90aGVfc3R5bGVfb2ZfcGFzdGVsX2RyZWFtX2FydF9ub18wOWUwMmNiMy1iZDRlLTQyNDAtYWQzNy02Y2U3MDFjZmJiMTFfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel boho">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ec/0d/39/ec0d39dba94ec595c78d8eba5f789a9c.jpg' alt='Pastel boho'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ec/0d/39/ec0d39dba94ec595c78d8eba5f789a9c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Polygon Pattern Abstract iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3f/dc/27/3fdc276892be5e4eeff233e3fe2e376b.jpg' alt='Pastel Polygon Pattern Abstract iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3f/dc/27/3fdc276892be5e4eeff233e3fe2e376b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Pastel Abstract Paint Swirls Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pastel-abstract-on0jxpkvs8wmxs2v.jpg' alt='Download Pastel Abstract Paint Swirls Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="864">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pastel-abstract-on0jxpkvs8wmxs2v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Pastel Phone Wallpaper Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3JtMTgyLW5pbmctMDFkLmpwZw.jpg' alt='Abstract Pastel Phone Wallpaper Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3JtMTgyLW5pbmctMDFkLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Pastel Abstract Paint Splatter Phone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pastel-abstract-0h0wmlt05509fhvt.jpg' alt='Download Pastel Abstract Paint Splatter Phone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1184">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pastel-abstract-0h0wmlt05509fhvt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel, abstract digital, art, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/804/466/HD-wallpaper-pastel-abstract-digital-art.jpg' alt='Pastel, abstract digital, art, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1730">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/804/466/HD-wallpaper-pastel-abstract-digital-art.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel colors, iphone, pink, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/291/105/HD-wallpaper-pastel-paint-swipes-abstract-paint-swipes-pastel-burst-pastel-spikes-pastels-pink-and-mint-pink-and-peach-pretty-texture-thumbnail.jpg' alt='Pastel colors, iphone, pink, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/291/105/HD-wallpaper-pastel-paint-swipes-abstract-paint-swipes-pastel-burst-pastel-spikes-pastels-pink-and-mint-pink-and-peach-pretty-texture-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Basic Pastel Abstract Paint Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/basic-pastel-abstract-paint-o3uae79i3vs9aiof-2.jpg' alt='Basic Pastel Abstract Paint Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="789">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/basic-pastel-abstract-paint-o3uae79i3vs9aiof-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

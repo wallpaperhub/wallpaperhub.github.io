@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="black and white art deco wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/black-and-white-art-deco-wallpaper">
+                            <span itemprop="name">black and white art deco wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art Deco Wallpaper, Black and White Folding Fan Wall Decor - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11123188/r/il/c45357/3540019274/il_fullxfull.3540019274_kysi.jpg' alt='Art Deco Wallpaper, Black and White Folding Fan Wall Decor - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2250">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11123188/r/il/c45357/3540019274/il_fullxfull.3540019274_kysi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="African Art Deco Shell - Black Wallpaper">
+                                <img itemprop="contentUrl url" src='http://mitchellblack.com/cdn/shop/products/Black_Riviere_PatternSquare_1.jpg?v=1675874829' alt='African Art Deco Shell - Black Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mitchell Black" />
+                                </span>
+                                <a href='http://mitchellblack.com/cdn/shop/products/Black_Riviere_PatternSquare_1.jpg?v=1675874829' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and White Art Deco Themed Peel and Stick Removable Wallpaper 5623">
+                                <img itemprop="contentUrl url" src='https://wallsbyme.com/cdn/shop/files/89cd935072061a45298cd009b48304ab_grande.jpg?v=1723302023' alt='Black and White Art Deco Themed Peel and Stick Removable Wallpaper 5623'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls By Me" />
+                                </span>
+                                <a href='https://wallsbyme.com/cdn/shop/files/89cd935072061a45298cd009b48304ab_grande.jpg?v=1723302023' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gatsby Art Deco Black & White Wallpaper">
+                                <img itemprop="contentUrl url" src='https://thinknoirwallpaper.com/cdn/shop/files/2-GATSBYARTDECOBLACK_WHITEWALLPAPER.jpg?v=1724222657' alt='Gatsby Art Deco Black & White Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="999">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Think Noir Wallpaper" />
+                                </span>
+                                <a href='https://thinknoirwallpaper.com/cdn/shop/files/2-GATSBYARTDECOBLACK_WHITEWALLPAPER.jpg?v=1724222657' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and white Art Deco shell">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/black-and-white-art-deco-shell-pattern-repeat-removable-wallpaper-design.jpg' alt='Black and white Art Deco shell'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/black-and-white-art-deco-shell-pattern-repeat-removable-wallpaper-design.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art Deco off White Wallpaper With Black Arch Pattern • Peel and ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21849951/r/il/c59538/4754122446/il_570xN.4754122446_fvk2.jpg' alt='Art Deco off White Wallpaper With Black Arch Pattern • Peel and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="665">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21849951/r/il/c59538/4754122446/il_570xN.4754122446_fvk2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and White Art Deco Wallpaper">
+                                <img itemprop="contentUrl url" src='https://maiahomes.com/cdn/shop/products/black-and-white-art-deco-wallpaper-maia-homes-4.jpg?v=1739967103' alt='Black and White Art Deco Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1148">
+                                <meta itemprop="height" content="1148">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Maia Homes" />
+                                </span>
+                                <a href='https://maiahomes.com/cdn/shop/products/black-and-white-art-deco-wallpaper-maia-homes-4.jpg?v=1739967103' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Printable Wallpaper Black and White Art Deco">
+                                <img itemprop="contentUrl url" src='https://www.themoderndollhouse.com/wp-content/uploads/2021/04/art-decco.png' alt='Printable Wallpaper Black and White Art Deco'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="538">
+                                <meta itemprop="height" content="532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Modern Dollhouse" />
+                                </span>
+                                <a href='https://www.themoderndollhouse.com/wp-content/uploads/2021/04/art-decco.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Black Leaf Geometric Mural Wallpaper | Ever Wallpaper">
+                                <img itemprop="contentUrl url" src='https://everwallpaper.com/cdn/shop/products/black-white-art-deco-wallpaper-for-home.jpg?v=1657789478&width=1445' alt='Modern Black Leaf Geometric Mural Wallpaper | Ever Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1273">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='https://everwallpaper.com/cdn/shop/products/black-white-art-deco-wallpaper-for-home.jpg?v=1657789478&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black And White Art Deco Wallpaper - Happywall">
+                                <img itemprop="contentUrl url" src='https://happywall-statix.imgix.net/rooms/room-10-d.jpg?w=2560&h=1280&fit=min&crop=center&auto=format&q=50&blend64=aHR0cHM6Ly9oYXBweXdhbGwtaW1nLWdhbGxlcnkuaW1naXgubmV0L3dhbGxwYXBlci5qcGc_dz0yNTYwJmg9MTI4MCZmaXQ9Y3JvcCZibGVuZDY0PWFIUjBjSE02THk5b1lYQndlWGRoYkd3dGFXMW5MV2RoYkd4bGNua3VhVzFuYVhndWJtVjBMelF4TWpnd0wySnNZV05yWDJGdVpGOTNhR2wwWlY5aGNuUmZaR1ZqYjE5a2FYTndiR0Y1TG1wd1p6OTNQVEV6TnpnbWFEMHhNVEk0Sm1acGREMWpjbTl3Sm1OeWIzQTlZMlZ1ZEdWeUpUSkRZMlZ1ZEdWeUptSnNaVzVrTFdOdmJHOXlQVEF3TURBd01DWmliR1Z1WkMxdGIyUmxQVzExYkhScGNHeDVKbUpzWlc1a0xXRnNjR2hoUFRFbVluSnBQVFltYzJGMFBURXcmYmxlbmQtbW9kZT1ub3JtYWwmYmxlbmQteT00NiZibGVuZC14PTM4Mg%3D%3D&blend-mode=multiply&mark64=aHR0cHM6Ly9oYXBweXdhbGwtc3RhdGl4LmltZ2l4Lm5ldC9yb29tcy9yb29tLTEwLWQucG5nP3c9MjU2MCZoPTEyODAmZml0PW1pbiZjcm9wPWNlbnRlciZhdXRvPWZvcm1hdCZxPTUw&mark-x=0&mark-y=0' alt='Black And White Art Deco Wallpaper - Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-statix.imgix.net/rooms/room-10-d.jpg?w=2560&h=1280&fit=min&crop=center&auto=format&q=50&blend64=aHR0cHM6Ly9oYXBweXdhbGwtaW1nLWdhbGxlcnkuaW1naXgubmV0L3dhbGxwYXBlci5qcGc_dz0yNTYwJmg9MTI4MCZmaXQ9Y3JvcCZibGVuZDY0PWFIUjBjSE02THk5b1lYQndlWGRoYkd3dGFXMW5MV2RoYkd4bGNua3VhVzFuYVhndWJtVjBMelF4TWpnd0wySnNZV05yWDJGdVpGOTNhR2wwWlY5aGNuUmZaR1ZqYjE5a2FYTndiR0Y1TG1wd1p6OTNQVEV6TnpnbWFEMHhNVEk0Sm1acGREMWpjbTl3Sm1OeWIzQTlZMlZ1ZEdWeUpUSkRZMlZ1ZEdWeUptSnNaVzVrTFdOdmJHOXlQVEF3TURBd01DWmliR1Z1WkMxdGIyUmxQVzExYkhScGNHeDVKbUpzWlc1a0xXRnNjR2hoUFRFbVluSnBQVFltYzJGMFBURXcmYmxlbmQtbW9kZT1ub3JtYWwmYmxlbmQteT00NiZibGVuZC14PTM4Mg%3D%3D&blend-mode=multiply&mark64=aHR0cHM6Ly9oYXBweXdhbGwtc3RhdGl4LmltZ2l4Lm5ldC9yb29tcy9yb29tLTEwLWQucG5nP3c9MjU2MCZoPTEyODAmZml0PW1pbiZjcm9wPWNlbnRlciZhdXRvPWZvcm1hdCZxPTUw&mark-x=0&mark-y=0' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

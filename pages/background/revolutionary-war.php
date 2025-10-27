@@ -1,0 +1,129 @@
+<title>Understanding the Revolutionary War: Key Facts and Figures</title>
+                    <meta name="description" content="Explore the Revolutionary War, a defining moment in American history. Uncover the causes, key battles, and influential leaders who shaped the fight for independence. Discover how this struggle forged a new nation and defined its future.">
+                    <meta name="keywords" content="revolutionary war">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/revolutionary-war">
+                            <span itemprop="name">revolutionary war</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding the Revolutionary War: Key Facts and Figures</h1>
+                <p>The Revolutionary War (1775-1783) was a pivotal conflict in which the thirteen American colonies fought against British rule. Catalyzed by issues like taxation without representation, it ultimately led to the establishment of the United States. Key figures like George Washington emerged, influencing the nation's identity and governance.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Weapons in the American Revolution - World History Encyclopedia">
+                                <img itemprop="contentUrl url" src='https://www.worldhistory.org/img/c/p/1200x900/18365.jpg' alt='Weapons in the American Revolution - World History Encyclopedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World History Encyclopedia" />
+                                </span>
+                                <a href='https://www.worldhistory.org/img/c/p/1200x900/18365.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American Revolutionary War - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/b/b8/Surrender_of_Lord_Cornwallis.jpg' alt='American Revolutionary War - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1978">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/b/b8/Surrender_of_Lord_Cornwallis.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Revolutionary War ‑ Timeline, Facts & Battles | HISTORY">
+                                <img itemprop="contentUrl url" src='https://assets.editorial.aetnd.com/uploads/2009/11/washington-crosses-the-delaware.jpg?width=768' alt='Revolutionary War ‑ Timeline, Facts & Battles | HISTORY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.history.com" />
+                                </span>
+                                <a href='https://assets.editorial.aetnd.com/uploads/2009/11/washington-crosses-the-delaware.jpg?width=768' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American Revolution - Kids | Britannica Kids | Homework Help">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/59/121659-004-AF5A80C7.jpg' alt='American Revolution - Kids | Britannica Kids | Homework Help'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="409">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica Kids" />
+                                </span>
+                                <a href='https://cdn.britannica.com/59/121659-004-AF5A80C7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Revolutionary War | American Battlefield Trust">
+                                <img itemprop="contentUrl url" src='https://www.battlefields.org/sites/default/files/styles/hero_large/public/thumbnails/image/Surrender_of_Lord_Cornwallis_2.jpg?h=e749cc5e&itok=99QPHh6x' alt='Revolutionary War | American Battlefield Trust'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="American Battlefield Trust" />
+                                </span>
+                                <a href='https://www.battlefields.org/sites/default/files/styles/hero_large/public/thumbnails/image/Surrender_of_Lord_Cornwallis_2.jpg?h=e749cc5e&itok=99QPHh6x' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Liberty First: The Revolutionary War">
+                                <img itemprop="contentUrl url" src='https://www.blackartdepot.com/cdn/shop/files/liberty-first-bobb-vann.jpg?v=1733018183&width=1080' alt='Liberty First: The Revolutionary War'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Black Art Depot" />
+                                </span>
+                                <a href='https://www.blackartdepot.com/cdn/shop/files/liberty-first-bobb-vann.jpg?v=1733018183&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="October 17, 1777 British Surrender at Saratoga: Turning Point of ...">
+                                <img itemprop="contentUrl url" src='https://constitutingamerica.org/wp-content/uploads/2020/02/SurrenderGenJBurgoyneSaratogaNY1777USC-1030x682.jpg' alt='October 17, 1777 British Surrender at Saratoga: Turning Point of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1030">
+                                <meta itemprop="height" content="682">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Constituting America" />
+                                </span>
+                                <a href='https://constitutingamerica.org/wp-content/uploads/2020/02/SurrenderGenJBurgoyneSaratogaNY1777USC-1030x682.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American Revolutionary War - Home of Heroes">
+                                <img itemprop="contentUrl url" src='https://homeofheroes.com/wp-content/uploads/2020/02/American-Revolution.jpg' alt='American Revolutionary War - Home of Heroes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1070">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Home of Heroes" />
+                                </span>
+                                <a href='https://homeofheroes.com/wp-content/uploads/2020/02/American-Revolution.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Revolutionary War Battles | George Washington's Mount Vernon">
+                                <img itemprop="contentUrl url" src='https://mtv-drupal-assets.s3.amazonaws.com/files/styles/original/s3/callout/text-image-block-full/image/washington-at-monmouth-web.jpg.webp?VersionId=vwsWWgnBefHUxYkHz6tlaB4v7Rgs_ah1&itok=fNDY89Ro' alt='Revolutionary War Battles | George Washington's Mount Vernon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1367">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mount Vernon" />
+                                </span>
+                                <a href='https://mtv-drupal-assets.s3.amazonaws.com/files/styles/original/s3/callout/text-image-block-full/image/washington-at-monmouth-web.jpg.webp?VersionId=vwsWWgnBefHUxYkHz6tlaB4v7Rgs_ah1&itok=fNDY89Ro' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Revolutionary war America">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/american-soldier-revolutionary-war-randy-steele.jpg' alt='Revolutionary war America'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CASLS" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/american-soldier-revolutionary-war-randy-steele.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

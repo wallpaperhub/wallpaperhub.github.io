@@ -1,0 +1,129 @@
+<title>Discover Folklorico: A Celebration of Mexican Heritage</title>
+                    <meta name="description" content="Explore the vibrant history of Folklorico, a traditional Mexican dance that celebrates regional cultures through music and movement. Dive into its roots, significance, and how it fosters community and identity in this captivating art form.">
+                    <meta name="keywords" content="folklorico history">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/folklorico-history">
+                            <span itemprop="name">folklorico history</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Folklorico: A Celebration of Mexican Heritage</h1>
+                <p>Folklorico is a vibrant dance form rooted in Mexican culture, showcasing the rich traditions and stories of various regions. Its origins date back to indigenous peoples, blending traditional music, costumes, and dance styles. This captivating art form serves as a celebration of heritage, identity, and community spirit, uniting generations through rhythm and movement.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ballet Folklorico Dancers - Latino and Hispanic Heritage ...">
+                                <img itemprop="contentUrl url" src='https://images.indianahistory.org/digital/api/singleitem/image/p16797coll38/428/default.jpg' alt='Ballet Folklorico Dancers - Latino and Hispanic Heritage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="611">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Indiana Historical Society" />
+                                </span>
+                                <a href='https://images.indianahistory.org/digital/api/singleitem/image/p16797coll38/428/default.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inside the History and Techniques of Folklórico">
+                                <img itemprop="contentUrl url" src='https://dancespirit.com/wp-content/uploads/2023/11/inside-the-history-and-techniques-of-folklorico-3.jpg' alt='Inside the History and Techniques of Folklórico'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="598">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dance Spirit" />
+                                </span>
+                                <a href='https://dancespirit.com/wp-content/uploads/2023/11/inside-the-history-and-techniques-of-folklorico-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is Folklórico? | Wonderopolis">
+                                <img itemprop="contentUrl url" src='https://d3mvlb3hz2g78.cloudfront.net/wp-content/uploads/2022/09/thumb_720_450_dreamstime_s_86343755.jpg' alt='What Is Folklórico? | Wonderopolis'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wonderopolis" />
+                                </span>
+                                <a href='https://d3mvlb3hz2g78.cloudfront.net/wp-content/uploads/2022/09/thumb_720_450_dreamstime_s_86343755.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mexican folk dance - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Ballet_Folkl%C3%B3rico_de_M%C3%A9xico_%281970%29_-_001.jpg/220px-Ballet_Folkl%C3%B3rico_de_M%C3%A9xico_%281970%29_-_001.jpg' alt='Mexican folk dance - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="145">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Ballet_Folkl%C3%B3rico_de_M%C3%A9xico_%281970%29_-_001.jpg/220px-Ballet_Folkl%C3%B3rico_de_M%C3%A9xico_%281970%29_-_001.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mexican history | Gabriela Mendoza-Garcia Ballet Folklorico">
+                                <img itemprop="contentUrl url" src='https://gabrielamendozagarciafolklorico.com/wp-content/uploads/2020/03/jarabes-colonial0001.jpg?w=1024' alt='Mexican history | Gabriela Mendoza-Garcia Ballet Folklorico'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="671">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gabriela Mendoza-Garcia Ballet Folklorico" />
+                                </span>
+                                <a href='https://gabrielamendozagarciafolklorico.com/wp-content/uploads/2020/03/jarabes-colonial0001.jpg?w=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of the art - DAncing to history">
+                                <img itemprop="contentUrl url" src='http://bailefolkclorico.weebly.com/uploads/3/9/1/0/39103279/6731526.jpg?1410733947' alt='History of the art - DAncing to history'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="263">
+                                <meta itemprop="height" content="348">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DAncing to history - Weebly" />
+                                </span>
+                                <a href='http://bailefolkclorico.weebly.com/uploads/3/9/1/0/39103279/6731526.jpg?1410733947' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hidden History: Baile Folklorico brings Mexico's history to life ...">
+                                <img itemprop="contentUrl url" src='https://media.tegna-media.com/assets/WOI/images/1073d92c-d7b6-43ec-aeca-1e010dfc88e5/1073d92c-d7b6-43ec-aeca-1e010dfc88e5_750x422.jpg' alt='Hidden History: Baile Folklorico brings Mexico's history to life ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="weareiowa.com" />
+                                </span>
+                                <a href='https://media.tegna-media.com/assets/WOI/images/1073d92c-d7b6-43ec-aeca-1e010dfc88e5/1073d92c-d7b6-43ec-aeca-1e010dfc88e5_750x422.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Folklorico offers dancers a physical connection to culture – The ...">
+                                <img itemprop="contentUrl url" src='https://theplaidpress.com/wp-content/uploads/2021/11/daniel-lloyd-blunk-fernandez-4bx3vmaxvfe-unsplash.jpg' alt='Folklorico offers dancers a physical connection to culture – The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Plaid Press" />
+                                </span>
+                                <a href='https://theplaidpress.com/wp-content/uploads/2021/11/daniel-lloyd-blunk-fernandez-4bx3vmaxvfe-unsplash.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Traditions of Mexico - Ballet Folklorico">
+                                <img itemprop="contentUrl url" src='https://www.houstonculture.org/mexico/ballet/image003.jpg' alt='Traditions of Mexico - Ballet Folklorico'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="196">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Houston Institute for Culture" />
+                                </span>
+                                <a href='https://www.houstonculture.org/mexico/ballet/image003.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ballet Folklorico: The Dance of the People - Fort Worth Magazine">
+                                <img itemprop="contentUrl url" src='https://fwtx.com/downloads/44696/download/DSC_8061-Edit%20copy.jpg?cb=77789daf0a0d4ada56b87696d895f66c' alt='Ballet Folklorico: The Dance of the People - Fort Worth Magazine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fort Worth Magazine" />
+                                </span>
+                                <a href='https://fwtx.com/downloads/44696/download/DSC_8061-Edit%20copy.jpg?cb=77789daf0a0d4ada56b87696d895f66c' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

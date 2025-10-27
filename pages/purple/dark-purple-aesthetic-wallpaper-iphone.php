@@ -1,0 +1,129 @@
+<title>Stunning Dark Purple Aesthetic Wallpapers for iPhone</title>
+                    <meta name="description" content="Explore a collection of dark purple aesthetic wallpapers for your iPhone. Discover elegant designs that elevate your screen's look and embrace a mysterious vibe. Perfect for personalizing your device with a unique touch. Download now for a fresh aesthetic experience!">
+                    <meta name="keywords" content="dark purple aesthetic wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/dark-purple-aesthetic-wallpaper-iphone">
+                            <span itemprop="name">dark purple aesthetic wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Dark Purple Aesthetic Wallpapers for iPhone</h1>
+                <p>Transform your iPhone with stunning dark purple aesthetic wallpapers that exude elegance and mystique. These wallpapers blend shades of deep violet and rich plum, creating a captivating backdrop for your screen. Perfect for those who love a touch of dark romance, browse and download your favorite designs to express your unique style today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wallpaper iphone - purple sky moon">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f8/fe/67/f8fe67160dcf2b4073b3ea136a8042ee.jpg' alt='wallpaper iphone - purple sky moon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1591">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f8/fe/67/f8fe67160dcf2b4073b3ea136a8042ee.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/de/84/8c/de848c49888cd1c546bb71074bb84147.jpg' alt='Purple aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1451">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/de/84/8c/de848c49888cd1c546bb71074bb84147.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stunning Purple Aesthetic Iphone Display Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/stunning-purple-aesthetic-iphone-display-7ysqj7djfec4j47q.jpg' alt='Stunning Purple Aesthetic Iphone Display Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/stunning-purple-aesthetic-iphone-display-7ysqj7djfec4j47q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download New York Sky Neon Purple Iphone Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/new-york-sky-neon-purple-iphone-n0bc8dw30w2jol3v.jpg' alt='Download New York Sky Neon Purple Iphone Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/new-york-sky-neon-purple-iphone-n0bc8dw30w2jol3v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="  photos for dark lovers   | Dark purple wallpaper, Purple ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/80/f0/ec/80f0ecfed16df945fe4bcf44311578c7.jpg' alt='  photos for dark lovers   | Dark purple wallpaper, Purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/80/f0/ec/80f0ecfed16df945fe4bcf44311578c7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nice Purple Aesthetic Iphone Lockscreen Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/nice-purple-aesthetic-iphone-lockscreen-tu5c2jikjvqh3wwj.jpg' alt='Nice Purple Aesthetic Iphone Lockscreen Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/nice-purple-aesthetic-iphone-lockscreen-tu5c2jikjvqh3wwj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark purple, aesthetic, dark purple, dead in the inside, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/1016/55/HD-wallpaper-dark-purple-aesthetic-dark-purple-dead-in-the-inside.jpg' alt='Dark purple, aesthetic, dark purple, dead in the inside, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/1016/55/HD-wallpaper-dark-purple-aesthetic-dark-purple-dead-in-the-inside.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AESTHETIC CLOUDS, AESTHETIC, Violet, amoled, black, dark, iphone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/159/721/HD-wallpaper-aesthetic-clouds-aesthetic-violet-amoled-black-dark-iphone-lilac-night-one-plus.jpg' alt='AESTHETIC CLOUDS, AESTHETIC, Violet, amoled, black, dark, iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/159/721/HD-wallpaper-aesthetic-clouds-aesthetic-violet-amoled-black-dark-iphone-lilac-night-one-plus.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="340 Purple Grunge Aesthetic ideas | dark purple aesthetic, purple ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/15/87/25/1587255aeba8a82f93e9a0f9d7143667.jpg' alt='340 Purple Grunge Aesthetic ideas | dark purple aesthetic, purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/15/87/25/1587255aeba8a82f93e9a0f9d7143667.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Dark Purple Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/dark-purple-aesthetic-5kz8emxicrc98209.jpg' alt='200+] Dark Purple Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/dark-purple-aesthetic-5kz8emxicrc98209.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

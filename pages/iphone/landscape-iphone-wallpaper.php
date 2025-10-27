@@ -1,0 +1,129 @@
+<title>Stunning Landscape iPhone Wallpapers for Every Adventure</title>
+                    <meta name="description" content="Discover a collection of breathtaking landscape iPhone wallpapers that enhance your mobile experience. Perfect for nature lovers, these stunning images transform your screen and inspire wanderlust. Explore diverse scenery and find the perfect backdrop for your device today!">
+                    <meta name="keywords" content="landscape iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/landscape-iphone-wallpaper">
+                            <span itemprop="name">landscape iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Landscape iPhone Wallpapers for Every Adventure</h1>
+                <p>Transform your iPhone screen with stunning landscape wallpapers. From majestic mountains to serene beaches, these vibrant images bring nature's beauty right to your device. Choose from a variety of breathtaking scenes that inspire relaxation and adventure. Refresh your phone’s aesthetic with captivating scenery that speaks to your wanderlust!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Iphone Landscape Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/iphone-landscape-a5i6qn339cw574ms.jpg' alt='100+] Iphone Landscape Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1286">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/iphone-landscape-a5i6qn339cw574ms.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1K+ Iphone Landscape Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1501786223405-6d024d7c3b8d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aXBob25lJTIwbGFuZHNjYXBlfGVufDB8fDB8fHww' alt='1K+ Iphone Landscape Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1501786223405-6d024d7c3b8d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aXBob25lJTIwbGFuZHNjYXBlfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone wallpaper - Beautiful landscape mountain">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/84/7e/fe/847efe92db7bca931d86d8308409be7c.jpg' alt='Iphone wallpaper - Beautiful landscape mountain'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/84/7e/fe/847efe92db7bca931d86d8308409be7c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Landscape High Resolution iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/phone/images/640/beautiful-landscape.png' alt='Beautiful Landscape High Resolution iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/phone/images/640/beautiful-landscape.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frozen landscape wallpapers for a snowy iPhone">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2019/12/frozen-landscape-wallpaper-iphone-idownloadblog-ongliong11-2.png' alt='Frozen landscape wallpapers for a snowy iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1750">
+                                <meta itemprop="height" content="3500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2019/12/frozen-landscape-wallpaper-iphone-idownloadblog-ongliong11-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="65 NATURAL IPHONE WALLPAPERS FOR THE NATURE LOVERS ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e2/8c/37/e28c371f59e5d2e667c9ae2a44a8e172.jpg' alt='65 NATURAL IPHONE WALLPAPERS FOR THE NATURE LOVERS ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e2/8c/37/e28c371f59e5d2e667c9ae2a44a8e172.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Landscape Wallpapers (55 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/f/7/2/1165441-1080x1920-mobile-full-hd-landscape-background-image.jpg' alt='Landscape Wallpapers (55 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/f/7/2/1165441-1080x1920-mobile-full-hd-landscape-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1K+ Iphone Landscape Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1668354804669-287b9d538ca1?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aXBob25lJTIwbGFuZHNjYXBlfGVufDB8fDB8fHww' alt='1K+ Iphone Landscape Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1668354804669-287b9d538ca1?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aXBob25lJTIwbGFuZHNjYXBlfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Forest Treetops Natural Landscape Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/forest-treetops-natural-landscape-iphone-iu9mujfvu847ln0d.jpg' alt='Forest Treetops Natural Landscape Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/forest-treetops-natural-landscape-iphone-iu9mujfvu847ln0d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Landscape Wallpaper (Forest) #11927">
+                                <img itemprop="contentUrl url" src='https://wallpapershome.com/images/wallpapers/landscape-3840x2160-flat-4k-5k-fog-iphone-wallpaper-forest-blue-11927.jpg' alt='Landscape Wallpaper (Forest) #11927'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersHome" />
+                                </span>
+                                <a href='https://wallpapershome.com/images/wallpapers/landscape-3840x2160-flat-4k-5k-fog-iphone-wallpaper-forest-blue-11927.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

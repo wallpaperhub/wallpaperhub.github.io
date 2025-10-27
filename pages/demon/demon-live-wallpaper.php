@@ -1,0 +1,129 @@
+<title>Demon Live Wallpaper: Enchant Your Screen</title>
+                    <meta name="description" content="Dive into the world of demon live wallpaper! Explore a collection of captivating, animated backgrounds that transform your device. Ideal for fans of the supernatural, these stunning designs add a unique touch to your home screen. Download now and let your imagination roam free!">
+                    <meta name="keywords" content="demon live wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/demon">
+                            <span itemprop="name">Demon</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/demon/demon-live-wallpaper">
+                            <span itemprop="name">demon live wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Demon Live Wallpaper: Enchant Your Screen</h1>
+                <p>Enhance your device's aesthetic with stunning demon live wallpaper! Perfect for fans of dark fantasy, these vivid designs bring an otherworldly vibe to your screen. Choose from a variety of animations and themes that shift with your touch, creating an immersive experience. Unleash your inner demon and personalize your background today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fighting My Demon Live Wallpaper - MyLiveWallpapers.com">
+                                <img itemprop="contentUrl url" src='https://mylivewallpapers.com/wp-content/uploads/Fantasy/thumb-Fighting-My-Demon.jpg' alt='Fighting My Demon Live Wallpaper - MyLiveWallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MyLiveWallpapers.com" />
+                                </span>
+                                <a href='https://mylivewallpapers.com/wp-content/uploads/Fantasy/thumb-Fighting-My-Demon.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Demon - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/UcFr2jaPtx4/hqdefault.jpg' alt='Demon - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/UcFr2jaPtx4/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Exploring Dark AI Art: Devilish Knights in Live Wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7446075630854212897&location=0&aid=1988' alt='Exploring Dark AI Art: Devilish Knights in Live Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7446075630854212897&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Devil Live Wallpaper - Freezed Account Recovery">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7385540178867146002&location=0&aid=1988' alt='4K Devil Live Wallpaper - Freezed Account Recovery'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7385540178867146002&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Demon - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/OYiZeZ9fbVO4yF6J4XH8GZPaR3H85WJ1BRQQPxh7G-VzRY0mEr7V_n_RHXIXTD7CkjY' alt='Demon - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/OYiZeZ9fbVO4yF6J4XH8GZPaR3H85WJ1BRQQPxh7G-VzRY0mEr7V_n_RHXIXTD7CkjY' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mask Demon Live Wallpaper - MyLiveWallpapers.com">
+                                <img itemprop="contentUrl url" src='https://mylivewallpapers.com/wp-content/uploads/Lifestyle/thumb-Mask-Demon.jpg' alt='Mask Demon Live Wallpaper - MyLiveWallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MyLiveWallpapers.com" />
+                                </span>
+                                <a href='https://mylivewallpapers.com/wp-content/uploads/Lifestyle/thumb-Mask-Demon.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tanjiro & Nezuko 4k Live Wallpaper | Demon Slayer | Anime Live ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/cijyIsxUmNc/maxresdefault.jpg' alt='Tanjiro & Nezuko 4k Live Wallpaper | Demon Slayer | Anime Live ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/cijyIsxUmNc/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skeleton Demon Live Wallpaper 1.1 Free Download">
+                                <img itemprop="contentUrl url" src='https://cdn.soft112.com/skeleton-demon-live-wallpaper/00/00/0G/UQ/00000GUQO3/pad_screenshot.jpg' alt='Skeleton Demon Live Wallpaper 1.1 Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Soft112" />
+                                </span>
+                                <a href='https://cdn.soft112.com/skeleton-demon-live-wallpaper/00/00/0G/UQ/00000GUQO3/pad_screenshot.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="260+ Demon Slayer Live Wallpapers 4K & HD">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/i/c/364x205/media/1480/yoriichi-solar-flare-hero-demon-slayer.jpg' alt='260+ Demon Slayer Live Wallpapers 4K & HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="364">
+                                <meta itemprop="height" content="205">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/i/c/364x205/media/1480/yoriichi-solar-flare-hero-demon-slayer.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live Wallpaper 4K Kokushibo Demon Slayer">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/74H7e0U_CJw/maxresdefault.jpg' alt='Live Wallpaper 4K Kokushibo Demon Slayer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/74H7e0U_CJw/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

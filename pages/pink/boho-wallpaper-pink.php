@@ -1,0 +1,129 @@
+<title>Chic Boho Pink Wallpaper: Elevate Your Space</title>
+                    <meta name="description" content="Discover the charm of boho pink wallpaper! Perfect for adding a touch of elegance and whimsy to your decor. Shop now to transform your home into a cozy sanctuary with our stylish designs. Ideal for bedrooms, living rooms, and more!">
+                    <meta name="keywords" content="boho wallpaper pink">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/boho-wallpaper-pink">
+                            <span itemprop="name">boho wallpaper pink</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Boho Pink Wallpaper: Elevate Your Space</h1>
+                <p>Transform your space with boho wallpaper in soft pink hues. This stylish design blends vibrant patterns with a relaxed vibe, making it perfect for bedrooms or living areas. The playful yet elegant aesthetic enhances any room, creating a cozy and inviting atmosphere. Embrace the bohemian spirit and elevate your home decor!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MuralPeel Modern Boho Pink Gold Floral Peel and Stick Wallpaper Self  Adhesive Removable Easy Peel Off Stick on Wall Paper for Bedroom Cabinet  Renter - ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/715VwN2pBxL.jpg' alt='MuralPeel Modern Boho Pink Gold Floral Peel and Stick Wallpaper Self  Adhesive Removable Easy Peel Off Stick on Wall Paper for Bedroom Cabinet  Renter - ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/715VwN2pBxL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Peel and Stick Wallpaper Pink Boho Removable Wallpaper Wall Decor  Home Decor Wall Art Room Decor 406">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.4186478428_kdu2.jpg' alt='Wallpaper Peel and Stick Wallpaper Pink Boho Removable Wallpaper Wall Decor  Home Decor Wall Art Room Decor 406'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2121">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.4186478428_kdu2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink boho">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/pink-boho-pattern-repeat-removable-wallpaper-design.jpg' alt='Pink boho'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/pink-boho-pattern-repeat-removable-wallpaper-design.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick / Sample">
+                                <img itemprop="contentUrl url" src='https://wallblush.com/cdn/shop/files/Georgia_Pink_SHOP.jpg?v=1717014846&width=2048' alt='Peel & Stick / Sample'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='https://wallblush.com/cdn/shop/files/Georgia_Pink_SHOP.jpg?v=1717014846&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sample: 6''W x 9''H / Smooth Vinyl Peel & Stick">
+                                <img itemprop="contentUrl url" src='https://eazzywalls.com/cdn/shop/products/PinkBohoPattern.jpg?v=1739232036&width=1214' alt='Sample: 6''W x 9''H / Smooth Vinyl Peel & Stick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1214">
+                                <meta itemprop="height" content="1214">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EazzyWalls" />
+                                </span>
+                                <a href='https://eazzywalls.com/cdn/shop/products/PinkBohoPattern.jpg?v=1739232036&width=1214' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink boho leaf">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/pink-boho-leaf-pattern-repeat-removable-wallpaper-design.jpg' alt='Pink boho leaf'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/pink-boho-leaf-pattern-repeat-removable-wallpaper-design.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Peel And Stick Removable Wallpaper | 200+ Colors">
+                                <img itemprop="contentUrl url" src='https://static.basicinvite.com/media/bi/33636/boho-desert-wallpaper-l.jpg?q=1684349927' alt='Boho Peel And Stick Removable Wallpaper | 200+ Colors'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love vs. Design" />
+                                </span>
+                                <a href='https://static.basicinvite.com/media/bi/33636/boho-desert-wallpaper-l.jpg?q=1684349927' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Desktop Wallpaper - Abstract Minimalist Computer/pc/macbook ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/23951134/r/il/d0718b/3698258962/il_570xN.3698258962_d97j.jpg' alt='Boho Desktop Wallpaper - Abstract Minimalist Computer/pc/macbook ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="321">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/23951134/r/il/d0718b/3698258962/il_570xN.3698258962_d97j.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bohemia Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://tempaper.com/cdn/shop/products/BH16006-neutral-bohemia-removable-wallpaper_1800x1800.jpg?v=1724341754' alt='Bohemia Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='https://tempaper.com/cdn/shop/products/BH16006-neutral-bohemia-removable-wallpaper_1800x1800.jpg?v=1724341754' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Caption: Embrace Simplicity with Pink Boho Design ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/simple-boho-pink-l6d01argu8nmo3lm.jpg' alt='Download Caption: Embrace Simplicity with Pink Boho Design ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1806">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/simple-boho-pink-l6d01argu8nmo3lm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

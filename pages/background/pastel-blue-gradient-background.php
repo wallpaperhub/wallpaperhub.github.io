@@ -1,0 +1,129 @@
+<title>Beautiful Pastel Blue Gradient Backgrounds for Your Designs</title>
+                    <meta name="description" content="Discover stunning pastel blue gradient backgrounds to elevate your design projects. Perfect for websites, social media, and presentations, these calming hues provide a modern touch. Transform your visuals with an elegant blend of pastel blues that captivate and inspire. Ideal for any creative endeavor!">
+                    <meta name="keywords" content="pastel blue gradient background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pastel-blue-gradient-background">
+                            <span itemprop="name">pastel blue gradient background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful Pastel Blue Gradient Backgrounds for Your Designs</h1>
+                <p>Pastel blue gradient backgrounds are perfect for creating a serene and calming atmosphere in any digital design. The soft blend of blue hues offers a visually pleasing and modern aesthetic, making it ideal for websites, social media graphics, and presentations. Enhance your projects with this versatile and soothing backdrop.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Pastel Gradient Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/winter-blue-pink-gradient-background-vector_53876-117275.jpg' alt='Blue Pastel Gradient Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/winter-blue-pink-gradient-background-vector_53876-117275.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Mint Sky Blue Pastel Gradient Abstract Background. Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/light-mint-sky-blue-pastel-gradient-abstract-background-light-mint-sky-blue-pastel-gradient-abstract-many-uses-advertising-174126108.jpg' alt='Light Mint Sky Blue Pastel Gradient Abstract Background. Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/light-mint-sky-blue-pastel-gradient-abstract-background-light-mint-sky-blue-pastel-gradient-abstract-many-uses-advertising-174126108.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Pastel Blue Gradient Background Wallpaper   ">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/oR-Kt4ZVteU/maxresdefault.jpg' alt='Aesthetic Pastel Blue Gradient Background Wallpaper   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/oR-Kt4ZVteU/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A blue, pastel gradient background | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/blue-pastel-background-1242-x-2208-g4hb4qwmrdelrcop.jpg' alt='Download A blue, pastel gradient background | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/blue-pastel-background-1242-x-2208-g4hb4qwmrdelrcop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Abstract Pastel blue gradient background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/abstract-pastel-blue-gradient-background_29865-2079.jpg' alt='Premium Vector | Abstract Pastel blue gradient background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/abstract-pastel-blue-gradient-background_29865-2079.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor light blue ombre background hand painted. Aquarelle ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/020/498/887/large_2x/watercolor-light-blue-ombre-background-hand-painted-aquarelle-pastel-blue-gradient-texture-photo.jpg' alt='Watercolor light blue ombre background hand painted. Aquarelle ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2762">
+                                <meta itemprop="height" content="1960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/020/498/887/large_2x/watercolor-light-blue-ombre-background-hand-painted-aquarelle-pastel-blue-gradient-texture-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Blue Gradient Background delicate Stock Vector">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/pink-blue-gradient-background-260nw-2293023235.jpg' alt='Pink Blue Gradient Background delicate Stock Vector'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="462">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="mycandyvn.com" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/pink-blue-gradient-background-260nw-2293023235.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor light blue gradient background hand painted. Aquarelle ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/02/21/86/53/1000_F_221865383_y85hHlvdVSCUffeGwPNvEMfFHo04K528.jpg' alt='Watercolor light blue gradient background hand painted. Aquarelle ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="688">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/02/21/86/53/1000_F_221865383_y85hHlvdVSCUffeGwPNvEMfFHo04K528.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Gradient Background Relaxing Pastel Color Stock Vector ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/blue-gradient-background-relaxing-pastel-260nw-1787260634.jpg' alt='Blue Gradient Background Relaxing Pastel Color Stock Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="462">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/blue-gradient-background-relaxing-pastel-260nw-1787260634.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smooth Cyan and Blue Pastel Gradient Banner in tender motion and ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/026/856/386/non_2x/smooth-cyan-and-blue-pastel-gradient-banner-in-tender-motion-and-waves-aesthetic-gradient-background-illustration-vector.jpg' alt='Smooth Cyan and Blue Pastel Gradient Banner in tender motion and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/026/856/386/non_2x/smooth-cyan-and-blue-pastel-gradient-banner-in-tender-motion-and-waves-aesthetic-gradient-background-illustration-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

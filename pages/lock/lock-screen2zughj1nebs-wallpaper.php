@@ -1,0 +1,129 @@
+<title>Stunning Lock Screen Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore a curated collection of breathtaking lock screen wallpapers to elevate your device's style. From serene nature scenes to vibrant abstract art, personalize your phone with images that resonate. Transform your unlock experience with stunning visuals that capture your personality and creativity.">
+                    <meta name="keywords" content="lock screen:2zughj1nebs= wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock">
+                            <span itemprop="name">Lock</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock/lock-screen2zughj1nebs-wallpaper">
+                            <span itemprop="name">lock screen:2zughj1nebs= wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Lock Screen Wallpapers for Your Device</h1>
+                <p>Discover the perfect lock screen wallpapers designed to inspire and uplift your mood every time you unlock your device. From stunning landscapes to minimalist designs, find a variety of styles tailored for all tastes. Personalize your smartphone today with eye-catching wallpapers that reflect your unique personality.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="400+] Lockscreen Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/lockscreen-l331oqcvoqbusac7.jpg' alt='400+] Lockscreen Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/lockscreen-l331oqcvoqbusac7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100,000+ Best Lock Screen Wallpaper Photos · 100% Free Download ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/937980/pexels-photo-937980.jpeg?cs=srgb&dl=pexels-kovyrina-937980.jpg&fm=jpg' alt='100,000+ Best Lock Screen Wallpaper Photos · 100% Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/937980/pexels-photo-937980.jpeg?cs=srgb&dl=pexels-kovyrina-937980.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100,000+ Best Lock Screen Wallpaper Photos · 100% Free Download ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1146708/pexels-photo-1146708.jpeg?cs=srgb&dl=pexels-jplenio-1146708.jpg&fm=jpg' alt='100,000+ Best Lock Screen Wallpaper Photos · 100% Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5068">
+                                <meta itemprop="height" content="2850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1146708/pexels-photo-1146708.jpeg?cs=srgb&dl=pexels-jplenio-1146708.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100,000+ Best Lock Screen Wallpaper Photos · 100% Free Download ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/799443/pexels-photo-799443.jpeg?cs=srgb&dl=pexels-bertellifotografia-799443.jpg&fm=jpg' alt='100,000+ Best Lock Screen Wallpaper Photos · 100% Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3504">
+                                <meta itemprop="height" content="5256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/799443/pexels-photo-799443.jpeg?cs=srgb&dl=pexels-bertellifotografia-799443.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1000+ Lockscreen Wallpaper Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1686727103139-2824d4fa46a3?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bG9ja3NjcmVlbiUyMHdhbGxwYXBlcnxlbnwwfHwwfHx8MA%3D%3D' alt='1000+ Lockscreen Wallpaper Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="5333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1686727103139-2824d4fa46a3?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bG9ja3NjcmVlbiUyMHdhbGxwYXBlcnxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100,000+ Best Lock Screen Wallpaper Photos · 100% Free Download ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1624496/pexels-photo-1624496.jpeg' alt='100,000+ Best Lock Screen Wallpaper Photos · 100% Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1624496/pexels-photo-1624496.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100,000+ Best Lock Screen Wallpaper Photos · 100% Free Download ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1535162/pexels-photo-1535162.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' alt='100,000+ Best Lock Screen Wallpaper Photos · 100% Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1535162/pexels-photo-1535162.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100,000+ Best Lock Screen Wallpaper Photos · 100% Free Download ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/2486168/pexels-photo-2486168.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' alt='100,000+ Best Lock Screen Wallpaper Photos · 100% Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/2486168/pexels-photo-2486168.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lock screen phone background wallpaper hd">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ec/7e/86/ec7e86caa5c7168694316d74ab53f07a.jpg' alt='Lock screen phone background wallpaper hd'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ec/7e/86/ec7e86caa5c7168694316d74ab53f07a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900+ Home/Lock Screen Wallpaper ideas | wallpaper, screen ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/d1/5f/65/d15f65ef1ee286469ca8ed30c568ead5.jpg' alt='900+ Home/Lock Screen Wallpaper ideas | wallpaper, screen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3500">
+                                <meta itemprop="height" content="6212">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/d1/5f/65/d15f65ef1ee286469ca8ed30c568ead5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Football Moving Wallpaper GIFs for Fans</title>
+                    <meta name="description" content="Discover captivating football moving wallpaper GIFs to revitalize your screens! Perfect for football fans, these animated backgrounds bring the energy of the game to life. Transform your device with dynamic visuals and celebrate your love for football every day! Explore now and never miss a moment!">
+                    <meta name="keywords" content="football moving wallpaper gif">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/football">
+                            <span itemprop="name">Football</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/football/football-moving-wallpaper-gif">
+                            <span itemprop="name">football moving wallpaper gif</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Football Moving Wallpaper GIFs for Fans</h1>
+                <p>Bring excitement to your devices with dynamic football moving wallpaper GIFs! Perfect for avid fans, these animated wallpapers showcase stunning moments from the game, featuring iconic goals, players in action, and team celebrations. Elevate your smartphone or computer with vibrant visuals that pulse with the thrill of football!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NFL GIFs on GIPHY - Be Animated">
+                                <img itemprop="contentUrl url" src='https://media3.giphy.com/media/DDjTQxdNJQ6nckLO9Y/200.gif' alt='NFL GIFs on GIPHY - Be Animated'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="356">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media3.giphy.com/media/DDjTQxdNJQ6nckLO9Y/200.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="football wallpaper GIF by UCF Knights - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media4.giphy.com/media/3o7qDPMgxMsJCLl6Wk/giphy.gif?cid=6c09b952szppu8qy2tl5wxg9awoh3w1t9e0fczks0lj7hdgo&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' alt='football wallpaper GIF by UCF Knights - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="270">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media4.giphy.com/media/3o7qDPMgxMsJCLl6Wk/giphy.gif?cid=6c09b952szppu8qy2tl5wxg9awoh3w1t9e0fczks0lj7hdgo&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photos In Motion: Gifs of Michigan's Football Season So Far ...">
+                                <img itemprop="contentUrl url" src='https://cdn.vox-cdn.com/thumbor/-72i2FvFXNPu2KvWUDIztvmZL0k=/250x250/cdn.vox-cdn.com/uploads/chorus_asset/file/7104529/Peppers-Pun-Return-1080px.0.gif' alt='Photos In Motion: Gifs of Michigan's Football Season So Far ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Maize n Brew" />
+                                </span>
+                                <a href='https://cdn.vox-cdn.com/thumbor/-72i2FvFXNPu2KvWUDIztvmZL0k=/250x250/cdn.vox-cdn.com/uploads/chorus_asset/file/7104529/Peppers-Pun-Return-1080px.0.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zeke Elliott GIF - Football Tackle Turn Around - Discover & Share GIFs">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/29/ac/86/29ac86442fd3aa06bf06b53acf8a99b1.gif' alt='Zeke Elliott GIF - Football Tackle Turn Around - Discover & Share GIFs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="254">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/29/ac/86/29ac86442fd3aa06bf06b53acf8a99b1.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Bay Packers Football GIF by NFL - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media0.giphy.com/media/l4Jz289LSdbN1tfHi/giphy.gif?cid=6c09b952wfiumpwivkkdb1nsywyjep3t5u6e3ply3glsgoqj&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' alt='Green Bay Packers Football GIF by NFL - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="472">
+                                <meta itemprop="height" content="262">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media0.giphy.com/media/l4Jz289LSdbN1tfHi/giphy.gif?cid=6c09b952wfiumpwivkkdb1nsywyjep3t5u6e3ply3glsgoqj&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="National Football League GIF by NFL - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/a8/1c/d2/a81cd2fd7cca3c54c141dad42de4c163.gif' alt='National Football League GIF by NFL - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="263">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/a8/1c/d2/a81cd2fd7cca3c54c141dad42de4c163.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moving Football GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/HFOljtrDoMsAAAAM/wake-football-wake-forest.gif' alt='Moving Football GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/HFOljtrDoMsAAAAM/wake-football-wake-forest.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sports Football GIF - Sports Football Catch - Discover & Share GIFs">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/09/6a/6d/096a6da8dcb3550aaf54c5438206e3d6.gif' alt='Sports Football GIF - Sports Football Catch - Discover & Share GIFs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="jp.pinterest.com" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/09/6a/6d/096a6da8dcb3550aaf54c5438206e3d6.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photos In Motion: Gifs of Michigan's Football Season So Far ...">
+                                <img itemprop="contentUrl url" src='https://cdn.vox-cdn.com/thumbor/YgsQZOp5vsceVRw6uvt6IyMqb8M=/250x250/cdn.vox-cdn.com/uploads/chorus_asset/file/7104517/McDoom-Spin-Move-1080px.0.gif' alt='Photos In Motion: Gifs of Michigan's Football Season So Far ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Maize n Brew" />
+                                </span>
+                                <a href='https://cdn.vox-cdn.com/thumbor/YgsQZOp5vsceVRw6uvt6IyMqb8M=/250x250/cdn.vox-cdn.com/uploads/chorus_asset/file/7104517/McDoom-Spin-Move-1080px.0.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NFL GIFs on GIPHY - Be Animated">
+                                <img itemprop="contentUrl url" src='https://media0.giphy.com/media/dwfnEGlT7LKjw4Ch7G/200.gif' alt='NFL GIFs on GIPHY - Be Animated'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="364">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media0.giphy.com/media/dwfnEGlT7LKjw4Ch7G/200.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

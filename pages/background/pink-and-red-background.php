@@ -1,0 +1,129 @@
+<title>"Vibrant Pink and Red Backgrounds for Stunning Designs"</title>
+                    <meta name="description" content="Discover the power of pink and red backgrounds to elevate your design projects. Perfect for romantic themes and dynamic visuals, these colors enhance creativity. Explore tips and ideas for using vibrant pink and red hues in your graphics and art. Transform your designs with striking backgrounds today!">
+                    <meta name="keywords" content="pink and red background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pink-and-red-background">
+                            <span itemprop="name">pink and red background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Vibrant Pink and Red Backgrounds for Stunning Designs"</h1>
+                <p>A pink and red background can create a vibrant and eye-catching aesthetic for any design project. The warm tones evoke feelings of love, passion, and creativity, making them perfect for romantic themes or energetic events. Ideal for social media graphics, websites, or digital art, a pink and red background adds a bold touch.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Red Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/vivid-blurred-colorful-wallpaper-background_58702-4207.jpg' alt='Pink Red Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/vivid-blurred-colorful-wallpaper-background_58702-4207.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A pink and red background with a swirl pattern photo – Free Art ...">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1654016376354-9d6411e81dd9?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' alt='A pink and red background with a swirl pattern photo – Free Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1654016376354-9d6411e81dd9?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e0/ed/20/e0ed2021a64b616aed1e339a470c176c.jpg' alt='Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e0/ed/20/e0ed2021a64b616aed1e339a470c176c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20,000+ Red And Pink Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1301260903/vector/abstract-warm-summer-background-illustration.jpg?s=612x612&w=0&k=20&c=fuZIG37il5alAG05xEqiMA9gcwEFnKChmmvL1e9NPXc=' alt='20,000+ Red And Pink Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1301260903/vector/abstract-warm-summer-background-illustration.jpg?s=612x612&w=0&k=20&c=fuZIG37il5alAG05xEqiMA9gcwEFnKChmmvL1e9NPXc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Pink Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/010/595/577/small/sun-rays-retro-vintage-style-on-pink-and-red-background-sunburst-pattern-background-rays-comic-banner-illustration-abstract-sunburst-wallpaper-for-template-business-social-media-advertising-vector.jpg' alt='Red Pink Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/010/595/577/small/sun-rays-retro-vintage-style-on-pink-and-red-background-sunburst-pattern-background-rays-comic-banner-illustration-abstract-sunburst-wallpaper-for-template-business-social-media-advertising-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Pink White Wallpaper | Instagram Template | Abstract Design ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/04/0b/72/040b72a65711067a2eb0f151a361f7d5.jpg' alt='Red Pink White Wallpaper | Instagram Template | Abstract Design ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/04/0b/72/040b72a65711067a2eb0f151a361f7d5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink and red 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ca/f0/6a/caf06a41a6e2e1595dffc2dd80a21d70.jpg' alt='Pink and red 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ca/f0/6a/caf06a41a6e2e1595dffc2dd80a21d70.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Red Background Vectors & Illustrations for Free Download ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/abstract-pink-background_698452-1406.jpg?semt=ais_hybrid' alt='Pink Red Background Vectors & Illustrations for Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/abstract-pink-background_698452-1406.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Aesthetic Red Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/aesthetic-red-background-pwtk4jh097i7ps6d.jpg' alt='100+] Aesthetic Red Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/aesthetic-red-background-pwtk4jh097i7ps6d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Pink Background" Images – Browse 65 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/35/92/83/360_F_335928356_uuoS1EuOuDsJXG1fxJy2zIfuTBAiJhY3.jpg' alt='Red Pink Background" Images – Browse 65 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/35/92/83/360_F_335928356_uuoS1EuOuDsJXG1fxJy2zIfuTBAiJhY3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

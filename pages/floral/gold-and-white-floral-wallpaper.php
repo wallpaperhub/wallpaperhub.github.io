@@ -1,0 +1,129 @@
+<title>Elegant Gold and White Floral Wallpaper: A Touch of Luxury</title>
+                    <meta name="description" content="Elevate your decor with our gold and white floral wallpaper. Perfect for adding a luxurious touch to any room, this design blends classic beauty with modern elegance, making it an ideal choice for your home or office. Discover the perfect wallpaper to transform your space today!">
+                    <meta name="keywords" content="gold and white floral wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/gold-and-white-floral-wallpaper">
+                            <span itemprop="name">gold and white floral wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Gold and White Floral Wallpaper: A Touch of Luxury</h1>
+                <p>Transform your space with elegant gold and white floral wallpaper. This stunning design combines classic floral patterns with a contemporary twist, adding a touch of luxury to any room. Ideal for bedrooms, living rooms, or even offices, this wallpaper creates an inviting atmosphere. Perfect for those seeking sophistication and style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Safiyya 78.7"x17.3" Peel and Stick Wallpaper Gold and White  Contact Paper Floral Wallpaper Self Adhesive Removable Wallpaper for  Bedroom ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81KXwEJwKjL.jpg' alt='Amazon.com: Safiyya 78.7"x17.3" Peel and Stick Wallpaper Gold and White  Contact Paper Floral Wallpaper Self Adhesive Removable Wallpaper for  Bedroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81KXwEJwKjL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Froluya Gold and Cream White Vintage Floral Wallpaper Peel and Stick  Wallpaper Removable Boho Peel and Stick Wallpaper Self Adhesive Wall Paper  for ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91ACyP19K7L.jpg' alt='Froluya Gold and Cream White Vintage Floral Wallpaper Peel and Stick  Wallpaper Removable Boho Peel and Stick Wallpaper Self Adhesive Wall Paper  for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91ACyP19K7L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxury Gold Blush Ombre Floral Rose Wallpaper, Modern White ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/45303920/r/il/9b7546/5878451259/il_fullxfull.5878451259_5lcv.jpg' alt='Luxury Gold Blush Ombre Floral Rose Wallpaper, Modern White ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/45303920/r/il/9b7546/5878451259/il_fullxfull.5878451259_5lcv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D White and Gold Flowers, Embossed Look Floral Wall Mural, Peel ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/33428852/r/il/d810bd/5321563644/il_fullxfull.5321563644_kuy7.jpg' alt='3D White and Gold Flowers, Embossed Look Floral Wall Mural, Peel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/33428852/r/il/d810bd/5321563644/il_fullxfull.5321563644_kuy7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seabrook Designs Lotus Metallic Gold And Off-White Floral Paper Strippable  Wallpaper Roll (Covers 60.75 Sq. Ft.) AI42305 - The Home Depot">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/3afd5a8e-3c8f-46cb-b2d4-fa7cf29c42e3/svn/seabrook-designs-wallpaper-rolls-ai42305-64_1000.jpg' alt='Seabrook Designs Lotus Metallic Gold And Off-White Floral Paper Strippable  Wallpaper Roll (Covers 60.75 Sq. Ft.) AI42305 - The Home Depot'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/3afd5a8e-3c8f-46cb-b2d4-fa7cf29c42e3/svn/seabrook-designs-wallpaper-rolls-ai42305-64_1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant Black Gold Floral Mural Wallpaper | Ever Wallpaper">
+                                <img itemprop="contentUrl url" src='https://everwallpaper.com/cdn/shop/files/1_a62f6fc6-274c-4f87-941e-722071f04432.jpg?v=1732535332' alt='Elegant Black Gold Floral Mural Wallpaper | Ever Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='https://everwallpaper.com/cdn/shop/files/1_a62f6fc6-274c-4f87-941e-722071f04432.jpg?v=1732535332' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold and White Peel and Stick Wallpaper Boho Floral Contact Paper 17.7inch  x 118.1inch Vintage Fruit Floral Peel and Stick Wallpaper for Kitchen ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/8122jyF9V0L._AC_UF894,1000_QL80_.jpg' alt='Gold and White Peel and Stick Wallpaper Boho Floral Contact Paper 17.7inch  x 118.1inch Vintage Fruit Floral Peel and Stick Wallpaper for Kitchen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/8122jyF9V0L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Look Peony Floral Drawing Bright Flower Art Wallpaper Mural ...">
+                                <img itemprop="contentUrl url" src='https://img.wallmur.net/@wmp/_826ax660/o/u/ou000119_1.jpg' alt='Gold Look Peony Floral Drawing Bright Flower Art Wallpaper Mural ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="754">
+                                <meta itemprop="height" content="660">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://img.wallmur.net/@wmp/_826ax660/o/u/ou000119_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Floral Contour Wallpaper – Lovecup.com">
+                                <img itemprop="contentUrl url" src='https://www.lovecup.com/cdn/shop/products/7tPuji_2400x.jpg?v=1693425952' alt='Gold Floral Contour Wallpaper – Lovecup.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lovecup.com" />
+                                </span>
+                                <a href='https://www.lovecup.com/cdn/shop/products/7tPuji_2400x.jpg?v=1693425952' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nelda Gold Rose Large Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/nelda-gold-rose-large-floral-wallpaper-fzvx-l.jpg' alt='Nelda Gold Rose Large Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/nelda-gold-rose-large-floral-wallpaper-fzvx-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

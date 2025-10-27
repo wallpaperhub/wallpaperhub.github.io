@@ -1,0 +1,129 @@
+<title>Mesmerizing Blue Heart Tunnel Wallpaper for Your Devices</title>
+                    <meta name="description" content="Discover the enchanting blue heart tunnel wallpaper that adds a vibrant and romantic touch to your devices. Optimized for all screen sizes, this wallpaper transforms your digital aesthetic effortlessly. Perfect for those who appreciate elegance and love in every pixel! Download now for a captivating visual experience!">
+                    <meta name="keywords" content="blue heart tunnel wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart">
+                            <span itemprop="name">Heart</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart/blue-heart-tunnel-wallpaper">
+                            <span itemprop="name">blue heart tunnel wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mesmerizing Blue Heart Tunnel Wallpaper for Your Devices</h1>
+                <p>Transform your digital space with stunning blue heart tunnel wallpaper! This captivating design features a mesmerizing tunnel of blue hearts that evoke feelings of love and tranquility. Perfect for adding a touch of charm to your devices, it brings a modern artistic flair that resonates with anyone looking to enhance their visual experience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart Tunnel Wallpapers - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e7/ba/ef/e7baef58877288139af549cf49dcdb6e.jpg' alt='Heart Tunnel Wallpapers - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e7/ba/ef/e7baef58877288139af549cf49dcdb6e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart Tunnel  Blue Heart Background | Neon Heart Background Video |  Wallpaper Heart [10 Hours]">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/jh8Ke71KI2w/maxresdefault.jpg' alt='Heart Tunnel  Blue Heart Background | Neon Heart Background Video |  Wallpaper Heart [10 Hours]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/jh8Ke71KI2w/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="  Blue Neon Lights Love Heart Tunnel Background Video (1-Hour No Sound) /  Heart Background Loop Video">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/MG9tBxBjHEQ/maxresdefault.jpg' alt='  Blue Neon Lights Love Heart Tunnel Background Video (1-Hour No Sound) /  Heart Background Loop Video'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/MG9tBxBjHEQ/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart Tunnel Wallpaper - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cd/4a/98/cd4a983586bb41abef4d6dc4b3f75369.jpg' alt='Heart Tunnel Wallpaper - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cd/4a/98/cd4a983586bb41abef4d6dc4b3f75369.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Neon Lights Love Heart Tunnel">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/videos/3448578735/thumb/1.jpg?ip=x480' alt='Blue Neon Lights Love Heart Tunnel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/videos/3448578735/thumb/1.jpg?ip=x480' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="aesthetics cute glowing blue heart tunnel motion background">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/99/15/84/360_F_599158419_Jd3l6n39GEnRWnKbEWwH7vZXevcnlmVv.jpg' alt='aesthetics cute glowing blue heart tunnel motion background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/99/15/84/360_F_599158419_Jd3l6n39GEnRWnKbEWwH7vZXevcnlmVv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Lights Love Heart Tunnel Background      Blue Heart Tunnel Loop |  #neon #hearttunnel #tunnelneon #hearttunnelbackground #heartneon  #hearttunnel #ntbackground #tunnelneon #background">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7116561345293585691&location=0&aid=1988' alt='Neon Lights Love Heart Tunnel Background      Blue Heart Tunnel Loop |  #neon #hearttunnel #tunnelneon #hearttunnelbackground #heartneon  #hearttunnel #ntbackground #tunnelneon #background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7116561345293585691&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Heart Tunnel Colorful Love Shape 4K TikTok Trend Dj Background Looped  V5">
+                                <img itemprop="contentUrl url" src='https://elements-resized.envatousercontent.com/elements-video-cover-images/files/848ec742-6a0f-4321-8f26-0b92be877566/inline_image_preview.jpg?w=500&cf_fit=cover&q=85&format=auto&s=bc893e0c647862c2e65bca34c0047bdc4f08ff82d7552b6ac6f05fe2c01d6680' alt='Blue Heart Tunnel Colorful Love Shape 4K TikTok Trend Dj Background Looped  V5'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Envato" />
+                                </span>
+                                <a href='https://elements-resized.envatousercontent.com/elements-video-cover-images/files/848ec742-6a0f-4321-8f26-0b92be877566/inline_image_preview.jpg?w=500&cf_fit=cover&q=85&format=auto&s=bc893e0c647862c2e65bca34c0047bdc4f08ff82d7552b6ac6f05fe2c01d6680' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart Tunnel Wallpaper - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9f/34/9d/9f349dfc8d63952f2eff310931e1b922.jpg' alt='Heart Tunnel Wallpaper - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1306">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="jp.pinterest.com" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9f/34/9d/9f349dfc8d63952f2eff310931e1b922.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Blue Heart Shape Tunnel Neon Flash Romance Love Moving Fast 4K  TikTok Motion Background">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/BLCqDGzL_cQ/maxresdefault.jpg' alt='Beautiful Blue Heart Shape Tunnel Neon Flash Romance Love Moving Fast 4K  TikTok Motion Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/BLCqDGzL_cQ/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

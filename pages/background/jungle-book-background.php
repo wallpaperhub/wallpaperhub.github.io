@@ -1,0 +1,129 @@
+<title>"Exploring the Jungle Book: Origins & Themes"</title>
+                    <meta name="description" content="Discover the enchanting background of "The Jungle Book," a timeless tale by Rudyard Kipling. Uncover Mowgli's adventures, the vibrant jungle setting, and the rich themes of friendship and self-discovery that resonate through generations. Perfect for fans and newcomers alike!">
+                    <meta name="keywords" content="jungle book background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/jungle-book-background">
+                            <span itemprop="name">jungle book background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Exploring the Jungle Book: Origins & Themes"</h1>
+                <p>"The Jungle Book," originally a collection of stories by Rudyard Kipling published in 1894, is set in the lush jungles of India. It follows Mowgli, a boy raised by wolves, as he navigates the dangers of the jungle, including encounters with the fierce tiger Shere Khan and wise Baloo the bear. Themes of survival, friendship, and identity abound.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Jungle Book Ending Scene Background Color Key (Walt Disney ...">
+                                <img itemprop="contentUrl url" src='https://dyn1.heritagestatic.com/lf?set=path%5B2%2F0%2F9%2F1%2F2%2F20912149%5D&call=url%5Bfile%3Aproduct.chain%5D' alt='The Jungle Book Ending Scene Background Color Key (Walt Disney ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2435">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heritage Auctions – Comics" />
+                                </span>
+                                <a href='https://dyn1.heritagestatic.com/lf?set=path%5B2%2F0%2F9%2F1%2F2%2F20912149%5D&call=url%5Bfile%3Aproduct.chain%5D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Deja View: Jungle Book Layout/Background">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOAJ2cYmlQqVPPAU73ZhK_J17ZZFoLug2pWP_pBi8EJ6NkTp-0uRb1fgHxgwt-BcI2WY1pFBVlZx6MeJjvEoHd14ZSaaX63HmhREEu1NoylOJhwL9vM60aEBNtm5UkPHoaNEXYgaEp20/s1600/JBA2.jpg' alt='Deja View: Jungle Book Layout/Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1035">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Deja View" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOAJ2cYmlQqVPPAU73ZhK_J17ZZFoLug2pWP_pBi8EJ6NkTp-0uRb1fgHxgwt-BcI2WY1pFBVlZx6MeJjvEoHd14ZSaaX63HmhREEu1NoylOJhwL9vM60aEBNtm5UkPHoaNEXYgaEp20/s1600/JBA2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="jungle-book-background – Circulating Now from the NLM Historical ...">
+                                <img itemprop="contentUrl url" src='https://circulatingnow.nlm.nih.gov/wp-content/uploads/2019/02/jungle-book-background.jpg' alt='jungle-book-background – Circulating Now from the NLM Historical ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Circulating Now" />
+                                </span>
+                                <a href='https://circulatingnow.nlm.nih.gov/wp-content/uploads/2019/02/jungle-book-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Posterhouzz Movie The Jungle Book HD Wallpaper Background Fine Art ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/816Lz4OA8aL.jpg' alt='Posterhouzz Movie The Jungle Book HD Wallpaper Background Fine Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1680">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.in" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/816Lz4OA8aL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jungle Background Art for the 1967 Movie Jungle Book">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/29/ae/1d/29ae1dcfd69849fb85643fbe894c2ad6.jpg' alt='Jungle Background Art for the 1967 Movie Jungle Book'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="680">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/29/ae/1d/29ae1dcfd69849fb85643fbe894c2ad6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney Legend Andreas Deja on Writing 'Walt Disney's The Jungle ...">
+                                <img itemprop="contentUrl url" src='https://www.animationmagazine.net/wordpress/wp-content/uploads/The-Jungle-Book-concept-art.jpg' alt='Disney Legend Andreas Deja on Writing 'Walt Disney's The Jungle ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Animation Magazine" />
+                                </span>
+                                <a href='https://www.animationmagazine.net/wordpress/wp-content/uploads/The-Jungle-Book-concept-art.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Jungle Book - Mother Nature's Recipies of Life by ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/08506103-cacb-4a01-9404-64e28a1338ef/dh6mweh-f3168b11-7c29-4854-bd3a-0796c10f30ec.png/v1/fill/w_1181,h_676,q_70,strp/the_jungle_book___mother_nature_s_recipies_of_life_by_knightmare1985_dh6mweh-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzMzIiwicGF0aCI6IlwvZlwvMDg1MDYxMDMtY2FjYi00YTAxLTk0MDQtNjRlMjhhMTMzOGVmXC9kaDZtd2VoLWYzMTY4YjExLTdjMjktNDg1NC1iZDNhLTA3OTZjMTBmMzBlYy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.vjC1bUOeTtUcTL7p7PKTDkC7GEt-aGgRToTetg9qit8' alt='The Jungle Book - Mother Nature's Recipies of Life by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1181">
+                                <meta itemprop="height" content="676">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/08506103-cacb-4a01-9404-64e28a1338ef/dh6mweh-f3168b11-7c29-4854-bd3a-0796c10f30ec.png/v1/fill/w_1181,h_676,q_70,strp/the_jungle_book___mother_nature_s_recipies_of_life_by_knightmare1985_dh6mweh-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzMzIiwicGF0aCI6IlwvZlwvMDg1MDYxMDMtY2FjYi00YTAxLTk0MDQtNjRlMjhhMTMzOGVmXC9kaDZtd2VoLWYzMTY4YjExLTdjMjktNDg1NC1iZDNhLTA3OTZjMTBmMzBlYy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.vjC1bUOeTtUcTL7p7PKTDkC7GEt-aGgRToTetg9qit8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Deja View: Jungle Book Layout/Background II">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_BMEbktBNMSeVPWZDeAY3m_nq7C9_f5H0MEWcmi0mwTOeMsIYbNF0_S6Y4nMNMhACLJFqbX2_Axodhlmspy1STRIyC_J68MDbRR8SwY0h3z1vaSAs09QEc-flSl6B7Q3Nb15NhPJiDxw/s1600/JBB4.png' alt='Deja View: Jungle Book Layout/Background II'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Deja View" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_BMEbktBNMSeVPWZDeAY3m_nq7C9_f5H0MEWcmi0mwTOeMsIYbNF0_S6Y4nMNMhACLJFqbX2_Axodhlmspy1STRIyC_J68MDbRR8SwY0h3z1vaSAs09QEc-flSl6B7Q3Nb15NhPJiDxw/s1600/JBB4.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jungle Book Hanging Around">
+                                <img itemprop="contentUrl url" src='https://www.carakozik.com/cdn/shop/products/September-Jungle-Book_2048x.jpg?v=1633623551' alt='Jungle Book Hanging Around'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1436">
+                                <meta itemprop="height" content="1901">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cara Kozik" />
+                                </span>
+                                <a href='https://www.carakozik.com/cdn/shop/products/September-Jungle-Book_2048x.jpg?v=1633623551' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jungle Book Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/024/105/199/small/ai-generated-story-book-page-adventures-into-a-lush-jungle-background-photo.jpg' alt='Jungle Book Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/024/105/199/small/ai-generated-story-book-page-adventures-into-a-lush-jungle-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

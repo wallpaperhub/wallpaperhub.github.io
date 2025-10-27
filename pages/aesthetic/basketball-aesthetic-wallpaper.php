@@ -1,0 +1,129 @@
+<title>Basketball Aesthetic Wallpapers for Every Fan</title>
+                    <meta name="description" content="Discover the perfect basketball aesthetic wallpapers to elevate your devices. Explore vibrant designs that capture the excitement of the game, making a statement on your phone or tablet. Perfect for fans who want to showcase their love for basketball in style!">
+                    <meta name="keywords" content="basketball aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/basketball-aesthetic-wallpaper">
+                            <span itemprop="name">basketball aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Basketball Aesthetic Wallpapers for Every Fan</h1>
+                <p>Immerse yourself in the world of basketball with stunning aesthetic wallpapers! Perfect for fans and players alike, these designs capture the dynamic energy of the court, showcasing iconic moments and stylish graphics. Transform your device's screen with vibrant imagery that reflects your passion for the game. Elevate your space and inspiration!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Basketball aesthetic | Cool basketball wallpapers, Basketball ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0c/8b/06/0c8b0680254444666dcd1b5d265f64a2.jpg' alt='Basketball aesthetic | Cool basketball wallpapers, Basketball ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0c/8b/06/0c8b0680254444666dcd1b5d265f64a2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chicago, Illinois | Basketball pictures, Cool basketball ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a3/6c/8b/a36c8b08ba03f76e365eb34f09838fe0.jpg' alt='Chicago, Illinois | Basketball pictures, Cool basketball ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a3/6c/8b/a36c8b08ba03f76e365eb34f09838fe0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I love basketball">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ba/88/2a/ba882a26d57843f72c5d81a23152653f.jpg' alt='I love basketball'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ba/88/2a/ba882a26d57843f72c5d81a23152653f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A View From the Court Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/basketball-aesthetic-oj322pjswr05vw5o.jpg' alt='Download A View From the Court Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1378">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/basketball-aesthetic-oj322pjswr05vw5o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Basketball Girl Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/basketball-girl-aesthetic-collage-jfy5bl5tvlnyk9qv.jpg' alt='100+] Basketball Girl Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/basketball-girl-aesthetic-collage-jfy5bl5tvlnyk9qv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Basketball Wallpaper Photos, Download The BEST Free Basketball ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/2277981/pexels-photo-2277981.jpeg?cs=srgb&dl=pexels-king-siberia-1123639-2277981.jpg&fm=jpg' alt='Basketball Wallpaper Photos, Download The BEST Free Basketball ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="6000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/2277981/pexels-photo-2277981.jpeg?cs=srgb&dl=pexels-king-siberia-1123639-2277981.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5f/82/f7/5f82f7f0676298fb0c22f70c24f2b67d.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5f/82/f7/5f82f7f0676298fb0c22f70c24f2b67d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Basketball Ring Cool Basketball Iphone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/aesthetic-basketball-ring-cool-basketball-iphone-k63hu8mbehbk84c0.jpg' alt='Aesthetic Basketball Ring Cool Basketball Iphone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/aesthetic-basketball-ring-cool-basketball-iphone-k63hu8mbehbk84c0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="basketball wallpaper | Gallery posted by allie     | Lemon8">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7336617352261714438&index=0&sign=31dabb60cbd27206111423fd3d1a0e62' alt='basketball wallpaper | Gallery posted by allie     | Lemon8'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1198">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7336617352261714438&index=0&sign=31dabb60cbd27206111423fd3d1a0e62' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Basketball Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/basketball-aesthetic-x7vq7ubb8rjavhky.jpg' alt='100+] Basketball Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/basketball-aesthetic-x7vq7ubb8rjavhky.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

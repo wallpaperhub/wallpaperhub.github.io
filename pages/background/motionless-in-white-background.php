@@ -1,0 +1,129 @@
+<title>Finding Serenity: The Art of Motionless in a White Background</title>
+                    <meta name="description" content="Explore the power of stillness in a motionless white background. Discover how this minimalist approach promotes tranquility and mindfulness, helping clear the mind for enhanced creativity. Embrace the beauty of simplicity and find your inner peace through stillness.">
+                    <meta name="keywords" content="motionless in white background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/motionless-in-white-background">
+                            <span itemprop="name">motionless in white background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Finding Serenity: The Art of Motionless in a White Background</h1>
+                <p>In a world where chaos reigns, finding serenity can be revolutionary. The concept of being motionless against a white background evokes tranquility, focusing on inner peace. It symbolizes stillness, inviting contemplation and nurturing mindfulness. This minimalist approach leads to clearer thoughts, fostering creativity and enhancing mental clarity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Motionless in White Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b6/0d/b3/b60db3836ea81e44ad30726f35cae988.jpg' alt='Motionless in White Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b6/0d/b3/b60db3836ea81e44ad30726f35cae988.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Motionless in White Wallpapers (33 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/1/6/d/2393474-1080x2160-mobile-hd-motionless-in-white-background-photo.jpg' alt='Motionless in White Wallpapers (33 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/1/6/d/2393474-1080x2160-mobile-hd-motionless-in-white-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: Motionless In White, Metalcore, band logo, text ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0d/8b/6b/0d8b6bed2bc05a558fdeeb6c1fd2691b.jpg' alt='HD wallpaper: Motionless In White, Metalcore, band logo, text ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0d/8b/6b/0d8b6bed2bc05a558fdeeb6c1fd2691b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Motionless in White Wallpapers (33 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/a/b/b/2393193-2779x1563-desktop-hd-motionless-in-white-background-image.jpg' alt='Motionless in White Wallpapers (33 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2779">
+                                <meta itemprop="height" content="1563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/a/b/b/2393193-2779x1563-desktop-hd-motionless-in-white-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/94/89/d6/9489d665b9427fae05baffff4f16e643.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/94/89/d6/9489d665b9427fae05baffff4f16e643.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Motionless In White Band Logo Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/motionless-in-white-band-logo-ryx6xfx4udx0x3pt.jpg' alt='Motionless In White Band Logo Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/motionless-in-white-band-logo-ryx6xfx4udx0x3pt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Motionless in White">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/af/b9/d0/afb9d0ac5b37a2eefe621727462ee9c1.jpg' alt='Motionless in White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="368">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/af/b9/d0/afb9d0ac5b37a2eefe621727462ee9c1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="motionless in white favorite wallpaper 99name | Art Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.1230283268.0526/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='motionless in white favorite wallpaper 99name | Art Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.1230283268.0526/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="27 Motionless in white ideas | motionless in white, black veil ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/b6/f1/a0/b6f1a0a52bd075cc6df3c932bb236dc4.jpg' alt='27 Motionless in white ideas | motionless in white, black veil ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="354">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/b6/f1/a0/b6f1a0a52bd075cc6df3c932bb236dc4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0b/cf/f5/0bcff5f79efba4e99f310dbce11f63b5.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0b/cf/f5/0bcff5f79efba4e99f310dbce11f63b5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

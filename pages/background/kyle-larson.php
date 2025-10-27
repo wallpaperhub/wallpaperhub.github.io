@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="kyle larson">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/kyle-larson">
+                            <span itemprop="name">kyle larson</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kyle Larson NASCAR driver page | Stats, Results, Bio">
+                                <img itemprop="contentUrl url" src='https://www.nascar.com/wp-content/uploads/sites/7/2025/01/30/Kyle-Larson-Helmet_resized.png' alt='Kyle Larson NASCAR driver page | Stats, Results, Bio'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="387">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NASCAR.com" />
+                                </span>
+                                <a href='https://www.nascar.com/wp-content/uploads/sites/7/2025/01/30/Kyle-Larson-Helmet_resized.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kyle Larson | Stock Car Racing Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/nascar/images/1/1f/Kyle-Larson-2023.png/revision/latest/thumbnail/width/360/height/360?cb=20230423212133' alt='Kyle Larson | Stock Car Racing Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stock Car Racing Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/nascar/images/1/1f/Kyle-Larson-2023.png/revision/latest/thumbnail/width/360/height/360?cb=20230423212133' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kyle Larson Stats, Race Results, Wins, News, Record, Videos ...">
+                                <img itemprop="contentUrl url" src='https://a.espncdn.com/combiner/i?img=/i/headshots/rpm/players/full/4539.png' alt='Kyle Larson Stats, Race Results, Wins, News, Record, Videos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ESPN" />
+                                </span>
+                                <a href='https://a.espncdn.com/combiner/i?img=/i/headshots/rpm/players/full/4539.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kyle Larson - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/b/b5/Kyle_Larson_Driver_Introductions_Las_Vegas_Fall_2024.jpg' alt='Kyle Larson - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2646">
+                                <meta itemprop="height" content="2753">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/b/b5/Kyle_Larson_Driver_Introductions_Las_Vegas_Fall_2024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kyle Larson On Why Sprint Car Racing Is Vital to His “Brand" | USA ...">
+                                <img itemprop="contentUrl url" src='https://www.usanetwork.com/sites/usablog/files/styles/scale_862/public/2023/07/nascar-kyle-larson-bubba-wallace-beef2.jpg' alt='Kyle Larson On Why Sprint Car Racing Is Vital to His “Brand" | USA ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="862">
+                                <meta itemprop="height" content="575">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USA Network" />
+                                </span>
+                                <a href='https://www.usanetwork.com/sites/usablog/files/styles/scale_862/public/2023/07/nascar-kyle-larson-bubba-wallace-beef2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fired NASCAR driver Kyle Larson to make return to racing with Outlaws">
+                                <img itemprop="contentUrl url" src='https://www.yorkdispatch.com/gcdn/presto/2020/04/14/PPYD/f0431298-25f0-45a4-8989-5eb26feb65ed-AP20105452856540.jpg?crop=3345,1882,x0,y168&width=3200&height=1801&format=pjpg&auto=webp' alt='Fired NASCAR driver Kyle Larson to make return to racing with Outlaws'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="1801">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="York Dispatch" />
+                                </span>
+                                <a href='https://www.yorkdispatch.com/gcdn/presto/2020/04/14/PPYD/f0431298-25f0-45a4-8989-5eb26feb65ed-AP20105452856540.jpg?crop=3345,1882,x0,y168&width=3200&height=1801&format=pjpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kyle Larson News, Rumors, & NASCAR Updates | FOX Sports">
+                                <img itemprop="contentUrl url" src='https://b.fssta.com/uploads/application/nascar/headshots/3579.png' alt='Kyle Larson News, Rumors, & NASCAR Updates | FOX Sports'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1214">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FOX Sports" />
+                                </span>
+                                <a href='https://b.fssta.com/uploads/application/nascar/headshots/3579.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Suspended NASCAR driver Kyle Larson continues dirt-track dominance ...">
+                                <img itemprop="contentUrl url" src='https://www.desmoinesregister.com/gcdn/presto/2020/07/31/PMJS/d7d47fc9-0f46-41ae-ad9b-599783e1a5df-plymouth-21.jpg?crop=1771,996,x143,y0&width=1771&height=996&format=pjpg&auto=webp' alt='Suspended NASCAR driver Kyle Larson continues dirt-track dominance ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1771">
+                                <meta itemprop="height" content="996">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Des Moines Register" />
+                                </span>
+                                <a href='https://www.desmoinesregister.com/gcdn/presto/2020/07/31/PMJS/d7d47fc9-0f46-41ae-ad9b-599783e1a5df-plymouth-21.jpg?crop=1771,996,x143,y0&width=1771&height=996&format=pjpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NASCAR COTA race: Kyle Larson loses wheel during Sunday's race">
+                                <img itemprop="contentUrl url" src='https://www.tennessean.com/gcdn/authoring/authoring-images/2025/02/13/PNAS/78489239007-2199280806.jpg?crop=5467,3076,x0,y284&width=660&height=371&format=pjpg&auto=webp' alt='NASCAR COTA race: Kyle Larson loses wheel during Sunday's race'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Tennessean" />
+                                </span>
+                                <a href='https://www.tennessean.com/gcdn/authoring/authoring-images/2025/02/13/PNAS/78489239007-2199280806.jpg?crop=5467,3076,x0,y284&width=660&height=371&format=pjpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Larson, Byron to split three Truck races for Spire | NASCAR">
+                                <img itemprop="contentUrl url" src='https://www.nascar.com/wp-content/uploads/sites/7/2025/03/04/2025-mar4-larson-byron-split.jpg' alt='Larson, Byron to split three Truck races for Spire | NASCAR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="690">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NASCAR.com" />
+                                </span>
+                                <a href='https://www.nascar.com/wp-content/uploads/sites/7/2025/03/04/2025-mar4-larson-byron-split.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

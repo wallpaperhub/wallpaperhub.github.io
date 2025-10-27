@@ -1,0 +1,129 @@
+<title>Easy Walls Wallpaper: Quick & Stylish Home Makeover</title>
+                    <meta name="description" content="Discover easy walls wallpaper for a stylish home update! Our peel-and-stick options offer hassle-free application and removal, perfect for any space. Choose from a wide range of designs to express your style effortlessly. Give your home a fresh look today!">
+                    <meta name="keywords" content="easy walls wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/easy-walls-wallpaper">
+                            <span itemprop="name">easy walls wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Easy Walls Wallpaper: Quick & Stylish Home Makeover</h1>
+                <p>Easy walls wallpaper transforms your living space effortlessly. With peel-and-stick options, you can refresh your home without the hassle of traditional wallpaper. Choose from various designs, colors, and patterns to match your style. Perfect for renters or anyone looking for a quick update, these wallpapers are removable and simple to apply.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chesapeake Range Light Grey Mountains Prepasted Easy Walls Wallpaper,  20.5-in by 33-ft, 56.4 sq. ft.">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/804073d6-c65c-4010-a9c1-81d06ac3b1c9_1.b5b7aa65023d161bb074eb2d3e326aa4.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Chesapeake Range Light Grey Mountains Prepasted Easy Walls Wallpaper,  20.5-in by 33-ft, 56.4 sq. ft.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/804073d6-c65c-4010-a9c1-81d06ac3b1c9_1.b5b7aa65023d161bb074eb2d3e326aa4.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="An Easy and Inexpensive Wallpaper Wall Mural - Merrick's Art">
+                                <img itemprop="contentUrl url" src='https://www.merricksart.com/wp-content/uploads/2020/03/merricksart-wallpaper-stripes.jpg' alt='An Easy and Inexpensive Wallpaper Wall Mural - Merrick's Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1071">
+                                <meta itemprop="height" content="714">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Merrick's Art" />
+                                </span>
+                                <a href='https://www.merricksart.com/wp-content/uploads/2020/03/merricksart-wallpaper-stripes.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chesapeake Wallpaper - Easy Walls Wallpaper - On Sale Today">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/manufacturer/medium/16.jpg' alt='Chesapeake Wallpaper - Easy Walls Wallpaper - On Sale Today'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="240">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/manufacturer/medium/16.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Simple Wallpaper Designs For Your Living Room - How Not to ...">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0285/1316/files/Sage-and-cream-geometric-contemporary-chic-wallpaper-Hamptons-Haute_For-Living-Rooms_1024x1024.jpg?v=1676396346' alt='5 Simple Wallpaper Designs For Your Living Room - How Not to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="633">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0285/1316/files/Sage-and-cream-geometric-contemporary-chic-wallpaper-Hamptons-Haute_For-Living-Rooms_1024x1024.jpg?v=1676396346' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple Wallpaper for Sleek Interiors | Wallsauce US">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/images/2023-05/First-Spring-Leaves-Wall-Mural-by-Julia-Dreams-Available-from-Wallsauce.jpg' alt='Simple Wallpaper for Sleek Interiors | Wallsauce US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="925">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/images/2023-05/First-Spring-Leaves-Wall-Mural-by-Julia-Dreams-Available-from-Wallsauce.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chesapeake Adamstown Ivory Vintage Newspaper Easy Walls Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://all4wallswallpaper.com/cdn/shop/products/ctr64271_room-31492_600x.jpg?v=1588629342' alt='Chesapeake Adamstown Ivory Vintage Newspaper Easy Walls Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="546">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="All 4 Walls Wallpaper" />
+                                </span>
+                                <a href='https://all4wallswallpaper.com/cdn/shop/products/ctr64271_room-31492_600x.jpg?v=1588629342' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super easy wall art with wallpaper samples — Hester's Handmade Home">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/52b0413de4b0c8fba4ecefa2/1462446955855-DTBGBREODDNTY9ZPT2J3/wallpaper+samples+wall+art%2C+tutorial+by+Hester%27s+handmade+home' alt='Super easy wall art with wallpaper samples — Hester's Handmade Home'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="3697">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hester's Handmade Home" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/52b0413de4b0c8fba4ecefa2/1462446955855-DTBGBREODDNTY9ZPT2J3/wallpaper+samples+wall+art%2C+tutorial+by+Hester%27s+handmade+home' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Shape A2615 Removable Wallpaper Self Adhesive Wallpaper Extra ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20311787/r/il/a163e9/1980855330/il_570xN.1980855330_l2fx.jpg' alt='3D Shape A2615 Removable Wallpaper Self Adhesive Wallpaper Extra ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="497">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20311787/r/il/a163e9/1980855330/il_570xN.1980855330_l2fx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Easy DIY Wallpaper Cut Out Idea for Beginners - Pennies for a Fortune">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/penniesforafortune.com/wp-content/uploads/2024/08/Easy-DIY-Wallpaper-Cut-Out-Idea-for-Beginners.jpeg?resize=1200%2C1024&ssl=1' alt='Easy DIY Wallpaper Cut Out Idea for Beginners - Pennies for a Fortune'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pennies for a Fortune" />
+                                </span>
+                                <a href='https://i0.wp.com/penniesforafortune.com/wp-content/uploads/2024/08/Easy-DIY-Wallpaper-Cut-Out-Idea-for-Beginners.jpeg?resize=1200%2C1024&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scalloped Bespoke Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.madeofsundays.com/cdn/shop/products/bespoke-scalloped-wallpaper-made-of-sundays-866484_700x700.jpg?v=1709627221' alt='Scalloped Bespoke Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Made of Sundays" />
+                                </span>
+                                <a href='https://www.madeofsundays.com/cdn/shop/products/bespoke-scalloped-wallpaper-made-of-sundays-866484_700x700.jpg?v=1709627221' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

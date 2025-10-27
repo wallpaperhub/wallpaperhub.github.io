@@ -1,0 +1,129 @@
+<title>Blue and Pink Floral Wallpaper: Elegant Designs for Every Space</title>
+                    <meta name="description" content="Discover the perfect blend of elegance and charm with our blue and pink floral wallpaper. This luxurious design brings life to your rooms, making them feel fresh and inviting. Ideal for any decor style, explore how this wallpaper can transform your space beautifully.">
+                    <meta name="keywords" content="blue and pink floral wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/blue-and-pink-floral-wallpaper">
+                            <span itemprop="name">blue and pink floral wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Blue and Pink Floral Wallpaper: Elegant Designs for Every Space</h1>
+                <p>This beautiful blue and pink floral wallpaper adds a touch of elegance and charm to any room. With its delicate floral patterns and soft colors, it creates a serene atmosphere perfect for relaxation. Ideal for bedrooms, living rooms, or nurseries, this wallpaper transforms spaces into inviting retreats, striking the perfect balance between modern and classic design.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Morrissey Pink Flower Peel and Stick Wallpaper MD41202">
+                                <img itemprop="contentUrl url" src='https://mayflowerwallpaper.com/cdn/shop/products/morrissey-pink-flower-peel-and-stick-wallpaper-md41202-164720.jpg?v=1682088718' alt='Morrissey Pink Flower Peel and Stick Wallpaper MD41202'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="831">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mayflower Wallpaper" />
+                                </span>
+                                <a href='https://mayflowerwallpaper.com/cdn/shop/products/morrissey-pink-flower-peel-and-stick-wallpaper-md41202-164720.jpg?v=1682088718' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Garden Floral Pink Blue Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.shabbychic.com/cdn/shop/files/125127_4_900x.jpg?v=1717087467' alt='Garden Floral Pink Blue Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shabby Chic" />
+                                </span>
+                                <a href='https://www.shabbychic.com/cdn/shop/files/125127_4_900x.jpg?v=1717087467' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Groovy Floral' Wallpaper by Barbie™ - Pale Blue">
+                                <img itemprop="contentUrl url" src='http://www.wallshoppe.com/cdn/shop/products/Wallshoppe_Groovy_Floral_Wallpaper_by_Wallshoppe_Design_Pale_Blue_Pink_a2ee2f41-52be-4ebd-9a2b-28c060822a4c.jpg?v=1619135386' alt=''Groovy Floral' Wallpaper by Barbie™ - Pale Blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1065">
+                                <meta itemprop="height" content="1420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='http://www.wallshoppe.com/cdn/shop/products/Wallshoppe_Groovy_Floral_Wallpaper_by_Wallshoppe_Design_Pale_Blue_Pink_a2ee2f41-52be-4ebd-9a2b-28c060822a4c.jpg?v=1619135386' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Blue Wallpaper With Pink Flowers Floral Tile">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/68270600/resize-h755-w755%5Ecompr-r85/1927/192733914/Dark+Blue+Wallpaper+With+Pink+Flowers+Floral+Tile.jpg' alt='Dark Blue Wallpaper With Pink Flowers Floral Tile'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="755">
+                                <meta itemprop="height" content="755">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/68270600/resize-h755-w755%5Ecompr-r85/1927/192733914/Dark+Blue+Wallpaper+With+Pink+Flowers+Floral+Tile.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Removable Wallpaper NAVY BLUSH S Blue Pink Floral Nursery ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21408694/r/il/cbe58b/2844887601/il_fullxfull.2844887601_p5q2.jpg' alt='Removable Wallpaper NAVY BLUSH S Blue Pink Floral Nursery ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21408694/r/il/cbe58b/2844887601/il_fullxfull.2844887601_p5q2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink and blue floral">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/pink-and-blue-floral-pattern-repeat-removable-wallpaper-design.jpg' alt='Pink and blue floral'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/pink-and-blue-floral-pattern-repeat-removable-wallpaper-design.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink and dark blue floral Peel and Stick Wallpaper or Non-pasted">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/pink-and-dark-blue-floral-pattern-repeat-removable-wallpaper-design-683x1024.jpg' alt='Pink and dark blue floral Peel and Stick Wallpaper or Non-pasted'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/pink-and-dark-blue-floral-pattern-repeat-removable-wallpaper-design-683x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Creatures of the Night Wallpaper in Cobalt Blue | Lust Home">
+                                <img itemprop="contentUrl url" src='https://lusthome.com/cdn/shop/products/LH900358---Creatures-of-the-Night---Cobalt-Blue-and-Shades-of-Pink-Thumbnail.jpg?v=1633957223' alt='Creatures of the Night Wallpaper in Cobalt Blue | Lust Home'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lust Home" />
+                                </span>
+                                <a href='https://lusthome.com/cdn/shop/products/LH900358---Creatures-of-the-Night---Cobalt-Blue-and-Shades-of-Pink-Thumbnail.jpg?v=1633957223' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Norwall Flourish 55-sq ft Light Blue, Turquoise, Pink, Rose, Red, Green  Vinyl Floral Prepasted Soak and Hang Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mobileimages.lowes.com/productimages/11f5c744-d45d-43d6-88eb-6b7327e716c2/12343050.jpg' alt='Norwall Flourish 55-sq ft Light Blue, Turquoise, Pink, Rose, Red, Green  Vinyl Floral Prepasted Soak and Hang Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lowe's" />
+                                </span>
+                                <a href='https://mobileimages.lowes.com/productimages/11f5c744-d45d-43d6-88eb-6b7327e716c2/12343050.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1950s Vintage Wallpaper Thomas Strahan Pink Blue Flowers Butterflies">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-own6dl/images/stencil/1280x1280/products/3925/11397/IMG_1490_edited-1__61397.1633977750.jpg?c=2' alt='1950s Vintage Wallpaper Thomas Strahan Pink Blue Flowers Butterflies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rosie's Vintage Wallpaper" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-own6dl/images/stencil/1280x1280/products/3925/11397/IMG_1490_edited-1__61397.1633977750.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

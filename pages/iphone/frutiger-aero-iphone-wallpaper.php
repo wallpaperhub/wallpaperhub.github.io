@@ -1,0 +1,129 @@
+<title>Frutiger Aero iPhone Wallpaper: Enhance Your Screen</title>
+                    <meta name="description" content="Transform your iPhone with the Frutiger Aero wallpaper! This stylish design offers a fresh, modern look for your home screen. Perfect for those who appreciate minimalism and elegance, it seamlessly fits any aesthetic. Download now and elevate your device's appearance with this eye-catching wallpaper!">
+                    <meta name="keywords" content="frutiger aero iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/frutiger-aero-iphone-wallpaper">
+                            <span itemprop="name">frutiger aero iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Frutiger Aero iPhone Wallpaper: Enhance Your Screen</h1>
+                <p>Discover the beauty of the Frutiger Aero iPhone wallpaper! This stunning design combines a modern aesthetic with a sleek, minimalistic approach. Ideal for anyone seeking to refresh their home screen, the Frutiger Aero wallpaper brings a unique flair to your device. Enhance your iPhone's look with this elegant and functional background.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="frutiger aero wallpapers : r/FrutigerAero">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/frutiger-aero-wallpapers-v0-qvka262urfkc1.png?width=1290&format=png&auto=webp&s=3593b403a430f93e0d5d317c47d96ca83e1cbb7e' alt='frutiger aero wallpapers : r/FrutigerAero'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1290">
+                                <meta itemprop="height" content="2796">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/frutiger-aero-wallpapers-v0-qvka262urfkc1.png?width=1290&format=png&auto=webp&s=3593b403a430f93e0d5d317c47d96ca83e1cbb7e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="frutiger aero wallpapers : r/FrutigerAero">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/frutiger-aero-wallpapers-v0-y15rojmrrfkc1.png?width=1290&format=png&auto=webp&s=13b1b6ae05c8ff3e1bc42eaeeec62317c103b9ee' alt='frutiger aero wallpapers : r/FrutigerAero'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1290">
+                                <meta itemprop="height" content="2796">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/frutiger-aero-wallpapers-v0-y15rojmrrfkc1.png?width=1290&format=png&auto=webp&s=13b1b6ae05c8ff3e1bc42eaeeec62317c103b9ee' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some Frutiger Aero phone wallpapers I designed today : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/some-frutiger-aero-phone-wallpapers-i-designed-today-v0-3kqo6xx5i1jd1.png?width=2160&format=png&auto=webp&s=a24450bc0a5cb98ad92c432e23a34f1e6f486f10' alt='Some Frutiger Aero phone wallpapers I designed today : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/some-frutiger-aero-phone-wallpapers-i-designed-today-v0-3kqo6xx5i1jd1.png?width=2160&format=png&auto=webp&s=a24450bc0a5cb98ad92c432e23a34f1e6f486f10' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frutiger Aero-inspired iPhone Wallpaper by MrWhiskerz -- Fur ...">
+                                <img itemprop="contentUrl url" src='https://d.furaffinity.net/art/mrwhiskerz/1710899856/1710899856.mrwhiskerz_img_0508.png' alt='Frutiger Aero-inspired iPhone Wallpaper by MrWhiskerz -- Fur ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fur Affinity" />
+                                </span>
+                                <a href='https://d.furaffinity.net/art/mrwhiskerz/1710899856/1710899856.mrwhiskerz_img_0508.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="frutiger aero iphone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a3/e2/9e/a3e29eb919b288f2ec45027860d1c40f.jpg' alt='frutiger aero iphone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a3/e2/9e/a3e29eb919b288f2ec45027860d1c40f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Just made my phone's wallpaper and icons Frutiger Aero    : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/just-made-my-phones-wallpaper-and-icons-frutiger-aero-v0-re07pmgkkzgc1.jpg?width=640&crop=smart&auto=webp&s=706824a2084a6f30fed663612e9fb7346e8798a7' alt='Just made my phone's wallpaper and icons Frutiger Aero    : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/just-made-my-phones-wallpaper-and-icons-frutiger-aero-v0-re07pmgkkzgc1.jpg?width=640&crop=smart&auto=webp&s=706824a2084a6f30fed663612e9fb7346e8798a7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frutiger Aero 4K Wallpaper      Ultra HD High Res. Phone Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ea/93/ea/ea93eab4700d58d93693832829c2449e.jpg' alt='Frutiger Aero 4K Wallpaper      Ultra HD High Res. Phone Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="674">
+                                <meta itemprop="height" content="1201">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ea/93/ea/ea93eab4700d58d93693832829c2449e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frutiger Aero Aesthetic Wallpaper Collection">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7409561797558111494&location=0&aid=1988' alt='Frutiger Aero Aesthetic Wallpaper Collection'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="590">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7409561797558111494&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Frutiger Aero Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cityscape-bubbles-over-green-meadow-jpg-tyvket0smawpbyml.jpg' alt='100+] Frutiger Aero Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cityscape-bubbles-over-green-meadow-jpg-tyvket0smawpbyml.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frutiger Aero Wallpaper | WhatsPaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/59/9c/c5/599cc5f7bd85de80b92a5e034065e789.jpg' alt='Frutiger Aero Wallpaper | WhatsPaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1059">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/59/9c/c5/599cc5f7bd85de80b92a5e034065e789.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

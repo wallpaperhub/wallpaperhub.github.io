@@ -1,0 +1,129 @@
+<title>Stunning Book Displays on White Backgrounds</title>
+                    <meta name="description" content="Discover the beauty of books showcased on a white background. This visually striking setup enhances the colors and designs of your favorite titles, ideal for promoting reading or beautifying your space. Elevate your book photography today!">
+                    <meta name="keywords" content="books white background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/books-white-background">
+                            <span itemprop="name">books white background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Book Displays on White Backgrounds</h1>
+                <p>Books on a white background create a visually appealing aesthetic that enhances the allure of reading. The clean, minimalist design allows the vibrant colors of book covers to shine, making them pop in promotional materials or online displays. Perfect for book lovers, photoshoots, and social media, this setup captures attention effortlessly.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | A pile of old books isolated on white background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/pile-old-books-isolated-white-background_434420-2269.jpg' alt='Premium Photo | A pile of old books isolated on white background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="396">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/pile-old-books-isolated-white-background_434420-2269.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="367 Stack Of Books White Background High Res Illustrations - Getty ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/535515203/vector/colorful-book.jpg?s=170667a&w=gi&k=20&c=GJIALkLWfIcGb8eFi2J8p4Ov7XvmeQX8y0Lw3HvmsZk=' alt='367 Stack Of Books White Background High Res Illustrations - Getty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/535515203/vector/colorful-book.jpg?s=170667a&w=gi&k=20&c=GJIALkLWfIcGb8eFi2J8p4Ov7XvmeQX8y0Lw3HvmsZk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old vintage books isolated on white background. Stock Photo by ...">
+                                <img itemprop="contentUrl url" src='https://s3.envato.com/files/236056798/102817%20(6).jpg' alt='Old vintage books isolated on white background. Stock Photo by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="590">
+                                <meta itemprop="height" content="443">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PhotoDune" />
+                                </span>
+                                <a href='https://s3.envato.com/files/236056798/102817%20(6).jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Pile of books isolated on white background.">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/pile-books-isolated-white-background_372197-1674.jpg' alt='Premium Photo | Pile of books isolated on white background.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="389">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/pile-books-isolated-white-background_372197-1674.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Royalty-Free photo: Five pile of books in white background | PickPik">
+                                <img itemprop="contentUrl url" src='https://i0.pickpik.com/photos/273/698/352/books-education-school-literature-f5c5001bce6fce917c119efc11586467.jpg' alt='Royalty-Free photo: Five pile of books in white background | PickPik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4724">
+                                <meta itemprop="height" content="3543">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PickPik" />
+                                </span>
+                                <a href='https://i0.pickpik.com/photos/273/698/352/books-education-school-literature-f5c5001bce6fce917c119efc11586467.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="129,548 Books White Background Stock Photos - Free & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/open-book-pile-books-white-background-20147530.jpg' alt='129,548 Books White Background Stock Photos - Free & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="689">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/open-book-pile-books-white-background-20147530.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pile of books isolated on a white background Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn5.vectorstock.com/i/1000x1000/41/29/pile-of-books-isolated-on-a-white-background-vector-19724129.jpg' alt='Pile of books isolated on a white background Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn5.vectorstock.com/i/1000x1000/41/29/pile-of-books-isolated-on-a-white-background-vector-19724129.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fotografie, Obraz stack of books isolated on white background ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/v2/jpg/00/55/17/26/1000_F_55172692_0Hi6kBsdLtDOeoympZAPBPCGXRKS91G0.jpg' alt='Fotografie, Obraz stack of books isolated on white background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Posters.cz" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/v2/jpg/00/55/17/26/1000_F_55172692_0Hi6kBsdLtDOeoympZAPBPCGXRKS91G0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,237 Books Read Png Royalty-Free Images, Stock Photos & Pictures ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/stack-books-isolated-on-white-600nw-2317754103.jpg' alt='2,237 Books Read Png Royalty-Free Images, Stock Photos & Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="477">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/stack-books-isolated-on-white-600nw-2317754103.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Book Cartoon Books On A Background Backgrounds | JPG Free ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/ai/illus_our/20230426/4bed3585300202e8d2afc264c52b1978.jpg!w700wp' alt='White Book Cartoon Books On A Background Backgrounds | JPG Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/ai/illus_our/20230426/4bed3585300202e8d2afc264c52b1978.jpg!w700wp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

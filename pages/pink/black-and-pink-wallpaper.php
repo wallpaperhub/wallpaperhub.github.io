@@ -1,0 +1,129 @@
+<title>Stunning Black and Pink Wallpaper Designs for Your Home</title>
+                    <meta name="description" content="Discover beautiful black and pink wallpaper designs to elevate your home decor. From striking patterns to sophisticated styles, find the perfect wallpaper that adds flair and personality to your space. Shop now for trending designs that suit any room and style!">
+                    <meta name="keywords" content="black and pink wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/black-and-pink-wallpaper">
+                            <span itemprop="name">black and pink wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Black and Pink Wallpaper Designs for Your Home</h1>
+                <p>Transform your space with stunning black and pink wallpaper that combines elegance and vibrancy. Perfect for creating a dramatic focal point, this wallpaper style enhances any room. Whether you prefer bold patterns or subtle hues, black and pink wallpapers add a touch of modern flair to your interior design. Explore various designs to find your perfect match!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/48/87/f0/4887f0492e6db88e64b23b3c9eee5068.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/48/87/f0/4887f0492e6db88e64b23b3c9eee5068.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6b/3e/13/6b3e13c08fcc01f0db32874a60b37d8b.jpg' alt='Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6b/3e/13/6b3e13c08fcc01f0db32874a60b37d8b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Pink Floral Wallpaper Peel and Stick Vintage Japanese Mural  Chinoiserie White Bird Wall Paper for Bathroom Bedroom Removable  17.5inx10ft ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81pwPw+dwPL._AC_UF894,1000_QL80_.jpg' alt='Black Pink Floral Wallpaper Peel and Stick Vintage Japanese Mural  Chinoiserie White Bird Wall Paper for Bathroom Bedroom Removable  17.5inx10ft ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81pwPw+dwPL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hot Pink Black Background Images – Browse 69,415 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/96/87/94/360_F_496879404_59X2E02pwyC4VQwAVGNuL4DQDqItD0iU.jpg' alt='Hot Pink Black Background Images – Browse 69,415 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/96/87/94/360_F_496879404_59X2E02pwyC4VQwAVGNuL4DQDqItD0iU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wavy iphone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a9/e9/df/a9e9df04da1ed81eb4b597a66ef2c8c5.jpg' alt='wavy iphone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a9/e9/df/a9e9df04da1ed81eb4b597a66ef2c8c5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable cute pink wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFbM-bXCuo/3/0/900w/canva-black-and-pink-blurry-heart-phone-wallpaper-hEM-HWcPqlg.jpg' alt='Free and customizable cute pink wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFbM-bXCuo/3/0/900w/canva-black-and-pink-blurry-heart-phone-wallpaper-hEM-HWcPqlg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Pink Wallpaper - App on Amazon Appstore">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71Qq2cBswIL.png' alt='Black Pink Wallpaper - App on Amazon Appstore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71Qq2cBswIL.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink smoke, black, pink, smoke, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/787/637/HD-wallpaper-pink-smoke-black-pink-smoke.jpg' alt='Pink smoke, black, pink, smoke, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/787/637/HD-wallpaper-pink-smoke-black-pink-smoke.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black And Pink Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/abstract-geometric-diagonal-shape-dark-background_1409-1819.jpg' alt='Black And Pink Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="376">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/abstract-geometric-diagonal-shape-dark-background_1409-1819.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="290+ Hot Pink And Black Wallpaper Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1398988366/vector/hot-pink-sparkling-scattered-glitter-flyer-vector.jpg?s=612x612&w=0&k=20&c=rz2vDcMNkL5XGPrS208GiDWC5UKBtEjHHWpOja2P39g=' alt='290+ Hot Pink And Black Wallpaper Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="430">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1398988366/vector/hot-pink-sparkling-scattered-glitter-flyer-vector.jpg?s=612x612&w=0&k=20&c=rz2vDcMNkL5XGPrS208GiDWC5UKBtEjHHWpOja2P39g=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Navigating Life’s Rough Background: Building Resilience</title>
+                    <meta name="description" content="Explore the impact of a rough background on personal growth and resilience. Discover how overcoming adversity shapes character and leads to empathy. Join us in understanding the transformative power of life's challenges for a stronger future.">
+                    <meta name="keywords" content="rough background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rough-background">
+                            <span itemprop="name">rough background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Navigating Life’s Rough Background: Building Resilience</h1>
+                <p>Rough background refers to an individual’s challenging life experiences that shape their character and perspective. These experiences can include tough childhoods, socio-economic struggles, or personal hardships. Understanding someone's rough background fosters empathy and encourages personal growth, providing valuable insights into how adversity can lead to resilience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rough Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/concrete-wall-scratched-material-background-texture-concept_53876-14101.jpg' alt='Rough Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/concrete-wall-scratched-material-background-texture-concept_53876-14101.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rough Background Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/020/204/938/non_2x/rough-painted-metal-surface-with-rusty-dots-background-free-photo.jpg' alt='Rough Background Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/020/204/938/non_2x/rough-painted-metal-surface-with-rusty-dots-background-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rough Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/concrete-wall-textured-backgrounds-built-structure-concept_53876-23158.jpg' alt='Rough Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/concrete-wall-textured-backgrounds-built-structure-concept_53876-23158.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rough Background Images – Browse 7,384,118 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/86/37/57/360_F_286375793_tMNCezCxZVJMzXVlunBoKI1JWP72cE9L.jpg' alt='Rough Background Images – Browse 7,384,118 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/86/37/57/360_F_286375793_tMNCezCxZVJMzXVlunBoKI1JWP72cE9L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rough Background" Images – Browse 15,962 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/05/47/47/53/360_F_547475365_eDzNYG8YvQLTRwfpZqbW8JTXoIJLMkjw.jpg' alt='Rough Background" Images – Browse 15,962 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/05/47/47/53/360_F_547475365_eDzNYG8YvQLTRwfpZqbW8JTXoIJLMkjw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="183,300+ Rough Texture Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1430878163/vector/distressed-black-texture.jpg?s=612x612&w=0&k=20&c=D0Ammw7W2D9RxlZfDCU4XsHCqqNE___ES-FGCkMXRU4=' alt='183,300+ Rough Texture Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1430878163/vector/distressed-black-texture.jpg?s=612x612&w=0&k=20&c=D0Ammw7W2D9RxlZfDCU4XsHCqqNE___ES-FGCkMXRU4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rough Photos, Download The BEST Free Rough Stock Photos & HD Images">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/247671/pexels-photo-247671.jpeg?cs=srgb&dl=pexels-pixabay-247671.jpg&fm=jpg' alt='Rough Photos, Download The BEST Free Rough Stock Photos & HD Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4032">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/247671/pexels-photo-247671.jpeg?cs=srgb&dl=pexels-pixabay-247671.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark background with rough texture | Colourbox">
+                                <img itemprop="contentUrl url" src='https://cbx-prod.b-cdn.net/COLOURBOX22705916.jpg?width=800&height=800&quality=70' alt='Dark background with rough texture | Colourbox'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Colourbox" />
+                                </span>
+                                <a href='https://cbx-prod.b-cdn.net/COLOURBOX22705916.jpg?width=800&height=800&quality=70' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rough Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/white-grungy-wall-textured-background_53876-103916.jpg' alt='Rough Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/white-grungy-wall-textured-background_53876-103916.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rough Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20210120/pngtree-beautiful-abstract-grunge-decorative-navy-blue-dark-stucco-wall-background-art-image_536840.jpg' alt='Rough Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20210120/pngtree-beautiful-abstract-grunge-decorative-navy-blue-dark-stucco-wall-background-art-image_536840.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

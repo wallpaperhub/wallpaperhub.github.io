@@ -1,0 +1,129 @@
+<title>Stunning Ombre Circle Designs for Your Space</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="ombre circle">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ombre-circle">
+                            <span itemprop="name">ombre circle</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Ombre Circle Designs for Your Space</h1>
+                <p>Ombre circles are a stunning design element that combines color gradients to create depth and dimension. Often used in art, fashion, and home decor, they blend shades seamlessly, offering a mesmerizing visual effect. Perfect for enhancing any space or outfit, these circles bring a creative touch that captivates the eye.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ombre Circle Wall Sticker | Wall Decals | restowrap – RestoWrap">
+                                <img itemprop="contentUrl url" src='https://restowrap.com/cdn/shop/products/Misty-Sunset-prurple-orange-ombre-round-wall-art-sticker_1946x.jpg?v=1668437030' alt='Ombre Circle Wall Sticker | Wall Decals | restowrap – RestoWrap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1666">
+                                <meta itemprop="height" content="1666">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RestoWrap" />
+                                </span>
+                                <a href='https://restowrap.com/cdn/shop/products/Misty-Sunset-prurple-orange-ombre-round-wall-art-sticker_1946x.jpg?v=1668437030' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ombre Rainbow Circle 12x12 Patterned Vinyl Sheet">
+                                <img itemprop="contentUrl url" src='http://www.icraftvinyl.com/cdn/shop/products/ombreraimbowspiral_grande.jpg?v=1626711574' alt='Ombre Rainbow Circle 12x12 Patterned Vinyl Sheet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Icraft Vinyl" />
+                                </span>
+                                <a href='http://www.icraftvinyl.com/cdn/shop/products/ombreraimbowspiral_grande.jpg?v=1626711574' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="kylie francis | Wallpaper, Aura colors, Abstract backgrounds">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/f6/2f/b1/f62fb1c686e4b9be19e1c197914e9371.jpg' alt='kylie francis | Wallpaper, Aura colors, Abstract backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="713">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/f6/2f/b1/f62fb1c686e4b9be19e1c197914e9371.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100 Ombre Circle clipart rainbow colors white ombre gradient circles  ellipse rounded png planner stickers personal and commercial use">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11276874/r/il/7f1fc3/5427333721/il_fullxfull.5427333721_3pi2.jpg' alt='100 Ombre Circle clipart rainbow colors white ombre gradient circles  ellipse rounded png planner stickers personal and commercial use'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11276874/r/il/7f1fc3/5427333721/il_fullxfull.5427333721_3pi2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Circle Ombre Stock Illustrations – 56,098 Circle Ombre Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/circle-shape-ombre-pastel-color-backgrounds-set-label-tag-logo-background-gradation-watercolour-style-vector-illustration-222245492.jpg' alt='Circle Ombre Stock Illustrations – 56,098 Circle Ombre Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/circle-shape-ombre-pastel-color-backgrounds-set-label-tag-logo-background-gradation-watercolour-style-vector-illustration-222245492.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="gradient circle/aura colour pfp">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5e/a3/02/5ea302886145822040915ba2b76da912.jpg' alt='gradient circle/aura colour pfp'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5e/a3/02/5ea302886145822040915ba2b76da912.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gradient Neon Circles" Poster for Sale by PaulinaS | Redbubble">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.2466735414.7478/fposter,small,wall_texture,square_product,600x600.jpg' alt='Gradient Neon Circles" Poster for Sale by PaulinaS | Redbubble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.2466735414.7478/fposter,small,wall_texture,square_product,600x600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Circle Ombre Stock Illustrations – 56,098 Circle Ombre Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/purple-yellow-color-circle-gradient-noise-gradation-abstract-violet-pink-colorful-watercolor-blur-mesh-shape-white-aura-338547790.jpg' alt='Circle Ombre Stock Illustrations – 56,098 Circle Ombre Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/purple-yellow-color-circle-gradient-noise-gradation-abstract-violet-pink-colorful-watercolor-blur-mesh-shape-white-aura-338547790.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gradient circle">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/ac/8c/ee/ac8cee1bacbd33469b231b01c360a161.jpg' alt='Gradient circle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/ac/8c/ee/ac8cee1bacbd33469b231b01c360a161.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstrac Background Circle Gradient Pink Purple Stock Illustration ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/abstrac-background-circle-gradient-pink-260nw-2058477254.jpg' alt='Abstrac Background Circle Gradient Pink Purple Stock Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/abstrac-background-circle-gradient-pink-260nw-2058477254.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

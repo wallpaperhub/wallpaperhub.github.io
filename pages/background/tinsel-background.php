@@ -1,0 +1,129 @@
+<title>Shimmering Tinsel Backgrounds for Festive Celebrations</title>
+                    <meta name="description" content="Add a touch of sparkle to your events with shimmering tinsel backgrounds. Ideal for parties, photography, and holiday decorations, these vibrant backdrops are lightweight and easy to set up. Elevate your celebrations with the festive charm of tinsel today!">
+                    <meta name="keywords" content="tinsel background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/tinsel-background">
+                            <span itemprop="name">tinsel background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Shimmering Tinsel Backgrounds for Festive Celebrations</h1>
+                <p>Tinsel backgrounds offer a vibrant and festive aesthetic, perfect for holiday events, photography sessions, or party decor. With shimmering metallic strands in various colors, they create a dazzling backdrop that enhances any celebration. Easy to set up and lightweight, tinsel backgrounds add sparkle and elegance, making them a sought-after choice for both indoor and outdoor occasions.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: GOER 3.2 ft x 9.8 ft Metallic Tinsel Foil Fringe Curtains Party  Photo Backdrop Party Streamers for Birthday,Graduation,New Year Eve ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81lkHyd6DoL.jpg' alt='Amazon.com: GOER 3.2 ft x 9.8 ft Metallic Tinsel Foil Fringe Curtains Party  Photo Backdrop Party Streamers for Birthday,Graduation,New Year Eve ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1275">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81lkHyd6DoL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GOER 3.2 ft x 9.8 ft Metallic Tinsel Foil Fringe Curtains Party Photo  Backdrop Party Streamers for Birthday,Graduation,New Year Eve Decorations  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81MDBSbtN+L._AC_UF894,1000_QL80_.jpg' alt='GOER 3.2 ft x 9.8 ft Metallic Tinsel Foil Fringe Curtains Party Photo  Backdrop Party Streamers for Birthday,Graduation,New Year Eve Decorations  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81MDBSbtN+L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tinsel Photo Booth Backdrop Curtain – Pixilated">
+                                <img itemprop="contentUrl url" src='https://pixilated.com/cdn/shop/products/tinsel-photo-booth-backdrop-199190.webp?v=1675806666&width=1445' alt='Tinsel Photo Booth Backdrop Curtain – Pixilated'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixilated Photo Booth" />
+                                </span>
+                                <a href='https://pixilated.com/cdn/shop/products/tinsel-photo-booth-backdrop-199190.webp?v=1675806666&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Set of 2 Silver Foil Curtain Tinsel Fringe Photo Backdrop Wedding Birthday  Decoration">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/15734905/r/il/f9514e/2986004044/il_570xN.2986004044_oggp.jpg' alt='Set of 2 Silver Foil Curtain Tinsel Fringe Photo Backdrop Wedding Birthday  Decoration'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/15734905/r/il/f9514e/2986004044/il_570xN.2986004044_oggp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Dazzle Bright 2 Pack Backdrop Curtain, 3FT x 8FT Metallic  Tinsel Foil Fringe Curtains Photo Booth Background for Baby Shower Party ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/915tCZfOOUL.jpg' alt='Amazon.com : Dazzle Bright 2 Pack Backdrop Curtain, 3FT x 8FT Metallic  Tinsel Foil Fringe Curtains Photo Booth Background for Baby Shower Party ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/915tCZfOOUL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="42,500+ Tinsel Backdrop Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1307714045/photo/christmas-and-new-year-background-tinsel-or-shiny-ribbons.jpg?s=612x612&w=0&k=20&c=7HByJdPzqMIQGtKqZUSRVKaZd5mOV1JtNX4cvSXXeh4=' alt='42,500+ Tinsel Backdrop Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1307714045/photo/christmas-and-new-year-background-tinsel-or-shiny-ribbons.jpg?s=612x612&w=0&k=20&c=7HByJdPzqMIQGtKqZUSRVKaZd5mOV1JtNX4cvSXXeh4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tinsel Photo Booth Backdrop Curtain – Pixilated">
+                                <img itemprop="contentUrl url" src='https://pixilated.com/cdn/shop/products/tinsel-photo-booth-backdrop-313637.webp?v=1675806666&width=1445' alt='Tinsel Photo Booth Backdrop Curtain – Pixilated'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixilated Photo Booth" />
+                                </span>
+                                <a href='https://pixilated.com/cdn/shop/products/tinsel-photo-booth-backdrop-313637.webp?v=1675806666&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,000+ Tinsel Curtain Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1290742094/photo/christmas-festive-background-new-year-celebration.jpg?s=612x612&w=0&k=20&c=WEyMtt59g2J7QG6FGBQqF3NmlT_xHxAL69UIL0-uJHQ=' alt='1,000+ Tinsel Curtain Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1290742094/photo/christmas-festive-background-new-year-celebration.jpg?s=612x612&w=0&k=20&c=WEyMtt59g2J7QG6FGBQqF3NmlT_xHxAL69UIL0-uJHQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tinsel Background Images – Browse 252,908 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/01/02/85/51/360_F_102855153_Pc4Fm78YwGkXFFljIfd0RLFo170aaaqp.jpg' alt='Tinsel Background Images – Browse 252,908 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/01/02/85/51/360_F_102855153_Pc4Fm78YwGkXFFljIfd0RLFo170aaaqp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Champagne Gold Fringe Curtain Backdrop (2mx1m), Gold Streamer ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/23753139/r/il/3ad579/4684717405/il_570xN.4684717405_m6he.jpg' alt='Champagne Gold Fringe Curtain Backdrop (2mx1m), Gold Streamer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/23753139/r/il/3ad579/4684717405/il_570xN.4684717405_m6he.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

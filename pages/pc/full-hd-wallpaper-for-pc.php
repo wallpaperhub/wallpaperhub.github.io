@@ -1,0 +1,129 @@
+<title>Stunning Full HD Wallpapers for Your PC</title>
+                    <meta name="description" content="Discover an extensive collection of full HD wallpapers for your PC. Perfect for any style or preference, our wallpapers ensure your screen looks amazing. Download your favorite designs and give your desktop a fresh, vibrant look that enhances your daily digital experience.">
+                    <meta name="keywords" content="full hd wallpaper for pc">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pc">
+                            <span itemprop="name">PC</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pc/full-hd-wallpaper-for-pc">
+                            <span itemprop="name">full hd wallpaper for pc</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Full HD Wallpapers for Your PC</h1>
+                <p>Enhance your PC with stunning full HD wallpapers that bring your screen to life. Choose from a diverse range of themes, including nature, abstract designs, and iconic landscapes. With crystal-clear resolution, these wallpapers not only beautify your desktop but also provide a visually immersive experience. Upgrade your screen today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Full Screen Hd Desktop Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/lakeside-car-full-desktop-screen-hd-ffduevjvagzqhrhy.jpg' alt='Full Screen Hd Desktop Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/lakeside-car-full-desktop-screen-hd-ffduevjvagzqhrhy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Full Hd Pictures | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/bubble-full-screen-hd-desktop-n7n08rrgcei7kigb.jpg' alt='100+] Full Hd Pictures | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/bubble-full-screen-hd-desktop-n7n08rrgcei7kigb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Top Full Hd Nature Wallpapers 1080P Desktop FULL HD 1080p For ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d8/45/84/d84584e64ab8d30cbcbcd19269bd98c7.jpg' alt='10 Top Full Hd Nature Wallpapers 1080P Desktop FULL HD 1080p For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d8/45/84/d84584e64ab8d30cbcbcd19269bd98c7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100,000+ Best Desktop Wallpaper Backgrounds Photos · 100% Free ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/585752/pexels-photo-585752.jpeg?cs=srgb&dl=pexels-ifreestock-585752.jpg&fm=jpg' alt='100,000+ Best Desktop Wallpaper Backgrounds Photos · 100% Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5760">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/585752/pexels-photo-585752.jpeg?cs=srgb&dl=pexels-ifreestock-585752.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Full Screen Hd Desktop Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/water-drop-full-screen-hd-deskt-pvrocq06v2mwoh0y.jpg' alt='Full Screen Hd Desktop Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/water-drop-full-screen-hd-deskt-pvrocq06v2mwoh0y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60,000+ Best Desktop Wallpaper Photos · 100% Free Download ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/640781/pexels-photo-640781.jpeg?cs=srgb&dl=pexels-eberhardgross-640781.jpg&fm=jpg' alt='60,000+ Best Desktop Wallpaper Photos · 100% Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5496">
+                                <meta itemprop="height" content="3670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/640781/pexels-photo-640781.jpeg?cs=srgb&dl=pexels-eberhardgross-640781.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Hd Wallpapers For Pc 1920x1080">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c0/96/95/c096959cd27929ff80988382a2b89929.jpg' alt='Best Hd Wallpapers For Pc 1920x1080'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c0/96/95/c096959cd27929ff80988382a2b89929.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="400+] Windows Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cool-windows-desktop-b6yb6qpq6ndvo3k6.jpg' alt='400+] Windows Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cool-windows-desktop-b6yb6qpq6ndvo3k6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ford Mustang HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/890/89045.jpg' alt='Ford Mustang HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/890/89045.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stunning Windows 7 HD Wallpaper for Tech Enthusiasts">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/349/349998.jpg' alt='Stunning Windows 7 HD Wallpaper for Tech Enthusiasts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/349/349998.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

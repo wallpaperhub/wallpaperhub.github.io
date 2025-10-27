@@ -1,0 +1,129 @@
+<title>Perfect Pink Heart Backgrounds for Every Occasion</title>
+                    <meta name="description" content="Discover stunning pink heart backgrounds that add charm and warmth to your designs. Perfect for romantic events, social media, and more, these backgrounds will elevate your visuals with love and style. Explore our collection to find the ideal backdrop for any occasion!">
+                    <meta name="keywords" content="pink heart background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pink-heart-background">
+                            <span itemprop="name">pink heart background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Perfect Pink Heart Backgrounds for Every Occasion</h1>
+                <p>A pink heart background is a delightful and romantic choice for various applications, from social media posts to invitations. With its soft hues and charming designs, it adds a touch of warmth and love to any project. Perfect for Valentine's Day, weddings, or any occasion celebrating affection, a pink heart background is sure to make your visuals pop.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Heart Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/polka-style-cute-love-heart-pattern-textile-fabric-print_1017-52352.jpg' alt='Pink Heart Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/polka-style-cute-love-heart-pattern-textile-fabric-print_1017-52352.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="117,600+ Pink Hearts Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1366192052/vector/retro-vector-background-with-heart-tunnel-for-social-media-posts-banner-card-design-etc.jpg?s=612x612&w=0&k=20&c=liT3i90v2kCRmg6jLvwM9XT1rXtZiNqUmi7D1LJIXGo=' alt='117,600+ Pink Hearts Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1366192052/vector/retro-vector-background-with-heart-tunnel-for-social-media-posts-banner-card-design-etc.jpg?s=612x612&w=0&k=20&c=liT3i90v2kCRmg6jLvwM9XT1rXtZiNqUmi7D1LJIXGo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Pink Heart Backdrop Early 2000s Valentines Day Pink ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/514CceoJS4L.jpg' alt='Amazon.com : Pink Heart Backdrop Early 2000s Valentines Day Pink ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="714">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/514CceoJS4L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Pink Heart Background in Illustrator, EPS, JPG, SVG ...">
+                                <img itemprop="contentUrl url" src='https://images.template.net/73932/Free-Pastel-Pink-Heart-Background-Mobile-1.jpg' alt='Pastel Pink Heart Background in Illustrator, EPS, JPG, SVG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="1564">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template.net" />
+                                </span>
+                                <a href='https://images.template.net/73932/Free-Pastel-Pink-Heart-Background-Mobile-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Heart Pattern on Light Pink Background Wallpaper Image ...">
+                                <img itemprop="contentUrl url" src='https://illustlive.com/photo/iphone/113.png' alt='Pink Heart Pattern on Light Pink Background Wallpaper Image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ILLUSTLIVE" />
+                                </span>
+                                <a href='https://illustlive.com/photo/iphone/113.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download premium image of Y2K pink hearts background, cute ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/98/0e/01/980e018891e86a5b774779e975c72c0c.jpg' alt='Download premium image of Y2K pink hearts background, cute ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/98/0e/01/980e018891e86a5b774779e975c72c0c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="y2k pink heart wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/99/10/60/991060724e110a79a54cfba023663878.jpg' alt='y2k pink heart wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/99/10/60/991060724e110a79a54cfba023663878.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Outline Heart Background - Pink Outline Heart Background Image">
+                                <img itemprop="contentUrl url" src='https://content.mycutegraphics.com/backgrounds/hearts/pink-outline-heart-background.gif' alt='Pink Outline Heart Background - Pink Outline Heart Background Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MyCuteGraphics" />
+                                </span>
+                                <a href='https://content.mycutegraphics.com/backgrounds/hearts/pink-outline-heart-background.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Heart Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/006/432/649/non_2x/pink-stage-for-placing-products-empty-cylinder-podium-concept-of-love-or-valentine-s-day-sweet-pink-background-decorated-with-hearts-gift-boxes-and-shopping-bags-designed-for-background-banner-vector.jpg' alt='Pink Heart Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1531">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/006/432/649/non_2x/pink-stage-for-placing-products-empty-cylinder-podium-concept-of-love-or-valentine-s-day-sweet-pink-background-decorated-with-hearts-gift-boxes-and-shopping-bags-designed-for-background-banner-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Heart Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/valentines-day-heart-shaped-confetti-love-valentine-background-with-red-petals-hearts_1009332-289.jpg?semt=ais_hybrid' alt='Pink Heart Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="438">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/valentines-day-heart-shaped-confetti-love-valentine-background-with-red-petals-hearts_1009332-289.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

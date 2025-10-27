@@ -1,0 +1,129 @@
+<title>Elegant Pink Marble Wallpaper: Transform Your Space</title>
+                    <meta name="description" content="Discover the beauty of pink wallpaper marble and elevate your interior design. This chic choice offers a luxurious look with effortless elegance, perfect for any room in your home. Create a serene space with captivating patterns that blend style and sophistication. Update your decor today!">
+                    <meta name="keywords" content="pink wallpaper marble">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-wallpaper-marble">
+                            <span itemprop="name">pink wallpaper marble</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Pink Marble Wallpaper: Transform Your Space</h1>
+                <p>Pink wallpaper marble combines the elegance of marble with a soft, romantic hue. This stunning design choice adds a touch of luxury to any room while creating a calming atmosphere. Ideal for bedrooms or living spaces, pink marble wallpaper creates a chic backdrop, enhancing your decor and personal style effortlessly.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Marble Background Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_social_portrait/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm00NzItMTEtMmQuanBn.jpg' alt='Pink Marble Background Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="562">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_social_portrait/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm00NzItMTEtMmQuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Marble Wallpaper, Abstract Pattern, Luxury Modern Wall Mural peel and  Stick self Adhesive or Traditional Vinyl Papers - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25403795/r/il/6a631f/4897636701/il_1080xN.4897636701_fb1l.jpg' alt='Pink Marble Wallpaper, Abstract Pattern, Luxury Modern Wall Mural peel and  Stick self Adhesive or Traditional Vinyl Papers - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="945">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25403795/r/il/6a631f/4897636701/il_1080xN.4897636701_fb1l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Liquid Marble Wallpaper in Pink and Gold">
+                                <img itemprop="contentUrl url" src='http://ilovewallpaper.com/cdn/shop/files/1-Liquid-Marble-Pink-and-Gold_ILW035_Thumbnail_WEB_971bd3eb-a8f9-4314-ba2d-8f9d5b5ab529.webp?v=1706010649' alt='Liquid Marble Wallpaper in Pink and Gold'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='http://ilovewallpaper.com/cdn/shop/files/1-Liquid-Marble-Pink-and-Gold_ILW035_Thumbnail_WEB_971bd3eb-a8f9-4314-ba2d-8f9d5b5ab529.webp?v=1706010649' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Marble Background Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm00NzItMTEtMi5qcGc.jpg' alt='Pink Marble Background Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm00NzItMTEtMi5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dreamy Marble Mural in Pastel Pink with Gold – I Love Wallpaper">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/1-DreamyMarbleMural_PastelPinkwithGold_WM0358_Roomset_Lifestyle_WEB.webp?crop=center&height=850&v=1705576650&width=850' alt='Dreamy Marble Mural in Pastel Pink with Gold – I Love Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/1-DreamyMarbleMural_PastelPinkwithGold_WM0358_Roomset_Lifestyle_WEB.webp?crop=center&height=850&v=1705576650&width=850' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PINK Marble Design Wallpaper A4 Sized Edible Wafer Paper / Icing Sheet for  cakes">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/6-QAAOSwsTJcdn-T/s-l1200.jpg' alt='PINK Marble Design Wallpaper A4 Sized Edible Wafer Paper / Icing Sheet for  cakes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="848">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/6-QAAOSwsTJcdn-T/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Marble Wallpaper, Marble Texture, Wallpaper With Ink Painting ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/34649723/r/il/d11478/6511781472/il_fullxfull.6511781472_i5b4.jpg' alt='Pink Marble Wallpaper, Marble Texture, Wallpaper With Ink Painting ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1999">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/34649723/r/il/d11478/6511781472/il_fullxfull.6511781472_i5b4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White and Pink Marble">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/62913/white-and-pink-marble.jpg?h=699&q=85' alt='White and Pink Marble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="979">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/62913/white-and-pink-marble.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hot Pink Shades Marble Wallpaper, Dreamy Pink Marble Peel & Stick ...">
+                                <img itemprop="contentUrl url" src='https://muralium.com/wp-content/uploads/2023/11/009_Front_Interior_Scene-16.jpg' alt='Hot Pink Shades Marble Wallpaper, Dreamy Pink Marble Peel & Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Muralium" />
+                                </span>
+                                <a href='https://muralium.com/wp-content/uploads/2023/11/009_Front_Interior_Scene-16.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Wallpaper Murals 3D Pink marble rose gold Peel and Stick Removable  Self-Adhesive canvas Wall Stickers for Nursery Kids Bedroom TV Wall Decor">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Modern-Wallpaper-Murals-3D-Pink-marble-rose-gold-Peel-and-Stick-Removable-Self-Adhesive-canvas-Wall-Stickers-for-Nursery-Kids-Bedroom-TV-Wall-Decor_16aeaa9a-0a3b-4fc5-95b8-6fd1cc06ee47.f0f72c15faee4a57d598339063e2794a.jpeg' alt='Modern Wallpaper Murals 3D Pink marble rose gold Peel and Stick Removable  Self-Adhesive canvas Wall Stickers for Nursery Kids Bedroom TV Wall Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Modern-Wallpaper-Murals-3D-Pink-marble-rose-gold-Peel-and-Stick-Removable-Self-Adhesive-canvas-Wall-Stickers-for-Nursery-Kids-Bedroom-TV-Wall-Decor_16aeaa9a-0a3b-4fc5-95b8-6fd1cc06ee47.f0f72c15faee4a57d598339063e2794a.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

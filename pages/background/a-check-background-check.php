@@ -1,0 +1,129 @@
+<title>A-check Background Check Services: Secure Your Hiring Process</title>
+                    <meta name="description" content="Discover A-check background check services that provide fast, reliable, and thorough screening solutions. Safeguard your hiring process with accurate criminal checks, employment verification, and more. Make informed decisions for a safer workplace today!">
+                    <meta name="keywords" content="a-check background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/a-check-background-check">
+                            <span itemprop="name">a-check background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>A-check Background Check Services: Secure Your Hiring Process</h1>
+                <p>A-check background check services offer comprehensive assessments to ensure safety and security for employers and individuals. They include criminal record checks, employment verification, and education history scans. With accurate and timely results, A-check helps organizations make informed hiring decisions and maintain a safe environment.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Screening solution by A-Check America, Inc. | iCIMS ...">
+                                <img itemprop="contentUrl url" src='https://d3bql97l1ytoxn.cloudfront.net/app_resources/134731/screenshot/img3426873861948555342.png' alt='Background Screening solution by A-Check America, Inc. | iCIMS ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="615">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iCIMS Marketplace" />
+                                </span>
+                                <a href='https://d3bql97l1ytoxn.cloudfront.net/app_resources/134731/screenshot/img3426873861948555342.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A-Check Global, A Sterling Company | LinkedIn">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/C560BAQECkn5EbVziqw/company-logo_200_200/company-logo_200_200/0/1679082295428/acheckglobal_logo?e=2147483647&v=beta&t=VejqYyUYmBHBDvsYETlK8gkAyyLsfdMEsNhoFCozOY0' alt='A-Check Global, A Sterling Company | LinkedIn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/C560BAQECkn5EbVziqw/company-logo_200_200/company-logo_200_200/0/1679082295428/acheckglobal_logo?e=2147483647&v=beta&t=VejqYyUYmBHBDvsYETlK8gkAyyLsfdMEsNhoFCozOY0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A-Check Global Background Check Process: Common Errors">
+                                <img itemprop="contentUrl url" src='https://consumerattorneys.com/_next/image?url=%2Fmedia%2Fblog%2F661e1e305879f.webp%3Fw%3D756&w=1920&q=75' alt='A-Check Global Background Check Process: Common Errors'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Consumer Attorneys" />
+                                </span>
+                                <a href='https://consumerattorneys.com/_next/image?url=%2Fmedia%2Fblog%2F661e1e305879f.webp%3Fw%3D756&w=1920&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employment Verification checks previous employers' records">
+                                <img itemprop="contentUrl url" src='https://f.hubspotusercontent30.net/hubfs/7261588/backgroundchecks.com%20Employment%20Verification%20Sample.jpg' alt='Employment Verification checks previous employers' records'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1662">
+                                <meta itemprop="height" content="3317">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backgroundchecks.com" />
+                                </span>
+                                <a href='https://f.hubspotusercontent30.net/hubfs/7261588/backgroundchecks.com%20Employment%20Verification%20Sample.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Screening solution by A-Check America, Inc. | iCIMS ...">
+                                <img itemprop="contentUrl url" src='https://d3bql97l1ytoxn.cloudfront.net/app_resources/134731/screenshot/img6334526736199945518.png' alt='Background Screening solution by A-Check America, Inc. | iCIMS ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="573">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iCIMS Marketplace" />
+                                </span>
+                                <a href='https://d3bql97l1ytoxn.cloudfront.net/app_resources/134731/screenshot/img6334526736199945518.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is a background check? An in-depth employer's guide">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/vztl6s0hp3ro/2nLKHZ9nQPC9U7QLOwWM7X/df46b5e04aa6b3f79aa4e95c894c94a2/How-does-a-background-check-work.jpg' alt='What is a background check? An in-depth employer's guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TestGorilla" />
+                                </span>
+                                <a href='https://images.ctfassets.net/vztl6s0hp3ro/2nLKHZ9nQPC9U7QLOwWM7X/df46b5e04aa6b3f79aa4e95c894c94a2/How-does-a-background-check-work.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background checks: What employers can find out about you">
+                                <img itemprop="contentUrl url" src='https://i2.cdn.turner.com/money/dam/assets/141222143406-employment-background-checks-640x360.png' alt='Background checks: What employers can find out about you'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business - CNN" />
+                                </span>
+                                <a href='https://i2.cdn.turner.com/money/dam/assets/141222143406-employment-background-checks-640x360.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Michigan Background Checks for Employment: A Complete Guide [2025 ...">
+                                <img itemprop="contentUrl url" src='https://iprospectcheck.com/wp-content/uploads/2021/04/michigan-background-check-1.jpg' alt='Michigan Background Checks for Employment: A Complete Guide [2025 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iprospectcheck" />
+                                </span>
+                                <a href='https://iprospectcheck.com/wp-content/uploads/2021/04/michigan-background-check-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Types of Background Checks for Employment | ShareAble">
+                                <img itemprop="contentUrl url" src='https://hires.shareable.com/blog/types-of-background-checks/_jcr_content/root/pagesection/basicimage_copy.coreimg.png/1721242421673/sfh-7backgroundchecks-ingrpahic-1.png' alt='7 Types of Background Checks for Employment | ShareAble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="735">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareAble For Hires" />
+                                </span>
+                                <a href='https://hires.shareable.com/blog/types-of-background-checks/_jcr_content/root/pagesection/basicimage_copy.coreimg.png/1721242421673/sfh-7backgroundchecks-ingrpahic-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sample of a Selfie Background Check - Selfie Background Check">
+                                <img itemprop="contentUrl url" src='https://www.selfiebackgroundcheck.com/uploads/4/9/1/3/49135977/published/selfie-sample.jpg?1654286921' alt='Sample of a Selfie Background Check - Selfie Background Check'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="465">
+                                <meta itemprop="height" content="562">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Selfie Background Check" />
+                                </span>
+                                <a href='https://www.selfiebackgroundcheck.com/uploads/4/9/1/3/49135977/published/selfie-sample.jpg?1654286921' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

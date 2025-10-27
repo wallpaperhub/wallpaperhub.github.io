@@ -1,0 +1,129 @@
+<title>Stunning Outer Space Wallpaper for Your Home</title>
+                    <meta name="description" content="Explore a universe of creativity with our captivating outer space wallpaper. Perfect for all ages, these celestial designs will elevate your home decor, inspire adventure, and spark imagination. Transform any room into a cosmic wonderland today!">
+                    <meta name="keywords" content="wallpaper outer space">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space">
+                            <span itemprop="name">Space</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space/wallpaper-outer-space">
+                            <span itemprop="name">wallpaper outer space</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Outer Space Wallpaper for Your Home</h1>
+                <p>Transform your space with stunning outer space wallpaper designs! Whether you're a fan of galaxies, planets, or celestial bodies, these wallpapers bring the universe into your home. Perfect for kids' rooms, nurseries, or any space-loving adult, create a breathtaking atmosphere that inspires dreams and ignites imagination!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space & Galaxy Wallpaper Mural for Home Decor">
+                                <img itemprop="contentUrl url" src='https://everwallpaper.com/cdn/shop/files/ring-nubula-wallpaper-mural.jpg?v=1654148245' alt='Space & Galaxy Wallpaper Mural for Home Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='https://everwallpaper.com/cdn/shop/files/ring-nubula-wallpaper-mural.jpg?v=1654148245' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="290 Best Outer space wallpaper ideas | outer space wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9d/0d/83/9d0d8303b9a13645fbd7917d463d25b0.jpg' alt='290 Best Outer space wallpaper ideas | outer space wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9d/0d/83/9d0d8303b9a13645fbd7917d463d25b0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Outer Space Wallpapers (44 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/8/f/2/24341-1920x1200-desktop-hd-outer-space-background.jpg' alt='Outer Space Wallpapers (44 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/8/f/2/24341-1920x1200-desktop-hd-outer-space-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="800+] Outer Space Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/outer-space-3pae4flbryaputyl.jpg' alt='800+] Outer Space Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/outer-space-3pae4flbryaputyl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Space Wallpapers are the best... Here is a few I like. : r ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/7BQ9Ig391FbwCzMSgnCCgrzbEpnWXufcUSKwe6g7GXI.jpg?width=640&crop=smart&auto=webp&s=24a0dd92d3eeaeab7fcc68d7a21753ed0af201cb' alt='4K Space Wallpapers are the best... Here is a few I like. : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/7BQ9Ig391FbwCzMSgnCCgrzbEpnWXufcUSKwe6g7GXI.jpg?width=640&crop=smart&auto=webp&s=24a0dd92d3eeaeab7fcc68d7a21753ed0af201cb' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Space Wallpapers: Explore Stunning Cosmic Backgrounds">
+                                <img itemprop="contentUrl url" src='https://astrophotonsapps.com/iphone-space-wallpapers/celestial-alignment-iphone-space-wallpaper' alt='iPhone Space Wallpapers: Explore Stunning Cosmic Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1104">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Astro Photons Apps" />
+                                </span>
+                                <a href='https://astrophotonsapps.com/iphone-space-wallpapers/celestial-alignment-iphone-space-wallpaper' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Universe Wallpapers (48 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/0/0/8/2103666-3840x2160-desktop-4k-universe-wallpaper-image.jpg' alt='Universe Wallpapers (48 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/0/0/8/2103666-3840x2160-desktop-4k-universe-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Universe Wallpaper Hd Free - App on Amazon Appstore">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61lMXqAVylL.jpg' alt='Universe Wallpaper Hd Free - App on Amazon Appstore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61lMXqAVylL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Earth From Outer Space Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/earth-from-outer-space-hqcn8qccai6ahw2u.jpg' alt='Earth From Outer Space Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/earth-from-outer-space-hqcn8qccai6ahw2u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space & Galaxy Wallpaper Mural for Home Decor">
+                                <img itemprop="contentUrl url" src='https://everwallpaper.com/cdn/shop/products/411.webp?v=1696830160&width=533' alt='Space & Galaxy Wallpaper Mural for Home Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="611">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='https://everwallpaper.com/cdn/shop/products/411.webp?v=1696830160&width=533' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

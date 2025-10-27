@@ -1,0 +1,129 @@
+<title>Discover CarMax: Your One-Stop Shop for Quality Used Cars</title>
+                    <meta name="description" content="Explore CarMax for an unbeatable selection of used cars with transparent pricing and a stress-free shopping experience. Enjoy vehicle inspections, a 7-day return policy, and more to make your car buying journey seamless and enjoyable!">
+                    <meta name="keywords" content="carmax info">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/carmax-info">
+                            <span itemprop="name">carmax info</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover CarMax: Your One-Stop Shop for Quality Used Cars</h1>
+                <p>CarMax is a leading used car retailer in the United States, known for its hassle-free buying experience. With a vast inventory, CarMax offers a wide range of vehicles with no-haggle pricing, comprehensive vehicle inspections, and a 7-day return policy. Their customer-focused approach makes car shopping easy and enjoyable.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Interesting Facts About CarMax - Auto Cheat Sheet">
+                                <img itemprop="contentUrl url" src='https://www.autocheatsheet.com/wp-content/uploads/facts-about-carmax.jpg' alt='Interesting Facts About CarMax - Auto Cheat Sheet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="335">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Auto Cheat Sheet" />
+                                </span>
+                                <a href='https://www.autocheatsheet.com/wp-content/uploads/facts-about-carmax.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The 4WD/AWD Index | CarMax">
+                                <img itemprop="contentUrl url" src='https://content-images.carmax.com/qeontfmijmzv/52B25FC4E1E8D089EE85F41370A01DDF8E2444B0/12b7036f1bea9d9d5125a5b5ed0a4f70/info-most-popular-4wd-awd-vehicles-at-carmax.jpg?w=2100&fm=webp' alt='The 4WD/AWD Index | CarMax'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="651">
+                                <meta itemprop="height" content="549">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CarMax" />
+                                </span>
+                                <a href='https://content-images.carmax.com/qeontfmijmzv/52B25FC4E1E8D089EE85F41370A01DDF8E2444B0/12b7036f1bea9d9d5125a5b5ed0a4f70/info-most-popular-4wd-awd-vehicles-at-carmax.jpg?w=2100&fm=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Carmax no longer testing new employees for THC? Can anyone confirm ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/h7p4d7ndvt281.jpg?width=640&crop=smart&auto=webp&s=5cd89e6f13739174c7e0f3f465e4445ca9c73025' alt='Carmax no longer testing new employees for THC? Can anyone confirm ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="660">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/h7p4d7ndvt281.jpg?width=640&crop=smart&auto=webp&s=5cd89e6f13739174c7e0f3f465e4445ca9c73025' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CarMax | LinkedIn">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/D560BAQGte14f9UJr7w/company-logo_200_200/company-logo_200_200/0/1685633932023/carmax_logo?e=2147483647&v=beta&t=R1eYKdnpGhu4-TYHPBq5L8VqbY8AXBPC7drgrJ0Rlo8' alt='CarMax | LinkedIn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/D560BAQGte14f9UJr7w/company-logo_200_200/company-logo_200_200/0/1685633932023/carmax_logo?e=2147483647&v=beta&t=R1eYKdnpGhu4-TYHPBq5L8VqbY8AXBPC7drgrJ0Rlo8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How CarMax Cars Reach the Lot | CarMax">
+                                <img itemprop="contentUrl url" src='https://content-images.carmax.com/qeontfmijmzv/pyna8VeBOBJfXLUlsjFM5/e509c81492db7ca73b4464644b675b8f/504501_How_CarMax_Cars_Reach_the_Lot-Hero-abstract_800x600.jpg' alt='How CarMax Cars Reach the Lot | CarMax'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CarMax" />
+                                </span>
+                                <a href='https://content-images.carmax.com/qeontfmijmzv/pyna8VeBOBJfXLUlsjFM5/e509c81492db7ca73b4464644b675b8f/504501_How_CarMax_Cars_Reach_the_Lot-Hero-abstract_800x600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CarMax Car Details Page — sullydesigns">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5253f4eee4b0183a5e0d9b08/1599963732458-DIW19C2Y1G50LBO48XLG/2017-desktop.png' alt='CarMax Car Details Page — sullydesigns'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="3664">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="sullydesigns" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5253f4eee4b0183a5e0d9b08/1599963732458-DIW19C2Y1G50LBO48XLG/2017-desktop.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Carmax Agrees To Greater Disclosure Of Safety Info | 97.7 QLZ">
+                                <img itemprop="contentUrl url" src='https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1694/2022/12/01203022/CarMax-Symbol.png' alt='Carmax Agrees To Greater Disclosure Of Safety Info | 97.7 QLZ'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="97.7 QLZ" />
+                                </span>
+                                <a href='https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1694/2022/12/01203022/CarMax-Symbol.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CarMax Service Associates Page — Kara Bressie">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/55c27c1ae4b0cc6fe89048b8/1569129246757-MO2KMXJYM38JOH5L1SLJ/Customer%252Bemail%252B%2525E2%252580%252593%252Bservice%252Bplan%252Bpolicy%252Binfo' alt='CarMax Service Associates Page — Kara Bressie'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="978">
+                                <meta itemprop="height" content="1865">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kara Bressie" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/55c27c1ae4b0cc6fe89048b8/1569129246757-MO2KMXJYM38JOH5L1SLJ/Customer%252Bemail%252B%2525E2%252580%252593%252Bservice%252Bplan%252Bpolicy%252Binfo' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Are the Most Popular Car Colors? | CarMax">
+                                <img itemprop="contentUrl url" src='https://content-images.carmax.com/qeontfmijmzv/58391A4EDBC8A5CF025600E652BE185D0F907474/7d60e906c81e435ff4cab1d11b03814a/info-national-best-selling-car-colors.png?w=2100&fm=webp' alt='What Are the Most Popular Car Colors? | CarMax'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="651">
+                                <meta itemprop="height" content="1123">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CarMax" />
+                                </span>
+                                <a href='https://content-images.carmax.com/qeontfmijmzv/58391A4EDBC8A5CF025600E652BE185D0F907474/7d60e906c81e435ff4cab1d11b03814a/info-national-best-selling-car-colors.png?w=2100&fm=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Are the Most Popular Car Colors? | CarMax">
+                                <img itemprop="contentUrl url" src='https://content-images.carmax.com/qeontfmijmzv/CB27341EC7AFA8909BD32F41BF2897C09D8B6AAE/7177db7e05971d6d66a88a540ef7e1ef/info-car-colors-body-type.jpg?w=2100&fm=webp' alt='What Are the Most Popular Car Colors? | CarMax'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="651">
+                                <meta itemprop="height" content="1140">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CarMax" />
+                                </span>
+                                <a href='https://content-images.carmax.com/qeontfmijmzv/CB27341EC7AFA8909BD32F41BF2897C09D8B6AAE/7177db7e05971d6d66a88a540ef7e1ef/info-car-colors-body-type.jpg?w=2100&fm=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

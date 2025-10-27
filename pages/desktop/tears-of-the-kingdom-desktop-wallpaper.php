@@ -1,0 +1,129 @@
+<title>Tears of the Kingdom Desktop Wallpapers - Epic Imagery for Your Screen</title>
+                    <meta name="description" content="Discover captivating "Tears of the Kingdom" desktop wallpapers that transform your device. Featuring magnificent designs inspired by the game, these wallpapers bring the fantasy world to life. Download now for an extraordinary visual experience that enhances your workspace with adventure!">
+                    <meta name="keywords" content="tears of the kingdom desktop wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/tears-of-the-kingdom-desktop-wallpaper">
+                            <span itemprop="name">tears of the kingdom desktop wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Tears of the Kingdom Desktop Wallpapers - Epic Imagery for Your Screen</h1>
+                <p>Elevate your desktop with stunning "Tears of the Kingdom" wallpapers! Immerse yourself in the breathtaking visuals inspired by the game, featuring iconic characters and landscapes. Perfectly designed to reflect the magic of the kingdom, these wallpapers will bring a touch of adventure to your screen, making every moment feel epic.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Legend of Zelda: Tears of the Kingdom[4k] : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/cbrKWWY6_Sa_RyOoGpvj3Gsu5kGnthUrVSnbndr0YKo.jpg?auto=webp&s=ca35bee4ebcb2c70c18eca0c248b8da84f8a8820' alt='The Legend of Zelda: Tears of the Kingdom[4k] : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/cbrKWWY6_Sa_RyOoGpvj3Gsu5kGnthUrVSnbndr0YKo.jpg?auto=webp&s=ca35bee4ebcb2c70c18eca0c248b8da84f8a8820' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zelda: Tears of the Kingdom 4K Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/127/1272163.jpg' alt='Zelda: Tears of the Kingdom 4K Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4134">
+                                <meta itemprop="height" content="2313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/127/1272163.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Official 4K version of this artwork from My Nintendo, I removed ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/o95erb6h9d6c1.png' alt='Official 4K version of this artwork from My Nintendo, I removed ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/o95erb6h9d6c1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zelda: Tears of the Kingdom 4K Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/129/1296618.png' alt='Zelda: Tears of the Kingdom 4K Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1242">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/129/1296618.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper: The Legend of Zelda™: Tears of the Kingdom - Link ...">
+                                <img itemprop="contentUrl url" src='https://cdn-image-f3580964b8e711e5b95f2ff191a1c838.baas.nintendo.com/1/b1fdf517f82111ea' alt='Wallpaper: The Legend of Zelda™: Tears of the Kingdom - Link ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2566">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="My Nintendo" />
+                                </span>
+                                <a href='https://cdn-image-f3580964b8e711e5b95f2ff191a1c838.baas.nintendo.com/1/b1fdf517f82111ea' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zelda: Tears of the Kingdom 4K Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/130/1301855.jpg' alt='Zelda: Tears of the Kingdom 4K Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/130/1301855.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game The Legend Of Zelda: Tears Of The Kingdom HD ...">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/127/1274057.jpg' alt='Download Video Game The Legend Of Zelda: Tears Of The Kingdom HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/127/1274057.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Legend of Zelda: Tears of the Kingdom Landscape Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://catwithmonocle.com/wp-content/uploads/2023/05/zelda-tearskingdom-landscape-01-2560x1440-1.jpg' alt='The Legend of Zelda: Tears of the Kingdom Landscape Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cat with Monocle" />
+                                </span>
+                                <a href='https://catwithmonocle.com/wp-content/uploads/2023/05/zelda-tearskingdom-landscape-01-2560x1440-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zelda: Tears of the Kingdom 4K Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/131/1314891.jpg' alt='Zelda: Tears of the Kingdom 4K Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="1699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/131/1314891.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tears of the Kingdom Extended Wallpaper : r/tearsofthekingdom">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/tears-of-the-kingdom-extended-wallpaper-v0-u8o2rrld55mc1.png?auto=webp&s=559ead9733d5e30ca6a697f56687b61929992a40' alt='Tears of the Kingdom Extended Wallpaper : r/tearsofthekingdom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2956">
+                                <meta itemprop="height" content="1728">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/tears-of-the-kingdom-extended-wallpaper-v0-u8o2rrld55mc1.png?auto=webp&s=559ead9733d5e30ca6a697f56687b61929992a40' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

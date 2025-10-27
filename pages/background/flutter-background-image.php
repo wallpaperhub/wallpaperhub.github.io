@@ -1,0 +1,129 @@
+<title>Stunning Background Images in Flutter: A Quick Guide</title>
+                    <meta name="description" content="Create beautiful Flutter apps by mastering background images! Learn how to use BoxDecoration and DecorationImage to enhance your UI with captivating visuals that engage users. Perfect for any mobile display, this guide helps you elevate your app's design effortlessly.">
+                    <meta name="keywords" content="flutter background image">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/flutter-background-image">
+                            <span itemprop="name">flutter background image</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Background Images in Flutter: A Quick Guide</h1>
+                <p>Flutter provides a simple way to set background images in your apps, enhancing visual appeal. Use the `BoxDecoration` widget with the `DecorationImage` property to easily customize backgrounds. This feature allows developers to create stunning user experiences by integrating captivating imagery seamlessly into their Flutter UI layouts.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flutter - Set Background Image - GeeksforGeeks">
+                                <img itemprop="contentUrl url" src='https://media.geeksforgeeks.org/wp-content/uploads/20221119111312/se.jpg' alt='Flutter - Set Background Image - GeeksforGeeks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="703">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GeeksforGeeks" />
+                                </span>
+                                <a href='https://media.geeksforgeeks.org/wp-content/uploads/20221119111312/se.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flutter Tutorial - Set Screen Background Image | Asset Image & Network Image">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/sDS4c1C-Fdg/maxresdefault.jpg' alt='Flutter Tutorial - Set Screen Background Image | Asset Image & Network Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/sDS4c1C-Fdg/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="flutter - Background Image for Scaffold - Stack Overflow">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/5eo3t.png' alt='flutter - Background Image for Scaffold - Stack Overflow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="958">
+                                <meta itemprop="height" content="1856">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/5eo3t.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flutter Background Tasks. Flutter is a great framework for… | by ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1400/1*0BVmYD7v7bnIAUkzCZjRNA.jpeg' alt='Flutter Background Tasks. Flutter is a great framework for… | by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="788">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Moti Bartov - Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1400/1*0BVmYD7v7bnIAUkzCZjRNA.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated Background In Flutter. Flutter is a portable UI toolkit ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:2000/1*ZgSDK_ln3lM2qN4ERIweTA.png' alt='Animated Background In Flutter. Flutter is a portable UI toolkit ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1037">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FlutterDevs" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:2000/1*ZgSDK_ln3lM2qN4ERIweTA.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FLUTTER: (Adding a Background Image to an Existing Project)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/x5FTL9nnWrs/maxresdefault.jpg' alt='FLUTTER: (Adding a Background Image to an Existing Project)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/x5FTL9nnWrs/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Set Background Image to Scaffold in Flutter — Akshar ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1400/0*4QISusErvQg75S1-.jpeg' alt='How to Set Background Image to Scaffold in Flutter — Akshar ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1400/0*4QISusErvQg75S1-.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Set Background Image In Flutter | Flutter Tutorial - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/RXdLmdIGcXA/sddefault.jpg' alt='How To Set Background Image In Flutter | Flutter Tutorial - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/RXdLmdIGcXA/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top Flutter Background Effects, Gradients & Shaders packages ...">
+                                <img itemprop="contentUrl url" src='https://fluttergems.dev/media-cards/animate_gradient.gif' alt='Top Flutter Background Effects, Gradients & Shaders packages ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="454">
+                                <meta itemprop="height" content="930">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flutter Gems" />
+                                </span>
+                                <a href='https://fluttergems.dev/media-cards/animate_gradient.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Set Background Image (Flutter Screen Background)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Yv4IvqKgWBE/maxresdefault.jpg' alt='Set Background Image (Flutter Screen Background)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Yv4IvqKgWBE/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

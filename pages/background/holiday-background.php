@@ -1,0 +1,129 @@
+<title>Perfect Holiday Backgrounds for Every Celebration</title>
+                    <meta name="description" content="Discover the ideal holiday background for every festive occasion. Enhance your celebrations with stunning visuals that capture the spirit of the season. From cozy winter scenes to vibrant party setups, find the perfect backdrop to make your moments magical and memorable.">
+                    <meta name="keywords" content="holiday background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/holiday-background">
+                            <span itemprop="name">holiday background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Perfect Holiday Backgrounds for Every Celebration</h1>
+                <p>A holiday background sets the perfect scene for celebrations, evoking warmth and joy. From festive lights and colorful decorations to serene snowy landscapes, these visuals enhance the spirit of the season. Whether for parties, greetings, or social media posts, a captivating holiday backdrop adds a touch of magic to any moment.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Holiday Backgrounds Stock Photos, Images & Pictures - iStock">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1804975122/photo/green-christmas-background-with-fir-branches-and-decorations.jpg?s=612x612&w=0&k=20&c=zds0NLr1DPQTQ3BvZtkxQG91eMmpFw7bzM7YIUvOuA8=' alt='Holiday Backgrounds Stock Photos, Images & Pictures - iStock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1804975122/photo/green-christmas-background-with-fir-branches-and-decorations.jpg?s=612x612&w=0&k=20&c=zds0NLr1DPQTQ3BvZtkxQG91eMmpFw7bzM7YIUvOuA8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poster exclusive Print Christmas Holiday background">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/v2/jpg/06/44/51/40/1000_F_644514022_r9Fq5F2r3W7WZeyWqrUJlHeUTFuQYB3e.jpg' alt='Poster exclusive Print Christmas Holiday background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.platino.com.mx" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/v2/jpg/06/44/51/40/1000_F_644514022_r9Fq5F2r3W7WZeyWqrUJlHeUTFuQYB3e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,695,200+ Holiday Backgrounds Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1281966270/vector/christmas-background-with-snowflakes.jpg?s=612x612&w=0&k=20&c=3t2mJbipFc4aln2M8qDbd3kJvUwtjl1md1F3Rj0xVI4=' alt='2,695,200+ Holiday Backgrounds Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="409">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1281966270/vector/christmas-background-with-snowflakes.jpg?s=612x612&w=0&k=20&c=3t2mJbipFc4aln2M8qDbd3kJvUwtjl1md1F3Rj0xVI4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zoom Holiday Background 5-pack 2 High Quality Zoom Background ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/23530586/r/il/2501f2/2739756666/il_570xN.2739756666_frrp.jpg' alt='Zoom Holiday Background 5-pack 2 High Quality Zoom Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="319">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/23530586/r/il/2501f2/2739756666/il_570xN.2739756666_frrp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable holiday background templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAEMngvLCL0/1/0/1600w/canva-green-foliage-holiday-virtual-background-THrnbLTv_Lk.jpg' alt='Free and customizable holiday background templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAEMngvLCL0/1/0/1600w/canva-green-foliage-holiday-virtual-background-THrnbLTv_Lk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Holiday Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/004/394/182/small_2x/christmas-ornament-background-free-vector.jpg' alt='Holiday Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="625">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/004/394/182/small_2x/christmas-ornament-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Holiday Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/christmas-new-year-holidays-background_182029-952.jpg' alt='Holiday Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/christmas-new-year-holidays-background_182029-952.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Holiday Backgrounds Images – Browse 38,219,359 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/09/65/14/35/360_F_965143537_hHK7NpsqUXTattGroiVEO7fb4QdkgIls.jpg' alt='Holiday Backgrounds Images – Browse 38,219,359 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/09/65/14/35/360_F_965143537_hHK7NpsqUXTattGroiVEO7fb4QdkgIls.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Holiday Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/beautiful-christmas-eve-concept-with-copy-space_23-2148703354.jpg' alt='Holiday Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/beautiful-christmas-eve-concept-with-copy-space_23-2148703354.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Resources for Putting the “Happy” in Holidays | Informing Families">
+                                <img itemprop="contentUrl url" src='https://informingfamilies.org/wp-content/uploads/2016/11/holiday-ornaments-banner.jpg' alt='Resources for Putting the “Happy” in Holidays | Informing Families'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="995">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Informing Families" />
+                                </span>
+                                <a href='https://informingfamilies.org/wp-content/uploads/2016/11/holiday-ornaments-banner.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

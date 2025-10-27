@@ -1,0 +1,129 @@
+<title>Peel and Stick Wallpaper Sale: Easy Home Makeover!</title>
+                    <meta name="description" content="Discover amazing deals on peel and stick wallpaper! Perfect for quick and stylish room updates, our collection offers a variety of designs to match any aesthetic. Shop now to find your dream wallpaper and transform your space with ease!">
+                    <meta name="keywords" content="peel and stick wallpaper on sale">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/peel-and-stick-wallpaper-on-sale">
+                            <span itemprop="name">peel and stick wallpaper on sale</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Peel and Stick Wallpaper Sale: Easy Home Makeover!</h1>
+                <p>Transform your space effortlessly with our vibrant peel and stick wallpaper on sale! Ideal for renters or DIY enthusiasts, these adhesive designs are easy to apply and remove, allowing you to refresh any room without hassle. Explore our diverse patterns and textures to find the perfect fit for your home today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Pink Floral Wallpaper / Peel and Stick Wallpaper Removable Wallpaper  Home Decor Wall Art Wall Decor Room Decor - D368">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/products/il_fullxfull.5239096567_b61i.jpg?v=1706947540&width=1946' alt='Cute Pink Floral Wallpaper / Peel and Stick Wallpaper Removable Wallpaper  Home Decor Wall Art Wall Decor Room Decor - D368'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="2724">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/products/il_fullxfull.5239096567_b61i.jpg?v=1706947540&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unicorn Wallpaper">
+                                <img itemprop="contentUrl url" src='http://uwdecals.com/cdn/shop/products/unicorn-wallpaper_pink-girls-room_bb5217d5-a73b-4894-b010-ffabb869602a.jpg?v=1689366473' alt='Unicorn Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Urbanwalls" />
+                                </span>
+                                <a href='http://uwdecals.com/cdn/shop/products/unicorn-wallpaper_pink-girls-room_bb5217d5-a73b-4894-b010-ffabb869602a.jpg?v=1689366473' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rifle Paper Co PSW1469RL Willowberry Blue and White Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/245076.jpg' alt='Rifle Paper Co PSW1469RL Willowberry Blue and White Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/245076.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick. Removable Wallpaper. Woven. Self Adhesive ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8591869/r/il/f48977/3563469608/il_570xN.3563469608_r5kx.jpg' alt='Peel and Stick. Removable Wallpaper. Woven. Self Adhesive ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="761">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8591869/r/il/f48977/3563469608/il_570xN.3563469608_r5kx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper on Textured Walls — Kate LeCerf Interiors">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/614a270b14c69065609d1c3d/1637083655793-TW45C9K9J4I3CXB4O222/targetphotowallpaper.png' alt='Peel and Stick Wallpaper on Textured Walls — Kate LeCerf Interiors'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kate LeCerf Interiors" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/614a270b14c69065609d1c3d/1637083655793-TW45C9K9J4I3CXB4O222/targetphotowallpaper.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scandinavian Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/scandinavian-peel-and-stick-wallpaper-254673.png?crop=center&height=1411&v=1718826286&width=1596' alt='Scandinavian Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1596">
+                                <meta itemprop="height" content="1411">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/scandinavian-peel-and-stick-wallpaper-254673.png?crop=center&height=1411&v=1718826286&width=1596' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Boho Wallpaper / Peel and Stick Wallpaper Removable Wallpaper Home  Decor Wall Art Wall Decor Room Decor - D150">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/products/il_fullxfull.5290288826_8jp7.jpg?v=1725127530&width=1946' alt='Floral Boho Wallpaper / Peel and Stick Wallpaper Removable Wallpaper Home  Decor Wall Art Wall Decor Room Decor - D150'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="2919">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/products/il_fullxfull.5290288826_8jp7.jpg?v=1725127530&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FunStick 24"x200" Grasscloth Peel and Stick Wallpaper Textured Brown Fabric  Linen Wall Paper Roll Self Adhesive Removable Faux Grasscloth Contact ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/915Jya-1GmL.jpg' alt='FunStick 24"x200" Grasscloth Peel and Stick Wallpaper Textured Brown Fabric  Linen Wall Paper Roll Self Adhesive Removable Faux Grasscloth Contact ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/915Jya-1GmL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Folk Floral Peel and Stick Removable Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.sayhomedecor.com/cdn/shop/products/NW47101-HDCrop.jpg?v=1669170991' alt='Folk Floral Peel and Stick Removable Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1141">
+                                <meta itemprop="height" content="1161">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Say Decor" />
+                                </span>
+                                <a href='https://www.sayhomedecor.com/cdn/shop/products/NW47101-HDCrop.jpg?v=1669170991' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Deco Shell Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://tempaper.com/cdn/shop/files/DC15238-fresh-mint-deco-shell-peel-and-stick-wallpaper-bench-entry_1800x1800.jpg?v=1723144182' alt='Deco Shell Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='https://tempaper.com/cdn/shop/files/DC15238-fresh-mint-deco-shell-peel-and-stick-wallpaper-bench-entry_1800x1800.jpg?v=1723144182' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning 3440x1440 Space Wallpapers for Your Devices</title>
+                    <meta name="description" content="Explore a curated collection of 3440x1440 space wallpapers that enhance your device's look. From mesmerizing galaxies to vibrant nebulae, find the perfect cosmic backdrop that inspires you every day. Ideal for desktops and mobile devices, these wallpapers bring the wonder of the universe right to your screen!">
+                    <meta name="keywords" content="3440x1440 space wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space">
+                            <span itemprop="name">Space</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space/3440x1440-space-wallpaper">
+                            <span itemprop="name">3440x1440 space wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 3440x1440 Space Wallpapers for Your Devices</h1>
+                <p>Discover the beauty of the cosmos with stunning 3440x1440 space wallpapers. Transform your screen into a portal to the universe, featuring vibrant nebulae, distant galaxies, and awe-inspiring celestial bodies. Perfect for enhancing your desktop or mobile device, these wallpapers will inspire your imagination and elevate your space's aesthetic!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space has no limits [3440x1440] : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/yiye9hf58fia1.png' alt='Space has no limits [3440x1440] : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/yiye9hf58fia1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space wallpaper [3440x1440][PNG] : r/WidescreenWallpaper">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/vmrg30mpf6ty.png' alt='Space wallpaper [3440x1440][PNG] : r/WidescreenWallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/vmrg30mpf6ty.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Ultra Wide 3440 X 1440 Space Hole Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/ultra-wide-3440x1440-space-5a3fu4txvqty8kdi.jpg' alt='Download Ultra Wide 3440 X 1440 Space Hole Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="804">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/ultra-wide-3440x1440-space-5a3fu4txvqty8kdi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3440x1440 Space Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11599612.jpg' alt='3440x1440 Space Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11599612.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Ultra Wide 3440 X 1440 Astronaut Space Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/ultra-wide-3440x1440-space-o8cohtz27qvhwkp8.jpg' alt='Download Ultra Wide 3440 X 1440 Astronaut Space Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="804">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/ultra-wide-3440x1440-space-o8cohtz27qvhwkp8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Wallpapers - Ultrawide (3440 x 1440) - stars post - Imgur">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/x4HMSdY.jpeg' alt='Space Wallpapers - Ultrawide (3440 x 1440) - stars post - Imgur'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4256">
+                                <meta itemprop="height" content="1796">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Imgur" />
+                                </span>
+                                <a href='https://i.imgur.com/x4HMSdY.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ultrawide Outer Space Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/ultrawide-outer-space-1erh3jedcnc3lofc.jpg' alt='Ultrawide Outer Space Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="803">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/ultrawide-outer-space-1erh3jedcnc3lofc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="UltraWide Monitor QHD Wallpapers | 3440x1440 Wallpapers - Page 569">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/galaxy-milky-way-stars-deep-space-colorful-astronomy-nebula-3440x1440-5366.jpg' alt='UltraWide Monitor QHD Wallpapers | 3440x1440 Wallpapers - Page 569'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/galaxy-milky-way-stars-deep-space-colorful-astronomy-nebula-3440x1440-5366.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Planet Between Celestial Lights Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/planet-between-celestial-lights-dzvuaqx814c8nqz6.jpg' alt='Planet Between Celestial Lights Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="377">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/planet-between-celestial-lights-dzvuaqx814c8nqz6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download 3440x1440 Space View With Pink Retro Wave Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1f/a0/e1/1fa0e1b260846d34008ad8104b94cfb6.jpg' alt='Download 3440x1440 Space View With Pink Retro Wave Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1f/a0/e1/1fa0e1b260846d34008ad8104b94cfb6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

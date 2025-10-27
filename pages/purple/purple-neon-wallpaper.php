@@ -1,0 +1,129 @@
+<title>Purple Neon Wallpaper: Elevate Your Decor!</title>
+                    <meta name="description" content="Discover the allure of purple neon wallpaper. Perfect for modernizing any room, its vibrant hues create a unique ambiance. Easily transform your space with stylish designs that catch the eye and uplift your home decor. Explore our collection and find the perfect fit for your aesthetic today!">
+                    <meta name="keywords" content="purple neon wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/purple-neon-wallpaper">
+                            <span itemprop="name">purple neon wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Purple Neon Wallpaper: Elevate Your Decor!</h1>
+                <p>Transform your space with stunning purple neon wallpaper! Perfect for adding a vibrant and modern touch, this wallpaper creates an eye-catching ambiance. Whether you're looking to enhance a bedroom, living area, or home office, purple neon patterns bring a unique flair. Elevate your decor with this stylish choice today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Neon Purple Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/51/b7/07/51b707d193225027a5621186f4de7137.jpg' alt='Aesthetic Neon Purple Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/51/b7/07/51b707d193225027a5621186f4de7137.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="550+ Neon Purple Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1681426322370-c99a29f6f0cd?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bmVvbiUyMHB1cnBsZXxlbnwwfHwwfHx8MA%3D%3D' alt='550+ Neon Purple Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1714">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1681426322370-c99a29f6f0cd?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bmVvbiUyMHB1cnBsZXxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Aesthetic Phone Neon Collage Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/purple-aesthetic-phone-neon-collage-m8q47vhgig4g2okc.jpg' alt='Purple Aesthetic Phone Neon Collage Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/purple-aesthetic-phone-neon-collage-m8q47vhgig4g2okc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Neon purple frame wallpaper by Edge & Frame - e8 - Free ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/a3/c3/c8/a3c3c8c8009366b29b4123837113d3ee.jpg' alt='Download Neon purple frame wallpaper by Edge & Frame - e8 - Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/a3/c3/c8/a3c3c8c8009366b29b4123837113d3ee.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Neon Aesthetic Wallpaper - free download">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/high/purple-neon-aesthetic-wallpaper.webp' alt='Purple Neon Aesthetic Wallpaper - free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="839">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/high/purple-neon-aesthetic-wallpaper.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Purple Fluorescent Lights Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/neon-purple-fluorescent-lights-ipojmcfo8id9kul0.jpg' alt='Neon Purple Fluorescent Lights Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/neon-purple-fluorescent-lights-ipojmcfo8id9kul0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="550+ Neon Purple Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1511447333015-45b65e60f6d5?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bmVvbiUyMHB1cnBsZXxlbnwwfHwwfHx8MA%3D%3D' alt='550+ Neon Purple Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1823">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1511447333015-45b65e60f6d5?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bmVvbiUyMHB1cnBsZXxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Grunge Neon Purple Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/grunge-neon-purple-collage-cfrp24vskoi5f5xa.jpg' alt='100+] Grunge Neon Purple Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/grunge-neon-purple-collage-cfrp24vskoi5f5xa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Neon Purple Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/neon-purple-iphone-y43wm2uzjhsndivj.jpg' alt='100+] Neon Purple Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/neon-purple-iphone-y43wm2uzjhsndivj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Purple Circle Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/neon-purple-circle-08r4q4d4l092wiw5.jpg' alt='Neon Purple Circle Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/neon-purple-circle-08r4q4d4l092wiw5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

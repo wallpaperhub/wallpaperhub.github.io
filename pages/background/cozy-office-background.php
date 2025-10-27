@@ -1,0 +1,129 @@
+<title>Cozy Office Background Ideas to Boost Comfort & Productivity</title>
+                    <meta name="description" content="Discover cozy office background ideas that enhance comfort and productivity in your workspace. Explore design tips that incorporate warm lighting, soft textures, and personal accents to create an inviting atmosphere. Elevate your workspace for better focus and creativity today!">
+                    <meta name="keywords" content="cozy office background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cozy-office-background">
+                            <span itemprop="name">cozy office background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cozy Office Background Ideas to Boost Comfort & Productivity</h1>
+                <p>Transform your workspace into a cozy haven with the perfect office background. Incorporate soft textures, warm lighting, and personal touches like plants or artwork. A well-designed environment fosters creativity and productivity, making your workday enjoyable. Embrace comfort and style to elevate your daily routine.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="69,000+ Cozy Office Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1421313472/photo/cozy-home-library-interior-with-collection-of-different-books-on-shelves-and-comfortable.jpg?s=612x612&w=0&k=20&c=wmcz5Os-RWHa1hOjOhHXHVcQcGo4bbPTpQ06I_ZXRPs=' alt='69,000+ Cozy Office Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1421313472/photo/cozy-home-library-interior-with-collection-of-different-books-on-shelves-and-comfortable.jpg?s=612x612&w=0&k=20&c=wmcz5Os-RWHa1hOjOhHXHVcQcGo4bbPTpQ06I_ZXRPs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cozy Home Office Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/039/638/614/small/ai-generated-a-home-office-with-a-cozy-reading-corner-and-personal-touches-photo.jpeg' alt='Cozy Home Office Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="357">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/039/638/614/small/ai-generated-a-home-office-with-a-cozy-reading-corner-and-personal-touches-photo.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cozy Office Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1560890264-4b92305ee66e?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y296eSUyMG9mZmljZXxlbnwwfHwwfHx8MA%3D%3D' alt='Cozy Office Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1560890264-4b92305ee66e?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y296eSUyMG9mZmljZXxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="69,000+ Cozy Office Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1365312361/photo/lounge-with-sofa-carpet-and-coffee-table-against-window-with-city-view-lobby-area.jpg?s=612x612&w=0&k=20&c=jgKa0TgO-_zh27mYNkzgTYl71lKe5dcqUwEGTXRRq_s=' alt='69,000+ Cozy Office Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1365312361/photo/lounge-with-sofa-carpet-and-coffee-table-against-window-with-city-view-lobby-area.jpg?s=612x612&w=0&k=20&c=jgKa0TgO-_zh27mYNkzgTYl71lKe5dcqUwEGTXRRq_s=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cozy Home Office Background in Wood Stock Photo by seventyfourimages">
+                                <img itemprop="contentUrl url" src='https://s3.envato.com/files/352818356/PEXL9072.jpg' alt='Cozy Home Office Background in Wood Stock Photo by seventyfourimages'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="590">
+                                <meta itemprop="height" content="393">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PhotoDune" />
+                                </span>
+                                <a href='https://s3.envato.com/files/352818356/PEXL9072.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="69,000+ Cozy Office Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1430209081/photo/living-room-with-leather-sofa-and-leather-armchair-on-empty-dark-green-wall-background.jpg?s=612x612&w=0&k=20&c=bSbX_GiQidVu_Lvy18rDfxHyoBQZJ0V0-Nj1pXk5amY=' alt='69,000+ Cozy Office Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1430209081/photo/living-room-with-leather-sofa-and-leather-armchair-on-empty-dark-green-wall-background.jpg?s=612x612&w=0&k=20&c=bSbX_GiQidVu_Lvy18rDfxHyoBQZJ0V0-Nj1pXk5amY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cozy Home Office Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/047/072/796/small/in-the-living-room-there-is-a-desk-and-chair-with-a-computer-on-it-photo.jpeg' alt='Cozy Home Office Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/047/072/796/small/in-the-living-room-there-is-a-desk-and-chair-with-a-computer-on-it-photo.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="69,000+ Cozy Office Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1362872266/photo/scandinavian-style-attic-modern-home-office-interior.jpg?s=612x612&w=0&k=20&c=acsYGRosYDdddAJr7mFgI236t4UNykMBwu1vOtvGiaM=' alt='69,000+ Cozy Office Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1362872266/photo/scandinavian-style-attic-modern-home-office-interior.jpg?s=612x612&w=0&k=20&c=acsYGRosYDdddAJr7mFgI236t4UNykMBwu1vOtvGiaM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cozy Home Office Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/044/636/891/non_2x/cozy-home-office-with-plants-and-warm-fairy-lights-showcasing-a-comfortable-remote-work-environment-related-to-freelancing-and-world-environment-day-photo.jpg' alt='Cozy Home Office Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1749">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/044/636/891/non_2x/cozy-home-office-with-plants-and-warm-fairy-lights-showcasing-a-comfortable-remote-work-environment-related-to-freelancing-and-world-environment-day-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cozy Office Virtual Background With Shelves 12 Pack Zoom, Google ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/44539264/r/il/11ff70/5639816073/il_fullxfull.5639816073_aecu.jpg' alt='Cozy Office Virtual Background With Shelves 12 Pack Zoom, Google ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/44539264/r/il/11ff70/5639816073/il_fullxfull.5639816073_aecu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

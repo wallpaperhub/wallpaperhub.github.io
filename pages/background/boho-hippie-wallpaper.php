@@ -1,0 +1,129 @@
+<title>Boho Hippie Wallpaper: Transform Your Space</title>
+                    <meta name="description" content="Explore our stunning collection of boho hippie wallpaper. Perfect for adding a touch of free-spirited charm to your home. Shop now for vibrant designs that inspire creativity and relaxation. Ideal for any room, these wallpapers create a unique atmosphere that reflects your personality.">
+                    <meta name="keywords" content="boho hippie wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/boho-hippie-wallpaper">
+                            <span itemprop="name">boho hippie wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Boho Hippie Wallpaper: Transform Your Space</h1>
+                <p>Transform your space with boho hippie wallpaper, featuring vibrant colors, intricate patterns, and nature-inspired designs. Perfect for creating a relaxed atmosphere, these wallpapers bring a sense of freedom and creativity to any room. Embrace your inner free spirit and elevate your home décor with these stylish, whimsical options.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="95 Best Boho & Hippie ideas | hippie wallpaper, mandala, dream catcher">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fb/67/68/fb676887605ba5bb2511db1d0c63adcb.jpg' alt='95 Best Boho & Hippie ideas | hippie wallpaper, mandala, dream catcher'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fb/67/68/fb676887605ba5bb2511db1d0c63adcb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DAZLUTE Peel and Stick Wallpaper Floral Wallpaper Boho Mushroom Wallpaper  Self Adhesive Removable Stick on Wallpaper for Bed Room Walls, 17.7in x ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/DAZLUTE-Peel-Stick-Wallpaper-Floral-Boho-Mushroom-Self-Adhesive-Removable-Bed-Room-Walls-17-7in-x-32-8ft_f4129a4a-9b38-4992-9dab-7994b50d393a.dbb65760f886c1be72bf67b7adf2c47b.jpeg' alt='DAZLUTE Peel and Stick Wallpaper Floral Wallpaper Boho Mushroom Wallpaper  Self Adhesive Removable Stick on Wallpaper for Bed Room Walls, 17.7in x ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/DAZLUTE-Peel-Stick-Wallpaper-Floral-Boho-Mushroom-Self-Adhesive-Removable-Bed-Room-Walls-17-7in-x-32-8ft_f4129a4a-9b38-4992-9dab-7994b50d393a.dbb65760f886c1be72bf67b7adf2c47b.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simon&Siff Boho Wallpaper Peel and Stick, 17.3'' x 80" Sun Floral Retro  Removable Contact Paper Dark Botanical Flowers Wall Mural for Decorative ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91H6bijJMQL._AC_UF894,1000_QL80_.jpg' alt='Simon&Siff Boho Wallpaper Peel and Stick, 17.3'' x 80" Sun Floral Retro  Removable Contact Paper Dark Botanical Flowers Wall Mural for Decorative ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="733">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91H6bijJMQL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hippy Background Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/13429214/p/f/l/EpjnAf2N8L4YTUmq4nQoCjmbxyLVwYDcodnYDLEENKvlUhiMn0b5mcOntA/Large%20Seventies%20Retro%20Hippy%20Floral%20on%20Green%20Background.jpg' alt='Hippy Background Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/13429214/p/f/l/EpjnAf2N8L4YTUmq4nQoCjmbxyLVwYDcodnYDLEENKvlUhiMn0b5mcOntA/Large%20Seventies%20Retro%20Hippy%20Floral%20on%20Green%20Background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Wallpapers - Wallpaper Sun">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f7/23/0b/f7230b5095183dd26e1c692e41b049ab.jpg' alt='Boho Wallpapers - Wallpaper Sun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="715">
+                                <meta itemprop="height" content="715">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f7/23/0b/f7230b5095183dd26e1c692e41b049ab.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/f4/aa/ac/f4aaac78344c6b11b1e64dd541737a27.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/f4/aa/ac/f4aaac78344c6b11b1e64dd541737a27.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hippie Boho Nature Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/12929076/p/f/m/7LAFF8b3ZbKRfB3lUggQLb6lFRLEHiNgoJBAZ6MmnJC5xDpvpV1t86WIHA/Boho%20Floral%20Wilderness%20%2F%20%20Medium.jpg' alt='Hippie Boho Nature Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/12929076/p/f/m/7LAFF8b3ZbKRfB3lUggQLb6lFRLEHiNgoJBAZ6MmnJC5xDpvpV1t86WIHA/Boho%20Floral%20Wilderness%20%2F%20%20Medium.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hippie background 70s, 70's, Hippie, boho, dom, love, peace, pop ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/752/478/HD-wallpaper-hippie-background-70s-70-s-hippie-boho-dom-love-peace-pop-art-retro-soul-spirit.jpg' alt='Hippie background 70s, 70's, Hippie, boho, dom, love, peace, pop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/752/478/HD-wallpaper-hippie-background-70s-70-s-hippie-boho-dom-love-peace-pop-art-retro-soul-spirit.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by ⋆⋆Wallpaper Bliss⋆⋆ on Boho & Hippie | Hipster ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/8d/c2/ed/8dc2edfa007ce2beeeac14f8181aef7a.jpg' alt='Pin by ⋆⋆Wallpaper Bliss⋆⋆ on Boho & Hippie | Hipster ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/8d/c2/ed/8dc2edfa007ce2beeeac14f8181aef7a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hippie Boho Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/9785237/p/f/m/WcFh4YpdO-LFDF-_I1QRj4MzGL6o9oNn1XmHklUanlpfnt76xtjtWQ/1970s%20Retro%2FVintage%20Floral%20Pattern.jpg' alt='Hippie Boho Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/9785237/p/f/m/WcFh4YpdO-LFDF-_I1QRj4MzGL6o9oNn1XmHklUanlpfnt76xtjtWQ/1970s%20Retro%2FVintage%20Floral%20Pattern.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

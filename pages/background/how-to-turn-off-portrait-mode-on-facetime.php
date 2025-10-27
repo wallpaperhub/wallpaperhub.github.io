@@ -1,0 +1,129 @@
+<title>How to Disable Portrait Mode on FaceTime</title>
+                    <meta name="description" content="Learn how to easily turn off portrait mode on FaceTime. Follow simple steps to enhance your video call experience by reverting to standard view. Perfect for those looking for clear and direct communication without the background blur effect.">
+                    <meta name="keywords" content="how to turn off portrait mode on facetime">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/how-to-turn-off-portrait-mode-on-facetime">
+                            <span itemprop="name">how to turn off portrait mode on facetime</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>How to Disable Portrait Mode on FaceTime</h1>
+                <p>To turn off portrait mode on FaceTime, start a video call and tap the screen to show options. Locate the "Portrait" icon, usually at the top of the screen. Tap it to disable the effect, reverting to normal. If you don't see the option, ensure your device supports this feature and that it’s updated.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Turn On Portrait Mode On FaceTime">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/mfIvZcBbt1Y/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCHi1k_6h8PuZldIh9UjB4d4934qA' alt='How To Turn On Portrait Mode On FaceTime'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/mfIvZcBbt1Y/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCHi1k_6h8PuZldIh9UjB4d4934qA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to use Portrait Mode in FaceTime on iOS 15 | Mashable">
+                                <img itemprop="contentUrl url" src='https://helios-i.mashable.com/imagery/articles/05K9RAW2nwUiK5VWlHVzjgx/images-27.fill.size_347x750.v1632168006.png' alt='How to use Portrait Mode in FaceTime on iOS 15 | Mashable'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="347">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mashable" />
+                                </span>
+                                <a href='https://helios-i.mashable.com/imagery/articles/05K9RAW2nwUiK5VWlHVzjgx/images-27.fill.size_347x750.v1632168006.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Portrait Mode not Working in FaceTime? Here's How to Fix">
+                                <img itemprop="contentUrl url" src='https://www.macobserver.com/wp-content/uploads/2023/09/Disable-FaceTime.jpg' alt='Portrait Mode not Working in FaceTime? Here's How to Fix'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Mac Observer" />
+                                </span>
+                                <a href='https://www.macobserver.com/wp-content/uploads/2023/09/Disable-FaceTime.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to turn on portrait mode and blur your background on Facetime">
+                                <img itemprop="contentUrl url" src='https://www.androidauthority.com/wp-content/uploads/2022/12/Turn-on-Facetime-portrait-mode-from-the-Control-Center-3.jpg' alt='How to turn on portrait mode and blur your background on Facetime'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Android Authority" />
+                                </span>
+                                <a href='https://www.androidauthority.com/wp-content/uploads/2022/12/Turn-on-Facetime-portrait-mode-from-the-Control-Center-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Blur Background in FaceTime with Portrait Mode">
+                                <img itemprop="contentUrl url" src='https://www.iphonelife.com/sites/iphonelife.com/files/styles/screenshot_iphonexr_660_2x/public/facetime_portrait_mode_1.jpg' alt='How to Blur Background in FaceTime with Portrait Mode'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="642">
+                                <meta itemprop="height" content="1274">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iPhone Life" />
+                                </span>
+                                <a href='https://www.iphonelife.com/sites/iphonelife.com/files/styles/screenshot_iphonexr_660_2x/public/facetime_portrait_mode_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Use Portrait Mode in FaceTime With iOS 15">
+                                <img itemprop="contentUrl url" src='https://i.insider.com/614ce64d4c42bc00190fa8ea?width=800&format=jpeg&auto=webp' alt='How to Use Portrait Mode in FaceTime With iOS 15'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1731">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business Insider" />
+                                </span>
+                                <a href='https://i.insider.com/614ce64d4c42bc00190fa8ea?width=800&format=jpeg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Portrait Mode not Working in FaceTime? Here's How to Fix">
+                                <img itemprop="contentUrl url" src='https://www.macobserver.com/wp-content/uploads/2023/09/Fix-FaceTime-Portrait-Mode-not-working-feature-image.jpg' alt='Portrait Mode not Working in FaceTime? Here's How to Fix'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Mac Observer" />
+                                </span>
+                                <a href='https://www.macobserver.com/wp-content/uploads/2023/09/Fix-FaceTime-Portrait-Mode-not-working-feature-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to turn on portrait mode and blur your background on Facetime">
+                                <img itemprop="contentUrl url" src='https://www.androidauthority.com/wp-content/uploads/2022/12/Turn-on-Facetime-portrait-mode-from-the-Control-Center-2.jpg' alt='How to turn on portrait mode and blur your background on Facetime'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Android Authority" />
+                                </span>
+                                <a href='https://www.androidauthority.com/wp-content/uploads/2022/12/Turn-on-Facetime-portrait-mode-from-the-Control-Center-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Turn on/off Portrait Mode on Facetime in iPhone | Blur Background  With Portrait Mode">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/WmK9Qj9LiGE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAfUhydOGt1OkpfRyca_gIC5_N1Mg' alt='How to Turn on/off Portrait Mode on Facetime in iPhone | Blur Background  With Portrait Mode'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/WmK9Qj9LiGE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAfUhydOGt1OkpfRyca_gIC5_N1Mg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Turn On Portrait Mode on FaceTime | Blur Background in FaceTime  Video Calls">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/b4S28BbdC_E/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBuFhyH6D7ZG26Wt4SGin6q05USeQ' alt='How to Turn On Portrait Mode on FaceTime | Blur Background in FaceTime  Video Calls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/b4S28BbdC_E/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBuFhyH6D7ZG26Wt4SGin6q05USeQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

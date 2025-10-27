@@ -1,0 +1,129 @@
+<title>Simple & Elegant Christmas Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover a delightful range of basic Christmas wallpapers designed to brighten your devices. From timeless snowflakes to cheerful Christmas trees, our collection brings the holiday spirit to life. Download now for a festive touch that fits perfectly on any screen!">
+                    <meta name="keywords" content="basic christmas wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/basic-christmas-wallpaper">
+                            <span itemprop="name">basic christmas wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Simple & Elegant Christmas Wallpapers for Your Device</h1>
+                <p>Elevate your holiday spirit with our basic Christmas wallpaper collection! Featuring classic designs like snowflakes, Christmas trees, and festive ornaments, these wallpapers provide a cozy backdrop for your devices. Perfect for creating a warm atmosphere this festive season, our selection is easy to download and personalize.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple Christmas Pastel Trees Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/simple-red-christmas-stars-9434ic9r2ge5ki25.webp' alt='Simple Christmas Pastel Trees Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/simple-red-christmas-stars-9434ic9r2ge5ki25.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple Christmas Wallpaper - NawPic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/04/8b/82/048b828638b780d93afd687066518d10.jpg' alt='Simple Christmas Wallpaper - NawPic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="715">
+                                <meta itemprop="height" content="1549">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/04/8b/82/048b828638b780d93afd687066518d10.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Basic Christmas Wallpaper PSD, High Quality Free PSD Templates for ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-psd/3d-background-christmas-season-celebration_23-2149987156.jpg' alt='Basic Christmas Wallpaper PSD, High Quality Free PSD Templates for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-psd/3d-background-christmas-season-celebration_23-2149987156.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Simple Christmas Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/simple-christmas-tosl52v45am36ndw.jpg' alt='100+] Simple Christmas Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/simple-christmas-tosl52v45am36ndw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="32 Aesthetic Simple Phone Christmas Wallpapers Free & HD">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6e/8b/0d/6e8b0d6342ca669275ff46a9e700c453.jpg' alt='32 Aesthetic Simple Phone Christmas Wallpapers Free & HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6e/8b/0d/6e8b0d6342ca669275ff46a9e700c453.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple Christmas Cute Socks And Gingerbread Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/simple-christmas-cute-socks-and-gingerbread-fsr517xz4djk89vi.jpg' alt='Simple Christmas Cute Socks And Gingerbread Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1561">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/simple-christmas-cute-socks-and-gingerbread-fsr517xz4djk89vi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="mostly 1920x1080] My collection of winter wallpapers, mostly from ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/mGPPov3sOs6NQfvJwsC1lt5mGv-mPGjpP4jicGmnDkI.jpg?width=1080&crop=smart&auto=webp&s=bd79286ca6572b97f53e55cb1f2ace319cf1b020' alt='mostly 1920x1080] My collection of winter wallpapers, mostly from ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/mGPPov3sOs6NQfvJwsC1lt5mGv-mPGjpP4jicGmnDkI.jpg?width=1080&crop=smart&auto=webp&s=bd79286ca6572b97f53e55cb1f2ace319cf1b020' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas simple iPhone backgrounds | Neutral festive wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/39367109/r/il/0012c5/4470088649/il_570xN.4470088649_2b9q.jpg' alt='Christmas simple iPhone backgrounds | Neutral festive wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/39367109/r/il/0012c5/4470088649/il_570xN.4470088649_2b9q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Simple Christmas Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/simple-christmas-background-1r4gxqvn6o09aka2.jpg' alt='200+] Simple Christmas Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/simple-christmas-background-1r4gxqvn6o09aka2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50+ Free Christmas Wallpaper Backgrounds For Your iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/97/44/39/974439de586b3bb21c342fdf04ee61d3.jpg' alt='50+ Free Christmas Wallpaper Backgrounds For Your iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1259">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/97/44/39/974439de586b3bb21c342fdf04ee61d3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

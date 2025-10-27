@@ -1,0 +1,129 @@
+<title>Stunning Son Goku 4K Wallpapers for Your Devices</title>
+                    <meta name="description" content="Discover a breathtaking collection of Son Goku 4K wallpapers! Perfect for fans of Dragon Ball, these high-resolution images enhance your device's appearance. Download now to showcase Goku's epic moments and powerful aura on your screen, bringing your favorite anime character to life!">
+                    <meta name="keywords" content="son goku wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/son-goku-wallpaper-4k">
+                            <span itemprop="name">son goku wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Son Goku 4K Wallpapers for Your Devices</h1>
+                <p>Transform your device with stunning Son Goku 4K wallpapers! Explore a collection of high-resolution images that capture the power and charisma of your favorite Dragon Ball hero. Perfect for anime fans, these wallpapers bring vibrant colors and epic scenes to life, ensuring your screen showcases Goku’s legendary spirit in every detail.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="goku wallpaper hd 4k">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/de/cd/de/decdded8ee2234451b0a9f3849d33615.jpg' alt='goku wallpaper hd 4k'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/de/cd/de/decdded8ee2234451b0a9f3849d33615.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Son Goku Wallpaper 4K, Dragon Ball Super">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/son-goku-dragon-1080x2160-15027.jpg' alt='Son Goku Wallpaper 4K, Dragon Ball Super'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/son-goku-dragon-1080x2160-15027.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Wallpapers (38 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/7/7/0/1216139-2160x3840-iphone-4k-goku-background-image.jpg' alt='Goku Wallpapers (38 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/7/7/0/1216139-2160x3840-iphone-4k-goku-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Son Goku SSJ 4K Wallpaper : r/dragonballfighterz">
+                                <img itemprop="contentUrl url" src='https://orig00.deviantart.net/cb40/f/2018/114/f/1/son_goku_ssj_dragon_ball_fighterz_by_bodskih-dc9r7kp.png' alt='Son Goku SSJ 4K Wallpaper : r/dragonballfighterz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://orig00.deviantart.net/cb40/f/2018/114/f/1/son_goku_ssj_dragon_ball_fighterz_by_bodskih-dc9r7kp.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Son Goku | Best Wallpaper - 4K">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/download/hd-wallpapers/son-goku-3840x2160.jpg' alt='Son Goku | Best Wallpaper - 4K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/download/hd-wallpapers/son-goku-3840x2160.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Son Goku Dragon Ball 4K Wallpaper by OmegaHD on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/88fc6ac7-9ac8-4b2d-b12f-3ad0ac6ee468/ded4k2m-50852c9c-567d-4d3a-ac76-de3abc8af7ca.jpg/v1/fill/w_1280,h_720,q_75,strp/son_goku_dragon_ball_4k_wallpaper_by_omegahd_ded4k2m-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvODhmYzZhYzctOWFjOC00YjJkLWIxMmYtM2FkMGFjNmVlNDY4XC9kZWQ0azJtLTUwODUyYzljLTU2N2QtNGQzYS1hYzc2LWRlM2FiYzhhZjdjYS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.FddZHLyDkgwa9GoNlKgwlKOVox2FwU4NUozNYPBW8qs' alt='Son Goku Dragon Ball 4K Wallpaper by OmegaHD on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/88fc6ac7-9ac8-4b2d-b12f-3ad0ac6ee468/ded4k2m-50852c9c-567d-4d3a-ac76-de3abc8af7ca.jpg/v1/fill/w_1280,h_720,q_75,strp/son_goku_dragon_ball_4k_wallpaper_by_omegahd_ded4k2m-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvODhmYzZhYzctOWFjOC00YjJkLWIxMmYtM2FkMGFjNmVlNDY4XC9kZWQ0azJtLTUwODUyYzljLTU2N2QtNGQzYS1hYzc2LWRlM2FiYzhhZjdjYS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.FddZHLyDkgwa9GoNlKgwlKOVox2FwU4NUozNYPBW8qs' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Son Goku">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/4f/8c/02/4f8c0276e1ca9e74c61e4504fb2ff321.jpg' alt='Son Goku'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="585">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/4f/8c/02/4f8c0276e1ca9e74c61e4504fb2ff321.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Son Goku, cloud, sky, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/163/380/HD-wallpaper-son-goku-cloud-sky.jpg' alt='Son Goku, cloud, sky, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1415">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/163/380/HD-wallpaper-son-goku-cloud-sky.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Son Goku Wallpaper 4K, Electric, Dragon Ball Super">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/son-goku-electric-3440x1440-20932.jpg' alt='Son Goku Wallpaper 4K, Electric, Dragon Ball Super'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/son-goku-electric-3440x1440-20932.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Goku, anime, dbz, dragon ball z, goku, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/541/671/HD-wallpaper-modern-goku-anime-dbz-dragon-ball-z-goku.jpg' alt='Modern Goku, anime, dbz, dragon ball z, goku, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/541/671/HD-wallpaper-modern-goku-anime-dbz-dragon-ball-z-goku.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

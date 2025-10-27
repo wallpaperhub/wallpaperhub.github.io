@@ -1,0 +1,129 @@
+<title>Kermit the Frog PNG Images for Creative Projects</title>
+                    <meta name="description" content="Discover a collection of Kermit the Frog PNG images that brighten up any design project. Perfect for digital art, social media, and more, these high-quality images feature Kermit in various fun poses. Grab your favorites to add charm and nostalgia to your creative endeavors!">
+                    <meta name="keywords" content="kermit the frog png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/kermit-the-frog-png">
+                            <span itemprop="name">kermit the frog png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Kermit the Frog PNG Images for Creative Projects</h1>
+                <p>Kermit the Frog PNG images are perfect for adding a touch of whimsy to your projects. With a variety of poses and expressions, these transparent background files make it easy to incorporate the beloved Muppet into your designs. Use Kermit for digital art, social media posts, or websites to bring a smile to your audience!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kermit the Frog PNG by IsaacHelton on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/47e7f360-cf81-4043-ab63-84c5da138b8e/dfkl6f1-38ce68fd-dd5d-43e2-84c4-aa3ef4e274c5.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ3ZTdmMzYwLWNmODEtNDA0My1hYjYzLTg0YzVkYTEzOGI4ZVwvZGZrbDZmMS0zOGNlNjhmZC1kZDVkLTQzZTItODRjNC1hYTNlZjRlMjc0YzUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.HprJaQk3kSG7WN1iKEsYYe8WtEHWnLWwjmG622EWK3c' alt='Kermit the Frog PNG by IsaacHelton on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="322">
+                                <meta itemprop="height" content="498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/47e7f360-cf81-4043-ab63-84c5da138b8e/dfkl6f1-38ce68fd-dd5d-43e2-84c4-aa3ef4e274c5.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ3ZTdmMzYwLWNmODEtNDA0My1hYjYzLTg0YzVkYTEzOGI4ZVwvZGZrbDZmMS0zOGNlNjhmZC1kZDVkLTQzZTItODRjNC1hYTNlZjRlMjc0YzUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.HprJaQk3kSG7WN1iKEsYYe8WtEHWnLWwjmG622EWK3c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kermit The Frog PNG Images - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://icon2.cleanpng.com/20240224/yec/transparent-kermit-the-frog-happy-kermit-the-frog-in-green-1710865771449.webp' alt='Kermit The Frog PNG Images - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://icon2.cleanpng.com/20240224/yec/transparent-kermit-the-frog-happy-kermit-the-frog-in-green-1710865771449.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kermit the Frog | Great Characters Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/great-characters/images/0/0e/None_of_my_busniess.png/revision/latest?cb=20180615203744' alt='Kermit the Frog | Great Characters Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Great Characters Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/great-characters/images/0/0e/None_of_my_busniess.png/revision/latest?cb=20180615203744' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MUPPETS Kermit the Frog PNG by MrWidden on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b729cfec-3974-4485-8757-dd0feaca685f/dejqm65-32a7eb8f-727e-42b7-a42a-76cc386341f5.png/v1/fill/w_1280,h_1243/muppets_kermit_the_frog_png_by_mrwidden_dejqm65-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI0MyIsInBhdGgiOiJcL2ZcL2I3MjljZmVjLTM5NzQtNDQ4NS04NzU3LWRkMGZlYWNhNjg1ZlwvZGVqcW02NS0zMmE3ZWI4Zi03MjdlLTQyYjctYTQyYS03NmNjMzg2MzQxZjUucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.25_EUBNMGxVnnvEWS-ynCBx5A4rnOLdsI8c5LNH7m8E' alt='MUPPETS Kermit the Frog PNG by MrWidden on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1243">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b729cfec-3974-4485-8757-dd0feaca685f/dejqm65-32a7eb8f-727e-42b7-a42a-76cc386341f5.png/v1/fill/w_1280,h_1243/muppets_kermit_the_frog_png_by_mrwidden_dejqm65-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI0MyIsInBhdGgiOiJcL2ZcL2I3MjljZmVjLTM5NzQtNDQ4NS04NzU3LWRkMGZlYWNhNjg1ZlwvZGVqcW02NS0zMmE3ZWI4Zi03MjdlLTQyYjctYTQyYS03NmNjMzg2MzQxZjUucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.25_EUBNMGxVnnvEWS-ynCBx5A4rnOLdsI8c5LNH7m8E' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kermit the Frog | Character-community Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/charactercommunity/images/7/7b/Kermit_Muppets_Most_Wanted.png/revision/latest?cb=20190706195357' alt='Kermit the Frog | Character-community Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="403">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Character-community Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/charactercommunity/images/7/7b/Kermit_Muppets_Most_Wanted.png/revision/latest?cb=20190706195357' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kermit The Frog YouTube Muppets - Cartoon Transparent PNG">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d7/de/0b/d7de0b2a19a62ffc0ddfd567a3c577ae.jpg' alt='Kermit The Frog YouTube Muppets - Cartoon Transparent PNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d7/de/0b/d7de0b2a19a62ffc0ddfd567a3c577ae.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300+] Kermit Png Images | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/kermit-png-hj8wqu6z0s6ofvyd.jpg' alt='300+] Kermit Png Images | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/kermit-png-hj8wqu6z0s6ofvyd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="True frog Kermit the Frog Toad Sticker, frog, animals, vertebrate ...">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/940/368/png-clipart-kermit-the-frog-kermit-the-frog-miss-piggy-the-muppets-kermit-s-vertebrate-sticker.png' alt='True frog Kermit the Frog Toad Sticker, frog, animals, vertebrate ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/940/368/png-clipart-kermit-the-frog-kermit-the-frog-miss-piggy-the-muppets-kermit-s-vertebrate-sticker.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kermit The Frog - PNG Sublimation Digital Download - Unleash Your Inner  Rebellion">
+                                <img itemprop="contentUrl url" src='https://www.inspireuplift.com/resizer/?image=https://cdn.inspireuplift.com/uploads/images/seller_products/1700247006_OV-20231117-20539_KermitTheFrog7401.jpg&width=800&height=800&quality=90&format=auto&fit=pad' alt='Kermit The Frog - PNG Sublimation Digital Download - Unleash Your Inner  Rebellion'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Inspire Uplift" />
+                                </span>
+                                <a href='https://www.inspireuplift.com/resizer/?image=https://cdn.inspireuplift.com/uploads/images/seller_products/1700247006_OV-20231117-20539_KermitTheFrog7401.jpg&width=800&height=800&quality=90&format=auto&fit=pad' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kermit The Frog Laying Down - Kermit The Frog - Free Transparent ...">
+                                <img itemprop="contentUrl url" src='https://www.pngkey.com/png/detail/27-274158_kermit-the-frog-laying-down-kermit-the-frog.png' alt='Kermit The Frog Laying Down - Kermit The Frog - Free Transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="820">
+                                <meta itemprop="height" content="568">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGkey" />
+                                </span>
+                                <a href='https://www.pngkey.com/png/detail/27-274158_kermit-the-frog-laying-down-kermit-the-frog.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

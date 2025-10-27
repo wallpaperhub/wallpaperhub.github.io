@@ -1,0 +1,129 @@
+<title>Festive Christmas Mobile Wallpapers to Brighten Your Screen</title>
+                    <meta name="description" content="Discover a delightful range of Christmas mobile wallpapers perfect for spreading holiday cheer! Enjoy stunning designs featuring snowflakes, Christmas trees, and festive colors, all optimized for mobile display. Transform your device and celebrate the season in style with our captivating collection!">
+                    <meta name="keywords" content="christmas mobile wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/christmas-mobile-wallpaper">
+                            <span itemprop="name">christmas mobile wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Festive Christmas Mobile Wallpapers to Brighten Your Screen</h1>
+                <p>Transform your device this holiday season with enchanting Christmas mobile wallpapers! From snowy landscapes to vibrant festive decorations, these wallpapers bring the joy of Christmas right to your fingertips. Explore a diverse collection that sparks holiday cheer every time you unlock your phone. Embrace the spirit of Christmas today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="180 Best Christmas phone wallpaper ideas | christmas phone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/4e/7d/b4/4e7db4d95320d533f5a80c879f3ec91e.jpg' alt='180 Best Christmas phone wallpaper ideas | christmas phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="484">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/4e/7d/b4/4e7db4d95320d533f5a80c879f3ec91e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant Christmas Mobile Wallpaper by eneakelo on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/96dfd877-6c12-43bd-b00d-92cb788dd96e/dim4pbs-02c5178a-0938-49e5-a3a1-d79a96a1fc8b.jpg/v1/fill/w_1920,h_3426,q_75,strp/elegant_christmas_mobile_wallpaper_by_eneakelo_dim4pbs-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk2ZGZkODc3LTZjMTItNDNiZC1iMDBkLTkyY2I3ODhkZDk2ZVwvZGltNHBicy0wMmM1MTc4YS0wOTM4LTQ5ZTUtYTNhMS1kNzlhOTZhMWZjOGIuanBnIiwiaGVpZ2h0IjoiPD0zNDI2Iiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uud2F0ZXJtYXJrIl0sIndtayI6eyJwYXRoIjoiXC93bVwvOTZkZmQ4NzctNmMxMi00M2JkLWIwMGQtOTJjYjc4OGRkOTZlXC9lbmVha2Vsby00LnBuZyIsIm9wYWNpdHkiOjk1LCJwcm9wb3J0aW9ucyI6MC40NSwiZ3Jhdml0eSI6ImNlbnRlciJ9fQ.X4zm3OOLGQKpDF4IityKQ3aYPxzrk_0JEiR9oayCLvE' alt='Elegant Christmas Mobile Wallpaper by eneakelo on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="3426">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/96dfd877-6c12-43bd-b00d-92cb788dd96e/dim4pbs-02c5178a-0938-49e5-a3a1-d79a96a1fc8b.jpg/v1/fill/w_1920,h_3426,q_75,strp/elegant_christmas_mobile_wallpaper_by_eneakelo_dim4pbs-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk2ZGZkODc3LTZjMTItNDNiZC1iMDBkLTkyY2I3ODhkZDk2ZVwvZGltNHBicy0wMmM1MTc4YS0wOTM4LTQ5ZTUtYTNhMS1kNzlhOTZhMWZjOGIuanBnIiwiaGVpZ2h0IjoiPD0zNDI2Iiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uud2F0ZXJtYXJrIl0sIndtayI6eyJwYXRoIjoiXC93bVwvOTZkZmQ4NzctNmMxMi00M2JkLWIwMGQtOTJjYjc4OGRkOTZlXC9lbmVha2Vsby00LnBuZyIsIm9wYWNpdHkiOjk1LCJwcm9wb3J0aW9ucyI6MC40NSwiZ3Jhdml0eSI6ImNlbnRlciJ9fQ.X4zm3OOLGQKpDF4IityKQ3aYPxzrk_0JEiR9oayCLvE' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Wallpaper Iphone | Free Aesthetic HD & 4K Mobile Phone ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTExL3Jhd3BpeGVsX29mZmljZV8zMV9leHRyZW1lX2Nsb3NlX3VwX3Bob3RvX29mX2NocmlzdG1hc190cmVlX29uX182NmQyNzFmNS1jZjdiLTQwYzMtOTk0Zi00ZTc4NTc0Njg1NTZfMS5qcGc.jpg' alt='Christmas Wallpaper Iphone | Free Aesthetic HD & 4K Mobile Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTExL3Jhd3BpeGVsX29mZmljZV8zMV9leHRyZW1lX2Nsb3NlX3VwX3Bob3RvX29mX2NocmlzdG1hc190cmVlX29uX182NmQyNzFmNS1jZjdiLTQwYzMtOTk0Zi00ZTc4NTc0Njg1NTZfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas iPhone Wallpaper Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/69/13/e6/6913e6a868a497880a7eec06d4a1e1b6.jpg' alt='Christmas iPhone Wallpaper Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/69/13/e6/6913e6a868a497880a7eec06d4a1e1b6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant Christmas Mobile Wallpaper by eneakelo on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/96dfd877-6c12-43bd-b00d-92cb788dd96e/dim4pjx-ac7ebd9f-16ce-4d88-8727-fa078899438a.jpg/v1/fill/w_1920,h_3426,q_75,strp/elegant_christmas_mobile_wallpaper_by_eneakelo_dim4pjx-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk2ZGZkODc3LTZjMTItNDNiZC1iMDBkLTkyY2I3ODhkZDk2ZVwvZGltNHBqeC1hYzdlYmQ5Zi0xNmNlLTRkODgtODcyNy1mYTA3ODg5OTQzOGEuanBnIiwiaGVpZ2h0IjoiPD0zNDI2Iiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uud2F0ZXJtYXJrIl0sIndtayI6eyJwYXRoIjoiXC93bVwvOTZkZmQ4NzctNmMxMi00M2JkLWIwMGQtOTJjYjc4OGRkOTZlXC9lbmVha2Vsby00LnBuZyIsIm9wYWNpdHkiOjk1LCJwcm9wb3J0aW9ucyI6MC40NSwiZ3Jhdml0eSI6ImNlbnRlciJ9fQ.G-up6gj306_WRFpVnVur2HeraclUIky1cDAIerxQMd0' alt='Elegant Christmas Mobile Wallpaper by eneakelo on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="3426">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/96dfd877-6c12-43bd-b00d-92cb788dd96e/dim4pjx-ac7ebd9f-16ce-4d88-8727-fa078899438a.jpg/v1/fill/w_1920,h_3426,q_75,strp/elegant_christmas_mobile_wallpaper_by_eneakelo_dim4pjx-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk2ZGZkODc3LTZjMTItNDNiZC1iMDBkLTkyY2I3ODhkZDk2ZVwvZGltNHBqeC1hYzdlYmQ5Zi0xNmNlLTRkODgtODcyNy1mYTA3ODg5OTQzOGEuanBnIiwiaGVpZ2h0IjoiPD0zNDI2Iiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uud2F0ZXJtYXJrIl0sIndtayI6eyJwYXRoIjoiXC93bVwvOTZkZmQ4NzctNmMxMi00M2JkLWIwMGQtOTJjYjc4OGRkOTZlXC9lbmVha2Vsby00LnBuZyIsIm9wYWNpdHkiOjk1LCJwcm9wb3J0aW9ucyI6MC40NSwiZ3Jhdml0eSI6ImNlbnRlciJ9fQ.G-up6gj306_WRFpVnVur2HeraclUIky1cDAIerxQMd0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Merry Christmas to You - Phone Wallpaper and Mobile Background">
+                                <img itemprop="contentUrl url" src='https://media.swncdn.com/cms/CW/35455-Merry-Christmas-Pine-Fresh-Mobile-Wallpaper.jpg' alt='Merry Christmas to You - Phone Wallpaper and Mobile Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Crosscards.com" />
+                                </span>
+                                <a href='https://media.swncdn.com/cms/CW/35455-Merry-Christmas-Pine-Fresh-Mobile-Wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Mobile Wallpaper - Plugger AI Designer">
+                                <img itemprop="contentUrl url" src='https://files.plugger.ai/dbda1e75-ca41-4a47-88b6-80ec140087aa.jpg' alt='Christmas Mobile Wallpaper - Plugger AI Designer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Plugger - AI" />
+                                </span>
+                                <a href='https://files.plugger.ai/dbda1e75-ca41-4a47-88b6-80ec140087aa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Magical Christmas Village Live Wallpaper 4K">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7443303213945703712&location=0&aid=1988' alt='Magical Christmas Village Live Wallpaper 4K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7443303213945703712&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 2 | Christmas Mobile Wallpapers Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/christmas-decorations-trinkets_53876-75028.jpg' alt='Page 2 | Christmas Mobile Wallpapers Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="415">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/christmas-decorations-trinkets_53876-75028.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas tree - download free HD mobile wallpaper - ZOXEE">
+                                <img itemprop="contentUrl url" src='https://en.zoxee.com/cache/thumbnails/wp/0/0/1/2/2/3/8/4/tr_nnko5bv9_400_400.jpg' alt='Christmas tree - download free HD mobile wallpaper - ZOXEE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="224">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ZOXEE" />
+                                </span>
+                                <a href='https://en.zoxee.com/cache/thumbnails/wp/0/0/1/2/2/3/8/4/tr_nnko5bv9_400_400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

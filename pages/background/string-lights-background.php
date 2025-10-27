@@ -1,0 +1,129 @@
+<title>String Lights: Illuminate Your Space with Style</title>
+                    <meta name="description" content="Discover how string lights enhance your decor with their warm glow. Perfect for events or everyday use, these versatile lights add charm to any backdrop. Transform your space and create unforgettable memories with beautiful string light displays.">
+                    <meta name="keywords" content="string lights background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/string-lights-background">
+                            <span itemprop="name">string lights background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>String Lights: Illuminate Your Space with Style</h1>
+                <p>String lights create enchanting backgrounds for any occasion. Their warm glow transforms ordinary spaces into magical realms, perfect for weddings, parties, or cozy evenings at home. Whether draped over trees, indoors, or used as wall decor, string lights add charm and festivity, making your environment inviting and unforgettable.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="String Lights Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/002/223/625/non_2x/gold-fairy-lights-hanging-string-decoration-background-vector.jpg' alt='String Lights Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1387">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/002/223/625/non_2x/gold-fairy-lights-hanging-string-decoration-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,400+ Rustic String Lights Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1359322212/photo/old-rustic-wooden-wall-with-fairy-light.jpg?s=612x612&w=0&k=20&c=w-GqPywnbK7C17cLzOjYDaO2k6CrbHNMrb7DwE1dNGQ=' alt='2,400+ Rustic String Lights Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1359322212/photo/old-rustic-wooden-wall-with-fairy-light.jpg?s=612x612&w=0&k=20&c=w-GqPywnbK7C17cLzOjYDaO2k6CrbHNMrb7DwE1dNGQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12,000+ Outdoor String Lights Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1300384615/photo/string-light-bulbs-at-sunset.jpg?s=612x612&w=0&k=20&c=N695nAFz9YSNxynM3auPznfA3E6wXc8D6P60bN1MaEk=' alt='12,000+ Outdoor String Lights Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1300384615/photo/string-light-bulbs-at-sunset.jpg?s=612x612&w=0&k=20&c=N695nAFz9YSNxynM3auPznfA3E6wXc8D6P60bN1MaEk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="String Lights Transparent Background Images – Browse 27,622 Stock ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/39/12/26/360_F_239122620_WCpWgmlH9PgAOzmsePQU6yeBpHwfBEBX.jpg' alt='String Lights Transparent Background Images – Browse 27,622 Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="514">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/39/12/26/360_F_239122620_WCpWgmlH9PgAOzmsePQU6yeBpHwfBEBX.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="String Lights Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/011/135/909/non_2x/christmas-lights-isolated-on-a-transparent-background-christmas-glowing-garland-for-the-new-year-and-christmas-light-effect-illustration-vector.jpg' alt='String Lights Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="549">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/011/135/909/non_2x/christmas-lights-isolated-on-a-transparent-background-christmas-glowing-garland-for-the-new-year-and-christmas-light-effect-illustration-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="String lights digital background, photography background, photoshop,  backdrop, digital, printable, vertical lights, stock image, DOWNLOAD">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/13530939/r/il/33b6bb/1761656700/il_570xN.1761656700_3mad.jpg' alt='String lights digital background, photography background, photoshop,  backdrop, digital, printable, vertical lights, stock image, DOWNLOAD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="475">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/13530939/r/il/33b6bb/1761656700/il_570xN.1761656700_3mad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="750+ Fairy Lights Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1551564874-2c247864797e?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZmFpcnklMjBsaWdodHN8ZW58MHx8MHx8fDA%3D' alt='750+ Fairy Lights Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1551564874-2c247864797e?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZmFpcnklMjBsaWdodHN8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="String Lights Background Stock Illustrations – 28,758 String ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/warm-dreamy-string-lights-background-perfect-photography-events-home-decor-creative-projects-create-captivating-349262763.jpg' alt='String Lights Background Stock Illustrations – 28,758 String ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/warm-dreamy-string-lights-background-perfect-photography-events-home-decor-creative-projects-create-captivating-349262763.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rustic Wood Background String Lights Royalty-Free Images, Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/christmas-background-copy-space-top-260nw-2525840907.jpg' alt='Rustic Wood Background String Lights Royalty-Free Images, Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="383">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/christmas-background-copy-space-top-260nw-2525840907.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="String Of Lights Graphic Images – Browse 57,093 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/07/35/70/360_F_507357076_iZdK8JWVRNySGSiHYNUXc7OBflEkYEas.jpg' alt='String Of Lights Graphic Images – Browse 57,093 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/07/35/70/360_F_507357076_iZdK8JWVRNySGSiHYNUXc7OBflEkYEas.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

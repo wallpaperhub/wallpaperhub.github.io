@@ -1,0 +1,129 @@
+<title>Stunning 4K F1 Wallpapers for Your Phone</title>
+                    <meta name="description" content="Discover the best 4K F1 wallpapers for your phone, showcasing breathtaking race moments and iconic cars. Perfect for Formula 1 fans who want to express their passion in style. Download now and transform your mobile screen with high-quality imagery that captures the essence of speed and excitement!">
+                    <meta name="keywords" content="f1 wallpaper 4k phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/f1-wallpaper-4k-phone">
+                            <span itemprop="name">f1 wallpaper 4k phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K F1 Wallpapers for Your Phone</h1>
+                <p>Elevate your phone's aesthetic with stunning 4K F1 wallpapers that showcase the thrill of Formula 1 racing. From high-speed action shots to iconic team designs, these wallpapers bring the excitement of the track right to your screen. Perfect for F1 enthusiasts, these vibrant images will keep your passion for racing alive every time you unlock your device.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Formula 1 Mobile Wallpapers on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/48/5f/f6/485ff6020a380ecaf557f1a283a63d3d.jpg' alt='   Formula 1 Mobile Wallpapers on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="722">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/48/5f/f6/485ff6020a380ecaf557f1a283a63d3d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sebastian Vettel's SF90 in the Pits [Mobile Wallpaper] : r/formula1">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/dzjr8tltwqi21.png' alt='Sebastian Vettel's SF90 in the Pits [Mobile Wallpaper] : r/formula1'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1895">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/dzjr8tltwqi21.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elevate Your Phone with Formula 1 iPhone Wallpapers"">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/48/59/96/485996e94446648760a67110572ac0f4.jpg' alt='Elevate Your Phone with Formula 1 iPhone Wallpapers"'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1471">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/48/59/96/485996e94446648760a67110572ac0f4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Next: Mobile wallpaper for Ferrari fans : r/formula1">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/ii18qz5waxh21.png?width=1440&format=png&auto=webp&s=344ce6e22f0a702a6233327ee86341950b075a20' alt='Next: Mobile wallpaper for Ferrari fans : r/formula1'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/ii18qz5waxh21.png?width=1440&format=png&auto=webp&s=344ce6e22f0a702a6233327ee86341950b075a20' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers - Mercedes-AMG PETRONAS F1 Team">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/1fvlg6xqnm65/4RYnGUxgumz1VIlFWXJHlb/bf2fb88118176df35307b0d4d08c739c/Thank_You_Lewis_Mobile_Wallpaper_4.png?w=3840&q=75&fm=webp' alt='Wallpapers - Mercedes-AMG PETRONAS F1 Team'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mercedes-AMG PETRONAS F1 Team" />
+                                </span>
+                                <a href='https://images.ctfassets.net/1fvlg6xqnm65/4RYnGUxgumz1VIlFWXJHlb/bf2fb88118176df35307b0d4d08c739c/Thank_You_Lewis_Mobile_Wallpaper_4.png?w=3840&q=75&fm=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] F1 Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/f1-phone-m20bpwsc2e6qh7ti.jpg' alt='100+] F1 Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="959">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/f1-phone-m20bpwsc2e6qh7ti.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Formula 1 Wallpapers | formula 1, 1% wallpaper, formula 1 car">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/46/83/d2/4683d2baaa8087bacaed172aed8aa771.jpg' alt='Formula 1 Wallpapers | formula 1, 1% wallpaper, formula 1 car'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/46/83/d2/4683d2baaa8087bacaed172aed8aa771.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Exclusive Downloads: Get Fresh Wallpapers - McLaren Racing">
+                                <img itemprop="contentUrl url" src='https://mclaren.bloomreach.io/delivery/resources/content/gallery/mclaren-racing/downloads/2025/2025-f1-wallpapers-mobile-4.jpg' alt='Exclusive Downloads: Get Fresh Wallpapers - McLaren Racing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="721">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="McLaren" />
+                                </span>
+                                <a href='https://mclaren.bloomreach.io/delivery/resources/content/gallery/mclaren-racing/downloads/2025/2025-f1-wallpapers-mobile-4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lewis Hamilton Wallpapers (40 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/e/8/7/181857-1152x2048-mobile-hd-lewis-hamilton-wallpaper-image.jpg' alt='Lewis Hamilton Wallpapers (40 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1152">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/e/8/7/181857-1152x2048-mobile-hd-lewis-hamilton-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download F1 Phone Huangchen Sebastian Vettel Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/f1-phone-huangchen-sebastian-vettel-g6uais54su7lq9nb.jpg' alt='Download F1 Phone Huangchen Sebastian Vettel Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/f1-phone-huangchen-sebastian-vettel-g6uais54su7lq9nb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

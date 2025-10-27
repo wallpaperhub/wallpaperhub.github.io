@@ -1,0 +1,129 @@
+<title>Black Star Wallpaper: Y2K Aesthetic Redefined</title>
+                    <meta name="description" content="Explore our chic black star wallpaper that embodies the Y2K aesthetic. Perfect for adding a nostalgic yet modern twist to any room, this design showcases a striking blend of elegance and whimsical charm. Elevate your decor today with this eye-catching wallpaper!">
+                    <meta name="keywords" content="black star wallpaper y2k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star">
+                            <span itemprop="name">Star</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star/black-star-wallpaper-y2k">
+                            <span itemprop="name">black star wallpaper y2k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Black Star Wallpaper: Y2K Aesthetic Redefined</h1>
+                <p>Transform your space with black star wallpaper inspired by Y2K aesthetics. This trend captures the essence of early 2000s pop culture, combining dark elegance with whimsical star motifs. Ideal for bedrooms, living rooms, or any trendy space, this wallpaper adds a unique touch to your decor while evoking nostalgia. Embrace the dark side of Y2K style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="white and black stars y2k wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d9/c4/ea/d9c4ea3fa05246dc8d287e6221a4dbb5.jpg' alt='white and black stars y2k wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="611">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d9/c4/ea/d9c4ea3fa05246dc8d287e6221a4dbb5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/05/d6/e5/05d6e517e3e0491e5ae30eb1b33dff20.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/05/d6/e5/05d6e517e3e0491e5ae30eb1b33dff20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/cc/77/a4/cc77a48c3042370462f5ec2603b52d12.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/cc/77/a4/cc77a48c3042370462f5ec2603b52d12.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Black Y2k Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/twinkling-starson-black-background-uju8283dcuah9eoh.jpg' alt='100+] Black Y2k Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/twinkling-starson-black-background-uju8283dcuah9eoh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="28 Star core ideas | star wallpaper, y2k wallpaper, y2k background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/750x/b0/e0/b0/b0e0b08512b5738d464bd4758ecb364f.jpg' alt='28 Star core ideas | star wallpaper, y2k wallpaper, y2k background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/750x/b0/e0/b0/b0e0b08512b5738d464bd4758ecb364f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Y2K Star Wallpaper: Black and White Aesthetic Stars">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7271375614416801029&location=0&aid=1988' alt='Y2K Star Wallpaper: Black and White Aesthetic Stars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7271375614416801029&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Y2K stars! wallpaper by Genavievey - Download on ZEDGE™ | d27d">
+                                <img itemprop="contentUrl url" src='https://is.zobj.net/image-server/v1/images?r=lBPbFPS2WwkBiI_94q2cUhmfnbKRTaLu1eZFEt4ooJ5UMOvzKhwk2ABDoO5FlTJOuP5r3TSr90Cchpad6iTNkiiBU8EeZRqcRpH7wbOP9QvAxaSH83gfd3Yh4_zWZfw15iLepSX5_emRUm-9oIppOpxibQGz_gf6rLREUATdV_TRx1fed8GSULy5NJ1ZeD2tWG2Xr1ri-SxUJlBstOWCuZkbPP0WEPmwCOyyr9tmJviPInsnpQw9xtlcHpg' alt='Y2K stars! wallpaper by Genavievey - Download on ZEDGE™ | d27d'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="336">
+                                <meta itemprop="height" content="603">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zedge" />
+                                </span>
+                                <a href='https://is.zobj.net/image-server/v1/images?r=lBPbFPS2WwkBiI_94q2cUhmfnbKRTaLu1eZFEt4ooJ5UMOvzKhwk2ABDoO5FlTJOuP5r3TSr90Cchpad6iTNkiiBU8EeZRqcRpH7wbOP9QvAxaSH83gfd3Yh4_zWZfw15iLepSX5_emRUm-9oIppOpxibQGz_gf6rLREUATdV_TRx1fed8GSULy5NJ1ZeD2tWG2Xr1ri-SxUJlBstOWCuZkbPP0WEPmwCOyyr9tmJviPInsnpQw9xtlcHpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Black Y2k Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/shooting-star-black-background-3ou8qst5odsay63z.jpg' alt='100+] Black Y2k Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1919">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/shooting-star-black-background-3ou8qst5odsay63z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="y2k star wallpaper for you✨⭐ | Gallery posted by ⭐   _❤_     ...">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7384852145734271494&index=2&sign=476cdc1f93085880dde15b71e9fccdc6' alt='y2k star wallpaper for you✨⭐ | Gallery posted by ⭐   _❤_     ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="418">
+                                <meta itemprop="height" content="557">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7384852145734271494&index=2&sign=476cdc1f93085880dde15b71e9fccdc6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Y2k Star Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp12114801.jpg' alt='Y2k Star Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="1170">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp12114801.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

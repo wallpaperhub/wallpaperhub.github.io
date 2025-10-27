@@ -1,0 +1,129 @@
+<title>Aesthetic Phone Wallpapers: Refresh Your Screen</title>
+                    <meta name="description" content="Discover a stunning collection of aesthetic phone wallpapers that elevate your device's look. From nature to abstract art, find the perfect wallpaper that suits your style and personality for an inspiring mobile experience.">
+                    <meta name="keywords" content="aesthetic:byd2j7hlyfy= phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/aestheticbyd2j7hlyfy-phone-wallpaper">
+                            <span itemprop="name">aesthetic:byd2j7hlyfy= phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Phone Wallpapers: Refresh Your Screen</h1>
+                <p>Aesthetic phone wallpapers can transform your device, reflecting your unique style and personality. Whether you prefer calming nature scenes, vibrant abstract designs, or minimalist art, the right wallpaper enhances your screen. Explore a curated collection that inspires creativity and instills joy every time you unlock your phone.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free aesthetic phone wallpaper templates to customize | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFXef783CM/2/0/900w/canva-fondo-de-pantalla-para-tel%C3%A9fono-vision-board-aesthetic-marr%C3%B3n-_fGP-hZ_s9E.jpg' alt='Free aesthetic phone wallpaper templates to customize | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFXef783CM/2/0/900w/canva-fondo-de-pantalla-para-tel%C3%A9fono-vision-board-aesthetic-marr%C3%B3n-_fGP-hZ_s9E.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free aesthetic phone wallpaper templates to customize | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAF9T19kJ4I/2/0/900w/canva-brown-beige-aesthetic-music-playlist-phone-wallpaper-uV5C76BfegM.jpg' alt='Free aesthetic phone wallpaper templates to customize | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAF9T19kJ4I/2/0/900w/canva-brown-beige-aesthetic-music-playlist-phone-wallpaper-uV5C76BfegM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free aesthetic phone wallpaper templates to customize | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFtPPw2wA0/1/0/900w/canva-black-and-brown-aesthetic-floral-phone-wallpaper-MwyicSeMlfU.jpg' alt='Free aesthetic phone wallpaper templates to customize | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFtPPw2wA0/1/0/900w/canva-black-and-brown-aesthetic-floral-phone-wallpaper-MwyicSeMlfU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free aesthetic phone wallpaper templates to customize | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGDh-nVoJo/2/0/900w/canva-cream-brown-aesthetic-cute-minimalist-phone-wallpaper-xEc0-wUoxJM.jpg' alt='Free aesthetic phone wallpaper templates to customize | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGDh-nVoJo/2/0/900w/canva-cream-brown-aesthetic-cute-minimalist-phone-wallpaper-xEc0-wUoxJM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free aesthetic phone wallpaper templates to customize | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFbXvq_ReQ/1/0/900w/canva-green-beige-photo-collage-aesthetic-phone-wallpaper-rmiUMzgBpn8.jpg' alt='Free aesthetic phone wallpaper templates to customize | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFbXvq_ReQ/1/0/900w/canva-green-beige-photo-collage-aesthetic-phone-wallpaper-rmiUMzgBpn8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free aesthetic phone wallpaper templates to customize | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGHOyQVZwA/1/0/900w/canva-brown-beige-cream-watercolor-aesthetic-floral-phone-wallpaper-IHIdTrmJKq8.jpg' alt='Free aesthetic phone wallpaper templates to customize | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGHOyQVZwA/1/0/900w/canva-brown-beige-cream-watercolor-aesthetic-floral-phone-wallpaper-IHIdTrmJKq8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free aesthetic phone wallpaper templates to customize | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFrpBCLYIs/1/0/900w/canva-brown-aesthetic-photo-collage-autumn-phone-wallpaper-Ox5fbP9UL2A.jpg' alt='Free aesthetic phone wallpaper templates to customize | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFrpBCLYIs/1/0/900w/canva-brown-aesthetic-photo-collage-autumn-phone-wallpaper-Ox5fbP9UL2A.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free aesthetic phone wallpaper templates to customize | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGKwpA2CcU/1/0/900w/canva-aesthetic-motivational-vision-board-collage-phone-wallpaper-eHwYxP6CFJo.jpg' alt='Free aesthetic phone wallpaper templates to customize | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGKwpA2CcU/1/0/900w/canva-aesthetic-motivational-vision-board-collage-phone-wallpaper-eHwYxP6CFJo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free aesthetic phone wallpaper templates to customize | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGRj_cF6T4/1/0/900w/canva-beige-brown-cute-aesthetic-autumn-phone-wallpaper-AIaJWOZ2_Yo.jpg' alt='Free aesthetic phone wallpaper templates to customize | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGRj_cF6T4/1/0/900w/canva-beige-brown-cute-aesthetic-autumn-phone-wallpaper-AIaJWOZ2_Yo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Aesthetic | Free Beautiful HD iPhone, Samsung & Mobile ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNTk3ZGVzaWduLWMtYnVzLTAwMS5qcGc.jpg' alt='Wallpaper Aesthetic | Free Beautiful HD iPhone, Samsung & Mobile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNTk3ZGVzaWduLWMtYnVzLTAwMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

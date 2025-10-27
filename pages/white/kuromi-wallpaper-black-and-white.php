@@ -1,0 +1,129 @@
+<title>Stylish Kuromi Black & White Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore trendy black and white Kuromi wallpapers to give your screens a stylish makeover. Perfect for Sanrio fans, these chic designs will add personality and flair. Download now to enjoy a unique blend of mischief and elegance on your devices!">
+                    <meta name="keywords" content="kuromi wallpaper black and white">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/kuromi-wallpaper-black-and-white">
+                            <span itemprop="name">kuromi wallpaper black and white</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Kuromi Black & White Wallpapers for Your Device</h1>
+                <p>Transform your device with stylish Kuromi wallpaper in a chic black and white design. Perfect for fans of this mischievous Sanrio character, these wallpapers combine elegance and fun, adding a unique touch to your screens. Discover a variety of designs that embrace the playful yet edgy spirit of Kuromi!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple Black And White Kuromi Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/simple-black-and-white-kuromi-02fp86lm7lienzmq.jpg' alt='Simple Black And White Kuromi Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="988">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/simple-black-and-white-kuromi-02fp86lm7lienzmq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="kuromi wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e2/20/28/e22028a6beb3c9cf3a2812f0f0f74c57.jpg' alt='kuromi wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="734">
+                                <meta itemprop="height" content="1389">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e2/20/28/e22028a6beb3c9cf3a2812f0f0f74c57.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kuromi Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8d/a4/62/8da462bc45cd4e2cf7cc91a907c90c57.jpg' alt='Kuromi Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8d/a4/62/8da462bc45cd4e2cf7cc91a907c90c57.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Kuromi iPhone Doodles On Black Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/kuromi-iphone-hag6g2z564u1qozv.jpg' alt='Download Kuromi iPhone Doodles On Black Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/kuromi-iphone-hag6g2z564u1qozv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gothic Kuromi Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/75/71/7e/75717e128da126d4bf067a910ab23807.jpg' alt='Gothic Kuromi Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1575">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/75/71/7e/75717e128da126d4bf067a910ab23807.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sanrio Kuromi Iphone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/kuromi-3_63861329816300.jpg' alt='Sanrio Kuromi Iphone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1124">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Hackster" />
+                                </span>
+                                <a href='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/kuromi-3_63861329816300.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sanrio Kuromi Skull Theme Wallpapers - Best Kawaii Wallpapers">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2024/07/sanrio-kuromi-skull-theme-wallpaper.jpg' alt='Sanrio Kuromi Skull Theme Wallpapers - Best Kawaii Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="4329">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2024/07/sanrio-kuromi-skull-theme-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2e/70/31/2e70310d8c60b940c89f145acf0555f4.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="601">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2e/70/31/2e70310d8c60b940c89f145acf0555f4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Charming Kuromi Pattern Wallpaper Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/kuromi-pattern-1080-x-1920-wallpaper-osjqpf4pim8odwm9.jpg' alt='Download Charming Kuromi Pattern Wallpaper Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/kuromi-pattern-1080-x-1920-wallpaper-osjqpf4pim8odwm9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kuromi Live Wallpaper: Aesthetic Designs for Your Device | TikTok">
+                                <img itemprop="contentUrl url" src='https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/9c2c3b4de09949ff807307926fd647f9_1731431295~tplv-photomode-video-share-card:630:630:20.jpeg?lk3s=55bbe6a9&nonce=24852&refresh_token=216f4685db608cdf49400e816f961c02&x-expires=1741514400&x-signature=YxXXp1xpZtAjN6tll6Jk7bQDqCE%3D&shp=55bbe6a9&shcp=-' alt='Kuromi Live Wallpaper: Aesthetic Designs for Your Device | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/9c2c3b4de09949ff807307926fd647f9_1731431295~tplv-photomode-video-share-card:630:630:20.jpeg?lk3s=55bbe6a9&nonce=24852&refresh_token=216f4685db608cdf49400e816f961c02&x-expires=1741514400&x-signature=YxXXp1xpZtAjN6tll6Jk7bQDqCE%3D&shp=55bbe6a9&shcp=-' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

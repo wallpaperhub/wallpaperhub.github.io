@@ -1,0 +1,129 @@
+<title>Embrace Cottagecore Style: Floral Wallpaper for a Cozy Home</title>
+                    <meta name="description" content="Discover the beauty of cottagecore floral wallpaper—perfect for adding a vintage touch to any room. With enchanting designs featuring delicate flowers, transform your home into a cozy haven that celebrates nature and tranquility. Ideal for any decor style!">
+                    <meta name="keywords" content="cottagecore floral wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/cottagecore-floral-wallpaper">
+                            <span itemprop="name">cottagecore floral wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Embrace Cottagecore Style: Floral Wallpaper for a Cozy Home</h1>
+                <p>Cottagecore floral wallpaper brings a touch of rustic charm to your home, featuring delicate blooms and whimsical designs that evoke a serene, countryside vibe. Perfect for creating cozy spaces, this wallpaper complements vintage furniture and soft linens, turning any room into a tranquil retreat where nature meets nostalgia.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cottagecore Wallpaper | Floral Vintage Tiles, Cozy Cottage Wallpaper">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/files/cottagecore-wallpaper-853513.jpg?v=1730574433' alt='Cottagecore Wallpaper | Floral Vintage Tiles, Cozy Cottage Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/files/cottagecore-wallpaper-853513.jpg?v=1730574433' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blush Flowers MF41503">
+                                <img itemprop="contentUrl url" src='https://mayflowerwallpaper.com/cdn/shop/products/blush-flowers-mf41503-851411.jpg?v=1675881138' alt='Blush Flowers MF41503'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="771">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mayflower Wallpaper" />
+                                </span>
+                                <a href='https://mayflowerwallpaper.com/cdn/shop/products/blush-flowers-mf41503-851411.jpg?v=1675881138' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beige Cottagecore Floral Removable Wallpaper - Shop Online on roomtery">
+                                <img itemprop="contentUrl url" src='https://roomtery.com/cdn/shop/files/peel-and-stick-aesthetic-wallpaper-self-adhesive-wall-sticker-roomtery1_fb31ed97-a399-47f3-add1-43e18e25f7b1.jpg?v=1695055997&width=360' alt='Beige Cottagecore Floral Removable Wallpaper - Shop Online on roomtery'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="roomtery" />
+                                </span>
+                                <a href='https://roomtery.com/cdn/shop/files/peel-and-stick-aesthetic-wallpaper-self-adhesive-wall-sticker-roomtery1_fb31ed97-a399-47f3-add1-43e18e25f7b1.jpg?v=1695055997&width=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Commercial Grade Wallpaper Swatch - Cottagecore,Poppy Wildflowers ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61WfLMU-PaL._AC_UF894,1000_QL80_.jpg' alt='Commercial Grade Wallpaper Swatch - Cottagecore,Poppy Wildflowers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="967">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61WfLMU-PaL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summerfield Flower Dark Art Wallpaper for Cottagecore Decor ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11123188/r/il/5c01e1/3527714960/il_570xN.3527714960_m3na.jpg' alt='Summerfield Flower Dark Art Wallpaper for Cottagecore Decor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11123188/r/il/5c01e1/3527714960/il_570xN.3527714960_m3na.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Cottagecore Wallpaper Ideas For Your Home Decor - Cosy Home Blog">
+                                <img itemprop="contentUrl url" src='https://www.cosyhomeblog.com/wp-content/uploads/2023/03/cottagecore-floral-wallpaper-cottage-rural-style-ideas-1.jpg' alt='Best Cottagecore Wallpaper Ideas For Your Home Decor - Cosy Home Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cosy Home Blog" />
+                                </span>
+                                <a href='https://www.cosyhomeblog.com/wp-content/uploads/2023/03/cottagecore-floral-wallpaper-cottage-rural-style-ideas-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cottagecore Wavy Floral Stripe Wallpaper - Cream">
+                                <img itemprop="contentUrl url" src='http://ayarahome.com/cdn/shop/files/Cottagecore_Stripe.jpg?v=1724951446' alt='Cottagecore Wavy Floral Stripe Wallpaper - Cream'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ayara Home" />
+                                </span>
+                                <a href='http://ayarahome.com/cdn/shop/files/Cottagecore_Stripe.jpg?v=1724951446' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cottagecore Wallpaper by Opposite Wall">
+                                <img itemprop="contentUrl url" src='http://oppositewall.com/cdn/shop/products/GREEN_a0841264-ba4e-42fd-b4d3-d31135bdfd94.jpg?v=1736834237' alt='Cottagecore Wallpaper by Opposite Wall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1503">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Opposite Wall" />
+                                </span>
+                                <a href='http://oppositewall.com/cdn/shop/products/GREEN_a0841264-ba4e-42fd-b4d3-d31135bdfd94.jpg?v=1736834237' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Botanical Wallpaper, Cottagecore Wallpaper, Dark Wallpaper, Moody ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16189042/r/il/48d443/4824638323/il_570xN.4824638323_pwgt.jpg' alt='Botanical Wallpaper, Cottagecore Wallpaper, Dark Wallpaper, Moody ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16189042/r/il/48d443/4824638323/il_570xN.4824638323_pwgt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="18+ Idyllic Cottagecore Wallpaper Options | Free Cottagecore Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/bc/5f/d4/bc5fd4f3925bfc2d92ea26a7a1229cac.jpg' alt='18+ Idyllic Cottagecore Wallpaper Options | Free Cottagecore Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/bc/5f/d4/bc5fd4f3925bfc2d92ea26a7a1229cac.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

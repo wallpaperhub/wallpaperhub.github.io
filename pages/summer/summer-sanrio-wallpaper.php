@@ -1,0 +1,129 @@
+<title>Brighten Your Screen: Summer Sanrio Wallpapers</title>
+                    <meta name="description" content="Discover cute summer Sanrio wallpapers that bring your favorite characters to life! Perfect for any device, these vibrant designs add a touch of joy to your daily routine. Download now for a fresh, playful look that captures the spirit of summer!">
+                    <meta name="keywords" content="summer sanrio wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/summer">
+                            <span itemprop="name">Summer</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/summer/summer-sanrio-wallpaper">
+                            <span itemprop="name">summer sanrio wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Brighten Your Screen: Summer Sanrio Wallpapers</h1>
+                <p>Transform your device with delightful summer Sanrio wallpapers! Featuring your favorite characters like Hello Kitty, My Melody, and Cinnamoroll, these vibrant designs capture the joy of sunny days and warm vibes. Perfect for adding a touch of cuteness and cheer to your screens, these wallpapers bring a smile all season long!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Kitty Summer">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/39/8d/98/398d98649f2c14fd45c5f876d3bc8e29.jpg' alt='Hello Kitty Summer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="446">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/39/8d/98/398d98649f2c14fd45c5f876d3bc8e29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sanrio Summer | Hello kitty merchandise, Sanrio wallpaper, Hello kitty">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5f/d0/23/5fd0234227dbf515d906591031b815c6.jpg' alt='Sanrio Summer | Hello kitty merchandise, Sanrio wallpaper, Hello kitty'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="470">
+                                <meta itemprop="height" content="392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5f/d0/23/5fd0234227dbf515d906591031b815c6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Kitty x Skinnydip Phone Wallpapers | Blog | Skinnydip London">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0166/6656/files/Hello-Kitty-Drop-2_Wallpaper_04.jpg?v=1693389280' alt='Hello Kitty x Skinnydip Phone Wallpapers | Blog | Skinnydip London'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Skinnydip London" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0166/6656/files/Hello-Kitty-Drop-2_Wallpaper_04.jpg?v=1693389280' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello kitty Summer">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/24/f5/0e/24f50ea6c5d78dab1a142402d765eb95.jpg' alt='Hello kitty Summer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/24/f5/0e/24f50ea6c5d78dab1a142402d765eb95.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Sanrio Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11190046.jpg' alt='Summer Sanrio Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="958">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11190046.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Summer">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/fc/ca/49/fcca49ac2550c4070124752ce7dbb580.jpg' alt='Hello Summer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/fc/ca/49/fcca49ac2550c4070124752ce7dbb580.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Sanrio wallpaper | Gallery posted by Jaylenneeee | Lemon8">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7391720456245625350&index=0&sign=140d2c7fc5e1bfdc268013fe7498a7cf' alt='Summer Sanrio wallpaper | Gallery posted by Jaylenneeee | Lemon8'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1442">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7391720456245625350&index=0&sign=140d2c7fc5e1bfdc268013fe7498a7cf' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SUMMER-ISH/FRUIT POPSICLE WALLPAPERS From Sanrio – @yellow-maiden ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/6666d766a159ce4336e25d9f927c337d/tumblr_p6hebub9r51w9xu55o1_1280.jpg' alt='SUMMER-ISH/FRUIT POPSICLE WALLPAPERS From Sanrio – @yellow-maiden ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1132">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/6666d766a159ce4336e25d9f927c337d/tumblr_p6hebub9r51w9xu55o1_1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Kitty Summer Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/98/e2/86/98e286a65a76d68601810a657bc0e604.jpg' alt='Hello Kitty Summer Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/98/e2/86/98e286a65a76d68601810a657bc0e604.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Get Ready for Summer with the Sanrio Phone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/sanrio-phone-lm3p5l94zd607das.jpg' alt='Download Get Ready for Summer with the Sanrio Phone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1081">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/sanrio-phone-lm3p5l94zd607das.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Vibrant Blue Lock HD Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover a collection of eye-catching Blue Lock HD wallpapers! Perfect for anime fans seeking to personalize their devices, these wallpapers enhance your screen's aesthetic with stunning visuals and vivid colors. Download now to showcase your love for the series!">
+                    <meta name="keywords" content="blue lock hd wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock">
+                            <span itemprop="name">Lock</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock/blue-lock-hd-wallpaper">
+                            <span itemprop="name">blue lock hd wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Blue Lock HD Wallpapers for Your Device</h1>
+                <p>Transform your device's look with stunning Blue Lock HD wallpapers! Immerse yourself in the vibrant visuals of your favorite characters and scenes from the popular manga and anime series. Perfect for fans, these wallpapers enhance your screens, making them more dynamic and engaging. Download your favorite now and show off your passion!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Lock Anime Trio HD Wallpaper - Isagi, Bachira, and Chigiri in ...">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/133/1337551.jpeg' alt='Blue Lock Anime Trio HD Wallpaper - Isagi, Bachira, and Chigiri in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/133/1337551.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Isagi Yoichi Anime Blue Lock HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/127/1279983.jpg' alt='Download Isagi Yoichi Anime Blue Lock HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3375">
+                                <meta itemprop="height" content="2813">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/127/1279983.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Lock Anime: 4K Ultra HD Wallpaper of Shouei Barou, Isagi ...">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/137/1374682.jpg' alt='Blue Lock Anime: 4K Ultra HD Wallpaper of Shouei Barou, Isagi ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/137/1374682.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Lock HD Wallpaper: Rensuke, Isagi, Hyoma & Bachira Unite!">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/116/1165712.jpg' alt='Blue Lock HD Wallpaper: Rensuke, Isagi, Hyoma & Bachira Unite!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1242">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/116/1165712.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Blue Lock 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/136/1368057.jpeg' alt='Download Blue Lock 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/136/1368057.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Anime Blue Lock 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/131/1319754.jpeg' alt='Download Anime Blue Lock 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/131/1319754.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Lock Anime Bachira HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/60/4c/fc/604cfc56d2fd4c43b8e36cd0dd35d662.jpg' alt='Blue Lock Anime Bachira HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/60/4c/fc/604cfc56d2fd4c43b8e36cd0dd35d662.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Anime Blue Lock Isagi Yoichi HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/136/1364507.jpeg' alt='Download Anime Blue Lock Isagi Yoichi HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3396">
+                                <meta itemprop="height" content="2960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/136/1364507.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue lock wallpaper by Drstoneart on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7e692647-4e37-4df2-92cd-39391c6da57e/dfiwgnx-42b73620-19d4-4fbd-84fd-ab5d4827d18f.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdlNjkyNjQ3LTRlMzctNGRmMi05MmNkLTM5MzkxYzZkYTU3ZVwvZGZpd2dueC00MmI3MzYyMC0xOWQ0LTRmYmQtODRmZC1hYjVkNDgyN2QxOGYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.vMrMPhRDzleOiqpQk1HVW3cUmwHgbsndzOYzcWKip6E' alt='Blue lock wallpaper by Drstoneart on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="2551">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7e692647-4e37-4df2-92cd-39391c6da57e/dfiwgnx-42b73620-19d4-4fbd-84fd-ab5d4827d18f.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdlNjkyNjQ3LTRlMzctNGRmMi05MmNkLTM5MzkxYzZkYTU3ZVwvZGZpd2dueC00MmI3MzYyMC0xOWQ0LTRmYmQtODRmZC1hYjVkNDgyN2QxOGYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.vMrMPhRDzleOiqpQk1HVW3cUmwHgbsndzOYzcWKip6E' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Lock Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c4/42/56/c4425643ddf5cd6924528d029eb56b62.jpg' alt='Blue Lock Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1279">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c4/42/56/c4425643ddf5cd6924528d029eb56b62.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

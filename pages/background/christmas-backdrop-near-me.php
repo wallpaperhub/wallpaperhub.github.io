@@ -1,0 +1,129 @@
+<title>Find the Best Christmas Backdrop Near You</title>
+                    <meta name="description" content="Get the ideal Christmas backdrop nearby for your holiday celebrations. Explore local options that create unforgettable memories in festive settings. Perfect for photoshoots or family gatherings, ensure your holiday spirit shines with a beautiful backdrop!">
+                    <meta name="keywords" content="christmas backdrop near me">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/christmas-backdrop-near-me">
+                            <span itemprop="name">christmas backdrop near me</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Find the Best Christmas Backdrop Near You</h1>
+                <p>Looking for the perfect Christmas backdrop near you? Discover a variety of festive setups for your holiday photos, from charming winter wonderlands to cozy family scenes. Whether you're planning a professional photoshoot or a fun family gathering, find local options that capture the magic of the season and make your memories unforgettable!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7x5ft Christmas Backdrops Photography Winter Fireplace Xmas Tree Sock Wall  Party Decor Merry Christmas Bear Backdrop Family Kids Holiday New Year ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/7x5ft-Christmas-Backdrops-Photography-Winter-Fireplace-Xmas-Tree-Sock-Wall-Party-Decor-Merry-Bear-Backdrop-Family-Kids-Holiday-New-Year-Supplies-Phot_f624481f-17e3-4646-ad66-7c3880b6188b.8f27974a4b01f66631e08204d7dd794b.jpeg' alt='7x5ft Christmas Backdrops Photography Winter Fireplace Xmas Tree Sock Wall  Party Decor Merry Christmas Bear Backdrop Family Kids Holiday New Year ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/7x5ft-Christmas-Backdrops-Photography-Winter-Fireplace-Xmas-Tree-Sock-Wall-Party-Decor-Merry-Bear-Backdrop-Family-Kids-Holiday-New-Year-Supplies-Phot_f624481f-17e3-4646-ad66-7c3880b6188b.8f27974a4b01f66631e08204d7dd794b.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : WOLADA Holiday Vintage Gold Christmas Backdrop 10x10FT 11715 :  Electronics">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/7148CxgjXKL.jpg' alt='Amazon.com : WOLADA Holiday Vintage Gold Christmas Backdrop 10x10FT 11715 :  Electronics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1276">
+                                <meta itemprop="height" content="1276">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/7148CxgjXKL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Backdrop, Christmas Barn Door Photography Backdrop, New Year Xmas  Tree Snow Gift Wooden Wall Family Holiday Party Photo Background, ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Christmas-Backdrop-Barn-Door-Photography-New-Year-Xmas-Tree-Snow-Gift-Wooden-Wall-Family-Holiday-Party-Photo-Background-Studio-Booth-Photographer-10X_0eabbce7-33d0-4b91-b8f5-1a90aedd1d08.cf36f76ad2b634ec005b69bd4d0afc18.jpeg' alt='Christmas Backdrop, Christmas Barn Door Photography Backdrop, New Year Xmas  Tree Snow Gift Wooden Wall Family Holiday Party Photo Background, ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Christmas-Backdrop-Barn-Door-Photography-New-Year-Xmas-Tree-Snow-Gift-Wooden-Wall-Family-Holiday-Party-Photo-Background-Studio-Booth-Photographer-10X_0eabbce7-33d0-4b91-b8f5-1a90aedd1d08.cf36f76ad2b634ec005b69bd4d0afc18.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kate Christmas Tree Elk Brick Fireplace Backdrop Designed by Emetselch">
+                                <img itemprop="contentUrl url" src='https://www.katebackdrop.com/cdn/shop/products/BH1020680G.jpg?v=1716879488&width=1000' alt='Kate Christmas Tree Elk Brick Fireplace Backdrop Designed by Emetselch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kate Backdrop" />
+                                </span>
+                                <a href='https://www.katebackdrop.com/cdn/shop/products/BH1020680G.jpg?v=1716879488&width=1000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="North Pole Backdrop, Santa's Workshop Backdrop, Holiday Photo Background,  Christmas Backdrops for Photography, Winter Backdrop CHS442 - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/9434318/r/il/2df870/4332376546/il_1080xN.4332376546_6m78.jpg' alt='North Pole Backdrop, Santa's Workshop Backdrop, Holiday Photo Background,  Christmas Backdrops for Photography, Winter Backdrop CHS442 - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/9434318/r/il/2df870/4332376546/il_1080xN.4332376546_6m78.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : LTLYH 12x10ft Christmas Barn Door Decorations Backdrop  Christmas Background for Photography Xmas Tree Snow Gift Wall Floor Party  Photo ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81xwXmy621L.jpg' alt='Amazon.com : LTLYH 12x10ft Christmas Barn Door Decorations Backdrop  Christmas Background for Photography Xmas Tree Snow Gift Wall Floor Party  Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1066">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81xwXmy621L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kate Christmas Trees Winter Backdrop Designed by Emetselch">
+                                <img itemprop="contentUrl url" src='https://www.katebackdrop.com/cdn/shop/products/Kate_Christmas_Photo_Backdrop_5x3ft_BH1020537E.jpg?v=1624260952&width=800' alt='Kate Christmas Trees Winter Backdrop Designed by Emetselch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kate Backdrop" />
+                                </span>
+                                <a href='https://www.katebackdrop.com/cdn/shop/products/Kate_Christmas_Photo_Backdrop_5x3ft_BH1020537E.jpg?v=1624260952&width=800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Dudaacvt 5x7Ft Christmas Backdrop Christmas Backdrops for  Photography Winter Snow Backdrop Rustic Wood Floor Backdrop Xmas Tree Gift  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/8109bMOgNhL.jpg' alt='Amazon.com : Dudaacvt 5x7Ft Christmas Backdrop Christmas Backdrops for  Photography Winter Snow Backdrop Rustic Wood Floor Backdrop Xmas Tree Gift  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/8109bMOgNhL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Fireplace Backdrop for Photography, Christmas Photo ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/9434318/r/il/7cc7b8/5195450484/il_fullxfull.5195450484_n4no.jpg' alt='Christmas Fireplace Backdrop for Photography, Christmas Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/9434318/r/il/7cc7b8/5195450484/il_fullxfull.5195450484_n4no.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SJOLOON Christmas Backdrop Wood Floor Christmas Tree Backdrop Windows Snow  Backdrop for Christmas Party Decoration Studio Props 12589 (8x8FT)">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81btGjRwT4L._AC_UF894,1000_QL80_.jpg' alt='SJOLOON Christmas Backdrop Wood Floor Christmas Tree Backdrop Windows Snow  Backdrop for Christmas Party Decoration Studio Props 12589 (8x8FT)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81btGjRwT4L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

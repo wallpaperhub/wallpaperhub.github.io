@@ -1,0 +1,129 @@
+<title>Creative Tattoo Filler Ideas to Enhance Your Ink</title>
+                    <meta name="description" content="Explore unique tattoo filler ideas to elevate your body art! From geometric shapes to floral designs, learn how to fill empty spaces and enhance your existing tattoos with color and creativity. Perfect for anyone looking to refresh their ink!">
+                    <meta name="keywords" content="tattoo filler ideas">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/tattoo-filler-ideas">
+                            <span itemprop="name">tattoo filler ideas</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Creative Tattoo Filler Ideas to Enhance Your Ink</h1>
+                <p>Looking to enhance your tattoo? Tattoo fillers can transform empty spaces and enhance your design. Popular filler ideas include geometric patterns, floral designs, or watercolor splashes. Consider using dots, lines, or shading to create depth. Experiment with colors that complement your existing ink for a cohesive look.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Filler ideas? : r/traditionaltattoos">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/kiiy2gtgzaga1.jpg' alt='Filler ideas? : r/traditionaltattoos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1576">
+                                <meta itemprop="height" content="2100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/kiiy2gtgzaga1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gap Filler Tattoo Ideas: Inspiration for Every Tattoo Enthusiast ...">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0661/3585/1248/files/Screen_Shot_2024-08-15_at_3.51.38_PM_480x480.png?v=1723762522' alt='Gap Filler Tattoo Ideas: Inspiration for Every Tattoo Enthusiast ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="455">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zensa Skin Care" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0661/3585/1248/files/Screen_Shot_2024-08-15_at_3.51.38_PM_480x480.png?v=1723762522' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sleeve Tattoo Filler Ideas">
+                                <img itemprop="contentUrl url" src='https://www3.nnu.edu/imagex/sleeve-tattoo-filler-ideas-38884.jpg' alt='Sleeve Tattoo Filler Ideas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="484">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www3.nnu.edu" />
+                                </span>
+                                <a href='https://www3.nnu.edu/imagex/sleeve-tattoo-filler-ideas-38884.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sleeve filler completed : r/traditionaltattoos">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/sleeve-filler-completed-v0-rwzku6eco66b1.jpg?width=1557&format=pjpg&auto=webp&s=65f8f37480aa46faf464d935f346ca01dd359469' alt='Sleeve filler completed : r/traditionaltattoos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1557">
+                                <meta itemprop="height" content="4032">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/sleeve-filler-completed-v0-rwzku6eco66b1.jpg?width=1557&format=pjpg&auto=webp&s=65f8f37480aa46faf464d935f346ca01dd359469' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50+ Tattoo sleeve filler ideas for women">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3b/90/7f/3b907f190ae54786f8ab11efb4bebbd5.jpg' alt='50+ Tattoo sleeve filler ideas for women'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3b/90/7f/3b907f190ae54786f8ab11efb4bebbd5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gap filler with smoke and dice     #beginnertattooartist #realismtattoo  #fyp #tattooidea #arizona">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7380903660743560491&location=0&aid=1988' alt='Gap filler with smoke and dice     #beginnertattooartist #realismtattoo  #fyp #tattooidea #arizona'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7380903660743560491&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top 49 Best Tattoo Sleeve Filler Ideas">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d1/9f/d2/d19fd28b222de6560a532f71790b25da.jpg' alt='Top 49 Best Tattoo Sleeve Filler Ideas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d1/9f/d2/d19fd28b222de6560a532f71790b25da.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="this is a hard one to photograph / take videos of    but was soo much fun  to do!! this was session 1 of a big ole free hand gap filler with an  organic flowy & smoky feel    thank you for the trust ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7383092933249043754&location=0&aid=1988' alt='this is a hard one to photograph / take videos of    but was soo much fun  to do!! this was session 1 of a big ole free hand gap filler with an  organic flowy & smoky feel    thank you for the trust ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7383092933249043754&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gap Filler Tattoo Ideas: Inspiration for Every Tattoo Enthusiast ...">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0661/3585/1248/files/Screen_Shot_2024-08-15_at_3.51.56_PM_480x480.png?v=1723762519' alt='Gap Filler Tattoo Ideas: Inspiration for Every Tattoo Enthusiast ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zensa Skin Care" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0661/3585/1248/files/Screen_Shot_2024-08-15_at_3.51.56_PM_480x480.png?v=1723762519' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Need filler ideas before I star and dot it up (and yes, cock and ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ubylw3xu7vq91.jpg' alt='Need filler ideas before I star and dot it up (and yes, cock and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3024">
+                                <meta itemprop="height" content="4032">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ubylw3xu7vq91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

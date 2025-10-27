@@ -1,0 +1,129 @@
+<title>High-Quality Basketball PNG Images for Creative Projects</title>
+                    <meta name="description" content="Discover a vast collection of basketball PNG images perfect for your creative projects. High-resolution and transparent, these graphics enhance your designs effortlessly. Ideal for websites, social media, or marketing materials—make your basketball-related content stand out!">
+                    <meta name="keywords" content="basketball png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/basketball-png">
+                            <span itemprop="name">basketball png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>High-Quality Basketball PNG Images for Creative Projects</h1>
+                <p>Basketball PNGs are essential graphic resources for designers, marketers, and sports enthusiasts. These high-quality images with transparent backgrounds make it easy to incorporate basketball visuals into websites, posters, or social media. Whether for a tournament, personal project, or promotional material, basketball PNGs bring excitement and flair!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Basketball PNGs for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/011/421/099/small_2x/realistic-vector-basketball-isolated-png.png' alt='Basketball PNGs for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/011/421/099/small_2x/realistic-vector-basketball-isolated-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Basketball Png Images – Browse 79,496 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/07/89/74/61/360_F_789746189_6wPF5mjENrVViOeCvVHt2jeylNy15LUF.jpg' alt='Basketball Png Images – Browse 79,496 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/07/89/74/61/360_F_789746189_6wPF5mjENrVViOeCvVHt2jeylNy15LUF.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Basketball PNG Transparent Background, Free Download ...">
+                                <img itemprop="contentUrl url" src='https://www.freeiconspng.com/uploads/basketball-png-1.png' alt='Background Basketball PNG Transparent Background, Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FreeIconsPNG.com" />
+                                </span>
+                                <a href='https://www.freeiconspng.com/uploads/basketball-png-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BASKETBALL png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/703/25/png-clipart-orange-basketball-basketball-backboard-basketball-hd-sport-orange-thumbnail.png' alt='BASKETBALL png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="348">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/703/25/png-clipart-orange-basketball-basketball-backboard-basketball-hd-sport-orange-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Basketball ball Basketball Posters and discounts Art">
+                                <img itemprop="contentUrl url" src='https://cdn0.iconfinder.com/data/icons/sport-balls/512/basketball.png' alt='Basketball ball Basketball Posters and discounts Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="arcticimports.com" />
+                                </span>
+                                <a href='https://cdn0.iconfinder.com/data/icons/sport-balls/512/basketball.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Basketball, Clip Art, Vector Ball. Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2019/06/10/15/11/basketball-4264543_1280.png' alt='Download Basketball, Clip Art, Vector Ball. Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2019/06/10/15/11/basketball-4264543_1280.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Basketball PNG Images & PSDs for Download | PixelSquid - S10605000C">
+                                <img itemprop="contentUrl url" src='http://atlas-content-cdn.pixelsquid.com/stock-images/basketball-ball-y1JknWC-600.jpg' alt='Basketball PNG Images & PSDs for Download | PixelSquid - S10605000C'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PixelSquid" />
+                                </span>
+                                <a href='http://atlas-content-cdn.pixelsquid.com/stock-images/basketball-ball-y1JknWC-600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Basketball PNG, Basketball Transparent Background - FreeIconsPNG">
+                                <img itemprop="contentUrl url" src='https://www.freeiconspng.com/thumbs/basketball-png/basketball-png-24.png' alt='Basketball PNG, Basketball Transparent Background - FreeIconsPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FreeIconsPNG.com" />
+                                </span>
+                                <a href='https://www.freeiconspng.com/thumbs/basketball-png/basketball-png-24.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Basketball ball PNG transparent image download, size: 1117x1124px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/basketball_PNG102482.png' alt='Basketball ball PNG transparent image download, size: 1117x1124px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1117">
+                                <meta itemprop="height" content="1124">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/basketball_PNG102482.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Male Basketball Player Cut Out PNG & SVG Design For T-Shirts">
+                                <img itemprop="contentUrl url" src='https://images.vexels.com/media/users/3/229858/isolated/preview/aa53acf96d661f69c2f2689831f49bfc-male-basketball-player-cut-out.png' alt='Male Basketball Player Cut Out PNG & SVG Design For T-Shirts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vexels" />
+                                </span>
+                                <a href='https://images.vexels.com/media/users/3/229858/isolated/preview/aa53acf96d661f69c2f2689831f49bfc-male-basketball-player-cut-out.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

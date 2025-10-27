@@ -1,0 +1,129 @@
+<title>Joshua Kimmich 4K Wallpapers: Stunning Designs for Your Devices</title>
+                    <meta name="description" content="Browse our collection of breathtaking 4K Joshua Kimmich wallpapers, tailored for fans and enthusiasts. Elevate your device's look with high-quality images featuring the football star in action. Download your favorites and showcase your support for one of the game's best!">
+                    <meta name="keywords" content="kimmich wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/kimmich-wallpaper-4k">
+                            <span itemprop="name">kimmich wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Joshua Kimmich 4K Wallpapers: Stunning Designs for Your Devices</h1>
+                <p>Discover stunning 4K wallpapers of Joshua Kimmich, the talented midfielder for Bayern Munich and the German national team. These high-resolution images capture his dynamic playing style and charisma on and off the field. Perfect for fans looking to personalize their devices with Kimmich's inspiring presence.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="67 Joshua Kimmich ideas | joshua, bayern munich, bayern">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/64/9b/30/649b30769d540f1719d7bf1bb7bd44a3.jpg' alt='67 Joshua Kimmich ideas | joshua, bayern munich, bayern'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/64/9b/30/649b30769d540f1719d7bf1bb7bd44a3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD joshua kimmich wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/468/12/HD-wallpaper-joshua-kimmich-football-fc-bayern-munich-players.jpg' alt='HD joshua kimmich wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1276">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/468/12/HD-wallpaper-joshua-kimmich-football-fc-bayern-munich-players.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="kimmich">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/27/d2/3c/27d23c8240c761a59d4d23e764aee052.jpg' alt='kimmich'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/27/d2/3c/27d23c8240c761a59d4d23e764aee052.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kimmich 2023 Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp12138183.jpg' alt='Kimmich 2023 Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp12138183.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joshua Kimmich, bayern, bundesliga, fcb, football, germany, jok32 ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/414/14/HD-wallpaper-joshua-kimmich-bayern-bundesliga-fcb-football-germany-jok32-player.jpg' alt='Joshua Kimmich, bayern, bundesliga, fcb, football, germany, jok32 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/414/14/HD-wallpaper-joshua-kimmich-bayern-bundesliga-fcb-football-germany-jok32-player.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sarah on X: "Joshua Kimmich Wallpapers × @FCBayernUS https://t.co ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/EWEJuaOWkAA3LLM?format=jpg&name=large' alt='Sarah on X: "Joshua Kimmich Wallpapers × @FCBayernUS https://t.co ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="946">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/EWEJuaOWkAA3LLM?format=jpg&name=large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mohammed Gfx - German Flying | Joshua Kimmich Wallpaper... | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=550810312301081' alt='Mohammed Gfx - German Flying | Joshua Kimmich Wallpaper... | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1271">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=550810312301081' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kimmich Wallpaper - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8e/22/89/8e2289b0ba241a3d67d0f529d0410124.jpg' alt='Kimmich Wallpaper - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8e/22/89/8e2289b0ba241a3d67d0f529d0410124.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joshua Kimmich Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/soccer-playerwith-awardat-stadium-xkbccblz6tamqqh7.jpg' alt='Joshua Kimmich Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/soccer-playerwith-awardat-stadium-xkbccblz6tamqqh7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joshua Kimmich, 32, bayern, bundesliga, fcb, football, germany ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/26/366/HD-wallpaper-joshua-kimmich-32-bayern-bundesliga-fcb-football-germany-jok32-rb.jpg' alt='Joshua Kimmich, 32, bayern, bundesliga, fcb, football, germany ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/26/366/HD-wallpaper-joshua-kimmich-32-bayern-bundesliga-fcb-football-germany-jok32-rb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

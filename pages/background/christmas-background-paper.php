@@ -1,0 +1,129 @@
+<title>Beautiful Christmas Background Paper for Festive Crafts</title>
+                    <meta name="description" content="Discover our stunning Christmas background paper, ideal for crafts and holiday projects. Featuring festive designs, it's perfect for scrapbooking and greeting cards. Bring holiday cheer to your creations with our high-quality, themed backgrounds! Perfect for anyone looking to celebrate the season creatively.">
+                    <meta name="keywords" content="christmas background paper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/christmas-background-paper">
+                            <span itemprop="name">christmas background paper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful Christmas Background Paper for Festive Crafts</h1>
+                <p>Celebrate the festive season with our beautifully designed Christmas background paper. Perfect for crafts, scrapbooking, or holiday greetings, these papers feature classic motifs like snowflakes, Christmas trees, and ornaments. Add a touch of cheer to your projects and share the joy of Christmas with friends and family.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="284,900+ Christmas Paper Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1430709087/vector/red-christmas-doodle-background-suitable-for-packaging-design-wallpaper-or-as-wrapping-paper.jpg?s=612x612&w=0&k=20&c=sZc3GYk4Tu0Hfu2d0m4MGVfSJseSdYdFXn_bVesBSpU=' alt='284,900+ Christmas Paper Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="367">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1430709087/vector/red-christmas-doodle-background-suitable-for-packaging-design-wallpaper-or-as-wrapping-paper.jpg?s=612x612&w=0&k=20&c=sZc3GYk4Tu0Hfu2d0m4MGVfSJseSdYdFXn_bVesBSpU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Background Blank Paper With Decoration Stock Photo ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/622188312/photo/christmas-background-blank-paper-with-decoration.jpg?s=612x612&w=is&k=20&c=we_5BtaMlhY9ITTEK3DAGM6XlXh-agqu26H0FFRv2WQ=' alt='Christmas Background Blank Paper With Decoration Stock Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="492">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/622188312/photo/christmas-background-blank-paper-with-decoration.jpg?s=612x612&w=is&k=20&c=we_5BtaMlhY9ITTEK3DAGM6XlXh-agqu26H0FFRv2WQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="284,900+ Christmas Paper Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1422504119/vector/seamless-pattern-with-winter-twigs-on-green-background.jpg?s=612x612&w=0&k=20&c=QK2bf4jkw5EYrmyX5k1zDRt7DuaYh22YSLltiii-sE8=' alt='284,900+ Christmas Paper Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1422504119/vector/seamless-pattern-with-winter-twigs-on-green-background.jpg?s=612x612&w=0&k=20&c=QK2bf4jkw5EYrmyX5k1zDRt7DuaYh22YSLltiii-sE8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas wrapping paper background hi-res stock photography and ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2D5K19M/christmas-seamless-pattern-on-light-cream-background-for-gift-wrapping-paper-digital-scrapbook-etc-2D5K19M.jpg' alt='Christmas wrapping paper background hi-res stock photography and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2D5K19M/christmas-seamless-pattern-on-light-cream-background-for-gift-wrapping-paper-digital-scrapbook-etc-2D5K19M.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Rustic Christmas Digital Scrapbook Paper Background Weathered ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25069797/r/il/01ba16/5383989078/il_570xN.5383989078_byi4.jpg' alt='10 Rustic Christmas Digital Scrapbook Paper Background Weathered ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25069797/r/il/01ba16/5383989078/il_570xN.5383989078_byi4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Paper Background Stock Illustrations – 487,924 Christmas ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/christmas-background-seamless-tiling-great-choice-wrapping-paper-pattern-vector-47470022.jpg' alt='Christmas Paper Background Stock Illustrations – 487,924 Christmas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/christmas-background-seamless-tiling-great-choice-wrapping-paper-pattern-vector-47470022.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beige Paper Background Christmas Border Stock Photo 159512324 ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/christmas-border-old-paper-260nw-90901013.jpg' alt='Beige Paper Background Christmas Border Stock Photo 159512324 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="319">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/christmas-border-old-paper-260nw-90901013.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CHRISTMAS BACKGROUND PAPER 1 | Digital Scrapbooking at Scrapbook Flair">
+                                <img itemprop="contentUrl url" src='https://auroradi2-s3.s3.us-east-2.amazonaws.com/scrapbookuploads_drive1/0/44/4474/o/447435_20099fdb-534e-401e-8a37-021b413667df_o.jpg' alt='CHRISTMAS BACKGROUND PAPER 1 | Digital Scrapbooking at Scrapbook Flair'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1152">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scrapbook Flair" />
+                                </span>
+                                <a href='https://auroradi2-s3.s3.us-east-2.amazonaws.com/scrapbookuploads_drive1/0/44/4474/o/447435_20099fdb-534e-401e-8a37-021b413667df_o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Christmas background - blank paper with decoration">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/christmas-background-blank-paper-with-decoration_87742-9396.jpg' alt='Premium Photo | Christmas background - blank paper with decoration'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="602">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/christmas-background-blank-paper-with-decoration_87742-9396.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="284,400+ Christmas Paper Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1339802268/vector/snowflake-seamless-pattern.jpg?s=612x612&w=0&k=20&c=_6nsDuk0k85P7uVsmc7P8i0TH1CZpDWbHeo-3VO1NR0=' alt='284,400+ Christmas Paper Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1339802268/vector/snowflake-seamless-pattern.jpg?s=612x612&w=0&k=20&c=_6nsDuk0k85P7uVsmc7P8i0TH1CZpDWbHeo-3VO1NR0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

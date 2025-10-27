@@ -1,0 +1,129 @@
+<title>Discover the Rich History of Pasta</title>
+                    <meta name="description" content="Explore the fascinating background of pasta, its ancient roots, and its evolution into a beloved global dish. Learn about different shapes, textures, and cultural significance—perfect for food enthusiasts and culinary explorers alike!">
+                    <meta name="keywords" content="pasta background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pasta-background">
+                            <span itemprop="name">pasta background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Rich History of Pasta</h1>
+                <p>Pasta's origins trace back to ancient civilizations, with its earliest forms appearing in China and later in Italy. The versatile food is made from durum wheat and water, offering a rich canvas for various dishes. Today, pasta comes in numerous shapes and sizes, symbolizing cultural diversity and culinary creativity worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pasta Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/011/450/186/small_2x/various-pasta-seamless-pattern-macaroni-background-for-decoration-of-restaurant-menu-italian-cuisine-packaging-cartoon-illustration-vector.jpg' alt='Pasta Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/011/450/186/small_2x/various-pasta-seamless-pattern-macaroni-background-for-decoration-of-restaurant-menu-italian-cuisine-packaging-cartoon-illustration-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spaghetti Background" Images – Browse 1,370 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/57/35/85/360_F_357358542_V0PSZbdEPpwkp1NP6TJSfxoiOElJg432.jpg' alt='Spaghetti Background" Images – Browse 1,370 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/57/35/85/360_F_357358542_V0PSZbdEPpwkp1NP6TJSfxoiOElJg432.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pasta High Resolution Background. Top View, Wallpaper Stock Image ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/pasta-high-resolution-background-top-view-wallpaper-pasta-high-resolution-background-top-view-176534759.jpg' alt='Pasta High Resolution Background. Top View, Wallpaper Stock Image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/pasta-high-resolution-background-top-view-wallpaper-pasta-high-resolution-background-top-view-176534759.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pasta Background Several Types Dry Pasta Stock Photo 365251598 ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/pasta-background-several-types-dry-260nw-365251598.jpg' alt='Pasta Background Several Types Dry Pasta Stock Photo 365251598 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="448">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/pasta-background-several-types-dry-260nw-365251598.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 2 | Italian Pasta Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/flat-lay-composition-pasta-with-copyspace_23-2148189903.jpg' alt='Page 2 | Italian Pasta Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="470">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/flat-lay-composition-pasta-with-copyspace_23-2148189903.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Seamless pattern with pasta on a yellow background.">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/seamless-pattern-with-pasta-yellow-background_187482-1381.jpg' alt='Premium Vector | Seamless pattern with pasta on a yellow background.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/seamless-pattern-with-pasta-yellow-background_187482-1381.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Different pasta types on black background with copy space">
+                                <img itemprop="contentUrl url" src='https://i.fbcd.co/products/original/c865f49dc9ac15eb6cfee3ad0b0c08527f2e7767b14c5fe40726a198ca3ef8d2.jpg' alt='Different pasta types on black background with copy space'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Bundles" />
+                                </span>
+                                <a href='https://i.fbcd.co/products/original/c865f49dc9ac15eb6cfee3ad0b0c08527f2e7767b14c5fe40726a198ca3ef8d2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Various pasta seamless pattern. Paste background. For decoration ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/011/450/178/non_2x/various-pasta-seamless-pattern-paste-background-for-decoration-of-restaurant-menu-italian-cuisine-packaging-cartoon-illustration-vector.jpg' alt='Various pasta seamless pattern. Paste background. For decoration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/011/450/178/non_2x/various-pasta-seamless-pattern-paste-background-for-decoration-of-restaurant-menu-italian-cuisine-packaging-cartoon-illustration-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pasta background farfalle on wooden surface">
+                                <img itemprop="contentUrl url" src='https://i.fbcd.co/products/resized/resized-750-500/25be8d3d62e207ef7cb3ed35d5b652d784541e1f121f1ee44d0b5b039a987a39.jpg' alt='Pasta background farfalle on wooden surface'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Bundles" />
+                                </span>
+                                <a href='https://i.fbcd.co/products/resized/resized-750-500/25be8d3d62e207ef7cb3ed35d5b652d784541e1f121f1ee44d0b5b039a987a39.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pasta Spaghetti Ingredients Cooking Pasta On Stock Photo ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/pasta-spaghetti-ingredients-cooking-on-260nw-1288026988.jpg' alt='Pasta Spaghetti Ingredients Cooking Pasta On Stock Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/pasta-spaghetti-ingredients-cooking-on-260nw-1288026988.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

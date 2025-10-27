@@ -1,0 +1,129 @@
+<title>Elegant Grey Dining Room Wallpaper Ideas</title>
+                    <meta name="description" content="Discover stylish grey dining room wallpaper to elevate your space. Explore various patterns and textures that create a welcoming atmosphere, perfectly blending with any decor. Transform your dining area into an elegant dining haven with our curated wallpaper collection! Ideal for various styles and preferences.">
+                    <meta name="keywords" content="grey dining room wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room">
+                            <span itemprop="name">Room</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room/grey-dining-room-wallpaper">
+                            <span itemprop="name">grey dining room wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Grey Dining Room Wallpaper Ideas</h1>
+                <p>Grey dining room wallpaper offers a sophisticated backdrop for your dining space. It creates an inviting atmosphere while adding depth and style. Paired with vibrant furniture or artwork, grey wallpaper enhances natural light and complements various decor themes, ensuring a timeless and elegant dining experience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peony - Grey Floral Wallpaper by Bohemian Bungalow">
+                                <img itemprop="contentUrl url" src='https://mitchellblack.com/cdn/shop/files/Peony_Grey_12Wx10H_boho-dining-wallpaper-mockup_1800x1800.jpg?v=1719838574' alt='Peony - Grey Floral Wallpaper by Bohemian Bungalow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mitchell Black" />
+                                </span>
+                                <a href='https://mitchellblack.com/cdn/shop/files/Peony_Grey_12Wx10H_boho-dining-wallpaper-mockup_1800x1800.jpg?v=1719838574' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guvana Grey and White Wallpaper Herringbone Contact Paper Striped Self  Adhesive Wallpaper Gray Peel and Stick Wallpaper DIY Removable Wallpaper  for ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81uu8BRtNlL.jpg' alt='Guvana Grey and White Wallpaper Herringbone Contact Paper Striped Self  Adhesive Wallpaper Gray Peel and Stick Wallpaper DIY Removable Wallpaper  for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2006">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81uu8BRtNlL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Mural Grey Defence II - bimago">
+                                <img itemprop="contentUrl url" src='https://com.bimago.media/media/catalog/image/view/product/91748/role/image/size/1500x2240/type/ft-osmr-wiz3/fc1217fd14eb2db6e8099a5f8bb37257.webp' alt='Wall Mural Grey Defence II - bimago'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="bimago." />
+                                </span>
+                                <a href='https://com.bimago.media/media/catalog/image/view/product/91748/role/image/size/1500x2240/type/ft-osmr-wiz3/fc1217fd14eb2db6e8099a5f8bb37257.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="600028 gray Wallpaper silver Metallic Textured Plain faux grass sackcloth  lines">
+                                <img itemprop="contentUrl url" src='https://wallcoveringsmart.com/cdn/shop/products/viber_image_2020-03-18_11-58-00.jpg?v=1586710752' alt='600028 gray Wallpaper silver Metallic Textured Plain faux grass sackcloth  lines'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallcoverings mart" />
+                                </span>
+                                <a href='https://wallcoveringsmart.com/cdn/shop/products/viber_image_2020-03-18_11-58-00.jpg?v=1586710752' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4141-27121 A-Street Prints Solace Salma Medallion Wallpaper - Grey ...">
+                                <img itemprop="contentUrl url" src='https://uswalldecor.com/cdn/shop/files/4141-27121_Room.jpg?v=1711230215&width=1445' alt='4141-27121 A-Street Prints Solace Salma Medallion Wallpaper - Grey ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1376">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='https://uswalldecor.com/cdn/shop/files/4141-27121_Room.jpg?v=1711230215&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="75 Gray Wallpaper Dining Room Ideas You'll Love - February, 2025 ...">
+                                <img itemprop="contentUrl url" src='https://st.hzcdn.com/simgs/pictures/dining-rooms/gold-coast-delaware-foster-hill-design-img~edc1ccae0e65718e_14-2296-1-23c07f1.jpg' alt='75 Gray Wallpaper Dining Room Ideas You'll Love - February, 2025 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1390">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Houzz" />
+                                </span>
+                                <a href='https://st.hzcdn.com/simgs/pictures/dining-rooms/gold-coast-delaware-foster-hill-design-img~edc1ccae0e65718e_14-2296-1-23c07f1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gray and White Lines Abstract Wallpaper / Peel and Stick Wallpaper  Removable Wallpaper Home Decor Wall Art Wall Decor Room Decor - C661">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/C661_02_grande.png?v=1736349863' alt='Gray and White Lines Abstract Wallpaper / Peel and Stick Wallpaper  Removable Wallpaper Home Decor Wall Art Wall Decor Room Decor - C661'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/C661_02_grande.png?v=1736349863' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="58+ Dining Room Wallpaper Ideas (SPLENDID & COLORFUL) - Wallpaper">
+                                <img itemprop="contentUrl url" src='https://st.hzcdn.com/simgs/pictures/dining-rooms/oasis-private-residence-guimar-urbina-interiors-corp-img~a211bd530ac26ac4_14-9264-1-5c501dc.jpg' alt='58+ Dining Room Wallpaper Ideas (SPLENDID & COLORFUL) - Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1392">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backsplash.com" />
+                                </span>
+                                <a href='https://st.hzcdn.com/simgs/pictures/dining-rooms/oasis-private-residence-guimar-urbina-interiors-corp-img~a211bd530ac26ac4_14-9264-1-5c501dc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Key Wallpaper in Mid Grey – I Love Wallpaper">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/2-RetroKey-MidGrey_D10026_Roomset_WEB.webp?crop=center&height=1024&v=1705933073&width=1024' alt='Retro Key Wallpaper in Mid Grey – I Love Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/2-RetroKey-MidGrey_D10026_Roomset_WEB.webp?crop=center&height=1024&v=1705933073&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Elegant and Exquisite Gray Dining Room Ideas">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/de/71/3e/de713eafd574efbf0d8a74c9965f585e.jpg' alt='25 Elegant and Exquisite Gray Dining Room Ideas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="998">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/de/71/3e/de713eafd574efbf0d8a74c9965f585e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

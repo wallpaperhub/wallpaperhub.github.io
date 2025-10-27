@@ -1,0 +1,119 @@
+<title>Perfect Squarespace Header Background Images for Your Site</title>
+                    <meta name="description" content="Discover how to choose and optimize header background images for your Squarespace website. Learn tips for selecting high-quality visuals that enhance your site's appeal and maintain a great mobile experience. Transform your web design today!">
+                    <meta name="keywords" content="squarespace header background image">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/squarespace-header-background-image">
+                            <span itemprop="name">squarespace header background image</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Perfect Squarespace Header Background Images for Your Site</h1>
+                <p>Enhancing your Squarespace website begins with choosing the perfect header background image. This key element sets the tone for your site's aesthetic and helps captivate your audience. Opt for high-quality, relevant images that reflect your brand's identity. Remember to optimize for mobile to ensure a seamless experience on all devices.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Changing the background color of the bottom header on just one ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/61c0a270960d317d3e0bbfe5/1640017464530-AW7FLBBBWICEHJ33YGKY/image-asset.png' alt='Changing the background color of the bottom header on just one ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1921">
+                                <meta itemprop="height" content="1058">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Beatriz Caraballo" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/61c0a270960d317d3e0bbfe5/1640017464530-AW7FLBBBWICEHJ33YGKY/image-asset.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Add a Background Image to the Header in Squarespace">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/M9fX72nmABo/maxresdefault.jpg' alt='How to Add a Background Image to the Header in Squarespace'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/M9fX72nmABo/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wanting to add an image background to the navigation bar in 7.1 ...">
+                                <img itemprop="contentUrl url" src='https://media.invisioncic.com/p289038/monthly_2020_11/1352655220_ScreenShot2020-11-13at9_28_16AM.png.ff145f62d6d0ec55d0fc1b8dbf77e6ac.png' alt='Wanting to add an image background to the navigation bar in 7.1 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3584">
+                                <meta itemprop="height" content="2022">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Squarespace Forum" />
+                                </span>
+                                <a href='https://media.invisioncic.com/p289038/monthly_2020_11/1352655220_ScreenShot2020-11-13at9_28_16AM.png.ff145f62d6d0ec55d0fc1b8dbf77e6ac.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fixed Header in Squarespace Brine Template (Advanced) - Part 2">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Vjazi54S-4A/maxresdefault.jpg' alt='Fixed Header in Squarespace Brine Template (Advanced) - Part 2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Vjazi54S-4A/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to create a transparent header navigation in Squarespace (7.1 ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/615ad094ed590a052868fe10/abbfd6c1-893f-401e-8661-9bb682967d34/How+to+create+a+transparent+header+navigation+in+squarespace+4.png' alt='How to create a transparent header navigation in Squarespace (7.1 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1176">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Big Cat Creative" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/615ad094ed590a052868fe10/abbfd6c1-893f-401e-8661-9bb682967d34/How+to+create+a+transparent+header+navigation+in+squarespace+4.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Add a Background Image to the Header in Squarespace">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/6306d2af72c3b83a171db256/0fac3658-92c8-4943-adeb-2637fc491dd4/How+to+Add+a+Background+Image+to+the+Header+in+Squarespace.png' alt='How to Add a Background Image to the Header in Squarespace'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="865">
+                                <meta itemprop="height" content="284">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jen-X Website Design and Strategy" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/6306d2af72c3b83a171db256/0fac3658-92c8-4943-adeb-2637fc491dd4/How+to+Add+a+Background+Image+to+the+Header+in+Squarespace.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Change the header style for ONE PAGE ONLY! - Other - Squarespace Forum">
+                                <img itemprop="contentUrl url" src='https://media.invisioncic.com/p289038/monthly_2023_03/SS-CC.jpg.20be5488300a11705596135f5b9c5db9.jpg' alt='Change the header style for ONE PAGE ONLY! - Other - Squarespace Forum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1750">
+                                <meta itemprop="height" content="1040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Squarespace Forum" />
+                                </span>
+                                <a href='https://media.invisioncic.com/p289038/monthly_2023_03/SS-CC.jpg.20be5488300a11705596135f5b9c5db9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to show a background image behind your site header — Kerry A ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/641dd044083b166ae7156137/385d9da3-e06a-41a7-ac14-1cefdf2b5eca/kerryathompson-sqspc-colima.jpg' alt='How to show a background image behind your site header — Kerry A ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kerry A. Thompson" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/641dd044083b166ae7156137/385d9da3-e06a-41a7-ac14-1cefdf2b5eca/kerryathompson-sqspc-colima.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Section background image suddenly not showing - Site Design ...">
+                                <img itemprop="contentUrl url" src='https://media.invisioncic.com/p289038/monthly_2022_08/image.png.f2590bb79920bf059db8efe1fb98eb68.png' alt='Section background image suddenly not showing - Site Design ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2107">
+                                <meta itemprop="height" content="975">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Squarespace Forum" />
+                                </span>
+                                <a href='https://media.invisioncic.com/p289038/monthly_2022_08/image.png.f2590bb79920bf059db8efe1fb98eb68.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

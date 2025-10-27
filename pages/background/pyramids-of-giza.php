@@ -1,0 +1,129 @@
+<title>Explore the Pyramids of Giza: Ancient Wonders Unveiled</title>
+                    <meta name="description" content="Discover the Pyramids of Giza, the iconic symbols of ancient Egypt. Uncover their historical significance, architectural marvels, and the mysteries that surround these magnificent structures on the Giza Plateau. Perfect for history enthusiasts and travelers alike!">
+                    <meta name="keywords" content="pyramids of giza">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pyramids-of-giza">
+                            <span itemprop="name">pyramids of giza</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Pyramids of Giza: Ancient Wonders Unveiled</h1>
+                <p>The Pyramids of Giza are monumental structures located on the Giza Plateau near Cairo, Egypt. Built during the Fourth Dynasty of the Old Kingdom, they serve as iconic funerary monuments for pharaohs. The Great Pyramid, built for Pharaoh Khufu, is the largest and one of the Seven Wonders of the Ancient World, showcasing the incredible engineering prowess of ancient Egyptians.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Giza pyramid complex - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/9/96/Pyramids_of_the_Giza_Necropolis.jpg' alt='Giza pyramid complex - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="10104">
+                                <meta itemprop="height" content="4210">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/9/96/Pyramids_of_the_Giza_Necropolis.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What are the Pyramids of Giza—and who built them?">
+                                <img itemprop="contentUrl url" src='https://i.natgeofe.com/n/535f3cba-f8bb-4df2-b0c5-aaca16e9ff31/giza-plateau-pyramids_square.jpg' alt='What are the Pyramids of Giza—and who built them?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3072">
+                                <meta itemprop="height" content="3072">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic" />
+                                </span>
+                                <a href='https://i.natgeofe.com/n/535f3cba-f8bb-4df2-b0c5-aaca16e9ff31/giza-plateau-pyramids_square.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Great Pyramid of Giza - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/e/e7/Great_Pyramid_of_Giza_-_Pyramid_of_Khufu.jpg' alt='Great Pyramid of Giza - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/e/e7/Great_Pyramid_of_Giza_-_Pyramid_of_Khufu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Get to The Pyramids of Giza - Tourist Egypt">
+                                <img itemprop="contentUrl url" src='https://www.touristegypt.com/wp-content/uploads/2023/03/giza-pyramids-cairo-egypt-with-palm.jpg' alt='How to Get to The Pyramids of Giza - Tourist Egypt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2424">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tourist Egypt" />
+                                </span>
+                                <a href='https://www.touristegypt.com/wp-content/uploads/2023/03/giza-pyramids-cairo-egypt-with-palm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pyramids of Giza | History, Location, Age, Interior, & Facts ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/43/189743-050-25B19F71/Great-Sphinx-Pyramid-of-Khafre-Egypt-Giza.jpg' alt='Pyramids of Giza | History, Location, Age, Interior, & Facts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/43/189743-050-25B19F71/Great-Sphinx-Pyramid-of-Khafre-Egypt-Giza.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mysteries of Great Pyramid of Giza Solved: What You Need to Know ...">
+                                <img itemprop="contentUrl url" src='https://media.admiddleeast.com/photos/6694f12bb055f73561827dff/4:3/w_1144,h_858,c_limit/Pyramid%20of%20Giza%201.jpg' alt='Mysteries of Great Pyramid of Giza Solved: What You Need to Know ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1144">
+                                <meta itemprop="height" content="858">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AD Middle East" />
+                                </span>
+                                <a href='https://media.admiddleeast.com/photos/6694f12bb055f73561827dff/4:3/w_1144,h_858,c_limit/Pyramid%20of%20Giza%201.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pyramids of Giza">
+                                <img itemprop="contentUrl url" src='https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/7e/7d/2c/pyramids-of-giza.jpg?w=900&h=500&s=1' alt='Pyramids of Giza'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tripadvisor" />
+                                </span>
+                                <a href='https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/7e/7d/2c/pyramids-of-giza.jpg?w=900&h=500&s=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="806 Pyramids Of Giza At Sunset Stock Photos, High-Res Pictures ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1331913108/photo/great-pyramids-and-the-camel-caravan-is-in-front-of-the-egyptian-pyramids-giza-egypt.jpg?s=612x612&w=gi&k=20&c=MT03Uje4GqcDEVL3KmgG52csw-knigvNcOMBV1UE8FM=' alt='806 Pyramids Of Giza At Sunset Stock Photos, High-Res Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1331913108/photo/great-pyramids-and-the-camel-caravan-is-in-front-of-the-egyptian-pyramids-giza-egypt.jpg?s=612x612&w=gi&k=20&c=MT03Uje4GqcDEVL3KmgG52csw-knigvNcOMBV1UE8FM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pyramids of Giza | History, Location, Age, Interior, & Facts ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/06/122506-050-C8E03A8A/Pyramid-of-Khafre-Giza-Egypt.jpg' alt='Pyramids of Giza | History, Location, Age, Interior, & Facts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1092">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/06/122506-050-C8E03A8A/Pyramid-of-Khafre-Giza-Egypt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Getting to know the Pyramids of Giza - Lonely Planet">
+                                <img itemprop="contentUrl url" src='https://lp-cms-production.imgix.net/2020-11/GettyRF_1085205362.jpg?auto=format&q=72&w=1440&h=810&fit=crop' alt='Getting to know the Pyramids of Giza - Lonely Planet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lonely Planet" />
+                                </span>
+                                <a href='https://lp-cms-production.imgix.net/2020-11/GettyRF_1085205362.jpg?auto=format&q=72&w=1440&h=810&fit=crop' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

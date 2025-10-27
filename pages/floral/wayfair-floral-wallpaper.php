@@ -1,0 +1,129 @@
+<title>Transform Your Space with Wayfair Floral Wallpaper</title>
+                    <meta name="description" content="Discover stunning floral wallpaper at Wayfair! Elevate your interior with vibrant designs that suit any style. Easy to apply and remove, these wallpapers make decorating a breeze. Explore our collection today and transform your space effortlessly!">
+                    <meta name="keywords" content="wayfair floral wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/wayfair-floral-wallpaper">
+                            <span itemprop="name">wayfair floral wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Wayfair Floral Wallpaper</h1>
+                <p>Wayfair floral wallpaper brings vibrant elegance to any space, offering a range of designs from classic blooms to modern patterns. Perfect for accent walls or entire rooms, these wallpapers create a welcoming atmosphere. With easy application and removal options, refresh your home effortlessly with beautiful floral motifs from Wayfair.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brightly Pink Floral Wallpaper Floral Tile">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/84123230/resize-h800-w800%5Ecompr-r85/1927/192734168/Brightly+Pink+Floral+Wallpaper+Floral+Tile.jpg' alt='Brightly Pink Floral Wallpaper Floral Tile'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/84123230/resize-h800-w800%5Ecompr-r85/1927/192734168/Brightly+Pink+Floral+Wallpaper+Floral+Tile.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Floral Roll">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/40959190/resize-h755-w755%5Ecompr-r85/1425/142540025/Peel+%26+Stick+Floral+Roll.jpg' alt='Peel & Stick Floral Roll'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="755">
+                                <meta itemprop="height" content="755">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/40959190/resize-h755-w755%5Ecompr-r85/1425/142540025/Peel+%26+Stick+Floral+Roll.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Large Beige Flowers Wallpaper Floral Tile">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/36054169/resize-h800-w800%5Ecompr-r85/1927/192736044/Large+Beige+Flowers+Wallpaper+Floral+Tile.jpg' alt='Large Beige Flowers Wallpaper Floral Tile'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/36054169/resize-h800-w800%5Ecompr-r85/1927/192736044/Large+Beige+Flowers+Wallpaper+Floral+Tile.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arelious Peel & Stick Floral Roll">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/77880338/resize-h755-w755%5Ecompr-r85/2211/221161132/Arelious+Peel+%26+Stick+Floral+Roll.jpg' alt='Arelious Peel & Stick Floral Roll'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="755">
+                                <meta itemprop="height" content="755">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/77880338/resize-h755-w755%5Ecompr-r85/2211/221161132/Arelious+Peel+%26+Stick+Floral+Roll.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Floral Tile">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/28135839/resize-h800-w800%5Ecompr-r85/1927/192733212/Peel+%26+Stick+Floral+Tile.jpg' alt='Peel & Stick Floral Tile'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/28135839/resize-h800-w800%5Ecompr-r85/1927/192733212/Peel+%26+Stick+Floral+Tile.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Floral Wallpaper Floral Tile">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/57689307/resize-h800-w800%5Ecompr-r85/1927/192736981/Vintage+Floral+Wallpaper+Floral+Tile.jpg' alt='Vintage Floral Wallpaper Floral Tile'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/57689307/resize-h800-w800%5Ecompr-r85/1927/192736981/Vintage+Floral+Wallpaper+Floral+Tile.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Wallpaper Floral Tile">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/44768802/resize-h800-w800%5Ecompr-r85/1927/192733310/Floral+Wallpaper+Floral+Tile.jpg' alt='Floral Wallpaper Floral Tile'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/44768802/resize-h800-w800%5Ecompr-r85/1927/192733310/Floral+Wallpaper+Floral+Tile.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beige Leaves Wallpaper Peel & Stick Floral Tile">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/73539649/resize-h800-w800%5Ecompr-r85/1927/192733102/Beige+Leaves+Wallpaper+Peel+%26+Stick+Floral+Tile.jpg' alt='Beige Leaves Wallpaper Peel & Stick Floral Tile'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/73539649/resize-h800-w800%5Ecompr-r85/1927/192733102/Beige+Leaves+Wallpaper+Peel+%26+Stick+Floral+Tile.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Floral Wallpaper Floral Tile">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/23005881/resize-h800-w800%5Ecompr-r85/1927/192736572/Pink+Floral+Wallpaper+Floral+Tile.jpg' alt='Pink Floral Wallpaper Floral Tile'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/23005881/resize-h800-w800%5Ecompr-r85/1927/192736572/Pink+Floral+Wallpaper+Floral+Tile.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Tile">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/94197089/resize-h800-w800%5Ecompr-r85/1927/192733797/Floral+Tile.jpg' alt='Floral Tile'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/94197089/resize-h800-w800%5Ecompr-r85/1927/192733797/Floral+Tile.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

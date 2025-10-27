@@ -1,0 +1,129 @@
+<title>Stunning Homestuck Phone Wallpapers: Personalize Your Device</title>
+                    <meta name="description" content="Discover the best Homestuck phone wallpapers to showcase your fandom! Explore unique designs featuring iconic characters and scenes, perfect for personalizing your device with style. Stand out with vibrant art and make your phone a tribute to this beloved webcomic. Download your favorite now!">
+                    <meta name="keywords" content="homestuck wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/homestuck-wallpaper-phone">
+                            <span itemprop="name">homestuck wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Homestuck Phone Wallpapers: Personalize Your Device</h1>
+                <p>Transform your phone with vibrant Homestuck wallpapers! Embrace the unique art style, iconic characters, and memorable moments from this beloved webcomic. Choose from a variety of designs to express your fandom and personalize your device. Perfect for any fan looking to showcase their love for Homestuck!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a mindbound phone wallpaper : r/homestuck">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/gr11g0tjjar31.jpg' alt='I made a mindbound phone wallpaper : r/homestuck'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="2272">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/gr11g0tjjar31.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I downloaded a bunch of wallpapers and my phone gallery did a ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/f0d23o4cvhr01.jpg?width=640&crop=smart&auto=webp&s=9b44f59c42260c4adea45575f89606042c582b51' alt='I downloaded a bunch of wallpapers and my phone gallery did a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/f0d23o4cvhr01.jpg?width=640&crop=smart&auto=webp&s=9b44f59c42260c4adea45575f89606042c582b51' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I extended one of the prints from the whatpumpkin store into a ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/of2u4ejmjor01.jpg' alt='I extended one of the prints from the whatpumpkin store into a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/of2u4ejmjor01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trolls (Homestuck) Wallpapers (21 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/b/b/4/2170450-2160x3840-phone-4k-trolls-homestuck-background.jpg' alt='Trolls (Homestuck) Wallpapers (21 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/b/b/4/2170450-2160x3840-phone-4k-trolls-homestuck-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Assorted Homestuck wallpapers! : r/homestuck">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/assorted-homestuck-wallpapers-v0-h0t1khdecgwb1.jpg?width=640&crop=smart&auto=webp&s=ccf49ba76e9d6cbbb900a6fb1f12aa547ce251be' alt='Assorted Homestuck wallpapers! : r/homestuck'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/assorted-homestuck-wallpapers-v0-h0t1khdecgwb1.jpg?width=640&crop=smart&auto=webp&s=ccf49ba76e9d6cbbb900a6fb1f12aa547ce251be' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ITT: Post your Homestuck wallpapers/lock screens : r/homestuck">
+                                <img itemprop="contentUrl url" src='http://media.tumblr.com/2bce7a51bf265b66e7bdbd7d18dbfd79/tumblr_inline_mvrybzjKGn1rorly5.jpg' alt='ITT: Post your Homestuck wallpapers/lock screens : r/homestuck'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="353">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://media.tumblr.com/2bce7a51bf265b66e7bdbd7d18dbfd79/tumblr_inline_mvrybzjKGn1rorly5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD homestuck wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/623/1020/HD-wallpaper-homestuck-zodiac-thumbnail.jpg' alt='HD homestuck wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="599">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/623/1020/HD-wallpaper-homestuck-zodiac-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Homestuck Space Kids, aesthetic, dave, dave strider, john, john ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/623/349/HD-wallpaper-homestuck-space-kids-aesthetic-dave-dave-strider-john-john-egbert-kid-rose-rose-lalonde.jpg' alt='Homestuck Space Kids, aesthetic, dave, dave strider, john, john ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/623/349/HD-wallpaper-homestuck-space-kids-aesthetic-dave-dave-strider-john-john-egbert-kid-rose-rose-lalonde.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ITT: Post your Homestuck wallpapers/lock screens : r/homestuck">
+                                <img itemprop="contentUrl url" src='http://media.tumblr.com/b577f51fa9d86f6034386202401e3d21/tumblr_inline_mvryeawV2z1rorly5.jpg' alt='ITT: Post your Homestuck wallpapers/lock screens : r/homestuck'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="353">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://media.tumblr.com/b577f51fa9d86f6034386202401e3d21/tumblr_inline_mvryeawV2z1rorly5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Doom Aspect Wallpaper, Homestuck Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/33/ac/51/33ac51df5acc2fd3e9d6a91cd4988f8d.jpg' alt='Doom Aspect Wallpaper, Homestuck Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="487">
+                                <meta itemprop="height" content="763">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/33/ac/51/33ac51df5acc2fd3e9d6a91cd4988f8d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

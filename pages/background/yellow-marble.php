@@ -1,0 +1,129 @@
+<title>Transform Your Space with Stunning Yellow Marble</title>
+                    <meta name="description" content="Discover the beauty of yellow marble! Perfect for adding warmth and elegance to any space, this stunning stone is ideal for countertops, floors, and decor. Explore its unique patterns and hues to elevate your design projects effortlessly.">
+                    <meta name="keywords" content="yellow marble">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/yellow-marble">
+                            <span itemprop="name">yellow marble</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Stunning Yellow Marble</h1>
+                <p>Yellow marble is a stunning natural stone known for its vibrant hues and unique patterns, often evoking warmth and elegance in any space. Ideal for countertops, flooring, and decorative accents, its striking appearance adds a touch of luxury to homes and commercial areas. Embrace the charm of yellow marble in your design projects.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Marble">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/80599/yellow-marble-1.jpg?h=699&q=85' alt='Yellow Marble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="524">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/80599/yellow-marble-1.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Yellow Marble">
+                                <img itemprop="contentUrl url" src='http://mawrbled.com/cdn/shop/files/lightyellowmarble.jpg?v=1698406051&width=2048' alt='Light Yellow Marble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mawrbled" />
+                                </span>
+                                <a href='http://mawrbled.com/cdn/shop/files/lightyellowmarble.jpg?v=1698406051&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Siena Marble | Dedalo Stone">
+                                <img itemprop="contentUrl url" src='https://www.dedalostone.com/wp-content/uploads/2020/11/yellow-siena-marble-giallo.jpg' alt='Yellow Siena Marble | Dedalo Stone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="332">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dedalo Stone" />
+                                </span>
+                                <a href='https://www.dedalostone.com/wp-content/uploads/2020/11/yellow-siena-marble-giallo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Opal Marble - Yellow">
+                                <img itemprop="contentUrl url" src='https://www.houseofmarbles.us/wp-content/uploads/2019/05/120023-Opal-Yellow.jpg' alt='Opal Marble - Yellow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="House of Marbles US" />
+                                </span>
+                                <a href='https://www.houseofmarbles.us/wp-content/uploads/2019/05/120023-Opal-Yellow.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pale Yellow Marble">
+                                <img itemprop="contentUrl url" src='http://mawrbled.com/cdn/shop/files/paleyellowmarble.jpg?v=1718875163&width=2048' alt='Pale Yellow Marble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1336">
+                                <meta itemprop="height" content="1336">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mawrbled" />
+                                </span>
+                                <a href='http://mawrbled.com/cdn/shop/files/paleyellowmarble.jpg?v=1718875163&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A-A9664-Y Yellow Marble">
+                                <img itemprop="contentUrl url" src='https://media.rainpos.com/2852/72dpi_a_9664_y.jpg' alt='A-A9664-Y Yellow Marble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="553">
+                                <meta itemprop="height" content="553">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Miles of Stitches, Quilting & Fabric Shop | Merrill, MI" />
+                                </span>
+                                <a href='https://media.rainpos.com/2852/72dpi_a_9664_y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Faux Marble | BB20318">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/0017487_yellow-faux-marble-l.jpeg' alt='Yellow Faux Marble | BB20318'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/0017487_yellow-faux-marble-l.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellowing marble? Likely causes and fixes! - SB Stone Masters">
+                                <img itemprop="contentUrl url" src='https://sbstonemasters.com/wp-content/uploads/2022/08/Yellow-marble-scaled.jpeg' alt='Yellowing marble? Likely causes and fixes! - SB Stone Masters'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1710">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Santa Barbara Stone Masters" />
+                                </span>
+                                <a href='https://sbstonemasters.com/wp-content/uploads/2022/08/Yellow-marble-scaled.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Marble | Giallo Reale Giallo | Architonic">
+                                <img itemprop="contentUrl url" src='https://image.architonic.com/pro2-3/20143161/yellow-marble-giallo-reale-giallo-pro-b-arcit18.jpg' alt='Yellow Marble | Giallo Reale Giallo | Architonic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1806">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Architonic" />
+                                </span>
+                                <a href='https://image.architonic.com/pro2-3/20143161/yellow-marble-giallo-reale-giallo-pro-b-arcit18.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watermelon Marble - Yellow">
+                                <img itemprop="contentUrl url" src='https://www.houseofmarbles.us/wp-content/uploads/2019/05/108140-Watermelon-Yellow.jpg' alt='Watermelon Marble - Yellow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="House of Marbles US" />
+                                </span>
+                                <a href='https://www.houseofmarbles.us/wp-content/uploads/2019/05/108140-Watermelon-Yellow.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

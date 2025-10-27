@@ -1,0 +1,129 @@
+<title>Celestial Stars Wallpaper: Transform Your Space!</title>
+                    <meta name="description" content="Discover the beauty of stars wallpaper for walls! Perfect for creating a dreamy atmosphere in any room, our selection features a variety of designs to suit your style. Elevate your home decor with celestial patterns that inspire awe and relaxation. Shop now for your cosmic transformation!">
+                    <meta name="keywords" content="stars wallpaper for walls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/stars-wallpaper-for-walls">
+                            <span itemprop="name">stars wallpaper for walls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Celestial Stars Wallpaper: Transform Your Space!</h1>
+                <p>Transform your space with stunning stars wallpaper for walls! Ideal for bedrooms or living areas, this celestial decor adds a touch of magic and tranquility. Choose from various designs, from subtle constellations to vibrant night skies, creating an enchanting atmosphere that sparks joy and wonder in every corner of your home.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LUXE Traditional / 2 ft (h) x 19 in (w)">
+                                <img itemprop="contentUrl url" src='https://wallblush.com/cdn/shop/products/stars-mockup4.jpg?v=1717014302&width=2048' alt='LUXE Traditional / 2 ft (h) x 19 in (w)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='https://wallblush.com/cdn/shop/products/stars-mockup4.jpg?v=1717014302&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Meteors and Stars">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/528172/pr22/1/1280/meteors-stars-star-wallpaper.jpg' alt='Meteors and Stars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="645">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/528172/pr22/1/1280/meteors-stars-star-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SIGNWIN Wall Mural Stars and Moon in Night Sky Removable Self-Adhesive  Wallpaper Wall Decoration for Bedroom Living Room - 66x96 inches -  Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/817UyYfuzVL.jpg' alt='SIGNWIN Wall Mural Stars and Moon in Night Sky Removable Self-Adhesive  Wallpaper Wall Decoration for Bedroom Living Room - 66x96 inches -  Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/817UyYfuzVL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Wallpaper Space Wallpaper Large Wall Mural Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20001915/r/il/d20332/3032930336/il_fullxfull.3032930336_blnt.jpg' alt='Galaxy Wallpaper Space Wallpaper Large Wall Mural Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2467">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20001915/r/il/d20332/3032930336/il_fullxfull.3032930336_blnt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wall26 - Starry Night Sky Deep Outer Space - Removable Wall Mural  Self-Adhesive Large Wallpaper - 100x144 inches - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71jBUZRSdfL._AC_UF350,350_QL80_.jpg' alt='wall26 - Starry Night Sky Deep Outer Space - Removable Wall Mural  Self-Adhesive Large Wallpaper - 100x144 inches - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71jBUZRSdfL._AC_UF350,350_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Stars Background Wallpaper Night Sky Modern Wall Decor Kids ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/13014695/r/il/ce83c3/3463289526/il_570xN.3463289526_8you.jpg' alt='Space Stars Background Wallpaper Night Sky Modern Wall Decor Kids ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="396">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/13014695/r/il/ce83c3/3463289526/il_570xN.3463289526_8you.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celestial Constellation Starry Wall Mural | Ever Wallpaper">
+                                <img itemprop="contentUrl url" src='http://everwallpaper.com/cdn/shop/products/purple-star-mural-wallpaper-room.jpg?v=1649922833' alt='Celestial Constellation Starry Wall Mural | Ever Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1155">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='http://everwallpaper.com/cdn/shop/products/purple-star-mural-wallpaper-room.jpg?v=1649922833' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Star Children Peel and Stick Removable Wallpaper 2224">
+                                <img itemprop="contentUrl url" src='https://wallsbyme.com/cdn/shop/files/children_118952224_05-sw_grande.jpg?v=1723297481' alt='Yellow Star Children Peel and Stick Removable Wallpaper 2224'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls By Me" />
+                                </span>
+                                <a href='https://wallsbyme.com/cdn/shop/files/children_118952224_05-sw_grande.jpg?v=1723297481' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Night Sky Moon Star Scenery Self-adhesive Removable Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/rwwAAOSw2ZhfonuP/s-l1200.jpg' alt='3D Night Sky Moon Star Scenery Self-adhesive Removable Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/rwwAAOSw2ZhfonuP/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stars Above Grand Canyon – lovely wall mural – Photowall">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/interiors/64275/landscape/wallpaper/room103.jpg?w=2000&q=80' alt='Stars Above Grand Canyon – lovely wall mural – Photowall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1090">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/interiors/64275/landscape/wallpaper/room103.jpg?w=2000&q=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning JPG Wallpapers for Your Devices</title>
+                    <meta name="description" content="Discover a vast collection of high-quality JPG wallpapers that enhance your digital experience. Perfect for phones, tablets, and desktops, our vibrant wallpapers feature various themes to match your unique style. Transform your screens today!">
+                    <meta name="keywords" content="jpg wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/jpg-wallpaper">
+                            <span itemprop="name">jpg wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning JPG Wallpapers for Your Devices</h1>
+                <p>Elevate your digital space with stunning JPG wallpapers. From breathtaking landscapes to minimalist designs, find the perfect backdrop for your devices. JPG format ensures vibrant colors and sharp images, making your screens come alive. Explore various themes and customize your environment with high-quality wallpapers that reflect your style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60,000+ Best Desktop Wallpaper Photos · 100% Free Download ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1421903/pexels-photo-1421903.jpeg?cs=srgb&dl=pexels-eberhardgross-1421903.jpg&fm=jpg' alt='60,000+ Best Desktop Wallpaper Photos · 100% Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3500">
+                                <meta itemprop="height" content="2333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1421903/pexels-photo-1421903.jpeg?cs=srgb&dl=pexels-eberhardgross-1421903.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/wallpaper-with-dark-dramatic-gradient-colors-ai-generated_88211-6704.jpg?semt=ais_hybrid' alt='Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/wallpaper-with-dark-dramatic-gradient-colors-ai-generated_88211-6704.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,500,000+ Nature Wallpapers, HD & 4K Free Download - Pixabay">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_640.jpg' alt='1,500,000+ Nature Wallpapers, HD & 4K Free Download - Pixabay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_640.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaperflare - Beautiful HD wallpapers free download">
+                                <img itemprop="contentUrl url" src='https://c4.wallpaperflare.com/wallpaper/108/140/869/digital-digital-art-artwork-fantasy-art-drawing-hd-wallpaper-thumb.jpg' alt='Wallpaperflare - Beautiful HD wallpapers free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="551">
+                                <meta itemprop="height" content="310">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.wallpaperflare.com" />
+                                </span>
+                                <a href='https://c4.wallpaperflare.com/wallpaper/108/140/869/digital-digital-art-artwork-fantasy-art-drawing-hd-wallpaper-thumb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD background 1.jpg wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/209/381/HD-wallpaper-background-abstract-1-jpg-design-colors-blue.jpg' alt='HD background 1.jpg wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/209/381/HD-wallpaper-background-abstract-1-jpg-design-colors-blue.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Wallpapers · Pexels">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/36487/above-adventure-aerial-air.jpg?cs=srgb&dl=pexels-bess-hamiti-83687-36487.jpg&fm=jpg' alt='HD Wallpapers · Pexels'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/36487/above-adventure-aerial-air.jpg?cs=srgb&dl=pexels-bess-hamiti-83687-36487.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Figma (@ismscanhbao) | Figma">
+                                <img itemprop="contentUrl url" src='https://s3-alpha.figma.com/hub/file/4857589222/b6e40e96-1b59-434d-baa6-8d922f78a9e6-cover.png' alt='Figma (@ismscanhbao) | Figma'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Figma" />
+                                </span>
+                                <a href='https://s3-alpha.figma.com/hub/file/4857589222/b6e40e96-1b59-434d-baa6-8d922f78a9e6-cover.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: Waterfall High Quality Hd . Jpg, green and purple ...">
+                                <img itemprop="contentUrl url" src='https://c4.wallpaperflare.com/wallpaper/324/424/56/waterfall-high-quality-hd-jpg-green-and-purple-water-falls-illustration-wallpaper-preview.jpg' alt='HD wallpaper: Waterfall High Quality Hd . Jpg, green and purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Flare" />
+                                </span>
+                                <a href='https://c4.wallpaperflare.com/wallpaper/324/424/56/waterfall-high-quality-hd-jpg-green-and-purple-water-falls-illustration-wallpaper-preview.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Best Free Wallpaper Sites">
+                                <img itemprop="contentUrl url" src='https://www.lifewire.com/thmb/T7a6QlzUPEpua3OKx7V_pCvBY14=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/forest-wallpaper-af78609605b14f7c9b999d8b2f49c0d9.jpg' alt='8 Best Free Wallpaper Sites'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lifewire" />
+                                </span>
+                                <a href='https://www.lifewire.com/thmb/T7a6QlzUPEpua3OKx7V_pCvBY14=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/forest-wallpaper-af78609605b14f7c9b999d8b2f49c0d9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/wide-angle-shot-single-tree-growing-clouded-sky-sunset-surrounded-by-grass_181624-22807.jpg?semt=ais_hybrid' alt='Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/wide-angle-shot-single-tree-growing-clouded-sky-sunset-surrounded-by-grass_181624-22807.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

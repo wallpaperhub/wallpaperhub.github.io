@@ -1,0 +1,129 @@
+<title>Derrick Rose: The Resilient MVP of NBA History</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="derrick rose">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/derrick-rose">
+                            <span itemprop="name">derrick rose</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Derrick Rose: The Resilient MVP of NBA History</h1>
+                <p>Derrick Rose, an iconic NBA player, first rose to fame as the youngest MVP in league history. Known for his explosive athleticism and scoring ability, Rose has battled injuries throughout his career but continues to inspire fans with his resilience. His journey exemplifies determination, showcasing the heart of a champion.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Derrick Rose - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Derrick_Rose_03.jpg/800px-Derrick_Rose_03.jpg' alt='Derrick Rose - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1189">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Derrick_Rose_03.jpg/800px-Derrick_Rose_03.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Derrick Rose - Memphis Grizzlies Point Guard - ESPN">
+                                <img itemprop="contentUrl url" src='https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3456.png' alt='Derrick Rose - Memphis Grizzlies Point Guard - ESPN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ESPN" />
+                                </span>
+                                <a href='https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3456.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Derrick Rose - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Derrick_Rose_2.jpg/220px-Derrick_Rose_2.jpg' alt='Derrick Rose - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Derrick_Rose_2.jpg/220px-Derrick_Rose_2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Perfect Rose: Four Ways Derrick Rose Can Bolster His MVP Bid">
+                                <img itemprop="contentUrl url" src='https://cdn.bleacherreport.net/images_root/slides/photos/000/774/360/109813237_original.jpg?1299547341' alt='A Perfect Rose: Four Ways Derrick Rose Can Bolster His MVP Bid'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2190">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bleacher Report" />
+                                </span>
+                                <a href='https://cdn.bleacherreport.net/images_root/slides/photos/000/774/360/109813237_original.jpg?1299547341' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Untapped Potential: Derrick Rose - Back Sports Page">
+                                <img itemprop="contentUrl url" src='https://www.backsportspage.com/wp-content/uploads/2023/12/derrick-rose-2011.jpg' alt='Untapped Potential: Derrick Rose - Back Sports Page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Back Sports Page" />
+                                </span>
+                                <a href='https://www.backsportspage.com/wp-content/uploads/2023/12/derrick-rose-2011.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chicago Bulls - OFFICIAL: The Bulls will retire Derrick... | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1140423224107381' alt='Chicago Bulls - OFFICIAL: The Bulls will retire Derrick... | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1140423224107381' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Derrick Rose looks back on time with Chicago Bulls and wishes he ...">
+                                <img itemprop="contentUrl url" src='https://www.si.com/.image/c_fill,w_1200,ar_1:1,f_auto,q_auto,g_auto/MTk0NDcwNTgyOTUwMDQ1MTg5/derrick-rose.jpg' alt='Derrick Rose looks back on time with Chicago Bulls and wishes he ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Illustrated" />
+                                </span>
+                                <a href='https://www.si.com/.image/c_fill,w_1200,ar_1:1,f_auto,q_auto,g_auto/MTk0NDcwNTgyOTUwMDQ1MTg5/derrick-rose.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Derrick Rose | Injury, Height, Draft, Biography, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/00/261800-050-08DCA28C/memphis-grizzlies-player-derrick-rose-handles-the-game-against-denver-nuggets-october-27-2023.jpg' alt='Derrick Rose | Injury, Height, Draft, Biography, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/00/261800-050-08DCA28C/memphis-grizzlies-player-derrick-rose-handles-the-game-against-denver-nuggets-october-27-2023.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Former NBA MVP Derrick Rose retires after 16-year career that was ...">
+                                <img itemprop="contentUrl url" src='https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-09/240926-derrick-rose-chicago-bulls-mn-1030-568187.jpg' alt='Former NBA MVP Derrick Rose retires after 16-year career that was ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBC News" />
+                                </span>
+                                <a href='https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-09/240926-derrick-rose-chicago-bulls-mn-1030-568187.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Derrick Rose - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Derrick_Rose_Dec_2011_%28cropped%29.jpg/220px-Derrick_Rose_Dec_2011_%28cropped%29.jpg' alt='Derrick Rose - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="252">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Derrick_Rose_Dec_2011_%28cropped%29.jpg/220px-Derrick_Rose_Dec_2011_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

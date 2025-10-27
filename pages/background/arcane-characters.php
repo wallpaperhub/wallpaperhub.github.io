@@ -1,0 +1,129 @@
+<title>Top Characters in Arcane: A Deep Dive</title>
+                    <meta name="description" content="Explore the captivating characters of Arcane, from Jayce's genius to Viktor's ambition. Discover their unique traits, struggles, and the intricate web of relationships that make this series a compelling tale of magic and innovation. Dive into their stories and see how they shape the Arcane universe!">
+                    <meta name="keywords" content="arcane characters">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/arcane-characters">
+                            <span itemprop="name">arcane characters</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Top Characters in Arcane: A Deep Dive</h1>
+                <p>Arcane features a rich cast of characters, each with unique backgrounds and abilities. From the brilliant but troubled Jayce to the mysterious and powerful Viktor, the show delves into their struggles and ambitions. With complex relationships and moral dilemmas, these characters navigate the intricate world of magic and technology, creating captivating stories.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="no spoilers] Arcane characters profiles; The facial differences ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/balz6liiqcec1.jpeg' alt='no spoilers] Arcane characters profiles; The facial differences ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/balz6liiqcec1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="spoilers ep9] All playable characters from Arcane : r/arcane">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/lme71m0bqx081.jpg?width=640&crop=smart&auto=webp&s=61e6c3f40f4d7f5950b8098bbd60856b558d9449' alt='spoilers ep9] All playable characters from Arcane : r/arcane'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="426">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/lme71m0bqx081.jpg?width=640&crop=smart&auto=webp&s=61e6c3f40f4d7f5950b8098bbd60856b558d9449' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Every Arcane Character Explained in 17 Minutes">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Fxm2Ywr_MBQ/maxresdefault.jpg' alt='Every Arcane Character Explained in 17 Minutes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Fxm2Ywr_MBQ/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Arcane Characters Who Could Return in League of Legends ...">
+                                <img itemprop="contentUrl url" src='https://www.denofgeek.com/wp-content/uploads/2024/11/arcane-season-2-mel-medarda-netflix.png?resize=768%2C432' alt='The Arcane Characters Who Could Return in League of Legends ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Den of Geek" />
+                                </span>
+                                <a href='https://www.denofgeek.com/wp-content/uploads/2024/11/arcane-season-2-mel-medarda-netflix.png?resize=768%2C432' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The characters of Arcane in League of Legends.">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/-eFDvk1exgw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB83bTElbhF62Z04HZcKrAIVQsPqQ' alt='The characters of Arcane in League of Legends.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/-eFDvk1exgw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB83bTElbhF62Z04HZcKrAIVQsPqQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ARCANE': Every 'League of Legends' Champion Who Appears in Season ...">
+                                <img itemprop="contentUrl url" src='https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQbBix0E1ikMlutISo51QoXIc-GH1zpGyutZshgz96IPSxDRy2wF9K9o2xhmrp0plidxgs7TTxJAwa257QU0_LE8y0Sg4OBv2zwVSGViUGAh6-LJzv8C57c0O0lUdySDkHFFjChIAkmgAXQNaYVHLpeuefMs.jpg?r=730' alt='ARCANE': Every 'League of Legends' Champion Who Appears in Season ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Netflix" />
+                                </span>
+                                <a href='https://dnm.nflximg.net/api/v6/BvVbc2Wxr2w6QuoANoSpJKEIWjQ/AAAAQbBix0E1ikMlutISo51QoXIc-GH1zpGyutZshgz96IPSxDRy2wF9K9o2xhmrp0plidxgs7TTxJAwa257QU0_LE8y0Sg4OBv2zwVSGViUGAh6-LJzv8C57c0O0lUdySDkHFFjChIAkmgAXQNaYVHLpeuefMs.jpg?r=730' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="no spoilers] If Arcane Characters had the same names as their VAs ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/no-spoilers-if-arcane-characters-had-the-same-names-as-v0-h9xl99nqau7d1.jpg?width=3264&format=pjpg&auto=webp&s=e4f9d9d0d8186b0b9f88d3fdd8b3fb00dc182554' alt='no spoilers] If Arcane Characters had the same names as their VAs ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3264">
+                                <meta itemprop="height" content="3264">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/no-spoilers-if-arcane-characters-had-the-same-names-as-v0-h9xl99nqau7d1.jpg?width=3264&format=pjpg&auto=webp&s=e4f9d9d0d8186b0b9f88d3fdd8b3fb00dc182554' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arcane - Do the characters of #Arcane stack up to your... | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=363431295959402' alt='Arcane - Do the characters of #Arcane stack up to your... | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2220">
+                                <meta itemprop="height" content="868">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=363431295959402' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arcane's biggest strength is its character writing and how the ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=9155464894465579' alt='Arcane's biggest strength is its character writing and how the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=9155464894465579' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Imagining #Arcane characters and their Zodiac signs ⚖️ Did we ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2798899226215553356' alt='Imagining #Arcane characters and their Zodiac signs ⚖️ Did we ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2798899226215553356' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

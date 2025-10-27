@@ -1,0 +1,129 @@
+<title>Discover the Quirky Background Characters of Helluva Boss</title>
+                    <meta name="description" content="Explore the fascinating world of background characters in "Helluva Boss." Discover how these unique personalities add humor and depth to the series, enhancing the overall experience. Get insights into their roles and contributions in the chaotic adventures of I.M.P.!">
+                    <meta name="keywords" content="helluva boss background characters">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/helluva-boss-background-characters">
+                            <span itemprop="name">helluva boss background characters</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Quirky Background Characters of Helluva Boss</h1>
+                <p>In "Helluva Boss," a vibrant array of background characters enrich the chaotic world of I.M.P. From the quirky staff at the Hellish business to the comedic clientele, each character contributes unique flair. Notably, characters like Millie's family or the various demons add depth, humor, and intrigue to the storyline, making each episode thrilling.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who's your favorite minor/background character? : r/HelluvaBoss">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/xuq5xxtwm7nb1.jpg' alt='Who's your favorite minor/background character? : r/HelluvaBoss'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="910">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/xuq5xxtwm7nb1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Okay I knew some background characters had names but I didn't know ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/okay-i-knew-some-background-characters-had-names-but-i-v0-yghkdjz60e1c1.jpg?width=2048&format=pjpg&auto=webp&s=820f2615291dcfb1e49dcdebe525305e7c295191' alt='Okay I knew some background characters had names but I didn't know ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="798">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/okay-i-knew-some-background-characters-had-names-but-i-v0-yghkdjz60e1c1.jpg?width=2048&format=pjpg&auto=webp&s=820f2615291dcfb1e49dcdebe525305e7c295191' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Let's take a moment to appreciate that even the background ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/lets-take-a-moment-to-appreciate-that-even-the-background-v0-oloms1nh792d1.jpg?width=828&format=pjpg&auto=webp&s=0bd39b0ad1eca76ffc4ec5f6ff10350926ff85de' alt='Let's take a moment to appreciate that even the background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/lets-take-a-moment-to-appreciate-that-even-the-background-v0-oloms1nh792d1.jpg?width=828&format=pjpg&auto=webp&s=0bd39b0ad1eca76ffc4ec5f6ff10350926ff85de' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hell's Club Background Characters by FallenStarTheArtist on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/94d2f182-0967-4884-bd5c-8e57a171ec75/dh78h09-c098809b-9296-4068-b3e7-795dc825baca.png/v1/fill/w_1275,h_626,q_70,strp/hell_s_club_background_characters_by_fallenstartheartist_dh78h09-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjI5IiwicGF0aCI6IlwvZlwvOTRkMmYxODItMDk2Ny00ODg0LWJkNWMtOGU1N2ExNzFlYzc1XC9kaDc4aDA5LWMwOTg4MDliLTkyOTYtNDA2OC1iM2U3LTc5NWRjODI1YmFjYS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.7HDP65f9CM7fKaPMRYKWymZSjwYMofv0nFZvHC1FHdI' alt='Hell's Club Background Characters by FallenStarTheArtist on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1275">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/94d2f182-0967-4884-bd5c-8e57a171ec75/dh78h09-c098809b-9296-4068-b3e7-795dc825baca.png/v1/fill/w_1275,h_626,q_70,strp/hell_s_club_background_characters_by_fallenstartheartist_dh78h09-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjI5IiwicGF0aCI6IlwvZlwvOTRkMmYxODItMDk2Ny00ODg0LWJkNWMtOGU1N2ExNzFlYzc1XC9kaDc4aDA5LWMwOTg4MDliLTkyOTYtNDA2OC1iM2U3LTc5NWRjODI1YmFjYS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.7HDP65f9CM7fKaPMRYKWymZSjwYMofv0nFZvHC1FHdI' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Helluva boss background character are kinda ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3360768668944513581' alt='Helluva boss background character are kinda ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3360768668944513581' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spirit (Comms open) on X: "It'll always be funny to me that the ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/EtgNuusVIAEcLs7.jpg:large' alt='Spirit (Comms open) on X: "It'll always be funny to me that the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="852">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/EtgNuusVIAEcLs7.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="so i rewatched some older episodes and suddenly realised... i ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/so-i-rewatched-some-older-episodes-and-suddenly-realised-i-v0-ofr9qr984hnb1.jpg?width=725&format=pjpg&auto=webp&s=1cce2c76e7e46e00d43aa791cda4739aa79227e1' alt='so i rewatched some older episodes and suddenly realised... i ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="725">
+                                <meta itemprop="height" content="858">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/so-i-rewatched-some-older-episodes-and-suddenly-realised-i-v0-ofr9qr984hnb1.jpg?width=725&format=pjpg&auto=webp&s=1cce2c76e7e46e00d43aa791cda4739aa79227e1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Editing Background Characters in Helluva Boss | Thank You for 9K ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7256887265324977434&location=0&aid=1988' alt='Editing Background Characters in Helluva Boss | Thank You for 9K ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7256887265324977434&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can we just appreciate how much detail goes into the background ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/xyps23nid9d81.jpg' alt='Can we just appreciate how much detail goes into the background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4096">
+                                <meta itemprop="height" content="2895">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/xyps23nid9d81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="23 Hazbin and helluva boss bg characters ideas | hotel art ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/51/fd/0b/51fd0b721b74cce2979ba6cec760a523.jpg' alt='23 Hazbin and helluva boss bg characters ideas | hotel art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="826">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/51/fd/0b/51fd0b721b74cce2979ba6cec760a523.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

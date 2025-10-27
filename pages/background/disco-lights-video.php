@@ -1,0 +1,129 @@
+<title>Disco Lights Video: The Ultimate Party Experience</title>
+                    <meta name="description" content="Discover the excitement of disco lights in our captivating video! Watch stunning visuals that energize your space, ideal for parties or personal enjoyment. Enhance your events with vibrant colors and patterns that create an unforgettable atmosphere. Perfect for entertainment lovers!">
+                    <meta name="keywords" content="disco lights video">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/disco-lights-video">
+                            <span itemprop="name">disco lights video</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Disco Lights Video: The Ultimate Party Experience</h1>
+                <p>Experience the magic of disco lights in this vibrant video! Watch as colorful beams dance across the room, transforming any event into a party. With synchronized flashes and captivating patterns, disco lights create an electrifying atmosphere that enhances mood and energy. Perfect for celebrations or personal enjoyment!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disco Ball Video Color Party Lights for Room">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/s0wYCLa-8VY/maxresdefault.jpg' alt='Disco Ball Video Color Party Lights for Room'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/s0wYCLa-8VY/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DIY Disco Lights">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/f6WaNTBCDmg/maxresdefault.jpg' alt='DIY Disco Lights'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/f6WaNTBCDmg/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disco Light Background Video Effect HD">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Njj4R2_S2k0/maxresdefault.jpg' alt='Disco Light Background Video Effect HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Njj4R2_S2k0/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Big Disco Ball Lights - DIY 3 Hours VJ Loop">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/hoOyg-qDK3M/maxresdefault.jpg' alt='Colorful Big Disco Ball Lights - DIY 3 Hours VJ Loop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/hoOyg-qDK3M/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Effect, Disco Ball">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/video/2016/05/12/3129-166335878_tiny.jpg' alt='Light Effect, Disco Ball'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/video/2016/05/12/3129-166335878_tiny.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disco, Ball, Sphere, Lights">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/video/2020/09/08/49378-459436766_tiny.jpg' alt='Disco, Ball, Sphere, Lights'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/video/2020/09/08/49378-459436766_tiny.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dance Lights Effect Video Background Neon Disco Party in Room">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/jPfKf1M_kcI/maxresdefault.jpg' alt='Dance Lights Effect Video Background Neon Disco Party in Room'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/jPfKf1M_kcI/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disco Lights Effect on Screen Fast  Party Club Neon Video Tunnel">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/zxNFpIIXa1E/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCXZIDRDiKSS7o1f4ZXbVLyv-mObw' alt='Disco Lights Effect on Screen Fast  Party Club Neon Video Tunnel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/zxNFpIIXa1E/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCXZIDRDiKSS7o1f4ZXbVLyv-mObw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Party Disco Lighting Setup Demo">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/zer-9GIXD64/maxresdefault.jpg' alt='Party Disco Lighting Setup Demo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/zer-9GIXD64/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disco Lights Background Loop 2 Free Motion Graphics & Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://videocdn.cdnpk.net/joy/content/video/free/2013-09/thumbnails/DiscoLights2Videvo_large.jpg' alt='Disco Lights Background Loop 2 Free Motion Graphics & Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Videvo" />
+                                </span>
+                                <a href='https://videocdn.cdnpk.net/joy/content/video/free/2013-09/thumbnails/DiscoLights2Videvo_large.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

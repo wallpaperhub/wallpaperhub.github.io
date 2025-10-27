@@ -1,0 +1,129 @@
+<title>Refresh Your iPhone with Lemon Wallpaper: Citrus Vibes!</title>
+                    <meta name="description" content="Explore the cheerful world of lemon wallpaper for your iPhone! Perfect for summer vibes, our citrus designs offer freshness & style. Brighten up your screen today with stunning patterns that stand out while keeping your device looking trendy and fun!">
+                    <meta name="keywords" content="lemon wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/lemon-wallpaper-iphone">
+                            <span itemprop="name">lemon wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Refresh Your iPhone with Lemon Wallpaper: Citrus Vibes!</h1>
+                <p>Brighten up your iPhone with vibrant lemon wallpaper! Perfect for adding a refreshing pop of color to your device, lemon-themed designs bring a touch of summer to your daily routine. Whether you prefer minimalistic patterns or bold graphics, lemon wallpaper is a delightful choice for anyone who loves citrus vibes!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lemons iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/14/b7/6f/14b76ff19de1f637497eb3fbb72e425f.jpg' alt='Lemons iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/14/b7/6f/14b76ff19de1f637497eb3fbb72e425f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Wallpaper For iPhone | 30+ Sun-Filled Backgrounds For Summer">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fb/9f/3b/fb9f3bb8b7b365525fb7d7ecfde00b15.jpg' alt='Summer Wallpaper For iPhone | 30+ Sun-Filled Backgrounds For Summer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fb/9f/3b/fb9f3bb8b7b365525fb7d7ecfde00b15.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lemon Wallpaper Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA2L3YxMDEzLXAtMDAwNmQtMDEta3NpODc4ZnEuanBn.jpg' alt='Lemon Wallpaper Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA2L3YxMDEzLXAtMDAwNmQtMDEta3NpODc4ZnEuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lemon Phone Backgrounds Phone/ Wallpaper/ Lemons/ Phone Background/  Aesthetic Phone Wallpaper/ Lemon/ Citrus - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16628724/r/il/a84e81/3710503825/il_1080xN.3710503825_dge3.jpg' alt='Lemon Phone Backgrounds Phone/ Wallpaper/ Lemons/ Phone Background/  Aesthetic Phone Wallpaper/ Lemon/ Citrus - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16628724/r/il/a84e81/3710503825/il_1080xN.3710503825_dge3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Lemons Pattern Blue Background Iphone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/lemon-iphone-zl00rwpd2ppi0m5i.jpg' alt='Download Lemons Pattern Blue Background Iphone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/lemon-iphone-zl00rwpd2ppi0m5i.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lemon Wallpaper Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_social_portrait/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTExL3Jhd3BpeGVsb2ZmaWNlMl9yZWFsX3N0dWRpb19waG90b19vZl9sZW1vbl9zZWFtbGVzc19wYXR0ZXJuX21pbl85NzU0ZTQyZC03MTRlLTQyOGItOGQzMy1hOWVjZjQ2NzBjNjBfMS5qcGc.jpg' alt='Lemon Wallpaper Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="561">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_social_portrait/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTExL3Jhd3BpeGVsb2ZmaWNlMl9yZWFsX3N0dWRpb19waG90b19vZl9sZW1vbl9zZWFtbGVzc19wYXR0ZXJuX21pbl85NzU0ZTQyZC03MTRlLTQyOGItOGQzMy1hOWVjZjQ2NzBjNjBfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Lemon Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/lemon-iphone-gqmkplxdyb325lvj.jpg' alt='100+] Lemon Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/lemon-iphone-gqmkplxdyb325lvj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Bright Yellow Lemon Wallpaper Pattern Summer | iPhone Case">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.4722041327.7582/flat,750x1000,075,t.u2.jpg' alt='Happy Bright Yellow Lemon Wallpaper Pattern Summer | iPhone Case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.4722041327.7582/flat,750x1000,075,t.u2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lemon, fruit, fruits, lemons, pattern, patterns, sour, yellow, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/268/450/HD-wallpaper-lemon-fruit-fruits-lemons-pattern-patterns-sour-yellow.jpg' alt='Lemon, fruit, fruits, lemons, pattern, patterns, sour, yellow, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/268/450/HD-wallpaper-lemon-fruit-fruits-lemons-pattern-patterns-sour-yellow.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Iphone Lemon Pattern Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/summer-iphone-lemon-pattern-g11733dn4tgnh3ol.jpg' alt='Summer Iphone Lemon Pattern Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/summer-iphone-lemon-pattern-g11733dn4tgnh3ol.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

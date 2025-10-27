@@ -1,0 +1,129 @@
+<title>Ultimate 4K Dark Gaming Wallpapers for PC</title>
+                    <meta name="description" content="Discover a collection of stunning 4K dark gaming wallpapers perfect for your PC. Enhance your gaming setup with high-resolution backgrounds that captivate and inspire. Download now to bring your gaming experience to life with breathtaking visuals!">
+                    <meta name="keywords" content="gaming dark wallpaper 4k pc">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/gaming-dark-wallpaper-4k-pc">
+                            <span itemprop="name">gaming dark wallpaper 4k pc</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ultimate 4K Dark Gaming Wallpapers for PC</h1>
+                <p>Transform your PC with stunning gaming dark wallpapers in 4K resolution. These captivating backgrounds add depth and drama to your gaming experience, featuring dynamic designs and immersive visuals. Ideal for gamers seeking to elevate their setup, these wallpapers create an atmosphere that immerses you in the world of gaming.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Dark Gaming Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/dark-gaming-jdc7028bqa3g20q3.jpg' alt='100+] Dark Gaming Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/dark-gaming-jdc7028bqa3g20q3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Dark Gaming Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dark-gaming-1920-x-1200-wallpaper-o8rh0z8isozl71kv.jpg' alt='100+] Dark Gaming Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dark-gaming-1920-x-1200-wallpaper-o8rh0z8isozl71kv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Dark Gaming Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dark-gaming-3840-x-2400-wallpaper-bvfwnv5kfmdiakxs.jpg' alt='100+] Dark Gaming Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dark-gaming-3840-x-2400-wallpaper-bvfwnv5kfmdiakxs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: PS4, Dark Souls 3, PC, fantasy, Xbox One, Best games">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d9/f1/fe/d9f1fe1e991a28e99cf9f4cdc81b0e63.jpg' alt='HD wallpaper: PS4, Dark Souls 3, PC, fantasy, Xbox One, Best games'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d9/f1/fe/d9f1fe1e991a28e99cf9f4cdc81b0e63.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Extraction Valley Wallpaper 4K, PC Games, Black/Dark, #854">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/98/b1/6c/98b16cba1ebec9f0a10e95b624018e7b.jpg' alt='Extraction Valley Wallpaper 4K, PC Games, Black/Dark, #854'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/98/b1/6c/98b16cba1ebec9f0a10e95b624018e7b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Dark Gaming Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dark-gaming-3840-x-2160-wallpaper-9dy7kwu8sgqtx7vv.jpg' alt='100+] Dark Gaming Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dark-gaming-3840-x-2160-wallpaper-9dy7kwu8sgqtx7vv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PC WALLPAPER 4K - DARK WESTERN NIGHT - Heroscreen | Free image ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/a/AVvXsEiRCg6H343bupuZb4v3f24Lr_bisHkpD0_K04g9ADV6fvb533Yja0ntO6TicKtIwBVcLLgL_dgnJy_uo6PSmVMmfiXtFnT7fqoFPDxaTVc2FBr84LbEASdURgTkeoH3Kti7Gib_ffHDhoFDKt3ZD80eGPosfQ7WdwBZP8qc392JGdP2AZ6tgzuo4S_vTX9Z=s1600-rw' alt='PC WALLPAPER 4K - DARK WESTERN NIGHT - Heroscreen | Free image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/a/AVvXsEiRCg6H343bupuZb4v3f24Lr_bisHkpD0_K04g9ADV6fvb533Yja0ntO6TicKtIwBVcLLgL_dgnJy_uo6PSmVMmfiXtFnT7fqoFPDxaTVc2FBr84LbEASdURgTkeoH3Kti7Gib_ffHDhoFDKt3ZD80eGPosfQ7WdwBZP8qc392JGdP2AZ6tgzuo4S_vTX9Z=s1600-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Gamer 4k PC Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp9036713.jpg' alt='Dark Gamer 4k PC Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp9036713.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Among Us Wallpaper 4K, AMOLED, Neon logo, iOS Games">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/among-us-neon-ios-games-android-games-pc-games-black-3840x2160-3950.png' alt='Among Us Wallpaper 4K, AMOLED, Neon logo, iOS Games'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/among-us-neon-ios-games-android-games-pc-games-black-3840x2160-3950.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: headphones, red, black, dark, gaming, setup, minimal ...">
+                                <img itemprop="contentUrl url" src='https://c0.wallpaperflare.com/preview/153/380/988/headphones-red-black-dark.jpg' alt='HD wallpaper: headphones, red, black, dark, gaming, setup, minimal ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="910">
+                                <meta itemprop="height" content="468">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Flare" />
+                                </span>
+                                <a href='https://c0.wallpaperflare.com/preview/153/380/988/headphones-red-black-dark.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

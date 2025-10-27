@@ -1,0 +1,129 @@
+<title>Purple Fantasy Backgrounds: Dreamy Visuals for Your Projects</title>
+                    <meta name="description" content="Discover mesmerizing purple fantasy backgrounds ideal for all creative needs! Perfect for art, storytelling, or design, these enchanting visuals transport you to a mystical world. Explore our collection to spark inspiration and elevate your projects effortlessly!">
+                    <meta name="keywords" content="purple fantasy background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/purple-fantasy-background">
+                            <span itemprop="name">purple fantasy background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Purple Fantasy Backgrounds: Dreamy Visuals for Your Projects</h1>
+                <p>Immerse yourself in a dreamy realm with a stunning purple fantasy background. Shades of violet and lavender swirl together, evoking an enchanting atmosphere perfect for creative projects, storytelling, or digital art. This captivating backdrop inspires imagination and invites endless possibilities, making it a must-have for dreamers.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Fantasy Forest Images – Browse 106,918 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/11/54/37/85/360_F_1154378543_C2txnESSPA2TEfj5VIcYpxs1At4c3C5R.jpg' alt='Purple Fantasy Forest Images – Browse 106,918 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="645">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/11/54/37/85/360_F_1154378543_C2txnESSPA2TEfj5VIcYpxs1At4c3C5R.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Fantasy Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/black-dark-deep-purple-violet-blue-pink-magenta-fuchsia-sky_464314-14853.jpg' alt='Purple Fantasy Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="351">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/black-dark-deep-purple-violet-blue-pink-magenta-fuchsia-sky_464314-14853.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Fantasy Forest Images – Browse 106,918 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/11/25/55/43/360_F_1125554307_2qzZLjHTT5zcfkn7ojKWFhtVkYBq9Uk0.jpg' alt='Purple Fantasy Forest Images – Browse 106,918 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/11/25/55/43/360_F_1125554307_2qzZLjHTT5zcfkn7ojKWFhtVkYBq9Uk0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Fantasy Forest Images – Browse 106,918 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/08/37/05/29/360_F_837052904_Xv3qUXXgKux1mdFskZvayWy93TS0dkMt.jpg' alt='Purple Fantasy Forest Images – Browse 106,918 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/08/37/05/29/360_F_837052904_Xv3qUXXgKux1mdFskZvayWy93TS0dkMt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="105,198 Purple Fantasy Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/purple-fantasy-majestic-infinity-concepts-334206929.jpg' alt='105,198 Purple Fantasy Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/purple-fantasy-majestic-infinity-concepts-334206929.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Fantasy Forest Images – Browse 110,361 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/11/25/57/85/360_F_1125578536_8KRho9I610EjAsFdu17a7seZ3yFJ7V1W.jpg' alt='Purple Fantasy Forest Images – Browse 110,361 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/11/25/57/85/360_F_1125578536_8KRho9I610EjAsFdu17a7seZ3yFJ7V1W.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="205+ Amazing Collections of Purple Backgrounds">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6a/d9/da/6ad9da43ab2c2f596444e63940c70ae8.jpg' alt='205+ Amazing Collections of Purple Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="730">
+                                <meta itemprop="height" content="456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6a/d9/da/6ad9da43ab2c2f596444e63940c70ae8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fairy in Purple Fantasy Forest - Fantasy & Abstract Background ...">
+                                <img itemprop="contentUrl url" src='https://cache.desktopnexus.com/thumbseg/2290/2290872-bigthumbnail.jpg' alt='Fairy in Purple Fantasy Forest - Fantasy & Abstract Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="264">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abstract Wallpapers and Backgrounds - Desktop Nexus" />
+                                </span>
+                                <a href='https://cache.desktopnexus.com/thumbseg/2290/2290872-bigthumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Moon Lake - Fantasy Landscape HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/239/239104.jpg' alt='Purple Moon Lake - Fantasy Landscape HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/239/239104.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fantasy Background Image & Photo (Free Trial) | Bigstock">
+                                <img itemprop="contentUrl url" src='https://static2.bigstockphoto.com/2/3/2/large1500/232640071.jpg' alt='Fantasy Background Image & Photo (Free Trial) | Bigstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1188">
+                                <meta itemprop="height" content="1620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Big Stock Photo" />
+                                </span>
+                                <a href='https://static2.bigstockphoto.com/2/3/2/large1500/232640071.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

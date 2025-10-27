@@ -1,0 +1,129 @@
+<title>Irresistible Dog Treats: Pictures & Inspiration</title>
+                    <meta name="description" content="Discover mouth-watering pictures of dog treats! Browse through vibrant images of tasty treats that will excite your furry companion. Perfect for pet owners looking for inspiration and ideas on how to pamper their dogs with delicious snacks!">
+                    <meta name="keywords" content="pictures of dog treats">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pictures-of-dog-treats">
+                            <span itemprop="name">pictures of dog treats</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Irresistible Dog Treats: Pictures & Inspiration</h1>
+                <p>Explore a delightful collection of pictures showcasing a variety of dog treats! From crunchy biscuits to chewy jerky, these images will leave your furry friend drooling. Discover different flavors, shapes, and sizes that cater to every pup's taste. Treat your dog to something special today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Homemade Peanut Butter Dog Treats">
+                                <img itemprop="contentUrl url" src='https://www.eatingbirdfood.com/wp-content/uploads/2021/05/peanut-butter-dog-treats-overhead-close-up.jpg' alt='Homemade Peanut Butter Dog Treats'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eating Bird Food" />
+                                </span>
+                                <a href='https://www.eatingbirdfood.com/wp-content/uploads/2021/05/peanut-butter-dog-treats-overhead-close-up.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soft Peanut Butter Carrot Dog Treats">
+                                <img itemprop="contentUrl url" src='https://sallysbakingaddiction.com/wp-content/uploads/2015/11/homemade-soft-dog-treats-2.jpg' alt='Soft Peanut Butter Carrot Dog Treats'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sally's Baking Addiction" />
+                                </span>
+                                <a href='https://sallysbakingaddiction.com/wp-content/uploads/2015/11/homemade-soft-dog-treats-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3 Ingredient Dog Treats, Home-Made With Love">
+                                <img itemprop="contentUrl url" src='https://tastythriftytimely.com/wp-content/uploads/2023/01/3-Ingredient-Dog-Treats-Featured.jpg' alt='3 Ingredient Dog Treats, Home-Made With Love'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tasty Thrifty Timely" />
+                                </span>
+                                <a href='https://tastythriftytimely.com/wp-content/uploads/2023/01/3-Ingredient-Dog-Treats-Featured.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soft pumpkin dog treats">
+                                <img itemprop="contentUrl url" src='https://www.pookspantry.com/wp-content/uploads/2026/01/Soft-pumpkin-dog-treats-.jpg' alt='Soft pumpkin dog treats'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pook's Pantry" />
+                                </span>
+                                <a href='https://www.pookspantry.com/wp-content/uploads/2026/01/Soft-pumpkin-dog-treats-.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Homemade Dog Treats">
+                                <img itemprop="contentUrl url" src='https://www.delicioustable.com/wp-content/uploads/2022/04/Dog-Treats-featured.jpg' alt='Homemade Dog Treats'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Delicious Table" />
+                                </span>
+                                <a href='https://www.delicioustable.com/wp-content/uploads/2022/04/Dog-Treats-featured.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Homemade Dog Treats Recipe - Peanut Butter Dog Treats">
+                                <img itemprop="contentUrl url" src='https://www.thecookierookie.com/wp-content/uploads/2013/12/dog-treat-recipe-7.jpg' alt='Homemade Dog Treats Recipe - Peanut Butter Dog Treats'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Cookie Rookie" />
+                                </span>
+                                <a href='https://www.thecookierookie.com/wp-content/uploads/2013/12/dog-treat-recipe-7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Homemade Dog Treats">
+                                <img itemprop="contentUrl url" src='https://www.momontimeout.com/wp-content/uploads/2019/09/homemade-dog-treats-recipe-with-title-500x500.jpg' alt='Homemade Dog Treats'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mom On Timeout" />
+                                </span>
+                                <a href='https://www.momontimeout.com/wp-content/uploads/2019/09/homemade-dog-treats-recipe-with-title-500x500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Homemade Dog Treats (Peanut Butter and Pumpkin)">
+                                <img itemprop="contentUrl url" src='https://www.allrecipes.com/thmb/ZjAtC2No4W6CbnT6omde3YgHIEU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/133123-Peanut-Butter-and-Pumpkin-Dog-Treats-mfs-018-1-ad40545a341b4238baf99d90089dfde3.jpg' alt='Homemade Dog Treats (Peanut Butter and Pumpkin)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Allrecipes" />
+                                </span>
+                                <a href='https://www.allrecipes.com/thmb/ZjAtC2No4W6CbnT6omde3YgHIEU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/133123-Peanut-Butter-and-Pumpkin-Dog-Treats-mfs-018-1-ad40545a341b4238baf99d90089dfde3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chicken Dog Treats">
+                                <img itemprop="contentUrl url" src='https://wearenotmartha.com/wp-content/uploads/Chicken-Dog-Treats-7-2.jpg' alt='Chicken Dog Treats'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="We are not Martha" />
+                                </span>
+                                <a href='https://wearenotmartha.com/wp-content/uploads/Chicken-Dog-Treats-7-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Homemade Dog Treats">
+                                <img itemprop="contentUrl url" src='https://www.acozykitchen.com/wp-content/uploads/2024/02/dog_treats_12-scaled.jpg' alt='Homemade Dog Treats'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="A Cozy Kitchen" />
+                                </span>
+                                <a href='https://www.acozykitchen.com/wp-content/uploads/2024/02/dog_treats_12-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

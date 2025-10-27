@@ -1,0 +1,129 @@
+<title>Explore the Wonders of Starry Space</title>
+                    <meta name="description" content="Discover the beauty of starry space, where countless stars illuminate the night. Dive into the mysteries of the universe and explore the significance of these celestial wonders. Join us in admiring the breathtaking views that spark curiosity and imagination about our cosmos!">
+                    <meta name="keywords" content="starry space">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/starry-space">
+                            <span itemprop="name">starry space</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Wonders of Starry Space</h1>
+                <p>Gazing into the starry space is a mesmerizing experience, where countless stars twinkle against the vast, dark canvas of the universe. Each star tells a story of ancient light, traveling across millions of light-years to reach our eyes. The boundless nature of the cosmos makes us ponder our place within it, inspiring awe and curiosity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="500+ Starry Pictures [HD] | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1553375388-5917bf50a7ab?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8c3RhcnJ5fGVufDB8fDB8fHww' alt='500+ Starry Pictures [HD] | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1553375388-5917bf50a7ab?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8c3RhcnJ5fGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starry Space">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/42622/starry-space.jpg?h=699&q=85' alt='Starry Space'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1048">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/42622/starry-space.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starry Night Sky In Deep Outer Space Wall Mural">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/241192/Starry-Night-Sky-In-Deep-Outer-Space-Mural-Wallpaper.jpg?v=638164808987870000' alt='Starry Night Sky In Deep Outer Space Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="2281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/241192/Starry-Night-Sky-In-Deep-Outer-Space-Mural-Wallpaper.jpg?v=638164808987870000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="108,849 Space Starry Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/night-landscape-colorful-milky-way-yellow-light-mountains-starry-sky-hills-summer-beautiful-universe-space-72956059.jpg' alt='108,849 Space Starry Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/night-landscape-colorful-milky-way-yellow-light-mountains-starry-sky-hills-summer-beautiful-universe-space-72956059.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starry night | 10 Hours of Space Ambient music">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/3PNkuW8C75A/maxresdefault.jpg' alt='Starry night | 10 Hours of Space Ambient music'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/3PNkuW8C75A/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: BELECO 10x8ft Fabric Galaxy Stars Backdrop Starry ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91p3h1k9egL._AC_UF350,350_QL80_.jpg' alt='Amazon.com: BELECO 10x8ft Fabric Galaxy Stars Backdrop Starry ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91p3h1k9egL._AC_UF350,350_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="635,100+ Star Space Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1509170124/vector/starry-space-night-blue-sky-seamless-pattern.jpg?s=612x612&w=0&k=20&c=YTq7eD2VhYN_P_AP8MA3dO9GknpOaQl8bAxMVnihoP0=' alt='635,100+ Star Space Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1509170124/vector/starry-space-night-blue-sky-seamless-pattern.jpg?s=612x612&w=0&k=20&c=YTq7eD2VhYN_P_AP8MA3dO9GknpOaQl8bAxMVnihoP0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+ Space Pictures & Images [HD] | Download Free Photos on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1464802686167-b939a6910659?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8c3BhY2V8ZW58MHx8MHx8fDA%3D' alt='200+ Space Pictures & Images [HD] | Download Free Photos on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1464802686167-b939a6910659?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8c3BhY2V8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BELECO 20x10ft Fabric Galaxy Stars Backdrop Starry Night Sky Outer Space  Galaxy Backdrop Universe Nebula Photography Background Kids Space Party ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81ulx1Dk+HL._AC_UF1000,1000_QL80_.jpg' alt='BELECO 20x10ft Fabric Galaxy Stars Backdrop Starry Night Sky Outer Space  Galaxy Backdrop Universe Nebula Photography Background Kids Space Party ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="714">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81ulx1Dk+HL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to make Outer Space Starry Sky PROCEDURALLY In Blender 3.5 In 1 Minute">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/EnBpoOfQHLY/hqdefault.jpg' alt='How to make Outer Space Starry Sky PROCEDURALLY In Blender 3.5 In 1 Minute'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/EnBpoOfQHLY/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

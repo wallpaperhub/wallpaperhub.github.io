@@ -1,0 +1,129 @@
+<title>Discover Hrothgar: The Epic King of Beowulf</title>
+                    <meta name="description" content="Explore the legacy of Hrothgar, the noble king of the Danes in Beowulf. Learn about his challenges, heroism, and the timeless themes of honor and loyalty that resonate through this classic tale. Join us in uncovering the story of one of literature's most compelling leaders.">
+                    <meta name="keywords" content="hrothgar">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/hrothgar">
+                            <span itemprop="name">hrothgar</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Hrothgar: The Epic King of Beowulf</h1>
+                <p>Hrothgar, a legendary king from the epic poem Beowulf, rules the Danes with wisdom and strength but faces the menace of Grendel. His character embodies the ideals of leadership and bravery, as he seeks a hero to save his kingdom. Hrothgar's struggles highlight themes of loyalty, honor, and the human condition in a world of chaos.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hrothgar | Beowulf Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/beowulfepic/images/e/ec/Hrothgar.jpg/revision/latest?cb=20210207211905' alt='Hrothgar | Beowulf Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="971">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Beowulf Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/beowulfepic/images/e/ec/Hrothgar.jpg/revision/latest?cb=20210207211905' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hrothgar | Final Fantasy Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/finalfantasy/images/d/d9/FFXIV_Hrothgar_artwork.jpg/revision/latest?cb=20190704045310' alt='Hrothgar | Final Fantasy Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1414">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Final Fantasy Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/finalfantasy/images/d/d9/FFXIV_Hrothgar_artwork.jpg/revision/latest?cb=20190704045310' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A look at the Hrothgar in FINAL FANTASY XIV: Shadowbringers ...">
+                                <img itemprop="contentUrl url" src='https://gh.cdn.sewest.net/assets/ident/news/final-fantasy-xiv-shadowbringers-hrothgar/en_US/hrothgar-ffxiv-shadowbringers.jpg?quality=65' alt='A look at the Hrothgar in FINAL FANTASY XIV: Shadowbringers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Square Enix" />
+                                </span>
+                                <a href='https://gh.cdn.sewest.net/assets/ident/news/final-fantasy-xiv-shadowbringers-hrothgar/en_US/hrothgar-ffxiv-shadowbringers.jpg?quality=65' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Final Fantasy 14: 10 Things You Didn't Know About Hrothgar">
+                                <img itemprop="contentUrl url" src='https://static0.gamerantimages.com/wordpress/wp-content/uploads/2020/06/ff14-hrothgar-race.jpg' alt='Final Fantasy 14: 10 Things You Didn't Know About Hrothgar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Game Rant" />
+                                </span>
+                                <a href='https://static0.gamerantimages.com/wordpress/wp-content/uploads/2020/06/ff14-hrothgar-race.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hrothgar - Final Fantasy XIV: A Realm Reborn (FFXIV) Wiki">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/ffxiv_gamepedia/images/e/ec/Hrothgar.jpg/revision/latest?cb=20190323160456' alt='Hrothgar - Final Fantasy XIV: A Realm Reborn (FFXIV) Wiki'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Final Fantasy XIV - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/ffxiv_gamepedia/images/e/ec/Hrothgar.jpg/revision/latest?cb=20190323160456' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hrothgar - Helions and The Lost : r/ffxiv">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/oxido3s0flr21.png' alt='Hrothgar - Helions and The Lost : r/ffxiv'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1281">
+                                <meta itemprop="height" content="728">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/oxido3s0flr21.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Final Fantasy 14: 10 Things You Didn't Know About Hrothgar">
+                                <img itemprop="contentUrl url" src='https://static0.gamerantimages.com/wordpress/wp-content/uploads/2020/06/final-fantasy-XIV-hrothgar-glasses.jpg' alt='Final Fantasy 14: 10 Things You Didn't Know About Hrothgar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Game Rant" />
+                                </span>
+                                <a href='https://static0.gamerantimages.com/wordpress/wp-content/uploads/2020/06/final-fantasy-XIV-hrothgar-glasses.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hrothgar | Here Be Dragons Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/here-be-dragons/images/e/ec/Hrothgar.jpg/revision/latest?cb=20190829004705' alt='Hrothgar | Here Be Dragons Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="531">
+                                <meta itemprop="height" content="761">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Here Be Dragons Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/here-be-dragons/images/e/ec/Hrothgar.jpg/revision/latest?cb=20190829004705' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gin | Hrothgar (@Gonotokibayo) / X">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/EzO-DHwVoAYMs-X?format=jpg&name=4096x4096' alt='Gin | Hrothgar (@Gonotokibayo) / X'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/EzO-DHwVoAYMs-X?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hrothgar - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Wealhtheow.PNG/220px-Wealhtheow.PNG' alt='Hrothgar - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="282">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Wealhtheow.PNG/220px-Wealhtheow.PNG' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

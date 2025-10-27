@@ -1,0 +1,129 @@
+<title>Discover the Chic World of Juicy Couture</title>
+                    <meta name="description" content="Explore Juicy Couture, the iconic fashion brand famous for its luxe tracksuits and playful designs. Embrace a stylish lifestyle with bold colors and chic trends that blend comfort with high fashion. Perfect for fashion enthusiasts looking to elevate their wardrobe with youthful and vibrant pieces!">
+                    <meta name="keywords" content="what is juicy couture">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/what-is-juicy-couture">
+                            <span itemprop="name">what is juicy couture</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Chic World of Juicy Couture</h1>
+                <p>Juicy Couture is a luxury fashion brand known for its trendy and playful designs, particularly its iconic velour tracksuits. Established in 1997, the brand merges casual chic with high-end fashion, becoming a staple in celebrity wardrobes. With bold colors, stylish embellishments, and a distinct logo, Juicy Couture embodies a youthful and fun lifestyle.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Fate of the Juicy Couture Tracksuit in the Age of Athleisure ...">
+                                <img itemprop="contentUrl url" src='https://media.newyorker.com/photos/5abc02b1dde6dd15f72f3468/master/w_1600%2Cc_limit/Syme-Juicy-Couture_08.jpg' alt='The Fate of the Juicy Couture Tracksuit in the Age of Athleisure ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1379">
+                                <meta itemprop="height" content="1828">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New Yorker" />
+                                </span>
+                                <a href='https://media.newyorker.com/photos/5abc02b1dde6dd15f72f3468/master/w_1600%2Cc_limit/Syme-Juicy-Couture_08.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="About Us | Juicy Couture">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0534/0551/5937/files/JC_Homepage_33Desktop.jpg?v=1633230831' alt='About Us | Juicy Couture'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Juicy Couture" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0534/0551/5937/files/JC_Homepage_33Desktop.jpg?v=1633230831' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Juicy Couture Is Back! 10 Superfans On Why They Can't Quit the ...">
+                                <img itemprop="contentUrl url" src='https://assets.vogue.com/photos/5f9af053fbb8574f720c2efd/master/w_2560%2Cc_limit/00_story.jpg' alt='Juicy Couture Is Back! 10 Superfans On Why They Can't Quit the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vogue" />
+                                </span>
+                                <a href='https://assets.vogue.com/photos/5f9af053fbb8574f720c2efd/master/w_2560%2Cc_limit/00_story.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="OG Big Bling Velour Hoodie">
+                                <img itemprop="contentUrl url" src='http://juicycouture.com/cdn/shop/files/110005366_FREE_LOVE_3.jpg?v=1725026357&width=1024' alt='OG Big Bling Velour Hoodie'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Juicy Couture" />
+                                </span>
+                                <a href='http://juicycouture.com/cdn/shop/files/110005366_FREE_LOVE_3.jpg?v=1725026357&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ganni Teams Up With Juicy Couture for a New Collaboration ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5faef2dbfc8cf9091bd5553c/1721205021413-FZBFZ0NPGQT4GO63FXAW/GANNI_JC_EMMIE+AMERICA_6.jpg' alt='Ganni Teams Up With Juicy Couture for a New Collaboration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="3333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Authentic Brands Group" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5faef2dbfc8cf9091bd5553c/1721205021413-FZBFZ0NPGQT4GO63FXAW/GANNI_JC_EMMIE+AMERICA_6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Fate of the Juicy Couture Tracksuit in the Age of Athleisure ...">
+                                <img itemprop="contentUrl url" src='http://media.newyorker.com/photos/5abbc876c2f2271d6b87a57a/master/pass/Syme-Juicy-Couture_Paris-1.jpg' alt='The Fate of the Juicy Couture Tracksuit in the Age of Athleisure ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1804">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New Yorker" />
+                                </span>
+                                <a href='http://media.newyorker.com/photos/5abbc876c2f2271d6b87a57a/master/pass/Syme-Juicy-Couture_Paris-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="OG Big Bling Velour Hoodie">
+                                <img itemprop="contentUrl url" src='http://juicycouture.com/cdn/shop/files/110005366_LIQUORICE_3_066ee9b7-9cb3-42c1-82eb-f655d1f2fa9e.jpg?v=1725025728&width=1024' alt='OG Big Bling Velour Hoodie'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Juicy Couture" />
+                                </span>
+                                <a href='http://juicycouture.com/cdn/shop/files/110005366_LIQUORICE_3_066ee9b7-9cb3-42c1-82eb-f655d1f2fa9e.jpg?v=1725025728&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Return Of Juicy Couture — Making it in Manhattan">
+                                <img itemprop="contentUrl url" src='http://static1.squarespace.com/static/56c2a124859fd0898f832ec9/56c2a2311d07c0be02c176fa/63efd2eae68d1b141b401da3/1677499415458/JC_01022023_hp3_jpg.jpeg?format=1500w' alt='The Return Of Juicy Couture — Making it in Manhattan'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="773">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Making it in Manhattan" />
+                                </span>
+                                <a href='http://static1.squarespace.com/static/56c2a124859fd0898f832ec9/56c2a2311d07c0be02c176fa/63efd2eae68d1b141b401da3/1677499415458/JC_01022023_hp3_jpg.jpeg?format=1500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Juicy Couture Is Back! 10 Superfans On Why They Can't Quit the ...">
+                                <img itemprop="contentUrl url" src='https://media.vogue.co.uk/photos/5fa12e4d935eb15e95f843df/2:3/w_2560%2Cc_limit/Juicy%2520Tracksuit%2520collage.jpg' alt='Juicy Couture Is Back! 10 Superfans On Why They Can't Quit the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="851">
+                                <meta itemprop="height" content="1277">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="British Vogue" />
+                                </span>
+                                <a href='https://media.vogue.co.uk/photos/5fa12e4d935eb15e95f843df/2:3/w_2560%2Cc_limit/Juicy%2520Tracksuit%2520collage.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="OG Big Bling Velour Hoodie">
+                                <img itemprop="contentUrl url" src='http://juicycouture.com/cdn/shop/files/110005366_ROSE_3.jpg?v=1722356125&width=1024' alt='OG Big Bling Velour Hoodie'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Juicy Couture" />
+                                </span>
+                                <a href='http://juicycouture.com/cdn/shop/files/110005366_ROSE_3.jpg?v=1722356125&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

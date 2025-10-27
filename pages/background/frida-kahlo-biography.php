@@ -1,0 +1,129 @@
+<title>Frida Kahlo: A Life of Passion and Art</title>
+                    <meta name="description" content="Explore the life and artistry of Frida Kahlo, the iconic Mexican painter known for her powerful self-portraits. Discover her struggles, inspirations, and enduring legacy in this concise biography. Learn how her unique style symbolizes resilience and identity.">
+                    <meta name="keywords" content="frida kahlo biography">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/frida-kahlo-biography">
+                            <span itemprop="name">frida kahlo biography</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Frida Kahlo: A Life of Passion and Art</h1>
+                <p>Frida Kahlo, born in 1907 in Mexico, was a renowned artist whose vivid self-portraits reflect her pain and passion. Influenced by Mexican culture and her tumultuous life, including physical challenges and a complex relationship with artist Diego Rivera, Kahlo’s work symbolizes resilience and identity. She passed away in 1954, leaving a lasting legacy.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frida Kahlo - Paintings, Quotes & Art">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/fridakahlo_facts_desktop.jpg' alt='Frida Kahlo - Paintings, Quotes & Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1482">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/fridakahlo_facts_desktop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Frida: A Biography of Frida Kahlo: 9780060085896 ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81ykh7HU-dL._AC_UF1000,1000_QL80_.jpg' alt='Amazon.com: Frida: A Biography of Frida Kahlo: 9780060085896 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="662">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81ykh7HU-dL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frida Kahlo - Paintings, Quotes & Art">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/frida_kahlo_getty_images_451874162.jpg' alt='Frida Kahlo - Paintings, Quotes & Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="901">
+                                <meta itemprop="height" content="973">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/frida_kahlo_getty_images_451874162.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frida: The Biography of Frida Kahlo: Hayden Herrera: Bloomsbury ...">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/bloomsbury-atlas/image/upload/w_568,c_scale,dpr_1.5/jackets/9781526608536.jpg' alt='Frida: The Biography of Frida Kahlo: Hayden Herrera: Bloomsbury ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="852">
+                                <meta itemprop="height" content="1310">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bloomsbury Publishing" />
+                                </span>
+                                <a href='https://res.cloudinary.com/bloomsbury-atlas/image/upload/w_568,c_scale,dpr_1.5/jackets/9781526608536.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frida Kahlo Biography | Worksheet | Education.com">
+                                <img itemprop="contentUrl url" src='https://cdn.education.com/worksheet-image/555192/frida-kahlo-biography-writing-social-2023-01-25.gif' alt='Frida Kahlo Biography | Worksheet | Education.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="301">
+                                <meta itemprop="height" content="390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.education.com" />
+                                </span>
+                                <a href='https://cdn.education.com/worksheet-image/555192/frida-kahlo-biography-writing-social-2023-01-25.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frida: A Biography of Frida Kahlo by Hayden Herrera | Goodreads">
+                                <img itemprop="contentUrl url" src='https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1407108642i/91767.jpg' alt='Frida: A Biography of Frida Kahlo by Hayden Herrera | Goodreads'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="265">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Goodreads" />
+                                </span>
+                                <a href='https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1407108642i/91767.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frida Kahlo - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/0/06/Frida_Kahlo%2C_by_Guillermo_Kahlo.jpg' alt='Frida Kahlo - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1197">
+                                <meta itemprop="height" content="1795">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/0/06/Frida_Kahlo%2C_by_Guillermo_Kahlo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frida: A Biography of Frida Kahlo">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81r54oD-qcL._AC_UF1000,1000_QL80_.jpg' alt='Frida: A Biography of Frida Kahlo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81r54oD-qcL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frida Kahlo Biography">
+                                <img itemprop="contentUrl url" src='https://www.kahlo.org/Frida%20Kahlo%20Biography.jpg?ezimgfmt=ng%3Awebp%2Fngcb2%2Frs%3Adevice%2Frscb2-2' alt='Frida Kahlo Biography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="479">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Frida Kahlo" />
+                                </span>
+                                <a href='https://www.kahlo.org/Frida%20Kahlo%20Biography.jpg?ezimgfmt=ng%3Awebp%2Fngcb2%2Frs%3Adevice%2Frscb2-2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frida Kahlo | Biography, Paintings, Self-Portrait, Accident ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/15/248715-050-AF75EAF9/1931-Frida-Kahlo.jpg' alt='Frida Kahlo | Biography, Paintings, Self-Portrait, Accident ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1225">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/15/248715-050-AF75EAF9/1931-Frida-Kahlo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

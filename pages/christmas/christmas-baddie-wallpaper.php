@@ -1,0 +1,129 @@
+<title>Bold Christmas Baddie Wallpapers for a Fierce Holiday Look</title>
+                    <meta name="description" content="Elevate your holiday spirit with our unique Christmas baddie wallpapers! Perfect for bold individuals, these striking designs bring festive flair while showcasing your fierce style. Explore our collection and make your devices as vibrant as your holiday celebrations!">
+                    <meta name="keywords" content="christmas baddie wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/christmas-baddie-wallpaper">
+                            <span itemprop="name">christmas baddie wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Bold Christmas Baddie Wallpapers for a Fierce Holiday Look</h1>
+                <p>Transform your device this holiday season with our stunning Christmas baddie wallpaper collection! Featuring fierce designs that combine festive cheer with a bold aesthetic, these wallpapers are perfect for anyone who loves to showcase their personality. Stand out this Christmas and celebrate in style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baddie Grinch Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/de/99/53/de99534e9f86e9d2094a250c6adc2e51.jpg' alt='Baddie Grinch Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/de/99/53/de99534e9f86e9d2094a250c6adc2e51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas wallpapers for iPhone - free to download - miss mv">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/c0/24/29/c0242946e467de569cdbcb4610caeeef.jpg' alt='Christmas wallpapers for iPhone - free to download - miss mv'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="305">
+                                <meta itemprop="height" content="381">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/c0/24/29/c0242946e467de569cdbcb4610caeeef.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baddie Christmas Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp14749009.jpg' alt='Baddie Christmas Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1323">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp14749009.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Baddie Christmas ideas | christmas aesthetic, christmas ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/73/d8/ab/73d8abed0308243d4d229c9ffae6df03.jpg' alt='10 Baddie Christmas ideas | christmas aesthetic, christmas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="356">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/73/d8/ab/73d8abed0308243d4d229c9ffae6df03.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baddie Christmas Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp8021589.jpg' alt='Baddie Christmas Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="1295">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp8021589.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/69/09/9d/69099d5c2a7d3a20098491437abe30ce.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="421">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/69/09/9d/69099d5c2a7d3a20098491437abe30ce.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grinch Christmas Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/97/45/50/9745500a82e328ed68e4d5eda55e4c6f.jpg' alt='Grinch Christmas Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/97/45/50/9745500a82e328ed68e4d5eda55e4c6f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PINK CHRISTMAS | Gallery posted by Baddie | Lemon8">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7303380935364690438&index=0&sign=165740e3ce87a6b9f248b32bc78b8415' alt='PINK CHRISTMAS | Gallery posted by Baddie | Lemon8'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7303380935364690438&index=0&sign=165740e3ce87a6b9f248b32bc78b8415' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CHRISTMAS, aesthetic, vibe, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/588/948/HD-wallpaper-christmas-aesthetic-vibe.jpg' alt='CHRISTMAS, aesthetic, vibe, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1426">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/588/948/HD-wallpaper-christmas-aesthetic-vibe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Baddie Christmas ideas | christmas aesthetic, christmas ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/11/96/6e/11966ecfc95afbf0d42320dc7fc1cc7b.jpg' alt='10 Baddie Christmas ideas | christmas aesthetic, christmas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1129">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/11/96/6e/11966ecfc95afbf0d42320dc7fc1cc7b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

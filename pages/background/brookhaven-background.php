@@ -1,0 +1,129 @@
+<title>Explore the Charm of Brookhaven: A Guide to the City</title>
+                    <meta name="description" content="Discover Brookhaven, a picturesque city near Atlanta that combines suburban comfort with urban excitement. From its lush parks to bustling dining scenes, Brookhaven is ideal for families and young professionals seeking a vibrant community lifestyle. Explore what makes Brookhaven truly special!">
+                    <meta name="keywords" content="brookhaven background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/brookhaven-background">
+                            <span itemprop="name">brookhaven background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Charm of Brookhaven: A Guide to the City</h1>
+                <p>Brookhaven is a vibrant city known for its friendly community, beautiful parks, and modern amenities. Located just outside of Atlanta, it offers residents a perfect blend of suburban tranquility and urban convenience. With diverse dining options, excellent schools, and a variety of recreational activities, Brookhaven is an appealing destination for families and young professionals alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Museum | Official Brookhaven Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/official-brookhaven/images/e/e1/Brookhaven_Arts_and_History_Museum.png/revision/latest?cb=20230627075730' alt='Museum | Official Brookhaven Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1360">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Official Brookhaven Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/official-brookhaven/images/e/e1/Brookhaven_Arts_and_History_Museum.png/revision/latest?cb=20230627075730' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brookhaven: A thorough breakdown of one of Roblox's biggest games">
+                                <img itemprop="contentUrl url" src='https://framerusercontent.com/images/Ejqp0kHdZnhkBhr9pk9J3FMwQYs.png' alt='Brookhaven: A thorough breakdown of one of Roblox's biggest games'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1101">
+                                <meta itemprop="height" content="541">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Metakey" />
+                                </span>
+                                <a href='https://framerusercontent.com/images/Ejqp0kHdZnhkBhr9pk9J3FMwQYs.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ArtStation - DevSeries Brookhaven Feature Tank Toy Background">
+                                <img itemprop="contentUrl url" src='https://cdna.artstation.com/p/assets/images/images/071/352/844/large/rin-jones-devseries-brookhaven-feature-tank-toy-background-main-m.jpg?1704990574' alt='ArtStation - DevSeries Brookhaven Feature Tank Toy Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtStation" />
+                                </span>
+                                <a href='https://cdna.artstation.com/p/assets/images/images/071/352/844/large/rin-jones-devseries-brookhaven-feature-tank-toy-background-main-m.jpg?1704990574' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brookhaven   RP">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/95/5b/2a/955b2a77e3c21c40a588a69ac4bf6c6d.jpg' alt='Brookhaven   RP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/95/5b/2a/955b2a77e3c21c40a588a69ac4bf6c6d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brookhaven   RP">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/91/28/f9/9128f9722019650201f50fc11afbcadf.jpg' alt='Brookhaven   RP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/91/28/f9/9128f9722019650201f50fc11afbcadf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bank | Brookhaven Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/brookhaven/images/d/d1/Bank_outside.png/revision/latest/scale-to-width-down/1407?cb=20210919112733' alt='Bank | Brookhaven Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1407">
+                                <meta itemprop="height" content="979">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Brookhaven Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/brookhaven/images/d/d1/Bank_outside.png/revision/latest/scale-to-width-down/1407?cb=20210919112733' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brookhaven motel sign, automotive lighting, magenta, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/558/656/HD-wallpaper-brookhaven-motel-sign-automotive-lighting-magenta.jpg' alt='Brookhaven motel sign, automotive lighting, magenta, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/558/656/HD-wallpaper-brookhaven-motel-sign-automotive-lighting-magenta.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Брокхейвен">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a2/ae/47/a2ae47e96cab067aa5be25a77f6dee5c.jpg' alt='Брокхейвен'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a2/ae/47/a2ae47e96cab067aa5be25a77f6dee5c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brookhaven: A thorough breakdown of one of Roblox's biggest games">
+                                <img itemprop="contentUrl url" src='https://framerusercontent.com/images/o5ZHS1UhLeMSz4O26aLeUmixcM4.png' alt='Brookhaven: A thorough breakdown of one of Roblox's biggest games'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Metakey" />
+                                </span>
+                                <a href='https://framerusercontent.com/images/o5ZHS1UhLeMSz4O26aLeUmixcM4.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Roblox: Brookhaven Codes (June 2023)">
+                                <img itemprop="contentUrl url" src='https://static1.srcdn.com/wordpress/wp-content/uploads/2023/03/roblox-brookhaven-player-character-in-brookhaven-main-square-next-to-fountain-and-sports-car.jpg' alt='Roblox: Brookhaven Codes (June 2023)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Screen Rant" />
+                                </span>
+                                <a href='https://static1.srcdn.com/wordpress/wp-content/uploads/2023/03/roblox-brookhaven-player-character-in-brookhaven-main-square-next-to-fountain-and-sports-car.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

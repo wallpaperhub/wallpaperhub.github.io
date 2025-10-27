@@ -1,0 +1,129 @@
+<title>Demon Slayer Anime Wallpapers: Stunning Designs for Fans</title>
+                    <meta name="description" content="Elevate your device with vibrant "Demon Slayer" anime wallpapers. Find high-quality images of Tanjiro, Nezuko, and more to showcase your fandom. Perfect for mobile users looking to add a personal touch to their screens. Explore our collection and download your favorites today!">
+                    <meta name="keywords" content="anime wallpaper demon slayer">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/demon">
+                            <span itemprop="name">Demon</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/demon/anime-wallpaper-demon-slayer">
+                            <span itemprop="name">anime wallpaper demon slayer</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Demon Slayer Anime Wallpapers: Stunning Designs for Fans</h1>
+                <p>Discover stunning "Demon Slayer" anime wallpapers that bring your favorite characters to life! From Tanjiro's unwavering spirit to Nezuko's fierce determination, these wallpapers offer vibrant visuals that elevate your device's aesthetics. Perfect for any fan looking to showcase their love for this incredible series!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Demon Slayer 4k Live Wallpaper | Anime Live Wallpapers - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/cijyIsxUmNc/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBX4FuTjRqFoUHebgR96VajNFpCLA' alt='Demon Slayer 4k Live Wallpaper | Anime Live Wallpapers - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/cijyIsxUmNc/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBX4FuTjRqFoUHebgR96VajNFpCLA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Demon Slayer Wallpapers Top 20 Demon Slayer Back by ifvuojcjkballs ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ae1b0b13-5877-46dd-b9e6-3c60da271fbf/dfwtqcb-a6967d3f-2ca6-4e54-988c-631cdfad237e.jpg/v1/fill/w_1280,h_720,q_75,strp/demon_slayer_wallpapers___top_20_demon_slayer_back_by_ifvuojcjkballs_dfwtqcb-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvYWUxYjBiMTMtNTg3Ny00NmRkLWI5ZTYtM2M2MGRhMjcxZmJmXC9kZnd0cWNiLWE2OTY3ZDNmLTJjYTYtNGU1NC05ODhjLTYzMWNkZmFkMjM3ZS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.r5ubv17OeufV08PDVeNSGinD3sV778pq9tsXMY2pWvg' alt='Demon Slayer Wallpapers Top 20 Demon Slayer Back by ifvuojcjkballs ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ae1b0b13-5877-46dd-b9e6-3c60da271fbf/dfwtqcb-a6967d3f-2ca6-4e54-988c-631cdfad237e.jpg/v1/fill/w_1280,h_720,q_75,strp/demon_slayer_wallpapers___top_20_demon_slayer_back_by_ifvuojcjkballs_dfwtqcb-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvYWUxYjBiMTMtNTg3Ny00NmRkLWI5ZTYtM2M2MGRhMjcxZmJmXC9kZnd0cWNiLWE2OTY3ZDNmLTJjYTYtNGU1NC05ODhjLTYzMWNkZmFkMjM3ZS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.r5ubv17OeufV08PDVeNSGinD3sV778pq9tsXMY2pWvg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Demon Slayer HD Wallpaper: Nezuko and Tanjiro Unite by Reku@绘仕事 ...">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/102/thumb-1920-1028306.png' alt='Demon Slayer HD Wallpaper: Nezuko and Tanjiro Unite by Reku@绘仕事 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/102/thumb-1920-1028306.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tanjiro, demon slayer, HD phone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/64/f8/1c/64f81c25174fb163068687039d77b46a.jpg' alt='Tanjiro, demon slayer, HD phone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1103">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/64/f8/1c/64f81c25174fb163068687039d77b46a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solve HD-wallpaper-demon-slayer-manga-anime-kny jigsaw puzzle ...">
+                                <img itemprop="contentUrl url" src='https://cdn1.jigidi.com/thumbs/SR6F8ZGU/l' alt='Solve HD-wallpaper-demon-slayer-manga-anime-kny jigsaw puzzle ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="279">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jigidi" />
+                                </span>
+                                <a href='https://cdn1.jigidi.com/thumbs/SR6F8ZGU/l' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nezuko Kamado Wallpaper 4K, Anime girl">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/nezuko-kamado-anime-girl-2048x2048-11937.jpeg' alt='Nezuko Kamado Wallpaper 4K, Anime girl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/nezuko-kamado-anime-girl-2048x2048-11937.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="800+] Demon Slayer Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/demon-slayer-6rwgwm36vv3z9lqh.jpg' alt='800+] Demon Slayer Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1359">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/demon-slayer-6rwgwm36vv3z9lqh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Demon Slayer: Kimetsu no Yaiba Wallpapers (45 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/c/4/1/182302-2160x3840-samsung-4k-demon-slayer-kimetsu-no-yaiba-wallpaper.jpg' alt='Demon Slayer: Kimetsu no Yaiba Wallpapers (45 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/c/4/1/182302-2160x3840-samsung-4k-demon-slayer-kimetsu-no-yaiba-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime wallpaper/art Demon Slayer">
+                                <img itemprop="contentUrl url" src='https://cdnb.artstation.com/p/marketplace/presentation_assets/002/287/663/large/file.jpg?1672352835' alt='Anime wallpaper/art Demon Slayer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtStation" />
+                                </span>
+                                <a href='https://cdnb.artstation.com/p/marketplace/presentation_assets/002/287/663/large/file.jpg?1672352835' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nezuko desktop wallpaper 4k, Demon slayer anime HD, Aesthetic wallpaper,  Cute nezuko background, high resolution wallpaper.">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/48940082/r/il/54ddc6/6046704655/il_340x270.6046704655_spkz.jpg' alt='Nezuko desktop wallpaper 4k, Demon slayer anime HD, Aesthetic wallpaper,  Cute nezuko background, high resolution wallpaper.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="340">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/48940082/r/il/54ddc6/6046704655/il_340x270.6046704655_spkz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

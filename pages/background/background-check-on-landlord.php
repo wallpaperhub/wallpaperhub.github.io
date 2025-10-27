@@ -1,0 +1,129 @@
+<title>Essential Background Check Guide for Future Renters</title>
+                    <meta name="description" content="Learn how to perform a comprehensive background check on your potential landlord. Discover essential steps to assess their reliability, past tenant experiences, and legal history. Ensure a safe and positive renting experience with our expert tips! Perfect for prospective tenants seeking peace of mind.">
+                    <meta name="keywords" content="background check on landlord">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/background-check-on-landlord">
+                            <span itemprop="name">background check on landlord</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Background Check Guide for Future Renters</h1>
+                <p>Conducting a background check on a landlord is crucial for ensuring a positive renting experience. It involves verifying their rental history, reviewing tenant feedback, and checking for any legal issues. A thorough check can help reveal red flags, offering insights into the landlord's reliability and professionalism, ultimately ensuring peace of mind for potential tenants.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Tenant (Renter) Background Check Form - PDF | Word – eForms">
+                                <img itemprop="contentUrl url" src='https://eforms.com/images/2017/07/Tenant-Background-Authorization-Form.png' alt='Free Tenant (Renter) Background Check Form - PDF | Word – eForms'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2550">
+                                <meta itemprop="height" content="3301">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eForms" />
+                                </span>
+                                <a href='https://eforms.com/images/2017/07/Tenant-Background-Authorization-Form.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What's Included In Tenant Background Checks? | SmartMove">
+                                <img itemprop="contentUrl url" src='https://www.mysmartmove.com/blog/what-rental-background-checks-consist-of/_jcr_content/root/pagesection_132356844/columnrow/item_1682370731956/contentcontainer/image_copy.coreimg.jpeg/1688590433333/01-creditreport.jpeg' alt='What's Included In Tenant Background Checks? | SmartMove'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="818">
+                                <meta itemprop="height" content="983">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TransUnion SmartMove" />
+                                </span>
+                                <a href='https://www.mysmartmove.com/blog/what-rental-background-checks-consist-of/_jcr_content/root/pagesection_132356844/columnrow/item_1682370731956/contentcontainer/image_copy.coreimg.jpeg/1688590433333/01-creditreport.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What's Included In Tenant Background Checks? | SmartMove">
+                                <img itemprop="contentUrl url" src='https://www.mysmartmove.com/content/dam/smartmove/blog/feature/00-msm-longform-what-does-a-rental-background-check-consist-of-hero.png' alt='What's Included In Tenant Background Checks? | SmartMove'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TransUnion SmartMove" />
+                                </span>
+                                <a href='https://www.mysmartmove.com/content/dam/smartmove/blog/feature/00-msm-longform-what-does-a-rental-background-check-consist-of-hero.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tenant Background Check | Rental Credit Report for Landlords">
+                                <img itemprop="contentUrl url" src='https://www.american-apartment-owners-association.org/wp-content/themes/salient-child/project/assets/images/old/sample_report.jpg' alt='Tenant Background Check | Rental Credit Report for Landlords'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1149">
+                                <meta itemprop="height" content="1095">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="American Apartment Owners Association" />
+                                </span>
+                                <a href='https://www.american-apartment-owners-association.org/wp-content/themes/salient-child/project/assets/images/old/sample_report.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tenant Background Checks Infographic">
+                                <img itemprop="contentUrl url" src='https://www.realpropertymgt.com/us/en-us/_assets/expert-tips/images/rpm-background-check-infographic.webp' alt='Tenant Background Checks Infographic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1001">
+                                <meta itemprop="height" content="1893">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Real Property Management" />
+                                </span>
+                                <a href='https://www.realpropertymgt.com/us/en-us/_assets/expert-tips/images/rpm-background-check-infographic.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to run a (legal) background check on a tenant">
+                                <img itemprop="contentUrl url" src='https://wp-assets.stessa.com/wp-content/uploads/2023/01/04113049/Screenshot-2023-01-04-at-11.30.29-AM-950x907.png' alt='How to run a (legal) background check on a tenant'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="950">
+                                <meta itemprop="height" content="907">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stessa" />
+                                </span>
+                                <a href='https://wp-assets.stessa.com/wp-content/uploads/2023/01/04113049/Screenshot-2023-01-04-at-11.30.29-AM-950x907.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tenant and Landlord Background Checks: What to Know">
+                                <img itemprop="contentUrl url" src='https://credentialbs.com/wp-content/uploads/2024/05/How-to-do-a-background-check-for-tenants-and-landlords-1024x576.webp' alt='Tenant and Landlord Background Checks: What to Know'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Credential Business Solutions" />
+                                </span>
+                                <a href='https://credentialbs.com/wp-content/uploads/2024/05/How-to-do-a-background-check-for-tenants-and-landlords-1024x576.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to perform & understand tenant background checks | Minut">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/6103ccecafa93ed7a307272d/66683da7c14d57d8b41a8a54_AD_4nXc9DC0ECBGqwRzhT49zHGKQfaE5MRopqsmslTolkmKPBPjh3p97GCvlkKFM6ImYyUE8Qzmo45iU8jsmtIFgJFLlB4hZ8BXeXWuzJHZNflzh0l79EiOpuqGm5Q0fjBkXcLH-pv0zcJQUm4dXdnYLchpsaspD.png' alt='How to perform & understand tenant background checks | Minut'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1248">
+                                <meta itemprop="height" content="916">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Minut" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/6103ccecafa93ed7a307272d/66683da7c14d57d8b41a8a54_AD_4nXc9DC0ECBGqwRzhT49zHGKQfaE5MRopqsmslTolkmKPBPjh3p97GCvlkKFM6ImYyUE8Qzmo45iU8jsmtIFgJFLlB4hZ8BXeXWuzJHZNflzh0l79EiOpuqGm5Q0fjBkXcLH-pv0zcJQUm4dXdnYLchpsaspD.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Tenant Background Check Authorization Form | PDF & Word">
+                                <img itemprop="contentUrl url" src='https://legaltemplates.net/wp-content/uploads/background-check-authorization-form.png' alt='Free Tenant Background Check Authorization Form | PDF & Word'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1700">
+                                <meta itemprop="height" content="2200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Legal Templates" />
+                                </span>
+                                <a href='https://legaltemplates.net/wp-content/uploads/background-check-authorization-form.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Can You Conduct a Tenant Background Check?">
+                                <img itemprop="contentUrl url" src='https://www.clevelandmanagement.com/images/blog/how-can-you-conduct-a-tenant-background-check.jpg' alt='How Can You Conduct a Tenant Background Check?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1444">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Remax Haven Realty" />
+                                </span>
+                                <a href='https://www.clevelandmanagement.com/images/blog/how-can-you-conduct-a-tenant-background-check.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Vibrant Pink Softball Wallpaper Aesthetic for Your Space</title>
+                    <meta name="description" content="Discover the perfect blend of style and sport with pink softball wallpaper aesthetics. Ideal for bedrooms or playrooms, this vibrant design showcases your love for the game while adding a fun touch to your decor. Elevate your space today with our unique wallpaper that celebrates the energy of softball!">
+                    <meta name="keywords" content="pink softball wallpaper aesthetic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/pink-softball-wallpaper-aesthetic">
+                            <span itemprop="name">pink softball wallpaper aesthetic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Pink Softball Wallpaper Aesthetic for Your Space</h1>
+                <p>Transform your space with stunning pink softball wallpaper aesthetics. Perfect for sports enthusiasts or anyone who loves a vibrant color palette, this wallpaper adds a playful yet stylish touch to any room. Whether it's a bedroom, playroom, or sports office, embrace the energy and fun of the game while showcasing your passion for softball!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/97/06/e3/9706e3a0f337c0542fc8ca880ffafc64.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/97/06/e3/9706e3a0f337c0542fc8ca880ffafc64.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Softball Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/7779511/p/f/l/-DDtRl-T5S3I-_zZWQO8zUp4tc6Xvj0OwneZjPOZ-p2WpSDoM25bWg/Softball%2F%2FDirt%20%26%20Bling%2F%2FPink%20-%20Wholecloth%20Cheater%20Quilt.jpg' alt='Pink Softball Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/7779511/p/f/l/-DDtRl-T5S3I-_zZWQO8zUp4tc6Xvj0OwneZjPOZ-p2WpSDoM25bWg/Softball%2F%2FDirt%20%26%20Bling%2F%2FPink%20-%20Wholecloth%20Cheater%20Quilt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coquette Bow Png, Soft Girl Era Png,softball Mom Pink Bow ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/34305714/r/il/58e0e6/5782157110/il_570xN.5782157110_osvz.jpg' alt='Coquette Bow Png, Soft Girl Era Png,softball Mom Pink Bow ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/34305714/r/il/58e0e6/5782157110/il_570xN.5782157110_osvz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cute Softball Pink Poster Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-softball-pink-poster-8meg75e6a1td43ky.jpg' alt='Download Cute Softball Pink Poster Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-softball-pink-poster-8meg75e6a1td43ky.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Softball Stock Illustrations – 596 Pink Softball Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/pink-softball-balls-background-extreme-close-up-american-sport-high-quality-photo-ai-generated-300583875.jpg' alt='Pink Softball Stock Illustrations – 596 Pink Softball Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/pink-softball-balls-background-extreme-close-up-american-sport-high-quality-photo-ai-generated-300583875.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Softball Backgrounds Images – Browse 39,153 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/01/96/12/13/360_F_196121356_O4BwOYkMRTa84gekvwBOPyuSmutW7ZhL.jpg' alt='Softball Backgrounds Images – Browse 39,153 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/01/96/12/13/360_F_196121356_O4BwOYkMRTa84gekvwBOPyuSmutW7ZhL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Softball wallpaper   ❤️✨⭐️✌️  ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/91/74/e7/9174e74e00db6832205d7a1215800e53.jpg' alt='Softball wallpaper   ❤️✨⭐️✌️  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/91/74/e7/9174e74e00db6832205d7a1215800e53.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink baseballs pattern sports pink | Free Photo - rawpixel">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_social_portrait/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAyL3Jhd3BpeGVsX29mZmljZV8yMl9waG90b2dyYXBoeV9vZl9waW5rX2Jhc2ViYWxsc19wYXR0ZXJuX2dsaXN0ZV83MWQyYjBlNC04YTUyLTQ2NjAtYjYzNS1mYWE5OTQzMTgwNmJfMS5qcGc.jpg' alt='Pink baseballs pattern sports pink | Free Photo - rawpixel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="561">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_social_portrait/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAyL3Jhd3BpeGVsX29mZmljZV8yMl9waG90b2dyYXBoeV9vZl9waW5rX2Jhc2ViYWxsc19wYXR0ZXJuX2dsaXN0ZV83MWQyYjBlNC04YTUyLTQ2NjAtYjYzNS1mYWE5OTQzMTgwNmJfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Softball Stock Illustrations – 596 Pink Softball Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/paper-cut-baseball-ball-bat-icon-isolated-pink-background-paper-art-style-vector-paper-cut-baseball-ball-bat-icon-204834851.jpg' alt='Pink Softball Stock Illustrations – 596 Pink Softball Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/paper-cut-baseball-ball-bat-icon-isolated-pink-background-paper-art-style-vector-paper-cut-baseball-ball-bat-icon-204834851.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cute softball background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/85/d4/a0/85d4a05562504495bec7463125c8cb07.jpg' alt='cute softball background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/85/d4/a0/85d4a05562504495bec7463125c8cb07.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

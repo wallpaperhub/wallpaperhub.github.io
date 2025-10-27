@@ -1,0 +1,129 @@
+<title>Vibrant Purple Tie Dye Wallpaper: Elevate Your Space</title>
+                    <meta name="description" content="Explore the beauty of purple tie dye wallpaper to elevate your home decor. This vibrant design adds a unique flair, perfect for accent walls or creative spaces. Capture the essence of artistic charm and make a bold statement in any room. Transform your space effortlessly with this eye-catching decor!">
+                    <meta name="keywords" content="purple tie dye wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/purple-tie-dye-wallpaper">
+                            <span itemprop="name">purple tie dye wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Purple Tie Dye Wallpaper: Elevate Your Space</h1>
+                <p>Transform your space with stunning purple tie dye wallpaper! This eye-catching design adds a unique touch to any room, blending vibrant colors and patterns reminiscent of artistic expression. Perfect for accent walls, bedrooms, or creative spaces, it brings life and positivity to your interior decor. Embrace the trend of playful sophistication!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,900+ Purple Tie Dye Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/614321902/photo/purple-tie-dye-fabric-texture-background.jpg?s=612x612&w=0&k=20&c=bi6uoUTk8VyhzB7x1uLCHgFj9rUQvKn3fucnJ8VdNkQ=' alt='1,900+ Purple Tie Dye Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="409">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/614321902/photo/purple-tie-dye-fabric-texture-background.jpg?s=612x612&w=0&k=20&c=bi6uoUTk8VyhzB7x1uLCHgFj9rUQvKn3fucnJ8VdNkQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black + Pink + Purple Tie-dye Digital Paper Background Texture ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28921914/r/il/0583b0/3586926078/il_fullxfull.3586926078_s3q3.jpg' alt='Black + Pink + Purple Tie-dye Digital Paper Background Texture ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28921914/r/il/0583b0/3586926078/il_fullxfull.3586926078_s3q3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peace Purple">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1716219604/articles/WA0066BU03W_product.jpg' alt='Peace Purple'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hovia" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1716219604/articles/WA0066BU03W_product.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Tie Dye Swirl Spiral Design Pattern Stock Photo - Image ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d3/00/72/d3007222259442b8491fe64c29efdf58.jpg' alt='Colorful Tie Dye Swirl Spiral Design Pattern Stock Photo - Image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="658">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d3/00/72/d3007222259442b8491fe64c29efdf58.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black + Purple Tiedye Swirl Digital Paper Background Texture ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28921914/r/il/fb5ed4/3406273958/il_fullxfull.3406273958_5fje.jpg' alt='Black + Purple Tiedye Swirl Digital Paper Background Texture ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28921914/r/il/fb5ed4/3406273958/il_fullxfull.3406273958_5fje.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art Prints & Printed Wall Decor | Society6">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/51/c3/4c/51c34c86335cc6d2e70569f37c73d30a.jpg' alt='Art Prints & Printed Wall Decor | Society6'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/51/c3/4c/51c34c86335cc6d2e70569f37c73d30a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tie Dye Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20211217/original/pngtree-tie-dye-texture-abstract-pink-purple-background-picture-image_1588694.jpg' alt='Tie Dye Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="857">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20211217/original/pngtree-tie-dye-texture-abstract-pink-purple-background-picture-image_1588694.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Green + Purple Tie-Dye Background — drypdesigns">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/609701bc21f2ee5734517421/1632079139543-9H393I8M1JAL5TFAGY8G/Purple+Green+Tie-Dye+Cover+WM.jpg?format=1500w' alt='Neon Green + Purple Tie-Dye Background — drypdesigns'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1364">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="drypdesigns" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/609701bc21f2ee5734517421/1632079139543-9H393I8M1JAL5TFAGY8G/Purple+Green+Tie-Dye+Cover+WM.jpg?format=1500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Tie Dye Style Purple Pastel iPhone Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-pastel-iphone-sifkwy42uh7xf04i.jpg' alt='Download Tie Dye Style Purple Pastel iPhone Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="969">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-pastel-iphone-sifkwy42uh7xf04i.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Pastel Tie Dye Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/purple-pastel-tie-dye-avip6arw2kvbqzoo.jpg' alt='Purple Pastel Tie Dye Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/purple-pastel-tie-dye-avip6arw2kvbqzoo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

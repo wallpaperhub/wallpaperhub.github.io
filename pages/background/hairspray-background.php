@@ -1,0 +1,129 @@
+<title>“Hairspray: The Evolution of a Styling Essential”</title>
+                    <meta name="description" content="Explore the fascinating history of hairspray, its impact on hairstyling, and its cultural significance, particularly in the hit musical “Hairspray.” Discover how this iconic product has shaped trends and creativity in hair fashion. Perfect for enthusiasts and newcomers alike!">
+                    <meta name="keywords" content="hairspray background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/hairspray-background">
+                            <span itemprop="name">hairspray background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>“Hairspray: The Evolution of a Styling Essential”</h1>
+                <p>Hairspray, a popular hair product, was first developed in the 1960s and quickly became a staple for achieving voluminous, styled hair. Known for its strong hold and flexibility, it revolutionized hairstyling. Hairspray gained cultural significance through music and film, notably the hit musical "Hairspray," celebrating individuality and self-expression.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hairspray Backdrop Projections - Grosh Digital">
+                                <img itemprop="contentUrl url" src='https://www.groshdigital.com/wp-content/uploads/2019/04/Hairspray-projected-backdrop-image.jpg' alt='Hairspray Backdrop Projections - Grosh Digital'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="438">
+                                <meta itemprop="height" content="191">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Grosh Digital" />
+                                </span>
+                                <a href='https://www.groshdigital.com/wp-content/uploads/2019/04/Hairspray-projected-backdrop-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hairspray Scenic Projections | Broadway Media">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/jpEUHgZmDvQ/maxresdefault.jpg' alt='Hairspray Scenic Projections | Broadway Media'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Broadway Media" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/jpEUHgZmDvQ/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Projected Backdrops - Grosh Digital">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/groshdigital/watermark/3207.jpg' alt='Retro Projected Backdrops - Grosh Digital'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Grosh Digital" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/groshdigital/watermark/3207.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hairspray – Grosh Backdrops">
+                                <img itemprop="contentUrl url" src='https://grosh.com/wp-content/uploads/2016/03/Prison_backdrop_ES78751.jpg' alt='Hairspray – Grosh Backdrops'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="374">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Grosh Backdrops" />
+                                </span>
+                                <a href='https://grosh.com/wp-content/uploads/2016/03/Prison_backdrop_ES78751.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hairspray Backdrop Projections - Grosh Digital">
+                                <img itemprop="contentUrl url" src='https://www.groshdigital.com/wp-content/uploads/2019/04/Hairspray_backdrop-projection.jpg' alt='Hairspray Backdrop Projections - Grosh Digital'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="10417">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Grosh Digital" />
+                                </span>
+                                <a href='https://www.groshdigital.com/wp-content/uploads/2019/04/Hairspray_backdrop-projection.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Corny Collins Show – Grosh Backdrops">
+                                <img itemprop="contentUrl url" src='https://grosh.com/wp-content/uploads/Corny-Collins-Show_backdrop-ES8190-fullsize-scaled.jpg' alt='Corny Collins Show – Grosh Backdrops'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1109">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Grosh Backdrops" />
+                                </span>
+                                <a href='https://grosh.com/wp-content/uploads/Corny-Collins-Show_backdrop-ES8190-fullsize-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Theatre Thursdays: Hairspray | Lady Geek Girl and Friends">
+                                <img itemprop="contentUrl url" src='https://ladygeekgirl.wordpress.com/wp-content/uploads/2013/12/harispray-hairspray-490391_1024_768.jpg' alt='Theatre Thursdays: Hairspray | Lady Geek Girl and Friends'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lady Geek Girl and Friends - WordPress.com" />
+                                </span>
+                                <a href='https://ladygeekgirl.wordpress.com/wp-content/uploads/2013/12/harispray-hairspray-490391_1024_768.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Backdrop IN 066-SS Hairspray Retro TV Studio Interior">
+                                <img itemprop="contentUrl url" src='http://www.backdropsfantastic.com/backdrop_images/300's/IN-066-SS-Hairspray-Retro-TV-Studio-Stylized.jpg' alt='Backdrop IN 066-SS Hairspray Retro TV Studio Interior'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="682">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backdrops Fantastic" />
+                                </span>
+                                <a href='http://www.backdropsfantastic.com/backdrop_images/300's/IN-066-SS-Hairspray-Retro-TV-Studio-Stylized.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Musical Backdrop Artwork: Hairspray - The Education Shop">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-5xebt25/images/stencil/original/products/9434/28550/mba002-01__53203.1557467566.png?c=2' alt='Musical Backdrop Artwork: Hairspray - The Education Shop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Education Shop" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-5xebt25/images/stencil/original/products/9434/28550/mba002-01__53203.1557467566.png?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Analysis of Songs and Themes in "Hairspray"">
+                                <img itemprop="contentUrl url" src='https://www.liveabout.com/thmb/ruujiLWBGD0QkS0-nrH8voyoC6Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Hairspray-poster-5c50b4c8c9e77c0001859aa1.jpg' alt='Analysis of Songs and Themes in "Hairspray"'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1135">
+                                <meta itemprop="height" content="757">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LiveAbout" />
+                                </span>
+                                <a href='https://www.liveabout.com/thmb/ruujiLWBGD0QkS0-nrH8voyoC6Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Hairspray-poster-5c50b4c8c9e77c0001859aa1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

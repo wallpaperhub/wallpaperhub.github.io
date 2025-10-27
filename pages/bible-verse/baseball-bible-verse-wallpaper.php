@@ -1,0 +1,129 @@
+<title>Baseball Bible Verse Wallpapers: Inspiration at a Glance</title>
+                    <meta name="description" content="Discover uplifting baseball bible verse wallpapers that blend your love for the game with inspirational scripture. Perfect for any device, these wallpapers serve as daily reminders of faith, hope, and dedication. Download yours today to stay inspired both on and off the field!">
+                    <meta name="keywords" content="baseball bible verse wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bible-verse">
+                            <span itemprop="name">Bible Verse</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bible-verse/baseball-bible-verse-wallpaper">
+                            <span itemprop="name">baseball bible verse wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Baseball Bible Verse Wallpapers: Inspiration at a Glance</h1>
+                <p>Transform your passion for baseball and faith with our inspiring baseball bible verse wallpaper! Perfect for your phone or computer, these beautifully designed wallpapers feature uplifting quotes from scripture. They serve as daily reminders of hope, strength, and perseverance on and off the field. Bring your love for the game and your spirituality together!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Baseball Portrait Boys Room Decor - Christian Art Photo - Scripture  Bible Verse Phillipians 4:13 - Coach Gift">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/7228959/r/il/5011ab/394290859/il_fullxfull.394290859_2qmz.jpg' alt='Vintage Baseball Portrait Boys Room Decor - Christian Art Photo - Scripture  Bible Verse Phillipians 4:13 - Coach Gift'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/7228959/r/il/5011ab/394290859/il_fullxfull.394290859_2qmz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christian Baseball Decor PRINTABLE Baseball Bible Verse Frame ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/23256000/r/il/7e4ab6/5865286207/il_300x300.5865286207_hmzj.jpg' alt='Christian Baseball Decor PRINTABLE Baseball Bible Verse Frame ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/23256000/r/il/7e4ab6/5865286207/il_300x300.5865286207_hmzj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Baseball Christian Verses Philippians 4:13 Motivational Personalized  Name Number Poster & Framed Canvas, Wall Art Home Office Decoration Living  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/817xK4+jm8L.jpg' alt='Custom Baseball Christian Verses Philippians 4:13 Motivational Personalized  Name Number Poster & Framed Canvas, Wall Art Home Office Decoration Living  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/817xK4+jm8L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Single Baseball Black and White Portrait Boys Room Decor -  Christian Art Photo - Scripture Bible Verse Phillipians 4:13 - Coach Gift">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/7228959/r/il/8f6b10/523213645/il_fullxfull.523213645_1di0.jpg' alt='Vintage Single Baseball Black and White Portrait Boys Room Decor -  Christian Art Photo - Scripture Bible Verse Phillipians 4:13 - Coach Gift'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/7228959/r/il/8f6b10/523213645/il_fullxfull.523213645_1di0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1st Corinthians15 verse 10 with Baseball Theme by Barb Dalton">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/1st-corinthians15-verse-10-with-baseball-theme-barbara-dalton.jpg' alt='1st Corinthians15 verse 10 with Baseball Theme by Barb Dalton'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="581">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Barb Dalton - Pixels" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/1st-corinthians15-verse-10-with-baseball-theme-barbara-dalton.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100 Jesus & Baseball ideas | baseball, baseball quotes, sports quotes">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/b5/bd/38/b5bd38d8413aaac527c9e496d83bfd17.jpg' alt='100 Jesus & Baseball ideas | baseball, baseball quotes, sports quotes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="235">
+                                <meta itemprop="height" content="353">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/b5/bd/38/b5bd38d8413aaac527c9e496d83bfd17.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Christian Baseball Wall Art Boys Room Decor Scripture Sports  Canvas Prints Painting Inspirational Motivational Quotes Pictures Framed  Men ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/A1VE1zNFRaL.jpg' alt='Amazon.com: Christian Baseball Wall Art Boys Room Decor Scripture Sports  Canvas Prints Painting Inspirational Motivational Quotes Pictures Framed  Men ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1991">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/A1VE1zNFRaL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christian SVG, Philippians 4:13 Svg, Baseball svg, inspirational svg, bible  verse svg, christian svg, biblical svg, scriptures SVG">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/24050405/r/il/4cb308/3383139795/il_fullxfull.3383139795_a8ug.jpg' alt='Christian SVG, Philippians 4:13 Svg, Baseball svg, inspirational svg, bible  verse svg, christian svg, biblical svg, scriptures SVG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2110">
+                                <meta itemprop="height" content="1690">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/24050405/r/il/4cb308/3383139795/il_fullxfull.3383139795_a8ug.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100 Jesus & Baseball ideas | baseball, baseball quotes, sports quotes">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/78/09/80/7809801171c7730a87d79a5949d6ff9a.jpg' alt='100 Jesus & Baseball ideas | baseball, baseball quotes, sports quotes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="177">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/78/09/80/7809801171c7730a87d79a5949d6ff9a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scripture Art Isaiah 41:13 Baseball - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/65/57/44/655744883adbfeca6c67b03401e429e6.jpg' alt='Scripture Art Isaiah 41:13 Baseball - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="713">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/65/57/44/655744883adbfeca6c67b03401e429e6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

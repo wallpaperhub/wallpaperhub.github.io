@@ -1,0 +1,129 @@
+<title>Buzzing Beauty: Stunning Bee Wallpapers for Your Phone</title>
+                    <meta name="description" content="Explore a vibrant collection of bee wallpaper for your phone. Perfect for nature lovers, these stunning designs bring a touch of the outdoors to your device. Customize your screen with beautiful bee motifs that inspire a love for wildlife and nature! Download your favorite design today!">
+                    <meta name="keywords" content="bee wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/bee-wallpaper-phone">
+                            <span itemprop="name">bee wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Buzzing Beauty: Stunning Bee Wallpapers for Your Phone</h1>
+                <p>Transform your phone with stunning bee wallpaper that brings nature to your screen! Choose from vibrant designs featuring buzzing bees in beautiful florals, making your device uniquely yours. Perfect for bee lovers and nature enthusiasts, these wallpapers not only enhance your phone's aesthetics but also inspire a love for the environment!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Best Bee Wallpaper ideas | bee art, bee, wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/7f/57/89/7f5789a3221899cd5dc92207b76e3eb2.jpg' alt='7 Best Bee Wallpaper ideas | bee art, bee, wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/7f/57/89/7f5789a3221899cd5dc92207b76e3eb2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Bee Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/bee-iphone-tz877c9lw8tu9n10.jpg' alt='100+] Bee Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/bee-iphone-tz877c9lw8tu9n10.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bee Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e6/a2/2f/e6a22fb18e4f0c166aa4ea80dc534d56.jpg' alt='Bee Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e6/a2/2f/e6a22fb18e4f0c166aa4ea80dc534d56.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="COOL PHONE WALLPAPERS 4">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7b/b1/e9/7bb1e9a200142b02ffa7de6bfaba3747.jpg' alt='COOL PHONE WALLPAPERS 4'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7b/b1/e9/7bb1e9a200142b02ffa7de6bfaba3747.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD honey bee wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/593/947/HD-wallpaper-bee-background-bees-honey-honeycomb-orange-thumbnail.jpg' alt='HD honey bee wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/593/947/HD-wallpaper-bee-background-bees-honey-honeycomb-orange-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bee Phone Background by GachaFerretDoesArt on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1df09b39-43ab-408d-b18c-1fa94cb9f592/df0plh8-d61a988e-4139-445a-9e07-820d1ff16261.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFkZjA5YjM5LTQzYWItNDA4ZC1iMThjLTFmYTk0Y2I5ZjU5MlwvZGYwcGxoOC1kNjFhOTg4ZS00MTM5LTQ0NWEtOWUwNy04MjBkMWZmMTYyNjEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.XkwL2rX9r5Ew-Ek9YlLHkKCKOKXThRRDh2ZYkNTC1cg' alt='Bee Phone Background by GachaFerretDoesArt on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1181">
+                                <meta itemprop="height" content="1748">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1df09b39-43ab-408d-b18c-1fa94cb9f592/df0plh8-d61a988e-4139-445a-9e07-820d1ff16261.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFkZjA5YjM5LTQzYWItNDA4ZC1iMThjLTFmYTk0Y2I5ZjU5MlwvZGYwcGxoOC1kNjFhOTg4ZS00MTM5LTQ0NWEtOWUwNy04MjBkMWZmMTYyNjEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.XkwL2rX9r5Ew-Ek9YlLHkKCKOKXThRRDh2ZYkNTC1cg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Best Bee Wallpaper ideas | bee art, bee, wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/2b/b6/43/2bb64332766833584ad64778cb34c901.jpg' alt='7 Best Bee Wallpaper ideas | bee art, bee, wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/2b/b6/43/2bb64332766833584ad64778cb34c901.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Animal Bee Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/594/thumb-594719.jpg' alt='Download Animal Bee Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="356">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mobile Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/594/thumb-594719.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD black bee wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/439/693/HD-wallpaper-bee-minimal-apple-black-honey-iphone-iphonex-white-yellow-thumbnail.jpg' alt='HD black bee wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="751">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/439/693/HD-wallpaper-bee-minimal-apple-black-honey-iphone-iphonex-white-yellow-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Digital Hand Illustrated Minimal Bee Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18316887/r/il/964553/4697629399/il_fullxfull.4697629399_9j9v.jpg' alt='Cute Digital Hand Illustrated Minimal Bee Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2483">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18316887/r/il/964553/4697629399/il_fullxfull.4697629399_9j9v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

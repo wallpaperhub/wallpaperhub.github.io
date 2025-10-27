@@ -1,0 +1,129 @@
+<title>Clown Aesthetic Wallpaper: Brighten Your Space!</title>
+                    <meta name="description" content="Discover the joy of clown aesthetic wallpaper! Bring whimsy and color to your space with vibrant designs perfect for any room. Ideal for kids or playful decor enthusiasts, these wallpapers add a touch of fun and nostalgia. Enhance your walls with a delightful clown theme today!">
+                    <meta name="keywords" content="clown aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/clown-aesthetic-wallpaper">
+                            <span itemprop="name">clown aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Clown Aesthetic Wallpaper: Brighten Your Space!</h1>
+                <p>Brighten your space with clown aesthetic wallpaper! This playful design combines vibrant colors, whimsical patterns, and nostalgic elements, perfect for expressing creativity and joy. Ideal for kids’ rooms or anyone wanting to add a whimsical touch, these wallpapers evoke a sense of fun and nostalgia. Transform your walls today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Clown Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/clown-balloon-illustration-fau3mw1q974hztyu.jpg' alt='100+] Clown Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1175">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/clown-balloon-illustration-fau3mw1q974hztyu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="clowncore">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/46/a0/e9/46a0e9b19ef5a9d5440a8f02a3bf4263.jpg' alt='clowncore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/46/a0/e9/46a0e9b19ef5a9d5440a8f02a3bf4263.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here We Go Again Clown Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/here-we-go-again-clown-8n5ozwnfa9sfc8l7.jpg' alt='Here We Go Again Clown Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/here-we-go-again-clown-8n5ozwnfa9sfc8l7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="clowncore wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/67/32/7b/67327b2181f3d977ada183cf8f9591e0.jpg' alt='clowncore wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="334">
+                                <meta itemprop="height" content="722">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/67/32/7b/67327b2181f3d977ada183cf8f9591e0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Colorful Clown Pattern Fabric.jpg Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/colorful-clown-pattern-fabric-jpg-kd5dmeyifnjv6j2s.jpg' alt='Download Colorful Clown Pattern Fabric.jpg Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/colorful-clown-pattern-fabric-jpg-kd5dmeyifnjv6j2s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/75/56/84/755684fe8accc4b5954d805596da73f4.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/75/56/84/755684fe8accc4b5954d805596da73f4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clown With Red Balloon Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/clown-with-red-balloon-raj6sbpivny8l512.jpg' alt='Clown With Red Balloon Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/clown-with-red-balloon-raj6sbpivny8l512.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clownin' around —   Clowncore wallpapers made by me using Canva!   ">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/ca8410a60696bb693d7c7cf67449b4fb/f36db842533a7832-d4/s540x810/9a0d409bb4f93242247fa4582051292f38cd38f2.png' alt='Clownin' around —   Clowncore wallpapers made by me using Canva!   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="456">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Clownin' around - Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/ca8410a60696bb693d7c7cf67449b4fb/f36db842533a7832-d4/s540x810/9a0d409bb4f93242247fa4582051292f38cd38f2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="clowncore wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1b/97/2d/1b972dc82b1c07ce07732afa2c78a2ce.jpg' alt='clowncore wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1221">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1b/97/2d/1b972dc82b1c07ce07732afa2c78a2ce.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check out mvvnprincess's Shuffles Clowncore #wallpaper #vibes ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/c2/b3/e6/c2b3e6cd8545bdd4b93aa76ada3267a3.jpg' alt='Check out mvvnprincess's Shuffles Clowncore #wallpaper #vibes ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shuffles" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/c2/b3/e6/c2b3e6cd8545bdd4b93aa76ada3267a3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

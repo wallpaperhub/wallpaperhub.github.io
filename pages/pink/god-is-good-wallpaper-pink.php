@@ -1,0 +1,129 @@
+<title>Beautiful "God is Good" Pink Wallpaper Collection</title>
+                    <meta name="description" content="Discover our stunning pink "God is Good" wallpapers, designed to inspire and uplift. Perfect for any device, these wallpapers combine faith and beauty, bringing positivity to your daily routine. Download now to enhance your screen with love and motivation!">
+                    <meta name="keywords" content="god is good wallpaper pink">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/god-is-good-wallpaper-pink">
+                            <span itemprop="name">god is good wallpaper pink</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful "God is Good" Pink Wallpaper Collection</h1>
+                <p>Celebrate positivity with our "God is Good" pink wallpapers! Perfect for your phone or desktop, these uplifting designs bring a touch of faith and beauty to your screen. Whether you’re looking for motivation or peace, our collection will inspire hope every time you unlock your device. Download and adorn your screens today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GOD IS GOOD">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/50/e8/b6/50e8b6732069db58bdabe8e865336523.jpg' alt='GOD IS GOOD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/50/e8/b6/50e8b6732069db58bdabe8e865336523.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christian wallpaper aesthetic calm">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e1/c3/82/e1c3821f61d7c4a7777ac04f638201c5.jpg' alt='Christian wallpaper aesthetic calm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e1/c3/82/e1c3821f61d7c4a7777ac04f638201c5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="God is good">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/e9/0f/06/e90f06b67bbe59b31743d65609ad6dd3.jpg' alt='God is good'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1282">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/e9/0f/06/e90f06b67bbe59b31743d65609ad6dd3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="God is Good Pink - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/47501566/r/il/fb3235/5700958233/il_fullxfull.5700958233_e3pr.jpg' alt='God is Good Pink - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1640">
+                                <meta itemprop="height" content="2360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/47501566/r/il/fb3235/5700958233/il_fullxfull.5700958233_e3pr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Preppy Christian Wall Decor - God Is Good Aesthetic Wall Decor for  Women, Woman, Teen Girls - Vintage Retro Religious Gifts - Funky Chic Home  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51z0uMEfPQL._AC_UF894,1000_QL80_.jpg' alt='Pink Preppy Christian Wall Decor - God Is Good Aesthetic Wall Decor for  Women, Woman, Teen Girls - Vintage Retro Religious Gifts - Funky Chic Home  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="674">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51z0uMEfPQL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download God Is Good Against Pink Clouds Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/god-is-good-52nsit5ujcbkqafn.jpg' alt='Download God Is Good Against Pink Clouds Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/god-is-good-52nsit5ujcbkqafn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Pink God Is Good All The Time Quote Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-god-is-good-all-the-time-quote-rce9nxt6xp20x69s.jpg' alt='Download Pink God Is Good All The Time Quote Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-god-is-good-all-the-time-quote-rce9nxt6xp20x69s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/32/68/88/32688864a370723e13f10fc51cafc470.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/32/68/88/32688864a370723e13f10fc51cafc470.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Pink God Is Good Stars Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/god-is-good-n6v42mw3xumcfte4.jpg' alt='Download Pink God Is Good Stars Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="998">
+                                <meta itemprop="height" content="1829">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/god-is-good-n6v42mw3xumcfte4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GOD IS GOOD!!       ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f9/2a/50/f92a50ca7b8d4dc2478f8949f5aace96.jpg' alt='GOD IS GOOD!!       '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f9/2a/50/f92a50ca7b8d4dc2478f8949f5aace96.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

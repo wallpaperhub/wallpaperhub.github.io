@@ -1,0 +1,129 @@
+<title>Manga Phone Wallpapers: Fresh, Stylish & Unique</title>
+                    <meta name="description" content="Discover a stunning collection of manga phone wallpapers! Express your fandom with vibrant designs that personalize your device. Perfect for anime enthusiasts, these wallpapers will transform your phone into a masterpiece. Explore now for the best selection tailored for every manga lover!">
+                    <meta name="keywords" content="manga phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/manga-phone-wallpaper">
+                            <span itemprop="name">manga phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Manga Phone Wallpapers: Fresh, Stylish & Unique</h1>
+                <p>Manga phone wallpapers bring your favorite characters and scenes to life right on your screen. With a variety of styles from action-packed to heartwarming moments, there's a wallpaper for every fan. Enhance your device's aesthetic and show off your love for manga with vibrant, high-quality images that inspire creativity and nostalgia.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wanted a manga panel phone wallpaper so made one from my favorite ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/lkbbot9jx8n61.jpg' alt='Wanted a manga panel phone wallpaper so made one from my favorite ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="950">
+                                <meta itemprop="height" content="2074">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/lkbbot9jx8n61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A quick phone wallpaper based on my favorite panel from the manga ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/a-quick-phone-wallpaper-based-on-my-favorite-panel-from-the-v0-x0hi3zwris991.jpg?width=640&crop=smart&auto=webp&s=4434d4d52db78f761f39bed553f3e303beffb763' alt='A quick phone wallpaper based on my favorite panel from the manga ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/a-quick-phone-wallpaper-based-on-my-favorite-panel-from-the-v0-x0hi3zwris991.jpg?width=640&crop=smart&auto=webp&s=4434d4d52db78f761f39bed553f3e303beffb763' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Manga, aesthetic, emo, grunge, manga, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/756/954/HD-wallpaper-manga-aesthetic-emo-grunge-manga.jpg' alt='Manga, aesthetic, emo, grunge, manga, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1756">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/756/954/HD-wallpaper-manga-aesthetic-emo-grunge-manga.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made a few phone wallpapers from some of the manga : r/gachiakuta">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/made-a-few-phone-wallpapers-from-some-of-the-manga-v0-iz0xlv3vmxnd1.jpg?width=1236&format=pjpg&auto=webp&s=374cfe100a0767beb0845ab9f51ae0139e7e0b59' alt='Made a few phone wallpapers from some of the manga : r/gachiakuta'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1236">
+                                <meta itemprop="height" content="2676">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/made-a-few-phone-wallpapers-from-some-of-the-manga-v0-iz0xlv3vmxnd1.jpg?width=1236&format=pjpg&auto=webp&s=374cfe100a0767beb0845ab9f51ae0139e7e0b59' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="jujutsu kaisen wallpaper. | Anime lock screen wallpapers, Anime ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/23/92/ed/2392edec5ba1037f4d5dc3c59a098700.jpg' alt='jujutsu kaisen wallpaper. | Anime lock screen wallpapers, Anime ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="423">
+                                <meta itemprop="height" content="906">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/23/92/ed/2392edec5ba1037f4d5dc3c59a098700.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My favourite Manga Panel as a Phone screen background! : r/OnePiece">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/my-favourite-manga-panel-as-a-phone-screen-background-v0-bl319x39w45c1.jpg?width=1179&format=pjpg&auto=webp&s=29be98145113ae972e1c25009c5719ab49797140' alt='My favourite Manga Panel as a Phone screen background! : r/OnePiece'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1179">
+                                <meta itemprop="height" content="2556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/my-favourite-manga-panel-as-a-phone-screen-background-v0-bl319x39w45c1.jpg?width=1179&format=pjpg&auto=webp&s=29be98145113ae972e1c25009c5719ab49797140' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Manga Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/manga-iphone-e0godvnot7jlm108.jpg' alt='100+] Manga Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/manga-iphone-e0godvnot7jlm108.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vagabond Background | WhatsPaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ca/e0/bf/cae0bff30017e67eebd74e749fdac706.jpg' alt='Vagabond Background | WhatsPaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ca/e0/bf/cae0bff30017e67eebd74e749fdac706.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made some Yoshioka-themed phone wallpapers : r/vagabondmanga">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/tdd4c68j0of91.png?width=640&crop=smart&auto=webp&s=9551a97764da331a541ad3ee88d2fbf4350628eb' alt='I made some Yoshioka-themed phone wallpapers : r/vagabondmanga'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/tdd4c68j0of91.png?width=640&crop=smart&auto=webp&s=9551a97764da331a541ad3ee88d2fbf4350628eb' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chainsaw man, anime, chainsaw, chainsawman, manga, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/941/799/HD-wallpaper-chainsaw-man-anime-chainsaw-chainsawman-manga.jpg' alt='Chainsaw man, anime, chainsaw, chainsawman, manga, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1244">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/941/799/HD-wallpaper-chainsaw-man-anime-chainsaw-chainsawman-manga.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

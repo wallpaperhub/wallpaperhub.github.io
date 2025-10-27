@@ -1,0 +1,129 @@
+<title>Vibrant Pumpkin Screen Wallpapers for Autumn Aesthetics</title>
+                    <meta name="description" content="Discover stunning pumpkin screen wallpapers that bring the warmth of autumn to your devices. Perfect for adding a festive touch to your screens, these vibrant designs celebrate the season beautifully. Download now and transform your wallpaper into a fall masterpiece!">
+                    <meta name="keywords" content="pumpkin screen wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/pumpkin-screen-wallpaper">
+                            <span itemprop="name">pumpkin screen wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Pumpkin Screen Wallpapers for Autumn Aesthetics</h1>
+                <p>Transform your device with vibrant pumpkin screen wallpaper! Perfect for autumn enthusiasts, these wallpapers feature stunning pumpkin designs that capture the essence of the season. Whether you're into spooky vibes for Halloween or cozy fall aesthetics, there's a perfect wallpaper waiting for you. Make your screen come alive!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Downloadable Pumpkin Wallpaper — Lily Morello">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5c5b6d69c2ff61712d6f1c8c/1602799007106-7Q7UKX88OBETJ2E1S2LF/LilyMorello_Wallpaper003_PumpkinPatch.JPG' alt='Downloadable Pumpkin Wallpaper — Lily Morello'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2270">
+                                <meta itemprop="height" content="4032">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lily Morello" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5c5b6d69c2ff61712d6f1c8c/1602799007106-7Q7UKX88OBETJ2E1S2LF/LilyMorello_Wallpaper003_PumpkinPatch.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pumpkin Background" Images – Browse 11,376 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/35/03/28/360_F_535032862_NrcTpknzSD630h0PlE5p9YXolHECiBYo.jpg' alt='Pumpkin Background" Images – Browse 11,376 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="541">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/35/03/28/360_F_535032862_NrcTpknzSD630h0PlE5p9YXolHECiBYo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Pumpkin Desktop Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/44948919/r/il/5d8a5a/5336977813/il_570xN.5336977813_8061.jpg' alt='Fall Pumpkin Desktop Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="321">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/44948919/r/il/5d8a5a/5336977813/il_570xN.5336977813_8061.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="400+] Pumpkin Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pumpkin-halloween-artwork-8o623b9juodfqf7b.jpg' alt='400+] Pumpkin Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1176">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pumpkin-halloween-artwork-8o623b9juodfqf7b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shades of Blue Pumpkin Desktop Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/47238209/r/il/94e36a/5408751087/il_570xN.5408751087_cgp3.jpg' alt='Shades of Blue Pumpkin Desktop Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="321">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/47238209/r/il/94e36a/5408751087/il_570xN.5408751087_cgp3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Pirateer | Fun pumpkin patches near you!">
+                                <img itemprop="contentUrl url" src='https://thepirateer.com/wp-content/uploads/2022/09/pumpkin-patch-desktop-wallpaper-5653-5939-hd-wallpapers.jpg' alt='The Pirateer | Fun pumpkin patches near you!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1501">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Pirateer" />
+                                </span>
+                                <a href='https://thepirateer.com/wp-content/uploads/2022/09/pumpkin-patch-desktop-wallpaper-5653-5939-hd-wallpapers.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download wallpaper 1920x1080 pumpkin, harvest, autumn, ripe ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d0/23/cd/d023cd6cb5bf20c158cacbf53eedcb98.jpg' alt='Download wallpaper 1920x1080 pumpkin, harvest, autumn, ripe ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d0/23/cd/d023cd6cb5bf20c158cacbf53eedcb98.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hand-drawn pumpkins stacked playfully by a cobblestone path ...">
+                                <img itemprop="contentUrl url" src='https://s.widget-club.com/images/YyiR86zpwIMIfrCZoSs4ulVD9RF3/1ea3c698e74a49d0db9c7e80cedae1d8/bdb01e982ec30a4f3245197efca18176.jpg?q=50&w=720' alt='Hand-drawn pumpkins stacked playfully by a cobblestone path ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="411">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper App by WidgetClub" />
+                                </span>
+                                <a href='https://s.widget-club.com/images/YyiR86zpwIMIfrCZoSs4ulVD9RF3/1ea3c698e74a49d0db9c7e80cedae1d8/bdb01e982ec30a4f3245197efca18176.jpg?q=50&w=720' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="October Desktop and Mobile Wallpaper - sonrisastudio.com">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b7/01/48/b701489b36be3e0a57924d695f88da11.jpg' alt='October Desktop and Mobile Wallpaper - sonrisastudio.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="491">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b7/01/48/b701489b36be3e0a57924d695f88da11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Harvest Pumpkins | Haxnicks">
+                                <img itemprop="contentUrl url" src='http://www.haxnicks.co.uk/cdn/shop/articles/grow-at-home-how-to-harvest-pumpkins-is-my-pumpkin-ripe.jpg?crop=center&height=1200&v=1604320002&width=1200' alt='How To Harvest Pumpkins | Haxnicks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Haxnicks" />
+                                </span>
+                                <a href='http://www.haxnicks.co.uk/cdn/shop/articles/grow-at-home-how-to-harvest-pumpkins-is-my-pumpkin-ripe.jpg?crop=center&height=1200&v=1604320002&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

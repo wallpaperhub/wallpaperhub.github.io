@@ -1,0 +1,129 @@
+<title>Stunning iPhone Wallpaper Blur Backgrounds</title>
+                    <meta name="description" content="Discover the perfect iPhone wallpaper blur background to elevate your device's style. Enjoy a blend of vibrant designs that enhance your screen while keeping app icons clear. Download and personalize your iPhone today with our amazing collection!">
+                    <meta name="keywords" content="iphone wallpaper blur background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-wallpaper-blur-background">
+                            <span itemprop="name">iphone wallpaper blur background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning iPhone Wallpaper Blur Backgrounds</h1>
+                <p>Transform your iPhone with stunning wallpaper blur backgrounds. These stylish designs not only elevate your device's aesthetics but also enhance readability by softening app icons. Choose from a variety of colors and patterns to express your personality while keeping your screen looking sleek. Explore endless options today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Mountain Sunrise Gradation Blur Background iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/37/f4/dd/37f4dd0ca81e8b0938697edb9f50aff5.jpg' alt='Abstract Mountain Sunrise Gradation Blur Background iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/37/f4/dd/37f4dd0ca81e8b0938697edb9f50aff5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="City Blurry Neon iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e5/24/2a/e5242afd5ab5498392c364cfaa4244a4.jpg' alt='City Blurry Neon iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e5/24/2a/e5242afd5ab5498392c364cfaa4244a4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD blur iphone wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/567/864/HD-wallpaper-blur-iphone-blurred-thumbnail.jpg' alt='HD blur iphone wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/567/864/HD-wallpaper-blur-iphone-blurred-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Balloon Blur Background iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/16/08/8c/16088cc6eab29966db96ffced572bd26.jpg' alt='Balloon Blur Background iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/16/08/8c/16088cc6eab29966db96ffced572bd26.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IPhoney, 929, apple, blur, color, cool, iphone, live, new, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/356/124/HD-wallpaper-iphoney-929-apple-blur-color-cool-iphone-live-new.jpg' alt='IPhoney, 929, apple, blur, color, cool, iphone, live, new, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/356/124/HD-wallpaper-iphoney-929-apple-blur-color-cool-iphone-live-new.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="City Blue Day Gradation Blur Background iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/f4/05/4c/f4054c454c1d3dfb32a56a37bf16c4ca.jpg' alt='City Blue Day Gradation Blur Background iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/f4/05/4c/f4054c454c1d3dfb32a56a37bf16c4ca.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Ios 15 Blurry Colours Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/ios-15-blurry-colours-l7ps1azcv4ylx7w0.jpg' alt='Download Ios 15 Blurry Colours Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/ios-15-blurry-colours-l7ps1azcv4ylx7w0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grey Blur Simple Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/grey-blur-simple-iphone-mnzvd1uyyoeqslf5.jpg' alt='Grey Blur Simple Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/grey-blur-simple-iphone-mnzvd1uyyoeqslf5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blur iPhone, Blurred, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/304/240/HD-wallpaper-blur-iphone-blurred.jpg' alt='Blur iPhone, Blurred, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/304/240/HD-wallpaper-blur-iphone-blurred.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why are my wallpapers being blurred out at the top with ios17? I ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/why-are-my-wallpapers-being-blurred-out-at-the-top-with-v0-p4svx3z2aipb1.jpg?width=1170&format=pjpg&auto=webp&s=c1f8b6a4f405aa88f7c5573a806558dfe378ad6a' alt='Why are my wallpapers being blurred out at the top with ios17? I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/why-are-my-wallpapers-being-blurred-out-at-the-top-with-v0-p4svx3z2aipb1.jpg?width=1170&format=pjpg&auto=webp&s=c1f8b6a4f405aa88f7c5573a806558dfe378ad6a' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

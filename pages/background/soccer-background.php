@@ -1,0 +1,129 @@
+<title>Discover the Rich History of Soccer</title>
+                    <meta name="description" content="Explore soccer's fascinating history, from its ancient origins to its rise as a global phenomenon. Learn about the evolution of the game, key milestones, and its impact on cultures worldwide. Perfect for fans and newcomers alike!">
+                    <meta name="keywords" content="soccer background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/soccer-background">
+                            <span itemprop="name">soccer background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Rich History of Soccer</h1>
+                <p>Soccer, known as football in most of the world, has roots dating back to ancient civilizations. The modern game emerged in the 19th century in England, evolving from various forms of football. Today, it's the world's most popular sport, captivating millions with its blend of skill, strategy, and teamwork in stadiums and homes alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soccer Background Images – Browse 918,781 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/88/68/21/360_F_288682192_Mi7iUPqCtj8XJ0UDgeRw2IVgRW5rmG2z.jpg' alt='Soccer Background Images – Browse 918,781 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/88/68/21/360_F_288682192_Mi7iUPqCtj8XJ0UDgeRw2IVgRW5rmG2z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soccer ball at the kickoff Wall Mural Wallpaper | Canvas Art Rocks">
+                                <img itemprop="contentUrl url" src='https://us.canvasartrocks.com/cdn/shop/products/Soccer_ball_at_the_kickoff_Wall_Mural_Wallpaper_a_1400x.jpg?v=1735833801' alt='Soccer ball at the kickoff Wall Mural Wallpaper | Canvas Art Rocks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canvas Art Rocks" />
+                                </span>
+                                <a href='https://us.canvasartrocks.com/cdn/shop/products/Soccer_ball_at_the_kickoff_Wall_Mural_Wallpaper_a_1400x.jpg?v=1735833801' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Underwater Soccer Ball Splash Wallpaper - 160W x 100H inches ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e1/3f/5a/e13f5a0049efda546cb42e7875b48556.jpg' alt='Underwater Soccer Ball Splash Wallpaper - 160W x 100H inches ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e1/3f/5a/e13f5a0049efda546cb42e7875b48556.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soccer Field Background Images – Browse 341,342 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/17/36/11/360_F_417361125_RnrhT3Np0zB0UpeD7QlwuOoyghEGGjBX.jpg' alt='Soccer Field Background Images – Browse 341,342 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/17/36/11/360_F_417361125_RnrhT3Np0zB0UpeD7QlwuOoyghEGGjBX.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="190,236 Soccer Background Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/burning-soccer-ball-abstract-background-bright-powerful-lightnings-strike-73466052.jpg' alt='190,236 Soccer Background Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/burning-soccer-ball-abstract-background-bright-powerful-lightnings-strike-73466052.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soccer Stadium Field Backdrop Modern Football Stadium with Fans Green Grass  Field Photography Background Sports Club Fitness Match Backdrops ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71E2D+xPa4L._AC_UF894,1000_QL80_.jpg' alt='Soccer Stadium Field Backdrop Modern Football Stadium with Fans Green Grass  Field Photography Background Sports Club Fitness Match Backdrops ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71E2D+xPa4L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7x5ft Soccer Football Championship Backdrop Sports Ball Goals Penalty Kick  Concept Photography Background Gate Soccer Ball On Stadium Illustration ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71qPo6GpnSL._AC_UF894,1000_QL80_.jpg' alt='7x5ft Soccer Football Championship Backdrop Sports Ball Goals Penalty Kick  Concept Photography Background Gate Soccer Ball On Stadium Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="660">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71qPo6GpnSL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soccer Stadium Wall Mural">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/231357/Soccer-Stadium-Mural-Wallpaper.jpg?v=638164878343570000' alt='Soccer Stadium Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="2398">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/231357/Soccer-Stadium-Mural-Wallpaper.jpg?v=638164878343570000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soccer backgrounds 2025">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/ab/b3/18/abb318cf754dff60f32dfe1e234004b2.jpg' alt='Soccer backgrounds 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/ab/b3/18/abb318cf754dff60f32dfe1e234004b2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soccer Background Images – Browse 918,781 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/06/55/71/14/360_F_655711401_rxxCSr01bVOsDDQhEPejmQoR3WjmxC0Q.jpg' alt='Soccer Background Images – Browse 918,781 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/06/55/71/14/360_F_655711401_rxxCSr01bVOsDDQhEPejmQoR3WjmxC0Q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

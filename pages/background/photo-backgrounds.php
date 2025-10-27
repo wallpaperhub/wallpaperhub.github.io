@@ -1,0 +1,129 @@
+<title>Perfect Photo Backgrounds: Enhance Your Images</title>
+                    <meta name="description" content="Discover the importance of photo backgrounds! Learn how to choose the perfect backdrop to enhance your images, create stunning visuals, and tell your story. Explore tips for selecting colors and textures that complement your subject for optimal impact.">
+                    <meta name="keywords" content="photo backgrounds">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/photo-backgrounds">
+                            <span itemprop="name">photo backgrounds</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Perfect Photo Backgrounds: Enhance Your Images</h1>
+                <p>Photo backgrounds play a crucial role in photography, enhancing the subject and setting the mood. From nature landscapes to urban scenes, the right background can transform an ordinary image into a stunning visual story. Choose colors and textures that complement your subject for a captivating photo every time.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Amazing Backgrounds For All Your Projects | Photoroom">
+                                <img itemprop="contentUrl url" src='https://storyblok-cdn.photoroom.com/f/191576/768x432/ba1ffaa6d8/christmas_backgrounds_cover_2x.webp' alt='Free Amazing Backgrounds For All Your Projects | Photoroom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photoroom" />
+                                </span>
+                                <a href='https://storyblok-cdn.photoroom.com/f/191576/768x432/ba1ffaa6d8/christmas_backgrounds_cover_2x.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Or Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/053/826/756/small/a-dark-room-with-a-wall-and-a-tree-in-the-background-free-photo.jpg' alt='Background Or Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="357">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/053/826/756/small/a-dark-room-with-a-wall-and-a-tree-in-the-background-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Amazing Backgrounds For All Your Projects | Photoroom">
+                                <img itemprop="contentUrl url" src='https://storyblok-cdn.photoroom.com/f/191576/768x432/0f78fe60a2/colors-backgrounds-cover.webp' alt='Free Amazing Backgrounds For All Your Projects | Photoroom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photoroom" />
+                                </span>
+                                <a href='https://storyblok-cdn.photoroom.com/f/191576/768x432/0f78fe60a2/colors-backgrounds-cover.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="City Background Photos, Download The BEST Free City Background ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1707820/pexels-photo-1707820.jpeg?cs=srgb&dl=pexels-misael-garcia-832776-1707820.jpg&fm=jpg' alt='City Background Photos, Download The BEST Free City Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="5760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1707820/pexels-photo-1707820.jpeg?cs=srgb&dl=pexels-misael-garcia-832776-1707820.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Background Pictures Stock Photos, Images and Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/029/470/675/small_2x/ai-generated-ai-generative-purple-pink-color-sunset-evening-nature-outdoor-lake-with-mountains-landscape-background-graphic-art-photo.jpg' alt='Beautiful Background Pictures Stock Photos, Images and Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/029/470/675/small_2x/ai-generated-ai-generative-purple-pink-color-sunset-evening-nature-outdoor-lake-with-mountains-landscape-background-graphic-art-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Premiere Backgrounds Stock Illustrations – 65 Green Premiere ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/stunning-k-gold-light-effects-green-overlay-cinematic-backgrounds-video-editing-creative-projects-unleash-breathtaking-353712520.jpg' alt='Green Premiere Backgrounds Stock Illustrations – 65 Green Premiere ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="572">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/stunning-k-gold-light-effects-green-overlay-cinematic-backgrounds-video-editing-creative-projects-unleash-breathtaking-353712520.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Make Your Screen Stand Out with Free Background Images! · Pexels ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1590549/pexels-photo-1590549.jpeg?cs=srgb&dl=pexels-iriser-1590549.jpg&fm=jpg' alt='Make Your Screen Stand Out with Free Background Images! · Pexels ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="6000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1590549/pexels-photo-1590549.jpeg?cs=srgb&dl=pexels-iriser-1590549.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="550+ Photo Background Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1516617442634-75371039cb3a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGhvdG8lMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww' alt='550+ Photo Background Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4507">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1516617442634-75371039cb3a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGhvdG8lMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Backgrounds Portrait Blue Photography Backdrop for Studio DHP">
+                                <img itemprop="contentUrl url" src='https://www.dbackdrop.com/cdn/shop/products/DHP-6761516723757_2.jpg?v=1622280370&width=850' alt='Abstract Backgrounds Portrait Blue Photography Backdrop for Studio DHP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="566">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dbackdrop" />
+                                </span>
+                                <a href='https://www.dbackdrop.com/cdn/shop/products/DHP-6761516723757_2.jpg?v=1622280370&width=850' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6x8FT Spring Scenery Photography Backgrounds Outdoor Garden Colorful  Flowers Blossoms Green Natural Scenic Backdrop Banner Wood Floor Photo  Booth ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/516bbJtddLL._AC_UF894,1000_QL80_.jpg' alt='6x8FT Spring Scenery Photography Backgrounds Outdoor Garden Colorful  Flowers Blossoms Green Natural Scenic Backdrop Banner Wood Floor Photo  Booth ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="666">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/516bbJtddLL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

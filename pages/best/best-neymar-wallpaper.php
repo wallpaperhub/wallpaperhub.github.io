@@ -1,0 +1,129 @@
+<title>Stunning Neymar Wallpapers for Every Fan</title>
+                    <meta name="description" content="Explore top Neymar wallpapers to personalize your device. From striking action shots to artistic designs, find the perfect image that captures Neymar's essence. Ideal for soccer fans seeking to enhance their device's look with vibrant, high-quality wallpapers. Download your favorites now!">
+                    <meta name="keywords" content="best neymar wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/best">
+                            <span itemprop="name">Best</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/best/best-neymar-wallpaper">
+                            <span itemprop="name">best neymar wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Neymar Wallpapers for Every Fan</h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neymar, barcelona, brazil, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/350/290/HD-wallpaper-neymar-barcelona-brazil.jpg' alt='Neymar, barcelona, brazil, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1510">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/350/290/HD-wallpaper-neymar-barcelona-brazil.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="130 NEYMAR ideas | neymar, neymar jr, neymar jr wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7a/7a/0a/7a7a0ab81fda0e567d9bdd00bbe74b9c.jpg' alt='130 NEYMAR ideas | neymar, neymar jr, neymar jr wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="692">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7a/7a/0a/7a7a0ab81fda0e567d9bdd00bbe74b9c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neymar Wallpaper | WhatsPaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0b/fd/74/0bfd74ce49b587e899e2349ad03e9a3c.jpg' alt='Neymar Wallpaper | WhatsPaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0b/fd/74/0bfd74ce49b587e899e2349ad03e9a3c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What are the Best Neymar Wallpapers?">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/neymar-iphone-kmmt1b6tkpd2sdlw.jpg' alt='What are the Best Neymar Wallpapers?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1281">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DHgate" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/neymar-iphone-kmmt1b6tkpd2sdlw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neymar Jr Wallpaper Projects :: Photos, videos, logos ...">
+                                <img itemprop="contentUrl url" src='https://mir-s3-cdn-cf.behance.net/projects/404/8d373b104564221.Y3JvcCwxNDQwLDExMjYsMCw3MTY.png' alt='Neymar Jr Wallpaper Projects :: Photos, videos, logos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="404">
+                                <meta itemprop="height" content="316">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Behance" />
+                                </span>
+                                <a href='https://mir-s3-cdn-cf.behance.net/projects/404/8d373b104564221.Y3JvcCwxNDQwLDExMjYsMCw3MTY.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stunning Neymar 4K Photos - Cool Neymar Wallpapers 2024">
+                                <img itemprop="contentUrl url" src='https://img.tripi.vn/cdn-cgi/image/width=700,height=700/https://gcs.tripi.vn/public-tripi/tripi-feed/img/474260dsc/anh-cau-thu-neymar-mang-ao-so-10-ngau-dep_033627576.jpg' alt='Stunning Neymar 4K Photos - Cool Neymar Wallpapers 2024'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="394">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mytour" />
+                                </span>
+                                <a href='https://img.tripi.vn/cdn-cgi/image/width=700,height=700/https://gcs.tripi.vn/public-tripi/tripi-feed/img/474260dsc/anh-cau-thu-neymar-mang-ao-so-10-ngau-dep_033627576.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neymar Jr wallpaper by julliapc - Download on ZEDGE™ | 6f81">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/18/da/47/18da471a3fc08dcf08837cdb90ef5f0f.jpg' alt='Neymar Jr wallpaper by julliapc - Download on ZEDGE™ | 6f81'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/18/da/47/18da471a3fc08dcf08837cdb90ef5f0f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neymar In Black Jersey, neymar, black jersey, footballer, sports ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/581/699/HD-wallpaper-neymar-in-black-jersey-neymar-black-jersey-footballer-sports-athlete.jpg' alt='Neymar In Black Jersey, neymar, black jersey, footballer, sports ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/581/699/HD-wallpaper-neymar-in-black-jersey-neymar-black-jersey-footballer-sports-athlete.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art Wallpaper Neymar Greeting Card">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/medium/3/art-wallpaper-neymar-rena-reni.jpg' alt='Art Wallpaper Neymar Greeting Card'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="393">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fine Art America" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/medium/3/art-wallpaper-neymar-rena-reni.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="130 NEYMAR ideas | neymar, neymar jr, neymar jr wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7e/c7/a0/7ec7a0265cd0bfba5abd73d0356aab76.jpg' alt='130 NEYMAR ideas | neymar, neymar jr, neymar jr wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1329">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7e/c7/a0/7ec7a0265cd0bfba5abd73d0356aab76.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

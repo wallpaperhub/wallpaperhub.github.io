@@ -1,0 +1,129 @@
+<title>Elegant Black Heart Wallpapers for Your iPhone</title>
+                    <meta name="description" content="Explore the collection of elegant black heart wallpapers designed for iPhone users. Elevate your device's aesthetic with unique designs that reflect style and sophistication. Perfect for anyone looking to personalize their smartphone while maintaining a chic look. Download your favorite today!">
+                    <meta name="keywords" content="iphone aesthetic black heart wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart">
+                            <span itemprop="name">Heart</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart/iphone-aesthetic-black-heart-wallpaper">
+                            <span itemprop="name">iphone aesthetic black heart wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Black Heart Wallpapers for Your iPhone</h1>
+                <p>Enhance your iPhone's look with stunning black heart wallpapers that radiate elegance and style. Perfect for those who love a chic aesthetic, these wallpapers blend sophistication with modern design. Download and personalize your device, turning it into a canvas of beauty and individuality, while showcasing your unique taste.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Black Heart Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/vr-black-heart-iphone-cf3k2fs8fb3s7bc4.jpg' alt='100+] Black Heart Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1332">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/vr-black-heart-iphone-cf3k2fs8fb3s7bc4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/59/e9/37/59e937121fc6c0622027e53fe5f6c888.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/59/e9/37/59e937121fc6c0622027e53fe5f6c888.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Heart Aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ac/6b/08/ac6b088ae88c0f2d629034297a5af996.jpg' alt='Black Heart Aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1389">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ac/6b/08/ac6b088ae88c0f2d629034297a5af996.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Black Heart Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/black-heart-lock-iphone-rwht6e5xeq6751ow.jpg' alt='100+] Black Heart Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/black-heart-lock-iphone-rwht6e5xeq6751ow.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="black indie heart wallpaper | Grey wallpaper iphone, Black ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/3b/56/82/3b5682149c9f968e2ebcc4b18b9e2012.jpg' alt='black indie heart wallpaper | Grey wallpaper iphone, Black ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="513">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/3b/56/82/3b5682149c9f968e2ebcc4b18b9e2012.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="black aesthetic blurred heart wallpaper    | Gallery posted by B ...">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7344217699331342854&index=0&sign=7e3b85430847351cf86d1345fb75393e' alt='black aesthetic blurred heart wallpaper    | Gallery posted by B ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="1716">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7344217699331342854&index=0&sign=7e3b85430847351cf86d1345fb75393e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Aesthetic Phone Heart With Crown Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/black-aesthetic-phone-heart-with-crown-k4wahrt9e8amssa2.jpg' alt='Black Aesthetic Phone Heart With Crown Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="976">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/black-aesthetic-phone-heart-with-crown-k4wahrt9e8amssa2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Majestic King With A Black Heart Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/moon-in-black-heart-vf0o33lb38rp9ljq.webp' alt='Majestic King With A Black Heart Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/moon-in-black-heart-vf0o33lb38rp9ljq.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Black Heart Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/minimalist-white-black-heart-iphone-dl7z3rhgnivhote5.jpg' alt='100+] Black Heart Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/minimalist-white-black-heart-iphone-dl7z3rhgnivhote5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ﾟ(ﾟ´ω`ﾟ)ﾟ｡ | Heart iphone wallpaper, Dark wallpaper iphone, Edgy ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/6f/a8/1a/6fa81ae1da5d5063ddccf7f21dbd3a29.jpg' alt='ﾟ(ﾟ´ω`ﾟ)ﾟ｡ | Heart iphone wallpaper, Dark wallpaper iphone, Edgy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/6f/a8/1a/6fa81ae1da5d5063ddccf7f21dbd3a29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning 4K Wallpapers for Windows 11</title>
+                    <meta name="description" content="Discover a curated selection of breathtaking 4K wallpapers tailored for Windows 11. Enhance your desktop with high-resolution visuals that inspire creativity and reflect your personal style. Perfect for any mood, these wallpapers transform your workspace effortlessly. Explore now!">
+                    <meta name="keywords" content="wallpaper 4k windows 11">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/wallpaper-4k-windows-11">
+                            <span itemprop="name">wallpaper 4k windows 11</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Wallpapers for Windows 11</h1>
+                <p>Unlock the full aesthetic potential of your device with stunning 4K wallpapers designed for Windows 11. Explore a diverse collection that showcases vibrant landscapes, abstract art, and serene nature scenes. Elevate your desktop experience and personalize your workspace with high-resolution imagery that brings every detail to life.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 11 Wallpaper 4K, AMOLED, Dark Mode">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/windows-11-dark-mode-abstract-background-black-background-2880x1800-8710.jpg' alt='Windows 11 Wallpaper 4K, AMOLED, Dark Mode'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/windows-11-dark-mode-abstract-background-black-background-2880x1800-8710.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="All Windows 11 Wallpapers [3840x2160] : r/wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/5bwxtq07ny571.jpg' alt='All Windows 11 Wallpapers [3840x2160] : r/wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/5bwxtq07ny571.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Windows 11 4k Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/windows-11-4k-black-logo-0vy8rx8hvd9k0frx.jpg' alt='100+] Windows 11 4k Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/windows-11-4k-black-logo-0vy8rx8hvd9k0frx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 11 Technology 4K Ultra HD Wallpaper by John Xionidis">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/130/1305211.png' alt='Windows 11 Technology 4K Ultra HD Wallpaper by John Xionidis'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/130/1305211.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Windows 11 Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/original-windows-magenta-and-blue-id5tc4a3oeb4w1e6.jpg' alt='200+] Windows 11 Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/original-windows-magenta-and-blue-id5tc4a3oeb4w1e6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 11 4k Dark Blue Wallpaper, HD Hi-Tech 4K Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/87/d4/23/87d423f16ae7bd0402fb4e4883f33ca3.jpg' alt='Windows 11 4k Dark Blue Wallpaper, HD Hi-Tech 4K Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/87/d4/23/87d423f16ae7bd0402fb4e4883f33ca3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 11 Blue Background 4K Wallpaper - Download Free 4K Desktop ...">
+                                <img itemprop="contentUrl url" src='https://www.pixground.com/windows-11-blue-background-4k-wallpaper/?download-img=4k' alt='Windows 11 Blue Background 4K Wallpaper - Download Free 4K Desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixground" />
+                                </span>
+                                <a href='https://www.pixground.com/windows-11-blue-background-4k-wallpaper/?download-img=4k' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 11 Stock 4K Wallpapers">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/waves-windows-11--11760.png' alt='Windows 11 Stock 4K Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/waves-windows-11--11760.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 11 4k Neon Lights Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/windows-11-4k-neon-lights-e7ox2jhhnznmvc5r.jpg' alt='Windows 11 4k Neon Lights Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/windows-11-4k-neon-lights-e7ox2jhhnznmvc5r.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made some 2 more Windows 11 wallpapers (4K) : r/windows">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/m15mmjdypbp71.jpg?width=640&crop=smart&auto=webp&s=723965f521a74a53dc62a37abbb9329f70227f12' alt='I made some 2 more Windows 11 wallpapers (4K) : r/windows'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/m15mmjdypbp71.jpg?width=640&crop=smart&auto=webp&s=723965f521a74a53dc62a37abbb9329f70227f12' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

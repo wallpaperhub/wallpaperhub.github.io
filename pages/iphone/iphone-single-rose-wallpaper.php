@@ -1,0 +1,129 @@
+<title>Stunning Single Rose Wallpapers for Your iPhone</title>
+                    <meta name="description" content="Discover beautiful single rose wallpapers for your iPhone. Perfect for adding a touch of elegance and natural beauty to your device. Explore a variety of colors and styles to personalize your home screen effortlessly. Upgrade your phone's look with these charming and serene designs today!">
+                    <meta name="keywords" content="iphone single rose wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-single-rose-wallpaper">
+                            <span itemprop="name">iphone single rose wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Single Rose Wallpapers for Your iPhone</h1>
+                <p>Elevate your iPhone's aesthetic with stunning single rose wallpapers. These elegant designs capture the delicate beauty of roses, perfect for those who appreciate nature's simplicity. Whether you prefer classic red, soft pink, or vibrant yellow, these wallpapers add a touch of elegance to your screen, creating a serene backdrop for everyday use.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="250 Best Single Rose ideas | rose, beautiful roses, beautiful flowers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/71/b3/53/71b353dad2cbbb84921ebed069b32481.jpg' alt='250 Best Single Rose ideas | rose, beautiful roses, beautiful flowers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/71/b3/53/71b353dad2cbbb84921ebed069b32481.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="750+ Single Rose Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1503135935062-b7d1f5a0690f?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c2luZ2xlJTIwcm9zZXxlbnwwfHwwfHx8MA%3D%3D' alt='750+ Single Rose Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1503135935062-b7d1f5a0690f?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c2luZ2xlJTIwcm9zZXxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="750+ Single Rose Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1578972497170-bfc780c65f65?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8c2luZ2xlJTIwcm9zZXxlbnwwfHwwfHx8MA%3D%3D' alt='750+ Single Rose Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1578972497170-bfc780c65f65?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8c2luZ2xlJTIwcm9zZXxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="One Red Rose Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/one-red-rose-iphone-1fdwcr3jekelu54l.jpg' alt='One Red Rose Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/one-red-rose-iphone-1fdwcr3jekelu54l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant White Rose on Black Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8d/38/87/8d38872710e011ecf9e219aba8c3b76c.jpg' alt='Elegant White Rose on Black Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8d/38/87/8d38872710e011ecf9e219aba8c3b76c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lonely rose, hybrid tea rose, love, single rose, petal, , red rose ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/944/489/HD-wallpaper-lonely-rose-hybrid-tea-rose-love-single-rose-petal-red-rose.jpg' alt='Lonely rose, hybrid tea rose, love, single rose, petal, , red rose ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/944/489/HD-wallpaper-lonely-rose-hybrid-tea-rose-love-single-rose-petal-red-rose.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="49+ Beautiful Rose iPhone Wallpaper (HD Quality)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e1/b0/56/e1b056a08239ca9bbcb98b33ac673355.jpg' alt='49+ Beautiful Rose iPhone Wallpaper (HD Quality)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e1/b0/56/e1b056a08239ca9bbcb98b33ac673355.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download free Exquisite Red Rose Iphone Wallpaper - MrWallpaper.com">
+                                <img itemprop="contentUrl url" src='https://mrwallpaper.com/images/thumbnail/exquisite-red-rose-iphone-gqfjclwpkno6glo8.jpg' alt='Download free Exquisite Red Rose Iphone Wallpaper - MrWallpaper.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrWallpaper" />
+                                </span>
+                                <a href='https://mrwallpaper.com/images/thumbnail/exquisite-red-rose-iphone-gqfjclwpkno6glo8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Single Rose Reflects Beauty And Grace Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/a-single-rose-reflects-beauty-and-grace-shxpbyh0bp6p1iec.jpg' alt='A Single Rose Reflects Beauty And Grace Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/a-single-rose-reflects-beauty-and-grace-shxpbyh0bp6p1iec.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 8 | Single Rose Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/closeup-shot-beautiful-rose_181624-55089.jpg' alt='Page 8 | Single Rose Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="417">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/closeup-shot-beautiful-rose_181624-55089.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Explore Harajuku: A Fashion and Culture Icon</title>
+                    <meta name="description" content="Discover the enchanting world of Harajuku, Tokyo's ultimate destination for fashion and youth culture. Uncover its lively streets, unique styles, and rich history, perfect for fashion lovers and cultural explorers alike. Join the adventure and experience the magic of Harajuku today!">
+                    <meta name="keywords" content="harajuku background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/harajuku-background">
+                            <span itemprop="name">harajuku background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore Harajuku: A Fashion and Culture Icon</h1>
+                <p>Harajuku is a vibrant district in Tokyo, renowned for its unique street fashion and youth culture. Emerging in the 1980s, it became a hotspot for avant-garde styles and subcultures, like kawaii and Gothic Lolita. The area’s colorful shops, eclectic cafés, and artistic vibe attract fashion enthusiasts and tourists from around the globe, making it a cultural epicenter.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harajuku Background: Over 307 Royalty-Free Licensable Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/childish-galaxy-seamless-pattern-roses-260nw-1172148325.jpg' alt='Harajuku Background: Over 307 Royalty-Free Licensable Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/childish-galaxy-seamless-pattern-roses-260nw-1172148325.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harajuku Kawaii Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5e/7b/79/5e7b79fdde84c24e3eafbc3955e6a185.jpg' alt='Harajuku Kawaii Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="589">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5e/7b/79/5e7b79fdde84c24e3eafbc3955e6a185.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Ultimate Guide to Exploring Harajuku, What to See and Do in ...">
+                                <img itemprop="contentUrl url" src='https://thecreativeadventurer.com/wp-content/uploads/2020/01/TheUltimateGuidetoHarajuku21WhattoSee2CEat2CWearandDoinTokyo27sHippestNeighborhood9.jpg' alt='The Ultimate Guide to Exploring Harajuku, What to See and Do in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Creative Adventurer" />
+                                </span>
+                                <a href='https://thecreativeadventurer.com/wp-content/uploads/2020/01/TheUltimateGuidetoHarajuku21WhattoSee2CEat2CWearandDoinTokyo27sHippestNeighborhood9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Exploring the Vibrant Harajuku District of Tokyo ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/harajuku-1920-x-1080-drtqgji41fymfv5q.jpg' alt='Download Exploring the Vibrant Harajuku District of Tokyo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/harajuku-1920-x-1080-drtqgji41fymfv5q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Take a Trip to Tokyo's Harajuku District Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/harajuku-42iuy9i2y9y5xfqp.jpg' alt='Download Take a Trip to Tokyo's Harajuku District Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/harajuku-42iuy9i2y9y5xfqp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harajuku | DENONBU Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/denonbu/images/3/34/Harajuku.jpg/revision/latest?cb=20200917212149' alt='Harajuku | DENONBU Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DENONBU Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/denonbu/images/3/34/Harajuku.jpg/revision/latest?cb=20200917212149' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harajuku Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20220218/pngtree-fantasy-pink-harajuku-background-image_964331.jpg' alt='Harajuku Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="302">
+                                <meta itemprop="height" content="404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20220218/pngtree-fantasy-pink-harajuku-background-image_964331.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Street Art on Harajuku Dori | A night shot of art on the sid… | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/3595/5765970926_0c8cce29b7_b.jpg' alt='Street Art on Harajuku Dori | A night shot of art on the sid… | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/3595/5765970926_0c8cce29b7_b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tokyo Background Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/045/850/215/small/urban-city-bustling-street-with-bright-lights-professionalgraphy-photo.jpg' alt='Tokyo Background Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/045/850/215/small/urban-city-bustling-street-with-bright-lights-professionalgraphy-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harajuku | Kuu Kuu Harajuku Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/kuu-kuu-harajuku/images/f/f3/Harajuku_buildings.png/revision/latest?cb=20161016124451' alt='Harajuku | Kuu Kuu Harajuku Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1179">
+                                <meta itemprop="height" content="663">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kuu Kuu Harajuku Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/kuu-kuu-harajuku/images/f/f3/Harajuku_buildings.png/revision/latest?cb=20161016124451' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

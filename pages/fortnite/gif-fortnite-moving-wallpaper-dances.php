@@ -1,0 +1,129 @@
+<title>Epic Fortnite GIF Dances: Move Your Wallpaper!</title>
+                    <meta name="description" content="Discover vibrant Fortnite GIF wallpapers featuring iconic dance moves! Elevate your device's style with animated backgrounds that showcase your favorite emotes. Perfect for true fans, these moving wallpapers will revitalize your screens and add a fun, dynamic flair. Download yours now!">
+                    <meta name="keywords" content="gif fortnite moving wallpaper dances">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/fortnite">
+                            <span itemprop="name">Fortnite</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/fortnite/gif-fortnite-moving-wallpaper-dances">
+                            <span itemprop="name">gif fortnite moving wallpaper dances</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Fortnite GIF Dances: Move Your Wallpaper!</h1>
+                <p>Transform your gaming experience with Fortnite moving wallpaper dances! These eye-catching GIFs bring your favorite emotes to life, adding a dynamic touch to your screens. Perfect for fans looking to showcase their love for Fortnite, these animated wallpapers are sure to impress friends and elevate your device’s aesthetic!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Dance GIF - Fortnite Dance Kpop - Discover & Share GIFs">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/0a/29/1b/0a291b232b6c659b9da2a7202b6d79d0.gif' alt='Fortnite Dance GIF - Fortnite Dance Kpop - Discover & Share GIFs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="358">
+                                <meta itemprop="height" content="394">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/0a/29/1b/0a291b232b6c659b9da2a7202b6d79d0.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Fortnite Dance GIF - Fortnite Fortnite Dance Fortnite ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/9b/f1/d8/9bf1d8a837e99d1c9161faab26d93ba9.gif' alt='Fortnite Fortnite Dance GIF - Fortnite Fortnite Dance Fortnite ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="494">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/9b/f1/d8/9bf1d8a837e99d1c9161faab26d93ba9.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Gif - IceGif">
+                                <img itemprop="contentUrl url" src='https://www.icegif.com/wp-content/uploads/fortnite-icegif-53.gif' alt='Fortnite Gif - IceGif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="169">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IceGif" />
+                                </span>
+                                <a href='https://www.icegif.com/wp-content/uploads/fortnite-icegif-53.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Take The L Losser Dance GIF - Take The L Losser Dance Fortnite ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/17/8d/5a/178d5a9910548db4ee3ef0f017543545.gif' alt='Take The L Losser Dance GIF - Take The L Losser Dance Fortnite ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="283">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/17/8d/5a/178d5a9910548db4ee3ef0f017543545.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Gif - IceGif">
+                                <img itemprop="contentUrl url" src='https://www.icegif.com/wp-content/uploads/2022/10/icegif-939.gif' alt='Fortnite Gif - IceGif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="638">
+                                <meta itemprop="height" content="584">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IceGif" />
+                                </span>
+                                <a href='https://www.icegif.com/wp-content/uploads/2022/10/icegif-939.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="battle royale dance GIF by Marshmello - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media2.giphy.com/media/X9Gg8hZNa4lxEj3iAN/giphy.gif?cid=6c09b952qum4jupexysyj3vyana34li0i04nydeh9hnzrk82&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' alt='battle royale dance GIF by Marshmello - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media2.giphy.com/media/X9Gg8hZNa4lxEj3iAN/giphy.gif?cid=6c09b952qum4jupexysyj3vyana34li0i04nydeh9hnzrk82&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Dance GIF - Fortnite Dance Dancing - Discover & Share GIFs">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/54/cf/b7/54cfb760a96b8139cd8b6134acc73050.gif' alt='Fortnite Dance GIF - Fortnite Dance Dancing - Discover & Share GIFs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="214">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/54/cf/b7/54cfb760a96b8139cd8b6134acc73050.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Fortnite Dance GIF - Fortnite Fortnite Dance Fortnite Emote -  Discover & Share GIFs">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/gjbq2A5lzDcAAAAM/fortnite-fortnite-dance.gif' alt='Fortnite Fortnite Dance GIF - Fortnite Fortnite Dance Fortnite Emote -  Discover & Share GIFs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/gjbq2A5lzDcAAAAM/fortnite-fortnite-dance.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Gif - IceGif">
+                                <img itemprop="contentUrl url" src='https://www.icegif.com/wp-content/uploads/2022/10/icegif-938.gif' alt='Fortnite Gif - IceGif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IceGif" />
+                                </span>
+                                <a href='https://www.icegif.com/wp-content/uploads/2022/10/icegif-938.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Dance GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/KA7FnxhIaloAAAAM/fortnite-fortnite-dance.gif' alt='Fortnite Dance GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="165">
+                                <meta itemprop="height" content="186">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/KA7FnxhIaloAAAAM/fortnite-fortnite-dance.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

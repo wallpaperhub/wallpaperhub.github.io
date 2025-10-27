@@ -1,0 +1,129 @@
+<title>Stunning Blue and Orange Backgrounds for Eye-Catching Designs</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="blue and orange background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blue-and-orange-background">
+                            <span itemprop="name">blue and orange background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Blue and Orange Backgrounds for Eye-Catching Designs</h1>
+                <p>Blue and orange backgrounds create a vibrant contrast that energizes any design. The coolness of blue harmonizes beautifully with the warm tones of orange, making it a popular choice for websites, graphics, and branding elements. This dynamic pairing can enhance visual interest, evoke emotions, and capture attention effectively.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="39,400+ Orange And Blue Abstract Background Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1370967510/vector/blue-and-orange-defocused-blurred-motion-gradient-abstract-background-vector.jpg?s=612x612&w=0&k=20&c=ti0sRJl75hcUwZLO18TYo0glr1fnrAw9CgkFvOR2Lms=' alt='39,400+ Orange And Blue Abstract Background Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1370967510/vector/blue-and-orange-defocused-blurred-motion-gradient-abstract-background-vector.jpg?s=612x612&w=0&k=20&c=ti0sRJl75hcUwZLO18TYo0glr1fnrAw9CgkFvOR2Lms=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Orange Backgrounds Images – Browse 6,639,598 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/68/13/56/360_F_568135634_r8PaehtZ8gCaYyo3Qkqh7qAjtfznYCYt.jpg' alt='Blue Orange Backgrounds Images – Browse 6,639,598 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="841">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/68/13/56/360_F_568135634_r8PaehtZ8gCaYyo3Qkqh7qAjtfznYCYt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Orange Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/orange-blue-background_181624-715.jpg' alt='Blue Orange Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="417">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/orange-blue-background_181624-715.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Blue And Orange Wave Business Banner Flat Design">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/backgroundabstract.com/wp-content/uploads/edd/2022/02/wavy-shape-business-background-paper-cut-style_1017-33399-e1656068840777.jpg?fit=900%2C514&ssl=1' alt='Abstract Blue And Orange Wave Business Banner Flat Design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="514">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Vector Backgrounds for Download" />
+                                </span>
+                                <a href='https://i0.wp.com/backgroundabstract.com/wp-content/uploads/edd/2022/02/wavy-shape-business-background-paper-cut-style_1017-33399-e1656068840777.jpg?fit=900%2C514&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue And Orange Abstract Background Images, HD Pictures and ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20231231/pngtree-abstract-background-with-watercolor-texture-in-shades-of-blue-and-orange-image_13899501.png' alt='Blue And Orange Abstract Background Images, HD Pictures and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="359">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20231231/pngtree-abstract-background-with-watercolor-texture-in-shades-of-blue-and-orange-image_13899501.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange Blue Background Images – Browse 6,654,788 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/97/66/15/360_F_397661519_oQdsso4bnNLeVRF4RPVROOfrMnuGYi7C.jpg' alt='Orange Blue Background Images – Browse 6,654,788 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/97/66/15/360_F_397661519_oQdsso4bnNLeVRF4RPVROOfrMnuGYi7C.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Orange Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/007/718/271/small/blue-orange-and-white-modern-curve-background-free-vector.jpg' alt='Blue Orange Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="334">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/007/718/271/small/blue-orange-and-white-modern-curve-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Blue And Orange Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/blue-and-orange-background-zv7dpby3moqrv3uq.jpg' alt='100+] Blue And Orange Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/blue-and-orange-background-zv7dpby3moqrv3uq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Blue Orange Geometric Background Vector Stock Vector ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/modern-blue-orange-geometric-background-600w-426905491.jpg' alt='Modern Blue Orange Geometric Background Vector Stock Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="470">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/modern-blue-orange-geometric-background-600w-426905491.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Abstract Geometric Background Minimalist Colorful Blue and ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/004/338/611/non_2x/modern-abstract-geometric-background-minimalist-colorful-blue-and-orange-vector.jpg' alt='Modern Abstract Geometric Background Minimalist Colorful Blue and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/004/338/611/non_2x/modern-abstract-geometric-background-minimalist-colorful-blue-and-orange-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

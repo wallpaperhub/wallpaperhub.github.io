@@ -1,0 +1,129 @@
+<title>Moody Backgrounds: Creating Atmosphere in Art and Design</title>
+                    <meta name="description" content="Explore the world of moody backgrounds in art and design. Learn how to create atmospheric effects that evoke strong emotions and enhance your visual storytelling. Perfect for photographers and designers looking to elevate their work with impactful backdrops.">
+                    <meta name="keywords" content="moody background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/moody-background">
+                            <span itemprop="name">moody background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Moody Backgrounds: Creating Atmosphere in Art and Design</h1>
+                <p>Moody backgrounds set the tone for art, photography, and design, creating an atmosphere that evokes emotions. They can range from dark and dramatic to soft and serene, influencing how viewers connect with the subject. Utilizing rich textures, colors, and lighting, a moody background enhances storytelling and ambiance.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30,000+ Dark Moody Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1606835513524-daa14197bb55?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZGFyayUyMG1vb2R5fGVufDB8fDB8fHww' alt='30,000+ Dark Moody Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4975">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1606835513524-daa14197bb55?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZGFyayUyMG1vb2R5fGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moody Photos, Download The BEST Free Moody Stock Photos & HD Images">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1072179/pexels-photo-1072179.jpeg?cs=srgb&dl=pexels-catiamatos-1072179.jpg&fm=jpg' alt='Moody Photos, Download The BEST Free Moody Stock Photos & HD Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4042">
+                                <meta itemprop="height" content="2695">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1072179/pexels-photo-1072179.jpeg?cs=srgb&dl=pexels-catiamatos-1072179.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moody Photos, Download The BEST Free Moody Stock Photos & HD Images">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/3888585/pexels-photo-3888585.jpeg?cs=srgb&dl=pexels-slendyalex-3888585.jpg&fm=jpg' alt='Moody Photos, Download The BEST Free Moody Stock Photos & HD Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3440">
+                                <meta itemprop="height" content="4592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/3888585/pexels-photo-3888585.jpeg?cs=srgb&dl=pexels-slendyalex-3888585.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30,000+ Moody Wallpaper Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1686050878751-89499d28d153?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bW9vZHklMjB3YWxscGFwZXJ8ZW58MHx8MHx8fDA%3D' alt='30,000+ Moody Wallpaper Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1686050878751-89499d28d153?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bW9vZHklMjB3YWxscGFwZXJ8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 3 | Moody Background Stock Photos, Images and Backgrounds for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/038/934/262/small/ai-generated-white-green-blurred-gradient-on-dark-grainy-background-glowing-light-spot-copy-space-photo.jpg' alt='Page 3 | Moody Background Stock Photos, Images and Backgrounds for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="357">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/038/934/262/small/ai-generated-white-green-blurred-gradient-on-dark-grainy-background-glowing-light-spot-copy-space-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark And Moody Background Images, HD Pictures and Wallpaper For ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20231103/pngtree-moody-shadows-on-dark-vintage-background-texture-wallpaper-image_13801293.png' alt='Dark And Moody Background Images, HD Pictures and Wallpaper For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="359">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20231103/pngtree-moody-shadows-on-dark-vintage-background-texture-wallpaper-image_13801293.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Moody Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/wet-monstera-deliciosa-plant-leaves-garden_53876-139814.jpg' alt='Dark Moody Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/wet-monstera-deliciosa-plant-leaves-garden_53876-139814.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moody Fall Background Stock Photos, Images and Backgrounds for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/048/613/579/small/serene-meadow-nature-background-with-tall-grasses-and-fallen-leaves-free-photo.jpg' alt='Moody Fall Background Stock Photos, Images and Backgrounds for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/048/613/579/small/serene-meadow-nature-background-with-tall-grasses-and-fallen-leaves-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Intense moody dark feel in nature | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dark-nature-1920-x-1080-background-yennt4rx0pq84erb.jpg' alt='Download Intense moody dark feel in nature | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dark-nature-1920-x-1080-background-yennt4rx0pq84erb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30,000+ Dark Moody Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1599056481506-c4975215aff4?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZGFyayUyMG1vb2R5fGVufDB8fDB8fHww' alt='30,000+ Dark Moody Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1599056481506-c4975215aff4?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZGFyayUyMG1vb2R5fGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

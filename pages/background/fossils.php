@@ -1,0 +1,129 @@
+<title>Discovering Fossils: Insights into Earth's History</title>
+                    <meta name="description" content="Explore the fascinating world of fossils! Learn how these ancient remnants provide crucial insights into evolution, past ecosystems, and the age of dinosaurs. Uncover the stories hidden in the rocks and understand our planet's remarkable history in just a few clicks!">
+                    <meta name="keywords" content="fossils">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fossils">
+                            <span itemprop="name">fossils</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discovering Fossils: Insights into Earth's History</h1>
+                <p>Fossils are remnants or traces of ancient life preserved in rock. They provide critical insights into Earth's history, showcasing evolution and past environments. Ranging from bone fragments to imprints of plants, fossils help scientists reconstruct the past, offering a window into the age of dinosaurs, early mammals, and more.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AI breakthrough could revolutionize how we research dinosaur fossils">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/mrbo2ykgx5lt/41689/e026e3544853c5548c12c7784bac5a51/frontiers-earth-science-ai-reconstructing-dinosaur-fossils.jpg?&w=1200&h=630&fm=jpg&f=center' alt='AI breakthrough could revolutionize how we research dinosaur fossils'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1121">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Frontiers" />
+                                </span>
+                                <a href='https://images.ctfassets.net/mrbo2ykgx5lt/41689/e026e3544853c5548c12c7784bac5a51/frontiers-earth-science-ai-reconstructing-dinosaur-fossils.jpg?&w=1200&h=630&fm=jpg&f=center' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fossil - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Fossil_Diversity.png/300px-Fossil_Diversity.png' alt='Fossil - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="219">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Fossil_Diversity.png/300px-Fossil_Diversity.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Quick Guide to Common Fossils — Earth@Home">
+                                <img itemprop="contentUrl url" src='https://earthathome.org/wp-content/uploads/2020/11/Trilobite-Arctinurus_boltoni_3607-2000px.jpg' alt='Quick Guide to Common Fossils — Earth@Home'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Earth@Home" />
+                                </span>
+                                <a href='https://earthathome.org/wp-content/uploads/2020/11/Trilobite-Arctinurus_boltoni_3607-2000px.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fossils | Types and Geologic Period » Geology Science">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/geologyscience.com/wp-content/uploads/2023/01/types-of-fossils.jpg?fit=1920%2C1080&ssl=1' alt='Fossils | Types and Geologic Period » Geology Science'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Geology Science" />
+                                </span>
+                                <a href='https://i0.wp.com/geologyscience.com/wp-content/uploads/2023/01/types-of-fossils.jpg?fit=1920%2C1080&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fossils, Fossils Everywhere! - Fort Collins Museum of Discovery">
+                                <img itemprop="contentUrl url" src='https://fcmod.org/wp-content/uploads/2020/07/shell-219665_1280-e1594960656517.jpg' alt='Fossils, Fossils Everywhere! - Fort Collins Museum of Discovery'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="723">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fort Collins Museum of Discovery" />
+                                </span>
+                                <a href='https://fcmod.org/wp-content/uploads/2020/07/shell-219665_1280-e1594960656517.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fossils - British Geological Survey">
+                                <img itemprop="contentUrl url" src='https://www.bgs.ac.uk/wp-content/uploads/2020/06/feature_ammonite_P885148.jpg' alt='Fossils - British Geological Survey'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="430">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="British Geological Survey" />
+                                </span>
+                                <a href='https://www.bgs.ac.uk/wp-content/uploads/2020/06/feature_ammonite_P885148.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fossil">
+                                <img itemprop="contentUrl url" src='https://images.nationalgeographic.org/image/upload/t_edhub_resource_key_image/v1638889894/EducationHub/photos/pterodactyl-fossil.jpg' alt='Fossil'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="860">
+                                <meta itemprop="height" content="580">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic Education - National Geographic Society" />
+                                </span>
+                                <a href='https://images.nationalgeographic.org/image/upload/t_edhub_resource_key_image/v1638889894/EducationHub/photos/pterodactyl-fossil.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fossils are a link to the past, but how do they form? | Forest ...">
+                                <img itemprop="contentUrl url" src='https://www.reconnectwithnature.org/getmedia/8884d40d-eb4b-4f30-9250-1ce7714a08c5/Dinosaur-fossil-Shutterstock.jpg?width=1500&height=1000&ext=.jpg' alt='Fossils are a link to the past, but how do they form? | Forest ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forest Preserve District of Will County" />
+                                </span>
+                                <a href='https://www.reconnectwithnature.org/getmedia/8884d40d-eb4b-4f30-9250-1ce7714a08c5/Dinosaur-fossil-Shutterstock.jpg?width=1500&height=1000&ext=.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fossil | Definition, Types, Examples, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/75/192575-138-9F155FB0/history-fossils-people-coining-dinosaur.jpg?w=800&h=450&c=crop' alt='Fossil | Definition, Types, Examples, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/75/192575-138-9F155FB0/history-fossils-people-coining-dinosaur.jpg?w=800&h=450&c=crop' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Are Fossils and Where Are They Found the Most? | Discover ...">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/cnu0m8re1exe/7jJoe2rXp4Dy13JKpwpTGI/cb8a0903e20300f04c3fcfbd2d465710/dinosaur-fossil.jpg?fm=jpg&fl=progressive&w=660&h=433&fit=fill' alt='What Are Fossils and Where Are They Found the Most? | Discover ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Discover Magazine" />
+                                </span>
+                                <a href='https://images.ctfassets.net/cnu0m8re1exe/7jJoe2rXp4Dy13JKpwpTGI/cb8a0903e20300f04c3fcfbd2d465710/dinosaur-fossil.jpg?fm=jpg&fl=progressive&w=660&h=433&fit=fill' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

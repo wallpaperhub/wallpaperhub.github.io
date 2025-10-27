@@ -1,0 +1,129 @@
+<title>Vibrant Purple Christmas Wallpapers for iPhone</title>
+                    <meta name="description" content="Discover beautiful purple Christmas wallpapers for your iPhone! Elevate your holiday spirit with stunning designs that combine festive joy with elegant purple hues. Perfect for making your device merry and bright this season. Download your favorite now!">
+                    <meta name="keywords" content="purple christmas wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/purple-christmas-wallpaper-iphone">
+                            <span itemprop="name">purple christmas wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Purple Christmas Wallpapers for iPhone</h1>
+                <p>Transform your iPhone with stunning purple Christmas wallpapers that evoke the spirit of the holiday season. Discover a wide range of beautiful designs, from elegant patterns to festive graphics, all featuring rich purple hues. Perfect for adding a touch of joy and elegance to your device this Christmas!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Christmas Trees Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a1/e2/79/a1e27989a64585f815303cec4417bd7f.jpg' alt='Colorful Christmas Trees Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="604">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a1/e2/79/a1e27989a64585f815303cec4417bd7f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Wallpaper - Christmas tjn">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4b/2b/f6/4b2bf65b8f34c4e4ad6f83b15a52d881.jpg' alt='iPhone Wallpaper - Christmas tjn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4b/2b/f6/4b2bf65b8f34c4e4ad6f83b15a52d881.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Purple Christmas Wallpaper For Winter">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/22/9b/65/229b65b13492b71804c1abb91ba43990.jpg' alt='Cute Purple Christmas Wallpaper For Winter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/22/9b/65/229b65b13492b71804c1abb91ba43990.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Christmas Wallpaper IOS 16 Wallpaper Neutrals Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/06/08/dd/0608dd8d476045408eadd197462052d9.jpg' alt='Aesthetic Christmas Wallpaper IOS 16 Wallpaper Neutrals Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/06/08/dd/0608dd8d476045408eadd197462052d9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Purple Christmas Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp7948656.jpg' alt='iPhone Purple Christmas Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp7948656.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Purple Christmas Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp10385959.jpg' alt='iPhone Purple Christmas Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp10385959.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Pine Tree Christmas Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/purple-pine-tree-christmas-iphone-m9445dp2adoekfkd.jpg' alt='Purple Pine Tree Christmas Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/purple-pine-tree-christmas-iphone-m9445dp2adoekfkd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A Sight of Elegance: Stunning Purple-Themed Christmas ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-christmas-e93xj33t9rhkdgm2.jpg' alt='Download A Sight of Elegance: Stunning Purple-Themed Christmas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-christmas-e93xj33t9rhkdgm2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas ornaments in purple and silver with snowflakes and pine ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/christmas-ornaments-purple-silver-with-snowflakes-pine-branches-lavender-background_1250993-6444.jpg' alt='Christmas ornaments in purple and silver with snowflakes and pine ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="352">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/christmas-ornaments-purple-silver-with-snowflakes-pine-branches-lavender-background_1250993-6444.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/38/f5/a2/38f5a28a4755cd03fa56eca4850841fb.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="719">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/38/f5/a2/38f5a28a4755cd03fa56eca4850841fb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="sean taylor background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sean-taylor-background">
+                            <span itemprop="name">sean taylor background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Sean Taylor Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/sean-taylor-eviolbo1lpt0syrp.jpg' alt='100+] Sean Taylor Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="575">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/sean-taylor-eviolbo1lpt0syrp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="21 Photos Of Sean Taylor">
+                                <img itemprop="contentUrl url" src='https://static.clubs.nfl.com/image/private/t_new_photo_album/redskins/fdhsvqp5pzeg6w81h0rh.jpg' alt='21 Photos Of Sean Taylor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Washington Commanders" />
+                                </span>
+                                <a href='https://static.clubs.nfl.com/image/private/t_new_photo_album/redskins/fdhsvqp5pzeg6w81h0rh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Remembering Sean Taylor's life, impact on NFL">
+                                <img itemprop="contentUrl url" src='https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/zpnew47ux3mgptrj3rwe' alt='Remembering Sean Taylor's life, impact on NFL'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NFL.com" />
+                                </span>
+                                <a href='https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/zpnew47ux3mgptrj3rwe' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Redskins.. Sean Taylor #21 Hail Yeah :)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5c/3f/93/5c3f93a9cb4d9d3f783604ba0422bff3.jpg' alt='Redskins.. Sean Taylor #21 Hail Yeah :)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="299">
+                                <meta itemprop="height" content="499">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5c/3f/93/5c3f93a9cb4d9d3f783604ba0422bff3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Former NFL Star Sean Taylor Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/sean-taylor-mkxxe62z5y8pi5ms.jpg' alt='Download Former NFL Star Sean Taylor Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="819">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/sean-taylor-mkxxe62z5y8pi5ms.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7,795 Sean Taylor Photos & High Res Pictures - Getty Images">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/51941882/photo/landover-md-sean-taylor-of-the-washington-redskins-is-seen-on-the-field-during-the-game-against.jpg?s=612x612&w=gi&k=20&c=E6op9xUb0ZpwplCN73lD7_cCEiTxGy1DC4xZeLm8XJw=' alt='7,795 Sean Taylor Photos & High Res Pictures - Getty Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="413">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/51941882/photo/landover-md-sean-taylor-of-the-washington-redskins-is-seen-on-the-field-during-the-game-against.jpg?s=612x612&w=gi&k=20&c=E6op9xUb0ZpwplCN73lD7_cCEiTxGy1DC4xZeLm8XJw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sean Taylor Wallpaper - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/88/ee/28/88ee28e7bc67942c2066953d1dd25281.jpg' alt='Sean Taylor Wallpaper - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/88/ee/28/88ee28e7bc67942c2066953d1dd25281.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sean Taylor RIP Redskins Computer Background by NicholasReguin on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e1370965-6bc8-485e-a598-9e43f19248df/d5uygff-5da22db0-25c8-4fb1-9055-9fd4e61129cf.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2UxMzcwOTY1LTZiYzgtNDg1ZS1hNTk4LTllNDNmMTkyNDhkZlwvZDV1eWdmZi01ZGEyMmRiMC0yNWM4LTRmYjEtOTA1NS05ZmQ0ZTYxMTI5Y2YuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.SfWZ893P1ElNMDWHcsmeKdfR-GHO7U992-cSyZi7YAQ' alt='Sean Taylor RIP Redskins Computer Background by NicholasReguin on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e1370965-6bc8-485e-a598-9e43f19248df/d5uygff-5da22db0-25c8-4fb1-9055-9fd4e61129cf.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2UxMzcwOTY1LTZiYzgtNDg1ZS1hNTk4LTllNDNmMTkyNDhkZlwvZDV1eWdmZi01ZGEyMmRiMC0yNWM4LTRmYjEtOTA1NS05ZmQ0ZTYxMTI5Y2YuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.SfWZ893P1ElNMDWHcsmeKdfR-GHO7U992-cSyZi7YAQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sean Taylor Birthday">
+                                <img itemprop="contentUrl url" src='https://nationaltoday.com/wp-content/uploads/2022/10/16-Sean-Taylor.jpg' alt='Sean Taylor Birthday'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Today" />
+                                </span>
+                                <a href='https://nationaltoday.com/wp-content/uploads/2022/10/16-Sean-Taylor.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sean Taylor - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/6/67/Sean_Taylor.jpg' alt='Sean Taylor - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="849">
+                                <meta itemprop="height" content="1328">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/6/67/Sean_Taylor.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Discover the Richness of Mexican Culture</title>
+                    <meta name="description" content="Explore the vibrant traditions, art, and cuisine that define Mexico's rich culture. From lively festivals to delicious food, delve into what makes this nation's heritage truly unique and captivating for everyone.">
+                    <meta name="keywords" content="mexico culture">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/mexico-culture">
+                            <span itemprop="name">mexico culture</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Richness of Mexican Culture</h1>
+                <p>Mexico's culture is a vibrant blend of ancient traditions and modern influences. Rich in history, it showcases colorful festivals, unique cuisine, and various art forms like Mariachi music and folk dancing. Elements such as family values and community ties are deeply rooted, making Mexico a captivating destination for cultural enthusiasts.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mexican Culture | Facts About Mexico">
+                                <img itemprop="contentUrl url" src='https://www.facts-about-mexico.com/wp-content/uploads/2022/01/shutterstock-ooo-photography.jpg' alt='Mexican Culture | Facts About Mexico'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1079">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facts About Mexico" />
+                                </span>
+                                <a href='https://www.facts-about-mexico.com/wp-content/uploads/2022/01/shutterstock-ooo-photography.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mexico's Culture Explored - GoinGlobal Blog">
+                                <img itemprop="contentUrl url" src='https://blog.goinglobal.com/wp-content/uploads/2020/12/GoinGlobal-Mexican-Culture-12-2020.jpg' alt='Mexico's Culture Explored - GoinGlobal Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1254">
+                                <meta itemprop="height" content="836">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoinGlobal Blog -" />
+                                </span>
+                                <a href='https://blog.goinglobal.com/wp-content/uploads/2020/12/GoinGlobal-Mexican-Culture-12-2020.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mexico's new culture war: decolonizing or rewriting history? - Los ...">
+                                <img itemprop="contentUrl url" src='https://ca-times.brightspotcdn.com/dims4/default/b3abb04/2147483647/strip/true/crop/4256x2832+0+0/resize/2000x1331!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F01%2Fc8%2F8a8f6c30470897c370671596bc0b%2Fla-ca-mexico-tenochtitlan-anniversary-212.JPG' alt='Mexico's new culture war: decolonizing or rewriting history? - Los ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1331">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Los Angeles Times" />
+                                </span>
+                                <a href='https://ca-times.brightspotcdn.com/dims4/default/b3abb04/2147483647/strip/true/crop/4256x2832+0+0/resize/2000x1331!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F01%2Fc8%2F8a8f6c30470897c370671596bc0b%2Fla-ca-mexico-tenochtitlan-anniversary-212.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mexican culture: A giant guide to heritage, people, arts & more">
+                                <img itemprop="contentUrl url" src='https://images.contentstack.io/v3/assets/bltacc1a01c4d280f24/blt067ab114863528e7/65f3a4035a287def25f2df0b/pexels-photo-14561930.jpg?auto=webp&format=pjpg&quality=80&width=1024&height=768&fit=crop' alt='Mexican culture: A giant guide to heritage, people, arts & more'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Berlitz" />
+                                </span>
+                                <a href='https://images.contentstack.io/v3/assets/bltacc1a01c4d280f24/blt067ab114863528e7/65f3a4035a287def25f2df0b/pexels-photo-14561930.jpg?auto=webp&format=pjpg&quality=80&width=1024&height=768&fit=crop' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Things to Know: Mexico - GoinGlobal Blog">
+                                <img itemprop="contentUrl url" src='https://blog.goinglobal.com/wp-content/uploads/2019/12/iStock-1094681636-min.jpg' alt='10 Things to Know: Mexico - GoinGlobal Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2121">
+                                <meta itemprop="height" content="1414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoinGlobal Blog -" />
+                                </span>
+                                <a href='https://blog.goinglobal.com/wp-content/uploads/2019/12/iStock-1094681636-min.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The 5 most important festivities in Mexico">
+                                <img itemprop="contentUrl url" src='https://static-resources.mirai.com/wp-content/uploads/sites/1738/20230310104427/2.-Dia-Muertos-Fiestas-M%C3%A9xico.jpg' alt='The 5 most important festivities in Mexico'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Princess Hotels" />
+                                </span>
+                                <a href='https://static-resources.mirai.com/wp-content/uploads/sites/1738/20230310104427/2.-Dia-Muertos-Fiestas-M%C3%A9xico.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Not 'Mexican Halloween': Day Of The Dead Events Put Spotlight On ...">
+                                <img itemprop="contentUrl url" src='https://npr.brightspotcdn.com/dims4/default/411c671/2147483647/strip/true/crop/4713x2903+0+224/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fkunc%2Ffiles%2F201811%2Fday_of_the_dead__photo_credit_little_red_photography.jpg' alt='Not 'Mexican Halloween': Day Of The Dead Events Put Spotlight On ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="542">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KUNC" />
+                                </span>
+                                <a href='https://npr.brightspotcdn.com/dims4/default/411c671/2147483647/strip/true/crop/4713x2903+0+224/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fkunc%2Ffiles%2F201811%2Fday_of_the_dead__photo_credit_little_red_photography.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mexico Culture & Traditions | Travel Guide & Custom Tours ...">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/enchanting/q_90,f_auto,c_lfill,g_auto,w_400,h_400/enchanting-web/2023/09/Enchanting-Travels-Mexico-Tours-Mexican-musicians-mariachi-on-the-street-of-Mexico.jpg' alt='Mexico Culture & Traditions | Travel Guide & Custom Tours ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Enchanting Travels" />
+                                </span>
+                                <a href='https://res.cloudinary.com/enchanting/q_90,f_auto,c_lfill,g_auto,w_400,h_400/enchanting-web/2023/09/Enchanting-Travels-Mexico-Tours-Mexican-musicians-mariachi-on-the-street-of-Mexico.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Traditions and Culture in Mexico - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/o3MvHztzucQ/sddefault.jpg' alt='Traditions and Culture in Mexico - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/o3MvHztzucQ/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Mexican Culture | Customs & Traditions">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/8781cf_03c5ba3e06b74eb8ba5abeef63deeb69~mv2_d_4580_3054_s_4_2.jpg/v1/fill/w_980,h_653,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8781cf_03c5ba3e06b74eb8ba5abeef63deeb69~mv2_d_4580_3054_s_4_2.jpg' alt='The Mexican Culture | Customs & Traditions'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="653">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Travers Travels" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/8781cf_03c5ba3e06b74eb8ba5abeef63deeb69~mv2_d_4580_3054_s_4_2.jpg/v1/fill/w_980,h_653,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8781cf_03c5ba3e06b74eb8ba5abeef63deeb69~mv2_d_4580_3054_s_4_2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

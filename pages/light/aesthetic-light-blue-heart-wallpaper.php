@@ -1,0 +1,129 @@
+<title>Aesthetic Light Blue Heart Wallpaper: Perfect for Your Space</title>
+                    <meta name="description" content="Explore our collection of aesthetic light blue heart wallpaper! Ideal for adding a serene touch to any room or device, this charming design combines beauty and tranquility. Perfect for a cozy ambiance and personal expression. Upgrade your aesthetic instantly!">
+                    <meta name="keywords" content="aesthetic light blue heart wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light">
+                            <span itemprop="name">Light</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light/aesthetic-light-blue-heart-wallpaper">
+                            <span itemprop="name">aesthetic light blue heart wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Light Blue Heart Wallpaper: Perfect for Your Space</h1>
+                <p>Discover the beauty of aesthetic light blue heart wallpaper! This soothing and stylish design enhances any room with soft hues and charming heart shapes. Perfect for bedrooms, nurseries, or digital devices, it creates a calming atmosphere. Transform your space and express your personality with this enchanting wallpaper!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue heart aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1b/17/61/1b17618d2bf1ea77289929a1adbfd382.jpg' alt='Blue heart aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="714">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1b/17/61/1b17618d2bf1ea77289929a1adbfd382.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="lock screen wallpaper  ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ea/b1/55/eab155d199a3eaf4ce67614f19680b7d.jpg' alt='lock screen wallpaper  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1172">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ea/b1/55/eab155d199a3eaf4ce67614f19680b7d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="blue heart background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fd/b4/1f/fdb41f7002dd0ac3c091b7b87dca32b7.jpg' alt='blue heart background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fd/b4/1f/fdb41f7002dd0ac3c091b7b87dca32b7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Blue Heart Pattern" Poster for Sale by STAR10008">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/10/7f/a0/107fa0c52430fbac927f66cf5eaffdd5.jpg' alt='Aesthetic Blue Heart Pattern" Poster for Sale by STAR10008'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/10/7f/a0/107fa0c52430fbac927f66cf5eaffdd5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Heart Outline On Cloud Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/blue-heart-outline-on-cloud-yr0tuq6fjzn6wwmi.jpg' alt='Blue Heart Outline On Cloud Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/blue-heart-outline-on-cloud-yr0tuq6fjzn6wwmi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin on wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/d0/ae/93/d0ae93b64c41c62213d40944118e5cae.jpg' alt='Pin on wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="473">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/d0/ae/93/d0ae93b64c41c62213d40944118e5cae.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart On Blue Ocean Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/heart-on-blue-ocean-putv8ijefrhpd7cy.jpg' alt='Heart On Blue Ocean Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1332">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/heart-on-blue-ocean-putv8ijefrhpd7cy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/70/25/c3/7025c33e2fe6ca1e2191455714709d69.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="651">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/70/25/c3/7025c33e2fe6ca1e2191455714709d69.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Danish Pastel, Aesthetic Background Blue Heart, blue heart, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/388/924/HD-wallpaper-danish-pastel-aesthetic-background-blue-heart-blue-heart.jpg' alt='Danish Pastel, Aesthetic Background Blue Heart, blue heart, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/388/924/HD-wallpaper-danish-pastel-aesthetic-background-blue-heart-blue-heart.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="blue heart by y2krevival | Redbubble">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/67/f2/eb/67f2ebc1ee916695108f757bfac0e1dd.jpg' alt='blue heart by y2krevival | Redbubble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/67/f2/eb/67f2ebc1ee916695108f757bfac0e1dd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

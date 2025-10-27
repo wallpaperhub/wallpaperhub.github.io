@@ -1,0 +1,129 @@
+<title>Vibrant Rainbow Wallpapers for Your iPhone</title>
+                    <meta name="description" content="Discover a collection of cute rainbow wallpapers that bring color and cheer to your iPhone. Perfectly designed for mobile displays, these vibrant backgrounds will refresh your device and reflect your style. Download now for a joyful upgrade to your screen!">
+                    <meta name="keywords" content="iphone cute rainbow wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-cute-rainbow-wallpaper">
+                            <span itemprop="name">iphone cute rainbow wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Rainbow Wallpapers for Your iPhone</h1>
+                <p>Brighten up your iPhone with cute rainbow wallpapers! These vibrant designs not only add a splash of color to your screen but also bring a sense of joy and positivity. Perfect for every mood, these wallpapers are a great way to express your personality. Download now and make your device uniquely you!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/26/84/7e/26847ea34ea84ccebc0d4b19b20cf4de.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/26/84/7e/26847ea34ea84ccebc0d4b19b20cf4de.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Rainbow Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/rainbow-iphone-xtnpxsl3avgvg6t7.jpg' alt='100+] Rainbow Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1050">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/rainbow-iphone-xtnpxsl3avgvg6t7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download premium image of Cute rainbow in white background cute ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0a/b2/e3/0ab2e3b6fcdcbd54635385ca91eb7778.jpg' alt='Download premium image of Cute rainbow in white background cute ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="889">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0a/b2/e3/0ab2e3b6fcdcbd54635385ca91eb7778.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Iphone Wallpaper Cute Mobile Background Stock Illustration ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/rainbow-iphone-wallpaper-cute-mobile-260nw-2052542192.jpg' alt='Rainbow Iphone Wallpaper Cute Mobile Background Stock Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="146">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/rainbow-iphone-wallpaper-cute-mobile-260nw-2052542192.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic rainbow wallpaper for iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/83/01/6c/83016c49705a3c1915dbdadb842641a9.jpg' alt='Aesthetic rainbow wallpaper for iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/83/01/6c/83016c49705a3c1915dbdadb842641a9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Iphone Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/a-rainbow-colored-circle-in-the-middle-of-a-forest-j2ywn0ou6o45eqxf.jpg' alt='Rainbow Iphone Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/a-rainbow-colored-circle-in-the-middle-of-a-forest-j2ywn0ou6o45eqxf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow phone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1b/50/a0/1b50a0787642dfae3cb0193ec9ccdbbb.jpg' alt='Rainbow phone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1b/50/a0/1b50a0787642dfae3cb0193ec9ccdbbb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Iphone Wallpaper | Free Aesthetic HD & 4K Mobile Phone ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsb2ZmaWNlMTBfcGhvdG9ncmFwaHlfb2ZfY2xvdWRfd2l0aF9yYWluYm93X2FuZF9nbGl0dGVyX18xNDg2YjU2OS01ZjYyLTRjYWEtYTkyYS1mNmNjMzFmOTk3YmVfMS5qcGc.jpg' alt='Rainbow Iphone Wallpaper | Free Aesthetic HD & 4K Mobile Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsb2ZmaWNlMTBfcGhvdG9ncmFwaHlfb2ZfY2xvdWRfd2l0aF9yYWluYm93X2FuZF9nbGl0dGVyX18xNDg2YjU2OS01ZjYyLTRjYWEtYTkyYS1mNmNjMzFmOTk3YmVfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pastel Rainbow Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pastel-rainbow-iphone-11spwjzciomkq15x.jpg' alt='100+] Pastel Rainbow Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pastel-rainbow-iphone-11spwjzciomkq15x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tumbler Iphone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b6/53/ca/b653ca979221b36a058ee49142ebcf3a.jpg' alt='Tumbler Iphone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b6/53/ca/b653ca979221b36a058ee49142ebcf3a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

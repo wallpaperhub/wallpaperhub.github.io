@@ -1,0 +1,129 @@
+<title>Explore Engaging Science GIFs for Learning</title>
+                    <meta name="description" content="Dive into the world of science with engaging GIFs! Discover animated visuals that simplify complex concepts and enhance learning experiences. Perfect for classrooms and social media, these captivating clips inspire curiosity and make science fun. Don't miss out on this dynamic way to explore!">
+                    <meta name="keywords" content="science gif">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/science-gif">
+                            <span itemprop="name">science gif</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore Engaging Science GIFs for Learning</h1>
+                <p>Science GIFs are a captivating way to visualize complex concepts and engage learners. From animated physics phenomena to biological processes, these short clips make science approachable and fun. Perfect for classrooms, social media, or personal learning, they add a dynamic element to sharing knowledge and inspire curiosity in viewers.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="For Science Stickers - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media3.giphy.com/media/mACiRE5HiqioJDdeSR/giphy.gif?cid=6c09b952wae686hdmteioozp37ca83uexwuvpsbqeptgjft1&ep=v1_stickers_search&rid=giphy.gif&ct=s' alt='For Science Stickers - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media3.giphy.com/media/mACiRE5HiqioJDdeSR/giphy.gif?cid=6c09b952wae686hdmteioozp37ca83uexwuvpsbqeptgjft1&ep=v1_stickers_search&rid=giphy.gif&ct=s' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Science Experiment GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media3.giphy.com/media/ZcWr9HfbSQP0T5zH7i/200w.gif?cid=6c09b952qgu1d9tq9lgucl7o3t8mu6cpqwnxrstoxj0bhclr&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Science Experiment GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="150">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media3.giphy.com/media/ZcWr9HfbSQP0T5zH7i/200w.gif?cid=6c09b952qgu1d9tq9lgucl7o3t8mu6cpqwnxrstoxj0bhclr&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Magic Science Gif GIF by LookHUMAN - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media1.giphy.com/media/xTiN0v1R0c1rPsrEU8/giphy.gif?cid=6c09b952ao61vcintc8qkgb8rmas2zd05irk0e121nph0kll&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' alt='Magic Science Gif GIF by LookHUMAN - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media1.giphy.com/media/xTiN0v1R0c1rPsrEU8/giphy.gif?cid=6c09b952ao61vcintc8qkgb8rmas2zd05irk0e121nph0kll&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Science (GIF) by Brent Clouse on Dribbble">
+                                <img itemprop="contentUrl url" src='https://cdn.dribbble.com/userupload/19779588/file/original-80cbd32855cbea269eee3f629eb6980c.gif' alt='Science (GIF) by Brent Clouse on Dribbble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dribbble" />
+                                </span>
+                                <a href='https://cdn.dribbble.com/userupload/19779588/file/original-80cbd32855cbea269eee3f629eb6980c.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Science GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/Um5wy5kuZiUAAAAM/anchorman-science.gif' alt='Science GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="124">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/Um5wy5kuZiUAAAAM/anchorman-science.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="skincare lab Sticker by Good Science Beauty - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media1.giphy.com/media/QunaRcZPYFgpbrBi9C/giphy.gif?cid=6c09b952cyx56zzdazbwh1u6d4wx48l7tdryato7x79necjh&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s' alt='skincare lab Sticker by Good Science Beauty - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media1.giphy.com/media/QunaRcZPYFgpbrBi9C/giphy.gif?cid=6c09b952cyx56zzdazbwh1u6d4wx48l7tdryato7x79necjh&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Science GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/XFwcRtOFsZsAAAAM/science-magic.gif' alt='Science GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="179">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/XFwcRtOFsZsAAAAM/science-magic.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="bill nye science matters GIF by Look Human - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media4.giphy.com/media/3o84TQkAIjV0NGUcr6/giphy.gif?cid=6c09b9525pf45ojnyy1z5tyx4m99wj5i44puqwo5mguhc5wa&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' alt='bill nye science matters GIF by Look Human - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media4.giphy.com/media/3o84TQkAIjV0NGUcr6/giphy.gif?cid=6c09b9525pf45ojnyy1z5tyx4m99wj5i44puqwo5mguhc5wa&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Its A Science Experiment GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media2.giphy.com/media/MTErRplGzNKXtfRI6Z/200w.gif?cid=6c09b952wmh1mg7zne4nxdcy86uuxjhdmxg16jue7honc63d&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Its A Science Experiment GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="198">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media2.giphy.com/media/MTErRplGzNKXtfRI6Z/200w.gif?cid=6c09b952wmh1mg7zne4nxdcy86uuxjhdmxg16jue7honc63d&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Science Matters GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media3.giphy.com/media/xTiN0NZZsYXkGwbcJ2/giphy.gif?cid=6c09b952s9jfdk9fov61olce103cbgxgngljhfyhng9y6te5&ep=v1_gifs_search&rid=giphy.gif&ct=g' alt='Science Matters GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media3.giphy.com/media/xTiN0NZZsYXkGwbcJ2/giphy.gif?cid=6c09b952s9jfdk9fov61olce103cbgxgngljhfyhng9y6te5&ep=v1_gifs_search&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Adorable Pastel GIF Wallpapers for Your Screen</title>
+                    <meta name="description" content="Discover a collection of cute pastel GIF wallpapers that add charm and joy to your screens. Perfect for brightening your device, these whimsical designs are optimized for mobile, ensuring a delightful visual experience tailored just for you!">
+                    <meta name="keywords" content="pastel:tl8i7zn7cfy= cute gif wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/pasteltl8i7zn7cfy-cute-gif-wallpaper">
+                            <span itemprop="name">pastel:tl8i7zn7cfy= cute gif wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Pastel GIF Wallpapers for Your Screen</h1>
+                <p>Transform your device with our adorable pastel cute GIF wallpapers! Perfectly designed to bring a touch of whimsy and color to your screens, these vibrant and playful animations will brighten your day. Choose from various delightful patterns and characters that embody the essence of cuteness and creativity!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Pastel Wallpaper GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/0xATVJ9QC0gAAAAM/good-night-full-moon.gif' alt='Cute Pastel Wallpaper GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="363">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/0xATVJ9QC0gAAAAM/good-night-full-moon.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="rainbow pastel pastel kawaii gif">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/b7/b0/97/b7b097b81676b30aa699496c3ae52d4b.gif' alt='rainbow pastel pastel kawaii gif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="279">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/b7/b0/97/b7b097b81676b30aa699496c3ae52d4b.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Pastel GIF by Stefanie Shank - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media4.giphy.com/media/3o7bu2ptBhTiYHnG7K/giphy.gif?cid=6c09b952jum20gmzsj0gunxdz0uvssvo8js3n4dvbvguzplk&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' alt='Summer Pastel GIF by Stefanie Shank - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media4.giphy.com/media/3o7bu2ptBhTiYHnG7K/giphy.gif?cid=6c09b952jum20gmzsj0gunxdz0uvssvo8js3n4dvbvguzplk&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="rainbow pastel gifs">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/0c/08/f4/0c08f43d2f75f061d0142ca519e16478.gif' alt='rainbow pastel gifs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="392">
+                                <meta itemprop="height" content="368">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/0c/08/f4/0c08f43d2f75f061d0142ca519e16478.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sweet stuff! | Cute pastel wallpaper, Gif background, Pastel wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/12/9c/b2/129cb2d1ef4adaf5bf6ac231fd2ad93f.gif' alt='Sweet stuff! | Cute pastel wallpaper, Gif background, Pastel wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/12/9c/b2/129cb2d1ef4adaf5bf6ac231fd2ad93f.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Pastel GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media1.giphy.com/media/xT0Gqg7vX59yL6tsNq/200w.gif?cid=6c09b952yg2hkqgnwlp22klisezqx4utueeq9jqse1qjixud&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Cute Pastel GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media1.giphy.com/media/xT0Gqg7vX59yL6tsNq/200w.gif?cid=6c09b952yg2hkqgnwlp22klisezqx4utueeq9jqse1qjixud&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel kawaii GIF - Find on GIFER">
+                                <img itemprop="contentUrl url" src='https://i.gifer.com/SK6U.gif' alt='Pastel kawaii GIF - Find on GIFER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gifer" />
+                                </span>
+                                <a href='https://i.gifer.com/SK6U.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="kawaii pastel gif">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/f7/a2/1d/f7a21ddd04b298f0b77cf6c1154dda20.gif' alt='kawaii pastel gif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="335">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/f7/a2/1d/f7a21ddd04b298f0b77cf6c1154dda20.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Cute GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media2.giphy.com/media/aJwk1NaltrnmAiAzHU/giphy.gif?cid=6c09b952bkb9oyb656mnh2j55eafw9bs01ot9k3fz6jmmdr0&ep=v1_gifs_search&rid=giphy.gif&ct=g' alt='Pastel Cute GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="340">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media2.giphy.com/media/aJwk1NaltrnmAiAzHU/giphy.gif?cid=6c09b952bkb9oyb656mnh2j55eafw9bs01ot9k3fz6jmmdr0&ep=v1_gifs_search&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pastel gifs Page 22 | WiffleGif">
+                                <img itemprop="contentUrl url" src='https://68.media.tumblr.com/a8e3dfe1aa01a5010af295a9263b08bc/tumblr_onoz60XXWN1vyf4svo1_500.gif' alt='pastel gifs Page 22 | WiffleGif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WiffleGif" />
+                                </span>
+                                <a href='https://68.media.tumblr.com/a8e3dfe1aa01a5010af295a9263b08bc/tumblr_onoz60XXWN1vyf4svo1_500.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

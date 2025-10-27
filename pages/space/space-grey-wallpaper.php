@@ -1,0 +1,129 @@
+<title>Elevate Your Space with Stylish Space Grey Wallpaper</title>
+                    <meta name="description" content="Discover the elegance of space grey wallpaper, the perfect choice for a modern and stylish interior. This versatile wallpaper enhances any room with its chic hue and depth, ideal for accent walls or full spaces. Transform your home with a sophisticated touch that suits every decor style!">
+                    <meta name="keywords" content="space grey wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space">
+                            <span itemprop="name">Space</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space/space-grey-wallpaper">
+                            <span itemprop="name">space grey wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Space with Stylish Space Grey Wallpaper</h1>
+                <p>Space grey wallpaper offers a sleek, modern aesthetic that enhances any room. Its versatile shade complements various color schemes, allowing for creative interior designs. Perfect for accent walls or entire rooms, this wallpaper adds depth and sophistication, making a bold statement in contemporary homes.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="34327-4 Solid Color Plain Gray Wallpaper">
+                                <img itemprop="contentUrl url" src='http://wallcoveringsmart.com/cdn/shop/products/343274.jpg?v=1607876423' alt='34327-4 Solid Color Plain Gray Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallcoverings mart" />
+                                </span>
+                                <a href='http://wallcoveringsmart.com/cdn/shop/products/343274.jpg?v=1607876423' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD space grey wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/444/59/HD-wallpaper-james-c-on-iphone-grey-space.jpg' alt='HD space grey wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1731">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/444/59/HD-wallpaper-james-c-on-iphone-grey-space.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Wallpaper Grey Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsX29mZmljZV8zMl9ibGFja19hbmRfd2hpdGVfcGljdHVyZV9vZl9hX2JvZHlfb2Zfd2F0ZXJfc18xMzJiYWJjMi0xODc1LTRiZjYtYjUyMi0wYjEwZGQ1NTFiZGJfMS5qcGc.jpg' alt='Iphone Wallpaper Grey Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsX29mZmljZV8zMl9ibGFja19hbmRfd2hpdGVfcGljdHVyZV9vZl9hX2JvZHlfb2Zfd2F0ZXJfc18xMzJiYWJjMi0xODc1LTRiZjYtYjUyMi0wYjEwZGQ1NTFiZGJfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Solid Grey Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/solid-grey-ew5fya1gh2bgc49b.jpg' alt='100+] Solid Grey Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/solid-grey-ew5fya1gh2bgc49b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grey Wallpapers: Free HD Download [500+ HQ] | Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1594922234647-4ade6282c369?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z3JleSUyMHdhbGxwYXBlcnxlbnwwfHwwfHx8MA%3D%3D' alt='Grey Wallpapers: Free HD Download [500+ HQ] | Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1594922234647-4ade6282c369?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z3JleSUyMHdhbGxwYXBlcnxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gray Slate Wallpapers (42 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/1/3/3/1236586-3840x2160-desktop-4k-gray-slate-wallpaper-photo.jpg' alt='Gray Slate Wallpapers (42 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/1/3/3/1236586-3840x2160-desktop-4k-gray-slate-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Grey Apple Logo Wallpaper by SamBox436 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e3bc38bf-b82a-4ce8-8719-5c3c1a9c262e/dfv1243-b0710b5f-5e70-4f66-8c46-c2a76ac08389.jpg/v1/fill/w_1131,h_707,q_70,strp/space_grey_apple_logo_wallpaper_by_sambox436_dfv1243-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODAwIiwicGF0aCI6IlwvZlwvZTNiYzM4YmYtYjgyYS00Y2U4LTg3MTktNWMzYzFhOWMyNjJlXC9kZnYxMjQzLWIwNzEwYjVmLTVlNzAtNGY2Ni04YzQ2LWMyYTc2YWMwODM4OS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.YZ-7i4sFEc2xZOQDN2rBd17zVCW6NPOFq77izt3oOiA' alt='Space Grey Apple Logo Wallpaper by SamBox436 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1131">
+                                <meta itemprop="height" content="707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e3bc38bf-b82a-4ce8-8719-5c3c1a9c262e/dfv1243-b0710b5f-5e70-4f66-8c46-c2a76ac08389.jpg/v1/fill/w_1131,h_707,q_70,strp/space_grey_apple_logo_wallpaper_by_sambox436_dfv1243-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODAwIiwicGF0aCI6IlwvZlwvZTNiYzM4YmYtYjgyYS00Y2U4LTg3MTktNWMzYzFhOWMyNjJlXC9kZnYxMjQzLWIwNzEwYjVmLTVlNzAtNGY2Ni04YzQ2LWMyYTc2YWMwODM4OS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.YZ-7i4sFEc2xZOQDN2rBd17zVCW6NPOFq77izt3oOiA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 11 Pro - Space Grey (Light) – Stock Wallpaper – Original ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2019/09/iPhone-11-Pro-blu-iSpazio.png' alt='iPhone 11 Pro - Space Grey (Light) – Stock Wallpaper – Original ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1496">
+                                <meta itemprop="height" content="3238">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Central - iSpazio" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2019/09/iPhone-11-Pro-blu-iSpazio.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plain by Karl Lagerfeld - Grey - Wallpaper - 3788-42">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/asset/img/product/178568/tiled/karl-lagerfeld-plain-grey-wallpaper-tiled-178568.jpg' alt='Plain by Karl Lagerfeld - Grey - Wallpaper - 3788-42'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/asset/img/product/178568/tiled/karl-lagerfeld-plain-grey-wallpaper-tiled-178568.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iphone se 2020 stock wallpaper Silk Space Grey Mono Dark iPhone 11 ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/41/08/b0/4108b0ca36a8b34ea0a9afe546dd6a9c.jpg' alt='iphone se 2020 stock wallpaper Silk Space Grey Mono Dark iPhone 11 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/41/08/b0/4108b0ca36a8b34ea0a9afe546dd6a9c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

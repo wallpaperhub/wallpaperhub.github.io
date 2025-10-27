@@ -1,0 +1,129 @@
+<title>Elegant Gold Phone Wallpapers for Your Mobile Screen</title>
+                    <meta name="description" content="Discover a curated collection of elegant gold phone wallpapers that add a touch of luxury to your device. Perfect for enhancing your phone's aesthetic, these stunning designs cater to various styles and preferences. Upgrade your mobile look effortlessly with our captivating gold wallpaper options!">
+                    <meta name="keywords" content="gold phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/gold-phone-wallpaper">
+                            <span itemprop="name">gold phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Gold Phone Wallpapers for Your Mobile Screen</h1>
+                <p>Transform your device with stunning gold phone wallpapers that radiate luxury and elegance. From dazzling patterns to minimalist designs, our collection offers the perfect backdrop for your screen. Enjoy the beauty of gold tones that enhance your phone's aesthetic while reflecting your personal style. Elevate your mobile experience today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Gold Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/gold-iphone-chw3sgdl3jnkry9t.jpg' alt='100+] Gold Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/gold-iphone-chw3sgdl3jnkry9t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/d5/a1/66/d5a1669dbd42fd57748920759cb3aac5.jpg' alt='Phone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/d5/a1/66/d5a1669dbd42fd57748920759cb3aac5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cc/44/dc/cc44dc3e76848d864b966e08b40947aa.jpg' alt='Gold wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="624">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cc/44/dc/cc44dc3e76848d864b966e08b40947aa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Textured Plain Yellow Gold Phone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/textured-plain-yellow-gold-phone-53l29v08y45sxn8j.jpg' alt='Textured Plain Yellow Gold Phone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/textured-plain-yellow-gold-phone-53l29v08y45sxn8j.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold, 0010, abstract, background, brisk, luxury, plane, stainless ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/691/230/HD-wallpaper-gold-0010-abstract-background-brisk-luxury-plane-stainless.jpg' alt='Gold, 0010, abstract, background, brisk, luxury, plane, stainless ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/691/230/HD-wallpaper-gold-0010-abstract-background-brisk-luxury-plane-stainless.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Glitter Samsung Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/phone/images/640/gold-glitter.png' alt='Gold Glitter Samsung Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/phone/images/640/gold-glitter.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mobile Phones Wallpaper Cartoon Gold Line Pattern Marble Texture ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/back_our/20210326/bg/fc75671f6996e.jpg!w700wp' alt='Mobile Phones Wallpaper Cartoon Gold Line Pattern Marble Texture ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/back_our/20210326/bg/fc75671f6996e.jpg!w700wp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="59 Best GOLD PHONE WALLPAPERS ideas | gold wallpaper, gold ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/db/72/c6/db72c6b98d6d8ea359608ab8f422e22c.jpg' alt='59 Best GOLD PHONE WALLPAPERS ideas | gold wallpaper, gold ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/db/72/c6/db72c6b98d6d8ea359608ab8f422e22c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold, golden, texture, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/237/22/HD-wallpaper-gold-golden-texture.jpg' alt='Gold, golden, texture, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/237/22/HD-wallpaper-gold-golden-texture.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold wallpaper 2025">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e7/fd/e6/e7fde61805154e333775613ed33cd0a1.jpg' alt='Gold wallpaper 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e7/fd/e6/e7fde61805154e333775613ed33cd0a1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Cheerful Yellow Sunflower Wallpaper for Your Home</title>
+                    <meta name="description" content="Discover the beauty of yellow sunflower wallpaper! Transform your home with vibrant designs that add warmth and charm. Perfect for any room, these stunning wallpapers combine nature's elegance with modern decor. Brighten your space effortlessly and embrace the sunshine every day!">
+                    <meta name="keywords" content="yellow sunflower wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/yellow-sunflower-wallpaper">
+                            <span itemprop="name">yellow sunflower wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cheerful Yellow Sunflower Wallpaper for Your Home</h1>
+                <p>Brighten up your space with stunning yellow sunflower wallpaper! Ideal for any room, these vibrant designs bring warmth and cheer, creating a welcoming atmosphere. Perfect for a focal wall or to enhance your home’s decor, sunflower wallpaper is a timeless choice that combines nature's beauty with style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow sunflower 2025 background">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/sunflower-yellow-lkzxwlur2ypog3oz.jpg' alt='Yellow sunflower 2025 background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/sunflower-yellow-lkzxwlur2ypog3oz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable wallpaper sunflower templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE5F4KimNE/1/0/900w/canva-yellow-sunflower-phone-wallpaper-R2G04M0oVqs.jpg' alt='Free and customizable wallpaper sunflower templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE5F4KimNE/1/0/900w/canva-yellow-sunflower-phone-wallpaper-R2G04M0oVqs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable wallpaper sunflower templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE8rPdJzfw/1/0/900w/canva-yellow-sunflower-sunny-phone-wallpaper-beMKSE22IyA.jpg' alt='Free and customizable wallpaper sunflower templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE8rPdJzfw/1/0/900w/canva-yellow-sunflower-sunny-phone-wallpaper-beMKSE22IyA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunflower Wallpapers: Free HD Download [500+ HQ] | Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1598920710727-e6c74781538c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c3VuZmxvd2VyJTIwd2FsbHBhcGVyfGVufDB8fDB8fHww' alt='Sunflower Wallpapers: Free HD Download [500+ HQ] | Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1598920710727-e6c74781538c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c3VuZmxvd2VyJTIwd2FsbHBhcGVyfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Sunflowera | Sunflower wallpaper, Sunflower pictures ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/09/d9/f8/09d9f85c2f0f5524e6459ef3242e4703.jpg' alt='Yellow Sunflowera | Sunflower wallpaper, Sunflower pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1177">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/09/d9/f8/09d9f85c2f0f5524e6459ef3242e4703.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peace Petals - Heavy Type II">
+                                <img itemprop="contentUrl url" src='http://wallsneedlove.com/cdn/shop/products/w0546_1s_Hand-drawn-yellow-retro-sunflower-wallpaper-Peace-Petals_Repeating-Pattern-Sample-1.jpg?v=1734716342' alt='Peace Petals - Heavy Type II'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2592">
+                                <meta itemprop="height" content="1602">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='http://wallsneedlove.com/cdn/shop/products/w0546_1s_Hand-drawn-yellow-retro-sunflower-wallpaper-Peace-Petals_Repeating-Pattern-Sample-1.jpg?v=1734716342' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunflower Yellow Floral Wallpaper Vintage Removable Self Stick on Wallpaper  Floral 24"x118" Prepasted Yellow Floral Sunflower Contact Paper Peel and ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81asd7UdFfL._AC_UF894,1000_QL80_.jpg' alt='Sunflower Yellow Floral Wallpaper Vintage Removable Self Stick on Wallpaper  Floral 24"x118" Prepasted Yellow Floral Sunflower Contact Paper Peel and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81asd7UdFfL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Selective focus photography of yellow sunflower field during ...">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1548291616-bfccc8db731d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' alt='Selective focus photography of yellow sunflower field during ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="5333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1548291616-bfccc8db731d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Close Up Of Many Yellow Sunflowers Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/a-close-up-of-many-yellow-sunflowers-p8wskfhpml31md51.jpg' alt='A Close Up Of Many Yellow Sunflowers Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/a-close-up-of-many-yellow-sunflowers-p8wskfhpml31md51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galerie G45458 Sunflower Trail Yellow Green White Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/250297.jpg' alt='Galerie G45458 Sunflower Trail Yellow Green White Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/250297.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

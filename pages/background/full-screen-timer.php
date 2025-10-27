@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="full screen timer">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/full-screen-timer">
+                            <span itemprop="name">full screen timer</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fullscreen Clock - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/s1RKkiRaGvBRr_5xiEG3FUCgzso2Im6a9r7RiGProl14uCcW8P2qphaKvDrmSyN8pA=w526-h296-rw' alt='Fullscreen Clock - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/s1RKkiRaGvBRr_5xiEG3FUCgzso2Im6a9r7RiGProl14uCcW8P2qphaKvDrmSyN8pA=w526-h296-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fullscreen Timer - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/l2AVsRtPpo4vsL3Q8J0v29f5HlvjBY4FVLAcbZi_vD060BCWcHfsGwgcnkMyMo_uXL8' alt='Fullscreen Timer - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/l2AVsRtPpo4vsL3Q8J0v29f5HlvjBY4FVLAcbZi_vD060BCWcHfsGwgcnkMyMo_uXL8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Minute Countdown | Big Timer - Fullscreen countdown timer">
+                                <img itemprop="contentUrl url" src='https://www.bigtimer.net/static/images/Big-Timer-Screenshot.png' alt='10 Minute Countdown | Big Timer - Fullscreen countdown timer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1486">
+                                <meta itemprop="height" content="1052">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.bigtimer.net" />
+                                </span>
+                                <a href='https://www.bigtimer.net/static/images/Big-Timer-Screenshot.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Display a Fullscreen Timer with Stagetimer (2-Min Guide)">
+                                <img itemprop="contentUrl url" src='https://stagetimer.io/assets/articles/quick-guides/fullscreen-countdown-timer-1300.jpg' alt='Display a Fullscreen Timer with Stagetimer (2-Min Guide)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="stagetimer.io" />
+                                </span>
+                                <a href='https://stagetimer.io/assets/articles/quick-guides/fullscreen-countdown-timer-1300.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Top 10 Visual Countdown Timers Online">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5dc5935a7224ad2839d7e750/7772fc97-b5c2-4e54-9b8c-b39a177e7e6b/bigtimer.net-fountaininstitute.jpg' alt='The Top 10 Visual Countdown Timers Online'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Fountain Institute" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5dc5935a7224ad2839d7e750/7772fc97-b5c2-4e54-9b8c-b39a177e7e6b/bigtimer.net-fountaininstitute.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fullscreen Timer - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/b8n4RD-9kxGSYBy8kbX5q069IvgHE9OhesO9tcUV77hjZe_OGsVXpAm_Bzo7lvKL_hKI=w526-h296-rw' alt='Fullscreen Timer - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="526">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/b8n4RD-9kxGSYBy8kbX5q069IvgHE9OhesO9tcUV77hjZe_OGsVXpAm_Bzo7lvKL_hKI=w526-h296-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Giant Stopwatch - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/mu_GRz5SidZoFx74R34jLmu4aBcdb_AkbRloVtsiVn-fIMM6-BFQBweim8f0GX0Z7xQ=w526-h296-rw' alt='Giant Stopwatch - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="524">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/mu_GRz5SidZoFx74R34jLmu4aBcdb_AkbRloVtsiVn-fIMM6-BFQBweim8f0GX0Z7xQ=w526-h296-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fullscreen Timer - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/t9I-7o3QqPQC_a5Nx0_Zf8mx1CXv1bB4MLZUPzfeLoTNIbWEg27v7UxI48v6tkKtVh0=w526-h296-rw' alt='Fullscreen Timer - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="526">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/t9I-7o3QqPQC_a5Nx0_Zf8mx1CXv1bB4MLZUPzfeLoTNIbWEg27v7UxI48v6tkKtVh0=w526-h296-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Top 10 Visual Countdown Timers Online">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5dc5935a7224ad2839d7e750/20b383e2-9b36-4e44-96fd-3ad73f39c351/uniltu_audio_timer-fountain_institute.jpg' alt='The Top 10 Visual Countdown Timers Online'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Fountain Institute" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5dc5935a7224ad2839d7e750/20b383e2-9b36-4e44-96fd-3ad73f39c351/uniltu_audio_timer-fountain_institute.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE Countdown Timer - CountdownKings">
+                                <img itemprop="contentUrl url" src='https://www.countdownkings.com/wp-content/uploads/02_countdown_timer_set_time.png' alt='FREE Countdown Timer - CountdownKings'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="510">
+                                <meta itemprop="height" content="410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CountdownKings" />
+                                </span>
+                                <a href='https://www.countdownkings.com/wp-content/uploads/02_countdown_timer_set_time.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Discover the Magic of the School Bus: Adventures in Learning</title>
+                    <meta name="description" content="Explore the captivating world of the Magic School Bus! Join Ms. Frizzle and her students on thrilling educational adventures that make science fun and accessible for kids. Perfect for learning about science concepts in a creative and engaging way. Dive into the magic today!">
+                    <meta name="keywords" content="magic school bus background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/magic-school-bus-background">
+                            <span itemprop="name">magic school bus background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Magic of the School Bus: Adventures in Learning</h1>
+                <p>Magic School Bus takes young viewers on thrilling educational adventures, blending entertainment and learning. Created by Joanna Cole and Bruce Degen, it follows Ms. Frizzle and her quirky class on a magical bus that transforms to explore complex scientific concepts. The show's colorful animation and engaging storylines make learning fun!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Original Magic School Bus Is Better Than You Remember | Twin ...">
+                                <img itemprop="contentUrl url" src='https://twincitiesgeek.com/wp-content/uploads/2023/03/the-magic-school-bus.jpg' alt='The Original Magic School Bus Is Better Than You Remember | Twin ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="845">
+                                <meta itemprop="height" content="498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Twin Cities Geek" />
+                                </span>
+                                <a href='https://twincitiesgeek.com/wp-content/uploads/2023/03/the-magic-school-bus.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Magic School Bus">
+                                <img itemprop="contentUrl url" src='https://dcmp.org/seriesposterimages/series_4.jpg' alt='The Magic School Bus'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Described and Captioned Media Program" />
+                                </span>
+                                <a href='https://dcmp.org/seriesposterimages/series_4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Magic School Bus">
+                                <img itemprop="contentUrl url" src='https://dcmp.org/posterimages/series_4.jpg' alt='The Magic School Bus'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="554">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Described and Captioned Media Program" />
+                                </span>
+                                <a href='https://dcmp.org/posterimages/series_4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Magic School Bus (TV Series 1994–1997) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BOWMxZTBkMWEtNWQzOS00NDZmLWJjNWQtYzljMjZmYjUzMDAyXkEyXkFqcGc@._V1_.jpg' alt='The Magic School Bus (TV Series 1994–1997) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BOWMxZTBkMWEtNWQzOS00NDZmLWJjNWQtYzljMjZmYjUzMDAyXkEyXkFqcGc@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas TV History: Christmas in July 2022: The Magic School Bus ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQV66bbjcuJOcDmyCL3I5xxdimHNai8kikmMZQhqNIxyLQbKmlmuKtoZLiHPAsV60LJvWJip4dvbttc0sVR5o5CtKNRWAQakLCDVy2Mkvq1hrAsWGCCIifVdWPEBbsjuBeQ8sFAF4RShGxgk8on79ATKkU1IewiHahP2l5DaRDIsFYclQxWf7_0UoF/s2560/magic%2091Y-TTr+2iL._RI_.jpg' alt='Christmas TV History: Christmas in July 2022: The Magic School Bus ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Christmas TV History" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQV66bbjcuJOcDmyCL3I5xxdimHNai8kikmMZQhqNIxyLQbKmlmuKtoZLiHPAsV60LJvWJip4dvbttc0sVR5o5CtKNRWAQakLCDVy2Mkvq1hrAsWGCCIifVdWPEBbsjuBeQ8sFAF4RShGxgk8on79ATKkU1IewiHahP2l5DaRDIsFYclQxWf7_0UoF/s2560/magic%2091Y-TTr+2iL._RI_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Magic School Bus Clipart">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ee/fc/aa/eefcaa4ebba973169f230b80e4a709e8.jpg' alt='Magic School Bus Clipart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="393">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ee/fc/aa/eefcaa4ebba973169f230b80e4a709e8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Magic School Bus - In My Style - WAHOO! by Cyberchase101 on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/88aadbb4-233d-4ee7-a286-33684310816f/dehno72-242a0673-7801-4128-9169-ccc6d08c17ad.jpg/v1/fill/w_1600,h_900,q_75,strp/the_magic_school_bus___in_my_style___wahoo__by_cyberchase101_dehno72-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTAwIiwicGF0aCI6IlwvZlwvODhhYWRiYjQtMjMzZC00ZWU3LWEyODYtMzM2ODQzMTA4MTZmXC9kZWhubzcyLTI0MmEwNjczLTc4MDEtNDEyOC05MTY5LWNjYzZkMDhjMTdhZC5qcGciLCJ3aWR0aCI6Ijw9MTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.pBRguoRwsEy94oa85msTz8sbK_e1nNtRyY2W0oJGkvE' alt='The Magic School Bus - In My Style - WAHOO! by Cyberchase101 on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/88aadbb4-233d-4ee7-a286-33684310816f/dehno72-242a0673-7801-4128-9169-ccc6d08c17ad.jpg/v1/fill/w_1600,h_900,q_75,strp/the_magic_school_bus___in_my_style___wahoo__by_cyberchase101_dehno72-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTAwIiwicGF0aCI6IlwvZlwvODhhYWRiYjQtMjMzZC00ZWU3LWEyODYtMzM2ODQzMTA4MTZmXC9kZWhubzcyLTI0MmEwNjczLTc4MDEtNDEyOC05MTY5LWNjYzZkMDhjMTdhZC5qcGciLCJ3aWR0aCI6Ijw9MTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.pBRguoRwsEy94oa85msTz8sbK_e1nNtRyY2W0oJGkvE' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Magic School Bus | TV fanart | fanart.tv">
+                                <img itemprop="contentUrl url" src='https://images.fanart.tv/fanart/the-magic-school-bus-5d95214217152.jpg' alt='The Magic School Bus | TV fanart | fanart.tv'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="562">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="fanart.tv" />
+                                </span>
+                                <a href='https://images.fanart.tv/fanart/the-magic-school-bus-5d95214217152.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Magic School Bus Theme Park. I am addicted to creating theme ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1200/1*qd4fGm765w92UcoXi6mTLQ.jpeg' alt='The Magic School Bus Theme Park. I am addicted to creating theme ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Candie Lo - Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1200/1*qd4fGm765w92UcoXi6mTLQ.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FOX Kids Wallpaper - The Magic School Bus by TotallyPurple2024 on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b4a1ffeb-5258-4b93-a6b7-20b39baedcd1/di1l31o-332f02cb-8931-4dd4-9385-e7408aef4625.jpg/v1/fill/w_597,h_418,q_75,strp/fox_kids_wallpaper___the_magic_school_bus_by_totallypurple2024_di1l31o-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDE4IiwicGF0aCI6IlwvZlwvYjRhMWZmZWItNTI1OC00YjkzLWE2YjctMjBiMzliYWVkY2QxXC9kaTFsMzFvLTMzMmYwMmNiLTg5MzEtNGRkNC05Mzg1LWU3NDA4YWVmNDYyNS5qcGciLCJ3aWR0aCI6Ijw9NTk3In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.ve75BFOP7v5UuQtEjQtqGsMDW_1elq9RLE-IZVTJGbI' alt='FOX Kids Wallpaper - The Magic School Bus by TotallyPurple2024 on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="597">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b4a1ffeb-5258-4b93-a6b7-20b39baedcd1/di1l31o-332f02cb-8931-4dd4-9385-e7408aef4625.jpg/v1/fill/w_597,h_418,q_75,strp/fox_kids_wallpaper___the_magic_school_bus_by_totallypurple2024_di1l31o-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDE4IiwicGF0aCI6IlwvZlwvYjRhMWZmZWItNTI1OC00YjkzLWE2YjctMjBiMzliYWVkY2QxXC9kaTFsMzFvLTMzMmYwMmNiLTg5MzEtNGRkNC05Mzg1LWU3NDA4YWVmNDYyNS5qcGciLCJ3aWR0aCI6Ijw9NTk3In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.ve75BFOP7v5UuQtEjQtqGsMDW_1elq9RLE-IZVTJGbI' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

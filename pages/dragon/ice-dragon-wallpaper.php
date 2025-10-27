@@ -1,0 +1,129 @@
+<title>Enchanting Ice Dragon Wallpapers for Fantasy Lovers</title>
+                    <meta name="description" content="Discover a captivating collection of ice dragon wallpapers that combine fantasy and beauty. Perfect for your phone, tablet, or desktop, these stunning images will transport you to a magical world. Download your favorite design today and let your device reflect your love for mythical creatures!">
+                    <meta name="keywords" content="ice dragon wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/dragon">
+                            <span itemprop="name">Dragon</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/dragon/ice-dragon-wallpaper">
+                            <span itemprop="name">ice dragon wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enchanting Ice Dragon Wallpapers for Fantasy Lovers</h1>
+                <p>Transform your device with stunning ice dragon wallpaper that brings fantasy to life. These breathtaking designs feature majestic ice dragons soaring through frosty landscapes, perfect for adding an enchanting touch to any screen. Unleash your imagination and embrace the mystical world of winter dragons!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3d Ice Dragon Art Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/3d-ice-dragon-art-7qi24gn7tugbrmir.jpg' alt='3d Ice Dragon Art Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/3d-ice-dragon-art-7qi24gn7tugbrmir.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ice Dragon">
+                                <img itemprop="contentUrl url" src='https://www.magicmurals.com/media/amasty/webp/catalog/product/cache/af1e2a1566fa2dbb552605e8822354b7/m/g/mgl-jpk-m062-31975_jpg.webp' alt='Ice Dragon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1435">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Magic Murals" />
+                                </span>
+                                <a href='https://www.magicmurals.com/media/amasty/webp/catalog/product/cache/af1e2a1566fa2dbb552605e8822354b7/m/g/mgl-jpk-m062-31975_jpg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Winged Ice Dragon Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/blue-winged-ice-dragon-hj5kyrtes40ipu81.jpg' alt='Blue Winged Ice Dragon Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/blue-winged-ice-dragon-hj5kyrtes40ipu81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Epic Ice Dragon in Flight - HD World of Warcraft Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/105/105451.jpg' alt='Epic Ice Dragon in Flight - HD World of Warcraft Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/105/105451.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ice Dragon Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bf/60/97/bf6097481834d5131556efff4ec8c77b.jpg' alt='Ice Dragon Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="527">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bf/60/97/bf6097481834d5131556efff4ec8c77b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ice Dragon Wallpapers (19 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/9/0/d/2127854-2048x2048-mobile-hd-ice-dragon-wallpaper.jpg' alt='Ice Dragon Wallpapers (19 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/9/0/d/2127854-2048x2048-mobile-hd-ice-dragon-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Epic Ice Dragon in a Fantasy Ice Cave - 4K Ultra HD Wallpaper by ...">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/138/1384549.png' alt='Epic Ice Dragon in a Fantasy Ice Cave - 4K Ultra HD Wallpaper by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4072">
+                                <meta itemprop="height" content="2280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/138/1384549.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Ice Dragon Pictures | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/baby-ice-dragon-qlf4xvpbqfh34da8.jpg' alt='100+] Ice Dragon Pictures | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1071">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/baby-ice-dragon-qlf4xvpbqfh34da8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Art Print | White ice dragon, epic fantasy | Europosters">
+                                <img itemprop="contentUrl url" src='https://storage.googleapis.com/pod_public/750/234002.jpg' alt='Wall Art Print | White ice dragon, epic fantasy | Europosters'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Europosters.eu" />
+                                </span>
+                                <a href='https://storage.googleapis.com/pod_public/750/234002.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ice Dragon Images – Browse 21,415 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/09/60/36/69/360_F_960366906_sqgsaeUwtHK8vYVc2ZvhKfEuDNSrEgZE.jpg' alt='Ice Dragon Images – Browse 21,415 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/09/60/36/69/360_F_960366906_sqgsaeUwtHK8vYVc2ZvhKfEuDNSrEgZE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

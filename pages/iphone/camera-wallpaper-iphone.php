@@ -1,0 +1,129 @@
+<title>Stunning Camera Wallpapers for Your iPhone</title>
+                    <meta name="description" content="Explore a collection of captivating camera wallpapers for your iPhone. Elevate your screen's look with vibrant landscapes and unique designs that reflect your style. Perfect for photography enthusiasts and anyone wanting to refresh their device's look! Download your favorites now!">
+                    <meta name="keywords" content="camera wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/camera-wallpaper-iphone">
+                            <span itemprop="name">camera wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Camera Wallpapers for Your iPhone</h1>
+                <p>Transform your iPhone with stunning camera wallpapers that bring your device to life! Choose from a wide variety of breathtaking landscapes, cityscapes, and artistic designs. These wallpapers enhance your screen's aesthetics while keeping your personal style intact. Discover your perfect backdrop today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone wallpaper | Cool cameras :-) | Pinterest | Photography ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/c4/e7/6d/c4e76d78d1b7837cc9bb7f03449a3d11.jpg' alt='iPhone wallpaper | Cool cameras :-) | Pinterest | Photography ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="441">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/c4/e7/6d/c4e76d78d1b7837cc9bb7f03449a3d11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Canon Camera Macro Fall Leaves iPhone 8 Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1f/6a/62/1f6a620b3863770634dfd98647f107a0.jpg' alt='Canon Camera Macro Fall Leaves iPhone 8 Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1f/6a/62/1f6a620b3863770634dfd98647f107a0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone X Wallpapers: Photo">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c8/98/70/c89870723a5510b8977ea44e0c49bd79.jpg' alt='iPhone X Wallpapers: Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c8/98/70/c89870723a5510b8977ea44e0c49bd79.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Canon Camera On Rock Stone iPhone 8 Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/a9/d5/f7/a9d5f765309b5cd3fbe472503cb6040e.jpg' alt='Canon Camera On Rock Stone iPhone 8 Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/a9/d5/f7/a9d5f765309b5cd3fbe472503cb6040e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Selfie Camera, lens, snow, hand, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/142/202/HD-wallpaper-selfie-camera-lens-snow-hand.jpg' alt='Selfie Camera, lens, snow, hand, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/142/202/HD-wallpaper-selfie-camera-lens-snow-hand.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Camera iphone 8/7/6s/6 for parallax wallpapers hd, desktop ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpaperscraft.com/image/single/camera_glare_reflection_195277_168x300.jpg' alt='Camera iphone 8/7/6s/6 for parallax wallpapers hd, desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="168">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersCraft" />
+                                </span>
+                                <a href='https://images.wallpaperscraft.com/image/single/camera_glare_reflection_195277_168x300.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space In Vintage Camera Lens iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5f/d0/9f/5fd09f2609cb0fa5716ddbe0ecd0d5db.jpg' alt='Space In Vintage Camera Lens iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5f/d0/9f/5fd09f2609cb0fa5716ddbe0ecd0d5db.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Camera, technique, lens, black, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/437/547/HD-wallpaper-camera-technique-lens-black.jpg' alt='Camera, technique, lens, black, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/437/547/HD-wallpaper-camera-technique-lens-black.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Camera Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp10187007.png' alt='iPhone Camera Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp10187007.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="mi88-little-visuals-camera-art-canon - Papers.co">
+                                <img itemprop="contentUrl url" src='https://papers.co/wallpaper/papers.co-mi88-little-visuals-camera-art-canon-41-iphone-wallpaper.jpg' alt='mi88-little-visuals-camera-art-canon - Papers.co'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papers.co" />
+                                </span>
+                                <a href='https://papers.co/wallpaper/papers.co-mi88-little-visuals-camera-art-canon-41-iphone-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

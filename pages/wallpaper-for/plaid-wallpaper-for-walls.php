@@ -1,0 +1,129 @@
+<title>Enhance Your Space with Stylish Plaid Wallpaper</title>
+                    <meta name="description" content="Discover the beauty of plaid wallpaper! Perfect for adding warmth and texture to your home decor, our collection includes various colors and patterns to fit any style. Transform your living room, bedroom, or dining area with this timeless choice. Shop now for the perfect plaid accent!">
+                    <meta name="keywords" content="plaid wallpaper for walls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/plaid-wallpaper-for-walls">
+                            <span itemprop="name">plaid wallpaper for walls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enhance Your Space with Stylish Plaid Wallpaper</h1>
+                <p>Plaid wallpaper for walls brings a timeless charm and a touch of coziness to any room. Available in various colors and patterns, it can transform a space while adding texture and depth. Whether used in a living room, bedroom, or dining area, plaid wallpaper creates a warm and inviting atmosphere, perfect for both traditional and modern decor styles.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Equestrian Plaid by Mind the Gap - Blue/Green/Yellow/Red - Wallpaper -  WP30110">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/shared-assets/images/products/188063_1_orig.jpg' alt='Equestrian Plaid by Mind the Gap - Blue/Green/Yellow/Red - Wallpaper -  WP30110'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/shared-assets/images/products/188063_1_orig.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rigby Plaid Print Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.mcgeeandco.com/cdn/shop/files/Catalogue_Shoot_17_a6f2dbae-b332-4ebb-aab4-de1aaaf1d2d6.jpg?crop=center&height=1200&v=1691420984&width=1200' alt='Rigby Plaid Print Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="McGee & Co." />
+                                </span>
+                                <a href='https://www.mcgeeandco.com/cdn/shop/files/Catalogue_Shoot_17_a6f2dbae-b332-4ebb-aab4-de1aaaf1d2d6.jpg?crop=center&height=1200&v=1691420984&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Franklin Wallpaper">
+                                <img itemprop="contentUrl url" src='http://wallblush.com/cdn/shop/files/1_d0b20c47-b563-4627-9ff4-cda194883d9c.jpg?v=1701125516&width=2048' alt='Franklin Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='http://wallblush.com/cdn/shop/files/1_d0b20c47-b563-4627-9ff4-cda194883d9c.jpg?v=1701125516&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classic Plaid Peel & Stick Wallpaper in Evergreen">
+                                <img itemprop="contentUrl url" src='https://www.burkedecor.com/cdn/shop/products/NW55104-D_720x.jpg?v=1708028820' alt='Classic Plaid Peel & Stick Wallpaper in Evergreen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="588">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Burke Decor" />
+                                </span>
+                                <a href='https://www.burkedecor.com/cdn/shop/products/NW55104-D_720x.jpg?v=1708028820' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sala Neutral Plaid Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.burkedecor.com/cdn/shop/products/2980-92121-Room2_720x.jpg?v=1682347020' alt='Sala Neutral Plaid Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="434">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Burke Decor" />
+                                </span>
+                                <a href='https://www.burkedecor.com/cdn/shop/products/2980-92121-Room2_720x.jpg?v=1682347020' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gingham Wallpaper, Plaid Wallpaper, Boys Nursery Wallpaper, Sage ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/22641876/r/il/6de03b/4741845309/il_fullxfull.4741845309_83ac.jpg' alt='Gingham Wallpaper, Plaid Wallpaper, Boys Nursery Wallpaper, Sage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/22641876/r/il/6de03b/4741845309/il_fullxfull.4741845309_83ac.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LUXE Traditional / 2 ft (h) x 19 in (w)">
+                                <img itemprop="contentUrl url" src='https://wallblush.com/cdn/shop/files/3_97f9d3ca-89b8-40ae-b9ff-3c079aec3bf2.jpg?v=1701125516&width=2048' alt='LUXE Traditional / 2 ft (h) x 19 in (w)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='https://wallblush.com/cdn/shop/files/3_97f9d3ca-89b8-40ae-b9ff-3c079aec3bf2.jpg?v=1701125516&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Plaid Wallpaper Can Enhance Rustic Home Interiors — Thoughtful ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/53363373e4b0d8871f15eb09/f9a5b0a1-a5e0-4ee8-8e21-47b04a75f919/299dee3b997834646777bd480b7d7d07.jpg' alt='How Plaid Wallpaper Can Enhance Rustic Home Interiors — Thoughtful ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="846">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Thoughtful Misfit" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/53363373e4b0d8871f15eb09/f9a5b0a1-a5e0-4ee8-8e21-47b04a75f919/299dee3b997834646777bd480b7d7d07.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor buffalo check removable wallpaper in grey">
+                                <img itemprop="contentUrl url" src='http://livetteswallpaper.com/cdn/shop/products/Modern-farmhouse-boho-master-bedroom-interior-with-plaid-wallpaper.jpg?v=1595366927' alt='Watercolor buffalo check removable wallpaper in grey'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livettes Wallpaper" />
+                                </span>
+                                <a href='http://livetteswallpaper.com/cdn/shop/products/Modern-farmhouse-boho-master-bedroom-interior-with-plaid-wallpaper.jpg?v=1595366927' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cream Tartan Wallpaper, Peel & Stick or Traditional Unpasted">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/files/cream-tartan-wallpaper-peel-stick-or-traditional-unpasted-544057.png?crop=center&height=890&v=1730491670&width=890' alt='Cream Tartan Wallpaper, Peel & Stick or Traditional Unpasted'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="890">
+                                <meta itemprop="height" content="890">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/files/cream-tartan-wallpaper-peel-stick-or-traditional-unpasted-544057.png?crop=center&height=890&v=1730491670&width=890' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

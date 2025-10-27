@@ -1,0 +1,129 @@
+<title>Inspiring Life of Mother Teresa: A Biography</title>
+                    <meta name="description" content="Explore the life of Mother Teresa, a symbol of compassion and charity. Discover her journey from Albania to founding the Missionaries of Charity, serving millions in need. Learn about her impactful legacy and her dedication to helping the world's poorest communities.">
+                    <meta name="keywords" content="mother teresa biography">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/mother-teresa-biography">
+                            <span itemprop="name">mother teresa biography</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Inspiring Life of Mother Teresa: A Biography</h1>
+                <p>Mother Teresa, born in 1910 in Albania, dedicated her life to serving the poor and sick. She founded the Missionaries of Charity in 1950, providing care to the destitute worldwide. Known for her compassion, she received numerous awards, including the Nobel Peace Prize in 1979. Her legacy inspires compassion and charitable work globally.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mother Teresa - Quotes, Death & Saint">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/motherteresa_facts_desktop.jpg' alt='Mother Teresa - Quotes, Death & Saint'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1443">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/motherteresa_facts_desktop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mother Teresa (Revised Edition): An Authorized Biography">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81XXexKKUeL._AC_UF1000,1000_QL80_.jpg' alt='Mother Teresa (Revised Edition): An Authorized Biography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="663">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81XXexKKUeL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mother Teresa - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/d/d6/Mother_Teresa_1.jpg' alt='Mother Teresa - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="5512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/d/d6/Mother_Teresa_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Life of Mother Teresa- Biographical Passage and Assessment ...">
+                                <img itemprop="contentUrl url" src='https://s3.us-west-2.amazonaws.com/cdn.classful.com/wp-content/uploads/2024/01/659ac0bda50ee12429184041704640699732-preview1.jpg' alt='The Life of Mother Teresa- Biographical Passage and Assessment ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1978">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Classful" />
+                                </span>
+                                <a href='https://s3.us-west-2.amazonaws.com/cdn.classful.com/wp-content/uploads/2024/01/659ac0bda50ee12429184041704640699732-preview1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mother Teresa: A Biography: Greenwood Biographies Meg Greene Greenwood">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/bloomsbury-atlas/image/upload/w_568,c_scale,dpr_1.5/jackets/9780313327711.jpg' alt='Mother Teresa: A Biography: Greenwood Biographies Meg Greene Greenwood'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="852">
+                                <meta itemprop="height" content="1361">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bloomsbury Publishing" />
+                                </span>
+                                <a href='https://res.cloudinary.com/bloomsbury-atlas/image/upload/w_568,c_scale,dpr_1.5/jackets/9780313327711.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mother Teresa | Canonization, Awards, Facts, & Feast Day | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/42/155442-050-AB85E00E/Mother-Teresa.jpg' alt='Mother Teresa | Canonization, Awards, Facts, & Feast Day | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1294">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/42/155442-050-AB85E00E/Mother-Teresa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mother Teresa: A Complete Authorized Biography by Kathryn Spink ...">
+                                <img itemprop="contentUrl url" src='https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1439860766i/220306.jpg' alt='Mother Teresa: A Complete Authorized Biography by Kathryn Spink ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="317">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Goodreads" />
+                                </span>
+                                <a href='https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1439860766i/220306.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mother Teresa - Quotes, Death & Saint">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/mother-teresa-9504160-1-402.jpg' alt='Mother Teresa - Quotes, Death & Saint'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="402">
+                                <meta itemprop="height" content="402">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/mother-teresa-9504160-1-402.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mother Teresa biography for kids">
+                                <img itemprop="contentUrl url" src='https://www.lottie.com/cdn/shop/articles/Mother-Teresa_1024x1024.jpg?v=1603297536' alt='Mother Teresa biography for kids'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lottie Dolls" />
+                                </span>
+                                <a href='https://www.lottie.com/cdn/shop/articles/Mother-Teresa_1024x1024.jpg?v=1603297536' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DK Biography: Mother Teresa: A Photographic Story of a Life: Gold, Maya,  DK: 0690472038801: Amazon.com: Books">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81HDH-96UAL._AC_UF1000,1000_QL80_.jpg' alt='DK Biography: Mother Teresa: A Photographic Story of a Life: Gold, Maya,  DK: 0690472038801: Amazon.com: Books'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="652">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81HDH-96UAL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

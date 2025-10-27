@@ -1,0 +1,129 @@
+<title>Stunning Starry Night Backgrounds for Every Space</title>
+                    <meta name="description" content="Discover captivating starry night backgrounds that bring the beauty of the cosmos into your environment. Ideal for decor, events, or digital use, these designs capture the magic of the night sky. Elevate your space with our enchanting starry night themes today!">
+                    <meta name="keywords" content="starry night background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/starry-night-background">
+                            <span itemprop="name">starry night background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Starry Night Backgrounds for Every Space</h1>
+                <p>Transform your space with a mesmerizing starry night background. Perfect for adding a touch of cosmic beauty, this enchanting design features a rich, deep blue canvas speckled with twinkling stars. Enhance your room, party, or digital project with this stunning backdrop that evokes the serene wonder of a clear night sky.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stars Clouds Starry Night Cloudscape Cg">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/videos/3611343793/thumb/1.jpg?ip=x480' alt='Stars Clouds Starry Night Cloudscape Cg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/videos/3611343793/thumb/1.jpg?ip=x480' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starry Night Painting Stock Photos, Images and Backgrounds for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/046/256/568/small_2x/a-painting-of-a-starry-night-sky-over-a-river-free-photo.jpg' alt='Starry Night Painting Stock Photos, Images and Backgrounds for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="711">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/046/256/568/small_2x/a-painting-of-a-starry-night-sky-over-a-river-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starry Night Photos, Download The BEST Free Starry Night Stock ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/957010/milky-way-starry-sky-night-sky-star-957010.jpeg?cs=srgb&dl=pexels-felixmittermeier-957010.jpg&fm=jpg' alt='Starry Night Photos, Download The BEST Free Starry Night Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6000">
+                                <meta itemprop="height" content="3375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/957010/milky-way-starry-sky-night-sky-star-957010.jpeg?cs=srgb&dl=pexels-felixmittermeier-957010.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starry Night Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/021/972/932/non_2x/starry-sky-in-the-night-background-vector.jpg' alt='Starry Night Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1680">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/021/972/932/non_2x/starry-sky-in-the-night-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starry Night Images – Browse 1,705,845 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/44/74/51/360_F_244745114_mK5n4nO4sAbJph8cdTrMT75uhetthlwJ.jpg' alt='Starry Night Images – Browse 1,705,845 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="541">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/44/74/51/360_F_244745114_mK5n4nO4sAbJph8cdTrMT75uhetthlwJ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Van Gogh - Starry Night - Google Art Project.jpg - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/2560px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg' alt='File:Van Gogh - Starry Night - Google Art Project.jpg - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2027">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/2560px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starry Night Sky Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1622793139910-e261be0b30a4?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c3RhcnJ5JTIwbmlnaHQlMjBza3l8ZW58MHx8MHx8fDA%3D' alt='Starry Night Sky Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1622793139910-e261be0b30a4?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c3RhcnJ5JTIwbmlnaHQlMjBza3l8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="149,481 Starry Night Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/starry-night-sky-blue-background-stars-scattered-throughout-creating-sense-depth-vastness-scene-evokes-345895257.jpg' alt='149,481 Starry Night Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/starry-night-sky-blue-background-stars-scattered-throughout-creating-sense-depth-vastness-scene-evokes-345895257.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starry Night Photos, Download The BEST Free Starry Night Stock ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/574115/pexels-photo-574115.jpeg?cs=srgb&dl=pexels-sheenawood-574115.jpg&fm=jpg' alt='Starry Night Photos, Download The BEST Free Starry Night Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1330">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/574115/pexels-photo-574115.jpeg?cs=srgb&dl=pexels-sheenawood-574115.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AI Generated Enchanting starry night sky over grass field 41391016 ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/041/391/016/non_2x/ai-generated-enchanting-starry-night-sky-over-grass-field-photo.jpg' alt='AI Generated Enchanting starry night sky over grass field 41391016 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1749">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/041/391/016/non_2x/ai-generated-enchanting-starry-night-sky-over-grass-field-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

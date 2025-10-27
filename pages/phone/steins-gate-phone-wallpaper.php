@@ -1,0 +1,129 @@
+<title>Vibrant Steins Gate Phone Wallpapers for Fans</title>
+                    <meta name="description" content="Discover a collection of vibrant Steins Gate phone wallpapers to personalize your mobile device. Perfect for fans, these wallpapers capture the essence of the anime's characters and themes. Download your favorite design and let your phone reflect your passion for Steins Gate!">
+                    <meta name="keywords" content="steins gate phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/steins-gate-phone-wallpaper">
+                            <span itemprop="name">steins gate phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Steins Gate Phone Wallpapers for Fans</h1>
+                <p>Transform your device with stunning Steins Gate phone wallpapers! Featuring a variety of designs inspired by characters and iconic moments from the series, these wallpapers are perfect for every fan. Choose your favorite and give your phone a unique look that showcases your love for this mind-bending anime!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Collection of my Steins;Gate Phone Wallpapers. Hope you find ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/QbYlf2cKw1ZFbRUrlJwNBrVpBfeSipEGnziT24kL5hk.jpg?auto=webp&s=e3c17c2e55e7c5452f7657bdb2e3d2dea381231c' alt='A Collection of my Steins;Gate Phone Wallpapers. Hope you find ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/QbYlf2cKw1ZFbRUrlJwNBrVpBfeSipEGnziT24kL5hk.jpg?auto=webp&s=e3c17c2e55e7c5452f7657bdb2e3d2dea381231c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New phone wallpaper : r/steinsgate">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/ZIGWTxo.jpg' alt='New phone wallpaper : r/steinsgate'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2852">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.imgur.com/ZIGWTxo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Collection of my Steins;Gate Phone Wallpapers. Hope you find ...">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/mfyLJvZ.jpg' alt='A Collection of my Steins;Gate Phone Wallpapers. Hope you find ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.imgur.com/mfyLJvZ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New phone wallpaper : r/steinsgate">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/eoPuIeYMa7kE69G42oIKeyQSgXkd_lCnnEkVJJm_IGc.jpg?auto=webp&s=d656a638a3c445f680962d2b25b4bcf811e4e29e' alt='New phone wallpaper : r/steinsgate'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/eoPuIeYMa7kE69G42oIKeyQSgXkd_lCnnEkVJJm_IGc.jpg?auto=webp&s=d656a638a3c445f680962d2b25b4bcf811e4e29e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My favorite Steins;gate phone wallpaper. : r/steinsgate">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/12qisxnpowr31.jpg' alt='My favorite Steins;gate phone wallpaper. : r/steinsgate'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="701">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/12qisxnpowr31.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anyone got some good Steins;Gate phone wallpapers? : r/steinsgate">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/f3/da/41/f3da41fb0fac7421a3a545a2cbdf1a4b.jpg' alt='Anyone got some good Steins;Gate phone wallpapers? : r/steinsgate'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="3017">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/f3/da/41/f3da41fb0fac7421a3a545a2cbdf1a4b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: Steins;Gate, amoled, dark, vertical, Okabe Rintarou">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d9/53/a6/d953a6cb5e0fbec4e8a901f7017eb228.jpg' alt='HD wallpaper: Steins;Gate, amoled, dark, vertical, Okabe Rintarou'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1553">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d9/53/a6/d953a6cb5e0fbec4e8a901f7017eb228.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steins:Gate 0 Okabe Blank Phone Wallpaper by Kaz-Kirigiri on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7cbaad78-b934-4415-bef4-50bb8b30603f/dceolm9-b767465f-9f86-4d28-aa68-fce0bcd0b06b.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjYmFhZDc4LWI5MzQtNDQxNS1iZWY0LTUwYmI4YjMwNjAzZlwvZGNlb2xtOS1iNzY3NDY1Zi05Zjg2LTRkMjgtYWE2OC1mY2UwYmNkMGIwNmIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.HWoS-ewqO_6wAytqdl8LqQJoT2Ox1TZdtJWlBq1AbSw' alt='Steins:Gate 0 Okabe Blank Phone Wallpaper by Kaz-Kirigiri on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2133">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7cbaad78-b934-4415-bef4-50bb8b30603f/dceolm9-b767465f-9f86-4d28-aa68-fce0bcd0b06b.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjYmFhZDc4LWI5MzQtNDQxNS1iZWY0LTUwYmI4YjMwNjAzZlwvZGNlb2xtOS1iNzY3NDY1Zi05Zjg2LTRkMjgtYWE2OC1mY2UwYmNkMGIwNmIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.HWoS-ewqO_6wAytqdl8LqQJoT2Ox1TZdtJWlBq1AbSw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steins;Gate Mobile Wallpaper by WHITE FOX #1524067 - Zerochan ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/07/9a/50/079a50da7fd1b8ecc2868ce041ed387d.jpg' alt='Steins;Gate Mobile Wallpaper by WHITE FOX #1524067 - Zerochan ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1082">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/07/9a/50/079a50da7fd1b8ecc2868ce041ed387d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A phone wallpaper edit, I made the picture a little bit bigger : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/kq8rtwjlyet41.jpg' alt='A phone wallpaper edit, I made the picture a little bit bigger : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/kq8rtwjlyet41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

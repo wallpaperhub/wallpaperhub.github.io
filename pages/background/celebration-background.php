@@ -1,0 +1,129 @@
+<title>Vibrant Celebration Backgrounds for Every Occasion</title>
+                    <meta name="description" content="Add flair to your events with our vibrant celebration backgrounds. Perfect for birthdays, weddings, and holidays, these themes enhance the festive spirit and create unforgettable memories. Transform any space into a joyful atmosphere with colorful designs and stunning decorations that captivate guests instantly!">
+                    <meta name="keywords" content="celebration background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/celebration-background">
+                            <span itemprop="name">celebration background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Celebration Backgrounds for Every Occasion</h1>
+                <p>Celebration backgrounds set the stage for memorable moments, whether it's a birthday, wedding, or holiday gathering. They create a festive atmosphere, enhancing the joy and excitement of any occasion. Colorful banners, twinkling lights, and vibrant themes can transform a simple space into a celebration that resonates with joy and togetherness.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant Celebration Background Stock Illustrations – 705,083 ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/golden-confetti-rain-elegant-celebration-background-generative-ai-golden-confetti-rain-elegant-celebration-background-generative-329790715.jpg' alt='Elegant Celebration Background Stock Illustrations – 705,083 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/golden-confetti-rain-elegant-celebration-background-generative-ai-golden-confetti-rain-elegant-celebration-background-generative-329790715.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celebration Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/001/929/447/small/confetti-and-colorful-ribbons-celebration-background-template-vector.jpg' alt='Celebration Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/001/929/447/small/confetti-and-colorful-ribbons-celebration-background-template-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,919,700+ Celebration Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1398142930/vector/magic-night-dark-blue-frame-with-sparkling-glitter-bokeh-and-light-art.jpg?s=612x612&w=0&k=20&c=qnu4qBbJMlQbQkv3o_O6S-PVAThZuo0izR0olhUBGCg=' alt='2,919,700+ Celebration Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1398142930/vector/magic-night-dark-blue-frame-with-sparkling-glitter-bokeh-and-light-art.jpg?s=612x612&w=0&k=20&c=qnu4qBbJMlQbQkv3o_O6S-PVAThZuo0izR0olhUBGCg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celebration Background" Images – Browse 108,526 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/08/03/08/77/360_F_803087763_swUZJ2Rr2EOuOOEtkkmL094ceMAR56rq.jpg' alt='Celebration Background" Images – Browse 108,526 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/08/03/08/77/360_F_803087763_swUZJ2Rr2EOuOOEtkkmL094ceMAR56rq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celebration Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/002/267/284/small/festa-junina-celebration-background-free-vector.jpg' alt='Celebration Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="313">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/002/267/284/small/festa-junina-celebration-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celebration Images – Browse 53,892,938 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/37/60/22/360_F_237602205_0nZtUInvGMUt0nIMYmqUdaxPs9EQClr2.jpg' alt='Celebration Images – Browse 53,892,938 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="713">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/37/60/22/360_F_237602205_0nZtUInvGMUt0nIMYmqUdaxPs9EQClr2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,919,700+ Celebration Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1084053296/vector/christmas-background-of-bokeh-lights-and-stars.jpg?s=612x612&w=0&k=20&c=5YQPaKTDlDnq4vl3dFZ3HobJ9wFvmLXhqTm7LcFqz1Q=' alt='2,919,700+ Celebration Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="434">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1084053296/vector/christmas-background-of-bokeh-lights-and-stars.jpg?s=612x612&w=0&k=20&c=5YQPaKTDlDnq4vl3dFZ3HobJ9wFvmLXhqTm7LcFqz1Q=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Celebration Background Vector Art, Icons, and Graphics for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/038/466/531/non_2x/gold-fireworks-celebration-on-red-background-for-chinese-new-year-vector.jpg' alt='Red Celebration Background Vector Art, Icons, and Graphics for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1733">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/038/466/531/non_2x/gold-fireworks-celebration-on-red-background-for-chinese-new-year-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celebration Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/celebration-background-with-streamers_1284-5035.jpg' alt='Celebration Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/celebration-background-with-streamers_1284-5035.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celebration Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20220429/pngtree-birthday-celebration-black-gold-background-balloons-border-image_1074445.jpg' alt='Celebration Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="505">
+                                <meta itemprop="height" content="361">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20220429/pngtree-birthday-celebration-black-gold-background-balloons-border-image_1074445.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

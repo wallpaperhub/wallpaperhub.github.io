@@ -1,0 +1,129 @@
+<title>Understanding Mexico's Drug Cartels: Impact & Influence</title>
+                    <meta name="description" content="Dive into the complex world of Mexico's drug cartels. Explore their structures, violent rivalries, and the significant effects on society. Gain insights into the ongoing challenges posed by these powerful organizations in this crucial examination of crime and its consequences.">
+                    <meta name="keywords" content="mexico drug cartel">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/mexico-drug-cartel">
+                            <span itemprop="name">mexico drug cartel</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Mexico's Drug Cartels: Impact & Influence</h1>
+                <p>Mexico's drug cartels have long been a dominant force in the global narcotics trade, impacting both local and international landscapes. They are notorious for their violent battles over territory, leading to significant social and economic consequences. Understanding their structure and influence is crucial for grasping the ongoing challenges in Mexico.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mexico's Long War: Drugs, Crime, and the Cartels | Council on ...">
+                                <img itemprop="contentUrl url" src='https://cdn.cfr.org/sites/default/files/styles/immersive_image_3_2_desktop_2x/public/image/2024/08/MexicoDrugWar_BG.webp' alt='Mexico's Long War: Drugs, Crime, and the Cartels | Council on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Council on Foreign Relations" />
+                                </span>
+                                <a href='https://cdn.cfr.org/sites/default/files/styles/immersive_image_3_2_desktop_2x/public/image/2024/08/MexicoDrugWar_BG.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mexico cartels: Which are the biggest and most powerful?">
+                                <img itemprop="contentUrl url" src='https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/82AC/production/_109325433_gettyimages-474221265.jpg.webp' alt='Mexico cartels: Which are the biggest and most powerful?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC" />
+                                </span>
+                                <a href='https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/82AC/production/_109325433_gettyimages-474221265.jpg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mexico Drug War Fast Facts | CNN">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/120113082946-mexico-drug-war-03-seizures.jpg?q=w_3978,h_2304,x_0,y_0,c_fill/h_447' alt='Mexico Drug War Fast Facts | CNN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="772">
+                                <meta itemprop="height" content="447">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/120113082946-mexico-drug-war-03-seizures.jpg?q=w_3978,h_2304,x_0,y_0,c_fill/h_447' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Are Mexican drug cartels as powerful as people think? - Los ...">
+                                <img itemprop="contentUrl url" src='https://ca-times.brightspotcdn.com/dims4/default/814edfa/2147483647/strip/true/crop/2498x1665+1+0/resize/2000x1333!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb6%2F07%2F4ae8f5874ee3b850ce7e8f420f6c%2Fgettyimages-504143778.jpg' alt='Are Mexican drug cartels as powerful as people think? - Los ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Los Angeles Times" />
+                                </span>
+                                <a href='https://ca-times.brightspotcdn.com/dims4/default/814edfa/2147483647/strip/true/crop/2498x1665+1+0/resize/2000x1333!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb6%2F07%2F4ae8f5874ee3b850ce7e8f420f6c%2Fgettyimages-504143778.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mexican drug war - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/6/69/Detenciones_Michoac%C3%A1n.jpg' alt='Mexican drug war - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/6/69/Detenciones_Michoac%C3%A1n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="U.S. judge sentences Mexican cartel boss to life in prison | Reuters">
+                                <img itemprop="contentUrl url" src='https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MDCSSZPLW5KIBLPA6R632PLYFU.jpg' alt='U.S. judge sentences Mexican cartel boss to life in prison | Reuters'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3500">
+                                <meta itemprop="height" content="2508">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reuters" />
+                                </span>
+                                <a href='https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MDCSSZPLW5KIBLPA6R632PLYFU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Mexican Cartels Ended Up With ATF Guns From the USA">
+                                <img itemprop="contentUrl url" src='https://www.rollingstone.com/wp-content/uploads/2024/04/how-us-arms-mexican-cartels.jpg?w=1581&h=1054&crop=1' alt='How Mexican Cartels Ended Up With ATF Guns From the USA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1581">
+                                <meta itemprop="height" content="1054">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone" />
+                                </span>
+                                <a href='https://www.rollingstone.com/wp-content/uploads/2024/04/how-us-arms-mexican-cartels.jpg?w=1581&h=1054&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mexican drug cartel hitman 'was behind 1,500 murders'">
+                                <img itemprop="contentUrl url" src='https://s.france24.com/media/display/640bb8c8-0ab5-11e9-aa3b-005056a964fe/w:1280/p:1x1/Mexico-Murders.jpg' alt='Mexican drug cartel hitman 'was behind 1,500 murders''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="France 24" />
+                                </span>
+                                <a href='https://s.france24.com/media/display/640bb8c8-0ab5-11e9-aa3b-005056a964fe/w:1280/p:1x1/Mexico-Murders.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The alleged Mexican drug cartel bosses arrested or extradited in ...">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/ap20216175723876.jpg?c=original' alt='The alleged Mexican drug cartel bosses arrested or extradited in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/ap20216175723876.jpg?c=original' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sinaloa shootout: Mexico troops kill 19 suspected cartel members">
+                                <img itemprop="contentUrl url" src='https://www.aljazeera.com/wp-content/uploads/2024/10/2024-10-16T220807Z_1285304352_RC24LAAZBZEO_RTRMADP_3_MEXICO-VIOLENCE-1729667080.jpg?resize=1800%2C1800' alt='Sinaloa shootout: Mexico troops kill 19 suspected cartel members'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Al Jazeera" />
+                                </span>
+                                <a href='https://www.aljazeera.com/wp-content/uploads/2024/10/2024-10-16T220807Z_1285304352_RC24LAAZBZEO_RTRMADP_3_MEXICO-VIOLENCE-1729667080.jpg?resize=1800%2C1800' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

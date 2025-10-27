@@ -1,0 +1,129 @@
+<title>Vibrant Neon Tropical Wallpaper: Brighten Your Space</title>
+                    <meta name="description" content="Discover stunning neon tropical wallpaper that instantly elevates your home or office. Featuring vibrant patterns of lush foliage and bright colors, this wallpaper is perfect for creating a lively atmosphere. Transform your interiors effortlessly with this bold and refreshing decor choice!">
+                    <meta name="keywords" content="neon tropical wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/neon-tropical-wallpaper">
+                            <span itemprop="name">neon tropical wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Neon Tropical Wallpaper: Brighten Your Space</h1>
+                <p>Transform your space with vibrant neon tropical wallpaper! Ideal for creating an island vibe, this eye-catching design features lush palm leaves and exotic florals. Perfect for accent walls or creative spaces, it brings a splash of color and warmth to any room. Elevate your décor with the bold imagery and fresh aesthetic of this unique wallpaper.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Tropical Images – Browse 203,266 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/52/67/57/360_F_252675757_WDxxfyS3e8V0oRG1hUpdi6FfR6iJKH9h.jpg' alt='Neon Tropical Images – Browse 203,266 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="552">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/52/67/57/360_F_252675757_WDxxfyS3e8V0oRG1hUpdi6FfR6iJKH9h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Holographic Neon Tropical Plants Seamless Digital Paper Background ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28921914/r/il/1f458b/3999681682/il_fullxfull.3999681682_eahr.jpg' alt='Holographic Neon Tropical Plants Seamless Digital Paper Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28921914/r/il/1f458b/3999681682/il_fullxfull.3999681682_eahr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Tropical Images – Browse 203,266 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/08/30/42/31/360_F_830423103_C8LYebfmmIJnRxWhGvAXkTdGscBi1gCX.jpg' alt='Neon Tropical Images – Browse 203,266 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/08/30/42/31/360_F_830423103_C8LYebfmmIJnRxWhGvAXkTdGscBi1gCX.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,700+ Tropical Neon Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1288334631/vector/tropical-elegant-frame-arranged-from-exotic-emerald-leaves-design-vector.jpg?s=612x612&w=0&k=20&c=rr5BFvV6ML_dflkt0Jf3td-SsN-Y4I7NjUDDELW5X3M=' alt='3,700+ Tropical Neon Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1288334631/vector/tropical-elegant-frame-arranged-from-exotic-emerald-leaves-design-vector.jpg?s=612x612&w=0&k=20&c=rr5BFvV6ML_dflkt0Jf3td-SsN-Y4I7NjUDDELW5X3M=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tropical Neon Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/027/105/316/non_2x/vibrant-gradient-holographic-neon-colors-on-tropical-and-palm-leaves-minimal-surreal-background-for-concept-art-photo.jpg' alt='Tropical Neon Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2243">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/027/105/316/non_2x/vibrant-gradient-holographic-neon-colors-on-tropical-and-palm-leaves-minimal-surreal-background-for-concept-art-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Palms - Heavy Type II">
+                                <img itemprop="contentUrl url" src='http://wallsneedlove.com/cdn/shop/products/w0222_1s_Neon-Palms-Removable-Peel-and-Stick-Wallpaper_Repeating-Pattern-Sample-1.jpg?v=1734717853' alt='Neon Palms - Heavy Type II'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3028">
+                                <meta itemprop="height" content="1872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='http://wallsneedlove.com/cdn/shop/products/w0222_1s_Neon-Palms-Removable-Peel-and-Stick-Wallpaper_Repeating-Pattern-Sample-1.jpg?v=1734717853' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon tropical wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/4c/4d/3c/4c4d3c67a99d659969248c7bd2534b19.jpg' alt='Neon tropical wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/4c/4d/3c/4c4d3c67a99d659969248c7bd2534b19.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8f/25/8e/8f258eefe28b190634bbb883912ab00c.jpg' alt='Neon Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="1174">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8f/25/8e/8f258eefe28b190634bbb883912ab00c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7,600+ Neon Tropical Leaves Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1415563302/photo/creative-layout-installed-with-tropical-colorful-plants-forest-glow-in-the-dark-background.jpg?s=612x612&w=0&k=20&c=-OZqDlkI7kHz7_8K4aa5UX4s4OIooBsE4ZC8gVic9dU=' alt='7,600+ Neon Tropical Leaves Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="407">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1415563302/photo/creative-layout-installed-with-tropical-colorful-plants-forest-glow-in-the-dark-background.jpg?s=612x612&w=0&k=20&c=-OZqDlkI7kHz7_8K4aa5UX4s4OIooBsE4ZC8gVic9dU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Tropical Palm Leaves Vectors & Illustrations for Free ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/tropical-neon-lettering-with-leaves_52683-37832.jpg' alt='Neon Tropical Palm Leaves Vectors & Illustrations for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="391">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/tropical-neon-lettering-with-leaves_52683-37832.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

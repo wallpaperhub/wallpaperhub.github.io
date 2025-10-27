@@ -1,0 +1,129 @@
+<title>Epic Dragon Ball Wallpapers for Your Phone</title>
+                    <meta name="description" content="Discover the ultimate collection of Dragon Ball wallpapers for your phone! From dynamic action scenes to gorgeous character portraits, find the perfect design to showcase your passion for the series. Download now and elevate your mobile experience with stunning visuals!">
+                    <meta name="keywords" content="dragon ball wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/dragon-ball-wallpaper-phone">
+                            <span itemprop="name">dragon ball wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Dragon Ball Wallpapers for Your Phone</h1>
+                <p>Transform your phone with stunning Dragon Ball wallpapers! Explore a variety of designs featuring your favorite characters like Goku, Vegeta, and Frieza. Whether you prefer action-packed scenes or serene moments, these wallpapers bring the epic world of Dragon Ball to your screen. Customize your device today and show off your love for the series!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I edited a DBZ phone wallpaper : r/dbz">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/6x3qzt6f0ga61.jpg' alt='I edited a DBZ phone wallpaper : r/dbz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="8000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/6x3qzt6f0ga61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Dragon Ball Z Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/dragon-ball-z-iphone-vmi5qjhyv2vnyj0c.jpg' alt='100+] Dragon Ball Z Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/dragon-ball-z-iphone-vmi5qjhyv2vnyj0c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="drop your favorite dbz wallpaper. : r/Dragonballsuper">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/drop-your-favorite-dbz-wallpaper-v0-pw36kxkgjqbd1.jpeg?width=720&format=pjpg&auto=webp&s=66b866f6d4d134ac3a1b29294e2ec20d365a153c' alt='drop your favorite dbz wallpaper. : r/Dragonballsuper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/drop-your-favorite-dbz-wallpaper-v0-pw36kxkgjqbd1.jpeg?width=720&format=pjpg&auto=webp&s=66b866f6d4d134ac3a1b29294e2ec20d365a153c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="drop your favorite dbz wallpaper. : r/Dragonballsuper">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/drop-your-favorite-dbz-wallpaper-v0-4m7r7zg50tbd1.jpeg?width=1896&format=pjpg&auto=webp&s=c88e519d176ad77658d34ada98957db1934c7c15' alt='drop your favorite dbz wallpaper. : r/Dragonballsuper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1896">
+                                <meta itemprop="height" content="4096">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/drop-your-favorite-dbz-wallpaper-v0-4m7r7zg50tbd1.jpeg?width=1896&format=pjpg&auto=webp&s=c88e519d176ad77658d34ada98957db1934c7c15' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flying on Nimbus wallpaper | Dragon Ball Z Wallpapers | iPhone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3e/69/7c/3e697c5ba1a2ce47605e419ad2eff747.jpg' alt='Flying on Nimbus wallpaper | Dragon Ball Z Wallpapers | iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3e/69/7c/3e697c5ba1a2ce47605e419ad2eff747.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone wallpaper HD amoled - Dragon Ball - Heroscreen | Free image ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw3NkXrBANyWnGvHbFqIvOeo0fB3x3xxw3iCs7kA6KJMKRd7qGd6aufS3tUoK1K-Irph6hkfDYKxzi6_aAZNgMBiEnDEjNmnCoBu2WN1nTuvG2YV5XuYv1Vb8fEqBtHqsOYWs0CrbkQXcN/d/Dragon-ball-amoled-wallpaper-hd.png' alt='Phone wallpaper HD amoled - Dragon Ball - Heroscreen | Free image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1205">
+                                <meta itemprop="height" content="2609">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw3NkXrBANyWnGvHbFqIvOeo0fB3x3xxw3iCs7kA6KJMKRd7qGd6aufS3tUoK1K-Irph6hkfDYKxzi6_aAZNgMBiEnDEjNmnCoBu2WN1nTuvG2YV5XuYv1Vb8fEqBtHqsOYWs0CrbkQXcN/d/Dragon-ball-amoled-wallpaper-hd.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD dragon ball iphone wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/375/622/HD-wallpaper-anime-aesthetic-dragon-ball-dragon-ball-iphone-dragon-ball-art-goku-aesthetic-dragon-ball-z-thumbnail.jpg' alt='HD dragon ball iphone wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/375/622/HD-wallpaper-anime-aesthetic-dragon-ball-dragon-ball-iphone-dragon-ball-art-goku-aesthetic-dragon-ball-z-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball Z | Dragon Ball Z Wallpapers | iPhone Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a1/57/79/a157797ad9ce87686dcff192152240c1.jpg' alt='Dragon Ball Z | Dragon Ball Z Wallpapers | iPhone Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a1/57/79/a157797ad9ce87686dcff192152240c1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball Z Wallpapers (31 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/5/9/2/144071-2160x3840-samsung-4k-dragon-ball-z-background-photo.jpg' alt='Dragon Ball Z Wallpapers (31 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/5/9/2/144071-2160x3840-samsung-4k-dragon-ball-z-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stay In The Fight With This Awesome Dragon Ball Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/stay-in-the-fight-with-this-awesome-dragon-ball-wallpaper-35ctvjprbht792n7.jpg' alt='Stay In The Fight With This Awesome Dragon Ball Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="2120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/stay-in-the-fight-with-this-awesome-dragon-ball-wallpaper-35ctvjprbht792n7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

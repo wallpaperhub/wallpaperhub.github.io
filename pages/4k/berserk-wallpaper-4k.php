@@ -1,0 +1,129 @@
+<title>Berserk 4K Wallpapers: Stunning Visuals for Fans</title>
+                    <meta name="description" content="Discover breathtaking 4K Berserk wallpapers that bring your favorite characters to life. Perfect for fans of Kentaro Miura's epic series, these wallpapers enhance your screens with stunning visuals. Download now and transform your device with captivating, high-resolution art!">
+                    <meta name="keywords" content="berserk wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/berserk-wallpaper-4k">
+                            <span itemprop="name">berserk wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Berserk 4K Wallpapers: Stunning Visuals for Fans</h1>
+                <p>Elevate your device's aesthetic with stunning 4K Berserk wallpapers! Immerse yourself in the dark, gritty world of Kentaro Miura's masterpiece, featuring unforgettable characters like Guts and Griffith. Perfect for fans who want to showcase their passion with breathtaking visuals that capture the essence of the series.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made this 4k art my new main wallpaper. Thank you, Kentaro Miura ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/lih2tr4a97171.jpg' alt='Made this 4k art my new main wallpaper. Thank you, Kentaro Miura ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/lih2tr4a97171.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Berserk Minimal Digital Art Wallpaper, HD Minimalist 4K Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/berserk-minimal-digital-art_bW1mamyUmZqaraWkpJRmbmdlrWZlbWU.jpg' alt='Berserk Minimal Digital Art Wallpaper, HD Minimalist 4K Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/berserk-minimal-digital-art_bW1mamyUmZqaraWkpJRmbmdlrWZlbWU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Berserk Wallpapers [20+]">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/walls/thumbs/19127.jpg' alt='4K Berserk Wallpapers [20+]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/walls/thumbs/19127.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Griffith Eclipse - Berserk 4K Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/114/1147926.jpg' alt='Griffith Eclipse - Berserk 4K Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/114/1147926.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guts Wallpaper 4K, 5K, Berserk, Dragon Slayer">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/guts-5k-berserk-4480x2520-13631.jpg' alt='Guts Wallpaper 4K, 5K, Berserk, Dragon Slayer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4480">
+                                <meta itemprop="height" content="2520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/guts-5k-berserk-4480x2520-13631.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guts Wallpaper 4K, Berserk, Dark background, Moon">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/41/85/12/4185129df366b87cd891380c3fa4b6bb.jpg' alt='Guts Wallpaper 4K, Berserk, Dark background, Moon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/41/85/12/4185129df366b87cd891380c3fa4b6bb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Edited Berserk wallpapers : r/Berserk">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/2sto7vflqp581.jpg?width=1080&crop=smart&auto=webp&s=ce6ce79d644d4ef4417504528aa90e51340feb30' alt='Edited Berserk wallpapers : r/Berserk'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1986">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/2sto7vflqp581.jpg?width=1080&crop=smart&auto=webp&s=ce6ce79d644d4ef4417504528aa90e51340feb30' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download 4k Manga Berserk Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/4k-manga-ktake3wc8h35jwdo.jpg' alt='Download 4k Manga Berserk Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/4k-manga-ktake3wc8h35jwdo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WallpaperSun">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/aa/83/f4/aa83f400db6de3df9f0a321e63293596.jpg' alt='WallpaperSun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="653">
+                                <meta itemprop="height" content="1072">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/aa/83/f4/aa83f400db6de3df9f0a321e63293596.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Berserk (Anime) Wallpapers (46 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/b/c/4/1643687-3840x2160-desktop-4k-berserk-anime-wallpaper-image.jpg' alt='Berserk (Anime) Wallpapers (46 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/b/c/4/1643687-3840x2160-desktop-4k-berserk-anime-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>“Tips for Painting Trees in the Background”</title>
+                    <meta name="description" content="Discover essential tips for painting trees in the background of your artwork. Learn how to capture the essence of nature with color and texture, enhancing depth and emotion. Perfect for both beginners and experienced artists, this guide will help elevate your painting skills!">
+                    <meta name="keywords" content="painting trees in the background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/painting-trees-in-the-background">
+                            <span itemprop="name">painting trees in the background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>“Tips for Painting Trees in the Background”</h1>
+                <p>Painting trees in the background can bring depth and serenity to any artwork. When capturing their essence, focus on varying shades of green and brown to represent light and shadow. Experiment with different brush techniques, such as stippling or blending, to create realistic textures. Trees not only enhance the scenery but also evoke emotions, grounding your piece in nature's beauty.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Paint Trees and Leaves - Samuel Earp">
+                                <img itemprop="contentUrl url" src='https://samuelearp.com/wp-content/uploads/2023/05/IMG_9391.jpg' alt='How to Paint Trees and Leaves - Samuel Earp'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1992">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Samuel Earp" />
+                                </span>
+                                <a href='https://samuelearp.com/wp-content/uploads/2023/05/IMG_9391.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="#101 How To Paint Realistic Trees in 3 Easy Steps | Oil Painting Tutorial">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/mBv__7SUsvQ/maxresdefault.jpg' alt='#101 How To Paint Realistic Trees in 3 Easy Steps | Oil Painting Tutorial'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/mBv__7SUsvQ/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Paint Pine Trees - Samuel Earp">
+                                <img itemprop="contentUrl url" src='https://samuelearp.com/wp-content/uploads/2023/05/IMG_3014.jpg' alt='How to Paint Pine Trees - Samuel Earp'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2075">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Samuel Earp" />
+                                </span>
+                                <a href='https://samuelearp.com/wp-content/uploads/2023/05/IMG_3014.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple Trees Acrylic Painting #StudioSilverCreek">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/IhLLD9mOXtY/hqdefault.jpg' alt='Simple Trees Acrylic Painting #StudioSilverCreek'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/IhLLD9mOXtY/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Paint a Landscape - Painting Trees and Rolling Hills ...">
+                                <img itemprop="contentUrl url" src='https://samuelearp.com/wp-content/uploads/2023/05/RollingHills-Northland-SamuelEarp-oilonlinen.jpg' alt='How to Paint a Landscape - Painting Trees and Rolling Hills ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2010">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Samuel Earp" />
+                                </span>
+                                <a href='https://samuelearp.com/wp-content/uploads/2023/05/RollingHills-Northland-SamuelEarp-oilonlinen.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Painting Luminous Trees – Creative Waters Art">
+                                <img itemprop="contentUrl url" src='http://creativewatersart.com/wp-content/uploads/2015/03/Autumn_Serenity.jpg' alt='Painting Luminous Trees – Creative Waters Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="893">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Waters Art" />
+                                </span>
+                                <a href='http://creativewatersart.com/wp-content/uploads/2015/03/Autumn_Serenity.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tree Painting 101 (Learn to Paint Trees with Acrylics ...">
+                                <img itemprop="contentUrl url" src='https://trembelingart.com/wp-content/uploads/2019/05/Old-Barn.jpg' alt='Tree Painting 101 (Learn to Paint Trees with Acrylics ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="770">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Trembeling Art" />
+                                </span>
+                                <a href='https://trembelingart.com/wp-content/uploads/2019/05/Old-Barn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Paint Trees, Step by Step - HubPages">
+                                <img itemprop="contentUrl url" src='https://images.saymedia-content.com/.image/t_share/MTc1MDE2NDMwMzM1ODk1MzM5/tips-painting-trees.jpg' alt='How to Paint Trees, Step by Step - HubPages'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="892">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HubPages" />
+                                </span>
+                                <a href='https://images.saymedia-content.com/.image/t_share/MTc1MDE2NDMwMzM1ODk1MzM5/tips-painting-trees.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="#3 How To Paint Trees In The Distance | Oil Painting Tutorial">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/YhmzYNsevwU/maxresdefault.jpg' alt='#3 How To Paint Trees In The Distance | Oil Painting Tutorial'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/YhmzYNsevwU/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Six Keys to Painting Trees with Character and Dimension ...">
+                                <img itemprop="contentUrl url" src='https://www.outdoorpainter.com/wp-content/uploads/2019/03/how-to-paint-trees-John-MacDonald_Field-Farm-Sunset-1024x809.jpg' alt='Six Keys to Painting Trees with Character and Dimension ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="809">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Outdoor Painter" />
+                                </span>
+                                <a href='https://www.outdoorpainter.com/wp-content/uploads/2019/03/how-to-paint-trees-John-MacDonald_Field-Farm-Sunset-1024x809.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

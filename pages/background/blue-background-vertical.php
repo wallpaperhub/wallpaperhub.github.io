@@ -1,0 +1,129 @@
+<title>Vertical Blue Backgrounds: Enhance Your Design</title>
+                    <meta name="description" content="Discover the power of blue backgrounds in vertical formats. Perfect for banners, graphics, and more, our guide helps you create stunning visuals that engage and captivate your audience. Explore design tips to make your content stand out!">
+                    <meta name="keywords" content="blue background vertical">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blue-background-vertical">
+                            <span itemprop="name">blue background vertical</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vertical Blue Backgrounds: Enhance Your Design</h1>
+                <p>A blue background can evoke feelings of calmness, serenity, and creativity. When used in vertical designs, such as banners or graphics, it can provide an eye-catching canvas that highlights important information or visuals. Perfect for websites, presentations, or social media, a blue vertical background enhances readability while maintaining aesthetic appeal.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 3 | Blue Background Vertical Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/background-colorful-banner-modern-design_677411-3855.jpg' alt='Page 3 | Blue Background Vertical Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="278">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/background-colorful-banner-modern-design_677411-3855.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Plain blue background Vertical backdrop ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/plain-blue-background-vertical-backdrop-illustration-with-copy-space_7954-36884.jpg' alt='Premium Photo | Plain blue background Vertical backdrop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="447">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/plain-blue-background-vertical-backdrop-illustration-with-copy-space_7954-36884.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract vertical background with a combination of light blue and ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/005/912/823/non_2x/abstract-vertical-background-with-a-combination-of-light-blue-and-dark-blue-gradient-colors-free-vector.jpg' alt='Abstract vertical background with a combination of light blue and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="551">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/005/912/823/non_2x/abstract-vertical-background-with-a-combination-of-light-blue-and-dark-blue-gradient-colors-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,100+ Vertical Blue Navy Blue Backgrounds Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1292248964/vector/abstract-poster-handmade-dark-navy-blue-watercolor-background-drawn-by-brush-beautiful.jpg?s=612x612&w=0&k=20&c=v1EpLdXe_R4U4K9IxAggM5ZmoetE8cygR_eQ0UXp4vs=' alt='4,100+ Vertical Blue Navy Blue Backgrounds Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="437">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1292248964/vector/abstract-poster-handmade-dark-navy-blue-watercolor-background-drawn-by-brush-beautiful.jpg?s=612x612&w=0&k=20&c=v1EpLdXe_R4U4K9IxAggM5ZmoetE8cygR_eQ0UXp4vs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Blue gradient vertical Background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/blue-gradient-vertical-background_7954-22564.jpg' alt='Premium Photo | Blue gradient vertical Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="447">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/blue-gradient-vertical-background_7954-22564.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,100+ Vertical Blue Navy Blue Backgrounds Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1154942124/vector/abstract-geometric-shape-technology-background.jpg?s=612x612&w=0&k=20&c=caizuq8jcVOyV2vitmIgmZxNghle4_IlnyRtwXnbCrA=' alt='4,100+ Vertical Blue Navy Blue Backgrounds Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="433">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1154942124/vector/abstract-geometric-shape-technology-background.jpg?s=612x612&w=0&k=20&c=caizuq8jcVOyV2vitmIgmZxNghle4_IlnyRtwXnbCrA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Blue Vertical Lines Image | Download at StockCake">
+                                <img itemprop="contentUrl url" src='https://images.stockcake.com/public/b/c/e/bce9b8f3-2516-4859-9cfa-ecb51f1f4b8d_large/blue-vertical-lines-stockcake.jpg' alt='Free Blue Vertical Lines Image | Download at StockCake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="728">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockCake" />
+                                </span>
+                                <a href='https://images.stockcake.com/public/b/c/e/bce9b8f3-2516-4859-9cfa-ecb51f1f4b8d_large/blue-vertical-lines-stockcake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vertical Bright Blue Texture Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/vertical-bright-blue-texture-a0wyle5dam9vov28.jpg' alt='Vertical Bright Blue Texture Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/vertical-bright-blue-texture-a0wyle5dam9vov28.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Blue Vertical Geometric Simple Minimalistic Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/light-blue-vertical-geometric-simple-260nw-789583747.jpg' alt='Light Blue Vertical Geometric Simple Minimalistic Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="163">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/light-blue-vertical-geometric-simple-260nw-789583747.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Background Vertical Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/artistic-blurry-colorful-wallpaper-background_58702-8237.jpg' alt='Blue Background Vertical Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="418">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/artistic-blurry-colorful-wallpaper-background_58702-8237.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

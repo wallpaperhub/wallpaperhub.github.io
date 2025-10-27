@@ -1,0 +1,129 @@
+<title>Exploring the Iconic Star Wars Cantina Background</title>
+                    <meta name="description" content="Discover the rich history and vibrant atmosphere of the Star Wars cantina. Unravel stories behind its diverse alien patrons, iconic music, and unique drinks that make it a central hub in the galaxy. Join the adventure and immerse yourself in the lore of this legendary establishment!">
+                    <meta name="keywords" content="star wars cantina background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/star-wars-cantina-background">
+                            <span itemprop="name">star wars cantina background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring the Iconic Star Wars Cantina Background</h1>
+                <p>In the Star Wars universe, the cantina serves as a vibrant social hub, bustling with a diverse array of alien species and characters. Known for its eclectic music, strange drinks, and the infamous Mos Eisley Cantina, it embodies the gritty, adventurous spirit of the galaxy. Here, patrons share stories, forge alliances, and enjoy life away from the Empire's watchful eye.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oga's Cantina | Star Wars Databank | StarWars.com">
+                                <img itemprop="contentUrl url" src='https://lumiere-a.akamaihd.net/v1/images/ogas-cantina-main-2_4231bbfd.jpeg?region=0%2C0%2C1280%2C720' alt='Oga's Cantina | Star Wars Databank | StarWars.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StarWars.com" />
+                                </span>
+                                <a href='https://lumiere-a.akamaihd.net/v1/images/ogas-cantina-main-2_4231bbfd.jpeg?region=0%2C0%2C1280%2C720' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New song from Star Wars cantina band is just one part of the ...">
+                                <img itemprop="contentUrl url" src='https://www.ocregister.com/wp-content/uploads/2019/04/0_OCR-L-DIS-STORY-0830-01HO-1-1.jpg?w=620' alt='New song from Star Wars cantina band is just one part of the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="348">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Orange County Register" />
+                                </span>
+                                <a href='https://www.ocregister.com/wp-content/uploads/2019/04/0_OCR-L-DIS-STORY-0830-01HO-1-1.jpg?w=620' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hottest Star Wars Zoom Backgrounds">
+                                <img itemprop="contentUrl url" src='https://blog.zoombackground.io/images/105461461/image.jpg' alt='Hottest Star Wars Zoom Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Virtual Background Image Collections - Zoom Background Images" />
+                                </span>
+                                <a href='https://blog.zoombackground.io/images/105461461/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="STAR WARS CREATURE CANTINA REPLACEMENT BACKGROUND. Images From The Movie!">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/ysMAAOSwIPZjrhp~/s-l1200.jpg' alt='STAR WARS CREATURE CANTINA REPLACEMENT BACKGROUND. Images From The Movie!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="513">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/ysMAAOSwIPZjrhp~/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mos Eisley Cantina | Star Wars Databank | StarWars.com">
+                                <img itemprop="contentUrl url" src='https://lumiere-a.akamaihd.net/v1/images/mos-eisley-cantina-main_4786e80c.jpeg?region=164%2C0%2C953%2C536' alt='Mos Eisley Cantina | Star Wars Databank | StarWars.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="953">
+                                <meta itemprop="height" content="536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StarWars.com" />
+                                </span>
+                                <a href='https://lumiere-a.akamaihd.net/v1/images/mos-eisley-cantina-main_4786e80c.jpeg?region=164%2C0%2C953%2C536' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="79 Star Wars Cantina Stock Photos, High-Res Pictures, and Images ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1164410283/photo/a-view-of-ogas-cantina-a-bar-at-black-spire-outpost-during-a-sneak-peek-for-invited-guests-of.jpg?s=612x612&w=gi&k=20&c=nH0y_bIp6qMDUwYVhRTsQlI3qU8-qXblrYZhvow5Rfo=' alt='79 Star Wars Cantina Stock Photos, High-Res Pictures, and Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1164410283/photo/a-view-of-ogas-cantina-a-bar-at-black-spire-outpost-during-a-sneak-peek-for-invited-guests-of.jpg?s=612x612&w=gi&k=20&c=nH0y_bIp6qMDUwYVhRTsQlI3qU8-qXblrYZhvow5Rfo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney's Rumored <em>Star Wars</em> Land May Include Real-Life Mos ...">
+                                <img itemprop="contentUrl url" src='https://pyxis.nymag.com/v1/imgs/978/bb7/4fadc1d7252865247c17fcba564f1c193d-18-star-wars-cantina.2x.rsocial.w600.jpg' alt='Disney's Rumored <em>Star Wars</em> Land May Include Real-Life Mos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="629">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Grub Street" />
+                                </span>
+                                <a href='https://pyxis.nymag.com/v1/imgs/978/bb7/4fadc1d7252865247c17fcba564f1c193d-18-star-wars-cantina.2x.rsocial.w600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is Oga's Cantina Worth it for Non-Star Wars Fans?">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/b5ed0a_eb53c4ab674043a689deae6c363da507~mv2.jpg/v1/fill/w_524,h_294,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/b5ed0a_eb53c4ab674043a689deae6c363da507~mv2.jpg' alt='Is Oga's Cantina Worth it for Non-Star Wars Fans?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="524">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Newsletter | Wishes & Wayfinding" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/b5ed0a_eb53c4ab674043a689deae6c363da507~mv2.jpg/v1/fill/w_524,h_294,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/b5ed0a_eb53c4ab674043a689deae6c363da507~mv2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disneyland - Star Wars Cantina | dpm128 | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/65535/51414401244_de4ab4e563_b.jpg' alt='Disneyland - Star Wars Cantina | dpm128 | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/65535/51414401244_de4ab4e563_b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oga's Cantina at Star Wars: Galaxy's Edge - D23">
+                                <img itemprop="contentUrl url" src='https://d23.com/app/uploads/2018/08/1180w-600h_083018_ogas-cantina-swge.jpg' alt='Oga's Cantina at Star Wars: Galaxy's Edge - D23'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1180">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="D23" />
+                                </span>
+                                <a href='https://d23.com/app/uploads/2018/08/1180w-600h_083018_ogas-cantina-swge.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Santa Muerte Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover captivating Santa Muerte wallpapers that bring life to your screens. Perfect for fans and collectors, these designs blend art and reverence. Elevate your device's look—download your favorite Santa Muerte wallpaper today!">
+                    <meta name="keywords" content="santa muerte wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/santa-muerte-wallpaper">
+                            <span itemprop="name">santa muerte wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Santa Muerte Wallpapers for Your Device</h1>
+                <p>Transform your device's appearance with stunning Santa Muerte wallpapers that celebrate the beauty and mystique of this revered figure. Each wallpaper showcases vibrant colors and intricate designs, perfect for devotees or art lovers alike. Download your favorite Santa Muerte wallpaper today and embrace the spirit!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fc/09/0b/fc090b74b8e4ec6f0b70e5f92000d166.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1487">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fc/09/0b/fc090b74b8e4ec6f0b70e5f92000d166.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="140 Santa Muerte ideas | santa muerte, grim reaper art, skull art">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/6e/38/3e/6e383eb7a61c0268745245ac0e2c9cc5.jpg' alt='140 Santa Muerte ideas | santa muerte, grim reaper art, skull art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="323">
+                                <meta itemprop="height" content="456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/6e/38/3e/6e383eb7a61c0268745245ac0e2c9cc5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="140 Santa Muerte ideas | santa muerte, grim reaper art, skull art">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/5c/23/fa/5c23fa147631192d5735ce8ab0a72ef1.jpg' alt='140 Santa Muerte ideas | santa muerte, grim reaper art, skull art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="235">
+                                <meta itemprop="height" content="322">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/5c/23/fa/5c23fa147631192d5735ce8ab0a72ef1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Roses Santa Muerte" iPhone Case for Sale by ingutted | Redbubble">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.4747505989.7284/flat,750x1000,075,t.jpg' alt='Red Roses Santa Muerte" iPhone Case for Sale by ingutted | Redbubble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.4747505989.7284/flat,750x1000,075,t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Día de los Muertos and Santa Muerte honoring spiritual ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/santa-muerte-1u8s1xtjjcd9ip2t.jpg' alt='Download Día de los Muertos and Santa Muerte honoring spiritual ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1373">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/santa-muerte-1u8s1xtjjcd9ip2t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Santa Muerte Gothic Art - free download">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/high/santa-muerte-gothic-art.webp' alt='Santa Muerte Gothic Art - free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="839">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/high/santa-muerte-gothic-art.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="140 Santa Muerte ideas | santa muerte, grim reaper art, skull art">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/e6/62/23/e662234a71d42c04b6b3279187570460.jpg' alt='140 Santa Muerte ideas | santa muerte, grim reaper art, skull art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="307">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/e6/62/23/e662234a71d42c04b6b3279187570460.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Santa Muerte, death, evil, mexico, narcos, skulls, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/966/97/HD-wallpaper-santa-muerte-death-evil-mexico-narcos-skulls.jpg' alt='Santa Muerte, death, evil, mexico, narcos, skulls, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1311">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/966/97/HD-wallpaper-santa-muerte-death-evil-mexico-narcos-skulls.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Santa Muerte Dark Devil Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/santa-muerte-dark-devil-c7167nyh7ejh18a7.jpg' alt='Download Santa Muerte Dark Devil Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1203">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/santa-muerte-dark-devil-c7167nyh7ejh18a7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Santa Muerte wallpaper by Espiritu1417Maligno - Download on ZEDGE ...">
+                                <img itemprop="contentUrl url" src='https://is.zobj.net/image-server/v1/images?r=3OcaOFn_F7rmcJi_jkYrCjz-0y7L_ThuC9qTbI_5UGLo04HeOATQrFV6fOWQH13wAf51KmKpqBUqdYF-Rz0X7bxLxSdJzO6xB8ebXU8mvMezB30hltXWvieDt-e6bKTH_3BmtOlh0Ytca1CrsQBJ7rAxXL6deqFmG3lPvn60zsF7aXebPjxDymNX900mIaRAnep_t8PrB8bkyQwFGIrvTWSieAWGzB2AmNmSPbePYjISWbx6brONJNO_CyI' alt='Santa Muerte wallpaper by Espiritu1417Maligno - Download on ZEDGE ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="337">
+                                <meta itemprop="height" content="602">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zedge" />
+                                </span>
+                                <a href='https://is.zobj.net/image-server/v1/images?r=3OcaOFn_F7rmcJi_jkYrCjz-0y7L_ThuC9qTbI_5UGLo04HeOATQrFV6fOWQH13wAf51KmKpqBUqdYF-Rz0X7bxLxSdJzO6xB8ebXU8mvMezB30hltXWvieDt-e6bKTH_3BmtOlh0Ytca1CrsQBJ7rAxXL6deqFmG3lPvn60zsF7aXebPjxDymNX900mIaRAnep_t8PrB8bkyQwFGIrvTWSieAWGzB2AmNmSPbePYjISWbx6brONJNO_CyI' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

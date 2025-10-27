@@ -1,0 +1,129 @@
+<title>Elevate Your Bathroom with Thibaut Wallpaper</title>
+                    <meta name="description" content="Discover the beauty of Thibaut wallpaper for your bathroom. With stunning designs and high-quality materials, it transforms your space into a stylish haven. Explore a range of patterns to find the perfect match for your decor. Upgrade your bathroom effortlessly with Thibaut today!">
+                    <meta name="keywords" content="bathroom thibaut wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom">
+                            <span itemprop="name">Bathroom</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom/bathroom-thibaut-wallpaper">
+                            <span itemprop="name">bathroom thibaut wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Bathroom with Thibaut Wallpaper</h1>
+                <p>Transform your bathroom into a serene oasis with Thibaut wallpaper. Known for its exquisite patterns and vibrant colors, Thibaut offers a variety of designs to elevate your space. Whether you prefer classic florals or modern geometrics, Thibaut wallpaper adds an elegant touch, making your bathroom a stylish retreat. Explore your options today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thibaut Eden Mystic Garden Wallpaper - Spa Blue">
+                                <img itemprop="contentUrl url" src='https://uswalldecor.com/cdn/shop/products/Eden-MysticGardenWP-spablue.jpg?v=1647633627&width=1946' alt='Thibaut Eden Mystic Garden Wallpaper - Spa Blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="2780">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='https://uswalldecor.com/cdn/shop/products/Eden-MysticGardenWP-spablue.jpg?v=1647633627&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thibaut - Sunburst Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.finestwallpaper.com/uploads/5/7/7/9/5779447/s774058804322417752_p5446_i239_w1028.jpeg' alt='Thibaut - Sunburst Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1028">
+                                <meta itemprop="height" content="1028">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="finest wallpaper" />
+                                </span>
+                                <a href='https://www.finestwallpaper.com/uploads/5/7/7/9/5779447/s774058804322417752_p5446_i239_w1028.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bathrooms Thibaut Wallpaper Design Ideas">
+                                <img itemprop="contentUrl url" src='https://cdn.decorpad.com/photos/2024/05/20/m_thibaut-palm-frond-wallpaper.jpg' alt='Bathrooms Thibaut Wallpaper Design Ideas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecorPad" />
+                                </span>
+                                <a href='https://cdn.decorpad.com/photos/2024/05/20/m_thibaut-palm-frond-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pinellas wallpaper">
+                                <img itemprop="contentUrl url" src='http://www.selectedwallpapers.com/cdn/shop/products/Pinellas-Behang-Thibaut-Selected-Wallpapers.jpg?v=1688157198' alt='Pinellas wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1050">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Selected Wallpapers & Interiors" />
+                                </span>
+                                <a href='http://www.selectedwallpapers.com/cdn/shop/products/Pinellas-Behang-Thibaut-Selected-Wallpapers.jpg?v=1688157198' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Today you get a twofer from @canonanddeandesign Not only a ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3465282658944522973' alt='Today you get a twofer from @canonanddeandesign Not only a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1709">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3465282658944522973' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bathrooms Thibaut Wallpaper Design Ideas">
+                                <img itemprop="contentUrl url" src='https://cdn.decorpad.com/photos/2024/09/08/m_thibaut-travelers-palm-wallpaper.jpeg' alt='Bathrooms Thibaut Wallpaper Design Ideas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecorPad" />
+                                </span>
+                                <a href='https://cdn.decorpad.com/photos/2024/09/08/m_thibaut-travelers-palm-wallpaper.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="T42021 Thibaut Sojourn Peony Garden Wallpaper - Blue & Green – US ...">
+                                <img itemprop="contentUrl url" src='https://uswalldecor.com/cdn/shop/files/Sojourn-PeonyGardenWP-FAB-blue-green.jpg?v=1712694382&width=1946' alt='T42021 Thibaut Sojourn Peony Garden Wallpaper - Blue & Green – US ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="2780">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='https://uswalldecor.com/cdn/shop/files/Sojourn-PeonyGardenWP-FAB-blue-green.jpg?v=1712694382&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grand Palace">
+                                <img itemprop="contentUrl url" src='https://cdn.totalwallcovering.com/book/t136144-l.jpg' alt='Grand Palace'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="323">
+                                <meta itemprop="height" content="461">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Total Wallcovering" />
+                                </span>
+                                <a href='https://cdn.totalwallcovering.com/book/t136144-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thibaut Wallpaper Central Park-6851">
+                                <img itemprop="contentUrl url" src='https://www.meinewand.com/media/images/org/6851_5XL1_Thibaut_Central_Park_T14334.webp' alt='Thibaut Wallpaper Central Park-6851'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1094">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Meine Wand" />
+                                </span>
+                                <a href='https://www.meinewand.com/media/images/org/6851_5XL1_Thibaut_Central_Park_T14334.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Powder Room Transformation + Christmas Decor | Stripes and Whimsy">
+                                <img itemprop="contentUrl url" src='http://stripesandwhimsy.com/wp-content/uploads/2022/12/vintage-faux-bamboo-mirror-in-bathroom-1440x2160.jpg' alt='Powder Room Transformation + Christmas Decor | Stripes and Whimsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stripes and Whimsy" />
+                                </span>
+                                <a href='http://stripesandwhimsy.com/wp-content/uploads/2022/12/vintage-faux-bamboo-mirror-in-bathroom-1440x2160.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

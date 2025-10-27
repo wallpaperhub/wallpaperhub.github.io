@@ -1,0 +1,129 @@
+<title>Aesthetic Star Wallpapers for iPhone: Celestial Designs</title>
+                    <meta name="description" content="Discover stunning aesthetic stars wallpapers for your iPhone. Elevate your phone’s look with dreamy celestial designs perfect for expressing your style. Browse now for beautiful, unique star patterns that create a serene, enchanting vibe on your device!">
+                    <meta name="keywords" content="aesthetic stars wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/aesthetic-stars-wallpaper-iphone">
+                            <span itemprop="name">aesthetic stars wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Star Wallpapers for iPhone: Celestial Designs</h1>
+                <p>Aesthetic stars wallpaper for iPhone transforms your device into a celestial masterpiece. Featuring calming shades and dreamy star patterns, these wallpapers elegantly enhance your phone's appearance. Perfect for stargazers and those who adore whimsical designs, they provide a serene backdrop for your daily adventures.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic stars wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/03/cc/c3/03ccc3eece50b1c139854f064a8d88cb.jpg' alt='Aesthetic stars wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="716">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/03/cc/c3/03ccc3eece50b1c139854f064a8d88cb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goodnight Iphone Stars Wallpaper - Live Wallpaper HD">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/25/73/0b/25730b09c532fc58d766580f485e7944.jpg' alt='Goodnight Iphone Stars Wallpaper - Live Wallpaper HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="608">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/25/73/0b/25730b09c532fc58d766580f485e7944.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Aesthetic Constellation For Iphone Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-constellation-for-iphone-p2j7sk3lith1xs65.jpg' alt='Download Aesthetic Constellation For Iphone Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-constellation-for-iphone-p2j7sk3lith1xs65.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Aesthetic Iphone Stars In Sky Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/black-aesthetic-iphone-stars-in-sky-nd2qr1dwy16koyeo.jpg' alt='Black Aesthetic Iphone Stars In Sky Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/black-aesthetic-iphone-stars-in-sky-nd2qr1dwy16koyeo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Constellation Phone Wallpaper Bundle, Blue, Stars, Starry Night ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/26217935/r/il/55533e/2809232431/il_570xN.2809232431_of9l.jpg' alt='Constellation Phone Wallpaper Bundle, Blue, Stars, Starry Night ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1012">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/26217935/r/il/55533e/2809232431/il_570xN.2809232431_of9l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Star 1242 X 2208 Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/aesthetic-star-1242-x-2208-o06x461ci1lvtt7y-3.webp' alt='Aesthetic Star 1242 X 2208 Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/aesthetic-star-1242-x-2208-o06x461ci1lvtt7y-3.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Stars Beige Wallpapers - Light Beige Wallpaper for iPhone">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2022/06/aesthetic-stars-beige-wallpaper-scaled.jpg' alt='Aesthetic Stars Beige Wallpapers - Light Beige Wallpaper for iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1183">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2022/06/aesthetic-stars-beige-wallpaper-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 16 Wallpapers | HD & 4K Wallpapers for Apple iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/58/33/70/58337069d8b9962bbd830ab3b05fa693.jpg' alt='iPhone 16 Wallpapers | HD & 4K Wallpapers for Apple iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/58/33/70/58337069d8b9962bbd830ab3b05fa693.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Aesthetic Moon And Star Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/iphone-aesthetic-moon-and-star-qgl7876cmruvfe06.jpg' alt='Iphone Aesthetic Moon And Star Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/iphone-aesthetic-moon-and-star-qgl7876cmruvfe06.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D iPhone Wallpaper on X: "iPhone Wallpaper HD Stars Aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/card_img/1893356391101771776/bAzl36T2?format=jpg&name=large' alt='3D iPhone Wallpaper on X: "iPhone Wallpaper HD Stars Aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/card_img/1893356391101771776/bAzl36T2?format=jpg&name=large' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

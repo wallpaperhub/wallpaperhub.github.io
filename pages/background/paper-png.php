@@ -1,0 +1,129 @@
+<title>High-Quality Paper PNG Images for Creative Projects</title>
+                    <meta name="description" content="Discover versatile paper PNG images ideal for enhancing your designs. Perfect for graphic projects, social media, and presentations, these images offer a professional look with transparent backgrounds. Elevate your creative work with our high-quality paper PNGs!">
+                    <meta name="keywords" content="paper png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/paper-png">
+                            <span itemprop="name">paper png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>High-Quality Paper PNG Images for Creative Projects</h1>
+                <p>Papers in PNG format are versatile and widely used for digital projects. Their transparent backgrounds make them perfect for various applications, including graphic design, social media, and presentations. Utilizing paper PNGs can enhance the aesthetic of your projects, bringing a unique and professional touch to your designs.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paper PNGs for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/018/795/027/small_2x/white-notebook-paper-with-all-edges-ripped-png.png' alt='Paper PNGs for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="794">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/018/795/027/small_2x/white-notebook-paper-with-all-edges-ripped-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paper Png Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-psd/sheet-paper-that-has-hole-it-bottom-left-corner_619626-56.jpg?semt=ais_hybrid' alt='Paper Png Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="470">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-psd/sheet-paper-that-has-hole-it-bottom-left-corner_619626-56.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old Scrolled Paper PNG Image​ | Gallery Yopriceville - High ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/downloadfullsize/send/9342' alt='Old Scrolled Paper PNG Image​ | Gallery Yopriceville - High ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3807">
+                                <meta itemprop="height" content="5156">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/downloadfullsize/send/9342' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paper PNG Transparent Images Free Download | Vector Files | Pngtree">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20220624/ourmid/pngtree-tear-off-notebook-paper-sticky-notes-png-image_5316962.png' alt='Paper PNG Transparent Images Free Download | Vector Files | Pngtree'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20220624/ourmid/pngtree-tear-off-notebook-paper-sticky-notes-png-image_5316962.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paper PNGs for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/022/219/336/small/white-torn-paper-isolated-on-a-transparent-background-png.png' alt='Paper PNGs for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/022/219/336/small/white-torn-paper-isolated-on-a-transparent-background-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paper Png Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/blank-torn-photo-frame-with-soft-shadows-scotch-tape-isolated-white-paper-background_1155130-8256.jpg?semt=ais_hybrid' alt='Paper Png Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/blank-torn-photo-frame-with-soft-shadows-scotch-tape-isolated-white-paper-background_1155130-8256.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paper PNGs for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/012/981/791/small_2x/old-parchment-paper-sheet-vintage-aged-or-texture-background-png.png' alt='Paper PNGs for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="541">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/012/981/791/small_2x/old-parchment-paper-sheet-vintage-aged-or-texture-background-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paper Cut Png PNGs for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/045/953/714/small_2x/white-torn-paper-textured-piece-png.png' alt='Paper Cut Png PNGs for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1357">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/045/953/714/small_2x/white-torn-paper-textured-piece-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paper Texture PNG Transparent Images Free Download | Vector Files ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20230616/ourmid/pngtree-stylish-white-torn-paper-texture-png-image_7114367.png' alt='Paper Texture PNG Transparent Images Free Download | Vector Files ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20230616/ourmid/pngtree-stylish-white-torn-paper-texture-png-image_7114367.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old Large Paper PNG Clipart​ | Gallery Yopriceville - High-Quality ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/downloadfullsize/send/25583' alt='Old Large Paper PNG Clipart​ | Gallery Yopriceville - High-Quality ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4106">
+                                <meta itemprop="height" content="5000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/downloadfullsize/send/25583' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

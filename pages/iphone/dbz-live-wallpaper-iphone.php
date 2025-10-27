@@ -1,0 +1,129 @@
+<title>Dragon Ball Z Live Wallpapers for iPhone: Energize Your Screen!</title>
+                    <meta name="description" content="Discover the best DBZ live wallpapers for your iPhone! Elevate your device's look with dynamic images of your favorite Dragon Ball Z characters that animate your home screen. Perfect for fans seeking a vibrant and personalized experience. Download now and showcase your love for Dragon Ball Z!">
+                    <meta name="keywords" content="dbz live wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/dbz-live-wallpaper-iphone">
+                            <span itemprop="name">dbz live wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dragon Ball Z Live Wallpapers for iPhone: Energize Your Screen!</h1>
+                <p>Transform your iPhone with stunning DBZ live wallpapers! Experience your favorite Dragon Ball Z characters in action, bringing vibrant colors and dynamic visuals to your home screen. Choose from Goku, Vegeta, and more, and let your device showcase its anime spirit. Perfect for DBZ fans wanting more excitement in their daily routine!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DBZ Live HD Wallpapers - Top Free DBZ Live HD Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/88/7b/5f/887b5f60278ce026e8a5d95e1a4f73f3.jpg' alt='DBZ Live HD Wallpapers - Top Free DBZ Live HD Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1219">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/88/7b/5f/887b5f60278ce026e8a5d95e1a4f73f3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku - Dragon Ball | LIVE Wallpaper - Wallpapers Central">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2021/03/goku.jpg' alt='Goku - Dragon Ball | LIVE Wallpaper - Wallpapers Central'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1420">
+                                <meta itemprop="height" content="3072">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Central - iSpazio" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2021/03/goku.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Has anyone ever done this? (live wallpaper)">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/sOHWguOZ-i8jM8iEJNg16SbdlPhoMVKPrU3VLGmfVBc.png?width=640&crop=smart&format=pjpg&auto=webp&s=d2fc77dec11d603119cf72c75b20bdfa419f9259' alt='Has anyone ever done this? (live wallpaper)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/sOHWguOZ-i8jM8iEJNg16SbdlPhoMVKPrU3VLGmfVBc.png?width=640&crop=smart&format=pjpg&auto=webp&s=d2fc77dec11d603119cf72c75b20bdfa419f9259' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball Super iphone Wallpaper - Live Wallpaper HD">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3f/ec/4e/3fec4ec15dd64ac684c0d779d0b9117c.jpg' alt='Dragon Ball Super iphone Wallpaper - Live Wallpaper HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="608">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3f/ec/4e/3fec4ec15dd64ac684c0d779d0b9117c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Full Quality Ultra SSJ Goku Live Wallpaper for those who need it">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/Po1nxGh5q0lcyoz9MLKPXLFZnE1W90i2L8o2KUGDWQ0.png?format=pjpg&auto=webp&s=59eb3f94ce58c5af2af60c6c23cbf5477aa4885a' alt='Full Quality Ultra SSJ Goku Live Wallpaper for those who need it'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/Po1nxGh5q0lcyoz9MLKPXLFZnE1W90i2L8o2KUGDWQ0.png?format=pjpg&auto=webp&s=59eb3f94ce58c5af2af60c6c23cbf5477aa4885a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Live Wallpaper in 4K for iPhone 2025">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7445317227739385134&location=0&aid=1988' alt='Goku Live Wallpaper in 4K for iPhone 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7445317227739385134&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="160+ Dragon Ball Live Wallpapers 4K & HD">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/i/c/364x205/media/364/black-background-with-goku-dragon-ball-z.jpg' alt='160+ Dragon Ball Live Wallpapers 4K & HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="364">
+                                <meta itemprop="height" content="205">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/i/c/364x205/media/364/black-background-with-goku-dragon-ball-z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vibrant Dragon Ball Z Wallpaper - free download">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/thumbnail/vibrant-dragon-ball-z-wallpaper.webp' alt='Vibrant Dragon Ball Z Wallpaper - free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="155">
+                                <meta itemprop="height" content="325">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/thumbnail/vibrant-dragon-ball-z-wallpaper.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Explore The Dragon Ball Saga With The Dragon Ball Iphone ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/explore-the-dragon-ball-saga-with-the-dragon-ball-iphone-4u5tx6rttsk9x2ew.jpg' alt='Explore The Dragon Ball Saga With The Dragon Ball Iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1075">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/explore-the-dragon-ball-saga-with-the-dragon-ball-iphone-4u5tx6rttsk9x2ew.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Son Gokuu | Dragon Ball Z / Super | Live Wallpaper [Video] in 2022 ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/6b/0a/27/6b0a27d93263fdc16a61c1955e9173bd.jpg' alt='Son Gokuu | Dragon Ball Z / Super | Live Wallpaper [Video] in 2022 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1409">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/6b/0a/27/6b0a27d93263fdc16a61c1955e9173bd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

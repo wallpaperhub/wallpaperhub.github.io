@@ -1,0 +1,129 @@
+<title>Chic Girly Black and Pink Wallpaper Ideas</title>
+                    <meta name="description" content="Discover stylish girly black and pink wallpaper designs that elevate your space. Perfect for adding a touch of femininity and flair, these wallpapers blend elegance with boldness. Explore unique patterns and textures to create a trendy atmosphere in any room. Transform your decor today!">
+                    <meta name="keywords" content="girly black and pink wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/girly-black-and-pink-wallpaper">
+                            <span itemprop="name">girly black and pink wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Girly Black and Pink Wallpaper Ideas</h1>
+                <p>Transform your space with girly black and pink wallpaper, a perfect blend of chic and edgy. Ideal for bedrooms, offices, or accent walls, this wallpaper radiates playful femininity. Choose intricate patterns or bold designs to express your personality, and enjoy a stylish backdrop that enhances any room!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="280 Best Pink & Black ideas | pink, cellphone wallpaper, pink ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/91/3c/64/913c640d1ffaffbd503b91fd2a3705b4.jpg' alt='280 Best Pink & Black ideas | pink, cellphone wallpaper, pink ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/91/3c/64/913c640d1ffaffbd503b91fd2a3705b4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pink and black aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e2/3f/f1/e23ff13effa302b31538ceadc766535a.jpg' alt='pink and black aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="672">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e2/3f/f1/e23ff13effa302b31538ceadc766535a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Girly Black And Pink Glitters Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/girly-black-and-pink-glitters-io9cacymedotez68.jpg' alt='Girly Black And Pink Glitters Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="934">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/girly-black-and-pink-glitters-io9cacymedotez68.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Cute Black and Pink Wallpapers on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3b/bd/cd/3bbdcdc88005c2b883116cf9fc06beb4.jpg' alt='   Cute Black and Pink Wallpapers on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="610">
+                                <meta itemprop="height" content="915">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3b/bd/cd/3bbdcdc88005c2b883116cf9fc06beb4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cute Mobile Black Pink Heart Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-mobile-black-pink-heart-ai4fpf8fq2774uhx.jpg' alt='Download Cute Mobile Black Pink Heart Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-mobile-black-pink-heart-ai4fpf8fq2774uhx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Bianca Levin on wallpapers | Pink wallpaper iphone, Pink ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/31/b8/c0/31b8c013c34ac22293937cf3fc54f750.jpg' alt='Pin by Bianca Levin on wallpapers | Pink wallpaper iphone, Pink ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1641">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/31/b8/c0/31b8c013c34ac22293937cf3fc54f750.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PinkHeartBear, pink, black, bear, heart, love, cute, girly, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/429/87/HD-wallpaper-pinkheartbear-pink-black-bear-heart-love-cute-girly.jpg' alt='PinkHeartBear, pink, black, bear, heart, love, cute, girly, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/429/87/HD-wallpaper-pinkheartbear-pink-black-bear-heart-love-cute-girly.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Black And Pink Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/black-and-pink-iphone-nhhd6f4eh1tpvd50.jpg' alt='100+] Black And Pink Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="934">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/black-and-pink-iphone-nhhd6f4eh1tpvd50.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black And Pink Aesthetic Polka Dot Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/black-and-pink-aesthetic-polka-dot-cxogeosc6bqp5odu.jpg' alt='Black And Pink Aesthetic Polka Dot Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/black-and-pink-aesthetic-polka-dot-cxogeosc6bqp5odu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD black and pink heart wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/402/565/HD-wallpaper-girl-back-black-heart-love-pink.jpg' alt='HD black and pink heart wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/402/565/HD-wallpaper-girl-back-black-heart-love-pink.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

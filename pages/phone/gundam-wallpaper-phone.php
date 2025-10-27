@@ -1,0 +1,129 @@
+<title>Stunning Gundam Wallpapers for Your Phone</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="gundam wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/gundam-wallpaper-phone">
+                            <span itemprop="name">gundam wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Gundam Wallpapers for Your Phone</h1>
+                <p>Enhance your phone's aesthetic with stunning Gundam wallpapers! Choose from a variety of designs, featuring iconic mechs, vibrant colors, and dynamic action. Whether you prefer classic series or modern iterations, there's a perfect wallpaper for every fan. Transform your device and showcase your passion for Gundam today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone wallpapers you can tell which one's the lock and home ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/eyty9hjbtpx51.jpg?width=640&crop=smart&auto=webp&s=a32d472f90f209117b3f9bf2c1a1ee755e18e0fe' alt='Phone wallpapers you can tell which one's the lock and home ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="972">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/eyty9hjbtpx51.jpg?width=640&crop=smart&auto=webp&s=a32d472f90f209117b3f9bf2c1a1ee755e18e0fe' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Great wallpaper for your phone : r/Gundam">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/9aha3jq389741.jpg' alt='Great wallpaper for your phone : r/Gundam'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1487">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/9aha3jq389741.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gundam Mobile Wallpapers (852x1608)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3f/18/8b/3f188b06d58bf9a5683bb8749a29a4a8.jpg' alt='Gundam Mobile Wallpapers (852x1608)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3f/18/8b/3f188b06d58bf9a5683bb8749a29a4a8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone wallpapers you can tell which one's the lock and home ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/rntexedbtpx51.png' alt='Phone wallpapers you can tell which one's the lock and home ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="852">
+                                <meta itemprop="height" content="1608">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/rntexedbtpx51.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mobile Suit Gundam Robot 8K Wallpaper">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/mobile-suit-gundam-2560x2560-14869.png' alt='Mobile Suit Gundam Robot 8K Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/mobile-suit-gundam-2560x2560-14869.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gundam Phone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp9821651.jpg' alt='Gundam Phone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1156">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp9821651.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="49 Gundam ideas | gundam, gundam art, gundam wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/a8/e9/9b/a8e99b93e3dc815c331080cca6ee6636.jpg' alt='49 Gundam ideas | gundam, gundam art, gundam wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1591">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/a8/e9/9b/a8e99b93e3dc815c331080cca6ee6636.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Any Good Gundam Wallpapers for Phone? : r/Gundam">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/any-good-gundam-wallpapers-for-phone-v0-3pzxvcm9v3wa1.jpg?width=1169&format=pjpg&auto=webp&s=da8421a673b43fb0a8e737fb8f361f366d8fb241' alt='Any Good Gundam Wallpapers for Phone? : r/Gundam'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1169">
+                                <meta itemprop="height" content="1654">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/any-good-gundam-wallpapers-for-phone-v0-3pzxvcm9v3wa1.jpg?width=1169&format=pjpg&auto=webp&s=da8421a673b43fb0a8e737fb8f361f366d8fb241' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD gundam wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/992/571/HD-wallpaper-gundam-zgmf-x20a-gundam-strike-dom-zgmf-x20a-gundam-seed-destiny-thumbnail.jpg' alt='HD gundam wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="673">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/992/571/HD-wallpaper-gundam-zgmf-x20a-gundam-strike-dom-zgmf-x20a-gundam-seed-destiny-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gundam wallpaper by Miguel0327 - Download on ZEDGE™ | ca5b">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/10/63/2a/10632ae005e7e26a6292f562400cf4d7.jpg' alt='Gundam wallpaper by Miguel0327 - Download on ZEDGE™ | ca5b'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/10/63/2a/10632ae005e7e26a6292f562400cf4d7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

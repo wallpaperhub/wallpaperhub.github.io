@@ -1,0 +1,129 @@
+<title>Retro 90s iPhone Wallpapers: A Nostalgic Touch</title>
+                    <meta name="description" content="Explore our unique selection of 90s-inspired iPhone wallpapers! Perfect for adding a touch of nostalgia to your device, these vibrant designs capture the essence of the decade. Download now and give your phone a retro makeover!">
+                    <meta name="keywords" content="iphone wallpaper 90s">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-wallpaper-90s">
+                            <span itemprop="name">iphone wallpaper 90s</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Retro 90s iPhone Wallpapers: A Nostalgic Touch</h1>
+                <p>Transport yourself back to the vibrant 90s with our collection of nostalgic iPhone wallpapers! Featuring bold colors, retro patterns, and iconic pop culture references, these wallpapers embody the spirit of the decade. Brighten your device and relive the magic of the 90s every time you check your phone!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Best Iphone wallpaper 90s ideas | iphone wallpaper, aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5a/7e/50/5a7e5079168e51e1ddaedbfff4535092.jpg' alt='30 Best Iphone wallpaper 90s ideas | iphone wallpaper, aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5a/7e/50/5a7e5079168e51e1ddaedbfff4535092.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Best Iphone wallpaper 90s ideas | iphone wallpaper, aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/da/3d/f2/da3df2a887c6d6c722f27d5c06a7df76.jpg' alt='30 Best Iphone wallpaper 90s ideas | iphone wallpaper, aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="977">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/da/3d/f2/da3df2a887c6d6c722f27d5c06a7df76.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Throwback To 90s Tech With This Retro Iphone. Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/a-throwback-to-90s-tech-with-this-retro-iphone-reix6rqmhycvzlrn.jpg' alt='A Throwback To 90s Tech With This Retro Iphone. Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/a-throwback-to-90s-tech-with-this-retro-iphone-reix6rqmhycvzlrn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="90s iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11907247.jpg' alt='90s iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11907247.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Best Iphone wallpaper 90s ideas | iphone wallpaper, aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/53/ab/45/53ab4594e9a63df1864ba9e98615f476.jpg' alt='30 Best Iphone wallpaper 90s ideas | iphone wallpaper, aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/53/ab/45/53ab4594e9a63df1864ba9e98615f476.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="90'S AESTHETIC NOSTALGIC PHONE WALLPAPER HD 4K - Heroscreen | Free ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvKOuMWN78uLhzkIj41lpmOMdjICeIe-9O50WczC4FJmiD5lrHiBAJmLdd3CmucyMChmPm7SfWkvCacfpdetuo9mcYF_y75Vo71mJ-sZgNS5xoCc_Ck7DPyn_PRp-nI6JFmEygHFEAQx-Iey-MUDHcmQRSJhwDeeq4zVX7f28bhg7oRDLqEXhpEx-QOg/s1512/90s-wallpaper-iphone.jpg' alt='90'S AESTHETIC NOSTALGIC PHONE WALLPAPER HD 4K - Heroscreen | Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvKOuMWN78uLhzkIj41lpmOMdjICeIe-9O50WczC4FJmiD5lrHiBAJmLdd3CmucyMChmPm7SfWkvCacfpdetuo9mcYF_y75Vo71mJ-sZgNS5xoCc_Ck7DPyn_PRp-nI6JFmEygHFEAQx-Iey-MUDHcmQRSJhwDeeq4zVX7f28bhg7oRDLqEXhpEx-QOg/s1512/90s-wallpaper-iphone.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="90s wallpapers for you    #WhenRiftanSays #wallpapers #fyppp #viral?  #december #hey #iphone #90skids #ThanksandGiving">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7044206919757597999&location=0&aid=1988' alt='90s wallpapers for you    #WhenRiftanSays #wallpapers #fyppp #viral?  #december #hey #iphone #90skids #ThanksandGiving'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7044206919757597999&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download "Relive the 90s Aesthetic with this Soft, Pink Cutout ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-90s-aesthetic-yweg3xp6tdw4jbwr.jpg' alt='Download "Relive the 90s Aesthetic with this Soft, Pink Cutout ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-90s-aesthetic-yweg3xp6tdw4jbwr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="90's wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f4/06/b0/f406b0f61127c8cb901a36d71e341923.jpg' alt='90's wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f4/06/b0/f406b0f61127c8cb901a36d71e341923.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD 80s and 90s wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/206/1005/HD-wallpaper-80s-90s-80s-90s-bands-rubiks-skate-vans-verses-yellow-thumbnail.jpg' alt='HD 80s and 90s wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/206/1005/HD-wallpaper-80s-90s-80s-90s-bands-rubiks-skate-vans-verses-yellow-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

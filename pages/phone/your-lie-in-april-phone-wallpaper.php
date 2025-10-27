@@ -1,0 +1,129 @@
+<title>Your Lie in April Phone Wallpapers: Stunning Designs for Anime Fans</title>
+                    <meta name="description" content="Discover captivating "Your Lie in April" phone wallpapers that bring your favorite anime moments to life. Perfect for personalization, these stunning designs will uplift your screen and showcase the beauty of this emotional story. Download now to express your love for the series!">
+                    <meta name="keywords" content="your lie in april phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/your-lie-in-april-phone-wallpaper">
+                            <span itemprop="name">your lie in april phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Your Lie in April Phone Wallpapers: Stunning Designs for Anime Fans</h1>
+                <p>Your Lie in April phone wallpapers capture the essence of this beloved anime, blending vibrant colors and emotional scenes of music and friendship. From stunning character art to heartfelt moments, these wallpapers can personalize your phone while reminding you of the touching story. Explore a variety of designs that resonate with your favorite characters!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Your lie in april perfect wallpaper : r/ShigatsuwaKiminoUso">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/ci1sp61ytkt91.jpg?auto=webp&s=362c80a3020be7fd04f6725e8d70b976ce0d2fa0' alt='Your lie in april perfect wallpaper : r/ShigatsuwaKiminoUso'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1333">
+                                <meta itemprop="height" content="2370">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/ci1sp61ytkt91.jpg?auto=webp&s=362c80a3020be7fd04f6725e8d70b976ce0d2fa0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Your Lie in April wallpaper by Pugphone - Download on ZEDGE™ | 7013">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a2/51/fa/a251fa606858d43f7ae6d12817664207.jpg' alt='Your Lie in April wallpaper by Pugphone - Download on ZEDGE™ | 7013'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a2/51/fa/a251fa606858d43f7ae6d12817664207.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WallpaperSun">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7d/d1/00/7dd100f7d22894ca1aa9f070f32404b1.jpg' alt='WallpaperSun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7d/d1/00/7dd100f7d22894ca1aa9f070f32404b1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Your Lie in April 4K Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/832/832355.jpg' alt='Your Lie in April 4K Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5787">
+                                <meta itemprop="height" content="4079">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/832/832355.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Your Lie In April Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/your-lie-in-april-iphone-sm5h05zgbuoafw3k.jpg' alt='100+] Your Lie In April Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1225">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/your-lie-in-april-iphone-sm5h05zgbuoafw3k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My current wallpaper for my phone lock screen. Finished the anime ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/arx11uqvpmn41.jpg' alt='My current wallpaper for my phone lock screen. Finished the anime ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/arx11uqvpmn41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD your lie in april wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/674/480/HD-wallpaper-your-lie-in-april-anime-anime-thumbnail.jpg' alt='HD your lie in april wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/674/480/HD-wallpaper-your-lie-in-april-anime-anime-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Your lie in april, anime, arima kouse, miyazono kaori, piano ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/702/826/HD-wallpaper-your-lie-in-april-anime-arima-kouse-miyazono-kaori-piano-violen.jpg' alt='Your lie in april, anime, arima kouse, miyazono kaori, piano ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/702/826/HD-wallpaper-your-lie-in-april-anime-arima-kouse-miyazono-kaori-piano-violen.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Aesthetic Of Your Lie In April Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/blue-aesthetic-of-your-lie-in-april-b2qeyzkbhh0pu8ls.jpg' alt='Blue Aesthetic Of Your Lie In April Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="616">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/blue-aesthetic-of-your-lie-in-april-b2qeyzkbhh0pu8ls.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Your Lie in April Livewallpaper | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7080162927063436550&location=0&aid=1988' alt='Your Lie in April Livewallpaper | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1914">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7080162927063436550&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

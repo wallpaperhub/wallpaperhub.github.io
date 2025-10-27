@@ -1,0 +1,129 @@
+<title>Discover the Charm of Hello Kitty: A Timeless Icon</title>
+                    <meta name="description" content="Explore the enchanting world of Hello Kitty, the iconic character that symbolizes friendship and cuteness. Learn about her history, products, and cultural impact, perfect for fans of all ages. Join the Hello Kitty adventure today!">
+                    <meta name="keywords" content="hello kitty">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/hello-kitty">
+                            <span itemprop="name">hello kitty</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Charm of Hello Kitty: A Timeless Icon</h1>
+                <p>Hello Kitty, the beloved character created by Sanrio, captures hearts worldwide with her cute design and friendly persona. This iconic feline, known for her signature bow and cheerful demeanor, embodies friendship and kindness. Since her debut in 1974, Hello Kitty has expanded into various products, making her a timeless icon across generations.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Kitty - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Hello_kitty_character_portrait.png/220px-Hello_kitty_character_portrait.png' alt='Hello Kitty - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="278">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Hello_kitty_character_portrait.png/220px-Hello_kitty_character_portrait.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Kitty | Sanrio Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/sanrio/images/9/9f/Hello_Kitty.jpg/revision/latest/scale-to-width-down/1200?cb=20191128154539' alt='Hello Kitty | Sanrio Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sanrio Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/sanrio/images/9/9f/Hello_Kitty.jpg/revision/latest/scale-to-width-down/1200?cb=20191128154539' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Kitty | Hello Kitty Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/hellokitty/images/5/52/Sanrio_Characters_Hello_Kitty_Image026.png/revision/latest/thumbnail/width/360/height/360?cb=20250110105831' alt='Hello Kitty | Hello Kitty Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="311">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hello Kitty Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/hellokitty/images/5/52/Sanrio_Characters_Hello_Kitty_Image026.png/revision/latest/thumbnail/width/360/height/360?cb=20250110105831' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Kitty (@hellokitty) • Instagram photos and videos">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/instagram/hellokitty/profile_pic.jpg' alt='Hello Kitty (@hellokitty) • Instagram photos and videos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/instagram/hellokitty/profile_pic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Hello Kitty and Friends 8" Velveteen Plush - Officially  Licensed Sanrio - Cute Soft Doll Stuffed Animal Toy Figure - Easter Basket  Stuffer ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/813KGFxsAjL.jpg' alt='Amazon.com: Hello Kitty and Friends 8" Velveteen Plush - Officially  Licensed Sanrio - Cute Soft Doll Stuffed Animal Toy Figure - Easter Basket  Stuffer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/813KGFxsAjL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sanrio Celebrates 60 Years with a Hello Kitty YouTube Series | The ...">
+                                <img itemprop="contentUrl url" src='https://thetoyinsider.com/wp-content/uploads/2020/10/Sanrio_HelloKitty-1024x576.png' alt='Sanrio Celebrates 60 Years with a Hello Kitty YouTube Series | The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Toy Insider" />
+                                </span>
+                                <a href='https://thetoyinsider.com/wp-content/uploads/2020/10/Sanrio_HelloKitty-1024x576.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to draw Hello Kitty step-by-step with simple and easy drawing ...">
+                                <img itemprop="contentUrl url" src='https://cdn.tatyanadeniz.com/wp-content/uploads/2020/07/hello-kitty-kawaii-art.jpg' alt='How to draw Hello Kitty step-by-step with simple and easy drawing ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tatyana Deniz" />
+                                </span>
+                                <a href='https://cdn.tatyanadeniz.com/wp-content/uploads/2020/07/hello-kitty-kawaii-art.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Trends International Gallery Pops Sanrio Hello Kitty ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61r1e9UYrCL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com: Trends International Gallery Pops Sanrio Hello Kitty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61r1e9UYrCL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Kitty, hello profits — Harvard Gazette">
+                                <img itemprop="contentUrl url" src='https://news.harvard.edu/wp-content/uploads/2014/10/hello-kitty-wallpaper-37_605.jpg' alt='Hello Kitty, hello profits — Harvard Gazette'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="605">
+                                <meta itemprop="height" content="403">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Harvard Gazette" />
+                                </span>
+                                <a href='https://news.harvard.edu/wp-content/uploads/2014/10/hello-kitty-wallpaper-37_605.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Kitty | Hello Kitty Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/hellokitty/images/e/ec/Sanrio_Characters_Hello_Kitty_Image020.png/revision/latest/scale-to-width-down/250?cb=20170407000048' alt='Hello Kitty | Hello Kitty Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hello Kitty Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/hellokitty/images/e/ec/Sanrio_Characters_Hello_Kitty_Image020.png/revision/latest/scale-to-width-down/250?cb=20170407000048' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

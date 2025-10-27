@@ -1,0 +1,129 @@
+<title>Cosmic Wonders: Animated Space Wallpapers for Your Screen</title>
+                    <meta name="description" content="Discover breathtaking animated space wallpapers that bring the universe to your device. Perfect for anyone who loves astronomy, these dynamic backgrounds will transform your screen into a stunning cosmic display. Enjoy endless exploration of galaxies, stars, and planets right at your fingertips!">
+                    <meta name="keywords" content="space wallpaper animated">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space">
+                            <span itemprop="name">Space</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space/space-wallpaper-animated">
+                            <span itemprop="name">space wallpaper animated</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cosmic Wonders: Animated Space Wallpapers for Your Screen</h1>
+                <p>Transform your device with mesmerizing space wallpaper animations that will take you on a cosmic journey! Featuring stunning visuals of galaxies, stars, and planets, these dynamic wallpapers offer a captivating backdrop for your screens. Explore the universe right from your home screen and immerse yourself in the beauty of space!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Colorful Space Background With Planets And Stars Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/a-colorful-space-background-with-planets-and-stars-l8wrk4nxk09ucdbz.jpg' alt='A Colorful Space Background With Planets And Stars Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/a-colorful-space-background-with-planets-and-stars-l8wrk4nxk09ucdbz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Galaxy ~ 4K Space - Motion Background - Live Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/MsvtUFoizX0/maxresdefault.jpg' alt='Neon Galaxy ~ 4K Space - Motion Background - Live Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/MsvtUFoizX0/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="140+ Space Live Wallpapers 4K & HD">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/media/78/astronaut-in-the-ocean.1920x1080.jpg' alt='140+ Space Live Wallpapers 4K & HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/media/78/astronaut-in-the-ocean.1920x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Animated Space Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/animated-space-1920-x-1229-background-l2ipeygd285yp40b.jpg' alt='100+] Animated Space Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1229">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/animated-space-1920-x-1229-background-l2ipeygd285yp40b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Animated Space Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/animated-space-fu6eyl0xafghub1h.jpg' alt='100+] Animated Space Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/animated-space-fu6eyl0xafghub1h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Outer Space. Galaxy and Nebula. Abstract space background. Endless universe  with stars and galaxies in outer space. Cosmos art. Motion design.">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/024/028/166/large/outer-space-galaxy-and-nebula-abstract-space-background-endless-universe-with-stars-and-galaxies-in-outer-space-cosmos-art-motion-design-video.jpg' alt='Outer Space. Galaxy and Nebula. Abstract space background. Endless universe  with stars and galaxies in outer space. Cosmos art. Motion design.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/024/028/166/large/outer-space-galaxy-and-nebula-abstract-space-background-endless-universe-with-stars-and-galaxies-in-outer-space-cosmos-art-motion-design-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Space Galaxy - Colorful Animated Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Rd_NMT5yIDA/maxresdefault.jpg' alt='4K Space Galaxy - Colorful Animated Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Rd_NMT5yIDA/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A Portal to a New Dimension Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/animated-space-4sen8idowezcifez.jpg' alt='Download A Portal to a New Dimension Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/animated-space-4sen8idowezcifez.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated space 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/4gmrHQa7fEg/maxresdefault.jpg' alt='Animated space 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/4gmrHQa7fEg/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated space 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/outer-space-background-with-planets-stars_107791-17549.jpg' alt='Animated space 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/outer-space-background-with-planets-stars_107791-17549.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Discover Disney Wonder: The 2nd Ship of Disney Cruise Line</title>
+                    <meta name="description" content="Explore the Disney Wonder, the second ship in the Disney Cruise Line fleet. Launched in 1999, it promises an enchanting experience with family-friendly amenities and stunning itineraries to amazing destinations. Discover why this ship is a beloved choice for magical cruises!">
+                    <meta name="keywords" content="which ship was the second to join the disney cruise line fleet">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/which-ship-was-the-second-to-join-the-disney-cruise-line-fleet">
+                            <span itemprop="name">which ship was the second to join the disney cruise line fleet</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Disney Wonder: The 2nd Ship of Disney Cruise Line</h1>
+                <p>The second ship to join the Disney Cruise Line fleet was the Disney Wonder, debuting in 1999. This elegant vessel features themed dining, entertainment, and unique experiences tailored for families. The Disney Wonder sails to breathtaking destinations, including Alaska and the Caribbean, offering magical adventures at sea.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney Cruise Line - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/c/ce/Disney_Fantasy_Cruise_Ship_%286%29_%2821000557309%29.jpg' alt='Disney Cruise Line - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4928">
+                                <meta itemprop="height" content="2770">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/c/ce/Disney_Fantasy_Cruise_Ship_%286%29_%2821000557309%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney Cruise Line Shares Details on Expanding Fleet • The Disney ...">
+                                <img itemprop="contentUrl url" src='https://disneycruiselineblog.com/wp-content/uploads/2024/08/DCL-D23-2024-4-Ship-Expansion.jpg' alt='Disney Cruise Line Shares Details on Expanding Fleet • The Disney ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Disney Cruise Line Blog" />
+                                </span>
+                                <a href='https://disneycruiselineblog.com/wp-content/uploads/2024/08/DCL-D23-2024-4-Ship-Expansion.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney Cruise Ships: Newest to Oldest">
+                                <img itemprop="contentUrl url" src='https://www.cruisehive.com/wp-content/uploads/2023/04/disneycruiseships1.jpg' alt='Disney Cruise Ships: Newest to Oldest'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="709">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cruise Hive" />
+                                </span>
+                                <a href='https://www.cruisehive.com/wp-content/uploads/2023/04/disneycruiseships1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney Cruise Line Ships Compared By Size and Age (2025)">
+                                <img itemprop="contentUrl url" src='https://www.cruisemummy.co.uk/wp-content/uploads/Disney-Cruise-Ships-By-Size-1-819x1024.jpg' alt='Disney Cruise Line Ships Compared By Size and Age (2025)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="819">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cruise Mummy" />
+                                </span>
+                                <a href='https://www.cruisemummy.co.uk/wp-content/uploads/Disney-Cruise-Ships-By-Size-1-819x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney Cruise Ships: Newest to Oldest">
+                                <img itemprop="contentUrl url" src='https://www.cruisehive.com/wp-content/uploads/2023/04/disney-funnel3.jpg' alt='Disney Cruise Ships: Newest to Oldest'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cruise Hive" />
+                                </span>
+                                <a href='https://www.cruisehive.com/wp-content/uploads/2023/04/disney-funnel3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Four New Ships Joining Disney Cruise Line Fleet Between 2027 and 2031">
+                                <img itemprop="contentUrl url" src='https://wdwmagic.twic.pics/ElementGalleryItems/other/Fullsize/Disney-Cruise-Line_Full_57225.jpg?twic=v1/cover=1:1/focus=auto&twic=v1/resize=200' alt='Four New Ships Joining Disney Cruise Line Fleet Between 2027 and 2031'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WDWMagic" />
+                                </span>
+                                <a href='https://wdwmagic.twic.pics/ElementGalleryItems/other/Fullsize/Disney-Cruise-Line_Full_57225.jpg?twic=v1/cover=1:1/focus=auto&twic=v1/resize=200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney Cruise Line ships from newest to oldest — a complete list ...">
+                                <img itemprop="contentUrl url" src='https://thepointsguy.global.ssl.fastly.net/us/originals/2023/04/2disneywish.jpg' alt='Disney Cruise Line ships from newest to oldest — a complete list ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Points Guy" />
+                                </span>
+                                <a href='https://thepointsguy.global.ssl.fastly.net/us/originals/2023/04/2disneywish.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Details and First Looks at Disney Cruise Line's Next Ship ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/t6SAoHAOqak/maxresdefault.jpg' alt='New Details and First Looks at Disney Cruise Line's Next Ship ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Parks Blog" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/t6SAoHAOqak/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney Treasure, Disney Cruise Line's latest ship, sets sail ...">
+                                <img itemprop="contentUrl url" src='https://thewaltdisneycompany.com/app/uploads/2023/09/Disney-Treasure-Exterior-278-scaled.jpg' alt='Disney Treasure, Disney Cruise Line's latest ship, sets sail ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Walt Disney Company" />
+                                </span>
+                                <a href='https://thewaltdisneycompany.com/app/uploads/2023/09/Disney-Treasure-Exterior-278-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Disney Wish Layout is Different from Any Other Disney Cruise ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/dclfan.com/wp-content/uploads/2022/07/disney-wish-side-cutout-view.jpg?resize=1024%2C442&ssl=1' alt='The Disney Wish Layout is Different from Any Other Disney Cruise ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="442">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DCL Fan" />
+                                </span>
+                                <a href='https://i0.wp.com/dclfan.com/wp-content/uploads/2022/07/disney-wish-side-cutout-view.jpg?resize=1024%2C442&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

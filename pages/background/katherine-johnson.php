@@ -1,0 +1,129 @@
+<title>Katherine Johnson: Pioneering Mathematician and NASA Icon</title>
+                    <meta name="description" content="Discover the inspiring story of Katherine Johnson, the brilliant mathematician who played a pivotal role at NASA, making significant contributions to space travel and inspiring future generations. Learn about her remarkable achievements and the barriers she overcame in a male-dominated field.">
+                    <meta name="keywords" content="katherine johnson">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/katherine-johnson">
+                            <span itemprop="name">katherine johnson</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Katherine Johnson: Pioneering Mathematician and NASA Icon</h1>
+                <p>Katherine Johnson was an African American mathematician whose calculations were critical to the success of NASA's early space missions. Born in 1918, she broke through barriers of race and gender, playing a key role in the Apollo moon landing and contributing to the Space Shuttle and Earth Resources satellite programs. Her legacy inspires future generations.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Katherine Johnson - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/6/6d/Katherine_Johnson_1983.jpg' alt='Katherine Johnson - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/6/6d/Katherine_Johnson_1983.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Katherine Johnson">
+                                <img itemprop="contentUrl url" src='https://i.natgeofe.com/k/64686024-784e-4ee0-ae7a-238785316049/katherine_johnson_portrait.jpg' alt='Katherine Johnson'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2458">
+                                <meta itemprop="height" content="3072">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic Kids" />
+                                </span>
+                                <a href='https://i.natgeofe.com/k/64686024-784e-4ee0-ae7a-238785316049/katherine_johnson_portrait.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Katherine Johnson, the Hidden Figures Mathematician Who Got ...">
+                                <img itemprop="contentUrl url" src='https://spectrum.ieee.org/media-library/katherine-johnson-at-her-desk-at-nasa-langley-research-center.jpg?id=25588924&width=1000&quality=85' alt='Katherine Johnson, the Hidden Figures Mathematician Who Got ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1261">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IEEE Spectrum" />
+                                </span>
+                                <a href='https://spectrum.ieee.org/media-library/katherine-johnson-at-her-desk-at-nasa-langley-research-center.jpg?id=25588924&width=1000&quality=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Katherine Johnson | Biography, Education, Accomplishments, & Facts ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/72/194172-050-1F999A0B/Katherine-Johnson.jpg' alt='Katherine Johnson | Biography, Education, Accomplishments, & Facts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="839">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/72/194172-050-1F999A0B/Katherine-Johnson.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Life Story: Katherine Johnson - Women & the American Story">
+                                <img itemprop="contentUrl url" src='https://wams.nyhistory.org/wp-content/uploads/2020/11/8_LS_Katherine-Johnson_Portrait-of-Katherine-Johnson_NASA.jpg' alt='Life Story: Katherine Johnson - Women & the American Story'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="290">
+                                <meta itemprop="height" content="362">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Women & the American Story - The New York Historical" />
+                                </span>
+                                <a href='https://wams.nyhistory.org/wp-content/uploads/2020/11/8_LS_Katherine-Johnson_Portrait-of-Katherine-Johnson_NASA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hidden Figures' Mathematician Katherine Johnson Dies : NPR">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/img/2017/03/06/ap_17058111892412_vert-677d098fb93d4921a218235dda732a92988c4183.jpg?s=1100&c=50&f=jpeg' alt='Hidden Figures' Mathematician Katherine Johnson Dies : NPR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1466">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/img/2017/03/06/ap_17058111892412_vert-677d098fb93d4921a218235dda732a92988c4183.jpg?s=1100&c=50&f=jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Katherine Johnson - Mathematician, NASA, & Hidden Figures">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/nasa-space-scientist-and-mathematician-katherine-johnson-poses-for-a-portrait-at-work-at-nasa-langley-research-center-in-1966-in-hampton-virginia-photo-by-nasadonaldson-collectiongetty-images-105143-a.jpg?crop=1xw:0.75xh;center,top&resize=1200:*' alt='Katherine Johnson - Mathematician, NASA, & Hidden Figures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/nasa-space-scientist-and-mathematician-katherine-johnson-poses-for-a-portrait-at-work-at-nasa-langley-research-center-in-1966-in-hampton-virginia-photo-by-nasadonaldson-collectiongetty-images-105143-a.jpg?crop=1xw:0.75xh;center,top&resize=1200:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Katherine Johnson, Hidden Figures Mathematician, Has Died">
+                                <img itemprop="contentUrl url" src='https://pyxis.nymag.com/v1/imgs/552/ef4/6c4e335a6514770ab888aff51184d175f8-24-katherine-johnson.rsocial.w1200.jpg' alt='Katherine Johnson, Hidden Figures Mathematician, Has Died'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vulture" />
+                                </span>
+                                <a href='https://pyxis.nymag.com/v1/imgs/552/ef4/6c4e335a6514770ab888aff51184d175f8-24-katherine-johnson.rsocial.w1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Katherine Johnson: Pioneering NASA mathematician | Space">
+                                <img itemprop="contentUrl url" src='https://cdn.mos.cms.futurecdn.net/re9XNr6eWvXmhQrUpKqKyS.jpg' alt='Katherine Johnson: Pioneering NASA mathematician | Space'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Space.com" />
+                                </span>
+                                <a href='https://cdn.mos.cms.futurecdn.net/re9XNr6eWvXmhQrUpKqKyS.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Katherine Johnson Won The Space Race With The Power Of Math">
+                                <img itemprop="contentUrl url" src='https://imageio.forbes.com/specials-images/imageserve/645754712/0x0.jpg?format=jpg&crop=4236,2823,x0,y259,safe&height=900&width=1600&fit=bounds' alt='Katherine Johnson Won The Space Race With The Power Of Math'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1350">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forbes" />
+                                </span>
+                                <a href='https://imageio.forbes.com/specials-images/imageserve/645754712/0x0.jpg?format=jpg&crop=4236,2823,x0,y259,safe&height=900&width=1600&fit=bounds' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Transform Your Space with White Minimal Wallpaper</title>
+                    <meta name="description" content="Discover the elegance of white minimal wallpaper for your home. Perfect for modern aesthetics, it brightens spaces and adds a touch of tranquility. Explore various textures and patterns to create a personalized atmosphere while keeping things chic and simple! Ideal for any room, it's the ultimate design choice.">
+                    <meta name="keywords" content="white minimal wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/white-minimal-wallpaper">
+                            <span itemprop="name">white minimal wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with White Minimal Wallpaper</h1>
+                <p>White minimal wallpaper offers a serene backdrop for any space, creating an illusion of spaciousness while promoting a calm atmosphere. Perfect for modern interiors, it enhances natural light and complements various design elements. Choose from textures or subtle patterns to personalize your environment without overwhelming it.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1000+ White Minimal Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1519120944692-1a8d8cfc107f?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d2hpdGUlMjBtaW5pbWFsfGVufDB8fDB8fHww' alt='1000+ White Minimal Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1519120944692-1a8d8cfc107f?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d2hpdGUlMjBtaW5pbWFsfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Landscape White Minimalist Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/landscape-white-minimalist-d0h9lllw9ds8g39m.jpg' alt='Landscape White Minimalist Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/landscape-white-minimalist-d0h9lllw9ds8g39m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1000+ White Minimal Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1579187707643-35646d22b596?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8d2hpdGUlMjBtaW5pbWFsfGVufDB8fDB8fHww' alt='1000+ White Minimal Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4494">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1579187707643-35646d22b596?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8d2hpdGUlMjBtaW5pbWFsfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mountain Peak White Minimalist Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/mountain-peak-white-minimalist-dslzfihulnhf9wfy.jpg' alt='Mountain Peak White Minimalist Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/mountain-peak-white-minimalist-dslzfihulnhf9wfy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone, Minimalistic, White - Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d7/12/7b/d7127b6902939da50a852f47600b636e.jpg' alt='iPhone, Minimalistic, White - Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d7/12/7b/d7127b6902939da50a852f47600b636e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1000+ White Minimal Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1667587245819-2bea7a93e7a1?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8d2hpdGUlMjBtaW5pbWFsfGVufDB8fDB8fHww' alt='1000+ White Minimal Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1667587245819-2bea7a93e7a1?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8d2hpdGUlMjBtaW5pbWFsfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Keep It Simple With A White Minimalist Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/keep-it-simple-with-a-white-minimalist-iphone-u09fvdvfip98s2j4.jpg' alt='Keep It Simple With A White Minimalist Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/keep-it-simple-with-a-white-minimalist-iphone-u09fvdvfip98s2j4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="white low key minimalist wallpaper by dtbsz on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/30a6e7b3-1781-49fa-a2f0-b20a042f3742/dcco9bx-97b028ce-9285-4af6-9667-765f21a3d462.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzMwYTZlN2IzLTE3ODEtNDlmYS1hMmYwLWIyMGEwNDJmMzc0MlwvZGNjbzlieC05N2IwMjhjZS05Mjg1LTRhZjYtOTY2Ny03NjVmMjFhM2Q0NjIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.H8BziaKal94dV3rQzYJu7rhoxBYjsrR8XzplDw89ciQ' alt='white low key minimalist wallpaper by dtbsz on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/30a6e7b3-1781-49fa-a2f0-b20a042f3742/dcco9bx-97b028ce-9285-4af6-9667-765f21a3d462.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzMwYTZlN2IzLTE3ODEtNDlmYS1hMmYwLWIyMGEwNDJmMzc0MlwvZGNjbzlieC05N2IwMjhjZS05Mjg1LTRhZjYtOTY2Ny03NjVmMjFhM2Q0NjIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.H8BziaKal94dV3rQzYJu7rhoxBYjsrR8XzplDw89ciQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Minimalist Wallpapers - Top Free White Minimalist ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/90/db/f4/90dbf402730c059e0f106ce80d1d779a.jpg' alt='White Minimalist Wallpapers - Top Free White Minimalist ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/90/db/f4/90dbf402730c059e0f106ce80d1d779a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and white minimal wallpaper collection [3840x2160] : r/wallpaper">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/black-and-white-minimal-wallpaper-collection-3840x2160-v0-fkwigrs1og491.png?width=1080&crop=smart&auto=webp&s=97aff04f470891db81accda9434a0c130f6976c2' alt='Black and white minimal wallpaper collection [3840x2160] : r/wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/black-and-white-minimal-wallpaper-collection-3840x2160-v0-fkwigrs1og491.png?width=1080&crop=smart&auto=webp&s=97aff04f470891db81accda9434a0c130f6976c2' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Cute Paper Backgrounds: Add Charm to Your Projects!</title>
+                    <meta name="description" content="Discover adorable paper backgrounds to enhance your creative designs. Perfect for scrapbooking, crafting, or digital art, explore various playful patterns that bring whimsy to any project. Elevate your creations with these charming and fun paper options!">
+                    <meta name="keywords" content="cute paper background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cute-paper-background">
+                            <span itemprop="name">cute paper background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cute Paper Backgrounds: Add Charm to Your Projects!</h1>
+                <p>Explore the charm of cute paper backgrounds that can elevate your creative projects! Whether for scrapbooking, digital designs, or crafting, these delightful patterns add whimsy and personality. From pastel florals to playful polka dots, find the perfect paper to bring your ideas to life. Get inspired!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cute and lovly paper line vector background, detailed lined paper ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/000/538/725/non_2x/cute-and-lovly-paper-line-vector-background-detailed-lined-paper-texture.jpg' alt='cute and lovly paper line vector background, detailed lined paper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/000/538/725/non_2x/cute-and-lovly-paper-line-vector-background-detailed-lined-paper-texture.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,200+ Cute Lined Paper Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1775861818/vector/cute-and-colorful-masking-tape-illustration.jpg?s=612x612&w=0&k=20&c=h1cK-l--vBYxmvb__L9xQ1MkeLNsCMMF9trsw6pOrgc=' alt='2,200+ Cute Lined Paper Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1775861818/vector/cute-and-colorful-masking-tape-illustration.jpg?s=612x612&w=0&k=20&c=h1cK-l--vBYxmvb__L9xQ1MkeLNsCMMF9trsw6pOrgc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Paper Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/aesthetic-paper-note-background-wallpaper-vector_53876-140779.jpg' alt='Cute Paper Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="352">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/aesthetic-paper-note-background-wallpaper-vector_53876-140779.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,200+ Cute Lined Paper Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/157761037/vector/hand-drawn-colorful-sketchy-doodles.jpg?s=612x612&w=0&k=20&c=O5FtArOx6ScKVBaDA-vKavpbU2DcPNDj6QInR_q9sXM=' alt='2,200+ Cute Lined Paper Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/157761037/vector/hand-drawn-colorful-sketchy-doodles.jpg?s=612x612&w=0&k=20&c=O5FtArOx6ScKVBaDA-vKavpbU2DcPNDj6QInR_q9sXM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scrapbook background. Cute paper for scrap design. Abstract ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/008/699/269/non_2x/scrapbook-background-cute-paper-for-scrap-design-abstract-background-trendy-modern-texture-illustration-vector.jpg' alt='Scrapbook background. Cute paper for scrap design. Abstract ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="653">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/008/699/269/non_2x/scrapbook-background-cute-paper-for-scrap-design-abstract-background-trendy-modern-texture-illustration-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Business Paper Background Wallpaper Image For Free Download ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0f/98/38/0f9838fc32b0ff306fea68e43fab58e4.jpg' alt='Cute Business Paper Background Wallpaper Image For Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1030">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0f/98/38/0f9838fc32b0ff306fea68e43fab58e4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 2 | Cute Background Paper Vectors & Illustrations for Free ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/aesthetic-paper-note-background-wallpaper-vector_53876-144488.jpg' alt='Page 2 | Cute Background Paper Vectors & Illustrations for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="352">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/aesthetic-paper-note-background-wallpaper-vector_53876-144488.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Paper Note Background Design, Background, Paper, Cute ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d0/63/ee/d063eec9f07c509c032f07e63017174a.jpg' alt='Cute Paper Note Background Design, Background, Paper, Cute ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="345">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d0/63/ee/d063eec9f07c509c032f07e63017174a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cute aesthetic empty torn paper note frame with beige pastel color ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2JKNGK0/cute-aesthetic-empty-torn-paper-note-frame-with-beige-pastel-color-background-vector-template-2JKNGK0.jpg' alt='cute aesthetic empty torn paper note frame with beige pastel color ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2JKNGK0/cute-aesthetic-empty-torn-paper-note-frame-with-beige-pastel-color-background-vector-template-2JKNGK0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Printable Writing Paper,printable Stationery Paper,abstract Writing  Paper,notepaper,lined Paper,journal Paper,writing Set,us Letter Size,a4 -  Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/42453875/r/il/43b1ce/5293205938/il_1080xN.5293205938_dtel.jpg' alt='Printable Writing Paper,printable Stationery Paper,abstract Writing  Paper,notepaper,lined Paper,journal Paper,writing Set,us Letter Size,a4 -  Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1398">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/42453875/r/il/43b1ce/5293205938/il_1080xN.5293205938_dtel.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

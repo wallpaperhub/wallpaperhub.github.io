@@ -1,0 +1,129 @@
+<title>Discover Renee Rapp: Rising Star in Music and Theatre</title>
+                    <meta name="description" content="Explore the journey of Renee Rapp, a promising singer and actress known for her Broadway roles and original music. Follow her rise in the entertainment industry as she captivates audiences with her talent and passion. Stay tuned for her latest projects and musical releases!">
+                    <meta name="keywords" content="renee rapp">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/renee-rapp">
+                            <span itemprop="name">renee rapp</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Renee Rapp: Rising Star in Music and Theatre</h1>
+                <p>Renee Rapp is a talented American singer and actress, renowned for her captivating performances on Broadway and in popular shows. She gained fame through her role in "Mean Girls" and has since built a strong solo music career with impactful lyrics and melodies. With a dedicated fanbase, Rapp continues to thrive in the entertainment industry.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Reneé Rapp - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/c/c0/Renee_Rapp_at_KCAs_2024_02.jpg' alt='Reneé Rapp - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="668">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/c/c0/Renee_Rapp_at_KCAs_2024_02.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Renee Rapp Says She Auditioned for 'HSMTMTS' | J-14">
+                                <img itemprop="contentUrl url" src='https://www.j-14.com/wp-content/uploads/2024/02/Renee-Rapp-HSMTMTS.jpg?crop=0px%2C0px%2C5782px%2C3038px&resize=1200%2C630&quality=86&strip=all' alt='Renee Rapp Says She Auditioned for 'HSMTMTS' | J-14'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="J-14" />
+                                </span>
+                                <a href='https://www.j-14.com/wp-content/uploads/2024/02/Renee-Rapp-HSMTMTS.jpg?crop=0px%2C0px%2C5782px%2C3038px&resize=1200%2C630&quality=86&strip=all' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Renee Rapp Reveals She Auditioned for 'High School Musical: The ...">
+                                <img itemprop="contentUrl url" src='https://s.yimg.com/ny/api/res/1.2/Lm0ZN6IDRG9Ns_.9fmKVSA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/us_magazine_896/2be5b0aa66e00e7232d13aa9a93eb4c8' alt='Renee Rapp Reveals She Auditioned for 'High School Musical: The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yahoo" />
+                                </span>
+                                <a href='https://s.yimg.com/ny/api/res/1.2/Lm0ZN6IDRG9Ns_.9fmKVSA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/us_magazine_896/2be5b0aa66e00e7232d13aa9a93eb4c8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="All About Reneé Rapp's Girlfriend, Towa Bird and Their Romance">
+                                <img itemprop="contentUrl url" src='https://www.theknot.com/tk-media/images/033e6cf2-6824-46de-bb43-83a98a2fec77' alt='All About Reneé Rapp's Girlfriend, Towa Bird and Their Romance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Knot" />
+                                </span>
+                                <a href='https://www.theknot.com/tk-media/images/033e6cf2-6824-46de-bb43-83a98a2fec77' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AP Breakthrough Entertainer: Reneé Rapp has always known what she ...">
+                                <img itemprop="contentUrl url" src='https://www.news10.com/wp-content/uploads/sites/64/2023/12/6579bcd31652c9.51727588.jpeg?w=2560&h=1440&crop=1' alt='AP Breakthrough Entertainer: Reneé Rapp has always known what she ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NEWS10 ABC" />
+                                </span>
+                                <a href='https://www.news10.com/wp-content/uploads/sites/64/2023/12/6579bcd31652c9.51727588.jpeg?w=2560&h=1440&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Artist Spotlight: Reneé Rapp's evolution from Broadway star to pop ...">
+                                <img itemprop="contentUrl url" src='https://snworksceo.imgix.net/njs/ef0d28f0-75bc-4884-931d-416155107435.sized-1000x1000.png?w=1000' alt='Artist Spotlight: Reneé Rapp's evolution from Broadway star to pop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Signal (TCNJ)" />
+                                </span>
+                                <a href='https://snworksceo.imgix.net/njs/ef0d28f0-75bc-4884-931d-416155107435.sized-1000x1000.png?w=1000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jimmy Award Winner Reneé Rapp to Make Broadway Debut as Regina in ...">
+                                <img itemprop="contentUrl url" src='https://imaging.broadway.com/images/custom/w735/109479-16.jpg' alt='Jimmy Award Winner Reneé Rapp to Make Broadway Debut as Regina in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1102">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Broadway Shows" />
+                                </span>
+                                <a href='https://imaging.broadway.com/images/custom/w735/109479-16.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Reneé Rapp Is the Newest L'Oréal Paris Ambassador: 'I Like Being ...">
+                                <img itemprop="contentUrl url" src='https://people.com/thmb/ZE4QLXtrIFbKmDuN_gBNguVudNo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(948x769:950x771)/Renee-Rapp-LOreal-Paris-020325-tout-1989ff84ca7048f388f11d0c1277ffda.jpg' alt='Reneé Rapp Is the Newest L'Oréal Paris Ambassador: 'I Like Being ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="People.com" />
+                                </span>
+                                <a href='https://people.com/thmb/ZE4QLXtrIFbKmDuN_gBNguVudNo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(948x769:950x771)/Renee-Rapp-LOreal-Paris-020325-tout-1989ff84ca7048f388f11d0c1277ffda.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Reneé Rapp Is Going Full Diva on the 'Mean Girls' Press Tour">
+                                <img itemprop="contentUrl url" src='https://www.thedailybeast.com/resizer/v2/KY2XP4KPMFMGXKPB6XKWSMVPUM.jpg?smart=true&auth=906ad805ee44cb9e0755e154452c1a8aa010cb9faf0125947eefe4d6696e774c&width=3000&height=1687' alt='Reneé Rapp Is Going Full Diva on the 'Mean Girls' Press Tour'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1687">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Daily Beast" />
+                                </span>
+                                <a href='https://www.thedailybeast.com/resizer/v2/KY2XP4KPMFMGXKPB6XKWSMVPUM.jpg?smart=true&auth=906ad805ee44cb9e0755e154452c1a8aa010cb9faf0125947eefe4d6696e774c&width=3000&height=1687' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Renee Rapp Signs With WME">
+                                <img itemprop="contentUrl url" src='https://www.hollywoodreporter.com/wp-content/uploads/2022/11/10132022_EH_RENEE_RAPP_LOOK_1_288-h-2022.jpg?w=1296&h=730&crop=1' alt='Renee Rapp Signs With WME'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1296">
+                                <meta itemprop="height" content="730">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Hollywood Reporter" />
+                                </span>
+                                <a href='https://www.hollywoodreporter.com/wp-content/uploads/2022/11/10132022_EH_RENEE_RAPP_LOOK_1_288-h-2022.jpg?w=1296&h=730&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

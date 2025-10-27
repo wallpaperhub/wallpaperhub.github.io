@@ -1,0 +1,129 @@
+<title>Beautiful Wood Background Clipart for Creative Projects</title>
+                    <meta name="description" content="Discover our premium wood background clipart collection, perfect for enhancing your designs and presentations. Ideal for various creative projects, these high-quality, versatile images add a unique touch to any visual. Explore now and elevate your artwork with our stunning wood textures!">
+                    <meta name="keywords" content="wood background clipart">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/wood-background-clipart">
+                            <span itemprop="name">wood background clipart</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful Wood Background Clipart for Creative Projects</h1>
+                <p>Enhance your projects with stunning wood background clipart! Perfect for crafts, digital designs, and presentations, our collection features various textures and colors, from rustic oak to sleek walnut. These versatile cliparts add warmth and character, making your visuals stand out effortlessly. Ideal for both personal and professional use!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,000+ Barn Wood Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1285490364/vector/brown-vintage-wooden-planks-background.jpg?s=612x612&w=0&k=20&c=mjr_s66jWL8G1yTyBc0VprLKA1OPvmjREUQ0T3zP4Pg=' alt='2,000+ Barn Wood Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="583">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1285490364/vector/brown-vintage-wooden-planks-background.jpg?s=612x612&w=0&k=20&c=mjr_s66jWL8G1yTyBc0VprLKA1OPvmjREUQ0T3zP4Pg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wood Background Stock Illustrations – 1,757,134 Wood Background ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/vector-wood-background-texture-light-brown-wooden-planks-62782739.jpg' alt='Wood Background Stock Illustrations – 1,757,134 Wood Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="832">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/vector-wood-background-texture-light-brown-wooden-planks-62782739.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wood Texture Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/002/173/386/small/wood-texture-background-free-vector.jpg' alt='Wood Texture Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="313">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/002/173/386/small/wood-texture-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wood Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/003/311/478/small/wood-texture-background-free-vector.jpg' alt='Wood Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="313">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/003/311/478/small/wood-texture-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,000+ Barn Wood Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/533236184/vector/wood-background.jpg?s=612x612&w=0&k=20&c=5tFd81SoCuvbOqRgPXq1Y3nMXOVSFqi15NgR6Ah0dQM=' alt='2,000+ Barn Wood Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/533236184/vector/wood-background.jpg?s=612x612&w=0&k=20&c=5tFd81SoCuvbOqRgPXq1Y3nMXOVSFqi15NgR6Ah0dQM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wood Background Clipart Images | Free Download | PNG Transparent ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/element_our/20190529/ourmid/pngtree-street-sign-signboard-wooden-illustration-image_1218334.jpg' alt='Wood Background Clipart Images | Free Download | PNG Transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/element_our/20190529/ourmid/pngtree-street-sign-signboard-wooden-illustration-image_1218334.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Backgrounds Colors Texture Wood Vector Images (over 15,000)">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/60/45/wood-plank-texture-background-vector-946045.jpg' alt='Backgrounds Colors Texture Wood Vector Images (over 15,000)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/60/45/wood-plank-texture-background-vector-946045.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wood Background Clipart Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/wood-vector-texture-template-pattern-seamless-material-hardwood-floor-natural-light-parquet-vector-illustration_1284-47074.jpg' alt='Wood Background Clipart Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/wood-vector-texture-template-pattern-seamless-material-hardwood-floor-natural-light-parquet-vector-illustration_1284-47074.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patterns Clipart-natural wood grain background in rich brown tones">
+                                <img itemprop="contentUrl url" src='https://classroomclipart.com/image/static7/preview2/natural-wood-grain-background-in-rich-brown-tones-71149.jpg' alt='Patterns Clipart-natural wood grain background in rich brown tones'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Classroom Clipart" />
+                                </span>
+                                <a href='https://classroomclipart.com/image/static7/preview2/natural-wood-grain-background-in-rich-brown-tones-71149.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 2 | Wood Background Clipart Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/empty-wooden-sign-banner-isolated_1308-90752.jpg' alt='Page 2 | Wood Background Clipart Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="558">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/empty-wooden-sign-banner-isolated_1308-90752.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

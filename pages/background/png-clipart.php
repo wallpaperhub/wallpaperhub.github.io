@@ -1,0 +1,129 @@
+<title>Best PNG Clipart for Your Creative Projects</title>
+                    <meta name="description" content="Discover high-quality PNG clipart to enhance your creative projects. Perfect for graphic design, presentations, and more, our extensive collection offers endless artistic possibilities. Find the ideal transparent images to elevate your visual content effortlessly!">
+                    <meta name="keywords" content="png clipart">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/png-clipart">
+                            <span itemprop="name">png clipart</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Best PNG Clipart for Your Creative Projects</h1>
+                <p>Png clipart offers a versatile collection of transparent images suitable for various creative projects. Ideal for graphic design, presentations, and web content, these graphics allow for easy layering and manipulation. With a plethora of styles and subjects, png clipart elevates visual storytelling and enhances artistic expression.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clipart, Download Free Transparent PNG Format Clipart Images on ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20191120/original/pngtree-lovely-bat-clipart-vector-png-element-png-image_5066344.jpg' alt='Clipart, Download Free Transparent PNG Format Clipart Images on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20191120/original/pngtree-lovely-bat-clipart-vector-png-element-png-image_5066344.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Banner Transparent PNG Clip Art Image​ | Gallery Yopriceville ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/downloadfullsize/send/11782' alt='Banner Transparent PNG Clip Art Image​ | Gallery Yopriceville ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6176">
+                                <meta itemprop="height" content="2006">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/downloadfullsize/send/11782' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Design Clipart Images | Free Download | PNG Transparent Background ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20190725/ourmid/pngtree-wedding-vector-design-clipart-png-image_1600695.jpg' alt='Design Clipart Images | Free Download | PNG Transparent Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20190725/ourmid/pngtree-wedding-vector-design-clipart-png-image_1600695.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download clipart png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/437/373/png-clipart-ribbon-banner-creative-graphic-design-orange-clipart-download-material.png' alt='Download clipart png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="755">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/437/373/png-clipart-ribbon-banner-creative-graphic-design-orange-clipart-download-material.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Decoration PNG Clipart Picture​ | Gallery Yopriceville - High ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/var/albums/Free-Clipart-Pictures/Decorative-Elements-PNG/Decoration_PNG_Clipart_Picture.png?m=1629793497' alt='Decoration PNG Clipart Picture​ | Gallery Yopriceville - High ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2569">
+                                <meta itemprop="height" content="803">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/var/albums/Free-Clipart-Pictures/Decorative-Elements-PNG/Decoration_PNG_Clipart_Picture.png?m=1629793497' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ribbon PNG Clipart - Best WEB Clipart">
+                                <img itemprop="contentUrl url" src='https://pics.clipartpng.com/Ribbon_PNG_Clipart-536.png' alt='Ribbon PNG Clipart - Best WEB Clipart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2246">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ClipartPNG" />
+                                </span>
+                                <a href='https://pics.clipartpng.com/Ribbon_PNG_Clipart-536.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Decorative Floral Design Clipart Png - SimilarPNG">
+                                <img itemprop="contentUrl url" src='https://image.similarpng.com/file/similarpng/very-thumbnail/2020/09/Black-decorative-floral-design-clipart-PNG.png' alt='Black Decorative Floral Design Clipart Png - SimilarPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Similar PNG" />
+                                </span>
+                                <a href='https://image.similarpng.com/file/similarpng/very-thumbnail/2020/09/Black-decorative-floral-design-clipart-PNG.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tropical Flower PNG Clipart - Best WEB Clipart">
+                                <img itemprop="contentUrl url" src='https://pics.clipartpng.com/Tropical_Flower_PNG_Clipart-194.png' alt='Tropical Flower PNG Clipart - Best WEB Clipart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2896">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ClipartPNG" />
+                                </span>
+                                <a href='https://pics.clipartpng.com/Tropical_Flower_PNG_Clipart-194.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clipart PNGs for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/022/157/132/small_2x/strawberry-frame-watercolor-clipart-png.png' alt='Clipart PNGs for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="451">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/022/157/132/small_2x/strawberry-frame-watercolor-clipart-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="38,210 Clipart Png Royalty-Free Photos and Stock Images | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2163468571/display_1500/stock-vector-realistic-vector-paper-clip-png-black-paper-clip-steel-office-supplies-on-an-isolated-transparent-2163468571.jpg' alt='38,210 Clipart Png Royalty-Free Photos and Stock Images | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2163468571/display_1500/stock-vector-realistic-vector-paper-clip-png-black-paper-clip-steel-office-supplies-on-an-isolated-transparent-2163468571.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

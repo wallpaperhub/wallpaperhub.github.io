@@ -1,0 +1,129 @@
+<title>Adorable Dark Wallpapers: Perfect for a Cozy Space</title>
+                    <meta name="description" content="Explore a delightful collection of cute dark wallpapers that add charm to your home. Ideal for any room, these unique designs combine whimsy and warmth, enhancing your decor effortlessly. Discover your perfect match today!">
+                    <meta name="keywords" content="dark wallpaper cute">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/dark-wallpaper-cute">
+                            <span itemprop="name">dark wallpaper cute</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Dark Wallpapers: Perfect for a Cozy Space</h1>
+                <p>Transform your space with cute dark wallpapers that add charm and whimsy to any room. From adorable animal prints to stylish minimalist designs, dark backgrounds can enhance the warmth of your decor. Perfect for bedrooms, nurseries, or cozy living spaces, these wallpapers bring a touch of personality without overwhelming the atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Black Wallpaper - Wallpaper Sun">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/3e/38/fc/3e38fc12fddf4095aece24dc19471f47.jpg' alt='Cute Black Wallpaper - Wallpaper Sun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/3e/38/fc/3e38fc12fddf4095aece24dc19471f47.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Dark Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-dark-a022kawmtjm4zd3a.jpg' alt='100+] Cute Dark Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-dark-a022kawmtjm4zd3a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Dark Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/explore-the-depths-of-the-mysterious-fzmn70ps6mev490p.jpg' alt='Cute Dark Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/explore-the-depths-of-the-mysterious-fzmn70ps6mev490p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin van helin op profil | Iphone achtergrond, Achtergronden ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cd/78/7b/cd787b90e7cdda9ac6e6f58a967371a1.jpg' alt='Pin van helin op profil | Iphone achtergrond, Achtergronden ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cd/78/7b/cd787b90e7cdda9ac6e6f58a967371a1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Cute Wallpaper Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9zdGF0aWMvZmlsZXMvd2Vic2l0ZS8yMDI0LTEwL3RwNTUyLTA5MTAyNC1iYm0tMDAzLXN0b3J5LTEuanBn.jpg' alt='Black Cute Wallpaper Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9zdGF0aWMvZmlsZXMvd2Vic2l0ZS8yMDI0LTEwL3RwNTUyLTA5MTAyNC1iYm0tMDAzLXN0b3J5LTEuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PAPERS.co | Android wallpaper | ag17-cute-minimal-panda-dark ...">
+                                <img itemprop="contentUrl url" src='http://papers.co/wallpaper/papers.co-ag17-cute-minimal-panda-dark-illust-art-40-wallpaper.jpg?download=true' alt='PAPERS.co | Android wallpaper | ag17-cute-minimal-panda-dark ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2732">
+                                <meta itemprop="height" content="2732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papers.co" />
+                                </span>
+                                <a href='http://papers.co/wallpaper/papers.co-ag17-cute-minimal-panda-dark-illust-art-40-wallpaper.jpg?download=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Dark Cute Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/dark-cute-m7vryyx8lv31vsa6.jpg' alt='100+] Dark Cute Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/dark-cute-m7vryyx8lv31vsa6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Find Beauty In The Darkness Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/find-beauty-in-the-darkness-20xposi9p428m4p6.jpg' alt='Find Beauty In The Darkness Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1157">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/find-beauty-in-the-darkness-20xposi9p428m4p6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Late Nights, aesthetic, black, cute, dark, emo, night, teenage, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/515/527/HD-wallpaper-late-nights-aesthetic-black-cute-dark-emo-night-teenage.jpg' alt='Late Nights, aesthetic, black, cute, dark, emo, night, teenage, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1424">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/515/527/HD-wallpaper-late-nights-aesthetic-black-cute-dark-emo-night-teenage.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="55 Black Wallpapers ideas | black wallpaper, black aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/98/85/3d/98853d5f9bcaf44c33b31ef97be2fdd0.jpg' alt='55 Black Wallpapers ideas | black wallpaper, black aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="841">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/98/85/3d/98853d5f9bcaf44c33b31ef97be2fdd0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

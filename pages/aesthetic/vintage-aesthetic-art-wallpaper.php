@@ -1,0 +1,129 @@
+<title>Elevate Your Space with Vintage Aesthetic Art Wallpaper</title>
+                    <meta name="description" content="Discover vintage aesthetic art wallpaper to enhance your decor. Dive into classic designs with soft colors and intricate details that bring warmth and nostalgia to your home. Perfect for creating cozy, inviting spaces with a touch of timeless charm. Explore our collection today!">
+                    <meta name="keywords" content="vintage aesthetic art wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/vintage-aesthetic-art-wallpaper">
+                            <span itemprop="name">vintage aesthetic art wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Space with Vintage Aesthetic Art Wallpaper</h1>
+                <p>Vintage aesthetic art wallpaper beautifully transforms spaces with nostalgic charm. Inspired by classic designs, these wallpapers feature soft colors, intricate patterns, and retro motifs. Perfect for those who love timeless decor, vintage wallpaper adds character and warmth to any room, creating a cozy and inviting atmosphere. Embrace the charm!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/4a/50/b6/4a50b67185373e1fe83a41fa406c01ad.jpg' alt='Aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/4a/50/b6/4a50b67185373e1fe83a41fa406c01ad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Aesthetic Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/yellow-floral-wall-textured-background_53876-163051.jpg' alt='Vintage Aesthetic Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="352">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/yellow-floral-wall-textured-background_53876-163051.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Collage">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2f/5d/e7/2f5de782c328fcf4b6689a7dac67a2db.jpg' alt='Collage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="717">
+                                <meta itemprop="height" content="1274">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2f/5d/e7/2f5de782c328fcf4b6689a7dac67a2db.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1000+] Vintage Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/vintage-aesthetic-nxxxf6iyjqzz266w.jpg' alt='1000+] Vintage Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="415">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/vintage-aesthetic-nxxxf6iyjqzz266w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD retro vintage aesthetic wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/955/605/HD-wallpaper-waves-aesthetic-ocean-retro-sea-vintage-thumbnail.jpg' alt='HD retro vintage aesthetic wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/955/605/HD-wallpaper-waves-aesthetic-ocean-retro-sea-vintage-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free customizable vintage phone wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAF58M3uVaM/2/0/900w/canva-retro-aesthetic-photo-collage-phone-wallpaper-V0xLDndMrek.jpg' alt='Free customizable vintage phone wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAF58M3uVaM/2/0/900w/canva-retro-aesthetic-photo-collage-phone-wallpaper-V0xLDndMrek.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Aesthetic Postcard Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/vintage-aesthetic-postcard-ofemz6ibqag1yd70.jpg' alt='Vintage Aesthetic Postcard Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/vintage-aesthetic-postcard-ofemz6ibqag1yd70.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Collage phone wallpaper vintage aesthetic | Premium PSD - rawpixel">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm00MzQtMDA3Yy5qcGc.jpg' alt='Collage phone wallpaper vintage aesthetic | Premium PSD - rawpixel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm00MzQtMDA3Yy5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Aesthetic Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/watercolor-terracota-background_23-2149550098.jpg' alt='Vintage Aesthetic Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/watercolor-terracota-background_23-2149550098.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Western Wallpaper With Vintage Cowboy and Horses, Wild West ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11123188/r/il/6c1ede/6014700830/il_570xN.6014700830_p18l.jpg' alt='Western Wallpaper With Vintage Cowboy and Horses, Wild West ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11123188/r/il/6c1ede/6014700830/il_570xN.6014700830_p18l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

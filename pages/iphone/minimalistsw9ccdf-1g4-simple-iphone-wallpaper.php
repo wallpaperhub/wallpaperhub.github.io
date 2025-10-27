@@ -1,0 +1,129 @@
+<title>Simple Minimalist iPhone Wallpapers for a Clean Look</title>
+                    <meta name="description" content="Revamp your iPhone with our stunning minimalist wallpapers. Crafted for simplicity and elegance, these designs will keep your screen looking sleek and distraction-free. Perfect for fans of minimalism—discover the art of simplicity now!">
+                    <meta name="keywords" content="minimalist:sw9ccdf-1g4= simple iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/minimalistsw9ccdf-1g4-simple-iphone-wallpaper">
+                            <span itemprop="name">minimalist:sw9ccdf-1g4= simple iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Simple Minimalist iPhone Wallpapers for a Clean Look</h1>
+                <p>Discover the beauty of simplicity with our minimalist iPhone wallpaper collection. Each design embraces clean lines and subtle color palettes, perfect for those who appreciate a refined aesthetic. Transform your device into a tranquil space, free from distractions. Explore our curated selection today for a serene experience!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="550+ Minimalist Iphone Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWluaW1hbGlzdCUyMGlwaG9uZXxlbnwwfHwwfHx8MA%3D%3D' alt='550+ Minimalist Iphone Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWluaW1hbGlzdCUyMGlwaG9uZXxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalist Iphone Wallpaper | Free Aesthetic HD & 4K Mobile Phone ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA3L2pvYjE4NzItYmFja2dyb3VuZC1jaGEtMDE0aC5qcGc.jpg' alt='Minimalist Iphone Wallpaper | Free Aesthetic HD & 4K Mobile Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA3L2pvYjE4NzItYmFja2dyb3VuZC1jaGEtMDE0aC5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50+ Minimalist iPhone Wallpapers | Man of Many">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/62/72/6f/62726fe970e0b04dbec8776ea686389e.jpg' alt='50+ Minimalist iPhone Wallpapers | Man of Many'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/62/72/6f/62726fe970e0b04dbec8776ea686389e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalist Iphone Wallpaper | Free Aesthetic HD & 4K Mobile Phone ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTEyL3NtYWxsZGVzaWduY29tcGFueTAxX21pbmltYWxfd2FsbHBhcGVyX2xhbmRzY2FwZV9kdXJpbmdfc3Vuc2V0X2YzNTlhNTQ4LTBiZDItNDJmNi1hZWE1LWEyYmJjMTgzNzI0Ny5qcGc.jpg' alt='Minimalist Iphone Wallpaper | Free Aesthetic HD & 4K Mobile Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTEyL3NtYWxsZGVzaWduY29tcGFueTAxX21pbmltYWxfd2FsbHBhcGVyX2xhbmRzY2FwZV9kdXJpbmdfc3Vuc2V0X2YzNTlhNTQ4LTBiZDItNDJmNi1hZWE1LWEyYmJjMTgzNzI0Ny5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalist Iphone Wallpaper | Free Aesthetic HD & 4K Mobile Phone ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjUzNWJhdGNoMi1teW50LTQzLmpwZw.jpg' alt='Minimalist Iphone Wallpaper | Free Aesthetic HD & 4K Mobile Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjUzNWJhdGNoMi1teW50LTQzLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50+ Minimalist iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://manofmany.com/wp-content/uploads/2019/07/50-Minimalist-iPhone-Wallpapers-21.jpg' alt='50+ Minimalist iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Man of Many" />
+                                </span>
+                                <a href='https://manofmany.com/wp-content/uploads/2019/07/50-Minimalist-iPhone-Wallpapers-21.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50+ Minimalist iPhone Wallpapers | Man of Many">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6c/40/c4/6c40c45e923c2c55ae0e6fdf477819ca.jpg' alt='50+ Minimalist iPhone Wallpapers | Man of Many'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6c/40/c4/6c40c45e923c2c55ae0e6fdf477819ca.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalist Iphone Wallpaper | Free Aesthetic HD & 4K Mobile Phone ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTEyL2thdGV2NjQ0N19pbWFnZV9vZl9hX21pbmltYWxfc3BhY2Vfem9vbV9vdXRfYmxhY2tfYW5kX3doaXRlX2Flc19mZTRhMTBmNS1iNjY1LTRiZWItOWQ3ZC0xNDRjN2UyZTIyYTIuanBn.jpg' alt='Minimalist Iphone Wallpaper | Free Aesthetic HD & 4K Mobile Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTEyL2thdGV2NjQ0N19pbWFnZV9vZl9hX21pbmltYWxfc3BhY2Vfem9vbV9vdXRfYmxhY2tfYW5kX3doaXRlX2Flc19mZTRhMTBmNS1iNjY1LTRiZWItOWQ3ZC0xNDRjN2UyZTIyYTIuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalist iPhone Wallpapers | iPhone Wallpapers | Simple ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a2/b7/62/a2b76254d5fe0f10a48293b18f2b5d01.jpg' alt='Minimalist iPhone Wallpapers | iPhone Wallpapers | Simple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a2/b7/62/a2b76254d5fe0f10a48293b18f2b5d01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50+ Minimalist iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://manofmany.com/wp-content/uploads/2019/07/50-Minimalist-iPhone-Wallpapers-22.jpg' alt='50+ Minimalist iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Man of Many" />
+                                </span>
+                                <a href='https://manofmany.com/wp-content/uploads/2019/07/50-Minimalist-iPhone-Wallpapers-22.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

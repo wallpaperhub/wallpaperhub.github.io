@@ -1,0 +1,129 @@
+<title>Trendy Skateboards on White Background</title>
+                    <meta name="description" content="Discover the perfect blend of style and simplicity with our collection of skateboards set against a white background. Ideal for showcasing designs and appealing to skaters, this presentation enhances your skateboarding experience. Shop now for stylish boards that stand out!">
+                    <meta name="keywords" content="skateboard white background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/skateboard-white-background">
+                            <span itemprop="name">skateboard white background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Trendy Skateboards on White Background</h1>
+                <p>Prepare to elevate your style with an expressive skateboard against a pure white background. This minimalist presentation highlights the skateboard's colors and design, making it a focal point for both enthusiasts and newcomers. Perfect for showcasing art, design, or simply the love for skating culture. Embrace the vibe!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6,400+ Skateboard On White Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/172178479/photo/skateboard.jpg?s=612x612&w=0&k=20&c=P07bl1ZvmOS7N6ezRjkN_pJBl5TF3vkbYRf9tsUJS1c=' alt='6,400+ Skateboard On White Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="323">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/172178479/photo/skateboard.jpg?s=612x612&w=0&k=20&c=P07bl1ZvmOS7N6ezRjkN_pJBl5TF3vkbYRf9tsUJS1c=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Skateboard on a white background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/skateboard-white-background_110488-882.jpg' alt='Premium Photo | Skateboard on a white background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/skateboard-white-background_110488-882.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Skateboard isolated on a white background side view">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/skateboard-isolated-white-background-side-view_260418-3497.jpg' alt='Premium Photo | Skateboard isolated on a white background side view'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/skateboard-isolated-white-background-side-view_260418-3497.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Skate Board On White Background Stock Photo 39006451 ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/black-skate-board-on-white-260nw-39006451.jpg' alt='Black Skate Board On White Background Stock Photo 39006451 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/black-skate-board-on-white-260nw-39006451.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skateboard On White Background Clipart, Skateboard, Sports ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20241102/ourlarge/pngtree-skateboard-on-white-background-clipart-png-image_14233261.png' alt='Skateboard On White Background Clipart, Skateboard, Sports ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20241102/ourlarge/pngtree-skateboard-on-white-background-clipart-png-image_14233261.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,500+ Skateboard White Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/816371704/vector/black-90s-style-skateboard-sketch-illustration-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=O4rVM7Xf2ZE5cxWhV1GDGUfbMvjVEoMkSyB040JJUEk=' alt='1,500+ Skateboard White Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/816371704/vector/black-90s-style-skateboard-sketch-illustration-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=O4rVM7Xf2ZE5cxWhV1GDGUfbMvjVEoMkSyB040JJUEk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | A blank White Skateboard isolated on a white ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/blank-white-skateboard-isolated-white-background_373676-1556.jpg' alt='Premium Photo | A blank White Skateboard isolated on a white ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="501">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/blank-white-skateboard-isolated-white-background_373676-1556.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skateboard With Wheels on White Background On a White or Clear ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/skateboard-with-wheels-white-background-white-clear-surface-png-transparent-background_94628-58372.jpg' alt='Skateboard With Wheels on White Background On a White or Clear ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/skateboard-with-wheels-white-background-white-clear-surface-png-transparent-background_94628-58372.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skateboard isolated on a white background, side view Stock Photo ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2HMTHA8/skateboard-isolated-on-a-white-background-side-view-2HMTHA8.jpg' alt='Skateboard isolated on a white background, side view Stock Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="956">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2HMTHA8/skateboard-isolated-on-a-white-background-side-view-2HMTHA8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skateboard clipart. Simple skateboard or skateboarding watercolor ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/011/065/224/non_2x/skateboard-clipart-simple-skateboard-or-skateboarding-watercolor-style-illustration-isolated-on-white-background-skateboarding-cartoon-hand-drawn-style-skate-board-icon-drawing-clipart-vector.jpg' alt='Skateboard clipart. Simple skateboard or skateboarding watercolor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1633">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/011/065/224/non_2x/skateboard-clipart-simple-skateboard-or-skateboarding-watercolor-style-illustration-isolated-on-white-background-skateboarding-cartoon-hand-drawn-style-skate-board-icon-drawing-clipart-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

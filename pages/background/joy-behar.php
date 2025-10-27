@@ -1,0 +1,129 @@
+<title>Joy Behar: Comedian, Actress & "The View" Co-Host</title>
+                    <meta name="description" content="Discover Joy Behar's journey as a stand-up comedian and iconic co-host of "The View." Dive into her insights on pop culture, politics, and her significant contributions to entertainment. Learn why her voice continues to resonate with audiences everywhere.">
+                    <meta name="keywords" content="joy behar">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/joy-behar">
+                            <span itemprop="name">joy behar</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Joy Behar: Comedian, Actress & "The View" Co-Host</h1>
+                <p>Joy Behar is a renowned American comedian, actress, and co-host of "The View." Known for her sharp wit and bold opinions, she has been a prominent figure in the entertainment industry for decades. Behar often tackles social and political issues, making her an influential voice in pop culture today.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joy Behar - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMTc3ODI4MTk0M15BMl5BanBnXkFtZTcwMjE2MTUyMw@@._V1_.jpg' alt='Joy Behar - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="478">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMTc3ODI4MTk0M15BMl5BanBnXkFtZTcwMjE2MTUyMw@@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The View's Joy Behar walks back Elon Musk comments after saying he ...">
+                                <img itemprop="contentUrl url" src='https://static.independent.co.uk/2025/02/27/18/33/Joy-Behar-and-Elon-Musk.png' alt='The View's Joy Behar walks back Elon Musk comments after saying he ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1356">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Independent" />
+                                </span>
+                                <a href='https://static.independent.co.uk/2025/02/27/18/33/Joy-Behar-and-Elon-Musk.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My First Ex-Husband': Joy Behar play offers inside look at life, love">
+                                <img itemprop="contentUrl url" src='https://www.app.com/gcdn/authoring/authoring-images/2025/01/13/PAPP/77668287007-joy-behar.jpg?crop=4234,2380,x0,y0' alt='My First Ex-Husband': Joy Behar play offers inside look at life, love'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4234">
+                                <meta itemprop="height" content="2380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Asbury Park Press" />
+                                </span>
+                                <a href='https://www.app.com/gcdn/authoring/authoring-images/2025/01/13/PAPP/77668287007-joy-behar.jpg?crop=4234,2380,x0,y0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joy Behar Warns Fans After Whoopi Goldberg Is Absent From 'The ...">
+                                <img itemprop="contentUrl url" src='https://d.newsweek.com/en/full/2592600/joy-behar.jpg?w=1600&h=1600&q=88&f=5adf601b00d7305dc1d0004376e135a2' alt='Joy Behar Warns Fans After Whoopi Goldberg Is Absent From 'The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Newsweek" />
+                                </span>
+                                <a href='https://d.newsweek.com/en/full/2592600/joy-behar.jpg?w=1600&h=1600&q=88&f=5adf601b00d7305dc1d0004376e135a2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joy Behar Brings 'My First Ex-Husband' Back to Bay Street - 27 East">
+                                <img itemprop="contentUrl url" src='https://image.27east.com/2024/08/Joy-Behar-e1722870294469.jpg' alt='Joy Behar Brings 'My First Ex-Husband' Back to Bay Street - 27 East'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1320">
+                                <meta itemprop="height" content="898">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="27East" />
+                                </span>
+                                <a href='https://image.27east.com/2024/08/Joy-Behar-e1722870294469.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joy Behar Married 2nd Husband Steve Janowitz After 29 Years of ...">
+                                <img itemprop="contentUrl url" src='https://s.yimg.com/ny/api/res/1.2/ZWTeLMIz2Q0Gk8Z8x2l.xA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTg3OQ--/https://media.zenfs.com/en/closer_weekly_341/d95287d7728aa59a62be07f4c3e48680' alt='Joy Behar Married 2nd Husband Steve Janowitz After 29 Years of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="879">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yahoo" />
+                                </span>
+                                <a href='https://s.yimg.com/ny/api/res/1.2/ZWTeLMIz2Q0Gk8Z8x2l.xA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTg3OQ--/https://media.zenfs.com/en/closer_weekly_341/d95287d7728aa59a62be07f4c3e48680' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The View: Joy Behar Defends Trump Voters From 'SNL'">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.thewrap.com/wp-content/uploads/2025/02/joy-behar-view.jpg?fit=990%2C557&quality=89&ssl=1' alt='The View: Joy Behar Defends Trump Voters From 'SNL''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="990">
+                                <meta itemprop="height" content="557">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheWrap" />
+                                </span>
+                                <a href='https://i0.wp.com/www.thewrap.com/wp-content/uploads/2025/02/joy-behar-view.jpg?fit=990%2C557&quality=89&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Review: Joy Behar's My First Ex-Husband Is Divorced-Queen Story ...">
+                                <img itemprop="contentUrl url" src='https://www.theatermania.com/wp-content/uploads/sites/4/2025/02/Joy1_MFEH.jpg?w=640' alt='Review: Joy Behar's My First Ex-Husband Is Divorced-Queen Story ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="426">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheaterMania" />
+                                </span>
+                                <a href='https://www.theatermania.com/wp-content/uploads/sites/4/2025/02/Joy1_MFEH.jpg?w=640' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joy Behar reflects on 'mean' former cohosts at 'The View'">
+                                <img itemprop="contentUrl url" src='https://ew.com/thmb/Pdk_3R0nNJk_F00HO5DD5PoeTj0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/joy-behar-the-view-022125-bc26408c57834508ae0125642f1cae8a.jpg' alt='Joy Behar reflects on 'mean' former cohosts at 'The View''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Entertainment Weekly" />
+                                </span>
+                                <a href='https://ew.com/thmb/Pdk_3R0nNJk_F00HO5DD5PoeTj0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/joy-behar-the-view-022125-bc26408c57834508ae0125642f1cae8a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Joy Behar | Pyramid (The Game Show) Wikia | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/pyramidgameshow/images/c/cd/JoyBehar.png/revision/latest?cb=20190412041353' alt='Joy Behar | Pyramid (The Game Show) Wikia | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="442">
+                                <meta itemprop="height" content="557">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pyramid (The Game Show) Wikia Pyramid (The Game Show) Wikia - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/pyramidgameshow/images/c/cd/JoyBehar.png/revision/latest?cb=20190412041353' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>"Discover the Delights of Bisi: A Culinary Journey"</title>
+                    <meta name="description" content=""Explore Bisi, a flavorful dish that celebrates cultural heritage. Perfect for gatherings, this recipe brings people together with its unique blend of ingredients. Join the culinary journey and discover the joy of bisi!"">
+                    <meta name="keywords" content="bisi">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bisi">
+                            <span itemprop="name">bisi</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Discover the Delights of Bisi: A Culinary Journey"</h1>
+                <p>"Bisi," a vibrant mélange of culture and tradition, captivates with its rich flavors and diverse ingredients. Originating from various culinary practices, this dish represents community and shared joy. Whether in a festive gathering or a casual meal, bisi serves as a delightful reminder of heritage that brings people together, celebrating the beauty of food and connection.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bisi Bele Bath Recipe">
+                                <img itemprop="contentUrl url" src='https://www.indianhealthyrecipes.com/wp-content/uploads/2021/07/bisi-bele-bath-recipe.jpg' alt='Bisi Bele Bath Recipe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Swasthi's Recipes" />
+                                </span>
+                                <a href='https://www.indianhealthyrecipes.com/wp-content/uploads/2021/07/bisi-bele-bath-recipe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Risi e Bisi">
+                                <img itemprop="contentUrl url" src='https://www.sanpellegrino.com/sites/g/files/xknfdk1986/files/styles/amp_1200x900_4_3/public/risi_bisi_post.jpg.webp?itok=h6uxI4Ta' alt='Risi e Bisi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="San Pellegrino" />
+                                </span>
+                                <a href='https://www.sanpellegrino.com/sites/g/files/xknfdk1986/files/styles/amp_1200x900_4_3/public/risi_bisi_post.jpg.webp?itok=h6uxI4Ta' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bisi Bele Bath - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/0/04/Bisi_Bele_Bath_%28Bisibelebath%29.JPG' alt='Bisi Bele Bath - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4693">
+                                <meta itemprop="height" content="3129">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/0/04/Bisi_Bele_Bath_%28Bisibelebath%29.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Risi e Bisi, Italian Rice and Peas">
+                                <img itemprop="contentUrl url" src='https://www.simplyrecipes.com/thmb/C8TdIdUbne476A95T1tQEp-B2jQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2011__05__risi-e-bisi-horiz-a-1400-015957b4e0ba49e1ac80a1e6dee848a1.jpg' alt='Risi e Bisi, Italian Rice and Peas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="933">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simply Recipes" />
+                                </span>
+                                <a href='https://www.simplyrecipes.com/thmb/C8TdIdUbne476A95T1tQEp-B2jQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2011__05__risi-e-bisi-horiz-a-1400-015957b4e0ba49e1ac80a1e6dee848a1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bisi Bele Bath Recipe- Authentic Karnataka style">
+                                <img itemprop="contentUrl url" src='https://www.theculinarypeace.com/wp-content/uploads/2019/09/eZy-Watermark-24-09-2019-01-35-05PM-2-1.jpg' alt='Bisi Bele Bath Recipe- Authentic Karnataka style'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="924">
+                                <meta itemprop="height" content="1171">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Culinary Peace" />
+                                </span>
+                                <a href='https://www.theculinarypeace.com/wp-content/uploads/2019/09/eZy-Watermark-24-09-2019-01-35-05PM-2-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bisi Bele Bath Recipe with Bisibelabath Rice Masala Powder">
+                                <img itemprop="contentUrl url" src='https://hebbarskitchen.com/wp-content/uploads/2021/11/bisi-bele-bath-recipe-%EF%80%A7-bisibelabath-recipe-%EF%80%A7-bisibele-bhath-or-bisibele-rice-2-scaled.jpeg' alt='Bisi Bele Bath Recipe with Bisibelabath Rice Masala Powder'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1707">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hebbar's Kitchen" />
+                                </span>
+                                <a href='https://hebbarskitchen.com/wp-content/uploads/2021/11/bisi-bele-bath-recipe-%EF%80%A7-bisibelabath-recipe-%EF%80%A7-bisibele-bhath-or-bisibele-rice-2-scaled.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bisi Bele Bath - Kannan's Kitchen">
+                                <img itemprop="contentUrl url" src='https://kannanskitchen.com/wp-content/uploads/2022/10/DSC_2152.jpg' alt='Bisi Bele Bath - Kannan's Kitchen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1667">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kannan's Kitchen" />
+                                </span>
+                                <a href='https://kannanskitchen.com/wp-content/uploads/2022/10/DSC_2152.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bisi Bele Bath Recipe | Karnataka Style Bisibelebath Recipe">
+                                <img itemprop="contentUrl url" src='https://www.subbuskitchen.com/wp-content/uploads/2020/07/Bisi-Bele-Bath_web1.jpg' alt='Bisi Bele Bath Recipe | Karnataka Style Bisibelebath Recipe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1079">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Subbus Kitchen" />
+                                </span>
+                                <a href='https://www.subbuskitchen.com/wp-content/uploads/2020/07/Bisi-Bele-Bath_web1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Millet Bisi Bele Bath">
+                                <img itemprop="contentUrl url" src='https://myfoodstory.com/wp-content/uploads/2023/12/Millet-Bisi-Bele-Bath-13.jpg' alt='Millet Bisi Bele Bath'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="My Food Story" />
+                                </span>
+                                <a href='https://myfoodstory.com/wp-content/uploads/2023/12/Millet-Bisi-Bele-Bath-13.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bisi Bele Bath Recipe | Veggie Belly | Vegetarian Recipe">
+                                <img itemprop="contentUrl url" src='http://www.veggiebelly.com/wp-content/uploads/2011/09/bisi-bele-bath-recipe1.jpg' alt='Bisi Bele Bath Recipe | Veggie Belly | Vegetarian Recipe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="438">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Veggie Belly" />
+                                </span>
+                                <a href='http://www.veggiebelly.com/wp-content/uploads/2011/09/bisi-bele-bath-recipe1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

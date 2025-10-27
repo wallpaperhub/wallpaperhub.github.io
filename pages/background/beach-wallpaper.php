@@ -1,0 +1,129 @@
+<title>"Transform Your Space with Beach Wallpaper for Coastal Vibes"</title>
+                    <meta name="description" content="Discover the beauty of beach wallpaper that adds a refreshing coastal touch to your home. Ideal for any room, these wallpapers create a serene environment filled with oceanic charm. Perfect for summer lovers and beach enthusiasts, it’s time to bring the beach indoors!">
+                    <meta name="keywords" content="beach wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/beach-wallpaper">
+                            <span itemprop="name">beach wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Transform Your Space with Beach Wallpaper for Coastal Vibes"</h1>
+                <p>Transform your space into a coastal paradise with stunning beach wallpaper. Whether you love serene seascapes or vibrant tropical scenes, beach wallpaper brings tranquility and warmth to any room. Perfect for creating a relaxing retreat, it captures the essence of sun, sand, and surf, inviting summer vibes year-round.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tropical Beach At Sunset Wall Mural">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/236286/Tropical-Beach-At-Sunset-Mural-Wallpaper.jpg?v=638164405127130000' alt='Tropical Beach At Sunset Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="1966">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/236286/Tropical-Beach-At-Sunset-Mural-Wallpaper.jpg?v=638164405127130000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="XXL Photo Wallpaper Mural Island Paradies Beach Ocean">
+                                <img itemprop="contentUrl url" src='https://cdn02.plentymarkets.com/2brofzsczyt8/item/images/154551/middle/XL-Fototapete-Tapete-Insel-Paradies-Sand-Meer-154551.jpg' alt='XXL Photo Wallpaper Mural Island Paradies Beach Ocean'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="610">
+                                <meta itemprop="height" content="458">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OREX.de" />
+                                </span>
+                                <a href='https://cdn02.plentymarkets.com/2brofzsczyt8/item/images/154551/middle/XL-Fototapete-Tapete-Insel-Paradies-Sand-Meer-154551.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beach Wallpapers: Free HD Download [500+ HQ] | Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1507525428034-b723cf961d3e?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmVhY2glMjB3YWxscGFwZXJ8ZW58MHx8MHx8fDA%3D' alt='Beach Wallpapers: Free HD Download [500+ HQ] | Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1994">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1507525428034-b723cf961d3e?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmVhY2glMjB3YWxscGFwZXJ8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="750+ Tropical Beach Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1535262412227-85541e910204?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dHJvcGljYWwlMjBiZWFjaHxlbnwwfHwwfHx8MA%3D%3D' alt='750+ Tropical Beach Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1535262412227-85541e910204?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dHJvcGljYWwlMjBiZWFjaHxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Perfect Beach">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/73393/perfect-beach.jpg?h=699&q=85' alt='Perfect Beach'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1155">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/73393/perfect-beach.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beach iPhone Wallpapers HD Quality - Best Beach Backgrounds">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/00/ab/ab/00abab28a35423150ffb3b079597d82d.jpg' alt='Beach iPhone Wallpapers HD Quality - Best Beach Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="235">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/00/ab/ab/00abab28a35423150ffb3b079597d82d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tropical beach Wallpaper 4K, Aesthetic, Sunset, Purple sky">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/tropical-beach-2048x2048-14811.jpg' alt='Tropical beach Wallpaper 4K, Aesthetic, Sunset, Purple sky'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/tropical-beach-2048x2048-14811.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="750+ Tropical Beach Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1723867356920-8e05009f3499?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dHJvcGljYWwlMjBiZWFjaHxlbnwwfHwwfHx8MA%3D%3D' alt='750+ Tropical Beach Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1723867356920-8e05009f3499?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dHJvcGljYWwlMjBiZWFjaHxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Beach Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/041/861/500/small_2x/ai-generated-palm-trees-at-beach-free-photo.jpeg' alt='Aesthetic Beach Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="714">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/041/861/500/small_2x/ai-generated-palm-trees-at-beach-free-photo.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beach Wallpaper (Sunset, Vacation) #615">
+                                <img itemprop="contentUrl url" src='https://wallpapershome.com/images/pages/ico_h/615.jpg' alt='Beach Wallpaper (Sunset, Vacation) #615'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersHome" />
+                                </span>
+                                <a href='https://wallpapershome.com/images/pages/ico_h/615.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stylish Grey Grunge Background for Creative Projects</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="grey grunge background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/grey-grunge-background">
+                            <span itemprop="name">grey grunge background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Grey Grunge Background for Creative Projects</h1>
+                <p>A grey grunge background offers a unique canvas that evokes a sense of raw elegance and urban charm. Its textured layers and muted tones create a perfect backdrop for design projects, adding depth and character. Ideal for websites, posters, or artistic prints, the grey grunge aesthetic allows for creativity to shine through with a hint of sophistication.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="26,700+ Gray Grunge Texture Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1307181424/vector/grey-white-grunge-textural-concrete-wall-background.jpg?s=612x612&w=0&k=20&c=x6vCIOnySfs1t1EX-vguC3UoBJ8hIq8sNwl5pugiCiI=' alt='26,700+ Gray Grunge Texture Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1307181424/vector/grey-white-grunge-textural-concrete-wall-background.jpg?s=612x612&w=0&k=20&c=x6vCIOnySfs1t1EX-vguC3UoBJ8hIq8sNwl5pugiCiI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Dark grey grunge texture background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/dark-grey-grunge-texture-background_148157-296.jpg' alt='Premium Photo | Dark grey grunge texture background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="376">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/dark-grey-grunge-texture-background_148157-296.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grey Grunge Concrete Wall Mural">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/236489/Grey-Grunge-Concrete-Wall-Mural.jpg?v=638229721318470000' alt='Grey Grunge Concrete Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="2133">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/236489/Grey-Grunge-Concrete-Wall-Mural.jpg?v=638229721318470000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rough grunge wallpaper. Overlay rusty background. Weathered stains ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/04/84/67/62/1000_F_484676279_nlUIabBomJNsorHBavpJ8PFeyiq1tq1p.jpg' alt='Rough grunge wallpaper. Overlay rusty background. Weathered stains ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/04/84/67/62/1000_F_484676279_nlUIabBomJNsorHBavpJ8PFeyiq1tq1p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Grey Grunge Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/grey-grunge-4cenobb2chb2y3de.jpg' alt='100+] Grey Grunge Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/grey-grunge-4cenobb2chb2y3de.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gray Grunge Texture Vector Vector Art & Graphics | freevector.com">
+                                <img itemprop="contentUrl url" src='https://www.freevector.com/uploads/vector/preview/6187/grunge.jpg' alt='Gray Grunge Texture Vector Vector Art & Graphics | freevector.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="646">
+                                <meta itemprop="height" content="474">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Vector Art & Graphics" />
+                                </span>
+                                <a href='https://www.freevector.com/uploads/vector/preview/6187/grunge.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="550+ Grunge Texture Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1673481886897-64bfc9a4b81c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Z3J1bmdlJTIwdGV4dHVyZXxlbnwwfHwwfHx8MA%3D%3D' alt='550+ Grunge Texture Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1673481886897-64bfc9a4b81c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Z3J1bmdlJTIwdGV4dHVyZXxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo Backdrop, Photography Backdrops, Vinyl Photography Backdrops,  Alternative Backdrops">
+                                <img itemprop="contentUrl url" src='http://www.whosedrop.com/cdn/shop/products/WH840_600x.jpg?v=1579884419' alt='Photo Backdrop, Photography Backdrops, Vinyl Photography Backdrops,  Alternative Backdrops'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Whosedrop" />
+                                </span>
+                                <a href='http://www.whosedrop.com/cdn/shop/products/WH840_600x.jpg?v=1579884419' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="26,700+ Gray Grunge Texture Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1342851017/vector/elegant-black-background-vector-illustration-with-vintage-distressed-grunge-texture-and-dark.jpg?s=612x612&w=0&k=20&c=THEu64UKfhNsnXuVWOHsQehRr7uuKWjbYrshHoTFsS0=' alt='26,700+ Gray Grunge Texture Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1342851017/vector/elegant-black-background-vector-illustration-with-vintage-distressed-grunge-texture-and-dark.jpg?s=612x612&w=0&k=20&c=THEu64UKfhNsnXuVWOHsQehRr7uuKWjbYrshHoTFsS0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grey designed grunge texture. Vintage background with space for #3 by Sasa  Dinic">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/3-grey-designed-grunge-texture-vintage-background-with-space-for-sasa-dinic.jpg' alt='Grey designed grunge texture. Vintage background with space for #3 by Sasa  Dinic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixels" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/3-grey-designed-grunge-texture-vintage-background-with-space-for-sasa-dinic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Gothic Architecture Dark Academia Desktop Wallpapers</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="gothic architecture dark academia wallpaper desktop">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/gothic-architecture-dark-academia-wallpaper-desktop">
+                            <span itemprop="name">gothic architecture dark academia wallpaper desktop</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Gothic Architecture Dark Academia Desktop Wallpapers</h1>
+                <p>Transform your desktop with stunning gothic architecture wallpapers that embody the dark academia aesthetic. Featuring intricate details and moody color palettes, these wallpapers evoke a sense of mystery and intellectual depth, perfect for those who appreciate the beauty of historical designs. Enhance your workspace's vibe today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50+ Free Dark Academia Wallpaper Backgrounds | Wallpaper For iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/46/17/63/461763ab21858f7043a25facdef0a48d.jpg' alt='50+ Free Dark Academia Wallpaper Backgrounds | Wallpaper For iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="846">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/46/17/63/461763ab21858f7043a25facdef0a48d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4e/d7/2d/4ed72da564b5c1447287ef348612ef09.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4e/d7/2d/4ed72da564b5c1447287ef348612ef09.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Academia Dark Structure Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/dark-academia-dark-structure-ovhkkj81y51wzd7z.jpg' alt='Dark Academia Dark Structure Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/dark-academia-dark-structure-ovhkkj81y51wzd7z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1500+ Dark Academia Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1695781208196-58a7520275fc?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8ZGFyayUyMGFjYWRlbWlhfGVufDB8fDB8fHww' alt='1500+ Dark Academia Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1695781208196-58a7520275fc?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8ZGFyayUyMGFjYWRlbWlhfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="architecture">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a4/2f/d6/a42fd60f348b95f229e4e2778b93de21.jpg' alt='architecture'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="524">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a4/2f/d6/a42fd60f348b95f229e4e2778b93de21.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Academia Architecture : r/DarkAcademia">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/1ahrkks38iu81.jpg' alt='Dark Academia Architecture : r/DarkAcademia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/1ahrkks38iu81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Dark Academia Museum Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dark-academia-museum-tgd7erwezjzvs59t.jpg' alt='Download Dark Academia Museum Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1275">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dark-academia-museum-tgd7erwezjzvs59t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Academia Aesthetic Wallpaper for Laptop">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/75/fd/fb/75fdfbce2ac302f20a7424233205418d.jpg' alt='Dark Academia Aesthetic Wallpaper for Laptop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="716">
+                                <meta itemprop="height" content="403">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/75/fd/fb/75fdfbce2ac302f20a7424233205418d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Academia Harry Potter Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/dark-academia-harry-potter-1979apfla13d2edk.jpg' alt='Dark Academia Harry Potter Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1026">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/dark-academia-harry-potter-1979apfla13d2edk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download National History Museum Dark Academia Desktop Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/national-history-museum-dark-academia-desktop-ybmge2u9gqwyxwwx.jpg' alt='Download National History Museum Dark Academia Desktop Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/national-history-museum-dark-academia-desktop-ybmge2u9gqwyxwwx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

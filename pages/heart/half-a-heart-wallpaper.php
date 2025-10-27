@@ -1,0 +1,129 @@
+<title>Half a Heart Wallpaper: Love-Inspired Designs for Your Space</title>
+                    <meta name="description" content="Explore unique half a heart wallpaper designs that bring warmth and creativity to your home. Perfect for lovers and dreamers alike, these wallpapers offer an artistic touch that transforms any space into a cozy retreat. Easy to install and available in various styles, find your perfect match today!">
+                    <meta name="keywords" content="half a heart wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart">
+                            <span itemprop="name">Heart</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart/half-a-heart-wallpaper">
+                            <span itemprop="name">half a heart wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Half a Heart Wallpaper: Love-Inspired Designs for Your Space</h1>
+                <p>Transform your space with stunning half a heart wallpaper, ideal for expressing love and creativity. This unique design adds a personal touch to any room, serving as a perfect backdrop for your favorite moments. Whether for a romantic vibe or a playful atmosphere, half a heart wallpaper captivates and inspires.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best friend half a heart wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/6d/a8/cd/6da8cd6360fd4b030fe3342ec430b19a.jpg' alt='Best friend half a heart wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/6d/a8/cd/6da8cd6360fd4b030fe3342ec430b19a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/35/02/33/3502337e3790f740bb3cba6ab73a4057.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="541">
+                                <meta itemprop="height" content="812">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/35/02/33/3502337e3790f740bb3cba6ab73a4057.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Half Couple Wallpapers [17+ Free Background Images] - WallpaperGap">
+                                <img itemprop="contentUrl url" src='https://www.wallpapergap.com/cdn/24/236/half-heart-wallpaper-for-couple-630x1280.jpg' alt='Half Couple Wallpapers [17+ Free Background Images] - WallpaperGap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperGap" />
+                                </span>
+                                <a href='https://www.wallpapergap.com/cdn/24/236/half-heart-wallpaper-for-couple-630x1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Fingerprint Corresponding To A Half Heart Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/fingerprint-corresponding-to-a-half-heart-vrpaceaxbk4qfpbk.jpg' alt='Download Fingerprint Corresponding To A Half Heart Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="509">
+                                <meta itemprop="height" content="904">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/fingerprint-corresponding-to-a-half-heart-vrpaceaxbk4qfpbk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Half Heart Wallpaper - IXpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/14/9b/7a/149b7a4927b0dbb07e8e9dad31736a0f.jpg' alt='Half Heart Wallpaper - IXpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/14/9b/7a/149b7a4927b0dbb07e8e9dad31736a0f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Half Heart Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/half-heart-best-floral-design-bje14z6q3khnlns2.jpg' alt='100+] Half Heart Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1082">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/half-heart-best-floral-design-bje14z6q3khnlns2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Creative Half Heart Photo Ideas for Crush Moments">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7242996045700009221&location=0&aid=1988' alt='Creative Half Heart Photo Ideas for Crush Moments'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7242996045700009221&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD half red heart wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/487/832/HD-wallpaper-i-love-you-too-half-red-heart.jpg' alt='HD half red heart wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/487/832/HD-wallpaper-i-love-you-too-half-red-heart.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Half a Heart wallpaper by alfiizaki - Download on ZEDGE™ | 9892">
+                                <img itemprop="contentUrl url" src='https://is.zobj.net/image-server/v1/images?r=PSVBwWYcKGFbMYXpUpDWqNcZUUZnyKkDvwWRGyD2lNXQ9uQhY1fx8WRP53mxZuFsNFeqia7l7mujG21u7QGEpeB1CtCxJHv98yhv5CbxtzFOjdwb8Hnj-oQSFH-ga0X11AI-VfJQhlNV48cennzoC2x0HEjWS5KNBOoyZq2EJQUiYb212qJ3nfL-r2EANEp88R5h-rtsRau8PixSW9fMfemEU1kY0ZQsBNjRAa11xyjr86ZKB4OlieLIyd0' alt='Half a Heart wallpaper by alfiizaki - Download on ZEDGE™ | 9892'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="336">
+                                <meta itemprop="height" content="603">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zedge" />
+                                </span>
+                                <a href='https://is.zobj.net/image-server/v1/images?r=PSVBwWYcKGFbMYXpUpDWqNcZUUZnyKkDvwWRGyD2lNXQ9uQhY1fx8WRP53mxZuFsNFeqia7l7mujG21u7QGEpeB1CtCxJHv98yhv5CbxtzFOjdwb8Hnj-oQSFH-ga0X11AI-VfJQhlNV48cennzoC2x0HEjWS5KNBOoyZq2EJQUiYb212qJ3nfL-r2EANEp88R5h-rtsRau8PixSW9fMfemEU1kY0ZQsBNjRAa11xyjr86ZKB4OlieLIyd0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Matching Half Heart Wallpaper Trends for Couples">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7210829219897543978&location=0&aid=1988' alt='Matching Half Heart Wallpaper Trends for Couples'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="592">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7210829219897543978&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

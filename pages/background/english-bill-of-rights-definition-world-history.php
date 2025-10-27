@@ -1,0 +1,129 @@
+<title>Understanding the English Bill of Rights in World History</title>
+                    <meta name="description" content="Discover the significance of the English Bill of Rights in shaping democracy and individual liberties in world history. Learn how this foundational document influenced modern governance and legal systems worldwide.">
+                    <meta name="keywords" content="english bill of rights definition world history">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/english-bill-of-rights-definition-world-history">
+                            <span itemprop="name">english bill of rights definition world history</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding the English Bill of Rights in World History</h1>
+                <p>The English Bill of Rights, enacted in 1689, is a pivotal document in world history that established fundamental rights for citizens and restrained the powers of the monarchy. It laid the groundwork for constitutional governance and influenced democratic principles globally, shaping modern legal systems and the protection of individual liberties.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="English Bill of Rights ‑ Definition & Legacy | HISTORY">
+                                <img itemprop="contentUrl url" src='https://assets.editorial.aetnd.com/uploads/2018/03/english-bill-rights-gettyimages-79659288.jpg' alt='English Bill of Rights ‑ Definition & Legacy | HISTORY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.history.com" />
+                                </span>
+                                <a href='https://assets.editorial.aetnd.com/uploads/2018/03/english-bill-rights-gettyimages-79659288.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The English Bill of Rights: An Act Signed Into aw in 1689">
+                                <img itemprop="contentUrl url" src='https://www.wethekids.us/wp-content/uploads/2019/05/guzman6-absolutism-9-728.jpg' alt='The English Bill of Rights: An Act Signed Into aw in 1689'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="546">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="We The Kids" />
+                                </span>
+                                <a href='https://www.wethekids.us/wp-content/uploads/2019/05/guzman6-absolutism-9-728.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="English Bill of Rights, 1689 — Woven Teaching">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5097fe39e4b0c49016e4c58b/1567197444831-O6A8YY39L6VJEAMZPGDX/English-Bill-Rights.jpg' alt='English Bill of Rights, 1689 — Woven Teaching'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="392">
+                                <meta itemprop="height" content="293">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Woven Teaching" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5097fe39e4b0c49016e4c58b/1567197444831-O6A8YY39L6VJEAMZPGDX/English-Bill-Rights.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bill of Rights | History, Summary, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/68/187568-138-9CDE43ED/Declaration-of-Rights-Bill-Parliamentary-Archives-London.jpg' alt='Bill of Rights | History, Summary, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/68/187568-138-9CDE43ED/Declaration-of-Rights-Bill-Parliamentary-Archives-London.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="jan 1, 1689 - The English Bill of Rights (Timeline)">
+                                <img itemprop="contentUrl url" src='https://time.graphics/uploadedFiles/500/db/a7/dba74a65f5068dc0b1529b43e1ce082d.jpg' alt='jan 1, 1689 - The English Bill of Rights (Timeline)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Time.Graphics" />
+                                </span>
+                                <a href='https://time.graphics/uploadedFiles/500/db/a7/dba74a65f5068dc0b1529b43e1ce082d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="English Bill of Rights (1689) (FREE PDF) | Catholic Online ...">
+                                <img itemprop="contentUrl url" src='https://catholicresources.education/wp-content/uploads/2024/02/EBRv1.2-2-compressed.png' alt='English Bill of Rights (1689) (FREE PDF) | Catholic Online ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Catholic Online Learning Resources" />
+                                </span>
+                                <a href='https://catholicresources.education/wp-content/uploads/2024/02/EBRv1.2-2-compressed.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1689: English Bill of Rights | Online Library of Liberty">
+                                <img itemprop="contentUrl url" src='https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/loose/images/English_Bill_of_Rights_of_1689.jpg' alt='1689: English Bill of Rights | Online Library of Liberty'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="304">
+                                <meta itemprop="height" content="614">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Online Library of Liberty - Liberty Fund" />
+                                </span>
+                                <a href='https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/loose/images/English_Bill_of_Rights_of_1689.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bill of Rights, U.S. Constitution, constitutional amendments ...">
+                                <img itemprop="contentUrl url" src='https://billofrightsinstitute.org/_next/image?url=https%3A%2F%2Fbri-wp-images.s3.amazonaws.com%2Fwp-content%2Fuploads%2F2-5-780x439.png&w=1920&q=75' alt='Bill of Rights, U.S. Constitution, constitutional amendments ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="439">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bill of Rights Institute" />
+                                </span>
+                                <a href='https://billofrightsinstitute.org/_next/image?url=https%3A%2F%2Fbri-wp-images.s3.amazonaws.com%2Fwp-content%2Fuploads%2F2-5-780x439.png&w=1920&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BRITISH AND AMERICAN BILL OF RIGHTS OR THE WAY TO DEMOCRACY – 4 ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/ponderingprinciples.com/wp-content/uploads/2015/05/English-Bill-of-Rights.jpg' alt='BRITISH AND AMERICAN BILL OF RIGHTS OR THE WAY TO DEMOCRACY – 4 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="532">
+                                <meta itemprop="height" content="733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4 travelling across time" />
+                                </span>
+                                <a href='https://i0.wp.com/ponderingprinciples.com/wp-content/uploads/2015/05/English-Bill-of-Rights.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="English Origins of US Government - The English Bill of Rights">
+                                <img itemprop="contentUrl url" src='https://ecdn.teacherspayteachers.com/thumbitem/English-Origins-of-US-Government-The-English-Bill-of-Rights-3231565-1564249785/original-3231565-3.jpg' alt='English Origins of US Government - The English Bill of Rights'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="263">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TPT" />
+                                </span>
+                                <a href='https://ecdn.teacherspayteachers.com/thumbitem/English-Origins-of-US-Government-The-English-Bill-of-Rights-3231565-1564249785/original-3231565-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

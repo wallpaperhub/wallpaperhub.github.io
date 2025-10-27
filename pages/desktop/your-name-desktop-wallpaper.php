@@ -1,0 +1,129 @@
+<title>Your Name Desktop Wallpaper: Personalize Your Screen</title>
+                    <meta name="description" content="Discover unique and stylish desktop wallpapers featuring your name. Personalize your computer screen with vibrant designs that reflect your identity. Perfect for enhancing your workspace aesthetics, these wallpapers are easy to download and apply. Make your desktop truly yours today!">
+                    <meta name="keywords" content="your name desktop wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/your-name-desktop-wallpaper">
+                            <span itemprop="name">your name desktop wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Your Name Desktop Wallpaper: Personalize Your Screen</h1>
+                <p>Your name desktop wallpaper can personalize your workspace and enhance your mood. With vibrant colors and creative designs, these wallpapers not only reflect your identity but also add a touch of aesthetics to your computer. Explore various styles, from minimalist to artistic, and find the perfect wallpaper that resonates with you!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Your Name Wallpapers (35 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/1/3/d/32654-1920x1080-desktop-1080p-your-name-wallpaper.jpg' alt='Your Name Wallpapers (35 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/1/3/d/32654-1920x1080-desktop-1080p-your-name-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: anime, Your Name, Kimi no Na Wa">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4d/99/47/4d99475bc4355c1026a914099c886b0d.jpg' alt='HD wallpaper: anime, Your Name, Kimi no Na Wa'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4d/99/47/4d99475bc4355c1026a914099c886b0d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Your Name: A Celestial Encounter HD Wallpaper by すえ">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/736/thumb-1920-736461.png' alt='Your Name: A Celestial Encounter HD Wallpaper by すえ'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/736/thumb-1920-736461.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3840x1080] Kimi no na wa. Your Name. Hastily done dual monitor ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/72pnxbZx3-jKvfl8L6XGcpNWTE0aLebLcJzvQ0sXtvo.png?auto=webp&s=921a76d8f6a181ed1c3d901de794f7d158f677a9' alt='3840x1080] Kimi no na wa. Your Name. Hastily done dual monitor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/72pnxbZx3-jKvfl8L6XGcpNWTE0aLebLcJzvQ0sXtvo.png?auto=webp&s=921a76d8f6a181ed1c3d901de794f7d158f677a9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Your Name Wallpaper 4K, Shooting stars, Kimi no Na wa">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/your-name-shooting-6016x3384-14938.jpg' alt='Your Name Wallpaper 4K, Shooting stars, Kimi no Na wa'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6016">
+                                <meta itemprop="height" content="3384">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/your-name-shooting-6016x3384-14938.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Your Name. Anime 8K Ultra HD Night Sky Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/100/thumb-1920-1006675.jpg' alt='Your Name. Anime 8K Ultra HD Night Sky Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/100/thumb-1920-1006675.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kimi no Na Wa. (Your Name.) [1920 x 1080] : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/ktmkx3okLgoILpfJPdqQrCHgM3Zfb9Uq3E759V1ZVKA.png?auto=webp&s=3fd5b17c3428f90f19660661a20382e5eb4bfce0' alt='Kimi no Na Wa. (Your Name.) [1920 x 1080] : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/ktmkx3okLgoILpfJPdqQrCHgM3Zfb9Uq3E759V1ZVKA.png?auto=webp&s=3fd5b17c3428f90f19660661a20382e5eb4bfce0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Free download Your Name Wallpaper Image on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/65/98/c5/6598c52a98f39ac51b60a4f47fed457f.jpg' alt='   Free download Your Name Wallpaper Image on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/65/98/c5/6598c52a98f39ac51b60a4f47fed457f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Your Name Wallpaper 4K, Anime girl, Mitsuha Miyamizu">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/your-name-anime-2560x1440-14877.jpeg' alt='Your Name Wallpaper 4K, Anime girl, Mitsuha Miyamizu'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/your-name-anime-2560x1440-14877.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: white text, Anime, Your Name., sky, nature, cloud ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3e/f8/81/3ef881f413ce0ae13910af952fb9fbda.jpg' alt='HD wallpaper: white text, Anime, Your Name., sky, nature, cloud ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3e/f8/81/3ef881f413ce0ae13910af952fb9fbda.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

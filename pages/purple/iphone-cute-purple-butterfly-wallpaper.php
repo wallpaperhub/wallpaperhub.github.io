@@ -1,0 +1,129 @@
+<title>Charming Purple Butterfly Wallpaper for iPhone</title>
+                    <meta name="description" content="Add a splash of charm to your iPhone with our beautiful purple butterfly wallpaper. Perfect for nature lovers, this stunning design will enhance your device's look. Enjoy a unique and vibrant background that reflects your personality. Easy to download and optimize your home screen today!">
+                    <meta name="keywords" content="iphone cute purple butterfly wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/iphone-cute-purple-butterfly-wallpaper">
+                            <span itemprop="name">iphone cute purple butterfly wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Purple Butterfly Wallpaper for iPhone</h1>
+                <p>Transform your iPhone with our cute purple butterfly wallpaper! Perfectly designed to add a touch of whimsy and elegance to your screen. These vibrant, high-quality images capture the beauty of butterflies in stunning shades of purple, making your device stand out. Download now for a delightful new look!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute wall papers # girly | Iphone wallpaper girly, Butterfly ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/be/18/94/be1894f2f62d5a6bb853a00f68f862d1.jpg' alt='Cute wall papers # girly | Iphone wallpaper girly, Butterfly ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/be/18/94/be1894f2f62d5a6bb853a00f68f862d1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Butterfly Aesthetic Purple Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/butterfly-aesthetic-purple-iphone-p7r4gwdfazltitvr.jpg' alt='Butterfly Aesthetic Purple Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/butterfly-aesthetic-purple-iphone-p7r4gwdfazltitvr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ripples Butterfly Wallpaper iPhone Wallpaper Purple Wallpaper Y2K ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/39426941/r/il/30705e/5848741001/il_570xN.5848741001_4uk5.jpg' alt='Ripples Butterfly Wallpaper iPhone Wallpaper Purple Wallpaper Y2K ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/39426941/r/il/30705e/5848741001/il_570xN.5848741001_4uk5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Purple Butterfly Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-butterfly-iphone-0f05yj5fiex0nsqr.jpg' alt='100+] Purple Butterfly Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-butterfly-iphone-0f05yj5fiex0nsqr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="aesthetic purple butterfly✨   | Butterfly wallpaper iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/27/df/e8/27dfe8ee5a83cc63f9459a11f1602a17.jpg' alt='aesthetic purple butterfly✨   | Butterfly wallpaper iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1098">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/27/df/e8/27dfe8ee5a83cc63f9459a11f1602a17.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Girly Phone Purple Butterflies Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/girly-phone-purple-butterflies-0tqvv54mpx0niiwt.jpg' alt='Girly Phone Purple Butterflies Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/girly-phone-purple-butterflies-0tqvv54mpx0niiwt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Purple Butterfly Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/purple-butterfly-phone-lohiblnvkyor8yas.jpg' alt='100+] Purple Butterfly Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="963">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/purple-butterfly-phone-lohiblnvkyor8yas.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Alycia Torres on Guardado rápido | Purple wallpaper iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/94/07/de/9407de7015455d7023f4064ba5f1f63d.jpg' alt='Pin by Alycia Torres on Guardado rápido | Purple wallpaper iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/94/07/de/9407de7015455d7023f4064ba5f1f63d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top Purple Wallpapers to Enhance Your Screen">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7437580330577546552&location=0&aid=1988' alt='Top Purple Wallpapers to Enhance Your Screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7437580330577546552&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple butterfly aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ee/87/56/ee875650252b64a9f49abea4a29e1e6e.jpg' alt='Purple butterfly aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ee/87/56/ee875650252b64a9f49abea4a29e1e6e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

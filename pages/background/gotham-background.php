@@ -1,0 +1,129 @@
+<title>Discover the Dark Aura of Gotham City</title>
+                    <meta name="description" content="Dive into the captivating world of Gotham City—home to Batman, mystery, and intrigue. Explore its rich background filled with crime and hope, revealing the shadows that define this iconic urban landscape. Perfect for fans of the DC Universe!">
+                    <meta name="keywords" content="gotham background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/gotham-background">
+                            <span itemprop="name">gotham background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Dark Aura of Gotham City</h1>
+                <p>Gotham, an iconic city in the DC Universe, is famous for its dark and gothic atmosphere. Known as Batman's playground, it's a melting pot of crime, corruption, and heroism. The cityscape is marked by towering buildings and grim streets, encapsulating a sense of despair yet also resilience, where shadows contain secrets and hope.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gotham">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/62360/gotham-1.jpg?h=699&q=85' alt='Gotham'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1253">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/62360/gotham-1.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1/6th BATMAN Gotham City Rooftop Bat Signal IKEA Detolf 15x15 Diorama  Backdrop">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/jNsAAOSwqa5hr-QA/$_57.JPG?set_id=880000500F' alt='1/6th BATMAN Gotham City Rooftop Bat Signal IKEA Detolf 15x15 Diorama  Backdrop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/jNsAAOSwqa5hr-QA/$_57.JPG?set_id=880000500F' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gotham City Animated Background Loop Animation - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/qLM_TPvp-Q4/sddefault.jpg' alt='Gotham City Animated Background Loop Animation - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/qLM_TPvp-Q4/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gotham City - A Cinematic Impression Of Cortlandt Alley - Lower Manhattan -  New York City by Nico Geerlings">
+                                <img itemprop="contentUrl url" src='https://cdn-thumbs.ohmyprints.net/1/c8967a23ed5130deae2f5b08f69707ae/817x600/thumbnail/fit.jpg' alt='Gotham City - A Cinematic Impression Of Cortlandt Alley - Lower Manhattan -  New York City by Nico Geerlings'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="817">
+                                <meta itemprop="height" content="431">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Art Heroes" />
+                                </span>
+                                <a href='https://cdn-thumbs.ohmyprints.net/1/c8967a23ed5130deae2f5b08f69707ae/817x600/thumbnail/fit.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Batman™ - Gotham City Skyline Print">
+                                <img itemprop="contentUrl url" src='https://images.desenio.com/zoom/wb0043-8batman-gothamcityskyline50x70-33443-38474.jpg' alt='Batman™ - Gotham City Skyline Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Desenio" />
+                                </span>
+                                <a href='https://images.desenio.com/zoom/wb0043-8batman-gothamcityskyline50x70-33443-38474.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gotham City from DC's Batman: The Long Halloween animated movie ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/6n8bsj1ureta1.png' alt='Gotham City from DC's Batman: The Long Halloween animated movie ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/6n8bsj1ureta1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gotham City - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/2/2c/Gotham_City_Batman_Vol_3_14.png' alt='Gotham City - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="315">
+                                <meta itemprop="height" content="315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/2/2c/Gotham_City_Batman_Vol_3_14.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gotham City Skyline | Backdrops Fantastic Australia">
+                                <img itemprop="contentUrl url" src='https://www.backdrops.com.au/wp-content/uploads/2014/04/CI-008-Gotham-City-Skyline.jpg' alt='Gotham City Skyline | Backdrops Fantastic Australia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="310">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backdrops Fantastic Australia" />
+                                </span>
+                                <a href='https://www.backdrops.com.au/wp-content/uploads/2014/04/CI-008-Gotham-City-Skyline.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gotham Skyline Wallpapers (25 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/5/5/e/1426734-1536x2732-phone-hd-gotham-skyline-background-image.jpg' alt='Gotham Skyline Wallpapers (25 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="2732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/5/5/e/1426734-1536x2732-phone-hd-gotham-skyline-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gotham City | Arkham Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/arkhamcity/images/3/34/GothamCityInfobox.jpg/revision/latest/scale-to-width-down/1200?cb=20240223200232' alt='Gotham City | Arkham Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Arkham Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/arkhamcity/images/3/34/GothamCityInfobox.jpg/revision/latest/scale-to-width-down/1200?cb=20240223200232' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

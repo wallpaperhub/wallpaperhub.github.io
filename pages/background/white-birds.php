@@ -1,0 +1,129 @@
+<title>Elegant White Birds: Nature's Timeless Symbol</title>
+                    <meta name="description" content="Discover the enchanting world of white birds, from graceful swans to serene egrets. Explore their symbolism of purity and elegance, and learn why these avian wonders captivate nature enthusiasts everywhere. Join us in appreciating the beauty and tranquility they bring to our lives!">
+                    <meta name="keywords" content="white birds">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/white-birds">
+                            <span itemprop="name">white birds</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant White Birds: Nature's Timeless Symbol</h1>
+                <p>White birds, often symbols of purity and peace, captivate our hearts with their elegance and grace. Commonly seen varieties like the snow-white egret, swan, or seagull inspire awe in nature lovers. Their presence in serene landscapes and tranquil waters adds a touch of magic, reminding us of the beauty in simplicity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Was that White Bird? - Pittsburgh Quarterly">
+                                <img itemprop="contentUrl url" src='https://pittsburghquarterly.com/wp-content/uploads/articles/2024-05-14-e1715739221232-1024x607.png' alt='What Was that White Bird? - Pittsburgh Quarterly'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pittsburgh Quarterly" />
+                                </span>
+                                <a href='https://pittsburghquarterly.com/wp-content/uploads/articles/2024-05-14-e1715739221232-1024x607.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Egrets: big white birds and little white lies">
+                                <img itemprop="contentUrl url" src='https://birdsdontpee.com/wp-content/uploads/2023/03/jan22-08-26-Edit-3.jpg' alt='Egrets: big white birds and little white lies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Birds Don't Pee" />
+                                </span>
+                                <a href='https://birdsdontpee.com/wp-content/uploads/2023/03/jan22-08-26-Edit-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6 White Pet Birds (With Info & Pictures) | PangoVet">
+                                <img itemprop="contentUrl url" src='https://pangovet.com/wp-content/uploads/2024/06/white-dove-1024x670.jpg' alt='6 White Pet Birds (With Info & Pictures) | PangoVet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PangoVet" />
+                                </span>
+                                <a href='https://pangovet.com/wp-content/uploads/2024/06/white-dove-1024x670.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Let's talk about birds: Birds that are white | Pittsburgh Post-Gazette">
+                                <img itemprop="contentUrl url" src='https://9b16f79ca967fd0708d1-2713572fef44aa49ec323e813b06d2d9.ssl.cf2.rackcdn.com/1140x_a10-7_cTC/20161123HOBaliMynah-1568469380.jpg' alt='Let's talk about birds: Birds that are white | Pittsburgh Post-Gazette'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1140">
+                                <meta itemprop="height" content="798">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pittsburgh Post-Gazette" />
+                                </span>
+                                <a href='https://9b16f79ca967fd0708d1-2713572fef44aa49ec323e813b06d2d9.ssl.cf2.rackcdn.com/1140x_a10-7_cTC/20161123HOBaliMynah-1568469380.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American white ibis - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/American_White_IbisII.jpg/1200px-American_White_IbisII.jpg' alt='American white ibis - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/American_White_IbisII.jpg/1200px-American_White_IbisII.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Most Beautiful White Birds in the World">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/2u62If-spP4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDSt8vfw4pom2lSKle7WnZZSocQ3g' alt='10 Most Beautiful White Birds in the World'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/2u62If-spP4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDSt8vfw4pom2lSKle7WnZZSocQ3g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Egrets: big white birds and little white lies">
+                                <img itemprop="contentUrl url" src='https://birdsdontpee.com/wp-content/uploads/2023/03/egrets-5-of-7.jpg' alt='Egrets: big white birds and little white lies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Birds Don't Pee" />
+                                </span>
+                                <a href='https://birdsdontpee.com/wp-content/uploads/2023/03/egrets-5-of-7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2pcs Artificial Birds White Dove Love Birds Clip on Flocked Feathered Bird  Ornaments 5Inch for Wedding Decoration Christmas Tree Decor Wreath Crafts">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/618zVsog1DL._AC_UF894,1000_QL80_.jpg' alt='2pcs Artificial Birds White Dove Love Birds Clip on Flocked Feathered Bird  Ornaments 5Inch for Wedding Decoration Christmas Tree Decor Wreath Crafts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/618zVsog1DL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The 'Whitebird' - BirdGuides">
+                                <img itemprop="contentUrl url" src='https://www.birdguides-cdn.com/cdn/LegacyBirdguidesArticles/wb2.jpg' alt='The 'Whitebird' - BirdGuides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="589">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BirdGuides" />
+                                </span>
+                                <a href='https://www.birdguides-cdn.com/cdn/LegacyBirdguidesArticles/wb2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="List of White Parrots and Other Pet Birds (With Pictures)">
+                                <img itemprop="contentUrl url" src='https://www.singing-wings-aviary.com/wp-content/uploads/2024/08/White-Parrots-and-Pet-Birds.jpg' alt='List of White Parrots and Other Pet Birds (With Pictures)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="802">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Singing-Wings-Aviary.com" />
+                                </span>
+                                <a href='https://www.singing-wings-aviary.com/wp-content/uploads/2024/08/White-Parrots-and-Pet-Birds.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

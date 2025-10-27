@@ -1,0 +1,129 @@
+<title>Understanding Marbury v. Madison: The Case That Shaped Judicial Review</title>
+                    <meta name="description" content="Explore the significance of Marbury v. Madison, the landmark case that established judicial review in the U.S. legal system. Discover how this decision shaped the balance of power and the role of the Supreme Court in interpreting the Constitution.">
+                    <meta name="keywords" content="marbury v madison">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/marbury-v-madison">
+                            <span itemprop="name">marbury v madison</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Marbury v. Madison: The Case That Shaped Judicial Review</h1>
+                <p>Marbury v. Madison (1803) is a landmark Supreme Court case that established the principle of judicial review in the United States. It arose when William Marbury's commission was not delivered by Secretary of State James Madison. Chief Justice John Marshall ruled that the Court had the authority to declare laws unconstitutional, thus affirming the judiciary's role in American government.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marbury v. Madison - Landmark Cases of the US Supreme Court">
+                                <img itemprop="contentUrl url" src='https://landmarkcases.org/wp-content/uploads/Marbury-v-Madison.jpg' alt='Marbury v. Madison - Landmark Cases of the US Supreme Court'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Landmark Cases" />
+                                </span>
+                                <a href='https://landmarkcases.org/wp-content/uploads/Marbury-v-Madison.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Marbury vs. Madison Means for Contemporary US Courts — McGill ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5c2b180689c1725fe2a6d1c8/29435f70-4c06-4000-8663-8570ba411b5e/schs-marbury-madison-01-04-jay-court-meeting.jpg' alt='What Marbury vs. Madison Means for Contemporary US Courts — McGill ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="780">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="McGill Policy Association" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5c2b180689c1725fe2a6d1c8/29435f70-4c06-4000-8663-8570ba411b5e/schs-marbury-madison-01-04-jay-court-meeting.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What was the outcome of marbury v madison top">
+                                <img itemprop="contentUrl url" src='https://ecdn.teacherspayteachers.com/thumbitem/Marbury-v-Madison-10559774-1705226526/original-10559774-1.jpg' alt='What was the outcome of marbury v madison top'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="263">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Interplast Clinic" />
+                                </span>
+                                <a href='https://ecdn.teacherspayteachers.com/thumbitem/Marbury-v-Madison-10559774-1705226526/original-10559774-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marbury v Madison">
+                                <img itemprop="contentUrl url" src='https://s3.us-west-1.amazonaws.com/redwood-labs/showpage/uploads/images/300267a07a89447498fb532f8eb09768.png' alt='Marbury v Madison'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Civics & Coffee" />
+                                </span>
+                                <a href='https://s3.us-west-1.amazonaws.com/redwood-labs/showpage/uploads/images/300267a07a89447498fb532f8eb09768.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marbury v. Madison (1803) | National Archives">
+                                <img itemprop="contentUrl url" src='https://www.archives.gov/files/milestone-documents/images/marbury-v-madison-xl.jpg' alt='Marbury v. Madison (1803) | National Archives'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="918">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Archives" />
+                                </span>
+                                <a href='https://www.archives.gov/files/milestone-documents/images/marbury-v-madison-xl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marbury v. Madison - Greenwood Lakes Social Studies">
+                                <img itemprop="contentUrl url" src='http://greenwoodlakessocialstudies.weebly.com/uploads/2/2/4/1/22411520/818528.jpg?268' alt='Marbury v. Madison - Greenwood Lakes Social Studies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="265">
+                                <meta itemprop="height" content="177">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Greenwood Lakes Social Studies - Weebly" />
+                                </span>
+                                <a href='http://greenwoodlakessocialstudies.weebly.com/uploads/2/2/4/1/22411520/818528.jpg?268' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marbury v. Madison: The Empowerment of the Judiciary | Supreme ...">
+                                <img itemprop="contentUrl url" src='https://supremecourthistory.org/schs-marbury-madison-empowerment-of-the-judiciary/images/02/schs-marbury-madison-02-04b-marshall-tavern.jpg' alt='Marbury v. Madison: The Empowerment of the Judiciary | Supreme ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="760">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Supreme Court Historical Society" />
+                                </span>
+                                <a href='https://supremecourthistory.org/schs-marbury-madison-empowerment-of-the-judiciary/images/02/schs-marbury-madison-02-04b-marshall-tavern.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AP U.S. Government Supreme Court Case: Marbury v. Madison">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/CAE6dyIeTR8/maxresdefault.jpg' alt='AP U.S. Government Supreme Court Case: Marbury v. Madison'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/CAE6dyIeTR8/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Did John Marshall Accomplish in Marbury v. Madison?">
+                                <img itemprop="contentUrl url" src='https://lawliberty.org/app/uploads/2020/01/marbury-v-madison.jpg' alt='What Did John Marshall Accomplish in Marbury v. Madison?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="677">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Law & Liberty" />
+                                </span>
+                                <a href='https://lawliberty.org/app/uploads/2020/01/marbury-v-madison.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="the post calvin">
+                                <img itemprop="contentUrl url" src='https://thepostcalvin.com/wp-content/uploads/2015/12/Post-Calvin-Marbury-pic.jpg' alt='the post calvin'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="507">
+                                <meta itemprop="height" content="338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="the post calvin" />
+                                </span>
+                                <a href='https://thepostcalvin.com/wp-content/uploads/2015/12/Post-Calvin-Marbury-pic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

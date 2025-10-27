@@ -1,0 +1,129 @@
+<title>Understanding Adam Smith: The Father of Economics</title>
+                    <meta name="description" content="Explore the life and ideas of Adam Smith, the father of modern economics. Discover how his groundbreaking work, "The Wealth of Nations," shaped economic theory and influenced global markets. Perfect for anyone interested in the roots of capitalism and economic thought!">
+                    <meta name="keywords" content="adam smith">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/adam-smith">
+                            <span itemprop="name">adam smith</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Adam Smith: The Father of Economics</h1>
+                <p>Adam Smith, a Scottish philosopher and economist, is best known for his book "The Wealth of Nations," published in 1776. He introduced key concepts such as the invisible hand and free-market economics, laying the groundwork for modern economic thought. His ideas on capitalism continue to influence economic policies and theories today.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adam Smith - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Adam_Smith_The_Muir_portrait.jpg/640px-Adam_Smith_The_Muir_portrait.jpg' alt='Adam Smith - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="780">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Adam_Smith_The_Muir_portrait.jpg/640px-Adam_Smith_The_Muir_portrait.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adam Smith: Biography, Scottish Philosopher, Economist">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/gettyimages-843192764.jpg' alt='Adam Smith: Biography, Scottish Philosopher, Economist'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/gettyimages-843192764.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adam Smith | Online Library of Liberty">
+                                <img itemprop="contentUrl url" src='https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/people/44/smith-adam.png' alt='Adam Smith | Online Library of Liberty'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Online Library of Liberty - Liberty Fund" />
+                                </span>
+                                <a href='https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/people/44/smith-adam.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Biography - Adam Smith">
+                                <img itemprop="contentUrl url" src='https://thegreatthinkers.org/smith/wp-content/uploads/sites/15/2012/12/37.Adam_Smith.jpg' alt='Biography - Adam Smith'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="287">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Great Thinkers" />
+                                </span>
+                                <a href='https://thegreatthinkers.org/smith/wp-content/uploads/sites/15/2012/12/37.Adam_Smith.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adam Smith - Econlib">
+                                <img itemprop="contentUrl url" src='https://www.econlib.org/wp-content/uploads/2018/02/402px-AdamSmith.jpg' alt='Adam Smith - Econlib'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="299">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Econlib" />
+                                </span>
+                                <a href='https://www.econlib.org/wp-content/uploads/2018/02/402px-AdamSmith.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rescuing Adam Smith from myth and misrepresentation">
+                                <img itemprop="contentUrl url" src='https://www.economist.com/cdn-cgi/image/width=1424,quality=80,format=auto/sites/default/files/images/print-edition/20180728_BKP005_0.jpg' alt='Rescuing Adam Smith from myth and misrepresentation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Economist" />
+                                </span>
+                                <a href='https://www.economist.com/cdn-cgi/image/width=1424,quality=80,format=auto/sites/default/files/images/print-edition/20180728_BKP005_0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adam Smith: Who He Was, Early Life, Accomplishments, and Legacy">
+                                <img itemprop="contentUrl url" src='https://www.investopedia.com/thmb/SeJSFfKReRV4YGqDAUe77VnjLPE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/adam-smith-economics_final2-261ec50cfb04406585d7a298858eb4bb.png' alt='Adam Smith: Who He Was, Early Life, Accomplishments, and Legacy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Investopedia" />
+                                </span>
+                                <a href='https://www.investopedia.com/thmb/SeJSFfKReRV4YGqDAUe77VnjLPE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/adam-smith-economics_final2-261ec50cfb04406585d7a298858eb4bb.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adam Smith - The Decision Lab">
+                                <img itemprop="contentUrl url" src='https://images.prismic.io/thedecisionlab/1ad46949-6b47-40ed-86df-08f20e862c46_adam-smith.jpg?auto=compress,format' alt='Adam Smith - The Decision Lab'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Decision Lab" />
+                                </span>
+                                <a href='https://images.prismic.io/thedecisionlab/1ad46949-6b47-40ed-86df-08f20e862c46_adam-smith.jpg?auto=compress,format' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Birthday to Adam Smith's 'Wealth of Nations' - Competitive ...">
+                                <img itemprop="contentUrl url" src='https://cei.org/wp-content/uploads/2018/03/adamsmith-1380-578x324-c-default.jpg' alt='Happy Birthday to Adam Smith's 'Wealth of Nations' - Competitive ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="578">
+                                <meta itemprop="height" content="324">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Competitive Enterprise Institute" />
+                                </span>
+                                <a href='https://cei.org/wp-content/uploads/2018/03/adamsmith-1380-578x324-c-default.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Profound Wisdom—And Humanitarianism—Of Adam Smith | Hoover ...">
+                                <img itemprop="contentUrl url" src='https://www.hoover.org/sites/default/files/styles/facebook/public/research/images/adam_smith_the_muir_portrait.jpg?h=1ee06742&itok=1gW2lKwA' alt='The Profound Wisdom—And Humanitarianism—Of Adam Smith | Hoover ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hoover Institution" />
+                                </span>
+                                <a href='https://www.hoover.org/sites/default/files/styles/facebook/public/research/images/adam_smith_the_muir_portrait.jpg?h=1ee06742&itok=1gW2lKwA' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

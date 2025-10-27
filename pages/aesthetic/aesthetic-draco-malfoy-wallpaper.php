@@ -1,0 +1,129 @@
+<title>Aesthetic Draco Malfoy Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover stunning aesthetic Draco Malfoy wallpapers to personalize your device! Enjoy cool designs and quotes that reflect your love for the Harry Potter universe. Perfect for fans looking to enhance their digital aesthetic in a stylish way!">
+                    <meta name="keywords" content="aesthetic draco malfoy wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic-draco-malfoy-wallpaper">
+                            <span itemprop="name">aesthetic draco malfoy wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Draco Malfoy Wallpapers for Your Device</h1>
+                <p>Aesthetic Draco Malfoy wallpapers bring a touch of magic to your device. With cool tones, captivating designs, and iconic quotes from the Slytherin prince, these wallpapers elevate your aesthetic while showcasing your love for the Harry Potter series. Perfect for fans wanting to express their unique style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Draco Malfoy Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/light-draco-malfoy-aesthetic-sipcqs8b5en2j0v7.jpg' alt='Light Draco Malfoy Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1152">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/light-draco-malfoy-aesthetic-sipcqs8b5en2j0v7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Green Apple Draco Malfoy Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/aesthetic-green-apple-draco-malfoy-9lzt31dzceto0v2m.jpg' alt='Aesthetic Green Apple Draco Malfoy Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1615">
+                                <meta itemprop="height" content="2430">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/aesthetic-green-apple-draco-malfoy-9lzt31dzceto0v2m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Draco Malfoy Wallpaper     ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/03/7b/63/037b637ab941de9ab08d8626e3754b36.jpg' alt='Draco Malfoy Wallpaper     '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/03/7b/63/037b637ab941de9ab08d8626e3754b36.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Draco Malfoy Aesthetic Pictures | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/15-stills-draco-malfoy-aesthetic-l2dx8ijmshle5818.jpg' alt='100+] Draco Malfoy Aesthetic Pictures | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/15-stills-draco-malfoy-aesthetic-l2dx8ijmshle5818.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Draco Malfoy Wallpaper | wanheddagriffin">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b9/1d/18/b91d18c4870c51000d5502297978ff28.jpg' alt='Draco Malfoy Wallpaper | wanheddagriffin'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b9/1d/18/b91d18c4870c51000d5502297978ff28.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50+ DRACO MALFOY WALLPAPERS/LOCKSCREENS AESTHETIC   ﾉ✧">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/K2G8lEN1wzU/maxresdefault.jpg' alt='50+ DRACO MALFOY WALLPAPERS/LOCKSCREENS AESTHETIC   ﾉ✧'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/K2G8lEN1wzU/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="slytherin draco malfoy aesthetic iphone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b2/4d/ec/b24dec9343416b24fab2c498f7989cba.jpg' alt='slytherin draco malfoy aesthetic iphone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b2/4d/ec/b24dec9343416b24fab2c498f7989cba.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mint Green Draco Malfoy Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/mint-green-draco-malfoy-aesthetic-57tb3frsykegpjc9.jpg' alt='Mint Green Draco Malfoy Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1152">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/mint-green-draco-malfoy-aesthetic-57tb3frsykegpjc9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Draco Malfoy aesthetic wallpaper~ #2">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b5/db/8b/b5db8b41a703e1973a3b6101ca8bdf4f.jpg' alt='Draco Malfoy aesthetic wallpaper~ #2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1457">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b5/db/8b/b5db8b41a703e1973a3b6101ca8bdf4f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry potter, bale, draco malfoy, legend, man, mars, quote, quotes ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/656/931/HD-wallpaper-harry-potter-bale-draco-malfoy-legend-man-mars-quote-quotes-real-slytherin-tom-felton.jpg' alt='Harry potter, bale, draco malfoy, legend, man, mars, quote, quotes ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/656/931/HD-wallpaper-harry-potter-bale-draco-malfoy-legend-man-mars-quote-quotes-real-slytherin-tom-felton.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

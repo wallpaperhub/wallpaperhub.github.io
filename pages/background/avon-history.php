@@ -1,0 +1,129 @@
+<title>Discover Avon: A Legacy of Beauty and Empowerment</title>
+                    <meta name="description" content="Explore the rich history of Avon, founded in 1886. From its beginnings as a perfume seller to a global beauty powerhouse, learn how Avon has empowered women through innovative direct selling for over a century.">
+                    <meta name="keywords" content="avon history">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/avon-history">
+                            <span itemprop="name">avon history</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Avon: A Legacy of Beauty and Empowerment</h1>
+                <p>Avon was founded in 1886 by David H. McConnell in New York City as a door-to-door selling company. Initially focused on perfumes, it quickly evolved, offering a diverse range of beauty and personal care products. Avon's innovative marketing strategy empowered women as sales representatives and continues to thrive globally, celebrating empowerment and entrepreneurship.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beauty History Lesson: The Storied History of the “Avon Lady ...">
+                                <img itemprop="contentUrl url" src='https://dy6g3i6a1660s.cloudfront.net/f0VL8_FKk9b2clCGfw5s4QJYAws/orig.jpg' alt='Beauty History Lesson: The Storied History of the “Avon Lady ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="779">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Beautylish" />
+                                </span>
+                                <a href='https://dy6g3i6a1660s.cloudfront.net/f0VL8_FKk9b2clCGfw5s4QJYAws/orig.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beauty History Lesson: The Storied History of the “Avon Lady ...">
+                                <img itemprop="contentUrl url" src='https://dy6g3i6a1660s.cloudfront.net/lzeG1ExIr83q71_jMO6K5wPUAoo/lb-a3/the-history-of-avon.jpg' alt='Beauty History Lesson: The Storied History of the “Avon Lady ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="398">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Beautylish" />
+                                </span>
+                                <a href='https://dy6g3i6a1660s.cloudfront.net/lzeG1ExIr83q71_jMO6K5wPUAoo/lb-a3/the-history-of-avon.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Manuscripts and Archives: The Early Years of Avon Cosmetics">
+                                <img itemprop="contentUrl url" src='https://www.hagley.org/sites/default/files/Create_a_More_Radiant_You.jpg' alt='Manuscripts and Archives: The Early Years of Avon Cosmetics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="807">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hagley Museum & Library" />
+                                </span>
+                                <a href='https://www.hagley.org/sites/default/files/Create_a_More_Radiant_You.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Manuscripts and Archives: The Early Years of Avon Cosmetics">
+                                <img itemprop="contentUrl url" src='https://www.hagley.org/sites/default/files/bottles.jpg' alt='Manuscripts and Archives: The Early Years of Avon Cosmetics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hagley Museum & Library" />
+                                </span>
+                                <a href='https://www.hagley.org/sites/default/files/bottles.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beauty History Lesson: The Storied History of the “Avon Lady ...">
+                                <img itemprop="contentUrl url" src='https://dy6g3i6a1660s.cloudfront.net/8toYDD2X1GAu-m6YKEGrmgJYASw/orig.jpg' alt='Beauty History Lesson: The Storied History of the “Avon Lady ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Beautylish" />
+                                </span>
+                                <a href='https://dy6g3i6a1660s.cloudfront.net/8toYDD2X1GAu-m6YKEGrmgJYASw/orig.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Our Story | Avon">
+                                <img itemprop="contentUrl url" src='https://www.avonworldwide.com/dam/jcr:b8ce4876-7b94-46ca-bff2-4db00ed1557b/avon-great-days-1950s-crop.webp' alt='Our Story | Avon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="357">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Avon" />
+                                </span>
+                                <a href='https://www.avonworldwide.com/dam/jcr:b8ce4876-7b94-46ca-bff2-4db00ed1557b/avon-great-days-1950s-crop.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avon Historical Archive at the Hagley Library">
+                                <img itemprop="contentUrl url" src='https://www.hagley.org/sites/default/files/styles/gallery_image_550x354/public/avon_lipstick_manufacturing_1950_hagley_avon_int_pic00060_0.jpg?itok=Uea_xYAF&sc=15d54fa6f1055a0322f3785def71cce4' alt='Avon Historical Archive at the Hagley Library'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1058">
+                                <meta itemprop="height" content="706">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hagley Museum & Library" />
+                                </span>
+                                <a href='https://www.hagley.org/sites/default/files/styles/gallery_image_550x354/public/avon_lipstick_manufacturing_1950_hagley_avon_int_pic00060_0.jpg?itok=Uea_xYAF&sc=15d54fa6f1055a0322f3785def71cce4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Women's History Month! ⭐ For over 130 years, Avon has been ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3579437424905350670' alt='Happy Women's History Month! ⭐ For over 130 years, Avon has been ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3579437424905350670' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avon: Behind the Brand">
+                                <img itemprop="contentUrl url" src='https://www.thestreet.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTgyMTUyNTU3OTU3NzUyMTM2/avon-th.jpg' alt='Avon: Behind the Brand'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheStreet" />
+                                </span>
+                                <a href='https://www.thestreet.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTgyMTUyNTU3OTU3NzUyMTM2/avon-th.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Avon Perfumes — Immortal Perfumes">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/61006a251879fd760abe2576/79d10416-9461-4a75-95a7-32db8e85c036/cala_cpc_goetting_comparison_1.jpg' alt='History of Avon Perfumes — Immortal Perfumes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="356">
+                                <meta itemprop="height" content="325">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Immortal Perfumes" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/61006a251879fd760abe2576/79d10416-9461-4a75-95a7-32db8e85c036/cala_cpc_goetting_comparison_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

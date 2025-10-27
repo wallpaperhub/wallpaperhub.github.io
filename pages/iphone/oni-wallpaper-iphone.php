@@ -1,0 +1,129 @@
+<title>Stunning Oni Wallpapers for iPhone: Unique Designs</title>
+                    <meta name="description" content="Explore a captivating collection of oni wallpapers for your iPhone! Customize your device with unique designs that feature mythical Japanese demons, combining art with culture. Perfect for those who appreciate vibrant and eye-catching aesthetics. Download your favorites today!">
+                    <meta name="keywords" content="oni wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/oni-wallpaper-iphone">
+                            <span itemprop="name">oni wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Oni Wallpapers for iPhone: Unique Designs</h1>
+                <p>Transform your iPhone with striking oni wallpapers that blend tradition and modern aesthetics. Discover a variety of designs featuring these mythical Japanese demons, perfect for adding a unique flair to your device. Choose from vibrant colors or minimalistic styles to showcase your personality and captivate others.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ONI MASK (鬼) - Adi Suardika">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4e/f1/36/4ef1368bd201edee94667a2c0a688dfb.jpg' alt='ONI MASK (鬼) - Adi Suardika'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4e/f1/36/4ef1368bd201edee94667a2c0a688dfb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oni mask">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/d5/a7/12/d5a7120fef12ee4b7055b5b4d83126ee.jpg' alt='Oni mask'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/d5/a7/12/d5a7120fef12ee4b7055b5b4d83126ee.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Oni, japanese, red, scary, skull, tattoo, warrior, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/136/827/HD-wallpaper-the-oni-japanese-red-scary-skull-tattoo-warrior.jpg' alt='The Oni, japanese, red, scary, skull, tattoo, warrior, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/136/827/HD-wallpaper-the-oni-japanese-red-scary-skull-tattoo-warrior.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oni Mask iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp14374558.jpg' alt='Oni Mask iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="674">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp14374558.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Samurai Golden Mask iPhone Wallpaper HD">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1a/b8/5b/1ab85bd130aad04158aba82fca769a1e.jpg' alt='Samurai Golden Mask iPhone Wallpaper HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1479">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1a/b8/5b/1ab85bd130aad04158aba82fca769a1e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oni Live Wallpaper - High-Quality 4K Mask Wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7303347505985555718&location=0&aid=1988' alt='Oni Live Wallpaper - High-Quality 4K Mask Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7303347505985555718&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oni mask, anime, cartoon, demon, devil, japan, japanese, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/610/110/HD-wallpaper-oni-mask-anime-cartoon-demon-devil-japan-japanese.jpg' alt='Oni mask, anime, cartoon, demon, devil, japan, japanese, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/610/110/HD-wallpaper-oni-mask-anime-cartoon-demon-devil-japan-japanese.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oni wallpaper by LILnarvaez - Download on ZEDGE™ | 1720">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/91/3d/04/913d041e566a050e9fbc4b6b0b6d8c00.jpg' alt='Oni wallpaper by LILnarvaez - Download on ZEDGE™ | 1720'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/91/3d/04/913d041e566a050e9fbc4b6b0b6d8c00.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download "Oni" wallpapers for mobile phone, free "Oni" HD pictures">
+                                <img itemprop="contentUrl url" src='https://wallpaper.forfun.com/fetch/50/50acfeeff193394d177f9b8ecc51fb6b.jpeg' alt='Download "Oni" wallpapers for mobile phone, free "Oni" HD pictures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Phone wallpapers free HD download for mobile - Mob.org" />
+                                </span>
+                                <a href='https://wallpaper.forfun.com/fetch/50/50acfeeff193394d177f9b8ecc51fb6b.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/16/94/f3/1694f360b06ec3cd19c78795beda2198.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/16/94/f3/1694f360b06ec3cd19c78795beda2198.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

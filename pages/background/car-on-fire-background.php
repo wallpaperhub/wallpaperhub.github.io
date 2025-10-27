@@ -1,0 +1,129 @@
+<title>"Car Fire: A Fiery Warning on the Road"</title>
+                    <meta name="description" content="Discover the intense visual and emotional impact of a car on fire. Explore the dangers and consequences of vehicle fires, and learn how to stay safe. Stay informed and prepared with essential tips to prevent such incidents on the road.">
+                    <meta name="keywords" content="car on fire background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/car-on-fire-background">
+                            <span itemprop="name">car on fire background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Car Fire: A Fiery Warning on the Road"</h1>
+                <p>A dramatic scene unfolds as a car erupts into flames, casting an orange glow against the night sky. The crackling sound of burning metal fills the air, accompanied by the distant wail of sirens. Smoke billows upwards while onlookers gasp in shock. This fiery backdrop serves as a stark reminder of the dangers of negligence and accidents on the road.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Car On Fire Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1631694991074-a89d8814454b?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Y2FyJTIwb24lMjBmaXJlfGVufDB8fDB8fHww' alt='Car On Fire Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1631694991074-a89d8814454b?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Y2FyJTIwb24lMjBmaXJlfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50,000+ Car Fire Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/157654693/photo/car-in-fire-burning.jpg?s=612x612&w=0&k=20&c=AUylHDPLMrvTsdwULFUb2Ak_-zQ3w2-QBqKGQ9mm-2w=' alt='50,000+ Car Fire Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/157654693/photo/car-in-fire-burning.jpg?s=612x612&w=0&k=20&c=AUylHDPLMrvTsdwULFUb2Ak_-zQ3w2-QBqKGQ9mm-2w=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Fire Car Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/fire-car-gr2lp7whpaxew65k.jpg' alt='100+] Fire Car Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/fire-car-gr2lp7whpaxew65k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Car On Fire Images – Browse 274,504 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/13/11/45/360_F_213114519_BEMIBjlUn9NtxVCWruGMVagkZRsCLX5M.jpg' alt='Car On Fire Images – Browse 274,504 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/13/11/45/360_F_213114519_BEMIBjlUn9NtxVCWruGMVagkZRsCLX5M.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Car On Fire Images – Browse 274,504 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/06/43/13/60/360_F_643136054_dTQ3jTATDfXbfvSUNaNUHf4WMPwN1Vso.jpg' alt='Car On Fire Images – Browse 274,504 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/06/43/13/60/360_F_643136054_dTQ3jTATDfXbfvSUNaNUHf4WMPwN1Vso.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50,000+ Car Fire Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/161049539/photo/car-fire.jpg?s=612x612&w=0&k=20&c=GdEep0BxZpCXu34SKoTFRAu3zXORbVj20C_bBPa5LYg=' alt='50,000+ Car Fire Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="499">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/161049539/photo/car-fire.jpg?s=612x612&w=0&k=20&c=GdEep0BxZpCXu34SKoTFRAu3zXORbVj20C_bBPa5LYg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="158,165 Car Fire Royalty-Free Photos and Stock Images | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/firefighters-extinguish-burning-car-on-600nw-2265920711.jpg' alt='158,165 Car Fire Royalty-Free Photos and Stock Images | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/firefighters-extinguish-burning-car-on-600nw-2265920711.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Burning Fire Car Running From Helicopter Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/burning-fire-car-running-from-helicopter-bm5hiacy1rr557v1.jpg' alt='Burning Fire Car Running From Helicopter Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/burning-fire-car-running-from-helicopter-bm5hiacy1rr557v1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fire Car In City At Night Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/fire-car-in-city-at-night-59f3lre60vtyniv6.jpg' alt='Fire Car In City At Night Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/fire-car-in-city-at-night-59f3lre60vtyniv6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Car on Fire at Night with Police Lights in Background Editorial ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/z/car-fire-night-police-lights-background-noone-121155762.jpg' alt='Car on Fire at Night with Police Lights in Background Editorial ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1157">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/z/car-fire-night-police-lights-background-noone-121155762.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

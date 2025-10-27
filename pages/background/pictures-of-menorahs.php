@@ -1,0 +1,129 @@
+<title>Stunning Menorah Pictures for Hanukkah Inspiration</title>
+                    <meta name="description" content="Discover a vibrant gallery of menorah pictures perfect for Hanukkah inspiration. Explore diverse designs, from classic to contemporary, and celebrate the beauty and significance of these iconic symbols. Ideal for festive décor ideas or cultural appreciation!">
+                    <meta name="keywords" content="pictures of menorahs">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pictures-of-menorahs">
+                            <span itemprop="name">pictures of menorahs</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Menorah Pictures for Hanukkah Inspiration</h1>
+                <p>Explore a beautiful collection of menorah pictures, showcasing various designs and styles. From traditional to modern interpretations, these images capture the essence of this iconic symbol of Hanukkah. Whether you're looking for inspiration for your own menorah or simply enjoying the artistry, these pictures highlight the rich cultural significance of this cherished item.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The 10 Best Modern Menorahs for Hanukkah | Reviews by Wirecutter">
+                                <img itemprop="contentUrl url" src='https://cdn.thewirecutter.com/wp-content/media/2024/11/ROUNDUP-MODERN-MENORAHS-2048px-6087.jpg?auto=webp&quality=75&width=1024' alt='The 10 Best Modern Menorahs for Hanukkah | Reviews by Wirecutter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://cdn.thewirecutter.com/wp-content/media/2024/11/ROUNDUP-MODERN-MENORAHS-2048px-6087.jpg?auto=webp&quality=75&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Tribes of Israel Jerusalem Temple Menorah Choose from 3 Sizes Gold or  Silver (Gold, 5" Inches)">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91jPSL+yaxL._AC_UF894,1000_QL80_.jpg' alt='12 Tribes of Israel Jerusalem Temple Menorah Choose from 3 Sizes Gold or  Silver (Gold, 5" Inches)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="973">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91jPSL+yaxL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Blue And Silver Electric LED Hanukkah Menorah">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-gtyjsq0orx/images/stencil/1280x1280/products/15507/11946/Premium-Blue-Silver-Electric-LED-Menorah-RLJR5T__29310.1633008164.jpg?c=1' alt='Premium Blue And Silver Electric LED Hanukkah Menorah'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Traditions Jewish Gifts" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-gtyjsq0orx/images/stencil/1280x1280/products/15507/11946/Premium-Blue-Silver-Electric-LED-Menorah-RLJR5T__29310.1633008164.jpg?c=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The 10 Best Modern Menorahs for Hanukkah | Reviews by Wirecutter">
+                                <img itemprop="contentUrl url" src='https://cdn.thewirecutter.com/wp-content/media/2024/11/ROUNDUP-MODERN-MENORAHS-2048px-2x1-1.jpg?width=2048&quality=75&crop=2:1&auto=webp' alt='The 10 Best Modern Menorahs for Hanukkah | Reviews by Wirecutter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://cdn.thewirecutter.com/wp-content/media/2024/11/ROUNDUP-MODERN-MENORAHS-2048px-2x1-1.jpg?width=2048&quality=75&crop=2:1&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hanukkah menorah - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/a/ae/Hanukkah_Lamp_-_Lemberg_F_5119.jpg' alt='Hanukkah menorah - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1803">
+                                <meta itemprop="height" content="2590">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/a/ae/Hanukkah_Lamp_-_Lemberg_F_5119.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is a Menorah (Chanukiah)? - Chabad.org">
+                                <img itemprop="contentUrl url" src='https://w2.chabad.org/media/images/1031/yhuR10311346.jpg?_i=_n32DD4A5CE5B405756B86D11830CBE5B1' alt='What Is a Menorah (Chanukiah)? - Chabad.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chabad.org" />
+                                </span>
+                                <a href='https://w2.chabad.org/media/images/1031/yhuR10311346.jpg?_i=_n32DD4A5CE5B405756B86D11830CBE5B1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Temple Style Solid Brass Menorah - 21'' High">
+                                <img itemprop="contentUrl url" src='https://zionjudaica.com/wp-content/uploads/2024/06/M-TMPL21.jpg' alt='Temple Style Solid Brass Menorah - 21'' High'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zion Judaica" />
+                                </span>
+                                <a href='https://zionjudaica.com/wp-content/uploads/2024/06/M-TMPL21.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: The Dreidel Company Hanukkah Menorah with Traditional Star  Polished Aluminum Finish, Size 7" Tall : Home & Kitchen">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81aXneOh-wL.jpg' alt='Amazon.com: The Dreidel Company Hanukkah Menorah with Traditional Star  Polished Aluminum Finish, Size 7" Tall : Home & Kitchen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81aXneOh-wL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Menorah | Ancient Symbol of Judaism | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/93/77393-050-921202E3/menorah.jpg' alt='Menorah | Ancient Symbol of Judaism | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1372">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/93/77393-050-921202E3/menorah.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Floral Lily Menorah">
+                                <img itemprop="contentUrl url" src='https://moderntribe.com/cdn/shop/products/ScreenShot2022-12-08at10.33.11AM_2.png?v=1671165732&width=360' alt='Gold Floral Lily Menorah'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="401">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ModernTribe" />
+                                </span>
+                                <a href='https://moderntribe.com/cdn/shop/products/ScreenShot2022-12-08at10.33.11AM_2.png?v=1671165732&width=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

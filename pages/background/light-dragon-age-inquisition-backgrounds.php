@@ -1,0 +1,129 @@
+<title>Light Dragon Age Inquisition Backgrounds Explained</title>
+                    <meta name="description" content="Discover the intriguing light dragon backgrounds in Dragon Age: Inquisition. Learn how different origins influence gameplay and character interactions, enriching your Inquisitor's adventure. Dive into the lore that shapes your story in this stunning fantasy RPG!">
+                    <meta name="keywords" content="light dragon age inquisition backgrounds">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/light-dragon-age-inquisition-backgrounds">
+                            <span itemprop="name">light dragon age inquisition backgrounds</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Light Dragon Age Inquisition Backgrounds Explained</h1>
+                <p>In "Dragon Age: Inquisition," light dragon age backgrounds enhance the game’s rich lore and character storytelling. Players can explore unique origins, each tied to vital narrative choices that shape their Inquisitor’s journey. These backgrounds not only affect gameplay mechanics but also influence relationships with key NPCs.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Age Inquisition Glowing Green Light Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/dragon-age-inquisition-glowing-green-light-z8s8x00fc3tvyu56.jpg' alt='Dragon Age Inquisition Glowing Green Light Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/dragon-age-inquisition-glowing-green-light-z8s8x00fc3tvyu56.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thoughts on the overall art direction change? : r/dragonage">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/thoughts-on-the-overall-art-direction-change-v0-3hvud6ejc5jd1.jpeg?auto=webp&s=01db15862479f6312c345e1aabf003a3fd5181fd' alt='Thoughts on the overall art direction change? : r/dragonage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/thoughts-on-the-overall-art-direction-change-v0-3hvud6ejc5jd1.jpeg?auto=webp&s=01db15862479f6312c345e1aabf003a3fd5181fd' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="More Dragon Age Veilguard's Environment screenshots revealed : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/more-dragon-age-veilguards-environment-screenshots-revealed-v0-6a89wr7xzz5d1.png?width=3840&format=png&auto=webp&s=3c9b700ad487299af27da280c8d1156fcf5fe44c' alt='More Dragon Age Veilguard's Environment screenshots revealed : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/more-dragon-age-veilguards-environment-screenshots-revealed-v0-6a89wr7xzz5d1.png?width=3840&format=png&auto=webp&s=3c9b700ad487299af27da280c8d1156fcf5fe44c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Age: Inquisition - New Screenshot Shows Amazing Lighting">
+                                <img itemprop="contentUrl url" src='https://www.dsogaming.com/wp-content/uploads/2014/04/Dragon-Age-Inquisition-New-Image.jpg' alt='Dragon Age: Inquisition - New Screenshot Shows Amazing Lighting'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DSOGaming" />
+                                </span>
+                                <a href='https://www.dsogaming.com/wp-content/uploads/2014/04/Dragon-Age-Inquisition-New-Image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Age: Inquisition hands-on: fine fantasy | PC Gamer">
+                                <img itemprop="contentUrl url" src='https://cdn.mos.cms.futurecdn.net/db623b894cbf04935ce710e963caeb87.jpg' alt='Dragon Age: Inquisition hands-on: fine fantasy | PC Gamer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PC Gamer" />
+                                </span>
+                                <a href='https://cdn.mos.cms.futurecdn.net/db623b894cbf04935ce710e963caeb87.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="More Dragon Age Veilguard's Environment screenshots revealed : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/more-dragon-age-veilguards-environment-screenshots-revealed-v0-0sl2ku7xzz5d1.png?width=3840&format=png&auto=webp&s=1b22c832f326698c8e7212c467ad03c37ad9118c' alt='More Dragon Age Veilguard's Environment screenshots revealed : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/more-dragon-age-veilguards-environment-screenshots-revealed-v0-0sl2ku7xzz5d1.png?width=3840&format=png&auto=webp&s=1b22c832f326698c8e7212c467ad03c37ad9118c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whisper it, but Dragon Age: The Veilguard has me thinking the ...">
+                                <img itemprop="contentUrl url" src='https://assetsio.gnwcdn.com/Dragon-Age-The-Veilguard_Screenshot_01_Dragon_3840x2160.png?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp' alt='Whisper it, but Dragon Age: The Veilguard has me thinking the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eurogamer" />
+                                </span>
+                                <a href='https://assetsio.gnwcdn.com/Dragon-Age-The-Veilguard_Screenshot_01_Dragon_3840x2160.png?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="More Dragon Age Veilguard's Environment screenshots revealed : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/more-dragon-age-veilguards-environment-screenshots-revealed-v0-hu20ct7xzz5d1.png?width=3840&format=png&auto=webp&s=7d8b94afbf4ccacc6ad77f2a92c0fe9e90b619b6' alt='More Dragon Age Veilguard's Environment screenshots revealed : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/more-dragon-age-veilguards-environment-screenshots-revealed-v0-hu20ct7xzz5d1.png?width=3840&format=png&auto=webp&s=7d8b94afbf4ccacc6ad77f2a92c0fe9e90b619b6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Age Inquisition Glowing Green Light Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/dragon-face-off-dragon-age-inquisition-dc3argh2274yp7re.webp' alt='Dragon Age Inquisition Glowing Green Light Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="169">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/dragon-face-off-dragon-age-inquisition-dc3argh2274yp7re.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here's everything you need to know about the story leading into ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d1/03/62/d1036251e62bddd82490835b5f2e3df2.jpg' alt='Here's everything you need to know about the story leading into ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="361">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d1/03/62/d1036251e62bddd82490835b5f2e3df2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

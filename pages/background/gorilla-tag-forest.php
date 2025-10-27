@@ -1,0 +1,129 @@
+<title>Gorilla Tag Forest: Swing, Dodge, and Conquer!</title>
+                    <meta name="description" content="Join the excitement of Gorilla Tag in a captivating forest! Navigate through dense trees, dodge challengers, and use your agility to claim victory. Perfect for friends and groups, this dynamic game offers a fun and active way to play in nature. Dive into the wild and tag your way to glory!">
+                    <meta name="keywords" content="gorilla tag forest">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/gorilla-tag-forest">
+                            <span itemprop="name">gorilla tag forest</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Gorilla Tag Forest: Swing, Dodge, and Conquer!</h1>
+                <p>Experience the thrill of Gorilla Tag in a lush, immersive forest setting! Dodge opponents, swing through trees, and master your agility in a vibrant environment. This unique twist on tag lets players embrace their wild side as they become gorillas, utilizing their surroundings to outsmart and outmaneuver friends in epic gameplay.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Forest | Gorilla Tag Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/gorillatag/images/6/65/Forest23.png/revision/latest?cb=20230830230707' alt='Forest | Gorilla Tag Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gorilla Tag Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/gorillatag/images/6/65/Forest23.png/revision/latest?cb=20230830230707' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Forest | Gorilla Tag Locations Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/gorilla-tag-locations/images/e/ef/Forest..png/revision/latest?cb=20240617001547' alt='Forest | Gorilla Tag Locations Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="795">
+                                <meta itemprop="height" content="636">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gorilla Tag Locations Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/gorilla-tag-locations/images/e/ef/Forest..png/revision/latest?cb=20240617001547' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Forest | Gorilla Tag Everything Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/gorilla-tag-everything/images/3/34/Image.png/revision/latest?cb=20240615060733' alt='Forest | Gorilla Tag Everything Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="474">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gorilla Tag Everything Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/gorilla-tag-everything/images/3/34/Image.png/revision/latest?cb=20240615060733' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some pictures I took in forest I really like the fire pit one just ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/some-pictures-i-took-in-forest-i-really-like-the-fire-pit-v0-iiqkyobnxzhb1.jpg?width=1080&crop=smart&auto=webp&s=66d52b427c4e9d7057ee714340122b4ce77a8454' alt='Some pictures I took in forest I really like the fire pit one just ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1064">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/some-pictures-i-took-in-forest-i-really-like-the-fire-pit-v0-iiqkyobnxzhb1.jpg?width=1080&crop=smart&auto=webp&s=66d52b427c4e9d7057ee714340122b4ce77a8454' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Meta Quest 3 Custom Home: Gorilla Tag Forest | Oculus Quest">
+                                <img itemprop="contentUrl url" src='https://moonvrhome.com/_next/image?url=https%3A%2F%2Fassets.moonvrhome.com%2Fres%2Ftextures%2Fscreenshot%2F4x%2Fgorilla_tag_forest.jpg%3Fver%3D1726216731837&w=3840&q=100' alt='Meta Quest 3 Custom Home: Gorilla Tag Forest | Oculus Quest'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1160">
+                                <meta itemprop="height" content="754">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Moon VR Home" />
+                                </span>
+                                <a href='https://moonvrhome.com/_next/image?url=https%3A%2F%2Fassets.moonvrhome.com%2Fres%2Ftextures%2Fscreenshot%2F4x%2Fgorilla_tag_forest.jpg%3Fver%3D1726216731837&w=3840&q=100' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some pictures I took in forest I really like the fire pit one just ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/some-pictures-i-took-in-forest-i-really-like-the-fire-pit-v0-hnxluobnxzhb1.jpg?width=1242&format=pjpg&auto=webp&s=02d834c5437d838c2c26121fdd06f05ca28ce852' alt='Some pictures I took in forest I really like the fire pit one just ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="1228">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/some-pictures-i-took-in-forest-i-really-like-the-fire-pit-v0-hnxluobnxzhb1.jpg?width=1242&format=pjpg&auto=webp&s=02d834c5437d838c2c26121fdd06f05ca28ce852' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gorilla Tag Maps - Everything You Need To Know – ZyberVR">
+                                <img itemprop="contentUrl url" src='http://zybervr.com/cdn/shop/articles/gtag_forest.jpg?v=1715927471' alt='Gorilla Tag Maps - Everything You Need To Know – ZyberVR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1049">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ZyberVR" />
+                                </span>
+                                <a href='http://zybervr.com/cdn/shop/articles/gtag_forest.jpg?v=1715927471' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Literally Every Single Gorilla Tag Map (feel free to use in ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/literally-every-single-gorilla-tag-map-feel-free-to-use-in-v0-v9c58ndt92pd1.jpg?width=3840&format=pjpg&auto=webp&s=3b7a35f1d793861bbe2a9e7ab0f0750bac64ce4e' alt='Literally Every Single Gorilla Tag Map (feel free to use in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/literally-every-single-gorilla-tag-map-feel-free-to-use-in-v0-v9c58ndt92pd1.jpg?width=3840&format=pjpg&auto=webp&s=3b7a35f1d793861bbe2a9e7ab0f0750bac64ce4e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gazebo | Gorilla Tag Locations Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/gorilla-tag-locations/images/1/1e/Gazebo..png/revision/latest/thumbnail/width/360/height/360?cb=20240621201746' alt='Gazebo | Gorilla Tag Locations Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="301">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gorilla Tag Locations Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/gorilla-tag-locations/images/1/1e/Gazebo..png/revision/latest/thumbnail/width/360/height/360?cb=20240621201746' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Gorilla Tag Beach Map Is Here With The Summer Update — Reality ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/60ee2eaaafee646b28e6aa42/d800cf36-2f22-434f-ad3d-e6eb5ff6147d/NewForestStuff.jpg' alt='The Gorilla Tag Beach Map Is Here With The Summer Update — Reality ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1975">
+                                <meta itemprop="height" content="1176">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reality Remake" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/60ee2eaaafee646b28e6aa42/d800cf36-2f22-434f-ad3d-e6eb5ff6147d/NewForestStuff.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

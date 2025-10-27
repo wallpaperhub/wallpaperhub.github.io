@@ -1,0 +1,129 @@
+<title>Elegant Gold Flowers Wallpaper for Luxe Interiors</title>
+                    <meta name="description" content="Transform your home with our stunning gold flowers wallpaper. Perfect for adding a touch of luxury, these elegant designs suit any decor. Shop now for a timeless look that enhances every room in your home!">
+                    <meta name="keywords" content="gold flowers wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flowers">
+                            <span itemprop="name">Flowers</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flowers/gold-flowers-wallpaper">
+                            <span itemprop="name">gold flowers wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Gold Flowers Wallpaper for Luxe Interiors</h1>
+                <p>Gold flowers wallpaper adds a touch of elegance and sophistication to any space. Perfect for creating a luxurious atmosphere, these stunning designs blend well with various decor styles. Whether you're looking to enhance your living room or bedroom, gold flower patterns offer a unique way to elevate your interior space with vibrant colors and intricate details.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LUXE Traditional / 2 ft (h) x 19 in (w)">
+                                <img itemprop="contentUrl url" src='https://wallblush.com/cdn/shop/files/GoldenHourWallpaperFauxGoldFloralPrint_6.png?v=1715201252&width=2048' alt='LUXE Traditional / 2 ft (h) x 19 in (w)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='https://wallblush.com/cdn/shop/files/GoldenHourWallpaperFauxGoldFloralPrint_6.png?v=1715201252&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Flower Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/040/808/057/small_2x/ai-generated-luxurious-gold-flowers-wallpaper-background-adds-elegance-ai-generated-photo.jpg' alt='Gold Flower Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="714">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/040/808/057/small_2x/ai-generated-luxurious-gold-flowers-wallpaper-background-adds-elegance-ai-generated-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ReWallpaper Vintage Gold Floral Wallpaper Garden Bird Flower Peel and Stick  Wallpaper for Bedroom Accent Wall 17.5in X 10ft Dark Cyan Teal Contact ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91kzf+2bdbL.jpg' alt='ReWallpaper Vintage Gold Floral Wallpaper Garden Bird Flower Peel and Stick  Wallpaper for Bedroom Accent Wall 17.5in X 10ft Dark Cyan Teal Contact ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91kzf+2bdbL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Flowers Images – Browse 2,467,762 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/11/59/99/37/360_F_1159993732_656QAvYG8JS2EhR5h4Vtq4DWGeCWl1wW.jpg' alt='Gold Flowers Images – Browse 2,467,762 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/11/59/99/37/360_F_1159993732_656QAvYG8JS2EhR5h4Vtq4DWGeCWl1wW.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lined Flowers Gold Wallpaper">
+                                <img itemprop="contentUrl url" src='https://portraydecor.com/cdn/shop/files/LFGO-F7000-Lined-Flowers-Gold-LivingRoom-DiningRoom-Countertop-Kitchen-PeelandStickWallpaper-TraditionalWallpaper-WaterActivatedWallpaper.jpg?v=1689281894&width=1946' alt='Lined Flowers Gold Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1831">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="portray decor" />
+                                </span>
+                                <a href='https://portraydecor.com/cdn/shop/files/LFGO-F7000-Lined-Flowers-Gold-LivingRoom-DiningRoom-Countertop-Kitchen-PeelandStickWallpaper-TraditionalWallpaper-WaterActivatedWallpaper.jpg?v=1689281894&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Luxury Golden and White Flowers Wallpaper Wall Mural, Golden ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18000923/r/il/9cf781/5537757275/il_570xN.5537757275_bdmg.jpg' alt='3D Luxury Golden and White Flowers Wallpaper Wall Mural, Golden ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="488">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18000923/r/il/9cf781/5537757275/il_570xN.5537757275_bdmg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="17.7"x118" Vintage Gold Flowers Wallpaper 3D Lily Daisy Flower Wallpaper  Self Adhesive Watercolor Blooming Floral Contact Paper Wall Paper Murals  for ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91A0K4XnGbL.jpg' alt='17.7"x118" Vintage Gold Flowers Wallpaper 3D Lily Daisy Flower Wallpaper  Self Adhesive Watercolor Blooming Floral Contact Paper Wall Paper Murals  for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91A0K4XnGbL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Painted Flowers MF40105">
+                                <img itemprop="contentUrl url" src='https://mayflowerwallpaper.com/cdn/shop/products/painted-flowers-mf40105-935398.jpg?v=1675882002' alt='Painted Flowers MF40105'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1119">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mayflower Wallpaper" />
+                                </span>
+                                <a href='https://mayflowerwallpaper.com/cdn/shop/products/painted-flowers-mf40105-935398.jpg?v=1675882002' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold flowers on a black background. Seamless vector pattern for ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/66/90/c9/6690c9d64e301a5936ef17afd21afeba.jpg' alt='Gold flowers on a black background. Seamless vector pattern for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/66/90/c9/6690c9d64e301a5936ef17afd21afeba.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Golden Color Flowers Wallpaper Wall Mural, Big Flowers ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18000923/r/il/5cc17a/5472420466/il_570xN.5472420466_apns.jpg' alt='3D Golden Color Flowers Wallpaper Wall Mural, Big Flowers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="569">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18000923/r/il/5cc17a/5472420466/il_570xN.5472420466_apns.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

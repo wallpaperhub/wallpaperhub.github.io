@@ -1,0 +1,129 @@
+<title>Best Text Color for Green Background: A Simple Guide</title>
+                    <meta name="description" content="Discover the best text colors for vibrant green backgrounds. Ensure optimal readability and aesthetic appeal with our simple guide. Perfect for web design, graphics, and presentations. Get insights on creating stunning contrasts for effective communication!">
+                    <meta name="keywords" content="best text color for green background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/best-text-color-for-green-background">
+                            <span itemprop="name">best text color for green background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Best Text Color for Green Background: A Simple Guide</h1>
+                <p>When choosing the best text color for a green background, high contrast is crucial for readability. White or light gray offer clarity and visibility, while black or dark blue can create a striking contrast. Consider softer greens with darker text for a cohesive, harmonious look. Test combinations to ensure legibility!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Contrast Background and Foreground Colors in Web Design">
+                                <img itemprop="contentUrl url" src='https://www.thoughtco.com/thmb/V-lOukUT4Wd9BI-vAq_GX5ZoCtI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Color-Contrast-Chart-59091b973df78c9283e31928.jpg' alt='How to Contrast Background and Foreground Colors in Web Design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ThoughtCo" />
+                                </span>
+                                <a href='https://www.thoughtco.com/thmb/V-lOukUT4Wd9BI-vAq_GX5ZoCtI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Color-Contrast-Chart-59091b973df78c9283e31928.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Selecting Contrasting Text Color Based On Background Color">
+                                <img itemprop="contentUrl url" src='https://bennadel-cdn.com/resources/uploads/2007/text_color_by_background.gif' alt='Selecting Contrasting Text Color Based On Background Color'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="545">
+                                <meta itemprop="height" content="569">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ben Nadel" />
+                                </span>
+                                <a href='https://bennadel-cdn.com/resources/uploads/2007/text_color_by_background.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A much better guide to how readable colored texts on backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/vngds6x4ng771.png' alt='A much better guide to how readable colored texts on backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1211">
+                                <meta itemprop="height" content="705">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/vngds6x4ng771.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What color is the best to match with green when creating a logo ...">
+                                <img itemprop="contentUrl url" src='https://qph.cf2.quoracdn.net/main-qimg-8980888013319374582ba480651b66e9.webp' alt='What color is the best to match with green when creating a logo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="347">
+                                <meta itemprop="height" content="471">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Quora" />
+                                </span>
+                                <a href='https://qph.cf2.quoracdn.net/main-qimg-8980888013319374582ba480651b66e9.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colors that Go with Green in Websites - ColibriWP Blog">
+                                <img itemprop="contentUrl url" src='https://colibriwp.com/blog/wp-content/uploads/2020/01/green-white-website.png' alt='Colors that Go with Green in Websites - ColibriWP Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="940">
+                                <meta itemprop="height" content="462">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Colibri WP" />
+                                </span>
+                                <a href='https://colibriwp.com/blog/wp-content/uploads/2020/01/green-white-website.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Signs and color contrast">
+                                <img itemprop="contentUrl url" src='https://www.designworkplan.com/media/pages/read/signage-and-color-contrast/408bc69122-1722358065/arthur-passini-color-wayfinding-01.png' alt='Signs and color contrast'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Work Plan" />
+                                </span>
+                                <a href='https://www.designworkplan.com/media/pages/read/signage-and-color-contrast/408bc69122-1722358065/arthur-passini-color-wayfinding-01.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colors that Go with Green in Websites - ColibriWP Blog">
+                                <img itemprop="contentUrl url" src='https://colibriwp.com/blog/wp-content/uploads/2020/01/green-yellow-white-website.png' alt='Colors that Go with Green in Websites - ColibriWP Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="940">
+                                <meta itemprop="height" content="464">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Colibri WP" />
+                                </span>
+                                <a href='https://colibriwp.com/blog/wp-content/uploads/2020/01/green-yellow-white-website.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Logo Color Combinations to Inspire Your Design | Looka">
+                                <img itemprop="contentUrl url" src='https://cdn.logojoy.com/wp-content/uploads/20220214133338/mustard-sage-and-forest-green-color-combinations.png' alt='50 Logo Color Combinations to Inspire Your Design | Looka'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1037">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Looka" />
+                                </span>
+                                <a href='https://cdn.logojoy.com/wp-content/uploads/20220214133338/mustard-sage-and-forest-green-color-combinations.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colors that Go with Green in Websites - ColibriWP Blog">
+                                <img itemprop="contentUrl url" src='https://colibriwp.com/blog/wp-content/uploads/2020/01/green-red-white-website.png' alt='Colors that Go with Green in Websites - ColibriWP Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="940">
+                                <meta itemprop="height" content="441">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Colibri WP" />
+                                </span>
+                                <a href='https://colibriwp.com/blog/wp-content/uploads/2020/01/green-red-white-website.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="algorithm - Determine font color based on background color - Stack ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/cFX4P.jpg' alt='algorithm - Determine font color based on background color - Stack ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1262">
+                                <meta itemprop="height" content="1376">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/cFX4P.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

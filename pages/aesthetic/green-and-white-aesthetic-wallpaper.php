@@ -1,0 +1,129 @@
+<title>Green & White Aesthetic Wallpaper: Nature-Inspired Decor</title>
+                    <meta name="description" content="Discover stunning green and white aesthetic wallpaper to transform your interior. Perfect for adding a fresh and calming vibe, these wallpapers enhance any space with style and tranquility. Explore various designs that suit your taste and elevate your home decor effortlessly. Perfect for a refreshing touch!">
+                    <meta name="keywords" content="green and white aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/green-and-white-aesthetic-wallpaper">
+                            <span itemprop="name">green and white aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Green & White Aesthetic Wallpaper: Nature-Inspired Decor</h1>
+                <p>Elevate your space with green and white aesthetic wallpaper, perfect for creating a serene and stylish atmosphere. This combination not only brings a fresh natural vibe but also enhances light and openness in any room. Ideal for bedrooms, living areas, or offices, these designs make a statement while promoting tranquility and harmony in your surroundings.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green And White Aesthetic Collage Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/green-and-white-aesthetic-collage-vqzl11nfyuevqj2w.jpg' alt='Green And White Aesthetic Collage Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="864">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/green-and-white-aesthetic-collage-vqzl11nfyuevqj2w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="green and white aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f0/fe/ec/f0feecdb7bd3532ca01dd558034a2995.jpg' alt='green and white aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="677">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f0/fe/ec/f0feecdb7bd3532ca01dd558034a2995.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="aesthetic white and green theme">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/60/4f/93/604f9342222997b8db588531004d195a.jpg' alt='aesthetic white and green theme'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1635">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/60/4f/93/604f9342222997b8db588531004d195a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Green White Wallpapers Background Images, HD Pictures ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20230120/pngtree-aesthetic-green-leaf-background-wallpaper-image_1539206.jpg' alt='Aesthetic Green White Wallpapers Background Images, HD Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="202">
+                                <meta itemprop="height" content="404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20230120/pngtree-aesthetic-green-leaf-background-wallpaper-image_1539206.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Green And White Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/lime-slices-green-and-white-aesthetic-li3mwr63sp22vulk.jpg' alt='100+] Green And White Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="1741">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/lime-slices-green-and-white-aesthetic-li3mwr63sp22vulk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green And White Aesthetic Watercolor Painting Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/green-and-white-aesthetic-watercolor-painting-zqy404qtg4mwr05n.jpg' alt='Green And White Aesthetic Watercolor Painting Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/green-and-white-aesthetic-watercolor-painting-zqy404qtg4mwr05n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Monstera Leaves Green And White Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/monstera-leaves-green-and-white-aesthetic-1l4zxdqeylybiz5x.jpg' alt='Monstera Leaves Green And White Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/monstera-leaves-green-and-white-aesthetic-1l4zxdqeylybiz5x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sage Green Aesthetic Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/elegant-hand-painted-floral-watercolour-background_1048-19910.jpg' alt='Sage Green Aesthetic Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="444">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/elegant-hand-painted-floral-watercolour-background_1048-19910.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Leaf, aesthetic, green, minimal, white, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/196/1016/HD-wallpaper-leaf-aesthetic-green-minimal-white.jpg' alt='Leaf, aesthetic, green, minimal, white, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/196/1016/HD-wallpaper-leaf-aesthetic-green-minimal-white.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Flowers With Dark Green Background Wallpaper - Happywall">
+                                <img itemprop="contentUrl url" src='https://happywall-img-gallery.imgix.net/69994/white_flowers_with_dark_green_background_limited.jpg' alt='White Flowers With Dark Green Background Wallpaper - Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-img-gallery.imgix.net/69994/white_flowers_with_dark_green_background_limited.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

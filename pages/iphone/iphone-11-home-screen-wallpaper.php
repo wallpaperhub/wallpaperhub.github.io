@@ -1,0 +1,129 @@
+<title>Stunning iPhone 11 Home Screen Wallpapers</title>
+                    <meta name="description" content="Discover the best wallpapers for your iPhone 11 home screen! Choose from a variety of stunning designs to personalize your device and make it uniquely yours. Our collection includes vibrant colors, nature themes, and minimalist artistry optimized for your screen. Find your perfect wallpaper today!">
+                    <meta name="keywords" content="iphone 11 home screen wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-11-home-screen-wallpaper">
+                            <span itemprop="name">iphone 11 home screen wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning iPhone 11 Home Screen Wallpapers</h1>
+                <p>Explore stunning iPhone 11 home screen wallpaper options that elevate your device's aesthetic. From vibrant nature scenes to minimalist designs, find the perfect wallpaper to express your personality. Transform your home screen into a work of art with high-quality images tailored for the iPhone 11's display.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 11 Pro Max Home Screen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d1/83/15/d1831538b7a75a29ee0096917e5c46ec.jpg' alt='iPhone 11 Pro Max Home Screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d1/83/15/d1831538b7a75a29ee0096917e5c46ec.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Image "a Vibrant Blurry View Of An Iphone 11" Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/image-a-vibrant-blurry-view-of-an-iphone-11-eq5rsyfg4dlywoz2-3.jpg' alt='Image "a Vibrant Blurry View Of An Iphone 11" Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="878">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/image-a-vibrant-blurry-view-of-an-iphone-11-eq5rsyfg4dlywoz2-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Am I dumb or is there no option to have an Apple wallpaper in my ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/am-i-dumb-or-is-there-no-option-to-have-an-apple-wallpaper-v0-l9lp6f759yya1.jpg?width=640&crop=smart&auto=webp&s=fe075a633a797e9d971994a11e81275a05c18663' alt='Am I dumb or is there no option to have an Apple wallpaper in my ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/am-i-dumb-or-is-there-no-option-to-have-an-apple-wallpaper-v0-l9lp6f759yya1.jpg?width=640&crop=smart&auto=webp&s=fe075a633a797e9d971994a11e81275a05c18663' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ocean Waves iPhone Wallpaper | 10+ Amazing iPhone Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/89/f3/e6/89f3e6388471d46383d4ca0b3fd2bc6e.jpg' alt='Ocean Waves iPhone Wallpaper | 10+ Amazing iPhone Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/89/f3/e6/89f3e6388471d46383d4ca0b3fd2bc6e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 11 Pro Max screen colour issues - Apple Community">
+                                <img itemprop="contentUrl url" src='https://discussions.apple.com/content/attachment/e1212d1f-3f94-4672-8c7b-e508635d997a' alt='iPhone 11 Pro Max screen colour issues - Apple Community'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1149">
+                                <meta itemprop="height" content="1215">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Support Communities" />
+                                </span>
+                                <a href='https://discussions.apple.com/content/attachment/e1212d1f-3f94-4672-8c7b-e508635d997a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pac-Man iPhone Wallpaper – Jeffrey Carl Faden's Blog">
+                                <img itemprop="contentUrl url" src='http://www.jeffreyatw.com/static/images/pacman/pacman_12promax4.png' alt='Pac-Man iPhone Wallpaper – Jeffrey Carl Faden's Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JeffreyATW" />
+                                </span>
+                                <a href='http://www.jeffreyatw.com/static/images/pacman/pacman_12promax4.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] iPhone 11 Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/iphone-11-planet-colors-wbj1el7s9kqdikkh.jpg' alt='200+] iPhone 11 Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/iphone-11-planet-colors-wbj1el7s9kqdikkh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Wallpapers & iOS Setups - Graphic design applied to UX ...">
+                                <img itemprop="contentUrl url" src='https://chensio.com/wallpaper/sunset-retro/Wallpaper-sunset-retro-gradient-lock-screen-designed-by-Carlos-Asencio-CHENSIO-dot-COM.jpg' alt='iPhone Wallpapers & iOS Setups - Graphic design applied to UX ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="944">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CHENSIO.COM" />
+                                </span>
+                                <a href='https://chensio.com/wallpaper/sunset-retro/Wallpaper-sunset-retro-gradient-lock-screen-designed-by-Carlos-Asencio-CHENSIO-dot-COM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ios - iPhone 11 doesn't display wallpaper with same colors ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/MRXnQ.jpg' alt='ios - iPhone 11 doesn't display wallpaper with same colors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple StackExchange" />
+                                </span>
+                                <a href='https://i.sstatic.net/MRXnQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Home screen wallpaper hd 2025 1080p">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/834/457/HD-wallpaper-iphone-blue-home-screen-iphone-lock-screen-maroon-mountain-orange-thumbnail.jpg' alt='Home screen wallpaper hd 2025 1080p'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="676">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/834/457/HD-wallpaper-iphone-blue-home-screen-iphone-lock-screen-maroon-mountain-orange-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

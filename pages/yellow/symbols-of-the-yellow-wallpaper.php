@@ -1,0 +1,129 @@
+<title>Decoding the Symbols in "The Yellow Wallpaper"</title>
+                    <meta name="description" content="Explore the powerful symbols in "The Yellow Wallpaper" by Charlotte Perkins Gilman. Understand how the wallpaper reflects themes of confinement, identity, and mental health, revealing deeper truths about women's roles in society and their quest for freedom. Perfect for literature enthusiasts and students alike!">
+                    <meta name="keywords" content="symbols of the yellow wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/symbols-of-the-yellow-wallpaper">
+                            <span itemprop="name">symbols of the yellow wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Decoding the Symbols in "The Yellow Wallpaper"</h1>
+                <p>Charlotte Perkins Gilman's "The Yellow Wallpaper" is rich in symbolism, particularly revolving around the wallpaper itself, which represents the confinement and repression of women's mental health. The narrator's obsession with the patterns reflects her struggle against societal constraints, ultimately symbolizing the fight for autonomy and liberation.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Themes, Symbols & Motifs Activity for The Yellow Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn.storyboardthat.com/storyboard-srcsets/kristy-littlehale/themes--symbols--and-motifs-in--the-yellow-wall-paper-.png' alt='Themes, Symbols & Motifs Activity for The Yellow Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1338">
+                                <meta itemprop="height" content="623">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Storyboard That" />
+                                </span>
+                                <a href='https://cdn.storyboardthat.com/storyboard-srcsets/kristy-littlehale/themes--symbols--and-motifs-in--the-yellow-wall-paper-.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Symbolism in The Yellow Wallpaper | PoetrySoup.com">
+                                <img itemprop="contentUrl url" src='https://www.poetrysoup.com/images/bio_images/TeamPoetrySoup1475/photos/ps_Symbolism_in_The_Yellow_Wallpaper-9808.jpg' alt='Symbolism in The Yellow Wallpaper | PoetrySoup.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PoetrySoup.com" />
+                                </span>
+                                <a href='https://www.poetrysoup.com/images/bio_images/TeamPoetrySoup1475/photos/ps_Symbolism_in_The_Yellow_Wallpaper-9808.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gilman's Clever Use of Symbolism | American Literature II: Fall 2012">
+                                <img itemprop="contentUrl url" src='https://litlovinglea.wordpress.com/wp-content/uploads/2012/09/the_yellow_wallpaper_by_cxsankh.jpg' alt='Gilman's Clever Use of Symbolism | American Literature II: Fall 2012'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="534">
+                                <meta itemprop="height" content="716">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="American Literature II: Fall 2012 - WordPress.com" />
+                                </span>
+                                <a href='https://litlovinglea.wordpress.com/wp-content/uploads/2012/09/the_yellow_wallpaper_by_cxsankh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper Summary and Analysis - College Transitions">
+                                <img itemprop="contentUrl url" src='https://www.collegetransitions.com/wp-content/uploads/2023/07/blog-YellowWallpaper-1460x822-1.webp' alt='The Yellow Wallpaper Summary and Analysis - College Transitions'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1460">
+                                <meta itemprop="height" content="822">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="College Transitions" />
+                                </span>
+                                <a href='https://www.collegetransitions.com/wp-content/uploads/2023/07/blog-YellowWallpaper-1460x822-1.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper: Symbolism by Baylee McDonald on Prezi">
+                                <img itemprop="contentUrl url" src='https://0901.static.prezi.com/preview/v2/gi7zl4uacgfaigkju7pvj3czy76jc3sachvcdoaizecfr3dnitcq_3_0.png' alt='The Yellow Wallpaper: Symbolism by Baylee McDonald on Prezi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="269">
+                                <meta itemprop="height" content="160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Prezi" />
+                                </span>
+                                <a href='https://0901.static.prezi.com/preview/v2/gi7zl4uacgfaigkju7pvj3czy76jc3sachvcdoaizecfr3dnitcq_3_0.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper Study Guide | Course Hero">
+                                <img itemprop="contentUrl url" src='https://www.coursehero.com/net-assets/lit/infographic_thumb_ov/562.jpg' alt='The Yellow Wallpaper Study Guide | Course Hero'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Course Hero" />
+                                </span>
+                                <a href='https://www.coursehero.com/net-assets/lit/infographic_thumb_ov/562.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow in 'The Yellow Wallpaper' – A Literary Analysis - Yoof">
+                                <img itemprop="contentUrl url" src='https://yoofmag.com/wp-content/uploads/2022/08/Yellow-in-%E2%80%98The-Yellow-Wallpaper-1-scaled.jpg' alt='Yellow in 'The Yellow Wallpaper' – A Literary Analysis - Yoof'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yoof - Magazine" />
+                                </span>
+                                <a href='https://yoofmag.com/wp-content/uploads/2022/08/Yellow-in-%E2%80%98The-Yellow-Wallpaper-1-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper by Charlotte Perkins Gilman | Themes - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/mKHwuYOzYus/sddefault.jpg' alt='The Yellow Wallpaper by Charlotte Perkins Gilman | Themes - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/mKHwuYOzYus/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper Themes & Symbols: Gender Roles, Freedom, etc ...">
+                                <img itemprop="contentUrl url" src='https://ivypanda.com/lit/wp-content/uploads/2021/06/03_yellow_wallpaper.png' alt='The Yellow Wallpaper Themes & Symbols: Gender Roles, Freedom, etc ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1408">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IvyPanda" />
+                                </span>
+                                <a href='https://ivypanda.com/lit/wp-content/uploads/2021/06/03_yellow_wallpaper.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Themes, Symbols & Motifs Activity for The Yellow Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn.storyboardthat.com/storyboard-cells/3132232/cell-col-0-row-0.png' alt='Themes, Symbols & Motifs Activity for The Yellow Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="271">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Storyboard That" />
+                                </span>
+                                <a href='https://cdn.storyboardthat.com/storyboard-cells/3132232/cell-col-0-row-0.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning iPhone 10 Wallpapers - Fresh Designs for Your Device</title>
+                    <meta name="description" content="Discover a diverse selection of eye-catching wallpapers for your iPhone 10. Transform your device with beautiful images that reflect your style and personality. Browse our curated collection and find the perfect wallpaper to enhance your iPhone experience! Perfect for all tastes and occasions.">
+                    <meta name="keywords" content="wallpaper iphone 10">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/wallpaper-iphone-10">
+                            <span itemprop="name">wallpaper iphone 10</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning iPhone 10 Wallpapers - Fresh Designs for Your Device</h1>
+                <p>Your iPhone 10 deserves a fresh look with stunning wallpapers! Explore our collection of vibrant, high-resolution wallpapers tailored specifically for the iPhone 10 screen. Whether you prefer nature scenes, abstract art, or minimalistic designs, find the perfect wallpaper to express your personal style and enhance your device's appeal.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="360 IPhone X wallpapers ideas | iphone wallpaper, apple wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/a5/3d/ee/a53deec4b43e4995470906eba2390be4.jpg' alt='360 IPhone X wallpapers ideas | iphone wallpaper, apple wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/a5/3d/ee/a53deec4b43e4995470906eba2390be4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iOS 10 Green Wave Wallpaper - Apple Community">
+                                <img itemprop="contentUrl url" src='https://discussions.apple.com/content/attachment/3bc71de9-b6c5-49f7-b22a-f6ec926d248a' alt='iOS 10 Green Wave Wallpaper - Apple Community'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="872">
+                                <meta itemprop="height" content="1634">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Support Community" />
+                                </span>
+                                <a href='https://discussions.apple.com/content/attachment/3bc71de9-b6c5-49f7-b22a-f6ec926d248a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Iphone X Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/iphone-x-0pu7qjbgrvvpaj13.jpg' alt='200+] Iphone X Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/iphone-x-0pu7qjbgrvvpaj13.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="360 IPhone X wallpapers ideas | iphone wallpaper, apple wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/02/2a/72/022a72d5fef51f9df3921cbcf6b6b6e6.jpg' alt='360 IPhone X wallpapers ideas | iphone wallpaper, apple wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/02/2a/72/022a72d5fef51f9df3921cbcf6b6b6e6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ios 11, Iphone X, Orange, Green, Blue, Stock, Abstract, Apple ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/ios-11-iphone-x-orange-green-blue-stock-abstract-apple-6ywejvjxjt5rnh7h.jpg' alt='Ios 11, Iphone X, Orange, Green, Blue, Stock, Abstract, Apple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="878">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/ios-11-iphone-x-orange-green-blue-stock-abstract-apple-6ywejvjxjt5rnh7h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD iphone wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/1011/978/HD-wallpaper-iphone-xs-iphone-x-iphone-xs-apple-android-google-zenphone-oneplus-p20pro-planet.jpg' alt='HD iphone wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1659">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/1011/978/HD-wallpaper-iphone-xs-iphone-x-iphone-xs-apple-android-google-zenphone-oneplus-p20pro-planet.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download the Real iOS 10 Wallpaper for iPhone - iClarified">
+                                <img itemprop="contentUrl url" src='https://www.iclarified.com/images/news/55648/265174/265174.png' alt='Download the Real iOS 10 Wallpaper for iPhone - iClarified'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2706">
+                                <meta itemprop="height" content="2706">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iClarified" />
+                                </span>
+                                <a href='https://www.iclarified.com/images/news/55648/265174/265174.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9 Iphone 10 ideas | apple wallpaper, apple wallpaper iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0f/73/8f/0f738f0b442b0373a520e32ba93be851.jpg' alt='9 Iphone 10 ideas | apple wallpaper, apple wallpaper iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="515">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0f/73/8f/0f738f0b442b0373a520e32ba93be851.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Wallpaper Summer: 10 Stunning Designs for Your Screen">
+                                <img itemprop="contentUrl url" src='https://skyryedesign.com/wp-content/uploads/2024/05/56a7fdf8e3b037f64c5f517e74cd40e0-576x1024.jpg' alt='iPhone Wallpaper Summer: 10 Stunning Designs for Your Screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sky Rye Design" />
+                                </span>
+                                <a href='https://skyryedesign.com/wp-content/uploads/2024/05/56a7fdf8e3b037f64c5f517e74cd40e0-576x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone 10, apple, curve, edge, iphone x, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/248/742/HD-wallpaper-iphone-10-apple-curve-edge-iphone-x.jpg' alt='Iphone 10, apple, curve, edge, iphone x, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/248/742/HD-wallpaper-iphone-10-apple-curve-edge-iphone-x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

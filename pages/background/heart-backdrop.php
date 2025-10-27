@@ -1,0 +1,129 @@
+<title>Stunning Heart Backdrops for Romantic Occasions</title>
+                    <meta name="description" content="Add charm and romance to your events with our beautiful heart backdrops. Perfect for weddings and anniversaries, these eye-catching designs create a love-filled atmosphere for unforgettable memories and stunning photos. Explore our selection for your special day!">
+                    <meta name="keywords" content="heart backdrop">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/heart-backdrop">
+                            <span itemprop="name">heart backdrop</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Heart Backdrops for Romantic Occasions</h1>
+                <p>Transform any event into a romantic wonder with a heart backdrop! Ideal for weddings, anniversaries, or Valentine's Day celebrations, heart backdrops set a perfect tone for memorable photos. Available in various designs and colors, they add a touch of love and elegance to any setting, ensuring your special moments shine bright.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LYCGS 7x5ft Red Heart Backdrop 90s Backdrops for Photoshoot Valentines  Decor Banner Birthday Props X-91">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61K1i1DuN2L._AC_UF894,1000_QL80_.jpg' alt='LYCGS 7x5ft Red Heart Backdrop 90s Backdrops for Photoshoot Valentines  Decor Banner Birthday Props X-91'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="639">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61K1i1DuN2L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kate Valentine's Day Pink Heart Backdrop Designed by Chain Photography">
+                                <img itemprop="contentUrl url" src='https://www.katebackdrop.com/cdn/shop/files/BH1047994G.jpg?v=1700816523&width=1000' alt='Kate Valentine's Day Pink Heart Backdrop Designed by Chain Photography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kate Backdrop" />
+                                </span>
+                                <a href='https://www.katebackdrop.com/cdn/shop/files/BH1047994G.jpg?v=1700816523&width=1000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LYCGS 7x5ft Pink Heart Backdrop 90s Backdrops for Photoshoot Valentines  Decor Banner Birthday Props X-118">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61VAUtbuOeL.jpg' alt='LYCGS 7x5ft Pink Heart Backdrop 90s Backdrops for Photoshoot Valentines  Decor Banner Birthday Props X-118'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1240">
+                                <meta itemprop="height" content="886">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61VAUtbuOeL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Theme Backdrop Heart Balloon Backdrop BRP10-286">
+                                <img itemprop="contentUrl url" src='http://www.dbackdrop.com/cdn/shop/files/BRP10-286.jpg?v=1729580157' alt='Retro Theme Backdrop Heart Balloon Backdrop BRP10-286'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dbackdrop" />
+                                </span>
+                                <a href='http://www.dbackdrop.com/cdn/shop/files/BRP10-286.jpg?v=1729580157' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Early 2000s Black Heart Photo Backdrop 90s Love Valentines Wedding ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/23673653/r/il/28b902/3352635656/il_570xN.3352635656_mjqq.jpg' alt='Early 2000s Black Heart Photo Backdrop 90s Love Valentines Wedding ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/23673653/r/il/28b902/3352635656/il_570xN.3352635656_mjqq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6.5ft Party & Hoop Balloon Heart Shape Loop Flower Arch Photo Booth  Backdrop Stand Heart Backdrop">
+                                <img itemprop="contentUrl url" src='https://www.ubackdrop.com/cdn/shop/products/heartstand7_2.jpg?v=1708930379&width=1445' alt='6.5ft Party & Hoop Balloon Heart Shape Loop Flower Arch Photo Booth  Backdrop Stand Heart Backdrop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ubackdrop" />
+                                </span>
+                                <a href='https://www.ubackdrop.com/cdn/shop/products/heartstand7_2.jpg?v=1708930379&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Heart Backdrop Valentine's Day Photography Backdrop Birthday Party  Photo Backdrop Newborn Kids Portrait Photo Background Props">
+                                <img itemprop="contentUrl url" src='https://www.dreamybackdrop.com/cdn/shop/products/Blue-Heart-Backdrop-Early-2000s-Photography-Backdrop-Birthday-Party-Photo-Backdrop-Newborn-Kids-Portrait-Photo-Background.jpg_Q90_1_800x.jpg?v=1609579666' alt='Blue Heart Backdrop Valentine's Day Photography Backdrop Birthday Party  Photo Backdrop Newborn Kids Portrait Photo Background Props'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="dreamybackdrop" />
+                                </span>
+                                <a href='https://www.dreamybackdrop.com/cdn/shop/products/Blue-Heart-Backdrop-Early-2000s-Photography-Backdrop-Birthday-Party-Photo-Backdrop-Newborn-Kids-Portrait-Photo-Background.jpg_Q90_1_800x.jpg?v=1609579666' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Hearts Love Valentine Backdrop for Photography VAT-31">
+                                <img itemprop="contentUrl url" src='http://www.dbackdrop.com/cdn/shop/products/VAT-31--red-hearts-sparkles-for-wedding-photography-backdrop_1024x1024_d57c1001-0cdf-4c23-a6bb-e5e15b72201a.jpg?v=1608540349' alt='Red Hearts Love Valentine Backdrop for Photography VAT-31'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="788">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dbackdrop" />
+                                </span>
+                                <a href='http://www.dbackdrop.com/cdn/shop/products/VAT-31--red-hearts-sparkles-for-wedding-photography-backdrop_1024x1024_d57c1001-0cdf-4c23-a6bb-e5e15b72201a.jpg?v=1608540349' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart Mirror Gold Wedding Backdrop - Cupid Arch Metal Stand">
+                                <img itemprop="contentUrl url" src='https://decormaniacs.com/cdn/shop/files/Heart-Mirror-Gold-Wedding-Backdrop-Cupid-Arch-Meta-7_550x550.webp?v=1728871026' alt='Heart Mirror Gold Wedding Backdrop - Cupid Arch Metal Stand'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Décor Maniacs" />
+                                </span>
+                                <a href='https://decormaniacs.com/cdn/shop/files/Heart-Mirror-Gold-Wedding-Backdrop-Cupid-Arch-Meta-7_550x550.webp?v=1728871026' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Heart">
+                                <img itemprop="contentUrl url" src='http://www.hsdbackdrops.com/cdn/shop/products/VD2238x6Valentine_sBackdropforPhotography_5bab4a1a-48c3-4500-92c1-75bee701b1d9.jpg?v=1638242947' alt='Floral Heart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HSD Backdrops" />
+                                </span>
+                                <a href='http://www.hsdbackdrops.com/cdn/shop/products/VD2238x6Valentine_sBackdropforPhotography_5bab4a1a-48c3-4500-92c1-75bee701b1d9.jpg?v=1638242947' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

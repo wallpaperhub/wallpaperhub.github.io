@@ -1,0 +1,129 @@
+<title>Brighten Your Space: Yellow and White Wallpaper Ideas</title>
+                    <meta name="description" content="Transform your home with yellow and white wallpaper. This vibrant duo enhances light and brings warmth to any space. Discover how to incorporate this cheerful design into your decor, perfect for creating an inviting atmosphere in any room. Ideal for various styles, it's time to elevate your interior!">
+                    <meta name="keywords" content="yellow and white wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/yellow-and-white-wallpaper">
+                            <span itemprop="name">yellow and white wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Brighten Your Space: Yellow and White Wallpaper Ideas</h1>
+                <p>Yellow and white wallpaper brings a cheerful and fresh vibe to any room. This color combination enhances natural light, creating an inviting atmosphere. Ideal for both modern and classic interiors, this wallpaper style complements various furnishings and decor themes. Perfect for living rooms, bedrooms, or hallways, it inspires creativity and warmth.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Norwall SD25650 Document Damask Prepasted Wallpaper, Yellow, White -  Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/816UHUBfpgL.jpg' alt='Norwall SD25650 Document Damask Prepasted Wallpaper, Yellow, White -  Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/816UHUBfpgL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Margaret Stripe">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/lavinia-stripe-llfv-l.jpg' alt='Margaret Stripe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/lavinia-stripe-llfv-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Star' Wallpaper by Clare V. - Yellow / White">
+                                <img itemprop="contentUrl url" src='http://www.wallshoppe.com/cdn/shop/products/Star-by-Clare-V_Yellow-on-White_design_9cb7d63c-9269-4ba6-88f9-682c4d8d6207.jpg?v=1633377761' alt=''Star' Wallpaper by Clare V. - Yellow / White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='http://www.wallshoppe.com/cdn/shop/products/Star-by-Clare-V_Yellow-on-White_design_9cb7d63c-9269-4ba6-88f9-682c4d8d6207.jpg?v=1633377761' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1960s Vintage Wallpaper Yellow Flowers on White - Rosie's Vintage ...">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-own6dl/images/stencil/1280x1280/products/4130/13703/vintage-wallpaper-199__00910.1677862870.jpg?c=2' alt='1960s Vintage Wallpaper Yellow Flowers on White - Rosie's Vintage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rosie's Vintage Wallpaper" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-own6dl/images/stencil/1280x1280/products/4130/13703/vintage-wallpaper-199__00910.1677862870.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow and white 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/579/900/HD-wallpaper-yellow-white.jpg' alt='Yellow and white 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/579/900/HD-wallpaper-yellow-white.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Closet Stripe by Farrow & Ball - Pale Yellow / White - Wallpaper - BP 356">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/asset/img/product/105135/tiled/farrow-and-ball-closet-stripe-pale-yellow-white-wallpaper-tiled-105135.jpg' alt='Closet Stripe by Farrow & Ball - Pale Yellow / White - Wallpaper - BP 356'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/asset/img/product/105135/tiled/farrow-and-ball-closet-stripe-pale-yellow-white-wallpaper-tiled-105135.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ditsy Daisy Wallpaper in Lemon Yellow – I Love Wallpaper">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/1-DitsyDaisy_LemonYellow_ILW50499_Thumbnail_WEB_6003c06a-f7ed-4593-8279-fe56c8cdbb22.webp?crop=center&height=1024&v=1714473418&width=1024' alt='Ditsy Daisy Wallpaper in Lemon Yellow – I Love Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/1-DitsyDaisy_LemonYellow_ILW50499_Thumbnail_WEB_6003c06a-f7ed-4593-8279-fe56c8cdbb22.webp?crop=center&height=1024&v=1714473418&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow and White Striped Wallpaper, Stripes Wallpaper, Stripe Wall ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11123188/r/il/bfbacd/4825691126/il_fullxfull.4825691126_8pii.jpg' alt='Yellow and White Striped Wallpaper, Stripes Wallpaper, Stripe Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2250">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11123188/r/il/bfbacd/4825691126/il_fullxfull.4825691126_8pii.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="  ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e7/f3/b4/e7f3b44f2f8435e0fa26b7ca440b050c.jpg' alt='  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e7/f3/b4/e7f3b44f2f8435e0fa26b7ca440b050c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Flower Peel and Stick Removable Wallpaper 1001 | Walls By Me">
+                                <img itemprop="contentUrl url" src='https://wallsbyme.com/cdn/shop/products/Flower_Yellow_Peel_and_Stick_Removable_Wallpaper_Floral_1001_01_grande.jpg?v=1642620116' alt='Yellow Flower Peel and Stick Removable Wallpaper 1001 | Walls By Me'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls By Me" />
+                                </span>
+                                <a href='https://wallsbyme.com/cdn/shop/products/Flower_Yellow_Peel_and_Stick_Removable_Wallpaper_Floral_1001_01_grande.jpg?v=1642620116' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

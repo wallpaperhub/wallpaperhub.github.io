@@ -1,0 +1,129 @@
+<title>Stunning 4K Anime City Wallpapers for Your Phone</title>
+                    <meta name="description" content="Discover breathtaking 4K anime city wallpapers designed for your phone. Perfect for anime enthusiasts, these vibrant images transform your device with stunning urban landscapes. Optimize your phone's aesthetic with our unique selection and stand out from the crowd!">
+                    <meta name="keywords" content="anime city wallpaper 4k phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/anime-city-wallpaper-4k-phone">
+                            <span itemprop="name">anime city wallpaper 4k phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Anime City Wallpapers for Your Phone</h1>
+                <p>Elevate your phone's aesthetic with stunning 4K anime city wallpapers. Immerse yourself in vibrant, artistic urban landscapes and colorful cityscapes, perfect for any anime lover. These high-resolution images add a unique flair to your device, bringing your favorite anime visuals to life right on your screen!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime City Reflection Mobile Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/anime-city-reflection-mobile-fnnqnda2porc9n7j.jpg' alt='Anime City Reflection Mobile Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/anime-city-reflection-mobile-fnnqnda2porc9n7j.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime City Phone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp7588568.jpg' alt='Anime City Phone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp7588568.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Wallpaper 4k Phone Pictures | Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/illustration-anime-city_23-2151779623.jpg' alt='Anime Wallpaper 4k Phone Pictures | Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="358">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/illustration-anime-city_23-2151779623.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Anime iPhone Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fa/05/50/fa05508f96befb2ecd988da85b8b9a87.jpg' alt='Awesome Anime iPhone Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fa/05/50/fa05508f96befb2ecd988da85b8b9a87.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime City Phone Wallpaper, Building, 1080x2400 : r/iphonewallpapers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/27zowjisaoja1.jpg' alt='Anime City Phone Wallpaper, Building, 1080x2400 : r/iphonewallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/27zowjisaoja1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime city, natural, house, street, rooms, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/267/989/HD-wallpaper-anime-city-natural-house-street-rooms.jpg' alt='Anime city, natural, house, street, rooms, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/267/989/HD-wallpaper-anime-city-natural-house-street-rooms.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="City - Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a1/0b/c2/a10bc2e77c6349f2b246bd9c17ac12c3.jpg' alt='City - Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1516">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a1/0b/c2/a10bc2e77c6349f2b246bd9c17ac12c3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Aesthetic Phone Anime Wallpapers Pack 1">
+                                <img itemprop="contentUrl url" src='https://storage.ko-fi.com/cdn/useruploads/display/ea8d011f-0280-469b-bc2f-a3935e468ec8_1.jpeg' alt='4K Aesthetic Phone Anime Wallpapers Pack 1'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="1342">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ko-fi" />
+                                </span>
+                                <a href='https://storage.ko-fi.com/cdn/useruploads/display/ea8d011f-0280-469b-bc2f-a3935e468ec8_1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glowing Blue Anime City Mobile Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/glowing-blue-anime-city-mobile-5drg468v2doavju3.jpg' alt='Glowing Blue Anime City Mobile Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/glowing-blue-anime-city-mobile-5drg468v2doavju3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Sunset, city, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/42/808/HD-wallpaper-anime-sunset-city.jpg' alt='Anime Sunset, city, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/42/808/HD-wallpaper-anime-sunset-city.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

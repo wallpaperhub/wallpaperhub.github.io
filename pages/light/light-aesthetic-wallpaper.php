@@ -1,0 +1,129 @@
+<title>Elevate Your Space with Light Aesthetic Wallpaper</title>
+                    <meta name="description" content="Discover the charm of light aesthetic wallpaper. Transform your rooms with soft colors and elegant designs that promote serenity and style. Perfect for any decor, our collection enhances ambiance while remaining visually pleasing. Explore inspiring patterns for a tranquil atmosphere today!">
+                    <meta name="keywords" content="light aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light">
+                            <span itemprop="name">Light</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light/light-aesthetic-wallpaper">
+                            <span itemprop="name">light aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Space with Light Aesthetic Wallpaper</h1>
+                <p>Light aesthetic wallpaper enhances your space with soft hues and dreamy designs. Perfect for minimalist decor, it creates a calm atmosphere while adding a touch of beauty to your walls. From pastel florals to serene landscapes, light aesthetic wallpapers transform any room, making it feel both airy and inviting.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic fairy lights iPhone wallpaper | Premium Photo - rawpixel">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3Y5NTgtYmFja2dyb3VuZC1oZWluLTAyLWFiLmpwZw.jpg' alt='Aesthetic fairy lights iPhone wallpaper | Premium Photo - rawpixel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3Y5NTgtYmFja2dyb3VuZC1oZWluLTAyLWFiLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Light Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/light-aesthetic-x9by78d18oabsnkb.jpg' alt='100+] Light Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/light-aesthetic-x9by78d18oabsnkb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300+] Light Blue Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/light-blue-aesthetic-5tayxnmsjtbemnhi.jpg' alt='300+] Light Blue Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/light-blue-aesthetic-5tayxnmsjtbemnhi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Desktop Light Bulbs Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/aesthetic-desktop-light-bulbs-kjlq338p9sczs1gh-3.jpg' alt='Aesthetic Desktop Light Bulbs Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/aesthetic-desktop-light-bulbs-kjlq338p9sczs1gh-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Purple Aesthetic Sunset Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/light-purple-aesthetic-clouds-rw2vix1r99tji173.webp' alt='Light Purple Aesthetic Sunset Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/light-purple-aesthetic-clouds-rw2vix1r99tji173.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lights, aesthetic, bright, girl, neon, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/927/66/HD-wallpaper-lights-aesthetic-bright-girl-neon.jpg' alt='Lights, aesthetic, bright, girl, neon, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/927/66/HD-wallpaper-lights-aesthetic-bright-girl-neon.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pinterest & instagram: @elchocolategirl">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/23/8f/5b/238f5be338f0cc2e2e7b9db7fa6037ec.jpg' alt='pinterest & instagram: @elchocolategirl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/23/8f/5b/238f5be338f0cc2e2e7b9db7fa6037ec.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5+ Free Lighting+Wood+And+Patio+Lights & Patio Images">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/59/40/0e/59400e9e621ab70a1e06f1d8c1179065.jpg' alt='5+ Free Lighting+Wood+And+Patio+Lights & Patio Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="473">
+                                <meta itemprop="height" content="710">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/59/40/0e/59400e9e621ab70a1e06f1d8c1179065.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Butterfly Light Jar Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/nightlight-in-a-jar-rfwnnnj22c0tm7tj.webp' alt='Butterfly Light Jar Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/nightlight-in-a-jar-rfwnnnj22c0tm7tj.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Aesthetic phone wallpaper background vector, leaf ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/aesthetic-phone-wallpaper-background-vector-leaf-shadow-with-natural-light_53876-154047.jpg' alt='Free Vector | Aesthetic phone wallpaper background vector, leaf ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="352">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/aesthetic-phone-wallpaper-background-vector-leaf-shadow-with-natural-light_53876-154047.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

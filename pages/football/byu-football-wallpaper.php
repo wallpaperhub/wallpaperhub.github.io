@@ -1,0 +1,129 @@
+<title>Stunning BYU Football Wallpapers for Your Devices</title>
+                    <meta name="description" content="Explore our vibrant collection of BYU football wallpapers! Perfect for fans looking to showcase their team spirit, these high-quality images will transform your devices. Download and enjoy the thrill of Cougars football anytime, anywhere!">
+                    <meta name="keywords" content="byu football wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/football">
+                            <span itemprop="name">Football</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/football/byu-football-wallpaper">
+                            <span itemprop="name">byu football wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning BYU Football Wallpapers for Your Devices</h1>
+                <p>Bring the excitement of BYU football to your device with stunning wallpapers! Whether you’re cheering for the Cougars on game day or showing your team spirit every day, our collection features vibrant images of players, logos, and memorable moments. Download now and display your pride wherever you go!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BYU FOOTBALL on X: "                            check out this ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FcE7YVbaIAEE1BQ?format=jpg&name=large' alt='BYU FOOTBALL on X: "                            check out this ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FcE7YVbaIAEE1BQ?format=jpg&name=large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BYU Football - ‪WALLPAPER WEDNESDAY!!     ‬ ‪* Zoom edition‬ ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3179252222085052' alt='BYU Football - ‪WALLPAPER WEDNESDAY!!     ‬ ‪* Zoom edition‬ ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3179252222085052' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BYU FOOTBALL on X: "                               #BYUFOOTBALL ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FiQvgT3UAAQoFda?format=jpg&name=large' alt='BYU FOOTBALL on X: "                               #BYUFOOTBALL ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="946">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FiQvgT3UAAQoFda?format=jpg&name=large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NEW WALLPAPERS   ">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/threads/DAEmlIKz62d/1/image.jpg' alt='NEW WALLPAPERS   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Threads" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/threads/DAEmlIKz62d/1/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BYU FOOTBALL on X: "                               #BYUFOOTBALL ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FiQvgT4VsAEBmH-?format=jpg&name=large' alt='BYU FOOTBALL on X: "                               #BYUFOOTBALL ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="946">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FiQvgT4VsAEBmH-?format=jpg&name=large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BYU, cougars, football, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/237/178/HD-wallpaper-byu-cougars-football.jpg' alt='BYU, cougars, football, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/237/178/HD-wallpaper-byu-cougars-football.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper list | byucougars.com">
+                                <img itemprop="contentUrl url" src='https://byu-cougars-dev.byu-dept-athletics-dev.amazon.byu.edu/sites/default/files/files/wallpaper/iphone_screen2.jpg' alt='Wallpaper list | byucougars.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="byucougars.com" />
+                                </span>
+                                <a href='https://byu-cougars-dev.byu-dept-athletics-dev.amazon.byu.edu/sites/default/files/files/wallpaper/iphone_screen2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BYU">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4f/91/8a/4f918a3ff7016ad34bfe3c5f6d9a5f55.jpg' alt='BYU'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1303">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4f/91/8a/4f918a3ff7016ad34bfe3c5f6d9a5f55.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BYU FOOTBALL on X: "NEW WALLPAPERS    https://t.co/o3y2ZvjhIA" / X">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/GaBjvYRasAAstOi?format=jpg&name=large' alt='BYU FOOTBALL on X: "NEW WALLPAPERS    https://t.co/o3y2ZvjhIA" / X'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/GaBjvYRasAAstOi?format=jpg&name=large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BYU Football - ‪WALLPAPER WEDNESDAY!!     ‬ ‪* Zoom edition‬ ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3179252272085047' alt='BYU Football - ‪WALLPAPER WEDNESDAY!!     ‬ ‪* Zoom edition‬ ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3179252272085047' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

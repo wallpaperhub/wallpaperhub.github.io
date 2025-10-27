@@ -1,0 +1,129 @@
+<title>Discover the Rich History of Milo: A Nutritional Beverage</title>
+                    <meta name="description" content="Explore the delicious background of Milo, the iconic chocolate-malt drink loved for its nutritional benefits. Learn how this energizing beverage has become a staple for children and athletes worldwide. Dive into its history and why it remains a popular choice for families today!">
+                    <meta name="keywords" content="milo background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/milo-background">
+                            <span itemprop="name">milo background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Rich History of Milo: A Nutritional Beverage</h1>
+                <p>Milo is a chocolate and malt powder drink mix that has become a favorite among young and active individuals. Originally developed in Australia in the 1930s, it was designed as a nutritious energy booster. Milo is enriched with vitamins and minerals, making it a popular choice in various countries for breakfast and snacks.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MILO® Protein Drink Poster Design">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/49/ad/f7/49adf7c00acd3c7363388fc028fdb109.jpg' alt='MILO® Protein Drink Poster Design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/49/ad/f7/49adf7c00acd3c7363388fc028fdb109.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Milo — Gual Barwell">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5c620e72f8135a18eca35064/1550011580541-ZUFZKR3P20A04NMVRGBH/CBA-Nestle%CC%81-Milo-Cover1.jpg?format=1500w' alt='Milo — Gual Barwell'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="504">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gual Barwell" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5c620e72f8135a18eca35064/1550011580541-ZUFZKR3P20A04NMVRGBH/CBA-Nestle%CC%81-Milo-Cover1.jpg?format=1500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="@NestleMILOIndia's video Tweet">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/ext_tw_video_thumb/1446461936623779845/pu/img/7f7zs80Tav74gwnn.jpg' alt='@NestleMILOIndia's video Tweet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/ext_tw_video_thumb/1446461936623779845/pu/img/7f7zs80Tav74gwnn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Milo">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/40/e1/5c/40e15c3df34dc24f9826f95be1f30e31.jpg' alt='Milo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/40/e1/5c/40e15c3df34dc24f9826f95be1f30e31.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="EXPLORE PRODUCTS | MILO Nestle Ghana">
+                                <img itemprop="contentUrl url" src='https://www.milo.com.gh/sites/default/files/2022-04/%234277---NESTLE-MILO-2022---Website-Creation-MILO_Product_Master-Content-Tracker_0.png' alt='EXPLORE PRODUCTS | MILO Nestle Ghana'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="654">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MILO Nestle Ghana" />
+                                </span>
+                                <a href='https://www.milo.com.gh/sites/default/files/2022-04/%234277---NESTLE-MILO-2022---Website-Creation-MILO_Product_Master-Content-Tracker_0.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brand Product page: MILO® | Nestle Professional">
+                                <img itemprop="contentUrl url" src='https://www.nestleprofessional.ph/sites/default/files/2023-03/MILO_Decal_737.jpg' alt='Brand Product page: MILO® | Nestle Professional'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="737">
+                                <meta itemprop="height" content="555">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nestlé Professional" />
+                                </span>
+                                <a href='https://www.nestleprofessional.ph/sites/default/files/2023-03/MILO_Decal_737.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Milo Nestle Projects :: Photos, videos, logos, illustrations and ...">
+                                <img itemprop="contentUrl url" src='https://mir-s3-cdn-cf.behance.net/projects/404/f734fb120557355.Y3JvcCwyODY4LDIyNDQsNjE3LDA.jpg' alt='Milo Nestle Projects :: Photos, videos, logos, illustrations and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="404">
+                                <meta itemprop="height" content="316">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Behance" />
+                                </span>
+                                <a href='https://mir-s3-cdn-cf.behance.net/projects/404/f734fb120557355.Y3JvcCwyODY4LDIyNDQsNjE3LDA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="@MILOSouthAfrica's video Tweet">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/ext_tw_video_thumb/1491715569380429826/pu/img/vfYxiccpSi8cvQwH.jpg:large' alt='@MILOSouthAfrica's video Tweet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/ext_tw_video_thumb/1491715569380429826/pu/img/vfYxiccpSi8cvQwH.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Milo (drink) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/3/31/Milo_brand_logo.svg' alt='Milo (drink) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="386">
+                                <meta itemprop="height" content="258">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/3/31/Milo_brand_logo.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Milo Nestle Logo Spoof Luxo Lamp">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/8zC76DnTS4A/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAVFgz2DMKZcwg4fmDKwyeTV7g6Cw' alt='Milo Nestle Logo Spoof Luxo Lamp'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/8zC76DnTS4A/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAVFgz2DMKZcwg4fmDKwyeTV7g6Cw' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

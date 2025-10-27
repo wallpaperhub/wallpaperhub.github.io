@@ -1,0 +1,129 @@
+<title>Cute Kirby Wallpaper GIFs: Adorable Animations for Your Device</title>
+                    <meta name="description" content="Discover a collection of cute Kirby wallpaper GIFs that brighten your device. These delightful animations showcase Kirby in playful poses, adding a touch of charm and fun to your home screen. Perfect for any fan, download your favorite GIFs now for a joyful experience!">
+                    <meta name="keywords" content="cute kirby wallpaper gif">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-kirby-wallpaper-gif">
+                            <span itemprop="name">cute kirby wallpaper gif</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cute Kirby Wallpaper GIFs: Adorable Animations for Your Device</h1>
+                <p>Transform your device with adorable Kirby wallpaper GIFs! These charming animations feature the lovable pink puffball in various adorable poses, perfect for fans of all ages. From cute expressions to playful antics, these wallpapers bring joy to your screen. Elevate your aesthetic with Kirby magic today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/fa/8c/24/fa8c248ccd02d76b7b321da88c75a0e1.gif' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="301">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/fa/8c/24/fa8c248ccd02d76b7b321da88c75a0e1.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/dc/fd/a6/dcfda61219fe1ff4edb6eb6335f453fe.gif' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="690">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/dc/fd/a6/dcfda61219fe1ff4edb6eb6335f453fe.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kirby colored with stars *o* I have to put more colored gifs or ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/4d4eba3dc27aa7f34c4a70ffa52fb135/tumblr_n92ufeCBaI1t1ig6no1_r1_640.gif' alt='Kirby colored with stars *o* I have to put more colored gifs or ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/4d4eba3dc27aa7f34c4a70ffa52fb135/tumblr_n92ufeCBaI1t1ig6no1_r1_640.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kirby">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/b0/d3/72/b0d3728ddd1616ee3903525291f3be60.gif' alt='Kirby'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="384">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/b0/d3/72/b0d3728ddd1616ee3903525291f3be60.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Kirby GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/a53Hg9qlXoUAAAAM/%EC%95%84%EB%A9%94%EB%B0%A5.gif' alt='Cute Kirby GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/a53Hg9qlXoUAAAAM/%EC%95%84%EB%A9%94%EB%B0%A5.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kirby Gif - IceGif">
+                                <img itemprop="contentUrl url" src='https://www.icegif.com/wp-content/uploads/2023/07/icegif-1013.gif' alt='Kirby Gif - IceGif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IceGif" />
+                                </span>
+                                <a href='https://www.icegif.com/wp-content/uploads/2023/07/icegif-1013.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="kirby GIF - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/dc/a6/16/dca616db3450b5a64c0d1b655a7d0be5.gif' alt='kirby GIF - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/dc/a6/16/dca616db3450b5a64c0d1b655a7d0be5.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="  I always loved Kirby's floating parasail animation   : r/Kirby">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/32ehmf1ltxma1.gif' alt='  I always loved Kirby's floating parasail animation   : r/Kirby'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="399">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/32ehmf1ltxma1.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kirby Do Eye Cute!! GIF Animation by Cuddlesnam on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e7f69a1f-e2c8-463b-a56a-89faf70a21c0/dbd9ewj-ba3eada3-459a-4d5a-be1d-2f09ece2a641.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U3ZjY5YTFmLWUyYzgtNDYzYi1hNTZhLTg5ZmFmNzBhMjFjMFwvZGJkOWV3ai1iYTNlYWRhMy00NTlhLTRkNWEtYmUxZC0yZjA5ZWNlMmE2NDEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.dnM5HPEqUeyeqj1fLcrbwF0b5BVPWsa4I9SVKKyd_Pc' alt='Kirby Do Eye Cute!! GIF Animation by Cuddlesnam on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="606">
+                                <meta itemprop="height" content="660">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e7f69a1f-e2c8-463b-a56a-89faf70a21c0/dbd9ewj-ba3eada3-459a-4d5a-be1d-2f09ece2a641.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U3ZjY5YTFmLWUyYzgtNDYzYi1hNTZhLTg5ZmFmNzBhMjFjMFwvZGJkOWV3ai1iYTNlYWRhMy00NTlhLTRkNWEtYmUxZC0yZjA5ZWNlMmE2NDEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.dnM5HPEqUeyeqj1fLcrbwF0b5BVPWsa4I9SVKKyd_Pc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Kirby GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/k09hk06ixgYAAAAM/kirbot-bunny-kirby.gif' alt='Cute Kirby GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="193">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/k09hk06ixgYAAAAM/kirbot-bunny-kirby.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

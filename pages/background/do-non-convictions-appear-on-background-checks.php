@@ -1,0 +1,129 @@
+<title>Do Non-Convictions Show Up in Background Checks?</title>
+                    <meta name="description" content="Discover whether non-convictions appear on background checks and how it varies by state. Learn what employers can see and what this means for your job prospects in our comprehensive guide.">
+                    <meta name="keywords" content="do non convictions appear on background checks">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/do-non-convictions-appear-on-background-checks">
+                            <span itemprop="name">do non convictions appear on background checks</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Do Non-Convictions Show Up in Background Checks?</h1>
+                <p>Non-convictions generally do not appear on background checks, as these checks typically focus on criminal convictions. However, the specific details can vary by state and type of check. Some employers may still view arrest records or other non-conviction information, depending on their policies and legal guidelines.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Long Does a Background Check Go Back? - JusticeArch">
+                                <img itemprop="contentUrl url" src='https://www.justicearch.com/articles/how-long-does-a-background-check-go-back/conviction-vs-non-conviction-on-background-checks/' alt='How Long Does a Background Check Go Back? - JusticeArch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JusticeArch" />
+                                </span>
+                                <a href='https://www.justicearch.com/articles/how-long-does-a-background-check-go-back/conviction-vs-non-conviction-on-background-checks/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Criminal Records Show Up on a Background Check?">
+                                <img itemprop="contentUrl url" src='https://www.psibackgroundcheck.com/assets/2022/04/0KgGO1W1lVfcNOokjMMTLhI6MT9AhBEM1649708144.jpg' alt='What Criminal Records Show Up on a Background Check?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PSI Background Screening" />
+                                </span>
+                                <a href='https://www.psibackgroundcheck.com/assets/2022/04/0KgGO1W1lVfcNOokjMMTLhI6MT9AhBEM1649708144.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Non Conviction Record Destruction, Criminal Record?">
+                                <img itemprop="contentUrl url" src='https://nationalpardon.org/wp-content/uploads/2014/01/Non-Conviction-Record-Destruction-2-870x394.jpg' alt='Non Conviction Record Destruction, Criminal Record?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="870">
+                                <meta itemprop="height" content="394">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Pardon Centre" />
+                                </span>
+                                <a href='https://nationalpardon.org/wp-content/uploads/2014/01/Non-Conviction-Record-Destruction-2-870x394.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Misdemeanor Appear on Background Checks After 7 Years? - Exact ...">
+                                <img itemprop="contentUrl url" src='https://www.exactbackgroundchecks.com/wp-content/uploads/2025/01/What-Is-the-_7-Year-Rule_-for-Background-Checks_-visual-selection.png' alt='Do Misdemeanor Appear on Background Checks After 7 Years? - Exact ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="557">
+                                <meta itemprop="height" content="509">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Exact Background Checks" />
+                                </span>
+                                <a href='https://www.exactbackgroundchecks.com/wp-content/uploads/2025/01/What-Is-the-_7-Year-Rule_-for-Background-Checks_-visual-selection.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Read a Background Report - Edge Information">
+                                <img itemprop="contentUrl url" src='https://edgeinformation.com/wp-content/uploads/2018/04/ORIGINAL-PARPER.png' alt='How to Read a Background Report - Edge Information'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Edge Information Management" />
+                                </span>
+                                <a href='https://edgeinformation.com/wp-content/uploads/2018/04/ORIGINAL-PARPER.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="States That Prohibit Pending Charges on Background Checks - Exact ...">
+                                <img itemprop="contentUrl url" src='https://www.exactbackgroundchecks.com/wp-content/uploads/2025/01/How-Do-Pending-Charges-Differ-from-Convictions_-visual-selection.png' alt='States That Prohibit Pending Charges on Background Checks - Exact ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="602">
+                                <meta itemprop="height" content="483">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Exact Background Checks" />
+                                </span>
+                                <a href='https://www.exactbackgroundchecks.com/wp-content/uploads/2025/01/How-Do-Pending-Charges-Differ-from-Convictions_-visual-selection.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Far Back Does a Background Check Go? [A 2-Minute Guide]">
+                                <img itemprop="contentUrl url" src='https://trinity-core.s3.us-west-1.amazonaws.com/techjury/assets/6513eeb040f53.png' alt='How Far Back Does a Background Check Go? [A 2-Minute Guide]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TechJury" />
+                                </span>
+                                <a href='https://trinity-core.s3.us-west-1.amazonaws.com/techjury/assets/6513eeb040f53.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Long Does a Background Check Go Back? - JusticeArch">
+                                <img itemprop="contentUrl url" src='https://www.justicearch.com/articles/how-long-does-a-background-check-go-back/tips-for-those-with-criminal-records-who-are-facing-background-checks/' alt='How Long Does a Background Check Go Back? - JusticeArch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JusticeArch" />
+                                </span>
+                                <a href='https://www.justicearch.com/articles/how-long-does-a-background-check-go-back/tips-for-those-with-criminal-records-who-are-facing-background-checks/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Long Does a Background Check Go Back? - JusticeArch">
+                                <img itemprop="contentUrl url" src='https://www.justicearch.com/articles/how-long-does-a-background-check-go-back/background-check-types-and-their-lookback-periods/' alt='How Long Does a Background Check Go Back? - JusticeArch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JusticeArch" />
+                                </span>
+                                <a href='https://www.justicearch.com/articles/how-long-does-a-background-check-go-back/background-check-types-and-their-lookback-periods/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Far Back Does a Background Check Go?">
+                                <img itemprop="contentUrl url" src='https://blog.cisive.com/hs-fs/hubfs/Blog%20Misc.%20Images/Chart%201.png?width=1919&height=2408&name=Chart%201.png' alt='How Far Back Does a Background Check Go?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1919">
+                                <meta itemprop="height" content="2408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cisive Blog" />
+                                </span>
+                                <a href='https://blog.cisive.com/hs-fs/hubfs/Blog%20Misc.%20Images/Chart%201.png?width=1919&height=2408&name=Chart%201.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

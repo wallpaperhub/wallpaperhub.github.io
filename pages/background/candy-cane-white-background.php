@@ -1,0 +1,129 @@
+<title>Candy Cane Delight: Festive Treats on White</title>
+                    <meta name="description" content="Discover the joy of candy canes against a crisp white background. Perfect for the holidays, these striped confections add charm and sweetness to any celebration. Explore recipes, decorating ideas, and fun facts about this seasonal favorite. Sweeten your festivities with candy canes that delight the senses!">
+                    <meta name="keywords" content="candy cane white background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/candy-cane-white-background">
+                            <span itemprop="name">candy cane white background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Candy Cane Delight: Festive Treats on White</h1>
+                <p>Candy canes are a festive staple, embodying the spirit of holiday cheer with their iconic red and white stripes. Against a clean white background, their vibrant colors pop, making them a delightful visual treat. Perfect for decorating, gifting, or enjoying, these sweet confections symbolize joy and celebration during the festive season.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,800+ Candy Cane White Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1284701086/vector/candy-cane-illustration-isolated-on-white-background-red-lollipop-with-stripes-peppermint.jpg?s=612x612&w=0&k=20&c=wL46RdFoeQfxNcnure-7Omy-JanwtlDOvlBJXSboZfY=' alt='3,800+ Candy Cane White Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1284701086/vector/candy-cane-illustration-isolated-on-white-background-red-lollipop-with-stripes-peppermint.jpg?s=612x612&w=0&k=20&c=wL46RdFoeQfxNcnure-7Omy-JanwtlDOvlBJXSboZfY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mint hard candy cane striped in Christmas colours isolated on a ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/00/94/81/01/1000_F_94810166_OiCPUPftHVxIslnoL3p5JIaaLWthKAPZ.jpg' alt='Mint hard candy cane striped in Christmas colours isolated on a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/00/94/81/01/1000_F_94810166_OiCPUPftHVxIslnoL3p5JIaaLWthKAPZ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Stack of candy canes isolated on white background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/stack-candy-canes-isolated-white-background_93675-118323.jpg' alt='Premium Photo | Stack of candy canes isolated on white background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="475">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/stack-candy-canes-isolated-white-background_93675-118323.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,800+ Candy Cane White Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1347467490/vector/christmas-realistic-crisscrossed-candy-canes-with-holly-berries-and-leaves-on-white.jpg?s=612x612&w=0&k=20&c=Ah76SwziO326ntHDcOhWi2J9mpg-l_BX2QLObX-lawo=' alt='3,800+ Candy Cane White Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1347467490/vector/christmas-realistic-crisscrossed-candy-canes-with-holly-berries-and-leaves-on-white.jpg?s=612x612&w=0&k=20&c=Ah76SwziO326ntHDcOhWi2J9mpg-l_BX2QLObX-lawo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,608 Candy Cane No Background Royalty-Free Photos and Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/christmas-candy-cane-red-bow-600nw-159674756.jpg' alt='3,608 Candy Cane No Background Royalty-Free Photos and Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="357">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/christmas-candy-cane-red-bow-600nw-159674756.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas candy cane white background Cut Out Stock Images ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/CEDF5D/a-christmas-candy-cane-isolated-on-a-white-background-CEDF5D.jpg' alt='Christmas candy cane white background Cut Out Stock Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="865">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/CEDF5D/a-christmas-candy-cane-isolated-on-a-white-background-CEDF5D.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="54,286 Cane White Background Stock Vectors and Vector Art ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/christmas-candy-canes-stick-traditional-600nw-2192978201.jpg' alt='54,286 Cane White Background Stock Vectors and Vector Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="353">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/christmas-candy-canes-stick-traditional-600nw-2192978201.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Candy Cane On White Background Royalty-Free Stock Image - Storyblocks">
+                                <img itemprop="contentUrl url" src='https://dm0qx8t0i9gc9.cloudfront.net/watermarks/image/rDtN98Qoishumwih/candy-cane-on-white-background_z1-anTPu_SB_PM.jpg' alt='Candy Cane On White Background Royalty-Free Stock Image - Storyblocks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="615">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Storyblocks" />
+                                </span>
+                                <a href='https://dm0qx8t0i9gc9.cloudfront.net/watermarks/image/rDtN98Qoishumwih/candy-cane-on-white-background_z1-anTPu_SB_PM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas candy cane isolated on white, vertical — Stock Photo ...">
+                                <img itemprop="contentUrl url" src='https://static5.depositphotos.com/1013408/450/i/950/depositphotos_4504221-stock-photo-christmas-candy-cane-isolated-on.jpg' alt='Christmas candy cane isolated on white, vertical — Stock Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="580">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://static5.depositphotos.com/1013408/450/i/950/depositphotos_4504221-stock-photo-christmas-candy-cane-isolated-on.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Candy cane (isolated on white background with clipping path) sugar ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/01/84/39/59/1000_F_184395985_8I5Y7XYI0ZREVhEdXeuiU3pK1fxgRJaQ.jpg' alt='Candy cane (isolated on white background with clipping path) sugar ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="758">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/01/84/39/59/1000_F_184395985_8I5Y7XYI0ZREVhEdXeuiU3pK1fxgRJaQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

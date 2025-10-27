@@ -1,0 +1,129 @@
+<title>Elevate Your iPhone with October Aesthetic Wallpapers</title>
+                    <meta name="description" content="Discover captivating October aesthetic wallpapers for your iPhone! Capture the essence of fall with designs featuring autumn leaves, cozy themes, and warm color palettes. Perfect for anyone wanting to freshen up their device while celebrating the beauty of the season.">
+                    <meta name="keywords" content="october aesthetic wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/october-aesthetic-wallpaper-iphone">
+                            <span itemprop="name">october aesthetic wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your iPhone with October Aesthetic Wallpapers</h1>
+                <p>Transform your iPhone with stunning October aesthetic wallpapers! Embrace the season's charm with vibrant autumn leaves, cozy sweaters, pumpkin-spiced vibes, and warm sunsets. Perfectly designed for a stylish fall look, these wallpapers capture the essence of October. Change your backdrop to reflect the beauty of autumn!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30+ Frightfully Fun October Aesthetic Wallpapers For Your iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4a/4c/98/4a4c98aa988da89e841007af3f462a36.jpg' alt='30+ Frightfully Fun October Aesthetic Wallpapers For Your iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4a/4c/98/4a4c98aa988da89e841007af3f462a36.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Desktop + iPhone Backgrounds for October 2023 - Nikki Vegan">
+                                <img itemprop="contentUrl url" src='https://nikkivegan.com/wp-content/uploads/2023/10/October-2023-iphone-wallpaper.png' alt='Free Desktop + iPhone Backgrounds for October 2023 - Nikki Vegan'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nikki Vegan" />
+                                </span>
+                                <a href='https://nikkivegan.com/wp-content/uploads/2023/10/October-2023-iphone-wallpaper.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Halloween wallpaper iphone ideas | halloween wallpaper iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f4/61/a9/f461a9b59aae8c3c807583d55c421096.jpg' alt='8 Halloween wallpaper iphone ideas | halloween wallpaper iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f4/61/a9/f461a9b59aae8c3c807583d55c421096.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Fall iPhone Wallpapers | PS Tech">
+                                <img itemprop="contentUrl url" src='https://media1.popsugar-assets.com/files/thumbor/OdihbypQ9REJP2KaoUfNb7tORmY=/fit-in/3648x5472/filters:format_auto():extract_cover():upscale()/2020/09/24/741/n/1922507/5bb1307ddc2fedf1_priscilla-du-preez-Sce52e91snA-unsplash.jpg' alt='50 Fall iPhone Wallpapers | PS Tech'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3648">
+                                <meta itemprop="height" content="5472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Popsugar" />
+                                </span>
+                                <a href='https://media1.popsugar-assets.com/files/thumbor/OdihbypQ9REJP2KaoUfNb7tORmY=/fit-in/3648x5472/filters:format_auto():extract_cover():upscale()/2020/09/24/741/n/1922507/5bb1307ddc2fedf1_priscilla-du-preez-Sce52e91snA-unsplash.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] October Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/october-aesthetic-wallpaper-wywthg0si0iyv1xp.jpg' alt='100+] October Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1531">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/october-aesthetic-wallpaper-wywthg0si0iyv1xp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Cute Brown Aesthetic Wallpapers for Phone : October Autumn ...">
+                                <img itemprop="contentUrl url" src='https://www.itakeyou.co.uk/wp-content/uploads/2022/01/brown-aesthetic-collage-7.jpg' alt='30 Cute Brown Aesthetic Wallpapers for Phone : October Autumn ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="815">
+                                <meta itemprop="height" content="1448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Itakeyou" />
+                                </span>
+                                <a href='https://www.itakeyou.co.uk/wp-content/uploads/2022/01/brown-aesthetic-collage-7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="October Wallpaper -">
+                                <img itemprop="contentUrl url" src='https://anneherring.com/wp-content/uploads/2023/09/October-Graphic-iOS-Home-Screen-576x1024.png' alt='October Wallpaper -'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="anne herring" />
+                                </span>
+                                <a href='https://anneherring.com/wp-content/uploads/2023/09/October-Graphic-iOS-Home-Screen-576x1024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] October Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/october-iphone-cath6fyzimpy78ei.jpg' alt='100+] October Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/october-iphone-cath6fyzimpy78ei.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/67/8c/81/678c81ec3d682f3397afa74d662bef9a.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/67/8c/81/678c81ec3d682f3397afa74d662bef9a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall wallpapers      | Gallery posted by Jacey Mae   | Lemon8">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7415067003905786374&index=1&sign=bb278ca500ca230f79970ccad88a41e6' alt='Fall wallpapers      | Gallery posted by Jacey Mae   | Lemon8'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="902">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7415067003905786374&index=1&sign=bb278ca500ca230f79970ccad88a41e6' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

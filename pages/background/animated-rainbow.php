@@ -1,0 +1,129 @@
+<title>Vibrant Animated Rainbows: A Splash of Color</title>
+                    <meta name="description" content="Discover the enchanting world of animated rainbows! Perfect for kids' content and more, our vibrant animations will brighten any project. Explore the colors and creativity that can elevate your visual storytelling. Make every moment colorful and engaging with animated rainbows!">
+                    <meta name="keywords" content="animated rainbow">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/animated-rainbow">
+                            <span itemprop="name">animated rainbow</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Animated Rainbows: A Splash of Color</h1>
+                <p>Animated rainbows bring vibrant colors and playful energy to our screens, captivating audiences of all ages. These whimsical visuals can brighten up any project, whether it's for children's content, educational material, or simply to spread joy. Explore the magic of animated rainbows and let your creativity soar with every hue!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="165,000+ Animated Rainbow Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/596812290/vector/rainbow-and-clouds-nature-sign-spectrum-weather-curve-graphic-symbol.jpg?s=612x612&w=0&k=20&c=gs5ctghrKn2GKG69E528EgnD3YwIOnkJwb_-s4YzsbA=' alt='165,000+ Animated Rainbow Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/596812290/vector/rainbow-and-clouds-nature-sign-spectrum-weather-curve-graphic-symbol.jpg?s=612x612&w=0&k=20&c=gs5ctghrKn2GKG69E528EgnD3YwIOnkJwb_-s4YzsbA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Wave Animation On Alpha - Stock Motion Graphics | Motion Array">
+                                <img itemprop="contentUrl url" src='https://motionarray.imgix.net/2065600-i3UpCtSY3b-high_0008.jpg?w=660&q=60&fit=max&auto=format' alt='Rainbow Wave Animation On Alpha - Stock Motion Graphics | Motion Array'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Motion Array" />
+                                </span>
+                                <a href='https://motionarray.imgix.net/2065600-i3UpCtSY3b-high_0008.jpg?w=660&q=60&fit=max&auto=format' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Cartoon Images – Browse 517,112 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/25/41/96/360_F_125419626_rmKWQ2dAlRMXM6lvqHTj0o1xeU5neMtM.jpg' alt='Rainbow Cartoon Images – Browse 517,112 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/25/41/96/360_F_125419626_rmKWQ2dAlRMXM6lvqHTj0o1xeU5neMtM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Cartoon Rainbow Cloud GIF Animated Picture PNG Images | PSD ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/png-images/qiantu/cute-cartoon-rainbow-cloud-gif-animated-picture_2691461.png!w700wp' alt='Cute Cartoon Rainbow Cloud GIF Animated Picture PNG Images | PSD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/png-images/qiantu/cute-cartoon-rainbow-cloud-gif-animated-picture_2691461.png!w700wp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated Rainbow Rainbow Created Each Colour Stock Footage Video ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/videos/1071767689/thumb/12.jpg?ip=x480' alt='Animated Rainbow Rainbow Created Each Colour Stock Footage Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/videos/1071767689/thumb/12.jpg?ip=x480' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Rainbow">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/1d/b0/7c/1db07cdc4aeabf0bf7c9412def89190c.gif' alt='   Rainbow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/1d/b0/7c/1db07cdc4aeabf0bf7c9412def89190c.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow icon cartoon Royalty Free Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/73/51/rainbow-icon-cartoon-vector-13847351.jpg' alt='Rainbow icon cartoon Royalty Free Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="634">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/73/51/rainbow-icon-cartoon-vector-13847351.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow animated illustration, Rainbow Drawing ROYGBIV, Rainbow s ...">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/64/231/png-clipart-rainbow-animated-illustration-rainbow-drawing-roygbiv-rainbow-s-color-cartoon.png' alt='Rainbow animated illustration, Rainbow Drawing ROYGBIV, Rainbow s ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="510">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/64/231/png-clipart-rainbow-animated-illustration-rainbow-drawing-roygbiv-rainbow-s-color-cartoon.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/15/53/bf/1553bf3b5aa4d34cc44d68a4e8c7407f.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/15/53/bf/1553bf3b5aa4d34cc44d68a4e8c7407f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Rainbow Icon Cartoon Stock Illustrations – 19,752 ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/rainbow-icon-white-background-colorful-line-set-cute-cartoon-kawaii-kids-clip-art-greeting-card-lgbt-community-gay-flag-rainbow-149770275.jpg' alt='Colorful Rainbow Icon Cartoon Stock Illustrations – 19,752 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/rainbow-icon-white-background-colorful-line-set-cute-cartoon-kawaii-kids-clip-art-greeting-card-lgbt-community-gay-flag-rainbow-149770275.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

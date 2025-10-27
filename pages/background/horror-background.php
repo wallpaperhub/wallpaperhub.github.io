@@ -1,0 +1,129 @@
+<title>"Unleash Your Fears: Exploring Horror Backgrounds"</title>
+                    <meta name="description" content="Discover the chilling world of horror backgrounds that elevate your storytelling and imagery. From eerie landscapes to sinister settings, learn how to craft the perfect atmosphere that evokes fear and suspense. Dive into the essence of horror and create unforgettable experiences.">
+                    <meta name="keywords" content="horror background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/horror-background">
+                            <span itemprop="name">horror background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Unleash Your Fears: Exploring Horror Backgrounds"</h1>
+                <p>The horror background sets the stage for fear and suspense, immersing the audience in a chilling atmosphere. Dark forests, abandoned buildings, and eerie fog enhance the thrill. Sounds like creaking doors and distant screams provoke unease, while shadows lurking create an unsettling feeling. Unravel the mystery and face the terror.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Scary Background Images And Photos | Photoroom">
+                                <img itemprop="contentUrl url" src='https://cdn.photoroom.com/v2/image-cache?path=gs://background-7ef44.appspot.com/backgrounds_v3/scary/47_-_scary.jpg' alt='Free Scary Background Images And Photos | Photoroom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photoroom" />
+                                </span>
+                                <a href='https://cdn.photoroom.com/v2/image-cache?path=gs://background-7ef44.appspot.com/backgrounds_v3/scary/47_-_scary.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Fanghui Halloween Theme Photography Background Spooky  Halloween Dark Horror Moon and Dead Trees Party Decoration Photo Studio  Props ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61K9E8XNQuL.jpg' alt='Amazon.com : Fanghui Halloween Theme Photography Background Spooky  Halloween Dark Horror Moon and Dead Trees Party Decoration Photo Studio  Props ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="714">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61K9E8XNQuL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Horror Background Images – Browse 2,505,539 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/71/55/43/360_F_271554344_6Jit7RFEjs4iqkjgoKnoGS0JcHsYWRFT.jpg' alt='Horror Background Images – Browse 2,505,539 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/71/55/43/360_F_271554344_6Jit7RFEjs4iqkjgoKnoGS0JcHsYWRFT.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Horror Dark Gothic Backgrounds for Photoshop Manipulations">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/78/95/df/7895df2ac5469a206c71b9c810b60b32.jpg' alt='Horror Dark Gothic Backgrounds for Photoshop Manipulations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="599">
+                                <meta itemprop="height" content="706">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/78/95/df/7895df2ac5469a206c71b9c810b60b32.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Scary Background Images And Photos | Photoroom">
+                                <img itemprop="contentUrl url" src='https://cdn.photoroom.com/v2/image-cache?path=gs://background-7ef44.appspot.com/backgrounds_v3/scary/48_-_scary.jpg' alt='Free Scary Background Images And Photos | Photoroom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photoroom" />
+                                </span>
+                                <a href='https://cdn.photoroom.com/v2/image-cache?path=gs://background-7ef44.appspot.com/backgrounds_v3/scary/48_-_scary.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gothic haunted mansion under full moon at night. Misty spooky castle.  Halloween celebration concept.">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/09/29/96/85/360_F_929968509_O8C0FPSqTyh5BGRzdX7J1zdJHbbuItjr.jpg' alt='Gothic haunted mansion under full moon at night. Misty spooky castle.  Halloween celebration concept.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="641">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/09/29/96/85/360_F_929968509_O8C0FPSqTyh5BGRzdX7J1zdJHbbuItjr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : SJOLOON Halloween Backdrop for Photography Horror Background  Scary Pumpkin Moon Backdrop for Party Decoration Supplies Studio Props  11897 ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71nEFU4zuvL.jpg' alt='Amazon.com : SJOLOON Halloween Backdrop for Photography Horror Background  Scary Pumpkin Moon Backdrop for Party Decoration Supplies Studio Props  11897 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71nEFU4zuvL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Horror background 2025 hd">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/frightening-halloween-realistic-background_33099-1052.jpg' alt='Horror background 2025 hd'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="438">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/frightening-halloween-realistic-background_33099-1052.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graveyard at Midnight with Full Moon Skeleton and Witch 4K stock video  1495983746">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1495983746/video/graveyard-at-midnight-with-full-moon-skeleton-and-witch-4k.jpg?s=640x640&k=20&c=_dVdOBn4LxoB938ZxFqNHTU8FGR14i9_JQTI4lPhz50=' alt='Graveyard at Midnight with Full Moon Skeleton and Witch 4K stock video  1495983746'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1495983746/video/graveyard-at-midnight-with-full-moon-skeleton-and-witch-4k.jpg?s=640x640&k=20&c=_dVdOBn4LxoB938ZxFqNHTU8FGR14i9_JQTI4lPhz50=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Horror Background Photos, Download The BEST Free Horror Background ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/3772353/pexels-photo-3772353.jpeg' alt='Horror Background Photos, Download The BEST Free Horror Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="5760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/3772353/pexels-photo-3772353.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

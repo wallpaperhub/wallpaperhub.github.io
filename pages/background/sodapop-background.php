@@ -1,0 +1,129 @@
+<title>"Understanding Sodapop Curtis: The Heart of The Outsiders"</title>
+                    <meta name="description" content="Explore the depth of Sodapop Curtis, a central character in "The Outsiders." Discover his role, personality, and significance as he navigates the challenges of adolescence and family bonds, providing insight into Hinton's timeless narrative.">
+                    <meta name="keywords" content="sodapop background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sodapop-background">
+                            <span itemprop="name">sodapop background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Understanding Sodapop Curtis: The Heart of The Outsiders"</h1>
+                <p>Sodapop Curtis is a popular character from S.E. Hinton's novel "The Outsiders." He is the middle Curtis brother known for his good looks and charm. Working at a gas station, he is a caring and supportive figure to his brothers, Ponyboy and Darry. Sodapop represents youthful rebellion and the struggles of growing up, embodying a blend of innocence and maturity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sodapop Curtis">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2a/9c/00/2a9c0079adfdf12c98693a7d6f46c43a.jpg' alt='Sodapop Curtis'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1072">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2a/9c/00/2a9c0079adfdf12c98693a7d6f46c43a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sodapop Curtis wallpaper #sodapopcurtis">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6b/89/af/6b89af8849025b1d363e5aeffcd4a2f2.jpg' alt='Sodapop Curtis wallpaper #sodapopcurtis'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6b/89/af/6b89af8849025b1d363e5aeffcd4a2f2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sodapop Curtis - Heavy Type II">
+                                <img itemprop="contentUrl url" src='http://wallsneedlove.com/cdn/shop/products/w0415_1s_Sodapop-Curtis-Removable-Peel-and-Stick-Wallpaper_Repeating-Pattern-Sample-1_bd476f23-b109-42ee-b049-2ce770cd296a.jpg?v=1734717321' alt='Sodapop Curtis - Heavy Type II'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3028">
+                                <meta itemprop="height" content="1872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='http://wallsneedlove.com/cdn/shop/products/w0415_1s_Sodapop-Curtis-Removable-Peel-and-Stick-Wallpaper_Repeating-Pattern-Sample-1_bd476f23-b109-42ee-b049-2ce770cd296a.jpg?v=1734717321' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sodapop Curtis | Heroes Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/p__/images/1/15/Sodapop_Curtis.jpg/revision/latest/thumbnail/width/360/height/360?cb=20220305231729&path-prefix=protagonist' alt='Sodapop Curtis | Heroes Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="239">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroes Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/p__/images/1/15/Sodapop_Curtis.jpg/revision/latest/thumbnail/width/360/height/360?cb=20220305231729&path-prefix=protagonist' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0e/93/16/0e9316b8eb4faffcb94b7350e6b3e362.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0e/93/16/0e9316b8eb4faffcb94b7350e6b3e362.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Outsiders Sodapop Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp13400210.jpg' alt='The Outsiders Sodapop Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp13400210.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sodapop Curtis | Wiki | The Outsiders Amino Amino">
+                                <img itemprop="contentUrl url" src='http://pm1.aminoapps.com/6967/e7f5ee39f1beda5f8d699e80ac977d90923cf3bbr1-540-800v2_uhq.jpg' alt='Sodapop Curtis | Wiki | The Outsiders Amino Amino'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amino Apps" />
+                                </span>
+                                <a href='http://pm1.aminoapps.com/6967/e7f5ee39f1beda5f8d699e80ac977d90923cf3bbr1-540-800v2_uhq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rob Lowe/Sodapop Curtis/The Outsiders">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/41/93/1e/41931e4b20b77db19dede04f1ad0b9c6.jpg' alt='Rob Lowe/Sodapop Curtis/The Outsiders'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/41/93/1e/41931e4b20b77db19dede04f1ad0b9c6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Outsiders Sodapop Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp10571899.jpg' alt='The Outsiders Sodapop Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp10571899.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="sodapop curtis aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d6/30/2c/d6302c5f45a0b02005e909f37d398c56.jpg' alt='sodapop curtis aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d6/30/2c/d6302c5f45a0b02005e909f37d398c56.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

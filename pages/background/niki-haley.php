@@ -1,0 +1,129 @@
+<title>Nikki Haley: Rising Star in American Politics</title>
+                    <meta name="description" content="Nikki Haley is a key figure in contemporary American politics, known for her role as a former U.S. Ambassador to the UN and Governor of South Carolina. Discover her influential career and perspectives on vital issues like foreign policy and women's rights.">
+                    <meta name="keywords" content="niki haley">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/niki-haley">
+                            <span itemprop="name">niki haley</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Nikki Haley: Rising Star in American Politics</h1>
+                <p>Nikki Haley is a prominent American politician and diplomat, serving as the U.S. Ambassador to the United Nations from 2017 to 2018. A former Governor of South Carolina, she is known for her strong advocacy on foreign policy and women's rights. Haley has been a voice for moderate conservatism and is often viewed as a potential presidential candidate.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nikki Haley - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Nikki_Haley_official_photo.jpg/800px-Nikki_Haley_official_photo.jpg' alt='Nikki Haley - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="994">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Nikki_Haley_official_photo.jpg/800px-Nikki_Haley_official_photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nikki Haley | Biography, 2024 Election, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/02/193902-050-698C7C2B/Nikki-Haley.jpg' alt='Nikki Haley | Biography, 2024 Election, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1068">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/02/193902-050-698C7C2B/Nikki-Haley.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nikki Haley: Biography, Politician, U.N. Ambassador">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/nikki-haley-visits-hannity-at-fox-news-channel-studios-on-news-photo-1676482863.jpg?crop=0.573xw:0.860xh;0.238xw,0.0777xh&resize=640:*' alt='Nikki Haley: Biography, Politician, U.N. Ambassador'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="641">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/nikki-haley-visits-hannity-at-fox-news-channel-studios-on-news-photo-1676482863.jpg?crop=0.573xw:0.860xh;0.238xw,0.0777xh&resize=640:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nikki Haley - Simple English Wikipedia, the free encyclopedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nikki_Haley_by_Gage_Skidmore_5.jpg/640px-Nikki_Haley_by_Gage_Skidmore_5.jpg' alt='Nikki Haley - Simple English Wikipedia, the free encyclopedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="843">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simple Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nikki_Haley_by_Gage_Skidmore_5.jpg/640px-Nikki_Haley_by_Gage_Skidmore_5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nikki Haley Fast Facts | CNN Politics">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/200824224949-nikki-haley-rnc-speech.jpg?q=x_145,y_182,h_1536,w_2731,c_crop/h_833,w_1480' alt='Nikki Haley Fast Facts | CNN Politics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1480">
+                                <meta itemprop="height" content="833">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/200824224949-nikki-haley-rnc-speech.jpg?q=x_145,y_182,h_1536,w_2731,c_crop/h_833,w_1480' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nikki Haley Speaking Engagements, Schedule, & Fee | WSB">
+                                <img itemprop="contentUrl url" src='https://www.wsb.com/wp-content/uploads/2019/04/Haley_Nikki_ORIGINAL-682x830.jpg?bust=8df206a22e9b406f5017e52e94dc0155' alt='Nikki Haley Speaking Engagements, Schedule, & Fee | WSB'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="682">
+                                <meta itemprop="height" content="830">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Washington Speakers Bureau" />
+                                </span>
+                                <a href='https://www.wsb.com/wp-content/uploads/2019/04/Haley_Nikki_ORIGINAL-682x830.jpg?bust=8df206a22e9b406f5017e52e94dc0155' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Opinion | The Real Reason Nikki Haley May Struggle to Break ...">
+                                <img itemprop="contentUrl url" src='https://static.politico.com/40/20/412eaf734fe89fe500d02070fb2e/https-delivery-gettyimages.com/downloads/1244242880' alt='Opinion | The Real Reason Nikki Haley May Struggle to Break ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4500">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Politico" />
+                                </span>
+                                <a href='https://static.politico.com/40/20/412eaf734fe89fe500d02070fb2e/https-delivery-gettyimages.com/downloads/1244242880' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nikki Haley: Biography, Politician, U.N. Ambassador">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/nikki-haley-visits-hannity-at-fox-news-channel-studios-on-news-photo-1676482863.jpg' alt='Nikki Haley: Biography, Politician, U.N. Ambassador'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3580">
+                                <meta itemprop="height" content="2387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/nikki-haley-visits-hannity-at-fox-news-channel-studios-on-news-photo-1676482863.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GOP debate canceled after Haley says she'll participate if Trump ...">
+                                <img itemprop="contentUrl url" src='https://dims.apnews.com/dims4/default/1bec2ca/2147483647/strip/true/crop/6468x4312+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0a%2Fd2%2Fda84dac7e8020141cf69058521e0%2Ffb2339086ed24ef58b29b075719607fc' alt='GOP debate canceled after Haley says she'll participate if Trump ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="599">
+                                <meta itemprop="height" content="399">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AP News" />
+                                </span>
+                                <a href='https://dims.apnews.com/dims4/default/1bec2ca/2147483647/strip/true/crop/6468x4312+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0a%2Fd2%2Fda84dac7e8020141cf69058521e0%2Ffb2339086ed24ef58b29b075719607fc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nikki Haley announces run for president, challenging Trump | AP News">
+                                <img itemprop="contentUrl url" src='https://dims.apnews.com/dims4/default/f64f2fb/2147483647/strip/true/crop/3000x2077+0+0/resize/599x415!/quality/90/?url=https%3A%2F%2Fstorage.googleapis.com%2Fafs-prod%2Fmedia%2Fd0468cbad0f442d79a5a0a66e7a58922%2F3000.jpeg' alt='Nikki Haley announces run for president, challenging Trump | AP News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="599">
+                                <meta itemprop="height" content="415">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AP News" />
+                                </span>
+                                <a href='https://dims.apnews.com/dims4/default/f64f2fb/2147483647/strip/true/crop/3000x2077+0+0/resize/599x415!/quality/90/?url=https%3A%2F%2Fstorage.googleapis.com%2Fafs-prod%2Fmedia%2Fd0468cbad0f442d79a5a0a66e7a58922%2F3000.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

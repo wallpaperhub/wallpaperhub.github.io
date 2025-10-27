@@ -1,0 +1,129 @@
+<title>Stylish Bookshelf Desktop Wallpaper for Your Workspace</title>
+                    <meta name="description" content="Elevate your desktop with our bookshelf wallpaper collection! Perfect for book enthusiasts, these designs add warmth and inspiration to any workspace. Discover stylish options that enhance your productivity and creativity—all optimized for mobile viewing!">
+                    <meta name="keywords" content="bookshelf desktop wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/bookshelf-desktop-wallpaper">
+                            <span itemprop="name">bookshelf desktop wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Bookshelf Desktop Wallpaper for Your Workspace</h1>
+                <p>Transform your workspace with our stunning bookshelf desktop wallpaper! Featuring a variety of designs, from classic wooden shelves filled with vintage books to modern minimalist aesthetics, our wallpapers add a touch of coziness and creativity to your desktop. Perfect for book lovers and creative minds alike!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shelf for your icons : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/r0gSVA3.jpg' alt='Shelf for your icons : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.imgur.com/r0gSVA3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="bookshelf desktop wallpaper | Bookshelf Desktop Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1b/0b/6a/1b0b6a3137cada143f5f687760a28fbf.jpg' alt='bookshelf desktop wallpaper | Bookshelf Desktop Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1b/0b/6a/1b0b6a3137cada143f5f687760a28fbf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Shelf Desktop Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/shelf-desktop-fenh3cg20lhwdbvx.jpg' alt='100+] Shelf Desktop Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/shelf-desktop-fenh3cg20lhwdbvx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Organize your Desktop with a Simple Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.labnol.org/_astro/desktop-wallpaper.6cCYky97_Z1IEIJS.webp' alt='Organize your Desktop with a Simple Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1233">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Digital Inspiration" />
+                                </span>
+                                <a href='https://www.labnol.org/_astro/desktop-wallpaper.6cCYky97_Z1IEIJS.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My desktop after seeing that sweet game shelf background. : r/gaming">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/v56LC5Ec1F2HCSC7obq-dk-cR_XFAS9ZSqke95VCN08.jpg?width=1080&crop=smart&auto=webp&s=857f9008009929b1cd4b7649c418a85bbc4ff436' alt='My desktop after seeing that sweet game shelf background. : r/gaming'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/v56LC5Ec1F2HCSC7obq-dk-cR_XFAS9ZSqke95VCN08.jpg?width=1080&crop=smart&auto=webp&s=857f9008009929b1cd4b7649c418a85bbc4ff436' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Desktop ideas | creative desktop wallpaper, wallpaper shelves ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/ea/c8/ce/eac8cea2b11d4d5b2f52839d8ca25649.jpg' alt='8 Desktop ideas | creative desktop wallpaper, wallpaper shelves ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="132">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/ea/c8/ce/eac8cea2b11d4d5b2f52839d8ca25649.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Image - 672124] | Bookshelf Desktop Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/33/49/31/3349314c567994780db4bbc4d44e51db.jpg' alt='Image - 672124] | Bookshelf Desktop Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/33/49/31/3349314c567994780db4bbc4d44e51db.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Latest Desktop Wallpaper Desk And Shelf FULL HD 1920×1080 For ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/52/e8/c4/52e8c486f935ab0ee745280f167b3507.jpg' alt='10 Latest Desktop Wallpaper Desk And Shelf FULL HD 1920×1080 For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/52/e8/c4/52e8c486f935ab0ee745280f167b3507.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to use a bookshelf wallpaper as your laptop desktop background ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/uFSyUHBKMTA/hqdefault.jpg' alt='How to use a bookshelf wallpaper as your laptop desktop background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/uFSyUHBKMTA/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: wall, shelf, leaves, backlighting, 3D desktop">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/49/bc/83/49bc8371b871c14e6eee562353d165db.jpg' alt='HD wallpaper: wall, shelf, leaves, backlighting, 3D desktop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/49/bc/83/49bc8371b871c14e6eee562353d165db.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Kawaii Green Wallpaper: Adorable & Refreshing Decor!</title>
+                    <meta name="description" content="Discover kawaii green wallpaper that brings charm and tranquility to your interiors. Perfect for any room, explore cute designs that uplift your space. Transform your walls with this delightful decor choice that’s both playful and soothing. Perfect for a cozy, inviting atmosphere!">
+                    <meta name="keywords" content="kawaii green wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii">
+                            <span itemprop="name">Kawaii</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii/kawaii-green-wallpaper">
+                            <span itemprop="name">kawaii green wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Kawaii Green Wallpaper: Adorable & Refreshing Decor!</h1>
+                <p>Kawaii green wallpaper adds a refreshing touch to any space, blending adorable aesthetics with calming hues. Perfect for bedrooms, nurseries, or creative workspaces, these wallpapers feature charming designs, from cute animals to whimsical patterns. Elevate your decor with the delightful charm of kawaii green wallpaper!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Aesthetic Wallpaper Kawaii">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/99/19/5f/99195f383e09a41dd3b436a01d51564b.jpg' alt='Green Aesthetic Wallpaper Kawaii'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/99/19/5f/99195f383e09a41dd3b436a01d51564b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Avocado Green Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6c/5d/58/6c5d5810f38fccbf96a6982b19f885a1.jpg' alt='Cute Avocado Green Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6c/5d/58/6c5d5810f38fccbf96a6982b19f885a1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download "Spread your cute green Kawaii love!" Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-green-kawaii-hvkrk0ar6rjk6ibo.jpg' alt='Download "Spread your cute green Kawaii love!" Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="721">
+                                <meta itemprop="height" content="1281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-green-kawaii-hvkrk0ar6rjk6ibo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="One Green Dino Kawaii Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/one-green-dino-kawaii-iphone-2yolpfvytx5gw7zk.webp' alt='One Green Dino Kawaii Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="616">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/one-green-dino-kawaii-iphone-2yolpfvytx5gw7zk.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cute Green Kawaii Among Us Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-green-kawaii-l5zot8nxqj0lx3xo.jpg' alt='Download Cute Green Kawaii Among Us Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1821">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-green-kawaii-l5zot8nxqj0lx3xo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Wallpaper Collection: Aesthetic & Cute Designs">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7339349264176368902&location=0&aid=1988' alt='Green Wallpaper Collection: Aesthetic & Cute Designs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1016">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7339349264176368902&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="32 Green kawaii wallpaper ideas | kawaii wallpaper, wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/16/9b/88/169b88341be733c6fafc42a2bc974a84.jpg' alt='32 Green kawaii wallpaper ideas | kawaii wallpaper, wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/16/9b/88/169b88341be733c6fafc42a2bc974a84.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable wallpaper green templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGFWr-O7YA/1/0/900w/canva-green-leaf-aesthetic-minimalist-wallpaper-phone-4-1hrnwjCco.jpg' alt='Free and customizable wallpaper green templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGFWr-O7YA/1/0/900w/canva-green-leaf-aesthetic-minimalist-wallpaper-phone-4-1hrnwjCco.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable wallpaper green templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFM1BLa66Q/1/0/900w/canva-green-flower-seamless-phone-wallpaper-p0rm4anjXiU.jpg' alt='Free and customizable wallpaper green templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFM1BLa66Q/1/0/900w/canva-green-flower-seamless-phone-wallpaper-p0rm4anjXiU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Green Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d8/09/a6/d809a61d90f8ca256d77ba3dd97bb696.jpg' alt='Kawaii Green Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="721">
+                                <meta itemprop="height" content="1281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d8/09/a6/d809a61d90f8ca256d77ba3dd97bb696.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

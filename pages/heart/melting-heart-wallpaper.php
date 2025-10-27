@@ -1,0 +1,129 @@
+<title>Melting Heart Wallpaper: Love in Every Pixel</title>
+                    <meta name="description" content="Explore our stunning melting heart wallpapers that add a romantic touch to your device. Perfect for lovers and dreamers alike, these vibrant designs bring warmth and beauty to your screen. Download now for a daily dose of love and inspiration in every glance!">
+                    <meta name="keywords" content="melting heart wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart">
+                            <span itemprop="name">Heart</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart/melting-heart-wallpaper">
+                            <span itemprop="name">melting heart wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Melting Heart Wallpaper: Love in Every Pixel</h1>
+                <p>Transform your device with a captivating melting heart wallpaper that radiates warmth and love. Perfect for expressing your emotions, these wallpapers blend vibrant colors with stunning designs to create an eye-catching backdrop. Ideal for anyone looking to add a touch of romance to their device! Download your favorite today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Melting Heart Images – Browse 38,776 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/08/90/38/39/360_F_890383948_GiqUoZthFfPTvy37IPwzeIvqxgVSYwQw.jpg' alt='Melting Heart Images – Browse 38,776 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="240">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/08/90/38/39/360_F_890383948_GiqUoZthFfPTvy37IPwzeIvqxgVSYwQw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Melting Pink Heart Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/melting-pink-heart-ncjx12foysi7t2pm.jpg' alt='Melting Pink Heart Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/melting-pink-heart-ncjx12foysi7t2pm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,000+ Melting Heart Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1204045798/photo/heart-with-pink-paint-dripping.jpg?s=612x612&w=0&k=20&c=mn0nUd5uhrJbSzzKNyWu6McwQIUZ6T5-oQ5vAzG4Y_8=' alt='4,000+ Melting Heart Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1204045798/photo/heart-with-pink-paint-dripping.jpg?s=612x612&w=0&k=20&c=mn0nUd5uhrJbSzzKNyWu6McwQIUZ6T5-oQ5vAzG4Y_8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Melting Heart iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d7/a0/49/d7a049b72c79eb5524c81a132d5cb3ce.jpg' alt='Melting Heart iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d7/a0/49/d7a049b72c79eb5524c81a132d5cb3ce.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Melting Heart" Images – Browse 363 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/11/19/31/89/360_F_1119318992_NLYop0r2LAzNqEx253dQfrarcsgLNxa2.jpg' alt='Melting Heart" Images – Browse 363 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/11/19/31/89/360_F_1119318992_NLYop0r2LAzNqEx253dQfrarcsgLNxa2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Melting Heart" Images – Browse 363 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/10/98/61/46/360_F_1098614698_i2YGpidE81E6BQhvxHSqfa2vQSvduYpb.jpg' alt='Melting Heart" Images – Browse 363 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/10/98/61/46/360_F_1098614698_i2YGpidE81E6BQhvxHSqfa2vQSvduYpb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Melting Heart Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/055/373/879/small_2x/melting-metallic-purple-heart-dripping-on-gradient-background-photo.jpg' alt='Melting Heart Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="956">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/055/373/879/small_2x/melting-metallic-purple-heart-dripping-on-gradient-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Melting Love: An Aesthetic Pink Heart Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/melting-love-an-aesthetic-pink-heart-6h05rfcxhrsnr24n.jpg' alt='Melting Love: An Aesthetic Pink Heart Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="359">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/melting-love-an-aesthetic-pink-heart-6h05rfcxhrsnr24n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="broken red black heart lines glass drops melting hd widescreen ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/02/0f/ee/020feed78041755e3daefcf26e4b61af.jpg' alt='broken red black heart lines glass drops melting hd widescreen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/02/0f/ee/020feed78041755e3daefcf26e4b61af.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Melting heart, passion, ice, Heart, love, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/709/911/HD-wallpaper-melting-heart-passion-ice-heart-love.jpg' alt='Melting heart, passion, ice, Heart, love, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/709/911/HD-wallpaper-melting-heart-passion-ice-heart-love.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

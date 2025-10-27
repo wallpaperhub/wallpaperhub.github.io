@@ -1,0 +1,129 @@
+<title>The Three Little Pigs: A Timeless Tale of Hard Work</title>
+                    <meta name="description" content="Discover the classic story of "The Three Little Pigs." Learn how determination and effort win against challenges as the pigs face the big bad wolf. A delightful tale emphasizing the importance of diligence and smart choices. Perfect for kids of all ages!">
+                    <meta name="keywords" content="three little pigs">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/three-little-pigs">
+                            <span itemprop="name">three little pigs</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The Three Little Pigs: A Timeless Tale of Hard Work</h1>
+                <p>Once upon a time, three little pigs built their own houses. The first pig chose straw, the second wood, and the third sought strength with bricks. When a fierce wolf arrived, he easily blew down the straw and wooden houses. However, the brick house stood firm, teaching them the value of hard work and resilience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Three Little Pigs - Read aloud in fullscreen with music and sound  effects!">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/FNYBQsay_Ek/maxresdefault.jpg' alt='The Three Little Pigs - Read aloud in fullscreen with music and sound  effects!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/FNYBQsay_Ek/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Gospel of The Three Little Pigs - eager for [truth]">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/eagerfortruth.com/wp-content/uploads/2020/08/3-little-pigs-image-1.jpg?fit=1119%2C721&ssl=1' alt='The Gospel of The Three Little Pigs - eager for [truth]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1119">
+                                <meta itemprop="height" content="721">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eager for [truth]" />
+                                </span>
+                                <a href='https://i0.wp.com/eagerfortruth.com/wp-content/uploads/2020/08/3-little-pigs-image-1.jpg?fit=1119%2C721&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Three Little Pigs">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/1430e2_e6713314b17b480998705c28e557d6e0~mv2.png/v1/fill/w_958,h_866,al_c,q_90/1430e2_e6713314b17b480998705c28e557d6e0~mv2.png' alt='The Three Little Pigs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="958">
+                                <meta itemprop="height" content="866">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.be-in-couraged.com" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/1430e2_e6713314b17b480998705c28e557d6e0~mv2.png/v1/fill/w_958,h_866,al_c,q_90/1430e2_e6713314b17b480998705c28e557d6e0~mv2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Three Little Pigs (Disney Classic) (Little Golden Book)">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71ssMx1GwcL._AC_UF1000,1000_QL80_.jpg' alt='The Three Little Pigs (Disney Classic) (Little Golden Book)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="829">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71ssMx1GwcL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Favorite Fairy Tales: The Three Little Pigs | Kidsbooks Publishing">
+                                <img itemprop="contentUrl url" src='https://kidsbookspublishing.com/wp-content/uploads/2022/02/Fairy-Tale-Series_The-Three-Little-Pigs-FC-1-1.jpg' alt='My Favorite Fairy Tales: The Three Little Pigs | Kidsbooks Publishing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1117">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kidsbooks Publishing" />
+                                </span>
+                                <a href='https://kidsbookspublishing.com/wp-content/uploads/2022/02/Fairy-Tale-Series_The-Three-Little-Pigs-FC-1-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Three Little Pigs Playset - Pockets of Learning">
+                                <img itemprop="contentUrl url" src='http://pocketsoflearning.com/cdn/shop/files/3_Pigs_main_no_book.jpg?v=1724953007' alt='Three Little Pigs Playset - Pockets of Learning'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="663">
+                                <meta itemprop="height" content="748">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pockets of Learning" />
+                                </span>
+                                <a href='http://pocketsoflearning.com/cdn/shop/files/3_Pigs_main_no_book.jpg?v=1724953007' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Three Little Pigs by Mara Alperin | Scholastic Education">
+                                <img itemprop="contentUrl url" src='https://embed.cdn.pais.scholastic.com/v1/channels/tso/products/identifiers/isbn/9780545846349/primary/renditions/700' alt='The Three Little Pigs by Mara Alperin | Scholastic Education'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="613">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Scholastic Teacher Store" />
+                                </span>
+                                <a href='https://embed.cdn.pais.scholastic.com/v1/channels/tso/products/identifiers/isbn/9780545846349/primary/renditions/700' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Three Little Pigs Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/021/919/911/non_2x/cute-pig-male-piglet-in-pants-kawaii-character-set-of-illustrations-vector.jpg' alt='Three Little Pigs Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1778">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/021/919/911/non_2x/cute-pig-male-piglet-in-pants-kawaii-character-set-of-illustrations-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Three Little Pigs : Book for kids: Bedtime Fantasy Stories ...">
+                                <img itemprop="contentUrl url" src='https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1590670730i/53563122.jpg' alt='The Three Little Pigs : Book for kids: Bedtime Fantasy Stories ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2250">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Goodreads" />
+                                </span>
+                                <a href='https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1590670730i/53563122.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Three Little Pigs by Clever Publishing, Julia Radishevskaya ...">
+                                <img itemprop="contentUrl url" src='https://cloud.firebrandtech.com/api/v2/image/111/9781954738591/CoverArtHigh/XL' alt='The Three Little Pigs by Clever Publishing, Julia Radishevskaya ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="536">
+                                <meta itemprop="height" content="536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Quarto Publishing" />
+                                </span>
+                                <a href='https://cloud.firebrandtech.com/api/v2/image/111/9781954738591/CoverArtHigh/XL' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

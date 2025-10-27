@@ -1,0 +1,129 @@
+<title>Festive Green Christmas Backgrounds for Holiday Cheer</title>
+                    <meta name="description" content="Add a cheerful touch to your holiday decor with our stunning green Christmas backgrounds. Perfect for cards, ads, or social media, these designs capture the essence of Christmas while providing a fresh, vibrant backdrop. Celebrate the season in style with a nature-inspired twist!">
+                    <meta name="keywords" content="christmas background green">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/christmas-background-green">
+                            <span itemprop="name">christmas background green</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Festive Green Christmas Backgrounds for Holiday Cheer</h1>
+                <p>Embrace the festive spirit with a vibrant green Christmas background! This eye-catching backdrop is perfect for holiday decorations, greeting cards, or social media posts. The deep hues of green symbolize evergreen trees and renewal, adding a touch of nature to your celebrations. Let this color inspire joy and warmth during the holiday season!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Green Background Images – Browse 3,679,825 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/05/36/94/35/360_F_536943503_vAXlnCulxgzedx8GoxWgODboPUtByOAa.jpg' alt='Christmas Green Background Images – Browse 3,679,825 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="539">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/05/36/94/35/360_F_536943503_vAXlnCulxgzedx8GoxWgODboPUtByOAa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="90,500+ Green Christmas Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1285159499/vector/christmas-background-of-snowflakes.jpg?s=612x612&w=0&k=20&c=rXn7DHG7rDvboUgo9lobYc10Q5o3skgH5njOc5zWXPQ=' alt='90,500+ Green Christmas Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1285159499/vector/christmas-background-of-snowflakes.jpg?s=612x612&w=0&k=20&c=rXn7DHG7rDvboUgo9lobYc10Q5o3skgH5njOc5zWXPQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Festive holiday garland with pinecones and red bow accents on green  background">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/10/26/77/73/360_F_1026777317_M24wKfFVytxPPii8CJT6ejbgGc7dRPCu.jpg' alt='Festive holiday garland with pinecones and red bow accents on green  background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="641">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/10/26/77/73/360_F_1026777317_M24wKfFVytxPPii8CJT6ejbgGc7dRPCu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Merry Christmas Green Background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/merry-christmas-green-background_882585-924.jpg' alt='Premium Photo | Merry Christmas Green Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="352">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/merry-christmas-green-background_882585-924.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="597,480 Green Background Christmas Tree Stock Photos - Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/magical-christmas-tree-glittering-stars-green-background-beautiful-adorned-glowing-ornaments-surrounded-perfect-327618845.jpg' alt='597,480 Green Background Christmas Tree Stock Photos - Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="319">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/magical-christmas-tree-glittering-stars-green-background-beautiful-adorned-glowing-ornaments-surrounded-perfect-327618845.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Green Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/hd-abstract-shiny-background-wallpaper-design_851755-6052.jpg' alt='Christmas Green Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="426">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/hd-abstract-shiny-background-wallpaper-design_851755-6052.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green christmas background design vector 01 free download">
+                                <img itemprop="contentUrl url" src='https://freedesignfile.com/upload/2016/12/Green-christmas-background-design-vector-01.jpg' alt='Green christmas background design vector 01 free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="598">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FreeDesignFile" />
+                                </span>
+                                <a href='https://freedesignfile.com/upload/2016/12/Green-christmas-background-design-vector-01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Christmas Background Stock Photos, Images and Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/052/432/243/non_2x/elegant-christmas-background-featuring-festive-green-pattern-with-pine-leaves-and-red-berries-for-traditional-decor-photo.jpg' alt='Green Christmas Background Stock Photos, Images and Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/052/432/243/non_2x/elegant-christmas-background-featuring-festive-green-pattern-with-pine-leaves-and-red-berries-for-traditional-decor-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="90,500+ Green Christmas Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1430036767/vector/christmas-green-snowflake-background-vector-illustration.jpg?s=612x612&w=0&k=20&c=HEx76q5w06HVBdnBKd_fdRaF5_WbgF-jMFb_3Q4YjNo=' alt='90,500+ Green Christmas Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1430036767/vector/christmas-green-snowflake-background-vector-illustration.jpg?s=612x612&w=0&k=20&c=HEx76q5w06HVBdnBKd_fdRaF5_WbgF-jMFb_3Q4YjNo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="christmas background with green and g..." | Gallery | Stablecog">
+                                <img itemprop="contentUrl url" src='https://img.stablecog.com/insecure/1920w/aHR0cHM6Ly9iLnN0YWJsZWNvZy5jb20vZjhiOWMxOGItZDg0ZS00ODgyLWI5MTYtMmVlZjEzODFkYzRjLmpwZWc.webp' alt='christmas background with green and g..." | Gallery | Stablecog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stablecog" />
+                                </span>
+                                <a href='https://img.stablecog.com/insecure/1920w/aHR0cHM6Ly9iLnN0YWJsZWNvZy5jb20vZjhiOWMxOGItZDg0ZS00ODgyLWI5MTYtMmVlZjEzODFkYzRjLmpwZWc.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

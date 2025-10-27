@@ -1,0 +1,129 @@
+<title>Trendy Pink Black Wallpaper for Stylish Decor</title>
+                    <meta name="description" content="Discover chic pink black wallpaper that elevates your home decor. Perfect for any room, this design adds a bold touch while maintaining a cozy vibe. Transform your space with stylish patterns that make a statement. Explore our collection for a fresh, modern look today!">
+                    <meta name="keywords" content="pink black wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-black-wallpaper">
+                            <span itemprop="name">pink black wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Trendy Pink Black Wallpaper for Stylish Decor</h1>
+                <p>Pink black wallpaper is a stylish and trendy choice for enhancing your home decor. Perfect for creating a bold statement in any room, its unique contrast adds depth and character. Whether you're aiming for a modern look or a vintage vibe, pink black wallpaper can effortlessly transform your space, making it feel inviting and chic.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and Pink wallpaper by wolfmistress - Download on ZEDGE™ | 8fca">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/88/d6/74/88d6747abcf659e29b17f20a1419d8d9.jpg' alt='Black and Pink wallpaper by wolfmistress - Download on ZEDGE™ | 8fca'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="666">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/88/d6/74/88d6747abcf659e29b17f20a1419d8d9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hot Pink And Black Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/15152613/p/f/l/UybZFNH1l9CdzcsMYgl8vC7pCKIVTT2QKCQVS45m0EhKg-R_SPfdk2SKYw/Hot%20Pink%20and%20Black%20Swirled%20Paint.jpg' alt='Hot Pink And Black Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/15152613/p/f/l/UybZFNH1l9CdzcsMYgl8vC7pCKIVTT2QKCQVS45m0EhKg-R_SPfdk2SKYw/Hot%20Pink%20and%20Black%20Swirled%20Paint.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Pink Wallpaper - App on Amazon Appstore">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/618KNW0mqAL.jpg' alt='Black Pink Wallpaper - App on Amazon Appstore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/618KNW0mqAL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="280 Best Pink & Black ideas | pink, cellphone wallpaper, pink ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/91/3c/64/913c640d1ffaffbd503b91fd2a3705b4.jpg' alt='280 Best Pink & Black ideas | pink, cellphone wallpaper, pink ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/91/3c/64/913c640d1ffaffbd503b91fd2a3705b4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="290+ Hot Pink And Black Wallpaper Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1393605766/vector/holiday-flyer-pink-violet-border-glitter-on-black-background-vector.jpg?s=612x612&w=0&k=20&c=ZziUs8ZMyd0sSo5y1qoojQUijKwe_4E7mre3mmjc-A8=' alt='290+ Hot Pink And Black Wallpaper Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="430">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1393605766/vector/holiday-flyer-pink-violet-border-glitter-on-black-background-vector.jpg?s=612x612&w=0&k=20&c=ZziUs8ZMyd0sSo5y1qoojQUijKwe_4E7mre3mmjc-A8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink smoke, black, pink, smoke, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/787/637/HD-wallpaper-pink-smoke-black-pink-smoke.jpg' alt='Pink smoke, black, pink, smoke, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/787/637/HD-wallpaper-pink-smoke-black-pink-smoke.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable cute pink wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFbM-bXCuo/3/0/900w/canva-black-and-pink-blurry-heart-phone-wallpaper-hEM-HWcPqlg.jpg' alt='Free and customizable cute pink wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFbM-bXCuo/3/0/900w/canva-black-and-pink-blurry-heart-phone-wallpaper-hEM-HWcPqlg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30,000+ Pink And Black Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1671308540338-cb3d66f569c5?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cGluayUyMGFuZCUyMGJsYWNrfGVufDB8fDB8fHww' alt='30,000+ Pink And Black Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1671308540338-cb3d66f569c5?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cGluayUyMGFuZCUyMGJsYWNrfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Pink Wallpaper - App on Amazon Appstore">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71Qq2cBswIL.png' alt='Black Pink Wallpaper - App on Amazon Appstore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71Qq2cBswIL.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/48/87/f0/4887f0492e6db88e64b23b3c9eee5068.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/48/87/f0/4887f0492e6db88e64b23b3c9eee5068.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

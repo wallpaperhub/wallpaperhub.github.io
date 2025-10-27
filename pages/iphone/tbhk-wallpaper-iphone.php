@@ -1,0 +1,129 @@
+<title>Stunning TBHK Wallpapers for iPhone: Personalize Your Device</title>
+                    <meta name="description" content="Discover the coolest TBHK wallpapers for your iPhone! Browse an exciting collection of vibrant and playful designs that will transform your device's look. Perfect for fans of The Bad Kids, these wallpapers offer a unique expression of your personality. Download now and elevate your iPhone's style!">
+                    <meta name="keywords" content="tbhk wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/tbhk-wallpaper-iphone">
+                            <span itemprop="name">tbhk wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning TBHK Wallpapers for iPhone: Personalize Your Device</h1>
+                <p>Looking to personalize your iPhone? TBHK (The Bad Kids) wallpapers offer a unique blend of vibrant colors and playful designs perfect for your device. Transform your home screen and lock screen with artwork that captures the spirit of TBHK. Explore various themes and styles to express your personality effortlessly!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/32/3a/7f/323a7ffb231a0a4d5c230f53148c60b0.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="584">
+                                <meta itemprop="height" content="1168">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/32/3a/7f/323a7ffb231a0a4d5c230f53148c60b0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tbhk, toilet bound hanako kun, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/409/474/HD-wallpaper-toiletboundhanakokun-tbhk-toilet-bound-hanako-kun-thumbnail.jpg' alt='Tbhk, toilet bound hanako kun, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="669">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/409/474/HD-wallpaper-toiletboundhanakokun-tbhk-toilet-bound-hanako-kun-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TBHK aesthetic minimalistic Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/86/15/57/861557e2196b1f117bb31c7b4b33b259.jpg' alt='TBHK aesthetic minimalistic Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="554">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/86/15/57/861557e2196b1f117bb31c7b4b33b259.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tbhk Wallpapers Part 1 : r/hanakokun">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/njxm3wd9xj781.jpg?width=640&crop=smart&auto=webp&s=2fdf9d25b049e5025a322188c9bf8343e78370dd' alt='Tbhk Wallpapers Part 1 : r/hanakokun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/njxm3wd9xj781.jpg?width=640&crop=smart&auto=webp&s=2fdf9d25b049e5025a322188c9bf8343e78370dd' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some cool Toilet Bound Hanako Kun wallpapers pt one ✨ – @r00nie-s ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/d1da95e97af63d0611074e86b5b60a6e/28f010fd5431bc70-97/s640x960/f82dc1e740ed7a0851f3e332e6770fc4a99267c6.jpg' alt='Some cool Toilet Bound Hanako Kun wallpapers pt one ✨ – @r00nie-s ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/d1da95e97af63d0611074e86b5b60a6e/28f010fd5431bc70-97/s640x960/f82dc1e740ed7a0851f3e332e6770fc4a99267c6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hanako-kun, aesthetic, hanako, kou, pink, tbhk, toilet bound ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/20/6/HD-wallpaper-hanako-kun-aesthetic-hanako-kou-pink-tbhk-toilet-bound-hanako-kun-yashiro.jpg' alt='Hanako-kun, aesthetic, hanako, kou, pink, tbhk, toilet bound ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/20/6/HD-wallpaper-hanako-kun-aesthetic-hanako-kou-pink-tbhk-toilet-bound-hanako-kun-yashiro.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple Black TBHK wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/dd/56/76/dd56762f0a57a5c49638426dd0567e24.jpg' alt='Simple Black TBHK wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/dd/56/76/dd56762f0a57a5c49638426dd0567e24.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TBHI, relationship, tbhk, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/606/321/HD-wallpaper-tbhi-relationship-tbhk.jpg' alt='TBHI, relationship, tbhk, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/606/321/HD-wallpaper-tbhi-relationship-tbhk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My new iPhone wallpaper! : r/hanakokun">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/nf3gdeaboa091.jpg' alt='My new iPhone wallpaper! : r/hanakokun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/nf3gdeaboa091.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="a wallpaper i made (u can use it) | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/516f1cdf-a2b5-4d64-924d-43586194c9fe/scale-to-width/755' alt='a wallpaper i made (u can use it) | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="755">
+                                <meta itemprop="height" content="1342">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hanako-kun Wiki Jibaku Shounen Hanako-kun Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/516f1cdf-a2b5-4d64-924d-43586194c9fe/scale-to-width/755' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

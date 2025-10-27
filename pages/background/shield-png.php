@@ -1,0 +1,129 @@
+<title>High-Quality Shield PNG Images for Your Projects</title>
+                    <meta name="description" content="Discover premium shield PNG images perfect for enhancing designs, logos, and digital projects. These versatile graphics feature transparent backgrounds for easy integration, ensuring a polished look in any context. Elevate your creations with our selection of high-quality shield PNGs today!">
+                    <meta name="keywords" content="shield png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/shield-png">
+                            <span itemprop="name">shield png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>High-Quality Shield PNG Images for Your Projects</h1>
+                <p>Shield PNG images provide versatile graphic resources for digital design, gaming, and web projects. These transparent background graphics effortlessly blend into various backgrounds, enhancing visual storytelling. Whether for logos, icons, or creative projects, high-quality shield PNGs elevate aesthetics and add a professional touch to your work.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="shield PNG transparent image download, size: 5142x6122px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/shield_PNG103578.png' alt='shield PNG transparent image download, size: 5142x6122px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5142">
+                                <meta itemprop="height" content="6122">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/shield_PNG103578.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shield | Crest | Vector Image | Digital Download | JPEG - PNG - PDF | Cut  File">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30478518/r/il/c1c647/3605306272/il_fullxfull.3605306272_i6wu.jpg' alt='Shield | Crest | Vector Image | Digital Download | JPEG - PNG - PDF | Cut  File'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2787">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30478518/r/il/c1c647/3605306272/il_fullxfull.3605306272_i6wu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shield PNG, Shield Transparent Background - FreeIconsPNG">
+                                <img itemprop="contentUrl url" src='https://www.freeiconspng.com/thumbs/shield-png/shield-png-1.png' alt='Shield PNG, Shield Transparent Background - FreeIconsPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Icons PNG" />
+                                </span>
+                                <a href='https://www.freeiconspng.com/thumbs/shield-png/shield-png-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="shield PNG transparent image download, size: 4320x5247px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/shield_PNG103593.png' alt='shield PNG transparent image download, size: 4320x5247px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4320">
+                                <meta itemprop="height" content="5247">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/shield_PNG103593.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shield png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/599/185/png-clipart-logo-shield-black-shield-white-and-black-shield-logo-emblem-monochrome-thumbnail.png' alt='Shield png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/599/185/png-clipart-logo-shield-black-shield-white-and-black-shield-logo-emblem-monochrome-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golden Shield PNG, Vector, PSD, and Clipart With Transparent ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20231116/ourmid/pngtree-elegant-golden-shield-png-image_10625519.png' alt='Golden Shield PNG, Vector, PSD, and Clipart With Transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20231116/ourmid/pngtree-elegant-golden-shield-png-image_10625519.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shield graphy Symbol, shield, angle, standard Test Image png | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/758/93/png-clipart-shield-shield-love-leaf.png' alt='Shield graphy Symbol, shield, angle, standard Test Image png | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/758/93/png-clipart-shield-shield-love-leaf.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shield Badge PNG Clip Art​ | Gallery Yopriceville - High-Quality ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/downloadfullsize/send/19638' alt='Shield Badge PNG Clip Art​ | Gallery Yopriceville - High-Quality ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4702">
+                                <meta itemprop="height" content="6000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/downloadfullsize/send/19638' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shield 1204381 PNG">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/001/204/381/non_2x/shield-png.png' alt='Shield 1204381 PNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="655">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/001/204/381/non_2x/shield-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Silhouette Emblem Shield PNG & SVG Design For T-Shirts">
+                                <img itemprop="contentUrl url" src='https://images.vexels.com/media/users/3/134780/isolated/preview/f48f7caf77c310742b788d18b2743fa8-silhouette-emblem-shield.png' alt='Silhouette Emblem Shield PNG & SVG Design For T-Shirts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vexels" />
+                                </span>
+                                <a href='https://images.vexels.com/media/users/3/134780/isolated/preview/f48f7caf77c310742b788d18b2743fa8-silhouette-emblem-shield.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

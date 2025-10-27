@@ -1,0 +1,129 @@
+<title>Discover Stunning Yggdrasil Wallpaper for Your Home</title>
+                    <meta name="description" content="Explore beautiful Yggdrasil wallpaper inspired by Norse mythology. Perfect for any room, these designs enhance your space with a mystical touch. Ideal for DIY enthusiasts and interior decorators alike—transform your home into a haven of creativity and tranquility.">
+                    <meta name="keywords" content="yggdrasil wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/yggdrasil-wallpaper">
+                            <span itemprop="name">yggdrasil wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Stunning Yggdrasil Wallpaper for Your Home</h1>
+                <p>Transform your space with stunning Yggdrasil wallpaper, featuring intricate designs inspired by Norse mythology. These wallpapers bring the mythical Tree of Life into your home, providing a unique and enchanting ambiance. Perfect for creating a serene, nature-inspired environment, they invite tranquility and creativity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Lived Inside Yggdrasil Tree of Life?">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/ce/48/db/ce48db20d539bb0130034087ee8adf42.jpg' alt='Who Lived Inside Yggdrasil Tree of Life?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/ce/48/db/ce48db20d539bb0130034087ee8adf42.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yggdrasil Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/044/420/221/small_2x/majestic-yggdrasil-tree-of-life-rooted-in-norse-mythology-and-fantasy-with-ancient-mystical-roots-photo.jpeg' alt='Yggdrasil Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="602">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/044/420/221/small_2x/majestic-yggdrasil-tree-of-life-rooted-in-norse-mythology-and-fantasy-with-ancient-mystical-roots-photo.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="H1>Yggdrasil Tree Logo HD Wallpaper and Background">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/134/thumb-350-1342110.webp' alt='H1>Yggdrasil Tree Logo HD Wallpaper and Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="219">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/134/thumb-350-1342110.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Dreams of Yggdrasil">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100067519333962' alt='Profile for Dreams of Yggdrasil'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1032">
+                                <meta itemprop="height" content="774">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100067519333962' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yggdrasil - Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/dc/aa/d9/dcaad9f1623016645ebb538a208f0f43.jpg' alt='Yggdrasil - Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/dc/aa/d9/dcaad9f1623016645ebb538a208f0f43.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yggdrasil , Tree of life">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/ayKDriFAZCI9GIXeKaJ1A0Oi5aCjl76LPIepawLOgTs.png?format=pjpg&auto=webp&s=dd50a00b73ed577f91cf40608974706833fc58c6' alt='Yggdrasil , Tree of life'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/ayKDriFAZCI9GIXeKaJ1A0Oi5aCjl76LPIepawLOgTs.png?format=pjpg&auto=webp&s=dd50a00b73ed577f91cf40608974706833fc58c6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yggdrasil Tree HD Wallpaper Mythical Norse Art Background by ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/yggdrasil-tree-hd-wallpaper-mythical-norse-art-background-by-patrika_1143533-3023.jpg' alt='Yggdrasil Tree HD Wallpaper Mythical Norse Art Background by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/yggdrasil-tree-hd-wallpaper-mythical-norse-art-background-by-patrika_1143533-3023.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yggdrasil Tree [3840x2160] : r/wallpaper">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/yggdrasil-tree-3840x2160-v0-ah8leihde45c1.jpg?width=1080&crop=smart&auto=webp&s=0f2d1080742110ca150d8274ce23bfc9212585dc' alt='Yggdrasil Tree [3840x2160] : r/wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/yggdrasil-tree-3840x2160-v0-ah8leihde45c1.jpg?width=1080&crop=smart&auto=webp&s=0f2d1080742110ca150d8274ce23bfc9212585dc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Midgard - Yggdrasil - Wallpaper Full HD by PlaysWithWolves on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6da9c1a1-249e-4064-8779-3f0f5b005429/d5v3x87-814e48e6-aa12-4f3e-92d9-fd413acd0615.jpg/v1/fill/w_1024,h_576,q_75,strp/midgard___yggdrasil___wallpaper_full_hd_by_playswithwolves_d5v3x87-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvNmRhOWMxYTEtMjQ5ZS00MDY0LTg3NzktM2YwZjViMDA1NDI5XC9kNXYzeDg3LTgxNGU0OGU2LWFhMTItNGYzZS05MmQ5LWZkNDEzYWNkMDYxNS5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.sEIsJDfcQWbD9Vn2yM_8n_-FLKfmIa1XUousg0SwvhE' alt='Midgard - Yggdrasil - Wallpaper Full HD by PlaysWithWolves on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6da9c1a1-249e-4064-8779-3f0f5b005429/d5v3x87-814e48e6-aa12-4f3e-92d9-fd413acd0615.jpg/v1/fill/w_1024,h_576,q_75,strp/midgard___yggdrasil___wallpaper_full_hd_by_playswithwolves_d5v3x87-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvNmRhOWMxYTEtMjQ5ZS00MDY0LTg3NzktM2YwZjViMDA1NDI5XC9kNXYzeDg3LTgxNGU0OGU2LWFhMTItNGYzZS05MmQ5LWZkNDEzYWNkMDYxNS5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.sEIsJDfcQWbD9Vn2yM_8n_-FLKfmIa1XUousg0SwvhE' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yggdrasil, The World Tree by MustacheUSMC on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/68/99/62/6899623c92842822f8fc01ba6e7dfb51.jpg' alt='Yggdrasil, The World Tree by MustacheUSMC on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="628">
+                                <meta itemprop="height" content="1273">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/68/99/62/6899623c92842822f8fc01ba6e7dfb51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

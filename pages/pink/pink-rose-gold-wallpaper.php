@@ -1,0 +1,129 @@
+<title>Elegant Pink Rose Gold Wallpaper for Chic Interiors</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="pink rose gold wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-rose-gold-wallpaper">
+                            <span itemprop="name">pink rose gold wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Pink Rose Gold Wallpaper for Chic Interiors</h1>
+                <p>Transform your space with exquisite pink rose gold wallpaper, perfect for adding elegance and sophistication to any room. This stunning hue blends warmth with a modern flair, suitable for bedrooms, living areas, or offices. Elevate your decor effortlessly and create a serene, stylish ambiance that reflects your unique taste.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/89/92/b5/8992b5d6e40c2d08b2e94c87dba90910.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/89/92/b5/8992b5d6e40c2d08b2e94c87dba90910.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Pattern Rose Gold Abstract Style Background Wallpaper Image ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210715/original/pngtree-pink-pattern-rose-gold-abstract-style-background-picture-image_1328744.jpg' alt='Pink Pattern Rose Gold Abstract Style Background Wallpaper Image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210715/original/pngtree-pink-pattern-rose-gold-abstract-style-background-picture-image_1328744.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rose Quartz Wallpaper">
+                                <img itemprop="contentUrl url" src='http://wallblush.com/cdn/shop/files/RoseQuartzWallpaperFauxMarblePrintFieldPrintVintageBlueFloralPrint.png?v=1715377923&width=2048' alt='Rose Quartz Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='http://wallblush.com/cdn/shop/files/RoseQuartzWallpaperFauxMarblePrintFieldPrintVintageBlueFloralPrint.png?v=1715377923&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rose Gold And Pink Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/rose-gold-and-pink-9j0frw058sv19ae9-3.jpg' alt='Rose Gold And Pink Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/rose-gold-and-pink-9j0frw058sv19ae9-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Liquid Marble Wallpaper in Pink and Gold">
+                                <img itemprop="contentUrl url" src='http://ilovewallpaper.com/cdn/shop/files/1-Liquid-Marble-Pink-and-Gold_ILW035_Thumbnail_WEB_971bd3eb-a8f9-4314-ba2d-8f9d5b5ab529.webp?v=1706010649' alt='Liquid Marble Wallpaper in Pink and Gold'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='http://ilovewallpaper.com/cdn/shop/files/1-Liquid-Marble-Pink-and-Gold_ILW035_Thumbnail_WEB_971bd3eb-a8f9-4314-ba2d-8f9d5b5ab529.webp?v=1706010649' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fine Decor Arken Rose Gold Geometric Rose Gold Wallpaper Sample  2900-41685SAM">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/e5208a2a-f314-4c40-b860-bb12ebc33e39/svn/fine-decor-wallpaper-samples-2900-41685sam-64_600.jpg' alt='Fine Decor Arken Rose Gold Geometric Rose Gold Wallpaper Sample  2900-41685SAM'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/e5208a2a-f314-4c40-b860-bb12ebc33e39/svn/fine-decor-wallpaper-samples-2900-41685sam-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute rose gold wallpapers for iPhone (free to download) - miss mv">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/be/16/5e/be165e7adef470db7d4a07744bde5893.jpg' alt='Cute rose gold wallpapers for iPhone (free to download) - miss mv'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="336">
+                                <meta itemprop="height" content="504">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/be/16/5e/be165e7adef470db7d4a07744bde5893.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pink Rose Gold Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/pink-rose-gold-1mb0zr397vtpumff.jpg' alt='100+] Pink Rose Gold Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="507">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/pink-rose-gold-1mb0zr397vtpumff.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Rose Gold Marble Ink Art Wallpaper, Luxe Pink And Gold Peel ...">
+                                <img itemprop="contentUrl url" src='https://muralium.com/wp-content/uploads/2023/11/002_Front_Interior_Scene-30-scaled.jpg' alt='Pink Rose Gold Marble Ink Art Wallpaper, Luxe Pink And Gold Peel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Muralium" />
+                                </span>
+                                <a href='https://muralium.com/wp-content/uploads/2023/11/002_Front_Interior_Scene-30-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Rose Gold Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/watercolor-alcohol-ink-background_23-2149076317.jpg' alt='Pink Rose Gold Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/watercolor-alcohol-ink-background_23-2149076317.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

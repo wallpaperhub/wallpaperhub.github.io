@@ -1,0 +1,129 @@
+<title>Vibrant Lips PNG Images for Creative Projects</title>
+                    <meta name="description" content="Discover a stunning selection of lips PNG images ideal for brands, artists, and DIY projects. Our transparent files are easy to use, ensuring your designs stand out. Perfect for social media, websites, or personal projects. Get your high-quality lips graphics today!">
+                    <meta name="keywords" content="lips png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lips-png">
+                            <span itemprop="name">lips png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Lips PNG Images for Creative Projects</h1>
+                <p>Looking for high-quality lips PNG images? Our collection features a variety of lip designs perfect for graphic projects, social media, and more. Whether for beauty branding, digital art, or personal use, our transparent PNGs ensure a seamless fit. Download now to add a stylish touch to your creative work!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lips PNG Clipart - Best WEB Clipart">
+                                <img itemprop="contentUrl url" src='https://pics.clipartpng.com/Lips_PNG_Clipart-2586.png' alt='Lips PNG Clipart - Best WEB Clipart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6000">
+                                <meta itemprop="height" content="3272">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ClipartPNG" />
+                                </span>
+                                <a href='https://pics.clipartpng.com/Lips_PNG_Clipart-2586.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lips PNG image transparent image download, size: 510x386px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/lips_PNG6204.png' alt='Lips PNG image transparent image download, size: 510x386px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="510">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/lips_PNG6204.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lips PNG Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvam9iNTIwLW1hZXdoLTEwLnBuZw.png' alt='Lips PNG Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvam9iNTIwLW1hZXdoLTEwLnBuZw.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lips, Lips png | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/465/52/png-clipart-lips-lips.png' alt='Lips, Lips png | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="407">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/465/52/png-clipart-lips-lips.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Female Red Lips PNG Clip Art - Best WEB Clipart">
+                                <img itemprop="contentUrl url" src='https://pics.clipartpng.com/Female_Red_Lips_PNG_Clip_Art-2227.png' alt='Female Red Lips PNG Clip Art - Best WEB Clipart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="8000">
+                                <meta itemprop="height" content="4802">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ClipartPNG" />
+                                </span>
+                                <a href='https://pics.clipartpng.com/Female_Red_Lips_PNG_Clip_Art-2227.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="lip png">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/2f/33/bd/2f33bd19e4aa6715b0c3ec30217b8dfa.jpg' alt='lip png'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="429">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/2f/33/bd/2f33bd19e4aa6715b0c3ec30217b8dfa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Lips, Contrasting, Lips PNG Transparent Image and Clipart for ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20240729/ourmid/pngtree-pink-lips-png-image_13279067.png' alt='Pink Lips, Contrasting, Lips PNG Transparent Image and Clipart for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20240729/ourmid/pngtree-pink-lips-png-image_13279067.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lips Vector png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/671/975/png-clipart-lip-others-lip-lips-vector-thumbnail.png' alt='Lips Vector png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="245">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/671/975/png-clipart-lip-others-lip-lips-vector-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lips PNG Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA5L3NtYWxsZGVzaWduY29tcGFueTAxX2xpcHNfd2l0aF9zaGlueV9yZWRfZ2xvc3NfbGlwc3RpY2tfaXNvbGF0ZV9kZjNiNjRhNS02MDQ0LTQ1NDEtODA0Yy1kMWU3Mjg0ZGJiM2IucG5n.png' alt='Lips PNG Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA5L3NtYWxsZGVzaWduY29tcGFueTAxX2xpcHNfd2l0aF9zaGlueV9yZWRfZ2xvc3NfbGlwc3RpY2tfaXNvbGF0ZV9kZjNiNjRhNS02MDQ0LTQ1NDEtODA0Yy1kMWU3Mjg0ZGJiM2IucG5n.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lips Png Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/pinup-style-lip-print_53876-8546.jpg' alt='Lips Png Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/pinup-style-lip-print_53876-8546.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

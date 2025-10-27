@@ -1,0 +1,129 @@
+<title>Vibrant 4K Day of the Dead Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore an exquisite collection of 4K Day of the Dead wallpapers, ideal for adding a festive touch to your devices. Celebrate life and culture with vibrant designs that honor this beautiful tradition. Download now and fill your screen with art that tells a story and keeps memories alive!">
+                    <meta name="keywords" content="day of the dead wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/day-of-the-dead-wallpaper-4k">
+                            <span itemprop="name">day of the dead wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant 4K Day of the Dead Wallpapers for Your Device</h1>
+                <p>Transform your device with stunning 4K Day of the Dead wallpapers that celebrate this vibrant Mexican tradition! Featuring intricate designs, vivid colors, and elements of the holiday, each wallpaper brings to life the spirit of remembrance and joy. Perfect for showcasing the beauty of Día de los Muertos on any screen.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dia De Los Muertos Photos, Download The BEST Free Dia De Los ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1918290/pexels-photo-1918290.jpeg' alt='Dia De Los Muertos Photos, Download The BEST Free Dia De Los ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2850">
+                                <meta itemprop="height" content="3563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1918290/pexels-photo-1918290.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Day Of The Dead Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/day-of-the-dead-egaej8hnht7xhftt.jpg' alt='100+] Day Of The Dead Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1163">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/day-of-the-dead-egaej8hnht7xhftt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Day Of The Dead Dress Artistic Sugar Skull 4k Ultra HD ...">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/120/1206937.jpg' alt='Download Day Of The Dead Dress Artistic Sugar Skull 4k Ultra HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4500">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/120/1206937.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Day Of The Dead Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/woman-and-skull-for-day-of-the-dead-t05j6aly2wgkfb39.jpg' alt='100+] Day Of The Dead Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/woman-and-skull-for-day-of-the-dead-t05j6aly2wgkfb39.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,200+ Dia De Los Muertos Wallpaper Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/620703516/vector/day-of-the-dead.jpg?s=612x612&w=0&k=20&c=bDKNXYFJIGqkrrVViaxbyl54bRUm4mkOvEXxh5JQMkQ=' alt='4,200+ Dia De Los Muertos Wallpaper Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/620703516/vector/day-of-the-dead.jpg?s=612x612&w=0&k=20&c=bDKNXYFJIGqkrrVViaxbyl54bRUm4mkOvEXxh5JQMkQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boss sugar skulls, dead, skull, sugar skulls, top hat, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/794/389/HD-wallpaper-boss-sugar-skulls-dead-skull-sugar-skulls-top-hat.jpg' alt='Boss sugar skulls, dead, skull, sugar skulls, top hat, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1339">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/794/389/HD-wallpaper-boss-sugar-skulls-dead-skull-sugar-skulls-top-hat.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grim, day, dead, flowers, corazones, love, reaper, roses, skull ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/382/553/HD-wallpaper-grim-day-dead-flowers-hearts-love-reaper-roses-skull-sugar-sword.jpg' alt='Grim, day, dead, flowers, corazones, love, reaper, roses, skull ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/382/553/HD-wallpaper-grim-day-dead-flowers-hearts-love-reaper-roses-skull-sugar-sword.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Day Of The Dead Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/day-of-the-dead-in-gold-cxqxgc9mjocyfgll.jpg' alt='100+] Day Of The Dead Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/day-of-the-dead-in-gold-cxqxgc9mjocyfgll.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Day Of The Dead Artistic Sugar Skull 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/994/994556.jpg' alt='Download Day Of The Dead Artistic Sugar Skull 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/994/994556.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Day Of The Dead Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/soft-colors-for-day-of-the-dead-1sydrvatgnemjeaq.jpg' alt='100+] Day Of The Dead Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/soft-colors-for-day-of-the-dead-1sydrvatgnemjeaq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

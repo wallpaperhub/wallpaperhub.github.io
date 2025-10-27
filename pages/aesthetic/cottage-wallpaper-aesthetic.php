@@ -1,0 +1,129 @@
+<title>Cottage Wallpaper Aesthetic: Cozy Designs for Your Home</title>
+                    <meta name="description" content="Explore the enchanting cottage wallpaper aesthetic, featuring floral patterns and vintage prints. Transform your space into a warm, inviting retreat with these charming designs. Perfect for creating a cozy atmosphere in any room, this aesthetic seamlessly blends comfort and style.">
+                    <meta name="keywords" content="cottage wallpaper aesthetic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/cottage-wallpaper-aesthetic">
+                            <span itemprop="name">cottage wallpaper aesthetic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cottage Wallpaper Aesthetic: Cozy Designs for Your Home</h1>
+                <p>Experience the charm of cottage wallpaper aesthetic, characterized by soft florals, pastoral scenes, and vintage prints. This design creates a cozy atmosphere, perfect for a serene retreat. Choosing the right colors and patterns can transport any room into a quaint getaway, reminiscent of sunlit cottages and blooming gardens.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/95/c8/35/95c8352d41a77b231f36a361b380b51f.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="1133">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/95/c8/35/95c8352d41a77b231f36a361b380b51f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cottagecore aesthetic \\ cottage core">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a3/e4/8e/a3e48e596ebef8de8081c13165f790a9.jpg' alt='Cottagecore aesthetic \\ cottage core'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1218">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a3/e4/8e/a3e48e596ebef8de8081c13165f790a9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Perfect Impossible Cottagecore Dream | by Mary Retta | Medium">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1024/1*_Wyjl2T4kufUpH6j6EtcKg.jpeg' alt='My Perfect Impossible Cottagecore Dream | by Mary Retta | Medium'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1024/1*_Wyjl2T4kufUpH6j6EtcKg.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cottagecore Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cottagecore-e7wlc2ft5gnxi4mk.jpg' alt='100+] Cottagecore Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cottagecore-e7wlc2ft5gnxi4mk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cozy Cottage Amidst Lush Greenery Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/cozy-cottage-amidst-lush-greenery-ute251kdd41vn75k.webp' alt='Cozy Cottage Amidst Lush Greenery Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="531">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/cozy-cottage-amidst-lush-greenery-ute251kdd41vn75k.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cottage Well Cottagecore Desktop Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cottage-well-cottagecore-desktop-c2tmpdwnz8pneaib.jpg' alt='Cottage Well Cottagecore Desktop Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cottage-well-cottagecore-desktop-c2tmpdwnz8pneaib.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cottage-core aesthetic       ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/df/88/df/df88df93a0a921fc797525a269b8dc08.jpg' alt='cottage-core aesthetic       '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/df/88/df/df88df93a0a921fc797525a269b8dc08.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cottagecore Wallpaper | Floral Vintage Tiles, Cozy Cottage Wallpaper">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/files/cottagecore-wallpaper-853513.jpg?v=1730574433' alt='Cottagecore Wallpaper | Floral Vintage Tiles, Cozy Cottage Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/files/cottagecore-wallpaper-853513.jpg?v=1730574433' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD cottagecore wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/980/894/HD-wallpaper-cottagecore-aesthetic-laptop-cottagecore-aesthetic-iphone-themes-fairy-aesthetic.jpg' alt='HD cottagecore wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/980/894/HD-wallpaper-cottagecore-aesthetic-laptop-cottagecore-aesthetic-iphone-themes-fairy-aesthetic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Exactly How to Achieve Cottage Core Home Decor (+ Product Recs!)">
+                                <img itemprop="contentUrl url" src='https://whimsysoul.com/wp-content/uploads/2023/02/Whimsy-Homes-free-Cottagecore-aesthetic-wallpaper-129.jpg' alt='Exactly How to Achieve Cottage Core Home Decor (+ Product Recs!)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="660">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Whimsy Soul" />
+                                </span>
+                                <a href='https://whimsysoul.com/wp-content/uploads/2023/02/Whimsy-Homes-free-Cottagecore-aesthetic-wallpaper-129.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

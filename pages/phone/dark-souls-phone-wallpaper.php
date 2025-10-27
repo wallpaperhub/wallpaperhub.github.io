@@ -1,0 +1,129 @@
+<title>Epic Dark Souls Phone Wallpapers - Download Now!</title>
+                    <meta name="description" content="Discover a collection of captivating Dark Souls phone wallpapers. Perfect for fans of the game, these designs feature breathtaking scenery and iconic characters. Elevate your device's aesthetic with these immersive backgrounds and carry the spirit of Dark Souls wherever you go. Download your favorites today!">
+                    <meta name="keywords" content="dark souls phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/dark-souls-phone-wallpaper">
+                            <span itemprop="name">dark souls phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Dark Souls Phone Wallpapers - Download Now!</h1>
+                <p>Transform your screen with stunning Dark Souls phone wallpapers that capture the game's haunting beauty. From epic landscapes to iconic characters, these wallpapers bring the intensity of the world of Lordran right to your device. Download your favorite designs and embrace the challenge of Dark Souls every time you unlock your phone!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark souls phone background collection for you fellow undead : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/nadq4pifk0s51.jpg' alt='Dark souls phone background collection for you fellow undead : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/nadq4pifk0s51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark souls phone background collection for you fellow undead : r ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/876/996/HD-wallpaper-dark-souls-3-yhorm.jpg' alt='Dark souls phone background collection for you fellow undead : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/876/996/HD-wallpaper-dark-souls-3-yhorm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Video Game/Dark Souls (1080x1920) Wallpaper ID: 711113 - Mobile Abyss">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4f/98/19/4f981921b04d51020b7863c4003bf2b7.jpg' alt='Video Game/Dark Souls (1080x1920) Wallpaper ID: 711113 - Mobile Abyss'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4f/98/19/4f981921b04d51020b7863c4003bf2b7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Souls FireLink Shrine">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c2/c8/fa/c2c8fa29e2d78528df0de2331eae08c0.jpg' alt='Dark Souls FireLink Shrine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c2/c8/fa/c2c8fa29e2d78528df0de2331eae08c0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark souls phone background collection for you fellow undead : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/lrimld7gk0s51.jpg' alt='Dark souls phone background collection for you fellow undead : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="749">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/lrimld7gk0s51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Souls bonfire, dark souls, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/44/11/HD-wallpaper-dark-souls-bonfire-dark-souls.jpg' alt='Dark Souls bonfire, dark souls, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1818">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/44/11/HD-wallpaper-dark-souls-bonfire-dark-souls.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark souls phone background collection for you fellow undead : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/685tebngk0s51.jpg' alt='Dark souls phone background collection for you fellow undead : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/685tebngk0s51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Souls 4K Phone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp9148852.jpg' alt='Dark Souls 4K Phone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp9148852.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Dark Souls iPhone Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4b/5e/70/4b5e703a4f08077e6a9c1f7c1adb1b10.jpg' alt='Awesome Dark Souls iPhone Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4b/5e/70/4b5e703a4f08077e6a9c1f7c1adb1b10.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark souls Bonfire, dark souls, dark souls 3, darks souls 2, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/689/727/HD-wallpaper-dark-souls-bonfire-dark-souls-dark-souls-3-darks-souls-2.jpg' alt='Dark souls Bonfire, dark souls, dark souls 3, darks souls 2, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1555">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/689/727/HD-wallpaper-dark-souls-bonfire-dark-souls-dark-souls-3-darks-souls-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

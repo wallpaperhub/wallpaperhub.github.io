@@ -1,0 +1,129 @@
+<title>Stunning Dark iPhone 13 Wallpapers for a Sleek Look</title>
+                    <meta name="description" content="Explore a curated selection of dark iPhone 13 wallpapers that combine elegance and style. Ideal for a minimalist aesthetic, these wallpapers enhance your device’s look while providing a unique backdrop for your screen. Perfect for any occasion, transform your iPhone 13 today!">
+                    <meta name="keywords" content="dark iphone 13 wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/dark-iphone-13-wallpaper">
+                            <span itemprop="name">dark iphone 13 wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Dark iPhone 13 Wallpapers for a Sleek Look</h1>
+                <p>Discover a stunning collection of dark iPhone 13 wallpapers that elevate your device's aesthetic. Explore unique designs featuring black gradients, galaxy themes, and abstract art that enhance the sleek look of your iPhone 13. Perfect for those who appreciate minimalism and want their screen to stand out while being easy on the eyes.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 13 Official Stock Wallpaper Twist (Midnight) – Dark ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2021/09/2002.Twist_Black_Dark-390w-844h@3xiphone.jpg' alt='iPhone 13 Official Stock Wallpaper Twist (Midnight) – Dark ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1404">
+                                <meta itemprop="height" content="3040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Central - iSpazio" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2021/09/2002.Twist_Black_Dark-390w-844h@3xiphone.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iOS 13 Official Stock Wallpaper (Ultra HD) – Black Dark ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2019/06/iOS-13-stock-wallpaper-black-dark-wallpapers-central.png' alt='iOS 13 Official Stock Wallpaper (Ultra HD) – Black Dark ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3186">
+                                <meta itemprop="height" content="3186">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Central - iSpazio" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2019/06/iOS-13-stock-wallpaper-black-dark-wallpapers-central.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iOS 13 Wallpaper 4K, Red, Stock, iPadOS">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/ios-13-stock-ipados-red-black-background-amoled-hd-1170x2532-799.jpg' alt='iOS 13 Wallpaper 4K, Red, Stock, iPadOS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/ios-13-stock-ipados-red-black-background-amoled-hd-1170x2532-799.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iOS 13 Black Dark (1125x2436) Resolution wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/14/e9/d0/14e9d01425827a7c2ac374c717d45302.jpg' alt='iOS 13 Black Dark (1125x2436) Resolution wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/14/e9/d0/14e9d01425827a7c2ac374c717d45302.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone 13 Black Curve Lines Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/iphone-13-black-curve-lines-8yvr49uxl1rweu3h.jpg' alt='Iphone 13 Black Curve Lines Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/iphone-13-black-curve-lines-8yvr49uxl1rweu3h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 13 Official Stock Wallpaper Twist (Starlight) – Dark ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2021/09/2012.Twist_White_Dark-390w-844h@3xiphone.jpg' alt='iPhone 13 Official Stock Wallpaper Twist (Starlight) – Dark ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1404">
+                                <meta itemprop="height" content="3040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Central - iSpazio" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2021/09/2012.Twist_White_Dark-390w-844h@3xiphone.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IOS 15 iPhone 13, dark, apple, ios 15, phone, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/29/424/HD-wallpaper-ios-15-iphone-13-dark-apple-ios-15-phone.jpg' alt='IOS 15 iPhone 13, dark, apple, ios 15, phone, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1731">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/29/424/HD-wallpaper-ios-15-iphone-13-dark-apple-ios-15-phone.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="dark mode wallpaper iPhone by @Hk3ToN | Zollotech">
+                                <img itemprop="contentUrl url" src='https://www.zollotech.com/wp-content/uploads/2021/02/dark-mode-wallpaper-iPhone.png' alt='dark mode wallpaper iPhone by @Hk3ToN | Zollotech'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1404">
+                                <meta itemprop="height" content="3040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zollotech" />
+                                </span>
+                                <a href='https://www.zollotech.com/wp-content/uploads/2021/02/dark-mode-wallpaper-iPhone.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 13 Pro - Black Modd by iSpazio (UPDATED) - Wallpapers Central">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2021/09/ispazio-58-768x1661.jpg' alt='iPhone 13 Pro - Black Modd by iSpazio (UPDATED) - Wallpapers Central'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1661">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Central - iSpazio" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2021/09/ispazio-58-768x1661.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 13 Wallpapers on WallpaperDog">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0a/a4/d1/0aa4d1282692c2ff7eda933fdabdb02a.jpg' alt='iPhone 13 Wallpapers on WallpaperDog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0a/a4/d1/0aa4d1282692c2ff7eda933fdabdb02a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

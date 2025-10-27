@@ -1,0 +1,129 @@
+<title>Shayna Baszler: The Queen of Spades in Wrestling</title>
+                    <meta name="description" content="Discover the incredible journey of Shayna Baszler, a trailblazer in women's wrestling and former UFC fighter. Explore her championship victories, signature moves, and her impact on the sport. Stay updated on her latest matches and career highlights!">
+                    <meta name="keywords" content="shayna baszler">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/shayna-baszler">
+                            <span itemprop="name">shayna baszler</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Shayna Baszler: The Queen of Spades in Wrestling</h1>
+                <p>Shayna Baszler is a professional wrestler and mixed martial artist known for her fierce style and submission skills. A former UFC fighter and a two-time NXT Women's Champion, she has made a significant impact in WWE with her intimidating presence and strategic mind. Baszler continues to be a dominant force in women’s wrestling.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shayna Baszler - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/b/b0/SHIMMER_Volume_88_-_Shayna_Baszler_04_%28cropped%29.jpg' alt='Shayna Baszler - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="535">
+                                <meta itemprop="height" content="708">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/b/b0/SHIMMER_Volume_88_-_Shayna_Baszler_04_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shayna Baszler | WWE">
+                                <img itemprop="contentUrl url" src='https://www.wwe.com/f/styles/talent_champion_lg/public/all/2022/03/Shayna_Baszler_Profile--3c1a3d7f5b91116d64f80c02ebd83755.png' alt='Shayna Baszler | WWE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WWE" />
+                                </span>
+                                <a href='https://www.wwe.com/f/styles/talent_champion_lg/public/all/2022/03/Shayna_Baszler_Profile--3c1a3d7f5b91116d64f80c02ebd83755.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shayna Andrea Baszler - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BYjg2YWYwOTQtMjQ0MS00MTdjLTkwMTEtYzVkZWE1YzFhY2ViXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' alt='Shayna Andrea Baszler - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BYjg2YWYwOTQtMjQ0MS00MTdjLTkwMTEtYzVkZWE1YzFhY2ViXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shayna Baszler ♠️ (@qosbaszler) • Instagram photos and videos">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3483157969083250958' alt='Shayna Baszler ♠️ (@qosbaszler) • Instagram photos and videos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1398">
+                                <meta itemprop="height" content="1700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3483157969083250958' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shayna Baszler | BWWE Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/bwwe/images/1/17/Shayna_Baszle.png/revision/latest?cb=20230201232158' alt='Shayna Baszler | BWWE Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BWWE Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/bwwe/images/1/17/Shayna_Baszle.png/revision/latest?cb=20230201232158' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Shayna The Queen of Spades Baszler">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100044272757426' alt='Profile for Shayna The Queen of Spades Baszler'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100044272757426' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GREATEST DAY IN HISTORY (photo dump of rad life stuff) #LimbByLimb ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3430381521696255076' alt='GREATEST DAY IN HISTORY (photo dump of rad life stuff) #LimbByLimb ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3430381521696255076' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shayna Baszler: WWE NXT star on working MMA style of wrestling ...">
+                                <img itemprop="contentUrl url" src='https://www.si.com/.image/c_fill,w_1200,ar_1:1,f_auto,q_auto,g_auto/MTY3MTQ1NjUwOTczMDU4MTY0/wwe-shayna-baszler-nxt-womens-championship.jpg' alt='Shayna Baszler: WWE NXT star on working MMA style of wrestling ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Illustrated" />
+                                </span>
+                                <a href='https://www.si.com/.image/c_fill,w_1200,ar_1:1,f_auto,q_auto,g_auto/MTY3MTQ1NjUwOTczMDU4MTY0/wwe-shayna-baszler-nxt-womens-championship.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Queen of Spades' Shayna Baszler ready for World Wrestling ...">
+                                <img itemprop="contentUrl url" src='https://www.argusleader.com/gcdn/-mm-/e79b255ce876086a9fa65e3faba447ec95f38d4c/c=542-180-2375-2624/local/-/media/2017/10/11/SiouxFalls/SiouxFalls/636433275088177645-shayna-1.jpg' alt='Queen of Spades' Shayna Baszler ready for World Wrestling ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1833">
+                                <meta itemprop="height" content="2444">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Argus Leader" />
+                                </span>
+                                <a href='https://www.argusleader.com/gcdn/-mm-/e79b255ce876086a9fa65e3faba447ec95f38d4c/c=542-180-2375-2624/local/-/media/2017/10/11/SiouxFalls/SiouxFalls/636433275088177645-shayna-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shayna Baszler says she's 'in a better position now' than if she ...">
+                                <img itemprop="contentUrl url" src='https://cdn.vox-cdn.com/thumbor/tllx88a5uVTEXoE6uyF6AlnNoLA=/1x0:2037x1357/1400x1050/filters:focal(1x0:2037x1357):format(jpeg)/cdn.vox-cdn.com/uploads/chorus_image/image/30975403/180353573.0.jpg' alt='Shayna Baszler says she's 'in a better position now' than if she ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MMA Fighting" />
+                                </span>
+                                <a href='https://cdn.vox-cdn.com/thumbor/tllx88a5uVTEXoE6uyF6AlnNoLA=/1x0:2037x1357/1400x1050/filters:focal(1x0:2037x1357):format(jpeg)/cdn.vox-cdn.com/uploads/chorus_image/image/30975403/180353573.0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

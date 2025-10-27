@@ -1,0 +1,129 @@
+<title>Stunning 3D Rock Wallpaper for Your Home</title>
+                    <meta name="description" content="Enhance your interiors with our beautiful 3D rock wallpaper. Perfect for creating an eye-catching feature wall, our designs provide depth and texture to any room. Explore a variety of styles, from rugged cliffs to smooth stones, and elevate your home decor effortlessly!">
+                    <meta name="keywords" content="3d rock wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/3d">
+                            <span itemprop="name">3D</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/3d/3d-rock-wallpaper">
+                            <span itemprop="name">3d rock wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 3D Rock Wallpaper for Your Home</h1>
+                <p>Transform your space with stunning 3D rock wallpaper that adds depth and character to any room. Whether you prefer a rugged mountain texture, a serene beach cliff, or a sleek stone finish, these wallpapers create a realistic three-dimensional effect. Ideal for accent walls, living rooms, and more!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rock Wallpaper, 3D Stone Texture Wall Mural, Dark Realistic Peel ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/46044707/r/il/078c01/5191180120/il_fullxfull.5191180120_e3li.jpg' alt='Rock Wallpaper, 3D Stone Texture Wall Mural, Dark Realistic Peel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/46044707/r/il/078c01/5191180120/il_fullxfull.5191180120_e3li.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FOMEIL Stone Wallpaper Wall Paper 3D Rock Wallpaper Large Size 0.53mx10m  Waterproof for Home Design and Room Decoration Stacked Stone  Wallpaper,Braun ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71jljQXH+sL.jpg' alt='FOMEIL Stone Wallpaper Wall Paper 3D Rock Wallpaper Large Size 0.53mx10m  Waterproof for Home Design and Room Decoration Stacked Stone  Wallpaper,Braun ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71jljQXH+sL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stone Texture and Background. Rock Texture 3D Digital Print ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/34264469/r/il/a153e2/3774433315/il_fullxfull.3774433315_43l0.jpg' alt='Stone Texture and Background. Rock Texture 3D Digital Print ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="749">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/34264469/r/il/a153e2/3774433315/il_fullxfull.3774433315_43l0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fightal - 3D Rock Wallpaper Large Wall Mural for Living Room Bedroom (Papel  tapiz para pared de habitatacion) 108" x 75" (It's not Peel and Stick) - ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91Qjg5UstfL.jpg' alt='Fightal - 3D Rock Wallpaper Large Wall Mural for Living Room Bedroom (Papel  tapiz para pared de habitatacion) 108" x 75" (It's not Peel and Stick) - ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="1760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91Qjg5UstfL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Stone Pattern - Peel-and-Stick">
+                                <img itemprop="contentUrl url" src='http://wallsneedlove.com/cdn/shop/products/w0157_1s_Faux-Stone-Texture-Wallpaper_Repeating-Pattern-Sample-1.jpg?v=1734717570' alt='3D Stone Pattern - Peel-and-Stick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3028">
+                                <meta itemprop="height" content="1872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='http://wallsneedlove.com/cdn/shop/products/w0157_1s_Faux-Stone-Texture-Wallpaper_Repeating-Pattern-Sample-1.jpg?v=1734717570' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Rock Stone Wallpaper Wall Mural Removable Self-adhesive 125">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/00/s/MTE5OVgxNjAw/z/TMQAAOSwpr1iPWNV/$_57.JPG?set_id=8800005007' alt='3D Rock Stone Wallpaper Wall Mural Removable Self-adhesive 125'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1199">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/00/s/MTE5OVgxNjAw/z/TMQAAOSwpr1iPWNV/$_57.JPG?set_id=8800005007' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stone Texture and Background. Rock Texture 3D Digital Print ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/34649723/r/il/00713b/3726455530/il_fullxfull.3726455530_ej3x.jpg' alt='Stone Texture and Background. Rock Texture 3D Digital Print ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1121">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/34649723/r/il/00713b/3726455530/il_fullxfull.3726455530_ej3x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MelunMer Stacked Stone Wallpaper, 118"x17.7", 3D Rock Wallpaper, Peel and  Stick, Self Adhesive, Removable, Stone Papel Tapiz, Stone Vinyl Wallpaper -  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71IltqF+8KL.jpg' alt='MelunMer Stacked Stone Wallpaper, 118"x17.7", 3D Rock Wallpaper, Peel and  Stick, Self Adhesive, Removable, Stone Papel Tapiz, Stone Vinyl Wallpaper -  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71IltqF+8KL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Paper Brick Waterproof Wall Papers 3D Imitation Rock Stone ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Wall-Paper-Brick-Waterproof-Wall-Papers-3D-Imitation-Rock-Stone-Vinyl-Wallpaper-Self-Adhesive-PVC-Wallpaper-Peel-and-Stick_954b4a40-f21a-4bc5-a869-6d12c2be4edd.e80ba184c51ce3c4d33d75d1c922c27b.jpeg' alt='Wall Paper Brick Waterproof Wall Papers 3D Imitation Rock Stone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Wall-Paper-Brick-Waterproof-Wall-Papers-3D-Imitation-Rock-Stone-Vinyl-Wallpaper-Self-Adhesive-PVC-Wallpaper-Peel-and-Stick_954b4a40-f21a-4bc5-a869-6d12c2be4edd.e80ba184c51ce3c4d33d75d1c922c27b.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Wallpapers Wall Mural Brick Wallpaper Brown 3D Rock Stone ...">
+                                <img itemprop="contentUrl url" src='https://litb-cgis.rightinthebox.com/desc_image/202210/bps/desc/inc/azkzta1666261556429.jpg' alt='Cool Wallpapers Wall Mural Brick Wallpaper Brown 3D Rock Stone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LightInTheBox" />
+                                </span>
+                                <a href='https://litb-cgis.rightinthebox.com/desc_image/202210/bps/desc/inc/azkzta1666261556429.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

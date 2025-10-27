@@ -1,0 +1,129 @@
+<title>Stunning Rock Wallpapers for Your iPhone</title>
+                    <meta name="description" content="Discover beautiful rock wallpapers for your iPhone. Explore a variety of nature-inspired designs featuring breathtaking landscapes and unique formations, perfect for adding a touch of the great outdoors to your device. Enhance your phone's style today with our diverse collection!">
+                    <meta name="keywords" content="the rock wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/the-rock-wallpaper-iphone">
+                            <span itemprop="name">the rock wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Rock Wallpapers for Your iPhone</h1>
+                <p>Transform your iPhone with stunning rock wallpapers that capture the beauty and allure of nature. Choose from a variety of mesmerizing designs featuring rugged mountain landscapes, serene beaches, and intricate rock formations. Perfect for nature lovers and those seeking a unique style, these wallpapers will elevate your phone's aesthetic!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dwayne Johnson Wallpapers (61 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/8/d/3/98600-1125x2436-samsung-hd-dwayne-johnson-wallpaper-photo.jpg' alt='Dwayne Johnson Wallpapers (61 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/8/d/3/98600-1125x2436-samsung-hd-dwayne-johnson-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dwayne Johnson Wallpapers (61 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/d/c/4/98608-2160x3840-iphone-4k-dwayne-johnson-wallpaper.jpg' alt='Dwayne Johnson Wallpapers (61 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/d/c/4/98608-2160x3840-iphone-4k-dwayne-johnson-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0d/72/8a/0d728ae4e9de00abd2987b740120ea48.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0d/72/8a/0d728ae4e9de00abd2987b740120ea48.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download The Rock In Gym Training Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/the-rock-in-gym-training-wctegg23m9yj1rb4.jpg' alt='Download The Rock In Gym Training Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1084">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/the-rock-in-gym-training-wctegg23m9yj1rb4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Rock - Kupy Wrestling Wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.kupywrestlingwallpapers.info/wallpapers/2023/the-rock-royal-rumble-wallpaper-mobile.jpg' alt='The Rock - Kupy Wrestling Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1013">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kupy Wrestling Wallpapers" />
+                                </span>
+                                <a href='https://www.kupywrestlingwallpapers.info/wallpapers/2023/the-rock-royal-rumble-wallpaper-mobile.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rock On, dwayne, dwayne johnson, iphone, johnson, the rock ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/677/279/HD-wallpaper-rock-on-dwayne-dwayne-johnson-iphone-johnson-the-rock-wrestling-wwe.jpg' alt='Rock On, dwayne, dwayne johnson, iphone, johnson, the rock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/677/279/HD-wallpaper-rock-on-dwayne-dwayne-johnson-iphone-johnson-the-rock-wrestling-wwe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dwayne Johnson Wallpapers (61 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/c/d/9/97846-1080x1920-iphone-1080p-dwayne-johnson-background.jpg' alt='Dwayne Johnson Wallpapers (61 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/c/d/9/97846-1080x1920-iphone-1080p-dwayne-johnson-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rock On 2, dwayne, dwayne johnson, iphone, johnson, the rock ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/699/172/HD-wallpaper-rock-on-2-dwayne-dwayne-johnson-iphone-johnson-the-rock-wrestling-wwe.jpg' alt='Rock On 2, dwayne, dwayne johnson, iphone, johnson, the rock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/699/172/HD-wallpaper-rock-on-2-dwayne-dwayne-johnson-iphone-johnson-the-rock-wrestling-wwe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dwayne Johnson Wallpapers (61 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/9/6/e/97682-1125x2436-phone-hd-dwayne-johnson-wallpaper-photo.jpg' alt='Dwayne Johnson Wallpapers (61 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/9/6/e/97682-1125x2436-phone-hd-dwayne-johnson-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Wwe the rock iPhone HD Wallpapers - iLikeWallpaper">
+                                <img itemprop="contentUrl url" src='https://r1.ilikewallpaper.net/iphone-12-pro-max-wallpapers/download-124603/wwe-the-rock.jpg' alt='Best Wwe the rock iPhone HD Wallpapers - iLikeWallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iLikeWallpaper" />
+                                </span>
+                                <a href='https://r1.ilikewallpaper.net/iphone-12-pro-max-wallpapers/download-124603/wwe-the-rock.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

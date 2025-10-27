@@ -1,0 +1,129 @@
+<title>Taino People: Heritage & Culture of the Caribbean</title>
+                    <meta name="description" content="Explore the fascinating heritage of the Taino people, the indigenous inhabitants of the Caribbean. Discover their culture, agricultural practices, and the impact of European colonization on their way of life.">
+                    <meta name="keywords" content="taino people">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/taino-people">
+                            <span itemprop="name">taino people</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Taino People: Heritage & Culture of the Caribbean</h1>
+                <p>The Taino people were an indigenous group primarily found in the Caribbean, particularly in the Greater Antilles islands. Known for their agricultural practices, they cultivated crops like cassava and tobacco. Their rich culture included vibrant art, music, and religious beliefs. The arrival of Europeans in the late 15th century drastically changed their lives.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taíno: Indigenous Caribbeans - Black History Month 2025">
+                                <img itemprop="contentUrl url" src='https://www.blackhistorymonth.org.uk/wp-content/uploads/2016/02/taino-life-002-623x322.jpg' alt='Taíno: Indigenous Caribbeans - Black History Month 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="623">
+                                <meta itemprop="height" content="322">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Black History Month UK" />
+                                </span>
+                                <a href='https://www.blackhistorymonth.org.uk/wp-content/uploads/2016/02/taino-life-002-623x322.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Taino People, a story - African American Registry">
+                                <img itemprop="contentUrl url" src='https://aaregistry.org/wp-content/uploads/2020/07/taino_cuba.jpg' alt='The Taino People, a story - African American Registry'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="235">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="African American Registry" />
+                                </span>
+                                <a href='https://aaregistry.org/wp-content/uploads/2020/07/taino_cuba.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bringing Taíno Peoples Back Into History | Smithsonian">
+                                <img itemprop="contentUrl url" src='https://th-thumbnailer.cdn-si-edu.com/ft7_spZu54G-U-Eu9KRX6xD1chs=/fit-in/1600x0/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/a1/bb/a1bb564b-a905-46b1-a209-940ce1630be5/141_concilio_taino_hi-resolution.jpg' alt='Bringing Taíno Peoples Back Into History | Smithsonian'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Smithsonian Magazine" />
+                                </span>
+                                <a href='https://th-thumbnailer.cdn-si-edu.com/ft7_spZu54G-U-Eu9KRX6xD1chs=/fit-in/1600x0/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/a1/bb/a1bb564b-a905-46b1-a209-940ce1630be5/141_concilio_taino_hi-resolution.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taíno - Taino Museum">
+                                <img itemprop="contentUrl url" src='https://tainomuseum.org/wp-content/uploads/2014/05/taino-life-001.jpg' alt='Taíno - Taino Museum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="411">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Taino Museum" />
+                                </span>
+                                <a href='https://tainomuseum.org/wp-content/uploads/2014/05/taino-life-001.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Taino in Dominican Republic Their History and Life">
+                                <img itemprop="contentUrl url" src='https://www.goldenkeymanagement.com/news/wp-content/uploads/2020/10/taino-dominican6.jpg' alt='The Taino in Dominican Republic Their History and Life'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1650">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Golden Treasures Real Estate" />
+                                </span>
+                                <a href='https://www.goldenkeymanagement.com/news/wp-content/uploads/2020/10/taino-dominican6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Puerto Rican Cultural Center - Music, Dance, and Culture of Puerto ...">
+                                <img itemprop="contentUrl url" src='https://www.prfdance.org/ConcilioTainoPR/pics/ConcilioTaino.DiaDelTaino2010.PenachosCropped.SDC12632.jpg' alt='Puerto Rican Cultural Center - Music, Dance, and Culture of Puerto ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="722">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Puerto Rican Cultural Center - Music, Dance, and Culture of Puerto ..." />
+                                </span>
+                                <a href='https://www.prfdance.org/ConcilioTainoPR/pics/ConcilioTaino.DiaDelTaino2010.PenachosCropped.SDC12632.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Taíno people were declared extinct in 1565, but history tells ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3548569332697638704' alt='The Taíno people were declared extinct in 1565, but history tells ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1347">
+                                <meta itemprop="height" content="1681">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3548569332697638704' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Taino - Men of the Good – Souled Goods">
+                                <img itemprop="contentUrl url" src='http://souledgoods.com/cdn/shop/articles/taino-660x370.jpg?v=1627837878' alt='The Taino - Men of the Good – Souled Goods'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="370">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Souled Goods" />
+                                </span>
+                                <a href='http://souledgoods.com/cdn/shop/articles/taino-660x370.jpg?v=1627837878' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taíno News & History">
+                                <img itemprop="contentUrl url" src='http://manicatotainoculturalcenter.weebly.com/uploads/1/2/6/7/12676875/dsc02277.jpg' alt='Taíno News & History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="649">
+                                <meta itemprop="height" content="402">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Manicato Taíno Cultural Center Inc. - Weebly" />
+                                </span>
+                                <a href='http://manicatotainoculturalcenter.weebly.com/uploads/1/2/6/7/12676875/dsc02277.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taino/Arawak Indians - Rethinking Columbus - LibGuides at Brooklyn ...">
+                                <img itemprop="contentUrl url" src='http://media-cache-ec0.pinimg.com/236x/af/9a/9b/af9a9bdc3749a8472ea8f4bb5ebdd89f.jpg' alt='Taino/Arawak Indians - Rethinking Columbus - LibGuides at Brooklyn ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="393">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BNS/BCS Library - LibGuides" />
+                                </span>
+                                <a href='http://media-cache-ec0.pinimg.com/236x/af/9a/9b/af9a9bdc3749a8472ea8f4bb5ebdd89f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

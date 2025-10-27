@@ -1,0 +1,129 @@
+<title>Discovering General Grievous: The Warrior Before the Cyborg</title>
+                    <meta name="description" content="Explore the origins of General Grievous, the infamous Star Wars cyborg. Learn about his life as a warrior on Kalee and his evolution from a fierce leader to a powerful cyborg. Dive into the backstory that set the stage for his quest against the Jedi. Perfect for every Star Wars fan!">
+                    <meta name="keywords" content="general grievous before cyborg">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/general-grievous-before-cyborg">
+                            <span itemprop="name">general grievous before cyborg</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discovering General Grievous: The Warrior Before the Cyborg</h1>
+                <p>Before becoming the infamous cyborg General Grievous, he was a feared warrior on the planet Kalee. As a fierce leader of the planet's resistance against the Huk class, Grievous showcased his strategic mind and martial prowess. His transformation into a cyborg was driven by the desire for power and revenge against the Jedi, who he detested for their role in his planet's suffering.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Was pre Cyborg General Grievous already capable of taking out a ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/7koa869c0mid1.png' alt='Was pre Cyborg General Grievous already capable of taking out a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="602">
+                                <meta itemprop="height" content="835">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/7koa869c0mid1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How General Grievous Became a Cyborg and His Past Life - Featuring Fact Free">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Gf9J0GlPH6I/maxresdefault.jpg' alt='How General Grievous Became a Cyborg and His Past Life - Featuring Fact Free'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Gf9J0GlPH6I/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Star Wars 30th Anniversary Pre-Cyborg Grievous Action Figure  #36 with Coin : Toys & Games">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61XByFDbfIL.jpg' alt='Amazon.com: Star Wars 30th Anniversary Pre-Cyborg Grievous Action Figure  #36 with Coin : Toys & Games'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61XByFDbfIL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars finally shows us what General Grievous looked like pre ...">
+                                <img itemprop="contentUrl url" src='https://images.ladbible.com/resize?type=webp&quality=70&width=3840&fit=contain&gravity=auto&url=https://images.ladbiblegroup.com/v3/assets/bltbc1876152fcd9f07/blt94f91b325f3ea330/66792e1c74e9ef2ff5615176/Grievous.png' alt='Star Wars finally shows us what General Grievous looked like pre ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GAMINGbible" />
+                                </span>
+                                <a href='https://images.ladbible.com/resize?type=webp&quality=70&width=3840&fit=contain&gravity=auto&url=https://images.ladbiblegroup.com/v3/assets/bltbc1876152fcd9f07/blt94f91b325f3ea330/66792e1c74e9ef2ff5615176/Grievous.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The TRAGIC Life of General Grievous Before He Became a CYBORG [FULL STORY]  - (UPDATED)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/UL3Lx54KTtk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD7TRq92-Y25uz54WhwQgBiqmkE8w' alt='The TRAGIC Life of General Grievous Before He Became a CYBORG [FULL STORY]  - (UPDATED)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/UL3Lx54KTtk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD7TRq92-Y25uz54WhwQgBiqmkE8w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars™ - Grievous™ (Warlord) Mini Bust - 2024 SDCC Exclusive - Display">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-2zs1uo/images/stencil/1280x1280/products/9467/22301/SW_ConceptGrievous_Bust_02__26732.1719512041.1280.1280__93739.1719948059.jpg?c=2' alt='Star Wars™ - Grievous™ (Warlord) Mini Bust - 2024 SDCC Exclusive - Display'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gentle Giant Ltd" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-2zs1uo/images/stencil/1280x1280/products/9467/22301/SW_ConceptGrievous_Bust_02__26732.1719512041.1280.1280__93739.1719948059.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars: Who Was General Grievous Before He Became A Cyborg?">
+                                <img itemprop="contentUrl url" src='https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/star-wars-general-grievous-pre-cyborg.jpg' alt='Star Wars: Who Was General Grievous Before He Became A Cyborg?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Game Rant" />
+                                </span>
+                                <a href='https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/star-wars-general-grievous-pre-cyborg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pre-cyborg General Grievous - ZBrushCentral">
+                                <img itemprop="contentUrl url" src='https://www.zbrushcentral.com/uploads/default/original/4X/0/0/f/00ffb04595c5d201d7930bfc7e1c8940f1f1a7ac.jpeg' alt='Pre-cyborg General Grievous - ZBrushCentral'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="814">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ZBrushCentral" />
+                                </span>
+                                <a href='https://www.zbrushcentral.com/uploads/default/original/4X/0/0/f/00ffb04595c5d201d7930bfc7e1c8940f1f1a7ac.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grievous | Wookieepedia | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/starwars/images/2/26/YoungQymaen.png/revision/latest/scale-to-width/360?cb=20241217221131' alt='Grievous | Wookieepedia | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wookieepedia - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/starwars/images/2/26/YoungQymaen.png/revision/latest/scale-to-width/360?cb=20241217221131' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How General Grievous Became a Cyborg - Star Wars Explained">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/_Rm2ddBFvDo/maxresdefault.jpg' alt='How General Grievous Became a Cyborg - Star Wars Explained'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/_Rm2ddBFvDo/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

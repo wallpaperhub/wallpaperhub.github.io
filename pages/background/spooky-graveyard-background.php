@@ -1,0 +1,129 @@
+<title>Spooky Graveyard Background: Perfect for Halloween Vibes</title>
+                    <meta name="description" content="Discover the perfect spooky graveyard background to elevate your Halloween-themed events! Explore atmospheric elements like crumbling tombstones and mysterious fog, ideal for creating a chilling environment. Perfect for parties, decorations, or digital designs that need a touch of eerie allure.">
+                    <meta name="keywords" content="spooky graveyard background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/spooky-graveyard-background">
+                            <span itemprop="name">spooky graveyard background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spooky Graveyard Background: Perfect for Halloween Vibes</h1>
+                <p>A spooky graveyard background sets the perfect atmosphere for those eerie nights. Picture crumbling headstones, gnarled trees silhouetted against a glowing moon, and creeping fog that entwines around moss-covered crypts. Perfect for Halloween or haunted-themed events, this haunting backdrop evokes mystery and intrigue, inviting whispers of ghostly tales.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="105,500+ Spooky Graveyard Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1171833307/photo/zombie-rising-out-of-a-graveyard-cemetery-in-spooky-dark-night.jpg?s=612x612&w=0&k=20&c=9aEQc64cgnaFBX8nJncoi7fVDrXU2fI4fbQy_fR83lY=' alt='105,500+ Spooky Graveyard Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1171833307/photo/zombie-rising-out-of-a-graveyard-cemetery-in-spooky-dark-night.jpg?s=612x612&w=0&k=20&c=9aEQc64cgnaFBX8nJncoi7fVDrXU2fI4fbQy_fR83lY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="105,500+ Spooky Graveyard Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/521794263/photo/cemetery-night.jpg?s=612x612&w=0&k=20&c=xBWn6q60AwICLvAmlyCmdwgb3QrFeMggAFHcURTMeAI=' alt='105,500+ Spooky Graveyard Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/521794263/photo/cemetery-night.jpg?s=612x612&w=0&k=20&c=xBWn6q60AwICLvAmlyCmdwgb3QrFeMggAFHcURTMeAI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7x5FT Halloween Horror Background Scary Spooky Graveyard Cemetery Ghosts  Spooky Lights Full Moon Crows Screaming Trick or Treat for Child Kids ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81qd0ZSRhIL._AC_UF894,1000_QL80_.jpg' alt='7x5FT Halloween Horror Background Scary Spooky Graveyard Cemetery Ghosts  Spooky Lights Full Moon Crows Screaming Trick or Treat for Child Kids ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="639">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81qd0ZSRhIL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spooky Cemetery At Night Wall Mural">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/288197/Spooky-Cemetery-At-Night-Wall-Mural.jpg?v=638302169849730000' alt='Spooky Cemetery At Night Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="1241">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/288197/Spooky-Cemetery-At-Night-Wall-Mural.jpg?v=638302169849730000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="105,500+ Spooky Graveyard Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1360390352/photo/crosses-and-graves-in-the-old-abandoned-cemetery.jpg?s=612x612&w=0&k=20&c=g4p4p7EYdCjoIdlIi77GJUYMWfg-2IkmgzqSEkBv8XA=' alt='105,500+ Spooky Graveyard Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1360390352/photo/crosses-and-graves-in-the-old-abandoned-cemetery.jpg?s=612x612&w=0&k=20&c=g4p4p7EYdCjoIdlIi77GJUYMWfg-2IkmgzqSEkBv8XA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween background - Spooky graveyard by Mythja Photography">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images-medium-large-5/halloween-background-spooky-graveyard-mythja-photography.jpg' alt='Halloween background - Spooky graveyard by Mythja Photography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="641">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixels" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images-medium-large-5/halloween-background-spooky-graveyard-mythja-photography.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spooky Halloween Graveyard With Pumpkin Backdrop IBD-246840 ...">
+                                <img itemprop="contentUrl url" src='https://www.ibackdrop.com/cdn/shop/products/IBD-246840-2.2x1.5.jpg?v=1629427353' alt='Spooky Halloween Graveyard With Pumpkin Backdrop IBD-246840 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1467">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iBACKDROP" />
+                                </span>
+                                <a href='https://www.ibackdrop.com/cdn/shop/products/IBD-246840-2.2x1.5.jpg?v=1629427353' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DASHAN Spooky Cemetery Halloween Backdrop, Horror Full Moon ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71hOcsqsl2L._AC_UF1000,1000_QL80_.jpg' alt='DASHAN Spooky Cemetery Halloween Backdrop, Horror Full Moon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="833">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon UK" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71hOcsqsl2L._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="105,500+ Spooky Graveyard Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1303416924/vector/trees-in-the-dark-scary-woods.jpg?s=612x612&w=0&k=20&c=hpJwzGSpltI2OrySfvImmBMhG26AadnuAK_ggi2-2y4=' alt='105,500+ Spooky Graveyard Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1303416924/vector/trees-in-the-dark-scary-woods.jpg?s=612x612&w=0&k=20&c=hpJwzGSpltI2OrySfvImmBMhG26AadnuAK_ggi2-2y4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spooky Graveyard Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/046/124/806/small_2x/foggy-graveyard-with-an-iron-gate-and-a-crow-perched-on-a-pillar-eerie-cemetery-scene-with-gravestones-spooky-atmosphere-halloween-night-gothic-setting-concept-photo.jpeg' alt='Spooky Graveyard Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="714">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/046/124/806/small_2x/foggy-graveyard-with-an-iron-gate-and-a-crow-perched-on-a-pillar-eerie-cemetery-scene-with-gravestones-spooky-atmosphere-halloween-night-gothic-setting-concept-photo.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Unveiling Pop Smoke: The Voice of Brooklyn's Drill Movement</title>
+                    <meta name="description" content="Explore the life and impact of Pop Smoke, a rising star in Brooklyn's drill scene. Discover his music, style, and legacy that continues to inspire artists worldwide even after his untimely passing. Join us in celebrating his contributions to hip-hop culture.">
+                    <meta name="keywords" content="pop smoke">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pop-smoke">
+                            <span itemprop="name">pop smoke</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unveiling Pop Smoke: The Voice of Brooklyn's Drill Movement</h1>
+                <p>Pop Smoke, an influential rapper from Brooklyn, emerged as a significant figure in the drill music scene before his untimely death in 2020. Known for his deep voice and unique sound, hits like "Dior" and "Welcome to the Party" showcased his talent and charisma. His posthumous album solidified his legacy, inspiring many artists.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pop Smoke - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Pop_Smoke_2020_%282%29.jpg/640px-Pop_Smoke_2020_%282%29.jpg' alt='Pop Smoke - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="890">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Pop_Smoke_2020_%282%29.jpg/640px-Pop_Smoke_2020_%282%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="POP SMOKE - YouTube">
+                                <img itemprop="contentUrl url" src='https://yt3.googleusercontent.com/ytc/AIdro_lKJKVlE-XcAgWMWbOmYWbbUIcNDSsKTgv_beOpto71EYw=s900-c-k-c0x00ffffff-no-rj' alt='POP SMOKE - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://yt3.googleusercontent.com/ytc/AIdro_lKJKVlE-XcAgWMWbOmYWbbUIcNDSsKTgv_beOpto71EYw=s900-c-k-c0x00ffffff-no-rj' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Remembering Pop Smoke, a Rapper Who Brought Brooklyn to the World ...">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2020/02/19/arts/19popsmoke-critic/merlin_159440190_62cd6ed9-6554-4328-8a45-dddb3ebec5c7-superJumbo.jpg' alt='Remembering Pop Smoke, a Rapper Who Brought Brooklyn to the World ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1639">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2020/02/19/arts/19popsmoke-critic/merlin_159440190_62cd6ed9-6554-4328-8a45-dddb3ebec5c7-superJumbo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pop Smoke Songs, Albums, Bio & More | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab67616100005174597f9edd2cd1a892d4412b09' alt='Pop Smoke Songs, Albums, Bio & More | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab67616100005174597f9edd2cd1a892d4412b09' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pop Smoke's Majesty and Menace | The New Yorker">
+                                <img itemprop="contentUrl url" src='https://media.newyorker.com/photos/5e4ef70761934700086187b8/1:1/w_1698,h_1698,c_limit/Younger-PopSmoke.jpg' alt='Pop Smoke's Majesty and Menace | The New Yorker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1698">
+                                <meta itemprop="height" content="1698">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New Yorker" />
+                                </span>
+                                <a href='https://media.newyorker.com/photos/5e4ef70761934700086187b8/1:1/w_1698,h_1698,c_limit/Younger-PopSmoke.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Real Pop Smoke">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1280696335448098' alt='Profile for Real Pop Smoke'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1280696335448098' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pop Smoke, 'Welcome To The Party' Rapper, Dead At 20 : NPR">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/img/2020/02/19/gettyimages-1199920197-266f39a36e90bbb2b8b315d9041093ef7ba4d679.jpg?s=1100&c=50&f=jpeg' alt='Pop Smoke, 'Welcome To The Party' Rapper, Dead At 20 : NPR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="826">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/img/2020/02/19/gettyimages-1199920197-266f39a36e90bbb2b8b315d9041093ef7ba4d679.jpg?s=1100&c=50&f=jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pop Smoke, New York Drill Rapper, Dies At 20 : NPR">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/img/2020/04/14/gettyimages-1181354093_wide-4134bd5bc39e45049301fc84d16a1a2aed73d254.jpg' alt='Pop Smoke, New York Drill Rapper, Dies At 20 : NPR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4374">
+                                <meta itemprop="height" content="2460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/img/2020/04/14/gettyimages-1181354093_wide-4134bd5bc39e45049301fc84d16a1a2aed73d254.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pop Smoke - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BOTY5OWVmYTEtMWVjMy00MzQ3LWFlMDUtNjVkOGVjYTc2Y2NiXkEyXkFqcGc@._V1_.jpg' alt='Pop Smoke - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2667">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BOTY5OWVmYTEtMWVjMy00MzQ3LWFlMDUtNjVkOGVjYTc2Y2NiXkEyXkFqcGc@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pop Smoke Type Beat' Explained - Mixed In Key">
+                                <img itemprop="contentUrl url" src='https://mixedinkey.com/wp-content/uploads/2022/06/Pop-Smoke-1.png' alt='Pop Smoke Type Beat' Explained - Mixed In Key'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mixed In Key" />
+                                </span>
+                                <a href='https://mixedinkey.com/wp-content/uploads/2022/06/Pop-Smoke-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Catchy Hacker Lock Screen Wallpapers for iPhone</title>
+                    <meta name="description" content="Discover the coolest hacker lock screen wallpapers for your iPhone! Elevate your device's style with unique designs inspired by technology and cyberpunk culture. Perfect for tech lovers, these wallpapers will refresh your lock screen and showcase your edgy personality. Explore now!">
+                    <meta name="keywords" content="lock screen iphone hacker wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/lock-screen-iphone-hacker-wallpaper">
+                            <span itemprop="name">lock screen iphone hacker wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Catchy Hacker Lock Screen Wallpapers for iPhone</h1>
+                <p>Unlock your iPhone with style using hacker-themed lock screen wallpapers. These edgy designs blend technology and artistry, featuring everything from binary code to digital grids. Perfect for tech enthusiasts, each wallpaper brings a cyberpunk vibe to your device, keeping your lock screen unique and intriguing. Upgrade your aesthetic today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Phone Lockscreen Hacker Mask Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/red-phone-lockscreen-hacker-mask-8j6xcm2u6v1ua20c.jpg' alt='Red Phone Lockscreen Hacker Mask Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/red-phone-lockscreen-hacker-mask-8j6xcm2u6v1ua20c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CYBER LOCK">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/56/74/30/5674303f27263440e55e7eb69cf8d46a.jpg' alt='CYBER LOCK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="948">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/56/74/30/5674303f27263440e55e7eb69cf8d46a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Secured, edge, hack, hacker, lock screen, professional, prt, rgb ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/958/965/HD-wallpaper-secured-edge-hack-hacker-lock-screen-professional-prt-rgb-text.jpg' alt='Secured, edge, hack, hacker, lock screen, professional, prt, rgb ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1426">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/958/965/HD-wallpaper-secured-edge-hack-hacker-lock-screen-professional-prt-rgb-text.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60 HACKER WALLPAPERS ideas | hacker wallpaper, hacker, joker ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/93/e3/75/93e375fbf146b01efcc51399bf2a4416.jpg' alt='60 HACKER WALLPAPERS ideas | hacker wallpaper, hacker, joker ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/93/e3/75/93e375fbf146b01efcc51399bf2a4416.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Darkness, computer, error, games, hack, lock screen, sad, scary ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/743/735/HD-wallpaper-darkness-computer-error-games-hack-lock-screen-sad-scary-tech-virus.jpg' alt='Darkness, computer, error, games, hack, lock screen, sad, scary ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/743/735/HD-wallpaper-darkness-computer-error-games-hack-lock-screen-sad-scary-tech-virus.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download wallpaper 800x1200 lock, system, words, matrix, screen ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpaperscraft.com/image/single/lock_system_words_221039_800x1200.jpg' alt='Download wallpaper 800x1200 lock, system, words, matrix, screen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersCraft" />
+                                </span>
+                                <a href='https://images.wallpaperscraft.com/image/single/lock_system_words_221039_800x1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Hacker iPhone Lock Screen Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/phone/images/640/green-hacker.png' alt='Green Hacker iPhone Lock Screen Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/phone/images/640/green-hacker.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="#livewallpapers #tiktoklivewallpaper #4kwallpaper #hacking#hacker  #highresolution">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7424647128191995168&location=0&aid=1988' alt='#livewallpapers #tiktoklivewallpaper #4kwallpaper #hacking#hacker  #highresolution'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1892">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7424647128191995168&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hacker Elite iPhone Lock Screen Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/phone/images/640/hacker-elite.png' alt='Hacker Elite iPhone Lock Screen Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/phone/images/640/hacker-elite.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HACKER wallpaper by Rohit15041999 - Download on ZEDGE™ | a82e">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b9/83/8b/b9838bf8ca72d252787bfec48256f3a2.jpg' alt='HACKER wallpaper by Rohit15041999 - Download on ZEDGE™ | a82e'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b9/83/8b/b9838bf8ca72d252787bfec48256f3a2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

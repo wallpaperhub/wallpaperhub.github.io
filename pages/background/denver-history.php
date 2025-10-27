@@ -1,0 +1,129 @@
+<title>Explore Denver History: From Gold Rush to Modern City</title>
+                    <meta name="description" content="Discover the rich history of Denver, from its gold rush origins to its status as a vibrant modern city. Learn about key events and cultural developments that shaped the Mile High City. Ideal for history buffs and travelers seeking to understand Denver's unique past.">
+                    <meta name="keywords" content="denver history">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/denver-history">
+                            <span itemprop="name">denver history</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore Denver History: From Gold Rush to Modern City</h1>
+                <p>Denver's history began in the mid-19th century when gold was discovered, leading to a boomtown atmosphere. Originally a mining camp named "Montana City," it was later renamed Denver in honor of Kansas Territorial Governor James Denver. Over the years, Denver evolved into a bustling city known for its vibrant culture, diverse communities, and role as a gateway to the Rocky Mountains.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Denver - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Denver_1859.jpg/350px-Denver_1859.jpg' alt='History of Denver - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="259">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Denver_1859.jpg/350px-Denver_1859.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Early Denver History | How Denver Was Founded | VISIT DENVER">
+                                <img itemprop="contentUrl url" src='https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_900,q_65,w_640/v1/clients/denver/012_3_0058_jpeg_1f8af856-c967-4862-9822-bdb45c920ff5.jpg' alt='Early Denver History | How Denver Was Founded | VISIT DENVER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Visit Denver" />
+                                </span>
+                                <a href='https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_900,q_65,w_640/v1/clients/denver/012_3_0058_jpeg_1f8af856-c967-4862-9822-bdb45c920ff5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Denver - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Colorado_-_Denver_-_NARA_-_23936029_%28cropped%29.jpg/300px-Colorado_-_Denver_-_NARA_-_23936029_%28cropped%29.jpg' alt='History of Denver - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Colorado_-_Denver_-_NARA_-_23936029_%28cropped%29.jpg/300px-Colorado_-_Denver_-_NARA_-_23936029_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorado History: How Denver got its name">
+                                <img itemprop="contentUrl url" src='https://media.9news.com/assets/KUSA/images/155639bb-9ea3-4583-b4d0-d9faff7f2e09/155639bb-9ea3-4583-b4d0-d9faff7f2e09_1920x1080.jpg' alt='Colorado History: How Denver got its name'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="9News" />
+                                </span>
+                                <a href='https://media.9news.com/assets/KUSA/images/155639bb-9ea3-4583-b4d0-d9faff7f2e09/155639bb-9ea3-4583-b4d0-d9faff7f2e09_1920x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Denver - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Panorama_of_Denver%2C_Colorado%2C_1898.jpg/400px-Panorama_of_Denver%2C_Colorado%2C_1898.jpg' alt='History of Denver - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="122">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Panorama_of_Denver%2C_Colorado%2C_1898.jpg/400px-Panorama_of_Denver%2C_Colorado%2C_1898.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorado History: Learn how Denver earned its name | 9news.com">
+                                <img itemprop="contentUrl url" src='https://media.9news.com/assets/KUSA/images/719bc245-2849-4e75-85e8-446170b7fd9a/719bc245-2849-4e75-85e8-446170b7fd9a_1140x641.jpg' alt='Colorado History: Learn how Denver earned its name | 9news.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1140">
+                                <meta itemprop="height" content="641">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="9News" />
+                                </span>
+                                <a href='https://media.9news.com/assets/KUSA/images/719bc245-2849-4e75-85e8-446170b7fd9a/719bc245-2849-4e75-85e8-446170b7fd9a_1140x641.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Denver - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Colorado_-_Denver_-_NARA_-_23936035_%28cropped%29.jpg/220px-Colorado_-_Denver_-_NARA_-_23936035_%28cropped%29.jpg' alt='History of Denver - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="175">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Colorado_-_Denver_-_NARA_-_23936035_%28cropped%29.jpg/220px-Colorado_-_Denver_-_NARA_-_23936035_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The oldest buildings in Denver and why they matter">
+                                <img itemprop="contentUrl url" src='https://denverite.com/cdn-cgi/image/width=3840,quality=75,format=auto/https://wp-denverite.s3.amazonaws.com/wp-content/uploads/sites/4/2016/11/161101-CHARLES-MCCLURE-55.jpg' alt='The oldest buildings in Denver and why they matter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Denverite" />
+                                </span>
+                                <a href='https://denverite.com/cdn-cgi/image/width=3840,quality=75,format=auto/https://wp-denverite.s3.amazonaws.com/wp-content/uploads/sites/4/2016/11/161101-CHARLES-MCCLURE-55.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Downtown Denver burns to the ground: The Great Fire of 1863 ...">
+                                <img itemprop="contentUrl url" src='https://history.denverlibrary.org/sites/history/files/cdm_24181.jpg' alt='Downtown Denver burns to the ground: The Great Fire of 1863 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="455">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Denver Public Library Special Collections and Archives" />
+                                </span>
+                                <a href='https://history.denverlibrary.org/sites/history/files/cdm_24181.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History Behind Historic Denver - Molly Brown House Museum">
+                                <img itemprop="contentUrl url" src='https://mollybrown.org/wp-content/uploads/2020/06/aerial-denver_cropped.jpg' alt='The History Behind Historic Denver - Molly Brown House Museum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1402">
+                                <meta itemprop="height" content="897">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Molly Brown House Museum" />
+                                </span>
+                                <a href='https://mollybrown.org/wp-content/uploads/2020/06/aerial-denver_cropped.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

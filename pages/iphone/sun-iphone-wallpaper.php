@@ -1,0 +1,129 @@
+<title>Stunning Sun iPhone Wallpapers for Every Mood</title>
+                    <meta name="description" content="Discover the best sun-themed iPhone wallpapers! Our curated selection features vibrant sunrises and peaceful sunsets, perfect for brightening your device. Optimize your screen with beautiful imagery that inspires and uplifts. Download now and enjoy the sunny vibes!">
+                    <meta name="keywords" content="sun iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/sun-iphone-wallpaper">
+                            <span itemprop="name">sun iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Sun iPhone Wallpapers for Every Mood</h1>
+                <p>Enhance your iPhone with stunning sun-themed wallpapers! From serene sunsets to vibrant sunrises, our collection brings warmth and positivity right to your screen. Perfect for nature lovers and those who appreciate the beauty of the sun. Transform your device with these captivating images that radiate joy.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sun Wallpapers (119 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/2/f/5/20358-2160x3840-iphone-4k-sun-wallpaper-photo.jpg' alt='Sun Wallpapers (119 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/2/f/5/20358-2160x3840-iphone-4k-sun-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rising Sun Over Sunflowers Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/rising-sun-over-sunflowers-iphone-knnb0cgc9pi61k30.jpg' alt='Rising Sun Over Sunflowers Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/rising-sun-over-sunflowers-iphone-knnb0cgc9pi61k30.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Sun Aesthetic Wallpaper Lockscreen iPhone Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/17/ea/79/17ea79b631d0b9d465fae43c89b7d4fe.jpg' alt='Retro Sun Aesthetic Wallpaper Lockscreen iPhone Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/17/ea/79/17ea79b631d0b9d465fae43c89b7d4fe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sun 4K Resolution HD Nature 4K Images Photos and B... iPhone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/04/ef/dc/04efdcaf3464a47e3f24779ddad5b3c0.jpg' alt='Sun 4K Resolution HD Nature 4K Images Photos and B... iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/04/ef/dc/04efdcaf3464a47e3f24779ddad5b3c0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Wallpapers Find and download the best iPhone wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ps0fv4ylk3cb1.jpg' alt='iPhone Wallpapers Find and download the best iPhone wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ps0fv4ylk3cb1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="sun iPhone Wallpapers Free Download">
+                                <img itemprop="contentUrl url" src='https://r1.ilikewallpaper.net/iphone-14-plus-wallpapers/download-118761/sun.jpg' alt='sun iPhone Wallpapers Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iLikeWallpaper" />
+                                </span>
+                                <a href='https://r1.ilikewallpaper.net/iphone-14-plus-wallpapers/download-118761/sun.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sun Raising, cosmo, space, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/113/556/HD-wallpaper-sun-raising-cosmo-space.jpg' alt='Sun Raising, cosmo, space, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/113/556/HD-wallpaper-sun-raising-cosmo-space.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Water with Sun Wallpaper - iPhone, Android & Desktop Backgrounds">
+                                <img itemprop="contentUrl url" src='https://graffitiwallpaper.com/pics/listings/372_tall.jpg' alt='Water with Sun Wallpaper - iPhone, Android & Desktop Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Graffiti Wallpaper" />
+                                </span>
+                                <a href='https://graffitiwallpaper.com/pics/listings/372_tall.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Sun Cute Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/aesthetic-sun-cute-iphone-u8rgmx0ajurgqmy7-2.jpg' alt='Aesthetic Sun Cute Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/aesthetic-sun-cute-iphone-u8rgmx0ajurgqmy7-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ar06-sun-red-dark-minimal-art-space-planet-wallpaper">
+                                <img itemprop="contentUrl url" src='https://papers.co/wallpaper/papers.co-ar06-sun-red-dark-minimal-art-space-planet-41-iphone-wallpaper.jpg' alt='ar06-sun-red-dark-minimal-art-space-planet-wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papers.co" />
+                                </span>
+                                <a href='https://papers.co/wallpaper/papers.co-ar06-sun-red-dark-minimal-art-space-planet-41-iphone-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

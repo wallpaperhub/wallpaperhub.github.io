@@ -1,0 +1,129 @@
+<title>Stevie Wonder: The Soulful Legend Who Changed Music</title>
+                    <meta name="description" content="Discover the life and legacy of Stevie Wonder, the iconic musician known for his soulful voice and groundbreaking hits. Explore his journey from a young prodigy to a music legend who has influenced countless artists and left an indelible mark on the world of music.">
+                    <meta name="keywords" content="stevie wonder">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/stevie-wonder">
+                            <span itemprop="name">stevie wonder</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stevie Wonder: The Soulful Legend Who Changed Music</h1>
+                <p>Stevie Wonder is a legendary American musician whose career spans over six decades. Born blind, his extraordinary talent in singing, songwriting, and playing multiple instruments broke barriers in the music industry. With timeless hits like "Superstition" and "Isn’t She Lovely," he continues to inspire generations with his soulful sounds and positive messages.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stevie Wonder - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/8/8f/Stevie_Wonder_1994.jpg' alt='Stevie Wonder - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="507">
+                                <meta itemprop="height" content="686">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/8/8f/Stevie_Wonder_1994.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stevie Wonder | Biography, Albums, Songs, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/27/253827-050-58DF75CC/Musician-Stevie-Wonder-performs-Dilworth-Park--Songs-In-The-Key-Of-Life-Performance-Tour.jpg' alt='Stevie Wonder | Biography, Albums, Songs, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1441">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/27/253827-050-58DF75CC/Musician-Stevie-Wonder-performs-Dilworth-Park--Songs-In-The-Key-Of-Life-Performance-Tour.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stevie Wonder | United Nations">
+                                <img itemprop="contentUrl url" src='https://www.un.org/sites/un2.un.org/files/field/image/stevie_wonder.jpg' alt='Stevie Wonder | United Nations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1234">
+                                <meta itemprop="height" content="818">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="the United Nations" />
+                                </span>
+                                <a href='https://www.un.org/sites/un2.un.org/files/field/image/stevie_wonder.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stevie Wonder - Songs, Family & Facts">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/gettyimages-631196894.jpg' alt='Stevie Wonder - Songs, Family & Facts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/gettyimages-631196894.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stevie Wonder's Biggest Billboard Hot 100 Hits | Billboard">
+                                <img itemprop="contentUrl url" src='https://www.billboard.com/wp-content/uploads/media/stevie-wonder-smile-performance-a-2017-billboard-1548.jpg' alt='Stevie Wonder's Biggest Billboard Hot 100 Hits | Billboard'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1548">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Billboard" />
+                                </span>
+                                <a href='https://www.billboard.com/wp-content/uploads/media/stevie-wonder-smile-performance-a-2017-billboard-1548.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stevie Wonder | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/37c7875911b1d8195b05d40061a86bd01908a0d9' alt='Stevie Wonder | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="645">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/37c7875911b1d8195b05d40061a86bd01908a0d9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stevie Wonder - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BOTk5NzQwOTU4OF5BMl5BanBnXkFtZTYwMTk3MTk0._V1_FMjpg_UX1000_.jpg' alt='Stevie Wonder - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BOTk5NzQwOTU4OF5BMl5BanBnXkFtZTYwMTk3MTk0._V1_FMjpg_UX1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stevie Wonder on 50 years of 'My Cherie Amour'">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/190708135000-stevie-wonder-kidney-surgery-announcement-mxp-sot-vpx-00002521.jpg?q=w_3000,h_2004,x_0,y_0,c_fill' alt='Stevie Wonder on 50 years of 'My Cherie Amour''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2004">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/190708135000-stevie-wonder-kidney-surgery-announcement-mxp-sot-vpx-00002521.jpg?q=w_3000,h_2004,x_0,y_0,c_fill' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stevie Wonder | The Beatles Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/beatles/images/9/92/Stevie_Wonder.png/revision/latest/scale-to-width-down/1288?cb=20230904100939' alt='Stevie Wonder | The Beatles Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1288">
+                                <meta itemprop="height" content="1290">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Beatles Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/beatles/images/9/92/Stevie_Wonder.png/revision/latest/scale-to-width-down/1288?cb=20230904100939' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stevie Wonder | Biography, Albums, Songs, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/83/239183-050-55EB0868/Little-Stevie-Wonder-singing-into-microphone-c-early-1960s.jpg' alt='Stevie Wonder | Biography, Albums, Songs, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1276">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/83/239183-050-55EB0868/Little-Stevie-Wonder-singing-into-microphone-c-early-1960s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stylish Pastel Tumblr Backgrounds: Enhance Your Blog</title>
+                    <meta name="description" content="Discover beautiful pastel backgrounds for your Tumblr blog! Our curated PPT templates offer soft, aesthetic designs perfect for any theme. Elevate your online space with these trendy backgrounds and make your posts stand out effortlessly. Explore now for the perfect pastel vibe!">
+                    <meta name="keywords" content="tumblr background ppt pastel">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/tumblr-background-ppt-pastel">
+                            <span itemprop="name">tumblr background ppt pastel</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Pastel Tumblr Backgrounds: Enhance Your Blog</h1>
+                <p>Enhance your Tumblr blog with stylish pastel backgrounds! These lovely hues create a serene and inviting atmosphere for your posts. Explore various pastel designs that can perfectly complement your theme. Download trendy PPT templates packed with dreamy pastel aesthetics to elevate your online presence effortlessly!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic pastel background ppt tumblr | Free PPT Background">
+                                <img itemprop="contentUrl url" src='http://www.freepptbackground.com/wp-content/uploads/2022/10/aesthetic-pastel-background-ppt-tumblr.png' alt='Aesthetic pastel background ppt tumblr | Free PPT Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1229">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free PPT Background" />
+                                </span>
+                                <a href='http://www.freepptbackground.com/wp-content/uploads/2022/10/aesthetic-pastel-background-ppt-tumblr.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background PPT Tumblr Pastel">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7f/c6/eb/7fc6eb7f79a263b2956e257d900506f6.jpg' alt='Background PPT Tumblr Pastel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7f/c6/eb/7fc6eb7f79a263b2956e257d900506f6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Tumblr PowerPoint Template and Google Slides">
+                                <img itemprop="contentUrl url" src='https://www.slideegg.com/image/catalog/65796-pastel-tumblr.png' alt='Pastel Tumblr PowerPoint Template and Google Slides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slide Egg" />
+                                </span>
+                                <a href='https://www.slideegg.com/image/catalog/65796-pastel-tumblr.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Ppt Aesthetics Pastel Search Engine Browser, Pastel ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20230121/original/pngtree-background-ppt-aesthetics-pastel-search-engine-browser-picture-image_2021460.jpg' alt='Background Ppt Aesthetics Pastel Search Engine Browser, Pastel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="857">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20230121/original/pngtree-background-ppt-aesthetics-pastel-search-engine-browser-picture-image_2021460.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Powerpoint Background Pastel Colors Images | Free Photos, PNG ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA5L3JtMTgzLW51bm55LTM0LXguanBn.jpg' alt='Powerpoint Background Pastel Colors Images | Free Photos, PNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA5L3JtMTgzLW51bm55LTM0LXguanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Color Aesthetic Background With Vintage Leaves, Aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/5d/1f/29/5d1f29f9da9d3111d13dd283b8f1d450.jpg' alt='Pastel Color Aesthetic Background With Vintage Leaves, Aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="463">
+                                <meta itemprop="height" content="260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/5d/1f/29/5d1f29f9da9d3111d13dd283b8f1d450.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 33 | Cute Background Pastel Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-psd/pastel-memphis-gold-frame-psd-with-design-space_53876-138850.jpg' alt='Page 33 | Cute Background Pastel Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-psd/pastel-memphis-gold-frame-psd-with-design-space_53876-138850.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel PPT Templates - Free PPT Backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.freepptbackgrounds.net/wp-content/uploads/2019/04/Pink-pastel-ppt-background-364x225.jpg' alt='Pastel PPT Templates - Free PPT Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="364">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free PPT Backgrounds" />
+                                </span>
+                                <a href='https://www.freepptbackgrounds.net/wp-content/uploads/2019/04/Pink-pastel-ppt-background-364x225.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Powerpoint Background Pastel Colors Images | Free Photos, PNG ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA5L3JtMTgzLW51bm55LTEwLXguanBn.jpg' alt='Powerpoint Background Pastel Colors Images | Free Photos, PNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA5L3JtMTgzLW51bm55LTEwLXguanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tumblr Pastel Background PPT and Google Slides Templates">
+                                <img itemprop="contentUrl url" src='https://www.slideegg.com/image/webpv2/176/64666-background-ppt-tumblr-pastel-05-176.webp' alt='Tumblr Pastel Background PPT and Google Slides Templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="176">
+                                <meta itemprop="height" content="99">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideEgg" />
+                                </span>
+                                <a href='https://www.slideegg.com/image/webpv2/176/64666-background-ppt-tumblr-pastel-05-176.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

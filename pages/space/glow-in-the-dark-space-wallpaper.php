@@ -1,0 +1,129 @@
+<title>Glow in the Dark Space Wallpaper for Dreamy Nights</title>
+                    <meta name="description" content="Discover the magic of glow in the dark space wallpaper! Ideal for bedrooms or playrooms, this captivating design turns your walls into a starry sky, bringing excitement and wonder to any space. Easy to install and create an enchanting nighttime atmosphere. Perfect for kids and cosmic lovers!">
+                    <meta name="keywords" content="glow in the dark space wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space">
+                            <span itemprop="name">Space</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space/glow-in-the-dark-space-wallpaper">
+                            <span itemprop="name">glow in the dark space wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Glow in the Dark Space Wallpaper for Dreamy Nights</h1>
+                <p>Transform your space with glow in the dark space wallpaper! Perfect for kids' rooms or any space enthusiast, this enchanting wallpaper features vibrant stars, galaxies, and planets that come alive at night. Easy to apply and remove, it creates a mesmerizing ambiance, making bedtime an adventure among the cosmos.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A.S. Creation AS Creation Space Planets Stars Pattern Childrens Blue  Wallpaper Glow in the Dark">
+                                <img itemprop="contentUrl url" src='https://www.iwantwallpaper.co.uk/images/as-creation-space-planets-stars-pattern-childrens-blue-wallpaper-glow-in-the-dark-p4198-18310_image.jpg' alt='A.S. Creation AS Creation Space Planets Stars Pattern Childrens Blue  Wallpaper Glow in the Dark'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Want Wallpaper" />
+                                </span>
+                                <a href='https://www.iwantwallpaper.co.uk/images/as-creation-space-planets-stars-pattern-childrens-blue-wallpaper-glow-in-the-dark-p4198-18310_image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Stars Space Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/neon-stars-space-iphone-ontsn2hx102jdhvn.jpg' alt='Neon Stars Space Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/neon-stars-space-iphone-ontsn2hx102jdhvn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Spaceship Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/neon-spaceship-20hxon2em9ent0l1.jpg' alt='Neon Spaceship Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/neon-spaceship-20hxon2em9ent0l1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Neon Space Portal Image | Download at StockCake">
+                                <img itemprop="contentUrl url" src='https://images.stockcake.com/public/b/2/b/b2b2b744-0331-45a7-a260-cd1c20079b8c_large/neon-space-portal-stockcake.jpg' alt='Free Neon Space Portal Image | Download at StockCake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="384">
+                                <meta itemprop="height" content="672">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockCake" />
+                                </span>
+                                <a href='https://images.stockcake.com/public/b/2/b/b2b2b744-0331-45a7-a260-cd1c20079b8c_large/neon-space-portal-stockcake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Luciana Lucas on fondo | Space phone wallpaper, Neon ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/98/e5/65/98e5653aba381c4b6d20200c36da0338.jpg' alt='Pin by Luciana Lucas on fondo | Space phone wallpaper, Neon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/98/e5/65/98e5653aba381c4b6d20200c36da0338.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: 531Pcs Glow in The Dark Stars and Planet Wall Stickers,Galaxy  Astronaut Rocket Spacecraft Alien Decoration,Planet Wall Decals,Bright  Solar ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81Neb+zHcIL.jpg' alt='Amazon.com: 531Pcs Glow in The Dark Stars and Planet Wall Stickers,Galaxy  Astronaut Rocket Spacecraft Alien Decoration,Planet Wall Decals,Bright  Solar ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81Neb+zHcIL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Size Wallpaper Mural Space Backdrop Glow in The Dark Stars and  Planets 3D Wallpaper Galaxy Wallpaper Night Sky Wallpaper Can Move Large  Murals">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71hle1MaAkL._AC_UF894,1000_QL80_.jpg' alt='Custom Size Wallpaper Mural Space Backdrop Glow in The Dark Stars and  Planets 3D Wallpaper Galaxy Wallpaper Night Sky Wallpaper Can Move Large  Murals'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71hle1MaAkL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Mountains, Music, Stars, Neon, Space, Background ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/8/b0/johnleepee-synthpop-synth-retrowave-sinti-pop-muzyka-elect-1.webp' alt='Wallpaper Mountains, Music, Stars, Neon, Space, Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/8/b0/johnleepee-synthpop-synth-retrowave-sinti-pop-muzyka-elect-1.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Glow in The Dark Stars,1148Pcs Colorful Glow in The Dark Moon  and Stars for Ceiling Space Astronaut Wall Decals Glowing Universe Galaxy  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81vk3mo7xsL.jpg' alt='Amazon.com: Glow in The Dark Stars,1148Pcs Colorful Glow in The Dark Moon  and Stars for Ceiling Space Astronaut Wall Decals Glowing Universe Galaxy  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81vk3mo7xsL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Space Wallpaper & Background | Neon Space Chrome New Tab">
+                                <img itemprop="contentUrl url" src='https://coolthemestores.com/wp-content/uploads/2021/10/neon-space-wallpaper-background.jpg' alt='Neon Space Wallpaper & Background | Neon Space Chrome New Tab'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cool Theme Stores" />
+                                </span>
+                                <a href='https://coolthemestores.com/wp-content/uploads/2021/10/neon-space-wallpaper-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

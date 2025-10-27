@@ -1,0 +1,129 @@
+<title>Discover the Incredible Hulk: Origin & Background</title>
+                    <meta name="description" content="Explore the origins and fascinating background of the Hulk, Marvel's iconic character. Learn about Dr. Bruce Banner's transformation, his struggles, and how he became a symbol of strength and rage in comics and films. Dive into the rich history of the Green Giant today!">
+                    <meta name="keywords" content="hulk background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/hulk-background">
+                            <span itemprop="name">hulk background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Incredible Hulk: Origin & Background</h1>
+                <p>Hulk, a Marvel Comics character, debuted in 1962, created by Stan Lee and Jack Kirby. Dr. Bruce Banner transforms into the Hulk, a green behemoth, when angered. His struggle with duality and personal turmoil echoes the human experience. The Hulk symbolizes strength and anger, becoming an icon in popular culture and blockbuster films.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Hulk Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/hulk-6mm236yblh8z7yed.jpg' alt='200+] Hulk Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/hulk-6mm236yblh8z7yed.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hulk Wallpapers (27 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/5/4/a/78719-3840x2160-desktop-4k-hulk-wallpaper-photo.jpg' alt='Hulk Wallpapers (27 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/5/4/a/78719-3840x2160-desktop-4k-hulk-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Epic Hulk Comic HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/241/241669.jpg' alt='Epic Hulk Comic HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/241/241669.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hulk Superhero Wallpaper - Peel and Stick Kids Room Superhero ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35367581/r/il/182718/6229167165/il_fullxfull.6229167165_lh6b.jpg' alt='Hulk Superhero Wallpaper - Peel and Stick Kids Room Superhero ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1602">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35367581/r/il/182718/6229167165/il_fullxfull.6229167165_lh6b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hulk Wallpaper (2) by DHV123 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8911a890-1488-4033-b210-287b6a9c5319/den66f2-51d210e9-85eb-43b7-91ef-79645c609900.png/v1/fill/w_1134,h_705,q_70,strp/hulk_wallpaper__2__by_dhv123_den66f2-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzQ2IiwicGF0aCI6IlwvZlwvODkxMWE4OTAtMTQ4OC00MDMzLWIyMTAtMjg3YjZhOWM1MzE5XC9kZW42NmYyLTUxZDIxMGU5LTg1ZWItNDNiNy05MWVmLTc5NjQ1YzYwOTkwMC5wbmciLCJ3aWR0aCI6Ijw9MTIwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Kd_3d8zhcM4skBpwHsIY7vwaTZ67QLMgrry2ACbRd-c' alt='Hulk Wallpaper (2) by DHV123 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1134">
+                                <meta itemprop="height" content="705">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8911a890-1488-4033-b210-287b6a9c5319/den66f2-51d210e9-85eb-43b7-91ef-79645c609900.png/v1/fill/w_1134,h_705,q_70,strp/hulk_wallpaper__2__by_dhv123_den66f2-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzQ2IiwicGF0aCI6IlwvZlwvODkxMWE4OTAtMTQ4OC00MDMzLWIyMTAtMjg3YjZhOWM1MzE5XC9kZW42NmYyLTUxZDIxMGU5LTg1ZWItNDNiNy05MWVmLTc5NjQ1YzYwOTkwMC5wbmciLCJ3aWR0aCI6Ijw9MTIwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Kd_3d8zhcM4skBpwHsIY7vwaTZ67QLMgrry2ACbRd-c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hulk: How the Avenger REALLY Became Immortal">
+                                <img itemprop="contentUrl url" src='https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/08/hulk.jpg' alt='Hulk: How the Avenger REALLY Became Immortal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CBR" />
+                                </span>
+                                <a href='https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/08/hulk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Incredible Hulk Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/flat-comic-style-background_23-2148830133.jpg' alt='Incredible Hulk Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/flat-comic-style-background_23-2148830133.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Incredible Hulk Wallpapers (39 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/9/4/7/2164251-2880x1800-desktop-hd-incredible-hulk-wallpaper.jpg' alt='Incredible Hulk Wallpapers (39 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/9/4/7/2164251-2880x1800-desktop-hd-incredible-hulk-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mcu The Hulk Rage Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/mcu-the-hulk-rage-w0cpo3q2dg1a6c2t.jpg' alt='Mcu The Hulk Rage Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/mcu-the-hulk-rage-w0cpo3q2dg1a6c2t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Incredible Hulk Review">
+                                <img itemprop="contentUrl url" src='https://justalrightreviews.com/wp-content/uploads/2016/04/incredible-hulk-wallpaper-wallpaper-3.jpg?w=1200' alt='The Incredible Hulk Review'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="justalrightreviews.com Review" />
+                                </span>
+                                <a href='https://justalrightreviews.com/wp-content/uploads/2016/04/incredible-hulk-wallpaper-wallpaper-3.jpg?w=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

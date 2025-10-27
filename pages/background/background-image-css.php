@@ -1,0 +1,129 @@
+<title>CSS Background Images: Enhance Your Web Design</title>
+                    <meta name="description" content="Discover how to effectively use background images in CSS for stunning web design. Learn key properties like background-size and background-position to create visually appealing layouts that are responsive and optimized for any device.">
+                    <meta name="keywords" content="background image css">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/background-image-css">
+                            <span itemprop="name">background image css</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>CSS Background Images: Enhance Your Web Design</h1>
+                <p>Background images in CSS enhance the visual appeal of websites. You can easily set a background image using the `background-image` property. Adjust properties like `background-size`, `background-position`, and `background-repeat` to control how the image appears. Use CSS media queries for responsive design, ensuring a great look on all devices!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Advanced background image manipulation using CSS • Code The Web">
+                                <img itemprop="contentUrl url" src='https://codetheweb.blog/assets/img/posts/css-advanced-background-images/bg-size-cover.png' alt='Advanced background image manipulation using CSS • Code The Web'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Code The Web" />
+                                </span>
+                                <a href='https://codetheweb.blog/assets/img/posts/css-advanced-background-images/bg-size-cover.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CSS Background Image: Quick Tutorial and 3 Automation Tips ...">
+                                <img itemprop="contentUrl url" src='https://cloudinary-marketing-res.cloudinary.com/images/w_1000,c_scale/v1708450498/css_background_image_1/css_background_image_1-png?_i=AA' alt='CSS Background Image: Quick Tutorial and 3 Automation Tips ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="637">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cloudinary" />
+                                </span>
+                                <a href='https://cloudinary-marketing-res.cloudinary.com/images/w_1000,c_scale/v1708450498/css_background_image_1/css_background_image_1-png?_i=AA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CSS Background Image: Quick Tutorial and 3 Automation Tips ...">
+                                <img itemprop="contentUrl url" src='https://cloudinary-marketing-res.cloudinary.com/images/w_1000,c_scale/v1708450500/css_background_image_4/css_background_image_4-png?_i=AA' alt='CSS Background Image: Quick Tutorial and 3 Automation Tips ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="663">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cloudinary" />
+                                </span>
+                                <a href='https://cloudinary-marketing-res.cloudinary.com/images/w_1000,c_scale/v1708450500/css_background_image_4/css_background_image_4-png?_i=AA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CSS background Image -> Using an image - Stack Overflow">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/jGlzr.png' alt='CSS background Image -> Using an image - Stack Overflow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1678">
+                                <meta itemprop="height" content="1045">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/jGlzr.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="css - How to create a vignette with background gradients - Stack ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/p9mUO.jpg' alt='css - How to create a vignette with background gradients - Stack ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/p9mUO.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CSS Background Image: Quick Tutorial and 3 Automation Tips ...">
+                                <img itemprop="contentUrl url" src='https://cloudinary-marketing-res.cloudinary.com/images/w_1000,c_scale/v1708450501/css_background_image_3/css_background_image_3-png?_i=AA' alt='CSS Background Image: Quick Tutorial and 3 Automation Tips ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="919">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cloudinary" />
+                                </span>
+                                <a href='https://cloudinary-marketing-res.cloudinary.com/images/w_1000,c_scale/v1708450501/css_background_image_3/css_background_image_3-png?_i=AA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Power-packed CSS Background Image Tutorial">
+                                <img itemprop="contentUrl url" src='https://www.simplilearn.com/ice9/free_resources_article_thumb/prop1-css-background-image.JPG' alt='Power-packed CSS Background Image Tutorial'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="398">
+                                <meta itemprop="height" content="330">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simplilearn.com" />
+                                </span>
+                                <a href='https://www.simplilearn.com/ice9/free_resources_article_thumb/prop1-css-background-image.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CSS Background: There's More To Know Than You Think - Vanseo Design">
+                                <img itemprop="contentUrl url" src='http://www.vanseodesign.com/blog/wp-content/uploads/2011/10/background-3.jpg' alt='CSS Background: There's More To Know Than You Think - Vanseo Design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="465">
+                                <meta itemprop="height" content="279">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vanseo Design" />
+                                </span>
+                                <a href='http://www.vanseodesign.com/blog/wp-content/uploads/2011/10/background-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 awesome CSS Background Patterns ✨ - DEV Community">
+                                <img itemprop="contentUrl url" src='https://media2.dev.to/dynamic/image/width=1280,height=720,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnvx7kjixf1tarz5pm6xd.jpg' alt='30 awesome CSS Background Patterns ✨ - DEV Community'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DEV Community" />
+                                </span>
+                                <a href='https://media2.dev.to/dynamic/image/width=1280,height=720,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnvx7kjixf1tarz5pm6xd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background image 2025 css">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1400/1*xMuIOwjliGUPjkzukeWKfw.jpeg' alt='Background image 2025 css'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="875">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1400/1*xMuIOwjliGUPjkzukeWKfw.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

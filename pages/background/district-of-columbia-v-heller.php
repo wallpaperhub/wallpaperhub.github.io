@@ -1,0 +1,129 @@
+<title>Understanding District of Columbia v. Heller: A Landmark Second Amendment Case</title>
+                    <meta name="description" content="Explore the key aspects of District of Columbia v. Heller, a pivotal Supreme Court case that established individual gun rights under the Second Amendment. Learn about its implications on firearm regulations and its lasting influence on gun laws across the United States.">
+                    <meta name="keywords" content="district of columbia v. heller">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/district-of-columbia-v-heller">
+                            <span itemprop="name">district of columbia v. heller</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding District of Columbia v. Heller: A Landmark Second Amendment Case</h1>
+                <p>District of Columbia v. Heller (2008) is a landmark Supreme Court case that affirmed an individual's right to possess firearms for self-defense in their home. The Court struck down a Washington D.C. law that restricted handgun ownership, ruling it violated the Second Amendment. This decision significantly impacted gun control laws nationwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: District of Columbia V. Heller: The Right to Bear Arms ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61N0q-dqruL._AC_UF1000,1000_QL80_.jpg' alt='Amazon.com: District of Columbia V. Heller: The Right to Bear Arms ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61N0q-dqruL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Justices, Ruling 5-4, Endorse Personal Right to Own Gun - The New ...">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2008/06/27/us/27scotus2.600.jpg?year=2008&h=325&w=600&s=3a27d9c1591bd4b465789a6a95cbe763bcd19d4764c28d169116ef441bf067a2&k=ZQJBKqZ0VN' alt='Justices, Ruling 5-4, Endorse Personal Right to Own Gun - The New ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="325">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2008/06/27/us/27scotus2.600.jpg?year=2008&h=325&w=600&s=3a27d9c1591bd4b465789a6a95cbe763bcd19d4764c28d169116ef441bf067a2&k=ZQJBKqZ0VN' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="District of Columbia v. Heller Case Brief Summary | Law Case Explained">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/ujnemrrqtpM/maxresdefault.jpg' alt='District of Columbia v. Heller Case Brief Summary | Law Case Explained'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/ujnemrrqtpM/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="District of Columbia v. Heller: 10 Years Later | by Noa Marcus ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:650/1*73aJFIUOxz9Lh1RpH8ScRw.jpeg' alt='District of Columbia v. Heller: 10 Years Later | by Noa Marcus ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:650/1*73aJFIUOxz9Lh1RpH8ScRw.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="District of columbia v heller hi-res stock photography and images ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/W0E6KP/pro-gun-advocates-holds-up-a-sign-outside-the-supreme-court-as-the-court-hears-arguments-in-the-district-of-columbia-v-heller-case-regarding-the-citys-ban-on-handguns-in-washington-on-march-18-2008-the-high-court-today-heard-arguments-on-whether-the-district-of-columbias-band-on-handguns-violates-the-us-constitution-upi-photokevin-dietsch-W0E6KP.jpg' alt='District of columbia v heller hi-res stock photography and images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1182">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/W0E6KP/pro-gun-advocates-holds-up-a-sign-outside-the-supreme-court-as-the-court-hears-arguments-in-the-district-of-columbia-v-heller-case-regarding-the-citys-ban-on-handguns-in-washington-on-march-18-2008-the-high-court-today-heard-arguments-on-whether-the-district-of-columbias-band-on-handguns-violates-the-us-constitution-upi-photokevin-dietsch-W0E6KP.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Implications of District of Columbia v. Heller Today — Divided ...">
+                                <img itemprop="contentUrl url" src='https://dividedwefall.org/wp-content/uploads/2023/05/SCOTUS-Gun-copy-2-min.jpg' alt='The Implications of District of Columbia v. Heller Today — Divided ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1580">
+                                <meta itemprop="height" content="1052">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Divided We Fall" />
+                                </span>
+                                <a href='https://dividedwefall.org/wp-content/uploads/2023/05/SCOTUS-Gun-copy-2-min.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="District of Columbia v. Heller - Top 10 Controversial Supreme ...">
+                                <img itemprop="contentUrl url" src='https://content.time.com/time/photoessays/2010/top10_court_cases/dc_heller.jpg' alt='District of Columbia v. Heller - Top 10 Controversial Supreme ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="307">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Videos Index on TIME.com" />
+                                </span>
+                                <a href='https://content.time.com/time/photoessays/2010/top10_court_cases/dc_heller.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Supreme Court Agrees to Hear Gun Control Case - The New York Times">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2007/11/20/washington/20cnd-scotus_span.jpg' alt='Supreme Court Agrees to Hear Gun Control Case - The New York Times'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2007/11/20/washington/20cnd-scotus_span.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Supporters of D.C. gun laws participate in a protest in front of ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/W0E6KJ/supporters-of-dc-gun-laws-participate-in-a-protest-in-front-of-the-supreme-court-as-the-court-hears-arguments-in-the-district-of-columbia-v-heller-case-regarding-the-citys-ban-on-handguns-in-washington-on-march-18-2008-the-high-court-today-heard-arguments-on-whether-the-district-of-columbias-band-on-handguns-violates-the-us-constitution-upi-photokevin-dietsch-W0E6KJ.jpg' alt='Supporters of D.C. gun laws participate in a protest in front of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="996">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/W0E6KJ/supporters-of-dc-gun-laws-participate-in-a-protest-in-front-of-the-supreme-court-as-the-court-hears-arguments-in-the-district-of-columbia-v-heller-case-regarding-the-citys-ban-on-handguns-in-washington-on-march-18-2008-the-high-court-today-heard-arguments-on-whether-the-district-of-columbias-band-on-handguns-violates-the-us-constitution-upi-photokevin-dietsch-W0E6KJ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="District of Columbia v. Heller - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Michael_Bloomberg_speech_cropped_%282%29.jpg/250px-Michael_Bloomberg_speech_cropped_%282%29.jpg' alt='District of Columbia v. Heller - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="373">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Michael_Bloomberg_speech_cropped_%282%29.jpg/250px-Michael_Bloomberg_speech_cropped_%282%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

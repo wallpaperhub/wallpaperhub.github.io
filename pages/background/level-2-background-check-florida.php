@@ -1,0 +1,129 @@
+<title>Essential Guide to Level 2 Background Checks in Florida</title>
+                    <meta name="description" content="Discover everything about Level 2 background checks in Florida. Learn what they entail, who needs them, and how they help ensure safety in various employment sectors. Get informed and stay compliant with state regulations in just a few clicks!">
+                    <meta name="keywords" content="level 2 background check florida">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/level-2-background-check-florida">
+                            <span itemprop="name">level 2 background check florida</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Guide to Level 2 Background Checks in Florida</h1>
+                <p>In Florida, a Level 2 background check is comprehensive, involving fingerprinting and review of national and state databases. It's often required for positions with vulnerable populations, such as children and the elderly. The process ensures employers can make informed hiring decisions while maintaining safety and compliance with state laws.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is a Level 2 Background Check Screening? | The Justice ...">
+                                <img itemprop="contentUrl url" src='https://thejusticecollaborative.com/wp-content/uploads/table.jpg' alt='What Is a Level 2 Background Check Screening? | The Justice ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2289">
+                                <meta itemprop="height" content="2224">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Justice Collaborative" />
+                                </span>
+                                <a href='https://thejusticecollaborative.com/wp-content/uploads/table.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AHCA Level 2 Background Screening by IDENTICO">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/hrPM7Y5iQFs/maxresdefault.jpg' alt='AHCA Level 2 Background Screening by IDENTICO'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/hrPM7Y5iQFs/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Back to background screening requirements">
+                                <img itemprop="contentUrl url" src='x-raw-image:///631fedcc850942a84f18ba5961aeee724fc55082d3b7ec2710d1f1130216b53d' alt='Back to background screening requirements'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="738">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Florida Department of Children and Families" />
+                                </span>
+                                <a href='x-raw-image:///631fedcc850942a84f18ba5961aeee724fc55082d3b7ec2710d1f1130216b53d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is a Level 2 Background Check Screening? | The Justice ...">
+                                <img itemprop="contentUrl url" src='https://thejusticecollaborative.com/wp-content/uploads/level-2-bg-check.jpg' alt='What Is a Level 2 Background Check Screening? | The Justice ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="940">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Justice Collaborative" />
+                                </span>
+                                <a href='https://thejusticecollaborative.com/wp-content/uploads/level-2-bg-check.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is a Level 2 Background Check? - USA Mobile Drug Testing">
+                                <img itemprop="contentUrl url" src='https://usamdt.com/wp-content/uploads/2022/12/level-2-background-check-1.jpg' alt='What is a Level 2 Background Check? - USA Mobile Drug Testing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USA Mobile Drug Testing" />
+                                </span>
+                                <a href='https://usamdt.com/wp-content/uploads/2022/12/level-2-background-check-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Understanding Level 2 Background Check Requirements in Florida ...">
+                                <img itemprop="contentUrl url" src='https://myidentico.com/wp-content/uploads/2024/06/Level-2-Background-Check-in-Florida.png' alt='Understanding Level 2 Background Check Requirements in Florida ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="676">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="identico" />
+                                </span>
+                                <a href='https://myidentico.com/wp-content/uploads/2024/06/Level-2-Background-Check-in-Florida.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Level 2 Background Screening">
+                                <img itemprop="contentUrl url" src='https://lirp.cdn-website.com/a02315e7/dms3rep/multi/opt/Fingerprint-640w.jpg' alt='Level 2 Background Screening'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="431">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Broward Regional Health Planning Council" />
+                                </span>
+                                <a href='https://lirp.cdn-website.com/a02315e7/dms3rep/multi/opt/Fingerprint-640w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Level 2 Background Check In Florida: Know Everything Here!">
+                                <img itemprop="contentUrl url" src='https://fefps.com/wp-content/uploads/2023/05/Add-a-heading.svg' alt='Level 2 Background Check In Florida: Know Everything Here!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fingerprinting Services" />
+                                </span>
+                                <a href='https://fefps.com/wp-content/uploads/2023/05/Add-a-heading.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CAREGIVER MEDICAL MARIJUANA CARD - One-Stop Public Services, Inc.">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/onestoppublicservices.com/wp-content/uploads/2023/06/OMMU-Level-2-Ad.jpg' alt='CAREGIVER MEDICAL MARIJUANA CARD - One-Stop Public Services, Inc.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1275">
+                                <meta itemprop="height" content="1650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="One Stop Public Services, Inc." />
+                                </span>
+                                <a href='https://i0.wp.com/onestoppublicservices.com/wp-content/uploads/2023/06/OMMU-Level-2-Ad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AHCA Background Screening Clearinghouse: Individual Profile and ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/lEwtKANjSCA/maxresdefault.jpg' alt='AHCA Background Screening Clearinghouse: Individual Profile and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/lEwtKANjSCA/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

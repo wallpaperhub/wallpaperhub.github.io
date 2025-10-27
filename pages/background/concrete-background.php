@@ -1,0 +1,129 @@
+<title>Stunning Concrete Backgrounds: Enhance Your Designs</title>
+                    <meta name="description" content="Discover the beauty of concrete backgrounds for your creative projects. Versatile and modern, they add depth and texture to designs, making them ideal for graphics, websites, and photography. Transform your visuals with the unique charm of concrete.">
+                    <meta name="keywords" content="concrete background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/concrete-background">
+                            <span itemprop="name">concrete background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Concrete Backgrounds: Enhance Your Designs</h1>
+                <p>Concrete backgrounds serve as a versatile foundation in design, offering an industrial, modern aesthetic. Their texture adds depth and character, making them perfect for graphic projects, websites, or photography. Whether used in minimalistic designs or as a bold backdrop, concrete backgrounds enhance creativity and visual appeal.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Gray Concrete Wall Mural">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/241255/Dark-Gray-Concrete-Wallpaper-Mural.jpg?v=638165403901970000' alt='Dark Gray Concrete Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="2174">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/241255/Dark-Gray-Concrete-Wallpaper-Mural.jpg?v=638165403901970000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grey Concrete Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1701057211454-cf9c6a39bcd1?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Z3JleSUyMGNvbmNyZXRlfGVufDB8fDB8fHww' alt='Grey Concrete Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1701057211454-cf9c6a39bcd1?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Z3JleSUyMGNvbmNyZXRlfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="High resolution dark grey concrete wall texture background, cement ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/014/215/048/large_2x/high-resolution-dark-grey-concrete-wall-texture-background-cement-wall-free-photo.jpg' alt='High resolution dark grey concrete wall texture background, cement ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3484">
+                                <meta itemprop="height" content="1960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/014/215/048/large_2x/high-resolution-dark-grey-concrete-wall-texture-background-cement-wall-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+ Concrete Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1579492450119-80542d516179?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y29uY3JldGV8ZW58MHx8MHx8fDA%3D' alt='100+ Concrete Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1579492450119-80542d516179?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y29uY3JldGV8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Concrete Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/digital-composite-image-old-wall_1048944-21614005.jpg?semt=ais_hybrid' alt='Dark Concrete Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="470">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/digital-composite-image-old-wall_1048944-21614005.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Natural grey cement wall concrete background texture mockup.">
+                                <img itemprop="contentUrl url" src='https://i.fbcd.co/products/original/natural-grey-cement-wall-concrete-background-texture-mockup-anawein-4b3ea6a70c276c9b38275f5ab57f5e0df9c0fa08a2ef1c2fbcf03c635c2f5e8b.jpg' alt='Natural grey cement wall concrete background texture mockup.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Bundles" />
+                                </span>
+                                <a href='https://i.fbcd.co/products/original/natural-grey-cement-wall-concrete-background-texture-mockup-anawein-4b3ea6a70c276c9b38275f5ab57f5e0df9c0fa08a2ef1c2fbcf03c635c2f5e8b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Concrete Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/old-cement-wall-texture_1149-1280.jpg' alt='Concrete Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/old-cement-wall-texture_1149-1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gray Concrete Wall Background Wall Mural">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/238564/Gray-Concrete-Wall-Background-Wallpaper-Mural.jpg?v=638164458536300000' alt='Gray Concrete Wall Background Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="2143">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/238564/Gray-Concrete-Wall-Background-Wallpaper-Mural.jpg?v=638164458536300000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Natural stone wall concrete dark background texture mockup.">
+                                <img itemprop="contentUrl url" src='https://i.fbcd.co/products/resized/resized-750-500/natural-stone-wall-concrete-dark-background-texture-mockup-anawein-4897a68fc030da29feaf099ba5732b1cb6ba3a687efb73a1c08d4a0d6319ab8d.jpg' alt='Natural stone wall concrete dark background texture mockup.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Bundles" />
+                                </span>
+                                <a href='https://i.fbcd.co/products/resized/resized-750-500/natural-stone-wall-concrete-dark-background-texture-mockup-anawein-4897a68fc030da29feaf099ba5732b1cb6ba3a687efb73a1c08d4a0d6319ab8d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Concrete wall background. Cement wall texture 7338349 Stock Photo ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/007/338/349/large_2x/concrete-wall-background-cement-wall-texture-free-photo.jpg' alt='Concrete wall background. Cement wall texture 7338349 Stock Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2613">
+                                <meta itemprop="height" content="1960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/007/338/349/large_2x/concrete-wall-background-cement-wall-texture-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

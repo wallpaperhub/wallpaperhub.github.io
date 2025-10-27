@@ -1,0 +1,129 @@
+<title>Decorate with Elegant Purple Flower Wallpaper</title>
+                    <meta name="description" content="Discover stunning purple flower wallpaper that transforms your room into a serene oasis. Perfect for adding elegance, this floral design is ideal for any space, creating a calming ambiance. Elevate your decor with vibrant patterns that bring nature indoors and enhance your home’s aesthetic!">
+                    <meta name="keywords" content="wallpaper with purple flowers">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/wallpaper-with-purple-flowers">
+                            <span itemprop="name">wallpaper with purple flowers</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Decorate with Elegant Purple Flower Wallpaper</h1>
+                <p>Transform your space with enchanting wallpaper featuring purple flowers. This vibrant design adds a touch of elegance and harmony to any room, perfect for creating a calming atmosphere. Ideal for bedrooms, living areas, or creative spaces, it balances beauty and sophistication while showcasing nature's charm.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Look Purple Flowers Wallpaper Mural • Wallmur®">
+                                <img itemprop="contentUrl url" src='https://www.wallmur.com/media/catalog/product/cache/af07dfdb28b408d54fee9501edc13278/1/6/16410311-crop.jpg' alt='3D Look Purple Flowers Wallpaper Mural • Wallmur®'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://www.wallmur.com/media/catalog/product/cache/af07dfdb28b408d54fee9501edc13278/1/6/16410311-crop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download premium image of Purple floral background, flower graphic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ff/85/6d/ff856d9df25d96687e3abf87c480add2.jpg' alt='Download premium image of Purple floral background, flower graphic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ff/85/6d/ff856d9df25d96687e3abf87c480add2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple wallpaper iphone purple purple flowers wallpaper, purple ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/purple-wallpaper-iphone-purple-purple-flowers-wallpaper-purple-wallpaper-purple-wallpaper-purple-wallpaper-purple-wallpaper-purple-wallpaper-iphone-wallpaper-purple-wallpaper_900775-4608.jpg' alt='Purple wallpaper iphone purple purple flowers wallpaper, purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="351">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/purple-wallpaper-iphone-purple-purple-flowers-wallpaper-purple-wallpaper-purple-wallpaper-purple-wallpaper-purple-wallpaper-purple-wallpaper-iphone-wallpaper-purple-wallpaper_900775-4608.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Flower Background" by Stocksy Contributor "Ruth Black"">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1e/78/08/1e7808ab66de47161d19dcd6359b8a51.jpg' alt='Purple Flower Background" by Stocksy Contributor "Ruth Black"'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1e/78/08/1e7808ab66de47161d19dcd6359b8a51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Flower Sparkle Wallpaper - free download">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/high/purple-flower-sparkle-wallpaper.webp' alt='Purple Flower Sparkle Wallpaper - free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="839">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/high/purple-flower-sparkle-wallpaper.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Aesthetic Purple Flower Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/aesthetic-purple-flower-qbgwd86qncvpf64u.jpg' alt='100+] Aesthetic Purple Flower Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/aesthetic-purple-flower-qbgwd86qncvpf64u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soft Purple Floral Wallpaper with Watercolor Leaves | Removable Wall Decal  YF-05067">
+                                <img itemprop="contentUrl url" src='https://tualca.com/cdn/shop/files/Soft_Purple_Floral_Wallpaper_with_Watercolor_Leaves_Removable_Wall_Decal_YF-05067_4.jpg?v=1727783358&width=1946' alt='Soft Purple Floral Wallpaper with Watercolor Leaves | Removable Wall Decal  YF-05067'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="tualca" />
+                                </span>
+                                <a href='https://tualca.com/cdn/shop/files/Soft_Purple_Floral_Wallpaper_with_Watercolor_Leaves_Removable_Wall_Decal_YF-05067_4.jpg?v=1727783358&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mural Wallpaper floral | Elegant purple flowers on beige ...">
+                                <img itemprop="contentUrl url" src='https://wondermural.com/cdn/shop/files/papier-peint-floral-fleurs-violettes-elegantes-sur-fond-beige_1200x1200_crop_center.jpg?v=1727963768' alt='Mural Wallpaper floral | Elegant purple flowers on beige ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WonderMural" />
+                                </span>
+                                <a href='https://wondermural.com/cdn/shop/files/papier-peint-floral-fleurs-violettes-elegantes-sur-fond-beige_1200x1200_crop_center.jpg?v=1727963768' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PURPLE FLOWERS BEAUTIFUL BACKGROUND">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f6/fd/32/f6fd324b8b08b8a039da76938d7e666a.jpg' alt='PURPLE FLOWERS BEAUTIFUL BACKGROUND'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f6/fd/32/f6fd324b8b08b8a039da76938d7e666a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Purple Flower Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/purple-flower-background-mvhlrefd0w9omhwz.jpg' alt='100+] Purple Flower Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/purple-flower-background-mvhlrefd0w9omhwz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Exploring the Charms of Old Movies</title>
+                    <meta name="description" content="Discover the magical world of old movies! Dive into vintage cinema that encapsulates the charm of bygone eras. Uncover forgotten classics and enjoy timeless stories that continue to captivate audiences. Perfect for film enthusiasts and nostalgia lovers alike!">
+                    <meta name="keywords" content="old movie background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/old-movie-background">
+                            <span itemprop="name">old movie background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring the Charms of Old Movies</h1>
+                <p>Old movies often transport us to different eras, showcasing vintage aesthetics, fashion, and societal norms. They offer a glimpse into the past, capturing the essence of their time through storytelling and production design. From black-and-white classics to early color films, these movies remain timeless treasures in cinematic history.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old Film Background - Stock Video | Motion Array">
+                                <img itemprop="contentUrl url" src='https://motionarray-portfolio.imgix.net/preview-142697-m127luQfn3-high_0016.jpg?w=660&q=60&fit=max&auto=format' alt='Old Film Background - Stock Video | Motion Array'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Motion Array" />
+                                </span>
+                                <a href='https://motionarray-portfolio.imgix.net/preview-142697-m127luQfn3-high_0016.jpg?w=660&q=60&fit=max&auto=format' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old Film Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/picture-brown-orange-background-with-brown-texture_1344814-3500.jpg' alt='Old Film Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/picture-brown-orange-background-with-brown-texture_1344814-3500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Old Film Ornament Frame Background">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/002/014/685/small_2x/vintage-old-film-ornament-frame-background-video.jpg' alt='Vintage Old Film Ornament Frame Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="711">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/002/014/685/small_2x/vintage-old-film-ornament-frame-background-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old Movie Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210714/original/pngtree-old-movie-background-pictures-picture-image_1218119.jpg' alt='Old Movie Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1604">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210714/original/pngtree-old-movie-background-pictures-picture-image_1218119.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Silent Film Opening Background - Stock Video | Motion Array">
+                                <img itemprop="contentUrl url" src='https://motionarray.imgix.net/preview-79920-w7DoVIIPVS-high_0005.jpg?w=660&q=60&fit=max&auto=format' alt='Silent Film Opening Background - Stock Video | Motion Array'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Motion Array" />
+                                </span>
+                                <a href='https://motionarray.imgix.net/preview-79920-w7DoVIIPVS-high_0005.jpg?w=660&q=60&fit=max&auto=format' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Flat design old film background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/flat-design-old-film-background_23-2150998480.jpg' alt='Premium Vector | Flat design old film background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/flat-design-old-film-background_23-2150998480.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old Scratch Background for Movie Frames Film Backdrop IBD-19588 ...">
+                                <img itemprop="contentUrl url" src='https://www.ibackdrop.com/cdn/shop/products/Old_Scratch_Background_for_Movie_Frames_Film_Backdrop_IBD-19588.jpg?v=1604917670' alt='Old Scratch Background for Movie Frames Film Backdrop IBD-19588 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iBACKDROP" />
+                                </span>
+                                <a href='https://www.ibackdrop.com/cdn/shop/products/Old_Scratch_Background_for_Movie_Frames_Film_Backdrop_IBD-19588.jpg?v=1604917670' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7,000+ Old Movie Poster Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/685635080/photo/film-strip-texture-background.jpg?s=612x612&w=0&k=20&c=PW4l77hqD2xqtTMIjBMqqVL4idLE07eRpbGMq4z1LzM=' alt='7,000+ Old Movie Poster Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="407">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/685635080/photo/film-strip-texture-background.jpg?s=612x612&w=0&k=20&c=PW4l77hqD2xqtTMIjBMqqVL4idLE07eRpbGMq4z1LzM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old movie background Royalty Free Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/00/91/old-movie-background-vector-4350091.jpg' alt='Old movie background Royalty Free Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="831">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/00/91/old-movie-background-vector-4350091.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old film hi-res stock photography and images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/D5DDDC/old-grunge-film-frame-vintage-background-D5DDDC.jpg' alt='Old film hi-res stock photography and images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="956">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/D5DDDC/old-grunge-film-frame-vintage-background-D5DDDC.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

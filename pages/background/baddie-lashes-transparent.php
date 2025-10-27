@@ -1,0 +1,129 @@
+<title>“Baddie Lashes Transparent: Elevate Your Eye Game”</title>
+                    <meta name="description" content="Discover the allure of baddie lashes transparent! Achieve a bold, glamorous look with these invisible-band lashes that deliver volume and length without the fuss. Perfect for any occasion, they give you the ultimate confidence and style. Shop now for your must-have beauty essential!">
+                    <meta name="keywords" content="baddie lashes transparent">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/baddie-lashes-transparent">
+                            <span itemprop="name">baddie lashes transparent</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>“Baddie Lashes Transparent: Elevate Your Eye Game”</h1>
+                <p>Elevate your look with baddie lashes transparent! These stunning lashes feature a clear band, making them virtually invisible on your eyelids while offering dramatic volume and length. Perfect for any occasion, they blend seamlessly with your natural lashes. Flaunt a baddie-worthy eye look that leaves a lasting impression!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eyelashes PNG Transparent Images Free Download | Vector Files ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20210214/ourmid/pngtree-eyelash-material-black-thick-eyelashes-clipart-png-image_2901602.jpg' alt='Eyelashes PNG Transparent Images Free Download | Vector Files ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20210214/ourmid/pngtree-eyelash-material-black-thick-eyelashes-clipart-png-image_2901602.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eyelashes PNG Transparent, Eyelash, Eyelash Clipart, Long ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/d9/ec/79/d9ec793958c64197742fa18904bc42b5.jpg' alt='Eyelashes PNG Transparent, Eyelash, Eyelash Clipart, Long ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="564">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/d9/ec/79/d9ec793958c64197742fa18904bc42b5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baddie Invisible Magnetic Lashes">
+                                <img itemprop="contentUrl url" src='https://lashxlavish.com/cdn/shop/products/Image_36_1445x.jpg?v=1641627478' alt='Baddie Invisible Magnetic Lashes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1079">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lash x Lavish" />
+                                </span>
+                                <a href='https://lashxlavish.com/cdn/shop/products/Image_36_1445x.jpg?v=1641627478' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lashes Transparent Stock Illustrations – 165 Lashes Transparent ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/lashes-isolated-transparent-background-false-eyelashes-set-vector-illustration-98589015.jpg' alt='Lashes Transparent Stock Illustrations – 165 Lashes Transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/lashes-isolated-transparent-background-false-eyelashes-set-vector-illustration-98589015.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BADDIE LASHES – baddiiesboutique">
+                                <img itemprop="contentUrl url" src='https://baddiesboutiuqe.com/cdn/shop/products/image_df75e6fc-57de-4052-8d1d-baf656c0d17a@2x.jpg?v=1633495202' alt='BADDIE LASHES – baddiiesboutique'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="789">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="baddiiesboutique" />
+                                </span>
+                                <a href='https://baddiesboutiuqe.com/cdn/shop/products/image_df75e6fc-57de-4052-8d1d-baf656c0d17a@2x.jpg?v=1633495202' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baddie Eyelash">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/eb/02/30/eb023020c872010970e37024bd70b4cd.jpg' alt='Baddie Eyelash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/eb/02/30/eb023020c872010970e37024bd70b4cd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="#LOWKEY">
+                                <img itemprop="contentUrl url" src='http://baddiebbeauty.com/cdn/shop/products/lowkey_onwhite-singleLARGE.png?v=1637343573' alt='#LOWKEY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="942">
+                                <meta itemprop="height" content="697">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Baddie B Lashes" />
+                                </span>
+                                <a href='http://baddiebbeauty.com/cdn/shop/products/lowkey_onwhite-singleLARGE.png?v=1637343573' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Love Magnet Lashes | Premium Magnetic Eyelashes Kit">
+                                <img itemprop="contentUrl url" src='http://lovemagnetlashes.com/cdn/shop/products/GORGEOUSYOULASHES_8_1200x1200.png?v=1630358728' alt='Love Magnet Lashes | Premium Magnetic Eyelashes Kit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LOVE MAGNET COSMETICS" />
+                                </span>
+                                <a href='http://lovemagnetlashes.com/cdn/shop/products/GORGEOUSYOULASHES_8_1200x1200.png?v=1630358728' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baddie Lash">
+                                <img itemprop="contentUrl url" src='http://desslash.com/cdn/shop/products/BAD_2af23d46-0bae-40a4-9336-95022da201dd.jpg?v=1642385918' alt='Baddie Lash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="desslash magnetic lashes" />
+                                </span>
+                                <a href='http://desslash.com/cdn/shop/products/BAD_2af23d46-0bae-40a4-9336-95022da201dd.jpg?v=1642385918' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baddie Invisible Magnetic Lashes">
+                                <img itemprop="contentUrl url" src='http://lashxlavish.com/cdn/shop/products/Image_32.jpg?v=1641627478' alt='Baddie Invisible Magnetic Lashes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lash x Lavish" />
+                                </span>
+                                <a href='http://lashxlavish.com/cdn/shop/products/Image_32.jpg?v=1641627478' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

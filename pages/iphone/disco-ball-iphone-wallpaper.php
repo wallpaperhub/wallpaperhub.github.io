@@ -1,0 +1,129 @@
+<title>Disco Ball iPhone Wallpapers: Shine Bright on Your Screen</title>
+                    <meta name="description" content="Explore our collection of dazzling disco ball iPhone wallpapers! Perfect for adding a party vibe to your phone, these vibrant designs will light up your display. Download now for a fun and unique look that captures the essence of celebration and excitement!">
+                    <meta name="keywords" content="disco ball iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/disco-ball-iphone-wallpaper">
+                            <span itemprop="name">disco ball iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Disco Ball iPhone Wallpapers: Shine Bright on Your Screen</h1>
+                <p>Transform your iPhone with eye-catching disco ball wallpapers that add a vibrant touch to your screen. Perfect for party lovers and retro enthusiasts, these wallpapers radiate fun with swirling colors and reflective patterns. Download now to bring the energy of the dance floor right to your device—each glance promises a little sparkle!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disco Ball Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/7c/3a/19/7c3a196a50fe8715932bed3811e298ff.jpg' alt='Disco Ball Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="499">
+                                <meta itemprop="height" content="886">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/7c/3a/19/7c3a196a50fe8715932bed3811e298ff.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disco Ball Wallpaper Disco Wallpaper Eras Tour Wallpaper Taylor ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/24/bf/ee/24bfeefbcf81dbdceb044822c4d0b55c.jpg' alt='Disco Ball Wallpaper Disco Wallpaper Eras Tour Wallpaper Taylor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/24/bf/ee/24bfeefbcf81dbdceb044822c4d0b55c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Disco Balls Stock Illustrations – 102 Rainbow Disco Balls ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/dynamic-retro-disco-background-vivid-pinks-mirror-balls-colorful-rainbow-patterns-347643309.jpg' alt='Rainbow Disco Balls Stock Illustrations – 102 Rainbow Disco Balls ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="514">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/dynamic-retro-disco-background-vivid-pinks-mirror-balls-colorful-rainbow-patterns-347643309.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disco Ball Wallpaper Disco Wallpaper Eras Tour Wallpaper Taylor ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/df/2b/05/df2b057ad252991ccc774bcb8dbb3fe3.jpg' alt='Disco Ball Wallpaper Disco Wallpaper Eras Tour Wallpaper Taylor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/df/2b/05/df2b057ad252991ccc774bcb8dbb3fe3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable disco wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFBVlOkkiQ/1/0/900w/canva-beige-and-brown-disco-ball-simple-iphone-wallpaper-y8qDEd2WHTE.jpg' alt='Free and customizable disco wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFBVlOkkiQ/1/0/900w/canva-beige-and-brown-disco-ball-simple-iphone-wallpaper-y8qDEd2WHTE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disco Ball, dark, mirror, sphere, disco ball, dance, music, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/479/928/HD-wallpaper-disco-ball-dark-mirror-sphere-disco-ball-dance-music.jpg' alt='Disco Ball, dark, mirror, sphere, disco ball, dance, music, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/479/928/HD-wallpaper-disco-ball-dark-mirror-sphere-disco-ball-dance-music.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glitter light Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/82/79/3f/82793f5a9b002019c7cb2b44ba6ede87.jpg' alt='Glitter light Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/82/79/3f/82793f5a9b002019c7cb2b44ba6ede87.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Disco Ball Glam Image | Download at StockCake">
+                                <img itemprop="contentUrl url" src='https://images.stockcake.com/public/9/4/5/94506c4c-6950-40c5-a641-0c86360252ab_large/disco-ball-glam-stockcake.jpg' alt='Free Disco Ball Glam Image | Download at StockCake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="728">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockCake" />
+                                </span>
+                                <a href='https://images.stockcake.com/public/9/4/5/94506c4c-6950-40c5-a641-0c86360252ab_large/disco-ball-glam-stockcake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DISCO BALL BACKGROUND    ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c8/5f/bb/c85fbb1488be09915d3a3908c24d98e3.jpg' alt='DISCO BALL BACKGROUND    '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c8/5f/bb/c85fbb1488be09915d3a3908c24d98e3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disco Ball Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/color-year-2023-viva-magentaxashiny-disco-ball-creative-christmas-pattern-90s-retro-party-time-concept-xmas-holiday-background-top-view-flat-lay_89386-2166.jpg?w=360' alt='Disco Ball Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/color-year-2023-viva-magentaxashiny-disco-ball-creative-christmas-pattern-90s-retro-party-time-concept-xmas-holiday-background-top-view-flat-lay_89386-2166.jpg?w=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

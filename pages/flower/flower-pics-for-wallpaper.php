@@ -1,0 +1,129 @@
+<title>Stunning Flower Wallpapers: Nature's Beauty for Your Screen</title>
+                    <meta name="description" content="Discover a curated collection of beautiful flower pics for wallpaper. Transform your device with vibrant floral designs and serene nature scenes, perfect for any flower enthusiast. Download now to enhance your screen with the elegance of nature!">
+                    <meta name="keywords" content="flower pics for wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flower">
+                            <span itemprop="name">Flower</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flower/flower-pics-for-wallpaper">
+                            <span itemprop="name">flower pics for wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Flower Wallpapers: Nature's Beauty for Your Screen</h1>
+                <p>Brighten up your device with stunning flower pics for wallpaper. Explore vibrant blooms, serene landscapes, and whimsical floral arrangements to bring nature's beauty to your screen. Perfect for adding a splash of color and tranquility, these wallpapers are ideal for flower lovers looking to personalize their devices.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral iPhone Wallpapers | Download High Resolution Flower Mobile ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjIzLXktYmFja2dyb3VuZC1hZGotMDA0Yi0wMS5qcGc.jpg' alt='Floral iPhone Wallpapers | Download High Resolution Flower Mobile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjIzLXktYmFja2dyb3VuZC1hZGotMDA0Yi0wMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower Wallpaper Cute">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51eazQpFffL.jpg' alt='Flower Wallpaper Cute'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51eazQpFffL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+ White Flower Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1530092285049-1c42085fd395?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d2hpdGUlMjBmbG93ZXJ8ZW58MHx8MHx8fDA%3D' alt='100+ White Flower Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1530092285049-1c42085fd395?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d2hpdGUlMjBmbG93ZXJ8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Beautiful Flower Wallpapers For iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/0f/ef/e2/0fefe27507a39a5499d73155b218fb8c.jpg' alt='25 Beautiful Flower Wallpapers For iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/0f/ef/e2/0fefe27507a39a5499d73155b218fb8c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flowers Wallpaper Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1676478746990-4ef5c8ef234a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Zmxvd2VycyUyMHdhbGxwYXBlcnxlbnwwfHwwfHx8MA%3D%3D' alt='Flowers Wallpaper Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1676478746990-4ef5c8ef234a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Zmxvd2VycyUyMHdhbGxwYXBlcnxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Flower Wallpaper at ₹ 70/square feet | फूल वाला ...">
+                                <img itemprop="contentUrl url" src='https://5.imimg.com/data5/SELLER/Default/2021/8/AC/RN/JM/6976612/beautiful-flower-wallpaper.jpg' alt='Beautiful Flower Wallpaper at ₹ 70/square feet | फूल वाला ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IndiaMART" />
+                                </span>
+                                <a href='https://5.imimg.com/data5/SELLER/Default/2021/8/AC/RN/JM/6976612/beautiful-flower-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Flower Wallpapers for iPhone & Android Phones">
+                                <img itemprop="contentUrl url" src='https://www.livewallpapers.com/uploads/lw_categories/files/images/61ba15ab7515c_cherry%20blossoms%20wallpapers_q60.webp' alt='Beautiful Flower Wallpapers for iPhone & Android Phones'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="225">
+                                <meta itemprop="height" content="491">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://www.livewallpapers.com/uploads/lw_categories/files/images/61ba15ab7515c_cherry%20blossoms%20wallpapers_q60.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Beautiful Flower Wallpapers For iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/02/72/4b/02724bc62ceb98db7e6293120d0603af.jpg' alt='25 Beautiful Flower Wallpapers For iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/02/72/4b/02724bc62ceb98db7e6293120d0603af.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1600+] Flower Aesthetic Pictures | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/flower-aesthetic-pictures-510384oukz7ybniz.jpg' alt='1600+] Flower Aesthetic Pictures | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/flower-aesthetic-pictures-510384oukz7ybniz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,288 Blue Flower Wallpaper Aesthetic Stock Photos - Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/wallpaper-minimalist-purple-flower-blue-background-phone-336904450.jpg' alt='2,288 Blue Flower Wallpaper Aesthetic Stock Photos - Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="505">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/wallpaper-minimalist-purple-flower-blue-background-phone-336904450.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

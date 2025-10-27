@@ -1,0 +1,129 @@
+<title>Free Webex Backgrounds: Transform Your Video Calls</title>
+                    <meta name="description" content="Discover a collection of free Webex backgrounds to elevate your video conferencing experience. Perfect for professionals and casual users alike, enhance your virtual presence effortlessly with these stylish options. Download and enjoy a more engaging meeting today!">
+                    <meta name="keywords" content="webex backgrounds free">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/webex-backgrounds-free">
+                            <span itemprop="name">webex backgrounds free</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Free Webex Backgrounds: Transform Your Video Calls</h1>
+                <p>Enhance your video calls with free Webex backgrounds! Choose from a variety of stunning, professional, and fun backgrounds to personalize your virtual meetings. Whether you're working from home or connecting with friends, these backgrounds add a touch of creativity and professionalism. Download now and stand out in your next call!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Webex Virtual Backgrounds for free | Livestorm">
+                                <img itemprop="contentUrl url" src='https://livestorm.imgix.net/1127/1678183732-vbl-02.jpg?fm=png&auto=format' alt='Download Webex Virtual Backgrounds for free | Livestorm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="585">
+                                <meta itemprop="height" content="340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livestorm" />
+                                </span>
+                                <a href='https://livestorm.imgix.net/1127/1678183732-vbl-02.jpg?fm=png&auto=format' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Webex Backgrounds | 51 best free background, furniture, home, and ...">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1661962841993-99a07c27c9f4?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3' alt='Webex Backgrounds | 51 best free background, furniture, home, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1661962841993-99a07c27c9f4?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Webex Virtual Backgrounds for free | Livestorm">
+                                <img itemprop="contentUrl url" src='https://livestorm.imgix.net/1127/1642701841-home_008.jpg?h=195&w=344&fit=crop&fm=jpg&auto=format' alt='Download Webex Virtual Backgrounds for free | Livestorm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="344">
+                                <meta itemprop="height" content="195">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livestorm" />
+                                </span>
+                                <a href='https://livestorm.imgix.net/1127/1642701841-home_008.jpg?h=195&w=344&fit=crop&fm=jpg&auto=format' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hide your Home Office with Free Cisco Webex Backgrounds [Updated ...">
+                                <img itemprop="contentUrl url" src='https://cboardinggroup.com/wp-content/uploads/2020/05/Free-Cisco-Webex-Backgrounds-Office-4-1024x576-1.jpg' alt='Hide your Home Office with Free Cisco Webex Backgrounds [Updated ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="C Boarding Group" />
+                                </span>
+                                <a href='https://cboardinggroup.com/wp-content/uploads/2020/05/Free-Cisco-Webex-Backgrounds-Office-4-1024x576-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Webex Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/light-blue-office-webex-background-ddaaprs4dicksicl.jpg' alt='100+] Webex Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/light-blue-office-webex-background-ddaaprs4dicksicl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hide your Home Office with Free Cisco Webex Backgrounds [Updated ...">
+                                <img itemprop="contentUrl url" src='https://cboardinggroup.com/wp-content/uploads/2020/05/Free-Cisco-Webex-Backgrounds.jpg' alt='Hide your Home Office with Free Cisco Webex Backgrounds [Updated ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="C Boarding Group" />
+                                </span>
+                                <a href='https://cboardinggroup.com/wp-content/uploads/2020/05/Free-Cisco-Webex-Backgrounds.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13 Best Free Virtual Backgrounds for Any Situation ...">
+                                <img itemprop="contentUrl url" src='https://www.freeconferencecall.com/wp-content/uploads/2024/06/5_Boating_in_Italy_Virtual_Background_4c00f839c8.jpg' alt='13 Best Free Virtual Backgrounds for Any Situation ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="468">
+                                <meta itemprop="height" content="312">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Conference Call" />
+                                </span>
+                                <a href='https://www.freeconferencecall.com/wp-content/uploads/2024/06/5_Boating_in_Italy_Virtual_Background_4c00f839c8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Webex Virtual Backgrounds for free | Livestorm">
+                                <img itemprop="contentUrl url" src='https://livestorm.imgix.net/1127/1678183737-vbl-03.jpg?fm=png&auto=format' alt='Download Webex Virtual Backgrounds for free | Livestorm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="717">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livestorm" />
+                                </span>
+                                <a href='https://livestorm.imgix.net/1127/1678183737-vbl-03.jpg?fm=png&auto=format' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Virtual Backgrounds - Free virtual backgrounds for Zoom, Microsoft ...">
+                                <img itemprop="contentUrl url" src='https://virtualbackgrounds.site/wp-content/uploads/2020/07/bookshelf-at-dunster-house-library-768x432.jpg' alt='Virtual Backgrounds - Free virtual backgrounds for Zoom, Microsoft ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="virtualbackgrounds.site" />
+                                </span>
+                                <a href='https://virtualbackgrounds.site/wp-content/uploads/2020/07/bookshelf-at-dunster-house-library-768x432.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Professional Backdrops to Use on Zoom and Webex - Webaround ...">
+                                <img itemprop="contentUrl url" src='https://thewebaround.com/wp-content/uploads/2021/07/alfons-morales-YLSwjSy7stw-unsplash-1024x600.jpg' alt='8 Professional Backdrops to Use on Zoom and Webex - Webaround ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Webaround" />
+                                </span>
+                                <a href='https://thewebaround.com/wp-content/uploads/2021/07/alfons-morales-YLSwjSy7stw-unsplash-1024x600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

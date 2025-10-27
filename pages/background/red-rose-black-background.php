@@ -1,0 +1,129 @@
+<title>Stunning Red Rose on Black Background: A Visual Delight</title>
+                    <meta name="description" content="Discover the captivating beauty of a red rose set against a black background. This striking contrast highlights the rose's vibrant colors, symbolizing love and passion. Perfect for art enthusiasts and romantics alike, explore how this powerful imagery creates emotion and elegance in any space.">
+                    <meta name="keywords" content="red rose black background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/red-rose-black-background">
+                            <span itemprop="name">red rose black background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Red Rose on Black Background: A Visual Delight</h1>
+                <p>The striking contrast of a red rose against a black background creates a visual masterpiece that symbolizes passion and elegance. The deep red petals draw the eye, while the darkness enhances their vibrance, making the rose the focal point. This imagery evokes emotions of love, desire, and beauty, perfect for any romantic setting.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Background Red Roses​ | Gallery Yopriceville - High-Quality ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/var/albums/Backgrounds/Black_Background_Red_Roses.jpg?m=1629778178' alt='Black Background Red Roses​ | Gallery Yopriceville - High-Quality ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6000">
+                                <meta itemprop="height" content="4186">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/var/albums/Backgrounds/Black_Background_Red_Roses.jpg?m=1629778178' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Two Red Roses · Free Stock Photo">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/14862502/pexels-photo-14862502.jpeg' alt='Two Red Roses · Free Stock Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5296">
+                                <meta itemprop="height" content="7941">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/14862502/pexels-photo-14862502.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Roses with Black Background, Dripping Red Paint Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/red-roses-black-background-dripping-red-paint-gothic-esthetics-red-paint-red-roses-black-background-dripping-red-paint-284484436.jpg' alt='Red Roses with Black Background, Dripping Red Paint Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/red-roses-black-background-dripping-red-paint-gothic-esthetics-red-paint-red-roses-black-background-dripping-red-paint-284484436.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red rose black background by ThomasJames573 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/059a44bd-251e-48d3-ad56-c85464fed855/dgng9e8-a7c9d0d3-63e7-4c62-802b-3e47aa3e378e.jpg/v1/fill/w_1280,h_1266,q_75,strp/red_rose_black_background__by_thomasjames573_dgng9e8-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI2NiIsInBhdGgiOiJcL2ZcLzA1OWE0NGJkLTI1MWUtNDhkMy1hZDU2LWM4NTQ2NGZlZDg1NVwvZGduZzllOC1hN2M5ZDBkMy02M2U3LTRjNjItODAyYi0zZTQ3YWEzZTM3OGUuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.wiVDdyOPGNvTkid6JaHB-BxDL_iQizrPISqWC_cYUUs' alt='Red rose black background by ThomasJames573 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1266">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/059a44bd-251e-48d3-ad56-c85464fed855/dgng9e8-a7c9d0d3-63e7-4c62-802b-3e47aa3e378e.jpg/v1/fill/w_1280,h_1266,q_75,strp/red_rose_black_background__by_thomasjames573_dgng9e8-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI2NiIsInBhdGgiOiJcL2ZcLzA1OWE0NGJkLTI1MWUtNDhkMy1hZDU2LWM4NTQ2NGZlZDg1NVwvZGduZzllOC1hN2M5ZDBkMy02M2U3LTRjNjItODAyYi0zZTQ3YWEzZTM3OGUuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.wiVDdyOPGNvTkid6JaHB-BxDL_iQizrPISqWC_cYUUs' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Single Romantic Red Rose Black Background Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/elegant-abstract-floral-banner-featuring-single-vivid-red-rose-deep-black-background-elegant-abstract-floral-banner-350249472.jpg' alt='Single Romantic Red Rose Black Background Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/elegant-abstract-floral-banner-featuring-single-vivid-red-rose-deep-black-background-elegant-abstract-floral-banner-350249472.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Rose Black Background​ | Gallery Yopriceville - High-Quality ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/downloadfullsize/send/16346' alt='Red Rose Black Background​ | Gallery Yopriceville - High-Quality ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="2760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/downloadfullsize/send/16346' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red rose on black background by Aleksandr Tkach">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/red-rose-on-black-background-aleksandr-tkach.jpg' alt='Red rose on black background by Aleksandr Tkach'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fine Art America" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/red-rose-on-black-background-aleksandr-tkach.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rose black background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3f/e1/72/3fe17241eb60b82d51cfd253755b6615.jpg' alt='Rose black background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3f/e1/72/3fe17241eb60b82d51cfd253755b6615.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Red Roses Images – Browse 370,692 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/49/51/26/360_F_349512647_wnP6IfHLtEKEO8jphEYUCKkpW8MkRlUE.jpg' alt='Black Red Roses Images – Browse 370,692 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="584">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/49/51/26/360_F_349512647_wnP6IfHLtEKEO8jphEYUCKkpW8MkRlUE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red roses on a black background for Valentine's Day - Photo #2272 ...">
+                                <img itemprop="contentUrl url" src='https://www.motosha.com/files/preview/1280x788/6815-red-roses-on-a-black-background-for-valentines-day.jpg' alt='Red roses on a black background for Valentine's Day - Photo #2272 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="788">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="motosha" />
+                                </span>
+                                <a href='https://www.motosha.com/files/preview/1280x788/6815-red-roses-on-a-black-background-for-valentines-day.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

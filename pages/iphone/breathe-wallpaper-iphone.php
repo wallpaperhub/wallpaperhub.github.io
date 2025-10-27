@@ -1,0 +1,129 @@
+<title>Transform Your iPhone with Breathe Wallpapers</title>
+                    <meta name="description" content="Discover a beautiful collection of breathe wallpapers for your iPhone. These calming designs enhance your device, promoting relaxation and mindfulness. Perfect for anyone looking to add a touch of peace to their daily routine. Download now and elevate your iPhone experience!">
+                    <meta name="keywords" content="breathe wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/breathe-wallpaper-iphone">
+                            <span itemprop="name">breathe wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your iPhone with Breathe Wallpapers</h1>
+                <p>Upgrade your iPhone with stunning breathe wallpapers that inspire calmness and mindfulness. Perfect for creating a serene atmosphere, these wallpapers feature soothing colors and peaceful designs. Whether you seek tranquility or motivation, transform your device into a daily reminder to breathe and embrace the moment.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Breathe Wallpapers on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/2f/fd/8a/2ffd8ad9bd5d4e37ee965675677dd950.jpg' alt='   Breathe Wallpapers on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/2f/fd/8a/2ffd8ad9bd5d4e37ee965675677dd950.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Wallpaper Clouds Breathe Meditation Anxiety Relief Background  Wallpaper - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/40229226/r/il/0fd1cd/4524046322/il_1080xN.4524046322_d82y.jpg' alt='Phone Wallpaper Clouds Breathe Meditation Anxiety Relief Background  Wallpaper - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/40229226/r/il/0fd1cd/4524046322/il_1080xN.4524046322_d82y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Free download Breathe Madewithover And Edit Your Own iPhone on ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4b/f7/5d/4bf75dc033aec6644ed5d6b4184d8cb2.jpg' alt='   Free download Breathe Madewithover And Edit Your Own iPhone on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4b/f7/5d/4bf75dc033aec6644ed5d6b4184d8cb2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="nz35-breathe-mountain-tree-nature-neon-wallpaper">
+                                <img itemprop="contentUrl url" src='https://papers.co/wallpaper/papers.co-nz35-breathe-mountain-tree-nature-neon-41-iphone-wallpaper.jpg' alt='nz35-breathe-mountain-tree-nature-neon-wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papers.co" />
+                                </span>
+                                <a href='https://papers.co/wallpaper/papers.co-nz35-breathe-mountain-tree-nature-neon-41-iphone-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Wallpaper: Breathe — Monica Bagnoli">
+                                <img itemprop="contentUrl url" src='http://static1.squarespace.com/static/5e23363f20684f527ffa035b/5ee2b5e4073d816ef7da66e3/5f39d5925ff12d023382d75d/1597625842523/Breathe+Wallpaper.jpg?format=1500w' alt='iPhone Wallpaper: Breathe — Monica Bagnoli'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2668">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Monica Bagnoli" />
+                                </span>
+                                <a href='http://static1.squarespace.com/static/5e23363f20684f527ffa035b/5ee2b5e4073d816ef7da66e3/5f39d5925ff12d023382d75d/1597625842523/Breathe+Wallpaper.jpg?format=1500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Breathe iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7e/75/ce/7e75ceae83fb0a889cb023ef2a3b8d25.jpg' alt='Breathe iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7e/75/ce/7e75ceae83fb0a889cb023ef2a3b8d25.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Breathe Sky, breathe, clouds, sky, soft, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/1009/970/HD-wallpaper-breathe-sky-breathe-clouds-sky-soft.jpg' alt='Breathe Sky, breathe, clouds, sky, soft, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/1009/970/HD-wallpaper-breathe-sky-breathe-clouds-sky-soft.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Weekends: Breathe for iPad, iPhone, iPod touch, and ...">
+                                <img itemprop="contentUrl url" src='http://www.mactrast.com/wp-content/uploads/2017/11/fabian-moller-401625_AW.jpg' alt='Wallpaper Weekends: Breathe for iPad, iPhone, iPod touch, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="312">
+                                <meta itemprop="height" content="390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MacTrast" />
+                                </span>
+                                <a href='http://www.mactrast.com/wp-content/uploads/2017/11/fabian-moller-401625_AW.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9 Iphone Wallpaper Breathe ideas | iphone wallpaper, just breathe ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/8b/d8/d3/8bd8d3dc01a39178b1a7a32814ec468b.jpg' alt='9 Iphone Wallpaper Breathe ideas | iphone wallpaper, just breathe ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/8b/d8/d3/8bd8d3dc01a39178b1a7a32814ec468b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Just Breathe Wallpaper iPhone | Beautiful Revelry | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/5525/12244013614_fb13ce6b93_z.jpg' alt='Just Breathe Wallpaper iPhone | Beautiful Revelry | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="426">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/5525/12244013614_fb13ce6b93_z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

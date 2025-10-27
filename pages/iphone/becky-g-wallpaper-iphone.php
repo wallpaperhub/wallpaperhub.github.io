@@ -1,0 +1,129 @@
+<title>Stunning Becky G Wallpapers for Your iPhone</title>
+                    <meta name="description" content="Discover amazing Becky G wallpapers for your iPhone! Personalize your device with high-quality images of this talented artist. Download your favorites and showcase your love for Becky G effortlessly. Perfect for fans looking to add a stylish touch to their mobile!">
+                    <meta name="keywords" content="becky g wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/becky-g-wallpaper-iphone">
+                            <span itemprop="name">becky g wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Becky G Wallpapers for Your iPhone</h1>
+                <p>Looking for the perfect Becky G wallpaper for your iPhone? Transform your device with stunning images featuring this talented artist. Choose from a variety of wallpapers that showcase her vibrant style and captivating persona. Simply download your favorite and make your iPhone stand out with Becky G’s iconic look!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Becky G Wallpaper For iPhone: Stylish And Vibrant Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f4/4f/0a/f44f0a023e75b22f1785d677846d3ea8.jpg' alt='Becky G Wallpaper For iPhone: Stylish And Vibrant Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1238">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f4/4f/0a/f44f0a023e75b22f1785d677846d3ea8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Becky G Wallpapers (113 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/7/a/f/1595883-2160x3840-phone-4k-becky-g-wallpaper.jpg' alt='Becky G Wallpapers (113 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/7/a/f/1595883-2160x3840-phone-4k-becky-g-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Becky G 4k New Wallpaper for iphone and 4K for laptop download now ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/2f/83/80/2f83800c2ed0d1628c0f3347961c2620.jpg' alt='Becky G 4k New Wallpaper for iphone and 4K for laptop download now ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/2f/83/80/2f83800c2ed0d1628c0f3347961c2620.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Becky G">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7a/b1/3f/7ab13fa15b88f5d23a5fa64f06d83871.jpg' alt='Becky G'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7a/b1/3f/7ab13fa15b88f5d23a5fa64f06d83871.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shower Becky G, becky g, music, tik tok, tiktok, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/1013/19/HD-wallpaper-shower-becky-g-becky-g-music-tik-tok-tiktok.jpg' alt='Shower Becky G, becky g, music, tik tok, tiktok, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/1013/19/HD-wallpaper-shower-becky-g-becky-g-music-tik-tok-tiktok.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download wallpaper 840x1336 becky g, celebrity, black top ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersmug.com/download/840x1336/c2f7c4/becky-g-brunette.jpg' alt='Download wallpaper 840x1336 becky g, celebrity, black top ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="840">
+                                <meta itemprop="height" content="1336">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersMug" />
+                                </span>
+                                <a href='https://wallpapersmug.com/download/840x1336/c2f7c4/becky-g-brunette.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Becky G 2020 4K Ultra HD Mobile Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/27/31/2a/27312a65ddc2a5d7e0d8beff2fe033c5.jpg' alt='Becky G 2020 4K Ultra HD Mobile Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/27/31/2a/27312a65ddc2a5d7e0d8beff2fe033c5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Becky G Tu Photoshoot Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/becky-g-tu-photoshoot-3z8u88aiuryo0qnv.jpg' alt='Download Becky G Tu Photoshoot Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/becky-g-tu-photoshoot-3z8u88aiuryo0qnv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Becky G in Black Dress, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/58/929/HD-wallpaper-becky-g-in-black-dress.jpg' alt='Becky G in Black Dress, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/58/929/HD-wallpaper-becky-g-in-black-dress.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Becky G Wallpaper For iPhone: Stylish And Vibrant Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cf/78/41/cf78411da5651aa45f31e3639a31685a.jpg' alt='Becky G Wallpaper For iPhone: Stylish And Vibrant Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1306">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cf/78/41/cf78411da5651aa45f31e3639a31685a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

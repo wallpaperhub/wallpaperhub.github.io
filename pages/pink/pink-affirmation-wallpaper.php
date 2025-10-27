@@ -1,0 +1,129 @@
+<title>Empowering Pink Affirmation Wallpaper for Your Space</title>
+                    <meta name="description" content="Discover vibrant pink affirmation wallpaper that inspires positivity and self-love in any room. Perfect for creating a motivational atmosphere, this decor piece adds charm while uplifting your spirit. Ideal for bedrooms, offices, or any creative space needing a boost of encouragement!">
+                    <meta name="keywords" content="pink affirmation wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-affirmation-wallpaper">
+                            <span itemprop="name">pink affirmation wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Empowering Pink Affirmation Wallpaper for Your Space</h1>
+                <p>Transform your space with pink affirmation wallpaper! This vibrant decor item serves as a daily reminder of positivity and self-love. With motivational phrases in soft pink tones, it brightens any room and uplifts your spirit. Perfect for your bedroom, office, or any space needing a touch of encouragement and style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pink gradient aura wallpaper art">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bb/c5/41/bbc54155a17bce9ee28756a6ddb0d734.jpg' alt='pink gradient aura wallpaper art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bb/c5/41/bbc54155a17bce9ee28756a6ddb0d734.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I am Capable Affirmation Digital Wallpaper - Pink/Orange Retro">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/40732619/r/il/7ec73e/4588572736/il_570xN.4588572736_8e8e.jpg' alt='I am Capable Affirmation Digital Wallpaper - Pink/Orange Retro'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="321">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/40732619/r/il/7ec73e/4588572736/il_570xN.4588572736_8e8e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Pink Learn Affirmation Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-learn-affirmation-l9rl3yeqdkkpdl72.jpg' alt='Download Pink Learn Affirmation Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-learn-affirmation-l9rl3yeqdkkpdl72.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6b/5f/67/6b5f67f1eea97e95a36dba42daeb8e57.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6b/5f/67/6b5f67f1eea97e95a36dba42daeb8e57.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Affirmation With Red Tones Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/pink-gradient-affirmation-g05hwb648169wqho.webp' alt='Affirmation With Red Tones Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/pink-gradient-affirmation-g05hwb648169wqho.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Affirmation Wallpaper: I Don't Chase, What's Meant for Me Will Fit In">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c4/b9/a4/c4b9a48322eb38155e64d81f97a9c58c.jpg' alt='Affirmation Wallpaper: I Don't Chase, What's Meant for Me Will Fit In'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c4/b9/a4/c4b9a48322eb38155e64d81f97a9c58c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Positive Affirmation Phone Wallpaper - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38651899/r/il/e21df7/5651784645/il_1080xN.5651784645_kyzi.jpg' alt='Positive Affirmation Phone Wallpaper - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38651899/r/il/e21df7/5651784645/il_1080xN.5651784645_kyzi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="✨affirmations✨">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/ef/3a/47/ef3a47d987db5f4e469cfa13decfe376.jpg' alt='✨affirmations✨'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/ef/3a/47/ef3a47d987db5f4e469cfa13decfe376.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Pink Collage Daily Affirmation Motivation Background ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-collage-n5v3nhbb8zjwmbqb.jpg' alt='Download Pink Collage Daily Affirmation Motivation Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-collage-n5v3nhbb8zjwmbqb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check out 3lizakendrick's Shuffles positive affirmations pink ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/345x/84/be/3c/84be3c823aac34c153bbc77665e56748.jpg' alt='Check out 3lizakendrick's Shuffles positive affirmations pink ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="345">
+                                <meta itemprop="height" content="613">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shuffles" />
+                                </span>
+                                <a href='https://i.pinimg.com/345x/84/be/3c/84be3c823aac34c153bbc77665e56748.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

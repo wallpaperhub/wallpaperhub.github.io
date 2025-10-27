@@ -1,0 +1,129 @@
+<title>George Floyd: A Catalyst for Change</title>
+                    <meta name="description" content="Explore the impact of George Floyd's tragic death on social justice movements worldwide. Discover how his story ignited protests against racism and police brutality, driving the demand for systemic change across the globe. Join the conversation for a better future.">
+                    <meta name="keywords" content="george floyd">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/george-floyd">
+                            <span itemprop="name">george floyd</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>George Floyd: A Catalyst for Change</h1>
+                <p>George Floyd was an African American man whose death in May 2020, after a Minneapolis police officer knelt on his neck for over nine minutes, sparked global protests against police brutality and systemic racism. His tragic story has become a pivotal moment in the fight for social justice and reform, leading to widespread calls for change.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="For George Floyd, a complicated life and consequential death | AP News">
+                                <img itemprop="contentUrl url" src='https://dims.apnews.com/dims4/default/222bfb9/2147483647/strip/true/crop/3000x1688+0+156/resize/1440x810!/quality/90/?url=https%3A%2F%2Fstorage.googleapis.com%2Fafs-prod%2Fmedia%2Fdea2067b05c84b85aa54bdad6a9f440c%2F3000.jpeg' alt='For George Floyd, a complicated life and consequential death | AP News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AP News" />
+                                </span>
+                                <a href='https://dims.apnews.com/dims4/default/222bfb9/2147483647/strip/true/crop/3000x1688+0+156/resize/1440x810!/quality/90/?url=https%3A%2F%2Fstorage.googleapis.com%2Fafs-prod%2Fmedia%2Fdea2067b05c84b85aa54bdad6a9f440c%2F3000.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="After the Killing of George Floyd, Fury at America and Its Values ...">
+                                <img itemprop="contentUrl url" src='https://media.newyorker.com/photos/5ed542a47204402b936444ca/1:1/w_1706,h_1707,c_limit/Wright-GlobalProtestsGeorgeFloyd.jpg' alt='After the Killing of George Floyd, Fury at America and Its Values ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1706">
+                                <meta itemprop="height" content="1707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New Yorker" />
+                                </span>
+                                <a href='https://media.newyorker.com/photos/5ed542a47204402b936444ca/1:1/w_1706,h_1707,c_limit/Wright-GlobalProtestsGeorgeFloyd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How George Floyd Was Killed in Police Custody">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2021/05/10/autossell/flyod-site-1-white-box/flyod-site-1-white-box-superJumbo.jpg' alt='How George Floyd Was Killed in Police Custody'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2021/05/10/autossell/flyod-site-1-white-box/flyod-site-1-white-box-superJumbo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Remembering George Floyd - Ford Foundation">
+                                <img itemprop="contentUrl url" src='https://www.fordfoundation.org/wp-content/uploads/2021/05/remembering-george-floyd-hero.jpg' alt='Remembering George Floyd - Ford Foundation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="2120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ford Foundation" />
+                                </span>
+                                <a href='https://www.fordfoundation.org/wp-content/uploads/2021/05/remembering-george-floyd-hero.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bentley University Remembering George Floyd">
+                                <img itemprop="contentUrl url" src='https://marvel-b1-cdn.bc0a.com/f00000000299134/www.bentley.edu/sites/default/files/styles/media_image_xl/public/2021-05/floyd-1-1536x1025.jpg?itok=QL9D5zX6' alt='Bentley University Remembering George Floyd'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="730">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bentley University" />
+                                </span>
+                                <a href='https://marvel-b1-cdn.bc0a.com/f00000000299134/www.bentley.edu/sites/default/files/styles/media_image_xl/public/2021-05/floyd-1-1536x1025.jpg?itok=QL9D5zX6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="George Floyd | Say Their Names - Spotlight at Stanford">
+                                <img itemprop="contentUrl url" src='https://exhibits.stanford.edu/images/6733-c1607f84414447a4e886dfd8fd48a6ba/234,15,777,582/400,300/0/default.jpg' alt='George Floyd | Say Their Names - Spotlight at Stanford'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotlight at Stanford - Stanford University" />
+                                </span>
+                                <a href='https://exhibits.stanford.edu/images/6733-c1607f84414447a4e886dfd8fd48a6ba/234,15,777,582/400,300/0/default.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Remembering George Floyd: Devoted father, ‘gentle giant’">
+                                <img itemprop="contentUrl url" src='https://www.aljazeera.com/wp-content/uploads/2020/05/126fc46c83ae4d71b837f22c720d0041_18.jpeg?resize=1200%2C675' alt='Remembering George Floyd: Devoted father, ‘gentle giant’'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Al Jazeera" />
+                                </span>
+                                <a href='https://www.aljazeera.com/wp-content/uploads/2020/05/126fc46c83ae4d71b837f22c720d0041_18.jpeg?resize=1200%2C675' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Demand Justice for George Floyd – “We Can't Breathe Until Justice ...">
+                                <img itemprop="contentUrl url" src='https://www.seiu721.org/wp-content/uploads/2020/05/floyd-chauvin-scaled.jpg' alt='Demand Justice for George Floyd – “We Can't Breathe Until Justice ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SEIU Local 721" />
+                                </span>
+                                <a href='https://www.seiu721.org/wp-content/uploads/2020/05/floyd-chauvin-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="George Floyd's mother was not there, but he used her as a sacred ...">
+                                <img itemprop="contentUrl url" src='https://i.natgeofe.com/n/ab0e4a3c-7396-4110-a7d3-58041ca51002/01-george-floyd-protest_3x4.jpg' alt='George Floyd's mother was not there, but he used her as a sacred ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2305">
+                                <meta itemprop="height" content="3072">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic" />
+                                </span>
+                                <a href='https://i.natgeofe.com/n/ab0e4a3c-7396-4110-a7d3-58041ca51002/01-george-floyd-protest_3x4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="George Floyd and A Community of Care">
+                                <img itemprop="contentUrl url" src='https://placesjournal.org/wp-content/uploads/2020/11/Patterson-04-slideshow-1.jpg' alt='George Floyd and A Community of Care'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Places Journal" />
+                                </span>
+                                <a href='https://placesjournal.org/wp-content/uploads/2020/11/Patterson-04-slideshow-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

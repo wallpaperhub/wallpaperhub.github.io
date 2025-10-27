@@ -1,0 +1,129 @@
+<title>Vibrant Pink Stripes: A Trendy Touch for Fashion and Decor</title>
+                    <meta name="description" content="Explore the charm of pink stripes! Perfect for fashion and home decor, these lively patterns add a playful touch to your style. Discover how to incorporate pink stripes into your wardrobe and living spaces for a fresh, vibrant look that captures attention and expresses your unique taste.">
+                    <meta name="keywords" content="pink stripes">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pink-stripes">
+                            <span itemprop="name">pink stripes</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Pink Stripes: A Trendy Touch for Fashion and Decor</h1>
+                <p>Pink stripes bring a vibrant and playful touch to any space or outfit. From fashion to home decor, these bold lines can create a striking visual impact. Ideal for accent walls, clothing, or accessories, pink stripes offer a cheerful vibe that’s perfect for spring and summer styles, making them a popular choice among trendsetters.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stripe Pink Party Fabric by the Yard | OnlineFabricStore">
+                                <img itemprop="contentUrl url" src='https://cdn.onlinefabricstore.com/products/OILSTRP_1.jpg?aspect_ratio=1:1.183&width=400' alt='Stripe Pink Party Fabric by the Yard | OnlineFabricStore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="473">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Online Fabric Store" />
+                                </span>
+                                <a href='https://cdn.onlinefabricstore.com/products/OILSTRP_1.jpg?aspect_ratio=1:1.183&width=400' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Pink and White Diagonal Stripe Prepasted Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/light-pink-and-white-diagonal-stripe-pr-shqh.jpg' alt='Light Pink and White Diagonal Stripe Prepasted Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/light-pink-and-white-diagonal-stripe-pr-shqh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classic Stripe Wallpaper in Pastel Pink">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/1-ClassicStripePastelPink_ILW50308_Thumbnail_WEB_7b2f5dad-df30-4ad0-9c3f-acb2792d2823.webp?crop=center&height=1024&v=1705668684&width=1024' alt='Classic Stripe Wallpaper in Pastel Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/1-ClassicStripePastelPink_ILW50308_Thumbnail_WEB_7b2f5dad-df30-4ad0-9c3f-acb2792d2823.webp?crop=center&height=1024&v=1705668684&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Candy Stripe' Wallpaper by Wallshoppe - Pink">
+                                <img itemprop="contentUrl url" src='http://www.wallshoppe.com/cdn/shop/products/Candy_Stripe_pink_a99b92bb-f009-40e3-9949-7f755a67dff3.jpg?v=1615484517' alt=''Candy Stripe' Wallpaper by Wallshoppe - Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='http://www.wallshoppe.com/cdn/shop/products/Candy_Stripe_pink_a99b92bb-f009-40e3-9949-7f755a67dff3.jpg?v=1615484517' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Stripes Vector Art & Graphics | freevector.com">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/v2/jpg/09/55/64/21/1000_F_955642173_RBfM84CRgPIcipEM5ucpmRCnXrV3hph7.jpg' alt='Pink Stripes Vector Art & Graphics | freevector.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Vector Art & Graphics" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/v2/jpg/09/55/64/21/1000_F_955642173_RBfM84CRgPIcipEM5ucpmRCnXrV3hph7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Stripes Horizontal Wallpaper | Happywall">
+                                <img itemprop="contentUrl url" src='https://happywall-statix.imgix.net/rooms/chair-s.jpeg?w=2560&h=1280&fit=min&crop=center&auto=format&q=50&blend64=aHR0cHM6Ly9oYXBweXdhbGwtaW1nLWdhbGxlcnkuaW1naXgubmV0LzQ1NTU0LzQ1NTU0LTI4Mi00MDAweDIwMDA5OTA1MGExYTgyMDg5ZmJmNzA0NTBjYTM5YmM4MzkxOS5qcGc_dz0yNTYwJnE9OTkmYmxlbmQtYWxwaGE9MSZibGVuZC1jb2xvcj0wMDAwMDAmYnJpPTEmc2F0PTEw&blend-mode=multiply&mark64=aHR0cHM6Ly9oYXBweXdhbGwtc3RhdGl4LmltZ2l4Lm5ldC9yb29tcy9jaGFpci1zLnBuZz93PTI1NjAmaD0xMjgwJmZpdD1taW4mY3JvcD1jZW50ZXImYXV0bz1mb3JtYXQmcT01MA%3D%3D&mark-x=0&mark-y=0' alt='Pink Stripes Horizontal Wallpaper | Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-statix.imgix.net/rooms/chair-s.jpeg?w=2560&h=1280&fit=min&crop=center&auto=format&q=50&blend64=aHR0cHM6Ly9oYXBweXdhbGwtaW1nLWdhbGxlcnkuaW1naXgubmV0LzQ1NTU0LzQ1NTU0LTI4Mi00MDAweDIwMDA5OTA1MGExYTgyMDg5ZmJmNzA0NTBjYTM5YmM4MzkxOS5qcGc_dz0yNTYwJnE9OTkmYmxlbmQtYWxwaGE9MSZibGVuZC1jb2xvcj0wMDAwMDAmYnJpPTEmc2F0PTEw&blend-mode=multiply&mark64=aHR0cHM6Ly9oYXBweXdhbGwtc3RhdGl4LmltZ2l4Lm5ldC9yb29tcy9jaGFpci1zLnBuZz93PTI1NjAmaD0xMjgwJmZpdD1taW4mY3JvcD1jZW50ZXImYXV0bz1mb3JtYXQmcT01MA%3D%3D&mark-x=0&mark-y=0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="168,500+ Pink Stripes Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/924426568/vector/pattern-stripe-seamless-pink-diagonal-striped-candy-background-vector.jpg?s=612x612&w=0&k=20&c=RCxkpLGGjU4n7s7xH5ZA3gcWwaOQTtfTP7KaU4lGhMc=' alt='168,500+ Pink Stripes Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/924426568/vector/pattern-stripe-seamless-pink-diagonal-striped-candy-background-vector.jpg?s=612x612&w=0&k=20&c=RCxkpLGGjU4n7s7xH5ZA3gcWwaOQTtfTP7KaU4lGhMc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Stripes Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/pink-pastel-stripes-plain-pattern-background_53876-117148.jpg' alt='Pink Stripes Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/pink-pastel-stripes-plain-pattern-background_53876-117148.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Stripes' Wallpaper by Clare V. - Shell">
+                                <img itemprop="contentUrl url" src='http://www.wallshoppe.com/cdn/shop/products/Stripe_shell-pink_Product_1ba9bf7c-91b2-4b45-bb9f-ec6afc977314.jpg?v=1615485785' alt=''Stripes' Wallpaper by Clare V. - Shell'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='http://www.wallshoppe.com/cdn/shop/products/Stripe_shell-pink_Product_1ba9bf7c-91b2-4b45-bb9f-ec6afc977314.jpg?v=1615485785' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and Light Hot Pink Stripes | Vertical Medium Stripe |" Art ...">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.2628052619.4437/farp,small,wall_texture,product,750x1000.jpg' alt='Black and Light Hot Pink Stripes | Vertical Medium Stripe |" Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.2628052619.4437/farp,small,wall_texture,product,750x1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

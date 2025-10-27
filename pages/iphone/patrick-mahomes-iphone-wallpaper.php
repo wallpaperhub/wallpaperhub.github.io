@@ -1,0 +1,129 @@
+<title>Stunning Patrick Mahomes iPhone Wallpapers for Football Fans</title>
+                    <meta name="description" content="Discover a collection of vibrant Patrick Mahomes iPhone wallpapers that will elevate your device's look! Perfect for fans of the Kansas City Chiefs, these stunning backgrounds showcase Mahomes in action. Personalize your phone with high-quality images today and display your passion for football!">
+                    <meta name="keywords" content="patrick mahomes iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/patrick-mahomes-iphone-wallpaper">
+                            <span itemprop="name">patrick mahomes iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Patrick Mahomes iPhone Wallpapers for Football Fans</h1>
+                <p>Looking for the perfect Patrick Mahomes iPhone wallpaper? Customize your device with stunning images of the Kansas City Chiefs quarterback in action! From epic game moments to his signature style, find a variety of vibrant and high-quality wallpapers that showcase your love for Mahomes and football. Upgrade your lock screen today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mahomes Wallpaper : r/KansasCityChiefs">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/308mfimwn2wa1.jpg' alt='Mahomes Wallpaper : r/KansasCityChiefs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/308mfimwn2wa1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patrick Mahomes | NFL Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/c5/12/cd/c512cdbff821e817cb7189d9b86e847a.jpg' alt='Patrick Mahomes | NFL Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1222">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/c5/12/cd/c512cdbff821e817cb7189d9b86e847a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patrick Mahomes Digital HD iPhone Wallpaper | Kansas City Chiefs | Super  Bowl LIV Champion">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/23240716/r/il/68170b/2458530893/il_fullxfull.2458530893_e322.jpg' alt='Patrick Mahomes Digital HD iPhone Wallpaper | Kansas City Chiefs | Super  Bowl LIV Champion'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/23240716/r/il/68170b/2458530893/il_fullxfull.2458530893_e322.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 Patrick Mahomes (Kansas City Chiefs) iPhone X/11/Andro… | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/65535/50883508848_53f517be18_b.jpg' alt='15 Patrick Mahomes (Kansas City Chiefs) iPhone X/11/Andro… | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="559">
+                                <meta itemprop="height" content="1023">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/65535/50883508848_53f517be18_b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pat Mahomes Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pat-mahomes-phone-bs4xjb9u2qaf2d76.jpg' alt='100+] Pat Mahomes Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pat-mahomes-phone-bs4xjb9u2qaf2d76.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a9/9b/df/a99bdfee8da158e7cb558422f4b6a810.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a9/9b/df/a99bdfee8da158e7cb558422f4b6a810.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patrick Mahomes, football, new, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/41/847/HD-wallpaper-patrick-mahomes-cheifs-needs-to-be-patriots.jpg' alt='Patrick Mahomes, football, new, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/41/847/HD-wallpaper-patrick-mahomes-cheifs-needs-to-be-patriots.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patrick Mahomes, 2018, 2020, kansas city, mahomes, mvp, patrick ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/977/520/HD-wallpaper-patrick-mahomes-2018-2020-kansas-city-mahomes-mvp-patrick-sb54-super-bowl-54-super-bowl-champ.jpg' alt='Patrick Mahomes, 2018, 2020, kansas city, mahomes, mvp, patrick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/977/520/HD-wallpaper-patrick-mahomes-2018-2020-kansas-city-mahomes-mvp-patrick-sb54-super-bowl-54-super-bowl-champ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download “Pat Mahomes Dials Up His Phone” Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pat-mahomes-phone-ucn6h3b8b7jj5j93.jpg' alt='Download “Pat Mahomes Dials Up His Phone” Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pat-mahomes-phone-ucn6h3b8b7jj5j93.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chiefs Patrick Mahomes Wallpaper">
+                                <img itemprop="contentUrl url" src='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/chiefs-5_63842905100578.6.jpg' alt='Chiefs Patrick Mahomes Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Hackster" />
+                                </span>
+                                <a href='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/chiefs-5_63842905100578.6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Captivating Purple and Blue Aesthetic Wallpaper</title>
+                    <meta name="description" content="Explore our stunning collection of purple and blue aesthetic wallpaper, designed to elevate your space. Perfect for bedrooms, living rooms, and creative spaces, these wallpapers add a touch of tranquility and style with their rich colors. Transform your walls into a beautiful backdrop today!">
+                    <meta name="keywords" content="purple and blue aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/purple-and-blue-aesthetic-wallpaper">
+                            <span itemprop="name">purple and blue aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Captivating Purple and Blue Aesthetic Wallpaper</h1>
+                <p>Discover the enchanting world of purple and blue aesthetic wallpaper that transforms your space into a serene haven. With their mesmerizing hues, these wallpapers blend elegance and creativity, creating a calming atmosphere. Perfect for any room, they add depth and charm, making your walls work of art. Elevate your decor today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Purple And Blue Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-and-blue-aesthetic-3440-x-1440-l4vhcbzhskaxehln.jpg' alt='100+] Purple And Blue Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="804">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-and-blue-aesthetic-3440-x-1440-l4vhcbzhskaxehln.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="aesthetic purple and blue wallpaper #aesthetic #purple #blue ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/91/59/e1/9159e1ae137d51d150cfc7815e4854b3.jpg' alt='aesthetic purple and blue wallpaper #aesthetic #purple #blue ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/91/59/e1/9159e1ae137d51d150cfc7815e4854b3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Purple And Blue Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-and-blue-aesthetic-850-x-1512-3yuu6nwdj9clz6pe.jpg' alt='100+] Purple And Blue Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-and-blue-aesthetic-850-x-1512-3yuu6nwdj9clz6pe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Purple And Blue Butterflies Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/cute-purple-sky-v4a6hut14wdrzzz6-3.webp' alt='Cute Purple And Blue Butterflies Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="649">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/cute-purple-sky-v4a6hut14wdrzzz6-3.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Liquid Aesthetic Purple Blue Background Wallpaper Image For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20220919/original/pngtree-liquid-aesthetic-purple-blue-picture-image_1918420.jpg' alt='Liquid Aesthetic Purple Blue Background Wallpaper Image For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1703">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20220919/original/pngtree-liquid-aesthetic-purple-blue-picture-image_1918420.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Laptop Wallpaper Purple and Blue aesthetic <33">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f9/6c/e5/f96ce5b85dffdf0e5b2e86c633900670.jpg' alt='Laptop Wallpaper Purple and Blue aesthetic <33'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f9/6c/e5/f96ce5b85dffdf0e5b2e86c633900670.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable wallpaper purple templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFt0-MWpSU/2/0/900w/canva-soft-watercolour-no-copy-phone-wallpaper-in-purple-and-blue-gradient-style-O5sd-yFWWG4.jpg' alt='Free and customizable wallpaper purple templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFt0-MWpSU/2/0/900w/canva-soft-watercolour-no-copy-phone-wallpaper-in-purple-and-blue-gradient-style-O5sd-yFWWG4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Blue Aesthetic Collage With Purple Shades Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-blue-aesthetic-collage-with-purple-shades-fc5m4j2iuulgu7w8.jpg' alt='Cute Blue Aesthetic Collage With Purple Shades Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1914">
+                                <meta itemprop="height" content="3872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-blue-aesthetic-collage-with-purple-shades-fc5m4j2iuulgu7w8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic purple and blue mood board #aestheticedits #blue #purple">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6b/06/8d/6b068dac494f1e8f2243fdda67349fee.jpg' alt='Aesthetic purple and blue mood board #aestheticedits #blue #purple'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6b/06/8d/6b068dac494f1e8f2243fdda67349fee.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Purple And Blue Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-and-blue-aesthetic-p6jnpq8sdzel2r7t.jpg' alt='100+] Purple And Blue Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="934">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-and-blue-aesthetic-p6jnpq8sdzel2r7t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

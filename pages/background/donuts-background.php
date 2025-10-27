@@ -1,0 +1,129 @@
+<title>Donuts: A Sweet History and Delicious Varieties</title>
+                    <meta name="description" content="Explore the delightful world of donuts! Discover their fascinating history, popular flavors, and the reasons they are loved around the globe. Perfect for sweet tooth enthusiasts and food lovers alike, join us as we dive into this iconic treat's sugary journey!">
+                    <meta name="keywords" content="donuts background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/donuts-background">
+                            <span itemprop="name">donuts background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Donuts: A Sweet History and Delicious Varieties</h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Doughnut Background Images – Browse 518,405 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/01/61/28/89/360_F_161288952_atZEnfpzccLV6NgYhGRpk2dE6fUEcNA2.jpg' alt='Doughnut Background Images – Browse 518,405 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/01/61/28/89/360_F_161288952_atZEnfpzccLV6NgYhGRpk2dE6fUEcNA2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Doughnut Background Images – Browse 518,405 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/01/37/68/27/360_F_137682718_5skt9Z9aMec6BrvBKbFPvyNYXSbaLahG.jpg' alt='Doughnut Background Images – Browse 518,405 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/01/37/68/27/360_F_137682718_5skt9Z9aMec6BrvBKbFPvyNYXSbaLahG.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Doughnut Seamless Pattern - Clipart - Instant Download ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/29590405/r/il/1ec131/3103058036/il_fullxfull.3103058036_ebxt.jpg' alt='Doughnut Seamless Pattern - Clipart - Instant Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/29590405/r/il/1ec131/3103058036/il_fullxfull.3103058036_ebxt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Doughnut Background Images – Browse 518,405 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/15/65/28/360_F_315652826_OgVfkhw3WTuEqYFa8xPFIthBEh7REipS.jpg' alt='Doughnut Background Images – Browse 518,405 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="580">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/15/65/28/360_F_315652826_OgVfkhw3WTuEqYFa8xPFIthBEh7REipS.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Donut.background Images – Browse 524,702 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/01/76/75/93/360_F_176759374_kcm45VGAkoqILGSAwE8mhTbn3IuaoB8P.jpg' alt='Donut.background Images – Browse 524,702 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/01/76/75/93/360_F_176759374_kcm45VGAkoqILGSAwE8mhTbn3IuaoB8P.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Phone Colored Donuts Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/pastel-phone-colored-donuts-qntl80cqjm8pdpxs.jpg' alt='Pastel Phone Colored Donuts Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/pastel-phone-colored-donuts-qntl80cqjm8pdpxs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Three Colorful Donuts Stock Illustrations – 334 Three Colorful ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/three-colorful-donuts-sprinkles-floating-against-blue-background-343150653.jpg' alt='Three Colorful Donuts Stock Illustrations – 334 Three Colorful ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/three-colorful-donuts-sprinkles-floating-against-blue-background-343150653.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cute sweet donuts seamless pattern 691987 Vector Art at Vecteezy">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/000/691/987/non_2x/cute-sweet-donuts-seamless-pattern-vector.jpg' alt='cute sweet donuts seamless pattern 691987 Vector Art at Vecteezy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/000/691/987/non_2x/cute-sweet-donuts-seamless-pattern-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Doughnuts Background Images – Browse 515,762 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/06/68/79/49/360_F_668794952_wrFwUtTCeNm6KNht8UVGX17770oVdo10.jpg' alt='Doughnuts Background Images – Browse 515,762 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/06/68/79/49/360_F_668794952_wrFwUtTCeNm6KNht8UVGX17770oVdo10.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Homer Simpson Donuts">
+                                <img itemprop="contentUrl url" src='https://recipesbyclare.com/assets/images/1737386432736-a60cnxu8.webp' alt='Homer Simpson Donuts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Recipes by Clare" />
+                                </span>
+                                <a href='https://recipesbyclare.com/assets/images/1737386432736-a60cnxu8.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

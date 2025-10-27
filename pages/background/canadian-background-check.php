@@ -1,0 +1,129 @@
+<title>Essential Guide to Canadian Background Checks</title>
+                    <meta name="description" content="Discover everything you need to know about Canadian background checks. Learn how they work, the types of checks available, and the steps to obtain one for employment or other purposes, all while ensuring compliance with privacy laws. Perfect for job seekers and employers alike!">
+                    <meta name="keywords" content="canadian background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/canadian-background-check">
+                            <span itemprop="name">canadian background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Guide to Canadian Background Checks</h1>
+                <p>In Canada, background checks are crucial for employment, volunteering, and housing applications. They may include criminal records, credit history, and employment verification. Individuals seeking these checks typically request them through police services or third-party agencies, ensuring accuracy and compliance with privacy regulations.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Do a Free Background Check on Someone in Canada - National ...">
+                                <img itemprop="contentUrl url" src='https://nationalpardon.org/wp-content/uploads/2019/04/free-background-check-canada-1280x720.png' alt='How to Do a Free Background Check on Someone in Canada - National ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Pardon Centre" />
+                                </span>
+                                <a href='https://nationalpardon.org/wp-content/uploads/2019/04/free-background-check-canada-1280x720.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to get your name-based Canadian Police Check">
+                                <img itemprop="contentUrl url" src='https://thefingerprintroom.com/wp-content/uploads/2021/05/canaidanpolicecertificate-e1620841780179.png' alt='How to get your name-based Canadian Police Check'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="483">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Fingerprint Room Inc." />
+                                </span>
+                                <a href='https://thefingerprintroom.com/wp-content/uploads/2021/05/canaidanpolicecertificate-e1620841780179.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to do Background Check on Someone in Canada">
+                                <img itemprop="contentUrl url" src='https://assets.instantrecordcheck.ca/wp-content/uploads/2021/01/11232704/instantrecordcheck-how-to-do-background-check-canada.jpg' alt='How to do Background Check on Someone in Canada'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="442">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instant Record Check" />
+                                </span>
+                                <a href='https://assets.instantrecordcheck.ca/wp-content/uploads/2021/01/11232704/instantrecordcheck-how-to-do-background-check-canada.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Online Criminal Record Check | Trak Group">
+                                <img itemprop="contentUrl url" src='https://groupetrak.com/app/uploads/2021/04/ex-criminal-record3x.png' alt='Online Criminal Record Check | Trak Group'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1575">
+                                <meta itemprop="height" content="2163">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Groupe Trak" />
+                                </span>
+                                <a href='https://groupetrak.com/app/uploads/2021/04/ex-criminal-record3x.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Canadian Criminal Background (RCMP) check search _ Korvia Guide">
+                                <img itemprop="contentUrl url" src='https://support.korvia.com/galleryDocuments/edbsn407d13f1a4ddc0ef377e15633da9762ef3d85572c09637d7cd2f8a83f1b7b9375eab2980f9e737e44a07ab73ad978329?inline=true' alt='Canadian Criminal Background (RCMP) check search _ Korvia Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="876">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Teach English Abroad - Korvia Consulting" />
+                                </span>
+                                <a href='https://support.korvia.com/galleryDocuments/edbsn407d13f1a4ddc0ef377e15633da9762ef3d85572c09637d7cd2f8a83f1b7b9375eab2980f9e737e44a07ab73ad978329?inline=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Canadian background checks authentications">
+                                <img itemprop="contentUrl url" src='https://www.hiverelo.com/wp-content/uploads/2023/04/RCMP-check.jpg' alt='Canadian background checks authentications'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="310">
+                                <meta itemprop="height" content="402">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hive Digital" />
+                                </span>
+                                <a href='https://www.hiverelo.com/wp-content/uploads/2023/04/RCMP-check.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Changes to RCMP Certified Criminal Record Check Certificates ...">
+                                <img itemprop="contentUrl url" src='https://thefingerprintroom.com/wp-content/uploads/2021/03/before_RCMP-e1614623954346.jpg' alt='Changes to RCMP Certified Criminal Record Check Certificates ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="729">
+                                <meta itemprop="height" content="958">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Fingerprint Room Inc." />
+                                </span>
+                                <a href='https://thefingerprintroom.com/wp-content/uploads/2021/03/before_RCMP-e1614623954346.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="OnTab Verify – ONTAB Inc.">
+                                <img itemprop="contentUrl url" src='https://ontab.com/wp-content/uploads/2022/09/SAMPLE-REPORT-2.png' alt='OnTab Verify – ONTAB Inc.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2240">
+                                <meta itemprop="height" content="1260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OnTab" />
+                                </span>
+                                <a href='https://ontab.com/wp-content/uploads/2022/09/SAMPLE-REPORT-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Canadian Criminal Background (RCMP) check search _ Korvia Guide">
+                                <img itemprop="contentUrl url" src='https://support.korvia.com/galleryDocuments/edbsn05ceed36b68a61ff1fe0e32d95b50e9bc5dd6b70a0e0fdb26e493d4327c2028aed494e2751015b59c5496c6a6e520438?inline=true' alt='Canadian Criminal Background (RCMP) check search _ Korvia Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="647">
+                                <meta itemprop="height" content="874">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Teach English Abroad - Korvia Consulting" />
+                                </span>
+                                <a href='https://support.korvia.com/galleryDocuments/edbsn05ceed36b68a61ff1fe0e32d95b50e9bc5dd6b70a0e0fdb26e493d4327c2028aed494e2751015b59c5496c6a6e520438?inline=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fingerprinting Services-Canadian RCMP Accredited Company">
+                                <img itemprop="contentUrl url" src='https://thefingerprintroom.com/wp-content/uploads/2021/12/CPIC-Sample-2021-1.jpg' alt='Fingerprinting Services-Canadian RCMP Accredited Company'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1189">
+                                <meta itemprop="height" content="1549">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Fingerprint Room Inc." />
+                                </span>
+                                <a href='https://thefingerprintroom.com/wp-content/uploads/2021/12/CPIC-Sample-2021-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

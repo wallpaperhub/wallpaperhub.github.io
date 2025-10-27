@@ -1,0 +1,129 @@
+<title>Scott Pilgrim Takes Off: Epic Phone Wallpaper</title>
+                    <meta name="description" content="Discover the ultimate Scott Pilgrim phone wallpaper collection! Featuring eye-catching designs inspired by the iconic comic and movie, these wallpapers will elevate your device while showcasing your love for the series. Perfect for fans wanting to express their style and personality! Download now!">
+                    <meta name="keywords" content="scott pilgrim takes off phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/scott-pilgrim-takes-off-phone-wallpaper">
+                            <span itemprop="name">scott pilgrim takes off phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Scott Pilgrim Takes Off: Epic Phone Wallpaper</h1>
+                <p>Transform your phone with stunning Scott Pilgrim wallpaper! Featuring vibrant colors, comic-style artwork, and beloved characters, these wallpapers will bring your device to life. Perfect for fans of the graphic novel and movie, this collection captures the unique spirit of Scott and his epic battles. Personalize your phone today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Am I the only one obsessed with Scott Pilgrim wallpapers? : r ...">
+                                <img itemprop="contentUrl url" src='https://image-1.uhdpaper.com/wallpaper/scott-pilgrim-takes-off-ramona-flowers-scott-pilgrim-phone-wallpaper-4k-uhdpaper.com-53@1@n.jpg' alt='Am I the only one obsessed with Scott Pilgrim wallpapers? : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://image-1.uhdpaper.com/wallpaper/scott-pilgrim-takes-off-ramona-flowers-scott-pilgrim-phone-wallpaper-4k-uhdpaper.com-53@1@n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Am I the only one obsessed with Scott Pilgrim wallpapers? : r ...">
+                                <img itemprop="contentUrl url" src='https://image-1.uhdpaper.com/wallpaper/scott-pilgrim-takes-off-netflix-anime-series-phone-wallpaper-4k-uhdpaper.com-70@1@n.jpg' alt='Am I the only one obsessed with Scott Pilgrim wallpapers? : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://image-1.uhdpaper.com/wallpaper/scott-pilgrim-takes-off-netflix-anime-series-phone-wallpaper-4k-uhdpaper.com-70@1@n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2c/7a/44/2c7a44ae826f0798d43dde7066eb2804.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="618">
+                                <meta itemprop="height" content="1185">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2c/7a/44/2c7a44ae826f0798d43dde7066eb2804.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scott Pilgrim Takes Off Characters 4K Wallpaper iPhone HD Phone #511n">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/scott-pilgrim-takes-off-characters-51@1@n-phone-4k.jpg' alt='Scott Pilgrim Takes Off Characters 4K Wallpaper iPhone HD Phone #511n'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/scott-pilgrim-takes-off-characters-51@1@n-phone-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scott Pilgrim Takes Off Wallpaper 4K, Season 1, 2023 Series">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/scott-pilgrim-takes-640x1136-13450.jpg' alt='Scott Pilgrim Takes Off Wallpaper 4K, Season 1, 2023 Series'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/scott-pilgrim-takes-640x1136-13450.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scott Pilgrim Takes Off Wallpapers - Modern Cartoon Wallpapers HD">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2023/12/scott-pilgrim-takes-off-wallpaper.jpg' alt='Scott Pilgrim Takes Off Wallpapers - Modern Cartoon Wallpapers HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1463">
+                                <meta itemprop="height" content="3171">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2023/12/scott-pilgrim-takes-off-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom wallpaper : r/ScottPilgrim">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/hx8iuehf4f7c1.jpeg' alt='Custom wallpaper : r/ScottPilgrim'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4320">
+                                <meta itemprop="height" content="9600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/hx8iuehf4f7c1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scott Pilgrim Takes Off Ramona Scott Pilgrim 4K Wallpaper iPhone ...">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/scott-pilgrim-takes-off-ramona-and-scott-pilgrim-71@1@n-phone-4k.jpg' alt='Scott Pilgrim Takes Off Ramona Scott Pilgrim 4K Wallpaper iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/scott-pilgrim-takes-off-ramona-and-scott-pilgrim-71@1@n-phone-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Scott Pilgrim Takes Off Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/scott-pilgrim-takes-off-msjbz1qey9e29pbe.jpg' alt='100+] Scott Pilgrim Takes Off Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/scott-pilgrim-takes-off-msjbz1qey9e29pbe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I found this art off Google and thought it would be a cool ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/i-found-this-art-off-google-and-thought-it-would-be-a-cool-v0-kt0cigupgird1.jpg?width=1080&crop=smart&auto=webp&s=d8295cb700dca508cace8af1de37c1c72c3e47a1' alt='I found this art off Google and thought it would be a cool ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1615">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/i-found-this-art-off-google-and-thought-it-would-be-a-cool-v0-kt0cigupgird1.jpg?width=1080&crop=smart&auto=webp&s=d8295cb700dca508cace8af1de37c1c72c3e47a1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

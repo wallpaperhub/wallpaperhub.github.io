@@ -1,0 +1,129 @@
+<title>Tour de France: The Ultimate Cycling Challenge</title>
+                    <meta name="description" content="Discover the excitement of the Tour de France, the most prestigious cycling race in the world. Join us as top cyclists battle for victory across breathtaking landscapes, tackling diverse terrains. Get ready for an unforgettable journey filled with speed, strategy, and passion!">
+                    <meta name="keywords" content="tour de france">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/tour-de-france">
+                            <span itemprop="name">tour de france</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Tour de France: The Ultimate Cycling Challenge</h1>
+                <p>The Tour de France is the pinnacle of cycling, drawing elite athletes from around the globe. This grueling race spans three weeks, featuring diverse terrains from flat sprints to challenging mountain climbs. Each year, millions tune in to witness epic battles for the coveted yellow jersey. Experience the thrill and rich history of this iconic event!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Our Favorite Stops Along the Tour de France | My French Country ...">
+                                <img itemprop="contentUrl url" src='https://myfrenchcountryhomemagazine.com/wp-content/uploads/2022/06/20160724TDF0012.jpeg' alt='Our Favorite Stops Along the Tour de France | My French Country ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="798">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="My French Country Home Magazine" />
+                                </span>
+                                <a href='https://myfrenchcountryhomemagazine.com/wp-content/uploads/2022/06/20160724TDF0012.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Beginner's Guide to the 2021 Tour de France">
+                                <img itemprop="contentUrl url" src='https://www.yellowjersey.co.uk/wp-content/uploads/2021/06/tour-de-france-244348_1920.jpg' alt='A Beginner's Guide to the 2021 Tour de France'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1271">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yellow Jersey" />
+                                </span>
+                                <a href='https://www.yellowjersey.co.uk/wp-content/uploads/2021/06/tour-de-france-244348_1920.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why the Tour de France is the World's Most Beautiful Race - Paris ...">
+                                <img itemprop="contentUrl url" src='https://www.parisperfect.com/blog/wp-content/uploads/2021/07/tour-de-france-arc-de-triomphe-Pauline-Ballet.jpg' alt='Why the Tour de France is the World's Most Beautiful Race - Paris ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1680">
+                                <meta itemprop="height" content="1058">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Paris Perfect" />
+                                </span>
+                                <a href='https://www.parisperfect.com/blog/wp-content/uploads/2021/07/tour-de-france-arc-de-triomphe-Pauline-Ballet.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tour de France Power Rankings - Here are The Top Riders of 2024">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/team-emirates-teams-slovenian-rider-tadej-pogacar-wearing-news-photo-1720450998.jpg?crop=0.668xw:1.00xh;0.328xw,0&resize=640:*' alt='Tour de France Power Rankings - Here are The Top Riders of 2024'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="639">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bicycling magazine" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/team-emirates-teams-slovenian-rider-tadej-pogacar-wearing-news-photo-1720450998.jpg?crop=0.668xw:1.00xh;0.328xw,0&resize=640:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Tour De France Is Mystifying; So Is The Business Of Cycling">
+                                <img itemprop="contentUrl url" src='https://imageio.forbes.com/specials-images/imageserve/66793ffd9cdcbdf431254263/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds' alt='The Tour De France Is Mystifying; So Is The Business Of Cycling'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1351">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forbes" />
+                                </span>
+                                <a href='https://imageio.forbes.com/specials-images/imageserve/66793ffd9cdcbdf431254263/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tour de France Explained: How You Win & How It Really Works | 2023 ...">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/2318/5263/files/20230723TDF0050-A.S.O._Pauline_Ballet_2048x2048.jpg?v=1690585136' alt='Tour de France Explained: How You Win & How It Really Works | 2023 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Pro's Closet" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/2318/5263/files/20230723TDF0050-A.S.O._Pauline_Ballet_2048x2048.jpg?v=1690585136' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why The Tour De France Is A Branded Masterclass - Solopress UK">
+                                <img itemprop="contentUrl url" src='https://www.solopress.com/blog/wp-content/uploads/2022/06/TDF-logo-1.jpg' alt='Why The Tour De France Is A Branded Masterclass - Solopress UK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="899">
+                                <meta itemprop="height" content="674">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Solopress" />
+                                </span>
+                                <a href='https://www.solopress.com/blog/wp-content/uploads/2022/06/TDF-logo-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beginners Guide to the Tour de France - Quad Lock® USA - Official ...">
+                                <img itemprop="contentUrl url" src='https://www.quadlockcase.com/cdn/shop/articles/ec065d762cb8f20c5427b85e122ad829a477e0c6-1600x600.jpg?v=1721361622' alt='Beginners Guide to the Tour de France - Quad Lock® USA - Official ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Quad Lock" />
+                                </span>
+                                <a href='https://www.quadlockcase.com/cdn/shop/articles/ec065d762cb8f20c5427b85e122ad829a477e0c6-1600x600.jpg?v=1721361622' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tour de France 2025 route: Summit finishes, time trials and a ...">
+                                <img itemprop="contentUrl url" src='http://www.rouleur.cc/cdn/shop/articles/ZW-104557.jpg?v=1730208635' alt='Tour de France 2025 route: Summit finishes, time trials and a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rouleur Magazine" />
+                                </span>
+                                <a href='http://www.rouleur.cc/cdn/shop/articles/ZW-104557.jpg?v=1730208635' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Le Tour de France">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=667062455464398' alt='Profile for Le Tour de France'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="993">
+                                <meta itemprop="height" content="993">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=667062455464398' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

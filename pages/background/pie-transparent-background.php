@@ -1,0 +1,129 @@
+<title>Stunning Pie Images with Transparent Backgrounds</title>
+                    <meta name="description" content="Explore our collection of pie images featuring transparent backgrounds. Ideal for web design, social media, or creative projects, these visuals ensure your content stands out. Download high-quality graphics that effortlessly integrate into any setting for a polished look.">
+                    <meta name="keywords" content="pie transparent background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pie-transparent-background">
+                            <span itemprop="name">pie transparent background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Pie Images with Transparent Backgrounds</h1>
+                <p>Discover the beauty of pie images with a transparent background! Perfect for designers, these graphics allow for versatile usage across websites, social media, and presentations. Enhance your projects with eye-catching visuals that blend seamlessly into any backdrop, elevating your design game with professional flair.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pie PNG transparent image download, size: 929x955px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/pie_PNG10.png' alt='Pie PNG transparent image download, size: 929x955px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="929">
+                                <meta itemprop="height" content="955">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/pie_PNG10.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pie isolated on transparent background | AI-generated PSD">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-psd/pie-isolated-transparent-background_191095-32540.jpg' alt='Pie isolated on transparent background | AI-generated PSD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-psd/pie-isolated-transparent-background_191095-32540.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE Apple Pie Clipart | FREE Download | Pearly Arts">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/pearlyarts.com/wp-content/uploads/2023/11/FREE-Apple-Pie-Clipart-WM.png?fit=1000%2C1001&ssl=1' alt='FREE Apple Pie Clipart | FREE Download | Pearly Arts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pearly Arts" />
+                                </span>
+                                <a href='https://i0.wp.com/pearlyarts.com/wp-content/uploads/2023/11/FREE-Apple-Pie-Clipart-WM.png?fit=1000%2C1001&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Slice Of Sweet Apple Pie Transparent Background | Citypng">
+                                <img itemprop="contentUrl url" src='https://www.citypng.com/public/uploads/preview/hd-slice-of-sweet-apple-pie-transparent-background-701751710771725p6te8agmdo.png' alt='HD Slice Of Sweet Apple Pie Transparent Background | Citypng'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CityPNG" />
+                                </span>
+                                <a href='https://www.citypng.com/public/uploads/preview/hd-slice-of-sweet-apple-pie-transparent-background-701751710771725p6te8agmdo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pie PNGs for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/021/027/227/non_2x/apple-pie-transparent-png.png' alt='Pie PNGs for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/021/027/227/non_2x/apple-pie-transparent-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="clip art pie transparent">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/76/41/76/764176257f61c569a9b80f4782dfc0ca.jpg' alt='clip art pie transparent'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="591">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/76/41/76/764176257f61c569a9b80f4782dfc0ca.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Homemade Apple Pie Isolated On Transparent Background Png - SimilarPNG">
+                                <img itemprop="contentUrl url" src='https://image.similarpng.com/file/similarpng/very-thumbnail/2022/03/Homemade-apple-pie-isolated-on-transparent-background-PNG.png' alt='Homemade Apple Pie Isolated On Transparent Background Png - SimilarPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Similar PNG" />
+                                </span>
+                                <a href='https://image.similarpng.com/file/similarpng/very-thumbnail/2022/03/Homemade-apple-pie-isolated-on-transparent-background-PNG.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pie PNG transparent image download, size: 600x375px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/pie_PNG24.png' alt='Pie PNG transparent image download, size: 600x375px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/pie_PNG24.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="a pie with a lattice pattern on top of on transparent background ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/048/051/127/non_2x/a-pie-with-a-lattice-pattern-on-top-of-on-transparent-background-png.png' alt='a pie with a lattice pattern on top of on transparent background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/048/051/127/non_2x/a-pie-with-a-lattice-pattern-on-top-of-on-transparent-background-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pie-with-Pi-Symbol transparent background - CTL Engineering">
+                                <img itemprop="contentUrl url" src='https://ctleng.com/wp-content/uploads/2018/11/Pie-with-Pi-Symbol-transparent-background.png' alt='Pie-with-Pi-Symbol transparent background - CTL Engineering'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CTL Engineering" />
+                                </span>
+                                <a href='https://ctleng.com/wp-content/uploads/2018/11/Pie-with-Pi-Symbol-transparent-background.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

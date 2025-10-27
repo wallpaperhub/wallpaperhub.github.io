@@ -1,0 +1,129 @@
+<title>Museum Template: Showcase Your Cultural Heritage</title>
+                    <meta name="description" content="Transform your museum's online presence with our versatile template. Easily display exhibits, events, and collections to captivate visitors and enhance engagement. Experience the perfect blend of design and functionality for a memorable digital journey through art and history.">
+                    <meta name="keywords" content="museum template">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/museum-template">
+                            <span itemprop="name">museum template</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Museum Template: Showcase Your Cultural Heritage</h1>
+                <p>Discover the essence of cultural heritage with our customizable museum template. Perfect for showcasing exhibits, events, and collections, this template offers a user-friendly layout, eye-catching visuals, and easy navigation. Engage your audience with an immersive experience that highlights the richness of art and history at your institution.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3d rendering illustration of classical gallery. Fine art museum ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/02/34/43/02/1000_F_234430233_WDwvkTIXbWEP1pAaoXwnRku90QfYt1RF.jpg' alt='3d rendering illustration of classical gallery. Fine art museum ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="622">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/02/34/43/02/1000_F_234430233_WDwvkTIXbWEP1pAaoXwnRku90QfYt1RF.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Virtual Art Gallery, interactive template. - SlidesMania">
+                                <img itemprop="contentUrl url" src='https://slidesmania.com/wp-content/uploads/2020/11/Art-Gallery-789x444.jpg' alt='Virtual Art Gallery, interactive template. - SlidesMania'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="789">
+                                <meta itemprop="height" content="444">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlidesMania" />
+                                </span>
+                                <a href='https://slidesmania.com/wp-content/uploads/2020/11/Art-Gallery-789x444.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Exhibition Museum Templates – Browse 184 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/67/12/43/360_F_267124399_ywsgpAcQMn8YBOnOfM06Uws5cmsG5Vau.jpg' alt='Exhibition Museum Templates – Browse 184 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="518">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/67/12/43/360_F_267124399_ywsgpAcQMn8YBOnOfM06Uws5cmsG5Vau.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="113,895 Art Gallery Template Images, Stock Photos, 3D objects ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/art-museum-frame-wall-ornate-600nw-532116037.jpg' alt='113,895 Art Gallery Template Images, Stock Photos, 3D objects ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/art-museum-frame-wall-ornate-600nw-532116037.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Virtual Museum Template Using Google Slides Presentation | David ...">
+                                <img itemprop="contentUrl url" src='https://davidleeedtech.wordpress.com/wp-content/uploads/2013/10/virtual-museum-by-david-lee-edtech-4.png?w=676' alt='Virtual Museum Template Using Google Slides Presentation | David ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="David Lee EdTech - WordPress.com" />
+                                </span>
+                                <a href='https://davidleeedtech.wordpress.com/wp-content/uploads/2013/10/virtual-museum-by-david-lee-edtech-4.png?w=676' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Digital Museum Template - Google Slides">
+                                <img itemprop="contentUrl url" src='http://www.asergeev.com/p/xl-2007-588-25/wildflowers_near_washington-room_museum_fine_arts_houston.jpg' alt='Digital Museum Template - Google Slides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3008">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Docs" />
+                                </span>
+                                <a href='http://www.asergeev.com/p/xl-2007-588-25/wildflowers_near_washington-room_museum_fine_arts_houston.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blank Art Museum Isolated Painting Frame Decoration Indoors Wall ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/01/60/26/25/1000_F_160262568_NvbqXAAruzHiaBkX6dyZXAYbHYjMBfSO.jpg' alt='Blank Art Museum Isolated Painting Frame Decoration Indoors Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Blank Art Museum Isolated Painting Frame Decoration Indoors Wall ..." />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/01/60/26/25/1000_F_160262568_NvbqXAAruzHiaBkX6dyZXAYbHYjMBfSO.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VIRTUAL MUSEUM Template - Google Slides | TPT">
+                                <img itemprop="contentUrl url" src='https://ecdn.teacherspayteachers.com/thumbitem/VIRTUAL-MUSEUM-Template-Google-Slides-9097246-1676186248/original-9097246-2.jpg' alt='VIRTUAL MUSEUM Template - Google Slides | TPT'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="194">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TPT" />
+                                </span>
+                                <a href='https://ecdn.teacherspayteachers.com/thumbitem/VIRTUAL-MUSEUM-Template-Google-Slides-9097246-1676186248/original-9097246-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Virtual Art Gallery Templates">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/5c0a715b09ba6f668d586b2e/622cf0d65564bb73c4e81acc_Zen_Ikonospace.jpg' alt='Virtual Art Gallery Templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ikonospace" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/5c0a715b09ba6f668d586b2e/622cf0d65564bb73c4e81acc_Zen_Ikonospace.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art Museum Frame Wall Ornate Minimal Stock Photo 532116061 ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/art-museum-frame-wall-ornate-260nw-532116061.jpg' alt='Art Museum Frame Wall Ornate Minimal Stock Photo 532116061 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/art-museum-frame-wall-ornate-260nw-532116061.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Sci-Fi Phone Wallpapers: Explore the Universe on Your Screen</title>
+                    <meta name="description" content="Discover an array of breathtaking sci-fi phone wallpapers that ignite your imagination. Perfect for fans of space and futurism, our curated collection transforms your phone into a stunning display of intergalactic beauty. Download your favorite designs today and elevate your mobile experience!">
+                    <meta name="keywords" content="sci fi phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/sci-fi-phone-wallpaper">
+                            <span itemprop="name">sci fi phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Sci-Fi Phone Wallpapers: Explore the Universe on Your Screen</h1>
+                <p>Explore a universe of creativity with stunning sci-fi phone wallpapers. From futuristic cityscapes to distant galaxies and interstellar adventures, transform your device into a portal of imagination. Perfect for sci-fi enthusiasts, these wallpapers offer a daily dose of inspiration and wonder, keeping your screen fresh and exciting.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sci-Fi City Art Wallpaper iPhone Phone 4K #2280f">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/sci-fi-city-art-228@0@f-phone-4k.jpg' alt='Sci-Fi City Art Wallpaper iPhone Phone 4K #2280f'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/sci-fi-city-art-228@0@f-phone-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Sci Fi Phone Wallpapers on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b1/e8/45/b1e845240239d59034bc378c8c8499a4.jpg' alt='   Sci Fi Phone Wallpapers on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b1/e8/45/b1e845240239d59034bc378c8c8499a4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cyberpunk Sci Fi Remember Me Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/309/thumb-1920-309531.jpg' alt='Download Cyberpunk Sci Fi Remember Me Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mobile Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/309/thumb-1920-309531.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Quality Phone/Tablet Backgrounds">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b9/42/11/b9421192b28010aaa861453d0b03963d.jpg' alt='Quality Phone/Tablet Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="628">
+                                <meta itemprop="height" content="1188">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b9/42/11/b9421192b28010aaa861453d0b03963d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Futuristic Sci-Fi Phone Wallpaper - free download">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/high/futuristic-sci-fi-phone-wallpaper-14.webp' alt='Futuristic Sci-Fi Phone Wallpaper - free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="839">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/high/futuristic-sci-fi-phone-wallpaper-14.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download "Sci Fi" wallpapers for mobile phone, free "Sci Fi" HD ...">
+                                <img itemprop="contentUrl url" src='https://wallpaper.forfun.com/fetch/60/60575820642695cd63115146c5b244c1.jpeg' alt='Download "Sci Fi" wallpapers for mobile phone, free "Sci Fi" HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mobile wallpapers - Mob.org" />
+                                </span>
+                                <a href='https://wallpaper.forfun.com/fetch/60/60575820642695cd63115146c5b244c1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Futuristic Phone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp7684070.jpg' alt='Futuristic Phone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp7684070.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spaceship, art, fiction, sci-fi, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/866/522/HD-wallpaper-spaceship-art-fiction-sci-fi.jpg' alt='Spaceship, art, fiction, sci-fi, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/866/522/HD-wallpaper-spaceship-art-fiction-sci-fi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Sci Fi Cyberpunk Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/986/thumb-1920-986107.jpg' alt='Download Sci Fi Cyberpunk Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1220">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mobile Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/986/thumb-1920-986107.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sci Fi, Robot, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/193/12/HD-wallpaper-cyberpunk-city-cyberpunk-neon-robot-sci-fi-thumbnail.jpg' alt='Sci Fi, Robot, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="714">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/193/12/HD-wallpaper-cyberpunk-city-cyberpunk-neon-robot-sci-fi-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

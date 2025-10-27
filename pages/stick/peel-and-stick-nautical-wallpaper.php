@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="peel and stick nautical wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/peel-and-stick-nautical-wallpaper">
+                            <span itemprop="name">peel and stick nautical wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue and White Coral Peel and Stick Wallpaper / Nautical Removable ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18578186/r/il/141cb3/3044466508/il_fullxfull.3044466508_aldd.jpg' alt='Blue and White Coral Peel and Stick Wallpaper / Nautical Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1900">
+                                <meta itemprop="height" content="1425">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18578186/r/il/141cb3/3044466508/il_fullxfull.3044466508_aldd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Fish Removable Wallpaper Design / Nautical Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18578186/r/il/62ee4f/3939990690/il_fullxfull.3939990690_qvha.jpg' alt='Blue Fish Removable Wallpaper Design / Nautical Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18578186/r/il/62ee4f/3939990690/il_fullxfull.3939990690_qvha.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lependor 17.71" X 118" Nautical Map Wallpaper, Peel and Stick Removable  Printed Stick Wall Paper Decorative - 17.71" X 9.8 ft">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/617BLcgC1gL._AC_UF894,1000_QL80_.jpg' alt='Lependor 17.71" X 118" Nautical Map Wallpaper, Peel and Stick Removable  Printed Stick Wall Paper Decorative - 17.71" X 9.8 ft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/617BLcgC1gL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ocean waves, ship, sea life - Removable Self Adhesive pattern wallpaper 3661">
+                                <img itemprop="contentUrl url" src='https://california-wallpaper.com/cdn/shop/products/il_fullxfull.3834536066_785p.jpg?v=1659375824&width=1080' alt='Ocean waves, ship, sea life - Removable Self Adhesive pattern wallpaper 3661'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="California Wallpaper" />
+                                </span>
+                                <a href='https://california-wallpaper.com/cdn/shop/products/il_fullxfull.3834536066_785p.jpg?v=1659375824&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nautical Sailboat Wallpaper / Peel and Stick Wallpaper Removable Wallpaper  Home Decor Wall Art Wall Decor Room Decor - D480">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/products/il_fullxfull.5291223975_d8em.jpg?v=1717354651&width=1946' alt='Nautical Sailboat Wallpaper / Peel and Stick Wallpaper Removable Wallpaper  Home Decor Wall Art Wall Decor Room Decor - D480'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1299">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/products/il_fullxfull.5291223975_d8em.jpg?v=1717354651&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whale removable peel and stick wallpaper Nautical wallpaper">
+                                <img itemprop="contentUrl url" src='https://littlechickadeeshop.com/cdn/shop/files/Boy_whaleRoom4.jpg?v=1737568745&width=1445' alt='Whale removable peel and stick wallpaper Nautical wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1445">
+                                <meta itemprop="height" content="1236">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Little Chickadee Walls" />
+                                </span>
+                                <a href='https://littlechickadeeshop.com/cdn/shop/files/Boy_whaleRoom4.jpg?v=1737568745&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue and White Line Nautical Removable Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallsbyme.com/cdn/shop/files/0f2504339e2213a3353b38e61149a914_grande.jpg?v=1723299889' alt='Blue and White Line Nautical Removable Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls By Me" />
+                                </span>
+                                <a href='https://wallsbyme.com/cdn/shop/files/0f2504339e2213a3353b38e61149a914_grande.jpg?v=1723299889' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shiplap Wallpaper Peel and Stick Fish Nautical Coastal Theme Marine Self  Adhesive Contact Paper Room Decor Easy to Install (W) 78.7" X(H) 59"">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71J957GseiL._AC_UF894,1000_QL80_.jpg' alt='Shiplap Wallpaper Peel and Stick Fish Nautical Coastal Theme Marine Self  Adhesive Contact Paper Room Decor Easy to Install (W) 78.7" X(H) 59"'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71J957GseiL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalist nautical">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/nautical-lobster-removable-wallpaper-in-scandinavian-style-bedroom.jpg' alt='Minimalist nautical'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/nautical-lobster-removable-wallpaper-in-scandinavian-style-bedroom.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Navy Fish Nautical Peel and Stick Wallpaper | Walls By Me">
+                                <img itemprop="contentUrl url" src='https://wallsbyme.com/cdn/shop/products/nautical_92268098_03_4ea75051-ea98-4b15-a79f-4ff5e15343f1_grande.jpg?v=1645050929' alt='Navy Fish Nautical Peel and Stick Wallpaper | Walls By Me'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls By Me" />
+                                </span>
+                                <a href='https://wallsbyme.com/cdn/shop/products/nautical_92268098_03_4ea75051-ea98-4b15-a79f-4ff5e15343f1_grande.jpg?v=1645050929' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

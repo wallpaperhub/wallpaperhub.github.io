@@ -1,0 +1,129 @@
+<title>Exploring the Hidden World: Stunning Underground Images</title>
+                    <meta name="description" content="Delve into the enchanting realm of underground images! Explore breathtaking visuals of tunnels, caves, and hidden landscapes that unveil the secrets beneath our cities and nature. Uncover the beauty that lies below and ignite your curiosity about the unseen world around us.">
+                    <meta name="keywords" content="underground images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/underground-images">
+                            <span itemprop="name">underground images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring the Hidden World: Stunning Underground Images</h1>
+                <p>Underground images reveal a hidden world beneath our feet, showcasing the intricate networks of tunnels, caves, and subterranean structures. From urban exploration to geological wonders, these visuals capture the allure of what lies below. Discover the beauty and mystery of underground landscapes that often go unseen.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Underground Tunnel">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/55439/underground-tunnel.jpg?h=699&q=85' alt='Underground Tunnel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1049">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/55439/underground-tunnel.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Mysterious Underground Cities | HISTORY">
+                                <img itemprop="contentUrl url" src='https://assets.editorial.aetnd.com/uploads/2016/12/gettyimages-525133059-2.jpg' alt='8 Mysterious Underground Cities | HISTORY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2123">
+                                <meta itemprop="height" content="1412">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.history.com" />
+                                </span>
+                                <a href='https://assets.editorial.aetnd.com/uploads/2016/12/gettyimages-525133059-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why Humans Explore the Underground - Fathom">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/fathom_media/photos/cave-photograph.jpg.1200x800_q85_crop.jpg' alt='Why Humans Explore the Underground - Fathom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fathom - Travel" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/fathom_media/photos/cave-photograph.jpg.1200x800_q85_crop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Underground cities 2025 | Heymondo">
+                                <img itemprop="contentUrl url" src='https://heymondo.com/blog/wp-content/uploads/2023/05/Underground-cities.jpg' alt='Underground cities 2025 | Heymondo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="662">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heymondo" />
+                                </span>
+                                <a href='https://heymondo.com/blog/wp-content/uploads/2023/05/Underground-cities.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,700+ London Underground Tunnel Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/696296320/photo/railway-tracks.jpg?s=612x612&w=0&k=20&c=py88wjMhPKw61JQY9GQPr39ZnAHylpSaqcaiNlQhC0Y=' alt='1,700+ London Underground Tunnel Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="406">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/696296320/photo/railway-tracks.jpg?s=612x612&w=0&k=20&c=py88wjMhPKw61JQY9GQPr39ZnAHylpSaqcaiNlQhC0Y=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Underground cities in Turkey | Daily Sabah">
+                                <img itemprop="contentUrl url" src='https://idsb.tmgrup.com.tr/ly/uploads/images/2021/03/17/100798.jpg' alt='Underground cities in Turkey | Daily Sabah'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="1467">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Daily Sabah" />
+                                </span>
+                                <a href='https://idsb.tmgrup.com.tr/ly/uploads/images/2021/03/17/100798.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inside One of the World's Largest and Most Advanced Underground ...">
+                                <img itemprop="contentUrl url" src='http://media.architecturaldigest.com/photos/6511db6eea7912888044959e/master/pass/GettyImages-1613338443.jpg' alt='Inside One of the World's Largest and Most Advanced Underground ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5184">
+                                <meta itemprop="height" content="3888">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Architectural Digest" />
+                                </span>
+                                <a href='http://media.architecturaldigest.com/photos/6511db6eea7912888044959e/master/pass/GettyImages-1613338443.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Underground London: adventures in the secret city beneath our feet ...">
+                                <img itemprop="contentUrl url" src='https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/11/7/1415362266633/f131db11-fc1b-44f3-ab5e-43551887229c-2060x1317.jpeg?width=700&quality=85&auto=format&fit=max&s=e1ccd38b49627bd0b3959fc80c84bb28' alt='Underground London: adventures in the secret city beneath our feet ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Guardian" />
+                                </span>
+                                <a href='https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/11/7/1415362266633/f131db11-fc1b-44f3-ab5e-43551887229c-2060x1317.jpeg?width=700&quality=85&auto=format&fit=max&s=e1ccd38b49627bd0b3959fc80c84bb28' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Derinkuyu: The Ancient Underground City Big Enough for 20,000 ...">
+                                <img itemprop="contentUrl url" src='https://discovery.sndimg.com/content/dam/images/discovery/fullset/2019/9/29/0/komyvgory_%20iStock_Getty_Images_Plus-2.jpg.rend.hgtvcom.1280.960.suffix/1569953341181.jpeg' alt='Derinkuyu: The Ancient Underground City Big Enough for 20,000 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.discovery.com" />
+                                </span>
+                                <a href='https://discovery.sndimg.com/content/dam/images/discovery/fullset/2019/9/29/0/komyvgory_%20iStock_Getty_Images_Plus-2.jpg.rend.hgtvcom.1280.960.suffix/1569953341181.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="London Underground Pictures | Download Free Images & Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1546452612-548364041a03?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bG9uZG9uJTIwdW5kZXJncm91bmR8ZW58MHx8MHx8fDA%3D' alt='London Underground Pictures | Download Free Images & Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1546452612-548364041a03?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bG9uZG9uJTIwdW5kZXJncm91bmR8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

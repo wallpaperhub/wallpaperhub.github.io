@@ -1,0 +1,129 @@
+<title>Stunning Google Wallpaper GIFs for Dynamic Screens</title>
+                    <meta name="description" content="Explore an exciting range of Google wallpaper GIFs that breathe life into your screens. Choose from a variety of themes and styles, and enjoy a customizable experience that keeps your device looking fresh and dynamic. Perfect for those who love to personalize their tech!">
+                    <meta name="keywords" content="google wallpaper gif">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/google-wallpaper-gif">
+                            <span itemprop="name">google wallpaper gif</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Google Wallpaper GIFs for Dynamic Screens</h1>
+                <p>Transform your device's background with stunning Google wallpaper GIFs! These animated wallpapers add a dynamic flair to your screen, making it truly personal. Choose from a vast selection of themes, from nature scenes to abstract designs. Update your wallpaper regularly to keep your device feeling fresh and exciting!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="gif wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/59/69/84/59698460a33a71e42ddf46e185e17737.gif' alt='gif wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/59/69/84/59698460a33a71e42ddf46e185e17737.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GitHub - thomas10-10/foo-Wallpaper-Feh-Gif: just a loop who set ...">
+                                <img itemprop="contentUrl url" src='https://user-images.githubusercontent.com/36126914/154766367-2c3d9c80-3cdc-4790-b15c-7eba5eee9fd2.gif' alt='GitHub - thomas10-10/foo-Wallpaper-Feh-Gif: just a loop who set ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GitHub" />
+                                </span>
+                                <a href='https://user-images.githubusercontent.com/36126914/154766367-2c3d9c80-3cdc-4790-b15c-7eba5eee9fd2.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Animated Wallpaper Windows 10 - Wallpaper Engine.gif - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Animated_Wallpaper_Windows_10_-_Wallpaper_Engine.gif/1200px-Animated_Wallpaper_Windows_10_-_Wallpaper_Engine.gif' alt='File:Animated Wallpaper Windows 10 - Wallpaper Engine.gif - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Animated_Wallpaper_Windows_10_-_Wallpaper_Engine.gif/1200px-Animated_Wallpaper_Windows_10_-_Wallpaper_Engine.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ROG Wallpaper Design (2) | GIFs :: Behance">
+                                <img itemprop="contentUrl url" src='https://mir-s3-cdn-cf.behance.net/project_modules/fs/9bc27292880429.5e569ff84e4d0.gif' alt='ROG Wallpaper Design (2) | GIFs :: Behance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Behance" />
+                                </span>
+                                <a href='https://mir-s3-cdn-cf.behance.net/project_modules/fs/9bc27292880429.5e569ff84e4d0.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fresh and New Gifs">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/5f/6e/5f/5f6e5f70945d4c615e55c4ee5ab921ac.gif' alt='Fresh and New Gifs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/5f/6e/5f/5f6e5f70945d4c615e55c4ee5ab921ac.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="✨ Starfall Night Sky Mountains Aesthetic GIF Desktop Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2024/03/starfall-night-sky-mountains-aesthetic-gif-cover-desktop-wallpaper.gif' alt='✨ Starfall Night Sky Mountains Aesthetic GIF Desktop Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="429">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2024/03/starfall-night-sky-mountains-aesthetic-gif-cover-desktop-wallpaper.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Make Your Google Chrome Homepage Background a GIF or Video">
+                                <img itemprop="contentUrl url" src='https://www.kapwing.com/resources/content/images/size/w1200/2020/07/final_5f03a33ce043ad001572c7a7_609853.gif' alt='How to Make Your Google Chrome Homepage Background a GIF or Video'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kapwing" />
+                                </span>
+                                <a href='https://www.kapwing.com/resources/content/images/size/w1200/2020/07/final_5f03a33ce043ad001572c7a7_609853.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My collection of 8 Bit Live Wallpaper GIFs [1920x1080] : r/wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/x4hnwsvps4h91.gif' alt='My collection of 8 Bit Live Wallpaper GIFs [1920x1080] : r/wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/x4hnwsvps4h91.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wallpaper - Google Search">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/a7/07/f0/a707f04abbdcf93b9dcc4916a5d3059c.gif' alt='wallpaper - Google Search'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/a7/07/f0/a707f04abbdcf93b9dcc4916a5d3059c.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Background GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media2.giphy.com/media/9ZsHm0z5QwSYpV7g01/200w.gif?cid=6c09b952fkdtkew22j0wzao545ppxtbqox06a4iof6eo9yxq&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Retro Background GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media2.giphy.com/media/9ZsHm0z5QwSYpV7g01/200w.gif?cid=6c09b952fkdtkew22j0wzao545ppxtbqox06a4iof6eo9yxq&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

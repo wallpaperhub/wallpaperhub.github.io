@@ -1,0 +1,129 @@
+<title>Discover the Fascinating Background of Pokémon GO</title>
+                    <meta name="description" content="Explore the captivating history and impact of Pokémon GO! Learn how this groundbreaking AR game transformed outdoor gaming and fostered community engagement since its launch. Perfect for fans and newcomers alike, dive into the evolution and popularity of Pokémon GO today!">
+                    <meta name="keywords" content="pokemon go background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pokemon-go-background">
+                            <span itemprop="name">pokemon go background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Fascinating Background of Pokémon GO</h1>
+                <p>Pokémon GO revolutionized mobile gaming by merging augmented reality (AR) with real-world exploration. Since its release in 2016, millions have ventured outside to capture Pokémon, participate in events, and bond with friends. Its innovative gameplay encourages physical activity, community engagement, and new adventures, making it a cultural phenomenon.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is this a new background or a themed event thing? : r/pokemongo">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/is-this-a-new-background-or-a-themed-event-thing-v0-45a4qdvsa9oc1.jpg?width=1125&format=pjpg&auto=webp&s=0ecaa7b7459644f9c583e98f01c024f8dd97fa9d' alt='Is this a new background or a themed event thing? : r/pokemongo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/is-this-a-new-background-or-a-themed-event-thing-v0-45a4qdvsa9oc1.jpg?width=1125&format=pjpg&auto=webp&s=0ecaa7b7459644f9c583e98f01c024f8dd97fa9d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokémon GO on X: "Have you used any of our downloadable custom ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/EaKMc-cXgAIGCmR.jpg:large' alt='Pokémon GO on X: "Have you used any of our downloadable custom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/EaKMc-cXgAIGCmR.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The new Catch Backgrounds are much worse on some Pokemon. : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/the-new-catch-backgrounds-are-much-worse-on-some-pokemon-v0-cnu4p14oqpmc1.jpeg?auto=webp&s=67249237fe28ae33637864a86507779336eb00a3' alt='The new Catch Backgrounds are much worse on some Pokemon. : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/the-new-catch-backgrounds-are-much-worse-on-some-pokemon-v0-cnu4p14oqpmc1.jpeg?auto=webp&s=67249237fe28ae33637864a86507779336eb00a3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokemon GO Full Backgound by t-me1 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0ddc0e28-246e-4fe9-9ded-fc0cb79a076a/dh5wy3n-e44bcbf9-eb72-41a1-be84-4939348c8794.png/v1/fill/w_1280,h_551,q_80,strp/pokemon_go_full_backgound_by_t_me1_dh5wy3n-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTUxIiwicGF0aCI6IlwvZlwvMGRkYzBlMjgtMjQ2ZS00ZmU5LTlkZWQtZmMwY2I3OWEwNzZhXC9kaDV3eTNuLWU0NGJjYmY5LWViNzItNDFhMS1iZTg0LTQ5MzkzNDhjODc5NC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.hMnQT4YrD2pwlnRweCq_kCuBgAq1yX5d_AxemUBnAdE' alt='Pokemon GO Full Backgound by t-me1 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="551">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0ddc0e28-246e-4fe9-9ded-fc0cb79a076a/dh5wy3n-e44bcbf9-eb72-41a1-be84-4939348c8794.png/v1/fill/w_1280,h_551,q_80,strp/pokemon_go_full_backgound_by_t_me1_dh5wy3n-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTUxIiwicGF0aCI6IlwvZlwvMGRkYzBlMjgtMjQ2ZS00ZmU5LTlkZWQtZmMwY2I3OWEwNzZhXC9kaDV3eTNuLWU0NGJjYmY5LWViNzItNDFhMS1iZTg0LTQ5MzkzNDhjODc5NC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.hMnQT4YrD2pwlnRweCq_kCuBgAq1yX5d_AxemUBnAdE' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is this a new background or a themed event thing? : r/pokemongo">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/is-this-a-new-background-or-a-themed-event-thing-v0-glakobvsa9oc1.jpg?width=1125&format=pjpg&auto=webp&s=53a3e56a9e151198459b2a3ca46ac3b96dcd2676' alt='Is this a new background or a themed event thing? : r/pokemongo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/is-this-a-new-background-or-a-themed-event-thing-v0-glakobvsa9oc1.jpg?width=1125&format=pjpg&auto=webp&s=53a3e56a9e151198459b2a3ca46ac3b96dcd2676' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokémon GO on X: "Ever want to experience what it feels like to ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/EbXcTfOWAAMcsWO.jpg:large' alt='Pokémon GO on X: "Ever want to experience what it feels like to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/EbXcTfOWAAMcsWO.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Get ready to catch Pokémon with Special Backgrounds, debuting ...">
+                                <img itemprop="contentUrl url" src='https://lh3.googleusercontent.com/3UHJGmPpL9V-HktqCxKfa7xa_bvr_CSVqbY_Ij8SRkcnVV-27WVjHzwFc3OW120Ghe-LyEn_Cstd6jpZPwEzquk5t2XWku1PihUeDn5rAS1eHA=s2400-rj' alt='Get ready to catch Pokémon with Special Backgrounds, debuting ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pokémon GO" />
+                                </span>
+                                <a href='https://lh3.googleusercontent.com/3UHJGmPpL9V-HktqCxKfa7xa_bvr_CSVqbY_Ij8SRkcnVV-27WVjHzwFc3OW120Ghe-LyEn_Cstd6jpZPwEzquk5t2XWku1PihUeDn5rAS1eHA=s2400-rj' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokemon GO Backgound - Night-time by t-me1 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0ddc0e28-246e-4fe9-9ded-fc0cb79a076a/dh5vfpm-de6d2add-cbf4-478d-b85f-6766701be745.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzBkZGMwZTI4LTI0NmUtNGZlOS05ZGVkLWZjMGNiNzlhMDc2YVwvZGg1dmZwbS1kZTZkMmFkZC1jYmY0LTQ3OGQtYjg1Zi02NzY2NzAxYmU3NDUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.UjipfyXNDyZcz4RUqNow8JA2Wz6OhiC7ciA20h_AVvQ' alt='Pokemon GO Backgound - Night-time by t-me1 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1370">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0ddc0e28-246e-4fe9-9ded-fc0cb79a076a/dh5vfpm-de6d2add-cbf4-478d-b85f-6766701be745.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzBkZGMwZTI4LTI0NmUtNGZlOS05ZGVkLWZjMGNiNzlhMDc2YVwvZGg1dmZwbS1kZTZkMmFkZC1jYmY0LTQ3OGQtYjg1Zi02NzY2NzAxYmU3NDUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.UjipfyXNDyZcz4RUqNow8JA2Wz6OhiC7ciA20h_AVvQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Controversial avatar changes aside – Pokemon Go crushed one QoL ...">
+                                <img itemprop="contentUrl url" src='https://www.dexerto.com/cdn-image/wp-content/uploads/2024/04/25/Pokemon-Go-new-background.jpg' alt='Controversial avatar changes aside – Pokemon Go crushed one QoL ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dexerto" />
+                                </span>
+                                <a href='https://www.dexerto.com/cdn-image/wp-content/uploads/2024/04/25/Pokemon-Go-new-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokémon Go night landscape - Virtual Backgrounds">
+                                <img itemprop="contentUrl url" src='https://virtualbackgrounds.site/wp-content/uploads/2020/09/pokemon-go-night-landscape.jpg' alt='Pokémon Go night landscape - Virtual Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Virtual Backgrounds" />
+                                </span>
+                                <a href='https://virtualbackgrounds.site/wp-content/uploads/2020/09/pokemon-go-night-landscape.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

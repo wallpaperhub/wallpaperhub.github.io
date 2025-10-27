@@ -1,0 +1,129 @@
+<title>Top Tools for Criminal Records Searches</title>
+                    <meta name="description" content="Discover reliable tools for comprehensive criminal records searches. Find the best services that ensure security and up-to-date information, making your search easy and efficient. Stay informed with our expert picks for the top resources in criminal record checks!">
+                    <meta name="keywords" content="best criminal records search">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/best-criminal-records-search">
+                            <span itemprop="name">best criminal records search</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Top Tools for Criminal Records Searches</h1>
+                <p>When searching for criminal records, it's crucial to choose reliable sources. The best criminal records search tools offer comprehensive databases, user-friendly interfaces, and up-to-date information. When utilizing these services, ensure that they are compliant with laws and offer secure searches to protect your privacy.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Background Checks in Michigan for Looking Up Public Records ...">
+                                <img itemprop="contentUrl url" src='https://www.imagehosting1.net/wp-content/uploads/2021/10/truthfinder.jpg' alt='Free Background Checks in Michigan for Looking Up Public Records ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="874">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cision News" />
+                                </span>
+                                <a href='https://www.imagehosting1.net/wp-content/uploads/2021/10/truthfinder.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Background Checks in Michigan for Looking Up Public Records ...">
+                                <img itemprop="contentUrl url" src='https://www.imagehosting1.net/wp-content/uploads/2021/10/intellius.jpg' alt='Free Background Checks in Michigan for Looking Up Public Records ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cision News" />
+                                </span>
+                                <a href='https://www.imagehosting1.net/wp-content/uploads/2021/10/intellius.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Best Criminal Background Check Sites of 2024 | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/2c91eb4e58a05f1fd60dee232dc45f5e/b5b4d/Truthfinder.png' alt='8 Best Criminal Background Check Sites of 2024 | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3024">
+                                <meta itemprop="height" content="1128">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/2c91eb4e58a05f1fd60dee232dc45f5e/b5b4d/Truthfinder.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Criminal Records Search | Crime Search Engines Free Trial">
+                                <img itemprop="contentUrl url" src='https://www.tracers.com/wp-content/uploads/2021/06/Criminal-Record-Search.jpg' alt='Criminal Records Search | Crime Search Engines Free Trial'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tracers" />
+                                </span>
+                                <a href='https://www.tracers.com/wp-content/uploads/2021/06/Criminal-Record-Search.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Criminal Background Check Sites & Services | Checkr">
+                                <img itemprop="contentUrl url" src='https://a-us.storyblok.com/f/1014904/592ee0d7fc/checkr-web-article-best-criminal-bgcs.webp/m/' alt='Best Criminal Background Check Sites & Services | Checkr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr" />
+                                </span>
+                                <a href='https://a-us.storyblok.com/f/1014904/592ee0d7fc/checkr-web-article-best-criminal-bgcs.webp/m/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Best Criminal Background Check Sites of 2024 | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/df7da96359798908d838b73785eea516/19357/Intelius-1.png' alt='8 Best Criminal Background Check Sites of 2024 | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1512">
+                                <meta itemprop="height" content="565">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/df7da96359798908d838b73785eea516/19357/Intelius-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Michigan Background Checks | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/1c6d68f1f96b542267a79114c0f64024/e2d37/dashboard-illustration.png' alt='Michigan Background Checks | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="618">
+                                <meta itemprop="height" content="399">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/1c6d68f1f96b542267a79114c0f64024/e2d37/dashboard-illustration.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Are the Best Websites to Search for Criminal Records? |  CountyOffice.org">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/S0o5I1XOP08/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAwaHQdPrKrFIbu_3SLLyTxTxB4Wg' alt='What Are the Best Websites to Search for Criminal Records? |  CountyOffice.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/S0o5I1XOP08/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAwaHQdPrKrFIbu_3SLLyTxTxB4Wg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Criminal Background Check Sites & Services | Checkr">
+                                <img itemprop="contentUrl url" src='https://a-us.storyblok.com/f/1014904/36e17789a3/screenshot-2023-04-12-at-4-23-16-pm.png/m/' alt='Best Criminal Background Check Sites & Services | Checkr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3024">
+                                <meta itemprop="height" content="1598">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr" />
+                                </span>
+                                <a href='https://a-us.storyblok.com/f/1014904/36e17789a3/screenshot-2023-04-12-at-4-23-16-pm.png/m/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Best Criminal Background Check Sites of 2024 | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/05d37dacba915bae9051cc225d01212f/Article-Best-Criminal-Background-Checks.png' alt='8 Best Criminal Background Check Sites of 2024 | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/05d37dacba915bae9051cc225d01212f/Article-Best-Criminal-Background-Checks.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

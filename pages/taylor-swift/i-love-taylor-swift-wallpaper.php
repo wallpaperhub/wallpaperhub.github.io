@@ -1,0 +1,129 @@
+<title>Taylor Swift Love Wallpapers: Stunning Designs for Fans</title>
+                    <meta name="description" content="Discover a collection of beautiful "I Love Taylor Swift" wallpapers to brighten your device. Perfect for fans, these wallpapers showcase Taylor's iconic style and music. Download your favorite design today and let your love for Swift shine through every screen!">
+                    <meta name="keywords" content="i love taylor swift wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/taylor-swift">
+                            <span itemprop="name">Taylor-Swift</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/taylor-swift/i-love-taylor-swift-wallpaper">
+                            <span itemprop="name">i love taylor swift wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Taylor Swift Love Wallpapers: Stunning Designs for Fans</h1>
+                <p>Taylor Swift's music and style inspire millions, and what better way to showcase your admiration than with stunning "I Love Taylor Swift" wallpapers? From vibrant images of her concerts to artistic renditions of her album covers, these wallpapers bring a touch of her magic to your device. Show your fandom with every glance!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="some taylor swift wallpapers for my swifties      | Gallery posted ...">
+                                <img itemprop="contentUrl url" src='https://p16-va.lemon8cdn.com/tos-maliva-v-ac5634-us/osIbLmI1fAzdANGsEgemLfHSAoEFRAs3C1aKrr~tplv-tej9nj120t-origin.webp' alt='some taylor swift wallpapers for my swifties      | Gallery posted ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="323">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://p16-va.lemon8cdn.com/tos-maliva-v-ac5634-us/osIbLmI1fAzdANGsEgemLfHSAoEFRAs3C1aKrr~tplv-tej9nj120t-origin.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bb/80/b4/bb80b47662d6db99f138f876fc349740.jpg' alt='Taylor Swift Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bb/80/b4/bb80b47662d6db99f138f876fc349740.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I love Taylor Swift | Art Board Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.5255047732.3358/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='I love Taylor Swift | Art Board Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.5255047732.3358/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift Lover Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/60/a3/6f/60a36f00d7fae3000697f1eac8437675.jpg' alt='Taylor Swift Lover Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/60/a3/6f/60a36f00d7fae3000697f1eac8437675.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="some taylor swift wallpapers for my swifties      | Gallery posted ...">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7292923286923608581&index=2&sign=faa5106ca5b3e91a516d7204e074dc0d' alt='some taylor swift wallpapers for my swifties      | Gallery posted ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7292923286923608581&index=2&sign=faa5106ca5b3e91a516d7204e074dc0d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Love Taylor: Taylor Swift 6x9 Ruled Notebook: 175 Page Ruled and ...">
+                                <img itemprop="contentUrl url" src='https://images.booksense.com/images/300/385/9781974385300.jpg' alt='I Love Taylor: Taylor Swift 6x9 Ruled Notebook: 175 Page Ruled and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="267">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Malaprop's Bookstore/Cafe" />
+                                </span>
+                                <a href='https://images.booksense.com/images/300/385/9781974385300.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lover Phone Wallpaper - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38472259/r/il/3b214a/5935494642/il_1080xN.5935494642_ca7g.jpg' alt='Lover Phone Wallpaper - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38472259/r/il/3b214a/5935494642/il_1080xN.5935494642_ca7g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift Lover, 2019, cover, taylor swift, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/390/87/HD-wallpaper-taylor-swift-lover-2019-cover-taylor-swift.jpg' alt='Taylor Swift Lover, 2019, cover, taylor swift, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1730">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/390/87/HD-wallpaper-taylor-swift-lover-2019-cover-taylor-swift.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eras Tour Phone Wallpapers Idea    : r/TaylorSwift">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/eras-tour-phone-wallpapers-idea-v0-ve0s6zsy9hva1.jpg?width=1170&format=pjpg&auto=webp&s=fa0d75e9fa2506edbab113c0d21bb68d31e36ee5' alt='Eras Tour Phone Wallpapers Idea    : r/TaylorSwift'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/eras-tour-phone-wallpapers-idea-v0-ve0s6zsy9hva1.jpg?width=1170&format=pjpg&auto=webp&s=fa0d75e9fa2506edbab113c0d21bb68d31e36ee5' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="taylor swift lover wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/64/f6/b5/64f6b51083bfa169d317101730fdf27f.jpg' alt='taylor swift lover wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/64/f6/b5/64f6b51083bfa169d317101730fdf27f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

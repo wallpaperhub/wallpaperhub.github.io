@@ -1,0 +1,129 @@
+<title>Delicious Donut PNG Images for Your Creative Needs</title>
+                    <meta name="description" content="Discover a delightful selection of donut PNG images! Perfect for digital projects, our high-quality graphics showcase every scrumptious detail. Whether for websites or creative designs, find the ideal donut to elevate your content today!">
+                    <meta name="keywords" content="donut png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/donut-png">
+                            <span itemprop="name">donut png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Delicious Donut PNG Images for Your Creative Needs</h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Donuts png Doughnut png Donut png Doughnuts png Donuts transparent ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/034/468/048/non_2x/donuts-doughnut-donut-doughnuts-donuts-transparent-background-ai-generated-png.png' alt='Donuts png Doughnut png Donut png Doughnuts png Donuts transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1143">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/034/468/048/non_2x/donuts-doughnut-donut-doughnuts-donuts-transparent-background-ai-generated-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Donut PNG transparent image download, size: 4187x4187px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/donut_PNG85.png' alt='Donut PNG transparent image download, size: 4187x4187px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4187">
+                                <meta itemprop="height" content="4187">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/donut_PNG85.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Donut PNG transparent image download, size: 3631x3477px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/donut_PNG97494.png' alt='Donut PNG transparent image download, size: 3631x3477px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3631">
+                                <meta itemprop="height" content="3477">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/donut_PNG97494.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Donuts PNGs for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/027/182/570/small_2x/assorted-pile-of-colorful-delicious-donut-isolated-on-a-transparent-background-png.png' alt='Donuts PNGs for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/027/182/570/small_2x/assorted-pile-of-colorful-delicious-donut-isolated-on-a-transparent-background-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chocolate Donut transparent PNG - StickPNG">
+                                <img itemprop="contentUrl url" src='https://assets.stickpng.com/images/584fcc806a5ae41a83ddee8c.png' alt='Chocolate Donut transparent PNG - StickPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1153">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StickPNG" />
+                                </span>
+                                <a href='https://assets.stickpng.com/images/584fcc806a5ae41a83ddee8c.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Donut">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/bd/07/23/bd072353f3c94f4430ae177b5e214309.jpg' alt='Donut'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/bd/07/23/bd072353f3c94f4430ae177b5e214309.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Doughnut PNG, Vector, PSD, and Clipart With Transparent Background ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20220131/original/pngtree-3d-donut-vector-png-png-image_7261511.png' alt='Doughnut PNG, Vector, PSD, and Clipart With Transparent Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20220131/original/pngtree-3d-donut-vector-png-png-image_7261511.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Donut Png Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-psd/pink-donut-with-sprinkles-sweet-treat-delicious-dessert-sugary-bakery-food_632498-44492.jpg' alt='Donut Png Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-psd/pink-donut-with-sprinkles-sweet-treat-delicious-dessert-sugary-bakery-food_632498-44492.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Donuts Clipart transparent PNG - StickPNG">
+                                <img itemprop="contentUrl url" src='https://assets.stickpng.com/images/584fcc8d6a5ae41a83ddee8d.png' alt='Donuts Clipart transparent PNG - StickPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2787">
+                                <meta itemprop="height" content="2214">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StickPNG" />
+                                </span>
+                                <a href='https://assets.stickpng.com/images/584fcc8d6a5ae41a83ddee8d.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Donut PNG Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA4L3Jhd3BpeGVsb2ZmaWNlMl9waG90b19vZl9leHBsb2RpbmdfY2hvY29sYXRlX2RvbnV0X2JyZWFraW5nX2luX185MjFjMWU5ZS04NmM5LTQ1NWYtYTFmZC0yZTRjOTJhY2NlNDIucG5n.png' alt='Donut PNG Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="828">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA4L3Jhd3BpeGVsb2ZmaWNlMl9waG90b19vZl9leHBsb2RpbmdfY2hvY29sYXRlX2RvbnV0X2JyZWFraW5nX2luX185MjFjMWU5ZS04NmM5LTQ1NWYtYTFmZC0yZTRjOTJhY2NlNDIucG5n.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

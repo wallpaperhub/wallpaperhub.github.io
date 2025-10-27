@@ -1,0 +1,129 @@
+<title>Awesome Vegito Wallpapers for Your Phone</title>
+                    <meta name="description" content="Discover the best Vegito wallpapers for your phone! Elevate your device's look with vibrant, high-resolution images of your favorite Dragon Ball Z character. Perfect for fans, these wallpapers will add style and personality to your mobile experience. Download your favorite now!">
+                    <meta name="keywords" content="vegito wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/vegito-wallpaper-phone">
+                            <span itemprop="name">vegito wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Awesome Vegito Wallpapers for Your Phone</h1>
+                <p>Transform your phone with a stunning Vegito wallpaper! Featuring the powerful fusion of Goku and Vegeta, these high-resolution images bring out his iconic style and energy. Perfect for fans of Dragon Ball Z, Vegito wallpapers will give your device a vibrant look. Download now and showcase your ultimate hero!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Character Wallpaper - SSGSS Vegito | iPhone Case">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.5009008813.9206/flat,750x1000,075,t.jpg' alt='Character Wallpaper - SSGSS Vegito | iPhone Case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.5009008813.9206/flat,750x1000,075,t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vegito Phone Wallpaper : r/dbz">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/r21r8hvqld371.jpg' alt='Vegito Phone Wallpaper : r/dbz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/r21r8hvqld371.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made a Super Vegito phone wallpaper for you guys! : r/DBZDokkanBattle">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/h5okrnt223l51.png' alt='Made a Super Vegito phone wallpaper for you guys! : r/DBZDokkanBattle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/h5okrnt223l51.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vegito, dragón ball, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/64/717/HD-wallpaper-vegito-dragon-ball.jpg' alt='Vegito, dragón ball, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1425">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/64/717/HD-wallpaper-vegito-dragon-ball.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vegito Blue Manga Wallpaper by OGFutureTrunks on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/afd2d869-fe8e-4952-8be1-d5471b80cc8d/dffthxq-e8e69bed-299b-42bf-a8b1-3063b289e625.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FmZDJkODY5LWZlOGUtNDk1Mi04YmUxLWQ1NDcxYjgwY2M4ZFwvZGZmdGh4cS1lOGU2OWJlZC0yOTliLTQyYmYtYThiMS0zMDYzYjI4OWU2MjUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.hMOftG5oxYXCNGaqeeQJEX2I3UUKsmWbzW1VPIEo2pk' alt='Vegito Blue Manga Wallpaper by OGFutureTrunks on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1152">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/afd2d869-fe8e-4952-8be1-d5471b80cc8d/dffthxq-e8e69bed-299b-42bf-a8b1-3063b289e625.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FmZDJkODY5LWZlOGUtNDk1Mi04YmUxLWQ1NDcxYjgwY2M4ZFwvZGZmdGh4cS1lOGU2OWJlZC0yOTliLTQyYmYtYThiMS0zMDYzYjI4OWU2MjUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.hMOftG5oxYXCNGaqeeQJEX2I3UUKsmWbzW1VPIEo2pk' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Vegito, anime, dragon ball, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/635/551/HD-wallpaper-super-vegito-anime-dragon-ball.jpg' alt='Super Vegito, anime, dragon ball, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1731">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/635/551/HD-wallpaper-super-vegito-anime-dragon-ball.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="380 Vegito ideas | dragon ball wallpapers, dragon ball art, anime ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/95/86/3b/95863b534e8a1a94279467715fb9c5e9.jpg' alt='380 Vegito ideas | dragon ball wallpapers, dragon ball art, anime ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/95/86/3b/95863b534e8a1a94279467715fb9c5e9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Saiyan Blue Vegito Wallpaper by Quite-brokeN on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/581fa339-dd09-4c36-94f4-4f700c88e90c/deako12-484f4d98-c330-4547-895d-fb639d644dc5.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU4MWZhMzM5LWRkMDktNGMzNi05NGY0LTRmNzAwYzg4ZTkwY1wvZGVha28xMi00ODRmNGQ5OC1jMzMwLTQ1NDctODk1ZC1mYjYzOWQ2NDRkYzUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Z24xNaEzYlypnRZLJlC6Wu1IO08LZv6c8qpUTbxRkfk' alt='Super Saiyan Blue Vegito Wallpaper by Quite-brokeN on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="872">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/581fa339-dd09-4c36-94f4-4f700c88e90c/deako12-484f4d98-c330-4547-895d-fb639d644dc5.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU4MWZhMzM5LWRkMDktNGMzNi05NGY0LTRmNzAwYzg4ZTkwY1wvZGVha28xMi00ODRmNGQ5OC1jMzMwLTQ1NDctODk1ZC1mYjYzOWQ2NDRkYzUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Z24xNaEzYlypnRZLJlC6Wu1IO08LZv6c8qpUTbxRkfk' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1 Year of HD Wallpapers! Super Vegito HD Wallpaper (More coming ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/9rhdbr8vk3731.png?auto=webp&s=b7086307094cfd865ab6f19e650e79f4ef979924' alt='1 Year of HD Wallpapers! Super Vegito HD Wallpaper (More coming ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/9rhdbr8vk3731.png?auto=webp&s=b7086307094cfd865ab6f19e650e79f4ef979924' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hydros on X: "RED ULTRA Super Saiyan God SS Vegito 4K, 4K PC ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/F005ZPUaIAAYU53?format=jpg&name=4096x4096' alt='Hydros on X: "RED ULTRA Super Saiyan God SS Vegito 4K, 4K PC ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2304">
+                                <meta itemprop="height" content="4096">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/F005ZPUaIAAYU53?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

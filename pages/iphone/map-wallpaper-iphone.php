@@ -1,0 +1,129 @@
+<title>Stunning Map Wallpapers for Your iPhone</title>
+                    <meta name="description" content="Explore beautiful map wallpapers for your iPhone! Choose from city maps, vintage styles, and topographic designs to personalize your device. Perfect for travel enthusiasts and those seeking unique aesthetics. Elevate your iPhone's look with these inspiring backgrounds!">
+                    <meta name="keywords" content="map wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/map-wallpaper-iphone">
+                            <span itemprop="name">map wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Map Wallpapers for Your iPhone</h1>
+                <p>Transform your iPhone with stunning map wallpaper designs! Discover a variety of vibrant and intricate city maps, vintage cartographic illustrations, and colorful topographic patterns. Not only do these wallpapers add personality to your device, but they also spark wanderlust and inspire adventure. Elevate your screen today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="World Map iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b1/4e/b5/b14eb5de6e2ded4e5517d8a70af3749a.jpg' alt='World Map iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b1/4e/b5/b14eb5de6e2ded4e5517d8a70af3749a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Map iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/91/d1/51/91d151ba7ad0f888f7c35a9dea97ebf0.jpg' alt='Map iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/91/d1/51/91d151ba7ad0f888f7c35a9dea97ebf0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old World Map for Explorers iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/26/b0/16/26b0168d97dfbfa1b2050a451cf242db.jpg' alt='Old World Map for Explorers iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/26/b0/16/26b0168d97dfbfa1b2050a451cf242db.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Legacy World Map Mural. Ever UK. Map, Mural, World map, Aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/348/286/HD-wallpaper-legacy-world-map-mural-ever-uk-map-mural-world-map-aesthetic-map.jpg' alt='Legacy World Map Mural. Ever UK. Map, Mural, World map, Aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/348/286/HD-wallpaper-legacy-world-map-mural-ever-uk-map-mural-world-map-aesthetic-map.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="World Map iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp13079365.jpg' alt='World Map iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1244">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp13079365.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="World Map Colorful iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/22/99/d1/2299d13f061b08dff4fd3357aad34bfc.jpg' alt='World Map Colorful iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/22/99/d1/2299d13f061b08dff4fd3357aad34bfc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to create an iPhone wallpaper based on the map of a city">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2024/03/City-map-wallpaper-on-iPhone.jpg' alt='How to create an iPhone wallpaper based on the map of a city'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1678">
+                                <meta itemprop="height" content="1665">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2024/03/City-map-wallpaper-on-iPhone.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Earth Map">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/66/43/72/664372738c7c4a47303f02e38a7ff6ff.jpg' alt='Earth Map'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1244">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/66/43/72/664372738c7c4a47303f02e38a7ff6ff.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="World, map, travel, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/629/489/HD-wallpaper-world-map-travel.jpg' alt='World, map, travel, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/629/489/HD-wallpaper-world-map-travel.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Global Map Wallpapers (24 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/8/5/d/257444-1080x1920-iphone-1080p-global-map-background-image.jpg' alt='Global Map Wallpapers (24 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/8/5/d/257444-1080x1920-iphone-1080p-global-map-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

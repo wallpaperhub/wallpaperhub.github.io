@@ -1,0 +1,129 @@
+<title>Stunning Wallpaper Accent Wall Ideas for Your Living Room</title>
+                    <meta name="description" content="Discover unique wallpaper accent wall ideas to elevate your living room's style. From bold patterns to textured finishes, find inspiration to create a focal point that complements your decor. Get creative and transform your space effortlessly!">
+                    <meta name="keywords" content="wallpaper accent wall ideas living room">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room">
+                            <span itemprop="name">Room</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room/wallpaper-accent-wall-ideas-living-room">
+                            <span itemprop="name">wallpaper accent wall ideas living room</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Wallpaper Accent Wall Ideas for Your Living Room</h1>
+                <p>Transform your living room with creative wallpaper accent wall ideas! Opt for bold patterns or soft textures to create a stunning focal point. Consider a floral design for a fresh look, or geometric shapes for a modern touch. Don't forget to coordinate colors with your decor for a harmonious space that reflects your style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="22 Stylish Accent Wall Ideas - How to Use Paint, Wallpaper, Wood ...">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/jessica-lagrange-interiors-portfolio-interiors-home-office-1501112112-816749-1544049319.jpg' alt='22 Stylish Accent Wall Ideas - How to Use Paint, Wallpaper, Wood ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2198">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ELLE Decor" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/jessica-lagrange-interiors-portfolio-interiors-home-office-1501112112-816749-1544049319.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="37 Living Room Accent Wall Ideas to Transform Your Space">
+                                <img itemprop="contentUrl url" src='https://www.bhg.com/thmb/OJ7fTSlO8kdVTA5fi2NtjmAm3_w=/1244x0/filters:no_upscale():strip_icc()/chandelier-living-room-vintage-trunk-mural-1uU0zet5qamAzfskqrAnQJ-595110baa60240d5913aa833bec00f0d.jpg' alt='37 Living Room Accent Wall Ideas to Transform Your Space'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1244">
+                                <meta itemprop="height" content="1681">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Better Homes & Gardens" />
+                                </span>
+                                <a href='https://www.bhg.com/thmb/OJ7fTSlO8kdVTA5fi2NtjmAm3_w=/1244x0/filters:no_upscale():strip_icc()/chandelier-living-room-vintage-trunk-mural-1uU0zet5qamAzfskqrAnQJ-595110baa60240d5913aa833bec00f0d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Living rooms with accent walls - Margarita Bravo">
+                                <img itemprop="contentUrl url" src='https://margaritabravo.com/wp-content/uploads/2023/01/Living-Room-With-Accent-Walls.jpg' alt='Living rooms with accent walls - Margarita Bravo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1223">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Margarita Bravo" />
+                                </span>
+                                <a href='https://margaritabravo.com/wp-content/uploads/2023/01/Living-Room-With-Accent-Walls.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Wallpaper Ideas For A Living Room Feature Wall in 2024 - Hovia">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_2000/v1715614886/cronos-ha/blogs/accent-wall-living-room-ideas/Chloe-Lifestyle-Web-2.jpg' alt='5 Wallpaper Ideas For A Living Room Feature Wall in 2024 - Hovia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1249">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hovia" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_2000/v1715614886/cronos-ha/blogs/accent-wall-living-room-ideas/Chloe-Lifestyle-Web-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="37 Living Room Accent Wall Ideas to Transform Your Space">
+                                <img itemprop="contentUrl url" src='https://www.bhg.com/thmb/dkAIPHTSleeHcU8WP7vGOkMgi9c=/1335x0/filters:no_upscale():strip_icc()/24301-8a897be7941e4fb4890381cb5231d421.jpg' alt='37 Living Room Accent Wall Ideas to Transform Your Space'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1335">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Better Homes & Gardens" />
+                                </span>
+                                <a href='https://www.bhg.com/thmb/dkAIPHTSleeHcU8WP7vGOkMgi9c=/1335x0/filters:no_upscale():strip_icc()/24301-8a897be7941e4fb4890381cb5231d421.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40 Living Room Accent Wall Ideas To Give Your Room Style">
+                                <img itemprop="contentUrl url" src='https://www.hello-hayley.com/wp-content/uploads/2024/09/living-room-accent-wall-ideas-29.jpg' alt='40 Living Room Accent Wall Ideas To Give Your Room Style'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hello Hayley" />
+                                </span>
+                                <a href='https://www.hello-hayley.com/wp-content/uploads/2024/09/living-room-accent-wall-ideas-29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4 Wallpaper Ideas You Need to Try | by Décor Aid | Medium">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1000/1*SArpEyLFe6oK_R5BfkKjRA.jpeg' alt='4 Wallpaper Ideas You Need to Try | by Décor Aid | Medium'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1000/1*SArpEyLFe6oK_R5BfkKjRA.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Accent wall ideas - 12 simple design tips | Livingetc">
+                                <img itemprop="contentUrl url" src='https://cdn.mos.cms.futurecdn.net/u6djXAHMAj7gFp2GtSpih7.jpg' alt='Accent wall ideas - 12 simple design tips | Livingetc'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livingetc" />
+                                </span>
+                                <a href='https://cdn.mos.cms.futurecdn.net/u6djXAHMAj7gFp2GtSpih7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Living Room Accent Wall Ideas to Energize Your Space">
+                                <img itemprop="contentUrl url" src='https://www.thespruce.com/thmb/zjt9Lz6WO9VLCX4Anr-SRAFpmIs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ourperfectingmanor_84340051_193633578412444_4487529391133353813_n-31ed16db263c41428593a91336a4fb2f.jpg' alt='25 Living Room Accent Wall Ideas to Energize Your Space'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Spruce" />
+                                </span>
+                                <a href='https://www.thespruce.com/thmb/zjt9Lz6WO9VLCX4Anr-SRAFpmIs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ourperfectingmanor_84340051_193633578412444_4487529391133353813_n-31ed16db263c41428593a91336a4fb2f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Living Room Accent Wall Ideas to Energize Your Space">
+                                <img itemprop="contentUrl url" src='https://www.thespruce.com/thmb/qDC-eWxJy2yVSUCtUEf3h2D5te0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/SherriOakland0235-7f04c5022c894a78a448011239236d25.jpg' alt='25 Living Room Accent Wall Ideas to Energize Your Space'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Spruce" />
+                                </span>
+                                <a href='https://www.thespruce.com/thmb/qDC-eWxJy2yVSUCtUEf3h2D5te0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/SherriOakland0235-7f04c5022c894a78a448011239236d25.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

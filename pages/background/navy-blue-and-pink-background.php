@@ -1,0 +1,129 @@
+<title>Navy Blue & Pink Background Inspiration</title>
+                    <meta name="description" content="Explore creative ideas and designs featuring navy blue and pink backgrounds. Perfect for enhancing your projects, this dynamic color combination offers a striking visual contrast that captivates and engages. Unleash your creativity with these beautiful palettes for any occasion!">
+                    <meta name="keywords" content="navy blue and pink background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/navy-blue-and-pink-background">
+                            <span itemprop="name">navy blue and pink background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Navy Blue & Pink Background Inspiration</h1>
+                <p>Discover the stunning combination of navy blue and pink backgrounds that blend elegance and vibrancy. This pairing creates a visual treat, ideal for various design projects, whether personal or professional. The deep navy acts as a calming anchor, while the lively pink adds a playful touch, making your designs pop.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink and navy blue girly floral iPhone background wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3c/4d/9a/3c4d9a80a7b2aeb6363b8397e1198aa9.jpg' alt='Pink and navy blue girly floral iPhone background wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3c/4d/9a/3c4d9a80a7b2aeb6363b8397e1198aa9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Navy Blue Soft Pink Background Stock Vector (Royalty Free ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/abstract-navy-blue-soft-pink-260nw-745267561.jpg' alt='Abstract Navy Blue Soft Pink Background Stock Vector (Royalty Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/abstract-navy-blue-soft-pink-260nw-745267561.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Navy Blue Pink Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-painted-background-gradient-pink-blue_23-2148421201.jpg' alt='Navy Blue Pink Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-painted-background-gradient-pink-blue_23-2148421201.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Navy Blue And Pink Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/042/375/589/non_2x/multi-layers-color-texture-3d-papercut-layers-in-gradient-banner-carving-art-cover-layout-material-design-template-abstract-realistic-papercut-decoration-textured-with-cardboard-wavy-layers-vector.jpg' alt='Navy Blue And Pink Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1585">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/042/375/589/non_2x/multi-layers-color-texture-3d-papercut-layers-in-gradient-banner-carving-art-cover-layout-material-design-template-abstract-realistic-papercut-decoration-textured-with-cardboard-wavy-layers-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Meadow Wallpaper in Navy and Pink">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/1-SummerMeadow-NavyandPink_ILW50373_Thumbnail_WEB_1b74afba-90cf-4742-b437-61f4ce68c8bf.webp?crop=center&height=1024&v=1705932596&width=1024' alt='Summer Meadow Wallpaper in Navy and Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/1-SummerMeadow-NavyandPink_ILW50373_Thumbnail_WEB_1b74afba-90cf-4742-b437-61f4ce68c8bf.webp?crop=center&height=1024&v=1705932596&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="17,900+ Blue Pink Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1491344667/vector/blue-and-pink-abstract-blurred-cloudy-background.jpg?s=612x612&w=0&k=20&c=vRM87uuHX90NTTLjUStIoso527ZZKACawl22VbpHoMY=' alt='17,900+ Blue Pink Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1491344667/vector/blue-and-pink-abstract-blurred-cloudy-background.jpg?s=612x612&w=0&k=20&c=vRM87uuHX90NTTLjUStIoso527ZZKACawl22VbpHoMY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="abstract stained pattern texture rectangle background navy blue ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/02/51/03/84/1000_F_251038498_YnF2y3FLzSFlsc3zryRIvQlgCnskOdjn.jpg' alt='abstract stained pattern texture rectangle background navy blue ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/02/51/03/84/1000_F_251038498_YnF2y3FLzSFlsc3zryRIvQlgCnskOdjn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="24,249 Watercolor Navy Pink Background Images, Stock Photos, 3D ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/blue-pink-watercolor-brush-stroke-260nw-1246675408.jpg' alt='24,249 Watercolor Navy Pink Background Images, Stock Photos, 3D ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="520">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/blue-pink-watercolor-brush-stroke-260nw-1246675408.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Navy Blue Pink Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/abstract-background_955080-718.jpg?semt=ais_hybrid' alt='Navy Blue Pink Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/abstract-background_955080-718.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blush Pink Navy Blue Background Stock Photos - Free & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/blush-pink-navyblue-abstract-watercolor-hand-painted-landscape-pastel-romantic-horizontal-background-paint-washes-151406660.jpg' alt='Blush Pink Navy Blue Background Stock Photos - Free & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/blush-pink-navyblue-abstract-watercolor-hand-painted-landscape-pastel-romantic-horizontal-background-paint-washes-151406660.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

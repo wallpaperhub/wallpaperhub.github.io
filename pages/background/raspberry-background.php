@@ -1,0 +1,129 @@
+<title>Discover the Vibrant World of Raspberries</title>
+                    <meta name="description" content="Explore the delightful background of raspberries! Learn about their origin, health benefits, and culinary uses in just a few words. Perfect for fruit lovers and culinary enthusiasts!">
+                    <meta name="keywords" content="raspberry background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/raspberry-background">
+                            <span itemprop="name">raspberry background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Vibrant World of Raspberries</h1>
+                <p>Raspberries, known for their vibrant red color, belong to the genus Rubus and are native to Europe and North America. Packed with antioxidants, vitamins, and dietary fiber, they offer numerous health benefits. Their sweet-tart flavor makes them a popular choice in desserts, jams, and salads. Cultivation requires well-drained soil and proper sunlight.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11,800+ Raspberries Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1349231568/vector/raspberry-background-fresh-falling-realistic-raspberry-with-green-leaf-on-transparent.jpg?s=612x612&w=0&k=20&c=1a7Lv6HPPYSJlnCGCX4cUihiKDM7eXKvArt8MGSQThg=' alt='11,800+ Raspberries Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="482">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1349231568/vector/raspberry-background-fresh-falling-realistic-raspberry-with-green-leaf-on-transparent.jpg?s=612x612&w=0&k=20&c=1a7Lv6HPPYSJlnCGCX4cUihiKDM7eXKvArt8MGSQThg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Raspberry Background" Images – Browse 1,824 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/37/45/99/360_F_337459934_eI3rA3T4iKR7WQHdT4zj7CrEgpeZsOOM.jpg' alt='Raspberry Background" Images – Browse 1,824 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/37/45/99/360_F_337459934_eI3rA3T4iKR7WQHdT4zj7CrEgpeZsOOM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11,800+ Raspberries Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1319096995/vector/raspberries-seamless-pattern.jpg?s=612x612&w=0&k=20&c=A5BDQYVfv7FaH2CLX3ndo2rZDNnXCnrpVrL1s06A2KA=' alt='11,800+ Raspberries Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1319096995/vector/raspberries-seamless-pattern.jpg?s=612x612&w=0&k=20&c=A5BDQYVfv7FaH2CLX3ndo2rZDNnXCnrpVrL1s06A2KA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Raspberry Pictures [HD] | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1675731118517-c85b8cd0904c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmFzcGJlcnJ5fGVufDB8fDB8fHww' alt='Raspberry Pictures [HD] | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="5333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1675731118517-c85b8cd0904c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmFzcGJlcnJ5fGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11,800+ Raspberries Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1063683162/vector/raspberry-vector-seamless-pattern.jpg?s=612x612&w=0&k=20&c=kxagYp814ugiAUiEKRuO5CgwGpjr6PfhAAkdLRfGy70=' alt='11,800+ Raspberries Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1063683162/vector/raspberry-vector-seamless-pattern.jpg?s=612x612&w=0&k=20&c=kxagYp814ugiAUiEKRuO5CgwGpjr6PfhAAkdLRfGy70=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Raspberry Background Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/040/502/717/non_2x/ai-generated-pastel-berries-frame-with-green-leaves-raspberry-on-a-pastel-purple-background-high-quality-ai-generative-photo.jpg' alt='Raspberry Background Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1301">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/040/502/717/non_2x/ai-generated-pastel-berries-frame-with-green-leaves-raspberry-on-a-pastel-purple-background-high-quality-ai-generative-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Raspberries on a pink background. raspberry ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/raspberries-pink-background-raspberry-seamless-pattern_925219-9.jpg' alt='Premium Vector | Raspberries on a pink background. raspberry ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/raspberries-pink-background-raspberry-seamless-pattern_925219-9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Raspberry Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/39/64/18/396418cc6dfaf6eda4db9aa66c2d76a9.jpg' alt='Raspberry Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/39/64/18/396418cc6dfaf6eda4db9aa66c2d76a9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Seamless pattern with raspberry Berries abstract ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/seamless-pattern-with-raspberry-berries-abstract-background-raspberry-pattern-package-design_174533-2515.jpg' alt='Premium Photo | Seamless pattern with raspberry Berries abstract ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/seamless-pattern-with-raspberry-berries-abstract-background-raspberry-pattern-package-design_174533-2515.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Raspberry Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/colorful-hand-drawn-raspberry-pattern_53876-3000.jpg' alt='Raspberry Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/colorful-hand-drawn-raspberry-pattern_53876-3000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

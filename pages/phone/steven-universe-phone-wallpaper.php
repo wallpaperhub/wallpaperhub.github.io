@@ -1,0 +1,129 @@
+<title>Stunning Steven Universe Phone Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore our fantastic range of Steven Universe phone wallpapers! Perfect for fans, our wallpapers transform your device with colorful designs and beloved characters. Download today and let the magic of Steven Universe brighten your phone screen!">
+                    <meta name="keywords" content="steven universe phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/steven-universe-phone-wallpaper">
+                            <span itemprop="name">steven universe phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Steven Universe Phone Wallpapers for Your Device</h1>
+                <p>Discover the magic of Steven Universe with a vibrant collection of phone wallpapers! From the enchanting Crystal Gems to beautiful landscapes, our wallpapers bring the show's charm to your device. Perfect for fans who want to showcase their love for the series! Customize your screen today and immerse yourself in Steven's universe!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Steven Universe Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/steven-universe-phone-8szi3exmb4z8f7bv.jpg' alt='100+] Steven Universe Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/steven-universe-phone-8szi3exmb4z8f7bv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD steven universe wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/90/139/HD-wallpaper-steven-universe-thumbnail.jpg' alt='HD steven universe wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/90/139/HD-wallpaper-steven-universe-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="steven universe phone wallpapers? : r/stevenuniverse">
+                                <img itemprop="contentUrl url" src='http://41.media.tumblr.com/00aab74b2393fdafb76b9e83310dd62c/tumblr_noj436GH481sxagvto6_1280.jpg' alt='steven universe phone wallpapers? : r/stevenuniverse'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="623">
+                                <meta itemprop="height" content="1039">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://41.media.tumblr.com/00aab74b2393fdafb76b9e83310dd62c/tumblr_noj436GH481sxagvto6_1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Make A Wallpaper For Your Phone | CellularNews">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/52/5b/f9/525bf98a6b84b433e3768d4a8142c7e1.jpg' alt='How To Make A Wallpaper For Your Phone | CellularNews'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="325">
+                                <meta itemprop="height" content="485">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/52/5b/f9/525bf98a6b84b433e3768d4a8142c7e1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="#wallpaper #aesthetic #fypシ゚viral #stevenuniverse #scenic | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7385054386101243178&location=0&aid=1988' alt='#wallpaper #aesthetic #fypシ゚viral #stevenuniverse #scenic | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7385054386101243178&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Steven Universe Calling! Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/steven-universe-phone-axjbaf7o70tyh88n.jpg' alt='Download Steven Universe Calling! Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="884">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/steven-universe-phone-axjbaf7o70tyh88n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do you have a SU phone wallpaper? : r/stevenuniverse">
+                                <img itemprop="contentUrl url" src='http://www.nerdspan.com/wp-content/uploads/2014/08/Steven-Universe-4-Variant-2.jpg' alt='Do you have a SU phone wallpaper? : r/stevenuniverse'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="994">
+                                <meta itemprop="height" content="1528">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://www.nerdspan.com/wp-content/uploads/2014/08/Steven-Universe-4-Variant-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steven Universe - Top 45 Best Steven Universe Background, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/307/375/HD-wallpaper-steven-universe-top-45-best-steven-universe-background.jpg' alt='Steven Universe - Top 45 Best Steven Universe Background, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/307/375/HD-wallpaper-steven-universe-top-45-best-steven-universe-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Garnet (Steven Universe) Wallpapers (40 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/b/8/e/1179060-1080x1920-samsung-1080p-garnet-steven-universe-wallpaper-photo.jpg' alt='Garnet (Steven Universe) Wallpapers (40 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/b/8/e/1179060-1080x1920-samsung-1080p-garnet-steven-universe-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Free download Steven Universe Peridot iPhone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/47/23/80/472380dde3b4e71f883344b738792dcc.jpg' alt='   Free download Steven Universe Peridot iPhone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="539">
+                                <meta itemprop="height" content="899">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/47/23/80/472380dde3b4e71f883344b738792dcc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

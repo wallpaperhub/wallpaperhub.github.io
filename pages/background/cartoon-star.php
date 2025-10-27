@@ -1,0 +1,129 @@
+<title>Iconic Cartoon Stars: A Journey Through Animation</title>
+                    <meta name="description" content="Explore the enchanting world of cartoon stars, from classic favorites to modern icons. Discover how these beloved characters shape our culture and inspire creativity. Join the fun and dive into the vibrant adventures that make cartoon stars unforgettable!">
+                    <meta name="keywords" content="cartoon star">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cartoon-star">
+                            <span itemprop="name">cartoon star</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Iconic Cartoon Stars: A Journey Through Animation</h1>
+                <p>Cartoon stars captivate audiences with their vibrant personalities and colorful adventures. These animated icons, like SpongeBob SquarePants and Mickey Mouse, transcend generations, becoming timeless figures in pop culture. Through humor and creativity, cartoon stars enrich our lives and inspire imaginations, making every moment memorable.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon Star Stock Illustrations – 427,294 Cartoon Star Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/five-pointed-yellow-star-icon-cartoon-style-illustration-vector-web-design-83126167.jpg' alt='Cartoon Star Stock Illustrations – 427,294 Cartoon Star Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/five-pointed-yellow-star-icon-cartoon-style-illustration-vector-web-design-83126167.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon Star Images – Browse 1,432,840 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/09/74/65/99/360_F_974659947_0GRTW2Urqxt2dwaYgYdcV0M9wtk11Kxa.jpg' alt='Cartoon Star Images – Browse 1,432,840 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/09/74/65/99/360_F_974659947_0GRTW2Urqxt2dwaYgYdcV0M9wtk11Kxa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon Gold Star - Openclipart">
+                                <img itemprop="contentUrl url" src='https://openclipart.org/image/2000px/262404' alt='Cartoon Gold Star - Openclipart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1999">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Openclipart" />
+                                </span>
+                                <a href='https://openclipart.org/image/2000px/262404' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Cartoon Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/shiny-yellow-star-orange-outline_78370-4659.jpg?semt=ais_hybrid' alt='Star Cartoon Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/shiny-yellow-star-orange-outline_78370-4659.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon Star Stock Illustrations – 427,294 Cartoon Star Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/cartoon-little-star-vector-illustration-design-element-43670778.jpg' alt='Cartoon Star Stock Illustrations – 427,294 Cartoon Star Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/cartoon-little-star-vector-illustration-design-element-43670778.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AI generated cartoon star character 41452402 PNG">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/041/452/402/non_2x/ai-generated-cartoon-star-character-free-png.png' alt='AI generated cartoon star character 41452402 PNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/041/452/402/non_2x/ai-generated-cartoon-star-character-free-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Cartoon Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/cartoon-star-icon-vector-illustration_444196-1109.jpg' alt='Star Cartoon Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="591">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/cartoon-star-icon-vector-illustration_444196-1109.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon Star Clipart in Illustrator, SVG, JPG, EPS, PNG - Download ...">
+                                <img itemprop="contentUrl url" src='https://images.template.net/74961/Free-cartoon-star-clipart-01-1.jpg' alt='Cartoon Star Clipart in Illustrator, SVG, JPG, EPS, PNG - Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template.net" />
+                                </span>
+                                <a href='https://images.template.net/74961/Free-cartoon-star-clipart-01-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star cartoon icon image Royalty Free Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn4.vectorstock.com/i/1000x1000/55/53/star-cartoon-icon-image-vector-19225553.jpg' alt='Star cartoon icon image Royalty Free Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1020">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn4.vectorstock.com/i/1000x1000/55/53/star-cartoon-icon-image-vector-19225553.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon Stars Drawing - How To Draw Cartoon Stars Step By Step">
+                                <img itemprop="contentUrl url" src='https://iheartcraftythings.com/wp-content/uploads/2022/02/Stars-6-01.png' alt='Cartoon Stars Drawing - How To Draw Cartoon Stars Step By Step'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4167">
+                                <meta itemprop="height" content="5834">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Heart Crafty Things" />
+                                </span>
+                                <a href='https://iheartcraftythings.com/wp-content/uploads/2022/02/Stars-6-01.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

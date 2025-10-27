@@ -1,0 +1,129 @@
+<title>Stunning Galaxy Lock Screen Wallpapers: Personalize Your Device</title>
+                    <meta name="description" content="Discover a wide range of breathtaking wallpapers for your Galaxy lock screen. Personalize your device with unique designs that showcase your style and make every glance at your phone a delight. Explore our collection for the perfect wallpaper today!">
+                    <meta name="keywords" content="lock screen galaxy wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/lock-screen-galaxy-wallpaper">
+                            <span itemprop="name">lock screen galaxy wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Galaxy Lock Screen Wallpapers: Personalize Your Device</h1>
+                <p>Transform your Galaxy device's lock screen with stunning wallpapers that reflect your style. From breathtaking landscapes to minimalist designs, these wallpapers not only enhance the aesthetic appeal of your phone but also personalize your experience. Explore a variety of options and find the perfect match for you!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Lock Screen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c7/2b/91/c72b914394d83e25f45839ab25b534c1.jpg' alt='Galaxy Lock Screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c7/2b/91/c72b914394d83e25f45839ab25b534c1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Milky Way Ocean Lock Screen Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/milky-way-ocean-lock-screen-7cva8yzfj5qa0g2l.jpg' alt='Milky Way Ocean Lock Screen Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/milky-way-ocean-lock-screen-7cva8yzfj5qa0g2l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Blue Galaxy Lock Screen Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/purple-blue-galaxy-lock-screen-wlde8prqlx009029.jpg' alt='Purple Blue Galaxy Lock Screen Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1040">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/purple-blue-galaxy-lock-screen-wlde8prqlx009029.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Noé on background | Samsung lock screen wallpaper, Galaxy ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fd/62/bc/fd62bc1055859c9ecf642ea5da55eaec.jpg' alt='Pin by Noé on background | Samsung lock screen wallpaper, Galaxy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fd/62/bc/fd62bc1055859c9ecf642ea5da55eaec.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Galaxy Wolves Iphone Lock Screen Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/galaxy-wolves-8orbezep1w19zi5k.jpg' alt='Download Galaxy Wolves Iphone Lock Screen Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/galaxy-wolves-8orbezep1w19zi5k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Believe, edge, love, galaxy, screen, scare, us, people, colorful ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/575/711/HD-wallpaper-believe-edge-love-galaxy-screen-scare-us-people-colorful-quote-lock-screen.jpg' alt='Believe, edge, love, galaxy, screen, scare, us, people, colorful ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/575/711/HD-wallpaper-believe-edge-love-galaxy-screen-scare-us-people-colorful-quote-lock-screen.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD samsung lock screen wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/1018/263/HD-wallpaper-amoled-black-lock-screen-samsung-space-sunset.jpg' alt='HD samsung lock screen wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/1018/263/HD-wallpaper-amoled-black-lock-screen-samsung-space-sunset.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy S5 Space Lock Screen Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/galaxy-s5-space-lock-screen-qr0rjaoul6esk2jm.jpg' alt='Galaxy S5 Space Lock Screen Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/galaxy-s5-space-lock-screen-qr0rjaoul6esk2jm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper] Very Good Lock Screen 720x1280 Galaxy S3 Wallpaper HD">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5d/33/b5/5d33b5278f328dd8291cf5d82b9e32b0.jpg' alt='Wallpaper] Very Good Lock Screen 720x1280 Galaxy S3 Wallpaper HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5d/33/b5/5d33b5278f328dd8291cf5d82b9e32b0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download the new lock screen wallpaper from Samsung Galaxy Note 4 ...">
+                                <img itemprop="contentUrl url" src='https://androidmagazine.eu/wp-content/uploads/2014/09/galaxy-note-4-lock-screen-wallpaper.jpg' alt='Download the new lock screen wallpaper from Samsung Galaxy Note 4 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="861">
+                                <meta itemprop="height" content="1522">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Android Magazine" />
+                                </span>
+                                <a href='https://androidmagazine.eu/wp-content/uploads/2014/09/galaxy-note-4-lock-screen-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

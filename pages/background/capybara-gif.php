@@ -1,0 +1,129 @@
+<title>Adorable Capybara GIFs: A Dose of Cuteness</title>
+                    <meta name="description" content="Explore the charming world of capybara gifs! Discover endless cuteness and joyful moments with these friendly rodents. Perfect for sharing on social media or brightening your day anytime. Dive into a delightful collection of capybara antics that will make you smile!">
+                    <meta name="keywords" content="capybara gif">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/capybara-gif">
+                            <span itemprop="name">capybara gif</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Capybara GIFs: A Dose of Cuteness</h1>
+                <p>Capybaras are the largest rodents in the world, and they're known for their friendly and sociable nature. Watching a capybara gif is like experiencing pure joy! From lounging in the sun to splashing in water, these adorable creatures bring smiles and calm vibes. Perfect for sharing with friends or adding a touch of cuteness to any day!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Capybara Gif GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/2UVcaTGegxoAAAAM/%D0%BA%D0%B0%D0%BF%D0%B8%D0%B1%D0%B0%D1%80%D0%B0.gif' alt='Capybara Gif GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="165">
+                                <meta itemprop="height" content="242">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/2UVcaTGegxoAAAAM/%D0%BA%D0%B0%D0%BF%D0%B8%D0%B1%D0%B0%D1%80%D0%B0.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Capybara Gif - IceGif">
+                                <img itemprop="contentUrl url" src='https://www.icegif.com/wp-content/uploads/2023/10/icegif-919.gif' alt='Capybara Gif - IceGif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="278">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IceGif" />
+                                </span>
+                                <a href='https://www.icegif.com/wp-content/uploads/2023/10/icegif-919.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="These Gifs Prove Capybaras Are Definitely One Of Our Best Spirit ...">
+                                <img itemprop="contentUrl url" src='https://i.chzbgr.com/full/9292157696/hE57BA7E2/vertebrate' alt='These Gifs Prove Capybaras Are Definitely One Of Our Best Spirit ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cheezburger" />
+                                </span>
+                                <a href='https://i.chzbgr.com/full/9292157696/hE57BA7E2/vertebrate' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="capybara GIF by Nat Geo Wild - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media1.giphy.com/media/3ohjUU9dzzAMMUQ6t2/giphy.gif?cid=6c09b952p6uwt89t2qodv6jga3q5uske21w6xzrjsfj8e4t2&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' alt='capybara GIF by Nat Geo Wild - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media1.giphy.com/media/3ohjUU9dzzAMMUQ6t2/giphy.gif?cid=6c09b952p6uwt89t2qodv6jga3q5uske21w6xzrjsfj8e4t2&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="capybara gifs for the stressed student | The Odyssey Online">
+                                <img itemprop="contentUrl url" src='https://www.theodysseyonline.com/media-library/image.gif?id=18206718&width=980' alt='capybara gifs for the stressed student | The Odyssey Online'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="224">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Odyssey Online" />
+                                </span>
+                                <a href='https://www.theodysseyonline.com/media-library/image.gif?id=18206718&width=980' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Capybara Gif - IceGif">
+                                <img itemprop="contentUrl url" src='https://www.icegif.com/wp-content/uploads/2022/09/icegif-280.gif' alt='Capybara Gif - IceGif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="413">
+                                <meta itemprop="height" content="498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IceGif" />
+                                </span>
+                                <a href='https://www.icegif.com/wp-content/uploads/2022/09/icegif-280.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Capybara GIF by VICE España - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/a5/0b/1d/a50b1ddf08ff225eef3caa7353f59f48.gif' alt='Capybara GIF by VICE España - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/a5/0b/1d/a50b1ddf08ff225eef3caa7353f59f48.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Capibara GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media1.giphy.com/media/5QXWRp1CNGnMnZunC3/giphy.gif?cid=6c09b952g60pg3ohb2smbgtyuer0homx6ckpudbwtbu9pgmr&ep=v1_gifs_search&rid=giphy.gif&ct=g' alt='Capibara GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media1.giphy.com/media/5QXWRp1CNGnMnZunC3/giphy.gif?cid=6c09b952g60pg3ohb2smbgtyuer0homx6ckpudbwtbu9pgmr&ep=v1_gifs_search&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="capybara gifs for the stressed student | The Odyssey Online">
+                                <img itemprop="contentUrl url" src='https://media.giphy.com/media/iEhQztLR7IKQ0/giphy.gif' alt='capybara gifs for the stressed student | The Odyssey Online'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="269">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Odyssey Online" />
+                                </span>
+                                <a href='https://media.giphy.com/media/iEhQztLR7IKQ0/giphy.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Capybara Sticker - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media2.giphy.com/media/BJm2BtzkT86MSUnDDE/giphy.gif?cid=6c09b952qnbxbtq8vuh6t6icrn6r08oj09ql7k1nhsnujwjo&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s' alt='Happy Capybara Sticker - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media2.giphy.com/media/BJm2BtzkT86MSUnDDE/giphy.gif?cid=6c09b952qnbxbtq8vuh6t6icrn6r08oj09ql7k1nhsnujwjo&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

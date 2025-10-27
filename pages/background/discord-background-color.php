@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="discord background color">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/discord-background-color">
+                            <span itemprop="name">discord background color</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Discord Color Palette">
+                                <img itemprop="contentUrl url" src='https://www.color-hex.com/palettes/28549.png' alt='Discord Color Palette'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Color Hex" />
+                                </span>
+                                <a href='https://www.color-hex.com/palettes/28549.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Discord's background color changed with an update. How can I ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/discords-background-color-changed-with-an-update-how-can-i-v0-hl2075qds6va1.png?width=640&crop=smart&auto=webp&s=991592eb0642d99b9e48df50f7b6e33c061bcd86' alt='Discord's background color changed with an update. How can I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="257">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/discords-background-color-changed-with-an-update-how-can-i-v0-hl2075qds6va1.png?width=640&crop=smart&auto=webp&s=991592eb0642d99b9e48df50f7b6e33c061bcd86' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Discord Embed Color | Hex code: #2f3136 colors palette - ColorsWall">
+                                <img itemprop="contentUrl url" src='https://colorswall.com/images/palettes/discord-embed-color-hex-code-2f3136-200396-colorswall.png' alt='Discord Embed Color | Hex code: #2f3136 colors palette - ColorsWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ColorsWall" />
+                                </span>
+                                <a href='https://colorswall.com/images/palettes/discord-embed-color-hex-code-2f3136-200396-colorswall.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="So I've been trying to get the perfect color to match the dark ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/f2cmqxf6lnq21.jpg?width=640&crop=smart&auto=webp&s=e077a809cfc5d2c84a009f0205086d5e3ce4787d' alt='So I've been trying to get the perfect color to match the dark ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/f2cmqxf6lnq21.jpg?width=640&crop=smart&auto=webp&s=e077a809cfc5d2c84a009f0205086d5e3ce4787d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="discord » Beautiful Color Palettes for Your Next Design · Loading.io">
+                                <img itemprop="contentUrl url" src='https://file.loading.io/color/feature/detail/discord.png' alt='discord » Beautiful Color Palettes for Your Next Design · Loading.io'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Loading.io" />
+                                </span>
+                                <a href='https://file.loading.io/color/feature/detail/discord.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Discord Colors Palette - Blue, Black, White">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5d/58/4a/5d584a89e165345f070f5193a266d518.jpg' alt='Discord Colors Palette - Blue, Black, White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="471">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5d/58/4a/5d584a89e165345f070f5193a266d518.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Discord 2023 colors palette - ColorsWall">
+                                <img itemprop="contentUrl url" src='https://colorswall.com/images/palettes/discord-2023-230433-colorswall.png' alt='Discord 2023 colors palette - ColorsWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ColorsWall" />
+                                </span>
+                                <a href='https://colorswall.com/images/palettes/discord-2023-230433-colorswall.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Discord Grays Color Palette">
+                                <img itemprop="contentUrl url" src='https://www.color-hex.com/palettes/45285.png' alt='Discord Grays Color Palette'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Color Hex" />
+                                </span>
+                                <a href='https://www.color-hex.com/palettes/45285.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Discord Colors CAS Backgrounds – Katverse">
+                                <img itemprop="contentUrl url" src='https://i2.wp.com/katverse.com/wp-content/uploads/2020/05/Dark-but-not-black.png?fit=4320%2C4320&ssl=1' alt='Discord Colors CAS Backgrounds – Katverse'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4320">
+                                <meta itemprop="height" content="4320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Katverse" />
+                                </span>
+                                <a href='https://i2.wp.com/katverse.com/wp-content/uploads/2020/05/Dark-but-not-black.png?fit=4320%2C4320&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Discord Color Palette | HEX, RGB & HSL">
+                                <img itemprop="contentUrl url" src='https://www.onlinepalette.com/wp-content/uploads/2019/12/discord-source.png' alt='Discord Color Palette | HEX, RGB & HSL'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="990">
+                                <meta itemprop="height" content="897">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Online Palette" />
+                                </span>
+                                <a href='https://www.onlinepalette.com/wp-content/uploads/2019/12/discord-source.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

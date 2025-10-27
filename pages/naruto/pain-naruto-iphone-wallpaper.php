@@ -1,0 +1,129 @@
+<title>Stunning Pain Naruto iPhone Wallpapers for Fans</title>
+                    <meta name="description" content="Discover captivating Pain Naruto iPhone wallpapers that enhance your device's style. Perfect for true anime enthusiasts, these vibrant designs showcase Pain's iconic look and bring the world of Naruto right to your screen. Download now to personalize your iPhone with striking art!">
+                    <meta name="keywords" content="pain naruto iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/naruto">
+                            <span itemprop="name">Naruto</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/naruto/pain-naruto-iphone-wallpaper">
+                            <span itemprop="name">pain naruto iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Pain Naruto iPhone Wallpapers for Fans</h1>
+                <p>Transform your iPhone's look with stunning Pain Naruto wallpapers! Featuring vibrant designs that capture the intensity and depth of Pain's character, these wallpapers will elevate your device's aesthetic. Ideal for fans of the Naruto series, each wallpaper brings a piece of shinobi history to your screen, making your iPhone truly unique.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made a pain wallpaper for iPhone. Hope you like it. : r/Naruto">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/zj01rl7civc51.jpg' alt='Made a pain wallpaper for iPhone. Hope you like it. : r/Naruto'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/zj01rl7civc51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pain iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b1/38/78/b138780eb8d6b9926078761e73cf3ffd.jpg' alt='Pain iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b1/38/78/b138780eb8d6b9926078761e73cf3ffd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Naruto Pain 4k Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/naruto-pain-4k-v44i709xqblp483l.jpg' alt='100+] Naruto Pain 4k Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/naruto-pain-4k-v44i709xqblp483l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pain, pain, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/856/668/HD-wallpaper-pain-pain.jpg' alt='Pain, pain, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/856/668/HD-wallpaper-pain-pain.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pain Akatsuki, android, anime, , iphone, japan, japon, naruto, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/1013/263/HD-wallpaper-pain-akatsuki-android-anime-fondo-de-pantalla-iphone-japan-japon-naruto.jpg' alt='Pain Akatsuki, android, anime, , iphone, japan, japon, naruto, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/1013/263/HD-wallpaper-pain-akatsuki-android-anime-fondo-de-pantalla-iphone-japan-japon-naruto.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Akatsuki pain yahiko | Naruto painting, Naruto, Pain naruto">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/13/59/b3/1359b33ab5149043f14b18a22ceefd05.jpg' alt='Akatsuki pain yahiko | Naruto painting, Naruto, Pain naruto'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/13/59/b3/1359b33ab5149043f14b18a22ceefd05.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pain, naruto, nagato, yahiko, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/162/753/HD-wallpaper-pain-naruto-nagato-yahiko.jpg' alt='Pain, naruto, nagato, yahiko, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/162/753/HD-wallpaper-pain-naruto-nagato-yahiko.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Wallpaper iphone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a2/92/72/a2927277a9c86426072f568a58233b7c.jpg' alt='HD Wallpaper iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a2/92/72/a2927277a9c86426072f568a58233b7c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Powerful Connection: Naruto And Pain Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/powerful-connection-naruto-and-pain-vtvti391mk90v4sj.jpg' alt='Powerful Connection: Naruto And Pain Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/powerful-connection-naruto-and-pain-vtvti391mk90v4sj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto Pain Akatsuki Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=6927057020331871490&location=0&aid=1988' alt='Naruto Pain Akatsuki Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=6927057020331871490&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

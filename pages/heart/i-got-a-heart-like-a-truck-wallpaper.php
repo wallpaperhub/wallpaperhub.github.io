@@ -1,0 +1,129 @@
+<title>I Got a Heart Like a Truck Wallpaper: Bold & Unique Design</title>
+                    <meta name="description" content="Discover "I Got a Heart Like a Truck" wallpaper! Ideal for adding strength and style to your space. Our durable, easy-to-install wallpaper is perfect for any room, creating a vibrant atmosphere. Embrace your love for country themes today!">
+                    <meta name="keywords" content="i got a heart like a truck wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart">
+                            <span itemprop="name">Heart</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart/i-got-a-heart-like-a-truck-wallpaper">
+                            <span itemprop="name">i got a heart like a truck wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>I Got a Heart Like a Truck Wallpaper: Bold & Unique Design</h1>
+                <p>Transform your space with "I Got a Heart Like a Truck" wallpaper, featuring bold designs and striking colors. This wallpaper captures the spirit of resilience and strength, perfect for those who love country vibes. It's durable, easy to apply, and adds a unique touch to any room. Make a statement today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I got a heart like a truck png sublimation design download, western truck  png, western png background, sublimate designs download">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/39257251/r/il/9032e8/4538556567/il_570xN.4538556567_he64.jpg' alt='I got a heart like a truck png sublimation design download, western truck  png, western png background, sublimate designs download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/39257251/r/il/9032e8/4538556567/il_570xN.4538556567_he64.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Got heart like a truck">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/80/6e/b4/806eb447be01da45729e1fc0fff739a9.jpg' alt='Got heart like a truck'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/80/6e/b4/806eb447be01da45729e1fc0fff739a9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart like a truck Sublimation PNG">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/31442143/r/il/8fcfd4/4468819534/il_fullxfull.4468819534_tw8r.jpg' alt='Heart like a truck Sublimation PNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/31442143/r/il/8fcfd4/4468819534/il_fullxfull.4468819534_tw8r.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Got A Heart Like A Truck PNG, Retro Western Sublimation">
+                                <img itemprop="contentUrl url" src='https://i.fbcd.co/products/original/wt230306-10-mk1-ee5c28d450725bd7c0a6a85382e94d3ee228f07834a6c82545106fe82c76a2ec.jpg' alt='I Got A Heart Like A Truck PNG, Retro Western Sublimation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Bundles" />
+                                </span>
+                                <a href='https://i.fbcd.co/products/original/wt230306-10-mk1-ee5c28d450725bd7c0a6a85382e94d3ee228f07834a6c82545106fe82c76a2ec.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lainey Wilson Heart Like A Truck Graphic">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35465447/r/il/ca5f96/5251192620/il_fullxfull.5251192620_ligh.jpg' alt='Lainey Wilson Heart Like A Truck Graphic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2318">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35465447/r/il/ca5f96/5251192620/il_fullxfull.5251192620_ligh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Got A Heart Like A Truck PNG, Western Bull Skull PNG">
+                                <img itemprop="contentUrl url" src='https://i.fbcd.co/products/original/wt230320-1-mk1-9692e58ba9dcf00d7105f94b1a623878dcc63c5dcab64f6e6b71ef5a30a33000.jpg' alt='I Got A Heart Like A Truck PNG, Western Bull Skull PNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Bundles" />
+                                </span>
+                                <a href='https://i.fbcd.co/products/original/wt230320-1-mk1-9692e58ba9dcf00d7105f94b1a623878dcc63c5dcab64f6e6b71ef5a30a33000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart Like A Truck PNG Lainey Wilson PNG Western PNG - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/36938644/r/il/6dbc47/4513508616/il_fullxfull.4513508616_nxtb.jpg' alt='Heart Like A Truck PNG Lainey Wilson PNG Western PNG - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2700">
+                                <meta itemprop="height" content="2025">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/36938644/r/il/6dbc47/4513508616/il_fullxfull.4513508616_nxtb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart Like A Truck Wallpaper | Country lyrics quotes, Country ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b0/1b/f7/b01bf7b6381312b5cb604a3f8cd656a3.jpg' alt='Heart Like A Truck Wallpaper | Country lyrics quotes, Country ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b0/1b/f7/b01bf7b6381312b5cb604a3f8cd656a3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Got A Heart Like A Truck PNG, Retro Western Sublimation">
+                                <img itemprop="contentUrl url" src='https://i.fbcd.co/products/resized/resized-750-500/wt230403-8-mk1-09392a862a0688cb09215fd515f283921af523c137da990aec7611358da2ebbd.jpg' alt='I Got A Heart Like A Truck PNG, Retro Western Sublimation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Bundles" />
+                                </span>
+                                <a href='https://i.fbcd.co/products/resized/resized-750-500/wt230403-8-mk1-09392a862a0688cb09215fd515f283921af523c137da990aec7611358da2ebbd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Got a Heart Like a Truck Tumbler Print Design PNG">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c2/6f/66/c26f668625aee13e5640b55ee295ac5a.jpg' alt='I Got a Heart Like a Truck Tumbler Print Design PNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="662">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c2/6f/66/c26f668625aee13e5640b55ee295ac5a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

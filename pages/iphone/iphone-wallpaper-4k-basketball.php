@@ -1,0 +1,129 @@
+<title>4K Basketball Wallpapers for iPhone</title>
+                    <meta name="description" content="Discover the ultimate collection of 4K basketball wallpapers for your iPhone. Transform your device with high-definition images that celebrate the sport and your favorite players. Perfect for basketball enthusiasts, these wallpapers are designed to impress. Download now and enhance your phone's look!">
+                    <meta name="keywords" content="iphone wallpaper 4k basketball">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-wallpaper-4k-basketball">
+                            <span itemprop="name">iphone wallpaper 4k basketball</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>4K Basketball Wallpapers for iPhone</h1>
+                <p>Elevate your iPhone's style with stunning 4K basketball wallpapers! Perfect for fans and players alike, these high-definition images showcase the energy and excitement of the game. Whether you prefer dunk shots, iconic moments, or your favorite teams, there's a wallpaper to match your passion. Download now and personalize your device!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 11 Basketball 4K Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp5526719.jpg' alt='iPhone 11 Basketball 4K Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp5526719.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ja Morant Cool 4k Iphone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/morant-17_63841216245845.4.jpg' alt='Ja Morant Cool 4k Iphone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Hackster" />
+                                </span>
+                                <a href='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/morant-17_63841216245845.4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Nba Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/nba-iphone-r3s6mh8eue4yntdn.jpg' alt='200+] Nba Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/nba-iphone-r3s6mh8eue4yntdn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lebron James NBA Basketball Dunk iPhone 6 Wallpaper Download ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/87/d5/0f/87d50f74b04fbdc69fd12994f5c317c9.jpg' alt='Lebron James NBA Basketball Dunk iPhone 6 Wallpaper Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/87/d5/0f/87d50f74b04fbdc69fd12994f5c317c9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900+ Iphone wallpapers ideas in 2025 | nba wallpapers, nba players ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/17/98/df/1798df9f2049f282edc0d4f7e0dd38ae.jpg' alt='900+ Iphone wallpapers ideas in 2025 | nba wallpapers, nba players ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/17/98/df/1798df9f2049f282edc0d4f7e0dd38ae.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Basketball iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp4970742.jpg' alt='Basketball iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp4970742.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nba Iphone HD Wallpapers (200++) - MrWallpaper.com">
+                                <img itemprop="contentUrl url" src='https://mrwallpaper.com/images/hd/cool-michael-jordan-lomography-v3ibc42qhtwsh8u3.jpg' alt='Nba Iphone HD Wallpapers (200++) - MrWallpaper.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="655">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrWallpaper" />
+                                </span>
+                                <a href='https://mrwallpaper.com/images/hd/cool-michael-jordan-lomography-v3ibc42qhtwsh8u3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NBA Basketball iPhone 8 Wallpaper - 2025 Basketball Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/20/9f/6b/209f6b14f270288437fa6f5de81d6097.jpg' alt='NBA Basketball iPhone 8 Wallpaper - 2025 Basketball Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/20/9f/6b/209f6b14f270288437fa6f5de81d6097.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mobile Phone Backgrounds | NBA.com">
+                                <img itemprop="contentUrl url" src='https://cdn.nba.com/teams/uploads/sites/1610612741/2022/05/2122-mobile-wallpaper-01.webp' alt='Mobile Phone Backgrounds | NBA.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBA.Com" />
+                                </span>
+                                <a href='https://cdn.nba.com/teams/uploads/sites/1610612741/2022/05/2122-mobile-wallpaper-01.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Nba iPhone HD Wallpapers - iLikeWallpaper">
+                                <img itemprop="contentUrl url" src='https://r1.ilikewallpaper.net/iphone-12-pro-max-wallpapers/download-112301/Los-Angeles-Lakers-Kobe-Bryant-Basketball-Player-N.jpg' alt='Best Nba iPhone HD Wallpapers - iLikeWallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iLikeWallpaper" />
+                                </span>
+                                <a href='https://r1.ilikewallpaper.net/iphone-12-pro-max-wallpapers/download-112301/Los-Angeles-Lakers-Kobe-Bryant-Basketball-Player-N.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

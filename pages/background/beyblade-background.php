@@ -1,0 +1,129 @@
+<title>Discover the Exciting World of Beyblade!</title>
+                    <meta name="description" content="Explore the thrilling universe of Beyblade! From its Japanese origins to global fame, dive into the battles, strategies, and community. Perfect for enthusiasts and newcomers alike, this guide will help you master the art of spinning top combat. Join the adventure today!">
+                    <meta name="keywords" content="beyblade background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/beyblade-background">
+                            <span itemprop="name">beyblade background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Exciting World of Beyblade!</h1>
+                <p>Beyblade, a spinning top game, originated in Japan in the late 1990s, inspired by traditional spinning tops. It gained global popularity through an animated series and manga, captivating audiences with thrilling battles and unique customization options. Players collect and battle various Beyblades, fostering community and competition.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beyblade Wallpaper - NawPic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/31/f1/a6/31f1a65c040685642be64ca2654c220b.jpg' alt='Beyblade Wallpaper - NawPic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/31/f1/a6/31f1a65c040685642be64ca2654c220b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Beyblade Burst Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/beyblade-burst-uwzp7nlsa9j60adm.jpg' alt='100+] Beyblade Burst Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1081">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/beyblade-burst-uwzp7nlsa9j60adm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beyblade Wallpaper | WhatsPaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c4/cc/fd/c4ccfd4bc8925807d533fef67d510c1c.jpg' alt='Beyblade Wallpaper | WhatsPaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="816">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c4/cc/fd/c4ccfd4bc8925807d533fef67d510c1c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Beyblade Background | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/beyblade-background-ymzfpvv0d7dxy93n.jpg' alt='Download Beyblade Background | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1192">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/beyblade-background-ymzfpvv0d7dxy93n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Valt Aoi Anime Beyblade Burst HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/118/1184502.jpg' alt='Download Valt Aoi Anime Beyblade Burst HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/118/1184502.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="beyblade cool backrounds - Google Search">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/a8/e8/11/a8e811937552a91fedb8ce7e71426d87.jpg' alt='beyblade cool backrounds - Google Search'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/a8/e8/11/a8e811937552a91fedb8ce7e71426d87.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beyblade Backdrop Banner Party Supplies Poster Theme Background for  Photography Kids Birthday Decorations">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Beyblade-Backdrop-Banner-Party-Supplies-Poster-Movie-Theme-Background-for-Photography-Kids-Birthday-Decorations_cb751507-c438-4c20-87fe-5b500664a24c.3eec6e2a19f54432f39e1ce280e80145.jpeg' alt='Beyblade Backdrop Banner Party Supplies Poster Theme Background for  Photography Kids Birthday Decorations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Beyblade-Backdrop-Banner-Party-Supplies-Poster-Movie-Theme-Background-for-Photography-Kids-Birthday-Decorations_cb751507-c438-4c20-87fe-5b500664a24c.3eec6e2a19f54432f39e1ce280e80145.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper version of the latest Key Visual of Beyblade X : r/Beyblade">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/wallpaper-version-of-the-latest-key-visual-of-beyblade-x-v0-harejt0fep4b1.png?auto=webp&s=3e6cc6b2749865b4fafc0b07840a432b87c8d59d' alt='Wallpaper version of the latest Key Visual of Beyblade X : r/Beyblade'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1895">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/wallpaper-version-of-the-latest-key-visual-of-beyblade-x-v0-harejt0fep4b1.png?auto=webp&s=3e6cc6b2749865b4fafc0b07840a432b87c8d59d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Beyblade Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/beyblade-auq15y7joas2zzu6.jpg' alt='100+] Beyblade Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/beyblade-auq15y7joas2zzu6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beyblade Burst Evolution HD Wallpaper with Valt Aoi">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/112/1127650.jpg' alt='Beyblade Burst Evolution HD Wallpaper with Valt Aoi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/112/1127650.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

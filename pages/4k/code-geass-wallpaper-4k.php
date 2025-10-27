@@ -1,0 +1,129 @@
+<title>Stunning 4K Code Geass Wallpapers: Enhance Your Device</title>
+                    <meta name="description" content="Explore a curated collection of breathtaking 4K Code Geass wallpapers. Perfect for fans of the series, these high-quality images will personalize your devices while showcasing the stunning art of this beloved anime. Download your favorites and immerse yourself in the world of Code Geass today!">
+                    <meta name="keywords" content="code geass wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/code-geass-wallpaper-4k">
+                            <span itemprop="name">code geass wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Code Geass Wallpapers: Enhance Your Device</h1>
+                <p>Step into the captivating world of Code Geass with stunning 4K wallpapers! Each image captures the essence of this iconic anime, featuring Lelouch, Suzaku, and the thrilling mecha battles in breathtaking detail. Perfect for fans and newcomers alike, these wallpapers will elevate your device's aesthetic and bring the series to life.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Code Geass 4K Ultra HD Wallpaper with Lelouch, C.C., and Suzaku">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/457/457868.jpg' alt='Code Geass 4K Ultra HD Wallpaper with Lelouch, C.C., and Suzaku'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5000">
+                                <meta itemprop="height" content="3285">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/457/457868.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Code Geass: Lelouch of the Rebellion Wallpapers (31 images ...">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/5/e/1/906756-3840x2160-desktop-4k-code-geass-lelouch-of-the-rebellion-wallpaper.jpg' alt='Code Geass: Lelouch of the Rebellion Wallpapers (31 images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/5/e/1/906756-3840x2160-desktop-4k-code-geass-lelouch-of-the-rebellion-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lelouch Lamperouge Wallpaper 4K, Kallen Stadtfeld, Code Geass, 5K">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/lelouch-lamperouge-3840x2160-10519.jpg' alt='Lelouch Lamperouge Wallpaper 4K, Kallen Stadtfeld, Code Geass, 5K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/lelouch-lamperouge-3840x2160-10519.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Anime Code Geass 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/775/775513.jpg' alt='Download Anime Code Geass 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5769">
+                                <meta itemprop="height" content="3013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/775/775513.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Code Geass Wallpaper 4k For Laptop">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e2/6c/3a/e26c3a8d343e4f801fb91a1f203c5ed6.jpg' alt='Code Geass Wallpaper 4k For Laptop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e2/6c/3a/e26c3a8d343e4f801fb91a1f203c5ed6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Code Geass Neon Lelouch Hd Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/code-geass-neon-lelouch-hd-gvu28x8k4obafkxk.jpg' alt='Code Geass Neon Lelouch Hd Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/code-geass-neon-lelouch-hd-gvu28x8k4obafkxk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Code Geass iPhone Wallpapers - Top Free Code Geass iPhone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a8/04/41/a804416f271c813228a9501acdd82ffc.jpg' alt='Code Geass iPhone Wallpapers - Top Free Code Geass iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a8/04/41/a804416f271c813228a9501acdd82ffc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Anime Code Geass 4k Ultra HD Wallpaper by ncoll36">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/846/846149.png' alt='Download Anime Code Geass 4k Ultra HD Wallpaper by ncoll36'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/846/846149.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K HD Wallpaper] Code Geass: Lelouch of the Rebellion — Lelouch ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/nymdoqgwdwu21.png' alt='4K HD Wallpaper] Code Geass: Lelouch of the Rebellion — Lelouch ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/nymdoqgwdwu21.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Code Geass Lelouch Purple Eyes Desktop Wallpaper - Free in 4K">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2024/04/code-geass-lelouch-purple-eyes-desktop-wallpaper-preview.jpg' alt='Code Geass Lelouch Purple Eyes Desktop Wallpaper - Free in 4K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2024/04/code-geass-lelouch-purple-eyes-desktop-wallpaper-preview.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

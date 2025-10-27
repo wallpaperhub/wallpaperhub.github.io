@@ -1,0 +1,129 @@
+<title>Stunning Nezuko Aesthetic Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover a collection of breathtaking Nezuko aesthetic wallpapers that beautifully represent her character. Perfect for any "Demon Slayer" fan, these designs will enhance your device's look and embody the magic of Nezuko. Explore vibrant visuals that capture her spirit today!">
+                    <meta name="keywords" content="nezuko aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/nezuko-aesthetic-wallpaper">
+                            <span itemprop="name">nezuko aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Nezuko Aesthetic Wallpapers for Your Device</h1>
+                <p>Immerse yourself in the enchanting world of Nezuko with stunning aesthetic wallpapers. Showcase her unique charm and fierce spirit through vibrant colors, intricate designs, and captivating scenes that celebrate her duality as a demon and protector. Perfect for fans of "Demon Slayer," elevate your device's look with these mesmerizing visuals!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nezuko aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/85/eb/f3/85ebf3e606b893462823b32954504711.jpg' alt='Nezuko aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/85/eb/f3/85ebf3e606b893462823b32954504711.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Demon Slayer Aesthetic Pretty Nezuko Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/demon-slayer-aesthetic-pretty-nezuko-atyhohy902oraj3u.jpg' alt='Demon Slayer Aesthetic Pretty Nezuko Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="505">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/demon-slayer-aesthetic-pretty-nezuko-atyhohy902oraj3u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nezuko Wallpapers - Wallpaper Sun">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/42/b7/bd/42b7bdc329304576658e97a797bb8da6.jpg' alt='Nezuko Wallpapers - Wallpaper Sun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="889">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/42/b7/bd/42b7bdc329304576658e97a797bb8da6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nezuko Demon Slayer Aesthetic Manga Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/nezuko-demon-slayer-aesthetic-manga-20p7539kihn4by7y.jpg' alt='Nezuko Demon Slayer Aesthetic Manga Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="580">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/nezuko-demon-slayer-aesthetic-manga-20p7539kihn4by7y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD nezuko aesthetic wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/148/126/HD-wallpaper-tanjirou-and-nezuko-aesthetic-nezuko-tanjirou.jpg' alt='HD nezuko aesthetic wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/148/126/HD-wallpaper-tanjirou-and-nezuko-aesthetic-nezuko-tanjirou.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nezuko Demon Slayer/Kimetsu No Yaiba | Anime wallpaper phone, Pink ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8e/36/79/8e36792ac9cdc93d9f4fbed5835beb49.jpg' alt='Nezuko Demon Slayer/Kimetsu No Yaiba | Anime wallpaper phone, Pink ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8e/36/79/8e36792ac9cdc93d9f4fbed5835beb49.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers of our demon girl Nezuko : r/KimetsuNoYaiba">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/xhcdtklopi771.jpg?width=640&crop=smart&auto=webp&s=f352649b3479e66b5d3e8f3a29dd5db67b58ebae' alt='Wallpapers of our demon girl Nezuko : r/KimetsuNoYaiba'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1115">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/xhcdtklopi771.jpg?width=640&crop=smart&auto=webp&s=f352649b3479e66b5d3e8f3a29dd5db67b58ebae' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nezuko, Kawaii Nezuko, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/895/872/HD-wallpaper-nezuko-kawaii-nezuko.jpg' alt='Nezuko, Kawaii Nezuko, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1424">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/895/872/HD-wallpaper-nezuko-kawaii-nezuko.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kimetsu no Yaiba Nezuko Aesthetic Collage Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f3/07/52/f307523721df10ba6b913d43fb4c1c48.jpg' alt='Kimetsu no Yaiba Nezuko Aesthetic Collage Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1189">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f3/07/52/f307523721df10ba6b913d43fb4c1c48.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Nezuko Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/kawaii-nezuko-aesthetic-maix5dhllcym4xwv.jpg' alt='Kawaii Nezuko Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/kawaii-nezuko-aesthetic-maix5dhllcym4xwv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

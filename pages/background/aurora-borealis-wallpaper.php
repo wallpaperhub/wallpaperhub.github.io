@@ -1,0 +1,129 @@
+<title>Aurora Borealis Wallpaper: Stunning Northern Lights for Your Screen</title>
+                    <meta name="description" content="Transform your device with captivating aurora borealis wallpaper. Experience the beauty of the Northern Lights in vibrant colors, enhancing your screen's ambiance. Perfect for nature enthusiasts, these wallpapers inspire peace and wonder. Download now and let the magic of the aurora light up your life!">
+                    <meta name="keywords" content="aurora borealis wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/aurora-borealis-wallpaper">
+                            <span itemprop="name">aurora borealis wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aurora Borealis Wallpaper: Stunning Northern Lights for Your Screen</h1>
+                <p>Aurora borealis wallpaper brings the mesmerizing beauty of the Northern Lights to your screens. With vibrant greens, purples, and cosmic blues dancing across the sky, these wallpapers create a serene atmosphere in any space. Perfect for any nature lover, they transform your environment, inspiring awe and tranquility.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue northern lights - Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallart.com/media/catalog/product/cache/5b18b93ddbe5d6592c6b175f41d24454/b/e/behang-met-blauw-noorderlicht_8.jpg' alt='Blue northern lights - Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="805">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallart" />
+                                </span>
+                                <a href='https://www.wallart.com/media/catalog/product/cache/5b18b93ddbe5d6592c6b175f41d24454/b/e/behang-met-blauw-noorderlicht_8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best 500+ Northern Lights Wallpapers | Download Free Images On ...">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1483347756197-71ef80e95f73?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bm9ydGhlcm4lMjBsaWdodHN8ZW58MHx8MHx8fDA%3D' alt='Best 500+ Northern Lights Wallpapers | Download Free Images On ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1483347756197-71ef80e95f73?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bm9ydGhlcm4lMjBsaWdodHN8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mesmerizing Aurora Borealis - HD Wallpaper for Nature Lovers">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/533/thumb-1920-533936.jpg' alt='Mesmerizing Aurora Borealis - HD Wallpaper for Nature Lovers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/533/thumb-1920-533936.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Northern Lights Photos, Download The BEST Free Northern Lights ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1562058/pexels-photo-1562058.jpeg' alt='Northern Lights Photos, Download The BEST Free Northern Lights ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1562058/pexels-photo-1562058.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aurora Borealis · Free Stock Photo">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1933239/pexels-photo-1933239.jpeg?auto=compress&cs=tinysrgb&h=627&fit=crop&w=1200' alt='Aurora Borealis · Free Stock Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="627">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1933239/pexels-photo-1933239.jpeg?auto=compress&cs=tinysrgb&h=627&fit=crop&w=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="aurora borealis northern lights 4k iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/53/68/ac/5368ac9f4dfcbcdb196dae41fca5915e.jpg' alt='aurora borealis northern lights 4k iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/53/68/ac/5368ac9f4dfcbcdb196dae41fca5915e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best 500+ Northern Lights Wallpapers | Download Free Images On ...">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1507272931001-fc06c17e4f43?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fG5vcnRoZXJuJTIwbGlnaHRzfGVufDB8fDB8fHww' alt='Best 500+ Northern Lights Wallpapers | Download Free Images On ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1507272931001-fc06c17e4f43?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fG5vcnRoZXJuJTIwbGlnaHRzfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WR50512 Aurora Borealis/ Northern Lights Mural, Blue">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81tl3jRnqwL.jpg' alt='WR50512 Aurora Borealis/ Northern Lights Mural, Blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81tl3jRnqwL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Northern Lights Wallpaper 4K, Aurora Borealis, Iceland">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/northern-lights-aurora-borealis-iceland-1080x2340-59.jpg' alt='Northern Lights Wallpaper 4K, Aurora Borealis, Iceland'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/northern-lights-aurora-borealis-iceland-1080x2340-59.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aurora Borealis · Free Stock Photo">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/360912/pexels-photo-360912.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' alt='Aurora Borealis · Free Stock Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/360912/pexels-photo-360912.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

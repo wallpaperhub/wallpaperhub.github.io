@@ -1,0 +1,129 @@
+<title>Explore Kirby and the Forgotten Land: A Vibrant Adventure</title>
+                    <meta name="description" content="Discover the enchanting world of Kirby and the Forgotten Land. Unravel a mysterious post-apocalyptic landscape filled with adventure, enemies, and secrets. Join Kirby in this 3D platformer for a delightful gaming experience that blends nostalgia with new gameplay mechanics.">
+                    <meta name="keywords" content="kirby and the forgotten land background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/kirby-and-the-forgotten-land-background">
+                            <span itemprop="name">kirby and the forgotten land background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore Kirby and the Forgotten Land: A Vibrant Adventure</h1>
+                <p>Kirby and the Forgotten Land takes players on a vibrant adventure in a mysterious, post-apocalyptic world filled with varied landscapes and forgotten civilizations. This 3D platformer blends classic Kirby elements with new mechanics, as Kirby explores lush environments, battles quirky enemies, and discovers the secrets of a once-flourishing land.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kirby and the Forgotten Land' review: Cuddly, unsettling, and too ...">
+                                <img itemprop="contentUrl url" src='https://helios-i.mashable.com/imagery/articles/02HikdaLBxzHpwrq9EzZYv0/hero-image.fill.size_1248x702.v1647809662.jpg' alt='Kirby and the Forgotten Land' review: Cuddly, unsettling, and too ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1248">
+                                <meta itemprop="height" content="702">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mashable" />
+                                </span>
+                                <a href='https://helios-i.mashable.com/imagery/articles/02HikdaLBxzHpwrq9EzZYv0/hero-image.fill.size_1248x702.v1647809662.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Kirby Video Game Kirby And The Forgotten Land HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/122/1223563.jpg' alt='Download Kirby Video Game Kirby And The Forgotten Land HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2189">
+                                <meta itemprop="height" content="1442">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/122/1223563.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kirby and the Forgotten Land - Artwork Wallpaper - Cat with Monocle">
+                                <img itemprop="contentUrl url" src='https://catwithmonocle.com/wp-content/uploads/2022/03/kirby-forgotten-land-artwork-01-1440x2960-1.jpg' alt='Kirby and the Forgotten Land - Artwork Wallpaper - Cat with Monocle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cat with Monocle" />
+                                </span>
+                                <a href='https://catwithmonocle.com/wp-content/uploads/2022/03/kirby-forgotten-land-artwork-01-1440x2960-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Kirby And The Forgotten Land HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/137/1375687.jpg' alt='Download Kirby And The Forgotten Land HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/137/1375687.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper: Kirby™ and the Forgotten Land | Rewards | My Nintendo">
+                                <img itemprop="contentUrl url" src='https://cdn-image-f3580964b8e711e5b95f2ff191a1c838.baas.nintendo.com/1/d1bcd5534a972390' alt='Wallpaper: Kirby™ and the Forgotten Land | Rewards | My Nintendo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="918">
+                                <meta itemprop="height" content="383">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="My Nintendo" />
+                                </span>
+                                <a href='https://cdn-image-f3580964b8e711e5b95f2ff191a1c838.baas.nintendo.com/1/d1bcd5534a972390' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kirby and the Forgotten Land review | GodisaGeek.com">
+                                <img itemprop="contentUrl url" src='https://www.godisageek.com/wp-content/uploads/Kirby-and-the-Forgotten-Land-review.jpg' alt='Kirby and the Forgotten Land review | GodisaGeek.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GodisaGeek.com" />
+                                </span>
+                                <a href='https://www.godisageek.com/wp-content/uploads/Kirby-and-the-Forgotten-Land-review.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Forgotten Land, night & day [5000 x 2750] : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/g440rozjxkp81.png?width=640&crop=smart&auto=webp&s=ff40a4d188117f44a2de3e0b6222ebc10d3d0793' alt='Forgotten Land, night & day [5000 x 2750] : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/g440rozjxkp81.png?width=640&crop=smart&auto=webp&s=ff40a4d188117f44a2de3e0b6222ebc10d3d0793' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kirby and the Forgotten Land: Everything We Know So Far">
+                                <img itemprop="contentUrl url" src='https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/09/KirbyForgottenLand_092321.jpg' alt='Kirby and the Forgotten Land: Everything We Know So Far'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Collider" />
+                                </span>
+                                <a href='https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/09/KirbyForgottenLand_092321.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kirby and the Forgotten Land Wallpapers (34 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/5/0/a/111437-1448x2048-samsung-hd-kirby-and-the-forgotten-land-wallpaper.jpg' alt='Kirby and the Forgotten Land Wallpapers (34 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1448">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/5/0/a/111437-1448x2048-samsung-hd-kirby-and-the-forgotten-land-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kirby and the Forgotten Land Should Bring Back The Crystal Shards ...">
+                                <img itemprop="contentUrl url" src='https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/10/kirby-and-the-forgotten-land-64-crystal-shards.jpg' alt='Kirby and the Forgotten Land Should Bring Back The Crystal Shards ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Game Rant" />
+                                </span>
+                                <a href='https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/10/kirby-and-the-forgotten-land-64-crystal-shards.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

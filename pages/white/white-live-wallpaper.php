@@ -1,0 +1,129 @@
+<title>Elegant White Live Wallpapers for a Fresh Look</title>
+                    <meta name="description" content="Discover beautiful white live wallpapers that elevate your mobile experience. Enjoy minimalist designs and soothing animations, perfect for a clean and stylish aesthetic. Revitalize your device with our collection and make your screen a masterpiece of simplicity and elegance.">
+                    <meta name="keywords" content="white live wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/white-live-wallpaper">
+                            <span itemprop="name">white live wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant White Live Wallpapers for a Fresh Look</h1>
+                <p>Transform your screen with stunning white live wallpapers that exude elegance and tranquility. Perfect for minimalists, these wallpapers enhance your device’s aesthetic while maintaining a clean and bright look. Choose from a variety of designs, from soft patterns to dynamic animations, to give your phone a fresh and modern touch.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40+ White Live Wallpapers 4K & HD">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/i/c/364x205/media/5026/abstract-white-triangles.jpg' alt='40+ White Live Wallpapers 4K & HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="364">
+                                <meta itemprop="height" content="205">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/i/c/364x205/media/5026/abstract-white-triangles.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 7 LIVE Wallpaper – Ink White – Official iOS 10 Stock ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2018/04/iSpazio-87.jpg' alt='iPhone 7 LIVE Wallpaper – Ink White – Official iOS 10 Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1420">
+                                <meta itemprop="height" content="3073">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Central - iSpazio" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2018/04/iSpazio-87.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40+ White Live Wallpapers 4K & HD">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/i/c/364x205/media/3363/white-topography.jpg' alt='40+ White Live Wallpapers 4K & HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="364">
+                                <meta itemprop="height" content="205">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/i/c/364x205/media/3363/white-topography.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40+ White Live Wallpapers 4K & HD">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/i/c/364x205/media/3771/windows-11-white-color.jpg' alt='40+ White Live Wallpapers 4K & HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="364">
+                                <meta itemprop="height" content="205">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/i/c/364x205/media/3771/windows-11-white-color.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Background Video 4K Ultra HD - Live Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/SPHBfHgPfzw/maxresdefault.jpg' alt='White Background Video 4K Ultra HD - Live Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/SPHBfHgPfzw/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40+ White Live Wallpapers 4K & HD">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/i/c/364x205/media/764/winter-landscape.jpg' alt='40+ White Live Wallpapers 4K & HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="364">
+                                <meta itemprop="height" content="205">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/i/c/364x205/media/764/winter-landscape.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Sun Light Live Wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7382904771751038213&location=0&aid=1988' alt='White Sun Light Live Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7382904771751038213&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40+ White Live Wallpapers 4K & HD">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/i/c/364x205/media/3768/white-razer-logo.jpg' alt='40+ White Live Wallpapers 4K & HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="364">
+                                <meta itemprop="height" content="205">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/i/c/364x205/media/3768/white-razer-logo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 12 – Orbs White (Light) | LIVE Wallpaper - Wallpapers Central">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2020/10/1691.Orbs_White_Light-390w-844h@3xiphone.mov-00m00s00-5094245E-EE48-4802-A324-1921FFC2D8EF.jpg' alt='iPhone 12 – Orbs White (Light) | LIVE Wallpaper - Wallpapers Central'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1404">
+                                <meta itemprop="height" content="3040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Central - iSpazio" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2020/10/1691.Orbs_White_Light-390w-844h@3xiphone.mov-00m00s00-5094245E-EE48-4802-A324-1921FFC2D8EF.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White and Black Wallpaper Engine 1 Hour">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/R8gGUhfsEo8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBT6cyn4nzb5IyaivlBiublbsljjg' alt='White and Black Wallpaper Engine 1 Hour'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/R8gGUhfsEo8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBT6cyn4nzb5IyaivlBiublbsljjg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

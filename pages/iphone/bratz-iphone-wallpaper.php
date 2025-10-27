@@ -1,0 +1,129 @@
+<title>Bratz iPhone Wallpapers: Stylish & Fun Designs</title>
+                    <meta name="description" content="Discover the cutest Bratz iPhone wallpapers! Perfect for fans of the iconic dolls, these vibrant designs will enhance your phone's look. Explore a range of styles to showcase your unique personality. Download your favorites now and keep your device stylish and fun!">
+                    <meta name="keywords" content="bratz iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/bratz-iphone-wallpaper">
+                            <span itemprop="name">bratz iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Bratz iPhone Wallpapers: Stylish & Fun Designs</h1>
+                <p>Transform your phone's look with vibrant Bratz iPhone wallpapers! Showcase your love for these iconic dolls with colorful and playful designs. From fashion-forward styles to cute group shots, there's a wallpaper for every Bratz fan. Brighten up your screen and express your personality with these fun wallpapers!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bratz Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4f/88/18/4f8818e2cd58b7dc341d445b829e7aff.jpg' alt='Bratz Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4f/88/18/4f8818e2cd58b7dc341d445b829e7aff.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Wallpapers — Lookin' Bratz — The Ultimate Bratz Resource!">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/588023714402431d67d54f8a/1592813127111-TFL0E8QE2UXVPWAKD1YA/all.jpg' alt='Phone Wallpapers — Lookin' Bratz — The Ultimate Bratz Resource!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lookin' Bratz" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/588023714402431d67d54f8a/1592813127111-TFL0E8QE2UXVPWAKD1YA/all.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bratz aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/71/b6/72/71b67239e6bd9f15a0db03e33d09129c.jpg' alt='Bratz aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="680">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/71/b6/72/71b67239e6bd9f15a0db03e33d09129c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Wallpapers — Lookin' Bratz — The Ultimate Bratz Resource!">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/588023714402431d67d54f8a/1592813060588-I9TS8RKLOZDNCJTFPV8C/yasmin.jpg' alt='Phone Wallpapers — Lookin' Bratz — The Ultimate Bratz Resource!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lookin' Bratz" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/588023714402431d67d54f8a/1592813060588-I9TS8RKLOZDNCJTFPV8C/yasmin.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="bratz wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6e/ea/ae/6eeaaebcd9dc9c0bcc7720ca8162f36c.jpg' alt='bratz wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6e/ea/ae/6eeaaebcd9dc9c0bcc7720ca8162f36c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Bratz Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/iphone-bratz-aesthetic-ow1p0w83nkqjm6fm-2.jpg' alt='Iphone Bratz Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="507">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/iphone-bratz-aesthetic-ow1p0w83nkqjm6fm-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BRATZ Wallpaper Collection | Nostalgic Childhood Art">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7125897208695721262&location=0&aid=1988' alt='BRATZ Wallpaper Collection | Nostalgic Childhood Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1278">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7125897208695721262&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bratz, Barbie Baddie Aesthetic, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/658/911/HD-wallpaper-bratz-barbie-baddie-aesthetic.jpg' alt='Bratz, Barbie Baddie Aesthetic, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/658/911/HD-wallpaper-bratz-barbie-baddie-aesthetic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Fun Forever With Bratz Dolls! Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/bratz-dolls-677-x-1200-9onmxcuax9bf3hp0.jpg' alt='Download Fun Forever With Bratz Dolls! Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="677">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/bratz-dolls-677-x-1200-9onmxcuax9bf3hp0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bratz,bratz wallpaper,pink wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/46/b6/2d/46b62d67bf58d79decb242972a7f4617.jpg' alt='Bratz,bratz wallpaper,pink wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/46/b6/2d/46b62d67bf58d79decb242972a7f4617.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Adorable Kawaii Wallpaper for Your iPhone</title>
+                    <meta name="description" content="Elevate your iPhone's aesthetic with our adorable kawaii wallpaper collection! Enjoy a variety of cute designs that will make your device stand out. Perfect for all kawaii lovers looking to add a touch of sweetness to their screens—download now to brighten your day!">
+                    <meta name="keywords" content="iphone cute kawaii wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii">
+                            <span itemprop="name">Kawaii</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii/iphone-cute-kawaii-wallpaper">
+                            <span itemprop="name">iphone cute kawaii wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Kawaii Wallpaper for Your iPhone</h1>
+                <p>Looking for the cutest iPhone kawaii wallpaper? Discover adorable designs featuring cute animals, pastel colors, and playful characters! Transform your home screen with charming patterns that bring joy every time you unlock your phone. Dive into a world of sweetness and personalize your device with delightful kawaii art!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13+ Cute Wallpaper Aesthetic for iPhone Android">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/03/7b/4f/037b4f6a76aaa816a0c4b33b3559071c.jpg' alt='13+ Cute Wallpaper Aesthetic for iPhone Android'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/03/7b/4f/037b4f6a76aaa816a0c4b33b3559071c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Kawaii Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/kawaii-rainbow-neko-for-iphone-bvj03pbjeq1vza44.jpg' alt='100+] Kawaii Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="713">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/kawaii-rainbow-neko-for-iphone-bvj03pbjeq1vza44.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 Best Kawaii iPhone Wallpaper to Download for Free - atinydreamer">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/07/5d/77/075d772e08f548aca4c05a36487c2c27.jpg' alt='20 Best Kawaii iPhone Wallpaper to Download for Free - atinydreamer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/07/5d/77/075d772e08f548aca4c05a36487c2c27.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD iphone kawaii wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/522/356/HD-wallpaper-so-cute-cute-cartoon-iphone-kawaii-kawaii-in-2022-iphone-kawaii-cute-cute-cartoon-adorable-kawaii.jpg' alt='HD iphone kawaii wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/522/356/HD-wallpaper-so-cute-cute-cartoon-iphone-kawaii-kawaii-in-2022-iphone-kawaii-cute-cute-cartoon-adorable-kawaii.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Kawaii Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-kawaii-o6p1ggfq28t6ryxy.jpg' alt='100+] Cute Kawaii Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-kawaii-o6p1ggfq28t6ryxy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Kawaii Wallpaper Ideas for Your iPhone | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7199300638986013958&location=0&aid=1988' alt='Cute Kawaii Wallpaper Ideas for Your iPhone | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7199300638986013958&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Iphone Digital Art Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/kawaii-iphone-macaroons-vlgu5ovua4e64vhv.webp' alt='Kawaii Iphone Digital Art Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="473">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/kawaii-iphone-macaroons-vlgu5ovua4e64vhv.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Kawaii wallpaper ideas | kawaii wallpaper, wallpaper iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/0d/fd/ff/0dfdff70c0a5771a06005b1d0c168c4c.jpg' alt='12 Kawaii wallpaper ideas | kawaii wallpaper, wallpaper iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/0d/fd/ff/0dfdff70c0a5771a06005b1d0c168c4c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Phone Wallpapers for iPhone & Android">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/thumbnail/cute-cat-anime-wallpaper.webp' alt='Kawaii Phone Wallpapers for iPhone & Android'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="155">
+                                <meta itemprop="height" content="325">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/thumbnail/cute-cat-anime-wallpaper.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii phone and iPhone wallpaper / Cute wallpaper for phone and iPhone /  Kawaii wallpaper for iOS and Android / Cute homescreen for phone">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/32106817/r/il/d37200/3542020320/il_570xN.3542020320_onef.jpg' alt='Kawaii phone and iPhone wallpaper / Cute wallpaper for phone and iPhone /  Kawaii wallpaper for iOS and Android / Cute homescreen for phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1203">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/32106817/r/il/d37200/3542020320/il_570xN.3542020320_onef.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

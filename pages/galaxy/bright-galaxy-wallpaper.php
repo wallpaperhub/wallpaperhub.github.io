@@ -1,0 +1,129 @@
+<title>Vibrant Galaxy Wallpaper: Brighten Your Screen</title>
+                    <meta name="description" content="Discover captivating bright galaxy wallpaper to elevate your screens! Immerse yourself in breathtaking cosmic visuals that inspire and ignite creativity. Perfect for mobile and desktop backgrounds, bring the beauty of the universe into your daily life with these stunning designs. Download now!">
+                    <meta name="keywords" content="bright galaxy wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy">
+                            <span itemprop="name">Galaxy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy/bright-galaxy-wallpaper">
+                            <span itemprop="name">bright galaxy wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Galaxy Wallpaper: Brighten Your Screen</h1>
+                <p>Transform your digital space with stunning bright galaxy wallpaper! Dive into a cosmos of vibrant colors, twinkling stars, and mesmerizing nebulas. Perfect for enhancing your desktop or mobile background, these wallpapers inspire creativity and evoke a sense of wonder. Explore the universe from your screen every day!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Intergalactic">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,w_1100,h_800/v1716294560/articles/SG0033PU30W_product.jpg' alt='Intergalactic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hovia" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,w_1100,h_800/v1716294560/articles/SG0033PU30W_product.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Artistic Abstract Multicolored Smooth Bright Nebula Galaxy in a ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/02/38/66/01/1000_F_238660140_566ouw2G6gUo6tW8IIrJ2jXWJLLc6tS1.jpg' alt='Artistic Abstract Multicolored Smooth Bright Nebula Galaxy in a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="658">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/02/38/66/01/1000_F_238660140_566ouw2G6gUo6tW8IIrJ2jXWJLLc6tS1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bright Blue Galaxy Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/bright-blue-galaxy-ujg72wml2jdh9ltq.jpg' alt='Bright Blue Galaxy Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/bright-blue-galaxy-ujg72wml2jdh9ltq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bright Galaxy">
+                                <img itemprop="contentUrl url" src='https://www.ajwallpaper.com/cdn/shop/products/0_0f802116-6d52-4445-b28f-eeda6881ebe9.png?v=1575937459' alt='Bright Galaxy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="585">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AJ Wallpaper" />
+                                </span>
+                                <a href='https://www.ajwallpaper.com/cdn/shop/products/0_0f802116-6d52-4445-b28f-eeda6881ebe9.png?v=1575937459' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bright Galaxy Background Full of Stars | Premium AI-generated image">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/bright-galaxy-background-full-stars_198067-690809.jpg' alt='Bright Galaxy Background Full of Stars | Premium AI-generated image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/bright-galaxy-background-full-stars_198067-690809.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bright Sunset Galaxy Space Background Graphic by Rizu Designs ...">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2021/08/07/Bright-Sunset-Galaxy-space-Background-Graphics-15602370-1.jpg' alt='Bright Sunset Galaxy Space Background Graphic by Rizu Designs ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2021/08/07/Bright-Sunset-Galaxy-space-Background-Graphics-15602370-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="84,440 Bright Galaxy Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/bright-galaxy-stars-outer-space-bright-galaxy-stars-outer-space-elements-image-furnished-nasa-121874428.jpg' alt='84,440 Bright Galaxy Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/bright-galaxy-stars-outer-space-bright-galaxy-stars-outer-space-elements-image-furnished-nasa-121874428.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD bright galaxy wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/777/86/HD-wallpaper-space-nebula-galaxy-stars-bright-saturated-thumbnail.jpg' alt='HD bright galaxy wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/777/86/HD-wallpaper-space-nebula-galaxy-stars-bright-saturated-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract colorful galaxy with bright stars background Stock Photo ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/T27EY7/abstract-colorful-galaxy-with-bright-stars-background-T27EY7.jpg' alt='Abstract colorful galaxy with bright stars background Stock Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="956">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/T27EY7/abstract-colorful-galaxy-with-bright-stars-background-T27EY7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Bright Galaxy In Universe Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/bright-galaxy-in-universe-s1d7mbm21n8o39z7.jpg' alt='Download Bright Galaxy In Universe Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/bright-galaxy-in-universe-s1d7mbm21n8o39z7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

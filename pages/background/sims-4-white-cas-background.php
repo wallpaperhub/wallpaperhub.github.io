@@ -1,0 +1,129 @@
+<title>Elevate Your Sims 4 CAS with a White Background</title>
+                    <meta name="description" content="Discover how a white CAS background in Sims 4 can enhance your character creation experience. With its minimalist appeal, focus on details becomes effortless. Perfect for all aesthetics, this clean background is a must-try for any Sims fan looking to refresh their gameplay.">
+                    <meta name="keywords" content="sims 4 white cas background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sims-4-white-cas-background">
+                            <span itemprop="name">sims 4 white cas background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Sims 4 CAS with a White Background</h1>
+                <p>Enhance your Sims 4 gameplay with a clean white CAS background! A minimalist design revitalizes the character creation experience, allowing you to focus on details without distractions. Perfect for showcasing your Sims' unique styles and traits, this background gives a refreshing look to your CAS screens and is suitable for any aesthetic!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Sims Resource - White CAS Background">
+                                <img itemprop="contentUrl url" src='https://www.thesimsresource.com/scaled/2908/w-800h-600-2908958.jpg' alt='The Sims Resource - White CAS Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Sims Resource" />
+                                </span>
+                                <a href='https://www.thesimsresource.com/scaled/2908/w-800h-600-2908958.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mod The Sims - CAS Background & CAS Lighting Set - Reflection ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.modthesims2.com/img/1/0/3/5/2/5/0/8/MTS_vyxated-2195876-p2.png?cb=1700673988' alt='Mod The Sims - CAS Background & CAS Lighting Set - Reflection ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mod The Sims" />
+                                </span>
+                                <a href='https://thumbs.modthesims2.com/img/1/0/3/5/2/5/0/8/MTS_vyxated-2195876-p2.png?cb=1700673988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Room CAS Background – Katverse">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/katverse.com/wp-content/uploads/2017/02/TS4_x64-2017-06-09-10-23-42-jpeg.jpg?fit=1920%2C1080&ssl=1' alt='White Room CAS Background – Katverse'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Katverse" />
+                                </span>
+                                <a href='https://i0.wp.com/katverse.com/wp-content/uploads/2017/02/TS4_x64-2017-06-09-10-23-42-jpeg.jpg?fit=1920%2C1080&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mod The Sims - White CAS background (3 versions of shadows!)">
+                                <img itemprop="contentUrl url" src='https://thumbs.modthesims2.com/img/1/0/3/0/1/6/1/6/MTS_Senni-2099163-bg.png?cb=1654451242' alt='Mod The Sims - White CAS background (3 versions of shadows!)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="896">
+                                <meta itemprop="height" content="896">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mod The Sims" />
+                                </span>
+                                <a href='https://thumbs.modthesims2.com/img/1/0/3/0/1/6/1/6/MTS_Senni-2099163-bg.png?cb=1654451242' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="helgatisha] CAS background | Patreon">
+                                <img itemprop="contentUrl url" src='https://c10.patreonusercontent.com/4/patreon-media/p/post/39098326/638503987f294aec94e6f03b7febc318/eyJ3Ijo2MjB9/1.jpg?token-time=1742256000&token-hash=JFeFtOcBD_3AuqMfAv3d3Cljz8yuIIVqsJiRnqgUOW8%3D' alt='helgatisha] CAS background | Patreon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="469">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Patreon" />
+                                </span>
+                                <a href='https://c10.patreonusercontent.com/4/patreon-media/p/post/39098326/638503987f294aec94e6f03b7febc318/eyJ3Ijo2MjB9/1.jpg?token-time=1742256000&token-hash=JFeFtOcBD_3AuqMfAv3d3Cljz8yuIIVqsJiRnqgUOW8%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="redacted] — [CAS BG] Triple Mirror">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/8748818f3c95444497639808f831f4a1/4e5c49ce6d1926b5-e9/s1280x1920/36aa3ef943cf155b67157f97640b4c3fb063c931.png' alt='redacted] — [CAS BG] Triple Mirror'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="@vyxated on Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/8748818f3c95444497639808f831f4a1/4e5c49ce6d1926b5-e9/s1280x1920/36aa3ef943cf155b67157f97640b4c3fb063c931.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sympxls">
+                                <img itemprop="contentUrl url" src='http://68.media.tumblr.com/b04e905b208f04bd543e8fc04c4d23ad/tumblr_omb080Q9ZD1smjbwxo1_540.png' alt='Sympxls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="769">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sympxls" />
+                                </span>
+                                <a href='http://68.media.tumblr.com/b04e905b208f04bd543e8fc04c4d23ad/tumblr_omb080Q9ZD1smjbwxo1_540.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CAS background: White - Sims 4 CC - SimsFinds">
+                                <img itemprop="contentUrl url" src='https://s3.simsfinds.com.br/download/24051850/2017/01/07/c67aa8d5ba3f59031b421d947f7dbb05-gnd.jpg' alt='CAS background: White - Sims 4 CC - SimsFinds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SimsFinds" />
+                                </span>
+                                <a href='https://s3.simsfinds.com.br/download/24051850/2017/01/07/c67aa8d5ba3f59031b421d947f7dbb05-gnd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Sims Resource - Light grey CAS background">
+                                <img itemprop="contentUrl url" src='https://www.thesimsresource.com/scaled/3153/w-800h-600-3153459.jpg' alt='The Sims Resource - Light grey CAS background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Sims Resource" />
+                                </span>
+                                <a href='https://www.thesimsresource.com/scaled/3153/w-800h-600-3153459.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="helgatisha] CAS background | Patreon">
+                                <img itemprop="contentUrl url" src='https://c10.patreonusercontent.com/4/patreon-media/p/post/39098326/a850af320db3478280daa421dac1d6b7/eyJ3Ijo2MjB9/1.jpg?token-time=1742256000&token-hash=uSllWh3-F7wwMUzLDCvimwfaPpr_0NkwPiK2OZPUuqQ%3D' alt='helgatisha] CAS background | Patreon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="469">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Patreon" />
+                                </span>
+                                <a href='https://c10.patreonusercontent.com/4/patreon-media/p/post/39098326/a850af320db3478280daa421dac1d6b7/eyJ3Ijo2MjB9/1.jpg?token-time=1742256000&token-hash=uSllWh3-F7wwMUzLDCvimwfaPpr_0NkwPiK2OZPUuqQ%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

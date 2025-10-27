@@ -1,0 +1,129 @@
+<title>Purple Lilac Wallpaper: Elegant Floral Decor for Your Home</title>
+                    <meta name="description" content="Add a splash of color to your home with our beautiful purple lilac wallpaper. Perfect for creating a serene atmosphere, this floral design will elevate any room. Ideal for those seeking stylish and nature-inspired decor, it’s easy to install and maintain. Refresh your space today!">
+                    <meta name="keywords" content="purple lilac wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/purple-lilac-wallpaper">
+                            <span itemprop="name">purple lilac wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Purple Lilac Wallpaper: Elegant Floral Decor for Your Home</h1>
+                <p>Transform your space with stunning purple lilac wallpaper. This elegant design brings a touch of nature indoors, filling your room with vibrant color and a refreshing ambiance. Perfect for living rooms, bedrooms, or any space in need of a floral accent. Let the soothing shades inspire relaxation and creativity in your home.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galerie Mottled Texture Purple Lilac Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.decoratorsbest.com/cdn/shop/files/6952521465902.jpg?v=1712793158' alt='Galerie Mottled Texture Purple Lilac Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecoratorsBest" />
+                                </span>
+                                <a href='https://www.decoratorsbest.com/cdn/shop/files/6952521465902.jpg?v=1712793158' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download free image of Acrylic texture background lilac wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/22/f2/dc/22f2dc760016fe34dfcda612ed121833.jpg' alt='Download free image of Acrylic texture background lilac wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/22/f2/dc/22f2dc760016fe34dfcda612ed121833.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tender purple lilac background. Moody macrophotography. Blossoming ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/04/80/13/30/1000_F_480133025_OK1a5h7hqu6DUKesfcUzu3CNuASR9dld.jpg' alt='Tender purple lilac background. Moody macrophotography. Blossoming ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/04/80/13/30/1000_F_480133025_OK1a5h7hqu6DUKesfcUzu3CNuASR9dld.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cute Light Purple Lilac Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-light-purple-36t5yjutmn3i5hfu.jpg' alt='Download Cute Light Purple Lilac Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-light-purple-36t5yjutmn3i5hfu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="lilac aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c7/14/34/c7143443f9d6aa751ffebc44c726f1cc.jpg' alt='lilac aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c7/14/34/c7143443f9d6aa751ffebc44c726f1cc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galerie Baby Texture Purple Lilac Wallpaper – DecoratorsBest">
+                                <img itemprop="contentUrl url" src='https://www.decoratorsbest.com/cdn/shop/files/6953076555822.jpg?v=1712793593' alt='Galerie Baby Texture Purple Lilac Wallpaper – DecoratorsBest'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1501">
+                                <meta itemprop="height" content="1501">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecoratorsBest" />
+                                </span>
+                                <a href='https://www.decoratorsbest.com/cdn/shop/files/6953076555822.jpg?v=1712793593' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lilac Colour A6a3de Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/11365111/p/f/m/quGcJbVeLIoHV1O1_HziVNK2wE1KSjLBGIB7aUJetey47duiI4GfrADJ2Q/Lilac%20Solid%20%20a6a3de.jpg' alt='Lilac Colour A6a3de Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/11365111/p/f/m/quGcJbVeLIoHV1O1_HziVNK2wE1KSjLBGIB7aUJetey47duiI4GfrADJ2Q/Lilac%20Solid%20%20a6a3de.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Purple Lilac Flowers Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/light-purple-lilac-flowers-36xxtivpyjx0mmnf.jpg' alt='Light Purple Lilac Flowers Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/light-purple-lilac-flowers-36xxtivpyjx0mmnf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Close-up Photo of Purple Lilac Flowers · Free Stock Photo">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1381679/pexels-photo-1381679.jpeg' alt='Close-up Photo of Purple Lilac Flowers · Free Stock Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="6000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1381679/pexels-photo-1381679.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seabrook Designs Sparkle Blush Lilac Wallpaper | OnlineFabricStore">
+                                <img itemprop="contentUrl url" src='https://cdn.onlinefabricstore.com/products/FA42609_1.jpg?width=900' alt='Seabrook Designs Sparkle Blush Lilac Wallpaper | OnlineFabricStore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Online Fabric Store" />
+                                </span>
+                                <a href='https://cdn.onlinefabricstore.com/products/FA42609_1.jpg?width=900' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

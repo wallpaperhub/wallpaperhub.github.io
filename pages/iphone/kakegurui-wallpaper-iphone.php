@@ -1,0 +1,129 @@
+<title>Kakegurui Wallpapers for iPhone: Stunning Designs</title>
+                    <meta name="description" content="Discover an array of captivating Kakegurui wallpapers for your iPhone! Transform your device with unique designs featuring your favorite characters and iconic moments from the series. Explore and download the best Kakegurui backgrounds optimized for any screen size!">
+                    <meta name="keywords" content="kakegurui wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/kakegurui-wallpaper-iphone">
+                            <span itemprop="name">kakegurui wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Kakegurui Wallpapers for iPhone: Stunning Designs</h1>
+                <p>Enhance your iPhone with stunning Kakegurui wallpapers that capture the intense spirit of the series! From thrilling characters to dramatic scenes, find the perfect background to showcase your love for this gambling anime. Browse a variety of designs and make your device stand out with a unique touch of Kakegurui style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made a Yumeko wallpaper for my friend! (Iphone 8 resolution) hope ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/x0q6yrzumco51.jpg' alt='Made a Yumeko wallpaper for my friend! (Iphone 8 resolution) hope ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/x0q6yrzumco51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Experience the thrill of Kakegurui! | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/kakegurui-background-c7e3fsdojjrmc3py.jpg' alt='Download Experience the thrill of Kakegurui! | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/kakegurui-background-c7e3fsdojjrmc3py.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Kakegurui ♡ Jabami Yumeko | Anime wallpaper iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/57/e3/90/57e390452feb471b5fb4a370ee9e2bda.jpg' alt='Wallpaper Kakegurui ♡ Jabami Yumeko | Anime wallpaper iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1525">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/57/e3/90/57e390452feb471b5fb4a370ee9e2bda.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kakegurui yumeko, anime, yumeko jabami, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/145/137/HD-wallpaper-kakegurui-yumeko-anime-yumeko-jabami.jpg' alt='Kakegurui yumeko, anime, yumeko jabami, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/145/137/HD-wallpaper-kakegurui-yumeko-anime-yumeko-jabami.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="KAKEGURUI! anime!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b0/c3/66/b0c36664e2e386f129e9373fad633606.jpg' alt='KAKEGURUI! anime!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b0/c3/66/b0c36664e2e386f129e9373fad633606.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kakegurui Yumeko Jabam In Bubble Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/kakegurui-yumeko-jabam-in-bubble-peol7emtk9uvllu2.jpg' alt='Kakegurui Yumeko Jabam In Bubble Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="1282">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/kakegurui-yumeko-jabam-in-bubble-peol7emtk9uvllu2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kakegurui, anime, kakegurui, slzr, yumeko jabami, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/255/611/HD-wallpaper-kakegurui-anime-kakegurui-slzr-yumeko-jabami.jpg' alt='Kakegurui, anime, kakegurui, slzr, yumeko jabami, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/255/611/HD-wallpaper-kakegurui-anime-kakegurui-slzr-yumeko-jabami.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Kakegurui Anime Girl Picture | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/kakegurui-pictures-p80dsmy9wuck4vfq.jpg' alt='Download Kakegurui Anime Girl Picture | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/kakegurui-pictures-p80dsmy9wuck4vfq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download free Kakegurui Mary Saotome Wallpaper - MrWallpaper.com">
+                                <img itemprop="contentUrl url" src='https://mrwallpaper.com/images/thumbnail/kakegurui-yumeko-portrait-kksa8nxfjxhns7g6.webp' alt='Download free Kakegurui Mary Saotome Wallpaper - MrWallpaper.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrWallpaper" />
+                                </span>
+                                <a href='https://mrwallpaper.com/images/thumbnail/kakegurui-yumeko-portrait-kksa8nxfjxhns7g6.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="anybody like my kakegurui themed homepage ios 14 edition ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/rfjh8lbymax51.jpg?width=640&crop=smart&auto=webp&s=f9c77278b0bc4cb334893cfc61fa6b910832600a' alt='anybody like my kakegurui themed homepage ios 14 edition ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/rfjh8lbymax51.jpg?width=640&crop=smart&auto=webp&s=f9c77278b0bc4cb334893cfc61fa6b910832600a' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

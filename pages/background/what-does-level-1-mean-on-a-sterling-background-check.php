@@ -1,0 +1,129 @@
+<title>Understanding Level 1: Sterling Background Checks Explained</title>
+                    <meta name="description" content="Discover what Level 1 means on a Sterling background check. This overview covers the basic components, including identity verification and criminal checks, helping you understand how employers assess candidates quickly and efficiently.">
+                    <meta name="keywords" content="what does level 1 mean on a sterling background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/what-does-level-1-mean-on-a-sterling-background-check">
+                            <span itemprop="name">what does level 1 mean on a sterling background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Level 1: Sterling Background Checks Explained</h1>
+                <p>Level 1 on a Sterling background check typically indicates a basic review, often involving identity verification and a check against criminal databases. This level may not include deep dives into employment history or credit checks. Employers utilize this level for a quick assessment of a candidate's background before proceeding further.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What does Level 1 mean on a sterling background check? - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/8n9J225DekE/maxresdefault.jpg' alt='What does Level 1 mean on a sterling background check? - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/8n9J225DekE/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Did I pass? Or what does Sterling mean by this. : r/recruitinghell">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/2exi4uzfw2ia1.jpg' alt='Did I pass? Or what does Sterling mean by this. : r/recruitinghell'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/2exi4uzfw2ia1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is a Level 2 Background Check Screening? | The Justice ...">
+                                <img itemprop="contentUrl url" src='https://thejusticecollaborative.com/wp-content/uploads/table.jpg' alt='What Is a Level 2 Background Check Screening? | The Justice ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2289">
+                                <meta itemprop="height" content="2224">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Justice Collaborative" />
+                                </span>
+                                <a href='https://thejusticecollaborative.com/wp-content/uploads/table.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Help with Sterling Background Check Results : r/recruitinghell">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/help-with-sterling-background-check-results-v0-mov9g8ootl7d1.jpg?width=640&crop=smart&auto=webp&s=7d542e7d63c3efdd886bb6e44f536f909d2679bc' alt='Help with Sterling Background Check Results : r/recruitinghell'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="236">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/help-with-sterling-background-check-results-v0-mov9g8ootl7d1.jpg?width=640&crop=smart&auto=webp&s=7d542e7d63c3efdd886bb6e44f536f909d2679bc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Pass Sterling Background Check">
+                                <img itemprop="contentUrl url" src='https://how-to-pass-sterling-background-check.govbackgroundchecks.com/screenshots/how-to-pass-sterling-background-check/10.jpg' alt='How To Pass Sterling Background Check'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://how-to-pass-sterling-background-check.govbackgroundchecks.com/screenshots/how-to-pass-sterling-background-check/10.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is the Difference between Level 1 and Level 2 Background ...">
+                                <img itemprop="contentUrl url" src='https://edgeinformation.com/wp-content/uploads/2016/01/Edge-Information-Priority-Update-Blog-1024x683.jpg' alt='What is the Difference between Level 1 and Level 2 Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Edge Information Management" />
+                                </span>
+                                <a href='https://edgeinformation.com/wp-content/uploads/2016/01/Edge-Information-Priority-Update-Blog-1024x683.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Help with Sterling Background Check Results : r/recruitinghell">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/help-with-sterling-background-check-results-v0-fjlez8ootl7d1.jpg?width=640&crop=smart&auto=webp&s=20c49af2c72db31dae76486f8efb661f0872c69e' alt='Help with Sterling Background Check Results : r/recruitinghell'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="831">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/help-with-sterling-background-check-results-v0-fjlez8ootl7d1.jpg?width=640&crop=smart&auto=webp&s=20c49af2c72db31dae76486f8efb661f0872c69e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Client Experience - Sterling, a First Advantage company">
+                                <img itemprop="contentUrl url" src='https://www.sterlingcheck.com/wp-content/themes/sterlingnext/assets/images/client-exp/Tablet-03.png' alt='Client Experience - Sterling, a First Advantage company'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1761">
+                                <meta itemprop="height" content="1270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sterling" />
+                                </span>
+                                <a href='https://www.sterlingcheck.com/wp-content/themes/sterlingnext/assets/images/client-exp/Tablet-03.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employers: How to Read a Background Check | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/e1c81e2217231fe802013f6009b6b9a9/51e1c/Image-How-to-Read-Background-Check-sample-963x826-1.png' alt='Employers: How to Read a Background Check | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="963">
+                                <meta itemprop="height" content="826">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/e1c81e2217231fe802013f6009b6b9a9/51e1c/Image-How-to-Read-Background-Check-sample-963x826-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is a level 1 background check? - Zippia">
+                                <img itemprop="contentUrl url" src='https://static.zippia.com/answer-images-webp/what-is-a-level-1-background-check.webp' alt='What is a level 1 background check? - Zippia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1201">
+                                <meta itemprop="height" content="676">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zippia" />
+                                </span>
+                                <a href='https://static.zippia.com/answer-images-webp/what-is-a-level-1-background-check.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

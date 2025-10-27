@@ -1,0 +1,129 @@
+<title>Stunning Blade Runner iPhone Wallpapers for Fans</title>
+                    <meta name="description" content="Discover captivating Blade Runner wallpapers for iPhone that bring the cyberpunk world to your screen. Perfect for fans, these designs feature iconic scenes and characters, enhancing your device’s style while celebrating the timeless classic. Download now for a bold, cinematic flair!">
+                    <meta name="keywords" content="blade runner wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/blade-runner-wallpaper-iphone">
+                            <span itemprop="name">blade runner wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Blade Runner iPhone Wallpapers for Fans</h1>
+                <p>Transform your iPhone with stunning Blade Runner wallpapers that evoke the film's iconic atmosphere. From neon cityscapes to futuristic characters, immerse yourself in a cyberpunk aesthetic. Explore a variety of designs that reflect the movie's themes and enhance your device’s look. Perfect for fans seeking a unique touch!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A dope 2049 iPhone wallpaper : r/bladerunner">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/l01gne5jhvp41.jpg' alt='A dope 2049 iPhone wallpaper : r/bladerunner'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/l01gne5jhvp41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="blade runner digital art 4k iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/53/65/7f/53657f36459151c040e4cf5f94074a93.jpg' alt='blade runner digital art 4k iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/53/65/7f/53657f36459151c040e4cf5f94074a93.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blade Runner 2049 Phone Wallpaper (x-post r/outrun) : r/Cyberpunk">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/r8st4sulel8z.jpg' alt='Blade Runner 2049 Phone Wallpaper (x-post r/outrun) : r/Cyberpunk'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/r8st4sulel8z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blade Runner 2049 Tokyo Cyberpunk 4k iPhone HD 4k Wallpaper, Image ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/58/f8/37/58f83779d2b197beb4fe88588592711e.jpg' alt='Blade Runner 2049 Tokyo Cyberpunk 4k iPhone HD 4k Wallpaper, Image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1219">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/58/f8/37/58f83779d2b197beb4fe88588592711e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New wallpaper with iOS 16. : r/bladerunner">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/o2p1kqxivvn91.jpg' alt='New wallpaper with iOS 16. : r/bladerunner'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2535">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/o2p1kqxivvn91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="blade runner 2049 ios 16 wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6c/24/b6/6c24b6aba7050c53f56b0224507a892f.jpg' alt='blade runner 2049 ios 16 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6c/24/b6/6c24b6aba7050c53f56b0224507a892f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blade Runner, cyberpunk, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/778/237/HD-wallpaper-blade-runner-cyberpunk.jpg' alt='Blade Runner, cyberpunk, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/778/237/HD-wallpaper-blade-runner-cyberpunk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download The Dystopian Landscape of Blade Runner | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/blade-runner-background-o7tcir2bkoowcg2m.jpg' alt='Download The Dystopian Landscape of Blade Runner | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="934">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/blade-runner-background-o7tcir2bkoowcg2m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="mobile phone wallpapers and lock screen wallpapers!">
+                                <img itemprop="contentUrl url" src='https://666.unruled.club/wp-content/uploads/2020/03/bladerunner-deckard-k_iphone-x.jpg' alt='mobile phone wallpapers and lock screen wallpapers!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="mobile phone wallpapers and lock screen wallpapers!" />
+                                </span>
+                                <a href='https://666.unruled.club/wp-content/uploads/2020/03/bladerunner-deckard-k_iphone-x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blade Runner 2049 iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp7985739.jpg' alt='Blade Runner 2049 iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp7985739.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

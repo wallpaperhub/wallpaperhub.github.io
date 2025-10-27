@@ -1,0 +1,129 @@
+<title>Stunning Flower Pattern Wallpaper for Every Room</title>
+                    <meta name="description" content="Discover beautiful flower pattern wallpaper that brings life to your home. Perfect for any decor style, these vibrant designs add a cheerful touch to your walls, making every room feel inviting. Shop now for a variety of floral wallpapers and elevate your interior with natural beauty.">
+                    <meta name="keywords" content="flower pattern wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flower">
+                            <span itemprop="name">Flower</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flower/flower-pattern-wallpaper">
+                            <span itemprop="name">flower pattern wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Flower Pattern Wallpaper for Every Room</h1>
+                <p>Flower pattern wallpaper adds a vibrant touch to any space, transforming walls into blooming landscapes. Perfect for both modern and classic decor, floral designs can brighten up bedrooms, living rooms, or even offices. Explore various styles, from chic minimalist patterns to bold, colorful florals that create an inviting atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Flower Wallpaper Pattern">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/41304148/r/il/0f358f/4807680495/il_570xN.4807680495_l5xn.jpg' alt='Aesthetic Flower Wallpaper Pattern'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/41304148/r/il/0f358f/4807680495/il_570xN.4807680495_l5xn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wildflowers Floral Prepasted Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.sayhomedecor.com/cdn/shop/products/PR11901-HDCrop.jpg?v=1673063181' alt='Wildflowers Floral Prepasted Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1140">
+                                <meta itemprop="height" content="1403">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Say Decor" />
+                                </span>
+                                <a href='https://www.sayhomedecor.com/cdn/shop/products/PR11901-HDCrop.jpg?v=1673063181' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blooming Floral Wallpaper Peel and Stick Pink Impressionist Floral Wall  Mural Peony Roses Wallpaper Nursery Wall Decor (Camellia, 17.7" X 393.7")">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/818sHXztwtL._AC_UF894,1000_QL80_.jpg' alt='Blooming Floral Wallpaper Peel and Stick Pink Impressionist Floral Wall  Mural Peony Roses Wallpaper Nursery Wall Decor (Camellia, 17.7" X 393.7")'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="790">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/818sHXztwtL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Classic Minimalist Floral Wallpaper R9303">
+                                <img itemprop="contentUrl url" src='https://wallsrepublic.com/cdn/shop/files/GreenClassicMinimalistFloralWallpaperR9303.jpg?v=1736259186&width=1200' alt='Green Classic Minimalist Floral Wallpaper R9303'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='https://wallsrepublic.com/cdn/shop/files/GreenClassicMinimalistFloralWallpaperR9303.jpg?v=1736259186&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blooming colorful flower pattern wallpaper">
+                                <img itemprop="contentUrl url" src='https://dbdzm869oupei.cloudfront.net/img/wallpaper/preview/48428.png' alt='Blooming colorful flower pattern wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1418">
+                                <meta itemprop="height" content="2837">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TenStickers" />
+                                </span>
+                                <a href='https://dbdzm869oupei.cloudfront.net/img/wallpaper/preview/48428.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral wallpapers for your wall ➡️ Choose from 2400+ mural designs">
+                                <img itemprop="contentUrl url" src='https://cdn.sanity.io/images/e4vlsgz7/wallpaper-production/8d0d2ffa03bd9847c3ea9d527a167803fb54b60c-3000x2000.jpg' alt='Floral wallpapers for your wall ➡️ Choose from 2400+ mural designs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallism" />
+                                </span>
+                                <a href='https://cdn.sanity.io/images/e4vlsgz7/wallpaper-production/8d0d2ffa03bd9847c3ea9d527a167803fb54b60c-3000x2000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wild Flowers Wallpaper Peach and Green">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/1-WildFlowers_PeachandGreen_ILW50045_Thumbnail_WEB_321259e9-2f8e-4e69-afcd-f94b5e9429b0.webp?crop=center&height=1024&v=1705931767&width=1024' alt='Wild Flowers Wallpaper Peach and Green'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/1-WildFlowers_PeachandGreen_ILW50045_Thumbnail_WEB_321259e9-2f8e-4e69-afcd-f94b5e9429b0.webp?crop=center&height=1024&v=1705931767&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Muted Floral - Heavy Type II">
+                                <img itemprop="contentUrl url" src='http://wallsneedlove.com/cdn/shop/products/w0459_1s_Floral-Pattern-Wallpaper-for-Walls-Muted-Floral_Repeating-Pattern-Sample-1_10a71b1c-2c73-42e6-8343-a7a8469ec8f3.jpg?v=1734718023' alt='Muted Floral - Heavy Type II'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3028">
+                                <meta itemprop="height" content="1872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='http://wallsneedlove.com/cdn/shop/products/w0459_1s_Floral-Pattern-Wallpaper-for-Walls-Muted-Floral_Repeating-Pattern-Sample-1_10a71b1c-2c73-42e6-8343-a7a8469ec8f3.jpg?v=1734718023' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CHINESE FLORAL Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mindtheg.com/media/catalog/product/cache/7/thumbnail/1280x/17f82f742ffe127f42dca9de82fb58b1/w/p/wp20053_-_chinese_floral.jpg' alt='CHINESE FLORAL Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MINDTHEGAP" />
+                                </span>
+                                <a href='https://mindtheg.com/media/catalog/product/cache/7/thumbnail/1280x/17f82f742ffe127f42dca9de82fb58b1/w/p/wp20053_-_chinese_floral.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Wallpaper | Floral Background | Floral Pattern | Phone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e6/2c/0d/e62c0d2a5a9e27a2f3a63780b0743de5.jpg' alt='Floral Wallpaper | Floral Background | Floral Pattern | Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e6/2c/0d/e62c0d2a5a9e27a2f3a63780b0743de5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

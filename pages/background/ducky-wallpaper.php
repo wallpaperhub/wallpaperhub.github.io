@@ -1,0 +1,129 @@
+<title>Charming Ducky Wallpaper for a Playful Touch</title>
+                    <meta name="description" content="Explore delightful ducky wallpaper to refresh your home decor! Perfect for kids' spaces, these vibrant designs add a playful, whimsical charm to any room. Shop now for cheerful patterns that brighten your surroundings and create a warm, inviting atmosphere. Perfect for all ages!">
+                    <meta name="keywords" content="ducky wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ducky-wallpaper">
+                            <span itemprop="name">ducky wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Ducky Wallpaper for a Playful Touch</h1>
+                <p>Brighten up your space with charming ducky wallpaper! Perfect for children's rooms or creating a playful atmosphere, this wallpaper features adorable duck designs that evoke joy and whimsy. Choose from various colors and patterns to suit your style, and transform any room into a delightful sanctuary.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rubber Duck Wallpaper Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/024/743/322/small_2x/duck-seamless-pattern-rubber-ducky-isolated-cartoon-illustration-bird-bath-shower-repeat-wallpaper-tile-background-gift-wrap-paper-yellow-vector.jpg' alt='Rubber Duck Wallpaper Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/024/743/322/small_2x/duck-seamless-pattern-rubber-ducky-isolated-cartoon-illustration-bird-bath-shower-repeat-wallpaper-tile-background-gift-wrap-paper-yellow-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a duck wallpaper : r/duck">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/zr274d3dt3m71.jpg' alt='I made a duck wallpaper : r/duck'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/zr274d3dt3m71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a9/38/fa/a938fadd8e08a1657db107bc740a75c4.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1244">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a9/38/fa/a938fadd8e08a1657db107bc740a75c4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii ducks">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/kawaii-ducks-pattern-repeat-removable-wallpaper-design.jpg' alt='Kawaii ducks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/kawaii-ducks-pattern-repeat-removable-wallpaper-design.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rubber Duck Wallpaper Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/024/720/069/small_2x/duck-seamless-pattern-rubber-ducky-isolated-cartoon-illustration-bird-bath-shower-repeat-wallpaper-tile-background-gift-wrap-paper-white-vector.jpg' alt='Rubber Duck Wallpaper Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/024/720/069/small_2x/duck-seamless-pattern-rubber-ducky-isolated-cartoon-illustration-bird-bath-shower-repeat-wallpaper-tile-background-gift-wrap-paper-white-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="19 Duck ideas | duck, duck wallpaper, rubber duck">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/bc/5b/95/bc5b955371769869d67a6ff64fedc167.png' alt='19 Duck ideas | duck, duck wallpaper, rubber duck'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/bc/5b/95/bc5b955371769869d67a6ff64fedc167.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Duck wallpapers Collection | Peel & Stick Or Non-pasted">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/duckling-dream-pattern-repeat-removable-wallpaper-design-683x1024.jpg' alt='Duck wallpapers Collection | Peel & Stick Or Non-pasted'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/duckling-dream-pattern-repeat-removable-wallpaper-design-683x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="duck vector icon logo rubber duck sunglasses shower bath cartoon ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/03/00/94/82/1000_F_300948277_4BxXOCD7HM84Rjr3ij7OMm7AMTdSgkbb.jpg' alt='duck vector icon logo rubber duck sunglasses shower bath cartoon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/03/00/94/82/1000_F_300948277_4BxXOCD7HM84Rjr3ij7OMm7AMTdSgkbb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Duck on wallpaper - Finished Artworks - Krita Artists">
+                                <img itemprop="contentUrl url" src='https://krita-artists.org/uploads/default/original/3X/c/4/c42c8f3d26b6a9ee487f032801f7dc361807a747.jpeg' alt='Duck on wallpaper - Finished Artworks - Krita Artists'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Krita Artists" />
+                                </span>
+                                <a href='https://krita-artists.org/uploads/default/original/3X/c/4/c42c8f3d26b6a9ee487f032801f7dc361807a747.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8,300+ Duck Wallpaper Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1397099748/vector/rubber-ducks-seamless-pattern.jpg?s=612x612&w=0&k=20&c=dIq8eAcThaVUB5SIKSixo8bxvrgp945EgqHuVmSa6fo=' alt='8,300+ Duck Wallpaper Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1397099748/vector/rubber-ducks-seamless-pattern.jpg?s=612x612&w=0&k=20&c=dIq8eAcThaVUB5SIKSixo8bxvrgp945EgqHuVmSa6fo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

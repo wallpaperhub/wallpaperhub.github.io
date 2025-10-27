@@ -1,0 +1,129 @@
+<title>Discover Kirishima: Heroic Background & Quirk</title>
+                    <meta name="description" content="Explore the captivating background of Kirishima Eijiro from "My Hero Academia." Uncover the story behind his strengths, his Quirk, Hardening, and his unwavering dedication to heroism. Dive into the journey of this beloved character and what makes him stand out in the world of superheroes!">
+                    <meta name="keywords" content="kirishima background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/kirishima-background">
+                            <span itemprop="name">kirishima background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Kirishima: Heroic Background & Quirk</h1>
+                <p>Kirishima Eijiro, a popular character from the anime "My Hero Academia," hails from a supportive family and showcases extraordinary resilience and determination. With his Quirk, Hardening, he embodies the spirit of heroism, always eager to protect his friends and fight for justice, making him a beloved figure in the series.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kirishima Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/d7/3d/01/d73d01af10e65d0e5241f39f2a416d47.jpg' alt='Kirishima Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1013">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/d7/3d/01/d73d01af10e65d0e5241f39f2a416d47.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eijiro Kirishima - My Hero Academia HD Wallpaper by Sanoboss">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/715/715557.png' alt='Eijiro Kirishima - My Hero Academia HD Wallpaper by Sanoboss'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/715/715557.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eijiro Kirishima">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3b/80/4d/3b804d953870e9f9f6c90e6b46370fba.jpg' alt='Eijiro Kirishima'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3b/80/4d/3b804d953870e9f9f6c90e6b46370fba.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="KIRISHIMA PHONE WALLPAPER       : r/BokuNoHeroAcademia">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/s9zvod9fx4y11.jpg?width=1080&crop=smart&auto=webp&s=fbe71ec4e793245a0046fb0b12967f915b05646c' alt='KIRISHIMA PHONE WALLPAPER       : r/BokuNoHeroAcademia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1870">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/s9zvod9fx4y11.jpg?width=1080&crop=smart&auto=webp&s=fbe71ec4e793245a0046fb0b12967f915b05646c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Idk if it's artwork but I made a wallpaper for best boy ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/utils8pbc0t31.jpg' alt='Idk if it's artwork but I made a wallpaper for best boy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="864">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/utils8pbc0t31.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Eijiro Kirishima Anime My Hero Academia 4k Ultra HD ...">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/129/1290457.png' alt='Download Eijiro Kirishima Anime My Hero Academia 4k Ultra HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/129/1290457.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kirishima wallpaper by EijirouKirishina - Download on ZEDGE™ | 5a00">
+                                <img itemprop="contentUrl url" src='https://is.zobj.net/image-server/v1/images?r=YPp8uFTc-a5iRQ83hrurJgmKxQwfaEUlXnQrSbMnAL7SVZZxloEDP_S9mgWsRrQn47HV4BWWDwa5M2Y_kbts5nVPNIV425d08_9D9u_8rGKQPECHyIqD5XxlcdB5Sou6H26qWDAm8Tb65olLwJfJDU7UyZj5rH-ES369vd4heDp-HSk1vYor4z31K1SHH3JZVz1foAHr4qniG3K4yPQH8TPDHjxl3kH50h_ZXg' alt='Kirishima wallpaper by EijirouKirishina - Download on ZEDGE™ | 5a00'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="674">
+                                <meta itemprop="height" content="1197">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zedge" />
+                                </span>
+                                <a href='https://is.zobj.net/image-server/v1/images?r=YPp8uFTc-a5iRQ83hrurJgmKxQwfaEUlXnQrSbMnAL7SVZZxloEDP_S9mgWsRrQn47HV4BWWDwa5M2Y_kbts5nVPNIV425d08_9D9u_8rGKQPECHyIqD5XxlcdB5Sou6H26qWDAm8Tb65olLwJfJDU7UyZj5rH-ES369vd4heDp-HSk1vYor4z31K1SHH3JZVz1foAHr4qniG3K4yPQH8TPDHjxl3kH50h_ZXg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kirishima wallpaper ❤️">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/22/b6/07/22b60725e26e80dc575fee40a1c91641.jpg' alt='Kirishima wallpaper ❤️'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/22/b6/07/22b60725e26e80dc575fee40a1c91641.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Eijiro Kirishima Anime My Hero Academia 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/119/1191369.jpg' alt='Download Eijiro Kirishima Anime My Hero Academia 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/119/1191369.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cute Kirishima Comic Art Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-kirishima-x7wur2yrjr2o9z6z.jpg' alt='Download Cute Kirishima Comic Art Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1709">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-kirishima-x7wur2yrjr2o9z6z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

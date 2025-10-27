@@ -1,0 +1,129 @@
+<title>Understanding the History of Epilepsy: From Ancient Times to Today</title>
+                    <meta name="description" content="Explore the fascinating history of epilepsy, from ancient beliefs to modern medical breakthroughs. Learn how perceptions and treatments have evolved over centuries for this complex neurological disorder.">
+                    <meta name="keywords" content="history of epilepsy">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/history-of-epilepsy">
+                            <span itemprop="name">history of epilepsy</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding the History of Epilepsy: From Ancient Times to Today</h1>
+                <p>Epilepsy is one of the oldest documented medical conditions, with mentions in ancient texts like the Babylonian Talmud and writings of Hippocrates. Initially attributed to supernatural forces, it was later recognized as a neurological disorder. Advances in understanding have evolved from trepanation in antiquity to modern treatments, including medications and surgery.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Epilepsy - EpilepsyU">
+                                <img itemprop="contentUrl url" src='https://epilepsyu.com/wp-content/uploads/2018/07/epilepsy-xlarge_trans7-ti_f0E0as7KZdAbTaT3mOG26rzXIUuj0LKr_D6jUs.jpg' alt='The History of Epilepsy - EpilepsyU'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="975">
+                                <meta itemprop="height" content="610">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EpilepsyU" />
+                                </span>
+                                <a href='https://epilepsyu.com/wp-content/uploads/2018/07/epilepsy-xlarge_trans7-ti_f0E0as7KZdAbTaT3mOG26rzXIUuj0LKr_D6jUs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of epilepsy (Chapter 1) - Introduction to Epilepsy">
+                                <img itemprop="contentUrl url" src='https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:42043:20160802153128384-0554:69158fig1_1.gif?pub-status=live' alt='History of epilepsy (Chapter 1) - Introduction to Epilepsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="528">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cambridge University Press & Assessment" />
+                                </span>
+                                <a href='https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:42043:20160802153128384-0554:69158fig1_1.gif?pub-status=live' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Epilepsy - The Lancet">
+                                <img itemprop="contentUrl url" src='https://www.thelancet.com/cms/attachment/2112980504/2084194995/fx1.jpg' alt='Epilepsy - The Lancet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="670">
+                                <meta itemprop="height" content="354">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Lancet" />
+                                </span>
+                                <a href='https://www.thelancet.com/cms/attachment/2112980504/2084194995/fx1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I willed him to wake up': epilepsy in art – and in life ...">
+                                <img itemprop="contentUrl url" src='https://i.guim.co.uk/img/media/00368843070e39886a70f424d41e02a89398b869/345_788_2837_1703/master/2837.jpg?width=465&dpr=1&s=none&crop=none' alt='I willed him to wake up': epilepsy in art – and in life ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="465">
+                                <meta itemprop="height" content="279">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Guardian" />
+                                </span>
+                                <a href='https://i.guim.co.uk/img/media/00368843070e39886a70f424d41e02a89398b869/345_788_2837_1703/master/2837.jpg?width=465&dpr=1&s=none&crop=none' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seizures: disorders of the mind, body, or both? | The History of ...">
+                                <img itemprop="contentUrl url" src='http://emotionsblog.history.qmul.ac.uk/wp-content/uploads/2014/12/An_epileptic_or_sick_person_having_a_fit_on_a_stretcher_two_Wellcome_V0016630.jpg' alt='Seizures: disorders of the mind, body, or both? | The History of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3407">
+                                <meta itemprop="height" content="2364">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The History of Emotions Blog" />
+                                </span>
+                                <a href='http://emotionsblog.history.qmul.ac.uk/wp-content/uploads/2014/12/An_epileptic_or_sick_person_having_a_fit_on_a_stretcher_two_Wellcome_V0016630.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brief History of Epilepsy & Seizures | UHN Research">
+                                <img itemprop="contentUrl url" src='https://www.uhnresearch.ca/sites/default/files/news_images/Image_Michael.jpg' alt='Brief History of Epilepsy & Seizures | UHN Research'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="672">
+                                <meta itemprop="height" content="378">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHN Research" />
+                                </span>
+                                <a href='https://www.uhnresearch.ca/sites/default/files/news_images/Image_Michael.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The first seizure | Wellcome Collection">
+                                <img itemprop="contentUrl url" src='https://images.prismic.io/wellcomecollection/fe3000e5-11f8-4ded-a0f4-efca22ea89d8_epileptic+fit.jpg?w=1338&auto=compress%2Cformat&rect=&q=100' alt='The first seizure | Wellcome Collection'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1338">
+                                <meta itemprop="height" content="910">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wellcome Collection" />
+                                </span>
+                                <a href='https://images.prismic.io/wellcomecollection/fe3000e5-11f8-4ded-a0f4-efca22ea89d8_epileptic+fit.jpg?w=1338&auto=compress%2Cformat&rect=&q=100' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sociology: Shedding the shame | Nature">
+                                <img itemprop="contentUrl url" src='https://media.springernature.com/lw703/springer-static/image/art%3A10.1038%2F511S10a/MediaObjects/41586_2014_BF511S10a_Figa_HTML.jpg' alt='Sociology: Shedding the shame | Nature'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="703">
+                                <meta itemprop="height" content="1010">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nature" />
+                                </span>
+                                <a href='https://media.springernature.com/lw703/springer-static/image/art%3A10.1038%2F511S10a/MediaObjects/41586_2014_BF511S10a_Figa_HTML.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PDF] The History of Epilepsy: From Ancient Mystery to Modern ...">
+                                <img itemprop="contentUrl url" src='https://figures.semanticscholar.org/bf0c63d0b18a42e60195edc095a3a5c6f990c21f/4-Figure2-1.png' alt='PDF] The History of Epilepsy: From Ancient Mystery to Modern ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="966">
+                                <meta itemprop="height" content="1036">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Semantic Scholar" />
+                                </span>
+                                <a href='https://figures.semanticscholar.org/bf0c63d0b18a42e60195edc095a3a5c6f990c21f/4-Figure2-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The history of epilepsy: an interactive timeline | OUPblog">
+                                <img itemprop="contentUrl url" src='http://upload.wikimedia.org/wikipedia/commons/5/5f/A_marble_bust_said_to_represent_Hippocrates_by_J._Faber._Wellcome_M0017663.jpg' alt='The history of epilepsy: an interactive timeline | OUPblog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2836">
+                                <meta itemprop="height" content="4022">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OUP Blog - Oxford University Press" />
+                                </span>
+                                <a href='http://upload.wikimedia.org/wikipedia/commons/5/5f/A_marble_bust_said_to_represent_Hippocrates_by_J._Faber._Wellcome_M0017663.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

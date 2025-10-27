@@ -1,0 +1,129 @@
+<title>Serene Breathe Phone Wallpapers for Mindfulness</title>
+                    <meta name="description" content="Explore our unique collection of breathe phone wallpapers designed to inspire calmness and promote mindfulness. Perfect for anyone seeking a peaceful reminder on their device. Download now for a refreshing visual experience every time you check your phone!">
+                    <meta name="keywords" content="breathe phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/breathe-phone-wallpaper">
+                            <span itemprop="name">breathe phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Serene Breathe Phone Wallpapers for Mindfulness</h1>
+                <p>Transform your smartphone experience with our stunning breathe phone wallpaper collection. Immerse yourself in calming visuals that promote relaxation and mindfulness. Perfect for daily use, these wallpapers embody tranquility and encourage a deep breath each time you unlock your device. Refresh your screen now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Breathe Mobile Wallpaper Freebie | Monica Hampton Design">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c6/74/e0/c674e04ec1ac554e3ed1e62e1b4a5e9d.jpg' alt='Breathe Mobile Wallpaper Freebie | Monica Hampton Design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c6/74/e0/c674e04ec1ac554e3ed1e62e1b4a5e9d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Breathe Wallpapers on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/2f/fd/8a/2ffd8ad9bd5d4e37ee965675677dd950.jpg' alt='   Breathe Wallpapers on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/2f/fd/8a/2ffd8ad9bd5d4e37ee965675677dd950.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Wallpaper | Clouds | Breathe | Meditation | Anxiety Relief |  Background | Wallpaper - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/40229226/r/il/0fd1cd/4524046322/il_1080xN.4524046322_d82y.jpg' alt='Phone Wallpaper | Clouds | Breathe | Meditation | Anxiety Relief |  Background | Wallpaper - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/40229226/r/il/0fd1cd/4524046322/il_1080xN.4524046322_d82y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Breathe Sky, breathe, clouds, sky, soft, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/1009/970/HD-wallpaper-breathe-sky-breathe-clouds-sky-soft.jpg' alt='Breathe Sky, breathe, clouds, sky, soft, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/1009/970/HD-wallpaper-breathe-sky-breathe-clouds-sky-soft.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Just Breathe - Free Desktop, Tablet and Mobile Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/70/a1/d8/70a1d826a99bb635131b2222f80a3010.jpg' alt='Just Breathe - Free Desktop, Tablet and Mobile Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/70/a1/d8/70a1d826a99bb635131b2222f80a3010.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Breathing Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/breathing-text-dark-forest-dxiq74j7zs8nf12e.jpg' alt='100+] Breathing Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/breathing-text-dark-forest-dxiq74j7zs8nf12e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Just Breathe (Plus FREE Lock Screens to Help You Stay Peaceful ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f1/96/15/f19615d895f98d53236a6d440743daea.jpg' alt='Just Breathe (Plus FREE Lock Screens to Help You Stay Peaceful ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f1/96/15/f19615d895f98d53236a6d440743daea.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Breathe mobile - VIVE CON STYLE">
+                                <img itemprop="contentUrl url" src='https://viveconstyle.com/wp-content/uploads/2018/02/Breathe-mobile.jpg' alt='Breathe mobile - VIVE CON STYLE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2561">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="vive con style" />
+                                </span>
+                                <a href='https://viveconstyle.com/wp-content/uploads/2018/02/Breathe-mobile.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD just breathe wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/666/862/HD-wallpaper-just-breathe.jpg' alt='HD just breathe wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/666/862/HD-wallpaper-just-breathe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper – Why I Love Where I Live">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0355/0435/7514/files/WILWIL-breathe.jpg?v=1587681901' alt='Wallpaper – Why I Love Where I Live'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Why I Love Where I Live" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0355/0435/7514/files/WILWIL-breathe.jpg?v=1587681901' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

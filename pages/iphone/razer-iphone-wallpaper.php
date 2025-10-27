@@ -1,0 +1,129 @@
+<title>Epic Razer iPhone Wallpapers for Gamers</title>
+                    <meta name="description" content="Discover an exclusive collection of Razer iPhone wallpapers that elevate your device's style. Perfect for gamers and tech enthusiasts, our vibrant and dynamic designs will turn heads. Download your favorites today and showcase your passion for gaming right on your iPhone! Ideal for any model and designed to impress.">
+                    <meta name="keywords" content="razer iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/razer-iphone-wallpaper">
+                            <span itemprop="name">razer iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Razer iPhone Wallpapers for Gamers</h1>
+                <p>Transform your iPhone with stunning Razer wallpapers that showcase your love for gaming and technology. These eye-catching designs feature the iconic neon green accents and sleek aesthetics that Razer is known for. Personalize your device and make a bold statement every time you unlock your screen. Explore a variety of wallpapers perfect for any iPhone model!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chroma iPhone X Live Wallpaper">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/cJTY_eGlSh1nV2K9qXEHxYfqYqiSqCskED-8hD89vEQ.png?format=pjpg&auto=webp&s=f58103d7d73a98a2f0bcea1f3fb212182b4d8dbb' alt='Chroma iPhone X Live Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="562">
+                                <meta itemprop="height" content="1218">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/cJTY_eGlSh1nV2K9qXEHxYfqYqiSqCskED-8hD89vEQ.png?format=pjpg&auto=webp&s=f58103d7d73a98a2f0bcea1f3fb212182b4d8dbb' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a Razer wallpaper that is 1920x1080 but also fits nicely on ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/9szi2vrhs3861.jpg' alt='I made a Razer wallpaper that is 1920x1080 but also fits nicely on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/9szi2vrhs3861.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Razer 4K iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e4/aa/17/e4aa173e17c1572ae5b264317070fcb2.jpg' alt='Razer 4K iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e4/aa/17/e4aa173e17c1572ae5b264317070fcb2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Razer iPhone Lock Screen Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/phone/images/640/razer.png' alt='Razer iPhone Lock Screen Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/phone/images/640/razer.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Razer phone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e4/fe/ef/e4feefe8d06b463280491bde874ec711.jpg' alt='Razer phone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e4/fe/ef/e4feefe8d06b463280491bde874ec711.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Razer wallpapers, virtual backgrounds, and videos | Razer ...">
+                                <img itemprop="contentUrl url" src='https://assets2.razerzone.com/images/downloads-page/thumbnails/synthesize_thumbnail.jpg' alt='Download Razer wallpapers, virtual backgrounds, and videos | Razer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="253">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Razer" />
+                                </span>
+                                <a href='https://assets2.razerzone.com/images/downloads-page/thumbnails/synthesize_thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green RAZER Logo, tech, computer, gradient, black, technology ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/957/984/HD-wallpaper-green-razer-logo-tech-computer-gradient-black-technology-tron.jpg' alt='Green RAZER Logo, tech, computer, gradient, black, technology ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1689">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/957/984/HD-wallpaper-green-razer-logo-tech-computer-gradient-black-technology-tron.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Razer, gamer, games, razer phone, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/940/567/HD-wallpaper-razer-gamer-games-razer-phone.jpg' alt='Razer, gamer, games, razer phone, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/940/567/HD-wallpaper-razer-gamer-games-razer-phone.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vault Wallpaper 4K, Razer, Green, Dark, 3D, Neon">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/vault-razer-green-dark-sci-fi-3d-neon-1080x2160-1402.jpg' alt='Vault Wallpaper 4K, Razer, Green, Dark, 3D, Neon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/vault-razer-green-dark-sci-fi-3d-neon-1080x2160-1402.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Razer Dark Background Wallpaper iPhone HD Phone #2410g">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/razer-dark-background-241@0@g-phone-4k.jpg' alt='4K Razer Dark Background Wallpaper iPhone HD Phone #2410g'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/razer-dark-background-241@0@g-phone-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

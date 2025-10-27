@@ -1,0 +1,129 @@
+<title>Boho Classroom Ideas: Create a Cozy Learning Space</title>
+                    <meta name="description" content="Explore trendy boho classroom ideas that blend comfort and creativity. Discover tips for vibrant decor, seating arrangements, and a cozy atmosphere to enhance student engagement and well-being. Transform your classroom into an inspiring learning haven today!">
+                    <meta name="keywords" content="boho classroom ideas">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/boho-classroom-ideas">
+                            <span itemprop="name">boho classroom ideas</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Boho Classroom Ideas: Create a Cozy Learning Space</h1>
+                <p>Transform your classroom into a bohemian oasis with these inspiring ideas! Use rich, earthy colors, eclectic decor, and natural materials. Add cozy rugs, string lights, and plants to create a warm atmosphere. Incorporate multi-functional seating and creative learning zones to boost engagement and comfort in your unique boho classroom.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Classroom Decor Inspiration: My Favorite Modern Boho Themed ...">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0560/4881/2187/files/mycozyclassroom_31.jpg' alt='Boho Classroom Decor Inspiration: My Favorite Modern Boho Themed ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Miss Jacobs Little Learners" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0560/4881/2187/files/mycozyclassroom_31.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Classroom Decor — Stephanie Nash - A Touch of Class Teaching">
+                                <img itemprop="contentUrl url" src='https://www.atouchofclassteaching.com/wp-content/uploads/2021/08/Modern-Boho-Classroom-Decor-8-scaled-1.jpeg' alt='Boho Classroom Decor — Stephanie Nash - A Touch of Class Teaching'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="A Touch of Class Teaching" />
+                                </span>
+                                <a href='https://www.atouchofclassteaching.com/wp-content/uploads/2021/08/Modern-Boho-Classroom-Decor-8-scaled-1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Rainbow Classroom Decor Bundle – Heart of the Class">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0709/3911/5796/files/Boho_Rainbow_Classroom_Decor.jpg?v=1698665331' alt='Boho Rainbow Classroom Decor Bundle – Heart of the Class'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heart of the Class" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0709/3911/5796/files/Boho_Rainbow_Classroom_Decor.jpg?v=1698665331' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Rainbow Classroom Decor | Neutral Rainbow Decor Bundle 3,000+ Page  Mega Bundle! | Classroom Theme Ideas | Boho Classroom Decor - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/32937398/r/il/effb0e/5771321051/il_1080xN.5771321051_spxm.jpg' alt='Boho Rainbow Classroom Decor | Neutral Rainbow Decor Bundle 3,000+ Page  Mega Bundle! | Classroom Theme Ideas | Boho Classroom Decor - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/32937398/r/il/effb0e/5771321051/il_1080xN.5771321051_spxm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Classroom Decor Inspiration: My Favorite Modern Boho Themed ...">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0560/4881/2187/files/ms_strous_inthehouse1.jpg' alt='Boho Classroom Decor Inspiration: My Favorite Modern Boho Themed ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Miss Jacobs Little Learners" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0560/4881/2187/files/ms_strous_inthehouse1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simply Boho Classroom Decor | Schoolgirl Style">
+                                <img itemprop="contentUrl url" src='http://shopschoolgirlstyle.com/cdn/shop/collections/cICp9euk.jpg?v=1711556360' alt='Simply Boho Classroom Decor | Schoolgirl Style'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4500">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Schoolgirl Style" />
+                                </span>
+                                <a href='http://shopschoolgirlstyle.com/cdn/shop/collections/cICp9euk.jpg?v=1711556360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Rainbow Classroom Decor - Spirited and Then Some">
+                                <img itemprop="contentUrl url" src='https://www.spiritedandthensome.com/wp-content/uploads/2022/09/Boho-Rainbow-Classroom-Decor-8604.jpg' alt='Boho Rainbow Classroom Decor - Spirited and Then Some'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="870">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spirited and Then Some" />
+                                </span>
+                                <a href='https://www.spiritedandthensome.com/wp-content/uploads/2022/09/Boho-Rainbow-Classroom-Decor-8604.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groovy Boho Complete Classroom Collection [editable] - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30975963/r/il/532f06/3774428870/il_570xN.3774428870_4ocv.jpg' alt='Groovy Boho Complete Classroom Collection [editable] - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30975963/r/il/532f06/3774428870/il_570xN.3774428870_4ocv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="39 Boho Classroom ideas | classroom, classroom inspiration ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/46/9a/ac/469aac2bf4d5694f9e3e9566b0116c7b.jpg' alt='39 Boho Classroom ideas | classroom, classroom inspiration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="1523">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/46/9a/ac/469aac2bf4d5694f9e3e9566b0116c7b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Classroom Inspiration — Teacher Questions - Advice and ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/63cc36b8382a9f16d06eeb36/1121ee3e-09e9-4bc0-9ac5-fd3840482725/boho-class-decorations-inpiration.jpeg' alt='Boho Classroom Inspiration — Teacher Questions - Advice and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="701">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Teacher Questions" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/63cc36b8382a9f16d06eeb36/1121ee3e-09e9-4bc0-9ac5-fd3840482725/boho-class-decorations-inpiration.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

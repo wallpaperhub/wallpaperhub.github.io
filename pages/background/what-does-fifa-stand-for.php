@@ -1,0 +1,129 @@
+<title>What Does FIFA Stand For? Understanding the World's Football Governing Body</title>
+                    <meta name="description" content="Discover what FIFA stands for – the Fédération Internationale de Football Association! Learn about its role in global football, overseeing competitions and promoting the sport worldwide. Get insightful details in our concise guide.">
+                    <meta name="keywords" content="what does fifa stand for">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/what-does-fifa-stand-for">
+                            <span itemprop="name">what does fifa stand for</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>What Does FIFA Stand For? Understanding the World's Football Governing Body</h1>
+                <p>FIFA stands for Fédération Internationale de Football Association. Founded in 1904, it is the global governing body for football (soccer) and oversees international competitions, including the FIFA World Cup. FIFA works to promote and develop the sport worldwide, establishing rules and regulations to ensure fair competition and sportsmanship.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Does FIFA Stand For? An Introduction To Football's Governing ...">
+                                <img itemprop="contentUrl url" src='https://jobsinfootball.mysmartjobboard.com/files/userfiles/what_does_fifa_stand_for.jpg' alt='What Does FIFA Stand For? An Introduction To Football's Governing ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="668">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jobs in Football" />
+                                </span>
+                                <a href='https://jobsinfootball.mysmartjobboard.com/files/userfiles/what_does_fifa_stand_for.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Does FIFA Stand For? Everything You Need to Know">
+                                <img itemprop="contentUrl url" src='https://artoffootballblog.com/wp-content/uploads/word-image-15280-1.png' alt='What Does FIFA Stand For? Everything You Need to Know'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="the Art of Football" />
+                                </span>
+                                <a href='https://artoffootballblog.com/wp-content/uploads/word-image-15280-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Does FIFA Stand For? An Introduction To Football's Governing ...">
+                                <img itemprop="contentUrl url" src='https://jobsinfootball.mysmartjobboard.com/files/userfiles/what_is_fifa.jpg' alt='What Does FIFA Stand For? An Introduction To Football's Governing ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="649">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jobs in Football" />
+                                </span>
+                                <a href='https://jobsinfootball.mysmartjobboard.com/files/userfiles/what_is_fifa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What does FIFA stand for?">
+                                <img itemprop="contentUrl url" src='https://static0.givemesportimages.com/wordpress/wp-content/uploads/2023/01/GettyImages-129728336-scaled.jpg' alt='What does FIFA stand for?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1708">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GiveMeSport" />
+                                </span>
+                                <a href='https://static0.givemesportimages.com/wordpress/wp-content/uploads/2023/01/GettyImages-129728336-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FIFA - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/a/aa/FIFA_logo_without_slogan.svg' alt='FIFA - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="263">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/a/aa/FIFA_logo_without_slogan.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is FIFA? Explaining who is running world soccer, what the ...">
+                                <img itemprop="contentUrl url" src='https://library.sportingnews.com/styles/crop_style_16_9_desktop/s3/2021-10/fifa-cropped_tq86iu63pkhv1optroqe9v44e.jpg?itok=BSxD_23f' alt='What is FIFA? Explaining who is running world soccer, what the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="760">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sporting News" />
+                                </span>
+                                <a href='https://library.sportingnews.com/styles/crop_style_16_9_desktop/s3/2021-10/fifa-cropped_tq86iu63pkhv1optroqe9v44e.jpg?itok=BSxD_23f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Does FIFA Stand For? Everything You Need to Know">
+                                <img itemprop="contentUrl url" src='https://artoffootballblog.com/wp-content/uploads/fifa.png' alt='What Does FIFA Stand For? Everything You Need to Know'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="the Art of Football" />
+                                </span>
+                                <a href='https://artoffootballblog.com/wp-content/uploads/fifa.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What does FIFA stands for?">
+                                <img itemprop="contentUrl url" src='https://gagfin.com/public/upload/blog/blog_201603021423238215092859.jpg' alt='What does FIFA stands for?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="442">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GAGFIN" />
+                                </span>
+                                <a href='https://gagfin.com/public/upload/blog/blog_201603021423238215092859.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starlink Qatar - Founded in Paris, Franch in 1904, the acronym ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10162686083757468' alt='Starlink Qatar - Founded in Paris, Franch in 1904, the acronym ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10162686083757468' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FIFA Full Form: FIFA Stands for Federation Internationale de ...">
+                                <img itemprop="contentUrl url" src='https://blogcdn.aakash.ac.in/wordpress_media/2023/06/FIFA-Full-Form.jpg' alt='FIFA Full Form: FIFA Stands for Federation Internationale de ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Aakash Institute" />
+                                </span>
+                                <a href='https://blogcdn.aakash.ac.in/wordpress_media/2023/06/FIFA-Full-Form.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

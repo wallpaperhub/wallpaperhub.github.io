@@ -1,0 +1,129 @@
+<title>Heart Aesthetic Wallpaper: Transform Your Space</title>
+                    <meta name="description" content="Discover heart aesthetic wallpaper to bring love and charm to any room. Our collection features stunning designs that elevate your decor and express your personality. Perfect for creating a cozy atmosphere, these wallpapers are ideal for any space. Transform your home effortlessly with heart-themed patterns!">
+                    <meta name="keywords" content="wallpaper heart aesthetic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/wallpaper-heart-aesthetic">
+                            <span itemprop="name">wallpaper heart aesthetic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Heart Aesthetic Wallpaper: Transform Your Space</h1>
+                <p>Transform your space with wallpaper heart aesthetics that inspire love and creativity. Whether you're decorating a cozy nook or a vibrant living room, heart-patterned wallpapers add a touch of romance and whimsy. Choose from pastel colors or bold designs to elevate your ambiance and express your unique style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Hearts Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1e/0a/3e/1e0a3e0985b1de67764a55ca106bd5c3.jpg' alt='Aesthetic Hearts Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1e/0a/3e/1e0a3e0985b1de67764a55ca106bd5c3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable wallpaper heart templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFG82fpdII/1/0/900w/canva-taupe-brown-beige-blury-heart-aesthetic-phone-wallpaper-huPvq73ouUI.jpg' alt='Free and customizable wallpaper heart templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFG82fpdII/1/0/900w/canva-taupe-brown-beige-blury-heart-aesthetic-phone-wallpaper-huPvq73ouUI.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 Heart wallpaper ideas | heart wallpaper, heart iphone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/41/02/90/410290aac8e07e7a25f6e93022552f37.jpg' alt='15 Heart wallpaper ideas | heart wallpaper, heart iphone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/41/02/90/410290aac8e07e7a25f6e93022552f37.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Love Aesthetic Brown Hearts Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/love-aesthetic-brown-hearts-5h5mpmev9fvvirax.jpg' alt='Love Aesthetic Brown Hearts Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/love-aesthetic-brown-hearts-5h5mpmev9fvvirax.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable heart wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAF7k4rrUU8/1/0/900w/canva-phone-wallpapers-love-stories-h7SK3HeMCII.jpg' alt='Free and customizable heart wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAF7k4rrUU8/1/0/900w/canva-phone-wallpapers-love-stories-h7SK3HeMCII.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic minimalist heart wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/20/2f/10/202f10a0a342f2a535c9b4e8b3661c57.jpg' alt='Aesthetic minimalist heart wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/20/2f/10/202f10a0a342f2a535c9b4e8b3661c57.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart Aesthetic Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/flat-design-wildflower-heart-background_23-2150534247.jpg' alt='Heart Aesthetic Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/flat-design-wildflower-heart-background_23-2150534247.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Pink Iphone Heart With Ring Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/aesthetic-pink-iphone-heart-with-ring-so50p9xm02mlbkf6.jpg' alt='Aesthetic Pink Iphone Heart With Ring Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/aesthetic-pink-iphone-heart-with-ring-so50p9xm02mlbkf6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD heart aesthetic wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/26/725/HD-wallpaper-heart-aesthetic-background.jpg' alt='HD heart aesthetic wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/26/725/HD-wallpaper-heart-aesthetic-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="27 Layered heart aesthetic wallpapers ideas | heart wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/43/9a/53/439a53d3458965d9df3d2aab65362043.jpg' alt='27 Layered heart aesthetic wallpapers ideas | heart wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="843">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/43/9a/53/439a53d3458965d9df3d2aab65362043.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

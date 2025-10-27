@@ -1,0 +1,129 @@
+<title>Vibrant Wallpaper Ideas to Brighten Your Walls</title>
+                    <meta name="description" content="Discover the impact of bright wallpaper on your walls! Explore lively designs and colors that invigorate your space, boost mood, and reflect your style. Perfect for home or office, find wallpaper solutions that brighten any room effortlessly.">
+                    <meta name="keywords" content="bright wallpaper for walls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/bright-wallpaper-for-walls">
+                            <span itemprop="name">bright wallpaper for walls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Wallpaper Ideas to Brighten Your Walls</h1>
+                <p>Bright wallpaper can transform any space into a vibrant oasis. Choose bold colors and lively patterns to create an energetic atmosphere in your home or office. From floral designs to geometric shapes, bright wallpaper enhances natural light and adds personality. Elevate your walls and inspire creativity with the right choice!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Flortlias Peel and Stick Floral Wall Mural, Leather Textured  Vinyl Self-Adhesive Wallpaper for Bedroom Living Room Accent Wall Decor, ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/813ltMDmcwL.jpg' alt='Amazon.com: Flortlias Peel and Stick Floral Wall Mural, Leather Textured  Vinyl Self-Adhesive Wallpaper for Bedroom Living Room Accent Wall Decor, ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/813ltMDmcwL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rebbie Wallpaper">
+                                <img itemprop="contentUrl url" src='http://wallblush.com/cdn/shop/files/2_8cad43c9-8037-4b5f-a16d-7fe28c33521e.jpg?v=1720044251&width=2048' alt='Rebbie Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='http://wallblush.com/cdn/shop/files/2_8cad43c9-8037-4b5f-a16d-7fe28c33521e.jpg?v=1720044251&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Totally Tie Dye Mural in Bright Pinks – I Love Wallpaper">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/2-TotallyTieDyeMural_BrightPink_WM0362_Roomset_Lifestyle_WEB.webp?crop=center&height=850&v=1705578577&width=850' alt='Totally Tie Dye Mural in Bright Pinks – I Love Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/2-TotallyTieDyeMural_BrightPink_WM0362_Roomset_Lifestyle_WEB.webp?crop=center&height=850&v=1705578577&width=850' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bright Floral Wall Mural, Hand-painted Crimson and Teal Watercolor ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/10833868/r/il/1c4344/1873949020/il_570xN.1873949020_f2a1.jpg' alt='Bright Floral Wall Mural, Hand-painted Crimson and Teal Watercolor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="798">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/10833868/r/il/1c4344/1873949020/il_570xN.1873949020_f2a1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Malibu Wallpaper">
+                                <img itemprop="contentUrl url" src='http://wallblush.com/cdn/shop/files/4-3.jpg?v=1696266658&width=2048' alt='Malibu Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='http://wallblush.com/cdn/shop/files/4-3.jpg?v=1696266658&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bright, Bold & Colourful Wallpaper | 100+ Modern Fun Designs ...">
+                                <img itemprop="contentUrl url" src='https://www.datocms-assets.com/54048/1648817822-protea1.jpg?auto=format&dpr=0.23&w=2200' alt='Bright, Bold & Colourful Wallpaper | 100+ Modern Fun Designs ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bobbi Beck" />
+                                </span>
+                                <a href='https://www.datocms-assets.com/54048/1648817822-protea1.jpg?auto=format&dpr=0.23&w=2200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bright Pop Flowers Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://www.simpleshapes.com/cdn/shop/files/8040_BrightPopFlowers_IMG1.jpg?v=1703626845' alt='Bright Pop Flowers Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simple Shapes" />
+                                </span>
+                                <a href='https://www.simpleshapes.com/cdn/shop/files/8040_BrightPopFlowers_IMG1.jpg?v=1703626845' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Mural Photo Wallpaper Bright sky with many clouds in light ...">
+                                <img itemprop="contentUrl url" src='https://static.uwalls.com/products/109000/109608/w01543pig35mr_1200.webp' alt='Wall Mural Photo Wallpaper Bright sky with many clouds in light ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uwalls.com" />
+                                </span>
+                                <a href='https://static.uwalls.com/products/109000/109608/w01543pig35mr_1200.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Floral Wallpaper Peel and Stick Removable Tropical Wall ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16860262/r/il/482179/6002817396/il_fullxfull.6002817396_kwln.jpg' alt='Colorful Floral Wallpaper Peel and Stick Removable Tropical Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16860262/r/il/482179/6002817396/il_fullxfull.6002817396_kwln.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poppy Multi">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1723021890/articles/FL0203MU07W_interior1.jpg' alt='Poppy Multi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hovia" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1723021890/articles/FL0203MU07W_interior1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

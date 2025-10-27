@@ -1,0 +1,129 @@
+<title>Board and Batten Peel and Stick Wallpaper: Easy Home Makeover</title>
+                    <meta name="description" content="Discover the charm of board and batten peel and stick wallpaper for a quick room update. Easy to apply and removable, it's perfect for renters looking to add style without commitment. Embrace modern design and transform your space today!">
+                    <meta name="keywords" content="board and batten peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/board-and-batten-peel-and-stick-wallpaper">
+                            <span itemprop="name">board and batten peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Board and Batten Peel and Stick Wallpaper: Easy Home Makeover</h1>
+                <p>Transform your living space effortlessly with board and batten peel and stick wallpaper. This stylish, easy-to-apply decor mimics traditional wood paneling without the hassle of tools or heavy installation. Perfect for renters and DIY enthusiasts, achieve a modern yet classic look in any room. Remove and reposition anytime!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Faux Board and Batten Peel and Stick Wallpaper (Sage Green) -  Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/613YelZENjL._AC_UF894,1000_QL80_.jpg' alt='NextWall Faux Board and Batten Peel and Stick Wallpaper (Sage Green) -  Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="832">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/613YelZENjL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Faux Board and Batten Peel and Stick Wallpaper (Sage Green) -  Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51XbdB4hB2L.jpg' alt='NextWall Faux Board and Batten Peel and Stick Wallpaper (Sage Green) -  Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1221">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51XbdB4hB2L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Faux Board and Batten Peel and Stick Removable Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.sayhomedecor.com/cdn/shop/products/NW45205-E_2000x2000.jpg?v=1657244944' alt='Faux Board and Batten Peel and Stick Removable Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1557">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Say Decor" />
+                                </span>
+                                <a href='https://www.sayhomedecor.com/cdn/shop/products/NW45205-E_2000x2000.jpg?v=1657244944' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Faux Board and Batten Peel and Stick Wallpaper (Sage Green) -  Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71wm-+5LYVL.jpg' alt='NextWall Faux Board and Batten Peel and Stick Wallpaper (Sage Green) -  Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1629">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71wm-+5LYVL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Faux Board and Batten Peel and Stick Removable Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.sayhomedecor.com/cdn/shop/products/NW45200-A_2000x2000.jpg?v=1657244944' alt='Faux Board and Batten Peel and Stick Removable Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1629">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Say Decor" />
+                                </span>
+                                <a href='https://www.sayhomedecor.com/cdn/shop/products/NW45200-A_2000x2000.jpg?v=1657244944' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Sage Green Faux Board and Batten Vinyl Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/dd96196b-aedc-41d3-9c5c-b85f1797ce37/svn/nextwall-wallpaper-rolls-nw45204-fa_600.jpg' alt='NextWall Sage Green Faux Board and Batten Vinyl Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/dd96196b-aedc-41d3-9c5c-b85f1797ce37/svn/nextwall-wallpaper-rolls-nw45204-fa_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shop Faux Board & Batten Peel-and-Stick Wallpaper in Dark Blue ...">
+                                <img itemprop="contentUrl url" src='https://www.burkedecor.com/cdn/shop/products/NW45202_1080x.jpg?v=1677184090' alt='Shop Faux Board & Batten Peel-and-Stick Wallpaper in Dark Blue ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1099">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Burke Decor" />
+                                </span>
+                                <a href='https://www.burkedecor.com/cdn/shop/products/NW45202_1080x.jpg?v=1677184090' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Faux Board and Batten Peel and Stick Wallpaper (Sage ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71rZpeVILqL.jpg' alt='NextWall Faux Board and Batten Peel and Stick Wallpaper (Sage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1515">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71rZpeVILqL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Faux Board and Batten 216" x 20.5" Peel and Stick Wallpaper in  Dark Blue">
+                                <img itemprop="contentUrl url" src='https://www.nfm.com/dw/image/v2/BDFM_PRD/on/demandware.static/-/Sites-nfm-master-catalog/default/dw77994191/images/064/28/64283344-2.jpg?sw=1000&sh=1000&sm=fit' alt='NextWall Faux Board and Batten 216" x 20.5" Peel and Stick Wallpaper in  Dark Blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NFM" />
+                                </span>
+                                <a href='https://www.nfm.com/dw/image/v2/BDFM_PRD/on/demandware.static/-/Sites-nfm-master-catalog/default/dw77994191/images/064/28/64283344-2.jpg?sw=1000&sh=1000&sm=fit' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Peel & Stick Faux Board & Batten Harbor Grey Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://cdn.onlinefabricstore.com/products/NW45205_1.jpg?quality=100?width=900' alt='NextWall Peel & Stick Faux Board & Batten Harbor Grey Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Online Fabric Store" />
+                                </span>
+                                <a href='https://cdn.onlinefabricstore.com/products/NW45205_1.jpg?quality=100?width=900' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

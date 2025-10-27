@@ -1,0 +1,129 @@
+<title>Cozy Warm White Wallpaper for Your Home</title>
+                    <meta name="description" content="Discover cozy warm white wallpaper that enhances any room's ambiance. Perfect for creating a serene atmosphere, this versatile choice complements various decor styles while maximizing light and space. Transform your home with elegant warmth today!">
+                    <meta name="keywords" content="warm white wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/warm-white-wallpaper">
+                            <span itemprop="name">warm white wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cozy Warm White Wallpaper for Your Home</h1>
+                <p>Warm white wallpaper brings a cozy, inviting atmosphere to any space. Ideal for living rooms, bedrooms, or offices, it provides a subtle backdrop that enhances natural light while allowing for versatility in decor styles. Elevate your home’s aesthetic with this classic choice, creating a tranquil environment perfect for relaxation and creativity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Warm White | Whitescreen.org">
+                                <img itemprop="contentUrl url" src='https://www.whitescreen.org/static/whitescreen/img/warm-white.jpg' alt='Warm White | Whitescreen.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="White Screen" />
+                                </span>
+                                <a href='https://www.whitescreen.org/static/whitescreen/img/warm-white.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Molly´s Meadow by Boråstapeter - Warm White - Wallpaper - 3571">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/asset/img/product/186877/tiled/borastapeter-molly-s-meadow-warm-white-wallpaper-tiled-186877.jpg' alt='Molly´s Meadow by Boråstapeter - Warm White - Wallpaper - 3571'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/asset/img/product/186877/tiled/borastapeter-molly-s-meadow-warm-white-wallpaper-tiled-186877.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Warm White Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/abstract-geometric-background_889452-51728.jpg?semt=ais_hybrid' alt='Warm White Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/abstract-geometric-background_889452-51728.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Warm White Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/hand-painted-watercolor-abstract-background_889452-6350.jpg' alt='Warm White Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/hand-painted-watercolor-abstract-background_889452-6350.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,558,200+ Warm White Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1172811422/photo/golden-orange-colored-blurred-background-abstract-blur-glowing-orange-gold-of-morning-sky.jpg?s=612x612&w=0&k=20&c=PdoJ--LEjp-tZ99DWOio-WdmQEc2JwlLXEaD_eOEMcM=' alt='1,558,200+ Warm White Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1172811422/photo/golden-orange-colored-blurred-background-abstract-blur-glowing-orange-gold-of-morning-sky.jpg?s=612x612&w=0&k=20&c=PdoJ--LEjp-tZ99DWOio-WdmQEc2JwlLXEaD_eOEMcM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Warm White Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/vector-brown-gradient-blurred-background-design-vintage-style_545556-216.jpg?semt=ais_hybrid' alt='Warm White Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/vector-brown-gradient-blurred-background-design-vintage-style_545556-216.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,558,200+ Warm White Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/184944843/photo/blurred-gold-sparkles-background-with-darker-top-corners.jpg?s=612x612&w=0&k=20&c=Fxy9AaDc0osTf5RHzFNvHvXEAFwCQcvSKBMyCBJL11E=' alt='1,558,200+ Warm White Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/184944843/photo/blurred-gold-sparkles-background-with-darker-top-corners.jpg?s=612x612&w=0&k=20&c=Fxy9AaDc0osTf5RHzFNvHvXEAFwCQcvSKBMyCBJL11E=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Off White Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/white-paper-texture-background_23-2151025717.jpg?semt=ais_hybrid' alt='Off White Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="475">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/white-paper-texture-background_23-2151025717.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="120+ New And Clean Warm White Textured Wall Stock Photos, Pictures ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/530832692/photo/new-and-clean-warm-white-textured-wall.jpg?s=612x612&w=0&k=20&c=emfmxwyzkJTJE2O_u4L_8GrChPZ1uNmJ4k88g_loYp0=' alt='120+ New And Clean Warm White Textured Wall Stock Photos, Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/530832692/photo/new-and-clean-warm-white-textured-wall.jpg?s=612x612&w=0&k=20&c=emfmxwyzkJTJE2O_u4L_8GrChPZ1uNmJ4k88g_loYp0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Warm White Texture Background 22333469 Stock Photo at Vecteezy">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/022/333/469/large_2x/pastel-warm-white-texture-background-photo.jpg' alt='Pastel Warm White Texture Background 22333469 Stock Photo at Vecteezy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3497">
+                                <meta itemprop="height" content="1960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/022/333/469/large_2x/pastel-warm-white-texture-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

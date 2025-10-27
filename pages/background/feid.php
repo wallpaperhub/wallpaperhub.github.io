@@ -1,0 +1,129 @@
+<title>Discover Feid: The Rising Star in Latin Music</title>
+                    <meta name="description" content="Explore Feid, the Colombian artist captivating audiences with his reggaeton and R&B fusion. His catchy songs and collaborations are redefining the Latin music scene. Stay updated on his latest hits and contributions to the industry!">
+                    <meta name="keywords" content="feid">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/feid">
+                            <span itemprop="name">feid</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Feid: The Rising Star in Latin Music</h1>
+                <p>Feid, a Colombian singer-songwriter, is making waves in the Latin music scene. Known for his unique blend of reggaeton and R&B, his catchy melodies and heartfelt lyrics resonate with fans. With hits like "Oceans" and collaborations with other artists, Feid continues to grow his influence and popularity worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Feid - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/0/06/Feid_2022_%28cropped%29.jpg' alt='Feid - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/0/06/Feid_2022_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Feid Reveals How His Sold-Out Tour Came Together At the Last Minute">
+                                <img itemprop="contentUrl url" src='https://www.billboard.com/wp-content/uploads/2022/10/03-feid-2022-cr-Sebastian-Sanchez-billboard-1548.jpg?w=942&h=623&crop=1' alt='Feid Reveals How His Sold-Out Tour Came Together At the Last Minute'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="942">
+                                <meta itemprop="height" content="623">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Billboard" />
+                                </span>
+                                <a href='https://www.billboard.com/wp-content/uploads/2022/10/03-feid-2022-cr-Sebastian-Sanchez-billboard-1548.jpg?w=942&h=623&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Feid Tickets, Tour Dates & Concerts 2026 & 2025 – Songkick">
+                                <img itemprop="contentUrl url" src='https://images.sk-static.com/images/media/img/col3/20230205-011003-823267.jpg' alt='Feid Tickets, Tour Dates & Concerts 2026 & 2025 – Songkick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Songkick" />
+                                </span>
+                                <a href='https://images.sk-static.com/images/media/img/col3/20230205-011003-823267.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Feid Songs and Music | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab6761610000e5eb07620e28ffb1bdc8dd2d5ea0' alt='Feid Songs and Music | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="532">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab6761610000e5eb07620e28ffb1bdc8dd2d5ea0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Feid Confirms New Album, Drops Single 'Nos Desconoximos': WATCH">
+                                <img itemprop="contentUrl url" src='https://www.rollingstone.com/wp-content/uploads/2025/02/Feid-single-new.jpg?w=1581&h=1054&crop=1' alt='Feid Confirms New Album, Drops Single 'Nos Desconoximos': WATCH'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1581">
+                                <meta itemprop="height" content="1054">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone" />
+                                </span>
+                                <a href='https://www.rollingstone.com/wp-content/uploads/2025/02/Feid-single-new.jpg?w=1581&h=1054&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Feid Drops New Album 'MOR, No Le Temas A La Oscuridad': Stream It Now">
+                                <img itemprop="contentUrl url" src='https://www.billboard.com/wp-content/uploads/2023/09/Feid-cr-Sismatyc-press-2023-billboard-1548.jpg?w=942&h=623&crop=1' alt='Feid Drops New Album 'MOR, No Le Temas A La Oscuridad': Stream It Now'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="942">
+                                <meta itemprop="height" content="623">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Billboard" />
+                                </span>
+                                <a href='https://www.billboard.com/wp-content/uploads/2023/09/Feid-cr-Sismatyc-press-2023-billboard-1548.jpg?w=942&h=623&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LatinTuesday   Reggaeton singer FEID releases his long-awaited ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2319674381523517' alt='LatinTuesday   Reggaeton singer FEID releases his long-awaited ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2319674381523517' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Noches por que bueno esta Feid   ✨️">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3488484403972410916' alt='Noches por que bueno esta Feid   ✨️'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1545">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3488484403972410916' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="When did Feid release “Ferxxo 81”?">
+                                <img itemprop="contentUrl url" src='https://images.genius.com/f72e4d4844a13329fc98911b782b99d3.1000x1000x1.png' alt='When did Feid release “Ferxxo 81”?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Genius" />
+                                </span>
+                                <a href='https://images.genius.com/f72e4d4844a13329fc98911b782b99d3.1000x1000x1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Feid On His New Album Así Como Suena - Musical Notes Global">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/569538aec21b86e162486620/1512094175857-EOIH03C3G3AUCYN4IHUC/Feid.jpg' alt='Feid On His New Album Así Como Suena - Musical Notes Global'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Musical Notes Global" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/569538aec21b86e162486620/1512094175857-EOIH03C3G3AUCYN4IHUC/Feid.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

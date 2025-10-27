@@ -1,0 +1,129 @@
+<title>Customize Your Windows 10 Lock Screen: Tips & Tricks</title>
+                    <meta name="description" content="Unlock the full potential of your Windows 10 lock screen. Discover how to personalize images, manage notifications, and enhance security in easy steps. Perfect for making your device truly yours while keeping it safe. Learn more now!">
+                    <meta name="keywords" content="windows 10 lock screen">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/windows-10-lock-screen">
+                            <span itemprop="name">windows 10 lock screen</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Customize Your Windows 10 Lock Screen: Tips & Tricks</h1>
+                <p>The Windows 10 lock screen is a crucial security feature that protects your device from unauthorized access. It displays beautiful background images and customizable information such as date, time, and notifications. Users can personalize it with their favorite photos, apps, and quick status updates, enhancing their overall experience and security.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Customize Your Windows Lock Screen | PCMag">
+                                <img itemprop="contentUrl url" src='https://i.pcmag.com/imagery/articles/02AbNcKA9GvGWeWaSsEgMBS-51..v1646678969.jpg' alt='How to Customize Your Windows Lock Screen | PCMag'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PCMag" />
+                                </span>
+                                <a href='https://i.pcmag.com/imagery/articles/02AbNcKA9GvGWeWaSsEgMBS-51..v1646678969.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="desktop customization - How to override the default Windows 10 ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/lubGc.jpg' alt='desktop customization - How to override the default Windows 10 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Super User" />
+                                </span>
+                                <a href='https://i.sstatic.net/lubGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Add Windows 10 Lock Screen Pictures to Your Wallpaper Collection ...">
+                                <img itemprop="contentUrl url" src='https://www.techspot.com/articles-info/1697/images/2018-09-16-image.png' alt='Add Windows 10 Lock Screen Pictures to Your Wallpaper Collection ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TechSpot" />
+                                </span>
+                                <a href='https://www.techspot.com/articles-info/1697/images/2018-09-16-image.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Configure Windows spotlight | Microsoft Learn">
+                                <img itemprop="contentUrl url" src='https://learn.microsoft.com/en-us/windows/configuration/windows-spotlight/images/lockscreen-10.png' alt='Configure Windows spotlight | Microsoft Learn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1152">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Learn Microsoft" />
+                                </span>
+                                <a href='https://learn.microsoft.com/en-us/windows/configuration/windows-spotlight/images/lockscreen-10.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Where Were the Windows 10 Lock Screen Photos Taken?">
+                                <img itemprop="contentUrl url" src='https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2016/04/cool-lock-screen-windows-10.jpg' alt='Where Were the Windows 10 Lock Screen Photos Taken?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1680">
+                                <meta itemprop="height" content="840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MakeUseOf" />
+                                </span>
+                                <a href='https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2016/04/cool-lock-screen-windows-10.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Windows 10 Lockscreen images">
+                                <img itemprop="contentUrl url" src='https://winaero.com/blog/wp-content/uploads/2015/04/Windows-10-default-lockscreens.png' alt='Download Windows 10 Lockscreen images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1033">
+                                <meta itemprop="height" content="603">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Winaero" />
+                                </span>
+                                <a href='https://winaero.com/blog/wp-content/uploads/2015/04/Windows-10-default-lockscreens.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lock (sign in) screen inactivity idle time interval - any option ...">
+                                <img itemprop="contentUrl url" src='https://filestore.community.support.microsoft.com/api/images/e5362fe6-a53a-465d-9f07-1b6e6ba6c28b?upload=true' alt='Lock (sign in) screen inactivity idle time interval - any option ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Microsoft Community" />
+                                </span>
+                                <a href='https://filestore.community.support.microsoft.com/api/images/e5362fe6-a53a-465d-9f07-1b6e6ba6c28b?upload=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Find Windows 10 Lock Screen Images - eXlima">
+                                <img itemprop="contentUrl url" src='https://exlima.net/wp-content/uploads/2021/03/Windows-10-Lock-Screen-Image-Location-Cover2-1024x576.jpg' alt='How to Find Windows 10 Lock Screen Images - eXlima'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eXlima" />
+                                </span>
+                                <a href='https://exlima.net/wp-content/uploads/2021/03/Windows-10-Lock-Screen-Image-Location-Cover2-1024x576.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Customize the Lock Screen on Windows 8 or 10">
+                                <img itemprop="contentUrl url" src='https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/01/img_5887e0758b6c0.jpg' alt='How to Customize the Lock Screen on Windows 8 or 10'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="How-To Geek" />
+                                </span>
+                                <a href='https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/01/img_5887e0758b6c0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 10 Help Forums">
+                                <img itemprop="contentUrl url" src='https://www.tenforums.com/attachments/tutorials/20481d1433188041-enable-disable-lock-screen-windows-10-a-lock_screens.jpg' alt='Windows 10 Help Forums'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1361">
+                                <meta itemprop="height" content="492">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Windows 10 Help Forums" />
+                                </span>
+                                <a href='https://www.tenforums.com/attachments/tutorials/20481d1433188041-enable-disable-lock-screen-windows-10-a-lock_screens.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Red Flock Wallpaper: Transform Your Space</title>
+                    <meta name="description" content="Explore the elegance of red flock wallpaper, a perfect blend of luxury and bold design. Transform your interior with its rich texture and vibrant color, creating stunning feature walls that reflect your unique style. Elevate your home decor effortlessly with this chic option!">
+                    <meta name="keywords" content="red flock wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red">
+                            <span itemprop="name">Red</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red/red-flock-wallpaper">
+                            <span itemprop="name">red flock wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Red Flock Wallpaper: Transform Your Space</h1>
+                <p>Red flock wallpaper adds a luxurious touch to any space, combining elegance with boldness. Its rich texture and vibrant hues create a stunning focal point, perfect for enhancing both modern and classic interiors. Ideal for feature walls, it effortlessly complements furniture and decor, transforming your home into a stylish haven.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Victorian Flocked Velvet Wallpaper - Red on Red Stripe – Designer ...">
+                                <img itemprop="contentUrl url" src='https://www.designerwallcoverings.com/cdn/shop/products/c842035a205d5cfc8811e12a5649c43b_600x600.jpg?v=1572308907' alt='Victorian Flocked Velvet Wallpaper - Red on Red Stripe – Designer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Designer Wallcoverings" />
+                                </span>
+                                <a href='https://www.designerwallcoverings.com/cdn/shop/products/c842035a205d5cfc8811e12a5649c43b_600x600.jpg?v=1572308907' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blooming Wall Red Damasks Flocking Embossed Textured Wallpaper Roll for  Livingroom Bedroom, 20.8 In32.8 Ft=57 Sq ft Per Roll, Gold/Red  (Wallpaper-red) ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91qDC14n8ML.jpg' alt='Blooming Wall Red Damasks Flocking Embossed Textured Wallpaper Roll for  Livingroom Bedroom, 20.8 In32.8 Ft=57 Sq ft Per Roll, Gold/Red  (Wallpaper-red) ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91qDC14n8ML.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1970s Vintage Wallpaper Retro Red Flock on Red">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-own6dl/images/stencil/1280x1280/products/3832/11850/IMG_7721_edited-3__32681.1625151895.jpg?c=2' alt='1970s Vintage Wallpaper Retro Red Flock on Red'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rosie's Vintage Wallpaper" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-own6dl/images/stencil/1280x1280/products/3832/11850/IMG_7721_edited-3__32681.1625151895.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxury red color flock wallpaper 3D three-dimensional Suede velvet ...">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/FXsAAOSwE~tmhqEb/s-l1200.jpg' alt='Luxury red color flock wallpaper 3D three-dimensional Suede velvet ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/FXsAAOSwE~tmhqEb/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heirloom Velvet Flock Wallpaper in Crimson by Burke Decor">
+                                <img itemprop="contentUrl url" src='http://www.burkedecor.com/cdn/shop/products/VV205.jpg?v=1669391081' alt='Heirloom Velvet Flock Wallpaper in Crimson by Burke Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="942">
+                                <meta itemprop="height" content="942">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Burke Decor" />
+                                </span>
+                                <a href='http://www.burkedecor.com/cdn/shop/products/VV205.jpg?v=1669391081' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1890s Red Damask Flock WallPaper - Small Scale – Designer ...">
+                                <img itemprop="contentUrl url" src='https://www.designerwallcoverings.com/cdn/shop/products/45bbf925cfe8b99281ac473b9090b779_53f5d537-373f-4e6f-9784-eda52633bb38_500x500.jpg?v=1734415056' alt='1890s Red Damask Flock WallPaper - Small Scale – Designer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Designer Wallcoverings" />
+                                </span>
+                                <a href='https://www.designerwallcoverings.com/cdn/shop/products/45bbf925cfe8b99281ac473b9090b779_53f5d537-373f-4e6f-9784-eda52633bb38_500x500.jpg?v=1734415056' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Flock Velvet Wallpaper | Vintage Wallpapers - Online Shop">
+                                <img itemprop="contentUrl url" src='https://www.vintagewallpapers.com/images/products/1970s-red-flocked-wallpaper/_1000xAUTO_cover_center-center_line/red-flock-velvet-wallpaper_200403_140410.jpeg' alt='Red Flock Velvet Wallpaper | Vintage Wallpapers - Online Shop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vintage Wallpapers" />
+                                </span>
+                                <a href='https://www.vintagewallpapers.com/images/products/1970s-red-flocked-wallpaper/_1000xAUTO_cover_center-center_line/red-flock-velvet-wallpaper_200403_140410.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Petrouchka Flock Wallpaper | Red | Mariinsky Damask Collection">
+                                <img itemprop="contentUrl url" src='https://www.fabricsandpapers.com/media/catalog/product/cache/ae74a625c1a5c1cbc78d9602262e5de8/1/5/158922868_1.jpg' alt='Petrouchka Flock Wallpaper | Red | Mariinsky Damask Collection'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fabrics and Papers" />
+                                </span>
+                                <a href='https://www.fabricsandpapers.com/media/catalog/product/cache/ae74a625c1a5c1cbc78d9602262e5de8/1/5/158922868_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1970s Retro Vintage Wallpaper Red Flock Design on White, Sold by ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/5342408/r/il/44c2f4/5076764328/il_570xN.5076764328_o5zr.jpg' alt='1970s Retro Vintage Wallpaper Red Flock Design on White, Sold by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/5342408/r/il/44c2f4/5076764328/il_570xN.5076764328_o5zr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="165030 Gold Burgundy Damask Flock Wallpaper – wallcoveringsmart">
+                                <img itemprop="contentUrl url" src='https://wallcoveringsmart.com/cdn/shop/products/s-l1600_7_c24e5404-6afa-447f-97da-867c00fc33c8_480x480.jpg?v=1562960874' alt='165030 Gold Burgundy Damask Flock Wallpaper – wallcoveringsmart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallcoverings mart" />
+                                </span>
+                                <a href='https://wallcoveringsmart.com/cdn/shop/products/s-l1600_7_c24e5404-6afa-447f-97da-867c00fc33c8_480x480.jpg?v=1562960874' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

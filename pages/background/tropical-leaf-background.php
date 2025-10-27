@@ -1,0 +1,129 @@
+<title>Vibrant Tropical Leaf Backgrounds for All Your Design Needs</title>
+                    <meta name="description" content="Discover stunning tropical leaf backgrounds that bring nature's beauty into your designs. Perfect for personal and professional projects, these vibrant and exotic patterns enhance any visual presentation. Create a captivating atmosphere with our selection of lush tropical leaf visuals.">
+                    <meta name="keywords" content="tropical leaf background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/tropical-leaf-background">
+                            <span itemprop="name">tropical leaf background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Tropical Leaf Backgrounds for All Your Design Needs</h1>
+                <p>Tropical leaf backgrounds evoke a sense of lush paradise, perfect for adding a touch of nature to your designs. Featuring vibrant greens, intricate patterns, and exotic vibes, these backgrounds can transform any project. Ideal for invitations, social media content, or as wallpapers, they create an inviting atmosphere that captivates the viewer.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tropical Leaves Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/realistic-tropical-leaves-background_52683-62078.jpg' alt='Tropical Leaves Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/realistic-tropical-leaves-background_52683-62078.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cream Green Tropical Leaves Wallpaper R9129">
+                                <img itemprop="contentUrl url" src='https://wallsrepublic.com/cdn/shop/files/R9129Roomshot.jpg?v=1736259039&width=1200' alt='Cream Green Tropical Leaves Wallpaper R9129'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1089">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='https://wallsrepublic.com/cdn/shop/files/R9129Roomshot.jpg?v=1736259039&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FD24136 Palm leaves Banana Leaf White Green Tropical Wallpaper">
+                                <img itemprop="contentUrl url" src='http://wallcoveringsmart.com/cdn/shop/products/Screenshot_195.jpg?v=1565254747' alt='FD24136 Palm leaves Banana Leaf White Green Tropical Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="551">
+                                <meta itemprop="height" content="551">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallcoverings mart" />
+                                </span>
+                                <a href='http://wallcoveringsmart.com/cdn/shop/products/Screenshot_195.jpg?v=1565254747' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tropical Jungle Leaves Stock Photos, Images and Backgrounds for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/038/972/515/small_2x/ai-generated-beautiful-green-jungle-of-lush-palm-leaves-palm-trees-in-an-exotic-tropical-forest-wild-tropical-plants-nature-concept-for-panorama-wallpaper-photo.jpg' alt='Tropical Jungle Leaves Stock Photos, Images and Backgrounds for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="714">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/038/972/515/small_2x/ai-generated-beautiful-green-jungle-of-lush-palm-leaves-palm-trees-in-an-exotic-tropical-forest-wild-tropical-plants-nature-concept-for-panorama-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jungle Leaves Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-painted-watercolor-tropical-leaves-background_52683-61842.jpg' alt='Jungle Leaves Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-painted-watercolor-tropical-leaves-background_52683-61842.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Tropical Jungle Leaves Wallpaper R9260">
+                                <img itemprop="contentUrl url" src='https://wallsrepublic.com/cdn/shop/files/GreenTropicalJungleLeavesWallpaperR9260.jpg?v=1736259219&width=1200' alt='Green Tropical Jungle Leaves Wallpaper R9260'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='https://wallsrepublic.com/cdn/shop/files/GreenTropicalJungleLeavesWallpaperR9260.jpg?v=1736259219&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Seamless Pattern Tropical Leaves Background Stock Vector ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/55/f3/8b/55f38b93934a5b09248116e9e625ba92.jpg' alt='Floral Seamless Pattern Tropical Leaves Background Stock Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="785">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/55/f3/8b/55f38b93934a5b09248116e9e625ba92.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="55,300+ Palm Leaves Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1195333397/vector/branch-palm-realistic-leaves-and-branches-of-palm-trees-tropical-leaf-background.jpg?s=612x612&w=0&k=20&c=eKW3z68nNVzKQU3NoQZjUZhMW9VQOIqt_xU7-gVcEuo=' alt='55,300+ Palm Leaves Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="426">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1195333397/vector/branch-palm-realistic-leaves-and-branches-of-palm-trees-tropical-leaf-background.jpg?s=612x612&w=0&k=20&c=eKW3z68nNVzKQU3NoQZjUZhMW9VQOIqt_xU7-gVcEuo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tropical leaves on pink background by Natee Srisuk">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/tropical-leaves-on-pink-background-natee-srisuk.jpg' alt='Tropical leaves on pink background by Natee Srisuk'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="899">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixels" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/tropical-leaves-on-pink-background-natee-srisuk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral seamless pattern. Tropical leaves background. Palm tree ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/JMJD8A/floral-seamless-pattern-tropical-leaves-background-palm-tree-leaf-JMJD8A.jpg' alt='Floral seamless pattern. Tropical leaves background. Palm tree ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="977">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/JMJD8A/floral-seamless-pattern-tropical-leaves-background-palm-tree-leaf-JMJD8A.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

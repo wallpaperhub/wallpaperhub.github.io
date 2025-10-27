@@ -1,0 +1,129 @@
+<title>Nyan Cat Wallpapers: Colorful & Fun Designs</title>
+                    <meta name="description" content="Discover a variety of Nyan Cat wallpapers to bring fun and color to your device. Perfect for fans looking to personalize their screens, these whimsical designs will brighten up your day. Explore now for unique and vibrant wallpaper options!">
+                    <meta name="keywords" content="nyan cat wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cat">
+                            <span itemprop="name">Cat</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cat/nyan-cat-wallpaper">
+                            <span itemprop="name">nyan cat wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Nyan Cat Wallpapers: Colorful & Fun Designs</h1>
+                <p>Transform your digital space with vibrant Nyan Cat wallpapers! These eye-catching designs featuring the beloved rainbow-skirting cat not only add a touch of whimsy to your devices but also spark joy. Perfect for fans of all ages, explore a range of styles and colors to personalize your screens and brighten your day!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Nyan Cat Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/nyan-cat-1y550aojs77u58wk.jpg' alt='100+] Nyan Cat Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/nyan-cat-1y550aojs77u58wk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nyan Cat Galaxy' Wallpaper by Jayro-Jones on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bdcba258-24a1-4e55-b254-f4b2af4cfdb1/d4p832e-2cbc021e-fa5e-43dd-81d3-ab365d62e24b.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JkY2JhMjU4LTI0YTEtNGU1NS1iMjU0LWY0YjJhZjRjZmRiMVwvZDRwODMyZS0yY2JjMDIxZS1mYTVlLTQzZGQtODFkMy1hYjM2NWQ2MmUyNGIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.qoByvc0ttaOIJ-zM7zB-R3xtI8uFJkQrtBDYT33y31M' alt='Nyan Cat Galaxy' Wallpaper by Jayro-Jones on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bdcba258-24a1-4e55-b254-f4b2af4cfdb1/d4p832e-2cbc021e-fa5e-43dd-81d3-ab365d62e24b.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JkY2JhMjU4LTI0YTEtNGU1NS1iMjU0LWY0YjJhZjRjZmRiMVwvZDRwODMyZS0yY2JjMDIxZS1mYTVlLTQzZGQtODFkMy1hYjM2NWQ2MmUyNGIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.qoByvc0ttaOIJ-zM7zB-R3xtI8uFJkQrtBDYT33y31M' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nyan Cat Wallpaper (1080p) : r/blender">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/u4b2hf0q6rn01.png' alt='Nyan Cat Wallpaper (1080p) : r/blender'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/u4b2hf0q6rn01.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nyan Cat XP'' Wallpaper by Jayro-Jones on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bdcba258-24a1-4e55-b254-f4b2af4cfdb1/d5ay31f-420f558b-7997-4c0c-a0ff-31e9b6fa08a2.jpg/v1/fill/w_900,h_563,q_75,strp/__nyan_cat_xp___wallpaper_by_jayro_jones_d5ay31f-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTYzIiwicGF0aCI6IlwvZlwvYmRjYmEyNTgtMjRhMS00ZTU1LWIyNTQtZjRiMmFmNGNmZGIxXC9kNWF5MzFmLTQyMGY1NThiLTc5OTctNGMwYy1hMGZmLTMxZTliNmZhMDhhMi5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.CFe6-Oj1ExmmVjeYXWtGyn0c6wRiFHWVjhqPovgC3kI' alt='Nyan Cat XP'' Wallpaper by Jayro-Jones on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bdcba258-24a1-4e55-b254-f4b2af4cfdb1/d5ay31f-420f558b-7997-4c0c-a0ff-31e9b6fa08a2.jpg/v1/fill/w_900,h_563,q_75,strp/__nyan_cat_xp___wallpaper_by_jayro_jones_d5ay31f-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTYzIiwicGF0aCI6IlwvZlwvYmRjYmEyNTgtMjRhMS00ZTU1LWIyNTQtZjRiMmFmNGNmZGIxXC9kNWF5MzFmLTQyMGY1NThiLTc5OTctNGMwYy1hMGZmLTMxZTliNmZhMDhhMi5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.CFe6-Oj1ExmmVjeYXWtGyn0c6wRiFHWVjhqPovgC3kI' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nyan Cat : r/wallpaper">
+                                <img itemprop="contentUrl url" src='http://fc04.deviantart.net/fs70/f/2011/107/c/e/rainbow_nyan_nyan_pop_tart_cat_by_zaithy-d3e8u2k.jpg' alt='Nyan Cat : r/wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://fc04.deviantart.net/fs70/f/2011/107/c/e/rainbow_nyan_nyan_pop_tart_cat_by_zaithy-d3e8u2k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nyan Cat Ultra HD Wallpaper for 4K UHD TV & Desktop : Widescreen ...">
+                                <img itemprop="contentUrl url" src='https://hd.wallpaperswide.com/thumbs/nyan_cat-t2.jpg' alt='Nyan Cat Ultra HD Wallpaper for 4K UHD TV & Desktop : Widescreen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="510">
+                                <meta itemprop="height" content="330">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersWide.com" />
+                                </span>
+                                <a href='https://hd.wallpaperswide.com/thumbs/nyan_cat-t2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nyan Cat Wallpapers Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5a/7d/a8/5a7da8d25186f62301e386dea02c70d9.jpg' alt='Nyan Cat Wallpapers Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="388">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5a/7d/a8/5a7da8d25186f62301e386dea02c70d9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nyan Cat Broken Desktop Wallpaper by daniel10alien on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3a5a952b-4472-4713-badb-48d240610810/d5mbi56-bba116fe-9be2-432d-96dc-e54720c95e3b.jpg/v1/fill/w_900,h_563,q_75,strp/nyan_cat_broken_desktop_wallpaper_by_daniel10alien_d5mbi56-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTYzIiwicGF0aCI6IlwvZlwvM2E1YTk1MmItNDQ3Mi00NzEzLWJhZGItNDhkMjQwNjEwODEwXC9kNW1iaTU2LWJiYTExNmZlLTliZTItNDMyZC05NmRjLWU1NDcyMGM5NWUzYi5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.CAd4x6luNPVACIep4UywSwr8giUuwf-1U0LGvgQ_oiA' alt='Nyan Cat Broken Desktop Wallpaper by daniel10alien on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3a5a952b-4472-4713-badb-48d240610810/d5mbi56-bba116fe-9be2-432d-96dc-e54720c95e3b.jpg/v1/fill/w_900,h_563,q_75,strp/nyan_cat_broken_desktop_wallpaper_by_daniel10alien_d5mbi56-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTYzIiwicGF0aCI6IlwvZlwvM2E1YTk1MmItNDQ3Mi00NzEzLWJhZGItNDhkMjQwNjEwODEwXC9kNW1iaTU2LWJiYTExNmZlLTliZTItNDMyZC05NmRjLWU1NDcyMGM5NWUzYi5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.CAd4x6luNPVACIep4UywSwr8giUuwf-1U0LGvgQ_oiA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nyan Cat Wallpaper - Chrome Web Store">
+                                <img itemprop="contentUrl url" src='https://lh3.googleusercontent.com/SVz8LXl9N68zipgA85GEWHULms81oePylMqNxuqYnl0ZhO4ulnEjIreBCjgZsTUPzHdIcsOOvAY1a1Xrc0RKYR5JxA=s1280-w1280-h800' alt='Nyan Cat Wallpaper - Chrome Web Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chrome Web Store - Google" />
+                                </span>
+                                <a href='https://lh3.googleusercontent.com/SVz8LXl9N68zipgA85GEWHULms81oePylMqNxuqYnl0ZhO4ulnEjIreBCjgZsTUPzHdIcsOOvAY1a1Xrc0RKYR5JxA=s1280-w1280-h800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nyan Cat • Images • WallpaperFusion by Binary Fortress Software">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperfusion.com/Download/2990/?W=5760&H=1080&Side=3' alt='Nyan Cat • Images • WallpaperFusion by Binary Fortress Software'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperFusion" />
+                                </span>
+                                <a href='https://www.wallpaperfusion.com/Download/2990/?W=5760&H=1080&Side=3' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

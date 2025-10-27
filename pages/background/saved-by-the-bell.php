@@ -1,0 +1,129 @@
+<title>"Saved by the Bell: The Timeless Teen Classic"</title>
+                    <meta name="description" content="Discover the charm of "Saved by the Bell," the beloved teen sitcom that captured the essence of high school life in the '90s. Join Zack, Kelly, and friends on their hilarious adventures, tackling friendships and social issues. Relive the magic that made this show a nostalgic favorite for generations!">
+                    <meta name="keywords" content="saved by the bell">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/saved-by-the-bell">
+                            <span itemprop="name">saved by the bell</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Saved by the Bell: The Timeless Teen Classic"</h1>
+                <p>"Saved by the Bell" is an iconic American teen sitcom that aired from 1989 to 1993. It centers around a group of high school friends navigating the ups and downs of adolescence in Bayside High. Showcasing humor and relatable issues, it remains a nostalgic favorite, reflecting the challenges and triumphs of teenage life.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Saved by the Bell (TV Series 1989–1992) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BNzEzMzM2ODc1Ml5BMl5BanBnXkFtZTcwMTg2MjAzMQ@@._V1_FMjpg_UX1000_.jpg' alt='Saved by the Bell (TV Series 1989–1992) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BNzEzMzM2ODc1Ml5BMl5BanBnXkFtZTcwMTg2MjAzMQ@@._V1_FMjpg_UX1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Prepare to feel old: These television shows premiered in 1999">
+                                <img itemprop="contentUrl url" src='https://s.abcnews.com/images/GMA/saved-by-the-bell-01-as-ht-190816_hpMain_1x1_992.jpg?w=384' alt='Prepare to feel old: These television shows premiered in 1999'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="992">
+                                <meta itemprop="height" content="992">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Good Morning America" />
+                                </span>
+                                <a href='https://s.abcnews.com/images/GMA/saved-by-the-bell-01-as-ht-190816_hpMain_1x1_992.jpg?w=384' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Saved by the Bell - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/thumb/8/82/SavedbytheBell3.jpg/250px-SavedbytheBell3.jpg' alt='Saved by the Bell - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="271">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/thumb/8/82/SavedbytheBell3.jpg/250px-SavedbytheBell3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Review: The Saved by the Bell reboot gave me an existential crisis ...">
+                                <img itemprop="contentUrl url" src='https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22155740/34q4XZieswbtKbrh6498Ab.jpg?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282' alt='Review: The Saved by the Bell reboot gave me an existential crisis ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1046">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vox" />
+                                </span>
+                                <a href='https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22155740/34q4XZieswbtKbrh6498Ab.jpg?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Saved by the Bell (TV Series 2020–2021) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BZTAwYjEyOTYtOTM0NC00ZTQ0LWEzNjYtYWRhM2E3N2EwZTM0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' alt='Saved by the Bell (TV Series 2020–2021) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1481">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BZTAwYjEyOTYtOTM0NC00ZTQ0LWEzNjYtYWRhM2E3N2EwZTM0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Looking back at: Saved By The Bell - MikeyMo">
+                                <img itemprop="contentUrl url" src='https://www.mikeymo.nl/wp-content/uploads/2016/11/saved-by-the-bell-1.jpg' alt='Looking back at: Saved By The Bell - MikeyMo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MikeyMo" />
+                                </span>
+                                <a href='https://www.mikeymo.nl/wp-content/uploads/2016/11/saved-by-the-bell-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How 'Saved by the Bell' defied the odds to conquer Saturday mornings">
+                                <img itemprop="contentUrl url" src='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/newscms/2019_26/1452392/30th-anniversary-of-the-premiere-of-saved-by-the-bell-today-inline-190624-003.jpg' alt='How 'Saved by the Bell' defied the odds to conquer Saturday mornings'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="760">
+                                <meta itemprop="height" content="1176">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Today Show" />
+                                </span>
+                                <a href='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/newscms/2019_26/1452392/30th-anniversary-of-the-premiere-of-saved-by-the-bell-today-inline-190624-003.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Saved by the Bell' cast: Where are they now?">
+                                <img itemprop="contentUrl url" src='https://ew.com/thmb/08861qqgtPokBTSEvt3k5xO3fKk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/saved-by-the-bell-1-9717a3400bf145cbb4922ceebaf9369e.jpg' alt='Saved by the Bell' cast: Where are they now?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1006">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Entertainment Weekly" />
+                                </span>
+                                <a href='https://ew.com/thmb/08861qqgtPokBTSEvt3k5xO3fKk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/saved-by-the-bell-1-9717a3400bf145cbb4922ceebaf9369e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Saved by the Bell' Cast: Where Are They Now? | Us Weekly">
+                                <img itemprop="contentUrl url" src='https://www.usmagazine.com/wp-content/uploads/2020/11/Dustin-Diamond-Saved-By-The-Bell-Where-Are-They-Now.jpg?quality=55&strip=all' alt='Saved by the Bell' Cast: Where Are They Now? | Us Weekly'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Us Weekly" />
+                                </span>
+                                <a href='https://www.usmagazine.com/wp-content/uploads/2020/11/Dustin-Diamond-Saved-By-The-Bell-Where-Are-They-Now.jpg?quality=55&strip=all' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Saved by the Bell - The Complete Series [DVD] : Mark-Paul  Gosselaar, Mario López, Dustin Diamond, Tiffani Thiessen, Elizabeth  Berkley, ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/713Q4l+YgTL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com: Saved by the Bell - The Complete Series [DVD] : Mark-Paul  Gosselaar, Mario López, Dustin Diamond, Tiffani Thiessen, Elizabeth  Berkley, ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="718">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/713Q4l+YgTL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

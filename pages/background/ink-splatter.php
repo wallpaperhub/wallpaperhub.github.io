@@ -1,0 +1,129 @@
+<title>Unleashing Creativity: The Art of Ink Splatter</title>
+                    <meta name="description" content="Explore the dynamic world of ink splatter! Discover how this artistic technique transforms your projects with vibrant textures and spontaneous patterns. Perfect for artists and designers seeking to elevate their work, learn tips and tricks to master the art of ink splatter today!">
+                    <meta name="keywords" content="ink splatter">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ink-splatter">
+                            <span itemprop="name">ink splatter</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unleashing Creativity: The Art of Ink Splatter</h1>
+                <p>Ink splatter is a captivating artistic technique that adds depth and intrigue to any creative project. Whether used in paintings, graphic design, or digital art, these unpredictable ink patterns inspire spontaneous creativity. Artists embrace the chaotic beauty of ink splatter, using it to evoke emotions, texture, and movement in their work.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ink Splatter. Svg Png Eps Dxf Cut Files. - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28959621/r/il/3f8ccb/3755526927/il_fullxfull.3755526927_fl3f.jpg' alt='Ink Splatter. Svg Png Eps Dxf Cut Files. - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28959621/r/il/3f8ccb/3755526927/il_fullxfull.3755526927_fl3f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ink Splatter Images – Browse 2,633,762 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/01/29/81/21/360_F_129812148_VvUXqDjNk4QZeIFgijftuZptom4gLk0g.jpg' alt='Ink Splatter Images – Browse 2,633,762 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="513">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/01/29/81/21/360_F_129812148_VvUXqDjNk4QZeIFgijftuZptom4gLk0g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black inks drops on white stock video 1411066672">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1411066672/video/black-inks-drops-on-white.jpg?s=640x640&k=20&c=4TFEf2WMYTi0fdqVsr07yuRwsFG7cyfKkmTslIU5JfM=' alt='Black inks drops on white stock video 1411066672'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1411066672/video/black-inks-drops-on-white.jpg?s=640x640&k=20&c=4TFEf2WMYTi0fdqVsr07yuRwsFG7cyfKkmTslIU5JfM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dropped ink stain. Black liquid paint splatter">
+                                <img itemprop="contentUrl url" src='https://i.fbcd.co/products/resized/resized-750-500/s220209-ink-splash-e11-mainpreview-a533a7ea7868c7d2473c88195cf9d9b7d5d2bd2b5696df5bb9f30834c03a4ca2.jpg' alt='Dropped ink stain. Black liquid paint splatter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Bundles" />
+                                </span>
+                                <a href='https://i.fbcd.co/products/resized/resized-750-500/s220209-ink-splash-e11-mainpreview-a533a7ea7868c7d2473c88195cf9d9b7d5d2bd2b5696df5bb9f30834c03a4ca2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Texture | InkPaint 152">
+                                <img itemprop="contentUrl url" src='https://texturelabs.org/wp-content/uploads/Texturelabs_InkPaint_152S.jpg' alt='Free Texture | InkPaint 152'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Texture Labs" />
+                                </span>
+                                <a href='https://texturelabs.org/wp-content/uploads/Texturelabs_InkPaint_152S.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ink Splatter - Black Ink Splatter Art - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20171201/00c/av2bqyl5v.webp' alt='Ink Splatter - Black Ink Splatter Art - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20171201/00c/av2bqyl5v.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ink splatter - Openclipart">
+                                <img itemprop="contentUrl url" src='https://openclipart.org/image/800px/319731' alt='Ink splatter - Openclipart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Openclipart" />
+                                </span>
+                                <a href='https://openclipart.org/image/800px/319731' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ink Wash Painting Splatter On A White by Yuan-ti Lin">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/ink-wash-painting-splatter-on-a-white-yuan-ti-lin.jpg' alt='Ink Wash Painting Splatter On A White by Yuan-ti Lin'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="891">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photos.com by Getty Images" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/ink-wash-painting-splatter-on-a-white-yuan-ti-lin.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Black paint. Ink splatter. Grunge, dirty brush ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/black-paint-ink-splatter-grunge-dirty-brush-strokes-drop-splash-liquid-spots_546559-1702.jpg' alt='Premium Vector | Black paint. Ink splatter. Grunge, dirty brush ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/black-paint-ink-splatter-grunge-dirty-brush-strokes-drop-splash-liquid-spots_546559-1702.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ink Splatter 04 by Loadus on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/72aa80df-9b96-4082-ab45-993be5796882/d2cbdsd-39967e79-765c-4d97-b376-cda7b1992a54.jpg/v1/fill/w_900,h_1239,q_75,strp/ink_splatter_04_by_loadus_d2cbdsd-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTIzOSIsInBhdGgiOiJcL2ZcLzcyYWE4MGRmLTliOTYtNDA4Mi1hYjQ1LTk5M2JlNTc5Njg4MlwvZDJjYmRzZC0zOTk2N2U3OS03NjVjLTRkOTctYjM3Ni1jZGE3YjE5OTJhNTQuanBnIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.JSl0UFXD7bP_exF7G-k5gDwgkeY3wIqj6KpogEVmLF4' alt='Ink Splatter 04 by Loadus on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1239">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/72aa80df-9b96-4082-ab45-993be5796882/d2cbdsd-39967e79-765c-4d97-b376-cda7b1992a54.jpg/v1/fill/w_900,h_1239,q_75,strp/ink_splatter_04_by_loadus_d2cbdsd-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTIzOSIsInBhdGgiOiJcL2ZcLzcyYWE4MGRmLTliOTYtNDA4Mi1hYjQ1LTk5M2JlNTc5Njg4MlwvZDJjYmRzZC0zOTk2N2U3OS03NjVjLTRkOTctYjM3Ni1jZGE3YjE5OTJhNTQuanBnIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.JSl0UFXD7bP_exF7G-k5gDwgkeY3wIqj6KpogEVmLF4' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

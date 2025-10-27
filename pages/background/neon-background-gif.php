@@ -1,0 +1,129 @@
+<title>Eye-Catching Neon Background GIFs: Brighten Your Visuals</title>
+                    <meta name="description" content="Explore stunning neon background GIFs that elevate your digital presence. Perfect for websites and social media, these vibrant animations add energy and appeal, ensuring your content stands out. Enhance your visuals today with our collection of captivating neon GIFs!">
+                    <meta name="keywords" content="neon background gif">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/neon-background-gif">
+                            <span itemprop="name">neon background gif</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Eye-Catching Neon Background GIFs: Brighten Your Visuals</h1>
+                <p>Transform your visuals with a neon background GIF that dazzles and captivates. Perfect for websites, social media, or presentations, these animated backgrounds add a modern flair. Whether you're promoting a brand or enhancing your digital space, neon GIFs bring vibrancy and excitement that grab attention and leave a lasting impression.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon GIF - Neon - Discover & Share GIFs">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/64/a8/08/64a8083d07b8c98923311cbc88fecafe.gif' alt='Neon GIF - Neon - Discover & Share GIFs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/64/a8/08/64a8083d07b8c98923311cbc88fecafe.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Neon GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media3.giphy.com/media/hU8zl0Je75fvOeq2rS/200w.gif?cid=6c09b952k6093brt4i7rx6dqjpdjfmr6jrzpex8ei90y41o6&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Background Neon GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media3.giphy.com/media/hU8zl0Je75fvOeq2rS/200w.gif?cid=6c09b952k6093brt4i7rx6dqjpdjfmr6jrzpex8ei90y41o6&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="No Copyright Red and Blue Contrasting Neon Lights Background ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/cf/bc/37/cfbc370e45aee5035e26b4f2d3f24335.gif' alt='No Copyright Red and Blue Contrasting Neon Lights Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/cf/bc/37/cfbc370e45aee5035e26b4f2d3f24335.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="glow neon lights GIF - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/bc/55/51/bc5551ac237a9ef4d8e9575662f2e106.gif' alt='glow neon lights GIF - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/bc/55/51/bc5551ac237a9ef4d8e9575662f2e106.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Techno Background GIF | GIFDB.com">
+                                <img itemprop="contentUrl url" src='https://gifdb.com/images/high/neon-techno-background-07w3jgqrk7galdgr.gif' alt='Neon Techno Background GIF | GIFDB.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GIFDB.com" />
+                                </span>
+                                <a href='https://gifdb.com/images/high/neon-techno-background-07w3jgqrk7galdgr.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Light Change Gif by DevartTube on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/91653038-d924-4c2f-9f7b-6194e07cd782/dfpijj8-d50f845d-2f93-4837-8fd7-adae2cc4baed.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzkxNjUzMDM4LWQ5MjQtNGMyZi05ZjdiLTYxOTRlMDdjZDc4MlwvZGZwaWpqOC1kNTBmODQ1ZC0yZjkzLTQ4MzctOGZkNy1hZGFlMmNjNGJhZWQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.PuomCpwj39GHaSTm8B4IZ37dRQIXhC5JVnnY3skQWqw' alt='Neon Light Change Gif by DevartTube on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/91653038-d924-4c2f-9f7b-6194e07cd782/dfpijj8-d50f845d-2f93-4837-8fd7-adae2cc4baed.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzkxNjUzMDM4LWQ5MjQtNGMyZi05ZjdiLTYxOTRlMDdjZDc4MlwvZGZwaWpqOC1kNTBmODQ1ZC0yZjkzLTQ4MzctOGZkNy1hZGFlMmNjNGJhZWQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.PuomCpwj39GHaSTm8B4IZ37dRQIXhC5JVnnY3skQWqw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Neon GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media1.giphy.com/media/eLe7DmXeW4SAIoT83M/200w.gif?cid=6c09b952k6093brt4i7rx6dqjpdjfmr6jrzpex8ei90y41o6&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Background Neon GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="356">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media1.giphy.com/media/eLe7DmXeW4SAIoT83M/200w.gif?cid=6c09b952k6093brt4i7rx6dqjpdjfmr6jrzpex8ei90y41o6&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated Neon GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/v7e0rFCKgaoAAAAM/tunnel.gif' alt='Animated Neon GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="275">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/v7e0rFCKgaoAAAAM/tunnel.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Motoko-Showreel-Loop-12.5fps.gif (509×288)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/c5/8b/f6/c58bf61b9e786e3c4131348e933b752c.gif' alt='Motoko-Showreel-Loop-12.5fps.gif (509×288)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="509">
+                                <meta itemprop="height" content="288">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/c5/8b/f6/c58bf61b9e786e3c4131348e933b752c.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Neon GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media1.giphy.com/media/326d5iOUoYY8N6uFPm/100.gif?cid=6c09b952k6093brt4i7rx6dqjpdjfmr6jrzpex8ei90y41o6&ep=v1_gifs_search&rid=100.gif&ct=g' alt='Background Neon GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="178">
+                                <meta itemprop="height" content="100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media1.giphy.com/media/326d5iOUoYY8N6uFPm/100.gif?cid=6c09b952k6093brt4i7rx6dqjpdjfmr6jrzpex8ei90y41o6&ep=v1_gifs_search&rid=100.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Trendy Geometric Phone Wallpaper for Modern Aesthetics</title>
+                    <meta name="description" content="Discover a variety of eye-catching geometric phone wallpapers designed to enhance your mobile experience. Perfect for any style, these unique patterns offer a contemporary look, ensuring your device stands out. Explore our collection and personalize your phone today!">
+                    <meta name="keywords" content="geometric phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/geometric-phone-wallpaper">
+                            <span itemprop="name">geometric phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Trendy Geometric Phone Wallpaper for Modern Aesthetics</h1>
+                <p>Transform your device with stunning geometric phone wallpaper! These stylish backgrounds feature vibrant shapes and patterns that add a modern touch to your screen. Perfect for those who appreciate minimalism or want to make a bold statement, geometric designs can elevate your phone's aesthetic while reflecting your unique personality.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Simple Geometric Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/simple-geometric-phone-kf4k1rvbm37rqgs6.jpg' alt='100+] Simple Geometric Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/simple-geometric-phone-kf4k1rvbm37rqgs6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bot Verification">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fd/c1/cc/fdc1cce79e167a877d1a5670603f2d36.jpg' alt='Bot Verification'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1065">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fd/c1/cc/fdc1cce79e167a877d1a5670603f2d36.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Geometric Phone Wallpaper - free download">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/high/neon-geometric-phone-wallpaper.webp' alt='Neon Geometric Phone Wallpaper - free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="839">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/high/neon-geometric-phone-wallpaper.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="81 GEOMETRIC | iPhone Wallpapers ideas | iphone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/750x/8a/9c/d2/8a9cd2c71760efc32477710f741a9ed1.jpg' alt='81 GEOMETRIC | iPhone Wallpapers ideas | iphone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/750x/8a/9c/d2/8a9cd2c71760efc32477710f741a9ed1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Geometric Phone Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/abstract-background-gradient-modern-design_677411-3112.jpg' alt='Geometric Phone Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="278">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/abstract-background-gradient-modern-design_677411-3112.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Geometric Pattern Colorful 4k Phone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/geometric-pattern-colorful-4k-phone-buankn3z4naufnj1.jpg' alt='Geometric Pattern Colorful 4k Phone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/geometric-pattern-colorful-4k-phone-buankn3z4naufnj1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern and Sleek Phone Wallpaper Featuring a Geometric Hexagonal ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/z/modern-sleek-phone-wallpaper-showcasing-geometric-hexagonal-pattern-dark-tones-blue-highlights-create-sophisticated-320970938.jpg' alt='Modern and Sleek Phone Wallpaper Featuring a Geometric Hexagonal ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="907">
+                                <meta itemprop="height" content="1690">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/z/modern-sleek-phone-wallpaper-showcasing-geometric-hexagonal-pattern-dark-tones-blue-highlights-create-sophisticated-320970938.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Shapes Simple Phone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/black-shapes-simple-phone-bxtnbfxcuyz0muwh.jpg' alt='Black Shapes Simple Phone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/black-shapes-simple-phone-bxtnbfxcuyz0muwh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Geometric Phone Wallpaper (Procedural!) : r/blender">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/YfGH--him9p_U0reQs7fSURijxIuR5bo5gpBFION1vk.jpg?width=640&crop=smart&auto=webp&s=28f69d86207f598c4e3d96654a35114431171e1a' alt='A Geometric Phone Wallpaper (Procedural!) : r/blender'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/YfGH--him9p_U0reQs7fSURijxIuR5bo5gpBFION1vk.jpg?width=640&crop=smart&auto=webp&s=28f69d86207f598c4e3d96654a35114431171e1a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract/Geometry (1080x1920) Wallpaper ID: 663106 - Mobile Abyss">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d5/6f/21/d56f21bd362c73e2dbd2a4304ea2279d.jpg' alt='Abstract/Geometry (1080x1920) Wallpaper ID: 663106 - Mobile Abyss'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d5/6f/21/d56f21bd362c73e2dbd2a4304ea2279d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>How to Create Transparent Backgrounds in CSS</title>
+                    <meta name="description" content="Discover how to achieve stunning transparent backgrounds using CSS. Learn to utilize rgba() and hsla() functions effectively for layered designs, enhancing your web project's visual appeal. Perfect for mobile viewing, this guide streamlines the process of creating eye-catching, transparent styles.">
+                    <meta name="keywords" content="background color transparent css">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/background-color-transparent-css">
+                            <span itemprop="name">background color transparent css</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>How to Create Transparent Backgrounds in CSS</h1>
+                <p>To set a transparent background color in CSS, use the rgba() or hsla() functions. For example, `background-color: rgba(255, 255, 255, 0.5);` sets a white background with 50% transparency. Transparent backgrounds enhance visual interest and allow for layering without obscuring underlying elements. Look to add subtle gradients for depth.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="html - CSS: revoke transparent color from parent - Stack Overflow">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/k60U8.jpg' alt='html - CSS: revoke transparent color from parent - Stack Overflow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/k60U8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Opacity in CSS | CSS Transparent Background Color - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/CDKWzQXlPyw/sddefault.jpg' alt='Opacity in CSS | CSS Transparent Background Color - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/CDKWzQXlPyw/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CSS Color Transparent | How does Transparent color works in CSS?">
+                                <img itemprop="contentUrl url" src='https://cdn.educba.com/academy/wp-content/uploads/2020/02/CSS-Color-Transparent.jpg' alt='CSS Color Transparent | How does Transparent color works in CSS?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="893">
+                                <meta itemprop="height" content="501">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EDUCBA" />
+                                </span>
+                                <a href='https://cdn.educba.com/academy/wp-content/uploads/2020/02/CSS-Color-Transparent.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CSS Color Transparent | How does Transparent color works in CSS?">
+                                <img itemprop="contentUrl url" src='https://cdn.educba.com/academy/wp-content/uploads/2020/02/CSS-Color-transparent3.png' alt='CSS Color Transparent | How does Transparent color works in CSS?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="953">
+                                <meta itemprop="height" content="994">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EDUCBA" />
+                                </span>
+                                <a href='https://cdn.educba.com/academy/wp-content/uploads/2020/02/CSS-Color-transparent3.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to make transparent web page using CSS ? - GeeksforGeeks">
+                                <img itemprop="contentUrl url" src='https://media.geeksforgeeks.org/wp-content/uploads/20210806210906/transparent2.png' alt='How to make transparent web page using CSS ? - GeeksforGeeks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="376">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GeeksforGeeks" />
+                                </span>
+                                <a href='https://media.geeksforgeeks.org/wp-content/uploads/20210806210906/transparent2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="css - How can place some text and a transparent color in a ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/ACfhE.png' alt='css - How can place some text and a transparent color in a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="679">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/ACfhE.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Make Div Background Color Transparent in CSS · DevPractical">
+                                <img itemprop="contentUrl url" src='https://devpractical.com/public/2022/hsl-color-picker.jpg' alt='How to Make Div Background Color Transparent in CSS · DevPractical'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="789">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DevPractical" />
+                                </span>
+                                <a href='https://devpractical.com/public/2022/hsl-color-picker.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Css background 2025 transparent">
+                                <img itemprop="contentUrl url" src='https://cdn.educba.com/academy/wp-content/uploads/2020/02/CSS-Color-transparent5.png' alt='Css background 2025 transparent'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="975">
+                                <meta itemprop="height" content="347">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://cdn.educba.com/academy/wp-content/uploads/2020/02/CSS-Color-transparent5.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Power of the rgba() Color Function in CSS | CSS-Tricks">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/css-tricks.com/wp-content/uploads/2016/11/basic-idea.jpg' alt='The Power of the rgba() Color Function in CSS | CSS-Tricks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CSS-Tricks" />
+                                </span>
+                                <a href='https://i0.wp.com/css-tricks.com/wp-content/uploads/2016/11/basic-idea.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="css - Text transparent issue with background color - Stack Overflow">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/pUJxz.png' alt='css - Text transparent issue with background color - Stack Overflow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="288">
+                                <meta itemprop="height" content="177">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/pUJxz.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

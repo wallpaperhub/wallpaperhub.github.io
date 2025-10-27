@@ -1,0 +1,129 @@
+<title>Discover Vintage Halloween Wallpaper for a Spooky Touch</title>
+                    <meta name="description" content="Unleash your creativity with vintage Halloween wallpaper from Tumblr! Perfect for adding a nostalgic and spooky vibe to your space. Explore unique designs to elevate your seasonal decor—ideal for enthusiasts of all things Halloween. Make this Halloween memorable with a charming retro flair!">
+                    <meta name="keywords" content="tumblr vintage halloween wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage">
+                            <span itemprop="name">Vintage</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage/tumblr-vintage-halloween-wallpaper">
+                            <span itemprop="name">tumblr vintage halloween wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Vintage Halloween Wallpaper for a Spooky Touch</h1>
+                <p>Transform your space this Halloween with enchanting vintage wallpaper from Tumblr! Featuring whimsical designs, classic motifs, and a nostalgic feel, these wallpapers add a perfect touch to your seasonal decor. Embrace the spirit of Halloween with charming patterns that conjure memories of Halloweens past and create a cozy ambiance.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wallpaper halloween | Tumblr">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/88/cc/1d/88cc1d0af6fc84af7e49a80518517471.jpg' alt='wallpaper halloween | Tumblr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/88/cc/1d/88cc1d0af6fc84af7e49a80518517471.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Halloween aesthetic      – @thisishalloween1331 on Tumblr">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/9785cbd09ac0355ab47eeef91f6fe796/f139ab7c7ae68bd0-1f/s1280x1920/fcfe66c1d51f8b46d800f213307f65cb0ecdc13f.jpg' alt='Vintage Halloween aesthetic      – @thisishalloween1331 on Tumblr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="662">
+                                <meta itemprop="height" content="1151">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/9785cbd09ac0355ab47eeef91f6fe796/f139ab7c7ae68bd0-1f/s1280x1920/fcfe66c1d51f8b46d800f213307f65cb0ecdc13f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Halloween aesthetic      – @thisishalloween1331 on Tumblr">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/09fdef175434e897613c974dd7328b20/f139ab7c7ae68bd0-37/s1280x1920/6fd52fe219d5891c7e123b787dca680526cacd38.jpg' alt='Vintage Halloween aesthetic      – @thisishalloween1331 on Tumblr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="910">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/09fdef175434e897613c974dd7328b20/f139ab7c7ae68bd0-37/s1280x1920/6fd52fe219d5891c7e123b787dca680526cacd38.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Set The Tone — Vintage Halloween aesthetic     ">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/b24d1829ef4b39844a33318a57ad2c84/f139ab7c7ae68bd0-3b/s1280x1920/eb5730391e6ccd81eb548b651b1660c819382cc1.jpg' alt='I Set The Tone — Vintage Halloween aesthetic     '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1144">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Set The Tone - Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/b24d1829ef4b39844a33318a57ad2c84/f139ab7c7ae68bd0-3b/s1280x1920/eb5730391e6ccd81eb548b651b1660c819382cc1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="All Things Halloween All The Time — Feeling halloween vibey with ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/0465fccccab91046926bf5caf1a87615/9d79f4b579da3f7a-9d/s540x810/bb146481ac02f1bad79e37d9ab753a79d7ad376b.jpg' alt='All Things Halloween All The Time — Feeling halloween vibey with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="All Things Halloween All The Time - Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/0465fccccab91046926bf5caf1a87615/9d79f4b579da3f7a-9d/s540x810/bb146481ac02f1bad79e37d9ab753a79d7ad376b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Halloween screen background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e3/bd/61/e3bd61191140c5a4fe01c432484afa74.jpg' alt='Vintage Halloween screen background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e3/bd/61/e3bd61191140c5a4fe01c432484afa74.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="it's Halloween...always!       ">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/f0a98ae3141439a89a047bfdf71a6aee/ffd5f7ac656129ca-52/s1280x1920/a591362d367721ed0b8e31b7a04043a62e718ffe.jpg' alt='it's Halloween...always!       '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1037">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="it's Halloween...always!       " />
+                                </span>
+                                <a href='https://64.media.tumblr.com/f0a98ae3141439a89a047bfdf71a6aee/ffd5f7ac656129ca-52/s1280x1920/a591362d367721ed0b8e31b7a04043a62e718ffe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Halloween wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7e/38/d5/7e38d56729fbddcc3928e94a5e921f15.jpg' alt='Vintage Halloween wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7e/38/d5/7e38d56729fbddcc3928e94a5e921f15.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Wallpaper – @halloweenbitchbaby on Tumblr">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/1073c08b58cc530972b64ca5b1f3bc18/74b345f274bd3091-d2/s1280x1920/3a3e89230ecb52d4dbbe23020577214b25740d20.jpg' alt='Halloween Wallpaper – @halloweenbitchbaby on Tumblr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/1073c08b58cc530972b64ca5b1f3bc18/74b345f274bd3091-d2/s1280x1920/3a3e89230ecb52d4dbbe23020577214b25740d20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="fleur de juin — made a shitty halloween background for ur...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/2a8fcd09b921c07c77185fe974b70cb7/62b68e8046e271c2-20/s1280x1920/d5788e7d2b6de3dc73d289068271c6b760596bae.jpg' alt='fleur de juin — made a shitty halloween background for ur...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="808">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="fleur de juin - Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/2a8fcd09b921c07c77185fe974b70cb7/62b68e8046e271c2-20/s1280x1920/d5788e7d2b6de3dc73d289068271c6b760596bae.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

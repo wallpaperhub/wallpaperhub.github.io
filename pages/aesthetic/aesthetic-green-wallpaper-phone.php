@@ -1,0 +1,129 @@
+<title>Vibrant Aesthetic Green Wallpaper for Your Phone</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="aesthetic green wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic-green-wallpaper-phone">
+                            <span itemprop="name">aesthetic green wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Aesthetic Green Wallpaper for Your Phone</h1>
+                <p>Aesthetic green wallpaper for your phone brings a refreshing touch to your device. From vibrant forest shades to soft mint hues, these wallpapers enhance your screen with tranquility and style. Ideal for nature lovers, they promote a calming atmosphere while providing a beautiful backdrop for your apps. Embrace the aesthetic!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable wallpaper green templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGFWr-O7YA/1/0/900w/canva-green-leaf-aesthetic-minimalist-wallpaper-phone-4-1hrnwjCco.jpg' alt='Free and customizable wallpaper green templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGFWr-O7YA/1/0/900w/canva-green-leaf-aesthetic-minimalist-wallpaper-phone-4-1hrnwjCco.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Yany on Flores | Iphone wallpaper green, Art wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/7e/0b/99/7e0b994ab423917021c7f3ddbf977486.jpg' alt='Pin by Yany on Flores | Iphone wallpaper green, Art wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/7e/0b/99/7e0b994ab423917021c7f3ddbf977486.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Green Aesthetic Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-green-minimal-different-plants-ov96gc3wglgoxvkz.jpg' alt='100+] Green Aesthetic Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1029">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-green-minimal-different-plants-ov96gc3wglgoxvkz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8d/1f/ee/8d1fee64b69ed6f555c214c2ed3528a8.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8d/1f/ee/8d1fee64b69ed6f555c214c2ed3528a8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable wallpaper green templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGJAXHKu8E/4/0/900w/canva-green-minimalist-abstract-watercolor-phone-wallpaper-9aEYkOqeFHQ.jpg' alt='Free and customizable wallpaper green templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGJAXHKu8E/4/0/900w/canva-green-minimalist-abstract-watercolor-phone-wallpaper-9aEYkOqeFHQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic green, aesthetic, aesthetic butterfly, black, butterfly ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/635/291/HD-wallpaper-aesthetic-green-aesthetic-aesthetic-butterfly-black-butterfly-cute-green-iphone-theme-wall.jpg' alt='Aesthetic green, aesthetic, aesthetic butterfly, black, butterfly ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/635/291/HD-wallpaper-aesthetic-green-aesthetic-aesthetic-butterfly-black-butterfly-cute-green-iphone-theme-wall.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Aesthetic Wallpaper">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51CtESs2LML.jpg' alt='Green Aesthetic Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51CtESs2LML.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Green Aesthetic Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/green-aesthetic-iphone-fpe2x9gs77405gmc.jpg' alt='100+] Green Aesthetic Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/green-aesthetic-iphone-fpe2x9gs77405gmc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="aesthetic green wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/ec/43/ca/ec43ca558412bd890b2a75da41f51b21.jpg' alt='aesthetic green wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/ec/43/ca/ec43ca558412bd890b2a75da41f51b21.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Neon Aesthetic Wallpapers Phone - Neon Green Wallpaper iPhone">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2021/08/greeen-neon-aesthetic-wallpaper-2-scaled.jpg' alt='Green Neon Aesthetic Wallpapers Phone - Neon Green Wallpaper iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1183">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2021/08/greeen-neon-aesthetic-wallpaper-2-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

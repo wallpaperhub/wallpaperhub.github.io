@@ -1,0 +1,129 @@
+<title>Vibrant Purple HD 4K Wallpapers for iPhone 14</title>
+                    <meta name="description" content="Explore a collection of beautiful purple HD 4K wallpapers tailored for iPhone 14. Enhance your device with striking visuals that make a statement. Ideal for users seeking a stylish and modern look, these wallpapers are easy to download and fit perfectly on your screen. Upgrade your wallpaper today!">
+                    <meta name="keywords" content="purple hd 4k iphone 14 wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/purple-hd-4k-iphone-14-wallpaper">
+                            <span itemprop="name">purple hd 4k iphone 14 wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Purple HD 4K Wallpapers for iPhone 14</h1>
+                <p>Discover stunning purple HD 4K wallpapers for your iPhone 14. Transform your device with vibrant shades of purple, adding an elegant touch to your home screen. These high-resolution images are perfect for showcasing the power of your iPhone's display while reflecting your unique style. Download your favorite designs today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple - iPhone 14 Pro Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/2a/38/25/2a3825b21c5ad8c25bebae0494471ad1.jpg' alt='Purple - iPhone 14 Pro Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="1191">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/2a/38/25/2a3825b21c5ad8c25bebae0494471ad1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone 14 Pro Deep Purple Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/iphone-14-pro-deep-purple-zo22g2rooc9dsvtj.jpg' alt='Iphone 14 Pro Deep Purple Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="883">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/iphone-14-pro-deep-purple-zo22g2rooc9dsvtj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Iphone 14 Dark Purple Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/iphone-14-dark-purple-ikafqc6i7uq0nsqr.jpg' alt='Download Iphone 14 Dark Purple Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/iphone-14-dark-purple-ikafqc6i7uq0nsqr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iphone 14 promax wallpaper full hd purple apple phone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/18/18/92/181892c59238396af8ba42cb82b35d57.jpg' alt='iphone 14 promax wallpaper full hd purple apple phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/18/18/92/181892c59238396af8ba42cb82b35d57.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 14 Abstract Purple 4K Wallpaper iPhone HD Phone #350h">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/iphone-14-abstract-purple-35@0@h-phone-4k.jpg' alt='iPhone 14 Abstract Purple 4K Wallpaper iPhone HD Phone #350h'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/iphone-14-abstract-purple-35@0@h-phone-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 14 Pro Wallpaper Purple Blue">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/35/2b/cb/352bcb662f1cae3334470f00cd16b9a9.jpg' alt='iPhone 14 Pro Wallpaper Purple Blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/35/2b/cb/352bcb662f1cae3334470f00cd16b9a9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 14 Pro Purple Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp13200975.png' alt='iPhone 14 Pro Purple Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2750">
+                                <meta itemprop="height" content="5500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp13200975.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD purple iphone wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/36/366/HD-wallpaper-iphone-12-original-purple-i-phone-12-thumbnail.jpg' alt='HD purple iphone wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/36/366/HD-wallpaper-iphone-12-original-purple-i-phone-12-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="14-4">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/b9/8a/a7/b98aa7930057acefa5afeb6e60e243e6.jpg' alt='14-4'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="532">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/b9/8a/a7/b98aa7930057acefa5afeb6e60e243e6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone 14 Pro Neon Purple Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/iphone-14-pro-neon-purple-k9th9j14c2w4twr2.jpg' alt='Iphone 14 Pro Neon Purple Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/iphone-14-pro-neon-purple-k9th9j14c2w4twr2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

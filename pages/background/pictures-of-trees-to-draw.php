@@ -1,0 +1,129 @@
+<title>Stunning Tree Pictures for Easy Drawing Inspiration</title>
+                    <meta name="description" content="Dive into an amazing collection of tree pictures designed to inspire your next drawing. Perfect for artists of all levels, these images showcase diverse tree species, capturing their beauty and intricacies in detail. Start enhancing your artistic skills today!">
+                    <meta name="keywords" content="pictures of trees to draw">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pictures-of-trees-to-draw">
+                            <span itemprop="name">pictures of trees to draw</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Tree Pictures for Easy Drawing Inspiration</h1>
+                <p>Explore a variety of beautiful tree pictures perfect for drawing inspiration! From majestic oaks to delicate cherry blossoms, each image captures unique shapes, textures, and colors. Whether you're a beginner or an experienced artist, these tree images will enhance your skills and spark creativity in your art projects.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Draw A Tree - Happy Family Art">
+                                <img itemprop="contentUrl url" src='https://www.happyfamilyart.com/wp-content/uploads/2015/03/LittleTree2v2.jpg' alt='How To Draw A Tree - Happy Family Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="507">
+                                <meta itemprop="height" content="660">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happy Family Art" />
+                                </span>
+                                <a href='https://www.happyfamilyart.com/wp-content/uploads/2015/03/LittleTree2v2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to draw different types trees by pencil for beginners.">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/A8BttUg8NGQ/maxresdefault.jpg' alt='How to draw different types trees by pencil for beginners.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/A8BttUg8NGQ/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Draw A Tree - Happy Family Art">
+                                <img itemprop="contentUrl url" src='https://www.happyfamilyart.com/wp-content/uploads/2015/03/Seascape8v2.jpg' alt='How To Draw A Tree - Happy Family Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="690">
+                                <meta itemprop="height" content="526">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happy Family Art" />
+                                </span>
+                                <a href='https://www.happyfamilyart.com/wp-content/uploads/2015/03/Seascape8v2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3 Easy Ways To Draw Trees">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Ln2cxKUrl4M/maxresdefault.jpg' alt='3 Easy Ways To Draw Trees'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Ln2cxKUrl4M/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Landscapes & Trees - Dayton Art Institute">
+                                <img itemprop="contentUrl url" src='https://www.daytonartinstitute.org/wp-content/uploads/2021/05/DrawFromCollection_Trees_sample.jpg' alt='Landscapes & Trees - Dayton Art Institute'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1235">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dayton Art Institute" />
+                                </span>
+                                <a href='https://www.daytonartinstitute.org/wp-content/uploads/2021/05/DrawFromCollection_Trees_sample.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drawing different types of trees - Share Your Art - The Artist's ...">
+                                <img itemprop="contentUrl url" src='https://canada1.discourse-cdn.com/flex030/uploads/thevirtualinstructor/original/1X/6326d8fdbb79b92487f6b64a7d079e02d5383155.jpeg' alt='Drawing different types of trees - Share Your Art - The Artist's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3987">
+                                <meta itemprop="height" content="5329">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Artist's Community by The Virtual Instructor" />
+                                </span>
+                                <a href='https://canada1.discourse-cdn.com/flex030/uploads/thevirtualinstructor/original/1X/6326d8fdbb79b92487f6b64a7d079e02d5383155.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Draw a Tree - Easy Drawing Tutorial For kids">
+                                <img itemprop="contentUrl url" src='https://howtodrawforkids.com/wp-content/uploads/2020/09/draw-a-tree-step-9.jpg' alt='How to Draw a Tree - Easy Drawing Tutorial For kids'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="637">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="How to Draw for Kids" />
+                                </span>
+                                <a href='https://howtodrawforkids.com/wp-content/uploads/2020/09/draw-a-tree-step-9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Draw Trees">
+                                <img itemprop="contentUrl url" src='https://thevirtualinstructor.com/images/complextreeshapes.jpg' alt='How To Draw Trees'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="672">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Virtual Instructor" />
+                                </span>
+                                <a href='https://thevirtualinstructor.com/images/complextreeshapes.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Draw a Dead Tree - HubPages">
+                                <img itemprop="contentUrl url" src='https://images.saymedia-content.com/.image/t_share/MTc1MDEwNDM4ODU2MDU4NjY3/how-to-draw-a-dead-tree.jpg' alt='How to Draw a Dead Tree - HubPages'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1181">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HubPages" />
+                                </span>
+                                <a href='https://images.saymedia-content.com/.image/t_share/MTc1MDEwNDM4ODU2MDU4NjY3/how-to-draw-a-dead-tree.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Draw a Tree in 5 Easy Steps | Skip To My Lou">
+                                <img itemprop="contentUrl url" src='https://www.skiptomylou.org/wp-content/uploads/2023/01/how-to-draw-a-tree-5.jpg' alt='How to Draw a Tree in 5 Easy Steps | Skip To My Lou'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SkipToMyLou.org" />
+                                </span>
+                                <a href='https://www.skiptomylou.org/wp-content/uploads/2023/01/how-to-draw-a-tree-5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

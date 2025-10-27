@@ -1,0 +1,129 @@
+<title>Supreme Lock Screen Wallpapers: Transform Your Device</title>
+                    <meta name="description" content="Discover amazing supreme lock screen wallpapers that elevate your device's look. Find high-quality images tailored for every style and personality. Transform your phone's lock screen and express yourself with stunning visuals that inspire every day. Perfect for mobile displays.">
+                    <meta name="keywords" content="lock screen supreme wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/lock-screen-supreme-wallpaper">
+                            <span itemprop="name">lock screen supreme wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Supreme Lock Screen Wallpapers: Transform Your Device</h1>
+                <p>Unlock the potential of your device's lock screen with supreme wallpapers! Elevate your style with stunning high-definition images that reflect your personality. From breathtaking landscapes to abstract art, find the perfect wallpaper to inspire you every time you check your phone. Customize your look and stand out today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Supreme Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dope-gangster-t9qzf4gztu786rvi.jpg' alt='100+] Supreme Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dope-gangster-t9qzf4gztu786rvi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Supreme Supreme Iphone Wallpaper Chill Wallpaper Boys - Supreme ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/10/2b/1b/102b1b703c0d7a1211ab9b1242e20b08.jpg' alt='Supreme Supreme Iphone Wallpaper Chill Wallpaper Boys - Supreme ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="1082">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/10/2b/1b/102b1b703c0d7a1211ab9b1242e20b08.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Wallpapers - Wallpaper Sun">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0c/39/cb/0c39cb6b51de2f6493a07639c01ccdd3.jpg' alt='Red Wallpapers - Wallpaper Sun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0c/39/cb/0c39cb6b51de2f6493a07639c01ccdd3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Supreme Trippy, lock, screen, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/196/519/HD-wallpaper-supreme-trippy-lock-screen.jpg' alt='Supreme Trippy, lock, screen, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/196/519/HD-wallpaper-supreme-trippy-lock-screen.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super trendy Supreme Walls!    (Please ask me if you want any ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/f22e1585c6049e333c6ef8ba33618df4/tumblr_p3d90mz1Xp1vk6aq4o1_640.jpg' alt='Super trendy Supreme Walls!    (Please ask me if you want any ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="566">
+                                <meta itemprop="height" content="942">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/f22e1585c6049e333c6ef8ba33618df4/tumblr_p3d90mz1Xp1vk6aq4o1_640.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="250 Supreme wallpaper ideas | supreme wallpaper, supreme iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0c/87/2f/0c872f0164e321f2740cd2c0868c3487.jpg' alt='250 Supreme wallpaper ideas | supreme wallpaper, supreme iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1141">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0c/87/2f/0c872f0164e321f2740cd2c0868c3487.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Supreme Galaxy, best, friend, galaxy, led, lock, locked, quotes ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/301/202/HD-wallpaper-supreme-galaxy-best-friend-galaxy-led-lock-locked-quotes-screen-supreme-umbrella.jpg' alt='Supreme Galaxy, best, friend, galaxy, led, lock, locked, quotes ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1645">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/301/202/HD-wallpaper-supreme-galaxy-best-friend-galaxy-led-lock-locked-quotes-screen-supreme-umbrella.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Supreme Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/supreme-iphone-p0dcacifrarlk5zy.jpg' alt='100+] Supreme Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/supreme-iphone-p0dcacifrarlk5zy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download free Bart Simpson Orange Supreme Wallpaper - MrWallpaper.com">
+                                <img itemprop="contentUrl url" src='https://mrwallpaper.com/images/hd/bart-simpson-orange-supreme-2hp5reqm7yspcsiy.jpg' alt='Download free Bart Simpson Orange Supreme Wallpaper - MrWallpaper.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrWallpaper" />
+                                </span>
+                                <a href='https://mrwallpaper.com/images/hd/bart-simpson-orange-supreme-2hp5reqm7yspcsiy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Supreme Roses Lock Screen Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/supreme-roses-lock-screen-pn0wuybx1xkaxkxn.jpg' alt='Supreme Roses Lock Screen Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="718">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/supreme-roses-lock-screen-pn0wuybx1xkaxkxn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

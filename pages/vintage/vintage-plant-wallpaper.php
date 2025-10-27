@@ -1,0 +1,129 @@
+<title>Vintage Plant Wallpaper: Timeless Charm for Your Home</title>
+                    <meta name="description" content="Discover vintage plant wallpaper that adds elegance and nature-inspired beauty to your space. Perfect for creating a serene atmosphere, browse timeless designs that elevate your home decor easily. Transform any room with our stunning botanical patterns today!">
+                    <meta name="keywords" content="vintage plant wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage">
+                            <span itemprop="name">Vintage</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage/vintage-plant-wallpaper">
+                            <span itemprop="name">vintage plant wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vintage Plant Wallpaper: Timeless Charm for Your Home</h1>
+                <p>Vintage plant wallpaper brings a nostalgic charm to any space, blending timeless elegance with nature's beauty. Featuring intricate botanical patterns and earthy tones, this wallpaper transforms your home into a serene sanctuary. Whether in a cozy corner or as a statement wall, vintage styles evoke memories while connecting us with nature.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RANRAN Vintage Floral Peel and Stick Wallpaper Plant Mushroom Vinyl Self  Adhesive Wallpaper for Bedroom Furniture Paper Removable Wall Decorations  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81pB3YwSAZL._AC_UF894,1000_QL80_.jpg' alt='RANRAN Vintage Floral Peel and Stick Wallpaper Plant Mushroom Vinyl Self  Adhesive Wallpaper for Bedroom Furniture Paper Removable Wall Decorations  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="733">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81pB3YwSAZL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1940s Botanical Vintage Wallpaper">
+                                <img itemprop="contentUrl url" src='https://hannahstreasures.com/cdn/shop/products/IMG_1126.jpg?v=1509997971' alt='1940s Botanical Vintage Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hannah's Treasures" />
+                                </span>
+                                <a href='https://hannahstreasures.com/cdn/shop/products/IMG_1126.jpg?v=1509997971' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Herbal Pattern Wallpaper">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/241268/Vintage-Herbal-Pattern-Wallpaper.jpg?v=638165404292530000' alt='Vintage Herbal Pattern Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="3200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/241268/Vintage-Herbal-Pattern-Wallpaper.jpg?v=638165404292530000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fungi Wallpaper • Milton & King">
+                                <img itemprop="contentUrl url" src='https://s29938.pcdn.co/wp-content/uploads/2021/05/Wallpaper-Fungi-Olive-1.jpg.optimal.jpg' alt='Fungi Wallpaper • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://s29938.pcdn.co/wp-content/uploads/2021/05/Wallpaper-Fungi-Olive-1.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Lativo Green Floral Peel and Stick Wallpaper Vintage 472.4inL  17.3inW Boho Contact Paper for Cabinets and Drawers Dark Flower Leaf Self  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/810g4ZhpBLL.jpg' alt='Amazon.com: Lativo Green Floral Peel and Stick Wallpaper Vintage 472.4inL  17.3inW Boho Contact Paper for Cabinets and Drawers Dark Flower Leaf Self  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/810g4ZhpBLL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eucalyptus Wallpaper • Milton & King">
+                                <img itemprop="contentUrl url" src='https://s29938.pcdn.co/wp-content/uploads/2021/05/Wallpaper-Eucalyptus-Pebble-1.jpg.optimal.jpg' alt='Eucalyptus Wallpaper • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://s29938.pcdn.co/wp-content/uploads/2021/05/Wallpaper-Eucalyptus-Pebble-1.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poisonous Plant Wallpaper, Dark Botanical Wall Mural, Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/9040763/r/il/5791fb/4579417106/il_570xN.4579417106_3wt9.jpg' alt='Poisonous Plant Wallpaper, Dark Botanical Wall Mural, Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="824">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/9040763/r/il/5791fb/4579417106/il_570xN.4579417106_3wt9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Illustration Wallpaper – dekornik.com wallstickers and ...">
+                                <img itemprop="contentUrl url" src='http://dekornik.com/cdn/shop/products/dekornik_tapeta_vintage_illustration_packshot-950x950-1.jpg?v=1695636393' alt='Vintage Illustration Wallpaper – dekornik.com wallstickers and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="950">
+                                <meta itemprop="height" content="950">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="dekornik.com wallstickers and wallpapers store" />
+                                </span>
+                                <a href='http://dekornik.com/cdn/shop/products/dekornik_tapeta_vintage_illustration_packshot-950x950-1.jpg?v=1695636393' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Vines - Porcelain White Floral Wallpaper by Bohemian Bungalow">
+                                <img itemprop="contentUrl url" src='https://mitchellblack.com/cdn/shop/products/ClimbingVine_Porcelain.jpg?v=1665778651&width=1080' alt='Vintage Vines - Porcelain White Floral Wallpaper by Bohemian Bungalow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mitchell Black" />
+                                </span>
+                                <a href='https://mitchellblack.com/cdn/shop/products/ClimbingVine_Porcelain.jpg?v=1665778651&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazing Vintage Botanical Wallpaper for 2025 | Rebel Walls">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_720/v1737714969/articles/R21368_product.jpg' alt='Amazing Vintage Botanical Wallpaper for 2025 | Rebel Walls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1316">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rebel Walls" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_720/v1737714969/articles/R21368_product.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

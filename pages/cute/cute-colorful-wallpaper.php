@@ -1,0 +1,129 @@
+<title>Adorable Colorful Wallpaper Designs for Every Room</title>
+                    <meta name="description" content="Discover the charm of cute colorful wallpaper! Perfect for adding vibrancy to any room, our collection features playful patterns and vibrant colors that elevate your decor. Ideal for children's spaces or fun accents, these wallpapers bring joy and creativity to your walls. Explore your options now!">
+                    <meta name="keywords" content="cute colorful wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-colorful-wallpaper">
+                            <span itemprop="name">cute colorful wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Colorful Wallpaper Designs for Every Room</h1>
+                <p>Brighten up your space with cute colorful wallpaper! Perfect for children's rooms, play areas, or anywhere you want to add a pop of joy, these wallpapers feature playful designs, vibrant hues, and fun patterns that inspire creativity. Transform your walls into a canvas of happiness and make every room feel more cheerful!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200 Colorful wallpapers ideas | colorful wallpaper, wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/04/de/20/04de2084572a5cf71abfcb22e2635bcf.jpg' alt='200 Colorful wallpapers ideas | colorful wallpaper, wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/04/de/20/04de2084572a5cf71abfcb22e2635bcf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Glitter, colors, cute, sparkle, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/448/953/HD-wallpaper-rainbow-glitter-colors-cute-sparkle.jpg' alt='Rainbow Glitter, colors, cute, sparkle, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1497">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/448/953/HD-wallpaper-rainbow-glitter-colors-cute-sparkle.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Colorful Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-colorful-ia8p2dsf7c8qco4c.jpg' alt='100+] Cute Colorful Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-colorful-ia8p2dsf7c8qco4c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Colorful Galaxy Background With Flowers Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/a-colorful-galaxy-background-with-flowers-n0t95lm3eyzegx4p.jpg' alt='A Colorful Galaxy Background With Flowers Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/a-colorful-galaxy-background-with-flowers-n0t95lm3eyzegx4p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Wallpaper Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/014/242/434/non_2x/rainbow-unicorn-background-with-clouds-and-stars-pastel-color-sky-magical-landscape-abstract-fabulous-pattern-cute-candy-wallpaper-vector.jpg' alt='Cute Wallpaper Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/014/242/434/non_2x/rainbow-unicorn-background-with-clouds-and-stars-pastel-color-sky-magical-landscape-abstract-fabulous-pattern-cute-candy-wallpaper-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free iPhone 6 Wallpaper / Backgrounds">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c1/22/ce/c122ce55de8aae5f97030391bb315e15.jpg' alt='Free iPhone 6 Wallpaper / Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c1/22/ce/c122ce55de8aae5f97030391bb315e15.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable colorful wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAF2SGgm-pk/1/0/900w/canva-green-colorful-playful-retro-good-vibes-phone-wallpaper-W7kXJxiRUgI.jpg' alt='Free and customizable colorful wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAF2SGgm-pk/1/0/900w/canva-green-colorful-playful-retro-good-vibes-phone-wallpaper-W7kXJxiRUgI.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Cute Wallpapers Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/colorful-cute-background_87374-151.jpg' alt='Colorful Cute Wallpapers Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/colorful-cute-background_87374-151.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Wallpaper" Images – Browse 7,949 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/05/51/71/61/360_F_551716108_yZSbx76w5A8ZX8Hjn9FhCKfaFp2hd2X9.jpg' alt='Cute Wallpaper" Images – Browse 7,949 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="534">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/05/51/71/61/360_F_551716108_yZSbx76w5A8ZX8Hjn9FhCKfaFp2hd2X9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whimsical Diagonal Pattern In Cute Pastel Colors Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/whimsical-diagonal-pattern-in-cute-pastel-colors-gqpvvm8bgj1tu28t.jpg' alt='Whimsical Diagonal Pattern In Cute Pastel Colors Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/whimsical-diagonal-pattern-in-cute-pastel-colors-gqpvvm8bgj1tu28t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

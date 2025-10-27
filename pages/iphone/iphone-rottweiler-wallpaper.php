@@ -1,0 +1,129 @@
+<title>Stunning Rottweiler Wallpapers for Your iPhone</title>
+                    <meta name="description" content="Discover the best Rottweiler wallpapers for iPhone! Browse a collection of high-quality images that perfectly capture the beauty and strength of Rottweilers. Personalize your device with these unique and captivating designs. Perfect for dog lovers and Rottweiler enthusiasts alike!">
+                    <meta name="keywords" content="iphone rottweiler wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-rottweiler-wallpaper">
+                            <span itemprop="name">iphone rottweiler wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Rottweiler Wallpapers for Your iPhone</h1>
+                <p>Looking for stunning iPhone Rottweiler wallpapers? Enhance your device's aesthetics with captivating images of Rottweilers that showcase their strength and loyalty. These wallpapers not only make your screen look great but also reflect your love for this majestic breed. Download your favorites and personalize your iPhone today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rottweiler in Ukiyo-E Style Amongst Cherry Blossoms in Windy ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e6/6f/82/e66f8240b91ddc84b70f06b924954a64.jpg' alt='Rottweiler in Ukiyo-E Style Amongst Cherry Blossoms in Windy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e6/6f/82/e66f8240b91ddc84b70f06b924954a64.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="640x1136 Rottweiler iPhone 5,5c,5S,SE ,Ipod Touch ,HD 4k ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4a/2b/5b/4a2b5bfb13f8d8557097b9af7a815dfb.jpg' alt='640x1136 Rottweiler iPhone 5,5c,5S,SE ,Ipod Touch ,HD 4k ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4a/2b/5b/4a2b5bfb13f8d8557097b9af7a815dfb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rottweiler iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp5716448.jpg' alt='Rottweiler iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="938">
+                                <meta itemprop="height" content="1668">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp5716448.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rottweiler in Ukiyo-E Style Posing with Mountains and Valley ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7b/35/38/7b3538df4deb0b64ff85288e4d1c4ad0.jpg' alt='Rottweiler in Ukiyo-E Style Posing with Mountains and Valley ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7b/35/38/7b3538df4deb0b64ff85288e4d1c4ad0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rottweiler Dog Portrait Wallpaper Wall Mural">
+                                <img itemprop="contentUrl url" src='https://www.azutura.com/media/catalog/product/cache/52/image/650x/040ec09b1e35df139433887a97daa66f/W/S/WS-46924_WP.jpg' alt='Rottweiler Dog Portrait Wallpaper Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="975">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Azutura" />
+                                </span>
+                                <a href='https://www.azutura.com/media/catalog/product/cache/52/image/650x/040ec09b1e35df139433887a97daa66f/W/S/WS-46924_WP.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Rottweiler Dog Lying on the Floor · Free Stock Photo">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/8179838/pexels-photo-8179838.jpeg?cs=srgb&dl=pexels-31299941-8179838.jpg&fm=jpg' alt='A Rottweiler Dog Lying on the Floor · Free Stock Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2016">
+                                <meta itemprop="height" content="3024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/8179838/pexels-photo-8179838.jpeg?cs=srgb&dl=pexels-31299941-8179838.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Rottweiler Dog In A Hoodie Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/rottweiler-dog-in-a-hoodie-zh9y8czk1465vvk6.jpg' alt='Download Rottweiler Dog In A Hoodie Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1439">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/rottweiler-dog-in-a-hoodie-zh9y8czk1465vvk6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rottweiler Dog in Japan iPhone Wallpaper Cover">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fc/c7/a5/fcc7a56bde2ce300b7f4043f95a2047a.jpg' alt='Rottweiler Dog in Japan iPhone Wallpaper Cover'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1303">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fc/c7/a5/fcc7a56bde2ce300b7f4043f95a2047a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rottweiler iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/721/721499.jpg' alt='Rottweiler iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/721/721499.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Rottweiler, black rottweiler, black dog, dog, animal, prisma ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/988/357/HD-wallpaper-black-rottweiler-black-rottweiler-black-dog-dog-animal-prisma-pet.jpg' alt='Black Rottweiler, black rottweiler, black dog, dog, animal, prisma ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/988/357/HD-wallpaper-black-rottweiler-black-rottweiler-black-dog-dog-animal-prisma-pet.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

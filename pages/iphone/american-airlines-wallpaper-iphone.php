@@ -1,0 +1,129 @@
+<title>American Airlines iPhone Wallpapers: Stunning & Free</title>
+                    <meta name="description" content="Discover a collection of free American Airlines wallpapers for your iPhone. Elevate your device's style with vibrant designs featuring the iconic airline. Perfect for travel lovers, these high-quality images will keep your love for aviation alive every time you check your phone!">
+                    <meta name="keywords" content="american airlines wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/american-airlines-wallpaper-iphone">
+                            <span itemprop="name">american airlines wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>American Airlines iPhone Wallpapers: Stunning & Free</h1>
+                <p>Enhance your iPhone's look with stunning American Airlines wallpaper! Choose from a selection of high-quality images featuring the iconic logo, vibrant aircraft designs, and breathtaking travel destinations. Perfect for aviation enthusiasts and frequent travelers, these wallpapers will inspire your wanderlust every time you unlock your device!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American Airlines Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1563724576495-4bb026cc9133?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YW1lcmljYW4lMjBhaXJsaW5lc3xlbnwwfHwwfHx8MA%3D%3D' alt='American Airlines Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1563724576495-4bb026cc9133?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YW1lcmljYW4lMjBhaXJsaW5lc3xlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American Airlines Wallpapers (50 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/f/b/9/1442989-1366x2048-iphone-hd-american-airlines-background-image.jpg' alt='American Airlines Wallpapers (50 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/f/b/9/1442989-1366x2048-iphone-hd-american-airlines-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American Airlines Airplane under Clouds · Free Stock Photo">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/16340977/pexels-photo-16340977/free-photo-of-american-airlines-airplane-under-clouds.jpeg' alt='American Airlines Airplane under Clouds · Free Stock Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2442">
+                                <meta itemprop="height" content="4340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/16340977/pexels-photo-16340977/free-photo-of-american-airlines-airplane-under-clouds.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] American Airlines Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/american-airlines-s4mxfitfnux0nzly.jpg' alt='100+] American Airlines Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/american-airlines-s4mxfitfnux0nzly.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American Airlines Morning Moon Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/american-airlines-morning-moon-i36kua8aju1z80x2.jpg' alt='American Airlines Morning Moon Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/american-airlines-morning-moon-i36kua8aju1z80x2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American Airlines Photos, Download The BEST Free American Airlines ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/15734265/pexels-photo-15734265.jpeg?cs=srgb&dl=pexels-hellojoshwithers-15734265.jpg&fm=jpg' alt='American Airlines Photos, Download The BEST Free American Airlines ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4677">
+                                <meta itemprop="height" content="5846">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/15734265/pexels-photo-15734265.jpeg?cs=srgb&dl=pexels-hellojoshwithers-15734265.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Our favorite look = flights and pretty skies    ✈️   : @aviate_ty">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3246187456948942802' alt='Our favorite look = flights and pretty skies    ✈️   : @aviate_ty'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="719">
+                                <meta itemprop="height" content="897">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3246187456948942802' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] American Airlines Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/american-airlines-empennage-designs-kahlxwa6l5g2e7r5.jpg' alt='100+] American Airlines Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/american-airlines-empennage-designs-kahlxwa6l5g2e7r5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Wallpaper) American Airlines 737 at San Diego | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/4645/24426900447_def1a854be_b.jpg' alt='Phone Wallpaper) American Airlines 737 at San Diego | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/4645/24426900447_def1a854be_b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American Airlines iPhone Wallpapers - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/41343783/r/il/d62b60/5114546156/il_fullxfull.5114546156_e1ki.jpg' alt='American Airlines iPhone Wallpapers - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/41343783/r/il/d62b60/5114546156/il_fullxfull.5114546156_e1ki.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Discover the Enchantment of Infinity Castle</title>
+                    <meta name="description" content="Experience the magic of Infinity Castle, a captivating landscape filled with endless beauty and surreal elements. Perfect for dreamers and adventurers alike, this enchanting background fuels your imagination and invites you into a realm of wonder. Explore the astonishing visuals and limitless possibilities today!">
+                    <meta name="keywords" content="infinity castle background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/infinity-castle-background">
+                            <span itemprop="name">infinity castle background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Enchantment of Infinity Castle</h1>
+                <p>Infinity Castle is a breathtaking realm where reality transcends limits, adorned with ethereal landscapes and endless possibilities. Towering spires of shimmering crystals reach for the cosmos, while luminous gardens bloom with vibrant colors. This enchanting background creates a surreal atmosphere, inviting visitors to explore its infinite wonders.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The unearthly Infinity Castle as a phone wallpaper :) : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/the-unearthly-infinity-castle-as-a-phone-wallpaper-v0-y0riqe6wv0i81.jpg?width=640&format=pjpg&auto=webp&s=a3af8638087686cab2b02b5458bcb84ef151b3fe' alt='The unearthly Infinity Castle as a phone wallpaper :) : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/the-unearthly-infinity-castle-as-a-phone-wallpaper-v0-y0riqe6wv0i81.jpg?width=640&format=pjpg&auto=webp&s=a3af8638087686cab2b02b5458bcb84ef151b3fe' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Omorphia Visual - Infinity Castle">
+                                <img itemprop="contentUrl url" src='https://cdna.artstation.com/p/assets/images/images/067/114/854/large/omorphia-visual-low.jpg?1694585136' alt='Omorphia Visual - Infinity Castle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Omorphia Visual" />
+                                </span>
+                                <a href='https://cdna.artstation.com/p/assets/images/images/067/114/854/large/omorphia-visual-low.jpg?1694585136' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13 Infinity castle ideas | castle, castle background, anime background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/2c/b1/e4/2cb1e4c4e97a48f0bba3e1ed2d84c5af.jpg' alt='13 Infinity castle ideas | castle, castle background, anime background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1263">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/2c/b1/e4/2cb1e4c4e97a48f0bba3e1ed2d84c5af.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Breaking the Internet with Anime Edit - Kimetsu no Yaiba, Demon Slayer,  Muzan, Tanjiro">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7390151752437271813&location=0&aid=1988' alt='Breaking the Internet with Anime Edit - Kimetsu no Yaiba, Demon Slayer,  Muzan, Tanjiro'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7390151752437271813&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How would your avatar react to falling into the infinity castle ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/i23pteuu0egd1.jpeg' alt='How would your avatar react to falling into the infinity castle ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/i23pteuu0egd1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NEWS FROM JAPAN] Are you ready to enter the Infinity Castle ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3518712039641696299' alt='NEWS FROM JAPAN] Are you ready to enter the Infinity Castle ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3518712039641696299' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/75/3f/71/753f715938cb9f689afddbb540fe6a7d.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/75/3f/71/753f715938cb9f689afddbb540fe6a7d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elementary School Boy Creates Demon Slayer: Kimetsu no Yaiba's ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/41/ef/86/41ef868f17d9689e6d517fb93a5dad26.jpg' alt='Elementary School Boy Creates Demon Slayer: Kimetsu no Yaiba's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/41/ef/86/41ef868f17d9689e6d517fb93a5dad26.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Demon Slayer: Kimetsu no Yaiba - Infinity Castle reveals release ...">
+                                <img itemprop="contentUrl url" src='https://img.asmedia.epimg.net/resizer/v2/DPL64C64YFBGHOJRGU64F6QFQA.jpg?auth=fe652ef3769363f7f23f7ea8ecc2b6c39f5c5a67d8a185a748ea5ab1b58e4fc7&width=644&height=362&smart=true' alt='Demon Slayer: Kimetsu no Yaiba - Infinity Castle reveals release ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="644">
+                                <meta itemprop="height" content="362">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AS USA - Diario AS" />
+                                </span>
+                                <a href='https://img.asmedia.epimg.net/resizer/v2/DPL64C64YFBGHOJRGU64F6QFQA.jpg?auth=fe652ef3769363f7f23f7ea8ecc2b6c39f5c5a67d8a185a748ea5ab1b58e4fc7&width=644&height=362&smart=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Infinity Castle | Kimetsu no Yaiba Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/e/ed/Infinity_Castle_-_1.png/revision/latest/scale-to-width-down/250?cb=20230411020007' alt='Infinity Castle | Kimetsu no Yaiba Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="141">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kimetsu no Yaiba Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/e/ed/Infinity_Castle_-_1.png/revision/latest/scale-to-width-down/250?cb=20230411020007' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

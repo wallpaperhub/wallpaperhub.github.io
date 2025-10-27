@@ -1,0 +1,129 @@
+<title>Welcoming Sunday School Images for Kids</title>
+                    <meta name="description" content="Discover a collection of inviting Sunday School images designed to inspire young minds and spirits. Explore vibrant visuals that encourage kids to learn about faith, community, and connection in a fun and engaging way. Perfect for educators and parents looking to enhance their Sunday School experience!">
+                    <meta name="keywords" content="welcome to sunday school images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/welcome-to-sunday-school-images">
+                            <span itemprop="name">welcome to sunday school images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Welcoming Sunday School Images for Kids</h1>
+                <p>Welcome to Sunday School! This special space encourages children to explore their faith through engaging images that inspire learning and connection. From vibrant illustrations to heartfelt moments captured in photos, each image reflects the joy of learning about spirituality and community. Join us in sharing these meaningful experiences!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Welcome to Sunday School Sign- Sunday School Printable - Church ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30189585/r/il/ac70ed/5438766555/il_fullxfull.5438766555_2d5j.jpg' alt='Welcome to Sunday School Sign- Sunday School Printable - Church ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30189585/r/il/ac70ed/5438766555/il_fullxfull.5438766555_2d5j.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Sunday School Religion S Instant Welcome To Sunday School Sign  Children Ministry W Metal Tin Sign Wall Quote Bathroom Living Room Home ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71dyZCl2bFL.jpg' alt='Amazon.com : Sunday School Religion S Instant Welcome To Sunday School Sign  Children Ministry W Metal Tin Sign Wall Quote Bathroom Living Room Home ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="994">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71dyZCl2bFL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunday School Religion Posters INSTANT DOWNLOAD Welcome to Sunday School  Sign Children Ministry Welcome Kids Church Bible Studies Class">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35876959/r/il/882c4f/5120525705/il_fullxfull.5120525705_jvse.jpg' alt='Sunday School Religion Posters INSTANT DOWNLOAD Welcome to Sunday School  Sign Children Ministry Welcome Kids Church Bible Studies Class'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="903">
+                                <meta itemprop="height" content="845">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35876959/r/il/882c4f/5120525705/il_fullxfull.5120525705_jvse.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunday School Religion Posters, INSTANT DOWNLOAD Welcome to Sunday School  Sign, Children Ministry, Welcome Kids Church, Rainbow Colorful">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/19693562/r/il/410cfa/5068059977/il_570xN.5068059977_d3ff.jpg' alt='Sunday School Religion Posters, INSTANT DOWNLOAD Welcome to Sunday School  Sign, Children Ministry, Welcome Kids Church, Rainbow Colorful'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/19693562/r/il/410cfa/5068059977/il_570xN.5068059977_d3ff.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Welcome to Sunday school poster Template | PosterMyWall">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/welcome-to-sunday-school-poster-design-template-a21ab472976b5d2c94e85a59e64c9f73_screen.jpg?ts=1679550859' alt='Welcome to Sunday school poster Template | PosterMyWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="691">
+                                <meta itemprop="height" content="691">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/welcome-to-sunday-school-poster-design-template-a21ab472976b5d2c94e85a59e64c9f73_screen.jpg?ts=1679550859' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ShareFaith Media » Sunday School Jelly Bean Welcome Motion Graphic ...">
+                                <img itemprop="contentUrl url" src='https://mlqbbna2acyz.i.optimole.com/w:388/h:258/q:mauto/f:best/https://media.sharefaith.com/wp-content/uploads/2022/10/1493397496286_112.jpg' alt='ShareFaith Media » Sunday School Jelly Bean Welcome Motion Graphic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="388">
+                                <meta itemprop="height" content="258">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareFaith Media" />
+                                </span>
+                                <a href='https://mlqbbna2acyz.i.optimole.com/w:388/h:258/q:mauto/f:best/https://media.sharefaith.com/wp-content/uploads/2022/10/1493397496286_112.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Instant Bulletin Board - Welcome Back to Sunday School - PDF Download  [Download]">
+                                <img itemprop="contentUrl url" src='https://g.christianbook.com/dg/product/cbd/f400/21911DF.jpg' alt='Instant Bulletin Board - Welcome Back to Sunday School - PDF Download  [Download]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Christian Book Distributors" />
+                                </span>
+                                <a href='https://g.christianbook.com/dg/product/cbd/f400/21911DF.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Welcome to Sunday School 2023-24">
+                                <img itemprop="contentUrl url" src='https://lirp.cdn-website.com/4fdcb87c/dms3rep/multi/opt/WelcomeToSundaySchool_NoLogo-640w.jpg' alt='Welcome to Sunday School 2023-24'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Congregational Church of Batavia" />
+                                </span>
+                                <a href='https://lirp.cdn-website.com/4fdcb87c/dms3rep/multi/opt/WelcomeToSundaySchool_NoLogo-640w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thursday Theology: Why Sunday School in 2024? - Crossings | The ...">
+                                <img itemprop="contentUrl url" src='https://crossings.org/wp-content/uploads/2024/07/From-Canva.png' alt='Thursday Theology: Why Sunday School in 2024? - Crossings | The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="726">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Crossings Community" />
+                                </span>
+                                <a href='https://crossings.org/wp-content/uploads/2024/07/From-Canva.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Welcome To Sunday School Horizontal Wall Decal">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-w5pmn0mk1v/images/stencil/1280x1280/products/362/709/2001-9523__79617.1709491272.jpg?c=1?imbypass=on' alt='Colorful Welcome To Sunday School Horizontal Wall Decal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative for Kids" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-w5pmn0mk1v/images/stencil/1280x1280/products/362/709/2001-9523__79617.1709491272.jpg?c=1?imbypass=on' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

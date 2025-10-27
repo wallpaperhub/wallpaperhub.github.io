@@ -1,0 +1,129 @@
+<title>Celebrate the Power of Background Friends</title>
+                    <meta name="description" content="Explore the significance of background friends in your life. Discover how these loyal companions enhance our experiences and provide unwavering support, often without the recognition they deserve. Learn to appreciate these unsung heroes of friendship!">
+                    <meta name="keywords" content="background friends">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/background-friends">
+                            <span itemprop="name">background friends</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Celebrate the Power of Background Friends</h1>
+                <p>Background friends are the unsung heroes in our lives, providing support and companionship while often remaining in the shadows. They share laughs, lend an ear, and stand by during tough times, all without seeking the spotlight. These friends enrich our experiences, reminding us of the importance of loyalty and genuine connection.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Friends wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/91/ef/4d/91ef4da69ce8fd58029e27b0d7fa8b23.jpg' alt='Friends wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/91/ef/4d/91ef4da69ce8fd58029e27b0d7fa8b23.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Friends background 2025 images">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/watercolor-background-international-friendship-day-celebration_23-2150518691.jpg' alt='Friends background 2025 images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="447">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/watercolor-background-international-friendship-day-celebration_23-2150518691.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Friends Backgrounds for Zoom and Teams">
+                                <img itemprop="contentUrl url" src='https://virtual-bg.com/wp-content/uploads/2020/06/friends-central-perk-virtual-background.png' alt='Friends Backgrounds for Zoom and Teams'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Virtual backgrounds for your online Zoom or Teams meeting" />
+                                </span>
+                                <a href='https://virtual-bg.com/wp-content/uploads/2020/06/friends-central-perk-virtual-background.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Friendship Background Stock Photos, Images and Backgrounds for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/030/522/291/non_2x/beautifull-friendship-world-day-background-images-photo.jpg' alt='Friendship Background Stock Photos, Images and Backgrounds for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/030/522/291/non_2x/beautifull-friendship-world-day-background-images-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Silhouette of young people jumping together,friend having fun ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/01/88/55/25/1000_F_188552547_VZPR47drthdPhfQKgnQMAseir0NPWcfr.jpg' alt='Silhouette of young people jumping together,friend having fun ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/01/88/55/25/1000_F_188552547_VZPR47drthdPhfQKgnQMAseir0NPWcfr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable wallpaper best friend templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFNOJkU3iI/1/0/900w/canva-white-watercolor-modern-best-friends-phone-wallpaper-P-qU642rPz4.jpg' alt='Free and customizable wallpaper best friend templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFNOJkU3iI/1/0/900w/canva-white-watercolor-modern-best-friends-phone-wallpaper-P-qU642rPz4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Friends background 2025 images">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/friends-background-6lk41gce5uk6fged.jpg' alt='Friends background 2025 images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/friends-background-6lk41gce5uk6fged.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download free Friends Logo Peach Background Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://mrwallpaper.com/images/thumbnail/friends-logo-peach-background-br2ihjpknofbom4t.webp' alt='Download free Friends Logo Peach Background Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="531">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrWallpaper" />
+                                </span>
+                                <a href='https://mrwallpaper.com/images/thumbnail/friends-logo-peach-background-br2ihjpknofbom4t.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Friends Wallpapers - Wallpapers For Your Phone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/friends-wallpapers-wallpapers-for-your-phone-9idf1pq17du07qto.jpg' alt='Friends Wallpapers - Wallpapers For Your Phone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/friends-wallpapers-wallpapers-for-your-phone-9idf1pq17du07qto.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Friends (TV Series) Wallpapers (52 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/d/1/0/13913-1080x2340-iphone-hd-friends-tv-series-background-photo.jpg' alt='Friends (TV Series) Wallpapers (52 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/d/1/0/13913-1080x2340-iphone-hd-friends-tv-series-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

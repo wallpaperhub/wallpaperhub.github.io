@@ -1,0 +1,129 @@
+<title>"Explore the Exciting World of Arena Backgrounds"</title>
+                    <meta name="description" content="Discover the captivating essence of arena backgrounds, where sports and entertainment converge. This concise guide showcases the architectural beauty and vibrant atmosphere of arenas, inviting you to experience the excitement firsthand. Perfect for event lovers and venue enthusiasts alike!">
+                    <meta name="keywords" content="arena background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/arena-background">
+                            <span itemprop="name">arena background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Explore the Exciting World of Arena Backgrounds"</h1>
+                <p>The arena background serves as a dynamic setting where thrilling events unfold, from sports to concerts. Typically designed with grand architecture and vibrant lighting, arenas create an immersive experience for audiences and participants. The energy of a crowd and the excitement of the event create unforgettable memories for all.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gymnastics Arena Background: Over 674 Royalty-Free Licensable ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/sport-stadium-grandstands-full-fans-260nw-1773996056.jpg' alt='Gymnastics Arena Background: Over 674 Royalty-Free Licensable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="462">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/sport-stadium-grandstands-full-fans-260nw-1773996056.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background of Sports Fighting Arena Stage Photography Backdrop IBD ...">
+                                <img itemprop="contentUrl url" src='https://www.ibackdrop.com/cdn/shop/products/Background_of_Sports_Fighting_Arena_Stage_Photography_Backdrop_IBD-19748.jpg?v=1605692838' alt='Background of Sports Fighting Arena Stage Photography Backdrop IBD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1320">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iBACKDROP" />
+                                </span>
+                                <a href='https://www.ibackdrop.com/cdn/shop/products/Background_of_Sports_Fighting_Arena_Stage_Photography_Backdrop_IBD-19748.jpg?v=1605692838' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arena Background Images – Browse 706,971 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/48/65/38/360_F_248653851_lMw1RUwPLpaBsSCT31eE3ZDY8WkIFpiq.jpg' alt='Arena Background Images – Browse 706,971 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/48/65/38/360_F_248653851_lMw1RUwPLpaBsSCT31eE3ZDY8WkIFpiq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arena Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/007/190/735/non_2x/mma-octagon-arena-stage-background-free-vector.jpg' alt='Arena Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/007/190/735/non_2x/mma-octagon-arena-stage-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="289,927 Arena Background Images, Stock Photos, 3D objects ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/soccer-stadium-field-background-600nw-2212159303.jpg' alt='289,927 Arena Background Images, Stock Photos, 3D objects ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/soccer-stadium-field-background-600nw-2212159303.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Basketball Stadium Theme Backdrop Basketball Arena Court Shining Stadium  Photography Background Sports Club Sports Theme Basketball Match  Decorations ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/713xdIBfgZL._AC_UF894,1000_QL80_.jpg' alt='Basketball Stadium Theme Backdrop Basketball Arena Court Shining Stadium  Photography Background Sports Club Sports Theme Basketball Match  Decorations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="581">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/713xdIBfgZL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Medieval Arena Stock Illustrations – 345 Medieval Arena Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/illustrative-albedo-retro-style-anime-medieval-arena-illustrat-ai-generated-illustrative-albedo-retro-style-anime-medieval-arena-352284513.jpg' alt='Medieval Arena Stock Illustrations – 345 Medieval Arena Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/illustrative-albedo-retro-style-anime-medieval-arena-illustrat-ai-generated-illustrative-albedo-retro-style-anime-medieval-arena-352284513.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poster, Print large modern stadium. modene arena background with copy  space, 40x26.7 cm">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/v2/jpg/04/46/60/88/1000_F_446608889_dkhgBFxqt20ta8wILQhCZqM7QXvR41TA.jpg' alt='Poster, Print large modern stadium. modene arena background with copy  space, 40x26.7 cm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abposters.com" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/v2/jpg/04/46/60/88/1000_F_446608889_dkhgBFxqt20ta8wILQhCZqM7QXvR41TA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="18,700+ Arena Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1358059564/vector/golden-stadium-lights-with-rays.jpg?s=612x612&w=0&k=20&c=VP1m8Xjc7I3H54ZpZf94vb2ycPL0C9jG43SmqrKQyvs=' alt='18,700+ Arena Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1358059564/vector/golden-stadium-lights-with-rays.jpg?s=612x612&w=0&k=20&c=VP1m8Xjc7I3H54ZpZf94vb2ycPL0C9jG43SmqrKQyvs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arena Images – Browse 1,841,922 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/75/08/15/360_F_375081578_hXFJ0KzMwzfntMLeg61ND0IEWT0e4Q5b.jpg' alt='Arena Images – Browse 1,841,922 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/75/08/15/360_F_375081578_hXFJ0KzMwzfntMLeg61ND0IEWT0e4Q5b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

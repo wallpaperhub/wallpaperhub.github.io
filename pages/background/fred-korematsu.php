@@ -1,0 +1,129 @@
+<title>Remembering Fred Korematsu: A Civil Rights Pioneer</title>
+                    <meta name="description" content="Explore the legacy of Fred Korematsu, a brave civil rights hero who opposed the internment of Japanese Americans during WWII. Learn about his impactful fight for justice and the significance of his story in today's civil rights discussions.">
+                    <meta name="keywords" content="fred korematsu">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fred-korematsu">
+                            <span itemprop="name">fred korematsu</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Remembering Fred Korematsu: A Civil Rights Pioneer</h1>
+                <p>Fred Korematsu was an American civil rights activist known for resisting the internment of Japanese Americans during World War II. His courageous stand against the government’s unjust policies led to a landmark Supreme Court case, which initially upheld the internment. Today, Korematsu is celebrated for his fight for justice and civil liberties.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fred T. Korematsu (U.S. National Park Service)">
+                                <img itemprop="contentUrl url" src='https://www.nps.gov/common/uploads/cropped_image/primary/6BA3AEE9-03FC-F7C4-C795A7382DF2CAAF.jpg?width=600&quality=90&mode=crop' alt='Fred T. Korematsu (U.S. National Park Service)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="749">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Park Service" />
+                                </span>
+                                <a href='https://www.nps.gov/common/uploads/cropped_image/primary/6BA3AEE9-03FC-F7C4-C795A7382DF2CAAF.jpg?width=600&quality=90&mode=crop' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fred Korematsu Day | The National WWII Museum | New Orleans">
+                                <img itemprop="contentUrl url" src='https://www.nationalww2museum.org/sites/default/files/2018-01/fred%20k%20sized.jpg' alt='Fred Korematsu Day | The National WWII Museum | New Orleans'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The National WWII Museum" />
+                                </span>
+                                <a href='https://www.nationalww2museum.org/sites/default/files/2018-01/fred%20k%20sized.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fred Korematsu - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/6/68/Fred_Korematsu.jpg' alt='Fred Korematsu - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="202">
+                                <meta itemprop="height" content="308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/6/68/Fred_Korematsu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="It's Fred Korematsu Day: Celebrating A Foe Of U.S. Internment ...">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/img/2017/01/30/ap_96081403384_vert-fc7afe2d5d62775ca5c1de4ad9dbfa5004418360.jpg' alt='It's Fred Korematsu Day: Celebrating A Foe Of U.S. Internment ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1917">
+                                <meta itemprop="height" content="2557">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/img/2017/01/30/ap_96081403384_vert-fc7afe2d5d62775ca5c1de4ad9dbfa5004418360.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="About KI - Korematsu Institute">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/korematsuinstitute.org/wp-content/uploads/2022/01/fred-medal_blue.png?fit=1599%2C2000&ssl=1' alt='About KI - Korematsu Institute'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1599">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Korematsu Institute" />
+                                </span>
+                                <a href='https://i0.wp.com/korematsuinstitute.org/wp-content/uploads/2022/01/fred-medal_blue.png?fit=1599%2C2000&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fred T. Korematsu (U.S. National Park Service)">
+                                <img itemprop="contentUrl url" src='https://www.nps.gov/goga/images/fred-korematsu-family-crop.jpeg' alt='Fred T. Korematsu (U.S. National Park Service)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="719">
+                                <meta itemprop="height" content="510">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Park Service" />
+                                </span>
+                                <a href='https://www.nps.gov/goga/images/fred-korematsu-family-crop.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fred Korematsu Winning Justice | In Custodia Legis">
+                                <img itemprop="contentUrl url" src='https://blogs.loc.gov/law/files/2022/06/Fred-Korematsu-Presidential-Medal-of-Freedom-805x1024.jpg' alt='Fred Korematsu Winning Justice | In Custodia Legis'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="805">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Library of Congress Blogs" />
+                                </span>
+                                <a href='https://blogs.loc.gov/law/files/2022/06/Fred-Korematsu-Presidential-Medal-of-Freedom-805x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="U.S. v Korematsu: An Account">
+                                <img itemprop="contentUrl url" src='https://famous-trials.com/images/ftrials/korematsu/korematsuyoung.jpg' alt='U.S. v Korematsu: An Account'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="258">
+                                <meta itemprop="height" content="332">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Famous Trials" />
+                                </span>
+                                <a href='https://famous-trials.com/images/ftrials/korematsu/korematsuyoung.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Historic Victory: Standing up for Japanese Americans During World ...">
+                                <img itemprop="contentUrl url" src='https://www.aclunc.org/sites/default/files/styles/content_image_regular/public/fred_korematsu.png?itok=ltEgq5Ge' alt='Historic Victory: Standing up for Japanese Americans During World ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="781">
+                                <meta itemprop="height" content="602">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The ACLU of Northern California" />
+                                </span>
+                                <a href='https://www.aclunc.org/sites/default/files/styles/content_image_regular/public/fred_korematsu.png?itok=ltEgq5Ge' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Legacy of Fred Korematsu · National Parks Conservation Association">
+                                <img itemprop="contentUrl url" src='https://npca.s3.amazonaws.com/images/7731/43e74afa-53cb-461b-95bc-c5f6993ce970-banner.jpg?1445969383' alt='The Legacy of Fred Korematsu · National Parks Conservation Association'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Parks Conservation Association" />
+                                </span>
+                                <a href='https://npca.s3.amazonaws.com/images/7731/43e74afa-53cb-461b-95bc-c5f6993ce970-banner.jpg?1445969383' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

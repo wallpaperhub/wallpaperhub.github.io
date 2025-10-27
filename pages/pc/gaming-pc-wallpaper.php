@@ -1,0 +1,129 @@
+<title>Stunning Gaming PC Wallpaper Collection</title>
+                    <meta name="description" content="Explore a curated selection of vibrant gaming PC wallpapers that enhance your desktop's aesthetic. Perfect for gamers seeking inspiration and style, these wallpapers bring your favorite game worlds to life. Optimize your screen with these eye-catching visuals that make every gaming session unforgettable!">
+                    <meta name="keywords" content="gaming pc wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pc">
+                            <span itemprop="name">PC</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pc/gaming-pc-wallpaper">
+                            <span itemprop="name">gaming pc wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Gaming PC Wallpaper Collection</h1>
+                <p>Discover the ultimate gaming PC wallpaper collection to elevate your gaming experience. Dive into stunning visuals, from epic landscapes to dynamic characters that breathe life into your screen. Transform your desktop into an immersive gaming atmosphere that inspires and energizes every gaming session. Upgrade your aesthetic today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gaming pc 2025 backgrounds">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/106/535/HD-wallpaper-pc-gamer.jpg' alt='Gaming pc 2025 backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/106/535/HD-wallpaper-pc-gamer.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Purple Gaming Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-gaming-nepi2tnxp6g0mvz9.jpg' alt='100+] Purple Gaming Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-gaming-nepi2tnxp6g0mvz9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Gaming Pc Pictures | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/gaming-pc-pictures-1vqs383gb8uaevgg.jpg' alt='100+] Gaming Pc Pictures | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/gaming-pc-pictures-1vqs383gb8uaevgg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free customizable gaming desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE-rfspHQM/1/0/1600w/canva-blue-and-purple-cyberpunk-game-zone-desktop-background-QUVVB5lzUWo.jpg' alt='Free customizable gaming desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE-rfspHQM/1/0/1600w/canva-blue-and-purple-cyberpunk-game-zone-desktop-background-QUVVB5lzUWo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gaming PC, colourful, gaming, pc, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/537/766/HD-wallpaper-gaming-pc-colourful-gaming-pc.jpg' alt='Gaming PC, colourful, gaming, pc, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/537/766/HD-wallpaper-gaming-pc-colourful-gaming-pc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gaming Computer Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/view-illuminated-neon-gaming-keyboard-setup-controller_23-2149529367.jpg' alt='Gaming Computer Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/view-illuminated-neon-gaming-keyboard-setup-controller_23-2149529367.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="colorful, Neon, Computer, Keyboards, PC gaming Wallpapers HD ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/08/d4/60/08d460b878a26b0c6ab954cdbec9f532.jpg' alt='colorful, Neon, Computer, Keyboards, PC gaming Wallpapers HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/08/d4/60/08d460b878a26b0c6ab954cdbec9f532.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hd gaming wallpapers for 2025 pc">
+                                <img itemprop="contentUrl url" src='https://c4.wallpaperflare.com/wallpaper/339/694/383/asus-republic-of-gamers-gaming-laptop-laptop-pc-gaming-hd-wallpaper-preview.jpg' alt='Hd gaming wallpapers for 2025 pc'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://c4.wallpaperflare.com/wallpaper/339/694/383/asus-republic-of-gamers-gaming-laptop-laptop-pc-gaming-hd-wallpaper-preview.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gaming Pc Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/024/790/832/small_2x/futuristic-machinery-working-inside-electronics-industry-factory-generated-by-ai-free-photo.jpg' alt='Gaming Pc Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/024/790/832/small_2x/futuristic-machinery-working-inside-electronics-industry-factory-generated-by-ai-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wp6538316-aesthetic-pc-gaming-4k-wallpapers by BlackNet2019 on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d247204e-e639-4cdd-bd45-77f29e58c84d/df4i7xh-bbaa7045-728a-4fa0-b40f-c2368d1278ba.jpg/v1/fill/w_1280,h_720,q_75,strp/wp6538316_aesthetic_pc_gaming_4k_wallpapers_by_blacknet2019_df4i7xh-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvZDI0NzIwNGUtZTYzOS00Y2RkLWJkNDUtNzdmMjllNThjODRkXC9kZjRpN3hoLWJiYWE3MDQ1LTcyOGEtNGZhMC1iNDBmLWMyMzY4ZDEyNzhiYS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.QE5TVjQUsff9pfGfFz7wyZhDehZfJYt88uO9PVDE5O4' alt='Wp6538316-aesthetic-pc-gaming-4k-wallpapers by BlackNet2019 on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d247204e-e639-4cdd-bd45-77f29e58c84d/df4i7xh-bbaa7045-728a-4fa0-b40f-c2368d1278ba.jpg/v1/fill/w_1280,h_720,q_75,strp/wp6538316_aesthetic_pc_gaming_4k_wallpapers_by_blacknet2019_df4i7xh-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvZDI0NzIwNGUtZTYzOS00Y2RkLWJkNDUtNzdmMjllNThjODRkXC9kZjRpN3hoLWJiYWE3MDQ1LTcyOGEtNGZhMC1iNDBmLWMyMzY4ZDEyNzhiYS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.QE5TVjQUsff9pfGfFz7wyZhDehZfJYt88uO9PVDE5O4' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Exploring Shrek's Memorable Side Characters</title>
+                    <meta name="description" content="Discover the delightful side characters that make Shrek's universe so captivating! From Donkey to Puss in Boots, explore their unique traits and the humor they bring to this iconic franchise. Perfect for fans of all ages. Join us on this enchanting journey through Shrek's world!">
+                    <meta name="keywords" content="shrek side characters">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/shrek-side-characters">
+                            <span itemprop="name">shrek side characters</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring Shrek's Memorable Side Characters</h1>
+                <p>Shrek's side characters bring humor and depth to the beloved franchise. From the sassy Donkey, who never stops talking, to the wise yet quirky Puss in Boots, each character adds their own charm. Fiona's diverse transformations and the misfit fairy tale creatures create a rich tapestry of friendships that resonate with audiences of all ages.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="If you could pick one Shrek character to be your lifelong friend ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ess47f5vvwbb1.png' alt='If you could pick one Shrek character to be your lifelong friend ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ess47f5vvwbb1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Funniest Shrek Characters, Ranked">
+                                <img itemprop="contentUrl url" src='https://static1.cbrimages.com/wordpress/wp-content/uploads/2023/02/big-jack-horner-pinocchio-and-pied-piper-shrek-split-image.jpg' alt='10 Funniest Shrek Characters, Ranked'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CBR" />
+                                </span>
+                                <a href='https://static1.cbrimages.com/wordpress/wp-content/uploads/2023/02/big-jack-horner-pinocchio-and-pied-piper-shrek-split-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rumpelstiltskin | WikiShrek | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/shrek/images/3/33/Stiltskin.png/revision/latest?cb=20210101093212' alt='Rumpelstiltskin | WikiShrek | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="342">
+                                <meta itemprop="height" content="732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WikiShrek - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/shrek/images/3/33/Stiltskin.png/revision/latest?cb=20210101093212' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Doris | Dreamworks Animation Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/dreamworks/images/f/fe/Doris.jpg/revision/latest/thumbnail/width/360/height/360?cb=20240928132002' alt='Doris | Dreamworks Animation Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="334">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamworks Animation Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/dreamworks/images/f/fe/Doris.jpg/revision/latest/thumbnail/width/360/height/360?cb=20240928132002' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SHREK ELIMINATION GAME! Who is this subreddit's favourite ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/shrek-elimination-game-who-is-this-subreddits-favourite-v0-qovql5jk6lrb1.jpg?width=1080&crop=smart&auto=webp&s=35b5fb4867f5d07040fea3c3782cfe206c79dc52' alt='SHREK ELIMINATION GAME! Who is this subreddit's favourite ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/shrek-elimination-game-who-is-this-subreddits-favourite-v0-qovql5jk6lrb1.jpg?width=1080&crop=smart&auto=webp&s=35b5fb4867f5d07040fea3c3782cfe206c79dc52' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Characters From Shrek We'd Totally Hang Out With (& 5 Who Need ...">
+                                <img itemprop="contentUrl url" src='https://static1.srcdn.com/wordpress/wp-content/uploads/2021/01/feature-image-for-shrek-characters.jpg' alt='5 Characters From Shrek We'd Totally Hang Out With (& 5 Who Need ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Screen Rant" />
+                                </span>
+                                <a href='https://static1.srcdn.com/wordpress/wp-content/uploads/2021/01/feature-image-for-shrek-characters.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="33 iconic Shrek characters every fan of the franchise will ...">
+                                <img itemprop="contentUrl url" src='https://cdn.legit.ng/images/1200x675/fb6cc4ac20c844e4.jpeg?v=1' alt='33 iconic Shrek characters every fan of the franchise will ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Legit.ng" />
+                                </span>
+                                <a href='https://cdn.legit.ng/images/1200x675/fb6cc4ac20c844e4.jpeg?v=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lord Farquaad | WikiShrek | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/shrek/images/2/2d/Farquaad_portrait.png/revision/latest?cb=20210624204736' alt='Lord Farquaad | WikiShrek | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="922">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WikiShrek - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/shrek/images/2/2d/Farquaad_portrait.png/revision/latest?cb=20210624204736' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Best Shrek Movie Characters">
+                                <img itemprop="contentUrl url" src='https://static1.srcdn.com/wordpress/wp-content/uploads/2023/09/shrek-2-doris-ugly-step-sister.jpg' alt='10 Best Shrek Movie Characters'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Screen Rant" />
+                                </span>
+                                <a href='https://static1.srcdn.com/wordpress/wp-content/uploads/2023/09/shrek-2-doris-ugly-step-sister.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Most Popular Shrek Characters and Why We Love Them ...">
+                                <img itemprop="contentUrl url" src='https://www.hurfpostbrasil.com/wp-content/uploads/2024/08/Shrek-Characters-Personalities.jpg' alt='The Most Popular Shrek Characters and Why We Love Them ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HurfPost Brasil" />
+                                </span>
+                                <a href='https://www.hurfpostbrasil.com/wp-content/uploads/2024/08/Shrek-Characters-Personalities.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

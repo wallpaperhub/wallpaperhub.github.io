@@ -1,0 +1,129 @@
+<title>The Seven Last Words of Christ: A Reflection</title>
+                    <meta name="description" content="Discover the significance of the Seven Last Words of Christ. Explore each poignant statement made during His crucifixion, reflecting on themes of forgiveness, love, and sacrifice. A meaningful journey through Jesus' final moments that deepens faith and understanding.">
+                    <meta name="keywords" content="seven last words of christ">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/seven-last-words-of-christ">
+                            <span itemprop="name">seven last words of christ</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The Seven Last Words of Christ: A Reflection</h1>
+                <p>The Seven Last Words of Christ encapsulate the profound final statements of Jesus during His crucifixion. Each phrase offers insights into His suffering, compassion, and divine purpose. These powerful words — of forgiveness, hope, and ultimate sacrifice — resonate deeply in Christian faith, inviting reflection on His love and sacrifice for humanity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Seven Last Words of Christ">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-iuax7bpgx3/images/stencil/1280x1280/products/3750/8927/8927__67902.1675951638.jpg?c=1' alt='The Seven Last Words of Christ'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="905">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TAN Books" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-iuax7bpgx3/images/stencil/1280x1280/products/3750/8927/8927__67902.1675951638.jpg?c=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Prayer Of The SEVEN LAST WORDS OF... - Fr. Cedric Pisegna | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2949289821965705' alt='Prayer Of The SEVEN LAST WORDS OF... - Fr. Cedric Pisegna | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="672">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2949289821965705' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Seven Last Words of Christ on the Cross">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-cvc90x9929/images/stencil/1280x1280/products/3228/3345/SLWCH_r__42051.1617025042.jpg?c=1' alt='The Seven Last Words of Christ on the Cross'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1056">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ignatius Press" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-cvc90x9929/images/stencil/1280x1280/products/3228/3345/SLWCH_r__42051.1617025042.jpg?c=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Seven Last Words of Jesus on the Cross">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/CetFnj31_zo/maxresdefault.jpg' alt='The Seven Last Words of Jesus on the Cross'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/CetFnj31_zo/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Filipino Catholics observe 7 Last Words at home | Philippine News ...">
+                                <img itemprop="contentUrl url" src='https://files01.pna.gov.ph/category-list/2020/04/11/20200411124727-1.jpg' alt='Filipino Catholics observe 7 Last Words at home | Philippine News ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="415">
+                                <meta itemprop="height" content="260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Philippine News Agency" />
+                                </span>
+                                <a href='https://files01.pna.gov.ph/category-list/2020/04/11/20200411124727-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christ's Seven Final Words – John Hilton III">
+                                <img itemprop="contentUrl url" src='https://johnhiltoniii.com/wp-content/uploads/2021/03/seven-final-words.jpg' alt='Christ's Seven Final Words – John Hilton III'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1316">
+                                <meta itemprop="height" content="1008">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="John Hilton III" />
+                                </span>
+                                <a href='https://johnhiltoniii.com/wp-content/uploads/2021/03/seven-final-words.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What were the seven last words of Jesus Christ on the cross and what do  they mean?">
+                                <img itemprop="contentUrl url" src='https://www.gotquestions.org/img/video-thumbnails/seven-sayings-Christ.jpg' alt='What were the seven last words of Jesus Christ on the cross and what do  they mean?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Got Questions" />
+                                </span>
+                                <a href='https://www.gotquestions.org/img/video-thumbnails/seven-sayings-Christ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Seven Last Sayings of Jesus Christ on the Cross">
+                                <img itemprop="contentUrl url" src='https://www.biblebc.com/ForPreachers/SermonVault/Series/Cross/JesusonCross.jpg' alt='The Seven Last Sayings of Jesus Christ on the Cross'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="806">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.biblebc.com" />
+                                </span>
+                                <a href='https://www.biblebc.com/ForPreachers/SermonVault/Series/Cross/JesusonCross.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seven Last Sayings of Christ - Lighthouse Catholic Media">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/files.lighthousecatholicmedia.org/images/covers/LH14_4.jpg' alt='Seven Last Sayings of Christ - Lighthouse Catholic Media'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lighthouse Catholic Media" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/files.lighthousecatholicmedia.org/images/covers/LH14_4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The 7 Last Words of Christ – Hallow">
+                                <img itemprop="contentUrl url" src='https://hallow.com/wp-content/uploads/2022/01/Pray40-Forgiveness-L-1024x612.png' alt='The 7 Last Words of Christ – Hallow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hallow" />
+                                </span>
+                                <a href='https://hallow.com/wp-content/uploads/2022/01/Pray40-Forgiveness-L-1024x612.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

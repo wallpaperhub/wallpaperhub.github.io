@@ -1,0 +1,129 @@
+<title>Vibrant Orange and Purple Wallpaper Ideas for a Stunning Space</title>
+                    <meta name="description" content="Discover unique orange and purple wallpaper designs that elevate your home decor. Explore vibrant patterns and textures that bring energy and style to any room. Perfect for those seeking to make a bold statement with color while maintaining elegance and charm in their interior spaces.">
+                    <meta name="keywords" content="orange and purple wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/orange-and-purple-wallpaper">
+                            <span itemprop="name">orange and purple wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Orange and Purple Wallpaper Ideas for a Stunning Space</h1>
+                <p>Orange and purple wallpaper is an eye-catching choice that can transform any space into a vibrant, welcoming environment. The warm tones of orange and the calming hues of purple create a striking contrast that energizes a room while maintaining a sense of sophistication. Perfect for modern or eclectic decor, this combination adds personality and flair.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange-Purple Gradient Wallpaper for Apple iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2e/22/6a/2e226a7cc17f1aee7ce28e7702674603.jpg' alt='Orange-Purple Gradient Wallpaper for Apple iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2e/22/6a/2e226a7cc17f1aee7ce28e7702674603.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Orange Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/gradient-dynamic-lines-background_52683-66904.jpg?semt=ais_hybrid' alt='Purple Orange Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/gradient-dynamic-lines-background_52683-66904.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12,300+ Purple And Orange Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1387563170/vector/abstract-warm-purple-pink-orange-blurry-background.jpg?s=612x612&w=0&k=20&c=NRzpDlJTWGTeVopcfgxD3D089mON-P5OFL7Ech6aqHs=' alt='12,300+ Purple And Orange Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1387563170/vector/abstract-warm-purple-pink-orange-blurry-background.jpg?s=612x612&w=0&k=20&c=NRzpDlJTWGTeVopcfgxD3D089mON-P5OFL7Ech6aqHs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="sunset inspired wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f5/2e/c0/f52ec03a978fd8bd37fa4f63799e79e2.jpg' alt='sunset inspired wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1102">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f5/2e/c0/f52ec03a978fd8bd37fa4f63799e79e2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange Purple Background Images, HD Pictures and Wallpaper For ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20210420/pngtree-orange-and-purple-abstract-background-design-for-banner-business-image_632631.jpg' alt='Orange Purple Background Images, HD Pictures and Wallpaper For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="861">
+                                <meta itemprop="height" content="404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20210420/pngtree-orange-and-purple-abstract-background-design-for-banner-business-image_632631.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12,300+ Purple And Orange Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1386828570/vector/abstract-blurred-background-defocused-orange-gradient.jpg?s=612x612&w=0&k=20&c=2WgeImnyunImA0b5yBypihFN0Wz2PA_FXL0HFs5-hKY=' alt='12,300+ Purple And Orange Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="306">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1386828570/vector/abstract-blurred-background-defocused-orange-gradient.jpg?s=612x612&w=0&k=20&c=2WgeImnyunImA0b5yBypihFN0Wz2PA_FXL0HFs5-hKY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract purple and orange color wallpaper - Free Stock Photo by ...">
+                                <img itemprop="contentUrl url" src='https://www.stockvault.net/data/2019/07/04/266644/preview16.jpg' alt='Abstract purple and orange color wallpaper - Free Stock Photo by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="780">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockVault" />
+                                </span>
+                                <a href='https://www.stockvault.net/data/2019/07/04/266644/preview16.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Orange Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/blurred-abstract-background_58702-1515.jpg' alt='Purple Orange Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/blurred-abstract-background_58702-1515.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Orange Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1673624400714-0dbc6ff971f6?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cHVycGxlJTIwb3JhbmdlfGVufDB8fDB8fHww' alt='Purple Orange Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1673624400714-0dbc6ff971f6?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cHVycGxlJTIwb3JhbmdlfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Most Popular Orange And Purple Wallpapers">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/iphone/best-abstract-gradient-color-simple-purple-and-orange-26-09-2024-1727354750-hd-wallpaper.png' alt='Most Popular Orange And Purple Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="3740">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/iphone/best-abstract-gradient-color-simple-purple-and-orange-26-09-2024-1727354750-hd-wallpaper.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

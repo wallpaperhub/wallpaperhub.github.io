@@ -1,0 +1,129 @@
+<title>Elevate Your Design with White Geometric Backgrounds</title>
+                    <meta name="description" content="Discover the elegance of white geometric backgrounds. Ideal for creating a modern, clean look that enhances your designs and captures attention. Perfect for both professional and creative uses, these backgrounds offer a minimalist touch that complements any visual project.">
+                    <meta name="keywords" content="white geometric background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/white-geometric-background">
+                            <span itemprop="name">white geometric background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Design with White Geometric Backgrounds</h1>
+                <p>A white geometric background offers a clean and modern aesthetic, perfect for enhancing visual appeal in designs. Its simplicity serves as a versatile canvas for various content, from business presentations to creative projects. This minimalist backdrop promotes focus while adding a touch of elegance and sophistication to any visual element.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Geometric Shapes Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/white-geometric-shapes-nvtlzwob9kw7mc8t-3.jpg' alt='White Geometric Shapes Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="646">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/white-geometric-shapes-nvtlzwob9kw7mc8t-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Geometric Background Wall Mural">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/236375/White-Geometric-Background-Wallpaper-Mural.jpg?v=638164463711330000' alt='White Geometric Background Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="1932">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/236375/White-Geometric-Background-Wallpaper-Mural.jpg?v=638164463711330000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Geometric Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1454117096348-e4abbeba002c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d2hpdGUlMjBnZW9tZXRyaWN8ZW58MHx8MHx8fDA%3D' alt='White Geometric Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1454117096348-e4abbeba002c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d2hpdGUlMjBnZW9tZXRyaWN8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Geometric Pattern Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/white-background-with-triangle-patterns_1017-18410.jpg' alt='White Geometric Pattern Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/white-background-with-triangle-patterns_1017-18410.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Geometric Background Vectors & Illustrations for Free ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/paper-style-white-monochrome-background_23-2148996464.jpg' alt='White Geometric Background Vectors & Illustrations for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/paper-style-white-monochrome-background_23-2148996464.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract White Geometric Background 3273313 Vector Art at Vecteezy">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/003/273/313/non_2x/abstract-white-geometric-background-free-vector.jpg' alt='Abstract White Geometric Background 3273313 Vector Art at Vecteezy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1531">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/003/273/313/non_2x/abstract-white-geometric-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="white gray geometric wallpaper background Stock Vector | Adobe Stock">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/01/45/11/43/1000_F_145114320_PGWiY4lw26chuxiA8tONSp002EXfGk1W.jpg' alt='white gray geometric wallpaper background Stock Vector | Adobe Stock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/01/45/11/43/1000_F_145114320_PGWiY4lw26chuxiA8tONSp002EXfGk1W.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract blue and white geometric background Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/13/19/abstract-blue-and-white-geometric-background-vector-14421319.jpg' alt='Abstract blue and white geometric background Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/13/19/abstract-blue-and-white-geometric-background-vector-14421319.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Low Poly Geometric Abstract White Background (Abstract) | Textures ...">
+                                <img itemprop="contentUrl url" src='http://www.textures4photoshop.com/tex/thumbs/low-poly-geometric-abstract-white-background-1267.jpg' alt='Low Poly Geometric Abstract White Background (Abstract) | Textures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Textures4Photoshop" />
+                                </span>
+                                <a href='http://www.textures4photoshop.com/tex/thumbs/low-poly-geometric-abstract-white-background-1267.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Geometric Background Vector Art, Icons, and Graphics for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/017/457/733/small/abstract-minimal-white-background-geometric-mosaic-wallpaper-design-vector.jpg' alt='White Geometric Background Vector Art, Icons, and Graphics for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="356">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/017/457/733/small/abstract-minimal-white-background-geometric-mosaic-wallpaper-design-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

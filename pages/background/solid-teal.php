@@ -1,0 +1,129 @@
+<title>Solid Teal: A Timeless Color for Modern Design</title>
+                    <meta name="description" content="Discover the beauty of solid teal, a versatile color perfect for modern design. Whether in interiors or branding, this captivating hue blends tranquility and freshness, elevating your aesthetic. Explore tips and ideas to incorporate solid teal into your next project for a stylish look!">
+                    <meta name="keywords" content="solid teal">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/solid-teal">
+                            <span itemprop="name">solid teal</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Solid Teal: A Timeless Color for Modern Design</h1>
+                <p>Solid teal is a captivating color that combines the tranquility of blue with the freshness of green. It evokes a sense of calm and balance, making it an ideal choice for various design applications. From modern interiors to stylish branding, solid teal offers versatility and a contemporary edge, enhancing any aesthetic with its vibrant hue.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solid Teal">
+                                <img itemprop="contentUrl url" src='https://www.linensbythesea.com/wp-content/uploads/2022/04/Solid20Teal1.jpg' alt='Solid Teal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="883">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Linens By The Sea" />
+                                </span>
+                                <a href='https://www.linensbythesea.com/wp-content/uploads/2022/04/Solid20Teal1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solid Teal Anti-Pill Fleece Fabric By The Yard (Medium Weight)">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/13679384/r/il/757127/1344520184/il_570xN.1344520184_9zlm.jpg' alt='Solid Teal Anti-Pill Fleece Fabric By The Yard (Medium Weight)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/13679384/r/il/757127/1344520184/il_570xN.1344520184_9zlm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Teal Solid Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/12026155/p/f/m/4yG-rWYS7PcwF9j2YxchnRhh8I5G4sJuD4K1Z-qlIkW47LOevMXMmxs/Deepest%20Teal%20Solid.jpg' alt='Teal Solid Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/12026155/p/f/m/4yG-rWYS7PcwF9j2YxchnRhh8I5G4sJuD4K1Z-qlIkW47LOevMXMmxs/Deepest%20Teal%20Solid.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solid Teal Background Royalty-Free Images, Stock Photos & Pictures ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/focus-on-turquoise-wall-260nw-1082262062.jpg' alt='Solid Teal Background Royalty-Free Images, Stock Photos & Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="347">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/focus-on-turquoise-wall-260nw-1082262062.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Teal Solid Color Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/solid-color-cerulean-rgkfqtjxr99c3hsh.webp' alt='Dark Teal Solid Color Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/solid-color-cerulean-rgkfqtjxr99c3hsh.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 3 | Solid Teal Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/design-space-paper-textured-background_53876-41741.jpg' alt='Page 3 | Solid Teal Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/design-space-paper-textured-background_53876-41741.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cropped-2560×1440-teal-blue-solid-color-background.jpg – EZScrpt">
+                                <img itemprop="contentUrl url" src='https://ezscrpt.com/wp-content/uploads/2018/07/cropped-2560x1440-teal-blue-solid-color-background.jpg' alt='cropped-2560×1440-teal-blue-solid-color-background.jpg – EZScrpt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EZScrpt" />
+                                </span>
+                                <a href='https://ezscrpt.com/wp-content/uploads/2018/07/cropped-2560x1440-teal-blue-solid-color-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solid Light Teal Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/15923432/p/f/m/dh-tNCd2nX3TXa4RPjqnfmMfDgbk2PWNOf1mYYaK6Rg-IAFSsMPaTMQ/Solid%20Light%20Teal%20-%20Seafoam%20Teal%20Green.jpg' alt='Solid Light Teal Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/15923432/p/f/m/dh-tNCd2nX3TXa4RPjqnfmMfDgbk2PWNOf1mYYaK6Rg-IAFSsMPaTMQ/Solid%20Light%20Teal%20-%20Seafoam%20Teal%20Green.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Teal | Teal Green | Solid Color | | Photographic Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.428124887.2734/flat,750x,075,f-pad,750x1000,f8f8f8.u1.jpg' alt='Teal | Teal Green | Solid Color | | Photographic Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.428124887.2734/flat,750x,075,f-pad,750x1000,f8f8f8.u1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tilda Solid Soft Teal TIL120003 - 12000311">
+                                <img itemprop="contentUrl url" src='https://media.rainpos.com/2934/til120003_v11.jpg' alt='Tilda Solid Soft Teal TIL120003 - 12000311'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Old South Fabrics" />
+                                </span>
+                                <a href='https://media.rainpos.com/2934/til120003_v11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

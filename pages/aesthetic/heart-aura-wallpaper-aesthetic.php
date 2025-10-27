@@ -1,0 +1,129 @@
+<title>Heart Aura Wallpaper: Aesthetic Vibes for Your Space</title>
+                    <meta name="description" content="Elevate your decor with heart aura wallpaper that captures the essence of love and tranquility. Perfect for a soothing atmosphere, these wallpapers blend style and serenity for every space. Explore vibrant designs that transform your walls into a canvas of positivity. Ideal for any room!">
+                    <meta name="keywords" content="heart aura wallpaper aesthetic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/heart-aura-wallpaper-aesthetic">
+                            <span itemprop="name">heart aura wallpaper aesthetic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Heart Aura Wallpaper: Aesthetic Vibes for Your Space</h1>
+                <p>Transform your space with heart aura wallpaper that reflects love and positivity. Featuring vibrant colors and soft gradients, these wallpapers create an inviting atmosphere. Perfect for bedrooms, studios, or any cozy corner, they enhance your aesthetic while promoting a warm, uplifting vibe. Embrace a new level of ambiance today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soft Red Heart Aura Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/soft-red-heart-aura-aesthetic-zdq2kg545sa7c0br.jpg' alt='Soft Red Heart Aura Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/soft-red-heart-aura-aesthetic-zdq2kg545sa7c0br.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic | Heart wallpaper, Heart iphone wallpaper, Aura colors">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a5/89/0c/a5890caa763f57232af86a50c0349022.jpg' alt='Aesthetic | Heart wallpaper, Heart iphone wallpaper, Aura colors'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a5/89/0c/a5890caa763f57232af86a50c0349022.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HEART AURA WALLPAPERS - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/24073839/r/il/63b657/5296133659/il_fullxfull.5296133659_j065.jpg' alt='HEART AURA WALLPAPERS - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/24073839/r/il/63b657/5296133659/il_fullxfull.5296133659_j065.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Wallpaper Ideas, Preppy Wallpaper, Aesthetic Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.fabmood.com/wp-content/uploads/2023/08/aura-wallpaper-8.jpg' alt='Cute Wallpaper Ideas, Preppy Wallpaper, Aesthetic Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cute Wallpaper Ideas, Preppy Wallpaper, Aesthetic Wallpaper" />
+                                </span>
+                                <a href='https://www.fabmood.com/wp-content/uploads/2023/08/aura-wallpaper-8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aura Heart Wallpapers Vol.2 | for Phone, Tablet, & Desktop">
+                                <img itemprop="contentUrl url" src='http://hausofplanner.com/cdn/shop/files/Artboard6.png?v=1688481216' alt='Aura Heart Wallpapers Vol.2 | for Phone, Tablet, & Desktop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1880">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Haus of Planner" />
+                                </span>
+                                <a href='http://hausofplanner.com/cdn/shop/files/Artboard6.png?v=1688481216' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Aura Wallpaper - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/54/43/09/54430944e785aca2ff3965c4b75f989e.jpg' alt='Pink Aura Wallpaper - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/54/43/09/54430944e785aca2ff3965c4b75f989e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 Aura Wallpapers Capturing the Essence of Energy and Mood ...">
+                                <img itemprop="contentUrl url" src='https://www.fabmood.com/wp-content/uploads/2023/08/aura-wallpaper-6.jpg' alt='15 Aura Wallpapers Capturing the Essence of Energy and Mood ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fab Mood" />
+                                </span>
+                                <a href='https://www.fabmood.com/wp-content/uploads/2023/08/aura-wallpaper-6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soft Red Heart Aura Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/purple-heart-aura-aesthetic-785s0yhfrv76n3i8.webp' alt='Soft Red Heart Aura Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/purple-heart-aura-aesthetic-785s0yhfrv76n3i8.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pink Heart Aura Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/pink-heart-aura-l2h0t4rqtypq1et3.jpg' alt='100+] Pink Heart Aura Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/pink-heart-aura-l2h0t4rqtypq1et3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HEART AURA WALLPAPERS - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/24073839/r/il/760654/5296171801/il_fullxfull.5296171801_e2y3.jpg' alt='HEART AURA WALLPAPERS - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2700">
+                                <meta itemprop="height" content="2025">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/24073839/r/il/760654/5296171801/il_fullxfull.5296171801_e2y3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

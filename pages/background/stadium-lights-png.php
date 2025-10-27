@@ -1,0 +1,129 @@
+<title>High-Quality Stadium Lights PNG for Your Designs</title>
+                    <meta name="description" content="Discover stunning stadium lights PNG images, ideal for enhancing your designs and projects. Perfect for web and mobile use, these high-resolution graphics with transparent backgrounds bring excitement to sports-themed visuals. Elevate your creative works effortlessly!">
+                    <meta name="keywords" content="stadium lights png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/stadium-lights-png">
+                            <span itemprop="name">stadium lights png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>High-Quality Stadium Lights PNG for Your Designs</h1>
+                <p>Stadium lights PNG images are essential for sports event graphics, presentations, and promotional materials. These high-quality, transparent background images can elevate your designs, making them perfect for web and mobile applications. Whether you're creating merchandise or social media posts, crisp stadium lights visuals enhance your project's appeal.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Stadium Lights Effect PNG | Citypng">
+                                <img itemprop="contentUrl url" src='https://www.citypng.com/public/uploads/preview/hd-stadium-lights-effect-png-7017516946226187i9o1yhbx2.png' alt='HD Stadium Lights Effect PNG | Citypng'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CityPNG" />
+                                </span>
+                                <a href='https://www.citypng.com/public/uploads/preview/hd-stadium-lights-effect-png-7017516946226187i9o1yhbx2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stadium Light PNG Transparent Images Free Download | Vector Files ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20230131/ourmid/pngtree-stadium-white-lighting-effects-png-image_6579537.png' alt='Stadium Light PNG Transparent Images Free Download | Vector Files ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20230131/ourmid/pngtree-stadium-white-lighting-effects-png-image_6579537.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stadium Light PNG Images & PSDs for Download | PixelSquid - S11157522D">
+                                <img itemprop="contentUrl url" src='http://atlas-content-cdn.pixelsquid.com/stock-images/stadium-light-lighting-63e6J3D-600.jpg' alt='Stadium Light PNG Images & PSDs for Download | PixelSquid - S11157522D'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PixelSquid" />
+                                </span>
+                                <a href='http://atlas-content-cdn.pixelsquid.com/stock-images/stadium-light-lighting-63e6J3D-600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stadium Lights PNG, Vector, PSD, and Clipart With Transparent ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20230929/ourmid/pngtree-football-stadium-lighting-effects-isolated-background-png-image_10169947.png' alt='Stadium Lights PNG, Vector, PSD, and Clipart With Transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20230929/ourmid/pngtree-football-stadium-lighting-effects-isolated-background-png-image_10169947.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stadium Lights Png Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/bright-realistic-stadium-lights_23-2148384660.jpg?semt=ais_hybrid' alt='Stadium Lights Png Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/bright-realistic-stadium-lights_23-2148384660.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stadium Lights Png Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/realistic-bright-stadium-lights_23-2148373545.jpg?semt=ais_hybrid' alt='Stadium Lights Png Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/realistic-bright-stadium-lights_23-2148373545.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glitter Stadium Lighting Effects, Yellow With White Lighting ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/01/22/d5/0122d519a6dbb150991783f1362eb642.jpg' alt='Glitter Stadium Lighting Effects, Yellow With White Lighting ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/01/22/d5/0122d519a6dbb150991783f1362eb642.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stadium Light png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/219/990/png-clipart-four-blue-spotlight-towers-lighting-soccer-specific-stadium-flash-light-blue-electronics-thumbnail.png' alt='Stadium Light png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="214">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/219/990/png-clipart-four-blue-spotlight-towers-lighting-soccer-specific-stadium-flash-light-blue-electronics-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stadium Lights Images – Browse 452,149 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/32/42/57/360_F_332425711_Nnbl6zsqzgacc2OcRJXZWNqzVVNyDmHQ.jpg' alt='Stadium Lights Images – Browse 452,149 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="542">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/32/42/57/360_F_332425711_Nnbl6zsqzgacc2OcRJXZWNqzVVNyDmHQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stadium Lights PNG Images & PSDs for Download | PixelSquid ...">
+                                <img itemprop="contentUrl url" src='http://atlas-content-cdn.pixelsquid.com/stock-images/stadium-lights-lighting-Q9xDArB-600.jpg' alt='Stadium Lights PNG Images & PSDs for Download | PixelSquid ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PixelSquid" />
+                                </span>
+                                <a href='http://atlas-content-cdn.pixelsquid.com/stock-images/stadium-lights-lighting-Q9xDArB-600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

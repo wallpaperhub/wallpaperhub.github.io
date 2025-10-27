@@ -1,0 +1,129 @@
+<title>Awesome Star Wars Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover amazing Star Wars wallpapers that bring your favorite characters and scenes to life! Perfect for any fan, our collection features high-quality designs optimized for your devices. Enhance your home screen and celebrate the Star Wars universe with just a click!">
+                    <meta name="keywords" content="cool star wars wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star">
+                            <span itemprop="name">Star</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star/cool-star-wars-wallpaper">
+                            <span itemprop="name">cool star wars wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Awesome Star Wars Wallpapers for Your Device</h1>
+                <p>Looking to transform your device with a stunning Star Wars wallpaper? Explore vibrant designs featuring iconic characters and epic battles from the galaxy far, far away. Whether you’re a fan of the Jedi, Sith, or droids, our collection has something for everyone. Download now and showcase your love for Star Wars!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Star Wars Tablet Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/star-wars-tablet-6vtmizi3a7oer3t0.jpg' alt='100+] Star Wars Tablet Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="563">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/star-wars-tablet-6vtmizi3a7oer3t0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I found this super cool Star Wars poster online and set it as my ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/f46xrb44ysn81.jpg' alt='I found this super cool Star Wars poster online and set it as my ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/f46xrb44ysn81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vader With Troopers Star Wars 4k Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/vader-with-troopers-star-wars-4k-iphone-z1eajrnkypagnek2.jpg' alt='Vader With Troopers Star Wars 4k Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/vader-with-troopers-star-wars-4k-iphone-z1eajrnkypagnek2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sith Wallpaper 4K, Star Wars, Lightsaber">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/sith-star-wars-lightsaber-dark-background-750x1334-5554.jpg' alt='Sith Wallpaper 4K, Star Wars, Lightsaber'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/sith-star-wars-lightsaber-dark-background-750x1334-5554.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Wallpapers (148 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/6/0/a/128997-1920x2400-mobile-hd-star-wars-background-image.jpg' alt='Star Wars Wallpapers (148 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/6/0/a/128997-1920x2400-mobile-hd-star-wars-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1000+] Star Wars Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/star-wars-plzcoaffexgf4h81.jpg' alt='1000+] Star Wars Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/star-wars-plzcoaffexgf4h81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cleaned up a few Star Wars posters to make phone wallpapers : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/cleaned-up-a-few-star-wars-posters-to-make-phone-wallpapers-v0-qqoxft3en2p81.png?width=640&crop=smart&auto=webp&s=ec57e23b869a1a05be33549470d094c2f485eacb' alt='Cleaned up a few Star Wars posters to make phone wallpapers : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/cleaned-up-a-few-star-wars-posters-to-make-phone-wallpapers-v0-qqoxft3en2p81.png?width=640&crop=smart&auto=webp&s=ec57e23b869a1a05be33549470d094c2f485eacb' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/36/17/55/361755057e65c538f1f77f21429c9c59.jpg' alt='Star Wars Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/36/17/55/361755057e65c538f1f77f21429c9c59.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Star Wars 4K Wallpapers - Page 2">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/ahsoka-star-wars--12874.jpg' alt='Cool Star Wars 4K Wallpapers - Page 2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/ahsoka-star-wars--12874.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Kylo Ren Woven Self-Adhesive Removable Wallpaper Modern ...">
+                                <img itemprop="contentUrl url" src='http://www.decalz.co/cdn/shop/products/M237_Star_Wars3-EX_grande.jpg?v=1563955295' alt='Star Wars Kylo Ren Woven Self-Adhesive Removable Wallpaper Modern ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Decalz.co" />
+                                </span>
+                                <a href='http://www.decalz.co/cdn/shop/products/M237_Star_Wars3-EX_grande.jpg?v=1563955295' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

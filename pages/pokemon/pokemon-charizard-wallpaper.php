@@ -1,0 +1,129 @@
+<title>Stunning Charizard Wallpapers for Pokémon Fans</title>
+                    <meta name="description" content="Explore a collection of breathtaking Charizard wallpapers for your devices! Perfect for Pokémon enthusiasts, these wallpapers highlight the iconic dragon's fierce charm and fiery spirit. Download now and personalize your screen with a touch of Pokémon magic!">
+                    <meta name="keywords" content="pokemon charizard wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pokemon">
+                            <span itemprop="name">Pokemon</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pokemon/pokemon-charizard-wallpaper">
+                            <span itemprop="name">pokemon charizard wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Charizard Wallpapers for Pokémon Fans</h1>
+                <p>Transform your screen with stunning Pokémon Charizard wallpapers! Featuring vibrant colors and dynamic poses, these wallpapers showcase Charizard in all its fiery glory. Perfect for fans of all ages, you can find various designs that capture the essence of this iconic Pokémon. Download your favorite Charizard wallpaper today and bring a touch of adventure to your device!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokemon Charizard Woven Self-Adhesive Removable Wallpaper Modern Mural M155">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/t-0AAOSwGlFmJm6k/s-l1200.jpg' alt='Pokemon Charizard Woven Self-Adhesive Removable Wallpaper Modern Mural M155'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1134">
+                                <meta itemprop="height" content="794">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/t-0AAOSwGlFmJm6k/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Epic Charizard HD Wallpaper: A Fiery Pokémon Adventure">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/202/thumb-1920-202460.jpg' alt='Epic Charizard HD Wallpaper: A Fiery Pokémon Adventure'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/202/thumb-1920-202460.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charizard Wallpaper - IXpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/71/d8/e4/71d8e49f557169835777f6b98e42d11d.jpg' alt='Charizard Wallpaper - IXpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/71/d8/e4/71d8e49f557169835777f6b98e42d11d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Charizard Pokemon Pictures | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/charizard-pokemon-pictures-1280-x-720-z0uot60vcwes3pvk.jpg' alt='100+] Charizard Pokemon Pictures | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/charizard-pokemon-pictures-1280-x-720-z0uot60vcwes3pvk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mega Charizard X Versus Y !! My wallpaper atm~ Credits to the ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/2sUBP61Vp47tcXFhnP3OVAQ_vz1BzyzQHGK54iqVA9c.jpg?width=1080&crop=smart&auto=webp&s=bdb9915b7ed62962223337e0c9650359354d96b0' alt='Mega Charizard X Versus Y !! My wallpaper atm~ Credits to the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="641">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/2sUBP61Vp47tcXFhnP3OVAQ_vz1BzyzQHGK54iqVA9c.jpg?width=1080&crop=smart&auto=webp&s=bdb9915b7ed62962223337e0c9650359354d96b0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Charizard is the most Epic Pokemon! Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/epic-charizard-0dnvuxpgtpez6apc.jpg' alt='Download Charizard is the most Epic Pokemon! Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/epic-charizard-0dnvuxpgtpez6apc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made animation for Charizard this time. (for wallpaper engine ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/kXpokbJ7wXE/maxresdefault.jpg' alt='I made animation for Charizard this time. (for wallpaper engine ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/kXpokbJ7wXE/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charizard Phone Wallpaper | Pokémon Amino">
+                                <img itemprop="contentUrl url" src='https://pm1.aminoapps.com/6017/54a217ddc9ba5461f3a1c41ff857b6bb1f5605f1_hq.jpg' alt='Charizard Phone Wallpaper | Pokémon Amino'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="575">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amino Apps" />
+                                </span>
+                                <a href='https://pm1.aminoapps.com/6017/54a217ddc9ba5461f3a1c41ff857b6bb1f5605f1_hq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charizard, pokemon, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/946/1022/HD-wallpaper-charizard-pokemon.jpg' alt='Charizard, pokemon, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/946/1022/HD-wallpaper-charizard-pokemon.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Blue Fire - Mega Charizard X (Pokemon)">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/955222491256058353/9FEA80733CA729607CCDAE3BF4148F6A4A5EE5FA/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::Blue Fire - Mega Charizard X (Pokemon)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/955222491256058353/9FEA80733CA729607CCDAE3BF4148F6A4A5EE5FA/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

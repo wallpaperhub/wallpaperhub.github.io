@@ -1,0 +1,129 @@
+<title>Stunning Damascus Design: An Artistic Legacy</title>
+                    <meta name="description" content="Discover the allure of Damascus design, known for its beautiful patterns and rich history. Explore the art of metalworking that creates unique, high-quality pieces perfect for collectors and enthusiasts. Experience the timeless beauty and craftsmanship of these iconic creations.">
+                    <meta name="keywords" content="damascus design">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/damascus-design">
+                            <span itemprop="name">damascus design</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Damascus Design: An Artistic Legacy</h1>
+                <p>Damascus design, with its intricate patterns and striking aesthetics, originates from ancient metalworking techniques. This unique style features wavy patterns and striking color contrasts, resulting in stunning knives and other crafts. Its rich history and craftsmanship make each piece a true work of art, appealing to collectors and enthusiasts alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Damascus Pattern Images – Browse 10,061 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/06/71/42/360_F_406714204_ZRf5ejqMwLYqtCBEHV1B0WPMlJdu0pgP.jpg' alt='Damascus Pattern Images – Browse 10,061 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/06/71/42/360_F_406714204_ZRf5ejqMwLYqtCBEHV1B0WPMlJdu0pgP.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Damascus Pattern Images – Browse 10,061 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/70/78/18/360_F_470781837_uabePPd2gwxzSv7dKhXkbaKWqXKPGy08.jpg' alt='Damascus Pattern Images – Browse 10,061 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1037">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/70/78/18/360_F_470781837_uabePPd2gwxzSv7dKhXkbaKWqXKPGy08.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Are Damascus Patterns Formed | Do They Serve a Purpose ...">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0254/7715/2804/files/Damascus_Steel.jpg?v=1620133183' alt='How Are Damascus Patterns Formed | Do They Serve a Purpose ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2041">
+                                <meta itemprop="height" content="907">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="santokuknives" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0254/7715/2804/files/Damascus_Steel.jpg?v=1620133183' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mosaic Damascus Patterns - How it's Made - Noblie">
+                                <img itemprop="contentUrl url" src='https://nobliecustomknives.com/wp-content/uploads/2022/04/mosaic-damascus-1.jpg' alt='Mosaic Damascus Patterns - How it's Made - Noblie'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Noblie Custom Knives" />
+                                </span>
+                                <a href='https://nobliecustomknives.com/wp-content/uploads/2022/04/mosaic-damascus-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Damascus Patterns - TheCookingGuild">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0265/6554/1972/files/831812_01_P_WE_8_Damasteel_DS93X_Damaszenerstahl_Ladder_WZ_jpg_600x600_b95bb6a0-4e69-4a83-9b61-f30681294f9a_480x480.jpg?v=1698361424' alt='Damascus Patterns - TheCookingGuild'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="259">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Cooking Guild" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0265/6554/1972/files/831812_01_P_WE_8_Damasteel_DS93X_Damaszenerstahl_Ladder_WZ_jpg_600x600_b95bb6a0-4e69-4a83-9b61-f30681294f9a_480x480.jpg?v=1698361424' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Damascus Steel Pattern (2 Pack) SVG and Png(transparent Background ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/23206785/r/il/3b6450/2968777350/il_570xN.2968777350_rtp2.jpg' alt='Damascus Steel Pattern (2 Pack) SVG and Png(transparent Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="321">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/23206785/r/il/3b6450/2968777350/il_570xN.2968777350_rtp2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Damascus Patterns - TheCookingGuild">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0265/6554/1972/files/0_Herringbone-stainless-damascus-steel-knife-diy-steel-knife-making-material-blade-steel-new-pattern-damascus-billet_480x480.jpg?v=1698362180' alt='Damascus Patterns - TheCookingGuild'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Cooking Guild" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0265/6554/1972/files/0_Herringbone-stainless-damascus-steel-knife-diy-steel-knife-making-material-blade-steel-new-pattern-damascus-billet_480x480.jpg?v=1698362180' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Damascus steel - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Watered_pattern_on_sword_blade1.Iran.JPG/800px-Watered_pattern_on_sword_blade1.Iran.JPG' alt='Damascus steel - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Watered_pattern_on_sword_blade1.Iran.JPG/800px-Watered_pattern_on_sword_blade1.Iran.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Types of Damascus Steel | Complete Guide 2024">
+                                <img itemprop="contentUrl url" src='https://nobliecustomknives.com/wp-content/uploads/2023/02/damascus-patterns.jpg' alt='Types of Damascus Steel | Complete Guide 2024'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1127">
+                                <meta itemprop="height" content="491">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Noblie Custom Knives" />
+                                </span>
+                                <a href='https://nobliecustomknives.com/wp-content/uploads/2023/02/damascus-patterns.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Damascus Patterns - TheCookingGuild">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0265/6554/1972/files/2de5f0_50cdf73a62614550a72a2e42ea075550_mv2_copy_480x480.png?v=1698361952' alt='Damascus Patterns - TheCookingGuild'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Cooking Guild" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0265/6554/1972/files/2de5f0_50cdf73a62614550a72a2e42ea075550_mv2_copy_480x480.png?v=1698361952' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

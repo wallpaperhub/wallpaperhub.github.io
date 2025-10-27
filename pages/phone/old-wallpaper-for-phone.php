@@ -1,0 +1,129 @@
+<title>Vintage Phone Wallpapers: Nostalgic Designs for Your Device</title>
+                    <meta name="description" content="Discover the charm of old wallpaper for your phone. Explore a collection of vintage designs that bring a touch of nostalgia and individuality to your device. From retro patterns to muted florals, find the perfect wallpaper that reflects your personal style and love for the classic. Transform your phone today!">
+                    <meta name="keywords" content="old wallpaper for phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/old-wallpaper-for-phone">
+                            <span itemprop="name">old wallpaper for phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vintage Phone Wallpapers: Nostalgic Designs for Your Device</h1>
+                <p>Old wallpaper for phones adds a nostalgic touch, transforming your device into a canvas of memories. Choose from vintage patterns, faded florals, or retro graphics to evoke a sense of warmth and familiarity. Perfect for those who appreciate timeless designs, these wallpapers offer a unique way to express individuality while reminiscing about the past.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Wallpaper Photos, Download The BEST Free Vintage Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/3283098/pexels-photo-3283098.jpeg?cs=srgb&dl=pexels-alex-chistol-1715967-3283098.jpg&fm=jpg' alt='Vintage Wallpaper Photos, Download The BEST Free Vintage Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3712">
+                                <meta itemprop="height" content="5568">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/3283098/pexels-photo-3283098.jpeg?cs=srgb&dl=pexels-alex-chistol-1715967-3283098.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free customizable vintage phone wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFOjz9XxKg/1/0/900w/canva-vintage-background-with-roses-floral-illustration-phone-wallpaper-JJkzkDZlKaY.jpg' alt='Free customizable vintage phone wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFOjz9XxKg/1/0/900w/canva-vintage-background-with-roses-floral-illustration-phone-wallpaper-JJkzkDZlKaY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download "Old" wallpapers for mobile phone, free "Old" HD pictures">
+                                <img itemprop="contentUrl url" src='https://wallpaper.forfun.com/fetch/6e/6ed6ae6140c4169753eb147b9a5069e9.jpeg' alt='Download "Old" wallpapers for mobile phone, free "Old" HD pictures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3975">
+                                <meta itemprop="height" content="5962">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mobile wallpapers - Mob.org" />
+                                </span>
+                                <a href='https://wallpaper.forfun.com/fetch/6e/6ed6ae6140c4169753eb147b9a5069e9.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Free Mobile Phone Wallpaper Old City - 4705 - GSMintro.net">
+                                <img itemprop="contentUrl url" src='https://gsmintro.net/user/images/wallpaper_images/2020/04/20/www.mobilesmspk.net_old-city_4705.jpg' alt='Download Free Mobile Phone Wallpaper Old City - 4705 - GSMintro.net'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="gsmintro" />
+                                </span>
+                                <a href='https://gsmintro.net/user/images/wallpaper_images/2020/04/20/www.mobilesmspk.net_old-city_4705.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cameras of all time, modern, new, old, vintage, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/304/63/HD-wallpaper-cameras-of-all-time-modern-new-old-vintage.jpg' alt='Cameras of all time, modern, new, old, vintage, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/304/63/HD-wallpaper-cameras-of-all-time-modern-new-old-vintage.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I think LG's old phone wallpapers hit it hard : r/FrutigerAero">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/i-think-lgs-old-phone-wallpapers-hit-it-hard-v0-y6v2snaxo0la1.jpg?width=640&crop=smart&auto=webp&s=43ae2be21679ddceb1f6cd8abb6413fe1f72fb77' alt='I think LG's old phone wallpapers hit it hard : r/FrutigerAero'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="568">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/i-think-lgs-old-phone-wallpapers-hit-it-hard-v0-y6v2snaxo0la1.jpg?width=640&crop=smart&auto=webp&s=43ae2be21679ddceb1f6cd8abb6413fe1f72fb77' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download "Vintage" wallpapers for mobile phone, free "Vintage" HD ...">
+                                <img itemprop="contentUrl url" src='https://wallpaper.forfun.com/fetch/b9/b94325dd83723d57395874c27c19784e.jpeg' alt='Download "Vintage" wallpapers for mobile phone, free "Vintage" HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="6016">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mobile wallpapers - Mob.org" />
+                                </span>
+                                <a href='https://wallpaper.forfun.com/fetch/b9/b94325dd83723d57395874c27c19784e.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Image An old-fashioned phone sits atop a chest of drawers ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/vintage-aesthetic-phone-ffe4pkqtjrjo22ug.jpg' alt='Download Image An old-fashioned phone sits atop a chest of drawers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/vintage-aesthetic-phone-ffe4pkqtjrjo22ug.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Vintage Smartphone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/0d/08/b4/0d08b46fe72a474b40d938c18155d72e.jpg' alt='Retro Vintage Smartphone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="568">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/0d/08/b4/0d08b46fe72a474b40d938c18155d72e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD old phone wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/676/42/HD-wallpaper-old-phone-switch-thumbnail.jpg' alt='HD old phone wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/676/42/HD-wallpaper-old-phone-switch-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

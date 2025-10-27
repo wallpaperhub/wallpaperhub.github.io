@@ -1,0 +1,129 @@
+<title>Nirvana In Utero Logo: A Grunge Icon</title>
+                    <meta name="description" content="Discover the striking Nirvana "In Utero" logo, designed by Kurt Cobain. This iconic imagery encapsulates the essence of 90s grunge, reflecting themes of pain and renewal. Explore its impact on music and culture today!">
+                    <meta name="keywords" content="nirvana logo in utero">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/nirvana-logo-in-utero">
+                            <span itemprop="name">nirvana logo in utero</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Nirvana In Utero Logo: A Grunge Icon</h1>
+                <p>Nirvana's "In Utero" album cover features the iconic logo designed by Kurt Cobain, embodying the raw essence of 90s grunge. The minimalist yet powerful imagery accentuates themes of pain and healing, reflecting the band's revolutionary spirit. This logo has become synonymous with alternative culture, leaving an indelible mark on music history.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="In Utero - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/e/e5/In_Utero_%28Nirvana%29_album_cover.jpg' alt='In Utero - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/e/e5/In_Utero_%28Nirvana%29_album_cover.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nirvana - In Utero - Music & Performance - Vinyl">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/cdea37a2-fcd4-4497-9f25-608796044630.338dca4e581eaad97ab43f16f8177eaa.jpeg' alt='Nirvana - In Utero - Music & Performance - Vinyl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1992">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/cdea37a2-fcd4-4497-9f25-608796044630.338dca4e581eaad97ab43f16f8177eaa.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE SAME DAY SHIPPING New Classic NIRVANA IN UTERO Album Shirt LARGE">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/Tw4AAOSwI7Bixa9A/$_57.JPG?set_id=8800005007' alt='FREE SAME DAY SHIPPING New Classic NIRVANA IN UTERO Album Shirt LARGE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/Tw4AAOSwI7Bixa9A/$_57.JPG?set_id=8800005007' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nirvana - In Utero: lyrics and songs | Deezer">
+                                <img itemprop="contentUrl url" src='https://cdn-images.dzcdn.net/images/cover/7b4b3ccd52e58bec9dc0c8ea1973b177/1900x1900-000000-80-0-0.jpg' alt='Nirvana - In Utero: lyrics and songs | Deezer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Deezer" />
+                                </span>
+                                <a href='https://cdn-images.dzcdn.net/images/cover/7b4b3ccd52e58bec9dc0c8ea1973b177/1900x1900-000000-80-0-0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nirvana In Utero Album Cover Logo Sticker/Decal : Amazon.ae ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61JIg+HyHZL._AC_UF1000,1000_QL80_.jpg' alt='Nirvana In Utero Album Cover Logo Sticker/Decal : Amazon.ae ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="896">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.ae" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61JIg+HyHZL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="In Utero 2013 Mix LP">
+                                <img itemprop="contentUrl url" src='https://shop.nirvana.com/cdn/shop/products/Nirvana_In_Utero_2013_Mix_600x.jpg?v=1527377549' alt='In Utero 2013 Mix LP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nirvana Official Store" />
+                                </span>
+                                <a href='https://shop.nirvana.com/cdn/shop/products/Nirvana_In_Utero_2013_Mix_600x.jpg?v=1527377549' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nirvana Png, Nirvana in Utero, Nirvana Angel Png, Nirvana Svg ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/41426071/r/il/c099ba/4834289465/il_fullxfull.4834289465_otng.jpg' alt='Nirvana Png, Nirvana in Utero, Nirvana Angel Png, Nirvana Svg ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/41426071/r/il/c099ba/4834289465/il_fullxfull.4834289465_otng.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Years Ago: Nirvana Shakes Everything Up With 'In Utero'">
+                                <img itemprop="contentUrl url" src='https://townsquare.media/site/295/files/2023/09/attachment-Nirvana-In-Utero-DGC-Image.jpeg' alt='30 Years Ago: Nirvana Shakes Everything Up With 'In Utero''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1599">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ultimate Classic Rock" />
+                                </span>
+                                <a href='https://townsquare.media/site/295/files/2023/09/attachment-Nirvana-In-Utero-DGC-Image.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nirvana: In Utero (20th Anniversary Super Deluxe Edition) Album ...">
+                                <img itemprop="contentUrl url" src='https://media.pitchfork.com/photos/650461be28c040948e4692bb/16:9/w_1280,c_limit/Nirvana-In-Utero.jpg' alt='Nirvana: In Utero (20th Anniversary Super Deluxe Edition) Album ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pitchfork" />
+                                </span>
+                                <a href='https://media.pitchfork.com/photos/650461be28c040948e4692bb/16:9/w_1280,c_limit/Nirvana-In-Utero.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nirvana (US) In Utero - 30th Anniversary Edition - SHM-CD + Poster ...">
+                                <img itemprop="contentUrl url" src='https://uk.rarevinyl.com/cdn/shop/products/nirvana-us-in-utero-30th-anniversary-edition-shm-cd-plus-poster-japanese-shm-cd-album-uicy-16192-3-825077_1024x1024.jpg?v=1709146315' alt='Nirvana (US) In Utero - 30th Anniversary Edition - SHM-CD + Poster ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="925">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rare Vinyl Records at RareVinyl.com" />
+                                </span>
+                                <a href='https://uk.rarevinyl.com/cdn/shop/products/nirvana-us-in-utero-30th-anniversary-edition-shm-cd-plus-poster-japanese-shm-cd-album-uicy-16192-3-825077_1024x1024.jpg?v=1709146315' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

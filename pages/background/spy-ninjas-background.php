@@ -1,0 +1,129 @@
+<title>Uncovering the Spy Ninjas: Heroes Against Project Zorgo</title>
+                    <meta name="description" content="Explore the thrilling world of the Spy Ninjas! This tech-savvy team fights against the notorious Project Zorgo, combining skills in strategy and stealth. Join them on their exciting adventures as they protect the digital landscape and expose secrets. Perfect for young fans of action and intrigue!">
+                    <meta name="keywords" content="spy ninjas background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/spy-ninjas-background">
+                            <span itemprop="name">spy ninjas background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Uncovering the Spy Ninjas: Heroes Against Project Zorgo</h1>
+                <p>Spy Ninjas are a group of young, tech-savvy heroes dedicated to stopping the evil hacker, Project Zorgo. This team combines skills in stealth, strategy, and technology to uncover secrets and protect their online world. Fueled by friendship and courage, they engage in thrilling missions filled with challenges and gadgets.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Surge Signs on to Rep 'Spy Ninjas' | License Global">
+                                <img itemprop="contentUrl url" src='https://eu-images.contentstack.com/v3/assets/blt8770191dea35bccc/blt114442725a7d9d11/64d3895cfc73f1c0b561332b/CWD.png' alt='Surge Signs on to Rep 'Spy Ninjas' | License Global'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="840">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="License Global" />
+                                </span>
+                                <a href='https://eu-images.contentstack.com/v3/assets/blt8770191dea35bccc/blt114442725a7d9d11/64d3895cfc73f1c0b561332b/CWD.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spy Ninjas Live' National Tour comes to San Antonio">
+                                <img itemprop="contentUrl url" src='https://cloudfront-us-east-1.images.arcpublishing.com/gmg/KRFPPG63MFHITNPQIWT5OPTVA4.jpg' alt='Spy Ninjas Live' National Tour comes to San Antonio'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KSAT" />
+                                </span>
+                                <a href='https://cloudfront-us-east-1.images.arcpublishing.com/gmg/KRFPPG63MFHITNPQIWT5OPTVA4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thrilling Spy Ninjas In Action Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/thrilling-spy-ninjas-in-action-km03m9d9igk1jkgk.jpg' alt='Thrilling Spy Ninjas In Action Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/thrilling-spy-ninjas-in-action-km03m9d9igk1jkgk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Spy Ninjas">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=61553794392302' alt='Profile for Spy Ninjas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=61553794392302' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Being a Spy Ninja for 24 Hours!">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/sQEwkFPXv4c/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAPEX-mv83Eqz2ESAQlDxwWoBbbbQ' alt='Being a Spy Ninja for 24 Hours!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/sQEwkFPXv4c/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAPEX-mv83Eqz2ESAQlDxwWoBbbbQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spy Ninjas (TV Mini Series 2018–2024) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BZGE3ZTZhNmYtOGZmYy00NDBkLTgxNzYtYWY2NWI4OGJmOGVlXkEyXkFqcGc@._V1_.jpg' alt='Spy Ninjas (TV Mini Series 2018–2024) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BZGE3ZTZhNmYtOGZmYy00NDBkLTgxNzYtYWY2NWI4OGJmOGVlXkEyXkFqcGc@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spy Ninjas Merchandise | Spy Ninjas Store">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b8/50/5d/b8505d39de6ca37acfaa1bab2da5f578.jpg' alt='Spy Ninjas Merchandise | Spy Ninjas Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b8/50/5d/b8505d39de6ca37acfaa1bab2da5f578.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Spy Ninja Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/spy-ninja-colorful-wordmark-a62nt85dti8w9f57.jpg' alt='100+] Spy Ninja Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1152">
+                                <meta itemprop="height" content="1140">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/spy-ninja-colorful-wordmark-a62nt85dti8w9f57.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Daniel Special Bundle Offer | Spy Ninjas Store">
+                                <img itemprop="contentUrl url" src='https://www.spyninjasstore.com/cdn/shop/products/Pin_1200x_ebe8baee-fef1-4700-a2ef-a84afa5b57fa_1200x.png?v=1641310799' alt='Daniel Special Bundle Offer | Spy Ninjas Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spy Ninjas Store" />
+                                </span>
+                                <a href='https://www.spyninjasstore.com/cdn/shop/products/Pin_1200x_ebe8baee-fef1-4700-a2ef-a84afa5b57fa_1200x.png?v=1641310799' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Spy Ninja Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/minecraft-spy-ninja-poster-wncarbob2jbwlglf.jpg' alt='100+] Spy Ninja Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/minecraft-spy-ninja-poster-wncarbob2jbwlglf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

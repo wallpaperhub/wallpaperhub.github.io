@@ -1,0 +1,129 @@
+<title>Stunning Jesus Aesthetic Background Wallpapers</title>
+                    <meta name="description" content="Explore our collection of Jesus background wallpapers that combine faith and artistry. Perfect for personalizing your device, these aesthetic images inspire and uplift. Find the perfect wallpaper to resonate with your beliefs and enhance your screen's beauty today!">
+                    <meta name="keywords" content="jesus background wallpaper aesthetic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/jesus-background-wallpaper-aesthetic">
+                            <span itemprop="name">jesus background wallpaper aesthetic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Jesus Aesthetic Background Wallpapers</h1>
+                <p>Transform your device's background with stunning Jesus aesthetic wallpapers. These images beautifully capture faith and inspiration, featuring serene landscapes, artistic portrayals of Christ, and vibrant colors. Perfect for expressing your spirituality in a stylish way, these wallpapers uplift your spirit every time you glance at your screen.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jesus wallpaper. Jesus Christ. Jesus aesthetic. Jesus art. Jesus ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b4/fe/17/b4fe1706b8d51268b784e7e8112969f1.jpg' alt='Jesus wallpaper. Jesus Christ. Jesus aesthetic. Jesus art. Jesus ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b4/fe/17/b4fe1706b8d51268b784e7e8112969f1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Jesus Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/aesthetic-jesus-brown-collage-koadg5024b5wuvb6.jpg' alt='Aesthetic Jesus Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/aesthetic-jesus-brown-collage-koadg5024b5wuvb6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Jesus Desktop Wallpaper| Digital Download | MacBook ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/23337639/r/il/2ed278/5061162706/il_fullxfull.5061162706_9787.jpg' alt='Aesthetic Jesus Desktop Wallpaper| Digital Download | MacBook ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/23337639/r/il/2ed278/5061162706/il_fullxfull.5061162706_9787.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wallpaper collage">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/c1/a5/14/c1a514f08888b9ad07b3cb19c099f1b8.jpg' alt='wallpaper collage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/c1/a5/14/c1a514f08888b9ad07b3cb19c099f1b8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Jesus Text Jesus Loves You Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/jesus-christ-the-sacred-aesthetic-7ineqjnj4t1rhlk9.webp' alt='Aesthetic Jesus Text Jesus Loves You Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/jesus-christ-the-sacred-aesthetic-7ineqjnj4t1rhlk9.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Aesthetic Jesus Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-jesus-lnubczswi8q011se.jpg' alt='100+] Aesthetic Jesus Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="950">
+                                <meta itemprop="height" content="1230">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-jesus-lnubczswi8q011se.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Let Christ rule, aesthetic christian, christian, cute christian ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/127/968/HD-wallpaper-let-christ-rule-aesthetic-christian-christian-cute-christian-inspiration-jesus-king-of-kings-luvujesus-you-young-christian-thumbnail.jpg' alt='Let Christ rule, aesthetic christian, christian, cute christian ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/127/968/HD-wallpaper-let-christ-rule-aesthetic-christian-christian-cute-christian-inspiration-jesus-king-of-kings-luvujesus-you-young-christian-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Jesus Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-jesus-love-like-h38gtz1ba0uqqcvc.jpg' alt='100+] Jesus Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-jesus-love-like-h38gtz1ba0uqqcvc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Jesus Desktop Wallpaper| Digital Download | MacBook ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/23337639/r/il/a940ca/5109389707/il_fullxfull.5109389707_h2ma.jpg' alt='Aesthetic Jesus Desktop Wallpaper| Digital Download | MacBook ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/23337639/r/il/a940ca/5109389707/il_fullxfull.5109389707_h2ma.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="aesthetic Depiction Of Jesus" Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/jesus-showing-beauty-and-grace-in-the-everyday-2300v3m1jsb3zsjz.webp' alt='aesthetic Depiction Of Jesus" Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/jesus-showing-beauty-and-grace-in-the-everyday-2300v3m1jsb3zsjz.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Explore the World of Gacha BG: Unleash Your Creativity!</title>
+                    <meta name="description" content="Discover Gacha BG, where captivating backgrounds meet thrilling gacha mechanics. Customize your gaming experience with unique designs and vibrant worlds. Join a community of passionate players and elevate your adventure today!">
+                    <meta name="keywords" content="gacha bg">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/gacha-bg">
+                            <span itemprop="name">gacha bg</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the World of Gacha BG: Unleash Your Creativity!</h1>
+                <p>Gacha BG combines the excitement of gacha mechanics with stunning backdrops that enhance your gaming experience. Players can customize characters and backgrounds, creating a personalized adventure. Dive into vibrant worlds, discover unique designs, and engage with vibrant communities. Discover the beauty of Gacha BG, where every draw is a step into creativity!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="        '             ,                   !">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c9/53/7a/c9537a37a603a1e560212e0bafb0a946.jpg' alt='        '             ,                   !'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="602">
+                                <meta itemprop="height" content="288">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c9/53/7a/c9537a37a603a1e560212e0bafb0a946.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gacha Background Edit 1 by GalaxiaStarfall on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cf90f4bd-7bf2-4862-9c43-c1a8f738985e/dfhvvdz-f5a805fd-804e-4668-894a-1b9239f4f64b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NmOTBmNGJkLTdiZjItNDg2Mi05YzQzLWMxYThmNzM4OTg1ZVwvZGZodnZkei1mNWE4MDVmZC04MDRlLTQ2NjgtODk0YS0xYjkyMzlmNGY2NGIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.4GY9h96XQRK8yQr6x2hIBPaGg-WaX269WHobl960k2c' alt='Gacha Background Edit 1 by GalaxiaStarfall on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2208">
+                                <meta itemprop="height" content="1242">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cf90f4bd-7bf2-4862-9c43-c1a8f738985e/dfhvvdz-f5a805fd-804e-4668-894a-1b9239f4f64b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NmOTBmNGJkLTdiZjItNDg2Mi05YzQzLWMxYThmNzM4OTg1ZVwvZGZodnZkei1mNWE4MDVmZC04MDRlLTQ2NjgtODk0YS0xYjkyMzlmNGY2NGIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.4GY9h96XQRK8yQr6x2hIBPaGg-WaX269WHobl960k2c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c6/c7/6b/c6c76bd586aa78201a9c9400c3852c35.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="464">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c6/c7/6b/c6c76bd586aa78201a9c9400c3852c35.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/13/23/82/1323829f2c199eaa67803b0ced3271c8.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="734">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/13/23/82/1323829f2c199eaa67803b0ced3271c8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gacha Life Park Background by Chiquiyo on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7c7e4695-1d47-41ba-93ae-954c64731855/de0hek7-4bae398a-a91b-4275-a02e-b13ae7891589.jpg/v1/fill/w_1600,h_1000,q_75,strp/gacha_life_park_background_by_chiquiyo_de0hek7-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAwMCIsInBhdGgiOiJcL2ZcLzdjN2U0Njk1LTFkNDctNDFiYS05M2FlLTk1NGM2NDczMTg1NVwvZGUwaGVrNy00YmFlMzk4YS1hOTFiLTQyNzUtYTAyZS1iMTNhZTc4OTE1ODkuanBnIiwid2lkdGgiOiI8PTE2MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.X8p_bDeaQP5t2shwauV21LtFyFCJjcP41gKwogfmR6U' alt='Gacha Life Park Background by Chiquiyo on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7c7e4695-1d47-41ba-93ae-954c64731855/de0hek7-4bae398a-a91b-4275-a02e-b13ae7891589.jpg/v1/fill/w_1600,h_1000,q_75,strp/gacha_life_park_background_by_chiquiyo_de0hek7-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAwMCIsInBhdGgiOiJcL2ZcLzdjN2U0Njk1LTFkNDctNDFiYS05M2FlLTk1NGM2NDczMTg1NVwvZGUwaGVrNy00YmFlMzk4YS1hOTFiLTQyNzUtYTAyZS1iMTNhZTc4OTE1ODkuanBnIiwid2lkdGgiOiI8PTE2MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.X8p_bDeaQP5t2shwauV21LtFyFCJjcP41gKwogfmR6U' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b5/1d/26/b51d26cb2b45e29f6c8a984bdcba2a23.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b5/1d/26/b51d26cb2b45e29f6c8a984bdcba2a23.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gacha Background Room Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/empty-room-with-door-windows-night_107791-25779.jpg' alt='Gacha Background Room Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="271">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/empty-room-with-door-windows-night_107791-25779.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0b/ce/8b/0bce8bc21da6d6b8c73f39036409cc45.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0b/ce/8b/0bce8bc21da6d6b8c73f39036409cc45.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some of Gacha+'s updated backgrounds : r/GachaClub">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/some-of-gacha-s-updated-backgrounds-v0-sziu0jxodlha1.png?width=1080&crop=smart&auto=webp&s=082b79aafd62e909cf90bd6d678922790143ed7a' alt='Some of Gacha+'s updated backgrounds : r/GachaClub'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1007">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/some-of-gacha-s-updated-backgrounds-v0-sziu0jxodlha1.png?width=1080&crop=smart&auto=webp&s=082b79aafd62e909cf90bd6d678922790143ed7a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="some gacha background edits i made! : r/GachaClub">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/some-gacha-background-edits-i-made-v0-ulywl50ir4pb1.jpg?width=2360&format=pjpg&auto=webp&s=b1e1a266bad775735bb782eaa89c9c05c86d4974' alt='some gacha background edits i made! : r/GachaClub'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2360">
+                                <meta itemprop="height" content="1640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/some-gacha-background-edits-i-made-v0-ulywl50ir4pb1.jpg?width=2360&format=pjpg&auto=webp&s=b1e1a266bad775735bb782eaa89c9c05c86d4974' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

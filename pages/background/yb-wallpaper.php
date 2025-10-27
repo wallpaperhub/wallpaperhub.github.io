@@ -1,0 +1,129 @@
+<title>Stunning YB Wallpapers to Transform Your Space</title>
+                    <meta name="description" content="Explore our captivating YB wallpapers that enhance any room. With diverse designs to suit every taste, find the perfect wallpaper for your home or office. Elevate your interiors with vibrant colors and unique patterns that reflect your personality!">
+                    <meta name="keywords" content="yb wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/yb-wallpaper">
+                            <span itemprop="name">yb wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning YB Wallpapers to Transform Your Space</h1>
+                <p>Transform your space with stunning YB wallpapers. Whether you're looking for vibrant patterns or calming textures, YB offers a wide array of designs to fit any style. Perfect for home or office, these wallpapers add a touch of personality and creativity to your walls, making every room feel unique and inviting.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="yb wallpaper hd">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/af/d2/11/afd2110e9c053901bbb6988d4c0eab1a.jpg' alt='yb wallpaper hd'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="734">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/af/d2/11/afd2110e9c053901bbb6988d4c0eab1a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NBA YoungBoy wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/4e/b7/f6/4eb7f64265a84ff50b78639da657a96d.jpg' alt='NBA YoungBoy wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="306">
+                                <meta itemprop="height" content="546">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/4e/b7/f6/4eb7f64265a84ff50b78639da657a96d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NBA YoungBoy Wallpaper iPhone Galaxy - Cartoon, Aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/74/d8/ed/74d8ed426cc2a2565e8d4d2e467955f4.jpg' alt='NBA YoungBoy Wallpaper iPhone Galaxy - Cartoon, Aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/74/d8/ed/74d8ed426cc2a2565e8d4d2e467955f4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NBA YoungBoy Wallpaper iPhone Galaxy - Cartoon, Aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/7a/86/13/7a8613691a10af285ac8ceac6f21cd22.jpg' alt='NBA YoungBoy Wallpaper iPhone Galaxy - Cartoon, Aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/7a/86/13/7a8613691a10af285ac8ceac6f21cd22.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Sade Viney on my stuff | Hood wallpapers, Cute rappers ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/75/96/73/759673373ad9daf0fabbcd2fbd41108b.jpg' alt='Pin by Sade Viney on my stuff | Hood wallpapers, Cute rappers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/75/96/73/759673373ad9daf0fabbcd2fbd41108b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin on 4K Wallpapers & Backgrounds">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/48/22/7a/48227a925e82750aa8ad9fcb54a41e33.jpg' alt='Pin on 4K Wallpapers & Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/48/22/7a/48227a925e82750aa8ad9fcb54a41e33.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="YB">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/56/70/77/567077ae418420efce1d213c1ee9cfbb.jpg' alt='YB'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="569">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/56/70/77/567077ae418420efce1d213c1ee9cfbb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NBA YoungBoy wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/6e/22/d6/6e22d6e6f83b82f99d45829f5981fad9.jpg' alt='NBA YoungBoy wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/6e/22/d6/6e22d6e6f83b82f99d45829f5981fad9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NBA Youngboy Wallpaper Desktop 4K">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/chromebook-wallpapers/images/960/nba-youngboy-chromebook-wallpaper.jpg' alt='NBA Youngboy Wallpaper Desktop 4K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/chromebook-wallpapers/images/960/nba-youngboy-chromebook-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nba youngboy wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/93/e9/62/93e96259496990f17fc3fcd41b6d14d4.jpg' alt='Nba youngboy wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="361">
+                                <meta itemprop="height" content="730">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/93/e9/62/93e96259496990f17fc3fcd41b6d14d4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

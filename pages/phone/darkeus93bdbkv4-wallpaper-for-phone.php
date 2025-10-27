@@ -1,0 +1,129 @@
+<title>Stunning Dark Wallpapers for Phone: Aesthetic Designs</title>
+                    <meta name="description" content="Explore a collection of stunning dark wallpapers for your phone. Perfect for those who appreciate moodiness and elegance, these unique designs will transform your device's look. Download now and give your phone a stylish new vibe!">
+                    <meta name="keywords" content="dark:eus93bdbkv4= wallpaper for phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/darkeus93bdbkv4-wallpaper-for-phone">
+                            <span itemprop="name">dark:eus93bdbkv4= wallpaper for phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Dark Wallpapers for Phone: Aesthetic Designs</h1>
+                <p>Discover the best dark: eus93bdbkv4= wallpapers for your phone to elevate your aesthetic with striking visuals. Our carefully curated selection features deep tones and intricate designs, perfect for anyone seeking a unique touch. Transform your device's look with these captivating backgrounds!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Wallpaper | Free Beautiful HD iPhone, Samsung & Mobile Phone ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTEwL3Jhd3BpeGVsb2ZmaWNlNl9zaW1wbGVfbWluaW1hbGlzdF9waG90b19vZl9za3lfaW5fYmxhY2tfY29sb3JfZF82M2M4NmQ1NC05NTI5LTRmNmMtYmFiZS03OWU4ZjNkOGUwMmFfMS5qcGc.jpg' alt='Dark Wallpaper | Free Beautiful HD iPhone, Samsung & Mobile Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTEwL3Jhd3BpeGVsb2ZmaWNlNl9zaW1wbGVfbWluaW1hbGlzdF9waG90b19vZl9za3lfaW5fYmxhY2tfY29sb3JfZF82M2M4NmQ1NC05NTI5LTRmNmMtYmFiZS03OWU4ZjNkOGUwMmFfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Wallpaper | Free Beautiful HD iPhone, Samsung & Mobile Phone ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTExL3Jhd3BpeGVsb2ZmaWNlMTBfZGVlcF9waW5lX2ZvcmVzdF9iYWNrZ3JvdW5kX19oaW50X29mX3ByZWNpc2lvbl9hMTRmMjkzNy1mZDM2LTQyMzQtYmI5MS1kMjMyZmQ5Njk3OTFfMS5qcGc.jpg' alt='Dark Wallpaper | Free Beautiful HD iPhone, Samsung & Mobile Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTExL3Jhd3BpeGVsb2ZmaWNlMTBfZGVlcF9waW5lX2ZvcmVzdF9iYWNrZ3JvdW5kX19oaW50X29mX3ByZWNpc2lvbl9hMTRmMjkzNy1mZDM2LTQyMzQtYmI5MS1kMjMyZmQ5Njk3OTFfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Wallpaper Dark | Free Aesthetic HD & 4K Mobile Phone Images ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9zdGF0aWMvZmlsZXMvd2Vic2l0ZS8yMDIyLTEwL3JtNTk3ZGVzaWduLW1vYmlsZS1iLTAwNS5qcGc.jpg' alt='Iphone Wallpaper Dark | Free Aesthetic HD & 4K Mobile Phone Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9zdGF0aWMvZmlsZXMvd2Vic2l0ZS8yMDIyLTEwL3JtNTk3ZGVzaWduLW1vYmlsZS1iLTAwNS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60,000+ Best Dark Wallpapers · 100% Free Download · Pexels · Free ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/2098427/pexels-photo-2098427.jpeg?cs=srgb&dl=pexels-eberhardgross-2098427.jpg&fm=jpg' alt='60,000+ Best Dark Wallpapers · 100% Free Download · Pexels · Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2666">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/2098427/pexels-photo-2098427.jpeg?cs=srgb&dl=pexels-eberhardgross-2098427.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Wallpaper | Free Beautiful HD iPhone, Samsung & Mobile Phone ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTEyL3Jhd3BpeGVsb2ZmaWNlM19hYnN0cmFjdF9nZW9tZXRyaWNfZmx1aWRfYmxhY2tfY29sb3JfZ3JhZGllbnRfYl9mNWYxMTRjMC01MTVlLTRkZTctYjAxMi05ZDFkODljYzEyODBfMS5qcGc.jpg' alt='Dark Wallpaper | Free Beautiful HD iPhone, Samsung & Mobile Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTEyL3Jhd3BpeGVsb2ZmaWNlM19hYnN0cmFjdF9nZW9tZXRyaWNfZmx1aWRfYmxhY2tfY29sb3JfZ3JhZGllbnRfYl9mNWYxMTRjMC01MTVlLTRkZTctYjAxMi05ZDFkODljYzEyODBfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Wallpapers (58 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/5/1/e/2117842-1920x3415-iphone-hd-dark-wallpaper-photo.jpg' alt='Dark Wallpapers (58 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="3415">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/5/1/e/2117842-1920x3415-iphone-hd-dark-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Phone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp4792744.jpg' alt='Dark Phone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="2428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp4792744.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Wallpaper Dark | Free Aesthetic HD & 4K Mobile Phone Images ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNTk3ZGVzaWduLWEtMDA4LmpwZw.jpg' alt='Iphone Wallpaper Dark | Free Aesthetic HD & 4K Mobile Phone Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNTk3ZGVzaWduLWEtMDA4LmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60,000+ Best Dark Wallpapers · 100% Free Download · Pexels · Free ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/2823459/pexels-photo-2823459.jpeg?cs=srgb&dl=pexels-adrien-olichon-1257089-2823459.jpg&fm=jpg' alt='60,000+ Best Dark Wallpapers · 100% Free Download · Pexels · Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="6000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/2823459/pexels-photo-2823459.jpeg?cs=srgb&dl=pexels-adrien-olichon-1257089-2823459.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Wallpaper | Free Beautiful HD iPhone, Samsung & Mobile Phone ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAzL3Jhd3BpeGVsX29mZmljZV81MV9waG90b19vZl9ibGFja19kYXJrX3NreV9iYWNrZ3JvdW5kX3NwYXJrbGVfbV9kOTdlMDhkOC03YzJlLTQzMDQtYTEzMi0xNjk5Mjg2NDRlMjRfMS5qcGc.jpg' alt='Dark Wallpaper | Free Beautiful HD iPhone, Samsung & Mobile Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAzL3Jhd3BpeGVsX29mZmljZV81MV9waG90b19vZl9ibGFja19kYXJrX3NreV9iYWNrZ3JvdW5kX3NwYXJrbGVfbV9kOTdlMDhkOC03YzJlLTQzMDQtYTEzMi0xNjk5Mjg2NDRlMjRfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

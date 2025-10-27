@@ -1,0 +1,129 @@
+<title>Stunning HD Lock Screen Wallpapers for Your Mobile</title>
+                    <meta name="description" content="Add a touch of elegance to your mobile device with our high-definition lock screen wallpapers. Explore a variety of beautiful images that are perfect for personalizing your phone. Download now and enjoy a fresh, vibrant look every time you unlock your screen!">
+                    <meta name="keywords" content="lock screen mobile beautiful wallpaper hd">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock">
+                            <span itemprop="name">Lock</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock/lock-screen-mobile-beautiful-wallpaper-hd">
+                            <span itemprop="name">lock screen mobile beautiful wallpaper hd</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning HD Lock Screen Wallpapers for Your Mobile</h1>
+                <p>Discover stunning HD lock screen wallpapers that will transform your mobile experience! Our collection features beautiful landscapes, artistic designs, and vibrant colors, ensuring your device looks unique and stylish. Upgrade your lock screen with captivating visuals that inspire and enhance your mood every time you check your phone.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="86 Best Lock screens ideas | nature wallpaper, nature photography ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/e2/3c/13/e23c13d3a6b7833aff1e3502dfddc6c5.jpg' alt='86 Best Lock screens ideas | nature wallpaper, nature photography ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="393">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/e2/3c/13/e23c13d3a6b7833aff1e3502dfddc6c5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lock Screen Wallpapers (39 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/5/6/d/5817461-1080x1920-phone-hd-lock-screen-background-image.jpg' alt='Lock Screen Wallpapers (39 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/5/6/d/5817461-1080x1920-phone-hd-lock-screen-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bright Love, beautiful, lock screen, night, well, valentine ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/99/590/HD-wallpaper-bright-love-beautiful-lock-screen-night-well-valentine-christmas-holiday.jpg' alt='Bright Love, beautiful, lock screen, night, well, valentine ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/99/590/HD-wallpaper-bright-love-beautiful-lock-screen-night-well-valentine-christmas-holiday.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="lock screen wallpaper changes after restart">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/bc/2e/31/bc2e3139af464ce0d90e0dfcd7f7232b.jpg' alt='lock screen wallpaper changes after restart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="889">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/bc/2e/31/bc2e3139af464ce0d90e0dfcd7f7232b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful screen 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/12/db/7f/12db7f75a6421d93c7068ba214975289.jpg' alt='Beautiful screen 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="669">
+                                <meta itemprop="height" content="1164">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/12/db/7f/12db7f75a6421d93c7068ba214975289.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purity, abstract, butterflies, butterfly, corazones, lock, purple ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/981/141/HD-wallpaper-purity-abstract-butterflies-butterfly-hearts-lock-purple-screen-screens.jpg' alt='Purity, abstract, butterflies, butterfly, corazones, lock, purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/981/141/HD-wallpaper-purity-abstract-butterflies-butterfly-hearts-lock-purple-screen-screens.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lock Screen Background HD Wallpaper - 071">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/93/61/5a/93615a62a90a37f3e124b5322bb0a3d5.jpg' alt='Lock Screen Background HD Wallpaper - 071'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/93/61/5a/93615a62a90a37f3e124b5322bb0a3d5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers for iphone is the best high definition phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/wallpapers-iphone-is-best-high-definition-phone-wallpaper-you-can-make-this-wallpaper-your-iphone-x-backgrounds-mobile-screensaver-ipad-lock-screen-wallpaper-mobile_900775-2578.jpg?w=360' alt='Wallpapers for iphone is the best high definition phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="642">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/wallpapers-iphone-is-best-high-definition-phone-wallpaper-you-can-make-this-wallpaper-your-iphone-x-backgrounds-mobile-screensaver-ipad-lock-screen-wallpaper-mobile_900775-2578.jpg?w=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Lock Screen Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/lock-screen-blue-curved-light-2t1yrzz41aac9g1e.jpg' alt='Download Lock Screen Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/lock-screen-blue-curved-light-2t1yrzz41aac9g1e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Snowflakes, beauty, gold, lock screen, snow, winter, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/516/824/HD-wallpaper-snowflakes-beauty-gold-lock-screen-snow-winter.jpg' alt='Snowflakes, beauty, gold, lock screen, snow, winter, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/516/824/HD-wallpaper-snowflakes-beauty-gold-lock-screen-snow-winter.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

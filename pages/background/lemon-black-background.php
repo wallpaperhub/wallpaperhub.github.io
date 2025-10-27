@@ -1,0 +1,129 @@
+<title>Bright Lemon on Dark Canvas: A Visual Delight</title>
+                    <meta name="description" content="Discover the captivating beauty of a lemon against a black background. This striking contrast emphasizes freshness and vitality, perfect for design projects or food photography. Explore how this bold pairing can invigorate your aesthetic and inspire creativity!">
+                    <meta name="keywords" content="lemon black background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lemon-black-background">
+                            <span itemprop="name">lemon black background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Bright Lemon on Dark Canvas: A Visual Delight</h1>
+                <p>A lemon on a black background creates a striking visual contrast, highlighting the vibrant yellow of the fruit against the deep, dark hue. This bold combination can symbolize freshness, zest, and vitality, making it perfect for various design projects. Whether for food photography or modern art, the lemon pops against the backdrop.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9,100+ Lemon On Black Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1215381146/photo/ripe-lemons-on-a-black-background-tropical-fruits-close-up.jpg?s=612x612&w=0&k=20&c=Eu8k3U4hwV5D0zXr2BdFJR-yRDPrLA2AxIMYoy7DXzU=' alt='9,100+ Lemon On Black Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1215381146/photo/ripe-lemons-on-a-black-background-tropical-fruits-close-up.jpg?s=612x612&w=0&k=20&c=Eu8k3U4hwV5D0zXr2BdFJR-yRDPrLA2AxIMYoy7DXzU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9,100+ Lemon On Black Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1215219175/photo/slice-of-ripe-lemon-isolated-on-a-black-background-view-from-above.jpg?s=612x612&w=0&k=20&c=05AQzvGCYlLekZKb4yCuUv_k3QwV5P9gureWEpT6pZo=' alt='9,100+ Lemon On Black Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1215219175/photo/slice-of-ripe-lemon-isolated-on-a-black-background-view-from-above.jpg?s=612x612&w=0&k=20&c=05AQzvGCYlLekZKb4yCuUv_k3QwV5P9gureWEpT6pZo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo of a lemon in black background | Premium AI-generated image">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/photo-lemon-black-background_951562-938.jpg?w=360' alt='Photo of a lemon in black background | Premium AI-generated image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/photo-lemon-black-background_951562-938.jpg?w=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lemon on black background">
+                                <img itemprop="contentUrl url" src='https://images.joseartgallery.com/9458/conversions/still-life-photography-lemon-on-black-background-thumb1920.jpg' alt='Lemon on black background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jose Art Gallery" />
+                                </span>
+                                <a href='https://images.joseartgallery.com/9458/conversions/still-life-photography-lemon-on-black-background-thumb1920.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="One slice of half a lemon on a black background Stock Photo - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/PD5T20/one-slice-of-half-a-lemon-on-a-black-background-PD5T20.jpg' alt='One slice of half a lemon on a black background Stock Photo - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="953">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/PD5T20/one-slice-of-half-a-lemon-on-a-black-background-PD5T20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Citrus fruit yellow lemon with green leaves on ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/citrus-fruit-yellow-lemon-with-green-leaves-black-background_810125-4.jpg' alt='Premium Photo | Citrus fruit yellow lemon with green leaves on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="470">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/citrus-fruit-yellow-lemon-with-green-leaves-black-background_810125-4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lemon Black Background Healthy - Free photo on Pixabay">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2020/03/21/18/11/lemon-4954844_960_720.jpg' alt='Lemon Black Background Healthy - Free photo on Pixabay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="587">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2020/03/21/18/11/lemon-4954844_960_720.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="28,768 Lemon Water Black Background Stock Photos - Free & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/z/fresh-yellow-lemon-halves-water-splash-black-background-lots-air-bubbles-refreshment-concept-fruit-falling-food-159460555.jpg' alt='28,768 Lemon Water Black Background Stock Photos - Free & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/z/fresh-yellow-lemon-halves-water-splash-black-background-lots-air-bubbles-refreshment-concept-fruit-falling-food-159460555.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9,100+ Lemon On Black Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/618749160/photo/lemon-splashing.jpg?s=612x612&w=0&k=20&c=eWN9bLnZausjm4xG_AUQEAGBvMG9RX_Bp_udSE9NSUk=' alt='9,100+ Lemon On Black Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/618749160/photo/lemon-splashing.jpg?s=612x612&w=0&k=20&c=eWN9bLnZausjm4xG_AUQEAGBvMG9RX_Bp_udSE9NSUk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="357,169 Lemon Black Background Images, Stock Photos, and Vectors ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/yellow-lemon-cut-half-on-260nw-2291068171.jpg' alt='357,169 Lemon Black Background Images, Stock Photos, and Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/yellow-lemon-cut-half-on-260nw-2291068171.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

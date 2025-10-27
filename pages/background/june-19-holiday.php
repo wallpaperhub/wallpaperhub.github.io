@@ -1,0 +1,129 @@
+<title>June 19 Holiday: Celebrate Freedom and Unity</title>
+                    <meta name="description" content="Discover the significance of June 19, a holiday marking freedom and unity. Learn about Juneteenth and other celebrations with parades, cultural events, and educational activities that honor the end of slavery and promote awareness of history. Join in the commemoration!">
+                    <meta name="keywords" content="june 19 holiday">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/june-19-holiday">
+                            <span itemprop="name">june 19 holiday</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>June 19 Holiday: Celebrate Freedom and Unity</h1>
+                <p>June 19 is observed as a significant holiday in various parts of the world, marking events like Juneteenth in the United States, which commemorates the end of slavery. Celebrations often include parades, cultural events, and educational activities to reflect on history and promote unity and freedom.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celebrate Juneteenth">
+                                <img itemprop="contentUrl url" src='https://www.nysut.org/-/media/images/nysut/news/2020/june/news_200619_juneteenth_02.jpg' alt='Celebrate Juneteenth'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1201">
+                                <meta itemprop="height" content="718">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NYSUT" />
+                                </span>
+                                <a href='https://www.nysut.org/-/media/images/nysut/news/2020/june/news_200619_juneteenth_02.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is June 19th or “Juneteenth” and why is it so important ...">
+                                <img itemprop="contentUrl url" src='https://www.sophe.org/wp-content/uploads/2022/06/Juneteenth-720x330-1.jpg' alt='What is June 19th or “Juneteenth” and why is it so important ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="330">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Society for Public Health Education" />
+                                </span>
+                                <a href='https://www.sophe.org/wp-content/uploads/2022/06/Juneteenth-720x330-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="After 156 Years, Juneteenth is a National Holiday">
+                                <img itemprop="contentUrl url" src='https://www.senatorhughes.com/wp-content/uploads/2021/06/Juneteenth_22.jpg' alt='After 156 Years, Juneteenth is a National Holiday'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="746">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Senator Vincent Hughes" />
+                                </span>
+                                <a href='https://www.senatorhughes.com/wp-content/uploads/2021/06/Juneteenth_22.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What To Know About Juneteenth, According To This History Expert ...">
+                                <img itemprop="contentUrl url" src='https://www.montclair.edu/responsive-media/cache/newscenter/wp-content/uploads/sites/15/2023/06/GettyImages-1398177893-1.jpg.1.2x.generic.jpg' alt='What To Know About Juneteenth, According To This History Expert ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="466">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Montclair State University" />
+                                </span>
+                                <a href='https://www.montclair.edu/responsive-media/cache/newscenter/wp-content/uploads/sites/15/2023/06/GettyImages-1398177893-1.jpg.1.2x.generic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is Juneteenth? 5 Things To Know About The Holiday | Across ...">
+                                <img itemprop="contentUrl url" src='https://patch.com/img/cdn20/users/23306266/20200615/053459/styles/patch_image/public/juneteenth-june-19___15173154865.jpg' alt='What Is Juneteenth? 5 Things To Know About The Holiday | Across ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Patch" />
+                                </span>
+                                <a href='https://patch.com/img/cdn20/users/23306266/20200615/053459/styles/patch_image/public/juneteenth-june-19___15173154865.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Juneteenth 2022: The History of the Holiday and How to Celebrate ...">
+                                <img itemprop="contentUrl url" src='https://www.cnet.com/a/img/resize/2b064eb1b60574b48c0d0fd2e50737ed2d3b0d2d/hub/2020/06/16/bb86bb2d-a3a2-4b8d-98d0-d86b60b307c2/istock-1154863357.jpg?auto=webp&fit=crop&height=1200&precrop=1985,1341,x0,y0&width=1200' alt='Juneteenth 2022: The History of the Holiday and How to Celebrate ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNET" />
+                                </span>
+                                <a href='https://www.cnet.com/a/img/resize/2b064eb1b60574b48c0d0fd2e50737ed2d3b0d2d/hub/2020/06/16/bb86bb2d-a3a2-4b8d-98d0-d86b60b307c2/istock-1154863357.jpg?auto=webp&fit=crop&height=1200&precrop=1985,1341,x0,y0&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 facts about Juneteenth, and where to celebrate | News expand">
+                                <img itemprop="contentUrl url" src='https://resources.finalsite.net/images/t_image_size_4/v1686745755/danvilleschoolsnet/rpg9vqxnjoqcwvzf7e2o/Juneteenthnewsletterheader1.png' alt='5 facts about Juneteenth, and where to celebrate | News expand'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Danville Independent Schools" />
+                                </span>
+                                <a href='https://resources.finalsite.net/images/t_image_size_4/v1686745755/danvilleschoolsnet/rpg9vqxnjoqcwvzf7e2o/Juneteenthnewsletterheader1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A New Federal Holiday. What Now? - TCA">
+                                <img itemprop="contentUrl url" src='https://www.tcaregs.com/wp-content/uploads/juneteenth.jpg' alt='A New Federal Holiday. What Now? - TCA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1254">
+                                <meta itemprop="height" content="836">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TCA Compliance" />
+                                </span>
+                                <a href='https://www.tcaregs.com/wp-content/uploads/juneteenth.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Holidays | Teacher Lesley">
+                                <img itemprop="contentUrl url" src='https://teacherlesley.com/wp-content/uploads/2020/06/shutterstock_659487034.jpg' alt='Happy Holidays | Teacher Lesley'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="597">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Teacher Lesley" />
+                                </span>
+                                <a href='https://teacherlesley.com/wp-content/uploads/2020/06/shutterstock_659487034.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Juneteenth: A Worthy Holiday, but the Wrong Date and Name – Loath ...">
+                                <img itemprop="contentUrl url" src='https://www.mrlincoln.com/blog/wp-content/uploads/2021/06/BlogLink_2021-06-19.jpg' alt='Juneteenth: A Worthy Holiday, but the Wrong Date and Name – Loath ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="542">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abraham Lincoln by Kevin Wood" />
+                                </span>
+                                <a href='https://www.mrlincoln.com/blog/wp-content/uploads/2021/06/BlogLink_2021-06-19.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>The Risks of Lying About Employment Dates</title>
+                    <meta name="description" content="Discover the dangers of misrepresenting your employment dates. Learn why honesty is crucial during job applications and background checks to protect your career and reputation.">
+                    <meta name="keywords" content="lied about employment dates background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lied-about-employment-dates-background-check">
+                            <span itemprop="name">lied about employment dates background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>The Risks of Lying About Employment Dates</h1>
+                <p>Lying about employment dates on your resume can lead to serious consequences during background checks. Employers often verify information, and discrepancies can damage your reputation, lead to job loss, or even legal issues. It's essential to be honest and transparent about your work history to maintain trust and integrity in your career.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Truth About Employment Verification Checks: Job Search Tips">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7371928767943527723&location=0&aid=1988' alt='The Truth About Employment Verification Checks: Job Search Tips'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7371928767943527723&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Infographic: Stop Lying On Your Resume - Sterling">
+                                <img itemprop="contentUrl url" src='https://www.sterlingcheck.com/wp-content/uploads/2017/08/infographic-not-lying-on-resume.gif' alt='Infographic: Stop Lying On Your Resume - Sterling'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="595">
+                                <meta itemprop="height" content="2224">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sterling" />
+                                </span>
+                                <a href='https://www.sterlingcheck.com/wp-content/uploads/2017/08/infographic-not-lying-on-resume.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Impact of Lying on Your Resume: Background Check Insights">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7323327807457594666&location=0&aid=1988' alt='Impact of Lying on Your Resume: Background Check Insights'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7323327807457594666&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I lied extremely hard on my resume : r/resumes">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/mb3q5jus5f4b1.jpeg' alt='I lied extremely hard on my resume : r/resumes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1290">
+                                <meta itemprop="height" content="1223">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/mb3q5jus5f4b1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Understanding Background Checks: What You Need to Know">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7257987088157658411&location=0&aid=1988' alt='Understanding Background Checks: What You Need to Know'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7257987088157658411&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check Exposes Applicant's Lies: “I've Never Been Called ...">
+                                <img itemprop="contentUrl url" src='https://www.boredpanda.com/blog/wp-content/uploads/2024/12/author_6f79539bfd9b6439fca00714a1d9c8e8.jpg' alt='Background Check Exposes Applicant's Lies: “I've Never Been Called ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="744">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bored Panda" />
+                                </span>
+                                <a href='https://www.boredpanda.com/blog/wp-content/uploads/2024/12/author_6f79539bfd9b6439fca00714a1d9c8e8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why Accurate Employment Dates are Crucial for Background Checks">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7120239808030493995&location=0&aid=1988' alt='Why Accurate Employment Dates are Crucial for Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7120239808030493995&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="so I didn't go to Harvard and Mark Zuckerberg didn't say I was the best  employee he has ever had...nbd right? #interview #resume #jobsearch #job  #linkedin #work">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7331835778617707819&location=0&aid=1988' alt='so I didn't go to Harvard and Mark Zuckerberg didn't say I was the best  employee he has ever had...nbd right? #interview #resume #jobsearch #job  #linkedin #work'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7331835778617707819&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="When you lied on your resume...but the company's doing a ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/when-you-lied-on-your-resume-but-the-companys-doing-a-v0-e588n4jbb15e1.jpeg?width=640&crop=smart&auto=webp&s=6fc7f3ee3886608429461e4791d765da9ffa0b33' alt='When you lied on your resume...but the company's doing a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/when-you-lied-on-your-resume-but-the-companys-doing-a-v0-e588n4jbb15e1.jpeg?width=640&crop=smart&auto=webp&s=6fc7f3ee3886608429461e4791d765da9ffa0b33' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can you get away with stretching out your employme... | Fishbowl">
+                                <img itemprop="contentUrl url" src='https://files.getfishbowl.com/content_preview_images/can-you-get-away-with-stretching-out-your-employment-dates-on-your-resumelinkedin-as-long-as-you-dont-lie-about-it-on-your.jpg' alt='Can you get away with stretching out your employme... | Fishbowl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fishbowl" />
+                                </span>
+                                <a href='https://files.getfishbowl.com/content_preview_images/can-you-get-away-with-stretching-out-your-employment-dates-on-your-resumelinkedin-as-long-as-you-dont-lie-about-it-on-your.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

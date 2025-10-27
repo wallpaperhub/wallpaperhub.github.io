@@ -1,0 +1,129 @@
+<title>Dynamic Fortnite Moving Backgrounds for Gamers</title>
+                    <meta name="description" content="Discover stunning Fortnite moving backgrounds that add excitement to your gaming setup. Perfect for streamers and fans, these animated designs capture the essence of Fortnite's universe, making your screen pop. Elevate your gaming experience today with vibrant and animated wallpapers! Ideal for both mobile and desktop use.">
+                    <meta name="keywords" content="fortnite moving backgrounds">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fortnite-moving-backgrounds">
+                            <span itemprop="name">fortnite moving backgrounds</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dynamic Fortnite Moving Backgrounds for Gamers</h1>
+                <p>Fortnite moving backgrounds bring the vibrant world of this popular game to life on your screen. With dynamic animations featuring characters, emotes, and iconic landscapes, these backgrounds enhance the gaming experience, allowing players to showcase their love for Fortnite. Perfect for streaming or personal use, they inspire creativity and passion.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Animated Wallpaper - The Raven [Blurred Background]">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/lcuvgcb-xqg/maxresdefault.jpg' alt='Fortnite Animated Wallpaper - The Raven [Blurred Background]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/lcuvgcb-xqg/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated Fortnite Wallpaper">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/az9swvmVniZMNX_IwSqDkNNbSSdVUW86paIFnqREf9s.png?format=pjpg&auto=webp&s=d194deefb7b2b31758aea22cc9278f5eb8615a06' alt='Animated Fortnite Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1088">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/az9swvmVniZMNX_IwSqDkNNbSSdVUW86paIFnqREf9s.png?format=pjpg&auto=webp&s=d194deefb7b2b31758aea22cc9278f5eb8615a06' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Get Animated/Moving/Live Fortnite Wallpapers Download - Wallpaper  Engine">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/rtIsrdujwmE/maxresdefault.jpg' alt='How To Get Animated/Moving/Live Fortnite Wallpapers Download - Wallpaper  Engine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/rtIsrdujwmE/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated Storm King Background">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/8tAkpvmZdn-K88jWiAtSOxYjl--x3q5U038WOxGj-rw.png?format=pjpg&auto=webp&s=e3049873b94eb4afd7dab5c9e99a03b5b6fb311e' alt='Animated Storm King Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/8tAkpvmZdn-K88jWiAtSOxYjl--x3q5U038WOxGj-rw.png?format=pjpg&auto=webp&s=e3049873b94eb4afd7dab5c9e99a03b5b6fb311e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Drift Wallpaper - Animated! (SFM + Photoshop + Wallpaper Engine)">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/Nzpvr1ds8ha00BEBT8IvfrW1_IFq1ezscgN11M-4QUU.png?format=pjpg&auto=webp&s=b218df2f2b585fb386c4a4ada14ea71ceaa4188b' alt='A Drift Wallpaper - Animated! (SFM + Photoshop + Wallpaper Engine)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/Nzpvr1ds8ha00BEBT8IvfrW1_IFq1ezscgN11M-4QUU.png?format=pjpg&auto=webp&s=b218df2f2b585fb386c4a4ada14ea71ceaa4188b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Fortnite Leviathan Outfit Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cool-fortnite-leviathan-outfit-frohqn1ofwxa749u.jpg' alt='Cool Fortnite Leviathan Outfit Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cool-fortnite-leviathan-outfit-frohqn1ofwxa749u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Fortnite Animated Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/fortnite-animated-6r2hdrnkjtgivu8g.jpg' alt='100+] Fortnite Animated Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/fortnite-animated-6r2hdrnkjtgivu8g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE VBUCKS FOR FORTNITE - Earn Free V-Bucks">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d7/d6/e5/d7d6e5c408eefa3943aee3bc33318d70.jpg' alt='FREE VBUCKS FOR FORTNITE - Earn Free V-Bucks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="734">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d7/d6/e5/d7d6e5c408eefa3943aee3bc33318d70.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50+ Fortnite Live Wallpapers 4K & HD">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/i/c/364x205/media/3108/skull-trooper-fortnite.jpg' alt='50+ Fortnite Live Wallpapers 4K & HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="364">
+                                <meta itemprop="height" content="205">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/i/c/364x205/media/3108/skull-trooper-fortnite.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50+ Fortnite Live Wallpapers 4K & HD">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/media/2582/travis-scott-takes-on-fortnite.jpg' alt='50+ Fortnite Live Wallpapers 4K & HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/media/2582/travis-scott-takes-on-fortnite.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

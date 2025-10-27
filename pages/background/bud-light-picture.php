@@ -1,0 +1,129 @@
+<title>Bud Light Pictures: Celebrate Every Moment</title>
+                    <meta name="description" content="Explore our collection of Bud Light pictures that showcase fun, friendship, and unforgettable moments. Perfect for your next gathering or social media posts, these images capture the spirit of celebration. Cheers to great times with Bud Light!">
+                    <meta name="keywords" content="bud light picture">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bud-light-picture">
+                            <span itemprop="name">bud light picture</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Bud Light Pictures: Celebrate Every Moment</h1>
+                <p>Bud Light pictures capture the essence of good times, shared moments, and the joy of raising a toast with friends. Whether at a summer barbecue, a lively sports event, or a cozy night in, these images evoke a sense of fun and camaraderie. From vibrant cans to lively gatherings, Bud Light is a celebration in every picture.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bud Light Gets a Bold New Look">
+                                <img itemprop="contentUrl url" src='https://photos.prnewswire.com/prnfull/20151217/296790' alt='Bud Light Gets a Bold New Look'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2382">
+                                <meta itemprop="height" content="2700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PR Newswire" />
+                                </span>
+                                <a href='https://photos.prnewswire.com/prnfull/20151217/296790' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bud Light 24/12 oz bottles - Beverages2u">
+                                <img itemprop="contentUrl url" src='https://beverages2u.com/wp-content/uploads/2020/12/bud-light-bottle.jpeg' alt='Bud Light 24/12 oz bottles - Beverages2u'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Beverages2u" />
+                                </span>
+                                <a href='https://beverages2u.com/wp-content/uploads/2020/12/bud-light-bottle.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bud Light 6 Pack Cans">
+                                <img itemprop="contentUrl url" src='http://sml-uncorked.com/cdn/shop/products/99524daa9aff6666876bbd9fdeed6686_cb6c2cef-c116-41bf-8107-c8da7e5e8652_1200x1200.png?v=1740250366' alt='Bud Light 6 Pack Cans'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Supermarket Liquors" />
+                                </span>
+                                <a href='http://sml-uncorked.com/cdn/shop/products/99524daa9aff6666876bbd9fdeed6686_cb6c2cef-c116-41bf-8107-c8da7e5e8652_1200x1200.png?v=1740250366' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bud Light American Lager Beer, 6 Pack, 12 fl oz Glass Bottles, 4.2 ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Bud-Light-Beer-12-fl-oz-6-pack_0b8b16c3-8e5d-45ba-852e-01febbb411df.ecff04e7eeab12c6f54b3667b02a6574.jpeg' alt='Bud Light American Lager Beer, 6 Pack, 12 fl oz Glass Bottles, 4.2 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="2200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Bud-Light-Beer-12-fl-oz-6-pack_0b8b16c3-8e5d-45ba-852e-01febbb411df.ecff04e7eeab12c6f54b3667b02a6574.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beer Single Bud Light 16oz Can – Point Wine & Spirits">
+                                <img itemprop="contentUrl url" src='http://pointwineandspirits.com/cdn/shop/products/3015c7c8d03edef046b3f403c2d302bf.jpg?v=1604944729' alt='Beer Single Bud Light 16oz Can – Point Wine & Spirits'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Point Wine & Spirits" />
+                                </span>
+                                <a href='http://pointwineandspirits.com/cdn/shop/products/3015c7c8d03edef046b3f403c2d302bf.jpg?v=1604944729' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bud Light – Hop City Beer & Wine">
+                                <img itemprop="contentUrl url" src='http://hopcitybeer.com/cdn/shop/products/bud_light_d3e4898b-b744-4952-a3c3-e7feb28a00d4.png?v=1684175488' alt='Bud Light – Hop City Beer & Wine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hop City Beer & Wine" />
+                                </span>
+                                <a href='http://hopcitybeer.com/cdn/shop/products/bud_light_d3e4898b-b744-4952-a3c3-e7feb28a00d4.png?v=1684175488' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bud Light from Anheuser-Busch, Inc. - Available near you - TapHunter">
+                                <img itemprop="contentUrl url" src='https://lh3.googleusercontent.com/ttDRTSW8Rddre5WapDf9woY9MYDe5fdBdem82MnV_GnxmbUyo21pEB83uAQvYa63ITYTNKf3Sh4pQXiDM8Wfl6ehTAOu=s750' alt='Bud Light from Anheuser-Busch, Inc. - Available near you - TapHunter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TapHunter" />
+                                </span>
+                                <a href='https://lh3.googleusercontent.com/ttDRTSW8Rddre5WapDf9woY9MYDe5fdBdem82MnV_GnxmbUyo21pEB83uAQvYa63ITYTNKf3Sh4pQXiDM8Wfl6ehTAOu=s750' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Everything to Know About the Bud Light Controversy">
+                                <img itemprop="contentUrl url" src='https://people.com/thmb/y6uKpxdHjlpSPP-MJeUaZftspBI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(539x0:541x2)/dylan-mulvaney-f524ff39318c40efaf44a37b56dbcbf5.jpg' alt='Everything to Know About the Bud Light Controversy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="People.com" />
+                                </span>
+                                <a href='https://people.com/thmb/y6uKpxdHjlpSPP-MJeUaZftspBI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(539x0:541x2)/dylan-mulvaney-f524ff39318c40efaf44a37b56dbcbf5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bud Light – Five Eight Liquors">
+                                <img itemprop="contentUrl url" src='https://58liquors.com/cdn/shop/products/budlight_1024x1024@2x.png?v=1621465958' alt='Bud Light – Five Eight Liquors'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1916">
+                                <meta itemprop="height" content="1916">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Five Eight Liquors" />
+                                </span>
+                                <a href='https://58liquors.com/cdn/shop/products/budlight_1024x1024@2x.png?v=1621465958' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bud Light - 24/16OZ ALUM NR - Beverages2u">
+                                <img itemprop="contentUrl url" src='https://beverages2u.com/wp-content/uploads/2019/05/bud-light-alum.jpg' alt='Bud Light - 24/16OZ ALUM NR - Beverages2u'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Beverages2u" />
+                                </span>
+                                <a href='https://beverages2u.com/wp-content/uploads/2019/05/bud-light-alum.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

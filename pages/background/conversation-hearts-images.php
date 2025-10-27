@@ -1,0 +1,129 @@
+<title>Sweet Conversation Hearts: Colorful Valentine’s Images</title>
+                    <meta name="description" content="Discover a collection of enchanting conversation hearts images perfect for Valentine's Day! These colorful candies adorned with sweet messages are ideal for sharing love and joy. Browse now to find inspiration for your celebrations and social media posts!">
+                    <meta name="keywords" content="conversation hearts images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/conversation-hearts-images">
+                            <span itemprop="name">conversation hearts images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Sweet Conversation Hearts: Colorful Valentine’s Images</h1>
+                <p>Conversation hearts images are delightful and colorful candies that embody love and affection. Often exchanged during Valentine's Day, these heart-shaped confections come inscribed with sweet messages. Their vibrant shades and charming words inspire creative displays, making them popular for social media sharing and festive decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Conversation Hearts - 2 lb Bag">
+                                <img itemprop="contentUrl url" src='https://bulkcandystore.com/cdn/shop/files/conversation-hearts-pastel-printed-words-candy-valentines-day-bulk__20446.1703619215.1280.1280_grande.jpg?v=1720282179' alt='Conversation Hearts - 2 lb Bag'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bulk Candy Store" />
+                                </span>
+                                <a href='https://bulkcandystore.com/cdn/shop/files/conversation-hearts-pastel-printed-words-candy-valentines-day-bulk__20446.1703619215.1280.1280_grande.jpg?v=1720282179' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Conversation Hearts - Free Printable Download">
+                                <img itemprop="contentUrl url" src='https://150936857.v2.pressablecdn.com/wp-content/uploads/2021/01/Glitter-Conversation-Hearts.jpg' alt='Conversation Hearts - Free Printable Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Paris Corporation" />
+                                </span>
+                                <a href='https://150936857.v2.pressablecdn.com/wp-content/uploads/2021/01/Glitter-Conversation-Hearts.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Conversation Hearts Cabochons | Sweet Heart Decoden Cabochon | Fake Sugar  Candy | Kawaii Sweet Deco (4 pcs by Random / 21mm x 17mm)">
+                                <img itemprop="contentUrl url" src='http://www.miniaturesweethk.com/cdn/shop/products/003_8b31221f-2e3a-40b2-a60c-9753a2ac61cc_grande.jpg?v=1622218566' alt='Conversation Hearts Cabochons | Sweet Heart Decoden Cabochon | Fake Sugar  Candy | Kawaii Sweet Deco (4 pcs by Random / 21mm x 17mm)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MiniatureSweet" />
+                                </span>
+                                <a href='http://www.miniaturesweethk.com/cdn/shop/products/003_8b31221f-2e3a-40b2-a60c-9753a2ac61cc_grande.jpg?v=1622218566' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Printable Conversation Hearts | Hello Little Home">
+                                <img itemprop="contentUrl url" src='https://hellolittlehome.com/wp-content/uploads/2014/01/paper-conversation-hearts.jpg' alt='Free Printable Conversation Hearts | Hello Little Home'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="624">
+                                <meta itemprop="height" content="624">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hello Little Home" />
+                                </span>
+                                <a href='https://hellolittlehome.com/wp-content/uploads/2014/01/paper-conversation-hearts.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="(3) conversation Hearts - random saying">
+                                <img itemprop="contentUrl url" src='https://ohsocutebyjessica.com/cdn/shop/products/image_2a88d64a-5643-4103-9469-f20e950d6ed9.jpg?v=1640539452&width=1445' alt='(3) conversation Hearts - random saying'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1445">
+                                <meta itemprop="height" content="2365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oh So Cute by Jessica" />
+                                </span>
+                                <a href='https://ohsocutebyjessica.com/cdn/shop/products/image_2a88d64a-5643-4103-9469-f20e950d6ed9.jpg?v=1640539452&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Valentine's Day Mini Conversation Hearts Marzipan Candy | marzipops">
+                                <img itemprop="contentUrl url" src='https://marzipops.com/cdn/shop/products/IMG_9828_1024x1024.jpg?v=1671940178' alt='Valentine's Day Mini Conversation Hearts Marzipan Candy | marzipops'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="marzipops" />
+                                </span>
+                                <a href='https://marzipops.com/cdn/shop/products/IMG_9828_1024x1024.jpg?v=1671940178' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Conversation Hearts - Small – Half Nuts">
+                                <img itemprop="contentUrl url" src='https://www.halfnuts.net/cdn/shop/products/836.jpg?v=1547508008' alt='Conversation Hearts - Small – Half Nuts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="452">
+                                <meta itemprop="height" content="452">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Half Nuts" />
+                                </span>
+                                <a href='https://www.halfnuts.net/cdn/shop/products/836.jpg?v=1547508008' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History Of Conversation Hearts - Everything You Need To Know ...">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/heart-shaped-conversation-candies-background-copy-royalty-free-image-1706559420.jpg' alt='The History Of Conversation Hearts - Everything You Need To Know ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4608">
+                                <meta itemprop="height" content="3456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Delish" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/heart-shaped-conversation-candies-background-copy-royalty-free-image-1706559420.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Conversation Hearts Clipart + SVG Cut Files - Hey, Let's Make ...">
+                                <img itemprop="contentUrl url" src='https://heyletsmakestuff.com/wp-content/uploads/2018/01/Conversation-Hearts-Cut-Files-FEATURE-750-x-1125.jpg' alt='Free Conversation Hearts Clipart + SVG Cut Files - Hey, Let's Make ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hey, Let's Make Stuff" />
+                                </span>
+                                <a href='https://heyletsmakestuff.com/wp-content/uploads/2018/01/Conversation-Hearts-Cut-Files-FEATURE-750-x-1125.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sweethearts The Original, Conversation Hearts, Heart Shaped Candy ...">
+                                <img itemprop="contentUrl url" src='https://www.instacart.com/assets/domains/product-image/file/large_2429ad1f-a12f-484c-b5b4-2b7b48ee9d35.jpg' alt='Sweethearts The Original, Conversation Hearts, Heart Shaped Candy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Food Lion To-Go Powered by Instacart" />
+                                </span>
+                                <a href='https://www.instacart.com/assets/domains/product-image/file/large_2429ad1f-a12f-484c-b5b4-2b7b48ee9d35.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Beach Sand Wallpaper: Coastal Serenity for Your Space</title>
+                    <meta name="description" content="Experience the tranquility of coastal living with beach sand wallpaper. This stylish and versatile decor option creates a soothing ambiance, perfect for any room. Invite the beauty of sandy shores into your home today!">
+                    <meta name="keywords" content="beach sand wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/beach">
+                            <span itemprop="name">Beach</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/beach/beach-sand-wallpaper">
+                            <span itemprop="name">beach sand wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beach Sand Wallpaper: Coastal Serenity for Your Space</h1>
+                <p>Transform your space with beach sand wallpaper, bringing the serene beauty of coastal landscapes indoors. Perfect for creating a calming atmosphere, this wallpaper features soft, natural tones that evoke the feeling of warm sand beneath your feet. Ideal for living rooms, bedrooms, or beach-themed decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,438,000+ Beach Sand Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/521687654/photo/summer-sandy-beach-with-blur-ocean-on-background.jpg?s=612x612&w=0&k=20&c=vx0nwtIbLDAQ_ZQ6WyDlYP6zSLf9Y81y-lqbDq-_Be8=' alt='3,438,000+ Beach Sand Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="503">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/521687654/photo/summer-sandy-beach-with-blur-ocean-on-background.jpg?s=612x612&w=0&k=20&c=vx0nwtIbLDAQ_ZQ6WyDlYP6zSLf9Y81y-lqbDq-_Be8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Perfect Beach Sand">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/84396/perfect-beach-sand.jpg?h=699&q=85' alt='Perfect Beach Sand'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="957">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/84396/perfect-beach-sand.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beach Sand Photos, Download The BEST Free Beach Sand Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/2882660/pexels-photo-2882660.jpeg?cs=srgb&dl=pexels-aulsh99-2882660.jpg&fm=jpg' alt='Beach Sand Photos, Download The BEST Free Beach Sand Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/2882660/pexels-photo-2882660.jpeg?cs=srgb&dl=pexels-aulsh99-2882660.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The shore...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a4/33/11/a433117420e4e94d234cb7e3f1be1c20.jpg' alt='The shore...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a4/33/11/a433117420e4e94d234cb7e3f1be1c20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,438,000+ Beach Sand Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1140992203/photo/beach-summer-background.jpg?s=612x612&w=0&k=20&c=dEMuB5XQVjwcmdeOLIa42WIjat_dXwMpohc93VSadFc=' alt='3,438,000+ Beach Sand Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1140992203/photo/beach-summer-background.jpg?s=612x612&w=0&k=20&c=dEMuB5XQVjwcmdeOLIa42WIjat_dXwMpohc93VSadFc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beach Sand Top View Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/dried-starfish-beach-background_53876-146745.jpg?semt=ais_hybrid' alt='Beach Sand Top View Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/dried-starfish-beach-background_53876-146745.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beach Sand Photos, Download The BEST Free Beach Sand Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/2880718/pexels-photo-2880718.jpeg?cs=srgb&dl=pexels-symeon-ekizoglou-1107605-2880718.jpg&fm=jpg' alt='Beach Sand Photos, Download The BEST Free Beach Sand Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2385">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/2880718/pexels-photo-2880718.jpeg?cs=srgb&dl=pexels-symeon-ekizoglou-1107605-2880718.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beach Sand Closeup Holiday iPhone 8 Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ee/be/8e/eebe8edd5b1669f999411ceb9b0a576c.jpg' alt='Beach Sand Closeup Holiday iPhone 8 Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ee/be/8e/eebe8edd5b1669f999411ceb9b0a576c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grass in Beach Sand">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/65693/grass-in-beach-sand.jpg?h=699&q=85' alt='Grass in Beach Sand'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1154">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/65693/grass-in-beach-sand.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sand Texture / White Sand Background close up / Beach Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/01/10/89/65/1000_F_110896580_FE8ua9B1c0qSHKnYJigHLWG1xwjofXJl.jpg' alt='Sand Texture / White Sand Background close up / Beach Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/01/10/89/65/1000_F_110896580_FE8ua9B1c0qSHKnYJigHLWG1xwjofXJl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

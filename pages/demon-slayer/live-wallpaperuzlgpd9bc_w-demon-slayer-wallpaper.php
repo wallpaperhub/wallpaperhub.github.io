@@ -1,0 +1,129 @@
+<title>Demon Slayer Live Wallpaper: Enhance Your Screen</title>
+                    <meta name="description" content="Discover mesmerizing live wallpapers inspired by Demon Slayer! Elevate your mobile experience with stunning visuals and animations. Perfect for anime fans looking to personalize their device while enjoying the thrill of this iconic series. Download now and bring the world of Demon Slayer to your screen!">
+                    <meta name="keywords" content="live wallpaper:uzlgpd9bc_w= demon slayer wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/demon-slayer">
+                            <span itemprop="name">Demon Slayer</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/demon-slayer/live-wallpaperuzlgpd9bc_w-demon-slayer-wallpaper">
+                            <span itemprop="name">live wallpaper:uzlgpd9bc_w= demon slayer wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Demon Slayer Live Wallpaper: Enhance Your Screen</h1>
+                <p>Transform your device with stunning live wallpaper featuring characters from Demon Slayer! Experience epic visuals, vibrant colors, and dynamic animations that bring your screen to life. Perfect for fans of the anime series, this wallpaper adds an immersive touch, making every glance at your screen an adventure!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Demon Slayer Live Wallpaper.   IOS➡️ Share ➡️Live Photo.   Android ➡️ Share  ➡️Set as wallpaper.#wallpaper #livewallpaper #demonslayer #4k #Foryou  #Follow #PrimarkSummerUp">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7115383242060074246&location=0&aid=1988' alt='Demon Slayer Live Wallpaper.   IOS➡️ Share ➡️Live Photo.   Android ➡️ Share  ➡️Set as wallpaper.#wallpaper #livewallpaper #demonslayer #4k #Foryou  #Follow #PrimarkSummerUp'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7115383242060074246&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="260+ Demon Slayer Live Wallpapers 4K & HD">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/i/c/364x205/media/1097/tanjiro-kamado-power.jpg' alt='260+ Demon Slayer Live Wallpapers 4K & HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="364">
+                                <meta itemprop="height" content="205">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/i/c/364x205/media/1097/tanjiro-kamado-power.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="260+ Demon Slayer Live Wallpapers 4K & HD">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/i/c/364x205/media/1059/zenitsu-agatsuma-with-sword-kimetsu-no-yaiba.jpg' alt='260+ Demon Slayer Live Wallpapers 4K & HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="364">
+                                <meta itemprop="height" content="205">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/i/c/364x205/media/1059/zenitsu-agatsuma-with-sword-kimetsu-no-yaiba.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live Wallpaper 4K Shinobu Kocho (Demon Slayer)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/9ZfJ6dlfMhc/maxresdefault.jpg' alt='Live Wallpaper 4K Shinobu Kocho (Demon Slayer)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/9ZfJ6dlfMhc/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="260+ Demon Slayer Live Wallpapers 4K & HD">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/i/c/364x205/media/7014/obanai-iguro-ds.jpg' alt='260+ Demon Slayer Live Wallpapers 4K & HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="364">
+                                <meta itemprop="height" content="205">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/i/c/364x205/media/7014/obanai-iguro-ds.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zenitsu Agatsuma 4k Live Wallpaper | Demon Slayer | Anime Live ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/2NTR1fDvoqM/maxresdefault.jpg' alt='Zenitsu Agatsuma 4k Live Wallpaper | Demon Slayer | Anime Live ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/2NTR1fDvoqM/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="260+ Demon Slayer Live Wallpapers 4K & HD">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/i/c/364x205/media/6009/tanjiro-water-dragon.jpg' alt='260+ Demon Slayer Live Wallpapers 4K & HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="364">
+                                <meta itemprop="height" content="205">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/i/c/364x205/media/6009/tanjiro-water-dragon.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Demon Slayer-Kimetsu No Yaiba Live Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/9a/30/bd/9a30bdb4f8f0e9206612f3f7dbe0e359.jpg' alt='Demon Slayer-Kimetsu No Yaiba Live Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/9a/30/bd/9a30bdb4f8f0e9206612f3f7dbe0e359.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kokushibo (Demon Slayer) Live Wallpaper">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/media/5877/kokushibo-demon-slayer.jpg' alt='Kokushibo (Demon Slayer) Live Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/media/5877/kokushibo-demon-slayer.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kamado Tanjiro - Demon Slayer Kimetsu No Yaiba - Free Live ...">
+                                <img itemprop="contentUrl url" src='https://livewallpapers4free.com/wp-content/uploads/2020/01/thumb-10.jpg' alt='Kamado Tanjiro - Demon Slayer Kimetsu No Yaiba - Free Live ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="520">
+                                <meta itemprop="height" content="293">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LiveWallpapers4Free.com" />
+                                </span>
+                                <a href='https://livewallpapers4free.com/wp-content/uploads/2020/01/thumb-10.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

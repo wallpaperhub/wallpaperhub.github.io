@@ -1,0 +1,129 @@
+<title>Stunning Anime Office Backgrounds for Creative Projects</title>
+                    <meta name="description" content="Explore a collection of stunning anime office backgrounds that elevate your creative projects. Perfect for artists, animators, and enthusiasts, these vibrant settings bring dynamic environments to life, making your animated scenes captivating and engaging!">
+                    <meta name="keywords" content="anime office background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/anime-office-background">
+                            <span itemprop="name">anime office background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Anime Office Backgrounds for Creative Projects</h1>
+                <p>Anime office backgrounds are vibrant, creative settings that enhance the atmosphere of any animated scene. These backgrounds often fuse modern office aesthetics with imaginative elements, introducing characters in dynamic environments filled with colorful decor, quirky furniture, and intricate details. Ideal for bringing stories to life!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Office Background Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/anime-office-background-xyrp7dk615pnqfwg.jpg' alt='Anime Office Background Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/anime-office-background-xyrp7dk615pnqfwg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Office">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/86/19/e7/8619e7df10be9f6d4d5fc9ecd5d3854b.jpg' alt='Office'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/86/19/e7/8619e7df10be9f6d4d5fc9ecd5d3854b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Landscape: Office (Anime Background)">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhev9y6vF4TL5GI9Hm4nkgWJ5Ce38v_-sZEJxpv4iwz48jFd_3HN-bNILV53lou9KtK4VZjcflI-emG82D0fsfutAlHOchzI6H1JTBgpHE1iVkN8EJxRkhhRduTpFK7yFApsjzpsBVjTKY/s640/_65_bg_2.png' alt='Anime Landscape: Office (Anime Background)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anime Landscape" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhev9y6vF4TL5GI9Hm4nkgWJ5Ce38v_-sZEJxpv4iwz48jFd_3HN-bNILV53lou9KtK4VZjcflI-emG82D0fsfutAlHOchzI6H1JTBgpHE1iVkN8EJxRkhhRduTpFK7yFApsjzpsBVjTKY/s640/_65_bg_2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Office (Anime Background)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/dc/08/84/dc088443f1868f92e551950be6d1802c.jpg' alt='Office (Anime Background)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/dc/08/84/dc088443f1868f92e551950be6d1802c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Home Office Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/anime-home-office-z88iy9x064uf1dcx.jpg' alt='Anime Home Office Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/anime-home-office-z88iy9x064uf1dcx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Desktop Anime Office Desk Wallpapers Background Computer ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/ai/illus_our/20230423/d9087087966508550823d1e9c352d863.jpg!w700wp' alt='Wallpaper Desktop Anime Office Desk Wallpapers Background Computer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/ai/illus_our/20230423/d9087087966508550823d1e9c352d863.jpg!w700wp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Landscape: Telemarketing Office (Anime Background) (day & night)">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-jyF5-zGl58nETvLCO2HIdApRENuJq73-bfnel0dRAyQPl4Rr6dJT3z97XhDpto9Wt4kTi-saPwykrlH4WJy_SG6TYOUssTpyvDFbOZ3OONxL38nuICe_niAZsI3p57KeT5KgE4UPHxI/s800/Office+%2528Anime+Background%2529+009+N.jpg' alt='Anime Landscape: Telemarketing Office (Anime Background) (day & night)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anime Landscape" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-jyF5-zGl58nETvLCO2HIdApRENuJq73-bfnel0dRAyQPl4Rr6dJT3z97XhDpto9Wt4kTi-saPwykrlH4WJy_SG6TYOUssTpyvDFbOZ3OONxL38nuICe_niAZsI3p57KeT5KgE4UPHxI/s800/Office+%2528Anime+Background%2529+009+N.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/01/6b/d5/016bd5741852656d116e4a33b5ced1ac.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="690">
+                                <meta itemprop="height" content="406">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/01/6b/d5/016bd5741852656d116e4a33b5ced1ac.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Office Room Interiors Cartoon Anime">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/videos/1107196749/thumb/1.jpg?ip=x480' alt='Modern Office Room Interiors Cartoon Anime'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/videos/1107196749/thumb/1.jpg?ip=x480' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Office Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/digital-art-image-remote-work-panoramic-compo-generative-ai_1238339-26806.jpg?semt=ais_hybrid' alt='Anime Office Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/digital-art-image-remote-work-panoramic-compo-generative-ai_1238339-26806.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning 3D Minecraft Wallpapers for Every Gamer</title>
+                    <meta name="description" content="Explore vibrant 3D Minecraft wallpapers that bring your favorite pixelated world to life. Perfect for desktops and mobiles, these stunning designs will showcase your passion for the game and enhance your screen experience. Discover unique wallpapers today and transform your device!">
+                    <meta name="keywords" content="3d minecraft wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/3d">
+                            <span itemprop="name">3D</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/3d/3d-minecraft-wallpaper">
+                            <span itemprop="name">3d minecraft wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 3D Minecraft Wallpapers for Every Gamer</h1>
+                <p>Transform your screen with stunning 3D Minecraft wallpapers! Dive into a blocky universe filled with vibrant landscapes, imaginative builds, and pixelated adventures. Perfect for fans of all ages, these wallpapers breathe life into your devices, showcasing your love for the iconic game. Elevate your desktop or mobile experience today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steve and Alex Minecraft Wallpaper, 3d Printed Minecraft Theme ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/53185770/r/il/8918b1/6163442179/il_fullxfull.6163442179_tibd.jpg' alt='Steve and Alex Minecraft Wallpaper, 3d Printed Minecraft Theme ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lumos Wallpaper" />
+                                </span>
+                                <a href='https://i.etsystatic.com/53185770/r/il/8918b1/6163442179/il_fullxfull.6163442179_tibd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Simplistic Minecraft Wallpaper I made using Blender! : r/Minecraft">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/3d-simplistic-minecraft-wallpaper-i-made-using-blender-v0-8x1iy6ml62k81.png?auto=webp&s=c553a933974dc70d22ca4f408d4be784022ea2f1' alt='3D Simplistic Minecraft Wallpaper I made using Blender! : r/Minecraft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/3d-simplistic-minecraft-wallpaper-i-made-using-blender-v0-8x1iy6ml62k81.png?auto=webp&s=c553a933974dc70d22ca4f408d4be784022ea2f1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minecraft Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fb/42/7a/fb427a84b6d0326b4f8185b673b6efa0.jpg' alt='Minecraft Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fb/42/7a/fb427a84b6d0326b4f8185b673b6efa0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool minecraft 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://c4.wallpaperflare.com/wallpaper/948/782/354/minecraft-minecraft-dungeons-ocean-view-minecraft-dungeons-hidden-depths-4k-hd-wallpaper-preview.jpg' alt='Cool minecraft 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://c4.wallpaperflare.com/wallpaper/948/782/354/minecraft-minecraft-dungeons-ocean-view-minecraft-dungeons-hidden-depths-4k-hd-wallpaper-preview.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Explore The Never-ending Possibilities Of Minecraft Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/explore-the-never-ending-possibilities-of-minecraft-2hr8260yswn1v495-2.jpg' alt='Explore The Never-ending Possibilities Of Minecraft Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/explore-the-never-ending-possibilities-of-minecraft-2hr8260yswn1v495-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Everybody is making minecraft wallpaper. Here is mine (3D) : r ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/LYab083cZYe7de8UnDULNf8q-K-iEqU14Sd_JI4JLBo.jpg?auto=webp&s=5c165e169fb281fc06888a700358f54353b38ed2' alt='Everybody is making minecraft wallpaper. Here is mine (3D) : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/LYab083cZYe7de8UnDULNf8q-K-iEqU14Sd_JI4JLBo.jpg?auto=webp&s=5c165e169fb281fc06888a700358f54353b38ed2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25+ Epic Minecraft Wallpapers & Backgrounds">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/72/53/8a/72538a37d3c429aacd74bb216551c2f4.jpg' alt='25+ Epic Minecraft Wallpapers & Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/72/53/8a/72538a37d3c429aacd74bb216551c2f4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TheVoid's Art compilation">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/Fielur8.png' alt='TheVoid's Art compilation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Planet Minecraft" />
+                                </span>
+                                <a href='https://i.imgur.com/Fielur8.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Create you a really good minecraft wallpaper by Itsyourboijavi ...">
+                                <img itemprop="contentUrl url" src='https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/120025418/original/34e9f52fd949a4aaf89885361551aefa8c241ae8/create-you-a-really-good-minecraft-wallpaper.png' alt='Create you a really good minecraft wallpaper by Itsyourboijavi ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="680">
+                                <meta itemprop="height" content="383">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fiverr" />
+                                </span>
+                                <a href='https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/120025418/original/34e9f52fd949a4aaf89885361551aefa8c241ae8/create-you-a-really-good-minecraft-wallpaper.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video 3d Interface Minecraft Iphone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/video-3d-interface-minecraft-iphone-xwylmwoauo59a92v.jpg' alt='Download Video 3d Interface Minecraft Iphone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="703">
+                                <meta itemprop="height" content="1250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/video-3d-interface-minecraft-iphone-xwylmwoauo59a92v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

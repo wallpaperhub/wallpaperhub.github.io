@@ -1,0 +1,129 @@
+<title>Stunning Background Paintings: Enhance Your Visual Storytelling</title>
+                    <meta name="description" content="Discover the beauty and impact of background paintings in art and storytelling. Learn how artists create immersive environments that captivate viewers and enhance narratives. Explore techniques, styles, and tips for incorporating stunning backgrounds into your work.">
+                    <meta name="keywords" content="background paintings">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/background-paintings">
+                            <span itemprop="name">background paintings</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Background Paintings: Enhance Your Visual Storytelling</h1>
+                <p>Background paintings play a vital role in visual storytelling, providing depth and context to various scenes. Artists use a blend of techniques, colors, and details to create immersive environments that enhance the overall narrative. Whether in animation, film, or traditional art, these paintings shape the viewer's experience, drawing them into the world crafted by the creator.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="602,100+ Abstract Painting Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/964375828/vector/horizon-paint.jpg?s=612x612&w=0&k=20&c=4A29XmEYLt8jZon8uMnCbRIcJvg-pKOTaysA5pxqtTg=' alt='602,100+ Abstract Painting Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/964375828/vector/horizon-paint.jpg?s=612x612&w=0&k=20&c=4A29XmEYLt8jZon8uMnCbRIcJvg-pKOTaysA5pxqtTg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art Background Images – Browse 73,377,677 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/73/19/73/360_F_273197306_EkH2qIM1ViiuPbup2PXAkY3d2vujrlAv.jpg' alt='Art Background Images – Browse 73,377,677 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/73/19/73/360_F_273197306_EkH2qIM1ViiuPbup2PXAkY3d2vujrlAv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art Background Images – Browse 73,377,677 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/07/03/02/14/360_F_703021495_SJP6mr793gn03A09yT1G9g0DE00ATY64.jpg' alt='Art Background Images – Browse 73,377,677 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/07/03/02/14/360_F_703021495_SJP6mr793gn03A09yT1G9g0DE00ATY64.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="602,100+ Abstract Painting Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/172218163/vector/colorful-background.jpg?s=612x612&w=0&k=20&c=wDy32BcHlKzZjg1prI2Pp99iQi62hHevyKB5OcG6MKE=' alt='602,100+ Abstract Painting Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="406">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/172218163/vector/colorful-background.jpg?s=612x612&w=0&k=20&c=wDy32BcHlKzZjg1prI2Pp99iQi62hHevyKB5OcG6MKE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract painting background hi-res stock photography and images ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/DDNX6R/bright-colourful-abstract-art-painting-background-close-up-DDNX6R.jpg' alt='Abstract painting background hi-res stock photography and images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="956">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/DDNX6R/bright-colourful-abstract-art-painting-background-close-up-DDNX6R.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 9 | Paint Design Background Vectors & Illustrations for Free ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/watercolor-oil-painting-background_23-2150146387.jpg' alt='Page 9 | Paint Design Background Vectors & Illustrations for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/watercolor-oil-painting-background_23-2150146387.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Painted Red Art Backgrounds #1 by Ekely">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/1-abstract-painted-red-art-backgrounds-ekely.jpg' alt='Abstract Painted Red Art Backgrounds #1 by Ekely'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photos.com by Getty Images" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/1-abstract-painted-red-art-backgrounds-ekely.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Paint Ghibli Backgrounds, What I Learned So Far – GVAAT'S ...">
+                                <img itemprop="contentUrl url" src='https://www.gvaat.com/wp-content/uploads/2020/05/IMG_1251.jpg' alt='How to Paint Ghibli Backgrounds, What I Learned So Far – GVAAT'S ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="454">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gvaat's Workshop" />
+                                </span>
+                                <a href='https://www.gvaat.com/wp-content/uploads/2020/05/IMG_1251.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wildflowers in Blue Background, Original Painting, Wall Art ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/13900576/r/il/304f90/3853415498/il_fullxfull.3853415498_kaii.jpg' alt='Wildflowers in Blue Background, Original Painting, Wall Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2649">
+                                <meta itemprop="height" content="2103">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/13900576/r/il/304f90/3853415498/il_fullxfull.3853415498_kaii.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Original Acrylic Painting Background by Dlerick">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/original-acrylic-painting-background-dlerick.jpg' alt='Original Acrylic Painting Background by Dlerick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="602">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photos.com by Getty Images" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/original-acrylic-painting-background-dlerick.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

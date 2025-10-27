@@ -1,0 +1,129 @@
+<title>Enchanting GoblinCore Wallpaper for Nature Lovers</title>
+                    <meta name="description" content="Discover the magic of GoblinCore wallpaper, featuring earthy tones and whimsical designs. Perfect for those who love nature and fantasy, these wallpapers transform your screens into enchanting landscapes. Embrace the charm of the enchanted forest wherever you go!">
+                    <meta name="keywords" content="goblincore wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/goblincore-wallpaper">
+                            <span itemprop="name">goblincore wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enchanting GoblinCore Wallpaper for Nature Lovers</h1>
+                <p>GoblinCore wallpaper brings a whimsical, nature-inspired aesthetic to your digital devices. Embrace earthy tones, mythical creatures, and forest elements that celebrate the beauty of the ordinary. This unique wallpaper style captivates with its enchanting and rustic vibes, inviting you to immerse yourself in a world of magic and wild imagination.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goblincore Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/14233354/p/f/l/UJsBW_MnzfZsQ1CNJeM3DZtj7ucCcBYvayk9SrZx48B7KyRKq04f5Vw/Goblin's%20Grotto%20Goblincore%20Forest%20-%20Black%20Neutrals%20-%20Jumbo%20Scale.jpg' alt='Goblincore Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/14233354/p/f/l/UJsBW_MnzfZsQ1CNJeM3DZtj7ucCcBYvayk9SrZx48B7KyRKq04f5Vw/Goblin's%20Grotto%20Goblincore%20Forest%20-%20Black%20Neutrals%20-%20Jumbo%20Scale.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="goblincore #goblin #green #greenaesthetic #books #vintage #art ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d9/6f/71/d96f7107c8b68a85a58e8144e5f101cd.jpg' alt='goblincore #goblin #green #greenaesthetic #books #vintage #art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d9/6f/71/d96f7107c8b68a85a58e8144e5f101cd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I always doodle when I watch TV and this little wallpaper thing ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/i-always-doodle-when-i-watch-tv-and-this-little-wallpaper-v0-5l1wqwbupj091.jpg?width=640&crop=smart&auto=webp&s=21b0cfebfbc00f7f6b7d6bedf2e10e04624a609b' alt='I always doodle when I watch TV and this little wallpaper thing ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="494">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/i-always-doodle-when-i-watch-tv-and-this-little-wallpaper-v0-5l1wqwbupj091.jpg?width=640&crop=smart&auto=webp&s=21b0cfebfbc00f7f6b7d6bedf2e10e04624a609b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Redbubble on X: "#goblincore. Check out the magical doodle by the ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/ExWtMpyVEAEA9tY.jpg:large' alt='Redbubble on X: "#goblincore. Check out the magical doodle by the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1860">
+                                <meta itemprop="height" content="1860">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/ExWtMpyVEAEA9tY.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goblincore Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/14233352/p/f/m/YVJ-3DE2yI3JDVjXXLHzOzh6TrN90Ig-31BJysw15YRDB_-zHVPzOx8/Goblin's%20Grotto%20Goblincore%20Forest%20-%20Black%20Neutrals%20-%20Mid%20Scale.jpg' alt='Goblincore Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/14233352/p/f/m/YVJ-3DE2yI3JDVjXXLHzOzh6TrN90Ig-31BJysw15YRDB_-zHVPzOx8/Goblin's%20Grotto%20Goblincore%20Forest%20-%20Black%20Neutrals%20-%20Mid%20Scale.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goblincore wallpaper ✧・ﾟ: *lovely green aestetic✧・ﾟ:*">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/6c/26/44/6c2644b153133b11fd4b17e0984acda5.jpg' alt='Goblincore wallpaper ✧・ﾟ: *lovely green aestetic✧・ﾟ:*'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2171">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/6c/26/44/6c2644b153133b11fd4b17e0984acda5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check out 99drvgs66's Shuffles #vintage #nature #wallpaper #quotes ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/345x/e4/0c/4e/e40c4e21dfd524b1cc0b56e357586e64.jpg' alt='Check out 99drvgs66's Shuffles #vintage #nature #wallpaper #quotes ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="345">
+                                <meta itemprop="height" content="613">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shuffles" />
+                                </span>
+                                <a href='https://i.pinimg.com/345x/e4/0c/4e/e40c4e21dfd524b1cc0b56e357586e64.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Goblincore Books to Help You Embrace Your Inner Goblin ...">
+                                <img itemprop="contentUrl url" src='https://149349728.v2.pressablecdn.com/wp-content/uploads/2021/10/3681301-1.jpg' alt='8 Goblincore Books to Help You Embrace Your Inner Goblin ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Electric Literature" />
+                                </span>
+                                <a href='https://149349728.v2.pressablecdn.com/wp-content/uploads/2021/10/3681301-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ghost Lilies | Goblincore Wallpaper Desktop Phone Theme Pack ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/46649995/r/il/af9e32/5316136838/il_fullxfull.5316136838_hwo9.jpg' alt='Ghost Lilies | Goblincore Wallpaper Desktop Phone Theme Pack ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1875">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/46649995/r/il/af9e32/5316136838/il_fullxfull.5316136838_hwo9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Explaining Goblincore: The Feral Fashion Trend Celebrating Frogs ...">
+                                <img itemprop="contentUrl url" src='https://cosmicdrifters.com/wp-content/uploads/2023/01/Goblincore_Small.jpeg' alt='Explaining Goblincore: The Feral Fashion Trend Celebrating Frogs ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="349">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cosmic Drifters" />
+                                </span>
+                                <a href='https://cosmicdrifters.com/wp-content/uploads/2023/01/Goblincore_Small.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

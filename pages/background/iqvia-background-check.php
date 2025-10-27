@@ -1,0 +1,129 @@
+<title>Essential Guide to IQVIA Background Checks</title>
+                    <meta name="description" content="Discover the importance of IQVIA background checks in hiring. Learn how comprehensive verification protects company integrity and ensures a safe workplace. Get insights into the process today!">
+                    <meta name="keywords" content="iqvia background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/iqvia-background-check">
+                            <span itemprop="name">iqvia background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Guide to IQVIA Background Checks</h1>
+                <p>IQVIA conducts thorough background checks for potential employees to ensure a trustworthy workforce. Their process involves verifying previous employment, educational credentials, and conducting criminal history checks. This diligence not only protects the company's integrity but also ensures a safe environment for all stakeholders.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IQVIA I have cleared all the rounds of interview b... | Fishbowl">
+                                <img itemprop="contentUrl url" src='https://files.getfishbowl.com/content_preview_images/iqvia-i-have-cleared-all-the-rounds-of-interview-but-waiting-for-offer-letter-hr-said-background-verification-cleared.png' alt='IQVIA I have cleared all the rounds of interview b... | Fishbowl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fishbowl" />
+                                </span>
+                                <a href='https://files.getfishbowl.com/content_preview_images/iqvia-i-have-cleared-all-the-rounds-of-interview-but-waiting-for-offer-letter-hr-said-background-verification-cleared.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is this a legit interview invitation? : r/clinicalresearch">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/is-this-a-legit-interview-invitation-v0-1oe66mt7wh0b1.jpg?auto=webp&s=721cdf95e9479fa5ee54c67d58af17aa7fa6f727' alt='Is this a legit interview invitation? : r/clinicalresearch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1282">
+                                <meta itemprop="height" content="2181">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/is-this-a-legit-interview-invitation-v0-1oe66mt7wh0b1.jpg?auto=webp&s=721cdf95e9479fa5ee54c67d58af17aa7fa6f727' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hi Guys, Can anyone let me know how much time doe... | Fishbowl">
+                                <img itemprop="contentUrl url" src='https://files.getfishbowl.com/content_preview_images/hi-guys-can-anyone-let-me-know-how-much-time-does-iqvia-take-for-background-verification-and-to-extend-an-offerits-been-more-than.png' alt='Hi Guys, Can anyone let me know how much time doe... | Fishbowl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fishbowl" />
+                                </span>
+                                <a href='https://files.getfishbowl.com/content_preview_images/hi-guys-can-anyone-let-me-know-how-much-time-does-iqvia-take-for-background-verification-and-to-extend-an-offerits-been-more-than.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AGB 2022.10 - IQVIA (IQV) by YHamiltonBlog">
+                                <img itemprop="contentUrl url" src='https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F63c39144-cdb7-4355-b8a6-8876c48fca38_898x416.png' alt='AGB 2022.10 - IQVIA (IQV) by YHamiltonBlog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="898">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Analyzing Good Businesses - Substack" />
+                                </span>
+                                <a href='https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F63c39144-cdb7-4355-b8a6-8876c48fca38_898x416.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employment Verification for IQVIA | Truv">
+                                <img itemprop="contentUrl url" src='https://citadelid-resources.s3.amazonaws.com/website-company-logos/iqvia.png' alt='Employment Verification for IQVIA | Truv'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Truv" />
+                                </span>
+                                <a href='https://citadelid-resources.s3.amazonaws.com/website-company-logos/iqvia.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anybody had an offer rescinded bc of background ch... | Fishbowl">
+                                <img itemprop="contentUrl url" src='https://files.getfishbowl.com/content_preview_images/anybody-had-an-offer-rescinded-bc-of-background-check-deloitte-pwc-iqvia-accenture-ey-kpmg.png' alt='Anybody had an offer rescinded bc of background ch... | Fishbowl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fishbowl" />
+                                </span>
+                                <a href='https://files.getfishbowl.com/content_preview_images/anybody-had-an-offer-rescinded-bc-of-background-check-deloitte-pwc-iqvia-accenture-ey-kpmg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Questions and Answers about Working at IQVIA | Indeed.com">
+                                <img itemprop="contentUrl url" src='https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/03e043400efdf1e7d2f66b4d0a67997e' alt='Questions and Answers about Working at IQVIA | Indeed.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="256">
+                                <meta itemprop="height" content="256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Indeed" />
+                                </span>
+                                <a href='https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/03e043400efdf1e7d2f66b4d0a67997e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IQVIA Holdings: Selection and Interview process, Questions/Answers ...">
+                                <img itemprop="contentUrl url" src='https://www.devopsschool.com/blog/wp-content/uploads/2024/04/image-274.png' alt='IQVIA Holdings: Selection and Interview process, Questions/Answers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DevOps School" />
+                                </span>
+                                <a href='https://www.devopsschool.com/blog/wp-content/uploads/2024/04/image-274.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IQVIA Patient Flare Check on the App Store">
+                                <img itemprop="contentUrl url" src='https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/80/6b/f9/806bf941-c6ea-3b02-29d7-350879a430bd/AppIcon-1x_U007emarketing-3-P3-85-220.png/1200x630wa.png' alt='IQVIA Patient Flare Check on the App Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="App Store - Apple" />
+                                </span>
+                                <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/80/6b/f9/806bf941-c6ea-3b02-29d7-350879a430bd/AppIcon-1x_U007emarketing-3-P3-85-220.png/1200x630wa.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FAQs">
+                                <img itemprop="contentUrl url" src='https://cf-images.us-east-1.prod.boltdns.net/v1/static/4174796152001/1240a1dd-d497-476b-8c9c-bc1c4cf16c00/270b04ff-78de-4e89-8639-ec772151ad3e/1280x720/match/image.jpg' alt='FAQs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IQVIA" />
+                                </span>
+                                <a href='https://cf-images.us-east-1.prod.boltdns.net/v1/static/4174796152001/1240a1dd-d497-476b-8c9c-bc1c4cf16c00/270b04ff-78de-4e89-8639-ec772151ad3e/1280x720/match/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

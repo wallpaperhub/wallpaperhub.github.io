@@ -1,0 +1,129 @@
+<title>Essential Guide to Background Check Compliance</title>
+                    <meta name="description" content="Discover the key aspects of background check compliance. Learn about necessary legal requirements, candidate rights, and best practices to create a safe workplace. Ensure your hiring process is both effective and lawful with our comprehensive guide.">
+                    <meta name="keywords" content="background check compliance">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/background-check-compliance">
+                            <span itemprop="name">background check compliance</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Guide to Background Check Compliance</h1>
+                <p>Background check compliance is crucial for organizations aiming to ensure a safe and secure work environment. Companies must adhere to laws like the Fair Credit Reporting Act (FCRA) when conducting checks. This compliance includes obtaining candidate consent, providing necessary disclosures, and ensuring the accuracy of information to protect individuals’ rights.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Do a Background Check for Employment | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/42d0b2897b8d9c207dda315775b643e8/d66bc/Article-How-to-Run-a-BGC-1200x520-2.png' alt='How to Do a Background Check for Employment | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/42d0b2897b8d9c207dda315775b643e8/d66bc/Article-How-to-Run-a-BGC-1200x520-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fair Credit Reporting Act Background Check Compliance | HireSafe">
+                                <img itemprop="contentUrl url" src='https://www.hiresafe.com/wp-content/uploads/2017/02/FCRA-Compliance.jpg' alt='Fair Credit Reporting Act Background Check Compliance | HireSafe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HireSafe" />
+                                </span>
+                                <a href='https://www.hiresafe.com/wp-content/uploads/2017/02/FCRA-Compliance.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Screening Compliance | Sterling Talent Solutions">
+                                <img itemprop="contentUrl url" src='https://www.sterlingbackcheck.ca/wp-content/uploads/2019/06/1077-ST-CA-WBG-Be-Compliant-BG-Screens-TOC-840x600.jpg' alt='Background Screening Compliance | Sterling Talent Solutions'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="840">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sterling Backcheck" />
+                                </span>
+                                <a href='https://www.sterlingbackcheck.ca/wp-content/uploads/2019/06/1077-ST-CA-WBG-Be-Compliant-BG-Screens-TOC-840x600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Manage Background Check Compliance">
+                                <img itemprop="contentUrl url" src='https://offers.sterlingcheck.com/hubfs/CORP%20(Corporate_Marketing)/Image/TSK-8067-ST-US-INF-Covid-Compliance-Infographic-Q2_24-FINAL_cvr.jpg' alt='Manage Background Check Compliance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="467">
+                                <meta itemprop="height" content="585">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sterling" />
+                                </span>
+                                <a href='https://offers.sterlingcheck.com/hubfs/CORP%20(Corporate_Marketing)/Image/TSK-8067-ST-US-INF-Covid-Compliance-Infographic-Q2_24-FINAL_cvr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guide to Background Check Compliance - ProTildo">
+                                <img itemprop="contentUrl url" src='https://web.protildo.com/wp-content/uploads/elementor/thumbs/Compliance-pkvxzs23t7j3nn7rm1bzlv4252swp9cwl76rf3qmi8.jpeg' alt='Guide to Background Check Compliance - ProTildo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ProTildo" />
+                                </span>
+                                <a href='https://web.protildo.com/wp-content/uploads/elementor/thumbs/Compliance-pkvxzs23t7j3nn7rm1bzlv4252swp9cwl76rf3qmi8.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Latest in Multi-Jurisdictional Background Check Compliance ...">
+                                <img itemprop="contentUrl url" src='https://ogletree.com/app/uploads/2023/04/BackgroundChecks_GettyImages-917896552-scaled.jpg' alt='The Latest in Multi-Jurisdictional Background Check Compliance ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ogletree Deakins" />
+                                </span>
+                                <a href='https://ogletree.com/app/uploads/2023/04/BackgroundChecks_GettyImages-917896552-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adverse Action in Background Checks">
+                                <img itemprop="contentUrl url" src='https://blog.cisive.com/hs-fs/hubfs/Blog%20Callouts/Adverse%20Action%203.png?width=600&height=396&name=Adverse%20Action%203.png' alt='Adverse Action in Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="396">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cisive Blog" />
+                                </span>
+                                <a href='https://blog.cisive.com/hs-fs/hubfs/Blog%20Callouts/Adverse%20Action%203.png?width=600&height=396&name=Adverse%20Action%203.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check Compliance: 2020's Year In Review - Sterling, a ...">
+                                <img itemprop="contentUrl url" src='https://www.sterlingcheck.com/wp-content/uploads/2020/11/FCRA-Webinar-Blog-Hero-730x580-1.jpg' alt='Background Check Compliance: 2020's Year In Review - Sterling, a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="730">
+                                <meta itemprop="height" content="580">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sterling" />
+                                </span>
+                                <a href='https://www.sterlingcheck.com/wp-content/uploads/2020/11/FCRA-Webinar-Blog-Hero-730x580-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why Employers Need Written Background Check Policies">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/55c7a3e2e4b0fa365689d8aa/1627493418424-5ALJAHKV51GQIOSSTY6Y/background-check-compliance.jpg' alt='Why Employers Need Written Background Check Policies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="856">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Global Backgrounds" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/55c7a3e2e4b0fa365689d8aa/1627493418424-5ALJAHKV51GQIOSSTY6Y/background-check-compliance.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4 Ways to Improve FCRA Compliance">
+                                <img itemprop="contentUrl url" src='https://blog.cisive.com/hubfs/BLOG_%20What%20is%20FCRA%20Compliance_%20NO%20CTA.png' alt='4 Ways to Improve FCRA Compliance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cisive Blog" />
+                                </span>
+                                <a href='https://blog.cisive.com/hubfs/BLOG_%20What%20is%20FCRA%20Compliance_%20NO%20CTA.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

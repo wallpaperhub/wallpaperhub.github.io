@@ -1,0 +1,129 @@
+<title>Uncovering the History of the Enneagram: A Journey Through Time</title>
+                    <meta name="description" content="Explore the captivating history of the Enneagram, from its ancient roots to modern psychological applications. Discover how this powerful personality framework can enrich your life, enhance relationships, and foster personal growth. Join us on a journey through time!">
+                    <meta name="keywords" content="enneagram history">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/enneagram-history">
+                            <span itemprop="name">enneagram history</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Uncovering the History of the Enneagram: A Journey Through Time</h1>
+                <p>The Enneagram's history dates back to ancient traditions, with roots in Greek philosophy, early Christian mysticism, and the teachings of Gurdjieff in the 20th century. It evolved into a personality framework that categorizes nine distinct types. Today, the Enneagram is widely used for personal growth, relationships, and organizational development, blending spirituality and psychology.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Origins and History of the Enneagram">
+                                <img itemprop="contentUrl url" src='https://cdn.integrative9.com/website/images/history-timeline-lh.webp' alt='Origins and History of the Enneagram'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2150">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Integrative Enneagram Solutions" />
+                                </span>
+                                <a href='https://cdn.integrative9.com/website/images/history-timeline-lh.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Decoding the Origins of the Enneagram — Cultish">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5d1907d718a7500001707a62/1603825550865-BC6RA9N1RUVHPYMBLLMC/hipmom-enneagram-938x1024.jpg' alt='Decoding the Origins of the Enneagram — Cultish'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="938">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Cultish Show" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5d1907d718a7500001707a62/1603825550865-BC6RA9N1RUVHPYMBLLMC/hipmom-enneagram-938x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Origins and History of the Enneagram">
+                                <img itemprop="contentUrl url" src='https://cdn.integrative9.com/website/images/27-subtypes-wheel-lh.webp' alt='Origins and History of the Enneagram'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="772">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Integrative Enneagram Solutions" />
+                                </span>
+                                <a href='https://cdn.integrative9.com/website/images/27-subtypes-wheel-lh.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of the Enneagram — Michelle Kay Anderson">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/53349108e4b0826861aab04d/1620599744088-H8OL5WLMSG6SA9PVXK7J/enneagram-history.jpg' alt='The History of the Enneagram — Michelle Kay Anderson'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2165">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Michelle Kay Anderson" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/53349108e4b0826861aab04d/1620599744088-H8OL5WLMSG6SA9PVXK7J/enneagram-history.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Origin Of The Enneagram">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/KcOWI3K5fy8/maxresdefault.jpg' alt='The Origin Of The Enneagram'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/KcOWI3K5fy8/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of the Enneagram – Institut M.A.R.I.E.">
+                                <img itemprop="contentUrl url" src='http://blog.enneagramme-marie.fr/wp-content/uploads/2018/01/histoire-time-line.jpg' alt='History of the Enneagram – Institut M.A.R.I.E.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="653">
+                                <meta itemprop="height" content="881">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="A new enneagram point of view…" />
+                                </span>
+                                <a href='http://blog.enneagramme-marie.fr/wp-content/uploads/2018/01/histoire-time-line.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Origins and History of the Enneagram">
+                                <img itemprop="contentUrl url" src='https://cdn.integrative9.com/website/images/history-of-enneagram-lh.webp' alt='Origins and History of the Enneagram'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1208">
+                                <meta itemprop="height" content="958">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Integrative Enneagram Solutions" />
+                                </span>
+                                <a href='https://cdn.integrative9.com/website/images/history-of-enneagram-lh.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Articles | The Enneagram Personality Inventory, The basic history ...">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/641a102956dade09384c033a/64c1a12c125b60405bd257b7_enneagram-labels-01%2B2.jpeg' alt='Articles | The Enneagram Personality Inventory, The basic history ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Virtual Therapy Clinic" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/641a102956dade09384c033a/64c1a12c125b60405bd257b7_enneagram-labels-01%2B2.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spiritual Evolution + the Enneagram">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/5fa478c00a6905398d0646c9/63ec0dcd6ea2eccdc9b56606_Enneagram-overview.png' alt='Spiritual Evolution + the Enneagram'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="795">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.cqcounseling.com" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/5fa478c00a6905398d0646c9/63ec0dcd6ea2eccdc9b56606_Enneagram-overview.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Origins and History of the Enneagram">
+                                <img itemprop="contentUrl url" src='https://cdn.integrative9.com/website/images/ancient-history-pythagoras-lh.webp' alt='Origins and History of the Enneagram'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1134">
+                                <meta itemprop="height" content="922">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Integrative Enneagram Solutions" />
+                                </span>
+                                <a href='https://cdn.integrative9.com/website/images/ancient-history-pythagoras-lh.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

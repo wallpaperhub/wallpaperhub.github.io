@@ -1,0 +1,129 @@
+<title>Explore the Colorful World of Gacha City</title>
+                    <meta name="description" content="Discover Gacha City, a lively virtual landscape where you can collect characters, customize your environment, and engage in exciting gameplay. Join a thriving community, unleash your creativity, and embark on endless adventures. Dive into the fun of Gacha City today!">
+                    <meta name="keywords" content="gacha city background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/gacha-city-background">
+                            <span itemprop="name">gacha city background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Colorful World of Gacha City</h1>
+                <p>Gacha City is a vibrant virtual realm where players immerse themselves in animated landscapes filled with unique characters and customizable environments. Its captivating art and interactive gameplay reveal endless possibilities, fostering creativity and community as players collect items, create stories, and compete in challenges, ensuring every visit is a new adventure.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="310 Backgrounds for gacha life ideas | episode backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/ca/7d/86/ca7d8627f7fe82ac0a1e006836088362.jpg' alt='310 Backgrounds for gacha life ideas | episode backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="132">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/ca/7d/86/ca7d8627f7fe82ac0a1e006836088362.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cityscape City Town Anime Scenery Background Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e5/40/69/e54069d69fc11d04da9eef1f316b054e.jpg' alt='Cityscape City Town Anime Scenery Background Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e5/40/69/e54069d69fc11d04da9eef1f316b054e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="34 Gacha backgrounds ideas | anime background, episode backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d0/a0/41/d0a041652a8c5e8452f838747ea3dc92.jpg' alt='34 Gacha backgrounds ideas | anime background, episode backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d0/a0/41/d0a041652a8c5e8452f838747ea3dc92.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ff/19/c1/ff19c15898adb6477787c460310c1dc0.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ff/19/c1/ff19c15898adb6477787c460310c1dc0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom City Background I Made, Lmao. : r/GachaUnity">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/tba4hsil42p61.png' alt='Custom City Background I Made, Lmao. : r/GachaUnity'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/tba4hsil42p61.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="City Backgrounds: Gacha Club">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/HfA2_pLcGeI/maxresdefault.jpg' alt='City Backgrounds: Gacha Club'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/HfA2_pLcGeI/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ea/11/46/ea11464ade9346f02e4e000779c01909.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="415">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ea/11/46/ea11464ade9346f02e4e000779c01909.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gacha Backgrounds ✨">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/43/37/3d/43373d9c17168b7c9562659b6c585fc7.jpg' alt='Gacha Backgrounds ✨'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/43/37/3d/43373d9c17168b7c9562659b6c585fc7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download The Adventurer Is Ready - Gacha Background | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/gacha-background-wrimjp3d0lewqhe5.jpg' alt='Download The Adventurer Is Ready - Gacha Background | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1382">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/gacha-background-wrimjp3d0lewqhe5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="some gacha background edits i made! : r/GachaClub">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/some-gacha-background-edits-i-made-v0-l709360ir4pb1.jpg?width=2360&format=pjpg&auto=webp&s=af004b082f33c1bf88e674f3220263030f7ae15c' alt='some gacha background edits i made! : r/GachaClub'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2360">
+                                <meta itemprop="height" content="1640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/some-gacha-background-edits-i-made-v0-l709360ir4pb1.jpg?width=2360&format=pjpg&auto=webp&s=af004b082f33c1bf88e674f3220263030f7ae15c' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

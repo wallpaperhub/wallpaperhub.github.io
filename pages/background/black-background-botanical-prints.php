@@ -1,0 +1,129 @@
+<title>Stunning Black Background Botanical Prints for Home Decor</title>
+                    <meta name="description" content="Discover unique black background botanical prints that elevate your home decor. These stunning artworks feature vibrant plants against dark backdrops, perfect for adding elegance and a modern touch to any space. Transform your walls and bring the beauty of nature into your home effortlessly!">
+                    <meta name="keywords" content="black background botanical prints">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/black-background-botanical-prints">
+                            <span itemprop="name">black background botanical prints</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Black Background Botanical Prints for Home Decor</h1>
+                <p>Black background botanical prints add a striking element to home decor, showcasing lush greenery against a dark canvas. These prints not only create a stunning visual contrast but also evoke a sense of elegance and tranquility. Perfect for modern or classic interiors, they bring nature indoors while enhancing aesthetic appeal.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Set of 6 Pressed Flower Botanical Prints with Black Background - Dark  Floral Photography - Botanical Wall Art Prints - 5X7, 8X10 or 11X14 -  Unframed">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81nGXg1s0ZL._UF894,1000_QL80_.jpg' alt='Set of 6 Pressed Flower Botanical Prints with Black Background - Dark  Floral Photography - Botanical Wall Art Prints - 5X7, 8X10 or 11X14 -  Unframed'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="674">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81nGXg1s0ZL._UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Background Botanical Print Set of 6; Dark Botanicals With ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8386769/r/il/b60921/5155651564/il_fullxfull.5155651564_pjnf.jpg' alt='Black Background Botanical Print Set of 6; Dark Botanicals With ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8386769/r/il/b60921/5155651564/il_fullxfull.5155651564_pjnf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Botanicals add a Black Background to Any Botanical Print - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8386769/r/il/5312a6/1717259936/il_fullxfull.1717259936_5vup.jpg' alt='Black Botanicals add a Black Background to Any Botanical Print - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8386769/r/il/5312a6/1717259936/il_fullxfull.1717259936_5vup.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Peony Wall Art Moody Floral Painting Flower Black Background Flower  Picture Vintage Moody Art Prints Dark Floral Poster Black Botanical Canvas  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81UpKl5eNrL._AC_UF894,1000_QL80_.jpg' alt='Vintage Peony Wall Art Moody Floral Painting Flower Black Background Flower  Picture Vintage Moody Art Prints Dark Floral Poster Black Botanical Canvas  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="701">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81UpKl5eNrL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winston Porter Vintage Botanical with Butterfly on Black Background -  Wrapped Canvas Painting Print | Wayfair">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/19668748/compr-r85/1333/133307313/%22+Vintage+Botanical+With+Butterfly+On+Black+Background+%22+Painting+Print.jpg' alt='Winston Porter Vintage Botanical with Butterfly on Black Background -  Wrapped Canvas Painting Print | Wayfair'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3450">
+                                <meta itemprop="height" content="4050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/19668748/compr-r85/1333/133307313/%22+Vintage+Botanical+With+Butterfly+On+Black+Background+%22+Painting+Print.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Botanical Prints, Set of 3 Prints, Black Vintage Wild Botal Wall ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/24512579/r/il/0a6354/3574089318/il_570xN.3574089318_hg9v.jpg' alt='Botanical Prints, Set of 3 Prints, Black Vintage Wild Botal Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="470">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/24512579/r/il/0a6354/3574089318/il_570xN.3574089318_hg9v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Background Floral Studies III">
+                                <img itemprop="contentUrl url" src='https://imgc.artprintimages.com/img/print/vision-studio-black-background-floral-studies-iii_u-l-q1ihu1a0.jpg' alt='Black Background Floral Studies III'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Art.com" />
+                                </span>
+                                <a href='https://imgc.artprintimages.com/img/print/vision-studio-black-background-floral-studies-iii_u-l-q1ihu1a0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Framed Botanical Fern Wall Art, Black Background - 4 Pieces">
+                                <img itemprop="contentUrl url" src='https://cdn1.bigcommerce.com/server600/eqcqd/products/23273/images/869253/bhwyifpg1ue2sgyavcrh__58029.1651942672.772.1026.jpg?c=2' alt='Framed Botanical Fern Wall Art, Black Background - 4 Pieces'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="772">
+                                <meta itemprop="height" content="772">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wholesale Event Supplies & Wedding Centerpieces" />
+                                </span>
+                                <a href='https://cdn1.bigcommerce.com/server600/eqcqd/products/23273/images/869253/bhwyifpg1ue2sgyavcrh__58029.1651942672.772.1026.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DIY // Large & Inexpensive Botanical Art - K Sarah Designs">
+                                <img itemprop="contentUrl url" src='https://ksarahdesigns.typepad.com/.a/6a015433e2ad49970c017ee3a9f060970d-600wi' alt='DIY // Large & Inexpensive Botanical Art - K Sarah Designs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="K Sarah Designs - TypePad" />
+                                </span>
+                                <a href='https://ksarahdesigns.typepad.com/.a/6a015433e2ad49970c017ee3a9f060970d-600wi' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fern H Aged Black Background Black + Silver Shadowbox Frame Wall Art (size  options)">
+                                <img itemprop="contentUrl url" src='http://www.bseid.com/cdn/shop/products/392H_83388_QA-2.jpg?v=1660672830' alt='Fern H Aged Black Background Black + Silver Shadowbox Frame Wall Art (size  options)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BSEID" />
+                                </span>
+                                <a href='http://www.bseid.com/cdn/shop/products/392H_83388_QA-2.jpg?v=1660672830' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

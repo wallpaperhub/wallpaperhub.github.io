@@ -1,0 +1,129 @@
+<title>Lavender Purple Marble Wallpaper: Elegance Redefined</title>
+                    <meta name="description" content="Discover the charm of lavender purple marble wallpaper. Ideal for modern homes, this wallpaper enhances interiors with its luxurious design and calming hues. Perfect for bedrooms, living rooms, or offices, it brings a serene touch to your space. Shop now and elevate your decor effortlessly!">
+                    <meta name="keywords" content="lavender purple marble wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/lavender-purple-marble-wallpaper">
+                            <span itemprop="name">lavender purple marble wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Lavender Purple Marble Wallpaper: Elegance Redefined</h1>
+                <p>Transform your space with stunning lavender purple marble wallpaper. This elegant design combines soft lavender tones with the timeless beauty of marble patterns, perfect for any room. Whether you want to create a calming atmosphere in a bedroom or a chic aesthetic in a living area, this wallpaper adds a touch of sophistication to your decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Fluid Art Wallpaper, Purple Marble, Removable Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/23287991/r/il/29df4b/2954424259/il_fullxfull.2954424259_2x2b.jpg' alt='Purple Fluid Art Wallpaper, Purple Marble, Removable Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1388">
+                                <meta itemprop="height" content="926">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/23287991/r/il/29df4b/2954424259/il_fullxfull.2954424259_2x2b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5,900+ Purple Marble Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1365189625/vector/violet-lavender-liquid-watercolor-marble-background-with-golden-lines-pastel-purple.jpg?s=612x612&w=0&k=20&c=9Y3YeYzXBTgdBSBT5xL7SowkJbCmRoxQdlKn7RAxD9U=' alt='5,900+ Purple Marble Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1365189625/vector/violet-lavender-liquid-watercolor-marble-background-with-golden-lines-pastel-purple.jpg?s=612x612&w=0&k=20&c=9Y3YeYzXBTgdBSBT5xL7SowkJbCmRoxQdlKn7RAxD9U=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lilac marble">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/17/11/df/1711dfbe62269c9dbec3636fa025fdc2.jpg' alt='Lilac marble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/17/11/df/1711dfbe62269c9dbec3636fa025fdc2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Marble Images – Browse 293,911 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/07/88/67/79/360_F_788677951_hkjKT0KN1TYBsAtlWuKlEZVCoFBZVh96.jpg' alt='Purple Marble Images – Browse 293,911 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="635">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/07/88/67/79/360_F_788677951_hkjKT0KN1TYBsAtlWuKlEZVCoFBZVh96.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A beautiful purple marble background. Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-marble-ithcm4io0a0yr0b0.jpg' alt='Download A beautiful purple marble background. Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1461">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-marble-ithcm4io0a0yr0b0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5,900+ Purple Marble Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1307711147/vector/space-background-with-purple-watercolor-waves-or-fluid-art-in-alcohol-ink-style-with-golden.jpg?s=612x612&w=0&k=20&c=B50_UD8tTCFMBanqMdgY_inJDmWTCPRKtQ_ii1Q2e9I=' alt='5,900+ Purple Marble Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="437">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1307711147/vector/space-background-with-purple-watercolor-waves-or-fluid-art-in-alcohol-ink-style-with-golden.jpg?s=612x612&w=0&k=20&c=B50_UD8tTCFMBanqMdgY_inJDmWTCPRKtQ_ii1Q2e9I=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Marble Wallpaper Iphone - 25 New Looks For Your Screen ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/f5/0b/4c/f50b4c349bb7fe10f6a3c8ea9e4d8650.jpg' alt='Purple Marble Wallpaper Iphone - 25 New Looks For Your Screen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="717">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/f5/0b/4c/f50b4c349bb7fe10f6a3c8ea9e4d8650.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Marble Background Images – Browse 248,796 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/97/29/05/360_F_497290530_6XttEbwgkmkWo4u8JreEEya1UrPpcOGU.jpg' alt='Purple Marble Background Images – Browse 248,796 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="557">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/97/29/05/360_F_497290530_6XttEbwgkmkWo4u8JreEEya1UrPpcOGU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Marble Wallpaper Peel and Stick, Acrylic Paint Wall Art Non ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/44246718/r/il/39dc8a/5337492702/il_fullxfull.5337492702_fxbu.jpg' alt='Purple Marble Wallpaper Peel and Stick, Acrylic Paint Wall Art Non ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/44246718/r/il/39dc8a/5337492702/il_fullxfull.5337492702_fxbu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Purple Marble Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-marble-j4hobqlxv21taz16.jpg' alt='100+] Purple Marble Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1259">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-marble-j4hobqlxv21taz16.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

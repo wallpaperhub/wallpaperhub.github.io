@@ -1,0 +1,129 @@
+<title>“Cute iPhone App Wallpapers: Adorable Designs for Your Screen”</title>
+                    <meta name="description" content="“Discover the cutest iPhone app wallpapers to personalize your device! Explore a delightful collection of charming designs and bring joy to your home or lock screen. Find your perfect cute wallpaper now for a refreshing look!”">
+                    <meta name="keywords" content="cute iphone app wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/cute-iphone-app-wallpaper">
+                            <span itemprop="name">cute iphone app wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>“Cute iPhone App Wallpapers: Adorable Designs for Your Screen”</h1>
+                <p>Transform your iPhone with an array of cute wallpapers that reflect your personality! From adorable animals to charming patterns, our selection offers something for everyone. Brighten up your home screen or lock screen with delightful designs that bring joy every time you unlock your device. Explore and discover your favorite cute wallpaper today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute little app boxes. Fits iPhone 5 homescreen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ec/89/c3/ec89c3c0519557ee5e3703b2eac71735.jpg' alt='Cute little app boxes. Fits iPhone 5 homescreen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ec/89/c3/ec89c3c0519557ee5e3703b2eac71735.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Neutral Hand Drawn Ios & Android App Icons | Home Screen Set | Widgets  | Wallpapers | Beige Browns | Kawaii | Bakery | Studiocherii - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/31957251/r/il/ca076c/3824465843/il_1080xN.3824465843_c005.jpg' alt='Cute Neutral Hand Drawn Ios & Android App Icons | Home Screen Set | Widgets  | Wallpapers | Beige Browns | Kawaii | Bakery | Studiocherii - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/31957251/r/il/ca076c/3824465843/il_1080xN.3824465843_c005.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="phone walpaper <3">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6c/5f/1c/6c5f1c75a7ab425fcfd75d2d36a7fa49.jpg' alt='phone walpaper <3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1595">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6c/5f/1c/6c5f1c75a7ab425fcfd75d2d36a7fa49.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Iphone Simple Cute Squares Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/iphone-simple-cute-l4zlhy76ep3my5gn.jpg' alt='Download Iphone Simple Cute Squares Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/iphone-simple-cute-l4zlhy76ep3my5gn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+ Free Mobile Wallpapers for iPhone - Solt Wagner">
+                                <img itemprop="contentUrl url" src='https://framerusercontent.com/images/RbEhTCdj7HagqGnGBVBJGQK92s.png' alt='200+ Free Mobile Wallpapers for iPhone - Solt Wagner'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Solt Wagner" />
+                                </span>
+                                <a href='https://framerusercontent.com/images/RbEhTCdj7HagqGnGBVBJGQK92s.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Such a cool app!!! Decorate your iPhone apps & wallpaper @ CocoPPa">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c3/80/fd/c380fd3e71d7603d0a61eab20576cb2f.jpg' alt='Such a cool app!!! Decorate your iPhone apps & wallpaper @ CocoPPa'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c3/80/fd/c380fd3e71d7603d0a61eab20576cb2f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Aesthetic iPhone Icon Set with Widgets and Wallpapers Cute Kitty App  Icons in Pastel Shades Cat Kawaii Theme for iOS Android, 210603">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25353763/r/il/01f8c1/3179319361/il_570xN.3179319361_skwf.jpg' alt='Kawaii Aesthetic iPhone Icon Set with Widgets and Wallpapers Cute Kitty App  Icons in Pastel Shades Cat Kawaii Theme for iOS Android, 210603'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25353763/r/il/01f8c1/3179319361/il_570xN.3179319361_skwf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Kitty iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/f8/89/f4/f889f46b5512ed542dbedcddc9e1b6d1.jpg' alt='Hello Kitty iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/f8/89/f4/f889f46b5512ed542dbedcddc9e1b6d1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Brighten up your day with this Glamorous Cute Iphone ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-iphone-design-06e44pm96m4mx89a.jpg' alt='Download Brighten up your day with this Glamorous Cute Iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-iphone-design-06e44pm96m4mx89a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="App Icons, iPhone and iPad App Icons, iPhone and iPad Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27215857/r/il/c133e2/3466242332/il_570xN.3466242332_1f8g.jpg' alt='App Icons, iPhone and iPad App Icons, iPhone and iPad Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27215857/r/il/c133e2/3466242332/il_570xN.3466242332_1f8g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

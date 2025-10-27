@@ -1,0 +1,129 @@
+<title>Epic Video Game Peel and Stick Wallpaper for Gamers</title>
+                    <meta name="description" content="Discover the ultimate video game peel and stick wallpaper to enhance your gaming space! Easy to apply and removable, our wallpapers feature favorite characters and themes. Perfect for any room, they add a fun touch without leaving a mess. Level up your decor effortlessly! Shop now!">
+                    <meta name="keywords" content="video game peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/video-game-peel-and-stick-wallpaper">
+                            <span itemprop="name">video game peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Video Game Peel and Stick Wallpaper for Gamers</h1>
+                <p>Transform your space with vibrant video game peel and stick wallpaper! Ideal for gamers, this removable wallpaper features beloved characters and iconic scenes, easy to apply and reposition without damaging walls. Perfect for game rooms or kids’ bedrooms, it adds personality while ensuring a mess-free installation. Level up your decor today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gamer Peel and Stick Wallpaper / Gaming Wallpaper / Boy Teenager ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/29168372/r/il/4a60eb/3726472548/il_fullxfull.3726472548_375c.jpg' alt='Gamer Peel and Stick Wallpaper / Gaming Wallpaper / Boy Teenager ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/29168372/r/il/4a60eb/3726472548/il_fullxfull.3726472548_375c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TOARTi Game Wallpaper for Boys Bedroom Peel and Stick Gamer ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81ErsifSQOL.jpg' alt='TOARTi Game Wallpaper for Boys Bedroom Peel and Stick Gamer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81ErsifSQOL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Video Game Electronic Game Devices and Gadgets on Dark Background ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21073255/r/il/60ebe7/2642154434/il_570xN.2642154434_j8ml.jpg' alt='Video Game Electronic Game Devices and Gadgets on Dark Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21073255/r/il/60ebe7/2642154434/il_570xN.2642154434_j8ml.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Removable Wallpaper Peel and Stick Wallpaper Wall Paper Wall Mural - Video  Gamer- Control Wallpaper - B508">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.6011769936_6uw5.jpg?v=1722517041&width=1946' alt='Removable Wallpaper Peel and Stick Wallpaper Wall Paper Wall Mural - Video  Gamer- Control Wallpaper - B508'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.6011769936_6uw5.jpg?v=1722517041&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gamer Peel and Stick Wallpaper / Gaming Wallpaper / Teenager Wall ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/29168372/r/il/d4d09b/3436167015/il_570xN.3436167015_trcj.jpg' alt='Gamer Peel and Stick Wallpaper / Gaming Wallpaper / Teenager Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/29168372/r/il/d4d09b/3436167015/il_570xN.3436167015_trcj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Removable Wallpaper Peel and Stick Wallpaper Wall Paper Wall ...">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.6059849337_uump.jpg?v=1722524467' alt='Removable Wallpaper Peel and Stick Wallpaper Wall Paper Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="2200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.6059849337_uump.jpg?v=1722524467' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TOARTi Game Wallpaper for Boys Bedroom Peel and Stick Gamer ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81kf6XGy9TL._AC_UF894,1000_QL80_.jpg' alt='TOARTi Game Wallpaper for Boys Bedroom Peel and Stick Gamer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81kf6XGy9TL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Gaming Children Removable Wallpaper 8569| Walls By Me">
+                                <img itemprop="contentUrl url" src='https://wallsbyme.com/cdn/shop/files/children_70848569_05-sw_grande.jpg?v=1723297710' alt='Blue Gaming Children Removable Wallpaper 8569| Walls By Me'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls By Me" />
+                                </span>
+                                <a href='https://wallsbyme.com/cdn/shop/files/children_70848569_05-sw_grande.jpg?v=1723297710' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Removable Wallpaper Peel and Stick Wallpaper Wall Paper Wall Mural - Video  Gamer- Control Wallpaper - B508">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.6059845275_ek2d.jpg?v=1722517048&width=1946' alt='Removable Wallpaper Peel and Stick Wallpaper Wall Paper Wall Mural - Video  Gamer- Control Wallpaper - B508'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.6059845275_ek2d.jpg?v=1722517048&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gamer Wallpaper / Gaming Wallpaper / Teenager Wall Mural ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/29168372/r/il/827f2b/3388695448/il_570xN.3388695448_r4jg.jpg' alt='Gamer Wallpaper / Gaming Wallpaper / Teenager Wall Mural ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/29168372/r/il/827f2b/3388695448/il_570xN.3388695448_r4jg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

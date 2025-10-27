@@ -1,0 +1,129 @@
+<title>Stunning Akira Phone Wallpapers for Anime Fans</title>
+                    <meta name="description" content="Discover breathtaking Akira phone wallpapers that bring the iconic anime to life on your device. Choose from an array of vibrant designs to express your passion for this classic story, while keeping your screen stylish and unique. Perfect for anime lovers seeking fresh inspiration!">
+                    <meta name="keywords" content="akira phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/akira-phone-wallpaper">
+                            <span itemprop="name">akira phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Akira Phone Wallpapers for Anime Fans</h1>
+                <p>Explore the vibrant world of Akira with stunning phone wallpapers that capture the essence of the iconic anime. From breathtaking scenes to dynamic character designs, these wallpapers will transform your device. Perfect for fans looking to showcase their love for Akira while keeping their screens fresh and inspiring.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Akira Phone in 2020 iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/61/b9/d2/61b9d2d8da9d6a5a4f475852273e95c2.jpg' alt='Akira Phone in 2020 iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/61/b9/d2/61b9d2d8da9d6a5a4f475852273e95c2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hey Guys, I made this wallpaper from he anime movie "Akira" which ...">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/L9isOjJ.jpg' alt='Hey Guys, I made this wallpaper from he anime movie "Akira" which ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.imgur.com/L9isOjJ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My new wallpaper of one of my fav Manga Panels. I also love RED so ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/z50sth6oaqfd1.jpeg' alt='My new wallpaper of one of my fav Manga Panels. I also love RED so ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="3088">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/z50sth6oaqfd1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WallpaperSun">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0c/7c/ea/0c7cea6cd00ce2a2dc2613cfee7bcb4a.jpg' alt='WallpaperSun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1367">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0c/7c/ea/0c7cea6cd00ce2a2dc2613cfee7bcb4a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AKIRA PHONE WALLPAPER - Heroscreen | Free image stock. Background ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD7tTcIh_5Yhbrr-BLkxEZC2IW_L0fyDdkkNkdDTz5ttq5jYgCtbY46ynqy9sY3OULPqV-y6_-c9Cz2yG34f-dxRvZnpltA4FpNvR7DRTPcuXLAHVNwl3LAOr_jGsTSORWyloyDnIDQAI/w1600/akira+wallpaper.jpg' alt='AKIRA PHONE WALLPAPER - Heroscreen | Free image stock. Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1837">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD7tTcIh_5Yhbrr-BLkxEZC2IW_L0fyDdkkNkdDTz5ttq5jYgCtbY46ynqy9sY3OULPqV-y6_-c9Cz2yG34f-dxRvZnpltA4FpNvR7DRTPcuXLAHVNwl3LAOr_jGsTSORWyloyDnIDQAI/w1600/akira+wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Akira Wallpaper Hd Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/akira-black-and-white-city-kbo1x1sqlvu6xb3a.webp' alt='Akira Wallpaper Hd Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/akira-black-and-white-city-kbo1x1sqlvu6xb3a.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hey Guys, I made this wallpaper from he anime movie "Akira" which ...">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/CtwwiDS.jpg' alt='Hey Guys, I made this wallpaper from he anime movie "Akira" which ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="1927">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.imgur.com/CtwwiDS.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WallpaperSun">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4c/6e/42/4c6e4216fe3b7b003a54e82489fce308.jpg' alt='WallpaperSun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4c/6e/42/4c6e4216fe3b7b003a54e82489fce308.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Akira HD iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp8136892.png' alt='Akira HD iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="2164">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp8136892.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AKIRA MOBILE WALLPAPER - Heroscreen | Free image stock. Background ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzcdn2x3hVzRsRBhevq29nVD1idW_K9PMJAkSRGN1qkuczk410sTzejCIWonifSvqK83EiimKX8GWgPcwiSAd-UBil3tt68ybY4KlbWfa5Zc1hM5Ghs-hTzeJDD4siUs0vDecNsHVoaklv/d/AKIRA-WHITE-WALLPAPER.jpg' alt='AKIRA MOBILE WALLPAPER - Heroscreen | Free image stock. Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1205">
+                                <meta itemprop="height" content="2543">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzcdn2x3hVzRsRBhevq29nVD1idW_K9PMJAkSRGN1qkuczk410sTzejCIWonifSvqK83EiimKX8GWgPcwiSAd-UBil3tt68ybY4KlbWfa5Zc1hM5Ghs-hTzeJDD4siUs0vDecNsHVoaklv/d/AKIRA-WHITE-WALLPAPER.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

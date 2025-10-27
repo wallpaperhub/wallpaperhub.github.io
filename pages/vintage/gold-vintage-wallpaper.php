@@ -1,0 +1,129 @@
+<title>Transform Your Space with Gold Vintage Wallpaper</title>
+                    <meta name="description" content="Explore the elegance of gold vintage wallpaper! Perfect for enhancing your home decor, this timeless design adds sophistication and charm to any room. Shop now to find the ideal wallpaper for a luxurious statement look that stands out.">
+                    <meta name="keywords" content="gold vintage wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage">
+                            <span itemprop="name">Vintage</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage/gold-vintage-wallpaper">
+                            <span itemprop="name">gold vintage wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Gold Vintage Wallpaper</h1>
+                <p>Gold vintage wallpaper adds a touch of elegance and nostalgia to any space. Its intricate patterns and rich hues effortlessly elevate interiors, evoking a sense of timeless charm. Ideal for creating a statement wall or enveloping an entire room, this wallpaper will transform your home with a luxurious, classic feel. Embrace vintage aesthetics today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1960s Vintage Wallpaper Gold Brown Damask - Rosie's Vintage Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-own6dl/images/stencil/1280x1280/products/3617/13810/vintage-wallpaper-74__36578.1679255146.jpg?c=2' alt='1960s Vintage Wallpaper Gold Brown Damask - Rosie's Vintage Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rosie's Vintage Wallpaper" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-own6dl/images/stencil/1280x1280/products/3617/13810/vintage-wallpaper-74__36578.1679255146.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Chinoiserie Peel and Stick Wallpaper With Birds, Gold ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38261808/r/il/91aa54/5638151013/il_570xN.5638151013_eu7j.jpg' alt='Vintage Chinoiserie Peel and Stick Wallpaper With Birds, Gold ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="445">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38261808/r/il/91aa54/5638151013/il_570xN.5638151013_eu7j.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ReWallpaper Vintage Gold Floral Wallpaper Garden Bird Flower Peel and Stick  Wallpaper for Bedroom Accent Wall 17.5in X 10ft Dark Cyan Teal Contact ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91kzf+2bdbL.jpg' alt='ReWallpaper Vintage Gold Floral Wallpaper Garden Bird Flower Peel and Stick  Wallpaper for Bedroom Accent Wall 17.5in X 10ft Dark Cyan Teal Contact ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91kzf+2bdbL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Wallpaper Roll Yellow Pattern Wallpaper, Home Decor, Wall ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17404047/r/il/eb4be2/1583091344/il_fullxfull.1583091344_9ock.jpg' alt='Vintage Wallpaper Roll Yellow Pattern Wallpaper, Home Decor, Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1143">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17404047/r/il/eb4be2/1583091344/il_fullxfull.1583091344_9ock.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1970s Retro Vintage Wallpaper Yellow Gold Damask">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-own6dl/images/stencil/1280x1280/products/3727/13795/vintage-wallpaper-60__52864.1679248764.jpg?c=2' alt='1970s Retro Vintage Wallpaper Yellow Gold Damask'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rosie's Vintage Wallpaper" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-own6dl/images/stencil/1280x1280/products/3727/13795/vintage-wallpaper-60__52864.1679248764.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="UniGoos Light Gold Vintage Floral with Butterfly Peel and Stick Wallpaper  Retro Vinyl Self-Adhesive Temporary Wall Paper Roll Black Background ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/A1Y5Q2xqWbL.jpg' alt='UniGoos Light Gold Vintage Floral with Butterfly Peel and Stick Wallpaper  Retro Vinyl Self-Adhesive Temporary Wall Paper Roll Black Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/A1Y5Q2xqWbL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper blue gold brass Metallic Textured Victorian vintage rustic Damask  roll | eBay">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/ThAAAOSwVB5c9Yaq/s-l400.jpg' alt='Wallpaper blue gold brass Metallic Textured Victorian vintage rustic Damask  roll | eBay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/ThAAAOSwVB5c9Yaq/s-l400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7070-10 Vintage paper Wallpaper damask violet gold textured 3D">
+                                <img itemprop="contentUrl url" src='https://wallcoveringsmart.com/cdn/shop/products/damask-gold-wallpaper-textured.jpg?v=1562961409' alt='7070-10 Vintage paper Wallpaper damask violet gold textured 3D'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1557">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallcoverings mart" />
+                                </span>
+                                <a href='https://wallcoveringsmart.com/cdn/shop/products/damask-gold-wallpaper-textured.jpg?v=1562961409' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Vintage Wallpaper / Peel and Stick Wallpaper Removable Wallpaper  Home Decor Wall Art Wall Decor Room Decor - D071">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/products/il_fullxfull.4964739950_8s60.jpg?v=1727625809&width=1445' alt='Floral Vintage Wallpaper / Peel and Stick Wallpaper Removable Wallpaper  Home Decor Wall Art Wall Decor Room Decor - D071'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1445">
+                                <meta itemprop="height" content="1336">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/products/il_fullxfull.4964739950_8s60.jpg?v=1727625809&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant Art Deco Black and Gold Wallpaper">
+                                <img itemprop="contentUrl url" src='https://happywall-statix.imgix.net/rooms/skew-pattern-1-d.jpg?w=2560&h=1280&fit=min&crop=center&auto=format&q=50&blend64=aHR0cHM6Ly9oYXBweXdhbGwtaW1nLWdhbGxlcnkuaW1naXgubmV0Lzg2NzM5Lzg2NzM5LTMwOC0zMDAweDE1MDA5NWRhMjVlODgyMGVkM2Q3NGY4YTk4YjlkZTdiNTBhZi5qcGc_dz0yNTYwJnE9OTkmYmxlbmQtYWxwaGE9MSZibGVuZC1jb2xvcj0wMDAwMDAmYnJpPTYmc2F0PTEw&blend-mode=multiply&mark64=aHR0cHM6Ly9oYXBweXdhbGwtc3RhdGl4LmltZ2l4Lm5ldC9yb29tcy9za2V3LXBhdHRlcm4tMS1kLnBuZz93PTI1NjAmaD0xMjgwJmZpdD1taW4mY3JvcD1jZW50ZXImYXV0bz1mb3JtYXQmcT01MA%3D%3D&mark-x=0&mark-y=0' alt='Elegant Art Deco Black and Gold Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-statix.imgix.net/rooms/skew-pattern-1-d.jpg?w=2560&h=1280&fit=min&crop=center&auto=format&q=50&blend64=aHR0cHM6Ly9oYXBweXdhbGwtaW1nLWdhbGxlcnkuaW1naXgubmV0Lzg2NzM5Lzg2NzM5LTMwOC0zMDAweDE1MDA5NWRhMjVlODgyMGVkM2Q3NGY4YTk4YjlkZTdiNTBhZi5qcGc_dz0yNTYwJnE9OTkmYmxlbmQtYWxwaGE9MSZibGVuZC1jb2xvcj0wMDAwMDAmYnJpPTYmc2F0PTEw&blend-mode=multiply&mark64=aHR0cHM6Ly9oYXBweXdhbGwtc3RhdGl4LmltZ2l4Lm5ldC9yb29tcy9za2V3LXBhdHRlcm4tMS1kLnBuZz93PTI1NjAmaD0xMjgwJmZpdD1taW4mY3JvcD1jZW50ZXImYXV0bz1mb3JtYXQmcT01MA%3D%3D&mark-x=0&mark-y=0' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

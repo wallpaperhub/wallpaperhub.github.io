@@ -1,0 +1,129 @@
+<title>Vibrant Lip Gloss Aesthetic Wallpapers for Your Screen</title>
+                    <meta name="description" content="Discover stunning lip gloss aesthetic wallpapers that brighten your screens with colors and styles that exude glamour. Perfect for beauty lovers, these designs offer a chic touch to your device. Elevate your aesthetic with our trendy collection today!">
+                    <meta name="keywords" content="lip gloss aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/lip-gloss-aesthetic-wallpaper">
+                            <span itemprop="name">lip gloss aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Lip Gloss Aesthetic Wallpapers for Your Screen</h1>
+                <p>Enhance your device with lip gloss aesthetic wallpaper that captures the essence of beauty and vibrancy. This stylish collection features glossy finishes, pastel shades, and playful designs that reflect modern femininity. Perfect for beauty enthusiasts and anyone who loves a touch of glam, these wallpapers bring a fresh, chic vibe to your screens.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lip Gloss Aesthetic Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a5/9a/91/a59a914bb98369d7ce160afb1ed5e10d.jpg' alt='Lip Gloss Aesthetic Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="598">
+                                <meta itemprop="height" content="1063">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a5/9a/91/a59a914bb98369d7ce160afb1ed5e10d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lip gloss wallpaper - Aesthetic Lip gloss Quotes">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6a/3d/92/6a3d922935d673a49a044c85d417d301.jpg' alt='Lip gloss wallpaper - Aesthetic Lip gloss Quotes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6a/3d/92/6a3d922935d673a49a044c85d417d301.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="glossy✨">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/9a/2a/5e/9a2a5e6585003b6c0fc52abf7339d9a7.jpg' alt='glossy✨'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/9a/2a/5e/9a2a5e6585003b6c0fc52abf7339d9a7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="✰           ℯ      ℯ      ✰">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4e/19/82/4e1982cc9c6c261aa6a1c18ae242573f.jpg' alt='✰           ℯ      ℯ      ✰'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4e/19/82/4e1982cc9c6c261aa6a1c18ae242573f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f4/1a/b4/f41ab43a291b5b664b7ca117476c8924.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f4/1a/b4/f41ab43a291b5b664b7ca117476c8924.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="g l o s s i e r">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/32/8b/b4/328bb4608b0b5451e5d79bdf715d4b7d.jpg' alt='g l o s s i e r'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/32/8b/b4/328bb4608b0b5451e5d79bdf715d4b7d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Pink pastel lip gloss on a background of sweets.">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/pink-pastel-lip-gloss-background-sweets_97916-830.jpg' alt='Premium Photo | Pink pastel lip gloss on a background of sweets.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="417">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/pink-pastel-lip-gloss-background-sweets_97916-830.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/4e/cc/55/4ecc55ec49795ffad4076173ec5a3ad1.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="674">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/4e/cc/55/4ecc55ec49795ffad4076173ec5a3ad1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content=""VSCO Wallpaper Lips " Poster for Sale by asun5 | Redbubble">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.1231182018.0626/flat,750x,075,f-pad,750x1000,f8f8f8.webp' alt='"VSCO Wallpaper Lips " Poster for Sale by asun5 | Redbubble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.1231182018.0626/flat,750x,075,f-pad,750x1000,f8f8f8.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glitter gloss, lip gloss, pink, pink sparkles, sparkle, sparkles ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/152/497/HD-wallpaper-glitter-gloss-lip-gloss-pink-pink-sparkles-sparkle-sparkles.jpg' alt='Glitter gloss, lip gloss, pink, pink sparkles, sparkle, sparkles ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/152/497/HD-wallpaper-glitter-gloss-lip-gloss-pink-pink-sparkles-sparkle-sparkles.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

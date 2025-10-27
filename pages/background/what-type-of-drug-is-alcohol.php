@@ -1,0 +1,129 @@
+<title>Understanding Alcohol: A Psychoactive Depressant</title>
+                    <meta name="description" content="Explore alcohol, a widely used depressant that affects mental and physical functions. Learn its impact on health, behavior, and the risks associated with excessive consumption. Stay informed about responsible drinking and its effects on society.">
+                    <meta name="keywords" content="what type of drug is alcohol?">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/what-type-of-drug-is-alcohol">
+                            <span itemprop="name">what type of drug is alcohol?</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Alcohol: A Psychoactive Depressant</h1>
+                <p>Alcohol is a psychoactive substance classified as a depressant, which affects the central nervous system. It slows down brain function, leading to relaxed inhibitions and impaired coordination. While commonly consumed in various beverages, excessive use can lead to addiction, health issues, and negative social impacts.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is Alcohol a Drug? Here's the Truth | North Jersey Recovery Center">
+                                <img itemprop="contentUrl url" src='https://cdn-hndnj.nitrocdn.com/BaXSTRzyMsthpiYjasLuwHAAoNCRaGqF/assets/images/optimized/rev-3e47d6b/northjerseyrecovery.com/wp-content/uploads/2020/09/NJRC_ALCOHOL_DRUG_V1.jpg' alt='Is Alcohol a Drug? Here's the Truth | North Jersey Recovery Center'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="730">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="North Jersey Recovery Center" />
+                                </span>
+                                <a href='https://cdn-hndnj.nitrocdn.com/BaXSTRzyMsthpiYjasLuwHAAoNCRaGqF/assets/images/optimized/rev-3e47d6b/northjerseyrecovery.com/wp-content/uploads/2020/09/NJRC_ALCOHOL_DRUG_V1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alcohol - Alcohol and Drug Foundation">
+                                <img itemprop="contentUrl url" src='https://cdn.adf.org.au/media/images/Drug_wheel_segment_-_Depressants_segment2x.original.png' alt='Alcohol - Alcohol and Drug Foundation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1244">
+                                <meta itemprop="height" content="834">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alcohol and Drug Foundation" />
+                                </span>
+                                <a href='https://cdn.adf.org.au/media/images/Drug_wheel_segment_-_Depressants_segment2x.original.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is Alcohol a Drug? 7+ Facts That Explain Its True Role">
+                                <img itemprop="contentUrl url" src='https://www.sandstonecare.com/wp-content/uploads/2021/08/04-Legal-Vs-Illegal-Drugs-Inline-Image.png' alt='Is Alcohol a Drug? 7+ Facts That Explain Its True Role'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sandstone Care" />
+                                </span>
+                                <a href='https://www.sandstonecare.com/wp-content/uploads/2021/08/04-Legal-Vs-Illegal-Drugs-Inline-Image.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is alcohol a drug? Demystifying alcohol">
+                                <img itemprop="contentUrl url" src='https://rehabsuk.com/_nuxt/image/78fd11.webp' alt='Is alcohol a drug? Demystifying alcohol'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rehabs UK" />
+                                </span>
+                                <a href='https://rehabsuk.com/_nuxt/image/78fd11.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is Alcohol a Drug? 7+ Facts That Explain Its True Role">
+                                <img itemprop="contentUrl url" src='https://www.sandstonecare.com/wp-content/uploads/2021/08/Is-Alcohol-a-Drug-Pinterest-Infographic.png' alt='Is Alcohol a Drug? 7+ Facts That Explain Its True Role'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sandstone Care" />
+                                </span>
+                                <a href='https://www.sandstonecare.com/wp-content/uploads/2021/08/Is-Alcohol-a-Drug-Pinterest-Infographic.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Type of Drug Is Alcohol?">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/64c82f5e39f4b5782fe3c933/66560433234179e28e49a23e_Screenshot%202024-05-29%20001956.png' alt='What Type of Drug Is Alcohol?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="830">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wellbrook Recovery" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/64c82f5e39f4b5782fe3c933/66560433234179e28e49a23e_Screenshot%202024-05-29%20001956.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alcohol and Other Drug Information – Student Well-Being | Missouri S&T">
+                                <img itemprop="contentUrl url" src='https://wellbeing.mst.edu/media/archive/minerwellness/DrugClassChart.jpg' alt='Alcohol and Other Drug Information – Student Well-Being | Missouri S&T'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3300">
+                                <meta itemprop="height" content="2550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wellbeing.mst.edu - Missouri S&T" />
+                                </span>
+                                <a href='https://wellbeing.mst.edu/media/archive/minerwellness/DrugClassChart.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is Alcohol Considered a Drug? Understanding Alcohol Addiction ...">
+                                <img itemprop="contentUrl url" src='https://www.choicepointhealth.com/wp-content/uploads/2021/07/1-13.jpg' alt='Is Alcohol Considered a Drug? Understanding Alcohol Addiction ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1281">
+                                <meta itemprop="height" content="722">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ChoicePoint Health" />
+                                </span>
+                                <a href='https://www.choicepointhealth.com/wp-content/uploads/2021/07/1-13.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drug Wheel - Alcohol and Drug Foundation">
+                                <img itemprop="contentUrl url" src='https://cdn.adf.org.au/media/images/drug-wheel.2e16d0ba.fill-1524x683.png' alt='Drug Wheel - Alcohol and Drug Foundation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="961">
+                                <meta itemprop="height" content="430">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alcohol and Drug Foundation" />
+                                </span>
+                                <a href='https://cdn.adf.org.au/media/images/drug-wheel.2e16d0ba.fill-1524x683.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alcohol and Other Drugs • Wellness & Health Promotion Services • UCF">
+                                <img itemprop="contentUrl url" src='https://whps.sswb.ucf.edu/wp-content/uploads/sites/40/2020/11/Standard-drink.png' alt='Alcohol and Other Drugs • Wellness & Health Promotion Services • UCF'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wellness & Health Promotion Services - University of Central Florida" />
+                                </span>
+                                <a href='https://whps.sswb.ucf.edu/wp-content/uploads/sites/40/2020/11/Standard-drink.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

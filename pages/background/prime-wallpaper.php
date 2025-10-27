@@ -1,0 +1,129 @@
+<title>Stunning Prime Wallpaper Designs for Every Room</title>
+                    <meta name="description" content="Discover the perfect prime wallpaper for your home! Explore a range of elegant patterns and colors that elevate your interior decor. Transform any room with stylish designs tailored to reflect your unique taste. Upgrade your space effortlessly with our premium wallpaper selection!">
+                    <meta name="keywords" content="prime wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/prime-wallpaper">
+                            <span itemprop="name">prime wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Prime Wallpaper Designs for Every Room</h1>
+                <p>Prime wallpaper enhances your space with vibrant designs and textures. It offers a stylish backdrop that can transform any room into a reflection of your personality. Choose from a variety of colors and patterns to create a cohesive look that complements your furniture. Experience the beauty and elegance of prime wallpaper today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Prime Hydration Drink Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11661640.jpg' alt='Prime Hydration Drink Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11661640.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Just made a new prime glowberry wallpaper and I hope Logan sees ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/r880b34k1umb1.jpg' alt='Just made a new prime glowberry wallpaper and I hope Logan sees ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="1284">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/r880b34k1umb1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Prime Hydration Drink Splash Photography Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/prime-hydration-drink-splash-photography-12f3x3nhrhi1npgj.jpg' alt='Download Prime Hydration Drink Splash Photography Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1620">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/prime-hydration-drink-splash-photography-12f3x3nhrhi1npgj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Prime Drink Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11661632.jpg' alt='Prime Drink Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1836">
+                                <meta itemprop="height" content="1296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11661632.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some Transformers phone wallpapers for you guys. Credit to the ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/c52lw162b0r91.jpg' alt='Some Transformers phone wallpapers for you guys. Credit to the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/c52lw162b0r91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Prime Hydration Drink Bottles Variety Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/prime-hydration-drink-bottles-variety-sclwix5p04uxrgw3.jpg' alt='Download Prime Hydration Drink Bottles Variety Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/prime-hydration-drink-bottles-variety-sclwix5p04uxrgw3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PRIME DRINK by Czyzu447 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/884d5b0a-5415-44d9-bd2a-0326e6819402/dfnv783-27864b4e-a84c-4470-bb95-07c72f1af497.png/v1/fill/w_894,h_894,q_70,strp/prime_drink_by_czyzu447_dfnv783-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcLzg4NGQ1YjBhLTU0MTUtNDRkOS1iZDJhLTAzMjZlNjgxOTQwMlwvZGZudjc4My0yNzg2NGI0ZS1hODRjLTQ0NzAtYmI5NS0wN2M3MmYxYWY0OTcucG5nIiwid2lkdGgiOiI8PTEwODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.IMHr0xqVBfe5_yfNg6epXyMGR-Ep5wTcnDk7Dx1pzLw' alt='PRIME DRINK by Czyzu447 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/884d5b0a-5415-44d9-bd2a-0326e6819402/dfnv783-27864b4e-a84c-4470-bb95-07c72f1af497.png/v1/fill/w_894,h_894,q_70,strp/prime_drink_by_czyzu447_dfnv783-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcLzg4NGQ1YjBhLTU0MTUtNDRkOS1iZDJhLTAzMjZlNjgxOTQwMlwvZGZudjc4My0yNzg2NGI0ZS1hODRjLTQ0NzAtYmI5NS0wN2M3MmYxYWY0OTcucG5nIiwid2lkdGgiOiI8PTEwODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.IMHr0xqVBfe5_yfNg6epXyMGR-Ep5wTcnDk7Dx1pzLw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Prime Lemon Lime Hydration Drink Splash Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/prime-lemon-lime-hydration-drink-splash-l5vrbpoe0ex5mcbo.jpg' alt='Download Prime Lemon Lime Hydration Drink Splash Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/prime-lemon-lime-hydration-drink-splash-l5vrbpoe0ex5mcbo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Optimus Prime Wallpapers (40 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/4/4/4/559321-1080x1920-mobile-full-hd-optimus-prime-background-image.jpg' alt='Optimus Prime Wallpapers (40 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/4/4/4/559321-1080x1920-mobile-full-hd-optimus-prime-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Prime Hydration Drink Ice Pop Flavor Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/prime-hydration-drink-ice-pop-flavor-sw0hijmancyfpsyv.jpg' alt='Download Prime Hydration Drink Ice Pop Flavor Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1260">
+                                <meta itemprop="height" content="709">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/prime-hydration-drink-ice-pop-flavor-sw0hijmancyfpsyv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

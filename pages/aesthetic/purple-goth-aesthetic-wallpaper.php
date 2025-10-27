@@ -1,0 +1,129 @@
+<title>Purple Goth Aesthetic Wallpapers: Embrace Dark Elegance</title>
+                    <meta name="description" content="Discover stunning purple goth aesthetic wallpapers that blend dark beauty with rich violet tones. Transform your devices with captivating designs that reflect your unique style, ideal for creating an enchanting atmosphere. Perfect for anyone seeking to express their individuality through artful decor!">
+                    <meta name="keywords" content="purple goth aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/purple-goth-aesthetic-wallpaper">
+                            <span itemprop="name">purple goth aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Purple Goth Aesthetic Wallpapers: Embrace Dark Elegance</h1>
+                <p>Explore the captivating world of purple goth aesthetic wallpapers, where dark elegance meets vibrant hues. Perfect for those who embrace the mysterious side of life, these wallpapers feature intricate designs, shadows, and rich purple tones that evoke a sense of wonder and enchantment. Transform your space with a touch of gothic charm!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="purple goth aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/da/25/33/da25331d01159d76a99d2b2e5bf1c8e2.jpg' alt='purple goth aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/da/25/33/da25331d01159d76a99d2b2e5bf1c8e2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fb/8f/05/fb8f0553365c65653e810b6562c9f699.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fb/8f/05/fb8f0553365c65653e810b6562c9f699.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cute Gothic Purple Eyes Black Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-gothic-njsvapb6853b5tbj.jpg' alt='Download Cute Gothic Purple Eyes Black Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1279">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-gothic-njsvapb6853b5tbj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some purple and black goth/alt wallpapers | Gallery posted by ...">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7325123732392575494&index=1&sign=fd0c393a571f5efeabd78cd5776663e5' alt='Some purple and black goth/alt wallpapers | Gallery posted by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="912">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7325123732392575494&index=1&sign=fd0c393a571f5efeabd78cd5776663e5' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Purple Gothic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-gothic-5hi02e3pc6s0osoz.jpg' alt='100+] Purple Gothic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-gothic-5hi02e3pc6s0osoz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="purple goth aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/a6/f8/71/a6f871b8807fe8ac071d23ae223a2400.jpg' alt='purple goth aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="473">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/a6/f8/71/a6f871b8807fe8ac071d23ae223a2400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Purple Gothic Skeleton Heads Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-gothic-u75ksynbtf94odyu.jpg' alt='Download Purple Gothic Skeleton Heads Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-gothic-u75ksynbtf94odyu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PURPLE WALLPAPER">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/9b/69/9e/9b699efb21076c62ae10ea08b0b26765.jpg' alt='PURPLE WALLPAPER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/9b/69/9e/9b699efb21076c62ae10ea08b0b26765.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The easiest way to find the perfect outfit | ShopLook">
+                                <img itemprop="contentUrl url" src='https://d2bzx2vuetkzse.cloudfront.net/fit-in/0x450/unshoppable_producs/a4da12a4-dcda-4f91-923b-a7cd1fabc905.jpeg' alt='The easiest way to find the perfect outfit | ShopLook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="253">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The easiest way to find the perfect outfit | ShopLook" />
+                                </span>
+                                <a href='https://d2bzx2vuetkzse.cloudfront.net/fit-in/0x450/unshoppable_producs/a4da12a4-dcda-4f91-923b-a7cd1fabc905.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Purple Gothic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-gothic-1cluqpamixksj1fx.jpg' alt='100+] Purple Gothic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-gothic-1cluqpamixksj1fx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

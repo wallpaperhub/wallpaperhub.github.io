@@ -1,0 +1,129 @@
+<title>Stunning Guardians of the Galaxy Phone Wallpapers</title>
+                    <meta name="description" content="Explore vibrant Guardians of the Galaxy phone wallpapers! Choose from iconic scenes and characters to personalize your device. Perfect for fans seeking to showcase their cosmic adventure on the go. Download now for a fresh new look that captures the spirit of your favorite heroes!">
+                    <meta name="keywords" content="guardians of the galaxy wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/guardians-of-the-galaxy-wallpaper-phone">
+                            <span itemprop="name">guardians of the galaxy wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Guardians of the Galaxy Phone Wallpapers</h1>
+                <p>Transform your phone with stunning Guardians of the Galaxy wallpapers! Featuring iconic characters like Star-Lord, Gamora, and Rocket, these vibrant designs bring the cosmic adventure to your device. Whether you prefer action-packed scenes or artistic interpretations, find the perfect wallpaper that showcases your love for the Guardians!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guardians Of The Galaxy Wallpapers (29 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/1/4/a/306881-2160x3840-phone-4k-guardians-of-the-galaxy-wallpaper-photo.jpg' alt='Guardians Of The Galaxy Wallpapers (29 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/1/4/a/306881-2160x3840-phone-4k-guardians-of-the-galaxy-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I created a Wallpaper for GOTG 3 and thought of posting it here ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/i-created-a-wallpaper-for-gotg-3-and-thought-of-posting-it-v0-twg28q3le13b1.jpg?width=1080&crop=smart&auto=webp&s=3748ecd70b0aecb9c341db3d361885315e676939' alt='I created a Wallpaper for GOTG 3 and thought of posting it here ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2337">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/i-created-a-wallpaper-for-gotg-3-and-thought-of-posting-it-v0-twg28q3le13b1.jpg?width=1080&crop=smart&auto=webp&s=3748ecd70b0aecb9c341db3d361885315e676939' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guardians of the Galaxy wallpapers for iPhone and iPad">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2015/01/Guardians-of-the-Galaxy-inspired-iPhone-5-wallpaper.jpg' alt='Guardians of the Galaxy wallpapers for iPhone and iPad'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1820">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2015/01/Guardians-of-the-Galaxy-inspired-iPhone-5-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guardians of the Galaxy (2014) wallpaper for Android">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1c/81/86/1c8186ff24c84c1fab222d4634789c34.jpg' alt='Guardians of the Galaxy (2014) wallpaper for Android'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1c/81/86/1c8186ff24c84c1fab222d4634789c34.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A few GotG wallpapers I've been collecting and using lately ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/v91hwyp59lw71.jpg' alt='A few GotG wallpapers I've been collecting and using lately ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/v91hwyp59lw71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guardians Of The Galaxy Volume 3 Movie, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/284/280/HD-wallpaper-guardians-of-the-galaxy-volume-3-movie.jpg' alt='Guardians Of The Galaxy Volume 3 Movie, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1185">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/284/280/HD-wallpaper-guardians-of-the-galaxy-volume-3-movie.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guardians of the Galaxy 3 Movie Cast 4K Wallpaper iPhone HD Phone ...">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/guardians-of-the-galaxy-3-movie-cast-537@1@k-phone-4k.jpg' alt='Guardians of the Galaxy 3 Movie Cast 4K Wallpaper iPhone HD Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/guardians-of-the-galaxy-3-movie-cast-537@1@k-phone-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Galaxy Guardian">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/81/1d/08/811d080e6a9ebedacac88ec878e3b579.jpg' alt='Wallpaper Galaxy Guardian'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1575">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/81/1d/08/811d080e6a9ebedacac88ec878e3b579.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guardian of Galaxy, marval, team, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/46/332/HD-wallpaper-guardian-of-galaxy-marval-team.jpg' alt='Guardian of Galaxy, marval, team, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/46/332/HD-wallpaper-guardian-of-galaxy-marval-team.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marvel's Guardians of the Galaxy wallpaper 01 1080p Vertical">
+                                <img itemprop="contentUrl url" src='https://www.gamewallpapers.com/getphonewallpaper.php?lowquality=1&titel=Marvel%5C%27s+Guardians+of+the+Galaxy&nummer=01&phoneResId=3502&wallpaperType=vertical&qhdbeschikbaar=1&wallpaper_id=7556' alt='Marvel's Guardians of the Galaxy wallpaper 01 1080p Vertical'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameWallpapers.com" />
+                                </span>
+                                <a href='https://www.gamewallpapers.com/getphonewallpaper.php?lowquality=1&titel=Marvel%5C%27s+Guardians+of+the+Galaxy&nummer=01&phoneResId=3502&wallpaperType=vertical&qhdbeschikbaar=1&wallpaper_id=7556' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

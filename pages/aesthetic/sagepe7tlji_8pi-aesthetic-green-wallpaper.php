@@ -1,0 +1,129 @@
+<title>Fresh Aesthetic Green Wallpaper for Your Home</title>
+                    <meta name="description" content="Discover the beauty of aesthetic green wallpaper. Perfect for any room, our designs offer a refreshing touch, enhancing your decor while promoting a soothing ambiance. Explore a variety of patterns and shades to transform your living space effortlessly.">
+                    <meta name="keywords" content="sage:pe7tlji_8pi= aesthetic green wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/sagepe7tlji_8pi-aesthetic-green-wallpaper">
+                            <span itemprop="name">sage:pe7tlji_8pi= aesthetic green wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Fresh Aesthetic Green Wallpaper for Your Home</h1>
+                <p>Transform your space with aesthetic green wallpaper that brings the tranquility of nature indoors. Ideal for creating a serene atmosphere, this wallpaper choice adds a fresh twist to any room. With various patterns and shades, you can easily find a design that complements your style, making your home feel inviting and rejuvenated.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Sage Green Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/tiled-sage-green-aesthetic-kknae5n136usu75f.jpg' alt='200+] Sage Green Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/tiled-sage-green-aesthetic-kknae5n136usu75f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="sage green aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/64/8a/8d/648a8d93161ea3d53d6748f4c96a5bb8.jpg' alt='sage green aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/64/8a/8d/648a8d93161ea3d53d6748f4c96a5bb8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic sage green wallpaper IOS!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1c/b4/a3/1cb4a389dbe43950ecc7b2f5ccc22ae2.jpg' alt='Aesthetic sage green wallpaper IOS!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1c/b4/a3/1cb4a389dbe43950ecc7b2f5ccc22ae2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="                                       | Iphone wallpaper green ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b0/eb/ed/b0ebeddc12ac126ee287989e7172786e.jpg' alt='                                       | Iphone wallpaper green ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b0/eb/ed/b0ebeddc12ac126ee287989e7172786e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sage Green Aesthetic Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/00/77/35/007735dc82d00cbf7b6118bb4dae9b4f.jpg' alt='Sage Green Aesthetic Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/00/77/35/007735dc82d00cbf7b6118bb4dae9b4f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Sage Green Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/sage-green-i3xsvuz645quldxz.jpg' alt='200+] Sage Green Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/sage-green-i3xsvuz645quldxz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Sage Green Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/sage-aesthetic-collage-donuts-and-macarons-11c59zqy0wzenz1b.jpg' alt='200+] Sage Green Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1541">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/sage-aesthetic-collage-donuts-and-macarons-11c59zqy0wzenz1b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sage Green Aesthetic Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f2/68/d4/f268d454047b09768548c34089adccc3.jpg' alt='Sage Green Aesthetic Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f2/68/d4/f268d454047b09768548c34089adccc3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="sage green inspo wallpaper/lockscreen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/66/ed/65/66ed651e4e614d771f7cac4d116cc0a9.jpg' alt='sage green inspo wallpaper/lockscreen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/66/ed/65/66ed651e4e614d771f7cac4d116cc0a9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sage Green Aesthetic Wallpaper | WhatsPaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b8/8d/6f/b88d6f14356459acb9294ad96e1461ae.jpg' alt='Sage Green Aesthetic Wallpaper | WhatsPaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b8/8d/6f/b88d6f14356459acb9294ad96e1461ae.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

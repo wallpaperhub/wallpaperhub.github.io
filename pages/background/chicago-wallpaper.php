@@ -1,0 +1,129 @@
+<title>Stunning Chicago Wallpaper: Elevate Your Space</title>
+                    <meta name="description" content="Shop our exquisite collection of Chicago wallpaper! Transform any room with designs featuring the city's skyline, vibrant culture, and unique art. Perfect for home or office decor. Discover how you can incorporate the charm of Chicago into your space today!">
+                    <meta name="keywords" content="chicago wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/chicago-wallpaper">
+                            <span itemprop="name">chicago wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Chicago Wallpaper: Elevate Your Space</h1>
+                <p>Transform your space with stunning Chicago wallpaper that captures the essence of the Windy City. From iconic skyline views to vibrant street art, these wallpapers offer a unique way to celebrate Chicago's rich culture. Ideal for home or office, our selection ensures a stylish backdrop that inspires creativity and nostalgia.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Electric Blue Chicago Wall Mural">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/236580/Electric-Blue-Chicago-Mural-Wallpaper.jpg?v=638164851215930000' alt='Electric Blue Chicago Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="2134">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/236580/Electric-Blue-Chicago-Mural-Wallpaper.jpg?v=638164851215930000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chicago Photos, Download The BEST Free Chicago Stock Photos & HD ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1823681/pexels-photo-1823681.jpeg?cs=srgb&dl=pexels-chaitaastic-1823681.jpg&fm=jpg' alt='Chicago Photos, Download The BEST Free Chicago Stock Photos & HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5981">
+                                <meta itemprop="height" content="3365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1823681/pexels-photo-1823681.jpeg?cs=srgb&dl=pexels-chaitaastic-1823681.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chicago Wallpapers: Free HD Download [500+ HQ] | Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hpY2FnbyUyMHdhbGxwYXBlcnxlbnwwfHwwfHx8MA%3D%3D' alt='Chicago Wallpapers: Free HD Download [500+ HQ] | Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1845">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hpY2FnbyUyMHdhbGxwYXBlcnxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="City Of Chicago Wall Mural">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/238869/City-of-Chicago-Mural-Wallpaper.jpg?v=638164848184200000' alt='City Of Chicago Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="2133">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/238869/City-of-Chicago-Mural-Wallpaper.jpg?v=638164848184200000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chicago Wallpaper 4K, Night City, Skyline, Cityscape">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/chicago-city-1179x2556-18599.jpg' alt='Chicago Wallpaper 4K, Night City, Skyline, Cityscape'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1179">
+                                <meta itemprop="height" content="2556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/chicago-city-1179x2556-18599.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chicago Photos, Download The BEST Free Chicago Stock Photos & HD ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1334607/pexels-photo-1334607.jpeg?cs=srgb&dl=pexels-camcasey-1334607.jpg&fm=jpg' alt='Chicago Photos, Download The BEST Free Chicago Stock Photos & HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3898">
+                                <meta itemprop="height" content="5855">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1334607/pexels-photo-1334607.jpeg?cs=srgb&dl=pexels-camcasey-1334607.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chicago Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/bc/18/a0/bc18a0c02adee65c1d8f0c64318af0ef.jpg' alt='Chicago Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/bc/18/a0/bc18a0c02adee65c1d8f0c64318af0ef.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chicago Wallpapers (49 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/0/6/1/285170-1242x2208-mobile-hd-chicago-wallpaper-photo.jpg' alt='Chicago Wallpapers (49 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/0/6/1/285170-1242x2208-mobile-hd-chicago-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chicago iPhone Wallpaper Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ee/c8/04/eec804e88ab5588289ef5ae576849179.jpg' alt='Chicago iPhone Wallpaper Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ee/c8/04/eec804e88ab5588289ef5ae576849179.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Stores in Chicago – Walls Republic US">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/2198/0277/files/chicago.jpg?1450967438469829683' alt='Wallpaper Stores in Chicago – Walls Republic US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1008">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/2198/0277/files/chicago.jpg?1450967438469829683' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

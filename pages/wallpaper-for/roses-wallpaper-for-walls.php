@@ -1,0 +1,129 @@
+<title>Beautiful Roses Wallpaper for Your Walls</title>
+                    <meta name="description" content="Explore our exquisite roses wallpaper collection to beautifully enhance your living space. Perfect for any style, from classic to contemporary, our floral designs create a warm and inviting atmosphere in every room. Discover the perfect wallpaper that reflects your personality and elevate your home decor today!">
+                    <meta name="keywords" content="roses wallpaper for walls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/roses-wallpaper-for-walls">
+                            <span itemprop="name">roses wallpaper for walls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful Roses Wallpaper for Your Walls</h1>
+                <p>Transform your space with stunning roses wallpaper that breathes life into your walls. Ideal for any room, these floral designs add a touch of elegance and romance. Whether you're looking for vintage charm or modern flair, our collection offers a variety of colors and styles to suit your taste. Elevate your home decor effortlessly with roses wallpaper!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant Dark Red Roses Photo Wallpaper, Big Flowers Wall Mural ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/22530032/r/il/baf808/3690542386/il_fullxfull.3690542386_jird.jpg' alt='Elegant Dark Red Roses Photo Wallpaper, Big Flowers Wall Mural ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/22530032/r/il/baf808/3690542386/il_fullxfull.3690542386_jird.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Rose Wall Mural, 3D Flowers Plant Photo Wallpaper, Home Decor TV  Background Large Art Wall Painting for Living Room Bedroom 138"x 110"(W x  H)(It's ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81NLm6NrYvL._AC_UF894,1000_QL80_.jpg' alt='Red Rose Wall Mural, 3D Flowers Plant Photo Wallpaper, Home Decor TV  Background Large Art Wall Painting for Living Room Bedroom 138"x 110"(W x  H)(It's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81NLm6NrYvL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Small Flowers Wallpaper, Pink Rose Modern Pink Roses Twall ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18081845/r/il/876dd7/1880227662/il_fullxfull.1880227662_h75t.jpg' alt='Pink Small Flowers Wallpaper, Pink Rose Modern Pink Roses Twall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="831">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18081845/r/il/876dd7/1880227662/il_fullxfull.1880227662_h75t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Roses Wallpaper & Wall Murals • Wallmur®">
+                                <img itemprop="contentUrl url" src='https://img.wallmur.net/@wmp/_480x480/b/h/bh18380937_moc1.jpg' alt='Roses Wallpaper & Wall Murals • Wallmur®'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://img.wallmur.net/@wmp/_480x480/b/h/bh18380937_moc1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Roses">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/14121/pr22/1/1280/white-roses-rose-wallpaper.jpg' alt='White Roses'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="645">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/14121/pr22/1/1280/white-roses-rose-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Roses - Pink and Grey">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/interiors/42498/landscape/wallpaper/room41.jpg?w=2000&q=80' alt='Roses - Pink and Grey'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/interiors/42498/landscape/wallpaper/room41.jpg?w=2000&q=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Red Roses Wall Mural">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/237695/Beautiful-Red-Roses-Wall-Mural.jpg?v=638164494999300000' alt='Beautiful Red Roses Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="2133">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/237695/Beautiful-Red-Roses-Wall-Mural.jpg?v=638164494999300000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Mural Pink Watercolors - romantic compositions of roses in delicate  tones - bimago">
+                                <img itemprop="contentUrl url" src='https://com.bimago.media/media/catalog/image/view/product/160396/role/vis_image/size/750x1120/7282c983c739c78b83a6d7e46b8e8e2b.webp' alt='Wall Mural Pink Watercolors - romantic compositions of roses in delicate  tones - bimago'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="bimago." />
+                                </span>
+                                <a href='https://com.bimago.media/media/catalog/image/view/product/160396/role/vis_image/size/750x1120/7282c983c739c78b83a6d7e46b8e8e2b.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rose le Soir Mural">
+                                <img itemprop="contentUrl url" src='https://anewall.com/cdn/shop/products/rose-le-soir-mural-wallpaper.jpg?v=1560884602' alt='Rose le Soir Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anewall" />
+                                </span>
+                                <a href='https://anewall.com/cdn/shop/products/rose-le-soir-mural-wallpaper.jpg?v=1560884602' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Roses - Pink">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/interiors/42497/landscape/wallpaper/room102.jpg?w=2000&q=80' alt='Roses - Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1090">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/interiors/42497/landscape/wallpaper/room102.jpg?w=2000&q=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

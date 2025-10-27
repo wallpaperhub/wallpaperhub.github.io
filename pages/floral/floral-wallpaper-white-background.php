@@ -1,0 +1,129 @@
+<title>Beautiful Floral Wallpaper on White Background</title>
+                    <meta name="description" content="Add charm to your home with our beautiful floral wallpaper on a white background. Perfect for any room, this design offers a fresh and elegant touch that enhances your interior decor. Easy to apply and maintain, it’s the ideal choice for those looking to brighten their space effortlessly.">
+                    <meta name="keywords" content="floral wallpaper white background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/floral-wallpaper-white-background">
+                            <span itemprop="name">floral wallpaper white background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful Floral Wallpaper on White Background</h1>
+                <p>Transform your space with floral wallpaper featuring a crisp white background. This floral design breathes life into any room, providing a timeless elegance that complements various decor styles. Ideal for living rooms, bedrooms, or hallways, our wallpaper makes a striking statement while maintaining a fresh and bright atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unbranded Delicate Floral Trail Pink/Green on White Matte Finish Non-Woven  Paper Non-Pasted Wallpaper Roll G56649">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/acf51b36-84fe-4c7c-b283-fcad3eab14c7/svn/wallpaper-rolls-g56649-64_600.jpg' alt='Unbranded Delicate Floral Trail Pink/Green on White Matte Finish Non-Woven  Paper Non-Pasted Wallpaper Roll G56649'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/acf51b36-84fe-4c7c-b283-fcad3eab14c7/svn/wallpaper-rolls-g56649-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Wallpapers | Peel & Stick + Prepasted Options">
+                                <img itemprop="contentUrl url" src='https://www.basicinvite.com/media/bi/33308/vintage-peonies-wallpaper.jpg?q=1692030673' alt='Floral Wallpapers | Peel & Stick + Prepasted Options'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love vs. Design" />
+                                </span>
+                                <a href='https://www.basicinvite.com/media/bi/33308/vintage-peonies-wallpaper.jpg?q=1692030673' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black & White Wildflower Sprigs Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/black-white-wildflower-sprigs-floral-wa-camq-l.jpg' alt='Black & White Wildflower Sprigs Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/black-white-wildflower-sprigs-floral-wa-camq-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Flower Wallpaper Vectors & Illustrations for Free Download ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/beautiful-watercolor-floral-seamless-pattern-with-greenery-leaves-white-flower_44538-12206.jpg' alt='White Flower Wallpaper Vectors & Illustrations for Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/beautiful-watercolor-floral-seamless-pattern-with-greenery-leaves-white-flower_44538-12206.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Romantic Roses Wallpaper in Soft Pink on White">
+                                <img itemprop="contentUrl url" src='http://ilovewallpaper.com/cdn/shop/files/RomanticRoses_SoftPinkonWhite_ILW50578_Thumbnail_WEB.webp?v=1722250129' alt='Romantic Roses Wallpaper in Soft Pink on White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='http://ilovewallpaper.com/cdn/shop/files/RomanticRoses_SoftPinkonWhite_ILW50578_Thumbnail_WEB.webp?v=1722250129' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sketch Floral - Heavy Type II">
+                                <img itemprop="contentUrl url" src='http://wallsneedlove.com/cdn/shop/products/w0284_1s_Black-and-White-Floral-Pattern-Wallpaper-for-Walls-Sketch-Floral_Repeating-Pattern-Sample-1.jpg?v=1734718321' alt='Sketch Floral - Heavy Type II'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3028">
+                                <meta itemprop="height" content="1872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='http://wallsneedlove.com/cdn/shop/products/w0284_1s_Black-and-White-Floral-Pattern-Wallpaper-for-Walls-Sketch-Floral_Repeating-Pattern-Sample-1.jpg?v=1734718321' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20+ Vector Floral Wallpaper and Background | Download Free HD images">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/42/c2/06/42c206c3ec55553a7b81335309aa1784.jpg' alt='20+ Vector Floral Wallpaper and Background | Download Free HD images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/42/c2/06/42c206c3ec55553a7b81335309aa1784.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Impressionist Floral Dreams Wallpaper - Gray & White">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/products/CL2520-York-Impressionist-Floral-Dreams-Wallpaper-gray_37837222-84d2-4326-9c50-341cfa826928.jpg?v=1571709049' alt='Impressionist Floral Dreams Wallpaper - Gray & White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1708">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/products/CL2520-York-Impressionist-Floral-Dreams-Wallpaper-gray_37837222-84d2-4326-9c50-341cfa826928.jpg?v=1571709049' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Wallpaper, Water, Art Background Images, Transparent Clean ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ee/a3/b6/eea3b6373be97e1b10cc4f4086e417c4.jpg' alt='Free Wallpaper, Water, Art Background Images, Transparent Clean ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="1155">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ee/a3/b6/eea3b6373be97e1b10cc4f4086e417c4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LUXE Traditional / 2 ft (h) x 19 in (w)">
+                                <img itemprop="contentUrl url" src='https://wallblush.com/cdn/shop/files/shopify_dc4ef4f6-b558-4f7d-8035-1aa7e1440c1e.jpg?v=1696365995&width=2048' alt='LUXE Traditional / 2 ft (h) x 19 in (w)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='https://wallblush.com/cdn/shop/files/shopify_dc4ef4f6-b558-4f7d-8035-1aa7e1440c1e.jpg?v=1696365995&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

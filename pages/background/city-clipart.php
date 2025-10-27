@@ -1,0 +1,129 @@
+<title>Vibrant City Clipart for Creative Projects</title>
+                    <meta name="description" content="Discover stunning city clipart perfect for your design needs! Enhance presentations, marketing materials, and creative projects with vivid urban illustrations that capture the essence of city life. Easily accessible and versatile, our clipart is ideal for professionals and hobbyists alike.">
+                    <meta name="keywords" content="city clipart">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/city-clipart">
+                            <span itemprop="name">city clipart</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant City Clipart for Creative Projects</h1>
+                <p>City clipart offers a vibrant array of illustrations that capture the essence of urban life. From iconic skylines to charming streetscapes, these graphics can enhance your projects, presentations, or creative endeavors. Ideal for designers, teachers, and marketers, city clipart adds visual flair while conveying the hustle and bustle of city living.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="49,800+ City Clipart Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1024128094/vector/city-skyscrapers-and-business-buildings-skyline-downtown-cityscape-big-town-real-estate.jpg?s=612x612&w=0&k=20&c=Y1yHUIBV5edpPNqdEKB3yhgqt7I0g-JWyJjggNi_YgM=' alt='49,800+ City Clipart Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1024128094/vector/city-skyscrapers-and-business-buildings-skyline-downtown-cityscape-big-town-real-estate.jpg?s=612x612&w=0&k=20&c=Y1yHUIBV5edpPNqdEKB3yhgqt7I0g-JWyJjggNi_YgM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="City Clipart Images | Free Download | PNG Transparent Background ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20190614/original/pngtree-color-city-building-elements-png-image_3693868.jpg' alt='City Clipart Images | Free Download | PNG Transparent Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20190614/original/pngtree-color-city-building-elements-png-image_3693868.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="City - Free vector clipart images on creazilla.com">
+                                <img itemprop="contentUrl url" src='https://cdn.creazilla.com/cliparts/3158807/city-clipart-xl.png' alt='City - Free vector clipart images on creazilla.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1290">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creazilla" />
+                                </span>
+                                <a href='https://cdn.creazilla.com/cliparts/3158807/city-clipart-xl.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="City Clipart Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/040/515/354/non_2x/highway-street-with-cityscape-landscape-in-bright-day-flat-design-illustration-eps-vector.jpg' alt='City Clipart Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1531">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/040/515/354/non_2x/highway-street-with-cityscape-landscape-in-bright-day-flat-design-illustration-eps-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="City Silhouette PNG Clip Art​ | Gallery Yopriceville - High ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/var/albums/Free-Clipart-Pictures/Silhouettes-PNG/City_Silhouette_PNG_Clip_Art.png?m=1629815359' alt='City Silhouette PNG Clip Art​ | Gallery Yopriceville - High ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="8000">
+                                <meta itemprop="height" content="3759">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/var/albums/Free-Clipart-Pictures/Silhouettes-PNG/City_Silhouette_PNG_Clip_Art.png?m=1629815359' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Silhouette of a Urban Landscape Svg Clipart Landscape Clip Art ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/10313448/r/il/e6d903/3126553220/il_fullxfull.3126553220_3d1n.jpg' alt='Silhouette of a Urban Landscape Svg Clipart Landscape Clip Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2073">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/10313448/r/il/e6d903/3126553220/il_fullxfull.3126553220_3d1n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="49,800+ City Clipart Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/628561652/vector/city-downtown-landscape-with-high-skyscrapers.jpg?s=612x612&w=0&k=20&c=8PxMzClpi227uZx-NlLaA7i7xGlJxeRJnVIPgj8uWvg=' alt='49,800+ City Clipart Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/628561652/vector/city-downtown-landscape-with-high-skyscrapers.jpg?s=612x612&w=0&k=20&c=8PxMzClpi227uZx-NlLaA7i7xGlJxeRJnVIPgj8uWvg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="39,668 City Clipart Royalty-Free Photos and Stock Images ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/background-scene-city-buildings-green-600nw-1721489851.jpg' alt='39,668 City Clipart Royalty-Free Photos and Stock Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="337">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/background-scene-city-buildings-green-600nw-1721489851.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="City Skyline Royalty-free Stock Vector Images and Clip Art">
+                                <img itemprop="contentUrl url" src='https://vectorportal.com/storage/5lfs2gZSGnjU1yYXjvdHTjL3y0AJNkymwW8RO46i.jpg' alt='City Skyline Royalty-free Stock Vector Images and Clip Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1001">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="City Skyline Royalty-free Stock Vector Images and Clip Art" />
+                                </span>
+                                <a href='https://vectorportal.com/storage/5lfs2gZSGnjU1yYXjvdHTjL3y0AJNkymwW8RO46i.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="City Skyline Clipart, Superhero Buildings, and Building City Silhouette PNG  SVG Clip Art of Skyscrapers and Superhero City Constructions - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/10313448/r/il/4d94d2/4629565000/il_1080xN.4629565000_4pce.jpg' alt='City Skyline Clipart, Superhero Buildings, and Building City Silhouette PNG  SVG Clip Art of Skyscrapers and Superhero City Constructions - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/10313448/r/il/4d94d2/4629565000/il_1080xN.4629565000_4pce.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

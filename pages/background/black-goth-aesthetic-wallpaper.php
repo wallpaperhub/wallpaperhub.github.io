@@ -1,0 +1,129 @@
+<title>Beautiful Black Goth Aesthetic Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore stunning black goth aesthetic wallpapers that bring a dark, elegant vibe to your screens. Perfect for lovers of gothic art, these wallpapers showcase unique designs that inspire. Download your favorites and express your individuality today!">
+                    <meta name="keywords" content="black goth aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/black-goth-aesthetic-wallpaper">
+                            <span itemprop="name">black goth aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful Black Goth Aesthetic Wallpapers for Your Device</h1>
+                <p>Transform your device with striking black goth aesthetic wallpaper. These dark, moody designs evoke a sense of mystery and allure, featuring intricate patterns, haunting imagery, and gothic elements. Perfect for those who embrace the darkness and love to express their unique style, these wallpapers add personality to any screen.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Embrace your inner darkness with goth aesthetic black ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/goth-aesthetic-black-7d8stm1709otwm16.jpg' alt='Download Embrace your inner darkness with goth aesthetic black ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/goth-aesthetic-black-7d8stm1709otwm16.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goth Aesthetic Wallpaper Fabric, Wallpaper and Home Decor ...">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/9528146/p/f/m/oYtenW5G95OLRQzIaZv6n8M0GO_2saHZXk7QNtq_-Sbozo0GCPU/12%22%20Vintage%20%20Girly%20Gothic%20Halloween%20dark%20academia%20Aesthetic%20Wallpaper%3A%20Antique%20%20Dramatic%20Mystic%20Horror%20Spooky%20%20Skulls%20and%20Flowers%20with%20Goth%20Fabric%2C%20Victorian%20Pink%20Witchy%20Dramatic%20Glamour%20black%20and%20white.jpg' alt='Goth Aesthetic Wallpaper Fabric, Wallpaper and Home Decor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/9528146/p/f/m/oYtenW5G95OLRQzIaZv6n8M0GO_2saHZXk7QNtq_-Sbozo0GCPU/12%22%20Vintage%20%20Girly%20Gothic%20Halloween%20dark%20academia%20Aesthetic%20Wallpaper%3A%20Antique%20%20Dramatic%20Mystic%20Horror%20Spooky%20%20Skulls%20and%20Flowers%20with%20Goth%20Fabric%2C%20Victorian%20Pink%20Witchy%20Dramatic%20Glamour%20black%20and%20white.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Goth Aesthetic Black Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/goth-aesthetic-black-m0cbh8d1l2gfqam2.jpg' alt='100+] Goth Aesthetic Black Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/goth-aesthetic-black-m0cbh8d1l2gfqam2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Goth Wallpaper - KoLPaPer - Awesome Free HD Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0e/e8/98/0ee898da7d00ec737430dea37c4fb724.jpg' alt='Dark Goth Wallpaper - KoLPaPer - Awesome Free HD Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0e/e8/98/0ee898da7d00ec737430dea37c4fb724.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark/goth wallpaper by YourlocalCrazyfriend on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/385d94a0-bb72-4b8c-9aa4-7f8e00ba78ef/dgk343r-0db8cbec-1b77-46cb-9e77-b4166b24a30b.jpg/v1/fill/w_1280,h_967,q_75,strp/dark_goth_wallpaper_by_yourlocalcrazyfriend_dgk343r-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTY3IiwicGF0aCI6IlwvZlwvMzg1ZDk0YTAtYmI3Mi00YjhjLTlhYTQtN2Y4ZTAwYmE3OGVmXC9kZ2szNDNyLTBkYjhjYmVjLTFiNzctNDZjYi05ZTc3LWI0MTY2YjI0YTMwYi5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.0iRoOfU7elEIsaM9L1q10dc7UfAbTPHhmgZ2MmIFCLk' alt='Dark/goth wallpaper by YourlocalCrazyfriend on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="967">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/385d94a0-bb72-4b8c-9aa4-7f8e00ba78ef/dgk343r-0db8cbec-1b77-46cb-9e77-b4166b24a30b.jpg/v1/fill/w_1280,h_967,q_75,strp/dark_goth_wallpaper_by_yourlocalcrazyfriend_dgk343r-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTY3IiwicGF0aCI6IlwvZlwvMzg1ZDk0YTAtYmI3Mi00YjhjLTlhYTQtN2Y4ZTAwYmE3OGVmXC9kZ2szNDNyLTBkYjhjYmVjLTFiNzctNDZjYi05ZTc3LWI0MTY2YjI0YTMwYi5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.0iRoOfU7elEIsaM9L1q10dc7UfAbTPHhmgZ2MmIFCLk' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gothic Flower Black Rose Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/gothic-flower-black-rose-iphone-jrd0raipgzgvalzx.jpg' alt='Gothic Flower Black Rose Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1310">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/gothic-flower-black-rose-iphone-jrd0raipgzgvalzx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Goth Aesthetic Wallpaper Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/46/2b/ac/462bac4f84c7fff1022f294459f1d1e9.jpg' alt='Black Goth Aesthetic Wallpaper Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/46/2b/ac/462bac4f84c7fff1022f294459f1d1e9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Goth Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/goth-aesthetic-lsw200vgodnx8gwd.jpg' alt='100+] Goth Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/goth-aesthetic-lsw200vgodnx8gwd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD goth aesthetic wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/192/111/HD-wallpaper-black-aesthetic-emo-goth.jpg' alt='HD goth aesthetic wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1531">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/192/111/HD-wallpaper-black-aesthetic-emo-goth.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goth Aesthetic Black Wallpapers - Top Free Goth Aesthetic Black ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/02/43/89/024389c58915a3a7796209f5f11159dd.jpg' alt='Goth Aesthetic Black Wallpapers - Top Free Goth Aesthetic Black ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/02/43/89/024389c58915a3a7796209f5f11159dd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stellar Death Star Wallpapers for Every Fan</title>
+                    <meta name="description" content="Explore a captivating collection of Death Star wallpapers! Perfect for Star Wars enthusiasts, our designs enhance your space with a touch of cosmic charm. High-quality, vibrant options available to suit every room. Download your favorite wallpaper and bring the galaxy home today!">
+                    <meta name="keywords" content="death star wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/death-star-wallpaper">
+                            <span itemprop="name">death star wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stellar Death Star Wallpapers for Every Fan</h1>
+                <p>Transform your space with stunning Death Star wallpaper! Whether you're a die-hard Star Wars fan or just love epic designs, these wallpapers bring a touch of galactic flair to your home. Available in various styles and sizes, they’re perfect for creating a unique atmosphere in your room. Discover a galaxy of options today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Death Star II wallpaper (Just edited a 4K wallpaper I had and ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/lbzeaws57m061.png?auto=webp&s=95eb04eae7aaf684c946e234435ae73aad67e409' alt='Death Star II wallpaper (Just edited a 4K wallpaper I had and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/lbzeaws57m061.png?auto=webp&s=95eb04eae7aaf684c946e234435ae73aad67e409' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Death Star (Star Wars) Wallpapers (16 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/7/2/3/466249-1080x1920-phone-1080p-death-star-star-wars-wallpaper-image.jpg' alt='Death Star (Star Wars) Wallpapers (16 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/7/2/3/466249-1080x1920-phone-1080p-death-star-star-wars-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars - Death Star Wallpaper : r/StarWars">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/6ezWhRdWQ0PMDCb3WcXtkYXuJpa7GQtyiQkBn5c-7xk.png?auto=webp&s=0a74450d5274c9e2e6eba15f935028527a9f660a' alt='Star Wars - Death Star Wallpaper : r/StarWars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/6ezWhRdWQ0PMDCb3WcXtkYXuJpa7GQtyiQkBn5c-7xk.png?auto=webp&s=0a74450d5274c9e2e6eba15f935028527a9f660a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Death Star from Rogue One HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/703/703337.jpg' alt='Death Star from Rogue One HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3417">
+                                <meta itemprop="height" content="1709">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/703/703337.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Death Star Star Wars 4k Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/death-star-star-wars-4k-iphone-z0gqs3caxdksd8by.jpg' alt='Death Star Star Wars 4k Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/death-star-star-wars-4k-iphone-z0gqs3caxdksd8by.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Epic Death Star HD Wallpaper from Star Wars">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/671/thumb-350-671306.webp' alt='Epic Death Star HD Wallpaper from Star Wars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="219">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/671/thumb-350-671306.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Death Star Live Wallpaper - Star Wars Animation">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7448364764431944982&location=0&aid=1988' alt='Death Star Live Wallpaper - Star Wars Animation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="957">
+                                <meta itemprop="height" content="1277">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7448364764431944982&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Death Star Wallpaper by BrajucaProductions on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1638cee4-ddb8-4ba0-ade4-31c48258d370/dbelwot-365af841-79fd-4464-a3f4-a5ddc57b59c1.png/v1/fill/w_1024,h_576,q_80,strp/death_star_wallpaper_by_brajucaproductions_dbelwot-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvMTYzOGNlZTQtZGRiOC00YmEwLWFkZTQtMzFjNDgyNThkMzcwXC9kYmVsd290LTM2NWFmODQxLTc5ZmQtNDQ2NC1hM2Y0LWE1ZGRjNTdiNTljMS5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.GbtcpM3AJX7GYF8WOYcUju2A-3Rj90H8BRiM4A9CTtI' alt='Death Star Wallpaper by BrajucaProductions on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1638cee4-ddb8-4ba0-ade4-31c48258d370/dbelwot-365af841-79fd-4464-a3f4-a5ddc57b59c1.png/v1/fill/w_1024,h_576,q_80,strp/death_star_wallpaper_by_brajucaproductions_dbelwot-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvMTYzOGNlZTQtZGRiOC00YmEwLWFkZTQtMzFjNDgyNThkMzcwXC9kYmVsd290LTM2NWFmODQxLTc5ZmQtNDQ2NC1hM2Y0LWE1ZGRjNTdiNTljMS5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.GbtcpM3AJX7GYF8WOYcUju2A-3Rj90H8BRiM4A9CTtI' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars, Death Star Wall Mural | Sci-fi | Peel & Stick Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/32007306/r/il/745d93/5437570591/il_570xN.5437570591_ani4.jpg' alt='Star Wars, Death Star Wall Mural | Sci-fi | Peel & Stick Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/32007306/r/il/745d93/5437570591/il_570xN.5437570591_ani4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download The iconic Death Star looming in the deep space ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/death-star-background-sfzmfyik6s0djayd.jpg' alt='Download The iconic Death Star looming in the deep space ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/death-star-background-sfzmfyik6s0djayd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

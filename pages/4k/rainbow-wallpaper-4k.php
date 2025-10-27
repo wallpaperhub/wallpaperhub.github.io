@@ -1,0 +1,129 @@
+<title>Vibrant 4K Rainbow Wallpaper for Every Device</title>
+                    <meta name="description" content="Discover captivating 4K rainbow wallpaper to brighten up your screens! Our collection features vibrant designs perfect for all devices, adding a splash of color and joy to your digital space. Explore now and elevate your aesthetic with stunning rainbow patterns that impress and inspire. Perfect for any style!">
+                    <meta name="keywords" content="rainbow wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/rainbow-wallpaper-4k">
+                            <span itemprop="name">rainbow wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant 4K Rainbow Wallpaper for Every Device</h1>
+                <p>Transform your space with stunning 4K rainbow wallpaper that bursts with color and vibrancy. Perfect for adding a touch of cheer and personality to your devices, these high-resolution designs will enhance any room or screen. Explore a variety of patterns and styles to uplift your environment and embrace the beauty of rainbows!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Colors Wallpapers (106 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/0/8/4/176084-3840x2160-desktop-4k-rainbow-wallpaper.jpg' alt='Rainbow Colors Wallpapers (106 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/0/8/4/176084-3840x2160-desktop-4k-rainbow-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Background Photos, Download The BEST Free Rainbow ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1566909/pexels-photo-1566909.jpeg?cs=srgb&dl=pexels-mccutcheon-1566909.jpg&fm=jpg' alt='Rainbow Background Photos, Download The BEST Free Rainbow ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5616">
+                                <meta itemprop="height" content="3744">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1566909/pexels-photo-1566909.jpeg?cs=srgb&dl=pexels-mccutcheon-1566909.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Wallpaper Desktop 4K">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/download/hd-wallpapers/rainbow-3840x2160.jpg' alt='Rainbow Wallpaper Desktop 4K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/download/hd-wallpapers/rainbow-3840x2160.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Abstract Rainbow 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/695/695358.jpg' alt='Download Abstract Rainbow 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/695/695358.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow colors Wallpaper 4K, Colorful, Multicolor, Waves">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/rainbow-colors-colorful-multi-color-waves-aesthetic-5k-2560x2560-1765.jpg' alt='Rainbow colors Wallpaper 4K, Colorful, Multicolor, Waves'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/rainbow-colors-colorful-multi-color-waves-aesthetic-5k-2560x2560-1765.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Rgb Abstract Rainbow 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/107/1074952.jpg' alt='Download Rgb Abstract Rainbow 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/107/1074952.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download wallpapers 4k, neon lights, rainbow, abstract art ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e9/fd/34/e9fd341793e6abe327ec208adf27427e.jpg' alt='Download wallpapers 4k, neon lights, rainbow, abstract art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="444">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e9/fd/34/e9fd341793e6abe327ec208adf27427e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/gradient-rainbow-glitter-background_23-2149750522.jpg' alt='Rainbow Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/gradient-rainbow-glitter-background_23-2149750522.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Wallpaper (Stunning, Scenic) #261">
+                                <img itemprop="contentUrl url" src='https://wallpapershome.com/images/wallpapers/rainbow-1280x720-4k-5k-wallpaper-8k-pages-background-261.jpg' alt='Rainbow Wallpaper (Stunning, Scenic) #261'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersHome" />
+                                </span>
+                                <a href='https://wallpapershome.com/images/wallpapers/rainbow-1280x720-4k-5k-wallpaper-8k-pages-background-261.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="rainbow high quality 4k ultra hd hdr 30678827 Stock Photo at Vecteezy">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/030/678/827/large_2x/rainbow-high-quality-4k-ultra-hd-hdr-free-photo.jpg' alt='rainbow high quality 4k ultra hd hdr 30678827 Stock Photo at Vecteezy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1960">
+                                <meta itemprop="height" content="1960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/030/678/827/large_2x/rainbow-high-quality-4k-ultra-hd-hdr-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

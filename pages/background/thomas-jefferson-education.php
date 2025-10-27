@@ -1,0 +1,129 @@
+<title>Thomas Jefferson's Vision for Education</title>
+                    <meta name="description" content="Explore Thomas Jefferson's commitment to education, his founding of the University of Virginia, and how his ideals shape modern public education. Discover the impact of his beliefs on democracy and the importance he placed on an informed citizenry.">
+                    <meta name="keywords" content="thomas jefferson education">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/thomas-jefferson-education">
+                            <span itemprop="name">thomas jefferson education</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Thomas Jefferson's Vision for Education</h1>
+                <p>Thomas Jefferson, an influential Founding Father and the third President of the United States, was a fervent advocate of education. He believed in cultivating an informed citizenry, emphasizing the importance of knowledge in democracy. Jefferson founded the University of Virginia, promoting public education and enlightenment ideals, which he saw as essential for national progress.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Thomas Jefferson Education: Teaching a Generation of Leaders for the  Twenty-First Century: Oliver DeMille: 9781615399918: Amazon.com: Books">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/5148XugBmeL._AC_UF1000,1000_QL80_.jpg' alt='A Thomas Jefferson Education: Teaching a Generation of Leaders for the  Twenty-First Century: Oliver DeMille: 9781615399918: Amazon.com: Books'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="670">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/5148XugBmeL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Thomas Jefferson Education">
+                                <img itemprop="contentUrl url" src='https://hslda.org/images/librariesprovider2/images/articles/blog/a-thomas-jefferson-education2d4d92f1ed196e1787f3ff0000242537.jpg?sfvrsn=3354fcd1_2' alt='A Thomas Jefferson Education'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HSLDA" />
+                                </span>
+                                <a href='https://hslda.org/images/librariesprovider2/images/articles/blog/a-thomas-jefferson-education2d4d92f1ed196e1787f3ff0000242537.jpg?sfvrsn=3354fcd1_2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thomas Jefferson on Education – The Philosophy Room">
+                                <img itemprop="contentUrl url" src='https://www.thephilroom.com/wp-content/uploads/2024/05/Thomas-Jefferson-on-Education-01.png' alt='Thomas Jefferson on Education – The Philosophy Room'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="780">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Philosophy Room" />
+                                </span>
+                                <a href='https://www.thephilroom.com/wp-content/uploads/2024/05/Thomas-Jefferson-on-Education-01.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thomas Jefferson | Early Life & Education | Study.com">
+                                <img itemprop="contentUrl url" src='https://study.com/cimages/multimages/16/thomas_jefferson_by_rembrandt_peale_18002696132978057898831.jpg' alt='Thomas Jefferson | Early Life & Education | Study.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="378">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Study.com" />
+                                </span>
+                                <a href='https://study.com/cimages/multimages/16/thomas_jefferson_by_rembrandt_peale_18002696132978057898831.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Thomas Jefferson Education: Teaching a Generation of Leaders for the  Twenty-first Century">
+                                <img itemprop="contentUrl url" src='https://images-na.ssl-images-amazon.com/images/I/516nk6wKKEL._AC_UL210_SR210,210_.jpg' alt='A Thomas Jefferson Education: Teaching a Generation of Leaders for the  Twenty-first Century'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="210">
+                                <meta itemprop="height" content="210">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://images-na.ssl-images-amazon.com/images/I/516nk6wKKEL._AC_UL210_SR210,210_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thomas Jefferson's Education: Alan Taylor on the troubled origins ...">
+                                <img itemprop="contentUrl url" src='http://www.loa.org/wp-content/uploads/2023/09/jeffersons_education_TN.jpg' alt='Thomas Jefferson's Education: Alan Taylor on the troubled origins ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="560">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Library of America" />
+                                </span>
+                                <a href='http://www.loa.org/wp-content/uploads/2023/09/jeffersons_education_TN.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Thomas Jefferson Education Homeschool">
+                                <img itemprop="contentUrl url" src='https://hessunacademy.com/wp-content/uploads/2019/05/what-is-thomas-jefferson-education-1-683x1024.png.webp' alt='What is Thomas Jefferson Education Homeschool'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hess UnAcademy" />
+                                </span>
+                                <a href='https://hessunacademy.com/wp-content/uploads/2019/05/what-is-thomas-jefferson-education-1-683x1024.png.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thomas Jefferson's Education">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61ygtyMzEZL._AC_UF1000,1000_QL80_.jpg' alt='Thomas Jefferson's Education'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="663">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61ygtyMzEZL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thomas Jefferson believed that everyone should have the right to ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d0/7d/90/d07d90bb3c97e776544243ba7313f03e.jpg' alt='Thomas Jefferson believed that everyone should have the right to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="455">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="jp.pinterest.com" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d0/7d/90/d07d90bb3c97e776544243ba7313f03e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Thomas Jefferson Education by Oliver DeMille">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/00/s/MTYwMFgxMjAw/z/wv4AAOSw1FhkozmZ/$_57.JPG?set_id=880000500F' alt='A Thomas Jefferson Education by Oliver DeMille'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/00/s/MTYwMFgxMjAw/z/wv4AAOSw1FhkozmZ/$_57.JPG?set_id=880000500F' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

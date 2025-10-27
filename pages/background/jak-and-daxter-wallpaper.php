@@ -1,0 +1,129 @@
+<title>Stunning Jak and Daxter Wallpapers for Fans</title>
+                    <meta name="description" content="Discover captivating Jak and Daxter wallpapers perfect for your devices! Enhance your screens with artwork featuring your favorite characters and landscapes from this beloved game series. Download now for a vibrant visual experience!">
+                    <meta name="keywords" content="jak and daxter wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/jak-and-daxter-wallpaper">
+                            <span itemprop="name">jak and daxter wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Jak and Daxter Wallpapers for Fans</h1>
+                <p>Explore the vibrant world of Jak and Daxter with stunning wallpapers that capture the essence of this iconic game franchise. From lush landscapes to epic character art, find the perfect backgrounds to showcase your love for Jak and Daxter. Transform your screens with engaging visuals that bring the adventure to life!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Digital Jak & Daxter | Jak & Daxter | Naughty Dog | Cook and Becker">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/cook-becker/image/fetch/q_auto:good,f_auto,w_1920/https://candb.com/site/candb/images/artwork/Jak-Daxter-Naughty-Dog-art.jpg' alt='Digital Jak & Daxter | Jak & Daxter | Naughty Dog | Cook and Becker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1672">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cook and Becker" />
+                                </span>
+                                <a href='https://res.cloudinary.com/cook-becker/image/fetch/q_auto:good,f_auto,w_1920/https://candb.com/site/candb/images/artwork/Jak-Daxter-Naughty-Dog-art.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jak and Daxter wallpaper 01 1600x1200">
+                                <img itemprop="contentUrl url" src='https://www.gamewallpapers.com/download.php?img=wallpaper_jak_and_daxter_01_1600.jpg' alt='Jak and Daxter wallpaper 01 1600x1200'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameWallpapers.com" />
+                                </span>
+                                <a href='https://www.gamewallpapers.com/download.php?img=wallpaper_jak_and_daxter_01_1600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Jak And Daxter Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/jak-and-daxter-0ukpe9y1s97pedjq.jpg' alt='100+] Jak And Daxter Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/jak-and-daxter-0ukpe9y1s97pedjq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Jak and Daxter Wallpapers">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/2304217472592902513/B9BBA48566C4EFBB8941D20B1D03EF3BD78A4DD3/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::Jak and Daxter Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/2304217472592902513/B9BBA48566C4EFBB8941D20B1D03EF3BD78A4DD3/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jak and Daxter Wallpapers HD Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6e/86/ab/6e86abba8254ecca4f2d7307d53e63a2.jpg' alt='Jak and Daxter Wallpapers HD Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="388">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6e/86/ab/6e86abba8254ecca4f2d7307d53e63a2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jak and Daxter The Precursor Legacy Wallpaper by KesslerStormblade ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/997c3ab4-077c-48d7-91af-aae26000da80/db08sx1-8a8014e9-405f-4bf2-b528-75ad7dd72515.jpg/v1/fill/w_1024,h_820,q_75,strp/jak_and_daxter_the_precursor_legacy_wallpaper_by_kesslerstormblade_db08sx1-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODIwIiwicGF0aCI6IlwvZlwvOTk3YzNhYjQtMDc3Yy00OGQ3LTkxYWYtYWFlMjYwMDBkYTgwXC9kYjA4c3gxLThhODAxNGU5LTQwNWYtNGJmMi1iNTI4LTc1YWQ3ZGQ3MjUxNS5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.RgxyhyF1DwS4PyF2aN-uB47Rt5mZOJLXxc5pZ64fJ_4' alt='Jak and Daxter The Precursor Legacy Wallpaper by KesslerStormblade ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="820">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/997c3ab4-077c-48d7-91af-aae26000da80/db08sx1-8a8014e9-405f-4bf2-b528-75ad7dd72515.jpg/v1/fill/w_1024,h_820,q_75,strp/jak_and_daxter_the_precursor_legacy_wallpaper_by_kesslerstormblade_db08sx1-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODIwIiwicGF0aCI6IlwvZlwvOTk3YzNhYjQtMDc3Yy00OGQ3LTkxYWYtYWFlMjYwMDBkYTgwXC9kYjA4c3gxLThhODAxNGU5LTQwNWYtNGJmMi1iNTI4LTc1YWQ3ZGQ3MjUxNS5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.RgxyhyF1DwS4PyF2aN-uB47Rt5mZOJLXxc5pZ64fJ_4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jak 2 Stern Jak And Daxter Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/jak-2-stern-jak-and-daxter-yzaej08pa5wzkhdz.jpg' alt='Jak 2 Stern Jak And Daxter Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/jak-2-stern-jak-and-daxter-yzaej08pa5wzkhdz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My art contribution for Jak Month! It took a few years, but I ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ug7lgshu4o081.jpg' alt='My art contribution for Jak Month! It took a few years, but I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1754">
+                                <meta itemprop="height" content="2481">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ug7lgshu4o081.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game Jak And Daxter: The Precursor Legacy HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/573/573614.jpg' alt='Download Video Game Jak And Daxter: The Precursor Legacy HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/573/573614.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Daxter And Jak 2 Starry Night Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/daxter-and-jak-2-starry-night-5crtf6g6c8atr0su.jpg' alt='Daxter And Jak 2 Starry Night Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/daxter-and-jak-2-starry-night-5crtf6g6c8atr0su.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Discover Baldi's Background: The Dark Twist in Education</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="baldi background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/baldi-background">
+                            <span itemprop="name">baldi background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Baldi's Background: The Dark Twist in Education</h1>
+                <p>Baldi's background adds a unique layer to the educational horror genre, blending a seemingly innocent school setting with a dark twist. As a strict teacher, Baldi embodies the challenges of learning and discipline. The vibrant yet unsettling environment immerses players in a world where knowledge and fear coexist, creating an unforgettable experience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classroom background : r/BaldisBasicsEdu">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/a562ufuotjp11.jpg' alt='Classroom background : r/BaldisBasicsEdu'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/a562ufuotjp11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Outdoor area | Baldi's Basics Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/baldis-basics-in-education-and-learning/images/f/f9/OutdoorArea_Classic.png/revision/latest/scale-to-width-down/1920?cb=20210125220157' alt='Outdoor area | Baldi's Basics Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Baldi's Basics Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/baldis-basics-in-education-and-learning/images/f/f9/OutdoorArea_Classic.png/revision/latest/scale-to-width-down/1920?cb=20210125220157' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I remade the windows Xp background and made it look like it was ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/2iel7e94z6a91.jpg' alt='I remade the windows Xp background and made it look like it was ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/2iel7e94z6a91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Schoolhouse | Baldi's Basics Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/baldis-basics-in-education-and-learning/images/8/8a/Here-School.jpg/revision/latest?cb=20221017095018' alt='Schoolhouse | Baldi's Basics Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1155">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Baldi's Basics Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/baldis-basics-in-education-and-learning/images/8/8a/Here-School.jpg/revision/latest?cb=20221017095018' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/7b/05/0b/7b050b6db642021deee460e008bd9d96.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/7b/05/0b/7b050b6db642021deee460e008bd9d96.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Baldi's Basics In Education And Learning Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/baldi-3wla2aur8b23bnkh.jpg' alt='Download Baldi's Basics In Education And Learning Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/baldi-3wla2aur8b23bnkh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Open Assets] - Baldi's Schoolhouse - Updates | SRB2 Message Board">
+                                <img itemprop="contentUrl url" src='https://mb.srb2.org/attachments/srb22195-png.114880/' alt='Open Assets] - Baldi's Schoolhouse - Updates | SRB2 Message Board'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SRB2 Message Board" />
+                                </span>
+                                <a href='https://mb.srb2.org/attachments/srb22195-png.114880/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Baldi Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/baldi-4exm9vdduwith7p7.jpg' alt='100+] Baldi Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/baldi-4exm9vdduwith7p7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Little Baldi!">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/5qVI-L5id_M/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBKvy_oM_6ppdURYVPcGzb56qOD3Q' alt='Little Baldi!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/5qVI-L5id_M/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBKvy_oM_6ppdURYVPcGzb56qOD3Q' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="heres a baldis basics wallpaper : r/BaldisBasicsEdu">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/heres-a-baldis-basics-wallpaper-v0-hgh79f2pyjxc1.png?width=1080&crop=smart&auto=webp&s=ba110d52ebf6e134b20089e93814b80d071511a4' alt='heres a baldis basics wallpaper : r/BaldisBasicsEdu'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/heres-a-baldis-basics-wallpaper-v0-hgh79f2pyjxc1.png?width=1080&crop=smart&auto=webp&s=ba110d52ebf6e134b20089e93814b80d071511a4' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

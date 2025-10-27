@@ -1,0 +1,129 @@
+<title>Optimize Your App with Background Tasks</title>
+                    <meta name="description" content="Learn how background tasks enhance app performance and user experience. Discover their importance in running continuous processes without interruptions, ensuring smooth operations while keeping users engaged. Perfect for developers looking to optimize app functionality.">
+                    <meta name="keywords" content="background tasks">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/background-tasks">
+                            <span itemprop="name">background tasks</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Optimize Your App with Background Tasks</h1>
+                <p>Background tasks refer to processes that run in the background of an application, allowing users to continue interacting with the app while the task completes. They are essential for enhancing user experience, improving app performance, and performing operations like data synchronization or updates without interrupting user activity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anvil Docs | Background Tasks">
+                                <img itemprop="contentUrl url" src='https://anvil.works/docs/background-tasks/img/_index/background-tasks-modal-new-ide.png' alt='Anvil Docs | Background Tasks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1623">
+                                <meta itemprop="height" content="776">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anvil Works" />
+                                </span>
+                                <a href='https://anvil.works/docs/background-tasks/img/_index/background-tasks-modal-new-ide.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unity - Manual: The Background Tasks window">
+                                <img itemprop="contentUrl url" src='https://docs.unity3d.com/2020.1/Documentation/uploads/Main/window-bg-tasks-overview.png' alt='Unity - Manual: The Background Tasks window'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="458">
+                                <meta itemprop="height" content="452">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unity - Manual" />
+                                </span>
+                                <a href='https://docs.unity3d.com/2020.1/Documentation/uploads/Main/window-bg-tasks-overview.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Running Tasks in the Background">
+                                <img itemprop="contentUrl url" src='https://anvil.works/learn/tutorials/img/background-tasks-tutorial/task-is-running.png' alt='Running Tasks in the Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="635">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anvil Works" />
+                                </span>
+                                <a href='https://anvil.works/learn/tutorials/img/background-tasks-tutorial/task-is-running.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Tasks | Plesk Onyx documentation">
+                                <img itemprop="contentUrl url" src='https://docs.plesk.com/en-US/onyx/extensions-guide/images/79856.webp' alt='Background Tasks | Plesk Onyx documentation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="299">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Plesk Documentation" />
+                                </span>
+                                <a href='https://docs.plesk.com/en-US/onyx/extensions-guide/images/79856.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Task — React Native. Write background tasks in react ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1400/1*XpH1VGwvPc9eFBBJ8KMsPQ.jpeg' alt='Background Task — React Native. Write background tasks in react ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="788">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1400/1*XpH1VGwvPc9eFBBJ8KMsPQ.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anvil Docs | Background Tasks">
+                                <img itemprop="contentUrl url" src='https://anvil.works/docs/background-tasks/img/_index/background-tasks-modal.png' alt='Anvil Docs | Background Tasks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="896">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anvil Works" />
+                                </span>
+                                <a href='https://anvil.works/docs/background-tasks/img/_index/background-tasks-modal.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Task in Swift. Hi everybody, I'm Riccardo. Senior iOS ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:910/1*itEASNbvE31AoVEI855-Zg.jpeg' alt='Background Task in Swift. Hi everybody, I'm Riccardo. Senior iOS ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="910">
+                                <meta itemprop="height" content="551">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:910/1*itEASNbvE31AoVEI855-Zg.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Tasks in .NET - CodeOpinion">
+                                <img itemprop="contentUrl url" src='https://codeopinion.com/wp-content/uploads/2016/04/hangfire.png' alt='Background Tasks in .NET - CodeOpinion'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2782">
+                                <meta itemprop="height" content="1650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CodeOpinion" />
+                                </span>
+                                <a href='https://codeopinion.com/wp-content/uploads/2016/04/hangfire.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Tasks · dbeaver/dbeaver Wiki · GitHub">
+                                <img itemprop="contentUrl url" src='https://github.com/dbeaver/dbeaver/wiki/images/ug/Background-tasks-open.png' alt='Background Tasks · dbeaver/dbeaver Wiki · GitHub'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="964">
+                                <meta itemprop="height" content="654">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GitHub" />
+                                </span>
+                                <a href='https://github.com/dbeaver/dbeaver/wiki/images/ug/Background-tasks-open.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What are Background Tasks? – iClassPro Support">
+                                <img itemprop="contentUrl url" src='https://support.iclasspro.com/hc/article_attachments/22702335561367' alt='What are Background Tasks? – iClassPro Support'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="759">
+                                <meta itemprop="height" content="764">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iClassPro Support" />
+                                </span>
+                                <a href='https://support.iclasspro.com/hc/article_attachments/22702335561367' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

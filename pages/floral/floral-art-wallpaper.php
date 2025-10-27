@@ -1,0 +1,129 @@
+<title>Beautify Your Space with Floral Art Wallpaper</title>
+                    <meta name="description" content="Explore our exquisite floral art wallpaper collection! Revitalize your home with stunning designs that effortlessly blend elegance and nature. Perfect for all rooms, these wallpapers offer a fresh, inviting atmosphere. Discover your next decor statement today!">
+                    <meta name="keywords" content="floral art wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/floral-art-wallpaper">
+                            <span itemprop="name">floral art wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautify Your Space with Floral Art Wallpaper</h1>
+                <p>Floral art wallpaper brings nature indoors, transforming your living space with vibrant colors and beautiful patterns. Perfect for any room, it adds a touch of elegance and freshness to your decor. Whether you're aiming for a vintage charm or a modern look, floral wallpapers enhance your ambiance and create a captivating atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Floral II Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.elliecashmandesign.com/us-en/media/catalog/product/6/7/67714130c37b2.jpg?optimize=medium&width=345' alt='Dark Floral II Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ellie Cashman Design" />
+                                </span>
+                                <a href='https://www.elliecashmandesign.com/us-en/media/catalog/product/6/7/67714130c37b2.jpg?optimize=medium&width=345' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pretty Flowers Wallpaper in Multicoloured – I Love Wallpaper">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/1-PrettyFlowers-Multicoloured_ILW50364_Thumbnail_WEB_a4c0b5b7-9cf7-41ed-84d1-35a74b20db7f.webp?v=1706001850&width=1024' alt='Pretty Flowers Wallpaper in Multicoloured – I Love Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/1-PrettyFlowers-Multicoloured_ILW50364_Thumbnail_WEB_a4c0b5b7-9cf7-41ed-84d1-35a74b20db7f.webp?v=1706001850&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Art Wallpaper Peel and Stick - Bright Large Flowers Wall Mural  Wallpaper - Self Adhesive Wall Mural for Bedroom Living Room Home -  Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91Wla9sL3uL._AC_UF894,1000_QL80_.jpg' alt='Floral Art Wallpaper Peel and Stick - Bright Large Flowers Wall Mural  Wallpaper - Self Adhesive Wall Mural for Bedroom Living Room Home -  Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91Wla9sL3uL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cornelia Blue">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1715781765/articles/FL0112DA03W_product.jpg' alt='Cornelia Blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hovia" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1715781765/articles/FL0112DA03W_product.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Floral Wallpaper Wall Mural & Botanical Flowers Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18177859/r/il/3efefe/4914646692/il_570xN.4914646692_k8b2.jpg' alt='Vintage Floral Wallpaper Wall Mural & Botanical Flowers Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18177859/r/il/3efefe/4914646692/il_570xN.4914646692_k8b2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Friday Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.miltonandking.com/wp-content/uploads/2018/10/Wallpaper-Republic-Firday-Floral-1-1100x1318.jpg' alt='Friday Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1318">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://www.miltonandking.com/wp-content/uploads/2018/10/Wallpaper-Republic-Firday-Floral-1-1100x1318.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blush Floral Wallpaper | Anewall Mural Wallpapers">
+                                <img itemprop="contentUrl url" src='https://anewall.com/cdn/shop/products/blush-floral-mural-wallpaper-5.jpg?v=1598560725' alt='Blush Floral Wallpaper | Anewall Mural Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anewall" />
+                                </span>
+                                <a href='https://anewall.com/cdn/shop/products/blush-floral-mural-wallpaper-5.jpg?v=1598560725' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: BZHXBZ - Floral Wallpaper Pink Peony murals Girls Bedroom  Botanical Rose Flowers Leaf Aesthetic Room Decor Home Living Room tv  Background ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/814I+ikHw0L.jpg' alt='Amazon.com: BZHXBZ - Floral Wallpaper Pink Peony murals Girls Bedroom  Botanical Rose Flowers Leaf Aesthetic Room Decor Home Living Room tv  Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/814I+ikHw0L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mindthegap Chinese Floral World Culture Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.decoratorsbest.com/cdn/shop/products/6841399509038_143068d6-8f9d-4a93-9461-05936601878e.jpg?v=1693238710' alt='Mindthegap Chinese Floral World Culture Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecoratorsBest" />
+                                </span>
+                                <a href='https://www.decoratorsbest.com/cdn/shop/products/6841399509038_143068d6-8f9d-4a93-9461-05936601878e.jpg?v=1693238710' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="16 Dark Floral Wallpaper Designs at Wallsauce | Wallsauce US">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/uploads/wallsauce-com/images/blogs/The-Secret-of-Achieving-the-Dark-Floral-Wallpaper-Look.jpg' alt='16 Dark Floral Wallpaper Designs at Wallsauce | Wallsauce US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="492">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/uploads/wallsauce-com/images/blogs/The-Secret-of-Achieving-the-Dark-Floral-Wallpaper-Look.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

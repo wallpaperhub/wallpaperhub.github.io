@@ -1,0 +1,129 @@
+<title>Elevate Your Space with Blue and White Chinoiserie Wallpaper</title>
+                    <meta name="description" content="Transform your home with stunning blue and white chinoiserie wallpaper, combining traditional artistry and modern elegance. Ideal for any room, this wallpaper creates an inviting atmosphere while showcasing intricate designs that enhance your decor. Discover the perfect style for your space today!">
+                    <meta name="keywords" content="blue and white chinoiserie wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/blue-and-white-chinoiserie-wallpaper">
+                            <span itemprop="name">blue and white chinoiserie wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Space with Blue and White Chinoiserie Wallpaper</h1>
+                <p>Blue and white chinoiserie wallpaper brings elegance and charm to any space. Its intricate designs, inspired by traditional Chinese art, often feature floral motifs, landscapes, and exotic birds. Perfect for adding a touch of sophistication, this wallpaper complements a variety of decor styles, blending seamlessly with both modern and classic interiors.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Chinoiserie with Brush Tile Pattern Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://www.wallmur.com/media/catalog/product/cache/d2490ff774ad2196f075b30a2e194e25/c/h/chinoiserie-wallpaper-blue-tile-wall-mural-gold-brush-wall-print_fizjzqnjzwv_3d_1.jpg' alt='Blue Chinoiserie with Brush Tile Pattern Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://www.wallmur.com/media/catalog/product/cache/d2490ff774ad2196f075b30a2e194e25/c/h/chinoiserie-wallpaper-blue-tile-wall-mural-gold-brush-wall-print_fizjzqnjzwv_3d_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Serena Blue Chinoiserie Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.yorkwallcoverings.com/cdn/shop/products/4120-26810.jpg?v=1701118496&width=2400' alt='Serena Blue Chinoiserie Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1768">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="York Wallcoverings" />
+                                </span>
+                                <a href='https://www.yorkwallcoverings.com/cdn/shop/products/4120-26810.jpg?v=1701118496&width=2400' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NAUZHA Blue and White Chinoiserie Wallpaper Mural, Vintage Wall ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/19728131/r/il/bbbf7a/4070784845/il_570xN.4070784845_3x0j.jpg' alt='NAUZHA Blue and White Chinoiserie Wallpaper Mural, Vintage Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/19728131/r/il/bbbf7a/4070784845/il_570xN.4070784845_3x0j.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chinoiserie Wallpaper • Classic Florals & Birds • Milton & King">
+                                <img itemprop="contentUrl url" src='https://s29938.pcdn.co/wp-content/uploads/2021/05/Wallpaper-Magnaolia-Chinoiserie-Royal-Blue-1.jpg.optimal.jpg' alt='Chinoiserie Wallpaper • Classic Florals & Birds • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://s29938.pcdn.co/wp-content/uploads/2021/05/Wallpaper-Magnaolia-Chinoiserie-Royal-Blue-1.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chinoiserie Whimsy Garden Blue">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/58453/chinoiserie-whimsy-garden-blue.jpg?h=699&q=85' alt='Chinoiserie Whimsy Garden Blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="968">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/58453/chinoiserie-whimsy-garden-blue.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Self Adhesive PVC Wallpaper Seamless Chinoiserie Chic Chinese Blue and  White Porcelain Print Peel & Stick Wallpaper Wall Mural Wall Decal Wall  Poster ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81VSuHWsuCL.jpg' alt='Self Adhesive PVC Wallpaper Seamless Chinoiserie Chic Chinese Blue and  White Porcelain Print Peel & Stick Wallpaper Wall Mural Wall Decal Wall  Poster ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81VSuHWsuCL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Exotic Chinoiserie Blue & White wallpaper Iksel SC134 – Selected ...">
+                                <img itemprop="contentUrl url" src='https://www.selectedwallpapers.com/cdn/shop/products/Exotic-Chinoiserie-Blue-White-behang-Iksel-Selected-Wallpapers.jpg?v=1677754907&width=720' alt='Exotic Chinoiserie Blue & White wallpaper Iksel SC134 – Selected ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Selected Wallpapers & Interiors" />
+                                </span>
+                                <a href='https://www.selectedwallpapers.com/cdn/shop/products/Exotic-Chinoiserie-Blue-White-behang-Iksel-Selected-Wallpapers.jpg?v=1677754907&width=720' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue and White Vintage Chinoiserie Garden Wallpaper | Happywall">
+                                <img itemprop="contentUrl url" src='https://happywall-img-gallery.imgix.net/64422/blue-and-white-vintage-chinoiserie-garden-roll.jpg?w=1400&auto=format&q=40' alt='Blue and White Vintage Chinoiserie Garden Wallpaper | Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="933">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-img-gallery.imgix.net/64422/blue-and-white-vintage-chinoiserie-garden-roll.jpg?w=1400&auto=format&q=40' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NAUZHA Blue and White Chinoiserie Wallpaper Mural, Vintage Silk ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/19728131/r/il/9aac77/3425735932/il_570xN.3425735932_r6tc.jpg' alt='NAUZHA Blue and White Chinoiserie Wallpaper Mural, Vintage Silk ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/19728131/r/il/9aac77/3425735932/il_570xN.3425735932_r6tc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Chinoiserie Blue and White Mural Wallpaper M1418-Sample">
+                                <img itemprop="contentUrl url" src='https://wallsrepublic.com/cdn/shop/files/BlueChinoiserieBlueandWhiteMuralWallpaper.2_646ab91e-8518-4ce6-9472-e8f5cd43b6c1.jpg?v=1701696013&width=1200' alt='Blue Chinoiserie Blue and White Mural Wallpaper M1418-Sample'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='https://wallsrepublic.com/cdn/shop/files/BlueChinoiserieBlueandWhiteMuralWallpaper.2_646ab91e-8518-4ce6-9472-e8f5cd43b6c1.jpg?v=1701696013&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

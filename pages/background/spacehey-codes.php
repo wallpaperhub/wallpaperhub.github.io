@@ -1,0 +1,129 @@
+<title>Discover SpaceHey Codes: Unlock Your Profile</title>
+                    <meta name="description" content="Explore the fascinating world of SpaceHey codes! Learn how to customize your profile, access unique features, and enhance your online interactions effortlessly. Join the community and make your SpaceHey experience truly your own with these easy-to-use codes!">
+                    <meta name="keywords" content="spacehey codes">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/spacehey-codes">
+                            <span itemprop="name">spacehey codes</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover SpaceHey Codes: Unlock Your Profile</h1>
+                <p>SpaceHey codes are unique alphanumeric combinations used to personalize your SpaceHey profile, enhance your interactions, and unlock hidden features. With these codes, users can easily access custom layouts, emojis, and themes. Discover the endless possibilities for self-expression in your online space!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I have no clue what I have done wrong with this code. : r/spacehey">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/i-have-no-clue-what-i-have-done-wrong-with-this-code-v0-06cwpunfswob1.jpg?width=1080&crop=smart&auto=webp&s=767c9478e51b270e4f54b2846786d89ca5283c7d' alt='I have no clue what I have done wrong with this code. : r/spacehey'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1476">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/i-have-no-clue-what-i-have-done-wrong-with-this-code-v0-06cwpunfswob1.jpg?width=1080&crop=smart&auto=webp&s=767c9478e51b270e4f54b2846786d89ca5283c7d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Code SpaceHey The Retro Myspace Website">
+                                <img itemprop="contentUrl url" src='https://www.codecademy.com/resources/blog/wp-content/uploads/2022/07/SpaceHey-Layout-Browse.png' alt='How To Code SpaceHey The Retro Myspace Website'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1096">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Codecademy" />
+                                </span>
+                                <a href='https://www.codecademy.com/resources/blog/wp-content/uploads/2022/07/SpaceHey-Layout-Browse.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Code is gone from the "About Me" section but my profile is still ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/code-is-gone-from-the-about-me-section-but-my-profile-is-v0-rrbku8gvibac1.png?width=1920&format=png&auto=webp&s=d5613cd2bd18977a55151dd072365c6764f36fdf' alt='Code is gone from the "About Me" section but my profile is still ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="860">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/code-is-gone-from-the-about-me-section-but-my-profile-is-v0-rrbku8gvibac1.png?width=1920&format=png&auto=webp&s=d5613cd2bd18977a55151dd072365c6764f36fdf' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Code SpaceHey The Retro Myspace Website">
+                                <img itemprop="contentUrl url" src='https://www.codecademy.com/resources/blog/wp-content/uploads/2022/12/spacehey_thumbnail.png' alt='How To Code SpaceHey The Retro Myspace Website'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1201">
+                                <meta itemprop="height" content="559">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Codecademy" />
+                                </span>
+                                <a href='https://www.codecademy.com/resources/blog/wp-content/uploads/2022/12/spacehey_thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Code is gone from the "About Me" section but my profile is still ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/code-is-gone-from-the-about-me-section-but-my-profile-is-v0-gkj415oqibac1.png?width=1920&format=png&auto=webp&s=5505be1a2581b5ae12962ec80b4665bbfbe9e8a6' alt='Code is gone from the "About Me" section but my profile is still ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="873">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/code-is-gone-from-the-about-me-section-but-my-profile-is-v0-gkj415oqibac1.png?width=1920&format=png&auto=webp&s=5505be1a2581b5ae12962ec80b4665bbfbe9e8a6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="#stitch with @   hope this helps    #spacehey #myspace #spaceheyprofile  #tutorial #coding  #f#fypf#fypf#foryouf#foryourpagef#foryoupagef#fypagef#fyouv#viralv#viralpostv#viralvideosv#videov#viralvideo">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7251090106956713259&location=0&aid=1988' alt='#stitch with @   hope this helps    #spacehey #myspace #spaceheyprofile  #tutorial #coding  #f#fypf#fypf#foryouf#foryourpagef#foryoupagef#fypagef#fyouv#viralv#viralpostv#viralvideosv#videov#viralvideo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7251090106956713259&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coding Classes at K12 Academy for Beginners">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7444015117173361950&location=0&aid=1988' alt='Coding Classes at K12 Academy for Beginners'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7444015117173361950&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="username is cienlins but this is genounely so fun        #spacehey  #spaceheyprofile #myspace #morningmusume #jpop #kpop #モーニング娘 #道重さゆみ #高橋愛  #リンリン #loona #helloproject">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7232384017591553306&location=0&aid=1988' alt='username is cienlins but this is genounely so fun        #spacehey  #spaceheyprofile #myspace #morningmusume #jpop #kpop #モーニング娘 #道重さゆみ #高橋愛  #リンリン #loona #helloproject'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7232384017591553306&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I have no clue what I have done wrong with this code. : r/spacehey">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/i-have-no-clue-what-i-have-done-wrong-with-this-code-v0-5j0tifqfswob1.jpg?width=640&crop=smart&auto=webp&s=b591b22d53e366ef38c37db54f1cc8cfce165ef4' alt='I have no clue what I have done wrong with this code. : r/spacehey'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="877">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/i-have-no-clue-what-i-have-done-wrong-with-this-code-v0-5j0tifqfswob1.jpg?width=640&crop=smart&auto=webp&s=b591b22d53e366ef38c37db54f1cc8cfce165ef4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="spacehey layout request ♪">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a1/c9/18/a1c918768aeccd922191c86c71fd1cef.jpg' alt='spacehey layout request ♪'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="878">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a1/c9/18/a1c918768aeccd922191c86c71fd1cef.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

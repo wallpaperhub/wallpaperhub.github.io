@@ -1,0 +1,129 @@
+<title>Inspiring Lock Screen Wallpapers: Trust in the Lord</title>
+                    <meta name="description" content="Discover stunning "Trust in the Lord" lock screen wallpapers that inspire daily faith. Perfect for uplifting your spirits and adding a touch of serenity to your device, these designs blend beauty with powerful messages to encourage trust and positivity in your life.">
+                    <meta name="keywords" content="lock screen trust in the lord wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock">
+                            <span itemprop="name">Lock</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock/lock-screen-trust-in-the-lord-wallpaper">
+                            <span itemprop="name">lock screen trust in the lord wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Inspiring Lock Screen Wallpapers: Trust in the Lord</h1>
+                <p>Transform your phone's lock screen with inspiring "Trust in the Lord" wallpapers. These beautiful designs remind you to lean on faith and positivity, creating a daily atmosphere of hope and strength. Perfect for anyone seeking encouragement, these wallpapers blend art with uplifting scripture for a serene aesthetic.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="April Lock Screen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/51/c6/29/51c6291c96e17e3bcf1c635eb4015e89.jpg' alt='April Lock Screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/51/c6/29/51c6291c96e17e3bcf1c635eb4015e89.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trust in the Lord Lock Screen – Life Is Art">
+                                <img itemprop="contentUrl url" src='https://cbrlifeisart.com/wp-content/uploads/2018/07/trust-in-the-lord-lock-screen-c-brooke-ring-01.jpg' alt='Trust in the Lord Lock Screen – Life Is Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5175">
+                                <meta itemprop="height" content="9200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Life Is Art – An Inspiration Blog by C. Brooke Ring" />
+                                </span>
+                                <a href='https://cbrlifeisart.com/wp-content/uploads/2018/07/trust-in-the-lord-lock-screen-c-brooke-ring-01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trust in the Lord - Believers4ever.com">
+                                <img itemprop="contentUrl url" src='https://believers4ever.com/wp-content/uploads/2019/02/Trust-in-the-Lord-mobile-wallpaper.jpg' alt='Trust in the Lord - Believers4ever.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Believers4ever.com" />
+                                </span>
+                                <a href='https://believers4ever.com/wp-content/uploads/2019/02/Trust-in-the-Lord-mobile-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trust in the Lord - Phone Wallpaper and Mobile Background">
+                                <img itemprop="contentUrl url" src='https://media.swncdn.com/cms/CROSSCARDS/27944-cc_wall_lake_Galaxys6Edge.jpg' alt='Trust in the Lord - Phone Wallpaper and Mobile Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Crosscards.com" />
+                                </span>
+                                <a href='https://media.swncdn.com/cms/CROSSCARDS/27944-cc_wall_lake_Galaxys6Edge.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trust In The Lord Bible Verse Lock Screen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2e/ed/00/2eed00425276a06c9c7df30bfbc2c606.jpg' alt='Trust In The Lord Bible Verse Lock Screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="952">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2e/ed/00/2eed00425276a06c9c7df30bfbc2c606.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Trust The Lord Quote Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/trust-the-lord-quote-uexnyx7h7hg7p9p1.jpg' alt='Download Trust The Lord Quote Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/trust-the-lord-quote-uexnyx7h7hg7p9p1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mini Banner Lock Screen: Trust">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0074/7674/0155/files/Trust.png?8621' alt='Mini Banner Lock Screen: Trust'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1290">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hosanna Revival" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0074/7674/0155/files/Trust.png?8621' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trust in the Lord - Holly Lane">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/89/2b/c9/892bc9bc0739eed996fb21cc5b165075.jpg' alt='Trust in the Lord - Holly Lane'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1302">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/89/2b/c9/892bc9bc0739eed996fb21cc5b165075.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Psalm 91:2 Lock Screen – Life Is Art">
+                                <img itemprop="contentUrl url" src='https://cbrlifeisart.com/wp-content/uploads/2020/04/img_1098.png?w=720' alt='Psalm 91:2 Lock Screen – Life Is Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Life Is Art – An Inspiration Blog by C. Brooke Ring" />
+                                </span>
+                                <a href='https://cbrlifeisart.com/wp-content/uploads/2020/04/img_1098.png?w=720' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="In all things trust God - Believers4ever.com">
+                                <img itemprop="contentUrl url" src='https://believers4ever.com/wp-content/uploads/2015/10/In-all-things-trust-God-mobile-576x1024.png' alt='In all things trust God - Believers4ever.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Believers4ever.com" />
+                                </span>
+                                <a href='https://believers4ever.com/wp-content/uploads/2015/10/In-all-things-trust-God-mobile-576x1024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

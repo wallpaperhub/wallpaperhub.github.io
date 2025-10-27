@@ -1,0 +1,129 @@
+<title>Off White Hex Code: Find the Perfect Shade for Your Design</title>
+                    <meta name="description" content="Discover the off white hex code, #F8F8F0, and learn how to incorporate this timeless shade into your designs. Perfect for interiors and fashion, off white adds elegance and versatility to any project. Get inspired and elevate your aesthetic with this classic color choice!">
+                    <meta name="keywords" content="off white hex code">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/off-white-hex-code">
+                            <span itemprop="name">off white hex code</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Off White Hex Code: Find the Perfect Shade for Your Design</h1>
+                <p>Off white is a classic and versatile color that pairs well with various palettes. The hex code for off white typically is #F8F8F0, which gives a subtle, warm appearance. This soft hue is popular in interior design and fashion, offering a clean, sophisticated backdrop that enhances other colors. Ideal for minimalist aesthetics.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Off-White Color: Hex Code, Palettes & Meaning | Figma">
+                                <img itemprop="contentUrl url" src='https://cdn.sanity.io/images/599r6htc/regionalized/8d21d3f9525ac2c82934290913d496d0552fa75f-1440x810.jpg' alt='Off-White Color: Hex Code, Palettes & Meaning | Figma'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Figma" />
+                                </span>
+                                <a href='https://cdn.sanity.io/images/599r6htc/regionalized/8d21d3f9525ac2c82934290913d496d0552fa75f-1440x810.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Everything about the color Off White">
+                                <img itemprop="contentUrl url" src='https://about.canva.com/wp-content/uploads/sites/8/2019/04/off-white.png' alt='Everything about the color Off White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1504">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://about.canva.com/wp-content/uploads/sites/8/2019/04/off-white.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Off White & Neutrals Color Scheme - Palettes - SchemeColor.com">
+                                <img itemprop="contentUrl url" src='https://www.schemecolor.com/images/scheme/off-white-neutrals.png' alt='Off White & Neutrals Color Scheme - Palettes - SchemeColor.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SchemeColor" />
+                                </span>
+                                <a href='https://www.schemecolor.com/images/scheme/off-white-neutrals.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Behr Off White 73 / #e6e1d3 Hex Color Code, RGB and Paints">
+                                <img itemprop="contentUrl url" src='https://encycolorpedia.com/e6e1d3.svg' alt='Behr Off White 73 / #e6e1d3 Hex Color Code, RGB and Paints'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Encycolorpedia" />
+                                </span>
+                                <a href='https://encycolorpedia.com/e6e1d3.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Off White Gray color hex code is #F0F0F0">
+                                <img itemprop="contentUrl url" src='https://www.color-name.com/images/color/F0F0F0.webp' alt='Off White Gray color hex code is #F0F0F0'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Color-Name.com" />
+                                </span>
+                                <a href='https://www.color-name.com/images/color/F0F0F0.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Off White Color | ArtyClick">
+                                <img itemprop="contentUrl url" src='https://colors.artyclick.com/color-names-dictionary/color-names/off-white-color/off-white-color_color.png' alt='Off White Color | ArtyClick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="950">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtyClick Colors" />
+                                </span>
+                                <a href='https://colors.artyclick.com/color-names-dictionary/color-names/off-white-color/off-white-color_color.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Warm White colors palette - ColorsWall">
+                                <img itemprop="contentUrl url" src='https://colorswall.com/images/palettes/warm-white-222134-colorswall.png' alt='Warm White colors palette - ColorsWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ColorsWall" />
+                                </span>
+                                <a href='https://colorswall.com/images/palettes/warm-white-222134-colorswall.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Off White Color - HEX #F5F5F5 Meaning and Live Previews - PaletteMaker">
+                                <img itemprop="contentUrl url" src='https://palettemaker.com/images/colors/off-white.png' alt='Off White Color - HEX #F5F5F5 Meaning and Live Previews - PaletteMaker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PaletteMaker" />
+                                </span>
+                                <a href='https://palettemaker.com/images/colors/off-white.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="70 White Hex Codes to Pick the Perfect Shades of White | LouiseM">
+                                <img itemprop="contentUrl url" src='https://sp-ao.shortpixel.ai/client/to_auto,q_lossy,ret_img,w_1200,h_1800/https://louisem.com/wp-content/uploads/2023/04/white-hex-codes-PIN.png' alt='70 White Hex Codes to Pick the Perfect Shades of White | LouiseM'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LouiseM" />
+                                </span>
+                                <a href='https://sp-ao.shortpixel.ai/client/to_auto,q_lossy,ret_img,w_1200,h_1800/https://louisem.com/wp-content/uploads/2023/04/white-hex-codes-PIN.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ford Off White / #f5f2d0 Hex Color Code, RGB and Paints">
+                                <img itemprop="contentUrl url" src='https://encycolorpedia.com/f5f2d0.svg' alt='Ford Off White / #f5f2d0 Hex Color Code, RGB and Paints'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Encycolorpedia" />
+                                </span>
+                                <a href='https://encycolorpedia.com/f5f2d0.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

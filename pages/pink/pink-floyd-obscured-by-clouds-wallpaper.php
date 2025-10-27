@@ -1,0 +1,129 @@
+<title>Download Pink Floyd Obscured by Clouds Wallpapers Now!</title>
+                    <meta name="description" content="Discover captivating Pink Floyd Obscured by Clouds wallpapers to elevate your device's aesthetic. Perfect for fans who appreciate the band's art and music, these wallpapers offer a blend of nostalgia and beauty, ensuring your screen stands out. Explore and transform your digital space today!">
+                    <meta name="keywords" content="pink floyd obscured by clouds wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-floyd-obscured-by-clouds-wallpaper">
+                            <span itemprop="name">pink floyd obscured by clouds wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Download Pink Floyd Obscured by Clouds Wallpapers Now!</h1>
+                <p>Transform your space with stunning "Pink Floyd Obscured by Clouds" wallpapers. These striking designs capture the essence of the iconic album, featuring ethereal clouds and vibrant colors that evoke the band’s unique soundscape. Ideal for fans and art lovers alike, these wallpapers create a serene atmosphere, transporting you into the world of Pink Floyd.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classic Album: Pink Floyd – Obscured by Clouds – The Thin Air">
+                                <img itemprop="contentUrl url" src='https://thethinair.net/wp-content/uploads/2015/03/obscured.jpg' alt='Classic Album: Pink Floyd – Obscured by Clouds – The Thin Air'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="992">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Thin Air" />
+                                </span>
+                                <a href='https://thethinair.net/wp-content/uploads/2015/03/obscured.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="After seeing someone posting a phone wallpaper inspired by "The ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/after-seeing-someone-posting-a-phone-wallpaper-inspired-by-v0-v54cq9aopx0a1.jpg?width=640&crop=smart&auto=webp&s=c5a9e1e0201a727c50f133578fea5a651a39c596' alt='After seeing someone posting a phone wallpaper inspired by "The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/after-seeing-someone-posting-a-phone-wallpaper-inspired-by-v0-v54cq9aopx0a1.jpg?width=640&crop=smart&auto=webp&s=c5a9e1e0201a727c50f133578fea5a651a39c596' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Floyd, Obscured By Clouds Album Cover, 1972 | San Francisco ...">
+                                <img itemprop="contentUrl url" src='https://sfae.blob.core.windows.net/media/ecommercesite/media/sfae/sfae.artwork/2199_1.jpg' alt='Pink Floyd, Obscured By Clouds Album Cover, 1972 | San Francisco ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="820">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="San Francisco Art Exchange" />
+                                </span>
+                                <a href='https://sfae.blob.core.windows.net/media/ecommercesite/media/sfae/sfae.artwork/2199_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="After seeing someone posting a phone wallpaper inspired by "The ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/after-seeing-someone-posting-a-phone-wallpaper-inspired-by-v0-k4egv1v0qx0a1.jpg?width=1200&format=pjpg&auto=webp&s=41c4135d331dc1dceafae9730776a79ecb05caf5' alt='After seeing someone posting a phone wallpaper inspired by "The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/after-seeing-someone-posting-a-phone-wallpaper-inspired-by-v0-k4egv1v0qx0a1.jpg?width=1200&format=pjpg&auto=webp&s=41c4135d331dc1dceafae9730776a79ecb05caf5' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Obscured by Clouds - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/e/ef/Pink_Floyd_-_Obscured_by_Clouds.jpg' alt='Obscured by Clouds - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/e/ef/Pink_Floyd_-_Obscured_by_Clouds.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Floyd - Obscured By Clouds">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d8/5f/b6/d85fb610946a2844f0010e48d1aeeabe.jpg' alt='Pink Floyd - Obscured By Clouds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="599">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d8/5f/b6/d85fb610946a2844f0010e48d1aeeabe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::pink floyd obscured by clouds wallpaper">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/1290794463886701922/BF32135940A5DFA39667F9B8BB532910C1DA6BFE/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::pink floyd obscured by clouds wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/1290794463886701922/BF32135940A5DFA39667F9B8BB532910C1DA6BFE/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why Pink Floyd's 'Obscured by Clouds' Deserves Another Look">
+                                <img itemprop="contentUrl url" src='https://townsquare.media/site/295/files/2012/06/Pink-Floyd-Obscured-by-Clouds-Photo.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89' alt='Why Pink Floyd's 'Obscured by Clouds' Deserves Another Look'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ultimate Classic Rock" />
+                                </span>
+                                <a href='https://townsquare.media/site/295/files/2012/06/Pink-Floyd-Obscured-by-Clouds-Photo.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="After seeing someone posting a phone wallpaper inspired by "The ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/after-seeing-someone-posting-a-phone-wallpaper-inspired-by-v0-3gm392svpx0a1.jpg?width=1000&format=pjpg&auto=webp&s=7b702acf1130d4c928b8db2e65182fc8e718e7b7' alt='After seeing someone posting a phone wallpaper inspired by "The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="2165">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/after-seeing-someone-posting-a-phone-wallpaper-inspired-by-v0-3gm392svpx0a1.jpg?width=1000&format=pjpg&auto=webp&s=7b702acf1130d4c928b8db2e65182fc8e718e7b7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Floyd - Obscured By Clouds LP - Amazon.com Music">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61rYNGSm4IL._UF350,350_QL50_.jpg' alt='Pink Floyd - Obscured By Clouds LP - Amazon.com Music'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="333">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61rYNGSm4IL._UF350,350_QL50_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

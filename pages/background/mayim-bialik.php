@@ -1,0 +1,129 @@
+<title>Mayim Bialik: Actress, Scientist, Advocate</title>
+                    <meta name="description" content="Discover the inspiring journey of Mayim Bialik, an accomplished actress and neuroscientist known for her roles in popular TV shows. Learn about her contributions to science and mental health advocacy. Explore her multifaceted life that bridges entertainment and education.">
+                    <meta name="keywords" content="mayim bialik">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/mayim-bialik">
+                            <span itemprop="name">mayim bialik</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mayim Bialik: Actress, Scientist, Advocate</h1>
+                <p>Mayim Bialik is an acclaimed actress, neuroscientist, and author, best known for her roles on "Blossom" and "The Big Bang Theory." With a PhD in neuroscience, she blending her passion for science with entertainment. An advocate for mental health and education, Bialik inspires many through her multifaceted career.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mayim Bialik - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/5/54/Mayim_Bialik%2C_March_2018_%284116%29_%28cropped%29.jpg' alt='Mayim Bialik - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="809">
+                                <meta itemprop="height" content="1218">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/5/54/Mayim_Bialik%2C_March_2018_%284116%29_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mayim Bialik - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BODE4MDkzNDU2MV5BMl5BanBnXkFtZTgwMzcxNTAzMDE@._V1_FMjpg_UX1000_.jpg' alt='Mayim Bialik - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BODE4MDkzNDU2MV5BMl5BanBnXkFtZTgwMzcxNTAzMDE@._V1_FMjpg_UX1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Mayim Bialik">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100044344813418' alt='Profile for Mayim Bialik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100044344813418' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neuroscientist and actor Mayim Bialik to speak at Penn State ...">
+                                <img itemprop="contentUrl url" src='https://psu-gatsby-files-prod.s3.amazonaws.com/s3fs-public/styles/16_9_1000w/public/MayimBialikNews.jpg?h=3dbd9eac&itok=_nM2y-cV' alt='Neuroscientist and actor Mayim Bialik to speak at Penn State ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Penn State" />
+                                </span>
+                                <a href='https://psu-gatsby-files-prod.s3.amazonaws.com/s3fs-public/styles/16_9_1000w/public/MayimBialikNews.jpg?h=3dbd9eac&itok=_nM2y-cV' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mayim Bialik - Actress, Neuroscientist, Game Show Host">
+                                <img itemprop="contentUrl url" src='https://ntvb.tmsimg.com/assets/assets/155_v9_bb.jpg?w=360&h=480' alt='Mayim Bialik - Actress, Neuroscientist, Game Show Host'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TV Insider" />
+                                </span>
+                                <a href='https://ntvb.tmsimg.com/assets/assets/155_v9_bb.jpg?w=360&h=480' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mayim Bialik Answers Neuroscience Questions From Twitter | Tech Support |  WIRED">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/kLsnWHvFHCo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAZS4tPMnrotCw_YpwZ55KHYytF5w' alt='Mayim Bialik Answers Neuroscience Questions From Twitter | Tech Support |  WIRED'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/kLsnWHvFHCo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAZS4tPMnrotCw_YpwZ55KHYytF5w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mayim Bialik Files for Divorce">
+                                <img itemprop="contentUrl url" src='https://akns-images.eonline.com/eol_images/Entire_Site/20121021/600.mayim.mh.112112.jpg?fit=around%7C600:600&output-quality=90&crop=600:600;center,top' alt='Mayim Bialik Files for Divorce'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="E! News" />
+                                </span>
+                                <a href='https://akns-images.eonline.com/eol_images/Entire_Site/20121021/600.mayim.mh.112112.jpg?fit=around%7C600:600&output-quality=90&crop=600:600;center,top' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mayim Bialik - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BODE4MDkzNDU2MV5BMl5BanBnXkFtZTgwMzcxNTAzMDE@._V1_QL75_UY207_CR6,0,140,207_.jpg' alt='Mayim Bialik - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="140">
+                                <meta itemprop="height" content="207">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BODE4MDkzNDU2MV5BMl5BanBnXkFtZTgwMzcxNTAzMDE@._V1_QL75_UY207_CR6,0,140,207_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mayim Bialik opens up for the 1st time about her battle with ...">
+                                <img itemprop="contentUrl url" src='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/newscms/2021_10/1686877/mayim-bialik-nc-main2-031221.jpg' alt='Mayim Bialik opens up for the 1st time about her battle with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Today Show" />
+                                </span>
+                                <a href='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/newscms/2021_10/1686877/mayim-bialik-nc-main2-031221.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mayim Bialik, Neuroscientist, Author| Convening Leaders 2024">
+                                <img itemprop="contentUrl url" src='https://conveningleaders.org/wp-content/uploads/sites/45/2023/08/bialik_mayim-official2021-480x320-1.jpg' alt='Mayim Bialik, Neuroscientist, Author| Convening Leaders 2024'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PCMA Convening Leaders" />
+                                </span>
+                                <a href='https://conveningleaders.org/wp-content/uploads/sites/45/2023/08/bialik_mayim-official2021-480x320-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

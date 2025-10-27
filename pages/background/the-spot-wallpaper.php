@@ -1,0 +1,129 @@
+<title>Transform Your Space with Spot Wallpaper</title>
+                    <meta name="description" content="Discover the charm of spot wallpaper for a trendy and inviting home. Perfect for accent walls, this stylish décor option is easy to apply and creates a lively atmosphere. Revamp your living space today with unique patterns and colors that reflect your personality!">
+                    <meta name="keywords" content="the spot wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/the-spot-wallpaper">
+                            <span itemprop="name">the spot wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Spot Wallpaper</h1>
+                <p>Spot wallpaper adds a unique touch to any room, creating a playful yet stylish atmosphere. Available in various colors and patterns, it can transform your space into a vibrant haven. Ideal for feature walls or accent areas, spot wallpaper is easy to apply and remove, making it a favorite choice for both homeowners and renters.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Spot Wallpaper : r/Spiderman">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/the-spot-wallpaper-v0-x5bi0qonc45b1.png?auto=webp&s=b523c6fd426f8e925de01a000be48cc0c4ee6586' alt='The Spot Wallpaper : r/Spiderman'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/the-spot-wallpaper-v0-x5bi0qonc45b1.png?auto=webp&s=b523c6fd426f8e925de01a000be48cc0c4ee6586' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spider-Man: Across the Spider-Verse Wallpaper | The Spot Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e4/9c/43/e49c43da4d57d54883cbd4591e248f2d.jpg' alt='Spider-Man: Across the Spider-Verse Wallpaper | The Spot Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1635">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e4/9c/43/e49c43da4d57d54883cbd4591e248f2d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Spot Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1c/a7/a6/1ca7a62994d08d460e82a735175a955d.jpg' alt='The Spot Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1c/a7/a6/1ca7a62994d08d460e82a735175a955d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content=""The Spot" Wallpaper in my instagram account . . . . . . . #spiderman  #spidermanacrossthespiderverse #sony #thespot #milesmorales #spidergwen  #prawler #artistsoftiktok #digitalart #procreate ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7243141640091749638&location=0&aid=1988' alt='"The Spot" Wallpaper in my instagram account . . . . . . . #spiderman  #spidermanacrossthespiderverse #sony #thespot #milesmorales #spidergwen  #prawler #artistsoftiktok #digitalart #procreate ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7243141640091749638&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Spot In Spiderman Across The Spider Verse 2023, spider-man ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/452/737/HD-wallpaper-the-spot-in-spiderman-across-the-spider-verse-2023-spider-man-across-the-spider-verse-spiderman-2023-movies-movies.jpg' alt='The Spot In Spiderman Across The Spider Verse 2023, spider-man ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/452/737/HD-wallpaper-the-spot-in-spiderman-across-the-spider-verse-2023-spider-man-across-the-spider-verse-spiderman-2023-movies-movies.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spot vs. Spider-Man: Across the Spider-Verse 4K Wallpaper iPhone ...">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/spot-vs-spider-man-across-the-spider-verse-725@1@k-phone-4k.jpg' alt='Spot vs. Spider-Man: Across the Spider-Verse 4K Wallpaper iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/spot-vs-spider-man-across-the-spider-verse-725@1@k-phone-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download wallpaper 1024x768 the spot, spider-man across the spider ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersmug.com/download/1024x768/77e87f/the-spot-in-spiderman-across-the-spider-verse-movie.jpg' alt='Download wallpaper 1024x768 the spot, spider-man across the spider ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersMug" />
+                                </span>
+                                <a href='https://wallpapersmug.com/download/1024x768/77e87f/the-spot-in-spiderman-across-the-spider-verse-movie.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spot - Marvel HD 4K Wallpaper PC & Phone">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/spot-spiderman-across-the-spider-verse-762@1@k-thumb.jpg?dl' alt='Spot - Marvel HD 4K Wallpaper PC & Phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/spot-spiderman-across-the-spider-verse-762@1@k-thumb.jpg?dl' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Spot [1728 x 3840] : r/iphonewallpapers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/dv1fqrzm7heb1.jpg' alt='The Spot [1728 x 3840] : r/iphonewallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1728">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/dv1fqrzm7heb1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rough Black Spots Wallpaper for Walls | Dalmatian Spots ...">
+                                <img itemprop="contentUrl url" src='https://wallsneedlove.com/cdn/shop/products/w0112_1s_Dalmation-Spots-Designer-Wallpaper_Repeating-Pattern-Sample-1.jpg?crop=center&height=400&v=1734717862&width=500' alt='Rough Black Spots Wallpaper for Walls | Dalmatian Spots ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='https://wallsneedlove.com/cdn/shop/products/w0112_1s_Dalmation-Spots-Designer-Wallpaper_Repeating-Pattern-Sample-1.jpg?crop=center&height=400&v=1734717862&width=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Alabama Football Wallpaper 2023: Show Your Team Spirit</title>
+                    <meta name="description" content="Discover the best Alabama football wallpaper for 2023! Perfect for showing your team pride, our collection features vibrant designs that fit seamlessly on your devices. Download now to bring the thrill of Crimson Tide football to your screens! Perfect for fans everywhere!">
+                    <meta name="keywords" content="alabama football wallpaper 2023">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/football">
+                            <span itemprop="name">Football</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/football/alabama-football-wallpaper-2023">
+                            <span itemprop="name">alabama football wallpaper 2023</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Alabama Football Wallpaper 2023: Show Your Team Spirit</h1>
+                <p>Elevate your game day experience with stunning Alabama football wallpaper for 2023! Showcase your team spirit on your devices with high-quality images featuring the iconic Crimson Tide colors and logo. Perfect for fans eager to display their loyalty, these wallpapers bring the excitement of Alabama football right to your screens!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2023 Alabama Crimson Tide Football Schedule: Downloadable ...">
+                                <img itemprop="contentUrl url" src='https://rolltidewire.usatoday.com/wp-content/uploads/sites/15/2023/08/RollTideWire_WP_23.png' alt='2023 Alabama Crimson Tide Football Schedule: Downloadable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Roll Tide Wire - USA Today" />
+                                </span>
+                                <a href='https://rolltidewire.usatoday.com/wp-content/uploads/sites/15/2023/08/RollTideWire_WP_23.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ryan C. Fowler on X: "Alabama 2023 Media Guide Cover Crimson Tide ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/F1MG95bX0AAjKLQ.jpg:large' alt='Ryan C. Fowler on X: "Alabama 2023 Media Guide Cover Crimson Tide ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1049">
+                                <meta itemprop="height" content="1388">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/F1MG95bX0AAjKLQ.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Alabama Football Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/alabama-football-zkd04kk2a7kf3up4.jpg' alt='100+] Alabama Football Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1250">
+                                <meta itemprop="height" content="913">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/alabama-football-zkd04kk2a7kf3up4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top Alabama Football Wallpapers for Fans">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7181852281019682094&location=0&aid=1988' alt='Top Alabama Football Wallpapers for Fans'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7181852281019682094&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alabama Football on X: "Game Win Poster: Middle Tennessee   : 56 ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/F5NgUVDXcAAiRdM?format=jpg&name=4096x4096' alt='Alabama Football on X: "Game Win Poster: Middle Tennessee   : 56 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="2392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/F5NgUVDXcAAiRdM?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alabama Crimson Tide Go For The Win Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/alabama-crimson-tide-go-for-the-win-7rvc27a0tf6dwhr8.webp' alt='Alabama Crimson Tide Go For The Win Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="174">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/alabama-crimson-tide-go-for-the-win-7rvc27a0tf6dwhr8.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Signed ✓ #NFLU">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3092054330315679241' alt='Signed ✓ #NFLU'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1799">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3092054330315679241' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Alabama Football Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/alabama-football-iphone-gjc6xax76s8bthqd.jpg' alt='100+] Alabama Football Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/alabama-football-iphone-gjc6xax76s8bthqd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alabama Football 2023 Media Guide : University of Alabama : Free ...">
+                                <img itemprop="contentUrl url" src='https://ia802208.us.archive.org/BookReader/BookReaderImages.php?zip=/28/items/alabama-football-2023-media-guide-c/Alabama%20Football%2C%202023%20Media%20Guide%20%28C%29_jp2.zip&file=Alabama%20Football%2C%202023%20Media%20Guide%20%28C%29_jp2/Alabama%20Football%2C%202023%20Media%20Guide%20%28C%29_0000.jp2&id=alabama-football-2023-media-guide-c&scale=4&rotate=0' alt='Alabama Football 2023 Media Guide : University of Alabama : Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="833">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Internet Archive" />
+                                </span>
+                                <a href='https://ia802208.us.archive.org/BookReader/BookReaderImages.php?zip=/28/items/alabama-football-2023-media-guide-c/Alabama%20Football%2C%202023%20Media%20Guide%20%28C%29_jp2.zip&file=Alabama%20Football%2C%202023%20Media%20Guide%20%28C%29_jp2/Alabama%20Football%2C%202023%20Media%20Guide%20%28C%29_0000.jp2&id=alabama-football-2023-media-guide-c&scale=4&rotate=0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/dd/20/05/dd20054e72d251a4a9ad9118daa72902.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="919">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/dd/20/05/dd20054e72d251a4a9ad9118daa72902.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

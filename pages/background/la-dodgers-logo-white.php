@@ -1,0 +1,129 @@
+<title>"Stunning White LA Dodgers Logo: A Symbol of Legacy"</title>
+                    <meta name="description" content="Discover the striking white LA Dodgers logo, a symbol of the team’s rich history and modern appeal. Perfect for fans, this logo enhances sports gear and memorabilia with its sleek design. Explore its significance and style today!">
+                    <meta name="keywords" content="la dodgers logo white">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/la-dodgers-logo-white">
+                            <span itemprop="name">la dodgers logo white</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Stunning White LA Dodgers Logo: A Symbol of Legacy"</h1>
+                <p>The LA Dodgers logo in white embodies a sleek, modern aesthetic that stands out against any background. It represents the iconic legacy of the Dodgers while showcasing a clean, minimalist design. This logo is perfect for fans who appreciate style and simplicity, making it a favorite choice for gear and memorabilia.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Los Angeles Dodgers "LA" (white) Decal / Sticker Die cut | eBay">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/itYAAOSwL~RjSD1f/s-l1200.jpg' alt='Los Angeles Dodgers "LA" (white) Decal / Sticker Die cut | eBay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="825">
+                                <meta itemprop="height" content="963">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/itYAAOSwL~RjSD1f/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LOS ANGELES DODGERS LOGO CAR DECAL VINYL STICKER WHITE 3 SIZES">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/00/s/MTMwMFgxMDAw/z/-q4AAOSw6Jxa15Sd/$_57.JPG?set_id=8800005007' alt='LOS ANGELES DODGERS LOGO CAR DECAL VINYL STICKER WHITE 3 SIZES'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/00/s/MTMwMFgxMDAw/z/-q4AAOSw6Jxa15Sd/$_57.JPG?set_id=8800005007' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Los Angeles Dodgers Baseball Iron on Patch - White LA Letter Logo ...">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/t8EAAOSwpQhkUKEg/s-l1200.jpg' alt='Los Angeles Dodgers Baseball Iron on Patch - White LA Letter Logo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="746">
+                                <meta itemprop="height" content="544">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/t8EAAOSwpQhkUKEg/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Los Angeles LA Dodgers Logo Vinyl Die Cut Decal Sticker | eBay">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/rr0AAOSwtYNfmQpM/s-l1200.jpg' alt='Los Angeles LA Dodgers Logo Vinyl Die Cut Decal Sticker | eBay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1106">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/rr0AAOSwtYNfmQpM/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LA Dodgers Logo Decal - VINYLINES">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-8g1a7r810b/images/stencil/1280x1280/products/568/1461/SPORTS0014-D__21485.1587186741.jpg?c=2' alt='LA Dodgers Logo Decal - VINYLINES'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Custom Cut Vinyl Decals, Paint Stencils - Vinylines" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-8g1a7r810b/images/stencil/1280x1280/products/568/1461/SPORTS0014-D__21485.1587186741.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/eb/95/d4/eb95d49352a64439bfc4fafa3a2e1afc.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/eb/95/d4/eb95d49352a64439bfc4fafa3a2e1afc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Los Angeles Dodgers Fathead Giant Removable Decal">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/96/61/e0/9661e0fc36e4dc946aad4e82cdedcc63.jpg' alt='Los Angeles Dodgers Fathead Giant Removable Decal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/96/61/e0/9661e0fc36e4dc946aad4e82cdedcc63.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Los Angeles Dodgers Logo (PSD) | Official PSDs">
+                                <img itemprop="contentUrl url" src='https://officialpsds.com/imageview/7y/jw/7yjwnr_large.png?1521316458' alt='Los Angeles Dodgers Logo (PSD) | Official PSDs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="346">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Official PSDs" />
+                                </span>
+                                <a href='https://officialpsds.com/imageview/7y/jw/7yjwnr_large.png?1521316458' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Los Angeles Dodgers Decal Sticker Logo | eBay">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/H~kAAOSwenZflxc~/s-l1200.png' alt='Los Angeles Dodgers Decal Sticker Logo | eBay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/H~kAAOSwenZflxc~/s-l1200.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Los Angeles Dodgers "L.A." Script White Patch">
+                                <img itemprop="contentUrl url" src='https://patchcollection.com/cdn/shop/products/040815958be57f4e8be6442dfb576719.jpg' alt='Los Angeles Dodgers "L.A." Script White Patch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="254">
+                                <meta itemprop="height" content="340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Patch Collection" />
+                                </span>
+                                <a href='https://patchcollection.com/cdn/shop/products/040815958be57f4e8be6442dfb576719.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

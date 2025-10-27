@@ -1,0 +1,129 @@
+<title>Stunning Star Trek Picard Wallpapers for Every Fan</title>
+                    <meta name="description" content="Discover the ultimate collection of Star Trek Picard wallpapers! Perfect for fans, these high-quality images will bring your device to life with compelling scenes from the series. Download your favorites today and celebrate the adventures of Captain Picard in style!">
+                    <meta name="keywords" content="star trek picard wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star">
+                            <span itemprop="name">Star</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star/star-trek-picard-wallpaper">
+                            <span itemprop="name">star trek picard wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Star Trek Picard Wallpapers for Every Fan</h1>
+                <p>Transform your screen with stunning Star Trek Picard wallpapers featuring iconic scenes and characters from the beloved series. Whether you’re a fan of Captain Picard's bravery or the rich universe of Star Trek, these wallpapers will elevate your device with a touch of sci-fi elegance. Explore, download, and enjoy the bold adventures of Starfleet!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Trek Picard Wallpaper by PZNS on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1b9a551a-0102-4cbd-91d0-292a58acd680/de4fd67-008f8763-06c1-4be3-95c3-78eefc621ce5.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFiOWE1NTFhLTAxMDItNGNiZC05MWQwLTI5MmE1OGFjZDY4MFwvZGU0ZmQ2Ny0wMDhmODc2My0wNmMxLTRiZTMtOTVjMy03OGVlZmM2MjFjZTUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Ls8fQxtHSH2c5EpKJvCSreV-U9eaAl_29Lv6-_nmoZc' alt='Star Trek Picard Wallpaper by PZNS on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1b9a551a-0102-4cbd-91d0-292a58acd680/de4fd67-008f8763-06c1-4be3-95c3-78eefc621ce5.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFiOWE1NTFhLTAxMDItNGNiZC05MWQwLTI5MmE1OGFjZDY4MFwvZGU0ZmQ2Ny0wMDhmODc2My0wNmMxLTRiZTMtOTVjMy03OGVlZmM2MjFjZTUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Ls8fQxtHSH2c5EpKJvCSreV-U9eaAl_29Lv6-_nmoZc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download TV Show Star Trek: Picard HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/130/thumb-1920-1304652.jpeg' alt='Download TV Show Star Trek: Picard HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/130/thumb-1920-1304652.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Trek: Picard (TV Series) Wallpapers (72 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/c/e/0/2086515-3840x2160-desktop-4k-star-trek-picard-tv-series-wallpaper-photo.jpg' alt='Star Trek: Picard (TV Series) Wallpapers (72 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/c/e/0/2086515-3840x2160-desktop-4k-star-trek-picard-tv-series-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Picard wallpaper for those that want it : r/Picard">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/1mk61z7svrpa1.jpg' alt='Picard wallpaper for those that want it : r/Picard'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/1mk61z7svrpa1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Trek Picard Season 3 Wallpaper by mrushing02 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4719a05d-585d-463c-8fc4-90c243f4899a/dfpg2og-a046acde-001f-4677-a97f-6b655380e09d.jpg/v1/fill/w_1024,h_576,q_75,strp/star_trek_picard_season_3_wallpaper_by_mrushing02_dfpg2og-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvNDcxOWEwNWQtNTg1ZC00NjNjLThmYzQtOTBjMjQzZjQ4OTlhXC9kZnBnMm9nLWEwNDZhY2RlLTAwMWYtNDY3Ny1hOTdmLTZiNjU1MzgwZTA5ZC5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.WCI7vYkmnzpkHgWGTdb_yaqHQX6qZHvi1rh29osNIdM' alt='Star Trek Picard Season 3 Wallpaper by mrushing02 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4719a05d-585d-463c-8fc4-90c243f4899a/dfpg2og-a046acde-001f-4677-a97f-6b655380e09d.jpg/v1/fill/w_1024,h_576,q_75,strp/star_trek_picard_season_3_wallpaper_by_mrushing02_dfpg2og-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvNDcxOWEwNWQtNTg1ZC00NjNjLThmYzQtOTBjMjQzZjQ4OTlhXC9kZnBnMm9nLWEwNDZhY2RlLTAwMWYtNDY3Ny1hOTdmLTZiNjU1MzgwZTA5ZC5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.WCI7vYkmnzpkHgWGTdb_yaqHQX6qZHvi1rh29osNIdM' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Jean-Luc Picard TV Show Star Trek: Picard HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/109/1091218.jpg' alt='Download Jean-Luc Picard TV Show Star Trek: Picard HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/109/1091218.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Trek: Picard (TV Series) Wallpapers (72 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/c/4/f/2086541-3840x2160-desktop-4k-star-trek-picard-tv-series-wallpaper.jpg' alt='Star Trek: Picard (TV Series) Wallpapers (72 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/c/4/f/2086541-3840x2160-desktop-4k-star-trek-picard-tv-series-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patrick Stewart Star Trek Picard, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/98/311/HD-wallpaper-patrick-stewart-star-trek-picard.jpg' alt='Patrick Stewart Star Trek Picard, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1065">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/98/311/HD-wallpaper-patrick-stewart-star-trek-picard.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="17+ Star Trek Picard HD Wallpapers in Samsung Galaxy Note 9,8, S9 ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/ws-amazon-star-trek-picard-season-3_90346.jpg' alt='17+ Star Trek Picard HD Wallpapers in Samsung Galaxy Note 9,8, S9 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/ws-amazon-star-trek-picard-season-3_90346.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Trek Picard Season 3 Wallpaper.jpg - Star Trek: Picard (2019 ...">
+                                <img itemprop="contentUrl url" src='https://www.scifinews.de/uploads_strukturiert/galleryimages/monthly_2023_01/large.2049769414_StarTrekPicardSeason3Wallpaper.jpg.f0b5aa42f7d3e5c05de4751a30cb8f86.jpg' alt='Star Trek Picard Season 3 Wallpaper.jpg - Star Trek: Picard (2019 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scifinews.DE" />
+                                </span>
+                                <a href='https://www.scifinews.de/uploads_strukturiert/galleryimages/monthly_2023_01/large.2049769414_StarTrekPicardSeason3Wallpaper.jpg.f0b5aa42f7d3e5c05de4751a30cb8f86.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

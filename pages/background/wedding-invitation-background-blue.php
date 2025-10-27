@@ -1,0 +1,129 @@
+<title>Elegant Blue Wedding Invitations: Set the Perfect Tone</title>
+                    <meta name="description" content="Discover stunning wedding invitations with beautiful blue backgrounds. Perfect for making a lasting impression, our designs combine elegance and personalization to match your special day. Choose from various shades of blue to encapsulate your unique love story!">
+                    <meta name="keywords" content="wedding invitation background blue">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/wedding-invitation-background-blue">
+                            <span itemprop="name">wedding invitation background blue</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Blue Wedding Invitations: Set the Perfect Tone</h1>
+                <p>Celebrate your special day with an elegant wedding invitation featuring a beautiful blue background. This serene hue symbolizes loyalty and tranquility, setting the perfect tone for your wedding. Whether it's a soft pastel or a bold royal blue, let your invites reflect your love story and create a memorable first impression for your guests.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Hand painting of blue poppy flower arrangement on ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/hand-painting-blue-poppy-flower-arrangement-wedding-invitation-background_852955-2798.jpg' alt='Premium Vector | Hand painting of blue poppy flower arrangement on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/hand-painting-blue-poppy-flower-arrangement-wedding-invitation-background_852955-2798.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wedding Party Invitation Blue Roses Stock Illustrations – 786 ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/wedding-party-invitation-blue-roses-8307792.jpg' alt='Wedding Party Invitation Blue Roses Stock Illustrations – 786 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="678">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/wedding-party-invitation-blue-roses-8307792.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Wedding Invitation Blue Flower Bouquet Watercolor ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/wedding-invitation-blue-flower-bouquet-watercolor-smoke-background-1_873036-129.jpg' alt='Premium Photo | Wedding Invitation Blue Flower Bouquet Watercolor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="447">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/wedding-invitation-blue-flower-bouquet-watercolor-smoke-background-1_873036-129.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="14+ Blue Floral Arrangement Canva Wedding Invitation Templates">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/54/e7/48/54e748d85a649df568adff7b8b84652e.jpg' alt='14+ Blue Floral Arrangement Canva Wedding Invitation Templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1030">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/54/e7/48/54e748d85a649df568adff7b8b84652e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Minimalistic Wedding Invitation Floral Background Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e8/f2/67/e8f2676b5582de34a6c1b604cfc6e7d6.jpg' alt='Blue Minimalistic Wedding Invitation Floral Background Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e8/f2/67/e8f2676b5582de34a6c1b604cfc6e7d6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant royal blue roses wedding invitation card 18876623 PNG">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/018/876/623/non_2x/elegant-royal-blue-roses-wedding-invitation-card-free-png.png' alt='Elegant royal blue roses wedding invitation card 18876623 PNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="674">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/018/876/623/non_2x/elegant-royal-blue-roses-wedding-invitation-card-free-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mockup of Blue Wedding Invitation Card with Floral Design on Navy ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/z/mockup-blue-wedding-invitation-floral-design-navy-background-323159275.jpg' alt='Mockup of Blue Wedding Invitation Card with Floral Design on Navy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1690">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/z/mockup-blue-wedding-invitation-floral-design-navy-background-323159275.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Elegant wedding invitation card with blue flax ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/elegant-wedding-invitation-card-with-blue-flax-beautiful-floral-leaves-template_852955-2692.jpg?w=360' alt='Premium Vector | Elegant wedding invitation card with blue flax ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="476">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/elegant-wedding-invitation-card-with-blue-flax-beautiful-floral-leaves-template_852955-2692.jpg?w=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Wedding Invitation Floral Decoration Background Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20250105/original/pngtree-blue-wedding-invitation-floral-decoration-picture-image_15690868.jpg' alt='Blue Wedding Invitation Floral Decoration Background Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2133">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20250105/original/pngtree-blue-wedding-invitation-floral-decoration-picture-image_15690868.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wedding invitation card Blue & Gold Template | PosterMyWall">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/wedding-invitation-card-blue-%26-gold-design-template-65395c42b0d0b3e1a0fd393abd140a24_screen.jpg?ts=1695454253' alt='Wedding invitation card Blue & Gold Template | PosterMyWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="535">
+                                <meta itemprop="height" content="693">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/wedding-invitation-card-blue-%26-gold-design-template-65395c42b0d0b3e1a0fd393abd140a24_screen.jpg?ts=1695454253' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Ant PNG Images for Your Creative Projects</title>
+                    <meta name="description" content="Discover high-quality ant PNG images perfect for your next project. Ideal for educational resources, infographics, and nature-themed designs. Easy to use with transparent backgrounds, these images bring your concepts to life while enhancing creativity and engagement. Explore the collection today!">
+                    <meta name="keywords" content="ant png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ant-png">
+                            <span itemprop="name">ant png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Ant PNG Images for Your Creative Projects</h1>
+                <p>Ant PNG images are versatile graphics that showcase the unique structure and features of ants. Whether you're designing educational materials or creating engaging content for a blog, these high-quality, transparent background images offer flexibility. Use them for infographics, illustrations, or nature-themed projects with ease!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ant PNG Images & PSDs for Download | PixelSquid - S105745154">
+                                <img itemprop="contentUrl url" src='http://atlas-content-cdn.pixelsquid.com/stock-images/ant-4oNeMQ4-600.jpg' alt='Ant PNG Images & PSDs for Download | PixelSquid - S105745154'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PixelSquid" />
+                                </span>
+                                <a href='http://atlas-content-cdn.pixelsquid.com/stock-images/ant-4oNeMQ4-600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ant PNG transparent image download, size: 1401x1061px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/ant_PNG19365.png' alt='ant PNG transparent image download, size: 1401x1061px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1401">
+                                <meta itemprop="height" content="1061">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/ant_PNG19365.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ant PNG transparent image download, size: 511x405px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/ant_PNG19340.png' alt='ant PNG transparent image download, size: 511x405px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="511">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/ant_PNG19340.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ant PNG Clip Art - Best WEB Clipart">
+                                <img itemprop="contentUrl url" src='https://pics.clipartpng.com/Ant_PNG_Clip_Art-2429.png' alt='Ant PNG Clip Art - Best WEB Clipart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3462">
+                                <meta itemprop="height" content="5063">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ClipartPNG" />
+                                </span>
+                                <a href='https://pics.clipartpng.com/Ant_PNG_Clip_Art-2429.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ant Cartoon, Red Ants, insects, ant png | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/512/430/png-clipart-ant-cartoon-red-ants-photography-insects.png' alt='Ant Cartoon, Red Ants, insects, ant png | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/512/430/png-clipart-ant-cartoon-red-ants-photography-insects.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ant PNG Images (Transparent HD Photo Clipart)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b2/cd/0d/b2cd0d82a8e8d76c198bdcc7b3da3d14.jpg' alt='Ant PNG Images (Transparent HD Photo Clipart)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b2/cd/0d/b2cd0d82a8e8d76c198bdcc7b3da3d14.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ants png images | PNGWing">
+                                <img itemprop="contentUrl url" src='https://w7.pngwing.com/pngs/672/742/png-transparent-red-and-black-ant-the-ants-insect-ophiocordyceps-unilateralis-queen-ant-ants-pest-control-ant-wasp-thumbnail.png' alt='Ants png images | PNGWing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="215">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGWing" />
+                                </span>
+                                <a href='https://w7.pngwing.com/pngs/672/742/png-transparent-red-and-black-ant-the-ants-insect-ophiocordyceps-unilateralis-queen-ant-ants-pest-control-ant-wasp-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ant Cute PNG, Vector, PSD, and Clipart With Transparent Background ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20230412/ourmid/pngtree-ant-cute-illustration-with-diagram-png-image_6680384.png' alt='Ant Cute PNG, Vector, PSD, and Clipart With Transparent Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="505">
+                                <meta itemprop="height" content="361">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20230412/ourmid/pngtree-ant-cute-illustration-with-diagram-png-image_6680384.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ant PNG transparent image download, size: 849x565px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/ant_PNG19345.png' alt='ant PNG transparent image download, size: 849x565px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="849">
+                                <meta itemprop="height" content="565">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/ant_PNG19345.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ant Top View transparent PNG - StickPNG">
+                                <img itemprop="contentUrl url" src='https://assets.stickpng.com/thumbs/580b57fbd9996e24bc43bc34.png' alt='Ant Top View transparent PNG - StickPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StickPNG" />
+                                </span>
+                                <a href='https://assets.stickpng.com/thumbs/580b57fbd9996e24bc43bc34.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

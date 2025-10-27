@@ -1,0 +1,129 @@
+<title>"Exploring the Brooding Beauty of a Broken City"</title>
+                    <meta name="description" content="Discover the haunting allure of a broken city, where decay meets resilience. This exploration unveils stories of lost vibrancy amid urban challenges, offering a glimpse into the hope for renewal. Join us to appreciate the contrasts that define these captivating landscapes.">
+                    <meta name="keywords" content="broken city background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/broken-city-background">
+                            <span itemprop="name">broken city background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Exploring the Brooding Beauty of a Broken City"</h1>
+                <p>In a "broken city," stark contrasts define the landscape. Abandoned buildings stand alongside bustling streets, their facades marred by decay and graffiti. Once vibrant neighborhoods echo silence, telling stories of loss and resilience. This backdrop reflects societal challenges while offering a canvas for renewal and hope amidst urban chaos.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broken city. the atmosphere of a dead city after a disaster and war 4k loop  animation background">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/07/14/39/67/360_F_714396729_ca2QzOHqeMcTtiHu9KPYVo9Ez88ZpYdS.jpg' alt='Broken city. the atmosphere of a dead city after a disaster and war 4k loop  animation background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/07/14/39/67/360_F_714396729_ca2QzOHqeMcTtiHu9KPYVo9Ez88ZpYdS.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="229,299 Broken City Royalty-Free Images, Stock Photos & Pictures ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/war-destroyed-buildings-city-streets-600nw-2200655133.jpg' alt='229,299 Broken City Royalty-Free Images, Stock Photos & Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="337">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/war-destroyed-buildings-city-streets-600nw-2200655133.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="229,299 Broken City Royalty-Free Images, Stock Photos & Pictures ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/apocalyptic-destruction-scene-3d-illustration-600nw-2121577022.jpg' alt='229,299 Broken City Royalty-Free Images, Stock Photos & Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="276">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/apocalyptic-destruction-scene-3d-illustration-600nw-2121577022.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Broken City Background by QasimShoukat786 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b7af5b44-804d-462c-a75e-7415544f4dbe/dbz1pdn-c01a50ea-0f9a-4cc8-9af8-25c0c71203f6.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I3YWY1YjQ0LTgwNGQtNDYyYy1hNzVlLTc0MTU1NDRmNGRiZVwvZGJ6MXBkbi1jMDFhNTBlYS0wZjlhLTRjYzgtOWFmOC0yNWMwYzcxMjAzZjYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.hjatbIlgAFmNnRAz_PkCNPKpxDg6CKR1TO8xu-THqvY' alt='Free Broken City Background by QasimShoukat786 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b7af5b44-804d-462c-a75e-7415544f4dbe/dbz1pdn-c01a50ea-0f9a-4cc8-9af8-25c0c71203f6.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I3YWY1YjQ0LTgwNGQtNDYyYy1hNzVlLTc0MTU1NDRmNGRiZVwvZGJ6MXBkbi1jMDFhNTBlYS0wZjlhLTRjYzgtOWFmOC0yNWMwYzcxMjAzZjYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.hjatbIlgAFmNnRAz_PkCNPKpxDg6CKR1TO8xu-THqvY' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="229,299 Broken City Royalty-Free Images, Stock Photos & Pictures ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/apocalypse-city-fog-aerial-view-600nw-1208386294.jpg' alt='229,299 Broken City Royalty-Free Images, Stock Photos & Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/apocalypse-city-fog-aerial-view-600nw-1208386294.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Destroyed City Skyline Stock Illustrations – 822 Destroyed City ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/haunting-post-apocalyptic-scene-destroyed-city-skyline-broken-buildings-foggy-atmosphere-digital-artwork-perfect-319071187.jpg' alt='Destroyed City Skyline Stock Illustrations – 822 Destroyed City ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/haunting-post-apocalyptic-scene-destroyed-city-skyline-broken-buildings-foggy-atmosphere-digital-artwork-perfect-319071187.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Composite Thrashing Code Adron's success in misadventures of ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/compositecode.blog/wp-content/uploads/2017/12/1c8ab-15a1b_70vvpjgc7hdo3dbwa.jpeg?w=863&ssl=1' alt='Composite Thrashing Code Adron's success in misadventures of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Composite Thrashing Code Blog" />
+                                </span>
+                                <a href='https://i0.wp.com/compositecode.blog/wp-content/uploads/2017/12/1c8ab-15a1b_70vvpjgc7hdo3dbwa.jpeg?w=863&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broken city Stock Photos, Royalty Free Broken city Images ...">
+                                <img itemprop="contentUrl url" src='https://st3.depositphotos.com/1277251/16262/i/450/depositphotos_162622520-stock-photo-portrait-of-quiet-and-dark.jpg' alt='Broken city Stock Photos, Royalty Free Broken city Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://st3.depositphotos.com/1277251/16262/i/450/depositphotos_162622520-stock-photo-portrait-of-quiet-and-dark.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broken City by Fantasy214 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4101f056-2f14-48bf-befe-9a0c5824ec54/d9y9coe-30a88092-8929-4ec5-8b3f-84967de497ce.jpg/v1/fill/w_1024,h_744,q_75,strp/broken_city_by_fantasy214_d9y9coe-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzQ0IiwicGF0aCI6IlwvZlwvNDEwMWYwNTYtMmYxNC00OGJmLWJlZmUtOWEwYzU4MjRlYzU0XC9kOXk5Y29lLTMwYTg4MDkyLTg5MjktNGVjNS04YjNmLTg0OTY3ZGU0OTdjZS5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Ni-YbLfRE6S8Q3sPkrCTO8PDwmH3k7HgQ6z9XdZc_Zc' alt='Broken City by Fantasy214 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="744">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4101f056-2f14-48bf-befe-9a0c5824ec54/d9y9coe-30a88092-8929-4ec5-8b3f-84967de497ce.jpg/v1/fill/w_1024,h_744,q_75,strp/broken_city_by_fantasy214_d9y9coe-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzQ0IiwicGF0aCI6IlwvZlwvNDEwMWYwNTYtMmYxNC00OGJmLWJlZmUtOWEwYzU4MjRlYzU0XC9kOXk5Y29lLTMwYTg4MDkyLTg5MjktNGVjNS04YjNmLTg0OTY3ZGU0OTdjZS5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Ni-YbLfRE6S8Q3sPkrCTO8PDwmH3k7HgQ6z9XdZc_Zc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clay Schneider - Broken City">
+                                <img itemprop="contentUrl url" src='https://cdna.artstation.com/p/assets/images/images/003/645/820/large/clay-schneider-digital-paint-4.jpg?1475982791' alt='Clay Schneider - Broken City'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1164">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Clay Schneider" />
+                                </span>
+                                <a href='https://cdna.artstation.com/p/assets/images/images/003/645/820/large/clay-schneider-digital-paint-4.jpg?1475982791' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

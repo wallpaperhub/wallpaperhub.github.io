@@ -1,0 +1,129 @@
+<title>Charming Green Floral Peel and Stick Wallpaper for Your Home</title>
+                    <meta name="description" content="Discover the beauty of green floral peel and stick wallpaper. Easy to apply and remove, it’s perfect for renters or anyone looking to refresh their space quickly. Enjoy vibrant patterns that bring nature indoors, all without the hassle of traditional wallpaper. Upgrade your decor effortlessly!">
+                    <meta name="keywords" content="peel and stick wallpaper green floral">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/peel-and-stick-wallpaper-green-floral">
+                            <span itemprop="name">peel and stick wallpaper green floral</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Green Floral Peel and Stick Wallpaper for Your Home</h1>
+                <p>Transform your space with peel and stick wallpaper in gorgeous green floral patterns. Perfect for accent walls or entire rooms, this user-friendly option makes decorating effortless. No glue, no mess—just peel, stick, and enjoy a fresh, vibrant look. Ideal for renters or anyone seeking easy home upgrades!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dimoon 78.7"x16.1" Green Floral Wallpaper Peel and Stick Contact Paper  Modern Gradient Butterfly Rose Paper Thicken Waterproof Leaf Flower Self ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/818KEa-YKeL.jpg' alt='Dimoon 78.7"x16.1" Green Floral Wallpaper Peel and Stick Contact Paper  Modern Gradient Butterfly Rose Paper Thicken Waterproof Leaf Flower Self ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1384">
+                                <meta itemprop="height" content="1644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/818KEa-YKeL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Pink Floral Wallpaper | Removable Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick Wall Mural 2307">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3686708981_cd9c.jpg' alt='Green Pink Floral Wallpaper | Removable Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick Wall Mural 2307'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2249">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3686708981_cd9c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Wallpaper Peel and Stick Farm Floral 236.22" x 17.32" Wildwood  Wallpaper Dark Wallpaper Self Adhesive Wallpaper Coverage 30 sq.ft">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81bPu4HOxdL._AC_UF894,1000_QL80_.jpg' alt='Floral Wallpaper Peel and Stick Farm Floral 236.22" x 17.32" Wildwood  Wallpaper Dark Wallpaper Self Adhesive Wallpaper Coverage 30 sq.ft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="790">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81bPu4HOxdL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lichen Green Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/lichen-green-peel-and-stick-wallpaper-318691.jpg?v=1718818320' alt='Lichen Green Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/lichen-green-peel-and-stick-wallpaper-318691.jpg?v=1718818320' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LILLIAN AUGUST 30.75 sq. ft. Luxe Haven Seacrest Green Floral Mist Vinyl  Peel and Stick Wallpaper Roll LN30504">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/a98823a7-7904-4e30-a2f7-8b411154b3c3/svn/lillian-august-wallpaper-rolls-ln30504-64_600.jpg' alt='LILLIAN AUGUST 30.75 sq. ft. Luxe Haven Seacrest Green Floral Mist Vinyl  Peel and Stick Wallpaper Roll LN30504'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/a98823a7-7904-4e30-a2f7-8b411154b3c3/svn/lillian-august-wallpaper-rolls-ln30504-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Flowers Peel and Stick Removable Wallpaper 2863">
+                                <img itemprop="contentUrl url" src='http://wallsbyme.com/cdn/shop/products/floral_1331502863_05_1024x1024_a0fa4c6e-7928-43db-8636-9673e5388e82-sw_1200x1200.jpg?v=1622746046' alt='Green Flowers Peel and Stick Removable Wallpaper 2863'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls By Me" />
+                                </span>
+                                <a href='http://wallsbyme.com/cdn/shop/products/floral_1331502863_05_1024x1024_a0fa4c6e-7928-43db-8636-9673e5388e82-sw_1200x1200.jpg?v=1622746046' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Floral Leaf Boho Wallpaper | Wallpaper Peel and Stick | Removable  Wallpaper | Wall Paper Peel And Stick | Wall Mural | Wall Decor 3468">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3369359016_8spc_907d94b1-91e1-4867-8440-b64a2325c7d3.jpg' alt='Green Floral Leaf Boho Wallpaper | Wallpaper Peel and Stick | Removable  Wallpaper | Wall Paper Peel And Stick | Wall Mural | Wall Decor 3468'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2003">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3369359016_8spc_907d94b1-91e1-4867-8440-b64a2325c7d3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall NW45704 Vintage Floral Forest Green Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/250902.jpg' alt='NextWall NW45704 Vintage Floral Forest Green Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/250902.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Dark Floral Botanical Wallpaper Green, Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18185185/r/il/8cd45e/4240763516/il_fullxfull.4240763516_g8k6.jpg' alt='Wallpaper Dark Floral Botanical Wallpaper Green, Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2242">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18185185/r/il/8cd45e/4240763516/il_fullxfull.4240763516_g8k6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lichen Green Peel and Stick Removable Wallpapers">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/products/lichen-green-peel-and-stick-wallpaper-911097.jpg?v=1703066650' alt='Lichen Green Peel and Stick Removable Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/products/lichen-green-peel-and-stick-wallpaper-911097.jpg?v=1703066650' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

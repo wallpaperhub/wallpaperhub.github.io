@@ -1,0 +1,129 @@
+<title>Create Stunning Headshots with AI Technology</title>
+                    <meta name="description" content="Discover the power of AI with our headshot generator! Easily create professional headshots for your resume, LinkedIn, or social media in just minutes. Enjoy customizable options and high-quality results that make you stand out. Start enhancing your online presence today!">
+                    <meta name="keywords" content="ai headshot generator">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ai-headshot-generator">
+                            <span itemprop="name">ai headshot generator</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Create Stunning Headshots with AI Technology</h1>
+                <p>An AI headshot generator uses advanced algorithms to create high-quality, professional-looking headshots from simple images or even from scratch. Ideal for job seekers, executives, or social media profiles, it offers various styles and backgrounds, ensuring a unique and polished look tailored to your needs.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The #1 AI Headshot Generator for Professional Headshots">
+                                <img itemprop="contentUrl url" src='https://www.headshotpro.com/_nuxt/img/hero-male-female.3db6e78.png' alt='The #1 AI Headshot Generator for Professional Headshots'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="708">
+                                <meta itemprop="height" content="622">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.headshotpro.com" />
+                                </span>
+                                <a href='https://www.headshotpro.com/_nuxt/img/hero-male-female.3db6e78.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free AI Headshot Generator: Create AI Headshots | Canva">
+                                <img itemprop="contentUrl url" src='https://content-management-files.canva.com/06551866-0011-4dee-a13c-0644e734b6f5/feature_ai-headshot-generator_promo-showcase_01.jpg' alt='Free AI Headshot Generator: Create AI Headshots | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4032">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://content-management-files.canva.com/06551866-0011-4dee-a13c-0644e734b6f5/feature_ai-headshot-generator_promo-showcase_01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free AI Headshot Generator: Create Professional Headshots | Fotor">
+                                <img itemprop="contentUrl url" src='https://imgv3.fotor.com/images/side/Use-Fotors-AI-headshot-generator-to-convert-a-female-portrait-into-a-professional-headshot.jpg' alt='Free AI Headshot Generator: Create Professional Headshots | Fotor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fotor" />
+                                </span>
+                                <a href='https://imgv3.fotor.com/images/side/Use-Fotors-AI-headshot-generator-to-convert-a-female-portrait-into-a-professional-headshot.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AI Headshot Generator: Create the Most Realistic Business ...">
+                                <img itemprop="contentUrl url" src='https://plugins-media.makeupar.com/smb/blog/post/2024-02-07/fe4566b9-4f6b-4377-9d07-8fbf4104c1e3.jpg' alt='AI Headshot Generator: Create the Most Realistic Business ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1148">
+                                <meta itemprop="height" content="646">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Perfect Corp" />
+                                </span>
+                                <a href='https://plugins-media.makeupar.com/smb/blog/post/2024-02-07/fe4566b9-4f6b-4377-9d07-8fbf4104c1e3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AI Headshots: The Future Or Dangerous Fad | HeadShots Inc">
+                                <img itemprop="contentUrl url" src='https://headshots-inc.com/wp-content/uploads/2023/04/AI-Generated-Professional-Headshots-Title-1.jpg' alt='AI Headshots: The Future Or Dangerous Fad | HeadShots Inc'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2100">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HeadShots Inc" />
+                                </span>
+                                <a href='https://headshots-inc.com/wp-content/uploads/2023/04/AI-Generated-Professional-Headshots-Title-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free AI Headshot Generator: Create Professional Headshots | Fotor">
+                                <img itemprop="contentUrl url" src='https://imgv3.fotor.com/images/share/Convert-an-ordinary-male-portrait-into-professional-ai-generated-headshots.jpg' alt='Free AI Headshot Generator: Create Professional Headshots | Fotor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fotor" />
+                                </span>
+                                <a href='https://imgv3.fotor.com/images/share/Convert-an-ordinary-male-portrait-into-professional-ai-generated-headshots.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This viral AI TikTok trend could score you a free headshot. Here's ...">
+                                <img itemprop="contentUrl url" src='https://www.zdnet.com/a/img/resize/307b6f2829416018f505c81d19d10f9fab914d54/2023/07/17/851419f4-316f-4b78-9897-6b5238772e48/2022-14.png?auto=webp&fit=crop&height=1200&width=1200' alt='This viral AI TikTok trend could score you a free headshot. Here's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ZDNet" />
+                                </span>
+                                <a href='https://www.zdnet.com/a/img/resize/307b6f2829416018f505c81d19d10f9fab914d54/2023/07/17/851419f4-316f-4b78-9897-6b5238772e48/2022-14.png?auto=webp&fit=crop&height=1200&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free AI Headshot Generator: The 4 Best Tools - Bloggersgoto">
+                                <img itemprop="contentUrl url" src='https://www.bloggersgoto.com/wp-content/uploads/2024/10/real-vs-free-vs-paid-ai-headshot.png' alt='Free AI Headshot Generator: The 4 Best Tools - Bloggersgoto'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bloggersgoto" />
+                                </span>
+                                <a href='https://www.bloggersgoto.com/wp-content/uploads/2024/10/real-vs-free-vs-paid-ai-headshot.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AI Headshot Generators: Disrupting Professional Imagery in 2024 ...">
+                                <img itemprop="contentUrl url" src='https://textify.ai/wp-content/uploads/2024/07/showcase1.1d90d1a1.png' alt='AI Headshot Generators: Disrupting Professional Imagery in 2024 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="928">
+                                <meta itemprop="height" content="710">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Textify Analytics" />
+                                </span>
+                                <a href='https://textify.ai/wp-content/uploads/2024/07/showcase1.1d90d1a1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free AI Headshot Generator: Create Professional Headshots Online">
+                                <img itemprop="contentUrl url" src='https://www.maxstudio.ai/assets/images/hero/h27.webp' alt='Free AI Headshot Generator: Create Professional Headshots Online'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="651">
+                                <meta itemprop="height" content="372">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Max Studio Ai" />
+                                </span>
+                                <a href='https://www.maxstudio.ai/assets/images/hero/h27.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

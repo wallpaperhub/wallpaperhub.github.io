@@ -1,0 +1,129 @@
+<title>Black Lives Matter Founder: Who They Are and Their Impact</title>
+                    <meta name="description" content="Discover the founders of the Black Lives Matter movement and their vital role in advocating for racial justice and equality. Learn about Alicia Garza, Patrisse Cullors, and Opal Tometi's impactful journey and the movement's ongoing influence on society.">
+                    <meta name="keywords" content="black lives matter founder">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/black-lives-matter-founder">
+                            <span itemprop="name">black lives matter founder</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Black Lives Matter Founder: Who They Are and Their Impact</h1>
+                <p>The Black Lives Matter movement was founded in 2013 by activists Alicia Garza, Patrisse Cullors, and Opal Tometi in response to the acquittal of George Zimmerman in the shooting death of Trayvon Martin. This grassroots movement aims to combat systemic racism and violence against Black individuals, advocating for equality and justice in communities worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Our History - Black Lives Matter">
+                                <img itemprop="contentUrl url" src='https://blacklivesmatter.com/wp-content/uploads/2024/03/3_Our_Story_Founders.jpg' alt='Our History - Black Lives Matter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Black Lives Matter" />
+                                </span>
+                                <a href='https://blacklivesmatter.com/wp-content/uploads/2024/03/3_Our_Story_Founders.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Lives Matter Founders Describe 'Paradigm Shift' In The ...">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/img/2016/07/14/blm-founders_custom-e49399188ff059eec04da160817dd9d1a93205ae.jpg' alt='Black Lives Matter Founders Describe 'Paradigm Shift' In The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/img/2016/07/14/blm-founders_custom-e49399188ff059eec04da160817dd9d1a93205ae.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Lives Matter Co-Founders Patrisse Cullors, Alicia Garza, and ...">
+                                <img itemprop="contentUrl url" src='https://blacklivesmatter.com/wp-content/uploads/2020/09/blmgn-time100-092320-1000x750-01.jpg' alt='Black Lives Matter Co-Founders Patrisse Cullors, Alicia Garza, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Black Lives Matter" />
+                                </span>
+                                <a href='https://blacklivesmatter.com/wp-content/uploads/2020/09/blmgn-time100-092320-1000x750-01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Lives Matter co-founder Alicia Garza to headline CJP's 25+1 ...">
+                                <img itemprop="contentUrl url" src='https://emu.edu/now/news/wp-content/uploads/sites/43/2020/02/Alicia-Garza-Feature-Image.jpg' alt='Black Lives Matter co-founder Alicia Garza to headline CJP's 25+1 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eastern Mennonite University" />
+                                </span>
+                                <a href='https://emu.edu/now/news/wp-content/uploads/sites/43/2020/02/Alicia-Garza-Feature-Image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Lives Matter founders: We fought to change history and we won">
+                                <img itemprop="contentUrl url" src='https://c.files.bbci.co.uk/6BB9/production/_115677572_blmcombo.jpg' alt='Black Lives Matter founders: We fought to change history and we won'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="976">
+                                <meta itemprop="height" content="549">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC" />
+                                </span>
+                                <a href='https://c.files.bbci.co.uk/6BB9/production/_115677572_blmcombo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="24 Hours With Black Lives Matter Co-Founder Patrisse Cullors | Vogue">
+                                <img itemprop="contentUrl url" src='http://assets.vogue.com/photos/5fb19df6e06153f6bdd9989b/master/pass/GettyImages-1185162318.jpg' alt='24 Hours With Black Lives Matter Co-Founder Patrisse Cullors | Vogue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3170">
+                                <meta itemprop="height" content="4756">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vogue" />
+                                </span>
+                                <a href='http://assets.vogue.com/photos/5fb19df6e06153f6bdd9989b/master/pass/GettyImages-1185162318.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Lives Matter co-founder stepping down from organization | CNN">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/210528140021-01-patrisse-cullors-file.jpg?q=w_3000,h_1687,x_0,y_0,c_fill' alt='Black Lives Matter co-founder stepping down from organization | CNN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1687">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/210528140021-01-patrisse-cullors-file.jpg?q=w_3000,h_1687,x_0,y_0,c_fill' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Black Lives Matter Founder on Building Modern Movements | The ...">
+                                <img itemprop="contentUrl url" src='https://media.newyorker.com/photos/6004ab07c5186873a0435eb8/1:1/w_1707,h_1708,c_limit/KYT-AliciaGarza.jpg' alt='A Black Lives Matter Founder on Building Modern Movements | The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1707">
+                                <meta itemprop="height" content="1708">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New Yorker" />
+                                </span>
+                                <a href='https://media.newyorker.com/photos/6004ab07c5186873a0435eb8/1:1/w_1707,h_1708,c_limit/KYT-AliciaGarza.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Lives Matter co-founder to step down amid criticism">
+                                <img itemprop="contentUrl url" src='https://www.aljazeera.com/wp-content/uploads/2021/05/2018-03-04T234546Z_565403290_HP1EE341U0A92_RTRMADP_3_AWARDS-OSCARS-FASHION.jpg?resize=1800%2C1800' alt='Black Lives Matter co-founder to step down amid criticism'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Al Jazeera" />
+                                </span>
+                                <a href='https://www.aljazeera.com/wp-content/uploads/2021/05/2018-03-04T234546Z_565403290_HP1EE341U0A92_RTRMADP_3_AWARDS-OSCARS-FASHION.jpg?resize=1800%2C1800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Lives Matter Co-Founder Patrisse Cullors to speak on ...">
+                                <img itemprop="contentUrl url" src='https://library.wayne.edu/blog/files/2022/03/cullors-wide-photo-1024x683.jpeg' alt='Black Lives Matter Co-Founder Patrisse Cullors to speak on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayne State University Libraries" />
+                                </span>
+                                <a href='https://library.wayne.edu/blog/files/2022/03/cullors-wide-photo-1024x683.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

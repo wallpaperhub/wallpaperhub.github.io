@@ -1,0 +1,129 @@
+<title>Stunning Background Flowers Wallpaper for Every Room</title>
+                    <meta name="description" content="Discover beautiful background flowers wallpaper that elevates your home decor. With vibrant designs and calming colors, our wallpaper is perfect for adding a touch of nature to your space. Shop now for the ideal floral backdrop to refresh any room effortlessly!">
+                    <meta name="keywords" content="background flowers wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flowers">
+                            <span itemprop="name">Flowers</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flowers/background-flowers-wallpaper">
+                            <span itemprop="name">background flowers wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Background Flowers Wallpaper for Every Room</h1>
+                <p>Transform your space with stunning background flowers wallpaper that brings nature indoors. Featuring vibrant colors and intricate floral designs, this wallpaper adds elegance and tranquility to any room. Perfect for accent walls or full rooms, it creates a refreshing atmosphere that can uplift your mood and enhance your decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral iPhone Wallpapers | Download High Resolution Flower Mobile ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjIzLXktYmFja2dyb3VuZC1hZGotMDA0Yi0wMS5qcGc.jpg' alt='Floral iPhone Wallpapers | Download High Resolution Flower Mobile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjIzLXktYmFja2dyb3VuZC1hZGotMDA0Yi0wMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower background 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://pub-static.fotor.com/assets/bg/49048260-583c-4945-a120-1df8c88e28ed.jpg' alt='Flower background 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://pub-static.fotor.com/assets/bg/49048260-583c-4945-a120-1df8c88e28ed.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="56 Aesthetic Flower Wallpapers For iPhone (HD & Free!)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/5b/c1/b6/5bc1b613b47176da163a5ca26e4c0cc5.jpg' alt='56 Aesthetic Flower Wallpapers For iPhone (HD & Free!)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1003">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/5b/c1/b6/5bc1b613b47176da163a5ca26e4c0cc5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pretty Flowers Wallpaper in Multicoloured">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/1-PrettyFlowers-Multicoloured_ILW50364_Thumbnail_WEB_a4c0b5b7-9cf7-41ed-84d1-35a74b20db7f.webp?crop=center&height=1024&v=1706001850&width=1024' alt='Pretty Flowers Wallpaper in Multicoloured'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/1-PrettyFlowers-Multicoloured_ILW50364_Thumbnail_WEB_a4c0b5b7-9cf7-41ed-84d1-35a74b20db7f.webp?crop=center&height=1024&v=1706001850&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nature Spring Plum Branch Bokeh Blur iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/11/3c/43/113c435099eb2f56ebe5908f8064b55b.jpg' alt='Nature Spring Plum Branch Bokeh Blur iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/11/3c/43/113c435099eb2f56ebe5908f8064b55b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="434,193 Flowers Wallpaper Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/summer-flowers-wallpaper-sand-background-floral-fantasy-sparkling-light-colorful-blooms-summer-flowers-wallpaper-352375226.jpg' alt='434,193 Flowers Wallpaper Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="505">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/summer-flowers-wallpaper-sand-background-floral-fantasy-sparkling-light-colorful-blooms-summer-flowers-wallpaper-352375226.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="550+ Flowers Background Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1543157145-f78c636d023d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Zmxvd2VycyUyMGJhY2tncm91bmR8ZW58MHx8MHx8fDA%3D' alt='550+ Flowers Background Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2003">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1543157145-f78c636d023d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Zmxvd2VycyUyMGJhY2tncm91bmR8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower background wallpaper hi-res stock photography and images ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2H0W22M/floral-seamless-pattern-flower-background-floral-seamless-texture-with-flowers-flourish-tiled-wallpaper-2H0W22M.jpg' alt='Flower background wallpaper hi-res stock photography and images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2H0W22M/floral-seamless-pattern-flower-background-floral-seamless-texture-with-flowers-flourish-tiled-wallpaper-2H0W22M.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Flower Background Stock Photos, Images and Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/050/753/383/small_2x/panoramic-spring-blooms-with-pink-and-red-flowers-on-light-background-photo.jpg' alt='Beautiful Flower Background Stock Photos, Images and Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/050/753/383/small_2x/panoramic-spring-blooms-with-pink-and-red-flowers-on-light-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral iPhone Wallpapers | Download High Resolution Flower Mobile ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjIzLWItYm9yZGVyLTAwMWIuanBn.jpg' alt='Floral iPhone Wallpapers | Download High Resolution Flower Mobile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjIzLWItYm9yZGVyLTAwMWIuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

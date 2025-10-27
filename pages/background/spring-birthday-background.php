@@ -1,0 +1,129 @@
+<title>Spring Birthday Party Background Ideas</title>
+                    <meta name="description" content="Discover inspiring spring birthday backgrounds that brighten any celebration. From floral designs to sunny scenes, find the perfect decor to enhance your special day. Create unforgettable memories in a vibrant and cheerful atmosphere that embodies the essence of spring!">
+                    <meta name="keywords" content="spring birthday background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/spring-birthday-background">
+                            <span itemprop="name">spring birthday background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spring Birthday Party Background Ideas</h1>
+                <p>Celebrate spring birthdays with vibrant backgrounds that capture the season's beauty! Think blossoming flowers, lush greenery, and sunny skies. Create a festive atmosphere with pastel colors and cheerful designs that reflect the joy of new beginnings. Perfect for invitations, decorations, or photos, make your birthday celebration truly memorable!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5,700+ Spring Birthday Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/515705610/vector/birthday-garden-party-or-brazilian-june-party-vector-illustration.jpg?s=612x612&w=0&k=20&c=KML8qKVzDMYErzIa97Av80h_Ra8UJErgkPjjWfHmyR0=' alt='5,700+ Spring Birthday Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/515705610/vector/birthday-garden-party-or-brazilian-june-party-vector-illustration.jpg?s=612x612&w=0&k=20&c=KML8qKVzDMYErzIa97Av80h_Ra8UJErgkPjjWfHmyR0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LTLYH 7x5ft Spring Backdrop Girl's Birthday Backdrop Floral Castle Rainbow  Nature Scenery Background Kids Girls Children Birthday Party Baby Shower ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/618ZKOYNM5L._AC_UF894,1000_QL80_.jpg' alt='LTLYH 7x5ft Spring Backdrop Girl's Birthday Backdrop Floral Castle Rainbow  Nature Scenery Background Kids Girls Children Birthday Party Baby Shower ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="636">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/618ZKOYNM5L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="happy birthday text sign on pink tulips on white rustic wooden ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/01/37/96/81/1000_F_137968124_Sk7e7h984dAsmZ9xnIJYDSe6ElJLJMSb.jpg' alt='happy birthday text sign on pink tulips on white rustic wooden ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/01/37/96/81/1000_F_137968124_Sk7e7h984dAsmZ9xnIJYDSe6ElJLJMSb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Renaiss 7x5ft Wildflower Birthday Backdrop Spring Garden  Flowers Birthday Photography Background Watercolor Floral Butterfly Happy  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/610KcPoGzCL.jpg' alt='Amazon.com : Renaiss 7x5ft Wildflower Birthday Backdrop Spring Garden  Flowers Birthday Photography Background Watercolor Floral Butterfly Happy  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/610KcPoGzCL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="109 Spring Birthday Background High Res Illustrations - Getty Images">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/165965432/vector/birthday-background.jpg?s=612x612&w=gi&k=20&c=i845DnbcfI1eJ1XNNr5TsL5-5OOQxGXg8cfvS_LTMNk=' alt='109 Spring Birthday Background High Res Illustrations - Getty Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="477">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/165965432/vector/birthday-background.jpg?s=612x612&w=gi&k=20&c=i845DnbcfI1eJ1XNNr5TsL5-5OOQxGXg8cfvS_LTMNk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="371,514 Spring Birthday Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/spring-birthday-greeting-card-template-blog-e-mail-newsletter-happy-mom-woman-girl-178242519.jpg' alt='371,514 Spring Birthday Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/spring-birthday-greeting-card-template-blog-e-mail-newsletter-happy-mom-woman-girl-178242519.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Rustic Wood Floral Birthday Backdrop Spring Pink Flower Wood  Glitter Happy Birthday Photography Background Women Girl Newborn Kids Adult  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71pnkYim4QL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com : Rustic Wood Floral Birthday Backdrop Spring Pink Flower Wood  Glitter Happy Birthday Photography Background Women Girl Newborn Kids Adult  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="638">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71pnkYim4QL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring Balloons">
+                                <img itemprop="contentUrl url" src='http://www.hsdbackdrops.com/cdn/shop/files/WHM2567x5birthdayballoonbackdrop.jpg?v=1683145313' alt='Spring Balloons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="571">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HSD Backdrops" />
+                                </span>
+                                <a href='http://www.hsdbackdrops.com/cdn/shop/files/WHM2567x5birthdayballoonbackdrop.jpg?v=1683145313' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring gift background for birthday, mother&#39;s... — Photo ...">
+                                <img itemprop="contentUrl url" src='https://d113wk4ga3f0l0.cloudfront.net/c?o=eJw1jUsOwiAARO_CulI-aQvdG1eegSDQFluE8EljjHeXRp3NZJKZNy-QfInKiNU8wQhYS3uK-56SliDMECEEd4jhoUWHBiGuF4F4x09nbTO8hxk0f8KtqNXkClHewc3OS07ZqxVaJ2eTYAmblzrBEL0uKlv_qNPv69RNE-U17lbnBYyMowYs5kD8QjYubDKbWt6rRSfjajTC4P0BJho8rg==&s=1acb7c140c146f45c9a2dd2d23a022713d6d4ab2' alt='Spring gift background for birthday, mother&#39;s... — Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="890">
+                                <meta itemprop="height" content="593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lightstock" />
+                                </span>
+                                <a href='https://d113wk4ga3f0l0.cloudfront.net/c?o=eJw1jUsOwiAARO_CulI-aQvdG1eegSDQFluE8EljjHeXRp3NZJKZNy-QfInKiNU8wQhYS3uK-56SliDMECEEd4jhoUWHBiGuF4F4x09nbTO8hxk0f8KtqNXkClHewc3OS07ZqxVaJ2eTYAmblzrBEL0uKlv_qNPv69RNE-U17lbnBYyMowYs5kD8QjYubDKbWt6rRSfjajTC4P0BJho8rg==&s=1acb7c140c146f45c9a2dd2d23a022713d6d4ab2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy birthday text with spring flowers flat lay frame composition ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/022/959/420/large_2x/happy-birthday-text-with-spring-flowers-flat-lay-frame-composition-on-colored-background-photo.jpg' alt='Happy birthday text with spring flowers flat lay frame composition ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2940">
+                                <meta itemprop="height" content="1960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/022/959/420/large_2x/happy-birthday-text-with-spring-flowers-flat-lay-frame-composition-on-colored-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

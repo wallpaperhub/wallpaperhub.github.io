@@ -1,0 +1,129 @@
+<title>Unraveling Crime: The CSI Background Explained</title>
+                    <meta name="description" content="Discover the essential background of CSI (Crime Scene Investigation). This field focuses on gathering and analyzing evidence to solve crimes, ensuring justice and safety. Learn about the roles, techniques, and importance of CSIs in modern law enforcement.">
+                    <meta name="keywords" content="csi background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/csi-background">
+                            <span itemprop="name">csi background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unraveling Crime: The CSI Background Explained</h1>
+                <p>CSI (Crime Scene Investigation) is a crucial field in forensic science. It involves the meticulous process of collecting, analyzing, and preserving evidence from crime scenes. Professionals, known as CSIs, use various scientific techniques to reconstruct events, identify suspects, and aid in legal proceedings. Their work ensures justice and enhances public safety.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,494 Csi Background Royalty-Free Photos and Stock Images ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/flat-lay-composition-evidences-crime-600nw-1904307835.jpg' alt='3,494 Csi Background Royalty-Free Photos and Stock Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="395">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/flat-lay-composition-evidences-crime-600nw-1904307835.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CSI background by ThisSideDown on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3ef934d3-cc71-4949-9631-7496957e73a4/d2uq71d-de90d754-6a6b-49da-99fb-62c8c7e2d29b.jpg/v1/fill/w_900,h_564,q_75,strp/csi_background_by_thissidedown_d2uq71d-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTY0IiwicGF0aCI6IlwvZlwvM2VmOTM0ZDMtY2M3MS00OTQ5LTk2MzEtNzQ5Njk1N2U3M2E0XC9kMnVxNzFkLWRlOTBkNzU0LTZhNmItNDlkYS05OWZiLTYyYzhjN2UyZDI5Yi5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.sbB5oVIDh7Q8WZX9cQBTPlVzZOKl-6oHKR3C_50UMdI' alt='CSI background by ThisSideDown on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="564">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3ef934d3-cc71-4949-9631-7496957e73a4/d2uq71d-de90d754-6a6b-49da-99fb-62c8c7e2d29b.jpg/v1/fill/w_900,h_564,q_75,strp/csi_background_by_thissidedown_d2uq71d-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTY0IiwicGF0aCI6IlwvZlwvM2VmOTM0ZDMtY2M3MS00OTQ5LTk2MzEtNzQ5Njk1N2U3M2E0XC9kMnVxNzFkLWRlOTBkNzU0LTZhNmItNDlkYS05OWZiLTYyYzhjN2UyZDI5Yi5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.sbB5oVIDh7Q8WZX9cQBTPlVzZOKl-6oHKR3C_50UMdI' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,494 Csi Background Royalty-Free Photos and Stock Images ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/flat-lay-yellow-tape-crime-600nw-1859010196.jpg' alt='3,494 Csi Background Royalty-Free Photos and Stock Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/flat-lay-yellow-tape-crime-600nw-1859010196.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CSI by Paullus23 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c613b915-14df-499b-9167-261a938bddc2/d365qlf-1f59b7a8-f4cd-4ba4-9f59-c8d0179a0710.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M2MTNiOTE1LTE0ZGYtNDk5Yi05MTY3LTI2MWE5MzhiZGRjMlwvZDM2NXFsZi0xZjU5YjdhOC1mNGNkLTRiYTQtOWY1OS1jOGQwMTc5YTA3MTAuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wSOl-mxEX9kULK4vKrqE6Mjr7goo_KFj70hM359O_rg' alt='CSI by Paullus23 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c613b915-14df-499b-9167-261a938bddc2/d365qlf-1f59b7a8-f4cd-4ba4-9f59-c8d0179a0710.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M2MTNiOTE1LTE0ZGYtNDk5Yi05MTY3LTI2MWE5MzhiZGRjMlwvZDM2NXFsZi0xZjU5YjdhOC1mNGNkLTRiYTQtOWY1OS1jOGQwMTc5YTA3MTAuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wSOl-mxEX9kULK4vKrqE6Mjr7goo_KFj70hM359O_rg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Become a Crime Scene Investigator (CSI): Education and Training">
+                                <img itemprop="contentUrl url" src='https://www.gmercyu.edu/images/learn_pages/learn_becoming_a_homicide_detective.jpg' alt='How to Become a Crime Scene Investigator (CSI): Education and Training'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="552">
+                                <meta itemprop="height" content="342">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gwynedd Mercy University" />
+                                </span>
+                                <a href='https://www.gmercyu.edu/images/learn_pages/learn_becoming_a_homicide_detective.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,674 Csi Stock Vectors and Vector Art | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/police-tape-crime-danger-line-600nw-1789363970.jpg' alt='1,674 Csi Stock Vectors and Vector Art | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/police-tape-crime-danger-line-600nw-1789363970.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CSI: Computer Systems Investigation - Daily Devotional">
+                                <img itemprop="contentUrl url" src='https://daily-devotional.org/wp-content/uploads/2012/10/CSI-21.jpg' alt='CSI: Computer Systems Investigation - Daily Devotional'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Daily Devotional" />
+                                </span>
+                                <a href='https://daily-devotional.org/wp-content/uploads/2012/10/CSI-21.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="64,100+ Csi Stock Photos, Pictures & Royalty-Free Images - iStock ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1481901238/photo/close-up-shot-focused-on-yellow-tape-showing-text-police-line-do-not-cross-restricted-area-of.jpg?s=612x612&w=0&k=20&c=tAIz-pvTggH50z1vUQnI42QX22i_p9J5SLYSEoi86Ug=' alt='64,100+ Csi Stock Photos, Pictures & Royalty-Free Images - iStock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1481901238/photo/close-up-shot-focused-on-yellow-tape-showing-text-police-line-do-not-cross-restricted-area-of.jpg?s=612x612&w=0&k=20&c=tAIz-pvTggH50z1vUQnI42QX22i_p9J5SLYSEoi86Ug=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="International Criminal Checks - CSI Background Screening">
+                                <img itemprop="contentUrl url" src='https://csiscreening.com/wp-content/uploads/2020/12/glbl-watch.jpg' alt='International Criminal Checks - CSI Background Screening'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CSI Background Screening" />
+                                </span>
+                                <a href='https://csiscreening.com/wp-content/uploads/2020/12/glbl-watch.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12,500+ Csi Crime Scene Investigation Stock Photos, Pictures ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1175722292/photo/crime-scene-do-not-cross-tape.jpg?s=612x612&w=0&k=20&c=9MkVPzSP29xq8tILy-VFMEf0Ia8xL9WTjGIDyNaSYh0=' alt='12,500+ Csi Crime Scene Investigation Stock Photos, Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="471">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1175722292/photo/crime-scene-do-not-cross-tape.jpg?s=612x612&w=0&k=20&c=9MkVPzSP29xq8tILy-VFMEf0Ia8xL9WTjGIDyNaSYh0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

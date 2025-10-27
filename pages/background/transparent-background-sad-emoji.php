@@ -1,0 +1,129 @@
+<title>Sad Emoji with Transparent Background for Expressive Messaging</title>
+                    <meta name="description" content="Discover the perfect sad emoji with a transparent background to express your emotions clearly. Ideal for messaging and social media, this emoji enhances communication with its versatility and seamless design, making it easy to convey sadness or empathy in any context.">
+                    <meta name="keywords" content="transparent background sad emoji">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/transparent-background-sad-emoji">
+                            <span itemprop="name">transparent background sad emoji</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Sad Emoji with Transparent Background for Expressive Messaging</h1>
+                <p>A transparent background sad emoji is a versatile graphic that conveys feelings of sadness, disappointment, or empathy. Perfect for use in messaging apps, websites, or social media, this simple yet expressive emoji allows users to share their emotions effectively. Its transparent background ensures it can blend seamlessly into any design.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emoticon Sad transparent PNG - StickPNG">
+                                <img itemprop="contentUrl url" src='https://assets.stickpng.com/images/580b57fcd9996e24bc43c4b9.png' alt='Emoticon Sad transparent PNG - StickPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StickPNG" />
+                                </span>
+                                <a href='https://assets.stickpng.com/images/580b57fcd9996e24bc43c4b9.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sad Emoji PNG Transparent Images Free Download | Vector Files ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20210710/ourmid/pngtree-3d-sad-emoji-png-png-image_3578959.jpg' alt='Sad Emoji PNG Transparent Images Free Download | Vector Files ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20210710/ourmid/pngtree-3d-sad-emoji-png-png-image_3578959.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sad Face Transparent PNGs for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/038/512/164/non_2x/a-3d-sad-face-emoji-2-on-a-transparent-background-free-png.png' alt='Sad Face Transparent PNGs for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1268">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/038/512/164/non_2x/a-3d-sad-face-emoji-2-on-a-transparent-background-free-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sad Emoji PNG Images - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://icon2.cleanpng.com/20180404/fuw/avbivvo4v.webp' alt='Sad Emoji PNG Images - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://icon2.cleanpng.com/20180404/fuw/avbivvo4v.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sad Emoji Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTEwL3JtNTg2LWZyb3duaW5nZmFjZS0wMV8xLWw5ZDNjMXYwLnBuZw.png' alt='Sad Emoji Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTEwL3JtNTg2LWZyb3duaW5nZmFjZS0wMV8xLWw5ZDNjMXYwLnBuZw.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sad Emoji PNG Transparent Images Free Download | Vector Files ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20221110/ourmid/pngtree-yellow-sad-emoji-design-with-big-glassy-eyes-png-image_6432751.png' alt='Sad Emoji PNG Transparent Images Free Download | Vector Files ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="361">
+                                <meta itemprop="height" content="361">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20221110/ourmid/pngtree-yellow-sad-emoji-design-with-big-glassy-eyes-png-image_6432751.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sad Emoji - Sad Emoji with Downcast Expression - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20190710/ozj/kisspng-emoji-portable-network-graphics-emoticon-clip-art-1713881285585.webp' alt='Sad Emoji - Sad Emoji with Downcast Expression - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20190710/ozj/kisspng-emoji-portable-network-graphics-emoticon-clip-art-1713881285585.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Collection Of Free Crying Transparent Blue Emoji - Sad Face Emoji ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/16/d6/34/16d63429c45063fbc4756c39bf644c90.jpg' alt='Collection Of Free Crying Transparent Blue Emoji - Sad Face Emoji ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="603">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/16/d6/34/16d63429c45063fbc4756c39bf644c90.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sad Emoji PNG Transparent Images Free Download | Vector Files ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20220822/ourmid/pngtree-sad-emoji-png-png-image_6120280.png' alt='Sad Emoji PNG Transparent Images Free Download | Vector Files ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20220822/ourmid/pngtree-sad-emoji-png-png-image_6120280.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sad Emoji Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsb2ZmaWNlOV8zZF9pbGx1c3RyYXRpb25fb2Zfc2FkX2Vtb2ppX2ljb25fbWF0dGVfdGV4dHVyZV8yMDMwMmU4Mi04YTQ5LTQ3ZmYtYTk5Yy1iNWJjMzBhMmQwZGQucG5n.png' alt='Sad Emoji Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="776">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsb2ZmaWNlOV8zZF9pbGx1c3RyYXRpb25fb2Zfc2FkX2Vtb2ppX2ljb25fbWF0dGVfdGV4dHVyZV8yMDMwMmU4Mi04YTQ5LTQ3ZmYtYTk5Yy1iNWJjMzBhMmQwZGQucG5n.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

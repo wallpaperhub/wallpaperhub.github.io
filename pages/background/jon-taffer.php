@@ -1,0 +1,129 @@
+<title>Jon Taffer: Master of Bar Rescue and Hospitality Expertise</title>
+                    <meta name="description" content="Discover the incredible journey of Jon Taffer, the hospitality expert behind "Bar Rescue." Learn about his strategies, insights, and transformative impact on struggling bars and restaurants. Join the discussion on how Taffer's tough love and dedication revitalize the hospitality industry.">
+                    <meta name="keywords" content="jon taffer">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/jon-taffer">
+                            <span itemprop="name">jon taffer</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Jon Taffer: Master of Bar Rescue and Hospitality Expertise</h1>
+                <p>Jon Taffer is a renowned bar and restaurant consultant, best known for his role as the host of the hit TV show "Bar Rescue." With decades of experience in the hospitality industry, Taffer has transformed countless struggling establishments into thriving businesses. His tough-love approach and expert insights have made him a leader in bar management.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jon Taffer - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/d/da/Jon-Taffer_%28cropped%29.jpg' alt='Jon Taffer - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2220">
+                                <meta itemprop="height" content="2900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/d/da/Jon-Taffer_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Bar Rescue' Star Jon Taffer Helps Struggling Las Vegas Restaurant ...">
+                                <img itemprop="contentUrl url" src='https://media.cbs8.com/assets/ETONLINE/images/77635b0d-7aa5-435e-91fc-6ca1565f4708/77635b0d-7aa5-435e-91fc-6ca1565f4708_750x422.jpg' alt=''Bar Rescue' Star Jon Taffer Helps Struggling Las Vegas Restaurant ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CBS 8" />
+                                </span>
+                                <a href='https://media.cbs8.com/assets/ETONLINE/images/77635b0d-7aa5-435e-91fc-6ca1565f4708/77635b0d-7aa5-435e-91fc-6ca1565f4708_750x422.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jon Taffer - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMTExZDZhNTgtNzJmYy00YTEyLWIyZjMtMjM3ZjI1ZDFhYzJlXkEyXkFqcGc@._V1_.jpg' alt='Jon Taffer - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4802">
+                                <meta itemprop="height" content="7195">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMTExZDZhNTgtNzJmYy00YTEyLWIyZjMtMjM3ZjI1ZDFhYzJlXkEyXkFqcGc@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bar Rescue' Star Jon Taffer Shares True Tales of Punk and Disco">
+                                <img itemprop="contentUrl url" src='https://www.rollingstone.com/wp-content/uploads/2018/06/rs-229345-jontaffer-cigar.jpg' alt='Bar Rescue' Star Jon Taffer Shares True Tales of Punk and Disco'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone" />
+                                </span>
+                                <a href='https://www.rollingstone.com/wp-content/uploads/2018/06/rs-229345-jontaffer-cigar.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jon Taffer - YouTube">
+                                <img itemprop="contentUrl url" src='https://yt3.googleusercontent.com/wJddQ1fZJhyHMM19LeghqUQJbTwQQzPm5nXOD6NHhG5miJ5pC3LJhC707n8YlOd3ceWo4Wi63g=s900-c-k-c0x00ffffff-no-rj' alt='Jon Taffer - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://yt3.googleusercontent.com/wJddQ1fZJhyHMM19LeghqUQJbTwQQzPm5nXOD6NHhG5miJ5pC3LJhC707n8YlOd3ceWo4Wi63g=s900-c-k-c0x00ffffff-no-rj' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Exclusive Interview with Jon Taffer: Entrepreneur & TV Star">
+                                <img itemprop="contentUrl url" src='https://totalfood.com/wp-content/uploads/2018/03/Jon-Taffer.jpg' alt='Exclusive Interview with Jon Taffer: Entrepreneur & TV Star'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="696">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Total Food Service" />
+                                </span>
+                                <a href='https://totalfood.com/wp-content/uploads/2018/03/Jon-Taffer.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bar Rescue's' Jon Taffer Isn't Afraid to Call Founders on Their ...">
+                                <img itemprop="contentUrl url" src='https://assets.entrepreneur.com/content/3x2/2000/20180201162136-ent18-march-jontaffer1.jpeg?format=pjeg&auto=webp&crop=1:1' alt='Bar Rescue's' Jon Taffer Isn't Afraid to Call Founders on Their ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1334">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Entrepreneur" />
+                                </span>
+                                <a href='https://assets.entrepreneur.com/content/3x2/2000/20180201162136-ent18-march-jontaffer1.jpeg?format=pjeg&auto=webp&crop=1:1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jon Taffer on 250 Episodes of Bar Rescue, Fungus the Size of Your ...">
+                                <img itemprop="contentUrl url" src='https://media.gq.com/photos/667c51212d321f7ea80d01af/1:1/w_1500,h_1500,c_limit/taffer.jpg' alt='Jon Taffer on 250 Episodes of Bar Rescue, Fungus the Size of Your ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GQ" />
+                                </span>
+                                <a href='https://media.gq.com/photos/667c51212d321f7ea80d01af/1:1/w_1500,h_1500,c_limit/taffer.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Interview: Jon Taffer, Author Of 'Raise The Bar' : NPR">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/img/2013/11/27/jon-taffer_vert-46caf4b0ebd14b8883d683e1b87f914720951b74.jpg' alt='Interview: Jon Taffer, Author Of 'Raise The Bar' : NPR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1062">
+                                <meta itemprop="height" content="1416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/img/2013/11/27/jon-taffer_vert-46caf4b0ebd14b8883d683e1b87f914720951b74.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bar Rescue' Host Jon Taffer Apologizes After Fox News Interview">
+                                <img itemprop="contentUrl url" src='https://variety.com/wp-content/uploads/2021/08/Jon-Taffer.jpg?w=1000&h=562&crop=1' alt='Bar Rescue' Host Jon Taffer Apologizes After Fox News Interview'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="562">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Variety" />
+                                </span>
+                                <a href='https://variety.com/wp-content/uploads/2021/08/Jon-Taffer.jpg?w=1000&h=562&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

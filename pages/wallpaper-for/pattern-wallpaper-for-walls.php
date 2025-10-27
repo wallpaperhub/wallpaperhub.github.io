@@ -1,0 +1,129 @@
+<title>Stylish Patterned Wallpaper Ideas for Every Room</title>
+                    <meta name="description" content="Discover the beauty of patterned wallpaper for walls! Enhance your home decor with a variety of styles, perfect for adding character to any room. Explore bold designs and subtle textures that bring elegance and charm, tailored to your taste. Elevate your space effortlessly with our curated selection!">
+                    <meta name="keywords" content="pattern wallpaper for walls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/pattern-wallpaper-for-walls">
+                            <span itemprop="name">pattern wallpaper for walls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Patterned Wallpaper Ideas for Every Room</h1>
+                <p>Transform your space with stunning patterned wallpaper for walls! From elegant florals to modern geometrics, the right wallpaper can dramatically change the ambiance of any room. Explore a variety of colors and styles to find the perfect design that reflects your personality and enhances your decor. Upgrade your walls effortlessly!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Geometric Pattern Wallpaper-living Room Marble Wall Art ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27992500/r/il/33de21/4248047076/il_570xN.4248047076_9fma.jpg' alt='Gold Geometric Pattern Wallpaper-living Room Marble Wall Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="438">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27992500/r/il/33de21/4248047076/il_570xN.4248047076_9fma.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blooming Wall Extra-Thick Modern Non-Woven Leaf Flows Pattern Super Deeply  Textured Wallpaper Wall Paper Roll for Livingroom Bedroom, (68203) - ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71Xx38QoqoL.jpg' alt='Blooming Wall Extra-Thick Modern Non-Woven Leaf Flows Pattern Super Deeply  Textured Wallpaper Wall Paper Roll for Livingroom Bedroom, (68203) - ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1055">
+                                <meta itemprop="height" content="1055">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71Xx38QoqoL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golden Geo - Heavy Type II">
+                                <img itemprop="contentUrl url" src='https://wallsneedlove.com/cdn/shop/products/w0120_1s_Art-Deco-Diamond-Pattern-Wallpaper-for-Walls-Golden-Geo_For-Home-Offices-1.jpg?v=1734717627&width=1080' alt='Golden Geo - Heavy Type II'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="668">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='https://wallsneedlove.com/cdn/shop/products/w0120_1s_Art-Deco-Diamond-Pattern-Wallpaper-for-Walls-Golden-Geo_For-Home-Offices-1.jpg?v=1734717627&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Squar Pattern Wallpaper-living Room Marble Wall Art-bathroom ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27992500/r/il/3ec85c/3439421697/il_570xN.3439421697_pk44.jpg' alt='Gold Squar Pattern Wallpaper-living Room Marble Wall Art-bathroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="656">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27992500/r/il/3ec85c/3439421697/il_570xN.3439421697_pk44.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mosaic Pattern">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/interiors/76354/landscape/wallpaper/room82.jpg?w=2000&q=80' alt='Mosaic Pattern'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1090">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/interiors/76354/landscape/wallpaper/room82.jpg?w=2000&q=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Geometric Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallblush.com/cdn/shop/files/Doon_tJudgeMeWallpaperWhiteandFauxGoldGeometric.png?v=1714501408&width=2048' alt='Geometric Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='https://wallblush.com/cdn/shop/files/Doon_tJudgeMeWallpaperWhiteandFauxGoldGeometric.png?v=1714501408&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Non-Woven 3D Wallpapers, Pattern Environmental Protection Wallpaper  for Bedroom, Living Room, Kitchen and Bathroom Walls, (Need Glue and ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71IwHFQjoTL.jpg' alt='Modern Non-Woven 3D Wallpapers, Pattern Environmental Protection Wallpaper  for Bedroom, Living Room, Kitchen and Bathroom Walls, (Need Glue and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1010">
+                                <meta itemprop="height" content="1010">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71IwHFQjoTL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="80 Large Pattern Wallpaper for 2025 | Sandberg Wallpaper">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_720/v1706172909/articles/444-36_interior4.jpg' alt='80 Large Pattern Wallpaper for 2025 | Sandberg Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="539">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sandberg Wallpaper" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_720/v1706172909/articles/444-36_interior4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nudara - Heavy Type II">
+                                <img itemprop="contentUrl url" src='http://wallsneedlove.com/cdn/shop/products/w0401_1s_Chevrons-Pattern-Wallpaper-for-Walls-Nudara_Repeating-Pattern-Sample-1_7ddd483f-92e8-478c-affe-29013b135344.jpg?v=1734717346' alt='Nudara - Heavy Type II'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3028">
+                                <meta itemprop="height" content="1872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='http://wallsneedlove.com/cdn/shop/products/w0401_1s_Chevrons-Pattern-Wallpaper-for-Walls-Nudara_Repeating-Pattern-Sample-1_7ddd483f-92e8-478c-affe-29013b135344.jpg?v=1734717346' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Geometric Honeycomb Pattern Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://img.wallmur.net/@wmp/_826ax660/g/e/geometric-wallpaper-honeycomb-pattern-wall-mural-hexagon-shape-w_zgp3zwhlawr_3d_1.jpg' alt='Geometric Honeycomb Pattern Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="765">
+                                <meta itemprop="height" content="660">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://img.wallmur.net/@wmp/_826ax660/g/e/geometric-wallpaper-honeycomb-pattern-wall-mural-hexagon-shape-w_zgp3zwhlawr_3d_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

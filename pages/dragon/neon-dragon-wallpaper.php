@@ -1,0 +1,129 @@
+<title>Vibrant Neon Dragon Wallpaper – Bring Mythical Art to Life!</title>
+                    <meta name="description" content="Discover our vibrant neon dragon wallpaper, a perfect blend of mythical artistry and modern design. Brighten your space with unique patterns that captivate and inspire. Ideal for any room, this wallpaper transforms your walls into a stunning work of art. Get ready to elevate your decor!">
+                    <meta name="keywords" content="neon dragon wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/dragon">
+                            <span itemprop="name">Dragon</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/dragon/neon-dragon-wallpaper">
+                            <span itemprop="name">neon dragon wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Neon Dragon Wallpaper – Bring Mythical Art to Life!</h1>
+                <p>Elevate your space with stunning neon dragon wallpaper! Perfect for adding a vibrant touch to your room, this unique design combines mythical allure with modern aesthetics. The bright hues and intricate patterns create a captivating focal point, making it ideal for bedrooms, gaming spaces, or any creative nook. Transform your walls today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Dragon by 4RT-FU7Y-D3C3PT1C0N on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/b0/35/c5/b035c565090dc11f8e051796a9c2a0f3.jpg' alt='Neon Dragon by 4RT-FU7Y-D3C3PT1C0N on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/b0/35/c5/b035c565090dc11f8e051796a9c2a0f3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Dragon 3520">
+                                <img itemprop="contentUrl url" src='https://www.magicmurals.com/media/catalog/product/cache/af1e2a1566fa2dbb552605e8822354b7/g/r/gra-wumple133520.jpg' alt='Neon Dragon 3520'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="467">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Magic Murals" />
+                                </span>
+                                <a href='https://www.magicmurals.com/media/catalog/product/cache/af1e2a1566fa2dbb552605e8822354b7/g/r/gra-wumple133520.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coolest Neon Dragon Logo Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/coolest-neon-dragon-logo-5swu5al4g30u1a1g.jpg' alt='Coolest Neon Dragon Logo Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/coolest-neon-dragon-logo-5swu5al4g30u1a1g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Dragon #DRAGON #Neon. Legendary dragons, Dragon artwork ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/854/614/HD-wallpaper-neon-dragon-dragon-neon-legendary-dragons-dragon-artwork-dragon-iphone-blue-baby-dragon.jpg' alt='Neon Dragon #DRAGON #Neon. Legendary dragons, Dragon artwork ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/854/614/HD-wallpaper-neon-dragon-dragon-neon-legendary-dragons-dragon-artwork-dragon-iphone-blue-baby-dragon.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Dragon iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/96/b0/db/96b0db9377f9d2a6f7f2cf6e93f93dc8.jpg' alt='Neon Dragon iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/96/b0/db/96b0db9377f9d2a6f7f2cf6e93f93dc8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Dragon: A Stunning 4K Ultra HD Wallpaper by QuantumCurator">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/138/1383138.png' alt='Neon Dragon: A Stunning 4K Ultra HD Wallpaper by QuantumCurator'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4128">
+                                <meta itemprop="height" content="2304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/138/1383138.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper dragon, graphics, neon, dragon for mobile and desktop ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/6/23/dragon-drakon-neon-grafika.webp' alt='Wallpaper dragon, graphics, neon, dragon for mobile and desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/6/23/dragon-drakon-neon-grafika.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Rainbow Dragon Wallpapers - Top Free Neon Rainbow Dragon ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4f/a8/96/4fa896997f758d0b68f2223c751244ef.jpg' alt='Neon Rainbow Dragon Wallpapers - Top Free Neon Rainbow Dragon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1177">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4f/a8/96/4fa896997f758d0b68f2223c751244ef.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Neon Blue Dragon Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/neon-blue-dragon-tqtdmjvypwsbhur9.jpg' alt='Download Neon Blue Dragon Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/neon-blue-dragon-tqtdmjvypwsbhur9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vibrant Neon Dragon Wallpaper - free download">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/high/vibrant-neon-dragon-wallpaper-23.webp' alt='Vibrant Neon Dragon Wallpaper - free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="838">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/high/vibrant-neon-dragon-wallpaper-23.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

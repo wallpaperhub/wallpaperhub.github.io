@@ -1,0 +1,129 @@
+<title>Stunning 2K Wallpapers for Your Desktop</title>
+                    <meta name="description" content="Discover a collection of beautiful 2K wallpapers perfect for your desktop. Enhance your screen with high-resolution images that reflect your style, from nature scenes to abstract art. Explore now and transform your workspace with stunning visuals!">
+                    <meta name="keywords" content="2k wallpaper desktop">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/2k-wallpaper-desktop">
+                            <span itemprop="name">2k wallpaper desktop</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 2K Wallpapers for Your Desktop</h1>
+                <p>Elevate your desktop experience with stunning 2K wallpapers that bring life to your screen. Whether you crave vibrant landscapes, minimalist designs, or artistic creations, 2K wallpapers offer clarity and detail that enhance your workspace. Transform your digital environment and show off your style with high-resolution visuals!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2k Wallpaper Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1519681393784-d120267933ba?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8MmslMjB3YWxscGFwZXJ8ZW58MHx8MHx8fDA%3D' alt='2k Wallpaper Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1519681393784-d120267933ba?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8MmslMjB3YWxscGFwZXJ8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8000+ 2K Wallpapers and Backgrounds">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/lake-mountains-rocks-sunrise-daylight-scenery-illustration-2560x1440-3773.jpg' alt='8000+ 2K Wallpapers and Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/lake-mountains-rocks-sunrise-daylight-scenery-illustration-2560x1440-3773.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazing Starry Twilight 2K HD Desktop Wallpaper, HD Artist 4K ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/amazing-starry-twilight-2k-hd-desktop_bmdqZmqUmZqaraWkpJRnbmZnrWZraGc.jpg' alt='Amazing Starry Twilight 2K HD Desktop Wallpaper, HD Artist 4K ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2912">
+                                <meta itemprop="height" content="1632">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/amazing-starry-twilight-2k-hd-desktop_bmdqZmqUmZqaraWkpJRnbmZnrWZraGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalism 1080P, 2K, 4K, 5K HD wallpapers free download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a3/af/c8/a3afc8a72213b3ac67b52358bd9ac721.jpg' alt='Minimalism 1080P, 2K, 4K, 5K HD wallpapers free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="364">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a3/af/c8/a3afc8a72213b3ac67b52358bd9ac721.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2k PC Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp7046651.jpg' alt='2k PC Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp7046651.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] 2k Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/2k-d2xvrvlv9k6wgk5e.jpg' alt='200+] 2k Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/2k-d2xvrvlv9k6wgk5e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2k Dark [2560x1440] : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/c9mt1vzy2ca61.jpg' alt='2k Dark [2560x1440] : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/c9mt1vzy2ca61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2k Red And Blue Clouds Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/2k-red-and-blue-clouds-kbgnjcbo69yn0ayo-3.jpg' alt='2k Red And Blue Clouds Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/2k-red-and-blue-clouds-kbgnjcbo69yn0ayo-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My new desktop lock screen [2k] : r/starcitizen">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/3DsyG2lVl4P4IrucMBXYCbNb0hC1qHD9nVIL4KfYnSo.jpg?auto=webp&s=5642fcb8a9708d80a2aa06e7fbc8147bc258716e' alt='My new desktop lock screen [2k] : r/starcitizen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/3DsyG2lVl4P4IrucMBXYCbNb0hC1qHD9nVIL4KfYnSo.jpg?auto=webp&s=5642fcb8a9708d80a2aa06e7fbc8147bc258716e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: ultra-wide, abstract">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/77/f2/3d/77f23d526c6d1ccfbb4704ea839c5301.jpg' alt='HD wallpaper: ultra-wide, abstract'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="310">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/77/f2/3d/77f23d526c6d1ccfbb4704ea839c5301.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Essential Insights: Insperity Background Check Services</title>
+                    <meta name="description" content="Discover Insperity's reliable background check services to make informed hiring decisions. Our thorough screening process covers criminal history, employment verification, and education checks, ensuring you find the best candidates for your organization. Trust Insperity for a safer workplace. Affordable and efficient solutions await!">
+                    <meta name="keywords" content="insperity background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/insperity-background-check">
+                            <span itemprop="name">insperity background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Insights: Insperity Background Check Services</h1>
+                <p>Insperity background checks ensure a comprehensive review of potential employees, covering criminal history, employment verification, and educational credentials. These checks are vital for maintaining workplace integrity and safety, facilitating smarter hiring decisions. Trust Insperity for reliable and efficient background screening solutions.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check: Is Your Process Discriminatory?Background check ...">
+                                <img itemprop="contentUrl url" src='https://www.insperity.com/wp-content/uploads/how-background-checks-can-land-your-business-in-hot-water-NEWBANNER.jpg' alt='Background Check: Is Your Process Discriminatory?Background check ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Insperity" />
+                                </span>
+                                <a href='https://www.insperity.com/wp-content/uploads/how-background-checks-can-land-your-business-in-hot-water-NEWBANNER.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Insperity Background Check - Fill Online, Printable, Fillable ...">
+                                <img itemprop="contentUrl url" src='https://www.pdffiller.com/preview/5/625/5625166/large.png' alt='Insperity Background Check - Fill Online, Printable, Fillable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="pdfFiller" />
+                                </span>
+                                <a href='https://www.pdffiller.com/preview/5/625/5625166/large.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why Pre-employment Background Checks Are Important - Insperity">
+                                <img itemprop="contentUrl url" src='https://www.insperity.com/wp-content/uploads/Background_check1200x600.png' alt='Why Pre-employment Background Checks Are Important - Insperity'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Insperity" />
+                                </span>
+                                <a href='https://www.insperity.com/wp-content/uploads/Background_check1200x600.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Common Resume Lies & Background Checks | Insperity HR Blog Tips">
+                                <img itemprop="contentUrl url" src='https://www.insperity.com/wp-content/uploads/common-resume-lies-a-background-check-can-reveal_302x640.jpg' alt='Common Resume Lies & Background Checks | Insperity HR Blog Tips'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="302">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Insperity" />
+                                </span>
+                                <a href='https://www.insperity.com/wp-content/uploads/common-resume-lies-a-background-check-can-reveal_302x640.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Employment Screening Best Practices to Consider Before Your Next ...">
+                                <img itemprop="contentUrl url" src='https://www.insperity.com/wp-content/uploads/7-employment-screening-best-practices-to-consider-before-your-next-hire-640x302.jpg' alt='7 Employment Screening Best Practices to Consider Before Your Next ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="302">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Insperity" />
+                                </span>
+                                <a href='https://www.insperity.com/wp-content/uploads/7-employment-screening-best-practices-to-consider-before-your-next-hire-640x302.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3 Facts That Will Change the Way You Think About Employee ...">
+                                <img itemprop="contentUrl url" src='https://www.insperity.com/wp-content/uploads/3-facts-that-will-change-the-way-you-think-about-employee-background-checks.jpg' alt='3 Facts That Will Change the Way You Think About Employee ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="302">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Insperity" />
+                                </span>
+                                <a href='https://www.insperity.com/wp-content/uploads/3-facts-that-will-change-the-way-you-think-about-employee-background-checks.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3 Facts That Will Change the Way You Think About Employee ...">
+                                <img itemprop="contentUrl url" src='https://www.insperity.com/wp-content/uploads/Criminal_history_1200x630.png' alt='3 Facts That Will Change the Way You Think About Employee ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Insperity" />
+                                </span>
+                                <a href='https://www.insperity.com/wp-content/uploads/Criminal_history_1200x630.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why Pre-employment Background Checks Are Important - Insperity">
+                                <img itemprop="contentUrl url" src='https://www.insperity.com/wp-content/uploads/HR-department-of-one-1200-600.png' alt='Why Pre-employment Background Checks Are Important - Insperity'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Insperity" />
+                                </span>
+                                <a href='https://www.insperity.com/wp-content/uploads/HR-department-of-one-1200-600.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why Pre-employment Background Checks Are Important - Insperity">
+                                <img itemprop="contentUrl url" src='https://www.insperity.com/wp-content/uploads/Job_description1200x600-1.png' alt='Why Pre-employment Background Checks Are Important - Insperity'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Insperity" />
+                                </span>
+                                <a href='https://www.insperity.com/wp-content/uploads/Job_description1200x600-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is E-Verify – And How Does It Work For Employers? - Insperity">
+                                <img itemprop="contentUrl url" src='https://www.insperity.com/wp-content/uploads/i9page3-1.png' alt='What Is E-Verify – And How Does It Work For Employers? - Insperity'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="548">
+                                <meta itemprop="height" content="710">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Insperity" />
+                                </span>
+                                <a href='https://www.insperity.com/wp-content/uploads/i9page3-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

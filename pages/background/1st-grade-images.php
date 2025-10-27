@@ -1,0 +1,129 @@
+<title>Engaging 1st Grade Images for Fun Learning</title>
+                    <meta name="description" content="Discover a collection of vibrant 1st grade images designed to captivate young learners. These visually appealing resources will make learning fun, helping kids understand concepts through engaging visuals. Perfect for parents and educators looking to enhance teaching with colorful imagery!">
+                    <meta name="keywords" content="1st grade images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/1st-grade-images">
+                            <span itemprop="name">1st grade images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Engaging 1st Grade Images for Fun Learning</h1>
+                <p>1st grade images are essential resources for young learners, providing visual stimulation that helps them grasp new concepts and foster creativity. These vibrant images can include educational themes, animals, nature, and everyday objects, making learning engaging and fun. Incorporating visuals in lessons enhances understanding and retention.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="First Grade School Logo Stock Illustrations – 325 First Grade ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/print-149040879.jpg' alt='First Grade School Logo Stock Illustrations – 325 First Grade ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="618">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/print-149040879.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="⭐ FREE Printable 1st Grade Worksheets">
+                                <img itemprop="contentUrl url" src='https://www.123homeschool4me.com/wp-content/uploads/2023/03/1st-grade-1.jpg' alt='⭐ FREE Printable 1st Grade Worksheets'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123 Homeschool 4 Me" />
+                                </span>
+                                <a href='https://www.123homeschool4me.com/wp-content/uploads/2023/03/1st-grade-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50+ First Grade Teacher Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1412842494/vector/1st-grade-hand-lettering.jpg?s=612x612&w=0&k=20&c=jy7HVu9ZvuuEIIIo2Ev5cmCna0VIwvJgResyoJLtdWM=' alt='50+ First Grade Teacher Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="471">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1412842494/vector/1st-grade-hand-lettering.jpg?s=612x612&w=0&k=20&c=jy7HVu9ZvuuEIIIo2Ev5cmCna0VIwvJgResyoJLtdWM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello 1st grade (DTF Transfer)">
+                                <img itemprop="contentUrl url" src='https://atlantavinylstore.com/cdn/shop/products/Hello-1st-grade-swatches_800x.jpg?v=1658904017' alt='Hello 1st grade (DTF Transfer)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Atlanta Vinyl" />
+                                </span>
+                                <a href='https://atlantavinylstore.com/cdn/shop/products/Hello-1st-grade-swatches_800x.jpg?v=1658904017' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1st Grade Squad">
+                                <img itemprop="contentUrl url" src='https://bluewatervinylandgifts.com/cdn/shop/products/firstgradesquad_572x.jpg?v=1674161796' alt='1st Grade Squad'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="572">
+                                <meta itemprop="height" content="538">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Blue Water Vinyl & Gifts" />
+                                </span>
+                                <a href='https://bluewatervinylandgifts.com/cdn/shop/products/firstgradesquad_572x.jpg?v=1674161796' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,600+ First Grade Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1333410572/vector/1st-grade-crew-calligraphy-hand-lettering-isolated-on-white-background-first-day-of-school.jpg?s=612x612&w=0&k=20&c=zCV765pyYLwYlQpLXmopeX7r5Yp10b3nVWBRvgwXzJQ=' alt='4,600+ First Grade Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1333410572/vector/1st-grade-crew-calligraphy-hand-lettering-isolated-on-white-background-first-day-of-school.jpg?s=612x612&w=0&k=20&c=zCV765pyYLwYlQpLXmopeX7r5Yp10b3nVWBRvgwXzJQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1st Grade | Aue Elementary School Northside Independent School ...">
+                                <img itemprop="contentUrl url" src='https://www.nisd.net/sites/default/files/2024-09/kindergarten-1-0.png' alt='1st Grade | Aue Elementary School Northside Independent School ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6912">
+                                <meta itemprop="height" content="2496">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Northside Independent School District" />
+                                </span>
+                                <a href='https://www.nisd.net/sites/default/files/2024-09/kindergarten-1-0.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="First Grade Sign Photos, Images & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2291437039/display_1500/stock-vector-first-grade-squad-colorful-typography-design-good-for-clothes-gift-sets-photos-or-motivation-2291437039.jpg' alt='First Grade Sign Photos, Images & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2291437039/display_1500/stock-vector-first-grade-squad-colorful-typography-design-good-for-clothes-gift-sets-photos-or-motivation-2291437039.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello First Grade Hello 1st Grade Sticker unbeatable">
+                                <img itemprop="contentUrl url" src='https://image.spreadshirtmedia.com/image-server/v1/products/T1459A839PA3861PT28D1040228008W10000H8106/views/1,width=800,height=800,appearanceId=839,backgroundColor=F2F2F2/hello-first-grade-hello-1st-grade-sticker.jpg' alt='Hello First Grade Hello 1st Grade Sticker unbeatable'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.neurologist.com.sg" />
+                                </span>
+                                <a href='https://image.spreadshirtmedia.com/image-server/v1/products/T1459A839PA3861PT28D1040228008W10000H8106/views/1,width=800,height=800,appearanceId=839,backgroundColor=F2F2F2/hello-first-grade-hello-1st-grade-sticker.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free 1st Grade Math Worksheets—Printable w/ Answers — Mashup Math">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/54905286e4b050812345644c/0ede6405-5962-48c0-a815-f4ea66d77a34/1st-Link.png' alt='Free 1st Grade Math Worksheets—Printable w/ Answers — Mashup Math'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2083">
+                                <meta itemprop="height" content="2083">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mashup Math" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/54905286e4b050812345644c/0ede6405-5962-48c0-a815-f4ea66d77a34/1st-Link.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

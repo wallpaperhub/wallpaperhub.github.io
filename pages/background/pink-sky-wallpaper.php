@@ -1,0 +1,129 @@
+<title>Lovely Pink Sky Wallpapers for a Dreamy Home</title>
+                    <meta name="description" content="Discover enchanting pink sky wallpaper that brings warmth and tranquility to any room. Perfect for creating a serene ambiance, these wallpapers enhance your decor with beautiful hues. Shop now to find the ideal design that complements your unique style!">
+                    <meta name="keywords" content="pink sky wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pink-sky-wallpaper">
+                            <span itemprop="name">pink sky wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Lovely Pink Sky Wallpapers for a Dreamy Home</h1>
+                <p>Transform your space with stunning pink sky wallpaper! Perfect for adding a touch of whimsy and serenity to your home, these wallpapers create a dreamy atmosphere that soothes the soul. Ideal for bedrooms, nurseries, or accent walls, pink sky designs evoke peace and creativity. Explore various styles to find the perfect match for your decor!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Sky Photos, Download The BEST Free Pink Sky Stock Photos & HD ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/907485/pexels-photo-907485.jpeg' alt='Pink Sky Photos, Download The BEST Free Pink Sky Stock Photos & HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4032">
+                                <meta itemprop="height" content="3021">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/907485/pexels-photo-907485.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink sky☁️">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/83/6a/ca/836acab2e40227cb4bdf56a2cafaada2.jpg' alt='Pink sky☁️'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="554">
+                                <meta itemprop="height" content="837">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/83/6a/ca/836acab2e40227cb4bdf56a2cafaada2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Sky Images – Browse 3,220,470 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/09/33/33/52/360_F_933335241_KZU57NEBEccs98EpxvY6riYzJLRmunvx.jpg' alt='Pink Sky Images – Browse 3,220,470 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/09/33/33/52/360_F_933335241_KZU57NEBEccs98EpxvY6riYzJLRmunvx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="47,900+ Pink Sky Night Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1417824620/photo/pink-galaxy.jpg?s=612x612&w=0&k=20&c=0T6drXP3a3PkQh1vzp6IIsmexkLIfn8cepE7H3_pxys=' alt='47,900+ Pink Sky Night Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1417824620/photo/pink-galaxy.jpg?s=612x612&w=0&k=20&c=0T6drXP3a3PkQh1vzp6IIsmexkLIfn8cepE7H3_pxys=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone-wallpaper-pink-sky">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/11/a2/37/11a23736ab0aca696a944de8abc9d8ab.jpg' alt='iPhone-wallpaper-pink-sky'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="610">
+                                <meta itemprop="height" content="1082">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/11/a2/37/11a23736ab0aca696a944de8abc9d8ab.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pink Sky Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/pink-sky-he92hu4r2lzvv4gh.jpg' alt='100+] Pink Sky Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/pink-sky-he92hu4r2lzvv4gh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Sky Images – Browse 3,220,470 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/11/86/32/83/360_F_1186328347_xbJvMJgYZy8Z3JtoUGaCzum3gHCYO8NV.jpg' alt='Pink Sky Images – Browse 3,220,470 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/11/86/32/83/360_F_1186328347_xbJvMJgYZy8Z3JtoUGaCzum3gHCYO8NV.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ios 14 Pink Sky Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/ios-14-pink-sky-mnfm8t04px9hik25.jpg' alt='Ios 14 Pink Sky Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/ios-14-pink-sky-mnfm8t04px9hik25.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Sky Images – Browse 3,220,470 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/09/10/54/43/360_F_910544317_M4EPDx8DPwoIV367mmwNGU1TZ1gDpOZl.jpg' alt='Pink Sky Images – Browse 3,220,470 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="635">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/09/10/54/43/360_F_910544317_M4EPDx8DPwoIV367mmwNGU1TZ1gDpOZl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Sky During Sunset · Free Stock Photo">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/18713930/pexels-photo-18713930/free-photo-of-pink-sky-during-sunset.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' alt='Pink Sky During Sunset · Free Stock Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/18713930/pexels-photo-18713930/free-photo-of-pink-sky-during-sunset.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

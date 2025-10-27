@@ -1,0 +1,129 @@
+<title>Elevate Your Space: Van Gogh Wallpaper for Walls</title>
+                    <meta name="description" content="Add a touch of artistic flair to your home with Van Gogh wallpaper. Perfect for accent walls or an entire room, these designs capture the essence of Van Gogh’s masterpieces, creating a vibrant and inspiring environment. Easy to apply and visually striking, they’re a must-have for any decor enthusiast!">
+                    <meta name="keywords" content="van gogh wallpaper for walls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/van-gogh-wallpaper-for-walls">
+                            <span itemprop="name">van gogh wallpaper for walls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Space: Van Gogh Wallpaper for Walls</h1>
+                <p>Transform your space with stunning Van Gogh wallpaper that brings art to life on your walls. Inspired by the master’s vibrant colors and iconic styles, these wallpapers create a unique atmosphere in any room. Perfect for art lovers, they add depth and character, making your home a gallery of beauty and inspiration.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Almond Blossom by Van Gogh Wallpaper, Peel and Stick Vintage ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18725930/r/il/0cee5e/2263256651/il_fullxfull.2263256651_ngn5.jpg' alt='Almond Blossom by Van Gogh Wallpaper, Peel and Stick Vintage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1508">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18725930/r/il/0cee5e/2263256651/il_fullxfull.2263256651_ngn5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Van Gogh Starry Night Painting Wallpaper Self-Adhesive Wall Art Mural Decal  M247">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/4hwAAOSwXTBkdwWd/s-l1200.jpg' alt='Van Gogh Starry Night Painting Wallpaper Self-Adhesive Wall Art Mural Decal  M247'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/4hwAAOSwXTBkdwWd/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wheatfield with Cypresses, 1889 (oil on canvas)">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/7973/pr22/1/1280/wheatfield-cypresses-1889-van-gogh-mural.jpg' alt='Wheatfield with Cypresses, 1889 (oil on canvas)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="645">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/7973/pr22/1/1280/wheatfield-cypresses-1889-van-gogh-mural.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Van Gogh Almond Blossom Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://img.wallmur.net/@wmp/_826ax660/e/y/ey000030_style1_moc2_1.jpg' alt='Van Gogh Almond Blossom Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="734">
+                                <meta itemprop="height" content="660">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://img.wallmur.net/@wmp/_826ax660/e/y/ey000030_style1_moc2_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starry Night' By Vincent Van Gogh Wallpaper Mural - Hovia">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1715782743/articles/VA0003BU30W_interior2.jpg' alt='Starry Night' By Vincent Van Gogh Wallpaper Mural - Hovia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="333">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hovia" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1715782743/articles/VA0003BU30W_interior2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Almond Blossom by Van Gogh Wallpaper, Peel and Stick Vintage ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20707967/r/il/f58dc3/2636279954/il_fullxfull.2636279954_9o33.jpg' alt='Almond Blossom by Van Gogh Wallpaper, Peel and Stick Vintage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20707967/r/il/f58dc3/2636279954/il_fullxfull.2636279954_9o33.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Almond Blossom by Van Gogh">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,w_1100,h_800/v1726144572/articles/R20563_interior1.jpg' alt='Almond Blossom by Van Gogh'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rebel Walls" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,w_1100,h_800/v1726144572/articles/R20563_interior1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Irises, Vincent van Gogh">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/interiors/44767/landscape/wallpaper/room43.jpg?w=2000&q=80' alt='Irises, Vincent van Gogh'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/interiors/44767/landscape/wallpaper/room43.jpg?w=2000&q=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Almond">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,w_1100,h_800/v1715782741/articles/VA0004BU30W_interior1.jpg' alt='Almond'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hovia" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,w_1100,h_800/v1715782741/articles/VA0004BU30W_interior1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Van Gogh Starry Night Mural Wallpaper">
+                                <img itemprop="contentUrl url" src='http://www.eazywallz.com/cdn/shop/products/Van-Gogh-Starry-Night-Mural-Wallpaper_a08bca97-2248-4dbe-8ea5-5d413f142875.jpg?v=1628797173' alt='Van Gogh Starry Night Mural Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eazywallz" />
+                                </span>
+                                <a href='http://www.eazywallz.com/cdn/shop/products/Van-Gogh-Starry-Night-Mural-Wallpaper_a08bca97-2248-4dbe-8ea5-5d413f142875.jpg?v=1628797173' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Western Wall Photos: A Spiritual Journey</title>
+                    <meta name="description" content="Explore beautiful Western Wall photos that showcase the historic and spiritual significance of this iconic site. Capture the essence of prayer and reflection with stunning imagery that highlights personal and cultural connections to this renowned Jerusalem landmark.">
+                    <meta name="keywords" content="western wall photos">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/western-wall-photos">
+                            <span itemprop="name">western wall photos</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Western Wall Photos: A Spiritual Journey</h1>
+                <p>Western Wall photos capture the timeless beauty and spiritual essence of this iconic Jerusalem landmark. Visitors often document their experience by taking pictures of the ancient stones adorned with prayers. Each photo reflects personal connections and cultural significance, making these images a treasured piece of history and devotion.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Western Wall - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/1/17/Westernwall2.jpg' alt='Western Wall - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2592">
+                                <meta itemprop="height" content="1944">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/1/17/Westernwall2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Western Wall in Jerusalem | Tourist Israel">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.touristisrael.com/wp-content/uploads/2021/02/shutterstock_690424699.jpg?resize=1024%2C683&ssl=1' alt='Western Wall in Jerusalem | Tourist Israel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tourist Israel" />
+                                </span>
+                                <a href='https://i0.wp.com/www.touristisrael.com/wp-content/uploads/2021/02/shutterstock_690424699.jpg?resize=1024%2C683&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Western Wall in Jerusalem | Tourist Israel">
+                                <img itemprop="contentUrl url" src='https://www.touristisrael.com/wp-content/uploads/2021/10/shutterstock_591824696-1024x684.jpg' alt='Western Wall in Jerusalem | Tourist Israel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="684">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tourist Israel" />
+                                </span>
+                                <a href='https://www.touristisrael.com/wp-content/uploads/2021/10/shutterstock_591824696-1024x684.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Western Wall | Definition, History, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/38/147838-050-534C2986/Western-Wall-Jerusalem-2009.jpg' alt='Western Wall | Definition, History, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1053">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/38/147838-050-534C2986/Western-Wall-Jerusalem-2009.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Western Wall, Jewish Quarter Jerusalem | Bein Harim">
+                                <img itemprop="contentUrl url" src='https://www.beinharimtours.com/wwwroot/uploads/places/temp/0d55a0b7-970e-48cf-8998-cc8adc517c8c.jpg' alt='Western Wall, Jewish Quarter Jerusalem | Bein Harim'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bein Harim" />
+                                </span>
+                                <a href='https://www.beinharimtours.com/wwwroot/uploads/places/temp/0d55a0b7-970e-48cf-8998-cc8adc517c8c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Western Wall — Travel kills me">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5cea595af824ce000105c920/1664004571860-H5XEU1BT8DQFJ7P5D010/asia_israel_jerusalem_westernwall.jpg' alt='Western Wall — Travel kills me'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1875">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Travel kills me" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5cea595af824ce000105c920/1664004571860-H5XEU1BT8DQFJ7P5D010/asia_israel_jerusalem_westernwall.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Western Wall is one of the holiest places in the world. Here ...">
+                                <img itemprop="contentUrl url" src='http://www.jmgads.com/vjsite/lists/kotel/kotelcclicense.jpg' alt='The Western Wall is one of the holiest places in the world. Here ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Israeli Missions Around The World" />
+                                </span>
+                                <a href='http://www.jmgads.com/vjsite/lists/kotel/kotelcclicense.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12,400+ Western Wall Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1474069833/photo/panorama-ruins-of-western-wall-of-ancient-temple-mount-is.jpg?s=612x612&w=0&k=20&c=t1WHeNQDqtkO9zKXM83LhQTsZNW5sGBZLQQMKjjzISc=' alt='12,400+ Western Wall Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="219">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1474069833/photo/panorama-ruins-of-western-wall-of-ancient-temple-mount-is.jpg?s=612x612&w=0&k=20&c=t1WHeNQDqtkO9zKXM83LhQTsZNW5sGBZLQQMKjjzISc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Western Wall | Jerusalem, Middle East | Attractions - Lonely Planet">
+                                <img itemprop="contentUrl url" src='https://lp-cms-production.imgix.net/2019-06/57ca3af76dd9ccd6b4d5476af3268d87-western-wall.jpg?w=1920&h=640&fit=crop&crop=faces%2Cedges&auto=format&q=75' alt='Western Wall | Jerusalem, Middle East | Attractions - Lonely Planet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lonely Planet" />
+                                </span>
+                                <a href='https://lp-cms-production.imgix.net/2019-06/57ca3af76dd9ccd6b4d5476af3268d87-western-wall.jpg?w=1920&h=640&fit=crop&crop=faces%2Cedges&auto=format&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Western Wall | Definition, History, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/19/93419-050-6381B963/Western-Wall-remains-Jerusalem-Second-Temple-Dome.jpg' alt='Western Wall | Definition, History, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="973">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/19/93419-050-6381B963/Western-Wall-remains-Jerusalem-Second-Temple-Dome.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

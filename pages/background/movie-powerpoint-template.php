@@ -1,0 +1,129 @@
+<title>Eye-Catching Movie PowerPoint Template for Engaging Presentations</title>
+                    <meta name="description" content="Transform your movie presentations with our sleek and customizable PowerPoint template. Perfect for showcasing film projects, reviews, or analyses, it's designed for impact and engagement. Create stunning visuals and captivate your audience effortlessly!">
+                    <meta name="keywords" content="movie powerpoint template">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/movie-powerpoint-template">
+                            <span itemprop="name">movie powerpoint template</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Eye-Catching Movie PowerPoint Template for Engaging Presentations</h1>
+                <p>Enhance your movie presentations with a professional PowerPoint template designed specifically for cinematic themes. With customizable layouts and vibrant visuals, this template makes it easy to showcase your film project, character analyses, or movie reviews. Capture your audience's attention and keep them engaged with stunning graphics and smooth transitions.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Movie Google Slides themes and PowerPoint templates">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/26293594/movie-awards-ceremony1666019888.jpg' alt='Free Movie Google Slides themes and PowerPoint templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/26293594/movie-awards-ceremony1666019888.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Film slate | Free PowerPoint template & Google Slides theme">
+                                <img itemprop="contentUrl url" src='https://slidesmania.com/wp-content/uploads/2022/03/Russo-v2-free-ppt.jpg' alt='Film slate | Free PowerPoint template & Google Slides theme'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1075">
+                                <meta itemprop="height" content="605">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlidesMania" />
+                                </span>
+                                <a href='https://slidesmania.com/wp-content/uploads/2022/03/Russo-v2-free-ppt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Movie Presentation Template">
+                                <img itemprop="contentUrl url" src='https://www.slidekit.com/wp-content/uploads/2024/06/Movie-Themed-Powerpoint-Template.jpg' alt='Movie Presentation Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideKit" />
+                                </span>
+                                <a href='https://www.slidekit.com/wp-content/uploads/2024/06/Movie-Themed-Powerpoint-Template.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Movie PowerPoint Template - Templateswise.com">
+                                <img itemprop="contentUrl url" src='https://www.templateswise.com/wp-content/uploads/2018/05/movie-powerpoint-template-1158.jpg' alt='Movie PowerPoint Template - Templateswise.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="859">
+                                <meta itemprop="height" content="478">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Templateswise.com" />
+                                </span>
+                                <a href='https://www.templateswise.com/wp-content/uploads/2018/05/movie-powerpoint-template-1158.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Movie Google Slides themes and PowerPoint templates">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/37822/upload.png' alt='Free Movie Google Slides themes and PowerPoint templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/37822/upload.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cinema PowerPoint Template Presentation and Google Slides">
+                                <img itemprop="contentUrl url" src='https://www.slideegg.com/image/catalog/78875-cinema-powerpoint-slide.png' alt='Cinema PowerPoint Template Presentation and Google Slides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slide Egg" />
+                                </span>
+                                <a href='https://www.slideegg.com/image/catalog/78875-cinema-powerpoint-slide.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Movie Background Presentation Theme for PowerPoint and Google ...">
+                                <img itemprop="contentUrl url" src='https://cdn.sketchbubble.com/pub/media/catalog/product/optimized1/2/9/29981cc711eb3b6d14f28af8f4cc57be66e36e012d6ea8626fcbc24645ad9e37/movie-background-theme-slide1.png' alt='Free Movie Background Presentation Theme for PowerPoint and Google ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SketchBubble" />
+                                </span>
+                                <a href='https://cdn.sketchbubble.com/pub/media/catalog/product/optimized1/2/9/29981cc711eb3b6d14f28af8f4cc57be66e36e012d6ea8626fcbc24645ad9e37/movie-background-theme-slide1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cinematic Movie Background Templates">
+                                <img itemprop="contentUrl url" src='https://www.slidekit.com/wp-content/uploads/2024/08/Movie-Background-PowerPoint-Templates.jpg' alt='Cinematic Movie Background Templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideKit" />
+                                </span>
+                                <a href='https://www.slidekit.com/wp-content/uploads/2024/08/Movie-Background-PowerPoint-Templates.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Movie Google Slides themes and PowerPoint templates">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/51182746/documentary-film-project-proposal1711639763.jpg' alt='Free Movie Google Slides themes and PowerPoint templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/51182746/documentary-film-project-proposal1711639763.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Movie Powerpoint Presentation Template - EaTemp">
+                                <img itemprop="contentUrl url" src='https://eatemp.com/wp-content/uploads/2023/04/Movie-Powerpoint-Presentation-Template.jpeg' alt='Movie Powerpoint Presentation Template - EaTemp'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="840">
+                                <meta itemprop="height" content="1296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EaTemp" />
+                                </span>
+                                <a href='https://eatemp.com/wp-content/uploads/2023/04/Movie-Powerpoint-Presentation-Template.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

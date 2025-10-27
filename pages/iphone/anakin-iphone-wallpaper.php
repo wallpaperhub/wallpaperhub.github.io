@@ -1,0 +1,129 @@
+<title>Anakin Skywalker iPhone Wallpapers: Epic Star Wars Designs</title>
+                    <meta name="description" content="Discover an array of dynamic Anakin Skywalker iPhone wallpapers! Perfect for Star Wars fans, our collection features vibrant designs that breathe life into your screen. Download stunning visuals that showcase iconic moments and characters from the galaxy far, far away. Elevate your device's look today!">
+                    <meta name="keywords" content="anakin iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/anakin-iphone-wallpaper">
+                            <span itemprop="name">anakin iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Anakin Skywalker iPhone Wallpapers: Epic Star Wars Designs</h1>
+                <p>Anakin Skywalker fans, transform your device with stunning iPhone wallpapers! Featuring epic scenes, iconic lightsabers, and striking visuals, these wallpapers capture the dynamic essence of Anakin. Perfect for Star Wars enthusiasts, they bring your screen to life, making every glance an adventure across the galaxy!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WallpaperSun">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/64/65/f4/6465f47a087a389d0b280312079a17fe.jpg' alt='WallpaperSun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/64/65/f4/6465f47a087a389d0b280312079a17fe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Anakin Skywalker Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/anakin-skywalker-lightsaber-stance-l9qttotdmc8m2ywk.jpg' alt='100+] Anakin Skywalker Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="864">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/anakin-skywalker-lightsaber-stance-l9qttotdmc8m2ywk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Revenge of the Sith, anakin, star wars, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/776/589/HD-wallpaper-anakin-future-anakin-skywalker-darth-vader-jedi-jedi-knight-revenge-of-the-sith-sith-sith-lord-star-wars-star-wars-episode-3-starwars-thumbnail.jpg' alt='Revenge of the Sith, anakin, star wars, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="518">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/776/589/HD-wallpaper-anakin-future-anakin-skywalker-darth-vader-jedi-jedi-knight-revenge-of-the-sith-sith-sith-lord-star-wars-star-wars-episode-3-starwars-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anakin Skywalker Lockscreen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6c/bf/88/6cbf88efa2a4f3fdd1831dbf578ec830.jpg' alt='Anakin Skywalker Lockscreen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="665">
+                                <meta itemprop="height" content="1182">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6c/bf/88/6cbf88efa2a4f3fdd1831dbf578ec830.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anakin wallpaper sales">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/ahsoka-tano-and-anakin-skywalker-art_a21oZmWUmZqaraWkpJRnbmhnrWduaGc.jpg' alt='Anakin wallpaper sales'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2932">
+                                <meta itemprop="height" content="2932">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="npl-project.com" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/ahsoka-tano-and-anakin-skywalker-art_a21oZmWUmZqaraWkpJRnbmhnrWduaGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anakin skywalker wallpaper sale">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/fortnite-anakin-skywalker_bmVoa2mUmZqaraWkpJRmZ2lnrWdrbW0.jpg' alt='Anakin skywalker wallpaper sale'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bilumina.com" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/fortnite-anakin-skywalker_bmVoa2mUmZqaraWkpJRmZ2lnrWdrbW0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anakin Skywalker | wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/ea/ab/73/eaab738ff44b4129accffd9e25e54a9c.jpg' alt='Anakin Skywalker | wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="455">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/ea/ab/73/eaab738ff44b4129accffd9e25e54a9c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anakin Skywalker iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp13716229.jpg' alt='Anakin Skywalker iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp13716229.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Iphone 6 Plus Blue Anakin Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/star-wars-iphone-6-plus-blue-anakin-9y3c6xly82j0zar2.jpg' alt='Star Wars Iphone 6 Plus Blue Anakin Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/star-wars-iphone-6-plus-blue-anakin-9y3c6xly82j0zar2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anakin Skywalker iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/100/1006271.png' alt='Anakin Skywalker iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1688">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/100/1006271.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

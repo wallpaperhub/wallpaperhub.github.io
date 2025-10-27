@@ -1,0 +1,129 @@
+<title>Elegant White Leaf Wallpaper for Chic Interiors</title>
+                    <meta name="description" content="Discover the beauty of white leaf wallpaper, perfect for transforming your home. Its elegant designs add a serene touch to any space, making it ideal for both modern and traditional decor. Elevate your interiors effortlessly with our stylish collection of white leaf patterns.">
+                    <meta name="keywords" content="white leaf wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/white-leaf-wallpaper">
+                            <span itemprop="name">white leaf wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant White Leaf Wallpaper for Chic Interiors</h1>
+                <p>White leaf wallpaper brings a touch of elegance to any room, featuring delicate, intricate designs that evoke nature's tranquility. Ideal for chic interiors, this wallpaper creates a serene backdrop, enhancing both modern and traditional spaces. Its soft hues and subtle patterns elevate your decor, making every space feel airy and inviting.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Printed Tropical Leaves Botanical Wallpaper R9292">
+                                <img itemprop="contentUrl url" src='https://wallsrepublic.com/cdn/shop/files/WhitePrintedTropicalLeavesBotanicalWallpaperR9292.jpg?v=1736259203&width=1200' alt='White Printed Tropical Leaves Botanical Wallpaper R9292'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='https://wallsrepublic.com/cdn/shop/files/WhitePrintedTropicalLeavesBotanicalWallpaperR9292.jpg?v=1736259203&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wallpaper palm leaves white">
+                                <img itemprop="contentUrl url" src='https://www.originwallcoverings.com/media/catalog/product/cache/a2ff3bab6ccd19c1caabb71d87d63da1/3/4/347741.jpg' alt='wallpaper palm leaves white'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Origin wallcoverings" />
+                                </span>
+                                <a href='https://www.originwallcoverings.com/media/catalog/product/cache/a2ff3bab6ccd19c1caabb71d87d63da1/3/4/347741.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grey & White Tropical Large Palm Leaf Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/grey-white-tropical-large-palm-leaf-wal-rkih-l.jpg' alt='Grey & White Tropical Large Palm Leaf Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/grey-white-tropical-large-palm-leaf-wal-rkih-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seabrook Summer House Tarra Monstera Leaf Wallpaper - White Sand">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/files/SC20205_7500e12b-b616-450f-9d4f-c9bea8df44af.jpg?v=1707765555' alt='Seabrook Summer House Tarra Monstera Leaf Wallpaper - White Sand'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1286">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/files/SC20205_7500e12b-b616-450f-9d4f-c9bea8df44af.jpg?v=1707765555' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Leaf Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/white-leaves-pattern-background-design_1017-36566.jpg' alt='White Leaf Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/white-leaves-pattern-background-design_1017-36566.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Leaf Outline Abstract Botanical Wallpaper R7463">
+                                <img itemprop="contentUrl url" src='http://wallsrepublic.com/cdn/shop/products/Untitleddesign-2022-02-10T131454.443.png?v=1736261860&width=1024' alt='White Leaf Outline Abstract Botanical Wallpaper R7463'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='http://wallsrepublic.com/cdn/shop/products/Untitleddesign-2022-02-10T131454.443.png?v=1736261860&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White and green leaf">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/white-and-green-leaf-pattern-repeat-removable-wallpaper-design.jpg' alt='White and green leaf'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/white-and-green-leaf-pattern-repeat-removable-wallpaper-design.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White & Grey Willow Leaf Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/white-grey-willow-leaf-wallpaper-pzha-l.jpg' alt='White & Grey Willow Leaf Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/white-grey-willow-leaf-wallpaper-pzha-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="leaves wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/29/94/c8/2994c87043f088468a7c9b649b2a1050.jpg' alt='leaves wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1072">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/29/94/c8/2994c87043f088468a7c9b649b2a1050.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Ginko Leaves Tropical Wallpaper R9336">
+                                <img itemprop="contentUrl url" src='https://wallsrepublic.com/cdn/shop/files/WhiteGinkoLeavesTropicalWallpaperR9336.jpg?v=1736259108&width=1200' alt='White Ginko Leaves Tropical Wallpaper R9336'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='https://wallsrepublic.com/cdn/shop/files/WhiteGinkoLeavesTropicalWallpaperR9336.jpg?v=1736259108&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

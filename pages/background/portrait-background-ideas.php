@@ -1,0 +1,129 @@
+<title>Creative Portrait Background Ideas for Stunning Photos</title>
+                    <meta name="description" content="Explore unique portrait background ideas to elevate your photography! From solid colors to natural scenes and urban settings, discover how the right backdrop can enhance your subjects and create memorable images. Perfect for photographers looking to add flair to their portfolio!">
+                    <meta name="keywords" content="portrait background ideas">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/portrait-background-ideas">
+                            <span itemprop="name">portrait background ideas</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Creative Portrait Background Ideas for Stunning Photos</h1>
+                <p>When choosing a portrait background, consider a variety of options to enhance your image. Solid colors provide a clean look, while textured fabrics add depth. Nature settings like parks or gardens bring a natural feel. Urban backdrops, such as brick walls or city streets, add a modern edge. Experiment with lighting for stunning effects!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 Portrait Background Ideas to Try During Next Photoshoot">
+                                <img itemprop="contentUrl url" src='https://ae01.alicdn.com/kf/Ha4de8c88ac42494489348ef0e25bb34fu/Abstract-Texture-Portrait-Photography-Backdrop-for-Photo-Studio-Newborn-Baby-Birthday-Background-Wedding-Birdal-Shower-Photocall.jpg' alt='20 Portrait Background Ideas to Try During Next Photoshoot'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WeEdit.Photos" />
+                                </span>
+                                <a href='https://ae01.alicdn.com/kf/Ha4de8c88ac42494489348ef0e25bb34fu/Abstract-Texture-Portrait-Photography-Backdrop-for-Photo-Studio-Newborn-Baby-Birthday-Background-Wedding-Birdal-Shower-Photocall.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 portrait painting background ideas | portrait painting ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/2c/d7/00/2cd7000cf9575c8bf5c36c74031685ef.jpg' alt='10 portrait painting background ideas | portrait painting ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="417">
+                                <meta itemprop="height" content="566">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/2c/d7/00/2cd7000cf9575c8bf5c36c74031685ef.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Secret to Exciting Backgrounds for Portrait Paintings">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/tw4iQALuRDA/maxresdefault.jpg' alt='The Secret to Exciting Backgrounds for Portrait Paintings'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/tw4iQALuRDA/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 portrait painting background ideas | portrait painting ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/80/9d/3f/809d3f5a17ee3afc6fe747908e8c4598.jpg' alt='10 portrait painting background ideas | portrait painting ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="330">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/80/9d/3f/809d3f5a17ee3afc6fe747908e8c4598.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Portrait Painting - How to Create Backgrounds - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/JIoRqYFFg18/sddefault.jpg' alt='Portrait Painting - How to Create Backgrounds - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/JIoRqYFFg18/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Self portrait background ideas? : r/oilpainting">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/zq5slj7i80ub1.jpg' alt='Self portrait background ideas? : r/oilpainting'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2325">
+                                <meta itemprop="height" content="2627">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/zq5slj7i80ub1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Painting Backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.oilpaintersofamerica.com/wp-content/uploads/2020/01/WilliamSchneider-232020-image3.jpg' alt='Painting Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="439">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oil Painters of America" />
+                                </span>
+                                <a href='https://www.oilpaintersofamerica.com/wp-content/uploads/2020/01/WilliamSchneider-232020-image3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Paint a Background – Sophie Ploeg">
+                                <img itemprop="contentUrl url" src='https://www.sophieploeg.com/wp-content/uploads/2019/08/mw277655.jpg' alt='How to Paint a Background – Sophie Ploeg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sophie Ploeg" />
+                                </span>
+                                <a href='https://www.sophieploeg.com/wp-content/uploads/2019/08/mw277655.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Paint The Background Successfully - How to Pastel">
+                                <img itemprop="contentUrl url" src='https://www.howtopastel.com/wp-content/uploads/2019/01/Gail-Sibley-Joel-Unison-pastels-on-UART-400-12-x-9-in-copy-2.jpg' alt='How To Paint The Background Successfully - How to Pastel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="How to Pastel" />
+                                </span>
+                                <a href='https://www.howtopastel.com/wp-content/uploads/2019/01/Gail-Sibley-Joel-Unison-pastels-on-UART-400-12-x-9-in-copy-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="130 Backgrounds painting portraits ideas | painting, portrait ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/6d/18/eb/6d18ebc243dd1f11104358cfcff36b7e.jpg' alt='130 Backgrounds painting portraits ideas | painting, portrait ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="230">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/6d/18/eb/6d18ebc243dd1f11104358cfcff36b7e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

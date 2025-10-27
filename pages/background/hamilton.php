@@ -1,0 +1,129 @@
+<title>Discover the Magic of Hamilton: A Revolutionary Musical</title>
+                    <meta name="description" content="Explore Hamilton, the innovative musical that reimagines American history through hip-hop and diverse storytelling. Join Alexander Hamilton's journey from obscurity to prominence, captivating audiences with its unique blend of genres and powerful themes. Perfect for music and history lovers alike!">
+                    <meta name="keywords" content="hamilton">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/hamilton">
+                            <span itemprop="name">hamilton</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Magic of Hamilton: A Revolutionary Musical</h1>
+                <p>Hamilton is a groundbreaking musical by Lin-Manuel Miranda that tells the story of Alexander Hamilton, one of America’s Founding Fathers. Combining hip-hop, R&B, and traditional show tunes, it highlights themes of ambition, legacy, and the immigrant experience. Its dynamic storytelling and diverse casting have revolutionized Broadway, captivating audiences worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hamilton (musical) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Hamilton-poster.jpg/220px-Hamilton-poster.jpg' alt='Hamilton (musical) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Hamilton-poster.jpg/220px-Hamilton-poster.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Review: 'Hamilton,' Young Rebels Changing History and Theater ...">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2015/08/07/theater/07HAMILTON-slide-DR5R/07HAMILTON-slide-DR5R-videoSixteenByNine3000-v2.jpg?year=2015&h=1687&w=3000&s=eea6f68165d79e73669aa3766a7811167174d6403c527b4b66d15689582afb8c&k=ZQJBKqZ0VN&tw=1' alt='Review: 'Hamilton,' Young Rebels Changing History and Theater ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1687">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2015/08/07/theater/07HAMILTON-slide-DR5R/07HAMILTON-slide-DR5R-videoSixteenByNine3000-v2.jpg?year=2015&h=1687&w=3000&s=eea6f68165d79e73669aa3766a7811167174d6403c527b4b66d15689582afb8c&k=ZQJBKqZ0VN&tw=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hamilton - Broadway Sacramento">
+                                <img itemprop="contentUrl url" src='https://www.broadwaysacramento.com/wp-content/uploads/2024/03/HAMILTON_1080x1080-1024x1024.jpg' alt='Hamilton - Broadway Sacramento'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Broadway Sacramento" />
+                                </span>
+                                <a href='https://www.broadwaysacramento.com/wp-content/uploads/2024/03/HAMILTON_1080x1080-1024x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hamilton movie ending: The moment fans who managed to see the show ...">
+                                <img itemprop="contentUrl url" src='https://compote.slate.com/images/1ae053ab-2573-4a33-b0b8-d6df075db507.jpeg?crop=3240%2C2160%2Cx0%2Cy0' alt='Hamilton movie ending: The moment fans who managed to see the show ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3240">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="slate.com" />
+                                </span>
+                                <a href='https://compote.slate.com/images/1ae053ab-2573-4a33-b0b8-d6df075db507.jpeg?crop=3240%2C2160%2Cx0%2Cy0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hamilton (2020) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BYzBhOWY4ZTktMjE2NS00ZGIyLWJkOGMtNDQyN2JjZWFiODdiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' alt='Hamilton (2020) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1482">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BYzBhOWY4ZTktMjE2NS00ZGIyLWJkOGMtNDQyN2JjZWFiODdiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hamilton: The Musical: Blacks and the founding fathers | National ...">
+                                <img itemprop="contentUrl url" src='https://ncph.org/wp-content/uploads/2016/03/Hamilton-3.jpg' alt='Hamilton: The Musical: Blacks and the founding fathers | National ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1343">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Council on Public History" />
+                                </span>
+                                <a href='https://ncph.org/wp-content/uploads/2016/03/Hamilton-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alexander Hamilton - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/John_Trumbull_-_Alexander_Hamilton_-_Google_Art_Project.jpg/800px-John_Trumbull_-_Alexander_Hamilton_-_Google_Art_Project.jpg' alt='Alexander Hamilton - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="995">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/John_Trumbull_-_Alexander_Hamilton_-_Google_Art_Project.jpg/800px-John_Trumbull_-_Alexander_Hamilton_-_Google_Art_Project.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hamilton | Playhouse Square">
+                                <img itemprop="contentUrl url" src='https://www.playhousesquare.org/assets/img/Hamilton_Spotlight-2_25-2f475b7aa7.jpg' alt='Hamilton | Playhouse Square'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1320">
+                                <meta itemprop="height" content="605">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Playhouse Square" />
+                                </span>
+                                <a href='https://www.playhousesquare.org/assets/img/Hamilton_Spotlight-2_25-2f475b7aa7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Excerpt: ‘Hamilton’">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2015/08/06/multimedia/hamilton-excerpt/hamilton-excerpt-videoSixteenByNine1050.jpg' alt='Excerpt: ‘Hamilton’'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1050">
+                                <meta itemprop="height" content="591">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2015/08/06/multimedia/hamilton-excerpt/hamilton-excerpt-videoSixteenByNine1050.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What it's really like to see 'Hamilton'">
+                                <img itemprop="contentUrl url" src='https://www.usatoday.com/gcdn/-mm-/ba67ef18d53ccf1ea23d37bc405998b4ee3ee380/c=961-1281-4595-3334/local/-/media/2016/03/28/USATODAY/USATODAY/635947804098414743-XXX-IMG-HAMILTON-CREDIT-JOAN-1-1-QNCK5FRG-78029476.JPG?width=3200&height=1808&fit=crop&format=pjpg&auto=webp' alt='What it's really like to see 'Hamilton''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="1808">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USA Today" />
+                                </span>
+                                <a href='https://www.usatoday.com/gcdn/-mm-/ba67ef18d53ccf1ea23d37bc405998b4ee3ee380/c=961-1281-4595-3334/local/-/media/2016/03/28/USATODAY/USATODAY/635947804098414743-XXX-IMG-HAMILTON-CREDIT-JOAN-1-1-QNCK5FRG-78029476.JPG?width=3200&height=1808&fit=crop&format=pjpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

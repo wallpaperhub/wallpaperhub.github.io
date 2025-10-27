@@ -1,0 +1,129 @@
+<title>"Overcoming Conceptual Blocks: The Impact of Loud Music on Focus"</title>
+                    <meta name="description" content="Discover how loud music can create conceptual blocks, hindering focus and creativity. Learn strategies to mitigate distraction and boost productivity in your work or study environment.">
+                    <meta name="keywords" content="which type of conceptual block can result from loud music playing in the background?">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/which-type-of-conceptual-block-can-result-from-loud-music-playing-in-the-background">
+                            <span itemprop="name">which type of conceptual block can result from loud music playing in the background?</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Overcoming Conceptual Blocks: The Impact of Loud Music on Focus"</h1>
+                <p>Loud music playing in the background can create a conceptual block known as "distraction." This occurs when external stimuli interfere with our cognitive processes, making it difficult to focus on tasks. It hampers creative thinking and problem-solving, as the brain struggles to filter out competing sounds, leading to decreased productivity and clarity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solved: Select the correct answer. Which type of conceptual block ...">
+                                <img itemprop="contentUrl url" src='https://p16-ehi-va.gauthmath.com/tos-maliva-i-ejcjvp0zxf-us/c8905a0f57d847bcb6bf6576318c899e~tplv-ejcjvp0zxf-10.image' alt='Solved: Select the correct answer. Which type of conceptual block ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="647">
+                                <meta itemprop="height" content="305">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gauth" />
+                                </span>
+                                <a href='https://p16-ehi-va.gauthmath.com/tos-maliva-i-ejcjvp0zxf-us/c8905a0f57d847bcb6bf6576318c899e~tplv-ejcjvp0zxf-10.image' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solved: Select the correct answer from the drop-down menu. Which ...">
+                                <img itemprop="contentUrl url" src='https://p16-ehi-va.gauthmath.com/tos-maliva-i-ejcjvp0zxf-us/48d6c04df9944ff38c8010c371b373f7~tplv-ejcjvp0zxf-10.image' alt='Solved: Select the correct answer from the drop-down menu. Which ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1055">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gauth" />
+                                </span>
+                                <a href='https://p16-ehi-va.gauthmath.com/tos-maliva-i-ejcjvp0zxf-us/48d6c04df9944ff38c8010c371b373f7~tplv-ejcjvp0zxf-10.image' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Influence of Background Sounds, Physical Sounds, and Managers ...">
+                                <img itemprop="contentUrl url" src='https://jsbs.scholasticahq.com/article/29831-the-influence-of-background-sounds-physical-sounds-and-managers-proactive-customer-service-regarding-situational-sounds-on-customer-satisfaction-in/attachment/75252.jpg' alt='The Influence of Background Sounds, Physical Sounds, and Managers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="905">
+                                <meta itemprop="height" content="541">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Journal of Small Business Strategy - Scholastica" />
+                                </span>
+                                <a href='https://jsbs.scholasticahq.com/article/29831-the-influence-of-background-sounds-physical-sounds-and-managers-proactive-customer-service-regarding-situational-sounds-on-customer-satisfaction-in/attachment/75252.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="conceptual block diagram for data-set collection. | Download ...">
+                                <img itemprop="contentUrl url" src='https://www.researchgate.net/publication/312219564/figure/fig1/AS:550916127248384@1508360048814/conceptual-block-diagram-for-data-set-collection.png' alt='conceptual block diagram for data-set collection. | Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ResearchGate" />
+                                </span>
+                                <a href='https://www.researchgate.net/publication/312219564/figure/fig1/AS:550916127248384@1508360048814/conceptual-block-diagram-for-data-set-collection.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Studying the effect of self-selected background music on reading ...">
+                                <img itemprop="contentUrl url" src='https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-023-28426-1/MediaObjects/41598_2023_28426_Fig1_HTML.png' alt='Studying the effect of self-selected background music on reading ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1773">
+                                <meta itemprop="height" content="516">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nature" />
+                                </span>
+                                <a href='https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-023-28426-1/MediaObjects/41598_2023_28426_Fig1_HTML.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solved: Drag the tiles to the correct boxes to complete the pairs ...">
+                                <img itemprop="contentUrl url" src='https://p16-ehi-va.gauthmath.com/tos-maliva-i-ejcjvp0zxf-us/2fd8b3525a9a43d08ba090a194689a34~tplv-ejcjvp0zxf-10.image' alt='Solved: Drag the tiles to the correct boxes to complete the pairs ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1044">
+                                <meta itemprop="height" content="276">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gauth" />
+                                </span>
+                                <a href='https://p16-ehi-va.gauthmath.com/tos-maliva-i-ejcjvp0zxf-us/2fd8b3525a9a43d08ba090a194689a34~tplv-ejcjvp0zxf-10.image' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="There was a time when I focused more on conceptual projects—where ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7477494116792716566&location=0&aid=1988' alt='There was a time when I focused more on conceptual projects—where ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="936">
+                                <meta itemprop="height" content="1368">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7477494116792716566&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frontiers | A review of “music and movement” therapies for ...">
+                                <img itemprop="contentUrl url" src='https://images-provider.frontiersin.org/api/ipx/w=1200&f=png/https://www.frontiersin.org/files/Articles/44489/fnint-07-00022-HTML/image_m/fnint-07-00022-g001.jpg' alt='Frontiers | A review of “music and movement” therapies for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="843">
+                                <meta itemprop="height" content="487">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Frontiers" />
+                                </span>
+                                <a href='https://images-provider.frontiersin.org/api/ipx/w=1200&f=png/https://www.frontiersin.org/files/Articles/44489/fnint-07-00022-HTML/image_m/fnint-07-00022-g001.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Identification, Evaluation, and Influencing Factors of Soundscapes ...">
+                                <img itemprop="contentUrl url" src='https://pub.mdpi-res.com/applsci/applsci-14-06946/article_deploy/html/images/applsci-14-06946-g001.png?1723696448' alt='Identification, Evaluation, and Influencing Factors of Soundscapes ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3186">
+                                <meta itemprop="height" content="2222">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MDPI" />
+                                </span>
+                                <a href='https://pub.mdpi-res.com/applsci/applsci-14-06946/article_deploy/html/images/applsci-14-06946-g001.png?1723696448' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frontiers | Music Use for Mood Regulation: Self-Awareness and ...">
+                                <img itemprop="contentUrl url" src='https://www.frontiersin.org/files/Articles/452056/fpsyg-10-01199-HTML/image_m/fpsyg-10-01199-g001.jpg' alt='Frontiers | Music Use for Mood Regulation: Self-Awareness and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1750">
+                                <meta itemprop="height" content="968">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Frontiers" />
+                                </span>
+                                <a href='https://www.frontiersin.org/files/Articles/452056/fpsyg-10-01199-HTML/image_m/fpsyg-10-01199-g001.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

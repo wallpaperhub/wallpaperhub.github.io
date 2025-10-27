@@ -1,0 +1,129 @@
+<title>Stunning Grey and Purple Wallpaper Ideas for Your Space</title>
+                    <meta name="description" content="Transform your home with our stunning collection of grey and purple wallpaper, perfect for adding elegance and character to any room. Explore designs that fit your style and elevate your space with this unique color pairing today!">
+                    <meta name="keywords" content="grey and purple wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/grey-and-purple-wallpaper">
+                            <span itemprop="name">grey and purple wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Grey and Purple Wallpaper Ideas for Your Space</h1>
+                <p>Grey and purple wallpaper offers a striking blend of sophistication and creativity, perfect for enhancing any room. This color combination can elevate your decor, creating a serene and stylish atmosphere. Whether in a modern geometric pattern or a whimsical floral design, grey and purple wallpaper makes a bold statement while providing a calming backdrop.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Roses - Purple and Grey">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/46603/roses-purple-and-grey.jpg?h=699&q=85' alt='Roses - Purple and Grey'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1049">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/46603/roses-purple-and-grey.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Casa Mia RM70209 Graffity Effect Soft Grey White Purple Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/219119.jpg' alt='Casa Mia RM70209 Graffity Effect Soft Grey White Purple Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/219119.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="allen + roth Grey/Purple/Silver Strippable Non-Woven Paper ...">
+                                <img itemprop="contentUrl url" src='https://mobileimages.lowes.com/product/converted/623467/623467025500.jpg' alt='allen + roth Grey/Purple/Silver Strippable Non-Woven Paper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lowe's" />
+                                </span>
+                                <a href='https://mobileimages.lowes.com/product/converted/623467/623467025500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Wallpaper | Floral, Glitter, Striped & Plain World of ...">
+                                <img itemprop="contentUrl url" src='https://www.worldofwallpaper.com/media/catalog/product/cache/e7efdef1c0d40947bb151598f5758dbc/m/u/mur601-issey-mauve-wallpaper-ae5.jpg' alt='Purple Wallpaper | Floral, Glitter, Striped & Plain World of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World of Wallpaper" />
+                                </span>
+                                <a href='https://www.worldofwallpaper.com/media/catalog/product/cache/e7efdef1c0d40947bb151598f5758dbc/m/u/mur601-issey-mauve-wallpaper-ae5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fine Décor - Grey, Purple & White Ola Floral Flowers Feature Wallpaper -  FD42033">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/mBwAAOSwDJ5gR7Qj/$_57.JPG?set_id=8800005007' alt='Fine Décor - Grey, Purple & White Ola Floral Flowers Feature Wallpaper -  FD42033'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/mBwAAOSwDJ5gR7Qj/$_57.JPG?set_id=8800005007' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Violet Purple Abstract Marble Wall Mural Peel and Stick Bedroom ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16121769/r/il/904349/3925655477/il_fullxfull.3925655477_fpw4.jpg' alt='Violet Purple Abstract Marble Wall Mural Peel and Stick Bedroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2126">
+                                <meta itemprop="height" content="1701">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16121769/r/il/904349/3925655477/il_fullxfull.3925655477_fpw4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Window View - Purple">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/65131/window-view-purple.jpg?h=699&q=85' alt='Window View - Purple'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="699">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/65131/window-view-purple.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dining Room Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3b/2a/ca/3b2aca97d9519b369243e0af610c786d.jpg' alt='Dining Room Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="665">
+                                <meta itemprop="height" content="665">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3b/2a/ca/3b2aca97d9519b369243e0af610c786d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Peel and Stick Removable Wallpaper | 1000+ Designs">
+                                <img itemprop="contentUrl url" src='https://static.basicinvite.com/media/bi/35111/swirling-botanicals-wallpaper-l-purple.jpg?q=1699648006' alt='Purple Peel and Stick Removable Wallpaper | 1000+ Designs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love vs. Design" />
+                                </span>
+                                <a href='https://static.basicinvite.com/media/bi/35111/swirling-botanicals-wallpaper-l-purple.jpg?q=1699648006' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grey Purple Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/gradient-dynamic-lines-background_23-2149001022.jpg' alt='Grey Purple Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/gradient-dynamic-lines-background_23-2149001022.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

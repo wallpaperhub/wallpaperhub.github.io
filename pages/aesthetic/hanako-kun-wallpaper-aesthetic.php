@@ -1,0 +1,129 @@
+<title>Stunning Hanako-kun Aesthetic Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover a collection of aesthetic Hanako-kun wallpapers to elevate your device's look. Perfect for fans, these eye-catching designs combine charm and eerie beauty, bringing your favorite characters to life. Download now to personalize your screens with unique styles inspired by the hit series!">
+                    <meta name="keywords" content="hanako kun wallpaper aesthetic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/hanako-kun-wallpaper-aesthetic">
+                            <span itemprop="name">hanako kun wallpaper aesthetic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Hanako-kun Aesthetic Wallpapers for Your Device</h1>
+                <p>Transform your device with stunning Hanako-kun wallpaper aesthetics. Featuring vibrant colors and captivating designs, these wallpapers bring the spirit of the popular series to life. Perfect for fans seeking a blend of charm and spookiness, each wallpaper is designed to enhance your screen while showcasing your love for the supernatural.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jibaku shounen hanako kun wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/41/24/2b/41242b6c61f88afe54e4a9ccfbe4b57a.jpg' alt='Jibaku shounen hanako kun wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/41/24/2b/41242b6c61f88afe54e4a9ccfbe4b57a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HanakoKun Wallpaper+Background! (SPOILERS) : r/hanakokun">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/5dbguwqxnbx51.jpg' alt='HanakoKun Wallpaper+Background! (SPOILERS) : r/hanakokun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1239">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/5dbguwqxnbx51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hanako-kun Purple Anime Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/hanako-kun-purple-anime-aesthetic-u0ezq4957efepszb.jpg' alt='Hanako-kun Purple Anime Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="952">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/hanako-kun-purple-anime-aesthetic-u0ezq4957efepszb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hanako kun Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/e8/36/01/e836013a0c8b60674af40a60fc696da9.jpg' alt='Hanako kun Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/e8/36/01/e836013a0c8b60674af40a60fc696da9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hanako-kun, fofo, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/759/519/HD-wallpaper-hanako-kun-fofo.jpg' alt='Hanako-kun, fofo, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1424">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/759/519/HD-wallpaper-hanako-kun-fofo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Fishes Of Hanako-Kun Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/fishes-of-hanako-kun-6ewvdgv9aqpaqscp.jpg' alt='Download Fishes Of Hanako-Kun Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="755">
+                                <meta itemprop="height" content="1637">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/fishes-of-hanako-kun-6ewvdgv9aqpaqscp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hanako kun, boy, cute, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/279/154/HD-wallpaper-hanako-kun-boy-cute.jpg' alt='Hanako kun, boy, cute, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1424">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/279/154/HD-wallpaper-hanako-kun-boy-cute.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="  hanako wallpaper   #jibakushounenhanakokun #hanakokun #amaneyugi ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2320273786786842237' alt='  hanako wallpaper   #jibakushounenhanakokun #hanakokun #amaneyugi ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2320273786786842237' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cute Art Hanako-Kun Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-art-hanako-kun-wwk9a13wfvoh8y4z.jpg' alt='Download Cute Art Hanako-Kun Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-art-hanako-kun-wwk9a13wfvoh8y4z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hisoka on X: "Hanako-kun wallpaper! Credits too the owner ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/EvUdUFrUYAUL9Zo.jpg' alt='Hisoka on X: "Hanako-kun wallpaper! Credits too the owner ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="562">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/EvUdUFrUYAUL9Zo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Treaty Oak Revival Lead Singer: A Rising Star in Americana Music</title>
+                    <meta name="description" content="Discover the talent behind Treaty Oak Revival's success! The lead singer captivates with a unique blend of country and rock, delivering unforgettable performances and heartfelt lyrics. Join the journey of a rising star in the Americana music scene. Don't miss out!">
+                    <meta name="keywords" content="treaty oak revival lead singer">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/treaty-oak-revival-lead-singer">
+                            <span itemprop="name">treaty oak revival lead singer</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Treaty Oak Revival Lead Singer: A Rising Star in Americana Music</h1>
+                <p>Treaty Oak Revival is making waves in the music scene, led by their dynamic frontman, whose passion for blending country, rock, and Americana genres sets them apart. With heartfelt lyrics and powerful melodies, the lead singer captivates audiences, channeling stories of life and love. Their compelling performances are a must-see for music lovers!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Band from West Texas performing at Grand Ole Opry Feb. 6">
+                                <img itemprop="contentUrl url" src='https://s.hdnux.com/photos/01/35/70/75/24612678/5/rawImage.jpg' alt='Band from West Texas performing at Grand Ole Opry Feb. 6'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1601">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Midland Reporter-Telegram" />
+                                </span>
+                                <a href='https://s.hdnux.com/photos/01/35/70/75/24612678/5/rawImage.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Treaty Oak Revival - WE Fest Country Music Festival">
+                                <img itemprop="contentUrl url" src='https://wefest.com/wp-content/uploads/2024/10/WE-Fest-2025-Artist-Treaty-Oak-Revival-100924.jpg' alt='Treaty Oak Revival - WE Fest Country Music Festival'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WE Fest" />
+                                </span>
+                                <a href='https://wefest.com/wp-content/uploads/2024/10/WE-Fest-2025-Artist-Treaty-Oak-Revival-100924.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Treaty Oak Revival | My Opry Debut - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/ar0A7E4CXPM/sddefault.jpg' alt='Treaty Oak Revival | My Opry Debut - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/ar0A7E4CXPM/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Treaty Oak Revival on Conquering Texas and Debating Their Future">
+                                <img itemprop="contentUrl url" src='https://www.billboard.com/wp-content/uploads/2024/05/treaty-oak-revival-press-credit-Paige-Williams-2024-billboard-1548.jpg' alt='Treaty Oak Revival on Conquering Texas and Debating Their Future'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1548">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Billboard" />
+                                </span>
+                                <a href='https://www.billboard.com/wp-content/uploads/2024/05/treaty-oak-revival-press-credit-Paige-Williams-2024-billboard-1548.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Birthday to Sam Canty, the incredible lead singer of Treaty ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3422435140230782953' alt='Happy Birthday to Sam Canty, the incredible lead singer of Treaty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1290">
+                                <meta itemprop="height" content="859">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3422435140230782953' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Treaty Oak Revival: Behind the Band - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Q9oWWEGpcvo/mqdefault.jpg' alt='Treaty Oak Revival: Behind the Band - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Q9oWWEGpcvo/mqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Treaty Oak Revival">
+                                <img itemprop="contentUrl url" src='https://assets-cdn-prod.muso.ai/images/avatar/92550f8b-40fe-4f19-88b4-53db6bc28858_d6389abb-f8ca-453e-afa4-b1a220592a12.jpeg' alt='Treaty Oak Revival'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Muso" />
+                                </span>
+                                <a href='https://assets-cdn-prod.muso.ai/images/avatar/92550f8b-40fe-4f19-88b4-53db6bc28858_d6389abb-f8ca-453e-afa4-b1a220592a12.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Band from West Texas performing at Grand Ole Opry Feb. 6">
+                                <img itemprop="contentUrl url" src='https://s.hdnux.com/photos/01/35/70/75/24612680/5/1920x0.jpg' alt='Band from West Texas performing at Grand Ole Opry Feb. 6'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Midland Reporter-Telegram" />
+                                </span>
+                                <a href='https://s.hdnux.com/photos/01/35/70/75/24612680/5/1920x0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shows have been WILD lately, and this weekend should be no different   ,  FRIDAY 6/23 we’re throwin a pasture party in Concan, TX @housepasture with  @sladecoulter joining us‼️ , SATURDAY 6/24 we’re ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3130893227237412368' alt='Shows have been WILD lately, and this weekend should be no different   ,  FRIDAY 6/23 we’re throwin a pasture party in Concan, TX @housepasture with  @sladecoulter joining us‼️ , SATURDAY 6/24 we’re ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3130893227237412368' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Event Detail - Lively Times">
+                                <img itemprop="contentUrl url" src='https://s3-us-west-2.amazonaws.com/lt-events-media/img-17220-800x533-crop.jpg' alt='Event Detail - Lively Times'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Event Detail - Lively Times" />
+                                </span>
+                                <a href='https://s3-us-west-2.amazonaws.com/lt-events-media/img-17220-800x533-crop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

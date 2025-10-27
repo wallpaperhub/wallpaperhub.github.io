@@ -1,0 +1,129 @@
+<title>Stylish Black Girly Aesthetic Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover chic black girly aesthetic wallpapers to personalize your device. Explore trendy designs that blend elegance and style, creating a unique digital space just for you. Perfect for fashion lovers looking to elevate their screens with a feminine touch!">
+                    <meta name="keywords" content="black girly aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/black-girly-aesthetic-wallpaper">
+                            <span itemprop="name">black girly aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Black Girly Aesthetic Wallpapers for Your Device</h1>
+                <p>Transform your screen with stunning black girly aesthetic wallpapers. Featuring bold patterns, chic designs, and a touch of femininity, these wallpapers are perfect for adding personality and style to your devices. Explore a variety of designs that resonate with your style and make your device stand out with elegance and flair!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black aesthetic, girl, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/989/935/HD-wallpaper-black-aesthetic-girl.jpg' alt='Black aesthetic, girl, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/989/935/HD-wallpaper-black-aesthetic-girl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Black Pictures Dark Girly Background Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/dark-girly-heart-with-sparkles-1e34gicwtwg5fglw.webp' alt='Aesthetic Black Pictures Dark Girly Background Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="599">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/dark-girly-heart-with-sparkles-1e34gicwtwg5fglw.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Black aesthetic wallpaper ideas | black aesthetic wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/7c/2d/d8/7c2dd85584e65c31913ca7d7f98da1c4.jpg' alt='8 Black aesthetic wallpaper ideas | black aesthetic wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/7c/2d/d8/7c2dd85584e65c31913ca7d7f98da1c4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50+ Black Aesthetic Wallpaper For Your Phone!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3c/8e/17/3c8e1795467ec6af1f2bf28676f096d6.jpg' alt='50+ Black Aesthetic Wallpaper For Your Phone!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3c/8e/17/3c8e1795467ec6af1f2bf28676f096d6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Girly Woman With Stars Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/dark-girly-woman-with-stars-rix6i1tf1eipknt6.jpg' alt='Dark Girly Woman With Stars Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/dark-girly-woman-with-stars-rix6i1tf1eipknt6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Aesthetic Wallpaper – Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/JwlgpkD0bg9-A9qmbsO1-Lxic5JzSU0NegNoDMDSHo7mOhOb97LlMe89mF7V69YbVOo=w526-h296-rw' alt='Black Aesthetic Wallpaper – Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="133">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/JwlgpkD0bg9-A9qmbsO1-Lxic5JzSU0NegNoDMDSHo7mOhOb97LlMe89mF7V69YbVOo=w526-h296-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="160 Black aesthetic wallpaper ideas | black aesthetic wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/ca/5e/dc/ca5edc6aab5fb858c58f668bb7230e51.jpg' alt='160 Black aesthetic wallpaper ideas | black aesthetic wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/ca/5e/dc/ca5edc6aab5fb858c58f668bb7230e51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download free Aesthetic Black Pictures Dark Girly Background ...">
+                                <img itemprop="contentUrl url" src='https://mrwallpaper.com/images/thumbnail/woman-butterfly-dress-dark-girly-ldrcseelh45zv4vj.webp' alt='Download free Aesthetic Black Pictures Dark Girly Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrWallpaper" />
+                                </span>
+                                <a href='https://mrwallpaper.com/images/thumbnail/woman-butterfly-dress-dark-girly-ldrcseelh45zv4vj.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable wallpaper black templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFbM-bXCuo/3/0/900w/canva-black-and-pink-blurry-heart-phone-wallpaper-hEM-HWcPqlg.jpg' alt='Free and customizable wallpaper black templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFbM-bXCuo/3/0/900w/canva-black-and-pink-blurry-heart-phone-wallpaper-hEM-HWcPqlg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Cute Girly Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/black-cute-girly-sun-and-moon-xyoadqxpw3lqm9c6.jpg' alt='Black Cute Girly Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/black-cute-girly-sun-and-moon-xyoadqxpw3lqm9c6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

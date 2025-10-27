@@ -1,0 +1,129 @@
+<title>Essential Insight into Indigo Background Checks</title>
+                    <meta name="description" content="Explore the essential aspects of indigo background checks to make informed hiring decisions. Learn about their importance, the screening process, and how they verify the reliability of candidates while ensuring compliance with legal standards. Perfect for employers and organizations seeking trustworthy individuals.">
+                    <meta name="keywords" content="indigo background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/indigo-background-check">
+                            <span itemprop="name">indigo background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Insight into Indigo Background Checks</h1>
+                <p>An indigo background check is a comprehensive screening process that verifies an individual's history, including criminal records, employment history, and education qualifications. Often utilized by employers, landlords, and organizations, these checks ensure informed decisions by assessing trustworthiness and reliability of candidates.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fashionable background check, self tartan fabric pattern ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/047/757/236/non_2x/fashionable-background-check-self-tartan-fabric-pattern-advertising-seamless-textile-plaid-texture-in-indigo-and-purple-colors-vector.jpg' alt='Fashionable background check, self tartan fabric pattern ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/047/757/236/non_2x/fashionable-background-check-self-tartan-fabric-pattern-advertising-seamless-textile-plaid-texture-in-indigo-and-purple-colors-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Many texture fabric tartan, luxury pattern plaid. Glamour seamless ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/055/571/748/small/many-texture-fabric-tartan-luxury-pattern-plaid-glamour-seamless-background-check-textile-in-indigo-and-cyan-colors-vector.jpg' alt='Many texture fabric tartan, luxury pattern plaid. Glamour seamless ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/055/571/748/small/many-texture-fabric-tartan-luxury-pattern-plaid-glamour-seamless-background-check-textile-in-indigo-and-cyan-colors-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Editable fabric background textile, kilt seamless check tartan ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/043/272/828/non_2x/editable-fabric-background-textile-kilt-seamless-check-tartan-colorful-texture-pattern-plaid-in-indigo-and-violet-colors-vector.jpg' alt='Editable fabric background textile, kilt seamless check tartan ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/043/272/828/non_2x/editable-fabric-background-textile-kilt-seamless-check-tartan-colorful-texture-pattern-plaid-in-indigo-and-violet-colors-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Verification Check | After Interview Process | HelloVerify |  Digilocker | Indigo Airlines">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/8C_Q2s53r7c/maxresdefault.jpg' alt='Background Verification Check | After Interview Process | HelloVerify |  Digilocker | Indigo Airlines'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/8C_Q2s53r7c/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Advertising texture textile background, cute plaid check fabric ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/055/421/627/non_2x/advertising-texture-textile-background-cute-plaid-check-fabric-birthday-seamless-pattern-tartan-in-indigo-and-blue-colors-vector.jpg' alt='Advertising texture textile background, cute plaid check fabric ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/055/421/627/non_2x/advertising-texture-textile-background-cute-plaid-check-fabric-birthday-seamless-pattern-tartan-in-indigo-and-blue-colors-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Diagonal tartan background check indoor pattern ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/diagonal-tartan-background-check-indoor-pattern-plaid-seamless-household-textile-texture-vector-fabric-blue-indigo-colors_87543-60033.jpg' alt='Premium Vector | Diagonal tartan background check indoor pattern ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/diagonal-tartan-background-check-indoor-pattern-plaid-seamless-household-textile-texture-vector-fabric-blue-indigo-colors_87543-60033.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spanish fabric background check, ornament pattern plaid. Rich ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/055/705/586/small/spanish-fabric-background-check-ornament-pattern-plaid-rich-seamless-texture-textile-tartan-in-pastel-and-indigo-colors-vector.jpg' alt='Spanish fabric background check, ornament pattern plaid. Rich ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/055/705/586/small/spanish-fabric-background-check-ornament-pattern-plaid-rich-seamless-texture-textile-tartan-in-pastel-and-indigo-colors-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Textile tartan texture of background check plaid ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/textile-tartan-texture-background-check-plaid-with-pattern-fabric-vector-seamless-light-indigo-colors_87543-25444.jpg' alt='Premium Vector | Textile tartan texture of background check plaid ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/textile-tartan-texture-background-check-plaid-with-pattern-fabric-vector-seamless-light-indigo-colors_87543-25444.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1950s pattern texture plaid, mother background check fabric ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/048/842/971/non_2x/1950s-pattern-texture-plaid-mother-background-check-fabric-nostalgic-seamless-textile-tartan-in-bright-and-indigo-colors-vector.jpg' alt='1950s pattern texture plaid, mother background check fabric ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/048/842/971/non_2x/1950s-pattern-texture-plaid-mother-background-check-fabric-nostalgic-seamless-textile-tartan-in-bright-and-indigo-colors-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Woman tartan pattern seamless repeatable patterns ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/woman-tartan-pattern-seamless-repeatable-patterns-textile-background-check-setting-vector-plaid-fabric-texture-pastel-indigo-colors_87543-57342.jpg' alt='Premium Vector | Woman tartan pattern seamless repeatable patterns ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/woman-tartan-pattern-seamless-repeatable-patterns-textile-background-check-setting-vector-plaid-fabric-texture-pastel-indigo-colors_87543-57342.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

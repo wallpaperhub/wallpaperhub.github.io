@@ -1,0 +1,129 @@
+<title>Cyber Y2K iPhone Wallpapers: Neon Nostalgia</title>
+                    <meta name="description" content="Elevate your iPhone's look with our collection of cyber Y2K wallpapers. Featuring neon colors and retro designs, these eye-catching backgrounds blend nostalgic vibes with modern style, perfect for any digital enthusiast. Download now to bring a touch of the 2000s to your device!">
+                    <meta name="keywords" content="cyber y2k wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/y2k">
+                            <span itemprop="name">Y2K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/y2k/cyber-y2k-wallpaper-iphone">
+                            <span itemprop="name">cyber y2k wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cyber Y2K iPhone Wallpapers: Neon Nostalgia</h1>
+                <p>Discover the vibrant aesthetic of cyber Y2K with our latest iPhone wallpapers. Embrace the nostalgic digital vibes of the 2000s, featuring neon colors, retro graphics, and futuristic designs. Perfectly optimized for your device, these wallpapers bring a stylish touch to your home screen, reviving the spirit of early internet culture!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6d/4b/9a/6d4b9af9bb6b66e09a30e378a8d05426.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6d/4b/9a/6d4b9af9bb6b66e09a30e378a8d05426.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Y2K black and white iPhone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/50/38/81/503881fe555a13a509f30e392ea24c65.jpg' alt='Y2K black and white iPhone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="624">
+                                <meta itemprop="height" content="1181">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/50/38/81/503881fe555a13a509f30e392ea24c65.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cyber Y2k Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/fractal-starfield-abstract-art-jpg-sy4dkptw0f2c9347.jpg' alt='100+] Cyber Y2k Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="632">
+                                <meta itemprop="height" content="1264">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/fractal-starfield-abstract-art-jpg-sy4dkptw0f2c9347.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="#cybery2k #viral #_daydreaming #twd #fyp #ios16 #wallpaper #y2kwallpapers  #chooseyourlife #aesthetic #snoopdogg">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7274011152361721130&location=0&aid=1988' alt='#cybery2k #viral #_daydreaming #twd #fyp #ios16 #wallpaper #y2kwallpapers  #chooseyourlife #aesthetic #snoopdogg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7274011152361721130&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cyber y2k wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/76/1a/f1/761af126541a80f9e80dad464f191f89.jpg' alt='Cyber y2k wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/76/1a/f1/761af126541a80f9e80dad464f191f89.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Blue Cybercore Cyber Y2k Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/blue-cybercore-collage-y2-k-aesthetic-jpg-127751nettxwm260.jpg' alt='100+] Blue Cybercore Cyber Y2k Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/blue-cybercore-collage-y2-k-aesthetic-jpg-127751nettxwm260.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="☆ star wallpaper ᵕ̈ @eestrellititas">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/e1/9b/e0/e19be055f819a346bea2ac8e7085184a.jpg' alt='☆ star wallpaper ᵕ̈ @eestrellititas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/e1/9b/e0/e19be055f819a346bea2ac8e7085184a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pink cyber y2k wallpaper   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6e/b3/37/6eb337d33a460d735c25172092f48dad.jpg' alt='pink cyber y2k wallpaper   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6e/b3/37/6eb337d33a460d735c25172092f48dad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Y2K Wallpaper Collection for iPhone and Android">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7322052369460530437&location=0&aid=1988' alt='Y2K Wallpaper Collection for iPhone and Android'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7322052369460530437&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Blue Cybercore Cyber Y2k Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/blue-cybercore-cyber-y2k-aesthetic-7aatd1r68qd05n41.jpg' alt='100+] Blue Cybercore Cyber Y2k Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/blue-cybercore-cyber-y2k-aesthetic-7aatd1r68qd05n41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

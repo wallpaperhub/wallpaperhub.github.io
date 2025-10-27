@@ -1,0 +1,129 @@
+<title>CJIS Background Check Disqualifiers: What You Need to Know</title>
+                    <meta name="description" content="Explore key disqualifiers for CJIS background checks. Learn how felony convictions, misdemeanors, and pending investigations can affect your eligibility for law enforcement jobs. Stay informed to prepare better for your career in public safety.">
+                    <meta name="keywords" content="cjis background check disqualifiers">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cjis-background-check-disqualifiers">
+                            <span itemprop="name">cjis background check disqualifiers</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>CJIS Background Check Disqualifiers: What You Need to Know</h1>
+                <p>Understanding CJIS background check disqualifiers is crucial for applicants in law enforcement and related fields. Key disqualifiers may include felony convictions, certain misdemeanor offenses, or ongoing criminal investigations. It's essential to be aware of these factors as they can significantly impact eligibility for employment and licensing.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Does It Mean to Be CJIS Compliant?">
+                                <img itemprop="contentUrl url" src='https://www.compassitc.com/hs-fs/hubfs/Chart%20Blog%20(1).webp?width=600&height=378&name=Chart%20Blog%20(1).webp' alt='What Does It Mean to Be CJIS Compliant?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="378">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Compass IT Compliance" />
+                                </span>
+                                <a href='https://www.compassitc.com/hs-fs/hubfs/Chart%20Blog%20(1).webp?width=600&height=378&name=Chart%20Blog%20(1).webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CJIS Security Policy Compliance: Requirements, Controls List, and ...">
+                                <img itemprop="contentUrl url" src='https://images.prismic.io/secureframe-com/ZyE85a8jQArTz_9q_CJISSecurityPolicy_v2.png?auto=format,compress' alt='CJIS Security Policy Compliance: Requirements, Controls List, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="6142">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Secureframe" />
+                                </span>
+                                <a href='https://images.prismic.io/secureframe-com/ZyE85a8jQArTz_9q_CJISSecurityPolicy_v2.png?auto=format,compress' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Does It Mean to Be CJIS Compliant?">
+                                <img itemprop="contentUrl url" src='https://www.compassitc.com/hs-fs/hubfs/04-cjis-certification%20(1).webp?width=600&height=1000&name=04-cjis-certification%20(1).webp' alt='What Does It Mean to Be CJIS Compliant?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Compass IT Compliance" />
+                                </span>
+                                <a href='https://www.compassitc.com/hs-fs/hubfs/04-cjis-certification%20(1).webp?width=600&height=1000&name=04-cjis-certification%20(1).webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clearance Procedures for Unescorted Access to a CJIS Secure ...">
+                                <img itemprop="contentUrl url" src='x-raw-image:///d78d1adbe6cab1f49be07976ec036261ba0a08d416a4e094c7c7f46994f19562' alt='Clearance Procedures for Unescorted Access to a CJIS Secure ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="585">
+                                <meta itemprop="height" content="761">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oregon.gov" />
+                                </span>
+                                <a href='x-raw-image:///d78d1adbe6cab1f49be07976ec036261ba0a08d416a4e094c7c7f46994f19562' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CJIS Security Policy Requirements Document — FBI">
+                                <img itemprop="contentUrl url" src='https://www.fbi.gov/file-repository/cjis-security-policy-v5_6_20170605-1.pdf/@@images/image' alt='CJIS Security Policy Requirements Document — FBI'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FBI" />
+                                </span>
+                                <a href='https://www.fbi.gov/file-repository/cjis-security-policy-v5_6_20170605-1.pdf/@@images/image' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FBI Background Check: Identity History Summary | GlobalPassport™">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/64dfb2fda17888b40feb3c26/665e0e240c719ca80e5df39f_FBI%20Background%20Check%20Sample.webp' alt='FBI Background Check: Identity History Summary | GlobalPassport™'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="932">
+                                <meta itemprop="height" content="926">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GlobalPassport™" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/64dfb2fda17888b40feb3c26/665e0e240c719ca80e5df39f_FBI%20Background%20Check%20Sample.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Appendicies — LE">
+                                <img itemprop="contentUrl url" src='https://le.fbi.gov/cjis-division/cjis-security-policy-resource-center/appendicies/@@images/image' alt='Appendicies — LE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="481">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FBI.gov" />
+                                </span>
+                                <a href='https://le.fbi.gov/cjis-division/cjis-security-policy-resource-center/appendicies/@@images/image' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maryland State Background Check">
+                                <img itemprop="contentUrl url" src='https://www.backgroundchecks.com/hubfs/backgroundchecks.com%20Statewide%20Criminal%20Sample.jpg' alt='Maryland State Background Check'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2356">
+                                <meta itemprop="height" content="5844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BackgroundChecks.com" />
+                                </span>
+                                <a href='https://www.backgroundchecks.com/hubfs/backgroundchecks.com%20Statewide%20Criminal%20Sample.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PPT - Data Center Consolidation PowerPoint Presentation, free ...">
+                                <img itemprop="contentUrl url" src='https://image2.slideserve.com/3743077/cjis-background-check-requirement-l.jpg' alt='PPT - Data Center Consolidation PowerPoint Presentation, free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideServe" />
+                                </span>
+                                <a href='https://image2.slideserve.com/3743077/cjis-background-check-requirement-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Your Guide to Running Background Checks for Medical Assistants">
+                                <img itemprop="contentUrl url" src='https://blog.cisive.com/hs-fs/hubfs/Blog/Blog%20Callouts/Medical%20Assistant%202.png?width=650&height=297&name=Medical%20Assistant%202.png' alt='Your Guide to Running Background Checks for Medical Assistants'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="297">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cisive Blog" />
+                                </span>
+                                <a href='https://blog.cisive.com/hs-fs/hubfs/Blog/Blog%20Callouts/Medical%20Assistant%202.png?width=650&height=297&name=Medical%20Assistant%202.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

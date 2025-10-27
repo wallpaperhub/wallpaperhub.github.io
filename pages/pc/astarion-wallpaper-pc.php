@@ -1,0 +1,129 @@
+<title>Astarion PC Wallpaper: Stunning Art for Your Desktop</title>
+                    <meta name="description" content="Discover captivating Astarion wallpapers for your PC! Elevate your desktop with beautiful visuals from Baldur's Gate III. Perfect for fans, these wallpapers offer a touch of fantasy and adventure. Download now to bring Astarion's charm and elegance to your screen!">
+                    <meta name="keywords" content="astarion wallpaper pc">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pc">
+                            <span itemprop="name">PC</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pc/astarion-wallpaper-pc">
+                            <span itemprop="name">astarion wallpaper pc</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Astarion PC Wallpaper: Stunning Art for Your Desktop</h1>
+                <p>Astarion wallpaper for PC brings the enchanting world of Baldur's Gate III right to your screen. With stunning visuals showcasing Astarion's elegant design and captivating allure, these wallpapers create an immersive gaming atmosphere. Perfect for fans of fantasy and RPGs, transform your desktop with mesmerizing art that inspires adventure.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astarion wallpapers made by me    : r/OnlyFangsbg3">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/astarion-wallpapers-made-by-me-v0-fml2zx7j8d8d1.jpg?width=3840&format=pjpg&auto=webp&s=7c095862b4a25467f83da06124519266308b6447' alt='Astarion wallpapers made by me    : r/OnlyFangsbg3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/astarion-wallpapers-made-by-me-v0-fml2zx7j8d8d1.jpg?width=3840&format=pjpg&auto=webp&s=7c095862b4a25467f83da06124519266308b6447' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astarion wallpapers made by me    : r/OnlyFangsbg3">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/astarion-wallpapers-made-by-me-v0-jbbtpozi8d8d1.jpg?width=3840&format=pjpg&auto=webp&s=32301d2f934dac917ce9e2fa13a381ff17036743' alt='Astarion wallpapers made by me    : r/OnlyFangsbg3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/astarion-wallpapers-made-by-me-v0-jbbtpozi8d8d1.jpg?width=3840&format=pjpg&auto=webp&s=32301d2f934dac917ce9e2fa13a381ff17036743' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baldur's Gate 3 Astarion HD Wallpaper – Download Free Desktop ...">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/135/1356420.jpeg' alt='Baldur's Gate 3 Astarion HD Wallpaper – Download Free Desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/135/1356420.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astarion wallpapers made by me    : r/OnlyFangsbg3">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/astarion-wallpapers-made-by-me-v0-qbt8wjqi8d8d1.jpg?width=1080&crop=smart&auto=webp&s=3028f7d78d1a3fee6aab78b9513b6106aee8315a' alt='Astarion wallpapers made by me    : r/OnlyFangsbg3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/astarion-wallpapers-made-by-me-v0-qbt8wjqi8d8d1.jpg?width=1080&crop=smart&auto=webp&s=3028f7d78d1a3fee6aab78b9513b6106aee8315a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baldur's Gate 3 Astarion HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/135/1356418.jpeg' alt='Baldur's Gate 3 Astarion HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/135/1356418.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astarion wallpapers made by me    : r/OnlyFangsbg3">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/astarion-wallpapers-made-by-me-v0-pisn51dj8d8d1.jpg?width=3840&format=pjpg&auto=webp&s=c15340f95aa284306435e741c3738d784651e4a4' alt='Astarion wallpapers made by me    : r/OnlyFangsbg3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/astarion-wallpapers-made-by-me-v0-pisn51dj8d8d1.jpg?width=3840&format=pjpg&auto=webp&s=c15340f95aa284306435e741c3738d784651e4a4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astarion Wallpaper - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0d/50/8c/0d508c11d04d82b362a74051c04e14b0.jpg' alt='Astarion Wallpaper - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0d/50/8c/0d508c11d04d82b362a74051c04e14b0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="X">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/83/09/97/8309975316b9bcd6dc6790c32ed5bec3.jpg' alt='X'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="412">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/83/09/97/8309975316b9bcd6dc6790c32ed5bec3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baldur's Gate 3 Astarion HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/135/1356417.jpeg' alt='Baldur's Gate 3 Astarion HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/135/1356417.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wide screen Astarion hd wallpaper for PC : r/OnlyFangsbg3">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/wide-screen-astarion-hd-wallpaper-for-pc-v0-5a19ahxicajc1.jpeg?width=2549&format=pjpg&auto=webp&s=3b9a33ab325360de33d97207d3e233814ace2127' alt='Wide screen Astarion hd wallpaper for PC : r/OnlyFangsbg3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2549">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/wide-screen-astarion-hd-wallpaper-for-pc-v0-5a19ahxicajc1.jpeg?width=2549&format=pjpg&auto=webp&s=3b9a33ab325360de33d97207d3e233814ace2127' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

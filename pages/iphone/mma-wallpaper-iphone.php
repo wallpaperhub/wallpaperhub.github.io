@@ -1,0 +1,129 @@
+<title>MMA Wallpaper for iPhone: Customize Your Device!</title>
+                    <meta name="description" content="Discover the ultimate MMA wallpapers for your iPhone! Choose from high-quality images of fighters, iconic bouts, and thrilling moments. Elevate your device’s look and express your love for mixed martial arts effortlessly. Perfect for every fan looking to stand out!">
+                    <meta name="keywords" content="mma wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/mma-wallpaper-iphone">
+                            <span itemprop="name">mma wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>MMA Wallpaper for iPhone: Customize Your Device!</h1>
+                <p>Your iPhone deserves an upgrade with stunning MMA wallpaper! Explore a variety of high-resolution images featuring your favorite fighters, iconic moments, and exhilarating action shots. From UFC champions to legendary throwbacks, personalize your device and showcase your passion for mixed martial arts every time you unlock your screen!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MMA iPhone Wallpaper HD">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ce/c6/2a/cec62a5790f1561ab9564f79ce55238f.jpg' alt='MMA iPhone Wallpaper HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ce/c6/2a/cec62a5790f1561ab9564f79ce55238f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mma Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/boxing-sport-visual-photo-album-full-stressful-powerful-moments_563241-52074.jpg' alt='Mma Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="351">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/boxing-sport-visual-photo-album-full-stressful-powerful-moments_563241-52074.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mma wallpaper outlet">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/554/974/HD-wallpaper-conor-mcgregor-bellator-box-mma-the-notorious-ufc.jpg' alt='Mma wallpaper outlet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1645">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Road To Glenlough" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/554/974/HD-wallpaper-conor-mcgregor-bellator-box-mma-the-notorious-ufc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="UFC, mma, fight, cage, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/755/306/HD-wallpaper-ufc-mma-fight-cage.jpg' alt='UFC, mma, fight, cage, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/755/306/HD-wallpaper-ufc-mma-fight-cage.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Best UFC Wallpapers HD For iPhones">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0d/6d/98/0d6d98471802581adef90f90bbcc81cf.jpg' alt='10 Best UFC Wallpapers HD For iPhones'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0d/6d/98/0d6d98471802581adef90f90bbcc81cf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BLACK FRIDAY SALE  ️, BUY 1 GET 1 50% OFF, Ends on 24/11/2023  ️,  @mmaaddictonly , #ufc #ufcnews #heavyweight #rivalry #mma #ufcfighter  #mmafighter #wrestling #boxing #motivation #fyp #trending ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3241726271453011681' alt='BLACK FRIDAY SALE  ️, BUY 1 GET 1 50% OFF, Ends on 24/11/2023  ️,  @mmaaddictonly , #ufc #ufcnews #heavyweight #rivalry #mma #ufcfighter  #mmafighter #wrestling #boxing #motivation #fyp #trending ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3241726271453011681' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download wallpaper 938x1668 mixed martial arts, mma, wrestling, bw ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpaperscraft.com/image/single/mixed_martial_arts_mma_wrestling_124946_938x1668.jpg' alt='Download wallpaper 938x1668 mixed martial arts, mma, wrestling, bw ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="938">
+                                <meta itemprop="height" content="1668">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersCraft" />
+                                </span>
+                                <a href='https://images.wallpaperscraft.com/image/single/mixed_martial_arts_mma_wrestling_124946_938x1668.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="27 Mma wallpaper ideas in 2025 | mma, ufc fighters, boxing posters">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/65/21/5f/65215f53d08795732a90b60d0fcd0232.jpg' alt='27 Mma wallpaper ideas in 2025 | mma, ufc fighters, boxing posters'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="372">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/65/21/5f/65215f53d08795732a90b60d0fcd0232.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Notorious, mma, fighter, ufc, fighting, conor mcgregor, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/332/29/HD-wallpaper-the-notorious-mma-fighter-ufc-fighting-conor-mcgregor.jpg' alt='The Notorious, mma, fighter, ufc, fighting, conor mcgregor, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/332/29/HD-wallpaper-the-notorious-mma-fighter-ufc-fighting-conor-mcgregor.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Image/GIF] MMA Mobile Wallpapers - Gian Galang Artwork : r/MMA">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/z0qqwk-s8v-g3hGGkBRW5bbmhs8-WQI8___tp5_xzT8.jpg?auto=webp&s=034040bef67d53db775573ebf7be4ae7802087d9' alt='Image/GIF] MMA Mobile Wallpapers - Gian Galang Artwork : r/MMA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/z0qqwk-s8v-g3hGGkBRW5bbmhs8-WQI8___tp5_xzT8.jpg?auto=webp&s=034040bef67d53db775573ebf7be4ae7802087d9' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

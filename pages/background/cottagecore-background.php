@@ -1,0 +1,129 @@
+<title>Cottagecore: Embrace the Whimsical Rural Aesthetic</title>
+                    <meta name="description" content="Discover the charm of cottagecore, a nostalgic aesthetic celebrating rural living, nature, and artisanal crafts. From picturesque cottages to cozy interiors, explore ways to incorporate this enchanting vibe into your life for a simpler, more mindful existence.">
+                    <meta name="keywords" content="cottagecore background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cottagecore-background">
+                            <span itemprop="name">cottagecore background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cottagecore: Embrace the Whimsical Rural Aesthetic</h1>
+                <p>Cottagecore is a whimsical aesthetic that embodies a romanticized rural lifestyle, focusing on simplicity, nature, and handmade crafts. It celebrates pastoral scenes, vintage fashion, and cozy interiors, often featuring elements like wildflowers, rustic cottages, and traditional home-making. This enchanting vibe evokes nostalgia and encourages a slower, mindful way of living.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cottagecore [1920 x 1080] : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/2apm2s3stm661.png' alt='Cottagecore [1920 x 1080] : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/2apm2s3stm661.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="✾ ⋆ Cottagecore Aesthetic Moving Backgrounds ⋆ ✾">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/j3HOD-rRD8E/maxresdefault.jpg' alt='✾ ⋆ Cottagecore Aesthetic Moving Backgrounds ⋆ ✾'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/j3HOD-rRD8E/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/95/c8/35/95c8352d41a77b231f36a361b380b51f.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="1133">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/95/c8/35/95c8352d41a77b231f36a361b380b51f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cottagecore Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-drawn-soft-earth-tones-background_23-2151165614.jpg' alt='Cottagecore Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-drawn-soft-earth-tones-background_23-2151165614.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="999+ Cottagecore Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1667121496133-3975a3515c06?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y290dGFnZWNvcmV8ZW58MHx8MHx8fDA%3D' alt='999+ Cottagecore Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4495">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1667121496133-3975a3515c06?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y290dGFnZWNvcmV8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cottagecore Wallpaper | Floral Vintage Tiles, Cozy Cottage Wallpaper">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/files/cottagecore-wallpaper-853513.jpg?v=1730574433' alt='Cottagecore Wallpaper | Floral Vintage Tiles, Cozy Cottage Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/files/cottagecore-wallpaper-853513.jpg?v=1730574433' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cottagecore Aesthetic Landscape Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cottagecore-aesthetic-landscape-eok4e8l9iminy1oh.jpg' alt='Cottagecore Aesthetic Landscape Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1071">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cottagecore-aesthetic-landscape-eok4e8l9iminy1oh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="923 Cottagecore Aesthetic Wallpaper Royalty-Free Photos and Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/seamless-vector-pattern-abstract-wild-600nw-2363312875.jpg' alt='923 Cottagecore Aesthetic Wallpaper Royalty-Free Photos and Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/seamless-vector-pattern-abstract-wild-600nw-2363312875.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cottagecore Digital Art Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cottagecore-digital-art-xqam7p8qxv53q4zw.jpg' alt='Download Cottagecore Digital Art Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="904">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cottagecore-digital-art-xqam7p8qxv53q4zw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made a very cottage/farmcore-y desktop background with various ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/o9nlmvbxjqd41.jpg' alt='Made a very cottage/farmcore-y desktop background with various ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/o9nlmvbxjqd41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

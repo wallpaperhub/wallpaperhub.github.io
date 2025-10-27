@@ -1,0 +1,129 @@
+<title>Adorable Kawaii Anime Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore a delightful collection of kawaii anime wallpapers for your phone or tablet! Enjoy vibrant visuals and charming characters that add a playful touch to your screen. Perfect for anime lovers looking to brighten their devices with cuteness. Download your favorite today!">
+                    <meta name="keywords" content="anime wallpaper kawaii">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii">
+                            <span itemprop="name">Kawaii</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii/anime-wallpaper-kawaii">
+                            <span itemprop="name">anime wallpaper kawaii</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Kawaii Anime Wallpapers for Your Device</h1>
+                <p>Discover the cutest anime wallpapers featuring vibrant characters and adorable designs! Elevate your device's aesthetic with kawaii-style backgrounds that bring joy and personality to your screens. From pastel colors to charming illustrations, find the perfect anime wallpaper to express your love for all things cute and whimsical!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Kawaii Anime Girl Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/cute-kawaii-anime-girl-kxngu3d31ag3xm7m.jpg' alt='Cute Kawaii Anime Girl Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/cute-kawaii-anime-girl-kxngu3d31ag3xm7m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii anime 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7b0e01ca-065b-46fe-8d59-4b0a6049b208/dga4ykv-10015a11-a2e8-45bc-b734-73afa927a123.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdiMGUwMWNhLTA2NWItNDZmZS04ZDU5LTRiMGE2MDQ5YjIwOFwvZGdhNHlrdi0xMDAxNWExMS1hMmU4LTQ1YmMtYjczNC03M2FmYTkyN2ExMjMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sexkf2Ncv8yQI5UCzz7unWi7xwTL6Wp9d5LYC4JsiNU' alt='Kawaii anime 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2688">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7b0e01ca-065b-46fe-8d59-4b0a6049b208/dga4ykv-10015a11-a2e8-45bc-b734-73afa927a123.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdiMGUwMWNhLTA2NWItNDZmZS04ZDU5LTRiMGE2MDQ5YjIwOFwvZGdhNHlrdi0xMDAxNWExMS1hMmU4LTQ1YmMtYjczNC03M2FmYTkyN2ExMjMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sexkf2Ncv8yQI5UCzz7unWi7xwTL6Wp9d5LYC4JsiNU' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0c/08/8d/0c088d4878a1cab9996c3a95e16877a4.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1244">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0c/08/8d/0c088d4878a1cab9996c3a95e16877a4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Kawaii Anime Girl Iphone Screen Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/cute-kawaii-anime-girl-iphone-screen-fl4489lflx6wkuwc.jpg' alt='Cute Kawaii Anime Girl Iphone Screen Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/cute-kawaii-anime-girl-iphone-screen-fl4489lflx6wkuwc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/db/c1/9b/dbc19bc001b258c69208f3774cc68d2a.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/db/c1/9b/dbc19bc001b258c69208f3774cc68d2a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable kawaii wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFW95hFfKM/1/0/900w/canva-pink-cute-kawaii-anime-princess-phone-wallpaper-oPO0mmW3CLA.jpg' alt='Free and customizable kawaii wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFW95hFfKM/1/0/900w/canva-pink-cute-kawaii-anime-princess-phone-wallpaper-oPO0mmW3CLA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Kawaii Wallpaper GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/t0MlOUtGBPoAAAAe/barbie-dance.png' alt='Anime Kawaii Wallpaper GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/t0MlOUtGBPoAAAAe/barbie-dance.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a3/82/59/a38259e523c6a7bcd62a42b76753d069.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a3/82/59/a38259e523c6a7bcd62a42b76753d069.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Girl in Blue Digital Download Poster Printable Art Cute Anime Kawaii  PNG Wallpaper Screensaver Instant Download Digital Image">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/19180976/r/il/254283/5250467548/il_570xN.5250467548_m7z2.jpg' alt='Anime Girl in Blue Digital Download Poster Printable Art Cute Anime Kawaii  PNG Wallpaper Screensaver Instant Download Digital Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/19180976/r/il/254283/5250467548/il_570xN.5250467548_m7z2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Kawaii Wallpaper by patrika">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/132/thumb-350-1323582.webp' alt='Anime Kawaii Wallpaper by patrika'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="219">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/132/thumb-350-1323582.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

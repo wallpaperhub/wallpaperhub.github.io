@@ -1,0 +1,129 @@
+<title>Dark Secrets of Assassin's Creed Origins</title>
+                    <meta name="description" content="Explore the shadows of "Assassin's Creed Origins." Join Bayek on his journey through ancient Egypt, unveiling dark secrets and forging the Assassin Brotherhood. Experience the thrill of stealth and combat in a breathtaking open world.">
+                    <meta name="keywords" content="dark assassin's creed origins">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dark-assassins-creed-origins">
+                            <span itemprop="name">dark assassin's creed origins</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dark Secrets of Assassin's Creed Origins</h1>
+                <p>In "Assassin's Creed Origins," players step into the shoes of Bayek, an ancient Egyptian warrior who grapples with the darkness of vengeance. As a hidden one, he navigates a vast, beautifully recreated world filled with danger and intrigue, battling threats that loom in the shadows while uncovering the origins of the Assassin Brotherhood.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Assassin's Creed Origins - Legendary Anubis "Dark Side of The Moon" Outfit  and Weapons (Combat)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/D92MKJKmCdw/maxresdefault.jpg' alt='Assassin's Creed Origins - Legendary Anubis "Dark Side of The Moon" Outfit  and Weapons (Combat)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/D92MKJKmCdw/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Assassin's Creed Origins - Anubis Outfit Showcase - Dark Side of the Moon  (AC Origins Best Outfits)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/hBPfUSPXE6E/maxresdefault.jpg' alt='Assassin's Creed Origins - Anubis Outfit Showcase - Dark Side of the Moon  (AC Origins Best Outfits)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/hBPfUSPXE6E/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Review | Review: Assassin's Creed Origins takes cues from Dark ...">
+                                <img itemprop="contentUrl url" src='https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/images/methode/2017/11/17/e845e69c-cac2-11e7-9743-ef57fdb29dbc_1280x720_172344.jpg?itok=V0FF1JiN' alt='Review | Review: Assassin's Creed Origins takes cues from Dark ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1020">
+                                <meta itemprop="height" content="680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="South China Morning Post" />
+                                </span>
+                                <a href='https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/images/methode/2017/11/17/e845e69c-cac2-11e7-9743-ef57fdb29dbc_1280x720_172344.jpg?itok=V0FF1JiN' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Side of the Moon outfit and Scales of Truth bow : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/chf0hgnicw401.jpg' alt='Dark Side of the Moon outfit and Scales of Truth bow : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/chf0hgnicw401.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Assassin's Creed Origins - Black Hood Outfit">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/kWPmSZsPAKQ/maxresdefault.jpg' alt='Assassin's Creed Origins - Black Hood Outfit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/kWPmSZsPAKQ/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How does Assassin's Creed Origins on Pro improve over base PS4 ...">
+                                <img itemprop="contentUrl url" src='https://assetsio.gnwcdn.com/digitalfoundry-2017-assassins-creed-origins-performance-analysis-1509134997448.jpg?width=1200&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp' alt='How does Assassin's Creed Origins on Pro improve over base PS4 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eurogamer" />
+                                </span>
+                                <a href='https://assetsio.gnwcdn.com/digitalfoundry-2017-assassins-creed-origins-performance-analysis-1509134997448.jpg?width=1200&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Assassin's Creed Origins: How To Get The Anubis Outfit">
+                                <img itemprop="contentUrl url" src='https://static1.thegamerimages.com/wordpress/wp-content/uploads/2020/12/ac-origins-anubis-armor-sets.jpg' alt='Assassin's Creed Origins: How To Get The Anubis Outfit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheGamer" />
+                                </span>
+                                <a href='https://static1.thegamerimages.com/wordpress/wp-content/uploads/2020/12/ac-origins-anubis-armor-sets.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Assassin's Creed Origins - HOW TO GET THE DARK SIDE OF THE MOON OUTFIT  (ANUBIS OUTFIT)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/8078Jx0AHYM/maxresdefault.jpg' alt='Assassin's Creed Origins - HOW TO GET THE DARK SIDE OF THE MOON OUTFIT  (ANUBIS OUTFIT)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/8078Jx0AHYM/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Darker nights for Creed series (Origins, Odyssey, Valhalla) : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/darker-nights-for-creed-series-origins-odyssey-valhalla-v0-fjenbxnqqb0a1.jpg?width=1920&format=pjpg&auto=webp&s=434e4ffecd2ac2e713c12e2d14a23e38b4b92fc9' alt='Darker nights for Creed series (Origins, Odyssey, Valhalla) : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/darker-nights-for-creed-series-origins-odyssey-valhalla-v0-fjenbxnqqb0a1.jpg?width=1920&format=pjpg&auto=webp&s=434e4ffecd2ac2e713c12e2d14a23e38b4b92fc9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A desert paradise — The Art of Assassin's Creed Origins review">
+                                <img itemprop="contentUrl url" src='https://gamingtrend.com/content/images/size/w1200/2025/02/top-2-53.jpg' alt='A desert paradise — The Art of Assassin's Creed Origins review'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GamingTrend" />
+                                </span>
+                                <a href='https://gamingtrend.com/content/images/size/w1200/2025/02/top-2-53.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

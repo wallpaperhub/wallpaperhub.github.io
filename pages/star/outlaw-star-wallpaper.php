@@ -1,0 +1,129 @@
+<title>Stunning Outlaw Star Wallpapers for Every Fan!</title>
+                    <meta name="description" content="Discover the best Outlaw Star wallpapers to personalize your devices! Browse unique designs featuring your favorite characters and scenes from the beloved anime series. Elevate your device's look with wallpapers that capture the essence of adventure and excitement in the Outlaw Star universe!">
+                    <meta name="keywords" content="outlaw star wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star">
+                            <span itemprop="name">Star</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star/outlaw-star-wallpaper">
+                            <span itemprop="name">outlaw star wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Outlaw Star Wallpapers for Every Fan!</h1>
+                <p>Transform your screen with stunning Outlaw Star wallpapers! Celebrate the iconic anime series featuring captivating artwork that brings adventure and excitement to your device. From dynamic scenes with Gene Starwind and Melfina to vibrant, colorful illustrations of their interstellar journey, find the perfect wallpaper to showcase your fandom!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Outlaw Star Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/outlaw-star-3q7pred91gdwroop.jpg' alt='100+] Outlaw Star Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/outlaw-star-3q7pred91gdwroop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Anime Outlaw Star HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/483/thumb-1920-483284.jpg' alt='Download Anime Outlaw Star HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/483/thumb-1920-483284.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Gene Starwind Anime Outlaw Star HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/840/840441.jpg' alt='Download Gene Starwind Anime Outlaw Star HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/840/840441.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Outlaw Star Wallpaper: The Man with the Plan - Minitokyo">
+                                <img itemprop="contentUrl url" src='http://static2.minitokyo.net/view/48/00/25048.jpg' alt='Outlaw Star Wallpaper: The Man with the Plan - Minitokyo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers - Minitokyo" />
+                                </span>
+                                <a href='http://static2.minitokyo.net/view/48/00/25048.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Outlaw Star Wallpaper: Outlaw star - Minitokyo">
+                                <img itemprop="contentUrl url" src='http://static2.minitokyo.net/view/45/33/91695.jpg' alt='Outlaw Star Wallpaper: Outlaw star - Minitokyo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers - Minitokyo" />
+                                </span>
+                                <a href='http://static2.minitokyo.net/view/45/33/91695.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Outlaw Star">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/61/96/ec/6196ec4b6905c93f1d967de46238a361.jpg' alt='Outlaw Star'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/61/96/ec/6196ec4b6905c93f1d967de46238a361.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I just finished some Outlaw Star fanart! Sharing one of my ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/jqHm1ikWMtYmumD-MqyTpizRLqyzi7339vhxEDR4YqA.jpg?width=640&crop=smart&auto=webp&s=5457cc6e6f90122910ebd2c607e1e57286f7ac3d' alt='I just finished some Outlaw Star fanart! Sharing one of my ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="936">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/jqHm1ikWMtYmumD-MqyTpizRLqyzi7339vhxEDR4YqA.jpg?width=640&crop=smart&auto=webp&s=5457cc6e6f90122910ebd2c607e1e57286f7ac3d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download The Cast of Outlaw Star Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/outlaw-star-640-x-960-wallpaper-uccwg9hrdaecwlv6.jpg' alt='Download The Cast of Outlaw Star Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/outlaw-star-640-x-960-wallpaper-uccwg9hrdaecwlv6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Outlaw Star Wallpaper : r/outlawstar">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/bywrhwaczuw51.jpg?width=7680&format=pjpg&auto=webp&s=7aa499ae9b49e859284f4d1c6d12475ab343354d' alt='Outlaw Star Wallpaper : r/outlawstar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7680">
+                                <meta itemprop="height" content="4320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/bywrhwaczuw51.jpg?width=7680&format=pjpg&auto=webp&s=7aa499ae9b49e859284f4d1c6d12475ab343354d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Anime Outlaw Star HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/823/823885.jpg' alt='Download Anime Outlaw Star HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/823/823885.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

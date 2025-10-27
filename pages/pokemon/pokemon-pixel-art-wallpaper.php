@@ -1,0 +1,129 @@
+<title>Vibrant Pokémon Pixel Art Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover unique Pokémon pixel art wallpapers to personalize your device! Perfect for fans, these designs bring nostalgia and style to your screen. Download now to elevate your digital experience with colorful, eye-catching artwork featuring beloved characters!">
+                    <meta name="keywords" content="pokemon pixel art wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pokemon">
+                            <span itemprop="name">Pokemon</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pokemon/pokemon-pixel-art-wallpaper">
+                            <span itemprop="name">pokemon pixel art wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Pokémon Pixel Art Wallpapers for Your Device</h1>
+                <p>Transform your screen with vibrant Pokémon pixel art wallpaper! Dive into a nostalgic world where your favorite characters are reimagined in stunning pixelated designs. Perfect for fans of all ages, these wallpapers add a unique touch to your devices, combining creativity and fandom. Get ready to explore new pixel adventures!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floaroma Town Pixel Art. Animated Wallpaper Next Week, : r/pokemon">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/floaroma-town-pixel-art-animated-wallpaper-next-week-v0-2ksxihc8kunb1.png?auto=webp&s=93bb242be7929c9fdb0eca4ef25ab637428adeed' alt='Floaroma Town Pixel Art. Animated Wallpaper Next Week, : r/pokemon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/floaroma-town-pixel-art-animated-wallpaper-next-week-v0-2ksxihc8kunb1.png?auto=webp&s=93bb242be7929c9fdb0eca4ef25ab637428adeed' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel art Rayquaza I drew a few weeks ago :) : r/pokemon">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/74crvhb3vyn61.png' alt='Pixel art Rayquaza I drew a few weeks ago :) : r/pokemon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1708">
+                                <meta itemprop="height" content="1068">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/74crvhb3vyn61.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a Pokemon pixel fanart mobile wallpaper set of Dawn with ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/i-made-a-pokemon-pixel-fanart-mobile-wallpaper-set-of-dawn-v0-w1cptc3ubnvd1.jpeg?auto=webp&s=fc07edc560b6f6f463fb4232b89e6a3ad54b68fa' alt='I made a Pokemon pixel fanart mobile wallpaper set of Dawn with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2592">
+                                <meta itemprop="height" content="1728">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/i-made-a-pokemon-pixel-fanart-mobile-wallpaper-set-of-dawn-v0-w1cptc3ubnvd1.jpeg?auto=webp&s=fc07edc560b6f6f463fb4232b89e6a3ad54b68fa' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokémon Emerald - Waterfall. Animated Wallpaper by,   Artist: @1tzah,  Download Wallpaper for Mobile/Desktop on @1tzah instagram., ., ., .,  #pokemon #pokémon #pixelart #retro #8bit #8bitart #16bit ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3039549978250497174' alt='Pokémon Emerald - Waterfall. Animated Wallpaper by,   Artist: @1tzah,  Download Wallpaper for Mobile/Desktop on @1tzah instagram., ., ., .,  #pokemon #pokémon #pixelart #retro #8bit #8bitart #16bit ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1076">
+                                <meta itemprop="height" content="1912">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3039549978250497174' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="250 Wallpaper ideas in 2025 | pokemon art, pokemon fan art, cute ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/2f/10/c5/2f10c574b427a63fefaa639afdf4f032.jpg' alt='250 Wallpaper ideas in 2025 | pokemon art, pokemon fan art, cute ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1622">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/2f/10/c5/2f10c574b427a63fefaa639afdf4f032.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Pokemon Pixel Art Wallpapers by Tacciane ...">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/1469813569889772332/561B0CA3064BBE81161027E425B0798EF7A01317/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::Pokemon Pixel Art Wallpapers by Tacciane ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="256">
+                                <meta itemprop="height" content="256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/1469813569889772332/561B0CA3064BBE81161027E425B0798EF7A01317/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preview and Download Wallpaper - HD Wallpapers - Desktop ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ca/e0/1a/cae01ab5cce960db0d7819cc96e97ce8.jpg' alt='Preview and Download Wallpaper - HD Wallpapers - Desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ca/e0/1a/cae01ab5cce960db0d7819cc96e97ce8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Castelia City Evening Live Wallpaper | Pokémon-Inspired Pixel Art ...">
+                                <img itemprop="contentUrl url" src='https://wallshub.com/uploads/posts/2024-12/312f873001_the-legend-of-zelda-pokemon-castelia-city-1920x1080.webp' alt='Castelia City Evening Live Wallpaper | Pokémon-Inspired Pixel Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshub" />
+                                </span>
+                                <a href='https://wallshub.com/uploads/posts/2024-12/312f873001_the-legend-of-zelda-pokemon-castelia-city-1920x1080.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a Pokemon pixel fanart mobile wallpaper set of Misty and ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/y8ey3juncnvd1.jpeg' alt='I made a Pokemon pixel fanart mobile wallpaper set of Misty and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2592">
+                                <meta itemprop="height" content="1728">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/y8ey3juncnvd1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokemon Pixel Art By Sassy Sassy Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/pokemon-pixel-art-by-sassy-sassy-q2xoyyzpnw8y5ynw.webp' alt='Pokemon Pixel Art By Sassy Sassy Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/pokemon-pixel-art-by-sassy-sassy-q2xoyyzpnw8y5ynw.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

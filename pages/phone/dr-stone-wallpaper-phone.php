@@ -1,0 +1,129 @@
+<title>Stunning Dr. Stone Phone Wallpapers for Every Fan</title>
+                    <meta name="description" content="Discover amazing Dr. Stone phone wallpapers to personalize your device! Featuring iconic characters and vibrant artwork, these wallpapers are perfect for any fan of the series. Elevate your phone's look with just a few clicks—download your favorites now!">
+                    <meta name="keywords" content="dr stone wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/dr-stone-wallpaper-phone">
+                            <span itemprop="name">dr stone wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Dr. Stone Phone Wallpapers for Every Fan</h1>
+                <p>Transform your phone's screen with stunning Dr. Stone wallpapers! Whether you’re a fan of Senku's scientific adventures or the unique art style, there’s a wallpaper to match your vibe. Elevate your device and immerse yourself in the world of Dr. Stone every time you check your phone. Explore and download your favorites today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b7/91/39/b79139852d0e606f3f5277a34b7a38c6.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b7/91/39/b79139852d0e606f3f5277a34b7a38c6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dr.STONE Wallpapers (38 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/3/7/b/77407-1271x2079-samsung-hd-drstone-wallpaper.jpg' alt='Dr.STONE Wallpapers (38 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1271">
+                                <meta itemprop="height" content="2079">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/3/7/b/77407-1271x2079-samsung-hd-drstone-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Home Screen(s) : r/DrStone">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/5dx3o4eqn2uc1.jpeg' alt='My Home Screen(s) : r/DrStone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="698">
+                                <meta itemprop="height" content="1373">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/5dx3o4eqn2uc1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dr. Stone, Senku Ishigami, 4K, #7 Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/82/8a/91/828a91db01f60a2cd349403b0aaa5baa.jpg' alt='Dr. Stone, Senku Ishigami, 4K, #7 Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/82/8a/91/828a91db01f60a2cd349403b0aaa5baa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Home Screen(s) : r/DrStone">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ydjygnu2o2uc1.jpeg' alt='My Home Screen(s) : r/DrStone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ydjygnu2o2uc1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Dr Stone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dr-stone-senku-and-friends-6gc11l8dfl4aps11.jpg' alt='100+] Dr Stone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1256">
+                                <meta itemprop="height" content="1777">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dr-stone-senku-and-friends-6gc11l8dfl4aps11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dr Stone, anime, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/90/204/HD-wallpaper-dr-stone-anime.jpg' alt='Dr Stone, anime, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1571">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/90/204/HD-wallpaper-dr-stone-anime.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Senku, chemistry, dr stone, forest, senku, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/171/445/HD-wallpaper-senku-chemistry-dr-stone-forest-senku.jpg' alt='Senku, chemistry, dr stone, forest, senku, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1425">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/171/445/HD-wallpaper-senku-chemistry-dr-stone-forest-senku.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Senku/Chrome/Kohaku Phone Wallpaper (DragonSlayer x KonoMarioDa ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/2vzne50kc1d51.png' alt='Senku/Chrome/Kohaku Phone Wallpaper (DragonSlayer x KonoMarioDa ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/2vzne50kc1d51.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Set Your Imagination Free | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dr-stone-background-2mjfertsisd07uph.jpg' alt='Download Set Your Imagination Free | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dr-stone-background-2mjfertsisd07uph.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

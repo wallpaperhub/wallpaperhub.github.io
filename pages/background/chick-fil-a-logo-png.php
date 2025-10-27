@@ -1,0 +1,129 @@
+<title>Chick-fil-A Logo PNG: Download and Use</title>
+                    <meta name="description" content="Discover the Chick-fil-A logo in PNG format! Perfect for branding, marketing, and presentations. Download now to enhance your projects with this iconic symbol of quality and service. Suitable for all your creative needs!">
+                    <meta name="keywords" content="chick fil a logo png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/chick-fil-a-logo-png">
+                            <span itemprop="name">chick fil a logo png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chick-fil-A Logo PNG: Download and Use</h1>
+                <p>Chick-fil-A's logo features a stylized red chicken with a bold white font, symbolizing its focus on quality food and exceptional service. Available in PNG format, this logo can be used for various purposes, such as marketing materials, social media posts, and presentations. Explore the logo's versatility for your projects.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Chick-fil-A Logo.svg - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Chick-fil-A_Logo.svg/1280px-Chick-fil-A_Logo.svg.png' alt='File:Chick-fil-A Logo.svg - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="579">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Chick-fil-A_Logo.svg/1280px-Chick-fil-A_Logo.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Logofury - Chick-fil-A Logos & Icons">
+                                <img itemprop="contentUrl url" src='https://logos.logofury.com/logo_src/f4def7bc7500a2095657c90c90aa663c.png' alt='Logofury - Chick-fil-A Logos & Icons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Logofury" />
+                                </span>
+                                <a href='https://logos.logofury.com/logo_src/f4def7bc7500a2095657c90c90aa663c.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Chick-fil-A Logo in SVG Vector or PNG File Format - Logo.wine">
+                                <img itemprop="contentUrl url" src='https://download.logo.wine/logo/Chick-fil-A/Chick-fil-A-Logo.wine.png' alt='Download Chick-fil-A Logo in SVG Vector or PNG File Format - Logo.wine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Logo.wine" />
+                                </span>
+                                <a href='https://download.logo.wine/logo/Chick-fil-A/Chick-fil-A-Logo.wine.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chick Fil A Logo - Chick-fil-A Logo - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180408/hfe/avgos4rf5.webp' alt='Chick Fil A Logo - Chick-fil-A Logo - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180408/hfe/avgos4rf5.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chick-fil-A Logo, symbol, meaning, history, PNG, brand">
+                                <img itemprop="contentUrl url" src='https://logos-world.net/wp-content/uploads/2021/08/Chick-fil-A-Logo.png' alt='Chick-fil-A Logo, symbol, meaning, history, PNG, brand'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Logos-world" />
+                                </span>
+                                <a href='https://logos-world.net/wp-content/uploads/2021/08/Chick-fil-A-Logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chick Fil A - Chick-fil-A Logo - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180713/ecx/aawyptson.webp' alt='Chick Fil A - Chick-fil-A Logo - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180713/ecx/aawyptson.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chick-fil-A Chicken transparent PNG - StickPNG">
+                                <img itemprop="contentUrl url" src='https://assets.stickpng.com/images/612a31017c7c75000443b26f.png' alt='Chick-fil-A Chicken transparent PNG - StickPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="859">
+                                <meta itemprop="height" content="1023">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StickPNG" />
+                                </span>
+                                <a href='https://assets.stickpng.com/images/612a31017c7c75000443b26f.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chick-Fil-A Logo PNG Vectors Free Download">
+                                <img itemprop="contentUrl url" src='https://seeklogo.com/images/C/chick-fil-a-logo-651CF3C8D3-seeklogo.com.png' alt='Chick-Fil-A Logo PNG Vectors Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="144">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Seeklogo" />
+                                </span>
+                                <a href='https://seeklogo.com/images/C/chick-fil-a-logo-651CF3C8D3-seeklogo.com.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chick Fil A Logo - Chick-fil-A Logo - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180824/oas/kisspng-chick-fil-a-fast-food-restaurant-rubber-duck-derby-legal-shield-members-exclusive-central-payment-o-1713949366224.webp' alt='Chick Fil A Logo - Chick-fil-A Logo - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180824/oas/kisspng-chick-fil-a-fast-food-restaurant-rubber-duck-derby-legal-shield-members-exclusive-central-payment-o-1713949366224.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chick-fil-A Logo & Brand Assets (SVG, PNG and vector) - Brandfetch">
+                                <img itemprop="contentUrl url" src='https://cdn.brandfetch.io/idL9rPsb4d/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1737001125928' alt='Chick-fil-A Logo & Brand Assets (SVG, PNG and vector) - Brandfetch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Brandfetch" />
+                                </span>
+                                <a href='https://cdn.brandfetch.io/idL9rPsb4d/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1737001125928' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

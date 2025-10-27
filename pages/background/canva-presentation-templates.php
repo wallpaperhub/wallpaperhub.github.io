@@ -1,0 +1,129 @@
+<title>Stunning Canva Presentation Templates for Every Need</title>
+                    <meta name="description" content="Discover a variety of Canva presentation templates designed for easy customization. Perfect for professionals, educators, and personal projects, these templates help you create eye-catching slideshows that captivate your audience. Start designing today and elevate your presentations with Canva!">
+                    <meta name="keywords" content="canva presentation templates">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/canva-presentation-templates">
+                            <span itemprop="name">canva presentation templates</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Canva Presentation Templates for Every Need</h1>
+                <p>Canva presentation templates offer a user-friendly platform for creating stunning slideshows effortlessly. With a wide range of customizable designs, you can easily tailor templates to fit your brand or theme. Whether for business pitches, educational purposes, or personal events, Canva's flexible tools make it simple to engage your audience visually.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and engaging presentation templates to customize | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGHpw-3Leo/2/0/1600w/canva-cream-and-dark-brown-aesthetic-abstract-corner-project-presentation-Fkvbry52EWw.jpg' alt='Free and engaging presentation templates to customize | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGHpw-3Leo/2/0/1600w/canva-cream-and-dark-brown-aesthetic-abstract-corner-project-presentation-Fkvbry52EWw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant Minimalist Business Proposal Presentation Canva Template">
+                                <img itemprop="contentUrl url" src='https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_auto/peterdraw.studio/wp-content/uploads/2021/09/Elegant-Minimalist-Business-Proposal-Presentation-Canva-Template.jpg' alt='Elegant Minimalist Business Proposal Presentation Canva Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2340">
+                                <meta itemprop="height" content="1560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peterdraw Studio" />
+                                </span>
+                                <a href='https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_auto/peterdraw.studio/wp-content/uploads/2021/09/Elegant-Minimalist-Business-Proposal-Presentation-Canva-Template.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and engaging presentation templates to customize | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFv0ZvYJBo/2/0/1600w/canva-beige-watercolor-project-presentation-IJUXfZuNros.jpg' alt='Free and engaging presentation templates to customize | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFv0ZvYJBo/2/0/1600w/canva-beige-watercolor-project-presentation-IJUXfZuNros.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Canva Slides For PowerPoint and Google Slides Themes">
+                                <img itemprop="contentUrl url" src='https://www.slideegg.com/image/catalog/700089-canva-presentation-templates.png' alt='Canva Slides For PowerPoint and Google Slides Themes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slide Egg" />
+                                </span>
+                                <a href='https://www.slideegg.com/image/catalog/700089-canva-presentation-templates.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and engaging presentation templates to customize | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGKjjGyKmU/2/0/1600w/canva-pink-maroon-minimalist-aesthetic-simple-presentation-Dw8wanNM55U.jpg' alt='Free and engaging presentation templates to customize | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGKjjGyKmU/2/0/1600w/canva-pink-maroon-minimalist-aesthetic-simple-presentation-Dw8wanNM55U.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free editable startup presentation templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFca8jQ8TA/1/0/1600w/canva-purple-%26-white-business-profile-presentation-8GHMgBZbi48.jpg' alt='Free editable startup presentation templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFca8jQ8TA/1/0/1600w/canva-purple-%26-white-business-profile-presentation-8GHMgBZbi48.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Presentations and slides for any occasion | Canva">
+                                <img itemprop="contentUrl url" src='https://content-management-files.canva.com/cdn-cgi/image/f=auto,q=70/7642501b-1c52-4a92-b1b4-298a039be132/presentations_promo-showcase_012x.png' alt='Presentations and slides for any occasion | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2017">
+                                <meta itemprop="height" content="1513">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://content-management-files.canva.com/cdn-cgi/image/f=auto,q=70/7642501b-1c52-4a92-b1b4-298a039be132/presentations_promo-showcase_012x.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimal Modern Canva Slides Presentation Template Navy Dark Blue ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27826938/r/il/cc5c21/3645280138/il_300x300.3645280138_kjy9.jpg' alt='Minimal Modern Canva Slides Presentation Template Navy Dark Blue ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27826938/r/il/cc5c21/3645280138/il_300x300.3645280138_kjy9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free education presentation templates you can edit | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAEjlluX2ko/3/0/800w/canva-classroom-rules-education-presentation-in-green-blue-pink-journal-core-style-0kE8BAkVPJ4.jpg' alt='Free education presentation templates you can edit | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAEjlluX2ko/3/0/800w/canva-classroom-rules-education-presentation-in-green-blue-pink-journal-core-style-0kE8BAkVPJ4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Speaking + Presentation Canva Slide Deck">
+                                <img itemprop="contentUrl url" src='https://tonicsiteshop.com/wp-content/uploads/2023/05/Speaking-Presentation-Slides-Hover.jpg' alt='The Speaking + Presentation Canva Slide Deck'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tonic Site Shop" />
+                                </span>
+                                <a href='https://tonicsiteshop.com/wp-content/uploads/2023/05/Speaking-Presentation-Slides-Hover.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

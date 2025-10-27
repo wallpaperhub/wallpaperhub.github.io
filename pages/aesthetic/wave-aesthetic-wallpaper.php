@@ -1,0 +1,129 @@
+<title>Wave Aesthetic Wallpaper: Serenity in Your Space</title>
+                    <meta name="description" content="Transform your devices with stunning wave aesthetic wallpaper. Embrace the calming vibes of the ocean and bring tranquility to your screens. Perfect for lovers of nature and unique designs, these wallpapers provide a refreshing backdrop that inspires peace and creativity. Explore now!">
+                    <meta name="keywords" content="wave aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/wave-aesthetic-wallpaper">
+                            <span itemprop="name">wave aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Wave Aesthetic Wallpaper: Serenity in Your Space</h1>
+                <p>Discover the serene beauty of wave aesthetic wallpaper for your digital spaces! This captivating design seamlessly blends tranquility and style, evoking memories of soothing shores and gentle tides. Perfect for your phone, tablet, or computer, let the calming waves inspire and uplift your mood every day.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wave wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/46/8c/77/468c77210a83fa534cbbe6c26b7e6919.jpg' alt='wave wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/46/8c/77/468c77210a83fa534cbbe6c26b7e6919.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Desktop Ocean Waves Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/aesthetic-desktop-ocean-waves-lzjyeq4iy0qui2l7.jpg' alt='Aesthetic Desktop Ocean Waves Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/aesthetic-desktop-ocean-waves-lzjyeq4iy0qui2l7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2160x3840]My take on an AMOLED Great Wave off Kanagawa : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/b94wm5z6yx621.png?width=640&crop=smart&auto=webp&s=2f0727fde3284875abcd16307f838454a77557c0' alt='2160x3840]My take on an AMOLED Great Wave off Kanagawa : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/b94wm5z6yx621.png?width=640&crop=smart&auto=webp&s=2f0727fde3284875abcd16307f838454a77557c0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tumblr iphone blue wave wallpaper ~">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/75/b4/72/75b4722498ad1c55b1b14b5cec538fb6.jpg' alt='Tumblr iphone blue wave wallpaper ~'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="889">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/75/b4/72/75b4722498ad1c55b1b14b5cec538fb6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Baby Blue Wave Art Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/aesthetic-baby-blue-wave-art-esjg42r3cu4kl39y.jpg' alt='Aesthetic Baby Blue Wave Art Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/aesthetic-baby-blue-wave-art-esjg42r3cu4kl39y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Japanese Wave Artistic Mural Wallpaper | Ever Wallpaper">
+                                <img itemprop="contentUrl url" src='https://everwallpaper.com/cdn/shop/products/11pastel-blue-waves-mural-wallpaper-plain.jpg?v=1682239827' alt='Japanese Wave Artistic Mural Wallpaper | Ever Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="368">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='https://everwallpaper.com/cdn/shop/products/11pastel-blue-waves-mural-wallpaper-plain.jpg?v=1682239827' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Cave على X: "Cool #wallpapers of #aesthetic #waves https ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/EU700GCU4AgKfEI.jpg:large' alt='Wallpaper Cave على X: "Cool #wallpapers of #aesthetic #waves https ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1244">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/EU700GCU4AgKfEI.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Wave Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/6b/57/3c/6b573ca89b7fd5864cdb313a7bf97340.jpg' alt='Aesthetic Wave Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="563">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/6b/57/3c/6b573ca89b7fd5864cdb313a7bf97340.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Waves, aesthetics, illustration, japanese, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/389/747/HD-wallpaper-waves-aesthetics-illustration-japanese.jpg' alt='Waves, aesthetics, illustration, japanese, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/389/747/HD-wallpaper-waves-aesthetics-illustration-japanese.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Aesthetic Wave Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-wave-y8k8c0xb1mbu7tyy.jpg' alt='100+] Aesthetic Wave Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-wave-y8k8c0xb1mbu7tyy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

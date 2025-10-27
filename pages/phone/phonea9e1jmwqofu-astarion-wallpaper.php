@@ -1,0 +1,129 @@
+<title>Astarion Wallpaper for Your Phone: Custom Designs</title>
+                    <meta name="description" content="Discover unique Astarion wallpapers for your phone! Immerse yourself in vibrant designs and showcase your fandom with stunning visuals. Perfect for customizing your device and making it truly yours. Get the best Astarion wallpapers now!">
+                    <meta name="keywords" content="phone:a9e1jmwqofu= astarion wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/phonea9e1jmwqofu-astarion-wallpaper">
+                            <span itemprop="name">phone:a9e1jmwqofu= astarion wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Astarion Wallpaper for Your Phone: Custom Designs</h1>
+                <p>Elevate your phone's style with stunning Astarion wallpaper! Featuring vibrant colors and captivating designs, these wallpapers bring your favorite character from the gaming world to life. Perfect for fans of fantasy and adventure, personalize your device today and showcase your love for Astarion in every glance!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made some phone wallpapers (Astarion) : r/BaldursGate3">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/i-made-some-phone-wallpapers-astarion-v0-7i6dz7v626lb1.png?width=1080&format=png&auto=webp&s=74384d423efc0e587ec9e8c01fd3969df44937db' alt='I made some phone wallpapers (Astarion) : r/BaldursGate3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/i-made-some-phone-wallpapers-astarion-v0-7i6dz7v626lb1.png?width=1080&format=png&auto=webp&s=74384d423efc0e587ec9e8c01fd3969df44937db' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Admiring Astarion: 4K PC Wallpaper Loop">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7345675730266639648&location=0&aid=1988' alt='Admiring Astarion: 4K PC Wallpaper Loop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7345675730266639648&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astarion Endings Wallpaper - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/47380808/r/il/7146bb/5389825376/il_1080xN.5389825376_6x2h.jpg' alt='Astarion Endings Wallpaper - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2170">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/47380808/r/il/7146bb/5389825376/il_1080xN.5389825376_6x2h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made some phone wallpapers (Astarion) : r/BaldursGate3">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/i-made-some-phone-wallpapers-astarion-v0-6ip3vb6726lb1.png?width=1080&format=png&auto=webp&s=1f775adc155906f8b40feff306e6467bc1aeddd0' alt='I made some phone wallpapers (Astarion) : r/BaldursGate3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/i-made-some-phone-wallpapers-astarion-v0-6ip3vb6726lb1.png?width=1080&format=png&auto=webp&s=1f775adc155906f8b40feff306e6467bc1aeddd0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astarion Themed Wallpaper/ Widgets! : r/BaldursGate3">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/astarion-themed-wallpaper-widgets-v0-k5acuxos610c1.jpg?width=640&crop=smart&auto=webp&s=d7200db2f83ba04c092062ce70a09077612a2f9f' alt='Astarion Themed Wallpaper/ Widgets! : r/BaldursGate3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/astarion-themed-wallpaper-widgets-v0-k5acuxos610c1.jpg?width=640&crop=smart&auto=webp&s=d7200db2f83ba04c092062ce70a09077612a2f9f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astarion wallpapers made by me    : r/OnlyFangsbg3">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/astarion-wallpapers-made-by-me-v0-pisn51dj8d8d1.jpg?width=3840&format=pjpg&auto=webp&s=c15340f95aa284306435e741c3738d784651e4a4' alt='Astarion wallpapers made by me    : r/OnlyFangsbg3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/astarion-wallpapers-made-by-me-v0-pisn51dj8d8d1.jpg?width=3840&format=pjpg&auto=webp&s=c15340f95aa284306435e741c3738d784651e4a4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astarion BG3 Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a0/82/c9/a082c942d5011cbae3e500c83568bada.jpg' alt='Astarion BG3 Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="978">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a0/82/c9/a082c942d5011cbae3e500c83568bada.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astarion wallpapers made by me    : r/OnlyFangsbg3">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/astarion-wallpapers-made-by-me-v0-fml2zx7j8d8d1.jpg?width=3840&format=pjpg&auto=webp&s=7c095862b4a25467f83da06124519266308b6447' alt='Astarion wallpapers made by me    : r/OnlyFangsbg3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/astarion-wallpapers-made-by-me-v0-fml2zx7j8d8d1.jpg?width=3840&format=pjpg&auto=webp&s=7c095862b4a25467f83da06124519266308b6447' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Astarion Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/astarion-vampire-spawn-night-portrait-e7g2cfkvttbnct7a.jpg' alt='100+] Astarion Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/astarion-vampire-spawn-night-portrait-e7g2cfkvttbnct7a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Astarion wallpapers made by me    : r/OnlyFangsbg3">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/astarion-wallpapers-made-by-me-v0-jbbtpozi8d8d1.jpg?width=3840&format=pjpg&auto=webp&s=32301d2f934dac917ce9e2fa13a381ff17036743' alt='Astarion wallpapers made by me    : r/OnlyFangsbg3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/astarion-wallpapers-made-by-me-v0-jbbtpozi8d8d1.jpg?width=3840&format=pjpg&auto=webp&s=32301d2f934dac917ce9e2fa13a381ff17036743' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Frank Ocean Wallpapers for Every Device</title>
+                    <meta name="description" content="Discover an exclusive collection of Frank Ocean wallpapers to personalize your devices. From album art to vibrant visuals, find the perfect backdrop that showcases the artistry of this iconic musician. Download now and elevate your screen with Frank Ocean’s unique aesthetic!">
+                    <meta name="keywords" content="frank ocean wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/frank-ocean-wallpaper">
+                            <span itemprop="name">frank ocean wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Frank Ocean Wallpapers for Every Device</h1>
+                <p>Transform your device with stunning Frank Ocean wallpapers that capture his unique style and artistry. Whether you're a fan of his vibrant album covers or introspective visuals, find the perfect wallpaper to express your admiration. Explore a variety of designs that will make your screen come alive with Ocean's musical essence.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Frank Ocean Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/frank-ocean-blond-music-h95akamx0gnr1tiy.jpg' alt='100+] Frank Ocean Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/frank-ocean-blond-music-h95akamx0gnr1tiy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Extended this Frank Ocean wallpaper to make it fit for the new iOS ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/gnir29f2kvn91.jpg' alt='Extended this Frank Ocean wallpaper to make it fit for the new iOS ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="8000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/gnir29f2kvn91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Latest Frank Ocean Desktop Wallpaper FULL HD 1080p For PC Desktop">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/52/2f/dd/522fdd672df93b69b87334904fc59068.jpg' alt='10 Latest Frank Ocean Desktop Wallpaper FULL HD 1080p For PC Desktop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/52/2f/dd/522fdd672df93b69b87334904fc59068.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I created Desktop and Mobile wallpapers for some of Frank Oceans ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/hcbpxdg4oy791.png?width=640&crop=smart&auto=webp&s=3585deb46e73aef53258817208f895c296eeab45' alt='I created Desktop and Mobile wallpapers for some of Frank Oceans ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/hcbpxdg4oy791.png?width=640&crop=smart&auto=webp&s=3585deb46e73aef53258817208f895c296eeab45' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Frank Ocean iPhone Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6e/e6/50/6ee6505a8d21072337214a4694b78e2d.jpg' alt='Awesome Frank Ocean iPhone Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1186">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6e/e6/50/6ee6505a8d21072337214a4694b78e2d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Frank Ocean Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/frank-ocean-blond-aesthetic-lvzxbo9i180rim7c.jpg' alt='100+] Frank Ocean Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1510">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/frank-ocean-blond-aesthetic-lvzxbo9i180rim7c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frank Ocean Silhouette In Concert Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/frank-ocean-silhouette-in-concert-4pigmi7ip54ni7r7.jpg' alt='Frank Ocean Silhouette In Concert Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1082">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/frank-ocean-silhouette-in-concert-4pigmi7ip54ni7r7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frank Ocean “Blonde” Wallpaper">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/threads/C-5NMCxpVKe/0/image.jpg' alt='Frank Ocean “Blonde” Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="996">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Threads" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/threads/C-5NMCxpVKe/0/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frank Ocean Blond Music Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/frank-ocean-blond-music-rjr51ik7cbd17sgb.jpg' alt='Frank Ocean Blond Music Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/frank-ocean-blond-music-rjr51ik7cbd17sgb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I recently posted some Blonde Fan Art here and you guys really ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/817ocxsymsv71.jpg' alt='I recently posted some Blonde Fan Art here and you guys really ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/817ocxsymsv71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

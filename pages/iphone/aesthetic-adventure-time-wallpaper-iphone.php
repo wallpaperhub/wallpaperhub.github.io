@@ -1,0 +1,129 @@
+<title>Aesthetic Adventure Time iPhone Wallpapers</title>
+                    <meta name="description" content="Explore a collection of stunning aesthetic Adventure Time wallpapers for your iPhone. Perfect for fans, these vibrant designs capture the essence of the beloved series, ensuring your device embodies the magic and whimsy of the Land of Ooo. Download now to personalize your screen with creativity and fun!">
+                    <meta name="keywords" content="aesthetic adventure time wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/aesthetic-adventure-time-wallpaper-iphone">
+                            <span itemprop="name">aesthetic adventure time wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Adventure Time iPhone Wallpapers</h1>
+                <p>Aesthetic Adventure Time wallpapers for iPhone bring the whimsical world of Finn, Jake, and their friends right to your device! These vibrant backgrounds capture the show's unique art style and playful spirit, perfect for fans who want to express their love for the Land of Ooo. Transform your screen with stunning visuals that inspire adventure!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Just got a new iPhone so I decided to make a wallpaper :) : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/y0tvbqhd7i791.jpg' alt='Just got a new iPhone so I decided to make a wallpaper :) : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2840">
+                                <meta itemprop="height" content="6146">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/y0tvbqhd7i791.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ADVENTURE TIME WALLPAPER HD - HeroWall | Phone Backgrounds. Free ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/a/AVvXsEgER8-p23sIiO3JMuVXMzGlcJIe8VR_GIc4Pflhzuf73_0BG4HjR5xvO0ZhbRQu-Dzl3GrjvMsujQhwsPXoYBH2_FUlWZtj4i2_3PHPcEXObuNKbSzeHx0e5VQw-UAYOFgd1XoRSivvE6_zAnsRk2N2dAH_IeMfLLevyJ1FFXcjGbIqm9axImm9JZO6-DU' alt='ADVENTURE TIME WALLPAPER HD - HeroWall | Phone Backgrounds. Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="738">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HeroWall" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/a/AVvXsEgER8-p23sIiO3JMuVXMzGlcJIe8VR_GIc4Pflhzuf73_0BG4HjR5xvO0ZhbRQu-Dzl3GrjvMsujQhwsPXoYBH2_FUlWZtj4i2_3PHPcEXObuNKbSzeHx0e5VQw-UAYOFgd1XoRSivvE6_zAnsRk2N2dAH_IeMfLLevyJ1FFXcjGbIqm9axImm9JZO6-DU' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Adventure Time BMO IPhone Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/adventure-time-iphone-tbvxycuqlt2rg5r7.jpg' alt='Download Adventure Time BMO IPhone Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1116">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/adventure-time-iphone-tbvxycuqlt2rg5r7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adventure Time, Animated, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/165/349/HD-wallpaper-adventure-time-cartoon-thumbnail.jpg' alt='Adventure Time, Animated, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="473">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/165/349/HD-wallpaper-adventure-time-cartoon-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone wallpaper I did. Used Some picture from Google as reference ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/r2qktq10w0c91.jpg' alt='Phone wallpaper I did. Used Some picture from Google as reference ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="947">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/r2qktq10w0c91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Working on more Adventure Time themed phone wallpapers. Will be posting on  Gumroad!    #pixelart #adventuretime #phonewallpaper #gif #chill #loop  #gumroad">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7229527968228412714&location=0&aid=1988' alt='Working on more Adventure Time themed phone wallpapers. Will be posting on  Gumroad!    #pixelart #adventuretime #phonewallpaper #gif #chill #loop  #gumroad'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7229527968228412714&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adventure Time Wallpaper For iPhone - Best iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d4/d3/ff/d4d3fffcceea862c2087473f29c5e852.jpg' alt='Adventure Time Wallpaper For iPhone - Best iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d4/d3/ff/d4d3fffcceea862c2087473f29c5e852.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adventure time wallpaper 2025 phone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b0/44/b4/b044b424216e1654b03c35a5d6a1bacc.jpg' alt='Adventure time wallpaper 2025 phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b0/44/b4/b044b424216e1654b03c35a5d6a1bacc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adventure time, tree, landscape, cartoon, tv series, 720x1280 ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6c/e7/38/6ce73812cf2e01865a6db7dd6c6780ac.jpg' alt='Adventure time, tree, landscape, cartoon, tv series, 720x1280 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6c/e7/38/6ce73812cf2e01865a6db7dd6c6780ac.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adventure Time, Shadow Effect, animated, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/104/617/HD-wallpaper-adventure-time-shadow-effect-animated.jpg' alt='Adventure Time, Shadow Effect, animated, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/104/617/HD-wallpaper-adventure-time-shadow-effect-animated.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

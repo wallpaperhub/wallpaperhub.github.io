@@ -1,0 +1,129 @@
+<title>Trendy Modern Phone Wallpapers for Every Style</title>
+                    <meta name="description" content="Explore a collection of trendy modern phone wallpapers that reflect your unique style. From vibrant art to minimalistic designs, find the perfect backdrop for your device. Refresh your home screen with high-resolution wallpapers that stand out and inspire. Perfect for personalizing your mobile experience!">
+                    <meta name="keywords" content="modern phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/modern-phone-wallpaper">
+                            <span itemprop="name">modern phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Trendy Modern Phone Wallpapers for Every Style</h1>
+                <p>Modern phone wallpapers are an essential way to express individuality and style. With endless options available, from abstract art to nature scenes, users can easily customize their screens. High-resolution designs ensure vibrant visuals while minimalistic patterns enhance aesthetics. Discover the latest trends and elevate your device's look.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Phone Wallpaper - Piktochart">
+                                <img itemprop="contentUrl url" src='https://piktochart.com/wp-content/uploads/2023/05/large-154.jpg' alt='Modern Phone Wallpaper - Piktochart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Piktochart" />
+                                </span>
+                                <a href='https://piktochart.com/wp-content/uploads/2023/05/large-154.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Colors, Phone Wallpaper Modern, Minimalist Shapes, Phone ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11238208/r/il/176b92/2475187755/il_fullxfull.2475187755_bsn8.jpg' alt='Beautiful Colors, Phone Wallpaper Modern, Minimalist Shapes, Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11238208/r/il/176b92/2475187755/il_fullxfull.2475187755_bsn8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Wallpaper | 100+ best free architecture, building, city, and ...">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1687851898206-6636e30dcab1?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTN8MTA3MzcxOXx8ZW58MHx8fHx8' alt='Phone Wallpaper | 100+ best free architecture, building, city, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1687851898206-6636e30dcab1?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTN8MTA3MzcxOXx8ZW58MHx8fHx8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern and Sleek Phone Wallpaper Featuring a Geometric Hexagonal ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/z/modern-sleek-phone-wallpaper-showcasing-geometric-hexagonal-pattern-dark-tones-blue-highlights-create-sophisticated-320970938.jpg' alt='Modern and Sleek Phone Wallpaper Featuring a Geometric Hexagonal ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="907">
+                                <meta itemprop="height" content="1690">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/z/modern-sleek-phone-wallpaper-showcasing-geometric-hexagonal-pattern-dark-tones-blue-highlights-create-sophisticated-320970938.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD modern wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/20/744/HD-wallpaper-black-pattern-black-design-modern-thumbnail.jpg' alt='HD modern wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="676">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/20/744/HD-wallpaper-black-pattern-black-design-modern-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Wallpaper Abstract Golden Luxe Phone Wallpapers, Modern ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/39342770/r/il/b1d216/6187590164/il_570xN.6187590164_mcli.jpg' alt='Phone Wallpaper Abstract Golden Luxe Phone Wallpapers, Modern ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/39342770/r/il/b1d216/6187590164/il_570xN.6187590164_mcli.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxury, modern, elegant, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/837/813/HD-wallpaper-luxury-modern-elegant.jpg' alt='Luxury, modern, elegant, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/837/813/HD-wallpaper-luxury-modern-elegant.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper modern art circuit design #iphone #wallpaper #smartphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f2/d4/35/f2d435352f1e3153744f5b64e8038207.jpg' alt='Wallpaper modern art circuit design #iphone #wallpaper #smartphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f2/d4/35/f2d435352f1e3153744f5b64e8038207.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Modern Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/abstract-spherical-balancing-act-jpg-5m0yvuf5cqoer3mz.jpg' alt='100+] Modern Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/abstract-spherical-balancing-act-jpg-5m0yvuf5cqoer3mz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="182,800+ Phone Wallpaper Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1402963153/vector/gradient-background-for-phones-blurred-mesh-texture-smartphone-wallpaper.jpg?s=612x612&w=0&k=20&c=pf-EBy4_zqIK3VJDoGg0s2VmGsLMwE1UgAXQPyapJys=' alt='182,800+ Phone Wallpaper Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="344">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1402963153/vector/gradient-background-for-phones-blurred-mesh-texture-smartphone-wallpaper.jpg?s=612x612&w=0&k=20&c=pf-EBy4_zqIK3VJDoGg0s2VmGsLMwE1UgAXQPyapJys=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

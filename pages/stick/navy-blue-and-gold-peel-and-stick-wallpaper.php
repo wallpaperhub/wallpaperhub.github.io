@@ -1,0 +1,129 @@
+<title>Navy Blue & Gold Peel and Stick Wallpaper: Chic & Easy Decor</title>
+                    <meta name="description" content="Discover the elegance of navy blue and gold peel and stick wallpaper. Perfect for effortless home transformation, this stylish wallpaper is renter-friendly and easy to apply. Elevate your decor with a chic look that makes any room shine. Quick to install and remove—your decor dream awaits!">
+                    <meta name="keywords" content="navy blue and gold peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/navy-blue-and-gold-peel-and-stick-wallpaper">
+                            <span itemprop="name">navy blue and gold peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Navy Blue & Gold Peel and Stick Wallpaper: Chic & Easy Decor</h1>
+                <p>Navy blue and gold peel and stick wallpaper is the ultimate choice for transforming your space effortlessly. This easy-to-use wallpaper adds a touch of elegance and sophistication to any room. Perfect for renters and DIY enthusiasts, it can be applied and removed without damage. Achieve a stunning decor statement with this chic design!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper Navy Blue and Gold Contact Paper Removable  Geometric Trellis Wallpaper Self Adhesive Textured Vinyl Roll for Accent  Wall ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/816Q1OcX-IL.jpg' alt='Peel and Stick Wallpaper Navy Blue and Gold Contact Paper Removable  Geometric Trellis Wallpaper Self Adhesive Textured Vinyl Roll for Accent  Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/816Q1OcX-IL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold and Navy Peel and Stick Wallpaper Dark Blue Luxury Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/46044707/r/il/259021/5726334575/il_fullxfull.5726334575_a4wh.jpg' alt='Gold and Navy Peel and Stick Wallpaper Dark Blue Luxury Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/46044707/r/il/259021/5726334575/il_fullxfull.5726334575_a4wh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Navy Blue Peel and Stick Wallpaper Wall Mural Dark Blue Gold ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21567594/r/il/08c21d/4385096817/il_fullxfull.4385096817_bkg1.jpg' alt='Navy Blue Peel and Stick Wallpaper Wall Mural Dark Blue Gold ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2126">
+                                <meta itemprop="height" content="1594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21567594/r/il/08c21d/4385096817/il_fullxfull.4385096817_bkg1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unbranded Gold Lines Chevron Navy Peel and Stick Vinyl Wallpaper  W9235-Vinyl-Navy-216">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/ef8f4207-64c7-440a-aeab-92ff0fa0aabd/svn/wallpaper-rolls-w9235-vinyl-navy-216-64_600.jpg' alt='Unbranded Gold Lines Chevron Navy Peel and Stick Vinyl Wallpaper  W9235-Vinyl-Navy-216'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/ef8f4207-64c7-440a-aeab-92ff0fa0aabd/svn/wallpaper-rolls-w9235-vinyl-navy-216-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Navy Blue & Gold Palm Leaves Wallpaper CC295">
+                                <img itemprop="contentUrl url" src='https://costacover.com/cdn/shop/files/04_36c896bd-0e0b-46c4-ba37-83195d887760_1080x.jpg?v=1698091734' alt='Navy Blue & Gold Palm Leaves Wallpaper CC295'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CostaCover" />
+                                </span>
+                                <a href='https://costacover.com/cdn/shop/files/04_36c896bd-0e0b-46c4-ba37-83195d887760_1080x.jpg?v=1698091734' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CiCiwind Peel and Stick Wallpaper Gold and Blue Wallpaper Removable Self  Adhesive Wallpaper 17.3In×118In Modern Contact Paper Gold Ginkgo Leaves ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/811BGz49aSL._AC_UF894,1000_QL80_.jpg' alt='CiCiwind Peel and Stick Wallpaper Gold and Blue Wallpaper Removable Self  Adhesive Wallpaper 17.3In×118In Modern Contact Paper Gold Ginkgo Leaves ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/811BGz49aSL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold and Navy Blue Geometric Wallpaper Wall Mural Minimalistic ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/19420891/r/il/6fc98b/1878190894/il_fullxfull.1878190894_ka0y.jpg' alt='Gold and Navy Blue Geometric Wallpaper Wall Mural Minimalistic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2062">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/19420891/r/il/6fc98b/1878190894/il_fullxfull.1878190894_ka0y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celestial Peel & Stick Wallpaper Navy/Gold - Opalhouse™: Removable Vinyl,  Self-Adhesive, Stain-Resistant, 27.5 Sq Ft Coverage">
+                                <img itemprop="contentUrl url" src='https://target.scene7.com/is/image/Target/GUEST_ea5709a4-e455-4b12-bd9f-ff6bebb519ca' alt='Celestial Peel & Stick Wallpaper Navy/Gold - Opalhouse™: Removable Vinyl,  Self-Adhesive, Stain-Resistant, 27.5 Sq Ft Coverage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Target" />
+                                </span>
+                                <a href='https://target.scene7.com/is/image/Target/GUEST_ea5709a4-e455-4b12-bd9f-ff6bebb519ca' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Facet Geometric Peel & Stick Wallpaper Navy/Gold - Project 62™: Removable,  Self-Adhesive, Stain-Resistant, Washable">
+                                <img itemprop="contentUrl url" src='https://target.scene7.com/is/image/Target/GUEST_2330f7d7-aadc-4995-9cfa-a3bb46058f90' alt='Facet Geometric Peel & Stick Wallpaper Navy/Gold - Project 62™: Removable,  Self-Adhesive, Stain-Resistant, Washable'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Target" />
+                                </span>
+                                <a href='https://target.scene7.com/is/image/Target/GUEST_2330f7d7-aadc-4995-9cfa-a3bb46058f90' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Lines Chevron Navy Peel and Stick Vinyl Wallpaper W9235-Vinyl ...">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/9322058b-c2c3-4c2c-9b54-e75f1c6a8606/svn/wallpaper-rolls-w9235-vinyl-navy-216-4f_600.jpg' alt='Gold Lines Chevron Navy Peel and Stick Vinyl Wallpaper W9235-Vinyl ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/9322058b-c2c3-4c2c-9b54-e75f1c6a8606/svn/wallpaper-rolls-w9235-vinyl-navy-216-4f_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

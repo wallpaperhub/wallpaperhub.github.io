@@ -1,0 +1,129 @@
+<title>Majestic Lion HD 4K Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover high-quality lion wallpapers in stunning 4K that bring the wild beauty of these majestic creatures to your device. Perfect for animal lovers, these vibrant images add a touch of nature's grandeur to your screen. Download your favorite lion wallpaper today and transform your digital experience!">
+                    <meta name="keywords" content="lion wallpaper hd 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/lion-wallpaper-hd-4k">
+                            <span itemprop="name">lion wallpaper hd 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Majestic Lion HD 4K Wallpapers for Your Device</h1>
+                <p>Transform your digital space with stunning lion wallpaper in HD 4K. These breathtaking images showcase the majesty and strength of lions, perfect for animal lovers and wildlife enthusiasts. With vibrant colors and incredible detail, these wallpapers will elevate your device's aesthetic, providing a majestic backdrop that inspires awe every time you unlock your screen.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9f/2a/66/9f2a669e1ca3d32260b2ee79ef3bcf44.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="725">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9f/2a/66/9f2a669e1ca3d32260b2ee79ef3bcf44.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lion Wallpaper Hd 4k Pictures | Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/fantastic-animal-constellation_23-2151708235.jpg' alt='Lion Wallpaper Hd 4k Pictures | Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="417">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/fantastic-animal-constellation_23-2151708235.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30k+ Lion Roar Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1629812456605-4a044aa38fbc?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bGlvbiUyMHJvYXJ8ZW58MHx8MHx8fDA%3D' alt='30k+ Lion Roar Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4496">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1629812456605-4a044aa38fbc?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bGlvbiUyMHJvYXJ8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lion Wallpapers (103 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/a/8/9/194420-1440x2560-samsung-hd-lion-wallpaper.jpg' alt='Lion Wallpapers (103 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/a/8/9/194420-1440x2560-samsung-hd-lion-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lion Wallpaper (Roaring, Fierce) #17115">
+                                <img itemprop="contentUrl url" src='https://wallpapershome.com/images/wallpapers/lion-720x1280-roaring-4k-17115.jpg' alt='Lion Wallpaper (Roaring, Fierce) #17115'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersHome" />
+                                </span>
+                                <a href='https://wallpapershome.com/images/wallpapers/lion-720x1280-roaring-4k-17115.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,000+ Best Lion Photos · 100% Free Download · Pexels Stock Photos">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1912176/pexels-photo-1912176.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' alt='4,000+ Best Lion Photos · 100% Free Download · Pexels Stock Photos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="749">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1912176/pexels-photo-1912176.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lion King 4K iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f9/c0/2c/f9c02ce7bc81324220ee2bdb1e48e4ab.jpg' alt='Lion King 4K iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f9/c0/2c/f9c02ce7bc81324220ee2bdb1e48e4ab.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lion Wallpapers (103 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/4/b/b/23339-1080x1920-samsung-full-hd-lion-background-photo.jpg' alt='Lion Wallpapers (103 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/4/b/b/23339-1080x1920-samsung-full-hd-lion-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD black lion wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/1009/274/HD-wallpaper-lion-black-face-king-lions-thumbnail.jpg' alt='HD black lion wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="507">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/1009/274/HD-wallpaper-lion-black-face-king-lions-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IPHONE WALLPAPER 4K - LION - Heroscreen | Free image stock ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2b6rZEi-Gh_nrUEX3pCFHKARRr6p2Y3z8g6ZUsKGkV3fUODciP-b3MD3QYySIoSEeLP60fLbJRn7tXIyHVwPG5SFZVuaVRjosAC0_mGyowVC_jC1hSQXYuj48xRBhe0uEphl6KlyhzPaHPr8I5LdJGWE0yn2RqM_L5DIuiSA8nGSLGVU77EPEMaVXvw/s1266-rw/iphone-wallpaper-4k-lion-1.webp' alt='IPHONE WALLPAPER 4K - LION - Heroscreen | Free image stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="585">
+                                <meta itemprop="height" content="1266">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2b6rZEi-Gh_nrUEX3pCFHKARRr6p2Y3z8g6ZUsKGkV3fUODciP-b3MD3QYySIoSEeLP60fLbJRn7tXIyHVwPG5SFZVuaVRjosAC0_mGyowVC_jC1hSQXYuj48xRBhe0uEphl6KlyhzPaHPr8I5LdJGWE0yn2RqM_L5DIuiSA8nGSLGVU77EPEMaVXvw/s1266-rw/iphone-wallpaper-4k-lion-1.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

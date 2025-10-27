@@ -1,0 +1,129 @@
+<title>Explore Stunning Minecraft Stone Backgrounds</title>
+                    <meta name="description" content="Discover the beauty of Minecraft stone backgrounds! Learn how to incorporate various stone styles into your builds for an immersive gaming experience. Perfect for players looking to enhance their creativity and design unique structures in the game. Dive into the world of Minecraft stone aesthetics today!">
+                    <meta name="keywords" content="minecraft stone background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/minecraft-stone-background">
+                            <span itemprop="name">minecraft stone background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore Stunning Minecraft Stone Backgrounds</h1>
+                <p>In Minecraft, stone backgrounds are essential for creating immersive environments. They provide a natural, rugged aesthetic that enhances gameplay. Players often use stone blocks to construct homes, caves, and other structures, allowing for creative and unique designs. Experiment with different stone types to elevate your builds!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minecraft Stone Brick Simple Texture Wallpaper by elbarnzo on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d1fa0f80-33c1-4516-8baa-90fb67ed2269/d82j2kd-4bd6de45-7b91-462a-890a-c99485b163dd.jpg/v1/fill/w_1024,h_576,q_75,strp/minecraft_stone_brick_simple_texture_wallpaper_by_elbarnzo_d82j2kd-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvZDFmYTBmODAtMzNjMS00NTE2LThiYWEtOTBmYjY3ZWQyMjY5XC9kODJqMmtkLTRiZDZkZTQ1LTdiOTEtNDYyYS04OTBhLWM5OTQ4NWIxNjNkZC5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19._DX46Z-fJNwSOoDK3d50K2pnMiBlgbHvqptlkSJQHw4' alt='Minecraft Stone Brick Simple Texture Wallpaper by elbarnzo on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d1fa0f80-33c1-4516-8baa-90fb67ed2269/d82j2kd-4bd6de45-7b91-462a-890a-c99485b163dd.jpg/v1/fill/w_1024,h_576,q_75,strp/minecraft_stone_brick_simple_texture_wallpaper_by_elbarnzo_d82j2kd-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvZDFmYTBmODAtMzNjMS00NTE2LThiYWEtOTBmYjY3ZWQyMjY5XC9kODJqMmtkLTRiZDZkZTQ1LTdiOTEtNDYyYS04OTBhLWM5OTQ4NWIxNjNkZC5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19._DX46Z-fJNwSOoDK3d50K2pnMiBlgbHvqptlkSJQHw4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stone wallpaper : r/Minecraft">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/RPKgF1z09o4vYX54Fg9v5jVw_v23XR0c6V-ldpct14I.jpg?auto=webp&s=43c3321ecda4d0317eaaf5ff1731b126e67a6e34' alt='Stone wallpaper : r/Minecraft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1131">
+                                <meta itemprop="height" content="707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/RPKgF1z09o4vYX54Fg9v5jVw_v23XR0c6V-ldpct14I.jpg?auto=webp&s=43c3321ecda4d0317eaaf5ff1731b126e67a6e34' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Wallpaper: Minecraft Textures">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/963/96345.jpg' alt='HD Wallpaper: Minecraft Textures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/963/96345.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minecraft stone wall, game minecraft, gris, stone, wall, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/69/746/HD-wallpaper-minecraft-stone-wall-game-minecraft-grey-stone-wall.jpg' alt='Minecraft stone wall, game minecraft, gris, stone, wall, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/69/746/HD-wallpaper-minecraft-stone-wall-game-minecraft-grey-stone-wall.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cobblestone wallpaper : r/Minecraft">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/PDHtikk6fYr6k5e9KlBvY86U9zsKHOdd6kaLPdwGao8.jpg?auto=webp&s=bd417c38eb83f15090a78218b546894a12d9d6b5' alt='Cobblestone wallpaper : r/Minecraft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="641">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/PDHtikk6fYr6k5e9KlBvY86U9zsKHOdd6kaLPdwGao8.jpg?auto=webp&s=bd417c38eb83f15090a78218b546894a12d9d6b5' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grey Stone Minecraft Pattern Royalty-Free Stock Image - Storyblocks">
+                                <img itemprop="contentUrl url" src='https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/image/rDtN98Qoishumwih/minecraftpattern-03-091815-742_thumb.jpg' alt='Grey Stone Minecraft Pattern Royalty-Free Stock Image - Storyblocks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Storyblocks" />
+                                </span>
+                                <a href='https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/image/rDtN98Qoishumwih/minecraftpattern-03-091815-742_thumb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The new stone variations are beautiful (also possible wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/rWYjLXdWNHdOleM4vxivjDjw5N0kjtQfifMGWpI2-O8.png?auto=webp&s=4c3a1d655755a6402d304298074ad067dc6ca8b4' alt='The new stone variations are beautiful (also possible wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="706">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/rWYjLXdWNHdOleM4vxivjDjw5N0kjtQfifMGWpI2-O8.png?auto=webp&s=4c3a1d655755a6402d304298074ad067dc6ca8b4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minecraft Cobblestone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/e5/7c/84/e57c847e0ac2238b7964f1b3f61c984c.jpg' alt='Minecraft Cobblestone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="542">
+                                <meta itemprop="height" content="811">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/e5/7c/84/e57c847e0ac2238b7964f1b3f61c984c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stone - Wallpaper 1440x900 image - Minecraft Community - ModDB">
+                                <img itemprop="contentUrl url" src='https://media.moddb.com/images/groups/1/5/4201/stone.jpg' alt='Stone - Wallpaper 1440x900 image - Minecraft Community - ModDB'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ModDB" />
+                                </span>
+                                <a href='https://media.moddb.com/images/groups/1/5/4201/stone.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minecraft Stone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp13375296.jpg' alt='Minecraft Stone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="661">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp13375296.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

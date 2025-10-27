@@ -1,0 +1,129 @@
+<title>Stunning "2 Broke Girls" Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore a variety of "2 Broke Girls" wallpapers to personalize your devices! Choose from fan-favorite moments and stunning art featuring Max and Caroline. Perfect for bringing a touch of humor and charm to your screens. Download your favorite designs and enjoy the fun every day!">
+                    <meta name="keywords" content="2 broke girls wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/girls">
+                            <span itemprop="name">Girls</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/girls/2-broke-girls-wallpaper">
+                            <span itemprop="name">2 broke girls wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning "2 Broke Girls" Wallpapers for Your Device</h1>
+                <p>Discover the best "2 Broke Girls" wallpaper featuring your favorite characters, Max and Caroline. Transform your device's background with vibrant images from the hit sitcom! Whether you prefer classic scenes or modern fan art, we have a wide selection to suit every fan's taste. Perfect for personalizing your phone or tablet!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Wallpaper of 2 Broke Girls Cast: Caroline, Max, and Friends">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/675/thumb-1920-675568.jpg' alt='HD Wallpaper of 2 Broke Girls Cast: Caroline, Max, and Friends'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/675/thumb-1920-675568.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2 Broke Girls HD Wallpaper: Max Black & Beth Behrs">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/675/675569.jpg' alt='2 Broke Girls HD Wallpaper: Max Black & Beth Behrs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/675/675569.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Wallpaper of Max Black and Caroline Channing from 2 Broke Girls">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/675/675571.jpg' alt='HD Wallpaper of Max Black and Caroline Channing from 2 Broke Girls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/675/675571.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2a/db/d9/2adbd9f9a6fc9b1803c48d3c9ddd3640.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2a/db/d9/2adbd9f9a6fc9b1803c48d3c9ddd3640.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper the series, Kat Dennings, 2 Broke Girls, Two broke girls ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/0/24/dve-devicy-na-meli-2-broke.webp' alt='Wallpaper the series, Kat Dennings, 2 Broke Girls, Two broke girls ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/0/24/dve-devicy-na-meli-2-broke.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download TV Show 2 Broke Girls Image">
+                                <img itemprop="contentUrl url" src='https://picfiles.alphacoders.com/349/349929.jpg' alt='Download TV Show 2 Broke Girls Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://picfiles.alphacoders.com/349/349929.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2 Broke Girls HD Wallpaper featuring Max Black and Beth Behrs">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/675/675574.jpg' alt='2 Broke Girls HD Wallpaper featuring Max Black and Beth Behrs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/675/675574.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2 Broke Girls - Season 1 wallpaper with Kat Dennings & Beth Behrs">
+                                <img itemprop="contentUrl url" src='https://cache.moviestillsdb.com/i/500x/9lyiytj8/2-broke-girls-lg.jpg' alt='2 Broke Girls - Season 1 wallpaper with Kat Dennings & Beth Behrs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MovieStillsDB.com" />
+                                </span>
+                                <a href='https://cache.moviestillsdb.com/i/500x/9lyiytj8/2-broke-girls-lg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2 Broke Girls HD Wallpaper Featuring Beth Behrs and Kat Dennings">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/614/614659.jpg' alt='2 Broke Girls HD Wallpaper Featuring Beth Behrs and Kat Dennings'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/614/614659.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2 Broke Girls Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp2126896.jpg' alt='2 Broke Girls Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp2126896.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

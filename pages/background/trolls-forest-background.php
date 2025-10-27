@@ -1,0 +1,129 @@
+<title>"Discover the Enchanted Trolls Forest: A Magical Adventure Awaits"</title>
+                    <meta name="description" content=""Explore the enchanting trolls forest, a realm of magic filled with whimsical paths, ancient trees, and playful guardians. Unveil the secrets hidden within this mystical landscape and experience an adventure like no other!"">
+                    <meta name="keywords" content="trolls forest background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/trolls-forest-background">
+                            <span itemprop="name">trolls forest background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Discover the Enchanted Trolls Forest: A Magical Adventure Awaits"</h1>
+                <p>In an enchanting trolls forest, mystical flora thrives under a canopy of ancient trees, their gnarled branches creating a natural maze. Sunlight dances through leaves, highlighting whimsical paths leading to hidden grottoes. The air is filled with the sounds of rustling leaves and distant giggles, echoing the playful essence of trolls, guardians of this magical realm.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Troll Forest | Trolls Trollpedia | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/trolls/images/d/de/IMG_20230413_202511.jpg/revision/latest/scale-to-width-down/1200?cb=20230413122537' alt='Troll Forest | Trolls Trollpedia | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Trolls Trollpedia - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/trolls/images/d/de/IMG_20230413_202511.jpg/revision/latest/scale-to-width-down/1200?cb=20230413122537' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Troll Forest | Trolls Trollpedia | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/trolls/images/7/7f/Flavour_berries.png/revision/latest/scale-to-width-down/1175?cb=20201121235440' alt='Troll Forest | Trolls Trollpedia | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1175">
+                                <meta itemprop="height" content="615">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Trolls Trollpedia - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/trolls/images/7/7f/Flavour_berries.png/revision/latest/scale-to-width-down/1175?cb=20201121235440' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7b/5d/c3/7b5dc30cb81e94cc7bbfb1881a8d62c5.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="501">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7b/5d/c3/7b5dc30cb81e94cc7bbfb1881a8d62c5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Troll Forest | Trolls Trollpedia | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/trolls/images/9/91/Screenshot_20200604-184310.jpg/revision/latest?cb=20200604180646' alt='Troll Forest | Trolls Trollpedia | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Trolls Trollpedia - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/trolls/images/9/91/Screenshot_20200604-184310.jpg/revision/latest?cb=20200604180646' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Troll Forest | Trolls Trollpedia | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/trolls/images/9/93/Screenshot_20200803-194518.jpg/revision/latest/scale-to-width-down/1920?cb=20200804215134' alt='Troll Forest | Trolls Trollpedia | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Trolls Trollpedia - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/trolls/images/9/93/Screenshot_20200803-194518.jpg/revision/latest/scale-to-width-down/1920?cb=20200804215134' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="52 Trolls scene ideas | concept art, troll, environment concept art">
+                                <img itemprop="contentUrl url" src='https://ae01.alicdn.com/kf/HTB1L_6DOFXXXXXHaXXXq6xXFXXX1/7x5FT-Good-Luck-font-b-Trolls-b-font-Green-Forest-Fruits-Custom-Photo-Studio-Backdrop-font.jpg' alt='52 Trolls scene ideas | concept art, troll, environment concept art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="678">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://ae01.alicdn.com/kf/HTB1L_6DOFXXXXXHaXXXq6xXFXXX1/7x5FT-Good-Luck-font-b-Trolls-b-font-Green-Forest-Fruits-Custom-Photo-Studio-Backdrop-font.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trolls Movie Royalty-Free Images, Stock Photos & Pictures ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/vibrant-colorful-backdrop-inspired-by-260nw-2502996749.jpg' alt='Trolls Movie Royalty-Free Images, Stock Photos & Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="462">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/vibrant-colorful-backdrop-inspired-by-260nw-2502996749.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Enchanting Trolls In Their Magical Forest | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/enchanting-trolls-in-their-magical-forest-wdyt50lqsmrqjczi.jpg' alt='Download Enchanting Trolls In Their Magical Forest | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1079">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/enchanting-trolls-in-their-magical-forest-wdyt50lqsmrqjczi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pop Village">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/19/63/12/196312686b92360efdef6353ec045df3.jpg' alt='Pop Village'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="312">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/19/63/12/196312686b92360efdef6353ec045df3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alexa Teplova - Trolls forest">
+                                <img itemprop="contentUrl url" src='https://cdna.artstation.com/p/assets/images/images/010/616/988/large/alexa-teplova-throlls2.jpg?1525346704' alt='Alexa Teplova - Trolls forest'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="998">
+                                <meta itemprop="height" content="548">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alexa Teplova" />
+                                </span>
+                                <a href='https://cdna.artstation.com/p/assets/images/images/010/616/988/large/alexa-teplova-throlls2.jpg?1525346704' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

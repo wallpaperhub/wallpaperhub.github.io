@@ -1,0 +1,129 @@
+<title>High-Quality Fish Clipart with Transparent Background</title>
+                    <meta name="description" content="Discover stunning fish clipart with a transparent background, perfect for designers and hobbyists alike. Enhance your creations effortlessly with versatile images that blend seamlessly into any project. Ideal for websites, presentations, and crafts. Dive into creativity today!">
+                    <meta name="keywords" content="fish clipart transparent background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fish-clipart-transparent-background">
+                            <span itemprop="name">fish clipart transparent background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>High-Quality Fish Clipart with Transparent Background</h1>
+                <p>Fish clipart with a transparent background is perfect for your creative projects! Ideal for presentations, websites, and crafts, these images provide flexibility in design while ensuring that they blend seamlessly into any background. Explore a variety of styles, colors, and sizes to suit all your artistic needs!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fish Clipart, Download Free Transparent PNG Format Clipart Images ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20190325/ourmid/pngtree-orange-hand-painted-fish-clipart-png-image_877927.jpg' alt='Fish Clipart, Download Free Transparent PNG Format Clipart Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20190325/ourmid/pngtree-orange-hand-painted-fish-clipart-png-image_877927.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fish cartoon icon png clipart 11458576 PNG">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/011/458/576/non_2x/fish-cartoon-icon-clipart-png.png' alt='Fish cartoon icon png clipart 11458576 PNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/011/458/576/non_2x/fish-cartoon-icon-clipart-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fish Clipart Images | Free Download | PNG Transparent Background ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20190325/ourmid/pngtree-yellow-cartoon-fish-clipart-png-image_877921.jpg' alt='Fish Clipart Images | Free Download | PNG Transparent Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20190325/ourmid/pngtree-yellow-cartoon-fish-clipart-png-image_877921.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Fish PNG Clipart Image - Best WEB Clipart">
+                                <img itemprop="contentUrl url" src='https://pics.clipartpng.com/Blue_Fish_PNG_Clipart_Image-425.png' alt='Blue Fish PNG Clipart Image - Best WEB Clipart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1680">
+                                <meta itemprop="height" content="1058">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ClipartPNG" />
+                                </span>
+                                <a href='https://pics.clipartpng.com/Blue_Fish_PNG_Clipart_Image-425.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fish clipart transparent 49029338 PNG">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/049/029/338/small_2x/fish-clipart-transparent-png.png' alt='Fish clipart transparent 49029338 PNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="478">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/049/029/338/small_2x/fish-clipart-transparent-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="High Resolution Fish Clipart PNG Transparent Background, Free ...">
+                                <img itemprop="contentUrl url" src='https://www.freeiconspng.com/uploads/fish-png-18.png' alt='High Resolution Fish Clipart PNG Transparent Background, Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3477">
+                                <meta itemprop="height" content="1292">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Icons PNG" />
+                                </span>
+                                <a href='https://www.freeiconspng.com/uploads/fish-png-18.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Fish PNG Clip Art - Best WEB Clipart">
+                                <img itemprop="contentUrl url" src='https://pics.clipartpng.com/Blue_Fish_PNG_Clip_Art-3019.png' alt='Blue Fish PNG Clip Art - Best WEB Clipart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="8000">
+                                <meta itemprop="height" content="5227">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ClipartPNG" />
+                                </span>
+                                <a href='https://pics.clipartpng.com/Blue_Fish_PNG_Clip_Art-3019.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fish Clipart Images – Browse 170,353 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/01/01/35/85/360_F_101358592_g9W3J4a9jdmVu0scgqaYq9fCqmKFLB6s.jpg' alt='Fish Clipart Images – Browse 170,353 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="560">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/01/01/35/85/360_F_101358592_g9W3J4a9jdmVu0scgqaYq9fCqmKFLB6s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fish Collection Clipart PNG Transparent Background, Free Download ...">
+                                <img itemprop="contentUrl url" src='https://www.freeiconspng.com/uploads/fish-png-7.png' alt='Fish Collection Clipart PNG Transparent Background, Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3526">
+                                <meta itemprop="height" content="2296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Icons PNG" />
+                                </span>
+                                <a href='https://www.freeiconspng.com/uploads/fish-png-7.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clownfish PNG Clipart - Best WEB Clipart">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/b2/7b/9d/b27b9d8030aba269ffa3b594077de5e9.jpg' alt='Clownfish PNG Clipart - Best WEB Clipart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="292">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/b2/7b/9d/b27b9d8030aba269ffa3b594077de5e9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

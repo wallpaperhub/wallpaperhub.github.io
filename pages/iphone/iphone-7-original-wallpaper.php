@@ -1,0 +1,129 @@
+<title>iPhone 7 Original Wallpaper: Stunning Designs for Your Device</title>
+                    <meta name="description" content="Explore the original iPhone 7 wallpaper that brings your device to life with vibrant colors and sleek aesthetics. Perfect for those looking to enhance their iPhone experience, this stunning image is both nostalgic and stylish. Download now to refresh your home screen with timeless elegance!">
+                    <meta name="keywords" content="iphone 7 original wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-7-original-wallpaper">
+                            <span itemprop="name">iphone 7 original wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>iPhone 7 Original Wallpaper: Stunning Designs for Your Device</h1>
+                <p>Discover the iconic iPhone 7 original wallpaper, featuring a stunning blend of vibrant colors and sleek design. This wallpaper perfectly complements the elegance of the iPhone 7, enhancing your device's interface. Whether you're looking for a fresh look or nostalgic charm, the original wallpaper is a timeless choice for any iPhone user.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="120 Best iPhone 7 wallpapers ideas | iphone 7 wallpapers, iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1d/f4/cf/1df4cf8adfde47f08bc57ff34cc98dae.jpg' alt='120 Best iPhone 7 wallpapers ideas | iphone 7 wallpapers, iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1d/f4/cf/1df4cf8adfde47f08bc57ff34cc98dae.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD iphone 7 wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/112/284/HD-wallpaper-ios-10-default-iphone-7-stock-water.jpg' alt='HD iphone 7 wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/112/284/HD-wallpaper-ios-10-default-iphone-7-stock-water.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here Are All Of The Wallpapers In The iOS 7 GM [Gallery] | Cult of Mac">
+                                <img itemprop="contentUrl url" src='https://www.cultofmac.com/wp-content/uploads/2013/09/1012xiphone.jpg' alt='Here Are All Of The Wallpapers In The iOS 7 GM [Gallery] | Cult of Mac'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="744">
+                                <meta itemprop="height" content="1392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cult of Mac" />
+                                </span>
+                                <a href='https://www.cultofmac.com/wp-content/uploads/2013/09/1012xiphone.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Original Iphone 7 Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/blue-and-red-fluid-original-iphone-7-ei5zjqv2j0wfsjwd.jpg' alt='100+] Original Iphone 7 Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="591">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/blue-and-red-fluid-original-iphone-7-ei5zjqv2j0wfsjwd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paint Splashes Original Iphone 7 Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/paint-splashes-original-iphone-7-4z2asmxwdcxd50tz.jpg' alt='Paint Splashes Original Iphone 7 Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/paint-splashes-original-iphone-7-4z2asmxwdcxd50tz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Opaque Blue Flower Original Iphone 7 Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/opaque-blue-flower-original-iphone-7-ehai4tx44eqadgmi.jpg' alt='Opaque Blue Flower Original Iphone 7 Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="864">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/opaque-blue-flower-original-iphone-7-ehai4tx44eqadgmi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Iphone 7 Original Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/iphone-7-original-background-g1rh3yvsienr0o52.jpg' alt='100+] Iphone 7 Original Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/iphone-7-original-background-g1rh3yvsienr0o52.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Official iPhone 7/Plus wallpaper | MacRumors Forums">
+                                <img itemprop="contentUrl url" src='https://forums.macrumors.com/proxy.php?image=http%3A%2F%2Ftechxat.com%2Fwp-content%2Fuploads%2F2016%2F09%2FiPhone-7-Wallpaper-5.jpg&hash=343f678db32bef217857ea5698636e05' alt='Official iPhone 7/Plus wallpaper | MacRumors Forums'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MacRumors Forums" />
+                                </span>
+                                <a href='https://forums.macrumors.com/proxy.php?image=http%3A%2F%2Ftechxat.com%2Fwp-content%2Fuploads%2F2016%2F09%2FiPhone-7-Wallpaper-5.jpg&hash=343f678db32bef217857ea5698636e05' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 7 LIVE Wallpaper – Ink Light Blue – Official iOS 10 Stock ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2018/04/iSpazio-88-473x1024.jpg' alt='iPhone 7 LIVE Wallpaper – Ink Light Blue – Official iOS 10 Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="473">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Central - iSpazio" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2018/04/iSpazio-88-473x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunset Iphone 7 Original Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/colorful-planet-iphone-7-original-zdu8svj6oergiz3e.webp' alt='Sunset Iphone 7 Original Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/colorful-planet-iphone-7-original-zdu8svj6oergiz3e.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

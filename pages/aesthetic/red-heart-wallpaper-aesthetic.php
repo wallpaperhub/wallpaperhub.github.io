@@ -1,0 +1,129 @@
+<title>Vibrant Red Heart Wallpaper Aesthetic for Your Device</title>
+                    <meta name="description" content="Discover a captivating selection of red heart wallpaper aesthetics. Perfect for adding a touch of love and warmth to your device, our collection features everything from sleek minimalism to detailed designs. Refresh your screen and express your style with these beautiful heart-themed wallpapers.">
+                    <meta name="keywords" content="red heart wallpaper aesthetic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/red-heart-wallpaper-aesthetic">
+                            <span itemprop="name">red heart wallpaper aesthetic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Red Heart Wallpaper Aesthetic for Your Device</h1>
+                <p>Transform your device with a stunning collection of red heart wallpaper aesthetics. This vibrant theme offers an array of designs, from minimalist hearts to elaborate patterns, each radiating love and passion. Perfect for celebrating romance or simply adding a touch of warmth to your screen. Embrace elegance with these heart-themed wallpapers!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="red heart wallpaper | Retro wallpaper, Retro wallpaper iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2a/7b/51/2a7b518cd6fc82d2462f5149f3d8818a.jpg' alt='red heart wallpaper | Retro wallpaper, Retro wallpaper iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1147">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2a/7b/51/2a7b518cd6fc82d2462f5149f3d8818a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Lauren Vanessa Zink | Copywrit on Red in 2020 | Retro ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/26/c0/0c/26c00c23f8beb0f6d9b5499798adc1f2.jpg' alt='Pin by Lauren Vanessa Zink | Copywrit on Red in 2020 | Retro ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="1016">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/26/c0/0c/26c00c23f8beb0f6d9b5499798adc1f2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Iphone X Red Heart Icon Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/aesthetic-iphone-x-red-heart-icon-e4driirx13tvnm0c.jpg' alt='Aesthetic Iphone X Red Heart Icon Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="507">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/aesthetic-iphone-x-red-heart-icon-e4driirx13tvnm0c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bright Red Heart Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/bright-red-heart-aesthetic-44qfecgt841qxhwn.jpg' alt='Bright Red Heart Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/bright-red-heart-aesthetic-44qfecgt841qxhwn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Red and White Heart Pattern Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ed/60/d4/ed60d491c246f44309940a313e0f4160.jpg' alt='Cute Red and White Heart Pattern Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ed/60/d4/ed60d491c246f44309940a313e0f4160.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download a red heart shaped background with a red background ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/red-hearts-background-2160-x-3840-qc6ojvnljb80o75v.jpg' alt='Download a red heart shaped background with a red background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/red-hearts-background-2160-x-3840-qc6ojvnljb80o75v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red & black heart wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/72/00/97/720097aff1d7ead525eb66f0d093560d.jpg' alt='Red & black heart wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/72/00/97/720097aff1d7ead525eb66f0d093560d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable heart wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAF7k4rrUU8/1/0/900w/canva-phone-wallpapers-love-stories-h7SK3HeMCII.jpg' alt='Free and customizable heart wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAF7k4rrUU8/1/0/900w/canva-phone-wallpapers-love-stories-h7SK3HeMCII.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Aesthetic For Heart Iphone Display Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/red-aesthetic-for-heart-iphone-display-mo54fzu3ggepigjn.jpg' alt='Red Aesthetic For Heart Iphone Display Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/red-aesthetic-for-heart-iphone-display-mo54fzu3ggepigjn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cute Red Heart iPhone Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-red-iphone-tqqisgorpcir2a6u.jpg' alt='Download Cute Red Heart iPhone Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-red-iphone-tqqisgorpcir2a6u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

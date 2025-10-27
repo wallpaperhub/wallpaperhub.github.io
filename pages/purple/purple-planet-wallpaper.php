@@ -1,0 +1,129 @@
+<title>Exquisite Purple Planet Wallpaper for Your Screen</title>
+                    <meta name="description" content="Discover vibrant purple planet wallpaper to elevate your screen's aesthetic. Perfect for space enthusiasts and art lovers, these wallpapers bring a cosmic touch to your devices. Download now for a stunning backdrop that combines beauty and imagination in every pixel!">
+                    <meta name="keywords" content="purple planet wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/purple-planet-wallpaper">
+                            <span itemprop="name">purple planet wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exquisite Purple Planet Wallpaper for Your Screen</h1>
+                <p>Transform your device's appearance with stunning purple planet wallpaper! This cosmic design showcases the beauty of the universe, featuring vivid purples and deep space themes. Ideal for anyone wanting to add a touch of elegance and mystery to their screens, this wallpaper is a perfect blend of art and nature for your phone, tablet, or computer.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Heaven Space Planet Art 3D Full Wall Mural Photo Wallpaper Home Dec  Kids">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/2-EAAOSwBahU2ySi/s-l1200.jpg' alt='Purple Heaven Space Planet Art 3D Full Wall Mural Photo Wallpaper Home Dec  Kids'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/2-EAAOSwBahU2ySi/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Galaxy Iphone Purple Planet And A Rocky Ground Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/purple-galaxy-iphone-purple-planet-and-a-rocky-ground-feq8tbggf9k2ady2.jpg' alt='Purple Galaxy Iphone Purple Planet And A Rocky Ground Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1196">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/purple-galaxy-iphone-purple-planet-and-a-rocky-ground-feq8tbggf9k2ady2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Planet Desktop Background">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/download/hd-wallpapers/purple-planet-3840x2160.jpg' alt='Purple Planet Desktop Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/download/hd-wallpapers/purple-planet-3840x2160.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1080x2160 Planet purple, space, fantasy, art wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/66/64/c1/6664c1997c0058e0442f762e5421cbd5.jpg' alt='1080x2160 Planet purple, space, fantasy, art wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/66/64/c1/6664c1997c0058e0442f762e5421cbd5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Purple Planets And Universe Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/af/66/81/af66816ac60aec1d5bc15e8682b10c1c.jpg' alt='Download Purple Planets And Universe Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/af/66/81/af66816ac60aec1d5bc15e8682b10c1c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Galaxy Planet And Astronaut Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/purple-galaxy-planet-and-astronaut-iphone-6adutoo2figbhjn9.jpg' alt='Purple Galaxy Planet And Astronaut Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="489">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/purple-galaxy-planet-and-astronaut-iphone-6adutoo2figbhjn9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="24,812 Purple Planet Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/mesmerizing-purple-planet-rising-above-ocean-dusk-casting-magical-glow-over-tranquil-water-clouds-striking-sight-345799492.jpg' alt='24,812 Purple Planet Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="503">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/mesmerizing-purple-planet-rising-above-ocean-dusk-casting-magical-glow-over-tranquil-water-clouds-striking-sight-345799492.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alien World Purple Planet 3D Full Wall Mural Photo Wallpaper Home Decal Dec  Kids">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/4C4AAOSw0e9Ux20F/s-l1200.jpg' alt='Alien World Purple Planet 3D Full Wall Mural Photo Wallpaper Home Decal Dec  Kids'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/4C4AAOSw0e9Ux20F/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue and purple planet wallpaper - Fantasy wallpapers - #24763">
+                                <img itemprop="contentUrl url" src='https://cdn.suwalls.com/wallpapers/fantasy/blue-and-purple-planet-24763-2880x1800.jpg' alt='Blue and purple planet wallpaper - Fantasy wallpapers - #24763'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SUWalls Desktop Wallpapers" />
+                                </span>
+                                <a href='https://cdn.suwalls.com/wallpapers/fantasy/blue-and-purple-planet-24763-2880x1800.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PURPLE-PLANET - Galaxies & Space Background Wallpapers on Desktop ...">
+                                <img itemprop="contentUrl url" src='https://cache.desktopnexus.com/thumbseg/132/132521-bigthumbnail.jpg' alt='PURPLE-PLANET - Galaxies & Space Background Wallpapers on Desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="311">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Space Wallpapers and Backgrounds - Desktop Nexus" />
+                                </span>
+                                <a href='https://cache.desktopnexus.com/thumbseg/132/132521-bigthumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Kobe Bryant 4K iPhone Wallpapers: Iconic & Stunning</title>
+                    <meta name="description" content="Discover high-quality 4K Kobe Bryant wallpapers for your iPhone. Elevate your device's look with stunning images that celebrate the legendary basketball star. Perfect for fans seeking to showcase their admiration for Kobe in vibrant detail. Download now and express your love for the Mamba!">
+                    <meta name="keywords" content="kobe wallpaper 4k iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/kobe-wallpaper-4k-iphone">
+                            <span itemprop="name">kobe wallpaper 4k iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Kobe Bryant 4K iPhone Wallpapers: Iconic & Stunning</h1>
+                <p>Kobe wallpaper in stunning 4K resolution is perfect for your iPhone, bringing legendary moments of the basketball icon to your screen. Choose from a variety of images capturing his iconic plays, fierce spirit, and vivid colors. Upgrade your device with breathtaking visuals that celebrate the greatness of Kobe Bryant.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kobe iPhone Wallpapers - Top Free Kobe iPhone Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/13/b6/52/13b652b711bb0f753dea0a37ce1204ee.jpg' alt='Kobe iPhone Wallpapers - Top Free Kobe iPhone Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/13/b6/52/13b652b711bb0f753dea0a37ce1204ee.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Kobe Bryant iPhone Wallpapers on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e2/21/a5/e221a5fe2cf6d5344162a2bfc5ba1621.jpg' alt='   Kobe Bryant iPhone Wallpapers on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e2/21/a5/e221a5fe2cf6d5344162a2bfc5ba1621.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Kobe Bryant Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/kobe-bryant-iphone-3q9wqgsbdv7wftnl.jpg' alt='100+] Kobe Bryant Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/kobe-bryant-iphone-3q9wqgsbdv7wftnl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="For Kobe">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2f/15/4c/2f154cab1c7738ca1ef65e5da512a52c.jpg' alt='For Kobe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2f/15/4c/2f154cab1c7738ca1ef65e5da512a52c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kobe iPhone HD Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11220203.jpg' alt='Kobe iPhone HD Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11220203.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Dunking Kobe Bryant iPhone Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/kobe-bryant-iphone-jeqzrrwwjs5xh76i.jpg' alt='Download Dunking Kobe Bryant iPhone Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/kobe-bryant-iphone-jeqzrrwwjs5xh76i.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kobe Bryant, basketball, championship, lakers, playoffs, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/743/552/HD-wallpaper-kobe-bryant-basketball-championship-lakers-playoffs.jpg' alt='Kobe Bryant, basketball, championship, lakers, playoffs, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1229">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/743/552/HD-wallpaper-kobe-bryant-basketball-championship-lakers-playoffs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kobe Bryant Wallpaper for iPhone and Android">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ea/a5/7c/eaa57c9805f16eed9c4cf0e5bfb1a0a5.jpg' alt='Kobe Bryant Wallpaper for iPhone and Android'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ea/a5/7c/eaa57c9805f16eed9c4cf0e5bfb1a0a5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kobe Bryant Wallpaper : r/iWallpaper">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/wrzoc9s6f7q21.jpg' alt='Kobe Bryant Wallpaper : r/iWallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/wrzoc9s6f7q21.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tadic on X: "4K #Wallpapers | Kobe Bryant . https://t.co ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/EZieQOgXgAUpm2a?format=jpg&name=4096x4096' alt='Tadic on X: "4K #Wallpapers | Kobe Bryant . https://t.co ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/EZieQOgXgAUpm2a?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

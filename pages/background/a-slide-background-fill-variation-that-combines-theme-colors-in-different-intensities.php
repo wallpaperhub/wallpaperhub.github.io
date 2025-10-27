@@ -1,0 +1,129 @@
+<title>Dynamic Slide Backgrounds: Blending Theme Colors</title>
+                    <meta name="description" content="Discover how to enhance your presentations with creative slide background fills that combine theme colors in various intensities for a visually stunning effect. Engage your audience and elevate your content with this innovative design approach!">
+                    <meta name="keywords" content="a slide background fill variation that combines theme colors in different intensities.">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/a-slide-background-fill-variation-that-combines-theme-colors-in-different-intensities">
+                            <span itemprop="name">a slide background fill variation that combines theme colors in different intensities.</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dynamic Slide Backgrounds: Blending Theme Colors</h1>
+                <p>Explore the dynamic possibilities of slide background fills that merge theme colors in varying intensities. This approach enhances your presentation's visual appeal, allowing for a harmonious blend that can engage viewers. By using lighter and darker shades of your theme colors, you create depth and interest, making your content more impactful.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solved 1) Match each term in the second column with its | Chegg.com">
+                                <img itemprop="contentUrl url" src='https://media.cheggcdn.com/study/b57/b57bf541-e3f6-47ed-851f-b97174d36378/image' alt='Solved 1) Match each term in the second column with its | Chegg.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="516">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chegg" />
+                                </span>
+                                <a href='https://media.cheggcdn.com/study/b57/b57bf541-e3f6-47ed-851f-b97174d36378/image' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Add Gradient Fills to Shapes in PowerPoint 2013 for Windows">
+                                <img itemprop="contentUrl url" src='https://www.indezine.com/products/powerpoint/learn/fillslinesandeffects/images/shapesgradientfill2013-01.jpg' alt='Add Gradient Fills to Shapes in PowerPoint 2013 for Windows'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="414">
+                                <meta itemprop="height" content="689">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Indezine" />
+                                </span>
+                                <a href='https://www.indezine.com/products/powerpoint/learn/fillslinesandeffects/images/shapesgradientfill2013-01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gradient Fills for Slide Backgrounds in PowerPoint 2016 for Windows">
+                                <img itemprop="contentUrl url" src='https://img.indezine.com/v7/www.indezine.com/products/powerpoint/learn/fillslinesandeffects/images/addgradientfillback2013-04.jpg?w=550' alt='Gradient Fills for Slide Backgrounds in PowerPoint 2016 for Windows'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="266">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Indezine" />
+                                </span>
+                                <a href='https://img.indezine.com/v7/www.indezine.com/products/powerpoint/learn/fillslinesandeffects/images/addgradientfillback2013-04.jpg?w=550' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to change theme colors in PowerPoint | BrightCarbon">
+                                <img itemprop="contentUrl url" src='https://www.brightcarbon.com/wp/wp-content/uploads/2018/05/Screenshot-2021-08-26-at-13.44.26-e1629994456907.png' alt='How to change theme colors in PowerPoint | BrightCarbon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3360">
+                                <meta itemprop="height" content="1965">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BrightCarbon" />
+                                </span>
+                                <a href='https://www.brightcarbon.com/wp/wp-content/uploads/2018/05/Screenshot-2021-08-26-at-13.44.26-e1629994456907.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Turn PowerPoint gradient fills into solid Color Stripes.">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Kk39JwekTC0/maxresdefault.jpg' alt='Turn PowerPoint gradient fills into solid Color Stripes.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Kk39JwekTC0/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PowerPoint Chapter 3: End-of-Chapter Quiz Flashcards | Quizlet">
+                                <img itemprop="contentUrl url" src='https://o.quizlet.com/M0.BjcMLhFzB7qunvZXunQ.png' alt='PowerPoint Chapter 3: End-of-Chapter Quiz Flashcards | Quizlet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="258">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Quizlet" />
+                                </span>
+                                <a href='https://o.quizlet.com/M0.BjcMLhFzB7qunvZXunQ.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Apply a Different Theme Color and Background in PowerPoint">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/J60Ikgeo0YI/sddefault.jpg' alt='How to Apply a Different Theme Color and Background in PowerPoint'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/J60Ikgeo0YI/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Add Gradient Fills to Shapes in PowerPoint 2016 for Mac">
+                                <img itemprop="contentUrl url" src='https://blog.indezine.com/wp-content/uploads/2019/01/add-gradient-fills-to-shapes-ppt2016-mac-2.png' alt='Add Gradient Fills to Shapes in PowerPoint 2016 for Mac'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="449">
+                                <meta itemprop="height" content="729">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PowerPoint and Presenting Stuff - - Indezine" />
+                                </span>
+                                <a href='https://blog.indezine.com/wp-content/uploads/2019/01/add-gradient-fills-to-shapes-ppt2016-mac-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Blend 2 Different Gradient Patterns in PowerPoint">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/QEH9nOUxmVE/maxresdefault.jpg' alt='How to Blend 2 Different Gradient Patterns in PowerPoint'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/QEH9nOUxmVE/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PowerPoint Tutorial: How To Use A Color Scheme In Presentation Design">
+                                <img itemprop="contentUrl url" src='https://ethos3.com/wp-content/uploads/2017/11/Screen-Shot-2017-11-14-at-8.31.41-PM.png' alt='PowerPoint Tutorial: How To Use A Color Scheme In Presentation Design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="424">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ethos3" />
+                                </span>
+                                <a href='https://ethos3.com/wp-content/uploads/2017/11/Screen-Shot-2017-11-14-at-8.31.41-PM.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

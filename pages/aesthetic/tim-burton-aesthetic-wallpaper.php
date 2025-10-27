@@ -1,0 +1,129 @@
+<title>Tim Burton Aesthetic Wallpaper: Whimsical & Gothic Designs</title>
+                    <meta name="description" content="Discover unique Tim Burton aesthetic wallpaper that combines whimsical charm with gothic elements. Perfect for fans of his iconic films, these wallpapers transform your space into an imaginative escape. Shop now for designs that captivate and inspire!">
+                    <meta name="keywords" content="tim burton aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/tim-burton-aesthetic-wallpaper">
+                            <span itemprop="name">tim burton aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Tim Burton Aesthetic Wallpaper: Whimsical & Gothic Designs</h1>
+                <p>Tim Burton aesthetic wallpaper captures the whimsical and often dark essence of his films. Featuring bold, contrasting colors, gothic elements, and quirky characters, these wallpapers transform your space into a realm of fantasy. Perfect for fans of the macabre and the magical, they bring an imaginative touch to any room.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tim Burton Wallpaper Aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/31/a7/57/31a7571200feaa41c2b6bf38f9480182.jpg' alt='Tim Burton Wallpaper Aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/31/a7/57/31a7571200feaa41c2b6bf38f9480182.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/45/8d/09/458d094655783fecc10ddb487e4c7f3d.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="680">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/45/8d/09/458d094655783fecc10ddb487e4c7f3d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900+ Tim Burton ideas | tim burton, burton, tim burton movie">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/40/8d/16/408d16b7a0ee04ad923cbf44e057dfea.jpg' alt='900+ Tim Burton ideas | tim burton, burton, tim burton movie'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/40/8d/16/408d16b7a0ee04ad923cbf44e057dfea.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin de Coraline Coraline en Обои | Pósteres vintage, Fondos de ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/99/a6/5c/99a65c493cf93f9a6bd2419580eb0149.jpg' alt='Pin de Coraline Coraline en Обои | Pósteres vintage, Fondos de ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/99/a6/5c/99a65c493cf93f9a6bd2419580eb0149.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tim Burton, beetlejuice, burton, corpsebride, edward scissorhands ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/559/503/HD-wallpaper-tim-burton-beetlejuice-burton-corpsebride-edward-scissorhands-frankenweinie-movie-nightmare-timburton.jpg' alt='Tim Burton, beetlejuice, burton, corpsebride, edward scissorhands ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1193">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/559/503/HD-wallpaper-tim-burton-beetlejuice-burton-corpsebride-edward-scissorhands-frankenweinie-movie-nightmare-timburton.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vincent Wallpaper by RavenxCorpse on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a9635b91-8e53-40b5-915e-66a96f181e09/d19j67k-bdb63215-63c2-4df0-84f2-d838223d92e2.jpg/v1/fill/w_1024,h_768,q_75,strp/vincent_wallpaper_by_ravenxcorpse_d19j67k-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzY4IiwicGF0aCI6IlwvZlwvYTk2MzViOTEtOGU1My00MGI1LTkxNWUtNjZhOTZmMTgxZTA5XC9kMTlqNjdrLWJkYjYzMjE1LTYzYzItNGRmMC04NGYyLWQ4MzgyMjNkOTJlMi5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.q29ispvTwzym6nPCVhXMebmgbfHuG9181Plg5iBvIQ0' alt='Vincent Wallpaper by RavenxCorpse on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a9635b91-8e53-40b5-915e-66a96f181e09/d19j67k-bdb63215-63c2-4df0-84f2-d838223d92e2.jpg/v1/fill/w_1024,h_768,q_75,strp/vincent_wallpaper_by_ravenxcorpse_d19j67k-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzY4IiwicGF0aCI6IlwvZlwvYTk2MzViOTEtOGU1My00MGI1LTkxNWUtNjZhOTZmMTgxZTA5XC9kMTlqNjdrLWJkYjYzMjE1LTYzYzItNGRmMC04NGYyLWQ4MzgyMjNkOTJlMi5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.q29ispvTwzym6nPCVhXMebmgbfHuG9181Plg5iBvIQ0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD tim burton wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/978/64/HD-wallpaper-coraline-tim-burton-thumbnail.jpg' alt='HD tim burton wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="602">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/978/64/HD-wallpaper-coraline-tim-burton-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="29 Tim Burton stuff ideas | tim burton, tim burton art, tim burton ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/fa/24/13/fa2413daa2cefd6454ab007c2e585b33.jpg' alt='29 Tim Burton stuff ideas | tim burton, tim burton art, tim burton ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/fa/24/13/fa2413daa2cefd6454ab007c2e585b33.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tim Burton Corpse Bride Poster Set / Corpse Bride Posters / Tim Burton  Aesthetic / Halloween / Corpse Bride Aesthetic / Corpse Bride Decor - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/33315918/r/il/49a93e/4215131609/il_1080xN.4215131609_4fbs.jpg' alt='Tim Burton Corpse Bride Poster Set / Corpse Bride Posters / Tim Burton  Aesthetic / Halloween / Corpse Bride Aesthetic / Corpse Bride Decor - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="608">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/33315918/r/il/49a93e/4215131609/il_1080xN.4215131609_4fbs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Intriguing Edward Scissorhands - A Tim Burton Classic ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/the-intriguing-edward-scissorhands-a-tim-burton-classic-8dcc66bf91ycilq7.jpg' alt='The Intriguing Edward Scissorhands - A Tim Burton Classic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/the-intriguing-edward-scissorhands-a-tim-burton-classic-8dcc66bf91ycilq7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

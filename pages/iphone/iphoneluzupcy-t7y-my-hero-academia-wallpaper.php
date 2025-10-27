@@ -1,0 +1,129 @@
+<title>My Hero Academia Wallpapers for iPhone</title>
+                    <meta name="description" content="Discover the best My Hero Academia wallpapers for your iPhone! Personalize your device with eye-catching designs featuring your favorite characters. Perfect for fans who want to showcase their love for the series in style. Download now and bring your screen to life!">
+                    <meta name="keywords" content="iphone:luzupcy-t7y= my hero academia wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphoneluzupcy-t7y-my-hero-academia-wallpaper">
+                            <span itemprop="name">iphone:luzupcy-t7y= my hero academia wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>My Hero Academia Wallpapers for iPhone</h1>
+                <p>Elevate your iPhone's aesthetic with stunning My Hero Academia wallpapers! Fans of the beloved anime can now showcase their favorite characters and epic moments through vibrant designs that express their fandom. Access a variety of styles that fit every personality. Transform your device and display your heroic spirit today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] My Hero Academia Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/my-hero-academia-iphone-2ejhurzsifkwgf8a.jpg' alt='200+] My Hero Academia Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/my-hero-academia-iphone-2ejhurzsifkwgf8a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] My Hero Academia Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/4k-anime-iphone-my-hero-academia-9wa049nxu078yste.jpg' alt='200+] My Hero Academia Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1501">
+                                <meta itemprop="height" content="3250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/4k-anime-iphone-my-hero-academia-9wa049nxu078yste.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I tried to make the textless MHA Season 7 key visual into an ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/i-tried-to-make-the-textless-mha-season-7-key-visual-into-v0-bkkr0nvt1l7c1.jpg?width=1080&crop=smart&auto=webp&s=a4ca85ef55eab0781c12efd2059048631c3daf9e' alt='I tried to make the textless MHA Season 7 key visual into an ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2343">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/i-tried-to-make-the-textless-mha-season-7-key-visual-into-v0-bkkr0nvt1l7c1.jpg?width=1080&crop=smart&auto=webp&s=a4ca85ef55eab0781c12efd2059048631c3daf9e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] My Hero Academia Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/u-a-sports-festival-my-hero-academia-iphone-vrvjewn4mdz1xpy0.jpg' alt='200+] My Hero Academia Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/u-a-sports-festival-my-hero-academia-iphone-vrvjewn4mdz1xpy0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] My Hero Academia Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/my-hero-academia-phone-izuku-midoriya-wq3axy2yt3oalxjp.jpg' alt='200+] My Hero Academia Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1079">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/my-hero-academia-phone-izuku-midoriya-wq3axy2yt3oalxjp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] My Hero Academia Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/my-hero-academia-dekusquad-phone-t8oest4vvjhjcepm.jpg' alt='200+] My Hero Academia Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/my-hero-academia-dekusquad-phone-t8oest4vvjhjcepm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="boku no hero academia iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/71/fc/cd/71fccd4160eb1ac2f64059bbb903893e.jpg' alt='boku no hero academia iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/71/fc/cd/71fccd4160eb1ac2f64059bbb903893e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] My Hero Academia Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/deku-my-hero-academia-iphone-artwork-g5yg48baypkb11hf.jpg' alt='200+] My Hero Academia Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/deku-my-hero-academia-iphone-artwork-g5yg48baypkb11hf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My hero academia wallpaper by randomlol14 - Download on ZEDGE™ | 6b89">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/89/a7/e6/89a7e6be72ed57d0b14f86a4aea7eeee.jpg' alt='My hero academia wallpaper by randomlol14 - Download on ZEDGE™ | 6b89'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/89/a7/e6/89a7e6be72ed57d0b14f86a4aea7eeee.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] My Hero Academia Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/katsuki-bakugo-my-hero-academia-iphone-hinkoepkef4nkqt2.jpg' alt='200+] My Hero Academia Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/katsuki-bakugo-my-hero-academia-iphone-hinkoepkef4nkqt2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

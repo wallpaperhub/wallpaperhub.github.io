@@ -1,0 +1,129 @@
+<title>Elevate Your Space with Black and Gold Wallpaper</title>
+                    <meta name="description" content="Transform your interiors with stunning black and gold wallpaper. This stylish option combines luxury and elegance, making it perfect for any modern living space. Create an inviting ambiance and a unique statement with this fashionable decor choice. Perfect for accent walls or full room makeovers!">
+                    <meta name="keywords" content="black and gold wallpaper for walls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/black-and-gold-wallpaper-for-walls">
+                            <span itemprop="name">black and gold wallpaper for walls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Space with Black and Gold Wallpaper</h1>
+                <p>Black and gold wallpaper adds a touch of elegance and sophistication to any room. The striking contrast between the deep black backdrop and shimmering gold accents creates a luxurious atmosphere, perfect for accent walls or entire rooms. Ideal for modern, art deco, or glam styles, this wallpaper choice elevates your decor to new heights.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and Gold Wallpaper Abstract Wall Mural Geometric Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/23444619/r/il/42a045/5308738507/il_fullxfull.5308738507_4nkz.jpg' alt='Black and Gold Wallpaper Abstract Wall Mural Geometric Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2208">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/23444619/r/il/42a045/5308738507/il_fullxfull.5308738507_4nkz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Black and Gold Wallpaper | Pattern Wall Mural | Peel and ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/22886966/r/il/81271b/4018879368/il_fullxfull.4018879368_c10n.jpg' alt='Abstract Black and Gold Wallpaper | Pattern Wall Mural | Peel and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/22886966/r/il/81271b/4018879368/il_fullxfull.4018879368_c10n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fiula Gold and Black Wallpaper Black Golden Delicate Leaves Peel and Stick  Wallpaper 17.3”×78.7” Black Wallpaper Decorative Shelf Drawer Liner Roll ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81cHz9w-ODL.jpg' alt='Fiula Gold and Black Wallpaper Black Golden Delicate Leaves Peel and Stick  Wallpaper 17.3”×78.7” Black Wallpaper Decorative Shelf Drawer Liner Roll ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81cHz9w-ODL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LiKiLiKi Black and Gold Wallpaper Modern Geometric Peel and Stick Wallpaper  17.3''×197'' Self Adhesive Boho Contact Paper Removable Decorative ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71Kiao+AVqL._AC_UF894,1000_QL80_.jpg' alt='LiKiLiKi Black and Gold Wallpaper Modern Geometric Peel and Stick Wallpaper  17.3''×197'' Self Adhesive Boho Contact Paper Removable Decorative ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71Kiao+AVqL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Palais Black & Gold Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-7psb023nit/images/stencil/original/products/1923/10592/112188_2__34380.1682002997.jpg' alt='Palais Black & Gold Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Graham & Brown" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-7psb023nit/images/stencil/original/products/1923/10592/112188_2__34380.1682002997.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3.12x2.19m Wall mural wallpaper black and gold marble bedroom ...">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/j-EAAOSwp8NiqzIw/s-l1200.jpg' alt='3.12x2.19m Wall mural wallpaper black and gold marble bedroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="888">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/j-EAAOSwp8NiqzIw/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black With Gold and White Marble Texture Wallpaper, Gold Cracks on ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/33610310/r/il/ce954e/3585787802/il_fullxfull.3585787802_tkj0.jpg' alt='Black With Gold and White Marble Texture Wallpaper, Gold Cracks on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/33610310/r/il/ce954e/3585787802/il_fullxfull.3585787802_tkj0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and Gold Mural Wallpaper | Various Black and Gold Leaf ...">
+                                <img itemprop="contentUrl url" src='https://wondermural.com/cdn/shop/files/PapierpeintnoiretorFeuillesdiversesdoreesetnoires559_700x700.jpg?v=1715281712' alt='Black and Gold Mural Wallpaper | Various Black and Gold Leaf ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WonderMural" />
+                                </span>
+                                <a href='https://wondermural.com/cdn/shop/files/PapierpeintnoiretorFeuillesdiversesdoreesetnoires559_700x700.jpg?v=1715281712' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and Gold Smooth">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/313643/pr22/1/1280/black-gold-smooth-black-marble-wallpaper.jpg' alt='Black and Gold Smooth'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="645">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/313643/pr22/1/1280/black-gold-smooth-black-marble-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and Gold Marble Patterned Wallpaper - Removable Self ...">
+                                <img itemprop="contentUrl url" src='https://muralium.com/wp-content/uploads/2023/03/1529-8-1024x662.jpg.webp' alt='Black and Gold Marble Patterned Wallpaper - Removable Self ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="662">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Muralium" />
+                                </span>
+                                <a href='https://muralium.com/wp-content/uploads/2023/03/1529-8-1024x662.jpg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

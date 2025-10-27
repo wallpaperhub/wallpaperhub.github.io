@@ -1,0 +1,129 @@
+<title>Stunning Home Decor Photos for Inspiring Spaces</title>
+                    <meta name="description" content="Discover a curated collection of home decor photos that inspire creativity and elevate your living space. From modern trends to classic designs, find ideas to personalize your home. Explore our gallery for stunning visuals that help you turn your house into a home.">
+                    <meta name="keywords" content="home decor photos">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/home-decor-photos">
+                            <span itemprop="name">home decor photos</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Home Decor Photos for Inspiring Spaces</h1>
+                <p>Home decor photos are a captivating way to showcase your personal style and inspire creativity in space design. Whether it's chic living rooms, cozy bedrooms, or vibrant kitchens, these images serve as a visual guide to transform any area. Explore various aesthetics and trends to create a harmonious home environment that reflects your personality.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60 Clever Home Decor Ideas That Designers Swear By">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/edc050124lavonne-extras-004-662810f9ae321.jpg?crop=0.7846938775510204xw:1xh;center,top&resize=1120:*' alt='60 Clever Home Decor Ideas That Designers Swear By'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="769">
+                                <meta itemprop="height" content="769">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ELLE Decor" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/edc050124lavonne-extras-004-662810f9ae321.jpg?crop=0.7846938775510204xw:1xh;center,top&resize=1120:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Extreme D.I.Y. for Home Decor - The New York Times">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2021/02/28/realestate/26diyextra-slide-EVOY/26diyextra-slide-EVOY-superJumbo.jpg' alt='Extreme D.I.Y. for Home Decor - The New York Times'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2021/02/28/realestate/26diyextra-slide-EVOY/26diyextra-slide-EVOY-superJumbo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="18 Living Room Décor Ideas to Create an Inviting, Functional Space">
+                                <img itemprop="contentUrl url" src='https://www.marthastewart.com/thmb/LaYmyiA1c-J0kvd0ERCL5-30ch4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/spanish-art-deco-home-tour-living-room-0120-2000-e206e51ef737424aaa6eab5f500f5b84.jpg' alt='18 Living Room Décor Ideas to Create an Inviting, Functional Space'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1019">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Martha Stewart" />
+                                </span>
+                                <a href='https://www.marthastewart.com/thmb/LaYmyiA1c-J0kvd0ERCL5-30ch4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/spanish-art-deco-home-tour-living-room-0120-2000-e206e51ef737424aaa6eab5f500f5b84.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Places to Find Cheap Home Decor, According to Pros">
+                                <img itemprop="contentUrl url" src='https://www.realsimple.com/thmb/TT9NZ4a30pmIkMWzIlHcEZJWnW4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/rs-home-1020hom-office-a7701595d1a145169d0e9e1d80dd4419.jpg' alt='30 Places to Find Cheap Home Decor, According to Pros'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Real Simple" />
+                                </span>
+                                <a href='https://www.realsimple.com/thmb/TT9NZ4a30pmIkMWzIlHcEZJWnW4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/rs-home-1020hom-office-a7701595d1a145169d0e9e1d80dd4419.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Home Decor Photos, Download The BEST Free Home Decor Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1099816/pexels-photo-1099816.jpeg?cs=srgb&dl=pexels-sammsara-luxury-modern-home-372468-1099816.jpg&fm=jpg' alt='Home Decor Photos, Download The BEST Free Home Decor Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5226">
+                                <meta itemprop="height" content="3665">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1099816/pexels-photo-1099816.jpeg?cs=srgb&dl=pexels-sammsara-luxury-modern-home-372468-1099816.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top 12 Minimalist Home Decor Ideas for a Simplified Look ...">
+                                <img itemprop="contentUrl url" src='https://www.decorilla.com/online-decorating/wp-content/uploads/2023/01/Minimalist-home-decor-The-Spruce.jpg' alt='Top 12 Minimalist Home Decor Ideas for a Simplified Look ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Decorilla" />
+                                </span>
+                                <a href='https://www.decorilla.com/online-decorating/wp-content/uploads/2023/01/Minimalist-home-decor-The-Spruce.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Home Decor Photos, Download The BEST Free Home Decor Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/2343468/pexels-photo-2343468.jpeg?cs=srgb&dl=pexels-alex-qian-1180283-2343468.jpg&fm=jpg' alt='Home Decor Photos, Download The BEST Free Home Decor Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3639">
+                                <meta itemprop="height" content="5458">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/2343468/pexels-photo-2343468.jpeg?cs=srgb&dl=pexels-alex-qian-1180283-2343468.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxury Home Decor On A Budget | The Lovely Drawer">
+                                <img itemprop="contentUrl url" src='https://thelovelydrawer.com/wp-content/uploads/2021/06/Lottoland-feature-image-1.jpg' alt='Luxury Home Decor On A Budget | The Lovely Drawer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Lovely Drawer" />
+                                </span>
+                                <a href='https://thelovelydrawer.com/wp-content/uploads/2021/06/Lottoland-feature-image-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="32 Easy, Unexpected Living Room Decorating Ideas">
+                                <img itemprop="contentUrl url" src='https://www.realsimple.com/thmb/9DiU-GXicTQnnSU1_7SN1ZLlE_o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/dabito-living-room-7297f95db79240d095734d010681d23e.png' alt='32 Easy, Unexpected Living Room Decorating Ideas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Real Simple" />
+                                </span>
+                                <a href='https://www.realsimple.com/thmb/9DiU-GXicTQnnSU1_7SN1ZLlE_o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/dabito-living-room-7297f95db79240d095734d010681d23e.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25,651,000+ Home Decor Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1190440285/photo/eclectic-living-room-interior-with-comfortable-velvet-corner-sofa-with-pillows.jpg?s=612x612&w=0&k=20&c=T87OfLSfrChREiVaDLJA4LIM2qvrc7UaosmxH75RY98=' alt='25,651,000+ Home Decor Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1190440285/photo/eclectic-living-room-interior-with-comfortable-velvet-corner-sofa-with-pillows.jpg?s=612x612&w=0&k=20&c=T87OfLSfrChREiVaDLJA4LIM2qvrc7UaosmxH75RY98=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

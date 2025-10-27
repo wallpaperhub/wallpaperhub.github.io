@@ -1,0 +1,129 @@
+<title>Elon Musk: The Journey from Childhood to Tech Titan</title>
+                    <meta name="description" content="Explore the fascinating early life of Elon Musk, from his childhood in South Africa to his tech innovations in the U.S. Discover how his early interests shaped one of the most influential entrepreneurs of our time.">
+                    <meta name="keywords" content="elon musk early life">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/elon-musk-early-life">
+                            <span itemprop="name">elon musk early life</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elon Musk: The Journey from Childhood to Tech Titan</h1>
+                <p>Elon Musk was born on June 28, 1971, in Pretoria, South Africa. He showcased an early interest in technology, coding his first video game at age 12. After moving to Canada and later to the U.S., Musk co-founded Zip2, and his entrepreneurial journey began. His early life was marked by ambition, innovation, and a relentless pursuit of knowledge.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elon Musk Biography: Success Story of SpaceX CEO">
+                                <img itemprop="contentUrl url" src='https://vyapaarjagat.com/wp-content/uploads/2020/04/elon-muskelon-musk-1024x768.jpg' alt='Elon Musk Biography: Success Story of SpaceX CEO'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vyapaar Jagat" />
+                                </span>
+                                <a href='https://vyapaarjagat.com/wp-content/uploads/2020/04/elon-muskelon-musk-1024x768.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Before Tesla and SpaceX, Elon Musk was fired from PayPal and ...">
+                                <img itemprop="contentUrl url" src='https://cdn.i-scmp.com/sites/default/files/d8/images/methode/2020/10/27/c32324ac-11e5-11eb-88e1-abf0a3fa7ebf_image_hires_111455.jpg' alt='Before Tesla and SpaceX, Elon Musk was fired from PayPal and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="807">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="South China Morning Post" />
+                                </span>
+                                <a href='https://cdn.i-scmp.com/sites/default/files/d8/images/methode/2020/10/27/c32324ac-11e5-11eb-88e1-abf0a3fa7ebf_image_hires_111455.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elon Musk Biography: Investor, Engineer, and Inventor ...">
+                                <img itemprop="contentUrl url" src='https://roarbangla.com/wp-content/uploads/2017/04/321.jpg' alt='Elon Musk Biography: Investor, Engineer, and Inventor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="317">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biographics" />
+                                </span>
+                                <a href='https://roarbangla.com/wp-content/uploads/2017/04/321.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tesla CEO Elon Musk: Career, Life, and Companies Started ...">
+                                <img itemprop="contentUrl url" src='https://i.insider.com/614e1bd32fb46b0019be0950?width=800&format=jpeg&auto=webp' alt='Tesla CEO Elon Musk: Career, Life, and Companies Started ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business Insider" />
+                                </span>
+                                <a href='https://i.insider.com/614e1bd32fb46b0019be0950?width=800&format=jpeg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Elon Musk Got His Start in Silicon Valley - Air Mail">
+                                <img itemprop="contentUrl url" src='https://photos.airmail.news/jxwdcgbj07pdyi1tekti725l32s4-4ac75b603d1c17e5a9afaa413ba0920e.jpg' alt='How Elon Musk Got His Start in Silicon Valley - Air Mail'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="820">
+                                <meta itemprop="height" content="820">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Air Mail" />
+                                </span>
+                                <a href='https://photos.airmail.news/jxwdcgbj07pdyi1tekti725l32s4-4ac75b603d1c17e5a9afaa413ba0920e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who is Elon Musk? Full Biography - Personal Life, Family ...">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/D4D12AQG_7uRmjRKsvw/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1701720518839?e=1745452800&v=beta&t=pOSisxRTHdoX9d-CrsKWI2g18hfDmSi1QgFTfjTf3xQ' alt='Who is Elon Musk? Full Biography - Personal Life, Family ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1111">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/D4D12AQG_7uRmjRKsvw/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1701720518839?e=1745452800&v=beta&t=pOSisxRTHdoX9d-CrsKWI2g18hfDmSi1QgFTfjTf3xQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1998: Elon Musk on his early Silicon Valley days, future of the internet">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/zfwK5BvZrY4/maxresdefault.jpg' alt='1998: Elon Musk on his early Silicon Valley days, future of the internet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/zfwK5BvZrY4/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Opinion | Elon Musk's Savior Complex - The New York Times">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2023/09/22/opinion/21brooks/21brooks-articleLarge.jpg?quality=75&auto=webp&disable=upscale' alt='Opinion | Elon Musk's Savior Complex - The New York Times'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="649">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2023/09/22/opinion/21brooks/21brooks-articleLarge.jpg?quality=75&auto=webp&disable=upscale' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do You Remember When Elon Musk Made Video Games? – Little Bits of ...">
+                                <img itemprop="contentUrl url" src='https://littlebitsofgaming.com/wp-content/uploads/2024/02/elon-main-1.png?w=1024' alt='Do You Remember When Elon Musk Made Video Games? – Little Bits of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="575">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Little Bits of Gaming & Movies" />
+                                </span>
+                                <a href='https://littlebitsofgaming.com/wp-content/uploads/2024/02/elon-main-1.png?w=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elon Musk Biography - life, parents, name, story, history, wife ...">
+                                <img itemprop="contentUrl url" src='https://www.notablebiographies.com/news/images/unmk_0000_0006_0_img0098.jpg' alt='Elon Musk Biography - life, parents, name, story, history, wife ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="193">
+                                <meta itemprop="height" content="194">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Notable Biographies" />
+                                </span>
+                                <a href='https://www.notablebiographies.com/news/images/unmk_0000_0006_0_img0098.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

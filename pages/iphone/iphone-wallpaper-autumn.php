@@ -1,0 +1,129 @@
+<title>Stunning Autumn iPhone Wallpapers</title>
+                    <meta name="description" content="Discover the best autumn iPhone wallpapers that celebrate the season's beauty. From colorful foliage to serene landscapes, elevate your phone's aesthetic with our collection. Perfect for fall lovers seeking to embrace cozy vibes and captivating visuals every day!">
+                    <meta name="keywords" content="iphone wallpaper autumn">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-wallpaper-autumn">
+                            <span itemprop="name">iphone wallpaper autumn</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Autumn iPhone Wallpapers</h1>
+                <p>Enhance your iPhone with stunning autumn wallpapers that capture the essence of fall! From vibrant leaves to tranquil pumpkin patches, our curated selection brings the beauty of the season to your screen. Embrace cozy vibes and let the warm colors inspire you daily. Upgrade your phone's look with autumn's charm today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Fall iPhone Wallpapers | PS Tech">
+                                <img itemprop="contentUrl url" src='https://media1.popsugar-assets.com/files/thumbor/m6oZWbVUVuqcwp-M7sZnv0M29ro=/fit-in/792x1188/filters:format_auto():upscale()/2019/09/03/079/n/45222255/07671bb6edc8fb6b_fall-foliage-maple-trees-path-1477199.jpg' alt='50 Fall iPhone Wallpapers | PS Tech'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="792">
+                                <meta itemprop="height" content="1188">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Popsugar" />
+                                </span>
+                                <a href='https://media1.popsugar-assets.com/files/thumbor/m6oZWbVUVuqcwp-M7sZnv0M29ro=/fit-in/792x1188/filters:format_auto():upscale()/2019/09/03/079/n/45222255/07671bb6edc8fb6b_fall-foliage-maple-trees-path-1477199.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Fall iPhone Wallpapers That'll Instantly Make You Feel Cozy">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bb/06/17/bb061783d7c6530ad9f8dfb4916de76a.jpg' alt='50 Fall iPhone Wallpapers That'll Instantly Make You Feel Cozy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bb/06/17/bb061783d7c6530ad9f8dfb4916de76a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60+ Fall Wallpapers For IPhone (2024): Autumn Aesthetic">
+                                <img itemprop="contentUrl url" src='https://www.margaretbourne.com/wp-content/uploads/2023/07/Fall-Wallpapers-for-iPhone-Autumn-woods-and-trail-576x1024.jpg' alt='60+ Fall Wallpapers For IPhone (2024): Autumn Aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Margaret Bourne" />
+                                </span>
+                                <a href='https://www.margaretbourne.com/wp-content/uploads/2023/07/Fall-Wallpapers-for-iPhone-Autumn-woods-and-trail-576x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60+ Fall Wallpapers For IPhone (2024): Autumn Aesthetic">
+                                <img itemprop="contentUrl url" src='https://www.margaretbourne.com/wp-content/uploads/2023/07/Fall-Wallpapers-for-iPhone-Gloomy-Fall-Woods-576x1024.jpg' alt='60+ Fall Wallpapers For IPhone (2024): Autumn Aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Margaret Bourne" />
+                                </span>
+                                <a href='https://www.margaretbourne.com/wp-content/uploads/2023/07/Fall-Wallpapers-for-iPhone-Gloomy-Fall-Woods-576x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall iPhone Wallpapers: Bring the Beauty of Autumn to Your Screen ...">
+                                <img itemprop="contentUrl url" src='https://astrophotonsapps.com/fall-iphone-wallpapers/crisp-fall-sky-iphone-wallpaper' alt='Fall iPhone Wallpapers: Bring the Beauty of Autumn to Your Screen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1104">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Astro Photons Apps" />
+                                </span>
+                                <a href='https://astrophotonsapps.com/fall-iphone-wallpapers/crisp-fall-sky-iphone-wallpaper' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn wallpaper mountains mobile iphone : r/iWallpaper">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/x00l83va93u31.jpg?width=1080&crop=smart&auto=webp&s=334751c08a79e36b13e37b198c6380390b7195f1' alt='Autumn wallpaper mountains mobile iphone : r/iWallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/x00l83va93u31.jpg?width=1080&crop=smart&auto=webp&s=334751c08a79e36b13e37b198c6380390b7195f1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30+ Free Fall iPhone Wallpapers Halloween Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.greenthemood.com/wp-content/uploads/2023/10/fall-forest-road-phone-wallpaper.jpg' alt='30+ Free Fall iPhone Wallpapers Halloween Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Green The Mood - Lifestyle, Fashion, Beauty, Plants, Healthy life ..." />
+                                </span>
+                                <a href='https://www.greenthemood.com/wp-content/uploads/2023/10/fall-forest-road-phone-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall iPhone Wallpapers: Bring the Beauty of Autumn to Your Screen ...">
+                                <img itemprop="contentUrl url" src='https://astrophotonsapps.com/fall-iphone-wallpapers/fall-cabin-in-the-woods-iphone-wallpaper' alt='Fall iPhone Wallpapers: Bring the Beauty of Autumn to Your Screen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1104">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Astro Photons Apps" />
+                                </span>
+                                <a href='https://astrophotonsapps.com/fall-iphone-wallpapers/fall-cabin-in-the-woods-iphone-wallpaper' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Fall Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/fall-iphone-wwp6ybcknp56hn25.jpg' alt='100+] Fall Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/fall-iphone-wwp6ybcknp56hn25.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall iPhone Wallpapers - 30 Cute Fall iPhone Background Ideas for FREE">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/ed/a9/f5/eda9f54f1189d1339caab99683c24167.jpg' alt='Fall iPhone Wallpapers - 30 Cute Fall iPhone Background Ideas for FREE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1003">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/ed/a9/f5/eda9f54f1189d1339caab99683c24167.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Chic Vintage Poodle Wallpaper for Timeless Decor</title>
+                    <meta name="description" content="Transform your home with vintage poodle wallpaper! This charming design brings elegance and nostalgia to any room. Perfect for those seeking unique and stylish decor options, our collection features various colors and patterns to suit your taste. Discover the beauty of poodles in your home today!">
+                    <meta name="keywords" content="vintage poodle wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage">
+                            <span itemprop="name">Vintage</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage/vintage-poodle-wallpaper">
+                            <span itemprop="name">vintage poodle wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Vintage Poodle Wallpaper for Timeless Decor</h1>
+                <p>Vintage poodle wallpaper adds a whimsical and nostalgic touch to any space. With their elegant curls and charming demeanor, poodles become a delightful focal point in interior décor. Available in various colors and patterns, this wallpaper captures the essence of timeless style, elevating bedrooms, living rooms, or even nurseries with its playful sophistication.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fascinated with French Poodles | Cooper Hewitt, Smithsonian Design ...">
+                                <img itemprop="contentUrl url" src='https://www.cooperhewitt.org/wp-content/uploads/2013/02/1989-48-1.jpg' alt='Fascinated with French Poodles | Cooper Hewitt, Smithsonian Design ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="554">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cooper Hewitt" />
+                                </span>
+                                <a href='https://www.cooperhewitt.org/wp-content/uploads/2013/02/1989-48-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage poodle wallpaper on my Grandparents bathroom walls!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/74/7c/0c/747c0cd9ebe18f836a6cf991e847fc14.jpg' alt='Vintage poodle wallpaper on my Grandparents bathroom walls!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="895">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/74/7c/0c/747c0cd9ebe18f836a6cf991e847fc14.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1950s Vintage Wallpaper Poodle With Floral Swag Gold Metallic ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/5342408/r/il/597611/5150150393/il_570xN.5150150393_5aj1.jpg' alt='1950s Vintage Wallpaper Poodle With Floral Swag Gold Metallic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/5342408/r/il/597611/5150150393/il_570xN.5150150393_5aj1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1/6 Poodle Dollhouse Wallpaper 1:6 1950s Retro Pink Poodle ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/24410683/r/il/c5a343/6257061434/il_fullxfull.6257061434_owon.jpg' alt='1/6 Poodle Dollhouse Wallpaper 1:6 1950s Retro Pink Poodle ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="751">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/24410683/r/il/c5a343/6257061434/il_fullxfull.6257061434_owon.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage pink poodle wallpaper... and pink checkerboard teapot ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/d8/e8/28/d8e828486130cef8ccf363428ed1be2d.jpg' alt='Vintage pink poodle wallpaper... and pink checkerboard teapot ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="669">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/d8/e8/28/d8e828486130cef8ccf363428ed1be2d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Poodle Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/8971124/p/f/m/McFWqNFZWH4pP7z4xg6NX5nMfcmd22clkDE39wtCYZzgWCOGZQG-Wg/Pretty%20Poodles.jpg' alt='Vintage Poodle Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/8971124/p/f/m/McFWqNFZWH4pP7z4xg6NX5nMfcmd22clkDE39wtCYZzgWCOGZQG-Wg/Pretty%20Poodles.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage pink poodle wallpaper... and pink checkerboard teapot ...">
+                                <img itemprop="contentUrl url" src='https://retrorenovation.com/wp-content/uploads/2009/03/vintage-pink-poodle-wallpaper-6.jpg' alt='Vintage pink poodle wallpaper... and pink checkerboard teapot ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="341">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Retro Renovation" />
+                                </span>
+                                <a href='https://retrorenovation.com/wp-content/uploads/2009/03/vintage-pink-poodle-wallpaper-6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1950s Vintage Pink Poodle DIGITAL PRINT ~ Reproduction of 1950s ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/5405371/r/il/c5f1ac/1471070092/il_570xN.1471070092_ek78.jpg' alt='1950s Vintage Pink Poodle DIGITAL PRINT ~ Reproduction of 1950s ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="827">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/5405371/r/il/c5f1ac/1471070092/il_570xN.1471070092_ek78.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poodle Parlour Wallpaper Poodle and Blonde">
+                                <img itemprop="contentUrl url" src='https://www.etoffe.com/190311/poodle-parlour-wallpaper-poodle-and-blonde.jpg' alt='Poodle Parlour Wallpaper Poodle and Blonde'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etoffe.com" />
+                                </span>
+                                <a href='https://www.etoffe.com/190311/poodle-parlour-wallpaper-poodle-and-blonde.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Poodles wall paper "Club Chien" | Another scene from ba… | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/5044/5360352741_865a009bef_b.jpg' alt='Pink Poodles wall paper "Club Chien" | Another scene from ba… | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="904">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/5044/5360352741_865a009bef_b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

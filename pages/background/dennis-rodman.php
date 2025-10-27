@@ -1,0 +1,129 @@
+<title>Dennis Rodman: The Iconic NBA Legend</title>
+                    <meta name="description" content="Discover the fascinating life of Dennis Rodman, a basketball legend renowned for his fierce playing style and magnetic personality. Explore his journey from NBA star to pop culture icon, and learn about his influence on sports, fashion, and international relations.">
+                    <meta name="keywords" content="dennis rodman">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dennis-rodman">
+                            <span itemprop="name">dennis rodman</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dennis Rodman: The Iconic NBA Legend</h1>
+                <p>Dennis Rodman, the enigmatic NBA star, is known for his unparalleled rebounding skills, colorful personality, and unique style both on and off the court. With multiple championships and a Hall of Fame induction, Rodman's legacy goes beyond basketball, encompassing his ventures in entertainment, activism, and even diplomacy.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dennis Rodman | Forward | Detroit Pistons | NBA.com">
+                                <img itemprop="contentUrl url" src='https://cdn.nba.com/headshots/nba/latest/1040x760/23.png' alt='Dennis Rodman | Forward | Detroit Pistons | NBA.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1040">
+                                <meta itemprop="height" content="760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBA" />
+                                </span>
+                                <a href='https://cdn.nba.com/headshots/nba/latest/1040x760/23.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dennis Rodman | Facts, Statistics, Biography, & Kim Jong-Un ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/35/135835-050-217D05F3/Dennis-Rodman-2001.jpg' alt='Dennis Rodman | Facts, Statistics, Biography, & Kim Jong-Un ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="616">
+                                <meta itemprop="height" content="1044">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/35/135835-050-217D05F3/Dennis-Rodman-2001.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Remember when Dennis Rodman wore a wedding dress? | CNN">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/200505132526-04-remember-when-dennis-rodman.jpg?q=w_1110,c_fill' alt='Remember when Dennis Rodman wore a wedding dress? | CNN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1110">
+                                <meta itemprop="height" content="1487">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/200505132526-04-remember-when-dennis-rodman.jpg?q=w_1110,c_fill' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fashion Highlight: Dennis Rodman : r/popculturechat">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/fashion-highlight-dennis-rodman-v0-a0t75p00f8ub1.jpg?width=1080&crop=smart&auto=webp&s=c45a572ff04221b3cf7f997e268ba6b1696b05d5' alt='Fashion Highlight: Dennis Rodman : r/popculturechat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1705">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/fashion-highlight-dennis-rodman-v0-a0t75p00f8ub1.jpg?width=1080&crop=smart&auto=webp&s=c45a572ff04221b3cf7f997e268ba6b1696b05d5' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Interview with Dennis Rodman – All about NBA">
+                                <img itemprop="contentUrl url" src='http://www.basketball-timemachine.com/wp-content/uploads/2020/04/43df8c79b1ddde359bad6e901f895f80-500x490.jpg' alt='Interview with Dennis Rodman – All about NBA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Basketball-timemachine.com" />
+                                </span>
+                                <a href='http://www.basketball-timemachine.com/wp-content/uploads/2020/04/43df8c79b1ddde359bad6e901f895f80-500x490.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dennis Rodman, Bad Boy for Life | GQ">
+                                <img itemprop="contentUrl url" src='https://media.gq.com/photos/618c2ae1a41161399cd5abd1/master/w_1600%2Cc_limit/dennis-rodman-gq-men-of-the-year-2021-05.jpg' alt='Dennis Rodman, Bad Boy for Life | GQ'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GQ" />
+                                </span>
+                                <a href='https://media.gq.com/photos/618c2ae1a41161399cd5abd1/master/w_1600%2Cc_limit/dennis-rodman-gq-men-of-the-year-2021-05.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dennis Rodman: Biography, NBA Basketball Hall of Fame Forward">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/former-nba-star-dennis-rodman-poses-during-a-press-news-photo-1700592161.jpg?crop=0.715xw:0.535xh;0.0798xw,0.0146xh&resize=1200:*' alt='Dennis Rodman: Biography, NBA Basketball Hall of Fame Forward'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1199">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/former-nba-star-dennis-rodman-poses-during-a-press-news-photo-1700592161.jpg?crop=0.715xw:0.535xh;0.0798xw,0.0146xh&resize=1200:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dennis Rodman - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Dennis_Rodman_ToPo.jpg/190px-Dennis_Rodman_ToPo.jpg' alt='Dennis Rodman - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="190">
+                                <meta itemprop="height" content="286">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Dennis_Rodman_ToPo.jpg/190px-Dennis_Rodman_ToPo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who's the Modern Day Dennis Rodman? (playstyle wise) : r/NBATalk">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/whos-the-modern-day-dennis-rodman-playstyle-wise-v0-awm5jgdc41wd1.jpeg?auto=webp&s=eacd132d76ee96beca59224f208621f3c34cb589' alt='Who's the Modern Day Dennis Rodman? (playstyle wise) : r/NBATalk'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2090">
+                                <meta itemprop="height" content="3072">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/whos-the-modern-day-dennis-rodman-playstyle-wise-v0-awm5jgdc41wd1.jpeg?auto=webp&s=eacd132d76ee96beca59224f208621f3c34cb589' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dennis Rodman, Bad Boy for Life | GQ">
+                                <img itemprop="contentUrl url" src='https://media.gq.com/photos/61957180ac7f2644eba5891b/master/w_1600%2Cc_limit/dennis-rodman-gq-men-of-the-year-2021-09.jpg' alt='Dennis Rodman, Bad Boy for Life | GQ'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GQ" />
+                                </span>
+                                <a href='https://media.gq.com/photos/61957180ac7f2644eba5891b/master/w_1600%2Cc_limit/dennis-rodman-gq-men-of-the-year-2021-09.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

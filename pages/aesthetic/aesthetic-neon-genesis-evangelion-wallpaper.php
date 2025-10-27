@@ -1,0 +1,129 @@
+<title>Aesthetic Neon Genesis Evangelion Wallpapers</title>
+                    <meta name="description" content="Discover stunning aesthetic Neon Genesis Evangelion wallpapers that elevate your device's look. Perfect for anime fans, these vibrant designs feature iconic characters and mechas, making a bold statement on your screen. Explore now to find your favorite wallpaper style!">
+                    <meta name="keywords" content="aesthetic neon genesis evangelion wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic-neon-genesis-evangelion-wallpaper">
+                            <span itemprop="name">aesthetic neon genesis evangelion wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Neon Genesis Evangelion Wallpapers</h1>
+                <p>Aesthetic Neon Genesis Evangelion wallpapers combine vibrant colors, intricate designs, and iconic imagery from the beloved anime series. Whether you're a fan of the mechas or the emotional depth of the characters, these wallpapers bring a unique blend of nostalgia and artistry to your device's screen, letting you embrace the essence of Evangelion wherever you go.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My aesthetically pleasing wallpaper : r/NeonGenesisEvangelion">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/6fkzt6nj95051.jpg?width=640&crop=smart&auto=webp&s=dd0360f34d4dcb92fa83148048d5ab1c224c9497' alt='My aesthetically pleasing wallpaper : r/NeonGenesisEvangelion'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/6fkzt6nj95051.jpg?width=640&crop=smart&auto=webp&s=dd0360f34d4dcb92fa83148048d5ab1c224c9497' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Genesis Aesthetic Wallpapers - Wallpaper Cave 2CC">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/e3/e6/04/e3e604974c6684216c3b6b1d24085e47.jpg' alt='Neon Genesis Aesthetic Wallpapers - Wallpaper Cave 2CC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/e3/e6/04/e3e604974c6684216c3b6b1d24085e47.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wallpaper i made. : r/NeonGenesisEvangelion">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/wallpaper-i-made-v0-i48fx7zq7uu81.png?auto=webp&s=4e2af56d142f7f5eb7760653cb06f178dcc818c0' alt='wallpaper i made. : r/NeonGenesisEvangelion'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/wallpaper-i-made-v0-i48fx7zq7uu81.png?auto=webp&s=4e2af56d142f7f5eb7760653cb06f178dcc818c0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1000+] Neon Genesis Evangelion Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/36/32/4c/36324c9a67484c8eb0c586569ffa689f.jpg' alt='1000+] Neon Genesis Evangelion Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/36/32/4c/36324c9a67484c8eb0c586569ffa689f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD evangelion wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/40/143/HD-wallpaper-eva-01-evangelion-neon-genesis-evangelion-shinji-thumbnail.jpg' alt='HD evangelion wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="446">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/40/143/HD-wallpaper-eva-01-evangelion-neon-genesis-evangelion-shinji-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Evangelion - Anime Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/12/7d/47/127d470d883de907cae15ebf4433ad34.jpg' alt='Evangelion - Anime Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="394">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/12/7d/47/127d470d883de907cae15ebf4433ad34.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Evangelion Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/evangelion-ia5qgwb2kaalx8lm.jpg' alt='100+] Evangelion Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/evangelion-ia5qgwb2kaalx8lm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NEON GENESIS EVANGELION WALLPAPER - Heroscreen | Free image stock ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIwxCpbCWdK8jzvWxAEXOW0UTLW6ZAWB-8f9YYckV-O9dIu__3e6xGdqTV0Q-OvL472KJveGtko2C9fMa9Wq7QEsO8ZIABDPQ8r8_KVKBWjpI2LeZmLi8GZGbkaZ9XDCv82KREMUnZ2uDN/d/EVA_NEON_GENESIS_EVANGELION.jpg' alt='NEON GENESIS EVANGELION WALLPAPER - Heroscreen | Free image stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1151">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIwxCpbCWdK8jzvWxAEXOW0UTLW6ZAWB-8f9YYckV-O9dIu__3e6xGdqTV0Q-OvL472KJveGtko2C9fMa9Wq7QEsO8ZIABDPQ8r8_KVKBWjpI2LeZmLi8GZGbkaZ9XDCv82KREMUnZ2uDN/d/EVA_NEON_GENESIS_EVANGELION.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   I did my own Evangelion wallpaper. I hope you enjoy it.    : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/oet48qxt3k831.jpg?width=640&crop=smart&auto=webp&s=78acea2a7704d9fce7782569f58d027e594d8f4d' alt='   I did my own Evangelion wallpaper. I hope you enjoy it.    : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/oet48qxt3k831.jpg?width=640&crop=smart&auto=webp&s=78acea2a7704d9fce7782569f58d027e594d8f4d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Evangelion, eva 01, neon genesis evangelion, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/143/414/HD-wallpaper-evangelion-eva-01-neon-genesis-evangelion.jpg' alt='Evangelion, eva 01, neon genesis evangelion, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/143/414/HD-wallpaper-evangelion-eva-01-neon-genesis-evangelion.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

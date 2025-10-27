@@ -1,0 +1,129 @@
+<title>Groovy Rainbow: A Colorful Celebration of Joy</title>
+                    <meta name="description" content="Explore the enchanting world of groovy rainbows! Discover how these vibrant displays of color bring joy and inspiration to life. Perfect for art lovers and nature enthusiasts alike, join us in celebrating the magic of rainbows and their uplifting beauty.">
+                    <meta name="keywords" content="groovy rainbow">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/groovy-rainbow">
+                            <span itemprop="name">groovy rainbow</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Groovy Rainbow: A Colorful Celebration of Joy</h1>
+                <p>Experience the vibrant beauty of a groovy rainbow, where colors dance and blend in a dazzling spectrum. This playful phenomenon captures the imagination, reminding us of joy and wonder. Perfect for art, photography, or simply appreciating nature's magic, a groovy rainbow adds a splash of happiness to any day.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groovy Rainbow Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/020/934/150/non_2x/groovy-70s-sticker-rainbow-y2k-groovy-cartoon-style-70s-80s-retro-vibes-free-vector.jpg' alt='Groovy Rainbow Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/020/934/150/non_2x/groovy-70s-sticker-rainbow-y2k-groovy-cartoon-style-70s-80s-retro-vibes-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groovy Rainbow | Print & Cut File">
+                                <img itemprop="contentUrl url" src='http://craftsmithco.com/cdn/shop/products/GroovyRainbow_CraftSmithDigital_PrintandCut.jpg?v=1650925188' alt='Groovy Rainbow | Print & Cut File'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="521">
+                                <meta itemprop="height" content="521">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Craft Smith" />
+                                </span>
+                                <a href='http://craftsmithco.com/cdn/shop/products/GroovyRainbow_CraftSmithDigital_PrintandCut.jpg?v=1650925188' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groovy Rainbow">
+                                <img itemprop="contentUrl url" src='http://elegancecreate.com/cdn/shop/products/groovyrainbow.png?v=1666057024' alt='Groovy Rainbow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Elegancecreate" />
+                                </span>
+                                <a href='http://elegancecreate.com/cdn/shop/products/groovyrainbow.png?v=1666057024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groovy Boho Rainbow | Retro Rainbow | Groovy Rainbow | Retro ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/24529988/r/il/ef7b8e/4351929675/il_fullxfull.4351929675_9755.jpg' alt='Groovy Boho Rainbow | Retro Rainbow | Groovy Rainbow | Retro ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/24529988/r/il/ef7b8e/4351929675/il_fullxfull.4351929675_9755.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Cute groovy rainbow with flowers vector">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/cute-groovy-rainbow-with-flowers-vector_841060-322.jpg' alt='Premium Vector | Cute groovy rainbow with flowers vector'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/cute-groovy-rainbow-with-flowers-vector_841060-322.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stay Groovy Rainbow" Poster for Sale by NeatSplash | Redbubble">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.5300635666.6794/fposter,small,wall_texture,product,750x1000.jpg' alt='Stay Groovy Rainbow" Poster for Sale by NeatSplash | Redbubble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.5300635666.6794/fposter,small,wall_texture,product,750x1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Vinyl Home Art 20" x 42" Multicolored Groovy Rainbow Flow  Living Room Wall Decoration Colorful Lines Design Kids Bedroom Adhesive  Vintage ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51qU-guMRgL.jpg' alt='Amazon.com: Vinyl Home Art 20" x 42" Multicolored Groovy Rainbow Flow  Living Room Wall Decoration Colorful Lines Design Kids Bedroom Adhesive  Vintage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2100">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51qU-guMRgL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="groovy rainbow|D-371239">
+                                <img itemprop="contentUrl url" src='https://d62nvtdcnsm38.cloudfront.net/catalog/product/cache/a05e733b55beec0e7e3c81551533e22c/g/r/groovy_rainbow_1.jpg' alt='groovy rainbow|D-371239'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="696">
+                                <meta itemprop="height" content="696">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Silhouette Design Store" />
+                                </span>
+                                <a href='https://d62nvtdcnsm38.cloudfront.net/catalog/product/cache/a05e733b55beec0e7e3c81551533e22c/g/r/groovy_rainbow_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groovy Rainbow Themed KT Board - Microplush">
+                                <img itemprop="contentUrl url" src='https://microplushshop.com/wp-content/uploads/2023/02/4-71.jpg' alt='Groovy Rainbow Themed KT Board - Microplush'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Microplush" />
+                                </span>
+                                <a href='https://microplushshop.com/wp-content/uploads/2023/02/4-71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Groovy rainbow with smiling daisies Colorful ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/groovy-rainbow-with-smiling-daisies-colorful-illustration-vintage-style-design-element-70s_651519-302.jpg' alt='Premium Vector | Groovy rainbow with smiling daisies Colorful ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/groovy-rainbow-with-smiling-daisies-colorful-illustration-vintage-style-design-element-70s_651519-302.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

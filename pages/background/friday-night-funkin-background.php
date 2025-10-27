@@ -1,0 +1,129 @@
+<title>Vibrant Backgrounds in Friday Night Funkin'</title>
+                    <meta name="description" content="Discover the captivating backgrounds of Friday Night Funkin'! Explore colorful stages and urban settings that bring the game to life. Learn how these artistic elements enhance your gameplay and immerse you in the rhythm-filled world. Perfect for fans seeking to appreciate the game’s vibrant aesthetics!">
+                    <meta name="keywords" content="friday night funkin background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/friday-night-funkin-background">
+                            <span itemprop="name">friday night funkin background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Backgrounds in Friday Night Funkin'</h1>
+                <p>Friday Night Funkin' features vibrant and dynamic backgrounds that enhance the gameplay experience. Each level showcases unique settings, from urban streets to colorful stages, reflecting the energetic vibe of the game. These artistic backdrops not only set the mood but also immerse players in a playful, music-infused world.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Friday Night Funkin' wallpaper (2348×4200)! : r/FridayNightFunkin">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/7tpdr1zqqa3b1.png' alt='Friday Night Funkin' wallpaper (2348×4200)! : r/FridayNightFunkin'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2348">
+                                <meta itemprop="height" content="4200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/7tpdr1zqqa3b1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Friday Night Funkin' Stage Backgrounds for Zoom - FNF Weeks ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2021/11/fnf-pico-newgrounds-office-roof-background.jpg' alt='Cool Friday Night Funkin' Stage Backgrounds for Zoom - FNF Weeks ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1501">
+                                <meta itemprop="height" content="857">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2021/11/fnf-pico-newgrounds-office-roof-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Friday Night Funkin wallpaper that I made : r/FridayNightFunkin">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/qu16aomkizl61.png' alt='Friday Night Funkin wallpaper that I made : r/FridayNightFunkin'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/qu16aomkizl61.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Engaging Action In Friday Night Funkin' Game Poster Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/engaging-action-in-friday-night-funkin-game-poster-0gkeg3lp03uh58gd.jpg' alt='Engaging Action In Friday Night Funkin' Game Poster Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/engaging-action-in-friday-night-funkin-game-poster-0gkeg3lp03uh58gd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Friday Night Funkin Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/friday-night-funkin-tpsteierwo9am3z9.jpg' alt='100+] Friday Night Funkin Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/friday-night-funkin-tpsteierwo9am3z9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="So, about that Friday Night Funkin' phone wallpaper (WIP, 332 ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/liegu1pw7m3b1.png' alt='So, about that Friday Night Funkin' phone wallpaper (WIP, 332 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="926">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/liegu1pw7m3b1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Friday Night Funkin Stage Video Game Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/friday-night-funkin-stage-video-game-ruk6sjoyp46qtfor.jpg' alt='Download Friday Night Funkin Stage Video Game Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/friday-night-funkin-stage-video-game-ruk6sjoyp46qtfor.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Friday Night Funkin On Stage Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/friday-night-funkin-on-stage-gt15nrvekn69x2k0.jpg' alt='Friday Night Funkin On Stage Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/friday-night-funkin-on-stage-gt15nrvekn69x2k0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Friday Night Funkin' Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/dc/4d/08/dc4d085a092dadf00678dde883d3ac64.jpg' alt='Friday Night Funkin' Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/dc/4d/08/dc4d085a092dadf00678dde883d3ac64.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Friday Night Funkin' - SteamGridDB">
+                                <img itemprop="contentUrl url" src='https://cdn2.steamgriddb.com/hero/654146dbdcd94564df622bab7dfaba8b.png' alt='Friday Night Funkin' - SteamGridDB'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Friday Night Funkin' - SteamGridDB" />
+                                </span>
+                                <a href='https://cdn2.steamgriddb.com/hero/654146dbdcd94564df622bab7dfaba8b.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Transform Your Space with Graham and Brown Peel and Stick Wallpaper</title>
+                    <meta name="description" content="Discover the ease of decorating with Graham and Brown peel and stick wallpaper. Quick to apply and remove, it's perfect for any home. Explore a wide range of stylish designs to instantly elevate your interiors without the mess. Ideal for renters and DIY enthusiasts looking to refresh their space!">
+                    <meta name="keywords" content="graham and brown peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/graham-and-brown-peel-and-stick-wallpaper">
+                            <span itemprop="name">graham and brown peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Graham and Brown Peel and Stick Wallpaper</h1>
+                <p>Graham and Brown peel and stick wallpaper offers a perfect blend of style and convenience. This self-adhesive wallpaper is easy to apply and remove, making it an ideal choice for renters or anyone wanting a quick home update. With a variety of designs, it transforms any space effortlessly, reflecting personal style without hassle.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graham & Brown Versailles Emerald Removable Wallpaper 113959">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/5d4382be-4b86-4ca5-83c9-7c2ffaf08ea3/svn/graham-brown-wallpaper-rolls-113959-31_600.jpg' alt='Graham & Brown Versailles Emerald Removable Wallpaper 113959'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/5d4382be-4b86-4ca5-83c9-7c2ffaf08ea3/svn/graham-brown-wallpaper-rolls-113959-31_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graham & Brown 30.75-sq ft Blue Vinyl Floral Self-adhesive Peel ...">
+                                <img itemprop="contentUrl url" src='https://mobileimages.lowes.com/productimages/ed849474-ede9-4921-9c9e-6567bcd12260/63668520.jpg?size=pdhism' alt='Graham & Brown 30.75-sq ft Blue Vinyl Floral Self-adhesive Peel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="646">
+                                <meta itemprop="height" content="646">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lowe's" />
+                                </span>
+                                <a href='https://mobileimages.lowes.com/productimages/ed849474-ede9-4921-9c9e-6567bcd12260/63668520.jpg?size=pdhism' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graham & Brown Tori Teal Removable Wallpaper 106390">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/fdcadfa0-716e-4099-bd89-eb2d9b7eac10/svn/graham-brown-wallpaper-rolls-106390-64_600.jpg' alt='Graham & Brown Tori Teal Removable Wallpaper 106390'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/fdcadfa0-716e-4099-bd89-eb2d9b7eac10/svn/graham-brown-wallpaper-rolls-106390-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="104299 - Graham & Brown, Art Deco Black and Gold Removable Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mahoneswallpapershop.com/cdn/shop/products/104299_2.jpg?v=1673400302&width=1445' alt='104299 - Graham & Brown, Art Deco Black and Gold Removable Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mahone's Wallpaper Shop" />
+                                </span>
+                                <a href='https://mahoneswallpapershop.com/cdn/shop/products/104299_2.jpg?v=1673400302&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graham & Brown 30.75-sq ft Grey Vinyl Floral Self-adhesive Peel ...">
+                                <img itemprop="contentUrl url" src='https://mobileimages.lowes.com/productimages/cdf56c79-0343-464d-9c75-1af66b933ff9/63616578.jpg?size=pdhz' alt='Graham & Brown 30.75-sq ft Grey Vinyl Floral Self-adhesive Peel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lowe's" />
+                                </span>
+                                <a href='https://mobileimages.lowes.com/productimages/cdf56c79-0343-464d-9c75-1af66b933ff9/63616578.jpg?size=pdhz' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="104299 - Graham & Brown, Art Deco Black and Gold Removable Wallpaper">
+                                <img itemprop="contentUrl url" src='http://mahoneswallpapershop.com/cdn/shop/products/104299_1.jpg?v=1673400302' alt='104299 - Graham & Brown, Art Deco Black and Gold Removable Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mahone's Wallpaper Shop" />
+                                </span>
+                                <a href='http://mahoneswallpapershop.com/cdn/shop/products/104299_1.jpg?v=1673400302' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graham and Brown 127430 Fluted Geo Clay Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/268366.jpg' alt='Graham and Brown 127430 Fluted Geo Clay Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/268366.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Savannah Wallpaper">
+                                <img itemprop="contentUrl url" src='http://www.2modern.com/cdn/shop/products/graham-brown-savannah-removable-wallpaper.jpg?v=1675066683' alt='Savannah Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="2Modern" />
+                                </span>
+                                <a href='http://www.2modern.com/cdn/shop/products/graham-brown-savannah-removable-wallpaper.jpg?v=1675066683' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graham and Brown 127434 Fluted Geo Twine Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/268370.jpg' alt='Graham and Brown 127434 Fluted Geo Twine Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/268370.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graham & Brown Edo Toile Navy Nonwoven Paper Paste the Wall Removable  Wallpaper 107882">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/e1c16ac3-7544-458c-8d6e-d971f1d56326/svn/graham-brown-wallpaper-rolls-107882-31_600.jpg' alt='Graham & Brown Edo Toile Navy Nonwoven Paper Paste the Wall Removable  Wallpaper 107882'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/e1c16ac3-7544-458c-8d6e-d971f1d56326/svn/graham-brown-wallpaper-rolls-107882-31_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

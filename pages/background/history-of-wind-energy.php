@@ -1,0 +1,129 @@
+<title>Exploring the Rich History of Wind Energy</title>
+                    <meta name="description" content="Discover the fascinating evolution of wind energy from ancient windmills to modern turbines. Learn how harnessing wind power has transformed renewable energy and shaped our sustainable future. Join the journey through time and innovation in wind energy!">
+                    <meta name="keywords" content="history of wind energy">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/history-of-wind-energy">
+                            <span itemprop="name">history of wind energy</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring the Rich History of Wind Energy</h1>
+                <p>Wind energy has a rich history dating back to ancient civilizations that utilized windmills for grinding grain and pumping water. The first recorded windmill dates back to Persia around 500-900 AD. In the 19th century, wind turbines began generating electricity, paving the way for modern renewable energy solutions. Today, wind power is a key player in the global shift toward sustainable energy.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wind Energy Timeline – From Persian Windmills Crushing Grains to ...">
+                                <img itemprop="contentUrl url" src='https://www.altenergymag.com/images/upload/images/81465792(1).jpg' alt='Wind Energy Timeline – From Persian Windmills Crushing Grains to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AltEnergyMag" />
+                                </span>
+                                <a href='https://www.altenergymag.com/images/upload/images/81465792(1).jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The history of wind energy | National Grid Group">
+                                <img itemprop="contentUrl url" src='https://www.nationalgrid.com/sites/default/files/styles/content_embedded_image/public/images/media/2024-04/HistoryOfWind_Iinfographic_Apr24_1080x1550.jpg?itok=pT-yR4sP' alt='The history of wind energy | National Grid Group'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="762">
+                                <meta itemprop="height" content="1094">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Grid" />
+                                </span>
+                                <a href='https://www.nationalgrid.com/sites/default/files/styles/content_embedded_image/public/images/media/2024-04/HistoryOfWind_Iinfographic_Apr24_1080x1550.jpg?itok=pT-yR4sP' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="An Overview Of Some Historic Wind Turbines: Part 1 - Windmills Tech">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/windmillstech.com/wp-content/uploads/2022/10/Historic-Wind-Turbines.webp' alt='An Overview Of Some Historic Wind Turbines: Part 1 - Windmills Tech'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="686">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Windmills Tech" />
+                                </span>
+                                <a href='https://i0.wp.com/windmillstech.com/wp-content/uploads/2022/10/Historic-Wind-Turbines.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of U.S. Wind Energy | Department of Energy">
+                                <img itemprop="contentUrl url" src='https://www.energy.gov/sites/default/files/timelines/1_wind_engine_company.jpg' alt='History of U.S. Wind Energy | Department of Energy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1332">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Department of Energy" />
+                                </span>
+                                <a href='https://www.energy.gov/sites/default/files/timelines/1_wind_engine_company.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The wind energy (r)evolution: A short review of a long history ...">
+                                <img itemprop="contentUrl url" src='https://ars.els-cdn.com/content/image/1-s2.0-S0960148111000085-gr1.jpg' alt='The wind energy (r)evolution: A short review of a long history ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="581">
+                                <meta itemprop="height" content="443">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ScienceDirect.com" />
+                                </span>
+                                <a href='https://ars.els-cdn.com/content/image/1-s2.0-S0960148111000085-gr1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of wind turbines - Factor This™">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Wind_turbine_1888_Charles_Brush.jpg/640px-Wind_turbine_1888_Charles_Brush.jpg' alt='History of wind turbines - Factor This™'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="662">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Renewable Energy World" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Wind_turbine_1888_Charles_Brush.jpg/640px-Wind_turbine_1888_Charles_Brush.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wind Turbine Efficiency: How Has It Improved Over Time? - Lumify ...">
+                                <img itemprop="contentUrl url" src='https://lumifyenergy.com/wp-content/uploads/2023/08/The-history-of-wind-turbines-1-1024x593.png' alt='Wind Turbine Efficiency: How Has It Improved Over Time? - Lumify ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lumify Energy" />
+                                </span>
+                                <a href='https://lumifyenergy.com/wp-content/uploads/2023/08/The-history-of-wind-turbines-1-1024x593.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Wind Power | Barnhart University">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/LjygESeu2LM/maxresdefault.jpg' alt='History of Wind Power | Barnhart University'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/LjygESeu2LM/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PDF] The History of Wind Energy | Semantic Scholar">
+                                <img itemprop="contentUrl url" src='https://figures.semanticscholar.org/aa3b553b2861805169f60293e1af54c239d66f07/2-Figure1.1-1.png' alt='PDF] The History of Wind Energy | Semantic Scholar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1034">
+                                <meta itemprop="height" content="304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Semantic Scholar" />
+                                </span>
+                                <a href='https://figures.semanticscholar.org/aa3b553b2861805169f60293e1af54c239d66f07/2-Figure1.1-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of wind 2025 power">
+                                <img itemprop="contentUrl url" src='https://encyclopedia.pub/media/common/202210/mceclip12-633964cad3b5d.png' alt='History of wind 2025 power'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1649">
+                                <meta itemprop="height" content="722">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://encyclopedia.pub/media/common/202210/mceclip12-633964cad3b5d.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

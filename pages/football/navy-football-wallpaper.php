@@ -1,0 +1,129 @@
+<title>Navy Football Wallpaper: Spirit on Your Screen</title>
+                    <meta name="description" content="Discover stunning navy football wallpaper to elevate your devices! Perfect for fans, these vibrant designs showcase iconic moments and team spirit, ensuring you celebrate the game daily. Enhance your screen with our captivating collections today!">
+                    <meta name="keywords" content="navy football wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/football">
+                            <span itemprop="name">Football</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/football/navy-football-wallpaper">
+                            <span itemprop="name">navy football wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Navy Football Wallpaper: Spirit on Your Screen</h1>
+                <p>Navy football wallpaper is a fantastic way to showcase your spirit for the game. Featuring vibrant designs, these wallpapers serve as a perfect backdrop for your devices, bringing the energy of navy football right to your screen. Stand out with images of players in action, team logos, and iconic moments, inspiring you every day.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Navy Football on X: "Need some        for your wallpaper? Sure you ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/ESSywFdWoAIkLee?format=jpg&name=4096x4096' alt='Navy Football on X: "Need some        for your wallpaper? Sure you ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/ESSywFdWoAIkLee?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Navy Football on X: "No #WallpaperWednesday this week... APRIL ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/EUjH73jX0AA_0y1?format=jpg&name=4096x4096' alt='Navy Football on X: "No #WallpaperWednesday this week... APRIL ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/EUjH73jX0AA_0y1?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="College Football Navy Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/college-football-navy-g8lrgbwy3tstt7kb.jpg' alt='College Football Navy Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/college-football-navy-g8lrgbwy3tstt7kb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Navy Football, football, navy football, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/828/222/HD-wallpaper-navy-football-football-navy-football.jpg' alt='Navy Football, football, navy football, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/828/222/HD-wallpaper-navy-football-football-navy-football.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Navy Football on X: "We thought everyone would enjoy some out of ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FiQFaofVUAEZzL9?format=jpg&name=large' alt='Navy Football on X: "We thought everyone would enjoy some out of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FiQFaofVUAEZzL9?format=jpg&name=large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Navy Athletics - In need of a new phone wallpaper  ‍☠️... | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=973280928168169' alt='Navy Athletics - In need of a new phone wallpaper  ‍☠️... | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="946">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=973280928168169' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Navy Football Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp3424493.jpg' alt='Navy Football Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp3424493.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Navy Athletics - In need of a new phone wallpaper for... | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=987706840058911' alt='Navy Athletics - In need of a new phone wallpaper for... | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="946">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=987706840058911' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD navy football football wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/835/793/HD-wallpaper-navy-midshipmen-american-football-team-brown-background-navy-midshipmen-logo-grunge-art-ncaa-american-football-usa-navy-midshipmen-emblem.jpg' alt='HD navy football football wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/835/793/HD-wallpaper-navy-midshipmen-american-football-team-brown-background-navy-midshipmen-logo-grunge-art-ncaa-american-football-usa-navy-midshipmen-emblem.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Safe at Home: Activities & Backgrounds - Naval Academy Athletics">
+                                <img itemprop="contentUrl url" src='https://navysports.com/images/2020/4/13/Zoom_AFWin.jpg' alt='Safe at Home: Activities & Backgrounds - Naval Academy Athletics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Navy Sports" />
+                                </span>
+                                <a href='https://navysports.com/images/2020/4/13/Zoom_AFWin.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

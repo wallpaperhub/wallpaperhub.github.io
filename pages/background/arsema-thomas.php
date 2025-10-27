@@ -1,0 +1,129 @@
+<title>Arsema Thomas: Rising Star in Entertainment</title>
+                    <meta name="description" content="Discover Arsema Thomas, a talented actress capturing hearts with her impressive skills and engaging performances. Follow her journey in the entertainment industry as she rises to fame. Stay tuned for updates and insights into her work!">
+                    <meta name="keywords" content="arsema thomas">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/arsema-thomas">
+                            <span itemprop="name">arsema thomas</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Arsema Thomas: Rising Star in Entertainment</h1>
+                <p>Arsema Thomas is an emerging talent, known for her captivating performances. With a unique blend of charisma and skill, she has quickly gained popularity in the entertainment industry. Arsema’s dedication to her craft shines through in every role. Follow her journey as she continues to make waves and inspire many!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arsema Thomas - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/9/96/Arsema_thomas_bts.jpg' alt='Arsema Thomas - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="929">
+                                <meta itemprop="height" content="1366">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/9/96/Arsema_thomas_bts.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arsema Thomas - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BZTllNGVlZWItNjVkZS00NGJhLTlhODctYmI3ZTAzNmVmY2MyXkEyXkFqcGc@._V1_.jpg' alt='Arsema Thomas - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3600">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BZTllNGVlZWItNjVkZS00NGJhLTlhODctYmI3ZTAzNmVmY2MyXkEyXkFqcGc@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arsema Thomas is represented by Gary O'Sullivan - Accelerate ...">
+                                <img itemprop="contentUrl url" src='https://www.acceleratemgmt.com/wp-content/uploads/2022/02/arsema-may-231-64a57ce6a5090.jpg' alt='Arsema Thomas is represented by Gary O'Sullivan - Accelerate ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1119">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Accelerate Management" />
+                                </span>
+                                <a href='https://www.acceleratemgmt.com/wp-content/uploads/2022/02/arsema-may-231-64a57ce6a5090.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arsema Thomas - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BZmRlMTEyMjYtMDU5NC00MGQzLTg2MzYtNWRkOTQ3ZTNjNGJjXkEyXkFqcGc@._V1_.jpg' alt='Arsema Thomas - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4912">
+                                <meta itemprop="height" content="7238">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BZmRlMTEyMjYtMDU5NC00MGQzLTg2MzYtNWRkOTQ3ZTNjNGJjXkEyXkFqcGc@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arsema Thomas On 'She Taught Love' & 'Queen Charlotte'">
+                                <img itemprop="contentUrl url" src='https://www.refinery29.com/images/11785879.jpg' alt='Arsema Thomas On 'She Taught Love' & 'Queen Charlotte''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Refinery29" />
+                                </span>
+                                <a href='https://www.refinery29.com/images/11785879.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Meet Bridgerton Spinoff Star Arsema Thomas, Who Plays Lady Danbury ...">
+                                <img itemprop="contentUrl url" src='https://assets.teenvogue.com/photos/6453be6972c87891ffcd07f5/16:9/w_2560%2Cc_limit/TV_India&Armesa_Armesa_HEADER.jpg' alt='Meet Bridgerton Spinoff Star Arsema Thomas, Who Plays Lady Danbury ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Teen Vogue" />
+                                </span>
+                                <a href='https://assets.teenvogue.com/photos/6453be6972c87891ffcd07f5/16:9/w_2560%2Cc_limit/TV_India&Armesa_Armesa_HEADER.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Actor Arsema Thomas on why she's been waiting for her role in ...">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/b72666_a9d4d2b239934d28a3e79b7259710c7a~mv2.jpg/v1/fill/w_750,h_1000,al_c,q_85,usm_0.66_1.00_0.01/b72666_a9d4d2b239934d28a3e79b7259710c7a~mv2.jpg' alt='Actor Arsema Thomas on why she's been waiting for her role in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vingt Sept Magazine" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/b72666_a9d4d2b239934d28a3e79b7259710c7a~mv2.jpg/v1/fill/w_750,h_1000,al_c,q_85,usm_0.66_1.00_0.01/b72666_a9d4d2b239934d28a3e79b7259710c7a~mv2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arsema Thomas - Actress">
+                                <img itemprop="contentUrl url" src='https://www.tvinsider.com/wp-content/uploads/2022/12/arsema-thomas.jpg' alt='Arsema Thomas - Actress'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TV Insider" />
+                                </span>
+                                <a href='https://www.tvinsider.com/wp-content/uploads/2022/12/arsema-thomas.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Is Arsema Thomas? Get To Know Lady Danbury In 'Queen Charlotte ...">
+                                <img itemprop="contentUrl url" src='https://hollywoodlife.com/wp-content/uploads/2023/05/Arsema-Thomas-queen-charlotte-vertical.jpg' alt='Who Is Arsema Thomas? Get To Know Lady Danbury In 'Queen Charlotte ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hollywood Life" />
+                                </span>
+                                <a href='https://hollywoodlife.com/wp-content/uploads/2023/05/Arsema-Thomas-queen-charlotte-vertical.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Meet Bridgerton Spinoff Star Arsema Thomas, Who Plays Lady Danbury ...">
+                                <img itemprop="contentUrl url" src='https://assets.teenvogue.com/photos/64539e6a72c87891ffcd07ec/master/w_1600%2Cc_limit/TV_India&Armesa_May2023_05.jpg' alt='Meet Bridgerton Spinoff Star Arsema Thomas, Who Plays Lady Danbury ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1090">
+                                <meta itemprop="height" content="1341">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Teen Vogue" />
+                                </span>
+                                <a href='https://assets.teenvogue.com/photos/64539e6a72c87891ffcd07ec/master/w_1600%2Cc_limit/TV_India&Armesa_May2023_05.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Patriotic Fireworks: Red, White, and Blue Celebration</title>
+                    <meta name="description" content="Discover the beauty of red, white, and blue fireworks! Perfect for Independence Day celebrations, these stunning displays bring joy and patriotism to every occasion. Celebrate unity under the night sky with vibrant bursts of color that make every moment unforgettable!">
+                    <meta name="keywords" content="red white and blue fireworks background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/red-white-and-blue-fireworks-background">
+                            <span itemprop="name">red white and blue fireworks background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Patriotic Fireworks: Red, White, and Blue Celebration</h1>
+                <p>Experience the vibrant spectacle of red, white, and blue fireworks lighting up the night sky. Perfect for celebrating Independence Day or any patriotic occasion, these stunning bursts of color evoke a sense of pride and joy. Gather with friends and family to enjoy the breathtaking display that symbolizes freedom and unity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11,800+ Red White And Blue Fireworks Stock Photos, Pictures ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1150252597/photo/blue-white-and-red-fireworks-background.jpg?s=612x612&w=0&k=20&c=A2NHT7Z3RDXK7oudPnL2QqH3njIOnTjrBupCsHfKJBI=' alt='11,800+ Red White And Blue Fireworks Stock Photos, Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1150252597/photo/blue-white-and-red-fireworks-background.jpg?s=612x612&w=0&k=20&c=A2NHT7Z3RDXK7oudPnL2QqH3njIOnTjrBupCsHfKJBI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red White And Blue Fireworks Images – Browse 82,593 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/88/48/60/360_F_188486045_BmW5FchMs1JlJfDWEpTRFOq6VX1AbMUd.jpg' alt='Red White And Blue Fireworks Images – Browse 82,593 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="541">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/88/48/60/360_F_188486045_BmW5FchMs1JlJfDWEpTRFOq6VX1AbMUd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11,800+ Red White And Blue Fireworks Stock Photos, Pictures ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1254324768/photo/fireworks-celebrating-independence-day-4th-of-july.jpg?s=612x612&w=0&k=20&c=q93feSFeCN3XehikwfI2__wW9HW1aqSvF6qfoNhHeGM=' alt='11,800+ Red White And Blue Fireworks Stock Photos, Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1254324768/photo/fireworks-celebrating-independence-day-4th-of-july.jpg?s=612x612&w=0&k=20&c=q93feSFeCN3XehikwfI2__wW9HW1aqSvF6qfoNhHeGM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red White And Blue Fireworks Images – Browse 82,593 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/00/33/26/66/360_F_33266638_OpUGKrUk70Ydsy3HK1QiMOHc4Cr97OiL.jpg' alt='Red White And Blue Fireworks Images – Browse 82,593 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="530">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/00/33/26/66/360_F_33266638_OpUGKrUk70Ydsy3HK1QiMOHc4Cr97OiL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11,800+ Red White And Blue Fireworks Stock Photos, Pictures ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/941896166/photo/usa-4-july-independence-day-design-of-america-flag-with-firework-background.jpg?s=612x612&w=0&k=20&c=JP5MFs1vsHNziL1wmY8bwu1eCjGlPVy2WGPAmsz6Dsk=' alt='11,800+ Red White And Blue Fireworks Stock Photos, Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/941896166/photo/usa-4-july-independence-day-design-of-america-flag-with-firework-background.jpg?s=612x612&w=0&k=20&c=JP5MFs1vsHNziL1wmY8bwu1eCjGlPVy2WGPAmsz6Dsk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red white blue fireworks hi-res stock photography and images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2JBN269/statue-of-liberty-blue-white-and-red-fireworks-july-4th-celebration-in-new-york-2JBN269.jpg' alt='Red white blue fireworks hi-res stock photography and images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="957">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2JBN269/statue-of-liberty-blue-white-and-red-fireworks-july-4th-celebration-in-new-york-2JBN269.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red White And Blue Fireworks Images – Browse 82,593 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/41/44/28/360_F_441442851_FZULDTyThw64WmnrjnfPrh6tvfkOemxx.jpg' alt='Red White And Blue Fireworks Images – Browse 82,593 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="975">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/41/44/28/360_F_441442851_FZULDTyThw64WmnrjnfPrh6tvfkOemxx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red White And Blue Fireworks Stock Photos, Images and Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/030/724/334/non_2x/sparkling-red-blue-white-celebration-fireworks-photo.jpg' alt='Red White And Blue Fireworks Stock Photos, Images and Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1749">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/030/724/334/non_2x/sparkling-red-blue-white-celebration-fireworks-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red White Blue Fireworks Stock Illustrations – 14,053 Red White ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/sky-red-white-blue-fireworks-sky-red-white-blue-fireworks-illustration-vibrant-colors-mesmerizing-stunning-beautiful-backdrop-sky-361666712.jpg' alt='Red White Blue Fireworks Stock Illustrations – 14,053 Red White ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/sky-red-white-blue-fireworks-sky-red-white-blue-fireworks-illustration-vibrant-colors-mesmerizing-stunning-beautiful-backdrop-sky-361666712.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,204 Red White And Blue Fireworks Stock Photos, High-Res Pictures ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/172238455/photo/red-white-and-blue.jpg?s=612x612&w=gi&k=20&c=ZStx-dXd14MM6NfgVtYPOHe0BvFcqmrKRXld1tGDe9k=' alt='1,204 Red White And Blue Fireworks Stock Photos, High-Res Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/172238455/photo/red-white-and-blue.jpg?s=612x612&w=gi&k=20&c=ZStx-dXd14MM6NfgVtYPOHe0BvFcqmrKRXld1tGDe9k=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

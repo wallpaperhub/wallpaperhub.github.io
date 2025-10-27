@@ -1,0 +1,129 @@
+<title>Transform Your Space with Yellow and Brown Wallpaper</title>
+                    <meta name="description" content="Discover the unique charm of yellow and brown wallpaper. Perfect for adding warmth and style to any room, these colors create a cozy ambiance. Explore various patterns and designs that enhance your home decor effortlessly. Elevate your interiors with this timeless combination today!">
+                    <meta name="keywords" content="yellow and brown wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/yellow-and-brown-wallpaper">
+                            <span itemprop="name">yellow and brown wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Yellow and Brown Wallpaper</h1>
+                <p>Yellow and brown wallpaper combines warmth and earthy tones, transforming any space into a cozy retreat. Ideal for creating a vintage-inspired atmosphere, it pairs well with natural wood furniture and muted decor. Use it in a bedroom or living room to evoke comfort while enhancing your design with unique patterns.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Linen Floral Yellow, Grey & Brown Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/linen-floral-yellow-grey-brown-wallpape-uwmo.jpg' alt='Linen Floral Yellow, Grey & Brown Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/linen-floral-yellow-grey-brown-wallpape-uwmo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="115059 - Graham & Brown, Fable Mustard Removable Wallpaper">
+                                <img itemprop="contentUrl url" src='http://mahoneswallpapershop.com/cdn/shop/products/115059_1.jpg?v=1673400437' alt='115059 - Graham & Brown, Fable Mustard Removable Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mahone's Wallpaper Shop" />
+                                </span>
+                                <a href='http://mahoneswallpapershop.com/cdn/shop/products/115059_1.jpg?v=1673400437' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A.S. Création Wallpaper - Vintage Wallpaper in Brown, Orange, and Yellow -  Wallpaper for Various Spaces - Wall Mural in 395.99 in x 20.87 in (10,05 m  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91KaTOZS7XL.jpg' alt='A.S. Création Wallpaper - Vintage Wallpaper in Brown, Orange, and Yellow -  Wallpaper for Various Spaces - Wall Mural in 395.99 in x 20.87 in (10,05 m  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91KaTOZS7XL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown and yellow wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/02/dc/0c/02dc0cb85f0e2766a1efe6b3a608bab4.jpg' alt='Brown and yellow wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1226">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/02/dc/0c/02dc0cb85f0e2766a1efe6b3a608bab4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown and Yellow Floral Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D360">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.5239190497_7d38.jpg?v=1725112645&width=1946' alt='Brown and Yellow Floral Wallpaper / Peel and Stick Wallpaper Removable  Wallpaper Home Decor Wall Art Wall Decor Room Decor - D360'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1864">
+                                <meta itemprop="height" content="2610">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.5239190497_7d38.jpg?v=1725112645&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="115059 - Graham & Brown, Fable Mustard Removable Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mahoneswallpapershop.com/cdn/shop/products/115059_2.jpg?v=1673400437&width=1445' alt='115059 - Graham & Brown, Fable Mustard Removable Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1445">
+                                <meta itemprop="height" content="1613">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mahone's Wallpaper Shop" />
+                                </span>
+                                <a href='https://mahoneswallpapershop.com/cdn/shop/products/115059_2.jpg?v=1673400437&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Brown Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/024/049/388/non_2x/yellow-and-brown-paper-geometric-abstract-background-vector.jpg' alt='Yellow Brown Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1307">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/024/049/388/non_2x/yellow-and-brown-paper-geometric-abstract-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a9/81/dc/a981dcadb3a1284a3b19b0cd4792245c.jpg' alt='Cute wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1297">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a9/81/dc/a981dcadb3a1284a3b19b0cd4792245c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Brown Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/minimalist-gradient-background-design-template_483537-2856.jpg?semt=ais_hybrid' alt='Yellow Brown Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/minimalist-gradient-background-design-template_483537-2856.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Wallpaper | Classic, Peel & Stick | Modern & Trendy ...">
+                                <img itemprop="contentUrl url" src='https://mitchellblack.com/cdn/shop/collections/Split_Saffron_WickerChairs_MockUp.jpg?v=1685734965&width=2400' alt='Yellow Wallpaper | Classic, Peel & Stick | Modern & Trendy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mitchell Black" />
+                                </span>
+                                <a href='https://mitchellblack.com/cdn/shop/collections/Split_Saffron_WickerChairs_MockUp.jpg?v=1685734965&width=2400' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

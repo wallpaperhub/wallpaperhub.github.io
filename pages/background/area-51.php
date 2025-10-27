@@ -1,0 +1,129 @@
+<title>Secrets of Area 51: Unveiling the Mystery</title>
+                    <meta name="description" content="Explore the enigma of Area 51, the renowned secret base shrouded in UFO lore and conspiracy theories. Discover its hidden operations and the truth behind the urban legends. Join us as we delve into what makes this iconic location a subject of endless fascination and intrigue.">
+                    <meta name="keywords" content="area 51">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/area-51">
+                            <span itemprop="name">area 51</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Secrets of Area 51: Unveiling the Mystery</h1>
+                <p>Area 51, a top-secret U.S. Air Force base in Nevada, has long fascinated conspiracy theorists and UFO enthusiasts. Known for its elusive nature and classified operations, the facility fuels speculation about alien technology and government cover-ups. Despite its mysterious reputation, much of its true purpose remains under wraps.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Area 51 and what goes on there?">
+                                <img itemprop="contentUrl url" src='https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/BF9F/production/_108855094_gettyimages-1163654178.jpg.webp' alt='What is Area 51 and what goes on there?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC" />
+                                </span>
+                                <a href='https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/BF9F/production/_108855094_gettyimages-1163654178.jpg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Area 51 Fast Facts | CNN">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/190729180521-rural-nevada-not-ready-for-area-51-raid.jpg?q=w_3546,h_2055,x_0,y_0,c_fill' alt='Area 51 Fast Facts | CNN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3546">
+                                <meta itemprop="height" content="2055">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/190729180521-rural-nevada-not-ready-for-area-51-raid.jpg?q=w_3546,h_2055,x_0,y_0,c_fill' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Area 51 and what goes on there?">
+                                <img itemprop="contentUrl url" src='https://c.files.bbci.co.uk/61B6/production/_108841052_gettyimages-170496245.jpg' alt='What is Area 51 and what goes on there?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC" />
+                                </span>
+                                <a href='https://c.files.bbci.co.uk/61B6/production/_108841052_gettyimages-170496245.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Area 51 - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/a/a6/Sentinel-Homey.png' alt='Area 51 - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="998">
+                                <meta itemprop="height" content="1249">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/a/a6/Sentinel-Homey.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What's The History Of Area 51?">
+                                <img itemprop="contentUrl url" src='https://npr.brightspotcdn.com/legacy/sites/kunr/files/201909/DSC_0358_0.jpg' alt='What's The History Of Area 51?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KUNR" />
+                                </span>
+                                <a href='https://npr.brightspotcdn.com/legacy/sites/kunr/files/201909/DSC_0358_0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Revealing the Secrets of Area 51 | Area 51: Storming the CIA Secrets |  हिंदी | S1 - E1 | Nat Geo">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/W-Is2BsdmbY/maxresdefault.jpg' alt='Revealing the Secrets of Area 51 | Area 51: Storming the CIA Secrets |  हिंदी | S1 - E1 | Nat Geo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/W-Is2BsdmbY/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Area 51 and what goes on there?">
+                                <img itemprop="contentUrl url" src='https://ichef.bbci.co.uk/news/480/cpsprodpb/EEA8/production/_108769016_area_51_640-nc.png.webp' alt='What is Area 51 and what goes on there?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="990">
+                                <meta itemprop="height" content="835">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC" />
+                                </span>
+                                <a href='https://ichef.bbci.co.uk/news/480/cpsprodpb/EEA8/production/_108769016_area_51_640-nc.png.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Area 51: Visitors From Around The Globe Descend On Nevada Desert">
+                                <img itemprop="contentUrl url" src='https://npr.brightspotcdn.com/dims4/default/ad9db25/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fkunr%2Ffiles%2F201909%2FDSC_0306.jpg' alt='Area 51: Visitors From Around The Globe Descend On Nevada Desert'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KUNR" />
+                                </span>
+                                <a href='https://npr.brightspotcdn.com/dims4/default/ad9db25/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fkunr%2Ffiles%2F201909%2FDSC_0306.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Call to raid Area 51 draws hordes of alien hunters on Facebook">
+                                <img itemprop="contentUrl url" src='https://media-cldnry.s-nbcnews.com/image/upload/newscms/2019_28/2930776/190711-area-51-1996-ac-634p.jpg' alt='Call to raid Area 51 draws hordes of alien hunters on Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1450">
+                                <meta itemprop="height" content="961">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBC News" />
+                                </span>
+                                <a href='https://media-cldnry.s-nbcnews.com/image/upload/newscms/2019_28/2930776/190711-area-51-1996-ac-634p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Area 51 'Uncensored': Was It UFOs Or The USSR? : NPR">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/img/2011/05/16/1968-988a0b1a7fff54de739faa90eb08c91bb93f860b.jpg' alt='Area 51 'Uncensored': Was It UFOs Or The USSR? : NPR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="383">
+                                <meta itemprop="height" content="287">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/img/2011/05/16/1968-988a0b1a7fff54de739faa90eb08c91bb93f860b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

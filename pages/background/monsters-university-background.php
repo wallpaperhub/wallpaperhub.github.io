@@ -1,0 +1,129 @@
+<title>Monsters University: The Origin of Scaring</title>
+                    <meta name="description" content="Discover the enchanting world of Monsters University! Dive into the backstory of beloved characters Mike and Sulley as they tackle college challenges, friendships, and rivalries in this fun-filled animated adventure. Perfect for fans of all ages, explore their journey to becoming the ultimate scarers!">
+                    <meta name="keywords" content="monsters university background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/monsters-university-background">
+                            <span itemprop="name">monsters university background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Monsters University: The Origin of Scaring</h1>
+                <p>Monsters University is a vibrant animated film that serves as a prequel to Monsters, Inc. Set in the fictional Monsters University, it explores the journey of Mike Wazowski and James P. Sullivan as they navigate college life, compete to become top scarers, and forge a lasting friendship amidst challenges and rivalries.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Accidental Moral Mirror of Monsters University | Sojourners">
+                                <img itemprop="contentUrl url" src='https://sojo.net/sites/default/files/styles/large_rectangle_crop/public/blog/IMG_9.jpg?itok=B1-iZupz' alt='The Accidental Moral Mirror of Monsters University | Sojourners'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sojourners" />
+                                </span>
+                                <a href='https://sojo.net/sites/default/files/styles/large_rectangle_crop/public/blog/IMG_9.jpg?itok=B1-iZupz' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Monsters University Backdrop, Monsters Inc Birthday Party Supplies ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71OaAtUeNLL._AC_UF1000,1000_QL80_.jpg' alt='Monsters University Backdrop, Monsters Inc Birthday Party Supplies ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.sg" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71OaAtUeNLL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ten Years On, Monsters University Is Still The Most Important ...">
+                                <img itemprop="contentUrl url" src='https://static1.thegamerimages.com/wordpress/wp-content/uploads/2023/06/4kmonstersuniversity-animationscreencaps-com-432.jpg' alt='Ten Years On, Monsters University Is Still The Most Important ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2176">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheGamer" />
+                                </span>
+                                <a href='https://static1.thegamerimages.com/wordpress/wp-content/uploads/2023/06/4kmonstersuniversity-animationscreencaps-com-432.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Monsters University: Sully and Mike HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/418/418011.jpg' alt='Monsters University: Sully and Mike HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/418/418011.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Monsters University | Disney Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/disney/images/d/df/Monsters-University-Campus.jpg/revision/latest?cb=20150330181339' alt='Monsters University | Disney Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4096">
+                                <meta itemprop="height" content="2128">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/disney/images/d/df/Monsters-University-Campus.jpg/revision/latest?cb=20150330181339' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Monsters University Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/monsters-university-mu-ali81qiywfku9anb.jpg' alt='100+] Monsters University Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1206">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/monsters-university-mu-ali81qiywfku9anb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Monsters, Inc. Wallpapers (38 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/0/e/9/48539-1536x2732-samsung-hd-monsters-inc-wallpaper-image.jpg' alt='Monsters, Inc. Wallpapers (38 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="2732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/0/e/9/48539-1536x2732-samsung-hd-monsters-inc-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : YouRan Monsters University Backdrop, 84x60in Vinyl, Random  Color, Birthday Decoration for Kids Party Supplies : Electronics">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51zfZ32zK9L.jpg' alt='Amazon.com : YouRan Monsters University Backdrop, 84x60in Vinyl, Random  Color, Birthday Decoration for Kids Party Supplies : Electronics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51zfZ32zK9L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Monsters University HD Wallpaper: A Colorful Cast of Characters">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/409/thumb-1920-409341.jpg' alt='Monsters University HD Wallpaper: A Colorful Cast of Characters'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/409/thumb-1920-409341.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MONSTERS UNIVERSITY Debuts Fully-Functional Official Website">
+                                <img itemprop="contentUrl url" src='https://static1.colliderimages.com/wordpress/wp-content/uploads/monsters-university-slice1.jpg' alt='MONSTERS UNIVERSITY Debuts Fully-Functional Official Website'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Collider" />
+                                </span>
+                                <a href='https://static1.colliderimages.com/wordpress/wp-content/uploads/monsters-university-slice1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

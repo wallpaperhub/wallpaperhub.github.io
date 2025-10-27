@@ -1,0 +1,129 @@
+<title>Baldur's Gate 3 iPhone Wallpapers: Epic Designs to Download</title>
+                    <meta name="description" content="Discover the best Baldur's Gate 3 wallpapers for your iPhone. Explore a variety of stunning backgrounds showcasing your favorite characters and landscapes from the game. Download now to give your device a magical touch and celebrate your adventure in the Forgotten Realms!">
+                    <meta name="keywords" content="baldur's gate 3 wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/baldurs-gate-3-wallpaper-iphone">
+                            <span itemprop="name">baldur's gate 3 wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Baldur's Gate 3 iPhone Wallpapers: Epic Designs to Download</h1>
+                <p>Elevate your iPhone's aesthetics with stunning Baldur's Gate 3 wallpapers! From enchanting landscapes to iconic characters, find the perfect design that reflects your love for this epic RPG. Whether you're exploring the Forgotten Realms or strategizing in combat, these wallpapers bring the adventure to your home screen.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baldur's Gate 3 wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/5e/ad/e9/5eade9a584170a7aea792263cf2763ec.jpg' alt='Baldur's Gate 3 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/5e/ad/e9/5eade9a584170a7aea792263cf2763ec.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Baldur's Gate 3 Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/baldurs-gate-3-phone-ocqesp3xn54qt514.jpg' alt='100+] Baldur's Gate 3 Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/baldurs-gate-3-phone-ocqesp3xn54qt514.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baldur's Gate 3 wallpapers or desktop backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.gamewallpapers.com/img_script/mobile_dir2/img.php?src=wallpaper_baldurs_gate_3_11_1440x2560.jpg&width=253&height=450&crop-to-fit&sharpen' alt='Baldur's Gate 3 wallpapers or desktop backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="253">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameWallpapers.com" />
+                                </span>
+                                <a href='https://www.gamewallpapers.com/img_script/mobile_dir2/img.php?src=wallpaper_baldurs_gate_3_11_1440x2560.jpg&width=253&height=450&crop-to-fit&sharpen' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baldur's Gate 3 Phone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp13886770.jpg' alt='Baldur's Gate 3 Phone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp13886770.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a phone background : r/BaldursGate3">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/i-made-a-phone-background-v0-ol98o10tb6ec1.jpeg?auto=webp&s=2bdf5871b427e92821f8d96e5ff6a83c872facfd' alt='I made a phone background : r/BaldursGate3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2407">
+                                <meta itemprop="height" content="5210">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/i-made-a-phone-background-v0-ol98o10tb6ec1.jpeg?auto=webp&s=2bdf5871b427e92821f8d96e5ff6a83c872facfd' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What city is this? : r/BaldursGate3">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/wc8ja4umxl1c1.jpg' alt='What city is this? : r/BaldursGate3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/wc8ja4umxl1c1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baldur's Gate 3 4K Wallpaper iPhone HD Phone #5691l">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/baldurs-gate-3-569@1@l-phone-4k.jpg' alt='Baldur's Gate 3 4K Wallpaper iPhone HD Phone #5691l'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/baldurs-gate-3-569@1@l-phone-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baldur's Gate 3">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/03/e7/e0/03e7e0f734c37ed5eaa444a83f57e759.jpg' alt='Baldur's Gate 3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/03/e7/e0/03e7e0f734c37ed5eaa444a83f57e759.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baldur's Gate 3 Phone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp13886794.jpg' alt='Baldur's Gate 3 Phone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp13886794.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baldur's Gate 3 wallpaper 08 1080p Vertical">
+                                <img itemprop="contentUrl url" src='https://www.gamewallpapers.com/getphonewallpaper.php?lowquality=1&titel=Baldur%5C%27s+Gate+3&nummer=08&phoneResId=3502&wallpaperType=vertical&qhdbeschikbaar=1&wallpaper_id=8262' alt='Baldur's Gate 3 wallpaper 08 1080p Vertical'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameWallpapers.com" />
+                                </span>
+                                <a href='https://www.gamewallpapers.com/getphonewallpaper.php?lowquality=1&titel=Baldur%5C%27s+Gate+3&nummer=08&phoneResId=3502&wallpaperType=vertical&qhdbeschikbaar=1&wallpaper_id=8262' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

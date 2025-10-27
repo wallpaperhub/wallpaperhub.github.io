@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="background:qc74ca4dzlu= american football wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/football">
+                            <span itemprop="name">Football</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/football/backgroundqc74ca4dzlu-american-football-wallpaper">
+                            <span itemprop="name">background:qc74ca4dzlu= american football wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American football player in action on the stadium Wall Mural ...">
+                                <img itemprop="contentUrl url" src='https://us.canvasartrocks.com/cdn/shop/products/American_football_player_in_action_on_the_stadium_Wall_Mural_Wallpaper_d_1400x.jpg?v=1735833804' alt='American football player in action on the stadium Wall Mural ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="721">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canvas Art Rocks" />
+                                </span>
+                                <a href='https://us.canvasartrocks.com/cdn/shop/products/American_football_player_in_action_on_the_stadium_Wall_Mural_Wallpaper_d_1400x.jpg?v=1735833804' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American football, player, USA, football player, National Football ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/634/199/HD-wallpaper-american-football-player-usa-football-player-national-football-league-nfl-ifaf-international-federation-of-american-football-ball-for-american-football.jpg' alt='American football, player, USA, football player, National Football ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/634/199/HD-wallpaper-american-football-player-usa-football-player-national-football-league-nfl-ifaf-international-federation-of-american-football-ball-for-american-football.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="72 NFL Wallpaper ideas in 2025 | nfl, nfl football art, nfl ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/67/a1/01/67a1018c08a694db85138366daf877bb.jpg' alt='72 NFL Wallpaper ideas in 2025 | nfl, nfl football art, nfl ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/67/a1/01/67a1018c08a694db85138366daf877bb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="220 NFL Wallpapers ideas | nfl, nfl football art, fan poster">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/fc/b9/e7/fcb9e7a77a7a3ff42f71bef022099eca.jpg' alt='220 NFL Wallpapers ideas | nfl, nfl football art, fan poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="687">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/fc/b9/e7/fcb9e7a77a7a3ff42f71bef022099eca.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NFL Wallpaper 4K, Super Bowl, Soccer field, Stadium">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/nfl-super-bowl-1920x1200-14773.jpg' alt='NFL Wallpaper 4K, Super Bowl, Soccer field, Stadium'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/nfl-super-bowl-1920x1200-14773.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k American Football Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4c/8c/b0/4c8cb07f5892ff588d597e3e5e99cc3d.jpg' alt='4k American Football Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4c/8c/b0/4c8cb07f5892ff588d597e3e5e99cc3d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American Football Wallpapers NFL 24/25 - App on Amazon Appstore">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91sc5f7rpiL.jpg' alt='American Football Wallpapers NFL 24/25 - App on Amazon Appstore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91sc5f7rpiL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American football player Wallpaper 4K, Uniform, Helmet">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/american-football-2048x2048-17281.jpg' alt='American football player Wallpaper 4K, Uniform, Helmet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/american-football-2048x2048-17281.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NFL Football HD Wallpapers - 2025 NFL Football Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a0/4a/ff/a04aff447a8ab8cf484e730bd054abd1.jpg' alt='NFL Football HD Wallpapers - 2025 NFL Football Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a0/4a/ff/a04aff447a8ab8cf484e730bd054abd1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="320 Nfl football wallpaper ideas | nfl football wallpaper, nfl ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/44/7f/85/447f8567c6112522ceb684b379fa7eab.jpg' alt='320 Nfl football wallpaper ideas | nfl football wallpaper, nfl ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="549">
+                                <meta itemprop="height" content="671">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/44/7f/85/447f8567c6112522ceb684b379fa7eab.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

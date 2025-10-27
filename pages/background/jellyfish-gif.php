@@ -1,0 +1,129 @@
+<title>Captivating Jellyfish Gifs: Explore the Underwater Beauty</title>
+                    <meta name="description" content="Dive into the mesmerizing world of jellyfish gifs! Discover a collection of stunning and serene underwater animations that showcase the beauty and grace of these aquatic creatures. Perfect for relaxation, inspiration, and sharing on social media.">
+                    <meta name="keywords" content="jellyfish gif">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/jellyfish-gif">
+                            <span itemprop="name">jellyfish gif</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Captivating Jellyfish Gifs: Explore the Underwater Beauty</h1>
+                <p>Jellyfish gifs are mesmerizing and enchanting, showcasing the graceful movements of these aquatic wonders. Their translucent bodies pulse and glide through the water, creating captivating visuals that are perfect for sharing. Whether you're looking for relaxation or inspiration, these gifs transport you into the serene underwater world.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Jellyfish GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media4.giphy.com/media/2K8GaJPVJlbzi/giphy.gif?cid=6c09b952riwuqw471ljfro2y786zlaipe0mju2n0nabigol1&ep=v1_gifs_search&rid=giphy.gif&ct=g' alt='Blue Jellyfish GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media4.giphy.com/media/2K8GaJPVJlbzi/giphy.gif?cid=6c09b952riwuqw471ljfro2y786zlaipe0mju2n0nabigol1&ep=v1_gifs_search&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jellyfish Gif - IceGif">
+                                <img itemprop="contentUrl url" src='https://www.icegif.com/wp-content/uploads/2024/07/jellyfish-icegif-10.gif' alt='Jellyfish Gif - IceGif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IceGif" />
+                                </span>
+                                <a href='https://www.icegif.com/wp-content/uploads/2024/07/jellyfish-icegif-10.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jellyfish GIFs - Get the best gif on GIFER">
+                                <img itemprop="contentUrl url" src='https://i.gifer.com/1l4D.gif' alt='Jellyfish GIFs - Get the best gif on GIFER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gifer" />
+                                </span>
+                                <a href='https://i.gifer.com/1l4D.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jellyfish Gif - IceGif">
+                                <img itemprop="contentUrl url" src='https://www.icegif.com/wp-content/uploads/2024/07/jellyfish-icegif-9.gif' alt='Jellyfish Gif - IceGif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="833">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IceGif" />
+                                </span>
+                                <a href='https://www.icegif.com/wp-content/uploads/2024/07/jellyfish-icegif-9.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Comb Jellyfish GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media2.giphy.com/media/9ErMGpYXUiuek/giphy.gif?cid=6c09b9527cx8avenyp58856c260corh1y4nvvjj6h8159z1u&ep=v1_gifs_search&rid=giphy.gif&ct=g' alt='Comb Jellyfish GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="434">
+                                <meta itemprop="height" content="244">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media2.giphy.com/media/9ErMGpYXUiuek/giphy.gif?cid=6c09b9527cx8avenyp58856c260corh1y4nvvjj6h8159z1u&ep=v1_gifs_search&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="moon jelly jellyfish GIF by Nat Geo Wild - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media4.giphy.com/media/21Pca7wCEmX1JS8c2D/giphy.gif?cid=6c09b952gduk68cxncm6scstri71qp9g004nmp625udn5ah2&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' alt='moon jelly jellyfish GIF by Nat Geo Wild - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media4.giphy.com/media/21Pca7wCEmX1JS8c2D/giphy.gif?cid=6c09b952gduk68cxncm6scstri71qp9g004nmp625udn5ah2&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="moon jelly jellyfish GIF by Nat Geo Wild - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media4.giphy.com/media/4TkuXuIzlJ4qspTAgD/giphy.gif?cid=6c09b952xzsnmwi0ij6udfiu8vr56rfyc3b8nmw4xz1qqlls&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' alt='moon jelly jellyfish GIF by Nat Geo Wild - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media4.giphy.com/media/4TkuXuIzlJ4qspTAgD/giphy.gif?cid=6c09b952xzsnmwi0ij6udfiu8vr56rfyc3b8nmw4xz1qqlls&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jellyfish Clips - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media0.giphy.com/media/VCZpI6yq77YcsSA9Rp/200w.gif?cid=6c09b9526ttdjg0kk85ok2xkeujaaepp3jwpenpahmqexfew&ep=v1_videos_search&rid=200w.gif&ct=v' alt='Jellyfish Clips - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="185">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media0.giphy.com/media/VCZpI6yq77YcsSA9Rp/200w.gif?cid=6c09b9526ttdjg0kk85ok2xkeujaaepp3jwpenpahmqexfew&ep=v1_videos_search&rid=200w.gif&ct=v' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Evolution Jellyfish GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media3.giphy.com/media/LPlmexh8SLjO9OwPxP/200w.gif?cid=6c09b9523odmdmladerf7568s6ve5vgtnecekesgclrc53y8&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Evolution Jellyfish GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="266">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media3.giphy.com/media/LPlmexh8SLjO9OwPxP/200w.gif?cid=6c09b9523odmdmladerf7568s6ve5vgtnecekesgclrc53y8&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jellyfish GIF 1 AotP by ArwynAtreides on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/01f3f7bd-8517-49e1-95fb-c3e9274a1b84/dbjd5uz-b9ddf55c-2751-45f2-9c67-dfd34d2cbdcf.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzAxZjNmN2JkLTg1MTctNDllMS05NWZiLWMzZTkyNzRhMWI4NFwvZGJqZDV1ei1iOWRkZjU1Yy0yNzUxLTQ1ZjItOWM2Ny1kZmQzNGQyY2JkY2YuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.dWXPUtxIJKZi0h_TSLTlUgEhV5IR2xrix4eLYfYo1ZE' alt='Jellyfish GIF 1 AotP by ArwynAtreides on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="902">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/01f3f7bd-8517-49e1-95fb-c3e9274a1b84/dbjd5uz-b9ddf55c-2751-45f2-9c67-dfd34d2cbdcf.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzAxZjNmN2JkLTg1MTctNDllMS05NWZiLWMzZTkyNzRhMWI4NFwvZGJqZDV1ei1iOWRkZjU1Yy0yNzUxLTQ1ZjItOWM2Ny1kZmQzNGQyY2JkY2YuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.dWXPUtxIJKZi0h_TSLTlUgEhV5IR2xrix4eLYfYo1ZE' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

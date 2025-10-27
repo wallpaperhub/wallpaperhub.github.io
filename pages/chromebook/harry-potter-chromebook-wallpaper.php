@@ -1,0 +1,129 @@
+<title>Magical Harry Potter Chromebook Wallpapers for Fans</title>
+                    <meta name="description" content="Discover stunning Harry Potter Chromebook wallpapers to elevate your device! From iconic characters to breathtaking scenes, find the perfect design to express your love for the wizarding world. Transform your Chromebook into a magical space today!">
+                    <meta name="keywords" content="harry potter chromebook wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/chromebook">
+                            <span itemprop="name">Chromebook</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/chromebook/harry-potter-chromebook-wallpaper">
+                            <span itemprop="name">harry potter chromebook wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Magical Harry Potter Chromebook Wallpapers for Fans</h1>
+                <p>Transform your Chromebook with enchanting Harry Potter wallpapers that capture the magic and adventure of the wizarding world. Choose from iconic characters like Harry, Hermione, and Ron, or beautiful scenes from Hogwarts. Perfect for fans, these wallpapers will inspire your creativity and add a touch of magic to your everyday tasks!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="500+] Harry Potter Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/harry-potter-desktop-vtho1d6dbpcfzv5v.jpg' alt='500+] Harry Potter Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/harry-potter-desktop-vtho1d6dbpcfzv5v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Hogwarts Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/hogwarts-castle-harry-potter-laptop-spm3v61qlcp6uum6.jpg' alt='200+] Hogwarts Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/hogwarts-castle-harry-potter-laptop-spm3v61qlcp6uum6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter Wallpaper HD & Background | Harry Potter Chrome New Tab">
+                                <img itemprop="contentUrl url" src='https://coolthemestores.com/wp-content/uploads/2020/11/harry-potter-features.jpg' alt='Harry Potter Wallpaper HD & Background | Harry Potter Chrome New Tab'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="394">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cool Theme Stores" />
+                                </span>
+                                <a href='https://coolthemestores.com/wp-content/uploads/2020/11/harry-potter-features.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HARRY POTTER">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0b/2a/ea/0b2aea635af43fd2bde041f806074bba.jpg' alt='HARRY POTTER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0b/2a/ea/0b2aea635af43fd2bde041f806074bba.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="500+] Harry Potter Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/harry-potter-gi5aixvd4d26cpij.jpg' alt='500+] Harry Potter Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/harry-potter-gi5aixvd4d26cpij.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Harry Potter Muggle Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/harry-potter-muggle-rymdzd4mm6l6gkf3.jpg' alt='100+] Harry Potter Muggle Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/harry-potter-muggle-rymdzd4mm6l6gkf3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter Chromebook Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/98/a6/83/98a683bbc17584f3d4d6868253f7a15c.jpg' alt='Harry Potter Chromebook Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="132">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/98/a6/83/98a683bbc17584f3d4d6868253f7a15c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hogwarts Harry Potter School Wallpaper, HD Fantasy 4K Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/hogwarts-harry-potter-school_a2ZqaGyUmZqaraWkpJRqZmdlrWdtbWU.jpg' alt='Hogwarts Harry Potter School Wallpaper, HD Fantasy 4K Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5120">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/hogwarts-harry-potter-school_a2ZqaGyUmZqaraWkpJRqZmdlrWdtbWU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Greyscale Hogwarts Castle Harry Potter Desktop Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/greyscale-hogwarts-castle-harry-potter-desktop-1dwu2dy7tf4yuyfd.jpg' alt='Download Greyscale Hogwarts Castle Harry Potter Desktop Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/greyscale-hogwarts-castle-harry-potter-desktop-1dwu2dy7tf4yuyfd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter Aesthetic Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/harry-potter-aesthetic-illustrated-hogwarts-7r5i5335cmya166v.jpg' alt='Harry Potter Aesthetic Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1209">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/harry-potter-aesthetic-illustrated-hogwarts-7r5i5335cmya166v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

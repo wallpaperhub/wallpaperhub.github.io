@@ -1,0 +1,129 @@
+<title>Unlocking the Past: A Brief History of Radiology</title>
+                    <meta name="description" content="Explore the fascinating evolution of radiology, from Roentgen's first X-ray in 1895 to today's advanced imaging technologies. Discover how radiology transformed medical diagnostics and continues to enhance patient care in modern medicine.">
+                    <meta name="keywords" content="history of radiology">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/history-of-radiology">
+                            <span itemprop="name">history of radiology</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unlocking the Past: A Brief History of Radiology</h1>
+                <p>Radiology, a pivotal branch of medicine, began in 1895 with Wilhelm Conrad Roentgen's discovery of X-rays. This breakthrough revolutionized diagnostics, allowing for non-invasive visualization of internal structures. Over the decades, advancements like CT and MRI evolved, improving diagnostic accuracy and treatment planning, and establishing radiology as a cornerstone of modern healthcare.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Evolution of Radiology">
+                                <img itemprop="contentUrl url" src='https://www.purview.net/hubfs/Evolution_RadiologyFinal.png' alt='The Evolution of Radiology'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="852">
+                                <meta itemprop="height" content="590">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Purview" />
+                                </span>
+                                <a href='https://www.purview.net/hubfs/Evolution_RadiologyFinal.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Radiology by Adrian M. K. Thomas, Arpan K. Banerjee ...">
+                                <img itemprop="contentUrl url" src='http://prodimage.images-bn.com/pimages/9780191669712_p0_v2_s1200x630.jpg' alt='The History of Radiology by Adrian M. K. Thomas, Arpan K. Banerjee ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Barnes & Noble" />
+                                </span>
+                                <a href='http://prodimage.images-bn.com/pimages/9780191669712_p0_v2_s1200x630.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A brief history of radiology - Radiology Cafe">
+                                <img itemprop="contentUrl url" src='https://www.radiologycafe.com/wp-content/uploads/2021/05/history-radiology-rontgen.jpg' alt='A brief history of radiology - Radiology Cafe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="322">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Radiology Cafe" />
+                                </span>
+                                <a href='https://www.radiologycafe.com/wp-content/uploads/2021/05/history-radiology-rontgen.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Our History | Radiology | Michigan Medicine | University of Michigan">
+                                <img itemprop="contentUrl url" src='https://medicine.umich.edu/sites/default/files/styles/carousel_full/public/Rad_Timeline.png?itok=j_5Rasak' alt='Our History | Radiology | Michigan Medicine | University of Michigan'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2340">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Michigan Medicine - University of Michigan" />
+                                </span>
+                                <a href='https://medicine.umich.edu/sites/default/files/styles/carousel_full/public/Rad_Timeline.png?itok=j_5Rasak' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zohra Institute of Health Sciences Rawalpindi - History of ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=465087027469034' alt='Zohra Institute of Health Sciences Rawalpindi - History of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1930">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=465087027469034' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="preserving-celebrating-radiologys-revolutionary-road | RSNA">
+                                <img itemprop="contentUrl url" src='https://www.rsna.org/-/media/images/rsna/news-articles/2014/jun/history_radiology.jpg?h=954&iar=0&w=1200&rev=af98b26bf7b0483f88cd474e415a922d&hash=5F55B19F84BDC52ED1DC188DF417E24D' alt='preserving-celebrating-radiologys-revolutionary-road | RSNA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="954">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RSNA" />
+                                </span>
+                                <a href='https://www.rsna.org/-/media/images/rsna/news-articles/2014/jun/history_radiology.jpg?h=954&iar=0&w=1200&rev=af98b26bf7b0483f88cd474e415a922d&hash=5F55B19F84BDC52ED1DC188DF417E24D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Radiology - RAI">
+                                <img itemprop="contentUrl url" src='https://4rai.com/wp-content/uploads/sites/20/2021/04/wilhelm-rontgen.jpg' alt='History of Radiology - RAI'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="840">
+                                <meta itemprop="height" content="634">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Radiology Affiliates Imaging" />
+                                </span>
+                                <a href='https://4rai.com/wp-content/uploads/sites/20/2021/04/wilhelm-rontgen.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of radiology - British Institute of Radiology">
+                                <img itemprop="contentUrl url" src='https://www.bir.org.uk/media/332781/1960s_radiology-radiography.jpg?width=220&crop=true' alt='History of radiology - British Institute of Radiology'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="British Institute of Radiology" />
+                                </span>
+                                <a href='https://www.bir.org.uk/media/332781/1960s_radiology-radiography.jpg?width=220&crop=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of X-Ray Machine and Its Inventor Röntgen | Custom X-Ray">
+                                <img itemprop="contentUrl url" src='https://www.customxray.com/wp-content/uploads/2022/02/history-of-x-ray-machine.jpg' alt='History of X-Ray Machine and Its Inventor Röntgen | Custom X-Ray'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Custom X-Ray Digital Equipment" />
+                                </span>
+                                <a href='https://www.customxray.com/wp-content/uploads/2022/02/history-of-x-ray-machine.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A brief history of radiology - Radiology Cafe">
+                                <img itemprop="contentUrl url" src='https://www.radiologycafe.com/wp-content/uploads/2021/05/history-radiology-ultrasound.jpg' alt='A brief history of radiology - Radiology Cafe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="412">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Radiology Cafe" />
+                                </span>
+                                <a href='https://www.radiologycafe.com/wp-content/uploads/2021/05/history-radiology-ultrasound.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

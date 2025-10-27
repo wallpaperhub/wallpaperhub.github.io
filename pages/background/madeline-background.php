@@ -1,0 +1,129 @@
+<title>Discover the Charming World of Madeline: A Timeless Classic</title>
+                    <meta name="description" content="Explore the enchanting adventures of Madeline, the spirited girl from Paris! Dive into her world of bravery, friendship, and unforgettable memories in this beloved children's series. Perfect for readers of all ages seeking fun and inspiration!">
+                    <meta name="keywords" content="madeline background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/madeline-background">
+                            <span itemprop="name">madeline background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Charming World of Madeline: A Timeless Classic</h1>
+                <p>Madeline is a beloved fictional character from Ludwig Bemelmans' children's book series, centered around a young girl in a Parisian boarding school. Known for her bravery and spirited personality, Madeline's adventures often reflect themes of friendship, resilience, and adventure, captivating children and adults alike since the1930s.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Madeline Production Background - ID: aprmadeline7738 | Van Eaton ...">
+                                <img itemprop="contentUrl url" src='https://vegalleries.com/sites/default/files/art/product_images/manual/2016/aprmadeline7738.jpg' alt='Madeline Production Background - ID: aprmadeline7738 | Van Eaton ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Van Eaton Galleries" />
+                                </span>
+                                <a href='https://vegalleries.com/sites/default/files/art/product_images/manual/2016/aprmadeline7738.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Madeline Paris at Night Painted Color Key Background (UPA, | Lot ...">
+                                <img itemprop="contentUrl url" src='https://dyn1.heritagestatic.com/lf?set=path%5B2%2F2%2F3%2F1%2F7%2F22317985%5D&call=url%5Bfile%3Aproduct.chain%5D' alt='Madeline Paris at Night Painted Color Key Background (UPA, | Lot ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1246">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heritage Auctions – Comics" />
+                                </span>
+                                <a href='https://dyn1.heritagestatic.com/lf?set=path%5B2%2F2%2F3%2F1%2F7%2F22317985%5D&call=url%5Bfile%3Aproduct.chain%5D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Madeline (book) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/1/19/Madeline-1939.jpg' alt='Madeline (book) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="268">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/1/19/Madeline-1939.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Madeline Production Background - ID: aprmadeline7720 | Van Eaton ...">
+                                <img itemprop="contentUrl url" src='https://vegalleries.com/sites/default/files/art/product_images/manual/2016/aprmadeline7720.jpg' alt='Madeline Production Background - ID: aprmadeline7720 | Van Eaton ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1102">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Van Eaton Galleries" />
+                                </span>
+                                <a href='https://vegalleries.com/sites/default/files/art/product_images/manual/2016/aprmadeline7720.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Madeline-Female Name Calligraphy Dork Pink Color Text On Pink ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/04/23/11/52/1000_F_423115203_AXS8INhLp4nGzNmKL9NvWrDGqpUI2S73.jpg' alt='Madeline-Female Name Calligraphy Dork Pink Color Text On Pink ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="666">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/04/23/11/52/1000_F_423115203_AXS8INhLp4nGzNmKL9NvWrDGqpUI2S73.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Madeline Text Design Vector Calligraphy Typography Stock Vector ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/622450328/display_1500/stock-vector-madeline-text-design-vector-calligraphy-typography-poster-usable-as-background-622450328.jpg' alt='Madeline Text Design Vector Calligraphy Typography Stock Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1587">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/622450328/display_1500/stock-vector-madeline-text-design-vector-calligraphy-typography-poster-usable-as-background-622450328.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Madeline Production Background - ID: aprmadeline7725 | Van Eaton ...">
+                                <img itemprop="contentUrl url" src='https://vegalleries.com/sites/default/files/art/product_images/manual/2016/aprmadeline7725.jpg' alt='Madeline Production Background - ID: aprmadeline7725 | Van Eaton ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1097">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Van Eaton Galleries" />
+                                </span>
+                                <a href='https://vegalleries.com/sites/default/files/art/product_images/manual/2016/aprmadeline7725.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Madeline Name Wall And Art Print | Girl-names">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bb/79/77/bb79774fbfbe76cc9fdeec8b2df30fa1.jpg' alt='Madeline Name Wall And Art Print | Girl-names'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bb/79/77/bb79774fbfbe76cc9fdeec8b2df30fa1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background for Madeline : r/BackgroundArt">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/background-for-madeline-v0-q06c5ihq7n2b1.jpg?width=1080&crop=smart&auto=webp&s=61dacb201b408b6d54a711528a3781a7f154e16b' alt='Background for Madeline : r/BackgroundArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="723">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/background-for-madeline-v0-q06c5ihq7n2b1.jpg?width=1080&crop=smart&auto=webp&s=61dacb201b408b6d54a711528a3781a7f154e16b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD with madeline name wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/145/220/HD-wallpaper-happy-birtay-madeline-pink-neon-lights-madeline-name-creative-madeline-happy-birtay-madeline-birtay-popular-american-female-names-with-madeline-name-madeline.jpg' alt='HD with madeline name wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/145/220/HD-wallpaper-happy-birtay-madeline-pink-neon-lights-madeline-name-creative-madeline-happy-birtay-madeline-birtay-popular-american-female-names-with-madeline-name-madeline.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

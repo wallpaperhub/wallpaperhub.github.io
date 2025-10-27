@@ -1,0 +1,129 @@
+<title>Stunning Pink Hearts Backgrounds for a Romantic Touch</title>
+                    <meta name="description" content="Explore beautiful pink hearts backgrounds to elevate your designs! Perfect for romantic themes, these backgrounds are versatile for anything from social media posts to invitations. Discover the perfect blend of charm and creativity with our selection of stunning pink heart designs!">
+                    <meta name="keywords" content="pink hearts background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pink-hearts-background">
+                            <span itemprop="name">pink hearts background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Pink Hearts Backgrounds for a Romantic Touch</h1>
+                <p>Transform your digital space with a stunning pink hearts background! Perfect for expressing love or adding a sweet touch to your graphics, this background features delicate pink hearts in varying shades, offering a charming and romantic vibe. Ideal for social media posts, invitations, or personal projects, let your creativity shine!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Pink hearts with a pink heart on a pink background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/background-with-hearts-vector_363897-14073.jpg' alt='Premium Vector | Pink hearts with a pink heart on a pink background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="352">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/background-with-hearts-vector_363897-14073.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="117,600+ Pink Hearts Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1363251579/vector/seamless-hearts-texture-heart-shape-pattern.jpg?s=612x612&w=0&k=20&c=ez_BMEtnbz66Wlespw9X9BbDRk7SyqnN2_PFzMYR-Mc=' alt='117,600+ Pink Hearts Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1363251579/vector/seamless-hearts-texture-heart-shape-pattern.jpg?s=612x612&w=0&k=20&c=ez_BMEtnbz66Wlespw9X9BbDRk7SyqnN2_PFzMYR-Mc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Hearts for Background PNG Clip Art Image​ | Gallery ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/downloadfullsize/send/19296' alt='Pink Hearts for Background PNG Clip Art Image​ | Gallery ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="8000">
+                                <meta itemprop="height" content="7997">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/downloadfullsize/send/19296' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Hearts Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/polka-style-cute-love-heart-pattern-textile-fabric-print_1017-52352.jpg' alt='Pink Hearts Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/polka-style-cute-love-heart-pattern-textile-fabric-print_1017-52352.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Hearts, Background, Pink. Royalty-Free Stock Illustration ...">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2015/09/13/03/43/hearts-937668_1280.jpg' alt='Download Hearts, Background, Pink. Royalty-Free Stock Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2015/09/13/03/43/hearts-937668_1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download premium image of Seamless glittery pink hearts patterned ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e8/ef/22/e8ef226a0ada99c3a86e6459fc70a950.jpg' alt='Download premium image of Seamless glittery pink hearts patterned ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e8/ef/22/e8ef226a0ada99c3a86e6459fc70a950.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Y2k Pink Hearts Background Image Images | Free Photos, PNG ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjA2ZGVzaWduLXJlbWl4LWJnLTEzLmpwZw.jpg' alt='Y2k Pink Hearts Background Image Images | Free Photos, PNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjA2ZGVzaWduLXJlbWl4LWJnLTEzLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="117,600+ Pink Hearts Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/534680417/vector/abstract-hearts-background.jpg?s=612x612&w=0&k=20&c=uZwKFotLMNRPs9_Ti6NFcy-tufweKdrLx4PtxJU5_EE=' alt='117,600+ Pink Hearts Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="434">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/534680417/vector/abstract-hearts-background.jpg?s=612x612&w=0&k=20&c=uZwKFotLMNRPs9_Ti6NFcy-tufweKdrLx4PtxJU5_EE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Hearts Bokeh Background Vector Art & Graphics | freevector.com">
+                                <img itemprop="contentUrl url" src='https://www.freevector.com/uploads/vector/preview/23999/DD-Pink-Hearts-Background-55611-Preview.jpg' alt='Pink Hearts Bokeh Background Vector Art & Graphics | freevector.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1136">
+                                <meta itemprop="height" content="936">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Vector Art & Graphics" />
+                                </span>
+                                <a href='https://www.freevector.com/uploads/vector/preview/23999/DD-Pink-Hearts-Background-55611-Preview.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Pink hearts on a white background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/pink-hearts-white-background_363897-14308.jpg' alt='Premium Vector | Pink hearts on a white background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="352">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/pink-hearts-white-background_363897-14308.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

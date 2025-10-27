@@ -1,0 +1,129 @@
+<title>“Elevate Your Space: Stunning Blue Wallpaper Ideas”</title>
+                    <meta name="description" content="“Explore beautiful blue wallpaper options for your home. From calming shades to bold hues, find the perfect wall covering that creates a relaxing atmosphere and enhances your interior style. Discover inspiration for every room today!”">
+                    <meta name="keywords" content="blue wallpaper room">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room">
+                            <span itemprop="name">Room</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room/blue-wallpaper-room">
+                            <span itemprop="name">blue wallpaper room</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>“Elevate Your Space: Stunning Blue Wallpaper Ideas”</h1>
+                <p>Transform your space with blue wallpaper that adds tranquility and elegance to any room. Choose from shades like powder blue for a soft feel or navy for dramatic flair. Ideal for bedrooms or living rooms, blue wallpaper creates a serene backdrop that complements a variety of décor styles. Experience the soothing ambiance today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Royal Blue Diamond Geometric Peel and Stick Removable Wallpaper 291b">
+                                <img itemprop="contentUrl url" src='https://wallsbyme.com/cdn/shop/files/geometric_48506291_b_05-sw_1024x1024.jpg?v=1723299472' alt='Royal Blue Diamond Geometric Peel and Stick Removable Wallpaper 291b'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls By Me" />
+                                </span>
+                                <a href='https://wallsbyme.com/cdn/shop/files/geometric_48506291_b_05-sw_1024x1024.jpg?v=1723299472' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick / Sample">
+                                <img itemprop="contentUrl url" src='https://wallblush.com/cdn/shop/files/DutchessBlue--LivingArea.jpg?v=1715990437&width=1840' alt='Peel & Stick / Sample'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1840">
+                                <meta itemprop="height" content="1840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='https://wallblush.com/cdn/shop/files/DutchessBlue--LivingArea.jpg?v=1715990437&width=1840' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Blue Wallpaper Tropical Leaves Wall Mural - Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16860262/r/il/551b70/3829802764/il_fullxfull.3829802764_amz0.jpg' alt='Dark Blue Wallpaper Tropical Leaves Wall Mural - Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2593">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16860262/r/il/551b70/3829802764/il_fullxfull.3829802764_amz0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Walls to a Cozy Blue Wallpaper Room - Nesting With Grace">
+                                <img itemprop="contentUrl url" src='https://nestingwithgrace.com/wp-content/uploads/2024/08/3P1A4624.jpg' alt='White Walls to a Cozy Blue Wallpaper Room - Nesting With Grace'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1160">
+                                <meta itemprop="height" content="1627">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nesting With Grace" />
+                                </span>
+                                <a href='https://nestingwithgrace.com/wp-content/uploads/2024/08/3P1A4624.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Wallpaper | Navy & Pastel Tones With Dark & Light Options ...">
+                                <img itemprop="contentUrl url" src='https://www.datocms-assets.com/54048/1641470158-rive.jpg?auto=format&dpr=0.23&w=2200' alt='Blue Wallpaper | Navy & Pastel Tones With Dark & Light Options ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bobbi Beck" />
+                                </span>
+                                <a href='https://www.datocms-assets.com/54048/1641470158-rive.jpg?auto=format&dpr=0.23&w=2200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Wallpaper - Order Blue Designer Wallpapers Online FREE ...">
+                                <img itemprop="contentUrl url" src='https://oliveetoriel.com/cdn/shop/files/Bal-Harbour-Light-Blue-Bedroom-Wallpaper-Styled.jpg?v=1723348841&width=900' alt='Blue Wallpaper - Order Blue Designer Wallpapers Online FREE ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Olive et Oriel" />
+                                </span>
+                                <a href='https://oliveetoriel.com/cdn/shop/files/Bal-Harbour-Light-Blue-Bedroom-Wallpaper-Styled.jpg?v=1723348841&width=900' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Blue Wallpapers for Kids Room Living Room Wallpaper Bedroom ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/23287991/r/il/defb0b/2417223667/il_570xN.2417223667_25ph.jpg' alt='Dark Blue Wallpapers for Kids Room Living Room Wallpaper Bedroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="584">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/23287991/r/il/defb0b/2417223667/il_570xN.2417223667_25ph.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Abstract Grunge Dark Blue Texture Peel & Stick Wallpaper  Removable Self-Adhesive Large Wallpaper Roll 3D Wall Mural Sticker Home  Decor for ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/711m1AYNasL.jpg' alt='Amazon.com: Abstract Grunge Dark Blue Texture Peel & Stick Wallpaper  Removable Self-Adhesive Large Wallpaper Roll 3D Wall Mural Sticker Home  Decor for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/711m1AYNasL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Walls to a Cozy Blue Wallpaper Room - Nesting With Grace">
+                                <img itemprop="contentUrl url" src='https://nestingwithgrace.com/wp-content/uploads/2024/08/3P1A4618-683x1024.jpg' alt='White Walls to a Cozy Blue Wallpaper Room - Nesting With Grace'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nesting With Grace" />
+                                </span>
+                                <a href='https://nestingwithgrace.com/wp-content/uploads/2024/08/3P1A4618-683x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="87 Blue Wallpaper ideas | blue wallpapers, interior design, house ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/23/00/03/23000333f14dfd3cbd34c7444fc294d7.jpg' alt='87 Blue Wallpaper ideas | blue wallpapers, interior design, house ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="642">
+                                <meta itemprop="height" content="929">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/23/00/03/23000333f14dfd3cbd34c7444fc294d7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

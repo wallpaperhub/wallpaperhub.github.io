@@ -1,0 +1,129 @@
+<title>Stunning Rengoku Wallpapers: Ignite Your Device</title>
+                    <meta name="description" content="Explore a collection of striking Rengoku wallpapers from Demon Slayer. Perfect for fans, these vibrant designs will energize your screen, showcasing the essence of the Flame Hashira. Download now to personalize your device with bold, eye-catching visuals that inspire and motivate!">
+                    <meta name="keywords" content="rengoku wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rengoku-wallpaper">
+                            <span itemprop="name">rengoku wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Rengoku Wallpapers: Ignite Your Device</h1>
+                <p>Immerse yourself in the world of Demon Slayer with breathtaking Rengoku wallpapers. Each design captures the fiery spirit and unwavering determination of the Flame Hashira, giving your device a vibrant and powerful aesthetic. Perfect for fans, these wallpapers bring a touch of anime magic to your screen, inspiring strength and courage daily.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rengoku wallpaper by Zenitsusan - Download on ZEDGE™ | 19f3">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ef/6b/eb/ef6beb5cc0b25f5bd0cd84a290e7c65c.jpg' alt='Rengoku wallpaper by Zenitsusan - Download on ZEDGE™ | 19f3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ef/6b/eb/ef6beb5cc0b25f5bd0cd84a290e7c65c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kyojuro Rengoku: Stunning 4K Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/136/1360775.jpeg' alt='Kyojuro Rengoku: Stunning 4K Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/136/1360775.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This is an amazing Rengoku wallpaper imo : r/DemonSlayerAnime">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/l9j70fryj9h81.jpg' alt='This is an amazing Rengoku wallpaper imo : r/DemonSlayerAnime'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/l9j70fryj9h81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kyojuro Rengoku Wallpaper 4K, Orange background">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/kyojuro-rengoku-1080x1920-17183.jpg' alt='Kyojuro Rengoku Wallpaper 4K, Orange background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/kyojuro-rengoku-1080x1920-17183.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sick rengoku wallpaper : r/DemonSlayerAnime">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/00fk0lt3bcn71.jpg' alt='Sick rengoku wallpaper : r/DemonSlayerAnime'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/00fk0lt3bcn71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30+ Kyojuro Rengoku 4K Live Wallpapers">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/media/1474/rengoku-in-fire-demon-slayer.jpg' alt='30+ Kyojuro Rengoku 4K Live Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/media/1474/rengoku-in-fire-demon-slayer.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="                                   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/d9/e4/be/d9e4be3b95cb1dc09d327b48d0d52e11.jpg' alt='                                   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/d9/e4/be/d9e4be3b95cb1dc09d327b48d0d52e11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kyojuro Rengoku With Fiery Sword Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/kyojuro-rengoku-with-fiery-sword-hfrmavucq2vkpn07.jpg' alt='Kyojuro Rengoku With Fiery Sword Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/kyojuro-rengoku-with-fiery-sword-hfrmavucq2vkpn07.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ArtStation - Rengoku Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdna.artstation.com/p/assets/images/images/042/771/732/large/piscesgraphics-rengoku-splash.jpg?1635389497' alt='ArtStation - Rengoku Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtStation" />
+                                </span>
+                                <a href='https://cdna.artstation.com/p/assets/images/images/042/771/732/large/piscesgraphics-rengoku-splash.jpg?1635389497' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Kyojuro Rengoku Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/portrait-renguko-ultra-fire-pfp-hx4n4en3vn6t69ao.jpg' alt='100+] Kyojuro Rengoku Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/portrait-renguko-ultra-fire-pfp-hx4n4en3vn6t69ao.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

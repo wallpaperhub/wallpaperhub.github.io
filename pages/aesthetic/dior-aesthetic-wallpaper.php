@@ -1,0 +1,129 @@
+<title>Dior Aesthetic Wallpapers: Elevate Your Space</title>
+                    <meta name="description" content="Explore stunning Dior aesthetic wallpapers that bring luxury and elegance to your home. Designed for fashion lovers, these wallpapers feature iconic patterns and styles to enhance your decor and create a unique atmosphere. Perfect for any room, embrace the glamour and sophistication of Dior today!">
+                    <meta name="keywords" content="dior aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/dior-aesthetic-wallpaper">
+                            <span itemprop="name">dior aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dior Aesthetic Wallpapers: Elevate Your Space</h1>
+                <p>Discover the ultimate dior aesthetic wallpaper that blends luxury and elegance. Ideal for fashion enthusiasts, these wallpapers showcase iconic Dior designs, stunning patterns, and timeless sophistication. Transform your space with a touch of glamour, reflecting the essence of high fashion and artistry. Elevate your decor today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Dior ideas | dior, dior aesthetic, classy aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/40/70/e2/4070e2678bf112afe5f2f48da10d1ade.jpg' alt='12 Dior ideas | dior, dior aesthetic, classy aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="824">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/40/70/e2/4070e2678bf112afe5f2f48da10d1ade.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="29 Dior ideas | dior wallpaper, aesthetic iphone wallpaper, iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/b9/68/c9/b968c93fa540e928207b5a1c9bd7dc2b.jpg' alt='29 Dior ideas | dior wallpaper, aesthetic iphone wallpaper, iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="749">
+                                <meta itemprop="height" content="1048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/b9/68/c9/b968c93fa540e928207b5a1c9bd7dc2b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Dior Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/dior-aesthetic-7njej6gile0n6yt3.jpg' alt='100+] Dior Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1483">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/dior-aesthetic-7njej6gile0n6yt3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Dior Brand Aesthetic Collage Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dior-brand-aesthetic-collage-fb64pyi4vyni8q5q.jpg' alt='Download Dior Brand Aesthetic Collage Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dior-brand-aesthetic-collage-fb64pyi4vyni8q5q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Dior Inspired Aesthetic Collage Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dior-inspired-aesthetic-collage-lzww9i2li193pce3.jpg' alt='Download Dior Inspired Aesthetic Collage Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dior-inspired-aesthetic-collage-lzww9i2li193pce3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Dior ideas | dior, dior aesthetic, classy aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/40/70/e2/4070e2678bf112afe5f2f48da10d1ade.jpg' alt='12 Dior ideas | dior, dior aesthetic, classy aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="354">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/40/70/e2/4070e2678bf112afe5f2f48da10d1ade.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Beige Vanilla Dior Aesthetic Collage Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/beige-vanilla-dior-aesthetic-collage-egwrytmkbjhq3x0x.jpg' alt='Download Beige Vanilla Dior Aesthetic Collage Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/beige-vanilla-dior-aesthetic-collage-egwrytmkbjhq3x0x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dior, Gucci, Vogue Beige Aesthetic Collage Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/dior-gucci-vogue-beige-aesthetic-collage-eat7wsl015yh1r1e.jpg' alt='Dior, Gucci, Vogue Beige Aesthetic Collage Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/dior-gucci-vogue-beige-aesthetic-collage-eat7wsl015yh1r1e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Discovering the Essence of Aesthetic Summer : Little Book of Dior ...">
+                                <img itemprop="contentUrl url" src='https://www.fabmood.com/wp-content/uploads/2023/07/summer-9.jpg' alt='Discovering the Essence of Aesthetic Summer : Little Book of Dior ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="567">
+                                <meta itemprop="height" content="766">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fab Mood" />
+                                </span>
+                                <a href='https://www.fabmood.com/wp-content/uploads/2023/07/summer-9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dior Aesthetic Pink Rose Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/dior-aesthetic-pink-rose-cshxze72c2n6zvxn.jpg' alt='Dior Aesthetic Pink Rose Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="718">
+                                <meta itemprop="height" content="1266">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/dior-aesthetic-pink-rose-cshxze72c2n6zvxn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

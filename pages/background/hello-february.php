@@ -1,0 +1,129 @@
+<title>Hello February: Embrace Love & New Beginnings</title>
+                    <meta name="description" content="Discover the magic of February! From Valentine's Day to blooming spring, explore how this month brings love, joy, and fresh starts. Join us in celebrating the unique beauty of February!">
+                    <meta name="keywords" content="hello february">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/hello-february">
+                            <span itemprop="name">hello february</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Hello February: Embrace Love & New Beginnings</h1>
+                <p>Hello February! As we greet this vibrant month, we celebrate love, new beginnings, and the promise of spring. February brings unique moments—Valentine's Day, cozy gatherings, and hope as days start to grow longer. Let's embrace the joy of February, nurturing connections and cherishing every moment together!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sweet & Simple "Hello, February" Free Art to Print | This is our Bliss">
+                                <img itemprop="contentUrl url" src='https://thisisourbliss.com/wp-content/uploads/2020/01/Hello-February-with-candies-and-flowers-This-is-our-Bliss.jpg' alt='Sweet & Simple "Hello, February" Free Art to Print | This is our Bliss'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1990">
+                                <meta itemprop="height" content="1487">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="This is our Bliss" />
+                                </span>
+                                <a href='https://thisisourbliss.com/wp-content/uploads/2020/01/Hello-February-with-candies-and-flowers-This-is-our-Bliss.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello February Images – Browse 10,160 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/03/30/53/360_F_403305398_JAeyVSuo2K90pTkcBIJLKXB0dVGN4rjE.jpg' alt='Hello February Images – Browse 10,160 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/03/30/53/360_F_403305398_JAeyVSuo2K90pTkcBIJLKXB0dVGN4rjE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello February! – Still Life, With Cracker Crumbs..">
+                                <img itemprop="contentUrl url" src='https://crackercrumblife.com/wp-content/uploads/2022/02/pale-pink-simple-flowers-facebook-post.jpg' alt='Hello February! – Still Life, With Cracker Crumbs..'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1880">
+                                <meta itemprop="height" content="1576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Still Life, With Cracker Crumbs.." />
+                                </span>
+                                <a href='https://crackercrumblife.com/wp-content/uploads/2022/02/pale-pink-simple-flowers-facebook-post.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jayne's Quilting Room: Hello February!">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg15t3aYJl_C_HE_-NLqZgRc-lj5kWYxUAAp89_Jco2DirKI-G0ZHtAhQWVb8zX23IIZp3bVS7m2Xk0gLq7Yo0kFFxj4tMOYCQmG3dg0ZFU28iZSUjQEsuz2wgqMKpKw-r5nPAaxLE71g/s1600/Icy+February+Image.jpg' alt='Jayne's Quilting Room: Hello February!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jayne's Quilting Room" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg15t3aYJl_C_HE_-NLqZgRc-lj5kWYxUAAp89_Jco2DirKI-G0ZHtAhQWVb8zX23IIZp3bVS7m2Xk0gLq7Yo0kFFxj4tMOYCQmG3dg0ZFU28iZSUjQEsuz2wgqMKpKw-r5nPAaxLE71g/s1600/Icy+February+Image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="February mood board. Hello, romantic February! Please, be good!">
+                                <img itemprop="contentUrl url" src='http://funkyprintstudio.com/wp-content/uploads/2016/02/hello-february.jpg' alt='February mood board. Hello, romantic February! Please, be good!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Funky Print Studio" />
+                                </span>
+                                <a href='http://funkyprintstudio.com/wp-content/uploads/2016/02/hello-february.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello February Images – Browse 10,160 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/89/96/42/360_F_189964244_P8cFCFJhztN1bf1xJhXXZbkbvaiaHyyX.jpg' alt='Hello February Images – Browse 10,160 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="581">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/89/96/42/360_F_189964244_P8cFCFJhztN1bf1xJhXXZbkbvaiaHyyX.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="210 Hello February • ideas | february, months in a year, welcome ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/33/3e/dd/333edd16c2d68bb31e99734d03b3ba99.jpg' alt='210 Hello February • ideas | february, months in a year, welcome ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/33/3e/dd/333edd16c2d68bb31e99734d03b3ba99.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello February Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/watercolor-hello-february-lettering_23-2149227993.jpg' alt='Hello February Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/watercolor-hello-february-lettering_23-2149227993.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello February Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/flat-hello-february-lettering_23-2149228588.jpg' alt='Hello February Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/flat-hello-february-lettering_23-2149228588.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello February Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/037/814/337/non_2x/ai-generated-hello-february-card-in-female-hands-on-background-of-winter-landscape-hello-february-card-photo.jpg' alt='Hello February Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1749">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/037/814/337/non_2x/ai-generated-hello-february-card-in-female-hands-on-background-of-winter-landscape-hello-february-card-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Beautiful Purple Wallpaper Designs for Every Space</title>
+                    <meta name="description" content="Discover stunning purple wallpaper designs that elevate your home décor. From calming lavender to vibrant violet patterns, explore versatile options perfect for any room. Let your walls reflect your unique style with eye-catching designs that inspire creativity and comfort.">
+                    <meta name="keywords" content="purple wallpaper design">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/purple-wallpaper-design">
+                            <span itemprop="name">purple wallpaper design</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful Purple Wallpaper Designs for Every Space</h1>
+                <p>Purple wallpaper design brings a touch of elegance and creativity to any space. With various shades from soft lavender to deep violet, it can create a serene atmosphere or a bold statement. Patterns like florals or geometric shapes enhance visual interest, making it a versatile choice for bedrooms, living rooms, or even offices.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxury Abstract Purple Wallpaper Modern Geometric 3D Wall Mural ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/29370864/r/il/632442/4986341567/il_fullxfull.4986341567_lz4p.jpg' alt='Luxury Abstract Purple Wallpaper Modern Geometric 3D Wall Mural ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2666">
+                                <meta itemprop="height" content="1994">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/29370864/r/il/632442/4986341567/il_fullxfull.4986341567_lz4p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Wallpaper Mural for Home Decor | Premium Wall Murals US">
+                                <img itemprop="contentUrl url" src='https://everwallpaper.com/cdn/shop/files/purple-gold-wallpaper-mural.jpg?v=1655716965' alt='Purple Wallpaper Mural for Home Decor | Premium Wall Murals US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='https://everwallpaper.com/cdn/shop/files/purple-gold-wallpaper-mural.jpg?v=1655716965' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Wallpaper | Lavender Lilac Mauve Shades - Giffywalls">
+                                <img itemprop="contentUrl url" src='https://www.giffywalls.com/cdn/shop/files/B210Purplewatercolorbackground100-M.jpg?quality=90&v=1732187670&width=1326' alt='Purple Wallpaper | Lavender Lilac Mauve Shades - Giffywalls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1326">
+                                <meta itemprop="height" content="743">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giffywalls" />
+                                </span>
+                                <a href='https://www.giffywalls.com/cdn/shop/files/B210Purplewatercolorbackground100-M.jpg?quality=90&v=1732187670&width=1326' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable wallpaper purple templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFMbvX4_FI/1/0/900w/canva-purple-watercolor-abstract-phone-wallpaper-9M5Xoq_WI8s.jpg' alt='Free and customizable wallpaper purple templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFMbvX4_FI/1/0/900w/canva-purple-watercolor-abstract-phone-wallpaper-9M5Xoq_WI8s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Purple color pattern background design">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/purple-color-pattern-background-design_1030147-5852.jpg' alt='Premium Photo | Purple color pattern background design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/purple-color-pattern-background-design_1030147-5852.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10+ Purple Colour Wallpaper: Elevating Your Space with Elegance">
+                                <img itemprop="contentUrl url" src='https://jugyah-dev-property-photos.s3.ap-south-1.amazonaws.com/Screenshot_2024_11_12_182043_46c296fbe9.webp' alt='10+ Purple Colour Wallpaper: Elevating Your Space with Elegance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="847">
+                                <meta itemprop="height" content="836">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jugyah" />
+                                </span>
+                                <a href='https://jugyah-dev-property-photos.s3.ap-south-1.amazonaws.com/Screenshot_2024_11_12_182043_46c296fbe9.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Background Design Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/005/152/375/small_2x/modern-futuristic-neon-purple-background-free-vector.jpg' alt='Purple Background Design Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="625">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/005/152/375/small_2x/modern-futuristic-neon-purple-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable wallpaper purple templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFZNka3-jY/1/0/900w/canva-purple-and-pink-watercolor-flower-phone-wallpaper-o60c1Ih586o.jpg' alt='Free and customizable wallpaper purple templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFZNka3-jY/1/0/900w/canva-purple-and-pink-watercolor-flower-phone-wallpaper-o60c1Ih586o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple wallpaper designs in 2023">
+                                <img itemprop="contentUrl url" src='https://assets-news.housing.com/news/wp-content/uploads/2023/03/07122029/Purple-Wallpaper-Designs-in-2023-20.png' alt='Purple wallpaper designs in 2023'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="384">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Housing" />
+                                </span>
+                                <a href='https://assets-news.housing.com/news/wp-content/uploads/2023/03/07122029/Purple-Wallpaper-Designs-in-2023-20.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Buy Purple Wallpaper for Walls Online in India - Magicdecor">
+                                <img itemprop="contentUrl url" src='https://cdn.magicdecor.in/com/2024/10/21132141/Soft-Purple-White-Flowers-Wallpaper-Mural-710x488.jpg' alt='Buy Purple Wallpaper for Walls Online in India - Magicdecor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="488">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Magicdecor" />
+                                </span>
+                                <a href='https://cdn.magicdecor.in/com/2024/10/21132141/Soft-Purple-White-Flowers-Wallpaper-Mural-710x488.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Easter Wallpaper Aesthetic: Brighten Your Space</title>
+                    <meta name="description" content="Discover stunning Easter wallpaper designs that bring a vibrant, festive feel to your home. Perfect for enhancing your spring decor, these aesthetic options combine pastel colors and delightful patterns. Transform your space this season with wallpapers that celebrate Easter in style!">
+                    <meta name="keywords" content="easter wallpaper aesthetic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/easter-wallpaper-aesthetic">
+                            <span itemprop="name">easter wallpaper aesthetic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Easter Wallpaper Aesthetic: Brighten Your Space</h1>
+                <p>Transform your space this Easter with beautifully crafted wallpaper designs that exude joy and warmth. Embrace pastel colors, delicate florals, and charming motifs that capture the spirit of spring. Perfect for creating a cozy atmosphere, these wallpapers will make your home feel vibrant and inviting during the festive season.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Easter April wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ea/be/07/eabe0773b1a941ca199cac78ec7f5d73.jpg' alt='Easter April wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ea/be/07/eabe0773b1a941ca199cac78ec7f5d73.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Cute Easter Wallpaper Backgrounds For Iphone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/06/4e/fe/064efed7a59dec8bd42fc96c987bbebe.jpg' alt='25 Cute Easter Wallpaper Backgrounds For Iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1056">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/06/4e/fe/064efed7a59dec8bd42fc96c987bbebe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Easter Wallpaper Archives 4 - Fab Mood | Wedding Color, Haircuts ...">
+                                <img itemprop="contentUrl url" src='https://www.fabmood.com/wp-content/uploads/2024/03/easter-bunny-wallpaper-1-2.jpg' alt='Easter Wallpaper Archives 4 - Fab Mood | Wedding Color, Haircuts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fab Mood" />
+                                </span>
+                                <a href='https://www.fabmood.com/wp-content/uploads/2024/03/easter-bunny-wallpaper-1-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable easter wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFdK59a9NA/1/0/900w/canva-pink-aesthetic-watercolor-happy-easter-phone-wallpaper-wAIlf1RPEbM.jpg' alt='Free and customizable easter wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFdK59a9NA/1/0/900w/canva-pink-aesthetic-watercolor-happy-easter-phone-wallpaper-wAIlf1RPEbM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peep iPhone Easter Wallpaper Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c2/97/0a/c2970ad753967338df1b9c877de6b050.jpg' alt='Peep iPhone Easter Wallpaper Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c2/97/0a/c2970ad753967338df1b9c877de6b050.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Wallpaper Ideas, Preppy Wallpaper, Aesthetic Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.fabmood.com/wp-content/uploads/2024/03/easter-bunny-wallpaper-3.jpg' alt='Cute Wallpaper Ideas, Preppy Wallpaper, Aesthetic Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="917">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cute Wallpaper Ideas, Preppy Wallpaper, Aesthetic Wallpaper" />
+                                </span>
+                                <a href='https://www.fabmood.com/wp-content/uploads/2024/03/easter-bunny-wallpaper-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Easter wallpapers Collection | Peel & Stick Or Non-pasted">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/minimalist-bunny-pattern-repeat-removable-wallpaper-design-683x1024.jpg' alt='Easter wallpapers Collection | Peel & Stick Or Non-pasted'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/minimalist-bunny-pattern-repeat-removable-wallpaper-design-683x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable easter wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFdK59j1TU/1/0/900w/canva-colorful-cute-watercolor-happy-easter-phone-wallpaper-ZE5qyioWWNw.jpg' alt='Free and customizable easter wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFdK59j1TU/1/0/900w/canva-colorful-cute-watercolor-happy-easter-phone-wallpaper-ZE5qyioWWNw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Celebrate Easter with Aesthetic Joy Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-easter-xxn1xyhaxlfdobm6.jpg' alt='Download Celebrate Easter with Aesthetic Joy Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-easter-xxn1xyhaxlfdobm6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Easter wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/1e/31/86/1e31864f795d1ebd34cead369d9e99d3.jpg' alt='Easter wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/1e/31/86/1e31864f795d1ebd34cead369d9e99d3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

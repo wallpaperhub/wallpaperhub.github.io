@@ -1,0 +1,129 @@
+<title>Alejandro Mayorkas: Pioneering U.S. Homeland Security Leader</title>
+                    <meta name="description" content="Discover Alejandro Mayorkas, the groundbreaking Secretary of Homeland Security. Explore his pivotal role in shaping U.S. immigration, cybersecurity, and disaster management policies since his appointment by President Biden. Stay informed on his impactful leadership and the challenges he addresses.">
+                    <meta name="keywords" content="alejandro mayorkas">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/alejandro-mayorkas">
+                            <span itemprop="name">alejandro mayorkas</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Alejandro Mayorkas: Pioneering U.S. Homeland Security Leader</h1>
+                <p>Alejandro Mayorkas, the first immigrant to serve as the U.S. Secretary of Homeland Security, oversees crucial issues like immigration, cybersecurity, and disaster response. Appointed by President Biden in 2021, he aims to balance security needs with humanitarian policies while navigating complex challenges facing the nation.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alejandro Mayorkas - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/e/ed/Secretary_Mayorkas_Official_Photo.jpg' alt='Alejandro Mayorkas - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2550">
+                                <meta itemprop="height" content="3300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/e/ed/Secretary_Mayorkas_Official_Photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alejandro Mayorkas (@AliMayorkas) / X">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/profile_images/1330930121331650562/Gaoy_0LD_400x400.jpg' alt='Alejandro Mayorkas (@AliMayorkas) / X'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/profile_images/1330930121331650562/Gaoy_0LD_400x400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rep. Alejandro Mayorkas">
+                                <img itemprop="contentUrl url" src='http://lulac.org/images/gala23-mayorkas.png' alt='Rep. Alejandro Mayorkas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LULAC" />
+                                </span>
+                                <a href='http://lulac.org/images/gala23-mayorkas.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Trials of Alejandro Mayorkas | The New Yorker">
+                                <img itemprop="contentUrl url" src='https://media.newyorker.com/photos/65cf8b5d0df41c4530d6cfee/2:3/w_1706,h_2559,c_limit/240226_r43799.jpg' alt='The Trials of Alejandro Mayorkas | The New Yorker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1706">
+                                <meta itemprop="height" content="2559">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New Yorker" />
+                                </span>
+                                <a href='https://media.newyorker.com/photos/65cf8b5d0df41c4530d6cfee/2:3/w_1706,h_2559,c_limit/240226_r43799.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alejandro Mayorkas | USCIS">
+                                <img itemprop="contentUrl url" src='https://www.uscis.gov/sites/default/files/images/article-citizenship/USCIS_CRC_Alejandro-Mayorkas_180x241%402x.jpg' alt='Alejandro Mayorkas | USCIS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="482">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USCIS" />
+                                </span>
+                                <a href='https://www.uscis.gov/sites/default/files/images/article-citizenship/USCIS_CRC_Alejandro-Mayorkas_180x241%402x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alejandro Mayorkas | Impeachment, Parents and Family, Biography ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/95/254595-050-689EDD8F/Alejandro-Mayorkas-Secretary-Department-Homeland-Security.jpg?w=400&h=300&c=crop' alt='Alejandro Mayorkas | Impeachment, Parents and Family, Biography ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/95/254595-050-689EDD8F/Alejandro-Mayorkas-Secretary-Department-Homeland-Security.jpg?w=400&h=300&c=crop' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alejandro Mayorkas - Breaking News, Photos and Videos | The Hill">
+                                <img itemprop="contentUrl url" src='https://thehill.com/wp-content/uploads/sites/2/2020/11/mayorkasalejandro_11242020getty.jpg?w=980' alt='Alejandro Mayorkas - Breaking News, Photos and Videos | The Hill'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="551">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Hill" />
+                                </span>
+                                <a href='https://thehill.com/wp-content/uploads/sites/2/2020/11/mayorkasalejandro_11242020getty.jpg?w=980' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Homeland Security Secretary Alejandro Mayorkas tests positive for ...">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/210916132844-02-alejandro-mayorkas-0909.jpg?q=x_3,y_145,h_1684,w_2993,c_crop/h_833,w_1480' alt='Homeland Security Secretary Alejandro Mayorkas tests positive for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1480">
+                                <meta itemprop="height" content="833">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/210916132844-02-alejandro-mayorkas-0909.jpg?q=x_3,y_145,h_1684,w_2993,c_crop/h_833,w_1480' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="House Republicans release impeachment articles against Mayorkas ...">
+                                <img itemprop="contentUrl url" src='https://i.abcnewsfe.com/a/4d3dd7b8-5d4c-461e-911e-1846baa6a39f/mayorkas-homeland-ap-lv-240128_1706452668057_hpMain.jpg' alt='House Republicans release impeachment articles against Mayorkas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3072">
+                                <meta itemprop="height" content="2047">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ABC News - The Walt Disney Company" />
+                                </span>
+                                <a href='https://i.abcnewsfe.com/a/4d3dd7b8-5d4c-461e-911e-1846baa6a39f/mayorkas-homeland-ap-lv-240128_1706452668057_hpMain.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here's How Much Secretary Of Homeland Security Alejandro Mayorkas ...">
+                                <img itemprop="contentUrl url" src='https://imageio.forbes.com/specials-images/imageserve/60d0e6cddfb6960afb123d4b//0x0.jpg?format=jpg&width=960' alt='Here's How Much Secretary Of Homeland Security Alejandro Mayorkas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="864">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forbes" />
+                                </span>
+                                <a href='https://imageio.forbes.com/specials-images/imageserve/60d0e6cddfb6960afb123d4b//0x0.jpg?format=jpg&width=960' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

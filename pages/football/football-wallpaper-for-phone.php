@@ -1,0 +1,129 @@
+<title>Top Football Wallpapers for Your Phone - Download Now!</title>
+                    <meta name="description" content="Discover the ultimate collection of football wallpapers for your phone! Choose from high-quality images of your favorite teams and players to express your passion for the game. Perfectly optimized for mobile display, you’ll find the best designs to keep your device looking fresh!">
+                    <meta name="keywords" content="football wallpaper for phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/football">
+                            <span itemprop="name">Football</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/football/football-wallpaper-for-phone">
+                            <span itemprop="name">football wallpaper for phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Top Football Wallpapers for Your Phone - Download Now!</h1>
+                <p>Elevate your phone’s style with stunning football wallpapers! Whether you're a passionate fan or a casual viewer, our collection features high-resolution images of iconic players, teams, and unforgettable moments on the field. Download your favorite wallpaper and show off your love for the beautiful game on your device!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NFL Wallpapers">
+                                <img itemprop="contentUrl url" src='https://statico.profootballnetwork.com/wp-content/uploads/2023/01/14204353/Jamaal-Williams-Wallpaper.png' alt='NFL Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pro Football Network" />
+                                </span>
+                                <a href='https://statico.profootballnetwork.com/wp-content/uploads/2023/01/14204353/Jamaal-Williams-Wallpaper.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NFL Wallpapers">
+                                <img itemprop="contentUrl url" src='https://statico.profootballnetwork.com/wp-content/uploads/2022/11/15013359/Justin-Jefferson-Phone-Wallpaper.png' alt='NFL Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pro Football Network" />
+                                </span>
+                                <a href='https://statico.profootballnetwork.com/wp-content/uploads/2022/11/15013359/Justin-Jefferson-Phone-Wallpaper.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NFL Wallpapers">
+                                <img itemprop="contentUrl url" src='https://statico.profootballnetwork.com/wp-content/uploads/2022/11/15012545/Justin-Fields-Wallpaper.png' alt='NFL Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pro Football Network" />
+                                </span>
+                                <a href='https://statico.profootballnetwork.com/wp-content/uploads/2022/11/15012545/Justin-Fields-Wallpaper.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,313 Ball American Football Wallpaper Stock Photos - Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/american-football-ball-abstract-phone-wallpaper-347028988.jpg' alt='1,313 Ball American Football Wallpaper Stock Photos - Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="505">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/american-football-ball-abstract-phone-wallpaper-347028988.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NFL Wallpapers">
+                                <img itemprop="contentUrl url" src='https://statico.profootballnetwork.com/wp-content/uploads/2023/01/14204322/CeeDee-Lamb-Wallpaper.png' alt='NFL Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pro Football Network" />
+                                </span>
+                                <a href='https://statico.profootballnetwork.com/wp-content/uploads/2023/01/14204322/CeeDee-Lamb-Wallpaper.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers | HoustonTexans.com">
+                                <img itemprop="contentUrl url" src='https://static.clubs.nfl.com/image/upload/v1714248454/texans/f6o8yzsheuw0g3fthxp2.jpg' alt='Wallpapers | HoustonTexans.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Houston Texans" />
+                                </span>
+                                <a href='https://static.clubs.nfl.com/image/upload/v1714248454/texans/f6o8yzsheuw0g3fthxp2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="220 NFL Wallpapers ideas | nfl, nfl football art, fan poster">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/59/e4/36/59e43672f8dc63300af8ef17b9354917.jpg' alt='220 NFL Wallpapers ideas | nfl, nfl football art, fan poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/59/e4/36/59e43672f8dc63300af8ef17b9354917.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NFL Wallpapers">
+                                <img itemprop="contentUrl url" src='https://statico.profootballnetwork.com/wp-content/uploads/2022/11/15013309/DeVonta-Smith-Phone-Wallpaper.jpg' alt='NFL Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pro Football Network" />
+                                </span>
+                                <a href='https://statico.profootballnetwork.com/wp-content/uploads/2022/11/15013309/DeVonta-Smith-Phone-Wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="49ers Wallpapers">
+                                <img itemprop="contentUrl url" src='https://static.clubs.nfl.com/image/upload/v1655411688/49ers/c5w5hwxuacylosm5syil.png' alt='49ers Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="San Francisco 49ers" />
+                                </span>
+                                <a href='https://static.clubs.nfl.com/image/upload/v1655411688/49ers/c5w5hwxuacylosm5syil.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,848 American Football Wallpaper Stock Photos - Free & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/american-football-players-abstract-phone-wallpaper-347028943.jpg' alt='1,848 American Football Wallpaper Stock Photos - Free & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="505">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/american-football-players-abstract-phone-wallpaper-347028943.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Vintage Old Paper Backgrounds for Creative Design</title>
+                    <meta name="description" content="Discover the charm of old paper backgrounds! Perfect for artistic projects, these vintage-inspired designs add warmth and nostalgia to your work. Ideal for invitations, scrapbooking, or digital art, they enhance creativity with timeless style. Explore our collection now for unique textures and colors!">
+                    <meta name="keywords" content="old paper background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/old-paper-background">
+                            <span itemprop="name">old paper background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vintage Old Paper Backgrounds for Creative Design</h1>
+                <p>Old paper backgrounds evoke nostalgia, adding a vintage charm to any design. Their unique textures and warm tones create an inviting atmosphere, perfect for invitations, scrapbooking, or digital projects. With endless possibilities, these backgrounds can enhance creativity while providing a timeless aesthetic that appeals to all ages.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="41,500+ Old Paper Scroll Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/165102644/photo/old-paper.jpg?s=612x612&w=0&k=20&c=W9yT9C4BqkrknYgR0nqK5L790p-9bj762fpGq3mmMo0=' alt='41,500+ Old Paper Scroll Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="445">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/165102644/photo/old-paper.jpg?s=612x612&w=0&k=20&c=W9yT9C4BqkrknYgR0nqK5L790p-9bj762fpGq3mmMo0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old Grunge Paper Background With Floral Patterns. Natural Old ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/ke77kz/ke77kz1411/ke77kz141100194/33530642-old-grunge-paper-background-with-floral-patterns-natural-old-paper-texture-for-the-design.jpg' alt='Old Grunge Paper Background With Floral Patterns. Natural Old ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="913">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/ke77kz/ke77kz1411/ke77kz141100194/33530642-old-grunge-paper-background-with-floral-patterns-natural-old-paper-texture-for-the-design.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Paper Background Stock Photos, Images and Backgrounds for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/036/159/860/small_2x/old-paper-texture-vintage-background-photo.jpg' alt='Vintage Paper Background Stock Photos, Images and Backgrounds for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/036/159/860/small_2x/old-paper-texture-vintage-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old Paper Texture Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3B4MTA1NzQwNC1pbWFnZS1qb2I2MzAtYV8xLmpwZw.jpg' alt='Old Paper Texture Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3B4MTA1NzQwNC1pbWFnZS1qb2I2MzAtYV8xLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="old paper on Craiyon">
+                                <img itemprop="contentUrl url" src='https://pics.craiyon.com/2024-09-17/AMdpOjwNTcypQdoiWBEWaQ.webp' alt='old paper on Craiyon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Craiyon" />
+                                </span>
+                                <a href='https://pics.craiyon.com/2024-09-17/AMdpOjwNTcypQdoiWBEWaQ.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old Paper Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/003/003/173/non_2x/watercolor-painting-of-vintage-background-with-old-paper-vector.jpg' alt='Old Paper Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1431">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/003/003/173/non_2x/watercolor-painting-of-vintage-background-with-old-paper-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Old Paper Texture Pictures | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/old-paper-texture-pictures-0fte00dlu9pd4ucq.jpg' alt='100+] Old Paper Texture Pictures | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/old-paper-texture-pictures-0fte00dlu9pd4ucq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Scroll On Old Paper Background. Template For The Design ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/xiongwu5/xiongwu52305/xiongwu5230500404/204794313-vintage-scroll-on-old-paper-background-template-for-the-design.jpg' alt='Vintage Scroll On Old Paper Background. Template For The Design ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="979">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/xiongwu5/xiongwu52305/xiongwu5230500404/204794313-vintage-scroll-on-old-paper-background-template-for-the-design.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="750+ Old Paper Pictures [HQ] | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1667761637876-e704c906927d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8b2xkJTIwcGFwZXJ8ZW58MHx8MHx8fDA%3D' alt='750+ Old Paper Pictures [HQ] | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2121">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1667761637876-e704c906927d?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8b2xkJTIwcGFwZXJ8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Paper Background With Old Feather Pen, Vintage Paper, Old ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210716/original/pngtree-vintage-paper-background-with-old-feather-pen-picture-image_1365787.jpg' alt='Vintage Paper Background With Old Feather Pen, Vintage Paper, Old ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210716/original/pngtree-vintage-paper-background-with-old-feather-pen-picture-image_1365787.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

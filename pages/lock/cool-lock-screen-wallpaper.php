@@ -1,0 +1,129 @@
+<title>Stunning Lock Screen Wallpapers for Every Style</title>
+                    <meta name="description" content="Discover a collection of vibrant and unique lock screen wallpapers to personalize your device. From breathtaking nature scenes to modern minimalist designs, find the perfect wallpaper that reflects your personality and enhances your screen every time you unlock your phone.">
+                    <meta name="keywords" content="cool lock screen wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock">
+                            <span itemprop="name">Lock</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock/cool-lock-screen-wallpaper">
+                            <span itemprop="name">cool lock screen wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Lock Screen Wallpapers for Every Style</h1>
+                <p>Cool lock screen wallpapers can transform the look of your device, adding a personal touch or a vibrant flair. From stunning landscapes to minimalist designs, there's something for everyone. Choose a wallpaper that inspires you daily, motivates you, or simply brings a smile every time you unlock your screen. Your device, your style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cool Lock Screen Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cool-lock-screen-9ftsxkszhqlyce90.jpg' alt='100+] Cool Lock Screen Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cool-lock-screen-9ftsxkszhqlyce90.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Lock Screen Venom Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/cool-lock-screen-smiley-ut7r1v5tj9rccmom.webp' alt='Cool Lock Screen Venom Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/cool-lock-screen-smiley-ut7r1v5tj9rccmom.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Samsung's dynamic lock screen wallpaper was this today. : r/outerwilds">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ay4ame7suvcc1.jpeg' alt='Samsung's dynamic lock screen wallpaper was this today. : r/outerwilds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2179">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ay4ame7suvcc1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Lock Screen Password Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/cool-lock-screen-password-k23mbi8lf9gftkgo.webp' alt='Cool Lock Screen Password Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/cool-lock-screen-password-k23mbi8lf9gftkgo.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cool Iphone Lock Screen Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cool-iphone-lock-screen-uf3ozp4l9bg4jaoi.jpg' alt='100+] Cool Iphone Lock Screen Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cool-iphone-lock-screen-uf3ozp4l9bg4jaoi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100,000+ Best Lock Screen Wallpaper Photos · 100% Free Download ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/937980/pexels-photo-937980.jpeg?cs=srgb&dl=pexels-kovyrina-937980.jpg&fm=jpg' alt='100,000+ Best Lock Screen Wallpaper Photos · 100% Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/937980/pexels-photo-937980.jpeg?cs=srgb&dl=pexels-kovyrina-937980.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b7/14/56/b71456ffa855769611b605883c6c04ee.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b7/14/56/b71456ffa855769611b605883c6c04ee.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New lockscreen wallpaper highlighting the fingerprint sensor : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/dk058adl6oc31.png?auto=webp&s=de68475c7b461e618e0030e14963eb7bf9d2ccd4' alt='New lockscreen wallpaper highlighting the fingerprint sensor : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="538">
+                                <meta itemprop="height" content="1151">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/dk058adl6oc31.png?auto=webp&s=de68475c7b461e618e0030e14963eb7bf9d2ccd4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dont Touch Scary Lock Screen Wallpaper - 1080x2340">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/91/c6/12/91c6125c08b789e3e15753d2123b66c1.jpg' alt='Dont Touch Scary Lock Screen Wallpaper - 1080x2340'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/91/c6/12/91c6125c08b789e3e15753d2123b66c1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download free Cool Lock Screen Prisoner In Dark Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://mrwallpaper.com/images/thumbnail/cool-lock-screen-prisoner-in-dark-bfrazigrxgc5ksd8.jpg' alt='Download free Cool Lock Screen Prisoner In Dark Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrWallpaper" />
+                                </span>
+                                <a href='https://mrwallpaper.com/images/thumbnail/cool-lock-screen-prisoner-in-dark-bfrazigrxgc5ksd8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

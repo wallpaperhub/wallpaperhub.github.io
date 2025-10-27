@@ -1,0 +1,129 @@
+<title>Aesthetic Ghost Wallpaper for a Hauntingly Beautiful Screen</title>
+                    <meta name="description" content="Discover stunning aesthetic ghost wallpaper to enhance your devices! Perfect for those who love a touch of the eerie and mysterious, these unique designs will elevate your screen's style. Browse our collection and transform your background into a captivating reflection of your unique taste.">
+                    <meta name="keywords" content="aesthetic:xku7mlwltmk= ghost wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aestheticxku7mlwltmk-ghost-wallpaper">
+                            <span itemprop="name">aesthetic:xku7mlwltmk= ghost wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Ghost Wallpaper for a Hauntingly Beautiful Screen</h1>
+                <p>Aesthetic ghost wallpaper creates a hauntingly beautiful ambiance for your devices. Each design blends ethereal elegance with intriguing elements, allowing your personal space to reflect a mysterious charm. Perfect for those who appreciate the uncanny and the artistic, these wallpapers bring a unique flair to your home screen and beyond.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Ghost Wallpaper Cute Pink Wallpapers Ghost Aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/49656304/r/il/5fefcd/6191934585/il_fullxfull.6191934585_rabg.jpg' alt='Kawaii Ghost Wallpaper Cute Pink Wallpapers Ghost Aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2251">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/49656304/r/il/5fefcd/6191934585/il_fullxfull.6191934585_rabg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Sunset Ghost Minimalist Wallpapers - Spooky HD Wallpapers">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2024/11/retro-sunset-ghost-minimalist-wallpaper.jpg' alt='Retro Sunset Ghost Minimalist Wallpapers - Spooky HD Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1183">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2024/11/retro-sunset-ghost-minimalist-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FU Ghost Halloween Wallpaper - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/36582911/r/il/74b772/4208229388/il_1080xN.4208229388_bjlu.jpg' alt='FU Ghost Halloween Wallpaper - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/36582911/r/il/74b772/4208229388/il_1080xN.4208229388_bjlu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Cute Ghost Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/44/52/4d/44524d652dbf6b1844597145ea775e76.jpg' alt='Aesthetic Cute Ghost Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/44/52/4d/44524d652dbf6b1844597145ea775e76.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Halloween Aesthetic Ghost Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1f/c1/ed/1fc1edb9069508e0d416f69e5d71d6bc.jpg' alt='Cute Halloween Aesthetic Ghost Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1f/c1/ed/1fc1edb9069508e0d416f69e5d71d6bc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ghost Babe's">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/49/a1/84/49a184693b1c33dcfc2925056a6b8707.jpg' alt='Ghost Babe's'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/49/a1/84/49a184693b1c33dcfc2925056a6b8707.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Cute Ghost Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/6f/4c/c2/6f4cc2564ffb290475d65470ae190b97.jpg' alt='Aesthetic Cute Ghost Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/6f/4c/c2/6f4cc2564ffb290475d65470ae190b97.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Ghosts Wallpaper Cute Wallpaper Halloween Wallpaper Lofi ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/49587724/r/il/bd239b/5949665910/il_fullxfull.5949665910_27p3.jpg' alt='Pastel Ghosts Wallpaper Cute Wallpaper Halloween Wallpaper Lofi ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2508">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/49587724/r/il/bd239b/5949665910/il_fullxfull.5949665910_27p3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Halloween Wallpaper Iphone Wallpaper Spooky Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/75/46/c7/7546c7e60e4e50ecfab874cc2417214c.jpg' alt='Aesthetic Halloween Wallpaper Iphone Wallpaper Spooky Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/75/46/c7/7546c7e60e4e50ecfab874cc2417214c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Ghost Wallpaper with Y2K Aesthetic for Halloween     ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6d/df/a6/6ddfa60b34a2fb694dd9e88f2b32f137.jpg' alt='Pink Ghost Wallpaper with Y2K Aesthetic for Halloween     '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6d/df/a6/6ddfa60b34a2fb694dd9e88f2b32f137.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

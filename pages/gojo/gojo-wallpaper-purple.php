@@ -1,0 +1,129 @@
+<title>Vibrant Gojo Purple Wallpaper: Style Your Screen</title>
+                    <meta name="description" content="Discover the best Gojo wallpaper in striking purple, perfect for all anime lovers. Enhance your device with high-quality images showcasing Gojo's dynamic look. Perfect for personalizing your phone or tablet, these wallpapers are ideal for any fan of Jujutsu Kaisen. Explore and download now!">
+                    <meta name="keywords" content="gojo wallpaper purple">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/gojo">
+                            <span itemprop="name">Gojo</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/gojo/gojo-wallpaper-purple">
+                            <span itemprop="name">gojo wallpaper purple</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Gojo Purple Wallpaper: Style Your Screen</h1>
+                <p>Transform your device with stunning Gojo wallpaper in vibrant purple hues! Perfect for fans of Jujutsu Kaisen, these wallpapers bring the character's charm to your screens. Explore a variety of designs featuring Gojo's iconic look and captivating aura, adding a touch of anime magic to your phone or tablet.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gojo Hollow Purple Live Wallpaper">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/media/5971/gojo-hollow-purple.jpg' alt='Gojo Hollow Purple Live Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/media/5971/gojo-hollow-purple.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Satoru Gojo- Purple - by me : r/JuJutsuKaisen">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/xi1fnvu655k61.jpg' alt='Satoru Gojo- Purple - by me : r/JuJutsuKaisen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="3800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/xi1fnvu655k61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Purple Gojo Jujutsu Kaisen IPhone Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e9/e8/f4/e9e8f49c49fd1859bfe21b7bfb136c61.jpg' alt='Download Purple Gojo Jujutsu Kaisen IPhone Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1635">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e9/e8/f4/e9e8f49c49fd1859bfe21b7bfb136c61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Satoru Gojo Hollow Purple Wallpaper iPhone Phone 4K #5640e">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/satoru-gojo-hollow-purple-jujutsu-kaisen-564@0@e-thumb.jpg?dl' alt='Satoru Gojo Hollow Purple Wallpaper iPhone Phone 4K #5640e'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/satoru-gojo-hollow-purple-jujutsu-kaisen-564@0@e-thumb.jpg?dl' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD gojo satoru purple wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/651/1014/HD-wallpaper-gojou-satoru-anime-gojo-satoru-ice-iphone-jujutsu-kaisen-purple.jpg' alt='HD gojo satoru purple wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/651/1014/HD-wallpaper-gojou-satoru-anime-gojo-satoru-ice-iphone-jujutsu-kaisen-purple.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Purple Satoru Gojo Jujutsu Kaisen Phone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/neon-purple-satoru-gojo-jujutsu-kaisen-phone-tfyfc2dww708tl5f.jpg' alt='Neon Purple Satoru Gojo Jujutsu Kaisen Phone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/neon-purple-satoru-gojo-jujutsu-kaisen-phone-tfyfc2dww708tl5f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Satoru Gojou Purple! by Mitsxz">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/118/thumb-1920-1188229.png' alt='Satoru Gojou Purple! by Mitsxz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/118/thumb-1920-1188229.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gojo satoru wallpaper by Yagami_light___kira - Download on ZEDGE ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/90/76/93/907693a603427fde44a44d76417d26a5.jpg' alt='Gojo satoru wallpaper by Yagami_light___kira - Download on ZEDGE ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/90/76/93/907693a603427fde44a44d76417d26a5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD gojo satoru purple wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/297/352/HD-wallpaper-gojo-satoru-purple-gojo-satoru-jujutsu-kaisen-thumbnail.jpg' alt='HD gojo satoru purple wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/297/352/HD-wallpaper-gojo-satoru-purple-gojo-satoru-jujutsu-kaisen-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jujutsu Kaisen Wallpaper 4K, Satoru Gojo, Purple background">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/satoru-gojo-jujutsu-2880x1800-9295.jpg' alt='Jujutsu Kaisen Wallpaper 4K, Satoru Gojo, Purple background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/satoru-gojo-jujutsu-2880x1800-9295.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

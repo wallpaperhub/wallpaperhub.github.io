@@ -1,0 +1,129 @@
+<title>Mini Heart Wallpapers: Cute & Colorful Designs for Your Screen</title>
+                    <meta name="description" content="Discover a delightful collection of mini heart wallpapers to personalize your device! These charming designs are perfect for lovers of all things cute and colorful. Browse our selection for the ideal backdrop that reflects your style and energy. Perfect for any screen size!">
+                    <meta name="keywords" content="mini heart wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart">
+                            <span itemprop="name">Heart</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart/mini-heart-wallpaper">
+                            <span itemprop="name">mini heart wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mini Heart Wallpapers: Cute & Colorful Designs for Your Screen</h1>
+                <p>Transform your device with adorable mini heart wallpapers! Perfect for adding a touch of love and charm to your screen, these wallpapers are colorful, stylish, and ideal for any aesthetic. Whether you prefer pastel shades or vibrant hues, there's a mini heart design to match your vibe. Elevate your digital space today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="14,800+ Small Heart Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1198784356/vector/hearts-seamless-pattern.jpg?s=612x612&w=0&k=20&c=e3-l81cXybtbsqzF5zDTlMG1_6g0I2y758qxuutcYx0=' alt='14,800+ Small Heart Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1198784356/vector/hearts-seamless-pattern.jpg?s=612x612&w=0&k=20&c=e3-l81cXybtbsqzF5zDTlMG1_6g0I2y758qxuutcYx0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mini red heart wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ae/45/c8/ae45c84211ef785b0f95f054ecb3e7b0.jpg' alt='Mini red heart wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ae/45/c8/ae45c84211ef785b0f95f054ecb3e7b0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Tiny hearts wallpapers ideas | heart wallpaper, iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/34/fd/41/34fd41487f63e784760160035b15c97e.jpg' alt='12 Tiny hearts wallpapers ideas | heart wallpaper, iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="889">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/34/fd/41/34fd41487f63e784760160035b15c97e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mini Heart Removable or Traditional Wallpaper – La Grand Classique">
+                                <img itemprop="contentUrl url" src='https://lagrandclassique.com/cdn/shop/products/00653_pink_heart_main_800x.jpg?v=1667387082' alt='Mini Heart Removable or Traditional Wallpaper – La Grand Classique'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="La Grand Classique" />
+                                </span>
+                                <a href='https://lagrandclassique.com/cdn/shop/products/00653_pink_heart_main_800x.jpg?v=1667387082' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Valentines Purple Heart Doodles Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/cute-valentines-small-heart-pattern-xp1xrcpejdj2qlf8.webp' alt='Cute Valentines Purple Heart Doodles Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="545">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/cute-valentines-small-heart-pattern-xp1xrcpejdj2qlf8.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tiny Hearts Wallpaper Vector Images (over 330)">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/500p/99/84/small-hearts-seamless-pattern-vector-37849984.jpg' alt='Tiny Hearts Wallpaper Vector Images (over 330)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="496">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/500p/99/84/small-hearts-seamless-pattern-vector-37849984.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tiny Hearts Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/10819701/p/f/m/VInd6Fv8jouVwV9UWhp0_vpYNktN64dC672oAKp1EkpaHA-DKNzLJtU/tiny%20cute%20red%20hearts%20coquette%20-%20girly%20feminine%20minimalist%20valentine's%20day.jpg' alt='Tiny Hearts Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/10819701/p/f/m/VInd6Fv8jouVwV9UWhp0_vpYNktN64dC672oAKp1EkpaHA-DKNzLJtU/tiny%20cute%20red%20hearts%20coquette%20-%20girly%20feminine%20minimalist%20valentine's%20day.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tiny Hearts Wallpaper Vector Images (over 330)">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/preview-1x/88/14/small-red-hearts-on-white-seamless-pattern-vector-23568814.jpg' alt='Tiny Hearts Wallpaper Vector Images (over 330)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="417">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/preview-1x/88/14/small-red-hearts-on-white-seamless-pattern-vector-23568814.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="14,800+ Small Heart Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1454001393/vector/seamless-love-valentines-day-pattern-with-tiny-hearts.jpg?s=612x612&w=0&k=20&c=sblIhMYY33UMifEtRNqgxAyVVn2DAldV60mi_nuJRAk=' alt='14,800+ Small Heart Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1454001393/vector/seamless-love-valentines-day-pattern-with-tiny-hearts.jpg?s=612x612&w=0&k=20&c=sblIhMYY33UMifEtRNqgxAyVVn2DAldV60mi_nuJRAk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Mini heart and line background.">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/mini-heart-line-background_62907-28.jpg?w=360' alt='Premium Vector | Mini heart and line background.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/mini-heart-line-background_62907-28.jpg?w=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

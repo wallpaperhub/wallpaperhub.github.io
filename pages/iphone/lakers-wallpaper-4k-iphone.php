@@ -1,0 +1,129 @@
+<title>Lakers 4K Wallpapers for iPhone: Boost Your Game Day Style</title>
+                    <meta name="description" content="Discover amazing 4K Lakers wallpapers for your iPhone! Dive into a collection of high-quality images featuring your favorite players and iconic moments. Perfect for fans who want to show off their team pride in stunning detail! Download now for the ultimate basketball experience on your device.">
+                    <meta name="keywords" content="lakers wallpaper 4k iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/lakers-wallpaper-4k-iphone">
+                            <span itemprop="name">lakers wallpaper 4k iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Lakers 4K Wallpapers for iPhone: Boost Your Game Day Style</h1>
+                <p>Elevate your iPhone's aesthetic with stunning 4K Lakers wallpapers. Capture the spirit of your favorite basketball team with vibrant images that showcase iconic players and unforgettable moments. Enjoy high-resolution graphics that fit perfectly on your device, bringing a touch of the Staples Center right to your pocket!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LaBron iPhone Wallpaper. : r/lakers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/6oucq69kw3n11.jpg' alt='LaBron iPhone Wallpaper. : r/lakers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/6oucq69kw3n11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers | Los Angeles Lakers | Los Angeles Lakers">
+                                <img itemprop="contentUrl url" src='https://lalweb.blob.core.windows.net/public/lakers/product-marketing/web/wallpapers/ww-08-city1.jpeg' alt='Wallpapers | Los Angeles Lakers | Los Angeles Lakers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBA.Com" />
+                                </span>
+                                <a href='https://lalweb.blob.core.windows.net/public/lakers/product-marketing/web/wallpapers/ww-08-city1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Lakers Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/lakers-iphone-o76tsew1l31vs5cm.jpg' alt='100+] Lakers Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/lakers-iphone-o76tsew1l31vs5cm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="La Lakers, basketball, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/932/835/HD-wallpaper-la-lakers-basketball.jpg' alt='La Lakers, basketball, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/932/835/HD-wallpaper-la-lakers-basketball.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Basketball Wallpapers - Wallpaper Sun">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/72/2a/4c/722a4cdadd954bd41d115f141b095659.jpg' alt='Basketball Wallpapers - Wallpaper Sun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/72/2a/4c/722a4cdadd954bd41d115f141b095659.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers | Los Angeles Lakers | Los Angeles Lakers">
+                                <img itemprop="contentUrl url" src='https://lalweb.blob.core.windows.net/public/lakers/product-marketing/web/wallpapers/kobe/2324_lal_mktg_kobeday_wallpaper2_1170%20x%202532_ska.jpg' alt='Wallpapers | Los Angeles Lakers | Los Angeles Lakers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBA.Com" />
+                                </span>
+                                <a href='https://lalweb.blob.core.windows.net/public/lakers/product-marketing/web/wallpapers/kobe/2324_lal_mktg_kobeday_wallpaper2_1170%20x%202532_ska.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lakers Wallpaper - NawPic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/9e/8e/18/9e8e1805fb7de7a94f954996bada368e.jpg' alt='Lakers Wallpaper - NawPic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="270">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/9e/8e/18/9e8e1805fb7de7a94f954996bada368e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers | Los Angeles Lakers | Los Angeles Lakers">
+                                <img itemprop="contentUrl url" src='https://lalweb.blob.core.windows.net/public/lakers/product-marketing/web/wallpapers/generic/2324_lal_generic_wallpapers_1170x2532_op1_pa.jpg' alt='Wallpapers | Los Angeles Lakers | Los Angeles Lakers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBA.Com" />
+                                </span>
+                                <a href='https://lalweb.blob.core.windows.net/public/lakers/product-marketing/web/wallpapers/generic/2324_lal_generic_wallpapers_1170x2532_op1_pa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="430 L. A. Lakers Wallpapers ideas | lakers wallpaper, lakers ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/96/ff/ee/96ffeee6d09093ac195354aa2f9d2ede.jpg' alt='430 L. A. Lakers Wallpapers ideas | lakers wallpaper, lakers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="415">
+                                <meta itemprop="height" content="739">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/96/ff/ee/96ffeee6d09093ac195354aa2f9d2ede.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lakers iPhone 4k Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11486357.jpg' alt='Lakers iPhone 4k Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1140">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11486357.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

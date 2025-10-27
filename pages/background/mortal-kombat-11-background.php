@@ -1,0 +1,129 @@
+<title>Mortal Kombat 11: A Dark Epic Saga Unveiled</title>
+                    <meta name="description" content="Explore the thrilling universe of Mortal Kombat 11, where iconic characters face off in epic battles. Discover a captivating storyline with time travel twists, stunning graphics, and innovative gameplay that keeps players on the edge of their seats. Join the fight for Earthrealm!">
+                    <meta name="keywords" content="mortal kombat 11 background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/mortal-kombat-11-background">
+                            <span itemprop="name">mortal kombat 11 background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mortal Kombat 11: A Dark Epic Saga Unveiled</h1>
+                <p>Mortal Kombat 11 immerses players in a rich, dark narrative set in a universe where realms clash. With its stunning graphics and iconic characters, the game continues the saga of kombat between Earthrealm and its foes. Experience a blend of classic moves and new abilities, as time travel twists the fate of beloved fighters.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mortal Kombat 11 Wallpapers - PlayStation Universe">
+                                <img itemprop="contentUrl url" src='https://www.psu.com/wp/wp-content/uploads/2020/10/Mortal-Kombat-11-PS4-Wallpapers-04.jpg' alt='Mortal Kombat 11 Wallpapers - PlayStation Universe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PlayStation Universe" />
+                                </span>
+                                <a href='https://www.psu.com/wp/wp-content/uploads/2020/10/Mortal-Kombat-11-PS4-Wallpapers-04.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mortal Kombat 11 Main Menu Background (1080p) by MKAddict on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ca530ccc-fd0f-4f26-bbc7-9af8e8225eea/dd5qnyp-781f6297-22b0-46d8-b100-a34b741a1160.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NhNTMwY2NjLWZkMGYtNGYyNi1iYmM3LTlhZjhlODIyNWVlYVwvZGQ1cW55cC03ODFmNjI5Ny0yMmIwLTQ2ZDgtYjEwMC1hMzRiNzQxYTExNjAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.yxbgNBh9crVxUr4QfVmMITa488tmAqlbxQU-XlTSXgE' alt='Mortal Kombat 11 Main Menu Background (1080p) by MKAddict on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ca530ccc-fd0f-4f26-bbc7-9af8e8225eea/dd5qnyp-781f6297-22b0-46d8-b100-a34b741a1160.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NhNTMwY2NjLWZkMGYtNGYyNi1iYmM3LTlhZjhlODIyNWVlYVwvZGQ1cW55cC03ODFmNjI5Ny0yMmIwLTQ2ZDgtYjEwMC1hMzRiNzQxYTExNjAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.yxbgNBh9crVxUr4QfVmMITa488tmAqlbxQU-XlTSXgE' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Mortal Kombat 11 Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/mortal-kombat-11-b0wbbncqc3ipbw6h.jpg' alt='100+] Mortal Kombat 11 Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/mortal-kombat-11-b0wbbncqc3ipbw6h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mortal Kombat 11 - Atomhawk">
+                                <img itemprop="contentUrl url" src='https://atomhawk.com/wp-content/uploads/2022/05/Mortal-Kombat-11-tile-image.jpg' alt='Mortal Kombat 11 - Atomhawk'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4500">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Atomhawk" />
+                                </span>
+                                <a href='https://atomhawk.com/wp-content/uploads/2022/05/Mortal-Kombat-11-tile-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mortal Kombat 11 Ultimate, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/464/664/HD-wallpaper-mortal-kombat-11-ultimate.jpg' alt='Mortal Kombat 11 Ultimate, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/464/664/HD-wallpaper-mortal-kombat-11-ultimate.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mortal Kombat 11 Wallpaper by Lucas-Zero : r/MortalKombat">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/x11n80z16mr21.png' alt='Mortal Kombat 11 Wallpaper by Lucas-Zero : r/MortalKombat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/x11n80z16mr21.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Deaf Game Review - Mortal Kombat 11 - Can I Play That?">
+                                <img itemprop="contentUrl url" src='https://caniplaythat.com/wp-content/uploads/2019/04/IMG_7013.jpg' alt='Deaf Game Review - Mortal Kombat 11 - Can I Play That?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Can I Play That?" />
+                                </span>
+                                <a href='https://caniplaythat.com/wp-content/uploads/2019/04/IMG_7013.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mortal Kombat 11 | All Stage Backgrounds - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/t6h0gLDOtvc/hqdefault.jpg' alt='Mortal Kombat 11 | All Stage Backgrounds - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/t6h0gLDOtvc/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mortal Kombat 11 wallpaper 05 1080p Horizontal">
+                                <img itemprop="contentUrl url" src='https://www.gamewallpapers.com/getphonewallpaper.php?lowquality=1&titel=Mortal+Kombat+11&nummer=05&phoneResId=3501&wallpaperType=&qhdbeschikbaar=1&wallpaper_id=7341' alt='Mortal Kombat 11 wallpaper 05 1080p Horizontal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameWallpapers.com" />
+                                </span>
+                                <a href='https://www.gamewallpapers.com/getphonewallpaper.php?lowquality=1&titel=Mortal+Kombat+11&nummer=05&phoneResId=3501&wallpaperType=&qhdbeschikbaar=1&wallpaper_id=7341' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scorpion Mortal Kombat 11 HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/985/thumb-1920-985553.jpg' alt='Scorpion Mortal Kombat 11 HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/985/thumb-1920-985553.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

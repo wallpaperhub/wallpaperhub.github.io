@@ -1,0 +1,129 @@
+<title>Cave of the Crystals: Stunning Photos of Nature's Masterpiece</title>
+                    <meta name="description" content="Discover the enchanting beauty of the Cave of the Crystals through captivating photos. From massive selenite formations to shimmering mineral landscapes, explore this natural wonder and its breathtaking allure that captivates nature lovers and photographers alike. Perfect for adventurous spirits!">
+                    <meta name="keywords" content="cave of the crystals photos">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cave-of-the-crystals-photos">
+                            <span itemprop="name">cave of the crystals photos</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cave of the Crystals: Stunning Photos of Nature's Masterpiece</h1>
+                <p>Explore stunning photos of the Cave of the Crystals, an extraordinary natural wonder filled with massive selenite crystals. Captured in high detail, these images showcase the cave's breathtaking beauty and unique geological formations. Discover the mesmerizing atmosphere and the dreamlike quality that draws adventurers and photographers alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naica's crystal cave captivates chemists">
+                                <img itemprop="contentUrl url" src='https://cen.acs.org/content/dam/cen/97/6/09706-feature1-cave.jpg' alt='Naica's crystal cave captivates chemists'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="C&EN - American Chemical Society" />
+                                </span>
+                                <a href='https://cen.acs.org/content/dam/cen/97/6/09706-feature1-cave.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naica's crystal cave captivates chemists">
+                                <img itemprop="contentUrl url" src='https://s7d1.scene7.com/is/image/CENODS/09706-feature1-pulpi?$responsive$&wid=700&qlt=90,0&resMode=sharp2' alt='Naica's crystal cave captivates chemists'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="525">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="C&EN - American Chemical Society" />
+                                </span>
+                                <a href='https://s7d1.scene7.com/is/image/CENODS/09706-feature1-pulpi?$responsive$&wid=700&qlt=90,0&resMode=sharp2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cave of Crystals "Giant Crystal Cave" | Geology Page">
+                                <img itemprop="contentUrl url" src='https://www.geologypage.com/wp-content/uploads/2016/06/5.jpg' alt='Cave of Crystals "Giant Crystal Cave" | Geology Page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="950">
+                                <meta itemprop="height" content="652">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Geology Page" />
+                                </span>
+                                <a href='https://www.geologypage.com/wp-content/uploads/2016/06/5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cave of the Crystals - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/2/29/Cristales_cueva_de_Naica.JPG' alt='Cave of the Crystals - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5184">
+                                <meta itemprop="height" content="3456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/2/29/Cristales_cueva_de_Naica.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Cave of Crystals">
+                                <img itemprop="contentUrl url" src='https://www.heritagedaily.com/wp-content/uploads/2023/04/crystal1.jpg' alt='The Cave of Crystals'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1250">
+                                <meta itemprop="height" content="836">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heritage Daily" />
+                                </span>
+                                <a href='https://www.heritagedaily.com/wp-content/uploads/2023/04/crystal1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Weird Life Found Trapped in Giant Underground Crystals">
+                                <img itemprop="contentUrl url" src='https://i.natgeofe.com/n/61fc1aad-ab92-4bb1-8680-3da8b1064e6d/01_crystal_cave.jpg?w=2560&h=1704' alt='Weird Life Found Trapped in Giant Underground Crystals'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1704">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic" />
+                                </span>
+                                <a href='https://i.natgeofe.com/n/61fc1aad-ab92-4bb1-8680-3da8b1064e6d/01_crystal_cave.jpg?w=2560&h=1704' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The world's largest crystal cave">
+                                <img itemprop="contentUrl url" src='https://ychef.files.bbci.co.uk/1280x720/p0cmwt97.jpg' alt='The world's largest crystal cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC" />
+                                </span>
+                                <a href='https://ychef.files.bbci.co.uk/1280x720/p0cmwt97.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inside the world’s largest crystal ‘cave’">
+                                <img itemprop="contentUrl url" src='https://ichef.bbci.co.uk/images/ic/1920xn/p0c2p0xq.jpg' alt='Inside the world’s largest crystal ‘cave’'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC" />
+                                </span>
+                                <a href='https://ichef.bbci.co.uk/images/ic/1920xn/p0c2p0xq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crystal cave discovered more than 20 years ago is stunning, can be ...">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/F6WY6CVG2ZBA3CINB5NFS4GF6Y.jpg?_a=DATAdtfiZAA0' alt='Crystal cave discovered more than 20 years ago is stunning, can be ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="492">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WKMG" />
+                                </span>
+                                <a href='https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/F6WY6CVG2ZBA3CINB5NFS4GF6Y.jpg?_a=DATAdtfiZAA0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mexico's Giant Crystal Cave Is Beautiful But Deadly | HowStuffWorks">
+                                <img itemprop="contentUrl url" src='https://cdn.hswstatic.com/gif/cave-of-crystals.jpg' alt='Mexico's Giant Crystal Cave Is Beautiful But Deadly | HowStuffWorks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Science | HowStuffWorks" />
+                                </span>
+                                <a href='https://cdn.hswstatic.com/gif/cave-of-crystals.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

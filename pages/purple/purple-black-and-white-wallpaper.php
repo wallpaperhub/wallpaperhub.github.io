@@ -1,0 +1,129 @@
+<title>Vibrant Purple, Black & White Wallpaper Ideas</title>
+                    <meta name="description" content="Elevate your decor with stunning purple, black, and white wallpaper. Explore eye-catching patterns and stylish designs that complement any interior. Transform your space effortlessly with this chic wallpaper that brings elegance and vibrancy to your home.">
+                    <meta name="keywords" content="purple black and white wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/purple-black-and-white-wallpaper">
+                            <span itemprop="name">purple black and white wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Purple, Black & White Wallpaper Ideas</h1>
+                <p>Discover the beauty of purple, black, and white wallpaper that adds a modern, artistic touch to any room. Perfect for accent walls or entire spaces, this stunning wallpaper blends elegance and sophistication. Explore various patterns and textures to match your style, enhancing your home's aesthetic effortlessly.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lilac Purple Marble Seamless Background Texture Purple Black White ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28921914/r/il/c1397a/4108958531/il_fullxfull.4108958531_r8hk.jpg' alt='Lilac Purple Marble Seamless Background Texture Purple Black White ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28921914/r/il/c1397a/4108958531/il_fullxfull.4108958531_r8hk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Black White Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/vector-background-wave-abstract-design_779267-2677.jpg' alt='Purple Black White Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="417">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/vector-background-wave-abstract-design_779267-2677.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Black White Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/paper-background-colorfuel_125964-810.jpg' alt='Purple Black White Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="376">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/paper-background-colorfuel_125964-810.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Purple and black wallpaper with a purple ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/purple-black-wallpaper-with-purple-background-white-skull-middle_480962-35874.jpg' alt='Premium Photo | Purple and black wallpaper with a purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="319">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/purple-black-wallpaper-with-purple-background-white-skull-middle_480962-35874.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD purple black and white wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/683/227/HD-wallpaper-joker-amoled-black-purple-white-thumbnail.jpg' alt='HD purple black and white wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/683/227/HD-wallpaper-joker-amoled-black-purple-white-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="We Heart It">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0c/ac/83/0cac83d0f37a054dfc1589e202375825.jpg' alt='We Heart It'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1056">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0c/ac/83/0cac83d0f37a054dfc1589e202375825.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="purple-black-sphere-background.jpg – Syrco Owl">
+                                <img itemprop="contentUrl url" src='https://syrco.wordpress.com/wp-content/uploads/2010/07/purple-black-sphere-background.jpg' alt='purple-black-sphere-background.jpg – Syrco Owl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Syrco Owl - WordPress.com" />
+                                </span>
+                                <a href='https://syrco.wordpress.com/wp-content/uploads/2010/07/purple-black-sphere-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Background Black White Images – Browse 651,133 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/19/46/74/360_F_419467408_harEBK7rOZEW33ih4tv1q6hhN1JSK0Bs.jpg' alt='Purple Background Black White Images – Browse 651,133 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/19/46/74/360_F_419467408_harEBK7rOZEW33ih4tv1q6hhN1JSK0Bs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Simple Shape With Purple, White and Black Color ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/021/369/534/non_2x/abstract-simple-shape-with-purple-white-and-black-color-background-with-papercut-style-for-wallpaper-vector.jpg' alt='Abstract Simple Shape With Purple, White and Black Color ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1797">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/021/369/534/non_2x/abstract-simple-shape-with-purple-white-and-black-color-background-with-papercut-style-for-wallpaper-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Purple And White Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/smoke-background-izpowfq4fow2ip7y.jpg' alt='100+] Purple And White Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1237">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/smoke-background-izpowfq4fow2ip7y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

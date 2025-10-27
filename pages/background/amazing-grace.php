@@ -1,0 +1,129 @@
+<title>"Amazing Grace: A Hymn of Redemption and Hope"</title>
+                    <meta name="description" content="Explore the inspiring story behind "Amazing Grace," a hymn celebrating forgiveness and redemption. Discover its emotional impact and why it remains a powerful anthem of hope for many around the world. Perfect for those seeking solace and spiritual upliftment.">
+                    <meta name="keywords" content="amazing grace">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/amazing-grace">
+                            <span itemprop="name">amazing grace</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Amazing Grace: A Hymn of Redemption and Hope"</h1>
+                <p>"Amazing Grace" is a timeless hymn that transcends generations, emphasizing forgiveness and redemption. Written by John Newton, it has touched countless hearts, reminding us of the beauty of mercy and the power of faith. Its simple yet profound message encourages hope, making it a comforting anthem in times of struggle.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazing Grace">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81cO8-oYyvL._AC_UF1000,1000_QL80_.jpg' alt='Amazing Grace'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="790">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81cO8-oYyvL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazing Grace (The Alpha and Omega)">
+                                <img itemprop="contentUrl url" src='https://mwtb.org/cdn/shop/products/1136ENNI-1_370x.jpg?v=1617824643' alt='Amazing Grace (The Alpha and Omega)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="370">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Moments With The Book" />
+                                </span>
+                                <a href='https://mwtb.org/cdn/shop/products/1136ENNI-1_370x.jpg?v=1617824643' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazing Grace Lyrics, Hymn Meaning, and Story - Lyrics, Hymn ...">
+                                <img itemprop="contentUrl url" src='https://i.swncdn.com/media/904w/godtube/resource/popular-hymns/image/amazing-grace.jpg' alt='Amazing Grace Lyrics, Hymn Meaning, and Story - Lyrics, Hymn ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="904">
+                                <meta itemprop="height" content="475">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GodTube.com" />
+                                </span>
+                                <a href='https://i.swncdn.com/media/904w/godtube/resource/popular-hymns/image/amazing-grace.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazing Grace - Wikisource, the free online library">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Amazing_Grace-Olney_1779.jpg/250px-Amazing_Grace-Olney_1779.jpg' alt='Amazing Grace - Wikisource, the free online library'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="379">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikisource" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Amazing_Grace-Olney_1779.jpg/250px-Amazing_Grace-Olney_1779.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazing Grace - HOT MESS TO MESSAGE">
+                                <img itemprop="contentUrl url" src='https://lesliespeas.com/wp-content/uploads/2020/02/amazinggracefeature-1024x683-1.png' alt='Amazing Grace - HOT MESS TO MESSAGE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Leslie Speas" />
+                                </span>
+                                <a href='https://lesliespeas.com/wp-content/uploads/2020/02/amazinggracefeature-1024x683-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazing Grace Sheet Music White">
+                                <img itemprop="contentUrl url" src='http://detailsrockrapids.com/cdn/shop/files/16be7f957f7243fa38533f491ffce14bcc3b9416bc2f889c3dffa387271e97dc.webp?v=1721935579' alt='Amazing Grace Sheet Music White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Details of Rock Rapids" />
+                                </span>
+                                <a href='http://detailsrockrapids.com/cdn/shop/files/16be7f957f7243fa38533f491ffce14bcc3b9416bc2f889c3dffa387271e97dc.webp?v=1721935579' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazing grace | latest | best version | with lyrics |original">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Tvt6E9N7AQw/sddefault.jpg' alt='Amazing grace | latest | best version | with lyrics |original'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Tvt6E9N7AQw/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why Grace Is So Amazing | Revive Our Hearts Episode | Revive Our ...">
+                                <img itemprop="contentUrl url" src='https://df6yevl24pl4a.cloudfront.net/filer_public/1b/a7/1ba71009-e0b9-4be7-8d36-6e182387d57f/amazing-grace-homepage.jpg' alt='Why Grace Is So Amazing | Revive Our Hearts Episode | Revive Our ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Revive Our Hearts" />
+                                </span>
+                                <a href='https://df6yevl24pl4a.cloudfront.net/filer_public/1b/a7/1ba71009-e0b9-4be7-8d36-6e182387d57f/amazing-grace-homepage.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AMAZING GRACE Hymn Art Custom Christian Home Decor Vintage Verses ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/5570441/r/il/23e96d/2073634916/il_fullxfull.2073634916_j64u.jpg' alt='AMAZING GRACE Hymn Art Custom Christian Home Decor Vintage Verses ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/5570441/r/il/23e96d/2073634916/il_fullxfull.2073634916_j64u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazing Grace">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91O6oKWQDmL._AC_UF1000,1000_QL80_.jpg' alt='Amazing Grace'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="785">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91O6oKWQDmL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

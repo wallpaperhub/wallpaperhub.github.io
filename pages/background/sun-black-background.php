@@ -1,0 +1,129 @@
+<title>Sun on Black: Stunning Cosmic Contrast</title>
+                    <meta name="description" content="Discover the captivating beauty of the sun against a black background. Explore its vivid colors and stunning luminosity, and gain insights into this cosmic wonder. Perfect for space enthusiasts and nature lovers alike, this visual experience engages your imagination and appreciation for our star.">
+                    <meta name="keywords" content="sun black background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sun-black-background">
+                            <span itemprop="name">sun black background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Sun on Black: Stunning Cosmic Contrast</h1>
+                <p>The sun, a blazing sphere of energy, shines brightly against a striking black background, creating a mesmerizing contrast. This visual representation highlights the sun's intense luminosity and power, sparking curiosity about the cosmos. A black backdrop emphasizes the sun’s radiant colors, inviting viewers to appreciate its beauty and significance.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100,000+ Free Black Sun & Sun Images - Pixabay">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2014/09/29/10/26/sun-465936_640.png' alt='100,000+ Free Black Sun & Sun Images - Pixabay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="569">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2014/09/29/10/26/sun-465936_640.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sun On Black Background 3d Rendering Stock Photo - Download Image ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/599888526/photo/sun-on-black-background-3d-rendering.jpg?s=612x612&w=is&k=20&c=kRPqzn5GerThNPcpFjcY2QstZsLVp8vj5KfB9CsY76Q=' alt='Sun On Black Background 3d Rendering Stock Photo - Download Image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/599888526/photo/sun-on-black-background-3d-rendering.jpg?s=612x612&w=is&k=20&c=kRPqzn5GerThNPcpFjcY2QstZsLVp8vj5KfB9CsY76Q=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bright sun on a black background Royalty Free Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/25/57/bright-sun-on-a-black-background-vector-34542557.jpg' alt='Bright sun on a black background Royalty Free Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/25/57/bright-sun-on-a-black-background-vector-34542557.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sun Rays Black Images – Browse 222,918 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/32/99/54/360_F_232995426_xAopAAEterBrZhcC1CXLVtCF6RhYF5Z3.jpg' alt='Sun Rays Black Images – Browse 222,918 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/32/99/54/360_F_232995426_xAopAAEterBrZhcC1CXLVtCF6RhYF5Z3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Sun flare on the black background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/sun-flare-black-background_132310-6823.jpg' alt='Premium Photo | Sun flare on the black background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/sun-flare-black-background_132310-6823.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sun on black background Royalty Free Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/88/57/sun-on-black-background-vector-1238857.jpg' alt='Sun on black background Royalty Free Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/88/57/sun-on-black-background-vector-1238857.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Bright sun for Sun in closeup on black background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/bright-sun-sun-closeup-black-background_1962-2453.jpg' alt='Premium Photo | Bright sun for Sun in closeup on black background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/bright-sun-sun-closeup-black-background_1962-2453.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bright sun on a black background - Illustration 2228699 Vector Art ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/002/228/699/non_2x/bright-sun-on-a-black-background-illustration-vector.jpg' alt='Bright sun on a black background - Illustration 2228699 Vector Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="586">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/002/228/699/non_2x/bright-sun-on-a-black-background-illustration-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sun on Black Background, Sun Icon. Stock Vector - Illustration of ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/sun-black-background-sun-icon-vector-art-eps-image-logo-sign-70461264.jpg' alt='Sun on Black Background, Sun Icon. Stock Vector - Illustration of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/sun-black-background-sun-icon-vector-art-eps-image-logo-sign-70461264.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6,200+ Sun Rays On Black Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/463727695/photo/lens-flare.jpg?s=612x612&w=0&k=20&c=l8tzJ5T9dkGOikXDYHfgzsuUbBy4h_018DzmF09feEM=' alt='6,200+ Sun Rays On Black Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/463727695/photo/lens-flare.jpg?s=612x612&w=0&k=20&c=l8tzJ5T9dkGOikXDYHfgzsuUbBy4h_018DzmF09feEM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

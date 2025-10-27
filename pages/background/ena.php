@@ -1,0 +1,129 @@
+<title>Discover the Energy of Ena: Ignite Your Passion</title>
+                    <meta name="description" content="Explore the essence of 'ena'—a concept that embodies energy and enthusiasm. Dive into ways to harness this vibrant spirit in daily life, from travel to personal growth. Unlock your potential and embrace life's adventures with the passion that 'ena' inspires!">
+                    <meta name="keywords" content="ena">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ena">
+                            <span itemprop="name">ena</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Energy of Ena: Ignite Your Passion</h1>
+                <p>Ena is a vibrant term that represents energy, enthusiasm, and vitality. It's often associated with movement and dynamic experiences, symbolizing the drive to explore and connect with the world. Whether in hobbies, travel, or personal growth, embracing ena can enhance life's adventures and create lasting memories.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ena (Animated Series) | ENA Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/enajoelg/images/f/fc/EnaSad.png/revision/latest?cb=20210215041035' alt='Ena (Animated Series) | ENA Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="535">
+                                <meta itemprop="height" content="737">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ENA Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/enajoelg/images/f/fc/EnaSad.png/revision/latest?cb=20210215041035' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ENA - Extinction Party">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Td7CBNu0914/maxresdefault.jpg' alt='ENA - Extinction Party'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Td7CBNu0914/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ena (Season 1) - ENA Wiki">
+                                <img itemprop="contentUrl url" src='https://ena.wiki.gg/images/thumb/c/ce/EnaTS.png/300px-EnaTS.png' alt='Ena (Season 1) - ENA Wiki'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The ENA Wiki - wiki.gg" />
+                                </span>
+                                <a href='https://ena.wiki.gg/images/thumb/c/ce/EnaTS.png/300px-EnaTS.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ENA - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/lF3O-TXURX4/hq720.jpg?sqp=-oaymwExCK4FEIIDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYISA6KH8wDw==&rs=AOn4CLDHvK8FMc6i5gcULqdZzFk-GY8fbQ' alt='ENA - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/lF3O-TXURX4/hq720.jpg?sqp=-oaymwExCK4FEIIDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYISA6KH8wDw==&rs=AOn4CLDHvK8FMc6i5gcULqdZzFk-GY8fbQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ENA (Web Animation) - TV Tropes">
+                                <img itemprop="contentUrl url" src='https://static.tvtropes.org/pmwiki/pub/images/ena_day.jpg' alt='ENA (Web Animation) - TV Tropes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="677">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TV Tropes" />
+                                </span>
+                                <a href='https://static.tvtropes.org/pmwiki/pub/images/ena_day.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ena (Animated Series) | ENA Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/enajoelg/images/0/0b/The_them.png/revision/latest?cb=20220215174702' alt='Ena (Animated Series) | ENA Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="681">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ENA Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/enajoelg/images/0/0b/The_them.png/revision/latest?cb=20220215174702' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ena Pop-Up Official - Ena Are-You-Okay" Poster for Sale by SweetT ...">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.2130252622.7343/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Ena Pop-Up Official - Ena Are-You-Okay" Poster for Sale by SweetT ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.2130252622.7343/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Salutations, Sir! Since everyone is making 3D models of ENA now, I ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/salutations-sir-since-everyone-is-making-3d-models-of-ena-v0-sjg5vbq2uknc1.gif?width=449&auto=webp&s=8adac0b13fa8d962e653399cf9c1cf3db4133fa9' alt='Salutations, Sir! Since everyone is making 3D models of ENA now, I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="449">
+                                <meta itemprop="height" content="348">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/salutations-sir-since-everyone-is-making-3d-models-of-ena-v0-sjg5vbq2uknc1.gif?width=449&auto=webp&s=8adac0b13fa8d962e653399cf9c1cf3db4133fa9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ENA: Dream BBQ (Video Game 2025) - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BODFiM2M2OGItZjVjNC00MDE0LTkwZjItODUzOTZiNjA5YWVjXkEyXkFqcGc@._V1_.jpg' alt='ENA: Dream BBQ (Video Game 2025) - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1482">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BODFiM2M2OGItZjVjNC00MDE0LTkwZjItODUzOTZiNjA5YWVjXkEyXkFqcGc@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Weird World of Joel G's ENA – The Magic Planet">
+                                <img itemprop="contentUrl url" src='https://magicplanetanime.design.blog/wp-content/uploads/2021/02/yqqlv6k.png' alt='The Weird World of Joel G's ENA – The Magic Planet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1112">
+                                <meta itemprop="height" content="622">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Magic Planet" />
+                                </span>
+                                <a href='https://magicplanetanime.design.blog/wp-content/uploads/2021/02/yqqlv6k.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

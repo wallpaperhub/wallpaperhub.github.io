@@ -1,0 +1,129 @@
+<title>Stunning Barbie Movie Phone Wallpapers for Every Fan</title>
+                    <meta name="description" content="Explore beautiful Barbie movie phone wallpapers that will elevate your device's look! Perfect for fans, these vibrant designs bring the magic of Barbie into your daily life. Download your favorite wallpapers now and express your love for all things Barbie!">
+                    <meta name="keywords" content="barbie movie phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/barbie-movie-phone-wallpaper">
+                            <span itemprop="name">barbie movie phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Barbie Movie Phone Wallpapers for Every Fan</h1>
+                <p>Transform your device with stunning Barbie movie phone wallpapers! Bring the magic of Barbie to your screen, featuring vibrant colors and iconic characters. Perfect for fans of all ages, these wallpapers add a touch of glamour and fun to your daily life. Download now to showcase your love for Barbie wherever you go!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barbie the movie iPhone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fe/1b/a6/fe1ba664091871da464681442182c714.jpg' alt='Barbie the movie iPhone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="595">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fe/1b/a6/fe1ba664091871da464681442182c714.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barbie Phone Wallpaper – Welcome | Kayla Coombs">
+                                <img itemprop="contentUrl url" src='https://www.kaylacoombs.com/wp-content/uploads/2022/07/Barbie-wallpaper-01-600x1300.jpg' alt='Barbie Phone Wallpaper – Welcome | Kayla Coombs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kayla Coombs" />
+                                </span>
+                                <a href='https://www.kaylacoombs.com/wp-content/uploads/2022/07/Barbie-wallpaper-01-600x1300.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barbie Movie Wallpaper   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/09/8a/e5/098ae5aae0623909b980c3c7ba90d695.jpg' alt='Barbie Movie Wallpaper   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/09/8a/e5/098ae5aae0623909b980c3c7ba90d695.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barbie The Movie (2023) lockscreen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/9e/b5/95/9eb595503eeb73af5abee621022c238d.jpg' alt='Barbie The Movie (2023) lockscreen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="559">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/9e/b5/95/9eb595503eeb73af5abee621022c238d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9+ Popular BARBIE Movie HD Wallpapers, Backgrounds and Photos">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/margot-robbie-barbie-movie-2022_bWhlbGWUmZqaraWkpJRmbmdlrWdpZWU.jpg' alt='9+ Popular BARBIE Movie HD Wallpapers, Backgrounds and Photos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/margot-robbie-barbie-movie-2022_bWhlbGWUmZqaraWkpJRmbmdlrWdpZWU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barbie The Movie (2023) lockscreen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/c1/76/56/c1765644c2db10dd75009fd40f0917f6.jpg' alt='Barbie The Movie (2023) lockscreen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="554">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/c1/76/56/c1765644c2db10dd75009fd40f0917f6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barbie movie film, fan art, Akira spoof, phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/yzhmth4ix8eb1.jpg' alt='Barbie movie film, fan art, Akira spoof, phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2250">
+                                <meta itemprop="height" content="5000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/yzhmth4ix8eb1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barbie Movie Ryan Gosling Margot Robbie 4K Wallpaper iPhone HD ...">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/barbie-movie-ryan-gosling-margot-robbie-905@1@k-phone-4k.jpg' alt='Barbie Movie Ryan Gosling Margot Robbie 4K Wallpaper iPhone HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/barbie-movie-ryan-gosling-margot-robbie-905@1@k-phone-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BARBIE MOVIE WALLPAPER FOR PHONE - HeroWall | Phone Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/a/AVvXsEj7V4PpAY9IlPtGJNxqJELhy9123GDDxqLqbMc2FOC2D-X5GarTw0PiIr4wnAYAplhXrOl68hVBLcXAF9KLPIjA6pl3FZ7SJUUXsO0viI7RuHbV3UUACoQkN57j8nPG9hmU6cno7HzQjilDEJ5CNBIqpFqmy_ODqol6MIGM4Occ4iVk_iceHKKsDf6UO6s' alt='BARBIE MOVIE WALLPAPER FOR PHONE - HeroWall | Phone Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HeroWall" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/a/AVvXsEj7V4PpAY9IlPtGJNxqJELhy9123GDDxqLqbMc2FOC2D-X5GarTw0PiIr4wnAYAplhXrOl68hVBLcXAF9KLPIjA6pl3FZ7SJUUXsO0viI7RuHbV3UUACoQkN57j8nPG9hmU6cno7HzQjilDEJ5CNBIqpFqmy_ODqol6MIGM4Occ4iVk_iceHKKsDf6UO6s' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper smile, blonde, driving, blue sky, cute girl, Movie, Ryan ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/6/56/barbie-movie-margot-robbie-ryan-gosling.webp' alt='Wallpaper smile, blonde, driving, blue sky, cute girl, Movie, Ryan ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/6/56/barbie-movie-margot-robbie-ryan-gosling.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Merry Christmas & Happy New Year 2024 Background</title>
+                    <meta name="description" content="Celebrate the holiday spirit with our Merry Christmas and Happy New Year 2024 background! Perfect for cards and decorations, this festive design captures the joy of the season, making your celebrations even more special. Get ready to spread cheer and embrace the New Year with warmth and happiness!">
+                    <meta name="keywords" content="merry christmas and happy new year 2024 background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/merry-christmas-and-happy-new-year-2024-background">
+                            <span itemprop="name">merry christmas and happy new year 2024 background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Merry Christmas & Happy New Year 2024 Background</h1>
+                <p>Wishing everyone a Merry Christmas and a Happy New Year 2024! As we celebrate this joyful season, let the spirit of love and togetherness fill our hearts. Embrace the warmth of family gatherings, the delight of festive meals, and the joy of exchanging gifts. May the upcoming year bring peace and happiness!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Merry Christmas Happy New Year 2024 Hd Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/94/6a/e4/946ae487cb4758627d050005e660d79e.jpg' alt='Merry Christmas Happy New Year 2024 Hd Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/94/6a/e4/946ae487cb4758627d050005e660d79e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy New Year 2024 Merry Christmas Stock Vector (Royalty Free ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/happy-new-year-2024-merry-260nw-2330468513.jpg' alt='Happy New Year 2024 Merry Christmas Stock Vector (Royalty Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="325">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/happy-new-year-2024-merry-260nw-2330468513.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy new year 2024 and Merry Christmas 2024 background video with baubles  and stars 100% free">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/LOQoVQM1FCo/maxresdefault.jpg' alt='Happy new year 2024 and Merry Christmas 2024 background video with baubles  and stars 100% free'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/LOQoVQM1FCo/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Merry Christmas and Happy New Year 2024 Poster, Numbers on Green ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/merry-christmas-happy-new-year-poster-numbers-green-background-design-greeting-card-template-cover-merry-christmas-286040294.jpg' alt='Merry Christmas and Happy New Year 2024 Poster, Numbers on Green ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/merry-christmas-happy-new-year-poster-numbers-green-background-design-greeting-card-template-cover-merry-christmas-286040294.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Merry Christmas And Happy New Year 2024 Flyer Template Background ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/origin/10/04/75/63qpIkbEsTy9R.jpg!w700wp' alt='Merry Christmas And Happy New Year 2024 Flyer Template Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/origin/10/04/75/63qpIkbEsTy9R.jpg!w700wp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Merry Christmas and Happy New Year Background ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/merry-christmas-happy-new-year-background-with-2024-gift-boxes-branches-christmas-tree-vector_259139-3138.jpg' alt='Premium Vector | Merry Christmas and Happy New Year Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="601">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/merry-christmas-happy-new-year-background-with-2024-gift-boxes-branches-christmas-tree-vector_259139-3138.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Merry Christmas And Happy New Year 2024 Frame With Realistic ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/origin/10/05/16/25upIkbEsT7hb.jpg!w700wp' alt='Merry Christmas And Happy New Year 2024 Frame With Realistic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="394">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/origin/10/05/16/25upIkbEsT7hb.jpg!w700wp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Wish You A Merry Christmas And Happy New Year Vintage Background ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2H53J7Y/i-wish-you-a-merry-christmas-and-happy-new-year-vintage-background-with-typography-2024-2H53J7Y.jpg' alt='I Wish You A Merry Christmas And Happy New Year Vintage Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="767">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2H53J7Y/i-wish-you-a-merry-christmas-and-happy-new-year-vintage-background-with-typography-2024-2H53J7Y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Double Celebration: Merry Christmas 2023 & Happy New Year 2024 ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/42/de/c6/42dec68f58e4c1f64d99424a1350479a.jpg' alt='A Double Celebration: Merry Christmas 2023 & Happy New Year 2024 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/42/de/c6/42dec68f58e4c1f64d99424a1350479a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Merry christmas and happy new year 2024 greeting Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/67/08/merry-christmas-and-happy-new-year-2024-greeting-vector-48636708.jpg' alt='Merry christmas and happy new year 2024 greeting Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1077">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/67/08/merry-christmas-and-happy-new-year-2024-greeting-vector-48636708.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

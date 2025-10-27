@@ -1,0 +1,129 @@
+<title>How Employers Verify High School Diplomas</title>
+                    <meta name="description" content="Learn how employers confirm high school diplomas, ensuring authenticity in the hiring process. Discover the methods used, from contacting schools to using verification services, and understand why this step is essential for maintaining educational standards and workplace integrity.">
+                    <meta name="keywords" content="how do employers verify high school diploma">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/how-do-employers-verify-high-school-diploma">
+                            <span itemprop="name">how do employers verify high school diploma</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>How Employers Verify High School Diplomas</h1>
+                <p>Employers verify high school diplomas through various methods, including contacting the issuing school directly, using diploma verification services, or checking databases that track educational credentials. They may also ask candidates to provide transcripts or contact references. This process ensures authenticity and helps maintain workplace standards.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Do Employers Verify Education Background?">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/651c199d37c7888693ddd230/673b9326ac4679d959bf665c_AD_4nXfu5mUsihca0kz9e-ZMKde4tVJ-7Aa57A0uzXLDGjaruIq02TcA2VXxB9w0wSmXBlvSjCl_HXPCeXqgqKQjaJ0BD7bOIVTvm8nuFzH3gTtayWgTeaZE03l_PMJQqLD1j3zegz1kMm1X_T2MWWrPSZVx6Ydj.png' alt='How Do Employers Verify Education Background?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="804">
+                                <meta itemprop="height" content="591">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ferretly" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/651c199d37c7888693ddd230/673b9326ac4679d959bf665c_AD_4nXfu5mUsihca0kz9e-ZMKde4tVJ-7Aa57A0uzXLDGjaruIq02TcA2VXxB9w0wSmXBlvSjCl_HXPCeXqgqKQjaJ0BD7bOIVTvm8nuFzH3gTtayWgTeaZE03l_PMJQqLD1j3zegz1kMm1X_T2MWWrPSZVx6Ydj.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do High School Diplomas Show Up on Background Checks ...">
+                                <img itemprop="contentUrl url" src='https://pdxfingerprinting.com/wp-content/uploads/2024/01/Do-High-School-Diplomas-Show-Up-on-Background-Checks-1024x536.png' alt='Do High School Diplomas Show Up on Background Checks ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PDX Fingerprinting" />
+                                </span>
+                                <a href='https://pdxfingerprinting.com/wp-content/uploads/2024/01/Do-High-School-Diplomas-Show-Up-on-Background-Checks-1024x536.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Do Employers Verify High School Education? - Private Eyes ...">
+                                <img itemprop="contentUrl url" src='https://www.privateeyesbackgroundchecks.com/wp-content/uploads/2020/05/How-Do-Employers-Verify-High-School-Education-1650x825-1.jpeg' alt='How Do Employers Verify High School Education? - Private Eyes ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1650">
+                                <meta itemprop="height" content="825">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Private Eyes Background Checks" />
+                                </span>
+                                <a href='https://www.privateeyesbackgroundchecks.com/wp-content/uploads/2020/05/How-Do-Employers-Verify-High-School-Education-1650x825-1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do High School Diplomas Show Up on Background Checks?">
+                                <img itemprop="contentUrl url" src='https://gcheck.com/wp-content/uploads/2024/06/What-is-an-Education-Verification_-visual-selection.webp' alt='Do High School Diplomas Show Up on Background Checks?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1123">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GCheck" />
+                                </span>
+                                <a href='https://gcheck.com/wp-content/uploads/2024/06/What-is-an-Education-Verification_-visual-selection.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Avoid the #1 Education Verification Pitfall - Clarifacts">
+                                <img itemprop="contentUrl url" src='https://clarifacts.com/wp-content/uploads/2020/06/Diploma-with-blank-fields.jpg' alt='How to Avoid the #1 Education Verification Pitfall - Clarifacts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Clarifacts" />
+                                </span>
+                                <a href='https://clarifacts.com/wp-content/uploads/2020/06/Diploma-with-blank-fields.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Do Employers Verify Education Background?">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/651c199d37c7888693ddd230/673b9326fb2f47e96aaea148_AD_4nXemuTagWyBXOFClDbCCJ1y9gjjg9mhctx2XISA_voeM3kDyJb7gR7Gq5b3skapMD0vJnU6V7LSRMqnGQr20XUrxYfzFCexV0jCrVcqKJxtNg4hcI4z9tds-KGqBbHwotV4WChcUzuLOkZwQQaSthcD4yP4.png' alt='How Do Employers Verify Education Background?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ferretly" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/651c199d37c7888693ddd230/673b9326fb2f47e96aaea148_AD_4nXemuTagWyBXOFClDbCCJ1y9gjjg9mhctx2XISA_voeM3kDyJb7gR7Gq5b3skapMD0vJnU6V7LSRMqnGQr20XUrxYfzFCexV0jCrVcqKJxtNg4hcI4z9tds-KGqBbHwotV4WChcUzuLOkZwQQaSthcD4yP4.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Conduct Background Checks for High School Diplomas | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/0d71a9f3a2222c0efbd35f8b6b8fe5b6/a9625/Article-High-School-Diploma-Checks-963x413-1.png' alt='How to Conduct Background Checks for High School Diplomas | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="963">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/0d71a9f3a2222c0efbd35f8b6b8fe5b6/a9625/Article-High-School-Diploma-Checks-963x413-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="High School Diploma Verification | Equifax Workforce Solutions">
+                                <img itemprop="contentUrl url" src='https://assets.equifax.com/ews/datahub/images/EFX-TotalVerify-DataHub-web.png' alt='High School Diploma Verification | Equifax Workforce Solutions'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="677">
+                                <meta itemprop="height" content="731">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Equifax Workforce Solutions" />
+                                </span>
+                                <a href='https://assets.equifax.com/ews/datahub/images/EFX-TotalVerify-DataHub-web.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="High School Diploma Verifications – Verifications Knowledge Base">
+                                <img itemprop="contentUrl url" src='https://help.studentclearinghouse.org/verifications/wp-content/uploads/2021/04/DIplomaVerifyCTASidebar2.png' alt='High School Diploma Verifications – Verifications Knowledge Base'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="337">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Help - National Student Clearinghouse" />
+                                </span>
+                                <a href='https://help.studentclearinghouse.org/verifications/wp-content/uploads/2021/04/DIplomaVerifyCTASidebar2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="High School Diploma Background Checks | Checkr">
+                                <img itemprop="contentUrl url" src='https://a-us.storyblok.com/f/1014904/7c3e0e90ee/checkr-web-article-high-school-diploma-bgc-2.webp/m/' alt='High School Diploma Background Checks | Checkr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr" />
+                                </span>
+                                <a href='https://a-us.storyblok.com/f/1014904/7c3e0e90ee/checkr-web-article-high-school-diploma-bgc-2.webp/m/' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Discover Stunning Asian Aesthetic Wallpapers for Every Space</title>
+                    <meta name="description" content="Transform your home with beautiful Asian aesthetic wallpapers. Explore designs that inspire tranquility and elegance, perfect for any room. Enhance your decor with cultural motifs and patterns that bring a unique touch to your space. Find your ideal wallpaper today!">
+                    <meta name="keywords" content="asian aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/asian-aesthetic-wallpaper">
+                            <span itemprop="name">asian aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Stunning Asian Aesthetic Wallpapers for Every Space</h1>
+                <p>Asian aesthetic wallpaper brings a serene and elegant touch to any space, blending traditional motifs with modern design. From tranquil landscapes to intricate patterns inspired by nature, these wallpapers create a peaceful ambiance. Ideal for those seeking to infuse their decor with cultural richness and beauty.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="430 Cute asian wallpapers ideas | cute wallpapers, kawaii ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/26/ec/df/26ecdf74aca77eaa8391d98a4b7a7615.jpg' alt='430 Cute asian wallpapers ideas | cute wallpapers, kawaii ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/26/ec/df/26ecdf74aca77eaa8391d98a4b7a7615.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/31/fe/da/31fedab0a7770fa53ad52abbbe05d077.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="690">
+                                <meta itemprop="height" content="1227">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/31/fe/da/31fedab0a7770fa53ad52abbbe05d077.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Chinese flower iPhone wallpaper | Premium Photo - rawpixel">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNTk3ZGVzaWduLWItMDM1Yi5qcGc.jpg' alt='Aesthetic Chinese flower iPhone wallpaper | Premium Photo - rawpixel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNTk3ZGVzaWduLWItMDM1Yi5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Japanese Wall Mural, Asian Wallpaper, Japan Aesthetic Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/10668883/r/il/0461b5/6098789909/il_570xN.6098789909_2y9c.jpg' alt='Japanese Wall Mural, Asian Wallpaper, Japan Aesthetic Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/10668883/r/il/0461b5/6098789909/il_570xN.6098789909_2y9c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Filtered Asian Night Aesthetic Street Photography ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/filtered-asian-night-aesthetic-street-photography-gqzl8avqtk4n8a1l.jpg' alt='Download Filtered Asian Night Aesthetic Street Photography ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/filtered-asian-night-aesthetic-street-photography-gqzl8avqtk4n8a1l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="430 Cute asian wallpapers ideas | cute wallpapers, kawaii ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/7e/9b/d9/7e9bd9c0c9566f95cb56060cf182c9eb.jpg' alt='430 Cute asian wallpapers ideas | cute wallpapers, kawaii ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="430">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/7e/9b/d9/7e9bd9c0c9566f95cb56060cf182c9eb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Asian Chinese Night Aesthetic Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/asian-chinese-night-aesthetic-hzj8dxedy3khzev0.jpg' alt='Download Asian Chinese Night Aesthetic Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/asian-chinese-night-aesthetic-hzj8dxedy3khzev0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3d/0a/9f/3d0a9f3c96e2004396d2df7b3293ad5c.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3d/0a/9f/3d0a9f3c96e2004396d2df7b3293ad5c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Asian City Osaka Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/asian-city-osaka-aesthetic-fibm9k0jg58qgj92.jpg' alt='Asian City Osaka Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/asian-city-osaka-aesthetic-fibm9k0jg58qgj92.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Asian aesthetic – MUJI's website redesign">
+                                <img itemprop="contentUrl url" src='https://steffinalproject.wordpress.com/wp-content/uploads/2017/09/4ac4346fdb6e5071dad2cdfc722b453a.jpg' alt='Asian aesthetic – MUJI's website redesign'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="940">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MUJI's website redesign - WordPress.com" />
+                                </span>
+                                <a href='https://steffinalproject.wordpress.com/wp-content/uploads/2017/09/4ac4346fdb6e5071dad2cdfc722b453a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

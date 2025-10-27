@@ -1,0 +1,129 @@
+<title>Whiteboard Wallpaper: Transform Your Space</title>
+                    <meta name="description" content="Discover the benefits of whiteboard wallpaper for versatile writing and brainstorming spaces. Perfect for both home and office, it encourages creativity while keeping your area organized. Easy to apply and erase, this innovative solution transforms ordinary walls into interactive surfaces for enhanced productivity.">
+                    <meta name="keywords" content="white board wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/white-board-wallpaper">
+                            <span itemprop="name">white board wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Whiteboard Wallpaper: Transform Your Space</h1>
+                <p>Transform any space with whiteboard wallpaper—a versatile, creative solution for homes and offices. Easily jot down notes, brainstorm ideas, or develop designs on its smooth surface. Ideal for educational environments or collaborative work spaces, this wallpaper ensures a clutter-free area while encouraging creativity and productivity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NuWallpaper Dry Erase White Wallpaper Sample NU2497SAM">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/b4c1193c-2cfe-4039-b295-563365d3b416/svn/nuwallpaper-wallpaper-samples-nu2497sam-64_600.jpg' alt='NuWallpaper Dry Erase White Wallpaper Sample NU2497SAM'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/b4c1193c-2cfe-4039-b295-563365d3b416/svn/nuwallpaper-wallpaper-samples-nu2497sam-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AFMAT White Board Paper, Dry Erase Wallpaper, Peel and Stick Dry Erase  Board, 36" x 24", Self Adhesive White Board Wall Paper for Kids Home & ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51xGe16ZFgL._AC_UF894,1000_QL80_.jpg' alt='AFMAT White Board Paper, Dry Erase Wallpaper, Peel and Stick Dry Erase  Board, 36" x 24", Self Adhesive White Board Wall Paper for Kids Home & ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51xGe16ZFgL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whiteboard Wallpaper - 21 sq ft, No Adhesive">
+                                <img itemprop="contentUrl url" src='https://smartersurfaces.com/wp-content/uploads/2023/07/whiteboard-wallpaper.jpg' alt='Whiteboard Wallpaper - 21 sq ft, No Adhesive'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Smarter Surfaces" />
+                                </span>
+                                <a href='https://smartersurfaces.com/wp-content/uploads/2023/07/whiteboard-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Nortix White Board Wallpaper, Whiteboard Contact Paper, 3 ft x  4 ft Super Sticky Whiteboard Sticker Wall Decal on Wall, Table, Doors, No  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61wRjfO8vkL.jpg' alt='Amazon.com: Nortix White Board Wallpaper, Whiteboard Contact Paper, 3 ft x  4 ft Super Sticky Whiteboard Sticker Wall Decal on Wall, Table, Doors, No  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61wRjfO8vkL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How White Board Wallpaper Can Transform Your Office - Wallscape ...">
+                                <img itemprop="contentUrl url" src='https://wallscapeinc.com/wp-content/uploads/2018/01/file.jpg' alt='How White Board Wallpaper Can Transform Your Office - Wallscape ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1633">
+                                <meta itemprop="height" content="1225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallscape Wallcovering" />
+                                </span>
+                                <a href='https://wallscapeinc.com/wp-content/uploads/2018/01/file.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dry Erase Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://tempaper.com/cdn/shop/products/dr10586-dry-erase-whiteboard-tempaper-removab_allpaper-roll-clarkaldine-workspace3_1800x1800.jpg?v=1716404098' alt='Dry Erase Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='https://tempaper.com/cdn/shop/products/dr10586-dry-erase-whiteboard-tempaper-removab_allpaper-roll-clarkaldine-workspace3_1800x1800.jpg?v=1716404098' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whiteboard Wallpaper - 21 sq ft, No Adhesive">
+                                <img itemprop="contentUrl url" src='https://smartersurfaces.com/wp-content/uploads/2023/07/whiteboard-wallpaper-writable-wallcovering-in-classrooms.jpg' alt='Whiteboard Wallpaper - 21 sq ft, No Adhesive'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Smarter Surfaces" />
+                                </span>
+                                <a href='https://smartersurfaces.com/wp-content/uploads/2023/07/whiteboard-wallpaper-writable-wallcovering-in-classrooms.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: White Board Wallpaper, White Board Roll, Stick on White Boards  for Wall, 1.5x11ft Peel and Stick Dry Erase Roll, Stain-Proof, Super Sticky  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/515G4TsNFOL.jpg' alt='Amazon.com: White Board Wallpaper, White Board Roll, Stick on White Boards  for Wall, 1.5x11ft Peel and Stick Dry Erase Roll, Stain-Proof, Super Sticky  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/515G4TsNFOL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whiteboard Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/perfectly-flat-smooth-even-lighting-across-entire-image-this-wooden-plywood-texture_1027215-192.jpg' alt='Whiteboard Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/perfectly-flat-smooth-even-lighting-across-entire-image-this-wooden-plywood-texture_1027215-192.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c6/9c/6d/c69c6da2680c47ae26f097b37212ae09.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c6/9c/6d/c69c6da2680c47ae26f097b37212ae09.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

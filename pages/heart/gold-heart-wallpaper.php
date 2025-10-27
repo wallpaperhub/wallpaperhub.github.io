@@ -1,0 +1,129 @@
+<title>Elegant Gold Heart Wallpaper for Your Device</title>
+                    <meta name="description" content="Discover exquisite gold heart wallpaper that enhances your device’s aesthetic. With luxurious designs and sparkling textures, our collection offers the perfect background to express love and elegance. Download now and elevate your screen's style effortlessly!">
+                    <meta name="keywords" content="gold heart wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart">
+                            <span itemprop="name">Heart</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart/gold-heart-wallpaper">
+                            <span itemprop="name">gold heart wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Gold Heart Wallpaper for Your Device</h1>
+                <p>Transform your device with stunning gold heart wallpaper that exudes elegance and love. Perfect for adding a touch of glamour to your screens, these wallpapers feature intricate designs and shimmering textures. Explore our collection to find the perfect match for your style, turning your background into a luxurious statement piece.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golden Heart Images – Browse 398,093 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/56/32/23/360_F_456322391_derfgddzVCY5xFe3W6bggXqwChhvnQ2K.jpg' alt='Golden Heart Images – Browse 398,093 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/56/32/23/360_F_456322391_derfgddzVCY5xFe3W6bggXqwChhvnQ2K.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RoomMates Heart Spot Gold Geometric Vinyl Peel & Stick Wallpaper Roll  (Covers 28.18 Sq. Ft.) RMK3525WP">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/0b965351-48ad-441d-9c34-2bf31af9d627/svn/roommates-wallpaper-rolls-rmk3525wp-64_600.jpg' alt='RoomMates Heart Spot Gold Geometric Vinyl Peel & Stick Wallpaper Roll  (Covers 28.18 Sq. Ft.) RMK3525WP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/0b965351-48ad-441d-9c34-2bf31af9d627/svn/roommates-wallpaper-rolls-rmk3525wp-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6,700+ Gold Heart With Bright Radiance Stock Photos, Pictures ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1410089148/photo/illustration-of-an-abstract-heart-shape-that-shines-in-gold.jpg?s=612x612&w=0&k=20&c=2xNe6N3pvkYSU9b4zddAHclkEUzfzGeVxCqz-FZGN1g=' alt='6,700+ Gold Heart With Bright Radiance Stock Photos, Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1410089148/photo/illustration-of-an-abstract-heart-shape-that-shines-in-gold.jpg?s=612x612&w=0&k=20&c=2xNe6N3pvkYSU9b4zddAHclkEUzfzGeVxCqz-FZGN1g=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Heart Backgrounds Images – Browse 431,700 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/11/40/93/91/360_F_1140939145_Pk7cWiwddejjZUWf17fKtac6LePxJF2H.jpg' alt='Gold Heart Backgrounds Images – Browse 431,700 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/11/40/93/91/360_F_1140939145_Pk7cWiwddejjZUWf17fKtac6LePxJF2H.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/aa/c8/ac/aac8ace63880b822aca2eb4235ada878.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="732">
+                                <meta itemprop="height" content="1147">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/aa/c8/ac/aac8ace63880b822aca2eb4235ada878.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Heart Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/000/570/308/non_2x/vector-gold-glittering-heart-confetti-seamless-pattern-on-striped-background.jpg' alt='Gold Heart Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/000/570/308/non_2x/vector-gold-glittering-heart-confetti-seamless-pattern-on-striped-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Glitter Heart Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/gold-glitter-heart-em783iaexz9y3euo.jpg' alt='Gold Glitter Heart Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="623">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/gold-glitter-heart-em783iaexz9y3euo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golden Heart" Wallpaper | Pastel Heart Theme Wallpaper Mural ...">
+                                <img itemprop="contentUrl url" src='https://vivianferne.com/cdn/shop/files/Screenshot2024-01-23at11.39.25AM.png?v=1706028561&width=1214' alt='Golden Heart" Wallpaper | Pastel Heart Theme Wallpaper Mural ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1214">
+                                <meta itemprop="height" content="739">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vivian Ferne" />
+                                </span>
+                                <a href='https://vivianferne.com/cdn/shop/files/Screenshot2024-01-23at11.39.25AM.png?v=1706028561&width=1214' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Hearts Images – Browse 645,570 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/09/69/16/38/360_F_969163818_eiAUrWO1GpsuwJc3DNtsXNeTtrDT6wJP.jpg' alt='Gold Hearts Images – Browse 645,570 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/09/69/16/38/360_F_969163818_eiAUrWO1GpsuwJc3DNtsXNeTtrDT6wJP.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/63/53/9f/63539f927c195dabd887afe42fa227ca.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/63/53/9f/63539f927c195dabd887afe42fa227ca.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

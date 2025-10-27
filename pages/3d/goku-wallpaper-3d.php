@@ -1,0 +1,129 @@
+<title>Stunning 3D Goku Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore a collection of breathtaking 3D Goku wallpapers designed to elevate your device's look. Perfect for Dragon Ball enthusiasts, these vibrant and dynamic backgrounds showcase your favorite character in action. Download now and transform your screen with epic Goku art!">
+                    <meta name="keywords" content="goku wallpaper 3d">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/3d">
+                            <span itemprop="name">3D</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/3d/goku-wallpaper-3d">
+                            <span itemprop="name">goku wallpaper 3d</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 3D Goku Wallpapers for Your Device</h1>
+                <p>Transform your device with stunning Goku wallpaper in 3D! Experience the iconic character like never before with vibrant colors and dynamic designs that bring your screens to life. Perfect for Dragon Ball fans, these wallpapers will enhance your phone, tablet, or computer background. Discover your favorite Goku poses today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D goku wallpaper , .., .., #anime#goku#3danimation">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3368595438398867763' alt='3D goku wallpaper , .., .., #anime#goku#3danimation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="418">
+                                <meta itemprop="height" content="743">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3368595438398867763' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Goku Ultra Instinct Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/goku-ultra-instinct-cgebo5hue38ak78m.jpg' alt='100+] Goku Ultra Instinct Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="645">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/goku-ultra-instinct-cgebo5hue38ak78m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0c/6a/17/0c6a17a5a09259aaf7f1bf8bf8ba3186.jpg' alt='Goku HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0c/6a/17/0c6a17a5a09259aaf7f1bf8bf8ba3186.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball Super Goku ultra instinct 3d wallpaper art | Art Board Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.4902304512.7692/gbrf,8x8,f,540x540-pad,450x450,f8f8f8.webp' alt='Dragon Ball Super Goku ultra instinct 3d wallpaper art | Art Board Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.4902304512.7692/gbrf,8x8,f,540x540-pad,450x450,f8f8f8.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku, dragonball, cool, 3d, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/576/388/HD-wallpaper-goku-dragonball-cool-3d.jpg' alt='Goku, dragonball, cool, 3d, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1424">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/576/388/HD-wallpaper-goku-dragonball-cool-3d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragonball Goku 3D wallpaper HD">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/2d/5e/6f/2d5e6fad6ad1b094e62b0850b9e6f747.jpg' alt='Dragonball Goku 3D wallpaper HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="981">
+                                <meta itemprop="height" content="1744">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/2d/5e/6f/2d5e6fad6ad1b094e62b0850b9e6f747.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball Super, 3d Animated, goku, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/190/536/HD-wallpaper-dragon-ball-super-3d-animated-goku.jpg' alt='Dragon Ball Super, 3d Animated, goku, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/190/536/HD-wallpaper-dragon-ball-super-3d-animated-goku.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Goku In 3D Picture | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/goku-pictures-2hyylohadplmuo3d.jpg' alt='Download Goku In 3D Picture | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/goku-pictures-2hyylohadplmuo3d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball Super Goku ultra instinct 3d wallpaper art | Art Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.4902304510.7692/farp,small,wall_texture,product,750x1000.jpg' alt='Dragon Ball Super Goku ultra instinct 3d wallpaper art | Art Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.4902304510.7692/farp,small,wall_texture,product,750x1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DelhiWallpapers Goku With Lighting Dragon Ball Z Self Adhesive 3D ...">
+                                <img itemprop="contentUrl url" src='https://rukminim2.flixcart.com/image/850/1000/kst9gnk0/wall-decoration/t/y/k/goku-with-lighting-dragon-ball-z-self-adhesive-3d-anime-poster-original-imaf9kwu8zznhyvu.jpeg?q=90&crop=false' alt='DelhiWallpapers Goku With Lighting Dragon Ball Z Self Adhesive 3D ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="464">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flipkart" />
+                                </span>
+                                <a href='https://rukminim2.flixcart.com/image/850/1000/kst9gnk0/wall-decoration/t/y/k/goku-with-lighting-dragon-ball-z-self-adhesive-3d-anime-poster-original-imaf9kwu8zznhyvu.jpeg?q=90&crop=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

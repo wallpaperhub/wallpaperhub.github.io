@@ -1,0 +1,129 @@
+<title>Star Wars Legends Wallpapers: Epic Images for Fans</title>
+                    <meta name="description" content="Explore our collection of Star Wars Legends wallpapers! Find vibrant, high-quality images featuring beloved characters and epic scenes from the expanded universe. Perfect for personalizing your devices and showcasing your love for Star Wars. Download now and immerse yourself in the galaxy!">
+                    <meta name="keywords" content="star wars legends wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star">
+                            <span itemprop="name">Star</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star/star-wars-legends-wallpaper">
+                            <span itemprop="name">star wars legends wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Star Wars Legends Wallpapers: Epic Images for Fans</h1>
+                <p>Discover a galaxy far, far away with stunning Star Wars Legends wallpapers! Perfect for fans, these vibrant images feature iconic characters, thrilling battles, and breathtaking scenery from the expanded universe. Transform your devices with epic art that celebrates the rich lore of Star Wars Legends and showcases your fandom!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0b/97/8e/0b978eb2822b9009d983cc7915ac60c5.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="727">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0b/97/8e/0b978eb2822b9009d983cc7915ac60c5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Celebrating the Legends of Star Wars Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/star-wars-characters-r39sjkofgd7awb6p.jpg' alt='Download Celebrating the Legends of Star Wars Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/star-wars-characters-r39sjkofgd7awb6p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Lightsaber Legends HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/300/300334.jpg' alt='Star Wars Lightsaber Legends HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/300/300334.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Legends Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp10884395.jpg' alt='Star Wars Legends Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp10884395.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Sci Fi Star Wars HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/251/251714.jpg' alt='Download Sci Fi Star Wars HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/251/251714.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars The New Jedi Order Wallpaper : r/StarWarsEU">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/29ob040cpcq71.jpg?width=640&crop=smart&auto=webp&s=65d78f68f21f52a5143809ec960c77a1f83ad6dd' alt='Star Wars The New Jedi Order Wallpaper : r/StarWarsEU'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="306">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/29ob040cpcq71.jpg?width=640&crop=smart&auto=webp&s=65d78f68f21f52a5143809ec960c77a1f83ad6dd' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anakin Skywalker/Legends">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9a/8d/de/9a8ddee2f5c402c4d6db7cd4d00a3bd5.jpg' alt='Anakin Skywalker/Legends'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1131">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9a/8d/de/9a8ddee2f5c402c4d6db7cd4d00a3bd5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Quickly edited an iPhone background featuring all (Dark Side) Star ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/h9wdoff35tcc1.jpeg' alt='Quickly edited an iPhone background featuring all (Dark Side) Star ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1888">
+                                <meta itemprop="height" content="4086">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/h9wdoff35tcc1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Legends of the Expanded Universe">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=679594639596043' alt='Star Wars Legends of the Expanded Universe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=679594639596043' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD star wars legend wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/252/946/HD-wallpaper-star-wars-ahsoka-ahsoka-tano-galaxy-lazer-legends-sword-vader-war-wars-thumbnail.jpg' alt='HD star wars legend wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/252/946/HD-wallpaper-star-wars-ahsoka-ahsoka-tano-galaxy-lazer-legends-sword-vader-war-wars-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

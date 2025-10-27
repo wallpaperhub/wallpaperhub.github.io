@@ -1,0 +1,129 @@
+<title>Chill Vibes: Anime Lofi Wallpaper Collection</title>
+                    <meta name="description" content="Discover the perfect blend of anime aesthetics and lofi vibes with our curated collection of anime lofi wallpapers. Ideal for setting a relaxed mood, these images enhance your device while resonating with tranquility. Download now and enjoy a cozy ambiance at your fingertips!">
+                    <meta name="keywords" content="anime lofi wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/anime-lofi-wallpaper">
+                            <span itemprop="name">anime lofi wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chill Vibes: Anime Lofi Wallpaper Collection</h1>
+                <p>Anime lofi wallpaper combines the soothing vibes of lofi music with stunning visuals from anime culture. Perfect for providing a calming atmosphere, these wallpapers often showcase serene landscapes or characters in relaxing settings. Download your favorite anime lofi wallpaper and transform your device's look into a cozy aesthetic haven.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Lo-fi Desktop Wallpapers | Anime backgrounds wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f6/c5/17/f6c517ccc8bab364676add8b07c0736d.jpg' alt='Anime Lo-fi Desktop Wallpapers | Anime backgrounds wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f6/c5/17/f6c517ccc8bab364676add8b07c0736d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lofi Sunset Anime Style HD Wallpaper by robokoboto">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/134/1349197.png' alt='Lofi Sunset Anime Style HD Wallpaper by robokoboto'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2912">
+                                <meta itemprop="height" content="1632">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/134/1349197.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo & Art Print Cute lofi girl anime illustration, wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/v2/jpg/06/11/28/09/1000_F_611280941_67BV5Fzf7HWdPJiDysZJdkw7fx1JRjDG.jpg' alt='Photo & Art Print Cute lofi girl anime illustration, wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Europosters.eu" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/v2/jpg/06/11/28/09/1000_F_611280941_67BV5Fzf7HWdPJiDysZJdkw7fx1JRjDG.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Serene Lofi Anime Room - HD Wallpaper by ArseniXC">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/749/thumb-1920-749455.png' alt='Serene Lofi Anime Room - HD Wallpaper by ArseniXC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/749/thumb-1920-749455.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Lo-Fi Girl Studying Chill Vibe 4K wallpaper - Heroscreen ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAmL4KAKSy3U-6BwpDEvTmSZoFrVwops1WJK5ECjkzbrhuLQnC_UZTteRjVX_PBkTiFYucBY-7kFXq_qbCy4dxgBkP9IQUrWnfR4ztd6a0i6vj35U19NCWOJ39K4ay-1zCuXPblalnMWWSpBJamEzzbCCRoa3Gb2eQcXks7858aopJn2GYGji-7hjvug/s3840/lofi-anime-girl-studying-1282023.png' alt='Anime Lo-Fi Girl Studying Chill Vibe 4K wallpaper - Heroscreen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAmL4KAKSy3U-6BwpDEvTmSZoFrVwops1WJK5ECjkzbrhuLQnC_UZTteRjVX_PBkTiFYucBY-7kFXq_qbCy4dxgBkP9IQUrWnfR4ztd6a0i6vj35U19NCWOJ39K4ay-1zCuXPblalnMWWSpBJamEzzbCCRoa3Gb2eQcXks7858aopJn2GYGji-7hjvug/s3840/lofi-anime-girl-studying-1282023.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Lo Fi Anime Chill Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/lo-fi-anime-chill-zy9mriuuo1y9cnx8.jpg' alt='100+] Lo Fi Anime Chill Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/lo-fi-anime-chill-zy9mriuuo1y9cnx8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lofi Hip Hop, Lo Fi Anime Your Name Cover, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/499/664/HD-wallpaper-lofi-hip-hop-lo-fi-anime-your-name-cover.jpg' alt='Lofi Hip Hop, Lo Fi Anime Your Name Cover, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/499/664/HD-wallpaper-lofi-hip-hop-lo-fi-anime-your-name-cover.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LO-FI VIBE ANIME GIRL WALLPAPER IPHONE : r/MobileWallpaper">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/lo-fi-vibe-anime-girl-wallpaper-iphone-v0-TIy3flinEFsgHvA-2s5amYMNBCrQXBbvtxt4eZLepWU.jpg?auto=webp&s=fd9a7655e8af538e09475b13ec0e98d5758a7c09' alt='LO-FI VIBE ANIME GIRL WALLPAPER IPHONE : r/MobileWallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/lo-fi-vibe-anime-girl-wallpaper-iphone-v0-TIy3flinEFsgHvA-2s5amYMNBCrQXBbvtxt4eZLepWU.jpg?auto=webp&s=fd9a7655e8af538e09475b13ec0e98d5758a7c09' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lofi anime 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/girl-listening-to-music-lofi-anime-xd9hwiq8c3uq4e44.jpg' alt='Lofi anime 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/girl-listening-to-music-lofi-anime-xd9hwiq8c3uq4e44.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peace Your Mind Lofi Hip Hop">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/videos/1107135055/thumb/1.jpg?ip=x480' alt='Peace Your Mind Lofi Hip Hop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/videos/1107135055/thumb/1.jpg?ip=x480' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

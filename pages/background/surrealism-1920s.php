@@ -1,0 +1,129 @@
+<title>Exploring Surrealism: The 1920s Artistic Revolution</title>
+                    <meta name="description" content="Delve into the captivating world of 1920s surrealism, where artists like Dalí transformed imagination with dreamlike visions. Discover how this movement redefined creativity and challenged reality, blending art with the subconscious in a revolutionary way. Perfect for art lovers and history enthusiasts alike!">
+                    <meta name="keywords" content="surrealism 1920s">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/surrealism-1920s">
+                            <span itemprop="name">surrealism 1920s</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring Surrealism: The 1920s Artistic Revolution</h1>
+                <p>Surrealism in the 1920s emerged as a revolutionary artistic movement, challenging perceptions of reality. Inspired by the unconscious mind, artists like Salvador Dalí and André Breton crafted dreamlike scenes filled with bizarre imagery. This era redefined creativity, blending art with psychology, and questioned the nature of existence itself.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5.12: Surrealism (1920-1950) - Humanities LibreTexts">
+                                <img itemprop="contentUrl url" src='https://human.libretexts.org/@api/deki/files/85480/3712541955_6a6a57121c_c.jpg?revision=1' alt='5.12: Surrealism (1920-1950) - Humanities LibreTexts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="799">
+                                <meta itemprop="height" content="632">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Humanities LibreTexts" />
+                                </span>
+                                <a href='https://human.libretexts.org/@api/deki/files/85480/3712541955_6a6a57121c_c.jpg?revision=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art History: Surrealism 1920- 30's - MS. REYNOLDS CLASSROOM CANVAS">
+                                <img itemprop="contentUrl url" src='https://classroomcanvas.weebly.com/uploads/8/3/9/6/8396275/screenshot1_orig.png' alt='Art History: Surrealism 1920- 30's - MS. REYNOLDS CLASSROOM CANVAS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="583">
+                                <meta itemprop="height" content="438">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ms. reynolds classroom canvas - Weebly" />
+                                </span>
+                                <a href='https://classroomcanvas.weebly.com/uploads/8/3/9/6/8396275/screenshot1_orig.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is Surrealism? | Artsy">
+                                <img itemprop="contentUrl url" src='https://d7hftxdivxxvm.cloudfront.net/?height=630&quality=80&resize_to=fill&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2FTPEIjGcoSmUJXAg2T4Wcuw%252Fcustom-Custom_Size___salvador-dali-the-persistence-of-memory-1931%2B2.jpg&width=1200' alt='What Is Surrealism? | Artsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Artsy" />
+                                </span>
+                                <a href='https://d7hftxdivxxvm.cloudfront.net/?height=630&quality=80&resize_to=fill&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2FTPEIjGcoSmUJXAg2T4Wcuw%252Fcustom-Custom_Size___salvador-dali-the-persistence-of-memory-1931%2B2.jpg&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1920s Art - Cubism, Surrealism, and Dada">
+                                <img itemprop="contentUrl url" src='https://www.1920s-fashion-and-music.com/images/The-Double-Secret-Rene-Magritte.jpg' alt='1920s Art - Cubism, Surrealism, and Dada'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="291">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="1920s Fashion & Music" />
+                                </span>
+                                <a href='https://www.1920s-fashion-and-music.com/images/The-Double-Secret-Rene-Magritte.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Surrealism Movement Overview | TheArtStory">
+                                <img itemprop="contentUrl url" src='https://www.theartstory.org/images20/new_design/bio_box/bio_box_surrealism.jpg?3' alt='Surrealism Movement Overview | TheArtStory'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Art Story" />
+                                </span>
+                                <a href='https://www.theartstory.org/images20/new_design/bio_box/bio_box_surrealism.jpg?3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5.12: Surrealism (1920-1950) - Humanities LibreTexts">
+                                <img itemprop="contentUrl url" src='https://human.libretexts.org/@api/deki/files/78163/6689038833_609050e49a_b.jpg?revision=1' alt='5.12: Surrealism (1920-1950) - Humanities LibreTexts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="744">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Humanities LibreTexts" />
+                                </span>
+                                <a href='https://human.libretexts.org/@api/deki/files/78163/6689038833_609050e49a_b.jpg?revision=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vitra Design Museum explores the impact of 1920s Surrealism ...">
+                                <img itemprop="contentUrl url" src='https://cdn.mos.cms.futurecdn.net/VqQ6EYmWZWSWKXxjQUnRAS.jpg' alt='Vitra Design Museum explores the impact of 1920s Surrealism ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5598">
+                                <meta itemprop="height" content="5574">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Magazine" />
+                                </span>
+                                <a href='https://cdn.mos.cms.futurecdn.net/VqQ6EYmWZWSWKXxjQUnRAS.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Guide To Surrealism: Key Characteristics and Themes - Pinot's ...">
+                                <img itemprop="contentUrl url" src='https://studio.pinotspalette.com/naperville/images/nap-surrealismscrrenshot.png' alt='A Guide To Surrealism: Key Characteristics and Themes - Pinot's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="663">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinot's Palette" />
+                                </span>
+                                <a href='https://studio.pinotspalette.com/naperville/images/nap-surrealismscrrenshot.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Surrealism Art - A Deep Dive Into the Surrealism Art Movement">
+                                <img itemprop="contentUrl url" src='https://artincontext.org/wp-content/uploads/2021/05/Surrealism-Art.jpg' alt='Surrealism Art - A Deep Dive Into the Surrealism Art Movement'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="848">
+                                <meta itemprop="height" content="565">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Art in Context" />
+                                </span>
+                                <a href='https://artincontext.org/wp-content/uploads/2021/05/Surrealism-Art.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American Surrealism and Modern Dialect |">
+                                <img itemprop="contentUrl url" src='https://www.columbusmuseum.org/wp-content/uploads/2014/07/Wilde700.jpg' alt='American Surrealism and Modern Dialect |'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Columbus Museum of Art" />
+                                </span>
+                                <a href='https://www.columbusmuseum.org/wp-content/uploads/2014/07/Wilde700.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

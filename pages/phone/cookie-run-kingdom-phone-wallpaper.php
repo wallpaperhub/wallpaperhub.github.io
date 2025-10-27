@@ -1,0 +1,129 @@
+<title>Cookie Run Kingdom: Stunning Phone Wallpapers</title>
+                    <meta name="description" content="Discover vibrant and captivating Cookie Run Kingdom phone wallpapers! Perfect for fans, our collection features beloved characters and designs that will brighten up your device. Customize your home screen and showcase your love for this delightful game today!">
+                    <meta name="keywords" content="cookie run kingdom phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/cookie-run-kingdom-phone-wallpaper">
+                            <span itemprop="name">cookie run kingdom phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cookie Run Kingdom: Stunning Phone Wallpapers</h1>
+                <p>Transform your phone with stunning Cookie Run Kingdom wallpapers! Featuring beloved characters and vibrant designs, these wallpapers bring the magic of the game to your screen. Perfect for fans who want a touch of whimsy in their everyday life, choose your favorite mini-cookie hero and show your love for this delightfully sweet adventure!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cookie Run Kingdom Wallpaper - Wallpaper Sun">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f4/2b/d7/f42bd74ace2d7700fe17ddfae14f64fa.jpg' alt='Cookie Run Kingdom Wallpaper - Wallpaper Sun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="715">
+                                <meta itemprop="height" content="1335">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f4/2b/d7/f42bd74ace2d7700fe17ddfae14f64fa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CookieRun: Kingdom on X: "April showers bring May flowers ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FRiJTWaX0AMFj_0?format=jpg&name=4096x4096' alt='CookieRun: Kingdom on X: "April showers bring May flowers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="3200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FRiJTWaX0AMFj_0?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a phone wallpaper with my favorite cookies :D (anybody has ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/i-made-a-phone-wallpaper-with-my-favorite-cookies-d-anybody-v0-bu7hfatnhoya1.jpg?auto=webp&s=8bda36cae31a0c7e2b1994f6bc9ccffe8dcd933a' alt='I made a phone wallpaper with my favorite cookies :D (anybody has ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/i-made-a-phone-wallpaper-with-my-favorite-cookies-d-anybody-v0-bu7hfatnhoya1.jpg?auto=webp&s=8bda36cae31a0c7e2b1994f6bc9ccffe8dcd933a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Milky Way Cookie phone wallpaper! Took me like a month of on and ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/9729j3qe0uma1.jpg' alt='Milky Way Cookie phone wallpaper! Took me like a month of on and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/9729j3qe0uma1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cookie Run: Kingdom, Mobile Wallpaper - Zerochan Anime Image Board">
+                                <img itemprop="contentUrl url" src='https://static.zerochan.net/Latte.Cookie.full.3269589.jpg' alt='Cookie Run: Kingdom, Mobile Wallpaper - Zerochan Anime Image Board'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zerochan" />
+                                </span>
+                                <a href='https://static.zerochan.net/Latte.Cookie.full.3269589.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CookieRun: Kingdom on X: "Fierce fights ⚔️ in the Dragon's ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FyoOwWRXoAAgON_.jpg:large' alt='CookieRun: Kingdom on X: "Fierce fights ⚔️ in the Dragon's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="843">
+                                <meta itemprop="height" content="1499">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FyoOwWRXoAAgON_.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cookie Run Kingdom Pancake Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cookie-run-kingdom-pancake-ton3ckn90txp5u2s.jpg' alt='Cookie Run Kingdom Pancake Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cookie-run-kingdom-pancake-ton3ckn90txp5u2s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cookie Run Kingdom Wallpaper - Wallpaper Sun">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6e/25/37/6e25375276c76afbb9488129a2b71a1e.jpg' alt='Cookie Run Kingdom Wallpaper - Wallpaper Sun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6e/25/37/6e25375276c76afbb9488129a2b71a1e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cookie Run Kingdom Kawaii Cookies Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cookie-run-kingdom-kawaii-cookies-tw3xqyogbekm65vq.jpg' alt='Cookie Run Kingdom Kawaii Cookies Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="661">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cookie-run-kingdom-kawaii-cookies-tw3xqyogbekm65vq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cotton Candy Cookie, cookie run, cute, pastel, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/404/909/HD-wallpaper-cotton-candy-cookie-cookie-run-cute-pastel.jpg' alt='Cotton Candy Cookie, cookie run, cute, pastel, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/404/909/HD-wallpaper-cotton-candy-cookie-cookie-run-cute-pastel.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

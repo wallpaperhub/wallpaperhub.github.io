@@ -1,0 +1,129 @@
+<title>Stunning Half Neck Tattoo Ideas for Unique Expression</title>
+                    <meta name="description" content="Explore the art of half neck tattoos, blending bold designs with personal expression. Discover ideas and inspiration for stunning neck tattoos that reflect your individuality, allowing you to make a statement without overwhelming your style. Perfect for anyone seeking meaningful body art!">
+                    <meta name="keywords" content="half neck tattoos">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/half-neck-tattoos">
+                            <span itemprop="name">half neck tattoos</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Half Neck Tattoo Ideas for Unique Expression</h1>
+                <p>Half neck tattoos offer a striking way to express individuality while blending elegance and edginess. Covering only part of the neck, these tattoos can range from subtle designs to intricate art. They serve as a powerful statement, easily visible yet versatile, making them popular among those seeking a unique form of body art.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Half Neck Tattoo Inspiration">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7413866078809427206&location=0&aid=1988' alt='Half Neck Tattoo Inspiration'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7413866078809427206&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1c/35/b7/1c35b709442ca1685d8b6d30fd7bbff8.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="955">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1c/35/b7/1c35b709442ca1685d8b6d30fd7bbff8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Creative Half Neck Tattoo Ideas for Your Next Ink">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7441034410310389034&location=0&aid=1988' alt='Creative Half Neck Tattoo Ideas for Your Next Ink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1186">
+                                <meta itemprop="height" content="1701">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7441034410310389034&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why haven’t you booked with me yet? $200 half neck tattoos ALWAYS ✅, Client  : one of my favs. @cxllas , #explore #explorepage #fyp #foryou #tattooideas  #tattooreels #cleveland #clevelandtattooartist ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3479666510054822601' alt='Why haven’t you booked with me yet? $200 half neck tattoos ALWAYS ✅, Client  : one of my favs. @cxllas , #explore #explorepage #fyp #foryou #tattooideas  #tattooreels #cleveland #clevelandtattooartist ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3479666510054822601' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PAINFreaksOnly - Half Neck Sleeve ✍️   The neck tattoo is a ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=587805400245075' alt='PAINFreaksOnly - Half Neck Sleeve ✍️   The neck tattoo is a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=587805400245075' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by TattedSlizz on NECK TATTOOS | Black men tattoos, Neck ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/88/75/5f/88755fbb3aa24e73e540508322c41eef.jpg' alt='Pin by TattedSlizz on NECK TATTOOS | Black men tattoos, Neck ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="529">
+                                <meta itemprop="height" content="659">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/88/75/5f/88755fbb3aa24e73e540508322c41eef.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/48/00/36/48003642286a5cc0730bf33dcb0bd697.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/48/00/36/48003642286a5cc0730bf33dcb0bd697.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="23 Neck tattoo ideas | neck tattoo, neck tattoo for guys, best ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/76/43/0a/76430a4f3c023b2779617975f54be7cc.jpg' alt='23 Neck tattoo ideas | neck tattoo, neck tattoo for guys, best ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="287">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/76/43/0a/76430a4f3c023b2779617975f54be7cc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Route 66 Tattoo Studio - Half neck tattoo. Just done. By ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1723004044502217' alt='Route 66 Tattoo Studio - Half neck tattoo. Just done. By ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1859">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1723004044502217' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Client’s first tattoo and he got his half neck done ✅. , Would you dare?,  ., ., ., ., ., ., ., ., ., ., #tatt #tattoo #tattoos #tattooist #tattooart  #tattoostyle #tattooideas #rosetattoo #rose ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3328385609062398754' alt='Client’s first tattoo and he got his half neck done ✅. , Would you dare?,  ., ., ., ., ., ., ., ., ., ., #tatt #tattoo #tattoos #tattooist #tattooart  #tattoostyle #tattooideas #rosetattoo #rose ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3328385609062398754' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

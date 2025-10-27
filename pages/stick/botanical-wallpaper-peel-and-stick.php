@@ -1,0 +1,129 @@
+<title>Transform Your Home with Peel and Stick Botanical Wallpaper</title>
+                    <meta name="description" content="Discover the beauty of botanical wallpaper peel and stick designs! Perfect for effortless decorating, these removable wallpapers add a touch of nature and style to any room. Easily apply and remove without damaging your walls. Refresh your space today with our curated collection!">
+                    <meta name="keywords" content="botanical wallpaper peel and stick">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/botanical-wallpaper-peel-and-stick">
+                            <span itemprop="name">botanical wallpaper peel and stick</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Home with Peel and Stick Botanical Wallpaper</h1>
+                <p>Enhance your space with stunning botanical wallpaper peel and stick options! Perfect for renters or those wanting a quick room refresh, these easy-to-apply designs bring nature indoors without the hassle of traditional wallpaper. Choose from vibrant florals, lush greenery, and unique patterns to create an inviting atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Botanical Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/products/VintageDarkBotanicalWallpaper_PeelandStickWallpaper_RemovableWallpaper_BotanicalWallpaper_TemporaryWallpaper_botanicalforestWallpaper.png?v=1718902431' alt='Dark Botanical Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="988">
+                                <meta itemprop="height" content="988">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/products/VintageDarkBotanicalWallpaper_PeelandStickWallpaper_RemovableWallpaper_BotanicalWallpaper_TemporaryWallpaper_botanicalforestWallpaper.png?v=1718902431' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Botanical Wallpaper, Peel and Stick Wallpaper, Watercolor ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20358297/r/il/966638/3106239880/il_fullxfull.3106239880_nhjq.jpg' alt='Retro Botanical Wallpaper, Peel and Stick Wallpaper, Watercolor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20358297/r/il/966638/3106239880/il_fullxfull.3106239880_nhjq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aldopein Botanical Wallpaper Peel and Stick, Moody Black Green Plants  Leaves Floral Removable Adhesive Wallpaper Wall Mural for Bedroom Bathroom  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81hN8QDUqjL.jpg' alt='Aldopein Botanical Wallpaper Peel and Stick, Moody Black Green Plants  Leaves Floral Removable Adhesive Wallpaper Wall Mural for Bedroom Bathroom  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81hN8QDUqjL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Botanical Bliss Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/products/botanical-bliss-wallpaper-peel-stick-302554.png?v=1666799102' alt='Botanical Bliss Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="805">
+                                <meta itemprop="height" content="805">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/products/botanical-bliss-wallpaper-peel-stick-302554.png?v=1666799102' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Dark Floral Botanical Wallpaper Green, Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18185185/r/il/8cd45e/4240763516/il_570xN.4240763516_g8k6.jpg' alt='Wallpaper Dark Floral Botanical Wallpaper Green, Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="763">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18185185/r/il/8cd45e/4240763516/il_570xN.4240763516_g8k6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Botanical Leaf Wallpaper | Removable Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick Wall Mural 2356">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3458147257_n7nj.jpg' alt='Dark Botanical Leaf Wallpaper | Removable Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick Wall Mural 2356'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3458147257_n7nj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Floral Peel and Stick Wallpaper Boho Botanical Wallpaper Modern  Removable Contact Paper for Cabinets Shelves Vintage Kids Wallpaper Self ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91jr-uA2mZL.jpg' alt='Black Floral Peel and Stick Wallpaper Boho Botanical Wallpaper Modern  Removable Contact Paper for Cabinets Shelves Vintage Kids Wallpaper Self ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91jr-uA2mZL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Botanical Dark - Studio Exclusive">
+                                <img itemprop="contentUrl url" src='https://www.kokoartshop.com/cdn/shop/products/il_fullxfull.1566792371_5g7o_b3c16f43-c5cf-4cf7-8124-c474e4ae49e4.jpg?v=1622578647&width=1080' alt='Vintage Botanical Dark - Studio Exclusive'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Koko Art Shop" />
+                                </span>
+                                <a href='https://www.kokoartshop.com/cdn/shop/products/il_fullxfull.1566792371_5g7o_b3c16f43-c5cf-4cf7-8124-c474e4ae49e4.jpg?v=1622578647&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Botanical Peel and Stick Wallpaper – RoomMates Decor">
+                                <img itemprop="contentUrl url" src='https://roommatesdecor.com/cdn/shop/products/RMK11645RL_YWDE00BotanicalPrint_1.jpg?v=1589831236' alt='Botanical Peel and Stick Wallpaper – RoomMates Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RoomMates Decor" />
+                                </span>
+                                <a href='https://roommatesdecor.com/cdn/shop/products/RMK11645RL_YWDE00BotanicalPrint_1.jpg?v=1589831236' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Subtle Grey Self Adhesive Wallpaper - The Wallberry Wallpapers">
+                                <img itemprop="contentUrl url" src='https://thewallberry.com/wp-content/uploads/2023/02/boho_botanical_peel_and_stick_wallpaper.jpg' alt='Subtle Grey Self Adhesive Wallpaper - The Wallberry Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Wallberry" />
+                                </span>
+                                <a href='https://thewallberry.com/wp-content/uploads/2023/02/boho_botanical_peel_and_stick_wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Rihanna: The Multifaceted Music Icon and Entrepreneur</title>
+                    <meta name="description" content="Explore the dynamic world of Rihanna, the music legend known for chart-topping hits and groundbreaking entrepreneurial ventures. Discover her influence in fashion and beauty, as well as her advocacy for inclusivity and empowerment. Dive into the life and legacy of this pop culture icon.">
+                    <meta name="keywords" content="rihanna">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rihanna">
+                            <span itemprop="name">rihanna</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Rihanna: The Multifaceted Music Icon and Entrepreneur</h1>
+                <p>Rihanna, a global music icon, has captivated audiences with her unique blend of pop, R&B, and reggae. Known for hits like "Umbrella" and "Diamonds," she has sold millions of records worldwide. Beyond music, Rihanna is also a successful entrepreneur, launching her beauty and fashion lines that emphasize inclusivity and empowerment.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rihanna | Biography, Music, Movies, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/83/211883-050-46933F1A/Rihanna-Barbadian-singer-Robyn-Fenty.jpg' alt='Rihanna | Biography, Music, Movies, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1164">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/83/211883-050-46933F1A/Rihanna-Barbadian-singer-Robyn-Fenty.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rihanna - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/5/5d/Rihanna_Fenty_2024_03.jpg' alt='Rihanna - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="426">
+                                <meta itemprop="height" content="476">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/5/5d/Rihanna_Fenty_2024_03.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rihanna - Biography, Singer, Entertainer">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/rihanna.jpg?crop=1xw:1.0xh;center,top&resize=640:*' alt='Rihanna - Biography, Singer, Entertainer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/rihanna.jpg?crop=1xw:1.0xh;center,top&resize=640:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rihanna">
+                                <img itemprop="contentUrl url" src='https://imageio.forbes.com/specials-images/imageserve/67606f22d9918d6930c26d22/0x0.jpg?format=jpg&crop=1549,1552,x551,y201,safe&height=416&width=416&fit=bounds' alt='Rihanna'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="415">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forbes" />
+                                </span>
+                                <a href='https://imageio.forbes.com/specials-images/imageserve/67606f22d9918d6930c26d22/0x0.jpg?format=jpg&crop=1549,1552,x551,y201,safe&height=416&width=416&fit=bounds' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rihanna Songs and Music | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789' alt='Rihanna Songs and Music | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rihanna Gives 'R9' Album Update, Talks Parenting With A$AP Rocky">
+                                <img itemprop="contentUrl url" src='https://www.billboard.com/wp-content/uploads/2024/10/rihanna-nordstrom-fenty-2024-billboard-1548.jpg?w=942&h=623&crop=1' alt='Rihanna Gives 'R9' Album Update, Talks Parenting With A$AP Rocky'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="942">
+                                <meta itemprop="height" content="623">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Billboard" />
+                                </span>
+                                <a href='https://www.billboard.com/wp-content/uploads/2024/10/rihanna-nordstrom-fenty-2024-billboard-1548.jpg?w=942&h=623&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rihanna Reveals Why 'Anti' Is Her Only Album She Listens to with ...">
+                                <img itemprop="contentUrl url" src='https://people.com/thmb/3kmWO58npyCRH0eWLJCsqFNgQl0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(1153x292:1155x294)/rihanna-harpers-bazaar-022425-7e403a0b29854340ac1c13609b0200d4.jpg' alt='Rihanna Reveals Why 'Anti' Is Her Only Album She Listens to with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="People.com" />
+                                </span>
+                                <a href='https://people.com/thmb/3kmWO58npyCRH0eWLJCsqFNgQl0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(1153x292:1155x294)/rihanna-harpers-bazaar-022425-7e403a0b29854340ac1c13609b0200d4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rihanna Asked GloRilla When Her New Album Was Dropping">
+                                <img itemprop="contentUrl url" src='https://www.rollingstone.com/wp-content/uploads/2024/07/rihanna-glorilla-album.jpg?crop=0px%2C9px%2C1798px%2C1014px&resize=1600%2C900' alt='Rihanna Asked GloRilla When Her New Album Was Dropping'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone" />
+                                </span>
+                                <a href='https://www.rollingstone.com/wp-content/uploads/2024/07/rihanna-glorilla-album.jpg?crop=0px%2C9px%2C1798px%2C1014px&resize=1600%2C900' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rihanna donates $5 million to help coronavirus relief">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/rihanna-arrives-at-the-fashion-awards-2019-held-at-royal-news-photo-1585050102.jpg?crop=0.639xw:1xh;center,top&resize=640:*' alt='Rihanna donates $5 million to help coronavirus relief'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Harper's BAZAAR" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/rihanna-arrives-at-the-fashion-awards-2019-held-at-royal-news-photo-1585050102.jpg?crop=0.639xw:1xh;center,top&resize=640:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rihanna says her next album will be 'unexpected' - BBC News">
+                                <img itemprop="contentUrl url" src='https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/0460/live/5fecf790-f139-11ef-89b6-7ffdd8007e57.jpg' alt='Rihanna says her next album will be 'unexpected' - BBC News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2159">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC" />
+                                </span>
+                                <a href='https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/0460/live/5fecf790-f139-11ef-89b6-7ffdd8007e57.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

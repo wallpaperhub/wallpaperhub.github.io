@@ -1,0 +1,129 @@
+<title>"Exploring the Diverse World of Balls"</title>
+                    <meta name="description" content="Discover the fascinating history and variety of balls used in sports and games. From soccer to basketball, learn about the materials, sizes, and designs that enhance gameplay. Perfect for sports enthusiasts and curious minds alike!">
+                    <meta name="keywords" content="balls background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/balls-background">
+                            <span itemprop="name">balls background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Exploring the Diverse World of Balls"</h1>
+                <p>The background of balls, whether in sports or games, is rich with history and diversity. From the classic leather soccer ball to vibrant rubber playground balls, each type serves a unique purpose. Balls come in various sizes, colors, and materials, influencing gameplay techniques and athlete performance, making them essential to sports culture.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="95,700+ Sports Ball Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1171529630/vector/vector-blue-sport-balls-seamless-pattern-or-background.jpg?s=612x612&w=0&k=20&c=opSXebxsbelKFUMWjr4D26yLQdLx9uirdawzwN_xUw4=' alt='95,700+ Sports Ball Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1171529630/vector/vector-blue-sport-balls-seamless-pattern-or-background.jpg?s=612x612&w=0&k=20&c=opSXebxsbelKFUMWjr4D26yLQdLx9uirdawzwN_xUw4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Sport balls background seamless pattern">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/sport-balls-background-seamless-pattern_389505-618.jpg' alt='Premium Vector | Sport balls background seamless pattern'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/sport-balls-background-seamless-pattern_389505-618.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Balls Background Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1553158399-3796bdbc82fd?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmFsbHMlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww' alt='Balls Background Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1553158399-3796bdbc82fd?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmFsbHMlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,899,232 Color Balls Background Royalty-Free Photos and Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/many-colorful-random-bright-soft-600nw-2354974285.jpg' alt='1,899,232 Color Balls Background Royalty-Free Photos and Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/many-colorful-random-bright-soft-600nw-2354974285.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sport Balls Background Stock Photo - Download Image Now - Sport ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/176088695/photo/sport-balls-background.jpg?s=1024x1024&w=is&k=20&c=YASszq8P4hsuEvEgObGscUmMx8SaoRfms50Q435wDZ4=' alt='Sport Balls Background Stock Photo - Download Image Now - Sport ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/176088695/photo/sport-balls-background.jpg?s=1024x1024&w=is&k=20&c=YASszq8P4hsuEvEgObGscUmMx8SaoRfms50Q435wDZ4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Balls Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/realistic-spheres-background_23-2149181621.jpg?semt=ais_hybrid' alt='Balls Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/realistic-spheres-background_23-2149181621.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sport balls background seamless Royalty Free Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/00/93/sport-balls-background-seamless-vector-1630093.jpg' alt='Sport balls background seamless Royalty Free Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/00/93/sport-balls-background-seamless-vector-1630093.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Mural mixed color balls background">
+                                <img itemprop="contentUrl url" src='https://img.pixers.pics/pho_wat(s3:700/FO/47/15/09/04/700_FO47150904_64adb5c6bc414b32f6f3abf4cb6e34a8.jpg,700,525,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,475,jpg)/wall-murals-mixed-color-balls-background.jpg.jpg' alt='Wall Mural mixed color balls background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="525">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixers" />
+                                </span>
+                                <a href='https://img.pixers.pics/pho_wat(s3:700/FO/47/15/09/04/700_FO47150904_64adb5c6bc414b32f6f3abf4cb6e34a8.jpg,700,525,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,475,jpg)/wall-murals-mixed-color-balls-background.jpg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="975,700+ Sports Balls Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1188462138/photo/variety-of-sport-accessories-on-wooden-surface.jpg?s=612x612&w=0&k=20&c=y2l7DYNkxbVteZy-Kx_adCzm-soTRbiEypje4j8ENe0=' alt='975,700+ Sports Balls Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1188462138/photo/variety-of-sport-accessories-on-wooden-surface.jpg?s=612x612&w=0&k=20&c=y2l7DYNkxbVteZy-Kx_adCzm-soTRbiEypje4j8ENe0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sports Balls Background Stock Illustrations – 10,167 Sports Balls ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/sports-balls-grunge-background-seamless-pattern-endless-texture-can-be-use-wallpaper-fills-etc-56354955.jpg' alt='Sports Balls Background Stock Illustrations – 10,167 Sports Balls ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/sports-balls-grunge-background-seamless-pattern-endless-texture-can-be-use-wallpaper-fills-etc-56354955.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

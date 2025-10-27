@@ -1,0 +1,129 @@
+<title>Peraton Background Investigator: Ensuring Security and Compliance</title>
+                    <meta name="description" content="Discover the essential role of Peraton background investigators in safeguarding sensitive information. Learn how they perform in-depth assessments to ensure security and compliance across industries, including government and defense. Explore the importance of their work in building trust and maintaining safety.">
+                    <meta name="keywords" content="peraton background investigator">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/peraton-background-investigator">
+                            <span itemprop="name">peraton background investigator</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Peraton Background Investigator: Ensuring Security and Compliance</h1>
+                <p>Peraton background investigators play a vital role in ensuring the safety and security of sensitive information. They conduct thorough checks on personnel, assessing criminal histories, employment records, and financial backgrounds. This meticulous process is crucial for building trust and maintaining compliance in various industries, including government and defense.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peraton Secures $81M USCIS Background Investigation Support Task ...">
+                                <img itemprop="contentUrl url" src='https://www.govconwire.com/wp-content/uploads/2022/01/00P4y00001fiONHEA2.png' alt='Peraton Secures $81M USCIS Background Investigation Support Task ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GovCon Wire" />
+                                </span>
+                                <a href='https://www.govconwire.com/wp-content/uploads/2022/01/00P4y00001fiONHEA2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Field Investigator: A Day In the Life">
+                                <img itemprop="contentUrl url" src='https://i.vimeocdn.com/video/1979041024-86ad912165661ae59683ef751d4569c644b80998bace4ae8368aead6818b3ce2-d?f=webp' alt='Field Investigator: A Day In the Life'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Careers at Peraton" />
+                                </span>
+                                <a href='https://i.vimeocdn.com/video/1979041024-86ad912165661ae59683ef751d4569c644b80998bace4ae8368aead6818b3ce2-d?f=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Careers at Peraton | TEST - RDG BACKGROUND INVESTIGATOR">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/63dd69f8eb39ef0d5cde4818/64a878e5d26d3163f4e78d32_BKGRD%20INVESTIGATOR%20070523.jpg' alt='Careers at Peraton | TEST - RDG BACKGROUND INVESTIGATOR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="473">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Careers at Peraton" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/63dd69f8eb39ef0d5cde4818/64a878e5d26d3163f4e78d32_BKGRD%20INVESTIGATOR%20070523.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Investigative Services | Peraton">
+                                <img itemprop="contentUrl url" src='https://www.peraton.com/wp-content/uploads/2021/11/logo_peraton-blk-bkgd.jpg' alt='Investigative Services | Peraton'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peraton" />
+                                </span>
+                                <a href='https://www.peraton.com/wp-content/uploads/2021/11/logo_peraton-blk-bkgd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peraton to Fulfill Perspecta's Potential $500M DCSA Contract for ...">
+                                <img itemprop="contentUrl url" src='https://executivebiz-media.s3.amazonaws.com/2021/06/15/a8/cf/b9/d4/4d/fb/28/d4/00P4y000017uZXsEAM.png' alt='Peraton to Fulfill Perspecta's Potential $500M DCSA Contract for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ExecutiveBiz" />
+                                </span>
+                                <a href='https://executivebiz-media.s3.amazonaws.com/2021/06/15/a8/cf/b9/d4/4d/fb/28/d4/00P4y000017uZXsEAM.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Our team of background investigators is growing. Meet with the ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3565089293778728480' alt='Our team of background investigators is growing. Meet with the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1079">
+                                <meta itemprop="height" content="608">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3565089293778728480' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Salary: Peraton Background Investigator in Brooklyn, NY">
+                                <img itemprop="contentUrl url" src='https://www.ziprecruiter.com/svc/fotomat/public-ziprecruiter/uploads/salary_images/peraton-background-investigator-in-brooklyn-ny-salary.webp=ws380x270' alt='Salary: Peraton Background Investigator in Brooklyn, NY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="380">
+                                <meta itemprop="height" content="204">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ZipRecruiter" />
+                                </span>
+                                <a href='https://www.ziprecruiter.com/svc/fotomat/public-ziprecruiter/uploads/salary_images/peraton-background-investigator-in-brooklyn-ny-salary.webp=ws380x270' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peraton Selected by DCSA to Provide Background Investigation ...">
+                                <img itemprop="contentUrl url" src='https://www.hstoday.us/wp-content/uploads/2019/09/magnifying-glass-1607208_1280-e1669274961133.jpg' alt='Peraton Selected by DCSA to Provide Background Investigation ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="972">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Homeland Security Today" />
+                                </span>
+                                <a href='https://www.hstoday.us/wp-content/uploads/2019/09/magnifying-glass-1607208_1280-e1669274961133.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lawrence Simpson - Background Investigator - Peraton | LinkedIn">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/C5603AQH1il72lcmrMA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1659554626460?e=2147483647&v=beta&t=vBak6Ll4_LJPFxYkIO1vVmXEpfTbF7FLvCcLnq8RThE' alt='Lawrence Simpson - Background Investigator - Peraton | LinkedIn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/C5603AQH1il72lcmrMA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1659554626460?e=2147483647&v=beta&t=vBak6Ll4_LJPFxYkIO1vVmXEpfTbF7FLvCcLnq8RThE' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DCSecurityClearanceConsultants on X: "DCSA's Contractor Background ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/Fjnd7ZjWAAMAfaJ.png' alt='DCSecurityClearanceConsultants on X: "DCSA's Contractor Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="451">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/Fjnd7ZjWAAMAfaJ.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

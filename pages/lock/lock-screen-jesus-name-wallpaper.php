@@ -1,0 +1,129 @@
+<title>Inspiring Jesus Name Lock Screen Wallpapers</title>
+                    <meta name="description" content="Discover beautiful Jesus name lock screen wallpapers that inspire faith and positivity. Perfect for personalizing your device, these wallpapers uplift your spirit with every unlock. Explore a variety of designs to find the one that speaks to your heart today!">
+                    <meta name="keywords" content="lock screen jesus name wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock">
+                            <span itemprop="name">Lock</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock/lock-screen-jesus-name-wallpaper">
+                            <span itemprop="name">lock screen jesus name wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Inspiring Jesus Name Lock Screen Wallpapers</h1>
+                <p>Transform your device with an inspiring lock screen wallpaper featuring the name of Jesus. This wallpaper not only adds a personal touch but also serves as a daily reminder of faith and positivity. Available in various styles and designs, find the perfect one that resonates with your spirit and uplifts your day every time you unlock your phone.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jesus Name wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/da/fd/b5/dafdb5a40cc3f568cd80664ab93dc09a.jpg' alt='Jesus Name wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/da/fd/b5/dafdb5a40cc3f568cd80664ab93dc09a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jesus y2k lock screen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/52/df/f6/52dff6d568bf345d4ca4e231a03346cc.jpg' alt='Jesus y2k lock screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/52/df/f6/52dff6d568bf345d4ca4e231a03346cc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Empowered by the Name of Jesus Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/jesus-name-oe2h6ci48fnn3m8x.jpg' alt='Download Empowered by the Name of Jesus Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/jesus-name-oe2h6ci48fnn3m8x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jesus: The name above all names - Christian iPhone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/93/8b/89/938b89946e93644c81351d82a441f6ab.jpg' alt='Jesus: The name above all names - Christian iPhone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/93/8b/89/938b89946e93644c81351d82a441f6ab.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Remembering and Honoring the Name of Jesus Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/jesus-name-lh7p3w1d4g5is0wv.jpg' alt='Download Remembering and Honoring the Name of Jesus Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1088">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/jesus-name-lh7p3w1d4g5is0wv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jesus, lockscreen, christain, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/912/526/HD-wallpaper-jesus-lockscreen-christain.jpg' alt='Jesus, lockscreen, christain, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/912/526/HD-wallpaper-jesus-lockscreen-christain.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Jesus' Name Is Above All Names Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/jesus-name-4v46gqioogmilzox.jpg' alt='Download Jesus' Name Is Above All Names Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/jesus-name-4v46gqioogmilzox.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christian Iphone Jesus Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/christian-iphone-jesus-w3lwwmqgyhccs0lk.jpg' alt='Christian Iphone Jesus Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/christian-iphone-jesus-w3lwwmqgyhccs0lk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD jesus name wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/736/168/HD-wallpaper-happy-birtay-jesus-blue-neon-lights-jesus-name-creative-jesus-happy-birtay-jesus-birtay-popular-american-male-names-with-jesus-name-jesus-thumbnail.jpg' alt='HD jesus name wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="211">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/736/168/HD-wallpaper-happy-birtay-jesus-blue-neon-lights-jesus-name-creative-jesus-happy-birtay-jesus-birtay-popular-american-male-names-with-jesus-name-jesus-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jesus wallpaper hd">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/A1SZG+EW0mL.png' alt='Jesus wallpaper hd'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/A1SZG+EW0mL.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

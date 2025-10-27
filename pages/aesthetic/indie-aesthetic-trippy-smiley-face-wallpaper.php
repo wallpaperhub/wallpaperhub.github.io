@@ -1,0 +1,129 @@
+<title>Indie Aesthetic Trippy Smiley Face Wallpaper: Brighten Your Space</title>
+                    <meta name="description" content="Elevate your aesthetic with our indie trippy smiley face wallpaper! Perfect for creating a cheerful ambiance, these designs blend vibrant colors and playful patterns to invigorate any room. Ideal for trendsetters seeking unique decor, let your walls reflect your joy and creativity!">
+                    <meta name="keywords" content="indie aesthetic trippy smiley face wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/indie-aesthetic-trippy-smiley-face-wallpaper">
+                            <span itemprop="name">indie aesthetic trippy smiley face wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Indie Aesthetic Trippy Smiley Face Wallpaper: Brighten Your Space</h1>
+                <p>Discover the vibrant world of indie aesthetic trippy smiley face wallpaper! This eclectic design captures the essence of joy and creativity, featuring colorful, abstract patterns that reflect a laid-back vibe. Perfect for personal spaces, these wallpapers transform your surroundings into a cheerful, smile-inducing haven. Embrace the indie spirit!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trippy happy face">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/e6/22/5e/e6225e1f941b636e37f8dbec841885fe.jpg' alt='Trippy happy face'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/e6/22/5e/e6225e1f941b636e37f8dbec841885fe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smiley Trippy Face *periwinkle*">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/47/b1/d5/47b1d5db7112bba1c2824b5730169566.jpg' alt='Smiley Trippy Face *periwinkle*'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="657">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/47/b1/d5/47b1d5db7112bba1c2824b5730169566.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic, rainbow, smiley, trippy, weird, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/557/308/HD-wallpaper-aesthetic-rainbow-smiley-trippy-weird.jpg' alt='Aesthetic, rainbow, smiley, trippy, weird, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/557/308/HD-wallpaper-aesthetic-rainbow-smiley-trippy-weird.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Aesthetic Trippy Smiley Face Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/abstract-beige-dripping-aesthetic-trippy-smiley-face-orgw8x0y0rgarofg.jpg' alt='100+] Aesthetic Trippy Smiley Face Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="864">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/abstract-beige-dripping-aesthetic-trippy-smiley-face-orgw8x0y0rgarofg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vibrant Aesthetic Smiley Face Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/vibrant-aesthetic-smiley-face-pgbd97hv6qg5uadi.webp' alt='Vibrant Aesthetic Smiley Face Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="660">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/vibrant-aesthetic-smiley-face-pgbd97hv6qg5uadi.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trippy circle, indie, smile, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/815/205/HD-wallpaper-trippy-circle-indie-smile.jpg' alt='Trippy circle, indie, smile, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/815/205/HD-wallpaper-trippy-circle-indie-smile.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="smiley faces poster">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a7/26/15/a7261530ef0690eba07cb58737375070.jpg' alt='smiley faces poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a7/26/15/a7261530ef0690eba07cb58737375070.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Indie Aesthetic Trippy Smiley Face Wallpaper Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/y-k-indie-trippy-smiley-face-melt-neon-pink-aesthetic-retro-270240569.jpg' alt='Indie Aesthetic Trippy Smiley Face Wallpaper Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/y-k-indie-trippy-smiley-face-melt-neon-pink-aesthetic-retro-270240569.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Trippy Smiley Wallpapers - Trippy Aesthetic Wallpaper for ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2022/05/colorful-trippy-smiley-face-wallpaper-2-scaled.jpg' alt='Colorful Trippy Smiley Wallpapers - Trippy Aesthetic Wallpaper for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1183">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2022/05/colorful-trippy-smiley-face-wallpaper-2-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Aesthetic Trippy Smiley Face Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/aesthetic-trippy-smiley-face-omofrapvtm8yyjfa.jpg' alt='100+] Aesthetic Trippy Smiley Face Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1341">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/aesthetic-trippy-smiley-face-omofrapvtm8yyjfa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

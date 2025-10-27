@@ -1,0 +1,129 @@
+<title>Top Backgrounds for Blightcaller Characters</title>
+                    <meta name="description" content="Discover the best backgrounds for your Blightcaller character! Explore how the right setting enhances gameplay and skills, with tips on choosing immersive environments that reflect their dark and mystical nature. Perfect for RPG enthusiasts looking to elevate their character's story!">
+                    <meta name="keywords" content="best background for blightcaller">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/best-background-for-blightcaller">
+                            <span itemprop="name">best background for blightcaller</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Top Backgrounds for Blightcaller Characters</h1>
+                <p>The best background for a Blightcaller character in role-playing games should enhance their dark, mystical vibe. Opt for a backdrop that incorporates elements of decay, shadowy forests, or desolate landscapes. These settings emphasize the Blightcaller's connection to the environment, creating an immersive experience for players and enhancing the character's abilities.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blightcaller class - Tiny Tina's Wonderlands">
+                                <img itemprop="contentUrl url" src='https://mentalmars.com/wp-content/uploads/2022/06/Blightcaller.jpg' alt='Blightcaller class - Tiny Tina's Wonderlands'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MentalMars" />
+                                </span>
+                                <a href='https://mentalmars.com/wp-content/uploads/2022/06/Blightcaller.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blightcaller class skills revealed!">
+                                <img itemprop="contentUrl url" src='https://cdn.2kgames.com/2022/08/01/62e8397ad7f2bSS-Blightcaller2-thumb.jpg' alt='Blightcaller class skills revealed!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="805">
+                                <meta itemprop="height" content="453">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tiny Tina's Wonderlands" />
+                                </span>
+                                <a href='https://cdn.2kgames.com/2022/08/01/62e8397ad7f2bSS-Blightcaller2-thumb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blightcaller » Tiny Tina's Wonderlands Class » MentalMars">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/7jDnBWWD9Bw/maxresdefault.jpg' alt='Blightcaller » Tiny Tina's Wonderlands Class » MentalMars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MentalMars" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/7jDnBWWD9Bw/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tiny Tina's Wonderlands: Best Character Backgrounds For Your Class ...">
+                                <img itemprop="contentUrl url" src='https://www.denofgeek.com/wp-content/uploads/2022/03/Tiny-Tina-Background.jpg?fit=1914%2C732' alt='Tiny Tina's Wonderlands: Best Character Backgrounds For Your Class ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1914">
+                                <meta itemprop="height" content="732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Den of Geek" />
+                                </span>
+                                <a href='https://www.denofgeek.com/wp-content/uploads/2022/03/Tiny-Tina-Background.jpg?fit=1914%2C732' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blightcaller » Tiny Tina's Wonderlands Class » MentalMars">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/7jDnBWWD9Bw/mqdefault.jpg' alt='Blightcaller » Tiny Tina's Wonderlands Class » MentalMars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MentalMars" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/7jDnBWWD9Bw/mqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tiny Tina's Wonderlands: Shattering Spectreglass out now ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/WNVbESXilWPBXhhaGuQBOSyGodmPaBdVvdqEM_Q0zv8.jpg?width=640&crop=smart&auto=webp&s=fb63589717333025717ee75936275e62c819251d' alt='Tiny Tina's Wonderlands: Shattering Spectreglass out now ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/WNVbESXilWPBXhhaGuQBOSyGodmPaBdVvdqEM_Q0zv8.jpg?width=640&crop=smart&auto=webp&s=fb63589717333025717ee75936275e62c819251d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Nathanos Blightcaller Sylvanas Windrunner Video Game ...">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/102/thumb-350-1020077.webp' alt='Download Nathanos Blightcaller Sylvanas Windrunner Video Game ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="219">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/102/thumb-350-1020077.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tiny Tina's Wonderlands: Blightcaller Guide (Tips, Builds ...">
+                                <img itemprop="contentUrl url" src='https://static1.srcdn.com/wordpress/wp-content/uploads/2022/09/Tiny-Tinas-Wonderlands-screenshot.jpg' alt='Tiny Tina's Wonderlands: Blightcaller Guide (Tips, Builds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Screen Rant" />
+                                </span>
+                                <a href='https://static1.srcdn.com/wordpress/wp-content/uploads/2022/09/Tiny-Tinas-Wonderlands-screenshot.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blightcaller | Borderlands Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/borderlands/images/1/1d/Blightcaller.png/revision/latest/scale-to-width-down/1200?cb=20220624131633' alt='Blightcaller | Borderlands Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1651">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Borderlands Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/borderlands/images/1/1d/Blightcaller.png/revision/latest/scale-to-width-down/1200?cb=20220624131633' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Tiny Tina's Wonderlands class weaves poisonous storms">
+                                <img itemprop="contentUrl url" src='https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/06/wonderlands-new-class-blightcaller-1-550x309.jpg' alt='New Tiny Tina's Wonderlands class weaves poisonous storms'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PCGamesN" />
+                                </span>
+                                <a href='https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/06/wonderlands-new-class-blightcaller-1-550x309.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

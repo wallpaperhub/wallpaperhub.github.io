@@ -1,0 +1,129 @@
+<title>Stunning Music Phone Wallpapers for Every Music Lover</title>
+                    <meta name="description" content="Discover vibrant and unique music-themed phone wallpapers that showcase your love for tunes! Perfect for any music enthusiast, these wallpapers add a creative touch to your device, making it truly yours. Explore a variety of designs that inspire every time you unlock your phone!">
+                    <meta name="keywords" content="music phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/music-phone-wallpaper">
+                            <span itemprop="name">music phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Music Phone Wallpapers for Every Music Lover</h1>
+                <p>Transform your device with stunning music-themed phone wallpapers! From vibrant album covers to cool sound wave designs, showcase your love for music. Perfect for music lovers, these wallpapers add personality to your screen while inspiring creativity every time you glance at your phone. Get inspired and find your perfect tune!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable music wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE7YwDukWQ/1/0/900w/canva-black-music-phone-wallpaper-ej0L6fCqIfU.jpg' alt='Free and customizable music wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE7YwDukWQ/1/0/900w/canva-black-music-phone-wallpaper-ej0L6fCqIfU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download "Music" wallpapers for mobile phone, free "Music" HD pictures">
+                                <img itemprop="contentUrl url" src='https://wallpaper.forfun.com/fetch/63/63da5cd7c95d494cb847c450dcbd1412.jpeg' alt='Download "Music" wallpapers for mobile phone, free "Music" HD pictures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3287">
+                                <meta itemprop="height" content="4931">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mobile wallpapers - Mob.org" />
+                                </span>
+                                <a href='https://wallpaper.forfun.com/fetch/63/63da5cd7c95d494cb847c450dcbd1412.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD music wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/224/1002/HD-wallpaper-music-music-symbol.jpg' alt='HD music wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/224/1002/HD-wallpaper-music-music-symbol.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart And Notes For Music Phone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/heart-and-notes-for-music-phone-rmcuvzpzul2djq1p.jpg' alt='Heart And Notes For Music Phone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/heart-and-notes-for-music-phone-rmcuvzpzul2djq1p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable music wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE7FLiMq_4/1/0/900w/canva-pink-motivational-music-quote-with-musical-notes-phone-wallpaper-OYjnJyDZKTc.jpg' alt='Free and customizable music wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE7FLiMq_4/1/0/900w/canva-pink-motivational-music-quote-with-musical-notes-phone-wallpaper-OYjnJyDZKTc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Music Phone Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dj-booth-music-phone-rnbz9pgcm0ncxuik.jpg' alt='100+] Music Phone Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dj-booth-music-phone-rnbz9pgcm0ncxuik.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD music for mobile phone wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/615/205/HD-wallpaper-music-for-mobile-phone-tablet-computer-and-other-devices-and-in-2022-neon-music-graffiti-thumbnail.jpg' alt='HD music for mobile phone wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="638">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/615/205/HD-wallpaper-music-for-mobile-phone-tablet-computer-and-other-devices-and-in-2022-neon-music-graffiti-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Music Symbols Design For Desktop Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/music-symbols-treble-clef-in-blue-and-orange-7zyg2qb6n7nwcbzh.webp' alt='Music Symbols Design For Desktop Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/music-symbols-treble-clef-in-blue-and-orange-7zyg2qb6n7nwcbzh.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Music Phone HD Wallpapers (100++) - MrWallpaper.com">
+                                <img itemprop="contentUrl url" src='https://mrwallpaper.com/images/hd/music-phone-pink-headphones-w4pfdkzu845z7nsw.jpg' alt='Music Phone HD Wallpapers (100++) - MrWallpaper.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrWallpaper" />
+                                </span>
+                                <a href='https://mrwallpaper.com/images/hd/music-phone-pink-headphones-w4pfdkzu845z7nsw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Electronic Music Phone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/101/thumb-1012724.png' alt='Electronic Music Phone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="357">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/101/thumb-1012724.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

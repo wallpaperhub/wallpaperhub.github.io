@@ -1,0 +1,129 @@
+<title>Minimalist Boho Blue Wallpaper: Tranquil Aesthetics</title>
+                    <meta name="description" content="Explore our collection of minimalist boho aesthetic wallpaper in calming blue tones. Perfect for creating a serene atmosphere in your home. Transform your walls with natural textures and a touch of bohemian charm. Ideal for modern spaces seeking a peaceful vibe. Shop now!">
+                    <meta name="keywords" content="minimalist boho aesthetic wallpaper blue">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/minimalist-boho-aesthetic-wallpaper-blue">
+                            <span itemprop="name">minimalist boho aesthetic wallpaper blue</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Minimalist Boho Blue Wallpaper: Tranquil Aesthetics</h1>
+                <p>Discover the serenity of minimalist boho aesthetic wallpaper in soothing blue hues. This style combines simplicity with natural textures, creating a tranquil backdrop for any space. Ideal for those seeking a calm atmosphere, these wallpapers enhance the beauty of your home while embracing the principles of bohemian design.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Aesthetic Blue iPhone Wallpaper, Abstract Modern Design Art ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35818686/r/il/c84f03/4115276843/il_fullxfull.4115276843_af5l.jpg' alt='Boho Aesthetic Blue iPhone Wallpaper, Abstract Modern Design Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35818686/r/il/c84f03/4115276843/il_fullxfull.4115276843_af5l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper blue ✨   | Hipster wallpaper, Phone wallpaper boho ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0b/bf/63/0bbf63f66b804828fa9d0727aaf7bc3f.jpg' alt='Wallpaper blue ✨   | Hipster wallpaper, Phone wallpaper boho ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0b/bf/63/0bbf63f66b804828fa9d0727aaf7bc3f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/11/b7/df/11b7dfe622a10eca08457865a2399b36.jpg' alt='iPhone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/11/b7/df/11b7dfe622a10eca08457865a2399b36.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Aesthetic Blue Watercolour Leaves Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/boho-aesthetic-blue-watercolour-leaves-hcqo3w3vbupt7s8j.jpg' alt='Boho Aesthetic Blue Watercolour Leaves Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/boho-aesthetic-blue-watercolour-leaves-hcqo3w3vbupt7s8j.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Simple Abstract Plant Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/82/52/15/825215a7b2355b55c341af7e8cd7dcb1.jpg' alt='Blue Simple Abstract Plant Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/82/52/15/825215a7b2355b55c341af7e8cd7dcb1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple Boho Pastel Blue Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/simple-boho-pastel-blue-k13lv41bq2bvdvc8.jpg' alt='Simple Boho Pastel Blue Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/simple-boho-pastel-blue-k13lv41bq2bvdvc8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Abstract Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a8/57/ae/a857aead4c3b05d059e522cf1e0f68c5.jpg' alt='Blue Abstract Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a8/57/ae/a857aead4c3b05d059e522cf1e0f68c5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Wallpaper Iphone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/89/c6/6d/89c66da7ff11538928c005f51689b978.jpg' alt='Boho Wallpaper Iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/89/c6/6d/89c66da7ff11538928c005f51689b978.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract aesthetic boho textured background with arch and moon ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2F5XARN/abstract-aesthetic-boho-textured-background-with-arch-and-moon-vector-wall-decor-in-blue-pastel-color-mid-century-modern-minimalist-art-design-2F5XARN.jpg' alt='Abstract aesthetic boho textured background with arch and moon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="835">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2F5XARN/abstract-aesthetic-boho-textured-background-with-arch-and-moon-vector-wall-decor-in-blue-pastel-color-mid-century-modern-minimalist-art-design-2F5XARN.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Phone Wallpaper | Simple phone wallpapers, Phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/89/08/a3/8908a38acbe653fa0f483b3daafafdcc.jpg' alt='Blue Phone Wallpaper | Simple phone wallpapers, Phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/89/08/a3/8908a38acbe653fa0f483b3daafafdcc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Transparent Cube Background: Elevate Your Design</title>
+                    <meta name="description" content="Discover the beauty of a transparent cube background! Ideal for modern designs, it seamlessly integrates with your visual projects, providing depth and clarity. Perfect for digital art, logos, and presentations, enhance your creations effortlessly with this versatile graphic element!">
+                    <meta name="keywords" content="cube transparent background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cube-transparent-background">
+                            <span itemprop="name">cube transparent background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transparent Cube Background: Elevate Your Design</h1>
+                <p>A transparent background cube is a versatile design element that enhances graphics, web layouts, and presentations. Used in 3D modeling and digital art, it allows underlying visuals to remain visible, creating depth and intrigue. Perfect for logos and product showcases, the transparent cube adds a modern touch to any project.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,131 Cube Transparent High Res Illustrations - Getty Images | Ice ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1465235151/vector/cube-icon-with-reflection-on-white-background.jpg?s=612x612&w=gi&k=20&c=KQ3xDI75TU-sZZvReEDhtYl-xMNA7RtTrApdYMhDQPc=' alt='1,131 Cube Transparent High Res Illustrations - Getty Images | Ice ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1465235151/vector/cube-icon-with-reflection-on-white-background.jpg?s=612x612&w=gi&k=20&c=KQ3xDI75TU-sZZvReEDhtYl-xMNA7RtTrApdYMhDQPc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Box , 3d Cube Picture PNG Transparent Background, Free ...">
+                                <img itemprop="contentUrl url" src='https://www.freeiconspng.com/uploads/red-box-png-3d-cube-picture-24.png' alt='Red Box , 3d Cube Picture PNG Transparent Background, Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1056">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Icons PNG" />
+                                </span>
+                                <a href='https://www.freeiconspng.com/uploads/red-box-png-3d-cube-picture-24.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3d Cube PNG Transparent Background, Free Download #47035 ...">
+                                <img itemprop="contentUrl url" src='https://www.freeiconspng.com/uploads/3d-cube-transparent-png-4.png' alt='3d Cube PNG Transparent Background, Free Download #47035 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1246">
+                                <meta itemprop="height" content="1113">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Icons PNG" />
+                                </span>
+                                <a href='https://www.freeiconspng.com/uploads/3d-cube-transparent-png-4.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cube icon isolated on transparent background. Modern and editable ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/02/22/71/47/1000_F_222714708_qbMONDKNCnu3cAOfDmXmRUdIw8LoD46t.jpg' alt='cube icon isolated on transparent background. Modern and editable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/02/22/71/47/1000_F_222714708_qbMONDKNCnu3cAOfDmXmRUdIw8LoD46t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Cube PNG Transparent Images Free Download | Vector Files ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/element_our/20190531/ourmid/pngtree-cartoon-cube-image_1288929.jpg' alt='Blue Cube PNG Transparent Images Free Download | Vector Files ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/element_our/20190531/ourmid/pngtree-cartoon-cube-image_1288929.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3d Cube Outline PNG Transparent Background, Free Download #47039 ...">
+                                <img itemprop="contentUrl url" src='https://www.freeiconspng.com/uploads/3d-cube-outline-8.png' alt='3d Cube Outline PNG Transparent Background, Free Download #47039 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="884">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Icons PNG" />
+                                </span>
+                                <a href='https://www.freeiconspng.com/uploads/3d-cube-outline-8.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download premium png of Cube png, 3D geometrical shape in black on ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/31/66/25/316625f88223d4c2fe9fac8281286ac8.jpg' alt='Download premium png of Cube png, 3D geometrical shape in black on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/31/66/25/316625f88223d4c2fe9fac8281286ac8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cube - Geometric Cube Outline - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180404/eee/avhaoq4la.webp' alt='Cube - Geometric Cube Outline - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180404/eee/avhaoq4la.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A single shiny red cube on a transparent background a 3D rendering ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-psd/single-shiny-red-cube-transparent-background-3d-rendering-perfect-cube_632498-28602.jpg' alt='A single shiny red cube on a transparent background a 3D rendering ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-psd/single-shiny-red-cube-transparent-background-3d-rendering-perfect-cube_632498-28602.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="box cube icon on transparent background 17784940 PNG">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/017/784/940/non_2x/box-cube-icon-on-transparent-background-free-png.png' alt='box cube icon on transparent background 17784940 PNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/017/784/940/non_2x/box-cube-icon-on-transparent-background-free-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

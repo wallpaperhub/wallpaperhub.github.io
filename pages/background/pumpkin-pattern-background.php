@@ -1,0 +1,129 @@
+<title>Charming Pumpkin Pattern Backgrounds for Autumn</title>
+                    <meta name="description" content="Explore vibrant pumpkin pattern backgrounds, perfect for adding a seasonal touch to your designs! Ideal for wallpapers, DIY projects, and decorations, these charming motifs will enhance your autumn celebrations. Dive into creativity with our unique pumpkin patterns that capture the essence of fall!">
+                    <meta name="keywords" content="pumpkin pattern background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pumpkin-pattern-background">
+                            <span itemprop="name">pumpkin pattern background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Pumpkin Pattern Backgrounds for Autumn</h1>
+                <p>Transform your space with a festive pumpkin pattern background, perfect for autumn-themed designs! These vibrant, textured patterns feature playful pumpkins in various styles and colors, perfect for DIY projects, wallpapers, or seasonal decorations. Celebrate the harvest season and bring a cozy touch to your environment with charming pumpkin motifs!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pumpkin Pattern Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/beautiful-halloween-pumpkin-seamless-pattern-hand-drawn-transparent-background-eps-10_710373-227.jpg' alt='Pumpkin Pattern Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/beautiful-halloween-pumpkin-seamless-pattern-hand-drawn-transparent-background-eps-10_710373-227.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pumpkin Pattern Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/flat-pattern-design-fall-season_23-2150630817.jpg' alt='Pumpkin Pattern Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/flat-pattern-design-fall-season_23-2150630817.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="112,000+ Pumpkin Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/490692418/vector/pattern-with-pumpkins.jpg?s=612x612&w=0&k=20&c=mA4oDgU_vl_vX5JnCRqYv0vFOyXxLVdwm_VPcZ_M7Jk=' alt='112,000+ Pumpkin Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/490692418/vector/pattern-with-pumpkins.jpg?s=612x612&w=0&k=20&c=mA4oDgU_vl_vX5JnCRqYv0vFOyXxLVdwm_VPcZ_M7Jk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Cute pumpkin pattern background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/cute-pumpkin-pattern-background_713451-23.jpg' alt='Premium Vector | Cute pumpkin pattern background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/cute-pumpkin-pattern-background_713451-23.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pumpkin seamless pattern. Pumpkin background. Halloween pattern ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/003/445/432/non_2x/pumpkin-seamless-pattern-pumpkin-background-halloween-pattern-free-vector.jpg' alt='Pumpkin seamless pattern. Pumpkin background. Halloween pattern ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/003/445/432/non_2x/pumpkin-seamless-pattern-pumpkin-background-halloween-pattern-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pumpkin Pattern Images – Browse 387,047 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/01/75/40/51/360_F_175405109_3lI98S9IVsPE3HTSCRqLxrNfMcEX3xYw.jpg' alt='Pumpkin Pattern Images – Browse 387,047 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/01/75/40/51/360_F_175405109_3lI98S9IVsPE3HTSCRqLxrNfMcEX3xYw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8,600+ Halloween Pumpkin Pattern Background Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/607895320/vector/halloween-seamless-background-vector.jpg?s=612x612&w=0&k=20&c=jAek-cRQzp41JjsBJ1Nn30WgfulWSWr4ZM9gk9ChONg=' alt='8,600+ Halloween Pumpkin Pattern Background Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/607895320/vector/halloween-seamless-background-vector.jpg?s=612x612&w=0&k=20&c=jAek-cRQzp41JjsBJ1Nn30WgfulWSWr4ZM9gk9ChONg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seamless pattern with pumpkins. Beautiful background for Thanksgiving,  halloween, autumn. by Julien">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/seamless-pattern-with-pumpkins-beautiful-background-for-thanksgiving-halloween-autumn-julien.jpg' alt='Seamless pattern with pumpkins. Beautiful background for Thanksgiving,  halloween, autumn. by Julien'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixels" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/seamless-pattern-with-pumpkins-beautiful-background-for-thanksgiving-halloween-autumn-julien.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Pumpkin Seamless Pattern Graphic by thanaporn.pinp · Creative ...">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2020/08/16/Cute-pumpkin-seamless-pattern-Graphics-4993645-1-1-580x387.jpg' alt='Cute Pumpkin Seamless Pattern Graphic by thanaporn.pinp · Creative ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="580">
+                                <meta itemprop="height" content="387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2020/08/16/Cute-pumpkin-seamless-pattern-Graphics-4993645-1-1-580x387.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pumpkin Pattern" Images – Browse 4,640 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/11/19/44/39/360_F_1119443998_s5WeQStTZ7u5X7lpUKhTBTYVb805dNMS.jpg' alt='Pumpkin Pattern" Images – Browse 4,640 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/11/19/44/39/360_F_1119443998_s5WeQStTZ7u5X7lpUKhTBTYVb805dNMS.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

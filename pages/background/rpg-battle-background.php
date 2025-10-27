@@ -1,0 +1,129 @@
+<title>Epic RPG Battle Backgrounds: Enhance Your Game</title>
+                    <meta name="description" content="Discover captivating RPG battle backgrounds that elevate your gaming experience. Explore diverse settings that immerse players in epic battles and strategic gameplay. Perfect for game developers and enthusiasts seeking inspiration for stunning visual elements.">
+                    <meta name="keywords" content="rpg battle background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rpg-battle-background">
+                            <span itemprop="name">rpg battle background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic RPG Battle Backgrounds: Enhance Your Game</h1>
+                <p>In the world of RPGs, battle backgrounds play a crucial role in immersing players into the game. These settings, ranging from mystical forests to ancient ruins, enhance the atmosphere and set the tone for epic confrontations. A visually stunning backdrop not only captivates players but also influences strategy and gameplay.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Backgrounds | OpenGameArt.org">
+                                <img itemprop="contentUrl url" src='https://opengameart.org/sites/default/files/battleback1.png' alt='Backgrounds | OpenGameArt.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1104">
+                                <meta itemprop="height" content="621">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OpenGameArt.org |" />
+                                </span>
+                                <a href='https://opengameart.org/sites/default/files/battleback1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made Origin Isle into an RPG boss battle background, Tried ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/3t5fh7yf1df61.png' alt='I made Origin Isle into an RPG boss battle background, Tried ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/3t5fh7yf1df61.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="16-bit Fantasy RPG Battle Backgrounds">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/16-bit-fantasy-rpg-battle-backgrounds-v0-c2qIjjVj_We5G7cgIkMji_LTlKWQn3bIp7LeJbBBB4s.png?format=pjpg&auto=webp&s=9cde6d659c49c77895a2e9d11038cc2800a16389' alt='16-bit Fantasy RPG Battle Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1290">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/16-bit-fantasy-rpg-battle-backgrounds-v0-c2qIjjVj_We5G7cgIkMji_LTlKWQn3bIp7LeJbBBB4s.png?format=pjpg&auto=webp&s=9cde6d659c49c77895a2e9d11038cc2800a16389' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Resized all the backgrounds - Battle Backgrounds Pack 1 by ansimuz">
+                                <img itemprop="contentUrl url" src='https://img.itch.zone/aW1hZ2UvMjI0MDU4NC8xMzMyMDQzOC5qcGc=/original/2Fw8XY.jpg' alt='Resized all the backgrounds - Battle Backgrounds Pack 1 by ansimuz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3456">
+                                <meta itemprop="height" content="2016">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ansimuz - itch.io" />
+                                </span>
+                                <a href='https://img.itch.zone/aW1hZ2UvMjI0MDU4NC8xMzMyMDQzOC5qcGc=/original/2Fw8XY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free 4 Nature Backgrounds for RPG Battle - CraftPix.net">
+                                <img itemprop="contentUrl url" src='https://img.craftpix.net/2024/07/Free-4-Nature-Backgrounds-for-RPG-Battle4.png' alt='Free 4 Nature Backgrounds for RPG Battle - CraftPix.net'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CraftPix" />
+                                </span>
+                                <a href='https://img.craftpix.net/2024/07/Free-4-Nature-Backgrounds-for-RPG-Battle4.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cave Horizontal RPG Battle Backgrounds">
+                                <img itemprop="contentUrl url" src='https://img.craftpix.net/2023/02/Cave-Horizontal-RPG-Battle-Backgrounds2.webp' alt='Cave Horizontal RPG Battle Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CraftPix" />
+                                </span>
+                                <a href='https://img.craftpix.net/2023/02/Cave-Horizontal-RPG-Battle-Backgrounds2.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RPG Battle Background #pixelart #rpg">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3258618565023762013' alt='RPG Battle Background #pixelart #rpg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="610">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3258618565023762013' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2D Art - Battle background for RPG, JRPG, TBS, D&D | 2D ...">
+                                <img itemprop="contentUrl url" src='https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/8c32c986-003c-49b9-8e52-d7cb119d9382_scaled.jpg' alt='2D Art - Battle background for RPG, JRPG, TBS, D&D | 2D ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unity Asset Store" />
+                                </span>
+                                <a href='https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/8c32c986-003c-49b9-8e52-d7cb119d9382_scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Backgrounds | OpenGameArt.org">
+                                <img itemprop="contentUrl url" src='https://opengameart.org/sites/default/files/battleback6.png' alt='Backgrounds | OpenGameArt.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1104">
+                                <meta itemprop="height" content="621">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OpenGameArt.org |" />
+                                </span>
+                                <a href='https://opengameart.org/sites/default/files/battleback6.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Battle Backgrounds Pack 2 by ansimuz">
+                                <img itemprop="contentUrl url" src='https://img.itch.zone/aW1hZ2UvMjI1NTY4MS8xMzM3MTMyNC5qcGVn/original/AJCjlV.jpeg' alt='Battle Backgrounds Pack 2 by ansimuz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1476">
+                                <meta itemprop="height" content="836">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ansimuz - itch.io" />
+                                </span>
+                                <a href='https://img.itch.zone/aW1hZ2UvMjI1NTY4MS8xMzM3MTMyNC5qcGVn/original/AJCjlV.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

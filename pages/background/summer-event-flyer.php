@@ -1,0 +1,129 @@
+<title>Summer Fest 2023: The Must-Attend Event!</title>
+                    <meta name="description" content="Join us at Summer Fest 2023 for a day filled with music, food, and fun! Happening on July 15th at Central Park, this family-friendly event offers live entertainment, games, and delicious food trucks. Make awesome memories with friends! Don’t miss it!">
+                    <meta name="keywords" content="summer event flyer">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/summer-event-flyer">
+                            <span itemprop="name">summer event flyer</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Summer Fest 2023: The Must-Attend Event!</h1>
+                <p>Get ready for the ultimate summer experience! Join us at the Annual Summer Fest on July 15th from 12 PM to 8 PM at Central Park. Enjoy live music, food trucks, games, and fun activities for the whole family. Don’t miss out on exciting giveaways! Bring your friends and make unforgettable memories!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SUMMER Event FLYER template">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/summer-event-flyer-template-design-646d4e55e442b04dc92f9a2f95f7e3bd_screen.jpg?ts=1637008415' alt='SUMMER Event FLYER template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="532">
+                                <meta itemprop="height" content="690">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/summer-event-flyer-template-design-646d4e55e442b04dc92f9a2f95f7e3bd_screen.jpg?ts=1637008415' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Party Flyer Template">
+                                <img itemprop="contentUrl url" src='https://www.creative-flyers.com/wp-content/uploads/2021/05/Summer-Party-Flyer-Template.jpg' alt='Summer Party Flyer Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="590">
+                                <meta itemprop="height" content="868">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Flyers" />
+                                </span>
+                                <a href='https://www.creative-flyers.com/wp-content/uploads/2021/05/Summer-Party-Flyer-Template.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Creative Summer Party Flyer Psd">
+                                <img itemprop="contentUrl url" src='https://www.creative-flyers.com/wp-content/uploads/2017/12/Creative-Summer-Party-Flyer-2.jpg' alt='Creative Summer Party Flyer Psd'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="510">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Flyers" />
+                                </span>
+                                <a href='https://www.creative-flyers.com/wp-content/uploads/2017/12/Creative-Summer-Party-Flyer-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Summer Party Flyer Template (PSD)">
+                                <img itemprop="contentUrl url" src='https://unblast.com/wp-content/uploads/2020/03/Summer-Party-Flyer-Template-2.jpg' alt='Free Summer Party Flyer Template (PSD)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unblast" />
+                                </span>
+                                <a href='https://unblast.com/wp-content/uploads/2020/03/Summer-Party-Flyer-Template-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Summer Flyers templates to design online | Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/flat-summer-party-vertical-poster-template-with-photo_52683-63371.jpg' alt='Free Summer Flyers templates to design online | Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="442">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/flat-summer-party-vertical-poster-template-with-photo_52683-63371.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Party Flyer, Summer Square Video Template | PosterMyWall">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/summer-party-flyer%2C-summer-square-video-design-template-b36eb770cb742cae5ff2253fe1d47d75_screen.jpg?ts=1650794376' alt='Summer Party Flyer, Summer Square Video Template | PosterMyWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="448">
+                                <meta itemprop="height" content="693">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/summer-party-flyer%2C-summer-square-video-design-template-b36eb770cb742cae5ff2253fe1d47d75_screen.jpg?ts=1650794376' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Event Flyer PSD Template - PixelsDesign">
+                                <img itemprop="contentUrl url" src='https://pixelsdesign.net/wp-content/uploads/2019/03/summer-event-cm-psd-flyer-696x1024.jpg' alt='Summer Event Flyer PSD Template - PixelsDesign'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="696">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PixelsDesign" />
+                                </span>
+                                <a href='https://pixelsdesign.net/wp-content/uploads/2019/03/summer-event-cm-psd-flyer-696x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Party Flyer Summer Event Flyer, Summer Festival Flyer ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11282083/r/il/6ee1ce/1870726706/il_fullxfull.1870726706_dav0.jpg' alt='Summer Party Flyer Summer Event Flyer, Summer Festival Flyer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11282083/r/il/6ee1ce/1870726706/il_fullxfull.1870726706_dav0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beach Summer Party Free Flyer Template | Free PSD Downloads">
+                                <img itemprop="contentUrl url" src='https://freepsdflyer.com/wp-content/uploads/2023/02/Beach-Summer-Party-Free-Flyer-Template.webp' alt='Beach Summer Party Free Flyer Template | Free PSD Downloads'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1029">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FreePSDFlyer" />
+                                </span>
+                                <a href='https://freepsdflyer.com/wp-content/uploads/2023/02/Beach-Summer-Party-Free-Flyer-Template.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SUMMER EVENT FLYER POSTER TEMPLATE | PosterMyWall">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/summer-event-flyer-poster-template-design-d1742331159620fdcbd9399163c5c945_screen.jpg?ts=1637008385' alt='SUMMER EVENT FLYER POSTER TEMPLATE | PosterMyWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="535">
+                                <meta itemprop="height" content="693">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/summer-event-flyer-poster-template-design-d1742331159620fdcbd9399163c5c945_screen.jpg?ts=1637008385' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

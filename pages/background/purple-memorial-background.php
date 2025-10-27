@@ -1,0 +1,129 @@
+<title>Elegant Purple Memorial Backgrounds for Tribute</title>
+                    <meta name="description" content="Discover beautiful purple memorial backgrounds, perfect for honoring and celebrating the lives of loved ones. Create a meaningful tribute with our serene and compassionate designs, ideal for social media, cards, or websites. Experience tranquility and reflection in every memory shared.">
+                    <meta name="keywords" content="purple memorial background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/purple-memorial-background">
+                            <span itemprop="name">purple memorial background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Purple Memorial Backgrounds for Tribute</h1>
+                <p>A purple memorial background symbolizes peace and remembrance, offering a serene canvas for honoring loved ones. This tranquil hue evokes feelings of compassion and reflection, making it perfect for memorial cards, websites, or social media posts. Use this color to create a meaningful tribute, celebrating lives and memories.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="In Loving Memory Memorial Background Memorial Button Funeral ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/50406905/r/il/f07c93/5965768059/il_570xN.5965768059_h9yu.jpg' alt='In Loving Memory Memorial Background Memorial Button Funeral ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/50406905/r/il/f07c93/5965768059/il_570xN.5965768059_h9yu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Sky Clouds Heavens Stairway Memorial Background PNG Add ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35316071/r/il/d8e1d9/4512646345/il_fullxfull.4512646345_s2w0.jpg' alt='Purple Sky Clouds Heavens Stairway Memorial Background PNG Add ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35316071/r/il/d8e1d9/4512646345/il_fullxfull.4512646345_s2w0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Heavens Gate Angel Memorial PNG Add Photo Template for ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20405021/r/il/5c1053/3405930250/il_fullxfull.3405930250_gupo.jpg' alt='Purple Heavens Gate Angel Memorial PNG Add Photo Template for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1086">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20405021/r/il/5c1053/3405930250/il_fullxfull.3405930250_gupo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple in Loving Memory PNG, Memorial Template, Sublimation Design ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/26818713/r/il/2d04f6/4949869687/il_fullxfull.4949869687_871j.jpg' alt='Purple in Loving Memory PNG, Memorial Template, Sublimation Design ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2282">
+                                <meta itemprop="height" content="2269">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/26818713/r/il/2d04f6/4949869687/il_fullxfull.4949869687_871j.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Memorial PNG, in Loving Memory, Memorial Background ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7b/c0/b2/7bc0b29c7d05f048c407d5eee68d8b5b.jpg' alt='Purple Memorial PNG, in Loving Memory, Memorial Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="812">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7b/c0/b2/7bc0b29c7d05f048c407d5eee68d8b5b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guest Book: Funeral Registry Memorial Book Purple, Memorial Service Guest  Book, Sign In Book for Funeral Guests, In Loving Memory, Heavenly Purple  Sky ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/513UpCqJq4L._AC_UF1000,1000_QL80_.jpg' alt='Guest Book: Funeral Registry Memorial Book Purple, Memorial Service Guest  Book, Sign In Book for Funeral Guests, In Loving Memory, Heavenly Purple  Sky ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/513UpCqJq4L._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Funeral Background Images – Browse 4,284 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/33/39/19/360_F_333391945_9pCoKpW3BoMyhau9XPIC5vaPLRpZoxHo.jpg' alt='Purple Funeral Background Images – Browse 4,284 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/33/39/19/360_F_333391945_9pCoKpW3BoMyhau9XPIC5vaPLRpZoxHo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funeral Background Purple Stock Illustrations – 881 Funeral ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/purple-bubbles-butterfly-abstract-card-background-symbols-life-hope-love-loss-73566389.jpg' alt='Funeral Background Purple Stock Illustrations – 881 Funeral ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="672">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/purple-bubbles-butterfly-abstract-card-background-symbols-life-hope-love-loss-73566389.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple and Silver Heavens Gate Memorial PNG drop in photo for ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6e/e5/66/6ee566562597bf9088122934ef540c46.jpg' alt='Purple and Silver Heavens Gate Memorial PNG drop in photo for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6e/e5/66/6ee566562597bf9088122934ef540c46.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Memorial Dark Purple Backgrounds 4 JPEGs">
+                                <img itemprop="contentUrl url" src='http://enjclassycreations.com/cdn/shop/files/Screenshot2023-10-14212803.png?v=1727108742' alt='Memorial Dark Purple Backgrounds 4 JPEGs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="685">
+                                <meta itemprop="height" content="727">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ENJ Classy Creations LLC" />
+                                </span>
+                                <a href='http://enjclassycreations.com/cdn/shop/files/Screenshot2023-10-14212803.png?v=1727108742' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

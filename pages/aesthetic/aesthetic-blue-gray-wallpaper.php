@@ -1,0 +1,129 @@
+<title>Aesthetic Blue Gray Wallpaper: Elevate Your Space</title>
+                    <meta name="description" content="Discover the charm of aesthetic blue gray wallpaper! Perfect for any room, this stylish wallpaper adds a calming and modern touch to your decor. Transform your space effortlessly with soothing hues that create an inviting atmosphere. Find your perfect design today!">
+                    <meta name="keywords" content="aesthetic blue gray wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic-blue-gray-wallpaper">
+                            <span itemprop="name">aesthetic blue gray wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Blue Gray Wallpaper: Elevate Your Space</h1>
+                <p>Aesthetic blue gray wallpaper combines soothing tones of blue and gray to create a serene atmosphere in any space. Ideal for bedrooms, living rooms, or offices, this wallpaper style enhances decor with a modern touch. Its versatility allows it to complement various color schemes while exuding elegance and tranquility.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Aesthetic Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/da/c1/12/dac1120af706c74bb51a53c97b7cd14b.jpg' alt='Blue Aesthetic Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="554">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/da/c1/12/dac1120af706c74bb51a53c97b7cd14b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Aesthetic, collage, gray, gris, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/950/538/HD-wallpaper-blue-aesthetic-collage-gray-grey.jpg' alt='Blue Aesthetic, collage, gray, gris, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1237">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/950/538/HD-wallpaper-blue-aesthetic-collage-gray-grey.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A minimalist blue and gray background Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/blue-and-gray-m7bnf4y4brktcpvc.jpg' alt='Download A minimalist blue and gray background Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1918">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/blue-and-gray-m7bnf4y4brktcpvc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="blue abstract splotchy background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/54/b8/68/54b868d88b604ba215149bd74abeb634.jpg' alt='blue abstract splotchy background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/54/b8/68/54b868d88b604ba215149bd74abeb634.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Grey Aesthetic Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp4764001.jpg' alt='Blue Grey Aesthetic Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp4764001.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sediment Blue Wallpaper – Bradley USA">
+                                <img itemprop="contentUrl url" src='https://bradleyusa.com/cdn/shop/products/EH028SBSC_SampleWeb_1024x1024_19fe9c0a-c89d-4052-8c99-84934ab36de8_720x@2x.jpg?v=1622054459' alt='Sediment Blue Wallpaper – Bradley USA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="671">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bradley USA" />
+                                </span>
+                                <a href='https://bradleyusa.com/cdn/shop/products/EH028SBSC_SampleWeb_1024x1024_19fe9c0a-c89d-4052-8c99-84934ab36de8_720x@2x.jpg?v=1622054459' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD aesthetic gray blue wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/463/777/HD-wallpaper-aesthetic-gray-blue-aesthetic-blue-aesthetic-gray-flowers-gray-blue-roses-sky-white-winter-thumbnail.jpg' alt='HD aesthetic gray blue wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="589">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/463/777/HD-wallpaper-aesthetic-gray-blue-aesthetic-blue-aesthetic-gray-flowers-gray-blue-roses-sky-white-winter-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tones and Textures">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/18/2b/e0/182be0766316a7236da85615063e1bc8.jpg' alt='Tones and Textures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="457">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/18/2b/e0/182be0766316a7236da85615063e1bc8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grey And Blue Aesthetic Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp4586800.jpg' alt='Grey And Blue Aesthetic Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp4586800.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A tranquil landscape in lush shades of blue and gray ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/blue-and-gray-sltrduye3dz13n6t.jpg' alt='Download A tranquil landscape in lush shades of blue and gray ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/blue-and-gray-sltrduye3dz13n6t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

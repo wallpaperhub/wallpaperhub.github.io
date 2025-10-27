@@ -1,0 +1,129 @@
+<title>Customize Your Roku Background in Minutes!</title>
+                    <meta name="description" content="Discover how to easily change your Roku background with simple steps. Personalize your viewing experience by choosing from available themes or downloading new ones. Transform your Roku interface and enjoy a fresh look that reflects your style!">
+                    <meta name="keywords" content="how to change roku background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/how-to-change-roku-background">
+                            <span itemprop="name">how to change roku background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Customize Your Roku Background in Minutes!</h1>
+                <p>To change the Roku background, navigate to the main menu and select "Settings." From there, choose "Themes" and then "My Themes" to explore your options. You can select a different theme or download new ones from the Roku Store. Just follow the on-screen instructions to set your preferred background. Enjoy customizing your Roku!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to change your Roku TV's Wallpaper and Screensaver">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/zBsJh6YS8BE/maxresdefault.jpg' alt='How to change your Roku TV's Wallpaper and Screensaver'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/zBsJh6YS8BE/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Change Theme, Wallpaper & Screen Saver On Roku TV">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/MG9Wt2KntQg/maxresdefault.jpg' alt='How To Change Theme, Wallpaper & Screen Saver On Roku TV'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/MG9Wt2KntQg/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Your Roku Can Reflect Your Passions With These Themes and ...">
+                                <img itemprop="contentUrl url" src='https://www.cnet.com/a/img/resize/cea18931e32b2d26da471134093ee2941b3b9344/hub/2022/07/25/8bb1ea45-e437-48ba-860b-a83d8846ecd9/img-5012.png?auto=webp&width=1200' alt='Your Roku Can Reflect Your Passions With These Themes and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNET" />
+                                </span>
+                                <a href='https://www.cnet.com/a/img/resize/cea18931e32b2d26da471134093ee2941b3b9344/hub/2022/07/25/8bb1ea45-e437-48ba-860b-a83d8846ecd9/img-5012.png?auto=webp&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="how to change Roku theme and screensaver - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/VYXX9cbnkyQ/maxresdefault.jpg' alt='how to change Roku theme and screensaver - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/VYXX9cbnkyQ/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to customize your Roku home screen with themes and screensavers">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/T9FvX1svLdw/maxresdefault.jpg' alt='How to customize your Roku home screen with themes and screensavers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/T9FvX1svLdw/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Change Your Roku TV Theme">
+                                <img itemprop="contentUrl url" src='https://www.techloy.com/content/images/2023/05/image-496.png' alt='How to Change Your Roku TV Theme'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1021">
+                                <meta itemprop="height" content="578">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Techloy" />
+                                </span>
+                                <a href='https://www.techloy.com/content/images/2023/05/image-496.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solved: "Themes" has been replaced in settings! - Roku Community">
+                                <img itemprop="contentUrl url" src='https://community.roku.com/t5/image/serverpage/image-id/15922iC59F90AA48FC666A?v=v2' alt='Solved: "Themes" has been replaced in settings! - Roku Community'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2080">
+                                <meta itemprop="height" content="1560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Roku Community" />
+                                </span>
+                                <a href='https://community.roku.com/t5/image/serverpage/image-id/15922iC59F90AA48FC666A?v=v2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Change Roku Background - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/XBD-MCyOXrE/sddefault.jpg' alt='How To Change Roku Background - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/XBD-MCyOXrE/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Just got a brand new Roku tv, no option to change ... - Roku Community">
+                                <img itemprop="contentUrl url" src='https://community.roku.com/t5/image/serverpage/image-id/8717i9D17ADA38EA6191B?v=v2' alt='Just got a brand new Roku tv, no option to change ... - Roku Community'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4030">
+                                <meta itemprop="height" content="2442">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Roku Community" />
+                                </span>
+                                <a href='https://community.roku.com/t5/image/serverpage/image-id/8717i9D17ADA38EA6191B?v=v2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Change Screensaver on Roku TV">
+                                <img itemprop="contentUrl url" src='https://www.ytechb.com/wp-content/uploads/2022/07/How-to-Change-Screensaver-on-Roku-TV.webp' alt='How to Change Screensaver on Roku TV'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1260">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YTECHB" />
+                                </span>
+                                <a href='https://www.ytechb.com/wp-content/uploads/2022/07/How-to-Change-Screensaver-on-Roku-TV.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

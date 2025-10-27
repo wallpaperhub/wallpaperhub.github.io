@@ -1,0 +1,129 @@
+<title>Grandmillennial Wallpaper: Timeless Charm for Modern Spaces</title>
+                    <meta name="description" content="Discover the allure of grandmillennial wallpaper! Infuse your home with vintage elegance and modern flair using charming floral patterns and soft hues. Transform your space into a cozy retreat that celebrates nostalgia while staying stylish. Perfect for creating warmth and personality in any room!">
+                    <meta name="keywords" content="grandmillennial wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/grandmillennial-wallpaper">
+                            <span itemprop="name">grandmillennial wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Grandmillennial Wallpaper: Timeless Charm for Modern Spaces</h1>
+                <p>Grandmillennial wallpaper blends nostalgic charm with modern aesthetics, creating a warm, inviting atmosphere in any room. Featuring floral patterns, vintage motifs, and soft pastels, these wallpapers evoke a sense of comfort while celebrating timeless design. Perfect for those looking to infuse personality and elegance into their spaces.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GR5981 | Grandmillennial, Vintage Blooms Blue York Wallpaper">
+                                <img itemprop="contentUrl url" src='http://mahoneswallpapershop.com/cdn/shop/products/gr5981ex_1.jpg?v=1664573738' alt='GR5981 | Grandmillennial, Vintage Blooms Blue York Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mahone's Wallpaper Shop" />
+                                </span>
+                                <a href='http://mahoneswallpapershop.com/cdn/shop/products/gr5981ex_1.jpg?v=1664573738' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GRANDMILLENNIAL 60.75 sq. ft. Fanciful Wallpaper GR5932">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/81d64f50-4488-4e43-b825-aaf354765bbd/svn/wallpaper-rolls-gr5932-64_600.jpg' alt='GRANDMILLENNIAL 60.75 sq. ft. Fanciful Wallpaper GR5932'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/81d64f50-4488-4e43-b825-aaf354765bbd/svn/wallpaper-rolls-gr5932-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Wallpaper Swatch - Traditional,cottagecore ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61j6j12fnEL._AC_UF894,1000_QL80_.jpg' alt='Peel & Stick Wallpaper Swatch - Traditional,cottagecore ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="967">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61j6j12fnEL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fanciful Wallpaper in Dark Green from the Grandmillennial Collection">
+                                <img itemprop="contentUrl url" src='http://www.burkedecor.com/cdn/shop/products/FancifulWallpaperinDarkGreenfromtheGrandmillennialCollectionbyYorkWallcoverings.jpg?v=1621950259' alt='Fanciful Wallpaper in Dark Green from the Grandmillennial Collection'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Burke Decor" />
+                                </span>
+                                <a href='http://www.burkedecor.com/cdn/shop/products/FancifulWallpaperinDarkGreenfromtheGrandmillennialCollectionbyYorkWallcoverings.jpg?v=1621950259' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grandmillennial Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallblush.com/cdn/shop/products/1_ce392333-001e-41a9-bf80-8f7bedc5a211.jpg?v=1717014023&width=2048' alt='Grandmillennial Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='https://wallblush.com/cdn/shop/products/1_ce392333-001e-41a9-bf80-8f7bedc5a211.jpg?v=1717014023&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grandmillennial Trellis Wallpaper | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/14739844/i/l/sWpri9sezRr3ySI2-Z4J5y-9ZSHaU-UIuctZqM11Kvfldatq7uOqiw/14739844-grandmillennial-trellis-by-smokeinthewoods.jpg' alt='Grandmillennial Trellis Wallpaper | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/14739844/i/l/sWpri9sezRr3ySI2-Z4J5y-9ZSHaU-UIuctZqM11Kvfldatq7uOqiw/14739844-grandmillennial-trellis-by-smokeinthewoods.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AF1902 GRANDMILLENNIAL - York Wallcoverings AF1902 Grandmillennial ...">
+                                <img itemprop="contentUrl url" src='https://dcdeb370061a2f96ba54-cb731e64799a4e011b6a04b00ef66067.ssl.cf5.rackcdn.com/York/AF1902.jpg' alt='AF1902 GRANDMILLENNIAL - York Wallcoverings AF1902 Grandmillennial ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoingDecor" />
+                                </span>
+                                <a href='https://dcdeb370061a2f96ba54-cb731e64799a4e011b6a04b00ef66067.ssl.cf5.rackcdn.com/York/AF1902.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Grandmillennial Peel and Stick Wallpaper, Removable ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/6062353/r/il/2c9700/4938531018/il_570xN.4938531018_c0zq.jpg' alt='Custom Grandmillennial Peel and Stick Wallpaper, Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/6062353/r/il/2c9700/4938531018/il_570xN.4938531018_c0zq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GRANDMILLENNIAL 60.75 sq. ft. Fanciful Wallpaper GR5932">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/9a07a285-a6a6-4b99-9da8-b47fa0c01b95/svn/wallpaper-rolls-gr5932-31_600.jpg' alt='GRANDMILLENNIAL 60.75 sq. ft. Fanciful Wallpaper GR5932'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/9a07a285-a6a6-4b99-9da8-b47fa0c01b95/svn/wallpaper-rolls-gr5932-31_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GR6006 | Grandmillennial, Diamond Gate Green York Wallpaper">
+                                <img itemprop="contentUrl url" src='http://mahoneswallpapershop.com/cdn/shop/products/gr6006ex.jpg?v=1664573742' alt='GR6006 | Grandmillennial, Diamond Gate Green York Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mahone's Wallpaper Shop" />
+                                </span>
+                                <a href='http://mahoneswallpapershop.com/cdn/shop/products/gr6006ex.jpg?v=1664573742' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

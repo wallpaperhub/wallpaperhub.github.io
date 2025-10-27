@@ -1,0 +1,129 @@
+<title>States Without Gun Background Checks: What You Should Know</title>
+                    <meta name="description" content="Discover which states in the U.S. do not mandate background checks for gun purchases. This guide provides insight into the implications of these laws on safety and accessibility, helping you understand the legal landscape of firearm sales in America.">
+                    <meta name="keywords" content="which states do not require a background check to buy a gun">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/which-states-do-not-require-a-background-check-to-buy-a-gun">
+                            <span itemprop="name">which states do not require a background check to buy a gun</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>States Without Gun Background Checks: What You Should Know</h1>
+                <p>In the United States, several states do not require background checks for private gun sales. These include states like Alaska, Arizona, and Wyoming, where individuals can purchase firearms without undergoing a federal background check. This lack of regulation raises concerns about gun safety and access for individuals with criminal backgrounds.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Universal background checks, gun licenses not required in 30 states">
+                                <img itemprop="contentUrl url" src='https://media11.s-nbcnews.com/i/mpx/2704722219/2022_09/20220929-WA4085_MTPR_Pretape_PRG_DIRTY_CTRL_801_2pm_frame_43391-po7mtj.jpg' alt='Universal background checks, gun licenses not required in 30 states'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBC News" />
+                                </span>
+                                <a href='https://media11.s-nbcnews.com/i/mpx/2704722219/2022_09/20220929-WA4085_MTPR_Pretape_PRG_DIRTY_CTRL_801_2pm_frame_43391-po7mtj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Which States Require a Background Check? | USCCA">
+                                <img itemprop="contentUrl url" src='https://www.usconcealedcarry.com/wp-content/uploads/2024/01/Background_Checks_Map-020724.jpg' alt='Which States Require a Background Check? | USCCA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="789">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uscca" />
+                                </span>
+                                <a href='https://www.usconcealedcarry.com/wp-content/uploads/2024/01/Background_Checks_Map-020724.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gun Background Checks by State - Home Security Blog">
+                                <img itemprop="contentUrl url" src='https://www.yourlocalsecurity.com/blog/wp-content/uploads/Gun-Background-Checks-Map_Map-1024x853.jpg' alt='Gun Background Checks by State - Home Security Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ADT" />
+                                </span>
+                                <a href='https://www.yourlocalsecurity.com/blog/wp-content/uploads/Gun-Background-Checks-Map_Map-1024x853.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Everytown on X: "A long-standing loophole in our background check ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FoadWEwWcAAS6NB?format=jpg&name=4096x4096' alt='Everytown on X: "A long-standing loophole in our background check ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4096">
+                                <meta itemprop="height" content="4095">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FoadWEwWcAAS6NB?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Universal Background Checks for Gun Purchases">
+                                <img itemprop="contentUrl url" src='https://www.aap.org/globalassets/advocacy/universal-background-checks.jpg' alt='Universal Background Checks for Gun Purchases'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="876">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AAP" />
+                                </span>
+                                <a href='https://www.aap.org/globalassets/advocacy/universal-background-checks.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gun Violence Increases after Less-Regulated Gun Shows">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5786a922cd0f688d44f9cab2/1508797921344-WOPM830BL58NO3INVP4J/laws+map.PNG?format=500w' alt='Gun Violence Increases after Less-Regulated Gun Shows'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Methods Man" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5786a922cd0f688d44f9cab2/1508797921344-WOPM830BL58NO3INVP4J/laws+map.PNG?format=500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="March Madness Fuels Record Q1 For Firearm Background Checks In The ...">
+                                <img itemprop="contentUrl url" src='https://www.biometrica.com/wp-content/uploads/2021/04/FBI-NICS-Map.png' alt='March Madness Fuels Record Q1 For Firearm Background Checks In The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1534">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biometrica Systems" />
+                                </span>
+                                <a href='https://www.biometrica.com/wp-content/uploads/2021/04/FBI-NICS-Map.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Which U.S. States Have Universal Gun Background Checks?">
+                                <img itemprop="contentUrl url" src='https://www.thetrace.org/wp-content/uploads/2023/06/social-card-11.png' alt='Which U.S. States Have Universal Gun Background Checks?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Trace" />
+                                </span>
+                                <a href='https://www.thetrace.org/wp-content/uploads/2023/06/social-card-11.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A map of U.S. states that have passed expanded or universal ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/a-map-of-u-s-states-that-have-passed-expanded-or-universal-v0-ez3lnblgai2b1.png?width=640&crop=smart&auto=webp&s=97d403af19f8d5207773c7c2706a2ccd74505a70' alt='A map of U.S. states that have passed expanded or universal ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="403">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/a-map-of-u-s-states-that-have-passed-expanded-or-universal-v0-ez3lnblgai2b1.png?width=640&crop=smart&auto=webp&s=97d403af19f8d5207773c7c2706a2ccd74505a70' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="U.S. States in Which a Background Check of All Handgun Buyers (a ...">
+                                <img itemprop="contentUrl url" src='https://www.researchgate.net/publication/318565934/figure/fig1/AS:614326876516352@1523478349003/US-States-in-Which-a-Background-Check-of-All-Handgun-Buyers-a-Universal-Background.png' alt='U.S. States in Which a Background Check of All Handgun Buyers (a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="606">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ResearchGate" />
+                                </span>
+                                <a href='https://www.researchgate.net/publication/318565934/figure/fig1/AS:614326876516352@1523478349003/US-States-in-Which-a-Background-Check-of-All-Handgun-Buyers-a-Universal-Background.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

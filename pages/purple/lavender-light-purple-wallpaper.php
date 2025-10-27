@@ -1,0 +1,129 @@
+<title>Elegant Lavender Light Purple Wallpaper for Your Home</title>
+                    <meta name="description" content="Discover the beauty of lavender light purple wallpaper to elevate your home's ambiance. Perfect for any room, this soothing shade creates a calming environment. Explore various designs and textures that can enhance your décor and provide a stylish, serene backdrop. Ideal for both modern and classic styles.">
+                    <meta name="keywords" content="lavender light purple wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/lavender-light-purple-wallpaper">
+                            <span itemprop="name">lavender light purple wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Lavender Light Purple Wallpaper for Your Home</h1>
+                <p>Transform your space with stunning lavender light purple wallpaper, perfect for creating a serene and calming atmosphere. This delicate hue complements various decor styles, from modern to rustic. Ideal for bedrooms, living rooms, or accent walls, lavender wallpaper brings a touch of elegance and tranquility to any room, making it a popular choice among interior design enthusiasts.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="English Lavender On Light Purple Background Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/english-lavender-on-light-purple-background-0ejk4r6kloeue35q.jpg' alt='English Lavender On Light Purple Background Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1714">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/english-lavender-on-light-purple-background-0ejk4r6kloeue35q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple wallpaper heart simple instagram iphone lavender">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/00/ea/a2/00eaa28424ca193dd9b3d1da239fb0c4.jpg' alt='Purple wallpaper heart simple instagram iphone lavender'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/00/ea/a2/00eaa28424ca193dd9b3d1da239fb0c4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Lavender Purple Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/lavender-purple-wallpaper-7mk96hc3o9noexhq.jpg' alt='100+] Lavender Purple Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/lavender-purple-wallpaper-7mk96hc3o9noexhq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Purple lavander light purple aesthetic wallpaper for ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/87/5e/a1/875ea1b095cb2ed18043708c66e8993b.jpg' alt='Pastel Purple lavander light purple aesthetic wallpaper for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/87/5e/a1/875ea1b095cb2ed18043708c66e8993b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solid Light Lavender Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/14016243/p/f/m/3CxoRXyknnJwLjwpgwChjtYxD4lXmNkrQmSCXZviM57XgsZGv6Ib5s8/Dusty%20Lilac%20Printed%20Solid.jpg' alt='Solid Light Lavender Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/14016243/p/f/m/3CxoRXyknnJwLjwpgwChjtYxD4lXmNkrQmSCXZviM57XgsZGv6Ib5s8/Dusty%20Lilac%20Printed%20Solid.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Light Purple Aesthetic Lavender Flower Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/light-purple-aesthetic-lavender-flower-4w3rfs5jmp0wecd1.jpg' alt='Download Light Purple Aesthetic Lavender Flower Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1892">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/light-purple-aesthetic-lavender-flower-4w3rfs5jmp0wecd1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Lavender Aesthetic Wallpapers - Aesthetic Purple Wallpapers">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2022/10/light-lavender-aesthetic-wallpaper-3-scaled.jpg' alt='Light Lavender Aesthetic Wallpapers - Aesthetic Purple Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1183">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2022/10/light-lavender-aesthetic-wallpaper-3-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Daisy Lavender Purple Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.lauraashleyusa.com/cdn/shop/products/daisy-lavender-purple-wallpaper-161888.jpg?v=1705354135' alt='Daisy Lavender Purple Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="910">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Laura Ashley" />
+                                </span>
+                                <a href='https://www.lauraashleyusa.com/cdn/shop/products/daisy-lavender-purple-wallpaper-161888.jpg?v=1705354135' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="lavender wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/bd/63/02/bd630292dc5270334de18e73f33de5b9.jpg' alt='lavender wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="974">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/bd/63/02/bd630292dc5270334de18e73f33de5b9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gradient Of Lavender To Light Purple Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/gradient-of-lavender-to-light-purple-iphone-t9zrz04lncpdbfru.jpg' alt='Gradient Of Lavender To Light Purple Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/gradient-of-lavender-to-light-purple-iphone-t9zrz04lncpdbfru.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

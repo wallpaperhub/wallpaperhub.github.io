@@ -1,0 +1,129 @@
+<title>Celebrate Galentine's Day: A Day for Friends!</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="happy galentines day">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/happy-galentines-day">
+                            <span itemprop="name">happy galentines day</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Celebrate Galentine's Day: A Day for Friends!</h1>
+                <p>Happy Galentine’s Day! Celebrate the joy of friendship with your favorite women by taking time to appreciate one another. Whether through brunch, heartfelt gifts, or a cozy movie night, this special day is all about love and laughter among friends. Let’s raise a toast to the powerful women in our lives!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Galentine's Day Heart Dessert Plates 8ct | The Party Darling">
+                                <img itemprop="contentUrl url" src='https://thepartydarling.com/cdn/shop/files/happy-galentines-day-lunch-plates_1200x.jpg?v=1703187677' alt='Happy Galentine's Day Heart Dessert Plates 8ct | The Party Darling'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Party Darling" />
+                                </span>
+                                <a href='https://thepartydarling.com/cdn/shop/files/happy-galentines-day-lunch-plates_1200x.jpg?v=1703187677' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : D4DREAM Happy Galentines Day Cards for Her Friends ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71eNOwvuaxL.jpg' alt='Amazon.com : D4DREAM Happy Galentines Day Cards for Her Friends ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71eNOwvuaxL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Galentine's Day Greeting Card: A Sweet Friendship Refreshes the Soul">
+                                <img itemprop="contentUrl url" src='http://www.cardcraft.io/cdn/shop/products/image13_b1_59b0f064-fce6-4bb4-8ab7-27414a0daf8f.png?v=1644514020' alt='Happy Galentine's Day Greeting Card: A Sweet Friendship Refreshes the Soul'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="984">
+                                <meta itemprop="height" content="984">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CardCraft" />
+                                </span>
+                                <a href='http://www.cardcraft.io/cdn/shop/products/image13_b1_59b0f064-fce6-4bb4-8ab7-27414a0daf8f.png?v=1644514020' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Galentine's Day Cute Valentine's Day Grey Writing2 | Photographic  Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.2037721348.0603/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Happy Galentine's Day Cute Valentine's Day Grey Writing2 | Photographic  Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.2037721348.0603/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Large 71" X 43" Happy Galentines Day Banner, Large 71" X 43"  Red Pink Galentines Day Banner, Galentine Banner For Galentines Day ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81xsBR7RJ-L.jpg' alt='Amazon.com: Large 71" X 43" Happy Galentines Day Banner, Large 71" X 43"  Red Pink Galentines Day Banner, Galentine Banner For Galentines Day ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81xsBR7RJ-L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Galentine's Day on February 13th with Celebrating Women ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/014/909/229/non_2x/happy-galentine-s-day-on-february-13th-with-celebrating-women-friendship-for-their-freedom-in-flat-cartoon-hand-drawn-template-illustration-vector.jpg' alt='Happy Galentine's Day on February 13th with Celebrating Women ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1393">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/014/909/229/non_2x/happy-galentine-s-day-on-february-13th-with-celebrating-women-friendship-for-their-freedom-in-flat-cartoon-hand-drawn-template-illustration-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Large Happy Galentine's Day Banner Decorations for Galentine's ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/12639277/r/il/f5516a/2773966160/il_fullxfull.2773966160_k7y2.jpg' alt='Large Happy Galentine's Day Banner Decorations for Galentine's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2909">
+                                <meta itemprop="height" content="2910">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/12639277/r/il/f5516a/2773966160/il_fullxfull.2773966160_k7y2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Galentine's Day! – Cindy Mangomini">
+                                <img itemprop="contentUrl url" src='https://cindymangomini.com/wp-content/uploads/2020/02/2020-galentine-mangomini.jpg' alt='Happy Galentine's Day! – Cindy Mangomini'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="709">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cindy Mangomini" />
+                                </span>
+                                <a href='https://cindymangomini.com/wp-content/uploads/2020/02/2020-galentine-mangomini.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Galentine's Day - DIY Shaped Valentine's Day Party Cut-outs ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/9007377/r/il/f0bdb0/3569480777/il_fullxfull.3569480777_p060.jpg' alt='Happy Galentine's Day - DIY Shaped Valentine's Day Party Cut-outs ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/9007377/r/il/f0bdb0/3569480777/il_fullxfull.3569480777_p060.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Galentine's Day to my RIDE OR DIE! Life with you is just ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3567041506436545308' alt='Happy Galentine's Day to my RIDE OR DIE! Life with you is just ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="867">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3567041506436545308' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

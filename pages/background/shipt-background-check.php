@@ -1,0 +1,129 @@
+<title>Shipt Background Check: What You Need to Know</title>
+                    <meta name="description" content="Discover everything about Shipt's background check process, including what it entails and why it's crucial for shopper safety. Learn how these checks protect customers and uphold service quality, ensuring a trustworthy shopping experience with Shipt.">
+                    <meta name="keywords" content="shipt background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/shipt-background-check">
+                            <span itemprop="name">shipt background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Shipt Background Check: What You Need to Know</h1>
+                <p>Shipt conduct a thorough background check to ensure the safety and reliability of their shoppers. This process includes a review of criminal history and driving records. By executing these checks, Shipt guarantees that customers receive service from trustworthy individuals, enhancing the overall shopping experience and fostering customer confidence.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shipt Background Check | Requirements & Processing Time">
+                                <img itemprop="contentUrl url" src='https://haseeblegal.com/wp-content/uploads/elementor/thumbs/Shipt-Background-Check-r0obmrfhzp3jwjrw1jt9q3fzfn0uuzpg8ywsvv3lmo.jpg' alt='Shipt Background Check | Requirements & Processing Time'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Haseeb Legal" />
+                                </span>
+                                <a href='https://haseeblegal.com/wp-content/uploads/elementor/thumbs/Shipt-Background-Check-r0obmrfhzp3jwjrw1jt9q3fzfn0uuzpg8ywsvv3lmo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What to Do If You Failed a Shipt Background Check - Consumer Attorneys">
+                                <img itemprop="contentUrl url" src='https://consumerattorneys.com/media/blog/65f84d17ea23b.webp' alt='What to Do If You Failed a Shipt Background Check - Consumer Attorneys'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="761">
+                                <meta itemprop="height" content="430">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Consumer Attorneys" />
+                                </span>
+                                <a href='https://consumerattorneys.com/media/blog/65f84d17ea23b.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shipt Uses Checkr For Employee Background Checks, usually it works ...">
+                                <img itemprop="contentUrl url" src='https://consumerattorneys.com/_next/image?url=%2Fmedia%2Fblog%2F65f84d21d380e.webp%3Fw%3D756&w=1920&q=75' alt='Shipt Uses Checkr For Employee Background Checks, usually it works ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="761">
+                                <meta itemprop="height" content="430">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Consumer Attorneys" />
+                                </span>
+                                <a href='https://consumerattorneys.com/_next/image?url=%2Fmedia%2Fblog%2F65f84d21d380e.webp%3Fw%3D756&w=1920&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Fix Errors in Shipt Background Check? • The Havok Journal">
+                                <img itemprop="contentUrl url" src='https://havokjournal.com/wp-content/uploads/2023/12/Picture1-2.jpg' alt='How to Fix Errors in Shipt Background Check? • The Havok Journal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="624">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Havok Journal" />
+                                </span>
+                                <a href='https://havokjournal.com/wp-content/uploads/2023/12/Picture1-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Navigate Shipt's Background Check - Updated for 2024 | GigWolf">
+                                <img itemprop="contentUrl url" src='https://storage.googleapis.com/gigwolf-production/posts/ic-blog.png' alt='How To Navigate Shipt's Background Check - Updated for 2024 | GigWolf'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="430">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GigWolf" />
+                                </span>
+                                <a href='https://storage.googleapis.com/gigwolf-production/posts/ic-blog.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shipt Background Check Error Cost You A Job? We Can Help">
+                                <img itemprop="contentUrl url" src='https://lemberglaw.com/wp-content/uploads/2017/10/employment-background-check.jpg' alt='Shipt Background Check Error Cost You A Job? We Can Help'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemberg Law" />
+                                </span>
+                                <a href='https://lemberglaw.com/wp-content/uploads/2017/10/employment-background-check.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shipt Background Check Failed - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/JEBUKOpTWbA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA1kzFpsM-CoDAYny8I3YdMio94Hg' alt='Shipt Background Check Failed - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/JEBUKOpTWbA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA1kzFpsM-CoDAYny8I3YdMio94Hg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I got accepted and they sent me my welcome package, shirt and Visa ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ytr80v8ltqg91.jpg' alt='I got accepted and they sent me my welcome package, shirt and Visa ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ytr80v8ltqg91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Replying to @amyalves0 Hopefully this helps! #gig #backgroundcheck  #background #check #instacart #instacartshopper #doodash #doordashdriver  #shipt #frayt #dispatch #ubereats #viralvideo #delivery #fyp ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7281087571760008494&location=0&aid=1988' alt='Replying to @amyalves0 Hopefully this helps! #gig #backgroundcheck  #background #check #instacart #instacartshopper #doodash #doordashdriver  #shipt #frayt #dispatch #ubereats #viralvideo #delivery #fyp ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7281087571760008494&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guide to Shipt's Background Check Requirements Process - FangWallet">
+                                <img itemprop="contentUrl url" src='https://fangwallet.com/wp-content/uploads/2024/09/shipt-background-check-requirements.jpg' alt='Guide to Shipt's Background Check Requirements Process - FangWallet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1919">
+                                <meta itemprop="height" content="1282">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FangWallet" />
+                                </span>
+                                <a href='https://fangwallet.com/wp-content/uploads/2024/09/shipt-background-check-requirements.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

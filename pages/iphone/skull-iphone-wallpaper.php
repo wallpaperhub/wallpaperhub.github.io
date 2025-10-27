@@ -1,0 +1,129 @@
+<title>Bold Skull iPhone Wallpapers for Unique Styles</title>
+                    <meta name="description" content="Discover the ultimate collection of skull iPhone wallpapers designed for those who love a bold look. From minimalistic to detailed designs, find the perfect background that showcases your personality and makes your device truly yours. Explore now for your unique skull wallpaper!">
+                    <meta name="keywords" content="skull iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/skull-iphone-wallpaper">
+                            <span itemprop="name">skull iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Bold Skull iPhone Wallpapers for Unique Styles</h1>
+                <p>Explore a striking collection of skull iPhone wallpapers that blend edginess with style. Whether you prefer minimalist designs or intricate artwork, our gallery offers a variety of options to personalize your device. Perfect for those who appreciate a unique aesthetic, these wallpapers will make your iPhone stand out.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amoled Skull iPhone Wallpaper HD">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7c/c7/93/7cc7930a0bb69d1ff168a675cfe28a6f.jpg' alt='Amoled Skull iPhone Wallpaper HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7c/c7/93/7cc7930a0bb69d1ff168a675cfe28a6f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Skeleton Skull Burial Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-skeleton-skull-burial-iphone-odgifxyc4amah93l.jpg' alt='Cute Skeleton Skull Burial Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-skeleton-skull-burial-iphone-odgifxyc4amah93l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Aesthetic Iphone Horror Skulls Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-iphone-horror-jvsc2c75bab5l74b.jpg' alt='Download Aesthetic Iphone Horror Skulls Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-iphone-horror-jvsc2c75bab5l74b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SKULL WALLPAPER / BEST WALLPAPER FOR IPHONE">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/d7/50/f1/d750f1aacb0ffd8d3e9f0d207763b86e.jpg' alt='SKULL WALLPAPER / BEST WALLPAPER FOR IPHONE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/d7/50/f1/d750f1aacb0ffd8d3e9f0d207763b86e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skull Black And Gold Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/skull-black-and-gold-iphone-y0zbyghn2ibi0kw4.jpg' alt='Skull Black And Gold Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1079">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/skull-black-and-gold-iphone-y0zbyghn2ibi0kw4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Skull Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/black-horror-red-hands-on-skull-g4xujligfr9p1mvh.jpg' alt='200+] Skull Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/black-horror-red-hands-on-skull-g4xujligfr9p1mvh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zombie Skull iPhone Lock Screen Wallpaper | 4K">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/phone/images/640/zombie-skull.png' alt='Zombie Skull iPhone Lock Screen Wallpaper | 4K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/phone/images/640/zombie-skull.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Most Popular Creative Skull Wallpapers">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/iphone/81962263287228222-16180898151430301.jpg' alt='Most Popular Creative Skull Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/iphone/81962263287228222-16180898151430301.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skull Roses iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/39/61/2c/39612c0ed4ef6459efbdb008b4455b62.jpg' alt='Skull Roses iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/39/61/2c/39612c0ed4ef6459efbdb008b4455b62.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Skull Wallpaper Ideas for Your Phone">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7379666460455062790&location=0&aid=1988' alt='Cool Skull Wallpaper Ideas for Your Phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7379666460455062790&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

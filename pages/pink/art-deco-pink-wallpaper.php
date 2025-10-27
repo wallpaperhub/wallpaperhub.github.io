@@ -1,0 +1,129 @@
+<title>Chic Art Deco Pink Wallpaper for Elegant Interiors</title>
+                    <meta name="description" content="Discover stunning Art Deco pink wallpaper that elevates your decor with geometric elegance and soft hues. Perfect for any room, this chic design blends modernity and style, ensuring your interiors stand out. Transform your space today!">
+                    <meta name="keywords" content="art deco pink wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/art-deco-pink-wallpaper">
+                            <span itemprop="name">art deco pink wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Art Deco Pink Wallpaper for Elegant Interiors</h1>
+                <p>Art Deco pink wallpaper showcases a blend of elegance and bold design, making it a perfect choice for modern interiors. With geometric patterns and soft pastel hues, it transforms spaces into stylish sanctuaries. Ideal for bedrooms or living areas, this wallpaper adds a touch of sophistication while remaining playful and vibrant.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Art Deco Pattern Wallpaper, Repositionable Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/19508152/r/il/f46107/4238957956/il_fullxfull.4238957956_nn9t.jpg' alt='Pink Art Deco Pattern Wallpaper, Repositionable Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1333">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/19508152/r/il/f46107/4238957956/il_fullxfull.4238957956_nn9t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Art Deco Wallpaper - Rose Blush Peel and Stick - The Wallberry">
+                                <img itemprop="contentUrl url" src='https://thewallberry.com/wp-content/uploads/2021/03/pink_art_deco_wallpaper_wallberry.jpg' alt='Pink Art Deco Wallpaper - Rose Blush Peel and Stick - The Wallberry'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Wallberry" />
+                                </span>
+                                <a href='https://thewallberry.com/wp-content/uploads/2021/03/pink_art_deco_wallpaper_wallberry.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Art Deco Pattern Wallpaper - Self Adhesive Peel and Stick Removable  Woven Wallcovering - Pre-pasted Paper Wallcovering by WallsHaveSoul">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/24286097/r/il/2f37aa/4223361641/il_570xN.4223361641_5in2.jpg' alt='Pink Art Deco Pattern Wallpaper - Self Adhesive Peel and Stick Removable  Woven Wallcovering - Pre-pasted Paper Wallcovering by WallsHaveSoul'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="858">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/24286097/r/il/2f37aa/4223361641/il_570xN.4223361641_5in2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chrysler Pink">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1715787082/articles/AD5016PI04W_product.jpg' alt='Chrysler Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hovia" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1715787082/articles/AD5016PI04W_product.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lempicka Pink Art Deco Motif Wallpaper from Design Department by Brewster">
+                                <img itemprop="contentUrl url" src='http://www.burkedecor.com/cdn/shop/products/DD139229.jpg?v=1671736005' alt='Lempicka Pink Art Deco Motif Wallpaper from Design Department by Brewster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Burke Decor" />
+                                </span>
+                                <a href='http://www.burkedecor.com/cdn/shop/products/DD139229.jpg?v=1671736005' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Art Deco">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/pink-art-deco-pattern-repeat-removable-wallpaper-design.jpg' alt='Pink Art Deco'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/pink-art-deco-pattern-repeat-removable-wallpaper-design.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Art Deco Removable Wallpaper / Self-adhesive or Traditional ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18578186/r/il/eee2d8/2981258330/il_570xN.2981258330_ge32.jpg' alt='Pink Art Deco Removable Wallpaper / Self-adhesive or Traditional ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="857">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18578186/r/il/eee2d8/2981258330/il_570xN.2981258330_ge32.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ESTA Home Lempicka Pink Art Deco Motif Non-Pasted Metallic Wallpaper Sample  DD139229SAM">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/2f72e088-9600-4406-95d2-3bdf84a30b2b/svn/wallpaper-samples-dd139229sam-c3_600.jpg' alt='ESTA Home Lempicka Pink Art Deco Motif Non-Pasted Metallic Wallpaper Sample  DD139229SAM'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/2f72e088-9600-4406-95d2-3bdf84a30b2b/svn/wallpaper-samples-dd139229sam-c3_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art Deco Diamond Pattern Wallpaper | Available in Pink & Green ...">
+                                <img itemprop="contentUrl url" src='https://www.datocms-assets.com/54048/1672253411-cameron-pink.jpg?auto=format' alt='Art Deco Diamond Pattern Wallpaper | Available in Pink & Green ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2800">
+                                <meta itemprop="height" content="2800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bobbi Beck" />
+                                </span>
+                                <a href='https://www.datocms-assets.com/54048/1672253411-cameron-pink.jpg?auto=format' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art Deco by Graham & Brown - Blush - Wallpaper - 105919">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/asset/img/product/160311/tiled/graham-and-brown-art-deco-blush-wallpaper-tiled-160311.jpg' alt='Art Deco by Graham & Brown - Blush - Wallpaper - 105919'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/asset/img/product/160311/tiled/graham-and-brown-art-deco-blush-wallpaper-tiled-160311.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

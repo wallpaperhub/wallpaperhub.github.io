@@ -1,0 +1,129 @@
+<title>Shop Giant Flower Wallpaper for Bold Home Decor</title>
+                    <meta name="description" content="Discover our collection of giant flower wallpaper, perfect for making a statement in your home. Transform any room with oversized floral designs that bring style and vibrancy, suitable for all decor styles. Shop now for the best selection and brighten up your living space!">
+                    <meta name="keywords" content="giant flower wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flower">
+                            <span itemprop="name">Flower</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flower/giant-flower-wallpaper">
+                            <span itemprop="name">giant flower wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Shop Giant Flower Wallpaper for Bold Home Decor</h1>
+                <p>Transform your space with stunning giant flower wallpaper that adds vibrancy and elegance to any room. Perfect for a bold statement in living rooms, bedrooms, or offices, these oversized floral designs come in various styles and colors to match your decor. Embrace nature's beauty and express your personality with this eye-catching wallpaper!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hot Pink Wallpaper, Big Flower Wallpaper Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35172655/r/il/788527/3937810012/il_fullxfull.3937810012_jkcj.jpg' alt='Hot Pink Wallpaper, Big Flower Wallpaper Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2271">
+                                <meta itemprop="height" content="2114">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35172655/r/il/788527/3937810012/il_fullxfull.3937810012_jkcj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter Flowers Black Floral Wallpaper Black Background Big Flowers ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25174938/r/il/ffbcc7/2581266761/il_570xN.2581266761_432p.jpg' alt='Winter Flowers Black Floral Wallpaper Black Background Big Flowers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25174938/r/il/ffbcc7/2581266761/il_570xN.2581266761_432p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="55 Stunning Large Floral Wallpaper for 2025 | Rebel Walls">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_720/v1709807220/articles/R19891_interior1.jpg' alt='55 Stunning Large Floral Wallpaper for 2025 | Rebel Walls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rebel Walls" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_720/v1709807220/articles/R19891_interior1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Vintage Peony Rose Flower Wallpaper Large Watercolor Bouquet Floral  Wallpaper DIY Waterproof Green Leaf Plant Wall Murals for Living Room  Bedroom ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/717RU5JujmL.jpg' alt='3D Vintage Peony Rose Flower Wallpaper Large Watercolor Bouquet Floral  Wallpaper DIY Waterproof Green Leaf Plant Wall Murals for Living Room  Bedroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/717RU5JujmL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peony" Wallpaper | Floral Abstract Wall Decor | Fuchsia, Silver ...">
+                                <img itemprop="contentUrl url" src='https://vivianferne.com/cdn/shop/products/Large-Floral-Wallpaper-Abstract-Wall-Decor.webp?v=1680800895&width=1214' alt='Peony" Wallpaper | Floral Abstract Wall Decor | Fuchsia, Silver ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="938">
+                                <meta itemprop="height" content="1124">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vivian Ferne" />
+                                </span>
+                                <a href='https://vivianferne.com/cdn/shop/products/Large-Floral-Wallpaper-Abstract-Wall-Decor.webp?v=1680800895&width=1214' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Black Flowers Mural Bedroom Peony Floral Wallpaper Room Decor  Living Room tv Background Large Wall Mural - 183"x120" (Not Peel and Stick)">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71PDjmmVr0L._AC_UF894,1000_QL80_.jpg' alt='Vintage Black Flowers Mural Bedroom Peony Floral Wallpaper Room Decor  Living Room tv Background Large Wall Mural - 183"x120" (Not Peel and Stick)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71PDjmmVr0L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Large Floral Wallpaper Designs - 5 Must-Have Murals | For The ...">
+                                <img itemprop="contentUrl url" src='https://forthefloorandmore.com/wp-content/uploads/2018/05/floral2roomblog.jpg' alt='Large Floral Wallpaper Designs - 5 Must-Have Murals | For The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers, Feature Tiles, Glass Splashbacks & Vinyl Floorings ..." />
+                                </span>
+                                <a href='https://forthefloorandmore.com/wp-content/uploads/2018/05/floral2roomblog.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Wallpaper | Giant Hibiscus — WonderMural">
+                                <img itemprop="contentUrl url" src='https://wondermural.com/cdn/shop/files/salon16---format-1-1_41fd593c-b6a1-4699-b499-bc7a57b7196b_700x700.jpg?v=1721495088' alt='Floral Wallpaper | Giant Hibiscus — WonderMural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WonderMural" />
+                                </span>
+                                <a href='https://wondermural.com/cdn/shop/files/salon16---format-1-1_41fd593c-b6a1-4699-b499-bc7a57b7196b_700x700.jpg?v=1721495088' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Peonies Floral Wallpaper - Large Wall Mural - Self-adhesive Wallpaper,  | eBay">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/nGIAAOSw-BJgZ4F-/s-l400.jpg' alt='Pink Peonies Floral Wallpaper - Large Wall Mural - Self-adhesive Wallpaper,  | eBay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="267">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/nGIAAOSw-BJgZ4F-/s-l400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Big Flower Wallpaper, Grey Huge Flower Floral Wall Murals - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20679300/r/il/cca578/6294733375/il_fullxfull.6294733375_sns5.jpg' alt='3D Big Flower Wallpaper, Grey Huge Flower Floral Wall Murals - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2371">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20679300/r/il/cca578/6294733375/il_fullxfull.6294733375_sns5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

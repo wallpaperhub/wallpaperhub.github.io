@@ -1,0 +1,129 @@
+<title>"Explore the Beauty of Old Rugged Cross Images"</title>
+                    <meta name="description" content="Discover stunning images of the old rugged cross, a powerful symbol of faith and redemption. Immerse yourself in its beauty and meaning, and find inspiration in every visual representation. Perfect for believers seeking to deepen their connection to this enduring emblem of Christianity.">
+                    <meta name="keywords" content="the old rugged cross images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/the-old-rugged-cross-images">
+                            <span itemprop="name">the old rugged cross images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Explore the Beauty of Old Rugged Cross Images"</h1>
+                <p>The old rugged cross has become an iconic symbol of faith and sacrifice. Its images often evoke deep emotions, representing the love and redemption found in Christianity. From paintings to photographs, these visuals capture the essence of hope, reminding believers of the enduring promise of salvation. Discover the beauty and significance behind the old rugged cross images.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Old Rugged Cross Wall Art Canvas Print, Classic Christian Hymn ...">
+                                <img itemprop="contentUrl url" src='https://christfollowerlife.com/cdn/shop/products/the-old-rugged-cross-christian-hymn-wall-art-canvas-print-229_1200x.jpg?v=1692797903' alt='The Old Rugged Cross Wall Art Canvas Print, Classic Christian Hymn ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Christ Follower Life" />
+                                </span>
+                                <a href='https://christfollowerlife.com/cdn/shop/products/the-old-rugged-cross-christian-hymn-wall-art-canvas-print-229_1200x.jpg?v=1692797903' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Story Behind The Hymn "The Old Rugged Cross"">
+                                <img itemprop="contentUrl url" src='https://www.independentbaptist.com/wp-content/uploads/2018/06/old-rugged-cross.jpg' alt='The Story Behind The Hymn "The Old Rugged Cross"'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="394">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IndependentBaptist.com" />
+                                </span>
+                                <a href='https://www.independentbaptist.com/wp-content/uploads/2018/06/old-rugged-cross.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simply The Old Rugged Cross by Debra and Dave Vanderlaan">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/simply-the-old-rugged-cross-debra-and-dave-vanderlaan.jpg' alt='Simply The Old Rugged Cross by Debra and Dave Vanderlaan'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="695">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Debra and Dave Vanderlaan - Pixels" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/simply-the-old-rugged-cross-debra-and-dave-vanderlaan.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Old Rugged Cross in Warren, OH | Jensen's Flowers & Gifts, Inc.">
+                                <img itemprop="contentUrl url" src='https://asset.bloomnation.com/c_pad,d_vendor:global:catalog:product:image.png,f_auto,fl_preserve_transparency,q_auto/v1702422055/vendor/6562/catalog/product/2/0/20191023111446_file_5db03626c24c6_5db03727290a7.jpg' alt='The Old Rugged Cross in Warren, OH | Jensen's Flowers & Gifts, Inc.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="657">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jensen's Flowers & Gifts" />
+                                </span>
+                                <a href='https://asset.bloomnation.com/c_pad,d_vendor:global:catalog:product:image.png,f_auto,fl_preserve_transparency,q_auto/v1702422055/vendor/6562/catalog/product/2/0/20191023111446_file_5db03626c24c6_5db03727290a7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old Rugged Cross">
+                                <img itemprop="contentUrl url" src='https://www.lighthousegalleries.com/wp-content/uploads/2017/07/Old-Rugged-Cross.jpg' alt='Old Rugged Cross'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="477">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LightHouse Galleries" />
+                                </span>
+                                <a href='https://www.lighthousegalleries.com/wp-content/uploads/2017/07/Old-Rugged-Cross.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Old Rugged Cross - Lyrics, Hymn Meaning and Story">
+                                <img itemprop="contentUrl url" src='https://media.swncdn.com/godtube/resource/popular-hymns/image/the-old-rugged-cross.jpg' alt='The Old Rugged Cross - Lyrics, Hymn Meaning and Story'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GodTube.com" />
+                                </span>
+                                <a href='https://media.swncdn.com/godtube/resource/popular-hymns/image/the-old-rugged-cross.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="THE OLD RUGGED CROSS — God's Other Ways">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/54c01bf4e4b0f6da48bee003/1555110843341-AK5ZGZ4W7S2AMVB5PT4D/Old-Rugged-Cross-Christian-Stock-Photo.jpg?format=1500w' alt='THE OLD RUGGED CROSS — God's Other Ways'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="God's Other Ways" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/54c01bf4e4b0f6da48bee003/1555110843341-AK5ZGZ4W7S2AMVB5PT4D/Old-Rugged-Cross-Christian-Stock-Photo.jpg?format=1500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="OLD RUGGED CROSS - Hymn On Parchment Wall Art Vintage Verses Sheet Music  Christian Home & Office Decor Farmhouse Style Faith Inspirational">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/5570441/r/il/95c0e2/231744263/il_fullxfull.231744263.jpg' alt='OLD RUGGED CROSS - Hymn On Parchment Wall Art Vintage Verses Sheet Music  Christian Home & Office Decor Farmhouse Style Faith Inspirational'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1014">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/5570441/r/il/95c0e2/231744263/il_fullxfull.231744263.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old Rugged Cross by Debra and Dave Vanderlaan">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/old-rugged-cross-debra-and-dave-vanderlaan.jpg' alt='Old Rugged Cross by Debra and Dave Vanderlaan'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fine Art America" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/old-rugged-cross-debra-and-dave-vanderlaan.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Thee Old Rugged Cross">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100075882850054' alt='Profile for Thee Old Rugged Cross'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="853">
+                                <meta itemprop="height" content="852">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100075882850054' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

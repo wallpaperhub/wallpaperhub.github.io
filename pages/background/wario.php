@@ -1,0 +1,129 @@
+<title>Wario: The Mischievous Antihero of Nintendo</title>
+                    <meta name="description" content="Discover Wario, Nintendo's favorite villain! Explore his mischievous antics, unique games, and the journey from Mario's rival to a beloved antihero. Join Wario in his quirky adventures today!">
+                    <meta name="keywords" content="wario">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/wario">
+                            <span itemprop="name">wario</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Wario: The Mischievous Antihero of Nintendo</h1>
+                <p>Wario, a Nintendo icon, is known for his mischievous personality and greedy antics. As Mario's rival, he first appeared in "Super Mario Land 2" and quickly became a fan favorite. This lovable antagonist stars in his own series, including “WarioWare” and “Wario Land,” showcasing his unique gameplay style and quirky humor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wario - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/thumb/8/81/Wario.png/250px-Wario.png' alt='Wario - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="265">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/thumb/8/81/Wario.png/250px-Wario.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wario - Super Mario Wiki, the Mario encyclopedia">
+                                <img itemprop="contentUrl url" src='https://mario.wiki.gallery/images/thumb/2/29/SMPWario.png/1200px-SMPWario.png' alt='Wario - Super Mario Wiki, the Mario encyclopedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1442">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mario Wiki" />
+                                </span>
+                                <a href='https://mario.wiki.gallery/images/thumb/2/29/SMPWario.png/1200px-SMPWario.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wario - Play Nintendo">
+                                <img itemprop="contentUrl url" src='https://play.nintendo.com/images/profile-mk-wario.7bf2a8f2.aead314d58b63e27.png' alt='Wario - Play Nintendo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Play Nintendo" />
+                                </span>
+                                <a href='https://play.nintendo.com/images/profile-mk-wario.7bf2a8f2.aead314d58b63e27.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wario | Versus Compendium Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/versus-compendium/images/8/81/Wario.png/revision/latest/scale-to-width-down/1200?cb=20190307020712' alt='Wario | Versus Compendium Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1122">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Versus Compendium Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/versus-compendium/images/8/81/Wario.png/revision/latest/scale-to-width-down/1200?cb=20190307020712' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wario reminds me of my Italian family | Polygon">
+                                <img itemprop="contentUrl url" src='https://platform.polygon.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22886190/jbareham_210812_ecl1125_wario_Italy.jpg?quality=90&strip=all&crop=0,0,100,100' alt='Wario reminds me of my Italian family | Polygon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Polygon" />
+                                </span>
+                                <a href='https://platform.polygon.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22886190/jbareham_210812_ecl1125_wario_Italy.jpg?quality=90&strip=all&crop=0,0,100,100' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jack Black Pitches Pedro Pascal to Voice Wario in Mario Movie Sequel">
+                                <img itemprop="contentUrl url" src='https://variety.com/wp-content/uploads/2023/04/Screen-Shot-2023-04-10-at-12.30.30-PM.png?w=1000&h=667&crop=1' alt='Jack Black Pitches Pedro Pascal to Voice Wario in Mario Movie Sequel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Variety" />
+                                </span>
+                                <a href='https://variety.com/wp-content/uploads/2023/04/Screen-Shot-2023-04-10-at-12.30.30-PM.png?w=1000&h=667&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: World of Nintendo 3 Wario Figure (Series 1-1) : Toys ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51P6rUI3AWL.jpg' alt='Amazon.com: World of Nintendo 3 Wario Figure (Series 1-1) : Toys ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1173">
+                                <meta itemprop="height" content="908">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51P6rUI3AWL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Giant Wario vs super Mario Art by unknown artist.">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9b/f9/22/9bf92293ee87bda42281551e1ed72ba1.jpg' alt='Giant Wario vs super Mario Art by unknown artist.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1031">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9b/f9/22/9bf92293ee87bda42281551e1ed72ba1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Draw Wario EASY | Super Mario">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/1wvX-XQfFfg/maxresdefault.jpg' alt='How To Draw Wario EASY | Super Mario'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/1wvX-XQfFfg/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="If they made a Wario movie, how would you like the story to be ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/if-they-made-a-wario-movie-how-would-you-like-the-story-to-v0-pqyywg0e1waa1.jpg?auto=webp&s=c592a70b37dc34e137061249995db57439410bdf' alt='If they made a Wario movie, how would you like the story to be ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/if-they-made-a-wario-movie-how-would-you-like-the-story-to-v0-pqyywg0e1waa1.jpg?auto=webp&s=c592a70b37dc34e137061249995db57439410bdf' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

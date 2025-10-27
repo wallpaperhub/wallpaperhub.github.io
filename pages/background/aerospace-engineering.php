@@ -1,0 +1,129 @@
+<title>Explore Aerospace Engineering: Innovation in Flight Technology</title>
+                    <meta name="description" content="Discover aerospace engineering, the cutting-edge field focused on designing and developing aircraft and spacecraft. Learn how engineers innovate to improve aviation safety, efficiency, and performance. Dive into the future of flight technology today!">
+                    <meta name="keywords" content="aerospace engineering">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/aerospace-engineering">
+                            <span itemprop="name">aerospace engineering</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore Aerospace Engineering: Innovation in Flight Technology</h1>
+                <p>Aerospace engineering involves the design, development, and management of aircraft and spacecraft systems. This multidisciplinary field merges principles from mechanical, electrical, and materials engineering to create innovative solutions for aviation and space exploration. Engineers tackle challenges like aerodynamics, propulsion, and safety, pushing boundaries to enhance flight capabilities.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is Aerospace Engineering? | Live Science">
+                                <img itemprop="contentUrl url" src='https://cdn.mos.cms.futurecdn.net/cJmpYPUQfwuTXwvVPa6Vxk.jpg' alt='What Is Aerospace Engineering? | Live Science'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Science" />
+                                </span>
+                                <a href='https://cdn.mos.cms.futurecdn.net/cJmpYPUQfwuTXwvVPa6Vxk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aerospace Engineering Job Outlook in the United States and Abroad ...">
+                                <img itemprop="contentUrl url" src='https://www.ucf.edu/wp-content/blogs.dir/19/files/2019/12/Aerospace-Engineering-Job-Outlook-in-the-U.S.-and-Abroad.jpg' alt='Aerospace Engineering Job Outlook in the United States and Abroad ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="University of Central Florida" />
+                                </span>
+                                <a href='https://www.ucf.edu/wp-content/blogs.dir/19/files/2019/12/Aerospace-Engineering-Job-Outlook-in-the-U.S.-and-Abroad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What can you do with an aerospace engineering degree? | Student">
+                                <img itemprop="contentUrl url" src='https://student-cms.prd.timeshighereducation.com/sites/default/files/styles/default/public/istock-541144900_0.jpg?itok=pDXIOmlx' alt='What can you do with an aerospace engineering degree? | Student'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="724">
+                                <meta itemprop="height" content="483">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Times Higher Education (THE)" />
+                                </span>
+                                <a href='https://student-cms.prd.timeshighereducation.com/sites/default/files/styles/default/public/istock-541144900_0.jpg?itok=pDXIOmlx' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aerospace Engineers — Today's Military">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/files.todaysmilitary.com/s3fs-public/2022-12/220313-N-YS747-1017C.jpg' alt='Aerospace Engineers — Today's Military'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Today's Military" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/files.todaysmilitary.com/s3fs-public/2022-12/220313-N-YS747-1017C.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Aerospace Engineering? | How to Become an aerospace engineer">
+                                <img itemprop="contentUrl url" src='https://tryengineeringinstitute.ieee.org/wp-content/uploads/2022/04/spacex-YSvUYqf9Mjk-unsplash-min-300x200.jpg' alt='What is Aerospace Engineering? | How to Become an aerospace engineer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TryEngineering Summer Institute - IEEE" />
+                                </span>
+                                <a href='https://tryengineeringinstitute.ieee.org/wp-content/uploads/2022/04/spacex-YSvUYqf9Mjk-unsplash-min-300x200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What's It Like To Work in Aerospace Engineering? | Alabama ...">
+                                <img itemprop="contentUrl url" src='https://alaahs.org/media/k2/items/cache/8b6e33345ac8d5ffd9cf0d107a7d9e9d_XL.jpg' alt='What's It Like To Work in Aerospace Engineering? | Alabama ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1059">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alabama Aerospace and Aviation High School" />
+                                </span>
+                                <a href='https://alaahs.org/media/k2/items/cache/8b6e33345ac8d5ffd9cf0d107a7d9e9d_XL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is Aerospace Engineering Difficult? What You Should Know ...">
+                                <img itemprop="contentUrl url" src='https://und.edu/blog/_files/images/230620-is-aerospace-engineering-hard-rss.webp' alt='Is Aerospace Engineering Difficult? What You Should Know ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="515">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="University of North Dakota" />
+                                </span>
+                                <a href='https://und.edu/blog/_files/images/230620-is-aerospace-engineering-hard-rss.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aerospace Engineer Salary: How Much Do Aerospace Engineers Get ...">
+                                <img itemprop="contentUrl url" src='https://orbitaltoday.com/wp-content/uploads/2024/04/Is-an-aerospace-engineer-a-hard-job.jpg' alt='Aerospace Engineer Salary: How Much Do Aerospace Engineers Get ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="602">
+                                <meta itemprop="height" content="401">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Orbital Today" />
+                                </span>
+                                <a href='https://orbitaltoday.com/wp-content/uploads/2024/04/Is-an-aerospace-engineer-a-hard-job.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aerospace Engineer: Occupations in Alberta - alis">
+                                <img itemprop="contentUrl url" src='https://alis.alberta.ca/media/697184/aerospace-engineer-istock-578573130.jpg?width=830&height=510&v=1d4edf9de53f1f0' alt='Aerospace Engineer: Occupations in Alberta - alis'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="830">
+                                <meta itemprop="height" content="510">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ALIS - Government of Alberta" />
+                                </span>
+                                <a href='https://alis.alberta.ca/media/697184/aerospace-engineer-istock-578573130.jpg?width=830&height=510&v=1d4edf9de53f1f0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How much is the salary of aeronautical engineer?">
+                                <img itemprop="contentUrl url" src='https://assets-jb.fmg-services.co.uk/AJS/uploads/hub/advices/HuOP7zOdMOSdadnCU0g39lkB5rYM4E7iFWOw7ntK.webp' alt='How much is the salary of aeronautical engineer?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3104">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Aviation Job Search" />
+                                </span>
+                                <a href='https://assets-jb.fmg-services.co.uk/AJS/uploads/hub/advices/HuOP7zOdMOSdadnCU0g39lkB5rYM4E7iFWOw7ntK.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Red Diamonds: The Rarest Gemstone</title>
+                    <meta name="description" content="Explore the enchanting world of red diamonds! Discover their rarity, stunning colors, and unique properties that make them a coveted treasure for gem collectors. Learn why these exquisite gemstones symbolize love and strength, perfect for those who seek an extraordinary touch in their jewelry collection.">
+                    <meta name="keywords" content="red diamond with exclamation point">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/red-diamond-with-exclamation-point">
+                            <span itemprop="name">red diamond with exclamation point</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Red Diamonds: The Rarest Gemstone</h1>
+                <p>Discover the captivating allure of red diamonds, a rare and stunning gemstone that symbolizes passion and power. With their vibrant color and intriguing brilliance, these diamonds are among the most sought-after in the world. Explore their unique properties and why they stand out, making them a prized possession for collectors and enthusiasts alike!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Description of Global Harmonization Pictograms">
+                                <img itemprop="contentUrl url" src='x-raw-image:///35a458c9eb6669449ff7bd9fe8b4235532d2371047fba48a38d03fa2cd101496' alt='Description of Global Harmonization Pictograms'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="415">
+                                <meta itemprop="height" content="415">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SafetyWorks" />
+                                </span>
+                                <a href='x-raw-image:///35a458c9eb6669449ff7bd9fe8b4235532d2371047fba48a38d03fa2cd101496' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Description of Global Harmonization Pictograms">
+                                <img itemprop="contentUrl url" src='x-raw-image:///ec249675c1008275b2bdf5c219ceeb417d75467276f7b8f64ab5f66486abc9bb' alt='Description of Global Harmonization Pictograms'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="415">
+                                <meta itemprop="height" content="415">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SafetyWorks" />
+                                </span>
+                                <a href='x-raw-image:///ec249675c1008275b2bdf5c219ceeb417d75467276f7b8f64ab5f66486abc9bb' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Warning Sign On White Background Stock Illustration - Download ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/968286074/vector/warning-sign-on-white-background.jpg?s=1024x1024&w=is&k=20&c=eAgGNIcuST92JppEr9WFW2CzRw3uKjHZ9OXc4kZm22g=' alt='Warning Sign On White Background Stock Illustration - Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/968286074/vector/warning-sign-on-white-background.jpg?s=1024x1024&w=is&k=20&c=eAgGNIcuST92JppEr9WFW2CzRw3uKjHZ9OXc4kZm22g=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="U602 4 x 4 Exclamation Mark Label">
+                                <img itemprop="contentUrl url" src='https://kspprints.com/wp-content/uploads/2021/01/U602-GHS-Harmful-Symbol-Label.jpg' alt='U602 4 x 4 Exclamation Mark Label'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="904">
+                                <meta itemprop="height" content="904">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KSP Prints" />
+                                </span>
+                                <a href='https://kspprints.com/wp-content/uploads/2021/01/U602-GHS-Harmful-Symbol-Label.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Warning Sign PNG - Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c9/24/74/c92474ca6c6833ae50f0295348244d20.jpg' alt='Warning Sign PNG - Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="724">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c9/24/74/c92474ca6c6833ae50f0295348244d20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="GHS Pictogram Training Cheat Sheet - EHS Daily Advisor">
+                                <img itemprop="contentUrl url" src='https://ehsdailyadvisor.blr.com/app/uploads/sites/2/2012/08/pictogram.png' alt='GHS Pictogram Training Cheat Sheet - EHS Daily Advisor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="786">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EHS Daily Advisor" />
+                                </span>
+                                <a href='https://ehsdailyadvisor.blr.com/app/uploads/sites/2/2012/08/pictogram.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Attention Sign Icon On Red Diamond High-Res Vector Graphic - Getty ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/869741412/vector/attention-sign-icon-on-red-diamond.jpg?s=612x612&w=gi&k=20&c=tnSf3GjOgrCHEINzTpCL1fcN3B7ACPKMQwNflcEeXEs=' alt='Attention Sign Icon On Red Diamond High-Res Vector Graphic - Getty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="287">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/869741412/vector/attention-sign-icon-on-red-diamond.jpg?s=612x612&w=gi&k=20&c=tnSf3GjOgrCHEINzTpCL1fcN3B7ACPKMQwNflcEeXEs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Exclamation Caution Sign Stock Illustrations – 6,883 Red ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/red-exclamation-caution-sign-bright-diamond-shaped-point-45232629.jpg' alt='Red Exclamation Caution Sign Stock Illustrations – 6,883 Red ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/red-exclamation-caution-sign-bright-diamond-shaped-point-45232629.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Warning Icon Exclamation Mark On Rhombus Stock Vector (Royalty ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/warning-sign-icon-design-260nw-1293530956.jpg' alt='Warning Icon Exclamation Mark On Rhombus Stock Vector (Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/warning-sign-icon-design-260nw-1293530956.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Description of Global Harmonization Pictograms">
+                                <img itemprop="contentUrl url" src='x-raw-image:///c13e54dc953f2870a45655e8852e4ba75bdcaee36b0b8862f7ee4786f16624d4' alt='Description of Global Harmonization Pictograms'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="467">
+                                <meta itemprop="height" content="467">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SafetyWorks" />
+                                </span>
+                                <a href='x-raw-image:///c13e54dc953f2870a45655e8852e4ba75bdcaee36b0b8862f7ee4786f16624d4' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

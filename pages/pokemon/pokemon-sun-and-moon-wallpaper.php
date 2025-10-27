@@ -1,0 +1,129 @@
+<title>Stunning Pokémon Sun and Moon Wallpapers for Your Devices</title>
+                    <meta name="description" content="Explore a collection of high-quality Pokémon Sun and Moon wallpapers! Perfect for fans, our vibrant designs enhance your device’s screens. Download now and bring the Alola region and its beloved Pokémon to life with every glance!">
+                    <meta name="keywords" content="pokemon sun and moon wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pokemon">
+                            <span itemprop="name">Pokemon</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pokemon/pokemon-sun-and-moon-wallpaper">
+                            <span itemprop="name">pokemon sun and moon wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Pokémon Sun and Moon Wallpapers for Your Devices</h1>
+                <p>Discover vibrant and captivating Pokémon Sun and Moon wallpaper to energize your screens! Whether you’re Team Solgaleo or Team Lunala, our collection features stunning illustrations of your favorite Pokémon, landscapes, and thrilling battles. Elevate your device's look with high-quality wallpapers that showcase the spirit of Alola!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokémon Sun and Moon Summer Adventure HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/781/thumb-1920-781392.png' alt='Pokémon Sun and Moon Summer Adventure HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1312">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/781/thumb-1920-781392.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pokemon Sun And Moon Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pokemon-sun-and-moon-dyempsv0fvmlpwag.jpg' alt='100+] Pokemon Sun And Moon Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pokemon-sun-and-moon-dyempsv0fvmlpwag.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokémon Sun and Moon: Solgaleo & Lunala HD Wallpaper by Neytirix">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/780/780128.jpg' alt='Pokémon Sun and Moon: Solgaleo & Lunala HD Wallpaper by Neytirix'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1624">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/780/780128.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pokemon sun and moon iphone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/aa/e4/2d/aae42d4559884f29f2f44e3553dd4af0.jpg' alt='pokemon sun and moon iphone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/aa/e4/2d/aae42d4559884f29f2f44e3553dd4af0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Yellow Pokemon Sun And Moon Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/yellow-pokemon-sun-and-moon-gwrgo8ygihxlz7jr.jpg' alt='Download Yellow Pokemon Sun And Moon Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/yellow-pokemon-sun-and-moon-gwrgo8ygihxlz7jr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper game, blue, lion, Pokemon, Pokémon Sun & Moon, Pokémon ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/1/fe/pokemon-sun-and-moon-pokemon-sun-moon-pokemon-pokemon-game-1.webp' alt='Wallpaper game, blue, lion, Pokemon, Pokémon Sun & Moon, Pokémon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/1/fe/pokemon-sun-and-moon-pokemon-sun-moon-pokemon-pokemon-game-1.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokemon Sun And Moon Legendary Fanart Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pokemon-sun-and-moon-legendary-fanart-pep3k4qseuvevijb.jpg' alt='Pokemon Sun And Moon Legendary Fanart Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1560">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pokemon-sun-and-moon-legendary-fanart-pep3k4qseuvevijb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game Pokémon: Sun And Moon Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/671/671673.png' alt='Download Video Game Pokémon: Sun And Moon Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mobile Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/671/671673.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokemon Sun and Moon Wallpaper by PlanetNintendo on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a30c93bf-eb7f-4077-aca3-bfa669d2985d/daospzj-9d037b12-8d60-4399-aedc-2c43e9b86413.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2EzMGM5M2JmLWViN2YtNDA3Ny1hY2EzLWJmYTY2OWQyOTg1ZFwvZGFvc3B6ai05ZDAzN2IxMi04ZDYwLTQzOTktYWVkYy0yYzQzZTliODY0MTMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.mAcObjLmdY1-lDyKqU8MA3tIQ1j7jfbeijbmkicBbD4' alt='Pokemon Sun and Moon Wallpaper by PlanetNintendo on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a30c93bf-eb7f-4077-aca3-bfa669d2985d/daospzj-9d037b12-8d60-4399-aedc-2c43e9b86413.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2EzMGM5M2JmLWViN2YtNDA3Ny1hY2EzLWJmYTY2OWQyOTg1ZFwvZGFvc3B6ai05ZDAzN2IxMi04ZDYwLTQzOTktYWVkYy0yYzQzZTliODY0MTMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.mAcObjLmdY1-lDyKqU8MA3tIQ1j7jfbeijbmkicBbD4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokémon Sun and Moon review | Eurogamer.net">
+                                <img itemprop="contentUrl url" src='https://assetsio.gnwcdn.com/pokemon-sun-and-moon-review-1479217883616.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp' alt='Pokémon Sun and Moon review | Eurogamer.net'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eurogamer" />
+                                </span>
+                                <a href='https://assetsio.gnwcdn.com/pokemon-sun-and-moon-review-1479217883616.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

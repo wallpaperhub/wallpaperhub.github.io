@@ -1,0 +1,129 @@
+<title>Stunning Spider-Man Wallpapers for Your Device</title>
+                    <meta name="description" content="Transform your screen with amazing Spider-Man wallpapers! Explore a collection of vibrant and captivating images featuring the beloved superhero swinging into action. Perfect for all devices, these wallpapers showcase Spider-Man's iconic style and energy, adding a touch of Marvel magic to your day!">
+                    <meta name="keywords" content="cool spider-man wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spider-man">
+                            <span itemprop="name">Spider man</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spider-man/cool-spider-man-wallpaper">
+                            <span itemprop="name">cool spider-man wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Spider-Man Wallpapers for Your Device</h1>
+                <p>Spider-Man fans, get ready to elevate your screens with stunning Spider-Man wallpapers! Discover vivid images featuring your favorite web-slinger in action, showcasing his agility, strength, and iconic red and blue suit. Perfect for phones, tablets, or desktops, these wallpapers let you bring the Marvel superhero into your everyday life!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marvel's Spider-Man 2 Phone Wallpapers : r/SpidermanPS4">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/marvels-spider-man-2-phone-wallpapers-v0-ctt82xl5wbob1.jpg?width=1080&crop=smart&auto=webp&s=e167013f8642cf041e73e0753bb8dc2e26fb73b4' alt='Marvel's Spider-Man 2 Phone Wallpapers : r/SpidermanPS4'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/marvels-spider-man-2-phone-wallpapers-v0-ctt82xl5wbob1.jpg?width=1080&crop=smart&auto=webp&s=e167013f8642cf041e73e0753bb8dc2e26fb73b4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Spider-Man neon wallpaper! : r/Spiderman">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/dr6uqx9qdsa81.jpg' alt='Custom Spider-Man neon wallpaper! : r/Spiderman'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2212">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/dr6uqx9qdsa81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Amazing Spider - Man - Hd Wallpaper Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/the-amazing-spider-man-hd-wallpaper-y877p3kl4we1f4f2.jpg' alt='The Amazing Spider - Man - Hd Wallpaper Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/the-amazing-spider-man-hd-wallpaper-y877p3kl4we1f4f2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Spider Man Cool Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/spider-man-cool-hn7ew1a679keouky.jpg' alt='100+] Spider Man Cool Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/spider-man-cool-hn7ew1a679keouky.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spiderman Coolest Iphone 4K Wallpaper">
+                                <img itemprop="contentUrl url" src='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/spiderman-21_63864204805894.5.jpg' alt='Spiderman Coolest Iphone 4K Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Hackster" />
+                                </span>
+                                <a href='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/spiderman-21_63864204805894.5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spiderman Wallpaper Peel and Stick, Cartoon Spiderman Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18284891/r/il/9284db/6469643791/il_570xN.6469643791_lm91.jpg' alt='Spiderman Wallpaper Peel and Stick, Cartoon Spiderman Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18284891/r/il/9284db/6469643791/il_570xN.6469643791_lm91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spider Man 4K Wallpapers and Backgrounds">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/marvels-spider-man-pc-games-playstation-4-playstation-5--8652.jpg' alt='Spider Man 4K Wallpapers and Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7680">
+                                <meta itemprop="height" content="3292">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/marvels-spider-man-pc-games-playstation-4-playstation-5--8652.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Behind the Scenes: Spider-Man Wallpaper - BlenderNation">
+                                <img itemprop="contentUrl url" src='https://www.blendernation.com/wp-content/uploads/2023/05/Process-2-5.jpg' alt='Behind the Scenes: Spider-Man Wallpaper - BlenderNation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BlenderNation" />
+                                </span>
+                                <a href='https://www.blendernation.com/wp-content/uploads/2023/05/Process-2-5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spiderman In To The Spider Verse Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/spiderman-in-to-the-spider-verse-gat0qlkuy0y6u02l.jpg' alt='Spiderman In To The Spider Verse Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/spiderman-in-to-the-spider-verse-gat0qlkuy0y6u02l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spider Man Wallpaper | Peel and Stick | Kid Room Wallpaper | Wall ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/32690780/r/il/c42c19/4043728511/il_570xN.4043728511_dpyn.jpg' alt='Spider Man Wallpaper | Peel and Stick | Kid Room Wallpaper | Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="457">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/32690780/r/il/c42c19/4043728511/il_570xN.4043728511_dpyn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

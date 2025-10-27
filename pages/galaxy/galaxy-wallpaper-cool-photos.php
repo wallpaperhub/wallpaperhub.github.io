@@ -1,0 +1,129 @@
+<title>Stunning Galaxy Wallpapers: Cool Cosmic Photos</title>
+                    <meta name="description" content="Discover an amazing array of galaxy wallpapers featuring cool cosmic photos. Perfect for your phone or desktop, these stunning images bring the beauty of the universe to your screens. Download your favorites and transform your digital space with vibrant colors and mesmerizing celestial scenes!">
+                    <meta name="keywords" content="galaxy wallpaper cool photos">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy">
+                            <span itemprop="name">Galaxy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy/galaxy-wallpaper-cool-photos">
+                            <span itemprop="name">galaxy wallpaper cool photos</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Galaxy Wallpapers: Cool Cosmic Photos</h1>
+                <p>Explore a breathtaking collection of galaxy wallpaper cool photos that transport you to the cosmos! Featuring vibrant nebulae, swirling stars, and distant planets, these stunning visuals will enhance your digital devices and spark your imagination. Perfect for space enthusiasts and anyone seeking inspiration from the universe!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cool Galaxy Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cool-galaxy-y23382ubkv9y1j7k.jpg' alt='100+] Cool Galaxy Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cool-galaxy-y23382ubkv9y1j7k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Wolf Electric Animal Wallpaper Galaxy Case">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/medium/2/cool-wolf-electric-animal-wallpaper-ad-salaheddine.jpg' alt='Cool Wolf Electric Animal Wallpaper Galaxy Case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="430">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixels" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/medium/2/cool-wolf-electric-animal-wallpaper-ad-salaheddine.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Galaxy Wallpapers Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/mesmerizing-vibrant-nebula-with-celestial-planets-cosmic-elements_994764-154605.jpg?semt=ais_hybrid' alt='Cool Galaxy Wallpapers Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="351">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/mesmerizing-vibrant-nebula-with-celestial-planets-cosmic-elements_994764-154605.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Cool Backgrounds Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-painted-watercolor-galaxy-background_52683-63441.jpg' alt='Galaxy Cool Backgrounds Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-painted-watercolor-galaxy-background_52683-63441.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Dreamy Galaxy Spiral Over Wolf Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/super-cool-galaxy-gorgeous-wolf-art-7m0ce75lec9exa91.webp' alt='Cool Dreamy Galaxy Spiral Over Wolf Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/super-cool-galaxy-gorgeous-wolf-art-7m0ce75lec9exa91.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300,000+ Stunning Galaxy Wallpapers [HD] - Pixabay">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2022/01/20/03/23/space-6951379_640.jpg' alt='300,000+ Stunning Galaxy Wallpapers [HD] - Pixabay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2022/01/20/03/23/space-6951379_640.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="▷ 1001+ ideas for a cool galaxy wallpaper for your phone and desktop">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f4/a6/ed/f4a6ed88be2927742b32624b1b0af0fd.jpg' alt='▷ 1001+ ideas for a cool galaxy wallpaper for your phone and desktop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1244">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f4/a6/ed/f4a6ed88be2927742b32624b1b0af0fd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD coolest galaxy wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/883/693/HD-wallpaper-coolest-galaxy-golden-thumbnail.jpg' alt='HD coolest galaxy wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="548">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/883/693/HD-wallpaper-coolest-galaxy-golden-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Galaxy Art Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cool-galaxy-art-nlolxseor142gqb2.jpg' alt='Cool Galaxy Art Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1244">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cool-galaxy-art-nlolxseor142gqb2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Infinite Space Phone Wallpaper I Galaxy Wallpaper | Digital Download |  iPhone Wallpaper Digital Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38617086/r/il/7ebdd4/4986071287/il_570xN.4986071287_k1g3.jpg' alt='Infinite Space Phone Wallpaper I Galaxy Wallpaper | Digital Download |  iPhone Wallpaper Digital Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38617086/r/il/7ebdd4/4986071287/il_570xN.4986071287_k1g3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

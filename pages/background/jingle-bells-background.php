@@ -1,0 +1,129 @@
+<title>"Jingle Bells: The Festive Cheer Behind the Classic Tune"</title>
+                    <meta name="description" content="Discover the history and festive spirit of "Jingle Bells," a timeless holiday song that captures the joy of winter celebrations. Explore its origins, musical charm, and the warmth it brings to holiday gatherings. Perfect for getting into the Christmas spirit!">
+                    <meta name="keywords" content="jingle bells background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/jingle-bells-background">
+                            <span itemprop="name">jingle bells background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Jingle Bells: The Festive Cheer Behind the Classic Tune"</h1>
+                <p>"Jingle Bells" is a classic holiday song, first penned in 1857 by James Lord Pierpont. Its cheerful melody evokes images of winter fun and festive spirit, making it a staple in holiday celebrations. The song's catchy rhythm and joyful lyrics capture the essence of sleigh rides and togetherness during the Christmas season, creating an inviting atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,400+ Jingle Bells Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/134987274/vector/christmas-background-with-bells-and-decorative-bow.jpg?s=612x612&w=0&k=20&c=Qfrrt6b8bjxVVcTj-VQ15f2ywS57fPPxOO8jAyvbtMI=' alt='3,400+ Jingle Bells Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="462">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/134987274/vector/christmas-background-with-bells-and-decorative-bow.jpg?s=612x612&w=0&k=20&c=Qfrrt6b8bjxVVcTj-VQ15f2ywS57fPPxOO8jAyvbtMI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,300+ Christmas Sleigh Bells Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/872112612/photo/jingle-bells-close-up-christmas-background.jpg?s=612x612&w=0&k=20&c=27H78Qu9iKoss_m07KxO58bwOCSbC0vUdARnD_G7Hdo=' alt='1,300+ Christmas Sleigh Bells Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="406">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/872112612/photo/jingle-bells-close-up-christmas-background.jpg?s=612x612&w=0&k=20&c=27H78Qu9iKoss_m07KxO58bwOCSbC0vUdARnD_G7Hdo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="500 Rustic Bells Jingle Christmas Background Stock Photos - Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/rustic-table-adorned-golden-jingle-bells-red-ribbons-pine-cones-creating-festive-christmas-new-year-background-banner-337644974.jpg' alt='500 Rustic Bells Jingle Christmas Background Stock Photos - Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/rustic-table-adorned-golden-jingle-bells-red-ribbons-pine-cones-creating-festive-christmas-new-year-background-banner-337644974.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jingle Bells Blue Background Photos and Images">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/737302909/display_1500/stock-photo-silver-jingle-bells-with-christmas-tree-branches-and-decoration-on-blue-background-closeup-view-737302909.jpg' alt='Jingle Bells Blue Background Photos and Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1101">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/737302909/display_1500/stock-photo-silver-jingle-bells-with-christmas-tree-branches-and-decoration-on-blue-background-closeup-view-737302909.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jingle bell in christmas background Royalty Free Vector">
+                                <img itemprop="contentUrl url" src='https://cdn1.vectorstock.com/i/1000x1000/74/15/jingle-bell-in-christmas-background-vector-1717415.jpg' alt='Jingle bell in christmas background Royalty Free Vector'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn1.vectorstock.com/i/1000x1000/74/15/jingle-bell-in-christmas-background-vector-1717415.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jingle Bells Images – Browse 164,345 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/09/56/25/86/360_F_956258654_G8hbAHUl8kZ41JF20zHjFJCs1OQYxBg8.jpg' alt='Jingle Bells Images – Browse 164,345 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/09/56/25/86/360_F_956258654_G8hbAHUl8kZ41JF20zHjFJCs1OQYxBg8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ShareFaith Media » Jingle Bells Background Slide – ShareFaith Media">
+                                <img itemprop="contentUrl url" src='https://mlqbbna2acyz.i.optimole.com/w:300/h:225/q:mauto/f:best/https://media.sharefaith.com/wp-content/uploads/2022/11/1322970087251_10402.jpg' alt='ShareFaith Media » Jingle Bells Background Slide – ShareFaith Media'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareFaith Media" />
+                                </span>
+                                <a href='https://mlqbbna2acyz.i.optimole.com/w:300/h:225/q:mauto/f:best/https://media.sharefaith.com/wp-content/uploads/2022/11/1322970087251_10402.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,500+ Jingle Bell Close Up Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1063596364/photo/festive-christmas-jingle-bells-on-grey-background-with-blurred-garland-lights.jpg?s=612x612&w=0&k=20&c=DIp00XdRUfcvVNeRnpwxN8mkbyYaznIJL-fAR5NXOus=' alt='2,500+ Jingle Bell Close Up Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1063596364/photo/festive-christmas-jingle-bells-on-grey-background-with-blurred-garland-lights.jpg?s=612x612&w=0&k=20&c=DIp00XdRUfcvVNeRnpwxN8mkbyYaznIJL-fAR5NXOus=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jingle bells with red ribbon bow on festive background Stock Photo ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/DJ5A86/jingle-bells-with-red-ribbon-bow-on-festive-background-DJ5A86.jpg' alt='Jingle bells with red ribbon bow on festive background Stock Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="956">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/DJ5A86/jingle-bells-with-red-ribbon-bow-on-festive-background-DJ5A86.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red gold christmas ball with glow bokeh background">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/028/670/841/large/red-gold-christmas-ball-with-glow-bokeh-background-video.jpg' alt='Red gold christmas ball with glow bokeh background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/028/670/841/large/red-gold-christmas-ball-with-glow-bokeh-background-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

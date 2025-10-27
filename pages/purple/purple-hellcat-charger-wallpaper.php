@@ -1,0 +1,129 @@
+<title>Stunning Purple Hellcat Charger Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover the best purple Hellcat Charger wallpapers to elevate your device's aesthetic. Vibrant and stylish, these wallpapers reflect the power and design of this iconic muscle car. Perfect for fans and car lovers, find the ideal backdrop for your screens today!">
+                    <meta name="keywords" content="purple hellcat charger wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/purple-hellcat-charger-wallpaper">
+                            <span itemprop="name">purple hellcat charger wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Purple Hellcat Charger Wallpapers for Your Device</h1>
+                <p>Transform your device with stunning purple Hellcat Charger wallpapers! Featuring sleek designs and vibrant colors, these wallpapers showcase the power and elegance of this iconic muscle car. Perfect for car enthusiasts or anyone looking to add a touch of ferocity and style to their screens. Download your favorite now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dodge-Charger-RT-Muscle-Crystal-City-Car-2015-Violet-Neon-3D-HD ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/36/45/02/3645023a68fd30d13510ba93c5766aa0.jpg' alt='Dodge-Charger-RT-Muscle-Crystal-City-Car-2015-Violet-Neon-3D-HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/36/45/02/3645023a68fd30d13510ba93c5766aa0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Dodge Hellcat iPhone Wallpaper HD">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ec/d9/4b/ecd94b0a4b2c3f6b5ba25a74f1a638b2.jpg' alt='Purple Dodge Hellcat iPhone Wallpaper HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ec/d9/4b/ecd94b0a4b2c3f6b5ba25a74f1a638b2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Purple Hellcat Charger Night Cityscape Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/high/purple-hellcat-charger-night-cityscape-0wrgrz86dwjfre71.jpg' alt='Download Purple Hellcat Charger Night Cityscape Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="504">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/high/purple-hellcat-charger-night-cityscape-0wrgrz86dwjfre71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/da/87/cc/da87cc484d20549f79ba04b4f6e506f0.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/da/87/cc/da87cc484d20549f79ba04b4f6e506f0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dodge Charger iPhone Wallpapers - Top Free Dodge Charger iPhone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/58/b6/f5/58b6f51b81b47b94d9883257e1d31755.jpg' alt='Dodge Charger iPhone Wallpapers - Top Free Dodge Charger iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/58/b6/f5/58b6f51b81b47b94d9883257e1d31755.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dodge | Not known for blending in.    #Dodge #Charger ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3084400495942460466' alt='Dodge | Not known for blending in.    #Dodge #Charger ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3084400495942460466' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Hellcat Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11873762.jpg' alt='Purple Hellcat Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11873762.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SuperchargedSunday Dodge Charger SRT Hellcat.   : @srt.bighomie ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/c10bbabaa216f6ea6d51f8cd68a17ced/31bf82cb012225a9-c3/s1280x1920/4475d0e59a01c01c5dfb367ca3dd7937462dc0b3.jpg' alt='SuperchargedSunday Dodge Charger SRT Hellcat.   : @srt.bighomie ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="932">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/c10bbabaa216f6ea6d51f8cd68a17ced/31bf82cb012225a9-c3/s1280x1920/4475d0e59a01c01c5dfb367ca3dd7937462dc0b3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dodge Charger, automotive lighting, sky, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/894/238/HD-wallpaper-dodge-charger-automotive-lighting-sky.jpg' alt='Dodge Charger, automotive lighting, sky, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/894/238/HD-wallpaper-dodge-charger-automotive-lighting-sky.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Stunning Dodge Charger Wallpapers to Beautify Your Desktop"">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/58/b1/fd/58b1fdf43312fd03b3b6e5d359ffd496.jpg' alt='10 Stunning Dodge Charger Wallpapers to Beautify Your Desktop"'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/58/b1/fd/58b1fdf43312fd03b3b6e5d359ffd496.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

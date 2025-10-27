@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="nether background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/nether-background">
+                            <span itemprop="name">nether background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Render] Welcome to the Nether, we've got fun and games! : r/Minecraft">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/ESSabRPUaDj-4sTgD4cwDdihFIs1L0fCuB-ZqPCYcWo.jpg?auto=webp&s=9877e45259298aedb2271b9be97ff99e942b28d7' alt='Render] Welcome to the Nether, we've got fun and games! : r/Minecraft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/ESSabRPUaDj-4sTgD4cwDdihFIs1L0fCuB-ZqPCYcWo.jpg?auto=webp&s=9877e45259298aedb2271b9be97ff99e942b28d7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nether: The 1.20 Nether Title Screen Background Minecraft Texture Pack">
+                                <img itemprop="contentUrl url" src='https://static.planetminecraft.com/files/image/minecraft/texture-pack/2023/605/17231286_l.webp' alt='Nether: The 1.20 Nether Title Screen Background Minecraft Texture Pack'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Planet Minecraft" />
+                                </span>
+                                <a href='https://static.planetminecraft.com/files/image/minecraft/texture-pack/2023/605/17231286_l.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minecraft Nether wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9e/52/45/9e5245c76bd012bc89da97e70c6bb87a.jpg' alt='Minecraft Nether wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="734">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9e/52/45/9e5245c76bd012bc89da97e70c6bb87a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Nether - Minecraft Resource Pack">
+                                <img itemprop="contentUrl url" src='https://cdn.modrinth.com/data/9YabX8Vy/images/10f9e3c98388fd91186239010e2dfaf61950f484.png' alt='Background Nether - Minecraft Resource Pack'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Modrinth" />
+                                </span>
+                                <a href='https://cdn.modrinth.com/data/9YabX8Vy/images/10f9e3c98388fd91186239010e2dfaf61950f484.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nether wallpaper breakdown. | Hypixel Forums">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/h0AqxMp.png' alt='Nether wallpaper breakdown. | Hypixel Forums'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hypixel" />
+                                </span>
+                                <a href='https://i.imgur.com/h0AqxMp.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minecraft nether looking background Royalty Free Vector">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/86/15/minecraft-nether-looking-background-vector-42438615.jpg' alt='Minecraft nether looking background Royalty Free Vector'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="998">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/86/15/minecraft-nether-looking-background-vector-42438615.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Take On The Nether (OC) (Art) (Wallpaper?) : r/Minecraft">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/6ap61ljggoz31.jpg' alt='My Take On The Nether (OC) (Art) (Wallpaper?) : r/Minecraft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/6ap61ljggoz31.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heres the nether biomes a custom shaderpack i designed : r/Minecraft">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/ktv8h9uheqw61.jpg?width=640&crop=smart&auto=webp&s=d56bcf0e087a3b99c0eb8ea11c5c52731444592f' alt='Heres the nether biomes a custom shaderpack i designed : r/Minecraft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/ktv8h9uheqw61.jpg?width=640&crop=smart&auto=webp&s=d56bcf0e087a3b99c0eb8ea11c5c52731444592f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Explore the Nether in 4K - Download Minecraft Wallpaper!">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/133/1333795.jpeg' alt='Explore the Nether in 4K - Download Minecraft Wallpaper!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/133/1333795.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minecraft Nether Update - Official Trailer">
+                                <img itemprop="contentUrl url" src='https://images.prismic.io/svep/5dbca8e6-cdf9-4520-8a97-ac28afcd62fc_minecraft-nether_1920x1080_work_15.jpg?auto=compress,format' alt='Minecraft Nether Update - Official Trailer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Svep Studios" />
+                                </span>
+                                <a href='https://images.prismic.io/svep/5dbca8e6-cdf9-4520-8a97-ac28afcd62fc_minecraft-nether_1920x1080_work_15.jpg?auto=compress,format' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

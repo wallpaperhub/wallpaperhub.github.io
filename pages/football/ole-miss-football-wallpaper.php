@@ -1,0 +1,129 @@
+<title>Ole Miss Football Wallpaper: Show Your Team Spirit</title>
+                    <meta name="description" content="Discover vibrant Ole Miss football wallpapers to elevate your device's background! Perfect for keeping your team spirit alive, these wallpapers feature iconic designs and colors. Download now and represent your favorite college football team in style!">
+                    <meta name="keywords" content="ole miss football wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/football">
+                            <span itemprop="name">Football</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/football/ole-miss-football-wallpaper">
+                            <span itemprop="name">ole miss football wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ole Miss Football Wallpaper: Show Your Team Spirit</h1>
+                <p>Enhance your device's look with stunning Ole Miss football wallpapers! Featuring vibrant team colors and iconic imagery, these wallpapers capture the spirit of Game Day. Perfect for fans who want to showcase their pride. Download your favorite Ole Miss designs and stay connected to your team wherever you go!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ole Miss Wallpaper - Ole Miss News">
+                                <img itemprop="contentUrl url" src='https://news.olemiss.edu/download/wallpaper/iphonewp/iPhoneFootball.jpg' alt='Ole Miss Wallpaper - Ole Miss News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ole Miss News" />
+                                </span>
+                                <a href='https://news.olemiss.edu/download/wallpaper/iphonewp/iPhoneFootball.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ole Miss Wallpaper - Ole Miss News">
+                                <img itemprop="contentUrl url" src='https://news.olemiss.edu/download/wallpaper/1280Football.jpg' alt='Ole Miss Wallpaper - Ole Miss News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ole Miss News" />
+                                </span>
+                                <a href='https://news.olemiss.edu/download/wallpaper/1280Football.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Football Wallpapers - Ole Miss Athletics - Hotty Toddy">
+                                <img itemprop="contentUrl url" src='https://olemisssports.com/images/2021/8/10/D101642_wallpaper4.jpg' alt='Football Wallpapers - Ole Miss Athletics - Hotty Toddy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ole Miss Athletics" />
+                                </span>
+                                <a href='https://olemisssports.com/images/2021/8/10/D101642_wallpaper4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who needs new wallpaper for their... - Ole Miss Football | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3072585736085198' alt='Who needs new wallpaper for their... - Ole Miss Football | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3072585736085198' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ole Miss Athletics on X: "PSA: Don't forget to update your phone ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/GWQgqKHXkAAe62S?format=jpg&name=4096x4096' alt='Ole Miss Athletics on X: "PSA: Don't forget to update your phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1179">
+                                <meta itemprop="height" content="2556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/GWQgqKHXkAAe62S?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ole Miss Football on X: "New lock screen, #SharkWeek edition ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FYr98BvUYAA8PTc?format=jpg&name=4096x4096' alt='Ole Miss Football on X: "New lock screen, #SharkWeek edition ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FYr98BvUYAA8PTc?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Replying to @Maybe Bexk   How far will Jaxson Dart take the Rebels this  season?? #tuff #graphicdesign #sports #sportsgraphics #football  #olemissfootball #collegefootball #collegefootball25 #foryoupage ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7388929419223633195&location=0&aid=1988' alt='Replying to @Maybe Bexk   How far will Jaxson Dart take the Rebels this  season?? #tuff #graphicdesign #sports #sportsgraphics #football  #olemissfootball #collegefootball #collegefootball25 #foryoupage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7388929419223633195&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ole Miss Football Recruiting :: Behance">
+                                <img itemprop="contentUrl url" src='https://mir-s3-cdn-cf.behance.net/project_modules/1400/efdcd8150324881.62fb0a06178ab.png' alt='Ole Miss Football Recruiting :: Behance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Behance" />
+                                </span>
+                                <a href='https://mir-s3-cdn-cf.behance.net/project_modules/1400/efdcd8150324881.62fb0a06178ab.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="27,883 Ole Miss Football Stock Photos, High-Res Pictures, and ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1929050893/photo/dec-30-chick-fil-a-peach-bowl-ole-miss-vs-penn-state.jpg?s=594x594&w=gi&k=20&c=I0NsIBzlH96VgtJVICVHgqi3YQw5BQgJgYq2A2x1DV0=' alt='27,883 Ole Miss Football Stock Photos, High-Res Pictures, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="594">
+                                <meta itemprop="height" content="396">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1929050893/photo/dec-30-chick-fil-a-peach-bowl-ole-miss-vs-penn-state.jpg?s=594x594&w=gi&k=20&c=I0NsIBzlH96VgtJVICVHgqi3YQw5BQgJgYq2A2x1DV0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Cage Dive: Ole Miss smoked 'em cause they had 'em - Red Cup ...">
+                                <img itemprop="contentUrl url" src='https://cdn.vox-cdn.com/thumbor/fFlNaNm4yXYWvTmt8lOfM84QBeY=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/22127807/En9C3wOVcAAs_2u.jpg' alt='The Cage Dive: Ole Miss smoked 'em cause they had 'em - Red Cup ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Red Cup Rebellion" />
+                                </span>
+                                <a href='https://cdn.vox-cdn.com/thumbor/fFlNaNm4yXYWvTmt8lOfM84QBeY=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/22127807/En9C3wOVcAAs_2u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

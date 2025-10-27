@@ -1,0 +1,129 @@
+<title>Thinking Emoji PNG: Curiosity in Design</title>
+                    <meta name="description" content="Explore the thinking emoji PNG for your creative projects! This versatile graphic adds a playful touch to your designs with its transparent background. Perfect for social media, blogs, and more. Download now to enhance your visual content effortlessly!">
+                    <meta name="keywords" content="thinking emoji png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/thinking-emoji-png">
+                            <span itemprop="name">thinking emoji png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Thinking Emoji PNG: Curiosity in Design</h1>
+                <p>Discover the versatility of the thinking emoji PNG! Perfect for adding a touch of curiosity and contemplation to your designs, presentations, or digital communications. This transparent background image is ideal for enhancing social media posts, blogs, and creative projects. Explore various styles and sizes to suit your needs!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thinking Emoji [Free Download IOS Emojis]">
+                                <img itemprop="contentUrl url" src='https://emojiisland.com/cdn/shop/products/Emoji_Icon_-_Thinking_large.png?v=1571606093' alt='Thinking Emoji [Free Download IOS Emojis]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Emoji Island" />
+                                </span>
+                                <a href='https://emojiisland.com/cdn/shop/products/Emoji_Icon_-_Thinking_large.png?v=1571606093' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="thinking face" Emoji - Download for free – Iconduck">
+                                <img itemprop="contentUrl url" src='https://static-00.iconduck.com/assets.00/thinking-face-emoji-1935x2048-ul7zt5ry.png' alt='thinking face" Emoji - Download for free – Iconduck'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1935">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Iconduck" />
+                                </span>
+                                <a href='https://static-00.iconduck.com/assets.00/thinking-face-emoji-1935x2048-ul7zt5ry.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emoticon Thinking transparent PNG - StickPNG">
+                                <img itemprop="contentUrl url" src='https://assets.stickpng.com/images/580b57fcd9996e24bc43c4bf.png' alt='Emoticon Thinking transparent PNG - StickPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="389">
+                                <meta itemprop="height" content="321">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StickPNG" />
+                                </span>
+                                <a href='https://assets.stickpng.com/images/580b57fcd9996e24bc43c4bf.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thinking Emoji png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/559/311/png-clipart-thinking-emoji-sticker-thought-emoticon-emoji-orange-smiley-thumbnail.png' alt='Thinking Emoji png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="348">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/559/311/png-clipart-thinking-emoji-sticker-thought-emoticon-emoji-orange-smiley-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thinking Face Emoji PNG Transparent Images Free Download | Vector ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20240722/ourmid/pngtree-thinking-face-emoji-realistic-3d-png-image_13214138.png' alt='Thinking Face Emoji PNG Transparent Images Free Download | Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20240722/ourmid/pngtree-thinking-face-emoji-realistic-3d-png-image_13214138.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thinking Emoji iOS | Mounted Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.1446951754.5588/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Thinking Emoji iOS | Mounted Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.1446951754.5588/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Serious Thinking Face Emoji - Serious Thinking Emoji with ...">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180606/joe/aa9vjrh21.webp' alt='Serious Thinking Face Emoji - Serious Thinking Emoji with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180606/joe/aa9vjrh21.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thinking Emoji PNG">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/78/57/ca/7857ca4f291f365b52b73426becb1898.jpg' alt='Thinking Emoji PNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="458">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/78/57/ca/7857ca4f291f365b52b73426becb1898.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="View Samegoogleiqdbsaucenao Thonk , - Thinking Emoji Png - Free ...">
+                                <img itemprop="contentUrl url" src='https://www.pngkey.com/png/detail/14-148559_view-samegoogleiqdbsaucenao-thonk-thinking-emoji-png.png' alt='View Samegoogleiqdbsaucenao Thonk , - Thinking Emoji Png - Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="820">
+                                <meta itemprop="height" content="717">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGkey" />
+                                </span>
+                                <a href='https://www.pngkey.com/png/detail/14-148559_view-samegoogleiqdbsaucenao-thonk-thinking-emoji-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thinking Emoji, Thinking, Emoticons, Expression PNG Transparent ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20230109/original/pngtree-thinking-emoji-png-image_8891435.png' alt='Thinking Emoji, Thinking, Emoticons, Expression PNG Transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20230109/original/pngtree-thinking-emoji-png-image_8891435.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

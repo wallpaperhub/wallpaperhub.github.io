@@ -1,0 +1,129 @@
+<title>Vibrant Yellow and Black Wallpaper for a Bold Look</title>
+                    <meta name="description" content="Discover striking yellow and black wallpaper designs that add flair to your space. Perfect for modern interiors, these bold patterns create an eye-catching focal point. Transform your home or office with this dynamic wallpaper choice that blends style and sophistication effortlessly.">
+                    <meta name="keywords" content="yellow and black wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/yellow-and-black-wallpaper">
+                            <span itemprop="name">yellow and black wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Yellow and Black Wallpaper for a Bold Look</h1>
+                <p>Yellow and black wallpaper combines boldness and elegance, creating a striking backdrop for any room. Ideal for modern and contemporary settings, this eye-catching design can enhance accent walls, adding depth and character. Whether for a home office, bedroom, or living area, yellow and black wallpaper makes an impactful statement.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black And Yellow [wallpaper] Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/black-and-yellow-wallpaper-ifgw4o2oi6blbk2t.jpg' alt='Black And Yellow [wallpaper] Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/black-and-yellow-wallpaper-ifgw4o2oi6blbk2t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="yellow wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/72/7a/96/727a96feb294ec0990b32145baa80157.jpg' alt='yellow wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/72/7a/96/727a96feb294ec0990b32145baa80157.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black And Yellow [wallpaper] Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/black-and-yellow-wallpaper-e1vu7pgkmasxmpp9.jpg' alt='Black And Yellow [wallpaper] Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/black-and-yellow-wallpaper-e1vu7pgkmasxmpp9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13 Black & Yellow Wallpapers ideas | yellow wallpaper, graphic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/c8/eb/ae/c8ebaec65fe02bb98263826651b20891.jpg' alt='13 Black & Yellow Wallpapers ideas | yellow wallpaper, graphic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/c8/eb/ae/c8ebaec65fe02bb98263826651b20891.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Yellow Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/black-yellow-grunge-background_1409-1587.jpg' alt='Black Yellow Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="368">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/black-yellow-grunge-background_1409-1587.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Tech style seamlesas endless image black yellow geometric  design Canvas Wallpaper Print Self Adhesive Peel & Stick Wallpaper Wall  Mural ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71t7ZjwjS4L._AC_UF894,1000_QL80_.jpg' alt='Amazon.com: Tech style seamlesas endless image black yellow geometric  design Canvas Wallpaper Print Self Adhesive Peel & Stick Wallpaper Wall  Mural ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="671">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71t7ZjwjS4L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers - Yellow Abstract Polygons (Black BG) by kaminohunter ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dce3647b-6179-463c-b4c8-bd642f5bb216/da4f4ln-dc0b0a30-923c-4e38-86bb-b6498de9c9cb.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RjZTM2NDdiLTYxNzktNDYzYy1iNGM4LWJkNjQyZjViYjIxNlwvZGE0ZjRsbi1kYzBiMGEzMC05MjNjLTRlMzgtODZiYi1iNjQ5OGRlOWM5Y2IucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.telxruGTVcW0ECkGD90NJLRU9hvFmeM40x6NDCcAfu4' alt='Wallpapers - Yellow Abstract Polygons (Black BG) by kaminohunter ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dce3647b-6179-463c-b4c8-bd642f5bb216/da4f4ln-dc0b0a30-923c-4e38-86bb-b6498de9c9cb.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RjZTM2NDdiLTYxNzktNDYzYy1iNGM4LWJkNjQyZjViYjIxNlwvZGE0ZjRsbi1kYzBiMGEzMC05MjNjLTRlMzgtODZiYi1iNjQ5OGRlOWM5Y2IucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.telxruGTVcW0ECkGD90NJLRU9hvFmeM40x6NDCcAfu4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black And Yellow [wallpaper] Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/black-and-yellow-wallpaper-hmqn620e8tufkthr.webp' alt='Black And Yellow [wallpaper] Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/black-and-yellow-wallpaper-hmqn620e8tufkthr.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black And Yellow Background Images, HD Pictures and Wallpaper For ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20210316/pngtree-black-yellow-banner-grunge-background-image_588225.jpg' alt='Black And Yellow Background Images, HD Pictures and Wallpaper For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="504">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20210316/pngtree-black-yellow-banner-grunge-background-image_588225.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Yellow And Black Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/yellow-and-black-background-1600-x-1200-u6twxsrgssckfhjf.jpg' alt='100+] Yellow And Black Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/yellow-and-black-background-1600-x-1200-u6twxsrgssckfhjf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

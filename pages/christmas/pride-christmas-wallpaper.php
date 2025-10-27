@@ -1,0 +1,129 @@
+<title>Festive Pride Christmas Wallpaper for a Colorful Holiday</title>
+                    <meta name="description" content="Discover the perfect Pride Christmas wallpaper to brighten your home this festive season. Celebrate love and diversity with stylish designs that bring joy and warmth to your holiday decor. Perfect for all spaces, embrace the spirit of the season with a splash of pride!">
+                    <meta name="keywords" content="pride christmas wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/pride-christmas-wallpaper">
+                            <span itemprop="name">pride christmas wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Festive Pride Christmas Wallpaper for a Colorful Holiday</h1>
+                <p>Transform your space this holiday season with vibrant Pride Christmas wallpaper! Celebrate diversity and inclusivity while adorning your walls with festive designs that reflect both your holiday spirit and your pride. These wallpapers come in a variety of colors and patterns, perfect for creating a warm, welcoming atmosphere for family and friends.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Pride Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/c9/7d/f1/c97df12d81571d1f105f487038ac5a34.jpg' alt='Christmas Pride Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/c9/7d/f1/c97df12d81571d1f105f487038ac5a34.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="460+ Lgbt Christmas Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1436431486/vector/pride-christmas-holiday-background.jpg?s=612x612&w=0&k=20&c=Psc5Z3zpxkVWyRzHQuFJUcEDj-KniVKCgjYhOaC8Jyc=' alt='460+ Lgbt Christmas Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="437">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1436431486/vector/pride-christmas-holiday-background.jpg?s=612x612&w=0&k=20&c=Psc5Z3zpxkVWyRzHQuFJUcEDj-KniVKCgjYhOaC8Jyc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Pride Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/00/8a/62/008a62f32e7420eb9125cb3d0b211768.jpg' alt='Christmas Pride Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/00/8a/62/008a62f32e7420eb9125cb3d0b211768.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow christmas trees lgbt pride gay lgbtq Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/60/76/rainbow-christmas-trees-lgbt-pride-gay-lgbtq-vector-40216076.jpg' alt='Rainbow christmas trees lgbt pride gay lgbtq Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="780">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/60/76/rainbow-christmas-trees-lgbt-pride-gay-lgbtq-vector-40216076.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gay Christmas Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/13462026/p/f/m/RGDbpqjA63LERgKnTlbl-BaBYWe-I-8XoZ4L8nTm2abF9g75cVStwuH1AKE-/Cute%20pride%20Santa%20Claus%20blush%20pink%20rainbow%20Santa%20hat.jpg' alt='Gay Christmas Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/13462026/p/f/m/RGDbpqjA63LERgKnTlbl-BaBYWe-I-8XoZ4L8nTm2abF9g75cVStwuH1AKE-/Cute%20pride%20Santa%20Claus%20blush%20pink%20rainbow%20Santa%20hat.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Pride Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11767866.jpg' alt='Christmas Pride Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="833">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11767866.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Pride Place - Download our first Christmas wallpaper... | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=183885569950381' alt='My Pride Place - Download our first Christmas wallpaper... | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=183885569950381' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Personalized Pride Flags! — Christmas based Gay desktop background ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/52462aeab0e55185b3d27eeff1639a6a/a3d580cb80febdcd-e8/s1280x1920/e19534e0744ff3c57cc910ae756e37fbe1acef45.jpg' alt='Personalized Pride Flags! — Christmas based Gay desktop background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Personalized Pride Flags! - Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/52462aeab0e55185b3d27eeff1639a6a/a3d580cb80febdcd-e8/s1280x1920/e19534e0744ff3c57cc910ae756e37fbe1acef45.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pride Christmas Stock Illustrations – 6,562 Pride Christmas Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/gay-pride-flag-christmas-tree-card-2-3706519.jpg' alt='Pride Christmas Stock Illustrations – 6,562 Pride Christmas Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/gay-pride-flag-christmas-tree-card-2-3706519.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gay Christmas Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/13462063/p/f/m/AwthRb5POrKWCdOQmBALtOk_F84M5pnDTLcIeRFP8I1AAl_2g2LL_WzW5A/Cool%20Pride%20Santa%20Claus%20with%20sunglasses%20green.jpg' alt='Gay Christmas Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/13462063/p/f/m/AwthRb5POrKWCdOQmBALtOk_F84M5pnDTLcIeRFP8I1AAl_2g2LL_WzW5A/Cool%20Pride%20Santa%20Claus%20with%20sunglasses%20green.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

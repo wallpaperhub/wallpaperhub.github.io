@@ -1,0 +1,129 @@
+<title>Jordan Poole: Rising Star of the NBA</title>
+                    <meta name="description" content="Explore Jordan Poole's journey in the NBA, where his explosive talent and leadership are reshaping the game. Discover his impressive skills, unforgettable moments, and how he’s becoming a crucial asset for the Golden State Warriors. Stay updated on his progress and future in basketball!">
+                    <meta name="keywords" content="jordan poole">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/jordan-poole">
+                            <span itemprop="name">jordan poole</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Jordan Poole: Rising Star of the NBA</h1>
+                <p>Jordan Poole, a standout guard for the Golden State Warriors, has rapidly become a fan favorite with his explosive scoring ability and clutch performances. Rising from a young prospect to a pivotal player, Poole’s energy and skill on the court showcase his potential. With his impressive shooting and playmaking, he continues to impact games significantly.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jordan Poole - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/1_jordan_poole_2024.jpg/800px-1_jordan_poole_2024.jpg' alt='Jordan Poole - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/1_jordan_poole_2024.jpg/800px-1_jordan_poole_2024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jordan Poole | Guard | Washington Wizards | NBA.com">
+                                <img itemprop="contentUrl url" src='https://cdn.nba.com/headshots/nba/latest/1040x760/1629673.png' alt='Jordan Poole | Guard | Washington Wizards | NBA.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1040">
+                                <meta itemprop="height" content="760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBA" />
+                                </span>
+                                <a href='https://cdn.nba.com/headshots/nba/latest/1040x760/1629673.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jordan Poole | Basketball Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/nba/images/7/7d/Jordan_Poole_%282024%29.jpeg/revision/latest?cb=20240519040922' alt='Jordan Poole | Basketball Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="562">
+                                <meta itemprop="height" content="783">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Basketball Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/nba/images/7/7d/Jordan_Poole_%282024%29.jpeg/revision/latest?cb=20240519040922' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="23 Season Review: How Jordan Poole's Warriors tenure ended">
+                                <img itemprop="contentUrl url" src='https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9ca5456-7ff5-403e-b3b0-8aab0170f2a6_1280x720.png' alt='23 Season Review: How Jordan Poole's Warriors tenure ended'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dub Nation HQ" />
+                                </span>
+                                <a href='https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9ca5456-7ff5-403e-b3b0-8aab0170f2a6_1280x720.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jordan Poole's Current Injury Status For Clippers-Wizards Game">
+                                <img itemprop="contentUrl url" src='https://images2.minutemediacdn.com/image/upload/c_crop,w_3770,h_2120,x_0,y_0/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/fastbreak/01jdqkwzrd0yvfhef4w3.jpg' alt='Jordan Poole's Current Injury Status For Clippers-Wizards Game'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Illustrated" />
+                                </span>
+                                <a href='https://images2.minutemediacdn.com/image/upload/c_crop,w_3770,h_2120,x_0,y_0/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/fastbreak/01jdqkwzrd0yvfhef4w3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jordan Poole | NBA 2K Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/nba2k/images/9/94/Jordan_Poole.webp/revision/latest?cb=20230821215658' alt='Jordan Poole | NBA 2K Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1040">
+                                <meta itemprop="height" content="760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBA 2K Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/nba2k/images/9/94/Jordan_Poole.webp/revision/latest?cb=20230821215658' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jordan Poole - Men's Basketball - University of Michigan Athletics">
+                                <img itemprop="contentUrl url" src='https://images.sidearmdev.com/resize?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2017%2F12%2F2%2F20171202_bkm_jordan_poole2.jpg&height=300&type=webp' alt='Jordan Poole - Men's Basketball - University of Michigan Athletics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Michigan Athletics" />
+                                </span>
+                                <a href='https://images.sidearmdev.com/resize?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2017%2F12%2F2%2F20171202_bkm_jordan_poole2.jpg&height=300&type=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Know About Jordan Poole">
+                                <img itemprop="contentUrl url" src='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/poole-3_63842057981205.jpg' alt='Know About Jordan Poole'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Hackster" />
+                                </span>
+                                <a href='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/poole-3_63842057981205.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NBA on ESPN on X: "Jordan Poole led the Warriors to a dominant win ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FOlRYbhWYAQF4pY.jpg:large' alt='NBA on ESPN on X: "Jordan Poole led the Warriors to a dominant win ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FOlRYbhWYAQF4pY.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jordan Poole's season-high seven 3-pointers lead Warriors past Bulls">
+                                <img itemprop="contentUrl url" src='https://s.hdnux.com/photos/01/30/50/12/23233174/6/ratio3x2_1920.jpg' alt='Jordan Poole's season-high seven 3-pointers lead Warriors past Bulls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="San Francisco Chronicle" />
+                                </span>
+                                <a href='https://s.hdnux.com/photos/01/30/50/12/23233174/6/ratio3x2_1920.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

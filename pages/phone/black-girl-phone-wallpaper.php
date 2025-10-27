@@ -1,0 +1,129 @@
+<title>Stunning Black Girl Phone Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore our curated selection of black girl phone wallpapers, showcasing vibrant art and inspiring designs. Perfect for expressing individuality, these wallpapers celebrate beauty and culture, making your device truly unique. Find the perfect backdrop for your phone today!">
+                    <meta name="keywords" content="black girl phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/black-girl-phone-wallpaper">
+                            <span itemprop="name">black girl phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Black Girl Phone Wallpapers for Your Device</h1>
+                <p>Discover stunning black girl phone wallpapers that celebrate beauty, strength, and culture. Our collection features vibrant designs, inspiring portraits, and artistic creations ideal for personalizing your device. Elevate your phone’s aesthetic with unique wallpapers that reflect confidence and style. Perfect for expressing individuality!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Black Girl Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cute-black-girl-ityjf6m8v4kiyk9y.jpg' alt='100+] Cute Black Girl Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cute-black-girl-ityjf6m8v4kiyk9y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Black Girl Magic Wallpapers| phone wallpaper| successful black girl|  Black Women phone wallpapers| Neutral colors| Brown phone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/31554826/r/il/3db19f/4576633192/il_fullxfull.4576633192_js4v.jpg' alt='25 Black Girl Magic Wallpapers| phone wallpaper| successful black girl|  Black Women phone wallpapers| Neutral colors| Brown phone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/31554826/r/il/3db19f/4576633192/il_fullxfull.4576633192_js4v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Girl Magic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/6f/9e/3a/6f9e3a5fa2fd3c5a0fe8d7b255962aeb.jpg' alt='Black Girl Magic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/6f/9e/3a/6f9e3a5fa2fd3c5a0fe8d7b255962aeb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Girl Cartoon HD 4k iPhone Mobile Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9c/39/dc/9c39dc1460eff8ec409eca2e8fd45bbd.jpg' alt='Black Girl Cartoon HD 4k iPhone Mobile Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9c/39/dc/9c39dc1460eff8ec409eca2e8fd45bbd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Girl Aesthetic Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/stylish-black-girl-baddie-in-yellow-beanie-7o7w7zao5xwtazag.jpg' alt='Black Girl Aesthetic Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/stylish-black-girl-baddie-in-yellow-beanie-7o7w7zao5xwtazag.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Black Girls Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/don-t-touch-cute-black-girl-2syp49jtoqlqxc8c.jpg' alt='100+] Cute Black Girls Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/don-t-touch-cute-black-girl-2syp49jtoqlqxc8c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Girl Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/21/2f/25/212f25c00b03b2a42f091cdf1f3794b5.jpg' alt='Black Girl Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/21/2f/25/212f25c00b03b2a42f091cdf1f3794b5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Girl In Black Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/phone-girl-in-black-63b95pvzpsa0quf5.jpg' alt='Phone Girl In Black Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/phone-girl-in-black-63b95pvzpsa0quf5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Girl, art, best, gold, women, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/751/663/HD-wallpaper-black-girl-art-best-gold-women.jpg' alt='Black Girl, art, best, gold, women, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1033">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/751/663/HD-wallpaper-black-girl-art-best-gold-women.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inspirational African black girl brown aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/46/1d/a7/461da7f6a6a89c8e576c0334a81f35c1.jpg' alt='Inspirational African black girl brown aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/46/1d/a7/461da7f6a6a89c8e576c0334a81f35c1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Discovering the Sweet History of Pan Dulce</title>
+                    <meta name="description" content="Explore the rich history of pan dulce, a beloved Mexican sweet bread. Learn about its origins, cultural significance, and popular varieties, celebrating a delicious tradition that's cherished in homes and bakeries around the world.">
+                    <meta name="keywords" content="pan dulce history">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pan-dulce-history">
+                            <span itemprop="name">pan dulce history</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discovering the Sweet History of Pan Dulce</h1>
+                <p>Pan dulce, or "sweet bread," has roots in colonial Mexico, stemming from Spanish traditions. Over centuries, it evolved, incorporating indigenous ingredients and methods. Varieties like conchas and empanadas symbolize cultural identity, celebrated during festivities. Today, pan dulce remains a beloved staple in Mexican kitchens and bakeries worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Brief History of the Delicious Mexican Pan Dulce - Nuestro Stories">
+                                <img itemprop="contentUrl url" src='https://nuestrostories.com/wp-content/uploads/2023/02/Pan-Dulce-Mexicano.jpg' alt='The Brief History of the Delicious Mexican Pan Dulce - Nuestro Stories'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1910">
+                                <meta itemprop="height" content="1274">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nuestro Stories" />
+                                </span>
+                                <a href='https://nuestrostories.com/wp-content/uploads/2023/02/Pan-Dulce-Mexicano.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pan dulce - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Pan_Dulce_or_%22Sweet_Bread%22.jpg/220px-Pan_Dulce_or_%22Sweet_Bread%22.jpg' alt='Pan dulce - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="166">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Pan_Dulce_or_%22Sweet_Bread%22.jpg/220px-Pan_Dulce_or_%22Sweet_Bread%22.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Brief History of the Delicious Mexican Pan Dulce - Nuestro Stories">
+                                <img itemprop="contentUrl url" src='https://www.mexicodesconocido.com.mx/wp-content/uploads/2019/09/pan-epoca-colonial-1024x755.jpg' alt='The Brief History of the Delicious Mexican Pan Dulce - Nuestro Stories'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="755">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nuestro Stories" />
+                                </span>
+                                <a href='https://www.mexicodesconocido.com.mx/wp-content/uploads/2019/09/pan-epoca-colonial-1024x755.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="THE HISTORY OF BREAD & PAN DULCE IN MEXICO– La Monarca Bakery">
+                                <img itemprop="contentUrl url" src='https://lamonarcabakery.com/cdn/shop/articles/Bread-Header-TITLE_901x350.jpg?v=1618269092' alt='THE HISTORY OF BREAD & PAN DULCE IN MEXICO– La Monarca Bakery'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="La Monarca Bakery" />
+                                </span>
+                                <a href='https://lamonarcabakery.com/cdn/shop/articles/Bread-Header-TITLE_901x350.jpg?v=1618269092' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pan Dulce | King Arthur Baking">
+                                <img itemprop="contentUrl url" src='https://www.kingarthurbaking.com/sites/default/files/2023-09/Group_Email_hero.jpg' alt='Pan Dulce | King Arthur Baking'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3500">
+                                <meta itemprop="height" content="2334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="King Arthur Baking" />
+                                </span>
+                                <a href='https://www.kingarthurbaking.com/sites/default/files/2023-09/Group_Email_hero.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sweet Memories | Texas Co-op Power">
+                                <img itemprop="contentUrl url" src='https://texascooppower.com/wp-content/uploads/2021/12/slideshow_pan-dulce-sidebar-comp.jpg' alt='Sweet Memories | Texas Co-op Power'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="724">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Texas Co-op Power" />
+                                </span>
+                                <a href='https://texascooppower.com/wp-content/uploads/2021/12/slideshow_pan-dulce-sidebar-comp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pan Dulce">
+                                <img itemprop="contentUrl url" src='https://www.thespruceeats.com/thmb/JselhtJYU9Ti9nCWorG5_biNTSs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1141280147-b7672df4f07a47869dd6d378ab0aca69.jpg' alt='Pan Dulce'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="999">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Spruce Eats" />
+                                </span>
+                                <a href='https://www.thespruceeats.com/thmb/JselhtJYU9Ti9nCWorG5_biNTSs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1141280147-b7672df4f07a47869dd6d378ab0aca69.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The history and making of Pan Dulce">
+                                <img itemprop="contentUrl url" src='https://ewscripps.brightspotcdn.com/dims4/default/d5318fd/2147483647/strip/true/crop/1920x1080+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F0d%2Fff%2F27aceb164c7bba35515ca3f46a5c%2Fpan-dulce-still.jpg' alt='The history and making of Pan Dulce'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KRIS 6 News" />
+                                </span>
+                                <a href='https://ewscripps.brightspotcdn.com/dims4/default/d5318fd/2147483647/strip/true/crop/1920x1080+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F0d%2Fff%2F27aceb164c7bba35515ca3f46a5c%2Fpan-dulce-still.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guide to Mexican Pan Dulce - The Other Side of the Tortilla">
+                                <img itemprop="contentUrl url" src='https://theothersideofthetortilla.com/wp-content/uploads/2018/12/mexican-pan-dulce-concha-tosott.png' alt='Guide to Mexican Pan Dulce - The Other Side of the Tortilla'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Other Side of the Tortilla" />
+                                </span>
+                                <a href='https://theothersideofthetortilla.com/wp-content/uploads/2018/12/mexican-pan-dulce-concha-tosott.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Discover Pan Dulce – Explore Texas">
+                                <img itemprop="contentUrl url" src='https://exploretexas.blog/wp-content/uploads/2016/03/pan-dulce.jpg' alt='Discover Pan Dulce – Explore Texas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3264">
+                                <meta itemprop="height" content="2448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Explore Texas" />
+                                </span>
+                                <a href='https://exploretexas.blog/wp-content/uploads/2016/03/pan-dulce.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Chic Preppy Halloween Wallpaper: Spooky Ghosts & Style</title>
+                    <meta name="description" content="Add a stylish twist to Halloween with our preppy wallpaper featuring delightful ghosts. Perfect for creating a festive atmosphere, this chic decor option merges traditional Halloween elements with modern design, making your home both spooky and sophisticated.">
+                    <meta name="keywords" content="preppy halloween wallpaper ghosts">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy">
+                            <span itemprop="name">Preppy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy/preppy-halloween-wallpaper-ghosts">
+                            <span itemprop="name">preppy halloween wallpaper ghosts</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Preppy Halloween Wallpaper: Spooky Ghosts & Style</h1>
+                <p>Transform your space this Halloween with preppy wallpaper featuring charming ghosts! Perfect for a festive yet classy vibe, these designs blend traditional spooky themes with chic patterns. Elevate your decor with colors and styles that bring a touch of elegance to the haunting season, ensuring your Halloween celebration stands out!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Ghost Halloween Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fc/13/48/fc13481b58c3a3af2830d2e3976ba3af.jpg' alt='Cute Ghost Halloween Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="669">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fc/13/48/fc13481b58c3a3af2830d2e3976ba3af.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Halloween Wallpaper Iphone Wallpaper Spooky Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/b1/63/17/b163170d5a2b041f85a167657180f931.jpg' alt='Aesthetic Halloween Wallpaper Iphone Wallpaper Spooky Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/b1/63/17/b163170d5a2b041f85a167657180f931.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Halloween Wallpaper Iphone Wallpaper Spooky Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/96/32/c2/9632c2767123be12d1b5f91cc8ef7b61.jpg' alt='Aesthetic Halloween Wallpaper Iphone Wallpaper Spooky Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/96/32/c2/9632c2767123be12d1b5f91cc8ef7b61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40 Pumpkin Halloween Wallpaper Ideas : Starry Spooks">
+                                <img itemprop="contentUrl url" src='https://www.fabmood.com/wp-content/uploads/2023/09/fall-halloween-aesthetic-10.jpg' alt='40 Pumpkin Halloween Wallpaper Ideas : Starry Spooks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fab Mood" />
+                                </span>
+                                <a href='https://www.fabmood.com/wp-content/uploads/2023/09/fall-halloween-aesthetic-10.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute halloween wallpapers     #halloween#wallpapers#ghost#pumpkin#creepy#skull#bats">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7285608161258589483&location=0&aid=1988' alt='Cute halloween wallpapers     #halloween#wallpapers#ghost#pumpkin#creepy#skull#bats'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7285608161258589483&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="61,600+ Cute Halloween Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/487774484/vector/cute-cartoon-ghost-pattern.jpg?s=612x612&w=0&k=20&c=OO5juZ5Cn0eWSYgM-uquO2gcOEM-nZqrLxNmMBZzIRI=' alt='61,600+ Cute Halloween Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/487774484/vector/cute-cartoon-ghost-pattern.jpg?s=612x612&w=0&k=20&c=OO5juZ5Cn0eWSYgM-uquO2gcOEM-nZqrLxNmMBZzIRI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ghosts, cute, halloween, october, simple, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/986/877/HD-wallpaper-ghosts-cute-halloween-october-simple.jpg' alt='Ghosts, cute, halloween, october, simple, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1424">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/986/877/HD-wallpaper-ghosts-cute-halloween-october-simple.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="preppy aesthetic wallpapers halloween themed          | Gallery ...">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7293707096070259206&index=4&sign=d64e2cb28db1cc0842c941363fbd0758' alt='preppy aesthetic wallpapers halloween themed          | Gallery ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="902">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7293707096070259206&index=4&sign=d64e2cb28db1cc0842c941363fbd0758' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="56,533 Cute Ghost Pattern Royalty-Free Photos and Stock Images ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/cute-halloween-seamless-pattern-ghosts-600nw-2369740343.jpg' alt='56,533 Cute Ghost Pattern Royalty-Free Photos and Stock Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/cute-halloween-seamless-pattern-ghosts-600nw-2369740343.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Halloween Wallpaper Spooky Season Phone Wallpaper Cute ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/09/3d/02/093d029a2a9f25248e8030889edb6e22.jpg' alt='Aesthetic Halloween Wallpaper Spooky Season Phone Wallpaper Cute ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/09/3d/02/093d029a2a9f25248e8030889edb6e22.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

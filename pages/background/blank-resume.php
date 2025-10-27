@@ -1,0 +1,129 @@
+<title>"Craft Your Blank Resume: A Simple Template Guide"</title>
+                    <meta name="description" content="Discover how to create an effective blank resume template. This guide offers tips for enhancing your job application, ensuring a professional look that showcases your skills and experiences. Perfect for job seekers looking to make a memorable first impression.">
+                    <meta name="keywords" content="blank resume">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blank-resume">
+                            <span itemprop="name">blank resume</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Craft Your Blank Resume: A Simple Template Guide"</h1>
+                <p>A blank resume serves as a template for job seekers, providing a structured layout to input personal information, work history, skills, and qualifications. It's essential for tailoring applications to specific jobs, ensuring a professional presentation. Utilize a blank resume to highlight achievements and increase your chances of landing interviews.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20+ Blank Resume Templates in Word, PDF | Fillable, Printable ...">
+                                <img itemprop="contentUrl url" src='https://www.visualcv.com/static/e7599b84ef3cc2e749bbc489497fb9e5/a8b07/Blank_professional_resume_template_-_Arya.png' alt='20+ Blank Resume Templates in Word, PDF | Fillable, Printable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="551">
+                                <meta itemprop="height" content="505">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VisualCV" />
+                                </span>
+                                <a href='https://www.visualcv.com/static/e7599b84ef3cc2e749bbc489497fb9e5/a8b07/Blank_professional_resume_template_-_Arya.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="48+ Blank Resume Templates - DOC, PDF">
+                                <img itemprop="contentUrl url" src='https://images.template.net/wp-content/uploads/2014/11/Simple-Sample-Academic-Blank-Resume-Template.jpg' alt='48+ Blank Resume Templates - DOC, PDF'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="680">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template.net" />
+                                </span>
+                                <a href='https://images.template.net/wp-content/uploads/2014/11/Simple-Sample-Academic-Blank-Resume-Template.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8+ Blank Resume Templates (Free to Download)">
+                                <img itemprop="contentUrl url" src='https://resumegenius.com/wp-content/uploads/Clean-Blank-Resume-Template-Gold.png?w=1400' alt='8+ Blank Resume Templates (Free to Download)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1540">
+                                <meta itemprop="height" content="1993">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Resume Genius" />
+                                </span>
+                                <a href='https://resumegenius.com/wp-content/uploads/Clean-Blank-Resume-Template-Gold.png?w=1400' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fill In The Blank Resume - Fill Online, Printable, Fillable, Blank ...">
+                                <img itemprop="contentUrl url" src='https://www.pdffiller.com/preview/11/710/11710739/large.png' alt='Fill In The Blank Resume - Fill Online, Printable, Fillable, Blank ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="pdfFiller" />
+                                </span>
+                                <a href='https://www.pdffiller.com/preview/11/710/11710739/large.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Blank Resume Templates You Can Use Today [Download]">
+                                <img itemprop="contentUrl url" src='https://cdn-blog.novoresume.com/articles/blank-resume-templates/Modern-Blank-Resume-Template.webp' alt='10 Blank Resume Templates You Can Use Today [Download]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2122">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Novoresume" />
+                                </span>
+                                <a href='https://cdn-blog.novoresume.com/articles/blank-resume-templates/Modern-Blank-Resume-Template.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fascinating Blank Resume Template To Make Resume From Scratch">
+                                <img itemprop="contentUrl url" src='https://s3.eu-west-2.amazonaws.com/resumedone-eu-west-2-staging/9T3WSLq5KN-photo.png' alt='Fascinating Blank Resume Template To Make Resume From Scratch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="794">
+                                <meta itemprop="height" content="1120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Resume Example" />
+                                </span>
+                                <a href='https://s3.eu-west-2.amazonaws.com/resumedone-eu-west-2-staging/9T3WSLq5KN-photo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="48+ Blank Resume Templates - DOC, PDF">
+                                <img itemprop="contentUrl url" src='https://images.template.net/wp-content/uploads/2015/07/Free-Blank-Resume-Template.jpg' alt='48+ Blank Resume Templates - DOC, PDF'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template.net" />
+                                </span>
+                                <a href='https://images.template.net/wp-content/uploads/2015/07/Free-Blank-Resume-Template.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fill In Blank Resume - 10 Free PDF Printables | Printablee">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/81/2c/03/812c03fddb9836adefe1ec78686ba23e.jpg' alt='Fill In Blank Resume - 10 Free PDF Printables | Printablee'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1007">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/81/2c/03/812c03fddb9836adefe1ec78686ba23e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fill In Blank Resume - 10 Free PDF Printables | Printablee">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/d6/c7/86/d6c786fc8e9306d6499cef27a31fd31e.jpg' alt='Fill In Blank Resume - 10 Free PDF Printables | Printablee'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="740">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/d6/c7/86/d6c786fc8e9306d6499cef27a31fd31e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20+ Blank Resume Templates in Word, PDF | Fillable, Printable ...">
+                                <img itemprop="contentUrl url" src='https://www.visualcv.com/static/e13418f335d7a11df6a860747db880a7/a12ab/Blank_Resume_Template_-_ATS.png' alt='20+ Blank Resume Templates in Word, PDF | Fillable, Printable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="760">
+                                <meta itemprop="height" content="704">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VisualCV" />
+                                </span>
+                                <a href='https://www.visualcv.com/static/e13418f335d7a11df6a860747db880a7/a12ab/Blank_Resume_Template_-_ATS.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

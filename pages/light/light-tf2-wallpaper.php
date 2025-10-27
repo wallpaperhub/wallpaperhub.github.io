@@ -1,0 +1,129 @@
+<title>"Brighten Your Screen with Light TF2 Wallpapers"</title>
+                    <meta name="description" content="Discover stunning light TF2 wallpapers that energize your device! Perfect for Team Fortress 2 enthusiasts, these vibrant designs showcase beloved characters and moments, transforming your screen into a colorful delight. Download now and bring your favorite game to life!">
+                    <meta name="keywords" content="light tf2 wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light">
+                            <span itemprop="name">Light</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light/light-tf2-wallpaper">
+                            <span itemprop="name">light tf2 wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Brighten Your Screen with Light TF2 Wallpapers"</h1>
+                <p>Light TF2 wallpaper brings a breath of fresh air to your digital space, featuring vibrant, eye-catching designs inspired by Team Fortress 2. Perfect for fans, these wallpapers showcase your favorite characters and scenes with a bright, lively touch. Transform your screen and celebrate the game's charm with stunning visuals!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TF2 "Light" Classes Background/Wallpaper : r/tf2">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/eQfNJKfxr8w6ujoKgGkh_2F7WEOFnaVDg108jtggk1E.png?width=640&crop=smart&auto=webp&s=087268bfe15ed3a3868e27714ceb0877550c5af2' alt='TF2 "Light" Classes Background/Wallpaper : r/tf2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/eQfNJKfxr8w6ujoKgGkh_2F7WEOFnaVDg108jtggk1E.png?width=640&crop=smart&auto=webp&s=087268bfe15ed3a3868e27714ceb0877550c5af2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a MvM Wallpaper [1920x1080] : r/tf2">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/AlRPl.jpg' alt='I made a MvM Wallpaper [1920x1080] : r/tf2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://i.imgur.com/AlRPl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here's a wallpaper I made! [1920 x 1080] : r/tf2">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/tsjf7bj0eea51.png?width=640&crop=smart&auto=webp&s=5af5e4302835b393056a0fd1700e2de90250b159' alt='Here's a wallpaper I made! [1920 x 1080] : r/tf2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/tsjf7bj0eea51.png?width=640&crop=smart&auto=webp&s=5af5e4302835b393056a0fd1700e2de90250b159' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Neon TF2 Wallpaper [3840 x 2160] : r/tf2">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/1oz8m4qko9d61.png' alt='3D Neon TF2 Wallpaper [3840 x 2160] : r/tf2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/1oz8m4qko9d61.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TF2 Wallpaper - The Odd One Is Out : r/tf2">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/4dngc4a9auv01.png?auto=webp&s=7cb758a83a134b320746959ad77f5c480f909cba' alt='TF2 Wallpaper - The Odd One Is Out : r/tf2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/4dngc4a9auv01.png?auto=webp&s=7cb758a83a134b320746959ad77f5c480f909cba' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My favorite Pyro Wallpaper : r/tf2">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/6GabTc5a2n3M1_70RJ7_vysIh9nixgzwQFTrO_5GwY4.jpg?auto=webp&s=821a72dc1905a5d4eb8b5ac8ec215f9cb2a24c33' alt='My favorite Pyro Wallpaper : r/tf2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1680">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/6GabTc5a2n3M1_70RJ7_vysIh9nixgzwQFTrO_5GwY4.jpg?auto=webp&s=821a72dc1905a5d4eb8b5ac8ec215f9cb2a24c33' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Tf2 Pictures | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/tf2-medic-on-black-background-dl67a3njssspo33r.jpg' alt='100+] Tf2 Pictures | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/tf2-medic-on-black-background-dl67a3njssspo33r.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam 社群 :: :: TF2 Wallpaper 4K UHD Edition (Version 2)">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/1743429781598349134/0D802883A102AC08CBEEBA9C941E40917DA34C9D/?imw=1024&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam 社群 :: :: TF2 Wallpaper 4K UHD Edition (Version 2)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/1743429781598349134/0D802883A102AC08CBEEBA9C941E40917DA34C9D/?imw=1024&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="light : r/tf2">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/gj1v4jw302i41.png' alt='light : r/tf2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/gj1v4jw302i41.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Animated Scout On The Stop Light Iphone Xs Max Team ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/iphone-xs-max-team-fortress-2-background-1242-x-2688-hxexhkimnbposxqv.jpg' alt='Download Animated Scout On The Stop Light Iphone Xs Max Team ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/iphone-xs-max-team-fortress-2-background-1242-x-2688-hxexhkimnbposxqv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

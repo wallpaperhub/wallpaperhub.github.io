@@ -1,0 +1,129 @@
+<title>High-Quality Transparent PNG Images of People</title>
+                    <meta name="description" content="Find the perfect transparent PNG images of people for your creative projects. Enhance your designs with our extensive library of high-quality, background-free images, ready for instant download. Ideal for both personal and professional use, easily integrate these visuals into any project.">
+                    <meta name="keywords" content="person png transparent">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/person-png-transparent">
+                            <span itemprop="name">person png transparent</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>High-Quality Transparent PNG Images of People</h1>
+                <p>Discover high-quality transparent PNG images of people for your projects. Utilize these versatile graphics for everything from presentations to web design. With no background, you can seamlessly integrate them into any design, ensuring a professional look. Explore our collection and enhance your visuals effortlessly!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Business People PNG Transparent Background, Free Download #44604 ...">
+                                <img itemprop="contentUrl url" src='https://www.freeiconspng.com/uploads/business-people-png-20.png' alt='Business People PNG Transparent Background, Free Download #44604 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="364">
+                                <meta itemprop="height" content="301">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Icons PNG" />
+                                </span>
+                                <a href='https://www.freeiconspng.com/uploads/business-people-png-20.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Man PNG Transparent Images Free Download | Vector Files | Pngtree">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20230927/original/pngtree-man-in-shirt-smiles-and-gives-thumbs-up-to-show-approval-png-image_13146336.png' alt='Man PNG Transparent Images Free Download | Vector Files | Pngtree'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20230927/original/pngtree-man-in-shirt-smiles-and-gives-thumbs-up-to-show-approval-png-image_13146336.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Indian Man PNG Transparent Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsb2ZmaWNlM19waG90b19vZl9hX3lvdW5nX2luZGlhbl9tYW5fd2VhcmluZ19jYXN1YWxfY2xvdF9jM2YxZGVlOC01ZmQzLTQzYmUtOGEwZC1kN2RhZGZlN2ZlODMucG5n.png' alt='Indian Man PNG Transparent Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="939">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsb2ZmaWNlM19waG90b19vZl9hX3lvdW5nX2luZGlhbl9tYW5fd2VhcmluZ19jYXN1YWxfY2xvdF9jM2YxZGVlOC01ZmQzLTQzYmUtOGEwZC1kN2RhZGZlN2ZlODMucG5n.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thinking man PNG transparent image download, size: 1186x1353px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/thinking_man_PNG11606.png' alt='Thinking man PNG transparent image download, size: 1186x1353px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1186">
+                                <meta itemprop="height" content="1353">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/thinking_man_PNG11606.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Person Vector Art PNG Images | Free Download On Pngtree">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/element_our/20190522/ourmid/pngtree-cartoon-business-person-vector-material-thinking-image_1073441.jpg' alt='Person Vector Art PNG Images | Free Download On Pngtree'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/element_our/20190522/ourmid/pngtree-cartoon-business-person-vector-material-thinking-image_1073441.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download premium png of Woman png crossing arms, business ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f8/8c/dc/f88cdcba72d3c987757882a61c06d2ad.jpg' alt='Download premium png of Woman png crossing arms, business ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="714">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f8/8c/dc/f88cdcba72d3c987757882a61c06d2ad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Person PNGs for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/050/817/791/small_2x/smiling-young-man-standing-with-hands-in-pockets-standing-front-view-isolate-on-transparent-background-png.png' alt='Person PNGs for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/050/817/791/small_2x/smiling-young-man-standing-with-hands-in-pockets-standing-front-view-isolate-on-transparent-background-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Person PNG Transparent Images">
+                                <img itemprop="contentUrl url" src='https://www.pngall.com/wp-content/uploads/2016/04/Happy-Person-Free-Download-PNG.png' alt='Happy Person PNG Transparent Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="275">
+                                <meta itemprop="height" content="261">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNG All" />
+                                </span>
+                                <a href='https://www.pngall.com/wp-content/uploads/2016/04/Happy-Person-Free-Download-PNG.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Business Man PNG Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA5L3Jhd3BpeGVsb2ZmaWNlNl9idXNpbmVzc19tYW5fcG9ydHJhaXRfaXNvbGF0ZWRfb25fd2hpdGVfdHJhbnNwYV8yZjZjNDE2Yy03NTA2LTQwZjctOWVlZS00MDBkMDQ2NGE5MjMucG5n.png' alt='Business Man PNG Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA5L3Jhd3BpeGVsb2ZmaWNlNl9idXNpbmVzc19tYW5fcG9ydHJhaXRfaXNvbGF0ZWRfb25fd2hpdGVfdHJhbnNwYV8yZjZjNDE2Yy03NTA2LTQwZjctOWVlZS00MDBkMDQ2NGE5MjMucG5n.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="People PNG, People Transparent Background - FreeIconsPNG">
+                                <img itemprop="contentUrl url" src='https://www.freeiconspng.com/thumbs/people-png/people-png-cut-out-16.png' alt='People PNG, People Transparent Background - FreeIconsPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Icons PNG" />
+                                </span>
+                                <a href='https://www.freeiconspng.com/thumbs/people-png/people-png-cut-out-16.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

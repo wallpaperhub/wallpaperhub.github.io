@@ -1,0 +1,129 @@
+<title>Stylish Brown and Tan Backgrounds for Every Design</title>
+                    <meta name="description" content="Discover the beauty of brown and tan backgrounds! Perfect for design projects, they add warmth and sophistication. Explore how these earthy tones can enhance your visuals and create inviting atmospheres. Ideal for interiors, websites, and more!">
+                    <meta name="keywords" content="brown and tan background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/brown-and-tan-background">
+                            <span itemprop="name">brown and tan background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Brown and Tan Backgrounds for Every Design</h1>
+                <p>A brown and tan background conveys warmth and sophistication, perfect for creating a cozy atmosphere. It pairs well with earthy tones and can enhance the visual appeal of any design. Use it in interiors, websites, or artwork to evoke feelings of stability and comfort, making it an excellent choice for various applications.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="abstract brown sepia background, elegant triangle pattern design ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/01/07/61/33/1000_F_107613354_HyWHJWE0UMrnGSwoPpWI0Kh8STDu38hA.jpg' alt='abstract brown sepia background, elegant triangle pattern design ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="812">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/01/07/61/33/1000_F_107613354_HyWHJWE0UMrnGSwoPpWI0Kh8STDu38hA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20,100+ Tan Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1364440645/vector/beige-minimal-coffee-color-background.jpg?s=612x612&w=0&k=20&c=0gDITydvWYsSAjijxj711x1RQYTi1RAi2ISV_GGdiFM=' alt='20,100+ Tan Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1364440645/vector/beige-minimal-coffee-color-background.jpg?s=612x612&w=0&k=20&c=0gDITydvWYsSAjijxj711x1RQYTi1RAi2ISV_GGdiFM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A brown and tan abstract background with a light brown and beige ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/brown-tan-abstract-background-with-light-brown-beige-color_1031776-173201.jpg' alt='A brown and tan abstract background with a light brown and beige ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/brown-tan-abstract-background-with-light-brown-beige-color_1031776-173201.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="17,600+ Brown Tan Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1224038563/vector/abstract-brown-background-geometric-texture.jpg?s=612x612&w=0&k=20&c=PVbh7RMUlnEeAp1bGfDcl12p8C9GKggfqvxM2iDDKPw=' alt='17,600+ Brown Tan Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="306">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1224038563/vector/abstract-brown-background-geometric-texture.jpg?s=612x612&w=0&k=20&c=PVbh7RMUlnEeAp1bGfDcl12p8C9GKggfqvxM2iDDKPw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown Tan and Biege Watercolor Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/40/90/fe/4090fe1ac3f1cdc74b41922c15df7cf5.jpg' alt='Brown Tan and Biege Watercolor Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/40/90/fe/4090fe1ac3f1cdc74b41922c15df7cf5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ultra Hd Exquisite Texture Abstract Beige Tan Background With Rich ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/wp/202343/ultra-hd-exquisite-texture-abstract-beige-tan-background-with-rich-brown-hues_9983982.jpg!f305cw' alt='Ultra Hd Exquisite Texture Abstract Beige Tan Background With Rich ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="305">
+                                <meta itemprop="height" content="171">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/wp/202343/ultra-hd-exquisite-texture-abstract-beige-tan-background-with-rich-brown-hues_9983982.jpg!f305cw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tan Color Background Images – Browse 629,456 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/59/37/93/360_F_259379354_bOf6bHVe2sUiqG2hpJIwP2AL0tI17VAY.jpg' alt='Tan Color Background Images – Browse 629,456 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/59/37/93/360_F_259379354_bOf6bHVe2sUiqG2hpJIwP2AL0tI17VAY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="17,600+ Brown Tan Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1365590841/vector/vector-illustration-of-a-rustic-dark-brown-coloured-wooden-or-timber-textured-effect-empty.jpg?s=612x612&w=0&k=20&c=PW6ZBA7Woa2Q4cv0QLLJxg-imIte3oWYR9xEGIIIAdY=' alt='17,600+ Brown Tan Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1365590841/vector/vector-illustration-of-a-rustic-dark-brown-coloured-wooden-or-timber-textured-effect-empty.jpg?s=612x612&w=0&k=20&c=PW6ZBA7Woa2Q4cv0QLLJxg-imIte3oWYR9xEGIIIAdY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Tan Brown Background Paper Texture Stock Illustration ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/light-tan-brown-background-paper-260nw-279246374.jpg' alt='Light Tan Brown Background Paper Texture Stock Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/light-tan-brown-background-paper-260nw-279246374.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Natural window brown tan color shadow overlay on ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/natural-window-brown-tan-color-shadow-overlay-clean-minimal-light-white-background_365663-485.jpg' alt='Premium Photo | Natural window brown tan color shadow overlay on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="446">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/natural-window-brown-tan-color-shadow-overlay-clean-minimal-light-white-background_365663-485.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

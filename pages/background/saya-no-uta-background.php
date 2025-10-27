@@ -1,0 +1,129 @@
+<title>"Exploring the Dark World of 'Saya no Uta'"</title>
+                    <meta name="description" content="Discover the chilling narrative of "Saya no Uta," a visual novel that intertwines horror and psychological themes. Dive into Saya’s distorted reality and explore deep themes of love, madness, and the boundaries of sanity. Perfect for fans of dark storytelling!">
+                    <meta name="keywords" content="saya no uta background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/saya-no-uta-background">
+                            <span itemprop="name">saya no uta background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Exploring the Dark World of 'Saya no Uta'"</h1>
+                <p>"Saya no Uta," a visual novel by Junji Ito, delves into horror and psychological themes, exploring the twisted mind of a young girl named Saya. After a traumatic event, she perceives the world differently, leading to horrifying encounters. The narrative intertwines love and madness, challenging reality and morality, and leaving readers questioning their sanity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="flesh hallway - - - credit: from the anime “Saya no Uta ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3249206889119609251' alt='flesh hallway - - - credit: from the anime “Saya no Uta ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1168">
+                                <meta itemprop="height" content="865">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3249206889119609251' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime saya no uta for desktops jpg Gaming Mat Desk | eBay">
+                                <img itemprop="contentUrl url" src='https://rare-gallery.com/uploads/posts/553591-saya-no-uta.jpg' alt='Anime saya no uta for desktops jpg Gaming Mat Desk | eBay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://rare-gallery.com/uploads/posts/553591-saya-no-uta.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="saya no uta background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/18/8f/af/188faf2928e5abc87b1b8f48f4f9be2b.jpg' alt='saya no uta background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/18/8f/af/188faf2928e5abc87b1b8f48f4f9be2b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="self) Are you hungry? Saya no Uta cosplay : r/visualnovels">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/dlvuz97c37051.jpg?width=640&crop=smart&auto=webp&s=9858a2a8c41668f3504ec405c8ab951a8f64079f' alt='self) Are you hungry? Saya no Uta cosplay : r/visualnovels'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="442">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/dlvuz97c37051.jpg?width=640&crop=smart&auto=webp&s=9858a2a8c41668f3504ec405c8ab951a8f64079f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="saya no uta background - Free PNG - PicMix">
+                                <img itemprop="contentUrl url" src='https://img1.picmix.com/output/stamp/normal/9/1/4/4/2434419_1f929.png' alt='saya no uta background - Free PNG - PicMix'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PicMix" />
+                                </span>
+                                <a href='https://img1.picmix.com/output/stamp/normal/9/1/4/4/2434419_1f929.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I love Saya no Uta, even though it's incredibly messed-up | PC Gamer">
+                                <img itemprop="contentUrl url" src='https://cdn.mos.cms.futurecdn.net/Xxg4MSgWv7ST23ijvRqwPk.jpg' alt='I love Saya no Uta, even though it's incredibly messed-up | PC Gamer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PC Gamer" />
+                                </span>
+                                <a href='https://cdn.mos.cms.futurecdn.net/Xxg4MSgWv7ST23ijvRqwPk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Saya no Uta - Wallpaper and Scan Gallery - Minitokyo">
+                                <img itemprop="contentUrl url" src='http://static.minitokyo.net/downloads/39/41/389589.jpg' alt='Saya no Uta - Wallpaper and Scan Gallery - Minitokyo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Minitokyo" />
+                                </span>
+                                <a href='http://static.minitokyo.net/downloads/39/41/389589.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stream 666.avi by | Listen online for free on SoundCloud">
+                                <img itemprop="contentUrl url" src='https://i1.sndcdn.com/artworks-l8AxCeCTy0C6sDtT-E2q6ow-t500x500.jpg' alt='Stream 666.avi by | Listen online for free on SoundCloud'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SoundCloud" />
+                                </span>
+                                <a href='https://i1.sndcdn.com/artworks-l8AxCeCTy0C6sDtT-E2q6ow-t500x500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RPG Site on X: "Saya No Uta was out today in 2003. This ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/CXKdbjbUwAIvRh1.png' alt='RPG Site on X: "Saya No Uta was out today in 2003. This ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="599">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/CXKdbjbUwAIvRh1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ﾟ✧ ┣···═─ ☆°.: haremlead: Saya no Uta || Background Images">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/d9832e3787c5efc3d56e1eac60a0da6e/tumblr_n3c1vuUyuC1rycoylo9_500.jpg' alt='ﾟ✧ ┣···═─ ☆°.: haremlead: Saya no Uta || Background Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="jino-spex" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/d9832e3787c5efc3d56e1eac60a0da6e/tumblr_n3c1vuUyuC1rycoylo9_500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

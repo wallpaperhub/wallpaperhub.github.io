@@ -1,0 +1,129 @@
+<title>Serene Green Water Background for Your Designs</title>
+                    <meta name="description" content="Discover the beauty of a green water background, perfect for digital designs. Its calming hues create a peaceful vibe and enhance creativity. Ideal for any project that needs a touch of nature's tranquility. Explore the versatility of this stunning backdrop today!">
+                    <meta name="keywords" content="green water background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/green-water-background">
+                            <span itemprop="name">green water background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Serene Green Water Background for Your Designs</h1>
+                <p>Embrace the tranquility of nature with a stunning green water background. Ideal for digital designs, this lush hue evokes feelings of peace and harmony. Perfect for enhancing your creativity, it pairs beautifully with earthy tones, making it versatile for various projects. Dive into the serene vibes of green water!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="45,628+ Green Water Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1502571021998-c562c753aedc?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z3JlZW4lMjB3YXRlcnxlbnwwfHwwfHx8MA%3D%3D' alt='45,628+ Green Water Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1502571021998-c562c753aedc?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z3JlZW4lMjB3YXRlcnxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Water Seamless Background Texture - Green Waves Seamless ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28921914/r/il/4425b0/3675889306/il_570xN.3675889306_refz.jpg' alt='Green Water Seamless Background Texture - Green Waves Seamless ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="518">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28921914/r/il/4425b0/3675889306/il_570xN.3675889306_refz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Water Splash Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/053/183/259/non_2x/vibrant-green-water-splash-photo.jpg' alt='Green Water Splash Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1960">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/053/183/259/non_2x/vibrant-green-water-splash-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Water Droplets Images – Browse 1,373,094 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/11/14/60/29/360_F_1114602940_O1KazH8b5uG76Ooi5vYQyJ2vvWKaFadb.jpg' alt='Green Water Droplets Images – Browse 1,373,094 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/11/14/60/29/360_F_1114602940_O1KazH8b5uG76Ooi5vYQyJ2vvWKaFadb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Water Background Stock Photos, Images and Backgrounds for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/022/807/678/small_2x/defocus-blurred-transparent-green-colored-clear-calm-water-surface-texture-with-splashes-and-bubbles-trendy-abstract-nature-background-water-waves-in-sunlight-with-copy-space-green-water-shine-photo.jpg' alt='Green Water Background Stock Photos, Images and Backgrounds for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="599">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/022/807/678/small_2x/defocus-blurred-transparent-green-colored-clear-calm-water-surface-texture-with-splashes-and-bubbles-trendy-abstract-nature-background-water-waves-in-sunlight-with-copy-space-green-water-shine-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Water Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/close-up-water-rings-green-pool-surface_23-2148358173.jpg' alt='Green Water Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/close-up-water-rings-green-pool-surface_23-2148358173.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Green, Panels, Water Background Images, Fresh Water Drops ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d2/c9/f9/d2c9f9c61b1bfe3935daab0ac718d3be.jpg' alt='Free Green, Panels, Water Background Images, Fresh Water Drops ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d2/c9/f9/d2c9f9c61b1bfe3935daab0ac718d3be.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Water Splash On Green Background Stock Photo 316468841 | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/water-splash-on-green-background-260nw-316468841.jpg' alt='Water Splash On Green Background Stock Photo 316468841 | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="391">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/water-splash-on-green-background-260nw-316468841.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Water On Green Texture Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/fresh-water-drops-green-abstract-background-drop-wet-texture-condensation-water-grass-color-pure-shining-rain-droplets-close-up-backdrop-realistic-3d-vector-illustration_88138-883.jpg' alt='Water On Green Texture Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="444">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/fresh-water-drops-green-abstract-background-drop-wet-texture-condensation-water-grass-color-pure-shining-rain-droplets-close-up-backdrop-realistic-3d-vector-illustration_88138-883.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Water Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/015/416/582/non_2x/defocus-blurred-transparent-green-colored-clear-calm-water-surface-texture-with-splashes-and-bubbles-trendy-abstract-nature-background-water-waves-in-sunlight-with-copy-space-blue-watercolor-shine-photo.jpg' alt='Green Water Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/015/416/582/non_2x/defocus-blurred-transparent-green-colored-clear-calm-water-surface-texture-with-splashes-and-bubbles-trendy-abstract-nature-background-water-waves-in-sunlight-with-copy-space-blue-watercolor-shine-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

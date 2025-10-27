@@ -1,0 +1,129 @@
+<title>Whale Shark Wallpapers for iPhone - Dive into Serenity</title>
+                    <meta name="description" content="Discover breathtaking whale shark wallpapers for your iPhone. Enhance your device with stunning, high-resolution images of these majestic creatures. Perfect for nature lovers! Download now to bring the ocean's tranquility to your screen.">
+                    <meta name="keywords" content="iphone whale shark wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-whale-shark-wallpaper">
+                            <span itemprop="name">iphone whale shark wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Whale Shark Wallpapers for iPhone - Dive into Serenity</h1>
+                <p>Transform your iPhone with stunning whale shark wallpapers that capture the majestic beauty of these gentle giants. Perfect for ocean lovers, these vibrant images add a serene touch to your device. Dive into a world of tranquility with high-resolution designs tailored for all iPhone models. Make a splash today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1K+ Whale Shark Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1540202404-b2979d19ed37?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8d2hhbGUlMjBzaGFya3xlbnwwfHwwfHx8MA%3D%3D' alt='1K+ Whale Shark Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="5333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1540202404-b2979d19ed37?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8d2hhbGUlMjBzaGFya3xlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="whale shark starfish">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/15/31/56/153156f7705251e055043da4c379bfa8.jpg' alt='whale shark starfish'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/15/31/56/153156f7705251e055043da4c379bfa8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ⅾaniel Nicholson | Giants of the Deep    ~ edited w/ my presets ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3523370116610609198' alt='Ⅾaniel Nicholson | Giants of the Deep    ~ edited w/ my presets ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3523370116610609198' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download premium image of Whale shark, blue iPhone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/60/81/f0/6081f08afa997e0131a53585e4f522ca.jpg' alt='Download premium image of Whale shark, blue iPhone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="563">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/60/81/f0/6081f08afa997e0131a53585e4f522ca.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whale Shark Portrait | iPhone Case">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.996781413.9143/flat,750x1000,075,t.jpg' alt='Whale Shark Portrait | iPhone Case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.996781413.9143/flat,750x1000,075,t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Whale shark - Save Our Seas Foundation">
+                                <img itemprop="contentUrl url" src='https://static-wos.saveourseas.com/2021/05/Whale-shark_RS1112_Byron_Dilkes-15.jpg' alt='Whale shark - Save Our Seas Foundation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1367">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Save Our Seas Foundation" />
+                                </span>
+                                <a href='https://static-wos.saveourseas.com/2021/05/Whale-shark_RS1112_Byron_Dilkes-15.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Each whale shark's spot pattern is as unique as a fingerprint ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10159594222613586' alt='Each whale shark's spot pattern is as unique as a fingerprint ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1589">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10159594222613586' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="84 the best orca wallpaper iphone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fc/60/81/fc60810e06371ca327c69d9be6e294c1.jpg' alt='84 the best orca wallpaper iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fc/60/81/fc60810e06371ca327c69d9be6e294c1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Set of 3 Whale Shark Smart Phone Wallpaper, Minimalist Design ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/40903775/r/il/1cb85c/5154117094/il_fullxfull.5154117094_ca37.jpg' alt='Set of 3 Whale Shark Smart Phone Wallpaper, Minimalist Design ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2182">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/40903775/r/il/1cb85c/5154117094/il_fullxfull.5154117094_ca37.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Whale Shark Swimming In The Ocean Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/shark-iphone-6f10vdwv64fpiir1.jpg' alt='Download Whale Shark Swimming In The Ocean Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/shark-iphone-6f10vdwv64fpiir1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

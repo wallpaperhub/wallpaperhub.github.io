@@ -1,0 +1,129 @@
+<title>Elden Ring Art Wallpapers: Stunning Backgrounds for Every Device</title>
+                    <meta name="description" content="Discover breathtaking Elden Ring art wallpapers to elevate your device's background. Explore diverse designs that showcase the game's captivating visuals, perfect for fans who want to immerse themselves in the fantasy world of Elden Ring every day. Download your favorites today!">
+                    <meta name="keywords" content="elden ring art wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/elden-ring-art-wallpaper">
+                            <span itemprop="name">elden ring art wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elden Ring Art Wallpapers: Stunning Backgrounds for Every Device</h1>
+                <p>Elden Ring art wallpapers offer a stunning visual experience for fans of the game. Featuring beautiful landscapes, intricate character designs, and epic battle scenes, these wallpapers bring the world of Elden Ring to life on your screen. Perfect for enhancing your desktop or mobile device with vibrant imagery that captures the essence of the game.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Community :: Guide :: Wallpaper: ELDEN RING | Ultra 4k">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/2058741034012525685/D0FBE13833A04573BA78B1584C510EFC5CED0DEF/' alt='Steam Community :: Guide :: Wallpaper: ELDEN RING | Ultra 4k'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/2058741034012525685/D0FBE13833A04573BA78B1584C510EFC5CED0DEF/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ELDEN RING NIGHTREIGN - 4k Key Art without logo (wallpaper) : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/elden-ring-nightreign-4k-key-art-without-logo-wallpaper-v0-iba4lotwcj6e1.jpeg?auto=webp&s=fc61901704e8447d8ae641d3ecef213066c9656e' alt='ELDEN RING NIGHTREIGN - 4k Key Art without logo (wallpaper) : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/elden-ring-nightreign-4k-key-art-without-logo-wallpaper-v0-iba4lotwcj6e1.jpeg?auto=webp&s=fc61901704e8447d8ae641d3ecef213066c9656e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Malenia Blade of Miquella, Elden Ring video game, fan art, DEPTH ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/malenia-blade-of-miquella-elden-ring-video-game-fan-art-v0-stzvb8jghzib1.jpg?width=2250&format=pjpg&auto=webp&s=6eeba452965662878e4f28746885bdc72e387751' alt='Malenia Blade of Miquella, Elden Ring video game, fan art, DEPTH ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2250">
+                                <meta itemprop="height" content="5000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/malenia-blade-of-miquella-elden-ring-video-game-fan-art-v0-stzvb8jghzib1.jpg?width=2250&format=pjpg&auto=webp&s=6eeba452965662878e4f28746885bdc72e387751' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Community :: Guide :: Wallpaper: ELDEN RING | Ultra 4k">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/2058741034012531342/09DEEE47EA43FCB49736D73359054591B68D0C3A/' alt='Steam Community :: Guide :: Wallpaper: ELDEN RING | Ultra 4k'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2318">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/2058741034012531342/09DEEE47EA43FCB49736D73359054591B68D0C3A/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elden Ring wallpaper design | Art Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.3388641118.2398/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Elden Ring wallpaper design | Art Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.3388641118.2398/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elden Ring">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/60/53/ab/6053aba5cc65e57fc7d4589bf9e225f6.jpg' alt='Elden Ring'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="573">
+                                <meta itemprop="height" content="1019">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/60/53/ab/6053aba5cc65e57fc7d4589bf9e225f6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Tarnished (Elden Ring) Video Game Elden Ring HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/122/1222761.jpg' alt='Download Tarnished (Elden Ring) Video Game Elden Ring HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1953">
+                                <meta itemprop="height" content="1356">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/122/1222761.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elden Ring Wallpaper Iphone and Android PFP">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ff/16/04/ff1604e55972bb6ea5bbc6bf75f6f639.jpg' alt='Elden Ring Wallpaper Iphone and Android PFP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ff/16/04/ff1604e55972bb6ea5bbc6bf75f6f639.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper from software, game art, Elden Ring, Malenia Blade of ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/0/c8/elden-ring-from-software-game-art-malenia-blade-of-miquella.webp' alt='Wallpaper from software, game art, Elden Ring, Malenia Blade of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/0/c8/elden-ring-from-software-game-art-malenia-blade-of-miquella.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Tarnished (Elden Ring) Video Game Elden Ring Art">
+                                <img itemprop="contentUrl url" src='https://artfiles.alphacoders.com/153/thumb-1920-153219.jpg' alt='Download Tarnished (Elden Ring) Video Game Elden Ring Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1360">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://artfiles.alphacoders.com/153/thumb-1920-153219.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

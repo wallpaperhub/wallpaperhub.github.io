@@ -1,0 +1,129 @@
+<title>Charming Pastel Red Wallpaper: A Trendy Decor Choice</title>
+                    <meta name="description" content="Add a touch of warmth to your home with pastel red wallpaper. Perfect for any room, its soft hue creates a cozy atmosphere, stylishly blending with various decor. Easy to apply and change, it's a simple way to refresh your space and express your unique aesthetic. Explore today!">
+                    <meta name="keywords" content="pastel red wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red">
+                            <span itemprop="name">Red</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red/pastel-red-wallpaper">
+                            <span itemprop="name">pastel red wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Pastel Red Wallpaper: A Trendy Decor Choice</h1>
+                <p>Pastel red wallpaper adds a soft, warm touch to any space, creating a cozy and inviting atmosphere. Ideal for living rooms, bedrooms, or nurseries, it pairs beautifully with neutral tones and natural materials. Easy to apply and remove, it's perfect for a quick home refresh. Embrace this charming trend to express your unique style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1125x2436 Pastel Red Solid Color Background">
+                                <img itemprop="contentUrl url" src='https://www.solidbackgrounds.com/images/1125x2436/1125x2436-pastel-red-solid-color-background.jpg' alt='1125x2436 Pastel Red Solid Color Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Solid Color Backgrounds" />
+                                </span>
+                                <a href='https://www.solidbackgrounds.com/images/1125x2436/1125x2436-pastel-red-solid-color-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Red Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/different-colorful-watercolor-backgrounds_1340-8979.jpg' alt='Pastel Red Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/different-colorful-watercolor-backgrounds_1340-8979.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pastel Red Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pastel-red-txrloogrlzv0q0e0.jpg' alt='100+] Pastel Red Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pastel-red-txrloogrlzv0q0e0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="You Are Loved Pastel Red Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/you-are-loved-pastel-red-aesthetic-tsjxrpwbrahpextb.jpg' alt='You Are Loved Pastel Red Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/you-are-loved-pastel-red-aesthetic-tsjxrpwbrahpextb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Red Wallpaper §3.jpg | Yeliab | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/2143/1649286070_f1304b5ddf.jpg' alt='Pastel Red Wallpaper §3.jpg | Yeliab | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/2143/1649286070_f1304b5ddf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red gradient papercut background pastel red colors with shiny ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/003/354/623/small/red-gradient-papercut-background-pastel-red-colors-with-shiny-effect-free-vector.jpg' alt='Red gradient papercut background pastel red colors with shiny ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="356">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/003/354/623/small/red-gradient-papercut-background-pastel-red-colors-with-shiny-effect-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Red Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/watercolor-sugar-cotton-clouds-background_23-2149238183.jpg' alt='Pastel Red Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/watercolor-sugar-cotton-clouds-background_23-2149238183.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel hearts red background seamless pattern - PatternPictures">
+                                <img itemprop="contentUrl url" src='https://www.patternpictures.com/wp-content/uploads/gold-connected-hearts-background-seamless-patternpictures-1912.png' alt='Pastel hearts red background seamless pattern - PatternPictures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PatternPictures" />
+                                </span>
+                                <a href='https://www.patternpictures.com/wp-content/uploads/gold-connected-hearts-background-seamless-patternpictures-1912.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Pastel Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/002/300/224/non_2x/abstract-pastel-red-gradient-background-concept-for-your-graphic-colorful-design-vector.jpg' alt='Red Pastel Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/002/300/224/non_2x/abstract-pastel-red-gradient-background-concept-for-your-graphic-colorful-design-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel wallpapers for iPhone and iPad">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2020/08/Pastel-iPhone-wallpaper-Arthur1992aS-iDownloadBlog-Red-thumbnail.jpeg' alt='Pastel wallpapers for iPhone and iPad'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2732">
+                                <meta itemprop="height" content="2732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2020/08/Pastel-iPhone-wallpaper-Arthur1992aS-iDownloadBlog-Red-thumbnail.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

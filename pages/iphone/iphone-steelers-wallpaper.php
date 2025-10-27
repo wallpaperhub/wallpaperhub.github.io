@@ -1,0 +1,129 @@
+<title>Pittsburgh Steelers iPhone Wallpapers: Show Your Team Spirit</title>
+                    <meta name="description" content="Discover vibrant Pittsburgh Steelers wallpapers perfect for your iPhone! Elevate your device's look while showing your team spirit. Browse our collection and find the ideal wallpaper to express your passion for the Steelers. Download now and sport your fandom everywhere you go!">
+                    <meta name="keywords" content="iphone steelers wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-steelers-wallpaper">
+                            <span itemprop="name">iphone steelers wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Pittsburgh Steelers iPhone Wallpapers: Show Your Team Spirit</h1>
+                <p>Looking to showcase your love for the Pittsburgh Steelers on your iPhone? Explore a collection of stunning Steelers wallpapers that'll bring your home screen to life. Whether you want the iconic logo or dynamic action shots, there's something for every fan. Download your favorite Steelers wallpaper today and represent your team with pride!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Steelers Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/steelers-iphone-xlfi663ud4rk7bw7.jpg' alt='100+] Steelers Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/steelers-iphone-xlfi663ud4rk7bw7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Most Popular Steelers Wallpapers For Iphone FULL HD 1920×1080 ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f8/40/d0/f840d0b924739ea310cb1a7ad2a2fed2.jpg' alt='10 Most Popular Steelers Wallpapers For Iphone FULL HD 1920×1080 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f8/40/d0/f840d0b924739ea310cb1a7ad2a2fed2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pittsburgh Steelers I-Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/f7/39/ab/f739aba66a33582618bd6902b1bb9595.jpg' alt='Pittsburgh Steelers I-Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/f7/39/ab/f739aba66a33582618bd6902b1bb9595.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pittsburgh Steelers Wallpaper 4K, Yellow background">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/pittsburgh-steelers-1080x2160-15963.png' alt='Pittsburgh Steelers Wallpaper 4K, Yellow background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/pittsburgh-steelers-1080x2160-15963.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pittsburgh Steelers Video Conferencing Background | Pittsburgh ...">
+                                <img itemprop="contentUrl url" src='https://static.clubs.nfl.com/image/upload/steelers/f7nps2cdmfpym88ldtsv' alt='Pittsburgh Steelers Video Conferencing Background | Pittsburgh ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pittsburgh Steelers" />
+                                </span>
+                                <a href='https://static.clubs.nfl.com/image/upload/steelers/f7nps2cdmfpym88ldtsv' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made y'all a phone wallpaper in case you want to use it. I'm not ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/itxarj4xah971.png' alt='I made y'all a phone wallpaper in case you want to use it. I'm not ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/itxarj4xah971.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steelers, got, six, steel, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/114/692/HD-wallpaper-steelers-got-six-steel.jpg' alt='Steelers, got, six, steel, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/114/692/HD-wallpaper-steelers-got-six-steel.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Steelers Nation Unites in Support of Our Beloved Team ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/steelers-iphone-qu971340xajfgbnf.jpg' alt='Download Steelers Nation Unites in Support of Our Beloved Team ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/steelers-iphone-qu971340xajfgbnf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steelers iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp13086901.jpg' alt='Steelers iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp13086901.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Pittsburgh Steelers Mobile Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/gold-pittsburgh-steelers-mobile-5srn8yapje976m92.jpg' alt='Gold Pittsburgh Steelers Mobile Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/gold-pittsburgh-steelers-mobile-5srn8yapje976m92.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

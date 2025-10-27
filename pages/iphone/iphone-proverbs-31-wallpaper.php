@@ -1,0 +1,129 @@
+<title>Proverbs 31 iPhone Wallpapers: Empower Your Device</title>
+                    <meta name="description" content="Discover stunning Proverbs 31 wallpapers for your iPhone! Stylish designs infused with inspirational messages empower your screen and uplift your spirits. Perfect for anyone seeking a blend of aesthetics and faith, these wallpapers are a daily source of motivation. Download yours today for a refreshing look!">
+                    <meta name="keywords" content="iphone proverbs 31 wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-proverbs-31-wallpaper">
+                            <span itemprop="name">iphone proverbs 31 wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Proverbs 31 iPhone Wallpapers: Empower Your Device</h1>
+                <p>Transform your iPhone with our Proverbs 31 wallpaper, designed to empower and inspire. Featuring beautiful typography and serene backgrounds, this digital art piece serves as a daily reminder of strength, wisdom, and virtue. Perfect for expressing your faith and style, it harmoniously blends elegance with motivation.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Proverbs 31:25 iPhone & Mobile Walllpaper Design – The Verse">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/2130/1075/files/iPhone_Wallpaper_62596938-5cdc-4974-b1a3-e526bbdd00cb.png?v=1612097065' alt='Download Proverbs 31:25 iPhone & Mobile Walllpaper Design – The Verse'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Verse" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/2130/1075/files/iPhone_Wallpaper_62596938-5cdc-4974-b1a3-e526bbdd00cb.png?v=1612097065' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Proverbs 31:30 - Phone Wallpaper and Mobile Background">
+                                <img itemprop="contentUrl url" src='https://media.swncdn.com/cms/CROSSCARDS/54031-prov-31-30-mobile.jpg' alt='Proverbs 31:30 - Phone Wallpaper and Mobile Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Crosscards.com" />
+                                </span>
+                                <a href='https://media.swncdn.com/cms/CROSSCARDS/54031-prov-31-30-mobile.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Proverbs 31:25 Iphone/android Scripture Background - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38955137/r/il/d5625f/4346800496/il_1080xN.4346800496_8v7j.jpg' alt='Proverbs 31:25 Iphone/android Scripture Background - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38955137/r/il/d5625f/4346800496/il_1080xN.4346800496_8v7j.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Proverbs 31:25 wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/58/62/d3/5862d3c1e20f5a8b98fde602c8b0cc3c.jpg' alt='Proverbs 31:25 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/58/62/d3/5862d3c1e20f5a8b98fde602c8b0cc3c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apple Blossom Proverbs 31:30 – Encouraging Bible Verses">
+                                <img itemprop="contentUrl url" src='https://bibleversestogo.com/wp-content/uploads/2022/12/AppleBlossomProv31-30Web-1.jpg' alt='Apple Blossom Proverbs 31:30 – Encouraging Bible Verses'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bible Verses To Go" />
+                                </span>
+                                <a href='https://bibleversestogo.com/wp-content/uploads/2022/12/AppleBlossomProv31-30Web-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Proverbs 31:25 Phone Wallpaper - A Virtuous Woman">
+                                <img itemprop="contentUrl url" src='https://avirtuouswoman.org/wp-content/uploads/edd/2021/05/She-is-Clothed-with-Strength-and-Dignity_instagram-story.jpg' alt='Proverbs 31:25 Phone Wallpaper - A Virtuous Woman'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="A Virtuous Woman" />
+                                </span>
+                                <a href='https://avirtuouswoman.org/wp-content/uploads/edd/2021/05/She-is-Clothed-with-Strength-and-Dignity_instagram-story.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Bible Verse Printable and iPhone Wallpaper {Proverbs 31:25 ...">
+                                <img itemprop="contentUrl url" src='https://daisycottagedesigns.net/wp-content/uploads/2014/05/Proverbs31.25inframe.jpg' alt='Free Bible Verse Printable and iPhone Wallpaper {Proverbs 31:25 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="587">
+                                <meta itemprop="height" content="770">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Daisy Cottage Designs -" />
+                                </span>
+                                <a href='https://daisycottagedesigns.net/wp-content/uploads/2014/05/Proverbs31.25inframe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/07/06/4e/07064efbf7396e3e4a56e793d8f4804b.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="739">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/07/06/4e/07064efbf7396e3e4a56e793d8f4804b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Proverbs 31 Lock Screen – Life Is Art">
+                                <img itemprop="contentUrl url" src='https://cbrlifeisart.com/wp-content/uploads/2017/10/cbrookering_proverbs31_lockscreen.jpg?w=337' alt='Proverbs 31 Lock Screen – Life Is Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="337">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Life Is Art – An Inspiration Blog by C. Brooke Ring" />
+                                </span>
+                                <a href='https://cbrlifeisart.com/wp-content/uploads/2017/10/cbrookering_proverbs31_lockscreen.jpg?w=337' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Box Proverbs 31:10 – Encouraging Bible Verses">
+                                <img itemprop="contentUrl url" src='https://bibleversestogo.com/wp-content/uploads/2022/12/PinkBoxProv31-10Web-1.jpg' alt='Pink Box Proverbs 31:10 – Encouraging Bible Verses'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bible Verses To Go" />
+                                </span>
+                                <a href='https://bibleversestogo.com/wp-content/uploads/2022/12/PinkBoxProv31-10Web-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

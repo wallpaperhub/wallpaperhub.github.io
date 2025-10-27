@@ -1,0 +1,129 @@
+<title>Laugh Out Loud: Hilarious Duck Pictures!</title>
+                    <meta name="description" content="Explore a delightful collection of funny duck pictures that are sure to make you smile! From playful antics to quirky poses, these charming birds capture the essence of humor. Perfect for a quick laugh, these images are a must-see for duck lovers and comedy fans alike!">
+                    <meta name="keywords" content="funny duck pictures">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/funny-duck-pictures">
+                            <span itemprop="name">funny duck pictures</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Laugh Out Loud: Hilarious Duck Pictures!</h1>
+                <p>When you think of funny duck pictures, you may envision waddling quackers with hilarious expressions or wearing goofy hats! These charming birds provide endless comic relief with their quirky antics. From splashing in puddles to striking silly poses, funny duck pictures bring joy and laughter to our screens!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny Duck Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/029/259/238/small/of-a-muscovy-duck-in-the-farmland-generative-ai-photo.jpg' alt='Funny Duck Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="357">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/029/259/238/small/of-a-muscovy-duck-in-the-farmland-generative-ai-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny Duck Images – Browse 152,813 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/07/64/84/57/360_F_764845724_6zL7rCEhxk9olCJJpPGNf8hRWTFqfHGZ.jpg' alt='Funny Duck Images – Browse 152,813 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/07/64/84/57/360_F_764845724_6zL7rCEhxk9olCJJpPGNf8hRWTFqfHGZ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny Duck Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/027/121/108/small/funny-ducks-portrait-free-photo.jpg' alt='Funny Duck Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="306">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/027/121/108/small/funny-ducks-portrait-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11 Duck memes ideas | duck memes, funny duck, duck">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/ba/fc/7f/bafc7f41ae221cf44263156eac00b8b1.jpg' alt='11 Duck memes ideas | duck memes, funny duck, duck'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="977">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/ba/fc/7f/bafc7f41ae221cf44263156eac00b8b1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny Duck GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/snavumWFnqUAAAAM/duck.gif' alt='Funny Duck GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="502">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/snavumWFnqUAAAAM/duck.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Duck Giving Me A Funny Look Free Stock Photo - Public Domain Pictures">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/07/64/61/45/220_F_764614525_YVxXTzSwNzSR9uGESCkREklBt3FGi1G1.jpg' alt='Duck Giving Me A Funny Look Free Stock Photo - Public Domain Pictures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="121">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Public Domain Pictures" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/07/64/61/45/220_F_764614525_YVxXTzSwNzSR9uGESCkREklBt3FGi1G1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="21,800+ Funny Duck Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1277616658/photo/duck-head.jpg?s=612x612&w=0&k=20&c=Wnb_KMarg8sg9pjukZpm3gpUFx36IKM4XtstXANAjsQ=' alt='21,800+ Funny Duck Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="445">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1277616658/photo/duck-head.jpg?s=612x612&w=0&k=20&c=Wnb_KMarg8sg9pjukZpm3gpUFx36IKM4XtstXANAjsQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="funny-duck | photo of duck in national geographic | gnotalex | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/4142/4772672978_946dbf8e66.jpg' alt='funny-duck | photo of duck in national geographic | gnotalex | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="495">
+                                <meta itemprop="height" content="371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/4142/4772672978_946dbf8e66.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny Duck GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/cjk8Bj1CLnIAAAAM/duck-pog.gif' alt='Funny Duck GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/cjk8Bj1CLnIAAAAM/duck-pog.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Duck Funny Images – Browse 152,355 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/01/36/91/57/360_F_136915769_OJOj7wL8kyBBkFm8BiYOBc1RSwYVRz6f.jpg' alt='Duck Funny Images – Browse 152,355 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="539">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/01/36/91/57/360_F_136915769_OJOj7wL8kyBBkFm8BiYOBc1RSwYVRz6f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

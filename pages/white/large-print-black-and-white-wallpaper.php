@@ -1,0 +1,129 @@
+<title>Transform Your Space with Large Print Black and White Wallpaper</title>
+                    <meta name="description" content="Discover the elegance of large print black and white wallpaper. Perfect for creating stunning feature walls, it complements various decor styles while adding depth and personality to your interiors. Shop now for unique designs that elevate your living or working space.">
+                    <meta name="keywords" content="large print black and white wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/large-print-black-and-white-wallpaper">
+                            <span itemprop="name">large print black and white wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Large Print Black and White Wallpaper</h1>
+                <p>Large print black and white wallpaper adds a bold, sophisticated touch to any space. Ideal for creating a striking feature wall, it contrasts beautifully with vibrant colors and minimalist decor. Perfect for modern homes or commercial spaces, this wallpaper transforms interiors into stylish havens, making a memorable impression on visitors.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black & White Large Print Damask Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/black-white-large-print-damask-wallpape-iisw.jpg' alt='Black & White Large Print Damask Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/black-white-large-print-damask-wallpape-iisw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mythic Black and White Large Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/mythic-black-and-white-large-floral-wal-jsul.jpg' alt='Mythic Black and White Large Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/mythic-black-and-white-large-floral-wal-jsul.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and White Toile Peony Removable Mural - Self Adhesive Floral ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/22653445/r/il/eb8c74/4532159003/il_570xN.4532159003_k3gt.jpg' alt='Black and White Toile Peony Removable Mural - Self Adhesive Floral ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="835">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/22653445/r/il/eb8c74/4532159003/il_570xN.4532159003_k3gt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Graphic Wallpaper -big Print Black and White Wall Mural ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25174938/r/il/67ad70/2589573799/il_570xN.2589573799_d4x9.jpg' alt='Black Graphic Wallpaper -big Print Black and White Wall Mural ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25174938/r/il/67ad70/2589573799/il_570xN.2589573799_d4x9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and white graphic large print Wallpaper | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/11304179/i/l/rFI-HVrf-F-x8Gp8KwOMiGXWS09CNvCeBSVW4P1A20-bp_ihmJ5zNA/11304179-black-white-graphic-large-print-by-denisebeverly.jpg' alt='Black and white graphic large print Wallpaper | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/11304179/i/l/rFI-HVrf-F-x8Gp8KwOMiGXWS09CNvCeBSVW4P1A20-bp_ihmJ5zNA/11304179-black-white-graphic-large-print-by-denisebeverly.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Striking black and white safari non-woven wallpaper - zebras & large-scale  pattern repetition">
+                                <img itemprop="contentUrl url" src='https://www.new-walls.com/media/cf/07/a7/1724473378/aba735dc4dc610371b0202b8fa8a183f.jpg' alt='Striking black and white safari non-woven wallpaper - zebras & large-scale  pattern repetition'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="New-Walls.com" />
+                                </span>
+                                <a href='https://www.new-walls.com/media/cf/07/a7/1724473378/aba735dc4dc610371b0202b8fa8a183f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Wallpaper 2FT Wide Monochrome Stripe Bold 60S Black And White  Pop Art Large Print Custom Removable Wallpaper by Spoonflower">
+                                <img itemprop="contentUrl url" src='https://static.platform.michaels.com/2c-prd/4612172550522196896.jpeg' alt='Peel & Stick Wallpaper 2FT Wide Monochrome Stripe Bold 60S Black And White  Pop Art Large Print Custom Removable Wallpaper by Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Michaels" />
+                                </span>
+                                <a href='https://static.platform.michaels.com/2c-prd/4612172550522196896.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Mural Photo Wallpaper A black and white sketch grawing of ...">
+                                <img itemprop="contentUrl url" src='https://static.uwalls.com/products/104000/104372/w01253pib6mr_1200.webp' alt='Wall Mural Photo Wallpaper A black and white sketch grawing of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uwalls.com" />
+                                </span>
+                                <a href='https://static.uwalls.com/products/104000/104372/w01253pib6mr_1200.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clara - Heavy Type II">
+                                <img itemprop="contentUrl url" src='http://wallsneedlove.com/cdn/shop/products/w0089_1s_Bold-Floral-Pattern-Wallpaper-for-Walls-Clara-Black-_-White_Repeating-Pattern-Sample-1.jpg?v=1734718114' alt='Clara - Heavy Type II'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3028">
+                                <meta itemprop="height" content="1872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='http://wallsneedlove.com/cdn/shop/products/w0089_1s_Bold-Floral-Pattern-Wallpaper-for-Walls-Clara-Black-_-White_Repeating-Pattern-Sample-1.jpg?v=1734718114' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black & White Stripe • Bold & Elegant Wallpaper • Milton & King">
+                                <img itemprop="contentUrl url" src='https://www.miltonandking.com/wp-content/uploads/2018/10/Wallpaper-IngridMika-BWStripe-1-1100x1318.jpg' alt='Black & White Stripe • Bold & Elegant Wallpaper • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1318">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://www.miltonandking.com/wp-content/uploads/2018/10/Wallpaper-IngridMika-BWStripe-1-1100x1318.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

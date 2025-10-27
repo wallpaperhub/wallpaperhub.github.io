@@ -1,0 +1,129 @@
+<title>Soft Heart Wallpaper: Embrace Love in Your Space</title>
+                    <meta name="description" content="Discover the beauty of soft heart wallpaper to elevate your home decor. This charming wallpaper features delicate heart designs in soothing colors, ideal for creating a tranquil and loving environment. Enhance any room with the warmth and elegance of soft heart wallpaper today!">
+                    <meta name="keywords" content="soft heart wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart">
+                            <span itemprop="name">Heart</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart/soft-heart-wallpaper">
+                            <span itemprop="name">soft heart wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Soft Heart Wallpaper: Embrace Love in Your Space</h1>
+                <p>Soft heart wallpaper brings warmth and charm to any room with its inviting colors and sweet designs. Perfect for creating a cozy atmosphere, these wallpapers feature delicate heart patterns, gentle pastels, and lovely textures. Transform your space into a haven of love and comfort with this delightful decor choice!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soft pink heart wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/b0/cb/81/b0cb815526edae04370e69186e0ee8d9.jpg' alt='Soft pink heart wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="889">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/b0/cb/81/b0cb815526edae04370e69186e0ee8d9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable wallpaper heart templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE3xo4NryE/1/0/900w/canva-wallpaper-phone-with-hearts-and-phrase-be-mine-5--1xTHuHe8.jpg' alt='Free and customizable wallpaper heart templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE3xo4NryE/1/0/900w/canva-wallpaper-phone-with-hearts-and-phrase-be-mine-5--1xTHuHe8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paste the Wall: Smooth, Matte Finish / Sample: 48cm x 40cm ( 1' 7" x 1' 3"  ) / Not Applicable - I'm ordering a sample.">
+                                <img itemprop="contentUrl url" src='https://oliveetoriel.com/cdn/shop/files/1_8472e0f5-af02-48ce-8f8d-f333f5b7906f.jpg?v=1693352188&width=1200' alt='Paste the Wall: Smooth, Matte Finish / Sample: 48cm x 40cm ( 1' 7" x 1' 3"  ) / Not Applicable - I'm ordering a sample.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Olive et Oriel" />
+                                </span>
+                                <a href='https://oliveetoriel.com/cdn/shop/files/1_8472e0f5-af02-48ce-8f8d-f333f5b7906f.jpg?v=1693352188&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soft Red Heart Aura Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/soft-red-heart-aura-aesthetic-zdq2kg545sa7c0br.jpg' alt='Soft Red Heart Aura Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/soft-red-heart-aura-aesthetic-zdq2kg545sa7c0br.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="45+ Pink Heart Wallpaper Ideas for a Soft and Lovely Touch">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4f/d8/97/4fd897ec34df245127dd52fcb1789081.jpg' alt='45+ Pink Heart Wallpaper Ideas for a Soft and Lovely Touch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4f/d8/97/4fd897ec34df245127dd52fcb1789081.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="35,400+ Soft Heart Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1365015604/photo/cloudy-white-heart-made-of-cotton-against-pink-background-minimal-flat-lay-love-concept-st.jpg?s=612x612&w=0&k=20&c=UkHQLXHxEaTJdw52eU8qKzeg9PG6CzuRwx4HZ9N6YG0=' alt='35,400+ Soft Heart Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1365015604/photo/cloudy-white-heart-made-of-cotton-against-pink-background-minimal-flat-lay-love-concept-st.jpg?s=612x612&w=0&k=20&c=UkHQLXHxEaTJdw52eU8qKzeg9PG6CzuRwx4HZ9N6YG0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soft Heart Bokeh Background Wallpaper Texture Stock Photo ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/soft-heart-bokeh-background-wallpaper-260nw-571568653.jpg' alt='Soft Heart Bokeh Background Wallpaper Texture Stock Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="389">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/soft-heart-bokeh-background-wallpaper-260nw-571568653.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Heart Mobile Wallpaper - free download">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/high/pink-heart-mobile-wallpaper-566.webp' alt='Pink Heart Mobile Wallpaper - free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="839">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/high/pink-heart-mobile-wallpaper-566.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soft Heart Pattern Mobile Wallpaper Background Wallpaper Image For ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fw800/background/20240603/pngtree-soft-heart-pattern-mobile-wallpaper-image_15856244.jpg' alt='Soft Heart Pattern Mobile Wallpaper Background Wallpaper Image For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fw800/background/20240603/pngtree-soft-heart-pattern-mobile-wallpaper-image_15856244.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soft Heart Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/054/323/152/small_2x/pink-glass-heart-shining-on-soft-pink-silk-background-photo.jpg' alt='Soft Heart Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/054/323/152/small_2x/pink-glass-heart-shining-on-soft-pink-silk-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

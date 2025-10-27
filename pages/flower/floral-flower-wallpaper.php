@@ -1,0 +1,129 @@
+<title>Beautiful Floral Flower Wallpaper for Every Room</title>
+                    <meta name="description" content="Discover exquisite floral flower wallpaper that brightens your home with nature's charm. Perfect for any room, our collection features diverse patterns and colors to suit your style. Elevate your décor effortlessly and create a welcoming ambiance with our stunning designs.">
+                    <meta name="keywords" content="floral flower wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flower">
+                            <span itemprop="name">Flower</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flower/floral-flower-wallpaper">
+                            <span itemprop="name">floral flower wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful Floral Flower Wallpaper for Every Room</h1>
+                <p>Transform your space with stunning floral flower wallpaper that brings the beauty of nature indoors. These vibrant designs add a fresh, lively touch to any room, from cozy living areas to elegant bedrooms. Choose from a variety of patterns and colors to express your unique style and create an inviting atmosphere in your home.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="JiffDiff Black White Camellia Wildflower Floral Wallpaper Peel and Stick  Wallpaper Watercolor Blooming Flower Wallpaper Wall Decor (118.1" x 17.3",  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/818sHXztwtL.jpg' alt='JiffDiff Black White Camellia Wildflower Floral Wallpaper Peel and Stick  Wallpaper Watercolor Blooming Flower Wallpaper Wall Decor (118.1" x 17.3",  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1185">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/818sHXztwtL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sample of Pretty Flowers Wallpaper in Multicoloured – I Love Wallpaper">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/1-PrettyFlowers-Multicoloured_ILW50364_Thumbnail_WEB.webp?v=1705418776&width=1024' alt='Sample of Pretty Flowers Wallpaper in Multicoloured – I Love Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/1-PrettyFlowers-Multicoloured_ILW50364_Thumbnail_WEB.webp?v=1705418776&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Blue Classical Flower Floral Wallpaper R9226">
+                                <img itemprop="contentUrl url" src='https://wallsrepublic.com/cdn/shop/files/DarkBlueClassicalFlowerFloralWallpaperR9226.jpg?v=1736259300&width=1200' alt='Dark Blue Classical Flower Floral Wallpaper R9226'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='https://wallsrepublic.com/cdn/shop/files/DarkBlueClassicalFlowerFloralWallpaperR9226.jpg?v=1736259300&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abundance • Colorful Flower Wallpaper by Kip&Co • Milton & King">
+                                <img itemprop="contentUrl url" src='https://www.miltonandking.com/wp-content/uploads/2022/07/KIP-Abundance-1.jpg' alt='Abundance • Colorful Flower Wallpaper by Kip&Co • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://www.miltonandking.com/wp-content/uploads/2022/07/KIP-Abundance-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wild Flowers Wallpaper Peach and Green">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/1-WildFlowers_PeachandGreen_ILW50045_Thumbnail_WEB_321259e9-2f8e-4e69-afcd-f94b5e9429b0.webp?crop=center&height=1024&v=1705931767&width=1024' alt='Wild Flowers Wallpaper Peach and Green'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/1-WildFlowers_PeachandGreen_ILW50045_Thumbnail_WEB_321259e9-2f8e-4e69-afcd-f94b5e9429b0.webp?crop=center&height=1024&v=1705931767&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: BZHXBZ - Floral Wallpaper Pink Peony murals Girls Bedroom  Botanical Rose Flowers Leaf Aesthetic Room Decor Home Living Room tv  Background ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/814I+ikHw0L.jpg' alt='Amazon.com: BZHXBZ - Floral Wallpaper Pink Peony murals Girls Bedroom  Botanical Rose Flowers Leaf Aesthetic Room Decor Home Living Room tv  Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/814I+ikHw0L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hibiscus & Other Flowers Wallpaper for Walls | Wonderful ...">
+                                <img itemprop="contentUrl url" src='https://wallsneedlove.com/cdn/shop/products/w0470_1s_Wonderful-Wildflowers-Removable-Peel-and-Stick-Wallpaper_Repeating-Pattern-Sample-1_8395efb2-ed8a-4d04-9217-1a3ffe5d9068_1800x1800.jpg?v=1734718010' alt='Hibiscus & Other Flowers Wallpaper for Walls | Wonderful ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1113">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='https://wallsneedlove.com/cdn/shop/products/w0470_1s_Wonderful-Wildflowers-Removable-Peel-and-Stick-Wallpaper_Repeating-Pattern-Sample-1_8395efb2-ed8a-4d04-9217-1a3ffe5d9068_1800x1800.jpg?v=1734718010' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Classic Minimalist Floral Wallpaper R9302">
+                                <img itemprop="contentUrl url" src='https://wallsrepublic.com/cdn/shop/files/BlackClassicMinimalistFloralWallpaperR9302.jpg?v=1736259188&width=1200' alt='Black Classic Minimalist Floral Wallpaper R9302'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='https://wallsrepublic.com/cdn/shop/files/BlackClassicMinimalistFloralWallpaperR9302.jpg?v=1736259188&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wildflower Wallpaper, Floral Wallpaper, Nursery Kids Flower ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/26458108/r/il/910dce/6363152104/il_fullxfull.6363152104_4ycd.jpg' alt='Wildflower Wallpaper, Floral Wallpaper, Nursery Kids Flower ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2353">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/26458108/r/il/910dce/6363152104/il_fullxfull.6363152104_4ycd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Large Scale Florals • Beautiful Designer Wallpaper • Milton & King">
+                                <img itemprop="contentUrl url" src='https://s29938.pcdn.co/wp-content/uploads/2024/11/BL097-B-HibiscusAtDoubleBay-Beige-1.jpg.optimal.jpg' alt='Large Scale Florals • Beautiful Designer Wallpaper • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://s29938.pcdn.co/wp-content/uploads/2024/11/BL097-B-HibiscusAtDoubleBay-Beige-1.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

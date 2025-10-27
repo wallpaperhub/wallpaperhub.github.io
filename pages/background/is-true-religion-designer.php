@@ -1,0 +1,129 @@
+<title>Is True Religion a Designer Brand? Explore the Truth!</title>
+                    <meta name="description" content="Uncover whether True Religion qualifies as a designer brand. Explore its premium quality, unique styles, and place in the fashion industry. Learn about its influence and how it aligns with designer standards in casual wear. Discover the facts behind this iconic denim label!">
+                    <meta name="keywords" content="is true religion designer">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/is-true-religion-designer">
+                            <span itemprop="name">is true religion designer</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Is True Religion a Designer Brand? Explore the Truth!</h1>
+                <p>True Religion, known for its premium denim and distinct style, is often seen as a designer brand. With a focus on quality craftsmanship, unique designs, and celebrity endorsements, True Religion has carved a niche in the fashion world. Its iconic stitching and signature logo appeal to fashion-forward consumers, making it a recognizable name in luxury casual wear.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Behind the Scenes With True Religion CEO Michael Buckley">
+                                <img itemprop="contentUrl url" src='https://sourcingjournal.com/wp-content/uploads/2022/08/Michael-Buckley-True-Religion.jpg?w=1024' alt='Behind the Scenes With True Religion CEO Michael Buckley'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sourcing Journal" />
+                                </span>
+                                <a href='https://sourcingjournal.com/wp-content/uploads/2022/08/Michael-Buckley-True-Religion.jpg?w=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="True Religion Counting on a Comeback with New CEO, Creative Director">
+                                <img itemprop="contentUrl url" src='https://sourcingjournal.com/wp-content/uploads/2019/10/true-religion.jpg' alt='True Religion Counting on a Comeback with New CEO, Creative Director'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sourcing Journal" />
+                                </span>
+                                <a href='https://sourcingjournal.com/wp-content/uploads/2019/10/true-religion.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Talking With The Co-Founder of TRUE RELIGION: Kym Gold | The ...">
+                                <img itemprop="contentUrl url" src='https://www.theskinnyconfidential.com/wp-content/uploads/2015/10/kym-gold-title.jpg' alt='Talking With The Co-Founder of TRUE RELIGION: Kym Gold | The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1129">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Skinny Confidential" />
+                                </span>
+                                <a href='https://www.theskinnyconfidential.com/wp-content/uploads/2015/10/kym-gold-title.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Behind the Scenes With True Religion CEO Michael Buckley">
+                                <img itemprop="contentUrl url" src='https://sourcingjournal.com/wp-content/uploads/2021/09/sMain.png' alt='Behind the Scenes With True Religion CEO Michael Buckley'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="661">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sourcing Journal" />
+                                </span>
+                                <a href='https://sourcingjournal.com/wp-content/uploads/2021/09/sMain.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="True Religion Counting on a Comeback with New CEO, Creative Director">
+                                <img itemprop="contentUrl url" src='https://sourcingjournal.com/wp-content/uploads/2019/10/tr1.jpg' alt='True Religion Counting on a Comeback with New CEO, Creative Director'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1499">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sourcing Journal" />
+                                </span>
+                                <a href='https://sourcingjournal.com/wp-content/uploads/2019/10/tr1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="True Religion history | Behind Jeans">
+                                <img itemprop="contentUrl url" src='https://behindjeans.wordpress.com/wp-content/uploads/2014/10/true-religion-jeffrey.jpg' alt='True Religion history | Behind Jeans'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Behind Jeans - WordPress.com" />
+                                </span>
+                                <a href='https://behindjeans.wordpress.com/wp-content/uploads/2014/10/true-religion-jeffrey.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brands: Discover Jeffrey Lubell's new brand">
+                                <img itemprop="contentUrl url" src='https://www.the-spin-off.com/news/media/6/discover-jeffrey-lubell-cout-de-la-liberte-55841-detailp.jpeg' alt='Brands: Discover Jeffrey Lubell's new brand'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="783">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="the-spin-off.com" />
+                                </span>
+                                <a href='https://www.the-spin-off.com/news/media/6/discover-jeffrey-lubell-cout-de-la-liberte-55841-detailp.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TowerBrook to Purchase True Religion Apparel for $835 Million ...">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2013/05/11/business/Jeans2/Jeans2-articleInline.jpg' alt='TowerBrook to Purchase True Religion Apparel for $835 Million ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="190">
+                                <meta itemprop="height" content="313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DealBook - The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2013/05/11/business/Jeans2/Jeans2-articleInline.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CEO Interview: Jeffrey Lubell | True Religion – Alister & Paine">
+                                <img itemprop="contentUrl url" src='https://alisterpaine.com/wp-content/uploads/2011/05/Jeffrey-Lubell-True-Religion-Jeans.jpg' alt='CEO Interview: Jeffrey Lubell | True Religion – Alister & Paine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="330">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alister & Paine" />
+                                </span>
+                                <a href='https://alisterpaine.com/wp-content/uploads/2011/05/Jeffrey-Lubell-True-Religion-Jeans.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="True Religion history | Behind Jeans">
+                                <img itemprop="contentUrl url" src='https://behindjeans.wordpress.com/wp-content/uploads/2014/10/true-religion-logo.jpg?w=640' alt='True Religion history | Behind Jeans'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="477">
+                                <meta itemprop="height" content="387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Behind Jeans - WordPress.com" />
+                                </span>
+                                <a href='https://behindjeans.wordpress.com/wp-content/uploads/2014/10/true-religion-logo.jpg?w=640' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

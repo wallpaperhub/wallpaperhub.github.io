@@ -1,0 +1,129 @@
+<title>Delicious Macarons: A Journey Through Flavor</title>
+                    <meta name="description" content="Discover the enchanting world of macarons! From their rich history to vibrant flavors, explore what makes these French treats a delightful dessert choice. Perfect for any occasion, macarons offer a unique taste experience that is sure to impress. Dive into the journey of this beloved confection!">
+                    <meta name="keywords" content="macarons background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/macarons-background">
+                            <span itemprop="name">macarons background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Delicious Macarons: A Journey Through Flavor</h1>
+                <p>Macarons are delicate French confections made from almond flour, egg whites, and sugar, filled with buttercream, ganache, or jam. Originating in Italy and popularized by France in the 20th century, these colorful treats are known for their crisp shells and soft interiors. Their diverse flavors and artistic designs make them a favorite dessert worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="350+ Macaron Pictures [HD] | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1558326567-98ae2405596b?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWFjYXJvbnxlbnwwfHwwfHx8MA%3D%3D' alt='350+ Macaron Pictures [HD] | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3796">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1558326567-98ae2405596b?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWFjYXJvbnxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The origins of the macaron: the history of an exceptional pastry ...">
+                                <img itemprop="contentUrl url" src='https://www.fauchon.com/cdn/shop/articles/2160x675_macarons_2.jpg?v=1724339290&width=1920' alt='The origins of the macaron: the history of an exceptional pastry ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FAUCHON Paris" />
+                                </span>
+                                <a href='https://www.fauchon.com/cdn/shop/articles/2160x675_macarons_2.jpg?v=1724339290&width=1920' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Les Macarons: What Makes Them So Unique? [Tips And Recipes Included]">
+                                <img itemprop="contentUrl url" src='http://monpanierlatin.co.uk/cdn/shop/articles/istockphoto-941917868-612x612.jpg?v=1646557123' alt='Les Macarons: What Makes Them So Unique? [Tips And Recipes Included]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mon Panier Latin" />
+                                </span>
+                                <a href='http://monpanierlatin.co.uk/cdn/shop/articles/istockphoto-941917868-612x612.jpg?v=1646557123' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful colorful tasty macaroons on a concrete background ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/004/870/324/non_2x/beautiful-colorful-tasty-macaroons-on-a-concrete-background-photo.jpg' alt='Beautiful colorful tasty macaroons on a concrete background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="625">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/004/870/324/non_2x/beautiful-colorful-tasty-macaroons-on-a-concrete-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Look Into Meringue: A Macaron Essential | Chelles Macarons">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/54151d7ee4b0a43a90459ae2/1622583556317-X9GC0NVFBDUZMSWT9YIC/Row+of+colorful+french+macarons+on+blue+background..jpg' alt='A Look Into Meringue: A Macaron Essential | Chelles Macarons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chelles Macarons" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/54151d7ee4b0a43a90459ae2/1622583556317-X9GC0NVFBDUZMSWT9YIC/Row+of+colorful+french+macarons+on+blue+background..jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Macaroons Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.miltonandking.com/wp-content/uploads/2018/10/Wallpaper-Kemra-Macaroons-1-1100x1318.jpg' alt='Macaroons Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1318">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://www.miltonandking.com/wp-content/uploads/2018/10/Wallpaper-Kemra-Macaroons-1-1100x1318.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Macaron Images – Browse 442,246 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/00/88/54/68/360_F_88546826_FoU1mXcn2s0viDCZE6BVFGswSfQJVEva.jpg' alt='Macaron Images – Browse 442,246 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/00/88/54/68/360_F_88546826_FoU1mXcn2s0viDCZE6BVFGswSfQJVEva.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="French Macarons on Pink Background. Stock Image - Image of crushed ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/french-macarons-pink-background-sweet-french-macarons-pink-background-lovely-pastel-colored-homemade-macarons-108539831.jpg' alt='French Macarons on Pink Background. Stock Image - Image of crushed ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/french-macarons-pink-background-sweet-french-macarons-pink-background-lovely-pastel-colored-homemade-macarons-108539831.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper iPhone ⚪️">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8c/e9/d0/8ce9d04c12d1f467bb139dffe2addb0e.jpg' alt='Wallpaper iPhone ⚪️'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8c/e9/d0/8ce9d04c12d1f467bb139dffe2addb0e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,100+ Macarons Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1301243934/vector/seamless-pattern-with-watercolor-colorful-macaroons-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=lzCWn22vMYaesfEKgcVR5dcibH4vH1erdA9PHBDsZGI=' alt='4,100+ Macarons Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1301243934/vector/seamless-pattern-with-watercolor-colorful-macaroons-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=lzCWn22vMYaesfEKgcVR5dcibH4vH1erdA9PHBDsZGI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

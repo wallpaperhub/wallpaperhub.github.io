@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="steph curry white background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/steph-curry-white-background">
+                            <span itemprop="name">steph curry white background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stephen Curry NBA 2022">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e0/63/aa/e063aa68ad8f8857d3096f3391aaf738.jpg' alt='Stephen Curry NBA 2022'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e0/63/aa/e063aa68ad8f8857d3096f3391aaf738.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,983 Steph Curry Portrait Stock Photos, High-Res Pictures, and ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1704942704/photo/san-francisco-ca-stephen-curry-of-the-golden-state-warriors-poses-for-a-portrait-during-nba.jpg?s=612x612&w=gi&k=20&c=SsSI2wEGIrpuQ5E3wEVg2Q9ne4x9er9rJKGMxmdXLXs=' alt='2,983 Steph Curry Portrait Stock Photos, High-Res Pictures, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1704942704/photo/san-francisco-ca-stephen-curry-of-the-golden-state-warriors-poses-for-a-portrait-during-nba.jpg?s=612x612&w=gi&k=20&c=SsSI2wEGIrpuQ5E3wEVg2Q9ne4x9er9rJKGMxmdXLXs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Stephen Curry transparent png render free. Golden State ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/e1/eb/5b/e1eb5b86e332e8814c79a451ea3a94a4.jpg' alt='Download Stephen Curry transparent png render free. Golden State ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/e1/eb/5b/e1eb5b86e332e8814c79a451ea3a94a4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stephen Curry NBA 2022/23">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e8/37/52/e83752bde8f64e96bc0a1ceae94ea671.jpg' alt='Stephen Curry NBA 2022/23'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e8/37/52/e83752bde8f64e96bc0a1ceae94ea671.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steph Curry Wallpaper Projects :: Photos, videos, logos ...">
+                                <img itemprop="contentUrl url" src='https://mir-s3-cdn-cf.behance.net/projects/404/2beaa4145044449.6297409d28650.png' alt='Steph Curry Wallpaper Projects :: Photos, videos, logos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="404">
+                                <meta itemprop="height" content="316">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Behance" />
+                                </span>
+                                <a href='https://mir-s3-cdn-cf.behance.net/projects/404/2beaa4145044449.6297409d28650.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Golden State Warriors Stephen Curry Sports HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/123/1236086.jpg' alt='Download Golden State Warriors Stephen Curry Sports HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/123/1236086.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Golden State Warriors Stephen Curry Sports HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/123/1236234.jpg' alt='Download Golden State Warriors Stephen Curry Sports HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1363">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/123/1236234.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stephen curry | Nba stephen curry, Stephen curry, Curry basketball">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/51/ab/19/51ab19c3791e280ec93c9a2aca6c56db.jpg' alt='Stephen curry | Nba stephen curry, Stephen curry, Curry basketball'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1058">
+                                <meta itemprop="height" content="1587">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/51/ab/19/51ab19c3791e280ec93c9a2aca6c56db.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stephen Curry With Basketball Is Standing In White Background ...">
+                                <img itemprop="contentUrl url" src='https://www.hdwallpapers.in/download/stephen_curry_with_basketball_is_standing_in_white_background_wearing_white_blue_sports_dress_4k_hd_stephen_curry-HD.jpg' alt='Stephen Curry With Basketball Is Standing In White Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HD Wallpapers" />
+                                </span>
+                                <a href='https://www.hdwallpapers.in/download/stephen_curry_with_basketball_is_standing_in_white_background_wearing_white_blue_sports_dress_4k_hd_stephen_curry-HD.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Steph Curry Golden State Warriors Action Pose ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/steph-curry-golden-state-warriors-action-pose-upvvep0cvr8r5m6p.jpg' alt='Download Steph Curry Golden State Warriors Action Pose ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/steph-curry-golden-state-warriors-action-pose-upvvep0cvr8r5m6p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

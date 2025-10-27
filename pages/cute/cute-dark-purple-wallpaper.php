@@ -1,0 +1,129 @@
+<title>Cute Dark Purple Wallpaper for Stylish Spaces</title>
+                    <meta name="description" content="Discover adorable dark purple wallpaper that transforms your space with charm and style. Ideal for bedrooms or creative areas, this wallpaper combines elegance with cuteness, creating a cozy vibe. Elevate your decor effortlessly with these unique designs that resonate with your personality!">
+                    <meta name="keywords" content="cute dark purple wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-dark-purple-wallpaper">
+                            <span itemprop="name">cute dark purple wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cute Dark Purple Wallpaper for Stylish Spaces</h1>
+                <p>Cute dark purple wallpaper adds a touch of elegance and whimsy to any space. Its deep hue creates a cozy ambiance while showcasing adorable patterns or designs. Perfect for bedrooms, nurseries, or creative workspaces, this wallpaper combines charm with comfort. Transform your area into a stylish haven with this unique decor choice!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Kimberly Brady on I love everything purple | Dark purple ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/8a/4e/cd/8a4ecd607e8aba677039522aee7cf2b0.jpg' alt='Pin by Kimberly Brady on I love everything purple | Dark purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="332">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/8a/4e/cd/8a4ecd607e8aba677039522aee7cf2b0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable dark purple wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAF5XyUW7TY/2/0/900w/canva-purple-celestial-watercolor-phone-wallpaper-orcOc9H6YrI.jpg' alt='Free and customizable dark purple wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAF5XyUW7TY/2/0/900w/canva-purple-celestial-watercolor-phone-wallpaper-orcOc9H6YrI.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Megan Woods on violet in 2022 | Pretty wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4f/88/9c/4f889c66870d8836c7c2f7592e52ee26.jpg' alt='Pin by Megan Woods on violet in 2022 | Pretty wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4f/88/9c/4f889c66870d8836c7c2f7592e52ee26.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Dark Purple Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/dark-purple-2ku1mlb3fihxk1au.jpg' alt='100+] Dark Purple Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/dark-purple-2ku1mlb3fihxk1au.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Purple Aesthetic Circles Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/dark-purple-aesthetic-circles-9tpm53ivv4rq3t6v.jpg' alt='Dark Purple Aesthetic Circles Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/dark-purple-aesthetic-circles-9tpm53ivv4rq3t6v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b8/82/2a/b8822a7644ca363cfd628c1c2f5bb2c2.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="1157">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b8/82/2a/b8822a7644ca363cfd628c1c2f5bb2c2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Dark Purple Simple Heart Led Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dark-purple-simple-heart-led-3s4ql6d8j80za3ap.jpg' alt='Download Dark Purple Simple Heart Led Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dark-purple-simple-heart-led-3s4ql6d8j80za3ap.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11 Random wallpapers ideas | purple wallpaper, dark purple ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/ca/e5/28/cae528c23168c0048f83b7e28ddb9515.jpg' alt='11 Random wallpapers ideas | purple wallpaper, dark purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/ca/e5/28/cae528c23168c0048f83b7e28ddb9515.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark purple wallpaper | Gallery posted by Hi | Lemon8">
+                                <img itemprop="contentUrl url" src='https://p16-va.lemon8cdn.com/tos-maliva-v-ac5634-us/osQx6FCtJDmD0h1lCQAeDrVlEfdSsIBE5EIAAA~tplv-tej9nj120t-origin.webp' alt='Dark purple wallpaper | Gallery posted by Hi | Lemon8'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1336">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://p16-va.lemon8cdn.com/tos-maliva-v-ac5634-us/osQx6FCtJDmD0h1lCQAeDrVlEfdSsIBE5EIAAA~tplv-tej9nj120t-origin.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Purple Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/dark-purple-lights-h472i7rf9dlsqtov.jpg' alt='Dark Purple Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/dark-purple-lights-h472i7rf9dlsqtov.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Follow Up Email After Reference Check</title>
+                    <meta name="description" content="Discover how to craft an effective follow-up email after a reference check. Boost candidate communication and enhance your hiring process with our concise guide.">
+                    <meta name="keywords" content="follow up email after reference check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/follow-up-email-after-reference-check">
+                            <span itemprop="name">follow up email after reference check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Follow Up Email After Reference Check</h1>
+                <p>Subject: Follow-Up on Reference Check  Hi [Recipient's Name],  I hope this message finds you well. I wanted to follow up regarding the reference check for [Candidate's Name]. We appreciate your insights and feedback. If there's any further information you can share, please feel free to reach out. Thank you for your valuable assistance in this process!  Best regards,  [Your Name]  [Your Position]  [Your Company]</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Follow Up Email After Reference Check Templates: How To Write ...">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/628288c5cd3e8451380a36c7/638836f4f6d14d97c31e4ae7_follow-up-email-after-reference-check.png' alt='Follow Up Email After Reference Check Templates: How To Write ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2597">
+                                <meta itemprop="height" content="1768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Copy.ai" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/628288c5cd3e8451380a36c7/638836f4f6d14d97c31e4ae7_follow-up-email-after-reference-check.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rejected after reference checks. I don't know how much longer I ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/rejected-after-reference-checks-i-dont-know-how-much-longer-v0-vatfphg18vwc1.jpg?width=640&crop=smart&auto=webp&s=3d04a7f9e402b8f33159afaa143544767a0fa9d7' alt='Rejected after reference checks. I don't know how much longer I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/rejected-after-reference-checks-i-dont-know-how-much-longer-v0-vatfphg18vwc1.jpg?width=640&crop=smart&auto=webp&s=3d04a7f9e402b8f33159afaa143544767a0fa9d7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Write a Follow-up Email After Interview">
+                                <img itemprop="contentUrl url" src='https://www.liveagent.com/app/uploads/2022/04/after-interview-second-email-template.png' alt='How to Write a Follow-up Email After Interview'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="599">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LiveAgent" />
+                                </span>
+                                <a href='https://www.liveagent.com/app/uploads/2022/04/after-interview-second-email-template.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4 Ways to Write a Follow Up Email for a Job Application - wikiHow">
+                                <img itemprop="contentUrl url" src='https://www.wikihow.com/images/thumb/1/18/Email-to-Check-in-on-Status-of-Application_sample.png/340px-Email-to-Check-in-on-Status-of-Application_sample.png.webp' alt='4 Ways to Write a Follow Up Email for a Job Application - wikiHow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="340">
+                                <meta itemprop="height" content="481">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wikiHow" />
+                                </span>
+                                <a href='https://www.wikihow.com/images/thumb/1/18/Email-to-Check-in-on-Status-of-Application_sample.png/340px-Email-to-Check-in-on-Status-of-Application_sample.png.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Follow Up Email After Reference Check Templates: How To Write ...">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/628288c5cd3e8451380a36c7/638836f4f6d14d83a61e4ae6_thumb-follow-up-email-after-reference-check.png' alt='Follow Up Email After Reference Check Templates: How To Write ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Copy.ai" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/628288c5cd3e8451380a36c7/638836f4f6d14d83a61e4ae6_thumb-follow-up-email-after-reference-check.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Write the Best Follow Up Email After Interview: 10+ Sample ...">
+                                <img itemprop="contentUrl url" src='https://ceomichaelhr.com/wp-content/uploads/2022/09/follow-up-email-template-1-853x1024.jpg' alt='How to Write the Best Follow Up Email After Interview: 10+ Sample ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="853">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CEOMichaelHR Resume Writing Services" />
+                                </span>
+                                <a href='https://ceomichaelhr.com/wp-content/uploads/2022/09/follow-up-email-template-1-853x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hiring Automation: Post-Interview Reference Checks | Facet Interactive">
+                                <img itemprop="contentUrl url" src='https://facetinteractive.com/sites/default/files/blog/20200226/Reference-Checks-18.jpg' alt='Hiring Automation: Post-Interview Reference Checks | Facet Interactive'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="345">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facet Interactive" />
+                                </span>
+                                <a href='https://facetinteractive.com/sites/default/files/blog/20200226/Reference-Checks-18.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Write A Follow-Up Email Template: Step-By-Step Guide">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/6502e7865e2946d1b1a37d80/662bef9797380557c0461c70_What%20Is%20A%20Follow-Up%20Email.webp' alt='How To Write A Follow-Up Email Template: Step-By-Step Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bluedot" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/6502e7865e2946d1b1a37d80/662bef9797380557c0461c70_What%20Is%20A%20Follow-Up%20Email.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Follow Up Email After Interview Template Check more at https ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f7/48/65/f748655892e830b2c4d7802ca72fcb01.jpg' alt='Follow Up Email After Interview Template Check more at https ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="585">
+                                <meta itemprop="height" content="565">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f7/48/65/f748655892e830b2c4d7802ca72fcb01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rejected after reference checks. I don't know how much longer I ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/rejected-after-reference-checks-i-dont-know-how-much-longer-v0-kmf41jg18vwc1.jpg?width=640&crop=smart&auto=webp&s=c2d47e5f2d66d6631e98938f78159461e270fc31' alt='Rejected after reference checks. I don't know how much longer I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="965">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/rejected-after-reference-checks-i-dont-know-how-much-longer-v0-kmf41jg18vwc1.jpg?width=640&crop=smart&auto=webp&s=c2d47e5f2d66d6631e98938f78159461e270fc31' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

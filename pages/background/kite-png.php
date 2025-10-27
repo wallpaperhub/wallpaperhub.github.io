@@ -1,0 +1,129 @@
+<title>Vibrant Kite PNGs for Creative Projects</title>
+                    <meta name="description" content="Explore our collection of high-quality kite PNG images, ideal for enhancing your designs. Perfect for all creative uses, these transparent graphics add color and fun to your projects. Start downloading now to elevate your visuals!">
+                    <meta name="keywords" content="kite png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/kite-png">
+                            <span itemprop="name">kite png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Kite PNGs for Creative Projects</h1>
+                <p>Discover a vibrant collection of kite PNG images! Perfect for web design, presentations, or any creative project, these transparent background graphics make it easy to add a pop of color and fun. Whether you're showcasing hobbies or creating a festive atmosphere, our kite PNGs are a fantastic resource. Download yours today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kite PNG Clip Art Image​ | Gallery Yopriceville - High-Quality ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/downloadfullsize/send/21742' alt='Kite PNG Clip Art Image​ | Gallery Yopriceville - High-Quality ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6958">
+                                <meta itemprop="height" content="8000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/downloadfullsize/send/21742' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kite png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/802/455/png-clipart-kite-kite-miscellaneous-leaf.png' alt='Kite png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1005">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/802/455/png-clipart-kite-kite-miscellaneous-leaf.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kite PNG, Vector, PSD, and Clipart With Transparent Background for ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20221028/ourmid/pngtree-pipa-fundo-transparente-or-colorful-kite-illustration-png-image_6395344.png' alt='Kite PNG, Vector, PSD, and Clipart With Transparent Background for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20221028/ourmid/pngtree-pipa-fundo-transparente-or-colorful-kite-illustration-png-image_6395344.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kite PNG transparent image download, size: 522x600px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/kite_PNG44.png' alt='Kite PNG transparent image download, size: 522x600px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="522">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/kite_PNG44.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kite PNG Transparent Images Free Download | Vector Files | Pngtree">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20210404/original/pngtree-red-cartoon-style-harvest-kite-png-image_6194386.jpg' alt='Kite PNG Transparent Images Free Download | Vector Files | Pngtree'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20210404/original/pngtree-red-cartoon-style-harvest-kite-png-image_6194386.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kite PNG Transparent Clipart​ | Gallery Yopriceville - High ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/downloadfullsize/send/29885' alt='Kite PNG Transparent Clipart​ | Gallery Yopriceville - High ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6748">
+                                <meta itemprop="height" content="8000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/downloadfullsize/send/29885' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kite PNG Images - SimilarPNG">
+                                <img itemprop="contentUrl url" src='https://image.similarpng.com/file/similarpng/very-thumbnail/2020/06/Colorful-kite-flying-vector-PNG.png' alt='Kite PNG Images - SimilarPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="784">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Similar PNG" />
+                                </span>
+                                <a href='https://image.similarpng.com/file/similarpng/very-thumbnail/2020/06/Colorful-kite-flying-vector-PNG.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector Blue And Yellow Kite PNG - freepng">
+                                <img itemprop="contentUrl url" src='https://freepng.com/uploads/images/202302/ree-vector-blue-and-yellow-kite-png_1020x.jpg' alt='Free Vector Blue And Yellow Kite PNG - freepng'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="freepng" />
+                                </span>
+                                <a href='https://freepng.com/uploads/images/202302/ree-vector-blue-and-yellow-kite-png_1020x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Kite Png Image - Photo #1975 - PngFile.net | Free PNG ...">
+                                <img itemprop="contentUrl url" src='https://pngfile.net/download/BsDVEHll8x7EniBy6Cb6hr4SdjzyCW1neSoFchLrbGW6CMnX3sRwqTd746g4YrwWg3q9briYZwIX6RPncnS3yzriB3R7jplOgtL1urhBZHW2SycRfD8hQAYgWelUwm3aKgxcssZvN8up5V2iqfy6nJrQsQZgKbu39A3g7rn05ROOOzhDg7Ov7BUR6eiQyIjl3P5d9zP6/large' alt='Colorful Kite Png Image - Photo #1975 - PngFile.net | Free PNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2779">
+                                <meta itemprop="height" content="2779">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PngFile.net" />
+                                </span>
+                                <a href='https://pngfile.net/download/BsDVEHll8x7EniBy6Cb6hr4SdjzyCW1neSoFchLrbGW6CMnX3sRwqTd746g4YrwWg3q9briYZwIX6RPncnS3yzriB3R7jplOgtL1urhBZHW2SycRfD8hQAYgWelUwm3aKgxcssZvN8up5V2iqfy6nJrQsQZgKbu39A3g7rn05ROOOzhDg7Ov7BUR6eiQyIjl3P5d9zP6/large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Kite PNG Clip Art Image​ | Gallery Yopriceville - High ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/var/albums/Free-Clipart-Pictures/Summer-Vacation-PNG/Colorful_Kite_PNG_Clip_Art_Image.png?m=1629817410' alt='Colorful Kite PNG Clip Art Image​ | Gallery Yopriceville - High ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7211">
+                                <meta itemprop="height" content="8000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/var/albums/Free-Clipart-Pictures/Summer-Vacation-PNG/Colorful_Kite_PNG_Clip_Art_Image.png?m=1629817410' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

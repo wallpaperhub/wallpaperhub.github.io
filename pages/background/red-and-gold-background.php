@@ -1,0 +1,129 @@
+<title>Stunning Red and Gold Backgrounds for Vibrant Designs</title>
+                    <meta name="description" content="Discover the elegance of red and gold backgrounds! Perfect for festive designs or luxurious aesthetics, these vibrant combinations bring warmth and sophistication. Create stunning visuals that captivate and inspire with our selection of red and gold backgrounds. Ideal for any creative project!">
+                    <meta name="keywords" content="red and gold background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/red-and-gold-background">
+                            <span itemprop="name">red and gold background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Red and Gold Backgrounds for Vibrant Designs</h1>
+                <p>A red and gold background exudes warmth and elegance, perfect for festive occasions or luxurious designs. The vibrant red symbolizes passion and energy, while the gold adds a touch of sophistication and glamour. This striking combination can elevate any visual project, drawing attention and creating an inviting atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 2 | Red And Gold Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/gradient-luxury-ribbon-background_52683-151394.jpg' alt='Page 2 | Red And Gold Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/gradient-luxury-ribbon-background_52683-151394.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Red Gold Images – Browse 3,695,603 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/85/87/10/360_F_485871039_1nvre3LHbspbtEDmXFZwkfkm3dbmBR7Z.jpg' alt='Background Red Gold Images – Browse 3,695,603 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/85/87/10/360_F_485871039_1nvre3LHbspbtEDmXFZwkfkm3dbmBR7Z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Invitation Red Gold Images – Browse 434,465 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/79/09/00/360_F_579090083_wOsxLFPYbGaShRGGNMFWteEWV5fTvKoE.jpg' alt='Invitation Red Gold Images – Browse 434,465 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/79/09/00/360_F_579090083_wOsxLFPYbGaShRGGNMFWteEWV5fTvKoE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="abstract luxury red and gold background vector design modern ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/012/616/862/non_2x/abstract-luxury-red-gold-background-illustration-creative-concept-design-free-vector.jpg' alt='abstract luxury red and gold background vector design modern ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1742">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/012/616/862/non_2x/abstract-luxury-red-gold-background-illustration-creative-concept-design-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red And Gold Luxury Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/elegant-christmas-background_1176-211.jpg' alt='Red And Gold Luxury Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/elegant-christmas-background_1176-211.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Gold Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20210902/pngtree-red-gold-business-red-atmosphere-red-gold-business-poster-background-image_790599.jpg' alt='Red Gold Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="808">
+                                <meta itemprop="height" content="404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20210902/pngtree-red-gold-business-red-atmosphere-red-gold-business-poster-background-image_790599.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="133,600+ Red And Gold Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1367642196/vector/elegant-3d-abstract-golden-ribbon-and-wave-lines-on-red-background.jpg?s=612x612&w=0&k=20&c=7v-H9ZLK7PJLrIrMKjLAULwKX-z3clRVTFvmkBXMPhw=' alt='133,600+ Red And Gold Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1367642196/vector/elegant-3d-abstract-golden-ribbon-and-wave-lines-on-red-background.jpg?s=612x612&w=0&k=20&c=7v-H9ZLK7PJLrIrMKjLAULwKX-z3clRVTFvmkBXMPhw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red and gold background Royalty Free Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/32/16/red-and-gold-background-vector-833216.jpg' alt='Red and gold background Royalty Free Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="708">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/32/16/red-and-gold-background-vector-833216.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Gold Abstract Pappercut Background, Red, Gold, Pappercut ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a3/e0/6b/a3e06b28069cbc7bcc74e9e2e86b383c.jpg' alt='Red Gold Abstract Pappercut Background, Red, Gold, Pappercut ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="345">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a3/e0/6b/a3e06b28069cbc7bcc74e9e2e86b383c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Gold Background Vector Images (over 170,000)">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/500p/37/28/abstract-background-design-modern-red-and-gold-vector-49733728.jpg' alt='Red Gold Background Vector Images (over 170,000)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/500p/37/28/abstract-background-design-modern-red-and-gold-vector-49733728.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

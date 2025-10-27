@@ -1,0 +1,129 @@
+<title>Rock Legends: The Timeless Legacy of AC/DC</title>
+                    <meta name="description" content="Explore the electrifying world of AC/DC, the legendary rock band that defined hard rock with hits like "Back in Black." Discover their history, iconic sound, and thrilling performances that continue to inspire fans worldwide. Join us in celebrating their lasting legacy and influence in music history.">
+                    <meta name="keywords" content="acdc">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/acdc">
+                            <span itemprop="name">acdc</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Rock Legends: The Timeless Legacy of AC/DC</h1>
+                <p>AC/DC, the iconic Australian rock band, formed in 1973, is known for its electrifying sound and high-energy performances. With timeless hits like "Back in Black" and "Highway to Hell," they revolutionized hard rock. Their powerful riffs, distinctive vocals by Brian Johnson, and legendary concerts continue to inspire generations of music lovers.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AC/DC Interview: Angus Young, Brian Johnson on New 'Power Up' Album">
+                                <img itemprop="contentUrl url" src='https://www.rollingstone.com/wp-content/uploads/2020/10/10025-01E-JC-white_group_4559_sRGB.jpg' alt='AC/DC Interview: Angus Young, Brian Johnson on New 'Power Up' Album'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone" />
+                                </span>
+                                <a href='https://www.rollingstone.com/wp-content/uploads/2020/10/10025-01E-JC-white_group_4559_sRGB.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Brothers Who Built AC/DC | The New Yorker">
+                                <img itemprop="contentUrl url" src='https://media.newyorker.com/photos/59095f7eebe912338a374b3a/master/w_2560%2Cc_limit/Michaud-ACDC.jpg' alt='The Brothers Who Built AC/DC | The New Yorker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New Yorker" />
+                                </span>
+                                <a href='https://media.newyorker.com/photos/59095f7eebe912338a374b3a/master/w_2560%2Cc_limit/Michaud-ACDC.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Highway To Hell">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71ov-DhyciL._UF1000,1000_QL80_.jpg' alt='Highway To Hell'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="906">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71ov-DhyciL._UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AC/DC Returns With 'Power Up,' A Tribute To Malcolm Young : NPR">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/img/2020/11/13/embargoed-until-10.7---main-press-image-5cc067aea2bca504861c7e9a055f69d6b79e43d9.jpg' alt='AC/DC Returns With 'Power Up,' A Tribute To Malcolm Young : NPR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2586">
+                                <meta itemprop="height" content="1939">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/img/2020/11/13/embargoed-until-10.7---main-press-image-5cc067aea2bca504861c7e9a055f69d6b79e43d9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AC/DC Black Ice Double LP | Shop the AC/DC Official Store">
+                                <img itemprop="contentUrl url" src='https://static.musictoday.com/store/bands/4372/product_600/X3LPAC16.jpg' alt='AC/DC Black Ice Double LP | Shop the AC/DC Official Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AC/DC Official Store" />
+                                </span>
+                                <a href='https://static.musictoday.com/store/bands/4372/product_600/X3LPAC16.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ACDC Logo, symbol, meaning, history, PNG, brand">
+                                <img itemprop="contentUrl url" src='https://logos-world.net/wp-content/uploads/2020/06/AC-DC-Logo.png' alt='ACDC Logo, symbol, meaning, history, PNG, brand'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Logos-world" />
+                                </span>
+                                <a href='https://logos-world.net/wp-content/uploads/2020/06/AC-DC-Logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The impossible return of AC/DC: 'You could feel the electricity in ...">
+                                <img itemprop="contentUrl url" src='https://i.guim.co.uk/img/media/663df4ca465081b796ad837755286ce87c8eaaa7/475_93_6066_3640/master/6066.jpg?width=1200&quality=85&auto=format&fit=max&s=96972e55adff0e0e730563317745b447' alt='The impossible return of AC/DC: 'You could feel the electricity in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Guardian" />
+                                </span>
+                                <a href='https://i.guim.co.uk/img/media/663df4ca465081b796ad837755286ce87c8eaaa7/475_93_6066_3640/master/6066.jpg?width=1200&quality=85&auto=format&fit=max&s=96972e55adff0e0e730563317745b447' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Best AC/DC Songs: Readers' Poll">
+                                <img itemprop="contentUrl url" src='https://www.rollingstone.com/wp-content/uploads/2018/06/gettyimages-76838137-b37ffc8a-8fcb-4141-801d-f6a63a0dbeed.jpg?w=1581&h=1054&crop=1' alt='10 Best AC/DC Songs: Readers' Poll'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1581">
+                                <meta itemprop="height" content="1054">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone" />
+                                </span>
+                                <a href='https://www.rollingstone.com/wp-content/uploads/2018/06/gettyimages-76838137-b37ffc8a-8fcb-4141-801d-f6a63a0dbeed.jpg?w=1581&h=1054&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AC/DC wasn't fair to the designer of the band's multimillion ...">
+                                <img itemprop="contentUrl url" src='https://imagenes.elpais.com/resizer/v2/FIXCFAVRNRAJXLD4RKU4LAVU4U.jpg?auth=c0aada5e5522c755c79a8ea6f1bcf3fb793e246aed3e7c9d070dc0c6ac787724&width=1960&height=1470&focal=2850%2C1900' alt='AC/DC wasn't fair to the designer of the band's multimillion ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1960">
+                                <meta itemprop="height" content="1470">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="elpais english - EL PAÍS" />
+                                </span>
+                                <a href='https://imagenes.elpais.com/resizer/v2/FIXCFAVRNRAJXLD4RKU4LAVU4U.jpg?auth=c0aada5e5522c755c79a8ea6f1bcf3fb793e246aed3e7c9d070dc0c6ac787724&width=1960&height=1470&focal=2850%2C1900' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AC/DC 1979">
+                                <img itemprop="contentUrl url" src='https://paulkingart.com/wp-content/uploads/2024/01/AC-DC-1979_PWKing.jpg' alt='AC/DC 1979'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Paul King Art" />
+                                </span>
+                                <a href='https://paulkingart.com/wp-content/uploads/2024/01/AC-DC-1979_PWKing.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

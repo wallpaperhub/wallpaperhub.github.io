@@ -1,0 +1,129 @@
+<title>Dr. Joe Dispenza: Qualifications and Expertise Revealed</title>
+                    <meta name="description" content="Explore Dr. Joe Dispenza’s impressive qualifications as a chiropractor and expert in neuroscience. Discover how his unique training helps bridge the gap between science and spirituality, empowering individuals to transform their lives through the power of the mind.">
+                    <meta name="keywords" content="dr joe dispenza qualifications">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dr-joe-dispenza-qualifications">
+                            <span itemprop="name">dr joe dispenza qualifications</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dr. Joe Dispenza: Qualifications and Expertise Revealed</h1>
+                <p>Dr. Joe Dispenza is a renowned chiropractor, author, and speaker specializing in neuroscience and quantum physics. He holds a Doctor of Chiropractic degree and has extensive training in neurology and meditation practices. Dispenza’s qualifications are complemented by his research into the mind-body connection and its effects on health and healing.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dr Joe Dispenza">
+                                <img itemprop="contentUrl url" src='https://facingfearfilm.com/wp-content/uploads/2022/08/Dr-Joe-Dispenza.jpg' alt='Dr Joe Dispenza'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facing Fear" />
+                                </span>
+                                <a href='https://facingfearfilm.com/wp-content/uploads/2022/08/Dr-Joe-Dispenza.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dr Joe Dispenza - Faculty Member - Quantum University">
+                                <img itemprop="contentUrl url" src='https://quantumuniversity.com/wp-content/uploads/2023/02/Dr-Joe-Headshot-3B-960x720.webp' alt='Dr Joe Dispenza - Faculty Member - Quantum University'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Quantum University" />
+                                </span>
+                                <a href='https://quantumuniversity.com/wp-content/uploads/2023/02/Dr-Joe-Headshot-3B-960x720.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dr Joe Dispenza - OFFICIAL NEWS & FAN PAGE - In medieval science ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=966127608205183' alt='Dr Joe Dispenza - OFFICIAL NEWS & FAN PAGE - In medieval science ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=966127608205183' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="You Are the Placebo Meditation 1 - Revised Edition">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71lS-qhHtAL._UF894,1000_QL80_.jpg' alt='You Are the Placebo Meditation 1 - Revised Edition'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71lS-qhHtAL._UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LIFE UNIVERSITY ALUMNUS, DR. JOE DISPENZA, RELEASES NEWEST BOOK ...">
+                                <img itemprop="contentUrl url" src='x-raw-image:///8163b9a41a0cd7a31e536395031b6889854ff003bb02776f959721e132dd7deb' alt='LIFE UNIVERSITY ALUMNUS, DR. JOE DISPENZA, RELEASES NEWEST BOOK ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2071">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Life University" />
+                                </span>
+                                <a href='x-raw-image:///8163b9a41a0cd7a31e536395031b6889854ff003bb02776f959721e132dd7deb' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dr Joe Dispenza - Encephalon Inc. / Dr Joe Dispenza | LinkedIn">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/D4E03AQF_VbcJVVWOug/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1701299740724?e=2147483647&v=beta&t=Q4gvyiwAyG5EvC908tDeIC4mGOuhH8_IjJvOxA2rj18' alt='Dr Joe Dispenza - Encephalon Inc. / Dr Joe Dispenza | LinkedIn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/D4E03AQF_VbcJVVWOug/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1701299740724?e=2147483647&v=beta&t=Q4gvyiwAyG5EvC908tDeIC4mGOuhH8_IjJvOxA2rj18' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dr Joe Dispenza">
+                                <img itemprop="contentUrl url" src='https://media.hayhouseu.com/media/corra_imageresizer/cache/author/profile/340x500_co_ar_tr_85/dr-joe-dispenza-2021.jpg' alt='Dr Joe Dispenza'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="340">
+                                <meta itemprop="height" content="323">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hay House Online Learning" />
+                                </span>
+                                <a href='https://media.hayhouseu.com/media/corra_imageresizer/cache/author/profile/340x500_co_ar_tr_85/dr-joe-dispenza-2021.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Change Your Mind Create New Results | Designed by Dr. Joe Dispenza">
+                                <img itemprop="contentUrl url" src='https://coachology.com/wp-content/uploads/2021/03/joe-768x768.jpg' alt='Change Your Mind Create New Results | Designed by Dr. Joe Dispenza'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Coachology" />
+                                </span>
+                                <a href='https://coachology.com/wp-content/uploads/2021/03/joe-768x768.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="You Are the Placebo: Meditation 1: Changing Two Beliefs and ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/610Em8wLhFL._AC_UF1000,1000_QL80_.jpg' alt='You Are the Placebo: Meditation 1: Changing Two Beliefs and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="860">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/610Em8wLhFL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="If the habit of being yourself is a set of automatic thoughts, behaviors,  and emotions acquired through repetition, what might be possible when you  break that habit? What’s on the other side? Share ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/instagram/DF6FbOfz_MV/0/image.jpg' alt='If the habit of being yourself is a set of automatic thoughts, behaviors,  and emotions acquired through repetition, what might be possible when you  break that habit? What’s on the other side? Share ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/instagram/DF6FbOfz_MV/0/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

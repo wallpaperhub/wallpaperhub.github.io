@@ -1,0 +1,129 @@
+<title>JFK: A Brief Biography of America's Iconic President</title>
+                    <meta name="description" content="Discover the life of John F. Kennedy, from his early years to his impactful presidency. Explore his achievements, challenges, and enduring influence on America and the world in this concise biography of one of history's most beloved leaders.">
+                    <meta name="keywords" content="jfk biography">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/jfk-biography">
+                            <span itemprop="name">jfk biography</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>JFK: A Brief Biography of America's Iconic President</h1>
+                <p>John F. Kennedy, the 35th President of the United States, was born on May 29, 1917, in Brookline, Massachusetts. He served from 1961 until his assassination in 1963. A decorated WWII veteran, Kennedy championed civil rights, the space race, and the establishment of the Peace Corps. His iconic speeches and charisma left a lasting legacy.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John F. Kennedy: A Biography">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51sIkc6RpgL._AC_UF1000,1000_QL80_.jpg' alt='John F. Kennedy: A Biography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="662">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51sIkc6RpgL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John F. Kennedy: Biography, 35th U.S. President, Political Leader">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/gettyimages-97347150.jpg' alt='John F. Kennedy: Biography, 35th U.S. President, Political Leader'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/gettyimages-97347150.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="JFK by Fredrik Logevall: 9780812987027 | PenguinRandomHouse.com: Books">
+                                <img itemprop="contentUrl url" src='https://images.penguinrandomhouse.com/cover/9780812987027' alt='JFK by Fredrik Logevall: 9780812987027 | PenguinRandomHouse.com: Books'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="298">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Penguin Random House" />
+                                </span>
+                                <a href='https://images.penguinrandomhouse.com/cover/9780812987027' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="JFK BIOGRAPHY: The story of John f. Kennedy, the man behind the ...">
+                                <img itemprop="contentUrl url" src='https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1592182659i/54031853.jpg' alt='JFK BIOGRAPHY: The story of John f. Kennedy, the man behind the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1587">
+                                <meta itemprop="height" content="2525">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Goodreads" />
+                                </span>
+                                <a href='https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1592182659i/54031853.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John F. Kennedy - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/800px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg' alt='John F. Kennedy - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1037">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/800px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John F. Kennedy | Biography, Family, Presidency, Assassination ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/34/94934-050-BBF93D08/John-F-Kennedy.jpg' alt='John F. Kennedy | Biography, Family, Presidency, Assassination ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/34/94934-050-BBF93D08/John-F-Kennedy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John F. Kennedy: The Biography - The American Century of the JFK  presidency, his assassination and lasting legacy (Politics)">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61P471qIh4L._AC_UF1000,1000_QL80_.jpg' alt='John F. Kennedy: The Biography - The American Century of the JFK  presidency, his assassination and lasting legacy (Politics)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="625">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61P471qIh4L._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Biography - John F. Kennedy: A Personal Story (A&E DVD  Archives) : John F. Kennedy, JFK: Movies & TV">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61WDLS2MF0L._AC_UF894,1000_QL80_.jpg' alt='Amazon.com: Biography - John F. Kennedy: A Personal Story (A&E DVD  Archives) : John F. Kennedy, JFK: Movies & TV'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="631">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61WDLS2MF0L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DK Biography: John F. Kennedy: A Photographic Story of a Life: Kaplan,  Howard S.: 9780756603403: Amazon.com: Books">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61AfpxX3rsL._AC_UF1000,1000_QL80_.jpg' alt='DK Biography: John F. Kennedy: A Photographic Story of a Life: Kaplan,  Howard S.: 9780756603403: Amazon.com: Books'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="657">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61AfpxX3rsL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="JFK">
+                                <img itemprop="contentUrl url" src='https://cdn.penguin.co.uk/dam-assets/books/9780241972014/9780241972014-jacket-large.jpg' alt='JFK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="326">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Penguin Books" />
+                                </span>
+                                <a href='https://cdn.penguin.co.uk/dam-assets/books/9780241972014/9780241972014-jacket-large.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

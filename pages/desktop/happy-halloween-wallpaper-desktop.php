@@ -1,0 +1,129 @@
+<title>Happy Halloween Desktop Wallpapers: Spooky Designs for Your PC</title>
+                    <meta name="description" content="Discover the ultimate collection of happy Halloween wallpapers for your desktop. From cute pumpkins to ghostly figures, transform your screen with festive designs. Perfect for getting into the spooky spirit! Download now and enjoy a frightfully fun desktop this Halloween.">
+                    <meta name="keywords" content="happy halloween wallpaper desktop">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/happy-halloween-wallpaper-desktop">
+                            <span itemprop="name">happy halloween wallpaper desktop</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Happy Halloween Desktop Wallpapers: Spooky Designs for Your PC</h1>
+                <p>Transform your desktop this Halloween with vibrant, spooky wallpapers that set the perfect eerie mood. Celebrate with designs featuring pumpkins, ghosts, witches, and more. Whether you prefer cute or chilling, there’s a wallpaper for everyone. Download and enjoy a festive vibe all month long!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Happy Halloween Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/happy-halloween-1920-x-1080-jzhfup0ua2tuweos.jpg' alt='200+] Happy Halloween Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/happy-halloween-1920-x-1080-jzhfup0ua2tuweos.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Halloween - 01 - Desktop Wallpaper for Kids | Mocomi">
+                                <img itemprop="contentUrl url" src='https://mocomi.com/wp-content/uploads/2015/10/HD_1920x1080_1.jpg' alt='Happy Halloween - 01 - Desktop Wallpaper for Kids | Mocomi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mocomi" />
+                                </span>
+                                <a href='https://mocomi.com/wp-content/uploads/2015/10/HD_1920x1080_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Halloween Wallpaper Background! - Pink Halloween - Kawaii Themed">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4d/c9/53/4dc95311c2821f241472a7335092cd13.jpg' alt='Free Halloween Wallpaper Background! - Pink Halloween - Kawaii Themed'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4d/c9/53/4dc95311c2821f241472a7335092cd13.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Halloween HD Wallpaper for a Spook-tacular Holiday">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/552/thumb-1920-552486.jpg' alt='Happy Halloween HD Wallpaper for a Spook-tacular Holiday'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/552/thumb-1920-552486.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/halloween-background-flat-design_52683-43845.jpg' alt='Halloween Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/halloween-background-flat-design_52683-43845.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Halloween - 04 - Desktop Wallpaper for Kids | Mocomi">
+                                <img itemprop="contentUrl url" src='https://mocomi.com/wp-content/uploads/2015/10/HD_1920x1080_4.jpg' alt='Happy Halloween - 04 - Desktop Wallpaper for Kids | Mocomi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mocomi" />
+                                </span>
+                                <a href='https://mocomi.com/wp-content/uploads/2015/10/HD_1920x1080_4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Happy Halloween Jack-o'-lantern Holiday Halloween HD ...">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/877/thumb-1920-877875.jpg' alt='Download Happy Halloween Jack-o'-lantern Holiday Halloween HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/877/thumb-1920-877875.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download wallpapers Happy Halloween, darkness, pumpkin, Halloween ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9b/49/72/9b497251868ecb6483980711afd79ce1.jpg' alt='Download wallpapers Happy Halloween, darkness, pumpkin, Halloween ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="444">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9b/49/72/9b497251868ecb6483980711afd79ce1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Disney Fall and Halloween Wallpapers for 2024 - Disney Parks Blog">
+                                <img itemprop="contentUrl url" src='https://disneyparksblog.com/app/uploads/2024/10/Mickey-Pumpkin-Halloween-Wallpaper-Desktop-scaled.jpg' alt='New Disney Fall and Halloween Wallpapers for 2024 - Disney Parks Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Parks Blog" />
+                                </span>
+                                <a href='https://disneyparksblog.com/app/uploads/2024/10/Mickey-Pumpkin-Halloween-Wallpaper-Desktop-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free customizable Halloween desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFw2hsKYLw/1/0/1600w/canva-fun-illustrative-maximalist-halloween-festive-desktop-wallpaper-hkVMrCGS5ts.jpg' alt='Free customizable Halloween desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFw2hsKYLw/1/0/1600w/canva-fun-illustrative-maximalist-halloween-festive-desktop-wallpaper-hkVMrCGS5ts.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

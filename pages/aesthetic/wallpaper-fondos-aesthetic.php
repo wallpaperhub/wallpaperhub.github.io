@@ -1,0 +1,129 @@
+<title>Stunning Aesthetic Wallpaper Ideas for Your Space</title>
+                    <meta name="description" content="Transform your surroundings with unique wallpaper fondos aesthetic. Explore a variety of designs that cater to every style and mood. From calming pastels to bold patterns, discover wallpapers that elevate your space and reflect your personality. Perfect for any room, bringing art to your walls!">
+                    <meta name="keywords" content="wallpaper fondos aesthetic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/wallpaper-fondos-aesthetic">
+                            <span itemprop="name">wallpaper fondos aesthetic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Aesthetic Wallpaper Ideas for Your Space</h1>
+                <p>Discover stunning wallpaper fondos aesthetic that breathe life into your space. Whether you’re after soft pastel tones, vibrant patterns, or nature-inspired designs, there's an aesthetic wallpaper for every taste. Elevate your room's vibe with unique visuals, perfect for creating a serene or energizing atmosphere, tailored to your style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Wallpaper Design | Aesthetic iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/98/0a/bf/980abf2116515b6dc2f27500a82645ed.jpg' alt='Abstract Wallpaper Design | Aesthetic iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="841">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/98/0a/bf/980abf2116515b6dc2f27500a82645ed.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fondo aesthetic, calm, themes, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/345/51/HD-wallpaper-fondo-aesthetic-calm-themes.jpg' alt='Fondo aesthetic, calm, themes, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1475">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/345/51/HD-wallpaper-fondo-aesthetic-calm-themes.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free aesthetic phone wallpaper templates to customize | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFXef783CM/2/0/900w/canva-fondo-de-pantalla-para-tel%C3%A9fono-vision-board-aesthetic-marr%C3%B3n-_fGP-hZ_s9E.jpg' alt='Free aesthetic phone wallpaper templates to customize | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFXef783CM/2/0/900w/canva-fondo-de-pantalla-para-tel%C3%A9fono-vision-board-aesthetic-marr%C3%B3n-_fGP-hZ_s9E.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Vintage Wallpaper Background Wallpaper Image For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20220725/original/pngtree-aesthetic-vintage-wallpaper-background-picture-image_1763862.jpg' alt='Aesthetic Vintage Wallpaper Background Wallpaper Image For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20220725/original/pngtree-aesthetic-vintage-wallpaper-background-picture-image_1763862.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic background en 2022 | Iphone fondos de pantalla, Fondos ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/16/fc/16/16fc1608fcc19f20447b42c2fb498be0.jpg' alt='Aesthetic background en 2022 | Iphone fondos de pantalla, Fondos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/16/fc/16/16fc1608fcc19f20447b42c2fb498be0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="♡Fondo Aesthetic♡">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b2/78/bd/b278bd8494cb91b84ad69bd8faeddb43.jpg' alt='♡Fondo Aesthetic♡'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="678">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b2/78/bd/b278bd8494cb91b84ad69bd8faeddb43.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 7 | Cool Aesthetic Wallpapers Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/floral-hand-drawn-doodle-background_23-2149338325.jpg' alt='Page 7 | Cool Aesthetic Wallpapers Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/floral-hand-drawn-doodle-background_23-2149338325.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Wallpaper Background Images, HD Pictures and Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20221116/original/pngtree-abstract-wallpaper-with-aesthetic-shapes-and-leaves-picture-image_1964351.jpg' alt='Aesthetic Wallpaper Background Images, HD Pictures and Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20221116/original/pngtree-abstract-wallpaper-with-aesthetic-shapes-and-leaves-picture-image_1964351.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="600+] Tumblr Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/tumblr-aesthetic-2dpvqwi8ifowg2nf.jpg' alt='600+] Tumblr Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/tumblr-aesthetic-2dpvqwi8ifowg2nf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fondo aesthetic, blue, nice, pink, stars, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/217/64/HD-wallpaper-fondo-aesthetic-blue-lindo-pink-stars.jpg' alt='Fondo aesthetic, blue, nice, pink, stars, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1426">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/217/64/HD-wallpaper-fondo-aesthetic-blue-lindo-pink-stars.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

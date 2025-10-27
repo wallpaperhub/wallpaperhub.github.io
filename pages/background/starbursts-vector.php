@@ -1,0 +1,129 @@
+<title>Dynamic Starbursts Vector Graphics for Eye-Catching Designs</title>
+                    <meta name="description" content="Explore our vibrant starbursts vector graphics! Perfect for adding energy and excitement to your designs, these visuals are ideal for marketing, social media, and branding. Grab attention with sharp lines and bright colors that make your message stand out. Discover creative possibilities today!">
+                    <meta name="keywords" content="starbursts vector">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/starbursts-vector">
+                            <span itemprop="name">starbursts vector</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dynamic Starbursts Vector Graphics for Eye-Catching Designs</h1>
+                <p>Starbursts vector graphics are dynamic visual elements often used in design to symbolize excitement, energy, or spotlight effects. These digital illustrations feature sharp, radiating lines and vibrant colors, making them ideal for marketing materials, social media, and branding. Use starbursts to grab attention and convey messages effectively!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starburst Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/006/688/267/small/burst-star-silhouette-icon-set-black-twinkle-flash-pictogram-magic-firework-flat-icon-collection-vibrant-shiny-glitter-effect-sparkle-glow-starburst-flare-ray-isolated-illustration-vector.jpg' alt='Starburst Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/006/688/267/small/burst-star-silhouette-icon-set-black-twinkle-flash-pictogram-magic-firework-flat-icon-collection-vibrant-shiny-glitter-effect-sparkle-glow-starburst-flare-ray-isolated-illustration-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starburst SVG Downloads, Star Cut File for Cricut Silhouette ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16327816/r/il/3a78d1/4426854957/il_fullxfull.4426854957_m0z7.jpg' alt='Starburst SVG Downloads, Star Cut File for Cricut Silhouette ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2318">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16327816/r/il/3a78d1/4426854957/il_fullxfull.4426854957_m0z7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starburst Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/008/886/313/small/set-of-starburst-sunburst-badges-black-icons-on-white-background-simple-flat-style-vintage-labels-stickers-eps-10-vector.jpg' alt='Starburst Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/008/886/313/small/set-of-starburst-sunburst-badges-black-icons-on-white-background-simple-flat-style-vintage-labels-stickers-eps-10-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starburst Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/000/097/789/small/vintage-starburst-shape-set.jpg' alt='Starburst Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="286">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/000/097/789/small/vintage-starburst-shape-set.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starburst Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/star-burst-badges-set-black-sale-stickers-price-tag-silhouettes-sunburst-symbols-collection_153791-435.jpg?semt=ais_hybrid' alt='Starburst Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="487">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/star-burst-badges-set-black-sale-stickers-price-tag-silhouettes-sunburst-symbols-collection_153791-435.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starburst Vector Images – Browse 159,162 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/07/67/30/18/360_F_767301868_WaN6KaTKf6HlzjVQVvxMzhYjgqmixOS2.jpg' alt='Starburst Vector Images – Browse 159,162 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="541">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/07/67/30/18/360_F_767301868_WaN6KaTKf6HlzjVQVvxMzhYjgqmixOS2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hand-drawn Vector Stars And Starbursts">
+                                <img itemprop="contentUrl url" src='https://www.graphicsfuel.com/wp-content/uploads/2019/10/Handdrawn-Vector-Star-Starbursts.jpg' alt='Hand-drawn Vector Stars And Starbursts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2775">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Graphicsfuel" />
+                                </span>
+                                <a href='https://www.graphicsfuel.com/wp-content/uploads/2019/10/Handdrawn-Vector-Star-Starbursts.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Starburst sunburst element Vector illustration">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/starburst-sunburst-element-vector-illustration_607987-2375.jpg' alt='Premium Vector | Starburst sunburst element Vector illustration'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/starburst-sunburst-element-vector-illustration_607987-2375.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Starburst SVG Downloads | Star Cut File Clipart Downloads ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16327816/r/il/1cd7c7/4360724118/il_570xN.4360724118_qnny.jpg' alt='Gold Starburst SVG Downloads | Star Cut File Clipart Downloads ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16327816/r/il/1cd7c7/4360724118/il_570xN.4360724118_qnny.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starburst Vector Images – Browse 159,162 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/77/73/08/360_F_177730847_BfPbvQKTbQjP9bSnVoKZD6UBNLvrDsvE.jpg' alt='Starburst Vector Images – Browse 159,162 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1050">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/77/73/08/360_F_177730847_BfPbvQKTbQjP9bSnVoKZD6UBNLvrDsvE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Enhance Your InDesign Text with Background Color</title>
+                    <meta name="description" content="Discover how to add vibrant background colors to your text in InDesign. This quick guide will help you enhance your designs while improving readability, creating visually appealing layouts with ease. Perfect for beginners and pros alike! Optimize your designs today!">
+                    <meta name="keywords" content="indesign text background color">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/indesign-text-background-color">
+                            <span itemprop="name">indesign text background color</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enhance Your InDesign Text with Background Color</h1>
+                <p>In Adobe InDesign, adding a background color to text can enhance readability and visual appeal. To achieve this, select the text and create a color-filled rectangle behind it. Adjust the rectangle's size and send it to the back. Experiment with different colors to complement your design, ensuring text remains clear and engaging.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Add an Inline Background to text in Adobe InDesign">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/lM__yUAfh4M/maxresdefault.jpg' alt='Add an Inline Background to text in Adobe InDesign'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/lM__yUAfh4M/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solved: Text boxes got an unwanted background color - Adobe ...">
+                                <img itemprop="contentUrl url" src='https://community.adobe.com/legacyfs/online/1669228_pastedImage_0.png' alt='Solved: Text boxes got an unwanted background color - Adobe ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="990">
+                                <meta itemprop="height" content="334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Community" />
+                                </span>
+                                <a href='https://community.adobe.com/legacyfs/online/1669228_pastedImage_0.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solved: Text boxes got an unwanted background color - Adobe ...">
+                                <img itemprop="contentUrl url" src='https://community.adobe.com/legacyfs/online/1669230_pastedImage_0.png' alt='Solved: Text boxes got an unwanted background color - Adobe ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1310">
+                                <meta itemprop="height" content="686">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Community" />
+                                </span>
+                                <a href='https://community.adobe.com/legacyfs/online/1669230_pastedImage_0.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="InDesign add background to a text box">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/s0b5eELuO0E/sddefault.jpg' alt='InDesign add background to a text box'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/s0b5eELuO0E/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solved: Text boxes got an unwanted background color - Adobe ...">
+                                <img itemprop="contentUrl url" src='https://community.adobe.com/legacyfs/online/1669605_Screen%20Shot%201.png' alt='Solved: Text boxes got an unwanted background color - Adobe ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="827">
+                                <meta itemprop="height" content="1085">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Community" />
+                                </span>
+                                <a href='https://community.adobe.com/legacyfs/online/1669605_Screen%20Shot%201.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Highlight Text In InDesign | Envato Tuts+">
+                                <img itemprop="contentUrl url" src='https://cms-assets.tutsplus.com/uploads/users/2659/posts/14787/preview_image/InDesign%20highlight%20text%20thumb.jpg' alt='How to Highlight Text In InDesign | Envato Tuts+'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="277">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design & Illustration - Envato Tuts+" />
+                                </span>
+                                <a href='https://cms-assets.tutsplus.com/uploads/users/2659/posts/14787/preview_image/InDesign%20highlight%20text%20thumb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to change a background on a single word in a paragraph in ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/9L94A.jpg' alt='How to change a background on a single word in a paragraph in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Graphic Design Stack Exchange" />
+                                </span>
+                                <a href='https://i.sstatic.net/9L94A.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How do you make a justified background color for a paragraph style ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/SKXuL.jpg' alt='How do you make a justified background color for a paragraph style ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1521">
+                                <meta itemprop="height" content="729">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Graphic Design Stack Exchange" />
+                                </span>
+                                <a href='https://i.sstatic.net/SKXuL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="color - How do you set the text colour in Indesign to change ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/md2px.png' alt='color - How do you set the text colour in Indesign to change ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1784">
+                                <meta itemprop="height" content="526">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Graphic Design Stack Exchange" />
+                                </span>
+                                <a href='https://i.sstatic.net/md2px.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Highlight Text In InDesign | Envato Tuts+">
+                                <img itemprop="contentUrl url" src='https://cdn.tutsplus.com/cdn-cgi/image/width=360/vector/uploads/legacy/qt/2012_QT/qt_14_highlight_text/Step%206%20Par%20Rules%20set%20ups.jpg' alt='How to Highlight Text In InDesign | Envato Tuts+'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design & Illustration - Envato Tuts+" />
+                                </span>
+                                <a href='https://cdn.tutsplus.com/cdn-cgi/image/width=360/vector/uploads/legacy/qt/2012_QT/qt_14_highlight_text/Step%206%20Par%20Rules%20set%20ups.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

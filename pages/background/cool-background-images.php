@@ -1,0 +1,129 @@
+<title>Stunning Background Images: Elevate Your Digital Experience</title>
+                    <meta name="description" content="Discover a curated collection of cool background images perfect for any device. Enhance your personal or professional digital space with stunning visuals that inspire creativity and make a statement. Find the ideal backdrop to match your style and elevate your experience today!">
+                    <meta name="keywords" content="cool background images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cool-background-images">
+                            <span itemprop="name">cool background images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Background Images: Elevate Your Digital Experience</h1>
+                <p>Cool background images can transform any digital space, enhancing aesthetics and personal expression. Whether for a desktop, smartphone, or social media, the right background sets the mood. Explore vibrant landscapes, abstract patterns, or minimalistic designs to refresh your visuals and make a lasting impression.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900+ Cool Background Images: Download HD Backgrounds on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1681426327290-1ec5fb4d3dd8?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y29vbCUyMGJhY2tncm91bmR8ZW58MHx8MHx8fDA%3D' alt='900+ Cool Background Images: Download HD Backgrounds on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2143">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1681426327290-1ec5fb4d3dd8?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y29vbCUyMGJhY2tncm91bmR8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/cool-geometric-triangular-figure-neon-laser-light-great-backgrounds-wallpapers_181624-9331.jpg' alt='Cool Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/cool-geometric-triangular-figure-neon-laser-light-great-backgrounds-wallpapers_181624-9331.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Backgrounds Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/029/140/987/small/abstract-mystical-particle-burst-ai-generated-photo.jpg' alt='Cool Backgrounds Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="357">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/029/140/987/small/abstract-mystical-particle-burst-ai-generated-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Backgrounds Images – Browse 7,873,527 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/07/35/44/76/360_F_735447660_Mb1mTmfff8EhrRuornYjGkE9JlGUk4lP.jpg' alt='Cool Backgrounds Images – Browse 7,873,527 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/07/35/44/76/360_F_735447660_Mb1mTmfff8EhrRuornYjGkE9JlGUk4lP.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Background! ideas | cool backgrounds, cool wallpaper, wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/54/7a/9c/547a9cc6b93e10261f1dd8a8af474e03.jpg' alt='12 Background! ideas | cool backgrounds, cool wallpaper, wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1174">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/54/7a/9c/547a9cc6b93e10261f1dd8a8af474e03.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Premiere Backgrounds Stock Illustrations – 65 Green Premiere ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/neon-background-wallpaper-futuristic-glowing-lights-cool-backgrounds-blue-white-green-image-generated-use-ai-276345013.jpg' alt='Green Premiere Backgrounds Stock Illustrations – 65 Green Premiere ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/neon-background-wallpaper-futuristic-glowing-lights-cool-backgrounds-blue-white-green-image-generated-use-ai-276345013.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool background 2025 images">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/3d-render-abstract-minimal-background-pink-blue-neon-light-round-frame_204298-724.jpg' alt='Cool background 2025 images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="470">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/3d-render-abstract-minimal-background-pink-blue-neon-light-round-frame_204298-724.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Backgrounds Photos, Download The BEST Free Cool Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1212408/pexels-photo-1212408.jpeg?cs=srgb&dl=pexels-mccutcheon-1212408.jpg&fm=jpg' alt='Cool Backgrounds Photos, Download The BEST Free Cool Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5616">
+                                <meta itemprop="height" content="3744">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1212408/pexels-photo-1212408.jpeg?cs=srgb&dl=pexels-mccutcheon-1212408.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool background 2025 images">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/glowing-neon-triangle-tunnel_129677-10.jpg' alt='Cool background 2025 images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/glowing-neon-triangle-tunnel_129677-10.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Backgrounds">
+                                <img itemprop="contentUrl url" src='https://coolbackgrounds.io/images/backgrounds/index/sea-edge-79ab30e2.png' alt='Cool Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1192">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="coolbackgrounds.io" />
+                                </span>
+                                <a href='https://coolbackgrounds.io/images/backgrounds/index/sea-edge-79ab30e2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

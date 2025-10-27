@@ -1,0 +1,129 @@
+<title>Discover the Timeless Style of Keffiyeh Design</title>
+                    <meta name="description" content="Explore the elegant and versatile keffiyeh design, a cultural icon that combines rich heritage with modern fashion. Perfect for any wardrobe, learn about its traditional roots and contemporary adaptations that make it a global favorite. Embrace style and identity with every wear!">
+                    <meta name="keywords" content="keffiyeh design">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/keffiyeh-design">
+                            <span itemprop="name">keffiyeh design</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Timeless Style of Keffiyeh Design</h1>
+                <p>Keffiyeh design reflects a rich cultural heritage, featuring a distinct square pattern and versatile fabric. Traditionally worn in the Middle East, its stylish appeal has transcended borders, making it a global fashion staple. Available in various colors and styles, the keffiyeh symbolizes unity and identity, blending tradition with contemporary trends.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Palestine: Keffiyeh Pattern | David Bernie">
+                                <img itemprop="contentUrl url" src='https://davidbernie.com/wp-content/uploads/2023/11/David-Bernie-Print-Free-Palestine-Keffiyeh-Pattern-I.jpg' alt='Free Palestine: Keffiyeh Pattern | David Bernie'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2133">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="David Bernie" />
+                                </span>
+                                <a href='https://davidbernie.com/wp-content/uploads/2023/11/David-Bernie-Print-Free-Palestine-Keffiyeh-Pattern-I.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Palestinian Kofeyyah pattern design: Palestinian keffiyeh | Palestine map  Pattern Art">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71coQ0C7owL._AC_UF1000,1000_QL80_.jpg' alt='Palestinian Kofeyyah pattern design: Palestinian keffiyeh | Palestine map  Pattern Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="671">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71coQ0C7owL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="162 Keffiyeh Palestinian White Stock Vectors and Vector Art ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/keffiyeh-symbol-palestinian-nationalism-chequered-260nw-2386948675.jpg' alt='162 Keffiyeh Palestinian White Stock Vectors and Vector Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/keffiyeh-symbol-palestinian-nationalism-chequered-260nw-2386948675.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13,900+ Keffiyeh Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1284792939/vector/keffiyeh-seamless-pattern-modern-pattern-endless-checkered-motif-black-and-white-contrast.jpg?s=612x612&w=0&k=20&c=7Hl1DFQ8tmdAoDs-4V_Fv6EMt_9jFDuvZ1cnXmtkIEw=' alt='13,900+ Keffiyeh Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1284792939/vector/keffiyeh-seamless-pattern-modern-pattern-endless-checkered-motif-black-and-white-contrast.jpg?s=612x612&w=0&k=20&c=7Hl1DFQ8tmdAoDs-4V_Fv6EMt_9jFDuvZ1cnXmtkIEw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Palestinian Kufiya Pattern Design | Original Black and white Keffiyeh  (Yasser Arafat) | Photographic Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.5035363317.1134/flat,750x,075,f-pad,750x1000,f8f8f8.u6.jpg' alt='Palestinian Kufiya Pattern Design | Original Black and white Keffiyeh  (Yasser Arafat) | Photographic Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.5035363317.1134/flat,750x,075,f-pad,750x1000,f8f8f8.u6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Keffiyeh Photos, Images and Pictures">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/keffiyeh-pattern-symbol-resistance-cultural-260nw-2508788269.jpg' alt='Keffiyeh Photos, Images and Pictures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="762">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/keffiyeh-pattern-symbol-resistance-cultural-260nw-2508788269.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Palestinian Hatta Kufiya Folk Pattern #2-Red, Palestine Arabic Traditional  Keffiyeh Design | Poster">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.2367734762.1450/flat,750x,075,f-pad,750x1000,f8f8f8.u2.jpg' alt='Palestinian Hatta Kufiya Folk Pattern #2-Red, Palestine Arabic Traditional  Keffiyeh Design | Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.2367734762.1450/flat,750x,075,f-pad,750x1000,f8f8f8.u2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Palestinian Keffiyeh Scarf Folded Pattern Digital Download Black ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/31416475/r/il/58f838/5956822798/il_fullxfull.5956822798_9mw9.jpg' alt='Palestinian Keffiyeh Scarf Folded Pattern Digital Download Black ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/31416475/r/il/58f838/5956822798/il_fullxfull.5956822798_9mw9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Keffiyeh and Lines in Black | Scarf">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.3753742229.5395/flat,750x1000,075,t.jpg' alt='Keffiyeh and Lines in Black | Scarf'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.3753742229.5395/flat,750x1000,075,t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Keffiyeh Projects :: Photos, videos, logos, illustrations and ...">
+                                <img itemprop="contentUrl url" src='https://mir-s3-cdn-cf.behance.net/projects/404/4dd4ae183457151.6701ef8400058.png' alt='Keffiyeh Projects :: Photos, videos, logos, illustrations and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="404">
+                                <meta itemprop="height" content="316">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Behance" />
+                                </span>
+                                <a href='https://mir-s3-cdn-cf.behance.net/projects/404/4dd4ae183457151.6701ef8400058.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

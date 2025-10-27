@@ -1,0 +1,129 @@
+<title>Nike: A Legacy of Innovation and Inspiration</title>
+                    <meta name="description" content="Discover Nike's journey from its humble beginnings as Blue Ribbon Sports to becoming a global leader in athletic wear. Learn about the iconic Swoosh logo, innovation in sports gear, and the brand's dedication to sustainability and inspiring athletes.">
+                    <meta name="keywords" content="nike background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/nike-background">
+                            <span itemprop="name">nike background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Nike: A Legacy of Innovation and Inspiration</h1>
+                <p>Nike, founded in 1964 as Blue Ribbon Sports, is a global leader in athletic footwear and apparel. The iconic Swoosh logo, designed by Carolyn Davidson, symbolizes speed and movement. Renowned for innovative products, the brand embraces athletes' spirit, promoting performance and inspiring individuals to push their limits. Nike's commitment to sustainability shapes its future.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nike Wallpaper For Chromebook | Chromebook Wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/download/hd-wallpapers/nike-1920x1080.jpg' alt='Nike Wallpaper For Chromebook | Chromebook Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/download/hd-wallpapers/nike-1920x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Cool Nike Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cool-nike-g2tprt4w49a0ps3t.jpg' alt='200+] Cool Nike Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cool-nike-g2tprt4w49a0ps3t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Nike Wallpaper For Iphone, Pc Background, Nike Logo, Slogan ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/cool-nike-wallpaper-for-iphone-pc-background-nike-logo-slogan-a4yg3hoduoadx0a7.jpg' alt='Cool Nike Wallpaper For Iphone, Pc Background, Nike Logo, Slogan ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="588">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/cool-nike-wallpaper-for-iphone-pc-background-nike-logo-slogan-a4yg3hoduoadx0a7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Nike Wallpaper: Just Do It with Style">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/212/thumb-1920-212076.jpg' alt='HD Nike Wallpaper: Just Do It with Style'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/212/thumb-1920-212076.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nike, Wallpaper, Nike Backround | Nike wallpaper, Adidas ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/55/9e/08/559e089a5aced0c092d2872a3e044669.jpg' alt='Nike, Wallpaper, Nike Backround | Nike wallpaper, Adidas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/55/9e/08/559e089a5aced0c092d2872a3e044669.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="250 Nike wallpaper ideas | nike wallpaper, nike wallpaper iphone, nike">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/7e/eb/5f/7eeb5f61ecf2e0923131aacf197d2345.jpg' alt='250 Nike wallpaper ideas | nike wallpaper, nike wallpaper iphone, nike'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1299">
+                                <meta itemprop="height" content="2309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/7e/eb/5f/7eeb5f61ecf2e0923131aacf197d2345.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nike, Inc. | History, Logo, Headquarters, & Facts | Britannica Money">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/50/213250-050-02322AA8/Nike-logo.jpg' alt='Nike, Inc. | History, Logo, Headquarters, & Facts | Britannica Money'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/50/213250-050-02322AA8/Nike-logo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NIKE, Inc. Logos —">
+                                <img itemprop="contentUrl url" src='https://media.about.nike.com/img/cf68f541-fc92-4373-91cb-086ae0fe2f88/002-nike-logos-swoosh-white.jpg?m=eyJlZGl0cyI6eyJqcGVnIjp7InF1YWxpdHkiOjEwMH0sIndlYnAiOnsicXVhbGl0eSI6MTAwfSwiZXh0cmFjdCI6eyJsZWZ0IjozMzQsInRvcCI6MCwid2lkdGgiOjQwOTAsImhlaWdodCI6MjcyOH0sInJlc2l6ZSI6eyJ3aWR0aCI6OTAwfX19&signature=b47e8cc4991bc508a5b762df7d8679aa1406407f56bc774089362de8797930f1' alt='NIKE, Inc. Logos —'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="About Nike" />
+                                </span>
+                                <a href='https://media.about.nike.com/img/cf68f541-fc92-4373-91cb-086ae0fe2f88/002-nike-logos-swoosh-white.jpg?m=eyJlZGl0cyI6eyJqcGVnIjp7InF1YWxpdHkiOjEwMH0sIndlYnAiOnsicXVhbGl0eSI6MTAwfSwiZXh0cmFjdCI6eyJsZWZ0IjozMzQsInRvcCI6MCwid2lkdGgiOjQwOTAsImhlaWdodCI6MjcyOH0sInJlc2l6ZSI6eyJ3aWR0aCI6OTAwfX19&signature=b47e8cc4991bc508a5b762df7d8679aa1406407f56bc774089362de8797930f1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Minimalist Nike Icon Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/cool-beach-with-nike-emblem-vyg1kw2wz9w3huol.webp' alt='Cool Minimalist Nike Icon Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/cool-beach-with-nike-emblem-vyg1kw2wz9w3huol.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nike Just Do It HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/632/thumb-1920-632661.jpg' alt='Nike Just Do It HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/632/thumb-1920-632661.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

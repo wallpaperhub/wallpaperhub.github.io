@@ -1,0 +1,129 @@
+<title>Discover Jason Reynolds: A Voice for Young Readers</title>
+                    <meta name="description" content="Explore the world of Jason Reynolds, an acclaimed author whose engaging stories tackle essential themes. From "Ghost" to "Long Way Down," his works resonate with young readers, promoting identity and resilience through powerful narratives. Dive into his literary journey today!">
+                    <meta name="keywords" content="jason reynolds">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/jason-reynolds">
+                            <span itemprop="name">jason reynolds</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Jason Reynolds: A Voice for Young Readers</h1>
+                <p>Jason Reynolds is a celebrated author renowned for his impactful storytelling aimed at young adults and children. His works often explore themes of identity, race, and resilience, resonating with diverse audiences. Notable titles include "Ghost" and "Long Way Down," which combine lyrical prose with relatable characters, making him a prominent voice in contemporary literature.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jason Reynolds - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/0/08/Jason_Reynolds_%2849395922668%29.jpg' alt='Jason Reynolds - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2571">
+                                <meta itemprop="height" content="3600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/0/08/Jason_Reynolds_%2849395922668%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jason Reynolds: 'What's unusual about my story is that I became a ...">
+                                <img itemprop="contentUrl url" src='https://i.guim.co.uk/img/media/b3a77958cfb8d9d6aa80580ac582af7725086088/1038_470_4144_2486/master/4144.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=bbfa94e29b33f9168ed56f219e05c5cf' alt='Jason Reynolds: 'What's unusual about my story is that I became a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Guardian" />
+                                </span>
+                                <a href='https://i.guim.co.uk/img/media/b3a77958cfb8d9d6aa80580ac582af7725086088/1038_470_4144_2486/master/4144.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=bbfa94e29b33f9168ed56f219e05c5cf' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jason Reynolds — Imagination and Fortitude | The On Being Project">
+                                <img itemprop="contentUrl url" src='https://onbeing.org/wp-content/uploads/2020/06/180314_FastCompany_JasonReynolds-7-1.jpg' alt='Jason Reynolds — Imagination and Fortitude | The On Being Project'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1941">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OnBeing" />
+                                </span>
+                                <a href='https://onbeing.org/wp-content/uploads/2020/06/180314_FastCompany_JasonReynolds-7-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Meet Author Jason Reynolds">
+                                <img itemprop="contentUrl url" src='https://www.kennedy-center.org/globalassets/education/resources-for-educators/classroom-resources/artsedge/media/meet-author-jason-reynolds/reynolds-photo_image-2.jpg?width=1600&quality=70' alt='Meet Author Jason Reynolds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Kennedy Center" />
+                                </span>
+                                <a href='https://www.kennedy-center.org/globalassets/education/resources-for-educators/classroom-resources/artsedge/media/meet-author-jason-reynolds/reynolds-photo_image-2.jpg?width=1600&quality=70' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art Talk with Jason Reynolds | National Endowment for the Arts">
+                                <img itemprop="contentUrl url" src='https://www.arts.gov/sites/default/files/Jason%20Reynolds%20%28Credit_James%20J.%20Reddington%29.jpg' alt='Art Talk with Jason Reynolds | National Endowment for the Arts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1638">
+                                <meta itemprop="height" content="1767">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Endowment for the Arts" />
+                                </span>
+                                <a href='https://www.arts.gov/sites/default/files/Jason%20Reynolds%20%28Credit_James%20J.%20Reddington%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Man of the Hour: Jason Reynolds | The House Magazine">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/thehouse-magazine.com/wp-content/uploads/2022/05/%C2%A9-Tony-Powell.-The-House-Magazine-May-2022-Jason-Reynolds-Cover-Feature.-April-5-2022-scaled.jpg?fit=1978%2C2560&ssl=1' alt='The Man of the Hour: Jason Reynolds | The House Magazine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1978">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The House Magazine" />
+                                </span>
+                                <a href='https://i0.wp.com/thehouse-magazine.com/wp-content/uploads/2022/05/%C2%A9-Tony-Powell.-The-House-Magazine-May-2022-Jason-Reynolds-Cover-Feature.-April-5-2022-scaled.jpg?fit=1978%2C2560&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jason Reynolds, author and ambassador, highlights the stories of ...">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/img/2022/12/13/gettyimages-1162359924-fa2f79b12dce2cabf7af4b493049b6c520a08ed0.jpg' alt='Jason Reynolds, author and ambassador, highlights the stories of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2664">
+                                <meta itemprop="height" content="1998">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/img/2022/12/13/gettyimages-1162359924-fa2f79b12dce2cabf7af4b493049b6c520a08ed0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jason Reynolds">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/627c3ffff39d281f1123c2ba/d028b18a-a991-4067-9ab5-0d32a06d3756/Jason+Reynolds%2C+Photo+Credit+Adedayo+_Dayo_+Kosoko.jpg' alt='Jason Reynolds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="3750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.jasonwritesbooks.com" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/627c3ffff39d281f1123c2ba/d028b18a-a991-4067-9ab5-0d32a06d3756/Jason+Reynolds%2C+Photo+Credit+Adedayo+_Dayo_+Kosoko.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spider-Man, Inspiration, and Literacy | American Libraries Magazine">
+                                <img itemprop="contentUrl url" src='https://americanlibrariesmagazine.org/wp-content/uploads/2017/08/jasonreynolds.jpg' alt='Spider-Man, Inspiration, and Literacy | American Libraries Magazine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="975">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="American Libraries Magazine" />
+                                </span>
+                                <a href='https://americanlibrariesmagazine.org/wp-content/uploads/2017/08/jasonreynolds.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jason Reynolds | Official Publisher Page | Simon & Schuster">
+                                <img itemprop="contentUrl url" src='https://d28hgpri8am2if.cloudfront.net/author_images/8622711/jason-reynolds-403685768.jpg' alt='Jason Reynolds | Official Publisher Page | Simon & Schuster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="167">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simon & Schuster" />
+                                </span>
+                                <a href='https://d28hgpri8am2if.cloudfront.net/author_images/8622711/jason-reynolds-403685768.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

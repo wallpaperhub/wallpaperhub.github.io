@@ -1,0 +1,129 @@
+<title>Elvis Presley: The King of Rock & Roll</title>
+                    <meta name="description" content="Discover the life of Elvis Presley, the King of Rock & Roll. From his humble beginnings to global superstardom, explore his music, films, and lasting impact on pop culture. Join us in celebrating the legacy of an icon who changed the music scene forever!">
+                    <meta name="keywords" content="elvis presley biography">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/elvis-presley-biography">
+                            <span itemprop="name">elvis presley biography</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elvis Presley: The King of Rock & Roll</h1>
+                <p>Elvis Presley, known as the "King of Rock and Roll," was born on January 8, 1935, in Tupelo, Mississippi. He rose to fame in the 1950s with hits like "Heartbreak Hotel" and "Jailhouse Rock." His unique blend of genres and charismatic performances revolutionized music. Presley also starred in films and became a cultural icon before his untimely death in 1977.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elvis Presley: The Biography; The Fame, Gospel and Lonely Life of the King  of Rock and Roll (Artists)">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71NoZEPfM0L._AC_UF1000,1000_QL80_.jpg' alt='Elvis Presley: The Biography; The Fame, Gospel and Lonely Life of the King  of Rock and Roll (Artists)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="625">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71NoZEPfM0L._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elvis Biography | Graceland">
+                                <img itemprop="contentUrl url" src='https://www.graceland.com/assets/2597/bio3_verticalresponsive.jpg' alt='Elvis Biography | Graceland'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Graceland" />
+                                </span>
+                                <a href='https://www.graceland.com/assets/2597/bio3_verticalresponsive.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elvis Presley Biography: The Life Of A Legend">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61O-OrjUQzL._AC_UF1000,1000_QL80_.jpg' alt='Elvis Presley Biography: The Life Of A Legend'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61O-OrjUQzL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elvis Presley | Biography, Songs, Movies, Death, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/85/202285-050-EF215325/Elvis-Presley-Girl-Happy-Boris-Sagal.jpg' alt='Elvis Presley | Biography, Songs, Movies, Death, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1239">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/85/202285-050-EF215325/Elvis-Presley-Girl-Happy-Boris-Sagal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elvis Presley: A Biography (Greenwood Biographies)">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61hyMUsEMFL._AC_UF1000,1000_QL80_.jpg' alt='Elvis Presley: A Biography (Greenwood Biographies)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="629">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61hyMUsEMFL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elvis Presley: Biography, Musician, Actor">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/elvis-presley-american-rock-n-roll-legend-news-photo-1690830848.jpg' alt='Elvis Presley: Biography, Musician, Actor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="637">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/elvis-presley-american-rock-n-roll-legend-news-photo-1690830848.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elvis Presley: A Little Golden Book Biography">
+                                <img itemprop="contentUrl url" src='http://store.graceland.com/cdn/shop/files/A010-1285_600x.jpg?v=1725305695' alt='Elvis Presley: A Little Golden Book Biography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="386">
+                                <meta itemprop="height" content="466">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Graceland Official Store" />
+                                </span>
+                                <a href='http://store.graceland.com/cdn/shop/files/A010-1285_600x.jpg?v=1725305695' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Artists: Elvis Presley: The Biography; The Fame, Gospel and Lonely Life of  the King of Rock and Roll (Paperback)">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Artists-Elvis-Presley-The-Biography-The-Fame-Gospel-and-Lonely-Life-of-the-King-of-Rock-and-Roll-Paperback-9789493311367_6c36078a-2317-432c-88d6-fd183d6bfebe.2b6a7dc7d430d38ba0c550415024eda0.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Artists: Elvis Presley: The Biography; The Fame, Gospel and Lonely Life of  the King of Rock and Roll (Paperback)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Artists-Elvis-Presley-The-Biography-The-Fame-Gospel-and-Lonely-Life-of-the-King-of-Rock-and-Roll-Paperback-9789493311367_6c36078a-2317-432c-88d6-fd183d6bfebe.2b6a7dc7d430d38ba0c550415024eda0.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elvis Presley : Life and Times of The King: Biography of Elvis Presley See  more">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81RXVCIKRJL._UF1000,1000_QL80_.jpg' alt='Elvis Presley : Life and Times of The King: Biography of Elvis Presley See  more'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81RXVCIKRJL._UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elvis Presley – A Biography – Manchester Historian">
+                                <img itemprop="contentUrl url" src='https://manchesterhistorian.com/wp-content/uploads/a2e0314463ad9e6c2c0aa381141d6ad05e61dfaf-317x230.jpeg' alt='Elvis Presley – A Biography – Manchester Historian'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="317">
+                                <meta itemprop="height" content="230">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Manchester Historian" />
+                                </span>
+                                <a href='https://manchesterhistorian.com/wp-content/uploads/a2e0314463ad9e6c2c0aa381141d6ad05e61dfaf-317x230.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Elevate Your Space with Kentucky Football Wallpaper</title>
+                    <meta name="description" content="Discover vibrant Kentucky football wallpaper to show off your team spirit! Perfect for game day or everyday decor, these designs bring energy to any room. Upgrade your space while celebrating the Wildcats—ideal for fans and sports enthusiasts alike!">
+                    <meta name="keywords" content="wallpaper kentucky football">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/football">
+                            <span itemprop="name">Football</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/football/wallpaper-kentucky-football">
+                            <span itemprop="name">wallpaper kentucky football</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Space with Kentucky Football Wallpaper</h1>
+                <p>Transform your space with Kentucky football wallpaper, showcasing your passion for the Wildcats! Featuring vibrant designs, these wallpapers add energy and team spirit to your room, perfect for man caves, bedrooms, or game day gatherings. Revamp your decor while celebrating your love for Kentucky football!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kentucky Football on X: "#WallpaperWednesday x @ESPN_Jac. #22OnMe ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FYrRPneVUAA9IkX.jpg:large' alt='Kentucky Football on X: "#WallpaperWednesday x @ESPN_Jac. #22OnMe ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FYrRPneVUAA9IkX.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="43,391 Kentucky Football Stock Photos, High-Res Pictures, and ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/2172711921/photo/lexington-kentucky-dane-key-of-the-kentucky-wildcats-runs-the-ball-during-the-first-half.jpg?s=612x612&w=gi&k=20&c=TYmXiUjgeIuNl31EtydKuabXXLhKAdOU-lvYu9l-NCM=' alt='43,391 Kentucky Football Stock Photos, High-Res Pictures, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="430">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/2172711921/photo/lexington-kentucky-dane-key-of-the-kentucky-wildcats-runs-the-ball-during-the-first-half.jpg?s=612x612&w=gi&k=20&c=TYmXiUjgeIuNl31EtydKuabXXLhKAdOU-lvYu9l-NCM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Video chat backgrounds, but make them... - Kentucky Football ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2842131099168468' alt='Video chat backgrounds, but make them... - Kentucky Football ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1703">
+                                <meta itemprop="height" content="1135">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2842131099168468' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Keidron Smith to Kentucky Wildcats Football after leaving Ole Miss ...">
+                                <img itemprop="contentUrl url" src='https://cdn.vox-cdn.com/thumbor/x9THV5hdhj6aJ6p52HJ2y1ISmQI=/0x0:942x493/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23410025/Keidron_smith.jpg' alt='Keidron Smith to Kentucky Wildcats Football after leaving Ole Miss ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="942">
+                                <meta itemprop="height" content="493">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="A Sea Of Blue" />
+                                </span>
+                                <a href='https://cdn.vox-cdn.com/thumbor/x9THV5hdhj6aJ6p52HJ2y1ISmQI=/0x0:942x493/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23410025/Keidron_smith.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kentucky">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4f/e5/7a/4fe57a9522d5dc2378c38a8d89a9a088.jpg' alt='Kentucky'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4f/e5/7a/4fe57a9522d5dc2378c38a8d89a9a088.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="     #RecruitAndDevelop #WeAreUK - Kentucky Wildcats | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3920488327999401' alt='     #RecruitAndDevelop #WeAreUK - Kentucky Wildcats | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1151">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3920488327999401' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kentucky Football on X: "The perfect backgrounds for your ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/DtdhGI0X4AE87CP?format=jpg&name=4096x4096' alt='Kentucky Football on X: "The perfect backgrounds for your ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1575">
+                                <meta itemprop="height" content="2800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/DtdhGI0X4AE87CP?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kentucky">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/97/3e/03/973e03f0746ffcb03c81e863e4567d24.jpg' alt='Kentucky'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/97/3e/03/973e03f0746ffcb03c81e863e4567d24.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Willie Rodriguez commits to Kentucky Football - A Sea Of Blue">
+                                <img itemprop="contentUrl url" src='https://cdn.vox-cdn.com/thumbor/t_L34fykEUKJT3C3UZ9yh-HBlSY=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/24748020/FzURKg_WIAEF8_0.jpg' alt='Willie Rodriguez commits to Kentucky Football - A Sea Of Blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="A Sea Of Blue" />
+                                </span>
+                                <a href='https://cdn.vox-cdn.com/thumbor/t_L34fykEUKJT3C3UZ9yh-HBlSY=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/24748020/FzURKg_WIAEF8_0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kentucky Football on X: "#GoBigBlue!!!! Gameday Gear x ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FAoi-jQUUAECqMM?format=jpg&name=4096x4096' alt='Kentucky Football on X: "#GoBigBlue!!!! Gameday Gear x ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4096">
+                                <meta itemprop="height" content="2717">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FAoi-jQUUAECqMM?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

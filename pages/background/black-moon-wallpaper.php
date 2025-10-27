@@ -1,0 +1,129 @@
+<title>Stunning Black Moon Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore our collection of black moon wallpapers to give your devices a celestial makeover. These captivating designs bring a touch of mystery and elegance, perfect for anyone looking to enhance their digital experience. Download your favorite black moon wallpaper today!">
+                    <meta name="keywords" content="black moon wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/black-moon-wallpaper">
+                            <span itemprop="name">black moon wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Black Moon Wallpapers for Your Device</h1>
+                <p>Transform your digital space with stunning black moon wallpapers. Ideal for those who admire celestial beauty, these wallpapers showcase the mystical allure of the night sky. Perfect for personalizing your devices, each design evokes tranquility and mystery, providing an enchanting backdrop that captivates and inspires.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1000+ Black Moon Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1490814525860-594e82bfd34a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmxhY2slMjBtb29ufGVufDB8fDB8fHww' alt='1000+ Black Moon Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2927">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1490814525860-594e82bfd34a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmxhY2slMjBtb29ufGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crescent Moon on Black Background · Free Stock Photo">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/4552359/pexels-photo-4552359.jpeg?auto=compress&cs=tinysrgb&h=627&fit=crop&w=1200' alt='Crescent Moon on Black Background · Free Stock Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="627">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/4552359/pexels-photo-4552359.jpeg?auto=compress&cs=tinysrgb&h=627&fit=crop&w=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper, Moon Wallpaper, Black Moon Wallpaper, Black wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6f/9d/b3/6f9db3efbcd1302b1c7ca8e7a5ac1a68.jpg' alt='Wallpaper, Moon Wallpaper, Black Moon Wallpaper, Black wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6f/9d/b3/6f9db3efbcd1302b1c7ca8e7a5ac1a68.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1000+ Black Moon Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1527842891421-42eec6e703ea?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YmxhY2slMjBtb29ufGVufDB8fDB8fHww' alt='1000+ Black Moon Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1527842891421-42eec6e703ea?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YmxhY2slMjBtb29ufGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11 Black and white moon aesthetic ideas | white moon, dark ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/24/ee/8a/24ee8ad9aaf555a3305ca5f9ccb6c579.jpg' alt='11 Black and white moon aesthetic ideas | white moon, dark ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/24/ee/8a/24ee8ad9aaf555a3305ca5f9ccb6c579.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Most Popular Dark Moon Wallpapers">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/iphone/48970816034160092-32299692531333676.webp' alt='Most Popular Dark Moon Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2140">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/iphone/48970816034160092-32299692531333676.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Purple And Black Moon Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/dark-purple-and-black-moon-2ujq9v4yrgwgrvv5.jpg' alt='Dark Purple And Black Moon Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/dark-purple-and-black-moon-2ujq9v4yrgwgrvv5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD black moon wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/34/317/HD-wallpaper-dark-full-moon-black-cloud-full-moon-night.jpg' alt='HD black moon wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/34/317/HD-wallpaper-dark-full-moon-black-cloud-full-moon-night.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Moon Images – Browse 2,141,990 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/11/29/69/360_F_311296905_imwue6eE1ZUtV7YzHEkJxPz4gQIGhMrF.jpg' alt='Dark Moon Images – Browse 2,141,990 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="657">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/11/29/69/360_F_311296905_imwue6eE1ZUtV7YzHEkJxPz4gQIGhMrF.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Full Moon on Black Background · Free Stock Photo">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/20036317/pexels-photo-20036317/free-photo-of-full-moon-on-black-background.jpeg' alt='Full Moon on Black Background · Free Stock Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1887">
+                                <meta itemprop="height" content="3353">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/20036317/pexels-photo-20036317/free-photo-of-full-moon-on-black-background.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

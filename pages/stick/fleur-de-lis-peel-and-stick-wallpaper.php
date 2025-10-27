@@ -1,0 +1,129 @@
+<title>Chic Fleur de Lis Peel and Stick Wallpaper for Instant Elegance</title>
+                    <meta name="description" content="Discover the elegance of fleur de lis peel and stick wallpaper. Easy to apply and remove, this stylish solution revamps any room effortlessly, perfect for renters and decor enthusiasts alike. Enhance your space with a timeless design today!">
+                    <meta name="keywords" content="fleur de lis peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/fleur-de-lis-peel-and-stick-wallpaper">
+                            <span itemprop="name">fleur de lis peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Fleur de Lis Peel and Stick Wallpaper for Instant Elegance</h1>
+                <p>Transform your space effortlessly with fleur de lis peel and stick wallpaper. This elegant design combines classic beauty with modern convenience, allowing you to refresh any room without the mess of traditional wallpaper. Easy to apply and remove, it's perfect for renters or anyone looking to enhance their decor with a touch of sophistication.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Wallpaper Swatch - Fleur De Lis Blue White Gothic ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61KLCgx25lL._AC_UF894,1000_QL80_.jpg' alt='Peel & Stick Wallpaper Swatch - Fleur De Lis Blue White Gothic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="966">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61KLCgx25lL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: RECETHROWS Wall Mural Royal Fleur de lis Background ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71K0SJ8RelL.jpg' alt='Amazon.com: RECETHROWS Wall Mural Royal Fleur de lis Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71K0SJ8RelL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fleur de Lis Wallpaper">
+                                <img itemprop="contentUrl url" src='https://static.basicinvite.com/media/bi/33705/fleur-de-lis-wallpaper-2x.jpg?q=1707505702' alt='Fleur de Lis Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love vs. Design" />
+                                </span>
+                                <a href='https://static.basicinvite.com/media/bi/33705/fleur-de-lis-wallpaper-2x.jpg?q=1707505702' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kula">
+                                <img itemprop="contentUrl url" src='http://wallsneedlove.com/cdn/shop/products/w0403_1s_Kula-Removable-Peel-and-Stick-Wallpaper_Repeating-Pattern-Sample-1_4267cb91-6da0-4b50-8ffa-13970c6d5969.jpg?v=1734717341' alt='Kula'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3028">
+                                <meta itemprop="height" content="1872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='http://wallsneedlove.com/cdn/shop/products/w0403_1s_Kula-Removable-Peel-and-Stick-Wallpaper_Repeating-Pattern-Sample-1_4267cb91-6da0-4b50-8ffa-13970c6d5969.jpg?v=1734717341' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ambesonne Fleur De Lis Peel & Stick Wallpaper for Home, French ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91ypWeTOlHL._AC_UF894,1000_QL80_.jpg' alt='Ambesonne Fleur De Lis Peel & Stick Wallpaper for Home, French ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="985">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91ypWeTOlHL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fleur de Lis Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.basicinvite.com/media/bi/33705/fleur-de-lis-wallpaper-5-preview-2x.jpg?q=1707505712' alt='Fleur de Lis Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love vs. Design" />
+                                </span>
+                                <a href='https://www.basicinvite.com/media/bi/33705/fleur-de-lis-wallpaper-5-preview-2x.jpg?q=1707505712' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="YANFENQI Easy Wallpaper Peel and Stick Fleur De Lis Decor Collection  Cabinet Wallpaper Living Room No Glue to Damage Wall (W) 59" X(H) 59" - ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71VU6uJvRJL.jpg' alt='YANFENQI Easy Wallpaper Peel and Stick Fleur De Lis Decor Collection  Cabinet Wallpaper Living Room No Glue to Damage Wall (W) 59" X(H) 59" - ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71VU6uJvRJL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Wallpaper 2FT Wide Pink Floral Fleur-De-Lis Lily Retro Flowers  White Fresco Large Scale Custom Removable Wallpaper by Spoonflower">
+                                <img itemprop="contentUrl url" src='https://static.platform.michaels.com/2c-prd/2306117056815616928.jpeg?fit=inside|540:540' alt='Peel & Stick Wallpaper 2FT Wide Pink Floral Fleur-De-Lis Lily Retro Flowers  White Fresco Large Scale Custom Removable Wallpaper by Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Michaels" />
+                                </span>
+                                <a href='https://static.platform.michaels.com/2c-prd/2306117056815616928.jpeg?fit=inside|540:540' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fleur de Peel And Stick Removable Wallpaper | Love vs. Design">
+                                <img itemprop="contentUrl url" src='https://d3vakg5bfkrjtg.cloudfront.net/fleur_de_lis_wallpaper/fleur_de_lis_wallpaper_wall.png.webp' alt='Fleur de Peel And Stick Removable Wallpaper | Love vs. Design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love vs. Design" />
+                                </span>
+                                <a href='https://d3vakg5bfkrjtg.cloudfront.net/fleur_de_lis_wallpaper/fleur_de_lis_wallpaper_wall.png.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ambesonne Fleur De Lis Peel & Stick Wallpaper for Home, French Motifs,  13"x36", Black White">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/cc73696f-dc41-49ce-9e32-c923a1be7072.20b9f742c4037b005d8106feb2694895.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Ambesonne Fleur De Lis Peel & Stick Wallpaper for Home, French Motifs,  13"x36", Black White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/cc73696f-dc41-49ce-9e32-c923a1be7072.20b9f742c4037b005d8106feb2694895.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

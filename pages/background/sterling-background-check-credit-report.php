@@ -1,0 +1,129 @@
+<title>Sterling Background Check: Understanding Credit Reports</title>
+                    <meta name="description" content="Discover the importance of Sterling background check credit reports. Learn how credit history impacts hiring decisions, ensuring you make informed choices about candidates. Get insights into credit scores, debts, and payment histories for safer, smarter employment practices.">
+                    <meta name="keywords" content="sterling background check credit report">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sterling-background-check-credit-report">
+                            <span itemprop="name">sterling background check credit report</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Sterling Background Check: Understanding Credit Reports</h1>
+                <p>A Sterling background check credit report provides a comprehensive overview of a candidate's credit history, helping employers assess financial responsibility and trustworthiness. This report includes credit scores, payment history, and any outstanding debts, enabling businesses to make informed hiring decisions while ensuring a safe work environment for all.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Client Experience - Sterling, a First Advantage company">
+                                <img itemprop="contentUrl url" src='https://www.sterlingcheck.com/wp-content/themes/sterlingnext/assets/images/client-exp/Tablet-03.png' alt='Client Experience - Sterling, a First Advantage company'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1761">
+                                <meta itemprop="height" content="1270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sterling" />
+                                </span>
+                                <a href='https://www.sterlingcheck.com/wp-content/themes/sterlingnext/assets/images/client-exp/Tablet-03.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sterling Background Check Results">
+                                <img itemprop="contentUrl url" src='https://sterling-background-check-results.govbackgroundchecks.com/screenshots/sterling-background-check-results/4.jpg' alt='Sterling Background Check Results'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://sterling-background-check-results.govbackgroundchecks.com/screenshots/sterling-background-check-results/4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="View Results | Sterling, a First Advantage company">
+                                <img itemprop="contentUrl url" src='https://www.sterlingcheck.co.uk/wp-content/uploads/2021/02/View-Results.jpg' alt='View Results | Sterling, a First Advantage company'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sterling" />
+                                </span>
+                                <a href='https://www.sterlingcheck.co.uk/wp-content/uploads/2021/02/View-Results.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sterling Background Check Results">
+                                <img itemprop="contentUrl url" src='https://sterling-background-check-results.govbackgroundchecks.com/screenshots/sterling-background-check-results/2.jpg' alt='Sterling Background Check Results'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://sterling-background-check-results.govbackgroundchecks.com/screenshots/sterling-background-check-results/2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Enabling and using the Sterling integration – Lever Support">
+                                <img itemprop="contentUrl url" src='https://help.lever.co/hc/article_attachments/20090460917405' alt='Enabling and using the Sterling integration – Lever Support'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2768">
+                                <meta itemprop="height" content="1414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lever Support" />
+                                </span>
+                                <a href='https://help.lever.co/hc/article_attachments/20090460917405' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sterling Industry Background Check Services - Sterling, a First ...">
+                                <img itemprop="contentUrl url" src='https://www.sterlingcheck.com/wp-content/themes/sterlingnext/assets/images/identity/demo/ID-03.png' alt='Sterling Industry Background Check Services - Sterling, a First ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="370">
+                                <meta itemprop="height" content="793">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sterling" />
+                                </span>
+                                <a href='https://www.sterlingcheck.com/wp-content/themes/sterlingnext/assets/images/identity/demo/ID-03.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Checking your Sterling Background Check Status - AYSO Wiki">
+                                <img itemprop="contentUrl url" src='https://mywikis-wiki-media.s3.us-central-1.wasabisys.com/ayso/Check-sterling-bgc-status-2.png' alt='Checking your Sterling Background Check Status - AYSO Wiki'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="404">
+                                <meta itemprop="height" content="376">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AYSO Wiki" />
+                                </span>
+                                <a href='https://mywikis-wiki-media.s3.us-central-1.wasabisys.com/ayso/Check-sterling-bgc-status-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Example of how Background Checks are not an Issue : r/overemployed">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/example-of-how-background-checks-are-not-an-issue-v0-xlfuw4kd4xkb1.png?width=786&format=png&auto=webp&s=d57cbbba2fae139f31a913d253d2779c4c58e308' alt='Example of how Background Checks are not an Issue : r/overemployed'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="786">
+                                <meta itemprop="height" content="389">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/example-of-how-background-checks-are-not-an-issue-v0-xlfuw4kd4xkb1.png?width=786&format=png&auto=webp&s=d57cbbba2fae139f31a913d253d2779c4c58e308' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purchasing, completing and your Sterling Background Check request ...">
+                                <img itemprop="contentUrl url" src='https://support.interpodia.com/hs-fs/hubfs/image-png-Nov-02-2020-05-09-25-40-PM.png?width=367&name=image-png-Nov-02-2020-05-09-25-40-PM.png' alt='Purchasing, completing and your Sterling Background Check request ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="367">
+                                <meta itemprop="height" content="258">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Interpodia" />
+                                </span>
+                                <a href='https://support.interpodia.com/hs-fs/hubfs/image-png-Nov-02-2020-05-09-25-40-PM.png?width=367&name=image-png-Nov-02-2020-05-09-25-40-PM.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PeopleMatter: How do I run a Background Check with Sterling ...">
+                                <img itemprop="contentUrl url" src='https://help.hotschedules.com/hc/article_attachments/4442161595917' alt='PeopleMatter: How do I run a Background Check with Sterling ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="609">
+                                <meta itemprop="height" content="692">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fourth & HotSchedules Customer Success Portal" />
+                                </span>
+                                <a href='https://help.hotschedules.com/hc/article_attachments/4442161595917' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

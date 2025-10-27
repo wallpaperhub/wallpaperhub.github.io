@@ -1,0 +1,129 @@
+<title>Stunning Vintage Home Screen Wallpaper for Timeless Decor</title>
+                    <meta name="description" content="Discover stunning vintage home screen wallpaper that adds a touch of nostalgia to your decor. Explore a variety of classic patterns and colors to find the perfect fit for your style. Transform your space effortlessly with timeless designs that enhance any room's charm. Perfect for home enthusiasts!">
+                    <meta name="keywords" content="vintage home screen wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/vintage-home-screen-wallpaper">
+                            <span itemprop="name">vintage home screen wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Vintage Home Screen Wallpaper for Timeless Decor</h1>
+                <p>Transform your living space with vintage home screen wallpaper that captures the charm of yesteryears. Explore an array of classic patterns, colors, and textures, perfect for adding a nostalgic touch to any room. Whether you prefer florals, damasks, or retro graphics, vintage wallpaper brings style and warmth to your home decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage aesthetic Lock Screen wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/56/6d/77/566d77a63e236b4b305f88038da70431.jpg' alt='Vintage aesthetic Lock Screen wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1053">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/56/6d/77/566d77a63e236b4b305f88038da70431.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25+ Vintage Wallpaper Backgrounds For A Retro Vibe | Iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c4/8b/65/c48b6559b25fac86414eec63d30b2d8e.jpg' alt='25+ Vintage Wallpaper Backgrounds For A Retro Vibe | Iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="392">
+                                <meta itemprop="height" content="709">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="jp.pinterest.com" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c4/8b/65/c48b6559b25fac86414eec63d30b2d8e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free customizable vintage phone wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAF9NGtEqbI/1/0/900w/canva-blue-coquette-aesthetic-motivational-vintage-phone-wallpaper-S93baFhyhls.jpg' alt='Free customizable vintage phone wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAF9NGtEqbI/1/0/900w/canva-blue-coquette-aesthetic-motivational-vintage-phone-wallpaper-S93baFhyhls.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Dreamy Vintage Vibes Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/vintage-pastel-2iiiynu0rz5bugau.jpg' alt='Download Dreamy Vintage Vibes Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/vintage-pastel-2iiiynu0rz5bugau.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25+ Vintage Wallpaper Backgrounds For A Retro Vibe">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/02/3c/8c/023c8cadd3125fd2f0e7923654515c98.jpg' alt='25+ Vintage Wallpaper Backgrounds For A Retro Vibe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/02/3c/8c/023c8cadd3125fd2f0e7923654515c98.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Blurr Home Screen | iPhone Background">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/phone/images/640/vintage-blurr.png' alt='Vintage Blurr Home Screen | iPhone Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/phone/images/640/vintage-blurr.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Rose Home Screen Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/home-screen/images/640/vintage-rose-home-screen-wallpaper.png' alt='Vintage Rose Home Screen Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/home-screen/images/640/vintage-rose-home-screen-wallpaper.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3b/05/fc/3b05fc1ad7cbdb96722687d6bd4d0cd9.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3b/05/fc/3b05fc1ad7cbdb96722687d6bd4d0cd9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage French｜Wallpaper Theme +HOME(PlusHome)">
+                                <img itemprop="contentUrl url" src='https://res.atm-plushome.com/uploads/thumbnails/1429/ss_home_xhdpi_medium_ja.webp' alt='Vintage French｜Wallpaper Theme +HOME(PlusHome)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="614">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Theme｜+" />
+                                </span>
+                                <a href='https://res.atm-plushome.com/uploads/thumbnails/1429/ss_home_xhdpi_medium_ja.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5b/42/b1/5b42b19b50446811e34c8ed9a2a6d592.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5b/42/b1/5b42b19b50446811e34c8ed9a2a6d592.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

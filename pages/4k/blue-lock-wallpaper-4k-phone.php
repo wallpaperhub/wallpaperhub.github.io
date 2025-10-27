@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="blue lock wallpaper 4k phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/blue-lock-wallpaper-4k-phone">
+                            <span itemprop="name">blue lock wallpaper 4k phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="470 Blue lock ideas in 2025 | blue, lock, locked wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/1d/e4/64/1de464ab19ea94a1d3b1fa784023c8df.jpg' alt='470 Blue lock ideas in 2025 | blue, lock, locked wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2132">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/1d/e4/64/1de464ab19ea94a1d3b1fa784023c8df.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Lock iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11953106.jpg' alt='Blue Lock iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11953106.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Lock Wallpaper for Phone ch103 : r/BlueLock">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/jhe8affecn161.png?auto=webp&s=da532dce76b185157d82c582665f2e417395307b' alt='Blue Lock Wallpaper for Phone ch103 : r/BlueLock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4688">
+                                <meta itemprop="height" content="10150">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/jhe8affecn161.png?auto=webp&s=da532dce76b185157d82c582665f2e417395307b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Wallpapers from U20 Match - Spoilers : r/BlueLock">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/phone-wallpapers-from-u20-match-spoilers-v0-1g2124013xae1.png?width=1290&format=png&auto=webp&s=e94e4b8cadd1e6ff50ad18c11c6926d3561de9fa' alt='Phone Wallpapers from U20 Match - Spoilers : r/BlueLock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1290">
+                                <meta itemprop="height" content="2796">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/phone-wallpapers-from-u20-match-spoilers-v0-1g2124013xae1.png?width=1290&format=png&auto=webp&s=e94e4b8cadd1e6ff50ad18c11c6926d3561de9fa' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BLUE LOCK WALLPAPER - HeroWall | Phone Backgrounds. Free download!">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/a/AVvXsEjjrGx_wI4aiZ4jpY6h9eTayY9Vypo3CMoUA9-4guLfRn2ZcOQXAHUHGK4mWE4T3t8ykr3XDpOVwOu_KK8dd-ECX4eiW0I9y1pLkx6tt8MQxQQeW2jCIl97HRVHnQXcJILV9SyEGPJ71h_1t4JOLyFubRG8L-BZgcrbzrWk70polUQcBDjioUEHsSslbsg' alt='BLUE LOCK WALLPAPER - HeroWall | Phone Backgrounds. Free download!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="738">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HeroWall" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/a/AVvXsEjjrGx_wI4aiZ4jpY6h9eTayY9Vypo3CMoUA9-4guLfRn2ZcOQXAHUHGK4mWE4T3t8ykr3XDpOVwOu_KK8dd-ECX4eiW0I9y1pLkx6tt8MQxQQeW2jCIl97HRVHnQXcJILV9SyEGPJ71h_1t4JOLyFubRG8L-BZgcrbzrWk70polUQcBDjioUEHsSslbsg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Blue Lock Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/blue-lock-anime-character-intensity-hvp3n35xs3mdadfo.jpg' alt='100+] Blue Lock Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/blue-lock-anime-character-intensity-hvp3n35xs3mdadfo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f6/44/39/f64439cf2a62244265d1b81031786a7b.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f6/44/39/f64439cf2a62244265d1b81031786a7b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Lock Anime Characters 4K Wallpaper iPhone HD Phone #9310h">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/blue-lock-anime-characters-931@0@h-phone-4k.jpg' alt='Blue Lock Anime Characters 4K Wallpaper iPhone HD Phone #9310h'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/blue-lock-anime-characters-931@0@h-phone-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Lock iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp13066463.jpg' alt='Blue Lock iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1180">
+                                <meta itemprop="height" content="2556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp13066463.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="470 Blue lock ideas in 2025 | blue, lock, locked wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/34/95/d1/3495d1260893929d19586fdb80aac192.jpg' alt='470 Blue lock ideas in 2025 | blue, lock, locked wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="835">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/34/95/d1/3495d1260893929d19586fdb80aac192.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

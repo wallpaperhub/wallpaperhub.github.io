@@ -1,0 +1,129 @@
+<title>Stunning iPhone Wallpapers: Elevate Your Screen</title>
+                    <meta name="description" content="Explore our collection of gorgeous iPhone wallpapers designed to enhance your device's look. Find high-quality images in various styles, from nature to minimalism, and express your personality with stunning visuals. Change your wallpaper and refresh your vibe anytime!">
+                    <meta name="keywords" content="iphone nice wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-nice-wallpaper">
+                            <span itemprop="name">iphone nice wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning iPhone Wallpapers: Elevate Your Screen</h1>
+                <p>Discover stunning iPhone wallpapers that elevate your device's aesthetic! From breathtaking nature scenes to minimalist designs, our collection caters to all tastes. Transform your screen with high-quality images that inspire and beautify. Explore our diverse selection and find the perfect wallpaper to express your style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nice wallpaper for iphone X : r/iphone">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/35pnss9978c01.jpg' alt='Nice wallpaper for iphone X : r/iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/35pnss9978c01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Wallpapers - Find Your Perfect iPhone Background with 4K ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/2486168/pexels-photo-2486168.jpeg?cs=srgb&dl=pexels-rpnickson-2486168.jpg&fm=jpg' alt='iPhone Wallpapers - Find Your Perfect iPhone Background with 4K ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3648">
+                                <meta itemprop="height" content="5472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/2486168/pexels-photo-2486168.jpeg?cs=srgb&dl=pexels-rpnickson-2486168.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute iPhone Wallpapers HD Quality - Free Download!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/c9/77/66/c97766c69f25955ff75627dc929fcd6c.jpg' alt='Cute iPhone Wallpapers HD Quality - Free Download!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1064">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/c9/77/66/c97766c69f25955ff75627dc929fcd6c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Cute iPhone Wallpapers To Try In 2024">
+                                <img itemprop="contentUrl url" src='https://pixel77.com/wp-content/uploads/2024/07/cute-iphone-wallpapers-9-1024x1820.webp' alt='10 Cute iPhone Wallpapers To Try In 2024'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1820">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixel77" />
+                                </span>
+                                <a href='https://pixel77.com/wp-content/uploads/2024/07/cute-iphone-wallpapers-9-1024x1820.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Iphone X Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/iphone-x-0pu7qjbgrvvpaj13.jpg' alt='200+] Iphone X Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/iphone-x-0pu7qjbgrvvpaj13.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="35 Best Beautiful wallpapers for iphone ideas | beautiful ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3d/14/a3/3d14a3bbf720949adb1424a7a88e4042.jpg' alt='35 Best Beautiful wallpapers for iphone ideas | beautiful ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3d/14/a3/3d14a3bbf720949adb1424a7a88e4042.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lights And Trees Cute Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/lights-and-trees-cute-iphone-n0sy5oclc2d2fz23-2.jpg' alt='Lights And Trees Cute Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/lights-and-trees-cute-iphone-n0sy5oclc2d2fz23-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD iphone wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/338/503/HD-wallpaper-iphone-circles-iphone-12-pro-original-iphone-thumbnail.jpg' alt='HD iphone wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/338/503/HD-wallpaper-iphone-circles-iphone-12-pro-original-iphone-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Wallpapers | 100+ best free background, grey, iphone ...">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1535392432937-a27c36ec07b5?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8M3wxMDY1NDEyfHxlbnwwfHx8fHw%3D' alt='iPhone Wallpapers | 100+ best free background, grey, iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1535392432937-a27c36ec07b5?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8M3wxMDY1NDEyfHxlbnwwfHx8fHw%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BEAUTIFUL WALLPAPER IPHONE - Heroscreen | Free image stock ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXZEh5WW_CUMDRwSwpO3Up-p3jnt6nQysqg6CfXrku3wAMpc49b3tCwFZpGGsnHGEoM1DsxcWbQb1T88RCU8VIHFbyz5c4vMW1SoelBOFVW_X_4cAoBsmMYhzn1TkL-m1nrA8df1mgJsYi/d/BEAUTIFUL-IPHONE-WALLPAPER.png' alt='BEAUTIFUL WALLPAPER IPHONE - Heroscreen | Free image stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2282">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXZEh5WW_CUMDRwSwpO3Up-p3jnt6nQysqg6CfXrku3wAMpc49b3tCwFZpGGsnHGEoM1DsxcWbQb1T88RCU8VIHFbyz5c4vMW1SoelBOFVW_X_4cAoBsmMYhzn1TkL-m1nrA8df1mgJsYi/d/BEAUTIFUL-IPHONE-WALLPAPER.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

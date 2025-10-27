@@ -1,0 +1,129 @@
+<title>Enjoy Spotify Music in Background: Multitask Effortlessly</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="spotify play in background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/spotify-play-in-background">
+                            <span itemprop="name">spotify play in background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enjoy Spotify Music in Background: Multitask Effortlessly</h1>
+                <p>Spotify allows users to enjoy their favorite music and podcasts while performing other tasks, thanks to its background play feature. This functionality helps enhance multitasking, whether you're browsing social media, exercising, or cooking. Simply start your playlist, and let the tunes play while you focus on what matters!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Keep Spotify Playing in the Background on Your iPhone - SimplyMac">
+                                <img itemprop="contentUrl url" src='https://www.simplymac.com/wp-content/uploads/image-662.png' alt='Keep Spotify Playing in the Background on Your iPhone - SimplyMac'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1161">
+                                <meta itemprop="height" content="809">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SimplyMac" />
+                                </span>
+                                <a href='https://www.simplymac.com/wp-content/uploads/image-662.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can You Keep Spotify Playing in the Background? Yes!">
+                                <img itemprop="contentUrl url" src='https://www.viwizard.com/images/resource/ios-control-center-now-playing-spotify.jpg' alt='Can You Keep Spotify Playing in the Background? Yes!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="443">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ViWizard" />
+                                </span>
+                                <a href='https://www.viwizard.com/images/resource/ios-control-center-now-playing-spotify.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Keep Spotify Playing in the Background on Various Devices">
+                                <img itemprop="contentUrl url" src='https://www.audkit.com/wp-content/uploads/2022/08/play-spotify-in-background.png' alt='How to Keep Spotify Playing in the Background on Various Devices'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="278">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AudKit" />
+                                </span>
+                                <a href='https://www.audkit.com/wp-content/uploads/2022/08/play-spotify-in-background.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Keep Spotify Playing in the Background iPhone/Android">
+                                <img itemprop="contentUrl url" src='https://www.audfree.com/images/resource/spotify-background-on-computer.jpg' alt='How to Keep Spotify Playing in the Background iPhone/Android'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AudFree" />
+                                </span>
+                                <a href='https://www.audfree.com/images/resource/spotify-background-on-computer.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Keep Spotify Playing in the Background on Various Devices">
+                                <img itemprop="contentUrl url" src='https://www.audkit.com/wp-content/uploads/2022/08/allow-spotify-to-use-background-data.png' alt='How to Keep Spotify Playing in the Background on Various Devices'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="406">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AudKit" />
+                                </span>
+                                <a href='https://www.audkit.com/wp-content/uploads/2022/08/allow-spotify-to-use-background-data.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can You Keep Spotify Playing in the Background? Yes!">
+                                <img itemprop="contentUrl url" src='https://www.viwizard.com/images/resource/spotify-in-background-iphone.png' alt='Can You Keep Spotify Playing in the Background? Yes!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="442">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ViWizard" />
+                                </span>
+                                <a href='https://www.viwizard.com/images/resource/spotify-in-background-iphone.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spotify Playing in the Background | by BAlves | Medium">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1346/1*yqDXFyB2jh8JsEaH5FGVEw.png' alt='Spotify Playing in the Background | by BAlves | Medium'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="673">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1346/1*yqDXFyB2jh8JsEaH5FGVEw.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Play Spotify in the Background | Tunelf">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/CRagNrBgcNw/maxresdefault.jpg' alt='How to Play Spotify in the Background | Tunelf'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/CRagNrBgcNw/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Keep Spotify Playing in Background">
+                                <img itemprop="contentUrl url" src='https://www.drmare.com/images/resource/spotify-play-in-background.jpg' alt='How to Keep Spotify Playing in Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DRmare" />
+                                </span>
+                                <a href='https://www.drmare.com/images/resource/spotify-play-in-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Make Spotify Play In The Background iPhone (Quick & Easy ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/NfkwQDcBJE4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDrUA0uIoIvPXgGWa4Ldo5Pmhxv_Q' alt='How To Make Spotify Play In The Background iPhone (Quick & Easy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/NfkwQDcBJE4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDrUA0uIoIvPXgGWa4Ldo5Pmhxv_Q' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

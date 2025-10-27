@@ -1,0 +1,129 @@
+<title>Stunning Light iPhone Wallpapers for a Fresh Look</title>
+                    <meta name="description" content="Discover a beautiful selection of light iPhone wallpapers that refresh your device's look. Explore serene landscapes, pastel designs, and more to match any mood. Update your wallpaper effortlessly and enjoy a vibrant, calming experience every time you unlock your phone!">
+                    <meta name="keywords" content="light iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/light-iphone-wallpaper">
+                            <span itemprop="name">light iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Light iPhone Wallpapers for a Fresh Look</h1>
+                <p>Brighten up your iPhone screen with our collection of light-themed wallpapers! From serene landscapes to pastel patterns, these light iPhone wallpapers are designed to bring a sense of peace and sophistication. Perfect for any mood or season, they will give your device a fresh, vibrant look. Change your wallpaper today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Light Blue Aesthetic Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/light-blue-aesthetic-iphone-3n1hpntmp37i4wrz.jpg' alt='100+] Light Blue Aesthetic Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/light-blue-aesthetic-iphone-3n1hpntmp37i4wrz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light, iphone bulb, lamp, purple, single, hope, black, simple, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/186/782/HD-wallpaper-light-iphone-bulb-lamp-purple-single-hope-black-simple.jpg' alt='Light, iphone bulb, lamp, purple, single, hope, black, simple, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1503">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/186/782/HD-wallpaper-light-iphone-bulb-lamp-purple-single-hope-black-simple.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 13 Pro Beam Blue (Light) | LIVE Wallpaper - Wallpapers Central">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2021/09/1941.Light_Beams_Blue_Light-428w-926h@3xiphone.jpg' alt='iPhone 13 Pro Beam Blue (Light) | LIVE Wallpaper - Wallpapers Central'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1542">
+                                <meta itemprop="height" content="3334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Central - iSpazio" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2021/09/1941.Light_Beams_Blue_Light-428w-926h@3xiphone.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lamp wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/55/7e/57/557e57a0a18b1eec3257b487e2bdd7ea.jpg' alt='Lamp wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/55/7e/57/557e57a0a18b1eec3257b487e2bdd7ea.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Night Lights iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/13/96/45/139645b388e744c858775342b01c5b10.jpg' alt='Night Lights iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="469">
+                                <meta itemprop="height" content="832">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/13/96/45/139645b388e744c858775342b01c5b10.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="IPhone 13, light, neon, iphone13, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/526/121/HD-wallpaper-iphone-13-light-neon-iphone13.jpg' alt='IPhone 13, light, neon, iphone13, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1731">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/526/121/HD-wallpaper-iphone-13-light-neon-iphone13.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mountain lights wallpaper iPhone by lirking20 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7de15807-3a01-41c7-ab6f-08ce52c8c7d9/da173hy-1b27358f-44ce-4ecc-9994-b91ec84330a0.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdkZTE1ODA3LTNhMDEtNDFjNy1hYjZmLTA4Y2U1MmM4YzdkOVwvZGExNzNoeS0xYjI3MzU4Zi00NGNlLTRlY2MtOTk5NC1iOTFlYzg0MzMwYTAuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ZquxDixdzDpIyNN0xeFFu8B1cp8TPKUCf9Gw5bxXLxU' alt='Mountain lights wallpaper iPhone by lirking20 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7de15807-3a01-41c7-ab6f-08ce52c8c7d9/da173hy-1b27358f-44ce-4ecc-9994-b91ec84330a0.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdkZTE1ODA3LTNhMDEtNDFjNy1hYjZmLTA4Y2U1MmM4YzdkOVwvZGExNzNoeS0xYjI3MzU4Zi00NGNlLTRlY2MtOTk5NC1iOTFlYzg0MzMwYTAuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ZquxDixdzDpIyNN0xeFFu8B1cp8TPKUCf9Gw5bxXLxU' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/f1/56/21/f1562115abee04f09e2cc7f890b4b957.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="748">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/f1/56/21/f1562115abee04f09e2cc7f890b4b957.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Lights iPhone Wallpapers [Free Background Images ...">
+                                <img itemprop="contentUrl url" src='https://www.wallpapergap.com/cdn/24/423/christmas-lights-wallpaper-iphone-722x1334.jpg' alt='Christmas Lights iPhone Wallpapers [Free Background Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="722">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperGap" />
+                                </span>
+                                <a href='https://www.wallpapergap.com/cdn/24/423/christmas-lights-wallpaper-iphone-722x1334.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="vp43-light-star-beautiful-pattern-white-wallpaper">
+                                <img itemprop="contentUrl url" src='https://papers.co/wallpaper/papers.co-vp43-light-star-beautiful-pattern-white-41-iphone-wallpaper.jpg' alt='vp43-light-star-beautiful-pattern-white-wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papers.co" />
+                                </span>
+                                <a href='https://papers.co/wallpaper/papers.co-vp43-light-star-beautiful-pattern-white-41-iphone-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

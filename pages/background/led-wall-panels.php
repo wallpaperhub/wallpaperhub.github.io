@@ -1,0 +1,129 @@
+<title>Transform Your Space with LED Wall Panels</title>
+                    <meta name="description" content="Discover the brilliance of LED wall panels! Perfect for modern interiors, these energy-efficient lighting solutions provide vibrant, customizable illumination. Ideal for homes, offices, and public spaces, they blend style with functionality, enhancing ambiance while saving on energy costs. Upgrade your space today!">
+                    <meta name="keywords" content="led wall panels">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/led-wall-panels">
+                            <span itemprop="name">led wall panels</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with LED Wall Panels</h1>
+                <p>LED wall panels are revolutionary lighting solutions that enhance any space with vibrant, energy-efficient illumination. Ideal for offices, homes, and public areas, they boast sleek designs and customizable options. These panels offer long lifespan, easy installation, and are perfect for creating a modern ambiance while reducing energy costs.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LED Hexagon Lights, Smart Home LED Wall Lights Work with Alexa Google  Assistant, RGBIC Gaming Lights for Gaming Setup, Voice, App & Remote  Control, ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61klxWbVrvL.jpg' alt='LED Hexagon Lights, Smart Home LED Wall Lights Work with Alexa Google  Assistant, RGBIC Gaming Lights for Gaming Setup, Voice, App & Remote  Control, ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61klxWbVrvL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vizra-2X 13-FT x 7-FT 2.9mm LED Video Wall System Package (NovaStar)">
+                                <img itemprop="contentUrl url" src='https://dvsledsystems.com/wp-content/uploads/2023/08/Vizra-2X-Main.jpg' alt='Vizra-2X 13-FT x 7-FT 2.9mm LED Video Wall System Package (NovaStar)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DVS LED" />
+                                </span>
+                                <a href='https://dvsledsystems.com/wp-content/uploads/2023/08/Vizra-2X-Main.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lennie LED Wall Panel">
+                                <img itemprop="contentUrl url" src='http://fourline.design/cdn/shop/files/O1CN01dueSGd1dZ5bu5mBTY__2212713703749-0-cib_grande.jpg?v=1740837751' alt='Lennie LED Wall Panel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fourline Design" />
+                                </span>
+                                <a href='http://fourline.design/cdn/shop/files/O1CN01dueSGd1dZ5bu5mBTY__2212713703749-0-cib_grande.jpg?v=1740837751' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hexagon Lights (8 Pack) LED Wall Panels, TISOFU RGB Gaming Lights with APP,  Smart Modular Panel Hex Tiles Push Glide Expansion Shapes Lights - ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71nZmm0LL4L.jpg' alt='Hexagon Lights (8 Pack) LED Wall Panels, TISOFU RGB Gaming Lights with APP,  Smart Modular Panel Hex Tiles Push Glide Expansion Shapes Lights - ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71nZmm0LL4L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LED Wall Panel Glossary - THOR AV">
+                                <img itemprop="contentUrl url" src='https://thorav.us/wp-content/uploads/2021/06/THOR-LED-WALL-PANEL-1600x800.jpg' alt='LED Wall Panel Glossary - THOR AV'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="THOR AV" />
+                                </span>
+                                <a href='https://thorav.us/wp-content/uploads/2021/06/THOR-LED-WALL-PANEL-1600x800.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LED Video Wall 9.5′ x 6.3′ P5mm Indoor for Church and House of ...">
+                                <img itemprop="contentUrl url" src='https://lednationusa.com/wp-content/uploads/2024/01/led-screen-panel-1-53-front-left-.jpg' alt='LED Video Wall 9.5′ x 6.3′ P5mm Indoor for Church and House of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LED nation" />
+                                </span>
+                                <a href='https://lednationusa.com/wp-content/uploads/2024/01/led-screen-panel-1-53-front-left-.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Slatpanel® Glow Flexible LED Light Strip Pack">
+                                <img itemprop="contentUrl url" src='https://www.thewoodveneerhub.com/cdn/shop/files/the-wood-veneer-hub-slatpanel-glow-flexible-led-light-strip-pack-47101166878998_1200x1526.jpg?v=1740078888' alt='Slatpanel® Glow Flexible LED Light Strip Pack'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="824">
+                                <meta itemprop="height" content="1048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Wood Veneer Hub" />
+                                </span>
+                                <a href='https://www.thewoodveneerhub.com/cdn/shop/files/the-wood-veneer-hub-slatpanel-glow-flexible-led-light-strip-pack-47101166878998_1200x1526.jpg?v=1740078888' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Modular Lighted Panels – Impact Lighting Inc">
+                                <img itemprop="contentUrl url" src='https://impactlightinginc.com/wp-content/uploads/2021/09/galaxy-sonic-panel-application.jpg' alt='Galaxy Modular Lighted Panels – Impact Lighting Inc'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="530">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Impact Lighting Inc" />
+                                </span>
+                                <a href='https://impactlightinginc.com/wp-content/uploads/2021/09/galaxy-sonic-panel-application.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ozarke Glow Panel Light">
+                                <img itemprop="contentUrl url" src='https://woodarq.com/cdn/shop/files/woodarq-wall-lamp-warm-white-arq-glow-led-strips-48254224335162.jpg?v=1729114202&width=1946' alt='Ozarke Glow Panel Light'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="woodarq" />
+                                </span>
+                                <a href='https://woodarq.com/cdn/shop/files/woodarq-wall-lamp-warm-white-arq-glow-led-strips-48254224335162.jpg?v=1729114202&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Optic-3E 3.9mm LED Video Wall Panel - DVS LED">
+                                <img itemprop="contentUrl url" src='https://dvsledsystems.com/wp-content/uploads/2023/10/optic-3e-main.jpg' alt='Optic-3E 3.9mm LED Video Wall Panel - DVS LED'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DVS LED" />
+                                </span>
+                                <a href='https://dvsledsystems.com/wp-content/uploads/2023/10/optic-3e-main.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

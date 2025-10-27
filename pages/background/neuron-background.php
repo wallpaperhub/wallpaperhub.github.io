@@ -1,0 +1,129 @@
+<title>Understanding Neuron Structure and Function</title>
+                    <meta name="description" content="Explore the essential role of neurons in the nervous system! Discover their structure, types, and functions, and learn how they transmit signals, affecting everything from reflexes to complex cognitive tasks. Ideal for students and anyone curious about neuroscience.">
+                    <meta name="keywords" content="neuron background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/neuron-background">
+                            <span itemprop="name">neuron background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Neuron Structure and Function</h1>
+                <p>Neurons are specialized cells that transmit information throughout the body via electrical and chemical signals. They are fundamental to the nervous system, facilitating communication between the brain and various body parts. Composed of a cell body, dendrites, and an axon, they play critical roles in reflexes, sensations, and cognitive functions.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neuron Background Images – Browse 172,498 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/08/24/72/10/360_F_824721062_xtTxYzAy09ZSwVw3du5WZZ52EOdONl8t.jpg' alt='Neuron Background Images – Browse 172,498 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/08/24/72/10/360_F_824721062_xtTxYzAy09ZSwVw3du5WZZ52EOdONl8t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neuron Background Images – Browse 172,498 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/10/72/91/360_F_210729165_aEQePHlCo33myvq4yLrppAnd47GKPAMq.jpg' alt='Neuron Background Images – Browse 172,498 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/10/72/91/360_F_210729165_aEQePHlCo33myvq4yLrppAnd47GKPAMq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="45,628+ Neurons Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1681487548276-48a2c640ade9?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bmV1cm9uc3xlbnwwfHwwfHx8MA%3D%3D' alt='45,628+ Neurons Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1681487548276-48a2c640ade9?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bmV1cm9uc3xlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neuron Background Images – Browse 172,498 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/09/57/80/80/360_F_957808098_UGTppEUDyir48lARQchRfpfFlXKZMV2t.jpg' alt='Neuron Background Images – Browse 172,498 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="905">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/09/57/80/80/360_F_957808098_UGTppEUDyir48lARQchRfpfFlXKZMV2t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neuron Background Images – Browse 172,498 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/08/39/92/26/360_F_839922619_2sJSyw05txAQpPcA7QsDucO0IdW4JaNA.jpg' alt='Neuron Background Images – Browse 172,498 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/08/39/92/26/360_F_839922619_2sJSyw05txAQpPcA7QsDucO0IdW4JaNA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="23,100+ Neuron Stock Illustrations, Royalty-Free Vector Graphics ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1151207091/vector/model-of-neural-system-scientific-vector-background-for-projects-on-technology-medicine.jpg?s=612x612&w=0&k=20&c=seIeRmtlVqt9mAMvDrhjts_YpGre9zF9XCT1Zk4lJ7Y=' alt='23,100+ Neuron Stock Illustrations, Royalty-Free Vector Graphics ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1151207091/vector/model-of-neural-system-scientific-vector-background-for-projects-on-technology-medicine.jpg?s=612x612&w=0&k=20&c=seIeRmtlVqt9mAMvDrhjts_YpGre9zF9XCT1Zk4lJ7Y=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neuron Background Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/039/666/249/small/ai-generated-abstract-background-with-neuron-cells-nervous-system-microbiology-concept-photo.jpg' alt='Neuron Background Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="357">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/039/666/249/small/ai-generated-abstract-background-with-neuron-cells-nervous-system-microbiology-concept-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Realistic Neuron Background 6846698 Vector Art at Vecteezy">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/006/846/698/non_2x/realistic-neuron-background-vector.jpg' alt='Realistic Neuron Background 6846698 Vector Art at Vecteezy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1742">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/006/846/698/non_2x/realistic-neuron-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neuron Background Images – Browse 172,498 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/62/54/20/360_F_362542026_SZrlLE4PNjNczaMerc8MevQoZAAlgp1z.jpg' alt='Neuron Background Images – Browse 172,498 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/62/54/20/360_F_362542026_SZrlLE4PNjNczaMerc8MevQoZAAlgp1z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neuron Background 118570 Vector Art at Vecteezy">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/000/118/570/non_2x/vector-neuron-background.jpg' alt='Neuron Background 118570 Vector Art at Vecteezy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/000/118/570/non_2x/vector-neuron-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

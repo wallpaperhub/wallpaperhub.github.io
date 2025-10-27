@@ -1,0 +1,129 @@
+<title>Trendy Aesthetic iPhone Lock Screen Wallpapers</title>
+                    <meta name="description" content="Explore a collection of trendy aesthetic iPhone lock screen wallpapers! Get inspired by unique designs that perfectly reflect your style. Download now and transform your device into a personal art gallery, all optimized for the best visual experience on your iPhone.">
+                    <meta name="keywords" content="aesthetic:9ztjexernm8= iphone lock screen wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic9ztjexernm8-iphone-lock-screen-wallpaper">
+                            <span itemprop="name">aesthetic:9ztjexernm8= iphone lock screen wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Trendy Aesthetic iPhone Lock Screen Wallpapers</h1>
+                <p>Enhance your iPhone experience with stunning aesthetic wallpapers! Discover the latest trends in iPhone lock screen designs, featuring vibrant colors, minimalist art, and nature-inspired themes. Transform your device into a visual masterpiece and express your unique style with mesmerizing wallpapers that inspire and captivate.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,378 Aesthetic Lock Screen Ideas for iPhone | WidgetClub">
+                                <img itemprop="contentUrl url" src='https://s.widget-club.com/images/P1TfEvlflOg9BdcaQVIX5xyWlzk1/u4k7TooVdGnMwceiHkKM/DDBEBB2D-BFC3-4E75-AEB2-0E9FBA7F8ADF.jpg?q=70' alt='4,378 Aesthetic Lock Screen Ideas for iPhone | WidgetClub'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper App by WidgetClub" />
+                                </span>
+                                <a href='https://s.widget-club.com/images/P1TfEvlflOg9BdcaQVIX5xyWlzk1/u4k7TooVdGnMwceiHkKM/DDBEBB2D-BFC3-4E75-AEB2-0E9FBA7F8ADF.jpg?q=70' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,378 Aesthetic Lock Screen Ideas for iPhone | WidgetClub">
+                                <img itemprop="contentUrl url" src='https://s.widget-club.com/images/cwDac1MHM1PxafqK80Q9m9qqmc33/tWSzQroHT98moh2owYgf/6E1FEF8B-ACB9-4AD4-A757-4D03DF2FC027.jpg?q=70' alt='4,378 Aesthetic Lock Screen Ideas for iPhone | WidgetClub'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper App by WidgetClub" />
+                                </span>
+                                <a href='https://s.widget-club.com/images/cwDac1MHM1PxafqK80Q9m9qqmc33/tWSzQroHT98moh2owYgf/6E1FEF8B-ACB9-4AD4-A757-4D03DF2FC027.jpg?q=70' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalist Aesthetic Lock Screen for iPhone / iOS 16">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ba/a0/11/baa011cadeb032b9b99c40951359cc0f.jpg' alt='Minimalist Aesthetic Lock Screen for iPhone / iOS 16'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ba/a0/11/baa011cadeb032b9b99c40951359cc0f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25+ Aesthetic Lock Screen Ideas for iOS 18 (Wallpapers & Widgets ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2e/0a/9d/2e0a9d9758626970f0987c5d4d741fab.jpg' alt='25+ Aesthetic Lock Screen Ideas for iOS 18 (Wallpapers & Widgets ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2e/0a/9d/2e0a9d9758626970f0987c5d4d741fab.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,378 Aesthetic Lock Screen Ideas for iPhone | WidgetClub">
+                                <img itemprop="contentUrl url" src='https://s.widget-club.com/images/cwDac1MHM1PxafqK80Q9m9qqmc33/192nr4OUJBoru4rpWmB2/BEC14356-F371-425D-B9A8-6AA59908B121.jpg?q=70' alt='4,378 Aesthetic Lock Screen Ideas for iPhone | WidgetClub'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper App by WidgetClub" />
+                                </span>
+                                <a href='https://s.widget-club.com/images/cwDac1MHM1PxafqK80Q9m9qqmc33/192nr4OUJBoru4rpWmB2/BEC14356-F371-425D-B9A8-6AA59908B121.jpg?q=70' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lock Screen wallpaper iPhone aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/10/5c/78/105c786a0918cfeb9165bed4d2e06177.jpg' alt='Lock Screen wallpaper iPhone aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="608">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/10/5c/78/105c786a0918cfeb9165bed4d2e06177.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,378 Aesthetic Lock Screen Ideas for iPhone | WidgetClub">
+                                <img itemprop="contentUrl url" src='https://s.widget-club.com/images/cwDac1MHM1PxafqK80Q9m9qqmc33/CvB03hnVEwTiC269tJ3r/A80004E4-D431-49E1-84C1-519A515F0973.jpg?q=70' alt='4,378 Aesthetic Lock Screen Ideas for iPhone | WidgetClub'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper App by WidgetClub" />
+                                </span>
+                                <a href='https://s.widget-club.com/images/cwDac1MHM1PxafqK80Q9m9qqmc33/CvB03hnVEwTiC269tJ3r/A80004E4-D431-49E1-84C1-519A515F0973.jpg?q=70' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Lock Screen Wallpaper iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/28/8e/a4/288ea4aa1ece0fcabdd6c2135b9e6e0f.jpg' alt='Aesthetic Lock Screen Wallpaper iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1172">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/28/8e/a4/288ea4aa1ece0fcabdd6c2135b9e6e0f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25+ Aesthetic Lock Screen Ideas for iOS 18 (Wallpapers & Widgets)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/df/44/8e/df448e43a5399e959dd984bc94f0f882.jpg' alt='25+ Aesthetic Lock Screen Ideas for iOS 18 (Wallpapers & Widgets)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/df/44/8e/df448e43a5399e959dd984bc94f0f882.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,378 Aesthetic Lock Screen Ideas for iPhone | WidgetClub">
+                                <img itemprop="contentUrl url" src='https://s.widget-club.com/images/cwDac1MHM1PxafqK80Q9m9qqmc33/SUaZeHZPa6miecrpoYQJ/BE44440A-5099-4417-B9C1-7EBF27D951C5.jpg?q=70' alt='4,378 Aesthetic Lock Screen Ideas for iPhone | WidgetClub'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper App by WidgetClub" />
+                                </span>
+                                <a href='https://s.widget-club.com/images/cwDac1MHM1PxafqK80Q9m9qqmc33/SUaZeHZPa6miecrpoYQJ/BE44440A-5099-4417-B9C1-7EBF27D951C5.jpg?q=70' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

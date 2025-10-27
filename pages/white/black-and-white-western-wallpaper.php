@@ -1,0 +1,129 @@
+<title>Black and White Western Wallpaper: Bold Rustic Decor</title>
+                    <meta name="description" content="Add a touch of rustic elegance to your home with our black and white western wallpaper. Explore stylish patterns that elevate your interior design, perfect for accent walls or full rooms. Create a unique atmosphere that celebrates western charm with a modern edge. Shop now for timeless decor!">
+                    <meta name="keywords" content="black and white western wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/black-and-white-western-wallpaper">
+                            <span itemprop="name">black and white western wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Black and White Western Wallpaper: Bold Rustic Decor</h1>
+                <p>Transform your space with striking black and white western wallpaper. This stylish décor option combines classic western motifs with a modern twist, perfect for creating a bold statement. Ideal for accent walls or entire rooms, the monochromatic palette enhances any western-themed interior, adding depth and character to your home.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Wallpaper 9ft x 2ft - Cow Skull Bull Black White Western  Cowboy Rustic Custom Removable Wallpaper by Spoonflower">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51eVhsyMwWL._AC_UF894,1000_QL80_.jpg' alt='Peel & Stick Wallpaper 9ft x 2ft - Cow Skull Bull Black White Western  Cowboy Rustic Custom Removable Wallpaper by Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="966">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51eVhsyMwWL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cowboy Wallpaper, Western Wall Paper in Black and White ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20454595/r/il/0ceba4/4925293887/il_570xN.4925293887_5vv0.jpg' alt='Cowboy Wallpaper, Western Wall Paper in Black and White ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20454595/r/il/0ceba4/4925293887/il_570xN.4925293887_5vv0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="43 Best western black and white aesthetic ideas | black and white ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b2/39/a8/b239a86f50190287fc6cfb8038e6174e.jpg' alt='43 Best western black and white aesthetic ideas | black and white ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="673">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b2/39/a8/b239a86f50190287fc6cfb8038e6174e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cowboy Toile">
+                                <img itemprop="contentUrl url" src='http://chasingpaper.com/cdn/shop/products/CowboyToile-BW.jpg?v=1639516157' alt='Cowboy Toile'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chasing Paper" />
+                                </span>
+                                <a href='http://chasingpaper.com/cdn/shop/products/CowboyToile-BW.jpg?v=1639516157' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Western Cowboy Wall Art Mural - Peel and Stick Wallpaper Western ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11608422/r/il/1a4e21/6067691054/il_570xN.6067691054_ldkh.jpg' alt='Western Cowboy Wall Art Mural - Peel and Stick Wallpaper Western ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="559">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11608422/r/il/1a4e21/6067691054/il_570xN.6067691054_ldkh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cowboy Blues Wallpaper – YELLOWPOP">
+                                <img itemprop="contentUrl url" src='https://www.yellowpop.com/cdn/shop/products/WPYPCWBYBLS000.jpg?v=1650991370' alt='Cowboy Blues Wallpaper – YELLOWPOP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="yellowpop" />
+                                </span>
+                                <a href='https://www.yellowpop.com/cdn/shop/products/WPYPCWBYBLS000.jpg?v=1650991370' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Wallpaper Swatch - Western Wheels Toile Cowboy ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71fyZ0yYORL._AC_UF894,1000_QL80_.jpg' alt='Peel & Stick Wallpaper Swatch - Western Wheels Toile Cowboy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="966">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71fyZ0yYORL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cowboy Roundup">
+                                <img itemprop="contentUrl url" src='https://www.desertpoppypaper.com/cdn/shop/files/CowboyRoundup_WWW-RND-GRY-1_1200x.jpg?v=1717944701' alt='Cowboy Roundup'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Desert Poppy Paper Co." />
+                                </span>
+                                <a href='https://www.desertpoppypaper.com/cdn/shop/files/CowboyRoundup_WWW-RND-GRY-1_1200x.jpg?v=1717944701' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black & White Western Aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/e7/ae/bf/e7aebfed9f27fbe6d8a4e8e19ad8cbc0.jpg' alt='Black & White Western Aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/e7/ae/bf/e7aebfed9f27fbe6d8a4e8e19ad8cbc0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black & White Pistols and Stars Wallpaper: Retro Western Peel & Stick for  Modern Decor">
+                                <img itemprop="contentUrl url" src='https://www.wallsofwisdomhome.com/cdn/shop/files/Black-Pistol-Retro-Wallpaper_3ac9ff9d-f894-42cf-9cc9-43ce31e75b86.jpg?v=1727877262&width=1200' alt='Black & White Pistols and Stars Wallpaper: Retro Western Peel & Stick for  Modern Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1177">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls of Wisdom | Large Wall Art Murals & Rustic Western Decor" />
+                                </span>
+                                <a href='https://www.wallsofwisdomhome.com/cdn/shop/files/Black-Pistol-Retro-Wallpaper_3ac9ff9d-f894-42cf-9cc9-43ce31e75b86.jpg?v=1727877262&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

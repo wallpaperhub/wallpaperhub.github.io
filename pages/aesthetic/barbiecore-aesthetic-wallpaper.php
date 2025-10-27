@@ -1,0 +1,129 @@
+<title>Barbiecore Aesthetic Wallpaper: Brighten Your Space!</title>
+                    <meta name="description" content="Discover captivating Barbiecore aesthetic wallpaper that transforms your space into a vibrant haven. Featuring playful colors and retro designs, our wallpapers add a unique touch of nostalgia and charm to any room. Perfect for fans of fun, chic decor! Explore now to elevate your home!">
+                    <meta name="keywords" content="barbiecore aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/barbiecore-aesthetic-wallpaper">
+                            <span itemprop="name">barbiecore aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Barbiecore Aesthetic Wallpaper: Brighten Your Space!</h1>
+                <p>Immerse yourself in the playful world of Barbiecore aesthetic wallpaper, where vibrant pinks, whimsical patterns, and retro charm create a dreamy atmosphere. Perfect for enthusiasts of bold décor, these wallpapers bring a fun and nostalgic vibe to any space. Elevate your interior with a touch of glamour and imagination!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60+ Barbiecore Aesthetic Wallpaper Downloads For Your iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c0/22/cb/c022cbf4d9fc44ccc4e9150d5e0c1ac1.jpg' alt='60+ Barbiecore Aesthetic Wallpaper Downloads For Your iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1162">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c0/22/cb/c022cbf4d9fc44ccc4e9150d5e0c1ac1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="bratz barbiecore aesthetic iphone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1d/33/5e/1d335e43908d45bcee4ea31a854b5657.jpg' alt='bratz barbiecore aesthetic iphone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1d/33/5e/1d335e43908d45bcee4ea31a854b5657.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check out GMONEY141109's Shuffles #pink #barbie #barbiecore ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/345x/32/06/c9/3206c958d9098c2edb0c1612701c1657.jpg' alt='Check out GMONEY141109's Shuffles #pink #barbie #barbiecore ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="345">
+                                <meta itemprop="height" content="613">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shuffles" />
+                                </span>
+                                <a href='https://i.pinimg.com/345x/32/06/c9/3206c958d9098c2edb0c1612701c1657.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barbiecore">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/ee/5c/3a/ee5c3a5a0d1f666316f83a7884b1b9d8.jpg' alt='Barbiecore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="445">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/ee/5c/3a/ee5c3a5a0d1f666316f83a7884b1b9d8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barbie wallpapers        | Gallery posted by Kenzie :) | Lemon8">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7254346034997068293&index=1&sign=1d55191e3516210da9bbdd3b05c77892' alt='Barbie wallpapers        | Gallery posted by Kenzie :) | Lemon8'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1179">
+                                <meta itemprop="height" content="1572">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7254346034997068293&index=1&sign=1d55191e3516210da9bbdd3b05c77892' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barbiecore Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/12/47/a2/1247a20c9b613785e6a181bddd46ada7.jpg' alt='Barbiecore Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/12/47/a2/1247a20c9b613785e6a181bddd46ada7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="aesthetic locks — B A R B I E C O R E Please like/reblog if...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/61c0e008b33d650e6fe3402794e0c819/cd1489948fff0212-97/s1280x1920/ca86433b7e3331fdebd7fb1f827b28f9e63f6083.jpg' alt='aesthetic locks — B A R B I E C O R E Please like/reblog if...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="aesthetic locks - Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/61c0e008b33d650e6fe3402794e0c819/cd1489948fff0212-97/s1280x1920/ca86433b7e3331fdebd7fb1f827b28f9e63f6083.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="112 PCS, Barbie-core, Pink Aesthetic Wall Photo Collage, Hot Pink ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/37646972/r/il/07f7c8/4601156449/il_fullxfull.4601156449_4f19.jpg' alt='112 PCS, Barbie-core, Pink Aesthetic Wall Photo Collage, Hot Pink ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2521">
+                                <meta itemprop="height" content="2161">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/37646972/r/il/07f7c8/4601156449/il_fullxfull.4601156449_4f19.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barbiecore Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp6390919.jpg' alt='Barbiecore Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="836">
+                                <meta itemprop="height" content="1253">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp6390919.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="56 Barbie core aesthetic ideas | photo wall collage, pastel pink ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e5/44/f4/e544f4b4bf651a5e64177f2758bb756c.jpg' alt='56 Barbie core aesthetic ideas | photo wall collage, pastel pink ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e5/44/f4/e544f4b4bf651a5e64177f2758bb756c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

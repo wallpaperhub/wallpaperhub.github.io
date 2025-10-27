@@ -1,0 +1,129 @@
+<title>Understanding Capital One's Background Check Process</title>
+                    <meta name="description" content="Discover what to expect from Capital One's background check process. Learn about the types of checks conducted, including criminal history and credit evaluations, to help prepare for your job application. Ensure a smooth hiring experience by being informed about this essential step.">
+                    <meta name="keywords" content="capital one background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/capital-one-background-check">
+                            <span itemprop="name">capital one background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Capital One's Background Check Process</h1>
+                <p>Capital One conducts background checks to ensure the safety and integrity of its workforce. These checks typically include criminal history, credit reports, and employment verification. Applicants should anticipate these screenings during the hiring process, as they help Capital One maintain a trustworthy environment for customers and employees alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How intense is the capital one background check? J... | Fishbowl">
+                                <img itemprop="contentUrl url" src='https://files.getfishbowl.com/content_preview_images/how-intense-is-the-capital-one-background-check-just-got-an-offer-and-im-trying-to-decide-when-its-safe-to-put-in-my-notice.png' alt='How intense is the capital one background check? J... | Fishbowl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fishbowl" />
+                                </span>
+                                <a href='https://files.getfishbowl.com/content_preview_images/how-intense-is-the-capital-one-background-check-just-got-an-offer-and-im-trying-to-decide-when-its-safe-to-put-in-my-notice.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check Your Credit Score for your Job Search | CreditWise">
+                                <img itemprop="contentUrl url" src='https://ecm.capitalone.com/WCM/creditwise/cw-jobhunting-banner-b4.d-desktop.png' alt='Check Your Credit Score for your Job Search | CreditWise'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1216">
+                                <meta itemprop="height" content="961">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Capital One" />
+                                </span>
+                                <a href='https://ecm.capitalone.com/WCM/creditwise/cw-jobhunting-banner-b4.d-desktop.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Capital One Checks - Order Checks Online - Check Print">
+                                <img itemprop="contentUrl url" src='https://www.usckprint.com/wp-content/uploads/LASER-TOP-CAPITAL-ONE-BANK-232x300.jpg' alt='Capital One Checks - Order Checks Online - Check Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="232">
+                                <meta itemprop="height" content="299">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Check Print" />
+                                </span>
+                                <a href='https://www.usckprint.com/wp-content/uploads/LASER-TOP-CAPITAL-ONE-BANK-232x300.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Capital one offer extended & accepted. Background ... | Fishbowl">
+                                <img itemprop="contentUrl url" src='https://files.getfishbowl.com/content_preview_images/capital-one-offer-extended-accepted-background-check-is-complete-and-marked-as-eligible-by-the-background-check-company-it.png' alt='Capital one offer extended & accepted. Background ... | Fishbowl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fishbowl" />
+                                </span>
+                                <a href='https://files.getfishbowl.com/content_preview_images/capital-one-offer-extended-accepted-background-check-is-complete-and-marked-as-eligible-by-the-background-check-company-it.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Capital One Check Credit for Employment? - CreditGuide360.com">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/QUFtHDWrRiQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCsLIRQ825SboDOcvTZ8Cw3ECjXYQ' alt='Does Capital One Check Credit for Employment? - CreditGuide360.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/QUFtHDWrRiQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCsLIRQ825SboDOcvTZ8Cw3ECjXYQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Checks - Capital One Consulting Services">
+                                <img itemprop="contentUrl url" src='https://capital1consulting.com/wp-content/uploads/2023/06/background-790x500.jpg' alt='Background Checks - Capital One Consulting Services'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="790">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Capital One Consulting Services" />
+                                </span>
+                                <a href='https://capital1consulting.com/wp-content/uploads/2023/06/background-790x500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beware! Don't cash that check | News for Fenton, Linden, Holly MI ...">
+                                <img itemprop="contentUrl url" src='https://bloximages.chicago2.vip.townnews.com/tctimes.com/content/tncms/assets/v3/editorial/9/3d/93d55410-d741-11e5-80e6-33660bc6256d/56c77143bdee3.image.jpg?resize=1245%2C500' alt='Beware! Don't cash that check | News for Fenton, Linden, Holly MI ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1245">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tri-County Times" />
+                                </span>
+                                <a href='https://bloximages.chicago2.vip.townnews.com/tctimes.com/content/tncms/assets/v3/editorial/9/3d/93d55410-d741-11e5-80e6-33660bc6256d/56c77143bdee3.image.jpg?resize=1245%2C500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cFIRST Background Checks: Home">
+                                <img itemprop="contentUrl url" src='https://cfirst.io/wp-content/uploads/2024/10/img-5.jpg' alt='cFIRST Background Checks: Home'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="568">
+                                <meta itemprop="height" content="567">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="cfirst.io" />
+                                </span>
+                                <a href='https://cfirst.io/wp-content/uploads/2024/10/img-5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="#greenscreen Mira este video si estas pensado entrar en Capital One | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7380786290305944875&location=0&aid=1988' alt='#greenscreen Mira este video si estas pensado entrar en Capital One | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7380786290305944875&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My CapitalOne rewards check is issued from Bank of America account ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/6qpkjqn3xjr21.jpg' alt='My CapitalOne rewards check is issued from Bank of America account ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2108">
+                                <meta itemprop="height" content="1580">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/6qpkjqn3xjr21.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

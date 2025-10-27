@@ -1,0 +1,129 @@
+<title>Vibrant Summer Aesthetic Wallpaper for Your Space</title>
+                    <meta name="description" content="Discover the perfect summer aesthetic wallpaper to transform your home! Bursting with color and charm, these designs capture the joy of summer, bringing brightness and a cheerful atmosphere to your space. Explore vibrant patterns and refreshing visuals for a seasonal makeover!">
+                    <meta name="keywords" content="summer aesthetic bright wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/summer-aesthetic-bright-wallpaper">
+                            <span itemprop="name">summer aesthetic bright wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Summer Aesthetic Wallpaper for Your Space</h1>
+                <p>Brighten up your space with summer aesthetic wallpaper! Embrace vibrant colors, tropical motifs, and sun-soaked landscapes that bring warmth and joy to any room. Perfect for creating an uplifting environment, these wallpapers capture the essence of summer and its carefree vibe. Transform your walls into a seasonal paradise!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Hot Summer Wallpapers For IPhone Lockscreens">
+                                <img itemprop="contentUrl url" src='https://www.margaretbourne.com/wp-content/uploads/2023/04/Summer-Wallpapers-for-iPhone-Summer-flowers-and-landscape-576x1024.jpg' alt='30 Hot Summer Wallpapers For IPhone Lockscreens'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Margaret Bourne" />
+                                </span>
+                                <a href='https://www.margaretbourne.com/wp-content/uploads/2023/04/Summer-Wallpapers-for-iPhone-Summer-flowers-and-landscape-576x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer bright wallpaper    ✨">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bf/b0/0b/bfb00b16c316e4adb7163f10267bc4da.jpg' alt='Summer bright wallpaper    ✨'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bf/b0/0b/bfb00b16c316e4adb7163f10267bc4da.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Wallpaper Inspo">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/05/2c/f3/052cf33bd5ce8e9fb6a8ce4521cbc827.jpg' alt='Summer Wallpaper Inspo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/05/2c/f3/052cf33bd5ce8e9fb6a8ce4521cbc827.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cute summer wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8d/cc/5c/8dcc5c62e2bb7d904508625aa56b06ca.jpg' alt='cute summer wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8d/cc/5c/8dcc5c62e2bb7d904508625aa56b06ca.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="35 Summer ideas | summer aesthetic, summer vibes, summer wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/ff/c4/c3/ffc4c31199d5a90b94180633e6026149.jpg' alt='35 Summer ideas | summer aesthetic, summer vibes, summer wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="353">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/ff/c4/c3/ffc4c31199d5a90b94180633e6026149.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Hot Summer Wallpapers For IPhone Lockscreens">
+                                <img itemprop="contentUrl url" src='https://www.margaretbourne.com/wp-content/uploads/2023/04/Summer-Wallpapers-for-iPhone-ft.jpg' alt='30 Hot Summer Wallpapers For IPhone Lockscreens'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Margaret Bourne" />
+                                </span>
+                                <a href='https://www.margaretbourne.com/wp-content/uploads/2023/04/Summer-Wallpapers-for-iPhone-ft.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50+ Summer Aesthetic Wallpapers Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/be/4c/52/be4c52565428e1b83bc4fadd96221cd9.jpg' alt='50+ Summer Aesthetic Wallpapers Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="465">
+                                <meta itemprop="height" content="620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/be/4c/52/be4c52565428e1b83bc4fadd96221cd9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Hot Summer Wallpapers For IPhone Lockscreens">
+                                <img itemprop="contentUrl url" src='https://www.margaretbourne.com/wp-content/uploads/2023/04/Summer-Wallpapers-for-iPhone-Sunset-on-the-beach.jpg' alt='30 Hot Summer Wallpapers For IPhone Lockscreens'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Margaret Bourne" />
+                                </span>
+                                <a href='https://www.margaretbourne.com/wp-content/uploads/2023/04/Summer-Wallpapers-for-iPhone-Sunset-on-the-beach.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="400+] Summer Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pastel-summer-ia459p7394sk5ouk.jpg' alt='400+] Summer Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pastel-summer-ia459p7394sk5ouk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD summer aesthetic wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/973/799/HD-wallpaper-summer-aesthetic-summer-aesthetic-summer-tumblr-summer-background-iphone-summer-hipster-summer-thumbnail.jpg' alt='HD summer aesthetic wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/973/799/HD-wallpaper-summer-aesthetic-summer-aesthetic-summer-tumblr-summer-background-iphone-summer-hipster-summer-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

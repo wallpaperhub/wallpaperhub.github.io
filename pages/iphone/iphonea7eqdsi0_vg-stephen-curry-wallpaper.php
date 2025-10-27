@@ -1,0 +1,129 @@
+<title>Stunning Stephen Curry Wallpapers for Your iPhone</title>
+                    <meta name="description" content="Discover the ultimate collection of Stephen Curry wallpapers for your iPhone! Personalize your device with vibrant images that showcase the basketball legend’s incredible talent. Perfect for fans looking to add style and inspiration to their screens. Download now and celebrate your love for the game!">
+                    <meta name="keywords" content="iphone:a7eqdsi0_vg= stephen curry wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphonea7eqdsi0_vg-stephen-curry-wallpaper">
+                            <span itemprop="name">iphone:a7eqdsi0_vg= stephen curry wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Stephen Curry Wallpapers for Your iPhone</h1>
+                <p>Elevate your iPhone's aesthetics with stunning Stephen Curry wallpapers! Our collection features high-quality images capturing the essence of this NBA superstar, perfect for fans and basketball enthusiasts. Customize your device with vibrant designs showcasing Curry's incredible talent and unmatched style on the court.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stephen Curry, stephen curry, warriors, golden state, steph curry ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/864/235/HD-wallpaper-stephen-curry-stephen-curry-warriors-golden-state-steph-curry.jpg' alt='Stephen Curry, stephen curry, warriors, golden state, steph curry ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/864/235/HD-wallpaper-stephen-curry-stephen-curry-warriors-golden-state-steph-curry.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stephen curry wallpaper iPhone 4k">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/64/3c/66/643c66767157cd158be3ad836f2fe38d.jpg' alt='Stephen curry wallpaper iPhone 4k'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/64/3c/66/643c66767157cd158be3ad836f2fe38d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stephen Curry HD Wallpapers">
+                                <img itemprop="contentUrl url" src='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/curry-26_63870076067954.4.jpg' alt='Stephen Curry HD Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Hackster" />
+                                </span>
+                                <a href='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/curry-26_63870076067954.4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stephen Curry Wallpaper for Iphone - Live Wallpaper HD">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/42/40/20/4240202b5f92743fe283ecffb8b946cd.jpg' alt='Stephen Curry Wallpaper for Iphone - Live Wallpaper HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/42/40/20/4240202b5f92743fe283ecffb8b946cd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steph Curry Iphone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/Curry-2_63856896275356.jpg' alt='Steph Curry Iphone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Hackster" />
+                                </span>
+                                <a href='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/Curry-2_63856896275356.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Curry vs james, basketball, lebron james, stephen curry, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/202/1003/HD-wallpaper-stephen-curry-stephen-curry-basketball-golden-state-warriors-thumbnail.jpg' alt='Curry vs james, basketball, lebron james, stephen curry, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="569">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/202/1003/HD-wallpaper-stephen-curry-stephen-curry-basketball-golden-state-warriors-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="22 Steph curry wallpapers ideas | curry wallpaper, curry, curry ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/0e/72/1e/0e721ea770181babe5b0a3f5c3e402a4.jpg' alt='22 Steph curry wallpapers ideas | curry wallpaper, curry, curry ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="978">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/0e/72/1e/0e721ea770181babe5b0a3f5c3e402a4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stephen Curry Angel 2, Golden State Warriors, Nike, Warriors ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/66/362/HD-wallpaper-stephen-curry-angel-2-golden-state-warriors-nike-warriors-stephen-curry-golden-state-mvp-nba-30.jpg' alt='Stephen Curry Angel 2, Golden State Warriors, Nike, Warriors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/66/362/HD-wallpaper-stephen-curry-angel-2-golden-state-warriors-nike-warriors-stephen-curry-golden-state-mvp-nba-30.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stephen Curry Dunk Iphone Wallpaper - Live Wallpaper HD">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c2/6e/bf/c26ebf259f3698d733960fc9acfbf455.jpg' alt='Stephen Curry Dunk Iphone Wallpaper - Live Wallpaper HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="599">
+                                <meta itemprop="height" content="1063">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c2/6e/bf/c26ebf259f3698d733960fc9acfbf455.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stephen curry, curry, golden state warriors, nba, usa, warriors ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/170/907/HD-wallpaper-stephen-curry-curry-golden-state-warriors-nba-usa-warriors.jpg' alt='Stephen curry, curry, golden state warriors, nba, usa, warriors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1711">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/170/907/HD-wallpaper-stephen-curry-curry-golden-state-warriors-nba-usa-warriors.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

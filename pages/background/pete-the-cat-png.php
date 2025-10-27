@@ -1,0 +1,129 @@
+<title>Colorful Pete the Cat PNG Images for Your Creative Projects</title>
+                    <meta name="description" content="Discover a collection of Pete the Cat PNG images, perfect for creative projects! These vibrant graphics are ideal for crafts, printing, and digital design. Add fun and personality to your artwork with these engaging images of everyone's favorite cat!">
+                    <meta name="keywords" content="pete the cat png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pete-the-cat-png">
+                            <span itemprop="name">pete the cat png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Colorful Pete the Cat PNG Images for Your Creative Projects</h1>
+                <p>Pete the Cat PNG is a collection of vibrant and fun graphics featuring the beloved children's book character. Perfect for crafts, printing, or digital design, these PNG images capture Pete's adventurous spirit and colorful personality. Whether you're creating artwork or personalized items, these graphics will bring joy and creativity to your projects!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pete The Cat Groovy Days Of School Bulletin Board Head - Pete The ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f9/63/e7/f963e7e4305675d29b1e211eec4db7f2.jpg' alt='Pete The Cat Groovy Days Of School Bulletin Board Head - Pete The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="713">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f9/63/e7/f963e7e4305675d29b1e211eec4db7f2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pete | Pete the Cat Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/pete-the-cat-web-series/images/0/09/Pete_the_Cat.jpg/revision/latest?cb=20200822031026' alt='Pete | Pete the Cat Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pete the Cat Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/pete-the-cat-web-series/images/0/09/Pete_the_Cat.jpg/revision/latest?cb=20200822031026' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pete the Cat | Fictional Characters Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/characters/images/8/89/Pete.png/revision/latest/scale-to-width-down/361?cb=20200221000202' alt='Pete the Cat | Fictional Characters Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="269">
+                                <meta itemprop="height" content="387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fictional Characters Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/characters/images/8/89/Pete.png/revision/latest/scale-to-width-down/361?cb=20200221000202' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Pete Cat Groovy Cat Png, Cool Cat Bundle Png, Children's Book png,  Kindergarten Teacher Library Book Png, Back to School Png">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35399535/r/il/c00423/6217750691/il_fullxfull.6217750691_kk8c.jpg' alt='The Pete Cat Groovy Cat Png, Cool Cat Bundle Png, Children's Book png,  Kindergarten Teacher Library Book Png, Back to School Png'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35399535/r/il/c00423/6217750691/il_fullxfull.6217750691_kk8c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pete the cat clipart free download">
+                                <img itemprop="contentUrl url" src='https://freedesignfile.com/image/preview/44849/pete-the-cat-clipart.png' alt='Pete the cat clipart free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="590">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FreeDesignFile" />
+                                </span>
+                                <a href='https://freedesignfile.com/image/preview/44849/pete-the-cat-clipart.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pete the Cat Png - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/47047107/r/il/2f6cbc/6644460253/il_fullxfull.6644460253_lj1w.jpg' alt='Pete the Cat Png - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1558">
+                                <meta itemprop="height" content="1240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/47047107/r/il/2f6cbc/6644460253/il_fullxfull.6644460253_lj1w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LET'S TALK ABOUT PETE THE CAT - Every Day Should Be Saturday">
+                                <img itemprop="contentUrl url" src='https://cdn.vox-cdn.com/thumbor/M6fMQ5T57chcYxmoGKybFJYCZ2c=/0x0:338x238/1200x0/filters:focal(0x0:338x238):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/9639907/header_cat.png' alt='LET'S TALK ABOUT PETE THE CAT - Every Day Should Be Saturday'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="238">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Every Day Should Be Saturday" />
+                                </span>
+                                <a href='https://cdn.vox-cdn.com/thumbor/M6fMQ5T57chcYxmoGKybFJYCZ2c=/0x0:338x238/1200x0/filters:focal(0x0:338x238):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/9639907/header_cat.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pete the cat vibing">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/f6/79/c0/f679c01e5659870e92c8f6e0785b2af2.jpg' alt='Pete the cat vibing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/f6/79/c0/f679c01e5659870e92c8f6e0785b2af2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check out this transparent Pete the Cat showing PNG image">
+                                <img itemprop="contentUrl url" src='https://img.cartoongoodies.com/wp-content/uploads/2020/05/Pete-the-Cat-showing.png' alt='Check out this transparent Pete the Cat showing PNG image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="384">
+                                <meta itemprop="height" content="554">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cartoon Goodies" />
+                                </span>
+                                <a href='https://img.cartoongoodies.com/wp-content/uploads/2020/05/Pete-the-Cat-showing.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pete The Cat Png Images | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pete-the-cat-blue-feline-illustration-36a0hr9tqxs258l8-2.png' alt='100+] Pete The Cat Png Images | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="654">
+                                <meta itemprop="height" content="901">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pete-the-cat-blue-feline-illustration-36a0hr9tqxs258l8-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

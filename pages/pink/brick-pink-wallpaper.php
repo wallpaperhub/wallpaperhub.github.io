@@ -1,0 +1,129 @@
+<title>Chic Brick Pink Wallpaper for Your Stylish Home</title>
+                    <meta name="description" content="Transform your home with chic brick pink wallpaper. Perfect for any room, this stylish accent adds warmth and character to your decor. Easy to apply, it enhances your space with a modern yet cozy touch. Explore our collection and elevate your interior design today!">
+                    <meta name="keywords" content="brick pink wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/brick-pink-wallpaper">
+                            <span itemprop="name">brick pink wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Brick Pink Wallpaper for Your Stylish Home</h1>
+                <p>Brick pink wallpaper brings a warm, inviting hue to any space, perfect for creating a cozy atmosphere. Its rustic charm and versatility make it ideal for both modern and traditional decor. Whether you’re looking to refresh a room or create an accent wall, this wallpaper adds character and style effortlessly.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glitter Brick Wallpaper Pink Debona 9806 - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71SxHfp0wXL.jpg' alt='Glitter Brick Wallpaper Pink Debona 9806 - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71SxHfp0wXL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hot Pink Brick Wall Seamless Background Texture Vibrant ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28921914/r/il/c0edad/3995835778/il_fullxfull.3995835778_6vg5.jpg' alt='Hot Pink Brick Wall Seamless Background Texture Vibrant ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28921914/r/il/c0edad/3995835778/il_fullxfull.3995835778_6vg5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink brick">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/pink-brick-pattern-repeat-removable-wallpaper-design.jpg' alt='Pink brick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/pink-brick-pattern-repeat-removable-wallpaper-design.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arthouse 56-sq ft Pink Vinyl Textured Brick Unpasted Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mobileimages.lowes.com/productimages/b8113b11-eae7-4aca-aafa-06be33467dcb/17209108.jpg' alt='Arthouse 56-sq ft Pink Vinyl Textured Brick Unpasted Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="829">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lowe's" />
+                                </span>
+                                <a href='https://mobileimages.lowes.com/productimages/b8113b11-eae7-4aca-aafa-06be33467dcb/17209108.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="✦                                                      ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cb/10/1e/cb101e79617819c9cc93b6264553890b.jpg' alt='✦                                                      ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cb/10/1e/cb101e79617819c9cc93b6264553890b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soft Bricks, Pink">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1638280626/articles/R14873_interior2.jpg' alt='Soft Bricks, Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="727">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rebel Walls" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1638280626/articles/R14873_interior2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pastel pink brick background wallpaper Stock Photo | Adobe Stock">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/03/37/63/00/1000_F_337630073_3IyI8pAP2NuPWAi1DsuuFeEbJfo70wot.jpg' alt='pastel pink brick background wallpaper Stock Photo | Adobe Stock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/03/37/63/00/1000_F_337630073_3IyI8pAP2NuPWAi1DsuuFeEbJfo70wot.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unbranded Pink Brick Pink Wallpaper Sample 10859194">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/0310f3bf-b5cb-4644-9d20-77b8e1baf701/svn/wallpaper-samples-10859194-64_600.jpg' alt='Unbranded Pink Brick Pink Wallpaper Sample 10859194'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/0310f3bf-b5cb-4644-9d20-77b8e1baf701/svn/wallpaper-samples-10859194-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Brick Removable Vinyl Mural / Peel and Stick Wall Pattern ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21403697/r/il/ec7561/6103760660/il_fullxfull.6103760660_39m5.jpg' alt='Pink Brick Removable Vinyl Mural / Peel and Stick Wall Pattern ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21403697/r/il/ec7561/6103760660/il_fullxfull.6103760660_39m5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Brick Wall Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1543097676-44e5a5bd4ef1?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGluayUyMGJyaWNrJTIwd2FsbHxlbnwwfHwwfHx8MA%3D%3D' alt='Pink Brick Wall Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1543097676-44e5a5bd4ef1?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGluayUyMGJyaWNrJTIwd2FsbHxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

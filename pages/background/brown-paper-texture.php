@@ -1,0 +1,129 @@
+<title>Explore the Versatility of Brown Paper Texture</title>
+                    <meta name="description" content="Discover the beauty of brown paper texture! Perfect for crafts, packaging, and décor, this versatile element adds warmth and a rustic charm to any project. Unleash your creativity with natural designs that inspire sustainability and artistry. Ideal for DIY enthusiasts and eco-conscious creators alike.">
+                    <meta name="keywords" content="brown paper texture">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/brown-paper-texture">
+                            <span itemprop="name">brown paper texture</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Versatility of Brown Paper Texture</h1>
+                <p>Brown paper texture is a tactile delight, offering a rustic, earthy charm that complements various design projects. Its warm, muted tones evoke a sense of warmth and nostalgia, making it perfect for crafts, packaging, and home décor. The subtle fibers lend a natural quality, enhancing creativity and sustainability in artistic endeavors.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown Wrinkled Paper Texture (JPG) | OnlyGFX.com">
+                                <img itemprop="contentUrl url" src='https://www.onlygfx.com/wp-content/uploads/2016/02/wrinkled-brown-paper.jpg' alt='Brown Wrinkled Paper Texture (JPG) | OnlyGFX.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3900">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OnlyGFX.com" />
+                                </span>
+                                <a href='https://www.onlygfx.com/wp-content/uploads/2016/02/wrinkled-brown-paper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="26,900+ Brown Paper Texture Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/578556350/photo/brown-paper-background.jpg?s=612x612&w=0&k=20&c=shGY1WoScBLeFqpV-NLmGJVjox9fuja7U6EdtvwQsk0=' alt='26,900+ Brown Paper Texture Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/578556350/photo/brown-paper-background.jpg?s=612x612&w=0&k=20&c=shGY1WoScBLeFqpV-NLmGJVjox9fuja7U6EdtvwQsk0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old brown paper – Free Seamless Textures - All rights reseved">
+                                <img itemprop="contentUrl url" src='https://www.tilingtextures.com/wp-content/uploads/2017/03/0020-scaled.jpg' alt='Old brown paper – Free Seamless Textures - All rights reseved'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tiling Textures" />
+                                </span>
+                                <a href='https://www.tilingtextures.com/wp-content/uploads/2017/03/0020-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golden brown paper close up | Free Textures">
+                                <img itemprop="contentUrl url" src='https://everytexture.com/wp-content/uploads/2019/10/everytexture.com-stock-paper-texture-00074.jpg' alt='Golden brown paper close up | Free Textures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2448">
+                                <meta itemprop="height" content="3264">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EveryTexture.com" />
+                                </span>
+                                <a href='https://everytexture.com/wp-content/uploads/2019/10/everytexture.com-stock-paper-texture-00074.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Excellent old brown paper texture background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1b/36/50/1b365026f7fc12e09451fb053710b308.jpg' alt='Excellent old brown paper texture background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="606">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1b/36/50/1b365026f7fc12e09451fb053710b308.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Seamless Tileable Texture of Old Brown Paper Surface.">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/seamless-tileable-texture-old-brown-paper-surface_226262-683.jpg' alt='Premium Photo | Seamless Tileable Texture of Old Brown Paper Surface.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/seamless-tileable-texture-old-brown-paper-surface_226262-683.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown Paper Texture Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/000/114/207/small/vector-paper-texture.jpg' alt='Brown Paper Texture Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="286">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/000/114/207/small/vector-paper-texture.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seamless Rough Brown Paper Texture (Paper) | Textures for Photoshop">
+                                <img itemprop="contentUrl url" src='http://www.textures4photoshop.com/tex/thumbs/seamless-rough-brown-paper.texture-thumb34.jpg' alt='Seamless Rough Brown Paper Texture (Paper) | Textures for Photoshop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Textures4Photoshop" />
+                                </span>
+                                <a href='http://www.textures4photoshop.com/tex/thumbs/seamless-rough-brown-paper.texture-thumb34.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old brown paper texture background. Seamless kraft paper texture ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/01/26/54/56/1000_F_126545612_TN8MybC8iHjRcyNrMimYh4WnWb9ZDcDW.jpg' alt='Old brown paper texture background. Seamless kraft paper texture ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="668">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/01/26/54/56/1000_F_126545612_TN8MybC8iHjRcyNrMimYh4WnWb9ZDcDW.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old Vintage Paper Texture Aged Brown Abstract Textures Of Wrinkled ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/wp/202344/old-vintage-paper-texture-aged-brown-abstract-textures-of-wrinkled-for-background_9933035.jpg!w700wp' alt='Old Vintage Paper Texture Aged Brown Abstract Textures Of Wrinkled ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/wp/202344/old-vintage-paper-texture-aged-brown-abstract-textures-of-wrinkled-for-background_9933035.jpg!w700wp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

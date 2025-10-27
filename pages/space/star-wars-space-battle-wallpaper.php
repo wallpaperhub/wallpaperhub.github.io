@@ -1,0 +1,129 @@
+<title>Epic Star Wars Space Battle Wallpapers for Every Fan</title>
+                    <meta name="description" content="Discover the ultimate collection of Star Wars space battle wallpapers! Immerse yourself in the thrilling universe of lightsabers and starships with high-quality images optimized for your devices. Perfect for fans looking to enhance their screens with legendary scenes from the galaxy far, far away.">
+                    <meta name="keywords" content="star wars space battle wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space">
+                            <span itemprop="name">Space</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space/star-wars-space-battle-wallpaper">
+                            <span itemprop="name">star wars space battle wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Star Wars Space Battle Wallpapers for Every Fan</h1>
+                <p>Transform your device with stunning Star Wars space battle wallpapers that capture the epic essence of the galaxy far, far away. These vibrant images feature iconic ships, epic battles, and breathtaking views of distant planets. Perfect for fans and gamers alike, these wallpapers bring the excitement of the saga right to your screen.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Battle HD Wallpaper: Epic Space Battle">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/823/thumb-1920-823131.jpg' alt='Star Wars Battle HD Wallpaper: Epic Space Battle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/823/thumb-1920-823131.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Star Wars Battlefront II: Death Star space battle ...">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/938305564320068059/3F81E9FB84C91C21CCDAF1EB1964FD2E336A499F/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::Star Wars Battlefront II: Death Star space battle ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/938305564320068059/3F81E9FB84C91C21CCDAF1EB1964FD2E336A499F/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Battlefront II Space Battle HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/823/thumb-1920-823127.jpg' alt='Star Wars Battlefront II Space Battle HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/823/thumb-1920-823127.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Space Battle (Wallpaper) — polycount">
+                                <img itemprop="contentUrl url" src='https://us.v-cdn.net/5021068/uploads/editor/ec/65puarjs7tls.png' alt='Star Wars Space Battle (Wallpaper) — polycount'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Polycount" />
+                                </span>
+                                <a href='https://us.v-cdn.net/5021068/uploads/editor/ec/65puarjs7tls.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Space Laser Battle Art Wall Murals Wallpaper Decals Prints Decor D">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/kA4AAOSwaqtbO1J0/s-l1200.jpg' alt='Star Wars Space Laser Battle Art Wall Murals Wallpaper Decals Prints Decor D'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="538">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/kA4AAOSwaqtbO1J0/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download An Intense Space Battle in the Star Wars Universe ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/star-wars-space-background-1920-x-1200-d8djpzopisk59y67.jpg' alt='Download An Intense Space Battle in the Star Wars Universe ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/star-wars-space-background-1920-x-1200-d8djpzopisk59y67.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Battle of Endor">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/36/38/fa/3638fae5c4eab59406df8ba83639647c.jpg' alt='Battle of Endor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/36/38/fa/3638fae5c4eab59406df8ba83639647c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Battle HD Wallpaper: Epic Space Battle">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/743/743797.png' alt='Star Wars Battle HD Wallpaper: Epic Space Battle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7680">
+                                <meta itemprop="height" content="3240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/743/743797.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Star Wars, Art, Space Battle, Battle of Kashyyyk for ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/original/1920x1200/2/80/battle-of-kashyyyk-space.jpg' alt='Wallpaper Star Wars, Art, Space Battle, Battle of Kashyyyk for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/original/1920x1200/2/80/battle-of-kashyyyk-space.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rogue One Star Wars Movie Space Battle Wallpaper | Search by Muzli ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a7/28/1b/a7281b29dd91c9fb378c0fa0cae0a685.jpg' alt='Rogue One Star Wars Movie Space Battle Wallpaper | Search by Muzli ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Muzli Search" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a7/28/1b/a7281b29dd91c9fb378c0fa0cae0a685.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning November Screen Wallpapers for Every Device</title>
+                    <meta name="description" content="Explore our collection of November screen wallpapers that capture the spirit of autumn. With vibrant colors and seasonal themes, these stunning backgrounds will enhance your device's look while reflecting the charm of November. Perfect for anyone looking to embrace the cozy fall atmosphere!">
+                    <meta name="keywords" content="november screen wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/november-screen-wallpaper">
+                            <span itemprop="name">november screen wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning November Screen Wallpapers for Every Device</h1>
+                <p>November screen wallpapers bring the essence of autumn right to your device! Capture the vibrant colors of falling leaves, cozy evenings, and Thanksgiving vibes with curated images that inspire warmth and nostalgia. Transform your screen into a visual delight, making every glance a reminder of the beauty of November.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="November 2021 Free Wallpaper – Giants & Pilgrims">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/giantsandpilgrims.com/wp-content/uploads/2021/11/NOVEMBER-2021-Wallpaper.jpg?ssl=1' alt='November 2021 Free Wallpaper – Giants & Pilgrims'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giants & Pilgrims" />
+                                </span>
+                                <a href='https://i0.wp.com/giantsandpilgrims.com/wp-content/uploads/2021/11/NOVEMBER-2021-Wallpaper.jpg?ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="November 2024 wallpapers – 60 FREEBIES for desktop & phones!">
+                                <img itemprop="contentUrl url" src='https://www.ohsolovelyblog.com/wp-content/uploads/2024/10/November-2024-wallpapers-OhSoLovelyBlog.com-SundayStart38.jpg' alt='November 2024 wallpapers – 60 FREEBIES for desktop & phones!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oh So Lovely Blog" />
+                                </span>
+                                <a href='https://www.ohsolovelyblog.com/wp-content/uploads/2024/10/November-2024-wallpapers-OhSoLovelyBlog.com-SundayStart38.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] November Desktop Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/november-desktop-my0ykx63vx27rw9f.jpg' alt='100+] November Desktop Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/november-desktop-my0ykx63vx27rw9f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DIGITAL BLOOMS NOVEMBER 2020 | FREE DESKTOP WALLPAPER - JustineCelina">
+                                <img itemprop="contentUrl url" src='https://www.justinecelina.com/wp-content/uploads/2020/11/justinecelina_digital-blooms_november-2020_free-desktop-wallpaper-scaled.jpg' alt='DIGITAL BLOOMS NOVEMBER 2020 | FREE DESKTOP WALLPAPER - JustineCelina'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JustineCelina" />
+                                </span>
+                                <a href='https://www.justinecelina.com/wp-content/uploads/2020/11/justinecelina_digital-blooms_november-2020_free-desktop-wallpaper-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="November 2024 wallpapers – 60 FREEBIES for desktop & phones!">
+                                <img itemprop="contentUrl url" src='https://www.ohsolovelyblog.com/wp-content/uploads/2024/10/November-2024-wallpapers-OhSoLovelyBlog.com-SundayStart27.jpg' alt='November 2024 wallpapers – 60 FREEBIES for desktop & phones!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oh So Lovely Blog" />
+                                </span>
+                                <a href='https://www.ohsolovelyblog.com/wp-content/uploads/2024/10/November-2024-wallpapers-OhSoLovelyBlog.com-SundayStart27.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] November Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/november-desktop-kljpfigv5zi2pnwf.jpg' alt='200+] November Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/november-desktop-kljpfigv5zi2pnwf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="November 2024 Tech Backgrounds: Free, Downloadable Fall Wallpapers!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/60/ce/6b/60ce6ba07dca0e724b60cf022a14705a.jpg' alt='November 2024 Tech Backgrounds: Free, Downloadable Fall Wallpapers!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="458">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/60/ce/6b/60ce6ba07dca0e724b60cf022a14705a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 2 - Free and customizable november templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFQFfp5-zg/1/0/1600w/canva-orange-autumn-aesthetic-november-photo-desktop-wallpaper-SU_3D4rvbw8.jpg' alt='Page 2 - Free and customizable november templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFQFfp5-zg/1/0/1600w/canva-orange-autumn-aesthetic-november-photo-desktop-wallpaper-SU_3D4rvbw8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="November Wallpaper | Threeologie">
+                                <img itemprop="contentUrl url" src='https://threeologie.com/wp-content/uploads/2023/11/November-Wallpaper.jpg' alt='November Wallpaper | Threeologie'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2561">
+                                <meta itemprop="height" content="1439">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Threeologie" />
+                                </span>
+                                <a href='https://threeologie.com/wp-content/uploads/2023/11/November-Wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="November 2024 Calendar Desktop Wallpaper Backgrounds | EntheosWeb">
+                                <img itemprop="contentUrl url" src='https://www.entheosweb.com/wp-content/uploads/2024/04/Autumn-heart-by-entheosweb-1.jpg' alt='November 2024 Calendar Desktop Wallpaper Backgrounds | EntheosWeb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EntheosWeb" />
+                                </span>
+                                <a href='https://www.entheosweb.com/wp-content/uploads/2024/04/Autumn-heart-by-entheosweb-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

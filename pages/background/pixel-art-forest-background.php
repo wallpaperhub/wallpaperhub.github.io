@@ -1,0 +1,129 @@
+<title>Pixel Art Forest Backgrounds: Vibrant & Charming Designs</title>
+                    <meta name="description" content="Explore stunning pixel art forest backgrounds that bring creativity to life. Ideal for games and digital projects, our vibrant designs feature lush greenery and delightful details. Perfect for artists and designers looking to enhance their work with enchanting, nostalgic visuals.">
+                    <meta name="keywords" content="pixel art forest background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pixel-art-forest-background">
+                            <span itemprop="name">pixel art forest background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Pixel Art Forest Backgrounds: Vibrant & Charming Designs</h1>
+                <p>Discover the enchanting world of pixel art forest backgrounds! Perfect for games, illustrations, or digital projects, these meticulously crafted images feature vibrant colors and charming details. Dive into the pixelated greenery, where every tree, bush, and creature is beautifully represented, inviting creativity and nostalgia in every pixel.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Pixel Art Forest by edermunizz">
+                                <img itemprop="contentUrl url" src='https://img.itch.zone/aW1hZ2UvMTIxNjU4LzU2MDM4MS5wbmc=/original/N%2Fb6N3.png' alt='Free Pixel Art Forest by edermunizz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="406">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="edermunizz - itch.io" />
+                                </span>
+                                <a href='https://img.itch.zone/aW1hZ2UvMTIxNjU4LzU2MDM4MS5wbmc=/original/N%2Fb6N3.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel Forest Images – Browse 60,884 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/08/28/98/51/360_F_828985134_K5CljQcTHZvgIs9XheaQj61qPWE7duDV.jpg' alt='Pixel Forest Images – Browse 60,884 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/08/28/98/51/360_F_828985134_K5CljQcTHZvgIs9XheaQj61qPWE7duDV.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Forest Background in Pixel Art: Parallax Ready for 2D Platformer ...">
+                                <img itemprop="contentUrl url" src='https://img.itch.zone/aW1nLzQ1MzE4MzEucG5n/original/6MG0aX.png' alt='Forest Background in Pixel Art: Parallax Ready for 2D Platformer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="956">
+                                <meta itemprop="height" content="716">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="saukgp - itch.io" />
+                                </span>
+                                <a href='https://img.itch.zone/aW1nLzQ1MzE4MzEucG5n/original/6MG0aX.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel Forest Images – Browse 60,884 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/08/47/23/78/360_F_847237865_Yy2dXMCkK8KSW6zuqbGJLkheeuPkC4a8.jpg' alt='Pixel Forest Images – Browse 60,884 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="839">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/08/47/23/78/360_F_847237865_Yy2dXMCkK8KSW6zuqbGJLkheeuPkC4a8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Forest Background @ PixelJoint.com">
+                                <img itemprop="contentUrl url" src='https://pixeljoint.com/files/icons/full/forest_background.png' alt='Forest Background @ PixelJoint.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixel Joint" />
+                                </span>
+                                <a href='https://pixeljoint.com/files/icons/full/forest_background.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel art Forest by edermunizz">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Ic3ZdD5ko7k/maxresdefault.jpg' alt='Pixel art Forest by edermunizz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="edermunizz - itch.io" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Ic3ZdD5ko7k/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel Art Forest 2D Backgrounds">
+                                <img itemprop="contentUrl url" src='https://img.craftpix.net/2018/12/Pixel-Art-Forest-2D-Backgrounds5.webp' alt='Pixel Art Forest 2D Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CraftPix" />
+                                </span>
+                                <a href='https://img.craftpix.net/2018/12/Pixel-Art-Forest-2D-Backgrounds5.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="673 Pixel Art Forest Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/serene-pixel-art-forest-bar-illuminated-moonlight-ai-generated-retro-gaming-tavern-barstools-night-cartoon-pixelated-356458532.jpg' alt='673 Pixel Art Forest Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/serene-pixel-art-forest-bar-illuminated-moonlight-ai-generated-retro-gaming-tavern-barstools-night-cartoon-pixelated-356458532.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel Art Forest Photos, Images & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/pixel-art-forest-background-seamless-260nw-2501937379.jpg' alt='Pixel Art Forest Photos, Images & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="565">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/pixel-art-forest-background-seamless-260nw-2501937379.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixilart on X: "Forest background by pixilpokko #pixilart ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/Eke2Hp3UUAAJD5k.png:large' alt='Pixilart on X: "Forest background by pixilpokko #pixilart ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/Eke2Hp3UUAAJD5k.png:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

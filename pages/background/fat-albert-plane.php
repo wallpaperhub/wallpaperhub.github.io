@@ -1,0 +1,129 @@
+<title>Discover the Fat Albert Plane: U.S. Navy's Iconic Support Aircraft</title>
+                    <meta name="description" content="Explore the Fat Albert plane, the U.S. Navy's Lockheed C-130 Hercules, known for its role as a support aircraft for the Blue Angels. Learn about its history, functions, and significance in naval aviation in this compact guide.">
+                    <meta name="keywords" content="fat albert plane">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fat-albert-plane">
+                            <span itemprop="name">fat albert plane</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Fat Albert Plane: U.S. Navy's Iconic Support Aircraft</h1>
+                <p>The Fat Albert plane, a Lockheed C-130 Hercules, serves as the U.S. Navy's Blue Angels' support aircraft, delivering vital supplies and personnel to ensure smooth aerial performances. This iconic plane is named after a character from the famous cartoon series, symbolizing fun and teamwork in aviation.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Angels Fat Albert is a super fan favorite. Here's what to know">
+                                <img itemprop="contentUrl url" src='https://www.pnj.com/gcdn/-mm-/be6c11f8eccf6663b1f753bf624c452107d60747/c=0-148-2999-1842/local/-/media/2018/07/12/Pensacola/Pensacola/636670122471449624-Blue-Angels-pilot-interview-003.jpg?width=660&height=372&fit=crop&format=pjpg&auto=webp' alt='Blue Angels Fat Albert is a super fan favorite. Here's what to know'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="372">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pensacola News Journal" />
+                                </span>
+                                <a href='https://www.pnj.com/gcdn/-mm-/be6c11f8eccf6663b1f753bf624c452107d60747/c=0-148-2999-1842/local/-/media/2018/07/12/Pensacola/Pensacola/636670122471449624-Blue-Angels-pilot-interview-003.jpg?width=660&height=372&fit=crop&format=pjpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="THE NEW FAT ALBERT HAS DUAL CITIZENSHIP - Liberty Life Media">
+                                <img itemprop="contentUrl url" src='https://www.libertylifemedia.com/wp-content/uploads/2022/09/Fat_Albert_first_flight_1-678x381-1.jpg' alt='THE NEW FAT ALBERT HAS DUAL CITIZENSHIP - Liberty Life Media'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="678">
+                                <meta itemprop="height" content="381">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Liberty Life Media" />
+                                </span>
+                                <a href='https://www.libertylifemedia.com/wp-content/uploads/2022/09/Fat_Albert_first_flight_1-678x381-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check Out The Blue Angels' New Fat Albert C-130J In All Its Glory">
+                                <img itemprop="contentUrl url" src='https://www.twz.com/wp-content/uploads/images-by-url-twz/content/2020/06/FC12.jpg?quality=85' alt='Check Out The Blue Angels' New Fat Albert C-130J In All Its Glory'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The War Zone" />
+                                </span>
+                                <a href='https://www.twz.com/wp-content/uploads/images-by-url-twz/content/2020/06/FC12.jpg?quality=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flying with Fat Albert, the Blue Angels' support aircraft, as it ...">
+                                <img itemprop="contentUrl url" src='https://www.jacksonville.com/gcdn/authoring/2015/10/23/NFTU/ghows-LK-cf8c2183-6f83-4eb3-aeea-99b470f6e9d0-55e3bab7.jpeg' alt='Flying with Fat Albert, the Blue Angels' support aircraft, as it ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="990">
+                                <meta itemprop="height" content="743">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.jacksonville.com" />
+                                </span>
+                                <a href='https://www.jacksonville.com/gcdn/authoring/2015/10/23/NFTU/ghows-LK-cf8c2183-6f83-4eb3-aeea-99b470f6e9d0-55e3bab7.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is the Blue Angels Fat Albert?">
+                                <img itemprop="contentUrl url" src='https://www.kron4.com/wp-content/uploads/sites/11/2024/10/GettyImages-492049074_20cb49.jpg?w=900' alt='What is the Blue Angels Fat Albert?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KRON4" />
+                                </span>
+                                <a href='https://www.kron4.com/wp-content/uploads/sites/11/2024/10/GettyImages-492049074_20cb49.jpg?w=900' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Navy Flight Demonstration Squadron to receive “Fat Albert ...">
+                                <img itemprop="contentUrl url" src='https://www.navair.navy.mil/sites/g/files/jejdrs536/files/styles/crop_16_9/public/5258024.jpg?h=779cc326&itok=hJDvszCy' alt='Navy Flight Demonstration Squadron to receive “Fat Albert ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3906">
+                                <meta itemprop="height" content="2197">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NAVAIR" />
+                                </span>
+                                <a href='https://www.navair.navy.mil/sites/g/files/jejdrs536/files/styles/crop_16_9/public/5258024.jpg?h=779cc326&itok=hJDvszCy' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Angels Fat Albert is a super fan favorite. Here's what to know">
+                                <img itemprop="contentUrl url" src='https://www.pnj.com/gcdn/presto/2022/11/13/PPEN/14b608fd-949d-4929-a489-ae9d604c9299-Blue_Angels_Air_Show_Saturday_33.jpg?crop=4199,2362,x0,y162&width=3200&height=1801&format=pjpg&auto=webp' alt='Blue Angels Fat Albert is a super fan favorite. Here's what to know'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="1801">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pensacola News Journal" />
+                                </span>
+                                <a href='https://www.pnj.com/gcdn/presto/2022/11/13/PPEN/14b608fd-949d-4929-a489-ae9d604c9299-Blue_Angels_Air_Show_Saturday_33.jpg?crop=4199,2362,x0,y162&width=3200&height=1801&format=pjpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New "Fat Albert" C-130J Super Hercules - First Public Demo!">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/QHv3zSBAK_Q/maxresdefault.jpg' alt='New "Fat Albert" C-130J Super Hercules - First Public Demo!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/QHv3zSBAK_Q/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BLUE ANGELS FAT ALBERT AIRLINES - A WILD RIDE IN THE SKIES > 134th ...">
+                                <img itemprop="contentUrl url" src='https://media.defense.gov/2016/May/04/2001532993/2000/2000/0/160416-Z-KE851-676.jpg' alt='BLUE ANGELS FAT ALBERT AIRLINES - A WILD RIDE IN THE SKIES > 134th ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1335">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="134th Air Refueling Wing" />
+                                </span>
+                                <a href='https://media.defense.gov/2016/May/04/2001532993/2000/2000/0/160416-Z-KE851-676.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fat Albert Returns to Duty for the US Navy Blue Angels Flight Team ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/fightersweep.com/wp-content/uploads/2017/06/fat-albert-c-130-blue-angels-usmc-jato.jpg?fit=3000%2C1996&ssl=1' alt='Fat Albert Returns to Duty for the US Navy Blue Angels Flight Team ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1996">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FighterSweep.com" />
+                                </span>
+                                <a href='https://i0.wp.com/fightersweep.com/wp-content/uploads/2017/06/fat-albert-c-130-blue-angels-usmc-jato.jpg?fit=3000%2C1996&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

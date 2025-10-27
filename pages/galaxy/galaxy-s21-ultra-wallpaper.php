@@ -1,0 +1,129 @@
+<title>Stunning Galaxy S21 Ultra Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover amazing wallpapers for your Galaxy S21 Ultra. Find high-resolution images that enhance your device's aesthetics, from landscapes to abstracts. Update your phone's look effortlessly with our curated collection of beautiful and vibrant wallpapers designed for the ultimate display experience!">
+                    <meta name="keywords" content="galaxy s21 ultra wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy">
+                            <span itemprop="name">Galaxy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy/galaxy-s21-ultra-wallpaper">
+                            <span itemprop="name">galaxy s21 ultra wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Galaxy S21 Ultra Wallpapers for Your Device</h1>
+                <p>Elevate your Galaxy S21 Ultra with stunning wallpapers that transform your device's look. Choose from a diverse collection featuring breathtaking landscapes, abstract art, and vibrant patterns. Enhance your screen's beauty and express your style with high-resolution images designed specifically for the S21 Ultra. Browse and download today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Samsung S21 Ultra Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/samsung-s21-ultra-4cqnqxpc69ra22e7.jpg' alt='100+] Samsung S21 Ultra Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/samsung-s21-ultra-4cqnqxpc69ra22e7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy S21 Ultra wallpaper by Vedo06 - Download on ZEDGE™ | 21b4">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c3/52/3c/c3523c322a55cd03f962210fbeab7484.jpg' alt='Galaxy S21 Ultra wallpaper by Vedo06 - Download on ZEDGE™ | 21b4'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c3/52/3c/c3523c322a55cd03f962210fbeab7484.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Samsung Galaxy S21 Ultra Stock Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/51/95/02/519502ab38c4289be8b5fce3ca364f64.jpg' alt='Download Samsung Galaxy S21 Ultra Stock Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1635">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/51/95/02/519502ab38c4289be8b5fce3ca364f64.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Samsung galaxy S21 ultra wallpapers - Samsung Members">
+                                <img itemprop="contentUrl url" src='https://r2.community.samsung.com/t5/image/serverpage/image-id/1620872i82C31A7A0B6223E4/image-size/large?v=v2&px=999' alt='Samsung galaxy S21 ultra wallpapers - Samsung Members'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="562">
+                                <meta itemprop="height" content="999">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Samsung Members Community" />
+                                </span>
+                                <a href='https://r2.community.samsung.com/t5/image/serverpage/image-id/1620872i82C31A7A0B6223E4/image-size/large?v=v2&px=999' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="And now, the Samsung Galaxy S21's wallpapers have leaked as well ...">
+                                <img itemprop="contentUrl url" src='https://www.sammobile.com/wp-content/uploads/2020/12/Galaxy-S21-wallpaper.jpg' alt='And now, the Samsung Galaxy S21's wallpapers have leaked as well ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SamMobile" />
+                                </span>
+                                <a href='https://www.sammobile.com/wp-content/uploads/2020/12/Galaxy-S21-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Samsung Galaxy S21 Wallpaper 4K, Purple, Stock, AMOLED, Particles">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/samsung-galaxy-s21-stock-amoled-particles-purple-pink-black-2732x2732-3974.png' alt='Samsung Galaxy S21 Wallpaper 4K, Purple, Stock, AMOLED, Particles'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2732">
+                                <meta itemprop="height" content="2732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/samsung-galaxy-s21-stock-amoled-particles-purple-pink-black-2732x2732-3974.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy S21 Ultra, galaxy, s21, samsung, ultra, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/914/280/HD-wallpaper-galaxy-s21-ultra-galaxy-s21-samsung-ultra.jpg' alt='Galaxy S21 Ultra, galaxy, s21, samsung, ultra, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/914/280/HD-wallpaper-galaxy-s21-ultra-galaxy-s21-samsung-ultra.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy S21 Ultra HD wallpaper by Jattz4lyfe - Download on ZEDGE ...">
+                                <img itemprop="contentUrl url" src='https://is.zobj.net/image-server/v1/images?r=62QmS1_xOEotH5rS7chcHHo5l56Z4wlEmzHhklJ8FQ5N1bGIBY65l8oFnB1ELSjGL_C9bmLL3aNmlEMoHu4kRLEimEZ8fWuypFhBK8I3KuAaq3SYRY9aZanxF7PSH5bQLHJAn2iANbLrC-xL1RVtNGuW4265qFlnh6816lFpsqiS5CHRncU3ze5keTwLYHpCW1uYUsPC0huC7ijszG03YxKMsk8bQmeVBXgvcgAvFNvU04LrOZjTnbuGZn0' alt='Galaxy S21 Ultra HD wallpaper by Jattz4lyfe - Download on ZEDGE ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="674">
+                                <meta itemprop="height" content="1205">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zedge" />
+                                </span>
+                                <a href='https://is.zobj.net/image-server/v1/images?r=62QmS1_xOEotH5rS7chcHHo5l56Z4wlEmzHhklJ8FQ5N1bGIBY65l8oFnB1ELSjGL_C9bmLL3aNmlEMoHu4kRLEimEZ8fWuypFhBK8I3KuAaq3SYRY9aZanxF7PSH5bQLHJAn2iANbLrC-xL1RVtNGuW4265qFlnh6816lFpsqiS5CHRncU3ze5keTwLYHpCW1uYUsPC0huC7ijszG03YxKMsk8bQmeVBXgvcgAvFNvU04LrOZjTnbuGZn0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13 Samsung s21 wallpaper ideas | samsung galaxy wallpaper android ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/16/86/d5/1686d58d19358b4f09a5db2897f77627.jpg' alt='13 Samsung s21 wallpaper ideas | samsung galaxy wallpaper android ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/16/86/d5/1686d58d19358b4f09a5db2897f77627.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Samsung S21 Ultra Ribbon Paint Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/samsung-s21-ultra-ribbon-paint-ldjzpxridwlxc0j9.jpg' alt='Samsung S21 Ultra Ribbon Paint Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/samsung-s21-ultra-ribbon-paint-ldjzpxridwlxc0j9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

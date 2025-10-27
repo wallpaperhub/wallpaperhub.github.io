@@ -1,0 +1,129 @@
+<title>Light Green Pattern Wallpaper: Refresh Your Space</title>
+                    <meta name="description" content="Discover the beauty of light green pattern wallpaper! Perfect for any room, it brings a fresh, serene vibe that elevates your decor. Ideal for easy application and removal, it's the go-to choice for a stylish home transformation. Shop now to enhance your living space!">
+                    <meta name="keywords" content="light green pattern wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light">
+                            <span itemprop="name">Light</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light/light-green-pattern-wallpaper">
+                            <span itemprop="name">light green pattern wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Light Green Pattern Wallpaper: Refresh Your Space</h1>
+                <p>Transform your space with light green pattern wallpaper! This refreshing design evokes nature and tranquility, perfect for creating a serene atmosphere in any room. Whether you're updating your living room, bedroom, or office, this wallpaper adds a touch of elegance and charm. Easy to apply and remove, it’s an ideal choice for a stylish makeover.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Light Green Wallpaper for 2025 | Sandberg Wallpaper">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_720/v1683209840/articles/S10322_product.jpg' alt='50 Light Green Wallpaper for 2025 | Sandberg Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sandberg Wallpaper" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_720/v1683209840/articles/S10322_product.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4074-26600 Ardell Light Green Botanical Wallpaper">
+                                <img itemprop="contentUrl url" src='http://wallcoveringsmart.com/cdn/shop/products/4074-26600ArdellLightGreenBotanicalWallpaper.jpg?v=1675128655' alt='4074-26600 Ardell Light Green Botanical Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="603">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallcoverings mart" />
+                                </span>
+                                <a href='http://wallcoveringsmart.com/cdn/shop/products/4074-26600ArdellLightGreenBotanicalWallpaper.jpg?v=1675128655' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guvana 16.14"x118"Floral and Leaf Wallpaper Floral Peel and Stick Wallpaper  Leaves Contact Paper Colorful Flower Removable Wallpaper Self Adhesive ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81MOkgcBPbL._AC_UF894,1000_QL80_.jpg' alt='Guvana 16.14"x118"Floral and Leaf Wallpaper Floral Peel and Stick Wallpaper  Leaves Contact Paper Colorful Flower Removable Wallpaper Self Adhesive ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="932">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81MOkgcBPbL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Street Prints 290125419 Folia Light Green Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/216985.jpg' alt='A Street Prints 290125419 Folia Light Green Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/216985.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Helen Light Green Floral Trail Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn.totalwallcovering.com/product/helen-light-green-floral-trail-wallpape-iemk-l.jpg' alt='Helen Light Green Floral Trail Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Total Wallcovering" />
+                                </span>
+                                <a href='https://cdn.totalwallcovering.com/product/helen-light-green-floral-trail-wallpape-iemk-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sage Green Art Deco Wallpaper - Self Adhesive - The Wallberry">
+                                <img itemprop="contentUrl url" src='https://thewallberry.com/wp-content/uploads/2021/02/Light-Green-Art-Deco-07.jpg' alt='Sage Green Art Deco Wallpaper - Self Adhesive - The Wallberry'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Wallberry" />
+                                </span>
+                                <a href='https://thewallberry.com/wp-content/uploads/2021/02/Light-Green-Art-Deco-07.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Wallpaper | Sage & Pastel Tones With Dark & Light Options ...">
+                                <img itemprop="contentUrl url" src='https://www.datocms-assets.com/54048/1637669628-leaf-tropic-light-green.jpg?auto=format&dpr=0.23&w=2200' alt='Green Wallpaper | Sage & Pastel Tones With Dark & Light Options ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bobbi Beck" />
+                                </span>
+                                <a href='https://www.datocms-assets.com/54048/1637669628-leaf-tropic-light-green.jpg?auto=format&dpr=0.23&w=2200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Light Green Wallpaper for 2025 | Sandberg Wallpaper">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_720/v1683555313/articles/S10374_product.jpg' alt='50 Light Green Wallpaper for 2025 | Sandberg Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sandberg Wallpaper" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_720/v1683555313/articles/S10374_product.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Midsummer Leaves Wallpaper - happywall.com">
+                                <img itemprop="contentUrl url" src='https://happywall-img-gallery.imgix.net/60278/midsummer-leaves-in-light-green-roll.jpg?w=1400&auto=format&q=40' alt='Midsummer Leaves Wallpaper - happywall.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="933">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-img-gallery.imgix.net/60278/midsummer-leaves-in-light-green-roll.jpg?w=1400&auto=format&q=40' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Green Wallpaper Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/007/810/549/non_2x/cute-flowery-seamless-pattern-with-camomile-daisy-flower-on-light-green-background-sweet-romantic-simple-floral-backdrop-wallpaper-vector.jpg' alt='Light Green Wallpaper Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1041">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/007/810/549/non_2x/cute-flowery-seamless-pattern-with-camomile-daisy-flower-on-light-green-background-sweet-romantic-simple-floral-backdrop-wallpaper-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

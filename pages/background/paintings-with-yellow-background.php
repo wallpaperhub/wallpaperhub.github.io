@@ -1,0 +1,129 @@
+<title>Brighten Your Space: Stunning Paintings with Yellow Backgrounds</title>
+                    <meta name="description" content="Explore the enchanting world of paintings featuring vibrant yellow backgrounds. Discover how this lively color enhances art, evoking feelings of joy and creativity. Perfect for those seeking inspiration or a bright addition to their decor.">
+                    <meta name="keywords" content="paintings with yellow background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/paintings-with-yellow-background">
+                            <span itemprop="name">paintings with yellow background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Brighten Your Space: Stunning Paintings with Yellow Backgrounds</h1>
+                <p>Paintings with a yellow background evoke warmth and positivity, drawing the viewer's attention instantly. This vibrant hue symbolizes sunshine, joy, and creativity, making it a popular choice among artists. Whether in abstract art or landscapes, yellow backgrounds enhance the overall mood, inviting contemplation and delight in each brushstroke.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple peony on a yellow background Painting by Viktoria Viktoria ...">
+                                <img itemprop="contentUrl url" src='https://images.saatchiart.com/saatchi/1151964/art/5386535/4456347-HSC00002-7.jpg' alt='Purple peony on a yellow background Painting by Viktoria Viktoria ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="940">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Saatchi Art" />
+                                </span>
+                                <a href='https://images.saatchiart.com/saatchi/1151964/art/5386535/4456347-HSC00002-7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow and Gray Tree Painting | Heavy Texture Art | Customizable ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/6105033/r/il/55f41e/3526458841/il_570xN.3526458841_kzku.jpg' alt='Yellow and Gray Tree Painting | Heavy Texture Art | Customizable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/6105033/r/il/55f41e/3526458841/il_570xN.3526458841_kzku.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Easy step by step flower painting on yellow background|Acrylic painting  |For beginners|swathi kulal">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/fCLLat81Tlc/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AHmAoAC6AKKAgwIABABGH8gWSgdMA8=&rs=AOn4CLChC3M2slmFiL5qAC49fZOTr08P1A' alt='Easy step by step flower painting on yellow background|Acrylic painting  |For beginners|swathi kulal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/fCLLat81Tlc/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AHmAoAC6AKKAgwIABABGH8gWSgdMA8=&rs=AOn4CLChC3M2slmFiL5qAC49fZOTr08P1A' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vincent van Gogh: The Paintings (Still Life: Vase with Irises ...">
+                                <img itemprop="contentUrl url" src='https://vggallery.com/painting/f_0678.jpg' alt='Vincent van Gogh: The Paintings (Still Life: Vase with Irises ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="715">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Vincent van Gogh Gallery" />
+                                </span>
+                                <a href='https://vggallery.com/painting/f_0678.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1013 Red Poppies with Yellow Background Painting - Flower Paintings by Patt  Rutter">
+                                <img itemprop="contentUrl url" src='https://pattrutter.com/wp-content/uploads/2022/07/1013-red-poppies-yellow-background-scaled.jpg' alt='1013 Red Poppies with Yellow Background Painting - Flower Paintings by Patt  Rutter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2012">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flower Paintings by Patt Rutter" />
+                                </span>
+                                <a href='https://pattrutter.com/wp-content/uploads/2022/07/1013-red-poppies-yellow-background-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Teal Tree Painting on a Yellow Background Painting Demo Timelapse">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/6irc-kQFLg4/maxresdefault.jpg' alt='Teal Tree Painting on a Yellow Background Painting Demo Timelapse'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/6irc-kQFLg4/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Yellow Artworks — Google Arts & Culture">
+                                <img itemprop="contentUrl url" src='https://lh3.googleusercontent.com/ci/AL18g_RofH8jb2MMRWBM_aJjHWLtBl81gX1MgWmoCdrq73vazn0NMiJ3L0MW0fmzK_Y1SWRgF3fmlQ=s1200' alt='8 Yellow Artworks — Google Arts & Culture'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1196">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Arts & Culture" />
+                                </span>
+                                <a href='https://lh3.googleusercontent.com/ci/AL18g_RofH8jb2MMRWBM_aJjHWLtBl81gX1MgWmoCdrq73vazn0NMiJ3L0MW0fmzK_Y1SWRgF3fmlQ=s1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Self-Portrait against Yellow Background - Edvard Munch Paintings">
+                                <img itemprop="contentUrl url" src='https://www.paintingmania.com/arts/edvard-munch/large/self-portrait-against-yellow-background-16_35198.jpg?version=15.04.24' alt='Self-Portrait against Yellow Background - Edvard Munch Paintings'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="677">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PaintingMania.com" />
+                                </span>
+                                <a href='https://www.paintingmania.com/arts/edvard-munch/large/self-portrait-against-yellow-background-16_35198.jpg?version=15.04.24' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Angela Wakefield - Abstract Red Pink Blue Flowers on Yellow Background by  British Landscape Artist">
+                                <img itemprop="contentUrl url" src='https://a.1stdibscdn.com/angela-wakefield-paintings-abstract-red-pink-blue-flowers-on-yellow-background-by-british-landscape-artist-for-sale/a_8173/a_53802511575047620240/wild_flowers_master.jpg?width=768' alt='Angela Wakefield - Abstract Red Pink Blue Flowers on Yellow Background by  British Landscape Artist'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="765">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="1stDibs" />
+                                </span>
+                                <a href='https://a.1stdibscdn.com/angela-wakefield-paintings-abstract-red-pink-blue-flowers-on-yellow-background-by-british-landscape-artist-for-sale/a_8173/a_53802511575047620240/wild_flowers_master.jpg?width=768' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="African Lady YelloBackground Afro Canvas Prints Wall Art ...">
+                                <img itemprop="contentUrl url" src='https://unixcanvas.com/cdn/shop/products/African_20Lady_20w_20Yellow_20Background_20Afro_05ef8546-2595-4545-8a3d-c72cd3fe9761.jpg?v=1641787259' alt='African Lady YelloBackground Afro Canvas Prints Wall Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UnixCanvas" />
+                                </span>
+                                <a href='https://unixcanvas.com/cdn/shop/products/African_20Lady_20w_20Yellow_20Background_20Afro_05ef8546-2595-4545-8a3d-c72cd3fe9761.jpg?v=1641787259' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

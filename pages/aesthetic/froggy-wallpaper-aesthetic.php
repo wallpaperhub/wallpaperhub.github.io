@@ -1,0 +1,129 @@
+<title>Charming Froggy Wallpaper Aesthetic for Your Space</title>
+                    <meta name="description" content="Explore the whimsical froggy wallpaper aesthetic! Perfect for any room, this design features playful frog motifs and vibrant colors that bring joy and personality to your space. Transform your interiors with a touch of nature-inspired charm and create a delightful atmosphere!">
+                    <meta name="keywords" content="froggy wallpaper aesthetic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/froggy-wallpaper-aesthetic">
+                            <span itemprop="name">froggy wallpaper aesthetic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Froggy Wallpaper Aesthetic for Your Space</h1>
+                <p>Froggy wallpaper aesthetic combines playful, whimsical designs of froggies with vibrant colors and soothing patterns. This trend captures the essence of nature and innocence, making it perfect for nurseries, kids' rooms, or any space needing a light-hearted vibe. Embrace the froggy charm to create a cozy, fun environment!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Frog Wallpaper for iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/04/d6/13/04d61322a30b0ec89049ca03a6e0faef.jpg' alt='Cute Frog Wallpaper for iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/04/d6/13/04d61322a30b0ec89049ca03a6e0faef.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="frog aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/da/d1/6d/dad16d1cf87e3ea130742b211a4090c8.jpg' alt='frog aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/da/d1/6d/dad16d1cf87e3ea130742b211a4090c8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cute frog wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/10/56/3b/10563b79c05b25219a178f06a3bdf0b3.jpg' alt='cute frog wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="656">
+                                <meta itemprop="height" content="1156">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/10/56/3b/10563b79c05b25219a178f06a3bdf0b3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Frog Aesthetic Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7112398570250079515&location=0&aid=1988' alt='Cute Frog Aesthetic Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1888">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7112398570250079515&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Froggy laptop/desktop wallpaper :) by Impy132 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a2daa4d7-5850-42ed-9196-1eb8c1cba6be/df4oxt2-24c4bd7c-d69a-4b89-9faf-0b2d496b3475.jpg/v1/fill/w_1280,h_719,q_75,strp/froggy_laptop_desktop_wallpaper____by_impy132_df4oxt2-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzE5IiwicGF0aCI6IlwvZlwvYTJkYWE0ZDctNTg1MC00MmVkLTkxOTYtMWViOGMxY2JhNmJlXC9kZjRveHQyLTI0YzRiZDdjLWQ2OWEtNGI4OS05ZmFmLTBiMmQ0OTZiMzQ3NS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.hqeiTbw4cD-fJi_lj2CpmgHFehQHbqCuvDgiIMDmPbk' alt='Froggy laptop/desktop wallpaper :) by Impy132 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="719">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a2daa4d7-5850-42ed-9196-1eb8c1cba6be/df4oxt2-24c4bd7c-d69a-4b89-9faf-0b2d496b3475.jpg/v1/fill/w_1280,h_719,q_75,strp/froggy_laptop_desktop_wallpaper____by_impy132_df4oxt2-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzE5IiwicGF0aCI6IlwvZlwvYTJkYWE0ZDctNTg1MC00MmVkLTkxOTYtMWViOGMxY2JhNmJlXC9kZjRveHQyLTI0YzRiZDdjLWQ2OWEtNGI4OS05ZmFmLTBiMmQ0OTZiMzQ3NS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.hqeiTbw4cD-fJi_lj2CpmgHFehQHbqCuvDgiIMDmPbk' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="froggy edits | Frog wallpaper, Frog pictures, Cute frogs">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d2/8d/fe/d28dfe778a035b5544afc1128216c8a5.jpg' alt='froggy edits | Frog wallpaper, Frog pictures, Cute frogs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1368">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d2/8d/fe/d28dfe778a035b5544afc1128216c8a5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable frog wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFGlua4n4M/1/0/900w/canva-green-illustrated-frog-phone-wallpaper-jYlIvzBL06A.jpg' alt='Free and customizable frog wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFGlua4n4M/1/0/900w/canva-green-illustrated-frog-phone-wallpaper-jYlIvzBL06A.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="frog aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/e6/ce/20/e6ce2008f6f939ffa13c4677608da487.jpg' alt='frog aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="672">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/e6/ce/20/e6ce2008f6f939ffa13c4677608da487.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy frog desktop background:)">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/37926435/r/il/457862/4631709551/il_fullxfull.4631709551_9mzc.jpg' alt='Happy frog desktop background:)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/37926435/r/il/457862/4631709551/il_fullxfull.4631709551_9mzc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Froggy Aesthetic Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp10559157.jpg' alt='Froggy Aesthetic Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp10559157.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

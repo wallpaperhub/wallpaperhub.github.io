@@ -1,0 +1,129 @@
+<title>Groovy Phone Wallpapers: Elevate Your Screen Style</title>
+                    <meta name="description" content="Discover an array of groovy phone wallpapers that add color and flair to your device. From retro vibes to bold patterns, find the perfect wallpaper to express your unique style. Download and transform your phone screen today!">
+                    <meta name="keywords" content="groovy phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/groovy-phone-wallpaper">
+                            <span itemprop="name">groovy phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Groovy Phone Wallpapers: Elevate Your Screen Style</h1>
+                <p>Transform your phone with groovy wallpapers that exude fun and creativity! Explore vibrant patterns, psychedelic designs, and retro styles that take you on a visual journey. Perfect for making your device stand out, these wallpapers offer a unique twist to your daily tech experience. Brighten your screen today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groovy Phone Background Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/71/39/60/713960bb6ef909f01bf0264dd08b35df.jpg' alt='Groovy Phone Background Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/71/39/60/713960bb6ef909f01bf0264dd08b35df.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="groovy floral phone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d7/f4/05/d7f40596526bd6c6b77ab38087224914.jpg' alt='groovy floral phone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d7/f4/05/d7f40596526bd6c6b77ab38087224914.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groovy Phone Background Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b5/1c/ef/b51cefef608abd928822205408fa8479.jpg' alt='Groovy Phone Background Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b5/1c/ef/b51cefef608abd928822205408fa8479.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] 70's Groovy Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/70s-groovy-background-vf6owa2tfr4x4g9l.jpg' alt='100+] 70's Groovy Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/70s-groovy-background-vf6owa2tfr4x4g9l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groovy background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f2/d9/14/f2d9142b5798364575a5194bedb80678.jpg' alt='Groovy background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f2/d9/14/f2d9142b5798364575a5194bedb80678.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groovy Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/rainbow-heart-shaped-quilt-by-person_363897-7858.jpg?semt=ais_hybrid' alt='Groovy Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="368">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/rainbow-heart-shaped-quilt-by-person_363897-7858.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 2 - Free customizable vintage phone wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFLD5rMNrk/1/0/900w/canva-groovy-retro-rainbow-stripes-and-flower-phone-wallpaper-ckUuUGEPHSg.jpg' alt='Page 2 - Free customizable vintage phone wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFLD5rMNrk/1/0/900w/canva-groovy-retro-rainbow-stripes-and-flower-phone-wallpaper-ckUuUGEPHSg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download 70's Groovy Background Splash Of Flowers And Clouds ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/70-s-groovy-background-800-x-1422-ppiamw5bb9s99fcx.jpg' alt='Download 70's Groovy Background Splash Of Flowers And Clouds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/70-s-groovy-background-800-x-1422-ppiamw5bb9s99fcx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="groovy wallpapers for your phone and desktop • frankie fellows ...">
+                                <img itemprop="contentUrl url" src='https://i.nextmedia.com.au/Assets/FF-wallpaper-oct21-floral_mobile.jpg' alt='groovy wallpapers for your phone and desktop • frankie fellows ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4500">
+                                <meta itemprop="height" content="8000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Frankie Magazine" />
+                                </span>
+                                <a href='https://i.nextmedia.com.au/Assets/FF-wallpaper-oct21-floral_mobile.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="70s Groovy Baby Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/70s-groovy-baby-0l6ducgaubseuesj.jpg' alt='70s Groovy Baby Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1067">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/70s-groovy-baby-0l6ducgaubseuesj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Berserk Wallpaper for PC - Epic Designs for Your Desktop</title>
+                    <meta name="description" content="Discover epic "Berserk" wallpapers for your PC! Showcase breathtaking art from the iconic manga. Perfect for fans wanting to enhance their desktop with stunning visuals. Download now and immerse yourself in the world of Guts and Griffith every time you log in!">
+                    <meta name="keywords" content="berserk wallpaper pc">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pc">
+                            <span itemprop="name">PC</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pc/berserk-wallpaper-pc">
+                            <span itemprop="name">berserk wallpaper pc</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Berserk Wallpaper for PC - Epic Designs for Your Desktop</h1>
+                <p>Transform your PC's aesthetic with stunning "Berserk" wallpapers! Dive into the dark, gritty world of Guts, Griffith, and companions as they face epic battles and profound themes. Whether you're a long-time fan or new to the series, these wallpapers will encapsulate the essence of this legendary manga and anime. Elevate your desktop today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper for PC : r/Berserk">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/Dx7kym02QCFgvV3zZSCWM-1kPXwcgoCdEzFVCDvan8k.jpg?auto=webp&s=195ee0e9316dbb93a9a262cc18a0443a9827a486' alt='Wallpaper for PC : r/Berserk'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/Dx7kym02QCFgvV3zZSCWM-1kPXwcgoCdEzFVCDvan8k.jpg?auto=webp&s=195ee0e9316dbb93a9a262cc18a0443a9827a486' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some PC berserk wallpapers for my fellow strugglers!! : r/Berserk">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/seocku9j52x81.jpg' alt='Some PC berserk wallpapers for my fellow strugglers!! : r/Berserk'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/seocku9j52x81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guts from Berserk - Stunning HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/666/thumb-1920-666343.jpg' alt='Guts from Berserk - Stunning HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/666/thumb-1920-666343.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Huge Berserk Wallpaper Dump (All 1920x1080, 143+) - I've been ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/fB6t-bBm7gI4U3y82fq3wAXGgqrLSCZO8oJ28Rx70KQ.jpg?auto=webp&s=ebd5a880d228da5cf33aebf9f5eecd066cd7cc50' alt='Huge Berserk Wallpaper Dump (All 1920x1080, 143+) - I've been ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/fB6t-bBm7gI4U3y82fq3wAXGgqrLSCZO8oJ28Rx70KQ.jpg?auto=webp&s=ebd5a880d228da5cf33aebf9f5eecd066cd7cc50' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Berserk Wallpapers [20+]">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/walls/thumbs/19127.jpg' alt='4K Berserk Wallpapers [20+]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/walls/thumbs/19127.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guts Wallpaper 4K, 5K, Berserk">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/guts-5k-berserk-3840x2160-13631.jpg' alt='Guts Wallpaper 4K, 5K, Berserk'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/guts-5k-berserk-3840x2160-13631.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Berserk - Guts Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6d/36/a2/6d36a24ba86063c5ea9c13b216e5d080.jpg' alt='Berserk - Guts Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6d/36/a2/6d36a24ba86063c5ea9c13b216e5d080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some Berserk Minimalist Desktop Wallpapers I Found : : r/Berserk">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/some-berserk-minimalist-desktop-wallpapers-i-found-v0-09uvehsqlvz91.png?width=3840&format=png&auto=webp&s=1d535d99e854e0a9c70bf998a05eb376d0db7419' alt='Some Berserk Minimalist Desktop Wallpapers I Found : : r/Berserk'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/some-berserk-minimalist-desktop-wallpapers-i-found-v0-09uvehsqlvz91.png?width=3840&format=png&auto=webp&s=1d535d99e854e0a9c70bf998a05eb376d0db7419' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Berserk (Anime) Wallpapers (46 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/f/2/b/1644879-3840x2160-desktop-4k-berserk-anime-wallpaper-photo.jpg' alt='Berserk (Anime) Wallpapers (46 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/f/2/b/1644879-3840x2160-desktop-4k-berserk-anime-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some PC berserk wallpapers for my fellow strugglers!! : r/Berserk">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/mjti6bvi52x81.jpg?width=1080&crop=smart&auto=webp&s=ef258542a1aa994a4b58835fe6b9b447d8fc2a8e' alt='Some PC berserk wallpapers for my fellow strugglers!! : r/Berserk'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="783">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/mjti6bvi52x81.jpg?width=1080&crop=smart&auto=webp&s=ef258542a1aa994a4b58835fe6b9b447d8fc2a8e' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

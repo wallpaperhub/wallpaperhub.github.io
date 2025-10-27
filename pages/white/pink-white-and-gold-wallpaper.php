@@ -1,0 +1,129 @@
+<title>Stylish Pink, White & Gold Wallpaper for a Chic Home</title>
+                    <meta name="description" content="Explore our exquisite collection of pink, white, and gold wallpaper. Perfect for adding a touch of elegance to any room, these designs enhance your decor with sophistication. Ideal for nurseries or accent walls—bring your vision to life effortlessly!">
+                    <meta name="keywords" content="pink white and gold wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/pink-white-and-gold-wallpaper">
+                            <span itemprop="name">pink white and gold wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Pink, White & Gold Wallpaper for a Chic Home</h1>
+                <p>Transform your space with beautiful pink, white, and gold wallpaper. This stunning color palette brings elegance and warmth to any room, making it perfect for nurseries, bedrooms, or accent walls. Discover versatile designs that complement your decor style, adding a touch of sophistication and charm to your home.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mimosa Removable Wall Mural, Blush and Gold Removable Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20953942/r/il/f63d58/2686486293/il_570xN.2686486293_6v16.jpg' alt='Mimosa Removable Wall Mural, Blush and Gold Removable Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="698">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20953942/r/il/f63d58/2686486293/il_570xN.2686486293_6v16.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink and Gold Marble Wallpaper Peel and Stick, Removable Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18667765/r/il/57a174/5373506005/il_fullxfull.5373506005_phh3.jpg' alt='Pink and Gold Marble Wallpaper Peel and Stick, Removable Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18667765/r/il/57a174/5373506005/il_fullxfull.5373506005_phh3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Fine Décor 2900-41685 Arken Rose Geometric Wallpaper, Roe Gold">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61xfnuEgVOL.jpg' alt='Gold Fine Décor 2900-41685 Arken Rose Geometric Wallpaper, Roe Gold'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1768">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61xfnuEgVOL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink White Gold Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/elegant-pink-hand-painted-alcohol-ink-background-with-gold-glitter_1048-16404.jpg' alt='Pink White Gold Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="444">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/elegant-pink-hand-painted-alcohol-ink-background-with-gold-glitter_1048-16404.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Burst White Pink Gold">
+                                <img itemprop="contentUrl url" src='https://jenniferlatimer.com/cdn/shop/products/d58e8b187e58bfe0b33b9c7caf2ec0d4_2d136f69-42f4-460c-8da2-18ec1ceba862.jpg?v=1550432320' alt='Burst White Pink Gold'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jennifer Latimer" />
+                                </span>
+                                <a href='https://jenniferlatimer.com/cdn/shop/products/d58e8b187e58bfe0b33b9c7caf2ec0d4_2d136f69-42f4-460c-8da2-18ec1ceba862.jpg?v=1550432320' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Liquid Marble Wallpaper in Pink and Gold">
+                                <img itemprop="contentUrl url" src='http://ilovewallpaper.com/cdn/shop/files/1-Liquid-Marble-Pink-and-Gold_ILW035_Thumbnail_WEB_971bd3eb-a8f9-4314-ba2d-8f9d5b5ab529.webp?v=1706010649' alt='Liquid Marble Wallpaper in Pink and Gold'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='http://ilovewallpaper.com/cdn/shop/files/1-Liquid-Marble-Pink-and-Gold_ILW035_Thumbnail_WEB_971bd3eb-a8f9-4314-ba2d-8f9d5b5ab529.webp?v=1706010649' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download premium vector of Gold and pink fluid patterned mobile ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/5f/1b/fa/5f1bfaa8a59ec316f4a5a981ae1beb75.jpg' alt='Download premium vector of Gold and pink fluid patterned mobile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2132">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/5f/1b/fa/5f1bfaa8a59ec316f4a5a981ae1beb75.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink White Gold Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/elegant-pastel-pink-hand-painted-alcohol-ink-design-with-gold-elements_1048-18533.jpg' alt='Pink White Gold Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="444">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/elegant-pastel-pink-hand-painted-alcohol-ink-design-with-gold-elements_1048-18533.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DRESS UP YOUR TECH: Photo">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/9a/a9/21/9aa92100198d17c59e7e50ddf7cb7e5e.jpg' alt='DRESS UP YOUR TECH: Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/9a/a9/21/9aa92100198d17c59e7e50ddf7cb7e5e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download free Gold Aesthetic Pink And White Marble Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://mrwallpaper.com/images/thumbnail/gold-aesthetic-pink-and-white-marble-axgi8n8sn5yhlcuh.webp' alt='Download free Gold Aesthetic Pink And White Marble Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrWallpaper" />
+                                </span>
+                                <a href='https://mrwallpaper.com/images/thumbnail/gold-aesthetic-pink-and-white-marble-axgi8n8sn5yhlcuh.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Discover the Essence: The Fascinating History of Perfume</title>
+                    <meta name="description" content="Dive into the captivating world of perfume! Explore its ancient roots, evolution, and significance in personal expression. Uncover how scents reflect cultures and identities, making fragrance a timeless art form. Perfect for enthusiasts and newcomers alike!">
+                    <meta name="keywords" content="perfume background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/perfume-background">
+                            <span itemprop="name">perfume background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Essence: The Fascinating History of Perfume</h1>
+                <p>Perfume has a rich history, dating back to ancient civilizations that used fragrant substances for rituals and daily life. The art of perfumery evolved over centuries, blending natural extracts with innovation. Today, it symbolizes personal expression, with countless fragrances reflecting diverse cultures and individual identities.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Men Perfume Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/050/752/645/small/perfume-glass-packaging-mockup-on-dark-background-with-haze-effect-photo.jpg' alt='Men Perfume Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="356">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/050/752/645/small/perfume-glass-packaging-mockup-on-dark-background-with-haze-effect-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Perfume Background Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTExL3Jhd3BpeGVsX29mZmljZV8zN19hX2Nsb3NldXBfb2ZfdGhlX2hhbmRfd2l0aF9wZXJmdW1lX2JvdHRsZV9nb19mZjFiYWFmNC00YTY3LTQ1NGMtOGNlNi0yZTQ0ZDJkMWNhOTkuanBn.jpg' alt='Perfume Background Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1131">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTExL3Jhd3BpeGVsX29mZmljZV8zN19hX2Nsb3NldXBfb2ZfdGhlX2hhbmRfd2l0aF9wZXJmdW1lX2JvdHRsZV9nb19mZjFiYWFmNC00YTY3LTQ1NGMtOGNlNi0yZTQ0ZDJkMWNhOTkuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxury Perfume Company Stock Photos, Images and Backgrounds for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/050/679/598/small/elegant-perfume-bottles-displayed-artistically-among-branches-and-yellow-accents-in-a-dark-misty-setting-photo.jpg' alt='Luxury Perfume Company Stock Photos, Images and Backgrounds for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="357">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/050/679/598/small/elegant-perfume-bottles-displayed-artistically-among-branches-and-yellow-accents-in-a-dark-misty-setting-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Perfume Background Stock Illustrations – 122,058 Perfume ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/elegant-perfume-background-design-calming-floral-image-sophisticated-aesthetics-inspiration-exquisite-embodies-349601766.jpg' alt='Perfume Background Stock Illustrations – 122,058 Perfume ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="572">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/elegant-perfume-background-design-calming-floral-image-sophisticated-aesthetics-inspiration-exquisite-embodies-349601766.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Perfume Background Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/053/864/544/small_2x/lavender-flowers-and-perfume-bottle-on-dark-background-photo.jpeg' alt='Perfume Background Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="714">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/053/864/544/small_2x/lavender-flowers-and-perfume-bottle-on-dark-background-photo.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Perfume Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/front-view-perfume-bottle-flowers-light-blue-background-free-space_140725-145522.jpg' alt='Perfume Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/front-view-perfume-bottle-flowers-light-blue-background-free-space_140725-145522.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Perfume Ad Stock Illustrations – 2,589 Perfume Ad Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/elusive-elegance-crafting-luxurious-backdrop-glamorous-perfume-ad-create-enchanting-captivating-background-344761410.jpg' alt='Perfume Ad Stock Illustrations – 2,589 Perfume Ad Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/elusive-elegance-crafting-luxurious-backdrop-glamorous-perfume-ad-create-enchanting-captivating-background-344761410.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Perfume Background Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcC1zNzUtdGVkLTU5NzYtcGFpXzIuanBn.jpg' alt='Perfume Background Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcC1zNzUtdGVkLTU5NzYtcGFpXzIuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Four elegant glass perfume bottles on a gray illuminated ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/029/784/874/large_2x/four-elegant-glass-perfume-bottles-on-a-gray-illuminated-background-photo.jpg' alt='Four elegant glass perfume bottles on a gray illuminated ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2940">
+                                <meta itemprop="height" content="1960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/029/784/874/large_2x/four-elegant-glass-perfume-bottles-on-a-gray-illuminated-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Perfume Bottle Background Stock Illustrations – 65,096 Perfume ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/sublime-elegance-timeless-luxurious-perfume-bottle-background-create-elegant-focusing-simplicity-sophistication-344763055.jpg' alt='Perfume Bottle Background Stock Illustrations – 65,096 Perfume ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/sublime-elegance-timeless-luxurious-perfume-bottle-background-create-elegant-focusing-simplicity-sophistication-344763055.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

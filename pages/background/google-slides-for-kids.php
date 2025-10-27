@@ -1,0 +1,129 @@
+<title>Fun with Google Slides: A Kid's Guide</title>
+                    <meta name="description" content="Discover how Google Slides can inspire creativity in kids! This guide offers tips and tricks for making engaging presentations. Perfect for school projects or personal expression, Google Slides helps children learn tech skills while having fun. Start exploring the possibilities today!">
+                    <meta name="keywords" content="google slides for kids">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/google-slides-for-kids">
+                            <span itemprop="name">google slides for kids</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Fun with Google Slides: A Kid's Guide</h1>
+                <p>Google Slides is a fun and interactive tool for kids to create presentations. Whether for school projects or sharing their creativity, children can explore colorful themes, fun animations, and easy-to-use layout options. It encourages teamwork, boosts confidence, and helps them learn valuable tech skills while enjoying the process!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Google Slides for Kids - Episode 1">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/lfpneIqnXTE/maxresdefault.jpg' alt='Google Slides for Kids - Episode 1'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/lfpneIqnXTE/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Google Slides for Kids - Episode 2: Adding Style - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/eyQk-UF8f_s/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC8-5fsDspEAQPqWlUJ6nWCsWRO_A' alt='Google Slides for Kids - Episode 2: Adding Style - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/eyQk-UF8f_s/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC8-5fsDspEAQPqWlUJ6nWCsWRO_A' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="All About Me Google Slides for Kids">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/RU_qSkXo3hQ/maxresdefault.jpg' alt='All About Me Google Slides for Kids'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/RU_qSkXo3hQ/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Kids Google Slides themes and PowerPoint templates">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/20252281/language-arts-developement-for-pre-k1650893961.jpg' alt='Free Kids Google Slides themes and PowerPoint templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/20252281/language-arts-developement-for-pre-k1650893961.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Intro to Google Slides for Kids">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Ioog1IyDuRE/maxresdefault.jpg' alt='Intro to Google Slides for Kids'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Ioog1IyDuRE/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Digital Storytelling: Google Slides Picture Books – Flipped Tech ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/flippedtechcoaching.com/wp-content/uploads/2019/01/picture-book.png?fit=1200%2C630&ssl=1' alt='Digital Storytelling: Google Slides Picture Books – Flipped Tech ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flipped Tech Coaching" />
+                                </span>
+                                <a href='https://i0.wp.com/flippedtechcoaching.com/wp-content/uploads/2019/01/picture-book.png?fit=1200%2C630&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Kids Google Slides themes and PowerPoint templates">
+                                <img itemprop="contentUrl url" src='https://media.slidesgo.com/storage/30506788/kids-growth-and-development-notions-for-pre-k-teachers1674716530.jpg' alt='Free Kids Google Slides themes and PowerPoint templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slidesgo" />
+                                </span>
+                                <a href='https://media.slidesgo.com/storage/30506788/kids-growth-and-development-notions-for-pre-k-teachers1674716530.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kid Entertainment Center Google Slides Presentation Template - Graphue">
+                                <img itemprop="contentUrl url" src='https://graphue.com/wp-content/uploads/2021/08/Playkids-Google-Slides-Template-710x490.png' alt='Kid Entertainment Center Google Slides Presentation Template - Graphue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Graphue" />
+                                </span>
+                                <a href='https://graphue.com/wp-content/uploads/2021/08/Playkids-Google-Slides-Template-710x490.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kids Playground Google Slides Incl. kids & google - Envato">
+                                <img itemprop="contentUrl url" src='https://elements-resized.envatousercontent.com/elements-cover-images/b604adf1-bb2b-48ca-a19b-cb8fe2618826?w=433&cf_fit=scale-down&q=85&format=auto&s=31ff633fa10081f9f800024a684e5aee29f69d3ad47b9dc389037dc7754a167b' alt='Kids Playground Google Slides Incl. kids & google - Envato'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="433">
+                                <meta itemprop="height" content="288">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Envato" />
+                                </span>
+                                <a href='https://elements-resized.envatousercontent.com/elements-cover-images/b604adf1-bb2b-48ca-a19b-cb8fe2618826?w=433&cf_fit=scale-down&q=85&format=auto&s=31ff633fa10081f9f800024a684e5aee29f69d3ad47b9dc389037dc7754a167b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Class for Kids Free Google Slides Theme PowerPoint Template">
+                                <img itemprop="contentUrl url" src='https://pptmon.com/wp-content/uploads/2022/09/Class-for-Kids-Presentation-Background-Design.png' alt='Class for Kids Free Google Slides Theme PowerPoint Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PPTMON" />
+                                </span>
+                                <a href='https://pptmon.com/wp-content/uploads/2022/09/Class-for-Kids-Presentation-Background-Design.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

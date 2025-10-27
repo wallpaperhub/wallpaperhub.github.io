@@ -1,0 +1,129 @@
+<title>Stunning Pink Y2K Star Wallpaper for Your Profile</title>
+                    <meta name="description" content="Discover the perfect pink Y2K star wallpaper to elevate your digital aesthetic. Ideal for profile customization, this vibrant design combines retro charm with modern flair. Upgrade your device's look and express your unique style effortlessly!">
+                    <meta name="keywords" content="pfp pink y2k star wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/y2k">
+                            <span itemprop="name">Y2K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/y2k/pfp-pink-y2k-star-wallpaper">
+                            <span itemprop="name">pfp pink y2k star wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Pink Y2K Star Wallpaper for Your Profile</h1>
+                <p>Transform your digital space with stunning pink Y2K star wallpaper. This vibrant aesthetic combines nostalgia and modernity, adding a playful touch to your screens. Perfect for profiles, this wallpaper is ideal for fans of the Y2K era, evoking a sense of whimsy with its dreamy colors and celestial patterns. Elevate your online presence today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/bb/70/58/bb7058b75214f54dd4ba23fe616309b9.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="249">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/bb/70/58/bb7058b75214f54dd4ba23fe616309b9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/79/d7/87/79d787387925354269e66cb2834e9014.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="538">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/79/d7/87/79d787387925354269e66cb2834e9014.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PINK STAR BLUR">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9a/6d/0e/9a6d0e14209f984760574076ce8ed396.jpg' alt='PINK STAR BLUR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9a/6d/0e/9a6d0e14209f984760574076ce8ed396.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Y2k Star Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/shiny-star-pink-gradient-background-3xhqalarxha3bxv6.jpg' alt='100+] Y2k Star Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/shiny-star-pink-gradient-background-3xhqalarxha3bxv6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Y2k pink lightly spider with y2k pink stars in the background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/db/36/5b/db365bf6c1ea51cb723f2a50901dfe7e.jpg' alt='Y2k pink lightly spider with y2k pink stars in the background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/db/36/5b/db365bf6c1ea51cb723f2a50901dfe7e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="45+ Star Wallpaper Options for a Dazzling Phone Screen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/81/66/bf/8166bf4d79841d1fb7c3bbc12f47f2e6.jpg' alt='45+ Star Wallpaper Options for a Dazzling Phone Screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="541">
+                                <meta itemprop="height" content="1082">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/81/66/bf/8166bf4d79841d1fb7c3bbc12f47f2e6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Y2k Star Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-neon-stars-background-9qqyvn6nmdu6zp2p.jpg' alt='100+] Y2k Star Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-neon-stars-background-9qqyvn6nmdu6zp2p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper pink star 3D">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/74/9b/56/749b563aa82079dca275c1864198f83e.jpg' alt='Wallpaper pink star 3D'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/74/9b/56/749b563aa82079dca275c1864198f83e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Replying to @deftoneslover8 go on Pinterest and look up Y2K star background  if u wanna do like that #y2k #fyp #fypシ #fypage">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7144477487681015082&location=0&aid=1988' alt='Replying to @deftoneslover8 go on Pinterest and look up Y2K star background  if u wanna do like that #y2k #fyp #fypシ #fypage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7144477487681015082&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink and black pfp">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/ef/f9/2c/eff92c0c948c4d7c900be517485b9e51.jpg' alt='Pink and black pfp'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/ef/f9/2c/eff92c0c948c4d7c900be517485b9e51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

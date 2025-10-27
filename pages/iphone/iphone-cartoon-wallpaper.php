@@ -1,0 +1,129 @@
+<title>Fun & Vibrant Cartoon Wallpapers for Your iPhone</title>
+                    <meta name="description" content="Discover a stunning collection of cartoon wallpapers for your iPhone! Brighten up your device with playful designs that showcase your personality. Perfect for anyone looking to add a splash of fun to their screen. Explore now and find the ideal wallpaper for your iPhone!">
+                    <meta name="keywords" content="iphone cartoon wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-cartoon-wallpaper">
+                            <span itemprop="name">iphone cartoon wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Fun & Vibrant Cartoon Wallpapers for Your iPhone</h1>
+                <p>Upgrade your iPhone aesthetic with our vibrant cartoon wallpaper collection! Perfect for all ages, these playful designs add fun and personality to your device. From beloved characters to whimsical creations, you’ll find the ideal backdrop for your screen. Explore the world of cartoon wallpapers and express your unique style today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Cartoon iPhone Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b4/1e/38/b41e38515bde9390d21649d0a54e44e3.jpg' alt='Awesome Cartoon iPhone Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b4/1e/38/b41e38515bde9390d21649d0a54e44e3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone X Cartoon Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/iphone-x-cartoon-montage-u3hvde4pgby5gfvd.jpg' alt='Iphone X Cartoon Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/iphone-x-cartoon-montage-u3hvde4pgby5gfvd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Cartoon iPhone Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/90/58/b2/9058b2fb632e5dd00d9524a1468e5cc1.jpg' alt='Awesome Cartoon iPhone Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/90/58/b2/9058b2fb632e5dd00d9524a1468e5cc1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Batman Cartoon Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cool-batman-cartoon-iphone-rqirxmug38voijzc.jpg' alt='Cool Batman Cartoon Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="853">
+                                <meta itemprop="height" content="1517">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cool-batman-cartoon-iphone-rqirxmug38voijzc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Cartoon Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cartoon-iphone-dubzue0ncd7tr0m7.jpg' alt='200+] Cartoon Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cartoon-iphone-dubzue0ncd7tr0m7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Animated, Mickey Mouse, cartoon, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/24/910/HD-wallpaper-iphone-animated-mickey-mouse-cartoon.jpg' alt='Iphone Animated, Mickey Mouse, cartoon, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/24/910/HD-wallpaper-iphone-animated-mickey-mouse-cartoon.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon on sale wallpaper iphone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/7b/c8/3d/7bc83d33cdba5a9743b5db6750ae84f1.jpg' alt='Cartoon on sale wallpaper iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Roki Foods" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/7b/c8/3d/7bc83d33cdba5a9743b5db6750ae84f1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Cartoon iPhone HD Wallpapers - iLikeWallpaper">
+                                <img itemprop="contentUrl url" src='https://r1.ilikewallpaper.net/iphone-wallpapers/download/12702/One-Piece-iphone-wallpaper-ilikewallpaper_com.jpg' alt='Best Cartoon iPhone HD Wallpapers - iLikeWallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iLikeWallpaper" />
+                                </span>
+                                <a href='https://r1.ilikewallpaper.net/iphone-wallpapers/download/12702/One-Piece-iphone-wallpaper-ilikewallpaper_com.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cartoon characters giving the iPhone a "thumbs up ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cartoon-aesthetic-iphone-kayk487pvnz96vdu.jpg' alt='Download Cartoon characters giving the iPhone a "thumbs up ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="886">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cartoon-aesthetic-iphone-kayk487pvnz96vdu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mickey Mouse Cartoon Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/mickey-mouse-cartoon-iphone-h11ib4i6z38w4111.jpg' alt='Mickey Mouse Cartoon Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/mickey-mouse-cartoon-iphone-h11ib4i6z38w4111.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

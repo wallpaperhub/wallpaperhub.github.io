@@ -1,0 +1,129 @@
+<title>Epic Fortnite Wallpapers for Your Laptop</title>
+                    <meta name="description" content="Discover a stunning selection of Fortnite wallpapers for laptops. Enhance your workspace with vibrant designs featuring your favorite characters and scenes from the game. Perfect for gamers looking to personalize their devices with epic Fortnite visuals. Download your favorite wallpaper today!">
+                    <meta name="keywords" content="fortnite wallpaper laptop">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/fortnite">
+                            <span itemprop="name">Fortnite</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/fortnite/fortnite-wallpaper-laptop">
+                            <span itemprop="name">fortnite wallpaper laptop</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Fortnite Wallpapers for Your Laptop</h1>
+                <p>Looking for the perfect Fortnite wallpaper for your laptop? Explore a fantastic collection of vibrant and dynamic images that capture the excitement of the game. Whether you prefer iconic characters or breathtaking landscapes, you’ll find stunning designs to personalize your device and show off your love for Fortnite.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Wallpapers (103 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/2/0/8/1143-3840x2160-desktop-4k-fortnite-background-photo.jpg' alt='Fortnite Wallpapers (103 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/2/0/8/1143-3840x2160-desktop-4k-fortnite-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Fortnite Laptop Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/fortnite-laptop-ohmh2iotjrp07zzt.jpg' alt='100+] Fortnite Laptop Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/fortnite-laptop-ohmh2iotjrp07zzt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Wallpapers (103 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/7/1/9/88280-3840x2160-desktop-4k-fortnite-wallpaper-photo.jpg' alt='Fortnite Wallpapers (103 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/7/1/9/88280-3840x2160-desktop-4k-fortnite-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Wallpapers (103 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/a/b/e/1162-1920x1080-desktop-1080p-fortnite-wallpaper-photo.jpg' alt='Fortnite Wallpapers (103 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/a/b/e/1162-1920x1080-desktop-1080p-fortnite-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Wallpapers (103 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/e/0/3/88436-1920x1080-desktop-full-hd-fortnite-wallpaper-photo.jpg' alt='Fortnite Wallpapers (103 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/e/0/3/88436-1920x1080-desktop-full-hd-fortnite-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Wallpaper [1920x1080] : r/wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/crzehd5oe5j51.jpg' alt='Fortnite Wallpaper [1920x1080] : r/wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/crzehd5oe5j51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Wallpapers (103 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/e/8/b/1154-3840x2160-desktop-4k-fortnite-background-photo.jpg' alt='Fortnite Wallpapers (103 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/e/8/b/1154-3840x2160-desktop-4k-fortnite-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite desktop wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/54/a2/86/54a286bc90c99426f5d618d20179372c.jpg' alt='Fortnite desktop wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/54/a2/86/54a286bc90c99426f5d618d20179372c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Wallpapers (103 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/f/c/5/88321-1920x1080-desktop-1080p-fortnite-background-image.jpg' alt='Fortnite Wallpapers (103 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/f/c/5/88321-1920x1080-desktop-1080p-fortnite-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite - Download">
+                                <img itemprop="contentUrl url" src='https://images.sftcdn.net/images/t_app-cover-m,f_auto/p/0725c9ce-2e53-43a3-b740-39e0f5c20693/1512343357/fortnite-Playing-Fortnite-Windows.jpg' alt='Fortnite - Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="680">
+                                <meta itemprop="height" content="383">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Softonic" />
+                                </span>
+                                <a href='https://images.sftcdn.net/images/t_app-cover-m,f_auto/p/0725c9ce-2e53-43a3-b740-39e0f5c20693/1512343357/fortnite-Playing-Fortnite-Windows.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

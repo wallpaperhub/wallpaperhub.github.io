@@ -1,0 +1,129 @@
+<title>How Far Back Does SmartMove Check? Understanding Tenant Screening</title>
+                    <meta name="description" content="Learn about SmartMove's background check process and how far back they look into tenant histories. This guide provides insights into what records are examined, ensuring landlords can make informed decisions while adhering to legal standards.">
+                    <meta name="keywords" content="how far back does smartmove check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/how-far-back-does-smartmove-check">
+                            <span itemprop="name">how far back does smartmove check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>How Far Back Does SmartMove Check? Understanding Tenant Screening</h1>
+                <p>SmartMove typically conducts background checks going back seven years, depending on local laws and regulations. This review includes criminal history, eviction records, and credit reports, aiming to provide landlords with a comprehensive view of a prospective tenant's background to make informed renting decisions.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SmartMove Background Check Mistakes: Criminal Record">
+                                <img itemprop="contentUrl url" src='https://consumerattorneys.com/_next/image?url=%2Fmedia%2Fblog%2F65f84cea0109e.webp%3Fw%3D756&w=1920&q=75' alt='SmartMove Background Check Mistakes: Criminal Record'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="761">
+                                <meta itemprop="height" content="430">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Consumer Attorneys" />
+                                </span>
+                                <a href='https://consumerattorneys.com/_next/image?url=%2Fmedia%2Fblog%2F65f84cea0109e.webp%3Fw%3D756&w=1920&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SmartMove Tenant Screening | TransUnion">
+                                <img itemprop="contentUrl url" src='https://www.transunion.com/product/smartmove/_jcr_content/root/contentcontainer/pagesection/columnrow_1834233278/image.coreimg.jpeg/1636661636920/p-smartmove-content-d-112015.jpeg' alt='SmartMove Tenant Screening | TransUnion'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="466">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TransUnion" />
+                                </span>
+                                <a href='https://www.transunion.com/product/smartmove/_jcr_content/root/contentcontainer/pagesection/columnrow_1834233278/image.coreimg.jpeg/1636661636920/p-smartmove-content-d-112015.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Do a Criminal Background Check on Tenants | SmartMove">
+                                <img itemprop="contentUrl url" src='https://www.mysmartmove.com/blog/what-means-conduct-tenant-criminal-background-check/_jcr_content/root/pagesection_132356844/columnrow/item_1682370731956/contentcontainer/image_949270215.coreimg.jpeg/1688590904990/what-means-image-4.jpeg' alt='How to Do a Criminal Background Check on Tenants | SmartMove'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="822">
+                                <meta itemprop="height" content="1329">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TransUnion SmartMove" />
+                                </span>
+                                <a href='https://www.mysmartmove.com/blog/what-means-conduct-tenant-criminal-background-check/_jcr_content/root/pagesection_132356844/columnrow/item_1682370731956/contentcontainer/image_949270215.coreimg.jpeg/1688590904990/what-means-image-4.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Do You Do Tenant Background Checks | SmartMove">
+                                <img itemprop="contentUrl url" src='https://www.mysmartmove.com/adobe/dynamicmedia/deliver/dm-aid--764b0001-a309-4b35-b019-177c1c338862/confidence-convenience-smartmove-hero.png?quality=75&preferwebp=true' alt='How Do You Do Tenant Background Checks | SmartMove'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TransUnion SmartMove" />
+                                </span>
+                                <a href='https://www.mysmartmove.com/adobe/dynamicmedia/deliver/dm-aid--764b0001-a309-4b35-b019-177c1c338862/confidence-convenience-smartmove-hero.png?quality=75&preferwebp=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Read a Credit Report for Landlord Tenant Screening | SmartMove">
+                                <img itemprop="contentUrl url" src='https://www.mysmartmove.com/blog/how-to-read-credit-report-for-landlords/_jcr_content/root/pagesection_132356844/columnrow/item_1682370731956/contentcontainer/image_1204765995_cop.coreimg.jpeg/1688762779188/creditreport-01.jpeg' alt='How to Read a Credit Report for Landlord Tenant Screening | SmartMove'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="818">
+                                <meta itemprop="height" content="983">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TransUnion SmartMove" />
+                                </span>
+                                <a href='https://www.mysmartmove.com/blog/how-to-read-credit-report-for-landlords/_jcr_content/root/pagesection_132356844/columnrow/item_1682370731956/contentcontainer/image_1204765995_cop.coreimg.jpeg/1688762779188/creditreport-01.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Do a Criminal Background Check on Tenants | SmartMove">
+                                <img itemprop="contentUrl url" src='https://www.mysmartmove.com/blog/what-means-conduct-tenant-criminal-background-check/_jcr_content/root/pagesection_132356844/columnrow/item_1682370731956/contentcontainer/image_680378397.coreimg.png/1688590878086/what-means-image-3.png' alt='How to Do a Criminal Background Check on Tenants | SmartMove'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="819">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TransUnion SmartMove" />
+                                </span>
+                                <a href='https://www.mysmartmove.com/blog/what-means-conduct-tenant-criminal-background-check/_jcr_content/root/pagesection_132356844/columnrow/item_1682370731956/contentcontainer/image_680378397.coreimg.png/1688590878086/what-means-image-3.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SmartMove Tenant Screening Report – Dispute False Info or Errors">
+                                <img itemprop="contentUrl url" src='https://lemberglaw.com/wp-content/uploads/2018/06/tenant-screening-report-background-check-error-dispute-lawyer.png' alt='SmartMove Tenant Screening Report – Dispute False Info or Errors'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemberg Law" />
+                                </span>
+                                <a href='https://lemberglaw.com/wp-content/uploads/2018/06/tenant-screening-report-background-check-error-dispute-lawyer.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Does A TransUnion SmartMove Report Show? – Landlord Studio">
+                                <img itemprop="contentUrl url" src='https://www.mysmartmove.com/content/dam/smartmove/content/sample-criminal-report.jpg' alt='What Does A TransUnion SmartMove Report Show? – Landlord Studio'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1442">
+                                <meta itemprop="height" content="2806">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Landlord Studio" />
+                                </span>
+                                <a href='https://www.mysmartmove.com/content/dam/smartmove/content/sample-criminal-report.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11 Tenant Background Check Service Reviews [Definitive List for 2020]">
+                                <img itemprop="contentUrl url" src='https://rentprep.com/wp-content/uploads/2016/12/Tenant-background-check.png' alt='11 Tenant Background Check Service Reviews [Definitive List for 2020]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="746">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RentPrep" />
+                                </span>
+                                <a href='https://rentprep.com/wp-content/uploads/2016/12/Tenant-background-check.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What's Included In Tenant Background Checks? | SmartMove">
+                                <img itemprop="contentUrl url" src='https://www.mysmartmove.com/content/dam/smartmove/blog/feature/00-msm-longform-what-does-a-rental-background-check-consist-of-hero.png' alt='What's Included In Tenant Background Checks? | SmartMove'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TransUnion SmartMove" />
+                                </span>
+                                <a href='https://www.mysmartmove.com/content/dam/smartmove/blog/feature/00-msm-longform-what-does-a-rental-background-check-consist-of-hero.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

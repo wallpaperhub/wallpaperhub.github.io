@@ -1,0 +1,129 @@
+<title>Cross Country Running: Embrace the Challenge!</title>
+                    <meta name="description" content="Explore the thrilling world of cross country running! Discover the beauty of diverse terrains, build endurance, and join a community of passionate athletes. Perfect for beginners and seasoned runners alike, this sport combines physical strength with nature's stunning landscapes. Start your adventure today!">
+                    <meta name="keywords" content="cross country image">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cross-country-image">
+                            <span itemprop="name">cross country image</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cross Country Running: Embrace the Challenge!</h1>
+                <p>Cross country running captures the essence of endurance and adventure. With diverse landscapes as backdrops, athletes traverse fields, woods, and hills, showcasing their mental and physical strength. Each race is a test of grit, camaraderie, and the drive to conquer the course. Experience the thrill of presence in nature!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cross Country Logo Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/029/786/075/non_2x/xc-cc-cross-country-t-shirt-design-vector.jpg' alt='Cross Country Logo Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/029/786/075/non_2x/xc-cc-cross-country-t-shirt-design-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2023 USATF Cross-Country Championships - Results and Highlights">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/kurgat-ednah-usacross23-1674341529.jpg' alt='2023 USATF Cross-Country Championships - Results and Highlights'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Runner's World" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/kurgat-ednah-usacross23-1674341529.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cross Country Running Strengthens More Than Just Body – The Wildcat">
+                                <img itemprop="contentUrl url" src='https://breaolindawildcat.com/wp-content/uploads/2024/09/Image_20240920_190748_829.jpeg' alt='Cross Country Running Strengthens More Than Just Body – The Wildcat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2001">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Wildcat" />
+                                </span>
+                                <a href='https://breaolindawildcat.com/wp-content/uploads/2024/09/Image_20240920_190748_829.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cross Country XC Symbol - 2 Inch Vinyl Decal Window Sticker - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11631326/r/il/998fa6/1338086653/il_fullxfull.1338086653_l616.jpg' alt='Cross Country XC Symbol - 2 Inch Vinyl Decal Window Sticker - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1001">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11631326/r/il/998fa6/1338086653/il_fullxfull.1338086653_l616.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cross Country | USA Track & Field">
+                                <img itemprop="contentUrl url" src='https://images.usatf.org/USATF/media/USATF/Banners-Advertisements/Cross-Country-1.jpg?&quality=65&cache=1.2.25&sourceDomain=https://www.usatf.org' alt='Cross Country | USA Track & Field'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4052">
+                                <meta itemprop="height" content="2026">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USA Track & Field" />
+                                </span>
+                                <a href='https://images.usatf.org/USATF/media/USATF/Banners-Advertisements/Cross-Country-1.jpg?&quality=65&cache=1.2.25&sourceDomain=https://www.usatf.org' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Men's Cross Country - Augsburg University Athletics">
+                                <img itemprop="contentUrl url" src='https://athletics.augsburg.edu/images/2024/11/18/111524-bati-1.jpg?width=1128&height=635&mode=crop' alt='Men's Cross Country - Augsburg University Athletics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1128">
+                                <meta itemprop="height" content="635">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Augsburg Athletic - Augsburg University" />
+                                </span>
+                                <a href='https://athletics.augsburg.edu/images/2024/11/18/111524-bati-1.jpg?width=1128&height=635&mode=crop' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="280+ Cross Country Logo Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1319600301/vector/the-letters-xc-in-a-running-winged-foot-logo.jpg?s=612x612&w=0&k=20&c=P6TN4JpbXLhm6jbY6L9xtvXNeMM5Fbcpa7U63sIFJ-0=' alt='280+ Cross Country Logo Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="503">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1319600301/vector/the-letters-xc-in-a-running-winged-foot-logo.jpg?s=612x612&w=0&k=20&c=P6TN4JpbXLhm6jbY6L9xtvXNeMM5Fbcpa7U63sIFJ-0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Benefits of Cross Country Training for All Runners | TrainingPeaks">
+                                <img itemprop="contentUrl url" src='https://wpassets.trainingpeaks.com/wp-content/uploads/2017/01/13051955/Blog-Main-700x394-cross-country.jpgwidth700height394ext.jpg' alt='The Benefits of Cross Country Training for All Runners | TrainingPeaks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="394">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TrainingPeaks" />
+                                </span>
+                                <a href='https://wpassets.trainingpeaks.com/wp-content/uploads/2017/01/13051955/Blog-Main-700x394-cross-country.jpgwidth700height394ext.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Men's Cross Country - Denison University">
+                                <img itemprop="contentUrl url" src='https://denisonbigred.com/images/2024/11/3/Bertman_Nathan_110324_DaUKs.jpg?width=540&height=304&mode=crop&scale=both&format=jpg&quality=80' alt='Men's Cross Country - Denison University'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Denison University" />
+                                </span>
+                                <a href='https://denisonbigred.com/images/2024/11/3/Bertman_Nathan_110324_DaUKs.jpg?width=540&height=304&mode=crop&scale=both&format=jpg&quality=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The State Of NCAA Cross Country Heading Into Postseason - CITIUS Mag">
+                                <img itemprop="contentUrl url" src='https://cdn.sanity.io/images/bpfwm1du/production/bd61a4dc56f8b58204afde3531ed24cb1fb7f8d8-2400x1260.jpg' alt='The State Of NCAA Cross Country Heading Into Postseason - CITIUS Mag'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Citius Mag" />
+                                </span>
+                                <a href='https://cdn.sanity.io/images/bpfwm1du/production/bd61a4dc56f8b58204afde3531ed24cb1fb7f8d8-2400x1260.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

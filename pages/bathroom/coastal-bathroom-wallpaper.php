@@ -1,0 +1,129 @@
+<title>Coastal Bathroom Wallpaper: Transform Your Space</title>
+                    <meta name="description" content="Discover the charm of coastal bathroom wallpaper to elevate your space. From tranquil ocean scenes to playful nautical designs, our collection adds a soothing touch to your bathroom decor, making it a perfect seaside sanctuary. Create a refreshing vibe with ease!">
+                    <meta name="keywords" content="coastal bathroom wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom">
+                            <span itemprop="name">Bathroom</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom/coastal-bathroom-wallpaper">
+                            <span itemprop="name">coastal bathroom wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Coastal Bathroom Wallpaper: Transform Your Space</h1>
+                <p>Transform your bathroom into a coastal retreat with stunning wallpaper that evokes the serene beauty of the seaside. Choose from designs featuring ocean waves, sandy shores, or vibrant marine life to create a calming and refreshing atmosphere. Perfect for bringing a touch of oceanic charm to your home!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coastal Bathroom Wallpaper - Life On Virginia Street">
+                                <img itemprop="contentUrl url" src='https://lifeonvirginiastreet.com/wp-content/uploads/2024/09/palm-bathroom.jpg' alt='Coastal Bathroom Wallpaper - Life On Virginia Street'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Life On Virginia Street" />
+                                </span>
+                                <a href='https://lifeonvirginiastreet.com/wp-content/uploads/2024/09/palm-bathroom.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Palm Silhouette Coastal Prepasted Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.sayhomedecor.com/cdn/shop/products/PR11402-B_2000x2000.jpg?v=1673149327' alt='Palm Silhouette Coastal Prepasted Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1207">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Say Decor" />
+                                </span>
+                                <a href='https://www.sayhomedecor.com/cdn/shop/products/PR11402-B_2000x2000.jpg?v=1673149327' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coastal Marine Fish Peel and Stick Wallpaper | Tempaper & Co.">
+                                <img itemprop="contentUrl url" src='https://tempaper.com/cdn/shop/files/MF15242-ocean-spray-marine-fish-peel-and-stick-wallpaper-bath-room_1800x1800.jpg?v=1724787933' alt='Coastal Marine Fish Peel and Stick Wallpaper | Tempaper & Co.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='https://tempaper.com/cdn/shop/files/MF15242-ocean-spray-marine-fish-peel-and-stick-wallpaper-bath-room_1800x1800.jpg?v=1724787933' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coral Wallpaper, Marine, Sea Wall Mural, Coastal Decor, Removable /  Traditional 179 - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17193926/r/il/f1c53b/1843432553/il_1080xN.1843432553_q0rc.jpg' alt='Coral Wallpaper, Marine, Sea Wall Mural, Coastal Decor, Removable /  Traditional 179 - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1426">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17193926/r/il/f1c53b/1843432553/il_1080xN.1843432553_q0rc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coastal Bathroom Wallpaper ideas | Milola Design">
+                                <img itemprop="contentUrl url" src='https://miloladesign.com/cdn/shop/articles/Coastal_design_bathroom_wallpaper_dc66937a-9a46-457b-b0f3-794ecc8508b1.jpg?v=1718193049&width=1600' alt='Coastal Bathroom Wallpaper ideas | Milola Design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milola Design" />
+                                </span>
+                                <a href='https://miloladesign.com/cdn/shop/articles/Coastal_design_bathroom_wallpaper_dc66937a-9a46-457b-b0f3-794ecc8508b1.jpg?v=1718193049&width=1600' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Bird Wallpaper Grey Wallpaper Blue Wallpaper Beach ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/19440758/r/il/d34baf/3633673382/il_570xN.3633673382_jbda.jpg' alt='Wallpaper Bird Wallpaper Grey Wallpaper Blue Wallpaper Beach ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/19440758/r/il/d34baf/3633673382/il_570xN.3633673382_jbda.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coastal Wallpaper: Peel and Stick and Traditional Options ...">
+                                <img itemprop="contentUrl url" src='http://newportlaneblog.com/wp-content/uploads/2020/09/EDBF2F3F-EFE0-4BE3-AA26-0EA9F0AE6927.jpg' alt='Coastal Wallpaper: Peel and Stick and Traditional Options ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Newport Lane" />
+                                </span>
+                                <a href='http://newportlaneblog.com/wp-content/uploads/2020/09/EDBF2F3F-EFE0-4BE3-AA26-0EA9F0AE6927.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chart Your Way To A Classic Coastal Bathroom - Molly in Maine">
+                                <img itemprop="contentUrl url" src='https://mollyinmaine.com/wp-content/uploads/2022/10/Classic-Coastal-Bathroom.jpg' alt='Chart Your Way To A Classic Coastal Bathroom - Molly in Maine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Molly in Maine" />
+                                </span>
+                                <a href='https://mollyinmaine.com/wp-content/uploads/2022/10/Classic-Coastal-Bathroom.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paradise Palm Coastal Prepasted Wallpaper - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81Lzff4-c9L.jpg' alt='Paradise Palm Coastal Prepasted Wallpaper - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1773">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81Lzff4-c9L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 Coastal Bathroom Ideas: Calming Beach-Themed Bathrooms">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/chenault-james-interiors-049-662bf279295a3.jpg?crop=0.8333333333333334xw:1xh;center,top&resize=980:*' alt='20 Coastal Bathroom Ideas: Calming Beach-Themed Bathrooms'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="1470">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="House Beautiful" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/chenault-james-interiors-049-662bf279295a3.jpg?crop=0.8333333333333334xw:1xh;center,top&resize=980:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

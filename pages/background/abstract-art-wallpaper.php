@@ -1,0 +1,129 @@
+<title>Vibrant Abstract Art Wallpaper for a Modern Look</title>
+                    <meta name="description" content="Discover our vibrant abstract art wallpaper collection that brings modern elegance to any space. Perfect for home or office, these unique designs enhance creativity and inspire an artistic atmosphere. Shop now to transform your walls into a canvas of color and style!">
+                    <meta name="keywords" content="abstract art wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/abstract-art-wallpaper">
+                            <span itemprop="name">abstract art wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Abstract Art Wallpaper for a Modern Look</h1>
+                <p>Transform your space with stunning abstract art wallpaper that captivates the senses. These unique designs blend colors and shapes, offering a modern aesthetic for any room. Ideal for enhancing your home or office, abstract wallpaper invites creativity and inspiration, making it the perfect choice for art lovers.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract wallpapers for your wall ➡️ Choose from 1200+ mural designs">
+                                <img itemprop="contentUrl url" src='https://cdn.sanity.io/images/e4vlsgz7/wallpaper-production/4cd35d65610cb801f9fbffac5ab921ed5d0d57fd-3000x1609.jpg' alt='Abstract wallpapers for your wall ➡️ Choose from 1200+ mural designs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1609">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallism" />
+                                </span>
+                                <a href='https://cdn.sanity.io/images/e4vlsgz7/wallpaper-production/4cd35d65610cb801f9fbffac5ab921ed5d0d57fd-3000x1609.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor Rainbow Abstraction Wall Art Mural & Abstract Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/23049683/r/il/589f53/4749121057/il_570xN.4749121057_mh0m.jpg' alt='Watercolor Rainbow Abstraction Wall Art Mural & Abstract Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/23049683/r/il/589f53/4749121057/il_570xN.4749121057_mh0m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marbling Dark Abstract Art Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/marbling-dark-abstract-art-5oxb7fib037m8etk.jpg' alt='Marbling Dark Abstract Art Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/marbling-dark-abstract-art-5oxb7fib037m8etk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Clouds Abstract Art Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/clouds-abstract-art-44wr4gb3kjsufj9x.jpg' alt='Clouds Abstract Art Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/clouds-abstract-art-44wr4gb3kjsufj9x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Post- Hillary Butler Fine Art">
+                                <img itemprop="contentUrl url" src='http://static1.squarespace.com/static/579f870fe4fcb57c8589a1c4/t/5c998224c8302589f7aef44b/1553564277755/free.phone.Wallpaper.hillary.butler.abstract.art.jpg?format=1500w' alt='Post- Hillary Butler Fine Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Post- Hillary Butler Fine Art" />
+                                </span>
+                                <a href='http://static1.squarespace.com/static/579f870fe4fcb57c8589a1c4/t/5c998224c8302589f7aef44b/1553564277755/free.phone.Wallpaper.hillary.butler.abstract.art.jpg?format=1500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Art Marble Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://img.wallmur.net/@wmp/_826ax660/s/s/ss1894016554-1_1.jpg' alt='Abstract Art Marble Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="664">
+                                <meta itemprop="height" content="660">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://img.wallmur.net/@wmp/_826ax660/s/s/ss1894016554-1_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Wallpapers Vibrant Spectrum Abstract Art, Energy-saving ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/39342770/r/il/a6dfb3/5950831955/il_fullxfull.5950831955_3grw.jpg' alt='Phone Wallpapers Vibrant Spectrum Abstract Art, Energy-saving ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1396">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/39342770/r/il/a6dfb3/5950831955/il_fullxfull.5950831955_3grw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VistaPalette Colorful Abstract Fashion Oil Painting Mural Peel and Stick  Wall Art Wallpaper Self Adhesive Removable Mural Large Foil Wall Decor  Print ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81esKPPEJWL.jpg' alt='VistaPalette Colorful Abstract Fashion Oil Painting Mural Peel and Stick  Wall Art Wallpaper Self Adhesive Removable Mural Large Foil Wall Decor  Print ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81esKPPEJWL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Wallpaper | Wallmur • Wallmur®">
+                                <img itemprop="contentUrl url" src='https://img.wallmur.net/@wmp/_480x480/o/z/oz000019_style1_1_1.jpg' alt='Abstract Wallpaper | Wallmur • Wallmur®'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://img.wallmur.net/@wmp/_480x480/o/z/oz000019_style1_1_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7b/00/bc/7b00bcd75381ca355a7870e50d57d650.jpg' alt='Abstract Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7b/00/bc/7b00bcd75381ca355a7870e50d57d650.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

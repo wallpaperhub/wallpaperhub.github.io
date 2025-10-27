@@ -1,0 +1,129 @@
+<title>Cute Basketball Wallpapers for Your Devices</title>
+                    <meta name="description" content="Explore a collection of cute basketball wallpapers that brighten your screens! Perfect for sports enthusiasts and fans of playful designs, these wallpapers showcase charming basketball themes to bring joy and style to your devices. Download your favorites today!">
+                    <meta name="keywords" content="cute basketball wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-basketball-wallpaper">
+                            <span itemprop="name">cute basketball wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cute Basketball Wallpapers for Your Devices</h1>
+                <p>Transform your device with adorable basketball wallpapers! Featuring playful designs of cute basketballs dribbling, shooting hoops, and posing with friendly characters, these wallpapers bring a fun twist to your screens. Perfect for sports lovers and those who appreciate vibrant, joyful aesthetics. Discover your favorite look!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5f/82/f7/5f82f7f0676298fb0c22f70c24f2b67d.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5f/82/f7/5f82f7f0676298fb0c22f70c24f2b67d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Basketball Wallpaper / Lock Screen Backgrounds">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3e/1a/95/3e1a95f738b9ede5e4af8a9c11f65e9f.jpg' alt='Basketball Wallpaper / Lock Screen Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3e/1a/95/3e1a95f738b9ede5e4af8a9c11f65e9f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="37,340 Basketball Wallpapers Royalty-Free Images, Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/basketball-balls-hoop-seamless-pattern-600nw-2390500959.jpg' alt='37,340 Basketball Wallpapers Royalty-Free Images, Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/basketball-balls-hoop-seamless-pattern-600nw-2390500959.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="basketball wallpaper | Gallery posted by allie     | Lemon8">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7336617352261714438&index=0&sign=31dabb60cbd27206111423fd3d1a0e62' alt='basketball wallpaper | Gallery posted by allie     | Lemon8'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1198">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7336617352261714438&index=0&sign=31dabb60cbd27206111423fd3d1a0e62' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I love basketball">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ba/88/2a/ba882a26d57843f72c5d81a23152653f.jpg' alt='I love basketball'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ba/88/2a/ba882a26d57843f72c5d81a23152653f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Basketball Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/15448980/p/f/m/C2dk2ZXv3DzDec5QgbuOxMVIYEBpzoANISJ4WFPLvBsLdwu548ro6MjCzA/vintage%20basketball%20-%20blush.jpg' alt='Cute Basketball Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/15448980/p/f/m/C2dk2ZXv3DzDec5QgbuOxMVIYEBpzoANISJ4WFPLvBsLdwu548ro6MjCzA/vintage%20basketball%20-%20blush.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Basketball Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp10811618.jpg' alt='Cute Basketball Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp10811618.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Basketball Cute Wallpaper For Phone">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/phone/images/download/basketball.png' alt='Basketball Cute Wallpaper For Phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/phone/images/download/basketball.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Basketball cartoon pattern background design">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/basketball-cartoon-pattern-background-design_24529-2156.jpg?w=360' alt='Premium Vector | Basketball cartoon pattern background design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/basketball-cartoon-pattern-background-design_24529-2156.jpg?w=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Basketball wallpapers | Gallery posted by Paislie Murray | Lemon8">
+                                <img itemprop="contentUrl url" src='https://p16-va.lemon8cdn.com/tos-maliva-v-ac5634-us/oMRGCf8MSIbGbYMreeAcBQ7PAEtHmQWAWAApQg~tplv-tej9nj120t-origin.webp' alt='Basketball wallpapers | Gallery posted by Paislie Murray | Lemon8'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="902">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://p16-va.lemon8cdn.com/tos-maliva-v-ac5634-us/oMRGCf8MSIbGbYMreeAcBQ7PAEtHmQWAWAApQg~tplv-tej9nj120t-origin.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

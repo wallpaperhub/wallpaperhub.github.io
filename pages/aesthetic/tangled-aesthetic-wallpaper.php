@@ -1,0 +1,129 @@
+<title>Enchanting Tangled Aesthetic Wallpaper for Your Space</title>
+                    <meta name="description" content="Discover the beauty of tangled aesthetic wallpaper, blending whimsical designs and vibrant colors. Perfect for adding a unique touch to any room, these wallpapers transform your space into a dreamy haven. Explore various styles that reflect your personality and create an inspiring atmosphere.">
+                    <meta name="keywords" content="tangled aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/tangled-aesthetic-wallpaper">
+                            <span itemprop="name">tangled aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enchanting Tangled Aesthetic Wallpaper for Your Space</h1>
+                <p>Transform your space with tangled aesthetic wallpaper, where whimsical patterns intertwine to create a dreamy atmosphere. Perfect for those who appreciate bohemian vibes, these wallpapers feature intricate designs that play with color and texture, adding depth to any room. Embrace the tangled aesthetic and let your walls tell a beautiful story.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tangled lanterns concept art">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/77/50/d6/7750d6995d918879e99fa3bcd29a1a4a.jpg' alt='Tangled lanterns concept art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/77/50/d6/7750d6995d918879e99fa3bcd29a1a4a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney wallpaper, tangled aesthetic, tangled wallpaper, rapunzel ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/89/ed/3a/89ed3a5d5617520c84749ad38ad820e5.jpg' alt='Disney wallpaper, tangled aesthetic, tangled wallpaper, rapunzel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/89/ed/3a/89ed3a5d5617520c84749ad38ad820e5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="bee :) — REQUEST: Rapunzel Wallpapers!">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/8cd784a19e4a6c5bb41bedc0d44fb95b/5a40b5fb8009572e-0b/s640x960/c42bf1741dcbfdcf1befd07299cc74f98e37cedb.jpg' alt='bee :) — REQUEST: Rapunzel Wallpapers!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="@bee-tries-editing on Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/8cd784a19e4a6c5bb41bedc0d44fb95b/5a40b5fb8009572e-0b/s640x960/c42bf1741dcbfdcf1befd07299cc74f98e37cedb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tangled Collage Aesthetic Cartoon Disney Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/tangled-collage-aesthetic-cartoon-disney-1w19nh4caa7muh62.jpg' alt='Tangled Collage Aesthetic Cartoon Disney Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1328">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/tangled-collage-aesthetic-cartoon-disney-1w19nh4caa7muh62.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tangled Wallpapers (43 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/5/8/9/180857-1080x1920-samsung-1080p-tangled-wallpaper-photo.jpg' alt='Tangled Wallpapers (43 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/5/8/9/180857-1080x1920-samsung-1080p-tangled-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tangled aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/73/98/e2/7398e25ba72a3de55035b8991c4962bc.jpg' alt='Tangled aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/73/98/e2/7398e25ba72a3de55035b8991c4962bc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/58/12/67/581267369831e450b9fe71d517fe513b.jpg' alt='Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="711">
+                                <meta itemprop="height" content="1389">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/58/12/67/581267369831e450b9fe71d517fe513b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rapunzel!    Have a warm weekend everyone!    #rapunzel #tangled ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2801960974452504277' alt='Rapunzel!    Have a warm weekend everyone!    #rapunzel #tangled ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1029">
+                                <meta itemprop="height" content="1288">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2801960974452504277' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check out lydiwyatt03's Shuffles #tangled #movie #wallpaper #music ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/74/e6/9f/74e69f6d32615e450cd8a541ab5f550c.jpg' alt='Check out lydiwyatt03's Shuffles #tangled #movie #wallpaper #music ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shuffles" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/74/e6/9f/74e69f6d32615e450cd8a541ab5f550c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tangled Flynn And Rapunzel Painting Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/tangled-flynn-and-rapunzel-painting-mosahetcxvqqv37m.jpg' alt='Tangled Flynn And Rapunzel Painting Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/tangled-flynn-and-rapunzel-painting-mosahetcxvqqv37m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

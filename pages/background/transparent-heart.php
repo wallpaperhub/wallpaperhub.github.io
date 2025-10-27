@@ -1,0 +1,129 @@
+<title>Transparent Heart: Embrace Authenticity</title>
+                    <meta name="description" content="Discover the essence of a transparent heart. Embrace authenticity and build genuine connections. Learn how openness and honesty can transform your relationships and foster trust. Unlock the power of vulnerability and start nurturing deeper bonds today!">
+                    <meta name="keywords" content="transparent heart">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/transparent-heart">
+                            <span itemprop="name">transparent heart</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transparent Heart: Embrace Authenticity</h1>
+                <p>A transparent heart symbolizes purity, honesty, and openness in relationships. It encourages vulnerability and genuine emotional expression, fostering deeper connections. Embracing a transparent heart can lead to healthier interactions, promoting trust and reducing misunderstandings. This concept inspires individuals to show their true selves without fear.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Black Outline Heart PNG | Citypng">
+                                <img itemprop="contentUrl url" src='https://www.citypng.com/public/uploads/preview/hd-black-outline-heart-png-704081694955847yujep9jnxk.png' alt='HD Black Outline Heart PNG | Citypng'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CityPNG" />
+                                </span>
+                                <a href='https://www.citypng.com/public/uploads/preview/hd-black-outline-heart-png-704081694955847yujep9jnxk.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Transparent Heart Clipart in Illustrator, SVG, JPG, EPS, PNG ...">
+                                <img itemprop="contentUrl url" src='https://images.template.net/74370/Free-Pink-Transparent-Heart-Clipart-1.jpg' alt='Pink Transparent Heart Clipart in Illustrator, SVG, JPG, EPS, PNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template.net" />
+                                </span>
+                                <a href='https://images.template.net/74370/Free-Pink-Transparent-Heart-Clipart-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Transparent Heart PNG Transparent Images Free Download | Vector ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20220428/ourmid/pngtree-smooth-glossy-heart-vector-file-ai-and-png-png-image_4557871.png' alt='Transparent Heart PNG Transparent Images Free Download | Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20220428/ourmid/pngtree-smooth-glossy-heart-vector-file-ai-and-png-png-image_4557871.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Transparent Heart Outline PNGs for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/018/717/840/small_2x/heart-shape-outline-on-transparent-background-free-png.png' alt='Transparent Heart Outline PNGs for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/018/717/840/small_2x/heart-shape-outline-on-transparent-background-free-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Love or Heart transparent.png - Wikimedia Commons">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Love_or_Heart_transparent.png/1200px-Love_or_Heart_transparent.png' alt='File:Love or Heart transparent.png - Wikimedia Commons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1093">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikimedia Commons" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Love_or_Heart_transparent.png/1200px-Love_or_Heart_transparent.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Transparent Heart PNG Image​ | Gallery Yopriceville - High-Quality ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/downloadfullsize/send/24402' alt='Transparent Heart PNG Image​ | Gallery Yopriceville - High-Quality ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="8000">
+                                <meta itemprop="height" content="7031">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/downloadfullsize/send/24402' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Heart Clipart No Background - Transparent Background Heart ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/38/2b/c7/382bc79ff37be502ac3bd2b32559f1ba.jpg' alt='Pink Heart Clipart No Background - Transparent Background Heart ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="785">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/38/2b/c7/382bc79ff37be502ac3bd2b32559f1ba.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Heart Symbol on Transparent Background 18868329 PNG">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/018/868/329/non_2x/red-heart-symbol-on-transparent-background-free-png.png' alt='Red Heart Symbol on Transparent Background 18868329 PNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/018/868/329/non_2x/red-heart-symbol-on-transparent-background-free-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12,500+ Heart Transparent Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1182472970/vector/red-heart-sign-isolated-on-transparent-background-valentines-day-icon-hand-drawn-heart-shape.jpg?s=612x612&w=0&k=20&c=ZbzqqSjwkthlELr35fgYUad-drRcSKPUF7zMx0e3rEE=' alt='12,500+ Heart Transparent Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="517">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1182472970/vector/red-heart-sign-isolated-on-transparent-background-valentines-day-icon-hand-drawn-heart-shape.jpg?s=612x612&w=0&k=20&c=ZbzqqSjwkthlELr35fgYUad-drRcSKPUF7zMx0e3rEE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart Shape Transparent Images – Browse 193,765 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/09/59/20/14/360_F_959201447_04i1hYVZcjFd8STGuzmtgSLAzTAZdJOr.jpg' alt='Heart Shape Transparent Images – Browse 193,765 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/09/59/20/14/360_F_959201447_04i1hYVZcjFd8STGuzmtgSLAzTAZdJOr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

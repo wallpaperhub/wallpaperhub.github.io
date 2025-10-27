@@ -1,0 +1,129 @@
+<title>Grunge Heart Aesthetic Wallpaper: Edgy & Stylish Backgrounds</title>
+                    <meta name="description" content="Explore our collection of grunge heart aesthetic wallpaper! Discover stylish and edgy designs that personalize your screens. Perfect for lovers of unique art, these wallpapers combine romance with a gritty vibe. Download your favorite heart designs today for a fresh look on your devices!">
+                    <meta name="keywords" content="grunge heart aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart">
+                            <span itemprop="name">Heart</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart/grunge-heart-aesthetic-wallpaper">
+                            <span itemprop="name">grunge heart aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Grunge Heart Aesthetic Wallpaper: Edgy & Stylish Backgrounds</h1>
+                <p>Transform your digital spaces with grunge heart aesthetic wallpaper! Perfect for those who crave a blend of edgy and romantic vibes, this wallpaper showcases textured hearts, distressed patterns, and dark colors. Elevate your screens with a unique aesthetic that reflects your individuality and adds depth to any device.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/35/ae/61/35ae613cc65c0defb607133752981e12.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="1260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/35/ae/61/35ae613cc65c0defb607133752981e12.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seamless Grunge Heart Background Wallpaper Stock Photo, Picture ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/songdog/songdog1209/songdog120900128/15436807-seamless-grunge-heart-background-wallpaper.jpg' alt='Seamless Grunge Heart Background Wallpaper Stock Photo, Picture ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/songdog/songdog1209/songdog120900128/15436807-seamless-grunge-heart-background-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grunge Aesthetic Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/39/ad/ed/39aded7f319beda6d381e0ba07c7430f.jpg' alt='Grunge Aesthetic Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/39/ad/ed/39aded7f319beda6d381e0ba07c7430f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goth wallpaper ♡">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ab/50/bd/ab50bdc81c661074978a2455635bb2b1.jpg' alt='Goth wallpaper ♡'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ab/50/bd/ab50bdc81c661074978a2455635bb2b1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and white aesthetic heart wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a1/f6/34/a1f634cd115ca7e4f319029c29be972c.jpg' alt='Black and white aesthetic heart wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="716">
+                                <meta itemprop="height" content="976">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a1/f6/34/a1f634cd115ca7e4f319029c29be972c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD grunge hearts love wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/773/312/HD-wallpaper-heart-of-darkness-amoled-dark-grunge-love-minimal-valentines.jpg' alt='HD grunge hearts love wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1455">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/773/312/HD-wallpaper-heart-of-darkness-amoled-dark-grunge-love-minimal-valentines.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sweet Love, candy, grunge, heart, red, sketch, valentine, vintage ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/144/69/HD-wallpaper-sweet-love-candy-grunge-heart-red-sketch-valentine-vintage-thumbnail.jpg' alt='Sweet Love, candy, grunge, heart, red, sketch, valentine, vintage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="695">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/144/69/HD-wallpaper-sweet-love-candy-grunge-heart-red-sketch-valentine-vintage-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="heart . black grunge aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/da/52/4c/da524c5bebd5d546dbbf21e7353408d9.jpg' alt='heart . black grunge aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/da/52/4c/da524c5bebd5d546dbbf21e7353408d9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grunge Red And Black Heart Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/grunge-red-and-black-heart-aesthetic-rohhfeqaupkynzx3.jpg' alt='Grunge Red And Black Heart Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/grunge-red-and-black-heart-aesthetic-rohhfeqaupkynzx3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD grunge hearts love wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/850/338/HD-wallpaper-i-heart-you-goth-grunge-hate-humor-love-pink-punk-sarcasm-sarcastic-weird-thumbnail.jpg' alt='HD grunge hearts love wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/850/338/HD-wallpaper-i-heart-you-goth-grunge-hate-humor-love-pink-punk-sarcasm-sarcastic-weird-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

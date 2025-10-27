@@ -1,0 +1,129 @@
+<title>Inspiring Bible Quotes for Lock Screen Wallpapers</title>
+                    <meta name="description" content="Discover a collection of uplifting Bible quotes perfect for your lock screen! Enhance your daily inspiration with beautiful wallpapers that remind you of faith, hope, and love. Perfect for any believer looking to enrich their mobile experience with divine wisdom.">
+                    <meta name="keywords" content="bible quotes lock screen wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/bible-quotes-lock-screen-wallpaper">
+                            <span itemprop="name">bible quotes lock screen wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Inspiring Bible Quotes for Lock Screen Wallpapers</h1>
+                <p>Transform your lock screen with inspiring Bible quotes! These powerful verses can uplift your spirit and keep you motivated throughout the day. Choose wallpapers that resonate with your faith and serve as daily reminders of hope, love, and strength. Personalize your device while spreading positivity wherever you go!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bible Verse Phone Wallpaper | Phone Lock Screen | Digital Download - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/33972204/r/il/db7ee9/3731829963/il_1080xN.3731829963_hqft.jpg' alt='Bible Verse Phone Wallpaper | Phone Lock Screen | Digital Download - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/33972204/r/il/db7ee9/3731829963/il_1080xN.3731829963_hqft.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bible Verse Phone Wallpaper | Phone Lock Screen | Digital Download - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/33972204/r/il/e9fcd9/3684075574/il_1080xN.3684075574_d2ht.jpg' alt='Bible Verse Phone Wallpaper | Phone Lock Screen | Digital Download - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/33972204/r/il/e9fcd9/3684075574/il_1080xN.3684075574_d2ht.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lockscreens - YMI">
+                                <img itemprop="contentUrl url" src='https://ymi.today/wp-content/uploads/2022/01/02-Feb-22-Lockscreen.jpg' alt='Lockscreens - YMI'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YMI" />
+                                </span>
+                                <a href='https://ymi.today/wp-content/uploads/2022/01/02-Feb-22-Lockscreen.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sojourn Lock Screen - Day 12">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f0/c3/d7/f0c3d79489ac113e6e173a92c0576583.jpg' alt='Sojourn Lock Screen - Day 12'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f0/c3/d7/f0c3d79489ac113e6e173a92c0576583.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iphone wallpaper Archives - Believers4ever.com">
+                                <img itemprop="contentUrl url" src='https://believers4ever.com/wp-content/uploads/2020/02/The-steadfast-love-mobile-v2.jpg' alt='iphone wallpaper Archives - Believers4ever.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Believers4ever.com" />
+                                </span>
+                                <a href='https://believers4ever.com/wp-content/uploads/2020/02/The-steadfast-love-mobile-v2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="97 Scripture Lockscreen Wallpaper ideas | bible verses phone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/f6/37/f1/f637f1ea37652d7973871db09b742bf0.jpg' alt='97 Scripture Lockscreen Wallpaper ideas | bible verses phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1039">
+                                <meta itemprop="height" content="2047">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/f6/37/f1/f637f1ea37652d7973871db09b742bf0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 amazing Bible verse wallpapers for free | Biblejar.com">
+                                <img itemprop="contentUrl url" src='https://biblejar.com/images/blog/wallpapers/bible-verse-wallpapers-03.jpg' alt='15 amazing Bible verse wallpapers for free | Biblejar.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="780">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bible Verses" />
+                                </span>
+                                <a href='https://biblejar.com/images/blog/wallpapers/bible-verse-wallpapers-03.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lockscreens - YMI">
+                                <img itemprop="contentUrl url" src='https://ymi.today/wp-content/uploads/2016/08/Apr_Lockscreen_2020_2.jpg' alt='Lockscreens - YMI'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YMI" />
+                                </span>
+                                <a href='https://ymi.today/wp-content/uploads/2016/08/Apr_Lockscreen_2020_2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Love Lock Screen Wallpapers - Freebie Friday - Ashley Eddleman ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/ashleyeddleman.com/wp-content/uploads/2020/02/0F2F3FA4-4A48-40B6-8FFA-2234B5E441A2.png?resize=828%2C1792&ssl=1' alt='Love Lock Screen Wallpapers - Freebie Friday - Ashley Eddleman ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ashley Eddleman" />
+                                </span>
+                                <a href='https://i0.wp.com/ashleyeddleman.com/wp-content/uploads/2020/02/0F2F3FA4-4A48-40B6-8FFA-2234B5E441A2.png?resize=828%2C1792&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper - scriptures.blog">
+                                <img itemprop="contentUrl url" src='https://scriptures.blog/wp-content/uploads/2024/08/i-can-do-all-things-wallpaper-2.jpg' alt='Wallpaper - scriptures.blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scriptures.blog" />
+                                </span>
+                                <a href='https://scriptures.blog/wp-content/uploads/2024/08/i-can-do-all-things-wallpaper-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

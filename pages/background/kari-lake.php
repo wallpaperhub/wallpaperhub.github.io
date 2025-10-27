@@ -1,0 +1,129 @@
+<title>Discover the Beauty of Kari Lake</title>
+                    <meta name="description" content="Explore Kari Lake, a picturesque gem of the Pacific Northwest. Ideal for outdoor activities like fishing and hiking, this tranquil spot offers stunning views and abundant wildlife. Visit now for a perfect blend of adventure and relaxation!">
+                    <meta name="keywords" content="kari lake">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/kari-lake">
+                            <span itemprop="name">kari lake</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Beauty of Kari Lake</h1>
+                <p>Kari Lake is a stunning natural attraction located in the vibrant landscapes of the Pacific Northwest. Known for its serene waters and lush surroundings, it's a perfect spot for fishing, kayaking, and hiking. Visitors often enjoy picturesque sunsets and abundant wildlife, making it a must-see destination for nature lovers.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kari Lake - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/4/4a/Kari_Lake_by_Gage_Skidmore_4.jpg' alt='Kari Lake - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1805">
+                                <meta itemprop="height" content="2205">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/4/4a/Kari_Lake_by_Gage_Skidmore_4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trump taps immigration hard-liner Kari Lake as head of Voice of ...">
+                                <img itemprop="contentUrl url" src='https://gray-kptv-prod.gtv-cdn.com/resizer/v2/AQ43KNHURAS4DFXDJWWY25LXEI.jpg?auth=57122b476c06f9cbb94233622c6def3ef4687783a762e5c72bb61bbd9709b569&width=980&height=653&smart=true' alt='Trump taps immigration hard-liner Kari Lake as head of Voice of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="653">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KPTV" />
+                                </span>
+                                <a href='https://gray-kptv-prod.gtv-cdn.com/resizer/v2/AQ43KNHURAS4DFXDJWWY25LXEI.jpg?auth=57122b476c06f9cbb94233622c6def3ef4687783a762e5c72bb61bbd9709b569&width=980&height=653&smart=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arizona Judge Tosses Kari Lake's 2022 Election Lawsuit - The New ...">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2023/05/23/multimedia/23pol-lake-fzgp/23pol-lake-fzgp-mediumSquareAt3X.jpg' alt='Arizona Judge Tosses Kari Lake's 2022 Election Lawsuit - The New ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1801">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2023/05/23/multimedia/23pol-lake-fzgp/23pol-lake-fzgp-mediumSquareAt3X.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="USAGM announces Kari Lake as special adviser">
+                                <img itemprop="contentUrl url" src='https://gdb.voanews.com/8715169E-0F98-4644-9F35-85B1CD33630B.jpg' alt='USAGM announces Kari Lake as special adviser'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VOA" />
+                                </span>
+                                <a href='https://gdb.voanews.com/8715169E-0F98-4644-9F35-85B1CD33630B.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kari Lake clarifies her stance on abortion">
+                                <img itemprop="contentUrl url" src='https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2024-03/230301-kari-lake-se-213p-b18ad7.jpg' alt='Kari Lake clarifies her stance on abortion'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBC News" />
+                                </span>
+                                <a href='https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2024-03/230301-kari-lake-se-213p-b18ad7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kari Lake suggests early voting be restricted in Arizona as she ...">
+                                <img itemprop="contentUrl url" src='https://s.abcnews.com/images/Politics/kari-lake-01-gty-iwb-221022_1666451281913_hpMain.jpg' alt='Kari Lake suggests early voting be restricted in Arizona as she ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2592">
+                                <meta itemprop="height" content="1733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ABC News - The Walt Disney Company" />
+                                </span>
+                                <a href='https://s.abcnews.com/images/Politics/kari-lake-01-gty-iwb-221022_1666451281913_hpMain.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kari Lake officially announces Senate bid in Arizona | CNN Politics">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/231010182358-kari-lake-file-101023.jpg?c=original' alt='Kari Lake officially announces Senate bid in Arizona | CNN Politics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/231010182358-kari-lake-file-101023.jpg?c=original' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kari Lake loses her legal challenge in Arizona governor's race : NPR">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/img/2022/12/24/ap22358683106038-f05de1f0dd397d84ffae51d4ba52f81c4c4a2623.jpg' alt='Kari Lake loses her legal challenge in Arizona governor's race : NPR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3197">
+                                <meta itemprop="height" content="2397">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/img/2022/12/24/ap22358683106038-f05de1f0dd397d84ffae51d4ba52f81c4c4a2623.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kari Lake | Archives of Women's Political Communication">
+                                <img itemprop="contentUrl url" src='https://wp.las.iastate.edu/cattcenter-awpc/wp-content/uploads/sites/138/2024/09/kari-lake.jpeg' alt='Kari Lake | Archives of Women's Political Communication'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="209">
+                                <meta itemprop="height" content="241">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Archives of Women's Political Communication - Iowa State University" />
+                                </span>
+                                <a href='https://wp.las.iastate.edu/cattcenter-awpc/wp-content/uploads/sites/138/2024/09/kari-lake.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kari Lake wins Arizona's GOP Senate primary. She'll face ...">
+                                <img itemprop="contentUrl url" src='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3600x2400+0+0/resize/3600x2400!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F99%2Ff2%2F3dbc0be24cafb9b3876ea9e06b1f%2Fap24213175120138.jpg' alt='Kari Lake wins Arizona's GOP Senate primary. She'll face ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3600">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3600x2400+0+0/resize/3600x2400!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F99%2Ff2%2F3dbc0be24cafb9b3876ea9e06b1f%2Fap24213175120138.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

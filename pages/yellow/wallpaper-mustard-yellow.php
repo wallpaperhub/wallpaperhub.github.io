@@ -1,0 +1,129 @@
+<title>Brighten Your Space with Mustard Yellow Wallpaper</title>
+                    <meta name="description" content="Explore the charm of mustard yellow wallpaper to elevate your interior design. This vibrant color not only warms up your space but also adds a touch of sophistication. Ideal for any room, it pairs beautifully with different styles. Transform your home with this lively choice today!">
+                    <meta name="keywords" content="wallpaper mustard yellow">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/wallpaper-mustard-yellow">
+                            <span itemprop="name">wallpaper mustard yellow</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Brighten Your Space with Mustard Yellow Wallpaper</h1>
+                <p>Mustard yellow wallpaper adds a vibrant and warm touch to any space. It creates a cheerful atmosphere, perfect for living rooms, bedrooms, or even kitchens. This rich hue complements various decor styles, from modern to retro. Pair it with neutral furnishings for a balanced look, or go bold with contrasting colors for a striking effect.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mindthegap The Garden Of Immortality Mustard Yellow Chinese Garden Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.decoratorsbest.com/cdn/shop/products/6841422872622_3e53e222-d416-4cd3-9357-f3459fe0ef8d.jpg?v=1693238935' alt='Mindthegap The Garden Of Immortality Mustard Yellow Chinese Garden Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecoratorsBest" />
+                                </span>
+                                <a href='https://www.decoratorsbest.com/cdn/shop/products/6841422872622_3e53e222-d416-4cd3-9357-f3459fe0ef8d.jpg?v=1693238935' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dream Plain by Albany - Mustard - Wallpaper - 383143">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/asset/img/product/194748/tiled/albany-dream-plain-mustard-wallpaper-tiled-194748.jpg' alt='Dream Plain by Albany - Mustard - Wallpaper - 383143'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/asset/img/product/194748/tiled/albany-dream-plain-mustard-wallpaper-tiled-194748.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Meadow Wallpaper in Mustard">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/1-SummerMeadow-Mustard_ILW50372_Thumbnail_WEB_9bc0918d-c832-4e2b-a737-cb07d5890c1e.webp?crop=center&height=1024&v=1705932605&width=1024' alt='Summer Meadow Wallpaper in Mustard'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/1-SummerMeadow-Mustard_ILW50372_Thumbnail_WEB_9bc0918d-c832-4e2b-a737-cb07d5890c1e.webp?crop=center&height=1024&v=1705932605&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper mustard yellow textile pattern with smooth surface">
+                                <img itemprop="contentUrl url" src='https://www.new-walls.com/media/44/3c/23/1711259472/b2c91a01fab4347ad19a4ad318cc3ab9.webp' alt='Wallpaper mustard yellow textile pattern with smooth surface'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="New-Walls.com" />
+                                </span>
+                                <a href='https://www.new-walls.com/media/44/3c/23/1711259472/b2c91a01fab4347ad19a4ad318cc3ab9.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="115059 - Graham & Brown, Fable Mustard Removable Wallpaper">
+                                <img itemprop="contentUrl url" src='http://mahoneswallpapershop.com/cdn/shop/products/115059_1.jpg?v=1673400437' alt='115059 - Graham & Brown, Fable Mustard Removable Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mahone's Wallpaper Shop" />
+                                </span>
+                                <a href='http://mahoneswallpapershop.com/cdn/shop/products/115059_1.jpg?v=1673400437' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mustard Yellow Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1604432486679-68ea3fecbe2b?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bXVzdGFyZCUyMHllbGxvd3xlbnwwfHwwfHx8MA%3D%3D' alt='Mustard Yellow Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1604432486679-68ea3fecbe2b?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bXVzdGFyZCUyMHllbGxvd3xlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mustard yellow, honey, wallpaper, background, iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ff/9d/fb/ff9dfb24f118a18ba8f778719ef6d9c0.jpg' alt='Mustard yellow, honey, wallpaper, background, iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ff/9d/fb/ff9dfb24f118a18ba8f778719ef6d9c0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mustard Yellow Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/surface-with-abstract-watercolor-paint_23-2148733391.jpg' alt='Mustard Yellow Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="417">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/surface-with-abstract-watercolor-paint_23-2148733391.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mustard Floral Wallpaper, Removable Floral Wallpaper, Floral ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17219117/r/il/de0a7a/2098465460/il_fullxfull.2098465460_swhy.jpg' alt='Mustard Floral Wallpaper, Removable Floral Wallpaper, Floral ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2244">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17219117/r/il/de0a7a/2098465460/il_fullxfull.2098465460_swhy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mustard Panelling Wallpaper Yellow Textured Framed Design Wall ...">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/NrMAAOSwtARhkt6j/s-l1200.jpg' alt='Mustard Panelling Wallpaper Yellow Textured Framed Design Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/NrMAAOSwtARhkt6j/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

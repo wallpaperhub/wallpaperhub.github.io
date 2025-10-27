@@ -1,0 +1,129 @@
+<title>Understanding What a FBI Background Check Reveals</title>
+                    <meta name="description" content="Discover what a FBI background check reveals about you, including criminal history, employment records, and more. Essential for job applications and security clearances, it's a vital tool for employers and organizations. Learn how it works and what to expect from the process.">
+                    <meta name="keywords" content="what does a fbi background check show">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/what-does-a-fbi-background-check-show">
+                            <span itemprop="name">what does a fbi background check show</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding What a FBI Background Check Reveals</h1>
+                <p>A FBI background check reveals various details about an individual's criminal history, including arrests, convictions, and pending charges. It also includes information on employment history, credit reports, and any associations with criminal organizations. This comprehensive check is crucial for security clearances and job applications.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Understand Your FBI Background Check Results">
+                                <img itemprop="contentUrl url" src='https://blog.certifixlivescan.com/wp-content/uploads/2023/10/FBI-Background-Check-Results-1.png' alt='How to Understand Your FBI Background Check Results'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Certifix Live Scan Blog -" />
+                                </span>
+                                <a href='https://blog.certifixlivescan.com/wp-content/uploads/2023/10/FBI-Background-Check-Results-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FBI Background Check: Identity History Summary | GlobalPassport™">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/64dfb2fda17888b40feb3c26/665e0e240c719ca80e5df39f_FBI%20Background%20Check%20Sample.webp' alt='FBI Background Check: Identity History Summary | GlobalPassport™'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="932">
+                                <meta itemprop="height" content="926">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GlobalPassport™" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/64dfb2fda17888b40feb3c26/665e0e240c719ca80e5df39f_FBI%20Background%20Check%20Sample.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apostille FBI Background Check|FBI Background Check Apostille">
+                                <img itemprop="contentUrl url" src='https://www.apostilletexas.org/wp-content/uploads/2022/06/Apostille-FBI-Background-Check.png' alt='Apostille FBI Background Check|FBI Background Check Apostille'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1275">
+                                <meta itemprop="height" content="1650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apostille Texas" />
+                                </span>
+                                <a href='https://www.apostilletexas.org/wp-content/uploads/2022/06/Apostille-FBI-Background-Check.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FBI Background Check Apostille | Notarypublicapostille.com">
+                                <img itemprop="contentUrl url" src='https://notarypublicapostille.com/wp-content/uploads/2021/04/FBI-Background-Check-apostille-1-229x300.jpg' alt='FBI Background Check Apostille | Notarypublicapostille.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="229">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sarmiento Notary" />
+                                </span>
+                                <a href='https://notarypublicapostille.com/wp-content/uploads/2021/04/FBI-Background-Check-apostille-1-229x300.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is an FBI background check? • MuckRock">
+                                <img itemprop="contentUrl url" src='https://d3gn0r3afghep.cloudfront.net/news_photos/2016/02/01/220.png' alt='What is an FBI background check? • MuckRock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MuckRock" />
+                                </span>
+                                <a href='https://d3gn0r3afghep.cloudfront.net/news_photos/2016/02/01/220.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FBI Background Check — ZeroClick AI">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/61004759b0a4ce3c26377f31/1630079834649-2W59Z9000D2R1QWOHA0D/background+check+2020' alt='FBI Background Check — ZeroClick AI'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1834">
+                                <meta itemprop="height" content="2382">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ZeroClick AI" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/61004759b0a4ce3c26377f31/1630079834649-2W59Z9000D2R1QWOHA0D/background+check+2020' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Does A FBI Background Check Show? - CountyOffice.org">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/HIRKw4DeT2k/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDitvlbPsJdP2FGAjobGxJTxvdcuw' alt='What Does A FBI Background Check Show? - CountyOffice.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/HIRKw4DeT2k/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDitvlbPsJdP2FGAjobGxJTxvdcuw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Online Criminal Background Check System">
+                                <img itemprop="contentUrl url" src='https://static.ark.org/asp/criminal/images/state_fbi_search.jpg' alt='Online Criminal Background Check System'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1115">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Online Criminal Background Check System" />
+                                </span>
+                                <a href='https://static.ark.org/asp/criminal/images/state_fbi_search.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Criminal Background Check FAQs | Korealizations">
+                                <img itemprop="contentUrl url" src='https://korealizations.wordpress.com/wp-content/uploads/2014/10/fbibackgroundcheck1.jpg' alt='Criminal Background Check FAQs | Korealizations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="289">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Korealizations - WordPress.com" />
+                                </span>
+                                <a href='https://korealizations.wordpress.com/wp-content/uploads/2014/10/fbibackgroundcheck1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Does An FBI Background Check Reveal? - CountyOffice.org">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Pj0ccyvfrxo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBbJ1iftTNGn0NZMINPVcyx-aq-Jw' alt='What Does An FBI Background Check Reveal? - CountyOffice.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Pj0ccyvfrxo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBbJ1iftTNGn0NZMINPVcyx-aq-Jw' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

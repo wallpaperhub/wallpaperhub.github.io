@@ -1,0 +1,129 @@
+<title>Stunning Pink Animated Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover a captivating collection of pink animated wallpapers that elevate your device's aesthetic. Perfect for expressing style, these mesmerizing designs add energy and charm. Lightweight and optimized for mobile, our wallpapers ensure a seamless and enjoyable browsing experience!">
+                    <meta name="keywords" content="pink animated wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-animated-wallpaper">
+                            <span itemprop="name">pink animated wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Pink Animated Wallpapers for Your Device</h1>
+                <p>Transform your device with stunning pink animated wallpaper that adds a touch of elegance and vibrancy. Perfect for personalizing your phone or computer, these lively designs bring a sense of joy and creativity to your screen. Explore a variety of mesmerizing animations, from soft bubbles to dynamic patterns, that make your device stand out.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live Wallpaper Pink Stock Video Footage for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/032/496/442/small/organic-loop-animated-4k-motion-background-video.jpg' alt='Live Wallpaper Pink Stock Video Footage for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="356">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/032/496/442/small/organic-loop-animated-4k-motion-background-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Sparkle Cool Wallpaper - Live Wallpaper HD">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/06/74/0a/06740abc5e0980872389bfcd59c19000.jpg' alt='Pink Sparkle Cool Wallpaper - Live Wallpaper HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1103">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/06/74/0a/06740abc5e0980872389bfcd59c19000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Flower Wallpaper Animated | Best HD Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9b/19/78/9b19789bb20aa20741fb8ed9417773a9.jpg' alt='Pink Flower Wallpaper Animated | Best HD Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9b/19/78/9b19789bb20aa20741fb8ed9417773a9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Pink Live Wallpapers, Animated Wallpapers - MoeWalls">
+                                <img itemprop="contentUrl url" src='https://moewalls.com/wp-content/uploads/2024/03/pink-sunset-ocean-thumb-364x205.jpg' alt='30 Pink Live Wallpapers, Animated Wallpapers - MoeWalls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="364">
+                                <meta itemprop="height" content="205">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MoeWalls" />
+                                </span>
+                                <a href='https://moewalls.com/wp-content/uploads/2024/03/pink-sunset-ocean-thumb-364x205.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Roses Live Wallpaper - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/L1A83hIoFItbIEcapF4JCIH2Co6_vOrhH2RUbWAhi_nw6xAUbz1wqkIir_bYmeIg2xU' alt='Pink Roses Live Wallpaper - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/L1A83hIoFItbIEcapF4JCIH2Co6_vOrhH2RUbWAhi_nw6xAUbz1wqkIir_bYmeIg2xU' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Tree Live Wallpaper - MyLiveWallpapers.com">
+                                <img itemprop="contentUrl url" src='https://mylivewallpapers.com/wp-content/uploads/Nature/thumb-Pink-Tree.jpg' alt='Pink Tree Live Wallpaper - MyLiveWallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MyLiveWallpapers.com" />
+                                </span>
+                                <a href='https://mylivewallpapers.com/wp-content/uploads/Nature/thumb-Pink-Tree.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Tree Live Wallpaper - MyLiveWallpapers.com">
+                                <img itemprop="contentUrl url" src='https://mylivewallpapers.com/wp-content/uploads/Fantasy/thumb-Pink-Tree.jpg' alt='Pink Tree Live Wallpaper - MyLiveWallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MyLiveWallpapers.com" />
+                                </span>
+                                <a href='https://mylivewallpapers.com/wp-content/uploads/Fantasy/thumb-Pink-Tree.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/bd/14/d5/bd14d5d77d1a3e05f465bd220998116d.gif' alt='aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="770">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/bd/14/d5/bd14d5d77d1a3e05f465bd220998116d.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 13 Twist Pink (Light) | LIVE Wallpaper - Wallpapers Central">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2021/09/1981.Twist_Pink_Light-390w-844h@3xiphone-768x1663.jpg' alt='iPhone 13 Twist Pink (Light) | LIVE Wallpaper - Wallpapers Central'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1663">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Central - iSpazio" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2021/09/1981.Twist_Pink_Light-390w-844h@3xiphone-768x1663.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Pink Live Wallpaper - Soft Geometric Waves #AAVFX Relaxing Moving  Background">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Aekw0j5m-Mc/maxresdefault.jpg' alt='4K Pink Live Wallpaper - Soft Geometric Waves #AAVFX Relaxing Moving  Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Aekw0j5m-Mc/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

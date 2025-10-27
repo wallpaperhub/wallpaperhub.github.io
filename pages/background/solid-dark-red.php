@@ -1,0 +1,129 @@
+<title>Embrace the Bold: Exploring Solid Dark Red</title>
+                    <meta name="description" content="Discover the allure of solid dark red, a color that embodies passion and strength. Perfect for home decor and design, this bold hue offers striking contrast and dramatic accents. Dive into the world of solid dark red and transform your space with its vibrant energy!">
+                    <meta name="keywords" content="solid dark red">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/solid-dark-red">
+                            <span itemprop="name">solid dark red</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Embrace the Bold: Exploring Solid Dark Red</h1>
+                <p>Solid dark red is a bold, powerful color that evokes feelings of passion and intensity. Often associated with love, strength, and energy, this hue can enhance any space or design. It's a versatile choice, offering a striking contrast when paired with lighter tones, making it perfect for dramatic accents and powerful statements in decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kate Deep Red Solid Cloth Photography Fabric Backdrop">
+                                <img itemprop="contentUrl url" src='https://www.katebackdrop.com/cdn/shop/products/03.14-_-_-20_dcffcbf5-517a-4d0a-a3b7-541a261e1e7e.jpg?v=1613388957&width=400' alt='Kate Deep Red Solid Cloth Photography Fabric Backdrop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kate Backdrop" />
+                                </span>
+                                <a href='https://www.katebackdrop.com/cdn/shop/products/03.14-_-_-20_dcffcbf5-517a-4d0a-a3b7-541a261e1e7e.jpg?v=1613388957&width=400' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solid Dark Red Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/17331224/p/f/m/1WfrdUiBpsIKrA2Hj6IvNWw1gAuG81Emfq3EdTGz8uRS_2sDE0FI/Solid%20Dark%20Burgundy.jpg' alt='Solid Dark Red Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/17331224/p/f/m/1WfrdUiBpsIKrA2Hj6IvNWw1gAuG81Emfq3EdTGz8uRS_2sDE0FI/Solid%20Dark%20Burgundy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Clear Path Paper Dark Red Cardstock - 8.5 x 11 inch - 80Lb  Cover - 50 Sheets : Arts, Crafts & Sewing">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51bjJRVbWzL.jpg' alt='Amazon.com : Clear Path Paper Dark Red Cardstock - 8.5 x 11 inch - 80Lb  Cover - 50 Sheets : Arts, Crafts & Sewing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51bjJRVbWzL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solid Dark Red Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/16275817/p/f/m/d1-nvlHbgpmUkXttZlpr81Fuu4xqPSN8YOh_ExViSj_Lbh9s49e1kOnwZA/Maroon%20Printed%20Solid.jpg' alt='Solid Dark Red Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/16275817/p/f/m/d1-nvlHbgpmUkXttZlpr81Fuu4xqPSN8YOh_ExViSj_Lbh9s49e1kOnwZA/Maroon%20Printed%20Solid.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solid Dark Red Background Simple Dark Stock Vector (Royalty Free ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/solid-dark-red-background-simple-260nw-2089480291.jpg' alt='Solid Dark Red Background Simple Dark Stock Vector (Royalty Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="195">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/solid-dark-red-background-simple-260nw-2089480291.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SHADOW BLUSH (basic) - Cabernet - Deep Dark Red Texture Solid ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8002487/r/il/93037a/3115961034/il_570xN.3115961034_qjgl.jpg' alt='SHADOW BLUSH (basic) - Cabernet - Deep Dark Red Texture Solid ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8002487/r/il/93037a/3115961034/il_570xN.3115961034_qjgl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="deep red">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/54/d8/7d/54d87d8cb956ba167442c8c914c3a915.jpg' alt='deep red'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="883">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/54/d8/7d/54d87d8cb956ba167442c8c914c3a915.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Deep Red (similar) Color | 990700 information | Hsl | Rgb | Pantone">
+                                <img itemprop="contentUrl url" src='https://www.icolorpalette.com/download/shades/990700_color_shades.jpg' alt='Deep Red (similar) Color | 990700 information | Hsl | Rgb | Pantone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1650">
+                                <meta itemprop="height" content="1580">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iColorpalette" />
+                                </span>
+                                <a href='https://www.icolorpalette.com/download/shades/990700_color_shades.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="One colour single plain red solid color 4320x7680 wallpaper 4K HD">
+                                <img itemprop="contentUrl url" src='https://xmple.com/wallpaper/one-colour-single-plain-red-solid-color-4320x7680-c-591605-f-24.svg' alt='One colour single plain red solid color 4320x7680 wallpaper 4K HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4320">
+                                <meta itemprop="height" content="7680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="xmple" />
+                                </span>
+                                <a href='https://xmple.com/wallpaper/one-colour-single-plain-red-solid-color-4320x7680-c-591605-f-24.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solid Color Red Images – Browse 366,010 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/09/28/78/30/360_F_928783084_ZxZ5al3ScE9qebJhepQJGw7UXCScg9eP.jpg' alt='Solid Color Red Images – Browse 366,010 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="624">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/09/28/78/30/360_F_928783084_ZxZ5al3ScE9qebJhepQJGw7UXCScg9eP.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Friday Movie Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore a collection of eye-catching Friday Movie wallpapers! Perfect for fans, our selection brings the film's spirit to your screen. Download now to enjoy vibrant visuals that enhance your device and keep the Friday vibes alive every day!">
+                    <meta name="keywords" content="friday movie wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/friday-movie-wallpaper">
+                            <span itemprop="name">friday movie wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Friday Movie Wallpapers for Your Device</h1>
+                <p>Transform your screen with our vibrant "Friday Movie" wallpapers! Featuring iconic scenes, characters, and quotes from the film, these wallpapers are perfect for fans who want to celebrate the essence of the movie every day. Download now to bring a touch of fun and nostalgia to your device!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Movie Friday (Movie) HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/802/thumb-1920-802733.jpg' alt='Download Movie Friday (Movie) HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/802/thumb-1920-802733.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Friday The Movie Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11005613.jpg' alt='Friday The Movie Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1426">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11005613.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ICE CUBE & Chris Tucker Wallpaper from movie FRIDAY | Chris tucker ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f1/a2/b0/f1a2b0683bb488616b3e8bbb5abcc886.jpg' alt='ICE CUBE & Chris Tucker Wallpaper from movie FRIDAY | Chris tucker ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f1/a2/b0/f1a2b0683bb488616b3e8bbb5abcc886.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Friday 1995 movie hi-res stock photography and images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2JDPCKC/cubetucker-friday-1995-2JDPCKC.jpg' alt='Friday 1995 movie hi-res stock photography and images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1106">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2JDPCKC/cubetucker-friday-1995-2JDPCKC.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FRIDAY Movie POSTER 11 x 17 Ice Cube, Chris Tucker, Bernie Mac, Nia Long, A">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/kgoAAOSwKHNe24VQ/s-l1200.jpg' alt='FRIDAY Movie POSTER 11 x 17 Ice Cube, Chris Tucker, Bernie Mac, Nia Long, A'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="520">
+                                <meta itemprop="height" content="804">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/kgoAAOSwKHNe24VQ/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FRIDAY Poster by EddieHolly on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/dc/6f/ac/dc6facdf9bb2097d1d0b08e8805fdeee.jpg' alt='FRIDAY Poster by EddieHolly on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="730">
+                                <meta itemprop="height" content="1095">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/dc/6f/ac/dc6facdf9bb2097d1d0b08e8805fdeee.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Friday, friday movie, name, theme, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/257/806/HD-wallpaper-friday-friday-movie-name-theme.jpg' alt='Friday, friday movie, name, theme, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="605">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/257/806/HD-wallpaper-friday-friday-movie-name-theme.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Art Print | Friday | Europosters">
+                                <img itemprop="contentUrl url" src='https://storage.googleapis.com/pod_public/1300/125030.jpg' alt='Wall Art Print | Friday | Europosters'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="929">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Posters Ireland, Art Prints and Wall Murals" />
+                                </span>
+                                <a href='https://storage.googleapis.com/pod_public/1300/125030.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/a7/7d/78/a77d7863b26316ca2566bf618110589d.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="504">
+                                <meta itemprop="height" content="724">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/a7/7d/78/a77d7863b26316ca2566bf618110589d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Friday, craig, smokey, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/923/873/HD-wallpaper-friday-craig-smokey.jpg' alt='Friday, craig, smokey, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1079">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/923/873/HD-wallpaper-friday-craig-smokey.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

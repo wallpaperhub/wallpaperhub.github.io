@@ -1,0 +1,129 @@
+<title>Awesome Phillies Desktop Wallpaper for True Fans</title>
+                    <meta name="description" content="Discover vibrant Phillies desktop wallpaper to elevate your workspace! Perfect for fans, our collection features stunning designs that celebrate the iconic team. Show off your love for the Phillies while enjoying high-quality images that fit perfectly on any screen. Download your favorite today!">
+                    <meta name="keywords" content="phillies desktop wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/phillies-desktop-wallpaper">
+                            <span itemprop="name">phillies desktop wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Awesome Phillies Desktop Wallpaper for True Fans</h1>
+                <p>Transform your workspace with stunning Phillies desktop wallpaper! Show your love for the Philadelphia Phillies with vibrant and eye-catching designs that bring the spirit of the game to your screen. Perfect for any fan, these wallpapers will inspire you every day while keeping the team spirit alive!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Can we get a thread going of some good wallpapers? : r/phillies">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/can-we-get-a-thread-going-of-some-good-wallpapers-v0-1jde578tjl6b1.jpeg?width=2048&format=pjpg&auto=webp&s=847ddfd5419a7f750f40bab3433f973b4acb1821' alt='Can we get a thread going of some good wallpapers? : r/phillies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1366">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/can-we-get-a-thread-going-of-some-good-wallpapers-v0-1jde578tjl6b1.jpeg?width=2048&format=pjpg&auto=webp&s=847ddfd5419a7f750f40bab3433f973b4acb1821' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made a 2023 Phillies Wallpaper to hopefully get us out of the ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/m8k15hazezra1.jpg' alt='Made a 2023 Phillies Wallpaper to hopefully get us out of the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/m8k15hazezra1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Philadelphia Phillies Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/philadelphia-phillies-82lo9539wz695fp1.jpg' alt='200+] Philadelphia Phillies Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/philadelphia-phillies-82lo9539wz695fp1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made this today just for fun as a computer wallpaper, thought the ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/f425ilb62aja1.jpg' alt='Made this today just for fun as a computer wallpaper, thought the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/f425ilb62aja1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Philadelphia Phillies Main Players Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/philadelphia-phillies-main-players-pi4d2gmfpqnvd3og.jpg' alt='Philadelphia Phillies Main Players Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/philadelphia-phillies-main-players-pi4d2gmfpqnvd3og.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phillies Logo With Background Of Black And Of Player Phillies, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/879/263/HD-wallpaper-phillies-logo-with-background-of-black-and-of-player-phillies.jpg' alt='Phillies Logo With Background Of Black And Of Player Phillies, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/879/263/HD-wallpaper-phillies-logo-with-background-of-black-and-of-player-phillies.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: baseball, mlb, philadelphia, phillies | Wallpaper Flare">
+                                <img itemprop="contentUrl url" src='https://c4.wallpaperflare.com/wallpaper/553/804/14/baseball-mlb-philadelphia-phillies-wallpaper-preview.jpg' alt='HD wallpaper: baseball, mlb, philadelphia, phillies | Wallpaper Flare'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Flare" />
+                                </span>
+                                <a href='https://c4.wallpaperflare.com/wallpaper/553/804/14/baseball-mlb-philadelphia-phillies-wallpaper-preview.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Philadelphia Phillies Sports HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/438/438774.jpg' alt='Download Philadelphia Phillies Sports HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/438/438774.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Philadelphia Phillies Baseball Stadium Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/philadelphia-phillies-baseball-stadium-at6yd21lyimyaci7.jpg' alt='Philadelphia Phillies Baseball Stadium Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="674">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/philadelphia-phillies-baseball-stadium-at6yd21lyimyaci7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download wallpapers Philadelphia Phillies, 4k, American baseball ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/28/a9/46/28a946c0ea0662ef1d8a0a15bdc6e478.jpg' alt='Download wallpapers Philadelphia Phillies, 4k, American baseball ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="444">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/28/a9/46/28a946c0ea0662ef1d8a0a15bdc6e478.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

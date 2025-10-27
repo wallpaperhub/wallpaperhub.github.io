@@ -1,0 +1,129 @@
+<title>Transform Your Space with Wallpaper Boy's Creative Designs</title>
+                    <meta name="description" content="Discover how Wallpaper Boy can help you revamp your home with stunning wallpaper designs. Get inspired by unique patterns, styles, and tips tailored to elevate your interiors effortlessly. Unlock the potential of your living space today!">
+                    <meta name="keywords" content="wallpaper boy">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/wallpaper-boy">
+                            <span itemprop="name">wallpaper boy</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Wallpaper Boy's Creative Designs</h1>
+                <p>Wallpaper Boy is a creative character who transforms ordinary rooms into extraordinary spaces using vibrant wallpapers. With a keen eye for design and a knack for choosing the right patterns, he showcases various styles that can elevate any interior. Follow Wallpaper Boy for inspiration and tips on beautifying your living spaces!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Boy Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/boy-phone-rvosio64i2b0wi48.jpg' alt='100+] Boy Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="886">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/boy-phone-rvosio64i2b0wi48.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40 Best Cute boy wallpaper ideas | cute boys, light skin boys ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/2f/75/72/2f7572e2900307420625db07dd7fda0b.jpg' alt='40 Best Cute boy wallpaper ideas | cute boys, light skin boys ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/2f/75/72/2f7572e2900307420625db07dd7fda0b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bad Boys Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/the-purge-mask-boys-6fi4tg5m8e12j2km.webp' alt='Bad Boys Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/the-purge-mask-boys-6fi4tg5m8e12j2km.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Reflection Of A Boy Phone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/reflection-of-a-boy-phone-b4ys3o2pjawly7ey.jpg' alt='Reflection Of A Boy Phone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/reflection-of-a-boy-phone-b4ys3o2pjawly7ey.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool For Boys Wallpaper - EnJpg">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6d/7e/09/6d7e094c29c923d5ebb7695da37f69e9.jpg' alt='Cool For Boys Wallpaper - EnJpg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6d/7e/09/6d7e094c29c923d5ebb7695da37f69e9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Anime Boy Dark Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/anime-boy-dark-oltg2lztxcu00bec.jpg' alt='100+] Anime Boy Dark Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="426">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/anime-boy-dark-oltg2lztxcu00bec.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boy iphone 8/7/6s/6 for parallax wallpapers hd, desktop ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpaperscraft.com/image/single/boy_silhouette_sunset_120026_168x300.jpg' alt='Boy iphone 8/7/6s/6 for parallax wallpapers hd, desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="168">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersCraft" />
+                                </span>
+                                <a href='https://images.wallpaperscraft.com/image/single/boy_silhouette_sunset_120026_168x300.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD cool boys wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/948/960/HD-wallpaper-bad-boy-anime-bad-boy-cool-high-thumbnail.jpg' alt='HD cool boys wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="714">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/948/960/HD-wallpaper-bad-boy-anime-bad-boy-cool-high-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boys Wallpaper HD 4K - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/HogZJ2l1vPYD0GmetRM6J8ZbmYTOxDh43fOTyKgruYy98PFnxVRfZJB1odveBzClBQ=w526-h296-rw' alt='Boys Wallpaper HD 4K - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="215">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/HogZJ2l1vPYD0GmetRM6J8ZbmYTOxDh43fOTyKgruYy98PFnxVRfZJB1odveBzClBQ=w526-h296-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="▷ 1001+ ideas For Rebellious And Cool Wallpapers For Boys">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2a/3f/94/2a3f94b2a43d4e72bc87a56ef0e45a10.jpg' alt='▷ 1001+ ideas For Rebellious And Cool Wallpapers For Boys'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1244">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2a/3f/94/2a3f94b2a43d4e72bc87a56ef0e45a10.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

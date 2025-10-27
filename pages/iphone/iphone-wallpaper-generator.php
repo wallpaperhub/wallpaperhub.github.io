@@ -1,0 +1,129 @@
+<title>Design Custom iPhone Wallpapers Effortlessly</title>
+                    <meta name="description" content="Create unique and personalized iPhone wallpapers with our easy-to-use generator. Explore endless design options and showcase your style effortlessly. Perfect for making your device stand out! Try it now for stunning results.">
+                    <meta name="keywords" content="iphone wallpaper generator">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-wallpaper-generator">
+                            <span itemprop="name">iphone wallpaper generator</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Design Custom iPhone Wallpapers Effortlessly</h1>
+                <p>Unleash your creativity with our iPhone wallpaper generator! Easily customize stunning backgrounds that reflect your personal style. Choose from a variety of colors, patterns, and designs to create a unique wallpaper for your iPhone. Perfect for anyone looking to refresh their device or make a statement. Try it today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Wallpaper Maker — Make Your Own Phone Wallpaper — Kapwing">
+                                <img itemprop="contentUrl url" src='https://cdn-useast1.kapwing.com/static/iL5-wallpaperpaper.webp' alt='Phone Wallpaper Maker — Make Your Own Phone Wallpaper — Kapwing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kapwing" />
+                                </span>
+                                <a href='https://cdn-useast1.kapwing.com/static/iL5-wallpaperpaper.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Wallpaper Maker | Make Your Own Phone Wallpaper | PicMonkey">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/h6goo9gw1hh6/7u5CQtRexNXBpLjH4SA8Qa/26a9358e8379be81cae7ce144d157e19/072018_MakeOwnWallpaper_Update-TWEET-3.png' alt='Phone Wallpaper Maker | Make Your Own Phone Wallpaper | PicMonkey'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PicMonkey" />
+                                </span>
+                                <a href='https://images.ctfassets.net/h6goo9gw1hh6/7u5CQtRexNXBpLjH4SA8Qa/26a9358e8379be81cae7ce144d157e19/072018_MakeOwnWallpaper_Update-TWEET-3.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone + Android Wallpaper Generator | Figma">
+                                <img itemprop="contentUrl url" src='https://www.figma.com/community/resource/3cbd185a-81fb-40b5-a1b1-28f4855b3c93/thumbnail' alt='iPhone + Android Wallpaper Generator | Figma'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Figma" />
+                                </span>
+                                <a href='https://www.figma.com/community/resource/3cbd185a-81fb-40b5-a1b1-28f4855b3c93/thumbnail' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable phone wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFn3BDmUK0/1/0/900w/canva-black-and-cream-simple-moodboard-photo-collage-phone-wallpaper-VRfTv9ogyls.jpg' alt='Free and customizable phone wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFn3BDmUK0/1/0/900w/canva-black-and-cream-simple-moodboard-photo-collage-phone-wallpaper-VRfTv9ogyls.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable phone wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFTZ9QTpLE/1/0/900w/canva-beige-aesthetic-collage-motivational-quote-phone-wallpaper-hf36oj3a8WY.jpg' alt='Free and customizable phone wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFTZ9QTpLE/1/0/900w/canva-beige-aesthetic-collage-motivational-quote-phone-wallpaper-hf36oj3a8WY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Online Phone Wallpaper Maker | Create Your Own Phone Wallpaper for ...">
+                                <img itemprop="contentUrl url" src='https://imgv3.fotor.com/images/videoImage/iPhone-wallpaper-maker-feature-page-banner-with-four-editable-fotor-iphone-wallpaper-templates.jpg' alt='Online Phone Wallpaper Maker | Create Your Own Phone Wallpaper for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fotor" />
+                                </span>
+                                <a href='https://imgv3.fotor.com/images/videoImage/iPhone-wallpaper-maker-feature-page-banner-with-four-editable-fotor-iphone-wallpaper-templates.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable phone wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFd88BRqek/3/0/900w/canva-dark-gold-black-shine-luxury-glitter-phone-wallpaper-wdqE6b4GHcM.jpg' alt='Free and customizable phone wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFd88BRqek/3/0/900w/canva-dark-gold-black-shine-luxury-glitter-phone-wallpaper-wdqE6b4GHcM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Online Phone Wallpaper Maker | Create Your Own Phone Wallpaper for ...">
+                                <img itemprop="contentUrl url" src='https://imgv3.fotor.com/images/interface/operation-interface-of-fotor-iphone-wallpaper-maker-with-a-template-of-a-music-player-in-purple-background.jpg' alt='Online Phone Wallpaper Maker | Create Your Own Phone Wallpaper for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fotor" />
+                                </span>
+                                <a href='https://imgv3.fotor.com/images/interface/operation-interface-of-fotor-iphone-wallpaper-maker-with-a-template-of-a-music-player-in-purple-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free iPhone Wallpaper Maker | Adobe Express">
+                                <img itemprop="contentUrl url" src='https://www.adobe.com/express/create/wallpaper/media_136d9cbebf6e5d8fe594c00eaa5e6e42ff771d2e5.png?width=750&format=png&optimize=medium' alt='Free iPhone Wallpaper Maker | Adobe Express'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe" />
+                                </span>
+                                <a href='https://www.adobe.com/express/create/wallpaper/media_136d9cbebf6e5d8fe594c00eaa5e6e42ff771d2e5.png?width=750&format=png&optimize=medium' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable phone wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFrpBCLYIs/1/0/900w/canva-brown-aesthetic-photo-collage-autumn-phone-wallpaper-Ox5fbP9UL2A.jpg' alt='Free and customizable phone wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFrpBCLYIs/1/0/900w/canva-brown-aesthetic-photo-collage-autumn-phone-wallpaper-Ox5fbP9UL2A.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

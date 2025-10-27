@@ -1,0 +1,129 @@
+<title>Essential First Aid: Be Prepared for Emergencies</title>
+                    <meta name="description" content="Learn the basics of first aid, including essential techniques and skills to handle emergencies effectively. Equip yourself with the knowledge to save lives and provide immediate care until professional help arrives. Stay prepared and promote safety in your community with our comprehensive first aid guide.">
+                    <meta name="keywords" content="first aid background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/first-aid-background">
+                            <span itemprop="name">first aid background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential First Aid: Be Prepared for Emergencies</h1>
+                <p>First aid is the immediate assistance provided to individuals who experience an illness or injury. It encompasses essential techniques for stabilizing a person's condition until professional medical help arrives. Originating from military practices, first aid has evolved into a vital skill for everyday emergencies, enhancing survival rates and promoting safety across communities.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="First Aid Background Images – Browse 154,755 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/30/65/28/360_F_230652837_HHKUdNSWtPCO6YNNdiB0ukRR39LIzOd7.jpg' alt='First Aid Background Images – Browse 154,755 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/30/65/28/360_F_230652837_HHKUdNSWtPCO6YNNdiB0ukRR39LIzOd7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="First Aid Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/watercolor-medical-background_23-2151298887.jpg' alt='First Aid Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/watercolor-medical-background_23-2151298887.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="First Aid Background Images – Browse 154,755 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/79/88/28/360_F_179882892_vlTx7f6M7mt3SSz3Ke1lVfNLNPDIGBt1.jpg' alt='First Aid Background Images – Browse 154,755 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="539">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/79/88/28/360_F_179882892_vlTx7f6M7mt3SSz3Ke1lVfNLNPDIGBt1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="First Aid Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/041/859/612/small/national-doctor-s-day-hand-drawn-background-vector.jpg' alt='First Aid Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="334">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/041/859/612/small/national-doctor-s-day-hand-drawn-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="First aid kit on color background Stock Photo - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/zooms/9/8124c8b6c8224ba5afaa697e5fb3065d/ta51b6.jpg' alt='First aid kit on color background Stock Photo - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="447">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/zooms/9/8124c8b6c8224ba5afaa697e5fb3065d/ta51b6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="First Aid Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20220218/pngtree-creative-flat-wind-world-first-aid-day-illustration-background-image_956203.jpg' alt='First Aid Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="949">
+                                <meta itemprop="height" content="404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20220218/pngtree-creative-flat-wind-world-first-aid-day-illustration-background-image_956203.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,700+ First Aid Backgrounds Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1398382870/vector/circle-arrows-seamless-pattern.jpg?s=612x612&w=0&k=20&c=QKK7Jdzc7_waSLeZ9695XQI9Ep4WZ_YrzHSH87GIIOQ=' alt='3,700+ First Aid Backgrounds Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1398382870/vector/circle-arrows-seamless-pattern.jpg?s=612x612&w=0&k=20&c=QKK7Jdzc7_waSLeZ9695XQI9Ep4WZ_YrzHSH87GIIOQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="First aid medical poster seamless background Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/84/24/first-aid-medical-poster-seamless-background-vector-10298424.jpg' alt='First aid medical poster seamless background Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/84/24/first-aid-medical-poster-seamless-background-vector-10298424.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="First aid medical kit on blue background Stock Photo - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2G60AT6/first-aid-medical-kit-on-blue-background-2G60AT6.jpg' alt='First aid medical kit on blue background Stock Photo - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="956">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2G60AT6/first-aid-medical-kit-on-blue-background-2G60AT6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="First Aid Background Pictures | Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/top-view-world-heart-day-with-copy-space_23-2148610464.jpg?semt=ais_hybrid' alt='First Aid Background Pictures | Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="623">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/top-view-world-heart-day-with-copy-space_23-2148610464.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

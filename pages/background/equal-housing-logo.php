@@ -1,0 +1,129 @@
+<title>Understanding the Equal Housing Opportunity Logo</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="equal housing logo">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/equal-housing-logo">
+                            <span itemprop="name">equal housing logo</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding the Equal Housing Opportunity Logo</h1>
+                <p>The Equal Housing Opportunity logo symbolizes a commitment to fair housing for everyone, regardless of race, color, religion, sex, disability, familial status, or national origin. Displaying this logo indicates that housing providers adhere to fair housing laws, promoting equality in housing access and challenging discrimination.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Equal Housing Opportunity Logo">
+                                <img itemprop="contentUrl url" src='https://cms.nar.realtor/sites/default/files/downloadable/equal-housing-opportunity-logo-1200w.jpg' alt='Equal Housing Opportunity Logo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1130">
+                                <meta itemprop="height" content="1209">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Association of REALTORS®" />
+                                </span>
+                                <a href='https://cms.nar.realtor/sites/default/files/downloadable/equal-housing-opportunity-logo-1200w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Equal Housing Opportunity Logo | Download Logo">
+                                <img itemprop="contentUrl url" src='https://equalhousinglogo.com/wp-content/uploads/2019/03/equal-housing-logo500.png' alt='Equal Housing Opportunity Logo | Download Logo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="equalhousinglogo.com" />
+                                </span>
+                                <a href='https://equalhousinglogo.com/wp-content/uploads/2019/03/equal-housing-logo500.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Equal Housing Opportunity Logo - Equal Housing Opportunity Logo ...">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20181027/epf/kisspng-logo-office-of-fair-housing-and-equal-opportunity-unlocking-your-assets-to-thrive-in-retirement-ez-1713925361564.webp' alt='Equal Housing Opportunity Logo - Equal Housing Opportunity Logo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20181027/epf/kisspng-logo-office-of-fair-housing-and-equal-opportunity-unlocking-your-assets-to-thrive-in-retirement-ez-1713925361564.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="equal housing opportunity logo Aluminum Composite Outdoor Sign 8.5" x10"">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/41mBdsfnqGL._BO30,255,255,255_UF900,850_SR1910,1000,0,C_ZA17,500,900,420,420,AmazonEmber,50,4,0,0_PIRIOFOURANDHALF-medium,BottomLeft,30,-20_QL100_.jpg' alt='equal housing opportunity logo Aluminum Composite Outdoor Sign 8.5" x10"'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1910">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/41mBdsfnqGL._BO30,255,255,255_UF900,850_SR1910,1000,0,C_ZA17,500,900,420,420,AmazonEmber,50,4,0,0_PIRIOFOURANDHALF-medium,BottomLeft,30,-20_QL100_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Equal Housing Opportunity Logo">
+                                <img itemprop="contentUrl url" src='https://cms.nar.realtor/sites/default/files/styles/masthead_background_1250x500/public/downloadable/equal-housing-opportunity-logo-1200w.jpg?itok=aQXE_sIL' alt='Equal Housing Opportunity Logo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1250">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Association of REALTORS®" />
+                                </span>
+                                <a href='https://cms.nar.realtor/sites/default/files/styles/masthead_background_1250x500/public/downloadable/equal-housing-opportunity-logo-1200w.jpg?itok=aQXE_sIL' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Equal Housing Opportunity Logo, symbol, meaning, history, PNG, brand">
+                                <img itemprop="contentUrl url" src='https://logos-world.net/wp-content/uploads/2024/10/Equal-Housing-Opportunity-Logo.png' alt='Equal Housing Opportunity Logo, symbol, meaning, history, PNG, brand'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Logos-world" />
+                                </span>
+                                <a href='https://logos-world.net/wp-content/uploads/2024/10/Equal-Housing-Opportunity-Logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Equal Housing Logo and symbol, meaning, history, PNG, brand">
+                                <img itemprop="contentUrl url" src='https://1000logos.net/wp-content/uploads/2017/08/Equal-Housing-emblem.jpg' alt='Equal Housing Logo and symbol, meaning, history, PNG, brand'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="1000 Logos" />
+                                </span>
+                                <a href='https://1000logos.net/wp-content/uploads/2017/08/Equal-Housing-emblem.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Equal Housing Opportunity Logo | Download Logo">
+                                <img itemprop="contentUrl url" src='https://equalhousinglogo.com/wp-content/uploads/2019/03/equal-housing-logowhite-1000.png' alt='Equal Housing Opportunity Logo | Download Logo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="equalhousinglogo.com" />
+                                </span>
+                                <a href='https://equalhousinglogo.com/wp-content/uploads/2019/03/equal-housing-logowhite-1000.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Equal Housing Lender | Brands of the World™ | Download vector ...">
+                                <img itemprop="contentUrl url" src='https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032014/equal_housing_lender.jpg?itok=OZb8_4Bk' alt='Equal Housing Lender | Brands of the World™ | Download vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="195">
+                                <meta itemprop="height" content="195">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Brands of the World" />
+                                </span>
+                                <a href='https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032014/equal_housing_lender.jpg?itok=OZb8_4Bk' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Equal Housing Lender Logo PNG Transparent & SVG Vector - Freebie ...">
+                                <img itemprop="contentUrl url" src='https://cdn.freebiesupply.com/logos/large/2x/equal-housing-lender-logo-black-and-white.png' alt='Equal Housing Lender Logo PNG Transparent & SVG Vector - Freebie ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freebie Supply" />
+                                </span>
+                                <a href='https://cdn.freebiesupply.com/logos/large/2x/equal-housing-lender-logo-black-and-white.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Understanding Cultural Care for Elderly Patients of Chinese Background</title>
+                    <meta name="description" content="Explore the essentials of providing culturally competent care for elderly patients of Chinese background. Enhance your understanding of their unique traditions, health beliefs, and family dynamics to improve patient outcomes and foster trust in healthcare settings.">
+                    <meta name="keywords" content="if an elderly patient appears to be of chinese background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/if-an-elderly-patient-appears-to-be-of-chinese-background">
+                            <span itemprop="name">if an elderly patient appears to be of chinese background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Cultural Care for Elderly Patients of Chinese Background</h1>
+                <p>When caring for elderly patients of Chinese background, it’s essential to understand cultural nuances, beliefs, and health behaviors. Respect for traditional medicine, family hierarchy, and communication styles are important. Sensitivity towards dietary preferences and practices enhances trust, fostering better patient relationships and care outcomes.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Renaiss 6x3.6ft Chinese Style Elderly Birthday Banner Best  Wishes For Happiness And Longevity Birthday Party Decoration Red Lantern  Silk ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71wZpibJlEL.jpg' alt='Amazon.com: Renaiss 6x3.6ft Chinese Style Elderly Birthday Banner Best  Wishes For Happiness And Longevity Birthday Party Decoration Red Lantern  Silk ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1700">
+                                <meta itemprop="height" content="1700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71wZpibJlEL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rural residents worry for elderly as COVID rips across China | Reuters">
+                                <img itemprop="contentUrl url" src='https://cloudfront-us-east-2.images.arcpublishing.com/reuters/6OSVJBEP2JJONP3FNDXCA66EEE.jpg' alt='Rural residents worry for elderly as COVID rips across China | Reuters'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4507">
+                                <meta itemprop="height" content="3005">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reuters" />
+                                </span>
+                                <a href='https://cloudfront-us-east-2.images.arcpublishing.com/reuters/6OSVJBEP2JJONP3FNDXCA66EEE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="UCSF to Study Alzheimer's Genetics in North American Asians | UC ...">
+                                <img itemprop="contentUrl url" src='https://www.ucsf.edu/sites/default/files/2023-07/elderly-asian-woman-staring-out-window.jpg' alt='UCSF to Study Alzheimer's Genetics in North American Asians | UC ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="University of California, San Francisco" />
+                                </span>
+                                <a href='https://www.ucsf.edu/sites/default/files/2023-07/elderly-asian-woman-staring-out-window.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="China's senior citizens risk being left behind">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/190207230325-china-elderly-population.jpg?q=w_1920,h_1080,x_0,y_0,c_fill' alt='China's senior citizens risk being left behind'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/190207230325-china-elderly-population.jpg?q=w_1920,h_1080,x_0,y_0,c_fill' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Renaiss 4x4ft Chinese Style Birthday Round Backdrop Cover Wish  Old People Longevity Circle Photography Background Elderly Grandparents ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61jF1p-rGpL.jpg' alt='Amazon.com : Renaiss 4x4ft Chinese Style Birthday Round Backdrop Cover Wish  Old People Longevity Circle Photography Background Elderly Grandparents ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1060">
+                                <meta itemprop="height" content="1060">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61jF1p-rGpL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abuse and Neglect in Home Health and Hospice - Chinese | Activated ...">
+                                <img itemprop="contentUrl url" src='https://activatedinsights.com/wp-content/uploads/2023/08/Abuse-and-Neglect-in-Home-Health-and-Hospice.png' alt='Abuse and Neglect in Home Health and Hospice - Chinese | Activated ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="528">
+                                <meta itemprop="height" content="572">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Activated Insights" />
+                                </span>
+                                <a href='https://activatedinsights.com/wp-content/uploads/2023/08/Abuse-and-Neglect-in-Home-Health-and-Hospice.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What are the risk factors for suicide in rural Chinese elderly?">
+                                <img itemprop="contentUrl url" src='https://www.datocms-assets.com/12810/1589805761-research-connection-background.png?ar64=MTY6OQ&fill=blur&fit=fill&fm=webp&w=640' alt='What are the risk factors for suicide in rural Chinese elderly?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AFSP" />
+                                </span>
+                                <a href='https://www.datocms-assets.com/12810/1589805761-research-connection-background.png?ar64=MTY6OQ&fill=blur&fit=fill&fm=webp&w=640' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Confucius - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Confucius_Tang_Dynasty.jpg/220px-Confucius_Tang_Dynasty.jpg' alt='Confucius - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="402">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Confucius_Tang_Dynasty.jpg/220px-Confucius_Tang_Dynasty.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : AOFOTO 9x7ft Chinese Style Elderly Birthday Backdrop Red  Lantern Lucky Character Flowers Traditional Celebration Background Birthday  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/610jaEhzj5L.jpg' alt='Amazon.com : AOFOTO 9x7ft Chinese Style Elderly Birthday Backdrop Red  Lantern Lucky Character Flowers Traditional Celebration Background Birthday  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="666">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/610jaEhzj5L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Efgartigimod Monotherapy More Effective Than IVIG in Elderly ...">
+                                <img itemprop="contentUrl url" src='https://cdn.sanity.io/images/0vv8moc6/pharmacytimes/7ad36d90fa33bb6100e052b7b0c873303aeacd33-1200x600.jpg?fit=crop&auto=format' alt='Efgartigimod Monotherapy More Effective Than IVIG in Elderly ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pharmacy Times" />
+                                </span>
+                                <a href='https://cdn.sanity.io/images/0vv8moc6/pharmacytimes/7ad36d90fa33bb6100e052b7b0c873303aeacd33-1200x600.jpg?fit=crop&auto=format' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

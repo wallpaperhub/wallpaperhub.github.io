@@ -1,0 +1,129 @@
+<title>Luxury iPhone Wallpaper: Elevate Your Style</title>
+                    <meta name="description" content="Discover exquisite luxury iPhone wallpapers designed to enhance your device. Explore a curated collection of elegant and sophisticated designs to match your unique style. Transform your smartphone into a statement piece with our premium wallpapers. Perfect for those who value quality and aesthetics!">
+                    <meta name="keywords" content="luxury iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/luxury-iphone-wallpaper">
+                            <span itemprop="name">luxury iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Luxury iPhone Wallpaper: Elevate Your Style</h1>
+                <p>Elevate your iPhone's aesthetic with luxury wallpaper that exudes sophistication. Choose from stunning designs featuring opulent textures, elegant patterns, and upscale color palettes. Transform your device into a statement piece that reflects your unique style and taste. Discover the ultimate collection of luxury iPhone wallpapers today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="73 Luxury Designer Wallpaper ideas | hypebeast wallpaper, supreme ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/cd/af/58/cdaf5852d317ef3cbc20d66d1c609705.jpg' alt='73 Luxury Designer Wallpaper ideas | hypebeast wallpaper, supreme ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/cd/af/58/cdaf5852d317ef3cbc20d66d1c609705.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Most Popular Wood Luxury Wallpapers">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/iphone/gold-and-wood-luxury-28-09-2024-1727575949-hd-wallpaper.jpg' alt='Most Popular Wood Luxury Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="3198">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/iphone/gold-and-wood-luxury-28-09-2024-1727575949-hd-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxury Background iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/52/61/a3/5261a3dd0fbfdf50f6332b799a45d89b.jpg' alt='Luxury Background iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/52/61/a3/5261a3dd0fbfdf50f6332b799a45d89b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxury Gold, rareseen design, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/422/373/HD-wallpaper-luxury-gold-rareseen-design-thumbnail.jpg' alt='Luxury Gold, rareseen design, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/422/373/HD-wallpaper-luxury-gold-rareseen-design-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Most Popular Gold Luxury Wallpapers">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/iphone/luxury-gold-geometric-28-09-2024-1727587881-hd-wallpaper.jpg' alt='Most Popular Gold Luxury Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="3199">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/iphone/luxury-gold-geometric-28-09-2024-1727587881-hd-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxury iPhone, gold, luxurious, wooden, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/317/853/HD-wallpaper-luxury-iphone-gold-luxurious-wooden.jpg' alt='Luxury iPhone, gold, luxurious, wooden, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/317/853/HD-wallpaper-luxury-iphone-gold-luxurious-wooden.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxury iPhone 4k Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp12498900.jpg' alt='Luxury iPhone 4k Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp12498900.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25+ Ultimate Bundle iPhone Luxury Lifestyle Wallpapers | Black and ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/40996883/r/il/ceea7c/6067674313/il_570xN.6067674313_bqd1.jpg' alt='25+ Ultimate Bundle iPhone Luxury Lifestyle Wallpapers | Black and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="647">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/40996883/r/il/ceea7c/6067674313/il_570xN.6067674313_bqd1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone wallpaper - Luxury red pattern - Wallpaperize | Personalize ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitqpHoCEz0bIG9FzYSxlcXS9CPOECwKuV9ohdINC5fEUQUa-eGqwlHVzfP78EYVPdlCx9lRjt6I2VwTdzBPt9Lb589az6OBH0f-G_0HbAHEZ2Tn9Kl_Q661IogZ_AJY1SI2aqK314-KQkr/d/luxury-pattern-wallpaper.png' alt='Iphone wallpaper - Luxury red pattern - Wallpaperize | Personalize ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1818">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaperize" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitqpHoCEz0bIG9FzYSxlcXS9CPOECwKuV9ohdINC5fEUQUa-eGqwlHVzfP78EYVPdlCx9lRjt6I2VwTdzBPt9Lb589az6OBH0f-G_0HbAHEZ2Tn9Kl_Q661IogZ_AJY1SI2aqK314-KQkr/d/luxury-pattern-wallpaper.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxurious Louis Vuitton Fashion Collection Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/expensive-louis-vuitton-phone-t4fef6ggbqc399dh.webp' alt='Luxurious Louis Vuitton Fashion Collection Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/expensive-louis-vuitton-phone-t4fef6ggbqc399dh.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Simple Summer iPhone Wallpapers for a Refreshing Look</title>
+                    <meta name="description" content="Discover the perfect simple summer wallpaper for your iPhone! Enhance your device with minimalist designs that evoke warmth and relaxation. From serene beaches to vibrant sunsets, find the ideal backdrop to embrace the spirit of summer while keeping your screen stylish and fresh.">
+                    <meta name="keywords" content="iphone simple summer wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-simple-summer-wallpaper">
+                            <span itemprop="name">iphone simple summer wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Simple Summer iPhone Wallpapers for a Refreshing Look</h1>
+                <p>Brighten up your summer days with a simple iPhone wallpaper that captures the essence of the season. Think soft pastels, calming beaches, and vibrant sunsets—perfect for a refreshing summer vibe. These minimalist designs not only enhance your screen but also keep it stylish and uncluttered. Dive into summer simplicity!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Wallpaper For iPhone | 30+ Sun-Filled Backgrounds For Summer">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/02/b8/14/02b8148721c75fa01bff5e3dd5d96798.jpg' alt='Summer Wallpaper For iPhone | 30+ Sun-Filled Backgrounds For Summer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/02/b8/14/02b8148721c75fa01bff5e3dd5d96798.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fun and colorful iPhone wallpapers for summer! Summer themed phone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/48/a4/a2/48a4a2095ef478b63a58aa215ea83eed.jpg' alt='Fun and colorful iPhone wallpapers for summer! Summer themed phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="608">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/48/a4/a2/48a4a2095ef478b63a58aa215ea83eed.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="29 Summer iPhone Wallpaper Ideas to Obsess over">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/02/ab/26/02ab2668f731aa5d00a5d0a262dd0d62.jpg' alt='29 Summer iPhone Wallpaper Ideas to Obsess over'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="435">
+                                <meta itemprop="height" content="797">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/02/ab/26/02ab2668f731aa5d00a5d0a262dd0d62.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Hot Summer Wallpapers For IPhone Lockscreens">
+                                <img itemprop="contentUrl url" src='https://www.margaretbourne.com/wp-content/uploads/2023/04/Summer-Wallpapers-for-iPhone-Summer-flowers-and-landscape-576x1024.jpg' alt='30 Hot Summer Wallpapers For IPhone Lockscreens'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Margaret Bourne" />
+                                </span>
+                                <a href='https://www.margaretbourne.com/wp-content/uploads/2023/04/Summer-Wallpapers-for-iPhone-Summer-flowers-and-landscape-576x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4 Free Summer Phone Wallpapers - May Designs">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/82/5c/2b/825c2b55993ad928138e9a31bd99a742.jpg' alt='4 Free Summer Phone Wallpapers - May Designs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/82/5c/2b/825c2b55993ad928138e9a31bd99a742.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="29 Summer iPhone Wallpaper Ideas to Obsess over">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/d7/32/8a/d7328aa7fdc9351e69ac94a701ce1b6b.jpg' alt='29 Summer iPhone Wallpaper Ideas to Obsess over'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="439">
+                                <meta itemprop="height" content="795">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/d7/32/8a/d7328aa7fdc9351e69ac94a701ce1b6b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer iPhone Wallpapers | High Resolution Mobile Phone ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTEwL3JtNTc5LWJhY2tncm91bmQtNDliLWw5ZDM5eGMyLmpwZw.jpg' alt='Summer iPhone Wallpapers | High Resolution Mobile Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTEwL3JtNTc5LWJhY2tncm91bmQtNDliLWw5ZDM5eGMyLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Wallpaper Summer: 10 Stunning Designs for Your Screen">
+                                <img itemprop="contentUrl url" src='https://skyryedesign.com/wp-content/uploads/2024/05/25a1aae478677a07d09ff27f309c32b9.jpg' alt='iPhone Wallpaper Summer: 10 Stunning Designs for Your Screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sky Rye Design" />
+                                </span>
+                                <a href='https://skyryedesign.com/wp-content/uploads/2024/05/25a1aae478677a07d09ff27f309c32b9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Refresh Your Summer Look with an iPhone | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/summer-iphone-1242-x-2688-background-riatnewhfgd5t3ex.jpg' alt='Download Refresh Your Summer Look with an iPhone | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/summer-iphone-1242-x-2688-background-riatnewhfgd5t3ex.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Phone Wallpaper Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/53/28/ce/5328ce4a72221d151f8666be0c632512.jpg' alt='Summer Phone Wallpaper Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/53/28/ce/5328ce4a72221d151f8666be0c632512.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

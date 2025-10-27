@@ -1,0 +1,129 @@
+<title>Stunning Live Phone Wallpapers: Transform Your Screen</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="live phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/live-phone-wallpaper">
+                            <span itemprop="name">live phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Live Phone Wallpapers: Transform Your Screen</h1>
+                <p>Live phone wallpapers bring your device to life with vibrant animations and stunning visuals. These dynamic backgrounds change with time or interaction, offering a unique aesthetic experience. Choose from nature scenes, abstract art, or personalized themes to express your personality. Elevate your smartphone’s look today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Live Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/08/40/05/084005ac0ed7d1b32fe7a7ed0be75dc5.jpg' alt='4K Live Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="549">
+                                <meta itemprop="height" content="977">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/08/40/05/084005ac0ed7d1b32fe7a7ed0be75dc5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live Wallpaper For Mobile / 3D Wallpaper For Cell Phone">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/A1Us1Xw2gdL.jpg' alt='Live Wallpaper For Mobile / 3D Wallpaper For Cell Phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/A1Us1Xw2gdL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="help] can I turn this into a live wallpaper : r/androidthemes">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/help-can-i-turn-this-into-a-live-wallpaper-v0-7f29nq64pq2b1.jpg?width=640&crop=smart&auto=webp&s=2902f72ebccf1c18ccb4cc3df2d24bb9ff406d35' alt='help] can I turn this into a live wallpaper : r/androidthemes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/help-can-i-turn-this-into-a-live-wallpaper-v0-7f29nq64pq2b1.jpg?width=640&crop=smart&auto=webp&s=2902f72ebccf1c18ccb4cc3df2d24bb9ff406d35' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool live wallpaper for Rog phone 2!">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/TEV11x7lsqRoe45_CLr1DpCgi-7EqSx6CXpokOoQT0c.png?format=pjpg&auto=webp&s=ba769e5fb2f9ae510bc229820d2660830047721b' alt='Cool live wallpaper for Rog phone 2!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/TEV11x7lsqRoe45_CLr1DpCgi-7EqSx6CXpokOoQT0c.png?format=pjpg&auto=webp&s=ba769e5fb2f9ae510bc229820d2660830047721b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Electricity | LIVE Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e6/06/0e/e6060e7fa003e50cc422708af0c6bb9f.jpg' alt='Electricity | LIVE Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1590">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e6/06/0e/e6060e7fa003e50cc422708af0c6bb9f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live Phone Wallpaper HD / Live Mobile Wallpaper 4K">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/A11-RQQyd6L.jpg' alt='Live Phone Wallpaper HD / Live Mobile Wallpaper 4K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/A11-RQQyd6L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live Cyberpunk 2077 wallpapers | Forums - CD PROJEKT RED">
+                                <img itemprop="contentUrl url" src='https://forums.cdprojektred.com/index.php?attachments/screenshot_20200703-232928-jpg.11049896/' alt='Live Cyberpunk 2077 wallpapers | Forums - CD PROJEKT RED'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CD Projekt Red Forums" />
+                                </span>
+                                <a href='https://forums.cdprojektred.com/index.php?attachments/screenshot_20200703-232928-jpg.11049896/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Live Wallpaper for Phone by miryam siri">
+                                <img itemprop="contentUrl url" src='https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/8d/3e/15/8d3e1587-99cb-4fe6-5289-0bd2a8cec587/pr_source.png/750x750bb.jpeg' alt='Cool Live Wallpaper for Phone by miryam siri'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="422">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AppAdvice" />
+                                </span>
+                                <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/8d/3e/15/8d3e1587-99cb-4fe6-5289-0bd2a8cec587/pr_source.png/750x750bb.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2511+ Mobile Live Wallpapers for Android & iPhone">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/i/c/235x418/media/1397/goku-ultra-instinct.720x1280.jpg' alt='2511+ Mobile Live Wallpapers for Android & iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="235">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/i/c/235x418/media/1397/goku-ultra-instinct.720x1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Punk Rider - Live Wallpaper for your Smartphone">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/a-punk-rider-live-wallpaper-for-your-smartphone-v0-bjczZ2x0ZXhzNHlkMfZuViFqvAzPrLwiJ5iJWKT1Nub3SQiYXkBLFpqtlWm4.png?format=pjpg&auto=webp&s=f5b217a3674f529f225a941f3e9be113bf93e52e' alt='A Punk Rider - Live Wallpaper for your Smartphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/a-punk-rider-live-wallpaper-for-your-smartphone-v0-bjczZ2x0ZXhzNHlkMfZuViFqvAzPrLwiJ5iJWKT1Nub3SQiYXkBLFpqtlWm4.png?format=pjpg&auto=webp&s=f5b217a3674f529f225a941f3e9be113bf93e52e' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

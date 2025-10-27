@@ -1,0 +1,129 @@
+<title>Transform Your Space with Pull and Stick Wallpaper</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="pull and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/pull-and-stick-wallpaper">
+                            <span itemprop="name">pull and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Pull and Stick Wallpaper</h1>
+                <p>Pull and stick wallpaper revolutionizes home decor with its easy application and removal process. Ideal for renters or DIY enthusiasts, this versatile option comes in various patterns and textures, allowing you to personalize your space. No glue or paste is needed, simply peel and stick to achieve a fresh new look in minutes!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scandinavian Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/scandinavian-peel-and-stick-wallpaper-254673.png?crop=center&height=1411&v=1718826286&width=1596' alt='Scandinavian Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1596">
+                                <meta itemprop="height" content="1411">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/scandinavian-peel-and-stick-wallpaper-254673.png?crop=center&height=1411&v=1718826286&width=1596' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classic Toile Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-a8nz7a35xo/images/stencil/1280x1280/products/241/1189/classic-toile-peel-and-stick-wallpaper__35582.1687211877.jpg?c=2' alt='Classic Toile Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1203">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Paperbird" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-a8nz7a35xo/images/stencil/1280x1280/products/241/1189/classic-toile-peel-and-stick-wallpaper__35582.1687211877.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unicorn Wallpaper">
+                                <img itemprop="contentUrl url" src='http://uwdecals.com/cdn/shop/products/unicorn-wallpaper_pink-girls-room_bb5217d5-a73b-4894-b010-ffabb869602a.jpg?v=1689366473' alt='Unicorn Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Urbanwalls" />
+                                </span>
+                                <a href='http://uwdecals.com/cdn/shop/products/unicorn-wallpaper_pink-girls-room_bb5217d5-a73b-4894-b010-ffabb869602a.jpg?v=1689366473' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MyStyle Whites & Off-Whites Vinyl Peel & Stick Wallpaper Roll (Covers 28.2  Sq. Ft.) MS3939HD">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/2ec2f5f0-445a-4b95-999a-e8786914f8f0/svn/mystyle-wallpaper-rolls-ms3939hd-31_600.jpg' alt='MyStyle Whites & Off-Whites Vinyl Peel & Stick Wallpaper Roll (Covers 28.2  Sq. Ft.) MS3939HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/2ec2f5f0-445a-4b95-999a-e8786914f8f0/svn/mystyle-wallpaper-rolls-ms3939hd-31_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Boho Wallpaper / Peel and Stick Wallpaper Removable Wallpaper Home  Decor Wall Art Wall Decor Room Decor - D150">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/products/il_fullxfull.5290288826_8jp7.jpg?v=1725127530&width=1946' alt='Floral Boho Wallpaper / Peel and Stick Wallpaper Removable Wallpaper Home  Decor Wall Art Wall Decor Room Decor - D150'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="2919">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/products/il_fullxfull.5290288826_8jp7.jpg?v=1725127530&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Removable Wallpaper Blue Swirl Bathroom Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick Wall Mural 3529">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3478692431_t6hg_4073d87c-9293-4ea8-8e0a-a967dd013490.jpg' alt='Removable Wallpaper Blue Swirl Bathroom Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick Wall Mural 3529'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3478692431_t6hg_4073d87c-9293-4ea8-8e0a-a967dd013490.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ornamental Tile Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://tempaper.com/cdn/shop/products/OT15087-silver-ornamental-tile-peel-stick-wallpaper-bathroom_250418cd-ec0f-414f-bdf1-1557ec582968.jpg?v=1674753103' alt='Ornamental Tile Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='http://tempaper.com/cdn/shop/products/OT15087-silver-ornamental-tile-peel-stick-wallpaper-bathroom_250418cd-ec0f-414f-bdf1-1557ec582968.jpg?v=1674753103' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Botanical Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/products/VintageDarkBotanicalWallpaper_PeelandStickWallpaper_RemovableWallpaper_BotanicalWallpaper_TemporaryWallpaper_botanicalforestWallpaper.png?v=1718902431' alt='Dark Botanical Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="988">
+                                <meta itemprop="height" content="988">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/products/VintageDarkBotanicalWallpaper_PeelandStickWallpaper_RemovableWallpaper_BotanicalWallpaper_TemporaryWallpaper_botanicalforestWallpaper.png?v=1718902431' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Malmberg Vinyl Peel & Stick Wallpaper Roll">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/80066471/compr-r85/2274/227419282/malmberg-vinyl-peel-stick-wallpaper-roll.jpg' alt='Malmberg Vinyl Peel & Stick Wallpaper Roll'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Perigold" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/80066471/compr-r85/2274/227419282/malmberg-vinyl-peel-stick-wallpaper-roll.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golden Hummingbirds Wallcovering">
+                                <img itemprop="contentUrl url" src='https://greenplanetprint.com/cdn/shop/products/195a.jpg?v=1666806732' alt='Golden Hummingbirds Wallcovering'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3549">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Green Planet Print" />
+                                </span>
+                                <a href='https://greenplanetprint.com/cdn/shop/products/195a.jpg?v=1666806732' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

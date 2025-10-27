@@ -1,0 +1,129 @@
+<title>When Was Homeschooling Invented? History & Evolution</title>
+                    <meta name="description" content="Explore the origins of homeschooling, tracing its evolution from ancient methods to modern practices. Learn how the movement gained traction in the 1970s as families sought personalized education, shaping today’s diverse learning experiences. Discover homeschooling's rich history and impact on education.">
+                    <meta name="keywords" content="when was homeschooling invented">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/when-was-homeschooling-invented">
+                            <span itemprop="name">when was homeschooling invented</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>When Was Homeschooling Invented? History & Evolution</h1>
+                <p>Homeschooling has roots that trace back to ancient times, but it became more formally recognized in the late 20th century. The modern homeschooling movement gained momentum in the 1970s, driven by a desire for personalized education and a critique of traditional schooling. Today, it offers diverse educational approaches tailored to families.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Homeschooling - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/d/d0/Representation%2C_Punch_Denmark%2C_1889.jpg' alt='Homeschooling - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3788">
+                                <meta itemprop="height" content="3228">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/d/d0/Representation%2C_Punch_Denmark%2C_1889.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Homeschooling - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Fireside_Education_frontispiece.jpg/220px-Fireside_Education_frontispiece.jpg' alt='Homeschooling - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="205">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Fireside_Education_frontispiece.jpg/220px-Fireside_Education_frontispiece.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A History Of Homeschooling">
+                                <img itemprop="contentUrl url" src='https://www.homeschool-activities.com/images/famous-homeschoolers.jpg' alt='A History Of Homeschooling'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="403">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Homeschool-Activities.com" />
+                                </span>
+                                <a href='https://www.homeschool-activities.com/images/famous-homeschoolers.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thomas Edison - Famous Homeschoolers - Famous Homeschool Parents">
+                                <img itemprop="contentUrl url" src='http://www.famoushomeschoolers.net/images/edison.jpg' alt='Thomas Edison - Famous Homeschoolers - Famous Homeschool Parents'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="508">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Famous Homeschoolers" />
+                                </span>
+                                <a href='http://www.famoushomeschoolers.net/images/edison.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Homeschool World - News - History of Homeschooling">
+                                <img itemprop="contentUrl url" src='http://www.home-school.com/images/homeschool-history/SharingPic.jpg' alt='Homeschool World - News - History of Homeschooling'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Homeschool World" />
+                                </span>
+                                <a href='http://www.home-school.com/images/homeschool-history/SharingPic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A History Of Homeschooling">
+                                <img itemprop="contentUrl url" src='https://www.homeschool-activities.com/images/second-generation-homeschooling-403.jpg' alt='A History Of Homeschooling'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Homeschool-Activities.com" />
+                                </span>
+                                <a href='https://www.homeschool-activities.com/images/second-generation-homeschooling-403.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Homeschooling – Progressive Schooling">
+                                <img itemprop="contentUrl url" src='https://progressiveschooling.com/wp-content/uploads/2020/07/History-of-homeschooling-683x1024.png' alt='History of Homeschooling – Progressive Schooling'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Progressive Schooling" />
+                                </span>
+                                <a href='https://progressiveschooling.com/wp-content/uploads/2020/07/History-of-homeschooling-683x1024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Homeschool World - News - Homeschooled - How American ...">
+                                <img itemprop="contentUrl url" src='https://www.home-school.com/images/hs-america/2-homeschool-history-1840-1918.jpg' alt='Homeschool World - News - Homeschooled - How American ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="715">
+                                <meta itemprop="height" content="496">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Homeschool World" />
+                                </span>
+                                <a href='https://www.home-school.com/images/hs-america/2-homeschool-history-1840-1918.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="  ✨ Homeschooling: Myths vs Facts! ✨   Did you know that ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3575466244447506557' alt='  ✨ Homeschooling: Myths vs Facts! ✨   Did you know that ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3575466244447506557' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Homeschooling - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/HomeschoolSurvey2023.png/400px-HomeschoolSurvey2023.png' alt='Homeschooling - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="303">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/HomeschoolSurvey2023.png/400px-HomeschoolSurvey2023.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

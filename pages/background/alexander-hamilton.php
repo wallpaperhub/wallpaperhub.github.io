@@ -1,0 +1,129 @@
+<title>Discovering Alexander Hamilton: America's Revolutionary Financier</title>
+                    <meta name="description" content="Explore the life of Alexander Hamilton, America's first Treasury Secretary, as he shaped the nation's financial foundation. Delve into his remarkable journey, pivotal contributions, and the legacy that continues to influence the economy today. Perfect for history buffs and those curious about America's founding leaders!">
+                    <meta name="keywords" content="alexander hamilton">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/alexander-hamilton">
+                            <span itemprop="name">alexander hamilton</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discovering Alexander Hamilton: America's Revolutionary Financier</h1>
+                <p>Alexander Hamilton was a founding father of the United States, known for being the first Secretary of the Treasury. He played a pivotal role in creating the country's financial system and establishing the national bank. His life story is filled with ambition, intellect, and drama, culminating in a famous duel with Aaron Burr.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alexander Hamilton - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/4/4f/John_Trumbull_-_Alexander_Hamilton_-_Google_Art_Project.jpg' alt='Alexander Hamilton - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5890">
+                                <meta itemprop="height" content="7326">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/4/4f/John_Trumbull_-_Alexander_Hamilton_-_Google_Art_Project.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alexander Hamilton">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71feNEfgYRL._AC_UF1000,1000_QL80_.jpg' alt='Alexander Hamilton'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="649">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71feNEfgYRL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alexander Hamilton | Biography, Duel, Musical, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/51/166251-050-5855F9ED/oil-Alexander-Hamilton-canvas-John-Trumbull-National-1792.jpg' alt='Alexander Hamilton | Biography, Duel, Musical, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1384">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/51/166251-050-5855F9ED/oil-Alexander-Hamilton-canvas-John-Trumbull-National-1792.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alexander Hamilton: Father of America's Economy - History">
+                                <img itemprop="contentUrl url" src='https://www.historyonthenet.com/wp-content/uploads/2017/09/alexander-hamilton-9326481-1-401-e1506905729807.jpg' alt='Alexander Hamilton: Father of America's Economy - History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="History on the Net" />
+                                </span>
+                                <a href='https://www.historyonthenet.com/wp-content/uploads/2017/09/alexander-hamilton-9326481-1-401-e1506905729807.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A hip-hop musical about Alexander Hamilton is Broadway's hottest ...">
+                                <img itemprop="contentUrl url" src='https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/15518922/gettyimages-483195554-f6c4bae54de9608690974d50189e168cb45cb2f6-s900-c85.0.0.1443566858.jpg?quality=90&strip=all&crop=12.555555555556,0,74.888888888889,100' alt='A hip-hop musical about Alexander Hamilton is Broadway's hottest ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="666">
+                                <meta itemprop="height" content="674">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vox" />
+                                </span>
+                                <a href='https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/15518922/gettyimages-483195554-f6c4bae54de9608690974d50189e168cb45cb2f6-s900-c85.0.0.1443566858.jpg?quality=90&strip=all&crop=12.555555555556,0,74.888888888889,100' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alexander Hamilton | Biography, Duel, Musical, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/63/150963-050-4035ACB6/Alexander-Hamilton.jpg' alt='Alexander Hamilton | Biography, Duel, Musical, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1196">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/63/150963-050-4035ACB6/Alexander-Hamilton.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alexander Hamilton | Hamilton Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/hamiltonmusical/images/7/78/Alexander-0.jpg/revision/latest/thumbnail/width/360/height/450?cb=20201203133003' alt='Alexander Hamilton | Hamilton Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hamilton Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/hamiltonmusical/images/7/78/Alexander-0.jpg/revision/latest/thumbnail/width/360/height/450?cb=20201203133003' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Biography of Alexander Hamilton">
+                                <img itemprop="contentUrl url" src='https://www.ushistory.org/valleyforge/images/hamilton.jpg' alt='Biography of Alexander Hamilton'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="948">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USHistory.org" />
+                                </span>
+                                <a href='https://www.ushistory.org/valleyforge/images/hamilton.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History Crush: Alexander Hamilton – Pieces of History">
+                                <img itemprop="contentUrl url" src='https://prologue.blogs.archives.gov/wp-content/uploads/sites/9/2012/02/a-hamilton-national-portrait-gallery.jpg?w=144&h=300' alt='History Crush: Alexander Hamilton – Pieces of History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1262">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pieces of History - National Archives" />
+                                </span>
+                                <a href='https://prologue.blogs.archives.gov/wp-content/uploads/sites/9/2012/02/a-hamilton-national-portrait-gallery.jpg?w=144&h=300' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alexander Hamilton | Disney Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/disney/images/0/09/Alexander_Hamilton_Lin-Manuel_Miranda.jpg/revision/latest?cb=20200622050711' alt='Alexander Hamilton | Disney Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2597">
+                                <meta itemprop="height" content="3408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/disney/images/0/09/Alexander_Hamilton_Lin-Manuel_Miranda.jpg/revision/latest?cb=20200622050711' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

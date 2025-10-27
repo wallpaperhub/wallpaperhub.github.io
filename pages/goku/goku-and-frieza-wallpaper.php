@@ -1,0 +1,129 @@
+<title>Epic Goku and Frieza Wallpapers for Fans</title>
+                    <meta name="description" content="Explore a collection of breathtaking Goku and Frieza wallpapers perfect for any Dragon Ball fan! Download high-quality, vibrant images showcasing their epic rivalry and powerful transformations, ideal for personalizing your device. Stand out with dynamic designs that celebrate these iconic characters!">
+                    <meta name="keywords" content="goku and frieza wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/goku">
+                            <span itemprop="name">Goku</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/goku/goku-and-frieza-wallpaper">
+                            <span itemprop="name">goku and frieza wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Goku and Frieza Wallpapers for Fans</h1>
+                <p>Transform your device with stunning Goku and Frieza wallpapers that capture the intensity of their epic battles and powerful transformations. Whether you're a fan of the classic Dragon Ball series or the latest adventures, these wallpapers bring vibrant colors and dynamic poses right to your screen, showcasing the ultimate rivalry.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hydros on X: "SPARKING Legends Limited Goku & Frieza (Final Form ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FxHVkdOXsAE1XkE?format=jpg&name=4096x4096' alt='Hydros on X: "SPARKING Legends Limited Goku & Frieza (Final Form ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FxHVkdOXsAE1XkE?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku vs Frieza 8K Ultra HD Dragon Ball Super Wallpaper by NekoAR">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/867/867817.jpg' alt='Goku vs Frieza 8K Ultra HD Dragon Ball Super Wallpaper by NekoAR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="9500">
+                                <meta itemprop="height" content="6400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/867/867817.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD goku frieza wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/227/213/HD-wallpaper-goku-and-frieza-dragon-ball-super-goku-frieza-anime-saiyan-cool.jpg' alt='HD goku frieza wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/227/213/HD-wallpaper-goku-and-frieza-dragon-ball-super-goku-frieza-anime-saiyan-cool.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Possible Goku V Frieza pt 2 wallpaper? (Image just for speculation ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/zr6lmwwx6pl71.jpg' alt='Possible Goku V Frieza pt 2 wallpaper? (Image just for speculation ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/zr6lmwwx6pl71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LR Goku and Frieza Super Saiyan Dragon Ball Z Dokkan Battle Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ea/42/a2/ea42a26e3b33b878526636ed3bc23984.jpg' alt='LR Goku and Frieza Super Saiyan Dragon Ball Z Dokkan Battle Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ea/42/a2/ea42a26e3b33b878526636ed3bc23984.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku and Frieza Dragon Ball Z Dokkan Battle Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5e/e1/3c/5ee13c8d87f3def78f3c9de404baacfc.jpg' alt='Goku and Frieza Dragon Ball Z Dokkan Battle Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1055">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5e/e1/3c/5ee13c8d87f3def78f3c9de404baacfc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SSB Goku SSB Vegeta and Golden Frieza Wallpaper by Quite-brokeN on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/581fa339-dd09-4c36-94f4-4f700c88e90c/de9t6bq-9ba2a20b-3894-48e1-bfdd-3b19a6db9ef6.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU4MWZhMzM5LWRkMDktNGMzNi05NGY0LTRmNzAwYzg4ZTkwY1wvZGU5dDZicS05YmEyYTIwYi0zODk0LTQ4ZTEtYmZkZC0zYjE5YTZkYjllZjYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.cH3E77h1eu95bSTl9q22CCDdEhcI-pmmIkAmye4LSRo' alt='SSB Goku SSB Vegeta and Golden Frieza Wallpaper by Quite-brokeN on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="872">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/581fa339-dd09-4c36-94f4-4f700c88e90c/de9t6bq-9ba2a20b-3894-48e1-bfdd-3b19a6db9ef6.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU4MWZhMzM5LWRkMDktNGMzNi05NGY0LTRmNzAwYzg4ZTkwY1wvZGU5dDZicS05YmEyYTIwYi0zODk0LTQ4ZTEtYmZkZC0zYjE5YTZkYjllZjYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.cH3E77h1eu95bSTl9q22CCDdEhcI-pmmIkAmye4LSRo' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper for Episode 131 - Goku/Frieza : r/dragonball">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/pog3zsugmvn01.jpg' alt='Wallpaper for Episode 131 - Goku/Frieza : r/dragonball'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/pog3zsugmvn01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku and Frieza" Poster for Sale by GOKA">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/12/dc/95/12dc95b482776ca14ddb4bfa5b5e34b4.jpg' alt='Goku and Frieza" Poster for Sale by GOKA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/12/dc/95/12dc95b482776ca14ddb4bfa5b5e34b4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Goku Frieza (Dragon Ball) Anime Dragon Ball Z HD ...">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/970/970519.jpg' alt='Download Goku Frieza (Dragon Ball) Anime Dragon Ball Z HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2205">
+                                <meta itemprop="height" content="1240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/970/970519.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

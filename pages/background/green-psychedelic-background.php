@@ -1,0 +1,129 @@
+<title>Vibrant Green Psychedelic Backgrounds for Creative Inspiration</title>
+                    <meta name="description" content="Discover captivating green psychedelic backgrounds perfect for any creative project. Ideal for digital designs or room decor, our collection inspires energy and imagination with swirling patterns and vivid colors. Elevate your space or work with these hypnotic visuals today!">
+                    <meta name="keywords" content="green psychedelic background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/green-psychedelic-background">
+                            <span itemprop="name">green psychedelic background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Green Psychedelic Backgrounds for Creative Inspiration</h1>
+                <p>Transform your space with a vibrant green psychedelic background that radiates energy and creativity. Whether for digital projects, art, or interior design, this hypnotic design captivates the eye with swirling patterns and rich tones of green. Escape into a world of imagination and let your creativity flow!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Psychedelic Green Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/still-life-with-psychedelic-colored-background_23-2149635470.jpg' alt='Psychedelic Green Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/still-life-with-psychedelic-colored-background_23-2149635470.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Psychedelic Background Stock Photos and Pictures - 199,496 ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/concentric-green-psychedelic-waves-effect-260nw-2146382549.jpg' alt='Green Psychedelic Background Stock Photos and Pictures - 199,496 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="462">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/concentric-green-psychedelic-waves-effect-260nw-2146382549.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Psychedelic Green Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/luxurious-lime-green-unique-liquid-background_23-2148097604.jpg' alt='Psychedelic Green Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/luxurious-lime-green-unique-liquid-background_23-2148097604.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Psychedelic Green Colour Trippy Abstract Art Stock Illustration ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/psychedelic-green-colour-trippy-abstract-260nw-2214435409.jpg' alt='Psychedelic Green Colour Trippy Abstract Art Stock Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/psychedelic-green-colour-trippy-abstract-260nw-2214435409.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Psychedelic Green Fractals: HD Wallpaper for a Trippy Experience">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/680/68011.jpg' alt='Psychedelic Green Fractals: HD Wallpaper for a Trippy Experience'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/680/68011.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green psychedelic background with rays, lines or stripes ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/02/24/15/30/1000_F_224153015_HLZ85j4lUfHqjyMbxI72PTiivY886eeE.jpg' alt='Green psychedelic background with rays, lines or stripes ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/02/24/15/30/1000_F_224153015_HLZ85j4lUfHqjyMbxI72PTiivY886eeE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Psychedelic dark green colour trippy abstract art background ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/06/02/44/04/1000_F_602440408_NVPyUqtNoUn33lz63emoNCNn4gcoikeo.jpg' alt='Psychedelic dark green colour trippy abstract art background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/06/02/44/04/1000_F_602440408_NVPyUqtNoUn33lz63emoNCNn4gcoikeo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Green Psychedelic Liquefied Background. Fluid Green ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2B7H0FH/abstract-green-psychedelic-liquefied-background-fluid-green-texture-in-digital-art-2B7H0FH.jpg' alt='Abstract Green Psychedelic Liquefied Background. Fluid Green ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="821">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2B7H0FH/abstract-green-psychedelic-liquefied-background-fluid-green-texture-in-digital-art-2B7H0FH.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green psychedelic motion background like plants Stock Footage Video">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1089098002/video/green-psychedelic-motion-background-like-plants.jpg?s=640x640&k=20&c=LwhfBoMjZpqWo9GCXMFInRjyZOc1cpMSpI5WCda-Qig=' alt='Green psychedelic motion background like plants Stock Footage Video'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1089098002/video/green-psychedelic-motion-background-like-plants.jpg?s=640x640&k=20&c=LwhfBoMjZpqWo9GCXMFInRjyZOc1cpMSpI5WCda-Qig=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Psychedelic Green Background Stock Photo, Picture and Royalty Free ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/nataliagesto/nataliagesto1205/nataliagesto120500300/13525450-psychedelic-green-background.jpg' alt='Psychedelic Green Background Stock Photo, Picture and Royalty Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="975">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/nataliagesto/nataliagesto1205/nataliagesto120500300/13525450-psychedelic-green-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Elevate Your Space: Luxury Dining Room Wallpaper Ideas</title>
+                    <meta name="description" content="Discover stunning luxury dining room wallpaper that transforms your space into a masterpiece. Explore premium designs, textures, and colors to elevate your dining experience and impress guests. Perfect for stylish homes seeking elegance and sophistication in every meal. Let your walls tell your design story!">
+                    <meta name="keywords" content="luxury dining room wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room">
+                            <span itemprop="name">Room</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room/luxury-dining-room-wallpaper">
+                            <span itemprop="name">luxury dining room wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Space: Luxury Dining Room Wallpaper Ideas</h1>
+                <p>Transform your dining experience with luxury dining room wallpaper that exudes elegance and sophistication. Choose from a wide range of styles, textures, and colors to create a stunning backdrop perfect for intimate family dinners or lavish entertaining. Elevate your interior design with premium quality wallpaper that reflects your taste and lifestyle.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern wallpaper for dining room – buy dining room mural wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://static.uwalls.com/products/0/632/u12150piq1mr_900.webp' alt='Modern wallpaper for dining room – buy dining room mural wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uwalls.com" />
+                                </span>
+                                <a href='https://static.uwalls.com/products/0/632/u12150piq1mr_900.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eye-Catching Dining Rooms with Floral Wallpaper - How to Use ...">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/10image-1567706955.jpg' alt='Eye-Catching Dining Rooms with Floral Wallpaper - How to Use ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ELLE Decor" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/10image-1567706955.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="18 Dining Room Wallpaper Ideas That'll Elevate All Your Dinner Parties">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/arent-pyke-amareloterrrace-fullwidth-1710at2x-1024x676-1553878929.jpg?crop=1xw:0.8520710059171598xh;center,top&resize=1200:*' alt='18 Dining Room Wallpaper Ideas That'll Elevate All Your Dinner Parties'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="House Beautiful" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/arent-pyke-amareloterrrace-fullwidth-1710at2x-1024x676-1553878929.jpg?crop=1xw:0.8520710059171598xh;center,top&resize=1200:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dining Room Wallpaper | Dining Area Wallpaper | I Love Wallpaper">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/2-Liquid-Marble_blue-_-Bronze_ILW072_0050_1_WEB.webp?crop=center&height=1080&v=1706010702&width=1080' alt='Dining Room Wallpaper | Dining Area Wallpaper | I Love Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/2-Liquid-Marble_blue-_-Bronze_ILW072_0050_1_WEB.webp?crop=center&height=1080&v=1706010702&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eye-Catching Dining Rooms with Floral Wallpaper - How to Use ...">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/8image-1567705690.jpg' alt='Eye-Catching Dining Rooms with Floral Wallpaper - How to Use ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2700">
+                                <meta itemprop="height" content="3494">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ELLE Decor" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/8image-1567705690.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dining room wallpaper ideas: 11 ways to decorate for drama | Homes ...">
+                                <img itemprop="contentUrl url" src='https://cdn.mos.cms.futurecdn.net/PhXpUYinKBbFBowiKDky5X.jpg' alt='Dining room wallpaper ideas: 11 ways to decorate for drama | Homes ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Homes & Gardens" />
+                                </span>
+                                <a href='https://cdn.mos.cms.futurecdn.net/PhXpUYinKBbFBowiKDky5X.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern wallpaper for dining room – buy dining room mural wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://static.uwalls.com/products/12000/12837/u49408piq1mr_900.webp' alt='Modern wallpaper for dining room – buy dining room mural wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uwalls.com" />
+                                </span>
+                                <a href='https://static.uwalls.com/products/12000/12837/u49408piq1mr_900.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Viva Tropicana, (Two Rolls) Luxury Tropical Wallpaper • Milton & King">
+                                <img itemprop="contentUrl url" src='https://s29938.pcdn.co/wp-content/uploads/2018/11/Wallpaper-KH-Viva-Duckegg-7.jpg.optimal.jpg' alt='Viva Tropicana, (Two Rolls) Luxury Tropical Wallpaper • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://s29938.pcdn.co/wp-content/uploads/2018/11/Wallpaper-KH-Viva-Duckegg-7.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="18 Beautiful Dining Room Wallpaper Ideas 2021">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/caroline-gidiere-birmingham-dining-room-1598630497.jpg' alt='18 Beautiful Dining Room Wallpaper Ideas 2021'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4350">
+                                <meta itemprop="height" content="6525">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Veranda" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/caroline-gidiere-birmingham-dining-room-1598630497.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eye-Catching Dining Rooms with Floral Wallpaper - How to Use ...">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/14image-1567708011.jpg' alt='Eye-Catching Dining Rooms with Floral Wallpaper - How to Use ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ELLE Decor" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/14image-1567708011.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

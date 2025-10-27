@@ -1,0 +1,129 @@
+<title>Lofi Room Wallpaper: Chill Aesthetic for Your Space</title>
+                    <meta name="description" content="Add a touch of serenity to your environment with our lofi room wallpaper collection. Perfect for study or relaxation, these designs bring warmth and inspiration to any space. Explore stunning visuals that are both calming and stylish, elevating your home décor effortlessly.">
+                    <meta name="keywords" content="lofi room wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room">
+                            <span itemprop="name">Room</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room/lofi-room-wallpaper">
+                            <span itemprop="name">lofi room wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Lofi Room Wallpaper: Chill Aesthetic for Your Space</h1>
+                <p>Transform your space with soothing lofi room wallpaper. These tranquil designs set the perfect mood for relaxation, study, or creativity. Offering a blend of calming colors and art, lofi wallpapers create a cozy atmosphere, ideal for enhancing your personal sanctuary. Dive into a world of laid-back vibes and inspiration today.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="purple lofi bedroom 4k live wallpaper - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/jjFJjVS-8hY/maxresdefault.jpg' alt='purple lofi bedroom 4k live wallpaper - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/jjFJjVS-8hY/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lofi Room Beauty [3840x2160] : r/wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/1ls0q4zrqlpb1.jpg' alt='Lofi Room Beauty [3840x2160] : r/wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/1ls0q4zrqlpb1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Enjoy the perfect mix of vibrant décor and comforting ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/lo-fi-room-28y07gypcq8qwqcv.jpg' alt='Download Enjoy the perfect mix of vibrant décor and comforting ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/lo-fi-room-28y07gypcq8qwqcv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cozy lo-fi room I made for Kermitroo on Instagram. : r/LofiHipHop">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/cozy-lo-fi-room-i-made-for-kermitroo-on-instagram-v0-pyt3d7vxk1aa1.png?auto=webp&s=089a2e88fb3f4d98eac36d3de3894a1e7ef57bb9' alt='Cozy lo-fi room I made for Kermitroo on Instagram. : r/LofiHipHop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/cozy-lo-fi-room-i-made-for-kermitroo-on-instagram-v0-pyt3d7vxk1aa1.png?auto=webp&s=089a2e88fb3f4d98eac36d3de3894a1e7ef57bb9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Serene Lofi Anime Room - HD Wallpaper by ArseniXC">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/749/thumb-1920-749455.png' alt='Serene Lofi Anime Room - HD Wallpaper by ArseniXC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/749/thumb-1920-749455.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Lo-fi Room Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ff/c5/e9/ffc5e9c9a1d56f535c5de634b6071a3b.jpg' alt='Awesome Lo-fi Room Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ff/c5/e9/ffc5e9c9a1d56f535c5de634b6071a3b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cozy Lofi Room - HD Cartoon Wallpaper by steviefeesh">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/137/thumb-1920-1374662.png' alt='Cozy Lofi Room - HD Cartoon Wallpaper by steviefeesh'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/137/thumb-1920-1374662.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ec/65/73/ec657382deed5cc8db3f7efb2329f7a3.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ec/65/73/ec657382deed5cc8db3f7efb2329f7a3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LoFi Room">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/Ji4PXjbUplKfDqQbxkxO08SNXvWxcNztLeuV-Q3Hwho.png?format=pjpg&auto=webp&s=3209c18ccd04dce7145f79285ccca8d28e6c7206' alt='LoFi Room'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/Ji4PXjbUplKfDqQbxkxO08SNXvWxcNztLeuV-Q3Hwho.png?format=pjpg&auto=webp&s=3209c18ccd04dce7145f79285ccca8d28e6c7206' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LO-FI, room, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/692/630/HD-wallpaper-lo-fi-room.jpg' alt='LO-FI, room, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/692/630/HD-wallpaper-lo-fi-room.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

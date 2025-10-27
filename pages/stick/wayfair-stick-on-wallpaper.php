@@ -1,0 +1,129 @@
+<title>Transform Your Space: Wayfair Stick-On Wallpaper</title>
+                    <meta name="description" content="Discover Wayfair's stick-on wallpaper for an easy decor upgrade. Choose from various designs to enhance your walls without the hassle. Perfect for renters, it's removable and repositionable, making it a smart choice for any project. Revamp your home with style and convenience today!">
+                    <meta name="keywords" content="wayfair stick on wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/wayfair-stick-on-wallpaper">
+                            <span itemprop="name">wayfair stick on wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space: Wayfair Stick-On Wallpaper</h1>
+                <p>Wayfair's stick-on wallpaper offers a stylish and convenient solution for transforming any space. With a wide variety of patterns and textures, it adds personality without the mess of traditional wallpaper. Easily removable and repositionable, it's perfect for renters or those looking for a temporary refresh. Upgrade your interior decor effortlessly!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Malmberg Peel & Stick Roll">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/80066471/compr-r85/2274/227419282/malmberg-peel-stick-roll.jpg' alt='Malmberg Peel & Stick Roll'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/80066471/compr-r85/2274/227419282/malmberg-peel-stick-roll.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ajang Peel & Stick Floral Roll">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/72759729/resize-h755-w755%5Ecompr-r85/2284/228419516/Ajang+Peel+%26+Stick+Floral+Roll.jpg' alt='Ajang Peel & Stick Floral Roll'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="755">
+                                <meta itemprop="height" content="755">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/72759729/resize-h755-w755%5Ecompr-r85/2284/228419516/Ajang+Peel+%26+Stick+Floral+Roll.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barnier Peel & Stick Floral Tile">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/92505024/resize-h800-w800%5Ecompr-r85/1927/192736579/Barnier+Peel+%26+Stick+Floral+Tile.jpg' alt='Barnier Peel & Stick Floral Tile'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/92505024/resize-h800-w800%5Ecompr-r85/1927/192736579/Barnier+Peel+%26+Stick+Floral+Tile.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wunsch Peel & Stick Floral Roll">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/19515931/resize-h755-w755%5Ecompr-r85/5511/55115092/Wunsch+Peel+%26+Stick+Floral+Roll.jpg' alt='Wunsch Peel & Stick Floral Roll'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="755">
+                                <meta itemprop="height" content="755">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/19515931/resize-h755-w755%5Ecompr-r85/5511/55115092/Wunsch+Peel+%26+Stick+Floral+Roll.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Chinoiserie on Grunge Peel and Stick Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/21091267/resize-h755-w755%5Ecompr-r85/1435/143555186/Vintage+Chinoiserie+on+Grunge+Peel+and+Stick+Wallpaper+Mural.jpg' alt='Vintage Chinoiserie on Grunge Peel and Stick Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="755">
+                                <meta itemprop="height" content="755">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/21091267/resize-h755-w755%5Ecompr-r85/1435/143555186/Vintage+Chinoiserie+on+Grunge+Peel+and+Stick+Wallpaper+Mural.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Floral Tile 2.08' W x 10.42' L">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/72132892/resize-h800-w800%5Ecompr-r85/2309/230906047/Peel+%26+Stick+Floral+Tile.jpg' alt='Peel & Stick Floral Tile 2.08' W x 10.42' L'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/72132892/resize-h800-w800%5Ecompr-r85/2309/230906047/Peel+%26+Stick+Floral+Tile.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Apply Peel-and-Stick Wallpaper: Your No-Fuss Guide | Wayfair">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/16977881/resize-h500-w750%5Ecompr-r85/2265/226547195/default_name.jpg' alt='How to Apply Peel-and-Stick Wallpaper: Your No-Fuss Guide | Wayfair'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/16977881/resize-h500-w750%5Ecompr-r85/2265/226547195/default_name.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aayat Peel & Stick Floral Roll">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/13428652/resize-h755-w755%5Ecompr-r85/7164/71643105/Aayat+Peel+%26+Stick+Floral+Roll.jpg' alt='Aayat Peel & Stick Floral Roll'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="755">
+                                <meta itemprop="height" content="755">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/13428652/resize-h755-w755%5Ecompr-r85/7164/71643105/Aayat+Peel+%26+Stick+Floral+Roll.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bertsch Peel & Stick Roll">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/74540065/resize-h755-w755%5Ecompr-r85/4210/42108270/Bertsch+Peel+%26+Stick+Roll.jpg' alt='Bertsch Peel & Stick Roll'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="755">
+                                <meta itemprop="height" content="755">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/74540065/resize-h755-w755%5Ecompr-r85/4210/42108270/Bertsch+Peel+%26+Stick+Roll.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elouise Peel & Stick Floral Roll">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/75894392/resize-h755-w755%5Ecompr-r85/1070/107096015/Elouise+Peel+%26+Stick+Floral+Roll.jpg' alt='Elouise Peel & Stick Floral Roll'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="755">
+                                <meta itemprop="height" content="755">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/75894392/resize-h755-w755%5Ecompr-r85/1070/107096015/Elouise+Peel+%26+Stick+Floral+Roll.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

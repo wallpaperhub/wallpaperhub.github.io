@@ -1,0 +1,129 @@
+<title>Unlock Insights with CoreLogic National Background Data</title>
+                    <meta name="description" content="Discover CoreLogic National Background Data, your reliable source for in-depth property, credit, and criminal records. Equip your business with essential insights for tenant screenings and employment evaluations to ensure informed, transparent decisions. Access comprehensive background checks easily and efficiently.">
+                    <meta name="keywords" content="corelogic national background data">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/corelogic-national-background-data">
+                            <span itemprop="name">corelogic national background data</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unlock Insights with CoreLogic National Background Data</h1>
+                <p>CoreLogic National Background Data provides comprehensive insights into property, credit, and criminal records, delivering a full spectrum of background check services. This reliable data resource supports businesses in making informed decisions during tenant screenings, employment evaluations, and credit assessments, ensuring safety and transparency in transactions.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WorkplaceViolence911.com">
+                                <img itemprop="contentUrl url" src='https://www.workplaceviolence911.com/docs/corelogicpagelogo.gif' alt='WorkplaceViolence911.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="465">
+                                <meta itemprop="height" content="116">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Institute for the Prevention of Workplace Violence" />
+                                </span>
+                                <a href='https://www.workplaceviolence911.com/docs/corelogicpagelogo.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Background Buzz">
+                                <img itemprop="contentUrl url" src='http://www.workplaceviolence911.com/docs/NBD-BckgrndBuzz-ThreeQu.jpg' alt='The Background Buzz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="495">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Institute for the Prevention of Workplace Violence" />
+                                </span>
+                                <a href='http://www.workplaceviolence911.com/docs/NBD-BckgrndBuzz-ThreeQu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CoreLogic Background Check Errors: How to Dispute Mistakes?">
+                                <img itemprop="contentUrl url" src='https://consumerattorneys.com/_next/image?url=%2Fmedia%2Fblog%2F65f84d3e7574f.webp%3Fw%3D756&w=1920&q=75' alt='CoreLogic Background Check Errors: How to Dispute Mistakes?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="761">
+                                <meta itemprop="height" content="430">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Consumer Attorneys" />
+                                </span>
+                                <a href='https://consumerattorneys.com/_next/image?url=%2Fmedia%2Fblog%2F65f84d3e7574f.webp%3Fw%3D756&w=1920&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CoreLogic Provides Detailed Property Info Via Its RealQuest App – NMP">
+                                <img itemprop="contentUrl url" src='https://nationalmortgageprofessional.com/sites/default/files/2017-01/CoreLogic_Logo_17_2.jpg' alt='CoreLogic Provides Detailed Property Info Via Its RealQuest App – NMP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1592">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Mortgage Professional" />
+                                </span>
+                                <a href='https://nationalmortgageprofessional.com/sites/default/files/2017-01/CoreLogic_Logo_17_2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Henderson v. Corelogic National Background Data, LLC – $7.54 ...">
+                                <img itemprop="contentUrl url" src='https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://www.clalegal.com/wp-content/uploads/2021/10/logo_3x-1.png' alt='Henderson v. Corelogic National Background Data, LLC – $7.54 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="858">
+                                <meta itemprop="height" content="297">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Consumer Litigation Associates" />
+                                </span>
+                                <a href='https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://www.clalegal.com/wp-content/uploads/2021/10/logo_3x-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fix CoreLogic Background Check Errors & Recover Money - All Cost-Free">
+                                <img itemprop="contentUrl url" src='https://lemberglaw.com/wp-content/uploads/2017/10/employment-background-check.jpg' alt='Fix CoreLogic Background Check Errors & Recover Money - All Cost-Free'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemberg Law" />
+                                </span>
+                                <a href='https://lemberglaw.com/wp-content/uploads/2017/10/employment-background-check.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Property Solutions | CoreLogic®">
+                                <img itemprop="contentUrl url" src='https://www.corelogic.com/wp-content/themes/corelogic/assets/coreLogic2023_red_cropped.svg' alt='Property Solutions | CoreLogic®'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="135">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.corelogic.com" />
+                                </span>
+                                <a href='https://www.corelogic.com/wp-content/themes/corelogic/assets/coreLogic2023_red_cropped.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="EX-99.2">
+                                <img itemprop="contentUrl url" src='https://www.sec.gov/Archives/edgar/data/36047/000119312520188446/g936979ex99_2s4g1.jpg' alt='EX-99.2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SEC.gov" />
+                                </span>
+                                <a href='https://www.sec.gov/Archives/edgar/data/36047/000119312520188446/g936979ex99_2s4g1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CoreLogic Spatial Solutions | Esri Partner">
+                                <img itemprop="contentUrl url" src='https://webapps-cdn.esri.com/CDN/business-partners/00P39000017mXRJEA2' alt='CoreLogic Spatial Solutions | Esri Partner'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1592">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Esri" />
+                                </span>
+                                <a href='https://webapps-cdn.esri.com/CDN/business-partners/00P39000017mXRJEA2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Makes Geospatial Data Unique for Expanding Telco ...">
+                                <img itemprop="contentUrl url" src='https://artwork.captivate.fm/dd9580e5-b35f-4b11-bcea-847abc41055e/44XY11pQ-TSEe-cPgghwkSS-.jpg?width=800&height=800' alt='What Makes Geospatial Data Unique for Expanding Telco ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CoreLogic" />
+                                </span>
+                                <a href='https://artwork.captivate.fm/dd9580e5-b35f-4b11-bcea-847abc41055e/44XY11pQ-TSEe-cPgghwkSS-.jpg?width=800&height=800' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Discover the Adventures of Jimmy Neutron: The Boy Genius</title>
+                    <meta name="description" content="Explore the thrilling world of Jimmy Neutron, a boy genius whose inventions ignite exciting adventures. Join Jimmy and his friends as they tackle challenges and learn valuable lessons about science, creativity, and friendship. Perfect for young innovators and fans of animated fun!">
+                    <meta name="keywords" content="jimmy neutron jimmy neutron">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/jimmy-neutron-jimmy-neutron">
+                            <span itemprop="name">jimmy neutron jimmy neutron</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Adventures of Jimmy Neutron: The Boy Genius</h1>
+                <p>Jimmy Neutron is a brilliant young inventor known for his wild inventions and adventures. He often finds himself navigating challenges with his friends, battling villains, and saving the day using his intelligence. With his iconic hairstyle and charming personality, Jimmy inspires young minds to embrace creativity and curiosity in science and technology.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jimmy Neutron - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/5/57/Jimmy_Neutron.png' alt='Jimmy Neutron - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="214">
+                                <meta itemprop="height" content="467">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/5/57/Jimmy_Neutron.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Adventures of Jimmy Neutron, Boy Genius (TV Series 2002–2006 ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BN2E4MWQwYjEtNzJjZC00OTkxLTkyZGMtYTQxYmUyOWZiMTgyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' alt='The Adventures of Jimmy Neutron, Boy Genius (TV Series 2002–2006 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BN2E4MWQwYjEtNzJjZC00OTkxLTkyZGMtYTQxYmUyOWZiMTgyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jimmy Neutron | Crossovia Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/crossovia/images/5/57/Jimmy_Neutron.png/revision/latest/thumbnail/width/360/height/450?cb=20231206212816' alt='Jimmy Neutron | Crossovia Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Crossovia Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/crossovia/images/5/57/Jimmy_Neutron.png/revision/latest/thumbnail/width/360/height/450?cb=20231206212816' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jimmy Neutron: Boy Genius - Plugged In">
+                                <img itemprop="contentUrl url" src='https://www.pluggedin.com/wp-content/uploads/2019/12/jimmy-neutron-boy-genius.jpg' alt='Jimmy Neutron: Boy Genius - Plugged In'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Plugged In" />
+                                </span>
+                                <a href='https://www.pluggedin.com/wp-content/uploads/2019/12/jimmy-neutron-boy-genius.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jimmy Neutron: Boy Genius - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/7/76/Jimmy_Neutron_Boy_Genius_film.jpg' alt='Jimmy Neutron: Boy Genius - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="259">
+                                <meta itemprop="height" content="385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/7/76/Jimmy_Neutron_Boy_Genius_film.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jimmy Neutron | Heroes and Villains Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/heroes-and-villain/images/a/a0/Jimmy_Neutron.jpg/revision/latest/thumbnail/width/360/height/360?cb=20200630020632' alt='Jimmy Neutron | Heroes and Villains Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="330">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroes and Villains Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/heroes-and-villain/images/a/a0/Jimmy_Neutron.jpg/revision/latest/thumbnail/width/360/height/360?cb=20200630020632' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: The Adventures of Jimmy Neutron: The Complete Series [DVD] :  Various, Various: Movies & TV">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71s-n5Pv23L.jpg' alt='Amazon.com: The Adventures of Jimmy Neutron: The Complete Series [DVD] :  Various, Various: Movies & TV'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1055">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71s-n5Pv23L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The ENTIRE Story of Jimmy Neutron in 52 Minutes">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/RMQeAwpNZXw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCQQ6Kyoq8eoSsx172hVe87msid9w' alt='The ENTIRE Story of Jimmy Neutron in 52 Minutes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/RMQeAwpNZXw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCQQ6Kyoq8eoSsx172hVe87msid9w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Jimmy Neutron Sequel Is Finally Happening | The Direct">
+                                <img itemprop="contentUrl url" src='https://images.thedirect.com/media/article_full/jimmy-n.jpg' alt='A Jimmy Neutron Sequel Is Finally Happening | The Direct'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Direct" />
+                                </span>
+                                <a href='https://images.thedirect.com/media/article_full/jimmy-n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jimmy Neutron- The Best of Season 1 (2 Disc Set ... - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71vq5jh5mEL._AC_UF894,1000_QL80_.jpg' alt='Jimmy Neutron- The Best of Season 1 (2 Disc Set ... - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="668">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71vq5jh5mEL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

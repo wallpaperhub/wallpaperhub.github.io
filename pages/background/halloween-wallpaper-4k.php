@@ -1,0 +1,129 @@
+<title>Spooky 4K Halloween Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover a vibrant collection of 4K Halloween wallpapers that bring the season's spooky charm to your screens. Perfect for phones, tablets, and desktops, our HD designs will elevate your device's aesthetic. Download your favorite Halloween-themed wallpaper today and celebrate in style!">
+                    <meta name="keywords" content="halloween wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/halloween-wallpaper-4k">
+                            <span itemprop="name">halloween wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spooky 4K Halloween Wallpapers for Your Device</h1>
+                <p>Transform your device this Halloween with stunning 4K wallpapers that capture the spooky spirit of the season. From eerie landscapes to whimsical pumpkins, our collection offers a variety of chilling designs perfect for any screen. Embrace the frightful fun and get into the Halloween mood with our high-resolution wallpapers!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k Wallpaper Halloween Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/pumpkins-glow-moonlit-eerie-forest-setting_60438-3649.jpg' alt='4k Wallpaper Halloween Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="274">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/pumpkins-glow-moonlit-eerie-forest-setting_60438-3649.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spooky Jack-O'-Lantern: 4K Ultra HD Halloween Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/876/876684.jpg' alt='Spooky Jack-O'-Lantern: 4K Ultra HD Halloween Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4080">
+                                <meta itemprop="height" content="2615">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/876/876684.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This is in my opinion the best Halloween wallpaper that exists ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/this-is-in-my-opinion-the-best-halloween-wallpaper-that-v0-l3dez8uvldqb1.jpg?auto=webp&s=91824a4af93c6ef346c99a58d4fa8e593646eff5' alt='This is in my opinion the best Halloween wallpaper that exists ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/this-is-in-my-opinion-the-best-halloween-wallpaper-that-v0-l3dez8uvldqb1.jpg?auto=webp&s=91824a4af93c6ef346c99a58d4fa8e593646eff5' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween pumpkins Wallpaper 4K, Haunted, Scarecrow, 5K">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/halloween-pumpkins-2160x3840-11101.jpg' alt='Halloween pumpkins Wallpaper 4K, Haunted, Scarecrow, 5K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/halloween-pumpkins-2160x3840-11101.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spooky Halloween Delight 4K Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/874/874542.jpg' alt='Spooky Halloween Delight 4K Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7296">
+                                <meta itemprop="height" content="4098">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/874/874542.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Wallpaper 4K Iphone Ideas">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/44/b1/36/44b13686d51cabb0b9df862be9928668.jpg' alt='Halloween Wallpaper 4K Iphone Ideas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/44/b1/36/44b13686d51cabb0b9df862be9928668.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Wallpaper 4K">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/download/hd-wallpapers/halloween-3840x2160.jpg' alt='Halloween Wallpaper 4K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/download/hd-wallpapers/halloween-3840x2160.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="#wallpapers #papeldeparede #4k #helloween #halloween #sephorabrasil #ghost  #festa #bruxa">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7427456011293773061&location=0&aid=1988' alt='#wallpapers #papeldeparede #4k #helloween #halloween #sephorabrasil #ghost  #festa #bruxa'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="486">
+                                <meta itemprop="height" content="648">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7427456011293773061&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Be-Bewitched Halloween Wallpapers for 2020 (4K) - Hongkiat">
+                                <img itemprop="contentUrl url" src='https://assets.hongkiat.com/uploads/beautiful-halloween-wallpapers/4k/preview/09.jpg' alt='30 Be-Bewitched Halloween Wallpapers for 2020 (4K) - Hongkiat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hongkiat" />
+                                </span>
+                                <a href='https://assets.hongkiat.com/uploads/beautiful-halloween-wallpapers/4k/preview/09.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spooky Wallpaper Background Images, HD Pictures and Wallpaper For ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20240625/pngtree-new-halloween-4k-wallpaper-hd-pumpkin-celebration-spooky-image_15923216.jpg' alt='Spooky Wallpaper Background Images, HD Pictures and Wallpaper For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20240625/pngtree-new-halloween-4k-wallpaper-hd-pumpkin-celebration-spooky-image_15923216.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

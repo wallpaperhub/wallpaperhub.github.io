@@ -1,0 +1,129 @@
+<title>Stunning Furina Wallpaper for Your Devices</title>
+                    <meta name="description" content="Discover beautiful Furina wallpaper that enhances your screens with elegance. Perfect for personalizing your devices, our wallpapers feature captivating designs that reflect your style. Transform your digital experience with vibrant visuals inspired by the enchanting Furina. Download now!">
+                    <meta name="keywords" content="furina wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/furina-wallpaper">
+                            <span itemprop="name">furina wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Furina Wallpaper for Your Devices</h1>
+                <p>Furina wallpaper brings a touch of elegance and charm to your digital space. Featuring stunning designs inspired by the enchanting Furina, these wallpapers are perfect for personalizing your devices. Transform your screens with vibrant colors and captivating visuals that reflect your style and passion for beauty.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Furina - Masquerade of the Guilty Live Wallpaper">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/media/3803/furina-masquerade-of-the-guilty.jpg' alt='Furina - Masquerade of the Guilty Live Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/media/3803/furina-masquerade-of-the-guilty.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Please share me your Furina Finds. Looking for a wallpaper. : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/please-share-me-your-furina-finds-looking-for-a-wallpaper-v0-4hcu35lsvd2c1.jpg?width=850&format=pjpg&auto=webp&s=9151509c7b5cd779a77acbecb282c678622c93d7' alt='Please share me your Furina Finds. Looking for a wallpaper. : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1772">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/please-share-me-your-furina-finds-looking-for-a-wallpaper-v0-4hcu35lsvd2c1.jpg?width=850&format=pjpg&auto=webp&s=9151509c7b5cd779a77acbecb282c678622c93d7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Genshin Impact: Furina | Phone Wallpaper by Stefany Pauline Moyco ...">
+                                <img itemprop="contentUrl url" src='https://cdn.dribbble.com/userupload/14232206/file/original-1daf9fc7f9005ee742a220284b282e6b.jpg?resize=752x&vertical=center' alt='Genshin Impact: Furina | Phone Wallpaper by Stefany Pauline Moyco ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="752">
+                                <meta itemprop="height" content="1337">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dribbble" />
+                                </span>
+                                <a href='https://cdn.dribbble.com/userupload/14232206/file/original-1daf9fc7f9005ee742a220284b282e6b.jpg?resize=752x&vertical=center' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Please share me your Furina Finds. Looking for a wallpaper. : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/please-share-me-your-furina-finds-looking-for-a-wallpaper-v0-zicr6icpvd2c1.jpg?width=640&crop=smart&auto=webp&s=f7df9eb55a21d086bc96640b78706b2251fb6878' alt='Please share me your Furina Finds. Looking for a wallpaper. : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1163">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/please-share-me-your-furina-finds-looking-for-a-wallpaper-v0-zicr6icpvd2c1.jpg?width=640&crop=smart&auto=webp&s=f7df9eb55a21d086bc96640b78706b2251fb6878' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="genshinresource — Genshin Impact Clean Furina Wallpaper From "VIP...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/e0f11583e9421bc4693d353e27320e9a/efa90925c106d057-be/s1280x1920/2ba47494b91f23c813484a4d12bd581475e8ed0a.jpg' alt='genshinresource — Genshin Impact Clean Furina Wallpaper From "VIP...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="genshinresource - Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/e0f11583e9421bc4693d353e27320e9a/efa90925c106d057-be/s1280x1920/2ba47494b91f23c813484a4d12bd581475e8ed0a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Furina IPhone Wallpaper  ~ Genshin Impact | HoYoLAB">
+                                <img itemprop="contentUrl url" src='https://upload-os-bbs.hoyolab.com/upload/2024/07/07/361262967/b67e2ce6403c1196fc3fc22bef33b31d_1750835862996219329.jpg?x-oss-process=image%2Fresize%2Cs_1000%2Fauto-orient%2C0%2Finterlace%2C1%2Fformat%2Cwebp%2Fquality%2Cq_70' alt='Furina IPhone Wallpaper  ~ Genshin Impact | HoYoLAB'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HoYoLAB" />
+                                </span>
+                                <a href='https://upload-os-bbs.hoyolab.com/upload/2024/07/07/361262967/b67e2ce6403c1196fc3fc22bef33b31d_1750835862996219329.jpg?x-oss-process=image%2Fresize%2Cs_1000%2Fauto-orient%2C0%2Finterlace%2C1%2Fformat%2Cwebp%2Fquality%2Cq_70' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Has anyone made or found any good Furina phone wallpapers that ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/5x76kcerppub1.png' alt='Has anyone made or found any good Furina phone wallpapers that ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2334">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/5x76kcerppub1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Genshin Impact Furina 芙宁娜">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/2213017767933370573/7E11B9E770DF0876BFA3D620E177A5A073351CCD/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::Genshin Impact Furina 芙宁娜'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/2213017767933370573/7E11B9E770DF0876BFA3D620E177A5A073351CCD/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Furina (Genshin Impact) Genshin Impact Sea Blue 4k Ultra ...">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/135/1351099.jpeg' alt='Download Furina (Genshin Impact) Genshin Impact Sea Blue 4k Ultra ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4800">
+                                <meta itemprop="height" content="2800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/135/1351099.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Furina — Wallpaper | Focalor |">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/eb/97/dc/eb97dcb973631b44d067b7e7bcf8e873.jpg' alt='Furina — Wallpaper | Focalor |'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/eb/97/dc/eb97dcb973631b44d067b7e7bcf8e873.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

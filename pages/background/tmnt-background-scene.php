@@ -1,0 +1,129 @@
+<title>Exploring the Iconic Background Scenes of TMNT</title>
+                    <meta name="description" content="Dive into the fascinating background scenes of the Teenage Mutant Ninja Turtles. Discover the detailed settings that bring their stories to life — from bustling city streets to hidden lairs, each backdrop enhances their epic adventures. Perfect for TMNT fans seeking visual inspiration!">
+                    <meta name="keywords" content="tmnt background scene">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/tmnt-background-scene">
+                            <span itemprop="name">tmnt background scene</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring the Iconic Background Scenes of TMNT</h1>
+                <p>In the vibrant world of Teenage Mutant Ninja Turtles, the background scenes are bursting with life. From the gritty streets of NYC to the serene sewers and whimsical lairs, each setting reflects the turtles' adventures. Detailed visuals showcase graffiti, urban landscapes, and hidden layers, creating a dynamic backdrop for their epic battles.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I painted this background for NECA's cartoon TMNT diorama. Found ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/1vleq69gbtt81.jpg' alt='I painted this background for NECA's cartoon TMNT diorama. Found ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7650">
+                                <meta itemprop="height" content="3564">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/1vleq69gbtt81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ninja Turtle Stuff">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/55/99/34/559934f9b7f1dcfcee4deccd6c6825c4.jpg' alt='Ninja Turtle Stuff'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/55/99/34/559934f9b7f1dcfcee4deccd6c6825c4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Teenage Mutant Ninja Turtles TMNT Original Production Animation Backgr">
+                                <img itemprop="contentUrl url" src='http://charlesscottgallery.com/cdn/shop/products/tmntkitchen.jpg?v=1680984265' alt='Teenage Mutant Ninja Turtles TMNT Original Production Animation Backgr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Charles Scott Gallery" />
+                                </span>
+                                <a href='http://charlesscottgallery.com/cdn/shop/products/tmntkitchen.jpg?v=1680984265' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nickelodeon Animation on X: "Some of the vibrant and gorgeous Rise ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/DigDJzpV4AAPntf.jpg' alt='Nickelodeon Animation on X: "Some of the vibrant and gorgeous Rise ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="673">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/DigDJzpV4AAPntf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/04/eb/af/04ebaf53ef55b3600585454282efd3c8.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/04/eb/af/04ebaf53ef55b3600585454282efd3c8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kevin Autry - 80's Turtle Lair">
+                                <img itemprop="contentUrl url" src='https://cdna.artstation.com/p/assets/images/images/001/187/786/large/kevin-autry-cartoon-80s-beds-resized.jpg?1441823761' alt='Kevin Autry - 80's Turtle Lair'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="833">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kevin Autry" />
+                                </span>
+                                <a href='https://cdna.artstation.com/p/assets/images/images/001/187/786/large/kevin-autry-cartoon-80s-beds-resized.jpg?1441823761' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1/6th Scale TMNT Sewers Ikea Detolf 15x15 Diorama Backdrop - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27594719/r/il/de1ac0/3607372353/il_fullxfull.3607372353_fiol.jpg' alt='1/6th Scale TMNT Sewers Ikea Detolf 15x15 Diorama Backdrop - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27594719/r/il/de1ac0/3607372353/il_fullxfull.3607372353_fiol.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nickelodeon Animation on X: "Some of the vibrant and gorgeous Rise ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/DigDJzoUYAEYcrQ?format=jpg&name=large' alt='Nickelodeon Animation on X: "Some of the vibrant and gorgeous Rise ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1650">
+                                <meta itemprop="height" content="922">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/DigDJzoUYAEYcrQ?format=jpg&name=large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1987 TMNT City background. Need something like this for a project ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/8pl9ho415rj71.jpg?auto=webp&s=eee89f1e4d71ea6c382682eacef912954b534a09' alt='1987 TMNT City background. Need something like this for a project ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/8pl9ho415rj71.jpg?auto=webp&s=eee89f1e4d71ea6c382682eacef912954b534a09' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TMNT 2012 background art">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/91/38/ac/9138ac3e1a4e9819d05e26a19a89288a.jpg' alt='TMNT 2012 background art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="396">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/91/38/ac/9138ac3e1a4e9819d05e26a19a89288a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

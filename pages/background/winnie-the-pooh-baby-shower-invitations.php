@@ -1,0 +1,129 @@
+<title>Winnie the Pooh Baby Shower Invitations: Cute & Whimsical Designs</title>
+                    <meta name="description" content="Shop adorable Winnie the Pooh baby shower invitations! Perfect for celebrating your little one's arrival with themed designs that charm all ages. Set the stage for a playful celebration with these delightful invites. Order now for a magical touch to your baby shower!">
+                    <meta name="keywords" content="winnie the pooh baby shower invitations">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/winnie-the-pooh-baby-shower-invitations">
+                            <span itemprop="name">winnie the pooh baby shower invitations</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Winnie the Pooh Baby Shower Invitations: Cute & Whimsical Designs</h1>
+                <p>Celebrate the arrival of your little one with charming Winnie the Pooh baby shower invitations! Delight guests with delightful designs featuring Pooh and friends, combining sweet sentiments with whimsical art. Perfect for all ages, these invitations set the tone for a playful and memorable celebration in the Hundred Acre Wood!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winnie The Pooh Invitations Baby Shower | A Little Honey Is On The Way">
+                                <img itemprop="contentUrl url" src='http://ollieandhank.com/cdn/shop/files/alittlehoneyisontheway_1200x1200.jpg?v=1718645755' alt='Winnie The Pooh Invitations Baby Shower | A Little Honey Is On The Way'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ollie + Hank" />
+                                </span>
+                                <a href='http://ollieandhank.com/cdn/shop/files/alittlehoneyisontheway_1200x1200.jpg?v=1718645755' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="brayqu Winnie the Pooh Baby Shower Invitations Pooh Bear Theme Baby Shower  Party Invites (20 Cards with Envelopes)">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61F2Ga7kZbL._AC_UF894,1000_QL80_.jpg' alt='brayqu Winnie the Pooh Baby Shower Invitations Pooh Bear Theme Baby Shower  Party Invites (20 Cards with Envelopes)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="673">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61F2Ga7kZbL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winnie The Pooh Invitations Baby Shower | Editable | Printable ...">
+                                <img itemprop="contentUrl url" src='https://ollieandhank.com/cdn/shop/files/winniethepoohinvitationsbabyshower1_1024x1024@2x.jpg?v=1721831310' alt='Winnie The Pooh Invitations Baby Shower | Editable | Printable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ollie + Hank" />
+                                </span>
+                                <a href='https://ollieandhank.com/cdn/shop/files/winniethepoohinvitationsbabyshower1_1024x1024@2x.jpg?v=1721831310' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Little Hunny is on the Way Baby Shower Invitation Template ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21478278/r/il/e82716/3893046571/il_570xN.3893046571_e8rf.jpg' alt='A Little Hunny is on the Way Baby Shower Invitation Template ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21478278/r/il/e82716/3893046571/il_570xN.3893046571_e8rf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winnie The Pooh Baby Shower Invitation | Stork Baby Gift Baskets ...">
+                                <img itemprop="contentUrl url" src='https://www.storkbabygiftbaskets.com/cdn/shop/files/Winnie-Pooh-Shower-Invite-Display_1024x1024.jpg?v=1706789927' alt='Winnie The Pooh Baby Shower Invitation | Stork Baby Gift Baskets ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="802">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stork Baby Gift Baskets" />
+                                </span>
+                                <a href='https://www.storkbabygiftbaskets.com/cdn/shop/files/Winnie-Pooh-Shower-Invite-Display_1024x1024.jpg?v=1706789927' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classic Winnie the Pooh Baby Shower Invitation, Have You Heard the ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20885541/r/il/cd7c31/3925753469/il_fullxfull.3925753469_5lfa.jpg' alt='Classic Winnie the Pooh Baby Shower Invitation, Have You Heard the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2600">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20885541/r/il/cd7c31/3925753469/il_fullxfull.3925753469_5lfa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dolimifa Oh Boy a Little Hunny is on His Way Baby Shower Invitations Fill  in Style Honey Bear Winnie the Pooh Baby Shower Invites, 20 Count With ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61nTsDA3yFL._AC_UF894,1000_QL80_.jpg' alt='Dolimifa Oh Boy a Little Hunny is on His Way Baby Shower Invitations Fill  in Style Honey Bear Winnie the Pooh Baby Shower Invites, 20 Count With ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61nTsDA3yFL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Baby Winnie The Pooh and Friends Baby Shower Invites – D608">
+                                <img itemprop="contentUrl url" src='https://babyprintables.com/wp-content/uploads/2023/03/Cute-Baby-Winnie-The-Pooh-and-freinds-invite.png' alt='Cute Baby Winnie The Pooh and Friends Baby Shower Invites – D608'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Baby Printables" />
+                                </span>
+                                <a href='https://babyprintables.com/wp-content/uploads/2023/03/Cute-Baby-Winnie-The-Pooh-and-freinds-invite.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Editable Winnie The Pooh Baby Shower Invitation Boy Blue Rustic ...">
+                                <img itemprop="contentUrl url" src='https://www.designmypartystudio.com/cdn/shop/products/il_fullxfull.3600235316_gqr9_1600x.jpg?v=1690072491' alt='Editable Winnie The Pooh Baby Shower Invitation Boy Blue Rustic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design My Party Studio" />
+                                </span>
+                                <a href='https://www.designmypartystudio.com/cdn/shop/products/il_fullxfull.3600235316_gqr9_1600x.jpg?v=1690072491' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney's Winnie the Pooh in the Wood Baby Shower Invitations by Becky Nimoy">
+                                <img itemprop="contentUrl url" src='https://cdn3.minted.com/files/mintedProductsImages/MIN/BSH/S2H/MIN-S2H-BSH-001J_A_PZ.jpg?mntd_prf=Pdp:HeroImage' alt='Disney's Winnie the Pooh in the Wood Baby Shower Invitations by Becky Nimoy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="706">
+                                <meta itemprop="height" content="706">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Minted" />
+                                </span>
+                                <a href='https://cdn3.minted.com/files/mintedProductsImages/MIN/BSH/S2H/MIN-S2H-BSH-001J_A_PZ.jpg?mntd_prf=Pdp:HeroImage' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

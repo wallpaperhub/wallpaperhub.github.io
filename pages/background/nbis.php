@@ -1,0 +1,129 @@
+<title>Streamline Your Security Checks with NBIS</title>
+                    <meta name="description" content="Discover how NBIS revolutionizes federal background checks, enhancing security and efficiency for employment and clearance. Stay informed about this crucial system that safeguards national security while simplifying candidate vetting processes.">
+                    <meta name="keywords" content="nbis">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/nbis">
+                            <span itemprop="name">nbis</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Streamline Your Security Checks with NBIS</h1>
+                <p>NBIS, or National Background Investigation Services, is a vital system used by U.S. agencies to oversee and conduct background checks for federal employment and security clearance. It ensures thorough vetting of candidates, enhancing national security. This system centralizes data, streamlining the investigative process and improving efficiency.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Update on NBIS Recovery Plan and Digital Transformation > Defense ...">
+                                <img itemprop="contentUrl url" src='https://media.defense.gov/2024/Aug/02/2003517129/1920/1080/0/240802-D-CC231-1136.JPG' alt='Update on NBIS Recovery Plan and Digital Transformation > Defense ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DCSA.mil" />
+                                </span>
+                                <a href='https://media.defense.gov/2024/Aug/02/2003517129/1920/1080/0/240802-D-CC231-1136.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Future Personnel Vetting IT System is Called NBIS ...">
+                                <img itemprop="contentUrl url" src='https://www.clearancejobsblog.com/wp-content/uploads/2021/01/NBIS.png' alt='The Future Personnel Vetting IT System is Called NBIS ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="616">
+                                <meta itemprop="height" content="342">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ClearanceJobs Blog" />
+                                </span>
+                                <a href='https://www.clearancejobsblog.com/wp-content/uploads/2021/01/NBIS.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="National Background Investigation Services(NBIS)">
+                                <img itemprop="contentUrl url" src='https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2408/934473/DOD_110517755.0000005/800x450_q95.jpg' alt='National Background Investigation Services(NBIS)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DCSA.mil" />
+                                </span>
+                                <a href='https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2408/934473/DOD_110517755.0000005/800x450_q95.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NBIS Announces Acquisition by Align Financial Holdings, LLC ...">
+                                <img itemprop="contentUrl url" src='https://nbis.com/hs-fs/hubfs/DUAL%20Marketing%20Gateway/Logos/NBIS%202023%20Logos/NBIS_A%20DUAL%20Company_color%20transparent.png' alt='NBIS Announces Acquisition by Align Financial Holdings, LLC ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="897">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBIS, now DUAL Specialty Construction & Transport" />
+                                </span>
+                                <a href='https://nbis.com/hs-fs/hubfs/DUAL%20Marketing%20Gateway/Logos/NBIS%202023%20Logos/NBIS_A%20DUAL%20Company_color%20transparent.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NBIS - Nebius Group Latest Stock News & Market Updates">
+                                <img itemprop="contentUrl url" src='https://static.stocktitan.net/company-logo/nbis-lg.png' alt='NBIS - Nebius Group Latest Stock News & Market Updates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stock Titan" />
+                                </span>
+                                <a href='https://static.stocktitan.net/company-logo/nbis-lg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NBIS - EGI">
+                                <img itemprop="contentUrl url" src='https://www.egi.eu/_next/image/?url=https%3A%2F%2Fcdn.egi.eu%2Fapp%2Fuploads%2F2024%2F08%2FNBIS.png&w=3840&q=75' alt='NBIS - EGI'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EGI" />
+                                </span>
+                                <a href='https://www.egi.eu/_next/image/?url=https%3A%2F%2Fcdn.egi.eu%2Fapp%2Fuploads%2F2024%2F08%2FNBIS.png&w=3840&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DC... - Defense Counterintelligence and Security Agency - DCSA ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3394941643917886' alt='DC... - Defense Counterintelligence and Security Agency - DCSA ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3394941643917886' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NBIS - National Bioinformatics Infrastructure Sweden · GitHub">
+                                <img itemprop="contentUrl url" src='https://avatars.githubusercontent.com/u/1224807?s=200&v=4' alt='NBIS - National Bioinformatics Infrastructure Sweden · GitHub'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GitHub" />
+                                </span>
+                                <a href='https://avatars.githubusercontent.com/u/1224807?s=200&v=4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NBIS modernization reaches acquisition milestone > Defense ...">
+                                <img itemprop="contentUrl url" src='https://media.defense.gov/2024/Aug/02/2003517130/1920/1080/0/240802-D-CC241-1137.PNG' alt='NBIS modernization reaches acquisition milestone > Defense ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DCSA.mil" />
+                                </span>
+                                <a href='https://media.defense.gov/2024/Aug/02/2003517130/1920/1080/0/240802-D-CC241-1137.PNG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DCSA's National Background Investigation Services (NBIS) Program ...">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/D4E10AQEmofxq6b9uyA/image-shrink_800/image-shrink_800/0/1681131621058?e=2147483647&v=beta&t=D4rqo5PD_sBJkzdPkNNZFkBEnkUVBSQhOU-srQpAiW8' alt='DCSA's National Background Investigation Services (NBIS) Program ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/D4E10AQEmofxq6b9uyA/image-shrink_800/image-shrink_800/0/1681131621058?e=2147483647&v=beta&t=D4rqo5PD_sBJkzdPkNNZFkBEnkUVBSQhOU-srQpAiW8' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

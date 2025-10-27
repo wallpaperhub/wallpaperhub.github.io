@@ -1,0 +1,129 @@
+<title>Transform Your Space with Grunge Wallpaper</title>
+                    <meta name="description" content="Discover the unique charm of grunge wallpaper! Perfect for adding depth and character to your interiors, it combines edgy designs with vintage flair. Explore styles that make your space stand out. Ideal for accent walls or entire rooms, grunge wallpaper is the perfect choice to create a distinctive atmosphere.">
+                    <meta name="keywords" content="grunge wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/grunge-wallpaper">
+                            <span itemprop="name">grunge wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Grunge Wallpaper</h1>
+                <p>Grunge wallpaper brings an edgy, vintage vibe to any space. With its bold textures and dark colors, it can transform a room into a unique haven of self-expression. Perfect for those looking to break away from the ordinary, grunge wallpaper can be used as an accent wall or to cover an entire room, making it a versatile choice for modern decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grunge Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/concrete-wall-scratched-material-background-texture-concept_53876-14101.jpg' alt='Grunge Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/concrete-wall-scratched-material-background-texture-concept_53876-14101.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Grunge">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/48483/abstract-grunge.jpg?h=699&q=85' alt='Abstract Grunge'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="699">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/48483/abstract-grunge.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grunge Wallpaper by wastingtape on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/99ca54ae-2905-459e-977b-8901038cb265/dwuda-993d55f0-9ed4-484c-954a-5f882db4159d.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk5Y2E1NGFlLTI5MDUtNDU5ZS05NzdiLTg5MDEwMzhjYjI2NVwvZHd1ZGEtOTkzZDU1ZjAtOWVkNC00ODRjLTk1NGEtNWY4ODJkYjQxNTlkLmpwZyJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl19.67Xp_MMcZ59GTeZrFIvKS1g7YAiDRdOvuBK_5Z6kPC0' alt='Grunge Wallpaper by wastingtape on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1152">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/99ca54ae-2905-459e-977b-8901038cb265/dwuda-993d55f0-9ed4-484c-954a-5f882db4159d.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk5Y2E1NGFlLTI5MDUtNDU5ZS05NzdiLTg5MDEwMzhjYjI2NVwvZHd1ZGEtOTkzZDU1ZjAtOWVkNC00ODRjLTk1NGEtNWY4ODJkYjQxNTlkLmpwZyJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl19.67Xp_MMcZ59GTeZrFIvKS1g7YAiDRdOvuBK_5Z6kPC0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Black Grunge With A Raw And Edgy Feel Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/aesthetic-black-grunge-with-a-raw-and-edgy-feel-lq7thjxrmzixbjpy.jpg' alt='Aesthetic Black Grunge With A Raw And Edgy Feel Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/aesthetic-black-grunge-with-a-raw-and-edgy-feel-lq7thjxrmzixbjpy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Dark Grunge Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/dark-grunge-zc78gipnf1zpsr9x.jpg' alt='100+] Dark Grunge Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1228">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/dark-grunge-zc78gipnf1zpsr9x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grunge Skulls Halloween Wallpaper Wall Mural">
+                                <img itemprop="contentUrl url" src='https://www.azutura.com/media/catalog/product/cache/52/image/650x/040ec09b1e35df139433887a97daa66f/W/S/WS-45729_WP.jpg' alt='Grunge Skulls Halloween Wallpaper Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="649">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Azutura" />
+                                </span>
+                                <a href='https://www.azutura.com/media/catalog/product/cache/52/image/650x/040ec09b1e35df139433887a97daa66f/W/S/WS-45729_WP.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hand Aesthetic Black Grunge Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/hand-aesthetic-black-grunge-5k6lza4jiooeqie1.webp' alt='Hand Aesthetic Black Grunge Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/hand-aesthetic-black-grunge-5k6lza4jiooeqie1.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Grunge Background Stock Photos, Images and Backgrounds for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/052/401/955/non_2x/grunge-grunge-texture-background-with-light-and-dark-spots-photo.jpg' alt='Light Grunge Background Stock Photos, Images and Backgrounds for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1749">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/052/401/955/non_2x/grunge-grunge-texture-background-with-light-and-dark-spots-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="72 Grunge wallpapers ideas | aesthetic wallpapers, grunge, dark ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/02/6f/26/026f262b8d9b76f31a3274decb3925d4.jpg' alt='72 Grunge wallpapers ideas | aesthetic wallpapers, grunge, dark ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/02/6f/26/026f262b8d9b76f31a3274decb3925d4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grunge Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/dark-black-texture-background_24837-267.jpg' alt='Grunge Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/dark-black-texture-background_24837-267.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

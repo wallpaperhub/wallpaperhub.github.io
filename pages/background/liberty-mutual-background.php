@@ -1,0 +1,129 @@
+<title>Discover Liberty Mutual: Your Trusted Insurance Partner</title>
+                    <meta name="description" content="Explore Liberty Mutual's extensive insurance solutions tailored to your needs. With over a century of experience, we prioritize your security and peace of mind. From auto to home insurance, Liberty Mutual is committed to protecting what matters most to you. Visit us to learn more!">
+                    <meta name="keywords" content="liberty mutual background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/liberty-mutual-background">
+                            <span itemprop="name">liberty mutual background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Liberty Mutual: Your Trusted Insurance Partner</h1>
+                <p>Liberty Mutual, founded in 1912, is a global leader in insurance and financial services. Headquartered in Boston, it operates in over 30 countries, offering a range of products including auto, home, and life insurance. The company is known for its customer-centric approach and innovative solutions tailored to individual needs.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Liberty Mutual - Audiovisual Identity Database">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/XQhexuEguks/maxresdefault.jpg' alt='Liberty Mutual - Audiovisual Identity Database'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Audiovisual Identity Database" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/XQhexuEguks/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Our History | LMG">
+                                <img itemprop="contentUrl url" src='https://www.libertymutualgroup.com/sites/lmg/files/2020-11/yellow_logo.jpg' alt='Our History | LMG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1582">
+                                <meta itemprop="height" content="890">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Liberty Mutual" />
+                                </span>
+                                <a href='https://www.libertymutualgroup.com/sites/lmg/files/2020-11/yellow_logo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Liberty Mutual - Audiovisual Identity Database">
+                                <img itemprop="contentUrl url" src='https://user-content.static.wf/avidwiki/thumb/f/f6/Liberty_Mutual_%28From_Limu_Emu_%26_Doug_-_Replaced%2C_2023%29.jpg/551px-Liberty_Mutual_%28From_Limu_Emu_%26_Doug_-_Replaced%2C_2023%29.jpg' alt='Liberty Mutual - Audiovisual Identity Database'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Audiovisual Identity Database" />
+                                </span>
+                                <a href='https://user-content.static.wf/avidwiki/thumb/f/f6/Liberty_Mutual_%28From_Limu_Emu_%26_Doug_-_Replaced%2C_2023%29.jpg/551px-Liberty_Mutual_%28From_Limu_Emu_%26_Doug_-_Replaced%2C_2023%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Liberty Mutual logo and symbol, meaning, history, PNG">
+                                <img itemprop="contentUrl url" src='https://1000logos.net/wp-content/uploads/2020/09/Liberty-Mutual-Logo.jpg' alt='Liberty Mutual logo and symbol, meaning, history, PNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1875">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="1000 Logos" />
+                                </span>
+                                <a href='https://1000logos.net/wp-content/uploads/2020/09/Liberty-Mutual-Logo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="About us - Liberty Mutual Business Insurance">
+                                <img itemprop="contentUrl url" src='https://business.libertymutual.com/wp-content/uploads/2021/04/AboutUs.png' alt='About us - Liberty Mutual Business Insurance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="395">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Liberty Mutual Business Insurance" />
+                                </span>
+                                <a href='https://business.libertymutual.com/wp-content/uploads/2021/04/AboutUs.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Liberty Mutual - Audiovisual Identity Database">
+                                <img itemprop="contentUrl url" src='https://user-content.static.wf/avidwiki/2/21/Liberty_seguros.jpg' alt='Liberty Mutual - Audiovisual Identity Database'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Audiovisual Identity Database" />
+                                </span>
+                                <a href='https://user-content.static.wf/avidwiki/2/21/Liberty_seguros.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Fourth of July! As we mark our great nation's 245th birthday ...">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/C4E22AQGqJl1vHKKygw/feedshare-shrink_800/feedshare-shrink_800/0/1625403603593?e=2147483647&v=beta&t=LvJgjo-Zfo2QVTuvRCsIkhVDOQILzlyhJiCN49KTWKs' alt='Happy Fourth of July! As we mark our great nation's 245th birthday ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/C4E22AQGqJl1vHKKygw/feedshare-shrink_800/feedshare-shrink_800/0/1625403603593?e=2147483647&v=beta&t=LvJgjo-Zfo2QVTuvRCsIkhVDOQILzlyhJiCN49KTWKs' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Our History | LMG">
+                                <img itemprop="contentUrl url" src='https://www.libertymutualgroup.com/sites/lmg/files/styles/crop_freeform/public/2024-04/LMG_Purpose_Mega_Featured_Image_0.jpg?h=dc5bd6da&itok=9HVwSd5f' alt='Our History | LMG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1180">
+                                <meta itemprop="height" content="664">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Liberty Mutual" />
+                                </span>
+                                <a href='https://www.libertymutualgroup.com/sites/lmg/files/styles/crop_freeform/public/2024-04/LMG_Purpose_Mega_Featured_Image_0.jpg?h=dc5bd6da&itok=9HVwSd5f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ActiveDocs | Liberty Mutual Insurance Case Study">
+                                <img itemprop="contentUrl url" src='http://www.activedocs.com/images/case-studies/cs_liberty_mutual_insurance.png' alt='ActiveDocs | Liberty Mutual Insurance Case Study'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="11078">
+                                <meta itemprop="height" content="4834">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ActiveDocs" />
+                                </span>
+                                <a href='http://www.activedocs.com/images/case-studies/cs_liberty_mutual_insurance.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30_LibertyMutual_C19Response_SOCIAL_1x1_NOMOVE_v01.mp4 | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=924852534639621&get_thumbnail=1' alt='30_LibertyMutual_C19Response_SOCIAL_1x1_NOMOVE_v01.mp4 | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=924852534639621&get_thumbnail=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

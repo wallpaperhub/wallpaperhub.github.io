@@ -1,0 +1,129 @@
+<title>Kawaii Black Pastel Goth Wallpaper: Embrace the Trend</title>
+                    <meta name="description" content="Elevate your decor with our kawaii black pastel goth wallpaper! Perfect for adding a cute yet edgy touch to your space. Discover styles that blend playful pastel colors with gothic elements. Ideal for any room makeover, this wallpaper brings personality and charm to your home.">
+                    <meta name="keywords" content="kawaii black pastel goth wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii">
+                            <span itemprop="name">Kawaii</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii/kawaii-black-pastel-goth-wallpaper">
+                            <span itemprop="name">kawaii black pastel goth wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Kawaii Black Pastel Goth Wallpaper: Embrace the Trend</h1>
+                <p>Transform your space with kawaii black pastel goth wallpaper! This unique design blends cute aesthetics with a dark twist, perfect for any room seeking a stylish, edgy vibe. Featuring playful motifs and soft pastel hues, it creates a whimsical yet sophisticated atmosphere. Whether you're redecorating or simply refreshing your walls, this wallpaper adds charm and personality to your home.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Goth Wallpaper Photos, Images & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/1699799320/display_1500/stock-vector-seamless-witchcraft-pattern-in-pastel-colors-and-black-background-1699799320.jpg' alt='Pastel Goth Wallpaper Photos, Images & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1051">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/1699799320/display_1500/stock-vector-seamless-witchcraft-pattern-in-pastel-colors-and-black-background-1699799320.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel goth, crazy, dead, skull, skulls, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/243/398/HD-wallpaper-pastel-goth-crazy-dead-skull-skulls.jpg' alt='Pastel goth, crazy, dead, skull, skulls, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1424">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/243/398/HD-wallpaper-pastel-goth-crazy-dead-skull-skulls.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seamless pattern with hearts on black background. Cute kawaii ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/02/29/50/51/1000_F_229505147_mHbDGPMJtgj8cQ1cGM4Xvj0qc7cKy1Ka.jpg' alt='Seamless pattern with hearts on black background. Cute kawaii ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/02/29/50/51/1000_F_229505147_mHbDGPMJtgj8cQ1cGM4Xvj0qc7cKy1Ka.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Goth Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/12583163/p/f/l/arGP6g5LrdWzgIMb91CgCbF-P0wPXpMjdQo4lZfELXuaHDjur11p2bI/Goth%20Christmas%20Emo%20Pastel%20Goth%20Gothic%20Gingerbread%20Cookie%20Skull%20Candy%20Cane%20Christmas%20Tree.jpg' alt='Pastel Goth Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/12583163/p/f/l/arGP6g5LrdWzgIMb91CgCbF-P0wPXpMjdQo4lZfELXuaHDjur11p2bI/Goth%20Christmas%20Emo%20Pastel%20Goth%20Gothic%20Gingerbread%20Cookie%20Skull%20Candy%20Cane%20Christmas%20Tree.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Goth Kawaii Stock Illustrations – 871 Pastel Goth Kawaii ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/dark-aesthetic-kawaii-wallpapers-spooky-sweet-pastel-goth-backgrounds-phone-tablet-desktop-explore-captivating-dive-351199241.jpg' alt='Pastel Goth Kawaii Stock Illustrations – 871 Pastel Goth Kawaii ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/dark-aesthetic-kawaii-wallpapers-spooky-sweet-pastel-goth-backgrounds-phone-tablet-desktop-explore-captivating-dive-351199241.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Goth Bat Neko by Devious-Monster | Redbubble">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7e/84/08/7e8408fc24bd0c3d29cafceb6c941a11.jpg' alt='Pastel Goth Bat Neko by Devious-Monster | Redbubble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="670">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7e/84/08/7e8408fc24bd0c3d29cafceb6c941a11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/67/e6/85/67e6852fc7df107d851cb2be7547ba5e.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="561">
+                                <meta itemprop="height" content="561">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/67/e6/85/67e6852fc7df107d851cb2be7547ba5e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pastel Goth Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/pastel-goth-vp9fwekszwbdg2f1.jpg' alt='100+] Pastel Goth Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="934">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/pastel-goth-vp9fwekszwbdg2f1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A look into the world of pastel goth. | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pastel-goth-1680-x-1050-background-5sbi1hnpzxn6jyte.jpg' alt='Download A look into the world of pastel goth. | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1680">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pastel-goth-1680-x-1050-background-5sbi1hnpzxn6jyte.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Goth Girl With Bubblegum Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/pastel-goth-roses-u7x8pgw26t97ssqf.webp' alt='Pastel Goth Girl With Bubblegum Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/pastel-goth-roses-u7x8pgw26t97ssqf.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

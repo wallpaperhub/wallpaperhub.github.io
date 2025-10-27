@@ -1,0 +1,129 @@
+<title>Adorable Cute Pink Girl Wallpapers for Your Devices</title>
+                    <meta name="description" content="Discover enchanting cute pink girl wallpapers perfect for adding a playful vibe to your device. Enjoy a variety of designs that are sure to uplift your spirits. Ideal for all ages, explore your favorite styles and personalize your screens with delightful charm today!">
+                    <meta name="keywords" content="cute pink girl wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/cute-pink-girl-wallpaper">
+                            <span itemprop="name">cute pink girl wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Cute Pink Girl Wallpapers for Your Devices</h1>
+                <p>Transform your device with adorable cute pink girl wallpapers! From playful cartoons to chic designs, these wallpapers add a touch of sweetness to your screen. Ideal for all ages, they can brighten your day and reflect your personality. Choose your favorite and let your screen sparkle with charm and joy!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ed/35/c7/ed35c791833f3f7e6fef05683650605f.jpg' alt='Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ed/35/c7/ed35c791833f3f7e6fef05683650605f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful pink cute girl wallpaper for iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/39/0e/2e/390e2ef2d981cf08439f566927f53b19.jpg' alt='Beautiful pink cute girl wallpaper for iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/39/0e/2e/390e2ef2d981cf08439f566927f53b19.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cute Pfp For Tiktok Pink Anime Girl Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-pfp-for-tiktok-pink-anime-girl-qmnjfal0eejc44wc.jpg' alt='Download Cute Pfp For Tiktok Pink Anime Girl Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-pfp-for-tiktok-pink-anime-girl-qmnjfal0eejc44wc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Pink Anime Girl Wink Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/cute-pink-anime-girl-wink-7anmml5zalcw5gs6.jpg' alt='Cute Pink Anime Girl Wink Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/cute-pink-anime-girl-wink-7anmml5zalcw5gs6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Phone Aesthetic For Girls Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pink-phone-aesthetic-for-girls-av6n96h4vwwx3tr8-3.jpg' alt='Pink Phone Aesthetic For Girls Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pink-phone-aesthetic-for-girls-av6n96h4vwwx3tr8-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Girl Pink Wallpaper Phone Background Wallpaper Image For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210717/original/pngtree-cute-girl-pink-wallpaper-phone-picture-image_1443611.jpg' alt='Cute Girl Pink Wallpaper Phone Background Wallpaper Image For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210717/original/pngtree-cute-girl-pink-wallpaper-phone-picture-image_1443611.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Girl With Backpack Aesthetic Pink Anime Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/aesthetic-pink-anime-girl-cat-headphones-w0597ij115j4cwp3.webp' alt='Girl With Backpack Aesthetic Pink Anime Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/aesthetic-pink-anime-girl-cat-headphones-w0597ij115j4cwp3.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Everything PINK ideas | pink wallpaper, pink wallpaper iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/5e/0d/c3/5e0dc359010bde59f5e1e03c75028bda.jpg' alt='10 Everything PINK ideas | pink wallpaper, pink wallpaper iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/5e/0d/c3/5e0dc359010bde59f5e1e03c75028bda.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Pink Wallpapers (111 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/f/1/a/5820558-1600x2850-phone-hd-cute-pink-background-photo.jpg' alt='Cute Pink Wallpapers (111 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/f/1/a/5820558-1600x2850-phone-hd-cute-pink-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute And Pink Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-and-pink-baby-cartoon-cat-background-6t7ls4cahf0desw5.jpg' alt='100+] Cute And Pink Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-and-pink-baby-cartoon-cat-background-6t7ls4cahf0desw5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

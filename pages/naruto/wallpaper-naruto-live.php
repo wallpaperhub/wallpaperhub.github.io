@@ -1,0 +1,129 @@
+<title>Dynamic Naruto Live Wallpapers for Your Phone</title>
+                    <meta name="description" content="Enhance your device with captivating Naruto live wallpapers! Experience dynamic animations of beloved characters that add a unique flair to your screen. Perfect for fans of all ages, these wallpapers are easy to install and sure to impress! Transform your mobile experience today with Naruto’s legendary adventures!">
+                    <meta name="keywords" content="wallpaper naruto live">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/naruto">
+                            <span itemprop="name">Naruto</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/naruto/wallpaper-naruto-live">
+                            <span itemprop="name">wallpaper naruto live</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dynamic Naruto Live Wallpapers for Your Phone</h1>
+                <p>Discover the vibrant world of Naruto with live wallpapers that bring your favorite characters to life! Customize your phone’s background with stunning animations featuring Naruto, Sasuke, Sakura, and more. Whether you're a long-time fan or new to the series, these dynamic wallpapers will add excitement to your device. Transform your screen today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto Live Uzumaki Fighting, naruto live, anime, uzumaki ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/309/5/HD-wallpaper-naruto-live-uzumaki-fighting-naruto-live-anime-uzumaki-fighting-animation.jpg' alt='Naruto Live Uzumaki Fighting, naruto live, anime, uzumaki ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/309/5/HD-wallpaper-naruto-live-uzumaki-fighting-naruto-live-anime-uzumaki-fighting-animation.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NARUTO Live Wallpaper / Screensaver - 4K Ultra HD">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/jIJ4YH-VKso/maxresdefault.jpg' alt='NARUTO Live Wallpaper / Screensaver - 4K Ultra HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/jIJ4YH-VKso/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto - Kakashi Hatake Live Wallpaper : r/DesktopHut">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/naruto-kakashi-hatake-live-wallpaper-v0-zUFOsgSjafGz8GxpYvRLa9Q30mc1fUHg_OGpJoJHt9s.jpg?auto=webp&s=894fda17bdf597a071ef1ef553ac05201f135678' alt='Naruto - Kakashi Hatake Live Wallpaper : r/DesktopHut'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="286">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/naruto-kakashi-hatake-live-wallpaper-v0-zUFOsgSjafGz8GxpYvRLa9Q30mc1fUHg_OGpJoJHt9s.jpg?auto=webp&s=894fda17bdf597a071ef1ef553ac05201f135678' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto Live Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/naruto-live-action-flaming-tails-97a16o0y4c4y1n4e.jpg' alt='Naruto Live Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/naruto-live-action-flaming-tails-97a16o0y4c4y1n4e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live Wallpaper 4K Naruto Baryon Mode">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/O_U8MVWO290/maxresdefault.jpg' alt='Live Wallpaper 4K Naruto Baryon Mode'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/O_U8MVWO290/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto's live wallpaper | kakashi hatake wallpapers | akatsuki wallpapers |  naruto fanart">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/videos/thumbnails/originals/4b/75/e8/4b75e8cfb1824a00e8ee64f92c88b40d.0000000.jpg' alt='Naruto's live wallpaper | kakashi hatake wallpapers | akatsuki wallpapers |  naruto fanart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1020">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/videos/thumbnails/originals/4b/75/e8/4b75e8cfb1824a00e8ee64f92c88b40d.0000000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto Live Boruto Portrait Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/naruto-live-boruto-portrait-jipwmzu1kcdlw3do.jpg' alt='Naruto Live Boruto Portrait Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1060">
+                                <meta itemprop="height" content="1884">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/naruto-live-boruto-portrait-jipwmzu1kcdlw3do.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto Animated Wallpaper GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/W8L_FDlL4PcAAAAM/naruto-sage-mode.gif' alt='Naruto Animated Wallpaper GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/W8L_FDlL4PcAAAAM/naruto-sage-mode.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto Live Wallpaper iPhone Poster Decoration Painting Oil ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81vk-ffLVZL._AC_UF894,1000_QL80_.jpg' alt='Naruto Live Wallpaper iPhone Poster Decoration Painting Oil ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.de" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81vk-ffLVZL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Itachi Uchiha Live Wallpaper | Naruto Live Wallpaper   ">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/i21bHNBIBT7nSKkk-g65MEHSQzqjylJUs4q5yUThs2U.png?format=pjpg&auto=webp&s=abae732ce4c619db0a43e8de3c62091e2cee8220' alt='Itachi Uchiha Live Wallpaper | Naruto Live Wallpaper   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/i21bHNBIBT7nSKkk-g65MEHSQzqjylJUs4q5yUThs2U.png?format=pjpg&auto=webp&s=abae732ce4c619db0a43e8de3c62091e2cee8220' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

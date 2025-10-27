@@ -1,0 +1,129 @@
+<title>Engaging Football Clipart for Your Creative Projects</title>
+                    <meta name="description" content="Discover a diverse collection of football clipart! Perfect for enhancing designs, presentations, and more. Our high-quality graphics capture the spirit of the game, making your projects stand out effortlessly. Find the ideal illustrations to bring your football themes to life today!">
+                    <meta name="keywords" content="football clipart">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/football-clipart">
+                            <span itemprop="name">football clipart</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Engaging Football Clipart for Your Creative Projects</h1>
+                <p>Football clipart is a fantastic way to bring your projects to life! Whether you're designing a poster, creating a website, or adding flair to a presentation, these graphics are perfect for capturing the excitement of the game. From iconic footballs to dynamic player silhouettes, elevate your visuals with eye-catching clipart today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE Football Clipart (Royalty-free) | Pearly Arts">
+                                <img itemprop="contentUrl url" src='https://pearlyarts.com/wp-content/uploads/2022/01/Football-Clipart-with-outline-WM.png' alt='FREE Football Clipart (Royalty-free) | Pearly Arts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1001">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pearly Arts" />
+                                </span>
+                                <a href='https://pearlyarts.com/wp-content/uploads/2022/01/Football-Clipart-with-outline-WM.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="28,100+ Football Clip Art Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/165687171/vector/clip-art-of-an-american-football-on-a-white-background.jpg?s=612x612&w=0&k=20&c=NRInBGz1q23A08ddKM7gpGe1TNv8-vGfyQXhAsutvl0=' alt='28,100+ Football Clip Art Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/165687171/vector/clip-art-of-an-american-football-on-a-white-background.jpg?s=612x612&w=0&k=20&c=NRInBGz1q23A08ddKM7gpGe1TNv8-vGfyQXhAsutvl0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="28,000+ Football Clipart Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1142935089/vector/american-football-flat-illustration-on-white.jpg?s=612x612&w=0&k=20&c=udbTYZ2r6ngHBBSv7MM5RFERs4fCZ3SjvfDUch1rJEA=' alt='28,000+ Football Clipart Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1142935089/vector/american-football-flat-illustration-on-white.jpg?s=612x612&w=0&k=20&c=udbTYZ2r6ngHBBSv7MM5RFERs4fCZ3SjvfDUch1rJEA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nfl Themed Clipart Images | Free Download | PNG Transparent ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20241224/ourmid/pngtree-bold-and-action-packed-football-clipart-designs-png-image_14832165.png' alt='Nfl Themed Clipart Images | Free Download | PNG Transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20241224/ourmid/pngtree-bold-and-action-packed-football-clipart-designs-png-image_14832165.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Football SVG | Football Clipart | Football Silhouette Cut File ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16327816/r/il/cf19e6/4346714726/il_570xN.4346714726_3wxm.jpg' alt='Football SVG | Football Clipart | Football Silhouette Cut File ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16327816/r/il/cf19e6/4346714726/il_570xN.4346714726_3wxm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American football clipart. Simple American football watercolor ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/011/064/977/non_2x/american-football-clipart-simple-american-football-watercolor-style-illustration-isolated-on-white-background-rugby-ball-cartoon-hand-drawn-style-american-football-design-vector.jpg' alt='American football clipart. Simple American football watercolor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1633">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/011/064/977/non_2x/american-football-clipart-simple-american-football-watercolor-style-illustration-isolated-on-white-background-rugby-ball-cartoon-hand-drawn-style-american-football-design-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American Football Clipart Images – Browse 11,667 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/01/06/52/65/360_F_106526581_fJE7SCo41WOPR8s51AtmEpJSLrCcrW2M.jpg' alt='American Football Clipart Images – Browse 11,667 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="373">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/01/06/52/65/360_F_106526581_fJE7SCo41WOPR8s51AtmEpJSLrCcrW2M.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Football - Free vector clipart images on creazilla.com">
+                                <img itemprop="contentUrl url" src='https://cdn.creazilla.com/cliparts/3172629/football-clipart-xl.png' alt='Football - Free vector clipart images on creazilla.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1161">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creazilla" />
+                                </span>
+                                <a href='https://cdn.creazilla.com/cliparts/3172629/football-clipart-xl.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Football Clipart Photos, Images & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/set-balls-soccer-ball-basketball-260nw-2481946149.jpg' alt='Football Clipart Photos, Images & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="765">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/set-balls-soccer-ball-basketball-260nw-2481946149.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American football ball clipart image - free svg file for members">
+                                <img itemprop="contentUrl url" src='https://www.svgheart.com/wp-content/uploads/2023/08/football_710-430-min.png' alt='American football ball clipart image - free svg file for members'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="430">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SVG Heart" />
+                                </span>
+                                <a href='https://www.svgheart.com/wp-content/uploads/2023/08/football_710-430-min.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

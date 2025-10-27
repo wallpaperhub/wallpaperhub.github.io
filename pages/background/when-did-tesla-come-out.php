@@ -1,0 +1,129 @@
+<title>Tesla's Journey: When Did It Come Out?</title>
+                    <meta name="description" content="Discover the timeline of Tesla's emergence in the electric vehicle market, including key milestones such as its founding in 2003 and the launch of the Tesla Roadster in 2008. Explore how Tesla has transformed the automotive industry and popularized sustainable energy solutions.">
+                    <meta name="keywords" content="when did tesla come out">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/when-did-tesla-come-out">
+                            <span itemprop="name">when did tesla come out</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Tesla's Journey: When Did It Come Out?</h1>
+                <p>Tesla, Inc. was founded in 2003 by Martin Eberhard and Marc Tarpenning. The company's first electric car, the Tesla Roadster, hit the market in 2008. This groundbreaking vehicle marked the beginning of Tesla's journey in revolutionizing the automotive industry with sustainable energy solutions and advanced electric vehicle technology.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tesla Model S - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/1/14/2018_Tesla_Model_S_75D.jpg' alt='Tesla Model S - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4150">
+                                <meta itemprop="height" content="2205">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/1/14/2018_Tesla_Model_S_75D.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tesla existed before Elon Musk: Founders on how they pitched the idea">
+                                <img itemprop="contentUrl url" src='https://images.hgmsites.net/med/martin-eberhard_100184008_m.jpg' alt='Tesla existed before Elon Musk: Founders on how they pitched the idea'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="468">
+                                <meta itemprop="height" content="333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Green Car Reports" />
+                                </span>
+                                <a href='https://images.hgmsites.net/med/martin-eberhard_100184008_m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The first Tesla Roadster: A look back at the early adopter's ...">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/autoweek/assets/s3fs-public/6207289381_f20a6ee504_o.jpg' alt='The first Tesla Roadster: A look back at the early adopter's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Autoweek" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/autoweek/assets/s3fs-public/6207289381_f20a6ee504_o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What We Know About New Tesla Models Coming Out, Future Vehicles ...">
+                                <img itemprop="contentUrl url" src='https://i.insider.com/605d0052106eb50019d05b51?width=1200&format=jpeg' alt='What We Know About New Tesla Models Coming Out, Future Vehicles ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business Insider" />
+                                </span>
+                                <a href='https://i.insider.com/605d0052106eb50019d05b51?width=1200&format=jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The first Tesla Roadster: A look back at the early adopter's ...">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/autoweek/assets/s3fs-public/5482537648_cfd0f3eb6e_o_0.jpg' alt='The first Tesla Roadster: A look back at the early adopter's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Autoweek" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/autoweek/assets/s3fs-public/5482537648_cfd0f3eb6e_o_0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tesla's Original Roadster: Price, Specs and Range of the Vehicle ...">
+                                <img itemprop="contentUrl url" src='https://www.notateslaapp.com/images/news/2023/original-roadster-2.jpg' alt='Tesla's Original Roadster: Price, Specs and Range of the Vehicle ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Not a Tesla App" />
+                                </span>
+                                <a href='https://www.notateslaapp.com/images/news/2023/original-roadster-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elon Musk Admits Tesla Roadster Was a Disaster - All of the ...">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/roadandtrack/assets/15/51/1450283015-2011-tesla-ev-history-876x535.jpg' alt='Elon Musk Admits Tesla Roadster Was a Disaster - All of the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="876">
+                                <meta itemprop="height" content="535">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Road & Track" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/roadandtrack/assets/15/51/1450283015-2011-tesla-ev-history-876x535.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tesla Roadster (first generation) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Tzero_-_The_first_Tesla_vehicle.jpg/220px-Tzero_-_The_first_Tesla_vehicle.jpg' alt='Tesla Roadster (first generation) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="140">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Tzero_-_The_first_Tesla_vehicle.jpg/220px-Tzero_-_The_first_Tesla_vehicle.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is The First EVER Tesla Like 14 Years Later? - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/6bDi5BDwztY/sddefault.jpg' alt='What Is The First EVER Tesla Like 14 Years Later? - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/6bDi5BDwztY/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Short but Fascinating History of Tesla Electric Cars, Solar ...">
+                                <img itemprop="contentUrl url" src='https://images.interestingengineering.com/images/NOVEMBER/roadster.jpg' alt='The Short but Fascinating History of Tesla Electric Cars, Solar ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Interesting Engineering" />
+                                </span>
+                                <a href='https://images.interestingengineering.com/images/NOVEMBER/roadster.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

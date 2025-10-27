@@ -1,0 +1,129 @@
+<title>Pro Gamer Wallpaper Collection: Elevate Your Gaming Space</title>
+                    <meta name="description" content="Discover the ultimate pro gamer wallpaper collection! Enhance your gaming environment with high-resolution images featuring your favorite characters and breathtaking designs. Perfect for creating an immersive atmosphere and showcasing your gaming passion. Download now and level up your space!">
+                    <meta name="keywords" content="pro gamer wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pro">
+                            <span itemprop="name">Pro</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pro/pro-gamer-wallpaper">
+                            <span itemprop="name">pro gamer wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Pro Gamer Wallpaper Collection: Elevate Your Gaming Space</h1>
+                <p>Transform your gaming space with stunning pro gamer wallpapers! Choose from a wide variety of designs showcasing your favorite gaming characters, neon aesthetics, and epic landscapes. Perfect for enhancing your mood and immersing yourself in the gaming atmosphere. Download high-resolution images to elevate your setups today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pro Gamer iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a8/eb/90/a8eb90292ced039b4c3ced48064bc92c.jpg' alt='Pro Gamer iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a8/eb/90/a8eb90292ced039b4c3ced48064bc92c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Intense Pro Gamer in Action Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pro-gamer-1920-x-1024-wallpaper-1745dt8jlw5wpv63.jpg' alt='Download Intense Pro Gamer in Action Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pro-gamer-1920-x-1024-wallpaper-1745dt8jlw5wpv63.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pro Gamer Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/pro-gamer-xrfxd52m5eti0sbv.jpg' alt='100+] Pro Gamer Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/pro-gamer-xrfxd52m5eti0sbv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD pro gamer wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/131/575/HD-wallpaper-gamer-play-pro.jpg' alt='HD pro gamer wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/131/575/HD-wallpaper-gamer-play-pro.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="42 Gaming ideas | gaming wallpapers, game wallpaper iphone, iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/b0/69/a6/b069a600aa9b412022dafff134e681ce.jpg' alt='42 Gaming ideas | gaming wallpapers, game wallpaper iphone, iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="235">
+                                <meta itemprop="height" content="254">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/b0/69/a6/b069a600aa9b412022dafff134e681ce.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Pro Gamer in intense gaming session Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pro-gamer-1620-x-2880-wallpaper-oyfig82xeyb82090.jpg' alt='Download Pro Gamer in intense gaming session Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pro-gamer-1620-x-2880-wallpaper-oyfig82xeyb82090.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pro Gamer Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp2761098.jpg' alt='Pro Gamer Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3554">
+                                <meta itemprop="height" content="1999">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp2761098.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gamer 3D, gaming, playstation, playstation5, sony, xbox, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/335/1006/HD-wallpaper-gamer-3d-gaming-playstation-playstation5-sony-xbox.jpg' alt='Gamer 3D, gaming, playstation, playstation5, sony, xbox, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/335/1006/HD-wallpaper-gamer-3d-gaming-playstation-playstation5-sony-xbox.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 3 - Free customizable gaming desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE-0oA41IM/1/0/1600w/canva-purple-black-neon-cool-pro-gamer-desktop-wallpaper-I7uTI1OBmkQ.jpg' alt='Page 3 - Free customizable gaming desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE-0oA41IM/1/0/1600w/canva-purple-black-neon-cool-pro-gamer-desktop-wallpaper-I7uTI1OBmkQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wolf Gaming Wallpapers - Wolf-wallpapers.pro">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/68/68/96/686896b40e3a27747def196525f75fb2.jpg' alt='Wolf Gaming Wallpapers - Wolf-wallpapers.pro'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/68/68/96/686896b40e3a27747def196525f75fb2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

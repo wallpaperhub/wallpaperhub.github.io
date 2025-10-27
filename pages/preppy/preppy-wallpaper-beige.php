@@ -1,0 +1,129 @@
+<title>Elevate Your Space with Preppy Beige Wallpaper</title>
+                    <meta name="description" content="Discover the charm of preppy beige wallpaper! Perfect for adding sophistication to any room, this wallpaper blends elegance with modern style. Update your home decor effortlessly with designs that inspire warmth and comfort. Ideal for all tastes and spaces.">
+                    <meta name="keywords" content="preppy wallpaper beige">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy">
+                            <span itemprop="name">Preppy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy/preppy-wallpaper-beige">
+                            <span itemprop="name">preppy wallpaper beige</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Space with Preppy Beige Wallpaper</h1>
+                <p>Preppy wallpaper in beige seamlessly combines classic elegance with modern aesthetics. Ideal for creating a stylish ambiance, this versatile color palette complements various decor styles, from chic coastal to rustic farmhouse. Transform your space with timeless designs that evoke sophistication and comfort, making every room feel inviting and curated.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/14/89/3e/14893e241ed4d76d3e7c21877279bdb9.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1635">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/14/89/3e/14893e241ed4d76d3e7c21877279bdb9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Freebies: 70 Really Cute Preppy Aesthetic Wallpapers For Your Phone!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/6a/dd/67/6add674779bc9985a38c289e26a51918.jpg' alt='Freebies: 70 Really Cute Preppy Aesthetic Wallpapers For Your Phone!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="558">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/6a/dd/67/6add674779bc9985a38c289e26a51918.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Aesthetic Beige Collage Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/preppy-aesthetic-beige-collage-icccv2btzveaw6x7.jpg' alt='Preppy Aesthetic Beige Collage Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/preppy-aesthetic-beige-collage-icccv2btzveaw6x7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beige Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2d/23/f7/2d23f7564fc9ef6444a3d0e1ad62b385.jpg' alt='Beige Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2d/23/f7/2d23f7564fc9ef6444a3d0e1ad62b385.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Beige Wallpapers/images (not mine)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/18/4c/01/184c013bef207d5ae161a03ae4b5d1d5.jpg' alt='Preppy Beige Wallpapers/images (not mine)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/18/4c/01/184c013bef207d5ae161a03ae4b5d1d5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin en Quick Saves">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/16/39/3d/16393d629fc88fc87e7b11d75fc185d7.jpg' alt='Pin en Quick Saves'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1177">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/16/39/3d/16393d629fc88fc87e7b11d75fc185d7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Wallpaper Preppy Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/white-daisy-floral-pattern-vector-beige-background_53876-111609.jpg' alt='Aesthetic Wallpaper Preppy Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/white-daisy-floral-pattern-vector-beige-background_53876-111609.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Brown Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11167240.jpg' alt='Preppy Brown Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1261">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11167240.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Simple Lines Minimalist Beige Screensaver Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1c/42/ee/1c42eeec23347535674e9ac52b0db308.jpg' alt='Aesthetic Simple Lines Minimalist Beige Screensaver Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1c/42/ee/1c42eeec23347535674e9ac52b0db308.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Chloe<3 on F0R MY R00M<3 | Simple iphone wallpaper, Preppy ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b6/90/6e/b6906e79762f678f2e4d0a767b750cc7.jpg' alt='Pin by Chloe<3 on F0R MY R00M<3 | Simple iphone wallpaper, Preppy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b6/90/6e/b6906e79762f678f2e4d0a767b750cc7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Jungkook Phone Wallpapers: Perfect Your Screen with BTS Style</title>
+                    <meta name="description" content="Discover the best Jungkook phone wallpapers to elevate your device! Explore beautiful and unique designs that celebrate the charm of this BTS star. Perfect for fans looking to personalize their screens with Jungkook's iconic looks and performances. Download your favorite wallpapers now!">
+                    <meta name="keywords" content="jungkook phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/jungkook-phone-wallpaper">
+                            <span itemprop="name">jungkook phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Jungkook Phone Wallpapers: Perfect Your Screen with BTS Style</h1>
+                <p>Enhance your phone's aesthetic with stunning Jungkook phone wallpapers! From his captivating performances to stunning photoshoots, these wallpapers capture the essence of this BTS icon. Perfect for ARMY members wanting to showcase their love for Jungkook on their devices. Discover a variety of designs to suit your style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jeon Jungkook Phone Wallpaper #3 by SereyBeary on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/511510f3-bcd5-4c35-9867-341a058f6648/ddx7mxh-4e639973-311f-4d00-b12c-e4787db8284c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUxMTUxMGYzLWJjZDUtNGMzNS05ODY3LTM0MWEwNThmNjY0OFwvZGR4N214aC00ZTYzOTk3My0zMTFmLTRkMDAtYjEyYy1lNDc4N2RiODI4NGMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ZvLeMshx_ExOUHIyQyTmHkySJbbS9PvH_zxDLQ7l2NQ' alt='Jeon Jungkook Phone Wallpaper #3 by SereyBeary on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/511510f3-bcd5-4c35-9867-341a058f6648/ddx7mxh-4e639973-311f-4d00-b12c-e4787db8284c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUxMTUxMGYzLWJjZDUtNGMzNS05ODY3LTM0MWEwNThmNjY0OFwvZGR4N214aC00ZTYzOTk3My0zMTFmLTRkMDAtYjEyYy1lNDc4N2RiODI4NGMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ZvLeMshx_ExOUHIyQyTmHkySJbbS9PvH_zxDLQ7l2NQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jungkook wallpaper by SoPrettae - Download on ZEDGE™ | 785d">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/70/35/88/703588318028df802591924c8fca2fd9.jpg' alt='Jungkook wallpaper by SoPrettae - Download on ZEDGE™ | 785d'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/70/35/88/703588318028df802591924c8fca2fd9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BTS jungkook, idol, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/164/471/HD-wallpaper-bts-jungkook-idol.jpg' alt='BTS jungkook, idol, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1579">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/164/471/HD-wallpaper-bts-jungkook-idol.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jungkook Wallpaper - IXpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/12/4c/86/124c868f4bef4889f766eba4dd81c283.jpg' alt='Jungkook Wallpaper - IXpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/12/4c/86/124c868f4bef4889f766eba4dd81c283.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jungkook, bts, love, music, world, k-pop, bunny, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/907/808/HD-wallpaper-jungkook-bts-love-music-world-k-pop-bunny.jpg' alt='Jungkook, bts, love, music, world, k-pop, bunny, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1578">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/907/808/HD-wallpaper-jungkook-bts-love-music-world-k-pop-bunny.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="                .">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e6/cd/f9/e6cdf9f09d665798d11bec96c8a008dc.jpg' alt='                .'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e6/cd/f9/e6cdf9f09d665798d11bec96c8a008dc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD jungkook wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/125/717/HD-wallpaper-jungkook-bts-jungkook-jk-gl.jpg' alt='HD jungkook wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/125/717/HD-wallpaper-jungkook-bts-jungkook-jk-gl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BTS Jungkook - Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b6/2d/ab/b62dabd9767e68c7ebba846b0a95120e.jpg' alt='BTS Jungkook - Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1572">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b6/2d/ab/b62dabd9767e68c7ebba846b0a95120e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jungkook BTS Proof Concept Photo 4K Wallpaper iPhone HD Phone #2771h">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/jungkook-bts-proof-concept-photo-277@1@h-phone-4k.jpg' alt='Jungkook BTS Proof Concept Photo 4K Wallpaper iPhone HD Phone #2771h'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/jungkook-bts-proof-concept-photo-277@1@h-phone-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Jungkook BTS Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp5019459.jpg' alt='Phone Jungkook BTS Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp5019459.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="youth sports background check policy">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/youth-sports-background-check-policy">
+                            <span itemprop="name">youth sports background check policy</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Ultimate Guide to Youth Sports Background Checks">
+                                <img itemprop="contentUrl url" src='https://www.ankored.com/hs-fs/hubfs/Blog%20Assets/Ultimate%20Guide%20to%20Youth%20Sports%20Background%20Checks/Blog-BackgroundChecks-ChecklistSummary-2.png?width=2000&height=2000&name=Blog-BackgroundChecks-ChecklistSummary-2.png' alt='The Ultimate Guide to Youth Sports Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ankored" />
+                                </span>
+                                <a href='https://www.ankored.com/hs-fs/hubfs/Blog%20Assets/Ultimate%20Guide%20to%20Youth%20Sports%20Background%20Checks/Blog-BackgroundChecks-ChecklistSummary-2.png?width=2000&height=2000&name=Blog-BackgroundChecks-ChecklistSummary-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Ultimate Guide to Youth Sports Background Checks">
+                                <img itemprop="contentUrl url" src='https://www.ankored.com/hs-fs/hubfs/Blog%20Assets/Ultimate%20Guide%20to%20Youth%20Sports%20Background%20Checks/Blog-BackgroundChecks-Summary2-REV1.png?width=2000&height=616&name=Blog-BackgroundChecks-Summary2-REV1.png' alt='The Ultimate Guide to Youth Sports Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="616">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ankored" />
+                                </span>
+                                <a href='https://www.ankored.com/hs-fs/hubfs/Blog%20Assets/Ultimate%20Guide%20to%20Youth%20Sports%20Background%20Checks/Blog-BackgroundChecks-Summary2-REV1.png?width=2000&height=616&name=Blog-BackgroundChecks-Summary2-REV1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Ultimate Guide to Youth Sports Background Checks">
+                                <img itemprop="contentUrl url" src='https://www.ankored.com/hs-fs/hubfs/Blog%20Assets/Ultimate%20Guide%20to%20Youth%20Sports%20Background%20Checks/Blog-BackgroundChecks-Types-2.png?width=600&height=600&name=Blog-BackgroundChecks-Types-2.png' alt='The Ultimate Guide to Youth Sports Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ankored" />
+                                </span>
+                                <a href='https://www.ankored.com/hs-fs/hubfs/Blog%20Assets/Ultimate%20Guide%20to%20Youth%20Sports%20Background%20Checks/Blog-BackgroundChecks-Types-2.png?width=600&height=600&name=Blog-BackgroundChecks-Types-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Create a Background Check Policy for Youth Sports | Jersey ...">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/xct4vv2g1nhc/5WAKQKUHlHCA6ArlUPPm5c/6807a9de9ddc7b5b0681aef9c01b0015/youth_sports_background_check_policy-5KKuq.png?w=1920&q=75&fm=webp' alt='How to Create a Background Check Policy for Youth Sports | Jersey ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="346">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jersey Watch" />
+                                </span>
+                                <a href='https://images.ctfassets.net/xct4vv2g1nhc/5WAKQKUHlHCA6ArlUPPm5c/6807a9de9ddc7b5b0681aef9c01b0015/youth_sports_background_check_policy-5KKuq.png?w=1920&q=75&fm=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Ultimate Guide to Youth Sports Background Checks">
+                                <img itemprop="contentUrl url" src='https://www.ankored.com/hs-fs/hubfs/Blog%20Assets/Ultimate%20Guide%20to%20Youth%20Sports%20Background%20Checks/Blog-BackgroundChecks-Summary5-REV1.png?width=2000&height=585&name=Blog-BackgroundChecks-Summary5-REV1.png' alt='The Ultimate Guide to Youth Sports Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="585">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ankored" />
+                                </span>
+                                <a href='https://www.ankored.com/hs-fs/hubfs/Blog%20Assets/Ultimate%20Guide%20to%20Youth%20Sports%20Background%20Checks/Blog-BackgroundChecks-Summary5-REV1.png?width=2000&height=585&name=Blog-BackgroundChecks-Summary5-REV1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Athletics Background Screening Policy">
+                                <img itemprop="contentUrl url" src='x-raw-image:///945ae0dcf639d5e5e41d587d52813b9bc81f0e64f67d2a7377472db5815b4170' alt='Athletics Background Screening Policy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2071">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Roanoke Parks And Recreation" />
+                                </span>
+                                <a href='x-raw-image:///945ae0dcf639d5e5e41d587d52813b9bc81f0e64f67d2a7377472db5815b4170' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Administrator's Guide to Compliance in Youth Sports">
+                                <img itemprop="contentUrl url" src='https://www.ankored.com/hs-fs/hubfs/Blog%20Assets/The%20Administrators%20Guide%20to%20Compliance%20in%20Youth%20Sports/Blog-ComplianceGuide-ChecklistSummary-2.png?width=2000&height=1800&name=Blog-ComplianceGuide-ChecklistSummary-2.png' alt='The Administrator's Guide to Compliance in Youth Sports'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ankored" />
+                                </span>
+                                <a href='https://www.ankored.com/hs-fs/hubfs/Blog%20Assets/The%20Administrators%20Guide%20to%20Compliance%20in%20Youth%20Sports/Blog-ComplianceGuide-ChecklistSummary-2.png?width=2000&height=1800&name=Blog-ComplianceGuide-ChecklistSummary-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Run a Youth Sports Background Check (2025) | Jersey Watch">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/xct4vv2g1nhc/26xd2ICCwFjxcsSCHqiwyo/0149c16822d2af2cf25482e7782d50e8/final.png?w=3840&q=75&fm=webp' alt='How to Run a Youth Sports Background Check (2025) | Jersey Watch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2328">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jersey Watch" />
+                                </span>
+                                <a href='https://images.ctfassets.net/xct4vv2g1nhc/26xd2ICCwFjxcsSCHqiwyo/0149c16822d2af2cf25482e7782d50e8/final.png?w=3840&q=75&fm=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Checks Necessary in Youth Sports Organizations - JDP">
+                                <img itemprop="contentUrl url" src='https://www.jdp.com/wp-content/uploads/2023/07/Youth-Background-Checks.png' alt='Background Checks Necessary in Youth Sports Organizations - JDP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JDP" />
+                                </span>
+                                <a href='https://www.jdp.com/wp-content/uploads/2023/07/Youth-Background-Checks.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Youth Development Background Check">
+                                <img itemprop="contentUrl url" src='x-raw-image:///af1e627db83b10cd441f240a56335ff0089079637fa63799515d933fac0f6b2b' alt='Youth Development Background Check'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2071">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.gomotionapp.com" />
+                                </span>
+                                <a href='x-raw-image:///af1e627db83b10cd441f240a56335ff0089079637fa63799515d933fac0f6b2b' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

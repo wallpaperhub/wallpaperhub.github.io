@@ -1,0 +1,129 @@
+<title>Mejores Fondos de Pantalla para iPhone: Manzana Apple</title>
+                    <meta name="description" content="Explora una colección única de fondos de pantalla para iPhone con la emblemática manzana de Apple. Dale un toque especial a tu dispositivo con diseños creativos y modernos. Perfectos para cualquier estilo, estos wallpapers transformarán tu experiencia visual. ¡Descubre tu favorito hoy mismo!">
+                    <meta name="keywords" content="iphone manzana wallpaper fondos de pantalla">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-manzana-wallpaper-fondos-de-pantalla">
+                            <span itemprop="name">iphone manzana wallpaper fondos de pantalla</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mejores Fondos de Pantalla para iPhone: Manzana Apple</h1>
+                <p>Descubre los mejores fondoss de pantalla para iPhone que destacan la icónica manzana de Apple. Desde diseños minimalistas hasta coloridos, tenemos opciones para todos los gustos. Personaliza tu dispositivo y haz que cada desbloqueo sea un placer visual. ¡Explora y elige el fondo perfecto para ti!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="38 ideas de Fondo Manzanas | fondo de pantalla de manzana, fondo ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/39/06/5f/39065f7e9ac9df514cec2be6818e4da8.jpg' alt='38 ideas de Fondo Manzanas | fondo de pantalla de manzana, fondo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="841">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/39/06/5f/39065f7e9ac9df514cec2be6818e4da8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="38 ideas de Fondo Manzanas | fondo de pantalla de manzana, fondo ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/cc/3c/f4/cc3cf48cdca4d4adc134e0f045aada75.jpg' alt='38 ideas de Fondo Manzanas | fondo de pantalla de manzana, fondo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="361">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/cc/3c/f4/cc3cf48cdca4d4adc134e0f045aada75.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="110 ideas de Manzana | fondo de pantalla de manzana, iphone fondos ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/ea/e7/d3/eae7d34089820d9e34f3431be514441e.jpg' alt='110 ideas de Manzana | fondo de pantalla de manzana, iphone fondos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1623">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/ea/e7/d3/eae7d34089820d9e34f3431be514441e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Fondos de fotos de Increíble Apple Hd Iphone | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-and-blue-amazing-apple-hd-iphone-a4m16unjwm1qhrvb.jpg' alt='100+] Fondos de fotos de Increíble Apple Hd Iphone | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-and-blue-amazing-apple-hd-iphone-a4m16unjwm1qhrvb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone, rojo, manzana, símbolo, Fondo de pantalla de teléfono HD ...">
+                                <img itemprop="contentUrl url" src='https://s0.smartresize.com/wallpaper/888/382/HD-wallpaper-iphone-red-apple-symbol.jpg' alt='Iphone, rojo, manzana, símbolo, Fondo de pantalla de teléfono HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://s0.smartresize.com/wallpaper/888/382/HD-wallpaper-iphone-red-apple-symbol.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone, manzana, roto, rota, grieta, logo, Fondo de pantalla de ...">
+                                <img itemprop="contentUrl url" src='https://s0.smartresize.com/wallpaper/498/151/HD-wallpaper-iphone-apple-broken-broken-screen-crack-logo-screen.jpg' alt='Iphone, manzana, roto, rota, grieta, logo, Fondo de pantalla de ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://s0.smartresize.com/wallpaper/498/151/HD-wallpaper-iphone-apple-broken-broken-screen-crack-logo-screen.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apple wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f4/51/b9/f451b9d6c4de4b82546f399e9cb87dc3.jpg' alt='Apple wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f4/51/b9/f451b9d6c4de4b82546f399e9cb87dc3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Fondos de fotos de Logo de Apple para iPhone | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/iphone-x-apple-logo-5my15q61zhig3meh.jpg' alt='200+] Fondos de fotos de Logo de Apple para iPhone | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/iphone-x-apple-logo-5my15q61zhig3meh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="خلفيات حية لشعار آبل الأنيق - iOS 16">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7195545287442599169&location=0&aid=1988' alt='خلفيات حية لشعار آبل الأنيق - iOS 16'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1072">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7195545287442599169&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fondos de Pantalla Manzana, Ios, Android, Luz, Pétalo, Imágenes y ...">
+                                <img itemprop="contentUrl url" src='https://img2.wallspic.com/crops/9/1/5/4/5/154519/154519-manzana-ios-android-luz-petalo-1080x2220.png' alt='Fondos de Pantalla Manzana, Ios, Android, Luz, Pétalo, Imágenes y ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallspic" />
+                                </span>
+                                <a href='https://img2.wallspic.com/crops/9/1/5/4/5/154519/154519-manzana-ios-android-luz-petalo-1080x2220.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

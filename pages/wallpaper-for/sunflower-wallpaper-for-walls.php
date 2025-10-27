@@ -1,0 +1,129 @@
+<title>Brighten Your Space with Sunflower Wallpaper</title>
+                    <meta name="description" content="Transform your home with stunning sunflower wallpaper. Ideal for creating a cheerful ambiance in any room, our vibrant designs bring warmth and nature indoors. Explore a variety of styles to brighten up your walls and uplift your decor effortlessly!">
+                    <meta name="keywords" content="sunflower wallpaper for walls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/sunflower-wallpaper-for-walls">
+                            <span itemprop="name">sunflower wallpaper for walls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Brighten Your Space with Sunflower Wallpaper</h1>
+                <p>Sunflower wallpaper for walls brings a burst of cheer and positivity into any space. With their vibrant yellow petals and sunny disposition, sunflowers create an uplifting atmosphere. Perfect for living rooms, bedrooms, or even offices, these wallpapers reflect warmth and nature. Transform your walls with this bright and beautiful floral design!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LUXE Traditional / 2 ft (h) x 19 in (w)">
+                                <img itemprop="contentUrl url" src='https://wallblush.com/cdn/shop/products/juniper3.jpg?v=1717013953&width=2048' alt='LUXE Traditional / 2 ft (h) x 19 in (w)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='https://wallblush.com/cdn/shop/products/juniper3.jpg?v=1717013953&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunflowers - Green">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/interiors/70852/landscape/wallpaper/room88.jpg?w=2000&q=80' alt='Sunflowers - Green'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1090">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/interiors/70852/landscape/wallpaper/room88.jpg?w=2000&q=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Geometric Sunflowers Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://wallfunkwallpaper.com/cdn/shop/products/geometric-sunflowers-wallpaper-wall-funk-558990.jpg?v=1694020793' alt='Geometric Sunflowers Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1455">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wall Funk" />
+                                </span>
+                                <a href='https://wallfunkwallpaper.com/cdn/shop/products/geometric-sunflowers-wallpaper-wall-funk-558990.jpg?v=1694020793' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vivid Colored Sunflowers Wallpaper Child Room Peel and Stick Wall Mural  Nursery Wall Decor - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30373584/r/il/efc157/3812837008/il_1080xN.3812837008_fn9e.jpg' alt='Vivid Colored Sunflowers Wallpaper Child Room Peel and Stick Wall Mural  Nursery Wall Decor - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="942">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30373584/r/il/efc157/3812837008/il_1080xN.3812837008_fn9e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blooming Wall DPYA11 Vivid Sunflower Peel and Stick Wallpaper Self-Adhesive  Prepasted Wallpaper Wall Mural Wall Décor - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81kk+AbDMhL.jpg' alt='Blooming Wall DPYA11 Vivid Sunflower Peel and Stick Wallpaper Self-Adhesive  Prepasted Wallpaper Wall Mural Wall Décor - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1532">
+                                <meta itemprop="height" content="1531">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81kk+AbDMhL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wall26 - Field of Blooming Sunflowers on a Background Sunset - Removable  Wall Mural | Self-Adhesive Large Wallpaper - 66x96 inches">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/wall26-Field-of-Blooming-Sunflowers-on-a-Background-Sunset-Removable-Wall-Mural-Self-Adhesive-Large-Wallpaper-66x96-inches_3c123770-ad4d-48ee-a49f-5ad4f5dccf8a.1b985a3ef56425841d221c597fd1149f.jpeg' alt='wall26 - Field of Blooming Sunflowers on a Background Sunset - Removable  Wall Mural | Self-Adhesive Large Wallpaper - 66x96 inches'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/wall26-Field-of-Blooming-Sunflowers-on-a-Background-Sunset-Removable-Wall-Mural-Self-Adhesive-Large-Wallpaper-66x96-inches_3c123770-ad4d-48ee-a49f-5ad4f5dccf8a.1b985a3ef56425841d221c597fd1149f.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunflowers Wallpaper,print Painting,home Decor,wall Decal ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17404047/r/il/02844c/1651502501/il_fullxfull.1651502501_1ana.jpg' alt='Sunflowers Wallpaper,print Painting,home Decor,wall Decal ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17404047/r/il/02844c/1651502501/il_fullxfull.1651502501_1ana.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HotDecor Sunflower Yellow Floral Wallpaper Vintage Removable Self Stick on  Wallpaper Floral 24"x118" Prepasted Yellow Floral Sunflower Contact Paper  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91ckYR7rgWL.jpg' alt='HotDecor Sunflower Yellow Floral Wallpaper Vintage Removable Self Stick on  Wallpaper Floral 24"x118" Prepasted Yellow Floral Sunflower Contact Paper  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1761">
+                                <meta itemprop="height" content="1761">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91ckYR7rgWL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunflower Peach - Rebel Walls">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_1200/v1688456297/articles/R18710_interior1.jpg' alt='Sunflower Peach - Rebel Walls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rebel Walls" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_1200/v1688456297/articles/R18710_interior1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vibrant Sunflowers Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://wallfunkwallpaper.com/cdn/shop/products/sunflowers-wallpaper-wall-funk-167296.jpg?v=1694021001' alt='Vibrant Sunflowers Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1455">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wall Funk" />
+                                </span>
+                                <a href='https://wallfunkwallpaper.com/cdn/shop/products/sunflowers-wallpaper-wall-funk-167296.jpg?v=1694021001' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

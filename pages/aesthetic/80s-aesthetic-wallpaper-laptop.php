@@ -1,0 +1,129 @@
+<title>80s Aesthetic Wallpaper for Your Laptop: Retro Vibes</title>
+                    <meta name="description" content="Discover the best collection of 80s aesthetic wallpaper for your laptop. Add retro flair and vibrant colors to your device with nostalgic designs that express your unique style. Perfect for anyone who loves the bold aesthetics of the 80s!">
+                    <meta name="keywords" content="80s aesthetic wallpaper laptop">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/80s-aesthetic-wallpaper-laptop">
+                            <span itemprop="name">80s aesthetic wallpaper laptop</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>80s Aesthetic Wallpaper for Your Laptop: Retro Vibes</h1>
+                <p>Transform your laptop with vibrant 80s aesthetic wallpaper! Embrace colorful geometric patterns, retro neon hues, and nostalgic motifs that capture the essence of the bold decade. Perfect for those who love vintage vibes, our collection adds a unique flair and personality to your device, making it a reflection of your style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="80s vibes">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ff/2e/6a/ff2e6a0ccdc7d8c02efd57bd8887dfb3.jpg' alt='80s vibes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ff/2e/6a/ff2e6a0ccdc7d8c02efd57bd8887dfb3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="computer wallpaper      ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/03/6a/e2/036ae2b7e5f2dcf7c1ed831e888d1754.jpg' alt='computer wallpaper      '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/03/6a/e2/036ae2b7e5f2dcf7c1ed831e888d1754.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] 80s Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/80s-aesthetic-eyibn1hk7x4ed259.jpg' alt='100+] 80s Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/80s-aesthetic-eyibn1hk7x4ed259.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="laptop wallpapers | Tumblr">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b3/fb/02/b3fb02c61d9364b67a644b321987f3c2.jpg' alt='laptop wallpapers | Tumblr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b3/fb/02/b3fb02c61d9364b67a644b321987f3c2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic 80s PC Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp8408218.png' alt='Aesthetic 80s PC Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp8408218.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The 90s/80s MacBook wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b2/e9/ac/b2e9acab1f0cb2f4e0a3b26abe42d8ee.jpg' alt='The 90s/80s MacBook wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b2/e9/ac/b2e9acab1f0cb2f4e0a3b26abe42d8ee.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="retro aesthetic laptop wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/50/93/95/50939550e316d3cb645542678f0e4e39.jpg' alt='retro aesthetic laptop wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="527">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/50/93/95/50939550e316d3cb645542678f0e4e39.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] 80s Computer Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/80s-computer-ufpshpd1uyhpdfwd.jpg' alt='100+] 80s Computer Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="978">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/80s-computer-ufpshpd1uyhpdfwd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] 80s Anime Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/80s-anime-aesthetic-ltlf8u5jbk15i1l3.jpg' alt='100+] 80s Anime Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/80s-anime-aesthetic-ltlf8u5jbk15i1l3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="retro aesthetic laptop wallpaper 2">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cf/47/9c/cf479c83a7ba99ec59c97c4f2985fa37.jpg' alt='retro aesthetic laptop wallpaper 2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="525">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cf/47/9c/cf479c83a7ba99ec59c97c4f2985fa37.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Sara Blakely: The Inspiring Journey of SPANX Founder</title>
+                    <meta name="description" content="Discover the remarkable story of Sara Blakely, founder of SPANX, who turned a $5,000 idea into a billion-dollar empire. Learn how her innovative spirit and determination changed the world of shapewear and inspired aspiring entrepreneurs everywhere.">
+                    <meta name="keywords" content="sara blakely story">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sara-blakely-story">
+                            <span itemprop="name">sara blakely story</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Sara Blakely: The Inspiring Journey of SPANX Founder</h1>
+                <p>Sara Blakely's journey began with a simple idea: creating a better undergarment. After years of persistence, she founded SPANX with just $5,000. Her unique product quickly gained traction, revolutionizing shapewear. Today, Blakely is a self-made billionaire, inspiring countless entrepreneurs with her story of grit and innovation.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: The Spanx Story: What's Underneath the Incredible Success of  Sara Blakely's Billion Dollar Empire (The Business Storybook Series): ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61jn7nNhIxL._AC_UF1000,1000_QL80_.jpg' alt='Amazon.com: The Spanx Story: What's Underneath the Incredible Success of  Sara Blakely's Billion Dollar Empire (The Business Storybook Series): ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="652">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61jn7nNhIxL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sara Blakely - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/f/fc/Sara_Blakely.jpg' alt='Sara Blakely - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/f/fc/Sara_Blakely.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: The Spanx Story: What's Underneath the Incredible Success of  Sara Blakely's Billion Dollar Empire (The Business Storybook Series): ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61SCgMkP-HL._AC_UF1000,1000_QL80_.jpg' alt='Amazon.com: The Spanx Story: What's Underneath the Incredible Success of  Sara Blakely's Billion Dollar Empire (The Business Storybook Series): ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="666">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61SCgMkP-HL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sara Blakely | Biography, Spanx, & Facts | Britannica Money">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/21/232021-050-2E82C491/American-inventor-and-entrepreneur-Sara-Blakely-2019.jpg' alt='Sara Blakely | Biography, Spanx, & Facts | Britannica Money'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="758">
+                                <meta itemprop="height" content="967">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/21/232021-050-2E82C491/American-inventor-and-entrepreneur-Sara-Blakely-2019.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Spanx Startup Story. How Spanx Founder Sara Blakely Built Spanx.">
+                                <img itemprop="contentUrl url" src='http://s3.amazonaws.com/cms.fundable.com/wp-content/uploads/2013/12/Sara-Blakely-Spanx-Early-Days.jpg' alt='The Spanx Startup Story. How Spanx Founder Sara Blakely Built Spanx.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fundable" />
+                                </span>
+                                <a href='http://s3.amazonaws.com/cms.fundable.com/wp-content/uploads/2013/12/Sara-Blakely-Spanx-Early-Days.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Sara Blakely Built Spanx">
+                                <img itemprop="contentUrl url" src='https://www.johncoogan.com/content/images/size/w960/2021/07/Spanx-Thumbnail-V7.png' alt='How Sara Blakely Built Spanx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="John Coogan" />
+                                </span>
+                                <a href='https://www.johncoogan.com/content/images/size/w960/2021/07/Spanx-Thumbnail-V7.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sara Blakely">
+                                <img itemprop="contentUrl url" src='https://imageio.forbes.com/specials-images/imageserve/5ceedf889736330008aa67c8/0x0.jpg?format=jpg&crop=1841,1842,x759,y472,safe&height=416&width=416&fit=bounds' alt='Sara Blakely'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forbes" />
+                                </span>
+                                <a href='https://imageio.forbes.com/specials-images/imageserve/5ceedf889736330008aa67c8/0x0.jpg?format=jpg&crop=1841,1842,x759,y472,safe&height=416&width=416&fit=bounds' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Success Story Of Sara Blakely, Founder of Spanx">
+                                <img itemprop="contentUrl url" src='https://primeinsights.in/wp-content/uploads/2024/09/Banner-Success-Story-Of-Sara-Blakely-Founder-of-Spanx.webp' alt='Success Story Of Sara Blakely, Founder of Spanx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Prime Insights Magazine" />
+                                </span>
+                                <a href='https://primeinsights.in/wp-content/uploads/2024/09/Banner-Success-Story-Of-Sara-Blakely-Founder-of-Spanx.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Success Story of Sara Blakely, the Self-Made Billionaire">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/D4D12AQH6XEZZNMX3TA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1675227538403?e=2147483647&v=beta&t=gNf9DAQBJD9cNIUt22TYmOKxn3Kryp1PNXfFKBycS4M' alt='The Success Story of Sara Blakely, the Self-Made Billionaire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="168">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/D4D12AQH6XEZZNMX3TA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1675227538403?e=2147483647&v=beta&t=gNf9DAQBJD9cNIUt22TYmOKxn3Kryp1PNXfFKBycS4M' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: The Spanx Story: What's Underneath the Incredible ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61WmywG05sL.jpg' alt='Amazon.com: The Spanx Story: What's Underneath the Incredible ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61WmywG05sL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

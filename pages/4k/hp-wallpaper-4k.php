@@ -1,0 +1,129 @@
+<title>Stunning 4K HP Wallpapers for Your Devices</title>
+                    <meta name="description" content="Discover an amazing collection of 4K HP wallpapers to transform your screens. Perfect for desktops and mobile devices, our vibrant images will elevate your digital aesthetic. Explore now and find the ideal backdrop to showcase your style and personality! Download your favorites today!">
+                    <meta name="keywords" content="hp wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/hp-wallpaper-4k">
+                            <span itemprop="name">hp wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K HP Wallpapers for Your Devices</h1>
+                <p>Elevate your digital space with stunning HP wallpaper in 4K resolution. These high-definition images are perfect for adding a touch of elegance to your desktop or mobile background. Whether you prefer landscapes, abstract designs, or vibrant colors, our curated selection will enhance your visual experience. Download your favorite now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HP Wallpapers (57 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/4/5/f/2145795-3840x2160-desktop-4k-hp-background.jpg' alt='HP Wallpapers (57 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/4/5/f/2145795-3840x2160-desktop-4k-hp-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HP Wallpapers (57 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/6/4/8/2145521-1920x1080-desktop-1080p-hp-background-image.jpg' alt='HP Wallpapers (57 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/6/4/8/2145521-1920x1080-desktop-1080p-hp-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hp laptop, pavilion, new, hp, laptop, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/277/1021/HD-wallpaper-hp-x-nvidia-nvidia-hp-computer.jpg' alt='Hp laptop, pavilion, new, hp, laptop, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/277/1021/HD-wallpaper-hp-x-nvidia-nvidia-hp-computer.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Technology Hewlett-Packard 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/123/1230937.jpg' alt='Download Technology Hewlett-Packard 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/123/1230937.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Hp Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/yellow-hp-logo-an1uj731jvuaqyhw.jpg' alt='100+] Hp Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/yellow-hp-logo-an1uj731jvuaqyhw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HP Wallpapers (57 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/7/8/6/2145506-3840x2160-desktop-4k-hp-wallpaper-image.jpg' alt='HP Wallpapers (57 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/7/8/6/2145506-3840x2160-desktop-4k-hp-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome HP 4K Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e0/38/3d/e0383d3b6ad2ed328131c1d3d145d4d8.jpg' alt='Awesome HP 4K Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e0/38/3d/e0383d3b6ad2ed328131c1d3d145d4d8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Hp Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/bronze-classy-hp-h4b5cl41rmagrbla.jpg' alt='100+] Hp Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/bronze-classy-hp-h4b5cl41rmagrbla.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HP Omen Logo 8K Wallpaper #6.2177">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFpIizosliJb50cb1GNJzvBFrUDqDrQD1j_ju_3xVv8JGMQsQb5o8GviHUTydg4UmAK19jEYNDBeTkOWozRF7ifJcASyWPE1hroibpJrf_IeFlmMvQr-qIr0XeLZz1Da10q4x583F5h5dq/w919/hp-omen-logo-uhdpaper.com-8K-6.2177-wp.thumbnail.jpg' alt='HP Omen Logo 8K Wallpaper #6.2177'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="914">
+                                <meta itemprop="height" content="514">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFpIizosliJb50cb1GNJzvBFrUDqDrQD1j_ju_3xVv8JGMQsQb5o8GviHUTydg4UmAK19jEYNDBeTkOWozRF7ifJcASyWPE1hroibpJrf_IeFlmMvQr-qIr0XeLZz1Da10q4x583F5h5dq/w919/hp-omen-logo-uhdpaper.com-8K-6.2177-wp.thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HP Wallpapers (57 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/1/c/1/2145800-1920x1200-desktop-hd-hp-background-image.jpg' alt='HP Wallpapers (57 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/1/c/1/2145800-1920x1200-desktop-hd-hp-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

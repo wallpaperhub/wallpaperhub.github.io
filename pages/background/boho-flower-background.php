@@ -1,0 +1,129 @@
+<title>Boho Flower Background: Embrace Nature's Beauty</title>
+                    <meta name="description" content="Transform your surroundings with a boho flower background, perfect for adding a touch of nature-inspired elegance to your décor. Ideal for homes, offices, or creative projects, this design blends floral elements with a bohemian vibe to inspire beauty and harmony in any setting.">
+                    <meta name="keywords" content="boho flower background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/boho-flower-background">
+                            <span itemprop="name">boho flower background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Boho Flower Background: Embrace Nature's Beauty</h1>
+                <p>Enhance your space with a boho flower background that captures the essence of free-spirited style. Featuring vibrant florals and earthy tones, this design brings warmth and creativity to any room. Perfect for bohemian aesthetics, it's a blend of nature and art that inspires tranquility and beauty wherever it's placed.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho floral digital seamless pattern for fabrics and wallpapers, Boho  floral seamless repeat pattern, Boho floral digital paper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25961083/r/il/629855/3428672517/il_570xN.3428672517_4hg2.jpg' alt='Boho floral digital seamless pattern for fabrics and wallpapers, Boho  floral seamless repeat pattern, Boho floral digital paper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25961083/r/il/629855/3428672517/il_570xN.3428672517_4hg2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Flowers Duet Tissue Decoupage Paper">
+                                <img itemprop="contentUrl url" src='http://maikadaughters.com/cdn/shop/files/whimsykel-decoupage-paper-boho-flowers-duet-2048x2048-main.jpg?v=1722190271' alt='Boho Flowers Duet Tissue Decoupage Paper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Maika Daughters" />
+                                </span>
+                                <a href='http://maikadaughters.com/cdn/shop/files/whimsykel-decoupage-paper-boho-flowers-duet-2048x2048-main.jpg?v=1722190271' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho flowers watercolor broun background wallpaper #3320">
+                                <img itemprop="contentUrl url" src='https://california-wallpaper.com/cdn/shop/products/il_fullxfull.3800792058_os4n.jpg?v=1657244623&width=1080' alt='Boho flowers watercolor broun background wallpaper #3320'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="California Wallpaper" />
+                                </span>
+                                <a href='https://california-wallpaper.com/cdn/shop/products/il_fullxfull.3800792058_os4n.jpg?v=1657244623&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho flowers hi-res stock photography and images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2JK66PM/boho-flowers-dragonflies-seamless-repeating-pattern-2JK66PM.jpg' alt='Boho flowers hi-res stock photography and images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2JK66PM/boho-flowers-dragonflies-seamless-repeating-pattern-2JK66PM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Floral Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/vintage-seamless-pattern-floral_44538-9993.jpg' alt='Boho Floral Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/vintage-seamless-pattern-floral_44538-9993.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Boho Floral Background in SVG, JPG, Illustrator, EPS ...">
+                                <img itemprop="contentUrl url" src='https://images.template.net/73540/Free-colorful-boho-floral-background-1.jpg' alt='Colorful Boho Floral Background in SVG, JPG, Illustrator, EPS ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="1569">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template.net" />
+                                </span>
+                                <a href='https://images.template.net/73540/Free-colorful-boho-floral-background-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pegasus - Watercolor Boho flowers Fabric | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://s3.amazonaws.com/spoonflower/public/design_thumbnails/1628/0067/rPegasus_-_Boho_flowers_last_300_shop_thumb.png' alt='Pegasus - Watercolor Boho flowers Fabric | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://s3.amazonaws.com/spoonflower/public/design_thumbnails/1628/0067/rPegasus_-_Boho_flowers_last_300_shop_thumb.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Aesthetic Flower Garden Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/boho-aesthetic-flower-garden-to0no1q4uneo4c7a.jpg' alt='Boho Aesthetic Flower Garden Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="511">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/boho-aesthetic-flower-garden-to0no1q4uneo4c7a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Style Flowers Wallpaper – Lovecup.com">
+                                <img itemprop="contentUrl url" src='https://www.lovecup.com/cdn/shop/products/boho-style-flowers-wallpaper-15802774356045_800x.jpg?v=1693312695' alt='Boho Style Flowers Wallpaper – Lovecup.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lovecup.com" />
+                                </span>
+                                <a href='https://www.lovecup.com/cdn/shop/products/boho-style-flowers-wallpaper-15802774356045_800x.jpg?v=1693312695' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Flowers Images – Browse 926,588 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/98/72/51/360_F_498725128_xEscdIRv9PJCP5I3lUs4Re0O9FjGlKME.jpg' alt='Boho Flowers Images – Browse 926,588 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="297">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/98/72/51/360_F_498725128_xEscdIRv9PJCP5I3lUs4Re0O9FjGlKME.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Syracuse Football Wallpaper: Elevate Your Fan Experience</title>
+                    <meta name="description" content="Discover vibrant Syracuse football wallpaper to showcase your team spirit! Perfect for any device, these high-quality images capture the energy of game day, making it easy to support the Orange. Download now and show off your pride!">
+                    <meta name="keywords" content="syracuse football wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/football">
+                            <span itemprop="name">Football</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/football/syracuse-football-wallpaper">
+                            <span itemprop="name">syracuse football wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Syracuse Football Wallpaper: Elevate Your Fan Experience</h1>
+                <p>Transform your device with stunning Syracuse football wallpaper! Showcase your pride for the Orange with high-quality images featuring iconic players, thrilling game moments, and the unforgettable Carrier Dome. Perfect for fans of all ages, these wallpapers bring the excitement of Syracuse football to your screens, making every glance a celebration!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2025 Syracuse Orange wallpaper – Pro Sports Backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.prosportsbackgrounds.com/wp-content/uploads/Syracuse-Orange-wallpaper-logo-desktop-NCAA-2024.png' alt='2025 Syracuse Orange wallpaper – Pro Sports Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pro Sports Backgrounds" />
+                                </span>
+                                <a href='https://www.prosportsbackgrounds.com/wp-content/uploads/Syracuse-Orange-wallpaper-logo-desktop-NCAA-2024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Syracuse Football on X: "As screen times rise with everyone doing ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/ET90SQkWsAIbMQO.jpg:large' alt='Syracuse Football on X: "As screen times rise with everyone doing ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="946">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/ET90SQkWsAIbMQO.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Syracuse Football (2019-2020) :: Behance">
+                                <img itemprop="contentUrl url" src='https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/7373be92793745.5e54a2aa921a0.jpg' alt='Syracuse Football (2019-2020) :: Behance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Behance" />
+                                </span>
+                                <a href='https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/7373be92793745.5e54a2aa921a0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Syracuse Wallpapers (21 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/e/0/3/772405-1080x1920-iphone-1080p-syracuse-wallpaper-photo.jpg' alt='Syracuse Wallpapers (21 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/e/0/3/772405-1080x1920-iphone-1080p-syracuse-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Syracuse Football on X: "A fresh #WallpaperWednesday for 2023 with ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FoeFDsZXsAALXfn.jpg:large' alt='Syracuse Football on X: "A fresh #WallpaperWednesday for 2023 with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FoeFDsZXsAALXfn.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Syracuse">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/69/3b/36/693b366dab8cad2cd919b8239dbfe676.jpg' alt='Syracuse'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/69/3b/36/693b366dab8cad2cd919b8239dbfe676.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Syracuse">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/68/98/49/68984967ea3c1d92429c346f37e7c473.jpg' alt='Syracuse'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/68/98/49/68984967ea3c1d92429c346f37e7c473.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Syracuse Orange flag, NCAA, orange blue metal background, american ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/1013/343/HD-wallpaper-syracuse-orange-flag-ncaa-orange-blue-metal-background-american-football-team-syracuse-orange-logo-usa-american-football-golden-logo-syracuse-orange.jpg' alt='Syracuse Orange flag, NCAA, orange blue metal background, american ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/1013/343/HD-wallpaper-syracuse-orange-flag-ncaa-orange-blue-metal-background-american-football-team-syracuse-orange-logo-usa-american-football-golden-logo-syracuse-orange.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Syracuse">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0b/e8/fe/0be8feb1d8547ec2b86485e2d92b8a82.jpg' alt='Syracuse'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0b/e8/fe/0be8feb1d8547ec2b86485e2d92b8a82.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Big Apple Awaits - Syracuse University Athletics">
+                                <img itemprop="contentUrl url" src='https://images.sidearmdev.com/resize?url=https%3A%2F%2Fd3d4f9a2nwdz4m.cloudfront.net%2Fimages%2F2022%2F12%2F4%2Fweb.jpg&height=300&type=webp' alt='The Big Apple Awaits - Syracuse University Athletics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Syracuse University Athletics" />
+                                </span>
+                                <a href='https://images.sidearmdev.com/resize?url=https%3A%2F%2Fd3d4f9a2nwdz4m.cloudfront.net%2Fimages%2F2022%2F12%2F4%2Fweb.jpg&height=300&type=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

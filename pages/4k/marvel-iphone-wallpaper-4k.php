@@ -1,0 +1,129 @@
+<title>Epic 4K Marvel iPhone Wallpapers</title>
+                    <meta name="description" content="Discover a fantastic collection of 4K Marvel iPhone wallpapers that bring your favorite superheroes and villains to life. Perfect for fans looking to personalize their device with vibrant, high-quality images that capture the essence of the Marvel Universe. Download now and showcase your Marvel fandom!">
+                    <meta name="keywords" content="marvel iphone wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/marvel-iphone-wallpaper-4k">
+                            <span itemprop="name">marvel iphone wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic 4K Marvel iPhone Wallpapers</h1>
+                <p>Elevate your device's aesthetic with stunning 4K Marvel iPhone wallpapers. From iconic heroes like Spider-Man and Iron Man to the fierce villains of the Marvel Universe, discover a collection that brings these legendary characters to life. Perfect for fans seeking vibrant and detailed backgrounds that reflect their passion for Marvel.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marvel black superhero iphone wallpaper I made : r/Marvel">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/wxm47kgjz5101.png?width=640&crop=smart&auto=webp&s=a8e5baf27ff7bd59f62d794297411b93b38ccc03' alt='Marvel black superhero iphone wallpaper I made : r/Marvel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/wxm47kgjz5101.png?width=640&crop=smart&auto=webp&s=a8e5baf27ff7bd59f62d794297411b93b38ccc03' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avengers Infinity Gauntlet 4k Marvel Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/avengers-infinity-gauntlet-4k-marvel-iphone-2zavntvi5jf6a0vb.jpg' alt='Avengers Infinity Gauntlet 4k Marvel Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/avengers-infinity-gauntlet-4k-marvel-iphone-2zavntvi5jf6a0vb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spiderman With Shield 4k Marvel Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/spiderman-with-shield-4k-marvel-iphone-hqhokpod2jla8tkw.jpg' alt='Spiderman With Shield 4k Marvel Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/spiderman-with-shield-4k-marvel-iphone-hqhokpod2jla8tkw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] 4k Marvel Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/4k-marvel-iphone-bdzi20j0nvm1zs4n.jpg' alt='100+] 4k Marvel Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/4k-marvel-iphone-bdzi20j0nvm1zs4n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Snapped Spider-man 4k Marvel Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/snapped-spider-man-4k-marvel-iphone-crmveatpe8uf5ptp.jpg' alt='Snapped Spider-man 4k Marvel Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/snapped-spider-man-4k-marvel-iphone-crmveatpe8uf5ptp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD marvel iphone wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/467/565/HD-wallpaper-avengers-endgame-captainamerica-iphone-ironman-marvel-marvel-comics-thor-thumbnail.jpg' alt='HD marvel iphone wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="561">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/467/565/HD-wallpaper-avengers-endgame-captainamerica-iphone-ironman-marvel-marvel-comics-thor-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iron Man 4K iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3c/23/3a/3c233a51ac672a86851b13a7941625ae.jpg' alt='Iron Man 4K iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3c/23/3a/3c233a51ac672a86851b13a7941625ae.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iron Man Artwork 4k Marvel Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/iron-man-artwork-4k-marvel-iphone-s6zwl78o8wfy4ocl.jpg' alt='Iron Man Artwork 4k Marvel Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/iron-man-artwork-4k-marvel-iphone-s6zwl78o8wfy4ocl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 4k Marvel Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp7801016.jpg' alt='iPhone 4k Marvel Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp7801016.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD marvel iphone wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/843/592/HD-wallpaper-dark-spiderman-glowing-eyes-iphone-iphone-dark-spiderman-marvel-thumbnail.jpg' alt='HD marvel iphone wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/843/592/HD-wallpaper-dark-spiderman-glowing-eyes-iphone-iphone-dark-spiderman-marvel-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

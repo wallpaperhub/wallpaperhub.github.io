@@ -1,0 +1,129 @@
+<title>Understanding Overlapping Employment in Background Checks</title>
+                    <meta name="description" content="Discover the implications of overlapping employment on background checks. Learn how verifying work history can enhance the hiring process, ensuring candidates are honest and fit for the role. Get insights into detecting discrepancies and building a trustworthy workforce today!">
+                    <meta name="keywords" content="background check overlapping employment">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/background-check-overlapping-employment">
+                            <span itemprop="name">background check overlapping employment</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Overlapping Employment in Background Checks</h1>
+                <p>When conducting a background check, overlapping employment is a crucial factor to consider. It highlights transparency and accountability in a candidate's work history. Employers should verify any gaps or overlaps in employment dates to ensure accuracy. This can prevent issues related to job performance and integrity in the hiring process.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Overlapping Jobs To Try Two Full-Time Remote Jobs - Overemployed ®">
+                                <img itemprop="contentUrl url" src='https://overemployed.com/wp-content/uploads/2021/05/overlapping-jobs-two-jobs.jpg' alt='Overlapping Jobs To Try Two Full-Time Remote Jobs - Overemployed ®'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Overemployed" />
+                                </span>
+                                <a href='https://overemployed.com/wp-content/uploads/2021/05/overlapping-jobs-two-jobs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barred from Work: The Discriminatory Impacts of Criminal ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/tminstituteldf.org/wp-content/uploads/2023/04/MicrosoftTeams-image-260.jpg?fit=1024%2C400&ssl=1' alt='Barred from Work: The Discriminatory Impacts of Criminal ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Thurgood Marshall Institute" />
+                                </span>
+                                <a href='https://i0.wp.com/tminstituteldf.org/wp-content/uploads/2023/04/MicrosoftTeams-image-260.jpg?fit=1024%2C400&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Does Background Check Work For Multiple Employment ...">
+                                <img itemprop="contentUrl url" src='https://overemployed.com/wp-content/uploads/2022/04/pexels-cottonbro-8369521.jpg' alt='How Does Background Check Work For Multiple Employment ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="426">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Overemployed" />
+                                </span>
+                                <a href='https://overemployed.com/wp-content/uploads/2022/04/pexels-cottonbro-8369521.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stirling background check is making a fuss over a gap in my ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/9j2yct4982391.jpg?width=981&format=pjpg&auto=webp&s=44f9ae60adb50517f387dadc9abb0b07b5712e84' alt='Stirling background check is making a fuss over a gap in my ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="981">
+                                <meta itemprop="height" content="214">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/9j2yct4982391.jpg?width=981&format=pjpg&auto=webp&s=44f9ae60adb50517f387dadc9abb0b07b5712e84' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HR Guide: Criminal Background Checks for Employers - MBM Law">
+                                <img itemprop="contentUrl url" src='https://www.mbm-law.net/wp-content/uploads/Criminal-Background-Check.png' alt='HR Guide: Criminal Background Checks for Employers - MBM Law'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Maiello Brungo & Maiello" />
+                                </span>
+                                <a href='https://www.mbm-law.net/wp-content/uploads/Criminal-Background-Check.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barred from Work: The Discriminatory Impacts of Criminal ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/tminstituteldf.org/wp-content/uploads/2023/03/shutterstock_228936508-1-scaled.jpg?fit=1024%2C672&ssl=1' alt='Barred from Work: The Discriminatory Impacts of Criminal ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="672">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Thurgood Marshall Institute" />
+                                </span>
+                                <a href='https://i0.wp.com/tminstituteldf.org/wp-content/uploads/2023/03/shutterstock_228936508-1-scaled.jpg?fit=1024%2C672&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employment Background Checks | A Step-by-Step Guide">
+                                <img itemprop="contentUrl url" src='https://ebcglobal.co.uk/wp-content/uploads/2021/07/Background-Check-Process-MC.png' alt='Employment Background Checks | A Step-by-Step Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EBC Global" />
+                                </span>
+                                <a href='https://ebcglobal.co.uk/wp-content/uploads/2021/07/Background-Check-Process-MC.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Do a Background Check for Employment | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/42d0b2897b8d9c207dda315775b643e8/d66bc/Article-How-to-Run-a-BGC-1200x520-2.png' alt='How to Do a Background Check for Employment | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/42d0b2897b8d9c207dda315775b643e8/d66bc/Article-How-to-Run-a-BGC-1200x520-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to conduct an informal background check on new employer or ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:800/1*ZJNZxJwxHa9ziF1z8H9Eyw.jpeg' alt='How to conduct an informal background check on new employer or ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1147">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:800/1*ZJNZxJwxHa9ziF1z8H9Eyw.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employee Background Checks: What Are the Limits? | Your Work, Your Way">
+                                <img itemprop="contentUrl url" src='https://yourwork-yourway.com/wp-content/uploads/2012/09/background-check.png' alt='Employee Background Checks: What Are the Limits? | Your Work, Your Way'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1176">
+                                <meta itemprop="height" content="902">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Your Work, Your Way" />
+                                </span>
+                                <a href='https://yourwork-yourway.com/wp-content/uploads/2012/09/background-check.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

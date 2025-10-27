@@ -1,0 +1,129 @@
+<title>Stylish Tropical Black and White Wallpaper for Your Home</title>
+                    <meta name="description" content="Discover our stunning tropical black and white wallpaper collection. Perfect for adding a chic, modern touch to any room. Elevate your decor with bold designs featuring exotic leaves and flowers. Ideal for creating an inviting atmosphere in your home or office.">
+                    <meta name="keywords" content="tropical black and white wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/tropical-black-and-white-wallpaper">
+                            <span itemprop="name">tropical black and white wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Tropical Black and White Wallpaper for Your Home</h1>
+                <p>Transform your space with tropical black and white wallpaper, a perfect way to add a touch of elegance and sophistication. The bold contrast enhances any room, whether it's your living area, bedroom, or office. This timeless design combines exotic flora and fauna, creating a serene yet striking atmosphere. Perfect for modern or vintage decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lac Tropical Black & White Mural Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.foresthomesstore.com/cdn/shop/files/Lac-Tropical-Black-White-Mural-Wallpaper-2_1080x.jpg?v=1683315203' alt='Lac Tropical Black & White Mural Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1403">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forest Homes" />
+                                </span>
+                                <a href='https://www.foresthomesstore.com/cdn/shop/files/Lac-Tropical-Black-White-Mural-Wallpaper-2_1080x.jpg?v=1683315203' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Monochrome Jungle Wallpaper, Tropical Landscape Wallpaper, Black ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11123188/r/il/a413e2/4809843025/il_fullxfull.4809843025_cdiz.jpg' alt='Monochrome Jungle Wallpaper, Tropical Landscape Wallpaper, Black ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2250">
+                                <meta itemprop="height" content="2663">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11123188/r/il/a413e2/4809843025/il_fullxfull.4809843025_cdiz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Monochrome Palm haven Wallpaper for Walls">
+                                <img itemprop="contentUrl url" src='https://www.marble-lotus.com/cdn/shop/files/monochrome-palm-haven-wallpaper-for-walls-marble-lotus-481887.png?v=1738630149&width=1308' alt='Monochrome Palm haven Wallpaper for Walls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1308">
+                                <meta itemprop="height" content="516">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Marble Lotus" />
+                                </span>
+                                <a href='https://www.marble-lotus.com/cdn/shop/files/monochrome-palm-haven-wallpaper-for-walls-marble-lotus-481887.png?v=1738630149&width=1308' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall NW37300 Tropical Garden Black and White Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/220680.jpg' alt='NextWall NW37300 Tropical Garden Black and White Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/220680.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Botanical Beauty Mono - Black & White Tropical Wall Mural">
+                                <img itemprop="contentUrl url" src='https://wallpapermural.com/cdn/shop/products/BotanicalBeauty-monochrome_Artwork.jpg?v=1740501438' alt='Botanical Beauty Mono - Black & White Tropical Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3189">
+                                <meta itemprop="height" content="1595">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperMural.com" />
+                                </span>
+                                <a href='https://wallpapermural.com/cdn/shop/products/BotanicalBeauty-monochrome_Artwork.jpg?v=1740501438' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Palmer Black">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1715950736/articles/TR0054BL05W_product.jpg' alt='Palmer Black'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hovia" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1715950736/articles/TR0054BL05W_product.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Matte Wallpaper With Black and White Tropical Leaves and Yellow ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/22799922/r/il/b51c03/4086928921/il_570xN.4086928921_eygq.jpg' alt='Matte Wallpaper With Black and White Tropical Leaves and Yellow ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="838">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/22799922/r/il/b51c03/4086928921/il_570xN.4086928921_eygq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WESTICK Black and White Tropical Wallpaper Waterproof Jungle Palm ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/A1MPyQUbTbL.jpg' alt='WESTICK Black and White Tropical Wallpaper Waterproof Jungle Palm ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2559">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/A1MPyQUbTbL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Palms Black - Peel-and-Stick">
+                                <img itemprop="contentUrl url" src='http://wallsneedlove.com/cdn/shop/products/w0074_1s_Palm-Leaves-Tropical-Wallpaper-for-Walls-Retro-Palms-Black_Repeating-Pattern-Sample-1.jpg?v=1734717665' alt='Retro Palms Black - Peel-and-Stick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3028">
+                                <meta itemprop="height" content="1872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='http://wallsneedlove.com/cdn/shop/products/w0074_1s_Palm-Leaves-Tropical-Wallpaper-for-Walls-Retro-Palms-Black_Repeating-Pattern-Sample-1.jpg?v=1734717665' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and White Tropical Mural Wallpaper | Tropical Forest with ...">
+                                <img itemprop="contentUrl url" src='https://wondermural.com/cdn/shop/files/PapierpeinttropicalnoiretblancForettropicalgrandsarbresetpalmiersmassifs1198_700x700.jpg?v=1715276831' alt='Black and White Tropical Mural Wallpaper | Tropical Forest with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WonderMural" />
+                                </span>
+                                <a href='https://wondermural.com/cdn/shop/files/PapierpeinttropicalnoiretblancForettropicalgrandsarbresetpalmiersmassifs1198_700x700.jpg?v=1715276831' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

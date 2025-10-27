@@ -1,0 +1,129 @@
+<title>Chic Preppy Emoji Wallpaper for Your Screen</title>
+                    <meta name="description" content="Discover the trendiest preppy emoji wallpaper that brightens up your devices! Perfect for style enthusiasts, our vibrant designs bring a fun twist to your screens. Explore now and personalize your digital space effortlessly! Ideal for mobile viewing and quick browsing.">
+                    <meta name="keywords" content="preppy emoji wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy">
+                            <span itemprop="name">Preppy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy/preppy-emoji-wallpaper">
+                            <span itemprop="name">preppy emoji wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Preppy Emoji Wallpaper for Your Screen</h1>
+                <p>Transform your digital space with charming preppy emoji wallpaper! Featuring vibrant designs packed with cute and quirky emojis, this wallpaper adds a playful touch to your devices. Perfect for those who embrace a fun, stylish aesthetic. Elevate your screen’s look and showcase your personality with these delightful patterns!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy emojis     ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/49/cb/d7/49cbd75ba58ff6ee59001cd4b9506932.jpg' alt='Preppy emojis     '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/49/cb/d7/49cbd75ba58ff6ee59001cd4b9506932.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Part 2? #preppy #wallpapaers #emoji #foryou #fy TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7273811544054500640&location=0&aid=1988' alt='Part 2? #preppy #wallpapaers #emoji #foryou #fy TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7273811544054500640&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="preppy emojis">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2f/e8/35/2fe835bcf05fa764abc52c636f2025c9.jpg' alt='preppy emojis'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2f/e8/35/2fe835bcf05fa764abc52c636f2025c9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/e8/ff/6f/e8ff6fea6bc500ae1254545952b80f6a.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/e8/ff/6f/e8ff6fea6bc500ae1254545952b80f6a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Preppy Smiley Face Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/preppy-smiley-face-background-e74e75d3m6zu5b5j.jpg' alt='100+] Preppy Smiley Face Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1130">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/preppy-smiley-face-background-e74e75d3m6zu5b5j.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iOS 16 Emoji Wallpaper idea">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/6e/3f/1b/6e3f1be1ab720d92a6d66a0d08fcff71.jpg' alt='iOS 16 Emoji Wallpaper idea'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/6e/3f/1b/6e3f1be1ab720d92a6d66a0d08fcff71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Follow for more ideas ✨ #ios17 #emoji #emojicombos #customized  #lockscreenwallpaper #iphone #wallpapers #iphonetips #iphonehack  #iphonehacks #iosemoji #emoji #emojis #newemojis #emojicombo #spring ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7358755169086999850&location=0&aid=1988' alt='Follow for more ideas ✨ #ios17 #emoji #emojicombos #customized  #lockscreenwallpaper #iphone #wallpapers #iphonetips #iphonehack  #iphonehacks #iosemoji #emoji #emojis #newemojis #emojicombo #spring ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7358755169086999850&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/79/31/20/793120de020123d821f0c8ef3c3444a4.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1108">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/79/31/20/793120de020123d821f0c8ef3c3444a4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Replying to @amirah There you go!! #fy #fyp #fypシ #preppy ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7192952624860204315&location=0&aid=1988' alt='Replying to @amirah There you go!! #fy #fyp #fypシ #preppy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7192952624860204315&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Emoji Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-emoji-p0mz9s1xs82xyx5w.jpg' alt='100+] Cute Emoji Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-emoji-p0mz9s1xs82xyx5w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

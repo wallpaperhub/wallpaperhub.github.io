@@ -1,0 +1,129 @@
+<title>Aesthetic iPhone 12 Wallpapers: Elevate Your Home Screen</title>
+                    <meta name="description" content="Discover the ultimate collection of aesthetic wallpapers for your iPhone 12! Transform your device with stylish and vibrant designs that match your personality. Perfect for any aesthetic lover. Download now and give your home screen a fresh new look!">
+                    <meta name="keywords" content="iphone 12 aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-12-aesthetic-wallpaper">
+                            <span itemprop="name">iphone 12 aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic iPhone 12 Wallpapers: Elevate Your Home Screen</h1>
+                <p>Elevate your iPhone 12 with stunning aesthetic wallpapers! Explore a curated collection featuring vibrant colors, minimalistic designs, and breathtaking landscapes. Perfect for personalizing your device, these wallpapers reflect your unique style and enhance your home screen. Download today for an aesthetic upgrade!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Foggy City Iphone 12 Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/foggy-city-iphone-12-5plne2oo9x95b40w.jpg' alt='Foggy City Iphone 12 Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/foggy-city-iphone-12-5plne2oo9x95b40w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="400+] Iphone Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/iphone-aesthetic-qgl7876cmruvfe06.jpg' alt='400+] Iphone Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/iphone-aesthetic-qgl7876cmruvfe06.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 12 Aesthetic Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp12275728.jpg' alt='iPhone 12 Aesthetic Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp12275728.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic, beautiful, best, fantastic, , iphone 12, iphone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/79/641/HD-wallpaper-aesthetic-beautiful-best-fantastic-iphone-12-iphone-iphone12-pro-max-landscapes-mountains.jpg' alt='Aesthetic, beautiful, best, fantastic, , iphone 12, iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1735">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/79/641/HD-wallpaper-aesthetic-beautiful-best-fantastic-iphone-12-iphone-iphone12-pro-max-landscapes-mountains.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpapers for iPhone 12, iPhone 12 Pro, and iPhone 12 Pro Max ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/67/e3/7b/67e37ba3211cf098333d0b1398f6efb8.jpg' alt='Wallpapers for iPhone 12, iPhone 12 Pro, and iPhone 12 Pro Max ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/67/e3/7b/67e37ba3211cf098333d0b1398f6efb8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sky Doodle Iphone 12 Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/sky-doodle-iphone-12-5sobnuc19o6ji7h3.jpg' alt='Sky Doodle Iphone 12 Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/sky-doodle-iphone-12-5sobnuc19o6ji7h3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Purple Clouds Vector Art iPhone 12 Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/f4/f3/20/f4f32099cad9d48344b71b2a6bd7f872.jpg' alt='Download Purple Clouds Vector Art iPhone 12 Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/f4/f3/20/f4f32099cad9d48344b71b2a6bd7f872.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] iPhone 12 Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/above-the-clouds-iphone-12-df86rw2r87e8twwg.jpg' alt='100+] iPhone 12 Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="941">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/above-the-clouds-iphone-12-df86rw2r87e8twwg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone 12 HD Wallpapers (200++) - MrWallpaper.com">
+                                <img itemprop="contentUrl url" src='https://mrwallpaper.com/images/thumbnail/moon-in-the-sky-iphone-12-gvby6fjxzxvwuxhp.jpg' alt='Iphone 12 HD Wallpapers (200++) - MrWallpaper.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrWallpaper" />
+                                </span>
+                                <a href='https://mrwallpaper.com/images/thumbnail/moon-in-the-sky-iphone-12-gvby6fjxzxvwuxhp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone 12 Pro Max Aesthetic Wallpaper Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a5/ce/92/a5ce927ccf2318a60bfb5613930b6c41.jpg' alt='Iphone 12 Pro Max Aesthetic Wallpaper Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a5/ce/92/a5ce927ccf2318a60bfb5613930b6c41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

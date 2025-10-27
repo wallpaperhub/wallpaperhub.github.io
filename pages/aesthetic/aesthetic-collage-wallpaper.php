@@ -1,0 +1,129 @@
+<title>Aesthetic Collage Wallpaper: Transform Your Space</title>
+                    <meta name="description" content="Discover aesthetic collage wallpaper that adds a unique flair to your home. Perfect for creative minds, these wallpapers feature a blend of images and textures, transforming any wall into an artistic expression. Elevate your decor with our curated collection, designed to inspire and beautify your space effortlessly.">
+                    <meta name="keywords" content="aesthetic collage wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic-collage-wallpaper">
+                            <span itemprop="name">aesthetic collage wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Collage Wallpaper: Transform Your Space</h1>
+                <p>Aesthetic collage wallpaper is a captivating way to express individuality and creativity in your space. Combining various images, textures, and colors, these wallpapers create a visually stimulating environment. Whether you prefer vintage vibes or modern art, aesthetic collage wallpaper enhances your decor, making your walls a canvas of inspiration.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautifully Aesthetic Laptop Collage Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/beautifully-aesthetic-laptop-collage-ovakzogvtiueaq4o.jpg' alt='Beautifully Aesthetic Laptop Collage Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/beautifully-aesthetic-laptop-collage-ovakzogvtiueaq4o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Aesthetic Collage Laptop Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/beige-theme-aesthetic-collage-laptop-q6nxow9x3xp0addv.jpg' alt='100+] Aesthetic Collage Laptop Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="858">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/beige-theme-aesthetic-collage-laptop-q6nxow9x3xp0addv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desktop Wallpaper / White Aesthetic / Collage">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/26565673/r/il/08ea20/2774827873/il_fullxfull.2774827873_ffpa.jpg' alt='Desktop Wallpaper / White Aesthetic / Collage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/26565673/r/il/08ea20/2774827873/il_fullxfull.2774827873_ffpa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="beach aesthetic collage | iPhone Case">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.2047503898.7076/raf,360x360,075,t,fafafa:ca443f4786.jpg' alt='beach aesthetic collage | iPhone Case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.2047503898.7076/raf,360x360,075,t,fafafa:ca443f4786.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="aesthetic collage wallpaper     ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a0/8f/a6/a08fa6539350af87cfa2c23f5ec6f9bc.jpg' alt='aesthetic collage wallpaper     '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a0/8f/a6/a08fa6539350af87cfa2c23f5ec6f9bc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="790 Collages ideas | aesthetic iphone wallpaper, aesthetic pastel ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/59/da/33/59da33e4bcadd911a1f03a6fe9fe772d.jpg' alt='790 Collages ideas | aesthetic iphone wallpaper, aesthetic pastel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="525">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/59/da/33/59da33e4bcadd911a1f03a6fe9fe772d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="400+] Aesthetic Collage Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/aesthetic-collage-g3zbdn9o9f8fy6d4.jpg' alt='400+] Aesthetic Collage Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/aesthetic-collage-g3zbdn9o9f8fy6d4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Collage Wallpaper - Piktochart">
+                                <img itemprop="contentUrl url" src='https://piktochart.com/wp-content/uploads/2023/05/large-155.jpg' alt='Aesthetic Collage Wallpaper - Piktochart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Piktochart" />
+                                </span>
+                                <a href='https://piktochart.com/wp-content/uploads/2023/05/large-155.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Grey Aesthetic Collage iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/46590587/r/il/9f7933/6354369674/il_fullxfull.6354369674_ji7t.jpg' alt='Light Grey Aesthetic Collage iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/46590587/r/il/9f7933/6354369674/il_fullxfull.6354369674_ji7t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Collage Ideas Archives 23 - Fab Mood | Wedding Color ...">
+                                <img itemprop="contentUrl url" src='https://www.fabmood.com/wp-content/uploads/2022/01/brown-aesthetic-collage.jpg' alt='Wallpaper Collage Ideas Archives 23 - Fab Mood | Wedding Color ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1970">
+                                <meta itemprop="height" content="1370">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fab Mood" />
+                                </span>
+                                <a href='https://www.fabmood.com/wp-content/uploads/2022/01/brown-aesthetic-collage.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

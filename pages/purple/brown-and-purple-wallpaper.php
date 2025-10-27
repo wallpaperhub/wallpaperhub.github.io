@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="brown and purple wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/brown-and-purple-wallpaper">
+                            <span itemprop="name">brown and purple wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Y2k Heart In Brown And Purple Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/y2k-heart-in-brown-and-purple-ooo7u57mptjgqubx.jpg' alt='Y2k Heart In Brown And Purple Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="663">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/y2k-heart-in-brown-and-purple-ooo7u57mptjgqubx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Beautiful brown and purple color gradient background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/beautiful-brown-purple-color-gradient-background_492281-2193.jpg' alt='Premium Vector | Beautiful brown and purple color gradient background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="376">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/beautiful-brown-purple-color-gradient-background_492281-2193.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Purple Brown Abstract Texture Background Pattern ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/purple-brown-abstract-texture-background-pattern-backdrop-wallpaper_41691-4948.jpg' alt='Premium Photo | Purple Brown Abstract Texture Background Pattern ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/purple-brown-abstract-texture-background-pattern-backdrop-wallpaper_41691-4948.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple, brown, plain, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/850/645/HD-wallpaper-purple-brown-plain.jpg' alt='Purple, brown, plain, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/850/645/HD-wallpaper-purple-brown-plain.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown and purple wooden boards design backgrounds vector free download">
+                                <img itemprop="contentUrl url" src='https://freedesignfile.com/upload/2019/09/Brown-and-purple-wooden-boards-design-backgrounds-vector.jpg' alt='Brown and purple wooden boards design backgrounds vector free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FreeDesignFile" />
+                                </span>
+                                <a href='https://freedesignfile.com/upload/2019/09/Brown-and-purple-wooden-boards-design-backgrounds-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gradient background purple and brown 6541116 Vector Art at Vecteezy">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/006/541/116/non_2x/gradient-background-purple-and-brown-free-vector.jpg' alt='Gradient background purple and brown 6541116 Vector Art at Vecteezy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1698">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/006/541/116/non_2x/gradient-background-purple-and-brown-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Abstract Seamless Watercolor Brown Purple For Background ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/maxximmm/maxximmm1611/maxximmm161100139/65984827-colorful-abstract-seamless-watercolor-brown-purple-for-background-digital-art-painting-wallpaper.jpg' alt='Colorful Abstract Seamless Watercolor Brown Purple For Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/maxximmm/maxximmm1611/maxximmm161100139/65984827-colorful-abstract-seamless-watercolor-brown-purple-for-background-digital-art-painting-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple-brown aesthetic wall">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4c/57/91/4c5791eed5439300c90e920d0d425de0.jpg' alt='Purple-brown aesthetic wall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4c/57/91/4c5791eed5439300c90e920d0d425de0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="purple and brown aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/63/45/6a/63456a25393d888fba2f5415b154ee24.jpg' alt='purple and brown aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/63/45/6a/63456a25393d888fba2f5415b154ee24.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown And Soft Lilac Aesthetic Floral Backgroung Background ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fw800/background/20230821/pngtree-brown-and-soft-lilac-aesthetic-floral-backgroung-image_13093639.jpg' alt='Brown And Soft Lilac Aesthetic Floral Backgroung Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fw800/background/20230821/pngtree-brown-and-soft-lilac-aesthetic-floral-backgroung-image_13093639.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

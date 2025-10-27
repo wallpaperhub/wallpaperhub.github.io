@@ -1,0 +1,129 @@
+<title>Captivating Fire on a Black Background</title>
+                    <meta name="description" content="Explore the mesmerizing beauty of fire set against a black background. Discover the powerful contrast and emotional depth that this striking imagery brings to life. Perfect for art enthusiasts and anyone fascinated by the interplay of light and shadow.">
+                    <meta name="keywords" content="fire with black background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fire-with-black-background">
+                            <span itemprop="name">fire with black background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Captivating Fire on a Black Background</h1>
+                <p>Fire ignites passion and energy, contrasting vividly against a black background. The flames dance and flicker, drawing the eye and captivating the imagination. This striking visual symbolizes the duality of danger and beauty, evoking emotions that range from warmth to fear. Perfectly framed, fire against black leaves an indelible mark.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="57,500+ Fire On Black Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/113494458/photo/fire-isolated-over-black-background.jpg?s=612x612&w=0&k=20&c=u6STGsSpJAyBN8kDeqnVUla4-0SnLpdaTsehFsey2p0=' alt='57,500+ Fire On Black Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/113494458/photo/fire-isolated-over-black-background.jpg?s=612x612&w=0&k=20&c=u6STGsSpJAyBN8kDeqnVUla4-0SnLpdaTsehFsey2p0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Single fire flame on black background in high ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/single-fire-flame-black-background-high-resolution_23294-31.jpg' alt='Premium Photo | Single fire flame on black background in high ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/single-fire-flame-black-background-high-resolution_23294-31.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poster, Print flames of fire on a black background, 40x20 cm">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/v2/jpg/03/13/96/41/1000_F_313964108_YtqeeyiFth6aR21646PVXvnRUtZKGt7e.jpg' alt='Poster, Print flames of fire on a black background, 40x20 cm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="502">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abposters.com" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/v2/jpg/03/13/96/41/1000_F_313964108_YtqeeyiFth6aR21646PVXvnRUtZKGt7e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,900+ Fire Black Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1484547373/vector/fire-flame-sparks-on-black-background.jpg?s=612x612&w=0&k=20&c=kWWYakt22NY-a45Ha0ZrB8omFwjlJ66DBCucbWwjiIw=' alt='2,900+ Fire Black Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1484547373/vector/fire-flame-sparks-on-black-background.jpg?s=612x612&w=0&k=20&c=kWWYakt22NY-a45Ha0ZrB8omFwjlJ66DBCucbWwjiIw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fire Black Background Stock Photos, Images and Backgrounds for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/003/710/493/small/fire-flames-on-the-black-background-photo.jpg' alt='Fire Black Background Stock Photos, Images and Backgrounds for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="599">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/003/710/493/small/fire-flames-on-the-black-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Realistic Fire on a Black Background with Reflection Stock Vector ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/realistic-fire-black-background-reflection-59069724.jpg' alt='Realistic Fire on a Black Background with Reflection Stock Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/realistic-fire-black-background-reflection-59069724.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fire flames on black background. Blaze fire flame texture for ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/03/47/51/01/1000_F_347510108_SHg7izcKP3v0yOhSQB2vY92OGRdEQfdj.jpg' alt='Fire flames on black background. Blaze fire flame texture for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/03/47/51/01/1000_F_347510108_SHg7izcKP3v0yOhSQB2vY92OGRdEQfdj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="999+ Flame With Black Background Pictures | Download Free Images ...">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1507048947301-7afc2aca0edc?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZmxhbWUlMjB3aXRoJTIwYmxhY2slMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww' alt='999+ Flame With Black Background Pictures | Download Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1997">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1507048947301-7afc2aca0edc?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZmxhbWUlMjB3aXRoJTIwYmxhY2slMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange Fire in Black Background · Free Stock Photo">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/9456018/pexels-photo-9456018.jpeg' alt='Orange Fire in Black Background · Free Stock Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6240">
+                                <meta itemprop="height" content="4160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/9456018/pexels-photo-9456018.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fire Sparks with Flames on Black Background Stock Image - Image of ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/fire-sparks-flames-black-background-particles-isolated-very-high-resolution-127812273.jpg' alt='Fire Sparks with Flames on Black Background Stock Image - Image of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="546">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/fire-sparks-flames-black-background-particles-isolated-very-high-resolution-127812273.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

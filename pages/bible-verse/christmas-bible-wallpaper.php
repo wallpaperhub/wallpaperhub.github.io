@@ -1,0 +1,129 @@
+<title>Beautiful Christmas Bible Wallpapers for Your Devices</title>
+                    <meta name="description" content="Discover a collection of beautiful Christmas Bible wallpapers to adorn your devices this holiday season. These inspiring designs combine faith and festive cheer, perfect for keeping the true spirit of Christmas alive wherever you go. Download your favorites today for a daily dose of inspiration!">
+                    <meta name="keywords" content="christmas bible wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bible-verse">
+                            <span itemprop="name">Bible Verse</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bible-verse/christmas-bible-wallpaper">
+                            <span itemprop="name">christmas bible wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful Christmas Bible Wallpapers for Your Devices</h1>
+                <p>Transform your device this holiday season with stunning Christmas Bible wallpapers. These beautiful designs inspire faith and joy, featuring verses and imagery that capture the spirit of Christmas. Perfect for your phone, tablet, or computer, they serve as a daily reminder of hope, love, and the true meaning of the season.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Christmas Scripture Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/christmas-scripture-jmzvbogzvnjb3bgs.jpg' alt='100+] Christmas Scripture Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1179">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/christmas-scripture-jmzvbogzvnjb3bgs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas bible new arrivals verse wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/fb/d7/f2/fbd7f206f07c6f265a38c54076ff35b1.jpg' alt='Christmas bible new arrivals verse wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="490">
+                                <meta itemprop="height" content="875">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="bvcr.edu.in" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/fb/d7/f2/fbd7f206f07c6f265a38c54076ff35b1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download The true meaning of Christmas can be found in the Bible ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/christmas-scripture-g819jj5h24jthued.jpg' alt='Download The true meaning of Christmas can be found in the Bible ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1381">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/christmas-scripture-g819jj5h24jthued.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/03/30/37/033037e32cc10a2ee1b0df0ee0f1478c.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/03/30/37/033037e32cc10a2ee1b0df0ee0f1478c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8,035 Christmas Bible Background Stock Photos - Free & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/z/bible-book-christmas-decorations-wallpaper-background-christmas-wallpaper-background-bible-book-347075632.jpg' alt='8,035 Christmas Bible Background Stock Photos - Free & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="987">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/z/bible-book-christmas-decorations-wallpaper-background-christmas-wallpaper-background-bible-book-347075632.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/29/e4/77/29e477fa2f655b931175266ee54c6e91.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="893">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/29/e4/77/29e477fa2f655b931175266ee54c6e91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Scripture Phone Backgrounds — Cafe 1040">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/570287e6859fd052a949f564/1574197905505-8J0XYH2ZDIR8RAEXEOJP/Christmas+lockscreen+2+%281%29.jpg' alt='Christmas Scripture Phone Backgrounds — Cafe 1040'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1002">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cafe 1040" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/570287e6859fd052a949f564/1574197905505-8J0XYH2ZDIR8RAEXEOJP/Christmas+lockscreen+2+%281%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Presents Acts 20:35 – Encouraging Bible Verses">
+                                <img itemprop="contentUrl url" src='https://bibleversestogo.com/wp-content/uploads/2022/12/ChristmasPresentsActs20-35-1.jpg' alt='Christmas Presents Acts 20:35 – Encouraging Bible Verses'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bible Verses To Go" />
+                                </span>
+                                <a href='https://bibleversestogo.com/wp-content/uploads/2022/12/ChristmasPresentsActs20-35-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/76/31/6c/76316cbaca5e2555f1ca4566eef294c8.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="638">
+                                <meta itemprop="height" content="1140">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/76/31/6c/76316cbaca5e2555f1ca4566eef294c8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="16,100+ Christmas Bible Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/184348281/photo/nativity-red-christmas-ornament-open-bible-garland-st-luke.jpg?s=612x612&w=0&k=20&c=R4KPW2em4Bu48k_AaTRw34-qVydC1_yopWD-KJAf_OM=' alt='16,100+ Christmas Bible Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/184348281/photo/nativity-red-christmas-ornament-open-bible-garland-st-luke.jpg?s=612x612&w=0&k=20&c=R4KPW2em4Bu48k_AaTRw34-qVydC1_yopWD-KJAf_OM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning 4K Initial D Wallpapers for Fans</title>
+                    <meta name="description" content="Explore a collection of high-quality 4K Initial D wallpapers. Perfect for anime enthusiasts and car lovers, these stunning visuals are designed to enhance your screens. Download your favorite wallpapers and showcase your passion for drifting and nostalgia with vibrant images from the iconic series.">
+                    <meta name="keywords" content="initial d wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/initial-d-wallpaper-4k">
+                            <span itemprop="name">initial d wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Initial D Wallpapers for Fans</h1>
+                <p>Discover stunning 4K wallpapers featuring the iconic cars and dynamic scenes from Initial D. Perfect for fans of the anime and drifting culture, these high-resolution images bring your favorite moments to life. Whether decorating your desktop or mobile device, elevate your background with breathtaking visuals that capture the essence of this legendary series.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Initial D Wallpapers (34 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/e/b/a/751114-2040x1114-desktop-hd-initial-d-background-photo.jpg' alt='Initial D Wallpapers (34 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2040">
+                                <meta itemprop="height" content="1114">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/e/b/a/751114-2040x1114-desktop-hd-initial-d-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Initial D Wallpapers (34 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/0/7/f/750876-1920x1080-desktop-1080p-initial-d-background.jpg' alt='Initial D Wallpapers (34 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/0/7/f/750876-1920x1080-desktop-1080p-initial-d-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Anime Initial D 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/129/1297693.jpg' alt='Download Anime Initial D 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/129/1297693.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AE86 (Initial D) by Ganta_">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/115/1159845.png' alt='AE86 (Initial D) by Ganta_'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/115/1159845.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 New Initial D Wallpaper 1920X1080 FULL HD 1080p For PC Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ec/92/28/ec9228770c4774858fdda090acd74722.jpg' alt='10 New Initial D Wallpaper 1920X1080 FULL HD 1080p For PC Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ec/92/28/ec9228770c4774858fdda090acd74722.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Initial D Wallpapers (34 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/9/3/7/750880-1920x1080-desktop-1080p-initial-d-background-image.jpg' alt='Initial D Wallpapers (34 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/9/3/7/750880-1920x1080-desktop-1080p-initial-d-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Initial D: Final Stage [3840x2160] : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/by7srggnn8m91.png' alt='Initial D: Final Stage [3840x2160] : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/by7srggnn8m91.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unreal Engine - Initial D 4k Live Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/xf_XerzDsS0/hqdefault.jpg' alt='Unreal Engine - Initial D 4k Live Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/xf_XerzDsS0/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Initial D Wallpaper 1920x1080 : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/uw2i5ypixdp51.jpg' alt='Initial D Wallpaper 1920x1080 : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/uw2i5ypixdp51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Initial D Racing Sports Cars Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/initial-d-racing-sports-cars-2nulf7szl2hb4b9a.jpg' alt='Initial D Racing Sports Cars Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/initial-d-racing-sports-cars-2nulf7szl2hb4b9a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>How Long Does a DCF Background Check Take?</title>
+                    <meta name="description" content="Discover the timeline for a DCF background check. Learn how long it may take and what factors can affect the duration of the process. Stay informed to better prepare for your application.">
+                    <meta name="keywords" content="how long does a dcf background check take">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/how-long-does-a-dcf-background-check-take">
+                            <span itemprop="name">how long does a dcf background check take</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>How Long Does a DCF Background Check Take?</h1>
+                <p>A DCF background check typically takes anywhere from a few days to a few weeks, depending on various factors such as the complexity of the case and the responsiveness of agencies involved. Delays can occur due to missing information or high volumes of requests. It’s advisable to check with the local DCF office for specific timelines.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Back to background screening requirements">
+                                <img itemprop="contentUrl url" src='x-raw-image:///3f19cd72b2cacb036d6d4a4694e9e8e363904540feb074ecdf5142bef6217d99' alt='Back to background screening requirements'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="454">
+                                <meta itemprop="height" content="587">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Florida Department of Children and Families" />
+                                </span>
+                                <a href='x-raw-image:///3f19cd72b2cacb036d6d4a4694e9e8e363904540feb074ecdf5142bef6217d99' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check Request, DCF-F-5296. Child Care Background Checks ...">
+                                <img itemprop="contentUrl url" src='https://www.pdffiller.com/preview/464/821/464821409.png' alt='Background Check Request, DCF-F-5296. Child Care Background Checks ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="298">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Legal Forms" />
+                                </span>
+                                <a href='https://www.pdffiller.com/preview/464/821/464821409.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Back to background screening requirements">
+                                <img itemprop="contentUrl url" src='x-raw-image:///631fedcc850942a84f18ba5961aeee724fc55082d3b7ec2710d1f1130216b53d' alt='Back to background screening requirements'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="738">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Florida Department of Children and Families" />
+                                </span>
+                                <a href='x-raw-image:///631fedcc850942a84f18ba5961aeee724fc55082d3b7ec2710d1f1130216b53d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Back to background screening requirements">
+                                <img itemprop="contentUrl url" src='x-raw-image:///2a80e680e07370c70b41525a4e2609403508aebc46cc130cce47cc1ccec1e66e' alt='Back to background screening requirements'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="883">
+                                <meta itemprop="height" content="586">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Florida Department of Children and Families" />
+                                </span>
+                                <a href='x-raw-image:///2a80e680e07370c70b41525a4e2609403508aebc46cc130cce47cc1ccec1e66e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Does Dcf Look for in a Background Check | airSlate SignNow">
+                                <img itemprop="contentUrl url" src='https://www.signnow.com/preview/11/822/11822471.png' alt='What Does Dcf Look for in a Background Check | airSlate SignNow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="298">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SignNow" />
+                                </span>
+                                <a href='https://www.signnow.com/preview/11/822/11822471.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Back to background screening requirements">
+                                <img itemprop="contentUrl url" src='x-raw-image:///5e35389f78c38247d4afb649e6389fa1e857f39aa53a5436c05f5db9cec56ebd' alt='Back to background screening requirements'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="695">
+                                <meta itemprop="height" content="886">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Florida Department of Children and Families" />
+                                </span>
+                                <a href='x-raw-image:///5e35389f78c38247d4afb649e6389fa1e857f39aa53a5436c05f5db9cec56ebd' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DCF BACKGROUND CHECKS">
+                                <img itemprop="contentUrl url" src='https://www.cga.ct.gov/2014/images/2014-R-0188-1.gif' alt='DCF BACKGROUND CHECKS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="230">
+                                <meta itemprop="height" content="345">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.cga.ct.gov" />
+                                </span>
+                                <a href='https://www.cga.ct.gov/2014/images/2014-R-0188-1.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Back to background screening requirements">
+                                <img itemprop="contentUrl url" src='x-raw-image:///a56221e7aec619a5934f00c915fe7b6347bbdcfcdeb7a51f8547f86f615afd84' alt='Back to background screening requirements'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="847">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Florida Department of Children and Families" />
+                                </span>
+                                <a href='x-raw-image:///a56221e7aec619a5934f00c915fe7b6347bbdcfcdeb7a51f8547f86f615afd84' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Back to background screening requirements">
+                                <img itemprop="contentUrl url" src='x-raw-image:///8a1115359d376b89a60493e06ba932e9032ad5ccc49108a8c331cfe2111bc60d' alt='Back to background screening requirements'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="844">
+                                <meta itemprop="height" content="812">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Florida Department of Children and Families" />
+                                </span>
+                                <a href='x-raw-image:///8a1115359d376b89a60493e06ba932e9032ad5ccc49108a8c331cfe2111bc60d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3.4.1 Background Checks">
+                                <img itemprop="contentUrl url" src='https://dcf.wisconsin.gov/manuals/cc-cert-manual/images/backgroundcheck-batch-documents.jpg' alt='3.4.1 Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="624">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="| Wisconsin Department of Children and Families" />
+                                </span>
+                                <a href='https://dcf.wisconsin.gov/manuals/cc-cert-manual/images/backgroundcheck-batch-documents.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

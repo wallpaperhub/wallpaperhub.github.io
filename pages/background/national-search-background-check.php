@@ -1,0 +1,129 @@
+<title>National Background Check: Ensure Trust and Safety</title>
+                    <meta name="description" content="Discover the importance of national search background checks for employers and individuals. Learn how these checks help verify criminal records, employment history, and more to ensure safety and trust in relationships. Stay informed and make responsible choices with thorough background screening.">
+                    <meta name="keywords" content="national search background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/national-search-background-check">
+                            <span itemprop="name">national search background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>National Background Check: Ensure Trust and Safety</h1>
+                <p>A national search background check is a comprehensive examination of an individual's history across various databases nationwide. This process typically includes checks for criminal records, credit history, and employment verification. It's essential for employers, landlords, and individuals seeking trustworthiness and safety in their associations.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Affordable Background Checks Made Easy | NCS">
+                                <img itemprop="contentUrl url" src='https://www.nationalcrimesearch.com/wp-content/uploads/logos/ncs.png' alt='Affordable Background Checks Made Easy | NCS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="781">
+                                <meta itemprop="height" content="367">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.nationalcrimesearch.com" />
+                                </span>
+                                <a href='https://www.nationalcrimesearch.com/wp-content/uploads/logos/ncs.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is a nationwide criminal background check? | HireSafe">
+                                <img itemprop="contentUrl url" src='https://www.hiresafe.com/wp-content/uploads/2015/11/What-is-a-nationwide-criminal-background-check.jpg' alt='What is a nationwide criminal background check? | HireSafe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="448">
+                                <meta itemprop="height" content="299">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HireSafe" />
+                                </span>
+                                <a href='https://www.hiresafe.com/wp-content/uploads/2015/11/What-is-a-nationwide-criminal-background-check.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="National Background Checks | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/1c6d68f1f96b542267a79114c0f64024/e2d37/dashboard-illustration.png' alt='National Background Checks | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="618">
+                                <meta itemprop="height" content="399">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/1c6d68f1f96b542267a79114c0f64024/e2d37/dashboard-illustration.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="National Background Check, Inc. | LinkedIn">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/C561BAQFWGr8o6_ciFg/company-background_10000/company-background_10000/0/1584337960175/national_background_check_inc__cover?e=2147483647&v=beta&t=ReoRSQV-U0HYWZj2qeUC2W2qSDMLqY7AB5UQ8cH6YUQ' alt='National Background Check, Inc. | LinkedIn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2525">
+                                <meta itemprop="height" content="657">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/C561BAQFWGr8o6_ciFg/company-background_10000/company-background_10000/0/1584337960175/national_background_check_inc__cover?e=2147483647&v=beta&t=ReoRSQV-U0HYWZj2qeUC2W2qSDMLqY7AB5UQ8cH6YUQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="National Criminal Database Search Employment Screening">
+                                <img itemprop="contentUrl url" src='https://www.hremploymentscreening.com/sample/hremp-national-criminal-database-search-sample.jpg' alt='National Criminal Database Search Employment Screening'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Employment Screening solutions for HR Professionals" />
+                                </span>
+                                <a href='https://www.hremploymentscreening.com/sample/hremp-national-criminal-database-search-sample.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="National criminal search">
+                                <img itemprop="contentUrl url" src='https://help.checkr.com/servlet/rtaImage?eid=ka0Qr0000002cxF&feoid=00NQr000002fF8Q&refid=0EMQr000009o9Sj' alt='National criminal search'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2040">
+                                <meta itemprop="height" content="1122">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr Help Center" />
+                                </span>
+                                <a href='https://help.checkr.com/servlet/rtaImage?eid=ka0Qr0000002cxF&feoid=00NQr000002fF8Q&refid=0EMQr000009o9Sj' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="National Warrants Search | Background Checks Online">
+                                <img itemprop="contentUrl url" src='https://hireshield.com/wp-content/uploads/2018/09/National-Warrants.png' alt='National Warrants Search | Background Checks Online'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="601">
+                                <meta itemprop="height" content="602">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HireShield" />
+                                </span>
+                                <a href='https://hireshield.com/wp-content/uploads/2018/09/National-Warrants.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="National Background Checks | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/1dda08daf4f54a048083691e1f29479e/Article-National-Background-Checks_Resized.png' alt='National Background Checks | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/1dda08daf4f54a048083691e1f29479e/Article-National-Background-Checks_Resized.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="National Instant Criminal Background Check System - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/e/ed/Emblem_of_the_National_Instant_Criminal_Background_Check_System_%28FBI%29.jpg' alt='National Instant Criminal Background Check System - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="659">
+                                <meta itemprop="height" content="659">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/e/ed/Emblem_of_the_National_Instant_Criminal_Background_Check_System_%28FBI%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for National Background Check, Inc.">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064912208449' alt='Profile for National Background Check, Inc.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1988">
+                                <meta itemprop="height" content="1988">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064912208449' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Mortal Kombat 4K Wallpapers: Ultimate Collection</title>
+                    <meta name="description" content="Discover our stunning collection of Mortal Kombat 4K wallpapers, featuring your favorite characters in breathtaking detail. Perfect for gaming enthusiasts looking to enhance their device's aesthetic. Download now for an epic visual experience!">
+                    <meta name="keywords" content="mortal kombat 4k wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/mortal-kombat-4k-wallpaper">
+                            <span itemprop="name">mortal kombat 4k wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mortal Kombat 4K Wallpapers: Ultimate Collection</h1>
+                <p>Mortal Kombat 4K wallpaper offers ultra-high-definition visuals, perfect for fans wanting to immerse themselves in the epic battles and iconic characters of this legendary game series. Whether you're a fan of Scorpion, Sub-Zero, or Liu Kang, these stunning wallpapers showcase intricate designs that elevate any screen display.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mortal Kombat 1 - 4k Wallpaper by felipecmx on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/21bf106b-6d21-4fda-b1b6-dfe804247a85/dgbwvkz-d4e988af-4463-4fbd-9afa-59d6f98b6268.jpg/v1/fill/w_1192,h_670,q_70,strp/mortal_kombat_1___4k_wallpaper_by_felipecmx_dgbwvkz-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvMjFiZjEwNmItNmQyMS00ZmRhLWIxYjYtZGZlODA0MjQ3YTg1XC9kZ2J3dmt6LWQ0ZTk4OGFmLTQ0NjMtNGZiZC05YWZhLTU5ZDZmOThiNjI2OC5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.3j_DT3qYBkXc8zqriiVlGSxgkVMb_DGslyElXrBqqKM' alt='Mortal Kombat 1 - 4k Wallpaper by felipecmx on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1192">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/21bf106b-6d21-4fda-b1b6-dfe804247a85/dgbwvkz-d4e988af-4463-4fbd-9afa-59d6f98b6268.jpg/v1/fill/w_1192,h_670,q_70,strp/mortal_kombat_1___4k_wallpaper_by_felipecmx_dgbwvkz-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvMjFiZjEwNmItNmQyMS00ZmRhLWIxYjYtZGZlODA0MjQ3YTg1XC9kZ2J3dmt6LWQ0ZTk4OGFmLTQ0NjMtNGZiZC05YWZhLTU5ZDZmOThiNjI2OC5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.3j_DT3qYBkXc8zqriiVlGSxgkVMb_DGslyElXrBqqKM' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scorpion (Mortal Kombat) Wallpapers (35 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/3/b/3/462509-3840x2160-desktop-4k-scorpion-mortal-kombat-background-photo.jpg' alt='Scorpion (Mortal Kombat) Wallpapers (35 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/3/b/3/462509-3840x2160-desktop-4k-scorpion-mortal-kombat-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sub-Zero (Mortal Kombat) Wallpapers (39 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/a/c/d/462349-3840x2160-desktop-4k-sub-zero-mortal-kombat-background.jpg' alt='Sub-Zero (Mortal Kombat) Wallpapers (39 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/a/c/d/462349-3840x2160-desktop-4k-sub-zero-mortal-kombat-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MORTAL KOMBAT | Sub-Zero's 4k wallpaper by felipecmx on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/21bf106b-6d21-4fda-b1b6-dfe804247a85/dgc16kr-3bd6db14-2f95-4e69-8751-2ce485318488.jpg/v1/fill/w_1280,h_720,q_75,strp/mortal_kombat___sub_zero_s_4k_wallpaper_by_felipecmx_dgc16kr-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvMjFiZjEwNmItNmQyMS00ZmRhLWIxYjYtZGZlODA0MjQ3YTg1XC9kZ2MxNmtyLTNiZDZkYjE0LTJmOTUtNGU2OS04NzUxLTJjZTQ4NTMxODQ4OC5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.y6v3Ks9fC5pRR7Y3Lpki3lgaGDYTOghMeFbQxILWdmQ' alt='MORTAL KOMBAT | Sub-Zero's 4k wallpaper by felipecmx on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/21bf106b-6d21-4fda-b1b6-dfe804247a85/dgc16kr-3bd6db14-2f95-4e69-8751-2ce485318488.jpg/v1/fill/w_1280,h_720,q_75,strp/mortal_kombat___sub_zero_s_4k_wallpaper_by_felipecmx_dgc16kr-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvMjFiZjEwNmItNmQyMS00ZmRhLWIxYjYtZGZlODA0MjQ3YTg1XC9kZ2MxNmtyLTNiZDZkYjE0LTJmOTUtNGU2OS04NzUxLTJjZTQ4NTMxODQ4OC5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.y6v3Ks9fC5pRR7Y3Lpki3lgaGDYTOghMeFbQxILWdmQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Mortal Kombat Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/mortal-kombat-fm4tg6j4fepjbv5u.jpg' alt='100+] Mortal Kombat Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/mortal-kombat-fm4tg6j4fepjbv5u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MORTAL KOMBAT | Scorpion's 4k wallpaper by felipecmx on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/21bf106b-6d21-4fda-b1b6-dfe804247a85/dgc32hk-e8a2d0d6-d36f-4ef8-9080-5f751da2116e.jpg/v1/fill/w_1280,h_720,q_75,strp/mortal_kombat___scorpion_s_4k_wallpaper_by_felipecmx_dgc32hk-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvMjFiZjEwNmItNmQyMS00ZmRhLWIxYjYtZGZlODA0MjQ3YTg1XC9kZ2MzMmhrLWU4YTJkMGQ2LWQzNmYtNGVmOC05MDgwLTVmNzUxZGEyMTE2ZS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.-vT1GTWRPMFU10ek3OmuFARix0NkIPT1xjH7g0suB10' alt='MORTAL KOMBAT | Scorpion's 4k wallpaper by felipecmx on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/21bf106b-6d21-4fda-b1b6-dfe804247a85/dgc32hk-e8a2d0d6-d36f-4ef8-9080-5f751da2116e.jpg/v1/fill/w_1280,h_720,q_75,strp/mortal_kombat___scorpion_s_4k_wallpaper_by_felipecmx_dgc32hk-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvMjFiZjEwNmItNmQyMS00ZmRhLWIxYjYtZGZlODA0MjQ3YTg1XC9kZ2MzMmhrLWU4YTJkMGQ2LWQzNmYtNGVmOC05MDgwLTVmNzUxZGEyMTE2ZS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.-vT1GTWRPMFU10ek3OmuFARix0NkIPT1xjH7g0suB10' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Ultra HD Sub-Zero Mortal Kombat X Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/694/694756.jpg' alt='4K Ultra HD Sub-Zero Mortal Kombat X Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/694/694756.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Scorpion (Mortal Kombat) Video Game Mortal Kombat 4k ...">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/113/1139080.jpg' alt='Download Scorpion (Mortal Kombat) Video Game Mortal Kombat 4k ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5120">
+                                <meta itemprop="height" content="3313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/113/1139080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kenshi 4K Wallpaper : r/MortalKombat">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/x9sh3OtrN9DQ6ImrrV6w-DUJKK2hniA94s0Bm2RPbmY.png?auto=webp&s=940936c3a230cabe86d823b6e353d180123b6133' alt='Kenshi 4K Wallpaper : r/MortalKombat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/x9sh3OtrN9DQ6ImrrV6w-DUJKK2hniA94s0Bm2RPbmY.png?auto=webp&s=940936c3a230cabe86d823b6e353d180123b6133' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Scorpion (Marvel Comics) Video Game Mortal Kombat 4k ...">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/114/1140028.jpg' alt='Download Scorpion (Marvel Comics) Video Game Mortal Kombat 4k ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5120">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/114/1140028.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

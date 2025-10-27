@@ -1,0 +1,129 @@
+<title>Vibrant Navy Blue & Red Paint Splatter Ideas</title>
+                    <meta name="description" content="Discover stunning navy blue and red paint splatter designs perfect for art and decor. Embrace the energy and sophistication of this color combination to elevate your creative projects and personalize your space. Explore inspiring ideas that make a bold statement!">
+                    <meta name="keywords" content="navy blue and red paint splatter">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/navy-blue-and-red-paint-splatter">
+                            <span itemprop="name">navy blue and red paint splatter</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Navy Blue & Red Paint Splatter Ideas</h1>
+                <p>Transform your space with a striking navy blue and red paint splatter design that combines elegance and vibrancy. This bold color palette adds depth and character to any surface, creating an eye-catching focal point. Whether for art projects or home decor, navy and red splatter bring a modern twist to traditional aesthetics.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Splash Design, Blue Background, Red Splatter | Sublimation Design | PNG  File | Digital Download | Red and Blue">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20075017/r/il/6275a3/4024337443/il_fullxfull.4024337443_lj7n.jpg' alt='Splash Design, Blue Background, Red Splatter | Sublimation Design | PNG  File | Digital Download | Red and Blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20075017/r/il/6275a3/4024337443/il_fullxfull.4024337443_lj7n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue + Red Paint Splatter Seamless Digital Paper Background ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28921914/r/il/cb0d6a/3818119192/il_fullxfull.3818119192_p42j.jpg' alt='Blue + Red Paint Splatter Seamless Digital Paper Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28921914/r/il/cb0d6a/3818119192/il_fullxfull.3818119192_p42j.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red And Blue Splash Images – Browse 683,199 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/86/84/17/360_F_486841743_dYKYuKazdRu47EozgVPP7nENgB7aAUuL.jpg' alt='Red And Blue Splash Images – Browse 683,199 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/86/84/17/360_F_486841743_dYKYuKazdRu47EozgVPP7nENgB7aAUuL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red and Blue Paint splatter Sublimation Background /Digital Design/  Sublimation PNG/JPEG/PDF File / Sublimation Digital Download">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/14648841/r/il/44a2ba/3358047877/il_fullxfull.3358047877_moh8.jpg' alt='Red and Blue Paint splatter Sublimation Background /Digital Design/  Sublimation PNG/JPEG/PDF File / Sublimation Digital Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2253">
+                                <meta itemprop="height" content="2253">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/14648841/r/il/44a2ba/3358047877/il_fullxfull.3358047877_moh8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red And Blue Splash Images – Browse 683,199 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/33/43/76/360_F_133437643_6RXjQwktqj31FRtcClUJyh1Z8joG5IS2.jpg' alt='Red And Blue Splash Images – Browse 683,199 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="542">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/33/43/76/360_F_133437643_6RXjQwktqj31FRtcClUJyh1Z8joG5IS2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White, Red & Navy Blue Paint Splatter Nail Wrap">
+                                <img itemprop="contentUrl url" src='https://www.spiritwearnailwraps.com/wp-content/uploads/2015/04/white-red-navy-blue-paint-splatter-nail-shields.jpg' alt='White, Red & Navy Blue Paint Splatter Nail Wrap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spirit Wear Nail Wraps" />
+                                </span>
+                                <a href='https://www.spiritwearnailwraps.com/wp-content/uploads/2015/04/white-red-navy-blue-paint-splatter-nail-shields.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red And Blue Splash Images – Browse 683,199 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/45/97/30/360_F_245973019_oeaxlxESIDkCI6CQcRWtvFLFAPgVTw58.jpg' alt='Red And Blue Splash Images – Browse 683,199 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="509">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/45/97/30/360_F_245973019_oeaxlxESIDkCI6CQcRWtvFLFAPgVTw58.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Blue Paint Splatter Royalty-Free Images, Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/blot-blue-red-watercolor-isolated-260nw-246724906.jpg' alt='Red Blue Paint Splatter Royalty-Free Images, Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="324">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/blot-blue-red-watercolor-isolated-260nw-246724906.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paint Splatter Red Gray Navy | Paint splatters | bleached shirts digital  download || Printable Artwork I Digital File">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/14412336/r/il/b386ed/3323393740/il_fullxfull.3323393740_89ne.jpg' alt='Paint Splatter Red Gray Navy | Paint splatters | bleached shirts digital  download || Printable Artwork I Digital File'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1563">
+                                <meta itemprop="height" content="1545">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/14412336/r/il/b386ed/3323393740/il_fullxfull.3323393740_89ne.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red And Blue Splash Images – Browse 683,199 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/85/49/09/360_F_485490979_wDz30cAsnUc1Z4dpptlyTyvD6yEgrZw5.jpg' alt='Red And Blue Splash Images – Browse 683,199 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="488">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/85/49/09/360_F_485490979_wDz30cAsnUc1Z4dpptlyTyvD6yEgrZw5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

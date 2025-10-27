@@ -1,0 +1,129 @@
+<title>Sparkling Halloween Glitter Backgrounds for Festive Fun</title>
+                    <meta name="description" content="Discover stunning Halloween glitter backgrounds to elevate your festive spirit! Perfect for parties, photos, and decorations, these vibrant designs add a touch of sparkle to your Halloween celebrations. Create unforgettable memories with our dazzling selection that’s optimized for any spooky occasion!">
+                    <meta name="keywords" content="halloween glitter background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/halloween-glitter-background">
+                            <span itemprop="name">halloween glitter background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Sparkling Halloween Glitter Backgrounds for Festive Fun</h1>
+                <p>Transform your Halloween celebrations with a dazzling glitter background! Perfect for parties, costumes, and spooky photo opps, this sparkling backdrop can elevate your décor and create a festive ambience. Use it for social media posts or as a creative canvas for your Halloween crafts. Get ready to shine this spooky season!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Glitter Digital Paper, Glitter Seamless Patterns ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20438992/r/il/a45e4c/1993136637/il_fullxfull.1993136637_8hw4.jpg' alt='Halloween Glitter Digital Paper, Glitter Seamless Patterns ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20438992/r/il/a45e4c/1993136637/il_fullxfull.1993136637_8hw4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Leyiyi 6x4ft Blurry Happy Halloween Backdrop Cartoon Pumpkin Lantern  Glitter Sequins Candle Light Flame Bokeh Halo Witch Cap Photography  Background ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51CBvRta-lL._AC_UF894,1000_QL80_.jpg' alt='Leyiyi 6x4ft Blurry Happy Halloween Backdrop Cartoon Pumpkin Lantern  Glitter Sequins Candle Light Flame Bokeh Halo Witch Cap Photography  Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51CBvRta-lL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Background With Glitter Loop - Stock Video | Motion Array">
+                                <img itemprop="contentUrl url" src='https://motionarray.imgix.net/1968506-SBPRb9oO1Q-high_0001.jpg?w=660&q=60&fit=max&auto=format' alt='Halloween Background With Glitter Loop - Stock Video | Motion Array'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Motion Array" />
+                                </span>
+                                <a href='https://motionarray.imgix.net/1968506-SBPRb9oO1Q-high_0001.jpg?w=660&q=60&fit=max&auto=format' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glitter Halloween Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/15254488/p/f/m/mBWOog2Bu3Z6kimFoUuAPl9igVDzBPF6eMv3wEVFY4Z3LLE7nhYKCvg/Halloween%20Orange%20purple%20glitter.jpg' alt='Glitter Halloween Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/15254488/p/f/m/mBWOog2Bu3Z6kimFoUuAPl9igVDzBPF6eMv3wEVFY4Z3LLE7nhYKCvg/Halloween%20Orange%20purple%20glitter.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,356 Spooky Halloween Glitter Stock Photos - Free & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/abstract-modern-dark-purple-black-glitter-sparkle-confetti-glass-flasks-background-happy-birthday-party-invite-spooky-334640064.jpg' alt='1,356 Spooky Halloween Glitter Stock Photos - Free & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/abstract-modern-dark-purple-black-glitter-sparkle-confetti-glass-flasks-background-happy-birthday-party-invite-spooky-334640064.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Photos | Glitter Background/Glitter Halloween">
+                                <img itemprop="contentUrl url" src='https://thumb.photo-ac.com/3f/3f1dfa3aca9adf3f7a47cc0eddd8d0b8_t.jpeg' alt='Free Photos | Glitter Background/Glitter Halloween'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="490">
+                                <meta itemprop="height" content="340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="photoAC" />
+                                </span>
+                                <a href='https://thumb.photo-ac.com/3f/3f1dfa3aca9adf3f7a47cc0eddd8d0b8_t.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy BOO!, made by me #purple #sparkly #wallpapers #backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0c/64/6e/0c646eab68c1dd824cbe00322215d03c.jpg' alt='Galaxy BOO!, made by me #purple #sparkly #wallpapers #backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1306">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0c/64/6e/0c646eab68c1dd824cbe00322215d03c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sparkly Glitter Halloween Backdrop Stage Studio Party Background">
+                                <img itemprop="contentUrl url" src='https://www.backdropstyle.com/media/catalog/product/cache/1/image/650x/040ec09b1e35df139433887a97daa66f/c/z/czm827.jpg' alt='Sparkly Glitter Halloween Backdrop Stage Studio Party Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="464">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Various Style & Size Photography Backdrops At Backdropstyle.com" />
+                                </span>
+                                <a href='https://www.backdropstyle.com/media/catalog/product/cache/1/image/650x/040ec09b1e35df139433887a97daa66f/c/z/czm827.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Glitter Images – Browse 57,263 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/09/29/95/53/360_F_929955374_eq8WJ8T4BBoqq0kHcTtGQ27hJi58zbLE.jpg' alt='Halloween Glitter Images – Browse 57,263 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/09/29/95/53/360_F_929955374_eq8WJ8T4BBoqq0kHcTtGQ27hJi58zbLE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sparkling Halloween, witch, orange, halloween, halloween bag ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/904/980/HD-wallpaper-sparkling-halloween-witch-orange-halloween-halloween-bag-candy-corn-moon-bat-glitter-haunted-house-frankenstein-black-sparkles-tree-jack-o-lantern-boo-ghost-pumpkins.jpg' alt='Sparkling Halloween, witch, orange, halloween, halloween bag ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/904/980/HD-wallpaper-sparkling-halloween-witch-orange-halloween-halloween-bag-candy-corn-moon-bat-glitter-haunted-house-frankenstein-black-sparkles-tree-jack-o-lantern-boo-ghost-pumpkins.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

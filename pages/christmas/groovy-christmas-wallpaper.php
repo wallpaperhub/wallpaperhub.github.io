@@ -1,0 +1,129 @@
+<title>Groovy Christmas Wallpaper Ideas for a Festive Home</title>
+                    <meta name="description" content="Discover the perfect groovy Christmas wallpaper to elevate your holiday decor! Enjoy vibrant patterns and playful designs to bring cheer and joy into your space. Ideal for any room, our collection will help you create a festive atmosphere that's sure to impress. Shop now for a stylish holiday home!">
+                    <meta name="keywords" content="groovy christmas wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/groovy-christmas-wallpaper">
+                            <span itemprop="name">groovy christmas wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Groovy Christmas Wallpaper Ideas for a Festive Home</h1>
+                <p>Spruce up your holiday spirit with our groovy Christmas wallpaper! Featuring vibrant colors, funky patterns, and whimsical designs, this wallpaper will transform any space into a festive wonderland. Perfect for homes, offices, or holiday parties, let your walls radiate joy and cheer this festive season! Celebrate in style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15,400+ Groovy Christmas Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1436476824/vector/big-set-of-merry-christmas-groovy-retro-70s-elements-groovy-hippie-holiday-collection-clip.jpg?s=612x612&w=0&k=20&c=eCOfOStgbGOGygxI7PHyAA5Z2yc_EF0WcxXg90lOPIY=' alt='15,400+ Groovy Christmas Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1436476824/vector/big-set-of-merry-christmas-groovy-retro-70s-elements-groovy-hippie-holiday-collection-clip.jpg?s=612x612&w=0&k=20&c=eCOfOStgbGOGygxI7PHyAA5Z2yc_EF0WcxXg90lOPIY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Groovy Christmas seamless pattern background with ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/groovy-christmas-seamless-pattern-background-with-retro-70s-hippie-cute-festive-winter-hand-drawn_499817-1126.jpg' alt='Premium Vector | Groovy Christmas seamless pattern background with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/groovy-christmas-seamless-pattern-background-with-retro-70s-hippie-cute-festive-winter-hand-drawn_499817-1126.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Groovy Christmas pattern Retro 70s Hippie Groovy ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/groovy-christmas-pattern-retro-70s-hippie-groovy-christmas-tree-background-groovy-checkered-background-winter-holidays-vintage-60s-surface-design-vector-illustration_166089-2977.jpg' alt='Premium Vector | Groovy Christmas pattern Retro 70s Hippie Groovy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/groovy-christmas-pattern-retro-70s-hippie-groovy-christmas-tree-background-groovy-checkered-background-winter-holidays-vintage-60s-surface-design-vector-illustration_166089-2977.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="christmaswallpaper #groovy #funky">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/dc/38/07/dc3807763d7b3e561fde69825dbe6633.jpg' alt='christmaswallpaper #groovy #funky'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/dc/38/07/dc3807763d7b3e561fde69825dbe6633.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Christmas Digital Seamless Pattern for Fabrics and ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25961083/r/il/da41c3/3973118428/il_570xN.3973118428_7by6.jpg' alt='Retro Christmas Digital Seamless Pattern for Fabrics and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25961083/r/il/da41c3/3973118428/il_570xN.3973118428_7by6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Santa Claus hat hippie groovy Christmas peace sign floral vector ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/05/31/38/12/1000_F_531381231_BAyonABYSsPSEsMqi98RneofiQcCUBe2.jpg' alt='Santa Claus hat hippie groovy Christmas peace sign floral vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/05/31/38/12/1000_F_531381231_BAyonABYSsPSEsMqi98RneofiQcCUBe2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Groovy Christmas seamless pattern Retro 70s ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/groovy-christmas-seamless-pattern-retro-70s-hippie-cute-festive-winter-background_499817-1120.jpg' alt='Premium Vector | Groovy Christmas seamless pattern Retro 70s ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/groovy-christmas-seamless-pattern-retro-70s-hippie-cute-festive-winter-background_499817-1120.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Groovy Christmas ideas | groovy, christmas, retro christmas">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/be/6c/e0/be6ce02ff8715004874aee49601f4a7f.jpg' alt='7 Groovy Christmas ideas | groovy, christmas, retro christmas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="354">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/be/6c/e0/be6ce02ff8715004874aee49601f4a7f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groovy Christmas Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/13733821/p/f/m/05W_NXmG2Xsc64f656AZWyyAZtvVGjon4HDLIitjXG8YfIwUBYWmr23o5g/Christmas%20Hippie%20Ornaments%20Fabric%20-%20Small%20Scale.jpg' alt='Groovy Christmas Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/13733821/p/f/m/05W_NXmG2Xsc64f656AZWyyAZtvVGjon4HDLIitjXG8YfIwUBYWmr23o5g/Christmas%20Hippie%20Ornaments%20Fabric%20-%20Small%20Scale.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groovy hippie christmas seamless pattern with retro cartoon ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/015/641/619/non_2x/groovy-hippie-christmas-seamless-pattern-with-retro-cartoon-characters-and-elements-trendy-70s-style-merry-christmas-and-happy-new-year-vintage-background-vector.jpg' alt='Groovy hippie christmas seamless pattern with retro cartoon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/015/641/619/non_2x/groovy-hippie-christmas-seamless-pattern-with-retro-cartoon-characters-and-elements-trendy-70s-style-merry-christmas-and-happy-new-year-vintage-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

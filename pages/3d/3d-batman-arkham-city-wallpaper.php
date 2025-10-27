@@ -1,0 +1,129 @@
+<title>Epic 3D Batman Arkham City Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover an impressive collection of 3D Batman Arkham City wallpapers! Elevate your screens with high-quality images featuring Gotham's iconic hero. Perfect for mobile and desktop, these mesmerizing backgrounds bring the thrill of Batman to life. Explore and download now!">
+                    <meta name="keywords" content="3d batman arkham city wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/3d">
+                            <span itemprop="name">3D</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/3d/3d-batman-arkham-city-wallpaper">
+                            <span itemprop="name">3d batman arkham city wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic 3D Batman Arkham City Wallpapers for Your Device</h1>
+                <p>Transform your device with stunning 3D Batman Arkham City wallpapers that capture the essence of Gotham’s Dark Knight. These vibrant, high-resolution images bring the action-packed atmosphere of the acclaimed game to your screens, turning your smartphone or desktop into a tribute to Batman's epic adventures. Download your favorites today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Batman: Arkham City HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/155/155807.jpg' alt='Batman: Arkham City HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/155/155807.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Batman: Arkham City HD Wallpaper - Heroes and Villains Unite">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/206/206868.jpg' alt='Batman: Arkham City HD Wallpaper - Heroes and Villains Unite'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1070">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/206/206868.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Batman: Arkham City – Game Art and Screenshots Gallery | Game-Art-HQ">
+                                <img itemprop="contentUrl url" src='http://www.game-art-hq.com/wp-content/uploads/2016/11/Batman-in-Arkham-City-Wallpaper-Art.jpg' alt='Batman: Arkham City – Game Art and Screenshots Gallery | Game-Art-HQ'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Game-Art-HQ" />
+                                </span>
+                                <a href='http://www.game-art-hq.com/wp-content/uploads/2016/11/Batman-in-Arkham-City-Wallpaper-Art.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Batman Facing Arkham City 4K Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/batman-facing-arkham-city-4k-vtpagw71cole4qtg.jpg' alt='Download Batman Facing Arkham City 4K Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5250">
+                                <meta itemprop="height" content="2953">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/batman-facing-arkham-city-4k-vtpagw71cole4qtg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Wallpaper Batman and Catwoman">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3a/82/c7/3a82c79bd612cc6ea88f9234cd892070.jpg' alt='3D Wallpaper Batman and Catwoman'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3a/82/c7/3a82c79bd612cc6ea88f9234cd892070.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Batman Arkham City Glowing Blue Gloves Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/batman-arkham-city-glowing-blue-gloves-oyy8n9tz86oxm027.jpg' alt='Batman Arkham City Glowing Blue Gloves Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/batman-arkham-city-glowing-blue-gloves-oyy8n9tz86oxm027.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Batman: Arkham City Lithophane by RetromanIE - Thingiverse">
+                                <img itemprop="contentUrl url" src='https://cdn.thingiverse.com/renders/bb/07/d8/36/74/cd6c6435385656bc03844b3bb783d4cd_display_large.jpg' alt='Batman: Arkham City Lithophane by RetromanIE - Thingiverse'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Thingiverse" />
+                                </span>
+                                <a href='https://cdn.thingiverse.com/renders/bb/07/d8/36/74/cd6c6435385656bc03844b3bb783d4cd_display_large.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Batman Arkham City Stylized Wallpaper 04 by ChadiBelbaz on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f3ac09a2-b7e2-4746-b4ef-2cb057610f74/dfchhqa-1409178f-8f3c-4291-9231-925cdbaa7a41.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2YzYWMwOWEyLWI3ZTItNDc0Ni1iNGVmLTJjYjA1NzYxMGY3NFwvZGZjaGhxYS0xNDA5MTc4Zi04ZjNjLTQyOTEtOTIzMS05MjVjZGJhYTdhNDEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.oUP4uD_7TzFCFnMo1i2_AFcFL5IJ2kQ3l1VnL5smj7M' alt='Batman Arkham City Stylized Wallpaper 04 by ChadiBelbaz on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f3ac09a2-b7e2-4746-b4ef-2cb057610f74/dfchhqa-1409178f-8f3c-4291-9231-925cdbaa7a41.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2YzYWMwOWEyLWI3ZTItNDc0Ni1iNGVmLTJjYjA1NzYxMGY3NFwvZGZjaGhxYS0xNDA5MTc4Zi04ZjNjLTQyOTEtOTIzMS05MjVjZGJhYTdhNDEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.oUP4uD_7TzFCFnMo1i2_AFcFL5IJ2kQ3l1VnL5smj7M' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Batman Arkham City Poster 4k Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/batman-arkham-city-poster-4k-llu2flr1ija3m09q.jpg' alt='Batman Arkham City Poster 4k Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5250">
+                                <meta itemprop="height" content="3281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/batman-arkham-city-poster-4k-llu2flr1ija3m09q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Best 3d Gaming Batman: Arkham Knight Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/best-3d-gaming-batman-arkham-knight-q3oonqtvmk3c570o.jpg' alt='Download Best 3d Gaming Batman: Arkham Knight Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/best-3d-gaming-batman-arkham-knight-q3oonqtvmk3c570o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Melissa O'Neil: Canadian Idol Winner & Rising Star</title>
+                    <meta name="description" content="Discover the talent of Melissa O'Neil, a Canadian actress and singer known for her leading role in "Dark Matter" and her victory on Canadian Idol. Explore her journey in the entertainment industry, showcasing her versatility and passion for performance.">
+                    <meta name="keywords" content="melissa o'neil">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/melissa-oneil">
+                            <span itemprop="name">melissa o'neil</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Melissa O'Neil: Canadian Idol Winner & Rising Star</h1>
+                <p>Melissa O'Neil is a Canadian actress and singer, renowned for her compelling performances in various TV series and films. Gaining fame as the winner of the third season of Canadian Idol, she showcased her vocal talent. O'Neil also starred in the hit sci-fi series "Dark Matter," earning critical acclaim for her role as Two.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Melissa O'Neil - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Melissa_O%27Neil_2016.jpg/1200px-Melissa_O%27Neil_2016.jpg' alt='Melissa O'Neil - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1669">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Melissa_O%27Neil_2016.jpg/1200px-Melissa_O%27Neil_2016.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Melissa O'Neil | Memory Delta Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/memorydelta/images/6/68/Melissa_featured.jpg/revision/latest/thumbnail/width/360/height/360?cb=20170827151646' alt='Melissa O'Neil | Memory Delta Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="270">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Memory Delta Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/memorydelta/images/6/68/Melissa_featured.jpg/revision/latest/thumbnail/width/360/height/360?cb=20170827151646' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Melissa O'Neil - Actress, Singer">
+                                <img itemprop="contentUrl url" src='https://ntvb.tmsimg.com/assets/assets/748705_v9_be.jpg?w=360&h=480' alt='Melissa O'Neil - Actress, Singer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TV Insider" />
+                                </span>
+                                <a href='https://ntvb.tmsimg.com/assets/assets/748705_v9_be.jpg?w=360&h=480' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Melissa O'Neil (@missoneil) · Instagram photos and videos">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3524481589705435416' alt='Melissa O'Neil (@missoneil) · Instagram photos and videos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3524481589705435416' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="From Canadian Idol To Star The Journey Of Melissa Oneil - The ...">
+                                <img itemprop="contentUrl url" src='https://superstarsbio.com/wp-content/uploads/2019/10/Melissa-ONeil-Hair-scaled.jpg' alt='From Canadian Idol To Star The Journey Of Melissa Oneil - The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1704">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Left Bank" />
+                                </span>
+                                <a href='https://superstarsbio.com/wp-content/uploads/2019/10/Melissa-ONeil-Hair-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Melissa O'Neil | The Rookie Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/the-rookie/images/0/05/Melissa_O%27Neil.jpg/revision/latest?cb=20180727185500' alt='Melissa O'Neil | The Rookie Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="438">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Rookie Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/the-rookie/images/0/05/Melissa_O%27Neil.jpg/revision/latest?cb=20180727185500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Actress moved to Los Angeles seven years ago to star in The Rookie ...">
+                                <img itemprop="contentUrl url" src='https://smartcdn.gprod.postmedia.digital/calgaryherald/wp-content/uploads/2025/01/oneil2-e1737587254221.jpg' alt='Actress moved to Los Angeles seven years ago to star in The Rookie ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="492">
+                                <meta itemprop="height" content="747">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Calgary Herald" />
+                                </span>
+                                <a href='https://smartcdn.gprod.postmedia.digital/calgaryherald/wp-content/uploads/2025/01/oneil2-e1737587254221.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Melissa O'Neil's Partner: Meet the Musician and Actor Behind the Star">
+                                <img itemprop="contentUrl url" src='https://superstarsbio.com/wp-content/uploads/2019/10/Melissa-ONeil-Actress.jpg' alt='Melissa O'Neil's Partner: Meet the Musician and Actor Behind the Star'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.hullandhull.com" />
+                                </span>
+                                <a href='https://superstarsbio.com/wp-content/uploads/2019/10/Melissa-ONeil-Actress.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="845 Melissa Oneil Stock Photos, High-Res Pictures, and Images ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/969599748/photo/toronto-on-melissa-oneil-poses-at-the-ctv-upfronts-portrait-studio-held-at-the-sony-centre-for.jpg?s=612x612&w=gi&k=20&c=M4muBHmmkMDEfaON5pOJskqwVo2GrsLqxaUUhLM6ztQ=' alt='845 Melissa Oneil Stock Photos, High-Res Pictures, and Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/969599748/photo/toronto-on-melissa-oneil-poses-at-the-ctv-upfronts-portrait-studio-held-at-the-sony-centre-for.jpg?s=612x612&w=gi&k=20&c=M4muBHmmkMDEfaON5pOJskqwVo2GrsLqxaUUhLM6ztQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Melissa O'Neil">
+                                <img itemprop="contentUrl url" src='https://s3.us-west-1.amazonaws.com/redwood-labs/showpage/uploads/images/945d9501-736f-44f6-9480-0859fd676a30.jpg' alt='Melissa O'Neil'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1541">
+                                <meta itemprop="height" content="1486">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Story & Craft Podcast" />
+                                </span>
+                                <a href='https://s3.us-west-1.amazonaws.com/redwood-labs/showpage/uploads/images/945d9501-736f-44f6-9480-0859fd676a30.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

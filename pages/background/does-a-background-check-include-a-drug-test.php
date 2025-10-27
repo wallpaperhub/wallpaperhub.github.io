@@ -1,0 +1,129 @@
+<title>Do Background Checks Include Drug Tests?</title>
+                    <meta name="description" content="Wondering if background checks include drug tests? Discover how employers use drug screenings as part of their hiring process and what you need to know before applying. Get informed on the specifics that vary by company and role to prepare yourself for the job application journey.">
+                    <meta name="keywords" content="does a background check include a drug test">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/does-a-background-check-include-a-drug-test">
+                            <span itemprop="name">does a background check include a drug test</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Do Background Checks Include Drug Tests?</h1>
+                <p>Background checks often include various components, but whether a drug test is part of the process depends on the employer and the position. Many companies opt for drug testing to ensure a safe work environment, particularly in safety-sensitive roles. Always clarify with potential employers about their specific background check policies.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Background Checks Include Drug Tests? | InfoMart">
+                                <img itemprop="contentUrl url" src='https://www.infomart-usa.com/wp-content/uploads/2015/02/BackgroundCheckDrugTest_NEW2.jpg' alt='Do Background Checks Include Drug Tests? | InfoMart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1544">
+                                <meta itemprop="height" content="674">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="InfoMart" />
+                                </span>
+                                <a href='https://www.infomart-usa.com/wp-content/uploads/2015/02/BackgroundCheckDrugTest_NEW2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Should You Drug Test or Background Check First?">
+                                <img itemprop="contentUrl url" src='https://www.backgroundchecks.com/hubfs/Should-You-Drug-Test-or-Background-Check-First-img@2x.jpg' alt='Should You Drug Test or Background Check First?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1092">
+                                <meta itemprop="height" content="614">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BackgroundChecks.com" />
+                                </span>
+                                <a href='https://www.backgroundchecks.com/hubfs/Should-You-Drug-Test-or-Background-Check-First-img@2x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Background Checks Include Drug Tests? | InfoMart">
+                                <img itemprop="contentUrl url" src='https://www.infomart-usa.com/wp-content/uploads/2015/02/BackgroundCheckDrugTest_twitter-e1497964664152.jpg' alt='Do Background Checks Include Drug Tests? | InfoMart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="InfoMart" />
+                                </span>
+                                <a href='https://www.infomart-usa.com/wp-content/uploads/2015/02/BackgroundCheckDrugTest_twitter-e1497964664152.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drug test or Background check: What comes first? - SecureCheck360">
+                                <img itemprop="contentUrl url" src='https://www.securecheck360.com/wp-content/uploads/2023/05/Drug-test-or-Background-check-What-comes-first.webp' alt='Drug test or Background check: What comes first? - SecureCheck360'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SecureCheck360" />
+                                </span>
+                                <a href='https://www.securecheck360.com/wp-content/uploads/2023/05/Drug-test-or-Background-check-What-comes-first.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does a Background Check Include a Drug Test (Only These Jobs)">
+                                <img itemprop="contentUrl url" src='https://backgroundcheckrepair.org/wp-content/uploads/2022/01/Employment-Positions-That-Usually-Require-A-Drug-Test.png' alt='Does a Background Check Include a Drug Test (Only These Jobs)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Employment & Criminal Background Checks" />
+                                </span>
+                                <a href='https://backgroundcheckrepair.org/wp-content/uploads/2022/01/Employment-Positions-That-Usually-Require-A-Drug-Test.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drug test or Background check: What comes first? | SecureCheck360">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/D4D12AQFVe68y9kiE2A/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1684855739146?e=2147483647&v=beta&t=9mHdnwdcN9PUsHaFnRF5qhEMFy5kocgkoM9pn6B71KU' alt='Drug test or Background check: What comes first? | SecureCheck360'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/D4D12AQFVe68y9kiE2A/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1684855739146?e=2147483647&v=beta&t=9mHdnwdcN9PUsHaFnRF5qhEMFy5kocgkoM9pn6B71KU' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employment Drug Testing & Screening | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/1c6d68f1f96b542267a79114c0f64024/e2d37/dashboard-illustration.png' alt='Employment Drug Testing & Screening | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="618">
+                                <meta itemprop="height" content="399">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/1c6d68f1f96b542267a79114c0f64024/e2d37/dashboard-illustration.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employment Drug Testing | Checkr">
+                                <img itemprop="contentUrl url" src='https://a-us.storyblok.com/f/1014904/651x365/55e79e382a/employment-drug-testing-demo-image-2.svg' alt='Employment Drug Testing | Checkr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="651">
+                                <meta itemprop="height" content="365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr" />
+                                </span>
+                                <a href='https://a-us.storyblok.com/f/1014904/651x365/55e79e382a/employment-drug-testing-demo-image-2.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Can Your Employment Drug Test Go Smoothly? - Sterling, a First ...">
+                                <img itemprop="contentUrl url" src='https://www.sterlingcheck.com/wp-content/uploads/2024/05/GettyImages-1165744638.jpg' alt='How Can Your Employment Drug Test Go Smoothly? - Sterling, a First ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1460">
+                                <meta itemprop="height" content="1160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sterling" />
+                                </span>
+                                <a href='https://www.sterlingcheck.com/wp-content/uploads/2024/05/GettyImages-1165744638.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pre-Employment Background Checks: A Complete Guide [2025]">
+                                <img itemprop="contentUrl url" src='https://iprospectcheck.com/wp-content/uploads/2020/02/employment-background-check.jpg' alt='Pre-Employment Background Checks: A Complete Guide [2025]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iprospectcheck" />
+                                </span>
+                                <a href='https://iprospectcheck.com/wp-content/uploads/2020/02/employment-background-check.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

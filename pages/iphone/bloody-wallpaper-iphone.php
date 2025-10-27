@@ -1,0 +1,129 @@
+<title>“Chilling Bloody Wallpapers for iPhone: Gory Aesthetics”</title>
+                    <meta name="description" content="Explore our collection of chilling bloody wallpapers for iPhone. Perfect for horror lovers and those wanting to make a statement, these wallpapers bring a dramatic touch to your device. Download now to customize your iPhone with eye-catching designs that reflect your unique taste!">
+                    <meta name="keywords" content="bloody wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/bloody-wallpaper-iphone">
+                            <span itemprop="name">bloody wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>“Chilling Bloody Wallpapers for iPhone: Gory Aesthetics”</h1>
+                <p>Transform your iPhone with stunning bloody wallpapers that create a fierce and bold look. Perfect for Halloween or anyone who loves a touch of dark aesthetics, these wallpapers feature rich reds, deep blacks, and intricate designs. Download and customize your device to showcase your personality and unique style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black And Bloody Red Aesthetic Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/black-and-bloody-red-aesthetic-iphone-8jkubok5y1nqz5rz.jpg' alt='Black And Bloody Red Aesthetic Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1822">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/black-and-bloody-red-aesthetic-iphone-8jkubok5y1nqz5rz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blood, bloody, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/359/287/HD-wallpaper-blood-bloody.jpg' alt='Blood, bloody, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1689">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/359/287/HD-wallpaper-blood-bloody.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/37/83/c1/3783c17a8148c2497d0681c1bffce556.jpg' alt='Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/37/83/c1/3783c17a8148c2497d0681c1bffce556.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blood Vein Texture iPhone Wallpaper – iDrop News">
+                                <img itemprop="contentUrl url" src='https://cdn.idropnews.com/wp-content/uploads/2018/05/22035056/Blood-Vein-Texture-iPhone-Wallpaper-1080x1799.jpg' alt='Blood Vein Texture iPhone Wallpaper – iDrop News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1799">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDrop News" />
+                                </span>
+                                <a href='https://cdn.idropnews.com/wp-content/uploads/2018/05/22035056/Blood-Vein-Texture-iPhone-Wallpaper-1080x1799.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bloody Moon In Red Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/bloody-moon-in-red-iphone-uvll0cev27nla6ax.jpg' alt='Bloody Moon In Red Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/bloody-moon-in-red-iphone-uvll0cev27nla6ax.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bloody Wall, bloody, wall, cool background, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/582/537/HD-wallpaper-bloody-wall-bloody-wall-cool-background.jpg' alt='Bloody Wall, bloody, wall, cool background, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/582/537/HD-wallpaper-bloody-wall-bloody-wall-cool-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dripping Blood, glossy, red, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/832/879/HD-wallpaper-dripping-blood-glossy-red.jpg' alt='Dripping Blood, glossy, red, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1516">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/832/879/HD-wallpaper-dripping-blood-glossy-red.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bloody Phone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp14130505.jpg' alt='Bloody Phone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp14130505.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ปักพินโดย Raedean Petty ใน iphone wallpapers | พื้นหลังสีแดง, พื้น ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/93/dd/8e/93dd8efbab6184a4b05f82f6d435b244.jpg' alt='ปักพินโดย Raedean Petty ใน iphone wallpapers | พื้นหลังสีแดง, พื้น ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/93/dd/8e/93dd8efbab6184a4b05f82f6d435b244.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Bloody Knife Michael Myers iPhone Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/michael-myers-iphone-9cgvdb08mm03jtse.jpg' alt='Download Bloody Knife Michael Myers iPhone Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1676">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/michael-myers-iphone-9cgvdb08mm03jtse.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

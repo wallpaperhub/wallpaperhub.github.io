@@ -1,0 +1,129 @@
+<title>80's Retro Anime Aesthetic Wallpapers</title>
+                    <meta name="description" content="Explore our unique collection of 80's retro anime aesthetic wallpapers. Perfect for anime lovers and vintage enthusiasts, these wallpapers feature bright colors and nostalgic designs that will instantly elevate your space. Bring the charm of the 80s into your home today!">
+                    <meta name="keywords" content="80's retro anime aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/80s-retro-anime-aesthetic-wallpaper">
+                            <span itemprop="name">80's retro anime aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>80's Retro Anime Aesthetic Wallpapers</h1>
+                <p>Step back into the vibrant world of 80's retro anime with our stunning wallpaper collection! Featuring neon colors, iconic characters, and vintage designs, these wallpapers bring a nostalgic flair to your space. Perfect for fans of classic anime and retro aesthetics, transform your room into a visual celebration of the past!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] 80s Anime Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/80s-anime-aesthetic-ltlf8u5jbk15i1l3.jpg' alt='100+] 80s Anime Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/80s-anime-aesthetic-ltlf8u5jbk15i1l3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome 80s Anime Aesthetic Desktop Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9a/5f/13/9a5f139b275c6200fe597a0d4389e9b4.jpg' alt='Awesome 80s Anime Aesthetic Desktop Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9a/5f/13/9a5f139b275c6200fe597a0d4389e9b4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="80s Retro Anime & Background Beautiful Best Available For 80s ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/407/961/HD-wallpaper-80s-retro-anime-background-beautiful-best-available-for-80s-retro-anime-80s-aesthetic-anime.jpg' alt='80s Retro Anime & Background Beautiful Best Available For 80s ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/407/961/HD-wallpaper-80s-retro-anime-background-beautiful-best-available-for-80s-retro-anime-80s-aesthetic-anime.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Anime Messy Cans Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/retro-anime-messy-cans-m2uis4s2fdzotfk9.jpg' alt='Retro Anime Messy Cans Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1259">
+                                <meta itemprop="height" content="940">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/retro-anime-messy-cans-m2uis4s2fdzotfk9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="80's Anime & Background Beautiful Best Available For 80's Anime ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/147/1017/HD-wallpaper-80-s-anime-background-beautiful-best-available-for-80-s-anime-80s-aesthetic-anime.jpg' alt='80's Anime & Background Beautiful Best Available For 80's Anime ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/147/1017/HD-wallpaper-80-s-anime-background-beautiful-best-available-for-80-s-anime-80s-aesthetic-anime.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Anime Cool Collage Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/retro-anime-stairs-boy-ii6ts7nitotx46o6.webp' alt='Retro Anime Cool Collage Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/retro-anime-stairs-boy-ii6ts7nitotx46o6.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Retro anime vibes in an 80's inspired setting. Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/80s-anime-aesthetic-0bv6j64o8z7qsswn.jpg' alt='Download Retro anime vibes in an 80's inspired setting. Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1063">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/80s-anime-aesthetic-0bv6j64o8z7qsswn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD aesthetic 80s girl wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/80/891/HD-wallpaper-vaporwave-anime-retro-aesthetic-poster-80s-mask-girl-painting-wall-art-decoration-kawaii-room-decor-canvas-poster-painting-calligraphy.jpg' alt='HD aesthetic 80s girl wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1222">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/80/891/HD-wallpaper-vaporwave-anime-retro-aesthetic-poster-80s-mask-girl-painting-wall-art-decoration-kawaii-room-decor-canvas-poster-painting-calligraphy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Cute Retro Anime Aesthetic Vending Machine Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/vintage-cute-retro-anime-aesthetic-vending-machine-wspvpq412zjx3423.jpg' alt='Vintage Cute Retro Anime Aesthetic Vending Machine Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/vintage-cute-retro-anime-aesthetic-vending-machine-wspvpq412zjx3423.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download a girl is laying on the floor in front of a window ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/80s-anime-aesthetic-9ccu0shhc4bhuwav.jpg' alt='Download a girl is laying on the floor in front of a window ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="849">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/80s-anime-aesthetic-9ccu0shhc4bhuwav.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

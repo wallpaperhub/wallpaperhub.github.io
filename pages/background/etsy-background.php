@@ -1,0 +1,129 @@
+<title>Explore the Artistic World of Etsy: Unique Handmade & Vintage Items</title>
+                    <meta name="description" content="Discover Etsy, the top destination for unique handmade and vintage goods. Shop from talented creators around the world and find one-of-a-kind treasures that reflect your style. Join a vibrant community that values creativity and individuality today!">
+                    <meta name="keywords" content="etsy background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/etsy-background">
+                            <span itemprop="name">etsy background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Artistic World of Etsy: Unique Handmade & Vintage Items</h1>
+                <p>Etsy, a global marketplace for handmade and vintage items, empowers artisans and crafters to connect with buyers seeking unique treasures. With millions of curated products, Etsy champions creativity and entrepreneurship, allowing sellers to showcase their artistry while buyers celebrate individuality through curated finds.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White wood digital background instant download Woodgrain texture Printable  photo Stock Mockup Rustic textures Photography Backdrop">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/15595500/r/il/09d213/1958943499/il_570xN.1958943499_rzfs.jpg' alt='White wood digital background instant download Woodgrain texture Printable  photo Stock Mockup Rustic textures Photography Backdrop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/15595500/r/il/09d213/1958943499/il_570xN.1958943499_rzfs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple photography backdrop, wooden background, digital backdrop, wood  room, photoshop, mockup, minimalist, wood, photography, DOWNLOAD">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/13530939/r/il/fec803/1761652078/il_570xN.1761652078_8tyc.jpg' alt='Simple photography backdrop, wooden background, digital backdrop, wood  room, photoshop, mockup, minimalist, wood, photography, DOWNLOAD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="475">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/13530939/r/il/fec803/1761652078/il_570xN.1761652078_8tyc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="String lights digital background, photography background, photoshop,  backdrop, digital, printable, vertical lights, stock image, DOWNLOAD">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/13530939/r/il/33b6bb/1761656700/il_570xN.1761656700_3mad.jpg' alt='String lights digital background, photography background, photoshop,  backdrop, digital, printable, vertical lights, stock image, DOWNLOAD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="475">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/13530939/r/il/33b6bb/1761656700/il_570xN.1761656700_3mad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wood Photo Backdrop, Wood Panel Backdrop, Rustic Wood Backdrop, Wood  Background for Photos, Wood Photography Backdrop Floor or Wall WDF220">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/9434318/r/il/85fda4/3287487146/il_570xN.3287487146_b4wm.jpg' alt='Wood Photo Backdrop, Wood Panel Backdrop, Rustic Wood Backdrop, Wood  Background for Photos, Wood Photography Backdrop Floor or Wall WDF220'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/9434318/r/il/85fda4/3287487146/il_570xN.3287487146_b4wm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Old Pine Backdrop | Digital Background | Texture | Overlay | Digital  Paper - High Resolution .jpg file | Instant Download">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/5295659/r/il/e9a3e4/1902781071/il_570xN.1902781071_okx0.jpg' alt='The Old Pine Backdrop | Digital Background | Texture | Overlay | Digital  Paper - High Resolution .jpg file | Instant Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="713">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/5295659/r/il/e9a3e4/1902781071/il_570xN.1902781071_okx0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Wood Digital Backdrop, Wood Wall with Floor Studio Background">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21768105/r/il/c25a9f/3561698072/il_570xN.3561698072_k8sa.jpg' alt='Vintage Wood Digital Backdrop, Wood Wall with Floor Studio Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="579">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21768105/r/il/c25a9f/3561698072/il_570xN.3561698072_k8sa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stock Background for Product Display">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20084898/r/il/47531f/1858062462/il_570xN.1858062462_on65.jpg' alt='Stock Background for Product Display'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20084898/r/il/47531f/1858062462/il_570xN.1858062462_on65.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Weathered Digital Art Background | Digital Backdrop | Texture | Overlay |  Digital Paper - High Resolution .jpg file | Fine Art Textures">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/5295659/r/il/b78af6/1855339506/il_570xN.1855339506_26ww.jpg' alt='Weathered Digital Art Background | Digital Backdrop | Texture | Overlay |  Digital Paper - High Resolution .jpg file | Fine Art Textures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="713">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/5295659/r/il/b78af6/1855339506/il_570xN.1855339506_26ww.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dropshipped POD: Best Etsy Photo Backgrounds">
+                                <img itemprop="contentUrl url" src='https://ryanhogue.com/img/best-etsy-photo-backgrounds.jpg' alt='Dropshipped POD: Best Etsy Photo Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="633">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ryan Hogue" />
+                                </span>
+                                <a href='https://ryanhogue.com/img/best-etsy-photo-backgrounds.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old Fashion Fine Art Textures | Digital Background | Texture | Overlay |  Digital Paper - High Resolution .jpg file | Instant Download">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/5295659/r/il/f5cfa9/1902838469/il_570xN.1902838469_krp2.jpg' alt='Old Fashion Fine Art Textures | Digital Background | Texture | Overlay |  Digital Paper - High Resolution .jpg file | Instant Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="713">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/5295659/r/il/f5cfa9/1902838469/il_570xN.1902838469_krp2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

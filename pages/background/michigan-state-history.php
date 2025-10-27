@@ -1,0 +1,129 @@
+<title>Explore Michigan's Rich History</title>
+                    <meta name="description" content="Discover Michigan's fascinating history, from its early days in Detroit to the rise of its automotive industry. Learn how the state has influenced American culture, education, and labor movements over the centuries. Dive into the rich tapestry of events that have shaped Michigan today!">
+                    <meta name="keywords" content="michigan state history">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/michigan-state-history">
+                            <span itemprop="name">michigan state history</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore Michigan's Rich History</h1>
+                <p>Michigan state history is rich and diverse, marked by the founding of Detroit in 1701, its role in the fur trade, and the rise of the automobile industry in the early 20th century. The state played a vital role in American education and labor movements, making significant contributions that shaped the nation. Today, Michigan continues to evolve while honoring its storied past.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of the Union | MSU Union">
+                                <img itemprop="contentUrl url" src='https://union.msu.edu/sites/default/files/images/old_union.JPG' alt='History of the Union | MSU Union'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="601">
+                                <meta itemprop="height" content="484">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MSU Union - Michigan State University" />
+                                </span>
+                                <a href='https://union.msu.edu/sites/default/files/images/old_union.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New book completes trilogy recounting Michigan State University ...">
+                                <img itemprop="contentUrl url" src='https://npr.brightspotcdn.com/dims4/default/1bdcf4f/2147483647/strip/true/crop/784x1000+0+0/resize/880x1122!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fwkar%2Ffiles%2Fmsu_history_book_cover.jpg' alt='New book completes trilogy recounting Michigan State University ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="1122">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WKAR" />
+                                </span>
+                                <a href='https://npr.brightspotcdn.com/dims4/default/1bdcf4f/2147483647/strip/true/crop/784x1000+0+0/resize/880x1122!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fwkar%2Ffiles%2Fmsu_history_book_cover.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Michigan State in the early 1900s via photos from National Archives">
+                                <img itemprop="contentUrl url" src='https://www.lansingstatejournal.com/gcdn/authoring/authoring-images/2023/12/01/PLSJ/71770774007-231201-msu-1900-s-photos-003.JPG?width=1200&disable=upscale&format=pjpg&auto=webp' alt='Michigan State in the early 1900s via photos from National Archives'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lansing State Journal" />
+                                </span>
+                                <a href='https://www.lansingstatejournal.com/gcdn/authoring/authoring-images/2023/12/01/PLSJ/71770774007-231201-msu-1900-s-photos-003.JPG?width=1200&disable=upscale&format=pjpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Michigan State University - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/MSU_Laboratory_Row_1912_sepia.jpg/400px-MSU_Laboratory_Row_1912_sepia.jpg' alt='History of Michigan State University - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="122">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/MSU_Laboratory_Row_1912_sepia.jpg/400px-MSU_Laboratory_Row_1912_sepia.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Heart of Campus, Revisited – MSU Campus Archaeology Program">
+                                <img itemprop="contentUrl url" src='http://campusarch.msu.edu/wp-content/uploads/2012/12/1-4-188-49-A000846.jpg' alt='The Heart of Campus, Revisited – MSU Campus Archaeology Program'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="792">
+                                <meta itemprop="height" content="504">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MSU Campus Archaeology Program - Michigan State University" />
+                                </span>
+                                <a href='http://campusarch.msu.edu/wp-content/uploads/2012/12/1-4-188-49-A000846.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MSU History - Michigan State University">
+                                <img itemprop="contentUrl url" src='http://mymsublog.weebly.com/uploads/6/5/4/4/6544464/header_images/1395283594.jpg' alt='MSU History - Michigan State University'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="342">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Michigan State University - Weebly" />
+                                </span>
+                                <a href='http://mymsublog.weebly.com/uploads/6/5/4/4/6544464/header_images/1395283594.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Our Inclusive Heritage Timeline | Inclusion and Intercultural ...">
+                                <img itemprop="contentUrl url" src='https://inclusion.msu.edu/_assets/images/timeline/1855-opening-doors.jpg' alt='Our Inclusive Heritage Timeline | Inclusion and Intercultural ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Institutional Diversity and Inclusion - Michigan State University" />
+                                </span>
+                                <a href='https://inclusion.msu.edu/_assets/images/timeline/1855-opening-doors.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Welcome from the Chairperson – Department of History">
+                                <img itemprop="contentUrl url" src='https://history.msu.edu/files/2014/08/Old-Old-Hort.jpg' alt='Welcome from the Chairperson – Department of History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="581">
+                                <meta itemprop="height" content="422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MSU History Department - Michigan State University" />
+                                </span>
+                                <a href='https://history.msu.edu/files/2014/08/Old-Old-Hort.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for History Department, Michigan State University">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063636999700' alt='Profile for History Department, Michigan State University'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="321">
+                                <meta itemprop="height" content="321">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063636999700' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of MSU Libraries | Development | MSU Libraries">
+                                <img itemprop="contentUrl url" src='https://img.lib.msu.edu/structure/Linton-Hall.jpg' alt='History of MSU Libraries | Development | MSU Libraries'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="235">
+                                <meta itemprop="height" content="188">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MSU Libraries - Michigan State University" />
+                                </span>
+                                <a href='https://img.lib.msu.edu/structure/Linton-Hall.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

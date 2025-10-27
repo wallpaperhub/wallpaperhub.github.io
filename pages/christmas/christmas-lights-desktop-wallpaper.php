@@ -1,0 +1,129 @@
+<title>Festive Christmas Lights Desktop Wallpaper</title>
+                    <meta name="description" content="Brighten up your screen with beautiful Christmas lights desktop wallpaper. Perfect for adding a festive touch, these wallpapers are designed to inspire joy and celebrate the holiday spirit. Download your favorites now and enjoy the magic of Christmas every day!">
+                    <meta name="keywords" content="christmas lights desktop wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/christmas-lights-desktop-wallpaper">
+                            <span itemprop="name">christmas lights desktop wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Festive Christmas Lights Desktop Wallpaper</h1>
+                <p>Transform your desktop this holiday season with enchanting Christmas lights wallpaper. Adorn your screen with vibrant colors and festive designs that capture the spirit of joy and celebration. Perfect for spreading warmth and cheer, these stunning visuals will keep you in the holiday mood every time you log on!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Lights Photos, Download The BEST Free Christmas Lights ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/759435/pexels-photo-759435.jpeg?cs=srgb&dl=pexels-iriser-759435.jpg&fm=jpg' alt='Christmas Lights Photos, Download The BEST Free Christmas Lights ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5466">
+                                <meta itemprop="height" content="3774">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/759435/pexels-photo-759435.jpeg?cs=srgb&dl=pexels-iriser-759435.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best 500+ Christmas Lights Pictures [HD] | Download Free Images on ...">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1701454736122-14b846cfb3c3?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2hyaXN0bWFzJTIwbGlnaHRzfGVufDB8fDB8fHww' alt='Best 500+ Christmas Lights Pictures [HD] | Download Free Images on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1701454736122-14b846cfb3c3?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2hyaXN0bWFzJTIwbGlnaHRzfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Desktop Colorful Lights Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/christmas-desktop-colorful-lights-l2sobavlrnen5id7.jpg' alt='Christmas Desktop Colorful Lights Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/christmas-desktop-colorful-lights-l2sobavlrnen5id7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Lights Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/art-colorful-lights-wooden-background-christmasl-garland_156341-56.jpg' alt='Christmas Lights Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/art-colorful-lights-wooden-background-christmasl-garland_156341-56.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Top Christmas Lights Desktop Wallpaper FULL HD 1080p For PC Desktop">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/88/25/33/88253346707b53dda2f3b1f4c294c420.jpg' alt='10 Top Christmas Lights Desktop Wallpaper FULL HD 1080p For PC Desktop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/88/25/33/88253346707b53dda2f3b1f4c294c420.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Lights Wallpaper HD Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/db/61/7c/db617c228ce0408d7e16894d508856ff.jpg' alt='Christmas Lights Wallpaper HD Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/db/61/7c/db617c228ce0408d7e16894d508856ff.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300+] Christmas Lights Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-christmas-tree-with-festive-lights-wjef6qwujnapje9z.jpg' alt='300+] Christmas Lights Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-christmas-tree-with-festive-lights-wjef6qwujnapje9z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Festive Christmas Lights - HD Wallpaper for Holiday Cheer">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/416/416294.jpg' alt='Festive Christmas Lights - HD Wallpaper for Holiday Cheer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/416/416294.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Lights Photos, Download The BEST Free Christmas Lights ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/752484/pexels-photo-752484.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' alt='Christmas Lights Photos, Download The BEST Free Christmas Lights ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="331">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/752484/pexels-photo-752484.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Lights Background Digital Download - Fine Art Photography -  screen saver - computer wallpaper from William Britten">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8278375/r/il/5aaf07/614408211/il_fullxfull.614408211_rneh.jpg' alt='Christmas Lights Background Digital Download - Fine Art Photography -  screen saver - computer wallpaper from William Britten'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8278375/r/il/5aaf07/614408211/il_fullxfull.614408211_rneh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

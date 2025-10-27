@@ -1,0 +1,129 @@
+<title>Navy & Yellow Wallpaper: A Perfect Blend of Elegance</title>
+                    <meta name="description" content="Explore the vibrant navy and yellow wallpaper trend. Discover how this chic color combination can effortlessly enhance your home's style, balancing sophistication with warmth for a stunning interior transformation.">
+                    <meta name="keywords" content="navy and yellow wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow">
+                            <span itemprop="name">Yellow</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/yellow/navy-and-yellow-wallpaper">
+                            <span itemprop="name">navy and yellow wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Navy & Yellow Wallpaper: A Perfect Blend of Elegance</h1>
+                <p>Navy and yellow wallpaper combines elegance and vibrancy, creating a stunning visual impact in any space. The deep navy hue offers a sophisticated backdrop while the bright yellow brings warmth and cheer. Perfect for modern and eclectic interiors, this color palette can energize rooms, accentuating furniture and decor effectively.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Navy Blue Botanical Wallpaper, Dark Floral Wallpaper With Small ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20074134/r/il/e9c6da/4108390618/il_fullxfull.4108390618_q0ym.jpg' alt='Navy Blue Botanical Wallpaper, Dark Floral Wallpaper With Small ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20074134/r/il/e9c6da/4108390618/il_fullxfull.4108390618_q0ym.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue and Yellow Wallpaper - ONDECOR.COM">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.5926201730_s70o.jpg?v=1730276491&width=533' alt='Blue and Yellow Wallpaper - ONDECOR.COM'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.5926201730_s70o.jpg?v=1730276491&width=533' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Navy Blue Botanical Floral Removable Wallpaper - 24'' inch x 10'ft">
+                                <img itemprop="contentUrl url" src='https://ak1.ostkcdn.com/images/products/is/images/direct/7a4fe8198d5bdaffeb03aa42cafd451d5bd03ec2/Vintage-Navy-Blue-Botanical-Floral-Removable-Wallpaper.jpg' alt='Vintage Navy Blue Botanical Floral Removable Wallpaper - 24'' inch x 10'ft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bed Bath & Beyond" />
+                                </span>
+                                <a href='https://ak1.ostkcdn.com/images/products/is/images/direct/7a4fe8198d5bdaffeb03aa42cafd451d5bd03ec2/Vintage-Navy-Blue-Botanical-Floral-Removable-Wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Buy D Floral Pattern Dark Navy Teal Yellow Wallpaper | Happywall">
+                                <img itemprop="contentUrl url" src='https://happywall-img-gallery.imgix.net/61700/2674-d-floral-pattern-dark-navy-teal-yellow-roll.jpg?w=1400&auto=format&q=40' alt='Buy D Floral Pattern Dark Navy Teal Yellow Wallpaper | Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="933">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-img-gallery.imgix.net/61700/2674-d-floral-pattern-dark-navy-teal-yellow-roll.jpg?w=1400&auto=format&q=40' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Navy Yellow Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/geometric-background-with-golden-details_23-2148430974.jpg' alt='Navy Yellow Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/geometric-background-with-golden-details_23-2148430974.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tuscan Tile in Blue and Yellow Wallpaper - Buy Now at Happywall">
+                                <img itemprop="contentUrl url" src='https://happywall-img-gallery.imgix.net/62500/tuscan-tile-in-blue-and-yellow-roll.jpg?w=1400&auto=format&q=40' alt='Tuscan Tile in Blue and Yellow Wallpaper - Buy Now at Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="933">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-img-gallery.imgix.net/62500/tuscan-tile-in-blue-and-yellow-roll.jpg?w=1400&auto=format&q=40' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Star' Wallpaper by Clare V. - Gold / Navy">
+                                <img itemprop="contentUrl url" src='https://www.wallshoppe.com/cdn/shop/products/Star-by-Clare-V_Gold-on-Navy_detail_720x.jpg?v=1633377787' alt=''Star' Wallpaper by Clare V. - Gold / Navy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='https://www.wallshoppe.com/cdn/shop/products/Star-by-Clare-V_Gold-on-Navy_detail_720x.jpg?v=1633377787' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue and Yellow Wallpaper - ONDECOR.COM">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/C804_01.png?v=1734122937&width=533' alt='Blue and Yellow Wallpaper - ONDECOR.COM'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/C804_01.png?v=1734122937&width=533' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Navy Yellow Floral Cosmic Print. Vector Modern Design For Paper ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/milatoo/milatoo1810/milatoo181000112/109920572-navy-yellow-floral-cosmic-print-vector-modern-design-for-paper-wallpaper-cover-fabric-interior.jpg' alt='Navy Yellow Floral Cosmic Print. Vector Modern Design For Paper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/milatoo/milatoo1810/milatoo181000112/109920572-navy-yellow-floral-cosmic-print-vector-modern-design-for-paper-wallpaper-cover-fabric-interior.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Buttercup">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_1200/v1716279159/articles/FL5052YE07R_interior1.jpg' alt='Buttercup'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hovia" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_1200/v1716279159/articles/FL5052YE07R_interior1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

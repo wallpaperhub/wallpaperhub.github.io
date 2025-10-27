@@ -1,0 +1,129 @@
+<title>Honda Civic Import Wallpapers for iPhone</title>
+                    <meta name="description" content="Discover an exclusive collection of Honda Civic import wallpapers designed for your iPhone! Elevate your device's style with high-quality images of your favorite models, making your screen reflect your passion for this legendary car. Perfect for enthusiasts and fans alike!">
+                    <meta name="keywords" content="honda civic import wallpaper from iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/honda-civic-import-wallpaper-from-iphone">
+                            <span itemprop="name">honda civic import wallpaper from iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Honda Civic Import Wallpapers for iPhone</h1>
+                <p>Transform your iPhone with stunning Honda Civic import wallpapers! Showcase your love for this iconic vehicle with high-resolution images that capture its sleek design and powerful performance. Whether it's a flashy racing edition or a classic model, find the perfect wallpaper to make your home or lock screen stand out.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I figured out how to change the wallpaper on my Civic's display (x ...">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/IJM8ppW.jpg' alt='I figured out how to change the wallpaper on my Civic's display (x ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://i.imgur.com/IJM8ppW.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper | 2016+ Honda Civic Forum (10th Gen) - Type R Forum, Si ...">
+                                <img itemprop="contentUrl url" src='https://www.civicx.com/forum/attachments/image-jpg.4152/' alt='Wallpaper | 2016+ Honda Civic Forum (10th Gen) - Type R Forum, Si ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1900">
+                                <meta itemprop="height" content="1425">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CivicX.com" />
+                                </span>
+                                <a href='https://www.civicx.com/forum/attachments/image-jpg.4152/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="JDM Import Tuner - Civic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/99/ea/65/99ea653b94fdf759ae2fb3d0d2bc6797.jpg' alt='JDM Import Tuner - Civic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="825">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/99/ea/65/99ea653b94fdf759ae2fb3d0d2bc6797.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sports Honda Civic Type R Parked Outside · Free Stock Photo">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/16475139/pexels-photo-16475139/free-photo-of-sports-honda-civic-type-r-parked-outside.jpeg' alt='Sports Honda Civic Type R Parked Outside · Free Stock Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3891">
+                                <meta itemprop="height" content="5836">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/16475139/pexels-photo-16475139/free-photo-of-sports-honda-civic-type-r-parked-outside.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper | 2016+ Honda Civic Forum (10th Gen) - Type R Forum, Si ...">
+                                <img itemprop="contentUrl url" src='https://www.civicx.com/forum/attachments/img_2018-jpg.4283/' alt='Wallpaper | 2016+ Honda Civic Forum (10th Gen) - Type R Forum, Si ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1900">
+                                <meta itemprop="height" content="1425">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CivicX.com" />
+                                </span>
+                                <a href='https://www.civicx.com/forum/attachments/img_2018-jpg.4283/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to: Import Custom Wallpaper to your 2014 Honda (Civic & Accord)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/d0AnCAEDZpw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGCQgJCh_MA8=&rs=AOn4CLCVF8hnA69wPHAAtfGGjTPoe1tycg' alt='How to: Import Custom Wallpaper to your 2014 Honda (Civic & Accord)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/d0AnCAEDZpw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGCQgJCh_MA8=&rs=AOn4CLCVF8hnA69wPHAAtfGGjTPoe1tycg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Changing Car's Screen Wallpaper to Something Cute">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7375402592530074922&location=0&aid=1988' alt='Changing Car's Screen Wallpaper to Something Cute'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7375402592530074922&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Wallpaper Honda Civic | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=6994207234154679558&location=0&aid=1988' alt='Custom Wallpaper Honda Civic | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=6994207234154679558&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I figured out how to change the wallpaper on my Civic's display (x ...">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/an8AwfC.jpg' alt='I figured out how to change the wallpaper on my Civic's display (x ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="936">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://i.imgur.com/an8AwfC.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Honda Civic Type R Live Wallpaper Experience">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7472111974046780694&location=0&aid=1988' alt='Honda Civic Type R Live Wallpaper Experience'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1152">
+                                <meta itemprop="height" content="1760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7472111974046780694&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

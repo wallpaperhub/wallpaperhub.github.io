@@ -1,0 +1,129 @@
+<title>Revamp Your Office with Peel and Stick Wallpaper</title>
+                    <meta name="description" content="Discover the benefits of peel and stick wallpaper for your office. Easy to apply and remove, it offers instant style upgrades without the mess. Choose from various designs to match your decor and boost productivity in a creative workspace. Perfect for renters and DIY enthusiasts alike!">
+                    <meta name="keywords" content="peel and stick wallpaper for office">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/peel-and-stick-wallpaper-for-office">
+                            <span itemprop="name">peel and stick wallpaper for office</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Revamp Your Office with Peel and Stick Wallpaper</h1>
+                <p>Transform your office space effortlessly with peel and stick wallpaper. Ideal for quick makeovers, this removable wallpaper offers a range of designs to suit your style. Easy to apply and remove, it allows you to update your workspace without the hassle of traditional wallpaper. Boost creativity and enhance your environment today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Home Office Makeover With Threshold Removable Wallpaper by ...">
+                                <img itemprop="contentUrl url" src='https://stylebyemilyhenderson.com/wp-content/uploads/2019/02/Tempaper_04-scaled.jpg' alt='A Home Office Makeover With Threshold Removable Wallpaper by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2143">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Emily Henderson" />
+                                </span>
+                                <a href='https://stylebyemilyhenderson.com/wp-content/uploads/2019/02/Tempaper_04-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Home Office Makeover with Peel and Stick Wallpaper – JANUARY HART">
+                                <img itemprop="contentUrl url" src='https://januaryhart.com/wp-content/uploads/2022/07/wallpaper-1b.jpg' alt='Home Office Makeover with Peel and Stick Wallpaper – JANUARY HART'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JANUARY HART" />
+                                </span>
+                                <a href='https://januaryhart.com/wp-content/uploads/2022/07/wallpaper-1b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Swell Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://tempaper.com/cdn/shop/products/SW16018-black-swell-peel-stick-wallpaper-home-office_1800x1800.jpg?v=1724442602' alt='Swell Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='https://tempaper.com/cdn/shop/products/SW16018-black-swell-peel-stick-wallpaper-home-office_1800x1800.jpg?v=1724442602' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toile de Jouy Peel and Stick Wallpaper (Removable)">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/products/toile-de-jouy-peel-and-stick-wallpaper-832406.jpg?v=1718902434' alt='Toile de Jouy Peel and Stick Wallpaper (Removable)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="825">
+                                <meta itemprop="height" content="825">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/products/toile-de-jouy-peel-and-stick-wallpaper-832406.jpg?v=1718902434' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brush Strokes | Removable Wallpaper /peel and Stick/wallpaper/self ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8591869/r/il/41bf29/4701817604/il_570xN.4701817604_m2j4.jpg' alt='Brush Strokes | Removable Wallpaper /peel and Stick/wallpaper/self ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8591869/r/il/41bf29/4701817604/il_570xN.4701817604_m2j4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper in the Office at Modern Farmhouse Glam ...">
+                                <img itemprop="contentUrl url" src='https://modernfarmhouseglam.com/wp-content/uploads/peel-and-stick.png' alt='Peel and Stick Wallpaper in the Office at Modern Farmhouse Glam ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Modern Farmhouse Glam" />
+                                </span>
+                                <a href='https://modernfarmhouseglam.com/wp-content/uploads/peel-and-stick.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper Gold Contact Paper Leaf Wallpaper Boho Leaves Peel  and Stick Wallpaper Self-Adhesive Wallpaper Waterproof Wallpaper for Wall  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81AX6FitYPL._AC_UF894,1000_QL80_.jpg' alt='Peel and Stick Wallpaper Gold Contact Paper Leaf Wallpaper Boho Leaves Peel  and Stick Wallpaper Self-Adhesive Wallpaper Waterproof Wallpaper for Wall  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="893">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81AX6FitYPL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Home Office Makeover With Threshold Removable Wallpaper by ...">
+                                <img itemprop="contentUrl url" src='https://stylebyemilyhenderson.com/wp-content/uploads/2019/02/Tempaper_09.jpg' alt='A Home Office Makeover With Threshold Removable Wallpaper by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1785">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Emily Henderson" />
+                                </span>
+                                <a href='https://stylebyemilyhenderson.com/wp-content/uploads/2019/02/Tempaper_09.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Trail Chinoiserie Peel and Stick Removable Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.sayhomedecor.com/cdn/shop/products/LN21302-D_2000x2000.jpg?v=1649066450' alt='Floral Trail Chinoiserie Peel and Stick Removable Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1599">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Say Decor" />
+                                </span>
+                                <a href='https://www.sayhomedecor.com/cdn/shop/products/LN21302-D_2000x2000.jpg?v=1649066450' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SG10704 Stacy Garcia Home Squared Away Peel & Stick Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://uswalldecor.com/cdn/shop/products/SG10704-C.jpg?v=1632932939&width=1445' alt='SG10704 Stacy Garcia Home Squared Away Peel & Stick Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1313">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='https://uswalldecor.com/cdn/shop/products/SG10704-C.jpg?v=1632932939&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Full Moon iPhone Wallpapers for Your Home Screen</title>
+                    <meta name="description" content="Discover a collection of breathtaking full moon iPhone wallpapers! Ideal for anyone who admires the beauty of the night sky, our high-quality images bring tranquility and charm to your device. Enhance your home screen with the enchanting glow of the moon today!">
+                    <meta name="keywords" content="full moon iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/full-moon-iphone-wallpaper">
+                            <span itemprop="name">full moon iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Full Moon iPhone Wallpapers for Your Home Screen</h1>
+                <p>Transform your device with stunning full moon iPhone wallpapers! Experience the serenity and beauty of the night sky with high-resolution images featuring vibrant colors and intricate details of the moon. Perfect for stargazers and nature lovers, these wallpapers are sure to elevate your home screen aesthetics.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Full Moon Wallpaper Iphone - Live Wallpaper HD">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/a4/47/db/a447db3032a7c3913d742482bc0dbf1d.jpg' alt='Full Moon Wallpaper Iphone - Live Wallpaper HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/a4/47/db/a447db3032a7c3913d742482bc0dbf1d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Full Moon Iphone Dark Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/full-moon-iphone-dark-zerwd0ymuj9j5imo.jpg' alt='Full Moon Iphone Dark Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="507">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/full-moon-iphone-dark-zerwd0ymuj9j5imo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top 30 Free Full Moon iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/be/a9/e0/bea9e0ed725271fc4e1b5750f4c25425.jpg' alt='Top 30 Free Full Moon iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="738">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/be/a9/e0/bea9e0ed725271fc4e1b5750f4c25425.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] The Moon Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/the-moon-iphone-73rahe8qsvl34wy9.jpg' alt='100+] The Moon Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/the-moon-iphone-73rahe8qsvl34wy9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Full Moon Iphone Ios 10 Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/full-moon-iphone-ios-10-d5snay8vxass2xbv.jpg' alt='Full Moon Iphone Ios 10 Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/full-moon-iphone-ios-10-d5snay8vxass2xbv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Most Popular Full Moon Wallpapers">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/iphone/full-moon-over-the-ocean-17-09-2024-1726623722.jpg' alt='Most Popular Full Moon Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="3328">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/iphone/full-moon-over-the-ocean-17-09-2024-1726623722.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Xs Moon Wallpapers - Wallpaper Cave E36">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/fe/a4/f1/fea4f145d80e610b03f17facd08e05a5.jpg' alt='Iphone Xs Moon Wallpapers - Wallpaper Cave E36'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="1025">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/fe/a4/f1/fea4f145d80e610b03f17facd08e05a5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] The Moon Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/the-moon-iphone-gqaz6pc4pjrumo4y.jpg' alt='100+] The Moon Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/the-moon-iphone-gqaz6pc4pjrumo4y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Full moon Wallpaper 4K, Forest, Night, Dark, Starry sky">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/full-moon-forest-night-dark-starry-sky-5k-8k-1290x2796-1684.jpg' alt='Full moon Wallpaper 4K, Forest, Night, Dark, Starry sky'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1290">
+                                <meta itemprop="height" content="2796">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/full-moon-forest-night-dark-starry-sky-5k-8k-1290x2796-1684.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Full Moon iPhone Wallpaper, iPhone Wallpaper, iPhone Lock Screen ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38891141/r/il/88e147/4531473323/il_fullxfull.4531473323_qk3r.jpg' alt='Full Moon iPhone Wallpaper, iPhone Wallpaper, iPhone Lock Screen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38891141/r/il/88e147/4531473323/il_fullxfull.4531473323_qk3r.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

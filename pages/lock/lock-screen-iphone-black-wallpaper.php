@@ -1,0 +1,129 @@
+<title>Stunning Black Wallpapers for Your iPhone Lock Screen</title>
+                    <meta name="description" content="Discover a collection of captivating black wallpapers for your iPhone lock screen. Elevate your device’s aesthetic while making your app icons stand out. Browse and choose the ideal design that complements your style effortlessly!">
+                    <meta name="keywords" content="lock screen iphone black wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock">
+                            <span itemprop="name">Lock</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock/lock-screen-iphone-black-wallpaper">
+                            <span itemprop="name">lock screen iphone black wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Black Wallpapers for Your iPhone Lock Screen</h1>
+                <p>Looking for the perfect lock screen wallpaper for your iPhone? A sleek black wallpaper not only enhances the elegance of your device but also makes icons pop. Choose from various designs, whether you prefer minimalistic patterns or vibrant graphics. Transform your iPhone's look with a stylish black wallpaper today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Aesthetic Lockscreen Wallpaper 4k | iPhone Wallpapers in ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/5f/6a/3b/5f6a3b8ddf9d93e3a15432d60f746512.jpg' alt='Black Aesthetic Lockscreen Wallpaper 4k | iPhone Wallpapers in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/5f/6a/3b/5f6a3b8ddf9d93e3a15432d60f746512.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black lock screen 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/76/782/HD-wallpaper-black-aesthetic-iphone-lock-screen-2022-black-and-white-android.jpg' alt='Black lock screen 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/76/782/HD-wallpaper-black-aesthetic-iphone-lock-screen-2022-black-and-white-android.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Lock Screen Prisoner In Dark Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/cool-lock-screen-prisoner-in-dark-bfrazigrxgc5ksd8.jpg' alt='Cool Lock Screen Prisoner In Dark Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/cool-lock-screen-prisoner-in-dark-bfrazigrxgc5ksd8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Ästhetische Lock Screen Schwarz Tapeten ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6b/52/a9/6b52a9b8db93d88f717cc41a968173fc.jpg' alt='Iphone Ästhetische Lock Screen Schwarz Tapeten ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1438">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6b/52/a9/6b52a9b8db93d88f717cc41a968173fc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="live wallpaper turns into a black screen - Apple Community">
+                                <img itemprop="contentUrl url" src='https://discussions.apple.com/content/attachment/0840850f-d0af-45b5-8a61-e788b9c317e9' alt='live wallpaper turns into a black screen - Apple Community'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Support Community" />
+                                </span>
+                                <a href='https://discussions.apple.com/content/attachment/0840850f-d0af-45b5-8a61-e788b9c317e9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Rock iPhone Lock Screen Wallpaper | 4K">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/phone/images/640/black-rock.png' alt='Black Rock iPhone Lock Screen Wallpaper | 4K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/phone/images/640/black-rock.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone, black, desenho, gold, lock screen, paint, screen, top ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/526/998/HD-wallpaper-iphone-black-design-gold-lock-screen-paint-screen-top-yellow.jpg' alt='Iphone, black, desenho, gold, lock screen, paint, screen, top ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/526/998/HD-wallpaper-iphone-black-design-gold-lock-screen-paint-screen-top-yellow.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Lock Screen Fingerprint Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/cool-lock-screen-fingerprint-9ftsxkszhqlyce90.webp' alt='Cool Lock Screen Fingerprint Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/cool-lock-screen-fingerprint-9ftsxkszhqlyce90.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hand art lockscreen | Black wallpaper, Iphone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/70/f4/93/70f49353ef1c86460faada1163f19ca5.jpg' alt='Hand art lockscreen | Black wallpaper, Iphone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/70/f4/93/70f49353ef1c86460faada1163f19ca5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Lock Screen/Wallpaper - Apple Community">
+                                <img itemprop="contentUrl url" src='https://discussions.apple.com/content/attachment/03149098-c132-4d7d-98b3-d9c8629aa131' alt='Black Lock Screen/Wallpaper - Apple Community'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Support Community" />
+                                </span>
+                                <a href='https://discussions.apple.com/content/attachment/03149098-c132-4d7d-98b3-d9c8629aa131' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

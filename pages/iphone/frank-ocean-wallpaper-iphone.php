@@ -1,0 +1,129 @@
+<title>Stunning Frank Ocean Wallpapers for Your iPhone</title>
+                    <meta name="description" content="Explore a handpicked collection of Frank Ocean wallpapers for your iPhone. Perfectly designed to enhance your device's look, these unique wallpapers reflect his artistic vibe. Download now to make your iPhone stand out with style and creativity!">
+                    <meta name="keywords" content="frank ocean wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/frank-ocean-wallpaper-iphone">
+                            <span itemprop="name">frank ocean wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Frank Ocean Wallpapers for Your iPhone</h1>
+                <p>Discover stunning Frank Ocean wallpapers for your iPhone! Transform your device's aesthetic with vibrant images that capture the essence of his artistry. Whether you're a fan of his music or his unique style, these wallpapers will add a touch of sophistication and creativity to your home screen. Get your favorite look today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="can anyone make this fit an iphone x lock screen?? : r/FrankOcean">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/onll0h83ph731.jpg' alt='can anyone make this fit an iphone x lock screen?? : r/FrankOcean'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1458">
+                                <meta itemprop="height" content="2592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/onll0h83ph731.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Extended this Frank Ocean wallpaper to make it fit for the new iOS ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/gnir29f2kvn91.jpg' alt='Extended this Frank Ocean wallpaper to make it fit for the new iOS ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="8000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/gnir29f2kvn91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Frank Ocean iPhone Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6e/e6/50/6ee6505a8d21072337214a4694b78e2d.jpg' alt='Awesome Frank Ocean iPhone Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1186">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6e/e6/50/6ee6505a8d21072337214a4694b78e2d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CM Designs on X: "Frank Ocean Blonde (Japanese Aesthetic iPhone ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FCQwQQSWYAkA-uR?format=jpg&name=4096x4096' alt='CM Designs on X: "Frank Ocean Blonde (Japanese Aesthetic iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FCQwQQSWYAkA-uR?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Couple of wallpapers I made to work with iOS 16 : r/FrankOcean">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/8h2ro1cvq2p91.jpg' alt='Couple of wallpapers I made to work with iOS 16 : r/FrankOcean'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/8h2ro1cvq2p91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Frank Ocean Blond Mobile Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/vintage-frank-ocean-blond-mobile-zb7x3akv5kgig09r.jpg' alt='Vintage Frank Ocean Blond Mobile Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/vintage-frank-ocean-blond-mobile-zb7x3akv5kgig09r.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made This For My New Iphone XS Wallpaper : r/FrankOcean">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/pdwmduh91ap11.jpg' alt='Made This For My New Iphone XS Wallpaper : r/FrankOcean'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/pdwmduh91ap11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frank Ocean Blond, 2016, frank ocean, odd future, rnb, soul, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/144/8/HD-wallpaper-frank-ocean-blond-2016-frank-ocean-odd-future-rnb-soul.jpg' alt='Frank Ocean Blond, 2016, frank ocean, odd future, rnb, soul, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/144/8/HD-wallpaper-frank-ocean-blond-2016-frank-ocean-odd-future-rnb-soul.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Frank Ocean iPhone Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bc/a9/32/bca9329be46373f163a6319097094070.jpg' alt='Awesome Frank Ocean iPhone Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bc/a9/32/bca9329be46373f163a6319097094070.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frank Ocean wall, aesthetic, blond, blonde, frank ocean, music, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/254/753/HD-wallpaper-frank-ocean-wall-aesthetic-blond-blonde-frank-ocean-music.jpg' alt='Frank Ocean wall, aesthetic, blond, blonde, frank ocean, music, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/254/753/HD-wallpaper-frank-ocean-wall-aesthetic-blond-blonde-frank-ocean-music.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Pusheen Cat Wallpapers: Cute & Fun Designs for Your Devices</title>
+                    <meta name="description" content="Discover a delightful collection of Pusheen cat wallpapers! Perfect for cat lovers, these charming designs will brighten your device and showcase your love for this iconic character. Easily download and personalize your screen with vibrant Pusheen themes today!">
+                    <meta name="keywords" content="wallpaper pusheen cat">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cat">
+                            <span itemprop="name">Cat</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cat/wallpaper-pusheen-cat">
+                            <span itemprop="name">wallpaper pusheen cat</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Pusheen Cat Wallpapers: Cute & Fun Designs for Your Devices</h1>
+                <p>Enhance your digital space with adorable Pusheen cat wallpapers! Perfect for cat lovers, these vibrant and playful designs bring joy to your devices, whether it's for your phone, tablet, or computer. Choose from various styles featuring Pusheen in fun activities and seasonal themes to express your love for this charming character.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pusheen : Pusheen Zoom Backgrounds">
+                                <img itemprop="contentUrl url" src='https://pusheen.com/wp-content/uploads/2020/06/Pusheen_Zoom_Background_Campfire_2020.jpg' alt='Pusheen : Pusheen Zoom Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pusheen" />
+                                </span>
+                                <a href='https://pusheen.com/wp-content/uploads/2020/06/Pusheen_Zoom_Background_Campfire_2020.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pusheen : Pusheen Zoom Backgrounds">
+                                <img itemprop="contentUrl url" src='https://pusheen.com/wp-content/uploads/2020/06/Pusheen_Zoom_Backgrounds_room_2020.jpg' alt='Pusheen : Pusheen Zoom Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pusheen" />
+                                </span>
+                                <a href='https://pusheen.com/wp-content/uploads/2020/06/Pusheen_Zoom_Backgrounds_room_2020.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pusheen Wallpaper - NawPic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/24/42/79/244279ce2f254cdec5cbb9395fae01ef.jpg' alt='Pusheen Wallpaper - NawPic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1369">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/24/42/79/244279ce2f254cdec5cbb9395fae01ef.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Pusheen Cat Desktop Wallpapers on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/88/96/47/889647fb80c8599c58d6cd8c39d2d668.jpg' alt='   Pusheen Cat Desktop Wallpapers on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/88/96/47/889647fb80c8599c58d6cd8c39d2d668.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Soft and Adorable Pusheen the Cat Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pusheen-kawaii-s1bb3sow423db4ic.jpg' alt='Download Soft and Adorable Pusheen the Cat Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pusheen-kawaii-s1bb3sow423db4ic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pusheen Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-kawaii-pusheen-cat-gamer-9isn5b056dwmemes.jpg' alt='Pusheen Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-kawaii-pusheen-cat-gamer-9isn5b056dwmemes.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900+ Pusheen Wallpapers ideas | pusheen, pusheen cat, pusheen cute">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/2d/f1/18/2df118a9a333b929648fb303a4282aa4.jpg' alt='900+ Pusheen Wallpapers ideas | pusheen, pusheen cat, pusheen cute'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="948">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/2d/f1/18/2df118a9a333b929648fb303a4282aa4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pusheen : Pusheen Zoom Backgrounds">
+                                <img itemprop="contentUrl url" src='https://pusheen.com/wp-content/uploads/2020/06/Pusheen_Zoom_Background_Fruit_Pattern_Full_2020.jpg' alt='Pusheen : Pusheen Zoom Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pusheen" />
+                                </span>
+                                <a href='https://pusheen.com/wp-content/uploads/2020/06/Pusheen_Zoom_Background_Fruit_Pattern_Full_2020.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD pusheen wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/246/575/HD-wallpaper-pusheen-cute-cute-cat-cute-cats-pusheen-the-cat.jpg' alt='HD pusheen wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/246/575/HD-wallpaper-pusheen-cute-cute-cat-cute-cats-pusheen-the-cat.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pusheen Hearts & Stars Pattern Wallpaper - Kawaii Hoshi">
+                                <img itemprop="contentUrl url" src='https://kawaiihoshi.com/wp-content/uploads/2022/09/pusheen-the-cat-hd-wallpapers-pattern-kawaii-hoshi-1536x864.png' alt='Pusheen Hearts & Stars Pattern Wallpaper - Kawaii Hoshi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kawaii Hoshi" />
+                                </span>
+                                <a href='https://kawaiihoshi.com/wp-content/uploads/2022/09/pusheen-the-cat-hd-wallpapers-pattern-kawaii-hoshi-1536x864.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

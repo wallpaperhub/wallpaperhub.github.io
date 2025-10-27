@@ -1,0 +1,129 @@
+<title>Goodbye Image: Capturing Farewells Beautifully</title>
+                    <meta name="description" content="Discover the power of goodbye images that encapsulate moments of parting. These visuals evoke emotion while marking significant transitions, serving as poignant reminders of memories and farewells. Explore how images can speak volumes in times of change. Perfect for sharing on social media!">
+                    <meta name="keywords" content="good bye image">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/good-bye-image">
+                            <span itemprop="name">good bye image</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Goodbye Image: Capturing Farewells Beautifully</h1>
+                <p>A "goodbye image" captures the poignant moment of parting, serving as a visual farewell that resonates with emotions. These images can represent transitions, memories, or final moments, evoking nostalgia and reflection. Whether it's a symbol of farewell in relationships or life stages, a goodbye image leaves a lasting impression.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10,000+ Free Good Bye & Bye Images - Pixabay">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2016/06/02/03/30/good-bye-1430149_1280.png' alt='10,000+ Free Good Bye & Bye Images - Pixabay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2016/06/02/03/30/good-bye-1430149_1280.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goodbye word hi-res stock photography and images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/EAFB77/goodbye-word-nature-on-blue-sky-inside-love-heart-cloud-form-EAFB77.jpg' alt='Goodbye word hi-res stock photography and images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/EAFB77/goodbye-word-nature-on-blue-sky-inside-love-heart-cloud-form-EAFB77.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goodbye Images – Browse 176,390 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/90/27/14/360_F_290271485_mvECZ6dszPQGJpqx4F3H2UszWjWZjVXL.jpg' alt='Goodbye Images – Browse 176,390 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/90/27/14/360_F_290271485_mvECZ6dszPQGJpqx4F3H2UszWjWZjVXL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goodbye Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-drawn-farewell-lettering-background_23-2149938822.jpg' alt='Goodbye Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-drawn-farewell-lettering-background_23-2149938822.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Good Bye Stock Photos and Pictures - 14,593 Images | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/good-bye-lettering-handwritten-modern-260nw-1538196005.jpg' alt='Good Bye Stock Photos and Pictures - 14,593 Images | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="433">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/good-bye-lettering-handwritten-modern-260nw-1538196005.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goodbye Stock Photos, Royalty Free Goodbye Images | Depositphotos">
+                                <img itemprop="contentUrl url" src='https://st2.depositphotos.com/3837271/8402/i/450/depositphotos_84026352-stock-photo-goodbye-on-desert-road.jpg' alt='Goodbye Stock Photos, Royalty Free Goodbye Images | Depositphotos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://st2.depositphotos.com/3837271/8402/i/450/depositphotos_84026352-stock-photo-goodbye-on-desert-road.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goodbye Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/001/762/687/small_2x/good-bye-text-continuous-one-line-drawing-vector.jpg' alt='Goodbye Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/001/762/687/small_2x/good-bye-text-continuous-one-line-drawing-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Good Bye Images – Browse 28,131 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/76/80/75/360_F_376807591_83ALwW6MkcWtKgyv97ieFeZtHXATkDJj.jpg' alt='Good Bye Images – Browse 28,131 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="662">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/76/80/75/360_F_376807591_83ALwW6MkcWtKgyv97ieFeZtHXATkDJj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goodbye Clipart Images | Free Download | PNG Transparent ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20201208/original/pngtree-cartoon-creative-hand-drawn-emoticon-pack-picture-goodbye-png-image_5506250.jpg' alt='Goodbye Clipart Images | Free Download | PNG Transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20201208/original/pngtree-cartoon-creative-hand-drawn-emoticon-pack-picture-goodbye-png-image_5506250.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Good Bye Says Stock Photos and Pictures - 3,023 Images | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/1050156422/display_1500/stock-vector-goodbye-and-good-luck-vector-lettering-1050156422.jpg' alt='Good Bye Says Stock Photos and Pictures - 3,023 Images | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/1050156422/display_1500/stock-vector-goodbye-and-good-luck-vector-lettering-1050156422.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

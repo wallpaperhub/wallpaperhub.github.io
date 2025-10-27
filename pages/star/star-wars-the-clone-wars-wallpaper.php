@@ -1,0 +1,129 @@
+<title>Stunning Star Wars: The Clone Wars Wallpapers</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="star wars the clone wars wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star">
+                            <span itemprop="name">Star</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star/star-wars-the-clone-wars-wallpaper">
+                            <span itemprop="name">star wars the clone wars wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Star Wars: The Clone Wars Wallpapers</h1>
+                <p>Transform your device with stunning "Star Wars: The Clone Wars" wallpapers! Featuring iconic characters like Anakin Skywalker, Ahsoka Tano, and Obi-Wan Kenobi, these dynamic images bring the epic saga to life. Perfect for fans seeking immersive backgrounds that celebrate the action and artistry of this beloved series!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I couldn't find a decent looking textless version of the Clone ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/p1e19bzc3qr81.png?width=640&crop=smart&auto=webp&s=796885701eca84beb9228a977fce235b6b5ea14c' alt='I couldn't find a decent looking textless version of the Clone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/p1e19bzc3qr81.png?width=640&crop=smart&auto=webp&s=796885701eca84beb9228a977fce235b6b5ea14c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Making custom wallpapers for Clone Wars every day: day 9 : r/StarWars">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/4cji6fn1wp151.jpg' alt='Making custom wallpapers for Clone Wars every day: day 9 : r/StarWars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="806">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/4cji6fn1wp151.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Clone Wars Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/clone-wars-tea2o6zhs9afzc30.jpg' alt='100+] Clone Wars Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/clone-wars-tea2o6zhs9afzc30.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The clones , i did this wallpaper inspired by the bf 2 helmets ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/the-clones-i-did-this-wallpaper-inspired-by-the-bf-2-v0-075f4z5yf1xb1.jpg?width=640&crop=smart&auto=webp&s=022230f2b373b8f2ac2dc4f2c2cf6bc4c5c74673' alt='The clones , i did this wallpaper inspired by the bf 2 helmets ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/the-clones-i-did-this-wallpaper-inspired-by-the-bf-2-v0-075f4z5yf1xb1.jpg?width=640&crop=smart&auto=webp&s=022230f2b373b8f2ac2dc4f2c2cf6bc4c5c74673' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Lightsaber Darth Maul Ahsoka Tano Obi-Wan Kenobi Anakin ...">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/111/1118729.jpg' alt='Download Lightsaber Darth Maul Ahsoka Tano Obi-Wan Kenobi Anakin ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2364">
+                                <meta itemprop="height" content="1330">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/111/1118729.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/18/78/c7/1878c7fc0a54ddcaf81a959ffa2894d5.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/18/78/c7/1878c7fc0a54ddcaf81a959ffa2894d5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download TV Show Star Wars: The Clone Wars (2008) HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/112/1121348.jpg' alt='Download TV Show Star Wars: The Clone Wars (2008) HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/112/1121348.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Iphone 6 Plus Clone Wars Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/star-wars-iphone-6-plus-clone-wars-3z2q364p88yixj0w.jpg' alt='Star Wars Iphone 6 Plus Clone Wars Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/star-wars-iphone-6-plus-clone-wars-3z2q364p88yixj0w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Captain Rex, clone wars, star wars, HD phone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/dd/54/08/dd54082441158fb6bed72da7276296a5.jpg' alt='Captain Rex, clone wars, star wars, HD phone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/dd/54/08/dd54082441158fb6bed72da7276296a5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars The Clone Wars, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/967/725/HD-wallpaper-star-wars-the-clone-wars.jpg' alt='Star Wars The Clone Wars, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/967/725/HD-wallpaper-star-wars-the-clone-wars.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

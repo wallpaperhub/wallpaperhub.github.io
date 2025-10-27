@@ -1,0 +1,129 @@
+<title>Lionel Messi: Amazing Facts About the Football Legend</title>
+                    <meta name="description" content="Discover amazing facts about Lionel Messi, one of the greatest football players in history. From his record-breaking goals to his early career with Barcelona, explore the life and achievements of this legendary athlete.">
+                    <meta name="keywords" content="lionel messi facts">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lionel-messi-facts">
+                            <span itemprop="name">lionel messi facts</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Lionel Messi: Amazing Facts About the Football Legend</h1>
+                <p>Lionel Messi, born on June 24, 1987, in Rosario, Argentina, is widely regarded as one of the greatest footballers of all time. He joined FC Barcelona at just 13, where he scored over 600 goals. Messi has won multiple Ballon d'Or awards, and his dribbling skills and vision on the pitch are unparalleled. He now plays for Paris Saint-Germain.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13 fun facts about Lionel Messi | Goal.com US">
+                                <img itemprop="contentUrl url" src='https://assets.goal.com/images/v3/blt125e484a1e1964f1/Did_You_Know_Messi.jpg' alt='13 fun facts about Lionel Messi | Goal.com US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Goal.com" />
+                                </span>
+                                <a href='https://assets.goal.com/images/v3/blt125e484a1e1964f1/Did_You_Know_Messi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Facts You Didn't Know about Messi: 100+ Essential Facts, Fun  trivia & Interesting Stories About Lionel Messi for Soccer Fans: ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61QjWed4BRL._AC_UF1000,1000_QL80_.jpg' alt='Amazon.com: Facts You Didn't Know about Messi: 100+ Essential Facts, Fun  trivia & Interesting Stories About Lionel Messi for Soccer Fans: ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61QjWed4BRL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here are some facts about Leo Messi - The Football Arena | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2119123261643091' alt='Here are some facts about Leo Messi - The Football Arena | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1379">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2119123261643091' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lionel Messi | Biography, Trophies, Records, Ballon d'Or, Inter ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/35/238335-050-2CB2EB8A/Lionel-Messi-Argentina-Netherlands-World-Cup-Qatar-2022.jpg' alt='Lionel Messi | Biography, Trophies, Records, Ballon d'Or, Inter ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1126">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/35/238335-050-2CB2EB8A/Lionel-Messi-Argentina-Netherlands-World-Cup-Qatar-2022.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Superhuman Lionel Messi facts that you won't believe! – talkSPORT ...">
+                                <img itemprop="contentUrl url" src='https://talksport.com/wp-content/uploads/sites/5/2012/04/messi_1.jpg?strip=all&w=700&h=420&crop=1' alt='Superhuman Lionel Messi facts that you won't believe! – talkSPORT ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="talkSPORT" />
+                                </span>
+                                <a href='https://talksport.com/wp-content/uploads/sites/5/2012/04/messi_1.jpg?strip=all&w=700&h=420&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4 Facts About Lionel Messi | Football Facts">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0b/9d/26/0b9d2656255436ac265b448714a3c895.jpg' alt='4 Facts About Lionel Messi | Football Facts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0b/9d/26/0b9d2656255436ac265b448714a3c895.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lionel Messi - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/b/b4/Lionel-Messi-Argentina-2022-FIFA-World-Cup_%28cropped%29.jpg' alt='Lionel Messi - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="364">
+                                <meta itemprop="height" content="486">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/b/b4/Lionel-Messi-Argentina-2022-FIFA-World-Cup_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Striking Facts About Lionel Messi - Factinate">
+                                <img itemprop="contentUrl url" src='https://www.factinate.com/storage/app/media/factinate/2017/10/messi-OG1.jpg' alt='Striking Facts About Lionel Messi - Factinate'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="627">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Factinate" />
+                                </span>
+                                <a href='https://www.factinate.com/storage/app/media/factinate/2017/10/messi-OG1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Ultimate Book of Leo Messi Facts for Kids: Inspirational short stories,  little known facts, and trivia questions about the world's best, "La ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/S/aplus-media/kdp/f59355bc-21d6-4791-b396-9bf5ab9f92aa.__CR0,0,970,600_PT0_SX970_V1___.png' alt='The Ultimate Book of Leo Messi Facts for Kids: Inspirational short stories,  little known facts, and trivia questions about the world's best, "La ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="970">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/S/aplus-media/kdp/f59355bc-21d6-4791-b396-9bf5ab9f92aa.__CR0,0,970,600_PT0_SX970_V1___.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13 fun facts about Lionel Messi | Goal.com US">
+                                <img itemprop="contentUrl url" src='https://assets.goal.com/images/v3/blt321d662dc0063325/64a734450076eb42cf8cd97eb52abd89d00f5482.jpeg?auto=webp&format=pjpg&width=3840&quality=60' alt='13 fun facts about Lionel Messi | Goal.com US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Goal.com" />
+                                </span>
+                                <a href='https://assets.goal.com/images/v3/blt321d662dc0063325/64a734450076eb42cf8cd97eb52abd89d00f5482.jpeg?auto=webp&format=pjpg&width=3840&quality=60' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

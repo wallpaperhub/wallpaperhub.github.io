@@ -1,0 +1,129 @@
+<title>Illuminate Your Space: Discover the Benefits of LED Lights</title>
+                    <meta name="description" content="Explore the advantages of LED lights, energy-efficient solutions that save money and reduce your carbon footprint. Discover a variety of styles to fit your needs and brighten any environment—perfect for both indoor and outdoor spaces!">
+                    <meta name="keywords" content="led lights">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/led-lights">
+                            <span itemprop="name">led lights</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Illuminate Your Space: Discover the Benefits of LED Lights</h1>
+                <p>LED lights are energy-efficient lighting solutions that offer bright illumination with lower power consumption. They are durable, long-lasting, and available in various colors and designs to enhance any space. Ideal for homes, offices, and outdoor areas, LED lights not only reduce electricity bills but also minimize environmental impact.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Led Lights for Bedroom 100 ft (2 Rolls of 50ft) Music Sync Color Changing  RGB Led Strip Lights with Remote App Control Bluetooth Led Strip, Led  Lights ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/815sBbUN7LL._AC_UF894,1000_QL80_.jpg' alt='Led Lights for Bedroom 100 ft (2 Rolls of 50ft) Music Sync Color Changing  RGB Led Strip Lights with Remote App Control Bluetooth Led Strip, Led  Lights ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="893">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/815sBbUN7LL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DAYBETTER Led Strip Lights, 100ft Light Strips with App Control Remote,RGB  Led Lights for Bedroom, Music Sync Color Changing Lights for Room Party">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/1573ed5c-5661-4aad-a62f-1b10207ccfad.5e78385be3c21caf59a09d390e8896d8.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='DAYBETTER Led Strip Lights, 100ft Light Strips with App Control Remote,RGB  Led Lights for Bedroom, Music Sync Color Changing Lights for Room Party'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/1573ed5c-5661-4aad-a62f-1b10207ccfad.5e78385be3c21caf59a09d390e8896d8.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: HBOWMDJIA 100ft Led Lights for Bedroom, Led Strip Lights Music  Sync Corlor Changing, Led Light Strip with Remote & App Control RGB Strip,  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81pg4Ub2f9L.jpg' alt='Amazon.com: HBOWMDJIA 100ft Led Lights for Bedroom, Led Strip Lights Music  Sync Corlor Changing, Led Light Strip with Remote & App Control RGB Strip,  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81pg4Ub2f9L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DAYBETTER 5V Led Lights for Bedroom Music Sync Color Changing LED Strip  Lights with Remote and App Control 5050 RGB LED Strip, LED Lights for Room  ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/DAYBETTER-5V-Led-Lights-Bedroom-Music-Sync-Color-Changing-LED-Strip-Lights-Remote-App-Control-5050-RGB-LED-Strip-LED-Lights-Room-Home-Party-Decoratio_1e45c676-c77f-4568-862c-03d66a4fd116.881a641045e5bca6bd7dfca9dfaf42d2.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='DAYBETTER 5V Led Lights for Bedroom Music Sync Color Changing LED Strip  Lights with Remote and App Control 5050 RGB LED Strip, LED Lights for Room  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/DAYBETTER-5V-Led-Lights-Bedroom-Music-Sync-Color-Changing-LED-Strip-Lights-Remote-App-Control-5050-RGB-LED-Strip-LED-Lights-Room-Home-Party-Decoratio_1e45c676-c77f-4568-862c-03d66a4fd116.881a641045e5bca6bd7dfca9dfaf42d2.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LED Light Strip (Remote Controlled)">
+                                <img itemprop="contentUrl url" src='https://roomtery.com/cdn/shop/files/led-strip-tape-light-remote-controll-aesthetic-room-decor-roomtery123.jpg?v=1728294417&width=1946' alt='LED Light Strip (Remote Controlled)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="roomtery" />
+                                </span>
+                                <a href='https://roomtery.com/cdn/shop/files/led-strip-tape-light-remote-controll-aesthetic-room-decor-roomtery123.jpg?v=1728294417&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Deep Blue 445nm Actinic 100 lumens/ft LED Light Strip">
+                                <img itemprop="contentUrl url" src='http://21ledusa.com/cdn/shop/products/non_waterproof_SMD_3528_LED_strip_120_LEDs_per_meter_blue_light_c2c252b8-609c-4c47-a437-e655aa3e7fc4.jpg?v=1640188483' alt='Deep Blue 445nm Actinic 100 lumens/ft LED Light Strip'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="21 LED" />
+                                </span>
+                                <a href='http://21ledusa.com/cdn/shop/products/non_waterproof_SMD_3528_LED_strip_120_LEDs_per_meter_blue_light_c2c252b8-609c-4c47-a437-e655aa3e7fc4.jpg?v=1640188483' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flashing 3mm Square LEDs Color: Select Color / Voltage: Select Voltage /  Wire Length: 8 inch">
+                                <img itemprop="contentUrl url" src='http://evandesigns.com/cdn/shop/products/SQUARE_LED.png?v=1671489036' alt='Flashing 3mm Square LEDs Color: Select Color / Voltage: Select Voltage /  Wire Length: 8 inch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Evan Designs" />
+                                </span>
+                                <a href='http://evandesigns.com/cdn/shop/products/SQUARE_LED.png?v=1671489036' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DAYBETTER Led Strip Lights 100 ft Smart with App Remote Control, 5050 RGB  for Bedroom, Living Room, Home Decoration, Music Sync Color Changing for ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81QQT1CQqfL._AC_UF894,1000_QL80_.jpg' alt='DAYBETTER Led Strip Lights 100 ft Smart with App Remote Control, 5050 RGB  for Bedroom, Living Room, Home Decoration, Music Sync Color Changing for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81QQT1CQqfL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="33 Foot - Plug in LED Fairy Lights- 100 Blue Micro LED Lights on ...">
+                                <img itemprop="contentUrl url" src='https://hometownevolutioninc.com/wp-content/uploads/2019/04/Fairy_Lights_Blue_Final2.jpg' alt='33 Foot - Plug in LED Fairy Lights- 100 Blue Micro LED Lights on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hometown Evolution Inc." />
+                                </span>
+                                <a href='https://hometownevolutioninc.com/wp-content/uploads/2019/04/Fairy_Lights_Blue_Final2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Squiggle Neon Rope LED Lights">
+                                <img itemprop="contentUrl url" src='https://roomtery.com/cdn/shop/products/squiggle-neon-rope-led-lights-flexible-rgb-strip-roomtery1.jpg?v=1710773289&width=1946' alt='Squiggle Neon Rope LED Lights'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="roomtery" />
+                                </span>
+                                <a href='https://roomtery.com/cdn/shop/products/squiggle-neon-rope-led-lights-flexible-rgb-strip-roomtery1.jpg?v=1710773289&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

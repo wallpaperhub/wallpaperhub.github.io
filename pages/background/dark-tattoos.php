@@ -1,0 +1,129 @@
+<title>Ultimate Guide to Dark Tattoos: Edgy Designs & Meanings</title>
+                    <meta name="description" content="Explore the captivating world of dark tattoos. Discover unique designs, meanings, and styles that express individuality and rebellion. Ideal for those seeking edgy ink that resonates with deep personal narratives. Dive into our ultimate guide for inspiration!">
+                    <meta name="keywords" content="dark tattoos">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dark-tattoos">
+                            <span itemprop="name">dark tattoos</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ultimate Guide to Dark Tattoos: Edgy Designs & Meanings</h1>
+                <p>Dark tattoos often embody themes of mystery, power, and rebellion. Their intricate designs can include elements like skulls, dragons, and gothic symbols, appealing to those who embrace the edgy and alternative. These tattoos invite deeper meanings and reflect individual narratives, making each piece a unique work of art and self-expression.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Impressed Blackwork Temporary Tattoos for Adults - Grunge  Gothic Large Fake Tats for Men - Dark Art Horror Custom Ink for Teens -  Dragon, ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91rHL0VKLaL.jpg' alt='Amazon.com : Impressed Blackwork Temporary Tattoos for Adults - Grunge  Gothic Large Fake Tats for Men - Dark Art Horror Custom Ink for Teens -  Dragon, ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2493">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91rHL0VKLaL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The dark and macabre tattoos of Robert Shteinberg, an expression ...">
+                                <img itemprop="contentUrl url" src='https://www.tattoolife.com/wp-content/uploads/2023/12/09_Tattoo-by-@robertattoo23cm.jpeg' alt='The dark and macabre tattoos of Robert Shteinberg, an expression ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1160">
+                                <meta itemprop="height" content="1740">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tattoo Life" />
+                                </span>
+                                <a href='https://www.tattoolife.com/wp-content/uploads/2023/12/09_Tattoo-by-@robertattoo23cm.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark art - Innervisionstattoo.com">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/2ffc1e_4cc5f3a0db6a47a190d6e9ad2b138ef7~mv2.jpg/v1/fill/w_568,h_966,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2ffc1e_4cc5f3a0db6a47a190d6e9ad2b138ef7~mv2.jpg' alt='Dark art - Innervisionstattoo.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="568">
+                                <meta itemprop="height" content="966">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Inner Visions Tattoo" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/2ffc1e_4cc5f3a0db6a47a190d6e9ad2b138ef7~mv2.jpg/v1/fill/w_568,h_966,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/2ffc1e_4cc5f3a0db6a47a190d6e9ad2b138ef7~mv2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark and Grim full arm tattoo   Almost completely healed sleeve ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3210581639372564316' alt='Dark and Grim full arm tattoo   Almost completely healed sleeve ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3210581639372564316' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The dark and macabre tattoos of Robert Shteinberg, an expression ...">
+                                <img itemprop="contentUrl url" src='https://www.tattoolife.com/wp-content/uploads/2023/12/07_Tattoo-by-@robertattoo23cm.jpeg' alt='The dark and macabre tattoos of Robert Shteinberg, an expression ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1160">
+                                <meta itemprop="height" content="1711">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tattoo Life" />
+                                </span>
+                                <a href='https://www.tattoolife.com/wp-content/uploads/2023/12/07_Tattoo-by-@robertattoo23cm.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Stunning Dark Tattoo Inspirations You Need Right Now">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1b/02/67/1b0267b353a6044fdd799a66083d3301.jpg' alt='7 Stunning Dark Tattoo Inspirations You Need Right Now'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1b/02/67/1b0267b353a6044fdd799a66083d3301.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How will these dark horror style tattoos age? Afraid they might ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/lf4cxoc2veq91.jpg?width=640&crop=smart&auto=webp&s=1ddda3ad08696b339630af4f9142ed85a4e523d8' alt='How will these dark horror style tattoos age? Afraid they might ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/lf4cxoc2veq91.jpg?width=640&crop=smart&auto=webp&s=1ddda3ad08696b339630af4f9142ed85a4e523d8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Tattoos Tattoo Master Files">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/b0/4a/2b/b04a2b9c7f5001b837ae09d3f932f9a2.jpg' alt='Dark Tattoos Tattoo Master Files'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/b0/4a/2b/b04a2b9c7f5001b837ae09d3f932f9a2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A bunch of dark art tattoos I've done of late. I love tattooing ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3409622025265229088' alt='A bunch of dark art tattoos I've done of late. I love tattooing ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3409622025265229088' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sick dark tattoos by @deranhall from... - Tattoo Realistic | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2064023923829444' alt='Sick dark tattoos by @deranhall from... - Tattoo Realistic | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2064023923829444' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

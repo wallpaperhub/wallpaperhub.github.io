@@ -1,0 +1,129 @@
+<title>Stunning Moving Forest Backgrounds for Your Projects</title>
+                    <meta name="description" content="Discover beautiful moving forest backgrounds that transform your projects. Experience a serene atmosphere with swaying trees and dappled sunlight, perfect for relaxation or creative inspiration. Enhance your visuals with dynamic nature scenes that captivate and engage your audience.">
+                    <meta name="keywords" content="moving forest background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/moving-forest-background">
+                            <span itemprop="name">moving forest background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Moving Forest Backgrounds for Your Projects</h1>
+                <p>A moving forest background evokes a sense of tranquility and connection with nature. The gentle sway of trees, dappled sunlight filtering through leaves, and the sound of rustling branches create a serene atmosphere. This immersive backdrop is perfect for enhancing visual projects, promoting relaxation, or inspiring creativity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AI generated A mystical forest blanketed in morning mist and dappled  sunlight. Seamless looping 4k time-lapse virtual video animation background">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/038/997/966/small_2x/ai-generated-a-mystical-forest-blanketed-in-morning-mist-and-dappled-sunlight-seamless-looping-4k-time-lapse-virtual-animation-background-video.jpg' alt='AI generated A mystical forest blanketed in morning mist and dappled  sunlight. Seamless looping 4k time-lapse virtual video animation background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="714">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/038/997/966/small_2x/ai-generated-a-mystical-forest-blanketed-in-morning-mist-and-dappled-sunlight-seamless-looping-4k-time-lapse-virtual-animation-background-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated Forest Background">
+                                <img itemprop="contentUrl url" src='https://images.pond5.com/animated-forest-background-footage-099651914_iconl.jpeg' alt='Animated Forest Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pond5" />
+                                </span>
+                                <a href='https://images.pond5.com/animated-forest-background-footage-099651914_iconl.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated forest background">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/NuM99rROkvU/maxresdefault.jpg' alt='Animated forest background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/NuM99rROkvU/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated Forest Background With Camera Moving From Left To Right ...">
+                                <img itemprop="contentUrl url" src='https://elements-resized.envatousercontent.com/elements-video-cover-images/821829dd-3b11-4b60-ae7f-7930d4908300/video_preview/video_preview_0000.jpg?w=1000&cf_fit=cover&q=85&format=auto&s=626b6a9b3bfd4bb83351653210a4f51319a8d3cf64bc00325088abd8ebe0fa33' alt='Animated Forest Background With Camera Moving From Left To Right ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="562">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Envato" />
+                                </span>
+                                <a href='https://elements-resized.envatousercontent.com/elements-video-cover-images/821829dd-3b11-4b60-ae7f-7930d4908300/video_preview/video_preview_0000.jpg?w=1000&cf_fit=cover&q=85&format=auto&s=626b6a9b3bfd4bb83351653210a4f51319a8d3cf64bc00325088abd8ebe0fa33' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dense Forest Animated Illustration Hand Drawn">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/videos/1043029813/thumb/1.jpg?ip=x480' alt='Dense Forest Animated Illustration Hand Drawn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/videos/1043029813/thumb/1.jpg?ip=x480' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated Forest Background With Camera Moving From Left To Right Looping">
+                                <img itemprop="contentUrl url" src='https://elements-resized.envatousercontent.com/elements-video-cover-images/f865b3a7-9f3c-4f5e-be16-02635618f13e/video_preview/video_preview_0000.jpg?w=500&cf_fit=cover&q=85&format=auto&s=b388fb729161e4da63aefd83c5b40556f1aff31ecd5cf5643395bb74023d57a6' alt='Animated Forest Background With Camera Moving From Left To Right Looping'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Envato" />
+                                </span>
+                                <a href='https://elements-resized.envatousercontent.com/elements-video-cover-images/f865b3a7-9f3c-4f5e-be16-02635618f13e/video_preview/video_preview_0000.jpg?w=500&cf_fit=cover&q=85&format=auto&s=b388fb729161e4da63aefd83c5b40556f1aff31ecd5cf5643395bb74023d57a6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Day Light Forest Background">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/VkLKY4rx8B0/maxresdefault.jpg' alt='Day Light Forest Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/VkLKY4rx8B0/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Fly Insect Is Flying Over The Jungle">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/003/386/389/small_2x/the-fly-insect-is-flying-over-the-jungle-free-video.jpg' alt='The Fly Insect Is Flying Over The Jungle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="711">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/003/386/389/small_2x/the-fly-insect-is-flying-over-the-jungle-free-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Magic lights hovering in an enchanted forest for a romantic Christmas  design stock video 1428275425">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1428275425/video/magic-lights-hovering-in-an-enchanted-forest-for-a-romantic-christmas-design.jpg?s=640x640&k=20&c=ZBlVLSfeCUMuNdNkLKwEXzrcJIIFRcLqGGDmRNBuG3s=' alt='Magic lights hovering in an enchanted forest for a romantic Christmas  design stock video 1428275425'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1428275425/video/magic-lights-hovering-in-an-enchanted-forest-for-a-romantic-christmas-design.jpg?s=640x640&k=20&c=ZBlVLSfeCUMuNdNkLKwEXzrcJIIFRcLqGGDmRNBuG3s=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bugs Fairies Fliying Along Magic Forest">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/videos/1063084909/thumb/1.jpg?ip=x480' alt='Bugs Fairies Fliying Along Magic Forest'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/videos/1063084909/thumb/1.jpg?ip=x480' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

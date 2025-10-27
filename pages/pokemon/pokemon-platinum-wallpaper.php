@@ -1,0 +1,129 @@
+<title>Ultimate Pokémon Platinum Wallpaper Collection</title>
+                    <meta name="description" content="Discover a captivating collection of Pokémon Platinum wallpapers perfect for any fan! From legendary Pokémon to beautiful landscapes, enhance your devices with vibrant images that bring the Sinnoh region to life. Explore and download your favorites to showcase your passion for Pokémon!">
+                    <meta name="keywords" content="pokemon platinum wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pokemon">
+                            <span itemprop="name">Pokemon</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pokemon/pokemon-platinum-wallpaper">
+                            <span itemprop="name">pokemon platinum wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ultimate Pokémon Platinum Wallpaper Collection</h1>
+                <p>Elevate your device's aesthetic with stunning Pokémon Platinum wallpaper! Featuring iconic Pokémon like Dialga, Palkia, and Giratina, these vibrant images capture the essence of Sinnoh's adventures. Perfect for fans, these wallpapers bring nostalgia and excitement to your screens. Download your favorite today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pokemon-platinum-giratina-origin-forme-wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e0/b4/5f/e0b45f69269309175beb53732c48fe2c.jpg' alt='pokemon-platinum-giratina-origin-forme-wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e0/b4/5f/e0b45f69269309175beb53732c48fe2c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="OC] I drew a Cynthia wallpaper with her Pokemon Platinum team! : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/fgbjq8xhdg861.png' alt='OC] I drew a Cynthia wallpaper with her Pokemon Platinum team! : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/fgbjq8xhdg861.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokemon Platinum, girantina, videogame, time, space, video game ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/254/764/HD-wallpaper-pokemon-platinum-girantina-videogame-time-space-video-game-pokemon-platinum-dialga-orogin-anime-palkia.jpg' alt='Pokemon Platinum, girantina, videogame, time, space, video game ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="577">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/254/764/HD-wallpaper-pokemon-platinum-girantina-videogame-time-space-video-game-pokemon-platinum-dialga-orogin-anime-palkia.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Pokemon Pokémon Platinum Version Pokémon Pearl Version ...">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/110/1107044.png' alt='Download Pokemon Pokémon Platinum Version Pokémon Pearl Version ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/110/1107044.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokemon Platinum - Pokemon & Anime Background Wallpapers on ...">
+                                <img itemprop="contentUrl url" src='https://cache.desktopnexus.com/thumbseg/110/110123-bigthumbnail.jpg' alt='Pokemon Platinum - Pokemon & Anime Background Wallpapers on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="311">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anime Wallpapers - Desktop Nexus" />
+                                </span>
+                                <a href='https://cache.desktopnexus.com/thumbseg/110/110123-bigthumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1] "Land of Sinnoh" - Pokémon Platinum | First Playthrough - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/2SaGyYnKRKM/sddefault.jpg' alt='1] "Land of Sinnoh" - Pokémon Platinum | First Playthrough - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/2SaGyYnKRKM/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokémon Platinum wallpapers - Imgur">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/WDblzbM.jpeg' alt='Pokémon Platinum wallpapers - Imgur'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1073">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Imgur" />
+                                </span>
+                                <a href='https://i.imgur.com/WDblzbM.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokemon Platinum - Pokemon & Anime Background Wallpapers on ...">
+                                <img itemprop="contentUrl url" src='https://cache.desktopnexus.com/thumbseg/110/110124-bigthumbnail.jpg' alt='Pokemon Platinum - Pokemon & Anime Background Wallpapers on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="311">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anime Wallpapers - Desktop Nexus" />
+                                </span>
+                                <a href='https://cache.desktopnexus.com/thumbseg/110/110124-bigthumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Giratina's Destruction, now animated! : r/pokemon">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/0kkvgt5iqby61.gif?width=1080&crop=smart&auto=webp&s=73e185c9b88fbed8e61546e511629f56cd1dd17a' alt='Giratina's Destruction, now animated! : r/pokemon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/0kkvgt5iqby61.gif?width=1080&crop=smart&auto=webp&s=73e185c9b88fbed8e61546e511629f56cd1dd17a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokemon Platinum-Final Team-Wallpaper (1366x768) by CSquaredGaming ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2e532989-4222-4884-8b5a-4941974e4a98/d7em7ss-b4a8ca8a-9653-47dd-89da-ec77bffb1ab6.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJlNTMyOTg5LTQyMjItNDg4NC04YjVhLTQ5NDE5NzRlNGE5OFwvZDdlbTdzcy1iNGE4Y2E4YS05NjUzLTQ3ZGQtODlkYS1lYzc3YmZmYjFhYjYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.QLZKw9GufjRT2S0BI-Br6pa3mzXDhzw1kjgCALJyr_k' alt='Pokemon Platinum-Final Team-Wallpaper (1366x768) by CSquaredGaming ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2e532989-4222-4884-8b5a-4941974e4a98/d7em7ss-b4a8ca8a-9653-47dd-89da-ec77bffb1ab6.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJlNTMyOTg5LTQyMjItNDg4NC04YjVhLTQ5NDE5NzRlNGE5OFwvZDdlbTdzcy1iNGE4Y2E4YS05NjUzLTQ3ZGQtODlkYS1lYzc3YmZmYjFhYjYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.QLZKw9GufjRT2S0BI-Br6pa3mzXDhzw1kjgCALJyr_k' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

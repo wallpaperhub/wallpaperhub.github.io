@@ -1,0 +1,129 @@
+<title>Jasmine Guy: Iconic Actress & Artist</title>
+                    <meta name="description" content="Discover the captivating life of Jasmine Guy, the acclaimed actress known for her role in "A Different World." Explore her multifaceted career in acting, dancing, and singing while celebrating her enduring impact on entertainment and the arts. Stay tuned for her latest projects and performances!">
+                    <meta name="keywords" content="jasmine guy">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/jasmine-guy">
+                            <span itemprop="name">jasmine guy</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Jasmine Guy: Iconic Actress & Artist</h1>
+                <p>Jasmine Guy is an accomplished American actress, dancer, and singer, best known for her iconic role as Whitley Gilbert on the hit TV show "A Different World." Her talent extends to stage performances and directing, showcasing her versatility in the arts. With a career spanning decades, she continues to inspire audiences with her creativity and passion.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jasmine Guy - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/1/1e/Jasmine_Guy.jpg' alt='Jasmine Guy - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2592">
+                                <meta itemprop="height" content="3888">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/1/1e/Jasmine_Guy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jasmine Guy - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BNDRhNzhiOTUtNTFkYS00MTg3LThiYTgtMjI2NDU0ZTdkYTFjXkEyXkFqcGc@._V1_.jpg' alt='Jasmine Guy - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2453">
+                                <meta itemprop="height" content="1637">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BNDRhNzhiOTUtNTFkYS00MTg3LThiYTgtMjI2NDU0ZTdkYTFjXkEyXkFqcGc@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jasmine Guy's Net Worth 2025">
+                                <img itemprop="contentUrl url" src='https://elizabethstreet.com/wp-content/uploads/2024/04/Screenshot-2024-04-24-161213.png' alt='Jasmine Guy's Net Worth 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1222">
+                                <meta itemprop="height" content="1078">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Elizabeth Street" />
+                                </span>
+                                <a href='https://elizabethstreet.com/wp-content/uploads/2024/04/Screenshot-2024-04-24-161213.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jasmine Guy Talks 'A Different World' & What She's Doing Now ...">
+                                <img itemprop="contentUrl url" src='https://www.firstforwomen.com/wp-content/uploads/sites/2/2024/08/Jasmine-guy.png?quality=86&strip=all' alt='Jasmine Guy Talks 'A Different World' & What She's Doing Now ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="First For Women" />
+                                </span>
+                                <a href='https://www.firstforwomen.com/wp-content/uploads/sites/2/2024/08/Jasmine-guy.png?quality=86&strip=all' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jasmine Guy | A Different World Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/differentworld/images/1/1e/Jasmine_Guy.jpg/revision/latest/thumbnail/width/360/height/360?cb=20180424005404' alt='Jasmine Guy | A Different World Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="240">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="A Different World Wiki | Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/differentworld/images/1/1e/Jasmine_Guy.jpg/revision/latest/thumbnail/width/360/height/360?cb=20180424005404' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jasmine Guy (Creator) - TV Tropes">
+                                <img itemprop="contentUrl url" src='https://static.tvtropes.org/pmwiki/pub/images/jasmine_guy.jpg' alt='Jasmine Guy (Creator) - TV Tropes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="452">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TV Tropes" />
+                                </span>
+                                <a href='https://static.tvtropes.org/pmwiki/pub/images/jasmine_guy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jasmine Guy - Actress">
+                                <img itemprop="contentUrl url" src='https://ntvb.tmsimg.com/assets/assets/700_v9_bc.jpg' alt='Jasmine Guy - Actress'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TV Insider" />
+                                </span>
+                                <a href='https://ntvb.tmsimg.com/assets/assets/700_v9_bc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jasmine Guy Joins Vic Jagger In The Morning With Huggy Lowdown">
+                                <img itemprop="contentUrl url" src='https://mymajicdc.com/wp-content/uploads/sites/18/2024/01/17056937520763.jpeg?w=683&strip=all&quality=80' alt='Jasmine Guy Joins Vic Jagger In The Morning With Huggy Lowdown'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Majic 102.3" />
+                                </span>
+                                <a href='https://mymajicdc.com/wp-content/uploads/sites/18/2024/01/17056937520763.jpeg?w=683&strip=all&quality=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jasmine Guy: A working icon returns to Harlem! - New York ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/amsterdamnews.com/wp-content/uploads/2022/09/Jasmine-Guy-2022-scaled-e1662581146987.jpg?fit=1200%2C1083&ssl=1' alt='Jasmine Guy: A working icon returns to Harlem! - New York ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1083">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amsterdam News" />
+                                </span>
+                                <a href='https://i0.wp.com/amsterdamnews.com/wp-content/uploads/2022/09/Jasmine-Guy-2022-scaled-e1662581146987.jpg?fit=1200%2C1083&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jasmine Guy Tried to Quit A Different World in Season 1 After Lisa ...">
+                                <img itemprop="contentUrl url" src='https://s.yimg.com/ny/api/res/1.2/_C8Aw5lfMs1Uy4BXQuAbNA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://media.zenfs.com/en/people_218/883f7f05db363a243eae1dc4fccc50d4' alt='Jasmine Guy Tried to Quit A Different World in Season 1 After Lisa ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="828">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yahoo" />
+                                </span>
+                                <a href='https://s.yimg.com/ny/api/res/1.2/_C8Aw5lfMs1Uy4BXQuAbNA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://media.zenfs.com/en/people_218/883f7f05db363a243eae1dc4fccc50d4' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

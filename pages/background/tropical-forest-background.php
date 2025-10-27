@@ -1,0 +1,129 @@
+<title>Explore the Lush Beauty of Tropical Forests</title>
+                    <meta name="description" content="Discover the vibrant world of tropical forests, where diverse ecosystems thrive. Learn about their ecological importance and the breathtaking species that inhabit these lush wilderness areas. Dive into the richness of nature and the critical role tropical forests play in our planet's health.">
+                    <meta name="keywords" content="tropical forest background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/tropical-forest-background">
+                            <span itemprop="name">tropical forest background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Lush Beauty of Tropical Forests</h1>
+                <p>Tropical forests are vibrant ecosystems teeming with life. These lush environments are characterized by tall trees, diverse flora, and a rich array of fauna. They play a crucial role in regulating the Earth's climate and are home to countless species, many of which are found nowhere else. Tropical forests are vital for biodiversity and human survival.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="541,500+ Tropical Forests Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/535499464/photo/the-anvil-morning-mist.jpg?s=612x612&w=0&k=20&c=lSr-9Bag_toChbH53Ji8KoUi_xo8n7gWgLCsn7NDbAI=' alt='541,500+ Tropical Forests Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/535499464/photo/the-anvil-morning-mist.jpg?s=612x612&w=0&k=20&c=lSr-9Bag_toChbH53Ji8KoUi_xo8n7gWgLCsn7NDbAI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tropical Rainforest Wallpaper Mural | Dense Jungle Scene | Bobbi Beck">
+                                <img itemprop="contentUrl url" src='https://www.datocms-assets.com/54048/1709735845-coco-remastered-march-5-1.jpg?auto=format' alt='Tropical Rainforest Wallpaper Mural | Dense Jungle Scene | Bobbi Beck'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4200">
+                                <meta itemprop="height" content="2800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bobbi Beck" />
+                                </span>
+                                <a href='https://www.datocms-assets.com/54048/1709735845-coco-remastered-march-5-1.jpg?auto=format' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Loccor 17x10ft Fabric Tropical Rainforest Backdrop ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91TKfuRrBhL.jpg' alt='Amazon.com : Loccor 17x10ft Fabric Tropical Rainforest Backdrop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1140">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91TKfuRrBhL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : CORFOTO 5x3ft Fabric Jungle Rainforest Backdrop Nepal ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81dkbUJSdbL.jpg' alt='Amazon.com : CORFOTO 5x3ft Fabric Jungle Rainforest Backdrop Nepal ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1140">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81dkbUJSdbL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="In the tropical forest - Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallart.com/media/catalog/product/cache/871f459736130e239a3f5e6472128962/w/0/w06232-small.jpg' alt='In the tropical forest - Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallart" />
+                                </span>
+                                <a href='https://www.wallart.com/media/catalog/product/cache/871f459736130e239a3f5e6472128962/w/0/w06232-small.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tropical Forest">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/63315/tropical-forest.jpg?h=699&q=85' alt='Tropical Forest'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1049">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/63315/tropical-forest.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tropical Jungle" Images – Browse 5,717,041 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/07/30/41/97/360_F_730419788_1LQwRRWZTvudRZSOx8wEriYQWs5dOf3q.jpg' alt='Tropical Jungle" Images – Browse 5,717,041 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/07/30/41/97/360_F_730419788_1LQwRRWZTvudRZSOx8wEriYQWs5dOf3q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tropical Jungle" Images – Browse 5,717,041 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/77/85/63/360_F_277856380_VPOG25YAsUikOPTT5fneyEf7EWu1LMYh.jpg' alt='Tropical Jungle" Images – Browse 5,717,041 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/77/85/63/360_F_277856380_VPOG25YAsUikOPTT5fneyEf7EWu1LMYh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="541,500+ Tropical Forests Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1446305840/photo/tropical-rainforest-in-costa-rica.jpg?s=612x612&w=0&k=20&c=h7L9dSKNS6lelG48PnjHHZyaXEkZ5FQt0u7F9uPSIg0=' alt='541,500+ Tropical Forests Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1446305840/photo/tropical-rainforest-in-costa-rica.jpg?s=612x612&w=0&k=20&c=h7L9dSKNS6lelG48PnjHHZyaXEkZ5FQt0u7F9uPSIg0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beauty Tropical Forest Background Stock Illustrations – 53,350 ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/beauty-tropical-forest-background-27048219.jpg' alt='Beauty Tropical Forest Background Stock Illustrations – 53,350 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="613">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/beauty-tropical-forest-background-27048219.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

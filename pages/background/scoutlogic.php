@@ -1,0 +1,129 @@
+<title>Optimize Your Hiring: ScoutLogic Background Screening Solutions</title>
+                    <meta name="description" content="Discover ScoutLogic for efficient background screening that enhances your hiring process. Our platform offers thorough candidate evaluations, ensuring compliance and reducing hiring risks. Streamline talent acquisition and improve your decision-making with ScoutLogic today!">
+                    <meta name="keywords" content="scoutlogic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/scoutlogic">
+                            <span itemprop="name">scoutlogic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Optimize Your Hiring: ScoutLogic Background Screening Solutions</h1>
+                <p>ScoutLogic is a cutting-edge platform designed to streamline the hiring process with advanced background screening solutions. It empowers employers with efficient tools to conduct thorough candidate evaluations, ensuring compliance and enhancing decision-making. ScoutLogic simplifies talent acquisition while reducing risks and improving hiring outcomes.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check Company | ScoutLogic">
+                                <img itemprop="contentUrl url" src='https://6108474.fs1.hubspotusercontent-na1.net/hubfs/6108474/Logo%20(new)/Scout-Logic-logo_external_horizontal_tag-line.png' alt='Background Check Company | ScoutLogic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.scoutlogicscreening.com" />
+                                </span>
+                                <a href='https://6108474.fs1.hubspotusercontent-na1.net/hubfs/6108474/Logo%20(new)/Scout-Logic-logo_external_horizontal_tag-line.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for ScoutLogic">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063571328388' alt='Profile for ScoutLogic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1008">
+                                <meta itemprop="height" content="1008">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063571328388' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ScoutLogic Background Screening | LinkedIn">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/C560BAQHiM4azurOjrw/company-logo_200_200/company-logo_200_200/0/1660740945651/scoutlogic_logo?e=2147483647&v=beta&t=4m2LJQa1hJTrq9Rh6zgp4LOIsPrZZDvF3vkK3gSym2I' alt='ScoutLogic Background Screening | LinkedIn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/C560BAQHiM4azurOjrw/company-logo_200_200/company-logo_200_200/0/1660740945651/scoutlogic_logo?e=2147483647&v=beta&t=4m2LJQa1hJTrq9Rh6zgp4LOIsPrZZDvF3vkK3gSym2I' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scout Logic - American Staffing Association">
+                                <img itemprop="contentUrl url" src='https://americanstaffing.net/wp-content/uploads/2021/09/ScoutLogic2.png' alt='Scout Logic - American Staffing Association'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="521">
+                                <meta itemprop="height" content="199">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="American Staffing Association" />
+                                </span>
+                                <a href='https://americanstaffing.net/wp-content/uploads/2021/09/ScoutLogic2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="About Us | ScoutLogic">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/QZClJtx8uPg/mqdefault.jpg' alt='About Us | ScoutLogic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ScoutLogic" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/QZClJtx8uPg/mqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bill James - ScoutLogic Screening | LinkedIn">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/D4E16AQGfTCqsIOlTAw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1675365537725?e=2147483647&v=beta&t=6bMj-7bH11ezH-Fjpt-zUdd__rALNKiu6AokH0tpd_U' alt='Bill James - ScoutLogic Screening | LinkedIn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/D4E16AQGfTCqsIOlTAw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1675365537725?e=2147483647&v=beta&t=6bMj-7bH11ezH-Fjpt-zUdd__rALNKiu6AokH0tpd_U' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ScoutLogic - AMS Verified">
+                                <img itemprop="contentUrl url" src='https://app.getamsverified.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Famsverified%2Fproduction%2Fresources%2F0a36d13d-dd12-4347-b195-98cae6d994c2%2FScoutLogic.png&w=3840&q=100' alt='ScoutLogic - AMS Verified'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AMS Verified" />
+                                </span>
+                                <a href='https://app.getamsverified.com/_next/image?url=https%3A%2F%2Fik.imagekit.io%2Famsverified%2Fproduction%2Fresources%2F0a36d13d-dd12-4347-b195-98cae6d994c2%2FScoutLogic.png&w=3840&q=100' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="News & PR Blogs - ScoutLogic">
+                                <img itemprop="contentUrl url" src='https://www.scoutlogicscreening.com/wp-content/uploads/2025/01/Copy-of-Behind-the-Scout.png' alt='News & PR Blogs - ScoutLogic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ScoutLogic" />
+                                </span>
+                                <a href='https://www.scoutlogicscreening.com/wp-content/uploads/2025/01/Copy-of-Behind-the-Scout.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ScoutLogic Screening - Crunchbase Company Profile & Funding">
+                                <img itemprop="contentUrl url" src='https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/pc7byzfalb14uexzqcfo' alt='ScoutLogic Screening - Crunchbase Company Profile & Funding'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Crunchbase" />
+                                </span>
+                                <a href='https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/pc7byzfalb14uexzqcfo' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ScoutLogic | The Org">
+                                <img itemprop="contentUrl url" src='https://cdn.theorg.com/ade8471d-6a6b-417e-bcbb-86ab760fe064_thumb.jpg' alt='ScoutLogic | The Org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Org" />
+                                </span>
+                                <a href='https://cdn.theorg.com/ade8471d-6a6b-417e-bcbb-86ab760fe064_thumb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

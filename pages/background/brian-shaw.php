@@ -1,0 +1,129 @@
+<title>Brian Shaw: Strongman Champion & Fitness Icon</title>
+                    <meta name="description" content="Discover the inspiring journey of Brian Shaw, a four-time World's Strongest Man. Learn about his record-breaking achievements, training tips, and motivational content that encourages strength and perseverance. Join the community celebrating this fitness icon!">
+                    <meta name="keywords" content="brian shaw">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/brian-shaw">
+                            <span itemprop="name">brian shaw</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Brian Shaw: Strongman Champion & Fitness Icon</h1>
+                <p>Brian Shaw is a legendary strongman, known for his incredible feats of strength. Born on February 26, 1982, he has won multiple World's Strongest Man titles and set numerous records in the sport. Beyond competitions, Shaw shares his training insights and personal journey on social media, inspiring millions worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brian Shaw (strongman) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/9/9d/Brian_Shaw_Arnold_Classic_2017e.jpg' alt='Brian Shaw (strongman) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1991">
+                                <meta itemprop="height" content="2574">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/9/9d/Brian_Shaw_Arnold_Classic_2017e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brian Shaw (@shawstrength) • Instagram photos and videos">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/instagram/shawstrengthpodcast/profile_pic.jpg' alt='Brian Shaw (@shawstrength) • Instagram photos and videos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/instagram/shawstrengthpodcast/profile_pic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brian Shaw - Giants Live">
+                                <img itemprop="contentUrl url" src='https://giants-live.com/app/uploads/2022/01/brian_shaw.jpg' alt='Brian Shaw - Giants Live'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="539">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giants Live" />
+                                </span>
+                                <a href='https://giants-live.com/app/uploads/2022/01/brian_shaw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Exactly Is Brian Shaw Training In Armwrestling? - Grip Gladiators">
+                                <img itemprop="contentUrl url" src='https://gripgladiators.com/wp-content/uploads/2024/09/Brian-Shaw-Strongman-Athlete-New-To-Armwrestling.webp' alt='What Exactly Is Brian Shaw Training In Armwrestling? - Grip Gladiators'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2388">
+                                <meta itemprop="height" content="3584">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Grip Gladiators Armwrestling Blog" />
+                                </span>
+                                <a href='https://gripgladiators.com/wp-content/uploads/2024/09/Brian-Shaw-Strongman-Athlete-New-To-Armwrestling.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SHAWSTRENGTH - YouTube">
+                                <img itemprop="contentUrl url" src='https://yt3.googleusercontent.com/R6JJwWOpZ2J3SgwGmuWTrkr1NCjzEl2RPfHRG-puPG0YH-6fFdsnfprvtfaPdorP_nM15LrdQiY=s900-c-k-c0x00ffffff-no-rj' alt='SHAWSTRENGTH - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://yt3.googleusercontent.com/R6JJwWOpZ2J3SgwGmuWTrkr1NCjzEl2RPfHRG-puPG0YH-6fFdsnfprvtfaPdorP_nM15LrdQiY=s900-c-k-c0x00ffffff-no-rj' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brian Shaw - Giants Live">
+                                <img itemprop="contentUrl url" src='https://giants-live.com/app/uploads/2022/01/brian-shaw.jpg' alt='Brian Shaw - Giants Live'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giants Live" />
+                                </span>
+                                <a href='https://giants-live.com/app/uploads/2022/01/brian-shaw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ON A MISSION      I want to get in my best shape possible in 2025 ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3543462961110898377' alt='ON A MISSION      I want to get in my best shape possible in 2025 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3543462961110898377' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nick Best (6'1”) next to Brian Shaw (6'8”) : r/tall">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/yiirpjit2oyb1.jpg' alt='Nick Best (6'1”) next to Brian Shaw (6'8”) : r/tall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="1579">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/yiirpjit2oyb1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brian Shaw is a four-time winner of the sport's most coveted title ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=570728629076905' alt='Brian Shaw is a four-time winner of the sport's most coveted title ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=570728629076905' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brian Shaw Shares Awesome 8 Week Physique Transformation">
+                                <img itemprop="contentUrl url" src='https://generationiron.com/wp-content/uploads/2021/03/Brian-Shaw-Shares-Awesome-8-Week-Physique-Transformation-1.jpg' alt='Brian Shaw Shares Awesome 8 Week Physique Transformation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2263">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Generation Iron" />
+                                </span>
+                                <a href='https://generationiron.com/wp-content/uploads/2021/03/Brian-Shaw-Shares-Awesome-8-Week-Physique-Transformation-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

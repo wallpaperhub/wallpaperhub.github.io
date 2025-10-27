@@ -1,0 +1,129 @@
+<title>Flat Front Semi Trucks: Efficiency & Maneuverability</title>
+                    <meta name="description" content="Discover the benefits of flat front semi trucks, including their compact design for enhanced maneuverability and increased cargo capacity. Ideal for both city driving and long-haul transport, these trucks maximize efficiency and visibility on the road. Perfect for drivers seeking versatility and reliability in their trucking solutions.">
+                    <meta name="keywords" content="flat front semi truck">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/flat-front-semi-truck">
+                            <span itemprop="name">flat front semi truck</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Flat Front Semi Trucks: Efficiency & Maneuverability</h1>
+                <p>Flat front semi trucks, also known as cab-over-engine (COE) trucks, feature a distinctive design where the cab is positioned above the engine. This configuration provides better maneuverability, maximizing cargo space and visibility. Ideal for urban settings, flat front semi trucks are efficient, versatile, and popular among long-haul drivers.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cab over - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/a/ab/New_Volvo_FH.jpg' alt='Cab over - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1383">
+                                <meta itemprop="height" content="918">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/a/ab/New_Volvo_FH.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Only Old School Cabover Truck Guide You'll Ever Need">
+                                <img itemprop="contentUrl url" src='https://www.smart-trucking.com/wp-content/uploads/2018/06/Freightliner_Cabover_Red_White_TruckShow_PS-800x525.webp' alt='The Only Old School Cabover Truck Guide You'll Ever Need'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="525">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Smart Trucking" />
+                                </span>
+                                <a href='https://www.smart-trucking.com/wp-content/uploads/2018/06/Freightliner_Cabover_Red_White_TruckShow_PS-800x525.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Conventional vs Cabover Trucks - Will Cabovers Make a Comeback ...">
+                                <img itemprop="contentUrl url" src='https://www.smart-trucking.com/wp-content/uploads/2018/07/peterbilt-cabover-red-white-no-waterm-2.jpg' alt='Conventional vs Cabover Trucks - Will Cabovers Make a Comeback ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Smart Trucking" />
+                                </span>
+                                <a href='https://www.smart-trucking.com/wp-content/uploads/2018/07/peterbilt-cabover-red-white-no-waterm-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This Is Why America Stopped Building European-Style Cab-Over ...">
+                                <img itemprop="contentUrl url" src='https://www.carscoops.com/wp-content/uploads/2023/04/maxresdefault.jpg' alt='This Is Why America Stopped Building European-Style Cab-Over ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Carscoops" />
+                                </span>
+                                <a href='https://www.carscoops.com/wp-content/uploads/2023/04/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flat face">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/14/e3/e3/14e3e379b2a88c48d647b3fb2f1b45d4.jpg' alt='Flat face'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="438">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/14/e3/e3/14e3e379b2a88c48d647b3fb2f1b45d4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flat front">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c2/7e/3e/c27e3e30f370877ee56bc5e26b41010d.jpg' alt='Flat front'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="703">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c2/7e/3e/c27e3e30f370877ee56bc5e26b41010d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flat face">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/70/f0/c6/70f0c6938373ee4a8e77b68aaa4a339c.jpg' alt='Flat face'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/70/f0/c6/70f0c6938373ee4a8e77b68aaa4a339c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why European Trucks Have Flat Faces - ENERGY Transportation Group">
+                                <img itemprop="contentUrl url" src='https://www.shipenergy.com/wp-content/uploads/2022/09/european-truck-flat-700x467.jpg' alt='Why European Trucks Have Flat Faces - ENERGY Transportation Group'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="467">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ENERGY Transportation Group" />
+                                </span>
+                                <a href='https://www.shipenergy.com/wp-content/uploads/2022/09/european-truck-flat-700x467.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Only Old School Cabover Truck Guide You'll Ever Need">
+                                <img itemprop="contentUrl url" src='https://www.smart-trucking.com/wp-content/uploads/2018/06/1995-freightliner-cabover-truck-216379691.jpg' alt='The Only Old School Cabover Truck Guide You'll Ever Need'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Smart Trucking" />
+                                </span>
+                                <a href='https://www.smart-trucking.com/wp-content/uploads/2018/06/1995-freightliner-cabover-truck-216379691.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why European Trucks Have Flat Faces - ENERGY Transportation Group">
+                                <img itemprop="contentUrl url" src='https://www.shipenergy.com/wp-content/uploads/2022/09/Thank-you-700x394.jpg' alt='Why European Trucks Have Flat Faces - ENERGY Transportation Group'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="394">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ENERGY Transportation Group" />
+                                </span>
+                                <a href='https://www.shipenergy.com/wp-content/uploads/2022/09/Thank-you-700x394.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Floral Wallpaper Ideas for Your Home</title>
+                    <meta name="description" content="Explore beautiful floral wallpaper ideas to elevate your home decor. Discover vibrant patterns, modern twists, and vintage designs that add charm and personality to any room. Perfect for creating a cozy atmosphere or making a bold statement, these ideas will inspire your next home makeover!">
+                    <meta name="keywords" content="floral wallpaper ideas">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/floral-wallpaper-ideas">
+                            <span itemprop="name">floral wallpaper ideas</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Floral Wallpaper Ideas for Your Home</h1>
+                <p>Floral wallpaper can transform any space with its vibrant patterns and textures. For a bold statement, consider large-scale blooms in bright colors for an accent wall. For a softer touch, opt for delicate pastel flowers in a small print. Mix florals with geometric shapes for a modern twist, or use vintage floral designs for a classic look.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Wallpaper Accent Wall Ideas">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/87ae9e_6de91aa2aaea487187e87d336ecc9e2a~mv2.jpg/v1/fill/w_568,h_766,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/87ae9e_6de91aa2aaea487187e87d336ecc9e2a~mv2.jpg' alt='Floral Wallpaper Accent Wall Ideas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="568">
+                                <meta itemprop="height" content="766">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Barbulianno Design" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/87ae9e_6de91aa2aaea487187e87d336ecc9e2a~mv2.jpg/v1/fill/w_568,h_766,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/87ae9e_6de91aa2aaea487187e87d336ecc9e2a~mv2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown Floral Wallpaper, Flower Wallpaper, Modern Wallpaper, Living ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/32237469/r/il/e69ccc/5351257566/il_fullxfull.5351257566_m87d.jpg' alt='Brown Floral Wallpaper, Flower Wallpaper, Modern Wallpaper, Living ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1999">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/32237469/r/il/e69ccc/5351257566/il_fullxfull.5351257566_m87d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13 Wallpaper Ideas That Will Elevate Any Room in Your Home">
+                                <img itemprop="contentUrl url" src='https://www.marthastewart.com/thmb/FQjSYmY9EgAI3-hCkrSDd4o00-M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/best-places-shop-for-wallpaper-etsy-watercolor-wild-floral-wallpaper-0723-6e31968c66a64d8f88164d958ee8c836.jpg' alt='13 Wallpaper Ideas That Will Elevate Any Room in Your Home'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Martha Stewart" />
+                                </span>
+                                <a href='https://www.marthastewart.com/thmb/FQjSYmY9EgAI3-hCkrSDd4o00-M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/best-places-shop-for-wallpaper-etsy-watercolor-wild-floral-wallpaper-0723-6e31968c66a64d8f88164d958ee8c836.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 On-Trend Floral Wall Murals to Transform your Home – Eazywallz">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0337/7469/files/Vibrant-Jungle-Floral-Wallpaper-2.jpg?v=1649084177' alt='10 On-Trend Floral Wall Murals to Transform your Home – Eazywallz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1293">
+                                <meta itemprop="height" content="1450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eazywallz" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0337/7469/files/Vibrant-Jungle-Floral-Wallpaper-2.jpg?v=1649084177' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: BZHXBZ - Floral Wallpaper Pink Peony murals Girls Bedroom  Botanical Rose Flowers Leaf Aesthetic Room Decor Home Living Room tv  Background ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/814I+ikHw0L.jpg' alt='Amazon.com: BZHXBZ - Floral Wallpaper Pink Peony murals Girls Bedroom  Botanical Rose Flowers Leaf Aesthetic Room Decor Home Living Room tv  Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/814I+ikHw0L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="16 Dark Floral Wallpaper Designs at Wallsauce | Wallsauce US">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/images/2021-10/blobid1634295939201.jpg' alt='16 Dark Floral Wallpaper Designs at Wallsauce | Wallsauce US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/images/2021-10/blobid1634295939201.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Background Cream Floral Wallpaper – EazzyWalls">
+                                <img itemprop="contentUrl url" src='https://eazzywalls.com/cdn/shop/products/DarkFloralWallpaperPeelandStickDarkBlossom-PaperAesthetic4.jpg?v=1739916861&width=1214' alt='Dark Background Cream Floral Wallpaper – EazzyWalls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1214">
+                                <meta itemprop="height" content="1214">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EazzyWalls" />
+                                </span>
+                                <a href='https://eazzywalls.com/cdn/shop/products/DarkFloralWallpaperPeelandStickDarkBlossom-PaperAesthetic4.jpg?v=1739916861&width=1214' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Wallpaper Decorating Inspiration | Architectural Digest">
+                                <img itemprop="contentUrl url" src='https://media.architecturaldigest.com/photos/56d0e15d614bdaed547f54d8/master/pass/floral-wallpaper-01.jpg' alt='Floral Wallpaper Decorating Inspiration | Architectural Digest'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1063">
+                                <meta itemprop="height" content="1595">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Architectural Digest" />
+                                </span>
+                                <a href='https://media.architecturaldigest.com/photos/56d0e15d614bdaed547f54d8/master/pass/floral-wallpaper-01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flowers Falling Wallpaper Soft Floral Wallpaper Living Room Decor ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/32597141/r/il/a389a5/3440772764/il_570xN.3440772764_41c5.jpg' alt='Flowers Falling Wallpaper Soft Floral Wallpaper Living Room Decor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/32597141/r/il/a389a5/3440772764/il_570xN.3440772764_41c5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+ Wow-Worthy Wallpaper Ideas for Every Room - Flower Magazine">
+                                <img itemprop="contentUrl url" src='https://flowermag.com/wp-content/uploads/2021/03/Flower_FloralWallpaper_44.jpg' alt='100+ Wow-Worthy Wallpaper Ideas for Every Room - Flower Magazine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="987">
+                                <meta itemprop="height" content="1066">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flower Magazine" />
+                                </span>
+                                <a href='https://flowermag.com/wp-content/uploads/2021/03/Flower_FloralWallpaper_44.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

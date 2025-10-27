@@ -1,0 +1,129 @@
+<title>ALF Wallpaper: Unique Designs for Retro Charm</title>
+                    <meta name="description" content="Explore our collection of ALF wallpaper for a fun, nostalgic touch in your home decor. With vibrant designs inspired by the beloved sitcom, add personality to any room effortlessly. Perfect for kids' playrooms or retro-themed areas, these wallpapers are sure to delight!">
+                    <meta name="keywords" content="alf wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/alf-wallpaper">
+                            <span itemprop="name">alf wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>ALF Wallpaper: Unique Designs for Retro Charm</h1>
+                <p>Transform your space with unique ALF wallpaper designs! Perfect for fans of the classic '80s sitcom, these wallpapers feature vibrant patterns, engaging characters, and nostalgic themes. Ideal for children's rooms, playrooms, or retro-themed spaces, ALF wallpaper brings personality and charm to your walls, making every room a fun experience!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alf - Paul Fusco and Tom Patchett">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/62288/alf-paul-fusco-and-tom-patchett.jpg?h=699&q=85' alt='Alf - Paul Fusco and Tom Patchett'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="526">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/62288/alf-paul-fusco-and-tom-patchett.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download TV Show Alf 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/278/278136.jpg' alt='Download TV Show Alf 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4868">
+                                <meta itemprop="height" content="3280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/278/278136.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="alf アルフ wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/97/b5/94/97b59417e698fb02b35dd84f0593386a.jpg' alt='alf アルフ wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/97/b5/94/97b59417e698fb02b35dd84f0593386a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alf Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/77/45/0f/77450f3dedcedb55071df5329dce3960.jpg' alt='Alf Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="588">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/77/45/0f/77450f3dedcedb55071df5329dce3960.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alf wallpaper by ShepardPL - Download on ZEDGE™ | 4ef1">
+                                <img itemprop="contentUrl url" src='https://is.zobj.net/image-server/v1/images?r=eZH9R985TF-PZZKrSA49xfS3w-oihLDPH_p6qbwr61FLjp6U06O4_bJLK7Hryop0gxSYPg7YpQEjkFt8lQdOE5_FQvCgX4lfuem6lcyqGiveVdpi3QIsn3WU8IyjBjEeElYDCAZC6AwB3mtGY0I94gSVq0Q9si0fparSyqWkQKIrxhbEAO9kxurgpV23_TFNhpy6N0hCawhWMrl_G30bAXQZeTg0SnHuYKB9aIRDKsM-m_SD_z7YChxywHQ' alt='Alf wallpaper by ShepardPL - Download on ZEDGE™ | 4ef1'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="336">
+                                <meta itemprop="height" content="603">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zedge" />
+                                </span>
+                                <a href='https://is.zobj.net/image-server/v1/images?r=eZH9R985TF-PZZKrSA49xfS3w-oihLDPH_p6qbwr61FLjp6U06O4_bJLK7Hryop0gxSYPg7YpQEjkFt8lQdOE5_FQvCgX4lfuem6lcyqGiveVdpi3QIsn3WU8IyjBjEeElYDCAZC6AwB3mtGY0I94gSVq0Q9si0fparSyqWkQKIrxhbEAO9kxurgpV23_TFNhpy6N0hCawhWMrl_G30bAXQZeTg0SnHuYKB9aIRDKsM-m_SD_z7YChxywHQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ALF - download free mobile wallpaper - ZOXEE">
+                                <img itemprop="contentUrl url" src='https://en.zoxee.com/cache/thumbnails/wp/0/0/0/0/2/3/5/8/tr_wp714150_400_400.jpg' alt='ALF - download free mobile wallpaper - ZOXEE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="240">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ZOXEE" />
+                                </span>
+                                <a href='https://en.zoxee.com/cache/thumbnails/wp/0/0/0/0/2/3/5/8/tr_wp714150_400_400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Wallpaper Alf 1765 - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/15640304/r/il/8b0db6/1302092575/il_570xN.1302092575_ql7d.jpg' alt='Vintage Wallpaper Alf 1765 - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1140">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/15640304/r/il/8b0db6/1302092575/il_570xN.1302092575_ql7d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download TV Show Alf Image">
+                                <img itemprop="contentUrl url" src='https://picfiles.alphacoders.com/115/115002.jpg' alt='Download TV Show Alf Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="2700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://picfiles.alphacoders.com/115/115002.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alf">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/d7/47/c2/d747c2505fcb5bd30b14e9327677eee4.jpg' alt='Alf'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/d7/47/c2/d747c2505fcb5bd30b14e9327677eee4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made Alf.Material: faux fur, polymer clay. : r/Alf">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/i-made-alf-material-faux-fur-polymer-clay-v0-9yasdqeiufoc1.jpg?width=640&crop=smart&auto=webp&s=0e189ec6ff95c61bbc97e68a7113703ce3fc2685' alt='I made Alf.Material: faux fur, polymer clay. : r/Alf'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="504">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/i-made-alf-material-faux-fur-polymer-clay-v0-9yasdqeiufoc1.jpg?width=640&crop=smart&auto=webp&s=0e189ec6ff95c61bbc97e68a7113703ce3fc2685' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

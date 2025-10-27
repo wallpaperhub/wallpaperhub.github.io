@@ -1,0 +1,129 @@
+<title>Perfect Background Eraser App for Flawless Photos</title>
+                    <meta name="description" content="Transform your images with the best background eraser app! Easily remove backgrounds, enhance photos, and create eye-catching graphics. Ideal for social media, marketing, and personal projects. Download now for quick and professional results!">
+                    <meta name="keywords" content="background eraser app">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/background-eraser-app">
+                            <span itemprop="name">background eraser app</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Perfect Background Eraser App for Flawless Photos</h1>
+                <p>Discover the power of a background eraser app that allows you to seamlessly remove unwanted backgrounds from your photos. With user-friendly tools and advanced algorithms, you can achieve professional-looking images in seconds. Perfect for creating stunning graphics, social media content, or unique art. Try it today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Eraser Photo Editor - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/QQL2b-RHiSXtfv_cjq0j2gq5zTXc93xb8lsSHk_UCk9FI6SpYQ2RtjxthsgjD0pQijD1' alt='Background Eraser Photo Editor - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/QQL2b-RHiSXtfv_cjq0j2gq5zTXc93xb8lsSHk_UCk9FI6SpYQ2RtjxthsgjD0pQijD1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Eraser - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/rrHPmj08O8XvFxB1sToiUiAc1NX28pyp7q6Ilvdw4ZQfzDHX0wyP7ANIkUZSbFRcuw=w526-h296-rw' alt='Background Eraser - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="206">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/rrHPmj08O8XvFxB1sToiUiAc1NX28pyp7q6Ilvdw4ZQfzDHX0wyP7ANIkUZSbFRcuw=w526-h296-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Eraser・Photo Editor - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/-mL1oFYq1t0PmgF4XWwIdEXtOS7z0YO5wNQfZ5eNOcWbcCasIGEyb-ke1nM5IfHfs0M' alt='Background Eraser・Photo Editor - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/-mL1oFYq1t0PmgF4XWwIdEXtOS7z0YO5wNQfZ5eNOcWbcCasIGEyb-ke1nM5IfHfs0M' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Magic Eraser Background Editor on the App Store">
+                                <img itemprop="contentUrl url" src='https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/d6/f9/bfd6f945-78cb-9bbb-c69b-b34150ee4213/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/1200x630wa.png' alt='Magic Eraser Background Editor on the App Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="App Store - Apple" />
+                                </span>
+                                <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/d6/f9/bfd6f945-78cb-9bbb-c69b-b34150ee4213/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/1200x630wa.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Eraser - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/RS9yWmLdbMxg-nOBsnY3SlBo-eXXkjPedsU9HNy4aQfWT3HGWbfIkwJIqBl4T8CLqWU' alt='Background Eraser - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/RS9yWmLdbMxg-nOBsnY3SlBo-eXXkjPedsU9HNy4aQfWT3HGWbfIkwJIqBl4T8CLqWU' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Eraser: superimpose on the App Store">
+                                <img itemprop="contentUrl url" src='https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/36/9c/5f369c96-7f90-cf06-1ee9-44ea4be38758/AppIcon-0-0-1x_U007epad-0-85-220.png/1200x600wa.png' alt='Background Eraser: superimpose on the App Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="App Store - Apple" />
+                                </span>
+                                <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/36/9c/5f369c96-7f90-cf06-1ee9-44ea4be38758/AppIcon-0-0-1x_U007epad-0-85-220.png/1200x600wa.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Eraser Photo Editor - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/mMsAyunlm9JsaGesH_jYUmpSEw55MXBbEk86wKMFBIx0Sspr_Hx3lqC3uqrwEiHELJF4' alt='Background Eraser Photo Editor - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/mMsAyunlm9JsaGesH_jYUmpSEw55MXBbEk86wKMFBIx0Sspr_Hx3lqC3uqrwEiHELJF4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Eraser • Remove BG on the App Store">
+                                <img itemprop="contentUrl url" src='https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fe/4d/1d/fe4d1dc3-046a-3e87-0be1-9317ce93f3ab/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x600wa.png' alt='Background Eraser • Remove BG on the App Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="App Store - Apple" />
+                                </span>
+                                <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fe/4d/1d/fe4d1dc3-046a-3e87-0be1-9317ce93f3ab/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x600wa.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bg Eraser Automatic Bg Eraser - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/yvszK67Ocj_d_pZGdSiKH9Fsg5MDT080wGSaz3X-YeqHi8H6093DYDEoo7DKk8vql3Y' alt='Bg Eraser Automatic Bg Eraser - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/yvszK67Ocj_d_pZGdSiKH9Fsg5MDT080wGSaz3X-YeqHi8H6093DYDEoo7DKk8vql3Y' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Eraser - on the App Store">
+                                <img itemprop="contentUrl url" src='https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/55/30/b4553022-ce7e-f215-5f16-eb1290ef2dc7/AppIcon-0-0-1x_U007emarketing-0-10-0-0-sRGB-85-220.png/1200x630wa.png' alt='Background Eraser - on the App Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="App Store - Apple" />
+                                </span>
+                                <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/55/30/b4553022-ce7e-f215-5f16-eb1290ef2dc7/AppIcon-0-0-1x_U007emarketing-0-10-0-0-sRGB-85-220.png/1200x630wa.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

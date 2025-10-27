@@ -1,0 +1,129 @@
+<title>Stunning Purple Wallpapers for iPhone 12</title>
+                    <meta name="description" content="Explore our exclusive collection of vibrant purple wallpapers for iPhone 12. Ideal for personalizing your device, these wallpapers showcase creativity and style, making your iPhone stand out. Download now to elevate your phone's appearance effortlessly!">
+                    <meta name="keywords" content="iphone 12 purple wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/iphone-12-purple-wallpaper">
+                            <span itemprop="name">iphone 12 purple wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Purple Wallpapers for iPhone 12</h1>
+                <p>Discover the perfect iPhone 12 purple wallpaper to elevate your device's aesthetic. Featuring vibrant hues and stunning designs, our collection offers a unique selection that enhances your screen. From minimalist patterns to vibrant abstract art, find the ideal background that reflects your style. Upgrade your iPhone look today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download the new purple iPhone 12 wallpaper for your devices right ...">
+                                <img itemprop="contentUrl url" src='https://9to5mac.com/wp-content/uploads/sites/6/2021/04/1831.Orbs_Purple_Light-390w-844h@3xiphone.jpg?quality=82&strip=all' alt='Download the new purple iPhone 12 wallpaper for your devices right ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1404">
+                                <meta itemprop="height" content="3040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="9to5Mac" />
+                                </span>
+                                <a href='https://9to5mac.com/wp-content/uploads/sites/6/2021/04/1831.Orbs_Purple_Light-390w-844h@3xiphone.jpg?quality=82&strip=all' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 12 Purple Modd - Wallpapers Central">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2021/05/ispazio-30-1280x2770.jpg' alt='iPhone 12 Purple Modd - Wallpapers Central'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="2770">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Central - iSpazio" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2021/05/ispazio-30-1280x2770.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 12 Purple Dark mode : r/iphonewallpapers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/2gnghot2taw61.png' alt='iPhone 12 Purple Dark mode : r/iphonewallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/2gnghot2taw61.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 12 Pro: Purple MODD - Wallpapers Central">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2020/12/iSpazio-26-768x1662.jpg' alt='iPhone 12 Pro: Purple MODD - Wallpapers Central'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1662">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Central - iSpazio" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2020/12/iSpazio-26-768x1662.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="32+] Iphone 12 Wallpapers On Wallpapersafari 18">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c5/ec/a3/c5eca3b119960e2a34bd80d82873b005.jpg' alt='32+] Iphone 12 Wallpapers On Wallpapersafari 18'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c5/ec/a3/c5eca3b119960e2a34bd80d82873b005.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple iPhone 12 Mini Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp9202142.png' alt='Purple iPhone 12 Mini Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp9202142.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by meyija on iPhone 12 Wallpapers in 2022 | Original iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/92/18/ea/9218ea7e25fd52d980618a28bf095051.jpg' alt='Pin by meyija on iPhone 12 Wallpapers in 2022 | Original iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/92/18/ea/9218ea7e25fd52d980618a28bf095051.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone 12 Pro Purple Light Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/iphone-12-pro-purple-light-o2azdaq9zppexqie.jpg' alt='Iphone 12 Pro Purple Light Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/iphone-12-pro-purple-light-o2azdaq9zppexqie.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New purple wallpaper now available in iOS 14.5 RC : r/ios">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/1uv9nvoiyju61.jpg?width=640&crop=smart&auto=webp&s=32867a729036931d2543be3e6969a95674c74607' alt='New purple wallpaper now available in iOS 14.5 RC : r/ios'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/1uv9nvoiyju61.jpg?width=640&crop=smart&auto=webp&s=32867a729036931d2543be3e6969a95674c74607' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Purple Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/purple-iphone-s49c91hwp62nsskm.jpg' alt='200+] Purple Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/purple-iphone-s49c91hwp62nsskm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

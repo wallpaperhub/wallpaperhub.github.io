@@ -1,0 +1,129 @@
+<title>Explore the Rich History of Cricket</title>
+                    <meta name="description" content="Delve into the fascinating background of cricket, a sport with a storied history that has captured hearts across the globe. Discover its evolution, formats, and cultural significance, making it a beloved pastime in countries like India and England. Fine-tune your knowledge of this iconic game!">
+                    <meta name="keywords" content="cricket background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cricket-background">
+                            <span itemprop="name">cricket background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Rich History of Cricket</h1>
+                <p>Cricket, a sport with origins tracing back to the 16th century in England, has evolved into a global phenomenon. Celebrated for its rich traditions and competitive spirit, it garners immense popularity in countries like India, Australia, and England. With formats ranging from Test matches to T20, cricket captivates millions worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cricket Background Images – Browse 78,819 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/19/80/13/360_F_219801337_3kbasqLvgbUxAGVDH8QS35Sm4SEiPJFJ.jpg' alt='Cricket Background Images – Browse 78,819 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/19/80/13/360_F_219801337_3kbasqLvgbUxAGVDH8QS35Sm4SEiPJFJ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="160+ Background Of Cricket Bat Ball Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/485210100/vector/stadium-of-cricket-with-bat-ball-and-trophy.jpg?s=612x612&w=0&k=20&c=2K8MVouP8xOsC4CK-5hV4bM1TDynyhtoK7p5kEvLZP4=' alt='160+ Background Of Cricket Bat Ball Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="383">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/485210100/vector/stadium-of-cricket-with-bat-ball-and-trophy.jpg?s=612x612&w=0&k=20&c=2K8MVouP8xOsC4CK-5hV4bM1TDynyhtoK7p5kEvLZP4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="blue white colours cricket stadium background game - Recraft">
+                                <img itemprop="contentUrl url" src='https://img.recraft.ai/v59ptqhPxXqf0IXQRzH2GkXHBX9sjQw_mr0yOZB7sS4/rs:fit:2048:1024:0/q:95/g:no/plain/abs://prod/images/f8e098bb-5323-4387-b272-6cf3135fe887@jpg' alt='blue white colours cricket stadium background game - Recraft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Recraft" />
+                                </span>
+                                <a href='https://img.recraft.ai/v59ptqhPxXqf0IXQRzH2GkXHBX9sjQw_mr0yOZB7sS4/rs:fit:2048:1024:0/q:95/g:no/plain/abs://prod/images/f8e098bb-5323-4387-b272-6cf3135fe887@jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cricket background 2025 images">
+                                <img itemprop="contentUrl url" src='https://dm0qx8t0i9gc9.cloudfront.net/watermarks/image/rDtN98Qoishumwih/abstract-cricket-background_mkRmG-_SB_PM.jpg' alt='Cricket background 2025 images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="748">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://dm0qx8t0i9gc9.cloudfront.net/watermarks/image/rDtN98Qoishumwih/abstract-cricket-background_mkRmG-_SB_PM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cricket Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20231017/pngtree-icc-cricket-world-match-background-image_13943187.jpg' alt='Cricket Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="465">
+                                <meta itemprop="height" content="260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20231017/pngtree-icc-cricket-world-match-background-image_13943187.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cricket Ground Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1512719994953-eabf50895df7?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y3JpY2tldCUyMGdyb3VuZHxlbnwwfHwwfHx8MA%3D%3D' alt='Cricket Ground Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4058">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1512719994953-eabf50895df7?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y3JpY2tldCUyMGdyb3VuZHxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crickets Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20241030/pngtree-full-stadium-view-of-a-cricket-match-at-dusk-image_16473369.jpg' alt='Crickets Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="365">
+                                <meta itemprop="height" content="261">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20241030/pngtree-full-stadium-view-of-a-cricket-match-at-dusk-image_16473369.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cricket stadium background video - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/LLxT4mpQe-A/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AHUBoAC4AOKAgwIABABGCUgTyh_MA8=&rs=AOn4CLCfNLLrMbhF3nrH_qPIHCQSWHRP_A' alt='cricket stadium background video - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/LLxT4mpQe-A/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AHUBoAC4AOKAgwIABABGCUgTyh_MA8=&rs=AOn4CLCfNLLrMbhF3nrH_qPIHCQSWHRP_A' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cricket Poster Background Vector Images (over 2,500)">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/500p/56/46/cricket-stadium-background-vector-20455646.jpg' alt='Cricket Poster Background Vector Images (over 2,500)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="752">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/500p/56/46/cricket-stadium-background-vector-20455646.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cricket Stadium Background Stock Photos, Images and Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/046/737/048/small/blurry-buzz-of-cricket-a-blurred-background-of-a-packed-stadium-at-a-cricket-carnival-with-a-constant-hum-of-chatter-and-cheers-from-the-passionate-supporters-creating-a-dynamic-and-photo.jpg' alt='Cricket Stadium Background Stock Photos, Images and Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="357">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/046/737/048/small/blurry-buzz-of-cricket-a-blurred-background-of-a-packed-stadium-at-a-cricket-carnival-with-a-constant-hum-of-chatter-and-cheers-from-the-passionate-supporters-creating-a-dynamic-and-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

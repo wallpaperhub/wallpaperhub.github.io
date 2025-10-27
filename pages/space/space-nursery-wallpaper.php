@@ -1,0 +1,129 @@
+<title>Adorable Space Nursery Wallpaper for Kids’ Rooms</title>
+                    <meta name="description" content="Discover enchanting space nursery wallpaper that brings the universe to your child's room! Our colorful and whimsical designs inspire curiosity and creativity, making it the perfect choice for your little explorer. Easy to apply and remove, it's ideal for creating a cozy yet adventurous atmosphere.">
+                    <meta name="keywords" content="space nursery wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space">
+                            <span itemprop="name">Space</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/space/space-nursery-wallpaper">
+                            <span itemprop="name">space nursery wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Space Nursery Wallpaper for Kids’ Rooms</h1>
+                <p>Transform your child's room into a galaxy of dreams with our space nursery wallpaper. Featuring vibrant planets, twinkling stars, and playful astronauts, this wallpaper not only brightens the space but sparks imagination and curiosity about the universe. Perfect for creating a cozy and inspiring atmosphere for your little explorer!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage space themed kids room wallpaper">
+                                <img itemprop="contentUrl url" src='https://livetteswallpaper.com/cdn/shop/products/planets-pattern-wallpaper_yellow_1100x.jpg?v=1617638880' alt='Vintage space themed kids room wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livettes Wallpaper" />
+                                </span>
+                                <a href='https://livetteswallpaper.com/cdn/shop/products/planets-pattern-wallpaper_yellow_1100x.jpg?v=1617638880' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon Space and Planets Nursery Wall Mural Galaxy Wallpaper Peel ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25368471/r/il/681bd5/5012526037/il_fullxfull.5012526037_j9si.jpg' alt='Cartoon Space and Planets Nursery Wall Mural Galaxy Wallpaper Peel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1998">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25368471/r/il/681bd5/5012526037/il_fullxfull.5012526037_j9si.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Nursery Wallpaper Astronaut Animal Wall Mural Pastel ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/23444619/r/il/583bd1/4910520475/il_fullxfull.4910520475_iuc9.jpg' alt='Space Nursery Wallpaper Astronaut Animal Wall Mural Pastel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2666">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/23444619/r/il/583bd1/4910520475/il_fullxfull.4910520475_iuc9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WFBHUA-Galaxy Wallpaper Mural Kids Nursery Wallpaper Cosmic Planets Wall  Mural Decoration for Boys Room Playroom(Not Peel and Stick) - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81dNCxpzpHL.jpg' alt='WFBHUA-Galaxy Wallpaper Mural Kids Nursery Wallpaper Cosmic Planets Wall  Mural Decoration for Boys Room Playroom(Not Peel and Stick) - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2098">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81dNCxpzpHL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Planet Kids Room Wallpaper, Nursery Wallpaper, Space Peel and ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/32237469/r/il/929a9b/5398846383/il_fullxfull.5398846383_t1sx.jpg' alt='Planet Kids Room Wallpaper, Nursery Wallpaper, Space Peel and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2246">
+                                <meta itemprop="height" content="1688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/32237469/r/il/929a9b/5398846383/il_fullxfull.5398846383_t1sx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Nursery Wallpaper With Astronaut And Stars, Modern Astronaut ...">
+                                <img itemprop="contentUrl url" src='https://muralium.com/wp-content/uploads/2023/11/Kids-interior-01-14-scaled.jpg' alt='Space Nursery Wallpaper With Astronaut And Stars, Modern Astronaut ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1704">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Muralium" />
+                                </span>
+                                <a href='https://muralium.com/wp-content/uploads/2023/11/Kids-interior-01-14-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Nursery Wallpaper | I Love Wallpaper">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/3-PlayfulUniverseinWarmTonesonBlue_ILW50292_Roomset_WEB_b717f85e-6f5e-405c-b654-c50b7d96c70d.webp?crop=center&height=1080&v=1714732842&width=1080' alt='Space Nursery Wallpaper | I Love Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/3-PlayfulUniverseinWarmTonesonBlue_ILW50292_Roomset_WEB_b717f85e-6f5e-405c-b654-c50b7d96c70d.webp?crop=center&height=1080&v=1714732842&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Murwall Nursery Wallpaper Cartoon Space Wall Mural For ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/41fi8c1YOHL._UF894,1000_QL80_.jpg' alt='Amazon.com: Murwall Nursery Wallpaper Cartoon Space Wall Mural For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="769">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/41fi8c1YOHL._UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nursery Space with Colorful Planets and Little Stars Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://img.wallmur.net/@wmp/_826ax660/k/i/kids-wallpaper-for-boys-cartoon-space-wall-mural-colorful-planet_esdjzqnjbgl_3d_1.jpg' alt='Nursery Space with Colorful Planets and Little Stars Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="826">
+                                <meta itemprop="height" content="623">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://img.wallmur.net/@wmp/_826ax660/k/i/kids-wallpaper-for-boys-cartoon-space-wall-mural-colorful-planet_esdjzqnjbgl_3d_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Wallpaper for Nursery and Kids Rooms - Cosmic Playtime">
+                                <img itemprop="contentUrl url" src='http://teepeejoy.com/cdn/shop/files/4_770b3655-ebae-4a4f-a09b-c7449bae37c5.jpg?v=1705276752' alt='Galaxy Wallpaper for Nursery and Kids Rooms - Cosmic Playtime'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Teepee Joy" />
+                                </span>
+                                <a href='http://teepeejoy.com/cdn/shop/files/4_770b3655-ebae-4a4f-a09b-c7449bae37c5.jpg?v=1705276752' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

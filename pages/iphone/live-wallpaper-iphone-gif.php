@@ -1,0 +1,129 @@
+<title>Stunning Live Wallpaper GIFs for iPhone</title>
+                    <meta name="description" content="Discover beautiful live wallpaper GIFs for your iPhone! Personalize your device with eye-catching animations that bring your screen to life. Choose from a wide range of themes and styles to match your taste. Upgrade your iPhone experience effortlessly with these vibrant backgrounds!">
+                    <meta name="keywords" content="live wallpaper iphone gif">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/live-wallpaper-iphone-gif">
+                            <span itemprop="name">live wallpaper iphone gif</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Live Wallpaper GIFs for iPhone</h1>
+                <p>Transform your iPhone with stunning live wallpaper GIFs! These dynamic backgrounds breathe life into your home and lock screens, offering a delightful personalization. Choose from a variety of themes—nature, abstract art, or animated characters—that suit your style. Elevate your device's aesthetics today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Live Wallpaper GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media2.giphy.com/media/hqmtfIzR00swwpynW6/200w.gif?cid=6c09b952g6lcrub0aehc5wck6czlcj1if9i844yr3f7hlvyg&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Iphone Live Wallpaper GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media2.giphy.com/media/hqmtfIzR00swwpynW6/200w.gif?cid=6c09b952g6lcrub0aehc5wck6czlcj1if9i844yr3f7hlvyg&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/78/df/4e/78df4efbe3603955309af505fa108d91.gif' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="634">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/78/df/4e/78df4efbe3603955309af505fa108d91.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Live Wallpaper GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media4.giphy.com/media/eHWrmNYQDuaI7TkPS3/200w.gif?cid=6c09b952g6lcrub0aehc5wck6czlcj1if9i844yr3f7hlvyg&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Iphone Live Wallpaper GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media4.giphy.com/media/eHWrmNYQDuaI7TkPS3/200w.gif?cid=6c09b952g6lcrub0aehc5wck6czlcj1if9i844yr3f7hlvyg&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 11 Pro Live Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/f7/de/2e/f7de2eb971fe218010b4ec9f400ac22c.gif' alt='iPhone 11 Pro Live Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="222">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/f7/de/2e/f7de2eb971fe218010b4ec9f400ac22c.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iphone live wallpaper GIF by Chris Gannon - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media0.giphy.com/media/3oa9GRWW8VrQBImcWK/giphy.gif?cid=6c09b952ygm8x7nmqcyr7xjyh3g6mdh3pnqkacc51bjauzf6&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' alt='iphone live wallpaper GIF by Chris Gannon - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="222">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media0.giphy.com/media/3oa9GRWW8VrQBImcWK/giphy.gif?cid=6c09b952ygm8x7nmqcyr7xjyh3g6mdh3pnqkacc51bjauzf6&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Livewallpaper GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media4.giphy.com/media/5SywxWXfpvDCvG52fz/giphy.gif?cid=6c09b952l2j2xqvj5g2800hgj18zjitbvr5t008ozut4icf7&ep=v1_gifs_search&rid=giphy.gif&ct=g' alt='Livewallpaper GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="222">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GIPHY" />
+                                </span>
+                                <a href='https://media4.giphy.com/media/5SywxWXfpvDCvG52fz/giphy.gif?cid=6c09b952l2j2xqvj5g2800hgj18zjitbvr5t008ozut4icf7&ep=v1_gifs_search&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top 10 Trending Live Wallpaper iPhone iOs">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/5f/a5/bc/5fa5bcd841dbb126189e099721191e73.gif' alt='Top 10 Trending Live Wallpaper iPhone iOs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="712">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/5f/a5/bc/5fa5bcd841dbb126189e099721191e73.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Live Picture for the new iPhone 6S - GIF - Imgur">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/tC3RTaT.gif' alt='Cool Live Picture for the new iPhone 6S - GIF - Imgur'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Imgur" />
+                                </span>
+                                <a href='https://i.imgur.com/tC3RTaT.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Set a GIF as a Live Wallpaper for Your iPhone's Lock Screen ...">
+                                <img itemprop="contentUrl url" src='https://i.giphy.com/8mexVHDAfSf7HdpcbY.gif' alt='How to Set a GIF as a Live Wallpaper for Your iPhone's Lock Screen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="222">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iOS Gadget Hacks" />
+                                </span>
+                                <a href='https://i.giphy.com/8mexVHDAfSf7HdpcbY.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gif wallpaper 2025 iphone">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2018/12/MotionPicture-GIF.gif' alt='Gif wallpaper 2025 iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="332">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2018/12/MotionPicture-GIF.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

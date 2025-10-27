@@ -1,0 +1,129 @@
+<title>Craft Inspiring Quotes Easily with Our Quote Maker</title>
+                    <meta name="description" content="Discover the ultimate quote maker tool to effortlessly create stunning quotes for social media or personal use. Customize your quotes with beautiful designs and share your inspiration with the world. Start crafting your unique messages today!">
+                    <meta name="keywords" content="quote maker">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/quote-maker">
+                            <span itemprop="name">quote maker</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Craft Inspiring Quotes Easily with Our Quote Maker</h1>
+                <p>A quote maker is a valuable tool for generating inspiring and motivational quotes. Whether for social media, personal projects, or branding, it helps users quickly create visually appealing quote images. With customizable fonts, backgrounds, and layouts, anyone can express their thoughts creatively, enhancing their digital presence.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Quotes Creator - Quote Maker - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/42OEs32EaIz3oypQ5A7oKyNS5llMTtcL9S3BaP8po2zv_tejz5DGC-SXxz2lq-f7rNI=w526-h296-rw' alt='Quotes Creator - Quote Maker - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="166">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/42OEs32EaIz3oypQ5A7oKyNS5llMTtcL9S3BaP8po2zv_tejz5DGC-SXxz2lq-f7rNI=w526-h296-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Quote Maker: Create Custom Quote Pictures in PixTeller">
+                                <img itemprop="contentUrl url" src='https://pixteller.com/images/tools/example/quote-picture1-480.png' alt='Free Quote Maker: Create Custom Quote Pictures in PixTeller'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PixTeller" />
+                                </span>
+                                <a href='https://pixteller.com/images/tools/example/quote-picture1-480.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Quote Maker | Quote Generator| Designhill">
+                                <img itemprop="contentUrl url" src='https://assets.designhill.com/resize_img.php?atyp=st_page_file&pth=ft_bt_bgti_org||BT189240||big_gallery_with_ten_images_image3_img&flp=1574420249-17099429975dd7bf19d61784-06815873.jpg' alt='Quote Maker | Quote Generator| Designhill'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="825">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Designhill" />
+                                </span>
+                                <a href='https://assets.designhill.com/resize_img.php?atyp=st_page_file&pth=ft_bt_bgti_org||BT189240||big_gallery_with_ten_images_image3_img&flp=1574420249-17099429975dd7bf19d61784-06815873.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Quotes Creator - Quote Maker - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/eNxoADmlc8RAeXqNp7Ze0Mr_vAt2WQFgZzkd2QYWJNJEStZR-H11EAv3hVVe4hDms0S3=w526-h296-rw' alt='Quotes Creator - Quote Maker - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="166">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/eNxoADmlc8RAeXqNp7Ze0Mr_vAt2WQFgZzkd2QYWJNJEStZR-H11EAv3hVVe4hDms0S3=w526-h296-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Quote Poster Maker - Online Quote Maker & Creator | Canva">
+                                <img itemprop="contentUrl url" src='https://static-cse.canva.com/blob/1100609/quoteposter.png' alt='Free Quote Poster Maker - Online Quote Maker & Creator | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2204">
+                                <meta itemprop="height" content="1205">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://static-cse.canva.com/blob/1100609/quoteposter.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="QuotesCover - Fully-Featured Quote Maker">
+                                <img itemprop="contentUrl url" src='https://quotescover.com/wp-content/uploads/2019/12/quotes-poster-anatomy.jpg' alt='QuotesCover - Fully-Featured Quote Maker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1176">
+                                <meta itemprop="height" content="779">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="quotescover.com" />
+                                </span>
+                                <a href='https://quotescover.com/wp-content/uploads/2019/12/quotes-poster-anatomy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Quote Generator Print">
+                                <img itemprop="contentUrl url" src='https://i.postergen.com/custom-poster-creator/preview-images/450x330/quote-generator-poster.jpg' alt='Quote Generator Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterGen.com" />
+                                </span>
+                                <a href='https://i.postergen.com/custom-poster-creator/preview-images/450x330/quote-generator-poster.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Quotes Creator - Quote Maker on the App Store">
+                                <img itemprop="contentUrl url" src='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/9d/e3/93/9de39383-9088-44e0-8a7e-c78929c16cf0/pr_source.jpg/643x0w.jpg' alt='Quotes Creator - Quote Maker on the App Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="858">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="App Store - Apple" />
+                                </span>
+                                <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/9d/e3/93/9de39383-9088-44e0-8a7e-c78929c16cf0/pr_source.jpg/643x0w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Quote Maker | Create Engaging Quote Posts | OFFEO">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/614716f50b4f49202fdd0087/615f13de408dbb0ba6ca9dc4_01-1.jpg' alt='Quote Maker | Create Engaging Quote Posts | OFFEO'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OFFEO" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/614716f50b4f49202fdd0087/615f13de408dbb0ba6ca9dc4_01-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AI Quote Generator: Create Stunning Quote Images | Photoroom">
+                                <img itemprop="contentUrl url" src='https://a.storyblok.com/f/191576/1048x786/5edfe30086/quote_maker_2.webp' alt='AI Quote Generator: Create Stunning Quote Images | Photoroom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1048">
+                                <meta itemprop="height" content="786">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photoroom" />
+                                </span>
+                                <a href='https://a.storyblok.com/f/191576/1048x786/5edfe30086/quote_maker_2.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

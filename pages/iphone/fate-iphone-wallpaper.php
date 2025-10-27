@@ -1,0 +1,129 @@
+<title>Transform Your Screen with Fate-Inspired iPhone Wallpapers</title>
+                    <meta name="description" content="Explore stunning fate-themed iPhone wallpapers that inspire and captivate. Perfect for anyone looking to enhance their device with a touch of destiny. Download your favorite designs and let your screen reflect the beauty of fate today!">
+                    <meta name="keywords" content="fate iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/fate-iphone-wallpaper">
+                            <span itemprop="name">fate iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Screen with Fate-Inspired iPhone Wallpapers</h1>
+                <p>Discover the enchanting world of fate-themed iPhone wallpapers! Explore captivating designs inspired by destiny, chance, and the journey of life. Change your screen's aesthetic by choosing from mystical landscapes, cosmic patterns, and symbolic imagery. Each wallpaper serves as a reminder that our fate is as beautiful as we make it!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fate / Stay Night Poster Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/fate-stay-night-poster-bcvq6v2el8eubtiw.jpg' alt='Fate / Stay Night Poster Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="1092">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/fate-stay-night-poster-bcvq6v2el8eubtiw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fate/stay night: Unlimited Blade Works Wallpapers (44 images ...">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/c/f/6/1623854-1447x2055-iphone-hd-fatestay-night-unlimited-blade-works-wallpaper-image.jpg' alt='Fate/stay night: Unlimited Blade Works Wallpapers (44 images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1447">
+                                <meta itemprop="height" content="2055">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/c/f/6/1623854-1447x2055-iphone-hd-fatestay-night-unlimited-blade-works-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gilgamesh, fate, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/997/1/HD-wallpaper-gilgamesh-fate.jpg' alt='Gilgamesh, fate, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/997/1/HD-wallpaper-gilgamesh-fate.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="fatezero iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/90/47/95/9047951864892435c9fd7a1551bbba8b.jpg' alt='fatezero iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/90/47/95/9047951864892435c9fd7a1551bbba8b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download wallpaper 1280x2120 fate/grand order, ruler, anime girl ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersmug.com/download/1280x2120/053708/fate-grand-order-ruler-art.jpg' alt='Download wallpaper 1280x2120 fate/grand order, ruler, anime girl ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="2120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersMug" />
+                                </span>
+                                <a href='https://wallpapersmug.com/download/1280x2120/053708/fate-grand-order-ruler-art.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Help me get some cool iPhone wallpapers : r/fatestaynight">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/6NquT4b.jpg' alt='Help me get some cool iPhone wallpapers : r/fatestaynight'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.imgur.com/6NquT4b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fate Stay Night iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp6785240.jpg' alt='Fate Stay Night iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp6785240.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fate Stay Night #17 iPhone Case by Derrick Obara - Pixels">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/medium/3/17-fate-stay-night-derrick-obara.jpg' alt='Fate Stay Night #17 iPhone Case by Derrick Obara - Pixels'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixels" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/medium/3/17-fate-stay-night-derrick-obara.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fate/Stay Night Phone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/100/1001549.jpg' alt='Fate/Stay Night Phone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/100/1001549.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a8/a0/48/a8a0483077f22a4667374ffaded99ace.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a8/a0/48/a8a0483077f22a4667374ffaded99ace.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Heart GIFs: Convey Love & Emotion Instantly</title>
+                    <meta name="description" content="Explore a collection of heart GIFs that beautifully express love and emotion. Perfect for social media and personal messages, these animated images will help you convey your feelings effortlessly. Share the love and brighten someone's day with vibrant heart GIFs!">
+                    <meta name="keywords" content="heart gif">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/heart-gif">
+                            <span itemprop="name">heart gif</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Heart GIFs: Convey Love & Emotion Instantly</h1>
+                <p>Express your feelings with heart GIFs! These animated graphics add a touch of love and emotion to your conversations. Perfect for any occasion, they can convey affection, friendship, or romance. Discover a variety of heart GIFs to share on social media, in messages, or for that special someone. Show your heart with animation!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moving Hearts Love Sticker by Pops of Pretty - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/92/40/9f/92409f75241dbe1c5962c01a3a72ccf0.gif' alt='Moving Hearts Love Sticker by Pops of Pretty - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/92/40/9f/92409f75241dbe1c5962c01a3a72ccf0.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Hearts GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media2.giphy.com/media/HSCZMUa1ao17h7l5mg/200w.gif?cid=6c09b952oq48ywit5oztv393fi3phbg9ijr8mkkdj1vnqdpu&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Red Hearts GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media2.giphy.com/media/HSCZMUa1ao17h7l5mg/200w.gif?cid=6c09b952oq48ywit5oztv393fi3phbg9ijr8mkkdj1vnqdpu&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Love You Hearts GIF by Lucas and Friends by RV AppStudios - Find ...">
+                                <img itemprop="contentUrl url" src='https://media4.giphy.com/media/TYSHXmGTI1rQbbxdlb/giphy.gif?cid=6c09b952an614cozr2tz8vckaqfj2s8izt4smtpo9z4l3p4a&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' alt='I Love You Hearts GIF by Lucas and Friends by RV AppStudios - Find ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media4.giphy.com/media/TYSHXmGTI1rQbbxdlb/giphy.gif?cid=6c09b952an614cozr2tz8vckaqfj2s8izt4smtpo9z4l3p4a&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart Love Sticker - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/8e/4f/df/8e4fdf1543d5e78260d3076c04269570.gif' alt='Heart Love Sticker - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/8e/4f/df/8e4fdf1543d5e78260d3076c04269570.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Heart GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media2.giphy.com/media/3CCXHZWV6F6O9VQ7FL/200w.gif?cid=6c09b952s43nip9vsbeaew8rlzvz2524tvr49rfd26sx8ubo&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Red Heart GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media2.giphy.com/media/3CCXHZWV6F6O9VQ7FL/200w.gif?cid=6c09b952s43nip9vsbeaew8rlzvz2524tvr49rfd26sx8ubo&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Heart GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media3.giphy.com/avatars/ChxlsxyC/eJxX1pK8R849.gif' alt='Red Heart GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media3.giphy.com/avatars/ChxlsxyC/eJxX1pK8R849.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart Gif - IceGif">
+                                <img itemprop="contentUrl url" src='https://www.icegif.com/wp-content/uploads/2023/10/icegif-287.gif' alt='Heart Gif - IceGif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IceGif" />
+                                </span>
+                                <a href='https://www.icegif.com/wp-content/uploads/2023/10/icegif-287.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart Love Box Moving - Free GIF on Pixabay">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/animation/2022/08/23/03/32/03-32-04-108_512.gif' alt='Heart Love Box Moving - Free GIF on Pixabay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/animation/2022/08/23/03/32/03-32-04-108_512.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart GIF Animation​ | Gallery Yopriceville - High-Quality Free ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/downloadfullsize/send/5833' alt='Heart GIF Animation​ | Gallery Yopriceville - High-Quality Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/downloadfullsize/send/5833' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart Aesthetic GIF - Heart Aesthetic - Discover & Share GIFs">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/ff/22/f2/ff22f2e4df37bfb33815fc844ebe90cf.gif' alt='Heart Aesthetic GIF - Heart Aesthetic - Discover & Share GIFs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/ff/22/f2/ff22f2e4df37bfb33815fc844ebe90cf.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Elegant Black and White Toile Wallpaper for Timeless Decor</title>
+                    <meta name="description" content="Discover the beauty of black and white toile wallpaper. Perfect for enhancing your home decor, its classic patterns add a sophisticated touch to any room. Explore our collection for a stylish, timeless design that fits modern and traditional aesthetics alike.">
+                    <meta name="keywords" content="black and white toile wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/black-and-white-toile-wallpaper">
+                            <span itemprop="name">black and white toile wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Black and White Toile Wallpaper for Timeless Decor</h1>
+                <p>Black and white toile wallpaper is a timeless design choice that adds elegance and sophistication to any space. Its intricate patterns, featuring pastoral scenes and vintage motifs, create a stunning focal point. Ideal for both modern and traditional interiors, this wallpaper offers versatility and a touch of classic charm.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Campagne Toile by York - Black / White - Wallpaper : Wallpaper Direct">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/shared-assets/images/products/213349_1_orig.jpg?v=1707476725' alt='Campagne Toile by York - Black / White - Wallpaper : Wallpaper Direct'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/shared-assets/images/products/213349_1_orig.jpg?v=1707476725' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old World Toile by York - Black / White - Wallpaper : Wallpaper Direct">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/shared-assets/images/products/213383_1_orig.jpg?v=1707476854' alt='Old World Toile by York - Black / White - Wallpaper : Wallpaper Direct'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/shared-assets/images/products/213383_1_orig.jpg?v=1707476854' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Campagne Toile Wallpaper in Black and White">
+                                <img itemprop="contentUrl url" src='http://www.burkedecor.com/cdn/shop/products/Campagne_Toile_Wallpaper_in_Black_and_White_by_Ashford_House_for_York_Wallcoverings_e1d3eb1d-b5f4-4e3e-b240-fa0e95d7231e.jpg?v=1571709707' alt='Campagne Toile Wallpaper in Black and White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Burke Decor" />
+                                </span>
+                                <a href='http://www.burkedecor.com/cdn/shop/products/Campagne_Toile_Wallpaper_in_Black_and_White_by_Ashford_House_for_York_Wallcoverings_e1d3eb1d-b5f4-4e3e-b240-fa0e95d7231e.jpg?v=1571709707' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classic French Countryside Black & White Toile Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/classic-french-countryside-black-white--ebjm.jpg' alt='Classic French Countryside Black & White Toile Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/classic-french-countryside-black-white--ebjm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Award-winning wallpaper | Samples available | Shop at Sarza">
+                                <img itemprop="contentUrl url" src='https://www.sarzastore.com/cdn/shop/files/Noluthando-Black-and-White-Toile-by-Kim-Williams-Jessica-Molebatsi_1200x.webp?v=1722608800' alt='Award-winning wallpaper | Samples available | Shop at Sarza'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Award-winning wallpaper | Samples available | Shop at Sarza" />
+                                </span>
+                                <a href='https://www.sarzastore.com/cdn/shop/files/Noluthando-Black-and-White-Toile-by-Kim-Williams-Jessica-Molebatsi_1200x.webp?v=1722608800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sample Old World Toile Wallpaper in Black and White">
+                                <img itemprop="contentUrl url" src='http://www.burkedecor.com/cdn/shop/products/Old_World_Toile_Wallpaper_in_Black_and_White_by_Ashford_House_for_York_Wallcoverings.jpg?v=1571709709' alt='Sample Old World Toile Wallpaper in Black and White'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Burke Decor" />
+                                </span>
+                                <a href='http://www.burkedecor.com/cdn/shop/products/Old_World_Toile_Wallpaper_in_Black_and_White_by_Ashford_House_for_York_Wallcoverings.jpg?v=1571709709' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Champagne Toile Wallpaper – York Wallcoverings">
+                                <img itemprop="contentUrl url" src='https://www.yorkwallcoverings.com/cdn/shop/products/ASH735CAMPAGNETOILEex_134cc20a-3529-4a73-95a7-4464aeaa4476.jpg?v=1703782991&width=800' alt='Champagne Toile Wallpaper – York Wallcoverings'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="York Wallcoverings" />
+                                </span>
+                                <a href='https://www.yorkwallcoverings.com/cdn/shop/products/ASH735CAMPAGNETOILEex_134cc20a-3529-4a73-95a7-4464aeaa4476.jpg?v=1703782991&width=800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patton Norwall CH22508 Romantic Toile Black White Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/210612.jpg' alt='Patton Norwall CH22508 Romantic Toile Black White Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/210612.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bunny Toile Wallpaper by York - Leland's Wallpaper">
+                                <img itemprop="contentUrl url" src='https://lelandswallpaper.com/wp-content/uploads/2022/06/AT4263-york-wallcovering-black-and-white-resource-library-bunny-toile-wallpaper-white-black-room-setting.jpg' alt='Bunny Toile Wallpaper by York - Leland's Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lelands Wallpaper" />
+                                </span>
+                                <a href='https://lelandswallpaper.com/wp-content/uploads/2022/06/AT4263-york-wallcovering-black-and-white-resource-library-bunny-toile-wallpaper-white-black-room-setting.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toile Resource Library Anemone Toile Wallpaper - Black">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/files/RT7875.jpg?v=1697573345' alt='Toile Resource Library Anemone Toile Wallpaper - Black'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/files/RT7875.jpg?v=1697573345' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

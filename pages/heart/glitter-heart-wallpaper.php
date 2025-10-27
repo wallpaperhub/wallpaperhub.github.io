@@ -1,0 +1,129 @@
+<title>Gorgeous Glitter Heart Wallpapers for Your Screen</title>
+                    <meta name="description" content="Discover beautiful glitter heart wallpapers to personalize your device. Ideal for those who love sparkle and romance, our collection has designs for every taste - perfect for phones and tablets. Download now to give your screen a charming makeover!">
+                    <meta name="keywords" content="glitter heart wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart">
+                            <span itemprop="name">Heart</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart/glitter-heart-wallpaper">
+                            <span itemprop="name">glitter heart wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Gorgeous Glitter Heart Wallpapers for Your Screen</h1>
+                <p>Transform your device with our stunning glitter heart wallpaper! Perfect for adding a touch of sparkle and romance, these wallpapers feature vibrant colors and dazzling patterns. Whether for your phone or tablet, our collection offers a variety of designs to suit your style. Elevate your screen's aesthetic and embrace the love!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Sparkle Heart Images – Browse 155,694 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/11/42/16/50/360_F_1142165073_ktwcdnE3o6E3AeuRxKDD4EBvyQN3xds6.jpg' alt='Pink Sparkle Heart Images – Browse 155,694 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/11/42/16/50/360_F_1142165073_ktwcdnE3o6E3AeuRxKDD4EBvyQN3xds6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900+ Best Glitter hearts ideas | glitter hearts, heart wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/69/59/ea/6959ea0ac33c1c838dc20441807c2444.jpg' alt='900+ Best Glitter hearts ideas | glitter hearts, heart wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1239">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/69/59/ea/6959ea0ac33c1c838dc20441807c2444.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,271 Sparkling Glitter Hearts Stock Photos - Free & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/luxurious-valentine-themed-background-featuring-sparkling-glitter-hearts-rich-red-gold-tones-ideal-festive-digital-334411723.jpg' alt='2,271 Sparkling Glitter Hearts Stock Photos - Free & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/luxurious-valentine-themed-background-featuring-sparkling-glitter-hearts-rich-red-gold-tones-ideal-festive-digital-334411723.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glitter heart phone wallpaper sparkle background bling shimmer ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1f/45/00/1f4500bd78a425f0cbec390d8a686ecb.jpg' alt='Glitter heart phone wallpaper sparkle background bling shimmer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1f/45/00/1f4500bd78a425f0cbec390d8a686ecb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Glitter Heart Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/gold-glitter-heart-em783iaexz9y3euo.jpg' alt='Gold Glitter Heart Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="438">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/gold-glitter-heart-em783iaexz9y3euo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Glitter Pink Hearts Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/glitter-pink-hearts-1536-x-2048-c3abpn2f4yng7iba.jpg' alt='100+] Glitter Pink Hearts Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/glitter-pink-hearts-1536-x-2048-c3abpn2f4yng7iba.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD glitter heart wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/323/99/HD-wallpaper-heart-glitter-love.jpg' alt='HD glitter heart wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/323/99/HD-wallpaper-heart-glitter-love.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glitter and Hearts Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/36071698/r/il/691a54/5336836031/il_570xN.5336836031_qpfw.jpg' alt='Glitter and Hearts Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1023">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/36071698/r/il/691a54/5336836031/il_570xN.5336836031_qpfw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900+ Best Glitter hearts ideas | glitter hearts, heart wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/de/33/a0/de33a0bbaacb6217ab07171a60714b4b.jpg' alt='900+ Best Glitter hearts ideas | glitter hearts, heart wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="524">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/de/33/a0/de33a0bbaacb6217ab07171a60714b4b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,273 Purple Glitter Heart Stock Photos - Free & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/vibrant-purple-glitter-heart-shines-against-soft-pink-backdrop-radiating-love-joy-sparkling-accents-festive-348373907.jpg' alt='3,273 Purple Glitter Heart Stock Photos - Free & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="744">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/vibrant-purple-glitter-heart-shines-against-soft-pink-backdrop-radiating-love-joy-sparkling-accents-festive-348373907.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

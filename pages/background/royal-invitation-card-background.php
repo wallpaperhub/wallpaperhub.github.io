@@ -1,0 +1,129 @@
+<title>Royal Invitation Card Backgrounds: Elevate Your Event</title>
+                    <meta name="description" content="Explore stunning royal invitation card backgrounds designed to elevate any special occasion. Rich in elegance and detail, these luxurious backgrounds create a majestic atmosphere. Ideal for weddings, anniversaries, and formal events, make your invitations stand out with a touch of royal charm. Perfect for your unforgettable moments!">
+                    <meta name="keywords" content="royal invitation card background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/royal-invitation-card-background">
+                            <span itemprop="name">royal invitation card background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Royal Invitation Card Backgrounds: Elevate Your Event</h1>
+                <p>Discover the elegance of royal invitation card backgrounds that set the tone for regal events. These luxurious designs often feature ornate patterns, rich colors, and intricate details that evoke a sense of grandeur. Perfect for weddings, anniversaries, or formal gatherings, a royal background enhances the invitation's appeal, making it unforgettable.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE PRINTABLE) – Gold Royal Wedding Invitation Templates">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ca/c3/62/cac362ec2853af4ce248d1831c0cf904.jpg' alt='FREE PRINTABLE) – Gold Royal Wedding Invitation Templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1030">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ca/c3/62/cac362ec2853af4ce248d1831c0cf904.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Royal Invitation Card Background Images, HD Pictures and Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20220403/pngtree-golden-green-mandala-art-background-with-border-invitation-card-wedding-islamic-image_1071002.jpg' alt='Royal Invitation Card Background Images, HD Pictures and Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="289">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20220403/pngtree-golden-green-mandala-art-background-with-border-invitation-card-wedding-islamic-image_1071002.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Royal Invitation Card Stock Illustration - Download Image Now ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/497243557/vector/brown-with-gold-damask-pattern-royal-invitation-card.jpg?s=612x612&w=is&k=20&c=95VSTKWPQMzYi-kc9uVA82Bz1b1t7Ec3aZrsdNwtlS4=' alt='Red Royal Invitation Card Stock Illustration - Download Image Now ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/497243557/vector/brown-with-gold-damask-pattern-royal-invitation-card.jpg?s=612x612&w=is&k=20&c=95VSTKWPQMzYi-kc9uVA82Bz1b1t7Ec3aZrsdNwtlS4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxury Royal Golden Mandala Background With Borders For Invitation ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/57/61/4e/57614e45a5811fe298e9f729b2b60440.jpg' alt='Luxury Royal Golden Mandala Background With Borders For Invitation ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1030">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="kr.pinterest.com" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/57/61/4e/57614e45a5811fe298e9f729b2b60440.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Royal Invitation Background Images, HD Pictures and Wallpaper For ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20220302/pngtree-luxury-royal-golden-mandala-background-with-borders-for-invitation-and-wedding-image_1066442.jpg' alt='Royal Invitation Background Images, HD Pictures and Wallpaper For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="289">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20220302/pngtree-luxury-royal-golden-mandala-background-with-borders-for-invitation-and-wedding-image_1066442.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage background, antique invitation card, royal greeting with ...">
+                                <img itemprop="contentUrl url" src='https://st.depositphotos.com/1033579/4558/v/450/depositphotos_45588329-stock-illustration-vintage-background-antique-invitation-card.jpg' alt='Vintage background, antique invitation card, royal greeting with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://st.depositphotos.com/1033579/4558/v/450/depositphotos_45588329-stock-illustration-vintage-background-antique-invitation-card.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage background, islamic style ornament, ornamental book ...">
+                                <img itemprop="contentUrl url" src='https://cbx-prod.b-cdn.net/COLOURBOX11443190.jpg?width=800&height=800&quality=70' alt='Vintage background, islamic style ornament, ornamental book ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="566">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Colourbox" />
+                                </span>
+                                <a href='https://cbx-prod.b-cdn.net/COLOURBOX11443190.jpg?width=800&height=800&quality=70' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 3 | Royal Gold Invitation Background Images - Free Download ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/elegant-ornamental-background-with-space-text_1394-876.jpg' alt='Page 3 | Royal Gold Invitation Background Images - Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="470">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/elegant-ornamental-background-with-space-text_1394-876.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wedding Invitation card background template d | PosterMyWall">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/wedding-invitation-card-background-template-d-design-8ffff03cf1d5f661e68589048d3a5c31_screen.jpg?ts=1697700638' alt='Wedding Invitation card background template d | PosterMyWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="448">
+                                <meta itemprop="height" content="693">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/wedding-invitation-card-background-template-d-design-8ffff03cf1d5f661e68589048d3a5c31_screen.jpg?ts=1697700638' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Mandala Vector Floral Background Royal Wedding Invitation ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/1b/a1/26/1ba1264c93182c4363e16c1f572b586f.jpg' alt='Abstract Mandala Vector Floral Background Royal Wedding Invitation ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/1b/a1/26/1ba1264c93182c4363e16c1f572b586f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Explore Creative Fun Patterns for Every Occasion</title>
+                    <meta name="description" content="Discover a world of fun patterns that elevate your style and creativity. From playful designs in fashion to unique home décor, explore patterns that make a statement and express your personality. Dive into vibrant colors and imaginative styles that bring joy to everyday life!">
+                    <meta name="keywords" content="fun patterns">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fun-patterns">
+                            <span itemprop="name">fun patterns</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore Creative Fun Patterns for Every Occasion</h1>
+                <p>Fun patterns can add a playful touch to any design. From vibrant geometric shapes to whimsical floral motifs, they bring a sense of joy and creativity. Patterns can be used in fashion, home décor, and digital art, allowing for endless combinations and personal expression. Embrace bold colors and quirky designs to make any space fun!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="998,000+ Fun Patterns Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/504750682/vector/seamless-pattern-with-confetti.jpg?s=612x612&w=0&k=20&c=05LnPna2fT-9_Jv5Wwzpkckb80EJoZBzLlFtY-U0OsQ=' alt='998,000+ Fun Patterns Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/504750682/vector/seamless-pattern-with-confetti.jpg?s=612x612&w=0&k=20&c=05LnPna2fT-9_Jv5Wwzpkckb80EJoZBzLlFtY-U0OsQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="349,500+ Fun Background Pattern Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1379780650/vector/fun-black-line-doodle-seamless-pattern.jpg?s=612x612&w=0&k=20&c=g4qL2SloudlW0yCeqf1fCQiSDXipcw08PQpkmuwEXbA=' alt='349,500+ Fun Background Pattern Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="306">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1379780650/vector/fun-black-line-doodle-seamless-pattern.jpg?s=612x612&w=0&k=20&c=g4qL2SloudlW0yCeqf1fCQiSDXipcw08PQpkmuwEXbA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fun Geometric Pattern: Over 497,788 Royalty-Free Licensable Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2477200953/display_1500/stock-vector-collection-of-textured-vector-backgrounds-with-simple-and-fun-repeating-patterns-abstract-colorful-2477200953.jpg' alt='Fun Geometric Pattern: Over 497,788 Royalty-Free Licensable Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2477200953/display_1500/stock-vector-collection-of-textured-vector-backgrounds-with-simple-and-fun-repeating-patterns-abstract-colorful-2477200953.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="998,000+ Fun Patterns Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1498983961/vector/multi-colored-squiggled-bold-lines-with-loops-and-dots-seamless-pattern.jpg?s=612x612&w=0&k=20&c=shY4wnDSirbC6-BQ-obSDPMq7aaV_VHn2PmjqrPO458=' alt='998,000+ Fun Patterns Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="245">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1498983961/vector/multi-colored-squiggled-bold-lines-with-loops-and-dots-seamless-pattern.jpg?s=612x612&w=0&k=20&c=shY4wnDSirbC6-BQ-obSDPMq7aaV_VHn2PmjqrPO458=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fun Pattern Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/fun-colourful-abstract-memphis-style-pattern-design_1048-20491.jpg' alt='Fun Pattern Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="444">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/fun-colourful-abstract-memphis-style-pattern-design_1048-20491.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fun and Bright Colors Patterns, 20 Digital Papers (12“x12 ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/9999672/r/il/97da93/988652581/il_1080xN.988652581_772i.jpg' alt='Fun and Bright Colors Patterns, 20 Digital Papers (12“x12 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/9999672/r/il/97da93/988652581/il_1080xN.988652581_772i.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Fun Of Circles Seamless Vector Pattern Design">
+                                <img itemprop="contentUrl url" src='https://d1biw2rz2h5h5w.cloudfront.net/images/patterns/thumbs/detail/8203/Summer-Fun-Of-Circles.jpg' alt='Summer Fun Of Circles Seamless Vector Pattern Design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pattern Design" />
+                                </span>
+                                <a href='https://d1biw2rz2h5h5w.cloudfront.net/images/patterns/thumbs/detail/8203/Summer-Fun-Of-Circles.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+ Fun, Easy Patterns to Draw">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b5/a8/ed/b5a8edf44024b2120833e66c3edf4d3c.jpg' alt='100+ Fun, Easy Patterns to Draw'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1012">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b5/a8/ed/b5a8edf44024b2120833e66c3edf4d3c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pattern Fun Vectors & Illustrations for Free Download | Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/funny-hand-drawn-pattern-doodles_69286-374.jpg' alt='Pattern Fun Vectors & Illustrations for Free Download | Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/funny-hand-drawn-pattern-doodles_69286-374.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Geometric Fun - Patterns Bundle">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d6/ca/05/d6ca05ab9b4dcb5e43e98eabe838a118.jpg' alt='Geometric Fun - Patterns Bundle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="489">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d6/ca/05/d6ca05ab9b4dcb5e43e98eabe838a118.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

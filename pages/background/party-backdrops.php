@@ -1,0 +1,129 @@
+<title>Stunning Party Backdrops for Every Celebration</title>
+                    <meta name="description" content="Discover amazing party backdrops that elevate any event! From birthdays to weddings, our collection offers stylish and unique designs that create memorable atmospheres. Enhance your celebration with vibrant, customizable options perfect for photo opportunities. Explore our selection today!">
+                    <meta name="keywords" content="party backdrops">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/party-backdrops">
+                            <span itemprop="name">party backdrops</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Party Backdrops for Every Celebration</h1>
+                <p>Party backdrops set the stage for unforgettable celebrations! Whether it's a birthday, wedding, or corporate event, choosing the right backdrop enhances your theme and creates stunning photo opportunities. From elegant drapes to colorful banners and customized prints, the options are endless. Elevate your party vibes with the perfect backdrop today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Matte White Shimmer Wall Backdrop 6FTx6FT Sequin ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81MZ+pSTOQL.jpg' alt='Amazon.com : Matte White Shimmer Wall Backdrop 6FTx6FT Sequin ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81MZ+pSTOQL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : COKAOBE Light Gold Shimmer Wall Backdrop, 18 Pcs Square Sequin  Shimmer Backdrop Panel, Photo Backdrops for Birthday, Anniversary, ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81Ta5GJKzSL.jpg' alt='Amazon.com : COKAOBE Light Gold Shimmer Wall Backdrop, 18 Pcs Square Sequin  Shimmer Backdrop Panel, Photo Backdrops for Birthday, Anniversary, ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81Ta5GJKzSL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink and White Party Backdrop/bridal Shower Party Backdrop/custom ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25981791/r/il/d97c5e/4610189631/il_fullxfull.4610189631_b9z7.jpg' alt='Pink and White Party Backdrop/bridal Shower Party Backdrop/custom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1169">
+                                <meta itemprop="height" content="1332">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25981791/r/il/d97c5e/4610189631/il_fullxfull.4610189631_b9z7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Rose Flower Wall Backdrop – ubackdrop">
+                                <img itemprop="contentUrl url" src='https://www.ubackdrop.com/cdn/shop/files/PinkRoseFlowerWall_f4e553a4-66b0-4dee-9842-36d23a3f1dff.jpg?v=1724382661&width=1946' alt='Pink Rose Flower Wall Backdrop – ubackdrop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ubackdrop" />
+                                </span>
+                                <a href='https://www.ubackdrop.com/cdn/shop/files/PinkRoseFlowerWall_f4e553a4-66b0-4dee-9842-36d23a3f1dff.jpg?v=1724382661&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Party Pop Set - Birthday Backdrop - Miami Party Decor - Party Decorations &  Event Services">
+                                <img itemprop="contentUrl url" src='https://miamipartydecor.com/wp-content/uploads/product_party-pop-set-birthday-backdrop_miami-party-decor_1_v.jpg' alt='Party Pop Set - Birthday Backdrop - Miami Party Decor - Party Decorations &  Event Services'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2133">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Miami Party Decor" />
+                                </span>
+                                <a href='https://miamipartydecor.com/wp-content/uploads/product_party-pop-set-birthday-backdrop_miami-party-decor_1_v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Backdrops and Decorations - Party Now Balloons & Decor - Tampa, FL">
+                                <img itemprop="contentUrl url" src='https://partynowtampa.com/wp-content/uploads/2024/04/backdrop-balloon-decoration-tampa-01.webp' alt='Backdrops and Decorations - Party Now Balloons & Decor - Tampa, FL'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="785">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Party Now Tampa" />
+                                </span>
+                                <a href='https://partynowtampa.com/wp-content/uploads/2024/04/backdrop-balloon-decoration-tampa-01.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aperturee Light Rose Gold Sweet 16 Round Birthday Backdrop | Customized  Backdrop For Birthday | Custom Circle Backdrop Birthday | Round Party  Backdrop">
+                                <img itemprop="contentUrl url" src='http://www.aperturee.com/cdn/shop/products/aperturee-light-rose-gold-sweet-16-round-birthday-backdrop-305.jpg?v=1723261927' alt='Aperturee Light Rose Gold Sweet 16 Round Birthday Backdrop | Customized  Backdrop For Birthday | Custom Circle Backdrop Birthday | Round Party  Backdrop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Aperturee" />
+                                </span>
+                                <a href='http://www.aperturee.com/cdn/shop/products/aperturee-light-rose-gold-sweet-16-round-birthday-backdrop-305.jpg?v=1723261927' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Easy DIY Chiara Backdrop for a Birthday Party - DeAnn Creates">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/deanncreates.com/wp-content/uploads/2021/12/Backdrop-60-Pin-1.png?fit=640%2C960&ssl=1' alt='Easy DIY Chiara Backdrop for a Birthday Party - DeAnn Creates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeAnn Creates" />
+                                </span>
+                                <a href='https://i0.wp.com/deanncreates.com/wp-content/uploads/2021/12/Backdrop-60-Pin-1.png?fit=640%2C960&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DIY Arched Backdrop — Goldie Wylde">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5b97f1fa2487fdc1f05b91af/1628956269237-3N3WS7FHS3PJX05L55VW/Goldie+Turns+Two' alt='DIY Arched Backdrop — Goldie Wylde'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Goldie Wylde" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5b97f1fa2487fdc1f05b91af/1628956269237-3N3WS7FHS3PJX05L55VW/Goldie+Turns+Two' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Party Backdrops">
+                                <img itemprop="contentUrl url" src='https://cdn.squaresigns.com/images/media/party-backdrop-for-a-birthday-celebration.jpg' alt='Party Backdrops'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Square Signs" />
+                                </span>
+                                <a href='https://cdn.squaresigns.com/images/media/party-backdrop-for-a-birthday-celebration.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

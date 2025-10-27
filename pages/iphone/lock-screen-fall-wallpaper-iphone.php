@@ -1,0 +1,129 @@
+<title>Autumn Vibes: Best Fall Lock Screen Wallpapers for iPhone</title>
+                    <meta name="description" content="Discover the best lock screen fall wallpapers to personalize your iPhone! Explore stunning autumn-themed designs that capture the beauty of the season, from colorful leaves to serene landscapes. Enhance your device's aesthetic with the perfect fall wallpaper today!">
+                    <meta name="keywords" content="lock screen fall wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/lock-screen-fall-wallpaper-iphone">
+                            <span itemprop="name">lock screen fall wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Autumn Vibes: Best Fall Lock Screen Wallpapers for iPhone</h1>
+                <p>Transform your iPhone's lock screen with stunning fall wallpapers! Embrace the vibrant hues of autumn foliage, crisp leaves, and serene landscapes that evoke the essence of the season. Whether you prefer cozy vibes or dramatic scenery, there's a perfect wallpaper to enhance your device's look and feel. Update your lock screen today and celebrate fall!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Fall iPhone Wallpapers | PS Tech">
+                                <img itemprop="contentUrl url" src='https://media1.popsugar-assets.com/files/thumbor/Zh60wYAtFxF3O2znWiLN5Y29DB4=/fit-in/3744x5616/filters:format_auto():extract_cover():upscale()/2020/09/24/834/n/1922507/72fb14bf213407b2_GettyImages-1168034002.jpg' alt='50 Fall iPhone Wallpapers | PS Tech'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3744">
+                                <meta itemprop="height" content="5616">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Popsugar" />
+                                </span>
+                                <a href='https://media1.popsugar-assets.com/files/thumbor/Zh60wYAtFxF3O2znWiLN5Y29DB4=/fit-in/3744x5616/filters:format_auto():extract_cover():upscale()/2020/09/24/834/n/1922507/72fb14bf213407b2_GettyImages-1168034002.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Fall Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/fall-iphone-wwp6ybcknp56hn25.jpg' alt='100+] Fall Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/fall-iphone-wwp6ybcknp56hn25.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Lock Screen Cute Fall Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/lock-screen-cute-fall-g73o60sjw77crfxr.jpg' alt='100+] Lock Screen Cute Fall Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/lock-screen-cute-fall-g73o60sjw77crfxr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60+ Fall Wallpapers For IPhone (2024): Autumn Aesthetic">
+                                <img itemprop="contentUrl url" src='https://www.margaretbourne.com/wp-content/uploads/2023/07/Fall-Wallpapers-for-iPhone-Autumn-woods-and-trail-576x1024.jpg' alt='60+ Fall Wallpapers For IPhone (2024): Autumn Aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Margaret Bourne" />
+                                </span>
+                                <a href='https://www.margaretbourne.com/wp-content/uploads/2023/07/Fall-Wallpapers-for-iPhone-Autumn-woods-and-trail-576x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn ~ wallpaper/background/lock screen More">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/87/ed/cd/87edcd754514835ace19010932efffc9.jpg' alt='Autumn ~ wallpaper/background/lock screen More'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/87/ed/cd/87edcd754514835ace19010932efffc9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Wallpaper, Pumpkin Wallpaper, Phone Wallpaper, Fall Lock Screen, Its  Fall Yall">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11111397/r/il/d02080/3334023260/il_fullxfull.3334023260_gd8q.jpg' alt='Fall Wallpaper, Pumpkin Wallpaper, Phone Wallpaper, Fall Lock Screen, Its  Fall Yall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11111397/r/il/d02080/3334023260/il_fullxfull.3334023260_gd8q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Lock Screen, Autumn Season, nature, leaves, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/639/996/HD-wallpaper-iphone-lock-screen-autumn-season-nature-leaves.jpg' alt='Iphone Lock Screen, Autumn Season, nature, leaves, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/639/996/HD-wallpaper-iphone-lock-screen-autumn-season-nature-leaves.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Fall iPhone Wallpapers That'll Instantly Make You Feel Cozy">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bf/c7/7d/bfc77d7c16978d2cdb00b24f0bdc3731.jpg' alt='50 Fall iPhone Wallpapers That'll Instantly Make You Feel Cozy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bf/c7/7d/bfc77d7c16978d2cdb00b24f0bdc3731.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome fall background and lockscreen for iphone 11 - iPhone 13 ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/33/1005/HD-wallpaper-awesome-fall-background-and-lockscreen-for-iphone-11-iphone-13-pro-max-iphone-12-background-iphone-iphone-background-update-best-iphone-and-iphone-background-autumn-11.jpg' alt='Awesome fall background and lockscreen for iphone 11 - iPhone 13 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1438">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/33/1005/HD-wallpaper-awesome-fall-background-and-lockscreen-for-iphone-11-iphone-13-pro-max-iphone-12-background-iphone-iphone-background-update-best-iphone-and-iphone-background-autumn-11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall iPhone Wallpaper Backgrounds - Free To Download">
+                                <img itemprop="contentUrl url" src='https://www.houseofhawthornes.com/wp-content/uploads/2022/10/fall-wallpaper-backgrounds-iphone-pumpkins.jpg' alt='Fall iPhone Wallpaper Backgrounds - Free To Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="House of Hawthornes" />
+                                </span>
+                                <a href='https://www.houseofhawthornes.com/wp-content/uploads/2022/10/fall-wallpaper-backgrounds-iphone-pumpkins.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

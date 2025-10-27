@@ -1,0 +1,129 @@
+<title>What Triggered World War I: The Key Events Explained</title>
+                    <meta name="description" content="Discover the crucial factors that led to the outbreak of World War I, including the assassination of Archduke Franz Ferdinand and the web of alliances that escalated tensions between nations. Explore how nationalism and militarism played a role in this historic global conflict.">
+                    <meta name="keywords" content="what started ww1">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/what-started-ww1">
+                            <span itemprop="name">what started ww1</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>What Triggered World War I: The Key Events Explained</h1>
+                <p>World War I was ignited by a complex interplay of political alliances, nationalism, and militarism. The assassination of Archduke Franz Ferdinand of Austria-Hungary in 1914 served as the spark that lit the fuse, leading to a cascade of declarations of war among major powers, ultimately plunging the world into a devastating conflict.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Bad Directions (And A Sandwich?) Started World War I : NPR">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/img/2014/03/04/beltrame_sarajevo_-cropped--c27d6134b82eb25020e6ea78bc16674a365c967e.jpg?s=1100&c=50&f=jpeg' alt='How Bad Directions (And A Sandwich?) Started World War I : NPR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="429">
+                                <meta itemprop="height" content="322">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/img/2014/03/04/beltrame_sarajevo_-cropped--c27d6134b82eb25020e6ea78bc16674a365c967e.jpg?s=1100&c=50&f=jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Started WW1? A Closer Look at the Origins of the Great War ...">
+                                <img itemprop="contentUrl url" src='https://www.historyonthenet.com/wp-content/uploads/2016/12/franz-ferdinand-011.jpg' alt='What Started WW1? A Closer Look at the Origins of the Great War ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="276">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="History on the Net" />
+                                </span>
+                                <a href='https://www.historyonthenet.com/wp-content/uploads/2016/12/franz-ferdinand-011.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Causes Of The First World War | Imperial War Museums">
+                                <img itemprop="contentUrl url" src='https://www.iwm.org.uk/sites/default/files/2022-02/Causes%20ww1.jpg' alt='The Causes Of The First World War | Imperial War Museums'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1120">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Imperial War Museums" />
+                                </span>
+                                <a href='https://www.iwm.org.uk/sites/default/files/2022-02/Causes%20ww1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Started WW1? - The Road To War">
+                                <img itemprop="contentUrl url" src='https://historyjustgotinteresting.com/wp-content/uploads/2022/10/Franz-Ferdinand-Assassination-2.jpg' alt='What Started WW1? - The Road To War'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="969">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="History Just Got Interesting" />
+                                </span>
+                                <a href='https://historyjustgotinteresting.com/wp-content/uploads/2022/10/Franz-Ferdinand-Assassination-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top 5 Causes of World War I">
+                                <img itemprop="contentUrl url" src='https://www.thoughtco.com/thmb/K_DKQz_XjblNIRjrQy7lvPGBiOQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Archduke-Franz-Ferdinand-5898d0f35f9b5874eeebb943.jpg' alt='Top 5 Causes of World War I'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ThoughtCo" />
+                                </span>
+                                <a href='https://www.thoughtco.com/thmb/K_DKQz_XjblNIRjrQy7lvPGBiOQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Archduke-Franz-Ferdinand-5898d0f35f9b5874eeebb943.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Outbreak of World War I | HISTORY">
+                                <img itemprop="contentUrl url" src='https://assets.editorial.aetnd.com/uploads/2018/08/outbreak-of-world-war-i-gettyimages-506127736.jpg' alt='Outbreak of World War I | HISTORY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.history.com" />
+                                </span>
+                                <a href='https://assets.editorial.aetnd.com/uploads/2018/08/outbreak-of-world-war-i-gettyimages-506127736.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What started WWI and how did the US get into it? | .">
+                                <img itemprop="contentUrl url" src='https://answersinhistory.wordpress.com/files/2006/11/490px-franz_ferdinand.jpg' alt='What started WWI and how did the US get into it? | .'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="490">
+                                <meta itemprop="height" content="599">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content=". | Your History Questions Answered. Even If You Never Asked ..." />
+                                </span>
+                                <a href='https://answersinhistory.wordpress.com/files/2006/11/490px-franz_ferdinand.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How did WW1 Start? | Causes of the First World War">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/c7nUDLKKEBY/maxresdefault.jpg' alt='How did WW1 Start? | Causes of the First World War'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/c7nUDLKKEBY/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Brief History of WW1: The First Year and How It Started - Owlcation">
+                                <img itemprop="contentUrl url" src='https://images.saymedia-content.com/.image/t_share/MTc0NDQwNTcxNTg5MzcxNTI2/a-brief-history-of-ww1.jpg' alt='A Brief History of WW1: The First Year and How It Started - Owlcation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="808">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Owlcation" />
+                                </span>
+                                <a href='https://images.saymedia-content.com/.image/t_share/MTc0NDQwNTcxNTg5MzcxNTI2/a-brief-history-of-ww1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Causes of World War I - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/WWIchartX.svg/800px-WWIchartX.svg.png' alt='Causes of World War I - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="522">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/WWIchartX.svg/800px-WWIchartX.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

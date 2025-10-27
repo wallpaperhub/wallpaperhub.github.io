@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="dance floor background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dance-floor-background">
+                            <span itemprop="name">dance floor background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,000+ Disco Dance Floor Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1463998735/vector/disco-dance-floor-retro-party-scene-with-led-squares-grid-glowing-floor-disco-ball-and.jpg?s=612x612&w=0&k=20&c=ewddXBrZjW-AFtWPoutH79eTDNDbTRmGWF-YdRxfl14=' alt='2,000+ Disco Dance Floor Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1463998735/vector/disco-dance-floor-retro-party-scene-with-led-squares-grid-glowing-floor-disco-ball-and.jpg?s=612x612&w=0&k=20&c=ewddXBrZjW-AFtWPoutH79eTDNDbTRmGWF-YdRxfl14=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Party Dance Floor background Stock Illustration | Adobe Stock">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/00/40/62/00/1000_F_40620007_8i1sL2EEw7GnAvGgINh0GsGzis7Ktzds.jpg' alt='Party Dance Floor background Stock Illustration | Adobe Stock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="721">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/00/40/62/00/1000_F_40620007_8i1sL2EEw7GnAvGgINh0GsGzis7Ktzds.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dance Floor Designs Royalty-Free Images, Stock Photos & Pictures ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/colorful-dance-floor-music-stage-600nw-2104366796.jpg' alt='Dance Floor Designs Royalty-Free Images, Stock Photos & Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/colorful-dance-floor-music-stage-600nw-2104366796.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25,000+ Dance Floor Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/466083160/photo/blue-disco-background.jpg?s=612x612&w=0&k=20&c=JYFv9SWmS8eq2JUY0Z1F_kYub7Y-7Q9pPWcwhG3hrqM=' alt='25,000+ Dance Floor Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/466083160/photo/blue-disco-background.jpg?s=612x612&w=0&k=20&c=JYFv9SWmS8eq2JUY0Z1F_kYub7Y-7Q9pPWcwhG3hrqM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dancefloor Background Stock Illustrations – 1,797 Dancefloor ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/dancefloor-background-21738345.jpg' alt='Dancefloor Background Stock Illustrations – 1,797 Dancefloor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/dancefloor-background-21738345.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Club Dance Floor Images – Browse 60,427 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/01/24/54/05/360_F_124540543_rC47UAQ0kkWNbvezmKFlZBjfNx8YofyW.jpg' alt='Club Dance Floor Images – Browse 60,427 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/01/24/54/05/360_F_124540543_rC47UAQ0kkWNbvezmKFlZBjfNx8YofyW.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8,710 Disco Dance Floor Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/dazzling-disco-dance-floor-illuminated-colorful-lights-dazzling-disco-dance-floor-illuminated-colorful-lights-310449536.jpg' alt='8,710 Disco Dance Floor Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/dazzling-disco-dance-floor-illuminated-colorful-lights-dazzling-disco-dance-floor-illuminated-colorful-lights-310449536.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Dance Floor Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/dance-floor-stage-illuminated-by-blue-pink-spotlights_107791-6473.jpg' alt='Neon Dance Floor Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="295">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/dance-floor-stage-illuminated-by-blue-pink-spotlights_107791-6473.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disco Ball Dance Floor 70s 80s 90s Party Photo Backdrop Wallpaper Mural  Bedroom Business Room Wall Backdrop Decor Scene Setter Easy Install">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/29318579/r/il/99812a/3354723278/il_fullxfull.3354723278_k5u1.jpg' alt='Disco Ball Dance Floor 70s 80s 90s Party Photo Backdrop Wallpaper Mural  Bedroom Business Room Wall Backdrop Decor Scene Setter Easy Install'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1279">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/29318579/r/il/99812a/3354723278/il_fullxfull.3354723278_k5u1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Dance Floor with Several Disco Balls Stock Illustration ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/79/cb/ef/79cbefd7a9ce1e3802214410b4ecdb6e.jpg' alt='Colorful Dance Floor with Several Disco Balls Stock Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="441">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/79/cb/ef/79cbefd7a9ce1e3802214410b4ecdb6e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

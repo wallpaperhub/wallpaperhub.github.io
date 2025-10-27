@@ -1,0 +1,129 @@
+<title>Scott Pilgrim Phone Wallpapers: Download Your Favorite!</title>
+                    <meta name="description" content="Discover stunning Scott Pilgrim phone wallpapers! Perfect for fans, these vibrant designs showcase iconic characters and scenes from the series. Easy to download and set, give your phone a unique touch that celebrates the spirit of Scott Pilgrim. Refresh your screen now!">
+                    <meta name="keywords" content="scott pilgrim phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/scott-pilgrim-phone-wallpaper">
+                            <span itemprop="name">scott pilgrim phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Scott Pilgrim Phone Wallpapers: Download Your Favorite!</h1>
+                <p>Elevate your phone's aesthetic with unique Scott Pilgrim wallpapers! Featuring vibrant art and iconic characters, these wallpapers bring the beloved comic and movie to life right on your screen. Perfect for fans who want to showcase their love for Scott Pilgrim, they're easy to download and set up. Transform your phone today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a Scott Pilgrim phone wallpaper (optimized for IPhone XR ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/2mf38s0x4ky11.jpg' alt='I made a Scott Pilgrim phone wallpaper (optimized for IPhone XR ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1146">
+                                <meta itemprop="height" content="2481">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/2mf38s0x4ky11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Love how this scene works as a phone wallpaper! : r/ScottPilgrim">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/pnoyn3j1ukc61.png' alt='Love how this scene works as a phone wallpaper! : r/ScottPilgrim'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="549">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/pnoyn3j1ukc61.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Since a lot of people liked my movie phone wallpaper I thought I ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/since-a-lot-of-people-liked-my-movie-phone-wallpaper-i-v0-dwg3736trf1b1.jpg?width=640&crop=smart&auto=webp&s=7701460c59313ed1f4c1e615d2b141e0bc425420' alt='Since a lot of people liked my movie phone wallpaper I thought I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/since-a-lot-of-people-liked-my-movie-phone-wallpaper-i-v0-dwg3736trf1b1.jpg?width=640&crop=smart&auto=webp&s=7701460c59313ed1f4c1e615d2b141e0bc425420' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scott Pilgrim Wallpapers (29 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/6/3/5/528942-1125x2436-mobile-hd-scott-pilgrim-wallpaper-image.jpg' alt='Scott Pilgrim Wallpapers (29 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/6/3/5/528942-1125x2436-mobile-hd-scott-pilgrim-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scott ans ramona, scott pilgrim, scottpilgrim, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/328/238/HD-wallpaper-scott-ans-ramona-scott-pilgrim-scottpilgrim.jpg' alt='Scott ans ramona, scott pilgrim, scottpilgrim, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/328/238/HD-wallpaper-scott-ans-ramona-scott-pilgrim-scottpilgrim.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Works as a phone wallpaper. : r/ScottPilgrim">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/4bwt9y0vwm341.jpg' alt='Works as a phone wallpaper. : r/ScottPilgrim'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/4bwt9y0vwm341.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scott Pilgrim Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c4/f5/54/c4f5541722513e350f8d888dde60c47d.jpg' alt='Scott Pilgrim Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1306">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c4/f5/54/c4f5541722513e350f8d888dde60c47d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scott Pilgrim iPhone 6 wallpapers – @coreywilson on Tumblr">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/e9923a6ffdabaeebaf42ebd4c083ce19/tumblr_inline_np824kNwWY1qz74f8_1280.jpg' alt='Scott Pilgrim iPhone 6 wallpapers – @coreywilson on Tumblr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/e9923a6ffdabaeebaf42ebd4c083ce19/tumblr_inline_np824kNwWY1qz74f8_1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scott Pilgrim Takes Off Netflix Anime Series Wallpaper 4K HD PC #701n">
+                                <img itemprop="contentUrl url" src='https://image-1.uhdpaper.com/wallpaper/scott-pilgrim-takes-off-netflix-anime-series-phone-wallpaper-hd-uhdpaper.com-70@1@n.jpg' alt='Scott Pilgrim Takes Off Netflix Anime Series Wallpaper 4K HD PC #701n'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://image-1.uhdpaper.com/wallpaper/scott-pilgrim-takes-off-netflix-anime-series-phone-wallpaper-hd-uhdpaper.com-70@1@n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scott Pilgrim And His Circle Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/scott-pilgrim-and-his-circle-8sl18usgro8vvyij.jpg' alt='Scott Pilgrim And His Circle Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/scott-pilgrim-and-his-circle-8sl18usgro8vvyij.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

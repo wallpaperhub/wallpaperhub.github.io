@@ -1,0 +1,129 @@
+<title>Enchanting Barbie Wallpapers for iPhone</title>
+                    <meta name="description" content="Discover a delightful collection of Barbie wallpapers for your iPhone! Perfect for fans of all ages, these wallpapers add charm and personality to your device. Download now and elevate your iPhone’s look with iconic Barbie designs that capture the spirit of adventure and fun!">
+                    <meta name="keywords" content="iphone:wo_czxlxtka= barbie wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphonewo_czxlxtka-barbie-wallpaper">
+                            <span itemprop="name">iphone:wo_czxlxtka= barbie wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enchanting Barbie Wallpapers for iPhone</h1>
+                <p>Transform your iPhone with stunning Barbie wallpapers! Embrace your favorite childhood memories while personalizing your device. With vibrant colors and iconic designs, these wallpapers bring a touch of fun and nostalgia to your screen. Explore a variety of Barbie-themed wallpapers to express your unique style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Iphone Pink Barbie Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/iphone-pink-barbie-9tgn3rembcbwonqj.jpg' alt='100+] Iphone Pink Barbie Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/iphone-pink-barbie-9tgn3rembcbwonqj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Iphone Pink Barbie Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-barbie-themed-collage-xb5hmqsgtg5nkp3k.jpg' alt='100+] Iphone Pink Barbie Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-barbie-themed-collage-xb5hmqsgtg5nkp3k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barbie Wallpaper | iPhone">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/phone/images/download/barbie.png' alt='Barbie Wallpaper | iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/phone/images/download/barbie.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="150 Barbie Phone Wallpaper ideas | barbie, wallpaper, pink ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/54/2a/8e/542a8e4edfd465380e7203f4db2e29b8.jpg' alt='150 Barbie Phone Wallpaper ideas | barbie, wallpaper, pink ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="702">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/54/2a/8e/542a8e4edfd465380e7203f4db2e29b8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Best barbie wallpapers for iPhone in 2023 (Free 4k download)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3c/85/b4/3c85b4fd19336e4e6a1400152ef0ba79.jpg' alt='10 Best barbie wallpapers for iPhone in 2023 (Free 4k download)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3c/85/b4/3c85b4fd19336e4e6a1400152ef0ba79.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barbie wallpaper  ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/00/6b/d2/006bd20af2074b8cd5527f22bbe981d2.jpg' alt='Barbie wallpaper  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/00/6b/d2/006bd20af2074b8cd5527f22bbe981d2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barbie Wallpaper, iPhone Wallpapers, Instagram Story Quotes ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/45419507/r/il/647d73/5226634940/il_fullxfull.5226634940_ggnk.jpg' alt='Barbie Wallpaper, iPhone Wallpapers, Instagram Story Quotes ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2700">
+                                <meta itemprop="height" content="2700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/45419507/r/il/647d73/5226634940/il_fullxfull.5226634940_ggnk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Iphone Pink Barbie Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-barbie-hearti-phone-case-qp50mfwgwgviclal.jpg' alt='100+] Iphone Pink Barbie Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1083">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-barbie-hearti-phone-case-qp50mfwgwgviclal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barbie Wallpaper for iPhone and Android">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e9/cf/f4/e9cff4b4a668ec9821d6c37b6976b316.jpg' alt='Barbie Wallpaper for iPhone and Android'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e9/cf/f4/e9cff4b4a668ec9821d6c37b6976b316.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WallpaperSun">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a2/4c/45/a24c451b2c85ea4c2d25188a7140eb0b.jpg' alt='WallpaperSun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a2/4c/45/a24c451b2c85ea4c2d25188a7140eb0b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

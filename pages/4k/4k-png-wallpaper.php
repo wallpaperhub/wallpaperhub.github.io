@@ -1,0 +1,129 @@
+<title>Stunning 4K PNG Wallpapers for Every Device</title>
+                    <meta name="description" content="Discover an array of breathtaking 4K PNG wallpapers designed to enhance your digital experience. Perfect for all devices, our vibrant collection allows you to personalize your screens effortlessly. Elevate your aesthetic with high-quality images today!">
+                    <meta name="keywords" content="4k png wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/4k-png-wallpaper">
+                            <span itemprop="name">4k png wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K PNG Wallpapers for Every Device</h1>
+                <p>Explore stunning 4K PNG wallpapers that elevate your device's aesthetic, making your screens come alive with vibrant colors and intricate designs. Perfect for desktops, smartphones, and tablets, these high-quality images are easy to download and customize. Find your ideal 4K PNG wallpaper and express your unique style today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k Hd Wallpaper Background Images, HD Pictures and Wallpaper For ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20211225/pngtree-mountain-sunset-minimalist-landscape-scenery-wallpaper-full-hd-4k-8k-images-image_934390.jpg' alt='4k Hd Wallpaper Background Images, HD Pictures and Wallpaper For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="463">
+                                <meta itemprop="height" content="260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20211225/pngtree-mountain-sunset-minimalist-landscape-scenery-wallpaper-full-hd-4k-8k-images-image_934390.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Artistic Retrowave 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/121/1213573.png' alt='Download Artistic Retrowave 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/121/1213573.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Desktop wallpaper. : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://cdn.dribbble.com/users/5031/screenshots/3713646/attachments/832536/wallpaper_mikael_gustafsson.png' alt='4K Desktop wallpaper. : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://cdn.dribbble.com/users/5031/screenshots/3713646/attachments/832536/wallpaper_mikael_gustafsson.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k Wallpaper Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20230521/pngtree-artwave-of-colorful-waves-wallpaper-4k-image_2667726.jpg' alt='4k Wallpaper Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="359">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20230521/pngtree-artwave-of-colorful-waves-wallpaper-4k-image_2667726.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3840x2160] 4K Sky Wallpaper Background : r/wallpaper">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/3840x2160-4k-sky-wallpaper-background-v0-p591n1liy7j81.png?auto=webp&s=18c2884ed9aedc30affe3bdfc5001ea7141f06cc' alt='3840x2160] 4K Sky Wallpaper Background : r/wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/3840x2160-4k-sky-wallpaper-background-v0-p591n1liy7j81.png?auto=webp&s=18c2884ed9aedc30affe3bdfc5001ea7141f06cc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2000+ Uncompressed (PNG) 4K Wallpapers">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/walls/thumbs_2t/21357.png' alt='2000+ Uncompressed (PNG) 4K Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/walls/thumbs_2t/21357.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scenery Wallpaper 4K, Pink, Lakeside, Sunset, Lake">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/scenery-pink-lakeside-sunset-lake-landscape-scenic-panorama-3840x2160-144.png' alt='Scenery Wallpaper 4K, Pink, Lakeside, Sunset, Lake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/scenery-pink-lakeside-sunset-lake-landscape-scenic-panorama-3840x2160-144.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalist Night Forest: Chill 8K Wallpaper - Heroscreen | Free ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp4t1dUltum1JCxEbULx1yEqH4kSxP8IPShyp-GUb8ZOSlEqg9TuPjxvTBCKwFuUgiakUCoel5DA6C4rr1NjCtTcEl8jopwkPVSR-dVMDnttSxzRlbo0SdYCHmPSo73eaRNx1a4UdwqNIM/s1600/MInimalist-landscape-wallpaper-night-moon-desktop-hd.png' alt='Minimalist Night Forest: Chill 8K Wallpaper - Heroscreen | Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp4t1dUltum1JCxEbULx1yEqH4kSxP8IPShyp-GUb8ZOSlEqg9TuPjxvTBCKwFuUgiakUCoel5DA6C4rr1NjCtTcEl8jopwkPVSR-dVMDnttSxzRlbo0SdYCHmPSo73eaRNx1a4UdwqNIM/s1600/MInimalist-landscape-wallpaper-night-moon-desktop-hd.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 11 PRO Wallpaper - PNG 3840x2400 : r/Windows11">
+                                <img itemprop="contentUrl url" src='https://i.postimg.cc/9QwVsfhm/Windows-11-PRO-3.png' alt='Windows 11 PRO Wallpaper - PNG 3840x2400 : r/Windows11'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.postimg.cc/9QwVsfhm/Windows-11-PRO-3.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mountain Desktop Wallpaper 4K Resolution, PNG, 2400x1202px, 4k ...">
+                                <img itemprop="contentUrl url" src='https://img.favpng.com/4/12/5/mountain-desktop-wallpaper-4k-resolution-png-favpng-6ptkc4nPsWqUmYtTxEr1d5QSB.jpg' alt='Mountain Desktop Wallpaper 4K Resolution, PNG, 2400x1202px, 4k ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="820">
+                                <meta itemprop="height" content="410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FAVPNG.com" />
+                                </span>
+                                <a href='https://img.favpng.com/4/12/5/mountain-desktop-wallpaper-4k-resolution-png-favpng-6ptkc4nPsWqUmYtTxEr1d5QSB.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

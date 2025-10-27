@@ -1,0 +1,129 @@
+<title>Stunning GR86 iPhone Wallpapers for Auto Lovers</title>
+                    <meta name="description" content="Discover the best GR86 iPhone wallpapers to elevate your mobile experience. Designed for car enthusiasts, our collection features high-quality images that showcase the sleek beauty of the GR86. Download now to personalize your device in style!">
+                    <meta name="keywords" content="gr86 iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/gr86-iphone-wallpaper">
+                            <span itemprop="name">gr86 iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning GR86 iPhone Wallpapers for Auto Lovers</h1>
+                <p>Looking to enhance your iPhone's aesthetic? Check out our stunning GR86 iPhone wallpapers! From sleek sports car designs to vibrant colors, these wallpapers will transform your device into a stylish masterpiece. Perfect for car enthusiasts and those who appreciate sleek design, download your favorite GR86 wallpaper today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Your new phone wallpaper : r/GR86">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/your-new-phone-wallpaper-v0-zjekqj4978ia1.jpg?width=640&crop=smart&auto=webp&s=f04b210185c1be0465163c2f73ddc26019809d45' alt='Your new phone wallpaper : r/GR86'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/your-new-phone-wallpaper-v0-zjekqj4978ia1.jpg?width=640&crop=smart&auto=webp&s=f04b210185c1be0465163c2f73ddc26019809d45' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gr86 wallpaper (GT7) : r/GR86">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/gr86-wallpaper-gt7-v0-jz8av5dfe9fa1.jpg?width=1080&crop=smart&auto=webp&s=265c75a6ac1c61361a78eaa584aec15193506ae7' alt='Gr86 wallpaper (GT7) : r/GR86'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1977">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/gr86-wallpaper-gt7-v0-jz8av5dfe9fa1.jpg?width=1080&crop=smart&auto=webp&s=265c75a6ac1c61361a78eaa584aec15193506ae7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iOS 17 Wallpaper : r/GR86">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/lhq86ufb0urb1.jpg' alt='iOS 17 Wallpaper : r/GR86'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1179">
+                                <meta itemprop="height" content="2556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/lhq86ufb0urb1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gr86 Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1685482993605-17ba53346eb9?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGdyODZ8ZW58MHx8MHx8fDA%3D' alt='Gr86 Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="5399">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1685482993605-17ba53346eb9?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGdyODZ8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pavement Gray 2022+ Toyota GR86 Pictures | Page 13 | Toyota GR86 ...">
+                                <img itemprop="contentUrl url" src='https://www.gr86.org/cdn-cgi/image/format=auto,onerror=redirect,width=1920,height=1920,fit=scale-down/https://www.gr86.org/attachments/_ljg9373-jpg.37990/' alt='Pavement Gray 2022+ Toyota GR86 Pictures | Page 13 | Toyota GR86 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Toyota GR86 Forum" />
+                                </span>
+                                <a href='https://www.gr86.org/cdn-cgi/image/format=auto,onerror=redirect,width=1920,height=1920,fit=scale-down/https://www.gr86.org/attachments/_ljg9373-jpg.37990/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toyota GR86, cars, jdm, car, japan, cool, gt86, , sport, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/681/368/HD-wallpaper-toyota-gr86-cars-jdm-car-japan-cool-gt86-sport.jpg' alt='Toyota GR86, cars, jdm, car, japan, cool, gt86, , sport, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/681/368/HD-wallpaper-toyota-gr86-cars-jdm-car-japan-cool-gt86-sport.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toyota GR 86 Wallpaper 4K, Sports cars, 5K, 8K">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/toyota-gr-86-sports-1242x2688-10684.jpg' alt='Toyota GR 86 Wallpaper 4K, Sports cars, 5K, 8K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/toyota-gr-86-sports-1242x2688-10684.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toyota Gr86 Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1712755557909-53bb6376796b?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dG95b3RhJTIwZ3I4NnxlbnwwfHwwfHx8MA%3D%3D' alt='Toyota Gr86 Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="5341">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1712755557909-53bb6376796b?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dG95b3RhJTIwZ3I4NnxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toyota GR86 Wallpapers (34 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/c/3/6/1683689-2160x3840-phone-4k-toyota-gr86-wallpaper.jpg' alt='Toyota GR86 Wallpapers (34 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/c/3/6/1683689-2160x3840-phone-4k-toyota-gr86-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toyota GR86 Wallpapers (34 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/b/4/e/1683782-2160x3840-iphone-4k-toyota-gr86-background-photo.jpg' alt='Toyota GR86 Wallpapers (34 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/b/4/e/1683782-2160x3840-iphone-4k-toyota-gr86-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

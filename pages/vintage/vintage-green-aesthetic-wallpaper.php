@@ -1,0 +1,129 @@
+<title>Vintage Green Aesthetic Wallpaper for Timeless Decor</title>
+                    <meta name="description" content="Discover the beauty of vintage green aesthetic wallpaper. Perfect for adding a touch of nostalgia and serenity to your space, these wallpapers feature captivating patterns and hues. Redefine your home decor with this stylish and timeless choice for a warm, inviting atmosphere.">
+                    <meta name="keywords" content="vintage green aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage">
+                            <span itemprop="name">Vintage</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage/vintage-green-aesthetic-wallpaper">
+                            <span itemprop="name">vintage green aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vintage Green Aesthetic Wallpaper for Timeless Decor</h1>
+                <p>Transform your space with vintage green aesthetic wallpaper. Evoking a charming nostalgia, these wallpapers blend rich hues and intricate patterns, making any room feel serene and stylish. Ideal for creating a cozy atmosphere, vintage green invites nature's tranquility indoors. Elevate your home decor with this timeless design choice!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="vintage green aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/49/a5/e4/49a5e440829d08283c3ff3e82f5fa8c7.jpg' alt='vintage green aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/49/a5/e4/49a5e440829d08283c3ff3e82f5fa8c7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable wallpaper green templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGFWr-O7YA/1/0/900w/canva-green-leaf-aesthetic-minimalist-wallpaper-phone-4-1hrnwjCco.jpg' alt='Free and customizable wallpaper green templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGFWr-O7YA/1/0/900w/canva-green-leaf-aesthetic-minimalist-wallpaper-phone-4-1hrnwjCco.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Toduso Vintage Dark Green Floral Peel and Stick Wallpaper, 16.1"x393.7"  (43.9sq.ft), Removable, Self-Adhesive, Multi-Scene, DIY, Easy to Install  and ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81fgmu+GFvL.jpg' alt='Toduso Vintage Dark Green Floral Peel and Stick Wallpaper, 16.1"x393.7"  (43.9sq.ft), Removable, Self-Adhesive, Multi-Scene, DIY, Easy to Install  and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81fgmu+GFvL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check out lalaboopsi's Shuffles green #vintage #books #art ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/d1/a6/53/d1a653e74430dc974692cd07211a4b11.jpg' alt='Check out lalaboopsi's Shuffles green #vintage #books #art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shuffles" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/d1/a6/53/d1a653e74430dc974692cd07211a4b11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="photo aesthetic vintage in 2022 | Dark green aesthetic, Sage green ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c2/77/5b/c2775bff83f5552757d265ab6867f293.jpg' alt='photo aesthetic vintage in 2022 | Dark green aesthetic, Sage green ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c2/77/5b/c2775bff83f5552757d265ab6867f293.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Sage Green Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/vintage-sage-green-aesthetic-30c8k14uh3injzqg.jpg' alt='Vintage Sage Green Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/vintage-sage-green-aesthetic-30c8k14uh3injzqg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green aesthetic clutter journal">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/11/5a/07/115a07b7c97aa9be08737cd03cd9eed1.jpg' alt='Green aesthetic clutter journal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/11/5a/07/115a07b7c97aa9be08737cd03cd9eed1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Pinterest Cute Pastel Green Desktop Wallpaper Themed Background  Pack of 2 Different Shades (1920x1080 Dimensions)">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/43876470/r/il/a0099b/5438221488/il_570xN.5438221488_px4d.jpg' alt='Aesthetic Pinterest Cute Pastel Green Desktop Wallpaper Themed Background  Pack of 2 Different Shades (1920x1080 Dimensions)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="321">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/43876470/r/il/a0099b/5438221488/il_570xN.5438221488_px4d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable wallpaper green templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGJAXHKu8E/4/0/900w/canva-green-minimalist-abstract-watercolor-phone-wallpaper-9aEYkOqeFHQ.jpg' alt='Free and customizable wallpaper green templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGJAXHKu8E/4/0/900w/canva-green-minimalist-abstract-watercolor-phone-wallpaper-9aEYkOqeFHQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/19/2a/6a/192a6a629362539d5ea5e9e8f84a95e1.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/19/2a/6a/192a6a629362539d5ea5e9e8f84a95e1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

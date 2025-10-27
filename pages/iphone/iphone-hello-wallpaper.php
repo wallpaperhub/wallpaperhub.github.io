@@ -1,0 +1,129 @@
+<title>Chic iPhone Hello Wallpaper for a Stylish Look</title>
+                    <meta name="description" content="Transform your iPhone with the trendy "Hello" wallpaper. This stylish design combines minimalism and elegance, making your device stand out. Perfect for anyone looking to enhance their iPhone's aesthetic while keeping it simple and chic. Download now and enjoy a fresh look!">
+                    <meta name="keywords" content="iphone hello wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-hello-wallpaper">
+                            <span itemprop="name">iphone hello wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic iPhone Hello Wallpaper for a Stylish Look</h1>
+                <p>Discover the stunning iPhone "Hello" wallpaper that brings a touch of elegance to your device. This simple yet striking design captures the essence of minimalism while making a bold statement. Perfect for showcasing your style, this wallpaper features a classic greeting with a modern twist, making it an ideal choice for any iPhone user.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="hello. Wallpaper — Basic Apple Guy">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1611591342775-O7PFR5X5UF1YQ560DRN6/Hello1x1.png' alt='hello. Wallpaper — Basic Apple Guy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1286">
+                                <meta itemprop="height" content="1286">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Basic Apple Guy" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/1611591342775-O7PFR5X5UF1YQ560DRN6/Hello1x1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="hello" iPhone 14 wallpapers pack">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2022/11/hello-Space-Black-iPhone-14.jpg' alt='hello" iPhone 14 wallpapers pack'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1290">
+                                <meta itemprop="height" content="2796">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2022/11/hello-Space-Black-iPhone-14.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello iMac 24" (Dark) @iSpazio Exclusive | LIVE Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2021/04/Hello_8.mp4-00m03s88-61F6676D-2EAB-4120-9D79-57ADEC8C3769.jpg' alt='Hello iMac 24" (Dark) @iSpazio Exclusive | LIVE Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1420">
+                                <meta itemprop="height" content="3072">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Central - iSpazio" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2021/04/Hello_8.mp4-00m03s88-61F6676D-2EAB-4120-9D79-57ADEC8C3769.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iOS 15 'Hello' Splash Screen Wallpaper — Basic Apple Guy">
+                                <img itemprop="contentUrl url" src='http://static1.squarespace.com/static/5e949a92e17d55230cd1d44f/t/61609391963767487e01fdd9/1633719193678/HelloSplashGreeniOS3x2+2.png?format=1500w' alt='iOS 15 'Hello' Splash Screen Wallpaper — Basic Apple Guy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1026">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Basic Apple Guy" />
+                                </span>
+                                <a href='http://static1.squarespace.com/static/5e949a92e17d55230cd1d44f/t/61609391963767487e01fdd9/1633719193678/HelloSplashGreeniOS3x2+2.png?format=1500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="hello" iPhone 14 wallpapers pack">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e5/64/24/e56424dcde15dd786ec4696d564c2c80.jpg' alt='hello" iPhone 14 wallpapers pack'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1595">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e5/64/24/e56424dcde15dd786ec4696d564c2c80.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello new iMac M1 - Apple Event - Wallpapers Central">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2021/04/hello-iphone-1.png' alt='Hello new iMac M1 - Apple Event - Wallpapers Central'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1420">
+                                <meta itemprop="height" content="3073">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Central - iSpazio" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2021/04/hello-iphone-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Most Popular Apple Hello Wallpapers">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/iphone/apple-hello-colorful-october-2024-event-12-11-2024-1731476638-hd-wallpaper.jpeg' alt='Most Popular Apple Hello Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="994">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/iphone/apple-hello-colorful-october-2024-event-12-11-2024-1731476638-hd-wallpaper.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Gradient - Hello | LockScreen - Wallpapers Central">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/77/78/c4/7778c46475babdb6986a35cce42090fb.jpg' alt='New Gradient - Hello | LockScreen - Wallpapers Central'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/77/78/c4/7778c46475babdb6986a35cce42090fb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Custom Wallpapers on the App Store">
+                                <img itemprop="contentUrl url" src='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/82/4e/c1/824ec1b3-9010-63d7-1495-648f259915f3/af7fa8f4-16e9-4654-9d4a-77a2962cde39_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00285th_generation_U0029_-_2022-04-12_at_15.01.22.png/643x0w.jpg' alt='Hello Custom Wallpapers on the App Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="858">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="App Store - Apple" />
+                                </span>
+                                <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/82/4e/c1/824ec1b3-9010-63d7-1495-648f259915f3/af7fa8f4-16e9-4654-9d4a-77a2962cde39_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00285th_generation_U0029_-_2022-04-12_at_15.01.22.png/643x0w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Most Popular Inspired Hello Wallpapers">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/ipad/apple-inspired-hello-gradient-purple-and-red-26-09-2024-1727386528-hd-wallpaper.png' alt='Most Popular Inspired Hello Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="5412">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/ipad/apple-inspired-hello-gradient-purple-and-red-26-09-2024-1727386528-hd-wallpaper.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>JB Mauney: The Bull Riding Legend</title>
+                    <meta name="description" content="Discover the thrilling journey of JB Mauney, a two-time PBR World Champion. Learn about his fearless approach and unmatched skills that have made him a standout in professional bull riding. Explore his legacy and what drives this legendary rider in the arena.">
+                    <meta name="keywords" content="jb mauney">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/jb-mauney">
+                            <span itemprop="name">jb mauney</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>JB Mauney: The Bull Riding Legend</h1>
+                <p>JB Mauney, an iconic figure in professional bull riding, has captivated audiences with his fearless style and impressive skill. Born on January 9, 1987, in Mooresville, North Carolina, he has become a two-time PBR World Champion. Mauney's determination and passion for the sport have made him a legend, inspiring both fans and aspiring riders.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="J.B. Mauney - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/JB_Mauney.jpg/1200px-JB_Mauney.jpg' alt='J.B. Mauney - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1494">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/JB_Mauney.jpg/1200px-JB_Mauney.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="JB MAUNEY on God, His Family, His Injury, & Life As A PBR Teams ...">
+                                <img itemprop="contentUrl url" src='https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog4257445/JPEG_image-1A5C87EB7B16-19e8wx.jpeg' alt='JB MAUNEY on God, His Family, His Injury, & Life As A PBR Teams ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1436">
+                                <meta itemprop="height" content="1436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rodeo Time with Dale Brisby - Podbean" />
+                                </span>
+                                <a href='https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog4257445/JPEG_image-1A5C87EB7B16-19e8wx.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PBR Rider | J.B. Mauney">
+                                <img itemprop="contentUrl url" src='https://azdev.pbr.com/media/fstjw3e3/jbmauney4293_513x600.png?width=500&height=500' alt='PBR Rider | J.B. Mauney'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Professional Bull Riders - PBR" />
+                                </span>
+                                <a href='https://azdev.pbr.com/media/fstjw3e3/jbmauney4293_513x600.png?width=500&height=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="One year ago, superstar bull rider's career ended at Lewiston">
+                                <img itemprop="contentUrl url" src='https://public-assets-prod.pubgen.ai/brand_b31a1432-2c12-4a67-8456-0baf383b7aac/asset_b1512c08-a05b-5253-92fa-13071a265f28.jpg?w=3840' alt='One year ago, superstar bull rider's career ended at Lewiston'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="5402">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Moscow-Pullman Daily News" />
+                                </span>
+                                <a href='https://public-assets-prod.pubgen.ai/brand_b31a1432-2c12-4a67-8456-0baf383b7aac/asset_b1512c08-a05b-5253-92fa-13071a265f28.jpg?w=3840' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="J.B. Mauney Is One Tough Bull">
+                                <img itemprop="contentUrl url" src='https://www.cowboysindians.com/wp-content/uploads/2025/01/Mauney-3-scaled.jpg' alt='J.B. Mauney Is One Tough Bull'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cowboys and Indians Magazine" />
+                                </span>
+                                <a href='https://www.cowboysindians.com/wp-content/uploads/2025/01/Mauney-3-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="J.B. Mauney reflects on career, bull ride that broke his neck ...">
+                                <img itemprop="contentUrl url" src='https://media.wfaa.com/assets/WFAA/images/fba01fb3-395b-4e0c-ac7a-d27035b2da5a/20240507T185743/fba01fb3-395b-4e0c-ac7a-d27035b2da5a_1140x641.jpg' alt='J.B. Mauney reflects on career, bull ride that broke his neck ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1140">
+                                <meta itemprop="height" content="641">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WFAA" />
+                                </span>
+                                <a href='https://media.wfaa.com/assets/WFAA/images/fba01fb3-395b-4e0c-ac7a-d27035b2da5a/20240507T185743/fba01fb3-395b-4e0c-ac7a-d27035b2da5a_1140x641.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="JB Mauney Injury Story - Rodeo Time Podcast 134">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/-x6nWRj2UOE/sddefault.jpg' alt='JB Mauney Injury Story - Rodeo Time Podcast 134'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/-x6nWRj2UOE/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PBR Champion JB Mauney - Issuu">
+                                <img itemprop="contentUrl url" src='https://assets.isu.pub/document-structure/210518144431-123d71d2a05a10391b310f836975a3c0/v1/031da07487ed2f7951e91750800cc4a7.jpeg?width=720&quality=85%2C50' alt='PBR Champion JB Mauney - Issuu'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="605">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Issuu" />
+                                </span>
+                                <a href='https://assets.isu.pub/document-structure/210518144431-123d71d2a05a10391b310f836975a3c0/v1/031da07487ed2f7951e91750800cc4a7.jpeg?width=720&quality=85%2C50' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="J. B. Mauney — The Professional Bull Riders">
+                                <img itemprop="contentUrl url" src='https://www.pbrcanada.com/ImageGen.ashx?image=/media/1102/mauney_391x800.png&height=420&Constrain=true' alt='J. B. Mauney — The Professional Bull Riders'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="205">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PBR Canada" />
+                                </span>
+                                <a href='https://www.pbrcanada.com/ImageGen.ashx?image=/media/1102/mauney_391x800.png&height=420&Constrain=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bull riding star J.B. Mauney announces retirement, week after ...">
+                                <img itemprop="contentUrl url" src='https://dims.apnews.com/dims4/default/655eb06/2147483647/strip/false/crop/3500x2333+0+0/resize/1486x991!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5a%2F74%2Fe81980e1f035dc432dab2aa936b1%2F68b07078aa6e476aade14a7f210ed9d2' alt='Bull riding star J.B. Mauney announces retirement, week after ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1486">
+                                <meta itemprop="height" content="991">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AP News" />
+                                </span>
+                                <a href='https://dims.apnews.com/dims4/default/655eb06/2147483647/strip/false/crop/3500x2333+0+0/resize/1486x991!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5a%2F74%2Fe81980e1f035dc432dab2aa936b1%2F68b07078aa6e476aade14a7f210ed9d2' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

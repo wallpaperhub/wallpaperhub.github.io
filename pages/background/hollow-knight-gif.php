@@ -1,0 +1,129 @@
+<title>Hollow Knight GIFs: Capture the Charm of Hallownest</title>
+                    <meta name="description" content="Dive into the captivating realm of Hollow Knight with our curated GIF collection. Perfectly optimized for mobile, these animated snippets showcase the game's stunning art and fluid gameplay. Share the spirit of Hallownest effortlessly with your friends and fellow fans!">
+                    <meta name="keywords" content="hollow knight gif">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/hollow-knight-gif">
+                            <span itemprop="name">hollow knight gif</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Hollow Knight GIFs: Capture the Charm of Hallownest</h1>
+                <p>Explore the enchanting world of Hollow Knight through mesmerizing GIFs! From the delicate movement of the Knight to the hauntingly beautiful landscapes of Hallownest, these animated visuals capture the essence of this beloved indie game. Perfect for sharing in chats, forums, or social media, they bring the magic of Hollow Knight to life!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game Hollow Knight Gif">
+                                <img itemprop="contentUrl url" src='https://giffiles.alphacoders.com/216/216593.gif' alt='Download Video Game Hollow Knight Gif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1594">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gif Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://giffiles.alphacoders.com/216/216593.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hollow Knight GIF - Hollow Knight - Discover & Share GIFs">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/fBD4Hv1C0BIAAAAM/hollow-knight.gif' alt='Hollow Knight GIF - Hollow Knight - Discover & Share GIFs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="217">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/fBD4Hv1C0BIAAAAM/hollow-knight.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hollow Knight [GIF] by siiju on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e220a2eb-65cf-47d3-84db-9acd63e172fa/dbyyn6k-e29de6d0-152d-4973-9869-487daba56f99.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2UyMjBhMmViLTY1Y2YtNDdkMy04NGRiLTlhY2Q2M2UxNzJmYVwvZGJ5eW42ay1lMjlkZTZkMC0xNTJkLTQ5NzMtOTg2OS00ODdkYWJhNTZmOTkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.UV6d9dO8BgLUaXOzIPc-6cvePKB5bq5ywEhqd5xCxew' alt='Hollow Knight [GIF] by siiju on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e220a2eb-65cf-47d3-84db-9acd63e172fa/dbyyn6k-e29de6d0-152d-4973-9869-487daba56f99.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2UyMjBhMmViLTY1Y2YtNDdkMy04NGRiLTlhY2Q2M2UxNzJmYVwvZGJ5eW42ay1lMjlkZTZkMC0xNTJkLTQ5NzMtOTg2OS00ODdkYWJhNTZmOTkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.UV6d9dO8BgLUaXOzIPc-6cvePKB5bq5ywEhqd5xCxew' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hollow King GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/mAG1m_7eazsAAAAM/hollow-knight-dance.gif' alt='Hollow King GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/mAG1m_7eazsAAAAM/hollow-knight-dance.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Hollow Knight Gif ideas | knight, hollow art, knight art">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/8b/63/ee/8b63eef0e6326ec3eff375c8757fb62a.gif' alt='12 Hollow Knight Gif ideas | knight, hollow art, knight art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/8b/63/ee/8b63eef0e6326ec3eff375c8757fb62a.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Knight's on the journey (Animated GIF) : r/HollowKnight">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/e5ij6db0xww81.gif' alt='The Knight's on the journey (Animated GIF) : r/HollowKnight'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/e5ij6db0xww81.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hollow Knight Loop Sticker by Xbox - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media0.giphy.com/media/Y8bAdBxtKREVcuDNyH/giphy.gif?cid=6c09b952fz8zt2xu9aek5dyqu8mq8hrw1mzciu24bk5oqvjf&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s' alt='Hollow Knight Loop Sticker by Xbox - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media0.giphy.com/media/Y8bAdBxtKREVcuDNyH/giphy.gif?cid=6c09b952fz8zt2xu9aek5dyqu8mq8hrw1mzciu24bk5oqvjf&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Explore Hollow Knight's Haunt - View Gif!">
+                                <img itemprop="contentUrl url" src='https://giffiles.alphacoders.com/221/221986.gif' alt='Explore Hollow Knight's Haunt - View Gif!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gif Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://giffiles.alphacoders.com/221/221986.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="An excited Knight and Grub GIF (Source in Comments) : r/HollowKnight">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/y0uhfichvig21.gif' alt='An excited Knight and Grub GIF (Source in Comments) : r/HollowKnight'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/y0uhfichvig21.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Hollow Knight Gif ideas | knight, hollow art, knight art">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/0d/77/1c/0d771c47e8ebd73985b79b960a7284f5.gif' alt='12 Hollow Knight Gif ideas | knight, hollow art, knight art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/0d/77/1c/0d771c47e8ebd73985b79b960a7284f5.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

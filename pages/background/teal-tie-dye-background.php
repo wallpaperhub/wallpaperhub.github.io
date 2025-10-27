@@ -1,0 +1,129 @@
+<title>Vibrant Teal Tie Dye Background: Perfect for Any Project!</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="teal tie dye background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/teal-tie-dye-background">
+                            <span itemprop="name">teal tie dye background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Teal Tie Dye Background: Perfect for Any Project!</h1>
+                <p>Transform your space with a stunning teal tie dye background, perfect for adding a pop of color and a bohemian flair to any room. The harmonious blend of turquoise and deep teal creates a calming atmosphere, ideal for relaxation. Use it as a backdrop for events, crafts, or digital projects to evoke creativity and joy.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="teal tie dye - LAD19 Fabric | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/8547771/p/f/m/Q_NxqfKHZW4Yv3-wFOhkjvTMm4pybGrZeMdLbQFsJa5yCcdoiBOFwT1t/teal_tie_dye_-_LAD19.jpg' alt='teal tie dye - LAD19 Fabric | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/8547771/p/f/m/Q_NxqfKHZW4Yv3-wFOhkjvTMm4pybGrZeMdLbQFsJa5yCcdoiBOFwT1t/teal_tie_dye_-_LAD19.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple + Blue + Teal Gradient Tie-dye Digital Paper Background Texture -  Tiedye Pattern PNG - Digital Download Files - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28921914/r/il/cd4721/3758434545/il_1080xN.3758434545_hibs.jpg' alt='Purple + Blue + Teal Gradient Tie-dye Digital Paper Background Texture -  Tiedye Pattern PNG - Digital Download Files - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="982">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28921914/r/il/cd4721/3758434545/il_1080xN.3758434545_hibs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,900+ Blue Tie Dye Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1297863208/vector/tie-dye-shibori-pattern-background-watercolour-abstract-texture.jpg?s=612x612&w=0&k=20&c=-dvLRZ-NlRwbHeucn1-sqwlDYh1AHJf6kp5bvXkMdMM=' alt='1,900+ Blue Tie Dye Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1297863208/vector/tie-dye-shibori-pattern-background-watercolour-abstract-texture.jpg?s=612x612&w=0&k=20&c=-dvLRZ-NlRwbHeucn1-sqwlDYh1AHJf6kp5bvXkMdMM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,300+ Tie Dye Blue Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1338042402/vector/tie-dye-shibori-seamless-pattern-abstract-texture.jpg?s=612x612&w=0&k=20&c=rbXCkYcaEuDUJrfcbc0hh49nTJoh6GXj-3VJWONP3r0=' alt='2,300+ Tie Dye Blue Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1338042402/vector/tie-dye-shibori-seamless-pattern-abstract-texture.jpg?s=612x612&w=0&k=20&c=rbXCkYcaEuDUJrfcbc0hh49nTJoh6GXj-3VJWONP3r0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple + Teal Tiedye Swirl Digital Paper Background Pattern ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28921914/r/il/242877/4046121333/il_fullxfull.4046121333_kr5o.jpg' alt='Purple + Teal Tiedye Swirl Digital Paper Background Pattern ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28921914/r/il/242877/4046121333/il_fullxfull.4046121333_kr5o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Teal + Orange Tiedye Digital Paper Background — drypdesigns">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/609701bc21f2ee5734517421/1629670207936-X793IHTIY3BED6GJB2LS/teal+orange+tiedye+Cover+WM.jpg?format=1500w' alt='Teal + Orange Tiedye Digital Paper Background — drypdesigns'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1364">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="drypdesigns" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/609701bc21f2ee5734517421/1629670207936-X793IHTIY3BED6GJB2LS/teal+orange+tiedye+Cover+WM.jpg?format=1500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool blue and teal tie dye with abstract tie dye background image ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/cool-blue-teal-tie-dye-with-abstract-tie-dye-background-image_1020697-727514.jpg' alt='Cool blue and teal tie dye with abstract tie dye background image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/cool-blue-teal-tie-dye-with-abstract-tie-dye-background-image_1020697-727514.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,358 Teal Tie Dye Stock Vectors and Vector Art | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/teal-black-tie-dye-pattern-260nw-2433196249.jpg' alt='1,358 Teal Tie Dye Stock Vectors and Vector Art | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="520">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/teal-black-tie-dye-pattern-260nw-2433196249.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple + Teal + White Tiedye Swirl Digital Paper Background Pattern -  Digital Download Files - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28921914/r/il/26b3c3/3896453798/il_1080xN.3896453798_4y62.jpg' alt='Purple + Teal + White Tiedye Swirl Digital Paper Background Pattern -  Digital Download Files - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="982">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28921914/r/il/26b3c3/3896453798/il_1080xN.3896453798_4y62.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="734 Blue Teal Tie Dye Background Stock Photos - Free & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/tie-dye-shibori-seamless-pattern-watercolour-abstract-texture-watercolor-hand-painted-blue-teal-ornamental-elements-white-164347233.jpg' alt='734 Blue Teal Tie Dye Background Stock Photos - Free & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/tie-dye-shibori-seamless-pattern-watercolour-abstract-texture-watercolor-hand-painted-blue-teal-ornamental-elements-white-164347233.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

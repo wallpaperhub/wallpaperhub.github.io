@@ -1,0 +1,129 @@
+<title>Mastering Gherkin Format: Simplify Your Testing Process</title>
+                    <meta name="description" content="Learn about Gherkin format, a user-friendly way to write test scenarios. Discover how its Given-When-Then structure fosters collaboration between technical and non-technical teams, making testing easier and more effective.">
+                    <meta name="keywords" content="gherkin format">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/gherkin-format">
+                            <span itemprop="name">gherkin format</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mastering Gherkin Format: Simplify Your Testing Process</h1>
+                <p>Gherkin format is a domain-specific language for writing structured tests that are easily understandable by non-programmers. It uses a simple Given-When-Then syntax to define test scenarios. This clarity bridges the gap between technical and non-technical teams, enhancing collaboration and ensuring everyone is on the same page during development.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to write Gherkin scripts">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/i0Q5orC5jSQ/maxresdefault.jpg' alt='How to write Gherkin scripts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/i0Q5orC5jSQ/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is Gherkin + How Do You Write Gherkin Tests?">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/5eb9845c0972c01cdaec8415/6216beb8ce729354d1a049c7_ft-gherkin-tests.jpg' alt='What Is Gherkin + How Do You Write Gherkin Tests?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="634">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Functionize" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/5eb9845c0972c01cdaec8415/6216beb8ce729354d1a049c7_ft-gherkin-tests.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Perfecting Gherkin: Essential Tips & Tricks for BDD Testing ...">
+                                <img itemprop="contentUrl url" src='http://testomat.io/wp-content/uploads/2022/12/Google-Chrome-Mastering-Cucumber-A-Step-by-Step-Guide-to-Setting-up-an-Gherkin-E2E-tests-testomat.io-2022-12-17-at-01.55.37@2x.png' alt='Perfecting Gherkin: Essential Tips & Tricks for BDD Testing ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1291">
+                                <meta itemprop="height" content="840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="testomat.io" />
+                                </span>
+                                <a href='http://testomat.io/wp-content/uploads/2022/12/Google-Chrome-Mastering-Cucumber-A-Step-by-Step-Guide-to-Setting-up-an-Gherkin-E2E-tests-testomat.io-2022-12-17-at-01.55.37@2x.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Traditional vs. Gherkin User Stories | by Scott Weinreb | Medium">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1200/1*o2kvm8TMSpFttHO_Trwqvg.png' alt='Traditional vs. Gherkin User Stories | by Scott Weinreb | Medium'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="709">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scott Weinreb - Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1200/1*o2kvm8TMSpFttHO_Trwqvg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What's Gherkin? How Do You Write Gherkin Tests? | TestQuality">
+                                <img itemprop="contentUrl url" src='https://static.tildacdn.com/tild6339-3166-4365-b163-316138333865/Gherkin-Cucumber-fea.jpg' alt='What's Gherkin? How Do You Write Gherkin Tests? | TestQuality'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1628">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TestQuality" />
+                                </span>
+                                <a href='https://static.tildacdn.com/tild6339-3166-4365-b163-316138333865/Gherkin-Cucumber-fea.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gherkin in Testing: A Beginner's Guide | by Rafał Buczyński | Medium">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:780/1*GILfqK0OQpTwYpsIKeZfVw.png' alt='Gherkin in Testing: A Beginner's Guide | by Rafał Buczyński | Medium'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="739">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:780/1*GILfqK0OQpTwYpsIKeZfVw.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gherkin Syntax Highlighting in Visual Studio Code | Automation Panda">
+                                <img itemprop="contentUrl url" src='https://automationpanda.com/wp-content/uploads/2018/07/extension-a-full.png' alt='Gherkin Syntax Highlighting in Visual Studio Code | Automation Panda'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="427">
+                                <meta itemprop="height" content="363">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Automation Panda" />
+                                </span>
+                                <a href='https://automationpanda.com/wp-content/uploads/2018/07/extension-a-full.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Improve your User Stories with Gherkin: Given, When, Then – Value ...">
+                                <img itemprop="contentUrl url" src='https://marcellodelbono.it/wp-content/uploads/2020/07/image.png' alt='Improve your User Stories with Gherkin: Given, When, Then – Value ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1869">
+                                <meta itemprop="height" content="1045">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Value creation in large organizations" />
+                                </span>
+                                <a href='https://marcellodelbono.it/wp-content/uploads/2020/07/image.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How do you do field validation in Gherkin? - John Ferguson Smart">
+                                <img itemprop="contentUrl url" src='https://johnfergusonsmart.com/wp-content/uploads/2021/11/1c9bc4b0-94f8-49b5-aeb8-f1b1cfdab211-1024x430.png' alt='How do you do field validation in Gherkin? - John Ferguson Smart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="430">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="John Ferguson Smart" />
+                                </span>
+                                <a href='https://johnfergusonsmart.com/wp-content/uploads/2021/11/1c9bc4b0-94f8-49b5-aeb8-f1b1cfdab211-1024x430.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My approach for writing E2E scenarios using Gherkin! – Giridhar ...">
+                                <img itemprop="contentUrl url" src='https://learndevtestops.com/wp-content/uploads/2020/07/image.png?w=1024' alt='My approach for writing E2E scenarios using Gherkin! – Giridhar ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1023">
+                                <meta itemprop="height" content="543">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giridhar Rajkumar" />
+                                </span>
+                                <a href='https://learndevtestops.com/wp-content/uploads/2020/07/image.png?w=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

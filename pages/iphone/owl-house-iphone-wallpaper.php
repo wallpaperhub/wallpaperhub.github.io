@@ -1,0 +1,129 @@
+<title>Owl House iPhone Wallpapers – Magical Designs for Your Device</title>
+                    <meta name="description" content="Explore enchanting Owl House iPhone wallpapers to bring your favorite characters to life on your screen! Perfect for fans, these vibrant designs will enhance your device's look and immerse you in the whimsical world of the Owl House. Download your favorites now for a magical touch!">
+                    <meta name="keywords" content="owl house iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/owl-house-iphone-wallpaper">
+                            <span itemprop="name">owl house iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Owl House iPhone Wallpapers – Magical Designs for Your Device</h1>
+                <p>Transform your iPhone with stunning Owl House wallpapers! Dive into a world of magic and adventure with unique designs featuring your favorite characters and scenes. Whether you're a fan of Luz, Eda, or King, these wallpapers capture the essence of the Owl House, perfect for personalizing your device with whimsy and charm.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Owl House phone walllpapers : r/TheOwlHouse">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/the-owl-house-phone-walllpapers-v0-jywnsosp1uya1.jpg?width=640&crop=smart&auto=webp&s=9a75f1138a6ecd02ef2672bc668a949e20a40b29' alt='The Owl House phone walllpapers : r/TheOwlHouse'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/the-owl-house-phone-walllpapers-v0-jywnsosp1uya1.jpg?width=640&crop=smart&auto=webp&s=9a75f1138a6ecd02ef2672bc668a949e20a40b29' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="500 Owl house Wallpapers ideas | owl house, owl, amity">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/18/81/91/188191681bb5be7032f63639231bda44.jpg' alt='500 Owl house Wallpapers ideas | owl house, owl, amity'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="354">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/18/81/91/188191681bb5be7032f63639231bda44.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Owl House phone walllpapers : r/TheOwlHouse">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/the-owl-house-phone-walllpapers-v0-oyxxposp1uya1.jpg?width=1170&format=pjpg&auto=webp&s=7ebed6ea11a5cbef1250c25d7fd1275cc8362a98' alt='The Owl House phone walllpapers : r/TheOwlHouse'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/the-owl-house-phone-walllpapers-v0-oyxxposp1uya1.jpg?width=1170&format=pjpg&auto=webp&s=7ebed6ea11a5cbef1250c25d7fd1275cc8362a98' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Owl House Wallpapers (73 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/6/7/a/122251-1152x2048-mobile-hd-the-owl-house-background-image.jpg' alt='The Owl House Wallpapers (73 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1152">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/6/7/a/122251-1152x2048-mobile-hd-the-owl-house-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The owl house wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fa/e7/eb/fae7ebfa2223a0e6009f49fda4089818.jpg' alt='The owl house wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="1392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fa/e7/eb/fae7ebfa2223a0e6009f49fda4089818.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Owl House Wallpapers (73 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/2/1/b/46391-1949x3463-samsung-hd-the-owl-house-wallpaper.jpg' alt='The Owl House Wallpapers (73 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1949">
+                                <meta itemprop="height" content="3463">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/2/1/b/46391-1949x3463-samsung-hd-the-owl-house-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello! I wanted to share this owl house wallpaper I did last year ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/hello-i-wanted-to-share-this-owl-house-wallpaper-i-did-last-v0-3l8upgeds30b1.jpg?width=873&format=pjpg&auto=webp&s=3a1a9f7d7196338b8b720b1a25d161014fd74f35' alt='Hello! I wanted to share this owl house wallpaper I did last year ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="873">
+                                <meta itemprop="height" content="1518">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/hello-i-wanted-to-share-this-owl-house-wallpaper-i-did-last-v0-3l8upgeds30b1.jpg?width=873&format=pjpg&auto=webp&s=3a1a9f7d7196338b8b720b1a25d161014fd74f35' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The owl house, disney, lumity, toh, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/196/207/HD-wallpaper-the-owl-house-disney-lumity-toh.jpg' alt='The owl house, disney, lumity, toh, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/196/207/HD-wallpaper-the-owl-house-disney-lumity-toh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Disney XD The Owl House Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/disney-xd-the-owl-house-r3lbpu2svyz5oxj0.jpg' alt='Download Disney XD The Owl House Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="971">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/disney-xd-the-owl-house-r3lbpu2svyz5oxj0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="#wallpaper #aesthetic #backgrounds #wallpapersyouneed #ios16features #vibes  #foryou #owlhouse #luzowlhouse #edatheowllady #kingowlhouse  #childhoodhealing #witchyvibes #witchy #magic">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7285954144521768234&location=0&aid=1988' alt='#wallpaper #aesthetic #backgrounds #wallpapersyouneed #ios16features #vibes  #foryou #owlhouse #luzowlhouse #edatheowllady #kingowlhouse  #childhoodhealing #witchyvibes #witchy #magic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7285954144521768234&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

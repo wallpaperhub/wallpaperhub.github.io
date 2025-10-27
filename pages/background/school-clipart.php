@@ -1,0 +1,129 @@
+<title>Creative School Clipart for Engaging Learning Materials</title>
+                    <meta name="description" content="Discover a wide range of school clipart to enhance your educational projects. Perfect for teachers and parents, our colorful illustrations bring creativity to presentations, worksheets, and more. Grab the attention of students and make learning fun with our engaging visuals!">
+                    <meta name="keywords" content="school clipart">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/school-clipart">
+                            <span itemprop="name">school clipart</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Creative School Clipart for Engaging Learning Materials</h1>
+                <p>School clipart adds a vibrant touch to educational materials, making learning engaging and visually appealing. Perfect for teachers, students, and parents, these illustrations can enhance presentations, worksheets, and bulletin boards. From books and pencils to classrooms and happy kids, school clipart is essential for sharing ideas creatively.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12,800+ Elementary School Clipart Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1011297478/vector/school-building-vector-illustration.jpg?s=612x612&w=0&k=20&c=iwxcKQ_YHAgRl5Fz4y3XmjJHOb6Kg0YaGZHFkAoDptk=' alt='12,800+ Elementary School Clipart Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1011297478/vector/school-building-vector-illustration.jpg?s=612x612&w=0&k=20&c=iwxcKQ_YHAgRl5Fz4y3XmjJHOb6Kg0YaGZHFkAoDptk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Back To School Clipart Images – Browse 51,201 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/05/22/69/19/360_F_522691962_fC6vXEo5v4gFKD1ZsSjwqwJMF5Y3uCxD.jpg' alt='Back To School Clipart Images – Browse 51,201 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/05/22/69/19/360_F_522691962_fC6vXEo5v4gFKD1ZsSjwqwJMF5Y3uCxD.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="School Clipart Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/school-building-illustration_1264005-10794.jpg?semt=ais_hybrid' alt='School Clipart Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/school-building-illustration_1264005-10794.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE School Clipart | Pearly Arts">
+                                <img itemprop="contentUrl url" src='https://pearlyarts.com/wp-content/uploads/2023/08/Free-School-Clipart-WM.png' alt='FREE School Clipart | Pearly Arts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pearly Arts" />
+                                </span>
+                                <a href='https://pearlyarts.com/wp-content/uploads/2023/08/Free-School-Clipart-WM.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="School Clipart Images – Browse 279,305 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/00/42/57/11/360_F_42571183_2DQVPxCBuWJDnWWZZ5Z9Eyop79RSfKzX.jpg' alt='School Clipart Images – Browse 279,305 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="483">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/00/42/57/11/360_F_42571183_2DQVPxCBuWJDnWWZZ5Z9Eyop79RSfKzX.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Parents School Clipart Photos, Images & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/little-students-their-teacher-260nw-1551143585.jpg' alt='Parents School Clipart Photos, Images & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="520">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/little-students-their-teacher-260nw-1551143585.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="School Clipart PNGs for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/047/392/210/non_2x/school-building-cartoon-clipart-illustration-png.png' alt='School Clipart PNGs for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1616">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/047/392/210/non_2x/school-building-cartoon-clipart-illustration-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="School Clipart PNG, Vector, PSD, and Clipart With Transparent ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20230715/ourmid/pngtree-school-building-vector-images-png-image_7507280.png' alt='School Clipart PNG, Vector, PSD, and Clipart With Transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20230715/ourmid/pngtree-school-building-vector-images-png-image_7507280.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="School clipart. Cute doodle back to school supplies, objects and icons.  Student kids art. Instant Download PNG.">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/10243818/r/il/b58d6d/2409192237/il_fullxfull.2409192237_gnfj.jpg' alt='School clipart. Cute doodle back to school supplies, objects and icons.  Student kids art. Instant Download PNG.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1471">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/10243818/r/il/b58d6d/2409192237/il_fullxfull.2409192237_gnfj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="School Clipart, Download Free Transparent PNG Format Clipart ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20190611/original/pngtree-vector-hand-painted-cleaning-student-png-image_3003929.jpg' alt='School Clipart, Download Free Transparent PNG Format Clipart ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20190611/original/pngtree-vector-hand-painted-cleaning-student-png-image_3003929.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

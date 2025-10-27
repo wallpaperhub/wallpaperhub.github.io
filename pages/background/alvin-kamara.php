@@ -1,0 +1,129 @@
+<title>Alvin Kamara: Star Running Back for the Saints</title>
+                    <meta name="description" content="Discover the impact of Alvin Kamara, the explosive running back for the New Orleans Saints. Explore his skills, career highlights, and community initiatives that make him a standout player on and off the field. Stay updated with the latest on this NFL superstar!">
+                    <meta name="keywords" content="alvin kamara">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/alvin-kamara">
+                            <span itemprop="name">alvin kamara</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Alvin Kamara: Star Running Back for the Saints</h1>
+                <p>Alvin Kamara is a dynamic running back for the New Orleans Saints, known for his explosive speed, agility, and versatile play. Since being drafted in 2017, he has become a key player, combining rushing and receiving skills that make him a dual-threat. Off the field, he is also an advocate for social issues and charity work, showcasing a commitment to his community.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alvin Kamara - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Alvin_Kamara_Sonoma_2023.jpg/1200px-Alvin_Kamara_Sonoma_2023.jpg' alt='Alvin Kamara - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1659">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Alvin_Kamara_Sonoma_2023.jpg/1200px-Alvin_Kamara_Sonoma_2023.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alvin Kamara - New Orleans Saints Running Back - ESPN">
+                                <img itemprop="contentUrl url" src='https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3054850.png&w=350&h=254' alt='Alvin Kamara - New Orleans Saints Running Back - ESPN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="254">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ESPN" />
+                                </span>
+                                <a href='https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3054850.png&w=350&h=254' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alvin Kamara - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Alvin_Kamara_2021_%28cropped%29.jpg/200px-Alvin_Kamara_2021_%28cropped%29.jpg' alt='Alvin Kamara - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="382">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Alvin_Kamara_2021_%28cropped%29.jpg/200px-Alvin_Kamara_2021_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alvin Kamara | New Orleans Saints HB | NFL and PFF stats">
+                                <img itemprop="contentUrl url" src='https://media.pff.com/player-photos/nfl/11822.png' alt='Alvin Kamara | New Orleans Saints HB | NFL and PFF stats'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PFF" />
+                                </span>
+                                <a href='https://media.pff.com/player-photos/nfl/11822.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alvin Kamara scores 4 touchdowns as Saints dominate Cowboys in Dallas">
+                                <img itemprop="contentUrl url" src='https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2024-09/240915-alvin-kamara-wm-1249p-b0a493.jpg' alt='Alvin Kamara scores 4 touchdowns as Saints dominate Cowboys in Dallas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBC News" />
+                                </span>
+                                <a href='https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2024-09/240915-alvin-kamara-wm-1249p-b0a493.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alvin Kamara is a 'special player' and my MVP, says Kay Adams ...">
+                                <img itemprop="contentUrl url" src='https://e0.365dm.com/20/11/2048x1152/skysports-alvin-kamara-new-orleans-saints_5183525.jpg?20201125024532' alt='Alvin Kamara is a 'special player' and my MVP, says Kay Adams ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sky Sports" />
+                                </span>
+                                <a href='https://e0.365dm.com/20/11/2048x1152/skysports-alvin-kamara-new-orleans-saints_5183525.jpg?20201125024532' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NFL New Orleans Saints - Alvin Kamara 19">
+                                <img itemprop="contentUrl url" src='https://imgc.allpostersimages.com/img/posters/trends-international-nfl-new-orleans-saints-alvin-kamara-19_u-l-q1t15f20.jpg?artHeight=550&artPerspective=y&artWidth=550&background=ffffff' alt='NFL New Orleans Saints - Alvin Kamara 19'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="362">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AllPosters.com" />
+                                </span>
+                                <a href='https://imgc.allpostersimages.com/img/posters/trends-international-nfl-new-orleans-saints-alvin-kamara-19_u-l-q1t15f20.jpg?artHeight=550&artPerspective=y&artWidth=550&background=ffffff' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tennessee's Alvin Kamara is on a roll">
+                                <img itemprop="contentUrl url" src='https://www.augustachronicle.com/gcdn/authoring/2016/10/11/NAUG/ghows-GA-bd3db8d7-4301-4eb3-8ac0-193d068ae773-81022f7a.jpeg?width=660&height=990&fit=crop&format=pjpg&auto=webp' alt='Tennessee's Alvin Kamara is on a roll'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="990">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Augusta Chronicle" />
+                                </span>
+                                <a href='https://www.augustachronicle.com/gcdn/authoring/2016/10/11/NAUG/ghows-GA-bd3db8d7-4301-4eb3-8ac0-193d068ae773-81022f7a.jpeg?width=660&height=990&fit=crop&format=pjpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Orleans Saints' Alvin Kamara suspended 3 games for violating ...">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/230804163013-alvin-kamara-saints-102022.jpg?c=original' alt='New Orleans Saints' Alvin Kamara suspended 3 games for violating ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/230804163013-alvin-kamara-saints-102022.jpg?c=original' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alvin Kamara - Alvin Kamara added a new photo.">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=884437855639688' alt='Alvin Kamara - Alvin Kamara added a new photo.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1106">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=884437855639688' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

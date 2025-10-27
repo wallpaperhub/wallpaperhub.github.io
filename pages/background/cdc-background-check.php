@@ -1,0 +1,129 @@
+<title>CDC Background Check: Ensuring Safety in Public Health</title>
+                    <meta name="description" content="Discover the essentials of the CDC background check process. Learn how thorough vetting helps ensure safety in public health roles by assessing criminal records, education, and employment history for trustworthy service. Stay informed and protect your community's health.">
+                    <meta name="keywords" content="cdc background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cdc-background-check">
+                            <span itemprop="name">cdc background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>CDC Background Check: Ensuring Safety in Public Health</h1>
+                <p>The CDC background check is a process employed to assess an individual’s fitness for roles related to public health and safety. It often involves scrutinizing criminal records, education, and employment history. This thorough vetting ensures that employees in sensitive positions are trustworthy and qualified to protect community health.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Care Provider Background Screening Clearinghouse">
+                                <img itemprop="contentUrl url" src='x-raw-image:///9e327dd159d1b465d4b80cf15c16cc12cd05f95e19b99c3eab2fbb6766e852d2' alt='Care Provider Background Screening Clearinghouse'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="583">
+                                <meta itemprop="height" content="759">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Agency for Persons with Disabilities - MyFlorida.com" />
+                                </span>
+                                <a href='x-raw-image:///9e327dd159d1b465d4b80cf15c16cc12cd05f95e19b99c3eab2fbb6766e852d2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gun shows and universal background check laws across state lines">
+                                <img itemprop="contentUrl url" src='https://stacks.cdc.gov/view/cdc/127278/cdc_127278_DS3.jpeg' alt='Gun shows and universal background check laws across state lines'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1050">
+                                <meta itemprop="height" content="662">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CDC stacks" />
+                                </span>
+                                <a href='https://stacks.cdc.gov/view/cdc/127278/cdc_127278_DS3.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Care Provider Background Screening Clearinghouse">
+                                <img itemprop="contentUrl url" src='x-raw-image:///fe6637047fd19cefdf41b6a19befc91c77913bd5ee662f14f50336f9dd8e396c' alt='Care Provider Background Screening Clearinghouse'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="879">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Agency for Persons with Disabilities - MyFlorida.com" />
+                                </span>
+                                <a href='x-raw-image:///fe6637047fd19cefdf41b6a19befc91c77913bd5ee662f14f50336f9dd8e396c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Back to background screening requirements">
+                                <img itemprop="contentUrl url" src='x-raw-image:///631fedcc850942a84f18ba5961aeee724fc55082d3b7ec2710d1f1130216b53d' alt='Back to background screening requirements'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="738">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Florida Department of Children and Families" />
+                                </span>
+                                <a href='x-raw-image:///631fedcc850942a84f18ba5961aeee724fc55082d3b7ec2710d1f1130216b53d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NEIU Independent | FACT CHECK: Did the CDC reduce its COVID-19 ...">
+                                <img itemprop="contentUrl url" src='https://neiuindependent.org/wp-content/uploads/2020/05/CDC-900x680.png' alt='NEIU Independent | FACT CHECK: Did the CDC reduce its COVID-19 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NEIU Independent" />
+                                </span>
+                                <a href='https://neiuindependent.org/wp-content/uploads/2020/05/CDC-900x680.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Care Provider Background Screening Clearinghouse">
+                                <img itemprop="contentUrl url" src='x-raw-image:///63c1ae5b9b6520b675e94505cd877b6bc8b0ab510b5749d4b5b15f171539562c' alt='Care Provider Background Screening Clearinghouse'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="940">
+                                <meta itemprop="height" content="351">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Agency for Persons with Disabilities - MyFlorida.com" />
+                                </span>
+                                <a href='x-raw-image:///63c1ae5b9b6520b675e94505cd877b6bc8b0ab510b5749d4b5b15f171539562c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ensuring COVID Compliance on Site | Safe Site Check In">
+                                <img itemprop="contentUrl url" src='https://safesitecheckin.com/wp-content/uploads/2021/09/CDC-Logo-2.png' alt='Ensuring COVID Compliance on Site | Safe Site Check In'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="986">
+                                <meta itemprop="height" content="986">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Safe Site Check In" />
+                                </span>
+                                <a href='https://safesitecheckin.com/wp-content/uploads/2021/09/CDC-Logo-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Consumer Directed Care Plus | APD - Agency for Persons with ...">
+                                <img itemprop="contentUrl url" src='https://apd.myflorida.com/images/cdcthumb.jpg' alt='Consumer Directed Care Plus | APD - Agency for Persons with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1084">
+                                <meta itemprop="height" content="611">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Agency for Persons with Disabilities - MyFlorida.com" />
+                                </span>
+                                <a href='https://apd.myflorida.com/images/cdcthumb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Please someone tell me how many days it will take for background ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2638643719676904' alt='Please someone tell me how many days it will take for background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="946">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2638643719676904' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gig Employer Hit with Background Check Class Action">
+                                <img itemprop="contentUrl url" src='https://www.hunton.com/hunton-employment-labor-perspectives/assets/images-t1740781473/200902.jpeg' alt='Gig Employer Hit with Background Check Class Action'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hunton Andrews Kurth LLP" />
+                                </span>
+                                <a href='https://www.hunton.com/hunton-employment-labor-perspectives/assets/images-t1740781473/200902.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

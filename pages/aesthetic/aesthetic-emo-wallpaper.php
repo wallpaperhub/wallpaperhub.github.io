@@ -1,0 +1,129 @@
+<title>Aesthetic Emo Wallpaper: Express Yourself</title>
+                    <meta name="description" content="Discover stunning aesthetic emo wallpapers that reflect your unique style and emotions. Perfect for personalizing your devices, these captivating designs feature dark themes and intricate art, making a bold statement. Explore our collection and find the ideal wallpaper to showcase your individuality!">
+                    <meta name="keywords" content="aesthetic emo wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic-emo-wallpaper">
+                            <span itemprop="name">aesthetic emo wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Emo Wallpaper: Express Yourself</h1>
+                <p>Aesthetic emo wallpaper captures the essence of nostalgia, emotion, and individuality. With dark hues, intricate designs, and poignant imagery, these wallpapers will transform your device into a personal sanctuary. Whether you're drawn to floral motifs, urban landscapes, or expressive art, find the perfect wallpaper that resonates with your unique style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper aesthetic | Emo wallpaper, Emo girl wallpaper, Scary ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e1/36/98/e13698eb483291aadfc7bda81323ad45.jpg' alt='Wallpaper aesthetic | Emo wallpaper, Emo girl wallpaper, Scary ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e1/36/98/e13698eb483291aadfc7bda81323ad45.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Emo Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/emo-aesthetic-r573bg4qqh7q9uh2.jpg' alt='200+] Emo Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/emo-aesthetic-r573bg4qqh7q9uh2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emo Aesthetic Digital Illustration Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/emo-aesthetic-digital-illustration-yv4nv5lah27hhddk.jpg' alt='Emo Aesthetic Digital Illustration Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/emo-aesthetic-digital-illustration-yv4nv5lah27hhddk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emo Aesthetic Text Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/emo-aesthetic-unhappy-quote-l5auyl9vcajeq6l7.webp' alt='Emo Aesthetic Text Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/emo-aesthetic-unhappy-quote-l5auyl9vcajeq6l7.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Grunge Emo Aesthetic Pictures | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/grunge-emo-aesthetic-pictures-t5ju8ale5fv7ci6g.jpg' alt='100+] Grunge Emo Aesthetic Pictures | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/grunge-emo-aesthetic-pictures-t5ju8ale5fv7ci6g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/57/d1/5c/57d15c71b462f6c1f2624cefb5b96bd8.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/57/d1/5c/57d15c71b462f6c1f2624cefb5b96bd8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Part 2 emo wallpapers | Gallery posted by Skyy | Lemon8">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7382316973118210565&index=1&sign=49b6e3c823d8175162eaac9309009420' alt='Part 2 emo wallpapers | Gallery posted by Skyy | Lemon8'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1107">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7382316973118210565&index=1&sign=49b6e3c823d8175162eaac9309009420' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emo Wallpaper Thing | Panic! At The Disco Amino">
+                                <img itemprop="contentUrl url" src='https://pm1.aminoapps.com/7054/cde5bfc3ee1a6b9527ee4dab7653b3464e37406br1-1280-720v2_hq.jpg' alt='Emo Wallpaper Thing | Panic! At The Disco Amino'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amino Apps" />
+                                </span>
+                                <a href='https://pm1.aminoapps.com/7054/cde5bfc3ee1a6b9527ee4dab7653b3464e37406br1-1280-720v2_hq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emo Aesthetic Stay Weird Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/skeleton-emo-aesthetic-his2kc1j3w9lqk6o.webp' alt='Emo Aesthetic Stay Weird Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/skeleton-emo-aesthetic-his2kc1j3w9lqk6o.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD emo wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/192/111/HD-wallpaper-black-aesthetic-emo-goth-thumbnail.jpg' alt='HD emo wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="647">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/192/111/HD-wallpaper-black-aesthetic-emo-goth-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

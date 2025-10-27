@@ -1,0 +1,129 @@
+<title>Cute Christmas Patterns: Festive & Fun Designs</title>
+                    <meta name="description" content="Discover a delightful collection of cute Christmas patterns perfect for your holiday crafts, decorations, and gifts. Explore festive designs featuring snowmen, reindeer, and more to celebrate the season in style! Ideal for wrapping, cards, and holiday apparel. Join the fun today!">
+                    <meta name="keywords" content="cute christmas patterns">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cute-christmas-patterns">
+                            <span itemprop="name">cute christmas patterns</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cute Christmas Patterns: Festive & Fun Designs</h1>
+                <p>Get into the holiday spirit with adorable Christmas patterns! From cheerful snowmen and playful reindeer to whimsical Christmas trees and festive ornaments, these cute designs bring joy to your decorations and gifts. Use them for wrapping paper, card designs, or festive apparel. Celebrate the season in style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Christmas Patterns By Alicita | TheHungryJPEG">
+                                <img itemprop="contentUrl url" src='https://media1.thehungryjpeg.com/thumbs2/ori_3632081_jzze2oc9dkb4watfad24rrt3kd33924o307spzoz_cute-christmas-patterns.jpg' alt='Cute Christmas Patterns By Alicita | TheHungryJPEG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2767">
+                                <meta itemprop="height" content="2069">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheHungryJPEG" />
+                                </span>
+                                <a href='https://media1.thehungryjpeg.com/thumbs2/ori_3632081_jzze2oc9dkb4watfad24rrt3kd33924o307spzoz_cute-christmas-patterns.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Pattern Santa Stock Illustrations – 76,083 Christmas ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/christmas-holiday-season-seamless-pattern-santa-claus-giftbox-cute-holidays-cartoon-character-background-147833318.jpg' alt='Christmas Pattern Santa Stock Illustrations – 76,083 Christmas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/christmas-holiday-season-seamless-pattern-santa-claus-giftbox-cute-holidays-cartoon-character-background-147833318.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Christmas Seamless Pattern, Girls Christmas Digital File, Rudolph  Reindeer digital paper, Kids Pink Christmas fabric design">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/23136514/r/il/cf518c/5326709756/il_fullxfull.5326709756_4g48.jpg' alt='Pink Christmas Seamless Pattern, Girls Christmas Digital File, Rudolph  Reindeer digital paper, Kids Pink Christmas fabric design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/23136514/r/il/cf518c/5326709756/il_fullxfull.5326709756_4g48.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Holiday Cute Pattern Design Vector Download">
+                                <img itemprop="contentUrl url" src='https://images.vexels.com/media/users/3/263167/raw/954b4f52c3f4ba3ca9e048a82b62126e-christmas-holiday-cute-pattern-design.jpg' alt='Christmas Holiday Cute Pattern Design Vector Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="941">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vexels" />
+                                </span>
+                                <a href='https://images.vexels.com/media/users/3/263167/raw/954b4f52c3f4ba3ca9e048a82b62126e-christmas-holiday-cute-pattern-design.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Cute Christmas Seamless Pattern">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/cute-christmas-seamless-pattern_8830-541.jpg' alt='Free Vector | Cute Christmas Seamless Pattern'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/cute-christmas-seamless-pattern_8830-541.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Seamless simple Christmas pattern">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/seamless-simple-christmas-pattern_509354-622.jpg' alt='Premium Vector | Seamless simple Christmas pattern'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/seamless-simple-christmas-pattern_509354-622.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas seamless pattern, card - Scandinavian sweater style ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/01/15/93/94/1000_F_115939461_CVxALNu3S65aDCatc8qtVTjkUd7CgYWi.jpg' alt='Christmas seamless pattern, card - Scandinavian sweater style ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/01/15/93/94/1000_F_115939461_CVxALNu3S65aDCatc8qtVTjkUd7CgYWi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas pattern background Stock Vector Images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/HDKKX0/merry-christmas-seamless-pattern-background-cute-snowman-holiday-decoration-HDKKX0.jpg' alt='Christmas pattern background Stock Vector Images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/HDKKX0/merry-christmas-seamless-pattern-background-cute-snowman-holiday-decoration-HDKKX0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Muted Christmas Santa Digital Seamless Pattern for Fabrics and ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25961083/r/il/a6a1f9/3244753637/il_570xN.3244753637_rlfo.jpg' alt='Muted Christmas Santa Digital Seamless Pattern for Fabrics and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25961083/r/il/a6a1f9/3244753637/il_570xN.3244753637_rlfo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Cute Christmas Seamless Pattern In Scandinavian Style ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20231028/original/pngtree-kawaii-cute-christmas-seamless-pattern-in-scandinavian-style-png-image_13450557.png' alt='Kawaii Cute Christmas Seamless Pattern In Scandinavian Style ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20231028/original/pngtree-kawaii-cute-christmas-seamless-pattern-in-scandinavian-style-png-image_13450557.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

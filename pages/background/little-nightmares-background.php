@@ -1,0 +1,129 @@
+<title>Explore the Chilling World of Little Nightmares</title>
+                    <meta name="description" content="Discover the dark and eerie universe of Little Nightmares, where players navigate a gripping blend of horror and adventure. Uncover haunting secrets and face disturbing creatures in this atmospheric game that explores the depths of childhood fears and survival instincts.">
+                    <meta name="keywords" content="little nightmares background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/little-nightmares-background">
+                            <span itemprop="name">little nightmares background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Chilling World of Little Nightmares</h1>
+                <p>Little Nightmares delves into the hauntingly surreal world of Tarsier Studios’ creation, combining adventure, horror, and puzzle elements. Players control Six, a young girl trapped in a nightmarish realm filled with grotesque creatures and ominous settings. The atmospheric storytelling evokes a sense of dread while exploring themes of childhood fears and survival.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Little Nightmares Wallpaper for TV Day! | Bandai Namco Europe">
+                                <img itemprop="contentUrl url" src='https://p325k7wa.twic.pics/high/little-nightmares/little-nightmares-2/00-page-setup/ln2_game-thumbnail.jpg?twic=v1/resize=760/step=10/quality=80' alt='Free Little Nightmares Wallpaper for TV Day! | Bandai Namco Europe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="760">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bandai Namco" />
+                                </span>
+                                <a href='https://p325k7wa.twic.pics/high/little-nightmares/little-nightmares-2/00-page-setup/ln2_game-thumbnail.jpg?twic=v1/resize=760/step=10/quality=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LITTLE NIGHTMARES | Official Website (EN)">
+                                <img itemprop="contentUrl url" src='https://p325k7wa.twic.pics/high/little-nightmares/little-nightmares/00-page-setup/ln_game-thumbnail.jpg?twic=v1/resize=760/step=10/quality=80' alt='LITTLE NIGHTMARES | Official Website (EN)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="760">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bandai Namco" />
+                                </span>
+                                <a href='https://p325k7wa.twic.pics/high/little-nightmares/little-nightmares/00-page-setup/ln_game-thumbnail.jpg?twic=v1/resize=760/step=10/quality=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My new wallpaper for the trilogy of Little Nightmares games (OC ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/my-new-wallpaper-for-the-trilogy-of-little-nightmares-games-v0-77kmbgelc5kb1.png?auto=webp&s=5f1b603d51c63c7a4e524d09b1f1eb97b41b9b1f' alt='My new wallpaper for the trilogy of Little Nightmares games (OC ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/my-new-wallpaper-for-the-trilogy-of-little-nightmares-games-v0-77kmbgelc5kb1.png?auto=webp&s=5f1b603d51c63c7a4e524d09b1f1eb97b41b9b1f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Little Nightmares II – a possessed music box | Gamemusic">
+                                <img itemprop="contentUrl url" src='https://gamemusic.net/wp-content/uploads/2021/04/Little-Nightmares-2-4.jpg' alt='Little Nightmares II – a possessed music box | Gamemusic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gamemusic" />
+                                </span>
+                                <a href='https://gamemusic.net/wp-content/uploads/2021/04/Little-Nightmares-2-4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Little Nightmares Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/little-nightmares-family-portrait-ykw2zs177glc7zs4.jpg' alt='100+] Little Nightmares Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/little-nightmares-family-portrait-ykw2zs177glc7zs4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here's the cover art for little nightmares 3. : r/LittleNightmares">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/heres-the-cover-art-for-little-nightmares-3-v0-7hicckpgipjb1.jpg?width=1080&crop=smart&auto=webp&s=86a44da6ac7edc64ce13504e29720c525883e0d8' alt='Here's the cover art for little nightmares 3. : r/LittleNightmares'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/heres-the-cover-art-for-little-nightmares-3-v0-7hicckpgipjb1.jpg?width=1080&crop=smart&auto=webp&s=86a44da6ac7edc64ce13504e29720c525883e0d8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Revisiting Little Nightmares">
+                                <img itemprop="contentUrl url" src='https://www.superjumpmagazine.com/content/images/2022/09/little-nightmares-feat-image.jpg' alt='Revisiting Little Nightmares'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SUPERJUMP" />
+                                </span>
+                                <a href='https://www.superjumpmagazine.com/content/images/2022/09/little-nightmares-feat-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hermes Escriva - Little Nightmares - Fanart">
+                                <img itemprop="contentUrl url" src='https://cdna.artstation.com/p/assets/images/images/009/212/782/large/hermes-escriva-render-01.jpg?1517742601' alt='Hermes Escriva - Little Nightmares - Fanart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hermes Escriva" />
+                                </span>
+                                <a href='https://cdna.artstation.com/p/assets/images/images/009/212/782/large/hermes-escriva-render-01.jpg?1517742601' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Little Nightmares 2 Thin man Oficial Wallpaper FULL HD">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/1758066212747926867/7E1851DC64C0D3E0BA644DD2F16FA1694FE3DE3B/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::Little Nightmares 2 Thin man Oficial Wallpaper FULL HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/1758066212747926867/7E1851DC64C0D3E0BA644DD2F16FA1694FE3DE3B/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Little Nightmares II' review: A horror platformer where you dread ...">
+                                <img itemprop="contentUrl url" src='https://www.washingtonpost.com/resizer/_PRg56VdypOmw-2jloLQO_MqhNA=/arc-anglerfish-washpost-prod-washpost/public/JTF3CKYHNFA2FEZEACIWEZ6AGI.jpg' alt='Little Nightmares II' review: A horror platformer where you dread ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3240">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Washington Post" />
+                                </span>
+                                <a href='https://www.washingtonpost.com/resizer/_PRg56VdypOmw-2jloLQO_MqhNA=/arc-anglerfish-washpost-prod-washpost/public/JTF3CKYHNFA2FEZEACIWEZ6AGI.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

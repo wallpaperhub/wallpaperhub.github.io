@@ -1,0 +1,129 @@
+<title>Explore the Charm of Vintage Baseball</title>
+                    <meta name="description" content="Dive into the nostalgic world of vintage baseball! Discover the charm of classic games, legendary players, and timeless memorabilia that connect generations. Celebrate America’s pastime and relive the moments that shaped the game we love today. Perfect for enthusiasts and new fans alike!">
+                    <meta name="keywords" content="vintage baseball background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/vintage-baseball-background">
+                            <span itemprop="name">vintage baseball background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Charm of Vintage Baseball</h1>
+                <p>Vintage baseball evokes a nostalgic charm, where timeless leather gloves, wooden bats, and classic uniforms tell stories of the past. This rich background captures the essence of America’s pastime, celebrating legendary players and historic games. From age-old stadiums to cherished memorabilia, vintage baseball connects generations through shared love.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Baseball Background Images – Browse 48,902 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/04/16/22/360_F_304162236_hhTNuMVUZlL6jZBN3JtB5tvAlh1vTGm0.jpg' alt='Vintage Baseball Background Images – Browse 48,902 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="539">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/04/16/22/360_F_304162236_hhTNuMVUZlL6jZBN3JtB5tvAlh1vTGm0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : CHNYWORK 10ftx6.5ft Vintage Baseball Backdrop Grunge ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91mPoL8wOdL._AC_UF350,350_QL80_.jpg' alt='Amazon.com : CHNYWORK 10ftx6.5ft Vintage Baseball Backdrop Grunge ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="233">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91mPoL8wOdL._AC_UF350,350_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old Vintage Baseball Background Stock Photo 228671017 ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/228671017/display_1500/stock-photo-old-vintage-baseball-background-228671017.jpg' alt='Old Vintage Baseball Background Stock Photo 228671017 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1101">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/228671017/display_1500/stock-photo-old-vintage-baseball-background-228671017.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Laeacco Old Vintage Baseball Background 10x6.5ft Photography  Background Aged Balls Baseball Background Wooden Vintage Rusty Wood Plank  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61203G3Q3eL.jpg' alt='Amazon.com : Laeacco Old Vintage Baseball Background 10x6.5ft Photography  Background Aged Balls Baseball Background Wooden Vintage Rusty Wood Plank  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="341">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61203G3Q3eL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Mural Vintage baseball background">
+                                <img itemprop="contentUrl url" src='https://img.pixers.pics/pho_wat(s3:700/FO/65/36/20/47/700_FO65362047_a88b18fbae160b1ede0925bf3a3b6bd2.jpg,467,700,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,247,650,jpg)/wall-murals-vintage-baseball-background.jpg.jpg' alt='Wall Mural Vintage baseball background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="467">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixers" />
+                                </span>
+                                <a href='https://img.pixers.pics/pho_wat(s3:700/FO/65/36/20/47/700_FO65362047_a88b18fbae160b1ede0925bf3a3b6bd2.jpg,467,700,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,247,650,jpg)/wall-murals-vintage-baseball-background.jpg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poster, Print Old Vintage Baseball Background. Focus on ball in glove,  40x26.7 cm">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/v2/jpg/01/34/23/22/1000_F_134232223_vUKFtXTUtLGA1uLAZ256RZ4tXv1RatTL.jpg' alt='Poster, Print Old Vintage Baseball Background. Focus on ball in glove,  40x26.7 cm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Europosters.eu" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/v2/jpg/01/34/23/22/1000_F_134232223_vUKFtXTUtLGA1uLAZ256RZ4tXv1RatTL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11,900+ Vintage Baseball Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1371127796/photo/vintage-rustic-style-baseball-background.jpg?s=612x612&w=0&k=20&c=A6fPMGcjDNqxIOUPnBp_zQ4PrdPu2upJqtMlmjvdSzs=' alt='11,900+ Vintage Baseball Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1371127796/photo/vintage-rustic-style-baseball-background.jpg?s=612x612&w=0&k=20&c=A6fPMGcjDNqxIOUPnBp_zQ4PrdPu2upJqtMlmjvdSzs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage 1894 Baseball Match Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='http://www.eazywallz.com/cdn/shop/products/Vintage-1894-Baseball-Match-Wallpaper-Mural_f8dac4d8-84c0-4965-adf5-f841330b8727.jpg?v=1628796324' alt='Vintage 1894 Baseball Match Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eazywallz" />
+                                </span>
+                                <a href='http://www.eazywallz.com/cdn/shop/products/Vintage-1894-Baseball-Match-Wallpaper-Mural_f8dac4d8-84c0-4965-adf5-f841330b8727.jpg?v=1628796324' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old Vintage Baseball Background.">
+                                <img itemprop="contentUrl url" src='https://imgc.allpostersimages.com/img/posters/soupstock-old-vintage-baseball-background_u-l-q105gef0.jpg?artHeight=550&artPerspective=n&artWidth=550&background=ffffff' alt='Old Vintage Baseball Background.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="367">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AllPosters.com" />
+                                </span>
+                                <a href='https://imgc.allpostersimages.com/img/posters/soupstock-old-vintage-baseball-background_u-l-q105gef0.jpg?artHeight=550&artPerspective=n&artWidth=550&background=ffffff' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poster, Print Old vintage baseball background with ball and glove., 50x23.2  cm">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/v2/jpg/04/88/61/73/1000_F_488617375_dHFMq4FuuPfOPqRhYhdNL8P3fpcjZlMD.jpg' alt='Poster, Print Old vintage baseball background with ball and glove., 50x23.2  cm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="464">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abposters.com" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/v2/jpg/04/88/61/73/1000_F_488617375_dHFMq4FuuPfOPqRhYhdNL8P3fpcjZlMD.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

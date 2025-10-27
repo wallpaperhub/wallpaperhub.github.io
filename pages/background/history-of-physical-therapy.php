@@ -1,0 +1,129 @@
+<title>History of Physical Therapy: A Journey Through Time</title>
+                    <meta name="description" content="Explore the fascinating history of physical therapy, from ancient practices to modern techniques. Discover how this evolving field has shaped healing and rehabilitation, enhancing lives across the globe. Learn about key milestones that have defined physical therapy's journey through time.">
+                    <meta name="keywords" content="history of physical therapy">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/history-of-physical-therapy">
+                            <span itemprop="name">history of physical therapy</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>History of Physical Therapy: A Journey Through Time</h1>
+                <p>Physical therapy has a rich history, originating in ancient civilizations like Greece and China, where massage and manual therapy were practiced. In the 19th century, the modern field emerged with the development of electrotherapy and early rehabilitation techniques. Today, it combines science and creativity to promote healing and enhance physical function.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Brief History of Physical Therapy - Strive! Physical Therapy Centers">
+                                <img itemprop="contentUrl url" src='https://striverehab.com/wp-content/uploads/2021/10/download-1.jpg' alt='A Brief History of Physical Therapy - Strive! Physical Therapy Centers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="945">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Strive! Physical Therapy Centers" />
+                                </span>
+                                <a href='https://striverehab.com/wp-content/uploads/2021/10/download-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History and Future of Physical Therapy — Comet Healthcare ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/60ca47929e8d3671b00853e5/1624823477587-15T3FD86W3UD958LLMTJ/ra.jpeg' alt='The History and Future of Physical Therapy — Comet Healthcare ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="277">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Comet Healthcare" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/60ca47929e8d3671b00853e5/1624823477587-15T3FD86W3UD958LLMTJ/ra.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Physical Therapy - Medgic Instruments Inc">
+                                <img itemprop="contentUrl url" src='https://medgicinstruments.com/wp-content/uploads/2013/12/image002.jpg' alt='History of Physical Therapy - Medgic Instruments Inc'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="534">
+                                <meta itemprop="height" content="671">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medgic Instruments Inc" />
+                                </span>
+                                <a href='https://medgicinstruments.com/wp-content/uploads/2013/12/image002.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Physical Therapy: From Ancient Times to Present Day">
+                                <img itemprop="contentUrl url" src='https://www.ptprogress.com/wp-content/uploads/2021/02/History-of-Physical-Therapy.jpg' alt='The History of Physical Therapy: From Ancient Times to Present Day'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PTProgress" />
+                                </span>
+                                <a href='https://www.ptprogress.com/wp-content/uploads/2021/02/History-of-Physical-Therapy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Physical Therapy | Hankering for History">
+                                <img itemprop="contentUrl url" src='https://hankeringforhistory.com/wp-content/uploads/World-War-I-reconstructive-aides.jpg' alt='The History of Physical Therapy | Hankering for History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="399">
+                                <meta itemprop="height" content="298">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hankering for History" />
+                                </span>
+                                <a href='https://hankeringforhistory.com/wp-content/uploads/World-War-I-reconstructive-aides.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Comprehensive History of Physiotherapy - Elite Physio">
+                                <img itemprop="contentUrl url" src='https://www.elitephysio.id/wp-content/uploads/2023/08/1.jpg' alt='A Comprehensive History of Physiotherapy - Elite Physio'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Elite Physio" />
+                                </span>
+                                <a href='https://www.elitephysio.id/wp-content/uploads/2023/08/1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of Physiotherapy - Kamloops Physiotherapy">
+                                <img itemprop="contentUrl url" src='https://kamloopsphysiotherapy.ca/wp-content/uploads/2022/05/PT-Image-BW.jpg' alt='History of Physiotherapy - Kamloops Physiotherapy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="501">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kamloops Physiotherapy" />
+                                </span>
+                                <a href='https://kamloopsphysiotherapy.ca/wp-content/uploads/2022/05/PT-Image-BW.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Physical Therapy: The Movement Specialists (Part 1) - Back In Step ...">
+                                <img itemprop="contentUrl url" src='https://backinsteppt.com/wp-content/uploads/2019/01/9cb54f_764de895c5e140d0a5b01da2dc6bb9df~mv2.jpg' alt='Physical Therapy: The Movement Specialists (Part 1) - Back In Step ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Back In Step Physical Therapy" />
+                                </span>
+                                <a href='https://backinsteppt.com/wp-content/uploads/2019/01/9cb54f_764de895c5e140d0a5b01da2dc6bb9df~mv2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The rise of physical therapy: A history in footsteps | Semantic ...">
+                                <img itemprop="contentUrl url" src='https://figures.semanticscholar.org/ba5a7ea99da22fc26325b3a9ffc2d814b194a6d2/3-Figure5-1.png' alt='The rise of physical therapy: A history in footsteps | Semantic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="674">
+                                <meta itemprop="height" content="456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Semantic Scholar" />
+                                </span>
+                                <a href='https://figures.semanticscholar.org/ba5a7ea99da22fc26325b3a9ffc2d814b194a6d2/3-Figure5-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Physical Therapy | Florida Spine">
+                                <img itemprop="contentUrl url" src='https://floridaspine.us/wp-content/uploads/2018/05/heroimage0.820162001562939491-1.jpg' alt='The History of Physical Therapy | Florida Spine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="314">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Florida Spine" />
+                                </span>
+                                <a href='https://floridaspine.us/wp-content/uploads/2018/05/heroimage0.820162001562939491-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

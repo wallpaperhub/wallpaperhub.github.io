@@ -1,0 +1,129 @@
+<title>Ronaldo: The Rise of a Football Legend</title>
+                    <meta name="description" content="Explore the inspiring journey of Cristiano Ronaldo, from humble beginnings in Madeira to becoming one of football's greatest icons. Discover his background, early achievements, and the relentless drive that shaped his legendary career.">
+                    <meta name="keywords" content="ronaldo background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ronaldo-background">
+                            <span itemprop="name">ronaldo background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ronaldo: The Rise of a Football Legend</h1>
+                <p>Cristiano Ronaldo, born on February 5, 1985, in Funchal, Madeira, Portugal, grew up in a modest background. His father worked as a kit man, while his mother was a cook. Despite financial challenges, Ronaldo's talent in football emerged early, leading him to join Sporting Lisbon's youth academy. His dedication and hard work propelled him to global superstardom.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cristiano Ronaldo Wallpapers (38 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/4/b/a/12377-1440x2560-mobile-hd-cristiano-ronaldo-background.jpg' alt='Cristiano Ronaldo Wallpapers (38 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/4/b/a/12377-1440x2560-mobile-hd-cristiano-ronaldo-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ronaldo World Cup Wallpapers [29+ Free Background Images ...">
+                                <img itemprop="contentUrl url" src='https://www.wallpapergap.com/cdn/24/405/ronaldo-holding-world-cup-wallpaper-1440x1080.jpg' alt='Ronaldo World Cup Wallpapers [29+ Free Background Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperGap" />
+                                </span>
+                                <a href='https://www.wallpapergap.com/cdn/24/405/ronaldo-holding-world-cup-wallpaper-1440x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Images, Christiano Ronaldo, 2000x2000 Px, Png,digital ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38163649/r/il/cd2bac/4797621280/il_fullxfull.4797621280_b90x.jpg' alt='5 Images, Christiano Ronaldo, 2000x2000 Px, Png,digital ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38163649/r/il/cd2bac/4797621280/il_fullxfull.4797621280_b90x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CRISTIANO RONALDO WALLPAPER LOCKSCREEN by MohamedGfx10 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9cc2ab1c-d658-4813-9b9a-4dd6a7f7c095/dd5921s-a24e9139-78e1-4911-9964-ed5dd474f41f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzljYzJhYjFjLWQ2NTgtNDgxMy05YjlhLTRkZDZhN2Y3YzA5NVwvZGQ1OTIxcy1hMjRlOTEzOS03OGUxLTQ5MTEtOTk2NC1lZDVkZDQ3NGY0MWYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.GgdaX1JeTYQbXbY2vdNx1b7X3Pgal59KfkbbyzFBUx8' alt='CRISTIANO RONALDO WALLPAPER LOCKSCREEN by MohamedGfx10 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1179">
+                                <meta itemprop="height" content="2118">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9cc2ab1c-d658-4813-9b9a-4dd6a7f7c095/dd5921s-a24e9139-78e1-4911-9964-ed5dd474f41f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzljYzJhYjFjLWQ2NTgtNDgxMy05YjlhLTRkZDZhN2Y3YzA5NVwvZGQ1OTIxcy1hMjRlOTEzOS03OGUxLTQ5MTEtOTk2NC1lZDVkZDQ3NGY0MWYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.GgdaX1JeTYQbXbY2vdNx1b7X3Pgal59KfkbbyzFBUx8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CR7 Wallpaper    : r/Juve">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/5vx4liftyla31.jpg?width=640&crop=smart&auto=webp&s=ceba746b9c8fcbba45a688cc95ddfb674451a740' alt='CR7 Wallpaper    : r/Juve'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/5vx4liftyla31.jpg?width=640&crop=smart&auto=webp&s=ceba746b9c8fcbba45a688cc95ddfb674451a740' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="THE BEST 10 CRISTIANO RONALDO WALLPAPERS HD PORTUGAL PHOTOS ...">
+                                <img itemprop="contentUrl url" src='https://www.edigitalagency.com.au/wp-content/uploads/Cristiano-Ronaldo-Portugal-wallpaper-HD-desktop-CR7-back-scaled.jpeg' alt='THE BEST 10 CRISTIANO RONALDO WALLPAPERS HD PORTUGAL PHOTOS ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eDigital Agency" />
+                                </span>
+                                <a href='https://www.edigitalagency.com.au/wp-content/uploads/Cristiano-Ronaldo-Portugal-wallpaper-HD-desktop-CR7-back-scaled.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cristiano Ronaldo Full HD Phone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6e/ec/47/6eec47e551d941344324b3c4c1d5bcfb.jpg' alt='Cristiano Ronaldo Full HD Phone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6e/ec/47/6eec47e551d941344324b3c4c1d5bcfb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cristiano Ronaldo wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/73/d4/46/73d446b9ce2dba4cb7e1e61234193d72.jpg' alt='Cristiano Ronaldo wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/73/d4/46/73d446b9ce2dba4cb7e1e61234193d72.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cristiano Ronaldo HD wallpapers">
+                                <img itemprop="contentUrl url" src='https://statico.sportskeeda.com/wp-content/uploads/2016/08/cr7-1472215049-800.jpg' alt='Cristiano Ronaldo HD wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sportskeeda" />
+                                </span>
+                                <a href='https://statico.sportskeeda.com/wp-content/uploads/2016/08/cr7-1472215049-800.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AIPHE Photo on Canvas Cristiano Ronaldo Wallpaper Most Football Players  Room Wallpaper Art Poster Print Photo Art Home Bedroom Gifts 60 x 90 cm No  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61+CYOJbx1L._AC_UF894,1000_QL80_.jpg' alt='AIPHE Photo on Canvas Cristiano Ronaldo Wallpaper Most Football Players  Room Wallpaper Art Poster Print Photo Art Home Bedroom Gifts 60 x 90 cm No  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="598">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.de" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61+CYOJbx1L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

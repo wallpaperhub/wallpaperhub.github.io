@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="stanley cup hockey">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/stanley-cup-hockey">
+                            <span itemprop="name">stanley cup hockey</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stanley Cup - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/4/47/Stanley_Cup%2C_2015.jpg' alt='Stanley Cup - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2061">
+                                <meta itemprop="height" content="4383">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/4/47/Stanley_Cup%2C_2015.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HHOF - Stanley Cup History">
+                                <img itemprop="contentUrl url" src='https://www.hhof.com/images_collection/stanleycup_clipped.jpg' alt='HHOF - Stanley Cup History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1545">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hockey Hall of Fame" />
+                                </span>
+                                <a href='https://www.hhof.com/images_collection/stanleycup_clipped.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Colorado Avalanche wins its first Stanley Cup in 21 years : NPR">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/img/2022/06/26/ap22178114621236_wide-53125a07f093bdac7f2f6385f2fd575d95c53ce2.jpg?s=1400&c=100&f=jpeg' alt='The Colorado Avalanche wins its first Stanley Cup in 21 years : NPR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="787">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/img/2022/06/26/ap22178114621236_wide-53125a07f093bdac7f2f6385f2fd575d95c53ce2.jpg?s=1400&c=100&f=jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stanley Cup | NHL, Hockey Teams, Champions | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/25/19125-050-A2A2E929/Stanley-Cup.jpg' alt='Stanley Cup | NHL, Hockey Teams, Champions | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1199">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/25/19125-050-A2A2E929/Stanley-Cup.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stanley Cup - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Pavel_Datsyuk_with_Stanley_Cup.jpg/220px-Pavel_Datsyuk_with_Stanley_Cup.jpg' alt='Stanley Cup - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="376">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Pavel_Datsyuk_with_Stanley_Cup.jpg/220px-Pavel_Datsyuk_with_Stanley_Cup.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photos: The Stanley Cup trophy comes to Lewis Ice Arena with Aspen ...">
+                                <img itemprop="contentUrl url" src='https://swiftmedia.s3.amazonaws.com/mountain.swiftcom.com/images/sites/5/2022/12/09103906/EDLstanley-atd-121522-3-819x1024.jpg' alt='Photos: The Stanley Cup trophy comes to Lewis Ice Arena with Aspen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="819">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Aspen Times" />
+                                </span>
+                                <a href='https://swiftmedia.s3.amazonaws.com/mountain.swiftcom.com/images/sites/5/2022/12/09103906/EDLstanley-atd-121522-3-819x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ontario hockey players are now Stanley Cup champions">
+                                <img itemprop="contentUrl url" src='https://www.ctvnews.ca/resizer/v2/BQC6IOTRPMI52GOJLRDJ3LU7CE.jpg?smart=true&auth=ee7989ef6be5c66ea5c830789abf8f4b61944967c961228e8fd64254260f0d3d&width=1200&height=630' alt='Ontario hockey players are now Stanley Cup champions'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CTV News" />
+                                </span>
+                                <a href='https://www.ctvnews.ca/resizer/v2/BQC6IOTRPMI52GOJLRDJ3LU7CE.jpg?smart=true&auth=ee7989ef6be5c66ea5c830789abf8f4b61944967c961228e8fd64254260f0d3d&width=1200&height=630' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Sports Vault NHL 14-inch Stanley Cup Champions Trophy Replica for Dad -  Best Gifts for Men, Hockey Fans, Players, Coaches & Collectors">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/819SxLa6DjL._AC_UF1000,1000_QL80_.jpg' alt='The Sports Vault NHL 14-inch Stanley Cup Champions Trophy Replica for Dad -  Best Gifts for Men, Hockey Fans, Players, Coaches & Collectors'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="409">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/819SxLa6DjL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Draw STANLEY CUP Easy Fun Simple NHL">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/IZwDt5rBS8I/maxresdefault.jpg' alt='How to Draw STANLEY CUP Easy Fun Simple NHL'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/IZwDt5rBS8I/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Entire 130 Year History of the Stanley Cup">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/6NBXX5RTrQ8/maxresdefault.jpg' alt='The Entire 130 Year History of the Stanley Cup'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/6NBXX5RTrQ8/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

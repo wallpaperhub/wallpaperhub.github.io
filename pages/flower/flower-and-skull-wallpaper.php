@@ -1,0 +1,129 @@
+<title>Flower & Skull Wallpaper: Nature Meets Edge</title>
+                    <meta name="description" content="Discover the captivating blend of floral elegance and skull artistry in our flower and skull wallpaper. Perfect for creating a bold, unique atmosphere in any room, this design emphasizes the beauty of juxtaposition in decor. Ideal for those seeking an edgy touch that doesn't compromise on style.">
+                    <meta name="keywords" content="flower and skull wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flower">
+                            <span itemprop="name">Flower</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flower/flower-and-skull-wallpaper">
+                            <span itemprop="name">flower and skull wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Flower & Skull Wallpaper: Nature Meets Edge</h1>
+                <p>Explore the intriguing beauty of flower and skull wallpaper, where nature and mortality intertwine in a stunning design. This unique wallpaper combines vibrant floral patterns with striking skull motifs, making it perfect for edgy decor enthusiasts. Transform your space with this bold statement piece that celebrates life's duality.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LwenSnow Halloween Skull Floral Peel and Stick Wallpaper Red Sugar Skull  Floral Gothic Wallpaper Vinyl Removable Self Adhesive Wall Paper for  Bedroom ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91mwnjF+kxL.jpg' alt='LwenSnow Halloween Skull Floral Peel and Stick Wallpaper Red Sugar Skull  Floral Gothic Wallpaper Vinyl Removable Self Adhesive Wall Paper for  Bedroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91mwnjF+kxL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Floral With Skull Wallpaper, Dark Floral Wallpaper Peel and ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38261808/r/il/b6a6cf/4916211733/il_570xN.4916211733_k9d8.jpg' alt='Dark Floral With Skull Wallpaper, Dark Floral Wallpaper Peel and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="855">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38261808/r/il/b6a6cf/4916211733/il_570xN.4916211733_k9d8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Buried Treasure - Peel-and-Stick">
+                                <img itemprop="contentUrl url" src='http://wallsneedlove.com/cdn/shop/products/w0466_1s_Flowers-_-Skulls-Wallpaper-for-Walls-Buried-Treasure_Repeating-Pattern-Sample-1_6d17f52a-98b6-479d-a813-2a7623cc5350.jpg?v=1734718018' alt='Buried Treasure - Peel-and-Stick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3028">
+                                <meta itemprop="height" content="1872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallsNeedLove" />
+                                </span>
+                                <a href='http://wallsneedlove.com/cdn/shop/products/w0466_1s_Flowers-_-Skulls-Wallpaper-for-Walls-Buried-Treasure_Repeating-Pattern-Sample-1_6d17f52a-98b6-479d-a813-2a7623cc5350.jpg?v=1734718018' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Skulls Wallpaper in Monochrome – I Love Wallpaper">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/1-FloralSkulls-Monochrome_ILW50341_Thumbnail_WEB_7cc22c16-98e8-4b2d-a677-fc6142d29276.webp?crop=center&height=850&v=1706007976&width=850' alt='Floral Skulls Wallpaper in Monochrome – I Love Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/1-FloralSkulls-Monochrome_ILW50341_Thumbnail_WEB_7cc22c16-98e8-4b2d-a677-fc6142d29276.webp?crop=center&height=850&v=1706007976&width=850' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Floral With Skull Wallpaper, Gothic Flower Wall Mural, Peel ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38261808/r/il/3a5c97/4459978270/il_570xN.4459978270_45iq.jpg' alt='Dark Floral With Skull Wallpaper, Gothic Flower Wall Mural, Peel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="684">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38261808/r/il/3a5c97/4459978270/il_570xN.4459978270_45iq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="120 Best Flower skull ideas | skull, skull art, skull wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/da/9b/cd/da9bcd515c2cdc729b3e89b4465db2f0.jpg' alt='120 Best Flower skull ideas | skull, skull art, skull wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="435">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/da/9b/cd/da9bcd515c2cdc729b3e89b4465db2f0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VEELIKE Antique Rose Skulls Wallpaper Peel and Stick Dark Gothic Flower  Wallpaper for Bedroom Bathroom Accent Wall 17.7''x118'' Removable Floral ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81+nZNWrhtL._AC_UF894,1000_QL80_.jpg' alt='VEELIKE Antique Rose Skulls Wallpaper Peel and Stick Dark Gothic Flower  Wallpaper for Bedroom Bathroom Accent Wall 17.7''x118'' Removable Floral ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81+nZNWrhtL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower Skull Wallpaper - Happywall">
+                                <img itemprop="contentUrl url" src='https://happywall-img-gallery.imgix.net/1578/flower_skull_limited.jpg' alt='Flower Skull Wallpaper - Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-img-gallery.imgix.net/1578/flower_skull_limited.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Skull Wallpapers [17+ Free Background Images] - WallpaperGap">
+                                <img itemprop="contentUrl url" src='https://www.wallpapergap.com/cdn/24/406/skull-floral-wallpaper-1080x2220.jpg' alt='Floral Skull Wallpapers [17+ Free Background Images] - WallpaperGap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperGap" />
+                                </span>
+                                <a href='https://www.wallpapergap.com/cdn/24/406/skull-floral-wallpaper-1080x2220.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower skull, flowers, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/932/724/HD-wallpaper-flower-skull-flowers.jpg' alt='Flower skull, flowers, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/932/724/HD-wallpaper-flower-skull-flowers.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

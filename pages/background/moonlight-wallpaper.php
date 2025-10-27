@@ -1,0 +1,129 @@
+<title>Moonlight Wallpaper: Transform Your Space with Elegance</title>
+                    <meta name="description" content="Discover mesmerizing moonlight wallpaper for a serene home transformation. Perfect for adding tranquility to your decor, our collection features realistic and artistic designs that create a peaceful ambiance. Elevate your space with enchanting styles that inspire relaxation and beauty.">
+                    <meta name="keywords" content="moonlight wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/moonlight-wallpaper">
+                            <span itemprop="name">moonlight wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Moonlight Wallpaper: Transform Your Space with Elegance</h1>
+                <p>Transform your space with enchanting moonlight wallpaper. Ideal for bedrooms or living areas, these designs evoke calm and serenity, enhancing your decor with a touch of the night sky. Whether you prefer a realistic moon scene or abstract patterns, moonlight wallpaper creates a tranquil atmosphere that inspires relaxation and dreaming.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moonlight Photos, Download The BEST Free Moonlight Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/2361600/pexels-photo-2361600.jpeg?cs=srgb&dl=pexels-frank-cone-140140-2361600.jpg&fm=jpg' alt='Moonlight Photos, Download The BEST Free Moonlight Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3202">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/2361600/pexels-photo-2361600.jpeg?cs=srgb&dl=pexels-frank-cone-140140-2361600.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moonlight Wallpapers (80 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/9/d/c/20488-3840x2160-desktop-4k-moonlight-background.jpg' alt='Moonlight Wallpapers (80 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/9/d/c/20488-3840x2160-desktop-4k-moonlight-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Moonlight Aesthetic Wallpaper Mural - Water Rising Night Sky, Silk  Wallpaper, Waterproof, Soundproof, Customize Size, Modern Decor">
+                                <img itemprop="contentUrl url" src='https://www.dhresource.com/webp/m/0x0/f2/albu/g10/M01/CD/97/rBVaVl1L8DqAc8PgAAH3KMFqqXc656.jpg' alt='3D Moonlight Aesthetic Wallpaper Mural - Water Rising Night Sky, Silk  Wallpaper, Waterproof, Soundproof, Customize Size, Modern Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="881">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DHgate" />
+                                </span>
+                                <a href='https://www.dhresource.com/webp/m/0x0/f2/albu/g10/M01/CD/97/rBVaVl1L8DqAc8PgAAH3KMFqqXc656.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moonlight Wallpapers (80 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/9/3/1/20469-3840x2160-desktop-4k-moonlight-wallpaper-image.jpg' alt='Moonlight Wallpapers (80 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/9/3/1/20469-3840x2160-desktop-4k-moonlight-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Full blue moon over lake [1600x900] : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/9ege4szb2o3x.jpg?width=640&crop=smart&auto=webp&s=8fcf46901c1d6a36dfee819ec6eeb9e826ddd7fd' alt='Full blue moon over lake [1600x900] : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/9ege4szb2o3x.jpg?width=640&crop=smart&auto=webp&s=8fcf46901c1d6a36dfee819ec6eeb9e826ddd7fd' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Moonlight wallpaper by _GIVENCHY_ - Download on ZEDGE™ | d404">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/35/8d/8e/358d8e0346ba849b9b1dd9d8566f1a80.jpg' alt='Purple Moonlight wallpaper by _GIVENCHY_ - Download on ZEDGE™ | d404'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/35/8d/8e/358d8e0346ba849b9b1dd9d8566f1a80.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="162,100+ Moonlight Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/503874466/photo/full-moon.jpg?s=612x612&w=0&k=20&c=uhTug9hbnP5uKzjWPjnmu2wDcFMNpi4N9M24e6MUXYI=' alt='162,100+ Moonlight Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/503874466/photo/full-moon.jpg?s=612x612&w=0&k=20&c=uhTug9hbnP5uKzjWPjnmu2wDcFMNpi4N9M24e6MUXYI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Sea In Moonlight Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/dark-sea-in-moonlight-j55nup0pz0176m20.jpg' alt='Dark Sea In Moonlight Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="451">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/dark-sea-in-moonlight-j55nup0pz0176m20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moonlight Wallpapers (80 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/f/0/f/20505-1771x2660-phone-hd-moonlight-wallpaper.jpg' alt='Moonlight Wallpapers (80 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1771">
+                                <meta itemprop="height" content="2660">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/f/0/f/20505-1771x2660-phone-hd-moonlight-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moonlight Photos, Download The BEST Free Moonlight Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/3489072/pexels-photo-3489072.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' alt='Moonlight Photos, Download The BEST Free Moonlight Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="658">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/3489072/pexels-photo-3489072.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

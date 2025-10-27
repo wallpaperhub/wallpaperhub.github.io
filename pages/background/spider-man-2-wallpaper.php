@@ -1,0 +1,129 @@
+<title>Amazing Spider-Man 2 Wallpapers for Your Device</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="spider man 2 wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/spider-man-2-wallpaper">
+                            <span itemprop="name">spider man 2 wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Amazing Spider-Man 2 Wallpapers for Your Device</h1>
+                <p>Discover stunning Spider-Man 2 wallpapers with vibrant designs that capture the essence of your favorite web-slinger. From action-packed scenes to artistic illustrations, these wallpapers will transform your device's background. Embrace your love for Spider-Man and bring his adventures to life with high-quality images that inspire and excite!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marvel's Spider-Man 2 Wallpapers : r/SpidermanPS4">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/marvels-spider-man-2-wallpapers-v0-g5ssmmgi395b1.jpg?width=4000&format=pjpg&auto=webp&s=40a26715ce24038fb072d51b309f6cae0263a764' alt='Marvel's Spider-Man 2 Wallpapers : r/SpidermanPS4'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="3796">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/marvels-spider-man-2-wallpapers-v0-g5ssmmgi395b1.jpg?width=4000&format=pjpg&auto=webp&s=40a26715ce24038fb072d51b309f6cae0263a764' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marvel's Spider-Man 2 Phone Wallpapers : r/SpidermanPS4">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/marvels-spider-man-2-phone-wallpapers-v0-ctt82xl5wbob1.jpg?width=1152&format=pjpg&auto=webp&s=763e8fca9ed5011d864c1049344ea1389951ddf0' alt='Marvel's Spider-Man 2 Phone Wallpapers : r/SpidermanPS4'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1152">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/marvels-spider-man-2-phone-wallpapers-v0-ctt82xl5wbob1.jpg?width=1152&format=pjpg&auto=webp&s=763e8fca9ed5011d864c1049344ea1389951ddf0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marvel's Spider-Man 2 Review (PlayStation 5) | Qualbert">
+                                <img itemprop="contentUrl url" src='https://wp-uploads.qualbert.com/2023/10/Spider-Man-2-wallpaper-1170x850.jpg' alt='Marvel's Spider-Man 2 Review (PlayStation 5) | Qualbert'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Qualbert" />
+                                </span>
+                                <a href='https://wp-uploads.qualbert.com/2023/10/Spider-Man-2-wallpaper-1170x850.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Movie Spider-Man 2 HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/132/1321664.jpeg' alt='Download Movie Spider-Man 2 HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2233">
+                                <meta itemprop="height" content="1256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/132/1321664.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spider-Man 2 [2023] (2) by KahlanAmnelle on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/40eb3ade-91e8-48e4-9923-dc622562072f/di9yiwa-dc568a41-a752-46aa-a646-87ad5b8e42ac.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQwZWIzYWRlLTkxZTgtNDhlNC05OTIzLWRjNjIyNTYyMDcyZlwvZGk5eWl3YS1kYzU2OGE0MS1hNzUyLTQ2YWEtYTY0Ni04N2FkNWI4ZTQyYWMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.IzVJuiPdRBNGY30JehpeK2BXoZpv_Es4i1pjGwGsT6M' alt='Spider-Man 2 [2023] (2) by KahlanAmnelle on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1179">
+                                <meta itemprop="height" content="2556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/40eb3ade-91e8-48e4-9923-dc622562072f/di9yiwa-dc568a41-a752-46aa-a646-87ad5b8e42ac.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQwZWIzYWRlLTkxZTgtNDhlNC05OTIzLWRjNjIyNTYyMDcyZlwvZGk5eWl3YS1kYzU2OGE0MS1hNzUyLTQ2YWEtYTY0Ni04N2FkNWI4ZTQyYWMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.IzVJuiPdRBNGY30JehpeK2BXoZpv_Es4i1pjGwGsT6M' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spider-Man 2 PS5 Photo Mode    (@PrestonsSpideys) / X">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/F_HnLmyWYAA1wFo?format=jpg&name=large' alt='Spider-Man 2 PS5 Photo Mode    (@PrestonsSpideys) / X'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/F_HnLmyWYAA1wFo?format=jpg&name=large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marvel's Spider-Man 2 PS5 Wallpaper by CGrayzer on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a5e6ed28-9381-4aa7-a00c-123957dcc855/dgdiqju-c6e68bb8-89d7-41c5-ab0f-7fd3bce2b50d.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E1ZTZlZDI4LTkzODEtNGFhNy1hMDBjLTEyMzk1N2RjYzg1NVwvZGdkaXFqdS1jNmU2OGJiOC04OWQ3LTQxYzUtYWIwZi03ZmQzYmNlMmI1MGQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TJtnaUFIjBoIe4urs3mxBxxiNK5wjhUjJFTny0H-DPY' alt='Marvel's Spider-Man 2 PS5 Wallpaper by CGrayzer on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a5e6ed28-9381-4aa7-a00c-123957dcc855/dgdiqju-c6e68bb8-89d7-41c5-ab0f-7fd3bce2b50d.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E1ZTZlZDI4LTkzODEtNGFhNy1hMDBjLTEyMzk1N2RjYzg1NVwvZGdkaXFqdS1jNmU2OGJiOC04OWQ3LTQxYzUtYWIwZi03ZmQzYmNlMmI1MGQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TJtnaUFIjBoIe4urs3mxBxxiNK5wjhUjJFTny0H-DPY' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Octorious on X: "Here are all the desktop wallpapers I made with ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/F55YLG7XEAAIuQ1?format=jpg&name=4096x4096' alt='Octorious on X: "Here are all the desktop wallpapers I made with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4096">
+                                <meta itemprop="height" content="2303">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/F55YLG7XEAAIuQ1?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marvel's Spider-Man 2 Wallpaper 4K, Sandman, Boss Fight">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/marvels-spider-man-3840x2160-13150.jpeg' alt='Marvel's Spider-Man 2 Wallpaper 4K, Sandman, Boss Fight'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/marvels-spider-man-3840x2160-13150.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marvel's Spider-Man 2 Wallpapers : r/SpidermanPS4">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/marvels-spider-man-2-wallpapers-v0-1jitl1gi395b1.jpg?width=640&crop=smart&auto=webp&s=e1a9323ac98b5ae30c400c1a35b26333c17c9931' alt='Marvel's Spider-Man 2 Wallpapers : r/SpidermanPS4'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/marvels-spider-man-2-wallpapers-v0-1jitl1gi395b1.jpg?width=640&crop=smart&auto=webp&s=e1a9323ac98b5ae30c400c1a35b26333c17c9931' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stylish Artistic Wallpaper for Modern Homes</title>
+                    <meta name="description" content="Discover stunning artistic wallpaper options that bring life and creativity to your walls. Perfect for any room, our collection features unique designs that cater to all tastes, ensuring your home tells your personal story. Upgrade your decor effortlessly with eye-catching artistic wallpaper today!">
+                    <meta name="keywords" content="artistic wallpaper for walls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/artistic-wallpaper-for-walls">
+                            <span itemprop="name">artistic wallpaper for walls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Artistic Wallpaper for Modern Homes</h1>
+                <p>Transform your space with artistic wallpaper that elevates any room. Choose from vibrant patterns or serene designs to create an atmosphere that reflects your personal style. Whether you prefer bold, contemporary art or classic motifs, artistic wallpaper offers endless possibilities for enhancing your walls.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Artistic wallpaper for a midcentury modern living room – belarteSTUDIO">
+                                <img itemprop="contentUrl url" src='https://belartestudio.com/cdn/shop/products/EarthyArtistic-ArtStrokes-BAS02514010-Black-3.jpg?v=1699364914' alt='Artistic wallpaper for a midcentury modern living room – belarteSTUDIO'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Belarte Studio" />
+                                </span>
+                                <a href='https://belartestudio.com/cdn/shop/products/EarthyArtistic-ArtStrokes-BAS02514010-Black-3.jpg?v=1699364914' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Eye Painting Wallpaper, Living Room Wallpaper, Removable ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/32237469/r/il/72bad1/4009560313/il_fullxfull.4009560313_q4ps.jpg' alt='Colorful Eye Painting Wallpaper, Living Room Wallpaper, Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/32237469/r/il/72bad1/4009560313/il_fullxfull.4009560313_q4ps.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Murwall Art Wallpaper Marble Wall Mural Abstract Wallpaper Blue Wall Mural  Wallpaper Living Room Bedroom">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91FXnpwCzwL._UF894,1000_QL80_.jpg' alt='Murwall Art Wallpaper Marble Wall Mural Abstract Wallpaper Blue Wall Mural  Wallpaper Living Room Bedroom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="805">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91FXnpwCzwL._UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern 3D Wallpaper Wall Art Wall Paper Wall Mural Living Room ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27256949/r/il/423bff/3450304411/il_fullxfull.3450304411_79zw.jpg' alt='Modern 3D Wallpaper Wall Art Wall Paper Wall Mural Living Room ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1980">
+                                <meta itemprop="height" content="1852">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27256949/r/il/423bff/3450304411/il_fullxfull.3450304411_79zw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Artdeco Mural Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.foresthomesstore.com/cdn/shop/files/art_amb_1080x.jpg?v=1660044829' alt='Artdeco Mural Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="826">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forest Homes" />
+                                </span>
+                                <a href='https://www.foresthomesstore.com/cdn/shop/files/art_amb_1080x.jpg?v=1660044829' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fine Art Wallpaper & Classic Art Murals | Wallsauce US">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/images/catslides/3/1010/bridgeman-1.jpg' alt='Fine Art Wallpaper & Classic Art Murals | Wallsauce US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1010">
+                                <meta itemprop="height" content="575">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/images/catslides/3/1010/bridgeman-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art Wallpaper | Wall Murals • Wallmur®">
+                                <img itemprop="contentUrl url" src='https://img.wallmur.net/@wmp/_480x480/s/s/ss1292129230_moc1.jpg' alt='Art Wallpaper | Wall Murals • Wallmur®'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://img.wallmur.net/@wmp/_480x480/s/s/ss1292129230_moc1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="340 Art wallpaper - custom ideas | mural, wall murals, art wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/16/a8/38/16a83843b66249d5e0d73dbca244071f.jpg' alt='340 Art wallpaper - custom ideas | mural, wall murals, art wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/16/a8/38/16a83843b66249d5e0d73dbca244071f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Mural Wallpaper Abstract Geometric Lines (㎡)">
+                                <img itemprop="contentUrl url" src='http://www.bvm-home.com/cdn/shop/products/Custom-Mural-Wallpaper-Modern-Simple-Abstract-Creative-Geometric-Lines-Wall-Painting-Living-Room-TV-Sofa-Background_1200x1200.jpg?v=1610513418' alt='Custom Mural Wallpaper Abstract Geometric Lines (㎡)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BVM Home" />
+                                </span>
+                                <a href='http://www.bvm-home.com/cdn/shop/products/Custom-Mural-Wallpaper-Modern-Simple-Abstract-Creative-Geometric-Lines-Wall-Painting-Living-Room-TV-Sofa-Background_1200x1200.jpg?v=1610513418' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graffiti Wallpaper & Street Art Wall Murals | Wallsauce US">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/images/hero/cat/1131/645/graffiti.jpg' alt='Graffiti Wallpaper & Street Art Wall Murals | Wallsauce US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="645">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/images/hero/cat/1131/645/graffiti.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

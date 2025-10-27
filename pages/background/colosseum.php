@@ -1,0 +1,129 @@
+<title>Discover the Colosseum: Rome's Ancient Wonder</title>
+                    <meta name="description" content="Explore the Colosseum, Rome's legendary amphitheater. Learn about its fascinating history, architectural marvels, and the thrilling events that took place within its walls. Join millions of visitors and experience the grandeur of this iconic symbol of ancient Rome!">
+                    <meta name="keywords" content="colosseum">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/colosseum">
+                            <span itemprop="name">colosseum</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Colosseum: Rome's Ancient Wonder</h1>
+                <p>The Colosseum, an iconic symbol of Rome, is an ancient amphitheater that once hosted gladiatorial contests and public spectacles. Built in AD 70-80, it could hold around 50,000 spectators. Today, it stands as a testament to Roman engineering and attracts millions of visitors, offering a glimpse into the grandeur of ancient Rome.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colosseum - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/1200px-Colosseo_2020.jpg' alt='Colosseum - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="841">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/1200px-Colosseo_2020.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colosseum | Definition, Characteristics, History, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/36/162636-050-932C5D49/Colosseum-Rome-Italy.jpg' alt='Colosseum | Definition, Characteristics, History, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1096">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/36/162636-050-932C5D49/Colosseum-Rome-Italy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="$18 Million Refit of Colosseum Will Give Visitors a Gladiator's ...">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2021/05/02/world/02italy-prize01/merlin_186977826_0abd5b6c-2544-4f92-98ef-875d35c97204-mediumSquareAt3X.jpg' alt='$18 Million Refit of Colosseum Will Give Visitors a Gladiator's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2021/05/02/world/02italy-prize01/merlin_186977826_0abd5b6c-2544-4f92-98ef-875d35c97204-mediumSquareAt3X.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Roman Colosseum: Facts about the gladiatorial arena | Live Science">
+                                <img itemprop="contentUrl url" src='https://cdn.mos.cms.futurecdn.net/BiNbcY5fXy9Lra47jqHKGK.jpg' alt='The Roman Colosseum: Facts about the gladiatorial arena | Live Science'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Science" />
+                                </span>
+                                <a href='https://cdn.mos.cms.futurecdn.net/BiNbcY5fXy9Lra47jqHKGK.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colosseum reconstructed c. by archeolibri s.r.l.">
+                                <img itemprop="contentUrl url" src='https://colosseumrometickets.com/wp-content/uploads/2018/05/colosseum-history.jpg' alt='Colosseum reconstructed c. by archeolibri s.r.l.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Colosseum Rome Tickets" />
+                                </span>
+                                <a href='https://colosseumrometickets.com/wp-content/uploads/2018/05/colosseum-history.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Visit The Colosseum in 2025 - Tickets, Location & Tips">
+                                <img itemprop="contentUrl url" src='https://www.thecolosseum.org/wp-content/uploads/colosseum-inside-optimized.jpg' alt='Visit The Colosseum in 2025 - Tickets, Location & Tips'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1332">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Colosseum" />
+                                </span>
+                                <a href='https://www.thecolosseum.org/wp-content/uploads/colosseum-inside-optimized.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Italy Will Rebuild the Colosseum's Floor, Restoring Arena to Its ...">
+                                <img itemprop="contentUrl url" src='https://th-thumbnailer.cdn-si-edu.com/I39cTMZYBmh68tfw1SNqTtfHcRw=/fit-in/1200x0/filters:focal(2183x1356:2184x1357)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/41/4f/414f4c9f-b197-4778-9dc6-2a0105cc2908/colosseum_in_rome-april_2007-1-_copie_2b.jpg' alt='Italy Will Rebuild the Colosseum's Floor, Restoring Arena to Its ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="704">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Smithsonian Magazine" />
+                                </span>
+                                <a href='https://th-thumbnailer.cdn-si-edu.com/I39cTMZYBmh68tfw1SNqTtfHcRw=/fit-in/1200x0/filters:focal(2183x1356:2184x1357)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/41/4f/414f4c9f-b197-4778-9dc6-2a0105cc2908/colosseum_in_rome-april_2007-1-_copie_2b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 interesting facts about the Colosseum you (probably) didn't ...">
+                                <img itemprop="contentUrl url" src='https://www.thetrainline.com/cms/media/11558/italy-rome-colosseum.jpg?mode=crop&width=1080&height=1080&quality=70' alt='10 interesting facts about the Colosseum you (probably) didn't ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Trainline" />
+                                </span>
+                                <a href='https://www.thetrainline.com/cms/media/11558/italy-rome-colosseum.jpg?mode=crop&width=1080&height=1080&quality=70' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Discover Colosseum | Ancient Rome's Iconic Amphitheatre">
+                                <img itemprop="contentUrl url" src='https://cdn-imgix.headout.com/microbrands-content-image/image/e4e2b84ff4e7f818201b1143c7da369e-Colosseum.jpg' alt='Discover Colosseum | Ancient Rome's Iconic Amphitheatre'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3100">
+                                <meta itemprop="height" content="2059">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rome Tickets" />
+                                </span>
+                                <a href='https://cdn-imgix.headout.com/microbrands-content-image/image/e4e2b84ff4e7f818201b1143c7da369e-Colosseum.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colosseum | Definition, Characteristics, History, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/03/98303-050-C8036C9D/Interior-Colosseum-Rome.jpg' alt='Colosseum | Definition, Characteristics, History, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1105">
+                                <meta itemprop="height" content="724">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/03/98303-050-C8036C9D/Interior-Colosseum-Rome.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

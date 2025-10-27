@@ -1,0 +1,129 @@
+<title>Cute Dog Paintings: Adorable Art for Dog Lovers</title>
+                    <meta name="description" content="Explore our collection of cute dog paintings! Delight in vibrant artwork that captures the charm of our canine companions. Perfect for adding a heartwarming touch to your home, these pieces make great gifts for dog lovers. Shop now to brighten your space with these adorable canine portraits!">
+                    <meta name="keywords" content="cute dog painting">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cute-dog-painting">
+                            <span itemprop="name">cute dog painting</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cute Dog Paintings: Adorable Art for Dog Lovers</h1>
+                <p>Cute dog paintings bring warmth and joy to any space! These charming artworks capture the playful spirit and adorable expressions of our furry friends. Whether vibrant watercolors or detailed oil paintings, they add a touch of love and happiness to your home decor. Perfect for dog lovers and art enthusiasts alike!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Watercolor Dog Canvas Wall Art Prints - Set of 6 Lovely  Labrador Puppy Wall Art Decor (8?X10?,Unframed), Funny & Cute Pet Painting  Animal ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81wBJvGe74L.jpg' alt='Amazon.com: Watercolor Dog Canvas Wall Art Prints - Set of 6 Lovely  Labrador Puppy Wall Art Decor (8?X10?,Unframed), Funny & Cute Pet Painting  Animal ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1358">
+                                <meta itemprop="height" content="1124">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81wBJvGe74L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Golden Retriever Puppies and Flowers Wall Art Dog ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/5542278/r/il/b87a31/2412425236/il_570xN.2412425236_bfcs.jpg' alt='Cute Golden Retriever Puppies and Flowers Wall Art Dog ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/5542278/r/il/b87a31/2412425236/il_570xN.2412425236_bfcs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HTT Modern Animal Cute Pet Dog Painting Canvas Art Chihuahua Dog with  Colorful Funny Dogs Artwork for Home Decor">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71KA1uKJKWL._AC_UF350,350_QL80_.jpg' alt='HTT Modern Animal Cute Pet Dog Painting Canvas Art Chihuahua Dog with  Colorful Funny Dogs Artwork for Home Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71KA1uKJKWL._AC_UF350,350_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Cute Dog">
+                                <img itemprop="contentUrl url" src='https://usa.figuredart.com/cdn/shop/products/my-cute-dog-animals-dogs-easy-new-arrivals-paint-by-numbers-global-figuredart-free-shipping_422_415x.jpg?v=1630505649' alt='My Cute Dog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="415">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Figured'Art" />
+                                </span>
+                                <a href='https://usa.figuredart.com/cdn/shop/products/my-cute-dog-animals-dogs-easy-new-arrivals-paint-by-numbers-global-figuredart-free-shipping_422_415x.jpg?v=1630505649' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="" Cute Dog Floral II " 20" H x 12" W x 1" D Black Picture Framed">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/46203025/resize-h800-w800%5Ecompr-r85/2383/238303942/%22+Cute+Dog+Floral+II+%22.jpg' alt='" Cute Dog Floral II " 20" H x 12" W x 1" D Black Picture Framed'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/46203025/resize-h800-w800%5Ecompr-r85/2383/238303942/%22+Cute+Dog+Floral+II+%22.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Dog Paintings for Sale by Tina LeCour">
+                                <img itemprop="contentUrl url" src='https://render.fineartamerica.com/images/images-profile-flow/400/images/artworkimages/mediumlarge/3/1-marvelous-mia-tina-lecour.jpg' alt='Cute Dog Paintings for Sale by Tina LeCour'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tina LeCour - Pixels" />
+                                </span>
+                                <a href='https://render.fineartamerica.com/images/images-profile-flow/400/images/artworkimages/mediumlarge/3/1-marvelous-mia-tina-lecour.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CUTE PUPPY DOG PAINTING IN ACRYLIC by Debojyoti Boruah - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/FCEiIFKE2U4/sddefault.jpg' alt='CUTE PUPPY DOG PAINTING IN ACRYLIC by Debojyoti Boruah - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/FCEiIFKE2U4/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Puppy Painting">
+                                <img itemprop="contentUrl url" src='https://cdn.displate.com/artwork/270x380/2024-11-13/e407f160-74e3-4d1c-9250-40901fdde9bc.jpg' alt='Cute Puppy Painting'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="270">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Displate" />
+                                </span>
+                                <a href='https://cdn.displate.com/artwork/270x380/2024-11-13/e407f160-74e3-4d1c-9250-40901fdde9bc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Boston Terrier puppy art by Svetlana Novikova">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/cute-boston-terrier-puppy-art-svetlana-novikova.jpg' alt='Cute Boston Terrier puppy art by Svetlana Novikova'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="727">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Svetlana Novikova - Pixels" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/cute-boston-terrier-puppy-art-svetlana-novikova.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute puppy">
+                                <img itemprop="contentUrl url" src='https://images.saatchiart.com/saatchi/1831401/art/8625071/7688744-HSC00001-32.jpg' alt='Cute puppy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="924">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Saatchi Art" />
+                                </span>
+                                <a href='https://images.saatchiart.com/saatchi/1831401/art/8625071/7688744-HSC00001-32.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

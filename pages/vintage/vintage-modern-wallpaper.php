@@ -1,0 +1,129 @@
+<title>Vintage Modern Wallpaper: Timeless Elegance for Your Walls</title>
+                    <meta name="description" content="Discover the charm of vintage modern wallpaper! Explore unique designs that blend classic and contemporary styles to enhance your home decor. Perfect for any room, these wallpapers offer a stylish way to transform your space with elegance and personality. Elevate your interiors today!">
+                    <meta name="keywords" content="vintage modern wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage">
+                            <span itemprop="name">Vintage</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage/vintage-modern-wallpaper">
+                            <span itemprop="name">vintage modern wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vintage Modern Wallpaper: Timeless Elegance for Your Walls</h1>
+                <p>Vintage modern wallpaper combines classic designs with contemporary aesthetics, perfect for adding charm to any space. Whether you prefer floral prints, geometric patterns, or abstract art, these wallpapers create a unique atmosphere that bridges the gap between past and present. Transform your walls with timeless elegance!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mid Century Modern Retro Wallpaper in Blue Palette, Vintage ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11123188/r/il/9c3131/3526893971/il_fullxfull.3526893971_78rq.jpg' alt='Mid Century Modern Retro Wallpaper in Blue Palette, Vintage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11123188/r/il/9c3131/3526893971/il_fullxfull.3526893971_78rq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mid Century Modern Wallpaper Peel And Stick Floral Retro Scandinavian  Design Wall Murals - 8018352668827">
+                                <img itemprop="contentUrl url" src='http://midcenturymoderngal.com/cdn/shop/files/8ca9da.jpg?v=1713715405' alt='Mid Century Modern Wallpaper Peel And Stick Floral Retro Scandinavian  Design Wall Murals - 8018352668827'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mid Century Modern Gal" />
+                                </span>
+                                <a href='http://midcenturymoderngal.com/cdn/shop/files/8ca9da.jpg?v=1713715405' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Retro Circle Geometric Wallpaper Peel and Stick Mural. Groovy  Shape Patterns Mid Century Modern Retro Wallpaper, Vintage Geometric ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71bKUaiupeL.jpg' alt='Amazon.com: Retro Circle Geometric Wallpaper Peel and Stick Mural. Groovy  Shape Patterns Mid Century Modern Retro Wallpaper, Vintage Geometric ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1903">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71bKUaiupeL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Inspired Wallpaper Patterns & Designs | Burke Décor ...">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0153/0623/products/PR10010-HD-Crop_540x.jpg?v=1707928374' alt='Vintage Inspired Wallpaper Patterns & Designs | Burke Décor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Burke Decor" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0153/0623/products/PR10010-HD-Crop_540x.jpg?v=1707928374' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mid-century Modern Geometric Wallpaper, Retro Geometric Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11123188/r/il/9ea802/4819918103/il_fullxfull.4819918103_nel2.jpg' alt='Mid-century Modern Geometric Wallpaper, Retro Geometric Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11123188/r/il/9ea802/4819918103/il_fullxfull.4819918103_nel2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mid Century Modern Wallpaper Wall Murals, Peel And Stick Starbursts Retro  Designs - H110 x W180">
+                                <img itemprop="contentUrl url" src='https://midcenturymoderngal.com/cdn/shop/files/12581c.jpg?v=1718847910&width=3840' alt='Mid Century Modern Wallpaper Wall Murals, Peel And Stick Starbursts Retro  Designs - H110 x W180'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mid Century Modern Gal" />
+                                </span>
+                                <a href='https://midcenturymoderngal.com/cdn/shop/files/12581c.jpg?v=1718847910&width=3840' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Zeeko Textured Wallpaper Vintage Wallpaper 17.3"x 473" Blue/Teal/Gold  Wallpaper Vintage Metallic Wallpaper Modern Wallpaper Non Woven Wallpaper  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91nrI45K16L.jpg' alt='Zeeko Textured Wallpaper Vintage Wallpaper 17.3"x 473" Blue/Teal/Gold  Wallpaper Vintage Metallic Wallpaper Modern Wallpaper Non Woven Wallpaper  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91nrI45K16L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallblush.com/cdn/shop/files/mockup_08bad044-11d8-447b-97c3-ab79a568807a.jpg?v=1696365995&width=2048' alt='Vintage Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='https://wallblush.com/cdn/shop/files/mockup_08bad044-11d8-447b-97c3-ab79a568807a.jpg?v=1696365995&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Award-winning wallpaper | Samples available | Shop at Sarza">
+                                <img itemprop="contentUrl url" src='https://www.sarzastore.com/cdn/shop/files/Mid-Century-Modern-Retro-INSITU2-800_1200x.webp?v=1722608449' alt='Award-winning wallpaper | Samples available | Shop at Sarza'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Award-winning wallpaper | Samples available | Shop at Sarza" />
+                                </span>
+                                <a href='https://www.sarzastore.com/cdn/shop/files/Mid-Century-Modern-Retro-INSITU2-800_1200x.webp?v=1722608449' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Wallpaper | Retro Wallpaper | Think Noir – ThinkNoirWallpaper">
+                                <img itemprop="contentUrl url" src='https://thinknoirwallpaper.com/cdn/shop/files/Think_Noir_Wallpaper_vintage-amber-peonies_2048x.jpg?v=1724226423' alt='Vintage Wallpaper | Retro Wallpaper | Think Noir – ThinkNoirWallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2252">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Think Noir Wallpaper" />
+                                </span>
+                                <a href='https://thinknoirwallpaper.com/cdn/shop/files/Think_Noir_Wallpaper_vintage-amber-peonies_2048x.jpg?v=1724226423' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

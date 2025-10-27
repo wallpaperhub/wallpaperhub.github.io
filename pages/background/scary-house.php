@@ -1,0 +1,129 @@
+<title>Unraveling the Secrets of the Scary House</title>
+                    <meta name="description" content="Discover the spine-chilling tales of a haunted house nestled in the woods. Uncover its eerie history, mysterious sounds, and the brave souls who dared to enter. Are you ready to face the chilling secrets lurking within? Explore now!">
+                    <meta name="keywords" content="scary house">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/scary-house">
+                            <span itemprop="name">scary house</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unraveling the Secrets of the Scary House</h1>
+                <p>In the heart of the woods stands a dilapidated house, cloaked in darkness and secrets. With creaking floorboards and shattered windows, whispers of the past echo through its empty halls. Locals say it’s haunted - shadows flicker and eerie sounds pierce the night, drawing the brave and the foolish to uncover its mysteries. Dare to enter?</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : SADFA 10x8ft Halloween Haunted House Backdrop Old Abandoned  Horror House in The Night Misty Forest Photo Background Halloween Party  Decor ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81fKr3-mleL.jpg' alt='Amazon.com : SADFA 10x8ft Halloween Haunted House Backdrop Old Abandoned  Horror House in The Night Misty Forest Photo Background Halloween Party  Decor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1772">
+                                <meta itemprop="height" content="1476">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81fKr3-mleL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scary house stories: that one time I rented a haunted holiday home">
+                                <img itemprop="contentUrl url" src='https://foreveramber.co.uk/wp-content/uploads/2013/10/ACS_1892.jpg' alt='Scary house stories: that one time I rented a haunted holiday home'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forever Amber" />
+                                </span>
+                                <a href='https://foreveramber.co.uk/wp-content/uploads/2013/10/ACS_1892.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Denver's Spookiest Halloween Haunted Houses | Credit Union of Denver">
+                                <img itemprop="contentUrl url" src='https://www.cudenver.com/getattachment/6069b13a-b108-43c8-848b-9e1fb0679e5f/Denver-s-Spookiest-Halloween-Haunted-Houses' alt='Denver's Spookiest Halloween Haunted Houses | Credit Union of Denver'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="680">
+                                <meta itemprop="height" content="454">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Credit Union of Denver" />
+                                </span>
+                                <a href='https://www.cudenver.com/getattachment/6069b13a-b108-43c8-848b-9e1fb0679e5f/Denver-s-Spookiest-Halloween-Haunted-Houses' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween 2019 by the numbers: Americans to spend nearly $9 billion">
+                                <img itemprop="contentUrl url" src='https://s.abcnews.com/images/GMA/haunted-house-gty-jt-191024_hpMain_1x1_992.jpg' alt='Halloween 2019 by the numbers: Americans to spend nearly $9 billion'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="992">
+                                <meta itemprop="height" content="992">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Good Morning America" />
+                                </span>
+                                <a href='https://s.abcnews.com/images/GMA/haunted-house-gty-jt-191024_hpMain_1x1_992.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Haunted House Scary Stories to Read During the Holidays – 13th ...">
+                                <img itemprop="contentUrl url" src='https://13thhour.com/wp-content/uploads/original.jpg' alt='5 Haunted House Scary Stories to Read During the Holidays – 13th ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="13th Hour Haunted House" />
+                                </span>
+                                <a href='https://13thhour.com/wp-content/uploads/original.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Haunted House Researchers Investigate Playing with Fear ...">
+                                <img itemprop="contentUrl url" src='https://www.psychologicalscience.org/redesign/wp-content/uploads/2020/10/WebImage.png' alt='Haunted House Researchers Investigate Playing with Fear ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Association for Psychological Science" />
+                                </span>
+                                <a href='https://www.psychologicalscience.org/redesign/wp-content/uploads/2020/10/WebImage.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Truth About Growing Up In A Haunted House | by Michael Gabriel ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1200/1*o5MJVIg-385NJm507ISC9w.jpeg' alt='The Truth About Growing Up In A Haunted House | by Michael Gabriel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="797">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1200/1*o5MJVIg-385NJm507ISC9w.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="23,000+ Haunted House Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/481231906/vector/haunted-horror-house.jpg?s=612x612&w=0&k=20&c=TBhQueqUXSqnoxp0L9Zczp0cR0rPxqaoUmxY5BOcKsA=' alt='23,000+ Haunted House Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="391">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/481231906/vector/haunted-horror-house.jpg?s=612x612&w=0&k=20&c=TBhQueqUXSqnoxp0L9Zczp0cR0rPxqaoUmxY5BOcKsA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Haunted house on halloween celebration concept. Spooky house ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/026/584/683/non_2x/haunted-house-on-halloween-celebration-concept-spooky-house-halloween-background-with-deserted-building-and-pumpkin-scary-house-with-creepy-building-at-night-by-ai-generated-free-photo.jpg' alt='Haunted house on halloween celebration concept. Spooky house ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/026/584/683/non_2x/haunted-house-on-halloween-celebration-concept-spooky-house-halloween-background-with-deserted-building-and-pumpkin-scary-house-with-creepy-building-at-night-by-ai-generated-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Evolutionary psychology explains why haunted houses creep us out">
+                                <img itemprop="contentUrl url" src='https://images.theconversation.com/files/100034/original/image-20151028-21095-1d2dl11.jpg?ixlib=rb-4.1.0&rect=0%2C229%2C2470%2C1198&q=45&auto=format&w=1356&h=668&fit=crop' alt='Evolutionary psychology explains why haunted houses creep us out'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1356">
+                                <meta itemprop="height" content="668">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Conversation" />
+                                </span>
+                                <a href='https://images.theconversation.com/files/100034/original/image-20151028-21095-1d2dl11.jpg?ixlib=rb-4.1.0&rect=0%2C229%2C2470%2C1198&q=45&auto=format&w=1356&h=668&fit=crop' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

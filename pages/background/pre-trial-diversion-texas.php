@@ -1,0 +1,129 @@
+<title>Understanding Pre-Trial Diversion in Texas</title>
+                    <meta name="description" content="Explore Texas's pre-trial diversion programs, designed to help eligible defendants avoid criminal convictions through rehabilitation. Learn about the requirements, benefits, and how this process can aid in reducing recidivism and easing court congestion. Get informed and take the first step towards a second chance!">
+                    <meta name="keywords" content="pre trial diversion texas">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pre-trial-diversion-texas">
+                            <span itemprop="name">pre trial diversion texas</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Pre-Trial Diversion in Texas</h1>
+                <p>Pre-trial diversion in Texas is a legal program that allows eligible defendants to resolve their criminal charges outside of the traditional courtroom process. By completing specific requirements, such as community service or counseling, individuals can avoid a criminal record. This option promotes rehabilitation and reduces the burden on the judicial system.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pretrial Intervention | Sung R. Kim, Attorney at Law">
+                                <img itemprop="contentUrl url" src='https://longviewlawyers.com/glide/uploads/cms/5e2f2dac29de0/?w=2000&h=1200&fit=max&or=auto' alt='Pretrial Intervention | Sung R. Kim, Attorney at Law'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="767">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Criminal Lawyer in Longview, TX" />
+                                </span>
+                                <a href='https://longviewlawyers.com/glide/uploads/cms/5e2f2dac29de0/?w=2000&h=1200&fit=max&or=auto' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DWI Pre-Trial Diversion Timeline | Austin Criminal Defense">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/ZjAUEjePD20/maxresdefault.jpg' alt='DWI Pre-Trial Diversion Timeline | Austin Criminal Defense'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/ZjAUEjePD20/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="District Attorney Greg Willis' Burden-to-Blessing Pre-Trial ...">
+                                <img itemprop="contentUrl url" src='https://collincountyda.com/wp-content/uploads/B2B-Graphic.jpg' alt='District Attorney Greg Willis' Burden-to-Blessing Pre-Trial ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="583">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Collin County District Attorney's Office" />
+                                </span>
+                                <a href='https://collincountyda.com/wp-content/uploads/B2B-Graphic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Understanding Pretrial Diversion - The Law Office of Greg Tsioros">
+                                <img itemprop="contentUrl url" src='https://www.txcrimdefense.com/wp-content/uploads/2022/06/pretrial-diversion-texas-540x300.jpeg' alt='Understanding Pretrial Diversion - The Law Office of Greg Tsioros'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Law Office of Greg Tsioros" />
+                                </span>
+                                <a href='https://www.txcrimdefense.com/wp-content/uploads/2022/06/pretrial-diversion-texas-540x300.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="District Attorney Greg Willis' Burden-to-Blessing Pre-Trial ...">
+                                <img itemprop="contentUrl url" src='https://collincountyda.com/wp-content/uploads/Felony-Timeline-040820.png' alt='District Attorney Greg Willis' Burden-to-Blessing Pre-Trial ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1776">
+                                <meta itemprop="height" content="741">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Collin County District Attorney's Office" />
+                                </span>
+                                <a href='https://collincountyda.com/wp-content/uploads/Felony-Timeline-040820.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Everything You Need to Know About Pretrial Diversion Program Costs ...">
+                                <img itemprop="contentUrl url" src='https://images.bannerbear.com/direct/4mGpW3zwpg0ZK0AxQw/requests/000/055/164/947/NWlVkgmbMQE5y2LGQZyAqEwDo/9eec894d8c8e8fd45df207f6025f15a4456123ea.jpg' alt='Everything You Need to Know About Pretrial Diversion Program Costs ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JED™ Platform" />
+                                </span>
+                                <a href='https://images.bannerbear.com/direct/4mGpW3zwpg0ZK0AxQw/requests/000/055/164/947/NWlVkgmbMQE5y2LGQZyAqEwDo/9eec894d8c8e8fd45df207f6025f15a4456123ea.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Restorative Justice">
+                                <img itemprop="contentUrl url" src='https://www.dallascounty.org/Assets/uploads/images/district-attorney/restorative-justice/diversion-flowchart-final.jpg' alt='Restorative Justice'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dallas County" />
+                                </span>
+                                <a href='https://www.dallascounty.org/Assets/uploads/images/district-attorney/restorative-justice/diversion-flowchart-final.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hays County District Attorney's Office announces pre-trial ...">
+                                <img itemprop="contentUrl url" src='https://universitystar.com/wp-content/uploads/2024/07/img_3862_720.jpg' alt='Hays County District Attorney's Office announces pre-trial ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="669">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The University Star" />
+                                </span>
+                                <a href='https://universitystar.com/wp-content/uploads/2024/07/img_3862_720.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pre-Trial Diversion Programs | Benavides Law Group">
+                                <img itemprop="contentUrl url" src='https://www.ericbenavides.com/wp-content/uploads/2020/01/IMG_9689.jpg' alt='Pre-Trial Diversion Programs | Benavides Law Group'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eric Benavides" />
+                                </span>
+                                <a href='https://www.ericbenavides.com/wp-content/uploads/2020/01/IMG_9689.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Galveston County Pre-Trial Diversion Program ...">
+                                <img itemprop="contentUrl url" src='http://criminalattorneysinhouston.com/wp-content/uploads/2014/05/galveston-pretrial-diversion-program.jpg' alt='New Galveston County Pre-Trial Diversion Program ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Houston Criminal Defense Lawyers That Will Fight For You" />
+                                </span>
+                                <a href='http://criminalattorneysinhouston.com/wp-content/uploads/2014/05/galveston-pretrial-diversion-program.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

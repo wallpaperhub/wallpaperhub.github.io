@@ -1,0 +1,129 @@
+<title>Stunning Dark MacBook Wallpapers for a Modern Aesthetic</title>
+                    <meta name="description" content="Discover a collection of captivating dark wallpapers for your MacBook that blend style and functionality. Perfect for enhancing your workspace and reducing eye strain, these wallpapers offer a modern touch to your device. Browse now to find the ideal background for your MacBook!">
+                    <meta name="keywords" content="macbook wallpaper dark">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/macbook">
+                            <span itemprop="name">Macbook</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/macbook/macbook-wallpaper-dark">
+                            <span itemprop="name">macbook wallpaper dark</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Dark MacBook Wallpapers for a Modern Aesthetic</h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Mac Dark Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/mac-dark-3840-x-2160-u5bxti3gf7fke6yo.jpg' alt='100+] Mac Dark Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/mac-dark-3840-x-2160-u5bxti3gf7fke6yo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desktop Dark Wallpapers | 100+ best free dawn, dusk, grey, and ...">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1504288145234-919e7bbc6d19?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NXwxMTY4NTF8fGVufDB8fHx8fA%3D%3D' alt='Desktop Dark Wallpapers | 100+ best free dawn, dusk, grey, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1504288145234-919e7bbc6d19?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NXwxMTY4NTF8fGVufDB8fHx8fA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="macOS Monterey Wallpaper 4K, Dark Mode, Stock">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/macos-monterey-stock-black-dark-mode-layers-5k-2880x1800-5889.jpg' alt='macOS Monterey Wallpaper 4K, Dark Mode, Stock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/macos-monterey-stock-black-dark-mode-layers-5k-2880x1800-5889.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Forest Macbook Pro Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/dark-forest-macbook-pro-aesthetic-7laynmawthpmge55.jpg' alt='Dark Forest Macbook Pro Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/dark-forest-macbook-pro-aesthetic-7laynmawthpmge55.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A Mountain Range With Stars In The Sky Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/mac-dark-m0mu42i79ii2yeg6.jpg' alt='Download A Mountain Range With Stars In The Sky Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/mac-dark-m0mu42i79ii2yeg6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="macOS Big Sur wallpaper, edited for Dark Mode. : r/MacOS">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/qy6yza81tln61.png?width=1080&crop=smart&auto=webp&s=c8ffcf09d15bcd28111345651d11d6b85056059b' alt='macOS Big Sur wallpaper, edited for Dark Mode. : r/MacOS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/qy6yza81tln61.png?width=1080&crop=smart&auto=webp&s=c8ffcf09d15bcd28111345651d11d6b85056059b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desktop Dark Wallpapers | 100+ best free dawn, dusk, grey, and ...">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1498696815880-6fd23346fe56?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTh8MTE2ODUxfHxlbnwwfHx8fHw%3D' alt='Desktop Dark Wallpapers | 100+ best free dawn, dusk, grey, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1498696815880-6fd23346fe56?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTh8MTE2ODUxfHxlbnwwfHx8fHw%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="City Building Black Mac Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/city-building-black-mac-wdcrn93v5z4vzcqu.jpg' alt='City Building Black Mac Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1680">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/city-building-black-mac-wdcrn93v5z4vzcqu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="macOS Big Sur Wallpaper 4K, Apple, Layers, Fluidic, Colorful">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/macos-big-sur-apple-layers-fluidic-colorful-dark-wwdc-2020-5120x2880-1432.jpg' alt='macOS Big Sur Wallpaper 4K, Apple, Layers, Fluidic, Colorful'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5120">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/macos-big-sur-apple-layers-fluidic-colorful-dark-wwdc-2020-5120x2880-1432.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark 4K Wallpapers - Top Free Dark 4K Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a0/4b/79/a04b79cceda42c6bbc1e72f152899b1e.jpg' alt='Dark 4K Wallpapers - Top Free Dark 4K Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a0/4b/79/a04b79cceda42c6bbc1e72f152899b1e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

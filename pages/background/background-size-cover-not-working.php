@@ -1,0 +1,129 @@
+<title>Fixing Background-Size Cover Issues in CSS</title>
+                    <meta name="description" content="Discover effective solutions for when `background-size: cover;` isn't functioning as expected. Learn common pitfalls, troubleshooting tips, and how to ensure your background images display beautifully across all devices.">
+                    <meta name="keywords" content="background-size cover not working">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/background-size-cover-not-working">
+                            <span itemprop="name">background-size cover not working</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Fixing Background-Size Cover Issues in CSS</h1>
+                <p>When the CSS property `background-size: cover;` isn’t working, it often stems from incorrect usage or conflicting styles. Ensure that the element has a defined width and height. Additionally, check for any other CSS rules that might override it. Browser compatibility can also be an issue; verify it in different browsers.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="html - Background size cover is not working - Stack Overflow">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/cJU36.png' alt='html - Background size cover is not working - Stack Overflow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2858">
+                                <meta itemprop="height" content="1522">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/cJU36.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="css - background-size: cover not working on iOS - Stack Overflow">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/LhgU5.jpg' alt='css - background-size: cover not working on iOS - Stack Overflow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="756">
+                                <meta itemprop="height" content="825">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/LhgU5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="background-size | CSS-Tricks">
+                                <img itemprop="contentUrl url" src='https://css-tricks.com/wp-content/uploads/2015/02/cover-and-contain.jpg' alt='background-size | CSS-Tricks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="518">
+                                <meta itemprop="height" content="288">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CSS-Tricks" />
+                                </span>
+                                <a href='https://css-tricks.com/wp-content/uploads/2015/02/cover-and-contain.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="html - Does background-size: cover stretch a background image ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/XvaqE.png' alt='html - Does background-size: cover stretch a background image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="819">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/XvaqE.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="css - Background Cover not working on Mobile Devices - Stack Overflow">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/GqkYY.jpg' alt='css - Background Cover not working on Mobile Devices - Stack Overflow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/GqkYY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="html - "background-size: cover" not working correctly. - Stack ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/1i39X.png' alt='html - "background-size: cover" not working correctly. - Stack ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="662">
+                                <meta itemprop="height" content="756">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/1i39X.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="javascript - `Background size: cover` fill up border - Stack Overflow">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/5JxOO.png' alt='javascript - `Background size: cover` fill up border - Stack Overflow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="580">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/5JxOO.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="css - Background-size:cover not working properly - Stack Overflow">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/o1xb4.jpg' alt='css - Background-size:cover not working properly - Stack Overflow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1374">
+                                <meta itemprop="height" content="1525">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/o1xb4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CSS3 Background Size">
+                                <img itemprop="contentUrl url" src='https://www.cssmine.com/content/dist/images/original/background-size-cover-contain.svg' alt='CSS3 Background Size'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="394">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CSS Mine" />
+                                </span>
+                                <a href='https://www.cssmine.com/content/dist/images/original/background-size-cover-contain.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="css - background-size: cover not working on mobile screens - Stack ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/6MpJY.jpg' alt='css - background-size: cover not working on mobile screens - Stack ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="904">
+                                <meta itemprop="height" content="1322">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stack Overflow" />
+                                </span>
+                                <a href='https://i.sstatic.net/6MpJY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

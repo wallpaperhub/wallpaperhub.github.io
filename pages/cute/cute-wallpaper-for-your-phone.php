@@ -1,0 +1,129 @@
+<title>Cute Phone Wallpapers: Adorable Backgrounds for Your Device</title>
+                    <meta name="description" content="Discover a delightful collection of cute wallpapers for your phone! Enhance your device's look with charming designs, perfect for adding a personal touch. Explore a variety of adorable backgrounds that match your style and mood. Download yours today and express yourself with every unlock!">
+                    <meta name="keywords" content="cute wallpaper for your phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-wallpaper-for-your-phone">
+                            <span itemprop="name">cute wallpaper for your phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cute Phone Wallpapers: Adorable Backgrounds for Your Device</h1>
+                <p>Transform your phone’s aesthetic with adorable wallpapers! From cute animals to vibrant patterns, a selection of charming designs can brighten your day. Choose from whimsical illustrations to minimalist styles that reflect your personality. Download the cutest wallpapers now and let your device shine with character!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free downloadable cute phone wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAF5Wgpb4fQ/1/0/900w/canva-pastel-pink-simple-coquette-shiny-bow-pattern-phone-wallpaper-lTXdwVxIm9g.jpg' alt='Free downloadable cute phone wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAF5Wgpb4fQ/1/0/900w/canva-pastel-pink-simple-coquette-shiny-bow-pattern-phone-wallpaper-lTXdwVxIm9g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free downloadable cute phone wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFURxVaIII/1/0/900w/canva-brown-illustration-cute-bear-pattern-phone-wallpaper--mxJJ4n-19o.jpg' alt='Free downloadable cute phone wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFURxVaIII/1/0/900w/canva-brown-illustration-cute-bear-pattern-phone-wallpaper--mxJJ4n-19o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="67 Cute phone wallpapers ideas | phone wallpaper, cute wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/89/f9/b5/89f9b543ee62168787d4a7084c2253df.jpg' alt='67 Cute phone wallpapers ideas | phone wallpaper, cute wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/89/f9/b5/89f9b543ee62168787d4a7084c2253df.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free downloadable cute phone wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAF75sVF3q8/1/0/900w/canva-pink-cute-ribbon-quote-phone-wallpaper-AnXsf2cfOpI.jpg' alt='Free downloadable cute phone wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAF75sVF3q8/1/0/900w/canva-pink-cute-ribbon-quote-phone-wallpaper-AnXsf2cfOpI.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute wallpapers for your 2025 phone">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/gray-daisy-template-vector-social-media-story-quote-everyday-is-fresh-start_53876-126120.jpg' alt='Cute wallpapers for your 2025 phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="352">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/gray-daisy-template-vector-social-media-story-quote-everyday-is-fresh-start_53876-126120.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cute wallpapers for phones tumblr">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/d5/4b/e8/d54be85657e6243cb670e4c6c6ec20aa.jpg' alt='cute wallpapers for phones tumblr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="773">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/d5/4b/e8/d54be85657e6243cb670e4c6c6ec20aa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Phone Wallpapers (91 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/1/d/4/5819530-1080x1920-iphone-hd-cute-phone-background-image.jpg' alt='Cute Phone Wallpapers (91 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/1/d/4/5819530-1080x1920-iphone-hd-cute-phone-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute iPhone Wallpapers (82 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/8/7/8/5817009-1170x2540-mobile-hd-cute-iphone-wallpaper-image.jpg' alt='Cute iPhone Wallpapers (82 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/8/7/8/5817009-1170x2540-mobile-hd-cute-iphone-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute wallpapers for your 2025 phone">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNTk3ZGVzaWduLWEtMDA0LmpwZw.jpg' alt='Cute wallpapers for your 2025 phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNTk3ZGVzaWduLWEtMDA0LmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pretty Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/pretty-phone-hml9ppzxn3ou6qrk.jpg' alt='100+] Pretty Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1082">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/pretty-phone-hml9ppzxn3ou6qrk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

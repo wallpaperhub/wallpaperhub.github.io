@@ -1,0 +1,129 @@
+<title>"Sweet Cookie Brand Wallpapers for iPhone"</title>
+                    <meta name="description" content=""Discover delightful cookie brand wallpapers to personalize your iPhone! Enjoy charming designs that showcase your favorite treats, creating a sweet escape right on your home screen. Perfect for food lovers and anyone looking to add a touch of confectionery joy to their device!"">
+                    <meta name="keywords" content="iphone cookies brand wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-cookies-brand-wallpaper">
+                            <span itemprop="name">iphone cookies brand wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Sweet Cookie Brand Wallpapers for iPhone"</h1>
+                <p>Elevate your iPhone aesthetics with delightful cookie brand wallpapers! Discover charming designs featuring your favorite treats, perfect for food enthusiasts and confectionery lovers. Transform your device into a sweet escape with these tempting visuals. Express your love for cookies every time you unlock your phone!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cookies w**d, 420, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/10/52/HD-wallpaper-cookies-w-d-420.jpg' alt='Cookies w**d, 420, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1689">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/10/52/HD-wallpaper-cookies-w-d-420.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cookies Brand Wallpaper">
+                                <img itemprop="contentUrl url" src='https://eside.ca/wp-content/uploads/2018/01/cookies-logo.png' alt='Cookies Brand Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1663">
+                                <meta itemprop="height" content="1662">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://eside.ca/wp-content/uploads/2018/01/cookies-logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cookies Brand Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp5036496.jpg' alt='Cookies Brand Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp5036496.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cookies Brand Logo Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11245186.jpg' alt='Cookies Brand Logo Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1439">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11245186.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2 Cookies SF Vinyl Stickers Cali Slap Weed 420 710 Harvest Club ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20515606/r/il/8d8073/1921736242/il_fullxfull.1921736242_p3yx.jpg' alt='2 Cookies SF Vinyl Stickers Cali Slap Weed 420 710 Harvest Club ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2395">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20515606/r/il/8d8073/1921736242/il_fullxfull.1921736242_p3yx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cookies    on X: "Major { Grand Opening } at @cookiesdtla this ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/F0XfS8KWAAU33l3.jpg:large' alt='Cookies    on X: "Major { Grand Opening } at @cookiesdtla this ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1375">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/F0XfS8KWAAU33l3.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cookies brand HD wallpapers | Pxfuel">
+                                <img itemprop="contentUrl url" src='https://e1.pxfuel.com/desktop-wallpaper/531/631/desktop-wallpaper-cookies-brand-posted-by-christopher-mercado-cookies-logo.jpg' alt='Cookies brand HD wallpapers | Pxfuel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="425">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pxfuel" />
+                                </span>
+                                <a href='https://e1.pxfuel.com/desktop-wallpaper/531/631/desktop-wallpaper-cookies-brand-posted-by-christopher-mercado-cookies-logo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Milk Cookie Iphone Art Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/milk-cookie-iphone-art-44bxdw6v8lmczkns.jpg' alt='Milk Cookie Iphone Art Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="921">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/milk-cookie-iphone-art-44bxdw6v8lmczkns.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cookie Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/yellow-cookie-iphone-art-usq854bsbtlmh04c.jpg' alt='100+] Cookie Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/yellow-cookie-iphone-art-usq854bsbtlmh04c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cookie Iphone HD Wallpapers (100++) - MrWallpaper.com">
+                                <img itemprop="contentUrl url" src='https://mrwallpaper.com/images/hd/star-cookie-iphone-sf53yhzo9bf8xem3.jpg' alt='Cookie Iphone HD Wallpapers (100++) - MrWallpaper.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="938">
+                                <meta itemprop="height" content="1668">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrWallpaper" />
+                                </span>
+                                <a href='https://mrwallpaper.com/images/hd/star-cookie-iphone-sf53yhzo9bf8xem3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Pastel Pink Wallpaper: Soft Elegance for Every Room</title>
+                    <meta name="description" content="Add a touch of serenity to your home with our pastel pink wallpaper. Perfect for creating a calming environment, this soft hue complements any decor style. Elevate your space effortlessly with this chic and versatile wallpaper design that suits nurseries, bedrooms, and more.">
+                    <meta name="keywords" content="wallpaper:0mstyqysa60= pastel pink">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/wallpaper0mstyqysa60-pastel-pink">
+                            <span itemprop="name">wallpaper:0mstyqysa60= pastel pink</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Pastel Pink Wallpaper: Soft Elegance for Every Room</h1>
+                <p>The pastel pink wallpaper brings a soft, soothing vibe to any space. Ideal for nurseries, bedrooms, or creative studios, this gentle hue enhances light and creates an airy feel. Its versatile charm fits various decor styles, from modern to vintage. Transform your walls with pastel pink for a calming atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1960s Vintage Wallpaper Pink Silver Graphics - Rosie's Vintage ...">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-own6dl/images/stencil/1280x1280/products/4132/13714/vintage-wallpaper-216__03815.1677866143.jpg?c=2' alt='1960s Vintage Wallpaper Pink Silver Graphics - Rosie's Vintage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rosie's Vintage Wallpaper" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-own6dl/images/stencil/1280x1280/products/4132/13714/vintage-wallpaper-216__03815.1677866143.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel pink wallpaper , Light pink wallpaper , pink aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1a/63/22/1a6322d132172312e16cf5ec4c6b7a5c.jpg' alt='Pastel pink wallpaper , Light pink wallpaper , pink aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="695">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1a/63/22/1a6322d132172312e16cf5ec4c6b7a5c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pink Pastel Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-pastel-background-4k3cxd1n45bxqf7q.jpg' alt='100+] Pink Pastel Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="691">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-pastel-background-4k3cxd1n45bxqf7q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Light Pink Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/12504234/p/f/m/MzqpIMgKmtKdgsBdceWPClB54qMAquBbC5Ppi3VsQBR6m3nFxc0j1_E/Pastel%20pink%20Solid%20-%20cotton%20candy%2C%20baby%20pink%2C%20light%20pink%20solid%20.jpg' alt='Pastel Light Pink Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/12504234/p/f/m/MzqpIMgKmtKdgsBdceWPClB54qMAquBbC5Ppi3VsQBR6m3nFxc0j1_E/Pastel%20pink%20Solid%20-%20cotton%20candy%2C%20baby%20pink%2C%20light%20pink%20solid%20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone wallpaper. 'pastel pink abstract stripe'">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e5/e1/bb/e5e1bb5e0d5e7aa533009466284cd9ff.jpg' alt='Phone wallpaper. 'pastel pink abstract stripe''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e5/e1/bb/e5e1bb5e0d5e7aa533009466284cd9ff.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="140 Pink Pastel pink light pink aesthetic wallpaper ideas ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/00/a4/01/00a4015058ef5a17cb0e0fc8a824e3fc.jpg' alt='140 Pink Pastel pink light pink aesthetic wallpaper ideas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/00/a4/01/00a4015058ef5a17cb0e0fc8a824e3fc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A E S T H E T I C S - Pastel Pink">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6b/ea/71/6bea71548af1155a1bce9ba68f671684.jpg' alt='A E S T H E T I C S - Pastel Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="452">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6b/ea/71/6bea71548af1155a1bce9ba68f671684.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Pink Aesthetic PC Wallpapers on WallpaperDog">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/aa/1d/21/aa1d2166eed9b331902edd3446e90394.jpg' alt='Pastel Pink Aesthetic PC Wallpapers on WallpaperDog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/aa/1d/21/aa1d2166eed9b331902edd3446e90394.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel pink wallpaper , Light pink wallpaper , pink aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/52/eb/d1/52ebd1d2def64e8bbe8816504f7f43e6.jpg' alt='Pastel pink wallpaper , Light pink wallpaper , pink aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="695">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/52/eb/d1/52ebd1d2def64e8bbe8816504f7f43e6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Free download Pastel Pink Background Wallpaper on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/85/eb/b8/85ebb89b2eef15ebcb14407e69130ba7.jpg' alt='   Free download Pastel Pink Background Wallpaper on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/85/eb/b8/85ebb89b2eef15ebcb14407e69130ba7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

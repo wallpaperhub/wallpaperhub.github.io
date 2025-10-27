@@ -1,0 +1,129 @@
+<title>Cheer up Your Walls: Vibrant Wallpaper Designs</title>
+                    <meta name="description" content="Discover the perfect cheer wallpaper to uplift your space! Our collection features stunning designs that add warmth and positivity to any room. Explore vibrant patterns and colors that brighten your walls, creating a joyful atmosphere in your home or office. Shop now for a lively transformation!">
+                    <meta name="keywords" content="cheer wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/cheer-wallpaper">
+                            <span itemprop="name">cheer wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cheer up Your Walls: Vibrant Wallpaper Designs</h1>
+                <p>Brighten up your space with cheer wallpaper! Ideal for homes and offices, this vibrant decor option brings warmth and positivity to any room. Available in various designs, from bold patterns to subtle hues, cheer wallpaper transforms blank walls into lively canvases. Elevate your environment with joy-inducing wallpaper today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13 Cheer backgrounds ideas | cheer, cheer quotes, cheerleading">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/86/f6/70/86f670cbff96ec3446e2c329cb7fb120.jpg' alt='13 Cheer backgrounds ideas | cheer, cheer quotes, cheerleading'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="711">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/86/f6/70/86f670cbff96ec3446e2c329cb7fb120.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cheer Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cheer-aesthetic-hobleynmnnx7eedf.jpg' alt='100+] Cheer Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1185">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cheer-aesthetic-hobleynmnnx7eedf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60+ All Star Cheer Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/518622115/vector/cheerleader-graphic-background.jpg?s=612x612&w=0&k=20&c=IIyFveXumwxIJbyZ6M2DE8ms2USX3rlogmPqzi46QMw=' alt='60+ All Star Cheer Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="518">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/518622115/vector/cheerleader-graphic-background.jpg?s=612x612&w=0&k=20&c=IIyFveXumwxIJbyZ6M2DE8ms2USX3rlogmPqzi46QMw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cheerleading Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cheerleading-yq8l7wz2m8bvk0r0.jpg' alt='100+] Cheerleading Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cheerleading-yq8l7wz2m8bvk0r0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seamless Cheer Pattern, Digital Paper, Printable, Cheerleader Pattern,  Cheer Pattern, Background, Dance, Cheer Fabric Printing Png, JPEG">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25790439/r/il/3744b7/3886959295/il_fullxfull.3886959295_aef0.jpg' alt='Seamless Cheer Pattern, Digital Paper, Printable, Cheerleader Pattern,  Cheer Pattern, Background, Dance, Cheer Fabric Printing Png, JPEG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2934">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25790439/r/il/3744b7/3886959295/il_fullxfull.3886959295_aef0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cheerleader">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/83/76/fa/8376fa98d6dba62ddb83e3021db96d8c.jpg' alt='Cheerleader'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/83/76/fa/8376fa98d6dba62ddb83e3021db96d8c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cheer Queen: Funny Lined Journal Notebook for Cheerleaders, Cheer Coaches,  Cheerleading Squad Gifts for Teen Girls">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81+HVMwF8lL._AC_UF1000,1000_QL80_.jpg' alt='Cheer Queen: Funny Lined Journal Notebook for Cheerleaders, Cheer Coaches,  Cheerleading Squad Gifts for Teen Girls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81+HVMwF8lL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Cheerleader Arabesque Lift Stunt Wallpaper Stock Illustration ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2352053893/display_1500/stock-photo-pink-cheerleader-arabesque-lift-stunt-wallpaper-printable-wall-art-cheer-decal-cheer-decoration-2352053893.jpg' alt='Pink Cheerleader Arabesque Lift Stunt Wallpaper Stock Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1060">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2352053893/display_1500/stock-photo-pink-cheerleader-arabesque-lift-stunt-wallpaper-printable-wall-art-cheer-decal-cheer-decoration-2352053893.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cheerleading Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cheerleading-aesthetic-d88scvnefvi24d70.jpg' alt='100+] Cheerleading Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="660">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cheerleading-aesthetic-d88scvnefvi24d70.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cheer Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/9209289/p/f/m/1CdhklSDAAmRwVslQDTb-k28o0qp5lfACwEmQFHQF89GF5z1ODrXU7Gp/Cheerleading%20Stunts%20Blue.jpg' alt='Cheer Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/9209289/p/f/m/1CdhklSDAAmRwVslQDTb-k28o0qp5lfACwEmQFHQF89GF5z1ODrXU7Gp/Cheerleading%20Stunts%20Blue.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

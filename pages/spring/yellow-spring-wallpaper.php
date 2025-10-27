@@ -1,0 +1,129 @@
+<title>Brighten Your Space with Yellow Spring Wallpaper</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="yellow spring wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spring">
+                            <span itemprop="name">Spring</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spring/yellow-spring-wallpaper">
+                            <span itemprop="name">yellow spring wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Brighten Your Space with Yellow Spring Wallpaper</h1>
+                <p>Transform your space with vibrant yellow spring wallpaper that brings warmth and positivity. Perfect for brightening up any room, these wallpapers feature floral patterns, sunny hues, and nature-inspired designs, creating an uplifting atmosphere. Celebrate the essence of spring every day with this cheerful decor choice!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,468,400+ Yellow Spring Flowers Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/505774248/photo/tulip-field.jpg?s=612x612&w=0&k=20&c=DUbxjURvYq9RYITIjBoja7jEnMv1hP8XVysiVBqBFaI=' alt='1,468,400+ Yellow Spring Flowers Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/505774248/photo/tulip-field.jpg?s=612x612&w=0&k=20&c=DUbxjURvYq9RYITIjBoja7jEnMv1hP8XVysiVBqBFaI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Spring Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/beautiful-spring-flowers-composition-with-copy-space_23-2148822319.jpg' alt='Yellow Spring Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/beautiful-spring-flowers-composition-with-copy-space_23-2148822319.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Flower Background" Images – Browse 848 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/11/19/57/01/360_F_1119570137_qsX7jApVSBSllCZZwfqWWj94Wxgj2XoO.jpg' alt='Yellow Flower Background" Images – Browse 848 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/11/19/57/01/360_F_1119570137_qsX7jApVSBSllCZZwfqWWj94Wxgj2XoO.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Spring Flowers Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/yellow-spring-flowers-nat0geytuef3igzc.jpg' alt='Yellow Spring Flowers Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/yellow-spring-flowers-nat0geytuef3igzc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Spring Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/flowers-background-copy-space_23-2148015837.jpg' alt='Yellow Spring Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/flowers-background-copy-space_23-2148015837.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,468,400+ Yellow Spring Flowers Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1150875552/photo/close-up-beautiful-yellow-flower-and-blue-sky-blur-landscape-natural-outdoor-background.jpg?s=612x612&w=0&k=20&c=js1F9P7a5ZzhJR8Qo7NX04MppuhZC6ibpM0R1kY8lfk=' alt='1,468,400+ Yellow Spring Flowers Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1150875552/photo/close-up-beautiful-yellow-flower-and-blue-sky-blur-landscape-natural-outdoor-background.jpg?s=612x612&w=0&k=20&c=js1F9P7a5ZzhJR8Qo7NX04MppuhZC6ibpM0R1kY8lfk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring Wallpapers: Free HD Download [500+ HQ] | Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1490750967868-88aa4486c946?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c3ByaW5nJTIwd2FsbHBhcGVyfGVufDB8fDB8fHww' alt='Spring Wallpapers: Free HD Download [500+ HQ] | Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1490750967868-88aa4486c946?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c3ByaW5nJTIwd2FsbHBhcGVyfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Wallpaper HD Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4a/ef/a2/4aefa2ef97e0ddbca226d5fbb8c30dcf.jpg' alt='Yellow Wallpaper HD Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="388">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4a/ef/a2/4aefa2ef97e0ddbca226d5fbb8c30dcf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yellow Spring Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/8-march-easter-greeting-card-with-yellow-mimosa-branch-yellow-backdrop-with-bokeh-lights_121867-1350.jpg?semt=ais_hybrid' alt='Yellow Spring Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="324">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/8-march-easter-greeting-card-with-yellow-mimosa-branch-yellow-backdrop-with-bokeh-lights_121867-1350.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring Yellow Background Images – Browse 4,692,236 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/11/49/92/19/360_F_1149921951_e5IER4jlL8aNXpsMC60qslvRtTj14aZL.jpg' alt='Spring Yellow Background Images – Browse 4,692,236 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/11/49/92/19/360_F_1149921951_e5IER4jlL8aNXpsMC60qslvRtTj14aZL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

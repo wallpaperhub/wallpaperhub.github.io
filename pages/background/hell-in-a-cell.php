@@ -1,0 +1,129 @@
+<title>"Unleashing Chaos: Hell in a Cell Explained"</title>
+                    <meta name="description" content=""Discover the unforgiving world of Hell in a Cell, where WWE superstars collide in intense battles inside a daunting steel structure. Explore the history, iconic matches, and unforgettable moments that define this thrilling spectacle!"">
+                    <meta name="keywords" content="hell in a cell">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/hell-in-a-cell">
+                            <span itemprop="name">hell in a cell</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Unleashing Chaos: Hell in a Cell Explained"</h1>
+                <p>Hell in a Cell is one of WWE's most thrilling match types, known for its ominous steel structure that encapsulates the action. This brutal environment tests the limits of wrestlers, as they battle inside and outside the cell, often leading to shocking outcomes and intense rivalries. Expect drama, high stakes, and jaw-dropping moments!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hell in a Cell - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/5/5b/Hell_in_a_Cell_03.jpg' alt='Hell in a Cell - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="805">
+                                <meta itemprop="height" content="746">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/5/5b/Hell_in_a_Cell_03.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WWE Hell in a Cell History: Match List, Winners, Rules & Stats">
+                                <img itemprop="contentUrl url" src='https://www.thesmackdownhotel.com/images/jch-optimize/ng/images_wrestling_match-types_hell-in-a-cell-match.webp' alt='WWE Hell in a Cell History: Match List, Winners, Rules & Stats'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The SmackDown Hotel" />
+                                </span>
+                                <a href='https://www.thesmackdownhotel.com/images/jch-optimize/ng/images_wrestling_match-types_hell-in-a-cell-match.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hell in a Cell (2022) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/3/35/Hell_in_a_Cell_2022_Official_Poster.jpeg' alt='Hell in a Cell (2022) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="257">
+                                <meta itemprop="height" content="388">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/3/35/Hell_in_a_Cell_2022_Official_Poster.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hell in a Cell | Pro Wrestling | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/prowrestling/images/f/fd/Modern_Cell.jpg/revision/latest?cb=20130823220521' alt='Hell in a Cell | Pro Wrestling | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="642">
+                                <meta itemprop="height" content="361">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pro Wrestling Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/prowrestling/images/f/fd/Modern_Cell.jpg/revision/latest?cb=20130823220521' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watch Hell in a Cell Season 1 Streaming Online | Peacock">
+                                <img itemprop="contentUrl url" src='https://imageservice.disco.peacocktv.com/uuid/04d48af9-20cc-3988-8344-8901db40823a/LAND_16_9?language=eng&territory=US&proposition=NBCUOTT&version=c1b3b554-5d9b-36c0-a37d-8254fb0f6488' alt='Watch Hell in a Cell Season 1 Streaming Online | Peacock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peacock" />
+                                </span>
+                                <a href='https://imageservice.disco.peacocktv.com/uuid/04d48af9-20cc-3988-8344-8901db40823a/LAND_16_9?language=eng&territory=US&proposition=NBCUOTT&version=c1b3b554-5d9b-36c0-a37d-8254fb0f6488' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Every Hell in a Cell Match ever: photos | WWE">
+                                <img itemprop="contentUrl url" src='https://www.wwe.com/f/styles/gallery_img_l/public/all/2017/10/08_KOTR_06281998_0097--72cd6dac9f4e4b8d224023fde4e18f92.jpg' alt='Every Hell in a Cell Match ever: photos | WWE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WWE" />
+                                </span>
+                                <a href='https://www.wwe.com/f/styles/gallery_img_l/public/all/2017/10/08_KOTR_06281998_0097--72cd6dac9f4e4b8d224023fde4e18f92.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WWE: Hell in a Cell 2012">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91Tkxhkk89L._AC_UF894,1000_QL80_.jpg' alt='WWE: Hell in a Cell 2012'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="708">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91Tkxhkk89L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Years Later: Remembering Mankind vs. Undertaker's Hell in a ...">
+                                <img itemprop="contentUrl url" src='https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/06/1408/814/hell-in-a-cell-wide-062823.jpg?ve=1&tl=1' alt='25 Years Later: Remembering Mankind vs. Undertaker's Hell in a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1408">
+                                <meta itemprop="height" content="814">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FOX Sports" />
+                                </span>
+                                <a href='https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/06/1408/814/hell-in-a-cell-wide-062823.jpg?ve=1&tl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WWE Hell in a Cell 2018: 5 things we learned Sunday night ...">
+                                <img itemprop="contentUrl url" src='https://cdn.vox-cdn.com/thumbor/RTxnCpochTz30-VhBLKuWoDUbAw=/0x0:1200x675/1200x800/filters:focal(504x242:696x434)/cdn.vox-cdn.com/uploads/chorus_image/image/61428673/107_HIAC_09162018rf_1955__781ae24c091820432db0fff972c3898e.0.jpg' alt='WWE Hell in a Cell 2018: 5 things we learned Sunday night ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SBNation.com" />
+                                </span>
+                                <a href='https://cdn.vox-cdn.com/thumbor/RTxnCpochTz30-VhBLKuWoDUbAw=/0x0:1200x675/1200x800/filters:focal(504x242:696x434)/cdn.vox-cdn.com/uploads/chorus_image/image/61428673/107_HIAC_09162018rf_1955__781ae24c091820432db0fff972c3898e.0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hell in a Cell (2020) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Hell_in_a_Cell_2020.jpg/220px-Hell_in_a_Cell_2020.jpg' alt='Hell in a Cell (2020) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Hell_in_a_Cell_2020.jpg/220px-Hell_in_a_Cell_2020.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

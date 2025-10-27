@@ -1,0 +1,129 @@
+<title>Lovely Spring Wallpapers: Cute Designs for Your Device</title>
+                    <meta name="description" content="Discover the cutest spring wallpapers to brighten your device! From floral patterns to charming animals, find the perfect background to celebrate the season. Refresh your home screen with cheerful designs that bring joy every time you unlock your phone!">
+                    <meta name="keywords" content="cute:5wea5r90skg= spring wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute5wea5r90skg-spring-wallpaper">
+                            <span itemprop="name">cute:5wea5r90skg= spring wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Lovely Spring Wallpapers: Cute Designs for Your Device</h1>
+                <p>Transform your device with adorable spring wallpapers! Delight in vibrant florals, playful animals, and charming landscapes that capture the essence of the season. Perfect for refreshing your home screen, these cheerful designs bring warmth and joy to your daily routine. Embrace spring's beauty with every glance!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Spring Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cute-spring-op0zbnp10diilc1m.jpg' alt='100+] Cute Spring Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cute-spring-op0zbnp10diilc1m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Spring Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-spring-blossom-vines-kdbq7shvcygdl5yl.jpg' alt='100+] Cute Spring Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-spring-blossom-vines-kdbq7shvcygdl5yl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Spring Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-spring-art-5zevfh3nge8ss8n8.jpg' alt='100+] Cute Spring Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-spring-art-5zevfh3nge8ss8n8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Enjoying The Beauty Of Spring Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/enjoying-the-beauty-of-spring-32rkjjve88p3uv6p.jpg' alt='Enjoying The Beauty Of Spring Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/enjoying-the-beauty-of-spring-32rkjjve88p3uv6p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Spring Greetings Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-spring-greetings-y6943vb0rzfw4kcr.jpg' alt='Cute Spring Greetings Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-spring-greetings-y6943vb0rzfw4kcr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25+ Cute Spring wallpapers Ideas - Emerlyn Closet">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/81/2c/54/812c54ce8fb80ef480ec8bef9723a857.jpg' alt='25+ Cute Spring wallpapers Ideas - Emerlyn Closet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="520">
+                                <meta itemprop="height" content="924">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/81/2c/54/812c54ce8fb80ef480ec8bef9723a857.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="250 Best Spring Background ideas | spring background, iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/c5/f3/04/c5f3047748c130c1d61e3a44abc924ef.jpg' alt='250 Best Spring Background ideas | spring background, iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/c5/f3/04/c5f3047748c130c1d61e3a44abc924ef.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Enjoy The Beauty And Freshness Of Spring Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/enjoy-the-beauty-and-freshness-of-spring-0lrm2nsslj6t5gtl.jpg' alt='Enjoy The Beauty And Freshness Of Spring Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1439">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/enjoy-the-beauty-and-freshness-of-spring-0lrm2nsslj6t5gtl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="35+ Gorgeous Free Spring Wallpaper Downloads For Your Phone |">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/b0/c4/ed/b0c4ed7dcee8e5b2bffc6f4a61e8cf6e.jpg' alt='35+ Gorgeous Free Spring Wallpaper Downloads For Your Phone |'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/b0/c4/ed/b0c4ed7dcee8e5b2bffc6f4a61e8cf6e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute spring wallpaper Stock Photos, Royalty Free Cute spring ...">
+                                <img itemprop="contentUrl url" src='https://st3.depositphotos.com/15208558/18993/i/450/depositphotos_189933450-stock-photo-pattern-of-pink-and-beige.jpg' alt='Cute spring wallpaper Stock Photos, Royalty Free Cute spring ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://st3.depositphotos.com/15208558/18993/i/450/depositphotos_189933450-stock-photo-pattern-of-pink-and-beige.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

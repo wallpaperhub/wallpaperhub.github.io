@@ -1,0 +1,129 @@
+<title>Elegant Floral Backgrounds: Enhance Your Space</title>
+                    <meta name="description" content="Discover stunning elegant floral backgrounds that elevate your decor. Perfect for events or digital designs, these captivating patterns bring nature's beauty indoors. Ideal for weddings, homes, and creative projects. Transform any space effortlessly with our chic floral designs that inspire tranquility and elegance.">
+                    <meta name="keywords" content="elegant floral background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/elegant-floral-background">
+                            <span itemprop="name">elegant floral background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Floral Backgrounds: Enhance Your Space</h1>
+                <p>Transform your space with an elegant floral background that exudes charm and sophistication. Perfect for weddings, home decor, or digital designs, these beautiful botanical patterns enhance any environment. Delicate blossoms and lush greenery create a serene atmosphere, making it a perfect backdrop for your creative projects.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant Floral Background Graphic by Darren Studio · Creative Fabrica">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2021/03/05/Elegant-floral-background-Graphics-9232782-1.jpg' alt='Elegant Floral Background Graphic by Darren Studio · Creative Fabrica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3500">
+                                <meta itemprop="height" content="2100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2021/03/05/Elegant-floral-background-Graphics-9232782-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant Floral Background Graphic by Darren Studio · Creative Fabrica">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2021/08/01/Elegant-floral-background-Graphics-15347999-1-1-580x348.jpg' alt='Elegant Floral Background Graphic by Darren Studio · Creative Fabrica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="580">
+                                <meta itemprop="height" content="348">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2021/08/01/Elegant-floral-background-Graphics-15347999-1-1-580x348.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable floral background templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAF-642a9UY/3/0/900w/canva-pink-and-peach-elegant-floral-watercolor-background-instagram-story-hSB-UEpahew.jpg' alt='Free and customizable floral background templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAF-642a9UY/3/0/900w/canva-pink-and-peach-elegant-floral-watercolor-background-instagram-story-hSB-UEpahew.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant Floral Background Stock Photos, Images and Backgrounds for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/042/648/952/non_2x/ai-generated-elegant-floral-design-on-vintage-background-digital-art-frame-with-copy-space-wedding-invitation-and-greeting-card-concept-for-design-photo.jpg' alt='Elegant Floral Background Stock Photos, Images and Backgrounds for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1749">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/042/648/952/non_2x/ai-generated-elegant-floral-design-on-vintage-background-digital-art-frame-with-copy-space-wedding-invitation-and-greeting-card-concept-for-design-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Elegant floral wallpaper Image | Download at StockCake">
+                                <img itemprop="contentUrl url" src='https://images.stockcake.com/public/a/d/5/ad501cba-8f39-4098-a1ec-c98e2b4e5e74_large/elegant-floral-wallpaper-stockcake.jpg' alt='Free Elegant floral wallpaper Image | Download at StockCake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="728">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockCake" />
+                                </span>
+                                <a href='https://images.stockcake.com/public/a/d/5/ad501cba-8f39-4098-a1ec-c98e2b4e5e74_large/elegant-floral-wallpaper-stockcake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-drawn-floral-wallpaper_52683-67169.jpg' alt='Floral Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-drawn-floral-wallpaper_52683-67169.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant floral background with beautiful white flower pattern ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/06/11/51/42/1000_F_611514250_2ABy8rLXD02SIoPHoL2gxtPhpO3wxR6h.jpg' alt='Elegant floral background with beautiful white flower pattern ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="767">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/06/11/51/42/1000_F_611514250_2ABy8rLXD02SIoPHoL2gxtPhpO3wxR6h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Elegant watercolor floral background design">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/elegant-watercolor-floral-background-design_21799-9687.jpg' alt='Free Vector | Elegant watercolor floral background design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/elegant-watercolor-floral-background-design_21799-9687.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Elegant Floral Border Image | Download at StockCake">
+                                <img itemprop="contentUrl url" src='https://images.stockcake.com/public/0/8/1/081eb312-bf62-4b7b-ae83-0f66664242cd_large/elegant-floral-border-stockcake.jpg' alt='Free Elegant Floral Border Image | Download at StockCake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="384">
+                                <meta itemprop="height" content="672">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockCake" />
+                                </span>
+                                <a href='https://images.stockcake.com/public/0/8/1/081eb312-bf62-4b7b-ae83-0f66664242cd_large/elegant-floral-border-stockcake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable floral background templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGDtE5SVp8/1/0/1131w/canva-green-watercolor-hand-drawn-floral-background-document-5mXnVOZIHk8.jpg' alt='Free and customizable floral background templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1131">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGDtE5SVp8/1/0/1131w/canva-green-watercolor-hand-drawn-floral-background-document-5mXnVOZIHk8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

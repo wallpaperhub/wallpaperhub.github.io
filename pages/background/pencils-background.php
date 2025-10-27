@@ -1,0 +1,129 @@
+<title>Explore the Colorful World of Pencils</title>
+                    <meta name="description" content="Discover the fascinating history and versatility of pencils. From classic graphite to vibrant colored variations, learn how these essential tools play a vital role in art, education, and creativity. Perfect for artists and students alike, delve into the captivating background of pencils today!">
+                    <meta name="keywords" content="pencils background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pencils-background">
+                            <span itemprop="name">pencils background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Colorful World of Pencils</h1>
+                <p>Pencils have a rich history and offer a unique background in the world of art and education. They come in various types, including graphite, colored, and mechanical, each serving distinct purposes. Not only are they essential tools for writers and artists, but they also evoke memories of school days. Their versatility makes them timeless instruments for expression and creativity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pencils Images – Browse 3,815,934 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/11/73/52/360_F_311735201_nnKEmR3VIHfSt8eawd7FEMB5MIjjQZB4.jpg' alt='Pencils Images – Browse 3,815,934 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/11/73/52/360_F_311735201_nnKEmR3VIHfSt8eawd7FEMB5MIjjQZB4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Pencils Background Royalty Free Photo">
+                                <img itemprop="contentUrl url" src='https://negativespace.co/wp-content/uploads/2021/08/negative-space-art-supplies-09-1062x703.jpg' alt='Colorful Pencils Background Royalty Free Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1062">
+                                <meta itemprop="height" content="703">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NegativeSpace" />
+                                </span>
+                                <a href='https://negativespace.co/wp-content/uploads/2021/08/negative-space-art-supplies-09-1062x703.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="School pencils pattern background Royalty Free Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn5.vectorstock.com/i/1000x1000/51/59/school-pencils-pattern-background-vector-25775159.jpg' alt='School pencils pattern background Royalty Free Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn5.vectorstock.com/i/1000x1000/51/59/school-pencils-pattern-background-vector-25775159.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="School Pencils Images – Browse 1,488,364 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/14/68/33/360_F_314683352_Me9z0i5eRwwyvx66GJTgwBGCYWq5RfQe.jpg' alt='School Pencils Images – Browse 1,488,364 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/14/68/33/360_F_314683352_Me9z0i5eRwwyvx66GJTgwBGCYWq5RfQe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Color Pencil Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/046/822/423/non_2x/pencils-background-repeating-colored-pencils-on-white-background-cartoon-illustration-banner-for-kids-school-kindergarten-vector.jpg' alt='Color Pencil Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1742">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/046/822/423/non_2x/pencils-background-repeating-colored-pencils-on-white-background-cartoon-illustration-banner-for-kids-school-kindergarten-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="320+ Colorful Border Background Of Colored Pencils Stock ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1185282468/vector/illustration-of-a-color-pencils-frame-with-space-for-text.jpg?s=612x612&w=0&k=20&c=MntxrUh1nl2P64ixwYIRXIq8Xow5_N6_0QN7AuTl8Ag=' alt='320+ Colorful Border Background Of Colored Pencils Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="474">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1185282468/vector/illustration-of-a-color-pencils-frame-with-space-for-text.jpg?s=612x612&w=0&k=20&c=MntxrUh1nl2P64ixwYIRXIq8Xow5_N6_0QN7AuTl8Ag=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Row Of Wooden Pencils Sitting On A Paper Background, School Days ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/karenr/karenr0905/karenr090500082/4922440-a-row-of-wooden-pencils-sitting-on-a-paper-background-school-days.jpg' alt='A Row Of Wooden Pencils Sitting On A Paper Background, School Days ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="866">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/karenr/karenr0905/karenr090500082/4922440-a-row-of-wooden-pencils-sitting-on-a-paper-background-school-days.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="School Background with Pencils​ | Gallery Yopriceville - High ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/downloadfullsize/send/9721' alt='School Background with Pencils​ | Gallery Yopriceville - High ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5866">
+                                <meta itemprop="height" content="5000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/downloadfullsize/send/9721' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pencils Background Colorful Royalty Free Photo">
+                                <img itemprop="contentUrl url" src='https://negativespace.co/wp-content/uploads/2022/09/negative-space-art-supplies-0183.jpg' alt='Pencils Background Colorful Royalty Free Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4928">
+                                <meta itemprop="height" content="3264">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NegativeSpace" />
+                                </span>
+                                <a href='https://negativespace.co/wp-content/uploads/2022/09/negative-space-art-supplies-0183.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colour Pencils Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y29sb3VyJTIwcGVuY2lsc3xlbnwwfHwwfHx8MA%3D%3D' alt='Colour Pencils Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y29sb3VyJTIwcGVuY2lsc3xlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

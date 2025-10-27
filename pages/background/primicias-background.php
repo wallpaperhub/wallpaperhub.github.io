@@ -1,0 +1,129 @@
+<title>Stay Updated with Primicias: Your Go-To News Source</title>
+                    <meta name="description" content="Discover the latest news and updates with Primicias. From politics to entertainment, we deliver accurate, timely information to keep you informed. Join us for engaging content and in-depth coverage, tailored for your mobile experience.">
+                    <meta name="keywords" content="primicias background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/primicias-background">
+                            <span itemprop="name">primicias background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stay Updated with Primicias: Your Go-To News Source</h1>
+                <p>Primicias is a news platform that focuses on delivering timely updates and in-depth coverage of various topics such as politics, entertainment, and sports. With a commitment to journalistic integrity, Primicias aims to keep its audience informed and engaged through accurate reporting and insightful commentary.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Primicias - Church Mini Movie | Story Loop">
+                                <img itemprop="contentUrl url" src='https://storyloop-downloads.sfo2.cdn.digitaloceanspaces.com/wp-uploads/2022/09/2a552272cd3d-1024x576.jpg' alt='Primicias - Church Mini Movie | Story Loop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Story Loop" />
+                                </span>
+                                <a href='https://storyloop-downloads.sfo2.cdn.digitaloceanspaces.com/wp-uploads/2022/09/2a552272cd3d-1024x576.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="La fiesta de Dios, la Fiesta de las Primicias y el Día de Resurrección">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1b/1c/91/1b1c914add087af801a701122416c131.jpg' alt='La fiesta de Dios, la Fiesta de las Primicias y el Día de Resurrección'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1b/1c/91/1b1c914add087af801a701122416c131.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ofrendas De Primicias - Title Graphics | Igniter Media">
+                                <img itemprop="contentUrl url" src='https://assets3.ignitermedia.com/a3890a83d47b437743d29d00c1faedf3.jpg' alt='Ofrendas De Primicias - Title Graphics | Igniter Media'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="672">
+                                <meta itemprop="height" content="378">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Igniter Media" />
+                                </span>
+                                <a href='https://assets3.ignitermedia.com/a3890a83d47b437743d29d00c1faedf3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ofrendas De Primicias - Title Graphics | Igniter Media">
+                                <img itemprop="contentUrl url" src='https://assets3.ignitermedia.com/fb8c96342ad9cffd968e388ffb5dcbac.jpg' alt='Ofrendas De Primicias - Title Graphics | Igniter Media'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="672">
+                                <meta itemprop="height" content="378">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Igniter Media" />
+                                </span>
+                                <a href='https://assets3.ignitermedia.com/fb8c96342ad9cffd968e388ffb5dcbac.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harvest Harmony: A Stunning HD Wallpaper of Fields and Fresh Fare">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/298/298382.jpg' alt='Harvest Harmony: A Stunning HD Wallpaper of Fields and Fresh Fare'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/298/298382.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ofrendas De Primicias - Title Graphics | Igniter Media">
+                                <img itemprop="contentUrl url" src='https://assets3.ignitermedia.com/440afdb6bd09d13ef7453b10c00b78b2.jpg' alt='Ofrendas De Primicias - Title Graphics | Igniter Media'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="672">
+                                <meta itemprop="height" content="378">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Igniter Media" />
+                                </span>
+                                <a href='https://assets3.ignitermedia.com/440afdb6bd09d13ef7453b10c00b78b2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 ideas de Primicias | imágenes religiosas, decoración de unas ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/cb/98/d7/cb98d7c7a7147336209efe403ac5cd94.jpg' alt='25 ideas de Primicias | imágenes religiosas, decoración de unas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="355">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/cb/98/d7/cb98d7c7a7147336209efe403ac5cd94.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Las Primicias | Iglesia de Cristo Ministerios Roca Eterna | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/7239/7078408751_3f61ba0374_b.jpg' alt='Las Primicias | Iglesia de Cristo Ministerios Roca Eterna | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/7239/7078408751_3f61ba0374_b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grapes Dates Garnets Barley Wheat Milk Stock Photo 426959857 ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/grapes-dates-garnets-barley-wheat-260nw-426959857.jpg' alt='Grapes Dates Garnets Barley Wheat Milk Stock Photo 426959857 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="355">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/grapes-dates-garnets-barley-wheat-260nw-426959857.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="First fruits habikkurim in hebrew on wooden rustic table. Symbols ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2A8BKFN/first-fruits-habikkurim-in-hebrew-on-wooden-rustic-table-symbols-of-jewish-holiday-shavuot-grapes-and-peaches-on-wood-vintage-background-2A8BKFN.jpg' alt='First fruits habikkurim in hebrew on wooden rustic table. Symbols ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="957">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2A8BKFN/first-fruits-habikkurim-in-hebrew-on-wooden-rustic-table-symbols-of-jewish-holiday-shavuot-grapes-and-peaches-on-wood-vintage-background-2A8BKFN.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

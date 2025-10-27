@@ -1,0 +1,129 @@
+<title>Explore Stunning Soul Eater iPhone Wallpapers</title>
+                    <meta name="description" content="Discover unique Soul Eater wallpapers for your iPhone! Elevate your device's style with vibrant, high-resolution images of beloved characters and scenes. Perfect for anime enthusiasts, these wallpapers capture the essence of Soul Eater. Personalize your phone and share your passion!">
+                    <meta name="keywords" content="iphone soul eater wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-soul-eater-wallpaper">
+                            <span itemprop="name">iphone soul eater wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore Stunning Soul Eater iPhone Wallpapers</h1>
+                <p>Transform your iPhone with stunning Soul Eater wallpapers! Dive into the world of anime with high-resolution images featuring your favorite characters and scenes. Perfect for fans, these vibrant wallpapers will bring your screen to life, showcasing the iconic art style that makes Soul Eater unique. Personalize your device today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soul Eater Wallpapers - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/35/28/1c/35281c48a4c4f44c7562dc7efecdc58f.jpg' alt='Soul Eater Wallpapers - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/35/28/1c/35281c48a4c4f44c7562dc7efecdc58f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soul eater, black, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/604/35/HD-wallpaper-soul-eater-black.jpg' alt='Soul eater, black, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/604/35/HD-wallpaper-soul-eater-black.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soul Eater Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/15/72/00/157200ae47782db3c8e5685c18275aaa.jpg' alt='Soul Eater Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/15/72/00/157200ae47782db3c8e5685c18275aaa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soul Eater (Anime) Wallpapers (22 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/2/0/7/1640648-1242x2688-iphone-hd-soul-eater-anime-background-image.jpg' alt='Soul Eater (Anime) Wallpapers (22 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/2/0/7/1640648-1242x2688-iphone-hd-soul-eater-anime-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soul Eater, anime, manga, DEPTH EFFECT optimized, phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/soul-eater-anime-manga-depth-effect-optimized-phone-v0-kmpqf31ekfmc1.jpg?width=640&crop=smart&auto=webp&s=b4192dfd1a7ad4c42cc4e360bf969d62eb79a9e3' alt='Soul Eater, anime, manga, DEPTH EFFECT optimized, phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/soul-eater-anime-manga-depth-effect-optimized-phone-v0-kmpqf31ekfmc1.jpg?width=640&crop=smart&auto=webp&s=b4192dfd1a7ad4c42cc4e360bf969d62eb79a9e3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Soul Eater Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/soul-eater-maka-and-soul-dcity-011vbxu4yjnyu971.jpg' alt='Download Soul Eater Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/soul-eater-maka-and-soul-dcity-011vbxu4yjnyu971.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soul eater, anime, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/547/61/HD-wallpaper-soul-eater-anime.jpg' alt='Soul eater, anime, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/547/61/HD-wallpaper-soul-eater-anime.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soul Eater Wallpaper Iphone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/18/1f/2e/181f2e53a2e11be62e7aee862b0ecdfb.jpg' alt='Soul Eater Wallpaper Iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/18/1f/2e/181f2e53a2e11be62e7aee862b0ecdfb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="An iPhone wallpaper I made using screenshots from the third ending ...">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/XHWIRqm.jpg' alt='An iPhone wallpaper I made using screenshots from the third ending ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://i.imgur.com/XHWIRqm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soul eater">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a3/4d/e0/a34de01150c5fa51e68ce613940e3d0b.jpg' alt='Soul eater'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a3/4d/e0/a34de01150c5fa51e68ce613940e3d0b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Discover the World of LEGO: Unleash Your Creativity</title>
+                    <meta name="description" content="Explore the vibrant world of LEGO! From classic blocks to themed sets, find inspiration and tips to ignite your creativity. Perfect for builders of all ages, dive into endless possibilities and see how LEGO can spark imagination and skills. Build, create, and enjoy the magic of play!">
+                    <meta name="keywords" content="lego background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lego-background">
+                            <span itemprop="name">lego background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the World of LEGO: Unleash Your Creativity</h1>
+                <p>LEGO, the iconic building block system, has fascinated generations with its endless creativity and fun. Originating in Denmark in 1932, LEGO allows users to construct imaginative worlds, from castles to spaceships. Its vibrant colors and versatile pieces not only fuel play but also enhance problem-solving skills and collaboration.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lego Background Images – Browse 6,944 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/06/81/46/47/360_F_681464734_hYY9fhBhMNdJSN4SJB4v8N87HNaglF0k.jpg' alt='Lego Background Images – Browse 6,944 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/06/81/46/47/360_F_681464734_hYY9fhBhMNdJSN4SJB4v8N87HNaglF0k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lets Build Together – Backgrounds page | Official LEGO® Shop US">
+                                <img itemprop="contentUrl url" src='https://www.lego.com/cdn/cs/set/assets/blt8a5238355bf5e5d6/Z8_Prisonbreak.jpg' alt='Lets Build Together – Backgrounds page | Official LEGO® Shop US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LEGO" />
+                                </span>
+                                <a href='https://www.lego.com/cdn/cs/set/assets/blt8a5238355bf5e5d6/Z8_Prisonbreak.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lego Bricks That Are Put In A Pile Background, Legos Picture ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20230610/original/pngtree-lego-bricks-that-are-put-in-a-pile-picture-image_3020983.jpg' alt='Lego Bricks That Are Put In A Pile Background, Legos Picture ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="673">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20230610/original/pngtree-lego-bricks-that-are-put-in-a-pile-picture-image_3020983.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lego Background Images – Browse 6,944 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/24/93/58/360_F_324935808_AIaZVTr1eLFiRBW7oGDQhn3rFtWfkuVk.jpg' alt='Lego Background Images – Browse 6,944 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/24/93/58/360_F_324935808_AIaZVTr1eLFiRBW7oGDQhn3rFtWfkuVk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lets Build Together – Backgrounds page | Official LEGO® Shop US">
+                                <img itemprop="contentUrl url" src='https://www.lego.com/cdn/cs/set/assets/blt2cfbd89252faf547/Z2_Benny.jpg' alt='Lets Build Together – Backgrounds page | Official LEGO® Shop US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LEGO" />
+                                </span>
+                                <a href='https://www.lego.com/cdn/cs/set/assets/blt2cfbd89252faf547/Z2_Benny.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Free Colored Lego Background Vector - Free Vector Backgrounds">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/6a/f8/aa/6af8aa46c740dc7048619ef58622a40d.jpg' alt='Download Free Colored Lego Background Vector - Free Vector Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="553">
+                                <meta itemprop="height" content="489">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/6a/f8/aa/6af8aa46c740dc7048619ef58622a40d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lego Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/017/399/402/small/color-frame-composed-of-coloured-plastic-toy-blocks-colorful-brick-banner-abstract-background-vector.jpg' alt='Lego Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/017/399/402/small/color-frame-composed-of-coloured-plastic-toy-blocks-colorful-brick-banner-abstract-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lego Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20210312/pngtree-colorful-tetris-lego-blocks-background-image_584426.jpg' alt='Lego Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="365">
+                                <meta itemprop="height" content="261">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20210312/pngtree-colorful-tetris-lego-blocks-background-image_584426.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lego Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/047/406/305/non_2x/many-plastic-building-toy-blocks-background-wallpaper-of-bricks-in-different-colors-close-up-of-a-colorful-bricks-abstract-background-illustration-vector.jpg' alt='Lego Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1568">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/047/406/305/non_2x/many-plastic-building-toy-blocks-background-wallpaper-of-bricks-in-different-colors-close-up-of-a-colorful-bricks-abstract-background-illustration-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lego Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/colored-toy-bricks-green-background_676326-1054.jpg?semt=ais_hybrid' alt='Lego Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/colored-toy-bricks-green-background_676326-1054.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

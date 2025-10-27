@@ -1,0 +1,129 @@
+<title>Beautiful Jesus Christmas Wallpapers for Your Devices</title>
+                    <meta name="description" content="Find stunning Jesus Christmas wallpapers to brighten your holiday season. Our collection features uplifting designs that inspire faith and joy, perfect for personalizing your devices. Download now and spread the love of Christmas with every glance!">
+                    <meta name="keywords" content="christmas wallpaper jesus">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/christmas-wallpaper-jesus">
+                            <span itemprop="name">christmas wallpaper jesus</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful Jesus Christmas Wallpapers for Your Devices</h1>
+                <p>Celebrate the true essence of Christmas with beautiful Jesus-themed wallpapers. These vibrant designs capture the spirit of love, hope, and joy that the birth of Christ brings to the season. Perfect for creating a heartfelt atmosphere on your devices, these wallpapers serve as daily reminders of faith and goodwill during Christmas.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="▷ 1000+ Free Christian Christmas Card Images, Stock Photos & Vectors">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/ee/26/7a/ee267a4faeb0cd992be3a381ed7dae97.jpg' alt='▷ 1000+ Free Christian Christmas Card Images, Stock Photos & Vectors'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="845">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/ee/26/7a/ee267a4faeb0cd992be3a381ed7dae97.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+ Merry Christmas Jesus Wallpaper Free Download 2023 ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/91/de/40/91de40f517bf05aa2600c8e216298586.jpg' alt='100+ Merry Christmas Jesus Wallpaper Free Download 2023 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="588">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/91/de/40/91de40f517bf05aa2600c8e216298586.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13,400+ Religious Christmas Background Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/456013987/vector/christian-christmas-night.jpg?s=612x612&w=0&k=20&c=09u_7LiDV_gaiTGecbRXc6N_RVYvYvHe-FK3MCcotzE=' alt='13,400+ Religious Christmas Background Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="448">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/456013987/vector/christian-christmas-night.jpg?s=612x612&w=0&k=20&c=09u_7LiDV_gaiTGecbRXc6N_RVYvYvHe-FK3MCcotzE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Our Christmas nativity wallpaper will surely put you in the Holiday  mood!     Don’t forget to LIKE & FOLLOW for more beautiful art videos!  Also, we would love to hear your thoughts, so feel free to drop ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7447423976022134021&location=0&aid=1988' alt='Our Christmas nativity wallpaper will surely put you in the Holiday  mood!     Don’t forget to LIKE & FOLLOW for more beautiful art videos!  Also, we would love to hear your thoughts, so feel free to drop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7447423976022134021&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13 Christian Christmas wallpaper ideas | christian christmas ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/e1/d1/0b/e1d10bc2fbef40a6810d38ba59f75319.jpg' alt='13 Christian Christmas wallpaper ideas | christian christmas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="235">
+                                <meta itemprop="height" content="353">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/e1/d1/0b/e1d10bc2fbef40a6810d38ba59f75319.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Birthday Baby Jesus!. I don't believe you should get ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1024/1*8E6iB8Qzghxz8yacWxlbrw.jpeg' alt='Happy Birthday Baby Jesus!. I don't believe you should get ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1024/1*8E6iB8Qzghxz8yacWxlbrw.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 2 | Jesus Christmas Wallpaper Aesthetic PSD, High Quality ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-psd/christmas-card-with-jesus-words-wish-you-merry-christmas_1267019-188.jpg' alt='Page 2 | Jesus Christmas Wallpaper Aesthetic PSD, High Quality ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="487">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-psd/christmas-card-with-jesus-words-wish-you-merry-christmas_1267019-188.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jesus, christmas, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/840/488/HD-wallpaper-jesus-christmas.jpg' alt='Jesus, christmas, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/840/488/HD-wallpaper-jesus-christmas.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Religious Christmas Backgrounds Images – Browse 131,393 Stock ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/70/78/50/360_F_370785011_uQGfIcahWGqtn3otWicqUiVHTjICSVOC.jpg' alt='Religious Christmas Backgrounds Images – Browse 131,393 Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="953">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/70/78/50/360_F_370785011_uQGfIcahWGqtn3otWicqUiVHTjICSVOC.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Wallpaper, New Year wishes & Jesus pictures - App on ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81YkwxwipIL.png' alt='Christmas Wallpaper, New Year wishes & Jesus pictures - App on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81YkwxwipIL.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

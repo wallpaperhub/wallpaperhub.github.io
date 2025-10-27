@@ -1,0 +1,129 @@
+<title>Remove Backgrounds Instantly: The Ultimate Photo App</title>
+                    <meta name="description" content="Discover the best photo app to remove backgrounds quickly and easily. Achieve professional-quality edits in just a few taps. Perfect for creating stunning graphics, product photos, or personal images. Try it now for a seamless editing experience!">
+                    <meta name="keywords" content="photo app to remove background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/photo-app-to-remove-background">
+                            <span itemprop="name">photo app to remove background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Remove Backgrounds Instantly: The Ultimate Photo App</h1>
+                <p>Transform your images effortlessly with our photo app designed to remove backgrounds in seconds. Whether for professional use or personal projects, our intuitive tools make editing seamless. Just upload your photo, and let our app work its magic, delivering clean edges and stunning results every time!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Background Remover App for Android – remove.bg">
+                                <img itemprop="contentUrl url" src='https://sb.kaleidousercontent.com/67418/1217x716/dbb9d7e5cc/android-2.png' alt='Free Background Remover App for Android – remove.bg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1217">
+                                <meta itemprop="height" content="716">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Remove Background" />
+                                </span>
+                                <a href='https://sb.kaleidousercontent.com/67418/1217x716/dbb9d7e5cc/android-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Remove Background from the Picture for Free | PERFECT">
+                                <img itemprop="contentUrl url" src='https://plugins-media.makeupar.com/smb/blog/post/2024-08-23/ba933ed2-e39b-4665-a540-c01a9a3b0ff2.jpg' alt='How to Remove Background from the Picture for Free | PERFECT'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="769">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Perfect Corp" />
+                                </span>
+                                <a href='https://plugins-media.makeupar.com/smb/blog/post/2024-08-23/ba933ed2-e39b-4665-a540-c01a9a3b0ff2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Remove Background from the Picture for Free | PERFECT">
+                                <img itemprop="contentUrl url" src='https://plugins-media.makeupar.com/smb/blog/post/2023-02-01/cdd4cc90-c335-4eb0-8070-d05ee911d2b8.gif' alt='How to Remove Background from the Picture for Free | PERFECT'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Perfect Corp" />
+                                </span>
+                                <a href='https://plugins-media.makeupar.com/smb/blog/post/2023-02-01/cdd4cc90-c335-4eb0-8070-d05ee911d2b8.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="remove.bg: The Best Background Remover App on Android – remove.bg Blog">
+                                <img itemprop="contentUrl url" src='https://sb.kaleidousercontent.com/67418/1092x670/56c943d556/screenshot-2021-05-21-at-09-45-34.png' alt='remove.bg: The Best Background Remover App on Android – remove.bg Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1092">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Remove Background" />
+                                </span>
+                                <a href='https://sb.kaleidousercontent.com/67418/1092x670/56c943d556/screenshot-2021-05-21-at-09-45-34.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AI Background Remover: Remove Image Backgrounds in One-Click">
+                                <img itemprop="contentUrl url" src='https://www.befunky.com/images/prismic/98bfaa93-5525-42fb-8e59-6a197e9da82d_background-remover-mobile-hero.png?auto=avif,webp&format=jpg&width=529' alt='AI Background Remover: Remove Image Backgrounds in One-Click'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="529">
+                                <meta itemprop="height" content="504">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BeFunky" />
+                                </span>
+                                <a href='https://www.befunky.com/images/prismic/98bfaa93-5525-42fb-8e59-6a197e9da82d_background-remover-mobile-hero.png?auto=avif,webp&format=jpg&width=529' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Remove Background from the Picture for Free | PERFECT">
+                                <img itemprop="contentUrl url" src='https://plugins-media.makeupar.com/smb/blog/post/2024-08-23/b848a20b-c1a6-4c79-811b-1292ca101a98.jpg' alt='How to Remove Background from the Picture for Free | PERFECT'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="624">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Perfect Corp" />
+                                </span>
+                                <a href='https://plugins-media.makeupar.com/smb/blog/post/2024-08-23/b848a20b-c1a6-4c79-811b-1292ca101a98.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Eraser - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/rrHPmj08O8XvFxB1sToiUiAc1NX28pyp7q6Ilvdw4ZQfzDHX0wyP7ANIkUZSbFRcuw=w526-h296-rw' alt='Background Eraser - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="206">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/rrHPmj08O8XvFxB1sToiUiAc1NX28pyp7q6Ilvdw4ZQfzDHX0wyP7ANIkUZSbFRcuw=w526-h296-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2024 Best Apps to Remove Background from Pictures">
+                                <img itemprop="contentUrl url" src='https://picwish.com/wp-content/uploads/2022/05/picwish-transparent.jpg' alt='2024 Best Apps to Remove Background from Pictures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="680">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PicWish" />
+                                </span>
+                                <a href='https://picwish.com/wp-content/uploads/2022/05/picwish-transparent.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top 11 Free Background Remover Apps to Erase Background | PERFECT">
+                                <img itemprop="contentUrl url" src='https://plugins-media.makeupar.com/smb/blog/post/2024-01-18/5bcebac6-7402-415a-985c-ca188e0d44e4.png' alt='Top 11 Free Background Remover Apps to Erase Background | PERFECT'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Perfect Corp" />
+                                </span>
+                                <a href='https://plugins-media.makeupar.com/smb/blog/post/2024-01-18/5bcebac6-7402-415a-985c-ca188e0d44e4.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eraser app 2025 online">
+                                <img itemprop="contentUrl url" src='https://techwiser.com/wp-content/uploads/2019/03/remove.bg_.png' alt='Eraser app 2025 online'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="670">
+                                <meta itemprop="height" content="689">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://techwiser.com/wp-content/uploads/2019/03/remove.bg_.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

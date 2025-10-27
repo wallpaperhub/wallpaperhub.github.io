@@ -1,0 +1,129 @@
+<title>Affordable Ministry Background Check Costs Explained</title>
+                    <meta name="description" content="Discover the essential costs of background checks for your ministry. Learn how investing in safety can protect your congregation and enhance your ministry's trust. Explore budget-friendly options that fit your needs and ensure a secure environment for everyone involved.">
+                    <meta name="keywords" content="protect my ministry background check cost">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/protect-my-ministry-background-check-cost">
+                            <span itemprop="name">protect my ministry background check cost</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Affordable Ministry Background Check Costs Explained</h1>
+                <p>To protect your ministry, understanding the background check cost is crucial. Typically, these checks range from $20 to $100 based on the depth of the investigation. Investing in thorough screenings ensures safety for your congregation while safeguarding your ministry's reputation. Budgeting for these checks is essential for long-term protection.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ministry Mobilizer Bundle Pricing | Protect My Ministry - Church ...">
+                                <img itemprop="contentUrl url" src='https://protectmyministry.com/screen/Rescreen.jpg' alt='Ministry Mobilizer Bundle Pricing | Protect My Ministry - Church ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1323">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Protect My Ministry" />
+                                </span>
+                                <a href='https://protectmyministry.com/screen/Rescreen.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Protect My Ministry Pricing, Alternatives & More 2025 | Capterra">
+                                <img itemprop="contentUrl url" src='https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/85b9ccf6-720d-45d2-ad35-3ccf01e6759e.png' alt='Protect My Ministry Pricing, Alternatives & More 2025 | Capterra'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="425">
+                                <meta itemprop="height" content="425">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Capterra" />
+                                </span>
+                                <a href='https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/85b9ccf6-720d-45d2-ad35-3ccf01e6759e.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ministry Mobilizer Bundle Pricing | Protect My Ministry - Church ...">
+                                <img itemprop="contentUrl url" src='https://protectmyministry.com/authorize/online_background_consent.jpg' alt='Ministry Mobilizer Bundle Pricing | Protect My Ministry - Church ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1194">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Protect My Ministry" />
+                                </span>
+                                <a href='https://protectmyministry.com/authorize/online_background_consent.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Protect My Ministry is Now Available for Background Checks at ...">
+                                <img itemprop="contentUrl url" src='https://secure.wesleyan.org/system/wes/assets/cms/resources/47cc47e8ca01ec75c2b9bca706d4cf86/Protect-My-Ministry-focus_focus.jpg' alt='Protect My Ministry is Now Available for Background Checks at ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Wesleyan Church" />
+                                </span>
+                                <a href='https://secure.wesleyan.org/system/wes/assets/cms/resources/47cc47e8ca01ec75c2b9bca706d4cf86/Protect-My-Ministry-focus_focus.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Church Background Checks | Protect My Ministry">
+                                <img itemprop="contentUrl url" src='https://www.protectmyministry.com/wp-content/uploads/2024/10/PMM_LOGO_WHITE.png' alt='Church Background Checks | Protect My Ministry'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1393">
+                                <meta itemprop="height" content="475">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.protectmyministry.com" />
+                                </span>
+                                <a href='https://www.protectmyministry.com/wp-content/uploads/2024/10/PMM_LOGO_WHITE.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LOW COST BACKGROUND CHECKS, CHILD SAFETY TRAINING AND PAPERLESS ...">
+                                <img itemprop="contentUrl url" src='x-raw-image:///71307b65b5a87c11e089c9dd1d1ef499d6617ca63eca7a1abf7e5efa83b365ca' alt='LOW COST BACKGROUND CHECKS, CHILD SAFETY TRAINING AND PAPERLESS ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2071">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Protect My Ministry" />
+                                </span>
+                                <a href='x-raw-image:///71307b65b5a87c11e089c9dd1d1ef499d6617ca63eca7a1abf7e5efa83b365ca' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ministry Mobilizer Bundle Pricing | Protect My Ministry - Church ...">
+                                <img itemprop="contentUrl url" src='https://protectmyministry.com/process/online_application_form.jpg' alt='Ministry Mobilizer Bundle Pricing | Protect My Ministry - Church ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1194">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Protect My Ministry" />
+                                </span>
+                                <a href='https://protectmyministry.com/process/online_application_form.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PROTECT MY MINISTRY BACKGROUND CHECKS — Scott Lake Baptist Church">
+                                <img itemprop="contentUrl url" src='https://scottlake.org/wp-content/uploads/2020/09/Protect-My-Ministry-logo-no-background.png' alt='PROTECT MY MINISTRY BACKGROUND CHECKS — Scott Lake Baptist Church'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="575">
+                                <meta itemprop="height" content="191">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scott Lake Baptist Church" />
+                                </span>
+                                <a href='https://scottlake.org/wp-content/uploads/2020/09/Protect-My-Ministry-logo-no-background.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ministry Mobilizer Bundle Pricing | Protect My Ministry - Church ...">
+                                <img itemprop="contentUrl url" src='https://protectmyministry.com/recruit/Ministry_Position_Descriptions.jpg' alt='Ministry Mobilizer Bundle Pricing | Protect My Ministry - Church ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1180">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Protect My Ministry" />
+                                </span>
+                                <a href='https://protectmyministry.com/recruit/Ministry_Position_Descriptions.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sample Background Report - Protect My Ministry">
+                                <img itemprop="contentUrl url" src='https://www.protectmyministry.com/wp-content/uploads/2017/08/Sample-Background-Report-pdf-232x300.jpg' alt='Sample Background Report - Protect My Ministry'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="232">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Protect My Ministry" />
+                                </span>
+                                <a href='https://www.protectmyministry.com/wp-content/uploads/2017/08/Sample-Background-Report-pdf-232x300.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

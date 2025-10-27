@@ -1,0 +1,129 @@
+<title>Candy Land Backdrop: Sweet Moments Await!</title>
+                    <meta name="description" content="Bring your celebration to life with our Candy Land backdrop! Perfect for parties and photo ops, this colorful design creates a magical atmosphere, ensuring delightful memories for everyone. Sweeten your event today!">
+                    <meta name="keywords" content="candy land backdrop">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/candy-land-backdrop">
+                            <span itemprop="name">candy land backdrop</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Candy Land Backdrop: Sweet Moments Await!</h1>
+                <p>Transform any event into a whimsical wonderland with a Candy Land backdrop! Ideal for parties, photo booths, and themed events, this vibrant design features colorful candies, lollipops, and fantastic landscapes that inspire joy and creativity. It's perfect for kids and adults alike, making your celebrations unforgettable!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Candyland Backdrop 7x5FT Cartoon Rainbow Lollipop Icecream  Sweet Donut Candy Photography Background for 1st First Birthday Party ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81cJuhpJVRL.jpg' alt='Amazon.com : Candyland Backdrop 7x5FT Cartoon Rainbow Lollipop Icecream  Sweet Donut Candy Photography Background for 1st First Birthday Party ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81cJuhpJVRL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : SVBright Candyland Backdrop 7(W) x 5(H) ft Fantasy Lollipop  Baby Shower Banner Candy Castle Party Wonderland Sweet Cartoon Ice Cream ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/817zDeoug5L.jpg' alt='Amazon.com : SVBright Candyland Backdrop 7(W) x 5(H) ft Fantasy Lollipop  Baby Shower Banner Candy Castle Party Wonderland Sweet Cartoon Ice Cream ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1972">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/817zDeoug5L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Candy Valley Photography Backdrop, Town, Two Sweet, Desert, Magical,  Lollipops, Gumdrops, Peppermints, Cake Smash, 1st Birthday, Theme Party">
+                                <img itemprop="contentUrl url" src='https://www.backdropsandfloors.com/assets/images/Candy_Land_2.jpg' alt='Candy Valley Photography Backdrop, Town, Two Sweet, Desert, Magical,  Lollipops, Gumdrops, Peppermints, Cake Smash, 1st Birthday, Theme Party'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="930">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backdrops and Floors" />
+                                </span>
+                                <a href='https://www.backdropsandfloors.com/assets/images/Candy_Land_2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Candyland Backdrop, Candyland Party Backdrop, Sweets and Candy Party  Backdrop, Candyland Party, Gingerbread House Backdrop Printable - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/9226873/r/il/c5c5de/1496019280/il_1080xN.1496019280_h1z9.jpg' alt='Candyland Backdrop, Candyland Party Backdrop, Sweets and Candy Party  Backdrop, Candyland Party, Gingerbread House Backdrop Printable - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/9226873/r/il/c5c5de/1496019280/il_1080xN.1496019280_h1z9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Candyland Castle & Mountain | Backdrops Fantastic Australia">
+                                <img itemprop="contentUrl url" src='https://www.backdrops.com.au/wp-content/uploads/2015/11/FY050C-Candyland-5C.jpg' alt='Candyland Castle & Mountain | Backdrops Fantastic Australia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="561">
+                                <meta itemprop="height" content="272">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backdrops Fantastic Australia" />
+                                </span>
+                                <a href='https://www.backdrops.com.au/wp-content/uploads/2015/11/FY050C-Candyland-5C.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple Candy Land Happy Birthday Backdrop For Girl">
+                                <img itemprop="contentUrl url" src='http://www.lofarisbackdrop.com/cdn/shop/products/simple-candy-land-happy-birthday-backdrop-for-girl-custom-made-free-shipping-246.jpg?v=1717718984' alt='Simple Candy Land Happy Birthday Backdrop For Girl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lofaris" />
+                                </span>
+                                <a href='http://www.lofarisbackdrop.com/cdn/shop/products/simple-candy-land-happy-birthday-backdrop-for-girl-custom-made-free-shipping-246.jpg?v=1717718984' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Candyland Castle Photography Backdrop GBSX-99733">
+                                <img itemprop="contentUrl url" src='http://allenjoystudio.com/cdn/shop/files/Colorful_Candyland_Castle_GB_SGACYCF.jpg?v=1718385366' alt='Colorful Candyland Castle Photography Backdrop GBSX-99733'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="697">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Allenjoy Studio" />
+                                </span>
+                                <a href='http://allenjoystudio.com/cdn/shop/files/Colorful_Candyland_Castle_GB_SGACYCF.jpg?v=1718385366' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="82.7"x59" Candyland Backdrop Gingerbread Party Banner Decorations Candy  Land Background, Kids Baby Shower Birthday Decorations Photography Photo  Booth ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71yXzpq-mZL._AC_UF894,1000_QL80_.jpg' alt='82.7"x59" Candyland Backdrop Gingerbread Party Banner Decorations Candy  Land Background, Kids Baby Shower Birthday Decorations Photography Photo  Booth ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="642">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71yXzpq-mZL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kate Fantasy Candyland Pastel Lollipop Backdrop Designed by ...">
+                                <img itemprop="contentUrl url" src='https://www.katebackdrop.com/cdn/shop/files/797bfe17562f24057ddbf74d0a111785.jpg?v=1727102659&width=1000' alt='Kate Fantasy Candyland Pastel Lollipop Backdrop Designed by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kate Backdrop" />
+                                </span>
+                                <a href='https://www.katebackdrop.com/cdn/shop/files/797bfe17562f24057ddbf74d0a111785.jpg?v=1727102659&width=1000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Candyland Castle">
+                                <img itemprop="contentUrl url" src='https://fancyprops.com/cdn/shop/files/webCandyLandCastle.jpg?v=1684934899' alt='Candyland Castle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Fabric & Props" />
+                                </span>
+                                <a href='https://fancyprops.com/cdn/shop/files/webCandyLandCastle.jpg?v=1684934899' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

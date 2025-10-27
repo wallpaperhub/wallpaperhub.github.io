@@ -1,0 +1,129 @@
+<title>Epic Maze Runner Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover a collection of breathtaking Maze Runner wallpapers that capture the excitement of the series! Perfect for fans, these visually stunning designs will elevate your device's appearance. Find your favorite characters and moments, and make your screens come alive with the thrill of the Maze!">
+                    <meta name="keywords" content="maze runner wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/maze-runner-wallpaper">
+                            <span itemprop="name">maze runner wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Maze Runner Wallpapers for Your Device</h1>
+                <p>Enhance your device's aesthetic with stunning Maze Runner wallpapers! Featuring breathtaking visuals and iconic characters from the thrilling series, these wallpapers bring the intense atmosphere of the Glade and the Maze to your screens. Perfect for fans seeking inspiration or simply a fresh look for their home or lock screen.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maze Runner Wallpaper | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/0cefab25-3449-4779-a8fd-f3d92d3368d9' alt='Maze Runner Wallpaper | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1012">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Maze Runner Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/0cefab25-3449-4779-a8fd-f3d92d3368d9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD maze runner wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/817/577/HD-wallpaper-maze-runner-the-maze-runner-thomas-thumbnail.jpg' alt='HD maze runner wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/817/577/HD-wallpaper-maze-runner-the-maze-runner-thomas-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Maze Runner HD Wallpaper: Escape the Maze">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/616/616460.jpg' alt='The Maze Runner HD Wallpaper: Escape the Maze'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/616/616460.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="the maze runner lockscreen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/71/82/ba/7182bad23f228815020c5b13c6f2ae2a.jpg' alt='the maze runner lockscreen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="422">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/71/82/ba/7182bad23f228815020c5b13c6f2ae2a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The maze runner 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperflare.com/static/499/188/860/maze-runner-the-death-cure-giancarlo-esposito-thomas-brodie-sangster-dexter-darden-wallpaper.jpg' alt='The maze runner 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3452">
+                                <meta itemprop="height" content="5000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://www.wallpaperflare.com/static/499/188/860/maze-runner-the-death-cure-giancarlo-esposito-thomas-brodie-sangster-dexter-darden-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The maze runner wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d3/e3/bd/d3e3bdbe36f93e4132a07a03104fd3e0.jpg' alt='The maze runner wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d3/e3/bd/d3e3bdbe36f93e4132a07a03104fd3e0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Maze Runner Wallpapers (57 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/e/a/f/368078-2160x3840-mobile-4k-the-maze-runner-wallpaper.jpg' alt='The Maze Runner Wallpapers (57 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/e/a/f/368078-2160x3840-mobile-4k-the-maze-runner-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Maze Runner Official Poster Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/the-maze-runner-official-poster-sh40qm7nrwetxcyw.jpg' alt='The Maze Runner Official Poster Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/the-maze-runner-official-poster-sh40qm7nrwetxcyw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The maze runner wallpaper - by me | The Glade Amino">
+                                <img itemprop="contentUrl url" src='http://pm1.aminoapps.com/7787/88a3fa9c3a9c9d9ca1417258ae111cdad70029ber1-1255-2048v2_uhq.jpg' alt='The maze runner wallpaper - by me | The Glade Amino'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1255">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amino Apps" />
+                                </span>
+                                <a href='http://pm1.aminoapps.com/7787/88a3fa9c3a9c9d9ca1417258ae111cdad70029ber1-1255-2048v2_uhq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Maze Runner Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/maze-runner-9d03uoikxuce52tl.jpg' alt='100+] Maze Runner Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/maze-runner-9d03uoikxuce52tl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

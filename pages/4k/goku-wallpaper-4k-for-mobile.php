@@ -1,0 +1,129 @@
+<title>Stunning 4K Goku Wallpapers for Mobile</title>
+                    <meta name="description" content="Discover the best 4K Goku wallpapers for your mobile! Elevate your device with vibrant, high-definition images of your favorite Dragon Ball character. Perfect for anime fans looking to personalize their screens with iconic Goku art. Download now and enjoy a vibrant upgrade!">
+                    <meta name="keywords" content="goku wallpaper 4k for mobile">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/goku-wallpaper-4k-for-mobile">
+                            <span itemprop="name">goku wallpaper 4k for mobile</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Goku Wallpapers for Mobile</h1>
+                <p>Transform your mobile experience with stunning Goku wallpaper in 4K resolution! Featuring vibrant colors and dynamic designs, these wallpapers bring your favorite Saiyan to life right on your device. Perfect for anime lovers, download now and showcase Goku's epic adventures on your screen!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Perfect Ui Wallpaper (phone)...found on twitter! : r/dbz">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/d9rglynx0qk01.jpg' alt='Goku Perfect Ui Wallpaper (phone)...found on twitter! : r/dbz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1348">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/d9rglynx0qk01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WallpaperSun">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/85/ab/13/85ab13beba66b3cfeffa64a5301778ec.jpg' alt='WallpaperSun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/85/ab/13/85ab13beba66b3cfeffa64a5301778ec.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best 555+ Goku Wallpaper, 4K, 8K, 16K, HD, Phone, iPhone, Mobile ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fc/2f/d2/fc2fd2d1ce9f17004026e1f6ff67a977.jpg' alt='Best 555+ Goku Wallpaper, 4K, 8K, 16K, HD, Phone, iPhone, Mobile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fc/2f/d2/fc2fd2d1ce9f17004026e1f6ff67a977.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Goku, anime, dbz, dragon ball z, goku, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/541/671/HD-wallpaper-modern-goku-anime-dbz-dragon-ball-z-goku.jpg' alt='Modern Goku, anime, dbz, dragon ball z, goku, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/541/671/HD-wallpaper-modern-goku-anime-dbz-dragon-ball-z-goku.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Wallpaper 4K, Beast Mode, AMOLED">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/goku-beast-mode-amoled-black-background-minimal-1440x2560-4946.png' alt='Goku Wallpaper 4K, Beast Mode, AMOLED'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/goku-beast-mode-amoled-black-background-minimal-1440x2560-4946.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku 4K HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/threads/DFecpNZve3g/0/image.jpg' alt='Goku 4K HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="957">
+                                <meta itemprop="height" content="1898">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Threads" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/threads/DFecpNZve3g/0/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download wallpaper 240x320 ultra goku, muscular body, fan art, old ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersmug.com/download/320x480/d55327/ultra-goku-fana-rt.jpg' alt='Download wallpaper 240x320 ultra goku, muscular body, fan art, old ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersMug" />
+                                </span>
+                                <a href='https://wallpapersmug.com/download/320x480/d55327/ultra-goku-fana-rt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="KING Asta. on X: "Wallpaper 4k Mobile, Anime Goku pt.3    https ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/GTg4Dy1XoAA_MN5.png' alt='KING Asta. on X: "Wallpaper 4k Mobile, Anime Goku pt.3    https ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/GTg4Dy1XoAA_MN5.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Anime Dark Mobile Wallpaper">
+                                <img itemprop="contentUrl url" src='https://save.zerowallpaper.com/mobilewallpaper/hdv/goku_anime_dark-8074.webp' alt='Goku Anime Dark Mobile Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="786">
+                                <meta itemprop="height" content="1397">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ZeroWallpaper" />
+                                </span>
+                                <a href='https://save.zerowallpaper.com/mobilewallpaper/hdv/goku_anime_dark-8074.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Wallpaper 4K for Mobile | Phones">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/phone/images/640/goku.png' alt='Goku Wallpaper 4K for Mobile | Phones'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/phone/images/640/goku.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

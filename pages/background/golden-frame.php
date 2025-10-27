@@ -1,0 +1,129 @@
+<title>Enhance Your Art with a Golden Frame: Elegance Redefined</title>
+                    <meta name="description" content="Discover the transformative power of a golden frame. Perfect for any artwork or photo, it adds a touch of elegance and sophistication, making your memories shine brighter. Elevate your decor and make a statement with a stunning golden frame today!">
+                    <meta name="keywords" content="golden frame">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/golden-frame">
+                            <span itemprop="name">golden frame</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enhance Your Art with a Golden Frame: Elegance Redefined</h1>
+                <p>A golden frame enhances the beauty of any artwork or photograph, adding a touch of elegance and luxury. Its shimmering finish catches the light, drawing attention and elevating the piece it surrounds. Whether in a contemporary or traditional setting, a golden frame serves as a stunning focal point, making memories timeless and precious.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com - Baroque Frame Gold Finely Decorated 839 ORO, Empty Frame 7x9  inch">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/716TF88dxKL.jpg' alt='Amazon.com - Baroque Frame Gold Finely Decorated 839 ORO, Empty Frame 7x9  inch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/716TF88dxKL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thin Rectangle Golden Frame PNG & SVG Design For T-Shirts">
+                                <img itemprop="contentUrl url" src='https://images.vexels.com/media/users/3/152669/isolated/preview/34e0d7f4a79ed6fd68d5a0f8eaa4c8f1-thin-rectangle-golden-frame.png' alt='Thin Rectangle Golden Frame PNG & SVG Design For T-Shirts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vexels" />
+                                </span>
+                                <a href='https://images.vexels.com/media/users/3/152669/isolated/preview/34e0d7f4a79ed6fd68d5a0f8eaa4c8f1-thin-rectangle-golden-frame.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classical Frame 11x14" - Gold">
+                                <img itemprop="contentUrl url" src='https://www.jerrysartarama.com/media/catalog/product/cache/1ed84fc5c90a0b69e5179e47db6d0739/0/0/0082303000000-st-01-classical-gold.jpg' alt='Classical Frame 11x14" - Gold'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="522">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jerry's Artarama" />
+                                </span>
+                                <a href='https://www.jerrysartarama.com/media/catalog/product/cache/1ed84fc5c90a0b69e5179e47db6d0739/0/0/0082303000000-st-01-classical-gold.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="22" X 36" RESTORED ANTIQUE ORNATE PICTURE FRAME RE- FINISHED IN 22K GOLD  LEAF">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-1a728/images/stencil/1280x1280/products/606/2974/IMG_2648__97367.1639514939.png?c=2' alt='22" X 36" RESTORED ANTIQUE ORNATE PICTURE FRAME RE- FINISHED IN 22K GOLD  LEAF'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="944">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Frame Masters" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-1a728/images/stencil/1280x1280/products/606/2974/IMG_2648__97367.1639514939.png?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Frame Images – Browse 2,876,782 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/84/88/90/360_F_484889059_BUc3rZZez7gPz6PV07ME7LPR6pI3pglP.jpg' alt='Gold Frame Images – Browse 2,876,782 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/84/88/90/360_F_484889059_BUc3rZZez7gPz6PV07ME7LPR6pI3pglP.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golden Luxury Frame - Gold Ornate Oval Frame - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/lnd/20240427/icz/aamj8utll.webp' alt='Golden Luxury Frame - Gold Ornate Oval Frame - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/lnd/20240427/icz/aamj8utll.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Antique Gold - Frame for Limited Edition Canvas">
+                                <img itemprop="contentUrl url" src='http://thomaskinkade.com/cdn/shop/products/25x34_antgld.jpg?v=1685012556' alt='Antique Gold - Frame for Limited Edition Canvas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1196">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Thomas Kinkade Studios" />
+                                </span>
+                                <a href='http://thomaskinkade.com/cdn/shop/products/25x34_antgld.jpg?v=1685012556' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Frame Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/007/505/964/small_2x/rectangle-frame-in-gilded-wood-striped-ornate-golden-picture-frame-classic-gold-luxury-border-illustration-isolated-on-white-background-vector.jpg' alt='Gold Frame Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/007/505/964/small_2x/rectangle-frame-in-gilded-wood-striped-ornate-golden-picture-frame-classic-gold-luxury-border-illustration-isolated-on-white-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flat Golden Frame - Ornate Golden Rectangular Frame for Artwork ...">
+                                <img itemprop="contentUrl url" src='https://icon2.cleanpng.com/20240110/yyu/transparent-gold-border-golden-framed-picture-on-black-background-with-1710930384368.webp' alt='Flat Golden Frame - Ornate Golden Rectangular Frame for Artwork ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://icon2.cleanpng.com/20240110/yyu/transparent-gold-border-golden-framed-picture-on-black-background-with-1710930384368.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo & Art Print Vintage golden frame mockup on a wall, Rawpixel.com">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/v2/jpg/07/89/40/87/1000_F_789408798_78ViixZGzamscZvgpQH5QXp8CEeRk6wo.jpg' alt='Photo & Art Print Vintage golden frame mockup on a wall, Rawpixel.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abposters.com" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/v2/jpg/07/89/40/87/1000_F_789408798_78ViixZGzamscZvgpQH5QXp8CEeRk6wo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

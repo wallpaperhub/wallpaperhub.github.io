@@ -1,0 +1,129 @@
+<title>Cool iPhone Wallpapers: Stylish Designs for Your Screen</title>
+                    <meta name="description" content="Explore a curated collection of cool iPhone wallpapers that enhance your device's style. Featuring unique designs and vibrant colors, our wallpapers are perfect for personalizing your home screen. Download your favorites now for a fresh and trendy look!">
+                    <meta name="keywords" content="iphone:gxo41y6onjm= cool wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphonegxo41y6onjm-cool-wallpaper">
+                            <span itemprop="name">iphone:gxo41y6onjm= cool wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cool iPhone Wallpapers: Stylish Designs for Your Screen</h1>
+                <p>Looking for cool iPhone wallpapers? Discover a selection of stunning designs, from minimalist art to vibrant landscapes. Customize your screen with high-resolution images that reflect your style. Perfect for making your iPhone stand out! Download your favorite wallpaper today and give your device a fresh look.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I phone wallpapers 4k wallpapers 4k unique iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/22/e1/96/22e19679ae2dd608b5e95a9f5a22634c.jpg' alt='I phone wallpapers 4k wallpapers 4k unique iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="655">
+                                <meta itemprop="height" content="1164">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/22/e1/96/22e19679ae2dd608b5e95a9f5a22634c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Wallpapers - Find Your Perfect iPhone Background with 4K ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/2486168/pexels-photo-2486168.jpeg?cs=srgb&dl=pexels-rpnickson-2486168.jpg&fm=jpg' alt='iPhone Wallpapers - Find Your Perfect iPhone Background with 4K ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3648">
+                                <meta itemprop="height" content="5472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/2486168/pexels-photo-2486168.jpeg?cs=srgb&dl=pexels-rpnickson-2486168.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some more cool iPhone wallpaper I have over 200 to upload : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/some-more-cool-iphone-wallpaper-i-have-over-200-to-upload-v0-4nl7ogt7qj9b1.jpg?width=640&crop=smart&auto=webp&s=6666bf764441ae6de1e71c2c7da16cf950ba2b36' alt='Some more cool iPhone wallpaper I have over 200 to upload : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/some-more-cool-iphone-wallpaper-i-have-over-200-to-upload-v0-4nl7ogt7qj9b1.jpg?width=640&crop=smart&auto=webp&s=6666bf764441ae6de1e71c2c7da16cf950ba2b36' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made 15 iPhone wallpapers of my fav operators (i drew them all ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/720kd9ebokz61.jpg?width=1080&crop=smart&auto=webp&s=1caf60be63785cc2f31f83d3868a09154b752103' alt='I made 15 iPhone wallpapers of my fav operators (i drew them all ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2337">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/720kd9ebokz61.jpg?width=1080&crop=smart&auto=webp&s=1caf60be63785cc2f31f83d3868a09154b752103' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Wallpaper | Free Aesthetic HD & 4K Mobile Phone Images ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjE5LTEzLWItZWxlbWVudGdyb3VwLXRlLTAwMWEtYi5qcGc.jpg' alt='Iphone Wallpaper | Free Aesthetic HD & 4K Mobile Phone Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjE5LTEzLWItZWxlbWVudGdyb3VwLXRlLTAwMWEtYi5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sparkling Diamond Water Art | 4K Crystal Gem Digital Instant ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/48804819/r/il/8e6e90/5856172485/il_570xN.5856172485_euvx.jpg' alt='Sparkling Diamond Water Art | 4K Crystal Gem Digital Instant ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/48804819/r/il/8e6e90/5856172485/il_570xN.5856172485_euvx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Awesome Backgrounds for iPhone 6 - Bing images">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/95/f4/9d/95f49d22aff7ce7fa15b3d1438202768.jpg' alt='Cool Awesome Backgrounds for iPhone 6 - Bing images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/95/f4/9d/95f49d22aff7ce7fa15b3d1438202768.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Wallpapers - Find Your Perfect iPhone Background with 4K ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1624496/pexels-photo-1624496.jpeg' alt='iPhone Wallpapers - Find Your Perfect iPhone Background with 4K ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1624496/pexels-photo-1624496.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made 15 iPhone wallpapers of my fav operators (i drew them all ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/35urz8ebokz61.jpg' alt='I made 15 iPhone wallpapers of my fav operators (i drew them all ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/35urz8ebokz61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone 14 Pro Neon Blue Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/iphone-14-pro-neon-blue-g8wgmrxxa92bqeq1.jpg' alt='Iphone 14 Pro Neon Blue Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/iphone-14-pro-neon-blue-g8wgmrxxa92bqeq1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

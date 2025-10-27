@@ -1,0 +1,129 @@
+<title>Smiley Face Peel and Stick Wallpaper - Easy Decor Change</title>
+                    <meta name="description" content="Add a cheerful touch to your space with smiley face peel and stick wallpaper! Perfect for kids' rooms or play areas, it's easy to apply, remove, and reposition. Enjoy hassle-free decorating that brightens your environment with vibrant smiles. Transform your decor in minutes!">
+                    <meta name="keywords" content="smiley face peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/smiley-face-peel-and-stick-wallpaper">
+                            <span itemprop="name">smiley face peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Smiley Face Peel and Stick Wallpaper - Easy Decor Change</h1>
+                <p>Transform your space with our smiley face peel and stick wallpaper! This fun, vibrant design brings joy and personality to any room, whether it's a child's bedroom, playroom, or even a creative workspace. Easy to apply and remove, this wallpaper offers a hassle-free way to refresh your walls without damage. Brighten your decor today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Be Happy Wallpaper">
+                                <img itemprop="contentUrl url" src='http://wallblush.com/cdn/shop/files/BeHappy--Playroom.jpg?v=1715991229&width=2048' alt='Be Happy Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1813">
+                                <meta itemprop="height" content="1813">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='http://wallblush.com/cdn/shop/files/BeHappy--Playroom.jpg?v=1715991229&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smiley Face - Small Sample - 9” wide by 6” high / Peel and Stick">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0115/3266/4932/files/muse-wall-studio-smiley-face-removable-wallpaper-smiley-face-45587598377276.png?v=1710558827' alt='Smiley Face - Small Sample - 9” wide by 6” high / Peel and Stick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MUSE Wall Studio" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0115/3266/4932/files/muse-wall-studio-smiley-face-removable-wallpaper-smiley-face-45587598377276.png?v=1710558827' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="18"x236"Modern Flowers Pink Abstract Smiley Face Peel and Stick Self  Adhesive Wallpaper Removable Contact Paper Stick on Easy Peel Off Wall  Paper for ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71pWqtWjXbL._AC_UF894,1000_QL80_.jpg' alt='18"x236"Modern Flowers Pink Abstract Smiley Face Peel and Stick Self  Adhesive Wallpaper Removable Contact Paper Stick on Easy Peel Off Wall  Paper for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71pWqtWjXbL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Smiley- Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://ourlocalwallpaperstudio.com/cdn/shop/files/purpleandcreamfloral-09.svg?v=1704747653' alt='Colorful Smiley- Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Our Local Wallpaper Studio" />
+                                </span>
+                                <a href='http://ourlocalwallpaperstudio.com/cdn/shop/files/purpleandcreamfloral-09.svg?v=1704747653' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smiley Face Peel and Stick Removable Wallpaper | Love vs. Design">
+                                <img itemprop="contentUrl url" src='https://d3vakg5bfkrjtg.cloudfront.net/smiley_face_wallpaper/smiley_face_wallpaper_hallway.png.webp' alt='Smiley Face Peel and Stick Removable Wallpaper | Love vs. Design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love vs. Design" />
+                                </span>
+                                <a href='https://d3vakg5bfkrjtg.cloudfront.net/smiley_face_wallpaper/smiley_face_wallpaper_hallway.png.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smiley Face Peel and Stick Wallpaper, Nursery Neutral Decor ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/33830106/r/il/9c5bcc/5020593282/il_570xN.5020593282_eor7.jpg' alt='Smiley Face Peel and Stick Wallpaper, Nursery Neutral Decor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/33830106/r/il/9c5bcc/5020593282/il_570xN.5020593282_eor7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smiley Face Pink Contact Paper Peel and Stick Wallpaper Removable ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27349619/r/il/9e9688/5164015530/il_570xN.5164015530_jzj5.jpg' alt='Smiley Face Pink Contact Paper Peel and Stick Wallpaper Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27349619/r/il/9e9688/5164015530/il_570xN.5164015530_jzj5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LUXE Traditional / 2 ft (h) x 19 in (w)">
+                                <img itemprop="contentUrl url" src='https://wallblush.com/cdn/shop/products/behappy1.jpg?v=1715991269&width=828' alt='LUXE Traditional / 2 ft (h) x 19 in (w)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="828">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='https://wallblush.com/cdn/shop/products/behappy1.jpg?v=1715991269&width=828' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smiley Face Peel and Stick Removable Wallpaper | Love vs. Design">
+                                <img itemprop="contentUrl url" src='https://d3vakg5bfkrjtg.cloudfront.net/smiley_face_wallpaper/smiley_face_wallpaper_wall.png.webp' alt='Smiley Face Peel and Stick Removable Wallpaper | Love vs. Design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love vs. Design" />
+                                </span>
+                                <a href='https://d3vakg5bfkrjtg.cloudfront.net/smiley_face_wallpaper/smiley_face_wallpaper_wall.png.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VistaPalette 18"x236"Modern Flowers Pink Abstract Smiley Face Peel and  Stick Self Adhesive Wallpaper Removable Contact Paper Stick on Easy Peel  Off ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61Fa4DO-mjL.jpg' alt='VistaPalette 18"x236"Modern Flowers Pink Abstract Smiley Face Peel and  Stick Self Adhesive Wallpaper Removable Contact Paper Stick on Easy Peel  Off ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61Fa4DO-mjL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

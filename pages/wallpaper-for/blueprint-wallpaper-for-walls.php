@@ -1,0 +1,129 @@
+<title>Stylish Blueprint Wallpaper for Stunning Walls</title>
+                    <meta name="description" content="Discover the beauty of blueprint wallpaper, ideal for transforming any space. Featuring intricate designs and vibrant colors, it's perfect for accent walls or whole rooms. Elevate your home decor with this artistic choice that sparks creativity and conversation.">
+                    <meta name="keywords" content="blueprint wallpaper for walls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/blueprint-wallpaper-for-walls">
+                            <span itemprop="name">blueprint wallpaper for walls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Blueprint Wallpaper for Stunning Walls</h1>
+                <p>Blueprint wallpaper for walls adds a unique charm, combining elegance with creativity. Perfect for various spaces, this design features intricate patterns and vibrant colors, creating a stunning visual impact. Ideal for accent walls or entire rooms, blueprint wallpaper transforms your home and sparks conversation with its artistic flair.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Blueprint Inspired Removable Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0115/3266/4932/products/muse-wall-studio-dark-blueprint-inspired-removable-wallpaper-blueprints-9730655354980.jpg?v=1619811071' alt='Dark Blueprint Inspired Removable Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MUSE Wall Studio" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0115/3266/4932/products/muse-wall-studio-dark-blueprint-inspired-removable-wallpaper-blueprints-9730655354980.jpg?v=1619811071' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blueprint Inspired Peel & Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://musewallstudio.com/cdn/shop/products/muse-wall-studio-blueprint-inspired-peel-stick-wallpaper-machinations-8630776103012_620x.png?v=1619794051' alt='Blueprint Inspired Peel & Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MUSE Wall Studio" />
+                                </span>
+                                <a href='https://musewallstudio.com/cdn/shop/products/muse-wall-studio-blueprint-inspired-peel-stick-wallpaper-machinations-8630776103012_620x.png?v=1619794051' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blueprint Wallpaper">
+                                <img itemprop="contentUrl url" src='https://aboutmurals.ca/wp-content/uploads/2021/09/Blueprint-Wallpaper-Engineering-Room-About-Murals.jpg' alt='Blueprint Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="About Murals" />
+                                </span>
+                                <a href='https://aboutmurals.ca/wp-content/uploads/2021/09/Blueprint-Wallpaper-Engineering-Room-About-Murals.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Airplane Blueprint">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/52266/airplane-blueprint-1.jpg?h=699&q=85' alt='Airplane Blueprint'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="466">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/52266/airplane-blueprint-1.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Piston Blueprint Wall Mural">
+                                <img itemprop="contentUrl url" src='https://www.eazywallz.com/cdn/shop/products/Vintage_Blueprints-_12_2_1400x.jpg?v=1680107855' alt='Vintage Piston Blueprint Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1066">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eazywallz" />
+                                </span>
+                                <a href='https://www.eazywallz.com/cdn/shop/products/Vintage_Blueprints-_12_2_1400x.jpg?v=1680107855' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Technical Electronics Blueprint Wall Mural">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/237793/Technical-Electronics-Blueprint-Wallpaper-Mural.jpg?v=638231395942170000' alt='Technical Electronics Blueprint Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/237793/Technical-Electronics-Blueprint-Wallpaper-Mural.jpg?v=638231395942170000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blueprint Car, Train Wallpaper, Peel & Stick and Traditional ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21757028/r/il/b4fb78/5430292945/il_570xN.5430292945_358a.jpg' alt='Blueprint Car, Train Wallpaper, Peel & Stick and Traditional ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21757028/r/il/b4fb78/5430292945/il_570xN.5430292945_358a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plane Blueprint">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/interiors/48670/landscape/wallpaper/room88.jpg?w=2000&q=80' alt='Plane Blueprint'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1090">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/interiors/48670/landscape/wallpaper/room88.jpg?w=2000&q=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blueprints Patent Wallpaper Architecture Peel and Stick & Art Wall ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18177859/r/il/1399b2/4108034831/il_fullxfull.4108034831_c5a4.jpg' alt='Blueprints Patent Wallpaper Architecture Peel and Stick & Art Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2126">
+                                <meta itemprop="height" content="1584">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18177859/r/il/1399b2/4108034831/il_fullxfull.4108034831_c5a4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blueprint - Cobalt - Level Wallcoverings">
+                                <img itemprop="contentUrl url" src='https://findyourlevel.com/wp-content/uploads/2023/01/Blueprint_Blue_R2.jpg' alt='Blueprint - Cobalt - Level Wallcoverings'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="509">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Level Wallcoverings" />
+                                </span>
+                                <a href='https://findyourlevel.com/wp-content/uploads/2023/01/Blueprint_Blue_R2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

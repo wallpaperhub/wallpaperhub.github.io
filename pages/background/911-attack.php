@@ -1,0 +1,129 @@
+<title>Understanding the 9/11 Attack: A Historical Overview</title>
+                    <meta name="description" content="Explore the impact and legacy of the 9/11 attack, one of history's pivotal moments. Learn about the events of September 11, 2001, the lives lost, and the global repercussions that reshaped security and foreign relations. Discover the ongoing significance of this tragic event.">
+                    <meta name="keywords" content="9/11 attack">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/911-attack">
+                            <span itemprop="name">9/11 attack</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding the 9/11 Attack: A Historical Overview</h1>
+                <p>The 9/11 attack on September 11, 2001, remains one of the most significant events in modern history. Orchestrated by the extremist group al-Qaeda, the coordinated attacks targeted the World Trade Center in New York City and the Pentagon in Washington, D.C. Thousands lost their lives, leading to profound global changes in security and foreign policy.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="September 11 attacks | History, Summary, Location, Timeline ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/33/129733-050-AF95D301/Smoke-flames-twin-towers-attacks-World-Trade-September-11-2001.jpg' alt='September 11 attacks | History, Summary, Location, Timeline ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1387">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/33/129733-050-AF95D301/Smoke-flames-twin-towers-attacks-World-Trade-September-11-2001.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Defining images from the 9/11 attacks - September 11, 2023 | Reuters">
+                                <img itemprop="contentUrl url" src='https://www.reuters.com/resizer/v2/USODFXWODBIKPLEZTN6ULBMTIA.jpg?auth=3f44e9a1877e557615ad9f45edd9ccd9a1ca07023d3a5f4f47ace33550ec5adb&width=1200&quality=80' alt='Defining images from the 9/11 attacks - September 11, 2023 | Reuters'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="896">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Defining images from the 9/11 attacks - September 11, 2023 | Reuters" />
+                                </span>
+                                <a href='https://www.reuters.com/resizer/v2/USODFXWODBIKPLEZTN6ULBMTIA.jpg?auth=3f44e9a1877e557615ad9f45edd9ccd9a1ca07023d3a5f4f47ace33550ec5adb&width=1200&quality=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="September 11 attacks | History, Summary, Location, Timeline ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/25/74225-050-7F97DCE4/second-jetliners-terrorists-al-Qaeda-smoke-billows-crash-Sept-11-2001.jpg' alt='September 11 attacks | History, Summary, Location, Timeline ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1426">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/25/74225-050-7F97DCE4/second-jetliners-terrorists-al-Qaeda-smoke-billows-crash-Sept-11-2001.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="September 11 attacks: What happened on 9/11?">
+                                <img itemprop="contentUrl url" src='https://ichef.bbci.co.uk/news/480/cpsprodpb/76DD/production/_133692403_twintowers.jpg.webp' alt='September 11 attacks: What happened on 9/11?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC" />
+                                </span>
+                                <a href='https://ichef.bbci.co.uk/news/480/cpsprodpb/76DD/production/_133692403_twintowers.jpg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="World Trade Center and Pentagon attacked on Sept. 11, 2001 - Los ...">
+                                <img itemprop="contentUrl url" src='https://ca-times.brightspotcdn.com/dims4/default/49edb7d/2147483647/strip/true/crop/2000x1347+0+0/resize/1200x808!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F2b%2Fd8%2Fd1cca6577d1a553dfae7588b4d93%2Fla-xpm-photo-2001-sep-12-na-sept-11-attack-201105-01' alt='World Trade Center and Pentagon attacked on Sept. 11, 2001 - Los ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="808">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Los Angeles Times" />
+                                </span>
+                                <a href='https://ca-times.brightspotcdn.com/dims4/default/49edb7d/2147483647/strip/true/crop/2000x1347+0+0/resize/1200x808!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F2b%2Fd8%2Fd1cca6577d1a553dfae7588b4d93%2Fla-xpm-photo-2001-sep-12-na-sept-11-attack-201105-01' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trial for Men Accused of Plotting 9/11 Attacks Is Set for 2021 ...">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2019/08/30/us/politics/30dc-gitmo/merlin_153327405_ee84e5ea-e4d2-461a-95c8-3b70c035ada0-articleLarge.jpg?quality=75&auto=webp&disable=upscale' alt='Trial for Men Accused of Plotting 9/11 Attacks Is Set for 2021 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="426">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2019/08/30/us/politics/30dc-gitmo/merlin_153327405_ee84e5ea-e4d2-461a-95c8-3b70c035ada0-articleLarge.jpg?quality=75&auto=webp&disable=upscale' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="September 11 Attacks: 20th Anniversary Stories">
+                                <img itemprop="contentUrl url" src='https://cdn.aarp.net/content/dam/aarp/politics/events-and-history/2021/08/1140-9-11-towers-attack-explosion.jpg' alt='September 11 Attacks: 20th Anniversary Stories'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1140">
+                                <meta itemprop="height" content="655">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AARP" />
+                                </span>
+                                <a href='https://cdn.aarp.net/content/dam/aarp/politics/events-and-history/2021/08/1140-9-11-towers-attack-explosion.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chilling aerial photos of 9/11 attack released">
+                                <img itemprop="contentUrl url" src='https://www.metrowestdailynews.com/gcdn/authoring/2010/02/11/NMWD/ghows-WL-81ff1f53-d3c0-4c79-bb0d-aeacf519a46d-2821aa54.jpeg?width=660&height=881&fit=crop&format=pjpg&auto=webp' alt='Chilling aerial photos of 9/11 attack released'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="881">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MetroWest Daily News" />
+                                </span>
+                                <a href='https://www.metrowestdailynews.com/gcdn/authoring/2010/02/11/NMWD/ghows-WL-81ff1f53-d3c0-4c79-bb0d-aeacf519a46d-2821aa54.jpeg?width=660&height=881&fit=crop&format=pjpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What 9/11 Changed: Reflecting on the Cultural Legacy of the ...">
+                                <img itemprop="contentUrl url" src='https://news.virginia.edu/sites/default/files/9-11_what_changed_header.jpg' alt='What 9/11 Changed: Reflecting on the Cultural Legacy of the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UVA Today - The University of Virginia" />
+                                </span>
+                                <a href='https://news.virginia.edu/sites/default/files/9-11_what_changed_header.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9/11 Terror Attacks: 15 facts that you may not know | World News ...">
+                                <img itemprop="contentUrl url" src='https://static.toiimg.com/thumb/msid-103574682,width-1280,height-720,imgsize-79598,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg' alt='9/11 Terror Attacks: 15 facts that you may not know | World News ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Times of India" />
+                                </span>
+                                <a href='https://static.toiimg.com/thumb/msid-103574682,width-1280,height-720,imgsize-79598,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

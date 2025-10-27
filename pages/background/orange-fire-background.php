@@ -1,0 +1,129 @@
+<title>Vibrant Orange Fire Backgrounds for Design</title>
+                    <meta name="description" content="Discover stunning orange fire backgrounds that add energy and warmth to your designs. Perfect for websites and social media, these vibrant backgrounds enhance your visual projects and captivate your audience. Explore the power of fiery hues today!">
+                    <meta name="keywords" content="orange fire background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/orange-fire-background">
+                            <span itemprop="name">orange fire background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Orange Fire Backgrounds for Design</h1>
+                <p>Orange fire backgrounds can create an intense and passionate atmosphere, perfect for various design projects. Their vibrant tones evoke warmth, energy, and creativity, making them ideal for websites, social media, or event promotions. Use these captivating backgrounds to draw attention and enhance visual appeal in your compositions.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smokey Orange Fire & Flames Digital Paper Seamless Background ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28921914/r/il/0ae97d/3490191628/il_fullxfull.3490191628_h448.jpg' alt='Smokey Orange Fire & Flames Digital Paper Seamless Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28921914/r/il/0ae97d/3490191628/il_fullxfull.3490191628_h448.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15,100+ Orange Fire Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1422373993/vector/vector-stipple-illustration-of-storm-clouds.jpg?s=612x612&w=0&k=20&c=HyESofMFFsjHgTKtuPfrir6VO2zzOste_1BAuwDeaMs=' alt='15,100+ Orange Fire Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="348">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1422373993/vector/vector-stipple-illustration-of-storm-clouds.jpg?s=612x612&w=0&k=20&c=HyESofMFFsjHgTKtuPfrir6VO2zzOste_1BAuwDeaMs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A bright orange and yellow fire with a black background photo ...">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1566996533071-2c578080c06e?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' alt='A bright orange and yellow fire with a black background photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1566996533071-2c578080c06e?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15,100+ Orange Fire Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1412628822/vector/autumn-japanese-style-background-abstract-orange-and-red-watercolor.jpg?s=612x612&w=0&k=20&c=fV4-PLO_RJgrzr0utjEOHBHA4He9tfvxfLS-kI6crxk=' alt='15,100+ Orange Fire Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="252">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1412628822/vector/autumn-japanese-style-background-abstract-orange-and-red-watercolor.jpg?s=612x612&w=0&k=20&c=fV4-PLO_RJgrzr0utjEOHBHA4He9tfvxfLS-kI6crxk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange Fire Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/007/681/892/non_2x/realistic-fire-illustration-vector.jpg' alt='Orange Fire Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/007/681/892/non_2x/realistic-fire-illustration-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smokey Blaze Orange Firey Flames Digital Paper Background Seamless ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28921914/r/il/afd967/3730645428/il_570xN.3730645428_30od.jpg' alt='Smokey Blaze Orange Firey Flames Digital Paper Background Seamless ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="518">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28921914/r/il/afd967/3730645428/il_570xN.3730645428_30od.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange Fire Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/still-life-with-psychedelic-colored-background_23-2149635355.jpg' alt='Orange Fire Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/still-life-with-psychedelic-colored-background_23-2149635355.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fire orange abstract background by Michalakis Ppalis">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/fire-orange-abstract-background-michalis-ppalis.jpg' alt='Fire orange abstract background by Michalakis Ppalis'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="621">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fine Art America" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/fire-orange-abstract-background-michalis-ppalis.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange Flames Images – Browse 2,233,545 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/10/45/21/30/360_F_1045213018_OP96QckSwE2dcOxqlKzG581QT9tWzlSs.jpg' alt='Orange Flames Images – Browse 2,233,545 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/10/45/21/30/360_F_1045213018_OP96QckSwE2dcOxqlKzG581QT9tWzlSs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange Flame Fire Background Wallpaper Image For Free Download ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210714/original/pngtree-orange-flame-fire-background-picture-image_1233590.jpg' alt='Orange Flame Fire Background Wallpaper Image For Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210714/original/pngtree-orange-flame-fire-background-picture-image_1233590.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

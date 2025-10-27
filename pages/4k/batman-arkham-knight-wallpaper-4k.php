@@ -1,0 +1,129 @@
+<title>Epic 4K Batman Arkham Knight Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore a collection of high-quality 4K Batman Arkham Knight wallpapers. Perfect for fans looking to enhance their devices with dynamic and visually striking images of the Dark Knight in iconic moments. Download the best wallpapers today!">
+                    <meta name="keywords" content="batman arkham knight wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/batman-arkham-knight-wallpaper-4k">
+                            <span itemprop="name">batman arkham knight wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic 4K Batman Arkham Knight Wallpapers for Your Device</h1>
+                <p>Discover stunning 4K Batman Arkham Knight wallpapers that bring the dark, gritty atmosphere of Gotham City to your device. Whether you're a fan of Batman, the Arkham series, or amazing graphics, these wallpapers will elevate your screen's appearance. Choose from iconic scenes and striking imagery that captures the essence of the caped crusader.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Updated] The Beauty of Batman: Arkham Knight (Screenshots) : r ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/FRvBzXuXDdm7Wy84yDjHFwFboOiWuLCPDOp-0mZLGSo.jpg?auto=webp&s=982ccaee53898827b099ee6dcb0f19ef44b77dbc' alt='Updated] The Beauty of Batman: Arkham Knight (Screenshots) : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/FRvBzXuXDdm7Wy84yDjHFwFboOiWuLCPDOp-0mZLGSo.jpg?auto=webp&s=982ccaee53898827b099ee6dcb0f19ef44b77dbc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Arkham Knight 4k Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/arkham-knight-4k-wefkncct7shf7zir.jpg' alt='100+] Arkham Knight 4k Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/arkham-knight-4k-wefkncct7shf7zir.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Atelier Steam::[UHD] Batman: Arkham Knight - 4K 60FPS Wallpapers">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/831329213371554739/67BAAC4111E1BF2DEE38DB6E8DB188D9D61044C0/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Atelier Steam::[UHD] Batman: Arkham Knight - 4K 60FPS Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/831329213371554739/67BAAC4111E1BF2DEE38DB6E8DB188D9D61044C0/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Batman: Arkham Knight - New 4K Screenshot Revealed">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/mBtqGsN.jpg' alt='Batman: Arkham Knight - New 4K Screenshot Revealed'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3686">
+                                <meta itemprop="height" content="2073">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DSOGaming" />
+                                </span>
+                                <a href='http://i.imgur.com/mBtqGsN.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Batman: Arkham Knight and Batmobile HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/510/thumb-1920-510745.jpg' alt='Batman: Arkham Knight and Batmobile HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/510/thumb-1920-510745.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Knight, Batman: Arkham Knight, Batman, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/426/403/HD-wallpaper-knight-batman-arkham-knight-batman.jpg' alt='Knight, Batman: Arkham Knight, Batman, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1116">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/426/403/HD-wallpaper-knight-batman-arkham-knight-batman.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Batman: Arkham Knight #6 - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/-Mg0r2HQf3g/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLChtOAVgcZxbTevqepObMCmR7idNw' alt='Batman: Arkham Knight #6 - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/-Mg0r2HQf3g/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLChtOAVgcZxbTevqepObMCmR7idNw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Batman: Arkham Knight 4K Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/497/thumb-1920-497505.jpg' alt='Batman: Arkham Knight 4K Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/497/thumb-1920-497505.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Batman Arkham Knight Live Wallpaper">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/media/2726/batman-arkham-knight.jpg' alt='Batman Arkham Knight Live Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/media/2726/batman-arkham-knight.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a Batman Arkham Knight wallpaper inspired by the Batman ...">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/4cP2Q46.jpg' alt='I made a Batman Arkham Knight wallpaper inspired by the Batman ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://i.imgur.com/4cP2Q46.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Charming Pink Baby Shark Background for Kids</title>
+                    <meta name="description" content="Discover the adorable pink baby shark background perfect for nurseries! This vibrant design combines fun and charm, creating an enchanting atmosphere for kids' spaces. Ideal for inspiring play and creativity, it’s a must-have for any little shark lover's room.">
+                    <meta name="keywords" content="pink baby shark background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pink-baby-shark-background">
+                            <span itemprop="name">pink baby shark background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Pink Baby Shark Background for Kids</h1>
+                <p>Transform any space into an underwater wonderland with a pink baby shark background. Perfect for nurseries or playrooms, this playful design brings joy and whimsy with its vibrant pink hues and adorable shark characters. It's a delightful way to inspire imaginative play and create a soothing atmosphere for your little ones.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fundo baby shark rosa | Shark theme birthday, Shark themed ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/91/57/a5/9157a59b6322cbc381aa96fc171b0928.jpg' alt='Fundo baby shark rosa | Shark theme birthday, Shark themed ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/91/57/a5/9157a59b6322cbc381aa96fc171b0928.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Twinkle Twinkle Little Star Backdrop Banner, Step and Repeat Backdrop  Banner, Twinkle little star baby shower, Custom Backdrop Blue Gold">
+                                <img itemprop="contentUrl url" src='https://shop.twinsprint.com/cdn/shop/products/Screen_Shot_2020-03-04_at_11.42.48_AM_530x@2x.png?v=1583340362' alt='Twinkle Twinkle Little Star Backdrop Banner, Step and Repeat Backdrop  Banner, Twinkle little star baby shower, Custom Backdrop Blue Gold'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1060">
+                                <meta itemprop="height" content="855">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Twins Print" />
+                                </span>
+                                <a href='https://shop.twinsprint.com/cdn/shop/products/Screen_Shot_2020-03-04_at_11.42.48_AM_530x@2x.png?v=1583340362' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby Shark Pink Theme">
+                                <img itemprop="contentUrl url" src='http://bigbigbee.com/cdn/shop/products/IBB186.jpg?v=1676647477' alt='Baby Shark Pink Theme'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="793">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BigBigBee Party Sign" />
+                                </span>
+                                <a href='http://bigbigbee.com/cdn/shop/products/IBB186.jpg?v=1676647477' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon Little Shark Round Pink Happy Birthday Backdrop">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/51/88/86/5188869bc9b1ad974075322db1977795.jpg' alt='Cartoon Little Shark Round Pink Happy Birthday Backdrop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/51/88/86/5188869bc9b1ad974075322db1977795.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7x5ft Cartoon Pink Baby Shark Family Photo Background for Children ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/717uoJ5X+OL._AC_UF1000,1000_QL80_.jpg' alt='7x5ft Cartoon Pink Baby Shark Family Photo Background for Children ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.ae" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/717uoJ5X+OL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Fong Baby Shark (Pink Theme)">
+                                <img itemprop="contentUrl url" src='http://bigbigbee.com/cdn/shop/products/BBB354.jpg?v=1625996491' alt='Pink Fong Baby Shark (Pink Theme)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="793">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BigBigBee Party Sign" />
+                                </span>
+                                <a href='http://bigbigbee.com/cdn/shop/products/BBB354.jpg?v=1625996491' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Baby Shark wallpaper (Mommy Shark) by Nightingale1000 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8ebb6da0-a4af-473d-a056-a031ee282c43/df5hnc5-91b29ac4-1edd-4147-8c4d-74b0fa1e2c49.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhlYmI2ZGEwLWE0YWYtNDczZC1hMDU2LWEwMzFlZTI4MmM0M1wvZGY1aG5jNS05MWIyOWFjNC0xZWRkLTQxNDctOGM0ZC03NGIwZmExZTJjNDkuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.T3xy14isjbYaj0ngq5M1DEoFkwYqvhA5DVxrj5aeM_A' alt='Baby Shark wallpaper (Mommy Shark) by Nightingale1000 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="889">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8ebb6da0-a4af-473d-a056-a031ee282c43/df5hnc5-91b29ac4-1edd-4147-8c4d-74b0fa1e2c49.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhlYmI2ZGEwLWE0YWYtNDczZC1hMDU2LWEwMzFlZTI4MmM0M1wvZGY1aG5jNS05MWIyOWFjNC0xZWRkLTQxNDctOGM0ZC03NGIwZmExZTJjNDkuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.T3xy14isjbYaj0ngq5M1DEoFkwYqvhA5DVxrj5aeM_A' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Baby Shark Family Party - 769678280953">
+                                <img itemprop="contentUrl url" src='https://media.rainpos.com/Checker/BS00340C1.jpg' alt='Pink Baby Shark Family Party - 769678280953'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sewing Machine Center" />
+                                </span>
+                                <a href='https://media.rainpos.com/Checker/BS00340C1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : FUNTON Baby Shark Backdrop (Pink), Baby Shark Party Supplies,  Baby Shark Birthday Decorations (5x3 FT)… : Electronics">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71KOU9mAk-L.jpg' alt='Amazon.com : FUNTON Baby Shark Backdrop (Pink), Baby Shark Party Supplies,  Baby Shark Birthday Decorations (5x3 FT)… : Electronics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71KOU9mAk-L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE Printable) - Cute Baby Shark Baby Shower Invitation Templates">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e6/6f/bf/e66fbf8c6ac05aaffa645f8e193e3569.jpg' alt='FREE Printable) - Cute Baby Shark Baby Shower Invitation Templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="526">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e6/6f/bf/e66fbf8c6ac05aaffa645f8e193e3569.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

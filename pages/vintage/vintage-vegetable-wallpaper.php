@@ -1,0 +1,129 @@
+<title>Charming Vintage Vegetable Wallpaper for Timeless Spaces</title>
+                    <meta name="description" content="Discover the beauty of vintage vegetable wallpaper! Perfect for kitchens and dining areas, these nostalgic designs enrich your space with rustic charm and character. Explore unique patterns that celebrate the simplicity of nature and create a warm, inviting atmosphere in your home.">
+                    <meta name="keywords" content="vintage vegetable wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage">
+                            <span itemprop="name">Vintage</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage/vintage-vegetable-wallpaper">
+                            <span itemprop="name">vintage vegetable wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Vintage Vegetable Wallpaper for Timeless Spaces</h1>
+                <p>Vintage vegetable wallpaper brings a charming touch to any space, evoking nostalgia with its rustic patterns and earthy hues. Ideal for kitchens or dining areas, these designs often feature fruits and vegetables in whimsical styles, enhancing the ambiance. Celebrate the beauty of retro decor with unique wallpaper that tells a story.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Vegetables Kitchen Wallpaper, Retro Kitchen Veggie Wall ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11123188/r/il/df7106/3374033287/il_fullxfull.3374033287_nxg4.jpg' alt='Vintage Vegetables Kitchen Wallpaper, Retro Kitchen Veggie Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11123188/r/il/df7106/3374033287/il_fullxfull.3374033287_nxg4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Farmhouse Vegetables Removable Wallpaper">
+                                <img itemprop="contentUrl url" src='http://livetteswallpaper.com/cdn/shop/products/3-VINTAGE-FARMHOUSE-VEGETABLES-REMOVABLE-WALLPAPER-Wallpaper-roll-image.jpg?v=1677251658' alt='Vintage Farmhouse Vegetables Removable Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livettes Wallpaper" />
+                                </span>
+                                <a href='http://livetteswallpaper.com/cdn/shop/products/3-VINTAGE-FARMHOUSE-VEGETABLES-REMOVABLE-WALLPAPER-Wallpaper-roll-image.jpg?v=1677251658' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vegetable Wallpaper, Veggie Print, Kitchen Wall Mural, Chef ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/50825472/r/il/d9add0/5982758895/il_570xN.5982758895_oxgq.jpg' alt='Vegetable Wallpaper, Veggie Print, Kitchen Wall Mural, Chef ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/50825472/r/il/d9add0/5982758895/il_570xN.5982758895_oxgq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1970s Vintage Wallpaper Veggies on Tile - Rosie's Vintage Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-own6dl/images/stencil/1280x1280/products/4146/14259/vintage-wallpaper-183__41785.1684850572.jpg?c=2' alt='1970s Vintage Wallpaper Veggies on Tile - Rosie's Vintage Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rosie's Vintage Wallpaper" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-own6dl/images/stencil/1280x1280/products/4146/14259/vintage-wallpaper-183__41785.1684850572.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fruit Growers Guide • Unique Kitchen Wallpaper • Milton & King">
+                                <img itemprop="contentUrl url" src='https://www.miltonandking.com/wp-content/uploads/2018/10/Wallpaper-Erstwhile-Fruit-Growers-1-1100x1318.jpg' alt='Fruit Growers Guide • Unique Kitchen Wallpaper • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1318">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://www.miltonandking.com/wp-content/uploads/2018/10/Wallpaper-Erstwhile-Fruit-Growers-1-1100x1318.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Vegetable Design | Happywall.com">
+                                <img itemprop="contentUrl url" src='https://happywall-img-gallery.imgix.net/84278/vegetable-vintage-encyclopedia-plate-roll.jpg?auto=format&q=40&w=2304' alt='Vintage Vegetable Design | Happywall.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2304">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-img-gallery.imgix.net/84278/vegetable-vintage-encyclopedia-plate-roll.jpg?auto=format&q=40&w=2304' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vegetable Garden Wallpaper">
+                                <img itemprop="contentUrl url" src='http://www.astekhome.com/cdn/shop/files/AV137_Vegetable_Garden_VEGETABLEGARDEN_175c62d1-d499-4b88-b420-3bf5971bb854_600x600.jpg?v=1738876989' alt='Vegetable Garden Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Astek Home" />
+                                </span>
+                                <a href='http://www.astekhome.com/cdn/shop/files/AV137_Vegetable_Garden_VEGETABLEGARDEN_175c62d1-d499-4b88-b420-3bf5971bb854_600x600.jpg?v=1738876989' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Vintage Vegetables Kitchen Wallpaper">
+                                <img itemprop="contentUrl url" src='https://artemest-cdn.myshopify.com/cdn/shop/files/94izop1blcl3iyso00tjts6rnmx2.jpg' alt='Black Vintage Vegetables Kitchen Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Artemest" />
+                                </span>
+                                <a href='https://artemest-cdn.myshopify.com/cdn/shop/files/94izop1blcl3iyso00tjts6rnmx2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Vegetable Kitchen Wallpaper, Retro Kitchen Veggie Wall ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11123188/r/il/f32298/4013960136/il_570xN.4013960136_p339.jpg' alt='Vintage Vegetable Kitchen Wallpaper, Retro Kitchen Veggie Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11123188/r/il/f32298/4013960136/il_570xN.4013960136_p339.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Vintage Vegetables Illustration: Farmhouse Kitchen ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81e-9BO5oAL._UF894,1000_QL80_.jpg' alt='Amazon.com: Vintage Vegetables Illustration: Farmhouse Kitchen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="813">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81e-9BO5oAL._UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

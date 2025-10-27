@@ -1,0 +1,129 @@
+<title>Aesthetic Barbie Wallpapers for Your iPhone</title>
+                    <meta name="description" content="Explore a curated collection of aesthetic Barbie wallpapers for your iPhone. Perfect for fans and style enthusiasts, these vibrant designs will personalize your device while showcasing your love for Barbie. Download and give your iPhone a fun makeover with these charming wallpapers!">
+                    <meta name="keywords" content="aesthetic barbie wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/aesthetic-barbie-wallpaper-iphone">
+                            <span itemprop="name">aesthetic barbie wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Barbie Wallpapers for Your iPhone</h1>
+                <p>Transform your iPhone with stunning aesthetic Barbie wallpapers! Discover a range of vibrant and stylish designs that celebrate Barbie's timeless charm. Perfect for fans and those who love a touch of whimsy in their devices, our wallpapers add a playful pop of color and personality to your screen. Update your vibe today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Iphone Pink Barbie Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-barbie-themed-collage-xb5hmqsgtg5nkp3k.jpg' alt='100+] Iphone Pink Barbie Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-barbie-themed-collage-xb5hmqsgtg5nkp3k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barbie Wallpaper for iPhone and Android">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e9/cf/f4/e9cff4b4a668ec9821d6c37b6976b316.jpg' alt='Barbie Wallpaper for iPhone and Android'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e9/cf/f4/e9cff4b4a668ec9821d6c37b6976b316.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Barbie Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/barbie-aesthetic-ahj8l7xtvvl8tyxf.jpg' alt='100+] Barbie Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/barbie-aesthetic-ahj8l7xtvvl8tyxf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD barbie aesthetic wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/153/587/HD-wallpaper-barbie-aesthetic-barbie-baddie-aesthetic.jpg' alt='HD barbie aesthetic wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/153/587/HD-wallpaper-barbie-aesthetic-barbie-baddie-aesthetic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2e/40/8d/2e408d0054ebc4313cda2927bcae6cdd.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2e/40/8d/2e408d0054ebc4313cda2927bcae6cdd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barbie wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2f/25/ef/2f25ef6bae08fa40d6b2c7d66905d8b6.jpg' alt='Barbie wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2f/25/ef/2f25ef6bae08fa40d6b2c7d66905d8b6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Barbie Inspired Wallpaper for Mobile | Pillow Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38183398/r/il/4d0a5c/5141823384/il_fullxfull.5141823384_8ecx.jpg' alt='3D Barbie Inspired Wallpaper for Mobile | Pillow Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2700">
+                                <meta itemprop="height" content="2025">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38183398/r/il/4d0a5c/5141823384/il_fullxfull.5141823384_8ecx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barbie pink aesthetic in 2022. iPhone design, Cute background ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/555/714/HD-wallpaper-aesthetic-pink-pink-girly-girl-iphone-pink-glitter-barbie-baddie-aesthetic-thumbnail.jpg' alt='Barbie pink aesthetic in 2022. iPhone design, Cute background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/555/714/HD-wallpaper-aesthetic-pink-pink-girly-girl-iphone-pink-glitter-barbie-baddie-aesthetic-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="barbie girl wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bb/c6/d0/bbc6d078010ceaee44b4ea77fdb7ba10.jpg' alt='barbie girl wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="677">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bb/c6/d0/bbc6d078010ceaee44b4ea77fdb7ba10.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="       #aesthetic #collage #barbie #pink #love #inspo #collageart ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/79/f6/d1/79f6d1d724fc9e14680e20764e9790b6.jpg' alt='       #aesthetic #collage #barbie #pink #love #inspo #collageart ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/79/f6/d1/79f6d1d724fc9e14680e20764e9790b6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

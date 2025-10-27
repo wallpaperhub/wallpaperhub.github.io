@@ -1,0 +1,129 @@
+<title>Chic Y2K Black Wallpapers for iPhone</title>
+                    <meta name="description" content="Discover stylish Y2K-inspired black wallpapers for your iPhone. Perfect for a trendy, retro look, these designs blend nostalgia with modern aesthetics. Elevate your smartphone with unique visuals that reflect the iconic early 2000s vibe. Download now for a fresh, eye-catching upgrade!">
+                    <meta name="keywords" content="y2k wallpaper iphone black">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/y2k-wallpaper-iphone-black">
+                            <span itemprop="name">y2k wallpaper iphone black</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Y2K Black Wallpapers for iPhone</h1>
+                <p>Explore the captivating world of Y2K wallpaper for your iPhone in sleek black. Perfect for those who love nostalgic vibes and aesthetic customizations, these wallpapers draw inspiration from the early 2000s digital trends. Transform your device with unique, stylish designs that pay homage to a distinctive era.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Y2k grunge">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/d4/bc/51/d4bc51a9039915b1bdb710c9fc24a72d.jpg' alt='Y2k grunge'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/d4/bc/51/d4bc51a9039915b1bdb710c9fc24a72d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Y2K black and white iPhone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/50/38/81/503881fe555a13a509f30e392ea24c65.jpg' alt='Y2K black and white iPhone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="624">
+                                <meta itemprop="height" content="1181">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/50/38/81/503881fe555a13a509f30e392ea24c65.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Black Y2k Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pixel-art-astronaut-dreamingin-space-i1tcysvp1ke5axtn.jpg' alt='100+] Black Y2k Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pixel-art-astronaut-dreamingin-space-i1tcysvp1ke5axtn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D iOS background, black y2k star">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/29/27/90/292790c0c57be410512d857dac3e6a58.jpg' alt='3D iOS background, black y2k star'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/29/27/90/292790c0c57be410512d857dac3e6a58.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Black Y2k Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/black-y2-k-aesthetic-hello-kitty-stars-8sqg8k1kfkhe397i.jpg' alt='100+] Black Y2k Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/black-y2-k-aesthetic-hello-kitty-stars-8sqg8k1kfkhe397i.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="white and black stars y2k wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d9/c4/ea/d9c4ea3fa05246dc8d287e6221a4dbb5.jpg' alt='white and black stars y2k wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="611">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d9/c4/ea/d9c4ea3fa05246dc8d287e6221a4dbb5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="y2k black aesthetic collage | iPhone Case">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.1348226966.9414/flat,750x1000,075,t.jpg' alt='y2k black aesthetic collage | iPhone Case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.1348226966.9414/flat,750x1000,075,t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Black Y2k Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/twinkling-starson-black-background-uju8283dcuah9eoh.jpg' alt='100+] Black Y2k Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/twinkling-starson-black-background-uju8283dcuah9eoh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper | y2k wallpaper cyber">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e5/7a/f3/e57af344268b767e4aebe7c5a272bec4.jpg' alt='Wallpaper | y2k wallpaper cyber'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e5/7a/f3/e57af344268b767e4aebe7c5a272bec4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="#wallpaper #name #ipad #fyp #viral #pretty #black #pari #foryoupage #y2k  @PARI here you go">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7325242569921809710&location=0&aid=1988' alt='#wallpaper #name #ipad #fyp #viral #pretty #black #pari #foryoupage #y2k  @PARI here you go'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7325242569921809710&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

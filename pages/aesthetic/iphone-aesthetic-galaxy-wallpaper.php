@@ -1,0 +1,129 @@
+<title>Stunning iPhone Galaxy Wallpapers for a Cosmic Aesthetic</title>
+                    <meta name="description" content="Discover captivating galaxy wallpapers for your iPhone! Elevate your device's look with vibrant cosmic designs that reflect your unique style. Perfect for space enthusiasts looking for an aesthetic upgrade. Download now to transform your screen!">
+                    <meta name="keywords" content="iphone aesthetic galaxy wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/iphone-aesthetic-galaxy-wallpaper">
+                            <span itemprop="name">iphone aesthetic galaxy wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning iPhone Galaxy Wallpapers for a Cosmic Aesthetic</h1>
+                <p>Transform your iPhone with stunning galaxy wallpapers that embody the beauty of the cosmos. Explore a collection of vibrant, high-resolution designs featuring swirling nebulae, shimmering stars, and celestial phenomena that enhance your device's aesthetics. Perfect for those who love space and want to showcase their style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space iPhone background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/dc/2d/a1/dc2da11abc33bd2221e25b17098badac.jpg' alt='Space iPhone background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/dc/2d/a1/dc2da11abc33bd2221e25b17098badac.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy in Water Phone Wallpaper I Galaxy Wallpaper | Digital Download |  iPhone Wallpaper Digital Phone Wallpaper - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38617086/r/il/ea2b8c/4448966325/il_1080xN.4448966325_q76r.jpg' alt='Galaxy in Water Phone Wallpaper I Galaxy Wallpaper | Digital Download |  iPhone Wallpaper Digital Phone Wallpaper - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1919">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38617086/r/il/ea2b8c/4448966325/il_1080xN.4448966325_q76r.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy In Light Purple Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/galaxy-in-light-purple-iphone-d4jf0mq730xnqpd2.webp' alt='Galaxy In Light Purple Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/galaxy-in-light-purple-iphone-d4jf0mq730xnqpd2.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20+ Best iPhone Wallpapers images - Wallpapers HD Quality ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/f4/a4/3e/f4a43e4b0ba007829f28f8c75fef4196.gif' alt='20+ Best iPhone Wallpapers images - Wallpapers HD Quality ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="362">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/f4/a4/3e/f4a43e4b0ba007829f28f8c75fef4196.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Galaxy Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/galaxy-iphone-2gndfht9r4bw8v89.jpg' alt='100+] Galaxy Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/galaxy-iphone-2gndfht9r4bw8v89.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Space Galaxy Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/cute-space-galaxy-iphone-uhaxp1j4y61fca4l.jpg' alt='Cute Space Galaxy Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/cute-space-galaxy-iphone-uhaxp1j4y61fca4l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Wallpaper Galaxy | Free Aesthetic HD & 4K Mobile Phone ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAzL3Jhd3BpeGVsX29mZmljZV81MV9waG90b19vZl9ibGFja19kYXJrX3NreV9iYWNrZ3JvdW5kX3NwYXJrbGVfbV9kOTdlMDhkOC03YzJlLTQzMDQtYTEzMi0xNjk5Mjg2NDRlMjRfMS5qcGc.jpg' alt='Iphone Wallpaper Galaxy | Free Aesthetic HD & 4K Mobile Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAzL3Jhd3BpeGVsX29mZmljZV81MV9waG90b19vZl9ibGFja19kYXJrX3NreV9iYWNrZ3JvdW5kX3NwYXJrbGVfbV9kOTdlMDhkOC03YzJlLTQzMDQtYTEzMi0xNjk5Mjg2NDRlMjRfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="aesthetic galaxy | Tumblr">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/94/23/21/942321ae7a6be77792cec5a4b1819252.jpg' alt='aesthetic galaxy | Tumblr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="456">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/94/23/21/942321ae7a6be77792cec5a4b1819252.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best La galaxy iPhone HD Wallpapers - iLikeWallpaper">
+                                <img itemprop="contentUrl url" src='https://r1.ilikewallpaper.net/iphone-12-pro-max-wallpapers/download-135478/la-galaxy.jpg' alt='Best La galaxy iPhone HD Wallpapers - iLikeWallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iLikeWallpaper" />
+                                </span>
+                                <a href='https://r1.ilikewallpaper.net/iphone-12-pro-max-wallpapers/download-135478/la-galaxy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fiery Saturn Galaxy Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/fiery-saturn-galaxy-iphone-ze0he3w5q8jydysw.jpg' alt='Fiery Saturn Galaxy Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="940">
+                                <meta itemprop="height" content="1667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/fiery-saturn-galaxy-iphone-ze0he3w5q8jydysw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

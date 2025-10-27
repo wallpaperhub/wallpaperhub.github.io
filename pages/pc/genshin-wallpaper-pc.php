@@ -1,0 +1,129 @@
+<title>Stunning Genshin Impact Wallpapers for PC</title>
+                    <meta name="description" content="Discover vibrant Genshin Impact wallpapers for your PC! Enhance your desktop with beautiful designs featuring your favorite characters and landscapes. Perfect for fans looking to personalize their experience and bring Teyvat to life on their screens. Download your favorites today!">
+                    <meta name="keywords" content="genshin wallpaper pc">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pc">
+                            <span itemprop="name">PC</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pc/genshin-wallpaper-pc">
+                            <span itemprop="name">genshin wallpaper pc</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Genshin Impact Wallpapers for PC</h1>
+                <p>Transform your PC with stunning Genshin Impact wallpapers! From vibrant landscapes to your favorite characters, these high-quality images will elevate your desktop experience. Find the perfect wallpaper that resonates with your style and immerse yourself in the enchanting world of Teyvat every time you log on.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="All Official Genshin Wallpapers (That I know of) +Previews & Bonus ...">
+                                <img itemprop="contentUrl url" src='https://upload-os-bbs.hoyolab.com/upload/2021/05/22/21867498/19fb8c0ff0e27428841a05ddbfc0851d_3933469727756591456.jpg' alt='All Official Genshin Wallpapers (That I know of) +Previews & Bonus ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HoYoLAB" />
+                                </span>
+                                <a href='https://upload-os-bbs.hoyolab.com/upload/2021/05/22/21867498/19fb8c0ff0e27428841a05ddbfc0851d_3933469727756591456.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Genshin Impact Official Wallpapers Genshin Impact | HoYoLAB">
+                                <img itemprop="contentUrl url" src='https://upload-os-bbs.hoyolab.com/upload/2023/10/04/36639475/a167606e9b48b207a396a0299df7a411_1651192867063520596.png?x-oss-process=image%2Fresize%2Cs_1000%2Fauto-orient%2C0%2Finterlace%2C1%2Fformat%2Cwebp%2Fquality%2Cq_70' alt='Genshin Impact Official Wallpapers Genshin Impact | HoYoLAB'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1778">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HoYoLAB" />
+                                </span>
+                                <a href='https://upload-os-bbs.hoyolab.com/upload/2023/10/04/36639475/a167606e9b48b207a396a0299df7a411_1651192867063520596.png?x-oss-process=image%2Fresize%2Cs_1000%2Fauto-orient%2C0%2Finterlace%2C1%2Fformat%2Cwebp%2Fquality%2Cq_70' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Genshin Impact Background Wallpaper 4K">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/download/hd-wallpapers/genshin-impact-3840x2160.jpg' alt='Genshin Impact Background Wallpaper 4K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/download/hd-wallpapers/genshin-impact-3840x2160.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Full Genshin Impact 3rd Anniversary Key Visual (upscaled) : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/50vhopk1nspb1.png' alt='Full Genshin Impact 3rd Anniversary Key Visual (upscaled) : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5000">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/50vhopk1nspb1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Albedo (Genshin Impact) Video Game Genshin Impact HD ...">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/119/1194308.jpg' alt='Download Albedo (Genshin Impact) Video Game Genshin Impact HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/119/1194308.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="All Official Genshin Wallpapers (That I know of) +Previews & Bonus ...">
+                                <img itemprop="contentUrl url" src='https://upload-os-bbs.hoyolab.com/upload/2022/08/11/21867498/a109164841d55e6183c749113c163e92_7071777993937728242.png?x-oss-process=image%2Fresize%2Cs_1000%2Fauto-orient%2C0%2Finterlace%2C1%2Fformat%2Cwebp%2Fquality%2Cq_70' alt='All Official Genshin Wallpapers (That I know of) +Previews & Bonus ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1067">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HoYoLAB" />
+                                </span>
+                                <a href='https://upload-os-bbs.hoyolab.com/upload/2022/08/11/21867498/a109164841d55e6183c749113c163e92_7071777993937728242.png?x-oss-process=image%2Fresize%2Cs_1000%2Fauto-orient%2C0%2Finterlace%2C1%2Fformat%2Cwebp%2Fquality%2Cq_70' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Genshin Impact - Dear Travelers, Paimon's brought you all ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=968543143995876' alt='Genshin Impact - Dear Travelers, Paimon's brought you all ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=968543143995876' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Freminet (Genshin Impact) Video Game Genshin Impact HD ...">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/133/1333014.png' alt='Download Freminet (Genshin Impact) Video Game Genshin Impact HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2800">
+                                <meta itemprop="height" content="1337">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/133/1333014.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K artwork + wallpaper of 3.3 livestream : r/Genshin_Impact">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/4k-artwork-wallpaper-of-3-3-livestream-v0-qcdobi8ll32a1.jpg?width=3840&format=pjpg&auto=webp&s=734893e80711a802bebcead82f12f90bb122282f' alt='4K artwork + wallpaper of 3.3 livestream : r/Genshin_Impact'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/4k-artwork-wallpaper-of-3-3-livestream-v0-qcdobi8ll32a1.jpg?width=3840&format=pjpg&auto=webp&s=734893e80711a802bebcead82f12f90bb122282f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="29 Genshin impact backgrounds ideas | wallpaper pc, wallpaper, impact">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/dd/f8/f0/ddf8f0560d99cd6a4ba20a6268d88b0b.jpg' alt='29 Genshin impact backgrounds ideas | wallpaper pc, wallpaper, impact'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="852">
+                                <meta itemprop="height" content="479">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/dd/f8/f0/ddf8f0560d99cd6a4ba20a6268d88b0b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

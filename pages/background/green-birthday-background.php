@@ -1,0 +1,129 @@
+<title>Vibrant Green Birthday Backgrounds for a Fresh Celebration</title>
+                    <meta name="description" content="Discover vibrant green birthday backgrounds that bring life to your celebrations. Perfect for all ages, these designs enhance the festive spirit while promoting a connection to nature. Explore options that suit your style and make your birthday unforgettable!">
+                    <meta name="keywords" content="green birthday background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/green-birthday-background">
+                            <span itemprop="name">green birthday background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Green Birthday Backgrounds for a Fresh Celebration</h1>
+                <p>Celebrate in style with a vibrant green birthday background! Perfect for nature lovers and eco-conscious individuals, this backdrop symbolizes growth and renewal. Whether you choose lush foliage, elegant patterns, or a simple green gradient, it sets a joyful tone for your special day. Add personal touches to make it memorable!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Birthday Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/horizontal-vector-greeting-card-template_95169-684.jpg?semt=ais_hybrid' alt='Green Birthday Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="481">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/horizontal-vector-greeting-card-template_95169-684.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7X5FT Green Happy Birthday Party Decorations Backdrop | Green and Gold  Theme Background| Birthday Photo Wall Poster">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/37545683/r/il/24f151/4450307988/il_570xN.4450307988_i7ej.jpg' alt='7X5FT Green Happy Birthday Party Decorations Backdrop | Green and Gold  Theme Background| Birthday Photo Wall Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/37545683/r/il/24f151/4450307988/il_570xN.4450307988_i7ej.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7,500+ Green Birthday Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1422079005/vector/birthday-vector-background-design-happy-birthday-text-with-gold-and-green-flying-balloons.jpg?s=612x612&w=0&k=20&c=XEI0WLaBXgrX8G_5x2m3K_FqZN-Glp8fjmTRJdUMgcg=' alt='7,500+ Green Birthday Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="268">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1422079005/vector/birthday-vector-background-design-happy-birthday-text-with-gold-and-green-flying-balloons.jpg?s=612x612&w=0&k=20&c=XEI0WLaBXgrX8G_5x2m3K_FqZN-Glp8fjmTRJdUMgcg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Birthday Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/042/328/698/small/elegant-happy-birthday-party-celebration-card-banner-template-with-green-balloons-free-vector.jpg' alt='Green Birthday Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/042/328/698/small/elegant-happy-birthday-party-celebration-card-banner-template-with-green-balloons-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Flat lay colorful gifts on table with green ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/21/60/67/216067055b0053c5b48ee12b08bc1bcb.jpg' alt='Premium Photo | Flat lay colorful gifts on table with green ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/21/60/67/216067055b0053c5b48ee12b08bc1bcb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Birthday Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/green-background-with-balloons-banner-that-says-happy-birthday_1164507-240.jpg?semt=ais_hybrid' alt='Green Birthday Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="470">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/green-background-with-balloons-banner-that-says-happy-birthday_1164507-240.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : 6x3.6FT Green Gold Happy Birthday Backdrop, Photography  Background Banner for Party Decoration : Electronics">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81HjYWbIkWL.jpg' alt='Amazon.com : 6x3.6FT Green Gold Happy Birthday Backdrop, Photography  Background Banner for Party Decoration : Electronics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81HjYWbIkWL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Birthday Banner Green Images – Browse 87,226 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/88/62/79/360_F_488627982_uOEqxI621YixtYm2pxv0QRwgzxtnUH35.jpg' alt='Happy Birthday Banner Green Images – Browse 87,226 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/88/62/79/360_F_488627982_uOEqxI621YixtYm2pxv0QRwgzxtnUH35.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="290 Green Birthday Background High Res Illustrations - Getty Images">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1345877148/vector/green-and-black-childrens-frame-design.jpg?s=612x612&w=gi&k=20&c=z0z2tw0BR56EHz6-emOc5RNIQaZ0KZKluKCTIM-6juc=' alt='290 Green Birthday Background High Res Illustrations - Getty Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1345877148/vector/green-and-black-childrens-frame-design.jpg?s=612x612&w=gi&k=20&c=z0z2tw0BR56EHz6-emOc5RNIQaZ0KZKluKCTIM-6juc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/61/f5/40/61f5407bfddc2a3a15e053df48341d61.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/61/f5/40/61f5407bfddc2a3a15e053df48341d61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

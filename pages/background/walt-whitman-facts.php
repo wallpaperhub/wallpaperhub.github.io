@@ -1,0 +1,129 @@
+<title>Discover Fascinating Walt Whitman Facts</title>
+                    <meta name="description" content="Explore intriguing facts about Walt Whitman, the father of free verse and author of "Leaves of Grass." Delve into his life, literary impact, and the ways he transformed poetry in America. Ideal for poetry lovers and history enthusiasts alike!">
+                    <meta name="keywords" content="walt whitman facts">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/walt-whitman-facts">
+                            <span itemprop="name">walt whitman facts</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Fascinating Walt Whitman Facts</h1>
+                <p>Walt Whitman, an influential American poet, is best known for his collection "Leaves of Grass," published first in 1855. Often considered the father of free verse, he celebrated individuality, democracy, and nature. Whitman's work broke traditional poetic conventions, embracing the human experience with honesty and passion. He was a transformative figure in American literature.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Walt Whitman | Biography, Poems, Leaves of Grass, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/80/26880-050-CEB5F414/Walt-Whitman-photograph-Mathew-Brady.jpg' alt='Walt Whitman | Biography, Poems, Leaves of Grass, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1209">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/80/26880-050-CEB5F414/Walt-Whitman-photograph-Mathew-Brady.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Walt Whitman | Biography, Poems, Leaves of Grass, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/69/180969-050-7B79E1FD/Walt-Whitman-1870.jpg' alt='Walt Whitman | Biography, Poems, Leaves of Grass, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/69/180969-050-7B79E1FD/Walt-Whitman-1870.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Walt Whitman - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/f/fa/Walt_Whitman_-_George_Collins_Cox.jpg' alt='Walt Whitman - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1983">
+                                <meta itemprop="height" content="2456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/f/fa/Walt_Whitman_-_George_Collins_Cox.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Walt whitman | PPT">
+                                <img itemprop="contentUrl url" src='https://cdn.slidesharecdn.com/ss_thumbnails/waltwhitman-111019123339-phpapp02-thumbnail.jpg?width=640&height=640&fit=bounds' alt='Walt whitman | PPT'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideShare" />
+                                </span>
+                                <a href='https://cdn.slidesharecdn.com/ss_thumbnails/waltwhitman-111019123339-phpapp02-thumbnail.jpg?width=640&height=640&fit=bounds' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="17 Things You Didn't Know About Walt Whitman">
+                                <img itemprop="contentUrl url" src='https://allthatsinteresting.com/wordpress/wp-content/uploads/2015/05/walt-whitman-surprising-facts-bearded.jpg' alt='17 Things You Didn't Know About Walt Whitman'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="All That's Interesting" />
+                                </span>
+                                <a href='https://allthatsinteresting.com/wordpress/wp-content/uploads/2015/05/walt-whitman-surprising-facts-bearded.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Biography of Walt Whitman, American Poet">
+                                <img itemprop="contentUrl url" src='https://www.thoughtco.com/thmb/Rt068iHdl0DQblYpJZhxkT1YnFI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Walt-Whitman-1863-3000-3x2gty-59df7833519de20011c36d93.jpg' alt='Biography of Walt Whitman, American Poet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1021">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ThoughtCo" />
+                                </span>
+                                <a href='https://www.thoughtco.com/thmb/Rt068iHdl0DQblYpJZhxkT1YnFI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Walt-Whitman-1863-3000-3x2gty-59df7833519de20011c36d93.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="17 Things You Didn't Know About Walt Whitman">
+                                <img itemprop="contentUrl url" src='https://allthatsinteresting.com/wordpress/wp-content/uploads/2015/05/walt-whitman-surprising-facts1.jpg' alt='17 Things You Didn't Know About Walt Whitman'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="458">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="All That's Interesting" />
+                                </span>
+                                <a href='https://allthatsinteresting.com/wordpress/wp-content/uploads/2015/05/walt-whitman-surprising-facts1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Things You Might Not Know About Walt Whitman">
+                                <img itemprop="contentUrl url" src='https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/shape/cover/sport/535696-walt-whitman-brady-handy-restoredwikimediacommons-9424902e08453b1e690d1ee5413b822c.jpg' alt='10 Things You Might Not Know About Walt Whitman'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mental Floss" />
+                                </span>
+                                <a href='https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/shape/cover/sport/535696-walt-whitman-brady-handy-restoredwikimediacommons-9424902e08453b1e690d1ee5413b822c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Walt Whitman's Family">
+                                <img itemprop="contentUrl url" src='https://www.waltwhitman.com/assets/img/walt-whitman.jpg' alt='Walt Whitman's Family'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walt Whitman" />
+                                </span>
+                                <a href='https://www.waltwhitman.com/assets/img/walt-whitman.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Walt Whitman - Poems, Quotes & Poetry">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/walt-whitman-gettyimages-181477993.jpg' alt='Walt Whitman - Poems, Quotes & Poetry'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4353">
+                                <meta itemprop="height" content="4353">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/walt-whitman-gettyimages-181477993.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

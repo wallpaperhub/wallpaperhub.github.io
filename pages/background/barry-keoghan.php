@@ -1,0 +1,129 @@
+<title>Barry Keoghan: Rising Star in Film Industry</title>
+                    <meta name="description" content="Explore the talent of Barry Keoghan, the Irish actor captivating audiences with his powerful performances in acclaimed films. Discover his journey and impact on modern cinema.">
+                    <meta name="keywords" content="barry keoghan">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/barry-keoghan">
+                            <span itemprop="name">barry keoghan</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Barry Keoghan: Rising Star in Film Industry</h1>
+                <p>Barry Keoghan is an Irish actor known for his compelling performances in films like "The Killing of a Sacred Deer" and "Eternals." His unique ability to convey complex emotions has garnered critical acclaim and a dedicated fanbase. With a distinctive style and rising star power, Keoghan continues to make an impact in Hollywood.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barry Keoghan - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/4/40/Barry_Keoghan_2024_%28cropped%29.jpg' alt='Barry Keoghan - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1482">
+                                <meta itemprop="height" content="2037">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/4/40/Barry_Keoghan_2024_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barry Keoghan | Rotten Tomatoes">
+                                <img itemprop="contentUrl url" src='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/738434_v9_bd.jpg' alt='Barry Keoghan | Rotten Tomatoes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rotten Tomatoes" />
+                                </span>
+                                <a href='https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/738434_v9_bd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sabrina Carpenter takes brutal swipe at Barry Keoghan in his own ...">
+                                <img itemprop="contentUrl url" src='https://i2-prod.irishstar.com/incoming/article34250804.ece/ALTERNATES/s615/6_sabrina-2.jpg' alt='Sabrina Carpenter takes brutal swipe at Barry Keoghan in his own ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="615">
+                                <meta itemprop="height" content="409">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Irish Star" />
+                                </span>
+                                <a href='https://i2-prod.irishstar.com/incoming/article34250804.ece/ALTERNATES/s615/6_sabrina-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barry Keoghan | Career Retrospective">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BNjU3OWFmMTctMDBjOC00ZjU2LWE3MmItOTE2MzVjMzQ4OTlmXkEyXkFqcGdeQW1pYnJ5YW50._V1_.jpg' alt='Barry Keoghan | Career Retrospective'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BNjU3OWFmMTctMDBjOC00ZjU2LWE3MmItOTE2MzVjMzQ4OTlmXkEyXkFqcGdeQW1pYnJ5YW50._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barry Keoghan Spent $10 to Make Audition Tape for 'The Batman'">
+                                <img itemprop="contentUrl url" src='https://www.hollywoodreporter.com/wp-content/uploads/2023/10/Barry-Keoghan-getty-H-2023.jpg' alt='Barry Keoghan Spent $10 to Make Audition Tape for 'The Batman''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1296">
+                                <meta itemprop="height" content="730">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Hollywood Reporter" />
+                                </span>
+                                <a href='https://www.hollywoodreporter.com/wp-content/uploads/2023/10/Barry-Keoghan-getty-H-2023.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Penguin – teaser trailer (HBO)">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/barry-keoghan-672b57e5b7170.jpg?resize=980:*' alt='The Penguin – teaser trailer (HBO)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="654">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Digital Spy" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/barry-keoghan-672b57e5b7170.jpg?resize=980:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Does Barry Keoghan's Joker From "The Batman" Look Like ...">
+                                <img itemprop="contentUrl url" src='https://bestlifeonline.com/media-library/barry-keoghan-in-2024.jpg?id=53415447&width=1245&height=700&quality=90&coordinates=0%2C5%2C0%2C121' alt='What Does Barry Keoghan's Joker From "The Batman" Look Like ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1245">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Best Life" />
+                                </span>
+                                <a href='https://bestlifeonline.com/media-library/barry-keoghan-in-2024.jpg?id=53415447&width=1245&height=700&quality=90&coordinates=0%2C5%2C0%2C121' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eternals' & 'Batman' Star Barry Keoghan To Lead Thriller 'Sapphire'">
+                                <img itemprop="contentUrl url" src='https://deadline.com/wp-content/uploads/2021/02/Barry-Keoghan.jpg' alt='Eternals' & 'Batman' Star Barry Keoghan To Lead Thriller 'Sapphire''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1669">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Deadline" />
+                                </span>
+                                <a href='https://deadline.com/wp-content/uploads/2021/02/Barry-Keoghan.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barry Keoghan on How Growing Up in Foster Care Gave Him Trust Issues">
+                                <img itemprop="contentUrl url" src='https://www.hollywoodreporter.com/wp-content/uploads/2024/12/Barry-Keoghan-Getty-H-2024.jpg?w=1296&h=730&crop=1' alt='Barry Keoghan on How Growing Up in Foster Care Gave Him Trust Issues'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1296">
+                                <meta itemprop="height" content="730">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Hollywood Reporter" />
+                                </span>
+                                <a href='https://www.hollywoodreporter.com/wp-content/uploads/2024/12/Barry-Keoghan-Getty-H-2024.jpg?w=1296&h=730&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barry Keoghan | The Batman Universe Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/the-batman-universe/images/e/ec/Barry_Keoghan.jpg/revision/latest?cb=20240807210312' alt='Barry Keoghan | The Batman Universe Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="921">
+                                <meta itemprop="height" content="1288">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Batman Universe Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/the-batman-universe/images/e/ec/Barry_Keoghan.jpg/revision/latest?cb=20240807210312' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

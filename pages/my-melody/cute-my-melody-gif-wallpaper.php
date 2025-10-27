@@ -1,0 +1,129 @@
+<title>Adorable My Melody GIF Wallpaper Collection</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="cute my melody gif wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/my-melody">
+                            <span itemprop="name">My Melody</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/my-melody/cute-my-melody-gif-wallpaper">
+                            <span itemprop="name">cute my melody gif wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable My Melody GIF Wallpaper Collection</h1>
+                <p>Transform your device with enchanting My Melody GIF wallpapers! With adorable designs and charming animations, these wallpapers bring a touch of cuteness to your screen. Perfect for fans of this beloved Sanrio character, you can express your love for My Melody while enjoying a lively and beautiful background that brightens your day!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Melody GIF: Adorable Animated Moments - Best Wallpaper HD">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/97/03/25/9703255f7cc1526582e2e65451d64be9.gif' alt='My Melody GIF: Adorable Animated Moments - Best Wallpaper HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="368">
+                                <meta itemprop="height" content="286">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/97/03/25/9703255f7cc1526582e2e65451d64be9.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="♡ mii ♡">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/82/0f/4f/820f4f8a922328eaadaab125678161a0.gif' alt='♡ mii ♡'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="615">
+                                <meta itemprop="height" content="453">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/82/0f/4f/820f4f8a922328eaadaab125678161a0.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LINE Official Stickers - My Melody Pop-Up Stickers Example with ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/d1/29/28/d12928acc398327d5f786be70777c36d.gif' alt='LINE Official Stickers - My Melody Pop-Up Stickers Example with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="330">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/d1/29/28/d12928acc398327d5f786be70777c36d.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LINE Official Stickers - My Melody: Absolutely Adorable Example ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/85/88/c9/8588c9294e43811783216ef12a52b97d.gif' alt='LINE Official Stickers - My Melody: Absolutely Adorable Example ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="370">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/85/88/c9/8588c9294e43811783216ef12a52b97d.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sanrio My Melody GIF - Sanrio My Melody Usagi - Discover & Share GIFs">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/22/2c/10/222c106d1e2cda6070f478ae95c1846f.gif' alt='Sanrio My Melody GIF - Sanrio My Melody Usagi - Discover & Share GIFs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="364">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/22/2c/10/222c106d1e2cda6070f478ae95c1846f.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Melody GIFs | GIFDB.com">
+                                <img itemprop="contentUrl url" src='https://gifdb.com/images/high/my-melody-tea-7xv7nj09jhyid41j.gif' alt='My Melody GIFs | GIFDB.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="569">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GIFDB.com" />
+                                </span>
+                                <a href='https://gifdb.com/images/high/my-melody-tea-7xv7nj09jhyid41j.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/8d/2c/3b/8d2c3b64a2b7a6122bf32e1cbc4afe0b.gif' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="362">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/8d/2c/3b/8d2c3b64a2b7a6122bf32e1cbc4afe0b.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by astrid Rodas on gif | Sanrio wallpaper, Hello kitty ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/21/d1/e2/21d1e2f4d18a68a583ffec6246a04b44.gif' alt='Pin by astrid Rodas on gif | Sanrio wallpaper, Hello kitty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/21/d1/e2/21d1e2f4d18a68a583ffec6246a04b44.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Melody: Easygoing Cuteness "English Edition" | Line Sticker">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/00/18/e3/0018e3df3cc8d5aaf42654eeed524bb8.gif' alt='My Melody: Easygoing Cuteness "English Edition" | Line Sticker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="370">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/00/18/e3/0018e3df3cc8d5aaf42654eeed524bb8.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mymelody GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/6bNZjX9GxAYAAAAM/hello-kitty-my-melody.gif' alt='Mymelody GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="153">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/6bNZjX9GxAYAAAAM/hello-kitty-my-melody.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

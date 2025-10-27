@@ -1,0 +1,129 @@
+<title>Soccer Ball Background: History & Design</title>
+                    <meta name="description" content="Discover the fascinating history and design of soccer balls. Explore how they evolved from traditional leather to modern materials, enhancing gameplay while retaining their iconic look. Perfect for enthusiasts wanting to learn more about this essential piece of sports equipment.">
+                    <meta name="keywords" content="soccer ball background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/soccer-ball-background">
+                            <span itemprop="name">soccer ball background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Soccer Ball Background: History & Design</h1>
+                <p>Soccer balls have a rich history and unique design that make them a crucial element of the game. Traditionally, they are made of leather or synthetic materials and come in the iconic black and white pentagonal pattern. The evolution of soccer balls has enhanced durability and performance, reflecting advances in technology while keeping the spirit of the sport alive.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soccer Ball Background Images – Browse 750,915 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/06/55/71/14/360_F_655711401_rxxCSr01bVOsDDQhEPejmQoR3WjmxC0Q.jpg' alt='Soccer Ball Background Images – Browse 750,915 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/06/55/71/14/360_F_655711401_rxxCSr01bVOsDDQhEPejmQoR3WjmxC0Q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A pile of purple and black soccer balls photo – Ball Image on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1675883659303-6201c6f5838b?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Zm9vfGVufDB8fDB8fHww' alt='A pile of purple and black soccer balls photo – Ball Image on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1675883659303-6201c6f5838b?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Zm9vfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soccer Ball Background Images – Browse 750,915 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/08/20/57/94/360_F_820579479_Dd0rkPMd3mEHpsYCYj3DQnWkAGQMTKU6.jpg' alt='Soccer Ball Background Images – Browse 750,915 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/08/20/57/94/360_F_820579479_Dd0rkPMd3mEHpsYCYj3DQnWkAGQMTKU6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background of soccer balls Royalty Free Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn3.vectorstock.com/i/1000x1000/37/97/background-of-soccer-balls-vector-17863797.jpg' alt='Background of soccer balls Royalty Free Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn3.vectorstock.com/i/1000x1000/37/97/background-of-soccer-balls-vector-17863797.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soccer Ball Background Stock Photos, Images and Backgrounds for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/049/511/906/non_2x/dynamic-soccer-ball-with-smoke-effect-and-vibrant-colors-in-a-misty-background-photo.jpg' alt='Soccer Ball Background Stock Photos, Images and Backgrounds for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1960">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/049/511/906/non_2x/dynamic-soccer-ball-with-smoke-effect-and-vibrant-colors-in-a-misty-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spotlight football glitters background with soccer ball Poster">
+                                <img itemprop="contentUrl url" src='https://img.pixers.pics/pho_wat(s3:700/FO/66/29/67/37/700_FO66296737_678135404bf42642f369c3694687ea47.jpg,700,700,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,650,jpg)/posters-spotlight-football-glitters-background-with-soccer-ball.jpg.jpg' alt='Spotlight football glitters background with soccer ball Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixers" />
+                                </span>
+                                <a href='https://img.pixers.pics/pho_wat(s3:700/FO/66/29/67/37/700_FO66296737_678135404bf42642f369c3694687ea47.jpg,700,700,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,650,jpg)/posters-spotlight-football-glitters-background-with-soccer-ball.jpg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sticker Soccer balls background. 3d illustration">
+                                <img itemprop="contentUrl url" src='https://img.pixers.pics/pho_wat(s3:700/FO/12/15/97/01/3/700_FO121597013_b8f299fc0dc80e3d12b326466d30b199.jpg,700,350,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,300,jpg)/stickers-soccer-balls-background-3d-illustration.jpg.jpg' alt='Sticker Soccer balls background. 3d illustration'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixers" />
+                                </span>
+                                <a href='https://img.pixers.pics/pho_wat(s3:700/FO/12/15/97/01/3/700_FO121597013_b8f299fc0dc80e3d12b326466d30b199.jpg,700,350,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,300,jpg)/stickers-soccer-balls-background-3d-illustration.jpg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soccer Ball Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/025/526/034/non_2x/abstract-soccer-ball-on-blue-watercolor-panoramic-background-mosaic-style-vector.jpg' alt='Soccer Ball Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1901">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/025/526/034/non_2x/abstract-soccer-ball-on-blue-watercolor-panoramic-background-mosaic-style-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soccer Ball Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvcm00ODQtMDEtMDJiLWt6bTdod3A3LmpwZw.jpg' alt='Soccer Ball Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvcm00ODQtMDEtMDJiLWt6bTdod3A3LmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soccer Ball Background Images – Browse 750,915 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/65/22/78/360_F_265227859_ZMqb2Po2FubWF0jgqe0Cn4ZdXx9SGpBf.jpg' alt='Soccer Ball Background Images – Browse 750,915 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="592">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/65/22/78/360_F_265227859_ZMqb2Po2FubWF0jgqe0Cn4ZdXx9SGpBf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

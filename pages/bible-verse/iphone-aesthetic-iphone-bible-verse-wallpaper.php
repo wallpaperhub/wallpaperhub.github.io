@@ -1,0 +1,129 @@
+<title>Inspire Your Day: Aesthetic iPhone Bible Verse Wallpapers</title>
+                    <meta name="description" content="Discover aesthetic iPhone wallpapers adorned with uplifting Bible verses. Perfect for daily inspiration, these beautiful designs will enhance your device while nourishing your spirit. Explore the perfect fusion of faith and style for your iPhone today!">
+                    <meta name="keywords" content="iphone aesthetic iphone bible verse wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bible-verse">
+                            <span itemprop="name">Bible Verse</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bible-verse/iphone-aesthetic-iphone-bible-verse-wallpaper">
+                            <span itemprop="name">iphone aesthetic iphone bible verse wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Inspire Your Day: Aesthetic iPhone Bible Verse Wallpapers</h1>
+                <p>Transform your iPhone with stunning aesthetic wallpapers featuring beautifully designed Bible verses. These wallpapers not only elevate your device's style but also inspire and uplift your spirit daily. Discover the perfect blend of faith and aesthetics for a motivational and visually appealing experience every time you unlock your phone.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christian wallpaper | Christian iphone wallpaper, Christian ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/f2/92/de/f292de6b037e4d045d01ca22fbb255a8.jpg' alt='Christian wallpaper | Christian iphone wallpaper, Christian ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="554">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/f2/92/de/f292de6b037e4d045d01ca22fbb255a8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bible Verse iPhone wallpaper, Aesthetic iPhone wallpaper, feminine iPhone  background, pink iphone wallpaper,">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/31971108/r/il/0ba559/3645848232/il_fullxfull.3645848232_ivcg.jpg' alt='Bible Verse iPhone wallpaper, Aesthetic iPhone wallpaper, feminine iPhone  background, pink iphone wallpaper,'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2700">
+                                <meta itemprop="height" content="2025">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/31971108/r/il/0ba559/3645848232/il_fullxfull.3645848232_ivcg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Bible Verse Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/bible-verse-iphone-1242-x-2208-f2fm1lilh5rojy37.jpg' alt='100+] Bible Verse Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/bible-verse-iphone-1242-x-2208-f2fm1lilh5rojy37.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sacred Scripture: Bible Verse Wallpapers For IPhone 14 Pro Max">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/66/05/e9/6605e9f1386d19a31f4232ee61814b4c.jpg' alt='Sacred Scripture: Bible Verse Wallpapers For IPhone 14 Pro Max'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1035">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/66/05/e9/6605e9f1386d19a31f4232ee61814b4c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bible Verse iPhone Wallpaper, Feminine iPhone Background, Aesthetic iPhone  Wallpaper, Christian iPhone Background - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/31971108/r/il/2dfbbf/3644910036/il_1080xN.3644910036_1vgd.jpg' alt='Bible Verse iPhone Wallpaper, Feminine iPhone Background, Aesthetic iPhone  Wallpaper, Christian iPhone Background - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/31971108/r/il/2dfbbf/3644910036/il_1080xN.3644910036_1vgd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Christian Wallpaper iPhone Background | Christian Resource ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/0e/12/00/0e1200f7016efe4ae8c0834a8806b522.jpg' alt='Free Christian Wallpaper iPhone Background | Christian Resource ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="711">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/0e/12/00/0e1200f7016efe4ae8c0834a8806b522.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bible Verse iPhone Wallpaper - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27699956/r/il/2f8337/2911559899/il_1080xN.2911559899_8ewv.jpg' alt='Bible Verse iPhone Wallpaper - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27699956/r/il/2f8337/2911559899/il_1080xN.2911559899_8ewv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Bible Verse Faith Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/aesthetic-bible-verse-galatians-2-20-5jijangy4diumw2t.webp' alt='Aesthetic Bible Verse Faith Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/aesthetic-bible-verse-galatians-2-20-5jijangy4diumw2t.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Love Jesus'">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/72/62/6f/72626fb198458f279c18cef6137e9a7c.jpg' alt='Love Jesus''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/72/62/6f/72626fb198458f279c18cef6137e9a7c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bible Verse, aesthetic, encouraging, inspiring, jesus, quote ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/421/527/HD-wallpaper-faith-encouragement-simple-bible-verse-thumbnail.jpg' alt='Bible Verse, aesthetic, encouraging, inspiring, jesus, quote ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="591">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/421/527/HD-wallpaper-faith-encouragement-simple-bible-verse-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

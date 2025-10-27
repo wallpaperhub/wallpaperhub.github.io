@@ -1,0 +1,129 @@
+<title>Best Friendship Day Wallpapers: Celebrate Your Bonds</title>
+                    <meta name="description" content="Discover stunning Friendship Day wallpapers that celebrate your cherished bonds. Perfect for personalizing your device, these eye-catching designs bring joy and warmth to the spirit of friendship. Download now and share the love with friends every day!">
+                    <meta name="keywords" content="friendship day wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/day">
+                            <span itemprop="name">Day</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/day/friendship-day-wallpaper">
+                            <span itemprop="name">friendship day wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Best Friendship Day Wallpapers: Celebrate Your Bonds</h1>
+                <p>Celebrate Friendship Day with vibrant and heartwarming wallpapers that capture the essence of friendship. From colorful graphics to heartfelt quotes, these wallpapers are perfect for sharing with friends or setting as your device background. Let the spirit of camaraderie shine on your screens and reinforce those special bonds!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Friendship Day Background, Happy, Friendship, Together ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210716/original/pngtree-happy-friendship-day-picture-image_1388687.jpg' alt='Happy Friendship Day Background, Happy, Friendship, Together ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210716/original/pngtree-happy-friendship-day-picture-image_1388687.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Friendship Day, 30 july, friends, friendship day, friendship ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/29/355/HD-wallpaper-happy-friendship-day-30-july-friends-friendship-day-friendship-day2020-iphone-rafale-reno4-samsung-wishes.jpg' alt='Happy Friendship Day, 30 july, friends, friendship day, friendship ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/29/355/HD-wallpaper-happy-friendship-day-30-july-friends-friendship-day-friendship-day2020-iphone-rafale-reno4-samsung-wishes.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 2 - Free and customizable friendship day templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFplK5lZ-I/1/0/900w/canva-blue-simple-photo-happy-friendship-day-your-story-i-h8aOwxnZc.jpg' alt='Page 2 - Free and customizable friendship day templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFplK5lZ-I/1/0/900w/canva-blue-simple-photo-happy-friendship-day-your-story-i-h8aOwxnZc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Friendship Day">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/f8/4e/01/f84e01f7f8ba9709c1ad9762f0a65bf7.png' alt='Friendship Day'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/f8/4e/01/f84e01f7f8ba9709c1ad9762f0a65bf7.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Friendship Day, friends, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/60/852/HD-wallpaper-happy-friendship-day-friends.jpg' alt='Happy Friendship Day, friends, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/60/852/HD-wallpaper-happy-friendship-day-friends.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Friendship Day Quotes Images 2024 | SocialStatusDP.com">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e8/1e/bc/e81ebc3eee8779a9d5cd8e1485459d36.jpg' alt='Happy Friendship Day Quotes Images 2024 | SocialStatusDP.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e8/1e/bc/e81ebc3eee8779a9d5cd8e1485459d36.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Friendship Day Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/guys-high-five-on-friendship-day-ac2f1zc971e4kpl3.jpg' alt='Friendship Day Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/guys-high-five-on-friendship-day-ac2f1zc971e4kpl3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Friendship Day Pictures | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/friendship-day-1920-x-1600-picture-adjm1yfamkmm2r47.jpg' alt='100+] Friendship Day Pictures | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/friendship-day-1920-x-1600-picture-adjm1yfamkmm2r47.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Friendship Day Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-drawn-international-friendship-day-illustration_23-2148964970.jpg?semt=ais_hybrid' alt='Friendship Day Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-drawn-international-friendship-day-illustration_23-2148964970.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Friendship Day Wallpaper - 06 - Desktop Wallpapers | Mocomi Kids">
+                                <img itemprop="contentUrl url" src='https://mocomi.com/wp-content/uploads/2015/07/FS_wall12.jpg' alt='Happy Friendship Day Wallpaper - 06 - Desktop Wallpapers | Mocomi Kids'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mocomi" />
+                                </span>
+                                <a href='https://mocomi.com/wp-content/uploads/2015/07/FS_wall12.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

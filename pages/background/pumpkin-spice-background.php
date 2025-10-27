@@ -1,0 +1,129 @@
+<title>Discover the Origins of Pumpkin Spice</title>
+                    <meta name="description" content="Explore the fascinating background of pumpkin spice, from its roots in traditional baking to its rise as a fall favorite. Learn how this sweet and spicy blend became a seasonal sensation, influencing drinks, desserts, and beyond.">
+                    <meta name="keywords" content="pumpkin spice background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pumpkin-spice-background">
+                            <span itemprop="name">pumpkin spice background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Origins of Pumpkin Spice</h1>
+                <p>Pumpkin spice has become a beloved seasonal flavor, especially in fall. Its origin can be traced to traditional spice mixes used in pumpkin pie, featuring cinnamon, nutmeg, and cloves. The trend gained popularity with coffee shops introducing pumpkin spice lattes, becoming a cultural phenomenon. Today, it's celebrated in various foods and drinks.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6,100+ Pumpkin Spice Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1428081326/photo/pumpkin-spice-latte-ingredients.jpg?s=612x612&w=0&k=20&c=u4qzP_7-1QizcJ3yy2SXDpwaANhgwdvTPXNHN9JIMxI=' alt='6,100+ Pumpkin Spice Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1428081326/photo/pumpkin-spice-latte-ingredients.jpg?s=612x612&w=0&k=20&c=u4qzP_7-1QizcJ3yy2SXDpwaANhgwdvTPXNHN9JIMxI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,300+ Pumpkin Spice Pattern Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1426706654/vector/autumn-hand-drawn-seamless-pattern-with-seasonal-elements-on-white-background-great-for.jpg?s=612x612&w=0&k=20&c=l3os7YpwPuGIxAr6PJHR57xHegO2QVZlrbGuoJm9cwg=' alt='1,300+ Pumpkin Spice Pattern Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1426706654/vector/autumn-hand-drawn-seamless-pattern-with-seasonal-elements-on-white-background-great-for.jpg?s=612x612&w=0&k=20&c=l3os7YpwPuGIxAr6PJHR57xHegO2QVZlrbGuoJm9cwg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,400+ Pumpkin Spice Drink Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1420254672/photo/cozy-fall-double-side-with-pumpkins-leaves-sweater-and-pumpkin-spice-latte-over-a-rustic.jpg?s=612x612&w=0&k=20&c=w3GcFH1v0nOPPD3EynB7eV4Dfa3I2hc_OXnbBsfaZDw=' alt='1,400+ Pumpkin Spice Drink Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="403">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1420254672/photo/cozy-fall-double-side-with-pumpkins-leaves-sweater-and-pumpkin-spice-latte-over-a-rustic.jpg?s=612x612&w=0&k=20&c=w3GcFH1v0nOPPD3EynB7eV4Dfa3I2hc_OXnbBsfaZDw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pumpkin Spice Latte Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/15319269/p/f/m/H5CT51OkThK3SfUSig4nxdMEjMmFd4jRtOxL_0e_VGkMZd6Wrn2jgjE/Boho%20Pumpkin%20Spice%2C%20Fall%20Boots%20and%20Beanie.jpg' alt='Pumpkin Spice Latte Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/15319269/p/f/m/H5CT51OkThK3SfUSig4nxdMEjMmFd4jRtOxL_0e_VGkMZd6Wrn2jgjE/Boho%20Pumpkin%20Spice%2C%20Fall%20Boots%20and%20Beanie.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pumpkin spice latte with autumn background Stock Photo | Adobe Stock">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/04/61/46/37/1000_F_461463788_Y6KbT0HEDjeYOzevxNhh2TK588DnU2s3.jpg' alt='Pumpkin spice latte with autumn background Stock Photo | Adobe Stock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/04/61/46/37/1000_F_461463788_Y6KbT0HEDjeYOzevxNhh2TK588DnU2s3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Pumpkin Spice Vector Images (over 830)">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/500p/09/23/pumpkin-spice-latte-sweet-pastry-and-fall-foliage-vector-51900923.jpg' alt='Cute Pumpkin Spice Vector Images (over 830)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/500p/09/23/pumpkin-spice-latte-sweet-pastry-and-fall-foliage-vector-51900923.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pumpkin Spice Background Photos, Images & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/autumn-fall-baking-background-pumpkins-260nw-2360547891.jpg' alt='Pumpkin Spice Background Photos, Images & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="389">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/autumn-fall-baking-background-pumpkins-260nw-2360547891.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pumpkin Spice Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/flat-design-pumpkin-spice-illustration_23-2148995694.jpg' alt='Pumpkin Spice Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/flat-design-pumpkin-spice-illustration_23-2148995694.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="340+ Pumpkin Spice Latte Top View Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/621585496/photo/pumpkin-smoothie-spice-latte-boozy-cocktail-top-view.jpg?s=612x612&w=0&k=20&c=2Q_kHTPhzdSjwBeuEEIU_4UHiOjHq0JQb4oTOQQ2fzY=' alt='340+ Pumpkin Spice Latte Top View Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/621585496/photo/pumpkin-smoothie-spice-latte-boozy-cocktail-top-view.jpg?s=612x612&w=0&k=20&c=2Q_kHTPhzdSjwBeuEEIU_4UHiOjHq0JQb4oTOQQ2fzY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pumpkin Spice wallpaper by thehatter2 - Download on ZEDGE™ | 29c4">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/49/1c/95/491c951118c6fcdffa84030d52b567bc.jpg' alt='Pumpkin Spice wallpaper by thehatter2 - Download on ZEDGE™ | 29c4'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/49/1c/95/491c951118c6fcdffa84030d52b567bc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

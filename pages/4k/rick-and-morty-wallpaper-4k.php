@@ -1,0 +1,129 @@
+<title>Stunning Rick and Morty 4K Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover a collection of high-quality Rick and Morty 4K wallpapers to enhance your screen. Perfect for fans, these vibrant images bring the show's wild adventures to life! Explore, download, and personalize your device with the best Rick and Morty designs today!">
+                    <meta name="keywords" content="rick and morty wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/rick-and-morty-wallpaper-4k">
+                            <span itemprop="name">rick and morty wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Rick and Morty 4K Wallpapers for Your Device</h1>
+                <p>Transform your device with stunning Rick and Morty 4K wallpapers! Dive into the multiverse with vibrant scenes featuring your favorite characters and adventures. Perfect for fans looking to spice up their screens, these wallpapers provide a high-resolution experience that captures the show's quirky essence. Download now and elevate your digital aesthetics!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Rick And Morty Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/rick-and-morty-iphone-9ew6bppmkwd6poyc.jpg' alt='200+] Rick And Morty Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/rick-and-morty-iphone-9ew6bppmkwd6poyc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rick and Morty Wallpapers (72 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/1/f/5/46701-3840x2160-desktop-4k-rick-and-morty-background-image.jpg' alt='Rick and Morty Wallpapers (72 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/1/f/5/46701-3840x2160-desktop-4k-rick-and-morty-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rick and Morty wallpaper 4k for desktop - Heroscreen | Free image ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVsOm51l6cy2wdDrmzrGx_i8lWQr2-6mOYG3qFKlNXU2ItgMNqxNBC_-KMUO6XvIwRKBRRjbe0ysKMfNj4F5w8Yt5FcsO69g6eFQY_YRiLVG6tASlaENH-WwJ7hJmELZf61FiPhUJXGpxH/s1600/rick-and-morty-4k-wallpaper-for-desktop.jpg' alt='Rick and Morty wallpaper 4k for desktop - Heroscreen | Free image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1143">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVsOm51l6cy2wdDrmzrGx_i8lWQr2-6mOYG3qFKlNXU2ItgMNqxNBC_-KMUO6XvIwRKBRRjbe0ysKMfNj4F5w8Yt5FcsO69g6eFQY_YRiLVG6tASlaENH-WwJ7hJmELZf61FiPhUJXGpxH/s1600/rick-and-morty-4k-wallpaper-for-desktop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rick and morty wallpaper 2025 4k">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/rick-and-morty-918@0@e-phone-4k.jpg' alt='Rick and morty wallpaper 2025 4k'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/rick-and-morty-918@0@e-phone-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="420 Rick and Morty 4K Background Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/chromebook-wallpapers/images/960/420-rick-and-morty-chromebook-wallpaper.jpg' alt='420 Rick and Morty 4K Background Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/chromebook-wallpapers/images/960/420-rick-and-morty-chromebook-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="600+] Rick And Morty Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/rick-and-morty-8rc57d4ds44gqzau.jpg' alt='600+] Rick And Morty Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1079">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/rick-and-morty-8rc57d4ds44gqzau.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Rick and Morty Wallpaper I Created From Run The Jewels : r ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/S56GfES9JvoqfWRsKcDKcKQQvw8cukgPicMjV6QDGqE.jpg?width=1080&crop=smart&auto=webp&s=1ce89742171b0f345b6020ad10dd52d735079ae0' alt='4K Rick and Morty Wallpaper I Created From Run The Jewels : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/S56GfES9JvoqfWRsKcDKcKQQvw8cukgPicMjV6QDGqE.jpg?width=1080&crop=smart&auto=webp&s=1ce89742171b0f345b6020ad10dd52d735079ae0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rick and Morty Wallpaper 4K, TV series, Rick Sanchez">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/rick-and-morty-tv-2560x1080-9366.jpg' alt='Rick and Morty Wallpaper 4K, TV series, Rick Sanchez'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/rick-and-morty-tv-2560x1080-9366.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hostages Rick And Morty 4k Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/portal-exit-rick-and-morty-phone-xxg8r7q3qr86y41i.webp' alt='Hostages Rick And Morty 4k Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/portal-exit-rick-and-morty-phone-xxg8r7q3qr86y41i.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rick and Morty HD Wallpapers and 4K Backgrounds - Wallpapers Den">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/rick-and-morty-in-outer-space_bGdrbmuUmZqaraWkpJRmbmdlrWZlbWU.jpg' alt='Rick and Morty HD Wallpapers and 4K Backgrounds - Wallpapers Den'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/rick-and-morty-in-outer-space_bGdrbmuUmZqaraWkpJRmbmdlrWZlbWU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

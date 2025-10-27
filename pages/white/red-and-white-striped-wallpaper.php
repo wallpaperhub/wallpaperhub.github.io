@@ -1,0 +1,129 @@
+<title>Classic Red and White Striped Wallpaper for Timeless Decor</title>
+                    <meta name="description" content="Add charm and style to your home with red and white striped wallpaper. Perfect for any room, this classic pattern enhances your decor while making spaces feel larger and more inviting. Explore the versatility of this trend and transform your interiors effortlessly!">
+                    <meta name="keywords" content="red and white striped wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/red-and-white-striped-wallpaper">
+                            <span itemprop="name">red and white striped wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Classic Red and White Striped Wallpaper for Timeless Decor</h1>
+                <p>Red and white striped wallpaper is a timeless decor choice that adds a classic touch to any space. Its bold pattern creates an illusion of height and dimension, making rooms appear larger. Ideal for both modern and traditional interiors, this wallpaper can enhance walls in living rooms, bedrooms, or even kitchens, creating a vibrant yet elegant atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Candy Stripe' Wallpaper by Wallshoppe - Red">
+                                <img itemprop="contentUrl url" src='https://www.wallshoppe.com/cdn/shop/products/Candy_Stripe_red_2fd4e4b2-c5f9-4b02-b99d-97bc57cdd50b_grande.jpg?v=1615484518' alt=''Candy Stripe' Wallpaper by Wallshoppe - Red'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="473">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='https://www.wallshoppe.com/cdn/shop/products/Candy_Stripe_red_2fd4e4b2-c5f9-4b02-b99d-97bc57cdd50b_grande.jpg?v=1615484518' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: GLOW4U Red Striped Wallpaper Peel and Stick Red Stripe Shelf  Liner Contact Paper Furniture Drawer Liner Wall Sticker 17.7X117 Inches :  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/614jkcPnTNL.jpg' alt='Amazon.com: GLOW4U Red Striped Wallpaper Peel and Stick Red Stripe Shelf  Liner Contact Paper Furniture Drawer Liner Wall Sticker 17.7X117 Inches :  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/614jkcPnTNL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cambridge Stripe by Cole & Son - Red - Wallpaper - 96/1001">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/asset/img/product/143236/tiled/cole-and-son-cambridge-stripe-red-wallpaper-tiled-143236.jpg' alt='Cambridge Stripe by Cole & Son - Red - Wallpaper - 96/1001'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/asset/img/product/143236/tiled/cole-and-son-cambridge-stripe-red-wallpaper-tiled-143236.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red and White Striped Peel and Stick Wallpaper / Lines Removable ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18578186/r/il/4a44fe/4225121987/il_fullxfull.4225121987_4qmf.jpg' alt='Red and White Striped Peel and Stick Wallpaper / Lines Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18578186/r/il/4a44fe/4225121987/il_fullxfull.4225121987_4qmf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Wallpaper Swatch - Red White Basic Stripe Thick Lines ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61krDx6--2L._AC_UF894,1000_QL80_.jpg' alt='Peel & Stick Wallpaper Swatch - Red White Basic Stripe Thick Lines ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="967">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61krDx6--2L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Cream Stripes Wallpaper - Peel and Stick Wallpaper or Non ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18578186/r/il/422cc1/5082876611/il_fullxfull.5082876611_2n85.jpg' alt='Red Cream Stripes Wallpaper - Peel and Stick Wallpaper or Non ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2250">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18578186/r/il/422cc1/5082876611/il_fullxfull.5082876611_2n85.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red And White Stripe Images – Browse 1,164,480 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/45/84/38/360_F_345843851_n7IDTMtm0ai5CbJ8DPGXgaHLcNB6B2Up.jpg' alt='Red And White Stripe Images – Browse 1,164,480 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="575">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/45/84/38/360_F_345843851_n7IDTMtm0ai5CbJ8DPGXgaHLcNB6B2Up.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cambridge Stripe Red and Sand Wallpaper 961001 by Cole and Son ...">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/146151.jpg' alt='Cambridge Stripe Red and Sand Wallpaper 961001 by Cole and Son ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/146151.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Norwall SD36125 1.25" Regency Stripe Prepasted Wallpaper, Red, White -  Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71CRr+pyQcL._AC_UF894,1000_QL80_.jpg' alt='Norwall SD36125 1.25" Regency Stripe Prepasted Wallpaper, Red, White -  Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="975">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71CRr+pyQcL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant Allure Red Striped Wallpaper SR1788">
+                                <img itemprop="contentUrl url" src='http://wallsrepublic.com/cdn/shop/products/ElegantAllureRedStripedWallpaperSR1788.png?v=1735842595&width=1024' alt='Elegant Allure Red Striped Wallpaper SR1788'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='http://wallsrepublic.com/cdn/shop/products/ElegantAllureRedStripedWallpaperSR1788.png?v=1735842595&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Retro iPhone Wallpapers: Nostalgic Designs for Your Device</title>
+                    <meta name="description" content="Discover a curated collection of retro iPhone wallpapers that bring vintage flair to your device. From iconic designs to colorful patterns, elevate your phone's aesthetic with a touch of nostalgia. Perfect for those who love classic styles and want to make their iPhone unique!">
+                    <meta name="keywords" content="retro iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/retro-iphone-wallpaper">
+                            <span itemprop="name">retro iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Retro iPhone Wallpapers: Nostalgic Designs for Your Device</h1>
+                <p>Transform your iPhone's look with retro wallpapers that evoke nostalgia. From vintage patterns to classic pop culture icons, these wallpapers add personality to your device. Whether you prefer the bold colors of the '80s or the soft pastels of the '90s, find the perfect retro wallpaper to make your iPhone stand out!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Retro Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-green-car-retro-iphone-fc1yjgaz7ldajtjd.jpg' alt='100+] Retro Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1535">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-green-car-retro-iphone-fc1yjgaz7ldajtjd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Enjoy Using This Stylish Retro Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/enjoy-using-this-stylish-retro-iphone-aw4vxzxxymm0pxfn.jpg' alt='Enjoy Using This Stylish Retro Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/enjoy-using-this-stylish-retro-iphone-aw4vxzxxymm0pxfn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groovy Colours Retro Aesthetic Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/groovy-colours-retro-aesthetic-iphone-6gvmycxetscmdxyn.jpg' alt='Groovy Colours Retro Aesthetic Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/groovy-colours-retro-aesthetic-iphone-6gvmycxetscmdxyn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro iPhone Wallpapers - Top Free Retro iPhone Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/73/dd/f5/73ddf53709219059b302278cc1e5e06b.jpg' alt='Retro iPhone Wallpapers - Top Free Retro iPhone Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/73/dd/f5/73ddf53709219059b302278cc1e5e06b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Iphone HD Wallpapers (100++) - MrWallpaper.com">
+                                <img itemprop="contentUrl url" src='https://mrwallpaper.com/images/hd/vintage-iphone-retro-rainbow-minimalist-5smmyxwql4gwsu3l.jpg' alt='Vintage Iphone HD Wallpapers (100++) - MrWallpaper.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrWallpaper" />
+                                </span>
+                                <a href='https://mrwallpaper.com/images/hd/vintage-iphone-retro-rainbow-minimalist-5smmyxwql4gwsu3l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Wallpapers for iPhone - HD Quality Vintage Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://anastasiablogger.com/wp-content/uploads/2020/04/retro-iphone-wallpaper.jpg' alt='Vintage Wallpapers for iPhone - HD Quality Vintage Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1215">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anastasia Blogger" />
+                                </span>
+                                <a href='https://anastasiablogger.com/wp-content/uploads/2020/04/retro-iphone-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Tape Recorder iPhone Wallpaper | Mobile Phone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28989044/r/il/3d2059/5441289090/il_570xN.5441289090_jwgt.jpg' alt='Retro Tape Recorder iPhone Wallpaper | Mobile Phone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28989044/r/il/3d2059/5441289090/il_570xN.5441289090_jwgt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 FREE Retro iPhone Wallpapers To Step Back In Time">
+                                <img itemprop="contentUrl url" src='https://www.crazylaura.com/wp-content/uploads/2023/08/Vintage-iPhone-Wallpapers-at-No-Cost.jpg' alt='15 FREE Retro iPhone Wallpapers To Step Back In Time'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="703">
+                                <meta itemprop="height" content="1250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Crazy Laura" />
+                                </span>
+                                <a href='https://www.crazylaura.com/wp-content/uploads/2023/08/Vintage-iPhone-Wallpapers-at-No-Cost.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/dd/79/95/dd79952b0771e042daff8e56ae46d42f.jpg' alt='Retro iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/dd/79/95/dd79952b0771e042daff8e56ae46d42f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] 80s Aesthetic Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/80s-aesthetic-iphone-51xmp4hobv3ao4d0.jpg' alt='100+] 80s Aesthetic Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/80s-aesthetic-iphone-51xmp4hobv3ao4d0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

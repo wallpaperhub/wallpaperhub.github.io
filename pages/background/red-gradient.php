@@ -1,0 +1,129 @@
+<title>Vibrant Red Gradient: Unleash Your Creativity</title>
+                    <meta name="description" content="Discover the beauty of red gradients! Transform your designs with captivating shades that evoke emotion and warmth. Perfect for backgrounds and graphics, learn how to incorporate this dynamic color scheme to elevate your artistic projects. Experience the power of red today!">
+                    <meta name="keywords" content="red gradient">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/red-gradient">
+                            <span itemprop="name">red gradient</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Red Gradient: Unleash Your Creativity</h1>
+                <p>A red gradient is a stunning blend of varying shades of red, creating a visually captivating effect. It can convey strong emotions, drawing the eye and adding depth to designs. Perfect for backgrounds, graphics, and artwork, red gradients enhance aesthetics and create a sense of warmth and passion. Explore this dynamic color transition!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Gradient Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/016/119/564/small_2x/gradient-background-in-red-burgundy-style-space-creative-design-for-banner-illustration-free-vector.jpg' alt='Red Gradient Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="355">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/016/119/564/small_2x/gradient-background-in-red-burgundy-style-space-creative-design-for-banner-illustration-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Gradient Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/vivid-blurred-colorful-wallpaper-background_58702-2951.jpg?semt=ais_hybrid' alt='Red Gradient Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/vivid-blurred-colorful-wallpaper-background_58702-2951.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Gradient Background Images – Browse 2,094,831 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/10/18/33/24/360_F_1018332429_QCZ4zl44eUlPHycKKDv7Vesq5q78gPt1.jpg' alt='Red Gradient Background Images – Browse 2,094,831 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/10/18/33/24/360_F_1018332429_QCZ4zl44eUlPHycKKDv7Vesq5q78gPt1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Gradient Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/red-black-gradient-background_1055519-2128.jpg?semt=ais_hybrid' alt='Red Gradient Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/red-black-gradient-background_1055519-2128.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Gradient Color Scheme - Palettes - SchemeColor.com">
+                                <img itemprop="contentUrl url" src='https://www.schemecolor.com/images/scheme/red-gradient.png' alt='Red Gradient Color Scheme - Palettes - SchemeColor.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SchemeColor" />
+                                </span>
+                                <a href='https://www.schemecolor.com/images/scheme/red-gradient.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Gradient: +55 Background Gradient Colors with CSS">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/6768f29a6d5da42209173f20/6768f29b6d5da42209177560_Rectangle%20(12).svg' alt='Red Gradient: +55 Background Gradient Colors with CSS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eggradients.com" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/6768f29a6d5da42209173f20/6768f29b6d5da42209177560_Rectangle%20(12).svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="130,500+ Red Gradient Backgrounds Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1156903571/vector/abstract-blurred-background-with-vibrant-color.jpg?s=612x612&w=0&k=20&c=daSQGgJdfiCNvZk6fv94r4s3gE5OSmeEXz2kE7-Sc2Y=' alt='130,500+ Red Gradient Backgrounds Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1156903571/vector/abstract-blurred-background-with-vibrant-color.jpg?s=612x612&w=0&k=20&c=daSQGgJdfiCNvZk6fv94r4s3gE5OSmeEXz2kE7-Sc2Y=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="red gradient shade 21095938 PNG">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/021/095/938/non_2x/red-gradient-shade-free-png.png' alt='red gradient shade 21095938 PNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/021/095/938/non_2x/red-gradient-shade-free-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vectorthe Dark Red Gradient Background Glow Stock Vector (Royalty ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/vectorthe-dark-red-gradient-background-260nw-1604088376.jpg' alt='Vectorthe Dark Red Gradient Background Glow Stock Vector (Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/vectorthe-dark-red-gradient-background-260nw-1604088376.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Gradient Color Palette">
+                                <img itemprop="contentUrl url" src='https://www.color-hex.com/palettes/7080.png' alt='Red Gradient Color Palette'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Color Hex" />
+                                </span>
+                                <a href='https://www.color-hex.com/palettes/7080.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

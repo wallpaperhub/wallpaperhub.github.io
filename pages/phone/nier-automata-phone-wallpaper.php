@@ -1,0 +1,129 @@
+<title>Nier Automata Phone Wallpapers - Stunning Designs for Mobile</title>
+                    <meta name="description" content="Explore a curated collection of Nier Automata phone wallpapers that bring your favorite characters and scenes to life. Perfect for fans looking to personalize their devices with high-quality graphics and designs, making your phone truly unique and eye-catching. Download your favorite wallpapers today!">
+                    <meta name="keywords" content="nier automata phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/nier-automata-phone-wallpaper">
+                            <span itemprop="name">nier automata phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Nier Automata Phone Wallpapers - Stunning Designs for Mobile</h1>
+                <p>Discover stunning Nier Automata phone wallpapers that capture the essence of this iconic game. Our collection features vibrant artwork, breathtaking scenes, and your favorite characters like 2B and 9S, perfect for fans to personalize their devices. Transform your phone's look while celebrating the rich world of Nier Automata!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a fullscreen version of the NieR: Orchestra artwork for ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ta4fiv10mee21.png' alt='I made a fullscreen version of the NieR: Orchestra artwork for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ta4fiv10mee21.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NieR automata phone aspect ratio wallpapers : r/nier">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/nier-automata-phone-aspect-ratio-wallpapers-v0-4izqqd9sgvxc1.jpg?width=1798&format=pjpg&auto=webp&s=060cdb675ea0b27401fc80ca5b21f242001c4ed0' alt='NieR automata phone aspect ratio wallpapers : r/nier'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1798">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/nier-automata-phone-aspect-ratio-wallpapers-v0-4izqqd9sgvxc1.jpg?width=1798&format=pjpg&auto=webp&s=060cdb675ea0b27401fc80ca5b21f242001c4ed0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Official Nier Reincarnation phone wallpaper released on Twitter ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ehs2fmq4m6f61.jpg' alt='Official Nier Reincarnation phone wallpaper released on Twitter ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2496">
+                                <meta itemprop="height" content="4096">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ehs2fmq4m6f61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nier Automata Phone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/16/0e/06/160e063dfc19dfdb6873419972935175.jpg' alt='Nier Automata Phone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/16/0e/06/160e063dfc19dfdb6873419972935175.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NieR: Automata Phone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/841/841288.png' alt='NieR: Automata Phone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/841/841288.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NieR automata phone aspect ratio wallpapers : r/nier">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/nier-automata-phone-aspect-ratio-wallpapers-v0-02iyan5ugvxc1.jpg?width=640&crop=smart&auto=webp&s=87f8d7981b3fad38da0d5f5ab31f636ce4d10cd0' alt='NieR automata phone aspect ratio wallpapers : r/nier'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/nier-automata-phone-aspect-ratio-wallpapers-v0-02iyan5ugvxc1.jpg?width=640&crop=smart&auto=webp&s=87f8d7981b3fad38da0d5f5ab31f636ce4d10cd0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nier Automata Phone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/15/94/0d/15940dbba3a5fa3fd5bdea14b5dc5959.jpg' alt='Nier Automata Phone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1262">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/15/94/0d/15940dbba3a5fa3fd5bdea14b5dc5959.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nier automata wallpaper 2025 phone">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/2b-nier-automata-anime-270@0@i-phone-4k.jpg' alt='Nier automata wallpaper 2025 phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/2b-nier-automata-anime-270@0@i-phone-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="epiphany">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/c02fa731b25ad61654f7d216aabf683d/tumblr_pasmpmKFqY1t0q50ro2_640.jpg' alt='epiphany'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="epiphany" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/c02fa731b25ad61654f7d216aabf683d/tumblr_pasmpmKFqY1t0q50ro2_640.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="World of Our Fantasy | Neir automata, Nier automata, Automata">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4a/4e/3c/4a4e3cc0831205b750dd77202eafe96a.jpg' alt='World of Our Fantasy | Neir automata, Nier automata, Automata'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4a/4e/3c/4a4e3cc0831205b750dd77202eafe96a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

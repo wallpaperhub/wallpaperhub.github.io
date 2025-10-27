@@ -1,0 +1,129 @@
+<title>Sour Patch Kids: The Perfect Sour-Sweet Treat</title>
+                    <meta name="description" content="Discover the irresistible charm of Sour Patch Kids! These chewy candies offer a delightful sour and sweet taste in every bite. Perfect for sharing, snacking, or adding fun to your desserts. Unleash the playful flavors today!">
+                    <meta name="keywords" content="sour patch kids">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sour-patch-kids">
+                            <span itemprop="name">sour patch kids</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Sour Patch Kids: The Perfect Sour-Sweet Treat</h1>
+                <p>Sour Patch Kids are a beloved candy that combines a unique blend of sour and sweet flavors. Each chewy piece is coated in a tangy sugar that gives way to a delicious, fruity taste. Whether you enjoy them in a classic box or sprinkle them on desserts, these colorful candies promise a playful and delightful experience for all ages!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : SOUR PATCH KIDS Original Soft & Chewy Candy, 3.5 oz ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81uW+gTbR2S.jpg' alt='Amazon.com : SOUR PATCH KIDS Original Soft & Chewy Candy, 3.5 oz ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81uW+gTbR2S.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plush Sour Patch Kids | Personal Creations">
+                                <img itemprop="contentUrl url" src='https://cimages.personalcreations.com/is/image/planetartdmc/PCR23_23Z262X_ENVIRO_CP_SQ?$PCRProductImage$&wid=1068&hei=1068' alt='Plush Sour Patch Kids | Personal Creations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1068">
+                                <meta itemprop="height" content="1068">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Personal Creations" />
+                                </span>
+                                <a href='https://cimages.personalcreations.com/is/image/planetartdmc/PCR23_23Z262X_ENVIRO_CP_SQ?$PCRProductImage$&wid=1068&hei=1068' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sour Patch Kids Variety Soft & Chewy Gummy Candy | 3.5-3.6oz | Mix & Match">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/9KsAAOSwFO1lFxg-/s-l400.png' alt='Sour Patch Kids Variety Soft & Chewy Gummy Candy | 3.5-3.6oz | Mix & Match'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/9KsAAOSwFO1lFxg-/s-l400.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sour Patch Kids, Red White & Blue">
+                                <img itemprop="contentUrl url" src='https://media.candynation.com/catalog/product/cache/37b377f2a2dfea30b42072b55c737119/s/o/sour_patch_kids_red_white_blue.jpg' alt='Sour Patch Kids, Red White & Blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="678">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Candy Nation" />
+                                </span>
+                                <a href='https://media.candynation.com/catalog/product/cache/37b377f2a2dfea30b42072b55c737119/s/o/sour_patch_kids_red_white_blue.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sour Patch Kids - Blue Raspberry Candy 3.6oz">
+                                <img itemprop="contentUrl url" src='http://candyfunhouse.com/cdn/shop/files/candy-funhouse-sour-patch-kids-blue-raspberry.jpg?v=1690226674' alt='Sour Patch Kids - Blue Raspberry Candy 3.6oz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Candy Funhouse" />
+                                </span>
+                                <a href='http://candyfunhouse.com/cdn/shop/files/candy-funhouse-sour-patch-kids-blue-raspberry.jpg?v=1690226674' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Snack Pack Sour Patch Kids Blue Raspberry Flavored Juicy Gels - 6 ...">
+                                <img itemprop="contentUrl url" src='https://images.albertsons-media.com/is/image/ABS/970065760-C1N1?$ng-ecom-pdp-mobile$&defaultImage=Not_Available' alt='Snack Pack Sour Patch Kids Blue Raspberry Flavored Juicy Gels - 6 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="428">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vons" />
+                                </span>
+                                <a href='https://images.albertsons-media.com/is/image/ABS/970065760-C1N1?$ng-ecom-pdp-mobile$&defaultImage=Not_Available' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: SOUR PATCH KIDS Big Kids Soft & Chewy Candy, Family Size, Bulk  Candy, 1.7 lb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/910+nc0TpaL.jpg' alt='Amazon.com: SOUR PATCH KIDS Big Kids Soft & Chewy Candy, Family Size, Bulk  Candy, 1.7 lb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/910+nc0TpaL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SOUR PATCH KIDS Strawberry Soft & Chewy Candy, Share Size, 12 oz">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/dbc9612e-d292-4a09-a3f7-f840c5c7f742.5e1770b2db69c4dd48c7000139a6ed0c.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='SOUR PATCH KIDS Strawberry Soft & Chewy Candy, Share Size, 12 oz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/dbc9612e-d292-4a09-a3f7-f840c5c7f742.5e1770b2db69c4dd48c7000139a6ed0c.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sour Patch Kids is coming out with all-blue raspberry bags">
+                                <img itemprop="contentUrl url" src='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/newscms/2020_38/1610612/sour-patch-just-blue-kb-main-200917.jpg' alt='Sour Patch Kids is coming out with all-blue raspberry bags'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1240">
+                                <meta itemprop="height" content="620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Today Show" />
+                                </span>
+                                <a href='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/newscms/2020_38/1610612/sour-patch-just-blue-kb-main-200917.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sour Patch Kids Blue Raspberry Bags">
+                                <img itemprop="contentUrl url" src='http://allcitycandy.com/cdn/shop/files/aszqrwe7qzqpntlh6xt4-removebg-preview_600x.png?v=1710170742' alt='Sour Patch Kids Blue Raspberry Bags'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="All City Candy" />
+                                </span>
+                                <a href='http://allcitycandy.com/cdn/shop/files/aszqrwe7qzqpntlh6xt4-removebg-preview_600x.png?v=1710170742' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

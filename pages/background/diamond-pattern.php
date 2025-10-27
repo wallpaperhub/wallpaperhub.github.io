@@ -1,0 +1,129 @@
+<title>Stunning Diamond Patterns: Design Trends & Inspiration</title>
+                    <meta name="description" content="Explore the beauty of diamond patterns in design! Discover how these geometric shapes bring elegance to textiles, wallpapers, and art. Learn to use diamond motifs for captivating decor that complements any style. Perfect for trendsetters looking to enhance their spaces!">
+                    <meta name="keywords" content="diamond pattern">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/diamond-pattern">
+                            <span itemprop="name">diamond pattern</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Diamond Patterns: Design Trends & Inspiration</h1>
+                <p>Diamond patterns are striking geometric designs characterized by repeating diamond shapes. Commonly seen in fabrics, wallpapers, and artwork, this pattern adds elegance and visual interest to various settings. The diamond motif can be bold or subtle, making it versatile for both modern and traditional decor. Use diamond patterns to enhance aesthetic appeal!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seamless Diamond Pattern Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/004/923/539/non_2x/black-and-white-diamond-square-pattern-free-vector.jpg' alt='Seamless Diamond Pattern Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/004/923/539/non_2x/black-and-white-diamond-square-pattern-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diamond Pattern Svg, Seamless Boho Square Pattern, Repeating Diamond,  Geometric Tumbler Background. Cut File Cricut, Png Pdf Eps, Vector">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/31715137/r/il/318760/3318728368/il_fullxfull.3318728368_s0u8.jpg' alt='Diamond Pattern Svg, Seamless Boho Square Pattern, Repeating Diamond,  Geometric Tumbler Background. Cut File Cricut, Png Pdf Eps, Vector'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2376">
+                                <meta itemprop="height" content="1960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/31715137/r/il/318760/3318728368/il_fullxfull.3318728368_s0u8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diamond Pattern SVG. PNG. Squares. Seamless! Tiling. Cricut cut files,  Silhouette files. Black, White. DXF, eps. Digital. Outline, Stencil">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21887480/r/il/0fbefe/2963695809/il_fullxfull.2963695809_hmrr.jpg' alt='Diamond Pattern SVG. PNG. Squares. Seamless! Tiling. Cricut cut files,  Silhouette files. Black, White. DXF, eps. Digital. Outline, Stencil'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21887480/r/il/0fbefe/2963695809/il_fullxfull.2963695809_hmrr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diamond Pattern Images – Browse 1,400,390 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/98/00/20/360_F_298002053_wzURxxSNNCWS3pcyR9sI9J5QCAS5i1BV.jpg' alt='Diamond Pattern Images – Browse 1,400,390 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="638">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/98/00/20/360_F_298002053_wzURxxSNNCWS3pcyR9sI9J5QCAS5i1BV.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diamond Pattern PNG, Vector, PSD, and Clipart With Transparent ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20240309/ourmid/pngtree-black-and-white-diamonds-pattern-png-image_11907765.png' alt='Diamond Pattern PNG, Vector, PSD, and Clipart With Transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20240309/ourmid/pngtree-black-and-white-diamonds-pattern-png-image_11907765.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="24,200+ Diamond Pattern Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1331476433/vector/black-and-white-rhombus-seamless-geometric-vector-pattern.jpg?s=612x612&w=0&k=20&c=IzJ5Qg7X5ODPk3y3HXrPer_jxBC1IBXqvDn-tdLEcmY=' alt='24,200+ Diamond Pattern Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1331476433/vector/black-and-white-rhombus-seamless-geometric-vector-pattern.jpg?s=612x612&w=0&k=20&c=IzJ5Qg7X5ODPk3y3HXrPer_jxBC1IBXqvDn-tdLEcmY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diamond Line Pattern Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/minimal-criss-cross-geometric-pattern-banner-abstract-style_1017-43233.jpg' alt='Diamond Line Pattern Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/minimal-criss-cross-geometric-pattern-banner-abstract-style_1017-43233.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Diamond Pattern Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/collection-diamond-patterns-blue-tones_23-2147612966.jpg' alt='Blue Diamond Pattern Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/collection-diamond-patterns-blue-tones_23-2147612966.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="vector clip art online, royalty free & public domain">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/50/3f/cf/503fcfbc6a1a1d97cf7b7a55bebaa50f.jpg' alt='vector clip art online, royalty free & public domain'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/50/3f/cf/503fcfbc6a1a1d97cf7b7a55bebaa50f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3,200+ Diamond Pattern Line Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1446739179/vector/rhombus-seamless-pattern-simple-vector-geometric-background.jpg?s=612x612&w=0&k=20&c=HIQugsQu2KqQFfwuCh6YS9tovKEXVpO9IHFiN8mqF-g=' alt='3,200+ Diamond Pattern Line Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1446739179/vector/rhombus-seamless-pattern-simple-vector-geometric-background.jpg?s=612x612&w=0&k=20&c=HIQugsQu2KqQFfwuCh6YS9tovKEXVpO9IHFiN8mqF-g=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

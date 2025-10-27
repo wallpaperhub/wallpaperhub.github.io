@@ -1,0 +1,129 @@
+<title>Vibrant Summer Wallpapers: Discover Your Perfect Design</title>
+                    <meta name="description" content="Explore a collection of vibrant summer wallpapers on Pinterest! Find inspiring designs ranging from beach vistas to floral patterns that will refresh your devices. Perfect for giving your screens a seasonal makeover, these wallpapers will bring warmth and joy all summer long.">
+                    <meta name="keywords" content="summer wallpaper pinterest">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/summer">
+                            <span itemprop="name">Summer</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/summer/summer-wallpaper-pinterest">
+                            <span itemprop="name">summer wallpaper pinterest</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Summer Wallpapers: Discover Your Perfect Design</h1>
+                <p>Discover a stunning array of summer wallpapers on Pinterest that will breathe life into your devices! From vibrant beach scenes to serene sunsets, explore endless inspirations to brighten up your screens. Embrace the warmth of the season and let your creativity flow with colorful patterns and nature-inspired designs.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Enjoy life">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d1/22/1a/d1221a520aef39e17838b4261fb6cfb8.jpg' alt='Enjoy life'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d1/22/1a/d1221a520aef39e17838b4261fb6cfb8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="45 Best Summer wallpapers tumblr ideas | summer wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/f4/7b/60/f47b604e598da51cf48cb5a4f5f17ddf.jpg' alt='45 Best Summer wallpapers tumblr ideas | summer wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/f4/7b/60/f47b604e598da51cf48cb5a4f5f17ddf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="360 Summer wallpapers/lock screens ideas | summer wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/93/fb/9d/93fb9dab09834752ddb7e78c06a7a1b2.jpg' alt='360 Summer wallpapers/lock screens ideas | summer wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/93/fb/9d/93fb9dab09834752ddb7e78c06a7a1b2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Wallpaper Inspo">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/05/2c/f3/052cf33bd5ce8e9fb6a8ce4521cbc827.jpg' alt='Summer Wallpaper Inspo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/05/2c/f3/052cf33bd5ce8e9fb6a8ce4521cbc827.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a2/ae/23/a2ae232f2e610f2b2dac759ad83685c4.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a2/ae/23/a2ae232f2e610f2b2dac759ad83685c4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pinterest @scottythoughts">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f9/ee/be/f9eebea52d87089ebb2038d35faf75ea.jpg' alt='Pinterest @scottythoughts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="608">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f9/ee/be/f9eebea52d87089ebb2038d35faf75ea.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="55+ Stunning Summer Wallpapers For iPhone for Endless Summer Vibes ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/96/a8/90/96a890607cc0e4e73b82e19016bfd0bb.jpg' alt='55+ Stunning Summer Wallpapers For iPhone for Endless Summer Vibes ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/96/a8/90/96a890607cc0e4e73b82e19016bfd0bb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer wallpaper Wallpaper Pinterest Summer Wallpaper, Room">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/74/87/fe/7487fec5636b8ff05ca592deb98f6559.jpg' alt='Summer wallpaper Wallpaper Pinterest Summer Wallpaper, Room'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="769">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/74/87/fe/7487fec5636b8ff05ca592deb98f6559.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50+ Summer Aesthetic Wallpapers Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/be/4c/52/be4c52565428e1b83bc4fadd96221cd9.jpg' alt='50+ Summer Aesthetic Wallpapers Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="465">
+                                <meta itemprop="height" content="620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/be/4c/52/be4c52565428e1b83bc4fadd96221cd9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow and palm tree background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/40/75/8f/40758f7909b8f153422347791d5a3773.jpg' alt='Rainbow and palm tree background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/40/75/8f/40758f7909b8f153422347791d5a3773.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

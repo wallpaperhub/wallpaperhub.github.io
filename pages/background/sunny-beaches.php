@@ -1,0 +1,129 @@
+<title>Discover Your Perfect Sunny Beach Getaway</title>
+                    <meta name="description" content="Explore the beauty of sunny beaches! From crystal-clear waters to stunning sunsets, find your perfect escape. Enjoy relaxation, adventure, and unforgettable memories at sun-kissed shores around the world. Your paradise awaits!">
+                    <meta name="keywords" content="sunny beaches">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sunny-beaches">
+                            <span itemprop="name">sunny beaches</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Your Perfect Sunny Beach Getaway</h1>
+                <p>Sunny beaches are idyllic escapes where golden sands meet sparkling blue waters. Whether you're lounging under a palm tree, taking a refreshing dip, or enjoying exhilarating water sports, these sun-soaked destinations offer a perfect blend of relaxation and adventure. Escape to a sunny beach to rejuvenate your spirit!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunny Beach - Tropical Ocean by Konradlew">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images-medium-large-5/sunny-beach-tropical-ocean-konradlew.jpg' alt='Sunny Beach - Tropical Ocean by Konradlew'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="837">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photos.com by Getty Images" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images-medium-large-5/sunny-beach-tropical-ocean-konradlew.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paradise beach. Sunny beach with palm and turquoise sea. Summer ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/02/99/72/12/1000_F_299721298_CKvsIwdokf11a69xbFPmrjisa30w6y38.jpg' alt='Paradise beach. Sunny beach with palm and turquoise sea. Summer ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/02/99/72/12/1000_F_299721298_CKvsIwdokf11a69xbFPmrjisa30w6y38.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top picks for sunny beach holidays">
+                                <img itemprop="contentUrl url" src='https://www.vrbo.com/en-gb/holiday-homes/wp-content/uploads/1yHwVStIyAeC2CuwwwswUG/5641c0cce01346747a3735c8a53c6a65/00.jpg' alt='Top picks for sunny beach holidays'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vrbo" />
+                                </span>
+                                <a href='https://www.vrbo.com/en-gb/holiday-homes/wp-content/uploads/1yHwVStIyAeC2CuwwwswUG/5641c0cce01346747a3735c8a53c6a65/00.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,719,000+ Sunny Beach Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/926497236/photo/tropical-sea-in-summer.jpg?s=612x612&w=0&k=20&c=SgT--E-a5_UF4GPVnpC6r1IDtThuDiUHmtTbhHg5zJA=' alt='1,719,000+ Sunny Beach Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/926497236/photo/tropical-sea-in-summer.jpg?s=612x612&w=0&k=20&c=SgT--E-a5_UF4GPVnpC6r1IDtThuDiUHmtTbhHg5zJA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunny Beach by Konradlew">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/sunny-beach-konradlew.jpg' alt='Sunny Beach by Konradlew'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photos.com by Getty Images" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/sunny-beach-konradlew.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,719,000+ Sunny Beach Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/157834378/photo/tropical-beach.jpg?s=612x612&w=0&k=20&c=Er-KcCG57M1rt1ttcigm0N_p_-sY6Tho0SE63CtZrIo=' alt='1,719,000+ Sunny Beach Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="407">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/157834378/photo/tropical-beach.jpg?s=612x612&w=0&k=20&c=Er-KcCG57M1rt1ttcigm0N_p_-sY6Tho0SE63CtZrIo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Sunny beach day Image | Download at StockCake">
+                                <img itemprop="contentUrl url" src='https://images.stockcake.com/public/f/d/6/fd6593ed-1d08-4451-9b86-8e2d97d2c29c_large/sunny-beach-day-stockcake.jpg' alt='Free Sunny beach day Image | Download at StockCake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockCake" />
+                                </span>
+                                <a href='https://images.stockcake.com/public/f/d/6/fd6593ed-1d08-4451-9b86-8e2d97d2c29c_large/sunny-beach-day-stockcake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunny Beach | World Heritage Journeys of Europe">
+                                <img itemprop="contentUrl url" src='https://cdn.elebase.io/173fe953-8a63-4a8a-8ca3-1bacb56d78a5/b310a65b-7067-43d0-9212-a30e2c41c470-sunny-beach-bulgaria.jpg?w=1000&h=500&fit=crop&q=75' alt='Sunny Beach | World Heritage Journeys of Europe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World Heritage Journeys" />
+                                </span>
+                                <a href='https://cdn.elebase.io/173fe953-8a63-4a8a-8ca3-1bacb56d78a5/b310a65b-7067-43d0-9212-a30e2c41c470-sunny-beach-bulgaria.jpg?w=1000&h=500&fit=crop&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful sunny beach. View of nice tropical beach with palms ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/02/78/45/22/1000_F_278452298_4JwsFZijXI3ixwVSoTFK3DKHO1dsnDLi.jpg' alt='Beautiful sunny beach. View of nice tropical beach with palms ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="665">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/02/78/45/22/1000_F_278452298_4JwsFZijXI3ixwVSoTFK3DKHO1dsnDLi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,719,000+ Sunny Beach Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/584769620/photo/beach-chairs-in-south-beach.jpg?s=612x612&w=0&k=20&c=fxJJIGBaktLv6diEbDioehzAQIAsivaKXedih0AuHw0=' alt='1,719,000+ Sunny Beach Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/584769620/photo/beach-chairs-in-south-beach.jpg?s=612x612&w=0&k=20&c=fxJJIGBaktLv6diEbDioehzAQIAsivaKXedih0AuHw0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

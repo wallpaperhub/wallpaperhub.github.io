@@ -1,0 +1,129 @@
+<title>Stunning Greece Desktop Wallpapers to Brighten Your Day</title>
+                    <meta name="description" content="Discover a collection of breathtaking Greece desktop wallpapers. From azure seas to ancient ruins, find the perfect backdrop to inspire your workspace. Explore various styles and capture the essence of Greece right on your screen today!">
+                    <meta name="keywords" content="greece desktop wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/greece-desktop-wallpaper">
+                            <span itemprop="name">greece desktop wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Greece Desktop Wallpapers to Brighten Your Day</h1>
+                <p>Transform your workspace with stunning Greece desktop wallpapers! Featuring breathtaking landscapes, iconic ruins, and serene beaches, these wallpapers will transport you to the heart of this beautiful Mediterranean destination. Perfect for any device, find the ideal image that inspires your daydreams of Greek adventures!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Greece Photos, Download The BEST Free Greece Stock Photos & HD Images">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1285625/pexels-photo-1285625.jpeg' alt='Greece Photos, Download The BEST Free Greece Stock Photos & HD Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5056">
+                                <meta itemprop="height" content="3371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1285625/pexels-photo-1285625.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Greece Photos, Download The BEST Free Greece Stock Photos & HD Images">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1010640/pexels-photo-1010640.jpeg?cs=srgb&dl=pexels-jimmy-teoh-294331-1010640.jpg&fm=jpg' alt='Greece Photos, Download The BEST Free Greece Stock Photos & HD Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3861">
+                                <meta itemprop="height" content="2574">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1010640/pexels-photo-1010640.jpeg?cs=srgb&dl=pexels-jimmy-teoh-294331-1010640.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Greece Wallpapers (52 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/d/c/9/30936-3840x2160-desktop-4k-greece-background-image.jpg' alt='Greece Wallpapers (52 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/d/c/9/30936-3840x2160-desktop-4k-greece-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Greece Wallpapers (52 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/2/8/8/117865-2560x1700-desktop-hd-greece-wallpaper.jpg' alt='Greece Wallpapers (52 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/2/8/8/117865-2560x1700-desktop-hd-greece-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+ Beautiful Greece Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1661964149725-fbf14eabd38c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Z3JlZWNlfGVufDB8fDB8fHww' alt='100+ Beautiful Greece Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1661964149725-fbf14eabd38c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Z3JlZWNlfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Greece Photos, Download The BEST Free Greece Stock Photos & HD Images">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1145450965/photo/santorini-island-greece.jpg?b=1&s=612x612&w=0&k=20&c=fnLRlFtlGUXuSVnRkREHx-xL7VfxCTqm1qZAm1Z-ShY=' alt='Greece Photos, Download The BEST Free Greece Stock Photos & HD Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1145450965/photo/santorini-island-greece.jpg?b=1&s=612x612&w=0&k=20&c=fnLRlFtlGUXuSVnRkREHx-xL7VfxCTqm1qZAm1Z-ShY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Greece Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/greece-uvj3x2nkk7sy1b84.jpg' alt='200+] Greece Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/greece-uvj3x2nkk7sy1b84.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Greece Wallpapers (52 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/0/8/5/31023-2560x1920-desktop-hd-greece-wallpaper.jpg' alt='Greece Wallpapers (52 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/0/8/5/31023-2560x1920-desktop-hd-greece-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Greece Photos, Download The BEST Free Greece Stock Photos & HD Images">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1010657/pexels-photo-1010657.jpeg?cs=srgb&dl=pexels-jimmy-teoh-294331-1010657.jpg&fm=jpg' alt='Greece Photos, Download The BEST Free Greece Stock Photos & HD Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3861">
+                                <meta itemprop="height" content="2574">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1010657/pexels-photo-1010657.jpeg?cs=srgb&dl=pexels-jimmy-teoh-294331-1010657.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Greece Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/navagio-bay-in-greece-457pt0akdphalib5.jpg' alt='200+] Greece Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/navagio-bay-in-greece-457pt0akdphalib5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

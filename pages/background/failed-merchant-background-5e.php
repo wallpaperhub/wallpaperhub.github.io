@@ -1,0 +1,129 @@
+<title>Failed Merchant Background in D&D 5e: A Character Guide</title>
+                    <meta name="description" content="Explore the Failed Merchant background in D&D 5e. Discover character traits, skills, and roleplay opportunities that come from a once-thriving merchant's downfall. Perfect for players seeking depth in their characters, this guide helps enhance your gaming experience.">
+                    <meta name="keywords" content="failed merchant background 5e">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/failed-merchant-background-5e">
+                            <span itemprop="name">failed merchant background 5e</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Failed Merchant Background in D&D 5e: A Character Guide</h1>
+                <p>In Dungeons & Dragons 5e, a Failed Merchant background offers a rich narrative for character development. Players embody characters who once thrived in trade but faced ruin due to misfortune, betrayal, or poor decisions. This background provides skills in persuasion and deception, along with unique flavor for roleplay, influencing how your character interacts with the world.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background #18: Failed Merchant (DnD 5E) - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/x0OEjQuGRdc/sddefault.jpg' alt='Background #18: Failed Merchant (DnD 5E) - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/x0OEjQuGRdc/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Failed Merchant 5e: Background Review — Caverns & Creatures">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/52c8e848e4b06ad2e570480f/4e5958c4-fae0-4e07-9eb5-3f86e33fd4d9/clerical+error+%282%29.png' alt='Failed Merchant 5e: Background Review — Caverns & Creatures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1618">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Caverns & Creatures" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/52c8e848e4b06ad2e570480f/4e5958c4-fae0-4e07-9eb5-3f86e33fd4d9/clerical+error+%282%29.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harengon Failed Merchant : r/dndai">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/harengon-failed-merchant-v0-7yugkmfarx6a1.png?auto=webp&s=56f670085c498246a41316ad8d46263485f12942' alt='Harengon Failed Merchant : r/dndai'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/harengon-failed-merchant-v0-7yugkmfarx6a1.png?auto=webp&s=56f670085c498246a41316ad8d46263485f12942' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background #18: Failed Merchant (DnD 5E) - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/DReBKN5l_WQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA-nTCO9db3E_-1ts7ae9vWZCLqgw' alt='Background #18: Failed Merchant (DnD 5E) - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/DReBKN5l_WQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA-nTCO9db3E_-1ts7ae9vWZCLqgw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="If you are a DM and place this mysterious and shadowy merchant in ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/if-you-are-a-dm-and-place-this-mysterious-and-shadowy-v0-mrctx5h4l40c1.png?auto=webp&s=d7f52af78dd567924a58bbd212f3482aff69a90c' alt='If you are a DM and place this mysterious and shadowy merchant in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3049">
+                                <meta itemprop="height" content="2362">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/if-you-are-a-dm-and-place-this-mysterious-and-shadowy-v0-mrctx5h4l40c1.png?auto=webp&s=d7f52af78dd567924a58bbd212f3482aff69a90c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Failed Merchant | D&D 5e Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/dnd-5e/images/c/ca/DND_Art7.png/revision/latest/smart/width/386/height/259?cb=20221129073406' alt='Failed Merchant | D&D 5e Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="386">
+                                <meta itemprop="height" content="259">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="D&D 5e Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/dnd-5e/images/c/ca/DND_Art7.png/revision/latest/smart/width/386/height/259?cb=20221129073406' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="D&D 5E - [Let's Read] The Wanderer's Guide to Merchants & Magic ...">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/R7GxrdT.png' alt='D&D 5E - [Let's Read] The Wanderer's Guide to Merchants & Magic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="372">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EN World" />
+                                </span>
+                                <a href='https://i.imgur.com/R7GxrdT.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NewbieDM on X: "There's a whole section on how to play each class ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/D9HGB3uW4AAimRb.jpg:large' alt='NewbieDM on X: "There's a whole section on how to play each class ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/D9HGB3uW4AAimRb.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="D&D 5E - [Let's Read] The Wanderer's Guide to Merchants & Magic ...">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/0YNFKW7.png' alt='D&D 5E - [Let's Read] The Wanderer's Guide to Merchants & Magic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="708">
+                                <meta itemprop="height" content="516">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EN World" />
+                                </span>
+                                <a href='https://i.imgur.com/0YNFKW7.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background #18: Failed Merchant (DnD 5E) - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/scStTkj6vMo/sddefault.jpg' alt='Background #18: Failed Merchant (DnD 5E) - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/scStTkj6vMo/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

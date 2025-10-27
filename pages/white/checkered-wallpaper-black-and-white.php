@@ -1,0 +1,129 @@
+<title>Stunning Black and White Checkered Wallpaper for Every Room</title>
+                    <meta name="description" content="Elevate your interior design with striking black and white checkered wallpaper. Perfect for any room, this pattern offers a timeless look and versatile style, making it an ideal choice for modern and classic decor alike. Transform your space effortlessly while enjoying a bold, elegant aesthetic.">
+                    <meta name="keywords" content="checkered wallpaper black and white">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/checkered-wallpaper-black-and-white">
+                            <span itemprop="name">checkered wallpaper black and white</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Black and White Checkered Wallpaper for Every Room</h1>
+                <p>Checkered wallpaper in black and white adds a timeless elegance to your space. The contrasting colors create a bold statement, making it ideal for both modern and classic interiors. This stylish pattern enhances walls, providing depth and interest while remaining versatile enough to match various decor styles.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and white checkered">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/black-and-white-checkered-pattern-repeat-removable-wallpaper-design.jpg' alt='Black and white checkered'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/black-and-white-checkered-pattern-repeat-removable-wallpaper-design.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and white checkered wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/22/46/77/2246776b8bca086f1c15711d3b88f39b.jpg' alt='Black and white checkered wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="557">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/22/46/77/2246776b8bca086f1c15711d3b88f39b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="One Inch Black and White Checkered Fabric | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/4894963/p/f/m/RRnfjlpE3VRNJ0debLE-qu2_13x4TeiemFrbp7NtJB1L7DLHNZpDBA/4894963-one-inch-black-white-checkered-by-mtothefifthpower.jpg' alt='One Inch Black and White Checkered Fabric | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/4894963/p/f/m/RRnfjlpE3VRNJ0debLE-qu2_13x4TeiemFrbp7NtJB1L7DLHNZpDBA/4894963-one-inch-black-white-checkered-by-mtothefifthpower.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black & White Checkered Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/e8/17/93/e81793a54d9f2c5f32b0cd26385a6ff2.jpg' alt='Black & White Checkered Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="276">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/e8/17/93/e81793a54d9f2c5f32b0cd26385a6ff2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black & White Wavy Chequered Aesthetic Wall Mural - Hovia">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,w_1100,h_750/v1715873435/articles/GE0158BW03W_product.jpg' alt='Black & White Wavy Chequered Aesthetic Wall Mural - Hovia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hovia" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,w_1100,h_750/v1715873435/articles/GE0158BW03W_product.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5,900+ Black And White Checkered Wallpaper Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1091365726/vector/seamless-background-pattern-chess-board-black-and-white-wallpaper-vector-illustration.jpg?s=612x612&w=0&k=20&c=4GE1zlTObxe6kPwM2hmD_apav1xjyvEUOh7L-dQ7wfE=' alt='5,900+ Black And White Checkered Wallpaper Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="443">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1091365726/vector/seamless-background-pattern-chess-board-black-and-white-wallpaper-vector-illustration.jpg?s=612x612&w=0&k=20&c=4GE1zlTObxe6kPwM2hmD_apav1xjyvEUOh7L-dQ7wfE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Checker">
+                                <img itemprop="contentUrl url" src='https://www.poppyprintstudio.com/cdn/shop/products/GrassclothChecker-BlackandWhiteSampleCrop-PoppyPrintStudioWallpaper.jpg?v=1706815825&width=1200' alt='Checker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Poppy Print Studio" />
+                                </span>
+                                <a href='https://www.poppyprintstudio.com/cdn/shop/products/GrassclothChecker-BlackandWhiteSampleCrop-PoppyPrintStudioWallpaper.jpg?v=1706815825&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check Wallpaper • A Classic, Gingham Design • Milton & King">
+                                <img itemprop="contentUrl url" src='https://s29938.pcdn.co/wp-content/uploads/2021/02/Wallpaper-Linz-Check-Charcoal-1.jpg.optimal.jpg' alt='Check Wallpaper • A Classic, Gingham Design • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://s29938.pcdn.co/wp-content/uploads/2021/02/Wallpaper-Linz-Check-Charcoal-1.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black And White Buffalo Check Pattern Wallpaper">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/233643/Black-And-White-Buffalo-Check-Pattern-Wallpaper.jpg?v=638165392378500000' alt='Black And White Buffalo Check Pattern Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="3200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/233643/Black-And-White-Buffalo-Check-Pattern-Wallpaper.jpg?v=638165392378500000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Checkered Peel and Stick Wallpaper / Checkered Removable Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18578186/r/il/9b5ed7/3882471676/il_fullxfull.3882471676_cbyv.jpg' alt='Checkered Peel and Stick Wallpaper / Checkered Removable Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18578186/r/il/9b5ed7/3882471676/il_fullxfull.3882471676_cbyv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

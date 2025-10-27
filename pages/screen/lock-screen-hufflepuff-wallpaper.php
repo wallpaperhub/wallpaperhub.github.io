@@ -1,0 +1,129 @@
+<title>Hufflepuff Lock Screen Wallpapers: Magic for Your Device</title>
+                    <meta name="description" content="Discover vibrant Hufflepuff lock screen wallpapers that showcase your house pride. Perfect for fans of Harry Potter, these designs add a touch of magic and loyalty to your device. Explore stunning visuals and personalize your screen effortlessly!">
+                    <meta name="keywords" content="lock screen hufflepuff wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen">
+                            <span itemprop="name">Screen</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/screen/lock-screen-hufflepuff-wallpaper">
+                            <span itemprop="name">lock screen hufflepuff wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Hufflepuff Lock Screen Wallpapers: Magic for Your Device</h1>
+                <p>Transform your device's lock screen with stunning Hufflepuff wallpaper! Celebrate loyalty, hard work, and friendship with vibrant designs showcasing the Hufflepuff crest and iconic badger. Perfect for fans of Harry Potter, these wallpapers bring a touch of magic to your everyday life. Show your house pride every time you unlock your screen!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LOCKED-SCREEN — h o g w a r t s">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/96/ee/4a/96ee4ad6c016ea9aa09bba49def27b61.jpg' alt='LOCKED-SCREEN — h o g w a r t s'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="522">
+                                <meta itemprop="height" content="928">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/96/ee/4a/96ee4ad6c016ea9aa09bba49def27b61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="lockscreen harry potter">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0d/62/57/0d6257273cb92a465a615819eb4ba47d.jpg' alt='lockscreen harry potter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0d/62/57/0d6257273cb92a465a615819eb4ba47d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hufflepuff, poter, screen, styles, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/54/333/HD-wallpaper-hufflepuff-poter-screen-styles.jpg' alt='Hufflepuff, poter, screen, styles, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/54/333/HD-wallpaper-hufflepuff-poter-screen-styles.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter - Hufflepuff Phone Wallpaper by Seymonster on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8ef46fbb-d25c-49ba-9e20-8c2bc14dc32d/debqtcw-7e45bf64-1485-424d-bf93-f9cfe4fa5e63.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhlZjQ2ZmJiLWQyNWMtNDliYS05ZTIwLThjMmJjMTRkYzMyZFwvZGVicXRjdy03ZTQ1YmY2NC0xNDg1LTQyNGQtYmY5My1mOWNmZTRmYTVlNjMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.FmfTjVHLvfKMJti7jyXpAp8snIA40yflcg6dVMijoJk' alt='Harry Potter - Hufflepuff Phone Wallpaper by Seymonster on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8ef46fbb-d25c-49ba-9e20-8c2bc14dc32d/debqtcw-7e45bf64-1485-424d-bf93-f9cfe4fa5e63.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhlZjQ2ZmJiLWQyNWMtNDliYS05ZTIwLThjMmJjMTRkYzMyZFwvZGVicXRjdy03ZTQ1YmY2NC0xNDg1LTQyNGQtYmY5My1mOWNmZTRmYTVlNjMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.FmfTjVHLvfKMJti7jyXpAp8snIA40yflcg6dVMijoJk' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lockscreen Wallpaper Hufflepuff">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7b/57/57/7b57570539eba3b00fa44205163194bc.jpg' alt='Lockscreen Wallpaper Hufflepuff'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7b/57/57/7b57570539eba3b00fa44205163194bc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="just another lockscreen blog — hufflepuff lockscreens, by request ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/28a6b08dc23500dcdf576cef3f265fba/tumblr_p1l7omEOwc1wykj1mo5_1280.png' alt='just another lockscreen blog — hufflepuff lockscreens, by request ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="just another lockscreen blog - Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/28a6b08dc23500dcdf576cef3f265fba/tumblr_p1l7omEOwc1wykj1mo5_1280.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hufflepuff themed lockscreen wallpaper for any Hufflepuffs out ...">
+                                <img itemprop="contentUrl url" src='http://pm1.aminoapps.com/6968/0900d3614aeb26be6c1cc894bf541c9432929d32r1-768-1024v2_uhq.jpg' alt='Hufflepuff themed lockscreen wallpaper for any Hufflepuffs out ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amino Apps" />
+                                </span>
+                                <a href='http://pm1.aminoapps.com/6968/0900d3614aeb26be6c1cc894bf541c9432929d32r1-768-1024v2_uhq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hufflepuff iPhone 4/4s Lockscreen wallpaper by briely on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/19/3e/a7/193ea79396798f3d5b45116ae0835a08.jpg' alt='Hufflepuff iPhone 4/4s Lockscreen wallpaper by briely on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/19/3e/a7/193ea79396798f3d5b45116ae0835a08.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download "Hufflepuff" wallpapers for mobile phone, free ...">
+                                <img itemprop="contentUrl url" src='https://wallpaper.forfun.com/fetch/66/66f544f0d9f6e40e3fff748c47da6ee6.jpeg' alt='Download "Hufflepuff" wallpapers for mobile phone, free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mobile wallpapers - Mob.org" />
+                                </span>
+                                <a href='https://wallpaper.forfun.com/fetch/66/66f544f0d9f6e40e3fff748c47da6ee6.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hufflepuff student, harry potter, hogwarts, hufflepuff, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/62/902/HD-wallpaper-hufflepuff-student-harry-potter-hogwarts-hufflepuff.jpg' alt='Hufflepuff student, harry potter, hogwarts, hufflepuff, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/62/902/HD-wallpaper-hufflepuff-student-harry-potter-hogwarts-hufflepuff.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

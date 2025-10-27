@@ -1,0 +1,129 @@
+<title>Preppy Sports Wallpaper: Stylish & Fun Decor</title>
+                    <meta name="description" content="Discover the charm of preppy sports wallpaper! Perfect for adding a trendy touch to your room, this wallpaper combines classic styles with a sporty flair. Ideal for all spaces, bring life and personality to your walls today!">
+                    <meta name="keywords" content="preppy sports wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy">
+                            <span itemprop="name">Preppy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/preppy/preppy-sports-wallpaper">
+                            <span itemprop="name">preppy sports wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Preppy Sports Wallpaper: Stylish & Fun Decor</h1>
+                <p>Elevate your space with preppy sports wallpaper! Featuring bold stripes, vibrant colors, and chic patterns, this wallpaper style merges classic preppy aesthetics with sporty vibes. Perfect for a playful yet sophisticated look, it transforms any room into a lively environment. Ideal for game rooms, nurseries, or anywhere you want to inject some fun!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sporty pastel #sports #aesthetic #wallpaper #sportsaestheticwallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0f/9e/60/0f9e60a2678f90a6cb300af045d8932b.jpg' alt='Sporty pastel #sports #aesthetic #wallpaper #sportsaestheticwallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0f/9e/60/0f9e60a2678f90a6cb300af045d8932b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9 Preppy basketball cute ideas | basketball, basketball girls ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/fb/44/c6/fb44c672627fa18dbce36e074f3a605f.jpg' alt='9 Preppy basketball cute ideas | basketball, basketball girls ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/fb/44/c6/fb44c672627fa18dbce36e074f3a605f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Basketball Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp13429287.jpg' alt='Preppy Basketball Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1079">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp13429287.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pink Sports Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-sports-73bq3n2fykktlolm.jpg' alt='100+] Pink Sports Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1193">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-sports-73bq3n2fykktlolm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="myfirstshuffle #soccer #soccergirl #socceraesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b7/ef/df/b7efdf5f808bdad3b15505b1d20c74c4.jpg' alt='myfirstshuffle #soccer #soccergirl #socceraesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b7/ef/df/b7efdf5f808bdad3b15505b1d20c74c4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Soccer Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp13462221.jpg' alt='Preppy Soccer Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp13462221.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Softball+Basketball        ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7b/54/e2/7b54e2159111d0a120a438764a919282.jpg' alt='Softball+Basketball        '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7b/54/e2/7b54e2159111d0a120a438764a919282.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="basketball wallpaper     ⛹️‍♀️ | Gallery posted by ...">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7323025840541991430&index=0&sign=9b81fdba5fc827715981de4dadaa3e56' alt='basketball wallpaper     ⛹️‍♀️ | Gallery posted by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="836">
+                                <meta itemprop="height" content="1117">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7323025840541991430&index=0&sign=9b81fdba5fc827715981de4dadaa3e56' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Iphone Collage HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/preppy-8_63860522934505.5.jpg' alt='Preppy Iphone Collage HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Hackster" />
+                                </span>
+                                <a href='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/preppy-8_63860522934505.5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Soccer leopard smiley face Pattern Seamless Repeat, Seamless soccer  Leopard Pattern for Fabric Sublimation, American sports seamless">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/32186191/r/il/ec4206/3865579789/il_570xN.3865579789_7ye2.jpg' alt='Retro Soccer leopard smiley face Pattern Seamless Repeat, Seamless soccer  Leopard Pattern for Fabric Sublimation, American sports seamless'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/32186191/r/il/ec4206/3865579789/il_570xN.3865579789_7ye2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

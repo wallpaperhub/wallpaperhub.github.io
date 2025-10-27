@@ -1,0 +1,129 @@
+<title>Beautiful Studio Ghibli Wallpapers for Your Devices</title>
+                    <meta name="description" content="Discover the charm of Studio Ghibli with stunning wallpapers perfect for any device. Elevate your screen with magical imagery from classic films like "Spirited Away" and "Howl's Moving Castle". Explore our collection today and bring a touch of Ghibli magic to your digital life!">
+                    <meta name="keywords" content="studio ghibli wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/studio-ghibli-wallpaper">
+                            <span itemprop="name">studio ghibli wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful Studio Ghibli Wallpapers for Your Devices</h1>
+                <p>Transform your digital space with enchanting Studio Ghibli wallpapers! Celebrate the magic of beloved films like "My Neighbor Totoro" and "Spirited Away" by adorning your screens with stunning visuals. Whether you're a lifelong fan or new to the enchanting worlds created by Hayao Miyazaki, these wallpapers offer a glimpse into Ghibli's whimsical artistry.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Studio Ghibli Wallpapers (115 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/2/3/4/1198593-3840x2160-desktop-4k-studio-ghibli-background.jpg' alt='Studio Ghibli Wallpapers (115 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/2/3/4/1198593-3840x2160-desktop-4k-studio-ghibli-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Studio Ghibli Wallpapers (115 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/7/7/4/1198914-2560x1440-desktop-hd-studio-ghibli-wallpaper-photo.jpg' alt='Studio Ghibli Wallpapers (115 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/7/7/4/1198914-2560x1440-desktop-hd-studio-ghibli-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Ultra Wide Studio Ghibli wallpapers : r/ultrawidemasterrace">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/pild3d67cyf51.jpg?width=5120&format=pjpg&auto=webp&s=a262626bae5700388b1033c4ecc5962e995c840e' alt='Super Ultra Wide Studio Ghibli wallpapers : r/ultrawidemasterrace'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5120">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/pild3d67cyf51.jpg?width=5120&format=pjpg&auto=webp&s=a262626bae5700388b1033c4ecc5962e995c840e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Collection of my favourite Ghibli wallpapers [feel free to ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/V9wn3NbhSgI9sCheOPDuVuGHCShmDAVmTQXGxoTkoC8.jpg?auto=webp&s=253798e9530fc7a956ca577a42246f204cf293f9' alt='Collection of my favourite Ghibli wallpapers [feel free to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2700">
+                                <meta itemprop="height" content="1606">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/V9wn3NbhSgI9sCheOPDuVuGHCShmDAVmTQXGxoTkoC8.jpg?auto=webp&s=253798e9530fc7a956ca577a42246f204cf293f9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Studio Ghibli Wallpapers (115 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/2/a/b/1198591-3840x2160-desktop-4k-studio-ghibli-background-photo.jpg' alt='Studio Ghibli Wallpapers (115 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/2/a/b/1198591-3840x2160-desktop-4k-studio-ghibli-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Studio Ghibli Wallpapers">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/1758073114103109159/20B042641BF6359FEE0D9E96CE7D62205EB179A3/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::Studio Ghibli Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/1758073114103109159/20B042641BF6359FEE0D9E96CE7D62205EB179A3/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Studio Ghibli Free Wallpaper Download Info | Hypebeast">
+                                <img itemprop="contentUrl url" src='https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F04%2Fstudio-ghibli-free-wallpaper-download-info-00.jpg?w=960&cbr=1&q=90&fit=max' alt='Studio Ghibli Free Wallpaper Download Info | Hypebeast'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hypebeast" />
+                                </span>
+                                <a href='https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F04%2Fstudio-ghibli-free-wallpaper-download-info-00.jpg?w=960&cbr=1&q=90&fit=max' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Studio Ghibli teases the opening of Ghibli Park with a free ...">
+                                <img itemprop="contentUrl url" src='https://media.timeout.com/images/105861847/image.jpg' alt='Studio Ghibli teases the opening of Ghibli Park with a free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Time Out" />
+                                </span>
+                                <a href='https://media.timeout.com/images/105861847/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Your Free Ghibli-Inspired XP Landscape Wallpaper by patrika">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/136/1360350.png' alt='Download Your Free Ghibli-Inspired XP Landscape Wallpaper by patrika'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2912">
+                                <meta itemprop="height" content="1632">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/136/1360350.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Studio Ghibli / Crowned | Observable">
+                                <img itemprop="contentUrl url" src='http://getwallpapers.com/wallpaper/full/9/2/4/654076.jpg' alt='Studio Ghibli / Crowned | Observable'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2230">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Observable" />
+                                </span>
+                                <a href='http://getwallpapers.com/wallpaper/full/9/2/4/654076.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

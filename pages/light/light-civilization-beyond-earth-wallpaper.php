@@ -1,0 +1,129 @@
+<title>Mesmerizing Light Civilizations: Wallpaper for Space Lovers</title>
+                    <meta name="description" content="Transform your device with our captivating wallpaper of light civilizations beyond Earth. Perfect for space enthusiasts, this design features stunning visuals that spark imagination and wonder. Download now and immerse yourself in the beauty of extraterrestrial landscapes!">
+                    <meta name="keywords" content="light civilization beyond earth wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light">
+                            <span itemprop="name">Light</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light/light-civilization-beyond-earth-wallpaper">
+                            <span itemprop="name">light civilization beyond earth wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mesmerizing Light Civilizations: Wallpaper for Space Lovers</h1>
+                <p>Explore the wonders of light civilizations beyond Earth! This stunning wallpaper showcases ethereal landscapes filled with radiant colors, futuristic cities, and vibrant alien life. Ideal for those fascinated by space and the possibilities of extraterrestrial life, it brings a touch of cosmic beauty to your digital devices.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Civilization Beyond Earth Fantasy Landscape - HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/539/thumb-1920-539646.jpg' alt='Civilization Beyond Earth Fantasy Landscape - HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1855">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/539/thumb-1920-539646.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sid Meier's Civilization Beyond Earth — HUDS+GUIS">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5438bd1be4b0446f6692b906/1446715355934-79RL5V3ZIZC2DOFLU69J/Screen+Shot+2015-11-05+at+8.17.26+pm.png?format=2500w' alt='Sid Meier's Civilization Beyond Earth — HUDS+GUIS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1406">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HUDS+GUIS" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5438bd1be4b0446f6692b906/1446715355934-79RL5V3ZIZC2DOFLU69J/Screen+Shot+2015-11-05+at+8.17.26+pm.png?format=2500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Exploring the Unfamiliar in Civilization Beyond Earth ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/civilization-beyond-earth-background-jqpb94gcapc77szo.jpg' alt='Download Exploring the Unfamiliar in Civilization Beyond Earth ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/civilization-beyond-earth-background-jqpb94gcapc77szo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Civilization Beyond Earth HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/549/thumb-350-549812.webp' alt='Civilization Beyond Earth HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="219">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/549/thumb-350-549812.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Civilization: Beyond Earth wallpaper! Need anything changed, go ...">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/OZ2AA02.png' alt='A Civilization: Beyond Earth wallpaper! Need anything changed, go ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://i.imgur.com/OZ2AA02.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game Civilization: Beyond Earth 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/598/thumb-1920-598564.jpg' alt='Download Video Game Civilization: Beyond Earth 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1242">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/598/thumb-1920-598564.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300+] Civilization Beyond Earth Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/1920x1080-civilization-beyond-earth-background-4hcsp3p0hcab576b.jpg' alt='300+] Civilization Beyond Earth Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/1920x1080-civilization-beyond-earth-background-4hcsp3p0hcab576b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A Purple Ship In The Water With A Purple Light ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/civilization-beyond-earth-background-5n2w59633b7han9c.jpg' alt='Download A Purple Ship In The Water With A Purple Light ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/civilization-beyond-earth-background-5n2w59633b7han9c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Civilization: Beyond Earth Wallpapers [1920x1080] (xposted on /r ...">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/5hUUS0n.jpg' alt='Civilization: Beyond Earth Wallpapers [1920x1080] (xposted on /r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2559">
+                                <meta itemprop="height" content="1439">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://i.imgur.com/5hUUS0n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sid Meier's Civilization: Beyond Earth - Rising Tide UltraWide 21 ...">
+                                <img itemprop="contentUrl url" src='https://www.gamewallpapers.com/img_script/wallpaper_dir/img.php?src=wallpaper_sid_meiers_civilization_beyond_earth_-_rising_tide_01_2560x1080.jpg&height=506&sharpen' alt='Sid Meier's Civilization: Beyond Earth - Rising Tide UltraWide 21 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1199">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameWallpapers.com" />
+                                </span>
+                                <a href='https://www.gamewallpapers.com/img_script/wallpaper_dir/img.php?src=wallpaper_sid_meiers_civilization_beyond_earth_-_rising_tide_01_2560x1080.jpg&height=506&sharpen' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

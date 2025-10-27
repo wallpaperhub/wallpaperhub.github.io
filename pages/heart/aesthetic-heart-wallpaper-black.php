@@ -1,0 +1,129 @@
+<title>Elegant Black Heart Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover stunning black heart wallpapers that elevate your aesthetic. Perfect for personalizing your smartphone or computer, these wallpapers blend elegance with a modern twist. Download now and transform your device with stylish, minimalist designs!">
+                    <meta name="keywords" content="aesthetic heart wallpaper black">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart">
+                            <span itemprop="name">Heart</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart/aesthetic-heart-wallpaper-black">
+                            <span itemprop="name">aesthetic heart wallpaper black</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Black Heart Wallpapers for Your Device</h1>
+                <p>Aesthetic heart wallpaper in black brings a chic and trendy vibe to your digital devices. Its sleek design combines minimalism with a touch of romance, perfect for those who appreciate a dark but stylish aesthetic. Ideal for backgrounds on phones or computers, this wallpaper captivates with its deep contrasts and elegant shapes.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and white aesthetic heart wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a1/f6/34/a1f634cd115ca7e4f319029c29be972c.jpg' alt='Black and white aesthetic heart wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="716">
+                                <meta itemprop="height" content="976">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a1/f6/34/a1f634cd115ca7e4f319029c29be972c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Aesthetic Black Heart Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-black-heart-736-x-1448-wallpaper-6can4ev9rwchiwmk.jpg' alt='100+] Aesthetic Black Heart Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-black-heart-736-x-1448-wallpaper-6can4ev9rwchiwmk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimal Black Aesthetic Wallpaper with Heart Design">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/59/b1/4c/59b14ca507577a5036dc0dc7c94ba57b.jpg' alt='Minimal Black Aesthetic Wallpaper with Heart Design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/59/b1/4c/59b14ca507577a5036dc0dc7c94ba57b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is typing ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3256704432467632712' alt='Is typing ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="843">
+                                <meta itemprop="height" content="1054">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3256704432467632712' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Black Heart Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/abstract-black-heart-aesthetic-la01zsd0hk9i0jym.jpg' alt='Abstract Black Heart Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/abstract-black-heart-aesthetic-la01zsd0hk9i0jym.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A Dark Aesthetic Heart Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-black-heart-736-x-1308-wallpaper-6g0nyawqdsyirkun.jpg' alt='Download A Dark Aesthetic Heart Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-black-heart-736-x-1308-wallpaper-6g0nyawqdsyirkun.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/59/e9/37/59e937121fc6c0622027e53fe5f6c888.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/59/e9/37/59e937121fc6c0622027e53fe5f6c888.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Aesthetic Phone Heart With Crown Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/black-aesthetic-phone-heart-with-crown-k4wahrt9e8amssa2.jpg' alt='Black Aesthetic Phone Heart With Crown Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="976">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/black-aesthetic-phone-heart-with-crown-k4wahrt9e8amssa2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Customize 640+ Heart Phone Wallpaper Templates Online - Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFbM-bXCuo/3/0/900w/canva-black-and-pink-blurry-heart-phone-wallpaper-hEM-HWcPqlg.jpg' alt='Customize 640+ Heart Phone Wallpaper Templates Online - Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFbM-bXCuo/3/0/900w/canva-black-and-pink-blurry-heart-phone-wallpaper-hEM-HWcPqlg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Aesthetic Heart wallpaper by Qrisio - Download on ZEDGE™ | 6940">
+                                <img itemprop="contentUrl url" src='https://is.zobj.net/image-server/v1/images?r=zO507dfvAXF3WwV7pbiiz_ZGXKN_WRxqeRzLGqc7qWYmnOvW4uzzr0qxECTYrsloaSuM9pG0dXSFMFzCl8LgFub6V-ldnByiVR1kW8khKaBoaRQiIqiaDiM1CkxQAJjL-B9urc0k5-rxsJPnUu7OzuKDvb9cgeBQessAlfac8QRTG6pA1kSwi3SvlRnup22GiSNw2vcCmmjlS5NziskvXPY7hBGD8WWvWImWve-_ccxV4t_r26MjsWt9FK4' alt='Dark Aesthetic Heart wallpaper by Qrisio - Download on ZEDGE™ | 6940'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="673">
+                                <meta itemprop="height" content="1206">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zedge" />
+                                </span>
+                                <a href='https://is.zobj.net/image-server/v1/images?r=zO507dfvAXF3WwV7pbiiz_ZGXKN_WRxqeRzLGqc7qWYmnOvW4uzzr0qxECTYrsloaSuM9pG0dXSFMFzCl8LgFub6V-ldnByiVR1kW8khKaBoaRQiIqiaDiM1CkxQAJjL-B9urc0k5-rxsJPnUu7OzuKDvb9cgeBQessAlfac8QRTG6pA1kSwi3SvlRnup22GiSNw2vcCmmjlS5NziskvXPY7hBGD8WWvWImWve-_ccxV4t_r26MjsWt9FK4' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Glittery Christmas Wallpaper for Festive Decor</title>
+                    <meta name="description" content="Enhance your holiday spirit with our beautiful Christmas glitter wallpaper. Perfect for creating a festive atmosphere, our designs offer a range of styles to suit any decor. Make your home shine this Christmas season! Shop now for the perfect holiday transformation!">
+                    <meta name="keywords" content="christmas glitter wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/christmas-glitter-wallpaper">
+                            <span itemprop="name">christmas glitter wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Glittery Christmas Wallpaper for Festive Decor</h1>
+                <p>Transform your space this holiday season with Christmas glitter wallpaper! Add a touch of sparkle and festive charm to your home decor. From classic red and green to elegant silver and gold, there's a design for every style. Perfect for living rooms, bedrooms, or cozy corners, make your Christmas unforgettable!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="53 CHRISTMAS IPHONE WALLPAPERS TO DOWNLOAD WITHOUT COST ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2b/0a/fd/2b0afd64b17fe85c23bd5d76be55e63a.jpg' alt='53 CHRISTMAS IPHONE WALLPAPERS TO DOWNLOAD WITHOUT COST ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="577">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2b/0a/fd/2b0afd64b17fe85c23bd5d76be55e63a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Glitter Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/gold-glitter-christmas-background-with-snowflakes_1048-9677.jpg' alt='Christmas Glitter Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/gold-glitter-christmas-background-with-snowflakes_1048-9677.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Christmas wallpaper with glitter effect">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/christmas-wallpaper-with-glitter-effect_23-2148391685.jpg' alt='Free Vector | Christmas wallpaper with glitter effect'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/christmas-wallpaper-with-glitter-effect_23-2148391685.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="42 Christmas Sparkle & Glitter Cell phone Wallpaper / Background ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/44/74/1e/44741e4ae55da1944d1809ac6e7ce51b.jpg' alt='42 Christmas Sparkle & Glitter Cell phone Wallpaper / Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/44/74/1e/44741e4ae55da1944d1809ac6e7ce51b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Festive Christmas Glitter Wallpaper - free download">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/thumbnail/festive-christmas-glitter-wallpaper.webp' alt='Festive Christmas Glitter Wallpaper - free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="155">
+                                <meta itemprop="height" content="325">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/thumbnail/festive-christmas-glitter-wallpaper.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Glitter Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e9/cf/b8/e9cfb86002f80669ada187b72db4a581.jpg' alt='Free Glitter Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e9/cf/b8/e9cfb86002f80669ada187b72db4a581.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmassy, christmas, glitter, red, snowflake, sparkle, tree, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/334/367/HD-wallpaper-christmassy-christmas-glitter-red-snowflake-sparkle-tree.jpg' alt='Christmassy, christmas, glitter, red, snowflake, sparkle, tree, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/334/367/HD-wallpaper-christmassy-christmas-glitter-red-snowflake-sparkle-tree.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas glass ball in snow. Glitter background by Michal Bednarek">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/christmas-glass-ball-in-snow-glitter-background-michal-bednarek.jpg' alt='Christmas glass ball in snow. Glitter background by Michal Bednarek'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixels" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/christmas-glass-ball-in-snow-glitter-background-michal-bednarek.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="42 Christmas Sparkle & Glitter Cell phone Wallpaper / Background ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/10/11/b7/1011b7a1d066891307be4559f2fc587c.jpg' alt='42 Christmas Sparkle & Glitter Cell phone Wallpaper / Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/10/11/b7/1011b7a1d066891307be4559f2fc587c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Glitter Background · Creative Fabrica">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2023/10/07/Christmas-Glitter-Background-80993477-1.png' alt='Christmas Glitter Background · Creative Fabrica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2023/10/07/Christmas-Glitter-Background-80993477-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

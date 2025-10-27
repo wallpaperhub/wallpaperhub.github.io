@@ -1,0 +1,129 @@
+<title>Penn State White Out Wallpapers: Show Your Pride!</title>
+                    <meta name="description" content="Enhance your devices with Penn State White Out wallpapers, featuring breathtaking images from game day. Perfect for true fans, these high-quality backgrounds allow you to showcase your love for the Nittany Lions anytime, anywhere. Download now and elevate your screen's style!">
+                    <meta name="keywords" content="penn state white out wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/penn-state-white-out-wallpaper">
+                            <span itemprop="name">penn state white out wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Penn State White Out Wallpapers: Show Your Pride!</h1>
+                <p>Experience the thrill of Penn State's iconic White Out with stunning wallpapers that capture the electric atmosphere of game day. These high-resolution images showcase the sea of white in Beaver Stadium, perfect for fans to display on their devices. Transform your screen and show your Penn State pride all year long!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Out-Themed iPhone Wallpapers | Onward State">
+                                <img itemprop="contentUrl url" src='https://i1.wp.com/images.onwardstate.com/uploads/2023/09/Artboard-4.png?ssl=1' alt='White Out-Themed iPhone Wallpapers | Onward State'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Onward State" />
+                                </span>
+                                <a href='https://i1.wp.com/images.onwardstate.com/uploads/2023/09/Artboard-4.png?ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="290 Penn State White Out Stock Photos, High-Res Pictures, and ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/83102877/photo/penn-state-fans-dressed-for-white-out-game-as-team-enters-beaver-stadium-from-tunnel-before.jpg?s=612x612&w=gi&k=20&c=6w98m_Nb_4A-B2ZS56k493emGVapNMLYAtwb88sFR9Y=' alt='290 Penn State White Out Stock Photos, High-Res Pictures, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/83102877/photo/penn-state-fans-dressed-for-white-out-game-as-team-enters-beaver-stadium-from-tunnel-before.jpg?s=612x612&w=gi&k=20&c=6w98m_Nb_4A-B2ZS56k493emGVapNMLYAtwb88sFR9Y=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Penn State Whiteout Design 2 Football Stadium Custom Designed ...">
+                                <img itemprop="contentUrl url" src='https://www.letsprintbig.com/cdn/shop/products/PENNSTATEWHITEOUT3-PROOF_1080x.jpg?v=1666623436' alt='Penn State Whiteout Design 2 Football Stadium Custom Designed ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Let's Print Big" />
+                                </span>
+                                <a href='https://www.letsprintbig.com/cdn/shop/products/PENNSTATEWHITEOUT3-PROOF_1080x.jpg?v=1666623436' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="290 Penn State White Out Stock Photos, High-Res Pictures, and ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1703433609/photo/state-college-pa-a-general-view-as-fireworks-explode-before-the-white-out-game-between-the.jpg?s=612x612&w=gi&k=20&c=1VNZBePmuQ8_8ARCpXeRAcE9rNPUHlv1_858ZqXciSc=' alt='290 Penn State White Out Stock Photos, High-Res Pictures, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1703433609/photo/state-college-pa-a-general-view-as-fireworks-explode-before-the-white-out-game-between-the.jpg?s=612x612&w=gi&k=20&c=1VNZBePmuQ8_8ARCpXeRAcE9rNPUHlv1_858ZqXciSc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Out" -- Penn State vs. Notre Dame -- Beaver Stadium, State ...">
+                                <img itemprop="contentUrl url" src='https://www.davidbergman.net/img-get2/I0000YCKX8Q4h6PQ/fit=1000x750/NotreDame-PennSt-3337-17X22.jpg' alt='White Out" -- Penn State vs. Notre Dame -- Beaver Stadium, State ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="655">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="David Bergman" />
+                                </span>
+                                <a href='https://www.davidbergman.net/img-get2/I0000YCKX8Q4h6PQ/fit=1000x750/NotreDame-PennSt-3337-17X22.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Out-Themed iPhone Wallpapers | Onward State">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/images.onwardstate.com/uploads/2023/09/Football-vs.-WVU-West-Virginia-Stutzman-04224-scaled.jpg?fit=2560%2C1707&ssl=1' alt='White Out-Themed iPhone Wallpapers | Onward State'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Onward State" />
+                                </span>
+                                <a href='https://i0.wp.com/images.onwardstate.com/uploads/2023/09/Football-vs.-WVU-West-Virginia-Stutzman-04224-scaled.jpg?fit=2560%2C1707&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Often imitated. Never replicated. This is the Penn State White Out ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3198520303008980985' alt='Often imitated. Never replicated. This is the Penn State White Out ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3198520303008980985' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Penn State football hosts Washington in White Out game: Photo ...">
+                                <img itemprop="contentUrl url" src='https://www.ydr.com/gcdn/authoring/authoring-images/2024/11/10/PLAL/76170140007-usatsi-24724642.jpg?crop=5405,3041,x0,y281&width=3200&height=1801&format=pjpg&auto=webp' alt='Penn State football hosts Washington in White Out game: Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="1801">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.ydr.com" />
+                                </span>
+                                <a href='https://www.ydr.com/gcdn/authoring/authoring-images/2024/11/10/PLAL/76170140007-usatsi-24724642.jpg?crop=5405,3041,x0,y281&width=3200&height=1801&format=pjpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="penn state whiteout game">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/53/0f/05/530f0582777b41951794928031681800.jpg' alt='penn state whiteout game'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/53/0f/05/530f0582777b41951794928031681800.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Penn State White Out ⚪️  ">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3494684713752964174' alt='The Penn State White Out ⚪️  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3494684713752964174' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

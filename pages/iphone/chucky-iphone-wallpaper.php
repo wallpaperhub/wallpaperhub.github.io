@@ -1,0 +1,129 @@
+<title>Chucky iPhone Wallpapers: Eerie Designs for Horror Fans</title>
+                    <meta name="description" content="Discover chilling Chucky iPhone wallpapers that bring a touch of horror to your screen. Perfect for fans of the iconic doll, these high-res designs are optimized for mobile display. Transform your device with spine-tingling images and show off your love for all things scary!">
+                    <meta name="keywords" content="chucky iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/chucky-iphone-wallpaper">
+                            <span itemprop="name">chucky iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chucky iPhone Wallpapers: Eerie Designs for Horror Fans</h1>
+                <p>Transform your iPhone with chilling Chucky wallpapers! Each design features the iconic doll in various eerie poses, perfect for horror lovers. Available in high resolution, these wallpapers add a spine-tingling touch to your device. Dive into the world of Chucky and showcase your passion for horror with these captivating backgrounds!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chucky iPhone Lock-Screen Wallpaper I made if anyone wants it : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/chucky-iphone-lock-screen-wallpaper-i-made-if-anyone-wants-v0-28y2m7iynhy91.jpg?width=1080&crop=smart&auto=webp&s=1b664670c91dbdcdf719e567576f03b6aed06e9d' alt='Chucky iPhone Lock-Screen Wallpaper I made if anyone wants it : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2337">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/chucky-iphone-lock-screen-wallpaper-i-made-if-anyone-wants-v0-28y2m7iynhy91.jpg?width=1080&crop=smart&auto=webp&s=1b664670c91dbdcdf719e567576f03b6aed06e9d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chucky Wallpaper Iphone Free">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/52/f7/f8/52f7f863d216f0f7ab06d9e3f6d25433.jpg' alt='Chucky Wallpaper Iphone Free'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="973">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/52/f7/f8/52f7f863d216f0f7ab06d9e3f6d25433.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chucky, art, halloween, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/127/806/HD-wallpaper-chucky-art-halloween.jpg' alt='Chucky, art, halloween, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/127/806/HD-wallpaper-chucky-art-halloween.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Childs play 3, chucky, doll, killer, the, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/27/955/HD-wallpaper-childs-play-3-chucky-doll-killer-the.jpg' alt='Childs play 3, chucky, doll, killer, the, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/27/955/HD-wallpaper-childs-play-3-chucky-doll-killer-the.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chucky tv show phone wallpapers – @fanofspooky on Tumblr">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/ac9be8b0fbb1950d075eafdd1dd3dcf6/3e5037b3f188aee0-37/s1280x1920/61ec4eb0d26598d6c51e84d1fff8b2514bbc945b.jpg' alt='Chucky tv show phone wallpapers – @fanofspooky on Tumblr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/ac9be8b0fbb1950d075eafdd1dd3dcf6/3e5037b3f188aee0-37/s1280x1920/61ec4eb0d26598d6c51e84d1fff8b2514bbc945b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Horror Villain Chucky Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/horror-villain-chucky-g75x3xduew8hiply.jpg' alt='Horror Villain Chucky Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/horror-villain-chucky-g75x3xduew8hiply.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Scary Chucky Holding Injection Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/scary-chucky-holding-injection-odcel1t1v6jioonc.jpg' alt='Download Scary Chucky Holding Injection Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1079">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/scary-chucky-holding-injection-odcel1t1v6jioonc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chucky iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp10560549.jpg' alt='Chucky iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="3045">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp10560549.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chucky Horror Phone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/chucky-horror-phone-aiorl3tukesf9cg8.jpg' alt='Chucky Horror Phone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="504">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/chucky-horror-phone-aiorl3tukesf9cg8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bride of Chucky, doll, killer, the, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/444/754/HD-wallpaper-bride-of-chucky-doll-killer-the.jpg' alt='Bride of Chucky, doll, killer, the, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/444/754/HD-wallpaper-bride-of-chucky-doll-killer-the.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

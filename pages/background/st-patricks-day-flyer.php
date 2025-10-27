@@ -1,0 +1,129 @@
+<title>“St. Patrick's Day Celebration Flyer Template”</title>
+                    <meta name="description" content="Join the fun this St. Patrick's Day! Download our eye-catching flyer template to promote your event. Easy to customize with all the essential details and festive designs. Perfect for parties, parades, or gatherings. Make this March 17th a day to remember!">
+                    <meta name="keywords" content="st patricks day flyer">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/st-patricks-day-flyer">
+                            <span itemprop="name">st patricks day flyer</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>“St. Patrick's Day Celebration Flyer Template”</h1>
+                <p>Celebrate St. Patrick's Day in style with our vibrant flyer! Featuring shamrocks, leprechauns, and festive colors, it's perfect for inviting friends to your party or event. Include the date, time, and a catchy slogan to attract guests. Get ready for a day of fun, food, and unforgettable memories this March 17th!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free printable St. Patrick's Day poster templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFcAztmqT4/1/0/1131w/canva-green-happy-st-patrick%27s-day-party-free-invitation-poster-IxTR8yAU3rs.jpg' alt='Free printable St. Patrick's Day poster templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1131">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFcAztmqT4/1/0/1131w/canva-green-happy-st-patrick%27s-day-party-free-invitation-poster-IxTR8yAU3rs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable st patricks templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFbxBhOP0Y/1/0/1131w/canva-green-orange-colorful-st.-patrick%27s-day-party-flyer-kaTaPMWclvk.jpg' alt='Free and customizable st patricks templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1131">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFbxBhOP0Y/1/0/1131w/canva-green-orange-colorful-st.-patrick%27s-day-party-flyer-kaTaPMWclvk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="St Patrick's Day Flyer Psd">
+                                <img itemprop="contentUrl url" src='https://www.creative-flyers.com/wp-content/uploads/2018/02/St-Patricks-Day-Flyer-2.jpg' alt='St Patrick's Day Flyer Psd'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="590">
+                                <meta itemprop="height" content="868">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Flyers" />
+                                </span>
+                                <a href='https://www.creative-flyers.com/wp-content/uploads/2018/02/St-Patricks-Day-Flyer-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free printable St. Patrick's Day poster templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGb6IFhib4/1/0/1131w/canva-green-and-cream-modern-happy-st.-patrick%27s-day-poster-skY75So7C84.jpg' alt='Free printable St. Patrick's Day poster templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1131">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGb6IFhib4/1/0/1131w/canva-green-and-cream-modern-happy-st.-patrick%27s-day-poster-skY75So7C84.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free St. Patricks Day Flyer PSD Template | FreePSDFlyer">
+                                <img itemprop="contentUrl url" src='https://freepsdflyer.com/wp-content/uploads/2021/03/Free-St-Patricks-Day-Flyer-PSD-Template.jpg' alt='Free St. Patricks Day Flyer PSD Template | FreePSDFlyer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="776">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FreePSDFlyer" />
+                                </span>
+                                <a href='https://freepsdflyer.com/wp-content/uploads/2021/03/Free-St-Patricks-Day-Flyer-PSD-Template.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="St. Patrick's Day Promotions Templates">
+                                <img itemprop="contentUrl url" src='https://edit.org/img/blog/jjy-saint-patricks-template-promote-business.webp' alt='St. Patrick's Day Promotions Templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1131">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Edit.org" />
+                                </span>
+                                <a href='https://edit.org/img/blog/jjy-saint-patricks-template-promote-business.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="St Patrick's Day Poster Templates - Easil">
+                                <img itemprop="contentUrl url" src='https://thumbs.easil.com/27da890c-291b-4029-a5d1-69bda2209496/7b113b3c-f1fc-4520-a7a3-efe3189638f7.png' alt='St Patrick's Day Poster Templates - Easil'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="311">
+                                <meta itemprop="height" content="440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Easil" />
+                                </span>
+                                <a href='https://thumbs.easil.com/27da890c-291b-4029-a5d1-69bda2209496/7b113b3c-f1fc-4520-a7a3-efe3189638f7.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="St Patricks Day Flyer Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/saint-patricks-day-party-flyer-with-clover-typography_1314-2601.jpg' alt='St Patricks Day Flyer Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/saint-patricks-day-party-flyer-with-clover-typography_1314-2601.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Create Free St. Patrick's Day Flyers | PosterMyWall">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/themedlandingpages/tlp_hero_st-patricks-day-flyer-ed1ae7384b66b4704c2251b3f5d91b5f.jpg?ts%20=%201699443666' alt='Create Free St. Patrick's Day Flyers | PosterMyWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="347">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/themedlandingpages/tlp_hero_st-patricks-day-flyer-ed1ae7384b66b4704c2251b3f5d91b5f.jpg?ts%20=%201699443666' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="St Patricks Flyer Template">
+                                <img itemprop="contentUrl url" src='https://www.creative-flyers.com/wp-content/uploads/2018/02/St-Patricks-Flyer-Template-12_0005201802.jpg' alt='St Patricks Flyer Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="590">
+                                <meta itemprop="height" content="868">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Flyers" />
+                                </span>
+                                <a href='https://www.creative-flyers.com/wp-content/uploads/2018/02/St-Patricks-Flyer-Template-12_0005201802.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

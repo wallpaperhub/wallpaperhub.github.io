@@ -1,0 +1,129 @@
+<title>Vibrant Hawaiian Peel and Stick Wallpaper for Your Home</title>
+                    <meta name="description" content="Add a tropical touch to your interiors with our Hawaiian peel and stick wallpaper. Easy to install and remove, it's perfect for renters and DIY projects. Enjoy lush designs and vibrant colors that bring the islands to your living space today!">
+                    <meta name="keywords" content="hawaiian peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/hawaiian-peel-and-stick-wallpaper">
+                            <span itemprop="name">hawaiian peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Hawaiian Peel and Stick Wallpaper for Your Home</h1>
+                <p>Transform your space with Hawaiian peel and stick wallpaper! This vibrant and tropical decor option features lush patterns and colors that bring the beauty of the islands right into your home. Easy to apply and remove, it’s perfect for renters and DIY enthusiasts alike. Elevate your interiors with a touch of paradise!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper Hawaiian Seamless with Tropical Fruits and Flowers  Self Adhesive Removable and Contact Paper for Room Home Bedroom Living ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/711tSKnT3hL._AC_UF894,1000_QL80_.jpg' alt='Peel and Stick Wallpaper Hawaiian Seamless with Tropical Fruits and Flowers  Self Adhesive Removable and Contact Paper for Room Home Bedroom Living ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/711tSKnT3hL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tropical Hawaiian Wallpaper Colorful Leaves Peel and Stick and ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/39360382/c/2326/2326/0/24/il/31a636/5607479181/il_300x300.5607479181_j5w2.jpg' alt='Tropical Hawaiian Wallpaper Colorful Leaves Peel and Stick and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/39360382/c/2326/2326/0/24/il/31a636/5607479181/il_300x300.5607479181_j5w2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Wallpaper Hawaiian Vibe Mural Removable Pre-pasted ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20151272/r/il/95d9b4/4394066358/il_570xN.4394066358_2wn6.jpg' alt='Peel & Stick Wallpaper Hawaiian Vibe Mural Removable Pre-pasted ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="411">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20151272/r/il/95d9b4/4394066358/il_570xN.4394066358_2wn6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper Hawaii Seamless 18 Self Adhesive Removable and  Contact Paper for Room Home Bedroom Living Room Decor Mural Wall Paper">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71Swz6GYJsL._AC_UF894,1000_QL80_.jpg' alt='Peel and Stick Wallpaper Hawaii Seamless 18 Self Adhesive Removable and  Contact Paper for Room Home Bedroom Living Room Decor Mural Wall Paper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71Swz6GYJsL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tropical Hawaiian Wallpaper - Removable Wallpaper Peel and Stick Wallpaper  Wall Paper - B291">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.6071969877_a5w0.jpg?v=1722529047&width=1946' alt='Tropical Hawaiian Wallpaper - Removable Wallpaper Peel and Stick Wallpaper  Wall Paper - B291'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.6071969877_a5w0.jpg?v=1722529047&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tropical Vintage Hawaiian Night, Removable Wallpaper - MuralSprint ...">
+                                <img itemprop="contentUrl url" src='https://muralsprint.com/wp-content/uploads/2023/01/269558_8083a233bfdb40d88afda1652b08a065mv2_d_2362_2362_s_2.jpg' alt='Tropical Vintage Hawaiian Night, Removable Wallpaper - MuralSprint ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2362">
+                                <meta itemprop="height" content="2362">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MuralSprint" />
+                                </span>
+                                <a href='https://muralsprint.com/wp-content/uploads/2023/01/269558_8083a233bfdb40d88afda1652b08a065mv2_d_2362_2362_s_2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hawaiian Flat Flowers and Leaves Wallpaper - Removable Wallpaper Peel and  Stick Wallpaper Wall Paper - B355">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.6026041986_366g.jpg?v=1722495439&width=1946' alt='Hawaiian Flat Flowers and Leaves Wallpaper - Removable Wallpaper Peel and  Stick Wallpaper Wall Paper - B355'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.6026041986_366g.jpg?v=1722495439&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Boho Tropical Wallpaper, Hawaiian Palm Tree & Hibiscus Flower ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/22530032/r/il/f75e9a/5197287074/il_570xN.5197287074_3i9i.jpg' alt='Boho Tropical Wallpaper, Hawaiian Palm Tree & Hibiscus Flower ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/22530032/r/il/f75e9a/5197287074/il_570xN.5197287074_3i9i.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hawaiian dancers Retro Wallpaper - Peel & Stick - Removable">
+                                <img itemprop="contentUrl url" src='https://california-wallpaper.com/cdn/shop/products/il_fullxfull.4696781323_nsn0_1800x1800.jpg?v=1679544476' alt='Hawaiian dancers Retro Wallpaper - Peel & Stick - Removable'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="California Wallpaper" />
+                                </span>
+                                <a href='https://california-wallpaper.com/cdn/shop/products/il_fullxfull.4696781323_nsn0_1800x1800.jpg?v=1679544476' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Peel and Stick Wallpaper Beautiful Hawaiian Green Sea ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71Xd-YRRkSL.jpg' alt='Amazon.com: Peel and Stick Wallpaper Beautiful Hawaiian Green Sea ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71Xd-YRRkSL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

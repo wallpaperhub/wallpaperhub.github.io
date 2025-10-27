@@ -1,0 +1,129 @@
+<title>Stunning JWST 4K Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover an exquisite collection of JWST 4K wallpapers that showcase the beauty of the universe. Perfect for tech-savvy space lovers, these high-quality images will elevate your device's aesthetics while inspiring wonder and curiosity about the cosmos. Download your favorites today!">
+                    <meta name="keywords" content="jwst 4k wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/jwst-4k-wallpaper">
+                            <span itemprop="name">jwst 4k wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning JWST 4K Wallpapers for Your Device</h1>
+                <p>Transform your screen with stunning JWST 4K wallpapers that capture the breathtaking beauty of the cosmos. From vibrant nebulae to distant galaxies, these high-resolution images bring the wonders of space right to your device. Perfect for astronomy enthusiasts or anyone looking to elevate their background with celestial artistry.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="James Webb Telescope - Carina Nebula [3840x2160] : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/james-webb-telescope-carina-nebula-3840x2160-v0-msiz8gc4u5b91.png?auto=webp&s=ed3c1dee8ef2bb12eb8fa5752a05afc4fb8ccff5' alt='James Webb Telescope - Carina Nebula [3840x2160] : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/james-webb-telescope-carina-nebula-3840x2160-v0-msiz8gc4u5b91.png?auto=webp&s=ed3c1dee8ef2bb12eb8fa5752a05afc4fb8ccff5' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Explore the Cosmos: JWST Sci-Fi 4K Wallpaper - Download Free!">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/132/1325386.jpeg' alt='Explore the Cosmos: JWST Sci-Fi 4K Wallpaper - Download Free!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4500">
+                                <meta itemprop="height" content="2621">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/132/1325386.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="For a Space Junkie like Me, Webb Telescope Images Show the Hands ...">
+                                <img itemprop="contentUrl url" src='https://um-insight.net/downloads/14223/download/Tarantula_Nebula_NIRCam-Webb-1-scaled.jpg?cb=240e3bb4e70064502dbcc1d820d97bbb' alt='For a Space Junkie like Me, Webb Telescope Images Show the Hands ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="566">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="United Methodist Insight" />
+                                </span>
+                                <a href='https://um-insight.net/downloads/14223/download/Tarantula_Nebula_NIRCam-Webb-1-scaled.jpg?cb=240e3bb4e70064502dbcc1d820d97bbb' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download High resolution Webb Space Telescope images, how to ...">
+                                <img itemprop="contentUrl url" src='https://photoshopcafe.com/wp-content/uploads/2022/07/webb-wallpaper-psc-1-scaled.jpg' alt='Download High resolution Webb Space Telescope images, how to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photoshop Cafe" />
+                                </span>
+                                <a href='https://photoshopcafe.com/wp-content/uploads/2022/07/webb-wallpaper-psc-1-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Made a Bunch of Phone Wallpapers from Hubble & JWST Images and ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/xlieJ1zY9HCMItPg_bG8-cgpBstCxpFGhRifHB-5IGg.jpg?auto=webp&s=699fbe943b0f76f8ffbb6e24f3fa47564394e50f' alt='I Made a Bunch of Phone Wallpapers from Hubble & JWST Images and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/xlieJ1zY9HCMItPg_bG8-cgpBstCxpFGhRifHB-5IGg.jpg?auto=webp&s=699fbe943b0f76f8ffbb6e24f3fa47564394e50f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The James Webb Telescope's First Photos Show Its Extraordinary ...">
+                                <img itemprop="contentUrl url" src='http://media.wired.com/photos/62ccd67c3aaa436285ac2998/master/pass/Lede_science_main_image_deep_field_smacs0723-5mb.jpg' alt='The James Webb Telescope's First Photos Show Its Extraordinary ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WIRED" />
+                                </span>
+                                <a href='http://media.wired.com/photos/62ccd67c3aaa436285ac2998/master/pass/Lede_science_main_image_deep_field_smacs0723-5mb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Webb captures detailed beauty of Ring Nebula (NIRCam image) | ESA/Webb">
+                                <img itemprop="contentUrl url" src='https://cdn.esawebb.org/archives/images/wallpaper4/weic2320b.jpg' alt='Webb captures detailed beauty of Ring Nebula (NIRCam image) | ESA/Webb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ESA/Webb" />
+                                </span>
+                                <a href='https://cdn.esawebb.org/archives/images/wallpaper4/weic2320b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="James Webb Space Telescope Nebula 8k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/128/thumb-1920-1282149.png' alt='James Webb Space Telescope Nebula 8k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/128/thumb-1920-1282149.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download James Webb Space Telescope Sci Fi Nebula 4k Ultra HD ...">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/125/1255270.png' alt='Download James Webb Space Telescope Sci Fi Nebula 4k Ultra HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4833">
+                                <meta itemprop="height" content="4028">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/125/1255270.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="James Webb Space Telescope photos might be the best Galaxy ...">
+                                <img itemprop="contentUrl url" src='https://www.sammobile.com/wp-content/uploads/2022/07/STScI-01F8QS8JR44C2H9VMCBNZE6XNQ.png' alt='James Webb Space Telescope photos might be the best Galaxy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SamMobile" />
+                                </span>
+                                <a href='https://www.sammobile.com/wp-content/uploads/2022/07/STScI-01F8QS8JR44C2H9VMCBNZE6XNQ.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

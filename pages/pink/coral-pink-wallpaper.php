@@ -1,0 +1,129 @@
+<title>Transform Your Space with Coral Pink Wallpaper</title>
+                    <meta name="description" content="Discover the charm of coral pink wallpaper, perfect for brightening any room. This vibrant color adds warmth and personality, fitting seamlessly into various decor styles. Elevate your interior design with eye-catching patterns and textures that create a refreshing and inviting ambiance.">
+                    <meta name="keywords" content="coral pink wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/coral-pink-wallpaper">
+                            <span itemprop="name">coral pink wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Coral Pink Wallpaper</h1>
+                <p>Coral pink wallpaper is a stunning choice for any space, infusing warmth and vibrancy. This lively hue complements a variety of decor styles, from modern minimalist to vintage chic. Ideal for accent walls or entire rooms, coral pink wallpaper creates a welcoming atmosphere, inviting creativity and relaxation. Transform your space effortlessly with this beautiful option!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LUXE Traditional / 4 ft (h) x 19 in (w)">
+                                <img itemprop="contentUrl url" src='https://wallblush.com/cdn/shop/files/shopify_6c9f0f4e-038a-471c-8ca0-e4b86fbab48c.jpg?v=1714603676&width=2048' alt='LUXE Traditional / 4 ft (h) x 19 in (w)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='https://wallblush.com/cdn/shop/files/shopify_6c9f0f4e-038a-471c-8ca0-e4b86fbab48c.jpg?v=1714603676&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coral Solid Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/12025668/p/f/m/CWcAygksYH4Hpi14_0RJvU8CvJT1mHHCMWrPiysgZ5sWYqDytdoqm7_8C1Pu/Shrimp%20Pink%20Solid.jpg' alt='Coral Solid Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/12025668/p/f/m/CWcAygksYH4Hpi14_0RJvU8CvJT1mHHCMWrPiysgZ5sWYqDytdoqm7_8C1Pu/Shrimp%20Pink%20Solid.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mostly Coral Pink on Pink">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/52443/mostly-coral-pink-on-pink.jpg?h=699&q=85' alt='Mostly Coral Pink on Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="774">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/52443/mostly-coral-pink-on-pink.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hollyhocks Coral Pink Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.lauraashleyusa.com/cdn/shop/products/hollyhocks-coral-pink-wallpaper-760329.jpg?v=1669730087' alt='Hollyhocks Coral Pink Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="910">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Laura Ashley" />
+                                </span>
+                                <a href='https://www.lauraashleyusa.com/cdn/shop/products/hollyhocks-coral-pink-wallpaper-760329.jpg?v=1669730087' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A-Street Prints Whimsy Idalia Flamingo Wallpaper - Coral">
+                                <img itemprop="contentUrl url" src='https://uswalldecor.com/cdn/shop/files/4135-72717.jpg?v=1724432009&width=1445' alt='A-Street Prints Whimsy Idalia Flamingo Wallpaper - Coral'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1445">
+                                <meta itemprop="height" content="1351">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='https://uswalldecor.com/cdn/shop/files/4135-72717.jpg?v=1724432009&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unbranded Peony Coral Pink Peel and Stick Smooth Vinyl Wallpaper  W9131-Vinyl-CoralPink-216">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/9c30a60e-c9a0-445b-b995-4536abac3809/svn/wallpaper-rolls-w9131-vinyl-coralpink-216-44_600.jpg' alt='Unbranded Peony Coral Pink Peel and Stick Smooth Vinyl Wallpaper  W9131-Vinyl-CoralPink-216'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/9c30a60e-c9a0-445b-b995-4536abac3809/svn/wallpaper-rolls-w9131-vinyl-coralpink-216-44_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coral Pink Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20201027/pngtree-watercolor-coral-pink-paper-texture-smudge-background-image_432544.jpg' alt='Coral Pink Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="289">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20201027/pngtree-watercolor-coral-pink-paper-texture-smudge-background-image_432544.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Free download Coral Color Wallpaper Image Pictures Becuo on ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bd/06/74/bd06749a679c6b7b89ff243a8d152b15.jpg' alt='   Free download Coral Color Wallpaper Image Pictures Becuo on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1261">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bd/06/74/bd06749a679c6b7b89ff243a8d152b15.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coral Pink Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-drawn-abstract-floral-background_52683-139150.jpg' alt='Coral Pink Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-drawn-abstract-floral-background_52683-139150.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD coral pink wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/569/199/HD-wallpaper-paint-stains-abstraction-pink-coral-thumbnail.jpg' alt='HD coral pink wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/569/199/HD-wallpaper-paint-stains-abstraction-pink-coral-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

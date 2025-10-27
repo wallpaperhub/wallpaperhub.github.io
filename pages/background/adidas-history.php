@@ -1,0 +1,129 @@
+<title>“A Brief History of Adidas: From 1949 to Global Sports Leader”</title>
+                    <meta name="description" content="Explore the fascinating history of Adidas, from its 1949 founding by Adolf Dassler to its evolution into a global sports giant. Discover how innovation and style merged to redefine athletic wear, and learn about the brand's commitment to sustainability and performance.">
+                    <meta name="keywords" content="adidas history">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/adidas-history">
+                            <span itemprop="name">adidas history</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>“A Brief History of Adidas: From 1949 to Global Sports Leader”</h1>
+                <p>Adidas, founded in 1949 by Adolf Dassler in Germany, revolutionized sports footwear with innovative designs and advanced technology. The iconic three stripes were introduced to symbolize performance and quality. Today, Adidas stands as a global leader in sports apparel, merging fashion with function while endorsing sustainability.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History - adidas Group">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/confirmed-web/image/upload/c_lfill,w_708/v1722500199/adidas-group/history/v2/1949/I-1911_f_kfkmmb.jpg' alt='History - adidas Group'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="708">
+                                <meta itemprop="height" content="531">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="adidas Group" />
+                                </span>
+                                <a href='https://res.cloudinary.com/confirmed-web/image/upload/c_lfill,w_708/v1722500199/adidas-group/history/v2/1949/I-1911_f_kfkmmb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Adidas">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/LJ7l-IXRx-8/maxresdefault.jpg' alt='The History of Adidas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/LJ7l-IXRx-8/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of the Adidas Logo - Art - Design - Creative - Blog">
+                                <img itemprop="contentUrl url" src='https://www.fineprintart.com/images/the-history-of-the-adidas-logo/the-history-of-the-adidas-logo-1.jpg' alt='The History of the Adidas Logo - Art - Design - Creative - Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fine Print Art" />
+                                </span>
+                                <a href='https://www.fineprintart.com/images/the-history-of-the-adidas-logo/the-history-of-the-adidas-logo-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of adidas: Moments that Made the Brand | The Sole Supplier">
+                                <img itemprop="contentUrl url" src='https://cms-cdn.thesolesupplier.co.uk/2021/09/adidas-logo-history.png.webp' alt='The History of adidas: Moments that Made the Brand | The Sole Supplier'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1584">
+                                <meta itemprop="height" content="892">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Sole Supplier" />
+                                </span>
+                                <a href='https://cms-cdn.thesolesupplier.co.uk/2021/09/adidas-logo-history.png.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History - adidas Group">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/confirmed-web/image/upload/c_lfill,w_374,h_516/v1722500010/adidas-group/history/v2/1900/1900-1949-adidas_archive_3_hbdlnx_au4q3z.jpg' alt='History - adidas Group'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="374">
+                                <meta itemprop="height" content="516">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="adidas Group" />
+                                </span>
+                                <a href='https://res.cloudinary.com/confirmed-web/image/upload/c_lfill,w_374,h_516/v1722500010/adidas-group/history/v2/1900/1900-1949-adidas_archive_3_hbdlnx_au4q3z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who started Adidas? | Fox Business">
+                                <img itemprop="contentUrl url" src='https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/06/0/0/Adolf-Dassler-Adidas-Getty.png?ve=1&tl=1' alt='Who started Adidas? | Fox Business'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fox Business" />
+                                </span>
+                                <a href='https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/06/0/0/Adolf-Dassler-Adidas-Getty.png?ve=1&tl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adidas Samba: Complete History & Timeline of the Classic Sneaker">
+                                <img itemprop="contentUrl url" src='https://footwearnews.com/wp-content/uploads/2024/05/Screenshot-2024-05-28-at-11.20.51%E2%80%AFAM.png?w=718' alt='Adidas Samba: Complete History & Timeline of the Classic Sneaker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="718">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Footwear News" />
+                                </span>
+                                <a href='https://footwearnews.com/wp-content/uploads/2024/05/Screenshot-2024-05-28-at-11.20.51%E2%80%AFAM.png?w=718' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Story of a Brand: Adidas">
+                                <img itemprop="contentUrl url" src='https://www.logotech.com/media/wysiwyg/Adidas-Logo-History-Timeline-2022.jpg' alt='The Story of a Brand: Adidas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="795">
+                                <meta itemprop="height" content="475">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Logotech" />
+                                </span>
+                                <a href='https://www.logotech.com/media/wysiwyg/Adidas-Logo-History-Timeline-2022.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The true story behind Adidas">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/NqP8G6UZr9E/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDH570mQBV6cta0tD2ikZSHgsf9Ig' alt='The true story behind Adidas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/NqP8G6UZr9E/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDH570mQBV6cta0tD2ikZSHgsf9Ig' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Adidas Logo and Its History | LogoMyWay">
+                                <img itemprop="contentUrl url" src='https://blog.logomyway.com/wp-content/uploads/2017/11/adidas-logo-1.jpg' alt='Adidas Logo and Its History | LogoMyWay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="652">
+                                <meta itemprop="height" content="337">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LogoMyWay" />
+                                </span>
+                                <a href='https://blog.logomyway.com/wp-content/uploads/2017/11/adidas-logo-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

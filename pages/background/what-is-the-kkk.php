@@ -1,0 +1,129 @@
+<title>Understanding the Ku Klux Klan: History & Impact</title>
+                    <meta name="description" content="Discover the origins, ideologies, and historical impact of the Ku Klux Klan. This overview explores the group's racist agenda, violent actions, and its significance in American history, providing valuable insights into the ongoing fight against hate and discrimination.">
+                    <meta name="keywords" content="what is the kkk">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/what-is-the-kkk">
+                            <span itemprop="name">what is the kkk</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding the Ku Klux Klan: History & Impact</h1>
+                <p>The Ku Klux Klan (KKK) is a white supremacist hate group formed in the United States during the Reconstruction era post-Civil War. Known for its racist ideologies and violent actions against African Americans and other minorities, the Klan has a notorious history of intimidation, lynching, and acts of terrorism to promote white supremacy.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Klan, White Christianity, and the Past and Present | a ...">
+                                <img itemprop="contentUrl url" src='https://voices.uchicago.edu/religionculture/files/2017/07/kkk-chicago-flashback-0125-20150123-e1446548107862-2lw7l8q-1080x633.jpg' alt='The Klan, White Christianity, and the Past and Present | a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="633">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UChicago Voices" />
+                                </span>
+                                <a href='https://voices.uchicago.edu/religionculture/files/2017/07/kkk-chicago-flashback-0125-20150123-e1446548107862-2lw7l8q-1080x633.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ku Klux Klan | Definition & History | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/24/91424-050-B8D23EE1/initiation-ceremony-Ku-Klux-Klan.jpg' alt='Ku Klux Klan | Definition & History | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/24/91424-050-B8D23EE1/initiation-ceremony-Ku-Klux-Klan.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ku Klux Klan | Definition & History | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/41/190741-050-86537C0E/cross-Ku-Klux-Klan-Tennessee-1948.jpg' alt='Ku Klux Klan | Definition & History | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="555">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/41/190741-050-86537C0E/cross-Ku-Klux-Klan-Tennessee-1948.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ku Klux Klan | Definition & History | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/52/177952-050-57FBBFB6/members-initiation-ceremony-Ku-Klux-Klan-Wisconsin.jpg' alt='Ku Klux Klan | Definition & History | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1156">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/52/177952-050-57FBBFB6/members-initiation-ceremony-Ku-Klux-Klan-Wisconsin.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ku Klux Klan | Definition & History | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/10/78410-050-290F9DEE/meeting-Ku-Klux-Klan.jpg' alt='Ku Klux Klan | Definition & History | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1217">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/10/78410-050-290F9DEE/meeting-Ku-Klux-Klan.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stone Mountain and the rebirth of the KKK, one century ago – WABE">
+                                <img itemprop="contentUrl url" src='https://www.wabe.org/app/uploads/2015/11/AP4807230141-scaled.jpg' alt='Stone Mountain and the rebirth of the KKK, one century ago – WABE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2077">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WABE" />
+                                </span>
+                                <a href='https://www.wabe.org/app/uploads/2015/11/AP4807230141-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What The Ebbs And Flows Of The KKK Can Tell Us About White ...">
+                                <img itemprop="contentUrl url" src='https://media.npr.org/assets/img/2018/12/04/kkk-photo_wide-97f09ee71408ce602d53e0980272f34aca05cd65.jpg?s=1400&c=100&f=jpeg' alt='What The Ebbs And Flows Of The KKK Can Tell Us About White ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="787">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NPR" />
+                                </span>
+                                <a href='https://media.npr.org/assets/img/2018/12/04/kkk-photo_wide-97f09ee71408ce602d53e0980272f34aca05cd65.jpg?s=1400&c=100&f=jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of the KKK in American Politics - JSTOR Daily">
+                                <img itemprop="contentUrl url" src='https://daily.jstor.org/wp-content/uploads/2017/01/Ku_Klux_Klan_Virgina_1922_Parade_1050x700.jpg' alt='The History of the KKK in American Politics - JSTOR Daily'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1050">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JSTOR Daily" />
+                                </span>
+                                <a href='https://daily.jstor.org/wp-content/uploads/2017/01/Ku_Klux_Klan_Virgina_1922_Parade_1050x700.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="KKK | Ku Klux Klan | The Free Speech Center">
+                                <img itemprop="contentUrl url" src='https://firstamendment.mtsu.edu/wp-content/uploads/sites/2/2023/06/AP_8111070135_0.jpg' alt='KKK | Ku Klux Klan | The Free Speech Center'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="346">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Speech Center - MTSU" />
+                                </span>
+                                <a href='https://firstamendment.mtsu.edu/wp-content/uploads/sites/2/2023/06/AP_8111070135_0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The mysterious Klansman imagining a kinder, gentler KKK - The ...">
+                                <img itemprop="contentUrl url" src='https://www.washingtonpost.com/wp-apps/imrs.php?src=http://www.washingtonpost.com/news/morning-mix/wp-content/uploads/sites/21/2014/11/AP920627011.jpg&w=1800&h=1800' alt='The mysterious Klansman imagining a kinder, gentler KKK - The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Washington Post" />
+                                </span>
+                                <a href='https://www.washingtonpost.com/wp-apps/imrs.php?src=http://www.washingtonpost.com/news/morning-mix/wp-content/uploads/sites/21/2014/11/AP920627011.jpg&w=1800&h=1800' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

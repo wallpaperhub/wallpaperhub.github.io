@@ -1,0 +1,129 @@
+<title>Spooky Black Halloween Wallpaper for iPhone</title>
+                    <meta name="description" content="Discover the best black Halloween wallpapers for your iPhone! Elevate your phone's aesthetic with spooky yet stylish designs perfect for the Halloween season. Explore a variety of haunting themes that will transform your device into a celebration of all things eerie. Download now!">
+                    <meta name="keywords" content="black halloween wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/black-halloween-wallpaper-iphone">
+                            <span itemprop="name">black halloween wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spooky Black Halloween Wallpaper for iPhone</h1>
+                <p>Transform your iPhone this Halloween with stunning black Halloween wallpapers! Embrace the spooky season by downloading unique designs that feature eerie silhouettes, ghostly motifs, and haunting patterns. Perfect for adding a touch of festivity to your device while keeping it stylishly dark. Get ready for Halloween!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Halloween Iphone Wallpaper Cute Ghost Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/86/72/c4/8672c43b42ea0ef8c94c8f3482fa920f.jpg' alt='Aesthetic Halloween Iphone Wallpaper Cute Ghost Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/86/72/c4/8672c43b42ea0ef8c94c8f3482fa920f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Jack O Lantern Halloween Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/black-jack-o-lantern-halloween-iphone-g2hvez605v5ifw6d-2.jpg' alt='Black Jack O Lantern Halloween Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/black-jack-o-lantern-halloween-iphone-g2hvez605v5ifw6d-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Digital Iphone Wallpaper - Dark Black Aesthetic Fall Vibes for  Iphone and IOS Devices">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30162836/r/il/deefb8/5330152710/il_570xN.5330152710_nxle.jpg' alt='Halloween Digital Iphone Wallpaper - Dark Black Aesthetic Fall Vibes for  Iphone and IOS Devices'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30162836/r/il/deefb8/5330152710/il_570xN.5330152710_nxle.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Halloween Phone Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b3/03/83/b303838adf8145a8fb5031ae07e4b138.jpg' alt='Black Halloween Phone Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b3/03/83/b303838adf8145a8fb5031ae07e4b138.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and White Halloween Wallpaper - iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/f1/99/a8/f199a87ec99726f03f549231980e10f2.jpg' alt='Black and White Halloween Wallpaper - iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/f1/99/a8/f199a87ec99726f03f549231980e10f2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Spooky Black Stars Cute Halloween Iphone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/spooky-black-stars-cute-halloween-iphone-486emtr3rrcq61bf.jpg' alt='Download Spooky Black Stars Cute Halloween Iphone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/spooky-black-stars-cute-halloween-iphone-486emtr3rrcq61bf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scary ghosts, 31 October, amoled, autumn, black, dark, halloween ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/38/927/HD-wallpaper-scary-ghosts-31-october-amoled-autumn-black-dark-halloween-neon.jpg' alt='Scary ghosts, 31 October, amoled, autumn, black, dark, halloween ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/38/927/HD-wallpaper-scary-ghosts-31-october-amoled-autumn-black-dark-halloween-neon.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Dark Pumpkins Fall Halloween Iphone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/fall-halloween-iphone-qm6fup3jg136qswy.jpg' alt='Download Dark Pumpkins Fall Halloween Iphone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="854">
+                                <meta itemprop="height" content="1519">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/fall-halloween-iphone-qm6fup3jg136qswy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Jack O Lantern Halloween Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/skeleton-on-coffin-halloween-iphone-30ugbkohbd78h0l6.webp' alt='Black Jack O Lantern Halloween Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/skeleton-on-coffin-halloween-iphone-30ugbkohbd78h0l6.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Digital iPhone Wallpaper Dark Black Aesthetic Fall Vibes for  iPhone and IOS Devices - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30162836/r/il/ca6805/5427944439/il_1080xN.5427944439_ahwv.jpg' alt='Halloween Digital iPhone Wallpaper Dark Black Aesthetic Fall Vibes for  iPhone and IOS Devices - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30162836/r/il/ca6805/5427944439/il_1080xN.5427944439_ahwv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

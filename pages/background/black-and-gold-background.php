@@ -1,0 +1,129 @@
+<title>Elevate Your Design: Stunning Black and Gold Backgrounds</title>
+                    <meta name="description" content="Discover the allure of black and gold backgrounds! Perfect for various projects, these elegant designs add luxury and sophistication. Explore how this striking combination can enhance your visuals and make a lasting impression. Perfect for branding, art, and more!">
+                    <meta name="keywords" content="black and gold background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/black-and-gold-background">
+                            <span itemprop="name">black and gold background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Design: Stunning Black and Gold Backgrounds</h1>
+                <p>Black and gold backgrounds captivate with their luxurious appeal, combining elegance and sophistication. Ideal for branding, invitations, or digital art, this striking contrast enhances visual impact. The rich tones evoke a sense of prestige, making any project stand out while maintaining a classic and timeless aesthetic.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant Black And Gold Background Stock Photos, Images and ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/030/433/550/small/abstract-shiny-luxury-frame-black-and-gold-color-premium-design-party-invitation-card-copy-space-for-text-word-ai-generative-photo.jpg' alt='Elegant Black And Gold Background Stock Photos, Images and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/030/433/550/small/abstract-shiny-luxury-frame-black-and-gold-color-premium-design-party-invitation-card-copy-space-for-text-word-ai-generative-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black And Gold Background Images – Browse 3,612,072 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/16/58/08/360_F_316580848_m7lZhhWQ43JrsEsBQQToJ8g73ALcv78Y.jpg' alt='Black And Gold Background Images – Browse 3,612,072 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/16/58/08/360_F_316580848_m7lZhhWQ43JrsEsBQQToJ8g73ALcv78Y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black And Gold Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/014/724/816/non_2x/abstract-black-triangular-background-with-gold-lines-free-vector.jpg' alt='Black And Gold Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/014/724/816/non_2x/abstract-black-triangular-background-with-gold-lines-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Gold Glitter Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/golden-dust-elements-falling-down_260559-287.jpg' alt='Black Gold Glitter Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="376">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/golden-dust-elements-falling-down_260559-287.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black And Gold Background Images – Browse 3,612,072 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/66/08/34/360_F_366083470_jTuk7ZhaXxlk3paaPIxxPv2jUQhe1tQb.jpg' alt='Black And Gold Background Images – Browse 3,612,072 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/66/08/34/360_F_366083470_jTuk7ZhaXxlk3paaPIxxPv2jUQhe1tQb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Gold Geometric Background">
+                                <img itemprop="contentUrl url" src='https://freevector-images.s3.amazonaws.com/uploads/vector/preview/53035/vecteezy_Black-Gold-Geometric_Background_fv0321_generated.jpg' alt='Black Gold Geometric Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1136">
+                                <meta itemprop="height" content="936">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vector4Free" />
+                                </span>
+                                <a href='https://freevector-images.s3.amazonaws.com/uploads/vector/preview/53035/vecteezy_Black-Gold-Geometric_Background_fv0321_generated.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxury Black Gold Background Images, HD Pictures and Wallpaper For ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20210728/pngtree-business-triangle-gold-nugget-light-effect-luxury-premium-black-gold-abstract-image_753008.jpg' alt='Luxury Black Gold Background Images, HD Pictures and Wallpaper For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="861">
+                                <meta itemprop="height" content="404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20210728/pngtree-business-triangle-gold-nugget-light-effect-luxury-premium-black-gold-abstract-image_753008.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="158,500+ Black And Gold Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1399105128/vector/golden-glitter-confetti-falling-on-black-vector-background-shining-gold-shimmer-luxury.jpg?s=612x612&w=0&k=20&c=aiC5-QyzDJy6IZ91FiDYSxKvAVX4QZnohGBBbl5tczk=' alt='158,500+ Black And Gold Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1399105128/vector/golden-glitter-confetti-falling-on-black-vector-background-shining-gold-shimmer-luxury.jpg?s=612x612&w=0&k=20&c=aiC5-QyzDJy6IZ91FiDYSxKvAVX4QZnohGBBbl5tczk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Black Gold Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/black-gold-background-optua4rlhb9gnk6t.jpg' alt='100+] Black Gold Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/black-gold-background-optua4rlhb9gnk6t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Black Gold Background Stock Illustrations – 126,419 ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/gold-frame-beautiful-golden-glitter-design-vintage-style-decorative-border-isolated-black-background-deco-elegant-luxury-framework-128006199.jpg' alt='Beautiful Black Gold Background Stock Illustrations – 126,419 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/gold-frame-beautiful-golden-glitter-design-vintage-style-decorative-border-isolated-black-background-deco-elegant-luxury-framework-128006199.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

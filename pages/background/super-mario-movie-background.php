@@ -1,0 +1,129 @@
+<title>"Discover the Exciting Background of the Super Mario Movie"</title>
+                    <meta name="description" content="Dive into the captivating background of the Super Mario Movie! Explore how this animated adventure brings the classic video game to life, featuring your favorite characters and thrilling challenges. Perfect for fans of all ages, this film is a celebration of nostalgia and innovation.">
+                    <meta name="keywords" content="super mario movie background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/super-mario-movie-background">
+                            <span itemprop="name">super mario movie background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Discover the Exciting Background of the Super Mario Movie"</h1>
+                <p>The Super Mario Movie brings to life the beloved video game franchise, showcasing iconic characters like Mario, Luigi, and Princess Peach. This animated adventure follows their journey through the vibrant Mushroom Kingdom, facing off against the villainous Bowser. The film combines nostalgia with cutting-edge animation, captivating both fans and newcomers alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Mario Bros. 2023 Movie 4K Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/130/1301279.jpg' alt='Super Mario Bros. 2023 Movie 4K Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5000">
+                                <meta itemprop="height" content="4286">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/130/1301279.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Mario Movie Review – The Cougar Star">
+                                <img itemprop="contentUrl url" src='https://thecougarstar.com/wp-content/uploads/2023/05/ezgif.com-webp-to-jpg.jpg' alt='Super Mario Movie Review – The Cougar Star'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1501">
+                                <meta itemprop="height" content="844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Cougar Star" />
+                                </span>
+                                <a href='https://thecougarstar.com/wp-content/uploads/2023/05/ezgif.com-webp-to-jpg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Review: is "The Super Mario Bros. Movie" Super? (or Not so Much ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/6096c51a3cd2ac6590505cb9/5988bed1-ca16-4de2-8542-709625096836/SMB_1920x1080_RainbowRoad_RGB_2.jpg' alt='Review: is "The Super Mario Bros. Movie" Super? (or Not so Much ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Orlando DINKs Blog" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/6096c51a3cd2ac6590505cb9/5988bed1-ca16-4de2-8542-709625096836/SMB_1920x1080_RainbowRoad_RGB_2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Super Mario Bros. Movie - Wallpaper by De-monVarela on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cbd5baf7-3bcb-4f2c-8dcc-1ce7e072f0ff/dfesla4-f7534f9d-c295-472b-94f1-cf68955cb080.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NiZDViYWY3LTNiY2ItNGYyYy04ZGNjLTFjZTdlMDcyZjBmZlwvZGZlc2xhNC1mNzUzNGY5ZC1jMjk1LTQ3MmItOTRmMS1jZjY4OTU1Y2IwODAuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.CHpQirburPYQhQ3qOshAfGVANcaArx-fvPChr6LwXOs' alt='The Super Mario Bros. Movie - Wallpaper by De-monVarela on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cbd5baf7-3bcb-4f2c-8dcc-1ce7e072f0ff/dfesla4-f7534f9d-c295-472b-94f1-cf68955cb080.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NiZDViYWY3LTNiY2ItNGYyYy04ZGNjLTFjZTdlMDcyZjBmZlwvZGZlc2xhNC1mNzUzNGY5ZC1jMjk1LTQ3MmItOTRmMS1jZjY4OTU1Y2IwODAuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.CHpQirburPYQhQ3qOshAfGVANcaArx-fvPChr6LwXOs' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Super Mario Bros Movie Wallpaper by Thekingblader995 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5298bac0-b8bf-4c80-af67-725c1272dbb0/dfu6vo6-9d7336b6-aae1-48c9-a196-30c0dc8223a4.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUyOThiYWMwLWI4YmYtNGM4MC1hZjY3LTcyNWMxMjcyZGJiMFwvZGZ1NnZvNi05ZDczMzZiNi1hYWUxLTQ4YzktYTE5Ni0zMGMwZGM4MjIzYTQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.axBlf_ASPWKpRrYTP-zLasP8Viyde42lzfau6VxYkkk' alt='The Super Mario Bros Movie Wallpaper by Thekingblader995 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5298bac0-b8bf-4c80-af67-725c1272dbb0/dfu6vo6-9d7336b6-aae1-48c9-a196-30c0dc8223a4.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUyOThiYWMwLWI4YmYtNGM4MC1hZjY3LTcyNWMxMjcyZGJiMFwvZGZ1NnZvNi05ZDczMzZiNi1hYWUxLTQ4YzktYTE5Ni0zMGMwZGM4MjIzYTQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.axBlf_ASPWKpRrYTP-zLasP8Viyde42lzfau6VxYkkk' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Movie Super Mario Bros. (2023) 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/131/1318286.jpeg' alt='Download Movie Super Mario Bros. (2023) 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/131/1318286.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Super Mario Bros. Movie wallpaper 02 1080p Horizontal">
+                                <img itemprop="contentUrl url" src='https://www.gamewallpapers.com/getphonewallpaper.php?lowquality=1&titel=The+Super+Mario+Bros.+Movie&nummer=02&phoneResId=3501&wallpaperType=&qhdbeschikbaar=1&wallpaper_id=8109' alt='The Super Mario Bros. Movie wallpaper 02 1080p Horizontal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameWallpapers.com" />
+                                </span>
+                                <a href='https://www.gamewallpapers.com/getphonewallpaper.php?lowquality=1&titel=The+Super+Mario+Bros.+Movie&nummer=02&phoneResId=3501&wallpaperType=&qhdbeschikbaar=1&wallpaper_id=8109' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Super Mario Bros. Movie - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/thumb/4/44/The_Super_Mario_Bros._Movie_poster.jpg/220px-The_Super_Mario_Bros._Movie_poster.jpg' alt='The Super Mario Bros. Movie - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="348">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/thumb/4/44/The_Super_Mario_Bros._Movie_poster.jpg/220px-The_Super_Mario_Bros._Movie_poster.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Super Mario Bros. Movie Background Wallpaper, HD Movies 4K ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/the-super-mario-bros-movie-background_bW1lbmuUmZqaraWkpJRoZmptrWZsbGs.jpg' alt='The Super Mario Bros. Movie Background Wallpaper, HD Movies 4K ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3158">
+                                <meta itemprop="height" content="1776">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/the-super-mario-bros-movie-background_bW1lbmuUmZqaraWkpJRoZmptrWZsbGs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Super Mario Bros. Movie Full Wallpaper by mrscientific on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/40a1659c-1b14-4142-bb80-498adf368d8c/dfwld4c-af38db6b-2d2f-4f0a-b273-1776842bbe37.jpg/v1/fill/w_1280,h_719,q_75,strp/the_super_mario_bros__movie_full_wallpaper_by_mrscientific_dfwld4c-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzE5IiwicGF0aCI6IlwvZlwvNDBhMTY1OWMtMWIxNC00MTQyLWJiODAtNDk4YWRmMzY4ZDhjXC9kZndsZDRjLWFmMzhkYjZiLTJkMmYtNGYwYS1iMjczLTE3NzY4NDJiYmUzNy5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.2VTMWYGIuD4EtOdPefFVSOHe9HpP9hIL0IK7rpVJHdw' alt='The Super Mario Bros. Movie Full Wallpaper by mrscientific on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="719">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/40a1659c-1b14-4142-bb80-498adf368d8c/dfwld4c-af38db6b-2d2f-4f0a-b273-1776842bbe37.jpg/v1/fill/w_1280,h_719,q_75,strp/the_super_mario_bros__movie_full_wallpaper_by_mrscientific_dfwld4c-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzE5IiwicGF0aCI6IlwvZlwvNDBhMTY1OWMtMWIxNC00MTQyLWJiODAtNDk4YWRmMzY4ZDhjXC9kZndsZDRjLWFmMzhkYjZiLTJkMmYtNGYwYS1iMjczLTE3NzY4NDJiYmUzNy5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.2VTMWYGIuD4EtOdPefFVSOHe9HpP9hIL0IK7rpVJHdw' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

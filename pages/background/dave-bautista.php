@@ -1,0 +1,129 @@
+<title>"Dave Bautista: From WWE Superstar to Hollywood Icon"</title>
+                    <meta name="description" content="Explore the incredible journey of Dave Bautista, from wrestling superstar to acclaimed actor. Discover his best roles, fitness tips, and contributions to entertainment in this concise overview of his career and influence. Perfect for fans and newcomers alike!">
+                    <meta name="keywords" content="dave bautista">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dave-bautista">
+                            <span itemprop="name">dave bautista</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Dave Bautista: From WWE Superstar to Hollywood Icon"</h1>
+                <p>Dave Bautista, a multifaceted talent, is known for his dynamic career as a professional wrestler, actor, and fitness advocate. Originally rising to fame in WWE, Bautista transitioned to Hollywood with roles in blockbuster films like Guardians of the Galaxy. His charisma and dedication make him a beloved figure both in and out of the ring.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dave Bautista - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/4/40/Dave_Bautista_Photo_Op_GalaxyCon_Minneapolis_2019.jpg' alt='Dave Bautista - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="942">
+                                <meta itemprop="height" content="1486">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/4/40/Dave_Bautista_Photo_Op_GalaxyCon_Minneapolis_2019.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dave Bautista Opens Up About Recent Weight Loss Transformation ...">
+                                <img itemprop="contentUrl url" src='https://www.lovebscott.com/wp-content/uploads/2024/09/IMG_3050.webp' alt='Dave Bautista Opens Up About Recent Weight Loss Transformation ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="555">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="lovebscott" />
+                                </span>
+                                <a href='https://www.lovebscott.com/wp-content/uploads/2024/09/IMG_3050.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dave Bautista Says He Doesn't Want 'Guardians of the Galaxy' Role ...">
+                                <img itemprop="contentUrl url" src='https://media.vanityfair.com/photos/63b70e194373b00ff0436fac/master/w_2560%2Cc_limit/1433948913' alt='Dave Bautista Says He Doesn't Want 'Guardians of the Galaxy' Role ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="3560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vanity Fair" />
+                                </span>
+                                <a href='https://media.vanityfair.com/photos/63b70e194373b00ff0436fac/master/w_2560%2Cc_limit/1433948913' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who would win: Part 3 Dave Batista or Part 5 Dave Batista : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/who-would-win-part-3-dave-batista-or-part-5-dave-batista-v0-jz6ox0ucbypd1.jpeg?width=640&crop=smart&auto=webp&s=4b3b03bf30525ecafa8c18e0481b86d1752d1bcc' alt='Who would win: Part 3 Dave Batista or Part 5 Dave Batista : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/who-would-win-part-3-dave-batista-or-part-5-dave-batista-v0-jz6ox0ucbypd1.jpeg?width=640&crop=smart&auto=webp&s=4b3b03bf30525ecafa8c18e0481b86d1752d1bcc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dave Bautista on Guardians Of The Galaxy: 'I don't want my silly ...">
+                                <img itemprop="contentUrl url" src='https://e3.365dm.com/23/01/2048x1152/skynews-dave-bautista-actor_6016372.jpg' alt='Dave Bautista on Guardians Of The Galaxy: 'I don't want my silly ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sky News" />
+                                </span>
+                                <a href='https://e3.365dm.com/23/01/2048x1152/skynews-dave-bautista-actor_6016372.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Dave Bautista Made Himself A Movie Star | GQ">
+                                <img itemprop="contentUrl url" src='https://media.gq.com/photos/63a4b52d4c48942f55848df4/master/w_1600%2Cc_limit/DSC_5535.jpg' alt='How Dave Bautista Made Himself A Movie Star | GQ'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="2036">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GQ" />
+                                </span>
+                                <a href='https://media.gq.com/photos/63a4b52d4c48942f55848df4/master/w_1600%2Cc_limit/DSC_5535.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dave Bautista Relieved to Be Saying Farewell to Playing Drax - CNET">
+                                <img itemprop="contentUrl url" src='https://www.cnet.com/a/img/resize/5d6112c7b21379e24c1e510c156054c1fc36c337/hub/2023/01/04/62cdc18b-478a-4fcb-af0a-7f023b6fff6f/marvelinfinitywar-drax-1.jpg?auto=webp&fit=crop&height=1200&width=1200' alt='Dave Bautista Relieved to Be Saying Farewell to Playing Drax - CNET'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNET" />
+                                </span>
+                                <a href='https://www.cnet.com/a/img/resize/5d6112c7b21379e24c1e510c156054c1fc36c337/hub/2023/01/04/62cdc18b-478a-4fcb-af0a-7f023b6fff6f/marvelinfinitywar-drax-1.jpg?auto=webp&fit=crop&height=1200&width=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dave Bautista Is Leaving MCU After Guardians of the Galaxy Vol. 3">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/dave-bautista-attends-the-glass-onion-a-knives-out-mystery-news-photo-1672846855.jpg' alt='Dave Bautista Is Leaving MCU After Guardians of the Galaxy Vol. 3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3800">
+                                <meta itemprop="height" content="5370">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Men's Health" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/dave-bautista-attends-the-glass-onion-a-knives-out-mystery-news-photo-1672846855.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dave Bautista admits he's 'killing' himself to maintain dramatic ...">
+                                <img itemprop="contentUrl url" src='https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/09/931/523/dave-bautista_weight-loss.jpg?ve=1&tl=1' alt='Dave Bautista admits he's 'killing' himself to maintain dramatic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="931">
+                                <meta itemprop="height" content="523">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WWBL" />
+                                </span>
+                                <a href='https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/09/931/523/dave-bautista_weight-loss.jpg?ve=1&tl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why would anyone try to fight @DaveBautista!?">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3457769947122241271' alt='Why would anyone try to fight @DaveBautista!?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3457769947122241271' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Palace Images: Grandeur & Elegance</title>
+                    <meta name="description" content="Discover breathtaking palace images that highlight the beauty and splendor of royal residences. Explore the stunning architecture and lush gardens that define these magnificent structures, perfect for history lovers and photography enthusiasts alike.">
+                    <meta name="keywords" content="palace images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/palace-images">
+                            <span itemprop="name">palace images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Palace Images: Grandeur & Elegance</h1>
+                <p>Palace images capture the grandeur and architectural beauty of historic residences, transporting viewers to a world of royalty and elegance. These stunning visuals showcase intricate details, lush gardens, and opulent interiors, inviting imagination and admiration. From ancient castles to modern palaces, each image tells a unique story.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Know before you go: Palace of Versailles | The Paris Pass®">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/dtljonz0f/image/upload/c_auto,ar_4:3,w_3840,g_auto/f_auto/q_auto/shutterstock_2361501155_ss_non-editorial_fieshn?_a=BAVARSAP0' alt='Know before you go: Palace of Versailles | The Paris Pass®'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Paris Pass" />
+                                </span>
+                                <a href='https://res.cloudinary.com/dtljonz0f/image/upload/c_auto,ar_4:3,w_3840,g_auto/f_auto/q_auto/shutterstock_2361501155_ss_non-editorial_fieshn?_a=BAVARSAP0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Palace: Tour the World's 15 Most Opulent Palaces ...">
+                                <img itemprop="contentUrl url" src='https://media.architecturaldigest.com/photos/64fb096eebf7463a1f95f585/16:9/w_2992,h_1683,c_limit/GettyImages-1329489196.jpg' alt='Beautiful Palace: Tour the World's 15 Most Opulent Palaces ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2992">
+                                <meta itemprop="height" content="1683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Architectural Digest" />
+                                </span>
+                                <a href='https://media.architecturaldigest.com/photos/64fb096eebf7463a1f95f585/16:9/w_2992,h_1683,c_limit/GettyImages-1329489196.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inside the world's most luxurious palaces | loveexploring.com">
+                                <img itemprop="contentUrl url" src='https://loveincorporated.blob.core.windows.net/contentimages/gallery/b4ddc2cc-c918-4085-8dc5-4c1f693b351f-de01cdef-5c63-4880-af7e-a27b47877ca2-9-versailles-2.jpg' alt='Inside the world's most luxurious palaces | loveexploring.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="940">
+                                <meta itemprop="height" content="625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="loveEXPLORING" />
+                                </span>
+                                <a href='https://loveincorporated.blob.core.windows.net/contentimages/gallery/b4ddc2cc-c918-4085-8dc5-4c1f693b351f-de01cdef-5c63-4880-af7e-a27b47877ca2-9-versailles-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="792,200+ Palace Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/177015171/photo/luxury-stairway.jpg?s=612x612&w=0&k=20&c=XP2F_KxkBG9Rog_4XIPv3zu4FC2wEGQG-ESWcU4JHBc=' alt='792,200+ Palace Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/177015171/photo/luxury-stairway.jpg?s=612x612&w=0&k=20&c=XP2F_KxkBG9Rog_4XIPv3zu4FC2wEGQG-ESWcU4JHBc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Palace of Versailles: Facts & History | Live Science">
+                                <img itemprop="contentUrl url" src='https://cdn.mos.cms.futurecdn.net/Mu7kgjAaxqTbUGtk974aRH-1000-80.jpg' alt='Palace of Versailles: Facts & History | Live Science'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Science" />
+                                </span>
+                                <a href='https://cdn.mos.cms.futurecdn.net/Mu7kgjAaxqTbUGtk974aRH-1000-80.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="These 8 palace-turned-hotels show how heritage can be redefined ...">
+                                <img itemprop="contentUrl url" src='https://assets.architecturaldigest.in/photos/600838c57a5614cb87e4a051/16:9/w_2560%2Cc_limit/Umaid-Bhawan-1366x768.jpg' alt='These 8 palace-turned-hotels show how heritage can be redefined ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1360">
+                                <meta itemprop="height" content="765">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Architectural Digest India" />
+                                </span>
+                                <a href='https://assets.architecturaldigest.in/photos/600838c57a5614cb87e4a051/16:9/w_2560%2Cc_limit/Umaid-Bhawan-1366x768.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A guide to the Palace of Versailles, France">
+                                <img itemprop="contentUrl url" src='https://i.natgeofe.com/n/cee2105c-66e1-41ae-bbd3-9aa461b2d234/Versailles_p83.jpg' alt='A guide to the Palace of Versailles, France'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3072">
+                                <meta itemprop="height" content="2070">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic" />
+                                </span>
+                                <a href='https://i.natgeofe.com/n/cee2105c-66e1-41ae-bbd3-9aa461b2d234/Versailles_p83.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13 Palaces In England That Will Inspire You - Forever Karen">
+                                <img itemprop="contentUrl url" src='https://foreverkaren.com/wp-content/uploads/2022/07/Blenheim-Palace-in-England-1024x597.jpg.webp' alt='13 Palaces In England That Will Inspire You - Forever Karen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="597">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forever Karen" />
+                                </span>
+                                <a href='https://foreverkaren.com/wp-content/uploads/2022/07/Blenheim-Palace-in-England-1024x597.jpg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="World's 7 most beautiful palaces that are open to tourists ...">
+                                <img itemprop="contentUrl url" src='https://static.toiimg.com/photo/msid-113458492,width-96,height-65.cms' alt='World's 7 most beautiful palaces that are open to tourists ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Times of India" />
+                                </span>
+                                <a href='https://static.toiimg.com/photo/msid-113458492,width-96,height-65.cms' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxury Hotel in San Francisco, CA | Palace Hotel, a Luxury ...">
+                                <img itemprop="contentUrl url" src='https://cache.marriott.com/content/dam/marriott-renditions/dm-static-renditions/lc/us-canada/hws/s/sfolc/en_us/photo/unlimited/assets/sfolc-court-9285-classic-hor.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=750px:*' alt='Luxury Hotel in San Francisco, CA | Palace Hotel, a Luxury ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Marriott" />
+                                </span>
+                                <a href='https://cache.marriott.com/content/dam/marriott-renditions/dm-static-renditions/lc/us-canada/hws/s/sfolc/en_us/photo/unlimited/assets/sfolc-court-9285-classic-hor.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=750px:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

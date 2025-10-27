@@ -1,0 +1,129 @@
+<title>Stunning Final Fantasy 15 Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover breathtaking Final Fantasy 15 wallpapers perfect for any device. Explore a variety of stunning images featuring iconic characters and landscapes. Customize your screens and show off your love for this epic game with high-quality, optimized wallpapers designed for mobile display!">
+                    <meta name="keywords" content="final fantasy 15 wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/final-fantasy-15-wallpaper">
+                            <span itemprop="name">final fantasy 15 wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Final Fantasy 15 Wallpapers for Your Device</h1>
+                <p>Elevate your device's aesthetics with stunning Final Fantasy 15 wallpapers! Choose from breathtaking scenes, epic character art, and captivating landscapes that showcase the game's rich visuals. Perfect for fans, these wallpapers are available in various resolutions to fit any screen, ensuring your love for Eos shines through.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Final Fantasy XV Wallpapers - PlayStation Universe">
+                                <img itemprop="contentUrl url" src='https://www.psu.com/wp/wp-content/uploads/2020/09/Final-Fantasy-XV-PS4-Wallpapers-01.jpg' alt='Final Fantasy XV Wallpapers - PlayStation Universe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PlayStation Universe" />
+                                </span>
+                                <a href='https://www.psu.com/wp/wp-content/uploads/2020/09/Final-Fantasy-XV-PS4-Wallpapers-01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FFXV IPHONE WALLPAPER">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/81/8a/07/818a07643df6f930b34bbde525663399.jpg' alt='FFXV IPHONE WALLPAPER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/81/8a/07/818a07643df6f930b34bbde525663399.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Final Fantasy XV Wallpapers in Ultra HD | 4K - Gameranx">
+                                <img itemprop="contentUrl url" src='https://gameranx.com/wp-content/uploads/2016/02/Final-Fantasy-XV-4K-Wallpaper-2.jpg' alt='Final Fantasy XV Wallpapers in Ultra HD | 4K - Gameranx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gameranx" />
+                                </span>
+                                <a href='https://gameranx.com/wp-content/uploads/2016/02/Final-Fantasy-XV-4K-Wallpaper-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Noctis Lucis Caelum Final Fantasy XV Windows Edition ...">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/101/1018195.jpg' alt='Download Noctis Lucis Caelum Final Fantasy XV Windows Edition ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/101/1018195.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4d/e1/35/4de135d24391ac4dc11822561536427e.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4d/e1/35/4de135d24391ac4dc11822561536427e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Final Fantasy XV' Has Some Big Problems">
+                                <img itemprop="contentUrl url" src='https://www.vice.com/wp-content/uploads/sites/2/2016/12/Final-Fantasy-XV-Awesome-Desktop-Wallpaper-1920x1200-1.jpg?w=1024' alt='Final Fantasy XV' Has Some Big Problems'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VICE" />
+                                </span>
+                                <a href='https://www.vice.com/wp-content/uploads/sites/2/2016/12/Final-Fantasy-XV-Awesome-Desktop-Wallpaper-1920x1200-1.jpg?w=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Best Final Fantasy Xv Phone Wallpaper FULL HD 1080p For PC ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d4/b4/0d/d4b40d9b7e1cd758b0ca5a66d3f0249b.jpg' alt='10 Best Final Fantasy Xv Phone Wallpaper FULL HD 1080p For PC ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d4/b4/0d/d4b40d9b7e1cd758b0ca5a66d3f0249b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Epic Journey in Final Fantasy XV - HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/697/697724.jpg' alt='Epic Journey in Final Fantasy XV - HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1767">
+                                <meta itemprop="height" content="997">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/697/697724.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Final Fantasy XV wallpapers or desktop backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.gamewallpapers.com/img_script/mobile_dir/img.php?src=wallpaper_final_fantasy_xv_01.jpg&width=253&height=450&crop-to-fit&sharpen' alt='Final Fantasy XV wallpapers or desktop backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="253">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameWallpapers.com" />
+                                </span>
+                                <a href='https://www.gamewallpapers.com/img_script/mobile_dir/img.php?src=wallpaper_final_fantasy_xv_01.jpg&width=253&height=450&crop-to-fit&sharpen' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Final Fantasy XV UltraWide 21:9 wallpapers or desktop backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.gamewallpapers.com/img_script/wallpaper_dir/img.php?src=wallpaper_final_fantasy_xv_05_2560x1080.jpg&height=506&sharpen' alt='Final Fantasy XV UltraWide 21:9 wallpapers or desktop backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1199">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameWallpapers.com" />
+                                </span>
+                                <a href='https://www.gamewallpapers.com/img_script/wallpaper_dir/img.php?src=wallpaper_final_fantasy_xv_05_2560x1080.jpg&height=506&sharpen' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

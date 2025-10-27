@@ -1,0 +1,129 @@
+<title>Stunning iPhone Wallpapers: Refresh Your Screen</title>
+                    <meta name="description" content="Discover a vibrant collection of iPhone wallpapers designed to breathe new life into your device. Choose from a variety of styles to match your mood and personality. Perfect for anyone looking to personalize their screen with unique and eye-catching designs. Download now to showcase your style!">
+                    <meta name="keywords" content="iphone collection wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-collection-wallpaper">
+                            <span itemprop="name">iphone collection wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning iPhone Wallpapers: Refresh Your Screen</h1>
+                <p>Elevate your iPhone's aesthetic with our stunning collection of wallpapers! Explore a diverse range of designs, from minimalist patterns to vibrant landscapes, perfect for every vibe. Freshen up your screen daily with our curated wallpapers that reflect your personality and style. Download your favorites today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iOS 17 collection wallpaper not showing up in wallpapers : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/oqftgf982lbb1.jpg' alt='iOS 17 collection wallpaper not showing up in wallpapers : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/oqftgf982lbb1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download: iPhone 1 to iPhone 16 Wallpapers [Full Collection]">
+                                <img itemprop="contentUrl url" src='https://www.ytechb.com/wp-content/uploads/2023/09/iphone-1-to-iphone-16-wallpapers.webp' alt='Download: iPhone 1 to iPhone 16 Wallpapers [Full Collection]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1260">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YTECHB" />
+                                </span>
+                                <a href='https://www.ytechb.com/wp-content/uploads/2023/09/iphone-1-to-iphone-16-wallpapers.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iOS Stock Wallpapers | HD & 4K Wallpapers">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/ios-17-stock--14346.png' alt='iOS Stock Wallpapers | HD & 4K Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1379">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/ios-17-stock--14346.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="540 Iphone wallpaper ideas | iphone wallpaper, apple wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/3e/31/d6/3e31d624b56e08ce446568fe05e3d438.jpg' alt='540 Iphone wallpaper ideas | iphone wallpaper, apple wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="510">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/3e/31/d6/3e31d624b56e08ce446568fe05e3d438.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Original Apple wallpapers optimized for your iPhone">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2017/11/iOS-original-wallpapers-splash-iOS-1-crop.jpg' alt='Original Apple wallpapers optimized for your iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2992">
+                                <meta itemprop="height" content="2282">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2017/11/iOS-original-wallpapers-splash-iOS-1-crop.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Any wallpaper suggestions for the depth effect? Currently using ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/0ln531hummpb1.jpg' alt='Any wallpaper suggestions for the depth effect? Currently using ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/0ln531hummpb1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download these 11 colorful swirls wallpapers for iPhone">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2022/04/Striped-Candy-Collection-iPhone-wallpaper-wallscate-idownloadblog.png' alt='Download these 11 colorful swirls wallpapers for iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1415">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2022/04/Striped-Candy-Collection-iPhone-wallpaper-wallscate-idownloadblog.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iOS 17 removed the classic iOS 7 wallpapers : r/ios">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ios-17-removed-the-classic-ios-7-wallpapers-v0-a3xr9g910fqb1.png?width=1170&format=png&auto=webp&s=9feb1f028f7e0159fdf8967adee7a9a91672e134' alt='iOS 17 removed the classic iOS 7 wallpapers : r/ios'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ios-17-removed-the-classic-ios-7-wallpapers-v0-a3xr9g910fqb1.png?width=1170&format=png&auto=webp&s=9feb1f028f7e0159fdf8967adee7a9a91672e134' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Enjoy the 18 New iPhone 13 Pro & iPhone 13 Wallpapers">
+                                <img itemprop="contentUrl url" src='https://osxdaily.com/wp-content/uploads/2021/10/1982.Twist_Pink_Dark-390w-844h@3xiphone.jpeg' alt='Enjoy the 18 New iPhone 13 Pro & iPhone 13 Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1404">
+                                <meta itemprop="height" content="3040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OSXDaily.com" />
+                                </span>
+                                <a href='https://osxdaily.com/wp-content/uploads/2021/10/1982.Twist_Pink_Dark-390w-844h@3xiphone.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Collection Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp13405626.jpg' alt='iPhone Collection Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp13405626.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

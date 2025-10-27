@@ -1,0 +1,129 @@
+<title>Stunning Mercury: Explore Planetary Pictures</title>
+                    <meta name="description" content="Uncover the beauty of Mercury through striking images. From NASA missions to impressive telescopic captures, our collection showcases this intriguing planet's unique surface and features. Perfect for space lovers and educational purposes. Dive into the visual exploration of Mercury today!">
+                    <meta name="keywords" content="pictures of mercury">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pictures-of-mercury">
+                            <span itemprop="name">pictures of mercury</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Mercury: Explore Planetary Pictures</h1>
+                <p>Discover stunning pictures of Mercury, the closest planet to the Sun. Explore captivating images showcasing its rugged surface, cratered landscapes, and extreme temperatures. From NASA missions to telescopic views, these visuals reveal the beauty and mystery of Mercury, making it a fascinating subject for space enthusiasts and educators alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mercury (planet) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mercury_in_true_color.jpg/800px-Mercury_in_true_color.jpg' alt='Mercury (planet) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mercury_in_true_color.jpg/800px-Mercury_in_true_color.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mercury — A complete guide to the closest planet to the sun | Space">
+                                <img itemprop="contentUrl url" src='https://cdn.mos.cms.futurecdn.net/fjbeeRiPRQjQNhizwy7cWX-1024-80.jpg' alt='Mercury — A complete guide to the closest planet to the sun | Space'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Space.com" />
+                                </span>
+                                <a href='https://cdn.mos.cms.futurecdn.net/fjbeeRiPRQjQNhizwy7cWX-1024-80.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mercury">
+                                <img itemprop="contentUrl url" src='https://science.nasa.gov/wp-content/uploads/2023/09/spectra-mercury.jpg?w=1024' alt='Mercury'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1023">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NASA Science" />
+                                </span>
+                                <a href='https://science.nasa.gov/wp-content/uploads/2023/09/spectra-mercury.jpg?w=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mercury Resources - NASA Science">
+                                <img itemprop="contentUrl url" src='https://science.nasa.gov/wp-content/uploads/2023/11/mercury-messenger-globe-pia15162.jpg?w=2048' alt='Mercury Resources - NASA Science'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NASA Science" />
+                                </span>
+                                <a href='https://science.nasa.gov/wp-content/uploads/2023/11/mercury-messenger-globe-pia15162.jpg?w=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What's important to know about planet Mercury?">
+                                <img itemprop="contentUrl url" src='https://scx2.b-cdn.net/gfx/news/hires/2015/whatsimporta.jpg' alt='What's important to know about planet Mercury?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="837">
+                                <meta itemprop="height" content="836">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Phys.org" />
+                                </span>
+                                <a href='https://scx2.b-cdn.net/gfx/news/hires/2015/whatsimporta.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Enduring Mysteries of Mercury | Space">
+                                <img itemprop="contentUrl url" src='https://cdn.mos.cms.futurecdn.net/uZsuddrgZ9ewjCK3kxpmAc.jpg' alt='The Enduring Mysteries of Mercury | Space'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="589">
+                                <meta itemprop="height" content="551">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Space.com" />
+                                </span>
+                                <a href='https://cdn.mos.cms.futurecdn.net/uZsuddrgZ9ewjCK3kxpmAc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mercury: Facts about the smallest planet | Live Science">
+                                <img itemprop="contentUrl url" src='https://cdn.mos.cms.futurecdn.net/w3kqDGBSTqVnNTpd5pajWm-1200-80.jpg' alt='Mercury: Facts about the smallest planet | Live Science'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Science" />
+                                </span>
+                                <a href='https://cdn.mos.cms.futurecdn.net/w3kqDGBSTqVnNTpd5pajWm-1200-80.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mercury was a total mystery for centuries. We're finally learning ...">
+                                <img itemprop="contentUrl url" src='https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/15795689/NorthernVolcanicPlains_PDS15-sm.0.1517929277.png?quality=90&strip=all&crop=9.9375,0,80.125,100' alt='Mercury was a total mystery for centuries. We're finally learning ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="641">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vox" />
+                                </span>
+                                <a href='https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/15795689/NorthernVolcanicPlains_PDS15-sm.0.1517929277.png?quality=90&strip=all&crop=9.9375,0,80.125,100' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Planet Mercury, explained">
+                                <img itemprop="contentUrl url" src='https://i.natgeofe.com/n/c6f7cee9-cde6-44a2-a686-9a80f5bfc1e8/01_mercury_pia15190_orig_16x9.jpg?w=1200' alt='Planet Mercury, explained'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic" />
+                                </span>
+                                <a href='https://i.natgeofe.com/n/c6f7cee9-cde6-44a2-a686-9a80f5bfc1e8/01_mercury_pia15190_orig_16x9.jpg?w=1200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mercury Surface Features | Geology of an Enigmatic Neighbor">
+                                <img itemprop="contentUrl url" src='https://ottawa-rasc.ca/wp-content/uploads/2022/02/planet-mercury.jpg' alt='Mercury Surface Features | Geology of an Enigmatic Neighbor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ottawa RASC" />
+                                </span>
+                                <a href='https://ottawa-rasc.ca/wp-content/uploads/2022/02/planet-mercury.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Taylor Swift "Lover" Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore our collection of enchanting Taylor Swift "Lover" wallpapers. Designed for mobile devices, these beautiful backgrounds celebrate the charm and creativity of Taylor's music. Download your favorite design and enjoy a touch of musical magic on your screen!">
+                    <meta name="keywords" content="lover:pgw9crdcds8= taylor swift wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/taylor-swift">
+                            <span itemprop="name">Taylor-Swift</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/taylor-swift/loverpgw9crdcds8-taylor-swift-wallpaper">
+                            <span itemprop="name">lover:pgw9crdcds8= taylor swift wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Taylor Swift "Lover" Wallpapers for Your Device</h1>
+                <p>Discover stunning Taylor Swift "Lover" themed wallpapers that capture the essence of her music and artistry. Perfect for your phone, these vibrant backgrounds feature romantic and whimsical designs, giving you a daily inspiration from the beloved pop sensation. Brighten up your device with a touch of Taylor's magic!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I've created a high-resolution desktop wallpaper of the lover ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/df7hiathcxi31.jpg' alt='I've created a high-resolution desktop wallpaper of the lover ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6933">
+                                <meta itemprop="height" content="3866">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/df7hiathcxi31.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lover Desktop Wallpaper | Taylor swift wallpaper, Photos of taylor ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/89/f5/38/89f5387e9b4a3761ad9df388f0a1011c.jpg' alt='Lover Desktop Wallpaper | Taylor swift wallpaper, Photos of taylor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/89/f5/38/89f5387e9b4a3761ad9df388f0a1011c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift Lover, 2019, cover, taylor swift, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/390/87/HD-wallpaper-taylor-swift-lover-2019-cover-taylor-swift.jpg' alt='Taylor Swift Lover, 2019, cover, taylor swift, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1730">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/390/87/HD-wallpaper-taylor-swift-lover-2019-cover-taylor-swift.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="lover Taylor swift MacBook wallpaper | Taylor swift wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ca/5a/5a/ca5a5a53f19df8e0f81e1a9f93b73ddb.jpg' alt='lover Taylor swift MacBook wallpaper | Taylor swift wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="412">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ca/5a/5a/ca5a5a53f19df8e0f81e1a9f93b73ddb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift - Lover | wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/6f/88/7b/6f887b1973262fe5b92c7e6c926b74ad.jpg' alt='Taylor Swift - Lover | wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/6f/88/7b/6f887b1973262fe5b92c7e6c926b74ad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Taylor Swift Lover Aesthetic Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/taylor-swift-lover-aesthetic-alskgcgt4j1g4b3s.jpg' alt='Download Taylor Swift Lover Aesthetic Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/taylor-swift-lover-aesthetic-alskgcgt4j1g4b3s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lover taylor swift wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2a/b3/7b/2ab37b430e7cfccece4b2a3a93c9e52d.jpg' alt='Lover taylor swift wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1366">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2a/b3/7b/2ab37b430e7cfccece4b2a3a93c9e52d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift Lover 4K Wallpaper #4.897">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgn7hX_Q_HUYYkdturH8fDDyQipG3RkaJWi7C-EMYrfPjT_-m8W8niG9Mx-ZUZHz2NsAZ86tE4FWbUfaOLw4nRUux-VeZZunxcvgpyOCFENCU01UkqdIFI_ikq82VLAewWnQ1f6_ij_pH2G/w919/taylor-swift-lover-uhdpaper.com-4K-4.897-wp.thumbnail.jpg' alt='Taylor Swift Lover 4K Wallpaper #4.897'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="914">
+                                <meta itemprop="height" content="514">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgn7hX_Q_HUYYkdturH8fDDyQipG3RkaJWi7C-EMYrfPjT_-m8W8niG9Mx-ZUZHz2NsAZ86tE4FWbUfaOLw4nRUux-VeZZunxcvgpyOCFENCU01UkqdIFI_ikq82VLAewWnQ1f6_ij_pH2G/w919/taylor-swift-lover-uhdpaper.com-4K-4.897-wp.thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Taylor Swift Lover Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/taylor-swift-lover-aesthetic-qjdlea6gm0t1c1ca.jpg' alt='100+] Taylor Swift Lover Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/taylor-swift-lover-aesthetic-qjdlea6gm0t1c1ca.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="lover wallpapers i made for laptop and phone (more on the way soon ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/1mgkj10qxq881.png' alt='lover wallpapers i made for laptop and phone (more on the way soon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/1mgkj10qxq881.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

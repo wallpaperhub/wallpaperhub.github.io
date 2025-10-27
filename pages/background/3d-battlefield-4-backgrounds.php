@@ -1,0 +1,129 @@
+<title>Stunning 3D Battlefield 4 Backgrounds for Gamers</title>
+                    <meta name="description" content="Discover breathtaking 3D Battlefield 4 backgrounds to enhance your device. Perfect for gamers, these stunning visuals capture the essence of epic battles and beautiful landscapes. Download now and transform your screens with dynamic, action-packed imagery today!">
+                    <meta name="keywords" content="3d battlefield 4 backgrounds">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/3d-battlefield-4-backgrounds">
+                            <span itemprop="name">3d battlefield 4 backgrounds</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 3D Battlefield 4 Backgrounds for Gamers</h1>
+                <p>Elevate your gaming experience with stunning 3D Battlefield 4 backgrounds. Immerse yourself in breathtaking visuals that bring the epic battles and rich landscapes of Battlefield 4 to life on your device. Customize your screens with dynamic images showcasing intense action and beautiful scenery, perfect for fans of the game.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Battlefield 4 Character Render In High Definition ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/best-3d-gaming-battlefield-4-character-sdimsbo0xxi9dpue.jpg' alt='Download Battlefield 4 Character Render In High Definition ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/best-3d-gaming-battlefield-4-character-sdimsbo0xxi9dpue.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Battlefield 4 Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/battlefield-4-background-ii7f0zl0yy60svzm.jpg' alt='200+] Battlefield 4 Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/battlefield-4-background-ii7f0zl0yy60svzm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Battlefield 4 Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/battlefield-4-background-hihaw6umtc8i7vit.jpg' alt='200+] Battlefield 4 Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/battlefield-4-background-hihaw6umtc8i7vit.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download "Battlefield 4" wallpapers for mobile phone, free ...">
+                                <img itemprop="contentUrl url" src='https://wallpaper.forfun.com/fetch/0a/0ae57203d3d5b3a957540832df984ed8.jpeg' alt='Download "Battlefield 4" wallpapers for mobile phone, free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mobile wallpapers - Mob.org" />
+                                </span>
+                                <a href='https://wallpaper.forfun.com/fetch/0a/0ae57203d3d5b3a957540832df984ed8.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ArtStation - Battlefield 4">
+                                <img itemprop="contentUrl url" src='https://cdna.artstation.com/p/assets/images/images/040/814/466/original/john-troive-siege2.gif?1629946067' alt='ArtStation - Battlefield 4'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="401">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtStation" />
+                                </span>
+                                <a href='https://cdna.artstation.com/p/assets/images/images/040/814/466/original/john-troive-siege2.gif?1629946067' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game Battlefield 4 Art">
+                                <img itemprop="contentUrl url" src='https://artfiles.alphacoders.com/644/64430.jpg' alt='Download Video Game Battlefield 4 Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://artfiles.alphacoders.com/644/64430.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Battlefield 4 Images - LaunchBox Games Database">
+                                <img itemprop="contentUrl url" src='https://images.launchbox-app.com/cffb63bc-3037-4015-9991-6e9461e756b9.jpg' alt='Battlefield 4 Images - LaunchBox Games Database'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LaunchBox Games Database" />
+                                </span>
+                                <a href='https://images.launchbox-app.com/cffb63bc-3037-4015-9991-6e9461e756b9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game Battlefield 4 HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/446/446249.png' alt='Download Video Game Battlefield 4 HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/446/446249.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Battlefield 4 Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/battlefield-4-background-u06eqq5phhgrne4w.jpg' alt='200+] Battlefield 4 Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/battlefield-4-background-u06eqq5phhgrne4w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ArtStation - Battlefield 4">
+                                <img itemprop="contentUrl url" src='https://cdna.artstation.com/p/assets/images/images/040/791/948/original/john-troive-gifparcelstorm.gif?1629892554' alt='ArtStation - Battlefield 4'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="401">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtStation" />
+                                </span>
+                                <a href='https://cdna.artstation.com/p/assets/images/images/040/791/948/original/john-troive-gifparcelstorm.gif?1629892554' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

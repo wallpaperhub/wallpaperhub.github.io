@@ -1,0 +1,129 @@
+<title>Charming Vintage Dog Wallpaper for Pet Lovers</title>
+                    <meta name="description" content="Discover vintage dog wallpaper that adds personality to your home. Perfect for nurseries, playrooms, and accent walls, our collection features delightful patterns that pet lovers will adore. Revamp your space while celebrating your love for dogs in style!">
+                    <meta name="keywords" content="vintage dog wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage">
+                            <span itemprop="name">Vintage</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage/vintage-dog-wallpaper">
+                            <span itemprop="name">vintage dog wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Vintage Dog Wallpaper for Pet Lovers</h1>
+                <p>Transform your space with charming vintage dog wallpaper that brings a playful touch to your décor. Explore delightful patterns featuring various dog breeds, perfect for accent walls or nurseries. Ideal for dog lovers, this wallpaper adds warmth and whimsy, creating a nostalgic atmosphere in any room.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Funky Dog Unique Renters Vintage Animal Luxury Wall ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/40283872/r/il/dc9036/4814680918/il_570xN.4814680918_l7rk.jpg' alt='Wallpaper Funky Dog Unique Renters Vintage Animal Luxury Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/40283872/r/il/dc9036/4814680918/il_570xN.4814680918_l7rk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HAOKHOME Vintage Dog Wallpaper Peel and Stick Textured Black ...">
+                                <img itemprop="contentUrl url" src='https://images-na.ssl-images-amazon.com/images/I/81i+kcEUN4L._AC_UL210_SR210,210_.jpg' alt='HAOKHOME Vintage Dog Wallpaper Peel and Stick Textured Black ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="210">
+                                <meta itemprop="height" content="210">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://images-na.ssl-images-amazon.com/images/I/81i+kcEUN4L._AC_UL210_SR210,210_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dog's Life Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.yorkwallcoverings.com/cdn/shop/products/af1939ex_cf996d66-57d2-41ad-9c75-cb3350e2db71.jpg?v=1703786670&width=800' alt='Dog's Life Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="York Wallcoverings" />
+                                </span>
+                                <a href='https://www.yorkwallcoverings.com/cdn/shop/products/af1939ex_cf996d66-57d2-41ad-9c75-cb3350e2db71.jpg?v=1703786670&width=800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Quirky Dog Faces Wallpaper | Playful Animal Decor">
+                                <img itemprop="contentUrl url" src='https://haokhome.com/cdn/shop/files/Vintage_Dog_Wallpaper_Peel_and_Stick_Textured_Black_Renter_Friendly_Wall_Paper_for_Bathroom_Decor-6.jpg?v=1720684120&width=416' alt='Quirky Dog Faces Wallpaper | Playful Animal Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HaokHome" />
+                                </span>
+                                <a href='https://haokhome.com/cdn/shop/files/Vintage_Dog_Wallpaper_Peel_and_Stick_Textured_Black_Renter_Friendly_Wall_Paper_for_Bathroom_Decor-6.jpg?v=1720684120&width=416' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Order 70s Dogs Wallpaper, Custom Hipster Dogs Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/12000245/r/il/1578ec/5621374909/il_570xN.5621374909_fy4u.jpg' alt='Custom Order 70s Dogs Wallpaper, Custom Hipster Dogs Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="475">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/12000245/r/il/1578ec/5621374909/il_570xN.5621374909_fy4u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HAOKHOME Vintage Dog Wallpaper Peel and Stick Textured Black Renter  Friendly Wall Paper for Bathroom Decor 17.7in x 9.8ft - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81sA-3L6crL.jpg' alt='HAOKHOME Vintage Dog Wallpaper Peel and Stick Textured Black Renter  Friendly Wall Paper for Bathroom Decor 17.7in x 9.8ft - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1589">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81sA-3L6crL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dog Wallpaper Funky Vintage Luxury Wall Decor">
+                                <img itemprop="contentUrl url" src='http://optimisticpixeldesign.com/cdn/shop/files/0481305d1c26ae3726a31bdb13f8d0e57236bee9_b74c2a5d-5da4-4995-9289-c58af88b871d.jpg?v=1739801723' alt='Dog Wallpaper Funky Vintage Luxury Wall Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Optimistic Pixel Design" />
+                                </span>
+                                <a href='http://optimisticpixeldesign.com/cdn/shop/files/0481305d1c26ae3726a31bdb13f8d0e57236bee9_b74c2a5d-5da4-4995-9289-c58af88b871d.jpg?v=1739801723' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Doggies Wallpaper • Milton & King">
+                                <img itemprop="contentUrl url" src='https://s29938.pcdn.co/wp-content/uploads/2021/02/Wallpaper-Linz-Doggies-Charcoal-1.jpg.optimal.jpg' alt='Doggies Wallpaper • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://s29938.pcdn.co/wp-content/uploads/2021/02/Wallpaper-Linz-Doggies-Charcoal-1.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pattern PFS4812 Stone Good Dog Peel & Stick Wallpaper from ...">
+                                <img itemprop="contentUrl url" src='https://cdn.totalwallcovering.com/product/stone-good-dog-peel-stick-wallpaper-doqw-l.jpg' alt='Pattern PFS4812 Stone Good Dog Peel & Stick Wallpaper from ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Total Wallcovering" />
+                                </span>
+                                <a href='https://cdn.totalwallcovering.com/product/stone-good-dog-peel-stick-wallpaper-doqw-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Quirky Dog Faces Wallpaper | Playful Animal Decor">
+                                <img itemprop="contentUrl url" src='https://haokhome.com/cdn/shop/files/Vintage_Dog_Wallpaper_Peel_and_Stick_Textured_Black_Renter_Friendly_Wall_Paper_for_Bathroom_Decor-5.jpg?v=1720684112&width=1445' alt='Quirky Dog Faces Wallpaper | Playful Animal Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1212">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HaokHome" />
+                                </span>
+                                <a href='https://haokhome.com/cdn/shop/files/Vintage_Dog_Wallpaper_Peel_and_Stick_Textured_Black_Renter_Friendly_Wall_Paper_for_Bathroom_Decor-5.jpg?v=1720684112&width=1445' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Beautiful Blue Half Heart Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover captivating blue half heart wallpapers that express love and serenity. Perfectly designed for any screen, these wallpapers enhance your device's aesthetic. Choose your favorite shade of blue and bring a touch of elegance to your day with a unique heart-themed background!">
+                    <meta name="keywords" content="blue half heart wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart">
+                            <span itemprop="name">Heart</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart/blue-half-heart-wallpaper">
+                            <span itemprop="name">blue half heart wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful Blue Half Heart Wallpapers for Your Device</h1>
+                <p>Transform your device with stunning blue half heart wallpapers that blend elegance with emotion. Perfect for expressing love and tranquility, these designs add a unique touch to your screen. Choose from various shades of blue, embodying calmness and serenity. Elevate your aesthetic with these beautiful heart-themed wallpapers today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Blue Glow Half Heart Illustration Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/blue-glow-half-heart-illustration-l8zuaqy3zfs8fr8q.jpg' alt='Download Blue Glow Half Heart Illustration Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="722">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/blue-glow-half-heart-illustration-l8zuaqy3zfs8fr8q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/2b/90/79/2b907914b15dd1772cf9768895f3bc6b.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="608">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/2b/90/79/2b907914b15dd1772cf9768895f3bc6b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Half Heart Blue    | Heart wallpaper, Couple matching wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/4e/fb/0b/4efb0b24ca7733fd10d150f0865b4d52.jpg' alt='Half Heart Blue    | Heart wallpaper, Couple matching wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="881">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/4e/fb/0b/4efb0b24ca7733fd10d150f0865b4d52.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Replying to @K     #hearttoheart #blue #cropped #wallpaper #trend There is  more colours on my page and also posting more later <3">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7194343545480744197&location=0&aid=1988' alt='Replying to @K     #hearttoheart #blue #cropped #wallpaper #trend There is  more colours on my page and also posting more later <3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7194343545480744197&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Or nah? #fyp #viral #fypシ #shadowgamer100 #loveyou #blowup #heart #ornah  #mybaby #wallpaper #love #bf #fypシ゚viral #me #you #red #blue #foryoupage  #fypage #videos #us #forever #bestcouple">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7195120148578061574&location=0&aid=1988' alt='Or nah? #fyp #viral #fypシ #shadowgamer100 #loveyou #blowup #heart #ornah  #mybaby #wallpaper #love #bf #fypシ゚viral #me #you #red #blue #foryoupage  #fypage #videos #us #forever #bestcouple'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="592">
+                                <meta itemprop="height" content="964">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7195120148578061574&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="    ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5d/76/af/5d76af33807917c70b2fa18028cd40fe.jpg' alt='    '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5d/76/af/5d76af33807917c70b2fa18028cd40fe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue and Pink Heart Background | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7195468210672520450&location=0&aid=1988' alt='Blue and Pink Heart Background | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7195468210672520450&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue heart wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/5a/6e/43/5a6e435d43c19e30bffc331222d00c93.jpg' alt='Blue heart wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/5a/6e/43/5a6e435d43c19e30bffc331222d00c93.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Half Heart Wallpaper - Gym Aesthetic Motivation | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7215407748991683882&location=0&aid=1988' alt='Blue Half Heart Wallpaper - Gym Aesthetic Motivation | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7215407748991683882&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heart Couple Wallpaper Trend | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7194494152371932459&location=0&aid=1988' alt='Heart Couple Wallpaper Trend | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7194494152371932459&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

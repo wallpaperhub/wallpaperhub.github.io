@@ -1,0 +1,129 @@
+<title>Discover the Enchanting Elsa Castle: A Frozen Inspiration</title>
+                    <meta name="description" content="Explore the enchantment of Elsa's castle from Disney's "Frozen." Learn about the stunning design, magical features, and the captivating story behind this iconic ice palace. Perfect for fans and newcomers alike, dive into the world of Elsa's beautiful kingdom!">
+                    <meta name="keywords" content="elsa castle background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/elsa-castle-background">
+                            <span itemprop="name">elsa castle background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Enchanting Elsa Castle: A Frozen Inspiration</h1>
+                <p>Elsa's castle, the shimmering ice palace from Disney's "Frozen," is a breathtaking backdrop that captivates audiences of all ages. Inspired by Scandinavian landscapes, the castle features towering spires, majestic glaciers, and intricate frost designs. Its magical aura symbolizes independence, courage, and the beauty of embracing one's true self.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Frozen Castle Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cf/17/19/cf17193a56f757fafee5b46cbed8d5bb.jpg' alt='Awesome Frozen Castle Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cf/17/19/cf17193a56f757fafee5b46cbed8d5bb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sumind Winter Frozen Party Supplies Backdrop Decoration Frozen Ice  Snowflake Photography Banner Winter Wonderland Ice Castle Background for  Christmas ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91pBTUFwl1L.jpg' alt='Sumind Winter Frozen Party Supplies Backdrop Decoration Frozen Ice  Snowflake Photography Banner Winter Wonderland Ice Castle Background for  Christmas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91pBTUFwl1L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hand Painted Scenic Backdrop Rentals and Sales">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/8d/b4/57/8db457e102593cba6eb73aab9abcdbe7.jpg' alt='Hand Painted Scenic Backdrop Rentals and Sales'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="530">
+                                <meta itemprop="height" content="265">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/8d/b4/57/8db457e102593cba6eb73aab9abcdbe7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="82.7"x59" Winter Frozen Backdrop, Blue Castle Background Winter Wonderland  Banner, Frozen Ice Snowflake Party Supplies Christmas Holiday Baby Shower  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71Bh1E16MPL.jpg' alt='82.7"x59" Winter Frozen Backdrop, Blue Castle Background Winter Wonderland  Banner, Frozen Ice Snowflake Party Supplies Christmas Holiday Baby Shower  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71Bh1E16MPL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frozen, Ice Castle Digital Background, Digital Backdrop, for ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/24146227/r/il/0a29e1/3588334456/il_570xN.3588334456_tdox.jpg' alt='Frozen, Ice Castle Digital Background, Digital Backdrop, for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/24146227/r/il/0a29e1/3588334456/il_570xN.3588334456_tdox.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney Frozen Anna Elsa Castle Ice Mountains Snowflakes Edible Cake Topper  Image ABPID08941">
+                                <img itemprop="contentUrl url" src='https://www.abirthdayplace.com/cdn/shop/products/ABPID08941.jpg?v=1644965357&width=1946' alt='Disney Frozen Anna Elsa Castle Ice Mountains Snowflakes Edible Cake Topper  Image ABPID08941'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="A Birthday Place" />
+                                </span>
+                                <a href='https://www.abirthdayplace.com/cdn/shop/products/ABPID08941.jpg?v=1644965357&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elsa's Ice Palace Background by SallyFinkelstein13 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6c63b4c3-9fa8-401c-88ba-4f63ba820d48/d8u4iak-b906e4c1-0992-4ba6-b9cb-4afea466a1bb.png/v1/fill/w_833,h_464,q_80,strp/elsa_s_ice_palace_background_by_sallyfinkelstein13_d8u4iak-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDY0IiwicGF0aCI6IlwvZlwvNmM2M2I0YzMtOWZhOC00MDFjLTg4YmEtNGY2M2JhODIwZDQ4XC9kOHU0aWFrLWI5MDZlNGMxLTA5OTItNGJhNi1iOWNiLTRhZmVhNDY2YTFiYi5wbmciLCJ3aWR0aCI6Ijw9ODMzIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.DWrTx0uVBvqpDjL49Kt3v-lwpOSlltOCW8EOFkA5LW8' alt='Elsa's Ice Palace Background by SallyFinkelstein13 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="833">
+                                <meta itemprop="height" content="464">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6c63b4c3-9fa8-401c-88ba-4f63ba820d48/d8u4iak-b906e4c1-0992-4ba6-b9cb-4afea466a1bb.png/v1/fill/w_833,h_464,q_80,strp/elsa_s_ice_palace_background_by_sallyfinkelstein13_d8u4iak-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDY0IiwicGF0aCI6IlwvZlwvNmM2M2I0YzMtOWZhOC00MDFjLTg4YmEtNGY2M2JhODIwZDQ4XC9kOHU0aWFrLWI5MDZlNGMxLTA5OTItNGJhNi1iOWNiLTRhZmVhNDY2YTFiYi5wbmciLCJ3aWR0aCI6Ijw9ODMzIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.DWrTx0uVBvqpDjL49Kt3v-lwpOSlltOCW8EOFkA5LW8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elsa's Ice Castle Wallpaper : r/Frozen">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/jmasUXP.png' alt='Elsa's Ice Castle Wallpaper : r/Frozen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="856">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://i.imgur.com/jmasUXP.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frozen Castle Fountain Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/frozen-castle-fountain-ski9rudd9itm69gd.jpg' alt='Frozen Castle Fountain Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1047">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/frozen-castle-fountain-ski9rudd9itm69gd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frozen Ice Castle Stairs Fabric Backdrop Sweep">
+                                <img itemprop="contentUrl url" src='https://snobbydrops.com/cdn/shop/files/frozen-ice-castle-stairs-fabric-backdrop-sweep-agtf062-snobby-drops.png?v=1725005157' alt='Frozen Ice Castle Stairs Fabric Backdrop Sweep'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="497">
+                                <meta itemprop="height" content="774">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Snobby Drops" />
+                                </span>
+                                <a href='https://snobbydrops.com/cdn/shop/files/frozen-ice-castle-stairs-fabric-backdrop-sweep-agtf062-snobby-drops.png?v=1725005157' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

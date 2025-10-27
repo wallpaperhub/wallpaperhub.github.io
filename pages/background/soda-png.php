@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="soda png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/soda-png">
+                            <span itemprop="name">soda png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p>Discover a refreshing collection of soda PNG images for your projects! Whether you need vibrant graphics for design, social media, or advertisements, our curated selection has you covered. Download high-quality, transparent soda images to elevate your creative work effortlessly. Ideal for personal or commercial use, these visuals bring your ideas to life.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soda png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/496/118/png-clipart-glass-poured-with-soda-coca-cola-fizzy-drinks-diet-coke-pepsi-coca-glass-cola.png' alt='Soda png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/496/118/png-clipart-glass-poured-with-soda-coca-cola-fizzy-drinks-diet-coke-pepsi-coca-glass-cola.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coke PNG Images & PSDs for Download | PixelSquid - S107024412">
+                                <img itemprop="contentUrl url" src='http://atlas-content-cdn.pixelsquid.com/stock-images/coke-soda-q13q2x2-600.jpg' alt='Coke PNG Images & PSDs for Download | PixelSquid - S107024412'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PixelSquid" />
+                                </span>
+                                <a href='http://atlas-content-cdn.pixelsquid.com/stock-images/coke-soda-q13q2x2-600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soda can clipart design illustration 9342732 PNG">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/009/342/732/non_2x/soda-can-clipart-design-illustration-free-png.png' alt='Soda can clipart design illustration 9342732 PNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/009/342/732/non_2x/soda-can-clipart-design-illustration-free-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coca Cola Soda PNG 2014-2024 by mrOrlandoMagicFan200 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/07ed52f9-65de-4d91-afc1-6d9594f0de81/di5dln7-628fdc3f-87d6-4492-9fb5-693d10d1f31a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA3ZWQ1MmY5LTY1ZGUtNGQ5MS1hZmMxLTZkOTU5NGYwZGU4MVwvZGk1ZGxuNy02MjhmZGMzZi04N2Q2LTQ0OTItOWZiNS02OTNkMTBkMWYzMWEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.cVkcjg0TdIYQWAEkOAakl9dESVGmxs8hATAwuFCwKMQ' alt='Coca Cola Soda PNG 2014-2024 by mrOrlandoMagicFan200 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="628">
+                                <meta itemprop="height" content="969">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/07ed52f9-65de-4d91-afc1-6d9594f0de81/di5dln7-628fdc3f-87d6-4492-9fb5-693d10d1f31a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA3ZWQ1MmY5LTY1ZGUtNGQ5MS1hZmMxLTZkOTU5NGYwZGU4MVwvZGk1ZGxuNy02MjhmZGMzZi04N2Q2LTQ0OTItOWZiNS02OTNkMTBkMWYzMWEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.cVkcjg0TdIYQWAEkOAakl9dESVGmxs8hATAwuFCwKMQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sodas PNG Transparent Images Free Download | Vector Files | Pngtree">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20210519/ourmid/pngtree-coca-cola-for-dissert-drink-png-image_3302445.jpg' alt='Sodas PNG Transparent Images Free Download | Vector Files | Pngtree'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20210519/ourmid/pngtree-coca-cola-for-dissert-drink-png-image_3302445.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soda Png Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/ice-falling-brown-drink_1194-1074.jpg' alt='Soda Png Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/ice-falling-brown-drink_1194-1074.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soda Can PNG Image - PurePNG | Free transparent CC0 PNG Image Library">
+                                <img itemprop="contentUrl url" src='https://purepng.com/public/uploads/large/purepng.com-soda-canfood-soda-object-can-drink-beverage-coke-941524597484qfy9c.png' alt='Soda Can PNG Image - PurePNG | Free transparent CC0 PNG Image Library'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1335">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PurePNG" />
+                                </span>
+                                <a href='https://purepng.com/public/uploads/large/purepng.com-soda-canfood-soda-object-can-drink-beverage-coke-941524597484qfy9c.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soda PNGs for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/035/574/992/small_2x/ai-generated-red-soda-can-on-transparent-background-image-png.png' alt='Soda PNGs for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/035/574/992/small_2x/ai-generated-red-soda-can-on-transparent-background-image-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coke White Transparent, Coke, Coke Drawing, Coke Sketch PNG Image ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2f/92/6c/2f926cbd3a803c9dc17e74016447bfa2.jpg' alt='Coke White Transparent, Coke, Coke Drawing, Coke Sketch PNG Image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="721">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2f/92/6c/2f926cbd3a803c9dc17e74016447bfa2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coca Cola can PNG image transparent image download, size: 1697x3212px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/cocacola_PNG10.png' alt='Coca Cola can PNG image transparent image download, size: 1697x3212px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1697">
+                                <meta itemprop="height" content="3212">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/cocacola_PNG10.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

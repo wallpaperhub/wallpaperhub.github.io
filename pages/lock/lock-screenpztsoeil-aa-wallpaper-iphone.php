@@ -1,0 +1,129 @@
+<title>Beautiful iPhone Lock Screen Wallpapers</title>
+                    <meta name="description" content="Explore breathtaking lock screen wallpapers for your iPhone. Elevate your device's look with eye-catching designs that reflect your personality. Perfect for any style, these wallpapers will turn your screen into a work of art, making every glance delightful!">
+                    <meta name="keywords" content="lock screen:pztsoeil-aa= wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock">
+                            <span itemprop="name">Lock</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock/lock-screenpztsoeil-aa-wallpaper-iphone">
+                            <span itemprop="name">lock screen:pztsoeil-aa= wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful iPhone Lock Screen Wallpapers</h1>
+                <p>Enhance your iPhone's aesthetic with stunning lock screen wallpapers! Discover a variety of designs that transform your device into a personal canvas. Whether you prefer minimalist art or vibrant patterns, find the perfect wallpaper to match your style and make each time you check your phone a visual treat.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="One Day at a Time, iPhone Wallpaper, iPhone Lock Screen, ODAAT ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/26645847/r/il/7f7613/2879971289/il_fullxfull.2879971289_li18.jpg' alt='One Day at a Time, iPhone Wallpaper, iPhone Lock Screen, ODAAT ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2700">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/26645847/r/il/7f7613/2879971289/il_fullxfull.2879971289_li18.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="One Day at a Time, iPhone Wallpaper, iPhone Lock Screen, ODAAT ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/26645847/r/il/129f01/2879971739/il_fullxfull.2879971739_2et3.jpg' alt='One Day at a Time, iPhone Wallpaper, iPhone Lock Screen, ODAAT ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2667">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/26645847/r/il/129f01/2879971739/il_fullxfull.2879971739_2et3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="One Day at a Time, iPhone Wallpaper, iPhone Lock Screen, ODAAT ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/26645847/r/il/18069c/2832304538/il_fullxfull.2832304538_pjto.jpg' alt='One Day at a Time, iPhone Wallpaper, iPhone Lock Screen, ODAAT ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/26645847/r/il/18069c/2832304538/il_fullxfull.2832304538_pjto.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="One Day at a Time, iPhone Wallpaper, iPhone Lock Screen, ODAAT ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/26645847/r/il/63362c/2879972185/il_fullxfull.2879972185_p8vu.jpg' alt='One Day at a Time, iPhone Wallpaper, iPhone Lock Screen, ODAAT ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/26645847/r/il/63362c/2879972185/il_fullxfull.2879972185_p8vu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Help - Lock Screen Wallpaper on iPhone : r/iphone">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/help-lock-screen-wallpaper-on-iphone-v0-jspw6sqpkemd1.png?width=1170&format=png&auto=webp&s=bc0f88797d1319ba6e8309fbcf9945ba7b02e4c5' alt='Help - Lock Screen Wallpaper on iPhone : r/iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/help-lock-screen-wallpaper-on-iphone-v0-jspw6sqpkemd1.png?width=1170&format=png&auto=webp&s=bc0f88797d1319ba6e8309fbcf9945ba7b02e4c5' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="One Day at a Time, iPhone Wallpaper, iPhone Lock Screen, ODAAT ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/26645847/r/il/f667b2/2881105841/il_fullxfull.2881105841_5ntm.jpg' alt='One Day at a Time, iPhone Wallpaper, iPhone Lock Screen, ODAAT ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/26645847/r/il/f667b2/2881105841/il_fullxfull.2881105841_5ntm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made my phone lock screen and home screen Outer Wilds themed :D ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/i-made-my-phone-lock-screen-and-home-screen-outer-wilds-v0-ekrsuqswy46a1.png?width=640&crop=smart&auto=webp&s=885f2854153b1a81e0a5c123212fd046ff31ef6a' alt='I made my phone lock screen and home screen Outer Wilds themed :D ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/i-made-my-phone-lock-screen-and-home-screen-outer-wilds-v0-ekrsuqswy46a1.png?width=640&crop=smart&auto=webp&s=885f2854153b1a81e0a5c123212fd046ff31ef6a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New lockscreen! : r/thelastofus">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/new-lockscreen-v0-zfmlu3ubf2ua1.jpg?width=640&crop=smart&auto=webp&s=ebf1dacb4f2033b360f315dd769e0ec333e63de6' alt='New lockscreen! : r/thelastofus'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1426">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/new-lockscreen-v0-zfmlu3ubf2ua1.jpg?width=640&crop=smart&auto=webp&s=ebf1dacb4f2033b360f315dd769e0ec333e63de6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Let's see those lock screen wallpapers : r/S23Ultra_Photography">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/lets-see-those-lock-screen-wallpapers-v0-a3xq5zyjbikb1.jpg?width=1080&crop=smart&auto=webp&s=64e1e955c7311eea774bbc83f0376f208cefed12' alt='Let's see those lock screen wallpapers : r/S23Ultra_Photography'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2316">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/lets-see-those-lock-screen-wallpapers-v0-a3xq5zyjbikb1.jpg?width=1080&crop=smart&auto=webp&s=64e1e955c7311eea774bbc83f0376f208cefed12' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fun phone wallpaper/lockscreen : r/ATEEZ">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/fun-phone-wallpaper-lockscreen-v0-21tqvwegl53d1.jpeg?width=1440&format=pjpg&auto=webp&s=c003501c2f8727fed733da90f3ef9b6c549084e7' alt='Fun phone wallpaper/lockscreen : r/ATEEZ'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="3200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/fun-phone-wallpaper-lockscreen-v0-21tqvwegl53d1.jpeg?width=1440&format=pjpg&auto=webp&s=c003501c2f8727fed733da90f3ef9b6c549084e7' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

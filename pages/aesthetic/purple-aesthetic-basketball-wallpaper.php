@@ -1,0 +1,129 @@
+<title>Vibrant Purple Aesthetic Basketball Wallpaper for Your Space</title>
+                    <meta name="description" content="Discover the perfect blend of style and sport with our purple aesthetic basketball wallpaper. This eye-catching design is ideal for fans and trendsetters looking to infuse their space with energy and elegance. Upgrade your room effortlessly today!">
+                    <meta name="keywords" content="purple aesthetic basketball wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/purple-aesthetic-basketball-wallpaper">
+                            <span itemprop="name">purple aesthetic basketball wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Purple Aesthetic Basketball Wallpaper for Your Space</h1>
+                <p>Elevate your workspace with stunning purple aesthetic basketball wallpaper! This unique design blends the energy of the game with vibrant shades of purple, creating a visually striking backdrop. Perfect for basketball enthusiasts and those who want to express their unique style, this wallpaper brings a touch of elegance to any room.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="idée de fond d'écran violet pastel   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/65/81/75/6581755d1284f660bc9b2d198ee2fb73.jpg' alt='idée de fond d'écran violet pastel   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/65/81/75/6581755d1284f660bc9b2d198ee2fb73.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple basketball moon">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b2/f2/b0/b2f2b0ef89a294afbdf41b187c106bf7.jpg' alt='Purple basketball moon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b2/f2/b0/b2f2b0ef89a294afbdf41b187c106bf7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1d/bc/7b/1dbc7b12047b3d151bdb714257e4b5dd.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1d/bc/7b/1dbc7b12047b3d151bdb714257e4b5dd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="purple basketball aesthetic wallpaper iphone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/30/52/fb/3052fbd235457ff24ca9b530f92613d3.jpg' alt='purple basketball aesthetic wallpaper iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/30/52/fb/3052fbd235457ff24ca9b530f92613d3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Purple basketball ideas | basketball wallpaper, basketball ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/05/d9/cc/05d9ccc96c5bf67001932628d65b4085.jpg' alt='50 Purple basketball ideas | basketball wallpaper, basketball ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="346">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/05/d9/cc/05d9ccc96c5bf67001932628d65b4085.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Aesthetic Basketball Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11086024.jpg' alt='Purple Aesthetic Basketball Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3444">
+                                <meta itemprop="height" content="3464">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11086024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute girl basketball wallpaper    | Gallery posted by Raven Smith ...">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7326650744262541830&index=0&sign=951f0c0ce0805ba44d7af27b9bbde755' alt='Cute girl basketball wallpaper    | Gallery posted by Raven Smith ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="1564">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7326650744262541830&index=0&sign=951f0c0ce0805ba44d7af27b9bbde755' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Aesthetic Basketball Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11085996.jpg' alt='Purple Aesthetic Basketball Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11085996.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Purple basketball ideas | basketball wallpaper, basketball ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/2b/72/df/2b72dfb5642989313e11ded0fe0e2c73.jpg' alt='50 Purple basketball ideas | basketball wallpaper, basketball ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="977">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/2b/72/df/2b72dfb5642989313e11ded0fe0e2c73.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Basketball Iphone Ring And Purple Clouds Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/basketball-iphone-ring-and-purple-clouds-xoelzngim117gunr.jpg' alt='Basketball Iphone Ring And Purple Clouds Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/basketball-iphone-ring-and-purple-clouds-xoelzngim117gunr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

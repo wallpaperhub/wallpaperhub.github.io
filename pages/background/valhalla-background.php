@@ -1,0 +1,129 @@
+<title>Discover the Legendary World of Valhalla</title>
+                    <meta name="description" content="Explore Valhalla, the hall of slain warriors from Norse mythology. Delve into its rich lore, learn about its significance, and unravel the legend of Odin's domain, where fallen heroes are honored. Join us on a journey through this epic narrative of bravery and glory!">
+                    <meta name="keywords" content="valhalla background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/valhalla-background">
+                            <span itemprop="name">valhalla background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Legendary World of Valhalla</h1>
+                <p>Valhalla, in Norse mythology, is the majestic hall of slain warriors, ruled by Odin. Those who die in battle are welcomed here, where they feast and prepare for Ragnarok. Valhalla symbolizes bravery, honor, and the eternal pursuit of glory, serving as a timeless reminder of valor and the hero's journey.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Assassin's Creed Valhalla' Is a Trip to the Land of Ice and Fire ...">
+                                <img itemprop="contentUrl url" src='https://media.wired.com/photos/6046813abc9d842459e763e1/191:100/w_1280,c_limit/games_valhalla_wanderlust.jpg' alt='Assassin's Creed Valhalla' Is a Trip to the Land of Ice and Fire ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WIRED" />
+                                </span>
+                                <a href='https://media.wired.com/photos/6046813abc9d842459e763e1/191:100/w_1280,c_limit/games_valhalla_wanderlust.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Assassin's Creed: Valhalla - Free Laser Designs - Glowforge Owners ...">
+                                <img itemprop="contentUrl url" src='https://community.glowforge.com/uploads/db6859/optimized/3X/4/a/4a3d3f0283cb3e5c3ad132623a4f9038bcc9eb6a_2_690x386.jpeg' alt='Assassin's Creed: Valhalla - Free Laser Designs - Glowforge Owners ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="690">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Glowforge Owners Forum" />
+                                </span>
+                                <a href='https://community.glowforge.com/uploads/db6859/optimized/3X/4/a/4a3d3f0283cb3e5c3ad132623a4f9038bcc9eb6a_2_690x386.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Norse Church: AC Valhalla by Raphael Lacoste : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/2y2k540v3f171.jpg' alt='Norse Church: AC Valhalla by Raphael Lacoste : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2015">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/2y2k540v3f171.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Assassin's Creed Valhalla Viking Landscape 4K Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/107/1077466.jpg' alt='Assassin's Creed Valhalla Viking Landscape 4K Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2230">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/107/1077466.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Assassin's Creed Valhalla [1920 X 1080] : r/wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/1q1de0583au71.jpg' alt='Assassin's Creed Valhalla [1920 X 1080] : r/wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1083">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/1q1de0583au71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper landscape, art, Assassin's Creed, Viking, Ubisoft ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/wallpaper/big/2/81/assassin-s-creed-viking-ubisoft-montreal-valhalla-assassins.webp' alt='Wallpaper landscape, art, Assassin's Creed, Viking, Ubisoft ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="596">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/wallpaper/big/2/81/assassin-s-creed-viking-ubisoft-montreal-valhalla-assassins.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Assassin's Creed Valhalla – The History Behind the Viking Legend">
+                                <img itemprop="contentUrl url" src='https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4fVRd21Ca0hDITZGzbiagJ/cb879080760056431f1e7754b05f43bc/_UN__News__Assassin___s_Creed_Valhalla_____The_History_Behind_the_Viking_Legend_-_Drakkar_960x540.jpg' alt='Assassin's Creed Valhalla – The History Behind the Viking Legend'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ubisoft" />
+                                </span>
+                                <a href='https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4fVRd21Ca0hDITZGzbiagJ/cb879080760056431f1e7754b05f43bc/_UN__News__Assassin___s_Creed_Valhalla_____The_History_Behind_the_Viking_Legend_-_Drakkar_960x540.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Assassin's Creed Valhalla confirms Viking setting for next game">
+                                <img itemprop="contentUrl url" src='https://ew.com/thmb/ol8Xd_OORwGD1OZ3m6pQPDLubzo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Assassins-Creed-2026029891a44a82b81b1e63f30da472.jpg' alt='Assassin's Creed Valhalla confirms Viking setting for next game'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="684">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Entertainment Weekly" />
+                                </span>
+                                <a href='https://ew.com/thmb/ol8Xd_OORwGD1OZ3m6pQPDLubzo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Assassins-Creed-2026029891a44a82b81b1e63f30da472.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Assassin's Creed Valhalla: Dawn Of Ragnarok Eivor ...">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/119/1198253.jpg' alt='Download Assassin's Creed Valhalla: Dawn Of Ragnarok Eivor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/119/1198253.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Assassin's Creed Valhalla – The History Behind the Viking Legend">
+                                <img itemprop="contentUrl url" src='https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2pCpOhfRfDJasr1CTRJCH2/e3c6f7ffd2bc74748a5fe61583316d97/_UN__News__Assassin___s_Creed_Valhalla_____Become_a_Legendary_Viking_Raider_-_England_960x540.jpg' alt='Assassin's Creed Valhalla – The History Behind the Viking Legend'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ubisoft" />
+                                </span>
+                                <a href='https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2pCpOhfRfDJasr1CTRJCH2/e3c6f7ffd2bc74748a5fe61583316d97/_UN__News__Assassin___s_Creed_Valhalla_____Become_a_Legendary_Viking_Raider_-_England_960x540.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

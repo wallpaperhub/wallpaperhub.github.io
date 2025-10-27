@@ -1,0 +1,129 @@
+<title>Navy Bathroom Wallpaper: Elevate Your Space</title>
+                    <meta name="description" content="Discover stylish navy bathroom wallpaper to enhance your decor. Perfect for creating a calming ambiance, it pairs beautifully with various styles. Explore our collection for easy-to-apply options that breathe new life into your bathroom today!">
+                    <meta name="keywords" content="navy bathroom wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom">
+                            <span itemprop="name">Bathroom</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom/navy-bathroom-wallpaper">
+                            <span itemprop="name">navy bathroom wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Navy Bathroom Wallpaper: Elevate Your Space</h1>
+                <p>Transform your bathroom into a serene retreat with navy bathroom wallpaper. This sophisticated hue adds depth and style while creating a calming atmosphere. Pair it with white fixtures for a classic look or bold accents for modern flair. Easy to apply and maintain, navy wallpaper is perfect for elevating your space.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plethora | Navy - Wallpaper — COPPER CORNERS">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5a2613f6be42d61192e3e478/1600896874953-R96CW3JWJI2T3UIQTZHK/plethora+navy+bathroom+wallpaper.jpg?format=1000w' alt='Plethora | Navy - Wallpaper — COPPER CORNERS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="COPPER CORNERS" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5a2613f6be42d61192e3e478/1600896874953-R96CW3JWJI2T3UIQTZHK/plethora+navy+bathroom+wallpaper.jpg?format=1000w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Blue Botanical Wallpaper Vintage Wildflower Bedroom Bathroom ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/38937203/r/il/71c9d4/6289946207/il_570xN.6289946207_rbuq.jpg' alt='Dark Blue Botanical Wallpaper Vintage Wildflower Bedroom Bathroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="684">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/38937203/r/il/71c9d4/6289946207/il_570xN.6289946207_rbuq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Peel and Stick Wallpaper Abstract Navy Large Floral Removeable  Wallpaper Wall Decor Wall Art Room Decor 540">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/custom_resized_1de79148-78d1-4ad0-8834-71c5e35a860e.jpg' alt='Wallpaper Peel and Stick Wallpaper Abstract Navy Large Floral Removeable  Wallpaper Wall Decor Wall Art Room Decor 540'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1707">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/custom_resized_1de79148-78d1-4ad0-8834-71c5e35a860e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Navy Blue linen textured wallpaper 3424">
+                                <img itemprop="contentUrl url" src='https://california-wallpaper.com/cdn/shop/products/il_fullxfull.4336371876_r0m2.jpg?v=1668587329&width=1080' alt='Navy Blue linen textured wallpaper 3424'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="California Wallpaper" />
+                                </span>
+                                <a href='https://california-wallpaper.com/cdn/shop/products/il_fullxfull.4336371876_r0m2.jpg?v=1668587329&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Navy & Gold Designer Wallpaper | Leopard Luxe by Becca Who">
+                                <img itemprop="contentUrl url" src='https://beccawho.com/cdn/shop/products/navy-leopard-luxe-bathroom-roll-op.jpg?v=1636370133&width=800' alt='Navy & Gold Designer Wallpaper | Leopard Luxe by Becca Who'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Becca Who" />
+                                </span>
+                                <a href='https://beccawho.com/cdn/shop/products/navy-leopard-luxe-bathroom-roll-op.jpg?v=1636370133&width=800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vessels | Navy - Wallpaper — COPPER CORNERS">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5a2613f6be42d61192e3e478/1600906570293-OEG9HD3KJMZPLCVXZW04/vessels+blue.jpg?format=1000w' alt='Vessels | Navy - Wallpaper — COPPER CORNERS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="COPPER CORNERS" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5a2613f6be42d61192e3e478/1600906570293-OEG9HD3KJMZPLCVXZW04/vessels+blue.jpg?format=1000w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Navy Blue & Gold Palm Leaves Wallpaper CC295">
+                                <img itemprop="contentUrl url" src='https://costacover.com/cdn/shop/files/04_36c896bd-0e0b-46c4-ba37-83195d887760_1080x.jpg?v=1698091734' alt='Navy Blue & Gold Palm Leaves Wallpaper CC295'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CostaCover" />
+                                </span>
+                                <a href='https://costacover.com/cdn/shop/files/04_36c896bd-0e0b-46c4-ba37-83195d887760_1080x.jpg?v=1698091734' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Catalonia Tile Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-a8nz7a35xo/images/stencil/1280x1280/products/210/1017/navy-removable-wallpaper__31490.1666227495.jpg?c=2' alt='Catalonia Tile Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Paperbird" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-a8nz7a35xo/images/stencil/1280x1280/products/210/1017/navy-removable-wallpaper__31490.1666227495.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Navy Blue Bathroom Wallpaper - Plain - 36180 - Textured Tough - Gold Fleck">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/00/s/NTk5WDQ3OQ==/z/HHoAAOSwfVRij0mP/$_57.JPG?set_id=8800005007' alt='Navy Blue Bathroom Wallpaper - Plain - 36180 - Textured Tough - Gold Fleck'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="479">
+                                <meta itemprop="height" content="599">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/00/s/NTk5WDQ3OQ==/z/HHoAAOSwfVRij0mP/$_57.JPG?set_id=8800005007' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall 30.75 sq. ft. Navy Blue Vintage Floral Vinyl Peel and ...">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/5f67a021-5822-4759-badf-877a899cdf87/svn/nextwall-wallpaper-rolls-nw45702-4f_600.jpg' alt='NextWall 30.75 sq. ft. Navy Blue Vintage Floral Vinyl Peel and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/5f67a021-5822-4759-badf-877a899cdf87/svn/nextwall-wallpaper-rolls-nw45702-4f_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

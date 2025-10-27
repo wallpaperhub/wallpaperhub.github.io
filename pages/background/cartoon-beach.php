@@ -1,0 +1,129 @@
+<title>Whimsical Cartoon Beach: Fun in the Sun!</title>
+                    <meta name="description" content="Discover the joy of a whimsical cartoon beach, where colorful characters enjoy sunny adventures! From sandcastles to ice cream, dive into a world of vibrant fun. Perfect for kids and the young at heart, this lively setting is all about beachside bliss and playful escapades. Join the fun now!">
+                    <meta name="keywords" content="cartoon beach">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cartoon-beach">
+                            <span itemprop="name">cartoon beach</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Whimsical Cartoon Beach: Fun in the Sun!</h1>
+                <p>Picture a vibrant cartoon beach, bursting with color! The sun shines brightly, casting playful shadows on the golden sand. Cartoonish waves crash joyfully, and palm trees sway gently in the breeze. Lively characters build sandcastles, splash in the surf, and enjoy ice cream under rainbow umbrellas. It’s a whimsical paradise!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beach Cartoon Images – Browse 941,779 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/62/26/95/360_F_262269504_Mv8IByuQn7fTtsgTzRJsJPwg3q5XMzDZ.jpg' alt='Beach Cartoon Images – Browse 941,779 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/62/26/95/360_F_262269504_Mv8IByuQn7fTtsgTzRJsJPwg3q5XMzDZ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Draw a Cartoon Beach - Really Easy Drawing Tutorial">
+                                <img itemprop="contentUrl url" src='https://easydrawingguides.com/wp-content/uploads/2023/04/how-to-draw-a-cartoon-beach-featured-image-1200.png' alt='How to Draw a Cartoon Beach - Really Easy Drawing Tutorial'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1196">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Easy Drawing Guides" />
+                                </span>
+                                <a href='https://easydrawingguides.com/wp-content/uploads/2023/04/how-to-draw-a-cartoon-beach-featured-image-1200.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beach Cartoon Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/024/315/133/non_2x/sky-and-sun-at-sea-background-ocean-and-beach-vector-island-scenery-empty-cartoon-ocean-or-sea-water-with-waves-and-clouds-in-sky-summer-blue-seascape-with-cloudy-sky-and-seaside-generative-ai-photo.jpg' alt='Beach Cartoon Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1749">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/024/315/133/non_2x/sky-and-sun-at-sea-background-ocean-and-beach-vector-island-scenery-empty-cartoon-ocean-or-sea-water-with-waves-and-clouds-in-sky-summer-blue-seascape-with-cloudy-sky-and-seaside-generative-ai-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon Beach Scene Images – Browse 59,307 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/05/79/56/360_F_505795645_MtUsca25WzLqSzrJDF8NMyfxr7QtkbmM.jpg' alt='Cartoon Beach Scene Images – Browse 59,307 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="661">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/05/79/56/360_F_505795645_MtUsca25WzLqSzrJDF8NMyfxr7QtkbmM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cartoon Children Playing Beach Stock Illustrations – 2,814 Cartoon ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/cartoon-children-playing-water-beach-painting-342338822.jpg' alt='Cartoon Children Playing Beach Stock Illustrations – 2,814 Cartoon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/cartoon-children-playing-water-beach-painting-342338822.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="294,040 Beach Background Cartoon Royalty-Free Images, Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/summer-beach-scene-banner-design-600nw-2474960533.jpg' alt='294,040 Beach Background Cartoon Royalty-Free Images, Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/summer-beach-scene-banner-design-600nw-2474960533.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beach Cartoon Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/006/823/045/small_2x/beach-cartoon-scenery-background-free-vector.jpg' alt='Beach Cartoon Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="625">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/006/823/045/small_2x/beach-cartoon-scenery-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beach Cartoon Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/tropical-beach-landscape-daytime-scene_1308-56148.jpg?semt=ais_hybrid' alt='Beach Cartoon Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="348">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/tropical-beach-landscape-daytime-scene_1308-56148.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunset beach landscape. Cartoon scene with sunrise on sea co">
+                                <img itemprop="contentUrl url" src='https://i.fbcd.co/products/original/2112-m01-i030-n004-s-c15-188723339-sunse-mainpreview-9df716af4727aaa5a5bdca14e3ddf9538b272bc91342062f77ba77a4a0f81cb0.jpg' alt='Sunset beach landscape. Cartoon scene with sunrise on sea co'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design Bundles" />
+                                </span>
+                                <a href='https://i.fbcd.co/products/original/2112-m01-i030-n004-s-c15-188723339-sunse-mainpreview-9df716af4727aaa5a5bdca14e3ddf9538b272bc91342062f77ba77a4a0f81cb0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animation of tropical landscape stock video 1036313300">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1036313300/video/animation-of-tropical-landscape.jpg?s=640x640&k=20&c=0T5qnK_3WUb5etpQFY91JHN1ZQ3-12eDflZtrsoN1ws=' alt='Animation of tropical landscape stock video 1036313300'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1036313300/video/animation-of-tropical-landscape.jpg?s=640x640&k=20&c=0T5qnK_3WUb5etpQFY91JHN1ZQ3-12eDflZtrsoN1ws=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

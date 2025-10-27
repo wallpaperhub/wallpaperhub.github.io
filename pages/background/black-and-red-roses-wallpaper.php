@@ -1,0 +1,129 @@
+<title>Black and Red Roses Wallpaper: Elegant Floral Designs</title>
+                    <meta name="description" content="Discover the enchanting beauty of black and red roses wallpaper. Perfect for creating a bold statement in your home, our collection features exquisite floral designs that enhance any room's decor. Shop now for style that speaks elegance and romance!">
+                    <meta name="keywords" content="black and red roses wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/black-and-red-roses-wallpaper">
+                            <span itemprop="name">black and red roses wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Black and Red Roses Wallpaper: Elegant Floral Designs</h1>
+                <p>Transform your space with stunning black and red roses wallpaper. This elegant design adds a touch of romance and sophistication to any room. Perfect for accent walls or creating a dramatic backdrop, the deep hues and intricate details will captivate anyone who enters. Explore a variety of patterns to find the perfect fit for your decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and red rose 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/black-aesthetic-background-99jd52t19w868xl7.jpg' alt='Black and red rose 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/black-aesthetic-background-99jd52t19w868xl7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Red Roses Images – Browse 369,867 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/49/51/26/360_F_349512647_wnP6IfHLtEKEO8jphEYUCKkpW8MkRlUE.jpg' alt='Black Red Roses Images – Browse 369,867 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="584">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/49/51/26/360_F_349512647_wnP6IfHLtEKEO8jphEYUCKkpW8MkRlUE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="999+ Red Black Rose Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1439122955805-cbac26b73f3b?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmVkJTIwYmxhY2slMjByb3NlfGVufDB8fDB8fHww' alt='999+ Red Black Rose Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1439122955805-cbac26b73f3b?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmVkJTIwYmxhY2slMjByb3NlfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AIM] Burning Rose_Wallpaper - Apps on Galaxy Store | Black roses ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/0f/bb/36/0fbb36b8d4aa10d20b9eb5b4e9e7da4c.jpg' alt='AIM] Burning Rose_Wallpaper - Apps on Galaxy Store | Black roses ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/0f/bb/36/0fbb36b8d4aa10d20b9eb5b4e9e7da4c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rose Red Background Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/15256576/p/f/m/CHWKwL2NMO9qBsxn6vVLCBM_-kRKmIFidqoi9rlkSehIWrZ4pV3K/Gothic%20Roses%20on%20White%20.jpg' alt='Rose Red Background Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/15256576/p/f/m/CHWKwL2NMO9qBsxn6vVLCBM_-kRKmIFidqoi9rlkSehIWrZ4pV3K/Gothic%20Roses%20on%20White%20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and red rose 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/384/1020/HD-wallpaper-red-flower-in-dark-black-flowers-rose.jpg' alt='Black and red rose 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/384/1020/HD-wallpaper-red-flower-in-dark-black-flowers-rose.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Red Rose Wallpaper Phone (#10757) - HD Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/38/47/cc/3847cce43fba50cce50aa49442cbc09c.jpg' alt='Dark Red Rose Wallpaper Phone (#10757) - HD Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="887">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/38/47/cc/3847cce43fba50cce50aa49442cbc09c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="999+ Red Black Rose Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1673510652625-f1cd9672a82a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmVkJTIwYmxhY2slMjByb3NlfGVufDB8fDB8fHww' alt='999+ Red Black Rose Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1673510652625-f1cd9672a82a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmVkJTIwYmxhY2slMjByb3NlfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RED ROSE - BLACK & WHITE - Wall Mural photo Wallpaper FLOWER modern  wallcovering | eBay">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/p7QAAOSwLEtYgMbh/s-l400.jpg' alt='RED ROSE - BLACK & WHITE - Wall Mural photo Wallpaper FLOWER modern  wallcovering | eBay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="288">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/p7QAAOSwLEtYgMbh/s-l400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Roses Wallpaper 4K, Flower bouquet, Black background">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/red-roses-flower-bouquet-black-background-5k-8k-1080x1920-1518.jpg' alt='Red Roses Wallpaper 4K, Flower bouquet, Black background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/red-roses-flower-bouquet-black-background-5k-8k-1080x1920-1518.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Phone Wallpapers to Personalize Your Device</title>
+                    <meta name="description" content="Discover a collection of captivating phone wallpapers to express your style and elevate your device's look. Browse vibrant designs that inspire and reflect your personality, perfect for making a bold statement wherever you go!">
+                    <meta name="keywords" content="a wallpaper for your phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/a-wallpaper-for-your-phone">
+                            <span itemprop="name">a wallpaper for your phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Phone Wallpapers to Personalize Your Device</h1>
+                <p>Transform your phone's aesthetic with a stunning wallpaper that resonates with your style! Whether you prefer nature, abstract art, or motivational quotes, a unique wallpaper can reflect your personality. Discover high-quality images that enhance your device, making it visually appealing and inspiring every time you unlock it!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Wallpaper And Background, Wallpaper For Mobile, Cute Wallpaper For  Phone">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/7163OmwlZhL.jpg' alt='Phone Wallpaper And Background, Wallpaper For Mobile, Cute Wallpaper For  Phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/7163OmwlZhL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable phone wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFiN8tytkM/1/0/900w/canva-brown-aesthetic-flower-phone-wallpaper-JdUFkY6mPh4.jpg' alt='Free and customizable phone wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFiN8tytkM/1/0/900w/canva-brown-aesthetic-flower-phone-wallpaper-JdUFkY6mPh4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This is my phone wallpaper. I can't remember who the oc is but I ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/9eqy5o91stf61.jpg' alt='This is my phone wallpaper. I can't remember who the oc is but I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1296">
+                                <meta itemprop="height" content="2736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/9eqy5o91stf61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="An XWinds Wallpaper For Your Phone — Rhythm X">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5081db3be4b0c8ed975f8ad9/1453756090762-BCEWGAP84W2ABVC2RHF2/image-asset.png' alt='An XWinds Wallpaper For Your Phone — Rhythm X'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="852">
+                                <meta itemprop="height" content="1608">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rhythm X" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5081db3be4b0c8ed975f8ad9/1453756090762-BCEWGAP84W2ABVC2RHF2/image-asset.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 5 - Free and customizable phone wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFJd1mhO-c/1/0/900w/canva-colorful-watercolor-painting-phone-wallpaper-qq02VzvX2Nc.jpg' alt='Page 5 - Free and customizable phone wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFJd1mhO-c/1/0/900w/canva-colorful-watercolor-painting-phone-wallpaper-qq02VzvX2Nc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1400+] Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/phone-jfm7uaea6wor69c1.jpg' alt='1400+] Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="571">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/phone-jfm7uaea6wor69c1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Wallpapers Vibrant Spectrum Abstract Art, Energy-saving ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/39342770/r/il/a6dfb3/5950831955/il_570xN.5950831955_3grw.jpg' alt='Phone Wallpapers Vibrant Spectrum Abstract Art, Energy-saving ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/39342770/r/il/a6dfb3/5950831955/il_570xN.5950831955_3grw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graphic iPhone Wallpapers | Download High Resolution Illustration ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3JtNDk0LWJnLTAzNGMteC5qcGc.jpg' alt='Graphic iPhone Wallpapers | Download High Resolution Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3JtNDk0LWJnLTAzNGMteC5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="350 Phone Wallpapers ideas in 2025 | phone wallpaper, wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/b6/cd/b7/b6cdb7d0807cea67fece2d315821b2bb.png' alt='350 Phone Wallpapers ideas in 2025 | phone wallpaper, wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="816">
+                                <meta itemprop="height" content="1456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/b6/cd/b7/b6cdb7d0807cea67fece2d315821b2bb.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="33 #ITAMfam Phone Wallpapers | INTO THE AM">
+                                <img itemprop="contentUrl url" src='http://cdn.shopify.com/s/files/1/0182/4159/files/02_05_IGStory_UniversalLove.jpg?format=jpg%20' alt='33 #ITAMfam Phone Wallpapers | INTO THE AM'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="INTO THE AM" />
+                                </span>
+                                <a href='http://cdn.shopify.com/s/files/1/0182/4159/files/02_05_IGStory_UniversalLove.jpg?format=jpg%20' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

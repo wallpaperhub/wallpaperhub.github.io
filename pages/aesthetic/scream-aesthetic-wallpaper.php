@@ -1,0 +1,129 @@
+<title>Scream Aesthetic Wallpapers: Embrace Dark Beauty</title>
+                    <meta name="description" content="Explore our collection of scream aesthetic wallpapers that merge horror and beauty. Perfect for any device, these haunting designs will captivate and inspire. Discover vibrant contrasts and eerie imagery that reflect your unique style. Transform your screen with wallpaper that evokes emotion and intrigue!">
+                    <meta name="keywords" content="scream aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/scream-aesthetic-wallpaper">
+                            <span itemprop="name">scream aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Scream Aesthetic Wallpapers: Embrace Dark Beauty</h1>
+                <p>Scream aesthetic wallpaper embodies a hauntingly beautiful blend of dark, moody visuals and vibrant contrasts. Perfect for those who appreciate the eerie allure of horror aesthetics, these wallpapers often feature iconic imagery, unsettling themes, and striking color palettes. Transform your device with captivating designs that evoke emotion and intrigue.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scream wallpaper #scream#ghostface#wallpaper#foryou | Ghost face ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9e/61/52/9e61529729b04222672936b7943bb9d8.jpg' alt='Scream wallpaper #scream#ghostface#wallpaper#foryou | Ghost face ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9e/61/52/9e61529729b04222672936b7943bb9d8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Scream Movie Collage Aesthetic Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/scream-movie-collage-aesthetic-r19mty0dcha7i8md.jpg' alt='Download Scream Movie Collage Aesthetic Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/scream-movie-collage-aesthetic-r19mty0dcha7i8md.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/36/9b/7d/369b7dd0b5f043656e8fc83da3c81ce4.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/36/9b/7d/369b7dd0b5f043656e8fc83da3c81ce4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Pink Scream Collage Wallpaper Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-scream-collage-wallpaper-d54oi1qbsh7yibo8.jpg' alt='Download Pink Scream Collage Wallpaper Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-scream-collage-wallpaper-d54oi1qbsh7yibo8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scream wallpapers | Gallery posted by Natalia | Lemon8">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7396485769038348806&index=1&sign=d8a981786d36104f04995cf1d788166b' alt='Scream wallpapers | Gallery posted by Natalia | Lemon8'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1082">
+                                <meta itemprop="height" content="1445">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7396485769038348806&index=1&sign=d8a981786d36104f04995cf1d788166b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scream lockscreen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f5/d5/b8/f5d5b8e0d868647d02bc8ae7f08c43ed.jpg' alt='Scream lockscreen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="642">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f5/d5/b8/f5d5b8e0d868647d02bc8ae7f08c43ed.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Scream Mask Aesthetic Wallpaper Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/scream-mask-aesthetic-wallpaper-hzyin0u4khdbu78k.jpg' alt='Download Scream Mask Aesthetic Wallpaper Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1530">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/scream-mask-aesthetic-wallpaper-hzyin0u4khdbu78k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made a phone wallpaper : r/Scream">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/okf6z44a4dmb1.jpg' alt='Made a phone wallpaper : r/Scream'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/okf6z44a4dmb1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emo Halloween wallpaper♡♡ | Gallery posted by Kylee Calzada | Lemon8">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7416561396525203973&index=4&sign=209d4f0d520b922cdccdc6beeaf16b43' alt='Emo Halloween wallpaper♡♡ | Gallery posted by Kylee Calzada | Lemon8'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1123">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7416561396525203973&index=4&sign=209d4f0d520b922cdccdc6beeaf16b43' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ghostface Scream Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/ghostface-scream-aesthetic-b0yvpuya3sx89n5q.jpg' alt='Ghostface Scream Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1060">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/ghostface-scream-aesthetic-b0yvpuya3sx89n5q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

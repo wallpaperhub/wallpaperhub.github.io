@@ -1,0 +1,129 @@
+<title>Vibrant Cinco de Mayo Border Designs for Celebration</title>
+                    <meta name="description" content="Discover colorful border designs to enhance your Cinco de Mayo celebrations! Perfect for invitations, decorations, and more, these vibrant ideas showcase the spirit of Mexican culture. Explore unique patterns and elements to bring joy to your festivities.">
+                    <meta name="keywords" content="border cinco de mayo background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/border-cinco-de-mayo-background">
+                            <span itemprop="name">border cinco de mayo background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Cinco de Mayo Border Designs for Celebration</h1>
+                <p>Cinco de Mayo celebrates the Mexican victory at the Battle of Puebla in 1862. To honor this vibrant festival, create a colorful border featuring iconic elements like sombreros, maracas, and papel picado. Incorporate bright hues of green, white, and red, and add festive designs to evoke joy and unity, reflecting the spirit of Mexican culture.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cinco De Mayo Border Images – Browse 5,337 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/02/45/29/360_F_202452939_xZPbU7rPtHcY4TOLsN41F6HnS03gErK2.jpg' alt='Cinco De Mayo Border Images – Browse 5,337 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/02/45/29/360_F_202452939_xZPbU7rPtHcY4TOLsN41F6HnS03gErK2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="130+ Cinco De Mayo Border Clip Art Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/468430394/vector/cinco-de-mayo-bunting-background-eps-10-vector.jpg?s=612x612&w=0&k=20&c=lrIDd2e9NyHUQhYha4vtUJ0qJ5GLd32WKMiPffBKZ_c=' alt='130+ Cinco De Mayo Border Clip Art Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/468430394/vector/cinco-de-mayo-bunting-background-eps-10-vector.jpg?s=612x612&w=0&k=20&c=lrIDd2e9NyHUQhYha4vtUJ0qJ5GLd32WKMiPffBKZ_c=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cinco de Mayo Border: Clip Art, Page Border, and Vector Graphics">
+                                <img itemprop="contentUrl url" src='https://pageborders.org/files/images/cinco-de-mayo-border-preview.png' alt='Cinco de Mayo Border: Clip Art, Page Border, and Vector Graphics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="470">
+                                <meta itemprop="height" content="608">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Page Borders" />
+                                </span>
+                                <a href='https://pageborders.org/files/images/cinco-de-mayo-border-preview.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,100+ Cinco De Mayo Border Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1303105305/vector/cinco-de-mayo-vector-frame-mexican-holiday-border.jpg?s=612x612&w=0&k=20&c=YF4i0AGkzPyrtP26gTBGY2O8C_eJnFt13kwt9f2chiI=' alt='1,100+ Cinco De Mayo Border Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="444">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1303105305/vector/cinco-de-mayo-vector-frame-mexican-holiday-border.jpg?s=612x612&w=0&k=20&c=YF4i0AGkzPyrtP26gTBGY2O8C_eJnFt13kwt9f2chiI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cinco De Mayo Border Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/037/928/386/non_2x/mexican-holiday-frame-sombrero-and-mexico-flag-vector.jpg' alt='Cinco De Mayo Border Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="749">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/037/928/386/non_2x/mexican-holiday-frame-sombrero-and-mexico-flag-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cinco de mayo mexican background border Stock Photo - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/P94RGD/cinco-de-mayo-mexican-background-border-P94RGD.jpg' alt='Cinco de mayo mexican background border Stock Photo - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/P94RGD/cinco-de-mayo-mexican-background-border-P94RGD.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cinco De Mayo Border Images – Browse 5,337 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/76/09/44/360_F_176094433_AtOVc95DlSsWdQRfVBdQ7h9T1LJMQhhR.jpg' alt='Cinco De Mayo Border Images – Browse 5,337 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/76/09/44/360_F_176094433_AtOVc95DlSsWdQRfVBdQ7h9T1LJMQhhR.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mexico Cinco De Mayo Background Border Square Format Stock Photo ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/914929198/photo/mexico-cinco-de-mayo-background-border-square-format.jpg?s=1024x1024&w=is&k=20&c=BQDkW_vc6Maw569Zfw28sps5Ny0AAw6xSnHWaJHU1JA=' alt='Mexico Cinco De Mayo Background Border Square Format Stock Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/914929198/photo/mexico-cinco-de-mayo-background-border-square-format.jpg?s=1024x1024&w=is&k=20&c=BQDkW_vc6Maw569Zfw28sps5Ny0AAw6xSnHWaJHU1JA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fiesta Border Images – Browse 14,321 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/31/17/95/360_F_431179597_NXm5UQo8BXsA9vjCUVAhkO374DGvvaT9.jpg' alt='Fiesta Border Images – Browse 14,321 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="247">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/31/17/95/360_F_431179597_NXm5UQo8BXsA9vjCUVAhkO374DGvvaT9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,100+ Cinco De Mayo Border Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1279757092/vector/cinco-de-mayo-vector-frame-mexican-holiday-border.jpg?s=612x612&w=0&k=20&c=P4JppcClbcynFPw18ykiPzs9r0CvSXydlFxHoHDZJ90=' alt='1,100+ Cinco De Mayo Border Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1279757092/vector/cinco-de-mayo-vector-frame-mexican-holiday-border.jpg?s=612x612&w=0&k=20&c=P4JppcClbcynFPw18ykiPzs9r0CvSXydlFxHoHDZJ90=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

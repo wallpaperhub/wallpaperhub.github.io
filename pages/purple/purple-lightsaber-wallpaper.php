@@ -1,0 +1,129 @@
+<title>Vibrant Purple Lightsaber Wallpaper for Star Wars Fans</title>
+                    <meta name="description" content="Explore our collection of purple lightsaber wallpapers, perfect for any Star Wars enthusiast. Add a touch of the Force to your device with high-quality, vibrant designs that capture the essence of the galaxy far, far away. Download your favorite now!">
+                    <meta name="keywords" content="purple lightsaber wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/purple-lightsaber-wallpaper">
+                            <span itemprop="name">purple lightsaber wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Purple Lightsaber Wallpaper for Star Wars Fans</h1>
+                <p>Transform your screen with stunning purple lightsaber wallpaper! This iconic color, made famous by Jedi Master Mace Windu, symbolizes power and balance in the Force. Perfect for Star Wars fans, these mesmerizing wallpapers enhance any device with their vibrant hues and dynamic designs. Download now and embrace the Force!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Lightsaber">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/dd/08/84/dd0884e4dd8c48d693aaed5616be7932.jpg' alt='Star Wars Lightsaber'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/dd/08/84/dd0884e4dd8c48d693aaed5616be7932.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="80350d10bbeb2bfa63bc854d808256 ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/80/35/0d/80350d10bbeb2bfa63bc854d80825637.jpg' alt='80350d10bbeb2bfa63bc854d808256 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/80/35/0d/80350d10bbeb2bfa63bc854d80825637.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Lightsaber Sparkle And Smoke Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/purple-lightsaber-sparkle-and-smoke-ecs7r6s2xce5qj53.jpg' alt='Purple Lightsaber Sparkle And Smoke Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="857">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/purple-lightsaber-sparkle-and-smoke-ecs7r6s2xce5qj53.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Purple Lightsaber Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-lightsaber-smoky-wkpnflw8kt64ebqa.jpg' alt='100+] Purple Lightsaber Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-lightsaber-smoky-wkpnflw8kt64ebqa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Lightsaber Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d2/d5/44/d2d5443ac98b9858240ab84650b8ddf3.jpg' alt='Star Wars Lightsaber Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="690">
+                                <meta itemprop="height" content="1226">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d2/d5/44/d2d5443ac98b9858240ab84650b8ddf3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Purple Lightsaber Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-lightsaber-reflection-e6v9i4ln9zy108w6.jpg' alt='100+] Purple Lightsaber Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-lightsaber-reflection-e6v9i4ln9zy108w6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Lightsaber Thunder Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/purple-lightsaber-galaxy-9b9m9yaoaq6lns2m.webp' alt='Purple Lightsaber Thunder Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/purple-lightsaber-galaxy-9b9m9yaoaq6lns2m.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Lightsaber Smoke Effect Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/purple-lightsaber-smoke-effect-eo56sqpbwyuqovbv.jpg' alt='Purple Lightsaber Smoke Effect Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/purple-lightsaber-smoke-effect-eo56sqpbwyuqovbv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why the Sith HATED Purple Lightsabers - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/tQy31q-RLv4/maxresdefault.jpg' alt='Why the Sith HATED Purple Lightsabers - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/tQy31q-RLv4/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sci-Fi Lightsaber HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/322/322650.jpg' alt='Sci-Fi Lightsaber HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/322/322650.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

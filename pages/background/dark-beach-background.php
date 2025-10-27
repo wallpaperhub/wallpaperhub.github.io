@@ -1,0 +1,129 @@
+<title>Enchanting Dark Beach Backgrounds for Your Creative Projects</title>
+                    <meta name="description" content="Discover the beauty of dark beach backgrounds, perfect for photography, design, or digital art. These captivating scenes offer a blend of tranquility and drama, ideal for setting the mood and inspiring creativity. Enhance your visuals with stunning night beach landscapes that evoke deep emotions.">
+                    <meta name="keywords" content="dark beach background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dark-beach-background">
+                            <span itemprop="name">dark beach background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enchanting Dark Beach Backgrounds for Your Creative Projects</h1>
+                <p>Immerse yourself in the mystique of a dark beach background, where moonlit waves dance against the shore, creating a serene yet dramatic atmosphere. The nocturnal hues of deep blues and blacks provide a perfect setting for introspection or capturing striking photographs, enveloping visitors in a cocoon of tranquility and wonder.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="135,900+ Dark Beach Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/166446682/photo/stormy-sea.jpg?s=612x612&w=0&k=20&c=cfQziQiyUOVh6mr3fKYA2nslfuNQ_JRLR0pJJtvvPEA=' alt='135,900+ Dark Beach Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/166446682/photo/stormy-sea.jpg?s=612x612&w=0&k=20&c=cfQziQiyUOVh6mr3fKYA2nslfuNQ_JRLR0pJJtvvPEA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30,000+ Dark Beach Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1664361479983-2cc6e9d6bbfb?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZGFyayUyMGJlYWNofGVufDB8fDB8fHww' alt='30,000+ Dark Beach Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1664361479983-2cc6e9d6bbfb?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZGFyayUyMGJlYWNofGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Beach Images – Browse 783,441 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/00/49/01/93/360_F_49019354_gdIgKCXn70ELiKDGzJnkusfsH5X4upBR.jpg' alt='Dark Beach Images – Browse 783,441 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="547">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/00/49/01/93/360_F_49019354_gdIgKCXn70ELiKDGzJnkusfsH5X4upBR.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30,000+ Dark Beach Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1497044793173-df560dfbe923?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGRhcmslMjBiZWFjaHxlbnwwfHwwfHx8MA%3D%3D' alt='30,000+ Dark Beach Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1497044793173-df560dfbe923?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGRhcmslMjBiZWFjaHxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Beach Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/024/747/975/non_2x/the-dramatic-sky-reflects-the-beauty-in-nature-at-dusk-generated-by-ai-free-photo.jpg' alt='Dark Beach Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1715">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/024/747/975/non_2x/the-dramatic-sky-reflects-the-beauty-in-nature-at-dusk-generated-by-ai-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Beach Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/038/455/995/non_2x/ai-generated-discover-the-beauty-in-nature-s-drama-with-a-dark-and-stormy-shore-where-elegant-stones-grace-the-black-beach-nature-s-artistry-ai-generated-photo.jpg' alt='Dark Beach Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1749">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/038/455/995/non_2x/ai-generated-discover-the-beauty-in-nature-s-drama-with-a-dark-and-stormy-shore-where-elegant-stones-grace-the-black-beach-nature-s-artistry-ai-generated-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Beach Photos, Download The BEST Free Dark Beach Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1154510/pexels-photo-1154510.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' alt='Dark Beach Photos, Download The BEST Free Dark Beach Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1154510/pexels-photo-1154510.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="135,900+ Dark Beach Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/181888679/photo/evening-sunset-on-sea.jpg?s=612x612&w=0&k=20&c=GbDOTRwF2deDlWCCXzZ60Nko9BGhTZN93ZVaagNkp70=' alt='135,900+ Dark Beach Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="439">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/181888679/photo/evening-sunset-on-sea.jpg?s=612x612&w=0&k=20&c=GbDOTRwF2deDlWCCXzZ60Nko9BGhTZN93ZVaagNkp70=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30,000+ Dark Beach Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1711255561800-e23fdf7bc051?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8ZGFyayUyMGJlYWNofGVufDB8fDB8fHww' alt='30,000+ Dark Beach Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1711255561800-e23fdf7bc051?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8ZGFyayUyMGJlYWNofGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moon and sea Stock Footage Video">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/477072347/video/moon-and-sea.jpg?s=640x640&k=20&c=SYFnmbtR0gOcwfEOJJoKwAslFqxK8y2vMEdlZyFrTrU=' alt='Moon and sea Stock Footage Video'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/477072347/video/moon-and-sea.jpg?s=640x640&k=20&c=SYFnmbtR0gOcwfEOJJoKwAslFqxK8y2vMEdlZyFrTrU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

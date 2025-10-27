@@ -1,0 +1,129 @@
+<title>Understanding the Meaning of Sukkot: A Guide</title>
+                    <meta name="description" content="Explore the deep meaning of Sukkot, the Feast of Tabernacles, in Jewish tradition. Discover its significance in celebrating harvest and community, and learn about the customs and rituals involved. Perfect for anyone seeking to understand this essential festival.">
+                    <meta name="keywords" content="sukkot meaning">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sukkot-meaning">
+                            <span itemprop="name">sukkot meaning</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding the Meaning of Sukkot: A Guide</h1>
+                <p>Sukkot, also known as the Feast of Tabernacles, is a significant Jewish festival commemorating the Israelites' journey in the wilderness. It symbolizes harvest, gratitude, and divine protection. During Sukkot, families build temporary shelters to recreate the experience of dwelling in the wilderness, celebrating with joy and community.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Festival of Sukkot | Campus Ministry | Georgetown University">
+                                <img itemprop="contentUrl url" src='https://campusministry.georgetown.edu/wp-content/uploads/sites/500/2017/09/sukkot-5778-1-dragged.jpg' alt='The Festival of Sukkot | Campus Ministry | Georgetown University'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3600">
+                                <meta itemprop="height" content="2700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Campus Ministry | Georgetown University" />
+                                </span>
+                                <a href='https://campusministry.georgetown.edu/wp-content/uploads/sites/500/2017/09/sukkot-5778-1-dragged.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sukkot - Columbia Barnard Hillel : Columbia Barnard Hillel">
+                                <img itemprop="contentUrl url" src='https://columbiabarnardhillel.org/wp-content/uploads/2024/06/sukkot-2024-Twitter-Post-1024x576.png' alt='Sukkot - Columbia Barnard Hillel : Columbia Barnard Hillel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Columbia Barnard Hillel" />
+                                </span>
+                                <a href='https://columbiabarnardhillel.org/wp-content/uploads/2024/06/sukkot-2024-Twitter-Post-1024x576.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sukkot - Congregation Jewish Community North">
+                                <img itemprop="contentUrl url" src='https://cjcn.org/wp-content/uploads/sites/182/2011/11/sukkot.jpg' alt='Sukkot - Congregation Jewish Community North'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Congregation Jewish Community North" />
+                                </span>
+                                <a href='https://cjcn.org/wp-content/uploads/sites/182/2011/11/sukkot.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sukkot - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Sukkoth_-_IZE10160.jpg/1200px-Sukkoth_-_IZE10160.jpg' alt='Sukkot - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="793">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Sukkoth_-_IZE10160.jpg/1200px-Sukkoth_-_IZE10160.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Build a Sukkah - Celebrating Sukkot | Forever Bamboo">
+                                <img itemprop="contentUrl url" src='https://blog.foreverbamboo.com/wp-content/uploads/2-what-is-sukkot.jpg' alt='How to Build a Sukkah - Celebrating Sukkot | Forever Bamboo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1209">
+                                <meta itemprop="height" content="609">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forever Bamboo" />
+                                </span>
+                                <a href='https://blog.foreverbamboo.com/wp-content/uploads/2-what-is-sukkot.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sukkot – The Feast of Tabernacles | Jewish Voice">
+                                <img itemprop="contentUrl url" src='https://www.jewishvoice.org/sites/default/files/styles/hero/public/blog/2019-10/2019-Sukkot-%28About%29-Blog-CARD.jpg?itok=JMTpAaq_' alt='Sukkot – The Feast of Tabernacles | Jewish Voice'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jewish Voice" />
+                                </span>
+                                <a href='https://www.jewishvoice.org/sites/default/files/styles/hero/public/blog/2019-10/2019-Sukkot-%28About%29-Blog-CARD.jpg?itok=JMTpAaq_' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sukkot - Society for Humanistic Judaism">
+                                <img itemprop="contentUrl url" src='https://shj.org/wp-content/uploads/2020/06/Machar-Sukkot-2013-rectangular-scaled.jpg' alt='Sukkot - Society for Humanistic Judaism'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1912">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Society for Humanistic Judaism" />
+                                </span>
+                                <a href='https://shj.org/wp-content/uploads/2020/06/Machar-Sukkot-2013-rectangular-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sukkot the Feast of the Tabernacles - The Researcher's Gateway">
+                                <img itemprop="contentUrl url" src='https://lh6.googleusercontent.com/rFnqMxG-KDnhUtTcgLbN8E7L7orJ0ty48cbi4yjvr6Gc2KbVA5S5V-a5p72KeMAlutxX0VxBYaIfw_oorCNOlyp2_w73LGaziQgUS-G_dRtNHG4wZNjQNHbnPD_hpUdxlPAic4Vt' alt='Sukkot the Feast of the Tabernacles - The Researcher's Gateway'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Researcher's Gateway" />
+                                </span>
+                                <a href='https://lh6.googleusercontent.com/rFnqMxG-KDnhUtTcgLbN8E7L7orJ0ty48cbi4yjvr6Gc2KbVA5S5V-a5p72KeMAlutxX0VxBYaIfw_oorCNOlyp2_w73LGaziQgUS-G_dRtNHG4wZNjQNHbnPD_hpUdxlPAic4Vt' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is the Festival of Tabernacles - Sukkot? - Jewish Holidays">
+                                <img itemprop="contentUrl url" src='https://www.ifcj.org/wp-content/uploads/Soldiers-build-sukkah-for-elderly_0269_14753390-2-scaled.jpg' alt='What Is the Festival of Tabernacles - Sukkot? - Jewish Holidays'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1703">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IFCJ" />
+                                </span>
+                                <a href='https://www.ifcj.org/wp-content/uploads/Soldiers-build-sukkah-for-elderly_0269_14753390-2-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Meaning of the Sukkah | My Jewish Learning">
+                                <img itemprop="contentUrl url" src='https://www.myjewishlearning.com/wp-content/uploads/2002/09/sukkah-sukkot.jpg' alt='The Meaning of the Sukkah | My Jewish Learning'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="901">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="My Jewish Learning" />
+                                </span>
+                                <a href='https://www.myjewishlearning.com/wp-content/uploads/2002/09/sukkah-sukkot.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

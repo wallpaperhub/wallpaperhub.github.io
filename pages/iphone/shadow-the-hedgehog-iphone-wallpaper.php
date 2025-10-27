@@ -1,0 +1,129 @@
+<title>Download Epic Shadow the Hedgehog iPhone Wallpapers</title>
+                    <meta name="description" content="Discover a collection of vibrant Shadow the Hedgehog wallpapers for your iPhone. Perfectly designed for fans, each wallpaper showcases Shadow's dynamic energy and unique style. Transform your device's look with these stunning images that capture what makes Shadow a beloved character in gaming history!">
+                    <meta name="keywords" content="shadow the hedgehog iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/shadow-the-hedgehog-iphone-wallpaper">
+                            <span itemprop="name">shadow the hedgehog iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Download Epic Shadow the Hedgehog iPhone Wallpapers</h1>
+                <p>Elevate your device's aesthetics with stunning Shadow the Hedgehog iPhone wallpapers. Featuring dynamic poses and vibrant colors, these wallpapers bring the edgy spirit of Shadow to your screen. Perfect for fans who admire his mysterious character, each design adds a unique flair to your iPhone, ensuring you stand out!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My new iPhone wallpapers : r/SonicTheHedgehog">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/xdu11ut3zg2d1.jpeg' alt='My new iPhone wallpapers : r/SonicTheHedgehog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/xdu11ut3zg2d1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="shadow the hedgehog wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2b/c1/39/2bc1397a8d694bcba7d88cbde6128d59.jpg' alt='shadow the hedgehog wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="663">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2b/c1/39/2bc1397a8d694bcba7d88cbde6128d59.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shadow the Hedgehog Wallpaper 4K, 8K, Sonic the Hedgehog 3">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/shadow-the-hedgehog-1440x2560-20091.jpg' alt='Shadow the Hedgehog Wallpaper 4K, 8K, Sonic the Hedgehog 3'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/shadow-the-hedgehog-1440x2560-20091.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shadow The Hedgehog Wallpaper | WhatsPaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/70/1f/93/701f93823281780727463e8daffd79c3.jpg' alt='Shadow The Hedgehog Wallpaper | WhatsPaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="696">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/70/1f/93/701f93823281780727463e8daffd79c3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shadow the Hedgehog iPhone 4 Wallpaper by AceofPonies on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0f9c6ba0-4ad4-4958-bc3e-e938da4aa780/d5tgrbe-bd7df137-d389-4676-911d-62e0c2dcbc74.jpg/v1/fill/w_400,h_600,q_75,strp/shadow_the_hedgehog_iphone_4_wallpaper_by_aceofponies_d5tgrbe-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjAwIiwicGF0aCI6IlwvZlwvMGY5YzZiYTAtNGFkNC00OTU4LWJjM2UtZTkzOGRhNGFhNzgwXC9kNXRncmJlLWJkN2RmMTM3LWQzODktNDY3Ni05MTFkLTYyZTBjMmRjYmM3NC5qcGciLCJ3aWR0aCI6Ijw9NDAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.ShxLh3zGl8vKbG7pVqhSGV9GBCuB2GXlAmr640t5KZE' alt='Shadow the Hedgehog iPhone 4 Wallpaper by AceofPonies on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0f9c6ba0-4ad4-4958-bc3e-e938da4aa780/d5tgrbe-bd7df137-d389-4676-911d-62e0c2dcbc74.jpg/v1/fill/w_400,h_600,q_75,strp/shadow_the_hedgehog_iphone_4_wallpaper_by_aceofponies_d5tgrbe-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjAwIiwicGF0aCI6IlwvZlwvMGY5YzZiYTAtNGFkNC00OTU4LWJjM2UtZTkzOGRhNGFhNzgwXC9kNXRncmJlLWJkN2RmMTM3LWQzODktNDY3Ni05MTFkLTYyZTBjMmRjYmM3NC5qcGciLCJ3aWR0aCI6Ijw9NDAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.ShxLh3zGl8vKbG7pVqhSGV9GBCuB2GXlAmr640t5KZE' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shadow The Hedgehog">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a6/7c/8f/a67c8f9df0706dad0deccad76a39e94b.jpg' alt='Shadow The Hedgehog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a6/7c/8f/a67c8f9df0706dad0deccad76a39e94b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TBSF on X: "Shadow the Hedgehog Wallpaper! https://t.co/Feqa2pGRdL ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/GTNYctzXkAAQaKD?format=jpg&name=4096x4096' alt='TBSF on X: "Shadow the Hedgehog Wallpaper! https://t.co/Feqa2pGRdL ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1845">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/GTNYctzXkAAQaKD?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shadow the Hedgehog Wallpaper by JPNinja426 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fd26e87c-5667-4cf9-9be9-e58887610efe/debw7fj-27742048-af27-4b3a-b5be-6669c86200b2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZkMjZlODdjLTU2NjctNGNmOS05YmU5LWU1ODg4NzYxMGVmZVwvZGVidzdmai0yNzc0MjA0OC1hZjI3LTRiM2EtYjViZS02NjY5Yzg2MjAwYjIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.XrpOMnb1SDsvY9rkI9EQ-aGofJFvL51J3--JXz5m2-Y' alt='Shadow the Hedgehog Wallpaper by JPNinja426 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fd26e87c-5667-4cf9-9be9-e58887610efe/debw7fj-27742048-af27-4b3a-b5be-6669c86200b2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZkMjZlODdjLTU2NjctNGNmOS05YmU5LWU1ODg4NzYxMGVmZVwvZGVidzdmai0yNzc0MjA0OC1hZjI3LTRiM2EtYjViZS02NjY5Yzg2MjAwYjIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.XrpOMnb1SDsvY9rkI9EQ-aGofJFvL51J3--JXz5m2-Y' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="JumpTrailers on X: "Shadow 4K Sonic the Hedgehog 3 Wallpaper by ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/GdWE1fsW0AAr2ba?format=jpg&name=4096x4096' alt='JumpTrailers on X: "Shadow 4K Sonic the Hedgehog 3 Wallpaper by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1868">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/GdWE1fsW0AAr2ba?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My new iPhone wallpapers : r/SonicTheHedgehog">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/my-new-iphone-wallpapers-v0-koltzojzrf2d1.jpg?width=640&crop=smart&auto=webp&s=1acdc7fdf1944a30b1cbb08a48db24d283a38f95' alt='My new iPhone wallpapers : r/SonicTheHedgehog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/my-new-iphone-wallpapers-v0-koltzojzrf2d1.jpg?width=640&crop=smart&auto=webp&s=1acdc7fdf1944a30b1cbb08a48db24d283a38f95' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

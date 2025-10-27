@@ -1,0 +1,129 @@
+<title>Elegant Plain Purple Wallpaper for Every Room</title>
+                    <meta name="description" content="Discover the beauty of plain purple wallpaper, ideal for enhancing your home’s ambiance. This versatile design adds elegance and tranquility to any room while being easy to apply and maintain. Perfect for creating a serene and stylish atmosphere in your living spaces.">
+                    <meta name="keywords" content="plain purple wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/plain-purple-wallpaper">
+                            <span itemprop="name">plain purple wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Plain Purple Wallpaper for Every Room</h1>
+                <p>Plain purple wallpaper brings a sense of calm and sophistication to any space. Its rich hue effortlessly enhances the aesthetics of a room while offering a versatile backdrop for furniture and decor. Easy to apply and maintain, this wallpaper choice transforms walls into elegant canvases, perfect for both modern and traditional interiors.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dream Plain by Albany - Purple - Wallpaper - 383181">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/asset/img/product/194865/tiled/albany-dream-plain-purple-wallpaper-tiled-194865.jpg' alt='Dream Plain by Albany - Purple - Wallpaper - 383181'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/asset/img/product/194865/tiled/albany-dream-plain-purple-wallpaper-tiled-194865.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plain Purple Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/16008280/p/f/m/vvFD5MvBj-yj73GKlX365PHjx84hdv3qfBoiCw230fZEjdKlCoCl/Royal%20Purple%20Printed%20Solid.jpg' alt='Plain Purple Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/16008280/p/f/m/vvFD5MvBj-yj73GKlX365PHjx84hdv3qfBoiCw230fZEjdKlCoCl/Royal%20Purple%20Printed%20Solid.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plain Pastel Purple Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/plain-pastel-purple-iphone-e2qqwjna0h9oz0mr.jpg' alt='Plain Pastel Purple Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/plain-pastel-purple-iphone-e2qqwjna0h9oz0mr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plain, purple">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/bb/87/bb/bb87bb35d6fe516ec45ec3e7dc298f25.jpg' alt='Plain, purple'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/bb/87/bb/bb87bb35d6fe516ec45ec3e7dc298f25.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plain Purple Background Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/plain-purple-background-hefxwfzmmbp8leis.jpg' alt='Plain Purple Background Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/plain-purple-background-hefxwfzmmbp8leis.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Plain Purple Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/paper-texture-plain-purple-ersjlm5utds1naj7.jpg' alt='100+] Plain Purple Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/paper-texture-plain-purple-ersjlm5utds1naj7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper purple background solid">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/79/9e/b9/799eb9f656a7f6a32e37b938ff5992dc.jpg' alt='Wallpaper purple background solid'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1177">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/79/9e/b9/799eb9f656a7f6a32e37b938ff5992dc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plain Purple Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/8030266/p/f/m/eV33KoMlsjDQ0aR2dYhvBNukP3COC5qlmFwBFdEViG_62n_HE_LTKr6A/solid%20purple%20-%20elephant%20coordinate.jpg' alt='Plain Purple Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/8030266/p/f/m/eV33KoMlsjDQ0aR2dYhvBNukP3COC5qlmFwBFdEViG_62n_HE_LTKr6A/solid%20purple%20-%20elephant%20coordinate.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Plain Landscape Background Plain Wallpaper Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/purple-plain-landscape-background-wallpaper-260nw-2199794929.jpg' alt='Purple Plain Landscape Background Plain Wallpaper Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/purple-plain-landscape-background-wallpaper-260nw-2199794929.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Lavender Solid Plain Background - SlidesCorner">
+                                <img itemprop="contentUrl url" src='https://slidescorner.com/wp-content/uploads/2024/01/Pastel-Lavender-Solid-Plain-Background-for-Wallpaper-PPT-and-Google-Slides-by-SlidesCorner.com_.jpg' alt='Pastel Lavender Solid Plain Background - SlidesCorner'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlidesCorner" />
+                                </span>
+                                <a href='https://slidescorner.com/wp-content/uploads/2024/01/Pastel-Lavender-Solid-Plain-Background-for-Wallpaper-PPT-and-Google-Slides-by-SlidesCorner.com_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

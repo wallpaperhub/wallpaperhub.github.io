@@ -1,0 +1,129 @@
+<title>Juliette Gordon Low: Founder of the Girl Scouts</title>
+                    <meta name="description" content="Discover the inspiring legacy of Juliette Gordon Low, the visionary founder of the Girl Scouts. Learn how her dedication to empowering young girls and promoting leadership has shaped generations, fostering a spirit of community and service. Join the movement she started!">
+                    <meta name="keywords" content="juliette gordon low">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/juliette-gordon-low">
+                            <span itemprop="name">juliette gordon low</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Juliette Gordon Low: Founder of the Girl Scouts</h1>
+                <p>Juliette Gordon Low was the founder of the Girl Scouts of the USA in 1912. Born on October 31, 1860, in Savannah, Georgia, she was a pioneering advocate for women's empowerment and outdoor education. Her vision has shaped millions of young girls' lives by promoting leadership, community service, and self-reliance through scouting activities.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Juliette Gordon Low | National Women's History Museum">
+                                <img itemprop="contentUrl url" src='https://www.womenshistory.org/sites/default/files/images/2017-10/Julliet_Gordon_Low_Square.png' alt='Juliette Gordon Low | National Women's History Museum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Women's History Museum" />
+                                </span>
+                                <a href='https://www.womenshistory.org/sites/default/files/images/2017-10/Julliet_Gordon_Low_Square.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Juliette Gordon Low - New Georgia Encyclopedia">
+                                <img itemprop="contentUrl url" src='https://bunny-wp-pullzone-cjamrcljf0.b-cdn.net/wp-content/uploads/2021/02/juliette-gordon-low_001.jpg' alt='Juliette Gordon Low - New Georgia Encyclopedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2289">
+                                <meta itemprop="height" content="2902">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="New Georgia Encyclopedia" />
+                                </span>
+                                <a href='https://bunny-wp-pullzone-cjamrcljf0.b-cdn.net/wp-content/uploads/2021/02/juliette-gordon-low_001.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Juliette Gordon-Low — American Historical Theatre">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5abff4fe5417fcb7d8236be7/1616869472463-XR6W9W5L657S0RP7UPXD/Juliette+Gordon+Low+standing+with+book+-2020+-+cropped+2.jpeg' alt='Juliette Gordon-Low — American Historical Theatre'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1305">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="American Historical Theatre" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5abff4fe5417fcb7d8236be7/1616869472463-XR6W9W5L657S0RP7UPXD/Juliette+Gordon+Low+standing+with+book+-2020+-+cropped+2.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Juliette Gordon Low - Birthplace, Family & Girl Scouts">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/gettyimages-515511998.jpg' alt='Juliette Gordon Low - Birthplace, Family & Girl Scouts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/gettyimages-515511998.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Juliette Gordon Low | Founder of Girl Scouts, Social Activist ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/68/144768-050-F4803E93/Juliette-Gordon-Low-1917.jpg' alt='Juliette Gordon Low | Founder of Girl Scouts, Social Activist ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1281">
+                                <meta itemprop="height" content="1508">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/68/144768-050-F4803E93/Juliette-Gordon-Low-1917.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Juliette Gordon Low Founded the Girl Scouts and Redefined ...">
+                                <img itemprop="contentUrl url" src='https://www.amightygirl.com/wp/wp-content/uploads/2020/10/juliette-gordon-low-blog-fb.jpg' alt='How Juliette Gordon Low Founded the Girl Scouts and Redefined ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="924">
+                                <meta itemprop="height" content="484">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="A Mighty Girl" />
+                                </span>
+                                <a href='https://www.amightygirl.com/wp/wp-content/uploads/2020/10/juliette-gordon-low-blog-fb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Juliette Gordon Low Birthday">
+                                <img itemprop="contentUrl url" src='https://nationaltoday.com/wp-content/uploads/2022/09/4568516-min.jpg' alt='Juliette Gordon Low Birthday'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Today" />
+                                </span>
+                                <a href='https://nationaltoday.com/wp-content/uploads/2022/09/4568516-min.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="World War I -- Life Histories/Section 001/Juliette Gordon Low ...">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Edward_Hughes_-_Juliette_Gordon_Low_-_Google_Art_Project.jpg/1200px-Edward_Hughes_-_Juliette_Gordon_Low_-_Google_Art_Project.jpg' alt='World War I -- Life Histories/Section 001/Juliette Gordon Low ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1654">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikiversity" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Edward_Hughes_-_Juliette_Gordon_Low_-_Google_Art_Project.jpg/1200px-Edward_Hughes_-_Juliette_Gordon_Low_-_Google_Art_Project.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Death of Juliette Gordon Low - Girl Scout History Project">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/gshistory.com/wp-content/uploads/2024/01/JGL-Late-Photo.jpeg?resize=783%2C975&ssl=1' alt='Death of Juliette Gordon Low - Girl Scout History Project'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="783">
+                                <meta itemprop="height" content="975">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Girl Scout History Project" />
+                                </span>
+                                <a href='https://i0.wp.com/gshistory.com/wp-content/uploads/2024/01/JGL-Late-Photo.jpeg?resize=783%2C975&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Juliette Gordon Low | USPTO">
+                                <img itemprop="contentUrl url" src='https://www.uspto.gov/sites/default/files/edu-ic-16-low-1500.jpg' alt='Juliette Gordon Low | USPTO'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2045">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USPTO" />
+                                </span>
+                                <a href='https://www.uspto.gov/sites/default/files/edu-ic-16-low-1500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

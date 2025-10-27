@@ -1,0 +1,129 @@
+<title>Adorable Day of the Dead Wallpaper for Your Device</title>
+                    <meta name="description" content="Discover our charming Day of the Dead wallpaper collection! Perfect for adding a festive flair to your devices, these cute designs celebrate tradition in style. Download now to enjoy colorful sugar skulls and floral patterns!">
+                    <meta name="keywords" content="cute day of the dead wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/day">
+                            <span itemprop="name">Day</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/day/cute-day-of-the-dead-wallpaper">
+                            <span itemprop="name">cute day of the dead wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Day of the Dead Wallpaper for Your Device</h1>
+                <p>Celebrate the vibrant and spirited essence of the Day of the Dead with our cute wallpaper collection! Featuring whimsical sugar skulls, colorful marigolds, and lively calacas, these designs bring a playful twist to this cherished tradition. Perfect for adding a touch of festive charm to your devices.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Premium Graphics on Freepik | Halloween wallpaper cute ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/89/20/23/892023329113c573173c83a3121d21c5.jpg' alt='Best Premium Graphics on Freepik | Halloween wallpaper cute ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/89/20/23/892023329113c573173c83a3121d21c5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Day Of The Dead Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/soft-colors-for-day-of-the-dead-1sydrvatgnemjeaq.jpg' alt='100+] Day Of The Dead Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/soft-colors-for-day-of-the-dead-1sydrvatgnemjeaq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dia de los muertos seamless vector pattern. Cute cartoon style ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/03/61/97/97/1000_F_361979773_sSFoGaD4QAYHTKrres3FkGqKqZxLhsFQ.jpg' alt='Dia de los muertos seamless vector pattern. Cute cartoon style ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/03/61/97/97/1000_F_361979773_sSFoGaD4QAYHTKrres3FkGqKqZxLhsFQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Sugar Skull Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/11632608/p/f/m/NhfOao1QiO3mu_qzyAsiOS65iHGvOhA6VILuHvOLjV22Bo7dLOXsjHA/Small%20Sugar%20Skull%20Floral.jpg' alt='Pink Sugar Skull Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/11632608/p/f/m/NhfOao1QiO3mu_qzyAsiOS65iHGvOhA6VILuHvOLjV22Bo7dLOXsjHA/Small%20Sugar%20Skull%20Floral.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Pink Roses Day Of The Dead Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-roses-day-of-the-dead-76brcjvaxwhlc53m.jpg' alt='Download Pink Roses Day Of The Dead Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="934">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-roses-day-of-the-dead-76brcjvaxwhlc53m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dead Day Skull Royalty-Free Images, Stock Photos & Pictures ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/vector-girls-face-day-dead-600nw-2363655933.jpg' alt='Dead Day Skull Royalty-Free Images, Stock Photos & Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/vector-girls-face-day-dead-600nw-2363655933.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dog Sugar Skull Royalty-Free Images, Stock Photos & Pictures ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/cute-cartoon-dog-cat-bright-600nw-2343112245.jpg' alt='Dog Sugar Skull Royalty-Free Images, Stock Photos & Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/cute-cartoon-dog-cat-bright-600nw-2343112245.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Day Of The Dead Mexican Holiday Background, Day Of The Dead ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20211215/original/pngtree-cute-day-of-the-dead-mexican-holiday-background-picture-image_1468012.jpg' alt='Cute Day Of The Dead Mexican Holiday Background, Day Of The Dead ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20211215/original/pngtree-cute-day-of-the-dead-mexican-holiday-background-picture-image_1468012.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download free Purple Flowers For Day Of The Dead Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://mrwallpaper.com/images/high/purple-flowers-for-day-of-the-dead-pff2b8zjtvhy3w8x.jpg' alt='Download free Purple Flowers For Day Of The Dead Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrWallpaper" />
+                                </span>
+                                <a href='https://mrwallpaper.com/images/high/purple-flowers-for-day-of-the-dead-pff2b8zjtvhy3w8x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seamless Pattern For Day Of The Dead Dia De Los Muertos Holiday ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/girafchik123/girafchik1232008/girafchik123200800014/153225701-seamless-pattern-for-day-of-the-dead-dia-de-los-muertos-holiday-childish-background-for-fabric.jpg' alt='Seamless Pattern For Day Of The Dead Dia De Los Muertos Holiday ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/girafchik123/girafchik1232008/girafchik123200800014/153225701-seamless-pattern-for-day-of-the-dead-dia-de-los-muertos-holiday-childish-background-for-fabric.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

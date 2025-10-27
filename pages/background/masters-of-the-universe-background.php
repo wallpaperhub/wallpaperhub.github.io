@@ -1,0 +1,129 @@
+<title>Masters of the Universe: A Timeless Epic</title>
+                    <meta name="description" content="Explore the rich history of the Masters of the Universe franchise, which captivated fans with its heroic battles, iconic characters, and expansive lore. Discover He-Man, Skeletor, and the magic of Eternia in this engaging overview. Perfect for veterans and newcomers alike!">
+                    <meta name="keywords" content="masters of the universe background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/masters-of-the-universe-background">
+                            <span itemprop="name">masters of the universe background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Masters of the Universe: A Timeless Epic</h1>
+                <p>Masters of the Universe is a popular toy and media franchise launched in the early 1980s by Mattel. It features heroic figures like He-Man battling against the evil Skeletor on the planet Eternia. The franchise has spawned animated series, comics, movies, and a dedicated fan base, becoming a timeless icon of pop culture.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Take your calls in Eternia with... - Masters of the Universe ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2800881796697655' alt='Take your calls in Eternia with... - Masters of the Universe ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2800881796697655' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] He-man And The Masters Of The Universe Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/castle-grayskull-from-he-man-and-the-masters-of-the-universe-z8yai9hol172c5cq.jpg' alt='100+] He-man And The Masters Of The Universe Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/castle-grayskull-from-he-man-and-the-masters-of-the-universe-z8yai9hol172c5cq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] He-man And The Masters Of The Universe Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/he-man-and-the-masters-of-the-universe-the-powers-of-grayskull-40uymxlhcheodowa.jpg' alt='100+] He-man And The Masters Of The Universe Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/he-man-and-the-masters-of-the-universe-the-powers-of-grayskull-40uymxlhcheodowa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download He-man Comic He-Man And The Masters Of The Universe HD ...">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/103/1035764.jpg' alt='Download He-man Comic He-Man And The Masters Of The Universe HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2700">
+                                <meta itemprop="height" content="1557">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/103/1035764.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Art – FOR ETERNIA">
+                                <img itemprop="contentUrl url" src='https://foreternia.com/wp-content/uploads/2021/12/20211221_100428.jpg' alt='Background Art – FOR ETERNIA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="for eternia" />
+                                </span>
+                                <a href='https://foreternia.com/wp-content/uploads/2021/12/20211221_100428.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ArtStation - Masters of the Universe: Revelation - Part 1">
+                                <img itemprop="contentUrl url" src='https://cdna.artstation.com/p/assets/images/images/039/954/142/4k/pedro-h-cardoso-motu1-bg-subternia-academyofmagic-1.jpg?1627419910' alt='ArtStation - Masters of the Universe: Revelation - Part 1'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtStation" />
+                                </span>
+                                <a href='https://cdna.artstation.com/p/assets/images/images/039/954/142/4k/pedro-h-cardoso-motu1-bg-subternia-academyofmagic-1.jpg?1627419910' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Take a trip to Subternia and Trolla in Powerhouse Animation's ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/foreternia.com/wp-content/uploads/2021/12/20211221_095225.jpg?fit=1200%2C678&ssl=1' alt='Take a trip to Subternia and Trolla in Powerhouse Animation's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="678">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="for eternia" />
+                                </span>
+                                <a href='https://i0.wp.com/foreternia.com/wp-content/uploads/2021/12/20211221_095225.jpg?fit=1200%2C678&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download He-man Comic He-Man And The Masters Of The Universe HD ...">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/103/1035766.jpg' alt='Download He-man Comic He-Man And The Masters Of The Universe HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2700">
+                                <meta itemprop="height" content="1584">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/103/1035766.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="He Man | Zoom background">
+                                <img itemprop="contentUrl url" src='https://www.roomforzoom.com/backgrounds/He-Man-Snake-Mountain-278.png' alt='He Man | Zoom background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Meeting Backgrounds" />
+                                </span>
+                                <a href='https://www.roomforzoom.com/backgrounds/He-Man-Snake-Mountain-278.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VEETHI Masters of The Universe He-Man Backdrop for Birthday Baby Shower  Party Supplies Banner Background Photography Decoration Background">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71J1bPzrB2L._AC_UF894,1000_QL80_.jpg' alt='VEETHI Masters of The Universe He-Man Backdrop for Birthday Baby Shower  Party Supplies Banner Background Photography Decoration Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="791">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71J1bPzrB2L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

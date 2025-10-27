@@ -1,0 +1,129 @@
+<title>Transform Your Space with Hardwood Wallpaper</title>
+                    <meta name="description" content="Discover the elegance of hardwood wallpaper! Easily enhance any room with realistic wood textures. Perfect for quick makeovers—transform your walls with beautiful designs that are easy to apply and maintain. Ideal for homes and offices alike!">
+                    <meta name="keywords" content="hardwood wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/hardwood-wallpaper">
+                            <span itemprop="name">hardwood wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Hardwood Wallpaper</h1>
+                <p>Hardwood wallpaper is an innovative way to bring the beauty of nature indoors. Its realistic wood textures and patterns add warmth and charm to any space without the hassle of traditional wood installation. Perfect for accent walls, living areas, or even offices, hardwood wallpaper is easy to apply and maintain, making it a stylish and practical choice for home décor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rustic Wood Panels Wallpaper • Gray Wood Effect • Milton & King">
+                                <img itemprop="contentUrl url" src='https://www.miltonandking.com/wp-content/uploads/2018/10/Wallpaper-Kemra-RusticWood-1-1100x1318.jpg' alt='Rustic Wood Panels Wallpaper • Gray Wood Effect • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1318">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://www.miltonandking.com/wp-content/uploads/2018/10/Wallpaper-Kemra-RusticWood-1-1100x1318.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Wooden Boards Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.miltonandking.com/wp-content/uploads/2018/10/Wallpaper-Kemra-BlackWood-1.jpg' alt='Black Wooden Boards Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1318">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://www.miltonandking.com/wp-content/uploads/2018/10/Wallpaper-Kemra-BlackWood-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TANONE Peel and Stick Wallpaper 17.8" X 118.8" Contact Paper Self Adhesive  Removable Decorative Film Brown Wood Grain Contact Paper for Wall Covering  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/8157LSF463L.jpg' alt='TANONE Peel and Stick Wallpaper 17.8" X 118.8" Contact Paper Self Adhesive  Removable Decorative Film Brown Wood Grain Contact Paper for Wall Covering  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/8157LSF463L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wide Brown Horizontal Wood Planks Wall Mural">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/241427/Wide-Brown-Horizontal-Wood-Planks-Mural-Wallpaper.jpg?v=638164451212300000' alt='Wide Brown Horizontal Wood Planks Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="2133">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/241427/Wide-Brown-Horizontal-Wood-Planks-Mural-Wallpaper.jpg?v=638164451212300000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Wood : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/liu352h66pjx.jpg?width=640&crop=smart&auto=webp&s=98f92a9e4048bbdf0abd58539752027e9fe29217' alt='Light Wood : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/liu352h66pjx.jpg?width=640&crop=smart&auto=webp&s=98f92a9e4048bbdf0abd58539752027e9fe29217' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="UMIGGEE 17.7-in x 275-in Dark Brown Wood Wallpaper Peel and Stick Wallpaper  Oak Grain Wall Paper Removable Self Adhesive Contact Paper Rustic ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/4db1bdb9-67d6-4fb5-854e-46935fe4609f.e244a060bb8826bb3910dda2af2a04f4.jpeg' alt='UMIGGEE 17.7-in x 275-in Dark Brown Wood Wallpaper Peel and Stick Wallpaper  Oak Grain Wall Paper Removable Self Adhesive Contact Paper Rustic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/4db1bdb9-67d6-4fb5-854e-46935fe4609f.e244a060bb8826bb3910dda2af2a04f4.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark wood texture Wall Mural Wallpaper | Canvas Art Rocks">
+                                <img itemprop="contentUrl url" src='https://us.canvasartrocks.com/cdn/shop/products/Dark_wood_texture_Wall_Mural_Wallpaper_a_1400x.jpg?v=1735832701' alt='Dark wood texture Wall Mural Wallpaper | Canvas Art Rocks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="666">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canvas Art Rocks" />
+                                </span>
+                                <a href='https://us.canvasartrocks.com/cdn/shop/products/Dark_wood_texture_Wall_Mural_Wallpaper_a_1400x.jpg?v=1735832701' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Teak Wood Texture Wall Mural">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/236003-825-auto?width=825&height=auto&aspect=true' alt='Teak Wood Texture Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="825">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/236003-825-auto?width=825&height=auto&aspect=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rustic Wood Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/lelandswallpaper.com/wp-content/uploads/2017/08/LL36207-patton-wallcoverings-illusions-2-rustic-wood-wallpaper-charcoal.jpg?fit=500%2C500&ssl=1' alt='Rustic Wood Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lelands Wallpaper" />
+                                </span>
+                                <a href='https://i0.wp.com/lelandswallpaper.com/wp-content/uploads/2017/08/LL36207-patton-wallcoverings-illusions-2-rustic-wood-wallpaper-charcoal.jpg?fit=500%2C500&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6000x4000] Dark wood texture : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/6000x4000-dark-wood-texture-v0-qg70jvgnpq291.jpg?auto=webp&s=2775d658c452a7e241d53883b582adfdf0373b6e' alt='6000x4000] Dark wood texture : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/6000x4000-dark-wood-texture-v0-qg70jvgnpq291.jpg?auto=webp&s=2775d658c452a7e241d53883b582adfdf0373b6e' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

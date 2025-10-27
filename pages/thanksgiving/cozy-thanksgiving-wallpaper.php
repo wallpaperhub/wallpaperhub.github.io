@@ -1,0 +1,129 @@
+<title>Cozy Thanksgiving Wallpapers for a Festive Home</title>
+                    <meta name="description" content="Discover the perfect cozy Thanksgiving wallpaper to create a warm atmosphere in your home. Our selection features beautiful autumn designs ideal for festive decor. Embrace the spirit of Thanksgiving with our charming and inviting wallpaper options!">
+                    <meta name="keywords" content="cozy thanksgiving wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/thanksgiving">
+                            <span itemprop="name">Thanksgiving</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/thanksgiving/cozy-thanksgiving-wallpaper">
+                            <span itemprop="name">cozy thanksgiving wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cozy Thanksgiving Wallpapers for a Festive Home</h1>
+                <p>Transform your home into a warm and inviting space this Thanksgiving with our cozy Thanksgiving wallpapers. Featuring autumn leaves, rustic pumpkins, and charming harvest scenes, these wallpapers will evoke feelings of comfort and gratitude. Perfect for bringing the spirit of the season to life, they are ideal for family gatherings and festive decoration.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cozy Thanksgiving Pastel Pumpkins, Leaves, and Coffee Digital ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9a/32/06/9a3206d8fecdd4db085d05e5abcc5a5e.jpg' alt='Cozy Thanksgiving Pastel Pumpkins, Leaves, and Coffee Digital ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1288">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9a/32/06/9a3206d8fecdd4db085d05e5abcc5a5e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30+ Cute Thanksgiving Wallpapers For iPhone (Free Download)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/aa/d2/e7/aad2e7d1180afea90ba12ece7305bd37.jpg' alt='30+ Cute Thanksgiving Wallpapers For iPhone (Free Download)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/aa/d2/e7/aad2e7d1180afea90ba12ece7305bd37.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cozy Pumpkin and Candle Setup happy thanksgiving wallpaper banner ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/cozy-pumpkin-candle-setup-happy-thanksgiving-wallpaper-banner-background-image_1020697-632221.jpg' alt='Cozy Pumpkin and Candle Setup happy thanksgiving wallpaper banner ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/cozy-pumpkin-candle-setup-happy-thanksgiving-wallpaper-banner-background-image_1020697-632221.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="264 Thanksgiving Holiday Pie Wallpaper Stock Photos - Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/z/festive-thanksgiving-wallpaper-cozy-autumn-vibes-concept-high-detailed-digital-illustration-cute-desktop-featuring-plaid-331057870.jpg' alt='264 Thanksgiving Holiday Pie Wallpaper Stock Photos - Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="897">
+                                <meta itemprop="height" content="1690">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/z/festive-thanksgiving-wallpaper-cozy-autumn-vibes-concept-high-detailed-digital-illustration-cute-desktop-featuring-plaid-331057870.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50+ Adorable Thanksgiving Wallpaper Options for a Cozy Season">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fa/44/3e/fa443eb28d1afe6abe0be16d04bc9c1d.jpg' alt='50+ Adorable Thanksgiving Wallpaper Options for a Cozy Season'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fa/44/3e/fa443eb28d1afe6abe0be16d04bc9c1d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stylish warm cup of tea, candle, pumpkins on cozy wool blanket ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/05/36/82/83/1000_F_536828314_VMgjnLWw0YscPTrJKdnFrZNmFwJTXG2E.jpg' alt='Stylish warm cup of tea, candle, pumpkins on cozy wool blanket ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/05/36/82/83/1000_F_536828314_VMgjnLWw0YscPTrJKdnFrZNmFwJTXG2E.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cozy Thanksgiving Pumpkin Scene thanksgiving wallpaper background ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/cozy-thanksgiving-pumpkin-scene-thanksgiving-wallpaper-background-autumn-banner-maple_1295756-113028.jpg' alt='Cozy Thanksgiving Pumpkin Scene thanksgiving wallpaper background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/cozy-thanksgiving-pumpkin-scene-thanksgiving-wallpaper-background-autumn-banner-maple_1295756-113028.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="23 Cozy Thanksgiving Phone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.tanyabatrak.com/wp-content/uploads/2024/11/23-Cute-and-Inspiring-Thanksgiving-Wallpapers-for-Your-Phone-86401.jpg' alt='23 Cozy Thanksgiving Phone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tanya Batrak" />
+                                </span>
+                                <a href='https://www.tanyabatrak.com/wp-content/uploads/2024/11/23-Cute-and-Inspiring-Thanksgiving-Wallpapers-for-Your-Phone-86401.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free to edit Thanksgiving desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFQ3c0Xx1A/1/0/1600w/canva-rustic-beige-happy-thanksgiving-desktop-wallpaper-c19Cp65IQ04.jpg' alt='Free to edit Thanksgiving desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFQ3c0Xx1A/1/0/1600w/canva-rustic-beige-happy-thanksgiving-desktop-wallpaper-c19Cp65IQ04.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="23 Cozy Thanksgiving Phone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.tanyabatrak.com/wp-content/uploads/2024/11/23-Cute-and-Inspiring-Thanksgiving-Wallpapers-for-Your-Phone-33342.jpg' alt='23 Cozy Thanksgiving Phone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tanya Batrak" />
+                                </span>
+                                <a href='https://www.tanyabatrak.com/wp-content/uploads/2024/11/23-Cute-and-Inspiring-Thanksgiving-Wallpapers-for-Your-Phone-33342.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

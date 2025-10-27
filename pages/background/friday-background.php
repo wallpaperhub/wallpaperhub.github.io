@@ -1,0 +1,129 @@
+<title>Enjoy Your Friday: Embrace the Weekend Vibe</title>
+                    <meta name="description" content="Celebrate Fridays! Discover the cultural significance and excitement that come with the end of the workweek. Enjoy tips for relaxation and fun activities to make the most of your weekend. Embrace the Friday vibe and unwind with loved ones!">
+                    <meta name="keywords" content="friday background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/friday-background">
+                            <span itemprop="name">friday background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enjoy Your Friday: Embrace the Weekend Vibe</h1>
+                <p>Friday signifies the end of the workweek and the beginning of the weekend, bringing a sense of relief and excitement. Its background is rich with cultural significance, symbolizing rest, relaxation, and social gatherings. Many look forward to Friday as a time to unwind with friends, explore new activities, and rejuvenate for the week ahead.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Friday background with greeting">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/friday-background-with-greeting_23-2148745263.jpg' alt='Free Vector | Friday background with greeting'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/friday-background-with-greeting_23-2148745263.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="179,400+ Friday Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1413768479/vector/hello-friday-sign-on-brick-wall-background.jpg?s=612x612&w=0&k=20&c=0nmhWZFZT6GjSyRfiyltObdmM02lhYSNypIY3foKgao=' alt='179,400+ Friday Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1413768479/vector/hello-friday-sign-on-brick-wall-background.jpg?s=612x612&w=0&k=20&c=0nmhWZFZT6GjSyRfiyltObdmM02lhYSNypIY3foKgao=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Happy Friday Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/let-s-unwind-happy-friday-yrqc1sxf6yvmzf8g.jpg' alt='100+] Happy Friday Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/let-s-unwind-happy-friday-yrqc1sxf6yvmzf8g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60+ Tgif Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1182437844/vector/neon-text-of-happy-friday-greeting-banner-poster-with-glowing-neon-inscription-for-friday.jpg?s=612x612&w=0&k=20&c=2D2Ir4G2EVB91TgM671KRIH1WD-_yj6ZmcfxbDXhFj4=' alt='60+ Tgif Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1182437844/vector/neon-text-of-happy-friday-greeting-banner-poster-with-glowing-neon-inscription-for-friday.jpg?s=612x612&w=0&k=20&c=2D2Ir4G2EVB91TgM671KRIH1WD-_yj6ZmcfxbDXhFj4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Friday Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/005/208/679/non_2x/word-friday-letters-on-blue-wooden-background-black-friday-sales-top-view-copy-space-mock-up-free-photo.jpg' alt='Friday Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/005/208/679/non_2x/word-friday-letters-on-blue-wooden-background-black-friday-sales-top-view-copy-space-mock-up-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Friday background with emoticons and shapes">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/friday-background-with-emoticons-shapes_23-2148725384.jpg' alt='Free Vector | Friday background with emoticons and shapes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/friday-background-with-emoticons-shapes_23-2148725384.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="179,400+ Friday Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1148222524/vector/friday-banner-speech-bubble-poster-and-typography.jpg?s=612x612&w=0&k=20&c=TlulMxGH7A69-uLuWY9hFu_1qpGnw7s203K8L6ak4U8=' alt='179,400+ Friday Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1148222524/vector/friday-banner-speech-bubble-poster-and-typography.jpg?s=612x612&w=0&k=20&c=TlulMxGH7A69-uLuWY9hFu_1qpGnw7s203K8L6ak4U8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Friday Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/037/814/326/non_2x/ai-generated-happy-friday-wooden-letters-on-the-table-blurred-background-photo.jpg' alt='Friday Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1749">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/037/814/326/non_2x/ai-generated-happy-friday-wooden-letters-on-the-table-blurred-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Friday Phone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/101/thumb-1920-1013173.png' alt='Friday Phone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1632">
+                                <meta itemprop="height" content="2912">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/101/thumb-1920-1013173.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Friday word neon light on grunge brick block background ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/01/47/00/71/1000_F_147007161_pe7KMg8cGOFSks0XkrfJqlvP9DOmr1xW.jpg' alt='Happy Friday word neon light on grunge brick block background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/01/47/00/71/1000_F_147007161_pe7KMg8cGOFSks0XkrfJqlvP9DOmr1xW.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

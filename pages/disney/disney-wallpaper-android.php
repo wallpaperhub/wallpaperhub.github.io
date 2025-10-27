@@ -1,0 +1,129 @@
+<title>Magical Disney Wallpapers for Your Android Device</title>
+                    <meta name="description" content="Discover the best Disney wallpapers for Android! Customize your device with stunning images of beloved characters and enchanting scenes. Perfect for fans seeking a touch of magic on their screens. Download now and bring the joy of Disney to your fingertips!">
+                    <meta name="keywords" content="disney wallpaper android">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/disney">
+                            <span itemprop="name">Disney</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/disney/disney-wallpaper-android">
+                            <span itemprop="name">disney wallpaper android</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Magical Disney Wallpapers for Your Android Device</h1>
+                <p>Transform your Android device with enchanting Disney wallpapers! Dive into a magical world featuring your favorite characters like Mickey, Elsa, and Simba. Customize your home screen and lock screen with vibrant designs that spark joy. Explore a variety of themes that capture the spirit of Disney and bring a smile to your face!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Disney Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/mickey-and-minnie-disney-phone-qi8gu3icsor9o6fy.jpg' alt='100+] Disney Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1919">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/mickey-and-minnie-disney-phone-qi8gu3icsor9o6fy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 Stunning Disney World Wallpapers to Bring the Magic to Your ...">
+                                <img itemprop="contentUrl url" src='https://allears.net/wp-content/uploads/2021/01/2021-allears-wallpapers-cinderella-castle-4-768x1024.jpg' alt='15 Stunning Disney World Wallpapers to Bring the Magic to Your ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AllEars.Net" />
+                                </span>
+                                <a href='https://allears.net/wp-content/uploads/2021/01/2021-allears-wallpapers-cinderella-castle-4-768x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Disney iPhone Wallpapers - Disney Tourist Blog">
+                                <img itemprop="contentUrl url" src='https://www.disneytouristblog.com/wp-content/uploads/2017/01/tangled-float-dreamlights-wallpaper.jpg' alt='Free Disney iPhone Wallpapers - Disney Tourist Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Tourist Blog" />
+                                </span>
+                                <a href='https://www.disneytouristblog.com/wp-content/uploads/2017/01/tangled-float-dreamlights-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Iconic Disney World Android Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/disney-world-android-9cas2nf7h04yi7nr.jpg' alt='Download Iconic Disney World Android Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="886">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/disney-world-android-9cas2nf7h04yi7nr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PAPERS.co | Android wallpaper | ac76-wallpaper-disney-castle ...">
+                                <img itemprop="contentUrl url" src='http://papers.co/wallpaper/papers.co-ac76-wallpaper-disney-castle-artwork-illust-sky-8-wallpaper.jpg?download=true' alt='PAPERS.co | Android wallpaper | ac76-wallpaper-disney-castle ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papers.co" />
+                                </span>
+                                <a href='http://papers.co/wallpaper/papers.co-ac76-wallpaper-disney-castle-artwork-illust-sky-8-wallpaper.jpg?download=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney Christmas Wallpaper for iPhone and Android">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/87/37/ec/8737ec3fcf83faac712b700e6de5a9e2.jpg' alt='Disney Christmas Wallpaper for iPhone and Android'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1314">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/87/37/ec/8737ec3fcf83faac712b700e6de5a9e2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney High Resolution Phone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp5130638.jpg' alt='Disney High Resolution Phone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="679">
+                                <meta itemprop="height" content="1272">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp5130638.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney World Christmas Wallpapers [Free Background Images ...">
+                                <img itemprop="contentUrl url" src='https://www.wallpapergap.com/cdn/24/446/disney-world-android-christmas-wallpaper-1080x1920.jpg' alt='Disney World Christmas Wallpapers [Free Background Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperGap" />
+                                </span>
+                                <a href='https://www.wallpapergap.com/cdn/24/446/disney-world-android-christmas-wallpaper-1080x1920.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PAPERS.co | Android wallpaper | ab16-wallpaper-walt-disney-studios ...">
+                                <img itemprop="contentUrl url" src='http://papers.co/wallpaper/papers.co-ab16-wallpaper-walt-disney-studios-castle-illust-40-wallpaper.jpg?download=true' alt='PAPERS.co | Android wallpaper | ab16-wallpaper-walt-disney-studios ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2732">
+                                <meta itemprop="height" content="2732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papers.co" />
+                                </span>
+                                <a href='http://papers.co/wallpaper/papers.co-ab16-wallpaper-walt-disney-studios-castle-illust-40-wallpaper.jpg?download=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/dc/c1/8a/dcc18a7fa0fcf5939fcf0d8323417fba.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1437">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/dc/c1/8a/dcc18a7fa0fcf5939fcf0d8323417fba.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

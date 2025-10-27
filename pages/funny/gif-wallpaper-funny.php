@@ -1,0 +1,129 @@
+<title>Funny GIF Wallpapers: Add Humor to Your Screen</title>
+                    <meta name="description" content="Explore a vibrant selection of funny GIF wallpapers that bring joy to your device! Perfect for humor lovers, these animated backgrounds add a fun twist to your everyday screen. Discover the latest trends in GIFs and express your personality with a delightful, laughter-inducing wallpaper.">
+                    <meta name="keywords" content="gif wallpaper funny">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/funny">
+                            <span itemprop="name">Funny</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/funny/gif-wallpaper-funny">
+                            <span itemprop="name">gif wallpaper funny</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Funny GIF Wallpapers: Add Humor to Your Screen</h1>
+                <p>Brighten up your screen with our collection of funny GIF wallpapers! From quirky animals to hilarious memes, these entertaining loops will keep you smiling every time you unlock your device. Discover the perfect GIF wallpaper that showcases your sense of humor and adds a lighthearted touch to your daily routine!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny Gif Wallpapers GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/06FQqhemBsgAAAAM/zazaki-zaza.gif' alt='Funny Gif Wallpapers GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="182">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/06FQqhemBsgAAAAM/zazaki-zaza.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny Gif Wallpapers GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/5kM_nI_Zb7oAAAAM/kermit-taco.gif' alt='Funny Gif Wallpapers GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="314">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/5kM_nI_Zb7oAAAAM/kermit-taco.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny Gif Wallpapers GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/65hE03SyZnEAAAAM/bread-dance.gif' alt='Funny Gif Wallpapers GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="301">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/65hE03SyZnEAAAAM/bread-dance.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny Moving Wallpaper GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/VuKOWNWOWbsAAAAM/stitch.gif' alt='Funny Moving Wallpaper GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="183">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/VuKOWNWOWbsAAAAM/stitch.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Funny cat.gif phone wallpaper by gurkis">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/60/63/15/606315197576b98b6649740043e60bbd.gif' alt='Free Funny cat.gif phone wallpaper by gurkis'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/60/63/15/606315197576b98b6649740043e60bbd.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patrick Star Funny Dance Gif Wallpapers - SpongeBob Wallpapers">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2024/08/patrick-star-funny-dance-gif-wallpaper.gif' alt='Patrick Star Funny Dance Gif Wallpapers - SpongeBob Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1183">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2024/08/patrick-star-funny-dance-gif-wallpaper.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny Gif Wallpapers GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/lUp-vBU75yAAAAAM/sov-sd.gif' alt='Funny Gif Wallpapers GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="303">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/lUp-vBU75yAAAAAM/sov-sd.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny Spongebob Gif PFP - Meme Gif PFP for Facebook, Discord">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2022/12/funny-spongebob-gif-pfp-1.gif' alt='Funny Spongebob Gif PFP - Meme Gif PFP for Facebook, Discord'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2022/12/funny-spongebob-gif-pfp-1.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny Gif Wallpapers GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/c_m16fyB6jIAAAAM/dance-morty.gif' alt='Funny Gif Wallpapers GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="489">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/c_m16fyB6jIAAAAM/dance-morty.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watching You GIF - The Boss Baby Watching You Push - Discover ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/36/be/ab/36beab2b4cefd3096cceb60f7d27ead4.gif' alt='Watching You GIF - The Boss Baby Watching You Push - Discover ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/36/be/ab/36beab2b4cefd3096cceb60f7d27ead4.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

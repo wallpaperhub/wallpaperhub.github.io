@@ -1,0 +1,129 @@
+<title>Simple Western Backgrounds: Rustic Charm for Projects</title>
+                    <meta name="description" content="Discover the essence of a simple western background with rustic landscapes and open spaces. Perfect for storytelling, photography, or design projects, these serene settings evoke nostalgia and adventure in a charming way. Ideal for those seeking authentic Wild West vibes!">
+                    <meta name="keywords" content="simple western background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/simple-western-background">
+                            <span itemprop="name">simple western background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Simple Western Backgrounds: Rustic Charm for Projects</h1>
+                <p>A simple western background often evokes images of wide-open spaces and rustic charm. Picture dusty plains, wooden fences, and rolling hills under vast blue skies. This natural canvas captures the essence of the Wild West, making it perfect for storytelling, photography, or themed projects. It's a serene setting, ideal for evoking nostalgia and adventure.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wild and free">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d7/b2/d8/d7b2d816423ca807e429a24af1795812.jpg' alt='wild and free'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="671">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d7/b2/d8/d7b2d816423ca807e429a24af1795812.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Western Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/flat-western-pattern-design_23-2149212522.jpg' alt='Cute Western Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/flat-western-pattern-design_23-2149212522.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Western Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/western-peel-and-stick-wallpaper-986920.png?v=1671615451' alt='Western Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1456">
+                                <meta itemprop="height" content="1460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/western-peel-and-stick-wallpaper-986920.png?v=1671615451' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seamless vector pattern with wild west symbols on orange ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2G5WJ1K/seamless-vector-pattern-with-wild-west-symbols-on-orange-background-cartoon-cowboy-wallpaper-design-for-children-simple-western-fashion-textile-2G5WJ1K.jpg' alt='Seamless vector pattern with wild west symbols on orange ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2G5WJ1K/seamless-vector-pattern-with-wild-west-symbols-on-orange-background-cartoon-cowboy-wallpaper-design-for-children-simple-western-fashion-textile-2G5WJ1K.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4d/5d/bf/4d5dbfdb8806e26b2daec91063a8a5ae.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4d/5d/bf/4d5dbfdb8806e26b2daec91063a8a5ae.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Western Background Images – Browse 397,328 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/29/57/24/360_F_129572402_uAJNWcrPUnH8v9FAKIFomhesiTkYsSfd.jpg' alt='Western Background Images – Browse 397,328 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="562">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/29/57/24/360_F_129572402_uAJNWcrPUnH8v9FAKIFomhesiTkYsSfd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seamless vector pattern with wild west cowboy on grey background ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/04/37/04/16/1000_F_437041699_K74AvXLgIJoUC5QsjC9yXKAbxqOVrR11.jpg' alt='Seamless vector pattern with wild west cowboy on grey background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/04/37/04/16/1000_F_437041699_K74AvXLgIJoUC5QsjC9yXKAbxqOVrR11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="62,817 Western Pattern Seamless Images, Stock Photos, 3D objects ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/aztec-south-western-cacti-simple-260nw-2160064289.jpg' alt='62,817 Western Pattern Seamless Images, Stock Photos, 3D objects ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/aztec-south-western-cacti-simple-260nw-2160064289.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="western wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6c/47/6d/6c476ddf27266a77099c20e6b78ea0f1.jpg' alt='western wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6c/47/6d/6c476ddf27266a77099c20e6b78ea0f1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="14,700+ Western Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/990635528/vector/vector-illustration-of-western-texas-desert-silhouette-wild-west-america-scene-with-sunset-in.jpg?s=612x612&w=0&k=20&c=RKZuWN0EyVYKUT8y-Dhuljtaa7td-DrgetvHLz_OnGk=' alt='14,700+ Western Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/990635528/vector/vector-illustration-of-western-texas-desert-silhouette-wild-west-america-scene-with-sunset-in.jpg?s=612x612&w=0&k=20&c=RKZuWN0EyVYKUT8y-Dhuljtaa7td-DrgetvHLz_OnGk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

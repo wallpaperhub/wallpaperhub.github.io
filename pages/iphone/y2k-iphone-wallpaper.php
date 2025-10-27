@@ -1,0 +1,129 @@
+<title>Y2K iPhone Wallpaper: Retro Aesthetic for Your Screen</title>
+                    <meta name="description" content="Discover the best Y2K iPhone wallpapers for a blast from the past! Embrace vibrant colors and retro designs that bring a nostalgic flair to your device. Perfect for fans of early 2000s style, these wallpapers will make your iPhone stand out with a unique, trendy look. Download yours today!">
+                    <meta name="keywords" content="y2k iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/y2k-iphone-wallpaper">
+                            <span itemprop="name">y2k iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Y2K iPhone Wallpaper: Retro Aesthetic for Your Screen</h1>
+                <p>Explore the nostalgic allure of Y2K iPhone wallpapers, blending retro aesthetics with modern technology. Perfect for those who appreciate the early 2000s vibe, these wallpapers feature vibrant colors, pixelated art, and iconic motifs. Transform your iPhone screen into a throwback masterpiece that celebrates a unique era in digital design.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Hello Kitty For Y2k Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/hello-kitty-for-y2k-lw64s2nhjaky00da.jpg' alt='Download Hello Kitty For Y2k Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="689">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/hello-kitty-for-y2k-lw64s2nhjaky00da.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Most Popular Y2K Stars Wallpapers">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/iphone/y2k-hearts-and-stars-19-09-2024-1726774531.webp' alt='Most Popular Y2K Stars Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2666">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/iphone/y2k-hearts-and-stars-19-09-2024-1726774531.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Kitty Y2K Wallpaper Collection">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7315279887294680351&location=0&aid=1988' alt='Hello Kitty Y2K Wallpaper Collection'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7315279887294680351&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink iPhone Wallpaper | Pastel iPhone Wallpaper | Y2K Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35781899/r/il/0c727f/4618290226/il_fullxfull.4618290226_1d7h.jpg' alt='Pink iPhone Wallpaper | Pastel iPhone Wallpaper | Y2K Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1875">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35781899/r/il/0c727f/4618290226/il_fullxfull.4618290226_1d7h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11 Y2K Wallpaper ideas | y2k wallpaper, wallpaper, aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/ae/02/1a/ae021a34b52530a40091b740fc64a347.jpg' alt='11 Y2K Wallpaper ideas | y2k wallpaper, wallpaper, aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/ae/02/1a/ae021a34b52530a40091b740fc64a347.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Y2k wallpaper iphone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/a0/74/50/a0745045fe7b6308ac7213fbff2ed7b6.jpg' alt='Y2k wallpaper iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="562">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/a0/74/50/a0745045fe7b6308ac7213fbff2ed7b6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Y2k Wallpaper Iphone Wallpaper Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9zdGF0aWMvZmlsZXMvd2Vic2l0ZS8yMDI0LTEwL3RwNTUyLTA5MTAyNC1iYm0tMDA5LXN0b3J5LTEuanBn.jpg' alt='Y2k Wallpaper Iphone Wallpaper Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9zdGF0aWMvZmlsZXMvd2Vic2l0ZS8yMDI0LTEwL3RwNTUyLTA5MTAyNC1iYm0tMDA5LXN0b3J5LTEuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Y2k iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp10070366.jpg' alt='Y2k iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="674">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp10070366.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Y2k Hearts, Aura iPhone Wallpapers, Aesthetic Gradient Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27928756/r/il/86848a/5743359013/il_fullxfull.5743359013_nknl.jpg' alt='Y2k Hearts, Aura iPhone Wallpapers, Aesthetic Gradient Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1970">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27928756/r/il/86848a/5743359013/il_fullxfull.5743359013_nknl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable y2k aesthetic wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGHOIIDgJ0/1/0/900w/canva-blue-and-silver-aesthetic-y2k-futuristic-love-phone-wallpaper-IYdnji_4cb4.jpg' alt='Free and customizable y2k aesthetic wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGHOIIDgJ0/1/0/900w/canva-blue-and-silver-aesthetic-y2k-futuristic-love-phone-wallpaper-IYdnji_4cb4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

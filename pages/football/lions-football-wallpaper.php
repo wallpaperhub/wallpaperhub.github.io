@@ -1,0 +1,129 @@
+<title>Lions Football Wallpaper: Fierce and Stunning Designs</title>
+                    <meta name="description" content="Discover a collection of vibrant lions football wallpapers that bring your screen to life. Perfect for fans looking to showcase their love for the game, these captivating designs are HD quality and ideal for mobile displays. Download yours now and let your passion roar!">
+                    <meta name="keywords" content="lions football wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/football">
+                            <span itemprop="name">Football</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/football/lions-football-wallpaper">
+                            <span itemprop="name">lions football wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Lions Football Wallpaper: Fierce and Stunning Designs</h1>
+                <p>Elevate your device's look with stunning lions football wallpapers! Capture the spirit of the game with high-definition images showcasing roaring lions, iconic moments, and team pride. Perfect for fans of all ages, these wallpapers bring excitement and energy to your screens. Download yours today and showcase your passion for football!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New wallpapers on the Lions app! FTS! : r/detroitlions">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/new-wallpapers-on-the-lions-app-fts-v0-0it0oto7tqrd1.jpeg?auto=webp&s=36f2296ff465f1e95e52f2d67959704edf4800c7' alt='New wallpapers on the Lions app! FTS! : r/detroitlions'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/new-wallpapers-on-the-lions-app-fts-v0-0it0oto7tqrd1.jpeg?auto=webp&s=36f2296ff465f1e95e52f2d67959704edf4800c7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Official Site of the Detroit Lions">
+                                <img itemprop="contentUrl url" src='https://static.clubs.nfl.com/image/private/f_auto/lions/oie2w4ocpfq9ocqanh2p' alt='The Official Site of the Detroit Lions'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Official Site of the Detroit Lions" />
+                                </span>
+                                <a href='https://static.clubs.nfl.com/image/private/f_auto/lions/oie2w4ocpfq9ocqanh2p' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="250 Detroit lions ideas | detroit lions, detroit, detroit lions ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/ba/60/b7/ba60b7656ed38c8e972fa64ecefe6712.png' alt='250 Detroit lions ideas | detroit lions, detroit, detroit lions ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/ba/60/b7/ba60b7656ed38c8e972fa64ecefe6712.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Official Site of the Detroit Lions">
+                                <img itemprop="contentUrl url" src='https://www.fordfield.com/assets/img/WALLPAPER-Calvin-Small-072821-f104bd377d.jpg' alt='The Official Site of the Detroit Lions'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Official Site of the Detroit Lions" />
+                                </span>
+                                <a href='https://www.fordfield.com/assets/img/WALLPAPER-Calvin-Small-072821-f104bd377d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool lions wallpapers | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7029450295155428655&location=0&aid=1988' alt='Cool lions wallpapers | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7029450295155428655&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Football NFL Detroit Lions Sports Image">
+                                <img itemprop="contentUrl url" src='https://picfiles.alphacoders.com/204/20419.png' alt='Download Football NFL Detroit Lions Sports Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://picfiles.alphacoders.com/204/20419.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poster - Calvin Johnson Detroit Lions Football Poster Nfl Star Wall Art  Sports Print">
+                                <img itemprop="contentUrl url" src='http://xonomax.com/cdn/shop/files/599369.jpg?v=1727412656' alt='Poster - Calvin Johnson Detroit Lions Football Poster Nfl Star Wall Art  Sports Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="xonomax" />
+                                </span>
+                                <a href='http://xonomax.com/cdn/shop/files/599369.jpg?v=1727412656' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A look at the season through my iPhone Wallpaper : r/detroitlions">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/a-look-at-the-season-through-my-iphone-wallpaper-v0-rcxwggr4dpcc1.jpg?width=1179&format=pjpg&auto=webp&s=d68f3362c2886e332b0be97d23baf7b03f9fc0c3' alt='A look at the season through my iPhone Wallpaper : r/detroitlions'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1179">
+                                <meta itemprop="height" content="2556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/a-look-at-the-season-through-my-iphone-wallpaper-v0-rcxwggr4dpcc1.jpg?width=1179&format=pjpg&auto=webp&s=d68f3362c2886e332b0be97d23baf7b03f9fc0c3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lions Mobile: Detroit Lions wide receiver Amon-Ra St. Brown (14 ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/14/dd/29/14dd29a270da57913d7965bf86e5a3b2.jpg' alt='Lions Mobile: Detroit Lions wide receiver Amon-Ra St. Brown (14 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/14/dd/29/14dd29a270da57913d7965bf86e5a3b2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marvin Jones NFL, Detroit Lions, wide receiver, blue neon lights ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/202/257/HD-wallpaper-marvin-jones-nfl-detroit-lions-wide-receiver-blue-neon-lights-marvin-lewis-jones-jr-artwork-marvin-jones-detroit-lions-marvin-jones.jpg' alt='Marvin Jones NFL, Detroit Lions, wide receiver, blue neon lights ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/202/257/HD-wallpaper-marvin-jones-nfl-detroit-lions-wide-receiver-blue-neon-lights-marvin-lewis-jones-jr-artwork-marvin-jones-detroit-lions-marvin-jones.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

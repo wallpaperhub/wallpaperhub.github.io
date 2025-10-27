@@ -1,0 +1,129 @@
+<title>Understanding States of Matter: Solids, Liquids, Gases & More</title>
+                    <meta name="description" content="Explore the fascinating states of matter: solids, liquids, gases, and plasma. Learn how particle arrangement and energy levels define each state, and discover their unique properties. Perfect for students and science enthusiasts looking for a concise overview!">
+                    <meta name="keywords" content="states of matter">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/states-of-matter">
+                            <span itemprop="name">states of matter</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding States of Matter: Solids, Liquids, Gases & More</h1>
+                <p>States of matter are the distinct forms that different phases of matter take on. The primary states include solid, liquid, gas, and plasma, each defined by particle arrangement and energy levels. Solids have closely packed particles, liquids flow freely, gases expand to fill space, and plasma consists of ionized particles. Understanding these states is fundamental in science.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="States of Matter - KidsPressMagazine.com">
+                                <img itemprop="contentUrl url" src='https://kidspressmagazine.com/wp-content/uploads/2014/05/dreamstimelarge_347721552.jpg' alt='States of Matter - KidsPressMagazine.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2473">
+                                <meta itemprop="height" content="2020">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KidsPress Magazine" />
+                                </span>
+                                <a href='https://kidspressmagazine.com/wp-content/uploads/2014/05/dreamstimelarge_347721552.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="States of Matter">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/5d2a13e2187e933942be8fc3/5e0adb48ad6bad2ccbc64388_8%20-%20States%20of%20Matter.jpg' alt='States of Matter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Breaking Atom" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/5d2a13e2187e933942be8fc3/5e0adb48ad6bad2ccbc64388_8%20-%20States%20of%20Matter.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="States of Matter">
+                                <img itemprop="contentUrl url" src='https://sciencenotes.org/wp-content/uploads/2020/08/States-of-Matter-scaled.jpg' alt='States of Matter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Science Notes" />
+                                </span>
+                                <a href='https://sciencenotes.org/wp-content/uploads/2020/08/States-of-Matter-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Solid | Definition & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/65/63065-050-26594B0B/States-matter.jpg' alt='Solid | Definition & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="994">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/65/63065-050-26594B0B/States-matter.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="States of Matter - Solid, Liquid, Gas, Plasma">
+                                <img itemprop="contentUrl url" src='https://www.priyamstudycentre.com/wp-content/uploads/2023/09/change-of-states-of-matter-from-solid-to-liquid-to-gaseous-state.png' alt='States of Matter - Solid, Liquid, Gas, Plasma'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1059">
+                                <meta itemprop="height" content="905">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Learning Chemistry" />
+                                </span>
+                                <a href='https://www.priyamstudycentre.com/wp-content/uploads/2023/09/change-of-states-of-matter-from-solid-to-liquid-to-gaseous-state.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Talk about three states of matter :">
+                                <img itemprop="contentUrl url" src='https://ilp-media.wgbh.org/filer_public/2a/16/2a1601ae-22d3-423a-897e-bff5ee6893ca/g3m10_pg14-new.png' alt='Talk about three states of matter :'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2713">
+                                <meta itemprop="height" content="1287">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="lsintspl3.wgbh.org" />
+                                </span>
+                                <a href='https://ilp-media.wgbh.org/filer_public/2a/16/2a1601ae-22d3-423a-897e-bff5ee6893ca/g3m10_pg14-new.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="States of matter - Sketchplanations">
+                                <img itemprop="contentUrl url" src='https://images.prismic.io/sketchplanations/4a878e62-ae26-4210-99ab-971d5899da4e_SP+682+-+States+of+matter.png?auto=compress,format' alt='States of matter - Sketchplanations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1085">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sketchplanations" />
+                                </span>
+                                <a href='https://images.prismic.io/sketchplanations/4a878e62-ae26-4210-99ab-971d5899da4e_SP+682+-+States+of+matter.png?auto=compress,format' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="States of Matter for Kids: Solids, Liquids and Gases">
+                                <img itemprop="contentUrl url" src='https://edcraft.io/wp-content/uploads/2021/08/solids-liquids-and-gases-for-kids.png' alt='States of Matter for Kids: Solids, Liquids and Gases'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1046">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EdCraft" />
+                                </span>
+                                <a href='https://edcraft.io/wp-content/uploads/2021/08/solids-liquids-and-gases-for-kids.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="State of Matter Definition - Chemistry Glossary">
+                                <img itemprop="contentUrl url" src='https://www.thoughtco.com/thmb/sXdRXMvUrRydV9FwIlw-dzBvKHA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-947148218-1742a84786ae46b0b229da848348fb0f.jpg' alt='State of Matter Definition - Chemistry Glossary'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="892">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ThoughtCo" />
+                                </span>
+                                <a href='https://www.thoughtco.com/thmb/sXdRXMvUrRydV9FwIlw-dzBvKHA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-947148218-1742a84786ae46b0b229da848348fb0f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="States of matter — Science Learning Hub">
+                                <img itemprop="contentUrl url" src='https://static.sciencelearn.org.nz/images/images/000/001/839/embed/The_three_states_of_matter_v2.png?1674166946' alt='States of matter — Science Learning Hub'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="509">
+                                <meta itemprop="height" content="237">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Science Learning Hub" />
+                                </span>
+                                <a href='https://static.sciencelearn.org.nz/images/images/000/001/839/embed/The_three_states_of_matter_v2.png?1674166946' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

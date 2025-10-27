@@ -1,0 +1,129 @@
+<title>Brushed Gold Texture: Elevate Your Style</title>
+                    <meta name="description" content="Discover the allure of brushed gold texture! Perfect for enhancing luxury in décor, jewelry, and furniture, this unique finish offers a sophisticated blend of matte and shine. Learn how to incorporate brushed gold into your design for a modern, elegant touch.">
+                    <meta name="keywords" content="brushed gold texture">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/brushed-gold-texture">
+                            <span itemprop="name">brushed gold texture</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Brushed Gold Texture: Elevate Your Style</h1>
+                <p>Brushed gold texture adds a touch of elegance and sophistication to any design. Its unique finish combines a soft, matte look with gleaming metallic highlights, creating depth and visual interest. Ideal for home decor, jewelry, or furniture, this texture enhances luxury while maintaining a modern aesthetic. Perfect for elevating any space!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Another plain shiny brushed gold texture">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2c/c3/fd/2cc3fdf7945f2369c16d932b17f0a329.jpg' alt='Another plain shiny brushed gold texture'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2c/c3/fd/2cc3fdf7945f2369c16d932b17f0a329.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brushed Gold Texture Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/gold-metal-texture-background_36078-698.jpg' alt='Brushed Gold Texture Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="403">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/gold-metal-texture-background_36078-698.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8,100+ Brushed Gold Texture Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1132512457/photo/abstract-background-brushed-gold-steel-wall-texture.jpg?s=612x612&w=0&k=20&c=w1_YIu7OYVXAvCFwAj-WVzFQdxHYwGUBDd_hlH37v8U=' alt='8,100+ Brushed Gold Texture Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1132512457/photo/abstract-background-brushed-gold-steel-wall-texture.jpg?s=612x612&w=0&k=20&c=w1_YIu7OYVXAvCFwAj-WVzFQdxHYwGUBDd_hlH37v8U=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brushed Gold Texture Brushed Gold Metal Stock Vector (Royalty Free ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/brushed-gold-texture-metal-background-260nw-320298110.jpg' alt='Brushed Gold Texture Brushed Gold Metal Stock Vector (Royalty Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/brushed-gold-texture-metal-background-260nw-320298110.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brushed gold metal texture | PSDgraphics">
+                                <img itemprop="contentUrl url" src='https://www.psdgraphics.com/file/gold-texture.jpg' alt='Brushed gold metal texture | PSDgraphics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3500">
+                                <meta itemprop="height" content="2800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PSDgraphics" />
+                                </span>
+                                <a href='https://www.psdgraphics.com/file/gold-texture.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brushed Gold Metal Images – Browse 584,455 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/09/42/56/00/360_F_942560000_sRopwS64DnM3F9aSGH0DIFKmyrMzo4XW.jpg' alt='Brushed Gold Metal Images – Browse 584,455 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/09/42/56/00/360_F_942560000_sRopwS64DnM3F9aSGH0DIFKmyrMzo4XW.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Polished brushed gold texture 09835">
+                                <img itemprop="contentUrl url" src='https://www.sketchuptextureclub.com/public/texture_d/0032-polished-brushed-gold-texture-hr.jpg' alt='Polished brushed gold texture 09835'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SketchUp Texture Club" />
+                                </span>
+                                <a href='https://www.sketchuptextureclub.com/public/texture_d/0032-polished-brushed-gold-texture-hr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brushed Gold Texture Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/007/448/840/non_2x/gold-metal-background-brushed-metallic-texture-3d-rendering-photo.jpg' alt='Brushed Gold Texture Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/007/448/840/non_2x/gold-metal-background-brushed-metallic-texture-3d-rendering-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brushed Gold 01 | cgbookcase.com">
+                                <img itemprop="contentUrl url" src='https://cdn.cgbookcase.cloud/file/cgbookcase/textures/renders/bg_white/720w/Brushed_gold_01_default.jpg' alt='Brushed Gold 01 | cgbookcase.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CG Bookcase" />
+                                </span>
+                                <a href='https://cdn.cgbookcase.cloud/file/cgbookcase/textures/renders/bg_white/720w/Brushed_gold_01_default.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brushed Gold Texture Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/gold-textured-background_53876-32223.jpg' alt='Brushed Gold Texture Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/gold-textured-background_53876-32223.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Galaxy Wallpaper for Your PC</title>
+                    <meta name="description" content="Explore a breathtaking collection of galaxy wallpapers for your PC, bringing the beauty of the cosmos right to your screen. Perfect for those who appreciate celestial art, these wallpapers will inspire and transform your digital space. Discover your favorite design and elevate your backdrop today!">
+                    <meta name="keywords" content="galaxy wallpaper pc">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy">
+                            <span itemprop="name">Galaxy</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/galaxy/galaxy-wallpaper-pc">
+                            <span itemprop="name">galaxy wallpaper pc</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Galaxy Wallpaper for Your PC</h1>
+                <p>Transform your workspace with stunning galaxy wallpaper for your PC. Dive into a cosmic wonderland filled with vibrant colors and mesmerizing patterns that inspire creativity and tranquility. Whether you love starry nights, colorful nebulas, or expansive galaxies, there’s a perfect wallpaper waiting to be the backdrop of your digital world.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="galaxy wallpapers : HD Wallpapers Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/36/08/e9/3608e9a04f95bde7a84da79bcf432ce2.jpg' alt='galaxy wallpapers : HD Wallpapers Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="424">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/36/08/e9/3608e9a04f95bde7a84da79bcf432ce2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Wallpapers (29 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/b/5/5/23813-3456x1944-desktop-hd-galaxy-wallpaper.jpg' alt='Galaxy Wallpapers (29 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3456">
+                                <meta itemprop="height" content="1944">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/b/5/5/23813-3456x1944-desktop-hd-galaxy-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Best The Milky Way Galaxy Wallpaper FULL HD 1080p For PC ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ff/36/75/ff3675727dfe841f61be5d41f5ee6ba4.jpg' alt='10 Best The Milky Way Galaxy Wallpaper FULL HD 1080p For PC ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ff/36/75/ff3675727dfe841f61be5d41f5ee6ba4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] 4k Ultra Hd Galaxy Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/4k-ultra-hd-galaxy-electric-clouds-fji5pyez6yuuuh35.jpg' alt='100+] 4k Ultra Hd Galaxy Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/4k-ultra-hd-galaxy-electric-clouds-fji5pyez6yuuuh35.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stunning Galaxy HD Wallpaper for Desktop">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/689/thumb-1920-689585.jpg' alt='Stunning Galaxy HD Wallpaper for Desktop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/689/thumb-1920-689585.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50,000+ Best Galaxy Wallpaper Photos · 100% Free Download · Pexels ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/813269/pexels-photo-813269.jpeg?cs=srgb&dl=pexels-minan1398-813269.jpg&fm=jpg' alt='50,000+ Best Galaxy Wallpaper Photos · 100% Free Download · Pexels ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4040">
+                                <meta itemprop="height" content="2304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/813269/pexels-photo-813269.jpeg?cs=srgb&dl=pexels-minan1398-813269.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galactic Wonders: HD Sci-Fi Space Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/101/101692.jpg' alt='Galactic Wonders: HD Sci-Fi Space Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/101/101692.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Wallpaper Desktop 4K">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/download/hd-wallpapers/galaxy-3840x2160.jpg' alt='Galaxy Wallpaper Desktop 4K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/download/hd-wallpapers/galaxy-3840x2160.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Wallpapers: Free HD Download [500+ HQ] | Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1673264933452-b46f800c5797?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Z2FsYXh5JTIwd2FsbHBhcGVyfGVufDB8fDB8fHww' alt='Galaxy Wallpapers: Free HD Download [500+ HQ] | Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1673264933452-b46f800c5797?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Z2FsYXh5JTIwd2FsbHBhcGVyfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wallpaper for desktop, laptop | ma42-blue-galaxy-y-space-nature">
+                                <img itemprop="contentUrl url" src='http://papers.co/wallpaper/papers.co-ma42-blue-galaxy-y-space-nature-36-3840x2400-4k-wallpaper.jpg' alt='wallpaper for desktop, laptop | ma42-blue-galaxy-y-space-nature'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papers.co" />
+                                </span>
+                                <a href='http://papers.co/wallpaper/papers.co-ma42-blue-galaxy-y-space-nature-36-3840x2400-4k-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

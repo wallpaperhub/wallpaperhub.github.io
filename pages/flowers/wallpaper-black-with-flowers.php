@@ -1,0 +1,129 @@
+<title>Elegant Black Floral Wallpaper for Your Home</title>
+                    <meta name="description" content="Add sophistication to your interiors with our exquisite black floral wallpaper. Ideal for creating a bold statement, this stylish design suits any room, enhancing ambiance and aesthetics effortlessly. Discover the perfect blend of elegance and modernity for your home decor today!">
+                    <meta name="keywords" content="wallpaper black with flowers">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flowers">
+                            <span itemprop="name">Flowers</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flowers/wallpaper-black-with-flowers">
+                            <span itemprop="name">wallpaper black with flowers</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Black Floral Wallpaper for Your Home</h1>
+                <p>Transform your space with stunning black wallpaper adorned with elegant floral patterns. This chic design adds a touch of sophistication while providing a bold statement. Perfect for living rooms, bedrooms, or feature walls, black wallpaper with flowers creates an inviting atmosphere that is both stylish and timeless.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Floral II Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.elliecashmandesign.com/media/catalog/product/6/7/67714130c37b2.jpg?optimize=medium&width=345' alt='Dark Floral II Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ellie Cashman Design" />
+                                </span>
+                                <a href='https://www.elliecashmandesign.com/media/catalog/product/6/7/67714130c37b2.jpg?optimize=medium&width=345' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="750+ Dark Flower Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1502736842968-bcaab72d0700?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZGFyayUyMGZsb3dlcnxlbnwwfHwwfHx8MA%3D%3D' alt='750+ Dark Flower Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="5334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1502736842968-bcaab72d0700?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZGFyayUyMGZsb3dlcnxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Classic Minimalist Floral Wallpaper R9302 – Walls Republic US">
+                                <img itemprop="contentUrl url" src='https://wallsrepublic.com/cdn/shop/files/BlackClassicMinimalistFloralWallpaperR9302.jpg?v=1736259188&width=800' alt='Black Classic Minimalist Floral Wallpaper R9302 – Walls Republic US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls Republic" />
+                                </span>
+                                <a href='https://wallsrepublic.com/cdn/shop/files/BlackClassicMinimalistFloralWallpaperR9302.jpg?v=1736259188&width=800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="750+ Dark Flower Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1580124917341-d318cbacc34f?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8ZGFyayUyMGZsb3dlcnxlbnwwfHwwfHx8MA%3D%3D' alt='750+ Dark Flower Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1580124917341-d318cbacc34f?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8ZGFyayUyMGZsb3dlcnxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stunning Contrast Of White And Black Flowers Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/stunning-contrast-of-white-and-black-flowers-x0dlc2ridljrtgzu.jpg' alt='Stunning Contrast Of White And Black Flowers Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/stunning-contrast-of-white-and-black-flowers-x0dlc2ridljrtgzu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower with black background 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/dark-floral-63tgui541zr7652p.jpg' alt='Flower with black background 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/dark-floral-63tgui541zr7652p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="floral | black floral wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3d/de/73/3dde73e8ef244dd5dbfcb0ef4df3f691.jpg' alt='floral | black floral wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3d/de/73/3dde73e8ef244dd5dbfcb0ef4df3f691.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Dark Hd Flowers Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/dark-hd-flowers-lrmv1a4m260852xi.jpg' alt='100+] Dark Hd Flowers Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/dark-hd-flowers-lrmv1a4m260852xi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallderful Green/Black Contact Paper Tropical Floral Wallpaper Peel and  Stick Bathroom Bedroom Vinyl Green Floral Contact Paper for Cabinets Walls  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91oC9+V1ToL.jpg' alt='Wallderful Green/Black Contact Paper Tropical Floral Wallpaper Peel and  Stick Bathroom Bedroom Vinyl Green Floral Contact Paper for Cabinets Walls  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91oC9+V1ToL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper ☆">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bd/f8/7b/bdf87bca8945d95d6594674086bd69bf.jpg' alt='Wallpaper ☆'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bd/f8/7b/bdf87bca8945d95d6594674086bd69bf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

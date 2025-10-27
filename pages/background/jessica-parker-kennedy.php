@@ -1,0 +1,129 @@
+<title>Jessica Parker Kennedy: Rising Star in TV and Film</title>
+                    <meta name="description" content="Discover the journey of Jessica Parker Kennedy, a Canadian actress making waves in the industry. Known for her captivating roles in "The Flash" and "The Secret Circle," she showcases remarkable talent and charisma. Explore her career highlights and contributions to film and television.">
+                    <meta name="keywords" content="jessica parker kennedy">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/jessica-parker-kennedy">
+                            <span itemprop="name">jessica parker kennedy</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Jessica Parker Kennedy: Rising Star in TV and Film</h1>
+                <p>Jessica Parker Kennedy is a talented Canadian actress known for her roles in popular series like "The Flash" and "The Secret Circle." With a flair for portraying strong characters, she captivates audiences through her dynamic performances. Kennedy's dedication to her craft and passion for storytelling continue to inspire fans worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jessica Parker Kennedy - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BYzhjMDczZjItMGE0MC00YTQzLTgzYTYtYjljM2UwMmU0ZDRkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' alt='Jessica Parker Kennedy - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1499">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BYzhjMDczZjItMGE0MC00YTQzLTgzYTYtYjljM2UwMmU0ZDRkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jessica Parker Kennedy - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Jessica_Parker_Kennedy_2013.jpg/1200px-Jessica_Parker_Kennedy_2013.jpg' alt='Jessica Parker Kennedy - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1225">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Jessica_Parker_Kennedy_2013.jpg/1200px-Jessica_Parker_Kennedy_2013.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jessica Parker Kennedy | The Secret Circle Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/secretcircle/images/3/30/0010_%282%29.jpg/revision/latest?cb=20140610194338' alt='Jessica Parker Kennedy | The Secret Circle Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="396">
+                                <meta itemprop="height" content="594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Secret Circle Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/secretcircle/images/3/30/0010_%282%29.jpg/revision/latest?cb=20140610194338' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jessica Parker Kennedy (@jparkerk3) • Instagram photos and videos">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2990412074686783686' alt='Jessica Parker Kennedy (@jparkerk3) • Instagram photos and videos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2990412074686783686' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jessica Parker Kennedy | Live Action Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/live-action/images/0/0f/Jessica_Parker_Kennedy.PNG/revision/latest?cb=20171128185836' alt='Jessica Parker Kennedy | Live Action Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="296">
+                                <meta itemprop="height" content="434">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Action Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/live-action/images/0/0f/Jessica_Parker_Kennedy.PNG/revision/latest?cb=20171128185836' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jessica Parker Kennedy (@jparkerk3) • Instagram photos and videos">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2990412074560957853' alt='Jessica Parker Kennedy (@jparkerk3) • Instagram photos and videos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2990412074560957853' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jessica Parker Kennedy (Creator) - TV Tropes">
+                                <img itemprop="contentUrl url" src='https://static.tvtropes.org/pmwiki/pub/images/jessica_parker_kennedy.jpg' alt='Jessica Parker Kennedy (Creator) - TV Tropes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="271">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TV Tropes" />
+                                </span>
+                                <a href='https://static.tvtropes.org/pmwiki/pub/images/jessica_parker_kennedy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jessica Parker Kennedy - Actress">
+                                <img itemprop="contentUrl url" src='https://ntvb.tmsimg.com/assets/assets/498497_v9_bc.jpg' alt='Jessica Parker Kennedy - Actress'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TV Insider" />
+                                </span>
+                                <a href='https://ntvb.tmsimg.com/assets/assets/498497_v9_bc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Notebook: Jessica Parker Kennedy Composition Notebook, Wide Ruled Paper  Notebook Journal | Wide Blank Lined Workbook for Teens Kids Students #615">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/610PnHkXQdL._AC_UF1000,1000_QL80_.jpg' alt='Notebook: Jessica Parker Kennedy Composition Notebook, Wide Ruled Paper  Notebook Journal | Wide Blank Lined Workbook for Teens Kids Students #615'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/610PnHkXQdL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jessica Parker Kennedy | DC Database | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/marvel_dc/images/e/e8/Jessica_Parker_Kennedy_Mug_2.jpg/revision/latest?cb=20240616142026' alt='Jessica Parker Kennedy | DC Database | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="754">
+                                <meta itemprop="height" content="756">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DC Database - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/marvel_dc/images/e/e8/Jessica_Parker_Kennedy_Mug_2.jpg/revision/latest?cb=20240616142026' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

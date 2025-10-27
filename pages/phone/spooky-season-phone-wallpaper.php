@@ -1,0 +1,129 @@
+<title>Spooky Season Phone Wallpapers for a Hauntingly Good Look</title>
+                    <meta name="description" content="Get in the Halloween spirit with our collection of spooky season phone wallpapers! Explore a mix of haunting designs that transform your device into a festive showcase. Perfect for celebrating fall vibes, these wallpapers are optimized for mobile display, ensuring you enjoy the season wherever you go!">
+                    <meta name="keywords" content="spooky season phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/spooky-season-phone-wallpaper">
+                            <span itemprop="name">spooky season phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spooky Season Phone Wallpapers for a Hauntingly Good Look</h1>
+                <p>As the spooky season approaches, it's time to refresh your phone with eerie and enchanting wallpapers! Choose from a variety of designs featuring haunted houses, jack-o'-lanterns, ghostly apparitions, and autumn landscapes. Celebrate Halloween vibes every time you check your phone with these festive backgrounds that bring the spirit of fall to life!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/99/ea/48/99ea48eebcf58c0fce62f0ed33a4497d.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="580">
+                                <meta itemprop="height" content="1031">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/99/ea/48/99ea48eebcf58c0fce62f0ed33a4497d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spooky Season Phone Wallpaper Halloween Ghost - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/33611791/r/il/c38e7f/4107044978/il_1080xN.4107044978_6b8z.jpg' alt='Spooky Season Phone Wallpaper Halloween Ghost - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/33611791/r/il/c38e7f/4107044978/il_1080xN.4107044978_6b8z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spooky Season Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/37349820/r/il/42edfd/4251358338/il_fullxfull.4251358338_r250.jpg' alt='Spooky Season Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/37349820/r/il/42edfd/4251358338/il_fullxfull.4251358338_r250.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween phone background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7b/b0/70/7bb0705c457b27ed62eee41cbc0efed5.jpg' alt='Halloween phone background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7b/b0/70/7bb0705c457b27ed62eee41cbc0efed5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Background I made in anticipation of spooky season : r/halloween">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/yvg6ihqr7xg91.jpg' alt='Phone Background I made in anticipation of spooky season : r/halloween'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="922">
+                                <meta itemprop="height" content="1518">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/yvg6ihqr7xg91.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Enjoy The Spooky Holiday Season With This Fall Halloween ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/fall-halloween-iphone-rkxv3kvkrso2cj1x.jpg' alt='Download Enjoy The Spooky Holiday Season With This Fall Halloween ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="563">
+                                <meta itemprop="height" content="1075">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/fall-halloween-iphone-rkxv3kvkrso2cj1x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spooky szn wallpapers   | Gallery posted by Cayla Gibson | Lemon8">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7278738182718816773&index=1&sign=25123c78d9e2e507187657bb4460b9c8' alt='Spooky szn wallpapers   | Gallery posted by Cayla Gibson | Lemon8'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="983">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7278738182718816773&index=1&sign=25123c78d9e2e507187657bb4460b9c8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Get ready for the spookiest night of the year with this ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/iphone-cute-halloween-background-beev3d4nnah5bb4k.jpg' alt='Download Get ready for the spookiest night of the year with this ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/iphone-cute-halloween-background-beev3d4nnah5bb4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some Halloween Wallpapers to lock off spooky season : r/halloween">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/some-halloween-wallpapers-to-lock-off-spooky-season-v0-zw90xj9qybmb1.jpg?width=1183&format=pjpg&auto=webp&s=c40b9029a0445273677952fee432118d2fb8d437' alt='Some Halloween Wallpapers to lock off spooky season : r/halloween'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1183">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/some-halloween-wallpapers-to-lock-off-spooky-season-v0-zw90xj9qybmb1.jpg?width=1183&format=pjpg&auto=webp&s=c40b9029a0445273677952fee432118d2fb8d437' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spooky Season iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp10015650.jpg' alt='Spooky Season iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1381">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp10015650.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

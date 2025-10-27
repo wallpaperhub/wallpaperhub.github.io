@@ -1,0 +1,129 @@
+<title>How Long Does a Gun Background Check Take in Nevada?</title>
+                    <meta name="description" content="Discover the timeline for gun background checks in Nevada. Learn how quick the process is and what factors can affect its duration, ensuring you are well-prepared for your firearm purchase.">
+                    <meta name="keywords" content="how long does a background check take for a gun in nv">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/how-long-does-a-background-check-take-for-a-gun-in-nv">
+                            <span itemprop="name">how long does a background check take for a gun in nv</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>How Long Does a Gun Background Check Take in Nevada?</h1>
+                <p>In Nevada, a background check for purchasing a gun typically takes only a few minutes to complete. However, if the check involves complications or if additional information is needed, it may take up to three days. It's essential to get all required documents ready, as this can expedite the process.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nevada Gun Background Checks Suffering Massive Delays & Huge Spike ...">
+                                <img itemprop="contentUrl url" src='http://www.nevadacarry.org/uploads/5/4/2/6/54262223/f4473_orig.jpg' alt='Nevada Gun Background Checks Suffering Massive Delays & Huge Spike ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="634">
+                                <meta itemprop="height" content="663">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nevada Carry" />
+                                </span>
+                                <a href='http://www.nevadacarry.org/uploads/5/4/2/6/54262223/f4473_orig.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Five Questions About Gun Background Checks - WSJ.com">
+                                <img itemprop="contentUrl url" src='http://graphics.wsj.com/gun-check-explainer/img/flow-small.jpg' alt='Five Questions About Gun Background Checks - WSJ.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="461">
+                                <meta itemprop="height" content="818">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="from WSJ Graphics" />
+                                </span>
+                                <a href='http://graphics.wsj.com/gun-check-explainer/img/flow-small.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Universal Background Checks FAQ - Nevada Carry">
+                                <img itemprop="contentUrl url" src='http://www.nevadacarry.org/uploads/5/4/2/6/54262223/how-to-buy-privately-2020-2_orig.png' alt='Universal Background Checks FAQ - Nevada Carry'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1143">
+                                <meta itemprop="height" content="447">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nevada Carry" />
+                                </span>
+                                <a href='http://www.nevadacarry.org/uploads/5/4/2/6/54262223/how-to-buy-privately-2020-2_orig.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nevada Background Check Act Requirements for Private Gun Sales ...">
+                                <img itemprop="contentUrl url" src='https://www.thegerstenlawfirm.com/wp-content/uploads/sites/528/primary-images/334-333.jpg' alt='Nevada Background Check Act Requirements for Private Gun Sales ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="303">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Gersten Law Firm" />
+                                </span>
+                                <a href='https://www.thegerstenlawfirm.com/wp-content/uploads/sites/528/primary-images/334-333.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gun Background Checks by State - Home Security Blog">
+                                <img itemprop="contentUrl url" src='https://www.yourlocalsecurity.com/blog/wp-content/uploads/Gun-Background-Checks-Map_Map-1024x853.jpg' alt='Gun Background Checks by State - Home Security Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ADT" />
+                                </span>
+                                <a href='https://www.yourlocalsecurity.com/blog/wp-content/uploads/Gun-Background-Checks-Map_Map-1024x853.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of Gun Background Checks">
+                                <img itemprop="contentUrl url" src='https://d1w4q6ldc8l0qo.cloudfront.net/media/AN/images/background-checks-guide-history-nics-how-they-work-nics.jpg' alt='The History of Gun Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="634">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FEE.org" />
+                                </span>
+                                <a href='https://d1w4q6ldc8l0qo.cloudfront.net/media/AN/images/background-checks-guide-history-nics-how-they-work-nics.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Gun Laws for 2020: Red Flags & Background Checks - Nevada Carry">
+                                <img itemprop="contentUrl url" src='http://www.nevadacarry.org/uploads/5/4/2/6/54262223/borrowing-a-gun-3_1_orig.png' alt='New Gun Laws for 2020: Red Flags & Background Checks - Nevada Carry'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="897">
+                                <meta itemprop="height" content="377">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nevada Carry" />
+                                </span>
+                                <a href='http://www.nevadacarry.org/uploads/5/4/2/6/54262223/borrowing-a-gun-3_1_orig.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Could you purchase a gun in Nevada? Probably. • MuckRock">
+                                <img itemprop="contentUrl url" src='https://cdn.muckrock.com/news_photos/2017/10/04/purchase.jpg' alt='Could you purchase a gun in Nevada? Probably. • MuckRock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="409">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MuckRock" />
+                                </span>
+                                <a href='https://cdn.muckrock.com/news_photos/2017/10/04/purchase.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Long Does a Gun Background Check Take?– Liberty Home Concealment">
+                                <img itemprop="contentUrl url" src='https://libertyhomeconcealment.com/cdn/shop/articles/How_Long_Does_a_Gun_Background_Check_Take.jpg?v=1643988863' alt='How Long Does a Gun Background Check Take?– Liberty Home Concealment'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="762">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Liberty Home Concealment" />
+                                </span>
+                                <a href='https://libertyhomeconcealment.com/cdn/shop/articles/How_Long_Does_a_Gun_Background_Check_Take.jpg?v=1643988863' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="background check delayed : r/handguns">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/background-check-delayed-v0-tkev3ektq9ba1.jpg?width=640&crop=smart&auto=webp&s=7c0aef4b63a29945dee3ba928dcfba6c2b1c6c27' alt='background check delayed : r/handguns'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/background-check-delayed-v0-tkev3ektq9ba1.jpg?width=640&crop=smart&auto=webp&s=7c0aef4b63a29945dee3ba928dcfba6c2b1c6c27' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

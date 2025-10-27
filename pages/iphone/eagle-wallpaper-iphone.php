@@ -1,0 +1,129 @@
+<title>Stunning Eagle Wallpapers for iPhone</title>
+                    <meta name="description" content="Discover a collection of captivating eagle wallpapers for your iPhone. Featuring high-quality images that showcase the beauty and power of eagles, our selection will elevate your device's aesthetic. Download now to personalize your phone with inspiring wildlife themes!">
+                    <meta name="keywords" content="eagle wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/eagle-wallpaper-iphone">
+                            <span itemprop="name">eagle wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Eagle Wallpapers for iPhone</h1>
+                <p>Transform your iPhone with stunning eagle wallpapers that capture the majesty of these powerful birds. Choose from a variety of designs featuring eagles in flight, perched majestically, or amidst breathtaking landscapes. Perfect for nature lovers and those seeking inspiration, these wallpapers can bring elegance and strength to your device.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Golden Eagle">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e8/c1/72/e8c172ee732b9a67301e254168d25d37.jpg' alt='Golden Eagle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1244">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e8/c1/72/e8c172ee732b9a67301e254168d25d37.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eagle wallpaper for iPhone 6/7 : r/iphonewallpapers">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/f6JLq8buC0CNJhDq-C0VdVISdMM9UOpiSmFQbiy9p80.jpg?width=640&crop=smart&auto=webp&s=8b11478628a9daa07c044005f4d31743ad18d539' alt='Eagle wallpaper for iPhone 6/7 : r/iphonewallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/f6JLq8buC0CNJhDq-C0VdVISdMM9UOpiSmFQbiy9p80.jpg?width=640&crop=smart&auto=webp&s=8b11478628a9daa07c044005f4d31743ad18d539' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Eagle Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/eagle-iphone-eivmocvcfcgogx8z.jpg' alt='100+] Eagle Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1717">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/eagle-iphone-eivmocvcfcgogx8z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flight Of Freedom Bald Eagle iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/56/f5/f5/56f5f594a819d3580e2dbd204db5718a.jpg' alt='Flight Of Freedom Bald Eagle iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/56/f5/f5/56f5f594a819d3580e2dbd204db5718a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eagle Mountains Lake 4K Ultra HD Mobile Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a9/85/33/a985330c8520535a3cf2061a15d1bcb8.jpg' alt='Eagle Mountains Lake 4K Ultra HD Mobile Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a9/85/33/a985330c8520535a3cf2061a15d1bcb8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Tailed Eagle Wallpaper iPhone 11 | iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/phone/images/download/white-tailed-eagle.png' alt='White Tailed Eagle Wallpaper iPhone 11 | iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/phone/images/download/white-tailed-eagle.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gazing Bald Eagle - Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallart.com/media/catalog/product/cache/871f459736130e239a3f5e6472128962/w/0/w08215_-_small.jpg' alt='Gazing Bald Eagle - Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallart" />
+                                </span>
+                                <a href='https://www.wallart.com/media/catalog/product/cache/871f459736130e239a3f5e6472128962/w/0/w08215_-_small.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eagle Illustration Mono Deep Etch iPhone 4K Wallpaper, Dark Mode ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/39484203/r/il/012d22/5461869318/il_fullxfull.5461869318_q2wp.jpg' alt='Eagle Illustration Mono Deep Etch iPhone 4K Wallpaper, Dark Mode ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/39484203/r/il/012d22/5461869318/il_fullxfull.5461869318_q2wp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Bald Eagle Iphone X Nature Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/white-bald-eagle-iphone-x-nature-bjcgr86j9q9avsst.jpg' alt='White Bald Eagle Iphone X Nature Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1820">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/white-bald-eagle-iphone-x-nature-bjcgr86j9q9avsst.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bald Eagle Mobile Phone Wallpaper Pack I - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/50849641/r/il/0f53d4/5871404025/il_1080xN.5871404025_3uqw.jpg' alt='Bald Eagle Mobile Phone Wallpaper Pack I - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/50849641/r/il/0f53d4/5871404025/il_1080xN.5871404025_3uqw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

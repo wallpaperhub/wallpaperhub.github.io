@@ -1,0 +1,129 @@
+<title>Magical Fairy Tail Wallpapers for Your Phone</title>
+                    <meta name="description" content="Discover stunning fairy tail wallpapers for your phone! Featuring whimsical designs that bring magic to your screen. Perfect for fans of fantasy and creativity. Easily download and personalize your device today with enchanting art and vibrant colors! Enhance your mobile experience with a touch of magic.">
+                    <meta name="keywords" content="fairy tail wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/fairy-tail-wallpaper-phone">
+                            <span itemprop="name">fairy tail wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Magical Fairy Tail Wallpapers for Your Phone</h1>
+                <p>Transform your phone's look with enchanting fairy tail wallpaper! Explore whimsical designs featuring magical creatures, lush landscapes, and dreamlike colors that spark joy and inspire creativity. Perfect for lovers of fantasy, these wallpapers will immerse you in a world where imagination knows no bounds. Download your favorites today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fairy Tail Wallpapers (46 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/7/2/5/119938-1080x1920-iphone-1080p-fairy-tail-background-photo.jpg' alt='Fairy Tail Wallpapers (46 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/7/2/5/119938-1080x1920-iphone-1080p-fairy-tail-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Fairy Tail iPhone Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/50/5d/9c/505d9c53596529c21c4a93006ea3a094.jpg' alt='Awesome Fairy Tail iPhone Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1306">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/50/5d/9c/505d9c53596529c21c4a93006ea3a094.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper [anime] : r/fairytail">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/wallpaper-anime-v0-wje6r6cbgf3d1.jpeg?auto=webp&s=a4952dd6188886b4cebd9a94b5fcacdbbdc6796d' alt='Wallpaper [anime] : r/fairytail'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="337">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/wallpaper-anime-v0-wje6r6cbgf3d1.jpeg?auto=webp&s=a4952dd6188886b4cebd9a94b5fcacdbbdc6796d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fairy tail time, anime, fairy tail, natsu, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/38/830/HD-wallpaper-fairy-tail-time-anime-fairy-tail-natsu.jpg' alt='Fairy tail time, anime, fairy tail, natsu, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/38/830/HD-wallpaper-fairy-tail-time-anime-fairy-tail-natsu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fairy Tail - Wallpaper and Scan Gallery - Minitokyo">
+                                <img itemprop="contentUrl url" src='http://download.minitokyo.net/Fairy.Tail.663650.jpg' alt='Fairy Tail - Wallpaper and Scan Gallery - Minitokyo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="455">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Minitokyo" />
+                                </span>
+                                <a href='http://download.minitokyo.net/Fairy.Tail.663650.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Explore the world of Fairy Tail on your iPhone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/fairy-tail-iphone-nldeic3frug0y3qj.jpg' alt='Download Explore the world of Fairy Tail on your iPhone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/fairy-tail-iphone-nldeic3frug0y3qj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fairy Tail Natsu Dragneel Wallpaper Phone by Soristhene on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1b143c53-b20a-498e-b50b-ae6876f08442/ddxx02e-a48d3412-0181-416e-9559-b61d4f6b4055.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFiMTQzYzUzLWIyMGEtNDk4ZS1iNTBiLWFlNjg3NmYwODQ0MlwvZGR4eDAyZS1hNDhkMzQxMi0wMTgxLTQxNmUtOTU1OS1iNjFkNGY2YjQwNTUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.7fBUwyChPr77m29yp64rrPFPQQvqh2KBwadEm97RzcQ' alt='Fairy Tail Natsu Dragneel Wallpaper Phone by Soristhene on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1b143c53-b20a-498e-b50b-ae6876f08442/ddxx02e-a48d3412-0181-416e-9559-b61d4f6b4055.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFiMTQzYzUzLWIyMGEtNDk4ZS1iNTBiLWFlNjg3NmYwODQ0MlwvZGR4eDAyZS1hNDhkMzQxMi0wMTgxLTQxNmUtOTU1OS1iNjFkNGY2YjQwNTUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.7fBUwyChPr77m29yp64rrPFPQQvqh2KBwadEm97RzcQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fairy tail, anime, erza, fairy tail, gray, happy, lucy, natsu, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/785/459/HD-wallpaper-fairy-tail-anime-erza-fairy-tail-gray-happy-lucy-natsu.jpg' alt='Fairy tail, anime, erza, fairy tail, gray, happy, lucy, natsu, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/785/459/HD-wallpaper-fairy-tail-anime-erza-fairy-tail-gray-happy-lucy-natsu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fairy Tail - Desktop Wallpapers, Phone Wallpaper, PFP, Gifs, and More!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/00/d8/a1/00d8a17e4dfc3acf5f0618db8dffa060.jpg' alt='Fairy Tail - Desktop Wallpapers, Phone Wallpaper, PFP, Gifs, and More!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="219">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/00/d8/a1/00d8a17e4dfc3acf5f0618db8dffa060.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Show me your fairy tail wallpapers weebs : r/fairytail">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/krcvbj4b40h41.png' alt='Show me your fairy tail wallpapers weebs : r/fairytail'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="699">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/krcvbj4b40h41.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Kawaii Witch Wallpaper: Cute & Magical Designs</title>
+                    <meta name="description" content="Discover enchanting kawaii witch wallpaper to brighten your devices! Explore a variety of cute designs filled with whimsy and charm, perfect for expressing your love for all things magical. Download now and transform your screen with adorable, colorful art!">
+                    <meta name="keywords" content="kawaii witch wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii">
+                            <span itemprop="name">Kawaii</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii/kawaii-witch-wallpaper">
+                            <span itemprop="name">kawaii witch wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Kawaii Witch Wallpaper: Cute & Magical Designs</h1>
+                <p>Transform your screen with adorable kawaii witch wallpaper! Featuring cute witches, magical elements, and vibrant colors, these wallpapers add a whimsical touch to your devices. Perfect for fans of all things cute and magical, they bring joy and charm to any screen. Embrace your inner witch and download your favorite designs today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Molang Halloween Wallpapers: Discover The Witch Wallpaper of Molang">
+                                <img itemprop="contentUrl url" src='https://molang.com/cdn/shop/products/molanghalloweenwallpapermobile1_577x1024.jpg?v=1634909831' alt='Molang Halloween Wallpapers: Discover The Witch Wallpaper of Molang'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Molang" />
+                                </span>
+                                <a href='https://molang.com/cdn/shop/products/molanghalloweenwallpapermobile1_577x1024.jpg?v=1634909831' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9 Kawaii wallpaper ideas | kawaii wallpaper, witchy wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/0d/37/c7/0d37c74d96c5ce503c6abe3957e266a3.jpg' alt='9 Kawaii wallpaper ideas | kawaii wallpaper, witchy wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="368">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/0d/37/c7/0d37c74d96c5ce503c6abe3957e266a3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Witch Kitties | Cute drawings, Pastel goth art, Cute art">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f3/f9/59/f3f9591eec6e2b58840da0c2d1d0d927.jpg' alt='Witch Kitties | Cute drawings, Pastel goth art, Cute art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f3/f9/59/f3f9591eec6e2b58840da0c2d1d0d927.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Cute Witch Magical Monitor Wallpaper Monitor iMac Computer  Background Instant Digital Download">
+                                <img itemprop="contentUrl url" src='https://v.etsystatic.com/video/upload/q_auto/trim.3D8C6D9E-0E19-45AB-A42E-B0115BBB29E4_s7dqlq.jpg' alt='Kawaii Cute Witch Magical Monitor Wallpaper Monitor iMac Computer  Background Instant Digital Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://v.etsystatic.com/video/upload/q_auto/trim.3D8C6D9E-0E19-45AB-A42E-B0115BBB29E4_s7dqlq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cute Witchy Purple Cauldron Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-witchy-purple-cauldron-hpebf11qn5ujxpgg.jpg' alt='Download Cute Witchy Purple Cauldron Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-witchy-purple-cauldron-hpebf11qn5ujxpgg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Witch Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/flat-halloween-pastel-pattern-background_23-2149712338.jpg' alt='Cute Witch Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/flat-halloween-pastel-pattern-background_23-2149712338.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pastel Witch Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pastel-witch-w4n84sr2ujrerq7o.jpg' alt='100+] Pastel Witch Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pastel-witch-w4n84sr2ujrerq7o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="150 ☽ Pastel Witch ☆ ideas | witch, witch aesthetic, pastel">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/4e/e1/df/4ee1dfa9df4d537170310f373794a66a.jpg' alt='150 ☽ Pastel Witch ☆ ideas | witch, witch aesthetic, pastel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/4e/e1/df/4ee1dfa9df4d537170310f373794a66a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD kawaii witch wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/981/890/HD-wallpaper-boo-halloween-art-kawaii-pastel-witch-ghost-anime-aesthetic.jpg' alt='HD kawaii witch wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/981/890/HD-wallpaper-boo-halloween-art-kawaii-pastel-witch-ghost-anime-aesthetic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Cute witch">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/786361874060767098/F5B6AC5FE9BC9B2DC148E4E1C8FFBE1A28836C36/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::Cute witch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/786361874060767098/F5B6AC5FE9BC9B2DC148E4E1C8FFBE1A28836C36/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>iPhone 13 Schematic Wallpaper: Elevate Your Device</title>
+                    <meta name="description" content="Explore a collection of striking iPhone 13 schematic wallpapers that combine art and technology. Ideal for tech lovers who want to personalize their devices, these unique designs will transform your home screen. Download your favorite now and express your style!">
+                    <meta name="keywords" content="iphone 13 schematic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-13-schematic-wallpaper">
+                            <span itemprop="name">iphone 13 schematic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>iPhone 13 Schematic Wallpaper: Elevate Your Device</h1>
+                <p>Discover stunning iPhone 13 schematic wallpapers! Elevate your device's aesthetic with intricate designs that showcase the elegance of modern technology. Perfect for tech enthusiasts, these wallpapers blend style and innovation, giving your phone a unique touch. Download now and make your iPhone truly stand out with these artistic schematics!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 13 Pro Schematic Wallpapers — Basic Apple Guy">
+                                <img itemprop="contentUrl url" src='https://basicappleguy.com/s/M1Pro.png' alt='iPhone 13 Pro Schematic Wallpapers — Basic Apple Guy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Basic Apple Guy" />
+                                </span>
+                                <a href='https://basicappleguy.com/s/M1Pro.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone 13 & 13 mini schematic : r/iphonewallpapers">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/nGIZwxYVes0gk9StHaUSkhXnVmxMpUSkfKExIXHKQ0s.jpg?auto=webp&s=c5ce37f8bcaf3aae7058854f323b1eb8450b7b32' alt='Iphone 13 & 13 mini schematic : r/iphonewallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="923">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/nGIZwxYVes0gk9StHaUSkhXnVmxMpUSkfKExIXHKQ0s.jpg?auto=webp&s=c5ce37f8bcaf3aae7058854f323b1eb8450b7b32' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 13 Pro Schematic Wallpapers — Basic Apple Guy">
+                                <img itemprop="contentUrl url" src='http://static1.squarespace.com/static/5e949a92e17d55230cd1d44f/t/619d00cd7395fc137c5147f4/1637679311568/iPhone13Schematic3x2.jpg?format=1500w' alt='iPhone 13 Pro Schematic Wallpapers — Basic Apple Guy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Basic Apple Guy" />
+                                </span>
+                                <a href='http://static1.squarespace.com/static/5e949a92e17d55230cd1d44f/t/619d00cd7395fc137c5147f4/1637679311568/iPhone13Schematic3x2.jpg?format=1500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 13 Pro Schematic Wallpapers — Basic Apple Guy">
+                                <img itemprop="contentUrl url" src='https://basicappleguy.com/s/R08135Pro.png' alt='iPhone 13 Pro Schematic Wallpapers — Basic Apple Guy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Basic Apple Guy" />
+                                </span>
+                                <a href='https://basicappleguy.com/s/R08135Pro.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 13 Pro Schematic Wallpapers — Basic Apple Guy">
+                                <img itemprop="contentUrl url" src='https://basicappleguy.com/s/SunsetPro.png' alt='iPhone 13 Pro Schematic Wallpapers — Basic Apple Guy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Basic Apple Guy" />
+                                </span>
+                                <a href='https://basicappleguy.com/s/SunsetPro.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 13 Pro and Pro Max Teardown Wallpapers - iFixit">
+                                <img itemprop="contentUrl url" src='https://valkyrie.cdn.ifixit.com/media/2021/09/30150010/iPhone13Pro_wallpaper_inside.jpg' alt='iPhone 13 Pro and Pro Max Teardown Wallpapers - iFixit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iFixit" />
+                                </span>
+                                <a href='https://valkyrie.cdn.ifixit.com/media/2021/09/30150010/iPhone13Pro_wallpaper_inside.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Basic Apple Guy on X: "iPhone 13 Pro & Pro Max Schematic ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FE4wXHBWUAUAPSo?format=jpg&name=4096x4096' alt='Basic Apple Guy on X: "iPhone 13 Pro & Pro Max Schematic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3460">
+                                <meta itemprop="height" content="3460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FE4wXHBWUAUAPSo?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Basic Apple Guy on X: "iPhone 13 Pro & Pro Max Schematic ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FE6ifsgVcAYadYY?format=jpg&name=4096x4096' alt='Basic Apple Guy on X: "iPhone 13 Pro & Pro Max Schematic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3365">
+                                <meta itemprop="height" content="3365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FE6ifsgVcAYadYY?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 13 Pro Schematic Wallpapers — Basic Apple Guy">
+                                <img itemprop="contentUrl url" src='https://basicappleguy.com/s/XRayPro.png' alt='iPhone 13 Pro Schematic Wallpapers — Basic Apple Guy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Basic Apple Guy" />
+                                </span>
+                                <a href='https://basicappleguy.com/s/XRayPro.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 13 Pro Schematic Wallpapers — Basic Apple Guy">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/098f7281-7183-4a1f-8abc-57302809eabd/schematic.png' alt='iPhone 13 Pro Schematic Wallpapers — Basic Apple Guy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1514">
+                                <meta itemprop="height" content="873">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Basic Apple Guy" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/098f7281-7183-4a1f-8abc-57302809eabd/schematic.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

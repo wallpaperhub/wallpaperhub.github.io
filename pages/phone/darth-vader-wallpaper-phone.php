@@ -1,0 +1,129 @@
+<title>Darth Vader Phone Wallpaper: Epic Designs for Star Wars Fans</title>
+                    <meta name="description" content="Discover stunning Darth Vader phone wallpapers that bring the dark side to your screen! Perfect for Star Wars enthusiasts, our collection offers various designs to suit any style. Download your favorite wallpaper today and transform your device with iconic imagery!">
+                    <meta name="keywords" content="darth vader wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/darth-vader-wallpaper-phone">
+                            <span itemprop="name">darth vader wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Darth Vader Phone Wallpaper: Epic Designs for Star Wars Fans</h1>
+                <p>Darth Vader wallpaper for your phone is a fantastic way to showcase your love for the iconic Star Wars villain. Choose from a variety of striking designs, featuring Darth Vader in action or artistic interpretations. Perfect for fans, these wallpapers add a touch of the dark side to your device while keeping your screen stylish and unique.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Darth Vader Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/darth-vader-iphone-jz6fimldtr55e3u9.jpg' alt='100+] Darth Vader Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/darth-vader-iphone-jz6fimldtr55e3u9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Darth Vader Aesthetic Iphone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/Vader-25_63865036793562.7.jpg' alt='Darth Vader Aesthetic Iphone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Hackster" />
+                                </span>
+                                <a href='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/Vader-25_63865036793562.7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Darth Vader Wallpaper for Phone - HeroWall | Phone Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/a/AVvXsEimvo5ICBCUEHnpDECNHzPt9mNAqzNFz4HYgvGW0mxZ9za5Ew1Zs1BP4eq-dhjit6E49ECRiDlep331feDPdQ9SD-0uXOHfXkfdP469pckC0mjLF0htS2ENtaGDiy2NFOt70bkCMETERxjSaKSqAwgg8BC5iFw9sxsNxmWXBrphcVskIxqrTA_TrTkK554' alt='Darth Vader Wallpaper for Phone - HeroWall | Phone Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="738">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HeroWall" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/a/AVvXsEimvo5ICBCUEHnpDECNHzPt9mNAqzNFz4HYgvGW0mxZ9za5Ew1Zs1BP4eq-dhjit6E49ECRiDlep331feDPdQ9SD-0uXOHfXkfdP469pckC0mjLF0htS2ENtaGDiy2NFOt70bkCMETERxjSaKSqAwgg8BC5iFw9sxsNxmWXBrphcVskIxqrTA_TrTkK554' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I converted this picture of Darth Vader into a phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/i-converted-this-picture-of-darth-vader-into-a-phone-v0-932saz13zo491.jpg?width=1080&crop=smart&auto=webp&s=c1c994365f5d3c8dc8874d7ac10d97b45696cd5b' alt='I converted this picture of Darth Vader into a phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/i-converted-this-picture-of-darth-vader-into-a-phone-v0-932saz13zo491.jpg?width=1080&crop=smart&auto=webp&s=c1c994365f5d3c8dc8874d7ac10d97b45696cd5b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Darth Vader Wallpaper - NawPic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6a/8f/e8/6a8fe8d3260ef040aaf30a2925db85f5.jpg' alt='Darth Vader Wallpaper - NawPic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6a/8f/e8/6a8fe8d3260ef040aaf30a2925db85f5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD darth vader wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/100/795/HD-wallpaper-darth-vader-star-wars-vader.jpg' alt='HD darth vader wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1214">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/100/795/HD-wallpaper-darth-vader-star-wars-vader.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Darth Vader Live Wallpaper for iPhone | Dark Side Star Wars Theme">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7277425005820988704&location=0&aid=1988' alt='Darth Vader Live Wallpaper for iPhone | Dark Side Star Wars Theme'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="404">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7277425005820988704&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Darth Vader Star Wars Cell Phone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/darth-vader-star-wars-cell-phone-cka47xtt9sy7b3y2.jpg' alt='Darth Vader Star Wars Cell Phone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/darth-vader-star-wars-cell-phone-cka47xtt9sy7b3y2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Darth Vader HD Wallpapers for Phone - Heroscreen | Free image ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV9-4Y9fQTnHXmImsz_a3wPlTgu8_VqNPzoONCeTKO4caVmgNQYkngyXIRpTINRNfhF3-_2m2N0mWMkeS-7VFlb18AQuFoTJ-rFNHNrkzsNiH9QRG9U_M4qYw-C5kBr2m5009c8CJHvZ2hWg1gdNlnloPi0LOXhWfl5DFdlDaYLV-fovs9ZR4dQMSxkA/d/darth-vader-amoled-wallpaper-phone-4.png' alt='Darth Vader HD Wallpapers for Phone - Heroscreen | Free image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV9-4Y9fQTnHXmImsz_a3wPlTgu8_VqNPzoONCeTKO4caVmgNQYkngyXIRpTINRNfhF3-_2m2N0mWMkeS-7VFlb18AQuFoTJ-rFNHNrkzsNiH9QRG9U_M4qYw-C5kBr2m5009c8CJHvZ2hWg1gdNlnloPi0LOXhWfl5DFdlDaYLV-fovs9ZR4dQMSxkA/d/darth-vader-amoled-wallpaper-phone-4.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Darth Vader Fantastic HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/Vader-26_63865036969752.5.jpg' alt='Darth Vader Fantastic HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Hackster" />
+                                </span>
+                                <a href='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/Vader-26_63865036969752.5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

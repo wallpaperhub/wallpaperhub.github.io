@@ -1,0 +1,129 @@
+<title>Découvrez les Meilleures Wallpapers iPhone pour Personnaliser Votre Écran</title>
+                    <meta name="description" content="Trouvez des wallpapers iPhone uniques et tendance pour personnaliser votre appareil. Explorez une vaste collection de fonds d'écran qui reflètent votre style et vos passions. Téléchargez dès maintenant et transformez l'apparence de votre iPhone en un clin d'œil !">
+                    <meta name="keywords" content="la wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/la-wallpaper-iphone">
+                            <span itemprop="name">la wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Découvrez les Meilleures Wallpapers iPhone pour Personnaliser Votre Écran</h1>
+                <p>La wallpaper iPhone offre une multitude de choix pour personnaliser votre écran d'accueil. Des paysages époustouflants aux motifs modernes, il existe une illustration pour tous les goûts. Téléchargez facilement des fonds d'écran et transformez l'apparence de votre appareil. Faites de votre iPhone un reflet de votre style !</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="34 Los angeles iphone wallpaper ideas | los angeles, los angeles ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/eb/05/cf/eb05cfdae642a235cc73bb41a2a33ff1.jpg' alt='34 Los angeles iphone wallpaper ideas | los angeles, los angeles ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="898">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/eb/05/cf/eb05cfdae642a235cc73bb41a2a33ff1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Los Angeles, palm, street, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/136/598/HD-wallpaper-los-angeles-palm-street.jpg' alt='Los Angeles, palm, street, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/136/598/HD-wallpaper-los-angeles-palm-street.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Los Angeles Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/los-angeles-iphone-fnerlnzps1bqad1g.jpg' alt='100+] Los Angeles Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/los-angeles-iphone-fnerlnzps1bqad1g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iphone 7 los angeles wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c6/36/ae/c636ae6f688df75f4e2344fdbd7dd7e3.jpg' alt='iphone 7 los angeles wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c6/36/ae/c636ae6f688df75f4e2344fdbd7dd7e3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 Beautiful Los Angeles iPhone X Wallpapers | Preppy Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/f6/49/16/f649160bad93ad1dc22807654dc1d8fb.jpg' alt='20 Beautiful Los Angeles iPhone X Wallpapers | Preppy Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/f6/49/16/f649160bad93ad1dc22807654dc1d8fb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Los Angeles on IOS 16 : r/iphonewallpapers">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/tKdqQZK.jpg' alt='Los Angeles on IOS 16 : r/iphonewallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="924">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.imgur.com/tKdqQZK.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Los Angeles Wallpapers (77 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/7/9/7/294097-1284x2778-iphone-hd-los-angeles-background-image.jpg' alt='Los Angeles Wallpapers (77 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/7/9/7/294097-1284x2778-iphone-hd-los-angeles-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunset Los Angeles, city, los angeles, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/795/68/HD-wallpaper-sunset-los-angeles-city-los-angeles.jpg' alt='Sunset Los Angeles, city, los angeles, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/795/68/HD-wallpaper-sunset-los-angeles-city-los-angeles.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+ Los Angeles Wallpapers | Download Free Images On Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1542737579-ba0a385f3b84?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bG9zJTIwYW5nZWxlc3xlbnwwfHwwfHx8MA%3D%3D' alt='100+ Los Angeles Wallpapers | Download Free Images On Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4494">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1542737579-ba0a385f3b84?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bG9zJTIwYW5nZWxlc3xlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Los Angeles — Jetson Creative">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/535b1632e4b0ab57db46e48b/1607437641359-WO2VX71D3773WK75TN8L/sunrise1.jpg?format=1000w' alt='Los Angeles — Jetson Creative'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="2165">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jetson Creative" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/535b1632e4b0ab57db46e48b/1607437641359-WO2VX71D3773WK75TN8L/sunrise1.jpg?format=1000w' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

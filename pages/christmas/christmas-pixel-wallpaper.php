@@ -1,0 +1,129 @@
+<title>Stunning Christmas Pixel Wallpaper for Festive Vibes</title>
+                    <meta name="description" content="Discover the joy of Christmas with vibrant pixel wallpaper! Perfect for adding a festive touch to your devices, our collection features cheerful designs that capture the holiday spirit. Enhance your screens with pixel art that celebrates the season. Download your favorite today!">
+                    <meta name="keywords" content="christmas pixel wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/christmas-pixel-wallpaper">
+                            <span itemprop="name">christmas pixel wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Christmas Pixel Wallpaper for Festive Vibes</h1>
+                <p>Transform your device with enchanting Christmas pixel wallpaper! Immerse yourself in the festive spirit with vibrant pixel art featuring snowflakes, trees, and jolly Santas. Perfect for creating a cozy, holiday atmosphere, these wallpapers provide a cheerful backdrop for your screens. Celebrate the season in pixel-perfect style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Merry X'mas, Pixel Jeff">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/39/b9/4e/39b94e67b72156a364c7271805b25098.gif' alt='Merry X'mas, Pixel Jeff'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/39/b9/4e/39b94e67b72156a364c7271805b25098.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel Christmas, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/664/664/HD-wallpaper-pixel-christmas.jpg' alt='Pixel Christmas, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/664/664/HD-wallpaper-pixel-christmas.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 bit Christmas Tree, chrstmas, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/847/407/HD-wallpaper-8-bit-christmas-tree-chrstmas.jpg' alt='8 bit Christmas Tree, chrstmas, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/847/407/HD-wallpaper-8-bit-christmas-tree-chrstmas.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Pixel art illustration Christmas background ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/pixel-art-illustration-christmas-background-pixelated-christmas-christmas-house-home-background_1038602-1000.jpg' alt='Premium Vector | Pixel art illustration Christmas background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="391">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/pixel-art-illustration-christmas-background-pixelated-christmas-christmas-house-home-background_1038602-1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Pixel Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp7867185.png' alt='Christmas Pixel Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp7867185.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::pixel-christmas">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/947343832949182728/3485AC0148E53D8A84BE37F120C09A0451978213/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::pixel-christmas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/947343832949182728/3485AC0148E53D8A84BE37F120C09A0451978213/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Wednesday — No. 20 « SpareType">
+                                <img itemprop="contentUrl url" src='http://www.sparetype.com/wp-content/uploads/2012/12/pixel_christmas_2012_2560x1440.jpg' alt='Wallpaper Wednesday — No. 20 « SpareType'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SpareType" />
+                                </span>
+                                <a href='http://www.sparetype.com/wp-content/uploads/2012/12/pixel_christmas_2012_2560x1440.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel Wallpaper Chirstmas Vectors & Illustrations for Free ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/christmas-pixel-art-illustration_23-2149761515.jpg' alt='Pixel Wallpaper Chirstmas Vectors & Illustrations for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/christmas-pixel-art-illustration_23-2149761515.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Christmas Wallpapers for iPhone - Cute and Vintage Backgrounds">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/34/4e/7c/344e7c356e8abe2a939b7a63cab4e238.jpg' alt='25 Christmas Wallpapers for iPhone - Cute and Vintage Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/34/4e/7c/344e7c356e8abe2a939b7a63cab4e238.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="38,307 Christmas Pixel Background Royalty-Free Photos and Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/pixel-art-christmas-background-merry-600nw-2224042697.jpg' alt='38,307 Christmas Pixel Background Royalty-Free Photos and Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="342">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/pixel-art-christmas-background-merry-600nw-2224042697.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Black and White Roses: A Visual Delight</title>
+                    <meta name="description" content="Explore the captivating beauty of black and white roses. This unique floral combination symbolizes elegance and mystery, making it perfect for any occasion. Discover how to incorporate these striking blooms into your decor, weddings, and artistic expressions.">
+                    <meta name="keywords" content="rose black and white">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rose-black-and-white">
+                            <span itemprop="name">rose black and white</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Black and White Roses: A Visual Delight</h1>
+                <p>Rose black and white is a stunning visual representation that evokes elegance and sophistication. The juxtaposition of deep black petals against creamy white blooms creates a striking contrast, often symbolizing mystery and purity in the realm of flower art. This unique color combination is perfect for various occasions, from weddings to artistic decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Single White Rose Black And White by Garry Gay">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/single-white-rose-black-and-white-garry-gay.jpg' alt='Single White Rose Black And White by Garry Gay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Garry Gay - Pixels" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/single-white-rose-black-and-white-garry-gay.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rose Black And White Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/022/690/592/non_2x/hand-drawn-roses-sketch-rose-flowers-with-leaves-black-and-white-vintage-etching-botanical-vector.jpg' alt='Rose Black And White Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/022/690/592/non_2x/hand-drawn-roses-sketch-rose-flowers-with-leaves-black-and-white-vintage-etching-botanical-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rose Black And White Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTExL3Jhd3BpeGVsX29mZmljZV8zMV9yZWFsaXN0aWNfc2tldGNoaW5nX2RyYXdpbmdfdmludGFnZV9yb3NlX2Zsb19jNDFkYTZkNC0xOTAwLTRhNjAtYjI3My1mYzQ2M2RkMTExZjEucG5n.png' alt='Rose Black And White Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1210">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTExL3Jhd3BpeGVsX29mZmljZV8zMV9yZWFsaXN0aWNfc2tldGNoaW5nX2RyYXdpbmdfdmludGFnZV9yb3NlX2Zsb19jNDFkYTZkNC0xOTAwLTRhNjAtYjI3My1mYzQ2M2RkMTExZjEucG5n.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1000+ Black And White Rose Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1456659122552-6ee1788174bb?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YmxhY2slMjBhbmQlMjB3aGl0ZSUyMHJvc2V8ZW58MHx8MHx8fDA%3D' alt='1000+ Black And White Rose Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1456659122552-6ee1788174bb?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YmxhY2slMjBhbmQlMjB3aGl0ZSUyMHJvc2V8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and white rose hand drawn. Plants and flowers. Decorative ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2GA1W06/black-and-white-rose-hand-drawn-plants-and-flowers-decorative-design-vector-isolated-outline-illustration-2GA1W06.jpg' alt='Black and white rose hand drawn. Plants and flowers. Decorative ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2GA1W06/black-and-white-rose-hand-drawn-plants-and-flowers-decorative-design-vector-isolated-outline-illustration-2GA1W06.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Realistic Roses Black And White Paint By Numbers - Numeral Paint Kit">
+                                <img itemprop="contentUrl url" src='https://numeralpaint.com/wp-content/uploads/2021/07/realistic-roses-black-and-white-paint-by-number-1.jpg' alt='Realistic Roses Black And White Paint By Numbers - Numeral Paint Kit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="519">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Numeral Paint Kit" />
+                                </span>
+                                <a href='https://numeralpaint.com/wp-content/uploads/2021/07/realistic-roses-black-and-white-paint-by-number-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,910 Black White Clipart Roses Royalty-Free Images, Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/rose-flower-vector-illustration-lineart-600nw-2320245539.jpg' alt='4,910 Black White Clipart Roses Royalty-Free Images, Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="435">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/rose-flower-vector-illustration-lineart-600nw-2320245539.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and white rose, Fine art, Print, Home and living, Home decor, Art,  Photography, Flower Photography, Wall hangings">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/33535118/r/il/ab4932/3566160120/il_340x270.3566160120_r44l.jpg' alt='Black and white rose, Fine art, Print, Home and living, Home decor, Art,  Photography, Flower Photography, Wall hangings'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="340">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/33535118/r/il/ab4932/3566160120/il_340x270.3566160120_r44l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black And White Rose Images – Browse 1,851,466 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/14/13/82/360_F_114138294_vaej1rJGvSkAmW2fMv2jagwxgoEEnuAZ.jpg' alt='Black And White Rose Images – Browse 1,851,466 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="818">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/14/13/82/360_F_114138294_vaej1rJGvSkAmW2fMv2jagwxgoEEnuAZ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rose Black And White Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA0L3YxMDYzLTEyYy5qcGc.jpg' alt='Rose Black And White Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA0L3YxMDYzLTEyYy5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

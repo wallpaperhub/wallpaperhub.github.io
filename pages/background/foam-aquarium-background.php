@@ -1,0 +1,129 @@
+<title>Transform Your Aquarium with Foam Backgrounds</title>
+                    <meta name="description" content="Discover the beauty of foam aquarium backgrounds! Enhance your tank's appeal with lightweight, waterproof designs that add depth and natural hiding spots for your fish. Create a stunning and inviting aquatic habitat with our stylish foam backgrounds today!">
+                    <meta name="keywords" content="foam aquarium background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/foam-aquarium-background">
+                            <span itemprop="name">foam aquarium background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Aquarium with Foam Backgrounds</h1>
+                <p>Foam aquarium backgrounds are a fantastic way to enhance the aesthetic of your aquatic environment. Available in a variety of textures and colors, these lightweight and waterproof backgrounds create depth and hide unsightly tank equipment. They also provide hiding spots for fish and contribute to a more natural habitat.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Easy 3D Aquarium Background - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/cq5QVBMJ81c/hqdefault.jpg' alt='Easy 3D Aquarium Background - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/cq5QVBMJ81c/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Make Your Own 3-D Aquarium Background Using Foam-iT! 5 Rigid Foam">
+                                <img itemprop="contentUrl url" src='https://www.smooth-on.com/images//24865/tank_2.jpg' alt='Make Your Own 3-D Aquarium Background Using Foam-iT! 5 Rigid Foam'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reynolds Advanced Materials" />
+                                </span>
+                                <a href='https://www.smooth-on.com/images//24865/tank_2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DIY - How to make Custom 3D Aquarium Background for under 20 ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/S3G7Kmi9XFw/sddefault.jpg' alt='DIY - How to make Custom 3D Aquarium Background for under 20 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/S3G7Kmi9XFw/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Make Your Own 3-D Aquarium Background Using Foam-iT! 5 Rigid Foam">
+                                <img itemprop="contentUrl url" src='https://www.smooth-on.com/images//24865/foam_wall_side_view_with_outline_drawn.jpg' alt='Make Your Own 3-D Aquarium Background Using Foam-iT! 5 Rigid Foam'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reynolds Advanced Materials" />
+                                </span>
+                                <a href='https://www.smooth-on.com/images//24865/foam_wall_side_view_with_outline_drawn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Make Your Own 3-D Aquarium Background Using Foam-iT! 5 Rigid Foam">
+                                <img itemprop="contentUrl url" src='https://www.smooth-on.com/images//24865/tank_1_2.jpg' alt='Make Your Own 3-D Aquarium Background Using Foam-iT! 5 Rigid Foam'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reynolds Advanced Materials" />
+                                </span>
+                                <a href='https://www.smooth-on.com/images//24865/tank_1_2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Foam for Aquarium Background| Styrofoam, EPS & Polystyrene blocks ...">
+                                <img itemprop="contentUrl url" src='https://univfoam.com/projects/foam-for-aquarium-background/images/3d-aquarium-background.webp' alt='Foam for Aquarium Background| Styrofoam, EPS & Polystyrene blocks ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="434">
+                                <meta itemprop="height" content="572">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Universal Foam Products" />
+                                </span>
+                                <a href='https://univfoam.com/projects/foam-for-aquarium-background/images/3d-aquarium-background.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made this background with spray foam should I seal it with ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/cs9ysvgsdxt81.jpg' alt='I made this background with spray foam should I seal it with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4032">
+                                <meta itemprop="height" content="3024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/cs9ysvgsdxt81.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Foam Aquarium Background - Hot Wire Foam Factory">
+                                <img itemprop="contentUrl url" src='https://gallery.hotwirefoamfactory.com/wp-content/uploads/2014/07/Craft_HGDRN_frankh_05.jpg' alt='Foam Aquarium Background - Hot Wire Foam Factory'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="372">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Foam Art Gallery! - Hot Wire Foam Factory" />
+                                </span>
+                                <a href='https://gallery.hotwirefoamfactory.com/wp-content/uploads/2014/07/Craft_HGDRN_frankh_05.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Easiest way to create a 3D background for aquarium : r/Aquariums">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/crf1r8xmecd61.jpg' alt='Easiest way to create a 3D background for aquarium : r/Aquariums'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4032">
+                                <meta itemprop="height" content="3024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/crf1r8xmecd61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DIY 3D Styrofoam Aquarium Background with DIY Roots - US Native ...">
+                                <img itemprop="contentUrl url" src='https://www.monsterfishkeepers.com/forums/proxy.php?image=https%3A%2F%2Fimg.photobucket.com%2Falbums%2Fv19%2Ffatboykevin%2FIMG_1810_zpsja8u2am8.jpg&hash=e06d0959ab7dca127915611847b9983a' alt='DIY 3D Styrofoam Aquarium Background with DIY Roots - US Native ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="807">
+                                <meta itemprop="height" content="605">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Monster Fish Keepers" />
+                                </span>
+                                <a href='https://www.monsterfishkeepers.com/forums/proxy.php?image=https%3A%2F%2Fimg.photobucket.com%2Falbums%2Fv19%2Ffatboykevin%2FIMG_1810_zpsja8u2am8.jpg&hash=e06d0959ab7dca127915611847b9983a' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

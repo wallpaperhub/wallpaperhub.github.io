@@ -1,0 +1,129 @@
+<title>Pride Cat Wallpaper: Colorful & Inclusive Screen Designs</title>
+                    <meta name="description" content="Discover our vibrant pride cat wallpaper collection! Celebrate diversity with adorable cats in rainbow colors, perfect for adding a splash of joy to your device. Ideal for showing support during pride events or everyday inspiration. Download now and embrace love and inclusivity!">
+                    <meta name="keywords" content="pride cat wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cat">
+                            <span itemprop="name">Cat</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cat/pride-cat-wallpaper">
+                            <span itemprop="name">pride cat wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Pride Cat Wallpaper: Colorful & Inclusive Screen Designs</h1>
+                <p>Transform your device with our stunning pride cat wallpaper! Celebrate love and inclusivity with vibrant designs featuring adorable cats adorned in rainbow colors. Perfect for any pride event or simply to express your support, these wallpapers will brighten your screen and uplift your spirit every day.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pride Cat wallpaper by Suna_48 - Download on ZEDGE™ | c15b">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d6/ae/ef/d6aeef62b6b97671ede2a9e575ff8ef6.jpg' alt='Pride Cat wallpaper by Suna_48 - Download on ZEDGE™ | c15b'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d6/ae/ef/d6aeef62b6b97671ede2a9e575ff8ef6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iphone wallpaper free">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3c/77/69/3c77696e6e2462c77e27995ec860444f.jpg' alt='iphone wallpaper free'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3c/77/69/3c77696e6e2462c77e27995ec860444f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Holly    - Pride Cats">
+                                <img itemprop="contentUrl url" src='https://cdnb.artstation.com/p/assets/images/images/006/792/757/medium/the-oceanowl-lgbt-cat-pattern-preview.jpg?1501268739' alt='Holly    - Pride Cats'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Holly   " />
+                                </span>
+                                <a href='https://cdnb.artstation.com/p/assets/images/images/006/792/757/medium/the-oceanowl-lgbt-cat-pattern-preview.jpg?1501268739' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pride Cats Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11547428.jpg' alt='Pride Cats Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="701">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11547428.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD pride cat wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/949/206/HD-wallpaper-gay-cat-lgbtq-lgbtq-pride-kitty-homosexual-thumbnail.jpg' alt='HD pride cat wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="751">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/949/206/HD-wallpaper-gay-cat-lgbtq-lgbtq-pride-kitty-homosexual-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gay Pride Cat Digital Clip Art for Personal and Commercial Use INSTANT  DOWNLOAD - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/6786938/r/il/c9a1e2/787087212/il_1080xN.787087212_5t7v.jpg' alt='Gay Pride Cat Digital Clip Art for Personal and Commercial Use INSTANT  DOWNLOAD - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="726">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/6786938/r/il/c9a1e2/787087212/il_1080xN.787087212_5t7v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some kitty pride wallpapers to say thank you! : r/lgbt">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/some-kitty-pride-wallpapers-to-say-thank-you-v0-r9gf9nwyyxyb1.jpg?width=640&crop=smart&auto=webp&s=435939ebbe3907705836e82c61c14757ec36bcce' alt='Some kitty pride wallpapers to say thank you! : r/lgbt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/some-kitty-pride-wallpapers-to-say-thank-you-v0-r9gf9nwyyxyb1.jpg?width=640&crop=smart&auto=webp&s=435939ebbe3907705836e82c61c14757ec36bcce' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pride flag collection} cat wallpaper by TodoXsoba on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0696bb16-9daf-45f4-a94f-2bc8aaba90b6/denlwcd-808da7a6-69a3-4709-9c1f-252227406065.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA2OTZiYjE2LTlkYWYtNDVmNC1hOTRmLTJiYzhhYWJhOTBiNlwvZGVubHdjZC04MDhkYTdhNi02OWEzLTQ3MDktOWMxZi0yNTIyMjc0MDYwNjUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.dalbLaQuLgFqg9ZLMxlZlpm3mNIBMa-ApcaMh9jGeI4' alt='Pride flag collection} cat wallpaper by TodoXsoba on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0696bb16-9daf-45f4-a94f-2bc8aaba90b6/denlwcd-808da7a6-69a3-4709-9c1f-252227406065.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA2OTZiYjE2LTlkYWYtNDVmNC1hOTRmLTJiYzhhYWJhOTBiNlwvZGVubHdjZC04MDhkYTdhNi02OWEzLTQ3MDktOWMxZi0yNTIyMjc0MDYwNjUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.dalbLaQuLgFqg9ZLMxlZlpm3mNIBMa-ApcaMh9jGeI4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pride Cats Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11970912.jpg' alt='Pride Cats Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11970912.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pan Cat, pan pride, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/618/915/HD-wallpaper-pan-cat-pan-pride.jpg' alt='Pan Cat, pan pride, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/618/915/HD-wallpaper-pan-cat-pan-pride.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

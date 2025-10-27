@@ -1,0 +1,129 @@
+<title>Stunning Blue Floral Wallpaper for iPhone</title>
+                    <meta name="description" content="Enhance your iPhone's look with our beautiful blue floral wallpaper! Perfect for a fresh, stylish update, this stunning design combines elegance and nature. Download now for an instant transformation that showcases your unique style!">
+                    <meta name="keywords" content="blue floral wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/blue-floral-wallpaper-iphone">
+                            <span itemprop="name">blue floral wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Blue Floral Wallpaper for iPhone</h1>
+                <p>Transform your iPhone with our stunning blue floral wallpaper! Perfect for nature lovers, this design brings a touch of elegance to your device. With intricate patterns and vibrant hues, your screen will radiate style and charm. Upgrade your phone's aesthetic and express your personality with this beautiful floral backdrop!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="April Floral Desktop and iPhone Backgrounds (FREE)">
+                                <img itemprop="contentUrl url" src='http://bit.ly/3M3JPjZ' alt='April Floral Desktop and iPhone Backgrounds (FREE)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Danielle Moss" />
+                                </span>
+                                <a href='http://bit.ly/3M3JPjZ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+ Darling Aesthetic Spring Wallpaper For iPhone (Free Download)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/06/d5/0f/06d50fcc2c390e1a8351515d8cc915b5.jpg' alt='100+ Darling Aesthetic Spring Wallpaper For iPhone (Free Download)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="563">
+                                <meta itemprop="height" content="1003">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/06/d5/0f/06d50fcc2c390e1a8351515d8cc915b5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Floral Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/blue-floral-iphone-6uvukvtbjjhww5mf.jpg' alt='Blue Floral Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/blue-floral-iphone-6uvukvtbjjhww5mf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download premium image of Blue flowers iPhone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/c2/bd/23/c2bd23d2b60624f720b6e6babcaf8d8d.jpg' alt='Download premium image of Blue flowers iPhone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="562">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/c2/bd/23/c2bd23d2b60624f720b6e6babcaf8d8d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral wallpaper in blue">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/8b/a8/e1/8ba8e1dd21e1e5f6deaf2f1dfaf47809.jpg' alt='Floral wallpaper in blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/8b/a8/e1/8ba8e1dd21e1e5f6deaf2f1dfaf47809.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral iPhone Wallpaper - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35523438/r/il/23e7cb/3844265172/il_570xN.3844265172_qodv.jpg' alt='Floral iPhone Wallpaper - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1249">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35523438/r/il/23e7cb/3844265172/il_570xN.3844265172_qodv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wildflower . Simple phone, Flower iphone, Simple iphone, Cute Blue ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/615/862/HD-wallpaper-wildflower-simple-phone-flower-iphone-simple-iphone-cute-blue-floral.jpg' alt='Wildflower . Simple phone, Flower iphone, Simple iphone, Cute Blue ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/615/862/HD-wallpaper-wildflower-simple-phone-flower-iphone-simple-iphone-cute-blue-floral.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ce/02/c2/ce02c23f9362291eb904eb229782b1c0.jpg' alt='Floral wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1177">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ce/02/c2/ce02c23f9362291eb904eb229782b1c0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Most Popular Blue Flower Original iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/iphone/26653645079582618-65836075393175074.jpg' alt='Most Popular Blue Flower Original iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2163">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/iphone/26653645079582618-65836075393175074.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Floral Spring iPhone and Background. Floral iphone, iPhone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/554/70/HD-wallpaper-cute-floral-spring-iphone-and-background-floral-iphone-iphone-spring-watercolor-iphone-cute-blue-floral.jpg' alt='Cute Floral Spring iPhone and Background. Floral iphone, iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1731">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/554/70/HD-wallpaper-cute-floral-spring-iphone-and-background-floral-iphone-iphone-spring-watercolor-iphone-cute-blue-floral.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Aesthetic Leaves iPhone Wallpapers: Nature's Touch</title>
+                    <meta name="description" content="Discover a beautiful collection of aesthetic leaves wallpapers for your iPhone. Enhance your device with nature-inspired designs that offer a refreshing and calming aesthetic. Perfect for adding a touch of greenery to your screen while keeping it stylish and trendy!">
+                    <meta name="keywords" content="aesthetic leaves wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/aesthetic-leaves-wallpaper-iphone">
+                            <span itemprop="name">aesthetic leaves wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Leaves iPhone Wallpapers: Nature's Touch</h1>
+                <p>Aesthetic leaves wallpaper for iPhones brings a touch of nature to your device. With various shades of green and intricate leaf patterns, these wallpapers create a calming and refreshing vibe. Elevate your phone's aesthetic and enjoy the tranquility of nature in your pocket, inspiring you every time you unlock your screen.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300+] Leaves Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/leaves-iphone-sfgdjf43w0k5rebc.jpg' alt='300+] Leaves Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="507">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/leaves-iphone-sfgdjf43w0k5rebc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper iphone - aesthetic green leaves">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e6/2d/23/e62d23e6df3bb25160dd9865972f65da.jpg' alt='Wallpaper iphone - aesthetic green leaves'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e6/2d/23/e62d23e6df3bb25160dd9865972f65da.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Frames Leaves Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/gold-frames-leaves-iphone-g6264tzxwd4ny0u2.jpg' alt='Gold Frames Leaves Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/gold-frames-leaves-iphone-g6264tzxwd4ny0u2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download free Dark Aesthetic Leaves Iphone Wallpaper - MrWallpaper.com">
+                                <img itemprop="contentUrl url" src='https://mrwallpaper.com/images/high/dark-aesthetic-leaves-iphone-xu572bu96b0zbhed.jpg' alt='Download free Dark Aesthetic Leaves Iphone Wallpaper - MrWallpaper.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="507">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrWallpaper" />
+                                </span>
+                                <a href='https://mrwallpaper.com/images/high/dark-aesthetic-leaves-iphone-xu572bu96b0zbhed.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AESTHETIC PALM LEAVES WALLPAPER - Heroscreen | Free image stock ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5A3kktxdup8G54KrL70jgx1ercGTA5ZHWPxY9eCF0M-UUaJn88R0p4s9GEyHjXm6Fj0MnUCiJKZnRcaKeXpGk2kvVWxnIN7ZkAMlbgFNfZ3fJeF9VSogiy5Mx8eLQ5S9TumWAjssC4IV-/d/3d-colored-palm-leaves-assortment.jpg' alt='AESTHETIC PALM LEAVES WALLPAPER - Heroscreen | Free image stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5A3kktxdup8G54KrL70jgx1ercGTA5ZHWPxY9eCF0M-UUaJn88R0p4s9GEyHjXm6Fj0MnUCiJKZnRcaKeXpGk2kvVWxnIN7ZkAMlbgFNfZ3fJeF9VSogiy5Mx8eLQ5S9TumWAjssC4IV-/d/3d-colored-palm-leaves-assortment.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Wallpaper Leaf Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3BmLTItamlyLTA3MjItY2hpbS0wMWEtam9iNTcwLTIuanBn.jpg' alt='Iphone Wallpaper Leaf Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3BmLTItamlyLTA3MjItY2hpbS0wMWEtam9iNTcwLTIuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4c/05/67/4c0567c6d5798345581d9305ab787783.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="718">
+                                <meta itemprop="height" content="1242">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4c/05/67/4c0567c6d5798345581d9305ab787783.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Monstera Leaves Iphone Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/monstera-leaves-iphone-9qiwis3w3ozjtqk9.jpg' alt='Download Monstera Leaves Iphone Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="864">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/monstera-leaves-iphone-9qiwis3w3ozjtqk9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Leaves Iphone Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/wet-monstera-plant-leaves-mobile-wallpaper_53876-146899.jpg' alt='Green Leaves Iphone Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="352">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/wet-monstera-plant-leaves-mobile-wallpaper_53876-146899.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download free Leaves Iphone Minimalist Wallpaper - MrWallpaper.com">
+                                <img itemprop="contentUrl url" src='https://mrwallpaper.com/images/thumbnail/leaves-iphone-minimalist-wdg9of8wfil2haq1.webp' alt='Download free Leaves Iphone Minimalist Wallpaper - MrWallpaper.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrWallpaper" />
+                                </span>
+                                <a href='https://mrwallpaper.com/images/thumbnail/leaves-iphone-minimalist-wdg9of8wfil2haq1.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

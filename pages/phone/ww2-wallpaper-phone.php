@@ -1,0 +1,129 @@
+<title>WW2 Phone Wallpapers: History at Your Fingertips</title>
+                    <meta name="description" content="Explore captivating World War II wallpapers for your phone. Perfectly designed for enthusiasts, our collection showcases powerful imagery and moments from history. Elevate your device's style while keeping the spirit of bravery and resilience alive. Download your favorites today!">
+                    <meta name="keywords" content="ww2 wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/ww2-wallpaper-phone">
+                            <span itemprop="name">ww2 wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>WW2 Phone Wallpapers: History at Your Fingertips</h1>
+                <p>Discover our stunning World War II wallpaper for your phone, featuring iconic imagery and historical moments from the battlefield. Perfect for history buffs and anyone captivated by the resilience and bravery of those who lived through this era. Enhance your device with these unique designs that inspire and educate.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Ww2 Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/ww2-iphone-8fjzvy4z3hg5vvo5.jpg' alt='100+] Ww2 Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="909">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/ww2-iphone-8fjzvy4z3hg5vvo5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="US Marines, World War II, soldier, guerra, artwork, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/483/651/HD-wallpaper-us-marines-world-war-ii-soldier-war-artwork.jpg' alt='US Marines, World War II, soldier, guerra, artwork, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/483/651/HD-wallpaper-us-marines-world-war-ii-soldier-war-artwork.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Created a sherman phone wallpaper : r/WorldofTanks">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/01ffmtgbnp881.jpg?width=1080&crop=smart&auto=webp&s=c3f350fd7882de7eb25e707976c72d2ca0c812e3' alt='Created a sherman phone wallpaper : r/WorldofTanks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1323">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/01ffmtgbnp881.jpg?width=1080&crop=smart&auto=webp&s=c3f350fd7882de7eb25e707976c72d2ca0c812e3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Call of Duty: WW2 wallpapers or desktop backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.gamewallpapers.com/img_script/mobile_dir2/img.php?src=wallpaper_call_of_duty_ww2_01_1440x2560.jpg&width=253&height=450&crop-to-fit&sharpen' alt='Call of Duty: WW2 wallpapers or desktop backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="253">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameWallpapers.com" />
+                                </span>
+                                <a href='https://www.gamewallpapers.com/img_script/mobile_dir2/img.php?src=wallpaper_call_of_duty_ww2_01_1440x2560.jpg&width=253&height=450&crop-to-fit&sharpen' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ultra Hd wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/98/88/fb/9888fb985642ebe55a648635bc033280.jpg' alt='Ultra Hd wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/98/88/fb/9888fb985642ebe55a648635bc033280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CALL OF DUTY WWII Wallpapers in Ultra HD | 4K - Gameranx">
+                                <img itemprop="contentUrl url" src='https://gameranx.com/wp-content/uploads/2017/05/CALL-OF-DUTY-WWII-1080P-Wallpaper.jpg' alt='CALL OF DUTY WWII Wallpapers in Ultra HD | 4K - Gameranx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gameranx" />
+                                </span>
+                                <a href='https://gameranx.com/wp-content/uploads/2017/05/CALL-OF-DUTY-WWII-1080P-Wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WW2, airplane, aviation, military, guerra, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/847/743/HD-wallpaper-ww2-airplane-aviation-military-war.jpg' alt='WW2, airplane, aviation, military, guerra, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/847/743/HD-wallpaper-ww2-airplane-aviation-military-war.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mobile World War 2 Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp2745523.jpg' alt='Mobile World War 2 Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp2745523.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Ww2 Iphone Tank Bw Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/ww2-iphone-8ctv09heh1rgsfug.jpg' alt='Download Ww2 Iphone Tank Bw Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/ww2-iphone-8ctv09heh1rgsfug.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="World War II Phone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/633/633271.jpg' alt='World War II Phone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/633/633271.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

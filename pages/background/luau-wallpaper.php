@@ -1,0 +1,129 @@
+<title>Vibrant Luau Wallpaper for Tropical Décor</title>
+                    <meta name="description" content="Discover our stunning collection of luau wallpaper, featuring festive tropical designs. Perfect for adding a lively touch to any room, this wallpaper will transform your decor into a vibrant island getaway. Ideal for homes, events, or parties. Shop now to bring the tropics home!">
+                    <meta name="keywords" content="luau wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/luau-wallpaper">
+                            <span itemprop="name">luau wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Luau Wallpaper for Tropical Décor</h1>
+                <p>Transform your space with vibrant luau wallpaper, perfect for bringing the spirit of the tropics into your home. Featuring lively patterns of palm trees, hibiscus flowers, and tiki motifs, our collections create a cheerful ambiance. Ideal for parties or everyday decor, unleash your inner island vibe with delightful luau-inspired designs!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luau Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-drawn-hawaiian-aesthetic-background_52683-155310.jpg' alt='Luau Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-drawn-hawaiian-aesthetic-background_52683-155310.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Luau Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/luau-background-1276-x-911-50x05q61754fmpcm.jpg' alt='100+] Luau Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1276">
+                                <meta itemprop="height" content="911">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/luau-background-1276-x-911-50x05q61754fmpcm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luau Background Images – Browse 8,227 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/54/97/45/360_F_254974589_Dn1hSUy1FgCoYsjmyxOUqqckQDjsJVMM.jpg' alt='Luau Background Images – Browse 8,227 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="578">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/54/97/45/360_F_254974589_Dn1hSUy1FgCoYsjmyxOUqqckQDjsJVMM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luau Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/realistic-summer-background_52683-61336.jpg' alt='Luau Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/realistic-summer-background_52683-61336.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,100+ Luau Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/537989397/vector/vintage-seamless-tropical-flowers-with-pineapple-vector-pattern-background.jpg?s=612x612&w=0&k=20&c=xsFHr6PRukQnNyxRFPDNG7prv_31EYRQ3HQeWrqNxew=' alt='1,100+ Luau Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="505">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/537989397/vector/vintage-seamless-tropical-flowers-with-pineapple-vector-pattern-background.jpg?s=612x612&w=0&k=20&c=xsFHr6PRukQnNyxRFPDNG7prv_31EYRQ3HQeWrqNxew=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30,945 Luau Background Images, Stock Photos, and Vectors ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/trendy-summer-exotic-flower-print-260nw-2487781987.jpg' alt='30,945 Luau Background Images, Stock Photos, and Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="520">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/trendy-summer-exotic-flower-print-260nw-2487781987.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luau Background Images – Browse 8,227 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/08/83/02/48/360_F_883024824_CkEP2fTnOKAszZaNHXAF3pVsdG0wvUsf.jpg' alt='Luau Background Images – Browse 8,227 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/08/83/02/48/360_F_883024824_CkEP2fTnOKAszZaNHXAF3pVsdG0wvUsf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Hawaii Aloha Luau Tropical Beach Tiki Floral Birthday Party  Photography Studio Backdrop Background Banner - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11810216/r/il/af34e0/3189257607/il_1080xN.3189257607_o4mn.jpg' alt='Summer Hawaii Aloha Luau Tropical Beach Tiki Floral Birthday Party  Photography Studio Backdrop Background Banner - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="737">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11810216/r/il/af34e0/3189257607/il_1080xN.3189257607_o4mn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tropical Luau">
+                                <img itemprop="contentUrl url" src='https://www.hsdbackdrops.com/cdn/shop/products/SMR3676x5Hawaiiantropicalbirthdaybackdrop_1800x1800.jpg?v=1651535743' alt='Tropical Luau'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HSD Backdrops" />
+                                </span>
+                                <a href='https://www.hsdbackdrops.com/cdn/shop/products/SMR3676x5Hawaiiantropicalbirthdaybackdrop_1800x1800.jpg?v=1651535743' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,400+ Luau Party Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1347362975/photo/hawaii-sunset-with-fire-torches-hawaiian-icon-lights-burning-at-dusk-at-beach-resort-or.jpg?s=612x612&w=0&k=20&c=LHuW0MQ9y_FRNcQA0I0F1tDpgxDsPRr7qqBi5Qg4U1M=' alt='1,400+ Luau Party Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1347362975/photo/hawaii-sunset-with-fire-torches-hawaiian-icon-lights-burning-at-dusk-at-beach-resort-or.jpg?s=612x612&w=0&k=20&c=LHuW0MQ9y_FRNcQA0I0F1tDpgxDsPRr7qqBi5Qg4U1M=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

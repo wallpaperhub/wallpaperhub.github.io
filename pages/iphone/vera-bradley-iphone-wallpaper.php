@@ -1,0 +1,129 @@
+<title>Vera Bradley iPhone Wallpapers: Stylish Floral Designs for Your Screen</title>
+                    <meta name="description" content="Explore stunning Vera Bradley iPhone wallpapers that bring floral elegance to your device. Brighten up your screen with unique patterns and vibrant colors that reflect your style. Perfect for fashion-forward individuals looking to personalize their iPhones with a touch of charm and beauty!">
+                    <meta name="keywords" content="vera bradley iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/vera-bradley-iphone-wallpaper">
+                            <span itemprop="name">vera bradley iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vera Bradley iPhone Wallpapers: Stylish Floral Designs for Your Screen</h1>
+                <p>Vera Bradley iPhone wallpapers are perfect for adding a touch of floral charm to your device. With vibrant patterns and designs inspired by nature, these wallpapers transform your iPhone screen into a stylish canvas. Choose from various colors and themes to match your personality and bring a sense of joy every time you unlock your phone!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vera Bradley iphone screen saver">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/47/35/e2/4735e21b79b63be5927ad164d6936f20.jpg' alt='Vera Bradley iphone screen saver'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/47/35/e2/4735e21b79b63be5927ad164d6936f20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Digital Wallpaper – Vera Bradley">
+                                <img itemprop="contentUrl url" src='https://verabradley.com/cdn/shop/files/2309XX_-_September_Social_Media_Assets_Phone_Wallpaper_-_640x1136_34e84d42-7c5a-4fa4-b872-13c356701606_768x.png?v=1738716160' alt='Digital Wallpaper – Vera Bradley'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1363">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vera Bradley" />
+                                </span>
+                                <a href='https://verabradley.com/cdn/shop/files/2309XX_-_September_Social_Media_Assets_Phone_Wallpaper_-_640x1136_34e84d42-7c5a-4fa4-b872-13c356701606_768x.png?v=1738716160' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Digital Wallpaper – Vera Bradley">
+                                <img itemprop="contentUrl url" src='https://verabradley.com/cdn/shop/files/2307XX_-_July_Social_Media_Assets_Phone_Wallpaper_-_640x1136_478a8d35-a1ca-421c-8b45-718caccbd7cc_768x.png?v=1738507216' alt='Digital Wallpaper – Vera Bradley'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1363">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vera Bradley" />
+                                </span>
+                                <a href='https://verabradley.com/cdn/shop/files/2307XX_-_July_Social_Media_Assets_Phone_Wallpaper_-_640x1136_478a8d35-a1ca-421c-8b45-718caccbd7cc_768x.png?v=1738507216' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Digital Wallpaper – Vera Bradley">
+                                <img itemprop="contentUrl url" src='https://verabradley.com/cdn/shop/files/2201XX_-_January_Social_Media_Assets_Phone_Wallpaper_-_640x1136_24df1fb6-da0b-4516-abaa-9631655178fe_768x.png?v=1670943661' alt='Digital Wallpaper – Vera Bradley'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1363">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vera Bradley" />
+                                </span>
+                                <a href='https://verabradley.com/cdn/shop/files/2201XX_-_January_Social_Media_Assets_Phone_Wallpaper_-_640x1136_24df1fb6-da0b-4516-abaa-9631655178fe_768x.png?v=1670943661' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="47 VERA BRADLEY | iPhone Wallpapers ideas | vera bradley wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/750x/81/ea/a1/81eaa1830f888e8c1e69a07081abfce2.jpg' alt='47 VERA BRADLEY | iPhone Wallpapers ideas | vera bradley wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/750x/81/ea/a1/81eaa1830f888e8c1e69a07081abfce2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Digital Wallpaper – Vera Bradley">
+                                <img itemprop="contentUrl url" src='https://verabradley.com/cdn/shop/files/2403XX_-_March_Social_Media_Assets_Phone_Wallpaper_-_640x1136_a7072aed-7707-4109-877f-a6d0ddbd01e4_768x.png?v=1738657132' alt='Digital Wallpaper – Vera Bradley'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1363">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vera Bradley" />
+                                </span>
+                                <a href='https://verabradley.com/cdn/shop/files/2403XX_-_March_Social_Media_Assets_Phone_Wallpaper_-_640x1136_a7072aed-7707-4109-877f-a6d0ddbd01e4_768x.png?v=1738657132' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bf/27/c6/bf27c6895d2af13c02820f2bc7d93c4b.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bf/27/c6/bf27c6895d2af13c02820f2bc7d93c4b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Digital Wallpaper – Vera Bradley">
+                                <img itemprop="contentUrl url" src='https://verabradley.com/cdn/shop/files/2404XX_-_April_Social_Media_Assets_Phone_Wallpaper_-_640x1136_dfcf5d7a-ce0c-491b-8db8-fc355ec80492_768x.png?v=1711032930' alt='Digital Wallpaper – Vera Bradley'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1363">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vera Bradley" />
+                                </span>
+                                <a href='https://verabradley.com/cdn/shop/files/2404XX_-_April_Social_Media_Assets_Phone_Wallpaper_-_640x1136_dfcf5d7a-ce0c-491b-8db8-fc355ec80492_768x.png?v=1711032930' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vera Bradley paisley purple | iPhone Case">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.4657405139.4692/flat,750x1000,075,t.jpg' alt='Vera Bradley paisley purple | iPhone Case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.4657405139.4692/flat,750x1000,075,t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vera Bradley Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp8698806.jpg' alt='Vera Bradley Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1256">
+                                <meta itemprop="height" content="2353">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp8698806.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Epic TMNT Desktop Wallpapers for Fans</title>
+                    <meta name="description" content="Discover amazing TMNT desktop wallpapers to bring your love for Teenage Mutant Ninja Turtles to life! Explore dynamic designs featuring all your favorite turtles and enhance your screen with vibrant colors. Perfect for fans seeking a fun and energetic workspace backdrop. Download yours today!">
+                    <meta name="keywords" content="tmnt desktop wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/tmnt-desktop-wallpaper">
+                            <span itemprop="name">tmnt desktop wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic TMNT Desktop Wallpapers for Fans</h1>
+                <p>Transform your desktop with vibrant TMNT wallpapers featuring your favorite Teenage Mutant Ninja Turtles! Choose from a variety of styles, colors, and epic scenes that capture the spirit of Leonardo, Michelangelo, Donatello, and Raphael. Perfect for fans of all ages, these wallpapers will energize your workspace!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful TMNT Heroes HD Wallpaper by robokoboto">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/135/1351403.png' alt='Colorful TMNT Heroes HD Wallpaper by robokoboto'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2912">
+                                <meta itemprop="height" content="1632">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/135/1351403.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Meditation Moment with Leonardo and Raphael - TMNT HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/892/892815.jpg' alt='Meditation Moment with Leonardo and Raphael - TMNT HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/892/892815.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TMNT - The death of Shredder (desktop wallpaper - xpost from /r ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/Z90iaK7lDZsVRRJXrWGWdLylWEYwflyEoHx9gdGnwdI.jpg?width=640&crop=smart&auto=webp&s=c2c7fcf8188a94c40385402e3df8ecbf0954dde0' alt='TMNT - The death of Shredder (desktop wallpaper - xpost from /r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="359">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/Z90iaK7lDZsVRRJXrWGWdLylWEYwflyEoHx9gdGnwdI.jpg?width=640&crop=smart&auto=webp&s=c2c7fcf8188a94c40385402e3df8ecbf0954dde0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TMNT '87 Style Desktop Wallpaper by JPNinja426 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fd26e87c-5667-4cf9-9be9-e58887610efe/df4291j-08333736-a0df-4774-983b-a5df283f3cc7.png/v1/fill/w_1264,h_632,q_70,strp/tmnt__87_style_desktop_wallpaper_by_jpninja426_df4291j-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZkMjZlODdjLTU2NjctNGNmOS05YmU5LWU1ODg4NzYxMGVmZVwvZGY0Mjkxai0wODMzMzczNi1hMGRmLTQ3NzQtOTgzYi1hNWRmMjgzZjNjYzcucG5nIiwiaGVpZ2h0IjoiPD05NjAiLCJ3aWR0aCI6Ijw9MTkyMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiJcL3dtXC9mZDI2ZTg3Yy01NjY3LTRjZjktOWJlOS1lNTg4ODc2MTBlZmVcL2pwbmluamE0MjYtNC5wbmciLCJvcGFjaXR5Ijo5NSwicHJvcG9ydGlvbnMiOjAuNDUsImdyYXZpdHkiOiJjZW50ZXIifX0.vU-9pBE2C5Dy4Ukyforw8A-RY0-ltWvN3HD4UXDNd5s' alt='TMNT '87 Style Desktop Wallpaper by JPNinja426 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1264">
+                                <meta itemprop="height" content="632">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fd26e87c-5667-4cf9-9be9-e58887610efe/df4291j-08333736-a0df-4774-983b-a5df283f3cc7.png/v1/fill/w_1264,h_632,q_70,strp/tmnt__87_style_desktop_wallpaper_by_jpninja426_df4291j-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZkMjZlODdjLTU2NjctNGNmOS05YmU5LWU1ODg4NzYxMGVmZVwvZGY0Mjkxai0wODMzMzczNi1hMGRmLTQ3NzQtOTgzYi1hNWRmMjgzZjNjYzcucG5nIiwiaGVpZ2h0IjoiPD05NjAiLCJ3aWR0aCI6Ijw9MTkyMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiJcL3dtXC9mZDI2ZTg3Yy01NjY3LTRjZjktOWJlOS1lNTg4ODc2MTBlZmVcL2pwbmluamE0MjYtNC5wbmciLCJvcGFjaXR5Ijo5NSwicHJvcG9ydGlvbnMiOjAuNDUsImdyYXZpdHkiOiJjZW50ZXIifX0.vU-9pBE2C5Dy4Ukyforw8A-RY0-ltWvN3HD4UXDNd5s' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Teenage Mutant Ninja Turtles:Desktop wallpaper : r/TMNT">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/C4UWxsFTkheeS5pdXEsi-TRBwGLE-wu_LO_Tu6W0OzQ.jpg?auto=webp&s=5ecbc7ca71897db15871978407f911185377973b' alt='Teenage Mutant Ninja Turtles:Desktop wallpaper : r/TMNT'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/C4UWxsFTkheeS5pdXEsi-TRBwGLE-wu_LO_Tu6W0OzQ.jpg?auto=webp&s=5ecbc7ca71897db15871978407f911185377973b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TMNT Heroes HD Comic Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/90/11/2c/90112c207d45efa6176a12b21f5c2834.jpg' alt='TMNT Heroes HD Comic Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="734">
+                                <meta itemprop="height" content="397">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/90/11/2c/90112c207d45efa6176a12b21f5c2834.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TMNT Classic Style Desktop Wallpaper by JPNinja426 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fd26e87c-5667-4cf9-9be9-e58887610efe/df8womg-b625831e-1df2-4574-935a-779930fc0a0b.png/v1/fill/w_1920,h_1080,q_80,strp/tmnt_classic_style_desktop_wallpaper_by_jpninja426_df8womg-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZkMjZlODdjLTU2NjctNGNmOS05YmU5LWU1ODg4NzYxMGVmZVwvZGY4d29tZy1iNjI1ODMxZS0xZGYyLTQ1NzQtOTM1YS03Nzk5MzBmYzBhMGIucG5nIiwiaGVpZ2h0IjoiPD0xMDgwIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uud2F0ZXJtYXJrIl0sIndtayI6eyJwYXRoIjoiXC93bVwvZmQyNmU4N2MtNTY2Ny00Y2Y5LTliZTktZTU4ODg3NjEwZWZlXC9qcG5pbmphNDI2LTQucG5nIiwib3BhY2l0eSI6OTUsInByb3BvcnRpb25zIjowLjQ1LCJncmF2aXR5IjoiY2VudGVyIn19.lKa81vyNlvubrQu5Ilj14nwjSiKmirR9lBLZ1llFxtc' alt='TMNT Classic Style Desktop Wallpaper by JPNinja426 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fd26e87c-5667-4cf9-9be9-e58887610efe/df8womg-b625831e-1df2-4574-935a-779930fc0a0b.png/v1/fill/w_1920,h_1080,q_80,strp/tmnt_classic_style_desktop_wallpaper_by_jpninja426_df8womg-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZkMjZlODdjLTU2NjctNGNmOS05YmU5LWU1ODg4NzYxMGVmZVwvZGY4d29tZy1iNjI1ODMxZS0xZGYyLTQ1NzQtOTM1YS03Nzk5MzBmYzBhMGIucG5nIiwiaGVpZ2h0IjoiPD0xMDgwIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uud2F0ZXJtYXJrIl0sIndtayI6eyJwYXRoIjoiXC93bVwvZmQyNmU4N2MtNTY2Ny00Y2Y5LTliZTktZTU4ODg3NjEwZWZlXC9qcG5pbmphNDI2LTQucG5nIiwib3BhY2l0eSI6OTUsInByb3BvcnRpb25zIjowLjQ1LCJncmF2aXR5IjoiY2VudGVyIn19.lKa81vyNlvubrQu5Ilj14nwjSiKmirR9lBLZ1llFxtc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper cartoon, TMNT, The Mutant Ninja Turtles, Teenage Mutant ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/original/5120x2880/1/5c/teenage-mutant-ninja-turtles-mutant-mayhem-tmnt-cherepashki.jpg' alt='Wallpaper cartoon, TMNT, The Mutant Ninja Turtles, Teenage Mutant ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5120">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/original/5120x2880/1/5c/teenage-mutant-ninja-turtles-mutant-mayhem-tmnt-cherepashki.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Tmnt Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/tmnt-g8ixfct52wmg0jem.jpg' alt='100+] Tmnt Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/tmnt-g8ixfct52wmg0jem.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Teenage Mutant Ninja Turtles: Shredder's Revenge HD Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI4B2mSdjQ_oKmVN_DoTg_Qd6hqbzr17aFkujZE1UlPzdp9UtMROkKmIzCi3MnYO1pWJGCZYvl9XTdQ6B4lGIyhpZTdKIixMz62nhdV6UX-KItO8udpklpnSL9rJ57yUHtRptb9-PbggJSplFsB-3HygNBMb3-IQyavJbC1P1kNb4hBZJ3yvGr41jf5A/s1920/tmnt-Shredder-Revenge-HD-Wallpaper.png' alt='Teenage Mutant Ninja Turtles: Shredder's Revenge HD Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI4B2mSdjQ_oKmVN_DoTg_Qd6hqbzr17aFkujZE1UlPzdp9UtMROkKmIzCi3MnYO1pWJGCZYvl9XTdQ6B4lGIyhpZTdKIixMz62nhdV6UX-KItO8udpklpnSL9rJ57yUHtRptb9-PbggJSplFsB-3HygNBMb3-IQyavJbC1P1kNb4hBZJ3yvGr41jf5A/s1920/tmnt-Shredder-Revenge-HD-Wallpaper.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

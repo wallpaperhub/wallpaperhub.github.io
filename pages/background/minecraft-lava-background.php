@@ -1,0 +1,129 @@
+<title>Minecraft Lava Backgrounds: Ignite Your Screen!</title>
+                    <meta name="description" content="Discover striking Minecraft lava backgrounds that enhance your gaming experience! Perfect for wallpapers and builds, these fiery designs bring a hot touch to your screens. Embrace creativity with captivating lava visuals today!">
+                    <meta name="keywords" content="minecraft lava background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/minecraft-lava-background">
+                            <span itemprop="name">minecraft lava background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Minecraft Lava Backgrounds: Ignite Your Screen!</h1>
+                <p>Explore the mesmerizing beauty of Minecraft lava backgrounds! These pixelated landscapes are vibrant and dynamic, featuring flowing lava rivers and glowing magma pools. Perfect for showcasing creativity, lava backgrounds add an intense touch to your Minecraft builds or serve as stunning wallpapers for your devices. Illuminate your screen with fiery visuals from the world of Minecraft!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel minecraft style fiery lava block background Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/30/48/pixel-minecraft-style-fiery-lava-block-background-vector-46633048.jpg' alt='Pixel minecraft style fiery lava block background Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/30/48/pixel-minecraft-style-fiery-lava-block-background-vector-46633048.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Free download Lava Minecraft Wallpaper on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/c2/f4/9d/c2f49d875e5f1d8a2a2a1f7be5d6f608.jpg' alt='   Free download Lava Minecraft Wallpaper on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="202">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/c2/f4/9d/c2f49d875e5f1d8a2a2a1f7be5d6f608.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Giant Lava Pit">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/62/56/33/6256335b561afbe1200a9e5dfe569ae1.jpg' alt='Giant Lava Pit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/62/56/33/6256335b561afbe1200a9e5dfe569ae1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I was really hoping to find an animated version of this looping ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/17/e1/6b/17e16b541ae0ff5bc4ab77fc15c5f463.jpg' alt='I was really hoping to find an animated version of this looping ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/17/e1/6b/17e16b541ae0ff5bc4ab77fc15c5f463.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Minecraft Lava | G-Portal Blog">
+                                <img itemprop="contentUrl url" src='https://ccdn.g-portal.com/2023_07_00_blog_lava_header_901ff808bc.png' alt='   Minecraft Lava | G-Portal Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GPORTAL" />
+                                </span>
+                                <a href='https://ccdn.g-portal.com/2023_07_00_blog_lava_header_901ff808bc.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="my first ever wallpaper and the coolest : r/Minecraft">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/5qvshm1s1vq51.png?auto=webp&s=acb9db8ca744e056e05d75c8b741d68b62bc6909' alt='my first ever wallpaper and the coolest : r/Minecraft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/5qvshm1s1vq51.png?auto=webp&s=acb9db8ca744e056e05d75c8b741d68b62bc6909' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: lava minecraft digital wallpaper, water, Sun, sea ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/ba/c3/9d/bac39de7ac8bbc50293fb61796a5a83c.jpg' alt='HD wallpaper: lava minecraft digital wallpaper, water, Sun, sea ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/ba/c3/9d/bac39de7ac8bbc50293fb61796a5a83c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Majestic Lava Strider | GPORTAL Blog">
+                                <img itemprop="contentUrl url" src='https://ccdn.g-portal.com/mc_blog_strider_gallery_8_7878fe6d59.png' alt='The Majestic Lava Strider | GPORTAL Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GPORTAL" />
+                                </span>
+                                <a href='https://ccdn.g-portal.com/mc_blog_strider_gallery_8_7878fe6d59.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lava baths are awesome | poster for a friend Minecraft Map">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/MPqqRO6.png' alt='Lava baths are awesome | poster for a friend Minecraft Map'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Planet Minecraft" />
+                                </span>
+                                <a href='https://i.imgur.com/MPqqRO6.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Take On The Nether (OC) (Art) (Wallpaper?) : r/Minecraft">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/6ap61ljggoz31.jpg?width=1080&crop=smart&auto=webp&s=f2fcdb00514a6c8705b9d21219eee0b9ff11eeb2' alt='My Take On The Nether (OC) (Art) (Wallpaper?) : r/Minecraft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/6ap61ljggoz31.jpg?width=1080&crop=smart&auto=webp&s=f2fcdb00514a6c8705b9d21219eee0b9ff11eeb2' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

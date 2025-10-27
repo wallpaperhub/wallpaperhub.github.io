@@ -1,0 +1,129 @@
+<title>Trippy Tie Dye Backgrounds: Vivid, Groovy Designs</title>
+                    <meta name="description" content="Discover vibrant trippy tie dye backgrounds that inspire creativity and capture attention. Perfect for various projects, these mesmerizing designs blend colors for a unique visual experience. Elevate your art, marketing materials, or social media posts with our eye-catching tie dye patterns!">
+                    <meta name="keywords" content="trippy tie dye background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/trippy-tie-dye-background">
+                            <span itemprop="name">trippy tie dye background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Trippy Tie Dye Backgrounds: Vivid, Groovy Designs</h1>
+                <p>Transform your space with a trippy tie dye background that radiates vibrant energy and creativity. Perfect for art projects, marketing materials, or social media, these mesmerizing patterns invoke a sense of nostalgia and fun. Use them to elevate visuals and captivate your audience with swirling colors and playful designs.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trippy Psychedelic Neon Tie-dye Digital Paper Background Texture ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28921914/r/il/a833a7/3780968777/il_fullxfull.3780968777_kacb.jpg' alt='Trippy Psychedelic Neon Tie-dye Digital Paper Background Texture ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2200">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28921914/r/il/a833a7/3780968777/il_fullxfull.3780968777_kacb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900+ Hippie Tie Dye Backgrounds Psychedelic Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1298083612/vector/abstract-festive-colorful-background-bright-rainbow-tie-dye-pattern.jpg?s=612x612&w=0&k=20&c=rRFtceQP8Vs9n1y1l8HrkfOsoBsVBGF7kl5KGAMzUrM=' alt='900+ Hippie Tie Dye Backgrounds Psychedelic Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="490">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1298083612/vector/abstract-festive-colorful-background-bright-rainbow-tie-dye-pattern.jpg?s=612x612&w=0&k=20&c=rRFtceQP8Vs9n1y1l8HrkfOsoBsVBGF7kl5KGAMzUrM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Psychedelic Purple Rainbow Tie-dye Seamless Background Pattern ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28921914/r/il/28fba2/3731988919/il_570xN.3731988919_jo6u.jpg' alt='Psychedelic Purple Rainbow Tie-dye Seamless Background Pattern ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="518">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28921914/r/il/28fba2/3731988919/il_570xN.3731988919_jo6u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Psychedelic Neon Tiedye Background — drypdesigns">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/609701bc21f2ee5734517421/1633831508767-9JXY9MVBTX6W5OPCOB87/psychedelic+tiedye+cover+wm.jpg?format=1500w' alt='Psychedelic Neon Tiedye Background — drypdesigns'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1364">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="drypdesigns" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/609701bc21f2ee5734517421/1633831508767-9JXY9MVBTX6W5OPCOB87/psychedelic+tiedye+cover+wm.jpg?format=1500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Psychedelic Purple Rainbow Tie-Dye Seamless Background Pattern — drypdesigns">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/609701bc21f2ee5734517421/1645388099190-X5K443C4P4DHRGWQRPS5/psychedelic+purple+tie-dye+seamless+Cover+WM+2.jpg?format=1500w' alt='Psychedelic Purple Rainbow Tie-Dye Seamless Background Pattern — drypdesigns'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1364">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="drypdesigns" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/609701bc21f2ee5734517421/1645388099190-X5K443C4P4DHRGWQRPS5/psychedelic+purple+tie-dye+seamless+Cover+WM+2.jpg?format=1500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Colorful tie dye texture. Abstract Psychedelic ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/colorful-tie-dye-texture-abstract-psychedelic-background_225753-2410.jpg' alt='Premium Photo | Colorful tie dye texture. Abstract Psychedelic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/colorful-tie-dye-texture-abstract-psychedelic-background_225753-2410.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trippy Tie-Dye | Art Board Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.4736335277.7323/raf,360x360,075,t,fafafa:ca443f4786.jpg' alt='Trippy Tie-Dye | Art Board Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.4736335277.7323/raf,360x360,075,t,fafafa:ca443f4786.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,200+ Trippy Tie Dye Pictures Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/657565490/photo/tie-dye-pattern-abstract-background.jpg?s=612x612&w=0&k=20&c=zryoM03AydvyGw_YTI1R7TTHVg0ZCE-ba0zVTBKZOko=' alt='4,200+ Trippy Tie Dye Pictures Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/657565490/photo/tie-dye-pattern-abstract-background.jpg?s=612x612&w=0&k=20&c=zryoM03AydvyGw_YTI1R7TTHVg0ZCE-ba0zVTBKZOko=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tie Dye Hippie Burst by 319media">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/113/1137160.jpg' alt='Tie Dye Hippie Burst by 319media'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/113/1137160.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trippy Dope Tie Dye Art Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/trippy-dope-tie-dye-art-w47lo811yv2grce0.jpg' alt='Trippy Dope Tie Dye Art Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/trippy-dope-tie-dye-art-w47lo811yv2grce0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Transform Your Space with Peel and Stick Paintable Wallpaper</title>
+                    <meta name="description" content="Explore the endless possibilities of peel and stick paintable wallpaper. Easy to apply and customize, it's perfect for renters and DIY lovers looking to refresh their space effortlessly. Discover how to elevate your home decor with this innovative and removable solution today!">
+                    <meta name="keywords" content="peel and stick paintable wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/peel-and-stick-paintable-wallpaper">
+                            <span itemprop="name">peel and stick paintable wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Peel and Stick Paintable Wallpaper</h1>
+                <p>Peel and stick paintable wallpaper is a versatile and innovative solution for home decor. Perfect for renters and DIY enthusiasts, it allows you to add color and texture to any room without the commitment of traditional wallpaper. Simply apply, paint to your desired shade, and enjoy a custom look with easy removal when needed.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Livelynine Paintable Wallpaper Textured Peel and Stick 15.8X197 White  Prepasted Anaglypta Vinyl Wallpaper Stick and Peel Waterproof Bathroom  Kitchen ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81JR0dpZ0kL.jpg' alt='Livelynine Paintable Wallpaper Textured Peel and Stick 15.8X197 White  Prepasted Anaglypta Vinyl Wallpaper Stick and Peel Waterproof Bathroom  Kitchen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1700">
+                                <meta itemprop="height" content="1700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81JR0dpZ0kL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charcoal Limewash Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://rockymountaindecals.com/cdn/shop/products/limewash-peel-and-stick-wallpaper-686538.png?v=1693289018' alt='Charcoal Limewash Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='http://rockymountaindecals.com/cdn/shop/products/limewash-peel-and-stick-wallpaper-686538.png?v=1693289018' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Better Homes & Gardens Beadboard Paintable Expanded Vinyl Wallpaper 20.9in  x 33ft 56.4 Sq. ft.">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/2af7024f-40ab-4c13-bf9f-4f0be44c204c.be59ee92ce747875c5222aa028e31a7f.jpeg' alt='Better Homes & Gardens Beadboard Paintable Expanded Vinyl Wallpaper 20.9in  x 33ft 56.4 Sq. ft.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/2af7024f-40ab-4c13-bf9f-4f0be44c204c.be59ee92ce747875c5222aa028e31a7f.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Livelynine Woven Grasscloth White Textured Wallpaper Stick and Peel  Paintable Wallpaper for Bathroom Bedroom Vinyl Prepasted Embossed Wallpaper  Self ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81UKDNssO-L.jpg' alt='Livelynine Woven Grasscloth White Textured Wallpaper Stick and Peel  Paintable Wallpaper for Bathroom Bedroom Vinyl Prepasted Embossed Wallpaper  Self ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1700">
+                                <meta itemprop="height" content="1700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81UKDNssO-L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Faux Grasscloth Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://tempaper.com/cdn/shop/products/GR589-blue-textured-grasscloth-peel-stick-wallpaper-living-room-02.jpg?v=1724335125&width=1080' alt='Faux Grasscloth Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='https://tempaper.com/cdn/shop/products/GR589-blue-textured-grasscloth-peel-stick-wallpaper-living-room-02.jpg?v=1724335125&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grasscloth Linen Peel and Stick Wallpaper (Faux)">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/seagrass-linen-removable-wallpaper-peel-and-stick-268262.png?v=1680911979' alt='Grasscloth Linen Peel and Stick Wallpaper (Faux)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1076">
+                                <meta itemprop="height" content="1402">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/seagrass-linen-removable-wallpaper-peel-and-stick-268262.png?v=1680911979' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paintable Peel N Stick Wallpaper - 100% Removable - 20.5" w x 33' long">
+                                <img itemprop="contentUrl url" src='https://cdn4.volusion.store/euhfr-xvuyx/v/vspfiles/photos/B3-3-8-00299-2.jpg?v-cache=1723552021' alt='Paintable Peel N Stick Wallpaper - 100% Removable - 20.5" w x 33' long'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="569">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dorm Co" />
+                                </span>
+                                <a href='https://cdn4.volusion.store/euhfr-xvuyx/v/vspfiles/photos/B3-3-8-00299-2.jpg?v-cache=1723552021' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Paintable Wallpaper - Textured Wallpaper - On Sale Today">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/category/medium/790.jpg' alt='Paintable Wallpaper - Textured Wallpaper - On Sale Today'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="240">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/category/medium/790.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Abstract Graphic Cloth Art Wallpaper, Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/19118106/r/il/25ad0f/3457978554/il_300x300.3457978554_ajky.jpg' alt='Modern Abstract Graphic Cloth Art Wallpaper, Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/19118106/r/il/25ad0f/3457978554/il_300x300.3457978554_ajky.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Peel & Stick Faux Beadboard Off-White Paintable Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://cdn.onlinefabricstore.com/products/PP10100_2.jpg?quality=100' alt='NextWall Peel & Stick Faux Beadboard Off-White Paintable Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Online Fabric Store" />
+                                </span>
+                                <a href='https://cdn.onlinefabricstore.com/products/PP10100_2.jpg?quality=100' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>How to Create Stunning Live Wallpapers</title>
+                    <meta name="description" content="Discover the simple steps to create live wallpapers for your device. From choosing your favorite animations to customizing effects, learn how to make your screen come alive with unique, personalized designs. Perfect for enhancing your mobile experience!">
+                    <meta name="keywords" content="how to make a live wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/how-to-make-a-live-wallpaper">
+                            <span itemprop="name">how to make a live wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>How to Create Stunning Live Wallpapers</h1>
+                <p>To make a live wallpaper, start by selecting a video or animation you love. Then, use an app like "Kustom Live Wallpaper" or "Wallpapers by Google" to upload your chosen media. Customize elements like speed and effects, then save and set it as your wallpaper. Enjoy your personalized animated background!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Make a Live Wallpaper on iPhone or Android">
+                                <img itemprop="contentUrl url" src='https://i.insider.com/63514e9cd4a30f00191b8539?width=800&format=jpeg&auto=webp' alt='How to Make a Live Wallpaper on iPhone or Android'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1202">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business Insider" />
+                                </span>
+                                <a href='https://i.insider.com/63514e9cd4a30f00191b8539?width=800&format=jpeg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Make a Live Wallpaper on iPhone or Android">
+                                <img itemprop="contentUrl url" src='https://i.insider.com/63514dc52e2a8d0018d39e21?width=800&format=jpeg&auto=webp' alt='How to Make a Live Wallpaper on iPhone or Android'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1370">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business Insider" />
+                                </span>
+                                <a href='https://i.insider.com/63514dc52e2a8d0018d39e21?width=800&format=jpeg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Use Live Wallpaper on Your iPhone">
+                                <img itemprop="contentUrl url" src='https://www.lifewire.com/thmb/tSIRoCxdEZWjm_3d_uHhzZLUNtU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/001_how-to-use-live-wallpaper-on-your-iphone-4157856-2178bd4224304bb4a4e7fd496a79f2b2.jpg' alt='How to Use Live Wallpaper on Your iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1070">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lifewire" />
+                                </span>
+                                <a href='https://www.lifewire.com/thmb/tSIRoCxdEZWjm_3d_uHhzZLUNtU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/001_how-to-use-live-wallpaper-on-your-iphone-4157856-2178bd4224304bb4a4e7fd496a79f2b2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Turn Anything Into Live Wallpaper on Any Android">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Zd7ddrJxvaA/maxresdefault.jpg' alt='Turn Anything Into Live Wallpaper on Any Android'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Zd7ddrJxvaA/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iOS Tip: Create Your Own Live Wallpaper with LivePapers- The Mac ...">
+                                <img itemprop="contentUrl url" src='https://www.macobserver.com/wp-content/uploads/2017/01/live-wallpapers-howto-screens-2-750x435.jpg' alt='iOS Tip: Create Your Own Live Wallpaper with LivePapers- The Mac ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="928">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Mac Observer" />
+                                </span>
+                                <a href='https://www.macobserver.com/wp-content/uploads/2017/01/live-wallpapers-howto-screens-2-750x435.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Make a Video Your Wallpaper on Your Phone">
+                                <img itemprop="contentUrl url" src='https://www.lifewire.com/thmb/Duvo94PT5zLYHEL5qiyUuklDsi0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/003-make-a-video-your-wallpaper-4158316-48a2a09da6664da69f1638379f7b2a79.jpg' alt='How to Make a Video Your Wallpaper on Your Phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="874">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lifewire" />
+                                </span>
+                                <a href='https://www.lifewire.com/thmb/Duvo94PT5zLYHEL5qiyUuklDsi0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/003-make-a-video-your-wallpaper-4158316-48a2a09da6664da69f1638379f7b2a79.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Create Live Wallpapers on iPhone and Android | Digital Trends">
+                                <img itemprop="contentUrl url" src='https://www.digitaltrends.com/wp-content/uploads/2020/05/choosing-live-photos-for-wallpaper.jpg?fit=828%2C1792&p=1' alt='How to Create Live Wallpapers on iPhone and Android | Digital Trends'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Digital Trends" />
+                                </span>
+                                <a href='https://www.digitaltrends.com/wp-content/uploads/2020/05/choosing-live-photos-for-wallpaper.jpg?fit=828%2C1792&p=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Get A Live Wallpaper on Samsung Phone">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/zdJ8du-v7_M/maxresdefault.jpg' alt='How To Get A Live Wallpaper on Samsung Phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/zdJ8du-v7_M/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Make a Live Wallpaper on iPhone or Android">
+                                <img itemprop="contentUrl url" src='https://i.insider.com/63514e462e2a8d0018d39e39?width=800&format=jpeg&auto=webp' alt='How to Make a Live Wallpaper on iPhone or Android'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1204">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business Insider" />
+                                </span>
+                                <a href='https://i.insider.com/63514e462e2a8d0018d39e39?width=800&format=jpeg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ways to Create & Use Loop Wallpaper for A Livelier Wallpaper Easily">
+                                <img itemprop="contentUrl url" src='https://www.aiseesoft.com/images/resource/loop-wallpaper/change-wallpaper-on-ios.jpg' alt='Ways to Create & Use Loop Wallpaper for A Livelier Wallpaper Easily'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Aiseesoft" />
+                                </span>
+                                <a href='https://www.aiseesoft.com/images/resource/loop-wallpaper/change-wallpaper-on-ios.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

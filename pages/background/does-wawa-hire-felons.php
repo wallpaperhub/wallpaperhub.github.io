@@ -1,0 +1,129 @@
+<title>Does Wawa Hire Felons? A Comprehensive Guide</title>
+                    <meta name="description" content="Explore whether Wawa hires felons and learn about their inclusive hiring practices. Find out how to navigate the application process and increase your chances of employment at Wawa, a company known for valuing diverse backgrounds and offering second chances.">
+                    <meta name="keywords" content="does wawa hire felons">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/does-wawa-hire-felons">
+                            <span itemprop="name">does wawa hire felons</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Does Wawa Hire Felons? A Comprehensive Guide</h1>
+                <p>Wawa is known for its inclusive hiring policies, often offering opportunities to individuals regardless of their past criminal history. While hiring practices may vary by location and role, many felons have successfully secured positions at Wawa. It's advisable for applicants to check specific store policies or inquire during the hiring process.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Wawa Do Background Checks">
+                                <img itemprop="contentUrl url" src='https://does-wawa-do-background-checks.govbackgroundchecks.com/screenshots/does-wawa-do-background-checks/1.jpg' alt='Does Wawa Do Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://does-wawa-do-background-checks.govbackgroundchecks.com/screenshots/does-wawa-do-background-checks/1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="#wawa #employees #customerservice #fyp | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7411181675947904298&location=0&aid=1988' alt='#wawa #employees #customerservice #fyp | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7411181675947904298&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Wawa Do Background Checks">
+                                <img itemprop="contentUrl url" src='https://does-wawa-do-background-checks.govbackgroundchecks.com/screenshots/does-wawa-do-background-checks/3.jpg' alt='Does Wawa Do Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://does-wawa-do-background-checks.govbackgroundchecks.com/screenshots/does-wawa-do-background-checks/3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="#jobs #felons #convicted #hiring | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7376241047309061422&location=0&aid=1988' alt='#jobs #felons #convicted #hiring | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7376241047309061422&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Wawa Do Background Checks">
+                                <img itemprop="contentUrl url" src='https://does-wawa-do-background-checks.govbackgroundchecks.com/screenshots/does-wawa-do-background-checks/10.jpg' alt='Does Wawa Do Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://does-wawa-do-background-checks.govbackgroundchecks.com/screenshots/does-wawa-do-background-checks/10.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Wawa Do Background Checks">
+                                <img itemprop="contentUrl url" src='https://does-wawa-do-background-checks.govbackgroundchecks.com/screenshots/does-wawa-do-background-checks/5.jpg' alt='Does Wawa Do Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://does-wawa-do-background-checks.govbackgroundchecks.com/screenshots/does-wawa-do-background-checks/5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jobs for felons #felons #felonsoftiktok #felonsontiktok #helpforfelons  #jobsforfelons #resourcesforfelons #hirefelons">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7231321401750244650&location=0&aid=1988' alt='Jobs for felons #felons #felonsoftiktok #felonsontiktok #helpforfelons  #jobsforfelons #resourcesforfelons #hirefelons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7231321401750244650&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Wawa Do Background Checks">
+                                <img itemprop="contentUrl url" src='https://does-wawa-do-background-checks.govbackgroundchecks.com/screenshots/does-wawa-do-background-checks/2.jpg' alt='Does Wawa Do Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://does-wawa-do-background-checks.govbackgroundchecks.com/screenshots/does-wawa-do-background-checks/2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Wawa Do Background Checks">
+                                <img itemprop="contentUrl url" src='https://does-wawa-do-background-checks.govbackgroundchecks.com/screenshots/does-wawa-do-background-checks/8.jpg' alt='Does Wawa Do Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://does-wawa-do-background-checks.govbackgroundchecks.com/screenshots/does-wawa-do-background-checks/8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Does Wawa Hire Felons | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7245085088218664235&location=0&aid=1988' alt='Does Wawa Hire Felons | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7245085088218664235&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

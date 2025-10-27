@@ -1,0 +1,129 @@
+<title>Exploring Blue's Clues House: A Colorful Adventure</title>
+                    <meta name="description" content="Discover the magic of Blue's Clues house! This engaging backdrop enhances learning and fun for kids. Join Blue and friends in a colorful, interactive environment where problem-solving meets adventure. Explore the charm of this beloved PBS TV show all in the comfort of your device!">
+                    <meta name="keywords" content="blue's clues house background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blues-clues-house-background">
+                            <span itemprop="name">blue's clues house background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring Blue's Clues House: A Colorful Adventure</h1>
+                <p>Blue's Clues features a charming blue house that serves as the backdrop for its educational adventures. This whimsical home, complete with a friendly dog named Blue, vibrant colors, and interactive elements, creates an engaging environment for preschoolers. The house is a haven for solving puzzles and learning through play, making the show a beloved favorite.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue's Clues House Background by PrincessCreation345 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3567daed-5fb0-44ac-a9da-5a7ead5a8f31/df8gd4p-aeb95e13-a1aa-49ee-97b9-7a2d769b31fe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM1NjdkYWVkLTVmYjAtNDRhYy1hOWRhLTVhN2VhZDVhOGYzMVwvZGY4Z2Q0cC1hZWI5NWUxMy1hMWFhLTQ5ZWUtOTdiOS03YTJkNzY5YjMxZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.pHl93AvP8maDaZVMAYBvMWb1HsHfchXihRan-ya7U-c' alt='Blue's Clues House Background by PrincessCreation345 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1196">
+                                <meta itemprop="height" content="672">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3567daed-5fb0-44ac-a9da-5a7ead5a8f31/df8gd4p-aeb95e13-a1aa-49ee-97b9-7a2d769b31fe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM1NjdkYWVkLTVmYjAtNDRhYy1hOWRhLTVhN2VhZDVhOGYzMVwvZGY4Z2Q0cC1hZWI5NWUxMy1hMWFhLTQ5ZWUtOTdiOS03YTJkNzY5YjMxZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.pHl93AvP8maDaZVMAYBvMWb1HsHfchXihRan-ya7U-c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue's Clues and You Play House Backgrounds - Digital Download - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/23455555/r/il/2ed572/4129813791/il_570xN.4129813791_btyy.jpg' alt='Blue's Clues and You Play House Backgrounds - Digital Download - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/23455555/r/il/2ed572/4129813791/il_570xN.4129813791_btyy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue's Clues House Background (Season 5 Version) by denisew54 on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/50c66f57-c975-4d40-a32c-8470392dc07b/dfy6tq5-fc74937c-1be4-4532-8b0e-4c2fcb45874a.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUwYzY2ZjU3LWM5NzUtNGQ0MC1hMzJjLTg0NzAzOTJkYzA3YlwvZGZ5NnRxNS1mYzc0OTM3Yy0xYmU0LTQ1MzItOGIwZS00YzJmY2I0NTg3NGEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.E9AB7BAeDi02jyaVuDUi86LoQ5cJXLMKMVLeYFiwzbA' alt='Blue's Clues House Background (Season 5 Version) by denisew54 on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1431">
+                                <meta itemprop="height" content="1063">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/50c66f57-c975-4d40-a32c-8470392dc07b/dfy6tq5-fc74937c-1be4-4532-8b0e-4c2fcb45874a.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUwYzY2ZjU3LWM5NzUtNGQ0MC1hMzJjLTg0NzAzOTJkYzA3YlwvZGZ5NnRxNS1mYzc0OTM3Yy0xYmU0LTQ1MzItOGIwZS00YzJmY2I0NTg3NGEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.E9AB7BAeDi02jyaVuDUi86LoQ5cJXLMKMVLeYFiwzbA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="josiahokeefe User Profile | DeviantArt">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3d/3c/1c/3d3c1cf31a39a6f4c8c7035f752d05b1.jpg' alt='josiahokeefe User Profile | DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3d/3c/1c/3d3c1cf31a39a6f4c8c7035f752d05b1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue's Clues House | Blue's Clues Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/thebluescluesencyclopedia/images/0/00/Josh_looking_for_blue.png/revision/latest?cb=20210115185612' alt='Blue's Clues House | Blue's Clues Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="853">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Blue's Clues Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/thebluescluesencyclopedia/images/0/00/Josh_looking_for_blue.png/revision/latest?cb=20210115185612' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue's Clues House Background (transparent) by PrincessCreation345 ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3567daed-5fb0-44ac-a9da-5a7ead5a8f31/dikqtpw-d8a8e671-2a94-4953-bd61-66bbfe0f786a.png/v1/fill/w_1194,h_669/blue_s_clues_house_background__transparent__by_princesscreation345_dikqtpw-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQzNiIsInBhdGgiOiJcL2ZcLzM1NjdkYWVkLTVmYjAtNDRhYy1hOWRhLTVhN2VhZDVhOGYzMVwvZGlrcXRwdy1kOGE4ZTY3MS0yYTk0LTQ5NTMtYmQ2MS02NmJiZmUwZjc4NmEucG5nIiwid2lkdGgiOiI8PTI1NjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.-g6tYX0-bhal-SIVxcxAHjLffYzLiyGpryn9Ur1rteU' alt='Blue's Clues House Background (transparent) by PrincessCreation345 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1194">
+                                <meta itemprop="height" content="669">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3567daed-5fb0-44ac-a9da-5a7ead5a8f31/dikqtpw-d8a8e671-2a94-4953-bd61-66bbfe0f786a.png/v1/fill/w_1194,h_669/blue_s_clues_house_background__transparent__by_princesscreation345_dikqtpw-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQzNiIsInBhdGgiOiJcL2ZcLzM1NjdkYWVkLTVmYjAtNDRhYy1hOWRhLTVhN2VhZDVhOGYzMVwvZGlrcXRwdy1kOGE4ZTY3MS0yYTk0LTQ5NTMtYmQ2MS02NmJiZmUwZjc4NmEucG5nIiwid2lkdGgiOiI8PTI1NjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.-g6tYX0-bhal-SIVxcxAHjLffYzLiyGpryn9Ur1rteU' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue's Clues House | Blue's Clues Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/thebluescluesencyclopedia/images/4/44/Blue%E2%80%99s_Clues_House_in_Blue%E2%80%99s_Big_City_Adventure.jpeg/revision/latest?cb=20221121112756' alt='Blue's Clues House | Blue's Clues Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1148">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Blue's Clues Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/thebluescluesencyclopedia/images/4/44/Blue%E2%80%99s_Clues_House_in_Blue%E2%80%99s_Big_City_Adventure.jpeg/revision/latest?cb=20221121112756' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue's Clues House | Blue's Clues Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/thebluescluesencyclopedia/images/b/bc/House.jpg/revision/latest?cb=20110428202759' alt='Blue's Clues House | Blue's Clues Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Blue's Clues Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/thebluescluesencyclopedia/images/b/bc/House.jpg/revision/latest?cb=20110428202759' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Blue's Clues Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/blue-s-clues-background-1920-x-1080-pnzauuomj45pvq2q.jpg' alt='100+] Blue's Clues Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/blue-s-clues-background-1920-x-1080-pnzauuomj45pvq2q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue's Clues House Background (Night Version) by ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3567daed-5fb0-44ac-a9da-5a7ead5a8f31/df8kdql-ff7eca56-a490-441d-af6d-efacffc15cec.png/v1/fill/w_1280,h_720,q_80,strp/blue_s_clues_house_background__night_version__by_princesscreation345_df8kdql-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvMzU2N2RhZWQtNWZiMC00NGFjLWE5ZGEtNWE3ZWFkNWE4ZjMxXC9kZjhrZHFsLWZmN2VjYTU2LWE0OTAtNDQxZC1hZjZkLWVmYWNmZmMxNWNlYy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.X6nSZs-n5TL6N-MEBNyG9NcKqG-Xn_rZYbvI1EugEF4' alt='Blue's Clues House Background (Night Version) by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3567daed-5fb0-44ac-a9da-5a7ead5a8f31/df8kdql-ff7eca56-a490-441d-af6d-efacffc15cec.png/v1/fill/w_1280,h_720,q_80,strp/blue_s_clues_house_background__night_version__by_princesscreation345_df8kdql-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvMzU2N2RhZWQtNWZiMC00NGFjLWE5ZGEtNWE3ZWFkNWE4ZjMxXC9kZjhrZHFsLWZmN2VjYTU2LWE0OTAtNDQxZC1hZjZkLWVmYWNmZmMxNWNlYy5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.X6nSZs-n5TL6N-MEBNyG9NcKqG-Xn_rZYbvI1EugEF4' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Transform Your Device with 3D Live Weather Wallpapers</title>
+                    <meta name="description" content="Discover captivating 3D live weather wallpapers that bring your device to life. Enjoy real-time animations of rain, snow, and sunshine tailored to your local weather. Perfect for anyone looking to personalize their screens with stunning visual effects that change with the forecast!">
+                    <meta name="keywords" content="3d live weather wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/3d">
+                            <span itemprop="name">3D</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/3d/3d-live-weather-wallpaper">
+                            <span itemprop="name">3d live weather wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Device with 3D Live Weather Wallpapers</h1>
+                <p>Enhance your digital space with stunning 3D live weather wallpapers. These dynamic visuals not only showcase real-time weather conditions but also transform your device into a breathtaking landscape. Perfect for all seasons, enjoy animations of rain, snow, sunshine, and storms that respond to the weather in your area, creating a unique and immersive experience every day.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download 3D Weather Live Wallpaper App for Android | Bazaar">
+                                <img itemprop="contentUrl url" src='https://s.cafebazaar.ir/images/upload/screenshot/com.lin.season-screenshots-1.png?x-img=v1/resize,h_600,lossless_false/optimize' alt='Download 3D Weather Live Wallpaper App for Android | Bazaar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="288">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="cafebazaar.ir" />
+                                </span>
+                                <a href='https://s.cafebazaar.ir/images/upload/screenshot/com.lin.season-screenshots-1.png?x-img=v1/resize,h_600,lossless_false/optimize' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download 3D Weather Live Wallpaper for Free App for Android | Bazaar">
+                                <img itemprop="contentUrl url" src='https://s.cafebazaar.ir/images/upload/screenshot/mobi.infolife.ezweather.livewallpaper.forecast.weather.newlive-f04b9e0d-d632-4656-9d9d-c7095e70f990.jpg?x-img=v1/resize,h_600,lossless_false/optimize' alt='Download 3D Weather Live Wallpaper for Free App for Android | Bazaar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="288">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="cafebazaar.ir" />
+                                </span>
+                                <a href='https://s.cafebazaar.ir/images/upload/screenshot/mobi.infolife.ezweather.livewallpaper.forecast.weather.newlive-f04b9e0d-d632-4656-9d9d-c7095e70f990.jpg?x-img=v1/resize,h_600,lossless_false/optimize' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Weather Live Wallpaper - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/cOrfSEwHyPzKzYAO2KNbtRTh_KSOEn5nqd_7mQp63vDc2xM8PYokt87sko1HUgMWfogN' alt='Weather Live Wallpaper - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/cOrfSEwHyPzKzYAO2KNbtRTh_KSOEn5nqd_7mQp63vDc2xM8PYokt87sko1HUgMWfogN' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download 3D Weather Live Wallpaper App for Android | Bazaar">
+                                <img itemprop="contentUrl url" src='https://s.cafebazaar.ir/images/upload/screenshot/com.lin.season-screenshots-2.png?x-img=v1/resize,h_600,lossless_false/optimize' alt='Download 3D Weather Live Wallpaper App for Android | Bazaar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="288">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="cafebazaar.ir" />
+                                </span>
+                                <a href='https://s.cafebazaar.ir/images/upload/screenshot/com.lin.season-screenshots-2.png?x-img=v1/resize,h_600,lossless_false/optimize' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download 3D Weather Live Wallpaper for Free App for Android | Bazaar">
+                                <img itemprop="contentUrl url" src='https://s.cafebazaar.ir/images/upload/screenshot/mobi.infolife.ezweather.livewallpaper.forecast.weather.newlive-0ab2b44e-7fc1-479b-97ff-d2f4acf9fc12.jpg?x-img=v1/resize,h_600,lossless_false/optimize' alt='Download 3D Weather Live Wallpaper for Free App for Android | Bazaar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="288">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="cafebazaar.ir" />
+                                </span>
+                                <a href='https://s.cafebazaar.ir/images/upload/screenshot/mobi.infolife.ezweather.livewallpaper.forecast.weather.newlive-0ab2b44e-7fc1-479b-97ff-d2f4acf9fc12.jpg?x-img=v1/resize,h_600,lossless_false/optimize' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="True Weather 3D live wallpaper for Android. True Weather 3D free ...">
+                                <img itemprop="contentUrl url" src='https://mobimg.b-cdn.net/lwallpaper_img/true_weather_3d/real/1_true_weather_3d.jpg' alt='True Weather 3D live wallpaper for Android. True Weather 3D free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="282">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live wallpapers - Mob.org" />
+                                </span>
+                                <a href='https://mobimg.b-cdn.net/lwallpaper_img/true_weather_3d/real/1_true_weather_3d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Best Live Weather Wallpapers on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/62/59/b4/6259b460a3501516d75d87bf22b4f46f.jpg' alt='   Best Live Weather Wallpapers on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="324">
+                                <meta itemprop="height" content="537">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/62/59/b4/6259b460a3501516d75d87bf22b4f46f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Weather Live Wallpapers - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/pXn5gZYTebtoEeQDkGh8Qz88EclFnZ9v_cGasmKvsvRBU8CKnkvFv26yaF1vbK066Q' alt='Weather Live Wallpapers - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/pXn5gZYTebtoEeQDkGh8Qz88EclFnZ9v_cGasmKvsvRBU8CKnkvFv26yaF1vbK066Q' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Real Time Weather Live Wallpaper for Android - Free download and ...">
+                                <img itemprop="contentUrl url" src='https://images.dwncdn.net/images/t_app-cover-s,f_auto/p/2f2a3478-6add-4ca5-996d-4134aed37d49/2696648035/2072_4-78128240-imgingest-2314862265221770048.jpg' alt='Real Time Weather Live Wallpaper for Android - Free download and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="340">
+                                <meta itemprop="height" content="606">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNET Download" />
+                                </span>
+                                <a href='https://images.dwncdn.net/images/t_app-cover-s,f_auto/p/2f2a3478-6add-4ca5-996d-4134aed37d49/2696648035/2072_4-78128240-imgingest-2314862265221770048.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 of the Best Live Weather Wallpaper Apps for Android - Make Tech ...">
+                                <img itemprop="contentUrl url" src='https://www.maketecheasier.com/assets/uploads/2021/11/Featured-Image-Live-Weather-Wallpapers-Android.jpg' alt='8 of the Best Live Weather Wallpaper Apps for Android - Make Tech ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1350">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Make Tech Easier" />
+                                </span>
+                                <a href='https://www.maketecheasier.com/assets/uploads/2021/11/Featured-Image-Live-Weather-Wallpapers-Android.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

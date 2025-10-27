@@ -1,0 +1,129 @@
+<title>Invader Zim Wallpapers: Download Your Favorites!</title>
+                    <meta name="description" content="Discover an amazing collection of Invader Zim wallpapers perfect for fans! Transform your devices with stunning designs featuring Zim, Gir, and more. Easy download and optimized for mobile, so you can express your fandom anytime, anywhere!">
+                    <meta name="keywords" content="invader zim wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/invader-zim-wallpaper">
+                            <span itemprop="name">invader zim wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Invader Zim Wallpapers: Download Your Favorites!</h1>
+                <p>Invader Zim wallpaper brings the quirky and chaotic world of the beloved animated series to your screens. With vibrant colors and eye-catching designs featuring Zim, Gir, and other characters, you can personalize your devices while celebrating this cult classic. Perfect for fans who want to showcase their love for this unique show!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Invader ZIM Wallpapers (31 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/1/9/5/753214-1920x1080-desktop-1080p-invader-zim-background.jpg' alt='Invader ZIM Wallpapers (31 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/1/9/5/753214-1920x1080-desktop-1080p-invader-zim-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The backgrounds in Invader Zim has got to be the most underrated ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/the-backgrounds-in-invader-zim-has-got-to-be-the-most-v0-o6fs1dmxtjyd1.jpg?width=640&crop=smart&auto=webp&s=d40169f4a88bdcb13e147303f8415bbcc86a9351' alt='The backgrounds in Invader Zim has got to be the most underrated ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/the-backgrounds-in-invader-zim-has-got-to-be-the-most-v0-o6fs1dmxtjyd1.jpg?width=640&crop=smart&auto=webp&s=d40169f4a88bdcb13e147303f8415bbcc86a9351' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Weirdcore Invader Zim And Pig Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/weirdcore-invader-zim-and-pig-774ctotq3zuzczwf.jpg' alt='Weirdcore Invader Zim And Pig Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/weirdcore-invader-zim-and-pig-774ctotq3zuzczwf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Invader Zim HD Wallpaper: I Still Got a Hug in Me!">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/265/thumb-1920-26567.jpg' alt='Invader Zim HD Wallpaper: I Still Got a Hug in Me!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/265/thumb-1920-26567.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="  Invader Zim Aesthetic Wallpaper  ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/13/34/76/1334769dae819bb146295125750cb5e0.jpg' alt='  Invader Zim Aesthetic Wallpaper  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="669">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/13/34/76/1334769dae819bb146295125750cb5e0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Invader ZIM Wallpapers (31 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/6/9/5/753217-2844x1600-desktop-hd-invader-zim-wallpaper.jpg' alt='Invader ZIM Wallpapers (31 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2844">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/6/9/5/753217-2844x1600-desktop-hd-invader-zim-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ZIM">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e3/66/3c/e3663c67c2847e2011b7dfd0f5f4074a.jpg' alt='ZIM'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1085">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e3/66/3c/e3663c67c2847e2011b7dfd0f5f4074a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Invader Zim HD Wallpaper: Earth's Not-So-Friendly Visitor">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/614/thumb-1920-614178.jpg' alt='Invader Zim HD Wallpaper: Earth's Not-So-Friendly Visitor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/614/thumb-1920-614178.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Invader Zim Netflix Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/invader-zim-netflix-c5kdl25oqyoixvp7.jpg' alt='Invader Zim Netflix Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/invader-zim-netflix-c5kdl25oqyoixvp7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Which one should I use as a wallpaper : r/invaderzim">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/which-one-should-i-use-as-a-wallpaper-v0-ane0x0ajeg7d1.jpg?width=640&format=pjpg&auto=webp&s=5ea06ea0846c699507aa874de5bd0fe82cfd7b52' alt='Which one should I use as a wallpaper : r/invaderzim'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/which-one-should-i-use-as-a-wallpaper-v0-ane0x0ajeg7d1.jpg?width=640&format=pjpg&auto=webp&s=5ea06ea0846c699507aa874de5bd0fe82cfd7b52' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

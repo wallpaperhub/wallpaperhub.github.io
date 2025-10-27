@@ -1,0 +1,129 @@
+<title>Vibrant Summer Theme Wallpapers for a Fresh Look</title>
+                    <meta name="description" content="Discover a collection of stunning summer theme wallpapers that brighten your devices. From beach sunsets to tropical vibes, find the perfect design to evoke the joy of summer. Refresh your screens with vibrant colors and lively themes that inspire positivity and relaxation. Perfect for any device!">
+                    <meta name="keywords" content="summer theme wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/summer">
+                            <span itemprop="name">Summer</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/summer/summer-theme-wallpaper">
+                            <span itemprop="name">summer theme wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Summer Theme Wallpapers for a Fresh Look</h1>
+                <p>Transform your digital space this summer with vibrant summer theme wallpapers! Experience sun-soaked beaches, lush green landscapes, and colorful sunsets that evoke the essence of the season. Perfect for phones and desktops, these wallpapers will brighten your day and bring a touch of summertime joy to your screens!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Background" Images – Browse 142,421 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/46/14/48/360_F_246144813_VSYaSoJgpD90TY566bpXRLTPCIjnD1SY.jpg' alt='Summer Background" Images – Browse 142,421 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/46/14/48/360_F_246144813_VSYaSoJgpD90TY566bpXRLTPCIjnD1SY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Wallpaper Photos, Download The BEST Free Summer Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/67566/palm-tree-palm-ocean-summer-67566.jpeg?cs=srgb&dl=pexels-pixabay-67566.jpg&fm=jpg' alt='Summer Wallpaper Photos, Download The BEST Free Summer Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4799">
+                                <meta itemprop="height" content="7200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/67566/palm-tree-palm-ocean-summer-67566.jpeg?cs=srgb&dl=pexels-pixabay-67566.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer inspired phone wallpapers - Milk Bubble Tea">
+                                <img itemprop="contentUrl url" src='https://www.milkbubbletea.com/wp-content/uploads/2016/05/Summer-inspired-phone-wallpapers.jpg' alt='Summer inspired phone wallpapers - Milk Bubble Tea'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milk Bubble Tea" />
+                                </span>
+                                <a href='https://www.milkbubbletea.com/wp-content/uploads/2016/05/Summer-inspired-phone-wallpapers.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="600+] Summer Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/summer-background-zh8tgpq7gl5i3sbq.jpg' alt='600+] Summer Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1059">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/summer-background-zh8tgpq7gl5i3sbq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 FREE SUMMER IPHONE WALLPAPERS - PremiumCoding">
+                                <img itemprop="contentUrl url" src='http://premiumcoding.com/wp-content/uploads/2015/06/summer1.jpg' alt='10 FREE SUMMER IPHONE WALLPAPERS - PremiumCoding'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PremiumCoding" />
+                                </span>
+                                <a href='http://premiumcoding.com/wp-content/uploads/2015/06/summer1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable summer desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFEaG-qNbY/1/0/1600w/canva-playful-sunset-cloudy-beach-desktop-wallpaper-74ziqqtcqVc.jpg' alt='Free and customizable summer desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFEaG-qNbY/1/0/1600w/canva-playful-sunset-cloudy-beach-desktop-wallpaper-74ziqqtcqVc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="700+] Summer Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/summer-gsgzr2s1hnv5slj3.jpg' alt='700+] Summer Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/summer-gsgzr2s1hnv5slj3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Aesthetic Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-drawn-background-summer-season_23-2150286825.jpg' alt='Summer Aesthetic Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-drawn-background-summer-season_23-2150286825.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Wallpapers (99 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/a/3/1/19175-1920x1200-desktop-hd-summer-wallpaper-photo.jpg' alt='Summer Wallpapers (99 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/a/3/1/19175-1920x1200-desktop-hd-summer-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Desktop Backgrounds">
+                                <img itemprop="contentUrl url" src='http://randomactsofpastel.com/wp-content/uploads/2014/09/DESKTOP-WATERMELON.jpg' alt='Summer Desktop Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1856">
+                                <meta itemprop="height" content="1161">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Random Acts of Pastel" />
+                                </span>
+                                <a href='http://randomactsofpastel.com/wp-content/uploads/2014/09/DESKTOP-WATERMELON.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

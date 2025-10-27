@@ -1,0 +1,129 @@
+<title>Vibrant T-Rex Wallpaper for Dinosaur Lovers</title>
+                    <meta name="description" content="Discover eye-catching T-Rex wallpaper that adds a touch of adventure to any room. Ideal for kids' spaces and dinosaur lovers, our designs are fun, colorful, and easy to apply. Revamp your walls with these exciting, prehistoric prints today!">
+                    <meta name="keywords" content="t-rex wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/t-rex-wallpaper">
+                            <span itemprop="name">t-rex wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant T-Rex Wallpaper for Dinosaur Lovers</h1>
+                <p>Transform your space with our stunning T-Rex wallpaper. Perfect for dinosaur enthusiasts, this vibrant design captures the majesty of the mighty T-Rex, making it a captivating focal point in any room. Whether for a nursery, child’s playroom, or a themed office, our wallpaper brings prehistoric adventure to life!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mural Wallpaper dinosaur | Majestic T-Rex in full action">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0657/3100/2634/files/papier-peint-dinosaure-t-rex-majestueux-en-pleine-action_a8465e13-e19d-4e25-b3ff-7cff131bd9c5.png?v=1729244401' alt='Mural Wallpaper dinosaur | Majestic T-Rex in full action'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="561">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WonderMural" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0657/3100/2634/files/papier-peint-dinosaure-t-rex-majestueux-en-pleine-action_a8465e13-e19d-4e25-b3ff-7cff131bd9c5.png?v=1729244401' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="T-Rex _ Dinosaurs">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/56840/t-rex-dinosaurs.jpg?h=699&q=85' alt='T-Rex _ Dinosaurs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1048">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/56840/t-rex-dinosaurs.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tyrannosaurus Rex at night - Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallart.com/media/catalog/product/cache/871f459736130e239a3f5e6472128962/w/0/w09434_-_small.jpg' alt='Tyrannosaurus Rex at night - Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallart" />
+                                </span>
+                                <a href='https://www.wallart.com/media/catalog/product/cache/871f459736130e239a3f5e6472128962/w/0/w09434_-_small.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dinosaur Extinction T-Rex Wallpaper Wall Mural">
+                                <img itemprop="contentUrl url" src='https://www.azutura.com/media/catalog/product/cache/52/image/650x/040ec09b1e35df139433887a97daa66f/W/S/WS-50093_WP.jpg' alt='Dinosaur Extinction T-Rex Wallpaper Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Azutura" />
+                                </span>
+                                <a href='https://www.azutura.com/media/catalog/product/cache/52/image/650x/040ec09b1e35df139433887a97daa66f/W/S/WS-50093_WP.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mural Wallpaper dinosaur | Colorful and eye-catching T-Rex">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0657/3100/2634/files/papier-peint-dinosaure-t-rex-colore-et-accrocheur_24c5254d-548d-475a-93de-d72199a50069.png?v=1729257527' alt='Mural Wallpaper dinosaur | Colorful and eye-catching T-Rex'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WonderMural" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0657/3100/2634/files/papier-peint-dinosaure-t-rex-colore-et-accrocheur_24c5254d-548d-475a-93de-d72199a50069.png?v=1729257527' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Official T-Rex Wallpaper (1920x1080) : r/jurassicworldevo">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/mkzm86rrnso01.jpg?auto=webp&s=93868b1ef9d0bc378ebeade13f200b35df8fb0cf' alt='Official T-Rex Wallpaper (1920x1080) : r/jurassicworldevo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/mkzm86rrnso01.jpg?auto=webp&s=93868b1ef9d0bc378ebeade13f200b35df8fb0cf' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jungle T-Rex">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/78806/jungle-t-rex-1.jpg?h=699&q=85' alt='Jungle T-Rex'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="978">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/78806/jungle-t-rex-1.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Roaring T-Rex Wallpaper Wall Mural">
+                                <img itemprop="contentUrl url" src='https://www.azutura.com/media/catalog/product/cache/52/image/650x/040ec09b1e35df139433887a97daa66f/W/S/WS-42405_WP.jpg' alt='Roaring T-Rex Wallpaper Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Azutura" />
+                                </span>
+                                <a href='https://www.azutura.com/media/catalog/product/cache/52/image/650x/040ec09b1e35df139433887a97daa66f/W/S/WS-42405_WP.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Tyrannosaurus Rex - Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallart.com/media/catalog/product/cache/871f459736130e239a3f5e6472128962/w/0/w09439_-_small.jpg' alt='3D Tyrannosaurus Rex - Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1508">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallart" />
+                                </span>
+                                <a href='https://www.wallart.com/media/catalog/product/cache/871f459736130e239a3f5e6472128962/w/0/w09439_-_small.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] T-rex Pictures | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/t-rex-pictures-gzvhy30d1a7ba0ix.jpg' alt='100+] T-rex Pictures | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="987">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/t-rex-pictures-gzvhy30d1a7ba0ix.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

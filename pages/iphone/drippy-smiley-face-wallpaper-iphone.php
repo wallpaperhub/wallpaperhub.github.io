@@ -1,0 +1,129 @@
+<title>Drippy Smiley Face Wallpaper for iPhone: Fun & Playful Design</title>
+                    <meta name="description" content="Discover the perfect drippy smiley face wallpaper for your iPhone! This vibrant design adds a playful vibe to your device, uplifting your mood every time you unlock your screen. Quick download and easy to apply—bring a splash of fun to your phone today!">
+                    <meta name="keywords" content="drippy smiley face wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/drippy-smiley-face-wallpaper-iphone">
+                            <span itemprop="name">drippy smiley face wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Drippy Smiley Face Wallpaper for iPhone: Fun & Playful Design</h1>
+                <p>Transform your iPhone with a drippy smiley face wallpaper! This fun and vibrant design adds a playful touch to your screen, making each glance a joy. Perfect for those who love bold colors and quirky art, this wallpaper will uplift your mood and express your unique style. Download your drippy smiley face wallpaper today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drippy pink smiley face |repost|">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/74/85/e3/7485e38686f378d06075e01a84af0bd0.jpg' alt='Drippy pink smiley face |repost|'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/74/85/e3/7485e38686f378d06075e01a84af0bd0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy drippy smiley face wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4d/67/29/4d67295cc28684e4a6cce28fd7c046dc.jpg' alt='Preppy drippy smiley face wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="706">
+                                <meta itemprop="height" content="1167">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4d/67/29/4d67295cc28684e4a6cce28fd7c046dc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drippy smiley Wallpaper 4K, Cute smiley, Melting smiley">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/drippy-smiley-cute-1284x2778-10171.jpg' alt='Drippy smiley Wallpaper 4K, Cute smiley, Melting smiley'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/drippy-smiley-cute-1284x2778-10171.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Drippy Smiley Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/black-drippy-smiley-inhnanmwdlnlb75x.jpg' alt='Black Drippy Smiley Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/black-drippy-smiley-inhnanmwdlnlb75x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groovy Ocean Vibes with Dripping Smiley Face iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e2/2d/a1/e22da1f8f5323df46ca7bc972b9e1734.jpg' alt='Groovy Ocean Vibes with Dripping Smiley Face iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e2/2d/a1/e22da1f8f5323df46ca7bc972b9e1734.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Yellow And Blue Pattern Dripping Aesthetic Trippy Smiley ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/yellow-and-blue-pattern-dripping-aesthetic-trippy-smiley-face-u21tsvvn8ylilvl5.jpg' alt='Download Yellow And Blue Pattern Dripping Aesthetic Trippy Smiley ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/yellow-and-blue-pattern-dripping-aesthetic-trippy-smiley-face-u21tsvvn8ylilvl5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drippy Smiley Face Phone Wallpaper Ios Wallpaper Android Wallpaper - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/9575649/r/il/171acc/5562594793/il_1080xN.5562594793_6hzb.jpg' alt='Drippy Smiley Face Phone Wallpaper Ios Wallpaper Android Wallpaper - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/9575649/r/il/171acc/5562594793/il_1080xN.5562594793_6hzb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dripping Smiley Face">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/93/d2/19/93d21916b142eab6b51e39758a3486d5.jpg' alt='Dripping Smiley Face'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/93/d2/19/93d21916b142eab6b51e39758a3486d5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drippy smiley #IntuitTouchdownDance #wallpapers #AEHolidayCard #aesthetic  #foryou #fyp #drippysmiley #    ">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7168286798840466730&location=0&aid=1988' alt='Drippy smiley #IntuitTouchdownDance #wallpapers #AEHolidayCard #aesthetic  #foryou #fyp #drippysmiley #    '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7168286798840466730&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drippy smiley Wallpaper 4K, Cute smiley, Melting smiley">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/drippy-smiley-cute-3840x2160-10171.jpg' alt='Drippy smiley Wallpaper 4K, Cute smiley, Melting smiley'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/drippy-smiley-cute-3840x2160-10171.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

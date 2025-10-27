@@ -1,0 +1,129 @@
+<title>Falling Diamonds: A Celestial Spectacle</title>
+                    <meta name="description" content="Explore the enchanting phenomenon of falling diamonds, where beauty meets the cosmos. Discover how these stunning gems evoke wonder during celestial events, creating a mesmerizing spectacle. Join us on this celestial journey and unravel the magic of falling diamonds!">
+                    <meta name="keywords" content="falling diamonds">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/falling-diamonds">
+                            <span itemprop="name">falling diamonds</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Falling Diamonds: A Celestial Spectacle</h1>
+                <p>Falling diamonds captivate the imagination, evoking a sense of wonder as these ethereal gems tumble from the sky. Often seen during meteor showers or celestial events, this dazzling phenomenon sparks a connection between nature and beauty. Discover the allure of these enchanting gems as they fall gracefully, inspiring dreams and stories.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Falling diamonds 4K - Close-up stock video 1056349912">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1056349912/video/falling-diamonds-4k-close-up.jpg?s=640x640&k=20&c=a2bzuFgA1HN05I-r2ngz70BPMMLrzIY32H9pu2wA1PI=' alt='Falling diamonds 4K - Close-up stock video 1056349912'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1056349912/video/falling-diamonds-4k-close-up.jpg?s=640x640&k=20&c=a2bzuFgA1HN05I-r2ngz70BPMMLrzIY32H9pu2wA1PI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,600+ Diamonds Falling Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1285211184/photo/falling-lot-of-diamonds-on-black-background.jpg?s=612x612&w=0&k=20&c=cnpUO9sA7MbAmGr-VkAmz6HT3sNawFngB-nqpmCeIrM=' alt='1,600+ Diamonds Falling Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="383">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1285211184/photo/falling-lot-of-diamonds-on-black-background.jpg?s=612x612&w=0&k=20&c=cnpUO9sA7MbAmGr-VkAmz6HT3sNawFngB-nqpmCeIrM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Slo-Mo Falling Diamonds Loop - Stock Motion Graphics | Motion Array">
+                                <img itemprop="contentUrl url" src='https://motionarray.imgix.net/preview-1158505-Qhw6UMhVi0-high_0013.jpg?w=660&q=60&fit=max&auto=format' alt='Slo-Mo Falling Diamonds Loop - Stock Motion Graphics | Motion Array'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Motion Array" />
+                                </span>
+                                <a href='https://motionarray.imgix.net/preview-1158505-Qhw6UMhVi0-high_0013.jpg?w=660&q=60&fit=max&auto=format' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diamonds Falling">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Au9t4uimOiA/maxresdefault.jpg' alt='Diamonds Falling'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Au9t4uimOiA/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Falling Diamonds by Setsiri Silapasuwanchai">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/falling-diamonds-setsiri-silapasuwanchai.jpg' alt='Falling Diamonds by Setsiri Silapasuwanchai'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fine Art America" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/falling-diamonds-setsiri-silapasuwanchai.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Falling Diamonds Photos, Images & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/diamonds-falling-260nw-2511258763.jpg' alt='Falling Diamonds Photos, Images & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/diamonds-falling-260nw-2511258763.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Lots of shiny diamonds falling on a white surface">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/lots-shiny-diamonds-falling-white-surface_167862-7874.jpg' alt='Premium Photo | Lots of shiny diamonds falling on a white surface'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/lots-shiny-diamonds-falling-white-surface_167862-7874.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Falling diamonds, illustration - Stock Image - C039/6684 - Science ...">
+                                <img itemprop="contentUrl url" src='https://media.sciencephoto.com/c0/39/66/84/c0396684-800px-wm.jpg' alt='Falling diamonds, illustration - Stock Image - C039/6684 - Science ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="565">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Science Photo Library" />
+                                </span>
+                                <a href='https://media.sciencephoto.com/c0/39/66/84/c0396684-800px-wm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Shiny Sparkling Diamond Gems Falling in Slow Motion 4K DJ Visuals  Loop Background">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/MVNNaTojRrI/maxresdefault.jpg' alt='Beautiful Shiny Sparkling Diamond Gems Falling in Slow Motion 4K DJ Visuals  Loop Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/MVNNaTojRrI/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,600+ Diamonds Falling Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/164395996/vector/diamond-falling.jpg?s=612x612&w=0&k=20&c=Z5Zh0ad50_Ddn1vAXaR6rr8c9lrHBo29IS-PwG24wtE=' alt='1,600+ Diamonds Falling Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/164395996/vector/diamond-falling.jpg?s=612x612&w=0&k=20&c=Z5Zh0ad50_Ddn1vAXaR6rr8c9lrHBo29IS-PwG24wtE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning 4K Black Anime Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover mesmerizing 4K black anime wallpapers that elevate your device's visual appeal. Perfect for enthusiasts, these wallpapers combine dark themes with stunning visuals. Download now to transform your screens with stylish and captivating anime art!">
+                    <meta name="keywords" content="black anime wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/black-anime-wallpaper-4k">
+                            <span itemprop="name">black anime wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Black Anime Wallpapers for Your Device</h1>
+                <p>Experience the allure of black anime wallpaper in stunning 4K resolution! Perfect for fans who appreciate the darker aesthetic of anime art, these wallpapers showcase striking characters and breathtaking visuals. Transform your device with captivating backgrounds that highlight the unique beauty of black-themed anime. Download and enjoy today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime 4K Wallpapers in Black Background">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/satoru-gojo-7680x4320-15227.png' alt='Anime 4K Wallpapers in Black Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7680">
+                                <meta itemprop="height" content="4320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/satoru-gojo-7680x4320-15227.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Black Anime Aesthetic Pc Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/black-anime-aesthetic-pc-pkjvm1jerb3j0eij.jpg' alt='100+] Black Anime Aesthetic Pc Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/black-anime-aesthetic-pc-pkjvm1jerb3j0eij.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PixelTabs: The best source of AI-Images, Templates and HD Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fb/e9/3f/fbe93f928d8b1785166c52784733aee5.jpg' alt='PixelTabs: The best source of AI-Images, Templates and HD Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fb/e9/3f/fbe93f928d8b1785166c52784733aee5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark, anime, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/284/393/HD-wallpaper-dark-anime.jpg' alt='Dark, anime, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/284/393/HD-wallpaper-dark-anime.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Satoru Gojo Wallpaper 4K, Black background, 8K, AMOLED, 5K">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/satoru-gojo-black-3440x1440-14684.png' alt='Satoru Gojo Wallpaper 4K, Black background, 8K, AMOLED, 5K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/satoru-gojo-black-3440x1440-14684.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="anime black wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ec/23/0f/ec230f326adf1295c1b7eb2605107ff8.jpg' alt='anime black wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ec/23/0f/ec230f326adf1295c1b7eb2605107ff8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="dark anime, girl, art Wallpaper, HD Anime 4K Wallpapers, Images ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/dark-anime-girl-art_a2tnbZSZmpqtpaSklGdqZWWtZmpmbQ.jpg' alt='dark anime, girl, art Wallpaper, HD Anime 4K Wallpapers, Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1518">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/dark-anime-girl-art_a2tnbZSZmpqtpaSklGdqZWWtZmpmbQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Dark Anime Guy 4k Phone Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dark-anime-guy-4k-phone-axewwxcp1z1szqwl.jpg' alt='Download Dark Anime Guy 4k Phone Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dark-anime-guy-4k-phone-axewwxcp1z1szqwl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unique Dark Anime Girl Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/unique-dark-anime-girl-av38gn688b18s1gk.jpg' alt='Unique Dark Anime Girl Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/unique-dark-anime-girl-av38gn688b18s1gk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Itachi Uchiha Dark Raven HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/144/thumb-1920-144565.jpg' alt='Itachi Uchiha Dark Raven HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/144/thumb-1920-144565.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

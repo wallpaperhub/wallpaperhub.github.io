@@ -1,0 +1,129 @@
+<title>Master the Art of Blurring Backgrounds in Photos</title>
+                    <meta name="description" content="Learn how to blur backgrounds in your photos for stunning, professional-looking images. Discover tips and techniques to emphasize your subject and create captivating visuals effortlessly. Perfect for beginners and photography enthusiasts alike. Enhance your photography game today!">
+                    <meta name="keywords" content="blur background photo">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blur-background-photo">
+                            <span itemprop="name">blur background photo</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Master the Art of Blurring Backgrounds in Photos</h1>
+                <p>Blurring the background of a photo enhances the subject, drawing focus and adding depth. This technique, often achieved through portrait mode on cameras or editing software, can transform ordinary images into stunning visuals. It’s perfect for portraits, product photography, and artistic shots, making your photos stand out effortlessly.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blurred Background Photos, Download The BEST Free Blurred ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1590549/pexels-photo-1590549.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' alt='Blurred Background Photos, Download The BEST Free Blurred ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1590549/pexels-photo-1590549.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Captivating Image Of Dslr Captured Blur Background Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/captivating-image-of-dslr-captured-blur-background-2p2696uczuhhbw0g.jpg' alt='Captivating Image Of Dslr Captured Blur Background Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/captivating-image-of-dslr-captured-blur-background-2p2696uczuhhbw0g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to get background blur in your photos by Zoë Power | Beautiful ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/620bb50c00af5319710b2218/2d188987-4180-421b-94ec-7172c9358460/Flowers-background-blur.jpg' alt='How to get background blur in your photos by Zoë Power | Beautiful ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Beautiful Simplicity" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/620bb50c00af5319710b2218/2d188987-4180-421b-94ec-7172c9358460/Flowers-background-blur.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blurred Background Photos, Download The BEST Free Blurred ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1957693/pexels-photo-1957693.jpeg?cs=srgb&dl=pexels-markusspiske-1957693.jpg&fm=jpg' alt='Blurred Background Photos, Download The BEST Free Blurred ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="5760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1957693/pexels-photo-1957693.jpeg?cs=srgb&dl=pexels-markusspiske-1957693.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Blur background in photoshop ideas | blur background in ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/ef/54/1a/ef541a91981d33021b53b63efa6bf71d.jpg' alt='7 Blur background in photoshop ideas | blur background in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/ef/54/1a/ef541a91981d33021b53b63efa6bf71d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nature Blur Background Stock Photos, Images and Backgrounds for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/024/264/951/small/blurred-spring-background-nature-with-blooming-glade-generative-ai-technology-free-photo.jpg' alt='Nature Blur Background Stock Photos, Images and Backgrounds for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="357">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/024/264/951/small/blurred-spring-background-nature-with-blooming-glade-generative-ai-technology-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Blur Background In Your iPhone Photos: The Ultimate Guide">
+                                <img itemprop="contentUrl url" src='https://images.iphonephotographyschool.com/22682/1120/How-To-Blur-Background-On-iPhone.jpg' alt='How To Blur Background In Your iPhone Photos: The Ultimate Guide'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1120">
+                                <meta itemprop="height" content="1120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iPhone Photography School" />
+                                </span>
+                                <a href='https://images.iphonephotographyschool.com/22682/1120/How-To-Blur-Background-On-iPhone.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blur Background Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/013/089/133/small_2x/abstract-soft-focus-sunset-field-landscape-of-white-flowers-and-grass-meadow-warm-golden-hour-sunset-sunrise-time-tranquil-spring-summer-nature-closeup-and-blurred-forest-background-idyllic-nature-photo.jpg' alt='Blur Background Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="599">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/013/089/133/small_2x/abstract-soft-focus-sunset-field-landscape-of-white-flowers-and-grass-meadow-warm-golden-hour-sunset-sunrise-time-tranquil-spring-summer-nature-closeup-and-blurred-forest-background-idyllic-nature-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Blur Background Tool - Blur Photo Background Online | Canva">
+                                <img itemprop="contentUrl url" src='https://static-cse.canva.com/blob/1410728/tools-feature_blur-background_hero_mobile.4ff8fc21.jpg' alt='Free Blur Background Tool - Blur Photo Background Online | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2568">
+                                <meta itemprop="height" content="1535">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://static-cse.canva.com/blob/1410728/tools-feature_blur-background_hero_mobile.4ff8fc21.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="captivating Dslr Blurred Background" Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/dslr-blur-gulmohar-tree-ops2bhqbo2bq1id1.webp' alt='captivating Dslr Blurred Background" Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/dslr-blur-gulmohar-tree-ops2bhqbo2bq1id1.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Off-White Background: Versatile Design Solution</title>
+                    <meta name="description" content="Discover the beauty of off-white backgrounds! Perfect for enhancing designs and creating a clean, modern look in photography, branding, and more. Explore how this subtle shade can elevate your projects while ensuring a neutral yet warm appeal. Ideal for any creative endeavor!">
+                    <meta name="keywords" content="off white background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/off-white-background">
+                            <span itemprop="name">off white background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Off-White Background: Versatile Design Solution</h1>
+                <p>An off-white background is a versatile choice for various design projects, providing a soft, neutral palette that enhances any artwork or text. Its subtlety allows other elements to shine while maintaining a clean and modern aesthetic. Ideal for photography, branding, and websites, it adds warmth without overwhelming the senses.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Off White Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/paper-background_53876-147734.jpg' alt='Off White Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/paper-background_53876-147734.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8,800+ Off White Texture Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1186232338/vector/marble-textured-light-colored-beige-vintage-paper-vector-illustration.jpg?s=612x612&w=0&k=20&c=MF4dl0cbwHVYoo8mz_LoaJXmjFambYK3fzdjuPTNCjM=' alt='8,800+ Off White Texture Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1186232338/vector/marble-textured-light-colored-beige-vintage-paper-vector-illustration.jpg?s=612x612&w=0&k=20&c=MF4dl0cbwHVYoo8mz_LoaJXmjFambYK3fzdjuPTNCjM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30,000+ Off White Colour Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1617713964959-d9a36bbc7b52?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8b2ZmJTIwd2hpdGUlMjBjb2xvdXJ8ZW58MHx8MHx8fDA%3D' alt='30,000+ Off White Colour Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1617713964959-d9a36bbc7b52?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8b2ZmJTIwd2hpdGUlMjBjb2xvdXJ8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Off White Texture Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/019/588/907/small_2x/off-white-watercolor-space-background-soft-paper-texture-grunge-background-beautiful-white-abstract-watercolor-painting-textured-on-white-paper-background-graphics-design-vector.jpg' alt='Off White Texture Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/019/588/907/small_2x/off-white-watercolor-space-background-soft-paper-texture-grunge-background-beautiful-white-abstract-watercolor-painting-textured-on-white-paper-background-graphics-design-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8,800+ Off White Texture Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1171080937/vector/textured-effect-wall-grunge-light-yellow-off-white-background-stock-vector-illustration.jpg?s=612x612&w=0&k=20&c=r1jDtWl5YVJKh-f80lIXT8-1mshrYzhn3j-xD9qFh4g=' alt='8,800+ Off White Texture Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="382">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1171080937/vector/textured-effect-wall-grunge-light-yellow-off-white-background-stock-vector-illustration.jpg?s=612x612&w=0&k=20&c=r1jDtWl5YVJKh-f80lIXT8-1mshrYzhn3j-xD9qFh4g=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Off White Texture Background Images – Browse 60,952 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/32/74/34/360_F_232743479_Zzil5APYDHoBrUk7qfH7eYyq5KW0nV0C.jpg' alt='Off White Texture Background Images – Browse 60,952 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="539">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/32/74/34/360_F_232743479_Zzil5APYDHoBrUk7qfH7eYyq5KW0nV0C.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Off White Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/white-coarse-canvas-texture-white-paper-texture_87555-19732.jpg?semt=ais_hybrid' alt='Off White Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="423">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/white-coarse-canvas-texture-white-paper-texture_87555-19732.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30,000+ Off White Colour Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1675788273295-6b008db2666e?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8b2ZmJTIwd2hpdGUlMjBjb2xvdXJ8ZW58MHx8MHx8fDA%3D' alt='30,000+ Off White Colour Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1675788273295-6b008db2666e?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8b2ZmJTIwd2hpdGUlMjBjb2xvdXJ8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Off White Texture Background Images – Browse 60,952 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/99/45/32/360_F_499453224_GOuwhWOXkzAdtXTKFajS91I3LbMFyyQE.jpg' alt='Off White Texture Background Images – Browse 60,952 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/99/45/32/360_F_499453224_GOuwhWOXkzAdtXTKFajS91I3LbMFyyQE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Off white backdrop hi-res stock photography and images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/E95TFE/vintage-off-white-parchment-paper-background-E95TFE.jpg' alt='Off white backdrop hi-res stock photography and images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/E95TFE/vintage-off-white-parchment-paper-background-E95TFE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

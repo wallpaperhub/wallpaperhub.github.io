@@ -1,0 +1,129 @@
+<title>Electrifying Neon Wallpaper for a Lively Aesthetic</title>
+                    <meta name="description" content="Brighten your home with stunning neon wallpaper! Perfect for any modern space, our vibrant designs add energy and style. Explore a variety of patterns that illuminate your walls and inspire creativity. Ideal for bedrooms, living rooms, or any area that needs a vibrant touch! Start your transformation today!">
+                    <meta name="keywords" content="aesthetic:ib7p5aaghkq= neon wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aestheticib7p5aaghkq-neon-wallpaper">
+                            <span itemprop="name">aesthetic:ib7p5aaghkq= neon wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Electrifying Neon Wallpaper for a Lively Aesthetic</h1>
+                <p>Transform your space with vibrant neon wallpaper that brings an electrifying aesthetic to any room. Perfect for creating an energetic vibe, neon designs complement modern interiors and artistic styles alike. From geometric patterns to abstract art, discover a variety of options to illuminate your walls and inspire creativity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic neon wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0c/55/73/0c5573e5450f6c4446a47f3904f187a7.jpg' alt='Aesthetic neon wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1369">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0c/55/73/0c5573e5450f6c4446a47f3904f187a7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="600+] Neon Aesthetic Pictures | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/neon-aesthetic-pictures-0d24nj0s4c8fht8w.jpg' alt='600+] Neon Aesthetic Pictures | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/neon-aesthetic-pictures-0d24nj0s4c8fht8w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon rainbow aesthetic phone wallpaper #neon #backgrounds #glow ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ab/0d/30/ab0d3018aa2e5d1c0fc5a55f05d72b38.jpg' alt='Neon rainbow aesthetic phone wallpaper #neon #backgrounds #glow ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1310">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ab/0d/30/ab0d3018aa2e5d1c0fc5a55f05d72b38.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD neon aesthetic wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/526/199/HD-wallpaper-neon-vibes-aesthetics-neon-vibes-thumbnail.jpg' alt='HD neon aesthetic wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="637">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/526/199/HD-wallpaper-neon-vibes-aesthetics-neon-vibes-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="neon aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b9/de/b2/b9deb248d6ddda79f9344a5eab327db9.jpg' alt='neon aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b9/de/b2/b9deb248d6ddda79f9344a5eab327db9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Bright and vibrant colors create a unique and eye ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/blue-and-pink-aesthetic-neon-tvbcww85l6mef78a.jpg' alt='Download Bright and vibrant colors create a unique and eye ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/blue-and-pink-aesthetic-neon-tvbcww85l6mef78a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="500+] Neon Aesthetic Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/neon-aesthetic-background-o9ycox1urbgthc92.jpg' alt='500+] Neon Aesthetic Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/neon-aesthetic-background-o9ycox1urbgthc92.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon aesthetic wallpaper       ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/dd/fe/70/ddfe70ee047e6b7de43ab299e3e4a7a3.jpg' alt='Neon aesthetic wallpaper       '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1066">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/dd/fe/70/ddfe70ee047e6b7de43ab299e3e4a7a3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Enchanting Neon Glow Aesthetic Dark Wallpaper Background ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/enchanting-neon-glow-aesthetic-dark-wallpaper-background-illuminated-by-vibrant-lights_1000124-1244.jpg?w=360' alt='Enchanting Neon Glow Aesthetic Dark Wallpaper Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/enchanting-neon-glow-aesthetic-dark-wallpaper-background-illuminated-by-vibrant-lights_1000124-1244.jpg?w=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Blue And Pink Aesthetic Neon Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/blue-and-pink-aesthetic-neon-f0gdzlolqaf7tecc.jpg' alt='100+] Blue And Pink Aesthetic Neon Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/blue-and-pink-aesthetic-neon-f0gdzlolqaf7tecc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

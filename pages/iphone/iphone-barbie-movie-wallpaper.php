@@ -1,0 +1,129 @@
+<title>Stylish iPhone Barbie Movie Wallpapers</title>
+                    <meta name="description" content="Discover a collection of eye-catching iPhone wallpapers from the Barbie movie. Perfect for fans looking to add a touch of whimsy and color to their screens. Download now and bring the magic of Barbie into your daily life!">
+                    <meta name="keywords" content="iphone barbie movie wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-barbie-movie-wallpaper">
+                            <span itemprop="name">iphone barbie movie wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish iPhone Barbie Movie Wallpapers</h1>
+                <p>Transform your iPhone with vibrant wallpapers inspired by the Barbie movie! Choose from stunning designs featuring the iconic doll in magical scenes, colorful backgrounds, and playful patterns that capture the essence of friendship and fun. Elevate your device's aesthetic while celebrating Barbie's adventurous spirit!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barbie the movie iPhone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fe/1b/a6/fe1ba664091871da464681442182c714.jpg' alt='Barbie the movie iPhone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="595">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fe/1b/a6/fe1ba664091871da464681442182c714.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barbie The Movie (2023) lockscreen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/9e/b5/95/9eb595503eeb73af5abee621022c238d.jpg' alt='Barbie The Movie (2023) lockscreen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="559">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/9e/b5/95/9eb595503eeb73af5abee621022c238d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barbie The Movie (2023) lockscreen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/c1/76/56/c1765644c2db10dd75009fd40f0917f6.jpg' alt='Barbie The Movie (2023) lockscreen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="554">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/c1/76/56/c1765644c2db10dd75009fd40f0917f6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barbie The Movie Iphone Wallpaper Textless">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ec/c7/40/ecc74007332f82100d0a995803f54023.jpg' alt='Barbie The Movie Iphone Wallpaper Textless'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1502">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ec/c7/40/ecc74007332f82100d0a995803f54023.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barbie the Movie Wallpaper by me   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9f/b1/88/9fb188504f0ee870fe287d2d89229fbd.jpg' alt='Barbie the Movie Wallpaper by me   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="621">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9f/b1/88/9fb188504f0ee870fe287d2d89229fbd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barbie Ken Movie 4K Wallpaper iPhone HD Phone #4491l">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/barbie-ken-movie-margot-robbie-ryan-gosling-449@1@l-phone-4k.jpg' alt='Barbie Ken Movie 4K Wallpaper iPhone HD Phone #4491l'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/barbie-ken-movie-margot-robbie-ryan-gosling-449@1@l-phone-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Barbie Movie Wallpaper   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/09/8a/e5/098ae5aae0623909b980c3c7ba90d695.jpg' alt='Barbie Movie Wallpaper   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/09/8a/e5/098ae5aae0623909b980c3c7ba90d695.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BARBIE THE MOVIE WALLPAPER 4K - HeroWall | Phone Backgrounds. Free ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/a/AVvXsEinWGEo___Tm1rYx23Qm6aR5dwgpsTE9QAVKg-PTJJLx8aIIHRWVDAZ4qjitp2y3V28xTZS6-OUYsMNz72wQqLomDIhvlwgC94gXuvCKJGEN0GlI3hnFNN0wWgh1jfdbAsoJ5zd0NUbpXKelyAgN8Ug1uGl61sDcqYWVBn1iHTnJBnDaLrpawog8saZfPw=s600' alt='BARBIE THE MOVIE WALLPAPER 4K - HeroWall | Phone Backgrounds. Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="405">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HeroWall" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/a/AVvXsEinWGEo___Tm1rYx23Qm6aR5dwgpsTE9QAVKg-PTJJLx8aIIHRWVDAZ4qjitp2y3V28xTZS6-OUYsMNz72wQqLomDIhvlwgC94gXuvCKJGEN0GlI3hnFNN0wWgh1jfdbAsoJ5zd0NUbpXKelyAgN8Ug1uGl61sDcqYWVBn1iHTnJBnDaLrpawog8saZfPw=s600' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Barbie Movie Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/barbie-movie-promotional-poster-1fnijv5yd18oc5kj.jpg' alt='100+] Barbie Movie Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/barbie-movie-promotional-poster-1fnijv5yd18oc5kj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9+ Popular BARBIE Movie HD Wallpapers, Backgrounds and Photos">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/margot-robbie-barbie-movie-2022_bWhlbGWUmZqaraWkpJRmbmdlrWdpZWU.jpg' alt='9+ Popular BARBIE Movie HD Wallpapers, Backgrounds and Photos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/margot-robbie-barbie-movie-2022_bWhlbGWUmZqaraWkpJRmbmdlrWdpZWU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

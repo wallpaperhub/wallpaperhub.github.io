@@ -1,0 +1,129 @@
+<title>Elegant Pink and Gray Floral Wallpaper for a Stylish Home</title>
+                    <meta name="description" content="Discover beautiful pink and gray floral wallpaper to elevate your interior decor. Perfect for any room, this stylish design combines softness with elegance, creating a welcoming atmosphere. Shop now for a chic update that enhances your home’s aesthetic effortlessly!">
+                    <meta name="keywords" content="pink and gray floral wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-and-gray-floral-wallpaper">
+                            <span itemprop="name">pink and gray floral wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Pink and Gray Floral Wallpaper for a Stylish Home</h1>
+                <p>Transform your space with stunning pink and gray floral wallpaper. This elegant design brings a touch of sophistication and charm to any room, blending soft hues and intricate patterns. Perfect for bedrooms, living areas, or even accent walls, it's an ideal choice for modern and classic decor styles alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blooming Wall DPYA25 Removable Watercolor Pink Roses in Grey Background  Textured Peel and Stick Wallpaper Self-Adhesive Prepasted Wallpaper Wall  Mural ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91Prg-adIBL.jpg' alt='Blooming Wall DPYA25 Removable Watercolor Pink Roses in Grey Background  Textured Peel and Stick Wallpaper Self-Adhesive Prepasted Wallpaper Wall  Mural ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2510">
+                                <meta itemprop="height" content="2510">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91Prg-adIBL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Grey and Pink Rose Floral Wallpaper - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/9214223/r/il/8167f0/1213954886/il_570xN.1213954886_f9af.jpg' alt='Vintage Grey and Pink Rose Floral Wallpaper - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="388">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/9214223/r/il/8167f0/1213954886/il_570xN.1213954886_f9af.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Flowers Wallpaper Peel and Stick, Grey Floral Contact Paper, Vintge  Botanical Boho Wall Paper Self Adhesive Waterproof Removable for Room  Shelves ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81cEra4fYzL.jpg' alt='Pink Flowers Wallpaper Peel and Stick, Grey Floral Contact Paper, Vintge  Botanical Boho Wall Paper Self Adhesive Waterproof Removable for Room  Shelves ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2411">
+                                <meta itemprop="height" content="2411">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81cEra4fYzL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Wallpaper Linen Effect Light Grey Blush Pink Luxury Floral Rose  Textured">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/g~QAAOSwyFBf2zBQ/s-l1200.jpg' alt='Floral Wallpaper Linen Effect Light Grey Blush Pink Luxury Floral Rose  Textured'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/g~QAAOSwyFBf2zBQ/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Contemporary Grey Wallpaper with Pink Flowers – Lovecup.com">
+                                <img itemprop="contentUrl url" src='https://www.lovecup.com/cdn/shop/products/s0X0GS_2400x.jpg?v=1693313530' alt='Contemporary Grey Wallpaper with Pink Flowers – Lovecup.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lovecup.com" />
+                                </span>
+                                <a href='https://www.lovecup.com/cdn/shop/products/s0X0GS_2400x.jpg?v=1693313530' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1940s Vintage Wallpaper Pink Flowers on Gray">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-own6dl/images/stencil/1280x1280/products/3884/11340/IMG_9942_edited-1__17600.1681781846.jpg?c=2' alt='1940s Vintage Wallpaper Pink Flowers on Gray'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rosie's Vintage Wallpaper" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-own6dl/images/stencil/1280x1280/products/3884/11340/IMG_9942_edited-1__17600.1681781846.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor Seamless Pattern with Pink Flowers and Leaves on Gray ...">
+                                <img itemprop="contentUrl url" src='https://www.lovecup.com/cdn/shop/products/watercolor-seamless-pattern-with-pink-flowers-and-leaves-on-gray-background-wallpaper-mural-22642577637563_800x.jpg?v=1693432035' alt='Watercolor Seamless Pattern with Pink Flowers and Leaves on Gray ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lovecup.com" />
+                                </span>
+                                <a href='https://www.lovecup.com/cdn/shop/products/watercolor-seamless-pattern-with-pink-flowers-and-leaves-on-gray-background-wallpaper-mural-22642577637563_800x.jpg?v=1693432035' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peony Bouquet - Gray Floral Wallpaper by Cara's Garden">
+                                <img itemprop="contentUrl url" src='http://mitchellblack.com/cdn/shop/files/Peony_gray.jpg?v=1691527584' alt='Peony Bouquet - Gray Floral Wallpaper by Cara's Garden'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mitchell Black" />
+                                </span>
+                                <a href='http://mitchellblack.com/cdn/shop/files/Peony_gray.jpg?v=1691527584' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fine Decor Eden Pink Floral Non-Pasted Vinyl Wallpaper M1647">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/8593f35c-6a75-478d-a34a-7238da397020/svn/fine-decor-wallpaper-rolls-m1647-64_600.jpg' alt='Fine Decor Eden Pink Floral Non-Pasted Vinyl Wallpaper M1647'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/8593f35c-6a75-478d-a34a-7238da397020/svn/fine-decor-wallpaper-rolls-m1647-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galerie EN3395414 Floral Texture Pink Grey Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/247144.jpg' alt='Galerie EN3395414 Floral Texture Pink Grey Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/247144.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

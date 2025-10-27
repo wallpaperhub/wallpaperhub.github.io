@@ -1,0 +1,129 @@
+<title>Epic DnD Music for Immersive Adventures</title>
+                    <meta name="description" content="Explore the power of DnD music to elevate your tabletop games! Discover curated soundtracks, thematic playlists, and tips to create the perfect atmosphere for your adventures. Make your role-playing sessions unforgettable with the right tunes!">
+                    <meta name="keywords" content="dnd music">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dnd-music">
+                            <span itemprop="name">dnd music</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic DnD Music for Immersive Adventures</h1>
+                <p>DnD music enhances the immersive experience of tabletop games, setting the tone for adventures in fantastical realms. From epic orchestral scores to ambient soundscapes, it brings your stories to life, making each session memorable. Discover playlists, soundtracks, and tips for choosing the perfect tunes for your campaigns.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DnD Music - D&D / Dungeons and Dragons | Medieval, Epic, Fantasy ...">
+                                <img itemprop="contentUrl url" src='https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8466d479f5d4254249b142ef75' alt='DnD Music - D&D / Dungeons and Dragons | Medieval, Epic, Fantasy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8466d479f5d4254249b142ef75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to use music in your Dungeons & Dragons campaign | Dicebreaker">
+                                <img itemprop="contentUrl url" src='https://assetsio.gnwcdn.com/dnd-5e-artwork-music.png?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp' alt='How to use music in your Dungeons & Dragons campaign | Dicebreaker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dicebreaker" />
+                                </span>
+                                <a href='https://assetsio.gnwcdn.com/dnd-5e-artwork-music.png?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="OC]What kind of music best suits a battle? : r/DnD">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/kpn8pveo0dcd1.png' alt='OC]What kind of music best suits a battle? : r/DnD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2525">
+                                <meta itemprop="height" content="2480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/kpn8pveo0dcd1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to use music in your Dungeons & Dragons campaign | Dicebreaker">
+                                <img itemprop="contentUrl url" src='https://assetsio.gnwcdn.com/dnd-eberron-artwork-landscape-tavern.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp' alt='How to use music in your Dungeons & Dragons campaign | Dicebreaker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dicebreaker" />
+                                </span>
+                                <a href='https://assetsio.gnwcdn.com/dnd-eberron-artwork-landscape-tavern.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stream DnD Tavern Music by Smorphy | Listen online for free on ...">
+                                <img itemprop="contentUrl url" src='https://i1.sndcdn.com/artworks-Zy5WIBsJyuVPT7iH-6ZsdWQ-t500x500.jpg' alt='Stream DnD Tavern Music by Smorphy | Listen online for free on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SoundCloud" />
+                                </span>
+                                <a href='https://i1.sndcdn.com/artworks-Zy5WIBsJyuVPT7iH-6ZsdWQ-t500x500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Adventure Begins | D&D/TTRPG Music | 1 Hour">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Jikm8CCRbdM/maxresdefault.jpg' alt='The Adventure Begins | D&D/TTRPG Music | 1 Hour'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Jikm8CCRbdM/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="One D&D Finally Makes Musical Instruments Useful">
+                                <img itemprop="contentUrl url" src='https://static1.srcdn.com/wordpress/wp-content/uploads/2022/09/DD-Ellywick-Artwork.jpg' alt='One D&D Finally Makes Musical Instruments Useful'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Screen Rant" />
+                                </span>
+                                <a href='https://static1.srcdn.com/wordpress/wp-content/uploads/2022/09/DD-Ellywick-Artwork.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DND songs - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/wLlovxa3VJ0/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCSxJZGOuC7WAN8rAwNKhwvN-ak5A' alt='DND songs - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/wLlovxa3VJ0/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCSxJZGOuC7WAN8rAwNKhwvN-ak5A' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Understanding Music for D&D | Essential Ingredient for Immersive ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5d93b44c542e4e299451cbdb/1599231118688-LISP52U5Z8C3LAGRL9QU/20200417_TRO_FaytevsOrc_Painting_v3.jpg?format=2500w' alt='Understanding Music for D&D | Essential Ingredient for Immersive ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1766">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The D&D Coalition" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5d93b44c542e4e299451cbdb/1599231118688-LISP52U5Z8C3LAGRL9QU/20200417_TRO_FaytevsOrc_Painting_v3.jpg?format=2500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stream Rick | Listen to DnD Bard Violin Music playlist online for ...">
+                                <img itemprop="contentUrl url" src='https://i1.sndcdn.com/artworks-G3IT2b7T4tdXjGDK-rAlPnQ-t500x500.jpg' alt='Stream Rick | Listen to DnD Bard Violin Music playlist online for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SoundCloud" />
+                                </span>
+                                <a href='https://i1.sndcdn.com/artworks-G3IT2b7T4tdXjGDK-rAlPnQ-t500x500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

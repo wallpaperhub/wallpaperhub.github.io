@@ -1,0 +1,129 @@
+<title>Arizona Criminal Records: Quick Access Guide</title>
+                    <meta name="description" content="Discover how to access Arizona criminal records efficiently. Learn the process, what information is included, and the importance of these records for background checks. Stay informed about your rights and ensure a smooth background verification process. Perfect for job seekers and landlords alike!">
+                    <meta name="keywords" content="arizona criminal records">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/arizona-criminal-records">
+                            <span itemprop="name">arizona criminal records</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Arizona Criminal Records: Quick Access Guide</h1>
+                <p>Arizona criminal records contain vital information about an individual's criminal history, including arrests, convictions, and sentencing. These records are often accessed for background checks by employers, landlords, and others. Understanding how to obtain and review these records is essential for those seeking employment or opportunities in Arizona.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Search Arizona Arrests & Criminal Records for Free: All Counties in AZ">
+                                <img itemprop="contentUrl url" src='https://arizona.recordspage.org/wp-content/uploads/sites/4/2023/03/Mohave-County-Arizona-Most-Wanted-Page-Screenshot.webp' alt='Search Arizona Arrests & Criminal Records for Free: All Counties in AZ'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Search Arizona State Records & Public Information for Free" />
+                                </span>
+                                <a href='https://arizona.recordspage.org/wp-content/uploads/sites/4/2023/03/Mohave-County-Arizona-Most-Wanted-Page-Screenshot.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Search Arizona State Records & Public Information for Free">
+                                <img itemprop="contentUrl url" src='https://arizona.recordspage.org/wp-content/uploads/sites/4/2022/07/Arizona-Judicial-Branch-Case-Search.webp' alt='Search Arizona State Records & Public Information for Free'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="arizona.recordspage.org" />
+                                </span>
+                                <a href='https://arizona.recordspage.org/wp-content/uploads/sites/4/2022/07/Arizona-Judicial-Branch-Case-Search.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Search Arizona State Records & Public Information for Free">
+                                <img itemprop="contentUrl url" src='https://arizona.recordspage.org/wp-content/uploads/sites/4/2022/05/arizona-records-page-logo.png' alt='Search Arizona State Records & Public Information for Free'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="arizona.recordspage.org" />
+                                </span>
+                                <a href='https://arizona.recordspage.org/wp-content/uploads/sites/4/2022/05/arizona-records-page-logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Search Arizona State Records & Public Information for Free">
+                                <img itemprop="contentUrl url" src='https://arizona.recordspage.org/wp-content/uploads/sites/4/2022/07/ADC-Inmate-Data-Search.webp' alt='Search Arizona State Records & Public Information for Free'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="arizona.recordspage.org" />
+                                </span>
+                                <a href='https://arizona.recordspage.org/wp-content/uploads/sites/4/2022/07/ADC-Inmate-Data-Search.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arizona Criminal Records - Arizona Judicial Branch">
+                                <img itemprop="contentUrl url" src='https://usabackground.com/wp-content/uploads/arizona-criminal-records.jpg' alt='Arizona Criminal Records - Arizona Judicial Branch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BCS Background Screening, LLC" />
+                                </span>
+                                <a href='https://usabackground.com/wp-content/uploads/arizona-criminal-records.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Do I Find Arizona Criminal Records? - CountyOffice.org - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/vq-TVogfS2g/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBOAddD3HE3IYt3dgLuHVebgaE3uA' alt='How Do I Find Arizona Criminal Records? - CountyOffice.org - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/vq-TVogfS2g/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBOAddD3HE3IYt3dgLuHVebgaE3uA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Online Arizona Criminal Records - The Ancestor Hunt">
+                                <img itemprop="contentUrl url" src='https://theancestorhunt.com/wp-content/uploads/2022/04/Arizona-Criminal-Header.png' alt='Free Online Arizona Criminal Records - The Ancestor Hunt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="381">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Ancestor Hunt" />
+                                </span>
+                                <a href='https://theancestorhunt.com/wp-content/uploads/2022/04/Arizona-Criminal-Header.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arizona State Criminal Records">
+                                <img itemprop="contentUrl url" src='http://arizona.statecrim.com/images/sample_report_full.fw.png' alt='Arizona State Criminal Records'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="982">
+                                <meta itemprop="height" content="1953">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="State Criminal Records" />
+                                </span>
+                                <a href='http://arizona.statecrim.com/images/sample_report_full.fw.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Public Arrest Records Az">
+                                <img itemprop="contentUrl url" src='https://free-public-arrest-records-az.govbackgroundchecks.com/screenshots/free-public-arrest-records-az/8.jpg' alt='Free Public Arrest Records Az'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://free-public-arrest-records-az.govbackgroundchecks.com/screenshots/free-public-arrest-records-az/8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Handle Your Criminal Record in Arizona [Infographic] | Blog">
+                                <img itemprop="contentUrl url" src='http://static1.squarespace.com/static/5bf92f2650a54f868ebcffb4/5c324a11ff02eccedc567dd5/5c324b13ff02eccedc56a1d3/1546799891629/How-to-Handle-Your-Criminal-Record-in-Arizona_JUNE.jpg?format=original' alt='How to Handle Your Criminal Record in Arizona [Infographic] | Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tyler Allen Law Firm" />
+                                </span>
+                                <a href='http://static1.squarespace.com/static/5bf92f2650a54f868ebcffb4/5c324a11ff02eccedc567dd5/5c324b13ff02eccedc56a1d3/1546799891629/How-to-Handle-Your-Criminal-Record-in-Arizona_JUNE.jpg?format=original' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

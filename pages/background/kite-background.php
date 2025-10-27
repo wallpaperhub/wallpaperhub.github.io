@@ -1,0 +1,129 @@
+<title>Kite History: From Ancient Roots to Modern Fun</title>
+                    <meta name="description" content="Explore the fascinating history of kites, from their ancient origins in China to their evolution into a beloved recreational activity. Discover the materials, designs, and the joy of kite flying today, perfect for all ages!">
+                    <meta name="keywords" content="kite background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/kite-background">
+                            <span itemprop="name">kite background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Kite History: From Ancient Roots to Modern Fun</h1>
+                <p>Kites have a rich history, tracing back to ancient China, where they served various purposes, from military communication to entertainment. Traditionally made from paper and bamboo, modern kites come in diverse materials and designs, evolving into popular recreational activities. Flying kites fosters creativity and offers a delightful connection with nature.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kite Backgrounds Images – Browse 82,463 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/07/89/07/360_F_207890792_UvDCOKLC4Dewg6SHbyoZnl8tZiGGvu0G.jpg' alt='Kite Backgrounds Images – Browse 82,463 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/07/89/07/360_F_207890792_UvDCOKLC4Dewg6SHbyoZnl8tZiGGvu0G.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kite Backgrounds Images – Browse 82,463 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/44/94/89/360_F_244948925_NCacadNn3VwAwm3qrH53zTIR9oTgHZFV.jpg' alt='Kite Backgrounds Images – Browse 82,463 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="565">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/44/94/89/360_F_244948925_NCacadNn3VwAwm3qrH53zTIR9oTgHZFV.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kites Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/colorful-kite-flying-blue-sky_1308-29925.jpg' alt='Kites Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="472">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/colorful-kite-flying-blue-sky_1308-29925.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kite Sky Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/042/197/388/small/ai-generated-sky-with-kites-background-free-photo.jpg' alt='Kite Sky Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="357">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/042/197/388/small/ai-generated-sky-with-kites-background-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kites And Birds On The Background Of Sky And Clouds Stock ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/491292358/vector/kites-and-birds-on-the-background-of-sky-and-clouds.jpg?s=612x612&w=is&k=20&c=-2BdmPf7OABrhn1shDFKeJuD0EjX3kMyS3L392B1DKw=' alt='Kites And Birds On The Background Of Sky And Clouds Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/491292358/vector/kites-and-birds-on-the-background-of-sky-and-clouds.jpg?s=612x612&w=is&k=20&c=-2BdmPf7OABrhn1shDFKeJuD0EjX3kMyS3L392B1DKw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="290+ Children Flying Kite Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/695338130/vector/girl-running-in-the-field-with-yellow-kite.jpg?s=612x612&w=0&k=20&c=_Q9_cVSevrKXB9wVDSww8yFs-Xtm7x07-kfgQO0d93k=' alt='290+ Children Flying Kite Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/695338130/vector/girl-running-in-the-field-with-yellow-kite.jpg?s=612x612&w=0&k=20&c=_Q9_cVSevrKXB9wVDSww8yFs-Xtm7x07-kfgQO0d93k=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kites Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/kites-sky-with-clouds-horizontal-seamless-pattern-toy-play-wind-game-sky-freedom_1284-44193.jpg' alt='Kites Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/kites-sky-with-clouds-horizontal-seamless-pattern-toy-play-wind-game-sky-freedom_1284-44193.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kite Sky Background Stock Illustrations – 6,965 Kite Sky ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/national-kite-flying-day-february-sunny-sky-background-summer-leisure-activity-background-national-kite-flying-day-336976927.jpg' alt='Kite Sky Background Stock Illustrations – 6,965 Kite Sky ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/national-kite-flying-day-february-sunny-sky-background-summer-leisure-activity-background-national-kite-flying-day-336976927.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kite Flying Cute Sky Background | PSD Free Download - Pikbest">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/back_our/20210418/bg/9dd93b4481159.png!sw800' alt='Kite Flying Cute Sky Background | PSD Free Download - Pikbest'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="571">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/back_our/20210418/bg/9dd93b4481159.png!sw800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Sunset Kite Flying Image | Download at StockCake">
+                                <img itemprop="contentUrl url" src='https://images.stockcake.com/public/f/7/8/f78e66a5-9a42-49c8-bc23-9be5725e61ec_large/sunset-kite-flying-stockcake.jpg' alt='Free Sunset Kite Flying Image | Download at StockCake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockCake" />
+                                </span>
+                                <a href='https://images.stockcake.com/public/f/7/8/f78e66a5-9a42-49c8-bc23-9be5725e61ec_large/sunset-kite-flying-stockcake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

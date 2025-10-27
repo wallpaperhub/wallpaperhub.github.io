@@ -1,0 +1,129 @@
+<title>Vibrant Pattern Pop Art Backgrounds for Bold Designs</title>
+                    <meta name="description" content="Explore vibrant pattern pop art backgrounds that infuse your projects with energy and creativity. Featuring bold colors and striking designs, these backgrounds are perfect for posters, digital graphics, and more. Transform your visuals with a touch of artistic flair today!">
+                    <meta name="keywords" content="pattern pop art background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pattern-pop-art-background">
+                            <span itemprop="name">pattern pop art background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Pattern Pop Art Backgrounds for Bold Designs</h1>
+                <p>Pattern pop art backgrounds are vibrant and dynamic, featuring bold colors and striking designs that capture the essence of modern art. Inspired by the pop culture of the 1960s, these backgrounds elevate any visual project, adding a fun and energetic touch. Perfect for posters, digital graphics, or interior decor, they celebrate creativity and playfulness.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pop Art Pattern Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/pop-art-colorful-seamless-pattern_225004-816.jpg' alt='Pop Art Pattern Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/pop-art-colorful-seamless-pattern_225004-816.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seamless vector pop art pattern. Bright background with red, pink ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/03/15/83/79/1000_F_315837969_IREB78nQHA5a4iPaNe4UNL3AAW1VUJBc.jpg' alt='Seamless vector pop art pattern. Bright background with red, pink ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/03/15/83/79/1000_F_315837969_IREB78nQHA5a4iPaNe4UNL3AAW1VUJBc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Comic bubble seamless pattern pop art background Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn1.vectorstock.com/i/1000x1000/66/85/comic-bubble-seamless-pattern-pop-art-background-vector-8626685.jpg' alt='Comic bubble seamless pattern pop art background Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn1.vectorstock.com/i/1000x1000/66/85/comic-bubble-seamless-pattern-pop-art-background-vector-8626685.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pop Art Pattern Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/000/665/559/non_2x/lemon-pop-art-pattern-background-vector.png' alt='Pop Art Pattern Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="653">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/000/665/559/non_2x/lemon-pop-art-pattern-background-vector.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black White Pop Art Geometric Pattern Stock Vector (Royalty Free ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/462608353/display_1500/stock-vector-black-and-white-pop-art-geometric-pattern-juxtaposed-with-bright-bold-blocks-of-squiggles-material-462608353.jpg' alt='Black White Pop Art Geometric Pattern Stock Vector (Royalty Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="945">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/462608353/display_1500/stock-vector-black-and-white-pop-art-geometric-pattern-juxtaposed-with-bright-bold-blocks-of-squiggles-material-462608353.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Comics pop art seamless pattern. Retro background with speec ...">
+                                <img itemprop="contentUrl url" src='https://cbx-prod.b-cdn.net/COLOURBOX56575455.jpg?width=800&height=800&quality=70' alt='Comics pop art seamless pattern. Retro background with speec ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Colourbox" />
+                                </span>
+                                <a href='https://cbx-prod.b-cdn.net/COLOURBOX56575455.jpg?width=800&height=800&quality=70' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pop Art Background" Images – Browse 5,445 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/09/18/05/13/360_F_918051345_ZZyxJQLE1fho7MZj81NOeVFbqfjpZdYe.jpg' alt='Pop Art Background" Images – Browse 5,445 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/09/18/05/13/360_F_918051345_ZZyxJQLE1fho7MZj81NOeVFbqfjpZdYe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dotted Pop Art Background Seamless Pattern Stock Vector (Royalty ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/654536821/display_1500/stock-vector-dotted-pop-art-background-seamless-pattern-with-sexy-female-lips-and-red-female-shoes-pop-art-654536821.jpg' alt='Dotted Pop Art Background Seamless Pattern Stock Vector (Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/654536821/display_1500/stock-vector-dotted-pop-art-background-seamless-pattern-with-sexy-female-lips-and-red-female-shoes-pop-art-654536821.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fun colorful pop art circles seamless pattern for background ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2C9YH3Y/fun-colorful-pop-art-circles-seamless-pattern-for-background-fabric-textile-wrap-surface-web-and-print-design-vintage-vibes-pink-and-yellow-colo-2C9YH3Y.jpg' alt='Fun colorful pop art circles seamless pattern for background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2C9YH3Y/fun-colorful-pop-art-circles-seamless-pattern-for-background-fabric-textile-wrap-surface-web-and-print-design-vintage-vibes-pink-and-yellow-colo-2C9YH3Y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Popart Pattern Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/dotted-colors-background-pop-art-style-vector_25030-39200.jpg' alt='Popart Pattern Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="616">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/dotted-colors-background-pop-art-style-vector_25030-39200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

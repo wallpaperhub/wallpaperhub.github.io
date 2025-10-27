@@ -1,0 +1,129 @@
+<title>Elegant Black and White Peony Wallpaper - Timeless Floral Decor</title>
+                    <meta name="description" content="Discover elegant black and white peony wallpaper, perfect for adding sophistication to your space. This timeless floral design enhances any room with its bold contrasts and intricate patterns, making it an ideal choice for a stunning home makeover.">
+                    <meta name="keywords" content="peony wallpaper black and white">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/peony-wallpaper-black-and-white">
+                            <span itemprop="name">peony wallpaper black and white</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Black and White Peony Wallpaper - Timeless Floral Decor</h1>
+                <p>Peony wallpaper in black and white offers a stunning blend of elegance and modernity. The intricate floral patterns create a timeless appeal, perfect for adding sophistication to any room. Whether used for a feature wall or throughout the space, this wallpaper enhances decor with its bold contrast and artistic charm, making interiors truly captivating.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peony Wallpaper Black and White, Peonies Wallpaper Peel & Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/12920008/r/il/baa90a/2370141691/il_570xN.2370141691_89ug.jpg' alt='Peony Wallpaper Black and White, Peonies Wallpaper Peel & Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/12920008/r/il/baa90a/2370141691/il_570xN.2370141691_89ug.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="JiffDiff Floral Wallpaper Black & White Peel and Stick Wallpaper Vintage  Peony Wallpaper Sketched Floral Self-Adhesive Prepasted Wallpaper Wall  Decor ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81HhrhKUG4L.jpg' alt='JiffDiff Floral Wallpaper Black & White Peel and Stick Wallpaper Vintage  Peony Wallpaper Sketched Floral Self-Adhesive Prepasted Wallpaper Wall  Decor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1185">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81HhrhKUG4L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black & White Watercolor Peonies Wall Mural CCM051 – CostaCover">
+                                <img itemprop="contentUrl url" src='https://costacover.com/cdn/shop/products/zoom_d97cae03-2ee0-4c82-a7b6-02a128593e64_1024x1024.jpg?v=1676433679' alt='Black & White Watercolor Peonies Wall Mural CCM051 – CostaCover'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CostaCover" />
+                                </span>
+                                <a href='https://costacover.com/cdn/shop/products/zoom_d97cae03-2ee0-4c82-a7b6-02a128593e64_1024x1024.jpg?v=1676433679' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Giant Black and White Peony Removable Wallpaper Mural, Reusable ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/13633394/r/il/e1374e/2047209510/il_fullxfull.2047209510_tn37.jpg' alt='Giant Black and White Peony Removable Wallpaper Mural, Reusable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2930">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/13633394/r/il/e1374e/2047209510/il_fullxfull.2047209510_tn37.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MFWFM Black and White Peonies Wallpaper Watercolor Floral Mural Wallpaper  for Bedroom Living Room (Not Peel n' Stick) - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81x-D42qEeL.jpg' alt='MFWFM Black and White Peonies Wallpaper Watercolor Floral Mural Wallpaper  for Bedroom Living Room (Not Peel n' Stick) - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1522">
+                                <meta itemprop="height" content="1208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81x-D42qEeL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="uniQstiQ Black and White Peonies Wallpaper Peel and Stick and ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/0d4c7845-fcd5-413a-9e11-c6b2221c42e7.9aba115d2b084307fd2a25fe8870d783.jpeg' alt='uniQstiQ Black and White Peonies Wallpaper Peel and Stick and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/0d4c7845-fcd5-413a-9e11-c6b2221c42e7.9aba115d2b084307fd2a25fe8870d783.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black and White Peony Wallpaper – EazzyWalls">
+                                <img itemprop="contentUrl url" src='https://eazzywalls.com/cdn/shop/products/PeoniesBlackandWhite2.jpg?v=1739232173&width=1214' alt='Black and White Peony Wallpaper – EazzyWalls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1214">
+                                <meta itemprop="height" content="1214">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EazzyWalls" />
+                                </span>
+                                <a href='https://eazzywalls.com/cdn/shop/products/PeoniesBlackandWhite2.jpg?v=1739232173&width=1214' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Floral Wallpaper Peony Wallpaper Floral Mural Peel and Stick and  Traditional Wallpaper - A557">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.5768167672_2njd.jpg?v=1722551259&width=1946' alt='Dark Floral Wallpaper Peony Wallpaper Floral Mural Peel and Stick and  Traditional Wallpaper - A557'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1854">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.5768167672_2njd.jpg?v=1722551259&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peonies & Anemones Wallpaper (Two Roll Set)">
+                                <img itemprop="contentUrl url" src='https://www.miltonandking.com/wp-content/uploads/2018/10/Wallpaper-Republic-PeoniesAnemones-Double-1.jpg' alt='Peonies & Anemones Wallpaper (Two Roll Set)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1318">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://www.miltonandking.com/wp-content/uploads/2018/10/Wallpaper-Republic-PeoniesAnemones-Double-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Peonies Wallpaper | Anewall Mural Wallpapers">
+                                <img itemprop="contentUrl url" src='https://anewall.com/cdn/shop/products/bouquet-of-peonies-mural-wallpaper-5.jpg?v=1562255151' alt='Vintage Peonies Wallpaper | Anewall Mural Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anewall" />
+                                </span>
+                                <a href='https://anewall.com/cdn/shop/products/bouquet-of-peonies-mural-wallpaper-5.jpg?v=1562255151' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

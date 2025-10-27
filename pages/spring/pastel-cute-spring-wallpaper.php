@@ -1,0 +1,129 @@
+<title>Pastel Cute Spring Wallpaper: Brighten Your Space</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="pastel cute spring wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spring">
+                            <span itemprop="name">Spring</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spring/pastel-cute-spring-wallpaper">
+                            <span itemprop="name">pastel cute spring wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Pastel Cute Spring Wallpaper: Brighten Your Space</h1>
+                <p>Embrace the essence of spring with our pastel cute spring wallpaper collection! Featuring soft colors and whimsical designs, these wallpapers will bring a fresh, colorful touch to any room. Perfect for brightening up your home or office, these charming patterns include flowers, bunnies, and rainbows, inspiring joy and creativity!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25+ Cute Spring wallpapers Ideas - Emerlyn Closet">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/2b/d2/7c/2bd27cb7b3ac4449075a532fe8a2d702.jpg' alt='25+ Cute Spring wallpapers Ideas - Emerlyn Closet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="505">
+                                <meta itemprop="height" content="924">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/2b/d2/7c/2bd27cb7b3ac4449075a532fe8a2d702.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free customizable pastel desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAF94JoFhlk/1/0/1600w/canva-colorful-pastel-flower-illustration-desktop-wallpaper-GyLQ4rd9Hig.jpg' alt='Free customizable pastel desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAF94JoFhlk/1/0/1600w/canva-colorful-pastel-flower-illustration-desktop-wallpaper-GyLQ4rd9Hig.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Spring Pastel Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/spring-pastel-1242-x-2208-wallpaper-r4ibj452tk4nwe5u.jpg' alt='100+] Spring Pastel Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/spring-pastel-1242-x-2208-wallpaper-r4ibj452tk4nwe5u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25+ Cute Spring wallpapers Ideas - Emerlyn Closet">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/81/2c/54/812c54ce8fb80ef480ec8bef9723a857.jpg' alt='25+ Cute Spring wallpapers Ideas - Emerlyn Closet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="520">
+                                <meta itemprop="height" content="924">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/81/2c/54/812c54ce8fb80ef480ec8bef9723a857.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Spring Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/spring-background_23-2148857818.jpg' alt='Cute Spring Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/spring-background_23-2148857818.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring Wallpapers - Free for you to download - Corrie Bromfield">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/08/e2/5e/08e25efaf1a1e2680bd923e2449ae42f.jpg' alt='Spring Wallpapers - Free for you to download - Corrie Bromfield'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/08/e2/5e/08e25efaf1a1e2680bd923e2449ae42f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute seamless flower pattern. Spring background from simple floral ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/05/02/81/35/1000_F_502813580_fpmLWIsUhL7gHW8D3UCR5mUa6LtUUZOO.jpg' alt='Cute seamless flower pattern. Spring background from simple floral ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/05/02/81/35/1000_F_502813580_fpmLWIsUhL7gHW8D3UCR5mUa6LtUUZOO.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful pastel modern floral pattern, happy and cute background ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/032/171/027/non_2x/colorful-pastel-modern-floral-pattern-happy-and-cute-background-for-the-spring-endless-repeating-wallpaper-vector.jpg' alt='Colorful pastel modern floral pattern, happy and cute background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/032/171/027/non_2x/colorful-pastel-modern-floral-pattern-happy-and-cute-background-for-the-spring-endless-repeating-wallpaper-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD spring in pastel color wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/587/793/HD-wallpaper-spring-flowers-butterflies-butterfly-colores-colors-fashion-pastel-purple-supreme-thumbnail.jpg' alt='HD spring in pastel color wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="573">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/587/793/HD-wallpaper-spring-flowers-butterflies-butterfly-colores-colors-fashion-pastel-purple-supreme-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable spring desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFO2zL2wrQ/1/0/1600w/canva-brown-butterfly-cute-spring-desktop-wallpaper-xfYqnnYxHVs.jpg' alt='Free and customizable spring desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFO2zL2wrQ/1/0/1600w/canva-brown-butterfly-cute-spring-desktop-wallpaper-xfYqnnYxHVs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

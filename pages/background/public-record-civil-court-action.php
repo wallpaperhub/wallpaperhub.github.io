@@ -1,0 +1,129 @@
+<title>"Understanding Public Record Civil Court Actions"</title>
+                    <meta name="description" content="Explore the essentials of public record civil court actions. Learn how to access court records, understand their significance, and gain insights into legal proceedings that shape our society. Stay informed and empowered with essential information on this key aspect of the judicial system.">
+                    <meta name="keywords" content="public record civil court action">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/public-record-civil-court-action">
+                            <span itemprop="name">public record civil court action</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Understanding Public Record Civil Court Actions"</h1>
+                <p>Public record civil court actions encompass various legal proceedings that the public can access, including lawsuits, judgments, and settlements. These records are crucial for maintaining transparency within the judicial system, allowing individuals and organizations to verify legal outcomes and understand conflicts involving parties. Understanding these records can be vital for legal research, background checks, and personal knowledge.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is Public Record Civil Court Action? - CountyOffice.org">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/ZuwNE0BoB1E/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCSahqdML8Wg94iCc2DmYiwKmzceg' alt='What Is Public Record Civil Court Action? - CountyOffice.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/ZuwNE0BoB1E/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCSahqdML8Wg94iCc2DmYiwKmzceg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is A Public Record Civil Court Action? - CountyOffice.org">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/rNE1x0i8zuM/maxresdefault.jpg' alt='What Is A Public Record Civil Court Action? - CountyOffice.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/rNE1x0i8zuM/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Answering the Civil Court Questions on the SF-86 - ClearanceJobs">
+                                <img itemprop="contentUrl url" src='https://news.clearancejobs.com/wp-content/uploads/2021/10/lawsuit-ask-cj-720x460.jpg' alt='Answering the Civil Court Questions on the SF-86 - ClearanceJobs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Security Clearance News & Career Advice" />
+                                </span>
+                                <a href='https://news.clearancejobs.com/wp-content/uploads/2021/10/lawsuit-ask-cj-720x460.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Public Record Media files lawsuit over withheld documents on Walz ...">
+                                <img itemprop="contentUrl url" src='https://bloximages.newyork1.vip.townnews.com/kimt.com/content/tncms/assets/v3/editorial/b/77/b77d98fa-680b-11ef-92cd-ef12cbfe51fe/66d3d4d409d2a.preview.jpg' alt='Public Record Media files lawsuit over withheld documents on Walz ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1265">
+                                <meta itemprop="height" content="1638">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KIMT" />
+                                </span>
+                                <a href='https://bloximages.newyork1.vip.townnews.com/kimt.com/content/tncms/assets/v3/editorial/b/77/b77d98fa-680b-11ef-92cd-ef12cbfe51fe/66d3d4d409d2a.preview.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Options to Access Records if you Cannot Afford PACER Fees | PACER ...">
+                                <img itemprop="contentUrl url" src='https://pacer.uscourts.gov/sites/default/files/styles/8_columns_wide_800_x_450/public/images/docketexample-2.jpg?itok=gIDwF09f' alt='Options to Access Records if you Cannot Afford PACER Fees | PACER ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PACER" />
+                                </span>
+                                <a href='https://pacer.uscourts.gov/sites/default/files/styles/8_columns_wide_800_x_450/public/images/docketexample-2.jpg?itok=gIDwF09f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Civil Court Background Checks & Court Records | Checkr">
+                                <img itemprop="contentUrl url" src='https://a-us.storyblok.com/f/1014904/a1aee1ca3d/checkr-web-civil-search-product.png/m/' alt='Civil Court Background Checks & Court Records | Checkr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr" />
+                                </span>
+                                <a href='https://a-us.storyblok.com/f/1014904/a1aee1ca3d/checkr-web-civil-search-product.png/m/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium National Civil Court Records: Complete with ease ...">
+                                <img itemprop="contentUrl url" src='https://www.signnow.com/preview/408/78/408078473.png' alt='Premium National Civil Court Records: Complete with ease ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="298">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SignNow" />
+                                </span>
+                                <a href='https://www.signnow.com/preview/408/78/408078473.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Am I being scammed or Am I being sued? I received this letter ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/hf9sfgide4871.jpg?width=1080&crop=smart&auto=webp&s=684df3be90a29e6ef0a0003341c8816e736d6c00' alt='Am I being scammed or Am I being sued? I received this letter ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/hf9sfgide4871.jpg?width=1080&crop=smart&auto=webp&s=684df3be90a29e6ef0a0003341c8816e736d6c00' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Legal Process in the United States: A Civil Case">
+                                <img itemprop="contentUrl url" src='https://aldf.org/wp-content/uploads/2018/05/lawyer-GettyImages-171096042-16x9.jpg' alt='The Legal Process in the United States: A Civil Case'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1999">
+                                <meta itemprop="height" content="1124">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Animal Legal Defense Fund" />
+                                </span>
+                                <a href='https://aldf.org/wp-content/uploads/2018/05/lawyer-GettyImages-171096042-16x9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Another City Lawsuit — This One Over Already-Published Police ...">
+                                <img itemprop="contentUrl url" src='https://cdn.svvoice.com/wp-content/uploads/2021/04/29141113/police-records-lawsuit-image.jpg' alt='Another City Lawsuit — This One Over Already-Published Police ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="741">
+                                <meta itemprop="height" content="710">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Silicon Valley Voice" />
+                                </span>
+                                <a href='https://cdn.svvoice.com/wp-content/uploads/2021/04/29141113/police-records-lawsuit-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

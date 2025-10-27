@@ -1,0 +1,129 @@
+<title>Create Your Spotify Wrapped: The Ultimate Custom Template</title>
+                    <meta name="description" content="Personalize your Spotify Wrapped experience with our easy-to-use template! Highlight your favorite tracks, artists, and playlists in a visually appealing format that's perfect for social media sharing. Unleash your musical journey today!">
+                    <meta name="keywords" content="spotify wrapped template">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/spotify-wrapped-template">
+                            <span itemprop="name">spotify wrapped template</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Create Your Spotify Wrapped: The Ultimate Custom Template</h1>
+                <p>Discover the ultimate Spotify Wrapped template to showcase your musical journey! Personalize your year in music by highlighting your top tracks, favorite artists, and memorable playlists. This easy-to-use template allows you to visually present your listening habits, perfect for sharing on social media and inspiring fellow music lovers.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Spotify Wrapped Template + Class Activities 2024 - 2025">
+                                <img itemprop="contentUrl url" src='https://ditchthattextbook.com/wp-content/uploads/2024/12/spotify-inspired-recap-template-display-image-1.png' alt='Free Spotify Wrapped Template + Class Activities 2024 - 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ditch That Textbook" />
+                                </span>
+                                <a href='https://ditchthattextbook.com/wp-content/uploads/2024/12/spotify-inspired-recap-template-display-image-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spotify Wrapped 2023 Template — Kapwing">
+                                <img itemprop="contentUrl url" src='https://cdn-useast1.kapwing.com/static/templates/spotify-wrapped-2023-template-full-9b71f9b2.webp' alt='Spotify Wrapped 2023 Template — Kapwing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kapwing" />
+                                </span>
+                                <a href='https://cdn-useast1.kapwing.com/static/templates/spotify-wrapped-2023-template-full-9b71f9b2.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Share your MC's Spotify Wrapped (with template!) : r/LoveAndDeepspace">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/share-your-mcs-spotify-wrapped-with-template-v0-v0znw3s7rh5e1.jpg?width=1080&format=pjpg&auto=webp&s=e0a823f518cdfe8257c9638fa049d41eab3131e4' alt='Share your MC's Spotify Wrapped (with template!) : r/LoveAndDeepspace'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/share-your-mcs-spotify-wrapped-with-template-v0-v0znw3s7rh5e1.jpg?width=1080&format=pjpg&auto=webp&s=e0a823f518cdfe8257c9638fa049d41eab3131e4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spotify Wrapped 2024 Trend Template - Create yours / your ...">
+                                <img itemprop="contentUrl url" src='https://www.figma.com/community/resource/041e0d66-f4ba-4f58-ac8b-7eb14a8f5b5d/thumbnail' alt='Spotify Wrapped 2024 Trend Template - Create yours / your ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3262">
+                                <meta itemprop="height" content="1835">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Figma" />
+                                </span>
+                                <a href='https://www.figma.com/community/resource/041e0d66-f4ba-4f58-ac8b-7eb14a8f5b5d/thumbnail' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spotify Wrapped 2024 PowerPoint Presentation Template & Google ...">
+                                <img itemprop="contentUrl url" src='https://eatemp.com/wp-content/uploads/2024/12/Spotify-Wrapped-2024-PowerPoint-Presentation-Template.jpeg' alt='Spotify Wrapped 2024 PowerPoint Presentation Template & Google ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="840">
+                                <meta itemprop="height" content="1296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EaTemp" />
+                                </span>
+                                <a href='https://eatemp.com/wp-content/uploads/2024/12/Spotify-Wrapped-2024-PowerPoint-Presentation-Template.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spotify Wrapped Templates for Canva [2024] | Gridfiti">
+                                <img itemprop="contentUrl url" src='https://shop.gridfiti.com/cdn/shop/products/GridfitiShop_CanvaTempates_SpotifyWrapped_2022_Hero_1024x1024.jpg?v=1701274174' alt='Spotify Wrapped Templates for Canva [2024] | Gridfiti'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gridfiti Shop" />
+                                </span>
+                                <a href='https://shop.gridfiti.com/cdn/shop/products/GridfitiShop_CanvaTempates_SpotifyWrapped_2022_Hero_1024x1024.jpg?v=1701274174' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spotify Wrapped PowerPoint Template & Google Slides Theme - EaTemp">
+                                <img itemprop="contentUrl url" src='https://eatemp.com/wp-content/uploads/2023/12/Spotify-Wrapped-PowerPoint-Template-by-EaTemp.jpeg' alt='Spotify Wrapped PowerPoint Template & Google Slides Theme - EaTemp'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="840">
+                                <meta itemprop="height" content="1296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EaTemp" />
+                                </span>
+                                <a href='https://eatemp.com/wp-content/uploads/2023/12/Spotify-Wrapped-PowerPoint-Template-by-EaTemp.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hop on the trend! We've created a Spotify Wrapped Canva Template ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2987461783090752132' alt='Hop on the trend! We've created a Spotify Wrapped Canva Template ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2987461783090752132' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2024 Spotify Wrapped Templates (Canva)">
+                                <img itemprop="contentUrl url" src='http://justaddyourbrand.com/cdn/shop/files/2024-Wrapped-Spotify-Themed-Instagram-Stories-Square.webp?v=1732575738' alt='2024 Spotify Wrapped Templates (Canva)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1214">
+                                <meta itemprop="height" content="1214">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Just Add Your Brand" />
+                                </span>
+                                <a href='http://justaddyourbrand.com/cdn/shop/files/2024-Wrapped-Spotify-Themed-Instagram-Stories-Square.webp?v=1732575738' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="spotify wrapped 2022 template Spotify Wrapped 4 Template : r ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d1/a0/25/d1a025e5b0b27ee05f1d623f6d25c089.jpg' alt='spotify wrapped 2022 template Spotify Wrapped 4 Template : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d1/a0/25/d1a025e5b0b27ee05f1d623f6d25c089.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

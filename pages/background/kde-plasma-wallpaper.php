@@ -1,0 +1,129 @@
+<title>Transform Your Desktop: Stunning KDE Plasma Wallpapers</title>
+                    <meta name="description" content="Discover the best KDE Plasma wallpapers to personalize your desktop. Choose from stunning images that enhance your workspace and reflect your style. Enjoy easy customization and make your environment uniquely yours with our curated collection.">
+                    <meta name="keywords" content="kde plasma wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/kde-plasma-wallpaper">
+                            <span itemprop="name">kde plasma wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Desktop: Stunning KDE Plasma Wallpapers</h1>
+                <p>KDE Plasma wallpaper offers a vibrant and customizable desktop experience for users. With options ranging from serene landscapes to abstract art, you can easily personalize your workspace. Users can change wallpapers with just a few clicks, enabling them to express their individuality and style seamlessly.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winner Announcement! - Wallpaper competition - KDE Discuss">
+                                <img itemprop="contentUrl url" src='https://discuss-cdn.kde.org/uploads/default/original/2X/e/e301cb179b160ec4305a948ca7e3a79921d63952.jpeg' alt='Winner Announcement! - Wallpaper competition - KDE Discuss'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KDE Discuss" />
+                                </span>
+                                <a href='https://discuss-cdn.kde.org/uploads/default/original/2X/e/e301cb179b160ec4305a948ca7e3a79921d63952.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="KDE Plasma 5.24's Default Wallpaper is Unveiled - OMG! Ubuntu">
+                                <img itemprop="contentUrl url" src='https://149366088.v2.pressablecdn.com/wp-content/uploads/2022/01/kde-plasma-5.24-default-wallpaper.jpg' alt='KDE Plasma 5.24's Default Wallpaper is Unveiled - OMG! Ubuntu'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OMG! Ubuntu" />
+                                </span>
+                                <a href='https://149366088.v2.pressablecdn.com/wp-content/uploads/2022/01/kde-plasma-5.24-default-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winner Announcement! - Wallpaper competition - KDE Discuss">
+                                <img itemprop="contentUrl url" src='https://discuss-cdn.kde.org/uploads/default/original/2X/7/772d025098f86c1823df56981a52d3027d2564a9.jpeg' alt='Winner Announcement! - Wallpaper competition - KDE Discuss'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KDE Discuss" />
+                                </span>
+                                <a href='https://discuss-cdn.kde.org/uploads/default/original/2X/7/772d025098f86c1823df56981a52d3027d2564a9.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Wallpaper for KDE Plasma 5.22 is Here. And It's Very Artful">
+                                <img itemprop="contentUrl url" src='https://www.debugpoint.com/wp-content/uploads/2021/05/KDE-Plasma-5.22-Wallpaper-Altai.png' alt='New Wallpaper for KDE Plasma 5.22 is Here. And It's Very Artful'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DebugPoint.com" />
+                                </span>
+                                <a href='https://www.debugpoint.com/wp-content/uploads/2021/05/KDE-Plasma-5.22-Wallpaper-Altai.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plasma 5.21 wallpaper (5120x2880) : r/kde">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/l9qp8k1saca61.png' alt='Plasma 5.21 wallpaper (5120x2880) : r/kde'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5120">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/l9qp8k1saca61.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Finalists Announcement! - Wallpaper competition - KDE Discuss">
+                                <img itemprop="contentUrl url" src='https://discuss-cdn.kde.org/uploads/default/optimized/2X/5/52b187f274663e3a7a12a5eb8b591cef087d8f2c_2_1024x576.jpeg' alt='Finalists Announcement! - Wallpaper competition - KDE Discuss'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KDE Discuss" />
+                                </span>
+                                <a href='https://discuss-cdn.kde.org/uploads/default/optimized/2X/5/52b187f274663e3a7a12a5eb8b591cef087d8f2c_2_1024x576.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="KDE's Latest Plasma Wallpaper is Here And It's …Shiny : r/kde">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/bc4QRTqGU_wEKQ4PzCluOFKStBMihxtgt4cngwhBWT0.jpg?auto=webp&s=f01f545b0a55f68402b75ea9079f2ab42b35c793' alt='KDE's Latest Plasma Wallpaper is Here And It's …Shiny : r/kde'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/bc4QRTqGU_wEKQ4PzCluOFKStBMihxtgt4cngwhBWT0.jpg?auto=webp&s=f01f545b0a55f68402b75ea9079f2ab42b35c793' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="KDE's Latest Plasma Wallpaper is Here And It's …Shiny - OMG! Ubuntu">
+                                <img itemprop="contentUrl url" src='https://149366088.v2.pressablecdn.com/wp-content/uploads/2020/09/kde-plasma-flow.jpg' alt='KDE's Latest Plasma Wallpaper is Here And It's …Shiny - OMG! Ubuntu'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OMG! Ubuntu" />
+                                </span>
+                                <a href='https://149366088.v2.pressablecdn.com/wp-content/uploads/2020/09/kde-plasma-flow.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Plasma Wallpapers : r/kde">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/woxc6mc1ikf51.png?auto=webp&s=20f01871ee1cb99a487db2faa590f443a3b6d0f1' alt='My Plasma Wallpapers : r/kde'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/woxc6mc1ikf51.png?auto=webp&s=20f01871ee1cb99a487db2faa590f443a3b6d0f1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Meet the KDE Plasma 5.18 LTS Default Wallpaper - 9to5Linux">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/9to5linux.com/wp-content/uploads/2020/01/Volna-desktop_1500.jpg?fit=1500%2C843&ssl=1' alt='Meet the KDE Plasma 5.18 LTS Default Wallpaper - 9to5Linux'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="843">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="9to5Linux" />
+                                </span>
+                                <a href='https://i0.wp.com/9to5linux.com/wp-content/uploads/2020/01/Volna-desktop_1500.jpg?fit=1500%2C843&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

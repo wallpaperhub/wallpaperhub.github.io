@@ -1,0 +1,129 @@
+<title>Stunning Isagi Blue Lock Wallpapers for Your Devices</title>
+                    <meta name="description" content="Discover a collection of stunning Isagi Blue Lock wallpapers that bring your favorite character to life. Perfectly designed for mobile devices, these wallpapers enhance your screen with vivid colors and inspiring imagery. Download now and showcase your love for Blue Lock!">
+                    <meta name="keywords" content="isagi blue lock wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock">
+                            <span itemprop="name">Lock</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock/isagi-blue-lock-wallpaper">
+                            <span itemprop="name">isagi blue lock wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Isagi Blue Lock Wallpapers for Your Devices</h1>
+                <p>Isagi Blue Lock wallpaper captures the dynamic essence of the hit anime series, showcasing the character's determination and skills on vibrant backgrounds. Perfect for fans, these wallpapers offer stylish designs that add flair to any device. Download and personalize your screens with Isagi's impressive visuals!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Isagi Yoichi - Blue Lock by ExAegon on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b91d227a-e97e-418d-b1c4-3f617516b7c8/dg425vl-bea73380-a0ad-4abe-9881-f2e7f744bfeb.png/v1/fill/w_1280,h_720,q_80,strp/isagi_yoichi___blue_lock_by_exaegon_dg425vl-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvYjkxZDIyN2EtZTk3ZS00MThkLWIxYzQtM2Y2MTc1MTZiN2M4XC9kZzQyNXZsLWJlYTczMzgwLWEwYWQtNGFiZS05ODgxLWYyZTdmNzQ0YmZlYi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.u1H3BFOE_V5KOitUPJQSANXh0xOlRwvOx2zbgUs6NGg' alt='Isagi Yoichi - Blue Lock by ExAegon on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b91d227a-e97e-418d-b1c4-3f617516b7c8/dg425vl-bea73380-a0ad-4abe-9881-f2e7f744bfeb.png/v1/fill/w_1280,h_720,q_80,strp/isagi_yoichi___blue_lock_by_exaegon_dg425vl-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvYjkxZDIyN2EtZTk3ZS00MThkLWIxYzQtM2Y2MTc1MTZiN2M4XC9kZzQyNXZsLWJlYTczMzgwLWEwYWQtNGFiZS05ODgxLWYyZTdmNzQ0YmZlYi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.u1H3BFOE_V5KOitUPJQSANXh0xOlRwvOx2zbgUs6NGg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Isagi yoishi wallpaper : r/BlueLock">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/isagi-yoishi-wallpaper-v0-xwe9p1p49b7c1.jpg?width=1080&format=pjpg&auto=webp&s=8e703327de428171dfd7209cc379e314ad578595' alt='Isagi yoishi wallpaper : r/BlueLock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/isagi-yoishi-wallpaper-v0-xwe9p1p49b7c1.jpg?width=1080&format=pjpg&auto=webp&s=8e703327de428171dfd7209cc379e314ad578595' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yoichi Isagi Wallpaper 4K, Blue aesthetic, Team Z">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/yoichi-isagi-blue-2880x1800-20008.jpg' alt='Yoichi Isagi Wallpaper 4K, Blue aesthetic, Team Z'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/yoichi-isagi-blue-2880x1800-20008.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colored Isagi Wallpaper: Coloring Credit to u/Ratsoupisgood : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/colored-isagi-wallpaper-coloring-credit-to-u-ratsoupisgood-v0-qhhaupz4ksz91.jpg?width=1080&crop=smart&auto=webp&s=120ffd6f60ead7d0d63f3a92ab4822ec4c4f2d20' alt='Colored Isagi Wallpaper: Coloring Credit to u/Ratsoupisgood : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2335">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/colored-isagi-wallpaper-coloring-credit-to-u-ratsoupisgood-v0-qhhaupz4ksz91.jpg?width=1080&crop=smart&auto=webp&s=120ffd6f60ead7d0d63f3a92ab4822ec4c4f2d20' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yoichi Isagi Blue Lock Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2c/40/1e/2c401eb820bdc287d18a35d876ff281e.jpg' alt='Yoichi Isagi Blue Lock Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2c/40/1e/2c401eb820bdc287d18a35d876ff281e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Isagi Yoichi iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/101/thumb-1920-1013752.jpeg' alt='Isagi Yoichi iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/101/thumb-1920-1013752.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Yoichi Isagi | Blue Lock Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5d/4f/8c/5d4f8cddc582f6f63554e6705ee1c771.jpg' alt='Yoichi Isagi | Blue Lock Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1494">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5d/4f/8c/5d4f8cddc582f6f63554e6705ee1c771.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Isagi Yoichi Blue Lock HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/138/1384114.png' alt='Download Isagi Yoichi Blue Lock HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/138/1384114.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Isagi Blue Lock Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e9/a7/13/e9a713b358f1aac3df4e35209d73d27d.jpg' alt='Isagi Blue Lock Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e9/a7/13/e9a713b358f1aac3df4e35209d73d27d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Lock, Sky, Isagi, Android backgrounds, iPhone, Yoichi Isagi ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/38/71/HD-wallpaper-blue-lock-sky-isagi-android-backgrounds-iphone-yoichi-isagi-cool-backgrounds-football-cool-aesthetic-android-anime-aesthetic-manga-anime-iphone-backgrounds.jpg' alt='Blue Lock, Sky, Isagi, Android backgrounds, iPhone, Yoichi Isagi ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1730">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/38/71/HD-wallpaper-blue-lock-sky-isagi-android-backgrounds-iphone-yoichi-isagi-cool-backgrounds-football-cool-aesthetic-android-anime-aesthetic-manga-anime-iphone-backgrounds.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

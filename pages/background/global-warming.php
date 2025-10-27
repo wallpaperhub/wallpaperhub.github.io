@@ -1,0 +1,129 @@
+<title>Combatting Global Warming: Simple Steps for a Greener Future</title>
+                    <meta name="description" content="Explore the urgent issue of global warming, its causes, and effects. Learn how to take action to reduce your carbon footprint and promote sustainability for a healthier planet. Join the fight against climate change today!">
+                    <meta name="keywords" content="global warming">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/global-warming">
+                            <span itemprop="name">global warming</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Combatting Global Warming: Simple Steps for a Greener Future</h1>
+                <p>Global warming is the long-term rise in Earth's temperatures due to human activities, primarily the burning of fossil fuels, deforestation, and industrial processes. This leads to severe environmental changes, including melting ice caps, rising sea levels, and extreme weather events, threatening ecosystems and human livelihoods worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="We need to rethink everything we know about global warming - ISRAEL21c">
+                                <img itemprop="contentUrl url" src='https://static.israel21c.org/www/uploads/2019/01/shutterstock_globalwarming-1520x855.jpg' alt='We need to rethink everything we know about global warming - ISRAEL21c'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1520">
+                                <meta itemprop="height" content="855">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ISRAEL21c" />
+                                </span>
+                                <a href='https://static.israel21c.org/www/uploads/2019/01/shutterstock_globalwarming-1520x855.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Basics of Climate Change | US EPA">
+                                <img itemprop="contentUrl url" src='https://www.epa.gov/sites/default/files/styles/medium/public/2021-04/earths_greenhouse_effect_us_epa_20121.png?itok=pQYe53JX' alt='Basics of Climate Change | US EPA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="457">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Environmental Protection Agency (EPA)" />
+                                </span>
+                                <a href='https://www.epa.gov/sites/default/files/styles/medium/public/2021-04/earths_greenhouse_effect_us_epa_20121.png?itok=pQYe53JX' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Global warming is accelerating beyond control as CO2 levels rise ...">
+                                <img itemprop="contentUrl url" src='https://www.earth.com/assets/_next/image/?url=https%3A%2F%2Fcff2.earth.com%2Fuploads%2F2025%2F01%2F18102250%2FGlobal-warming-rise-1400x850.jpg&w=1200&q=75' alt='Global warming is accelerating beyond control as CO2 levels rise ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="729">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Earth.com" />
+                                </span>
+                                <a href='https://www.earth.com/assets/_next/image/?url=https%3A%2F%2Fcff2.earth.com%2Fuploads%2F2025%2F01%2F18102250%2FGlobal-warming-rise-1400x850.jpg&w=1200&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is Global Warming the Same as Climate Change - Unite for Change">
+                                <img itemprop="contentUrl url" src='https://uniteforchange.com/wp-content/uploads/2022/06/Blog-Images2.jpg' alt='Is Global Warming the Same as Climate Change - Unite for Change'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3996">
+                                <meta itemprop="height" content="1998">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unite for Change" />
+                                </span>
+                                <a href='https://uniteforchange.com/wp-content/uploads/2022/06/Blog-Images2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Global warming reaches new heights - Lesotho Times">
+                                <img itemprop="contentUrl url" src='https://lestimes.com/wp-content/uploads/2025/03/Global-warming-effects-Acid-rain-Greenhouse-Ozone-Depletion-Deforestation.jpg.webp' alt='Global warming reaches new heights - Lesotho Times'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="785">
+                                <meta itemprop="height" content="444">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lesotho Times" />
+                                </span>
+                                <a href='https://lestimes.com/wp-content/uploads/2025/03/Global-warming-effects-Acid-rain-Greenhouse-Ozone-Depletion-Deforestation.jpg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Global Warming | Earth">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/jerrick/image/upload/v1710659460/65f697849dff07001de34ed8.jpg' alt='Global Warming | Earth'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2365">
+                                <meta itemprop="height" content="1268">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vocal Media" />
+                                </span>
+                                <a href='https://res.cloudinary.com/jerrick/image/upload/v1710659460/65f697849dff07001de34ed8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is global warming? | New Scientist">
+                                <img itemprop="contentUrl url" src='https://images.newscientist.com/wp-content/uploads/2019/07/03111113/what-is-global-warming-ct36ke_web.jpg' alt='What is global warming? | New Scientist'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="New Scientist" />
+                                </span>
+                                <a href='https://images.newscientist.com/wp-content/uploads/2019/07/03111113/what-is-global-warming-ct36ke_web.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Global warming has wiped out 6,500 years of cooling, study says">
+                                <img itemprop="contentUrl url" src='https://www.usatoday.com/gcdn/presto/2019/08/20/USAT/e4034491-40c1-4fd3-b8f0-30a00a97becf-NASA_smoking_globe.jpg?crop=767,432,x0,y251&width=660&height=371&format=pjpg&auto=webp' alt='Global warming has wiped out 6,500 years of cooling, study says'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USA Today" />
+                                </span>
+                                <a href='https://www.usatoday.com/gcdn/presto/2019/08/20/USAT/e4034491-40c1-4fd3-b8f0-30a00a97becf-NASA_smoking_globe.jpg?crop=767,432,x0,y251&width=660&height=371&format=pjpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Once we pass 1.5°C of global warming, there is no going back | New ...">
+                                <img itemprop="contentUrl url" src='http://puweisiwang.com/jpg/sei_225011058.jpg' alt='Once we pass 1.5°C of global warming, there is no going back | New ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1350">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="New Scientist" />
+                                </span>
+                                <a href='http://puweisiwang.com/jpg/sei_225011058.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Understanding Global Warming and Its Impact">
+                                <img itemprop="contentUrl url" src='https://justenergy.com/wp-content/uploads/2025/03/global-warming-illustration-climate-change-issues-1.jpg' alt='Understanding Global Warming and Its Impact'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1900">
+                                <meta itemprop="height" content="1267">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Just Energy" />
+                                </span>
+                                <a href='https://justenergy.com/wp-content/uploads/2025/03/global-warming-illustration-climate-change-issues-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

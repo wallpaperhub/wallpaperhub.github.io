@@ -1,0 +1,129 @@
+<title>Allie Wallpaper: Transform Your Space with Style</title>
+                    <meta name="description" content="Discover Allie wallpaper, the perfect solution to revitalize your home decor. Explore a range of stylish designs that blend well with any theme. From modern to vintage, find the ideal wallpaper to express your personality and elevate your living space effortlessly.">
+                    <meta name="keywords" content="allie wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/allie-wallpaper">
+                            <span itemprop="name">allie wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Allie Wallpaper: Transform Your Space with Style</h1>
+                <p>Allie wallpaper brings charm and personality to your space. Explore a variety of designs featuring floral patterns, geometric shapes, and vibrant colors that enhance any room. Perfect for a home makeover or just a refreshing touch, Allie wallpaper caters to all aesthetics. Transform your walls with style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Allie wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/24/63/7b/24637bbf8abfe0c92543ead0c6642329.jpg' alt='Allie wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/24/63/7b/24637bbf8abfe0c92543ead0c6642329.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Allie with names, female names, Allie name, purple neon lights ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/898/25/HD-wallpaper-allie-with-names-female-names-allie-name-purple-neon-lights-horizontal-text-with-allie-name.jpg' alt='Allie with names, female names, Allie name, purple neon lights ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/898/25/HD-wallpaper-allie-with-names-female-names-allie-name-purple-neon-lights-horizontal-text-with-allie-name.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/86/21/37/862137add7322b6d6bf02108466baf7d.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/86/21/37/862137add7322b6d6bf02108466baf7d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Name graphics allie 582343 - Name gif">
+                                <img itemprop="contentUrl url" src='https://www.picgifs.com/name-graphics/a/allie/name-graphics-allie-582343.gif' alt='Name graphics allie 582343 - Name gif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="310">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PicGifs.com" />
+                                </span>
+                                <a href='https://www.picgifs.com/name-graphics/a/allie/name-graphics-allie-582343.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Property Of ALLIE So Hands Off: Personalized 6 x 9 Sized 100 Pages Custom  Name Goldtone Logo on Black Marble Style Background Wide Ruled Lined Blank  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/41-t25YZa4L._AC_UF1000,1000_QL80_.jpg' alt='Property Of ALLIE So Hands Off: Personalized 6 x 9 Sized 100 Pages Custom  Name Goldtone Logo on Black Marble Style Background Wide Ruled Lined Blank  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="666">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/41-t25YZa4L._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Allie Name | Art Board Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.1414893008.6907/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Allie Name | Art Board Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.1414893008.6907/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Allie Name, Best Allie in the World by Elsayed Atta">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/allie-name-best-allie-in-the-world-active-artist.jpg' alt='Allie Name, Best Allie in the World by Elsayed Atta'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixels" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/allie-name-best-allie-in-the-world-active-artist.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content=""allie name sticker" Sticker for Sale by youtubemugs">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.1520357366.6361/st,small,507x507-pad,600x600,f8f8f8.jpg' alt='"allie name sticker" Sticker for Sale by youtubemugs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.1520357366.6361/st,small,507x507-pad,600x600,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animaatjes allie 7128104 - Name gif">
+                                <img itemprop="contentUrl url" src='https://www.picgifs.com/name-graphics/a/allie/animaatjes-allie-7128104.gif' alt='Animaatjes allie 7128104 - Name gif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="256">
+                                <meta itemprop="height" content="196">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PicGifs.com" />
+                                </span>
+                                <a href='https://www.picgifs.com/name-graphics/a/allie/animaatjes-allie-7128104.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Allie Logo | Name Logo Generator - Candy, Pastel, Lager, Bowling ...">
+                                <img itemprop="contentUrl url" src='https://logos.textgiraffe.com/logos/logo-name/Allie-designstyle-pastel-m.png' alt='Allie Logo | Name Logo Generator - Candy, Pastel, Lager, Bowling ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="214">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="textgiraffe logo" />
+                                </span>
+                                <a href='https://logos.textgiraffe.com/logos/logo-name/Allie-designstyle-pastel-m.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

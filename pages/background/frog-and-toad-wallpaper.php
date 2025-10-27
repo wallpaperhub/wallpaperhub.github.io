@@ -1,0 +1,129 @@
+<title>Charming Frog and Toad Wallpaper for a Whimsical Touch</title>
+                    <meta name="description" content="Discover delightful frog and toad wallpaper that brightens any room! Perfect for kids' spaces, this fun decor option adds whimsy and creativity to your home. Shop now for unique designs that inspire joy and imagination!">
+                    <meta name="keywords" content="frog and toad wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/frog-and-toad-wallpaper">
+                            <span itemprop="name">frog and toad wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Frog and Toad Wallpaper for a Whimsical Touch</h1>
+                <p>Transform your space with charming frog and toad wallpaper that adds a whimsical touch to any room. Perfect for children's bedrooms or playful living areas, these vibrant designs feature adorable illustrations of frogs and toads in delightful settings. Ideal for creating a fun atmosphere while sparking creativity and imagination.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="frog and toad wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/f5/d0/18/f5d0181caf575c3e2a07b58471d8b6cc.jpg' alt='frog and toad wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/f5/d0/18/f5d0181caf575c3e2a07b58471d8b6cc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="frog and toad wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/2b/6d/4b/2b6d4b5733f746148ea1d7ad8abf490b.jpg' alt='frog and toad wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/2b/6d/4b/2b6d4b5733f746148ea1d7ad8abf490b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frog and Toad, aesthetic, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/755/598/HD-wallpaper-frog-and-toad-aesthetic.jpg' alt='Frog and Toad, aesthetic, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/755/598/HD-wallpaper-frog-and-toad-aesthetic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="frog and toad wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ad/26/b4/ad26b40fcb593fc2e0b999feb0f818dd.jpg' alt='frog and toad wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ad/26/b4/ad26b40fcb593fc2e0b999feb0f818dd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Series Review: Frog and Toad | the starving artist">
+                                <img itemprop="contentUrl url" src='https://devontrevarrowflaherty.com/wp-content/uploads/2016/01/frog-and-toad.jpg?w=1121' alt='Series Review: Frog and Toad | the starving artist'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1121">
+                                <meta itemprop="height" content="1199">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="the starving artist" />
+                                </span>
+                                <a href='https://devontrevarrowflaherty.com/wp-content/uploads/2016/01/frog-and-toad.jpg?w=1121' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MXZHTSEC Frog And Toad Children's Book Cover Art Quote Poster Canvas  Painting Posters And Prints Wall Art for Living Room Bedroom Decor ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71mPhPB1jML._AC_UF894,1000_QL80_.jpg' alt='MXZHTSEC Frog And Toad Children's Book Cover Art Quote Poster Canvas  Painting Posters And Prints Wall Art for Living Room Bedroom Decor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="671">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71mPhPB1jML._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="frog and toad with a kite">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4c/03/98/4c0398cc7fc17b74a9d55369b3111285.jpg' alt='frog and toad with a kite'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4c/03/98/4c0398cc7fc17b74a9d55369b3111285.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="frog and toad | Art Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.4028951852.5510/flat,750x,075,f-pad,750x1000,f8f8f8.u1.jpg' alt='frog and toad | Art Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.4028951852.5510/flat,750x,075,f-pad,750x1000,f8f8f8.u1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frog and Toad - Episodes & Images - Apple TV+ Press">
+                                <img itemprop="contentUrl url" src='https://www.apple.com/tv-pr/shows-and-films/f/frog-and-toad/images/season-01/unit-photos/episode-06/photo-010601/Frog_And_Toad_Photo_010601.jpg.photo_modal_show_home_large.jpg' alt='Frog and Toad - Episodes & Images - Apple TV+ Press'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="838">
+                                <meta itemprop="height" content="473">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple" />
+                                </span>
+                                <a href='https://www.apple.com/tv-pr/shows-and-films/f/frog-and-toad/images/season-01/unit-photos/episode-06/photo-010601/Frog_And_Toad_Photo_010601.jpg.photo_modal_show_home_large.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frog and Toad All Year    written and illustrated by Arnold Lobel">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/_27pHPSeruA/maxresdefault.jpg' alt='Frog and Toad All Year    written and illustrated by Arnold Lobel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/_27pHPSeruA/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

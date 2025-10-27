@@ -1,0 +1,129 @@
+<title>I Heart Wallpaper: Express Your Style</title>
+                    <meta name="description" content="Discover unique "I Heart" wallpapers to elevate your home decor! Explore designs that reflect your personal style and make a statement in any room, perfect for anyone looking to add a touch of love and individuality. Transform your space today!">
+                    <meta name="keywords" content="i heart a wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart">
+                            <span itemprop="name">Heart</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart/i-heart-a-wallpaper">
+                            <span itemprop="name">i heart a wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>I Heart Wallpaper: Express Your Style</h1>
+                <p>Transform your space with stunning "I Heart" wallpapers that express your personality and style! Perfect for bedrooms, living rooms, or offices, these vibrant designs bring warmth and love into your surroundings. Choose from various themes to make a bold statement or a subtle impression that reveals your passions.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] I Heart Pfp Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/i-heart-pfp-mrd144o1gfkl3ron.jpg' alt='100+] I Heart Pfp Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/i-heart-pfp-mrd144o1gfkl3ron.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="i heart me  ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/81/33/16/813316618c1e77edcc8fa26fada0cac0.jpg' alt='i heart me  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/81/33/16/813316618c1e77edcc8fa26fada0cac0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Letter I With Red Heart Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/letter-i-with-red-heart-04krjvgr2ip8pfk7.jpg' alt='Letter I With Red Heart Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1099">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/letter-i-with-red-heart-04krjvgr2ip8pfk7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download I Heart Pfp Self-love Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/i-heart-pfp-self-love-5twwjdl7ge6f14et.jpg' alt='Download I Heart Pfp Self-love Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/i-heart-pfp-self-love-5twwjdl7ge6f14et.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="❤️ I Love You Wallpaper - MockoFUN">
+                                <img itemprop="contentUrl url" src='https://www.mockofun.com/wp-content/uploads/2021/05/i-love-you-wallpaper-38061.jpg' alt='❤️ I Love You Wallpaper - MockoFUN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="637">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MockoFUN" />
+                                </span>
+                                <a href='https://www.mockofun.com/wp-content/uploads/2021/05/i-love-you-wallpaper-38061.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Love U Wallpaper - App on Amazon Appstore">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51opJ+ZtwpL.jpg' alt='I Love U Wallpaper - App on Amazon Appstore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51opJ+ZtwpL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I love him tiktok pfp">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/e0/41/ff/e041ffbdf70abb7caa397094dc4beacc.jpg' alt='I love him tiktok pfp'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="270">
+                                <meta itemprop="height" content="272">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/e0/41/ff/e041ffbdf70abb7caa397094dc4beacc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abowwww #firstvideo #abow #iheart #iloveyou #blowthisup #likee #ledlights  #pfp #wallpaper #iheartyou">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7067644216318676271&location=0&aid=1988' alt='Abowwww #firstvideo #abow #iheart #iloveyou #blowthisup #likee #ledlights  #pfp #wallpaper #iheartyou'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7067644216318676271&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Heart Me Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp12094972.jpg' alt='I Heart Me Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp12094972.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Heart Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/016/133/680/small/logo-heart-letter-i-beautiful-love-logo-design-i-love-outline-creative-letter-design-vector.jpg' alt='I Heart Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/016/133/680/small/logo-heart-letter-i-beautiful-love-logo-design-i-love-outline-creative-letter-design-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

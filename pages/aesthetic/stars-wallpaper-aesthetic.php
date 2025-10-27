@@ -1,0 +1,129 @@
+<title>Captivating Stars Wallpaper Aesthetic for Your Space</title>
+                    <meta name="description" content="Discover the enchanting stars wallpaper aesthetic that transforms your room into a celestial haven. Perfect for all decor styles, these cosmic designs inspire tranquility and creativity, making your space feel like a dream. Explore our collection for the ideal wallpaper that shines!">
+                    <meta name="keywords" content="stars wallpaper aesthetic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/stars-wallpaper-aesthetic">
+                            <span itemprop="name">stars wallpaper aesthetic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Captivating Stars Wallpaper Aesthetic for Your Space</h1>
+                <p>Transform your space with stunning stars wallpaper aesthetic! Whether you adore celestial designs or want to bring a cosmic vibe to your room, these wallpapers feature dreamy night skies, glittering stars, and intricate constellations. Perfect for a cozy retreat, they ignite creativity and inspire awe in any decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Aesthetic Stars">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/blue-aesthetic-stars-pattern-repeat-removable-wallpaper-design.jpg' alt='Blue Aesthetic Stars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/blue-aesthetic-stars-pattern-repeat-removable-wallpaper-design.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic stars wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/03/cc/c3/03ccc3eece50b1c139854f064a8d88cb.jpg' alt='Aesthetic stars wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="716">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/03/cc/c3/03ccc3eece50b1c139854f064a8d88cb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ok">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5b/8d/b2/5b8db2b9c97aa1d901809624aeea6202.jpg' alt='ok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="601">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5b/8d/b2/5b8db2b9c97aa1d901809624aeea6202.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Star Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/aesthetic-star-1199-x-1711-fw9cqeg7edj7r0z5.jpg' alt='Aesthetic Star Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1199">
+                                <meta itemprop="height" content="1711">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/aesthetic-star-1199-x-1711-fw9cqeg7edj7r0z5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check out user_iqkv's Shuffles #vintage #vibes #moon #stars ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/f4/c0/a5/f4c0a58c16476092d8fa047ffb6e81c5.jpg' alt='Check out user_iqkv's Shuffles #vintage #vibes #moon #stars ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shuffles" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/f4/c0/a5/f4c0a58c16476092d8fa047ffb6e81c5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Constellation Phone Wallpaper Bundle, Blue, Stars, Starry Night ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/26217935/r/il/55533e/2809232431/il_570xN.2809232431_of9l.jpg' alt='Constellation Phone Wallpaper Bundle, Blue, Stars, Starry Night ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1012">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/26217935/r/il/55533e/2809232431/il_570xN.2809232431_of9l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Stars Beige Wallpapers - Light Beige Wallpaper for iPhone">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2022/06/aesthetic-stars-beige-wallpaper-2.png' alt='Aesthetic Stars Beige Wallpapers - Light Beige Wallpaper for iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="4329">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2022/06/aesthetic-stars-beige-wallpaper-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Shooting Star In Galaxy Blue Aesthetic Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/galaxy-blue-aesthetic-y55f1w4x74n976or.jpg' alt='Download Shooting Star In Galaxy Blue Aesthetic Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/galaxy-blue-aesthetic-y55f1w4x74n976or.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Wallpaper 4K, Moon, Stars, Purple sky, Surreal">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/moon-stars-purple-1170x2532-11331.jpg' alt='Aesthetic Wallpaper 4K, Moon, Stars, Purple sky, Surreal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/moon-stars-purple-1170x2532-11331.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable aesthetic moon wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFMVH4SUa4/1/0/900w/canva-moon-star-wallpaper-RJuW6kLgiM8.jpg' alt='Free and customizable aesthetic moon wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFMVH4SUa4/1/0/900w/canva-moon-star-wallpaper-RJuW6kLgiM8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

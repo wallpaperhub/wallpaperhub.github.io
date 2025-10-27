@@ -1,0 +1,129 @@
+<title>Back to School Clipart: Transparent Images for Creative Projects</title>
+                    <meta name="description" content="Discover a variety of back-to-school clipart with transparent backgrounds. Perfect for teachers and students to create eye-catching presentations and materials. Find school supplies, classroom elements, and more to elevate your projects effortlessly.">
+                    <meta name="keywords" content="back to school clipart transparent background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/back-to-school-clipart-transparent-background">
+                            <span itemprop="name">back to school clipart transparent background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Back to School Clipart: Transparent Images for Creative Projects</h1>
+                <p>Back to school clipart with a transparent background is perfect for creating engaging educational materials. Ideal for teachers and students alike, these graphics enhance presentations, worksheets, and digital content with ease. Find diverse images, from school supplies to classroom scenes, to make your projects stand out.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Back To School Clipart Images | Free Download | PNG Transparent ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20200628/ourmid/pngtree-back-to-school-illustration-concept-png-image_2268050.jpg' alt='Back To School Clipart Images | Free Download | PNG Transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20200628/ourmid/pngtree-back-to-school-illustration-concept-png-image_2268050.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Back To School PNG, Back To School Transparent Background ...">
+                                <img itemprop="contentUrl url" src='https://www.freeiconspng.com/thumbs/back-to-school-png/back-to-school-png-0.png' alt='Back To School PNG, Back To School Transparent Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="364">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Icons PNG" />
+                                </span>
+                                <a href='https://www.freeiconspng.com/thumbs/back-to-school-png/back-to-school-png-0.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Back To School PNG, Vector, PSD, and Clipart With Transparent ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20190904/ourmid/pngtree-back-to-school-cartoon-font-png-image_1721866.jpg' alt='Back To School PNG, Vector, PSD, and Clipart With Transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20190904/ourmid/pngtree-back-to-school-cartoon-font-png-image_1721866.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE Welcome Back To School Clipart | Pearly Arts">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/pearlyarts.com/wp-content/uploads/2023/07/FREE-Welcome-Back-to-School-Clipart-WM.png' alt='FREE Welcome Back To School Clipart | Pearly Arts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pearly Arts" />
+                                </span>
+                                <a href='https://i0.wp.com/pearlyarts.com/wp-content/uploads/2023/07/FREE-Welcome-Back-to-School-Clipart-WM.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Transparent Back To School Clipart in Illustrator, SVG, JPG, EPS ...">
+                                <img itemprop="contentUrl url" src='https://images.template.net/104199/free-transparent-back-to-school-clipart-oiamn.jpg' alt='Transparent Back To School Clipart in Illustrator, SVG, JPG, EPS ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template.net" />
+                                </span>
+                                <a href='https://images.template.net/104199/free-transparent-back-to-school-clipart-oiamn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Back to School Text Transparent Clip Art Image​ | Gallery ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/downloadfullsize/send/15369' alt='Back to School Text Transparent Clip Art Image​ | Gallery ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="8000">
+                                <meta itemprop="height" content="3302">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/downloadfullsize/send/15369' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Back To School Clipart Images | Free Download | PNG Transparent ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20190511/ourmid/pngtree-back-to-school-surrounded-by-fresh-stationery-png-image_1038323.jpg' alt='Back To School Clipart Images | Free Download | PNG Transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20190511/ourmid/pngtree-back-to-school-surrounded-by-fresh-stationery-png-image_1038323.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Back School Clipart Transparent PNG Hd, Back To School, Back To ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/25/2c/57/252c57e7bda5ed4a0dde355edd601274.jpg' alt='Back School Clipart Transparent PNG Hd, Back To School, Back To ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/25/2c/57/252c57e7bda5ed4a0dde355edd601274.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Back To School PNG Transparent Images Free Download | Vector Files ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20210823/ourmid/pngtree-colorful-back-to-school-sticker-png-image_3826745.jpg' alt='Back To School PNG Transparent Images Free Download | Vector Files ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20210823/ourmid/pngtree-colorful-back-to-school-sticker-png-image_3826745.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Back to School Colorful PNG Picture​ | Gallery Yopriceville - High ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/downloadfullsize/send/6960' alt='Back to School Colorful PNG Picture​ | Gallery Yopriceville - High ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3971">
+                                <meta itemprop="height" content="2014">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/downloadfullsize/send/6960' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

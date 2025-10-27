@@ -1,0 +1,129 @@
+<title>Perfect Phone Wallpaper Resizer Tool</title>
+                    <meta name="description" content="Resize your phone wallpapers effortlessly with our user-friendly tool. Fit any image to your screen size in just a few clicks. Enjoy vibrant, stunning wallpapers tailored perfectly for your device! Start personalizing your phone today!">
+                    <meta name="keywords" content="phone wallpaper resizer">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/phone-wallpaper-resizer">
+                            <span itemprop="name">phone wallpaper resizer</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Perfect Phone Wallpaper Resizer Tool</h1>
+                <p>Looking for the perfect phone wallpaper resizer? Our easy-to-use tool lets you quickly resize any image to fit your device's screen perfectly. No more cropping or stretched images! Just upload your favorite photo, select your desired dimensions, and download the optimized wallpaper in seconds. Enjoy a personalized phone look!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Wallpaper Size | Phone Background Size | Designhill">
+                                <img itemprop="contentUrl url" src='https://assets.designhill.com/resize_img.php?atyp=st_page_file&pth=ad_bt_h1i1m6igs_org||BT837304||one_hd_1info_1multiple_image_slider_with_label_link_image2_img&flp=1653391306-457516160628cbfca50fdf0-93303467.jpg' alt='Phone Wallpaper Size | Phone Background Size | Designhill'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="225">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Designhill" />
+                                </span>
+                                <a href='https://assets.designhill.com/resize_img.php?atyp=st_page_file&pth=ad_bt_h1i1m6igs_org||BT837304||one_hd_1info_1multiple_image_slider_with_label_link_image2_img&flp=1653391306-457516160628cbfca50fdf0-93303467.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Wallpaper Size | Phone Background Size | Designhill">
+                                <img itemprop="contentUrl url" src='https://assets.designhill.com/resize_img.php?atyp=st_page_file&pth=ad_bt_h1i1m6igs_org||BT837304||one_hd_1info_1multiple_image_slider_with_label_link_image1_img&flp=1653391258-1553633344628cbf9a888559-30404155.jpg' alt='Phone Wallpaper Size | Phone Background Size | Designhill'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="225">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Designhill" />
+                                </span>
+                                <a href='https://assets.designhill.com/resize_img.php?atyp=st_page_file&pth=ad_bt_h1i1m6igs_org||BT837304||one_hd_1info_1multiple_image_slider_with_label_link_image1_img&flp=1653391258-1553633344628cbf9a888559-30404155.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Design Custom Wallpaper for Your Phone | Learn BeFunky">
+                                <img itemprop="contentUrl url" src='https://www.befunky.com/images/wp/wp-2020-11-phone-wallpaper-2.jpg?auto=avif,webp&format=jpg&width=944' alt='How to Design Custom Wallpaper for Your Phone | Learn BeFunky'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="944">
+                                <meta itemprop="height" content="507">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BeFunky" />
+                                </span>
+                                <a href='https://www.befunky.com/images/wp/wp-2020-11-phone-wallpaper-2.jpg?auto=avif,webp&format=jpg&width=944' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Online Image Resizer | Resize Photos Easily">
+                                <img itemprop="contentUrl url" src='https://www.befunky.com/images/prismic/6b48ded9-0734-4f0d-b572-1e5fc3ad337e_resize-image-mobile-hero.png?auto=avif,webp&format=jpg&width=529' alt='Free Online Image Resizer | Resize Photos Easily'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="529">
+                                <meta itemprop="height" content="504">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BeFunky" />
+                                </span>
+                                <a href='https://www.befunky.com/images/prismic/6b48ded9-0734-4f0d-b572-1e5fc3ad337e_resize-image-mobile-hero.png?auto=avif,webp&format=jpg&width=529' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Upgrade Your Screen Size with These Large Phone Wallpapers ...">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/2zgo8Zz.jpg' alt='Upgrade Your Screen Size with These Large Phone Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lifehacker" />
+                                </span>
+                                <a href='http://i.imgur.com/2zgo8Zz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Wallpaper Maker | Make Your Own Phone Wallpaper | PicMonkey">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/h6goo9gw1hh6/Rf9hVmSLAEKlMPEIDptLD/4595400cf99492773ec37e5c72f90220/make-backgrounds-on-mobile_copy.jpg?w=800&h=400&fl=progressive&q=70&fm=jpg' alt='Phone Wallpaper Maker | Make Your Own Phone Wallpaper | PicMonkey'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PicMonkey" />
+                                </span>
+                                <a href='https://images.ctfassets.net/h6goo9gw1hh6/Rf9hVmSLAEKlMPEIDptLD/4595400cf99492773ec37e5c72f90220/make-backgrounds-on-mobile_copy.jpg?w=800&h=400&fl=progressive&q=70&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Wallpaper Size | Phone Background Size | Designhill">
+                                <img itemprop="contentUrl url" src='https://assets.designhill.com/resize_img.php?atyp=st_page_file&pth=ad_bt_h1i1m6igs_org||BT837304||one_hd_1info_1multiple_image_slider_with_label_link_image3_img&flp=1653391325-2125209833628cbfdd3df764-54316579.jpg' alt='Phone Wallpaper Size | Phone Background Size | Designhill'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="225">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Designhill" />
+                                </span>
+                                <a href='https://assets.designhill.com/resize_img.php?atyp=st_page_file&pth=ad_bt_h1i1m6igs_org||BT837304||one_hd_1info_1multiple_image_slider_with_label_link_image3_img&flp=1653391325-2125209833628cbfdd3df764-54316579.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Wallpaper Maker — Make Your Own Phone Wallpaper — Kapwing">
+                                <img itemprop="contentUrl url" src='https://cdn-useast1.kapwing.com/static/iL5-wallpaperpaper.webp' alt='Phone Wallpaper Maker — Make Your Own Phone Wallpaper — Kapwing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kapwing" />
+                                </span>
+                                <a href='https://cdn-useast1.kapwing.com/static/iL5-wallpaperpaper.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Design DIY Wallpaper for Your Phone | Learn BeFunky">
+                                <img itemprop="contentUrl url" src='https://www.befunky.com/images/wp/wp-2021-06-Step-1-Image.jpg?auto=avif,webp&format=jpg&width=944' alt='How to Design DIY Wallpaper for Your Phone | Learn BeFunky'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="944">
+                                <meta itemprop="height" content="509">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BeFunky" />
+                                </span>
+                                <a href='https://www.befunky.com/images/wp/wp-2021-06-Step-1-Image.jpg?auto=avif,webp&format=jpg&width=944' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Wallpaper Size | Phone Background Size | Designhill">
+                                <img itemprop="contentUrl url" src='https://assets.designhill.com/resize_img.php?atyp=st_page_file&pth=ft_bt_bobirtiibi_org||BT587972||bcm-one-bg-img-rgt-three-img-info_right_image1_img&flp=1630669426-61593938761320a72bb3919-78007784.png' alt='Phone Wallpaper Size | Phone Background Size | Designhill'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Designhill" />
+                                </span>
+                                <a href='https://assets.designhill.com/resize_img.php?atyp=st_page_file&pth=ft_bt_bobirtiibi_org||BT587972||bcm-one-bg-img-rgt-three-img-info_right_image1_img&flp=1630669426-61593938761320a72bb3919-78007784.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

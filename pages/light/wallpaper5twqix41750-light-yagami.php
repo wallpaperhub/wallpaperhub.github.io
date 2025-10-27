@@ -1,0 +1,129 @@
+<title>Light Yagami Wallpaper: Stunning Death Note Art for Your Device</title>
+                    <meta name="description" content="Explore our collection of Light Yagami wallpapers, perfect for anime lovers. Download stunning visuals of this iconic Death Note character and personalize your device with compelling artwork. Ideal for smartphones and tablets, elevate your screen aesthetic today!">
+                    <meta name="keywords" content="wallpaper:5twqix41750= light yagami">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light">
+                            <span itemprop="name">Light</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light/wallpaper5twqix41750-light-yagami">
+                            <span itemprop="name">wallpaper:5twqix41750= light yagami</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Light Yagami Wallpaper: Stunning Death Note Art for Your Device</h1>
+                <p>Discover the stunning "Light Yagami" wallpaper featuring the iconic character from Death Note. Perfect for fans, this digital wallpaper showcases Light's intense personality and dramatic themes in striking visuals. Enhance your device's look with this captivating art piece, bringing a touch of anime brilliance to your screen.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Yagami Wallpaper 4K, 5K, Death Note, Black background">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/light-yagami-5k-8k-2048x2048-10500.png' alt='Light Yagami Wallpaper 4K, 5K, Death Note, Black background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/light-yagami-5k-8k-2048x2048-10500.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Yagami, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/1023/636/HD-wallpaper-light-yagami-death-note.jpg' alt='Light Yagami, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="502">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/1023/636/HD-wallpaper-light-yagami-death-note.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Yagami Wallpaper 4K, Death Note, 5K, Black background">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/light-yagami-death-5120x2880-10501.jpg' alt='Light Yagami Wallpaper 4K, Death Note, 5K, Black background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5120">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/light-yagami-death-5120x2880-10501.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Yagami, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/306/998/HD-wallpaper-light-yagami.jpg' alt='Light Yagami, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="666">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/306/998/HD-wallpaper-light-yagami.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Light Yagami Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/light-yagami-and-ryuk-3c1ktwfypdenqmqg.jpg' alt='100+] Light Yagami Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/light-yagami-and-ryuk-3c1ktwfypdenqmqg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Yagami - God of the new world, death note, yagami, light ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/214/826/HD-wallpaper-kira-death-light-note-yagami.jpg' alt='Light Yagami - God of the new world, death note, yagami, light ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/214/826/HD-wallpaper-kira-death-light-note-yagami.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light yagami wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/26/11/0b/26110ba7b75cb90b338eadb4711b9c6b.jpg' alt='Light yagami wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1242">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/26/11/0b/26110ba7b75cb90b338eadb4711b9c6b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Yagami|Death Note|Minimalist Wallpaper(4K) by Darkfate17 on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a44d0206-0e67-40ce-9420-e9b21ed021fa/daq3ix6-64588033-6b14-42cf-a950-90a9d8580f09.png/v1/fill/w_1024,h_578,q_80,strp/light_yagami_death_note_minimalist_wallpaper_4k__by_darkfate17_daq3ix6-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc4IiwicGF0aCI6IlwvZlwvYTQ0ZDAyMDYtMGU2Ny00MGNlLTk0MjAtZTliMjFlZDAyMWZhXC9kYXEzaXg2LTY0NTg4MDMzLTZiMTQtNDJjZi1hOTUwLTkwYTlkODU4MGYwOS5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.9PwdSoGLKO3-Gmwo2uqoaOK7jwgevGZxRq_8NEb1cT4' alt='Light Yagami|Death Note|Minimalist Wallpaper(4K) by Darkfate17 on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="578">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a44d0206-0e67-40ce-9420-e9b21ed021fa/daq3ix6-64588033-6b14-42cf-a950-90a9d8580f09.png/v1/fill/w_1024,h_578,q_80,strp/light_yagami_death_note_minimalist_wallpaper_4k__by_darkfate17_daq3ix6-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc4IiwicGF0aCI6IlwvZlwvYTQ0ZDAyMDYtMGU2Ny00MGNlLTk0MjAtZTliMjFlZDAyMWZhXC9kYXEzaXg2LTY0NTg4MDMzLTZiMTQtNDJjZi1hOTUwLTkwYTlkODU4MGYwOS5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.9PwdSoGLKO3-Gmwo2uqoaOK7jwgevGZxRq_8NEb1cT4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Yagami Wallpaper 4K, L Lawliet, Death Note">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/light-yagami-l-3840x2160-10515.png' alt='Light Yagami Wallpaper 4K, L Lawliet, Death Note'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/light-yagami-l-3840x2160-10515.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="120+] Light Yagami Wallpapers">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/153/thumb-1920-153259.jpg' alt='120+] Light Yagami Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/153/thumb-1920-153259.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

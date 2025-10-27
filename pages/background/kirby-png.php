@@ -1,0 +1,129 @@
+<title>Awesome Kirby PNG Images for Your Projects</title>
+                    <meta name="description" content="Discover a fantastic collection of Kirby PNG images to enhance your design projects. With transparent backgrounds, these high-quality images are perfect for fans and creators looking to showcase the iconic character in a fun and vibrant way. Download your favorites today!">
+                    <meta name="keywords" content="kirby png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/kirby-png">
+                            <span itemprop="name">kirby png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Awesome Kirby PNG Images for Your Projects</h1>
+                <p>Kirby PNG images capture the charm of this beloved video game character in a transparent background format. Perfect for fans and designers, these PNGs allow for easy integration into various projects—from artwork to digital designs. Explore a collection of high-quality Kirby PNGs to add a playful touch to your creations!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Kirby SSBU.png - WiKirby: it's a wiki, about Kirby!">
+                                <img itemprop="contentUrl url" src='https://cdn.wikirby.com/thumb/0/07/Kirby_SSBU.png/800px-Kirby_SSBU.png' alt='File:Kirby SSBU.png - WiKirby: it's a wiki, about Kirby!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1058">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WiKirby" />
+                                </span>
+                                <a href='https://cdn.wikirby.com/thumb/0/07/Kirby_SSBU.png/800px-Kirby_SSBU.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cutest. Homicide. Ever! (Kirby) | The Silent Protagonist">
+                                <img itemprop="contentUrl url" src='https://thesilentprotagblog.wordpress.com/wp-content/uploads/2016/04/kirbykssuwalk.png?w=680' alt='Cutest. Homicide. Ever! (Kirby) | The Silent Protagonist'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="679">
+                                <meta itemprop="height" content="723">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Silent Protagonist - WordPress.com" />
+                                </span>
+                                <a href='https://thesilentprotagblog.wordpress.com/wp-content/uploads/2016/04/kirbykssuwalk.png?w=680' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kirby png by Zelrom on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/48265441-add4-48b6-99ce-fb71117c63bb/dgmyus1-fd15c9ce-5df6-45c9-8fa1-abbceab8f239.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ4MjY1NDQxLWFkZDQtNDhiNi05OWNlLWZiNzExMTdjNjNiYlwvZGdteXVzMS1mZDE1YzljZS01ZGY2LTQ1YzktOGZhMS1hYmJjZWFiOGYyMzkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.SThOEgYdvPXQes6r0hKpbEVVAe552wVufrx8fywqpJw' alt='Kirby png by Zelrom on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="490">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/48265441-add4-48b6-99ce-fb71117c63bb/dgmyus1-fd15c9ce-5df6-45c9-8fa1-abbceab8f239.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ4MjY1NDQxLWFkZDQtNDhiNi05OWNlLWZiNzExMTdjNjNiYlwvZGdteXVzMS1mZDE1YzljZS01ZGY2LTQ1YzktOGZhMS1hYmJjZWFiOGYyMzkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.SThOEgYdvPXQes6r0hKpbEVVAe552wVufrx8fywqpJw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Kirby Png Images | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink_-kirby_-character_-artwork-kkvf48t7qr4an8nh.png' alt='100+] Kirby Png Images | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1157">
+                                <meta itemprop="height" content="1027">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink_-kirby_-character_-artwork-kkvf48t7qr4an8nh.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kirby transparent PNG - StickPNG">
+                                <img itemprop="contentUrl url" src='https://assets.stickpng.com/images/5aafb0c37603fc558cffc0bb.png' alt='Kirby transparent PNG - StickPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="420">
+                                <meta itemprop="height" content="379">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StickPNG" />
+                                </span>
+                                <a href='https://assets.stickpng.com/images/5aafb0c37603fc558cffc0bb.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kirby png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/369/776/png-clipart-kirby-s-return-to-dream-land-kirby-planet-robobot-kirby-s-adventure-kirby-air-ride-%E6%80%AA%E7%89%A9-thumbnail.png' alt='Kirby png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="348">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/369/776/png-clipart-kirby-s-return-to-dream-land-kirby-planet-robobot-kirby-s-adventure-kirby-air-ride-%E6%80%AA%E7%89%A9-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Any Kirby fans? - Media Discussion - MLP Forums">
+                                <img itemprop="contentUrl url" src='https://buffy.mlpforums.com/monthly_2021_04/656-6561108_cute-kirby-art-hd-png-download.png.9cc31c1794e1f4d38049227cf0753730.png' alt='Any Kirby fans? - Media Discussion - MLP Forums'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="860">
+                                <meta itemprop="height" content="872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MLP Forums" />
+                                </span>
+                                <a href='https://buffy.mlpforums.com/monthly_2021_04/656-6561108_cute-kirby-art-hd-png-download.png.9cc31c1794e1f4d38049227cf0753730.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Guard KSSU artwork.png - WiKirby: it's a wiki, about Kirby!">
+                                <img itemprop="contentUrl url" src='https://cdn.wikirby.com/0/0d/Guard_KSSU_artwork.png' alt='File:Guard KSSU artwork.png - WiKirby: it's a wiki, about Kirby!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1938">
+                                <meta itemprop="height" content="1893">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WiKirby" />
+                                </span>
+                                <a href='https://cdn.wikirby.com/0/0d/Guard_KSSU_artwork.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Posted Image - Parasol Kirby Png PNG Image with No ...">
+                                <img itemprop="contentUrl url" src='https://www.pngkey.com/png/full/314-3147660_posted-image-parasol-kirby-png.png' alt='Download Posted Image - Parasol Kirby Png PNG Image with No ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1419">
+                                <meta itemprop="height" content="2925">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGkey" />
+                                </span>
+                                <a href='https://www.pngkey.com/png/full/314-3147660_posted-image-parasol-kirby-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download HD Kirby Png Quality Transparent Images - Kirby With ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f3/ad/6c/f3ad6cfdab62b7422e1804642fb255a8.jpg' alt='Download HD Kirby Png Quality Transparent Images - Kirby With ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="538">
+                                <meta itemprop="height" content="587">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f3/ad/6c/f3ad6cfdab62b7422e1804642fb255a8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

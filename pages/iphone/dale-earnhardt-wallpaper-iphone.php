@@ -1,0 +1,129 @@
+<title>Dale Earnhardt iPhone Wallpapers: Drive Your Passion</title>
+                    <meta name="description" content="Explore an amazing collection of Dale Earnhardt wallpapers for iPhone, perfect for any fan! Download high-quality images that showcase the racing icon's legendary moments. Transform your phone's background and show your passion for NASCAR with just a tap!">
+                    <meta name="keywords" content="dale earnhardt wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/dale-earnhardt-wallpaper-iphone">
+                            <span itemprop="name">dale earnhardt wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dale Earnhardt iPhone Wallpapers: Drive Your Passion</h1>
+                <p>Discover stunning Dale Earnhardt wallpaper for your iPhone! From iconic race moments to powerful imagery, elevate your device with high-quality images celebrating the legacy of the NASCAR legend. Choose from various styles and colors that resonate with fans and make your iPhone truly unique. Download your favorite today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sam Bass artwork, Dale Earnhardt's #3 Goodwrench Chevrolet Lumina">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/6c/08/d0/6c08d0bb3e205ccafb13aefaf59b3fb5.jpg' alt='Sam Bass artwork, Dale Earnhardt's #3 Goodwrench Chevrolet Lumina'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="363">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/6c/08/d0/6c08d0bb3e205ccafb13aefaf59b3fb5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dale Sr, auto, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/230/870/HD-wallpaper-dale-sr-auto.jpg' alt='Dale Sr, auto, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/230/870/HD-wallpaper-dale-sr-auto.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="dale earnhardt wallpaper iphone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fa/92/40/fa9240fa5a39a0fa2f449411eff9b322.jpg' alt='dale earnhardt wallpaper iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="525">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fa/92/40/fa9240fa5a39a0fa2f449411eff9b322.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Dale Earnhardt Archive on X: "Looking for some new wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FtUFXwsXgAImX0M.jpg:large' alt='The Dale Earnhardt Archive on X: "Looking for some new wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FtUFXwsXgAImX0M.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6a/56/72/6a567256aa1237e4ceab5f68afc7842a.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6a/56/72/6a567256aa1237e4ceab5f68afc7842a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Dale Earnhardt Victory Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dale-earnhardt-m5pzq7lcqo1v6ybq.jpg' alt='Download Dale Earnhardt Victory Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dale-earnhardt-m5pzq7lcqo1v6ybq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dale Earnhardt iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp14509486.jpg' alt='Dale Earnhardt iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="946">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp14509486.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="hope everyone enjoys this awesome wallpaper i created Black ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/95/d4/c0/95d4c0e31018b6cccad2996505dd3d2d.jpg' alt='hope everyone enjoys this awesome wallpaper i created Black ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/95/d4/c0/95d4c0e31018b6cccad2996505dd3d2d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download "Dale Earnhardt - The Intimidator" Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dale-earnhardt-x1snqbqggdcc4342.jpg' alt='Download "Dale Earnhardt - The Intimidator" Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="796">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dale-earnhardt-x1snqbqggdcc4342.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Monochrome Dale Earnhardt Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/dale-earnhardt-be1e8n7yddc9v5nv.jpg' alt='Download Monochrome Dale Earnhardt Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="753">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/dale-earnhardt-be1e8n7yddc9v5nv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

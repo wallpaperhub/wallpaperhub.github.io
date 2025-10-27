@@ -1,0 +1,129 @@
+<title>Cozy Winter iPhone Wallpapers: Embrace the Season</title>
+                    <meta name="description" content="Discover stunning cozy winter wallpapers for your iPhone. Embrace the warmth of the season with beautiful designs featuring snowy landscapes and inviting scenes. Perfect for enhancing your device's look while celebrating winter's charm. Upgrade your phone’s background today!">
+                    <meta name="keywords" content="cozy winter wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/winter">
+                            <span itemprop="name">Winter</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/winter/cozy-winter-wallpaper-iphone">
+                            <span itemprop="name">cozy winter wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cozy Winter iPhone Wallpapers: Embrace the Season</h1>
+                <p>Transform your iPhone into a cozy winter haven with beautiful winter wallpaper! From snowy landscapes and frosty forests to warm, inviting scenes by the fireplace, our collection adds a touch of seasonal charm. Perfect for embracing the winter mood every time you unlock your device. Download your favorite wallpaper today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter iPhone Wallpapers - 28 Cute Winter iPhone Backgrounds">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/6d/e7/60/6de76098b40532bdbe859bf1863fc889.jpg' alt='Winter iPhone Wallpapers - 28 Cute Winter iPhone Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/6d/e7/60/6de76098b40532bdbe859bf1863fc889.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cozy Winter Wallpapers [46+ Free Background Images] - WallpaperGap">
+                                <img itemprop="contentUrl url" src='https://www.wallpapergap.com/cdn/24/512/cozy-winter-wallpaper-iphone-750x1334.jpg' alt='Cozy Winter Wallpapers [46+ Free Background Images] - WallpaperGap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperGap" />
+                                </span>
+                                <a href='https://www.wallpapergap.com/cdn/24/512/cozy-winter-wallpaper-iphone-750x1334.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter iPhone Wallpapers: Get Stunning Seasonal Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/50/a8/24/50a824c000ddae48abb1c840d17b757b.jpg' alt='Winter iPhone Wallpapers: Get Stunning Seasonal Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="jp.pinterest.com" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/50/a8/24/50a824c000ddae48abb1c840d17b757b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60+ Free Aesthetic Winter Wallpapers for IPhone - Cappuccino and ...">
+                                <img itemprop="contentUrl url" src='https://cappuccinoandfashion.com/wp-content/uploads/2023/11/zachary-kyra-derksen-f7PF7yGqpEM-unsplash-874x1092.jpg' alt='60+ Free Aesthetic Winter Wallpapers for IPhone - Cappuccino and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="874">
+                                <meta itemprop="height" content="1092">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cappuccino and Fashion" />
+                                </span>
+                                <a href='https://cappuccinoandfashion.com/wp-content/uploads/2023/11/zachary-kyra-derksen-f7PF7yGqpEM-unsplash-874x1092.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Warm And Cozy Winter Drink Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/warm-and-cozy-winter-drink-yhr4glqu8bheep1d.jpg' alt='Warm And Cozy Winter Drink Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/warm-and-cozy-winter-drink-yhr4glqu8bheep1d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cozy Winter iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp8930549.jpg' alt='Cozy Winter iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1414">
+                                <meta itemprop="height" content="2512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp8930549.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Winter Wallpapers for Your Phone - Our Happy Corner">
+                                <img itemprop="contentUrl url" src='http://ourhappycorner.com/wp-content/uploads/2024/12/winter-wallpapers-4-485x1024.png' alt='Free Winter Wallpapers for Your Phone - Our Happy Corner'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="485">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Our Happy Corner" />
+                                </span>
+                                <a href='http://ourhappycorner.com/wp-content/uploads/2024/12/winter-wallpapers-4-485x1024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Winter Christmas iPhone Wallpaper❄☃️ | Gallery posted ...">
+                                <img itemprop="contentUrl url" src='https://p16-va.lemon8cdn.com/tos-maliva-v-ac5634-us/o8BiySi4AAbi3AQDXwP8xEA9VIZsphiwgQBIU~tplv-tej9nj120t-origin.webp' alt='Aesthetic Winter Christmas iPhone Wallpaper❄☃️ | Gallery posted ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://p16-va.lemon8cdn.com/tos-maliva-v-ac5634-us/o8BiySi4AAbi3AQDXwP8xEA9VIZsphiwgQBIU~tplv-tej9nj120t-origin.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6 Hygge iPhone Wallpapers Digital Download, Beige Brown Aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16443369/r/il/8d526c/3549711144/il_fullxfull.3549711144_7rzx.jpg' alt='6 Hygge iPhone Wallpapers Digital Download, Beige Brown Aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2800">
+                                <meta itemprop="height" content="2100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16443369/r/il/8d526c/3549711144/il_fullxfull.3549711144_7rzx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Transform Your Phone This Winter with Snowflake Wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7440637121142066462&location=0&aid=1988' alt='Transform Your Phone This Winter with Snowflake Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7440637121142066462&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

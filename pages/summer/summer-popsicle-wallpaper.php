@@ -1,0 +1,129 @@
+<title>Vibrant Summer Popsicle Wallpaper for a Cool Vibe</title>
+                    <meta name="description" content="Explore our collection of summer popsicle wallpaper! Perfect for adding a splash of color to your device, these fun and fruity designs evoke the carefree essence of summer. Instantly refresh your screens with delightful popsicles and enjoy a sweet escape all year round!">
+                    <meta name="keywords" content="summer popsicle wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/summer">
+                            <span itemprop="name">Summer</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/summer/summer-popsicle-wallpaper">
+                            <span itemprop="name">summer popsicle wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Summer Popsicle Wallpaper for a Cool Vibe</h1>
+                <p>Brighten up your device with vibrant summer popsicle wallpaper designs! These refreshing backgrounds feature an array of colorful popsicles that capture the essence of summer fun. Perfect for kids and adults alike, these wallpapers will bring a sense of joy and warmth to your screens, reminding you of sunny days and sweet treats!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Popsicle Images – Browse 171,350 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/42/09/52/360_F_442095289_lnb0dxLPa7Cetjrn1mJaVHlFhwaQ6Xuu.jpg' alt='Summer Popsicle Images – Browse 171,350 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/42/09/52/360_F_442095289_lnb0dxLPa7Cetjrn1mJaVHlFhwaQ6Xuu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Summer Dreamsicle Party!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/31/f4/be/31f4be7ca9563775423bb3c951cdd4c4.jpg' alt='A Summer Dreamsicle Party!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/31/f4/be/31f4be7ca9563775423bb3c951cdd4c4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor Ice Pop Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/8685854/p/f/l/pR7NIRGxAwc9ghUaDc07135d8kGoavHyvTI_vMmi8RN6iIJiq-fRnJft/watercolor%20summer%20popsicles%20.jpg' alt='Watercolor Ice Pop Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/8685854/p/f/l/pR7NIRGxAwc9ghUaDc07135d8kGoavHyvTI_vMmi8RN6iIJiq-fRnJft/watercolor%20summer%20popsicles%20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50,900+ Summer Popsicle Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1205073760/photo/ice-cream-stick-popsicle-minimal-summer-concept-isometric-view.jpg?s=612x612&w=0&k=20&c=3_u12kdDtgXhQaHbCntCvyo0yC4Jgs_QwF2C_y2KAms=' alt='50,900+ Summer Popsicle Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1205073760/photo/ice-cream-stick-popsicle-minimal-summer-concept-isometric-view.jpg?s=612x612&w=0&k=20&c=3_u12kdDtgXhQaHbCntCvyo0yC4Jgs_QwF2C_y2KAms=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vector pastel popsicle seamless pattern. Summer background great ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/02/68/38/24/1000_F_268382462_CneLVg7FRoI2tUXL07bQDxe67kgDSL1V.jpg' alt='Vector pastel popsicle seamless pattern. Summer background great ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/02/68/38/24/1000_F_268382462_CneLVg7FRoI2tUXL07bQDxe67kgDSL1V.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50,900+ Summer Popsicle Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1323369382/photo/collection-of-colorful-summer-frozen-desserts-bottom-border-on-a-pink-background.jpg?s=612x612&w=0&k=20&c=f-HAIM-ne9EuEoyzNoQemtR9DQxovFuj2cUWl27Q0uU=' alt='50,900+ Summer Popsicle Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1323369382/photo/collection-of-colorful-summer-frozen-desserts-bottom-border-on-a-pink-background.jpg?s=612x612&w=0&k=20&c=f-HAIM-ne9EuEoyzNoQemtR9DQxovFuj2cUWl27Q0uU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="                                   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/21/90/4e/21904efdcf0c4ea7a52652d81bfdf809.jpg' alt='                                   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/21/90/4e/21904efdcf0c4ea7a52652d81bfdf809.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Popsicle Lineart Background Watermelon | PSD Free Download ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/back_our/20210315/bg/c7a88fecf7553.png!w700wp' alt='Summer Popsicle Lineart Background Watermelon | PSD Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/back_our/20210315/bg/c7a88fecf7553.png!w700wp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Popsicle Wallpaper Photos, Images & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/ice-cream-frozen-juice-summer-260nw-1116227432.jpg' alt='Popsicle Wallpaper Photos, Images & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/ice-cream-frozen-juice-summer-260nw-1116227432.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50,900+ Summer Popsicle Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1318427122/photo/homemade-fruit-ice-lollies-and-juice.jpg?s=612x612&w=0&k=20&c=Sy_PoM9wbaKJTgesB4DrT2mqbPH6PhNcpDSH6IXNYi0=' alt='50,900+ Summer Popsicle Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1318427122/photo/homemade-fruit-ice-lollies-and-juice.jpg?s=612x612&w=0&k=20&c=Sy_PoM9wbaKJTgesB4DrT2mqbPH6PhNcpDSH6IXNYi0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

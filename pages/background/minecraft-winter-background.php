@@ -1,0 +1,129 @@
+<title>Stunning Minecraft Winter Background Ideas</title>
+                    <meta name="description" content="Discover captivating winter backgrounds for Minecraft! Turn your game into a snow-covered paradise with creative ideas for snowy landscapes and festive builds. Perfect for enhancing your gameplay experience, these winter themes will bring joy and adventure to your Minecraft world. Explore now!">
+                    <meta name="keywords" content="minecraft winter background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/minecraft-winter-background">
+                            <span itemprop="name">minecraft winter background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Minecraft Winter Background Ideas</h1>
+                <p>Transform your Minecraft world into a winter wonderland! With snowy landscapes, frosty trees, and cozy cabins, the winter background adds a magical touch to your gameplay. Explore icy terrains, build snowmen, and enjoy festive adventures. Embrace the chilly vibes and create your ultimate winter experience in Minecraft!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="So yeah we build a winter map... : r/Minecraft">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/57s8ursob4m31.png?auto=webp&s=5e47ed628be627d009bfdb7b2b57d15f9b2717a1' alt='So yeah we build a winter map... : r/Minecraft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1017">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/57s8ursob4m31.png?auto=webp&s=5e47ed628be627d009bfdb7b2b57d15f9b2717a1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="  ❄ Minecraft Snow Aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4d/fc/0f/4dfc0f3658375dfd50cf9420e0608145.jpg' alt='  ❄ Minecraft Snow Aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4d/fc/0f/4dfc0f3658375dfd50cf9420e0608145.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Minecraft Falling Snow Loop 4K Upscale">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/2385305092455261754/402BF54A01F7B90E48E44157E7710E5C813F46D2/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::Minecraft Falling Snow Loop 4K Upscale'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/2385305092455261754/402BF54A01F7B90E48E44157E7710E5C813F46D2/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I make minecraft wallpaper snow edition : r/Minecraft">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/i-make-minecraft-wallpaper-snow-edition-v0-uwgrubje8gza1.png?width=1920&format=png&auto=webp&s=927d9b7a599aa55b8ade82918eac58901eec3b7b' alt='I make minecraft wallpaper snow edition : r/Minecraft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/i-make-minecraft-wallpaper-snow-edition-v0-uwgrubje8gza1.png?width=1920&format=png&auto=webp&s=927d9b7a599aa55b8ade82918eac58901eec3b7b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Minecraft Serene Snow">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/2269315845056625103/B212E56FB0666387A3A42147A60DA92CD772A17B/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::Minecraft Serene Snow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/2269315845056625103/B212E56FB0666387A3A42147A60DA92CD772A17B/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I make minecraft wallpaper snow edition : r/Minecraft">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/i-make-minecraft-wallpaper-snow-edition-v0-v8a1tsee8gza1.png?width=1920&format=png&auto=webp&s=05194e6b6df42ded207101674e0ab0ce6243a420' alt='I make minecraft wallpaper snow edition : r/Minecraft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/i-make-minecraft-wallpaper-snow-edition-v0-v8a1tsee8gza1.png?width=1920&format=png&auto=webp&s=05194e6b6df42ded207101674e0ab0ce6243a420' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minecraft Winter Wonderland - 4K HD, Download Now!">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/133/1333796.jpeg' alt='Minecraft Winter Wonderland - 4K HD, Download Now!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/133/1333796.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Minecraft northern light winter with snow">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/2317729541128655407/4D3A873ED8871FF7414721AFF8669D88F6397E11/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::Minecraft northern light winter with snow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/2317729541128655407/4D3A873ED8871FF7414721AFF8669D88F6397E11/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skull_fury on X: "Winter sun Seed: -865209853 Coords: -874.92 ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FJSuCPMXsAEq5lU.jpg:large' alt='Skull_fury on X: "Winter sun Seed: -865209853 Coords: -874.92 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FJSuCPMXsAEq5lU.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bedrock looks so good in the Snow… beauty. : r/Minecraft">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/czi0xuivjxl21.png' alt='Bedrock looks so good in the Snow… beauty. : r/Minecraft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/czi0xuivjxl21.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

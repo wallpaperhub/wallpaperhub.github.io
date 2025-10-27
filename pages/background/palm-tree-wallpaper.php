@@ -1,0 +1,129 @@
+<title>Embrace Tropical Vibes: Palm Tree Wallpaper</title>
+                    <meta name="description" content="Discover the allure of palm tree wallpaper, bringing a slice of paradise into your home. Ideal for any space, our vibrant designs enhance your decor while promoting a relaxing ambiance. Elevate your style effortlessly with our stunning collection of tropical wallpapers. Perfect for a refreshing home makeover!">
+                    <meta name="keywords" content="palm tree wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/palm-tree-wallpaper">
+                            <span itemprop="name">palm tree wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Embrace Tropical Vibes: Palm Tree Wallpaper</h1>
+                <p>Transform your space with vibrant palm tree wallpaper that invokes tropical bliss. Perfect for adding a touch of nature to your home, this wallpaper showcases lush greenery and serene landscapes. Ideal for bedrooms, living rooms, or offices, it creates an inviting atmosphere. Immerse yourself in relaxation and style with palm tree designs.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Palm Tree Wallpapers [47+ Free Background Images] - WallpaperGap">
+                                <img itemprop="contentUrl url" src='https://www.wallpapergap.com/cdn/24/134/palm-tree-pink-wallpaper-1280x1920.jpg' alt='Pink Palm Tree Wallpapers [47+ Free Background Images] - WallpaperGap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperGap" />
+                                </span>
+                                <a href='https://www.wallpapergap.com/cdn/24/134/palm-tree-pink-wallpaper-1280x1920.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo wallpaper with palm trees on the water in the sunset - blue, orange,  black">
+                                <img itemprop="contentUrl url" src='https://www.new-walls.com/media/69/20/c9/1711252613/93836a4e0210c7e9c560d7f8fec836dc.jpg' alt='Photo wallpaper with palm trees on the water in the sunset - blue, orange,  black'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2196">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="New-Walls.com" />
+                                </span>
+                                <a href='https://www.new-walls.com/media/69/20/c9/1711252613/93836a4e0210c7e9c560d7f8fec836dc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+ Palm Tree Pictures [HD] | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1514125669375-59ee3985d08b?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGFsbSUyMHRyZWV8ZW58MHx8MHx8fDA%3D' alt='200+ Palm Tree Pictures [HD] | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1514125669375-59ee3985d08b?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGFsbSUyMHRyZWV8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Palm Tree Photos, Download The BEST Free Palm Tree Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/461940/pexels-photo-461940.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' alt='Palm Tree Photos, Download The BEST Free Palm Tree Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/461940/pexels-photo-461940.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Cecile Watel on wallpapers | Palm tree photography, Palm ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c5/0e/9d/c50e9d87e6daa0c5a13e7039257063eb.jpg' alt='Pin by Cecile Watel on wallpapers | Palm tree photography, Palm ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1655">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c5/0e/9d/c50e9d87e6daa0c5a13e7039257063eb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Palm Tree Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/a-large-aesthetic-palm-tree-with-a-vibrant-orange-sunset-6fi73tzdcd951s5o.jpg' alt='Aesthetic Palm Tree Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/a-large-aesthetic-palm-tree-with-a-vibrant-orange-sunset-6fi73tzdcd951s5o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Background Pink Palm Trees Images | Free Photos, PNG ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjIzLXgtYm9yZGVyLWFkai0wMDJiLTAxLmpwZw.jpg' alt='Wallpaper Background Pink Palm Trees Images | Free Photos, PNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjIzLXgtYm9yZGVyLWFkai0wMDJiLTAxLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Let's go Coconuts! Enjoy 10 Tropical iPhone Wallpapers! | Palm ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/80/7a/7c/807a7c630a8a4f50ec9a1743d721f0c5.jpg' alt='Let's go Coconuts! Enjoy 10 Tropical iPhone Wallpapers! | Palm ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/80/7a/7c/807a7c630a8a4f50ec9a1743d721f0c5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Silhouette Photo of Palm Trees During Dawn · Free Stock Photo">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/2089353/pexels-photo-2089353.jpeg' alt='Silhouette Photo of Palm Trees During Dawn · Free Stock Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2279">
+                                <meta itemprop="height" content="3646">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/2089353/pexels-photo-2089353.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Palm Trees Silhouette At Sunset Wall Mural">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/241188/Palm-Trees-Silhouette-At-Sunset-Wallpaper-Mural.jpg?v=638164405244970000' alt='Palm Trees Silhouette At Sunset Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="2134">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/241188/Palm-Trees-Silhouette-At-Sunset-Wallpaper-Mural.jpg?v=638164405244970000' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

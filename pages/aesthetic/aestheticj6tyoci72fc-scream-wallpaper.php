@@ -1,0 +1,129 @@
+<title>Aesthetic Scream Wallpaper: Dark Art for Your Space</title>
+                    <meta name="description" content="Discover unique aesthetic scream wallpaper that enhances any room's vibe. Perfect for art lovers seeking a darker aesthetic, our wallpapers combine style and bold emotion seamlessly. Transform your walls and express your individuality effortlessly!">
+                    <meta name="keywords" content="aesthetic:j6tyoci72fc= scream wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aestheticj6tyoci72fc-scream-wallpaper">
+                            <span itemprop="name">aesthetic:j6tyoci72fc= scream wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Scream Wallpaper: Dark Art for Your Space</h1>
+                <p>Transform your space with aesthetic "scream" wallpapers that capture an edgy and haunting vibe. Perfect for those who embrace the darker side of art, these wallpapers can elevate your home decor with stunning visuals inspired by the iconic scream motif. Make a bold statement that reflects your unique style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scream wallpaper #scream#ghostface#wallpaper#foryou | Ghost face ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9e/61/52/9e61529729b04222672936b7943bb9d8.jpg' alt='Scream wallpaper #scream#ghostface#wallpaper#foryou | Ghost face ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9e/61/52/9e61529729b04222672936b7943bb9d8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AESTHETIC SCREAM">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/53/15/2b/53152b443bc5407c2607fceebabd185f.jpg' alt='AESTHETIC SCREAM'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/53/15/2b/53152b443bc5407c2607fceebabd185f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Scream">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6a/2e/af/6a2eaf822605a8154c1a801011784d18.jpg' alt='Aesthetic Scream'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6a/2e/af/6a2eaf822605a8154c1a801011784d18.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scream Aesthetic Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/38/03/90/380390518b73387fbbc209faec47ad25.jpg' alt='Scream Aesthetic Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/38/03/90/380390518b73387fbbc209faec47ad25.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scream 6 Wallpaper - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/29/1a/c2/291ac2fd0469554cc7c65393245519f6.jpg' alt='Scream 6 Wallpaper - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/29/1a/c2/291ac2fd0469554cc7c65393245519f6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scream Aesthetic Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/2c/9f/53/2c9f53972a50bb6c8937740d76163738.jpg' alt='Scream Aesthetic Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/2c/9f/53/2c9f53972a50bb6c8937740d76163738.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="aesthetic scream wallpaper             ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/90/c5/8c/90c58ce3b15af9ba780f4d0871db6e4e.jpg' alt='aesthetic scream wallpaper             '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/90/c5/8c/90c58ce3b15af9ba780f4d0871db6e4e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scream 6 Wallpaper - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b0/9a/30/b09a309d2920d5bc0511588ded4f190a.jpg' alt='Scream 6 Wallpaper - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b0/9a/30/b09a309d2920d5bc0511588ded4f190a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scream 6 Wallpapers Aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/f7/9e/a9/f79ea9d53d661af1666e6705788f831e.jpg' alt='Scream 6 Wallpapers Aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/f7/9e/a9/f79ea9d53d661af1666e6705788f831e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scream Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/bb/37/bd/bb37bdbd4398ea34d1073280d4222a13.jpg' alt='Scream Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/bb/37/bd/bb37bdbd4398ea34d1073280d4222a13.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

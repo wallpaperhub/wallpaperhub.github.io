@@ -1,0 +1,129 @@
+<title>Explore the Wonders of Florence</title>
+                    <meta name="description" content="Discover Florence, Italy's gem of the Renaissance! From stunning architecture to world-class art, find out why this vibrant city captivates travelers. Enjoy breathtaking sights, rich history, and delicious cuisine in the heart of Tuscany. Your adventure in Florence awaits!">
+                    <meta name="keywords" content="florence">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/florence">
+                            <span itemprop="name">florence</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Wonders of Florence</h1>
+                <p>Florence, a stunning city in Italy, is renowned for its Renaissance art and architecture. With iconic landmarks like the Duomo, Ponte Vecchio, and Uffizi Gallery, visitors are immersed in history and culture. Enjoy vibrant street life, picturesque piazzas, and exquisite Tuscan cuisine that make Florence an unforgettable destination.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Visit Florence: Things to do & Attractions - Italia.it">
+                                <img itemprop="contentUrl url" src='https://www.italia.it/content/dam/tdh/en/interests/toscana/firenze/firenze/media/20210401173629-firenze-toscana-gettyimages-1145040590.jpg' alt='Visit Florence: Things to do & Attractions - Italia.it'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6016">
+                                <meta itemprop="height" content="4016">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Italy" />
+                                </span>
+                                <a href='https://www.italia.it/content/dam/tdh/en/interests/toscana/firenze/firenze/media/20210401173629-firenze-toscana-gettyimages-1145040590.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Florence | Italy, History, Geography, & Culture | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/59/179059-050-62BD6102/Cathedral-of-Santa-Maria-del-Fiore-Florence.jpg' alt='Florence | Italy, History, Geography, & Culture | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1473">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/59/179059-050-62BD6102/Cathedral-of-Santa-Maria-del-Fiore-Florence.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Discover the history, art and culture of Florence with Villa La Massa">
+                                <img itemprop="contentUrl url" src='https://www.villalamassa.com/wp-content/uploads/2023/01/1600_duomo1.jpg' alt='Discover the history, art and culture of Florence with Villa La Massa'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="824">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Villa la Massa" />
+                                </span>
+                                <a href='https://www.villalamassa.com/wp-content/uploads/2023/01/1600_duomo1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Interactive Map of Florence - Tourist Italy">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.touristitaly.com/wp-content/uploads/2023/04/Florence-view-from-the-top-of-the-Duomo-with-Palazzo-Vecchio-e1682579398666.jpg?fit=2500%2C1493&ssl=1' alt='Interactive Map of Florence - Tourist Italy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1493">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tourist Italy" />
+                                </span>
+                                <a href='https://i0.wp.com/www.touristitaly.com/wp-content/uploads/2023/04/Florence-view-from-the-top-of-the-Duomo-with-Palazzo-Vecchio-e1682579398666.jpg?fit=2500%2C1493&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Florence in One Day - Itinerary, Map, Tips & Guide | The Gap Decaders">
+                                <img itemprop="contentUrl url" src='https://thegapdecaders.com/wp-content/uploads/2023/12/FlorenceFI1.jpg' alt='Florence in One Day - Itinerary, Map, Tips & Guide | The Gap Decaders'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Gap Decaders" />
+                                </span>
+                                <a href='https://thegapdecaders.com/wp-content/uploads/2023/12/FlorenceFI1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Florence Italy tourist informations & things to do - CiaoFlorence">
+                                <img itemprop="contentUrl url" src='https://d1c96a4wcgziwl.cloudfront.net/hd_955cfirenze.jpg' alt='Florence Italy tourist informations & things to do - CiaoFlorence'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ciao Florence Tours" />
+                                </span>
+                                <a href='https://d1c96a4wcgziwl.cloudfront.net/hd_955cfirenze.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Florence: The Cultural Capital of Europe by Rick Steves">
+                                <img itemprop="contentUrl url" src='https://d3dqioy2sca31t.cloudfront.net/Projects/cms/production/000/032/655/original/6c927f67de0cadee42caab5dcc1979de/article-italy-tuscany-florence-duomo-panorama.jpg' alt='Florence: The Cultural Capital of Europe by Rick Steves'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5616">
+                                <meta itemprop="height" content="3159">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rick Steves Europe" />
+                                </span>
+                                <a href='https://d3dqioy2sca31t.cloudfront.net/Projects/cms/production/000/032/655/original/6c927f67de0cadee42caab5dcc1979de/article-italy-tuscany-florence-duomo-panorama.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Florence - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/FirenzeDec092023_01.jpg/278px-FirenzeDec092023_01.jpg' alt='Florence - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="278">
+                                <meta itemprop="height" content="185">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/FirenzeDec092023_01.jpg/278px-FirenzeDec092023_01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="19 Best Things to Do in Florence | Condé Nast Traveler">
+                                <img itemprop="contentUrl url" src='https://media.cntraveler.com/photos/677ffc3bc05c2bca8122ed4a/4:3/w_3884,h_2913,c_limit/pexels-Mihai%20Vlasceanu-22806958.jpg' alt='19 Best Things to Do in Florence | Condé Nast Traveler'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3884">
+                                <meta itemprop="height" content="2913">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Condé Nast Traveler" />
+                                </span>
+                                <a href='https://media.cntraveler.com/photos/677ffc3bc05c2bca8122ed4a/4:3/w_3884,h_2913,c_limit/pexels-Mihai%20Vlasceanu-22806958.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Florence | Italy, History, Geography, & Culture | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/71/8671-050-2EE6A745/Cathedral-Florence-Santa-Maria-del-Fiore.jpg' alt='Florence | Italy, History, Geography, & Culture | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1031">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/71/8671-050-2EE6A745/Cathedral-Florence-Santa-Maria-del-Fiore.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

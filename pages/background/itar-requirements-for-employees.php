@@ -1,0 +1,129 @@
+<title>ITAR Compliance Essentials for Employees</title>
+                    <meta name="description" content="Explore essential ITAR requirements for employees, including training, security clearances, and citizenship mandates. Stay compliant and secure with the right protocols and practices for handling defense articles and sensitive information.">
+                    <meta name="keywords" content="itar requirements for employees">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/itar-requirements-for-employees">
+                            <span itemprop="name">itar requirements for employees</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>ITAR Compliance Essentials for Employees</h1>
+                <p>ITAR (International Traffic in Arms Regulations) requirements mandate that employees working with defense articles obtain necessary training and security clearances. They must be U.S. citizens or lawful permanent residents, ensuring compliance with national security protocols. Organizations must implement a robust monitoring system to oversee employee access to sensitive information and equipment.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ITAR Compliance: The Requirements You Have to Know | PreVeil">
+                                <img itemprop="contentUrl url" src='https://www.preveil.com/wp-content/uploads/2023/08/Itar-Design-3.2-scaled-1.jpg' alt='ITAR Compliance: The Requirements You Have to Know | PreVeil'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PreVeil" />
+                                </span>
+                                <a href='https://www.preveil.com/wp-content/uploads/2023/08/Itar-Design-3.2-scaled-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ITAR Compliance Guide for 2025 | The Receptionist">
+                                <img itemprop="contentUrl url" src='https://thereceptionist.com/wp-content/uploads/2023/05/ITAR-v-EAR.png' alt='ITAR Compliance Guide for 2025 | The Receptionist'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Receptionist for iPad" />
+                                </span>
+                                <a href='https://thereceptionist.com/wp-content/uploads/2023/05/ITAR-v-EAR.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is ITAR Compliance? Definition and Regulations">
+                                <img itemprop="contentUrl url" src='https://info.varonis.com/hubfs/Imported_Blog_Media/who-needs-to-be-itar-compliant-1.png?hsLang=en' alt='What is ITAR Compliance? Definition and Regulations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Varonis" />
+                                </span>
+                                <a href='https://info.varonis.com/hubfs/Imported_Blog_Media/who-needs-to-be-itar-compliant-1.png?hsLang=en' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is ITAR Compliance and Who Needs to Comply? - Cleared Systems">
+                                <img itemprop="contentUrl url" src='https://clearedsystems.com/wp-content/uploads/elementor/thumbs/Key-components-of-ITAR-compliance-qke30m3l7ptwlzma4f428le0jog1rqm2o2xfcebsns.png' alt='What is ITAR Compliance and Who Needs to Comply? - Cleared Systems'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="508">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cleared Systems" />
+                                </span>
+                                <a href='https://clearedsystems.com/wp-content/uploads/elementor/thumbs/Key-components-of-ITAR-compliance-qke30m3l7ptwlzma4f428le0jog1rqm2o2xfcebsns.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is ITAR Compliance and Who Needs to Comply? - Cleared Systems">
+                                <img itemprop="contentUrl url" src='https://clearedsystems.com/wp-content/uploads/2023/03/ITAR-Compliant-infographic_1-724x1024.png' alt='What is ITAR Compliance and Who Needs to Comply? - Cleared Systems'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="724">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cleared Systems" />
+                                </span>
+                                <a href='https://clearedsystems.com/wp-content/uploads/2023/03/ITAR-Compliant-infographic_1-724x1024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ITAR Requirements for Employees: A Comprehensive Guide - Securiti">
+                                <img itemprop="contentUrl url" src='https://securiti.ai/wp-content/uploads/2023/04/OG-ITAR-Requirements-for-Employees.jpg' alt='ITAR Requirements for Employees: A Comprehensive Guide - Securiti'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Securiti.ai" />
+                                </span>
+                                <a href='https://securiti.ai/wp-content/uploads/2023/04/OG-ITAR-Requirements-for-Employees.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ITAR & Export Compliance Program Implementation - CVG Strategy">
+                                <img itemprop="contentUrl url" src='https://cvgstrategy.com/wp-content/uploads/2015/08/CVG-Strategy-ITAR-Export-Compliance-Program-500x336.jpg' alt='ITAR & Export Compliance Program Implementation - CVG Strategy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="336">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CVG Strategy" />
+                                </span>
+                                <a href='https://cvgstrategy.com/wp-content/uploads/2015/08/CVG-Strategy-ITAR-Export-Compliance-Program-500x336.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ITAR Compliance Checklist for Data Protection">
+                                <img itemprop="contentUrl url" src='https://www.virtru.com/hubfs/Resources/2019/12/itar-checklist-cover.png' alt='ITAR Compliance Checklist for Data Protection'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2613">
+                                <meta itemprop="height" content="3269">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Virtru" />
+                                </span>
+                                <a href='https://www.virtru.com/hubfs/Resources/2019/12/itar-checklist-cover.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ITAR Compliance: Rules and Exemptions | BigID">
+                                <img itemprop="contentUrl url" src='https://bigid.com/wp-content/uploads/2023/10/ITAR-Compliance-Rules-and-Exemptions-1024x536.jpg' alt='ITAR Compliance: Rules and Exemptions | BigID'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BigID" />
+                                </span>
+                                <a href='https://bigid.com/wp-content/uploads/2023/10/ITAR-Compliance-Rules-and-Exemptions-1024x536.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is ITAR Compliance and Who Needs to Comply? - Cleared Systems">
+                                <img itemprop="contentUrl url" src='https://clearedsystems.com/wp-content/uploads/elementor/thumbs/ITAR-Compliance-Penalties-for-violations-qke0f6x1yhxksbiz3b220qicf7ka9wsgzpse1y08j4.png' alt='What is ITAR Compliance and Who Needs to Comply? - Cleared Systems'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cleared Systems" />
+                                </span>
+                                <a href='https://clearedsystems.com/wp-content/uploads/elementor/thumbs/ITAR-Compliance-Penalties-for-violations-qke0f6x1yhxksbiz3b220qicf7ka9wsgzpse1y08j4.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

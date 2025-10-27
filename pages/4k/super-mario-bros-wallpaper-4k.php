@@ -1,0 +1,129 @@
+<title>Super Mario Bros 4K Wallpapers: Game On!</title>
+                    <meta name="description" content="Discover vibrant 4K Super Mario Bros wallpapers to enhance your device! Perfect for gamers and fans, these stunning backgrounds showcase your favorite characters and adventures in crisp detail. Download now and bring the Mario magic to your screen!">
+                    <meta name="keywords" content="super mario bros wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/super-mario-bros-wallpaper-4k">
+                            <span itemprop="name">super mario bros wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Super Mario Bros 4K Wallpapers: Game On!</h1>
+                <p>Elevate your screen's style with stunning 4K Super Mario Bros wallpapers! Dive into a world where colorful landscapes, iconic characters, and adventurous scenes come alive in high definition. Perfect for gaming fans, these wallpapers will add a vibrant touch to your devices, immersing you in the nostalgia and excitement of the beloved franchise.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Mario Bros. 2023 Movie 4K Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/130/1301279.jpg' alt='Super Mario Bros. 2023 Movie 4K Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5000">
+                                <meta itemprop="height" content="4286">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/130/1301279.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Looking for a 4K Wallpaper of this cover please! : r/Mario">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/g9l0l6nqqlub1.jpg' alt='Looking for a 4K Wallpaper of this cover please! : r/Mario'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/g9l0l6nqqlub1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="One Year Anniversary of The Super Mario Bros Movie by ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7e98c594-4d9b-44f4-b9d8-04573d37a19f/dh6m3jh-47b07c41-2238-47bb-9d90-32d08d4d9318.png/v1/fill/w_1024,h_576,q_80,strp/one_year_anniversary_of_the_super_mario_bros_movie_by_awesomeisaiah_dh6m3jh-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvN2U5OGM1OTQtNGQ5Yi00NGY0LWI5ZDgtMDQ1NzNkMzdhMTlmXC9kaDZtM2poLTQ3YjA3YzQxLTIyMzgtNDdiYi05ZDkwLTMyZDA4ZDRkOTMxOC5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.yQuWZavF_PzttOP2PP7au-5miQegZ2LnvrDurT0upoQ' alt='One Year Anniversary of The Super Mario Bros Movie by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7e98c594-4d9b-44f4-b9d8-04573d37a19f/dh6m3jh-47b07c41-2238-47bb-9d90-32d08d4d9318.png/v1/fill/w_1024,h_576,q_80,strp/one_year_anniversary_of_the_super_mario_bros_movie_by_awesomeisaiah_dh6m3jh-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvN2U5OGM1OTQtNGQ5Yi00NGY0LWI5ZDgtMDQ1NzNkMzdhMTlmXC9kaDZtM2poLTQ3YjA3YzQxLTIyMzgtNDdiYi05ZDkwLTMyZDA4ZDRkOTMxOC5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.yQuWZavF_PzttOP2PP7au-5miQegZ2LnvrDurT0upoQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Super Mario Bros. Movie Wallpaper 4K, 2023 Movies">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/the-super-mario-1284x2778-10880.jpg' alt='The Super Mario Bros. Movie Wallpaper 4K, 2023 Movies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/the-super-mario-1284x2778-10880.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mario Bros. Wallpapers (47 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/d/e/5/942127-3840x2160-desktop-4k-mario-bros-background-image.jpg' alt='Mario Bros. Wallpapers (47 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/d/e/5/942127-3840x2160-desktop-4k-mario-bros-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Movie Super Mario Bros. (2023) 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/131/1318286.jpeg' alt='Download Movie Super Mario Bros. (2023) 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/131/1318286.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Mario - Video Game Fan Art wallpaper 4K #4 by vowebox on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0ac38adc-f48d-4177-b61d-01e4905b539f/dh111h4-479b22e6-892c-4661-b383-7b1ed00004ab.jpg/v1/fill/w_1280,h_720,q_75,strp/super_mario___video_game_fan_art_wallpaper_4k__4_by_vowebox_dh111h4-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvMGFjMzhhZGMtZjQ4ZC00MTc3LWI2MWQtMDFlNDkwNWI1MzlmXC9kaDExMWg0LTQ3OWIyMmU2LTg5MmMtNDY2MS1iMzgzLTdiMWVkMDAwMDRhYi5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.OaRm447ioTaKE-p7I1fxuH0hfYMlhLEtMj_5uAY7s7s' alt='Super Mario - Video Game Fan Art wallpaper 4K #4 by vowebox on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0ac38adc-f48d-4177-b61d-01e4905b539f/dh111h4-479b22e6-892c-4661-b383-7b1ed00004ab.jpg/v1/fill/w_1280,h_720,q_75,strp/super_mario___video_game_fan_art_wallpaper_4k__4_by_vowebox_dh111h4-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvMGFjMzhhZGMtZjQ4ZC00MTc3LWI2MWQtMDFlNDkwNWI1MzlmXC9kaDExMWg0LTQ3OWIyMmU2LTg5MmMtNDY2MS1iMzgzLTdiMWVkMDAwMDRhYi5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.OaRm447ioTaKE-p7I1fxuH0hfYMlhLEtMj_5uAY7s7s' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Super Mario Bros Wallpaper For Chromebook | Chromebook Wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/chromebook-wallpapers/images/960/super-mario-bros-chromebook-wallpaper.jpg' alt='Super Mario Bros Wallpaper For Chromebook | Chromebook Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/chromebook-wallpapers/images/960/super-mario-bros-chromebook-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mario Wallpapers (38 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/3/7/a/2124487-3840x2160-desktop-4k-mario-background-photo.jpg' alt='Mario Wallpapers (38 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/3/7/a/2124487-3840x2160-desktop-4k-mario-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Super Mario Bros. Movie Wallpaper 4K">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/0e/2c/a2/0e2ca24f5b378c79ea56fa9ac2379591.jpg' alt='The Super Mario Bros. Movie Wallpaper 4K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/0e/2c/a2/0e2ca24f5b378c79ea56fa9ac2379591.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

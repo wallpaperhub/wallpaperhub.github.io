@@ -1,0 +1,129 @@
+<title>Free Christmas Postcard Templates: Create & Send Holiday Cheer</title>
+                    <meta name="description" content="Discover free Christmas postcard templates for your holiday greetings! Easily customizable and ready to print, our designs help you spread joy to loved ones with minimal effort. Perfect for adding a personal touch to your festive messages—start creating your unique postcards now!">
+                    <meta name="keywords" content="free christmas postcard template">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/free-christmas-postcard-template">
+                            <span itemprop="name">free christmas postcard template</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Free Christmas Postcard Templates: Create & Send Holiday Cheer</h1>
+                <p>Celebrate the festive season with our collection of free Christmas postcard templates! Perfect for sending warm wishes to family and friends, our customizable designs are easy to edit and print. Get creative and make your holidays brighter with beautiful postcards that capture the spirit of Christmas. Download yours today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Postcard">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAF2VQEv6nY/1/0/1600w/canva-beige-red-green-illustrative-vintage-christmas-postcard-h9ZCImhgdkc.jpg' alt='Postcard'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1135">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAF2VQEv6nY/1/0/1600w/canva-beige-red-green-illustrative-vintage-christmas-postcard-h9ZCImhgdkc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free printable, customizable Christmas postcard templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFyEJ-pX-c/2/0/1600w/canva-green-and-red-vintage-illustrated-merry-christmas-postcard-cNaZyGIKrPQ.jpg' alt='Free printable, customizable Christmas postcard templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1135">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFyEJ-pX-c/2/0/1600w/canva-green-and-red-vintage-illustrated-merry-christmas-postcard-cNaZyGIKrPQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free printable, customizable Christmas postcard templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EADapEmDZqw/2/0/800w/canva-red-%26-green-postcard-christmas-postcard-dMwtdv4xt-c.jpg' alt='Free printable, customizable Christmas postcard templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="568">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free printable, customizable Christmas postcard templates | Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EADapEmDZqw/2/0/800w/canva-red-%26-green-postcard-christmas-postcard-dMwtdv4xt-c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Postcard Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/blank-postcard-envelope-christmas-decor-wooden-background-copy-space_169016-25373.jpg' alt='Christmas Postcard Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="411">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/blank-postcard-envelope-christmas-decor-wooden-background-copy-space_169016-25373.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free printable, customizable Christmas postcard templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAF05HpIf6o/1/0/1600w/canva-green-and-red-vintage-illustrated-christmas-postcard-9WOkert4mOA.jpg' alt='Free printable, customizable Christmas postcard templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1135">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAF05HpIf6o/1/0/1600w/canva-green-and-red-vintage-illustrated-christmas-postcard-9WOkert4mOA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Postcard | Free Christmas Postcard Templates">
+                                <img itemprop="contentUrl url" src='https://www.edrawsoft.com/templates/images/christmas-postcard.png' alt='Christmas Postcard | Free Christmas Postcard Templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="919">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Edrawsoft" />
+                                </span>
+                                <a href='https://www.edrawsoft.com/templates/images/christmas-postcard.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Christmas Family Postcard Template to Edit Online">
+                                <img itemprop="contentUrl url" src='https://images.template.net/176160/Christmas-Family-Postcard-Template-edit-online.png' alt='Free Christmas Family Postcard Template to Edit Online'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template.net" />
+                                </span>
+                                <a href='https://images.template.net/176160/Christmas-Family-Postcard-Template-edit-online.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free printable, customizable Christmas postcard templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFT4Wlotn8/1/0/1600w/canva-beige-minimalist-festive-christmas-postcard-PeEewUIMw60.jpg' alt='Free printable, customizable Christmas postcard templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1135">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFT4Wlotn8/1/0/1600w/canva-beige-minimalist-festive-christmas-postcard-PeEewUIMw60.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Christmas Postcard Template in PSD + Vector by ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4b03c42b-019e-4fe6-830b-64a9c812b4fc/de7cch2-d9d02097-9990-4ca7-be78-00fe960c45bb.jpg/v1/fill/w_750,h_458,q_75,strp/free_christmas_postcard_template_in_psd___vector_by_freepsdtemplatescom_de7cch2-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDU4IiwicGF0aCI6IlwvZlwvNGIwM2M0MmItMDE5ZS00ZmU2LTgzMGItNjRhOWM4MTJiNGZjXC9kZTdjY2gyLWQ5ZDAyMDk3LTk5OTAtNGNhNy1iZTc4LTAwZmU5NjBjNDViYi5qcGciLCJ3aWR0aCI6Ijw9NzUwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.cHUfW7zezrYhK_yv3HGXLiLkALB48-XC-Ad_l7lUJJc' alt='Free Christmas Postcard Template in PSD + Vector by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="458">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4b03c42b-019e-4fe6-830b-64a9c812b4fc/de7cch2-d9d02097-9990-4ca7-be78-00fe960c45bb.jpg/v1/fill/w_750,h_458,q_75,strp/free_christmas_postcard_template_in_psd___vector_by_freepsdtemplatescom_de7cch2-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDU4IiwicGF0aCI6IlwvZlwvNGIwM2M0MmItMDE5ZS00ZmU2LTgzMGItNjRhOWM4MTJiNGZjXC9kZTdjY2gyLWQ5ZDAyMDk3LTk5OTAtNGNhNy1iZTc4LTAwZmU5NjBjNDViYi5qcGciLCJ3aWR0aCI6Ijw9NzUwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.cHUfW7zezrYhK_yv3HGXLiLkALB48-XC-Ad_l7lUJJc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Postcard PSD, High Quality Free PSD Templates for ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-psd/christmas-greeting-card-template-design_23-2151874259.jpg' alt='Christmas Postcard PSD, High Quality Free PSD Templates for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="501">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-psd/christmas-greeting-card-template-design_23-2151874259.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

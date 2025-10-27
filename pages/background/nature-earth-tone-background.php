@@ -1,0 +1,129 @@
+<title>Beautiful Earth Tone Backgrounds for Your Creative Projects</title>
+                    <meta name="description" content="Explore stunning nature earth tone backgrounds that bring a serene, natural vibe to your projects. Perfect for digital art, photography, and design, these earthy hues create a peaceful aesthetic. Discover how to incorporate these tones into your work for an inviting and harmonious feel.">
+                    <meta name="keywords" content="nature earth tone background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/nature-earth-tone-background">
+                            <span itemprop="name">nature earth tone background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful Earth Tone Backgrounds for Your Creative Projects</h1>
+                <p>Nature earth tone backgrounds are perfect for creating a soothing atmosphere in any space. These backgrounds feature rich hues of browns, greens, and soft neutrals that reflect the tranquility of the natural world. They enhance visual storytelling, making them ideal for art, design, and photography, while promoting a calming vibe.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Earth Tone Backgrounds Images – Browse 261,679 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/98/46/34/360_F_498463422_xKSg7Dsk6H2uKE81URX044vSourkiGQP.jpg' alt='Earth Tone Backgrounds Images – Browse 261,679 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/98/46/34/360_F_498463422_xKSg7Dsk6H2uKE81URX044vSourkiGQP.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Earth Tones Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1669842468220-1aab378c7321?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZWFydGglMjB0b25lc3xlbnwwfHwwfHx8MA%3D%3D' alt='Earth Tones Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2249">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1669842468220-1aab378c7321?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZWFydGglMjB0b25lc3xlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Earth Tone Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/earth-tone-background-zqqtuxgorpz67de8.jpg' alt='100+] Earth Tone Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1066">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/earth-tone-background-zqqtuxgorpz67de8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Earth Tones Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20220615/pngtree-earth-tone-gradient-background-image_1413686.jpg' alt='Earth Tones Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20220615/pngtree-earth-tone-gradient-background-image_1413686.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nature Earth Color Block Wall Mural">
+                                <img itemprop="contentUrl url" src='http://www.eazywallz.com/cdn/shop/products/Nature-Earth-Color-Block-Wall-Mural_fd5f33a1-5532-422e-bce1-1f49347bc475.jpg?v=1628808739' alt='Nature Earth Color Block Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5400">
+                                <meta itemprop="height" content="3600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Eazywallz" />
+                                </span>
+                                <a href='http://www.eazywallz.com/cdn/shop/products/Nature-Earth-Color-Block-Wall-Mural_fd5f33a1-5532-422e-bce1-1f49347bc475.jpg?v=1628808739' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Natural earth tones in a calming gradient | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/earth-tone-background-epqf0awtwzzhyzml.jpg' alt='Download Natural earth tones in a calming gradient | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1142">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/earth-tone-background-epqf0awtwzzhyzml.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Earth Tone With Two Leaves Background, Nature, Floral, Background ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210717/original/pngtree-earth-tone-with-two-leaves-picture-image_1427151.jpg' alt='Earth Tone With Two Leaves Background, Nature, Floral, Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210717/original/pngtree-earth-tone-with-two-leaves-picture-image_1427151.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Earth Tone Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/002/089/841/small/creative-minimalist-natural-landscape-background-nature-mountain-landscape-painting-with-japanese-wave-pattern-vector.jpg' alt='Earth Tone Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="345">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/002/089/841/small/creative-minimalist-natural-landscape-background-nature-mountain-landscape-painting-with-japanese-wave-pattern-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rural road. Autumn nature in pastel earth tone blurred background.">
+                                <img itemprop="contentUrl url" src='https://images.pond5.com/rural-road-autumn-nature-pastel-footage-167544460_iconl.jpeg' alt='Rural road. Autumn nature in pastel earth tone blurred background.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pond5" />
+                                </span>
+                                <a href='https://images.pond5.com/rural-road-autumn-nature-pastel-footage-167544460_iconl.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="All About Earth-Toned Photography | Learn BeFunky">
+                                <img itemprop="contentUrl url" src='https://www.befunky.com/images/wp/wp-2022-11-02-earth-photos-example.jpg?auto=avif,webp&format=jpg&width=944' alt='All About Earth-Toned Photography | Learn BeFunky'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="944">
+                                <meta itemprop="height" content="708">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BeFunky" />
+                                </span>
+                                <a href='https://www.befunky.com/images/wp/wp-2022-11-02-earth-photos-example.jpg?auto=avif,webp&format=jpg&width=944' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

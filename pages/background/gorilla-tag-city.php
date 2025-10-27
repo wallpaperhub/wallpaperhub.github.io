@@ -1,0 +1,129 @@
+<title>Explore Gorilla Tag City: The Ultimate Tag Adventure</title>
+                    <meta name="description" content="Discover Gorilla Tag City, a thrilling virtual realm where players experience the excitement of tag in a bustling urban environment. Climb, swing, and evade your friends with engaging gameplay and stunning visuals. Perfect for gamers seeking an unforgettable multiplayer experience!">
+                    <meta name="keywords" content="gorilla tag city">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/gorilla-tag-city">
+                            <span itemprop="name">gorilla tag city</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore Gorilla Tag City: The Ultimate Tag Adventure</h1>
+                <p>Gorilla Tag City is an expansive virtual playground where players can unleash their inner gorillas! In this vibrant urban environment, tag your friends and climb skyscrapers while evading capture. With its engaging physics and immersive graphics, Gorilla Tag City combines exhilaration and strategy for endless fun. Unleash your primal instincts!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="City | Gorilla Tag Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/gorillatag/images/d/d2/Cityrevamp_1.jpg/revision/latest/scale-to-width-down/1200?cb=20240823202141' alt='City | Gorilla Tag Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="742">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gorilla Tag Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/gorillatag/images/d/d2/Cityrevamp_1.jpg/revision/latest/scale-to-width-down/1200?cb=20240823202141' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Took this picture of city, does it look good? : r/GorillaTag">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/took-this-picture-of-city-does-it-look-good-v0-0nqprwtr58db1.png?auto=webp&s=c1ba1b323df31c78693de4a1d9fdfb8880119361' alt='Took this picture of city, does it look good? : r/GorillaTag'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/took-this-picture-of-city-does-it-look-good-v0-0nqprwtr58db1.png?auto=webp&s=c1ba1b323df31c78693de4a1d9fdfb8880119361' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="City | Gorilla Tag Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/gorillatag/images/3/30/City.jpg/revision/latest/scale-to-width/360?cb=20220111015913' alt='City | Gorilla Tag Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gorilla Tag Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/gorillatag/images/3/30/City.jpg/revision/latest/scale-to-width/360?cb=20220111015913' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="shitty render that compares the old and new city map : r/GorillaTag">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/shitty-render-that-compares-the-old-and-new-city-map-v0-agwolt0ci1ld1.png?width=1920&format=png&auto=webp&s=e62c0ab1b7d03bce72a2e52650ebd6a49378ea2e' alt='shitty render that compares the old and new city map : r/GorillaTag'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/shitty-render-that-compares-the-old-and-new-city-map-v0-agwolt0ci1ld1.png?width=1920&format=png&auto=webp&s=e62c0ab1b7d03bce72a2e52650ebd6a49378ea2e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gorilla Tag CITY REVAMP (*my favorite map*)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/qeeJU7NJ9vQ/maxresdefault.jpg' alt='Gorilla Tag CITY REVAMP (*my favorite map*)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/qeeJU7NJ9vQ/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="City | Gorilla Tag Locations Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/gorilla-tag-locations/images/8/88/City..png/revision/latest?cb=20240617213924' alt='City | Gorilla Tag Locations Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="631">
+                                <meta itemprop="height" content="635">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gorilla Tag Locations Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/gorilla-tag-locations/images/8/88/City..png/revision/latest?cb=20240617213924' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New City Map and Shop In Gorilla Tag(Beta)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/w3tplqDyqyo/maxresdefault.jpg' alt='New City Map and Shop In Gorilla Tag(Beta)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/w3tplqDyqyo/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="shitty render that compares the old and new city map : r/GorillaTag">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/shitty-render-that-compares-the-old-and-new-city-map-v0-6pcegt0ci1ld1.png?width=1080&crop=smart&auto=webp&s=f1d49c1c7656392f2bbb4e6abb5e1c45a4d768e3' alt='shitty render that compares the old and new city map : r/GorillaTag'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/shitty-render-that-compares-the-old-and-new-city-map-v0-6pcegt0ci1ld1.png?width=1080&crop=smart&auto=webp&s=f1d49c1c7656392f2bbb4e6abb5e1c45a4d768e3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metropolis | Gorilla Tag Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/gorillatag/images/b/b6/Metropolis.png/revision/latest/scale-to-width-down/1200?cb=20240726004429' alt='Metropolis | Gorilla Tag Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gorilla Tag Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/gorillatag/images/b/b6/Metropolis.png/revision/latest/scale-to-width-down/1200?cb=20240726004429' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gorilla Tags NEW City Map!">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/-olWBZv4xQo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDtNKNIPf2ZYQUokPK3nz6poRyk1g' alt='Gorilla Tags NEW City Map!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/-olWBZv4xQo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDtNKNIPf2ZYQUokPK3nz6poRyk1g' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

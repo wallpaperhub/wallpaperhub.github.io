@@ -1,0 +1,129 @@
+<title>Kawaii Cute Wallpapers for a Whimsical Touch</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="kawaii cute wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii">
+                            <span itemprop="name">Kawaii</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii/kawaii-cute-wallpaper">
+                            <span itemprop="name">kawaii cute wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Kawaii Cute Wallpapers for a Whimsical Touch</h1>
+                <p>Transform your device with kawaii cute wallpapers that bring joy and color to your screen! Featuring adorable characters, pastel themes, and whimsical designs, these wallpapers are perfect for anyone who loves all things cute. Personalize your phone, tablet, or computer with delightful images that reflect your style and brighten your day!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900+ Cute kawaii pics ideas | kawaii, cute wallpapers, kawaii ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4c/ab/35/4cab35fdd98b78c36ac9baeb8fca922b.jpg' alt='900+ Cute kawaii pics ideas | kawaii, cute wallpapers, kawaii ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1635">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4c/ab/35/4cab35fdd98b78c36ac9baeb8fca922b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Kawaii Purple Camera Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/cute-kawaii-purple-camera-i7ruz8r3m686echj.jpg' alt='Cute Kawaii Purple Camera Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/cute-kawaii-purple-camera-i7ruz8r3m686echj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Wallpapers (52 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/d/2/e/822809-1200x2134-iphone-hd-kawaii-background.jpg' alt='Kawaii Wallpapers (52 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2134">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/d/2/e/822809-1200x2134-iphone-hd-kawaii-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cute Kawaii Cats Peach And Goma Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-kawaii-ib8elx8tzfilgs74.jpg' alt='Download Cute Kawaii Cats Peach And Goma Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-kawaii-ib8elx8tzfilgs74.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii wallpapers page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6c/b4/74/6cb474e4d55e39a0d20e1e633757e144.jpg' alt='Kawaii wallpapers page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6c/b4/74/6cb474e4d55e39a0d20e1e633757e144.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable kawaii wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFW95hFfKM/1/0/900w/canva-pink-cute-kawaii-anime-princess-phone-wallpaper-oPO0mmW3CLA.jpg' alt='Free and customizable kawaii wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFW95hFfKM/1/0/900w/canva-pink-cute-kawaii-anime-princess-phone-wallpaper-oPO0mmW3CLA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cute cat bunny mobile wallpaper | kawaii wallpaper | cute wallpaper | cute  kitty wallpaper | kawaii iphone wallpaper | cute iphone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27779950/r/il/1c2f7a/4001857730/il_fullxfull.4001857730_4fze.jpg' alt='cute cat bunny mobile wallpaper | kawaii wallpaper | cute wallpaper | cute  kitty wallpaper | kawaii iphone wallpaper | cute iphone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27779950/r/il/1c2f7a/4001857730/il_fullxfull.4001857730_4fze.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Wallpaper HD - App on Amazon Appstore">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91u0ioaj7XL.png' alt='Kawaii Wallpaper HD - App on Amazon Appstore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91u0ioaj7XL.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Phone Wallpaper Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTEyL3Jhd3BpeGVsX29mZmljZV8zN193YWxscGFwZXJfY2hpYmlfa2F3YWlpX3N0eWxlX29mX3dpbnRlcl9wYXN0ZV81YzY5ODdiOC1iMmJiLTQ0NmQtOTRjZi0wMDJjNjhhMDA1ZTIuanBn.jpg' alt='Kawaii Phone Wallpaper Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTEyL3Jhd3BpeGVsX29mZmljZV8zN193YWxscGFwZXJfY2hpYmlfa2F3YWlpX3N0eWxlX29mX3dpbnRlcl9wYXN0ZV81YzY5ODdiOC1iMmJiLTQ0NmQtOTRjZi0wMDJjNjhhMDA1ZTIuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable kawaii wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFLVRx7m3w/1/0/225w/canva-kawaii-cute-purple-flower-phone-wallpaper-O56FF773Pt4.jpg' alt='Free and customizable kawaii wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="225">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFLVRx7m3w/1/0/225w/canva-kawaii-cute-purple-flower-phone-wallpaper-O56FF773Pt4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

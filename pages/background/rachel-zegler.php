@@ -1,0 +1,129 @@
+<title>Rachel Zegler: Rising Star of Hollywood</title>
+                    <meta name="description" content="Discover the journey of Rachel Zegler, the talented actress and singer who gained fame as Maria in "West Side Story." Learn about her rise in Hollywood and her impact on the entertainment industry. Stay updated on her latest projects and achievements. Perfect for fans and newcomers alike!">
+                    <meta name="keywords" content="rachel zegler">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rachel-zegler">
+                            <span itemprop="name">rachel zegler</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Rachel Zegler: Rising Star of Hollywood</h1>
+                <p>Rachel Zegler is an American singer and actress, celebrated for her role as Maria in Steven Spielberg's 2021 adaptation of "West Side Story." Born on May 3, 2001, she first gained fame through her viral YouTube performances. Zegler’s talent and charisma have quickly made her a rising star in Hollywood, captivating audiences worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rachel Zegler - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/4/4d/Rachelzegler_%28cropped%29.jpg' alt='Rachel Zegler - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="701">
+                                <meta itemprop="height" content="920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/4/4d/Rachelzegler_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="rachel zegler (@rachelzegler) • Instagram photos and videos">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/instagram/DGvwzi6Po3_/0/image.jpg' alt='rachel zegler (@rachelzegler) • Instagram photos and videos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/instagram/DGvwzi6Po3_/0/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="In 2021's West Side Story, Rachel Zegler Will Deliver a Maria for ...">
+                                <img itemprop="contentUrl url" src='https://assets.vogue.com/photos/5fb84fa4bdddef8a81d06164/4:3/w_2560%2Cc_limit/VO1220_WestSideStory_01.jpg' alt='In 2021's West Side Story, Rachel Zegler Will Deliver a Maria for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vogue" />
+                                </span>
+                                <a href='https://assets.vogue.com/photos/5fb84fa4bdddef8a81d06164/4:3/w_2560%2Cc_limit/VO1220_WestSideStory_01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rachel Zegler Broadway: credits, career, award nominations">
+                                <img itemprop="contentUrl url" src='https://www.theatermania.com/wp-content/uploads/sites/4/2024/08/RachelZegler.jpg.webp' alt='Rachel Zegler Broadway: credits, career, award nominations'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="925">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheaterMania" />
+                                </span>
+                                <a href='https://www.theatermania.com/wp-content/uploads/sites/4/2024/08/RachelZegler.jpg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="All About Rachel Zegler">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMmE0N2Y2ZTQtZDZhMS00YWE4LTlmOTgtZWZhNzNmZTA3OTgyXkEyXkFqcGdeQWplZmZscA@@._V1_QL75_UX500_CR0,0,500,281_.jpg' alt='All About Rachel Zegler'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMmE0N2Y2ZTQtZDZhMS00YWE4LTlmOTgtZWZhNzNmZTA3OTgyXkEyXkFqcGdeQWplZmZscA@@._V1_QL75_UX500_CR0,0,500,281_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rachel Zegler Apologizes After Anti-Trump Comments Spark Backlash">
+                                <img itemprop="contentUrl url" src='https://variety.com/wp-content/uploads/2024/11/GettyImages-2183607053-e1731686790298.jpg' alt='Rachel Zegler Apologizes After Anti-Trump Comments Spark Backlash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4040">
+                                <meta itemprop="height" content="2700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Variety" />
+                                </span>
+                                <a href='https://variety.com/wp-content/uploads/2024/11/GettyImages-2183607053-e1731686790298.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rachel Zegler of Clifton NJ presents Oscar for best Visual Effects">
+                                <img itemprop="contentUrl url" src='https://www.northjersey.com/gcdn/authoring/authoring-images/2025/03/02/USAT/81096337007-xxx-oscars-2025-dm-2387.jpg?crop=3808,2142,x0,y0&width=660&height=371&format=pjpg&auto=webp' alt='Rachel Zegler of Clifton NJ presents Oscar for best Visual Effects'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.northjersey.com" />
+                                </span>
+                                <a href='https://www.northjersey.com/gcdn/authoring/authoring-images/2025/03/02/USAT/81096337007-xxx-oscars-2025-dm-2387.jpg?crop=3808,2142,x0,y0&width=660&height=371&format=pjpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rachel Zegler Calls Out 'Shazam 2' Hate: Unnecessary, Mean">
+                                <img itemprop="contentUrl url" src='https://variety.com/wp-content/uploads/2023/03/GettyImages-1471950861-e1679333951930.jpg?w=1000&h=667&crop=1' alt='Rachel Zegler Calls Out 'Shazam 2' Hate: Unnecessary, Mean'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Variety" />
+                                </span>
+                                <a href='https://variety.com/wp-content/uploads/2023/03/GettyImages-1471950861-e1679333951930.jpg?w=1000&h=667&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rachel Zegler | Disney Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/disney/images/a/a9/Rachel_-_Zegler.jpg/revision/latest?cb=20240130013400' alt='Rachel Zegler | Disney Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1261">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/disney/images/a/a9/Rachel_-_Zegler.jpg/revision/latest?cb=20240130013400' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rachel Zegler - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMjQyNzg3MDQ2OF5BMl5BanBnXkFtZTgwMDAzNjcxNzM@._V1_.jpg' alt='Rachel Zegler - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMjQyNzg3MDQ2OF5BMl5BanBnXkFtZTgwMDAzNjcxNzM@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

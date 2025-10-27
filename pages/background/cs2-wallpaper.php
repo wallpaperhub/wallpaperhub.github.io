@@ -1,0 +1,129 @@
+<title>Stunning CS2 Wallpapers for Gamers</title>
+                    <meta name="description" content="Explore a diverse collection of breathtaking CS2 wallpapers! Perfect for gamers looking to personalize their screens with iconic graphics and thrilling scenes. Elevate your device's aesthetic and show off your passion for CS2 with our vibrant, high-quality designs!">
+                    <meta name="keywords" content="cs2 wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cs2-wallpaper">
+                            <span itemprop="name">cs2 wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning CS2 Wallpapers for Gamers</h1>
+                <p>Discover the stunning world of CS2 wallpapers! Featuring vibrant designs inspired by the groundbreaking gameplay and characters, these wallpapers add an exciting touch to your screen. Whether you're a fan of intense battles or captivating landscapes, find the perfect CS2 wallpaper to express your style and enhance your device's look!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Best CS:GO & CS2 Wallpapers for 2025 | DMarket | Blog">
+                                <img itemprop="contentUrl url" src='https://dmarket.com/blog/best-csgo-wallpapers/cs2%20wallpaper_hu7444717245280437073.jpg' alt='The Best CS:GO & CS2 Wallpapers for 2025 | DMarket | Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DMarket" />
+                                </span>
+                                <a href='https://dmarket.com/blog/best-csgo-wallpapers/cs2%20wallpaper_hu7444717245280437073.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+ Counter Strike Background: Global Offensive Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://cyber-sport.io/imgs/news_5148/20241125/1732547301_fdfbc70a8bab0f7885d3.jpg' alt='100+ Counter Strike Background: Global Offensive Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="382">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cyber-sport.io" />
+                                </span>
+                                <a href='https://cyber-sport.io/imgs/news_5148/20241125/1732547301_fdfbc70a8bab0f7885d3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a retrowave version of cs2 wallpaper. Hope you guys like it ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/i-made-a-retrowave-version-of-cs2-wallpaper-hope-you-guys-v0-c6mjvxouhjwb1.png?width=1920&format=png&auto=webp&s=71fe31f745db3dbe098fadfb5f79a1ab3b5cb919' alt='I made a retrowave version of cs2 wallpaper. Hope you guys like it ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/i-made-a-retrowave-version-of-cs2-wallpaper-hope-you-guys-v0-c6mjvxouhjwb1.png?width=1920&format=png&auto=webp&s=71fe31f745db3dbe098fadfb5f79a1ab3b5cb919' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20+] Counter-Strike 2 Wallpapers">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/132/1329760.jpeg' alt='20+] Counter-Strike 2 Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/132/1329760.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Best CS:GO & CS2 Wallpapers for 2025 | DMarket | Blog">
+                                <img itemprop="contentUrl url" src='https://dmarket.com/blog/best-csgo-wallpapers/tercsgo_hu13749569899770293645.jpg' alt='The Best CS:GO & CS2 Wallpapers for 2025 | DMarket | Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DMarket" />
+                                </span>
+                                <a href='https://dmarket.com/blog/best-csgo-wallpapers/tercsgo_hu13749569899770293645.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a dark version of the cs2 wallpaper. Enjoy! : r/cs2">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/i-made-a-dark-version-of-the-cs2-wallpaper-enjoy-v0-81sr0OrY_mhke35Lb6KJacxiAzZBHXLk5zuZmAAhMOs.jpg?auto=webp&s=be8920f3f261201b99aa1b42c412e7b6320170ee' alt='I made a dark version of the cs2 wallpaper. Enjoy! : r/cs2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/i-made-a-dark-version-of-the-cs2-wallpaper-enjoy-v0-81sr0OrY_mhke35Lb6KJacxiAzZBHXLk5zuZmAAhMOs.jpg?auto=webp&s=be8920f3f261201b99aa1b42c412e7b6320170ee' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CS2 - Eternal Fire wallpaper created by MoisÃ©s "AKAH" Freire ...">
+                                <img itemprop="contentUrl url" src='https://www.csgowallpapers.com/assets/images/original/csgowallpaper_701512240961_1713993407_561056048283.png' alt='CS2 - Eternal Fire wallpaper created by MoisÃ©s "AKAH" Freire ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CSGOWallpapers" />
+                                </span>
+                                <a href='https://www.csgowallpapers.com/assets/images/original/csgowallpaper_701512240961_1713993407_561056048283.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TwanDeags on X: "Want to get your favorite Counter Strike skin ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/GHsWi3kXcAA81tz?format=jpg&name=4096x4096' alt='TwanDeags on X: "Want to get your favorite Counter Strike skin ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/GHsWi3kXcAA81tz?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CS2 Anti-Aim Wallpaper 4K : r/Csgohacks">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/cs2-anti-aim-wallpaper-4k-v0-90bbopvmm7xb1.png?width=3840&format=png&auto=webp&s=bd62c804fa30918612be646427981670adda8513' alt='CS2 Anti-Aim Wallpaper 4K : r/Csgohacks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/cs2-anti-aim-wallpaper-4k-v0-90bbopvmm7xb1.png?width=3840&format=png&auto=webp&s=bd62c804fa30918612be646427981670adda8513' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Professional Agent Cs2 wallpaper created by @ddillan ...">
+                                <img itemprop="contentUrl url" src='https://www.csgowallpapers.com/assets/images/original/csgowallpaper_209398838064_1704135625_307834661508.jpg' alt='Professional Agent Cs2 wallpaper created by @ddillan ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4096">
+                                <meta itemprop="height" content="2304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CSGOWallpapers" />
+                                </span>
+                                <a href='https://www.csgowallpapers.com/assets/images/original/csgowallpaper_209398838064_1704135625_307834661508.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

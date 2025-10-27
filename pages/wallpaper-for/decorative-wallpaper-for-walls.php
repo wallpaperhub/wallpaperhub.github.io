@@ -1,0 +1,129 @@
+<title>Transform Your Space with Decorative Wallpaper</title>
+                    <meta name="description" content="Discover the beauty of decorative wallpaper for your walls! Explore a wide range of styles and textures that elevate your home decor effortlessly. Perfect for any room, our collection offers endless design possibilities to refresh your space quickly and easily. Unleash your creativity today!">
+                    <meta name="keywords" content="decorative wallpaper for walls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/decorative-wallpaper-for-walls">
+                            <span itemprop="name">decorative wallpaper for walls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Decorative Wallpaper</h1>
+                <p>Decorative wallpaper is an elegant solution that transforms walls into stunning focal points. Available in various designs, colors, and textures, it can enhance any room’s style, from classic to modern. Easy to apply and remove, decorative wallpaper allows for creative expression and can instantly refresh your space with a unique character.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: SJIALEN Decorative Wallpaper Non-self-Adhesive Non-Woven  Wallpaper Suitable for Bedroom Living Room Sofa TV Background Wall Paper  Home ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71Vf9uCpOLL.jpg' alt='Amazon.com: SJIALEN Decorative Wallpaper Non-self-Adhesive Non-Woven  Wallpaper Suitable for Bedroom Living Room Sofa TV Background Wall Paper  Home ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71Vf9uCpOLL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DEKOROS.COM Embossed Look 3D White Flowers Wallpaper, Floral Mural ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81m7c8y6kTL.jpg' alt='DEKOROS.COM Embossed Look 3D White Flowers Wallpaper, Floral Mural ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81m7c8y6kTL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Wallpaper Mural for Home Decor | Premium Wall Murals US">
+                                <img itemprop="contentUrl url" src='https://everwallpaper.com/cdn/shop/collections/purple-gold-wallpaper-mural-for-room.jpg?v=1660289274&width=750' alt='Purple Wallpaper Mural for Home Decor | Premium Wall Murals US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='https://everwallpaper.com/cdn/shop/collections/purple-gold-wallpaper-mural-for-room.jpg?v=1660289274&width=750' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="UMIGGEE Floral Peel and Stick Wallpaper Green Floral Contact Paper 17.7" x  118" Removable Wallpaper Decorative Self Adhesive Wallpaper Wall Paper for  ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Meiban-Floral-Peel-Stick-Wallpaper-Green-Contact-Paper-17-7-x-118-Removable-Decorative-Self-Adhesive-Wall-Home-Decor-Covering-Old-Furniture-Renovatio_e170d546-ddca-4fad-8df5-d33817a4f44a.4d74c66a37a8d1839b95a0604cdf3f04.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='UMIGGEE Floral Peel and Stick Wallpaper Green Floral Contact Paper 17.7" x  118" Removable Wallpaper Decorative Self Adhesive Wallpaper Wall Paper for  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Meiban-Floral-Peel-Stick-Wallpaper-Green-Contact-Paper-17-7-x-118-Removable-Decorative-Self-Adhesive-Wall-Home-Decor-Covering-Old-Furniture-Renovatio_e170d546-ddca-4fad-8df5-d33817a4f44a.4d74c66a37a8d1839b95a0604cdf3f04.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: SJIALEN Decorative Wallpaper Wallpaper Non-self-Adhesive 3D  Three-Dimensional Non-Woven Retro Background Living Room Atmosphere Bedroom  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81zSW8NMu0L.jpg' alt='Amazon.com: SJIALEN Decorative Wallpaper Wallpaper Non-self-Adhesive 3D  Three-Dimensional Non-Woven Retro Background Living Room Atmosphere Bedroom  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1601">
+                                <meta itemprop="height" content="1601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81zSW8NMu0L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luxury Modern Venetian Wallpaper | Faux Texture | Decorative Paint ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/36380131/r/il/8a8765/5602245982/il_570xN.5602245982_etna.jpg' alt='Luxury Modern Venetian Wallpaper | Faux Texture | Decorative Paint ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/36380131/r/il/8a8765/5602245982/il_570xN.5602245982_etna.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Wallpaper, 3D Embossed Effect, 3D Rose Wall Mural, Gray Relief ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/23287991/r/il/484ab3/2907047860/il_fullxfull.2907047860_tlyg.jpg' alt='3D Wallpaper, 3D Embossed Effect, 3D Rose Wall Mural, Gray Relief ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="966">
+                                <meta itemprop="height" content="724">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/23287991/r/il/484ab3/2907047860/il_fullxfull.2907047860_tlyg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Geometric Wallpaper For Living Room Bedroom Patterned Wall Paper Roll Home  Decor">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/wGkAAOSwrjtchtqA/s-l1200.jpg' alt='Geometric Wallpaper For Living Room Bedroom Patterned Wall Paper Roll Home  Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/wGkAAOSwrjtchtqA/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Decorating with Wallpaper - Southern Hospitality">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/southernhospitalityblog.com/wp-content/uploads/2017/06/102888154.jpg.rendition.largest.jpg?fit=550%2C733&ssl=1' alt='Decorating with Wallpaper - Southern Hospitality'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="733">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Southern Hospitality Blog" />
+                                </span>
+                                <a href='https://i0.wp.com/southernhospitalityblog.com/wp-content/uploads/2017/06/102888154.jpg.rendition.largest.jpg?fit=550%2C733&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3d Mural Wallpaper Living Room | Wall Paper Murals | Wallpaper Flowers |  House Decoration - Wallpapers - Aliexpress">
+                                <img itemprop="contentUrl url" src='https://ae01.alicdn.com/kf/H77ac67ed3f3a46e4a88723f1c88532beu.jpg' alt='3d Mural Wallpaper Living Room | Wall Paper Murals | Wallpaper Flowers |  House Decoration - Wallpapers - Aliexpress'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1067">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AliExpress" />
+                                </span>
+                                <a href='https://ae01.alicdn.com/kf/H77ac67ed3f3a46e4a88723f1c88532beu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

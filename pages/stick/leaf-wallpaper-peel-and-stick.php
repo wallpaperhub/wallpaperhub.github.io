@@ -1,0 +1,129 @@
+<title>Leaf Peel and Stick Wallpaper: Easy Nature-Inspired Decor!</title>
+                    <meta name="description" content="Discover beautiful leaf wallpaper peel and stick options to elevate your home decor. Ideal for renters, these removable designs offer a quick and stylish transformation without the mess. Enjoy the beauty of nature on your walls with easy application and vibrant patterns!">
+                    <meta name="keywords" content="leaf wallpaper peel and stick">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/leaf-wallpaper-peel-and-stick">
+                            <span itemprop="name">leaf wallpaper peel and stick</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Leaf Peel and Stick Wallpaper: Easy Nature-Inspired Decor!</h1>
+                <p>Transform your space effortlessly with stunning leaf wallpaper peel and stick designs! These easy-to-apply wall coverings allow you to bring nature indoors without the hassle of traditional wallpaper. Available in various styles and colors, they're perfect for renters or anyone looking to refresh their decor quickly and affordably.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Kitico Peel and Stick Wallpaper Leaf Wallpaper Removable Leaf  Contact Paper Green Leaf Self Adhesive Wallpaper Waterproof Leaves  Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81hWmQLMKJL.jpg' alt='Amazon.com: Kitico Peel and Stick Wallpaper Leaf Wallpaper Removable Leaf  Contact Paper Green Leaf Self Adhesive Wallpaper Waterproof Leaves  Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81hWmQLMKJL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Removable Wallpaper Peel and Stick Palm Leaves Wallpaper Self ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18444711/r/il/cfa64e/2068265635/il_570xN.2068265635_pvkz.jpg' alt='Removable Wallpaper Peel and Stick Palm Leaves Wallpaper Self ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18444711/r/il/cfa64e/2068265635/il_570xN.2068265635_pvkz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Floral Roll">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/52871328/resize-h755-w755%5Ecompr-r85/1914/191456421/Peel+%26+Stick+Floral+Roll.jpg' alt='Peel & Stick Floral Roll'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="755">
+                                <meta itemprop="height" content="755">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/52871328/resize-h755-w755%5Ecompr-r85/1914/191456421/Peel+%26+Stick+Floral+Roll.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RoomMates Tropical Leaf Green And White Botanical Vinyl Peel & Stick  Wallpaper Roll (Covers 28.18 Sq. Ft.) RMK11045WP">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/a3c749ff-e2ac-4508-9eec-4c9e4243f662/svn/roommates-wallpaper-rolls-rmk11045wp-64_600.jpg' alt='RoomMates Tropical Leaf Green And White Botanical Vinyl Peel & Stick  Wallpaper Roll (Covers 28.18 Sq. Ft.) RMK11045WP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/a3c749ff-e2ac-4508-9eec-4c9e4243f662/svn/roommates-wallpaper-rolls-rmk11045wp-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Large Tropical Palm Leaves Soft Floral Wallpaper | Wallpaper Peel and Stick  | Removable Wallpaper | Wall Paper Peel And Stick 3441">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3401250427_9fzh_5fabd0ad-de8e-49b5-bf66-6273a3c12596.jpg' alt='Large Tropical Palm Leaves Soft Floral Wallpaper | Wallpaper Peel and Stick  | Removable Wallpaper | Wall Paper Peel And Stick 3441'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2590">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3401250427_9fzh_5fabd0ad-de8e-49b5-bf66-6273a3c12596.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Green Leaves Wallpaper, Peel and Stick, Palm Leaf Wall Art ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18725930/r/il/966258/2003985144/il_570xN.2003985144_52d1.jpg' alt='Dark Green Leaves Wallpaper, Peel and Stick, Palm Leaf Wall Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="633">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18725930/r/il/966258/2003985144/il_570xN.2003985144_52d1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern Leaf Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-a8nz7a35xo/images/stencil/1280x1280/products/233/1198/modern-leaf-peel-and-stick-wallpaper__77437.1720041643.jpg?c=2' alt='Modern Leaf Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Paperbird" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-a8nz7a35xo/images/stencil/1280x1280/products/233/1198/modern-leaf-peel-and-stick-wallpaper__77437.1720041643.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ismoon Peel and Stick Wallpaper, Leaf Wallpaper Peel and Stick Tropical  Botanical Contact Paper Fern Moss Wallpaper Vintage Removable Wallpaper  Vinyl ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91CkqFh2QoL.jpg' alt='Ismoon Peel and Stick Wallpaper, Leaf Wallpaper Peel and Stick Tropical  Botanical Contact Paper Fern Moss Wallpaper Vintage Removable Wallpaper  Vinyl ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1850">
+                                <meta itemprop="height" content="1850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91CkqFh2QoL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="InHome White Fable Leaf Peel and Stick Wallpaper NHS3764 - The ...">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/1673adbd-7e6d-4f65-bb91-7a1a4886efd7/svn/inhome-wallpaper-rolls-nhs3764-64_600.jpg' alt='InHome White Fable Leaf Peel and Stick Wallpaper NHS3764 - The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/1673adbd-7e6d-4f65-bb91-7a1a4886efd7/svn/inhome-wallpaper-rolls-nhs3764-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Palm Leaves Peel And Stick Wallpaper | Tempaper & Co.">
+                                <img itemprop="contentUrl url" src='https://tempaper.com/cdn/shop/files/PL14136-moody-green-palm-leaves-peel-and-stick-wallpaper-livingroom_1024x1024.jpg?v=1689951230' alt='Palm Leaves Peel And Stick Wallpaper | Tempaper & Co.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='https://tempaper.com/cdn/shop/files/PL14136-moody-green-palm-leaves-peel-and-stick-wallpaper-livingroom_1024x1024.jpg?v=1689951230' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

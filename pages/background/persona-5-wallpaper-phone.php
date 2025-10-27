@@ -1,0 +1,129 @@
+<title>Stunning Persona 5 Phone Wallpapers: Download Now!</title>
+                    <meta name="description" content="Explore a collection of captivating Persona 5 wallpapers for your phone. Ideal for fans, these designs will elevate your device’s aesthetic and showcase your love for the game. Download today for vibrant art that fits perfectly on any screen. Perfect for mobile optimization!">
+                    <meta name="keywords" content="persona 5 wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/persona-5-wallpaper-phone">
+                            <span itemprop="name">persona 5 wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Persona 5 Phone Wallpapers: Download Now!</h1>
+                <p>Transform your phone’s screen with stunning Persona 5 wallpapers! Featuring the iconic Phantom Thieves and dynamic visuals, these wallpapers bring the immersive world of the game to your device. Whether you prefer vibrant art or minimalist designs, you’ll find the perfect background to showcase your fandom. Download now and enjoy!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here's a Persona 5 The Royal wallpaper! [Upscaled to 1340x2384 ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/gj4fte4585v21.png' alt='Here's a Persona 5 The Royal wallpaper! [Upscaled to 1340x2384 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1340">
+                                <meta itemprop="height" content="2384">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/gj4fte4585v21.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Just wanted to share this phone wallpaper. I love the simplicity ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/t98k2v787sp61.jpg?auto=webp&s=0bdb28ee52cdab9d23b5037e53bda77e67b08b48' alt='Just wanted to share this phone wallpaper. I love the simplicity ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2036">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/t98k2v787sp61.jpg?auto=webp&s=0bdb28ee52cdab9d23b5037e53bda77e67b08b48' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This phone wallpaper I made : r/Persona5">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/romdevz367m31.png' alt='This phone wallpaper I made : r/Persona5'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4500">
+                                <meta itemprop="height" content="8000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/romdevz367m31.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Any good phone wallpapers? : r/Persona5">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/vVmtKaN.jpg' alt='Any good phone wallpapers? : r/Persona5'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.imgur.com/vVmtKaN.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Persona 5 wallpaper for smartphone by De-monVarela on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cbd5baf7-3bcb-4f2c-8dcc-1ce7e072f0ff/da1hoyp-dc5a7c7e-8e5c-4202-81d2-893afa564498.jpg/v1/fill/w_1024,h_1821,q_75,strp/persona_5_wallpaper_for_smartphone_by_de_monvarela_da1hoyp-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTgyMSIsInBhdGgiOiJcL2ZcL2NiZDViYWY3LTNiY2ItNGYyYy04ZGNjLTFjZTdlMDcyZjBmZlwvZGExaG95cC1kYzVhN2M3ZS04ZTVjLTQyMDItODFkMi04OTNhZmE1NjQ0OTguanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.PkTZlu9GadI7AEwwvdLfmN9Ohuyk0d2_XnVjbBNV4xc' alt='Persona 5 wallpaper for smartphone by De-monVarela on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1821">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cbd5baf7-3bcb-4f2c-8dcc-1ce7e072f0ff/da1hoyp-dc5a7c7e-8e5c-4202-81d2-893afa564498.jpg/v1/fill/w_1024,h_1821,q_75,strp/persona_5_wallpaper_for_smartphone_by_de_monvarela_da1hoyp-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTgyMSIsInBhdGgiOiJcL2ZcL2NiZDViYWY3LTNiY2ItNGYyYy04ZGNjLTFjZTdlMDcyZjBmZlwvZGExaG95cC1kYzVhN2M3ZS04ZTVjLTQyMDItODFkMi04OTNhZmE1NjQ0OTguanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.PkTZlu9GadI7AEwwvdLfmN9Ohuyk0d2_XnVjbBNV4xc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a higher resolution version of a phone background I found ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/zzni2yaqqg081.jpg' alt='I made a higher resolution version of a phone background I found ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/zzni2yaqqg081.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Persona 5 phone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/32/b3/8d/32b38db6fd9db9cb9d2bc4ba70b96fe5.jpg' alt='Persona 5 phone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/32/b3/8d/32b38db6fd9db9cb9d2bc4ba70b96fe5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Persona 5 IPhone X Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/37/5f/e6/375fe6b86abf35b4b5ab948965a83c03.jpg' alt='Persona 5 IPhone X Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/37/5f/e6/375fe6b86abf35b4b5ab948965a83c03.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalist P5 Phone Wallpaper. : r/Persona5">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/PQGHVHSpUWRCuDThUKKP9-cVy2XoSkVY45eZxiACtlQ.jpg?width=640&crop=smart&auto=webp&s=c7566f3ea1499df4fe322b4ce0d6c9f6131b709c' alt='Minimalist P5 Phone Wallpaper. : r/Persona5'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1191">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/PQGHVHSpUWRCuDThUKKP9-cVy2XoSkVY45eZxiACtlQ.jpg?width=640&crop=smart&auto=webp&s=c7566f3ea1499df4fe322b4ce0d6c9f6131b709c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Persona 5 Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/53/1f/01/531f013ad532184e2f6ee264873b91f1.jpg' alt='Persona 5 Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/53/1f/01/531f013ad532184e2f6ee264873b91f1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

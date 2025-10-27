@@ -1,0 +1,129 @@
+<title>Chic & Girly Spring Wallpaper: Transform Your Space</title>
+                    <meta name="description" content="Discover the beauty of girly spring wallpaper! Explore vibrant floral designs and pastel colors that enrich your space with freshness and charm. Perfect for bedrooms, nurseries, or creative spaces. Refresh your home decor effortlessly with delightful spring inspirations!">
+                    <meta name="keywords" content="girly spring wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spring">
+                            <span itemprop="name">Spring</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/spring/girly-spring-wallpaper">
+                            <span itemprop="name">girly spring wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic & Girly Spring Wallpaper: Transform Your Space</h1>
+                <p>Transform your space with girly spring wallpapers, perfect for bringing vibrant colors and floral patterns into your room. Embrace freshness with pastel hues, modern designs, and enchanting motifs that evoke the beauty of spring. Whether it’s for a bedroom, nursery, or a creative nook, these wallpapers add a charming touch to your decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Spring Greetings Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-spring-greetings-y6943vb0rzfw4kcr.jpg' alt='Cute Spring Greetings Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-spring-greetings-y6943vb0rzfw4kcr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable floral desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFshQqK6dA/1/0/1600w/canva-lilac-daisy-girly-motivational-quote-desktop-wallpaper-FWDUS-r1jCg.jpg' alt='Free and customizable floral desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFshQqK6dA/1/0/1600w/canva-lilac-daisy-girly-motivational-quote-desktop-wallpaper-FWDUS-r1jCg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Spring Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cute-spring-op0zbnp10diilc1m.jpg' alt='100+] Cute Spring Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cute-spring-op0zbnp10diilc1m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Spring 2020 HD Wallpapers on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ae/be/07/aebe07936a220027cb1f7046c847140e.jpg' alt='   Spring 2020 HD Wallpapers on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ae/be/07/aebe07936a220027cb1f7046c847140e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Cute Spring Quote Iphone Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-spring-iphone-colmvdsbfeqb2p29.jpg' alt='Download Cute Spring Quote Iphone Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1079">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-spring-iphone-colmvdsbfeqb2p29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable spring desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFVUQfOeJ0/1/0/1600w/canva-pink-green-cute-colorful-flower-bloom-spring-desktop-wallpaper-MTrVBV7S34A.jpg' alt='Free and customizable spring desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFVUQfOeJ0/1/0/1600w/canva-pink-green-cute-colorful-flower-bloom-spring-desktop-wallpaper-MTrVBV7S34A.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring Zoom Backgrounds and Phone Wallpapers | Love and Specs">
+                                <img itemprop="contentUrl url" src='https://loveandspecs.com/wp-content/uploads/2020/05/img_5ecf933d98cce.png' alt='Spring Zoom Backgrounds and Phone Wallpapers | Love and Specs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love and Specs" />
+                                </span>
+                                <a href='https://loveandspecs.com/wp-content/uploads/2020/05/img_5ecf933d98cce.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="985,753 Cute Spring Wallpaper Royalty-Free Photos and Stock Images ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/garden-flower-plants-botanical-seamless-600nw-1474614581.jpg' alt='985,753 Cute Spring Wallpaper Royalty-Free Photos and Stock Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/garden-flower-plants-botanical-seamless-600nw-1474614581.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Spring Digital Cherry Blossoms Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/cute-spring-digital-cherry-blossoms-bspp5483r7830qqu.jpg' alt='Cute Spring Digital Cherry Blossoms Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/cute-spring-digital-cherry-blossoms-bspp5483r7830qqu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="tumblr-Spring">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/da/4d/55/da4d55a4063511a424e0eec514fc381c.jpg' alt='tumblr-Spring'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/da/4d/55/da4d55a4063511a424e0eec514fc381c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

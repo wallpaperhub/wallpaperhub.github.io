@@ -1,0 +1,129 @@
+<title>Stunning Cyberpunk Red Wallpapers for Your Devices</title>
+                    <meta name="description" content="Discover an impressive collection of Cyberpunk Red wallpapers that transform your devices with vibrant, futuristic designs. Perfect for fans of the game, these stunning visuals enhance your screens and immerse you deeper into the world of Cyberpunk. Start customizing now!">
+                    <meta name="keywords" content="cyberpunk red wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red">
+                            <span itemprop="name">Red</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red/cyberpunk-red-wallpaper">
+                            <span itemprop="name">cyberpunk red wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Cyberpunk Red Wallpapers for Your Devices</h1>
+                <p>Explore the vibrant world of Cyberpunk Red with stunning wallpapers that capture the essence of this futuristic tabletop RPG. Immerse yourself in neon-lit cityscapes, high-tech motifs, and dynamic characters that bring the game’s dystopian universe to life. Download free Cyberpunk Red wallpapers today and personalize your devices!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TheWebCoder's Cyberpunk Red VTT Hero Image / Wallpaper : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/thewebcoders-cyberpunk-red-vtt-hero-image-wallpaper-v0-1575zwzpabpa1.png?auto=webp&s=dfa53a56a1c6ab17186e593ed5a22d566632d9e4' alt='TheWebCoder's Cyberpunk Red VTT Hero Image / Wallpaper : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1640">
+                                <meta itemprop="height" content="924">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/thewebcoders-cyberpunk-red-vtt-hero-image-wallpaper-v0-1575zwzpabpa1.png?auto=webp&s=dfa53a56a1c6ab17186e593ed5a22d566632d9e4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a 4K Cyberpunk Red wallpaper while sitting bored on a ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/oa7z5sk5oehc1.png' alt='I made a 4K Cyberpunk Red wallpaper while sitting bored on a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/oa7z5sk5oehc1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cyberpunk 2077 Black/Red Wallpaper (1920x1080) : r/cyberpunkgame">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/tihPm3X.png' alt='Cyberpunk 2077 Black/Red Wallpaper (1920x1080) : r/cyberpunkgame'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.imgur.com/tihPm3X.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cyberpunk Red wallpaper 01 1920x1080">
+                                <img itemprop="contentUrl url" src='https://www.gamewallpapers.com/download.php?img=wallpaper_cyberpunk_red_01_1920x1080.jpg' alt='Cyberpunk Red wallpaper 01 1920x1080'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameWallpapers.com" />
+                                </span>
+                                <a href='https://www.gamewallpapers.com/download.php?img=wallpaper_cyberpunk_red_01_1920x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cyberpunk 2077 Wallpaper 4K, Red background, Character V">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/cyberpunk-2077-character-v-red-background-xbox-series-x-3440x1440-1862.jpg' alt='Cyberpunk 2077 Wallpaper 4K, Red background, Character V'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/cyberpunk-2077-character-v-red-background-xbox-series-x-3440x1440-1862.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cyberpunk 2077 themed Amoled wallpaper I made (1440x2560) : r ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/0ydfchbee4o31.png?auto=webp&s=cc69a2aab284e8ee8bbcc2379e706355d876b82f' alt='Cyberpunk 2077 themed Amoled wallpaper I made (1440x2560) : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/0ydfchbee4o31.png?auto=webp&s=cc69a2aab284e8ee8bbcc2379e706355d876b82f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cyberpunk 2077 Black/Red Wallpaper (1920x1080) : r/cyberpunkgame">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/YPxFlrO.png' alt='Cyberpunk 2077 Black/Red Wallpaper (1920x1080) : r/cyberpunkgame'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.imgur.com/YPxFlrO.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cyberpunk Wallpaper 4K, Red background, girl, Futuristic">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/cyberpunk-red-background-cyberpunk-girl-futuristic-5k-1242x2208-7630.jpg' alt='Cyberpunk Wallpaper 4K, Red background, girl, Futuristic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/cyberpunk-red-background-cyberpunk-girl-futuristic-5k-1242x2208-7630.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cyberpunk Red Wallpapers - Top Free Cyberpunk Red Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d7/a0/3a/d7a03afbb50655618279b6abe484b40e.jpg' alt='Cyberpunk Red Wallpapers - Top Free Cyberpunk Red Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="kr.pinterest.com" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d7/a0/3a/d7a03afbb50655618279b6abe484b40e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cyberpunk Red Wallpapers - Top Free Cyberpunk Red Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/97/ab/30/97ab3060b94f4d3263fa6477dd727126.jpg' alt='Cyberpunk Red Wallpapers - Top Free Cyberpunk Red Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/97/ab/30/97ab3060b94f4d3263fa6477dd727126.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

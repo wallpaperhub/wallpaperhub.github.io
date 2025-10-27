@@ -1,0 +1,129 @@
+<title>Elevate Your Space with Herringbone Wallpaper</title>
+                    <meta name="description" content="Discover the charm of herringbone wallpaper! Perfect for adding a touch of elegance and unique texture to your home, this classic design suits any interior style. Explore our collection to find the perfect wallpaper for a stunning transformation.">
+                    <meta name="keywords" content="herringbone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/herringbone-wallpaper">
+                            <span itemprop="name">herringbone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Space with Herringbone Wallpaper</h1>
+                <p>Transform your space with herringbone wallpaper, a timeless design that adds elegance and sophistication to any room. This classic pattern creates an illusion of depth and texture, enhancing walls with its unique zigzag style. Perfect for both modern and traditional interiors, herringbone wallpaper sets the tone for a stylish atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sample: 6''W x 9''H / Smooth Vinyl Peel & Stick">
+                                <img itemprop="contentUrl url" src='https://eazzywalls.com/cdn/shop/products/Beigestrips2.jpg?v=1739232231&width=1214' alt='Sample: 6''W x 9''H / Smooth Vinyl Peel & Stick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1214">
+                                <meta itemprop="height" content="1214">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EazzyWalls" />
+                                </span>
+                                <a href='https://eazzywalls.com/cdn/shop/products/Beigestrips2.jpg?v=1739232231&width=1214' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Wood Herringbone Wallpaper, Peel and Stick Wallpaper Roll ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/19508152/r/il/d1797d/3391022006/il_fullxfull.3391022006_j9cu.jpg' alt='Dark Wood Herringbone Wallpaper, Peel and Stick Wallpaper Roll ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1538">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/19508152/r/il/d1797d/3391022006/il_fullxfull.3391022006_j9cu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Modern delicate herringbone removable wallpaper">
+                                <img itemprop="contentUrl url" src='http://livetteswallpaper.com/cdn/shop/products/Modern-delicate-herringbone-wallpaper-by-livettes-wallpaper.jpg?v=1637840116' alt='Modern delicate herringbone removable wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livettes Wallpaper" />
+                                </span>
+                                <a href='http://livetteswallpaper.com/cdn/shop/products/Modern-delicate-herringbone-wallpaper-by-livettes-wallpaper.jpg?v=1637840116' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick / Sample">
+                                <img itemprop="contentUrl url" src='https://wallblush.com/cdn/shop/files/See-You-Slater---Entryway.gif?v=1715988542&width=1405' alt='Peel & Stick / Sample'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1405">
+                                <meta itemprop="height" content="1325">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='https://wallblush.com/cdn/shop/files/See-You-Slater---Entryway.gif?v=1715988542&width=1405' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Herringbone Whitewashed Barn Wood Planks Mural Wall Art Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.simpleshapes.com/cdn/shop/products/b914371ca9fec2f6a3ac6606f3a8c0df7e7c1130_52c62546-e389-46dc-9925-2f5e9f34dd86.jpg?v=1692976532' alt='Herringbone Whitewashed Barn Wood Planks Mural Wall Art Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simple Shapes" />
+                                </span>
+                                <a href='https://www.simpleshapes.com/cdn/shop/products/b914371ca9fec2f6a3ac6606f3a8c0df7e7c1130_52c62546-e389-46dc-9925-2f5e9f34dd86.jpg?v=1692976532' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Herringbone by Crown - Green - Wallpaper - M1823">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/shared-assets/images/products/215542_1_orig.jpg?v=1714736736' alt='Herringbone by Crown - Green - Wallpaper - M1823'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/shared-assets/images/products/215542_1_orig.jpg?v=1714736736' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor Herringbone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.simpleshapes.com/cdn/shop/products/9229_WatercolorHerringbone_VanDeusenBlue_1.jpg?v=1618952320' alt='Watercolor Herringbone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simple Shapes" />
+                                </span>
+                                <a href='https://www.simpleshapes.com/cdn/shop/products/9229_WatercolorHerringbone_VanDeusenBlue_1.jpg?v=1618952320' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Herringbone Peel and Stick wallpaper - Muse Wall Studio">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0115/3266/4932/products/muse-wall-studio-warm-herringbone-brushstrokes-peel-stick-wallpaper-warm-herringbone-brushstrokes-29077636579414.jpg?v=1634936195' alt='Herringbone Peel and Stick wallpaper - Muse Wall Studio'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="1325">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MUSE Wall Studio" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0115/3266/4932/products/muse-wall-studio-warm-herringbone-brushstrokes-peel-stick-wallpaper-warm-herringbone-brushstrokes-29077636579414.jpg?v=1634936195' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Geometric Herringbone Wallpaper Modern Wallpaper Peel and Stick  and Traditional Wallpaper - A360">
+                                <img itemprop="contentUrl url" src='https://ondecor.com/cdn/shop/files/il_fullxfull.5761658528_issb.jpg?v=1722441327&width=1946' alt='Colorful Geometric Herringbone Wallpaper Modern Wallpaper Peel and Stick  and Traditional Wallpaper - A360'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ONDECOR.COM" />
+                                </span>
+                                <a href='https://ondecor.com/cdn/shop/files/il_fullxfull.5761658528_issb.jpg?v=1722441327&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beige Herringbone Wallpaper | Removable Self Adhesive Abstract ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18222838/r/il/716f6e/4533435714/il_570xN.4533435714_hl7c.jpg' alt='Beige Herringbone Wallpaper | Removable Self Adhesive Abstract ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="713">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18222838/r/il/716f6e/4533435714/il_570xN.4533435714_hl7c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

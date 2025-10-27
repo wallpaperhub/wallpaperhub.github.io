@@ -1,0 +1,129 @@
+<title>Surf's Up: Vibrant Beach Wallpaper for Your Space</title>
+                    <meta name="description" content="Explore our collection of beach surf wallpaper that brings the beauty of the ocean into your home. Perfect for creating a calming atmosphere, these designs are ideal for surf lovers and beach enthusiasts. Transform your space with vibrant colors and coastal vibes today!">
+                    <meta name="keywords" content="beach surf wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/beach">
+                            <span itemprop="name">Beach</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/beach/beach-surf-wallpaper">
+                            <span itemprop="name">beach surf wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Surf's Up: Vibrant Beach Wallpaper for Your Space</h1>
+                <p>Transform your space with stunning beach surf wallpaper that captures the essence of ocean waves and sandy shores. Perfect for surf enthusiasts and beach lovers alike, these vibrant designs bring the spirit of the coast right into your home. Ideal for creating a relaxing atmosphere in any room, embrace the beach life every day!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="705,800+ Beach Surf Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1370813651/photo/surfboard-and-palm-tree-on-beach-in-summer.jpg?s=612x612&w=0&k=20&c=G9sK86pR0gpVcqLeXQEgqcq1sCyrDxC0yzLMmWJ7cLw=' alt='705,800+ Beach Surf Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1370813651/photo/surfboard-and-palm-tree-on-beach-in-summer.jpg?s=612x612&w=0&k=20&c=G9sK86pR0gpVcqLeXQEgqcq1sCyrDxC0yzLMmWJ7cLw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beach Surf Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1683578622275-42552d90b5a7?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmVhY2glMjBzdXJmfGVufDB8fDB8fHww' alt='Beach Surf Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1683578622275-42552d90b5a7?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmVhY2glMjBzdXJmfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Three surf boards on idyllic tropical sand beach Wall Mural ...">
+                                <img itemprop="contentUrl url" src='https://us.canvasartrocks.com/cdn/shop/products/Three_surf_boards_on_idyllic_tropical_sand_beach_Wall_Mural_Wallpaper_a_1400x.jpg?v=1735833528' alt='Three surf boards on idyllic tropical sand beach Wall Mural ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="564">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canvas Art Rocks" />
+                                </span>
+                                <a href='https://us.canvasartrocks.com/cdn/shop/products/Three_surf_boards_on_idyllic_tropical_sand_beach_Wall_Mural_Wallpaper_a_1400x.jpg?v=1735833528' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Beach Surf Board Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/aesthetic-beach-surf-board-azzcxk8xhv0wfpnw.jpg' alt='Aesthetic Beach Surf Board Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="595">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/aesthetic-beach-surf-board-azzcxk8xhv0wfpnw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Surfboard Wall Art. Surf Wallpaper. Surf Wall Decor, Surf Wall  Print, Beach Wallpaper, Surfboards in Hawaii, Tropical Theme Decor, Beach  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91WZORB85LL.jpg' alt='Amazon.com: Surfboard Wall Art. Surf Wallpaper. Surf Wall Decor, Surf Wall  Print, Beach Wallpaper, Surfboards in Hawaii, Tropical Theme Decor, Beach  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2057">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91WZORB85LL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Surfing in Australia | Surfing, Surfing pictures, Surfing wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/62/b7/57/62b757160d4ec19cefa74bc4d5a413af.jpg' alt='Surfing in Australia | Surfing, Surfing pictures, Surfing wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/62/b7/57/62b757160d4ec19cefa74bc4d5a413af.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="705,800+ Beach Surf Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/909575096/photo/friends-running-into-the-ocean-with-their-surfboards.jpg?s=612x612&w=0&k=20&c=SM8oU_JW7HW9XcOojGAqizMc0_J-nHkM8IclVJq6VKY=' alt='705,800+ Beach Surf Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/909575096/photo/friends-running-into-the-ocean-with-their-surfboards.jpg?s=612x612&w=0&k=20&c=SM8oU_JW7HW9XcOojGAqizMc0_J-nHkM8IclVJq6VKY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo Wallpaper Boards on Beach - Surfing Gear in Shade of Tropical Trees -  bimago">
+                                <img itemprop="contentUrl url" src='https://com.bimago.media/media/catalog/image/view/product/160121/role/image/size/1500x2240/type/ft-osmr-ng1/d57a0fb9f43bd12e7dd222a0759fe670.webp' alt='Photo Wallpaper Boards on Beach - Surfing Gear in Shade of Tropical Trees -  bimago'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="bimago." />
+                                </span>
+                                <a href='https://com.bimago.media/media/catalog/image/view/product/160121/role/image/size/1500x2240/type/ft-osmr-ng1/d57a0fb9f43bd12e7dd222a0759fe670.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Stock Photo of Surfing on Beach | Download Free Images and ...">
+                                <img itemprop="contentUrl url" src='https://freerangestock.com/sample/125885/surfing-on-beach-.jpg' alt='Free Stock Photo of Surfing on Beach | Download Free Images and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="970">
+                                <meta itemprop="height" content="646">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freerange Stock" />
+                                </span>
+                                <a href='https://freerangestock.com/sample/125885/surfing-on-beach-.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer vacation, summer sunset, beach vacation, surfer, not my ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/db/9e/50/db9e505f483add21efb16c1bea2d0b1b.jpg' alt='Summer vacation, summer sunset, beach vacation, surfer, not my ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/db/9e/50/db9e505f483add21efb16c1bea2d0b1b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Discover High-Quality Weezer PNG Images Online</title>
+                    <meta name="description" content="Explore a collection of stunning Weezer PNG images perfect for your creative projects! These transparent graphics are ideal for fans looking to enhance their artwork or social media posts. Download your favorite Weezer designs today and show off your fandom with style!">
+                    <meta name="keywords" content="weezer png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/weezer-png">
+                            <span itemprop="name">weezer png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover High-Quality Weezer PNG Images Online</h1>
+                <p>Weezer PNG images are a great way to showcase your love for the iconic alternative rock band. These high-quality graphics, with transparent backgrounds, can be used for various projects like fan art, social media posts, or personal merchandise. Find a variety of Weezer PNGs that capture the band's unique style and spirit!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="since i couldnt find it i did it myself: transparent high quality ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/since-i-couldnt-find-it-i-did-it-myself-transparent-high-v0-dc8pzfnvq6wb1.png?auto=webp&s=56736d579951a560fb7d52d9a47579403939d911' alt='since i couldnt find it i did it myself: transparent high quality ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2172">
+                                <meta itemprop="height" content="1844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/since-i-couldnt-find-it-i-did-it-myself-transparent-high-v0-dc8pzfnvq6wb1.png?auto=webp&s=56736d579951a560fb7d52d9a47579403939d911' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Weezer logo.png - Wikimedia Commons">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Weezer_logo.png/1200px-Weezer_logo.png' alt='File:Weezer logo.png - Wikimedia Commons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="199">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikimedia Commons" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Weezer_logo.png/1200px-Weezer_logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WEEZER - WEEZER (BLUE ALBUM) - Andover Audio">
+                                <img itemprop="contentUrl url" src='https://www.andoveraudio.com/cdn/shop/products/Weezer_-_Blue_Album_600x.png?v=1680201489' alt='WEEZER - WEEZER (BLUE ALBUM) - Andover Audio'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Andover Audio" />
+                                </span>
+                                <a href='https://www.andoveraudio.com/cdn/shop/products/Weezer_-_Blue_Album_600x.png?v=1680201489' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Weezer logo transparent PNG - StickPNG">
+                                <img itemprop="contentUrl url" src='https://assets.stickpng.com/images/6571a2f304a7c65afd08e339.png' alt='Weezer logo transparent PNG - StickPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="687">
+                                <meta itemprop="height" content="363">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StickPNG" />
+                                </span>
+                                <a href='https://assets.stickpng.com/images/6571a2f304a7c65afd08e339.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Weezer, weezer , transparent - Free PNG - PicMix">
+                                <img itemprop="contentUrl url" src='https://img1.picmix.com/output/stamp/normal/9/3/9/3/2633939_061ea.png' alt='Weezer, weezer , transparent - Free PNG - PicMix'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PicMix" />
+                                </span>
+                                <a href='https://img1.picmix.com/output/stamp/normal/9/3/9/3/2633939_061ea.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Weezer - Da Bois upscaled and transparent : r/MemeRestoration">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/weezer-da-bois-upscaled-and-transparent-v0-2lif9cim5gcc1.png?width=640&crop=smart&auto=webp&s=7f354da7c0be24ecc6a2ffd5ede97b7040c0f775' alt='Weezer - Da Bois upscaled and transparent : r/MemeRestoration'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/weezer-da-bois-upscaled-and-transparent-v0-2lif9cim5gcc1.png?width=640&crop=smart&auto=webp&s=7f354da7c0be24ecc6a2ffd5ede97b7040c0f775' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Weezer Logo PNG Transparent & SVG Vector - Freebie Supply">
+                                <img itemprop="contentUrl url" src='https://cdn.freebiesupply.com/logos/large/2x/weezer-logo-png-transparent.png' alt='Weezer Logo PNG Transparent & SVG Vector - Freebie Supply'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freebie Supply" />
+                                </span>
+                                <a href='https://cdn.freebiesupply.com/logos/large/2x/weezer-logo-png-transparent.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Weezer logo.png - Wikimedia Commons">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/5/5b/Weezer_logo.png' alt='File:Weezer logo.png - Wikimedia Commons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3936">
+                                <meta itemprop="height" content="652">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikimedia Commons" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/5/5b/Weezer_logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Transparent blue bois : r/weezer">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/9phmwvh881y21.png?width=640&crop=smart&auto=webp&s=8d6fafa0171adbb5f908c5fe1639663aa523465c' alt='Transparent blue bois : r/weezer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="470">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/9phmwvh881y21.png?width=640&crop=smart&auto=webp&s=8d6fafa0171adbb5f908c5fe1639663aa523465c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Weezer Logo, symbol, meaning, history, PNG, brand">
+                                <img itemprop="contentUrl url" src='https://logos-world.net/wp-content/uploads/2023/09/Weezer-Symbol.png' alt='Weezer Logo, symbol, meaning, history, PNG, brand'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Logos-world" />
+                                </span>
+                                <a href='https://logos-world.net/wp-content/uploads/2023/09/Weezer-Symbol.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Explore Blue Grunge: Edgy Aesthetic & Urban Style</title>
+                    <meta name="description" content="Discover the captivating world of blue grunge, a unique aesthetic that combines deep blue hues with urban textures. Perfect for those who resonate with individuality and edgy styles, this trend showcases the beauty of rebellion through fashion and art. Embrace the blue grunge vibe today!">
+                    <meta name="keywords" content="blue grunge">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blue-grunge">
+                            <span itemprop="name">blue grunge</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore Blue Grunge: Edgy Aesthetic & Urban Style</h1>
+                <p>Blue grunge is a striking aesthetic that blends deep blue tones with a worn, edgy vibe. This style captures the essence of urban life, incorporating textures like denim, paint splatters, and distressed surfaces. Perfect for conveying a sense of rebellion, blue grunge appeals to those who embrace individuality and seek to express their unique style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="231,700+ Blue Grunge Texture Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1031094570/photo/blue-concrete-background.jpg?s=612x612&w=0&k=20&c=46PfGVf-wmoeKKdeAZ-HuUu-k3IrkCqBiYgb8JHHJXU=' alt='231,700+ Blue Grunge Texture Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1031094570/photo/blue-concrete-background.jpg?s=612x612&w=0&k=20&c=46PfGVf-wmoeKKdeAZ-HuUu-k3IrkCqBiYgb8JHHJXU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Grunge Background Images – Browse 2,829,908 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/29/07/93/360_F_429079322_CebmBeVGUeJ7FzvROJFxOo5kTsX5jjim.jpg' alt='Blue Grunge Background Images – Browse 2,829,908 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/29/07/93/360_F_429079322_CebmBeVGUeJ7FzvROJFxOo5kTsX5jjim.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Blue Grunge Background by Caracterdesign">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/dark-blue-grunge-background-caracterdesign.jpg' alt='Dark Blue Grunge Background by Caracterdesign'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photos.com by Getty Images" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/dark-blue-grunge-background-caracterdesign.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stunning Deep Blue Grunge Texture">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cc/ee/84/ccee84660979960f3262172a696c11c9.jpg' alt='Stunning Deep Blue Grunge Texture'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="737">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cc/ee/84/ccee84660979960f3262172a696c11c9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sticker blue grunge background">
+                                <img itemprop="contentUrl url" src='https://img.pixers.pics/pho_wat(s3:700/FO/71/49/75/91/700_FO71497591_9603fd960a79d78e2f29e3dd86de4d44.jpg,700,464,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,414,jpg)/stickers-blue-grunge-background.jpg.jpg' alt='Sticker blue grunge background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="464">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixers" />
+                                </span>
+                                <a href='https://img.pixers.pics/pho_wat(s3:700/FO/71/49/75/91/700_FO71497591_9603fd960a79d78e2f29e3dd86de4d44.jpg,700,464,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,414,jpg)/stickers-blue-grunge-background.jpg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Grunge Background Images – Browse 2,829,908 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/09/80/62/84/360_F_980628446_SfdjOQjlsOEINI3YUylmGbdy1H7j8J8O.jpg' alt='Blue Grunge Background Images – Browse 2,829,908 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/09/80/62/84/360_F_980628446_SfdjOQjlsOEINI3YUylmGbdy1H7j8J8O.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Blue Grunge Background (JPG) | OnlyGFX.com">
+                                <img itemprop="contentUrl url" src='https://www.onlygfx.com/wp-content/uploads/2021/04/dark-blue-grunge-background-1-cover.jpg' alt='Dark Blue Grunge Background (JPG) | OnlyGFX.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OnlyGFX.com" />
+                                </span>
+                                <a href='https://www.onlygfx.com/wp-content/uploads/2021/04/dark-blue-grunge-background-1-cover.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue grunge background or texture Stock Illustration by ©Alexis84 ...">
+                                <img itemprop="contentUrl url" src='https://st.depositphotos.com/1020341/3131/i/950/depositphotos_31311191-stock-illustration-blue-grunge-background-or-texture.jpg' alt='Blue grunge background or texture Stock Illustration by ©Alexis84 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://st.depositphotos.com/1020341/3131/i/950/depositphotos_31311191-stock-illustration-blue-grunge-background-or-texture.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue grunge outfit">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a1/89/33/a189331ef7175d191dc78909207d37f2.jpg' alt='Blue grunge outfit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="688">
+                                <meta itemprop="height" content="1032">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a1/89/33/a189331ef7175d191dc78909207d37f2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Grunge Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/grunge-concrete-texture-vintage-background_1409-2919.jpg' alt='Blue Grunge Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/grunge-concrete-texture-vintage-background_1409-2919.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

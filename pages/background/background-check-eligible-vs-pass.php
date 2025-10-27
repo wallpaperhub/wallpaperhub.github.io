@@ -1,0 +1,129 @@
+<title>Background Check Eligibility vs Passing: What You Need to Know</title>
+                    <meta name="description" content="Explore the key differences between being "background check eligible" and what it means to "pass." Learn why these distinctions matter for hiring decisions and ensuring workplace safety, all in a concise and accessible format tailored for mobile users.">
+                    <meta name="keywords" content="background check eligible vs pass">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/background-check-eligible-vs-pass">
+                            <span itemprop="name">background check eligible vs pass</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Background Check Eligibility vs Passing: What You Need to Know</h1>
+                <p>When hiring, understanding the difference between "background check eligible" and "pass" is crucial. Being eligible means your information will be reviewed, whereas passing indicates no disqualifying issues were found. Employers rely on these distinctions to make informed decisions, ensuring a safe and trustworthy workplace.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is a Level 2 Background Check Screening? | The Justice ...">
+                                <img itemprop="contentUrl url" src='https://thejusticecollaborative.com/wp-content/uploads/table.jpg' alt='What Is a Level 2 Background Check Screening? | The Justice ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2289">
+                                <meta itemprop="height" content="2224">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Justice Collaborative" />
+                                </span>
+                                <a href='https://thejusticecollaborative.com/wp-content/uploads/table.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Types of Background Checks for Employment | ShareAble">
+                                <img itemprop="contentUrl url" src='https://hires.shareable.com/blog/types-of-background-checks/_jcr_content/root/pagesection/basicimage_copy.coreimg.png/1721242421673/sfh-7backgroundchecks-ingrpahic-1.png' alt='7 Types of Background Checks for Employment | ShareAble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="735">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareAble For Hires" />
+                                </span>
+                                <a href='https://hires.shareable.com/blog/types-of-background-checks/_jcr_content/root/pagesection/basicimage_copy.coreimg.png/1721242421673/sfh-7backgroundchecks-ingrpahic-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Check Policy: What to Include + Free Template">
+                                <img itemprop="contentUrl url" src='https://fitsmallbusiness.com/wp-content/uploads/2023/04/Infographic_Types_of_Background_Checks.svg' alt='Background Check Policy: What to Include + Free Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="774">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fit Small Business" />
+                                </span>
+                                <a href='https://fitsmallbusiness.com/wp-content/uploads/2023/04/Infographic_Types_of_Background_Checks.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is A Background Check? 11 Common Background Check Types - Pre ...">
+                                <img itemprop="contentUrl url" src='https://www.pre-employ.com/wp-content/uploads/FORM-I-9-AND-E-VERIFY-1-410x1024.png' alt='What Is A Background Check? 11 Common Background Check Types - Pre ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="410">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pre-Employ" />
+                                </span>
+                                <a href='https://www.pre-employ.com/wp-content/uploads/FORM-I-9-AND-E-VERIFY-1-410x1024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ServiceConnect - How do I read my Background Screen Report?">
+                                <img itemprop="contentUrl url" src='https://serviceconnect.fadv.com/servlet/rtaImage?eid=ka05a000000sqkS&feoid=00N5a00000DD58D&refid=0EM5a00000ATsxh' alt='ServiceConnect - How do I read my Background Screen Report?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="857">
+                                <meta itemprop="height" content="516">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="First Advantage" />
+                                </span>
+                                <a href='https://serviceconnect.fadv.com/servlet/rtaImage?eid=ka05a000000sqkS&feoid=00N5a00000DD58D&refid=0EM5a00000ATsxh' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Types of Background Checks for Employment | ShareAble">
+                                <img itemprop="contentUrl url" src='https://hires.shareable.com/content/dam/shareable/blog-hero/background-checks-hero-blur.png' alt='7 Types of Background Checks for Employment | ShareAble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="557">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareAble For Hires" />
+                                </span>
+                                <a href='https://hires.shareable.com/content/dam/shareable/blog-hero/background-checks-hero-blur.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AZ] What does "pass" vs "Eligible" mean on First Advantage ...">
+                                <img itemprop="contentUrl url" src='https://styles.redditmedia.com/t5_2usvo/styles/communityIcon_2uhz6mwzbkvd1.jpg?format=pjpg&s=876a2ed21b27c029f7630b7cd0535a333ce420b9' alt='AZ] What does "pass" vs "Eligible" mean on First Advantage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://styles.redditmedia.com/t5_2usvo/styles/communityIcon_2uhz6mwzbkvd1.jpg?format=pjpg&s=876a2ed21b27c029f7630b7cd0535a333ce420b9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employee background check errors harm thousands of workers ...">
+                                <img itemprop="contentUrl url" src='https://www.techtarget.com/rms/onlineimages/criminal_background_check_disconnects-f_mobile.png' alt='Employee background check errors harm thousands of workers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="560">
+                                <meta itemprop="height" content="313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TechTarget" />
+                                </span>
+                                <a href='https://www.techtarget.com/rms/onlineimages/criminal_background_check_disconnects-f_mobile.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Do a Background Check for Employment | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/1c6d68f1f96b542267a79114c0f64024/e2d37/dashboard-illustration.png' alt='How to Do a Background Check for Employment | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="618">
+                                <meta itemprop="height" content="399">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/1c6d68f1f96b542267a79114c0f64024/e2d37/dashboard-illustration.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Understanding U.S. Government Background Investigations ...">
+                                <img itemprop="contentUrl url" src='https://ors.od.nih.gov/ser/dpsac/applicants-employees/know-before-you-go/PublishingImages/Pages/understanding-background-investigations/Final-DCSA-Investigation-Process.jpg' alt='Understanding U.S. Government Background Investigations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ORS - Office Of Research Services | NIH" />
+                                </span>
+                                <a href='https://ors.od.nih.gov/ser/dpsac/applicants-employees/know-before-you-go/PublishingImages/Pages/understanding-background-investigations/Final-DCSA-Investigation-Process.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

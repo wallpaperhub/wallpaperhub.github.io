@@ -1,0 +1,129 @@
+<title>Vibrant Neon Heart Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore a captivating collection of neon heart wallpapers that brighten up your screens with love and energy. Perfect for expressing your unique style, these vibrant designs are optimized for any device, ensuring your backdrop is as stunning as your personality! Discover your favorite now!">
+                    <meta name="keywords" content="beautiful neon heart wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart">
+                            <span itemprop="name">Heart</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart/beautiful-neon-heart-wallpaper">
+                            <span itemprop="name">beautiful neon heart wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Neon Heart Wallpapers for Your Device</h1>
+                <p>Transform your device with stunning neon heart wallpapers that radiate love and vibrant energy! These eye-catching designs combine bold colors and unique patterns, perfect for anyone looking to add a touch of flair and romance to their screens. Discover the perfect neon heart backdrop that speaks to your style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="24,200+ Neon Hearts Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1296175665/photo/futuristic-modern-empty-stage-reflective-dark-room-with-glowing-neon-heart-shape-and-cloud.jpg?s=612x612&w=0&k=20&c=rMRlBxK6-qhjh1nxWtZ_dwpdvp8qIxGN57kD-6rZrf0=' alt='24,200+ Neon Hearts Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="393">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1296175665/photo/futuristic-modern-empty-stage-reflective-dark-room-with-glowing-neon-heart-shape-and-cloud.jpg?s=612x612&w=0&k=20&c=rMRlBxK6-qhjh1nxWtZ_dwpdvp8qIxGN57kD-6rZrf0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Neon Heart Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/heart-background-q01187hsu9la4397.jpg' alt='100+] Neon Heart Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/heart-background-q01187hsu9la4397.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Lights Love Heart Tunnel, Beautiful Neon Heart, HD wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/282/476/HD-wallpaper-neon-lights-love-heart-tunnel-beautiful-neon-heart-thumbnail.jpg' alt='Neon Lights Love Heart Tunnel, Beautiful Neon Heart, HD wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="190">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/282/476/HD-wallpaper-neon-lights-love-heart-tunnel-beautiful-neon-heart-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Heart Mobile Wallpaper - free download">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/high/neon-heart-mobile-wallpaper-20.webp' alt='Neon Heart Mobile Wallpaper - free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="838">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/high/neon-heart-mobile-wallpaper-20.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="neon heart wallpaper - Google Search">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c6/2a/48/c62a48a5291d986a383c7d89daf8168a.jpg' alt='neon heart wallpaper - Google Search'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c6/2a/48/c62a48a5291d986a383c7d89daf8168a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Glowing Neon Heart Image | Download at StockCake">
+                                <img itemprop="contentUrl url" src='https://images.stockcake.com/public/8/5/e/85e0eb36-4568-4c1d-9e0f-af19b1948b8e_large/glowing-neon-heart-stockcake.jpg' alt='Free Glowing Neon Heart Image | Download at StockCake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockCake" />
+                                </span>
+                                <a href='https://images.stockcake.com/public/8/5/e/85e0eb36-4568-4c1d-9e0f-af19b1948b8e_large/glowing-neon-heart-stockcake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon heart, loveurhunny, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/258/839/HD-wallpaper-neon-heart-loveurhunny-thumbnail.jpg' alt='Neon heart, loveurhunny, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/258/839/HD-wallpaper-neon-heart-loveurhunny-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vibrant Neon Heart Wallpaper - free download">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/high/vibrant-neon-heart-wallpaper-22.webp' alt='Vibrant Neon Heart Wallpaper - free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="839">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/high/vibrant-neon-heart-wallpaper-22.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Lights Love Heart Tunnel and Romantic Abstract Glow Particles 4K  Moving Wallpaper Background">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/A2cu_za6-bI/hqdefault.jpg' alt='Neon Lights Love Heart Tunnel and Romantic Abstract Glow Particles 4K  Moving Wallpaper Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/A2cu_za6-bI/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Heart" Images – Browse 6,337 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/12/72/08/91/360_F_1272089131_1YvHXUGBwZiBHM95MlhSqzjk9hSHjgMD.jpg' alt='Neon Heart" Images – Browse 6,337 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="478">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/12/72/08/91/360_F_1272089131_1YvHXUGBwZiBHM95MlhSqzjk9hSHjgMD.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

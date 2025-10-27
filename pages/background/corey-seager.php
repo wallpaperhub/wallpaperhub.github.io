@@ -1,0 +1,129 @@
+<title>Corey Seager: Rising Star in MLB</title>
+                    <meta name="description" content="Explore the career of Corey Seager, the talented shortstop for the Texas Rangers. Discover his journey from the Dodgers to becoming a key player in Major League Baseball, including his accolades, skills, and impact on the game.">
+                    <meta name="keywords" content="corey seager">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/corey-seager">
+                            <span itemprop="name">corey seager</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Corey Seager: Rising Star in MLB</h1>
+                <p>Corey Seager is an American professional baseball shortstop, currently playing for the Texas Rangers in Major League Baseball (MLB). Known for his exceptional hitting ability and defensive skills, Seager made his MLB debut in 2015 with the Los Angeles Dodgers. He has won multiple accolades, including a World Series title and Rookie of the Year award.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Corey Seager - Texas Rangers Shortstop - ESPN">
+                                <img itemprop="contentUrl url" src='https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/32691.png&w=350&h=254' alt='Corey Seager - Texas Rangers Shortstop - ESPN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="254">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ESPN" />
+                                </span>
+                                <a href='https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/32691.png&w=350&h=254' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Corey Seager - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/2/20/Corey_Seager_during_game_against_Yankees_9-13-16_%2811%29.jpeg' alt='Corey Seager - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3052">
+                                <meta itemprop="height" content="3419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/2/20/Corey_Seager_during_game_against_Yankees_9-13-16_%2811%29.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Corey Seager Stats, Age, Position, Height, Weight, Fantasy & News ...">
+                                <img itemprop="contentUrl url" src='https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/608369/headshot/67/current' alt='Corey Seager Stats, Age, Position, Height, Weight, Fantasy & News ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="213">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MLB.com" />
+                                </span>
+                                <a href='https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/608369/headshot/67/current' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Is Corey Seager? 5 Things to Know About the MLB Shortstop | Us ...">
+                                <img itemprop="contentUrl url" src='https://www.usmagazine.com/wp-content/uploads/2023/11/Who-Is-Corey-Seager-5-Things-to-Know-About-the-World-Series-MVP-and-MLB-Shortstop.jpg?w=1000&quality=86&strip=all' alt='Who Is Corey Seager? 5 Things to Know About the MLB Shortstop | Us ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Us Weekly" />
+                                </span>
+                                <a href='https://www.usmagazine.com/wp-content/uploads/2023/11/Who-Is-Corey-Seager-5-Things-to-Know-About-the-World-Series-MVP-and-MLB-Shortstop.jpg?w=1000&quality=86&strip=all' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Corey Seager (@coreyseager5) • Instagram photos and videos">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2653706766674420142' alt='Corey Seager (@coreyseager5) • Instagram photos and videos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2653706766674420142' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Texas Rangers - OFFICIAL: We've signed SS Corey Seager to ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10165720820055384' alt='Texas Rangers - OFFICIAL: We've signed SS Corey Seager to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1875">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10165720820055384' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Texas Rangers Need Vintage Corey Seager Throughout 2023 World Series">
+                                <img itemprop="contentUrl url" src='https://imageio.forbes.com/specials-images/imageserve/653f7cd4244f46512da52880/Corey-Seager-hits-a-game-tying-home-run-in-the-ninth-inning-and-tosses-his-bat-/0x0.jpg?format=jpg&crop=3079,2051,x0,y0,safe&width=960' alt='Texas Rangers Need Vintage Corey Seager Throughout 2023 World Series'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="639">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forbes" />
+                                </span>
+                                <a href='https://imageio.forbes.com/specials-images/imageserve/653f7cd4244f46512da52880/Corey-Seager-hits-a-game-tying-home-run-in-the-ninth-inning-and-tosses-his-bat-/0x0.jpg?format=jpg&crop=3079,2051,x0,y0,safe&width=960' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Corey Seager (@coreyseager5) • Instagram photos and videos">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2720038154194080862' alt='Corey Seager (@coreyseager5) • Instagram photos and videos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1144">
+                                <meta itemprop="height" content="1053">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2720038154194080862' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Former Dodger Corey Seager fueled Rangers' World Series run - Los ...">
+                                <img itemprop="contentUrl url" src='https://ca-times.brightspotcdn.com/dims4/default/642168c/2147483647/strip/true/crop/7458x4973+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb0%2F03%2F838db5384256be43d3da50401618%2Fworld-series-diamondbacks-rangers-baseball-12589.jpg' alt='Former Dodger Corey Seager fueled Rangers' World Series run - Los ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Los Angeles Times" />
+                                </span>
+                                <a href='https://ca-times.brightspotcdn.com/dims4/default/642168c/2147483647/strip/true/crop/7458x4973+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb0%2F03%2F838db5384256be43d3da50401618%2Fworld-series-diamondbacks-rangers-baseball-12589.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Exclusive: Corey Seager Talks Life With His New Team, and Why the ...">
+                                <img itemprop="contentUrl url" src='https://media.nbclosangeles.com/2022/04/GettyImages-1239677585.jpg?quality=85&strip=all&resize=1200%2C675' alt='Exclusive: Corey Seager Talks Life With His New Team, and Why the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NBC Los Angeles" />
+                                </span>
+                                <a href='https://media.nbclosangeles.com/2022/04/GettyImages-1239677585.jpg?quality=85&strip=all&resize=1200%2C675' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

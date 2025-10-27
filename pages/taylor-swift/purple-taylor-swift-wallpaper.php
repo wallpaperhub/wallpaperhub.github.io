@@ -1,0 +1,129 @@
+<title>Taylor Swift Purple Wallpaper - Stunning Designs for Your Device</title>
+                    <meta name="description" content="Discover beautiful purple Taylor Swift wallpapers to brighten your devices. Perfect for fans, these vibrant designs combine elegance and a touch of celebrity charm. Download your favorite purple wallpaper today and showcase your love for Taylor Swift in style!">
+                    <meta name="keywords" content="purple taylor swift wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/taylor-swift">
+                            <span itemprop="name">Taylor-Swift</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/taylor-swift/purple-taylor-swift-wallpaper">
+                            <span itemprop="name">purple taylor swift wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Taylor Swift Purple Wallpaper - Stunning Designs for Your Device</h1>
+                <p>Elevate your device's aesthetic with stunning purple Taylor Swift wallpaper. Perfect for fans, these wallpapers showcase Taylor's iconic style and vibrant persona, blending creativity and elegance. Whether you want to show your love for her music or simply add a splash of color to your screen, find the perfect purple background today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f8/ef/35/f8ef3555c80f523c5fd2b0ea75a4b2da.jpg' alt='Taylor Swift'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f8/ef/35/f8ef3555c80f523c5fd2b0ea75a4b2da.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TAYLOR SWIFT WALLPAPER">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/07/20/cb/0720cbd682b392ebfea88bfc433aa443.jpg' alt='TAYLOR SWIFT WALLPAPER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1437">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/07/20/cb/0720cbd682b392ebfea88bfc433aa443.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Purple Taylor Swift Collage Aesthetic Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-taylor-swift-collage-aesthetic-mbvdq8vywpw4vy4q.jpg' alt='Download Purple Taylor Swift Collage Aesthetic Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-taylor-swift-collage-aesthetic-mbvdq8vywpw4vy4q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Speak Now (Taylors Version) Inspired Wallpaper! : r/TaylorSwift">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/6m7rjaxx77ya1.png' alt='Speak Now (Taylors Version) Inspired Wallpaper! : r/TaylorSwift'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/6m7rjaxx77ya1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Purple Aesthetic Collage Taylor Swift Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-aesthetic-collage-taylor-swift-d98u30grmbd9tuuh.jpg' alt='Download Purple Aesthetic Collage Taylor Swift Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="928">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-aesthetic-collage-taylor-swift-d98u30grmbd9tuuh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2f/aa/c1/2faac12b95cc07fec5a25d1ea9501f45.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2f/aa/c1/2faac12b95cc07fec5a25d1ea9501f45.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Most Popular Taylor Swift In Purple Wallpapers">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/iphone/91775787564688449-28748709244542159.webp' alt='Most Popular Taylor Swift In Purple Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/iphone/91775787564688449-28748709244542159.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check out makkensie77's Shuffles Speak now Taylor swift wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/32/af/ac/32afac99a8e6af1b8220397973775074.jpg' alt='Check out makkensie77's Shuffles Speak now Taylor swift wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shuffles" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/32/af/ac/32afac99a8e6af1b8220397973775074.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fanmade Phone Wallpaper Update: Los Angeles ⭐️    : r/TaylorSwift">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/fanmade-phone-wallpaper-update-los-angeles-v0-8o9z9i8rgzhb1.jpg?width=1080&crop=smart&auto=webp&s=6585fef8d16abc0a1d3e9dd07a085167ee1e84a0' alt='Fanmade Phone Wallpaper Update: Los Angeles ⭐️    : r/TaylorSwift'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/fanmade-phone-wallpaper-update-los-angeles-v0-8o9z9i8rgzhb1.jpg?width=1080&crop=smart&auto=webp&s=6585fef8d16abc0a1d3e9dd07a085167ee1e84a0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor swift Speak Now wallpaper!! | Gallery posted by Mia   | Lemon8">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7396868971133501957&index=0&sign=c95136ddaf4cc9288548cd48e9d7a90e' alt='Taylor swift Speak Now wallpaper!! | Gallery posted by Mia   | Lemon8'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1442">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7396868971133501957&index=0&sign=c95136ddaf4cc9288548cd48e9d7a90e' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

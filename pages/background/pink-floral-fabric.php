@@ -1,0 +1,129 @@
+<title>Vibrant Pink Floral Fabric for Stylish Projects</title>
+                    <meta name="description" content="Discover our stunning pink floral fabric, perfect for enhancing your wardrobe or home décor. With its bold patterns and premium quality, this versatile material is ideal for crafting, sewing, and fashion. Bring your creative visions to life with our enchanting pink floral designs!">
+                    <meta name="keywords" content="pink floral fabric">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pink-floral-fabric">
+                            <span itemprop="name">pink floral fabric</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Pink Floral Fabric for Stylish Projects</h1>
+                <p>Pink floral fabric is a vibrant and versatile material that adds a splash of color and charm to any project. Ideal for crafting, home décor, or fashion, its delightful patterns can brighten up curtains, dresses, and more. The softness and quality make it a favorite among DIY enthusiasts and designers alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Floral Fabric, 100% Cotton Poplin, Small Flowers Cotton Print,  Quilting Fabric, Sewing and Craft Fabric by Fat Quarter/Half Metre/Metre">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17202802/r/il/02aca8/3622716000/il_570xN.3622716000_jt5a.jpg' alt='Pink Floral Fabric, 100% Cotton Poplin, Small Flowers Cotton Print,  Quilting Fabric, Sewing and Craft Fabric by Fat Quarter/Half Metre/Metre'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="535">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17202802/r/il/02aca8/3622716000/il_570xN.3622716000_jt5a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content=""Pink Shabby Chic Watercolor Floral Fabric By The Yard"">
+                                <img itemprop="contentUrl url" src='https://highcottontextile.com/cdn/shop/files/pink-shabby-chic-watercolor-floral-fabric-by-the-yard-high-cotton-textile-flower-petal-pink-painting-peach-822_grande.jpg?v=1714821191' alt='"Pink Shabby Chic Watercolor Floral Fabric By The Yard"'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="High Cotton Textile" />
+                                </span>
+                                <a href='https://highcottontextile.com/cdn/shop/files/pink-shabby-chic-watercolor-floral-fabric-by-the-yard-high-cotton-textile-flower-petal-pink-painting-peach-822_grande.jpg?v=1714821191' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Soimoi Cotton Canvas Pink Fabric - by The Yard - 56 Inch Wide -  Leaves & Rose Floral Fabric - Nature-Inspired and Elegant Patterns for ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91l+UxW94PL.jpg' alt='Amazon.com: Soimoi Cotton Canvas Pink Fabric - by The Yard - 56 Inch Wide -  Leaves & Rose Floral Fabric - Nature-Inspired and Elegant Patterns for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2492">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91l+UxW94PL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Floral Fabric: 100% Cotton | Wholesale Floral Fabric">
+                                <img itemprop="contentUrl url" src='https://www.fabricfindersinc.com/wp-content/uploads/3207.jpg' alt='Pink Floral Fabric: 100% Cotton | Wholesale Floral Fabric'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="262">
+                                <meta itemprop="height" content="260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fabric Finders" />
+                                </span>
+                                <a href='https://www.fabricfindersinc.com/wp-content/uploads/3207.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Floral Prints Drapery and Upholstery Fabric by the Yard">
+                                <img itemprop="contentUrl url" src='https://cdn.kovifabrics.com/img/products/10910-03_Main.webp' alt='Pink Floral Prints Drapery and Upholstery Fabric by the Yard'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1010">
+                                <meta itemprop="height" content="1010">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KOVI Fabrics" />
+                                </span>
+                                <a href='https://cdn.kovifabrics.com/img/products/10910-03_Main.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blossomed Floral Printed Silk Chiffon - Shades of Pink / Periwinkle /  Antique Gold - Fabric by the Yard">
+                                <img itemprop="contentUrl url" src='https://fabrics-fabrics.com/cdn/shop/products/12948-1.jpg?v=1659031488' alt='Blossomed Floral Printed Silk Chiffon - Shades of Pink / Periwinkle /  Antique Gold - Fabric by the Yard'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fabrics & Fabrics" />
+                                </span>
+                                <a href='https://fabrics-fabrics.com/cdn/shop/products/12948-1.jpg?v=1659031488' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Scattered Floral Fabric 100% COTTON 60" WIDTH">
+                                <img itemprop="contentUrl url" src='https://oakleafshoppe.com/cdn/shop/products/pink-scattered-floral-fabric-100percent-cotton-60-width-oak-leaf-shoppe-2.jpg?v=1659582507&width=2400' alt='Pink Scattered Floral Fabric 100% COTTON 60" WIDTH'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1276">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oak Leaf Shoppe" />
+                                </span>
+                                <a href='https://oakleafshoppe.com/cdn/shop/products/pink-scattered-floral-fabric-100percent-cotton-60-width-oak-leaf-shoppe-2.jpg?v=1659582507&width=2400' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Notting Hill Pink Faded Floral Fabric - Michael Miller Fabrics">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/1918/9937/files/Notting-Hill-Pink-Faded-Floral-Fabric-Michael-Miller-Fabrics.jpg?v=1708712056' alt='Notting Hill Pink Faded Floral Fabric - Michael Miller Fabrics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="My Favorite Quilt Store" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/1918/9937/files/Notting-Hill-Pink-Faded-Floral-Fabric-Michael-Miller-Fabrics.jpg?v=1708712056' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Spoonflower Fabric - Pink Vintage Spring Floral ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71DIVoFo3vL.jpg' alt='Amazon.com: Spoonflower Fabric - Pink Vintage Spring Floral ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1442">
+                                <meta itemprop="height" content="949">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71DIVoFo3vL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple Dainty Floral Fabric - Pink">
+                                <img itemprop="contentUrl url" src='https://www.sewingpartsonline.com/cdn/shop/files/simple-dainty-floral-fabric-pink-403012.jpg?v=1719521877&width=750' alt='Simple Dainty Floral Fabric - Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sewing Parts Online" />
+                                </span>
+                                <a href='https://www.sewingpartsonline.com/cdn/shop/files/simple-dainty-floral-fabric-pink-403012.jpg?v=1719521877&width=750' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

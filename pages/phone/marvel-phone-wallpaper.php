@@ -1,0 +1,129 @@
+<title>Epic Marvel Phone Wallpapers for Every Fan</title>
+                    <meta name="description" content="Discover amazing Marvel phone wallpapers that bring your favorite superheroes to life! Perfect for fans of all ages, these high-quality images will personalize your device and make it truly yours. Download now and show off your Marvel pride on your smartphone!">
+                    <meta name="keywords" content="marvel phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/marvel-phone-wallpaper">
+                            <span itemprop="name">marvel phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Marvel Phone Wallpapers for Every Fan</h1>
+                <p>Transform your device with stunning Marvel phone wallpapers! Featuring iconic superheroes like Iron Man, Spider-Man, and Captain America, these vibrant images will elevate your mobile experience. Whether you’re a casual fan or a superhero enthusiast, there’s a perfect wallpaper for you. Get ready to showcase your love for Marvel!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marvel Minimalist Wallpapers (57 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/f/8/e/2175125-1280x2120-mobile-hd-marvel-minimalist-background-image.jpg' alt='Marvel Minimalist Wallpapers (57 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="2120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/f/8/e/2175125-1280x2120-mobile-hd-marvel-minimalist-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="marvel phone background | Marvel comics wallpaper, Marvel drawings ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2e/92/db/2e92db8bcb54b56e403f0c0ba1d4872f.jpg' alt='marvel phone background | Marvel comics wallpaper, Marvel drawings ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2e/92/db/2e92db8bcb54b56e403f0c0ba1d4872f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Marvel 4k Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/marvel-4k-phone-1pfc8c0b0utgpycd.jpg' alt='100+] Marvel 4k Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/marvel-4k-phone-1pfc8c0b0utgpycd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spider Man Art Marvel Phone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/spider-man-art-marvel-phone-22ywwht0wehjmokz.jpg' alt='Spider Man Art Marvel Phone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/spider-man-art-marvel-phone-22ywwht0wehjmokz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2012 Neon Avengers Full Res Phone Wallpapers! : r/marvelstudios">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/obszbfumqzj01.png?width=640&crop=smart&auto=webp&s=3b4c60f62af35c20bce50353304cd58a6a1a993e' alt='2012 Neon Avengers Full Res Phone Wallpapers! : r/marvelstudios'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/obszbfumqzj01.png?width=640&crop=smart&auto=webp&s=3b4c60f62af35c20bce50353304cd58a6a1a993e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some Ms. Marvel phone wallpapers! : r/MsMarvelShow">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/x56p173rhih91.jpg?width=640&crop=smart&auto=webp&s=ad70f6e94ad99636a5c40729515e415347f6f341' alt='Some Ms. Marvel phone wallpapers! : r/MsMarvelShow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/x56p173rhih91.jpg?width=640&crop=smart&auto=webp&s=ad70f6e94ad99636a5c40729515e415347f6f341' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marvel Heroes Wallpapers (43 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/f/2/5/55375-1080x2160-mobile-hd-marvel-heroes-wallpaper-image.jpg' alt='Marvel Heroes Wallpapers (43 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/f/2/5/55375-1080x2160-mobile-hd-marvel-heroes-wallpaper-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stunning Marvel Iphone Digital Artwork Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/stunning-marvel-iphone-digital-artwork-dxawqy9m3iqpqvsx.jpg' alt='Stunning Marvel Iphone Digital Artwork Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/stunning-marvel-iphone-digital-artwork-dxawqy9m3iqpqvsx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avengers Wallpaper | Marvel comics wallpaper, Marvel wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5f/35/93/5f35936f05dc37f6256f4249a58f7276.jpg' alt='Avengers Wallpaper | Marvel comics wallpaper, Marvel wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="676">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5f/35/93/5f35936f05dc37f6256f4249a58f7276.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300+] Marvel Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/marvel-phone-l5jlb3sxofvseqkf.jpg' alt='300+] Marvel Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/marvel-phone-l5jlb3sxofvseqkf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

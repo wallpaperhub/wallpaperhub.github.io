@@ -1,0 +1,129 @@
+<title>Aaron Jones: Dynamic Running Back for the Green Bay Packers</title>
+                    <meta name="description" content="Discover the exciting career of Aaron Jones, the Green Bay Packers running back known for his speed and agility. Explore his impressive stats, key plays, and impact on the game, making him a fan favorite and a rising star in the NFL.">
+                    <meta name="keywords" content="aaron jones">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/aaron-jones">
+                            <span itemprop="name">aaron jones</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aaron Jones: Dynamic Running Back for the Green Bay Packers</h1>
+                <p>Aaron Jones is a dynamic running back for the Green Bay Packers, known for his explosive speed and agility on the field. A key player in the NFL, he has consistently showcased his ability to score touchdowns and contribute significantly to his team's success. Fans adore his passion for the game and dedication to the sport.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aaron Jones (running back) - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/d/d9/Aaron_Jones_WFT_vs_Packers_OCT2021_%28cropped%29.jpg' alt='Aaron Jones (running back) - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2997">
+                                <meta itemprop="height" content="4492">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/d/d9/Aaron_Jones_WFT_vs_Packers_OCT2021_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aaron Jones - Minnesota Vikings Running Back - ESPN">
+                                <img itemprop="contentUrl url" src='https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3042519.png' alt='Aaron Jones - Minnesota Vikings Running Back - ESPN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ESPN" />
+                                </span>
+                                <a href='https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3042519.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A titanic shift in the NFL landscape as Kansas City Chiefs prep ...">
+                                <img itemprop="contentUrl url" src='https://motociclismo.pt/wp-content/uploads/2025/03/202503USATSI_25201678_168415193_lowres.jpg' alt='A titanic shift in the NFL landscape as Kansas City Chiefs prep ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2518">
+                                <meta itemprop="height" content="1804">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Motociclismo" />
+                                </span>
+                                <a href='https://motociclismo.pt/wp-content/uploads/2025/03/202503USATSI_25201678_168415193_lowres.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vikings fans can only smile after hearing what Aaron Jones ...">
+                                <img itemprop="contentUrl url" src='https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_414,w_8123,h_4569/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/GettyImages/mmsport/63/01jnkq05tkzqgp02s68e.jpg' alt='Vikings fans can only smile after hearing what Aaron Jones ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Viking Age" />
+                                </span>
+                                <a href='https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_414,w_8123,h_4569/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/GettyImages/mmsport/63/01jnkq05tkzqgp02s68e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pro Bowl RB Aaron Jones officially signs new deal with Packers">
+                                <img itemprop="contentUrl url" src='https://packerswire.usatoday.com/gcdn/authoring/images/smg/2025/02/23/SPAC/79851109007-57-56642.png?width=660&height=378&fit=crop&format=pjpg&auto=webp' alt='Pro Bowl RB Aaron Jones officially signs new deal with Packers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="378">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Packers Wire - USA Today" />
+                                </span>
+                                <a href='https://packerswire.usatoday.com/gcdn/authoring/images/smg/2025/02/23/SPAC/79851109007-57-56642.png?width=660&height=378&fit=crop&format=pjpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aaron Jones Sr.">
+                                <img itemprop="contentUrl url" src='https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/vikings/d3zjlzp2epidd81eoid8' alt='Aaron Jones Sr.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Minnesota Vikings" />
+                                </span>
+                                <a href='https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/vikings/d3zjlzp2epidd81eoid8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aaron Jones | Minnesota Vikings HB | NFL and PFF stats">
+                                <img itemprop="contentUrl url" src='https://media.pff.com/player-photos/nfl/11937.png' alt='Aaron Jones | Minnesota Vikings HB | NFL and PFF stats'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PFF" />
+                                </span>
+                                <a href='https://media.pff.com/player-photos/nfl/11937.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2025 NFL free agency mock draft: Sam Darnold to Giants, Aaron ...">
+                                <img itemprop="contentUrl url" src='https://sportshub.cbsistatic.com/i/r/2024/12/27/e4f10176-b76c-4689-8eaf-127818cd1e10/thumbnail/1200x675/edb5e871865ab51d6d6ef6ee8d418851/aaron-jones-vikings.jpg' alt='2025 NFL free agency mock draft: Sam Darnold to Giants, Aaron ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CBS Sports" />
+                                </span>
+                                <a href='https://sportshub.cbsistatic.com/i/r/2024/12/27/e4f10176-b76c-4689-8eaf-127818cd1e10/thumbnail/1200x675/edb5e871865ab51d6d6ef6ee8d418851/aaron-jones-vikings.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Vikings have big plans for an energized Aaron Jones. He feels ...">
+                                <img itemprop="contentUrl url" src='https://dims.apnews.com/dims4/default/2af2691/2147483647/strip/false/crop/6000x4000+0+0/resize/1486x991!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Feb%2Fab%2F6b30007707d21b4508bfae3bfba4%2F10d8fb8f8eb642ecb9f86f1ded6ec594' alt='The Vikings have big plans for an energized Aaron Jones. He feels ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1486">
+                                <meta itemprop="height" content="991">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AP News" />
+                                </span>
+                                <a href='https://dims.apnews.com/dims4/default/2af2691/2147483647/strip/false/crop/6000x4000+0+0/resize/1486x991!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Feb%2Fab%2F6b30007707d21b4508bfae3bfba4%2F10d8fb8f8eb642ecb9f86f1ded6ec594' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Packers' Aaron Jones scores three touchdowns in win over Panthers">
+                                <img itemprop="contentUrl url" src='https://www.sportsnet.ca/wp-content/uploads/2019/11/22125021.jpg' alt='Packers' Aaron Jones scores three touchdowns in win over Panthers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sportsnet" />
+                                </span>
+                                <a href='https://www.sportsnet.ca/wp-content/uploads/2019/11/22125021.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

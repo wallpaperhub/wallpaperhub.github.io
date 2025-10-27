@@ -1,0 +1,129 @@
+<title>Customizable Basic iPhone Wallpapers for Every Style</title>
+                    <meta name="description" content="Discover a collection of basic iPhone wallpapers that blend simplicity with style. Perfect for personalizing your device, these wallpapers are easy to download and fit seamlessly on your screen. Transform your iPhone experience with designs that match your vibe, enhancing your digital aesthetic effortlessly.">
+                    <meta name="keywords" content="basic iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/basic-iphone-wallpaper">
+                            <span itemprop="name">basic iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Customizable Basic iPhone Wallpapers for Every Style</h1>
+                <p>Basic iPhone wallpapers are essential for personalizing your device. They range from minimalist designs to vibrant patterns, enhancing your screen's aesthetic without overwhelming it. You can easily find and download a variety of styles to match your mood or interests, ensuring that your iPhone reflects your unique personality every time you unlock it.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sierra Blue iPhone 13 Wallpaper — Basic Apple Guy">
+                                <img itemprop="contentUrl url" src='https://basicappleguy.com/s/Sierra-Blue-iPhone-Light-BasicAppleGuy.png' alt='Sierra Blue iPhone 13 Wallpaper — Basic Apple Guy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1404">
+                                <meta itemprop="height" content="2943">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Basic Apple Guy" />
+                                </span>
+                                <a href='https://basicappleguy.com/s/Sierra-Blue-iPhone-Light-BasicAppleGuy.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="On Wallpapers. — Basic Apple Guy">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/4be34fed-d414-453e-9c6a-d0a12d6f92bb/iPhoneWallpapers1514.png' alt='On Wallpapers. — Basic Apple Guy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1514">
+                                <meta itemprop="height" content="1514">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Basic Apple Guy" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/4be34fed-d414-453e-9c6a-d0a12d6f92bb/iPhoneWallpapers1514.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Basic Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/colorful-basic-iphone-0y4x2t9b5wvxngg8.jpg' alt='Colorful Basic Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/colorful-basic-iphone-0y4x2t9b5wvxngg8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="250 Basic wallpaper ideas | wallpaper, iphone wallpaper, wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/c7/ae/9b/c7ae9b86a0fc868dd3d61d7585e2fec8.jpg' alt='250 Basic wallpaper ideas | wallpaper, iphone wallpaper, wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="235">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/c7/ae/9b/c7ae9b86a0fc868dd3d61d7585e2fec8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="  New IPhone Basic wallpapers">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/threads/DDBCmtjCV_j/1/image.jpg' alt='  New IPhone Basic wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="972">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Threads" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/threads/DDBCmtjCV_j/1/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="140 Basic backgrounds ideas | aesthetic iphone wallpaper, pretty ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/34/33/21/34332110d749b82574230deac43e8ccb.jpg' alt='140 Basic backgrounds ideas | aesthetic iphone wallpaper, pretty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/34/33/21/34332110d749b82574230deac43e8ccb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple Blue Mountains Basic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/simple-blue-mountains-basic-byawgvkzowj8xesb.webp' alt='Simple Blue Mountains Basic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/simple-blue-mountains-basic-byawgvkzowj8xesb.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="vt06-abstract-art-color-basic-background-pattern-wallpaper">
+                                <img itemprop="contentUrl url" src='https://papers.co/wallpaper/papers.co-vt06-abstract-art-color-basic-background-pattern-41-iphone-wallpaper.jpg' alt='vt06-abstract-art-color-basic-background-pattern-wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papers.co" />
+                                </span>
+                                <a href='https://papers.co/wallpaper/papers.co-vt06-abstract-art-color-basic-background-pattern-41-iphone-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple iPhone, Basic, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/14/361/HD-wallpaper-simple-iphone-basic.jpg' alt='Simple iPhone, Basic, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/14/361/HD-wallpaper-simple-iphone-basic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Titanium Gradient — Basic Apple Guy">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/c6f270b7-7d6d-49c9-ba82-439627b5b80f/TiGradient.png' alt='Titanium Gradient — Basic Apple Guy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1513">
+                                <meta itemprop="height" content="1513">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Basic Apple Guy" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5e949a92e17d55230cd1d44f/c6f270b7-7d6d-49c9-ba82-439627b5b80f/TiGradient.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

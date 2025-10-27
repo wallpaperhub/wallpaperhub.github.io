@@ -1,0 +1,129 @@
+<title>Elegant Minimalist Phone Wallpapers for a Simplified Aesthetic</title>
+                    <meta name="description" content="Explore stunning minimalist phone wallpapers that bring simplicity and elegance to your screen. Perfect for a clean look, these wallpapers enhance your device while keeping distractions at bay. Upgrade your phone's aesthetic with our curated collection of serene designs tailored for modern lifestyles.">
+                    <meta name="keywords" content="minimalist wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/minimalist-wallpaper-phone">
+                            <span itemprop="name">minimalist wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Minimalist Phone Wallpapers for a Simplified Aesthetic</h1>
+                <p>Discover the beauty of minimalist wallpaper for your phone, featuring sleek designs and calming color palettes. Perfect for those seeking simplicity and elegance, these wallpapers enhance your device without overwhelming it. Transform your phone background into a serene oasis that complements your lifestyle and personality.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MINIMALIST PHONE WALLPAPER 4K - Heroscreen | Free image stock ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9TI_MbCt8t38zc_RfW5OrX5SneqleVzBJDJjCl7X3vaGWCFRGm66cxvSCjZ4yJZYdP1jxaDLqv9so_zPRg6gzyXY51SvTQnML-RDFtrz74kfZO4EPtBvNCWQT0nsbUuwJtNav5Kl0O78k/w1600/02112021-MINIMALIST-JAPANESE-MOBILE-HD.png' alt='MINIMALIST PHONE WALLPAPER 4K - Heroscreen | Free image stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1205">
+                                <meta itemprop="height" content="2609">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9TI_MbCt8t38zc_RfW5OrX5SneqleVzBJDJjCl7X3vaGWCFRGm66cxvSCjZ4yJZYdP1jxaDLqv9so_zPRg6gzyXY51SvTQnML-RDFtrz74kfZO4EPtBvNCWQT0nsbUuwJtNav5Kl0O78k/w1600/02112021-MINIMALIST-JAPANESE-MOBILE-HD.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 AMAZING MINIMALIST PHONE WALLPAPERS - Heroscreen | Free image ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd74T5gRS8tmT3tGli0YwZE5M9TlZ8aAiXkxkGqXMo-iu8Ngoza8EH1d5PGKnKfXtjjWlMgye4OGHK2Lf632yXZ-WdCiqkQvuaC7Hiz61JQDj51kwrR7DpBTZ1Jt0SAELR4eq5EBGyE5Y/s640-rw/HEROSCREEN.jpg' alt='10 AMAZING MINIMALIST PHONE WALLPAPERS - Heroscreen | Free image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="375">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd74T5gRS8tmT3tGli0YwZE5M9TlZ8aAiXkxkGqXMo-iu8Ngoza8EH1d5PGKnKfXtjjWlMgye4OGHK2Lf632yXZ-WdCiqkQvuaC7Hiz61JQDj51kwrR7DpBTZ1Jt0SAELR4eq5EBGyE5Y/s640-rw/HEROSCREEN.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Great Wave Minimalist Black Phone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/great-wave-minimalist-black-phone-lpe03m7hwdu62zdg.jpg' alt='Great Wave Minimalist Black Phone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="422">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/great-wave-minimalist-black-phone-lpe03m7hwdu62zdg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Wallpaper Aesthetic Minimalist Feminine Images | Free ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjUzNWJhdGNoMi1teW50LTQzLmpwZw.jpg' alt='Iphone Wallpaper Aesthetic Minimalist Feminine Images | Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjUzNWJhdGNoMi1teW50LTQzLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalist Wallpaper (Phone, Geometric patterns) #26761">
+                                <img itemprop="contentUrl url" src='https://wallpapershome.com/images/wallpapers/minimalist-1440x2560-phone-wallpaper-abstract-art-26761.jpg' alt='Minimalist Wallpaper (Phone, Geometric patterns) #26761'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersHome" />
+                                </span>
+                                <a href='https://wallpapershome.com/images/wallpapers/minimalist-1440x2560-phone-wallpaper-abstract-art-26761.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="27 Minimalist Art Aesthetic Phone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3f/43/27/3f432759e048a4ea1a96881b2b7efc3d.jpg' alt='27 Minimalist Art Aesthetic Phone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3f/43/27/3f432759e048a4ea1a96881b2b7efc3d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalist Phone Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pastel-mountains-minimalist-phone-4m83a910ftfivsx9.jpg' alt='Minimalist Phone Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pastel-mountains-minimalist-phone-4m83a910ftfivsx9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone & Smartphone Wallpaper, Minimalist Aesthetic Wallpaper, Backgrounds,  Minimalist Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/39367109/r/il/845f01/4511904762/il_570xN.4511904762_5lvm.jpg' alt='iPhone & Smartphone Wallpaper, Minimalist Aesthetic Wallpaper, Backgrounds,  Minimalist Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1015">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/39367109/r/il/845f01/4511904762/il_570xN.4511904762_5lvm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minimalist P5 Phone Wallpaper. : r/Persona5">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/PQGHVHSpUWRCuDThUKKP9-cVy2XoSkVY45eZxiACtlQ.jpg?width=640&crop=smart&auto=webp&s=c7566f3ea1499df4fe322b4ce0d6c9f6131b709c' alt='Minimalist P5 Phone Wallpaper. : r/Persona5'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1191">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/PQGHVHSpUWRCuDThUKKP9-cVy2XoSkVY45eZxiACtlQ.jpg?width=640&crop=smart&auto=webp&s=c7566f3ea1499df4fe322b4ce0d6c9f6131b709c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant Minimalist Phone Wallpaper - free download">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/high/elegant-minimalist-phone-wallpaper.webp' alt='Elegant Minimalist Phone Wallpaper - free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="839">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/high/elegant-minimalist-phone-wallpaper.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

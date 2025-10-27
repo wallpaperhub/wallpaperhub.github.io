@@ -1,0 +1,129 @@
+<title>Stunning iPhone Wallpaper Inspiration for Every Style</title>
+                    <meta name="description" content="Explore a world of beautiful iPhone wallpaper inspiration to elevate your device! Discover unique designs, themes, and captivating visuals that match your personal style. Refresh your screen with stunning aesthetics that inspire creativity. Perfect wallpapers for everyone!">
+                    <meta name="keywords" content="wallpaper iphone inspiration">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/wallpaper-iphone-inspiration">
+                            <span itemprop="name">wallpaper iphone inspiration</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning iPhone Wallpaper Inspiration for Every Style</h1>
+                <p>Transform your iPhone with stunning wallpaper inspiration! From breathtaking landscapes to artistic designs, find the perfect aesthetic that resonates with your style. Elevate your device's look with high-quality images that spark joy and creativity every time you unlock your screen. Discover unique themes to inspire your vibe!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="85+ Best Free Motivational iPhone Wallpapers to Keep You Inspired ...">
+                                <img itemprop="contentUrl url" src='https://www.cassiescroggins.com/wp-content/uploads/2022/04/74.png' alt='85+ Best Free Motivational iPhone Wallpapers to Keep You Inspired ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cassie Scroggins" />
+                                </span>
+                                <a href='https://www.cassiescroggins.com/wp-content/uploads/2022/04/74.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="85+ Best Free Motivational iPhone Wallpapers to Keep You Inspired ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d5/bd/17/d5bd1722489ed06b49e36cc85bd8fbbb.jpg' alt='85+ Best Free Motivational iPhone Wallpapers to Keep You Inspired ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d5/bd/17/d5bd1722489ed06b49e36cc85bd8fbbb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inspirational Quote iPhone Wallpapers | High Resolution Mobile ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9zdGF0aWMvZmlsZXMvd2Vic2l0ZS8yMDIyLTEyL3JtNjA0ZGVzaWduLXF1b3RlLW1vYmxpZS0yOS5qcGc.jpg' alt='Inspirational Quote iPhone Wallpapers | High Resolution Mobile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9zdGF0aWMvZmlsZXMvd2Vic2l0ZS8yMDIyLTEyL3JtNjA0ZGVzaWduLXF1b3RlLW1vYmxpZS0yOS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Inspirational Wallpapers For Your Phone - Mash Elle">
+                                <img itemprop="contentUrl url" src='https://mash-elle.com/wp-content/uploads/2020/07/cursive-quote-cute-wallpaper.jpg' alt='New Inspirational Wallpapers For Your Phone - Mash Elle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="2420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mash Elle" />
+                                </span>
+                                <a href='https://mash-elle.com/wp-content/uploads/2020/07/cursive-quote-cute-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful and inspirational iPhone Wallpapers | by Kelly Phillips ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:450/0*qy9v2ZDDa0h2u3Dl.jpg' alt='Beautiful and inspirational iPhone Wallpapers | by Kelly Phillips ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:450/0*qy9v2ZDDa0h2u3Dl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Small Progress is Still Progress Inspirational iPhone Wallpaper, Cell Phone  Wallpaper, Phone Background, Mobile Phone Wallpaper - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18786549/r/il/8181e7/3214261641/il_1080xN.3214261641_i9ps.jpg' alt='Small Progress is Still Progress Inspirational iPhone Wallpaper, Cell Phone  Wallpaper, Phone Background, Mobile Phone Wallpaper - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2337">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18786549/r/il/8181e7/3214261641/il_1080xN.3214261641_i9ps.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="42+ Inspirational Wallpaper Quotes For iPhone |">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/16/3f/d4/163fd49a8b57c457db8314c346298842.jpg' alt='42+ Inspirational Wallpaper Quotes For iPhone |'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1003">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/16/3f/d4/163fd49a8b57c457db8314c346298842.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free custom motivational phone wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFDNgl0up8/1/0/900w/canva-pink-purple-modern-colorful-retro-inspirational-phone-wallpaper-03Wdjifcbao.jpg' alt='Free custom motivational phone wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFDNgl0up8/1/0/900w/canva-pink-purple-modern-colorful-retro-inspirational-phone-wallpaper-03Wdjifcbao.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60+ Best iPhone Motivational Wallpaper - World of Printables">
+                                <img itemprop="contentUrl url" src='https://worldofprintables.com/wp-content/uploads/2021/11/Inspirational-Aesthetic-Wallpapers.jpg' alt='60+ Best iPhone Motivational Wallpaper - World of Printables'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World of Printables" />
+                                </span>
+                                <a href='https://worldofprintables.com/wp-content/uploads/2021/11/Inspirational-Aesthetic-Wallpapers.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="22 Inspirational iPhone Wallpaper Quotes to Embrace">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/1b/44/32/1b4432f02662eaf7c694f0df380b1f6e.jpg' alt='22 Inspirational iPhone Wallpaper Quotes to Embrace'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/1b/44/32/1b4432f02662eaf7c694f0df380b1f6e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

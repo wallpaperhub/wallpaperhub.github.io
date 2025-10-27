@@ -1,0 +1,129 @@
+<title>Behind the Scenes with Hamilton's Dynamic Background Dancers</title>
+                    <meta name="description" content="Discover the incredible background dancers of Hamilton! Explore their roles, choreography, and how they enrich the musical experience. Get insights into their performances and contributions to this celebrated production. Perfect for fans and aspiring dancers alike!">
+                    <meta name="keywords" content="hamilton background dancers">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/hamilton-background-dancers">
+                            <span itemprop="name">hamilton background dancers</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Behind the Scenes with Hamilton's Dynamic Background Dancers</h1>
+                <p>Hamilton features a talented ensemble of background dancers who bring the narrative to life through intricate choreography and dynamic performance. Their skillful movements not only enhance the storytelling but also reflect the show's diverse cast. Each dancer plays a crucial role in setting the emotional tone, blending historical context with contemporary flair, captivating audiences worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hamilton's Dance Revolution">
+                                <img itemprop="contentUrl url" src='https://www.dancemagazine.com/wp-content/uploads/2021/10/hamiltons-dance-revolution-13.jpg' alt='Hamilton's Dance Revolution'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1245">
+                                <meta itemprop="height" content="701">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dance Magazine" />
+                                </span>
+                                <a href='https://www.dancemagazine.com/wp-content/uploads/2021/10/hamiltons-dance-revolution-13.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hamilton's Dance Revolution">
+                                <img itemprop="contentUrl url" src='https://dancemagazine.com/wp-content/uploads/2021/10/hamiltons-dance-revolution.jpg' alt='Hamilton's Dance Revolution'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="1135">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dance Magazine" />
+                                </span>
+                                <a href='https://dancemagazine.com/wp-content/uploads/2021/10/hamiltons-dance-revolution.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gotta Dance! HAMILTON Broadway Ensemble Dancers Photographed by Matthew  Murphy">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/XowAQMoBueA/sddefault.jpg' alt='Gotta Dance! HAMILTON Broadway Ensemble Dancers Photographed by Matthew  Murphy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/XowAQMoBueA/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hamilton's Dance Revolution">
+                                <img itemprop="contentUrl url" src='https://dancemagazine.com/wp-content/uploads/2021/10/hamiltons-dance-revolution-2.jpg' alt='Hamilton's Dance Revolution'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="1251">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dance Magazine" />
+                                </span>
+                                <a href='https://dancemagazine.com/wp-content/uploads/2021/10/hamiltons-dance-revolution-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inside the Choreographic Storytelling of 'Hamilton'">
+                                <img itemprop="contentUrl url" src='https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/40324/square_thumb%403x.jpg' alt='Inside the Choreographic Storytelling of 'Hamilton''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backstage" />
+                                </span>
+                                <a href='https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/40324/square_thumb%403x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hamilfilm's Here. These Are the Dance Moments We've Been Thinking ...">
+                                <img itemprop="contentUrl url" src='https://www.dancemagazine.com/wp-content/uploads/2021/10/hamilfilms-here-these-are-the-dance-moments-weve-b.jpg' alt='Hamilfilm's Here. These Are the Dance Moments We've Been Thinking ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dance Magazine" />
+                                </span>
+                                <a href='https://www.dancemagazine.com/wp-content/uploads/2021/10/hamilfilms-here-these-are-the-dance-moments-weve-b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Review: 'Hamilton,' Young Rebels Changing History and Theater ...">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2015/08/07/theater/07HAMILTON-slide-DR5R/07HAMILTON-slide-DR5R-videoSixteenByNine3000-v2.jpg?year=2015&h=1687&w=3000&s=eea6f68165d79e73669aa3766a7811167174d6403c527b4b66d15689582afb8c&k=ZQJBKqZ0VN&tw=1' alt='Review: 'Hamilton,' Young Rebels Changing History and Theater ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1687">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2015/08/07/theater/07HAMILTON-slide-DR5R/07HAMILTON-slide-DR5R-videoSixteenByNine3000-v2.jpg?year=2015&h=1687&w=3000&s=eea6f68165d79e73669aa3766a7811167174d6403c527b4b66d15689582afb8c&k=ZQJBKqZ0VN&tw=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/71/b9/e9/71b9e9c0f934ccdc36e3f40ac4be94ab.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="887">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/71/b9/e9/71b9e9c0f934ccdc36e3f40ac4be94ab.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MC Hamilton - The New York Times">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2015/03/08/books/review/08OPENBOOK/08OPENBOOK-facebookJumbo.jpg' alt='MC Hamilton - The New York Times'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1050">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2015/03/08/books/review/08OPENBOOK/08OPENBOOK-facebookJumbo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hamilton - "Issa pileup. Dance Magazine #Hamilfilm" #Repost Sasha ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3792967764063406' alt='Hamilton - "Issa pileup. Dance Magazine #Hamilfilm" #Repost Sasha ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3792967764063406' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

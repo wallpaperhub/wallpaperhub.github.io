@@ -1,0 +1,129 @@
+<title>Discovering Arthur Miller: Iconic American Playwright</title>
+                    <meta name="description" content="Explore the life and works of Arthur Miller, an iconic American playwright who transformed theater with his powerful narratives and keen social insights. Delve into his celebrated plays like "Death of a Salesman" and "The Crucible," and understand his impact on literature and culture.">
+                    <meta name="keywords" content="arthur miller">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/arthur-miller">
+                            <span itemprop="name">arthur miller</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discovering Arthur Miller: Iconic American Playwright</h1>
+                <p>Arthur Miller was a prominent American playwright known for his works exploring themes of morality, identity, and the American Dream. Born in 1915, his most celebrated plays include "Death of a Salesman" and "The Crucible," both acclaimed for their deep social commentary and rich character development. Miller's influence extends beyond theater, reflecting societal issues of his time.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arthur Miller - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/9/9e/Arthur_Miller_1966.jpg' alt='Arthur Miller - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1840">
+                                <meta itemprop="height" content="2336">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/9/9e/Arthur_Miller_1966.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arthur Miller | Biography, Plays, Books, The Crucible, Marilyn ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/69/91669-050-AD3D4FB9/Arthur-Miller.jpg' alt='Arthur Miller | Biography, Plays, Books, The Crucible, Marilyn ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1584">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/69/91669-050-AD3D4FB9/Arthur-Miller.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arthur Miller - Wikiquote">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/3/38/Arthur-miller.jpg' alt='Arthur Miller - Wikiquote'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="785">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikiquote" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/3/38/Arthur-miller.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why I Wrote “The Crucible” | The New Yorker">
+                                <img itemprop="contentUrl url" src='https://media.newyorker.com/photos/5c143565bcac9740eb03c608/4:3/w_2292,h_1719,c_limit/961021_ra603.jpg' alt='Why I Wrote “The Crucible” | The New Yorker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2292">
+                                <meta itemprop="height" content="1719">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New Yorker" />
+                                </span>
+                                <a href='https://media.newyorker.com/photos/5c143565bcac9740eb03c608/4:3/w_2292,h_1719,c_limit/961021_ra603.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marilyn Monroe and Arthur Miller Married at Westchester House ...">
+                                <img itemprop="contentUrl url" src='https://observer.com/wp-content/uploads/sites/2/2017/07/gettyimages-2629049.jpg?quality=80' alt='Marilyn Monroe and Arthur Miller Married at Westchester House ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2415">
+                                <meta itemprop="height" content="2379">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Observer" />
+                                </span>
+                                <a href='https://observer.com/wp-content/uploads/sites/2/2017/07/gettyimages-2629049.jpg?quality=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arthur Miller - Central Square Theater">
+                                <img itemprop="contentUrl url" src='https://www.centralsquaretheater.org/wp-content/uploads/2019/05/arthur-miller-9408335-1-402.jpg' alt='Arthur Miller - Central Square Theater'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Central Square Theater" />
+                                </span>
+                                <a href='https://www.centralsquaretheater.org/wp-content/uploads/2019/05/arthur-miller-9408335-1-402.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arthur Miller's First Play to Have London World Premiere">
+                                <img itemprop="contentUrl url" src='https://gdb.voanews.com/963d01f9-7d1a-4a08-839e-7298cebc4e5c_cx0_cy10_cw0_w408_r1_s.jpg' alt='Arthur Miller's First Play to Have London World Premiere'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="230">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VOA" />
+                                </span>
+                                <a href='https://gdb.voanews.com/963d01f9-7d1a-4a08-839e-7298cebc4e5c_cx0_cy10_cw0_w408_r1_s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arthur Miller's Missing Act | Vanity Fair">
+                                <img itemprop="contentUrl url" src='https://media.vanityfair.com/photos/59fc700ae4723425cb9736e8/master/w_2560%2Cc_limit/l-MAG-0907-Arthur-Miller.jpg' alt='Arthur Miller's Missing Act | Vanity Fair'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vanity Fair" />
+                                </span>
+                                <a href='https://media.vanityfair.com/photos/59fc700ae4723425cb9736e8/master/w_2560%2Cc_limit/l-MAG-0907-Arthur-Miller.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blonde - Official Trailer (Netflix)">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/american-actress-marilyn-monroe-with-her-husband-playwright-news-photo-1664488464.jpg' alt='Blonde - Official Trailer (Netflix)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4125">
+                                <meta itemprop="height" content="3431">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Women's Health" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/american-actress-marilyn-monroe-with-her-husband-playwright-news-photo-1664488464.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Divorce of Miller, Marilyn, and the Misfits | Intermountain ...">
+                                <img itemprop="contentUrl url" src='https://www.intermountainhistories.org/files/fullsize/599c62862b473332f849966482585c68.jpg' alt='The Divorce of Miller, Marilyn, and the Misfits | Intermountain ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="504">
+                                <meta itemprop="height" content="669">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Intermountain Histories" />
+                                </span>
+                                <a href='https://www.intermountainhistories.org/files/fullsize/599c62862b473332f849966482585c68.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

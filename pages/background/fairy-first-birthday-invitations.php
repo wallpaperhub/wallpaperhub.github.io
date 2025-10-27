@@ -1,0 +1,129 @@
+<title>Enchanting Fairy First Birthday Invitations</title>
+                    <meta name="description" content="Discover delightful fairy first birthday invitations that spark joy and imagination! Perfect for inviting loved ones to celebrate your little one's special day in style. Explore a variety of charming designs that promise a magical experience for guests.">
+                    <meta name="keywords" content="fairy first birthday invitations">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fairy-first-birthday-invitations">
+                            <span itemprop="name">fairy first birthday invitations</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enchanting Fairy First Birthday Invitations</h1>
+                <p>Celebrate your little fairy's first birthday with enchanting invitations! Delight friends and family with whimsical designs featuring magical fairies, vibrant colors, and charming illustrations. Add personalized touches to invite loved ones to a fairy-tale celebration filled with joy, laughter, and unforgettable memories.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Editable Fairy First Birthday Invitation Fairy Garden Birthday ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18289653/r/il/9959f9/3641659337/il_fullxfull.3641659337_lvdg.jpg' alt='Editable Fairy First Birthday Invitation Fairy Garden Birthday ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18289653/r/il/9959f9/3641659337/il_fullxfull.3641659337_lvdg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fairy First Birthday Invitation | Editable Enchanted Pixie Fairy ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/14334896/r/il/203bf5/4851483973/il_fullxfull.4851483973_onej.jpg' alt='Fairy First Birthday Invitation | Editable Enchanted Pixie Fairy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2023">
+                                <meta itemprop="height" content="1998">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/14334896/r/il/203bf5/4851483973/il_fullxfull.4851483973_onej.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Editable Pink Fairy 1st Birthday Invitation Template">
+                                <img itemprop="contentUrl url" src='https://littlefolkprintables.com/cdn/shop/files/preview2_15f03474-0b86-4f4d-af61-46165c7b2025_2048x.jpg?v=1721234175' alt='Editable Pink Fairy 1st Birthday Invitation Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Little Folk Printables" />
+                                </span>
+                                <a href='https://littlefolkprintables.com/cdn/shop/files/preview2_15f03474-0b86-4f4d-af61-46165c7b2025_2048x.jpg?v=1721234175' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fairy Multi | Printable First Birthday Invitation Template – Black ...">
+                                <img itemprop="contentUrl url" src='http://www.blackbowstudio.com/cdn/shop/files/FirstBirthdayInvitation_FairyMulti_6.jpg?v=1699334912' alt='Fairy Multi | Printable First Birthday Invitation Template – Black ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4132">
+                                <meta itemprop="height" content="4461">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Black Bow Studio" />
+                                </span>
+                                <a href='http://www.blackbowstudio.com/cdn/shop/files/FirstBirthdayInvitation_FairyMulti_6.jpg?v=1699334912' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Editable Fairy First Birthday Invitation Fairy Garden Birthday ...">
+                                <img itemprop="contentUrl url" src='https://www.designmypartystudio.com/cdn/shop/files/il_fullxfull.3662330724_133f_1600x.jpg?v=1732934401' alt='Editable Fairy First Birthday Invitation Fairy Garden Birthday ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Design My Party Studio" />
+                                </span>
+                                <a href='https://www.designmypartystudio.com/cdn/shop/files/il_fullxfull.3662330724_133f_1600x.jpg?v=1732934401' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fairy First Birthday Invitation, Fairy Magic One Birthday ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/31528178/r/il/f0f053/5038833100/il_fullxfull.5038833100_qgaa.jpg' alt='Fairy First Birthday Invitation, Fairy Magic One Birthday ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/31528178/r/il/f0f053/5038833100/il_fullxfull.5038833100_qgaa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fairy First Birthday Invitations, Pink Floral Gold Glitter">
+                                <img itemprop="contentUrl url" src='https://cupcakemakeover.com/wp-content/uploads/2017/06/Fairy-First-Birthday-Invitations-Pink-Floral-Garden-Gold-Glitter-1.png' alt='Fairy First Birthday Invitations, Pink Floral Gold Glitter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cupcakemakeover" />
+                                </span>
+                                <a href='https://cupcakemakeover.com/wp-content/uploads/2017/06/Fairy-First-Birthday-Invitations-Pink-Floral-Garden-Gold-Glitter-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : AEHIE 20 Sets Fairy First Birthday Invitations With  Envelopes,Enchanted Purple Magical Mushroom Double-sided Printed Birthday  Party ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71TTHbnimzL.jpg' alt='Amazon.com : AEHIE 20 Sets Fairy First Birthday Invitations With  Envelopes,Enchanted Purple Magical Mushroom Double-sided Printed Birthday  Party ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1712">
+                                <meta itemprop="height" content="1712">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71TTHbnimzL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fairy First Birthday Invitation Editable Fairy 1st Birthday ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d9/c1/b0/d9c1b0c6204b382fb6e3148df07825ec.jpg' alt='Fairy First Birthday Invitation Editable Fairy 1st Birthday ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d9/c1/b0/d9c1b0c6204b382fb6e3148df07825ec.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fairy First Birthday Forest Watercolor Mushroom Invitation">
+                                <img itemprop="contentUrl url" src='https://rlv.zcache.com/fairy_first_birthday_forest_watercolor_mushroom_invitation-r_vc12pj_200.webp' alt='Fairy First Birthday Forest Watercolor Mushroom Invitation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zazzle" />
+                                </span>
+                                <a href='https://rlv.zcache.com/fairy_first_birthday_forest_watercolor_mushroom_invitation-r_vc12pj_200.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

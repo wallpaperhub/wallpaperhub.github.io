@@ -1,0 +1,129 @@
+<title>Cool Harry Potter Wallpapers: Enchant Your Screen</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="cool harry potter wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cool-harry-potter-wallpaper">
+                            <span itemprop="name">cool harry potter wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cool Harry Potter Wallpapers: Enchant Your Screen</h1>
+                <p>Harry Potter fans, elevate your space with stunning Harry Potter wallpapers! Whether you prefer the enchanting Hogwarts castle, magical creatures, or your favorite characters, there's a perfect design for everyone. Transform your phone or computer screen into a gateway to the wizarding world with cool and vibrant designs!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hogwarts - Dark Path Phone Wallpaper : r/HarryPotterGame">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/hogwarts-dark-path-phone-wallpaper-v0-kn4oosuklzj91.jpg?width=640&crop=smart&auto=webp&s=6375f2176c43579724a845e6dd5cd15b748bacb1' alt='Hogwarts - Dark Path Phone Wallpaper : r/HarryPotterGame'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/hogwarts-dark-path-phone-wallpaper-v0-kn4oosuklzj91.jpg?width=640&crop=smart&auto=webp&s=6375f2176c43579724a845e6dd5cd15b748bacb1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="500+] Harry Potter Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/harry-potter-gi5aixvd4d26cpij.jpg' alt='500+] Harry Potter Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/harry-potter-gi5aixvd4d26cpij.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Harry Potter Tablet Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ab/db/0b/abdb0bebc51e89ac697f3300670f4a01.jpg' alt='Awesome Harry Potter Tablet Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ab/db/0b/abdb0bebc51e89ac697f3300670f4a01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some wallpapers : r/harrypotter">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/8hcv5ouhdaq51.jpg?width=640&crop=smart&auto=webp&s=ccc124dd3a6144c40c52ef258ceadc5e762c8d1e' alt='Some wallpapers : r/harrypotter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/8hcv5ouhdaq51.jpg?width=640&crop=smart&auto=webp&s=ccc124dd3a6144c40c52ef258ceadc5e762c8d1e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Harry Potter Tablet Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/98/8e/2b/988e2b3fd344c2f07efb5d432731a4ea.jpg' alt='Awesome Harry Potter Tablet Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1127">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/98/8e/2b/988e2b3fd344c2f07efb5d432731a4ea.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter Wallpaper Digital Design | #11 by sefabaris713 on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/23fc4f21-5b9a-4e9a-a553-05b3e5323cc4/de5yl8r-95dbf102-aa3c-4d2a-a57b-f21793517849.jpg/v1/fill/w_1280,h_618,q_75,strp/harry_potter_wallpaper_digital_design____11_by_sefabaris713_de5yl8r-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjE4IiwicGF0aCI6IlwvZlwvMjNmYzRmMjEtNWI5YS00ZTlhLWE1NTMtMDViM2U1MzIzY2M0XC9kZTV5bDhyLTk1ZGJmMTAyLWFhM2MtNGQyYS1hNTdiLWYyMTc5MzUxNzg0OS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.VeGqto9Ex_7levb9CQjeAhXxcshkNJPlxEWgHa1UwJ0' alt='Harry Potter Wallpaper Digital Design | #11 by sefabaris713 on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="618">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/23fc4f21-5b9a-4e9a-a553-05b3e5323cc4/de5yl8r-95dbf102-aa3c-4d2a-a57b-f21793517849.jpg/v1/fill/w_1280,h_618,q_75,strp/harry_potter_wallpaper_digital_design____11_by_sefabaris713_de5yl8r-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjE4IiwicGF0aCI6IlwvZlwvMjNmYzRmMjEtNWI5YS00ZTlhLWE1NTMtMDViM2U1MzIzY2M0XC9kZTV5bDhyLTk1ZGJmMTAyLWFhM2MtNGQyYS1hNTdiLWYyMTc5MzUxNzg0OS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.VeGqto9Ex_7levb9CQjeAhXxcshkNJPlxEWgHa1UwJ0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="90 Harry Potter Lockscreen ideas | harry potter, potter, harry ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f5/71/a6/f571a6915e66c362b8972d6fcd47b597.jpg' alt='90 Harry Potter Lockscreen ideas | harry potter, potter, harry ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f5/71/a6/f571a6915e66c362b8972d6fcd47b597.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Amazing Harry Potter Wallpapers - Add Magic to Your Phone">
+                                <img itemprop="contentUrl url" src='https://www.greenthemood.com/wp-content/uploads/2025/01/harry-potter-phone-wallpapers.jpg' alt='30 Amazing Harry Potter Wallpapers - Add Magic to Your Phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Green The Mood - Lifestyle, Fashion, Beauty, Plants, Healthy life ..." />
+                                </span>
+                                <a href='https://www.greenthemood.com/wp-content/uploads/2025/01/harry-potter-phone-wallpapers.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Harry Potter Forest Art Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/cool-harry-potter-forest-art-gtnnqqy9hujzsb7q.jpg' alt='Cool Harry Potter Forest Art Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/cool-harry-potter-forest-art-gtnnqqy9hujzsb7q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] The Hogwarts Houses Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/the-hogwarts-houses-1165-x-900-wallpaper-kgxqoojmhys33ll0.jpg' alt='100+] The Hogwarts Houses Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1165">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/the-hogwarts-houses-1165-x-900-wallpaper-kgxqoojmhys33ll0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Fortnite Snow Backgrounds for Epic Winter Adventures</title>
+                    <meta name="description" content="Discover breathtaking Fortnite snow backgrounds that enhance your gameplay! Dive into a winter wonderland filled with icy landscapes, thrilling challenges, and endless fun. Perfect for gamers seeking a frosty aesthetic to elevate their gaming experience. Embrace the snow and conquer the seasons!">
+                    <meta name="keywords" content="fortnite snow background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fortnite-snow-background">
+                            <span itemprop="name">fortnite snow background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Fortnite Snow Backgrounds for Epic Winter Adventures</h1>
+                <p>Experience the magic of Fortnite's snow background, where winter's enchanting beauty transforms the gaming landscape! Feel the chill as you explore frosty terrains, engage in thrilling battles, and uncover hidden treasures beneath the sparkling snow. Join your friends in this winter wonderland and conquer the cold!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Winterfest Lobby Background! : r/FortNiteBR">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ymxr1dvssx581.jpg' alt='New Winterfest Lobby Background! : r/FortNiteBR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ymxr1dvssx581.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Snow Wallpaper V1 by ChaseRosenthal on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1dd9f05f-1643-40d8-b0bd-7617a1771985/dh440u5-f4f447ed-84da-4c60-b4bb-a9082d019c59.png/v1/fill/w_1280,h_540,q_80,strp/fortnite_snow_wallpaper_v1_by_chaserosenthal_dh440u5-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTQwIiwicGF0aCI6IlwvZlwvMWRkOWYwNWYtMTY0My00MGQ4LWIwYmQtNzYxN2ExNzcxOTg1XC9kaDQ0MHU1LWY0ZjQ0N2VkLTg0ZGEtNGM2MC1iNGJiLWE5MDgyZDAxOWM1OS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.0qZUF4NDagCCmwDmyooAIj946QMKIKKwa4xOo3bRTJY' alt='Fortnite Snow Wallpaper V1 by ChaseRosenthal on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1dd9f05f-1643-40d8-b0bd-7617a1771985/dh440u5-f4f447ed-84da-4c60-b4bb-a9082d019c59.png/v1/fill/w_1280,h_540,q_80,strp/fortnite_snow_wallpaper_v1_by_chaserosenthal_dh440u5-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTQwIiwicGF0aCI6IlwvZlwvMWRkOWYwNWYtMTY0My00MGQ4LWIwYmQtNzYxN2ExNzcxOTg1XC9kaDQ0MHU1LWY0ZjQ0N2VkLTg0ZGEtNGM2MC1iNGJiLWE5MDgyZDAxOWM1OS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.0qZUF4NDagCCmwDmyooAIj946QMKIKKwa4xOo3bRTJY' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Winter Creator Callouts 2021">
+                                <img itemprop="contentUrl url" src='https://cdn2.unrealengine.com/Fortnite%2Fblog%2Fwinterfest-2019-begins%2F11BR_WinterFest_Social_Cabin_Exterior_News_Featured-1920x1080-73fdaddc4159bda470b131bf5d09d903da26624b.jpg' alt='Fortnite Winter Creator Callouts 2021'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fortnite" />
+                                </span>
+                                <a href='https://cdn2.unrealengine.com/Fortnite%2Fblog%2Fwinterfest-2019-begins%2F11BR_WinterFest_Social_Cabin_Exterior_News_Featured-1920x1080-73fdaddc4159bda470b131bf5d09d903da26624b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Snow Wallpaper V2 by ChaseRosenthal on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1dd9f05f-1643-40d8-b0bd-7617a1771985/dh440x0-0ada15aa-78da-4f5e-8283-0223217f7760.png/v1/fill/w_1280,h_540,q_80,strp/fortnite_snow_wallpaper_v2_by_chaserosenthal_dh440x0-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTQwIiwicGF0aCI6IlwvZlwvMWRkOWYwNWYtMTY0My00MGQ4LWIwYmQtNzYxN2ExNzcxOTg1XC9kaDQ0MHgwLTBhZGExNWFhLTc4ZGEtNGY1ZS04MjgzLTAyMjMyMTdmNzc2MC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.30Vbqj0kRa-33yoeDyXzQPtX0pKBxRPO53Oa-Nlnqyo' alt='Fortnite Snow Wallpaper V2 by ChaseRosenthal on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1dd9f05f-1643-40d8-b0bd-7617a1771985/dh440x0-0ada15aa-78da-4f5e-8283-0223217f7760.png/v1/fill/w_1280,h_540,q_80,strp/fortnite_snow_wallpaper_v2_by_chaserosenthal_dh440x0-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTQwIiwicGF0aCI6IlwvZlwvMWRkOWYwNWYtMTY0My00MGQ4LWIwYmQtNzYxN2ExNzcxOTg1XC9kaDQ0MHgwLTBhZGExNWFhLTc4ZGEtNGY1ZS04MjgzLTAyMjMyMTdmNzc2MC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.30Vbqj0kRa-33yoeDyXzQPtX0pKBxRPO53Oa-Nlnqyo' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Operation Snowdown Starts Now in Fortnite: Unlock Free Outfits ...">
+                                <img itemprop="contentUrl url" src='https://cdn2.unrealengine.com/15br-snowdown-keyart-newsheader-1920x1080-8450034aaee0.jpg' alt='Operation Snowdown Starts Now in Fortnite: Unlock Free Outfits ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fortnite" />
+                                </span>
+                                <a href='https://cdn2.unrealengine.com/15br-snowdown-keyart-newsheader-1920x1080-8450034aaee0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter/Winterfest Lobby and Panel backgrounds have been readded ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/0uae39os6u261.png' alt='Winter/Winterfest Lobby and Panel backgrounds have been readded ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/0uae39os6u261.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FNAssist on X: "#Fortnite Lobby Background update: - Chapter 4 ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/Fj3kN_5XoAAlPTU?format=jpg&name=4096x4096' alt='FNAssist on X: "#Fortnite Lobby Background update: - Chapter 4 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4096">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/Fj3kN_5XoAAlPTU?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heavy on Fortnite - Take a look at the Fortnite Winter lobby ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=242785354065805' alt='Heavy on Fortnite - Take a look at the Fortnite Winter lobby ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=242785354065805' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple winter screenshot I took. Looks good as screensaver so I ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/i3snc7ndoag61.jpg' alt='Simple winter screenshot I took. Looks good as screensaver so I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/i3snc7ndoag61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Winterfest 2022: Presents, free skins, and snowballs | PC ...">
+                                <img itemprop="contentUrl url" src='https://cdn.mos.cms.futurecdn.net/pUK2MwEUWQGUfSpZ2vF8MA.jpg' alt='Fortnite Winterfest 2022: Presents, free skins, and snowballs | PC ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PC Gamer" />
+                                </span>
+                                <a href='https://cdn.mos.cms.futurecdn.net/pUK2MwEUWQGUfSpZ2vF8MA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

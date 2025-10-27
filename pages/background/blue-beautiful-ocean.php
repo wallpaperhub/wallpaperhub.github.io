@@ -1,0 +1,129 @@
+<title>"The Enchanting Beauty of the Blue Ocean"</title>
+                    <meta name="description" content="Discover the mesmerizing beauty of the blue ocean. Immerse yourself in its vibrant hues and tranquil waves. Explore marine life and find your perfect escape in this stunning aquatic paradise. Join us on a journey to celebrate the ocean's enchanting allure!">
+                    <meta name="keywords" content="blue beautiful ocean">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blue-beautiful-ocean">
+                            <span itemprop="name">blue beautiful ocean</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"The Enchanting Beauty of the Blue Ocean"</h1>
+                <p>The blue beautiful ocean captivates with its endless hues, shimmering under the sun's warm embrace. Waves gently caress the shore, creating a symphony of soothing sounds. Marine life thrives beneath the surface, showcasing vibrant coral reefs and diverse creatures. The ocean is a tranquil escape, inviting us to explore its breathtaking beauty.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pretty water.">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/ee/d2/46/eed2462d757eab36c557c77f5f3aafd1.jpg' alt='Pretty water.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/ee/d2/46/eed2462d757eab36c557c77f5f3aafd1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="90x60CM BEAUTIFUL BLUE WAVE BREAKING SUN TUBE SEA SURF BEACH WALL PRINT  POSTER">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/0gcAAOSwdmpZ4F83/s-l1200.jpg' alt='90x60CM BEAUTIFUL BLUE WAVE BREAKING SUN TUBE SEA SURF BEACH WALL PRINT  POSTER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="833">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/0gcAAOSwdmpZ4F83/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful blue sea beach by Anna Om">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/beautiful-blue-sea-beach-anna-omelchenko.jpg' alt='Beautiful blue sea beach by Anna Om'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="599">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anna Om - Pixels" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/beautiful-blue-sea-beach-anna-omelchenko.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="underwater background deep blue sea and beautiful light rays with ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/02/52/66/16/1000_F_252661691_bKML6FavTjna7p9SQ2EPfFVcqh8cqy2H.jpg' alt='underwater background deep blue sea and beautiful light rays with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/02/52/66/16/1000_F_252661691_bKML6FavTjna7p9SQ2EPfFVcqh8cqy2H.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 Beautiful Blue Ocean ideas | ocean, blue ocean, beautiful places">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/10/7a/c1/107ac150860b56106c7f2d9124dd110e.jpg' alt='20 Beautiful Blue Ocean ideas | ocean, blue ocean, beautiful places'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="314">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/10/7a/c1/107ac150860b56106c7f2d9124dd110e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The water is so crystal clear....so beautiful!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/27/83/9b/27839be33ff44047526a75728d0fb20b.jpg' alt='The water is so crystal clear....so beautiful!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="566">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/27/83/9b/27839be33ff44047526a75728d0fb20b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Sky And Blue Ocean Stock Photo - Download Image Now ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/177682730/photo/beautiful-sky-and-blue-ocean.jpg?s=612x612&w=0&k=20&c=uLR1qyaHmkfOsfvlcjpBF86MYGksgID2xYm28kIVL5A=' alt='Beautiful Sky And Blue Ocean Stock Photo - Download Image Now ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/177682730/photo/beautiful-sky-and-blue-ocean.jpg?s=612x612&w=0&k=20&c=uLR1qyaHmkfOsfvlcjpBF86MYGksgID2xYm28kIVL5A=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Calm: The Most Beautiful Waters in The World">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/vWZcB5MPTjo/maxresdefault.jpg' alt='Blue Calm: The Most Beautiful Waters in The World'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/vWZcB5MPTjo/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Blue Ocean Sunset And Waves | Great Big Canvas">
+                                <img itemprop="contentUrl url" src='https://static.greatbigcanvas.com/images/singlecanvas_thick_none/eszra-tanner/beautiful-blue-ocean-sunset-and-waves,2528453.jpg?max=800' alt='Beautiful Blue Ocean Sunset And Waves | Great Big Canvas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Great Big Canvas" />
+                                </span>
+                                <a href='https://static.greatbigcanvas.com/images/singlecanvas_thick_none/eszra-tanner/beautiful-blue-ocean-sunset-and-waves,2528453.jpg?max=800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Blue Ocean Wave Poster Print (8 x 10) - Item # MINDPI12291856">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-yzgoj/images/stencil/1280x1280/products/1439880/4908660/DPI12291856__15831.1542187760.jpg?c=2' alt='Beautiful Blue Ocean Wave Poster Print (8 x 10) - Item # MINDPI12291856'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="854">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Posterazzi" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-yzgoj/images/stencil/1280x1280/products/1439880/4908660/DPI12291856__15831.1542187760.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

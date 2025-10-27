@@ -1,0 +1,129 @@
+<title>Cute Halloween Wallpapers: Spooky & Sweet!</title>
+                    <meta name="description" content="Discover our collection of cute Halloween wallpapers that blend spooky fun with adorable designs. Perfect for decorating your devices, these wallpapers feature charming ghosts, pumpkins, and witches. Celebrate the season with style and joy! Download your favorites now!">
+                    <meta name="keywords" content="cute:exodha1rwac= wallpaper:6emsj3889ts= halloween">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cuteexodha1rwac-wallpaper6emsj3889ts-halloween">
+                            <span itemprop="name">cute:exodha1rwac= wallpaper:6emsj3889ts= halloween</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cute Halloween Wallpapers: Spooky & Sweet!</h1>
+                <p>Get ready for Halloween with our adorable collection of cute wallpapers! Embrace the spooky season with charming images that feature friendly ghosts, playful pumpkins, and sweet witches. These wallpapers are perfect for adding a festive touch to your devices while keeping things fun and light-hearted this October!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute kawaii happy halloween trick or treat wallpaper background ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/cute-kawaii-happy-halloween-trick-treat-wallpaper-background-with-white-space_733271-1748.jpg' alt='Cute kawaii happy halloween trick or treat wallpaper background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="351">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/cute-kawaii-happy-halloween-trick-treat-wallpaper-background-with-white-space_733271-1748.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute kawaii happy halloween trick or treat wallpaper background ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/cute-kawaii-happy-halloween-trick-treat-wallpaper-background-with-white-space_733271-1735.jpg' alt='Cute kawaii happy halloween trick or treat wallpaper background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="351">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/cute-kawaii-happy-halloween-trick-treat-wallpaper-background-with-white-space_733271-1735.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Wallpaper – Cute Halloween Wallpapers To Embrace The ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/80/d8/62/80d862a1269c825f9e1f4ecf219dbeb2.jpg' alt='Halloween Wallpaper – Cute Halloween Wallpapers To Embrace The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="513">
+                                <meta itemprop="height" content="908">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/80/d8/62/80d862a1269c825f9e1f4ecf219dbeb2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute kawaii happy halloween trick or treat wallpaper background ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/cute-kawaii-happy-halloween-trick-treat-wallpaper-background-with-white-space_733271-1704.jpg' alt='Cute kawaii happy halloween trick or treat wallpaper background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="351">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/cute-kawaii-happy-halloween-trick-treat-wallpaper-background-with-white-space_733271-1704.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HALLOWEEN IS COMING.....       , a …" — image created in Shedevrum">
+                                <img itemprop="contentUrl url" src='https://masterpiecer-images.s3.yandex.net/b60e21c2761b11ee9986baea8797b5f2:upscaled' alt='HALLOWEEN IS COMING.....       , a …" — image created in Shedevrum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="shedevrum.ai" />
+                                </span>
+                                <a href='https://masterpiecer-images.s3.yandex.net/b60e21c2761b11ee9986baea8797b5f2:upscaled' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute kawaii happy halloween trick or treat wallpaper background ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/cute-kawaii-happy-halloween-trick-treat-wallpaper-background-with-white-space_733271-1709.jpg' alt='Cute kawaii happy halloween trick or treat wallpaper background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="351">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/cute-kawaii-happy-halloween-trick-treat-wallpaper-background-with-white-space_733271-1709.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900+ Halloween Wallpapers!! ideas in 2025 | halloween ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bc/b7/be/bcb7bee0f6e8a69a8b7f833c3ed47bf1.jpg' alt='900+ Halloween Wallpapers!! ideas in 2025 | halloween ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="415">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bc/b7/be/bcb7bee0f6e8a69a8b7f833c3ed47bf1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute kawaii happy halloween trick or treat wallpaper background ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/cute-kawaii-happy-halloween-trick-treat-wallpaper-background-with-white-space_733271-1714.jpg' alt='Cute kawaii happy halloween trick or treat wallpaper background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="351">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/cute-kawaii-happy-halloween-trick-treat-wallpaper-background-with-white-space_733271-1714.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazing Cute Ghost surrounded by illuminated evil pumpkins, with a ...">
+                                <img itemprop="contentUrl url" src='https://asset.gecdesigns.com/img/wallpapers/amazing-cute-ghost-surrounded-by-illuminated-evil-pumpkins-with-a-halloween-background-sr28102416-cover.webp' alt='Amazing Cute Ghost surrounded by illuminated evil pumpkins, with a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GEC Designs" />
+                                </span>
+                                <a href='https://asset.gecdesigns.com/img/wallpapers/amazing-cute-ghost-surrounded-by-illuminated-evil-pumpkins-with-a-halloween-background-sr28102416-cover.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900+ Halloween Wallpapers ideas | halloween wallpaper, halloween ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/65/cf/89/65cf899e70e4713cf8e44f5928e329ac.jpg' alt='900+ Halloween Wallpapers ideas | halloween wallpaper, halloween ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="492">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/65/cf/89/65cf899e70e4713cf8e44f5928e329ac.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

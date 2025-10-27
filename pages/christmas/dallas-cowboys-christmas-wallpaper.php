@@ -1,0 +1,129 @@
+<title>Dallas Cowboys Christmas Wallpaper: Festive & Cheerful Designs</title>
+                    <meta name="description" content="Discover the perfect Dallas Cowboys Christmas wallpaper to elevate your holiday decor! Our festive designs showcase team spirit and style, making your home feel extra special this season. Ideal for fans looking to celebrate in style—download now for a jolly touch this Christmas!">
+                    <meta name="keywords" content="dallas cowboys christmas wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/dallas-cowboys-christmas-wallpaper">
+                            <span itemprop="name">dallas cowboys christmas wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dallas Cowboys Christmas Wallpaper: Festive & Cheerful Designs</h1>
+                <p>Transform your holiday season with stunning Dallas Cowboys Christmas wallpaper! Celebrate your love for the team while decking the halls. These vibrant and festive designs will bring cheer to your space, making it perfect for game day gatherings or cozy winter nights. Show off your team spirit this Christmas!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="69 Cowboys Christmas ideas | cowboy christmas, cowboys, dallas ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/3a/94/37/3a943707f68a914c0a366d317da983f2.jpg' alt='69 Cowboys Christmas ideas | cowboy christmas, cowboys, dallas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="236">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/3a/94/37/3a943707f68a914c0a366d317da983f2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50+ Dallas Cowboys Merry Christmas Wallpaper Free Download 2023 ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/77/d7/80/77d7802ae7bcc61394edaeb9c6e8c760.jpg' alt='50+ Dallas Cowboys Merry Christmas Wallpaper Free Download 2023 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/77/d7/80/77d7802ae7bcc61394edaeb9c6e8c760.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/86/d5/0d/86d50d2b5ad9828bebbdaa7d44a102d6.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1029">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/86/d5/0d/86d50d2b5ad9828bebbdaa7d44a102d6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dallas Cowboys Wallpapers Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d4/00/d5/d400d5978b32bb4ae2430ab5572da517.jpg' alt='Dallas Cowboys Wallpapers Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="465">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d4/00/d5/d400d5978b32bb4ae2430ab5572da517.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cowboys xmas">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fc/98/3e/fc983e182915b66a28dfea2f7bef1691.jpg' alt='Cowboys xmas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="580">
+                                <meta itemprop="height" content="798">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fc/98/3e/fc983e182915b66a28dfea2f7bef1691.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Merry Christmas">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e4/de/48/e4de48d9dd95dd7d8059a8414c674331.jpg' alt='Merry Christmas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e4/de/48/e4de48d9dd95dd7d8059a8414c674331.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dallas cowboys Christmas card">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0e/b0/89/0eb089b269a88d8344916a3675d8800f.jpg' alt='Dallas cowboys Christmas card'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="561">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0e/b0/89/0eb089b269a88d8344916a3675d8800f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Merry Christmas from The Boys Are Back | THE BOYS ARE BACK">
+                                <img itemprop="contentUrl url" src='https://theboysareback.wordpress.com/wp-content/uploads/2011/12/merry-christmas-dallas-cowboy-fans-the-boys-are-back-blog_thumb.jpg?w=804&h=583' alt='Merry Christmas from The Boys Are Back | THE BOYS ARE BACK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="804">
+                                <meta itemprop="height" content="583">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="THE BOYS ARE BACK - WordPress.com" />
+                                </span>
+                                <a href='https://theboysareback.wordpress.com/wp-content/uploads/2011/12/merry-christmas-dallas-cowboy-fans-the-boys-are-back-blog_thumb.jpg?w=804&h=583' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DC Merry Christmas">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/84/08/21/84082117e35919786037b03ec960b1ed.jpg' alt='DC Merry Christmas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/84/08/21/84082117e35919786037b03ec960b1ed.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="69 Cowboys Christmas ideas | cowboy christmas, cowboys, dallas ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/bb/6b/b3/bb6bb3be858b8d09f5e07b44d48e0185.jpg' alt='69 Cowboys Christmas ideas | cowboy christmas, cowboys, dallas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="293">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/bb/6b/b3/bb6bb3be858b8d09f5e07b44d48e0185.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

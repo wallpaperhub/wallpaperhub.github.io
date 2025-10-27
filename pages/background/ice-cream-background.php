@@ -1,0 +1,129 @@
+<title>Delicious Ice Cream History: From Ancient Treats to Modern Indulgence</title>
+                    <meta name="description" content="Explore the fascinating history of ice cream, from its ancient origins to the delightful modern flavors we love today. Discover how this sweet treat has evolved and connects us all through generations of enjoyment. Perfect for ice cream lovers looking to indulge in some delicious background information!">
+                    <meta name="keywords" content="ice cream background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ice-cream-background">
+                            <span itemprop="name">ice cream background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Delicious Ice Cream History: From Ancient Treats to Modern Indulgence</h1>
+                <p>Ice cream has a rich history that dates back centuries. Originating from ancient civilizations, such as the Chinese and Romans, it evolved over time with the introduction of flavors, techniques, and machinery. Today, it represents joy and nostalgia, enjoyed worldwide in countless varieties, bringing people of all ages together for a sweet treat.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ice Cream Social Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/049/395/803/non_2x/delicious-3d-ice-cream-sundae-with-colorful-toppings-on-pastel-background-copy-space-free-photo.jpg' alt='Ice Cream Social Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1749">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/049/395/803/non_2x/delicious-3d-ice-cream-sundae-with-colorful-toppings-on-pastel-background-copy-space-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ice Cream Social Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/043/288/955/small/ice-cream-on-an-empty-pastel-background-summer-background-with-ice-cream-and-copy-space-summer-time-composition-for-web-banner-cards-invitations-photo.jpg' alt='Ice Cream Social Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/043/288/955/small/ice-cream-on-an-empty-pastel-background-summer-background-with-ice-cream-and-copy-space-summer-time-composition-for-web-banner-cards-invitations-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ice Cream Backgrounds Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjc1NS10b29uLTA1XzEuanBn.jpg' alt='Ice Cream Backgrounds Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjc1NS10b29uLTA1XzEuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="500 Food Ice Cream Photos, Pictures And Background Images For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20230711/pngtree-melted-ice-cream-art-collage-a-creative-depiction-of-food-and-image_3840120.jpg' alt='500 Food Ice Cream Photos, Pictures And Background Images For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="359">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20230711/pngtree-melted-ice-cream-art-collage-a-creative-depiction-of-food-and-image_3840120.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ice Cream Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/delicious-ice-cream-cones_23-2149460312.jpg' alt='Ice Cream Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/delicious-ice-cream-cones_23-2149460312.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Ice Cream Background Vector Art & Graphics | freevector.com">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/v2/jpg/03/61/46/99/1000_F_361469982_YiKFxXNh2aCvY0YlVCUgLzXcyUYIW18u.jpg' alt='Pink Ice Cream Background Vector Art & Graphics | freevector.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Vector Art & Graphics" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/v2/jpg/03/61/46/99/1000_F_361469982_YiKFxXNh2aCvY0YlVCUgLzXcyUYIW18u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Delicious Ice Cream Background, Colorful, Delicious Ice ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d5/db/b7/d5dbb7a31e3c3617890717b490642f0f.jpg' alt='Colorful Delicious Ice Cream Background, Colorful, Delicious Ice ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="624">
+                                <meta itemprop="height" content="260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d5/db/b7/d5dbb7a31e3c3617890717b490642f0f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ice cream pattern seamless. Background illustration. Light ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2H21DF4/ice-cream-pattern-seamless-background-illustration-light-wallpaper-print-in-waffle-glasses-and-cones-popsicle-on-sticks-summer-food-sweet-dessert-2H21DF4.jpg' alt='Ice cream pattern seamless. Background illustration. Light ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="739">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2H21DF4/ice-cream-pattern-seamless-background-illustration-light-wallpaper-print-in-waffle-glasses-and-cones-popsicle-on-sticks-summer-food-sweet-dessert-2H21DF4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frozen Ice-cream. Strawberry Ice Creams In Cone With Tropical ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/verca/verca1605/verca160500241/56987224-frozen-ice-cream-strawberry-ice-creams-in-cone-with-tropical-beach-background-summer-concept.jpg' alt='Frozen Ice-cream. Strawberry Ice Creams In Cone With Tropical ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="954">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/verca/verca1605/verca160500241/56987224-frozen-ice-cream-strawberry-ice-creams-in-cone-with-tropical-beach-background-summer-concept.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Ice Cream Images – Browse 1,407,942 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/71/19/76/360_F_271197687_nmSg92YBzenUpiCcIQdqdoos3kTt1Cne.jpg' alt='Summer Ice Cream Images – Browse 1,407,942 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/71/19/76/360_F_271197687_nmSg92YBzenUpiCcIQdqdoos3kTt1Cne.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

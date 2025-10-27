@@ -1,0 +1,129 @@
+<title>Stunning Thanksgiving Wallpaper Backgrounds for Your Devices</title>
+                    <meta name="description" content="Discover beautiful Thanksgiving wallpaper backgrounds to enhance your devices this holiday season. From fall colors to festive decorations, find the perfect images to express your gratitude and joy. Update your screens effortlessly and celebrate Thanksgiving in style! Perfect for mobile optimization.">
+                    <meta name="keywords" content="thanksgiving wallpaper backgrounds">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/thanksgiving">
+                            <span itemprop="name">Thanksgiving</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/thanksgiving/thanksgiving-wallpaper-backgrounds">
+                            <span itemprop="name">thanksgiving wallpaper backgrounds</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Thanksgiving Wallpaper Backgrounds for Your Devices</h1>
+                <p>Celebrate Thanksgiving in style with stunning wallpaper backgrounds! Choose from autumn leaves, pumpkin patches, and warm family gatherings to create the perfect festive atmosphere on your devices. Transform your screens with vibrant colors and cozy designs that capture the essence of gratitude and joy this season.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thanksgiving Background" Images – Browse 19,323 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/09/10/06/72/360_F_910067292_fWKUkDCYQPXvhrju4JDq6FUfwdl3KyiY.jpg' alt='Thanksgiving Background" Images – Browse 19,323 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/09/10/06/72/360_F_910067292_fWKUkDCYQPXvhrju4JDq6FUfwdl3KyiY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Wall: Thanksgiving tjn">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/14/07/4b/14074bef0db510329cc89192f451cca7.jpg' alt='iPhone Wall: Thanksgiving tjn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="606">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/14/07/4b/14074bef0db510329cc89192f451cca7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free to edit Thanksgiving desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFQ3c0Xx1A/1/0/1600w/canva-rustic-beige-happy-thanksgiving-desktop-wallpaper-c19Cp65IQ04.jpg' alt='Free to edit Thanksgiving desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFQ3c0Xx1A/1/0/1600w/canva-rustic-beige-happy-thanksgiving-desktop-wallpaper-c19Cp65IQ04.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thanksgiving Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-drawn-fall-season-background_52683-128700.jpg' alt='Thanksgiving Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-drawn-fall-season-background_52683-128700.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thanksgiving Wallpaper Images – Browse 199,307 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/09/81/35/40/360_F_981354056_X3Zn0a1wuQfYfJvB3iHZd2YqEmRjXts0.jpg' alt='Thanksgiving Wallpaper Images – Browse 199,307 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/09/81/35/40/360_F_981354056_X3Zn0a1wuQfYfJvB3iHZd2YqEmRjXts0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Thanksgiving Wallpaper Background Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/text-happy-thanksgiving-pumpkins-autumn-leaves-over-dark-wood-background-mockup-backdrop-338384354.jpg' alt='Happy Thanksgiving Wallpaper Background Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="505">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/text-happy-thanksgiving-pumpkins-autumn-leaves-over-dark-wood-background-mockup-backdrop-338384354.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Thanksgiving Background Design Vector Download">
+                                <img itemprop="contentUrl url" src='https://images.vexels.com/content/215197/preview/happy-thanksgiving-background-design-fc2c74.png' alt='Happy Thanksgiving Background Design Vector Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="941">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vexels" />
+                                </span>
+                                <a href='https://images.vexels.com/content/215197/preview/happy-thanksgiving-background-design-fc2c74.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="22,300+ Thanksgiving Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1610993675/vector/happy-thanksgiving-day-typography-vector-design.jpg?s=612x612&w=0&k=20&c=jzhV4RI-xBpUCL00KoM7SIcOvSmoUeJc-tmQKijKqns=' alt='22,300+ Thanksgiving Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1610993675/vector/happy-thanksgiving-day-typography-vector-design.jpg?s=612x612&w=0&k=20&c=jzhV4RI-xBpUCL00KoM7SIcOvSmoUeJc-tmQKijKqns=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="thanksgiving-wallpaper-01 - Town of Wyoming">
+                                <img itemprop="contentUrl url" src='https://wyoming.delaware.gov/files/2017/11/thanksgiving-wallpaper-01.jpg' alt='thanksgiving-wallpaper-01 - Town of Wyoming'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wyoming" />
+                                </span>
+                                <a href='https://wyoming.delaware.gov/files/2017/11/thanksgiving-wallpaper-01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thanksgiving Turkey Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-drawn-background-thanksgiving-celebration_23-2149683557.jpg' alt='Thanksgiving Turkey Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-drawn-background-thanksgiving-celebration_23-2149683557.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

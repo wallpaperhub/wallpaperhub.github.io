@@ -1,0 +1,129 @@
+<title>Experience the Action: 3D Wolfenstein II</title>
+                    <meta name="description" content="Dive into the thrilling world of 3D Wolfenstein II. Engage in heart-pounding action against Nazis with immersive gameplay and stunning graphics. Uncover a gripping narrative as you battle through uniquely designed levels. Perfect for action game fans looking for an unforgettable experience!">
+                    <meta name="keywords" content="3d wolfenstein ii">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/3d-wolfenstein-ii">
+                            <span itemprop="name">3d wolfenstein ii</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Experience the Action: 3D Wolfenstein II</h1>
+                <p>3D Wolfenstein II returns to the classic first-person shooter genre, offering players an adrenaline-fueled experience set in a dystopian world. Players navigate through challenging levels, battling Nazis with an array of weapons while uncovering a gripping storyline. The blend of immersive graphics and intense gameplay makes it a standout title.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wolfenstein 2 - how to find and play the original Wolfenstein 3D ...">
+                                <img itemprop="contentUrl url" src='https://cdn.mos.cms.futurecdn.net/NRP6Z3TMfzx3YWgkVKnkcS.jpg' alt='Wolfenstein 2 - how to find and play the original Wolfenstein 3D ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Games Radar" />
+                                </span>
+                                <a href='https://cdn.mos.cms.futurecdn.net/NRP6Z3TMfzx3YWgkVKnkcS.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wolfenstein 3D (1992) vs. Wolfenstein 2 The New Colossus (2017) Graphics  Comparison">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/W2qudoEHNew/maxresdefault.jpg' alt='Wolfenstein 3D (1992) vs. Wolfenstein 2 The New Colossus (2017) Graphics  Comparison'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/W2qudoEHNew/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wolfenstein II: The New Colossus - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/5/54/Wolfenstein-ii-the-new-colossus-cover.jpeg' alt='Wolfenstein II: The New Colossus - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="285">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/5/54/Wolfenstein-ii-the-new-colossus-cover.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wolfenstein II: The New Colossus - PlayStation 4">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/717yPPk6wAL.jpg' alt='Wolfenstein II: The New Colossus - PlayStation 4'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1202">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/717yPPk6wAL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to play Wolfenstein 3D in Wolfenstein II: The New Colossus">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/M7J8CZY8_js/maxresdefault.jpg' alt='How to play Wolfenstein 3D in Wolfenstein II: The New Colossus'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/M7J8CZY8_js/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wolfenstein 3D (1992) vs. Wolfenstein 2 The New Colossus (2017) Graphics  Comparison">
+                                <img itemprop="contentUrl url" src='https://sm.ign.com/t/ign_ap/video/w/wolfenstei/wolfenstein-3d-1992-vs-wolfenstein-2-the-new-colossus-2017-g_jg9c.1280.jpg' alt='Wolfenstein 3D (1992) vs. Wolfenstein 2 The New Colossus (2017) Graphics  Comparison'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IGN SEA" />
+                                </span>
+                                <a href='https://sm.ign.com/t/ign_ap/video/w/wolfenstei/wolfenstein-3d-1992-vs-wolfenstein-2-the-new-colossus-2017-g_jg9c.1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Breathe NEW Life into your GAMES in VR! - Wolfenstein II in 3D thanks to  Vk3DVision is FANTASTIC!">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/BRw3B_cvuaY/sddefault.jpg?v=61bb8538' alt='Breathe NEW Life into your GAMES in VR! - Wolfenstein II in 3D thanks to  Vk3DVision is FANTASTIC!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/BRw3B_cvuaY/sddefault.jpg?v=61bb8538' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wolfenstein 2: The New Colossus Review - IGN">
+                                <img itemprop="contentUrl url" src='https://assets1.ignimgs.com/2017/10/28/wolfensteinii-1280-2-1509152029991_160w.jpg?width=1280' alt='Wolfenstein 2: The New Colossus Review - IGN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IGN" />
+                                </span>
+                                <a href='https://assets1.ignimgs.com/2017/10/28/wolfensteinii-1280-2-1509152029991_160w.jpg?width=1280' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beyond Wolfenstein 2 | Wolfenstein 3D Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/wl6/images/d/df/Bw2_title.png/revision/latest?cb=20190513184948' alt='Beyond Wolfenstein 2 | Wolfenstein 3D Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="641">
+                                <meta itemprop="height" content="402">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wolfenstein 3D Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/wl6/images/d/df/Bw2_title.png/revision/latest?cb=20190513184948' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aydin's Blog - Aydin Afzoud">
+                                <img itemprop="contentUrl url" src='http://www.aydinafzoud.com/uploads/1/5/3/7/15376310/image002.jpg' alt='Aydin's Blog - Aydin Afzoud'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="605">
+                                <meta itemprop="height" content="316">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Aydin's Blog - Aydin Afzoud" />
+                                </span>
+                                <a href='http://www.aydinafzoud.com/uploads/1/5/3/7/15376310/image002.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

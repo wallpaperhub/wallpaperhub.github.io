@@ -1,0 +1,129 @@
+<title>Stunning Purple iPhone Wallpapers for Aesthetic Vibes</title>
+                    <meta name="description" content="Discover a curated collection of beautiful purple iPhone wallpapers that elevate your device's look. Perfect for anyone seeking aesthetic inspiration, these wallpapers combine elegance and creativity to transform your mobile experience. Browse now for your favorite designs!">
+                    <meta name="keywords" content="aesthetic:nd7zppenyke= purple iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aestheticnd7zppenyke-purple-iphone-wallpaper">
+                            <span itemprop="name">aesthetic:nd7zppenyke= purple iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Purple iPhone Wallpapers for Aesthetic Vibes</h1>
+                <p>Explore the enchanting world of purple iPhone wallpapers, where aesthetics meet digital artistry. Whether you love soft lavender hues or bold violet shades, these backgrounds can enhance your device's charm and personality. Perfect for anyone looking to add a touch of elegance and creativity to their screen!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Aesthetic iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/59/4b/0b/594b0bdc32d6ae3df57b3b29bab6b6b1.jpg' alt='Purple Aesthetic iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/59/4b/0b/594b0bdc32d6ae3df57b3b29bab6b6b1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="125+ Best Purple iPhone Wallpapers 2024 (Free 4k HD Download)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5f/8d/2b/5f8d2bbe8c8f2c1df4f360327c34721c.jpg' alt='125+ Best Purple iPhone Wallpapers 2024 (Free 4k HD Download)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5f/8d/2b/5f8d2bbe8c8f2c1df4f360327c34721c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/de/84/8c/de848c49888cd1c546bb71074bb84147.jpg' alt='Purple aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1451">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/de/84/8c/de848c49888cd1c546bb71074bb84147.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Landscape Purple Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/landscape-purple-iphone-18wmaxje29m4dumd.jpg' alt='Landscape Purple Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="568">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/landscape-purple-iphone-18wmaxje29m4dumd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/44/3d/a5/443da5d35c7a5ce4a03a612f472428d3.jpg' alt='Purple Aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/44/3d/a5/443da5d35c7a5ce4a03a612f472428d3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Purple Aesthetic Wallpaper: 50 FREE Gorgeous Designs for ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/e9/d5/1d/e9d51defd82667f710e1f69b2de2bd56.jpg' alt='iPhone Purple Aesthetic Wallpaper: 50 FREE Gorgeous Designs for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/e9/d5/1d/e9d51defd82667f710e1f69b2de2bd56.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Aesthetic Wallpaper Collage In 2020 C5A">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/89/ab/68/89ab6862924641152ef351859a948445.jpg' alt='Purple Aesthetic Wallpaper Collage In 2020 C5A'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="964">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/89/ab/68/89ab6862924641152ef351859a948445.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Smoke Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/71/71/73/7171735a1b04c3d396d755c2058abb45.jpg' alt='Purple Smoke Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/71/71/73/7171735a1b04c3d396d755c2058abb45.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Wallpaper Iphone in 2021 | Purple wallpaper iphone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/46/87/a3/4687a30ee68932632f940f213d20977b.jpg' alt='Purple Wallpaper Iphone in 2021 | Purple wallpaper iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/46/87/a3/4687a30ee68932632f940f213d20977b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Purple Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-clouds-iphone-7-original-uer0cpfckpera01s.jpg' alt='200+] Purple Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-clouds-iphone-7-original-uer0cpfckpera01s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

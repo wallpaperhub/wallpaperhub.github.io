@@ -1,0 +1,129 @@
+<title>Vibrant Red and Blue Background Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover a collection of eye-catching red and blue wallpapers designed to enhance your device. Perfect for personalizing any screen, these striking backgrounds offer a blend of style and color to make a statement. Explore now to find your perfect match!">
+                    <meta name="keywords" content="red and blue background wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red">
+                            <span itemprop="name">Red</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red/red-and-blue-background-wallpaper">
+                            <span itemprop="name">red and blue background wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Red and Blue Background Wallpapers for Your Device</h1>
+                <p>Transform your device's look with stunning red and blue background wallpapers. Perfect for expressing your personality and style, these vibrant designs add a dynamic touch to your screens. Choose from abstract patterns, artistic blends, or minimalistic themes that complement any aesthetic. Elevate your experience today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="22,100+ Red And Blue Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1410502468/vector/red-blue-abstract-angled-background.jpg?s=612x612&w=0&k=20&c=fOu0LgIpXUk01MSQq_xClxqMxMSt-TGBoxD04iDzlCw=' alt='22,100+ Red And Blue Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1410502468/vector/red-blue-abstract-angled-background.jpg?s=612x612&w=0&k=20&c=fOu0LgIpXUk01MSQq_xClxqMxMSt-TGBoxD04iDzlCw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue And Red Photos, Download The BEST Free Blue And Red Stock ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/3435266/pexels-photo-3435266.png?cs=srgb&dl=pexels-anniroenkae-3435266.jpg&fm=jpg' alt='Blue And Red Photos, Download The BEST Free Blue And Red Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/3435266/pexels-photo-3435266.png?cs=srgb&dl=pexels-anniroenkae-3435266.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Blue Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/001/866/648/small/light-blue-red-blurred-background-vector.jpg' alt='Red Blue Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/001/866/648/small/light-blue-red-blurred-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="999+ Red Blue Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1581508525333-5fe25ad324f7?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmVkJTIwYmx1ZXxlbnwwfHwwfHx8MA%3D%3D' alt='999+ Red Blue Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2003">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1581508525333-5fe25ad324f7?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmVkJTIwYmx1ZXxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="22,100+ Red And Blue Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1353824993/vector/alcohol-ink-art-abstract-painting-alcohol-ink-wallpaper.jpg?s=612x612&w=0&k=20&c=XHhTsqmCxY1qjm1KO4BvPklJJ-CKmZ3YdkzDhJiBmpg=' alt='22,100+ Red And Blue Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1353824993/vector/alcohol-ink-art-abstract-painting-alcohol-ink-wallpaper.jpg?s=612x612&w=0&k=20&c=XHhTsqmCxY1qjm1KO4BvPklJJ-CKmZ3YdkzDhJiBmpg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Red Background Images – Browse 11,149,021 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/02/41/55/360_F_302415586_UNW8z4v89oW8Q1dg3d0GiDP82FfaMgEh.jpg' alt='Blue Red Background Images – Browse 11,149,021 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/02/41/55/360_F_302415586_UNW8z4v89oW8Q1dg3d0GiDP82FfaMgEh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Blue Simple Red And Blue Background Wallpaper Image For Free ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f6/f4/30/f6f4309734cb2125a8f6d7b6d9e5599f.jpg' alt='Red Blue Simple Red And Blue Background Wallpaper Image For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f6/f4/30/f6f4309734cb2125a8f6d7b6d9e5599f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Cyan Backgrounds Images & Pictures | Free Download On Pngtree">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20230114/pngtree-blue-background-illustrations-royal-red-cyan-wallpaper-image_1539071.jpg' alt='Red Cyan Backgrounds Images & Pictures | Free Download On Pngtree'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="581">
+                                <meta itemprop="height" content="260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20230114/pngtree-blue-background-illustrations-royal-red-cyan-wallpaper-image_1539071.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Blue And Red Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/blue-and-red-background-1600-x-1200-2b8kzci6r252crl3.jpg' alt='100+] Blue And Red Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/blue-and-red-background-1600-x-1200-2b8kzci6r252crl3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Blue Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/002/421/220/small_2x/abstract-geometric-red-and-blue-background-free-vector.jpg' alt='Red Blue Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="625">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/002/421/220/small_2x/abstract-geometric-red-and-blue-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

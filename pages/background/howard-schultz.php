@@ -1,0 +1,129 @@
+<title>Discover Howard Schultz: The Visionary Behind Starbucks</title>
+                    <meta name="description" content="Explore the life and impact of Howard Schultz, Starbucks' transformative leader. Learn how his innovative strategies revolutionized coffee culture and created a global phenomenon. Discover the story behind his success and the future of coffee retail.">
+                    <meta name="keywords" content="howard schultz">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/howard-schultz">
+                            <span itemprop="name">howard schultz</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Howard Schultz: The Visionary Behind Starbucks</h1>
+                <p>Howard Schultz is an American entrepreneur and former CEO of Starbucks, known for transforming the coffee retail experience. He emphasized quality, customer service, and community, turning Starbucks into a global brand. His leadership and vision helped popularize coffee culture, making it a daily ritual for millions worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Howard Schultz - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/2/21/Howard_Schultz_by_Gage_Skidmore.jpg' alt='Howard Schultz - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2899">
+                                <meta itemprop="height" content="4136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/2/21/Howard_Schultz_by_Gage_Skidmore.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Howard Schultz: The King of Coffee Who Transformed Starbucks">
+                                <img itemprop="contentUrl url" src='https://a.storyblok.com/f/182663/2000x1125/635962ce4b/howard-schultz_former-ceo-of-starbucks.png' alt='Howard Schultz: The King of Coffee Who Transformed Starbucks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Quartr" />
+                                </span>
+                                <a href='https://a.storyblok.com/f/182663/2000x1125/635962ce4b/howard-schultz_former-ceo-of-starbucks.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="It Took Just 6 Words for Starbucks Ex-CEO Howard Schultz to Teach ...">
+                                <img itemprop="contentUrl url" src='https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/images/panoramic/Howard-Schultz-starbucks-inc_540546_efnbcf.jpg' alt='It Took Just 6 Words for Starbucks Ex-CEO Howard Schultz to Teach ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Inc. Magazine" />
+                                </span>
+                                <a href='https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/images/panoramic/Howard-Schultz-starbucks-inc_540546_efnbcf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Masters of Scale: How to do good and do good business, with Howard ...">
+                                <img itemprop="contentUrl url" src='https://mastersofscale.com/wp-content/uploads/2022/09/MoS_HowardSchultz_colorcutout.webp' alt='Masters of Scale: How to do good and do good business, with Howard ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Masters of Scale" />
+                                </span>
+                                <a href='https://mastersofscale.com/wp-content/uploads/2022/09/MoS_HowardSchultz_colorcutout.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Howard Schultz Teaches You How To Be A Leader In A Crisis">
+                                <img itemprop="contentUrl url" src='https://imageio.forbes.com/specials-images/imageserve/5592f586e4b05c2c34318f5c/960x0.jpg?format=jpg&width=960' alt='Howard Schultz Teaches You How To Be A Leader In A Crisis'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="959">
+                                <meta itemprop="height" content="668">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forbes" />
+                                </span>
+                                <a href='https://imageio.forbes.com/specials-images/imageserve/5592f586e4b05c2c34318f5c/960x0.jpg?format=jpg&width=960' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Howard Schultz | Schultz Family Foundation">
+                                <img itemprop="contentUrl url" src='https://schultzfamilyfoundation.org/wp-content/uploads/2024/07/65ce574f31c9e962167b8bbe_HowardSchultz_1900.jpg' alt='Howard Schultz | Schultz Family Foundation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1900">
+                                <meta itemprop="height" content="1267">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Schultz Family Foundation" />
+                                </span>
+                                <a href='https://schultzfamilyfoundation.org/wp-content/uploads/2024/07/65ce574f31c9e962167b8bbe_HowardSchultz_1900.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="From Brooklyn to Billionaire: The Story of How Howard Schultz ...">
+                                <img itemprop="contentUrl url" src='https://img-cdn.inc.com/image/upload/f_webp,c_fit,w_1920,q_auto/images/panoramic/getty_656594032_2000133320009280235_336000.jpg' alt='From Brooklyn to Billionaire: The Story of How Howard Schultz ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="891">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Inc. Magazine" />
+                                </span>
+                                <a href='https://img-cdn.inc.com/image/upload/f_webp,c_fit,w_1920,q_auto/images/panoramic/getty_656594032_2000133320009280235_336000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Howard Schultz returns to Starbucks as interim CEO | CNN Business">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/220316080959-01-howard-schultz-starbucks-file.jpg?c=original' alt='Howard Schultz returns to Starbucks as interim CEO | CNN Business'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/220316080959-01-howard-schultz-starbucks-file.jpg?c=original' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Howard Schultz">
+                                <img itemprop="contentUrl url" src='https://imageio.forbes.com/specials-images/imageserve/5d8bbe586de3150009a51b00/0x0.jpg?format=jpg&crop=1149,1150,x779,y1929,safe&height=416&width=416&fit=bounds' alt='Howard Schultz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forbes" />
+                                </span>
+                                <a href='https://imageio.forbes.com/specials-images/imageserve/5d8bbe586de3150009a51b00/0x0.jpg?format=jpg&crop=1149,1150,x779,y1929,safe&height=416&width=416&fit=bounds' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Former Starbucks CEO considering 2020 run as independent">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/180604162740-03-howard-schultz-starbucks.jpg?q=w_4200,h_2800,x_0,y_0,c_fill' alt='Former Starbucks CEO considering 2020 run as independent'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4200">
+                                <meta itemprop="height" content="2800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/180604162740-03-howard-schultz-starbucks.jpg?q=w_4200,h_2800,x_0,y_0,c_fill' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

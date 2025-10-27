@@ -1,0 +1,129 @@
+<title>Embrace the Magic of Pink Rays: A Guide</title>
+                    <meta name="description" content="Discover the beauty and serenity of pink rays! Learn how these enchanting hues can transform your space, influence your mood, and inspire creativity in art and fashion. Uncover the magic behind pink rays and elevate your aesthetic today.">
+                    <meta name="keywords" content="pink ray">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pink-ray">
+                            <span itemprop="name">pink ray</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Embrace the Magic of Pink Rays: A Guide</h1>
+                <p>Pink rays symbolize warmth, love, and compassion, creating an enchanting atmosphere wherever they appear. Often associated with dawn and dusk, these soft hues evoke feelings of serenity and joy. Their gentle presence can turn mundane moments into magical experiences, making them a favorite in art, fashion, and decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rare Pink Manta Ray Spotted Near Australia's Lady Elliot Island ...">
+                                <img itemprop="contentUrl url" src='https://th-thumbnailer.cdn-si-edu.com/LRML3we2TS5hiNPJsYBfBzBZGos=/800x600/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/9c/33/9c333e52-d2e9-4095-92b6-e6436e8b89db/pink-manta-ray-great-barrier-reef.jpg' alt='Rare Pink Manta Ray Spotted Near Australia's Lady Elliot Island ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Smithsonian Magazine" />
+                                </span>
+                                <a href='https://th-thumbnailer.cdn-si-edu.com/LRML3we2TS5hiNPJsYBfBzBZGos=/800x600/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/9c/33/9c333e52-d2e9-4095-92b6-e6436e8b89db/pink-manta-ray-great-barrier-reef.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How did this rare pink manta, photographed in Australia, get its ...">
+                                <img itemprop="contentUrl url" src='https://i.natgeofe.com/n/43a2184b-d44a-45ac-b2b7-3da7d5c0c03f/01-pink-manta-ray-pink-manta-two-friends-website_16x9.jpg' alt='How did this rare pink manta, photographed in Australia, get its ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3072">
+                                <meta itemprop="height" content="1728">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Geographic" />
+                                </span>
+                                <a href='https://i.natgeofe.com/n/43a2184b-d44a-45ac-b2b7-3da7d5c0c03f/01-pink-manta-ray-pink-manta-two-friends-website_16x9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why Is This Manta Ray Pink? | Sea Paradise">
+                                <img itemprop="contentUrl url" src='https://eknb7fhjwcs.exactdn.com/wp-content/uploads/2022/09/magnus_pink_manta_3_web.jpg' alt='Why Is This Manta Ray Pink? | Sea Paradise'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sea Paradise" />
+                                </span>
+                                <a href='https://eknb7fhjwcs.exactdn.com/wp-content/uploads/2022/09/magnus_pink_manta_3_web.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mysterious Pink Manta Ray: Does it Really Exist? - Manta Ray ...">
+                                <img itemprop="contentUrl url" src='https://mantarayadvocates.com/wp-content/uploads/2020/02/pink-manta-instagram.jpg' alt='Mysterious Pink Manta Ray: Does it Really Exist? - Manta Ray ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="674">
+                                <meta itemprop="height" content="895">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Manta Ray Advocates" />
+                                </span>
+                                <a href='https://mantarayadvocates.com/wp-content/uploads/2020/02/pink-manta-instagram.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mysterious Pink Manta Ray: Does it Really Exist? - Manta Ray ...">
+                                <img itemprop="contentUrl url" src='https://mantarayadvocates.com/wp-content/uploads/2020/08/2020-BLOG-Featured-Image-Pink-Manta-1.jpg' alt='Mysterious Pink Manta Ray: Does it Really Exist? - Manta Ray ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="654">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Manta Ray Advocates" />
+                                </span>
+                                <a href='https://mantarayadvocates.com/wp-content/uploads/2020/08/2020-BLOG-Featured-Image-Pink-Manta-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rare pink manta ray spotted by unsuspecting photographer in Great ...">
+                                <img itemprop="contentUrl url" src='https://globalnews.ca/wp-content/uploads/2020/02/pink-manta-2-edited.jpg?quality=85&strip=all' alt='Rare pink manta ray spotted by unsuspecting photographer in Great ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Global News" />
+                                </span>
+                                <a href='https://globalnews.ca/wp-content/uploads/2020/02/pink-manta-2-edited.jpg?quality=85&strip=all' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Ray Background Stock Illustration - Download Image Now - Pink ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/503022342/vector/pink-ray-background.jpg?s=1024x1024&w=is&k=20&c=tgbRnz6AT-IniVxNT-rMkycrgb108aVqmjGPtLcp7Yk=' alt='Pink Ray Background Stock Illustration - Download Image Now - Pink ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/503022342/vector/pink-ray-background.jpg?s=1024x1024&w=is&k=20&c=tgbRnz6AT-IniVxNT-rMkycrgb108aVqmjGPtLcp7Yk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Rays Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/flat-design-pink-swirl-background_23-2149897253.jpg' alt='Pink Rays Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/flat-design-pink-swirl-background_23-2149897253.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mysterious Pink Manta Ray: Does it Really Exist? - Manta Ray ...">
+                                <img itemprop="contentUrl url" src='https://mantarayadvocates.com/wp-content/uploads/2020/02/Pink-Manta-Ray-by-2.jpg' alt='Mysterious Pink Manta Ray: Does it Really Exist? - Manta Ray ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Manta Ray Advocates" />
+                                </span>
+                                <a href='https://mantarayadvocates.com/wp-content/uploads/2020/02/Pink-Manta-Ray-by-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Rays Images – Browse 349,803 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/08/49/73/14/360_F_849731491_OQiN7JdX5VmkXLOq4YPOBJ0dzHVuJZGB.jpg' alt='Pink Rays Images – Browse 349,803 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/08/49/73/14/360_F_849731491_OQiN7JdX5VmkXLOq4YPOBJ0dzHVuJZGB.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

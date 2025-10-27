@@ -1,0 +1,129 @@
+<title>Combat Eye Strain: Causes & Solutions</title>
+                    <meta name="description" content="Discover the impact of eye strain in our latest guide. Learn about its causes, symptoms, and effective solutions to alleviate discomfort from screen time. Stay informed and protect your vision with practical tips to prevent eye fatigue. Perfect for anyone facing frequent visual fatigue!">
+                    <meta name="keywords" content="eye strain images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/eye-strain-images">
+                            <span itemprop="name">eye strain images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Combat Eye Strain: Causes & Solutions</h1>
+                <p>Eye strain images depict the discomfort and visual fatigue experienced from prolonged screen time or focusing on objects. Common symptoms include blurred vision, dry eyes, and headaches. These images often illustrate the causes, such as excessive device use, improper lighting, or poor posture. Understanding eye strain is crucial for prevention.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eye Strain: Symptoms, Causes & Treatment">
+                                <img itemprop="contentUrl url" src='https://my.clevelandclinic.org/-/scassets/images/org/health/articles/21059-eye-strain-infographic' alt='Eye Strain: Symptoms, Causes & Treatment'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cleveland Clinic" />
+                                </span>
+                                <a href='https://my.clevelandclinic.org/-/scassets/images/org/health/articles/21059-eye-strain-infographic' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eye Strain (Asthenopia): What It Feels Like and Treatment">
+                                <img itemprop="contentUrl url" src='https://www.verywellhealth.com/thmb/BFbo2qC7mYiTTsKF6gdxI5A4aug=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/do-you-suffer-from-asthenopia-or-tired-eyes-3421982-ADD-COLOR-V1-bd13933f42c74d5482a21e07eb36bc54.jpg' alt='Eye Strain (Asthenopia): What It Feels Like and Treatment'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Verywell Health" />
+                                </span>
+                                <a href='https://www.verywellhealth.com/thmb/BFbo2qC7mYiTTsKF6gdxI5A4aug=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/do-you-suffer-from-asthenopia-or-tired-eyes-3421982-ADD-COLOR-V1-bd13933f42c74d5482a21e07eb36bc54.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Most Americans Experience Digital Eye Strain from Overexposure to ...">
+                                <img itemprop="contentUrl url" src='https://img.ehstoday.com/files/base/ebm/ehstoday/image/2019/03/ehstoday_2669_bloodshot.png?auto=format,compress&fit=crop&q=45&h=356&height=356&w=640&width=640' alt='Most Americans Experience Digital Eye Strain from Overexposure to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="356">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EHS Today" />
+                                </span>
+                                <a href='https://img.ehstoday.com/files/base/ebm/ehstoday/image/2019/03/ehstoday_2669_bloodshot.png?auto=format,compress&fit=crop&q=45&h=356&height=356&w=640&width=640' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Digital Eye Strain Is No Joke. Follow These Steps To Save Your Vision">
+                                <img itemprop="contentUrl url" src='https://www.johnoconnor.co.nz/wp-content/uploads/2019/05/digital-eye-strain-prevention.jpg' alt='Digital Eye Strain Is No Joke. Follow These Steps To Save Your Vision'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="821">
+                                <meta itemprop="height" content="583">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="John O'Connor Optometrists" />
+                                </span>
+                                <a href='https://www.johnoconnor.co.nz/wp-content/uploads/2019/05/digital-eye-strain-prevention.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eye Strain: Causes, Symptoms, Risk Factors, Diagnosis, Treatment">
+                                <img itemprop="contentUrl url" src='https://image.prepladder.com/prepladder/2024/01/04112149/Eye-Strain.webp' alt='Eye Strain: Causes, Symptoms, Risk Factors, Diagnosis, Treatment'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PrepLadder" />
+                                </span>
+                                <a href='https://image.prepladder.com/prepladder/2024/01/04112149/Eye-Strain.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eye Strain: Symptoms, Causes & Treatment |">
+                                <img itemprop="contentUrl url" src='https://cdn-community.pressidium.com/wp-content/uploads/2019/08/Eye-Strain-Symptoms.jpg' alt='Eye Strain: Symptoms, Causes & Treatment |'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1251">
+                                <meta itemprop="height" content="2349">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="| Health, Fitness and Nutrition Community" />
+                                </span>
+                                <a href='https://cdn-community.pressidium.com/wp-content/uploads/2019/08/Eye-Strain-Symptoms.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eye Strain Symptoms, Treatment & Causes">
+                                <img itemprop="contentUrl url" src='https://www.australiawidefirstaid.com.au/media-library/eye-strain-banner.png' alt='Eye Strain Symptoms, Treatment & Causes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Australia Wide First Aid" />
+                                </span>
+                                <a href='https://www.australiawidefirstaid.com.au/media-library/eye-strain-banner.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Long Does Eye Strain Last? | Charles Korth Optometry">
+                                <img itemprop="contentUrl url" src='https://korthvision.com/wp-content/uploads/2022/08/man-rubbing-eyes-1024x672.jpg' alt='How Long Does Eye Strain Last? | Charles Korth Optometry'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="672">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Total Vision Pasadena" />
+                                </span>
+                                <a href='https://korthvision.com/wp-content/uploads/2022/08/man-rubbing-eyes-1024x672.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Eye Strain Headache: Definition, Treatment, Prevention, and Diagnosis">
+                                <img itemprop="contentUrl url" src='https://d2o51ft7emegr.cloudfront.net/pub/media/wysiwyg/image-folder/glasses/eye/strain/Eye-Strain-Headache_Sore-Eyes_OscarWylee_900x600.jpg' alt='Eye Strain Headache: Definition, Treatment, Prevention, and Diagnosis'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oscar Wylee" />
+                                </span>
+                                <a href='https://d2o51ft7emegr.cloudfront.net/pub/media/wysiwyg/image-folder/glasses/eye/strain/Eye-Strain-Headache_Sore-Eyes_OscarWylee_900x600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Tips for Computer Eye Strain Relief">
+                                <img itemprop="contentUrl url" src='https://media.allaboutvision.com/cms/caas/v1/media/415084/data/picture/0806f004b23a25e0502368731d629311.jpg' alt='10 Tips for Computer Eye Strain Relief'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="678">
+                                <meta itemprop="height" content="446">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="All About Vision" />
+                                </span>
+                                <a href='https://media.allaboutvision.com/cms/caas/v1/media/415084/data/picture/0806f004b23a25e0502368731d629311.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

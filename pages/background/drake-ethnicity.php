@@ -1,0 +1,129 @@
+<title>Understanding Drake's Ethnicity: A Cultural Journey</title>
+                    <meta name="description" content="Explore the fascinating mixed ethnicity of Drake, the renowned rapper. Discover how his Jewish and African American heritage shapes his music and identity. Dive into the cultural influences that define one of today's biggest stars!">
+                    <meta name="keywords" content="drake ethnicity">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/drake-ethnicity">
+                            <span itemprop="name">drake ethnicity</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Drake's Ethnicity: A Cultural Journey</h1>
+                <p>Drake, the Canadian rapper and global music icon, is of mixed ethnicity. He was born to a Jewish mother and an African American father, which contributes to his unique cultural perspective. Growing up in Toronto, Drake embraces his diverse heritage, often reflecting it in his music and public persona.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is Drake the rapper white or black? - Quora">
+                                <img itemprop="contentUrl url" src='https://qph.cf2.quoracdn.net/main-qimg-22bfcdf5301794ec336e2ab78f7b0601.webp' alt='Is Drake the rapper white or black? - Quora'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="602">
+                                <meta itemprop="height" content="602">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Quora" />
+                                </span>
+                                <a href='https://qph.cf2.quoracdn.net/main-qimg-22bfcdf5301794ec336e2ab78f7b0601.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drake's Success Story - Business Insider">
+                                <img itemprop="contentUrl url" src='https://i.insider.com/57d0781edd0895f6138b46c9?width=600&format=jpeg&auto=webp' alt='Drake's Success Story - Business Insider'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business Insider" />
+                                </span>
+                                <a href='https://i.insider.com/57d0781edd0895f6138b46c9?width=600&format=jpeg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drake - Ethnicity of Celebs | EthniCelebs.com">
+                                <img itemprop="contentUrl url" src='https://ethnicelebs.com/wp-content/uploads/2009/07/dRAKE_bigstock_LOS_ANGELES_-_NOV___Drake_a_25348178small.jpg' alt='Drake - Ethnicity of Celebs | EthniCelebs.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ethnicity of Celebs" />
+                                </span>
+                                <a href='https://ethnicelebs.com/wp-content/uploads/2009/07/dRAKE_bigstock_LOS_ANGELES_-_NOV___Drake_a_25348178small.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drake - Ethnicity of Celebs | EthniCelebs.com">
+                                <img itemprop="contentUrl url" src='https://ethnicelebs.com/wp-content/uploads/2009/07/drake-and-mother-400x443.jpg' alt='Drake - Ethnicity of Celebs | EthniCelebs.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="443">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ethnicity of Celebs" />
+                                </span>
+                                <a href='https://ethnicelebs.com/wp-content/uploads/2009/07/drake-and-mother-400x443.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drake | Albums, Songs, Nationality, Degrassi, OVO, & Facts ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/37/231937-050-9228ECA1/Drake-rapper-2019.jpg' alt='Drake | Albums, Songs, Nationality, Degrassi, OVO, & Facts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1144">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/37/231937-050-9228ECA1/Drake-rapper-2019.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="All About Drake's Parents Sandi and Dennis Graham">
+                                <img itemprop="contentUrl url" src='https://people.com/thmb/zwxwrCjfzV9TNSN4vAQ62nppE3I=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(836x404:838x406)/drake-012923-01-79d6b3725c99480698f2e0d26478d765.jpg' alt='All About Drake's Parents Sandi and Dennis Graham'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1903">
+                                <meta itemprop="height" content="1268">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="People.com" />
+                                </span>
+                                <a href='https://people.com/thmb/zwxwrCjfzV9TNSN4vAQ62nppE3I=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(836x404:838x406)/drake-012923-01-79d6b3725c99480698f2e0d26478d765.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sophie Brussaux: 6 Things to Know About the Mother of Drake's Son ...">
+                                <img itemprop="contentUrl url" src='https://www.billboard.com/wp-content/uploads/2020/03/drake-adonis-sophie-brussaux-2020-billboard-1548-1585688858.jpg' alt='Sophie Brussaux: 6 Things to Know About the Mother of Drake's Son ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1548">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Billboard" />
+                                </span>
+                                <a href='https://www.billboard.com/wp-content/uploads/2020/03/drake-adonis-sophie-brussaux-2020-billboard-1548-1585688858.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="All About Drake's Parents Sandi and Dennis Graham">
+                                <img itemprop="contentUrl url" src='https://people.com/thmb/mqfChWW6jAW_8BAfpDbVgPUEgFA=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/sandi-dennis-graham-2-67edd1c10e1f49a7a8f818e2c7f95660.jpg' alt='All About Drake's Parents Sandi and Dennis Graham'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1712">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="People.com" />
+                                </span>
+                                <a href='https://people.com/thmb/mqfChWW6jAW_8BAfpDbVgPUEgFA=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/sandi-dennis-graham-2-67edd1c10e1f49a7a8f818e2c7f95660.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drake - Biography - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMjIwNDE2ODI5OF5BMl5BanBnXkFtZTcwMDkzMjU3NQ@@._V1_.jpg' alt='Drake - Biography - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1357">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMjIwNDE2ODI5OF5BMl5BanBnXkFtZTcwMDkzMjU3NQ@@._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="African Report files - Drake Shows His DNA Ancestry, Says He Is 30 ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=993275358829377' alt='African Report files - Drake Shows His DNA Ancestry, Says He Is 30 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=993275358829377' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

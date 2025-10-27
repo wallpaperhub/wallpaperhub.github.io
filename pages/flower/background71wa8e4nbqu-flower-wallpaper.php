@@ -1,0 +1,129 @@
+<title>Beautiful Flower Wallpaper for Every Room</title>
+                    <meta name="description" content="Discover exquisite flower wallpaper to brighten your home. Easy to install and remove, our vibrant designs cater to every style. Revamp your living spaces with the beauty of nature and enjoy a fresh, lively atmosphere. Perfect for any room—explore our collection today!">
+                    <meta name="keywords" content="background:71wa8e4nbqu= flower wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flower">
+                            <span itemprop="name">Flower</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flower/background71wa8e4nbqu-flower-wallpaper">
+                            <span itemprop="name">background:71wa8e4nbqu= flower wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful Flower Wallpaper for Every Room</h1>
+                <p>Transform your space with stunning flower wallpaper that brings nature indoors. Vibrant colors and intricate designs enhance any room, from the living room to the bedroom. Available in various styles, these wallpapers are easy to apply and remove, making them perfect for seasonal updates or permanent decor. Embrace beauty and creativity today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="JiffDiff Dark Floral Wallpaper 236.22" L x 17.7" W Black Big Floral Peel  and Stick Wallpaper Watercolor Flower Wallpaper Wall Decor Wallcovering  Wall ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81Y-3j+jShL.jpg' alt='JiffDiff Dark Floral Wallpaper 236.22" L x 17.7" W Black Big Floral Peel  and Stick Wallpaper Watercolor Flower Wallpaper Wall Decor Wallcovering  Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1185">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81Y-3j+jShL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abundance Wallpaper">
+                                <img itemprop="contentUrl url" src='https://s29938.pcdn.co/wp-content/uploads/2022/07/KIP-Abundance-1.jpg.optimal.jpg' alt='Abundance Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://s29938.pcdn.co/wp-content/uploads/2022/07/KIP-Abundance-1.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VaryPaper 17.7''x78.7'' Vintage Floral Peel and Stick Wallpaper Watercolor  Leaf Butterfly Wildflower Wallpaper Wall Mural Self Adhesive Removable ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81hSZebJrML.jpg' alt='VaryPaper 17.7''x78.7'' Vintage Floral Peel and Stick Wallpaper Watercolor  Leaf Butterfly Wildflower Wallpaper Wall Mural Self Adhesive Removable ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81hSZebJrML.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hibiscus Flower Background With Watercolor Splashes, Desktop ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20210715/original/pngtree-hibiscus-flower-background-with-watercolor-splashes-picture-image_1286085.jpg' alt='Hibiscus Flower Background With Watercolor Splashes, Desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20210715/original/pngtree-hibiscus-flower-background-with-watercolor-splashes-picture-image_1286085.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/da/12/e9/da12e922bb37c6bb016d823a30fda8c3.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/da/12/e9/da12e922bb37c6bb016d823a30fda8c3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Taupe Moon Flower Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn.totalwallcovering.com/product/light-taupe-moon-flower-wallpaper-zbvn-l.jpg' alt='Light Taupe Moon Flower Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Total Wallcovering" />
+                                </span>
+                                <a href='https://cdn.totalwallcovering.com/product/light-taupe-moon-flower-wallpaper-zbvn-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Copy Space Nice Flower Background, Background, Leaves, Flower ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20250102/original/pngtree-copy-space-nice-flower-background-picture-image_13347156.jpg' alt='Copy Space Nice Flower Background, Background, Leaves, Flower ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="672">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20250102/original/pngtree-copy-space-nice-flower-background-picture-image_13347156.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Image result for tumblr wallpapers mac">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cf/b6/f1/cfb6f15652191497387609d0bce4d980.jpg' alt='Image result for tumblr wallpapers mac'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="413">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cf/b6/f1/cfb6f15652191497387609d0bce4d980.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Claude Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/lelandswallpaper.com/wp-content/uploads/2021/12/307306-brewster-wallcoverings-eijffinger-museum-claude-floral-wallpaper-navy.jpg?fit=500%2C500&ssl=1' alt='Claude Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lelands Wallpaper" />
+                                </span>
+                                <a href='https://i0.wp.com/lelandswallpaper.com/wp-content/uploads/2021/12/307306-brewster-wallcoverings-eijffinger-museum-claude-floral-wallpaper-navy.jpg?fit=500%2C500&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="York LK8318 Watercolor Blooms Pinks and Oranges Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/254979.jpg' alt='York LK8318 Watercolor Blooms Pinks and Oranges Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/254979.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning Cookout Background Images for Your Outdoor Gatherings</title>
+                    <meta name="description" content="Discover a collection of vibrant cookout background images perfect for your outdoor events. From BBQs to family picnics, find the ideal visuals that capture the essence of summer gatherings and elevate your invitations or social media posts with warmth and joy.">
+                    <meta name="keywords" content="cookout background images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cookout-background-images">
+                            <span itemprop="name">cookout background images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Cookout Background Images for Your Outdoor Gatherings</h1>
+                <p>Cookout background images set the perfect scene for any outdoor gathering. Whether you're hosting a BBQ, picnic, or family reunion, these images capture the warmth and joy of grilling and dining al fresco. Choose images featuring vibrant food spreads, cozy fire pits, and fun festivities to enhance your invitations or social media posts.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cookout Background Images – Browse 1,532,087 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/01/97/31/71/360_F_197317122_NYuo4smuveZCN2TVsYLxd7Eg8qzVkAUx.jpg' alt='Cookout Background Images – Browse 1,532,087 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="553">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/01/97/31/71/360_F_197317122_NYuo4smuveZCN2TVsYLxd7Eg8qzVkAUx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Cookout Background Images – Browse 257,093 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/06/07/09/68/360_F_607096864_mDzKBb9I7UCWP4QzwYE9awSfIDkuPFow.jpg' alt='Summer Cookout Background Images – Browse 257,093 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="590">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/06/07/09/68/360_F_607096864_mDzKBb9I7UCWP4QzwYE9awSfIDkuPFow.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cookout Background Images – Browse 1,532,087 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/39/19/74/360_F_439197469_0O0lboUJO2taHFlfGGfUrVd9dK724nNu.jpg' alt='Cookout Background Images – Browse 1,532,087 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="695">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/39/19/74/360_F_439197469_0O0lboUJO2taHFlfGGfUrVd9dK724nNu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="84,979 Cookout Royalty-Free Photos and Stock Images | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/group-friends-having-party-outdoors-600nw-2234937131.jpg' alt='84,979 Cookout Royalty-Free Photos and Stock Images | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/group-friends-having-party-outdoors-600nw-2234937131.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cookout Background Images – Browse 1,452,242 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/05/05/90/73/360_F_505907391_hHDR2EsKnxL25w1ImATC0eTRJqcVoRWN.jpg' alt='Cookout Background Images – Browse 1,452,242 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="659">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/05/05/90/73/360_F_505907391_hHDR2EsKnxL25w1ImATC0eTRJqcVoRWN.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cookout background Stock Photos, Royalty Free Cookout background ...">
+                                <img itemprop="contentUrl url" src='https://st4.depositphotos.com/16122460/31478/i/450/depositphotos_314782140-stock-photo-barbecue-grill-with-sausages-and.jpg' alt='Cookout background Stock Photos, Royalty Free Cookout background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://st4.depositphotos.com/16122460/31478/i/450/depositphotos_314782140-stock-photo-barbecue-grill-with-sausages-and.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cookout Background Images – Browse 1,532,087 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/00/83/17/81/360_F_83178184_KUaoNWRQeYYq4JkgJUffiHOL3Yt4thn3.jpg' alt='Cookout Background Images – Browse 1,532,087 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/00/83/17/81/360_F_83178184_KUaoNWRQeYYq4JkgJUffiHOL3Yt4thn3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cookout Background Stock Illustrations – 7,066 Cookout Background ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/hot-empty-charcoal-bbq-grill-bright-flames-black-background-cookout-concept-hot-empty-charcoal-bbq-grill-bright-347306128.jpg' alt='Cookout Background Stock Illustrations – 7,066 Cookout Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/hot-empty-charcoal-bbq-grill-bright-flames-black-background-cookout-concept-hot-empty-charcoal-bbq-grill-bright-347306128.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Cookout Background Images – Browse 257,093 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/11/53/15/75/360_F_1153157523_F2TU41rQfrcVrR9ngXunV1ACOP7NRGFW.jpg' alt='Summer Cookout Background Images – Browse 257,093 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="488">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/11/53/15/75/360_F_1153157523_F2TU41rQfrcVrR9ngXunV1ACOP7NRGFW.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8,148 Cookout Table Royalty-Free Photos and Stock Images ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/summer-time-backyard-garden-grill-600nw-2331582405.jpg' alt='8,148 Cookout Table Royalty-Free Photos and Stock Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/summer-time-backyard-garden-grill-600nw-2331582405.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

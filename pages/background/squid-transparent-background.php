@@ -1,0 +1,129 @@
+<title>Stunning Squid Images with Transparent Background</title>
+                    <meta name="description" content="Discover captivating squid images featuring a transparent background, perfect for enhancing your creative projects. Ideal for designers, educators, and artists, these versatile visuals will elevate your work while seamlessly blending with any design. Explore now for high-quality graphics!">
+                    <meta name="keywords" content="squid transparent background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/squid-transparent-background">
+                            <span itemprop="name">squid transparent background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Squid Images with Transparent Background</h1>
+                <p>Squid with a transparent background offers a unique way to enhance your designs and graphics. Perfect for various projects, such as digital artwork or educational materials, these squid images seamlessly blend into any backdrop, allowing for creative flexibility. Capture attention with stunning visuals in web or print media.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Squid on a transparent background. by PRUSSIAART on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/25d45014-8cc3-4c98-b02c-5a0cf3a55ddd/dcybyut-a7d7e514-9e37-4b0d-bea9-176ef088437f.png/v1/fill/w_1191,h_671/squid_on_a_transparent_background__by_prussiaart_dcybyut-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI1ZDQ1MDE0LThjYzMtNGM5OC1iMDJjLTVhMGNmM2E1NWRkZFwvZGN5Ynl1dC1hN2Q3ZTUxNC05ZTM3LTRiMGQtYmVhOS0xNzZlZjA4ODQzN2YucG5nIiwiaGVpZ2h0IjoiPD03MjEiLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiJcL3dtXC8yNWQ0NTAxNC04Y2MzLTRjOTgtYjAyYy01YTBjZjNhNTVkZGRcL3BydXNzaWFhcnQtNC5wbmciLCJvcGFjaXR5Ijo5NSwicHJvcG9ydGlvbnMiOjAuNDUsImdyYXZpdHkiOiJjZW50ZXIifX0.x_JKCy3UnnCb9N5i8yW2H82vFDOA7b0NrmVjneZHkJY' alt='Squid on a transparent background. by PRUSSIAART on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1191">
+                                <meta itemprop="height" content="671">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/25d45014-8cc3-4c98-b02c-5a0cf3a55ddd/dcybyut-a7d7e514-9e37-4b0d-bea9-176ef088437f.png/v1/fill/w_1191,h_671/squid_on_a_transparent_background__by_prussiaart_dcybyut-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI1ZDQ1MDE0LThjYzMtNGM5OC1iMDJjLTVhMGNmM2E1NWRkZFwvZGN5Ynl1dC1hN2Q3ZTUxNC05ZTM3LTRiMGQtYmVhOS0xNzZlZjA4ODQzN2YucG5nIiwiaGVpZ2h0IjoiPD03MjEiLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiJcL3dtXC8yNWQ0NTAxNC04Y2MzLTRjOTgtYjAyYy01YTBjZjNhNTVkZGRcL3BydXNzaWFhcnQtNC5wbmciLCJvcGFjaXR5Ijo5NSwicHJvcG9ydGlvbnMiOjAuNDUsImdyYXZpdHkiOiJjZW50ZXIifX0.x_JKCy3UnnCb9N5i8yW2H82vFDOA7b0NrmVjneZHkJY' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Squid on transparent background | Premium AI-generated PSD">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-psd/squid-transparent-background_679658-39699.jpg?w=360' alt='Squid on transparent background | Premium AI-generated PSD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-psd/squid-transparent-background_679658-39699.jpg?w=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Squid transparent PNG - StickPNG">
+                                <img itemprop="contentUrl url" src='https://assets.stickpng.com/images/585d3b8ccb11b227491c3357.png' alt='Squid transparent PNG - StickPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="380">
+                                <meta itemprop="height" content="232">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StickPNG" />
+                                </span>
+                                <a href='https://assets.stickpng.com/images/585d3b8ccb11b227491c3357.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Squid PNGs for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/016/547/656/small/watercolor-squid-clip-art-png.png' alt='Squid PNGs for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="292">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/016/547/656/small/watercolor-squid-clip-art-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Squid transparent.png - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/8/87/Squid_transparent.png' alt='File:Squid transparent.png - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="226">
+                                <meta itemprop="height" content="269">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/8/87/Squid_transparent.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Squid PNG transparent image download, size: 1216x580px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/squid_PNG3.png' alt='Squid PNG transparent image download, size: 1216x580px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1216">
+                                <meta itemprop="height" content="580">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/squid_PNG3.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Squid PNG transparent image download, size: 690x350px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/squid_PNG18.png' alt='Squid PNG transparent image download, size: 690x350px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="690">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/squid_PNG18.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Squid PNG, Vector, PSD, and Clipart With Transparent Background ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-vector/20221013/ourmid/pngtree-cartoon-squid-vector-calamari-mollusk-png-image_6281038.png' alt='Squid PNG, Vector, PSD, and Clipart With Transparent Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="361">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-vector/20221013/ourmid/pngtree-cartoon-squid-vector-calamari-mollusk-png-image_6281038.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colossal Squid PNG Images (Transparent HD Photo Clipart)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/be/f7/2b/bef72b11f856376c034c6e82f381305c.jpg' alt='Colossal Squid PNG Images (Transparent HD Photo Clipart)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/be/f7/2b/bef72b11f856376c034c6e82f381305c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AI generated Squid isolated on transparent background 42236009 PNG">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/042/236/009/small_2x/ai-generated-squid-isolated-on-transparent-background-png.png' alt='AI generated Squid isolated on transparent background 42236009 PNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/042/236/009/small_2x/ai-generated-squid-isolated-on-transparent-background-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

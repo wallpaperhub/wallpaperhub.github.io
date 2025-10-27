@@ -1,0 +1,129 @@
+<title>AccuSource Background Checks: Reliable & Efficient Screening Solutions</title>
+                    <meta name="description" content="Discover AccuSource Background Checks for thorough and compliant screening services. Our solutions help businesses make informed hiring decisions with confidence. Explore our wide range of checks today!">
+                    <meta name="keywords" content="accusource background checks">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/accusource-background-checks">
+                            <span itemprop="name">accusource background checks</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>AccuSource Background Checks: Reliable & Efficient Screening Solutions</h1>
+                <p>AccuSource Background Checks provide comprehensive screening solutions that ensure peace of mind. With a focus on accuracy and compliance, AccuSource offers a wide range of services, including criminal record checks, employment verification, and credit history assessments. Trust AccuSource for reliable background information to make informed hiring decisions.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Screening Services For Employers | AccuSourceHR, Inc.">
+                                <img itemprop="contentUrl url" src='https://www.accusourcehr.com/hubfs/images/mockups/accusourcehr-tec-forward.png' alt='Background Screening Services For Employers | AccuSourceHR, Inc.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="575">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.accusourcehr.com" />
+                                </span>
+                                <a href='https://www.accusourcehr.com/hubfs/images/mockups/accusourcehr-tec-forward.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Screening Resources | AccuSource, Inc.">
+                                <img itemprop="contentUrl url" src='https://www.accusourcehr.com/hs-fs/hubfs/images/on-page/thumbnails/Complete%20Guide%20To%20Advanced%20Background%20Checks.content.png?width=500&height=326&name=Complete%20Guide%20To%20Advanced%20Background%20Checks.content.png' alt='Background Screening Resources | AccuSource, Inc.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="326">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AccuSourceHR" />
+                                </span>
+                                <a href='https://www.accusourcehr.com/hs-fs/hubfs/images/on-page/thumbnails/Complete%20Guide%20To%20Advanced%20Background%20Checks.content.png?width=500&height=326&name=Complete%20Guide%20To%20Advanced%20Background%20Checks.content.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Accusource Background Checks">
+                                <img itemprop="contentUrl url" src='https://accusource-background-checks.govbackgroundchecks.com/screenshots/accusource-background-checks/0.jpg' alt='Accusource Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://accusource-background-checks.govbackgroundchecks.com/screenshots/accusource-background-checks/0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PeopleG2, now AccuSource Setup and Use – Avionte Bold">
+                                <img itemprop="contentUrl url" src='https://avionteboldsupport.zendesk.com/hc/article_attachments/9485424667283' alt='PeopleG2, now AccuSource Setup and Use – Avionte Bold'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1268">
+                                <meta itemprop="height" content="869">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Avionte Bold - Zendesk" />
+                                </span>
+                                <a href='https://avionteboldsupport.zendesk.com/hc/article_attachments/9485424667283' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Screening Resources | AccuSource, Inc.">
+                                <img itemprop="contentUrl url" src='https://www.accusourcehr.com/hs-fs/hubfs/Ebook%20Frame%20for%20Website-1.png?width=2000&name=Ebook%20Frame%20for%20Website-1.png' alt='Background Screening Resources | AccuSource, Inc.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1303">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AccuSourceHR" />
+                                </span>
+                                <a href='https://www.accusourcehr.com/hs-fs/hubfs/Ebook%20Frame%20for%20Website-1.png?width=2000&name=Ebook%20Frame%20for%20Website-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PeopleG2, now AccuSource Setup and Use – Avionte Bold">
+                                <img itemprop="contentUrl url" src='https://avionteboldsupport.zendesk.com/hc/article_attachments/9485424692371' alt='PeopleG2, now AccuSource Setup and Use – Avionte Bold'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="602">
+                                <meta itemprop="height" content="602">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Avionte Bold - Zendesk" />
+                                </span>
+                                <a href='https://avionteboldsupport.zendesk.com/hc/article_attachments/9485424692371' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Accusource Background Checks">
+                                <img itemprop="contentUrl url" src='https://accusource-background-checks.govbackgroundchecks.com/screenshots/accusource-background-checks/3.jpg' alt='Accusource Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://accusource-background-checks.govbackgroundchecks.com/screenshots/accusource-background-checks/3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Screening Resources | AccuSource, Inc.">
+                                <img itemprop="contentUrl url" src='https://www.accusourcehr.com/hs-fs/hubfs/eBook%20-%20Best%20Practices%20in%20Independent%20Contractor%20Background%20Checks.png?width=2000&name=eBook%20-%20Best%20Practices%20in%20Independent%20Contractor%20Background%20Checks.png' alt='Background Screening Resources | AccuSource, Inc.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1353">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AccuSourceHR" />
+                                </span>
+                                <a href='https://www.accusourcehr.com/hs-fs/hubfs/eBook%20-%20Best%20Practices%20in%20Independent%20Contractor%20Background%20Checks.png?width=2000&name=eBook%20-%20Best%20Practices%20in%20Independent%20Contractor%20Background%20Checks.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Screening Resources | AccuSource, Inc.">
+                                <img itemprop="contentUrl url" src='https://www.accusourcehr.com/hs-fs/hubfs/Ebook%20Frame%20for%20Website%20-%2010%20Dos.png?width=7812&height=5288&name=Ebook%20Frame%20for%20Website%20-%2010%20Dos.png' alt='Background Screening Resources | AccuSource, Inc.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7812">
+                                <meta itemprop="height" content="5288">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AccuSourceHR" />
+                                </span>
+                                <a href='https://www.accusourcehr.com/hs-fs/hubfs/Ebook%20Frame%20for%20Website%20-%2010%20Dos.png?width=7812&height=5288&name=Ebook%20Frame%20for%20Website%20-%2010%20Dos.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Accusource Background Checks">
+                                <img itemprop="contentUrl url" src='https://accusource-background-checks.govbackgroundchecks.com/screenshots/accusource-background-checks/5.jpg' alt='Accusource Background Checks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://accusource-background-checks.govbackgroundchecks.com/screenshots/accusource-background-checks/5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

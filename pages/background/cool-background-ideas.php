@@ -1,0 +1,129 @@
+<title>Cool Background Ideas: Elevate Your Space</title>
+                    <meta name="description" content="Discover creative cool background ideas to refresh your environment! From colorful gradients to stylish textures, find the perfect designs that fit your personality. Transform any space with unique patterns and art that inspire modern vibes and enhance your decor effortlessly.">
+                    <meta name="keywords" content="cool background ideas">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cool-background-ideas">
+                            <span itemprop="name">cool background ideas</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cool Background Ideas: Elevate Your Space</h1>
+                <p>Looking for cool background ideas? Consider vibrant gradients, geometric patterns, or nature-inspired designs. You can also use unique textures like wood or marble for added depth. For a modern touch, try abstract art or minimalist color blocks. Personalize your space by mixing and matching these options to create the perfect vibe!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="259,000+ Cool Backgrounds Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1392898737/vector/abstract-horizontal-background-with-colorful-waves.jpg?s=612x612&w=0&k=20&c=xxRagBOWElqfzxPho893QoNmB1HnAw9VM-UHkQhtih4=' alt='259,000+ Cool Backgrounds Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="389">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1392898737/vector/abstract-horizontal-background-with-colorful-waves.jpg?s=612x612&w=0&k=20&c=xxRagBOWElqfzxPho893QoNmB1HnAw9VM-UHkQhtih4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Background Ideas | 100+ best free abstract, architecture ...">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1620121684840-edffcfc4b878?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8Nnw4NDE5MDR8fGVufDB8fHx8fA%3D%3D' alt='Cool Background Ideas | 100+ best free abstract, architecture ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1620121684840-edffcfc4b878?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8Nnw4NDE5MDR8fGVufDB8fHx8fA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="259,000+ Cool Backgrounds Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1352545319/vector/groovy-retro-background-pattern-in-retro-color-palette-of-blue-orange-and-beige-stripes-in.jpg?s=612x612&w=0&k=20&c=EeCCaXdSLqTlD5YqZCerbljg4I4mYDjojUPOe7FHBhI=' alt='259,000+ Cool Backgrounds Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="411">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1352545319/vector/groovy-retro-background-pattern-in-retro-color-palette-of-blue-orange-and-beige-stripes-in.jpg?s=612x612&w=0&k=20&c=EeCCaXdSLqTlD5YqZCerbljg4I4mYDjojUPOe7FHBhI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Creative Background Drawing Ideas for a Wow-Worthy Artwork">
+                                <img itemprop="contentUrl url" src='https://freshprompts-blog-images.s3.amazonaws.com/background-drawing-ideas/og-image-background-drawing-ideas.jpg' alt='25 Creative Background Drawing Ideas for a Wow-Worthy Artwork'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fresh Prompts" />
+                                </span>
+                                <a href='https://freshprompts-blog-images.s3.amazonaws.com/background-drawing-ideas/og-image-background-drawing-ideas.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Background Ideas | 100+ best free abstract, architecture ...">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1633821051688-fc558b716185?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3' alt='Cool Background Ideas | 100+ best free abstract, architecture ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3817">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1633821051688-fc558b716185?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cool backround">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ff/2f/b4/ff2fb4bf25a64c1c31f3c307f94854f2.jpg' alt='cool backround'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ff/2f/b4/ff2fb4bf25a64c1c31f3c307f94854f2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/cool-geometric-triangular-figure-neon-laser-light-great-backgrounds_181624-11068.jpg?semt=ais_hybrid' alt='Cool Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/cool-geometric-triangular-figure-neon-laser-light-great-backgrounds_181624-11068.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trendy Background Ideas for Your Next Design (2024 Guide)">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2020/07/Featured-Image-2.jpg' alt='Trendy Background Ideas for Your Next Design (2024 Guide)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2020/07/Featured-Image-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Cool patterns ideas | iphone background, cool patterns ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/25/8f/18/258f18da8dfe10d36704f9dccaaa17dd.jpg' alt='10 Cool patterns ideas | iphone background, cool patterns ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1040">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/25/8f/18/258f18da8dfe10d36704f9dccaaa17dd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Creative Background Drawing Ideas for a Wow-Worthy Artwork">
+                                <img itemprop="contentUrl url" src='https://freshprompts-blog-images.s3.amazonaws.com/background-drawing-ideas/color.jpg' alt='25 Creative Background Drawing Ideas for a Wow-Worthy Artwork'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1201">
+                                <meta itemprop="height" content="674">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fresh Prompts" />
+                                </span>
+                                <a href='https://freshprompts-blog-images.s3.amazonaws.com/background-drawing-ideas/color.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

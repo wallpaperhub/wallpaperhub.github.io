@@ -1,0 +1,129 @@
+<title>Bubblegum Pink Wallpaper: Brighten Up Your Space</title>
+                    <meta name="description" content="Discover bubblegum pink wallpaper to transform your space with a burst of color. Ideal for playful interiors, this lively wallpaper is easy to apply and perfect for any room. Elevate your home decor with a fun, stylish twist that resonates with your personality and brings warmth to your environment.">
+                    <meta name="keywords" content="bubblegum pink wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/bubblegum-pink-wallpaper">
+                            <span itemprop="name">bubblegum pink wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Bubblegum Pink Wallpaper: Brighten Up Your Space</h1>
+                <p>Bubblegum pink wallpaper brings a playful and vibrant atmosphere to any room. Perfect for nurseries, kids' rooms, or a chic accent wall, its lively hue adds a pop of color and cheer. Easy to apply and remove, this wallpaper lets you express your personality and create a fun, inviting space that sparks joy and creativity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bubblegum Pink Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/15307421/p/f/m/k9koqh6pymGBd_E4LH-TYhcVM94L9Tg1YXgyLcxOJlxVDFdJ5WflKFE/Retro%20Bubblegum%20Pink%20Solid.jpg' alt='Bubblegum Pink Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/15307421/p/f/m/k9koqh6pymGBd_E4LH-TYhcVM94L9Tg1YXgyLcxOJlxVDFdJ5WflKFE/Retro%20Bubblegum%20Pink%20Solid.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bubblegum Pop Wallpaper – YELLOWPOP">
+                                <img itemprop="contentUrl url" src='https://www.yellowpop.com/cdn/shop/products/WPYKBBLGMPOP700.jpg?v=1658934538' alt='Bubblegum Pop Wallpaper – YELLOWPOP'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="yellowpop" />
+                                </span>
+                                <a href='https://www.yellowpop.com/cdn/shop/products/WPYKBBLGMPOP700.jpg?v=1658934538' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Bubble Gum (1920 x 1080) : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/9u2wu0gjgq961.jpg' alt='Pink Bubble Gum (1920 x 1080) : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/9u2wu0gjgq961.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bubblegum Pink Solid Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/16264709/p/f/m/JCtilvkKBdvcpSMpB9_MgZ3CqFhzEXvjfQMXGyp8q-P9epb6ZvSxMXo/F6CCD5%20Solid%20Color%20Map%20Pale%20Pastel%20Pink.jpg' alt='Bubblegum Pink Solid Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/16264709/p/f/m/JCtilvkKBdvcpSMpB9_MgZ3CqFhzEXvjfQMXGyp8q-P9epb6ZvSxMXo/F6CCD5%20Solid%20Color%20Map%20Pale%20Pastel%20Pink.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD bubblegum pink wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/104/851/HD-wallpaper-bubblegum-3d-3d-design-blue-bubbles-gum-pastel-color-pink-render-sweet-thumbnail.jpg' alt='HD bubblegum pink wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/104/851/HD-wallpaper-bubblegum-3d-3d-design-blue-bubbles-gum-pastel-color-pink-render-sweet-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cotton Single Jersey - Bubblegum Pink - Sample">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2e/5b/91/2e5b9176f357a5e2dfa5c86961534a05.jpg' alt='Cotton Single Jersey - Bubblegum Pink - Sample'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2e/5b/91/2e5b9176f357a5e2dfa5c86961534a05.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 3 | Bubblegum Pink Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/view-tennis-balls-monochrome-palette_23-2150635190.jpg' alt='Page 3 | Bubblegum Pink Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="417">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/view-tennis-balls-monochrome-palette_23-2150635190.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bubblegum Pink Wallpaper by Snowy0Muffins on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c49e2eeb-4761-4569-9864-6de6838624db/deqq9sp-1835d557-f0a2-4b8f-b7c0-c594b70a3374.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M0OWUyZWViLTQ3NjEtNDU2OS05ODY0LTZkZTY4Mzg2MjRkYlwvZGVxcTlzcC0xODM1ZDU1Ny1mMGEyLTRiOGYtYjdjMC1jNTk0YjcwYTMzNzQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.raDeJHPXLOZ4f3RVHQiwur8AALfSO41h_MrKsN2Dqzg' alt='Bubblegum Pink Wallpaper by Snowy0Muffins on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c49e2eeb-4761-4569-9864-6de6838624db/deqq9sp-1835d557-f0a2-4b8f-b7c0-c594b70a3374.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M0OWUyZWViLTQ3NjEtNDU2OS05ODY0LTZkZTY4Mzg2MjRkYlwvZGVxcTlzcC0xODM1ZDU1Ny1mMGEyLTRiOGYtYjdjMC1jNTk0YjcwYTMzNzQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.raDeJHPXLOZ4f3RVHQiwur8AALfSO41h_MrKsN2Dqzg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bubblegum Pink Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/monochrome-realistic-liquid-effect-background_23-2148250134.jpg' alt='Bubblegum Pink Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/monochrome-realistic-liquid-effect-background_23-2148250134.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="92 Bubble Gum Pink ideas | pink aesthetic, pink, pink wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/17/66/fd/1766fd88f6e238260000875c071076f2.jpg' alt='92 Bubble Gum Pink ideas | pink aesthetic, pink, pink wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="235">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/17/66/fd/1766fd88f6e238260000875c071076f2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

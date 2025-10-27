@@ -1,0 +1,129 @@
+<title>Exploring Mo Dao Zu Shi: A Dive into the World of Cultivation</title>
+                    <meta name="description" content="Dive into Mo Dao Zu Shi (MDZS), a captivating tale of cultivation and adventure. Discover Wei Wuxian's journey through a world rich with magic, dark arts, and intricate relationships. Perfect for fans of fantasy and Chinese culture alike!">
+                    <meta name="keywords" content="mdzs background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/mdzs-background">
+                            <span itemprop="name">mdzs background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring Mo Dao Zu Shi: A Dive into the World of Cultivation</h1>
+                <p>Mo Dao Zu Shi (MDZS), or "Grandmaster of Demonic Cultivation," is a Chinese web novel by Mo Xiang Tong Xiu. Set in a richly imagined world of cultivation, it follows Wei Wuxian, a brilliant but controversial figure who delves into dark arts. The story blends adventure, mystery, and romance, captivating fans globally.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I posted my MDZS inspired phone backgrounds a couple of days ago ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/i-posted-my-mdzs-inspired-phone-backgrounds-a-couple-of-v0-u8emxswyztpb1.jpg?width=1058&format=pjpg&auto=webp&s=5e2eec3f3a9bf80e72475072b6f70889e260d6a4' alt='I posted my MDZS inspired phone backgrounds a couple of days ago ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1058">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/i-posted-my-mdzs-inspired-phone-backgrounds-a-couple-of-v0-u8emxswyztpb1.jpg?width=1058&format=pjpg&auto=webp&s=5e2eec3f3a9bf80e72475072b6f70889e260d6a4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mo Dao Zu Shi | 魔道祖师 — @ Mo Dao Zu Shi donghua backgrounds.">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/ed1b4a805d6f9b4cb4b947b496417c5f/tumblr_pbymrd0YRe1uew1d9_1280.jpg' alt='Mo Dao Zu Shi | 魔道祖师 — @ Mo Dao Zu Shi donghua backgrounds.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="543">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mo Dao Zu Shi | 魔道祖师 - Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/ed1b4a805d6f9b4cb4b947b496417c5f/tumblr_pbymrd0YRe1uew1d9_1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="mo dao zu shi wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ba/0b/0a/ba0b0ac55074efd9c1e0afd540a2607d.jpg' alt='mo dao zu shi wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="734">
+                                <meta itemprop="height" content="412">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ba/0b/0a/ba0b0ac55074efd9c1e0afd540a2607d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Lan Wangji Lan Zhan Wei Ying Wei Wuxian Anime Mo Dao Zu ...">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/112/1128723.jpg' alt='Download Lan Wangji Lan Zhan Wei Ying Wei Wuxian Anime Mo Dao Zu ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3001">
+                                <meta itemprop="height" content="1748">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/112/1128723.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="designed some mdzs wallpapers :) : r/MoDaoZuShi">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/designed-some-mdzs-wallpapers-v0-lfsd9rfrddaa1.jpg?width=640&crop=smart&auto=webp&s=2b68b1631a792ba2509405e2d2fdad169326b54c' alt='designed some mdzs wallpapers :) : r/MoDaoZuShi'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/designed-some-mdzs-wallpapers-v0-lfsd9rfrddaa1.jpg?width=640&crop=smart&auto=webp&s=2b68b1631a792ba2509405e2d2fdad169326b54c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Wei Ying Wei Wuxian Lan Zhan Lan Wangji Anime Mo Dao Zu ...">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/113/1132287.jpg' alt='Download Wei Ying Wei Wuxian Lan Zhan Lan Wangji Anime Mo Dao Zu ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1095">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/113/1132287.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mo Dao Zu Shi | 魔道祖师 — @ Mo Dao Zu Shi donghua backgrounds.">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/c76b271466cbcd90a37fe1aa8d248491/tumblr_pbymrcT7ky1uew1d9_1280.jpg' alt='Mo Dao Zu Shi | 魔道祖师 — @ Mo Dao Zu Shi donghua backgrounds.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="543">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mo Dao Zu Shi | 魔道祖师 - Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/c76b271466cbcd90a37fe1aa8d248491/tumblr_pbymrcT7ky1uew1d9_1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Mo Dao Zu Shi Background | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/mo-dao-zu-shi-background-88s9ok3xidkddrov.jpg' alt='Download Mo Dao Zu Shi Background | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/mo-dao-zu-shi-background-88s9ok3xidkddrov.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Wei Wuxian Lan Wangji Anime Mo Dao Zu Shi HD Wallpaper by ...">
+                                <img itemprop="contentUrl url" src='https://images4.alphacoders.com/129/1296836.jpg' alt='Download Wei Wuxian Lan Wangji Anime Mo Dao Zu Shi HD Wallpaper by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4096">
+                                <meta itemprop="height" content="1995">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images4.alphacoders.com/129/1296836.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MDZS Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d1/ce/4a/d1ce4a62605035e8fa1438688a5be08d.jpg' alt='MDZS Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="690">
+                                <meta itemprop="height" content="1162">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d1/ce/4a/d1ce4a62605035e8fa1438688a5be08d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

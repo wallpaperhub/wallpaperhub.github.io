@@ -1,0 +1,129 @@
+<title>Light Blue Theme Wallpaper: Calm & Refreshing Designs</title>
+                    <meta name="description" content="Discover stunning light blue theme wallpaper that transforms your space. Ideal for creating a soothing atmosphere, these designs range from minimalistic to artistic. Perfect for homes or offices, find the ideal pattern to refresh your walls and inspire tranquility. Explore our collection now!">
+                    <meta name="keywords" content="light blue theme wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light">
+                            <span itemprop="name">Light</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light/light-blue-theme-wallpaper">
+                            <span itemprop="name">light blue theme wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Light Blue Theme Wallpaper: Calm & Refreshing Designs</h1>
+                <p>Light blue theme wallpaper brings a refreshing and calming touch to any space. Perfect for homes or offices, this serene hue creates a peaceful ambiance. Whether you prefer solid colors or intricate designs, light blue wallpaper can enhance your decor while promoting tranquility and creativity. Explore various styles to find the perfect fit for your aesthetic!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable blue wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGHUlyB5wA/1/0/900w/canva-blue-and-white-floral-watercolor-phone-wallpaper-YfzI8hLXKFs.jpg' alt='Free and customizable blue wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGHUlyB5wA/1/0/900w/canva-blue-and-white-floral-watercolor-phone-wallpaper-YfzI8hLXKFs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300+] Light Blue Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/light-blue-aesthetic-5tayxnmsjtbemnhi.jpg' alt='300+] Light Blue Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/light-blue-aesthetic-5tayxnmsjtbemnhi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="wallpapers blue theme">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/56/5f/c5/565fc5f15e1833ad2e24ad5777099888.jpg' alt='wallpapers blue theme'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="235">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/56/5f/c5/565fc5f15e1833ad2e24ad5777099888.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE Baby Blue Aesthetic Wallpaper Backgrounds For Your Phone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a7/d7/13/a7d713b5a566d7f1406c1ac90200afbc.jpg' alt='FREE Baby Blue Aesthetic Wallpaper Backgrounds For Your Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a7/d7/13/a7d713b5a566d7f1406c1ac90200afbc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Baby Blue Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/baby-blue-e7l0r9mzdruea4w5.jpg' alt='100+] Baby Blue Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/baby-blue-e7l0r9mzdruea4w5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE Baby Blue Aesthetic Wallpaper Backgrounds For Your Phone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/73/bc/d3/73bcd34f81b6dcc9aac810ff321e419c.jpg' alt='FREE Baby Blue Aesthetic Wallpaper Backgrounds For Your Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/73/bc/d3/73bcd34f81b6dcc9aac810ff321e419c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Blue Background Photos, Download The BEST Free Light Blue ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/281260/pexels-photo-281260.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' alt='Light Blue Background Photos, Download The BEST Free Light Blue ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="331">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/281260/pexels-photo-281260.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Light Blue Aesthetic Laptop Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/light-blue-aesthetic-laptop-71oypz6sl5jwiln1.jpg' alt='100+] Light Blue Aesthetic Laptop Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/light-blue-aesthetic-laptop-71oypz6sl5jwiln1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Blue Aesthetic Ferris Wheel Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/light-blue-aesthetic-ferris-wheel-m7x8wt593qm4z3b2.jpg' alt='Light Blue Aesthetic Ferris Wheel Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1357">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/light-blue-aesthetic-ferris-wheel-m7x8wt593qm4z3b2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Blue Wedding Background Images, HD Pictures and Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20210521/pngtree-light-blue-theme-flower-silhouette-wedding-watercolor-floral-background-image_718201.jpg' alt='Light Blue Wedding Background Images, HD Pictures and Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="288">
+                                <meta itemprop="height" content="403">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20210521/pngtree-light-blue-theme-flower-silhouette-wedding-watercolor-floral-background-image_718201.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

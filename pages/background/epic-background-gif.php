@@ -1,0 +1,129 @@
+<title>Epic Background GIFs: Transform Your Visuals!</title>
+                    <meta name="description" content="Discover the power of epic background GIFs to enhance your digital presence! From stunning animations to captivating designs, find the perfect GIF that resonates with your style. Ideal for websites, presentations, and more, elevate your visuals effortlessly. Explore our diverse collection today!">
+                    <meta name="keywords" content="epic background gif">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/epic-background-gif">
+                            <span itemprop="name">epic background gif</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Background GIFs: Transform Your Visuals!</h1>
+                <p>Elevate your digital space with an epic background GIF! These eye-catching animations add dynamic flair to websites, blogs, or presentations. Choose from cosmic scenes, mesmerizing patterns, or nature's beauty to captivate your audience. Transform your visuals and create an immersive experience that leaves a lasting impression!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="❂ Epic 4K Moving Background ❂ For Lyric Videos ❂ 4K Blue Moon ...">
+                                <img itemprop="contentUrl url" src='https://i.makeagif.com/media/10-27-2017/J1piIN.gif' alt='❂ Epic 4K Moving Background ❂ For Lyric Videos ❂ 4K Blue Moon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Make A Gif" />
+                                </span>
+                                <a href='https://i.makeagif.com/media/10-27-2017/J1piIN.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Epic Moving Backgrounds GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/ZtmCk60r4l4AAAAM/epic-smile.gif' alt='Epic Moving Backgrounds GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="165">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/ZtmCk60r4l4AAAAM/epic-smile.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NICE GIF">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/10/65/64/106564c9a62b494feb123da2ad3ea704.gif' alt='NICE GIF'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/10/65/64/106564c9a62b494feb123da2ad3ea704.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Animated Gifs of Fighting Game Backgrounds » TwistedSifter">
+                                <img itemprop="contentUrl url" src='http://twistedsifter.com/wp-content/uploads/2013/05/animated-gifs-of-fighting-game-backgrounds-1.gif' alt='50 Animated Gifs of Fighting Game Backgrounds » TwistedSifter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="336">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TwistedSifter" />
+                                </span>
+                                <a href='http://twistedsifter.com/wp-content/uploads/2013/05/animated-gifs-of-fighting-game-backgrounds-1.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10Min. 4K ☆ Colorful Fast Sparkles ☆ 2160p 60fps Epic Moving ...">
+                                <img itemprop="contentUrl url" src='https://i.makeagif.com/media/1-29-2020/qgqF3o.gif' alt='10Min. 4K ☆ Colorful Fast Sparkles ☆ 2160p 60fps Epic Moving ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Make A Gif" />
+                                </span>
+                                <a href='https://i.makeagif.com/media/1-29-2020/qgqF3o.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Epic Effect GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/SULQG4_PRKYAAAAM/lexan-cool-effect.gif' alt='Epic Effect GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/SULQG4_PRKYAAAAM/lexan-cool-effect.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Epic Cinematic Motion Background - No Copyright -4K Releaxing ...">
+                                <img itemprop="contentUrl url" src='https://i.makeagif.com/media/11-07-2020/SeaAg-.gif' alt='Dark Epic Cinematic Motion Background - No Copyright -4K Releaxing ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Make A Gif" />
+                                </span>
+                                <a href='https://i.makeagif.com/media/11-07-2020/SeaAg-.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Epic Fantasy GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media1.giphy.com/media/eznGEMbwZzZbmFkUwl/200w.gif?cid=6c09b952rivudz2d5zpcp920ke2mfpim6motcb97t3uk3t3n&ep=v1_gifs_search&rid=200w.gif&ct=g' alt='Epic Fantasy GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media1.giphy.com/media/eznGEMbwZzZbmFkUwl/200w.gif?cid=6c09b952rivudz2d5zpcp920ke2mfpim6motcb97t3uk3t3n&ep=v1_gifs_search&rid=200w.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Gif Wallpaper GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/dGLZnTUGV_UAAAAM/galaxy.gif' alt='Cool Gif Wallpaper GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="356">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/dGLZnTUGV_UAAAAM/galaxy.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background GIFs | GIFDB.com">
+                                <img itemprop="contentUrl url" src='https://gifdb.com/images/featured/background-r4tz04b0l8kqi6do.gif' alt='Background GIFs | GIFDB.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="141">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GIFDB.com" />
+                                </span>
+                                <a href='https://gifdb.com/images/featured/background-r4tz04b0l8kqi6do.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

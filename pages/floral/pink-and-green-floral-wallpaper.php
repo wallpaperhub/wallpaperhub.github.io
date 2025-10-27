@@ -1,0 +1,129 @@
+<title>Chic Pink and Green Floral Wallpaper for Stylish Interiors</title>
+                    <meta name="description" content="Elevate your decor with pink and green floral wallpaper. Perfect for adding a fresh, vibrant touch to any room, this timeless design complements various styles. Explore the beauty of nature indoors and transform your space effortlessly!">
+                    <meta name="keywords" content="pink and green floral wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/pink-and-green-floral-wallpaper">
+                            <span itemprop="name">pink and green floral wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Pink and Green Floral Wallpaper for Stylish Interiors</h1>
+                <p>Transform your space with enchanting pink and green floral wallpaper, adding a touch of elegance and vibrancy to any room. This beautiful design brings nature indoors, creating a cheerful and uplifting atmosphere. Perfect for bedrooms, living rooms, or as an accent wall, floral wallpaper is a timeless choice for modern decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galerie G56649 Delicate Floral Pink Green Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/250504.jpg' alt='Galerie G56649 Delicate Floral Pink Green Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/250504.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rosa Wallpaper • Milton & King">
+                                <img itemprop="contentUrl url" src='https://s29938.pcdn.co/wp-content/uploads/2021/05/Wallpaper-Magnaolia-Rosa-Rose-Pink-1.jpg.optimal.jpg' alt='Rosa Wallpaper • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://s29938.pcdn.co/wp-content/uploads/2021/05/Wallpaper-Magnaolia-Rosa-Rose-Pink-1.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Vintage Wallpaper Pink Cream Green Cream Victorian ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81bEjqyQP1L.jpg' alt='Floral Vintage Wallpaper Pink Cream Green Cream Victorian ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1527">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81bEjqyQP1L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oliana Floral Wallpaper Pink Belgravia 8485">
+                                <img itemprop="contentUrl url" src='https://www.worldofwallpaper.com/media/catalog/product/cache/cb6d4e8db131c61a8cb54c52a893246a/b/e/bel088_oliana_floral_wallpaper_pink_ae1.jpg' alt='Oliana Floral Wallpaper Pink Belgravia 8485'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World of Wallpaper" />
+                                </span>
+                                <a href='https://www.worldofwallpaper.com/media/catalog/product/cache/cb6d4e8db131c61a8cb54c52a893246a/b/e/bel088_oliana_floral_wallpaper_pink_ae1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Patton Norwall CH22531 Grand Floral Dk Pink Lt Pink Green Lt Turquoise  Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/210615.jpg' alt='Patton Norwall CH22531 Grand Floral Dk Pink Lt Pink Green Lt Turquoise  Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/210615.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gorgeous Gardenia Wallpaper in Sage Green and Pink on White – I ...">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/1-GorgeousGardinea-SageGreenandPinkonWhite_ILW50251_Thumbnail_WEB_0bb0baca-2190-4144-a6aa-963daab03ead.webp?crop=center&height=1024&v=1706014431&width=1024' alt='Gorgeous Gardenia Wallpaper in Sage Green and Pink on White – I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/1-GorgeousGardinea-SageGreenandPinkonWhite_ILW50251_Thumbnail_WEB_0bb0baca-2190-4144-a6aa-963daab03ead.webp?crop=center&height=1024&v=1706014431&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor Floral Wallpaper Flower Baby Nursery, Antique Pink Rose ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8274094/r/il/1aea7a/1008147467/il_570xN.1008147467_bxi8.jpg' alt='Watercolor Floral Wallpaper Flower Baby Nursery, Antique Pink Rose ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8274094/r/il/1aea7a/1008147467/il_570xN.1008147467_bxi8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fine Decor Green Akina Sage Floral Wallpaper Sample M1724SAM">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/c57f775f-b79f-475d-91a0-f6f90de96b0d/svn/fine-decor-wallpaper-samples-m1724sam-64_600.jpg' alt='Fine Decor Green Akina Sage Floral Wallpaper Sample M1724SAM'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/c57f775f-b79f-475d-91a0-f6f90de96b0d/svn/fine-decor-wallpaper-samples-m1724sam-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arthouse Tropical Floral Pink Green Wallpaper Flower Botanical ...">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/VfQAAOSwMy1jtBA6/s-l1200.jpg' alt='Arthouse Tropical Floral Pink Green Wallpaper Flower Botanical ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/VfQAAOSwMy1jtBA6/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Norwall Flourish 55-sq ft Light Blue, Turquoise, Pink, Rose, Red, Green  Vinyl Floral Prepasted Soak and Hang Wallpaper">
+                                <img itemprop="contentUrl url" src='https://mobileimages.lowes.com/productimages/11f5c744-d45d-43d6-88eb-6b7327e716c2/12343050.jpg?size=pdhz' alt='Norwall Flourish 55-sq ft Light Blue, Turquoise, Pink, Rose, Red, Green  Vinyl Floral Prepasted Soak and Hang Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lowe's" />
+                                </span>
+                                <a href='https://mobileimages.lowes.com/productimages/11f5c744-d45d-43d6-88eb-6b7327e716c2/12343050.jpg?size=pdhz' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

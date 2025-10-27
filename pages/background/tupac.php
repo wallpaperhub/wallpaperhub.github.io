@@ -1,0 +1,129 @@
+<title>Tupac Shakur: The Legacy of Hip-Hop’s Icon</title>
+                    <meta name="description" content="Explore the life and impact of Tupac Shakur, a legendary rapper whose powerful lyrics addressed social issues. Discover his influence on music and culture, and how his legacy continues to inspire millions worldwide.">
+                    <meta name="keywords" content="tupac">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/tupac">
+                            <span itemprop="name">tupac</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Tupac Shakur: The Legacy of Hip-Hop’s Icon</h1>
+                <p>Tupac Shakur, also known as 2Pac, was an influential American rapper and cultural icon. Born on June 16, 1971, in East Harlem, his potent lyrics tackled issues like racial inequality, violence, and poverty. His untimely death at 25 has left a lasting legacy in music and activism, making him a symbol of resilience and creativity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tupac Shakur | Biography, Songs, Albums, Movies, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/02/162002-050-02512608/Tupac-Shakur-1993.jpg' alt='Tupac Shakur | Biography, Songs, Albums, Movies, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1101">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/02/162002-050-02512608/Tupac-Shakur-1993.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tupac on Acting, Fatherhood, Being the Son of a Black Panther">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/rapper-tupac-shakur-poses-for-photos-backstage-after-his-news-photo-1644598560.jpg' alt='Tupac on Acting, Fatherhood, Being the Son of a Black Panther'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3600">
+                                <meta itemprop="height" content="2371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Esquire" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/rapper-tupac-shakur-poses-for-photos-backstage-after-his-news-photo-1644598560.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tupac Shakur - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/b/bd/Tupac%27s_passport_headshot.jpg' alt='Tupac Shakur - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="599">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/b/bd/Tupac%27s_passport_headshot.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tupac Shakur: Biography, Rapper, Actor">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/tupac_shakur_photo_by_steve_eichner_archive_photos_getty_83928439.jpg?crop=1xw:1.0xh;center,top&resize=640:*' alt='Tupac Shakur: Biography, Rapper, Actor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/tupac_shakur_photo_by_steve_eichner_archive_photos_getty_83928439.jpg?crop=1xw:1.0xh;center,top&resize=640:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tupac Shakur could win his 1st Grammy Award posthumously ...">
+                                <img itemprop="contentUrl url" src='https://cdn.abcotvs.com/dip/images/14056204_111423-wpvi-tupac-grammy-4a-vo-video-vid.jpg?w=1600' alt='Tupac Shakur could win his 1st Grammy Award posthumously ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="6ABC" />
+                                </span>
+                                <a href='https://cdn.abcotvs.com/dip/images/14056204_111423-wpvi-tupac-grammy-4a-vo-video-vid.jpg?w=1600' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top Picks: Tupac Shakur | Chicago Public Library">
+                                <img itemprop="contentUrl url" src='https://www.chipublib.org/wp-content/uploads/sites/3/2021/05/PAC-e1621485082232.jpeg' alt='Top Picks: Tupac Shakur | Chicago Public Library'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chicago Public Library" />
+                                </span>
+                                <a href='https://www.chipublib.org/wp-content/uploads/sites/3/2021/05/PAC-e1621485082232.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tupac Shakur (@2pac) • Instagram photos and videos">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3558529434745017126' alt='Tupac Shakur (@2pac) • Instagram photos and videos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="1030">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3558529434745017126' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Happened to the Tupac Amaru Shakur Center for the Arts?">
+                                <img itemprop="contentUrl url" src='https://www.rollingstone.com/wp-content/uploads/2018/06/rs-247393-tupac.jpg?w=1581&h=1054&crop=1' alt='What Happened to the Tupac Amaru Shakur Center for the Arts?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1581">
+                                <meta itemprop="height" content="1054">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone" />
+                                </span>
+                                <a href='https://www.rollingstone.com/wp-content/uploads/2018/06/rs-247393-tupac.jpg?w=1581&h=1054&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wake Me When I'm Free' Dismantles the Myth of Tupac">
+                                <img itemprop="contentUrl url" src='https://www.highsnobiety.com/static-assets/dato/1645789924-life-legacy-tupac-main.jpg' alt='Wake Me When I'm Free' Dismantles the Myth of Tupac'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Highsnobiety" />
+                                </span>
+                                <a href='https://www.highsnobiety.com/static-assets/dato/1645789924-life-legacy-tupac-main.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tupac Shakur Remembered in GRAMMY Museum Exhibit - JSTOR Daily">
+                                <img itemprop="contentUrl url" src='https://daily.jstor.org/wp-content/uploads/2015/02/Tupac-Shakur_1050x700BW.jpg' alt='Tupac Shakur Remembered in GRAMMY Museum Exhibit - JSTOR Daily'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1050">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JSTOR Daily" />
+                                </span>
+                                <a href='https://daily.jstor.org/wp-content/uploads/2015/02/Tupac-Shakur_1050x700BW.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

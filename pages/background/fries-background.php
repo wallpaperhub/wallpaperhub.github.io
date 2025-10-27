@@ -1,0 +1,129 @@
+<title>Exploring the Delicious History of Fries</title>
+                    <meta name="description" content="Discover the fascinating history of fries, from their Belgian origins to global popularity. Learn about the different styles and flavors that make fries a beloved snack for all. Perfect for food lovers and culinary enthusiasts!">
+                    <meta name="keywords" content="fries background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fries-background">
+                            <span itemprop="name">fries background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring the Delicious History of Fries</h1>
+                <p>Fries, originating from Belgium and France, have a rich history. They became popular in the late 19th century and were initially served with seafood. The culinary innovation of frying potatoes led to a beloved snack worldwide. Today, fries come in various styles and flavors, from crinkle-cut to loaded variations, making them a favorite for all ages.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fries Background Stock Illustrations – 51,565 Fries Background ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/hand-draw-french-fries-doodle-french-fries-seamless-pattern-background-fast-food-seamless-pattern-doodle-french-fries-seamless-99380165.jpg' alt='Fries Background Stock Illustrations – 51,565 Fries Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/hand-draw-french-fries-doodle-french-fries-seamless-pattern-background-fast-food-seamless-pattern-doodle-french-fries-seamless-99380165.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Crispy golden French fries background Stock Photo | Adobe Stock">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/02/20/06/75/1000_F_220067526_atQFk3TYUJi6seGWtiE8IPRRc8FzwZwM.jpg' alt='Crispy golden French fries background Stock Photo | Adobe Stock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="664">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/02/20/06/75/1000_F_220067526_atQFk3TYUJi6seGWtiE8IPRRc8FzwZwM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6,500+ French Fries Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1474900067/vector/seamless-pattern-of-french-fries-vector-illustration.jpg?s=612x612&w=0&k=20&c=Mrc2XpCkZSx_hzzA0sh0dTkOgas5f8K5D8rsBHBpsxI=' alt='6,500+ French Fries Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1474900067/vector/seamless-pattern-of-french-fries-vector-illustration.jpg?s=612x612&w=0&k=20&c=Mrc2XpCkZSx_hzzA0sh0dTkOgas5f8K5D8rsBHBpsxI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Brief History of French Fries as the Ultimate Side - Pitco | The ...">
+                                <img itemprop="contentUrl url" src='https://www.pitco.com/wp-content/uploads/2023/11/Pitco-A-Brief-History-of-Fries-header.png' alt='A Brief History of French Fries as the Ultimate Side - Pitco | The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pitco" />
+                                </span>
+                                <a href='https://www.pitco.com/wp-content/uploads/2023/11/Pitco-A-Brief-History-of-Fries-header.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6,500+ French Fries Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1175172438/vector/french-fries-fried-potatoes-fast-food-seamless-pattern.jpg?s=612x612&w=0&k=20&c=ZlGjqVcgGUhTTFr4rj3vQhlVmYjdft6ADUHnrD6Um3k=' alt='6,500+ French Fries Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1175172438/vector/french-fries-fried-potatoes-fast-food-seamless-pattern.jpg?s=612x612&w=0&k=20&c=ZlGjqVcgGUhTTFr4rj3vQhlVmYjdft6ADUHnrD6Um3k=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Border of french fries on concrete background, directly above ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/zooms/9/5d4ac4094e5c4575a661e8f6e03f7b4f/t11g6b.jpg' alt='Border of french fries on concrete background, directly above ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="447">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/zooms/9/5d4ac4094e5c4575a661e8f6e03f7b4f/t11g6b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | French fries with sauce on a wooden board on a ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/french-fries-with-sauce-wooden-board-black-background_210632-2821.jpg?w=360' alt='Premium Photo | French fries with sauce on a wooden board on a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/french-fries-with-sauce-wooden-board-black-background_210632-2821.jpg?w=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The digital painting of french fries (stick potato chips) fastfood ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2DDH6ED/the-digital-painting-of-french-fries-stick-potato-chips-fastfood-and-ketchup-background-seamless-pattern-raster-illustration-for-wallpaper-decoratio-2DDH6ED.jpg' alt='The digital painting of french fries (stick potato chips) fastfood ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2DDH6ED/the-digital-painting-of-french-fries-stick-potato-chips-fastfood-and-ketchup-background-seamless-pattern-raster-illustration-for-wallpaper-decoratio-2DDH6ED.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6,500+ French Fries Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1125408457/vector/french-fries-roasted-potato-chips-vector-illustration.jpg?s=612x612&w=0&k=20&c=T-y12xikNzbdru4e4S0HkWnNpu5iNcaG2CaAhWRKPVE=' alt='6,500+ French Fries Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1125408457/vector/french-fries-roasted-potato-chips-vector-illustration.jpg?s=612x612&w=0&k=20&c=T-y12xikNzbdru4e4S0HkWnNpu5iNcaG2CaAhWRKPVE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Speak French Fries Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/smiling-french-fries-graphic-w86jxzmr300hpf60.webp' alt='Speak French Fries Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/smiling-french-fries-graphic-w86jxzmr300hpf60.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

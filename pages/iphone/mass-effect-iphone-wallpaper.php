@@ -1,0 +1,129 @@
+<title>Mass Effect iPhone Wallpapers: Epic Sci-Fi Designs</title>
+                    <meta name="description" content="Discover an array of breathtaking Mass Effect iPhone wallpapers! Elevate your device with vibrant designs featuring iconic characters and stunning visuals from the beloved game series. Perfect for gamers and fans alike. Download your favorite wallpaper for a truly immersive experience!">
+                    <meta name="keywords" content="mass effect iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/mass-effect-iphone-wallpaper">
+                            <span itemprop="name">mass effect iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mass Effect iPhone Wallpapers: Epic Sci-Fi Designs</h1>
+                <p>Transform your iPhone with stunning Mass Effect wallpapers! Immerse yourself in the breathtaking universe of this iconic video game series, showcasing your favorite characters, ships, and landscapes. Perfect for fans who want to personalize their devices with epic sci-fi art. Download your favorite design today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here's some Mass Effect wallpapers for your phones guys, enjoy ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/AnNVznb_EkVc6JqVvI0lTPr3kOwwcl0-HyxkhIlvtCc.jpg?auto=webp&s=73881bbf5998f79325ecd8090c649a3d5541d4dd' alt='Here's some Mass Effect wallpapers for your phones guys, enjoy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="886">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/AnNVznb_EkVc6JqVvI0lTPr3kOwwcl0-HyxkhIlvtCc.jpg?auto=webp&s=73881bbf5998f79325ecd8090c649a3d5541d4dd' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mass Effect: Andromeda iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://birchtree.me/wp-content/uploads/2017/03/mass-effect-andromeda-2.jpg' alt='Mass Effect: Andromeda iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Birchtree" />
+                                </span>
+                                <a href='https://birchtree.me/wp-content/uploads/2017/03/mass-effect-andromeda-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Loved the mobile version of the LE wallpaper by u/anc789, but ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/vrimq0fvape61.jpg?auto=webp&s=e701e8bcd7c99475259b4f7fb19bb7732309ab16' alt='Loved the mobile version of the LE wallpaper by u/anc789, but ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="3040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/vrimq0fvape61.jpg?auto=webp&s=e701e8bcd7c99475259b4f7fb19bb7732309ab16' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mass Effect Wallpapers (35 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/1/9/b/1841375-2160x3840-mobile-4k-mass-effect-background-image.jpg' alt='Mass Effect Wallpapers (35 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/1/9/b/1841375-2160x3840-mobile-4k-mass-effect-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New wallpaper for my phone. : r/masseffect">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/2n40ytwifa071.jpg' alt='New wallpaper for my phone. : r/masseffect'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/2n40ytwifa071.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mass effect iphone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e5/bc/8f/e5bc8f7942679fe8f1ffbc118a9cd32a.jpg' alt='Mass effect iphone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e5/bc/8f/e5bc8f7942679fe8f1ffbc118a9cd32a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mass Effect - The Journey">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063550212522' alt='Mass Effect - The Journey'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063550212522' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9e/e6/db/9ee6dbf4fcb268bbe070ad0e74e727ce.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9e/e6/db/9ee6dbf4fcb268bbe070ad0e74e727ce.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Share your mass effect wallpaper ! : r/masseffect">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/share-your-mass-effect-wallpaper-v0-qesggv8ng55d1.jpg?width=640&crop=smart&auto=webp&s=c850832d2fc47fb769fadf66f4642ada19152cab' alt='Share your mass effect wallpaper ! : r/masseffect'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/share-your-mass-effect-wallpaper-v0-qesggv8ng55d1.jpg?width=640&crop=smart&auto=webp&s=c850832d2fc47fb769fadf66f4642ada19152cab' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mass Effect Legendary Edition wallpapers or desktop backgrounds">
+                                <img itemprop="contentUrl url" src='https://www.gamewallpapers.com/img_script/mobile_dir2/img.php?src=wallpaper_mass_effect_legendary_edition_01_1440x2560.jpg&width=253&height=450&crop-to-fit&sharpen' alt='Mass Effect Legendary Edition wallpapers or desktop backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="253">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameWallpapers.com" />
+                                </span>
+                                <a href='https://www.gamewallpapers.com/img_script/mobile_dir2/img.php?src=wallpaper_mass_effect_legendary_edition_01_1440x2560.jpg&width=253&height=450&crop-to-fit&sharpen' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

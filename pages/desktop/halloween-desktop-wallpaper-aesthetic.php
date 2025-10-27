@@ -1,0 +1,129 @@
+<title>Spooky Halloween Desktop Wallpaper Aesthetic</title>
+                    <meta name="description" content="Explore a collection of mesmerizing Halloween desktop wallpapers that elevate your screen aesthetics. Perfect for setting a spooky vibe, these wallpapers feature vibrant designs of ghosts, pumpkins, and autumn elements. Download now to transform your workspace this Halloween season!">
+                    <meta name="keywords" content="halloween desktop wallpaper aesthetic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/halloween-desktop-wallpaper-aesthetic">
+                            <span itemprop="name">halloween desktop wallpaper aesthetic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spooky Halloween Desktop Wallpaper Aesthetic</h1>
+                <p>Transform your desktop with stunning Halloween wallpaper aesthetics! Embrace the spooky season with vibrant imagery of pumpkins, ghosts, and autumn leaves. Set a festive mood while working or relaxing. Discover unique designs that capture the essence of Halloween, ensuring your screen stands out amidst the seasonal charm!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free customizable Halloween desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFw2hsKYLw/1/0/1600w/canva-fun-illustrative-maximalist-halloween-festive-desktop-wallpaper-hkVMrCGS5ts.jpg' alt='Free customizable Halloween desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFw2hsKYLw/1/0/1600w/canva-fun-illustrative-maximalist-halloween-festive-desktop-wallpaper-hkVMrCGS5ts.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300+] Halloween Aesthetic Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/halloween-aesthetic-background-du31cjxwwd5x05sm.jpg' alt='300+] Halloween Aesthetic Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/halloween-aesthetic-background-du31cjxwwd5x05sm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free customizable Halloween desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFwHpD-tmI/1/0/1600w/canva-black-and-orange-cute-spooky-halloween-desktop-wallpaper-_QLQx7htIds.jpg' alt='Free customizable Halloween desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFwHpD-tmI/1/0/1600w/canva-black-and-orange-cute-spooky-halloween-desktop-wallpaper-_QLQx7htIds.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What's your Halloween aesthetic? Inspired by a video post I saw on ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/hja2y0gow9q91.png?width=640&crop=smart&auto=webp&s=c9519c2a67d02013c3fe66ed30b5959dc9f593f8' alt='What's your Halloween aesthetic? Inspired by a video post I saw on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/hja2y0gow9q91.png?width=640&crop=smart&auto=webp&s=c9519c2a67d02013c3fe66ed30b5959dc9f593f8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Aesthetic Wallpaper Desktop Images - Free Download on ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-drawn-autumn-background_23-2148609212.jpg' alt='Halloween Aesthetic Wallpaper Desktop Images - Free Download on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-drawn-autumn-background_23-2148609212.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Trick or Treat your way to a Halloween Aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/halloween-aesthetic-pc-uvnimvihyw4xmgf6.jpg' alt='Download Trick or Treat your way to a Halloween Aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1650">
+                                <meta itemprop="height" content="1070">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/halloween-aesthetic-pc-uvnimvihyw4xmgf6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What's your Halloween aesthetic? Inspired by a video post I saw on ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/omo623ifw9q91.png?width=775&format=png&auto=webp&s=250839aa2ba78756560c983191e12c4d977e6d5e' alt='What's your Halloween aesthetic? Inspired by a video post I saw on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="775">
+                                <meta itemprop="height" content="435">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/omo623ifw9q91.png?width=775&format=png&auto=webp&s=250839aa2ba78756560c983191e12c4d977e6d5e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Aesthetic Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/flat-pastel-pattern-background-halloween-celebration_23-2149698883.jpg' alt='Halloween Aesthetic Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/flat-pastel-pattern-background-halloween-celebration_23-2149698883.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jack O' Lantern Halloween Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/jack-o-lantern-halloween-aesthetic-w7vlzdh7u96mydnt.jpg' alt='Jack O' Lantern Halloween Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/jack-o-lantern-halloween-aesthetic-w7vlzdh7u96mydnt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Desktop Wallpaper Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4OS0yOWQta3JvN3J6c2suanBn.jpg' alt='Halloween Desktop Wallpaper Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4OS0yOWQta3JvN3J6c2suanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

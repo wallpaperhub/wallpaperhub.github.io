@@ -1,0 +1,129 @@
+<title>Explore the New Testament Background: A Comprehensive Dictionary</title>
+                    <meta name="description" content="Discover the "Dictionary of New Testament Background," your essential guide to the cultural and historical contexts of the New Testament. Enhance your understanding of scripture with insights into ancient customs and societies. Perfect for scholars and curious minds!">
+                    <meta name="keywords" content="dictionary of new testament background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dictionary-of-new-testament-background">
+                            <span itemprop="name">dictionary of new testament background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the New Testament Background: A Comprehensive Dictionary</h1>
+                <p>The "Dictionary of New Testament Background" serves as an invaluable resource for understanding the historical, cultural, and linguistic contexts of the New Testament. It provides insights into ancient customs, societies, and geographical locations, enriching our comprehension of scripture. Perfect for students, scholars, and curious readers alike.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dictionary of New Testament Background (The IVP Bible Dictionary Series)">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/716voCE-hQL._AC_UF1000,1000_QL80_.jpg' alt='Dictionary of New Testament Background (The IVP Bible Dictionary Series)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="695">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/716voCE-hQL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dictionary of New Testament Background">
+                                <img itemprop="contentUrl url" src='https://www.accordancebible.com/wp-content/uploads/2008/09/Dictionary-of-New-Testament-Background.png' alt='Dictionary of New Testament Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Accordance Bible Software" />
+                                </span>
+                                <a href='https://www.accordancebible.com/wp-content/uploads/2008/09/Dictionary-of-New-Testament-Background.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dictionary of New Testament Background (The IVP Bible Dictionary Series)">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/41LlMfsDyLL._BO30,255,255,255_UF900,850_SR1910,1000,0,C_ZA111,500,900,420,420,AmazonEmber,50,4,0,0_PIRIOFOURANDHALF-medium,BottomLeft,30,-20_QL100_.jpg' alt='Dictionary of New Testament Background (The IVP Bible Dictionary Series)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1910">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/41LlMfsDyLL._BO30,255,255,255_UF900,850_SR1910,1000,0,C_ZA111,500,900,420,420,AmazonEmber,50,4,0,0_PIRIOFOURANDHALF-medium,BottomLeft,30,-20_QL100_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dictionary of New Testament Background">
+                                <img itemprop="contentUrl url" src='https://store.biblesoft.com/2898/dictionary-of-new-testament-background.jpg' alt='Dictionary of New Testament Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="394">
+                                <meta itemprop="height" content="488">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biblesoft" />
+                                </span>
+                                <a href='https://store.biblesoft.com/2898/dictionary-of-new-testament-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dictionary of New Testament Background (The IVP Bible Dictionary ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/41LlMfsDyLL._AC_SY200_QL15_.jpg' alt='Dictionary of New Testament Background (The IVP Bible Dictionary ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="139">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/41LlMfsDyLL._AC_SY200_QL15_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dictionary of New Testament Background (Black Dictionaries)">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61IsfF1MhEL._AC_UF1000,1000_QL80_.jpg' alt='Dictionary of New Testament Background (Black Dictionaries)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61IsfF1MhEL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dictionary of New Testament Background: A Compendium of Contemporary  Biblical Scholarship">
+                                <img itemprop="contentUrl url" src='https://g.christianbook.com/dg/product/web/b180/17808.gif' alt='Dictionary of New Testament Background: A Compendium of Contemporary  Biblical Scholarship'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="180">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Christian Book Distributors" />
+                                </span>
+                                <a href='https://g.christianbook.com/dg/product/web/b180/17808.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="#73) New IVP Dictionaries">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/8RGeLWAJXjI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CIAC0AWKAgwIABABGGUgWyhDMA8=&rs=AOn4CLDvRXmaifQrCXFJNjbTHRSYXwcTCA' alt='#73) New IVP Dictionaries'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/8RGeLWAJXjI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CIAC0AWKAgwIABABGGUgWyhDMA8=&rs=AOn4CLDvRXmaifQrCXFJNjbTHRSYXwcTCA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Craig A. Evans - Stanley E. Porter, Dictionary Of New Testament ...">
+                                <img itemprop="contentUrl url" src='https://archive.org/services/img/craig-a.-evans-stanley-e.-porter-dictionary-of-new-testament-background/full/pct:200/0/default.jpg' alt='Craig A. Evans - Stanley E. Porter, Dictionary Of New Testament ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="509">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Internet Archive" />
+                                </span>
+                                <a href='https://archive.org/services/img/craig-a.-evans-stanley-e.-porter-dictionary-of-new-testament-background/full/pct:200/0/default.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dictionary of the Later New Testament & Its Developments ...">
+                                <img itemprop="contentUrl url" src='https://www.ivpress.com/Media/Default/Products/1779.jpg' alt='Dictionary of the Later New Testament & Its Developments ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="884">
+                                <meta itemprop="height" content="1271">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="InterVarsity Press" />
+                                </span>
+                                <a href='https://www.ivpress.com/Media/Default/Products/1779.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

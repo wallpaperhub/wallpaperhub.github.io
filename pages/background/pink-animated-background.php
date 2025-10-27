@@ -1,0 +1,129 @@
+<title>Vibrant Pink Animated Backgrounds for Captivating Designs</title>
+                    <meta name="description" content="Add a splash of color with our vibrant pink animated backgrounds! Ideal for websites and videos, these dynamic designs ensure your content captures attention instantly. Perfect for those looking to create an energetic and playful vibe, our backgrounds enhance any project effortlessly. Discover the perfect backdrop today!">
+                    <meta name="keywords" content="pink animated background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pink-animated-background">
+                            <span itemprop="name">pink animated background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Pink Animated Backgrounds for Captivating Designs</h1>
+                <p>Experience a vibrant pink animated background that adds a dynamic touch to your projects. Perfect for websites, presentations, or videos, this eye-catching backdrop brings a playful energy while ensuring your content stands out. Ideal for creating a fun atmosphere, it effortlessly enhances the visual appeal of any design.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Background">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/videos/5425199/thumb/1.jpg' alt='Pink Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="852">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/videos/5425199/thumb/1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated pink clouds stock video 1516961571">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1516961571/video/animated-pink-clouds.jpg?s=640x640&k=20&c=O4D655o-K7KN49wbe_8maM9uZllxx2fUbBjG2H07N3M=' alt='Animated pink clouds stock video 1516961571'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1516961571/video/animated-pink-clouds.jpg?s=640x640&k=20&c=O4D655o-K7KN49wbe_8maM9uZllxx2fUbBjG2H07N3M=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink - HD Video Background Loop">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/5JXHsc5rG_o/maxresdefault.jpg' alt='Pink - HD Video Background Loop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/5JXHsc5rG_o/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated Pink Background - Stock Video | Motion Array">
+                                <img itemprop="contentUrl url" src='https://motionarray.imgix.net/preview-364358-Us1DwOk0vq-high_0003.jpg?w=660&q=60&fit=max&auto=format' alt='Animated Pink Background - Stock Video | Motion Array'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Motion Array" />
+                                </span>
+                                <a href='https://motionarray.imgix.net/preview-364358-Us1DwOk0vq-high_0003.jpg?w=660&q=60&fit=max&auto=format' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Pink Background Stock Video Footage for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/018/763/975/small/pink-valentine-color-gradients-animated-background-abstract-luxury-bokeh-background-seamless-loop-animation-video.jpg' alt='Light Pink Background Stock Video Footage for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="379">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/018/763/975/small/pink-valentine-color-gradients-animated-background-abstract-luxury-bokeh-background-seamless-loop-animation-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4K Peach Pink Sparkling Full of Stars 2160p Background">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/UubEYlZbNbo/maxresdefault.jpg' alt='4K Peach Pink Sparkling Full of Stars 2160p Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/UubEYlZbNbo/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Animated Background Clouds Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/pink-color-sky-background-with-clouds-design_1017-44066.jpg' alt='Pink Animated Background Clouds Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/pink-color-sky-background-with-clouds-design_1017-44066.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Animated Background GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/JYYtv_9lxTAAAAAM/natalia-scuriza.gif' alt='Pink Animated Background GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="124">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/JYYtv_9lxTAAAAAM/natalia-scuriza.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="animated pink background by willgregory7795 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3f66c40a-0862-41a0-9d99-e3b35e84436e/dbken5d-a54138fe-d9db-4aa9-a8d9-7566b889ebea.gif/v1/fill/w_500,h_500,q_85,strp/animated_pink_background_by_willgregory7795_dbken5d-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTAwIiwicGF0aCI6IlwvZlwvM2Y2NmM0MGEtMDg2Mi00MWEwLTlkOTktZTNiMzVlODQ0MzZlXC9kYmtlbjVkLWE1NDEzOGZlLWQ5ZGItNGFhOS1hOGQ5LTc1NjZiODg5ZWJlYS5naWYiLCJ3aWR0aCI6Ijw9NTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.5xJQmNvGt82X_hkr016bJRgA-HOvCVvXASIfR8wSOik' alt='animated pink background by willgregory7795 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3f66c40a-0862-41a0-9d99-e3b35e84436e/dbken5d-a54138fe-d9db-4aa9-a8d9-7566b889ebea.gif/v1/fill/w_500,h_500,q_85,strp/animated_pink_background_by_willgregory7795_dbken5d-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTAwIiwicGF0aCI6IlwvZlwvM2Y2NmM0MGEtMDg2Mi00MWEwLTlkOTktZTNiMzVlODQ0MzZlXC9kYmtlbjVkLWE1NDEzOGZlLWQ5ZGItNGFhOS1hOGQ5LTc1NjZiODg5ZWJlYS5naWYiLCJ3aWR0aCI6Ijw9NTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.5xJQmNvGt82X_hkr016bJRgA-HOvCVvXASIfR8wSOik' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated Background Pink Stock Video Footage for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/003/006/215/small/flying-pink-hearts-background-animated-free-video.jpg' alt='Animated Background Pink Stock Video Footage for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="356">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/003/006/215/small/flying-pink-hearts-background-animated-free-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

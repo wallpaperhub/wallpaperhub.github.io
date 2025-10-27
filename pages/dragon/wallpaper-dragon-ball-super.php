@@ -1,0 +1,129 @@
+<title>Top Dragon Ball Super Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore stunning Dragon Ball Super wallpapers to personalize your device! Featuring dynamic scenes and iconic characters, these images bring the action and excitement of the series straight to your screen. Find your favorite designs today and celebrate your passion for Dragon Ball Super!">
+                    <meta name="keywords" content="wallpaper dragon ball super">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/dragon">
+                            <span itemprop="name">Dragon</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/dragon/wallpaper-dragon-ball-super">
+                            <span itemprop="name">wallpaper dragon ball super</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Top Dragon Ball Super Wallpapers for Your Device</h1>
+                <p>Discover the amazing collection of Dragon Ball Super wallpapers to elevate your device's aesthetic! From epic battles to fan-favorite characters like Goku and Vegeta, find vivid images that capture the spirit of the series. Perfect for showcasing your love for Dragon Ball Super, these wallpapers are a must-have for any fan!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Epic Dragon Ball Super Legends - 4K Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/132/1329226.jpeg' alt='Epic Dragon Ball Super Legends - 4K Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5120">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/132/1329226.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragonball Super Background">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/download/hd-wallpapers/dragonball-super-7680x4320.jpg' alt='Dragonball Super Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7680">
+                                <meta itemprop="height" content="4320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/download/hd-wallpapers/dragonball-super-7680x4320.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon ball super wallpaper/cover : r/Dragonballsuper">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/m242506fzoza1.jpg' alt='Dragon ball super wallpaper/cover : r/Dragonballsuper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2800">
+                                <meta itemprop="height" content="2036">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/m242506fzoza1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball Super Wallpaper by Kate-Yamazaki on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/520b05ae-7108-4758-86d3-6641818a9c85/dfknfbi-afb2ffa3-6971-4ec7-9e6b-3e2a4303ccd1.png/v1/fill/w_1280,h_720,q_80,strp/dragon_ball_super_wallpaper_by_kate_yamazaki_dfknfbi-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvNTIwYjA1YWUtNzEwOC00NzU4LTg2ZDMtNjY0MTgxOGE5Yzg1XC9kZmtuZmJpLWFmYjJmZmEzLTY5NzEtNGVjNy05ZTZiLTNlMmE0MzAzY2NkMS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.pJTdLR3rJVgbp-JBp9cSfmn1DNA2uc4lG98NDKBs7qw' alt='Dragon Ball Super Wallpaper by Kate-Yamazaki on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/520b05ae-7108-4758-86d3-6641818a9c85/dfknfbi-afb2ffa3-6971-4ec7-9e6b-3e2a4303ccd1.png/v1/fill/w_1280,h_720,q_80,strp/dragon_ball_super_wallpaper_by_kate_yamazaki_dfknfbi-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvNTIwYjA1YWUtNzEwOC00NzU4LTg2ZDMtNjY0MTgxOGE5Yzg1XC9kZmtuZmJpLWFmYjJmZmEzLTY5NzEtNGVjNy05ZTZiLTNlMmE0MzAzY2NkMS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.pJTdLR3rJVgbp-JBp9cSfmn1DNA2uc4lG98NDKBs7qw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball Super Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/dragon-ball-super-iggkspea130db6rh.jpg' alt='Dragon Ball Super Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/dragon-ball-super-iggkspea130db6rh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD dragon ball super wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/641/837/HD-wallpaper-goku-ultra-instinct-dragon-ball-super-dragon-ball-anime-thumbnail.jpg' alt='HD dragon ball super wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/641/837/HD-wallpaper-goku-ultra-instinct-dragon-ball-super-dragon-ball-anime-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball Super Nightmare Wallpaper by WindyEchoes on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7369ba09-6adc-439b-bfa5-fa9296ad4ac0/dahl0xg-c948c2c4-c5f5-443a-a0ff-86ed7eee0228.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzczNjliYTA5LTZhZGMtNDM5Yi1iZmE1LWZhOTI5NmFkNGFjMFwvZGFobDB4Zy1jOTQ4YzJjNC1jNWY1LTQ0M2EtYTBmZi04NmVkN2VlZTAyMjgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ELwf5TpRlBbOmqew461UzsAUySOHg2OHJN3Ovq7qLT8' alt='Dragon Ball Super Nightmare Wallpaper by WindyEchoes on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7369ba09-6adc-439b-bfa5-fa9296ad4ac0/dahl0xg-c948c2c4-c5f5-443a-a0ff-86ed7eee0228.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzczNjliYTA5LTZhZGMtNDM5Yi1iZmE1LWZhOTI5NmFkNGFjMFwvZGFobDB4Zy1jOTQ4YzJjNC1jNWY1LTQ0M2EtYTBmZi04NmVkN2VlZTAyMjgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ELwf5TpRlBbOmqew461UzsAUySOHg2OHJN3Ovq7qLT8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Dragon Ball Super Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/dragon-ball-super-31k7m53hb2l6rbge.jpg' alt='200+] Dragon Ball Super Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/dragon-ball-super-31k7m53hb2l6rbge.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Just made this 4K Wallpaper featuring 10 Forms of Goku from DB ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/1tnFKQh-9QNSJ8iNMDd2qGSKK-mZm6J5plZzSDko1Cc.jpg?width=1080&crop=smart&auto=webp&s=01992db5baee946f4dcc1888ca98c40e8797ec83' alt='Just made this 4K Wallpaper featuring 10 Forms of Goku from DB ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/1tnFKQh-9QNSJ8iNMDd2qGSKK-mZm6J5plZzSDko1Cc.jpg?width=1080&crop=smart&auto=webp&s=01992db5baee946f4dcc1888ca98c40e8797ec83' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="dragon ball super wallpaper by silverbull735 - Download on ZEDGE ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/59/ef/13/59ef13e3538fabe350c1694cb911c426.jpg' alt='dragon ball super wallpaper by silverbull735 - Download on ZEDGE ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/59/ef/13/59ef13e3538fabe350c1694cb911c426.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

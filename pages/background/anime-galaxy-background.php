@@ -1,0 +1,129 @@
+<title>Anime Galaxy Backgrounds: A Cosmic Journey</title>
+                    <meta name="description" content="Discover stunning anime galaxy backgrounds brimming with vibrant colors and celestial beauty. Perfect for wallpapers, gaming, or art projects, these cosmic visuals enhance your creative space and ignite your imagination. Dive into a realm of stars and wonder today!">
+                    <meta name="keywords" content="anime galaxy background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/anime-galaxy-background">
+                            <span itemprop="name">anime galaxy background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Anime Galaxy Backgrounds: A Cosmic Journey</h1>
+                <p>An anime galaxy background transports you to a mesmerizing universe filled with vibrant stars, nebulae, and cosmic wonders. Bursting with colors and whimsical art styles, these breathtaking backdrops capture the essence of adventure and imagination, perfect for settings in games, wallpapers, or digital art. Explore the bounds of creativity!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Galaxy Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/anime-style-galaxy-background_23-2151134130.jpg' alt='Anime Galaxy Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="351">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/anime-style-galaxy-background_23-2151134130.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Galaxy Stock Illustrations – 3,405 Anime Galaxy Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/captivating-pastel-anime-galaxy-wallpaper-featuring-falling-star-dreamy-night-sky-escape-your-desktop-immerse-yourself-356058316.jpg' alt='Anime Galaxy Stock Illustrations – 3,405 Anime Galaxy Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/captivating-pastel-anime-galaxy-wallpaper-featuring-falling-star-dreamy-night-sky-escape-your-desktop-immerse-yourself-356058316.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Galaxy Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/abstract-splashed-watercolor-textured-background_53876-155.jpg?semt=ais_hybrid' alt='Anime Galaxy Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/abstract-splashed-watercolor-textured-background_53876-155.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: anime sky, milky way, stars, anime boy, dog, moon ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d4/a6/8a/d4a68aa29d5fa6d36f70422266aa5251.jpg' alt='HD wallpaper: anime sky, milky way, stars, anime boy, dog, moon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="734">
+                                <meta itemprop="height" content="452">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d4/a6/8a/d4a68aa29d5fa6d36f70422266aa5251.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Galaxy Anime Girl Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/cool-galaxy-anime-girl-flrnyfmgbo2dxth3.jpg' alt='Cool Galaxy Anime Girl Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/cool-galaxy-anime-girl-flrnyfmgbo2dxth3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Galaxy Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp6024308.jpg' alt='Anime Galaxy Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp6024308.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100 Best Galaxy Background ideas | anime scenery, scenery, scenery ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/93/a1/16/93a1166650891d76115adf214ef5ede6.jpg' alt='100 Best Galaxy Background ideas | anime scenery, scenery, scenery ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="692">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/93/a1/16/93a1166650891d76115adf214ef5ede6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Star Galaxy Fantasy Light Anime Original HD Wallpaper by Y_Y">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/854/854321.jpg' alt='Download Star Galaxy Fantasy Light Anime Original HD Wallpaper by Y_Y'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/854/854321.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime style galaxy background | AI-generated image">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/anime-style-galaxy-background_23-2151134293.jpg' alt='Anime style galaxy background | AI-generated image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="351">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/anime-style-galaxy-background_23-2151134293.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galaxy Wallpaper (Anime sky, Starry) #27121">
+                                <img itemprop="contentUrl url" src='https://wallpapershome.com/images/wallpapers/galaxy-wallpaper-2160x3840-anime-sky-anime-stars-27121.jpg' alt='Galaxy Wallpaper (Anime sky, Starry) #27121'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersHome" />
+                                </span>
+                                <a href='https://wallpapershome.com/images/wallpapers/galaxy-wallpaper-2160x3840-anime-sky-anime-stars-27121.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

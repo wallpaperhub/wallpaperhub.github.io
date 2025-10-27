@@ -1,0 +1,129 @@
+<title>Stunning Granite Backgrounds for Your Home Design</title>
+                    <meta name="description" content="Discover the elegance of granite backgrounds for your home! From kitchen countertops to stunning feature walls, granite offers durability and beauty. Explore various colors and patterns to enhance your space with a timeless appeal. Perfect for any design style!">
+                    <meta name="keywords" content="granite background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/granite-background">
+                            <span itemprop="name">granite background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Granite Backgrounds for Your Home Design</h1>
+                <p>Granite backgrounds are a popular choice for both interior and exterior design, offering a timeless elegance and natural beauty. They come in various colors and patterns, making them versatile for kitchens, bathrooms, and living spaces. Durable and easy to maintain, granite adds a luxurious touch to any environment, enhancing overall aesthetics.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9,000+ Granite Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1354832349/vector/elegant-white-marble-texture-background-vector-illustration.jpg?s=612x612&w=0&k=20&c=xSwYwdXS3e2mqi7S-K6dAhSamBLE-o_OKLxtE8DSSgs=' alt='9,000+ Granite Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1354832349/vector/elegant-white-marble-texture-background-vector-illustration.jpg?s=612x612&w=0&k=20&c=xSwYwdXS3e2mqi7S-K6dAhSamBLE-o_OKLxtE8DSSgs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Granite Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/grungy-gray-marble-textured-background_53876-108405.jpg' alt='Granite Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/grungy-gray-marble-textured-background_53876-108405.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Granite Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/black-rough-background_1194-7591.jpg' alt='Granite Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/black-rough-background_1194-7591.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,200+ Gray Granite Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1364650429/vector/white-marble-vector-texture-gold-cracked-kintsugi-background-elegant-card.jpg?s=612x612&w=0&k=20&c=ZiEkunxRB3J6WbSUNom8XaiGId7eErv_Tv_nh2RoxAo=' alt='2,200+ Gray Granite Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="442">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1364650429/vector/white-marble-vector-texture-gold-cracked-kintsugi-background-elegant-card.jpg?s=612x612&w=0&k=20&c=ZiEkunxRB3J6WbSUNom8XaiGId7eErv_Tv_nh2RoxAo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Granite Background Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/020/823/243/non_2x/marble-texture-abstract-pattern-background-white-and-grey-nature-granite-wall-surface-good-for-floor-ceramic-counter-or-interior-decoration-backdrop-background-top-view-glossy-marble-for-luxury-design-photo.jpg' alt='Granite Background Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1470">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/020/823/243/non_2x/marble-texture-abstract-pattern-background-white-and-grey-nature-granite-wall-surface-good-for-floor-ceramic-counter-or-interior-decoration-backdrop-background-top-view-glossy-marble-for-luxury-design-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Granite Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/024/279/545/small/white-marble-texture-background-abstract-backdrop-of-marble-granite-stone-illustration-vector.jpg' alt='Granite Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="356">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/024/279/545/small/white-marble-texture-background-abstract-backdrop-of-marble-granite-stone-illustration-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="High Resolution Photograph Showcasing The Abstract Beauty Of Black ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/wp/202342/high-resolution-photograph-showcasing-the-abstract-beauty-of-black-granite-texture_9947267.jpg!sw800' alt='High Resolution Photograph Showcasing The Abstract Beauty Of Black ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/wp/202342/high-resolution-photograph-showcasing-the-abstract-beauty-of-black-granite-texture_9947267.jpg!sw800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Granite Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/pattern-white-granite-texture_1194-7441.jpg' alt='Granite Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/pattern-white-granite-texture_1194-7441.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Royalty-Free photo: Grey and black granite top | PickPik">
+                                <img itemprop="contentUrl url" src='https://i1.pickpik.com/photos/483/676/998/black-texture-background-stone-preview.jpg' alt='Royalty-Free photo: Grey and black granite top | PickPik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="487">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PickPik" />
+                                </span>
+                                <a href='https://i1.pickpik.com/photos/483/676/998/black-texture-background-stone-preview.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Grey Granite Royalty-Free Images, Stock Photos & Pictures ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/black-marble-background-portoro-marbl-600nw-1725327013.jpg' alt='Dark Grey Granite Royalty-Free Images, Stock Photos & Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/black-marble-background-portoro-marbl-600nw-1725327013.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

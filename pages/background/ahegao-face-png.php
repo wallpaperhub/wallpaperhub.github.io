@@ -1,0 +1,129 @@
+<title>Ahegao Face PNGs: Expressive Anime Art</title>
+                    <meta name="description" content="Discover a variety of ahegao face PNGs for your digital projects! These expressive images enhance memes, art, and social media posts, adding a touch of humor and creativity. Explore our collection and elevate your content with unique ahegao expressions today!">
+                    <meta name="keywords" content="ahegao face png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ahegao-face-png">
+                            <span itemprop="name">ahegao face png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ahegao Face PNGs: Expressive Anime Art</h1>
+                <p>Ahegao face PNGs are vibrant, expressive digital images often used in anime and manga culture. These images portray exaggerated facial expressions, typically representing intense emotions. Perfect for memes, illustrations, or social media, ahegao PNGs add humor and personality to various digital projects, making them popular among enthusiasts.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a transparent ahegao face! Put it wherever. – @julienyasart ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/6cfe20580710d71f2a3c490f33b4bcf6/tumblr_p4ztq3Ov6T1td14rfo1_1280.pnj' alt='I made a transparent ahegao face! Put it wherever. – @julienyasart ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1112">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/6cfe20580710d71f2a3c490f33b4bcf6/tumblr_p4ztq3Ov6T1td14rfo1_1280.pnj' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ahegao png images | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/524/662/png-clipart-woman-s-face-illustration-rocket-league-video-game-twitch-vrchat-ahegao-game-monochrome-thumbnail.png' alt='Ahegao png images | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/524/662/png-clipart-woman-s-face-illustration-rocket-league-video-game-twitch-vrchat-ahegao-game-monochrome-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ahegao #2 Art Print by Danilov Ilya - Pixels Merch">
+                                <img itemprop="contentUrl url" src='https://render.fineartamerica.com/images/rendered/default/print/8/8/break/images/artworkimages/medium/3/2-ahegao-danilov-ilya.jpg' alt='Ahegao #2 Art Print by Danilov Ilya - Pixels Merch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixels Merch" />
+                                </span>
+                                <a href='https://render.fineartamerica.com/images/rendered/default/print/8/8/break/images/artworkimages/medium/3/2-ahegao-danilov-ilya.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ahegao face png | ahegao face png anime eyes and mouth png ...">
+                                <img itemprop="contentUrl url" src='https://tse-mm.bing.com/th?q=ahegao%20face%20png&w=500&h=500' alt='ahegao face png | ahegao face png anime eyes and mouth png ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="mebelnayafurnitura.com" />
+                                </span>
+                                <a href='https://tse-mm.bing.com/th?q=ahegao%20face%20png&w=500&h=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ahegao - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/2/28/Ahegao_by_Kira_I.png' alt='Ahegao - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="818">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/2/28/Ahegao_by_Kira_I.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ahegao Beach Towel">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/medium/3/ahegao-danilov-ilya-transparent.png' alt='Ahegao Beach Towel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixels" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/medium/3/ahegao-danilov-ilya-transparent.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Ahegao png - Download Free at Gpng.Net">
+                                <img itemprop="contentUrl url" src='https://gpng.net/wp-content/uploads/Awesome-Ahegao-png.png' alt='Awesome Ahegao png - Download Free at Gpng.Net'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="840">
+                                <meta itemprop="height" content="859">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gpng.Net" />
+                                </span>
+                                <a href='https://gpng.net/wp-content/uploads/Awesome-Ahegao-png.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ahegao Face Anime Girl' Poster, picture, metal print, paint by ...">
+                                <img itemprop="contentUrl url" src='https://static.displate.com/857x1200/displate/2020-12-03/7e8c8ef6d3c866eada50700ebf95c58c_ffcaee073debebecd47f00e57294b4ef.jpg' alt='Ahegao Face Anime Girl' Poster, picture, metal print, paint by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="857">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Displate" />
+                                </span>
+                                <a href='https://static.displate.com/857x1200/displate/2020-12-03/7e8c8ef6d3c866eada50700ebf95c58c_ffcaee073debebecd47f00e57294b4ef.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ahegao anime girl face, ahegao , anime , girl , face - Free PNG ...">
+                                <img itemprop="contentUrl url" src='https://img1.picmix.com/output/stamp/normal/4/9/6/9/2469694_5c8e4.png' alt='ahegao anime girl face, ahegao , anime , girl , face - Free PNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="437">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PicMix" />
+                                </span>
+                                <a href='https://img1.picmix.com/output/stamp/normal/4/9/6/9/2469694_5c8e4.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ahegao Face Girl Sticker. By Artistshot">
+                                <img itemprop="contentUrl url" src='https://image.artistshot.com/pd.81034625.174.990524.s3.1-front-customized,0-ffffff-none-x0y0-350-800x800.jpg' alt='Ahegao Face Girl Sticker. By Artistshot'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Artistshot" />
+                                </span>
+                                <a href='https://image.artistshot.com/pd.81034625.174.990524.s3.1-front-customized,0-ffffff-none-x0y0-350-800x800.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

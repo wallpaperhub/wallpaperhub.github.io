@@ -1,0 +1,129 @@
+<title>Stay Updated: Latest Sports News and Highlights</title>
+                    <meta name="description" content="Discover the latest in sports news! Stay informed with quick updates on games, player stats, injuries, and team news, all optimized for your mobile experience. Never miss a moment in the world of sports with our concise and engaging coverage.">
+                    <meta name="keywords" content="sports news background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/sports-news-background">
+                            <span itemprop="name">sports news background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stay Updated: Latest Sports News and Highlights</h1>
+                <p>Sports news serves as the pulse of athletic events, highlighting recent games, statistics, and player performances. It informs fans about upcoming fixtures, injuries, transfers, and team dynamics, providing insights that enhance viewing experiences. With digital transformation, sports news is now instantly accessible, engaging audiences globally.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : BELECO 5x3ft Fabric Sports News Backdrop News Broadcast Hall  Live Video Sports Stadium Background Newsroom Backdrop for Themed Party ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61lNNsK9iBL.jpg' alt='Amazon.com : BELECO 5x3ft Fabric Sports News Backdrop News Broadcast Hall  Live Video Sports Stadium Background Newsroom Backdrop for Themed Party ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1140">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61lNNsK9iBL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sports News Text Animation Rendering Background">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/videos/29587630/thumb/3.jpg?ip=x480' alt='Sports News Text Animation Rendering Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/videos/29587630/thumb/3.jpg?ip=x480' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SPORT NEWS, Balls, Blue Background Royalty Free SVG, Cliparts ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/elenbushe/elenbushe1712/elenbushe171200006/91032818-sport-news-balls-blue-background.jpg' alt='SPORT NEWS, Balls, Blue Background Royalty Free SVG, Cliparts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="827">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/elenbushe/elenbushe1712/elenbushe171200006/91032818-sport-news-balls-blue-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sports news background with red white red">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/d-rendering-background-perfect-any-type-news-information-presentation-features-stylish-clean-layout-sports-165221070.jpg' alt='Sports news background with red white red'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/d-rendering-background-perfect-any-type-news-information-presentation-features-stylish-clean-layout-sports-165221070.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50+ Sports News Studio Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1325437484/photo/virtual-studio.jpg?s=612x612&w=0&k=20&c=cMlW5zgQBB-mmy1W-y2kCQinxcqxI-Mkv9YnpOu99fw=' alt='50+ Sports News Studio Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1325437484/photo/virtual-studio.jpg?s=612x612&w=0&k=20&c=cMlW5zgQBB-mmy1W-y2kCQinxcqxI-Mkv9YnpOu99fw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SPORTS News - Broadcast Graphics Title">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/sports-news-broadcast-graphics-title-graphic-main-hd-seamless-looping-video-animation-see-all-other-elements-series-to-43669416.jpg' alt='SPORTS News - Broadcast Graphics Title'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/sports-news-broadcast-graphics-title-graphic-main-hd-seamless-looping-video-animation-see-all-other-elements-series-to-43669416.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Virtual TV Studio News, Backdrop For TV Shows .TV On Wall.3D Virtual  News Studio Background, Loop">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/05/07/20/08/360_F_507200817_mikxFOMERWk3aEBu9fl3wGuHqv4oTB8n.jpg' alt='3D Virtual TV Studio News, Backdrop For TV Shows .TV On Wall.3D Virtual  News Studio Background, Loop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/05/07/20/08/360_F_507200817_mikxFOMERWk3aEBu9fl3wGuHqv4oTB8n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Gradient sports news background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/gradient-sports-news-background_52683-162793.jpg' alt='Premium Vector | Gradient sports news background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/gradient-sports-news-background_52683-162793.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Virtual Sports Studio - Stock Video | Motion Array">
+                                <img itemprop="contentUrl url" src='https://motionarray.imgix.net/preview-88157-EzuwqPRSFX-high_0004.jpg?w=660&q=60&fit=max&auto=format' alt='Virtual Sports Studio - Stock Video | Motion Array'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Motion Array" />
+                                </span>
+                                <a href='https://motionarray.imgix.net/preview-88157-EzuwqPRSFX-high_0004.jpg?w=660&q=60&fit=max&auto=format' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graphical digital sport news background with news text Stock Photo ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/KFDTDX/graphical-digital-sport-news-background-with-news-text-KFDTDX.jpg' alt='Graphical digital sport news background with news text Stock Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="967">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/KFDTDX/graphical-digital-sport-news-background-with-news-text-KFDTDX.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

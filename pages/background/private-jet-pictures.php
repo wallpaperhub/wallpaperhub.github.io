@@ -1,0 +1,129 @@
+<title>Stunning Private Jet Pictures: Luxury in the Skies</title>
+                    <meta name="description" content="Explore our curated collection of private jet pictures that highlight the elegance and comfort of luxury air travel. Perfect for aviation enthusiasts or those dreaming of their next getaway, these images provide a glimpse into the high-flying lifestyle of private aviation.">
+                    <meta name="keywords" content="private jet pictures">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/private-jet-pictures">
+                            <span itemprop="name">private jet pictures</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Private Jet Pictures: Luxury in the Skies</h1>
+                <p>Private jet pictures showcase the luxury and exclusivity of owning or chartering a private aircraft. From sleek exteriors and spacious interiors to stunning aerial views, these images capture the essence of private air travel. Whether for business or leisure, each picture tells a story of sophistication and freedom above the clouds.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Are the Most Luxurious Private Jets?">
+                                <img itemprop="contentUrl url" src='https://gate.shyaviation.com/media/d2cpi5um/what-are-the-most-luxurious-private-jetst-4800-2700px.jpg' alt='What Are the Most Luxurious Private Jets?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4800">
+                                <meta itemprop="height" content="2700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SHY Aviation" />
+                                </span>
+                                <a href='https://gate.shyaviation.com/media/d2cpi5um/what-are-the-most-luxurious-private-jetst-4800-2700px.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Different Types of Private Jets You should know">
+                                <img itemprop="contentUrl url" src='https://www.luxaviation.com/wp-content/uploads/2023/04/Light-Jets.jpg' alt='The Different Types of Private Jets You should know'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="693">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Luxaviation Group" />
+                                </span>
+                                <a href='https://www.luxaviation.com/wp-content/uploads/2023/04/Light-Jets.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Types of Private Jets: Which One Should You Charter?">
+                                <img itemprop="contentUrl url" src='https://images.aircharterservice.com/blog/private-jet-on-a-landing-strip-header.jpg' alt='The Types of Private Jets: Which One Should You Charter?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Air Charter Service" />
+                                </span>
+                                <a href='https://images.aircharterservice.com/blog/private-jet-on-a-landing-strip-header.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Are Private Jets Safe? | Myths About Private Jet Travel">
+                                <img itemprop="contentUrl url" src='https://l33jets.com/wp-content/uploads/2023/10/01-Debunking-Myths-and-Misconceptions-About-Private-Jets-RE-1-min-1170x585.jpg' alt='Are Private Jets Safe? | Myths About Private Jet Travel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="585">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Latitude 33 Aviation" />
+                                </span>
+                                <a href='https://l33jets.com/wp-content/uploads/2023/10/01-Debunking-Myths-and-Misconceptions-About-Private-Jets-RE-1-min-1170x585.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Fly Private: 7 Steps To Private Jet Travel">
+                                <img itemprop="contentUrl url" src='https://www.claylacy.com/wp-content/uploads/2018/07/Gulfstream-GIV-Exterior-Sunset.jpg' alt='How To Fly Private: 7 Steps To Private Jet Travel'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="426">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Clay Lacy Aviation" />
+                                </span>
+                                <a href='https://www.claylacy.com/wp-content/uploads/2018/07/Gulfstream-GIV-Exterior-Sunset.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="On the Wings of Luxury: Private jet-setting in elevated style is ...">
+                                <img itemprop="contentUrl url" src='https://www.gafencushop.com/wp-content/uploads/2023/05/pexels-joerg-mangelsen-14983522-Cropped-scaled.jpg' alt='On the Wings of Luxury: Private jet-setting in elevated style is ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gafencu" />
+                                </span>
+                                <a href='https://www.gafencushop.com/wp-content/uploads/2023/05/pexels-joerg-mangelsen-14983522-Cropped-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top 10 features & amenities on private jets | Yachting Pages">
+                                <img itemprop="contentUrl url" src='https://www.yachting-pages.com/custom/domain_1/image_files/ckeditor/sitemgr_01-female-passenger-arriving-at-private-jet.jpg' alt='Top 10 features & amenities on private jets | Yachting Pages'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Yachting Pages" />
+                                </span>
+                                <a href='https://www.yachting-pages.com/custom/domain_1/image_files/ckeditor/sitemgr_01-female-passenger-arriving-at-private-jet.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aircraft Guide for Types of Private Jets | Air Partner">
+                                <img itemprop="contentUrl url" src='https://www.airpartner.com/media/cflfv5jd/cessna-citation-mustang-exterior-1540x960.jpg' alt='Aircraft Guide for Types of Private Jets | Air Partner'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Air Partner" />
+                                </span>
+                                <a href='https://www.airpartner.com/media/cflfv5jd/cessna-citation-mustang-exterior-1540x960.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Midsize Private Jets for Charter | Our Private Jet Fleet">
+                                <img itemprop="contentUrl url" src='https://l33jets.com/wp-content/uploads/2022/11/Latitude-33-Aviation-Midsize-Jet-Category.jpg' alt='Midsize Private Jets for Charter | Our Private Jet Fleet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="522">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Latitude 33 Aviation" />
+                                </span>
+                                <a href='https://l33jets.com/wp-content/uploads/2022/11/Latitude-33-Aviation-Midsize-Jet-Category.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The 14 Most Expensive Private Jets in the World">
+                                <img itemprop="contentUrl url" src='https://robbreport.com/wp-content/uploads/2024/12/2.-Boeing_BBJ-Select-1.jpg?w=681&h=383&crop=1' alt='The 14 Most Expensive Private Jets in the World'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="681">
+                                <meta itemprop="height" content="383">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Robb Report" />
+                                </span>
+                                <a href='https://robbreport.com/wp-content/uploads/2024/12/2.-Boeing_BBJ-Select-1.jpg?w=681&h=383&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Elegant Purple Christmas Backgrounds for Festive Cheer</title>
+                    <meta name="description" content="Discover the beauty of purple Christmas backgrounds that enhance your holiday spirit. Perfect for social media, invitations, and decor, these elegant designs bring warmth and creativity to your festive celebrations. Explore our stunning collection today and make your Christmas unforgettable!">
+                    <meta name="keywords" content="purple christmas background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/purple-christmas-background">
+                            <span itemprop="name">purple christmas background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Purple Christmas Backgrounds for Festive Cheer</h1>
+                <p>Transform your holiday season with a stunning purple Christmas background that adds a touch of elegance and creativity to your festive decor. The rich, vibrant hues of purple evoke a sense of luxury and warmth, perfect for enhancing your holiday images, invitations, and social media posts. Celebrate in style this season!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Christmas Background Stock Photos, Images and Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/051/268/078/small/festive-glass-ornament-filled-with-purple-gift-boxes-and-decorations-for-winter-celebrations-free-photo.jpeg' alt='Purple Christmas Background Stock Photos, Images and Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="365">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/051/268/078/small/festive-glass-ornament-filled-with-purple-gift-boxes-and-decorations-for-winter-celebrations-free-photo.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Merry Christmas Tree Animation with Lights Particles and Snowflakes,  Abstract Happy New Year Background, Xmas Gift Thansgiving Festives  Decoration Stock Footage Video">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1444177099/video/4k-merry-christmas-tree-animation-with-lights-particles-and-snowflakes-abstract-happy-new.jpg?s=640x640&k=20&c=ZqpVQVulF37TfRYYOsBhwmuVTXQqOKLEpoJrTrOfX58=' alt='Merry Christmas Tree Animation with Lights Particles and Snowflakes,  Abstract Happy New Year Background, Xmas Gift Thansgiving Festives  Decoration Stock Footage Video'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1444177099/video/4k-merry-christmas-tree-animation-with-lights-particles-and-snowflakes-abstract-happy-new.jpg?s=640x640&k=20&c=ZqpVQVulF37TfRYYOsBhwmuVTXQqOKLEpoJrTrOfX58=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Christmas Images – Browse 752,394 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/23/41/76/360_F_123417682_PKE1SXIKS6COBqt0jUDrLXaes6cnrrI6.jpg' alt='Purple Christmas Images – Browse 752,394 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/23/41/76/360_F_123417682_PKE1SXIKS6COBqt0jUDrLXaes6cnrrI6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple christmas">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7f/4f/e7/7f4fe7e75ec9c5e9006dc4130eb13a10.jpg' alt='Purple christmas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7f/4f/e7/7f4fe7e75ec9c5e9006dc4130eb13a10.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Christmas Images – Browse 752,394 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/00/74/44/03/360_F_74440337_IkL0zTO3Uf2m56d0FbuCZM9T07SA8GbH.jpg' alt='Purple Christmas Images – Browse 752,394 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="444">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/00/74/44/03/360_F_74440337_IkL0zTO3Uf2m56d0FbuCZM9T07SA8GbH.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple christmas background sale">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2H0NETB/seamless-christmas-pattern-with-snowmen-fir-and-snowflakes-on-purple-background-bright-print-for-new-year-and-winter-holiday-wrapping-paper-textiles-and-design-2H0NETB.jpg' alt='Purple christmas background sale'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bilumina.com" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2H0NETB/seamless-christmas-pattern-with-snowmen-fir-and-snowflakes-on-purple-background-bright-print-for-new-year-and-winter-holiday-wrapping-paper-textiles-and-design-2H0NETB.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20,000+ Purple Christmas Tree Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1256538774/photo/decorated-christmas-tree-close-up.jpg?s=612x612&w=0&k=20&c=d7TVEZ4IK8LHzJ1IsIR7JapzQkexk7CGRMIiyWroSD0=' alt='20,000+ Purple Christmas Tree Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1256538774/photo/decorated-christmas-tree-close-up.jpg?s=612x612&w=0&k=20&c=d7TVEZ4IK8LHzJ1IsIR7JapzQkexk7CGRMIiyWroSD0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Christmas Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/030/913/895/small/solitary-christmas-tree-lit-in-purple-and-blue-winter-countryside-with-snow-and-stars-above-generative-ai-photo.jpg' alt='Purple Christmas Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="357">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/030/913/895/small/solitary-christmas-tree-lit-in-purple-and-blue-winter-countryside-with-snow-and-stars-above-generative-ai-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple christmas decor with background vector #christmaswallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/df/fe/75/dffe758539efe889a9cc40355af3e20a.jpg' alt='Purple christmas decor with background vector #christmaswallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="687">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/df/fe/75/dffe758539efe889a9cc40355af3e20a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Christmas Ornaments Images – Browse 543,203 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/06/58/33/41/360_F_658334159_b9yFMuuwKSWyNaSNE9VLgU2VI3XK2UAG.jpg' alt='Purple Christmas Ornaments Images – Browse 543,203 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/06/58/33/41/360_F_658334159_b9yFMuuwKSWyNaSNE9VLgU2VI3XK2UAG.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

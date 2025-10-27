@@ -1,0 +1,129 @@
+<title>Stunning Lounge Images for Ultimate Relaxation</title>
+                    <meta name="description" content="Discover captivating lounge images that inspire comfort and elegance. Experience the art of relaxation with beautifully designed spaces perfect for unwinding or socializing. Transform your environment with our curated visuals that highlight the essence of stylish leisure living.">
+                    <meta name="keywords" content="lounge images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/lounge-images">
+                            <span itemprop="name">lounge images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Lounge Images for Ultimate Relaxation</h1>
+                <p>Lounge images evoke a sense of relaxation and comfort. They showcase elegant spaces designed for unwinding, socializing, or working. From plush sofas to ambient lighting, these visuals inspire tranquility. Whether it's a cozy nook or a sophisticated lounge, they capture the essence of leisure and stylish living.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Airport facials, anyone? The 7 best luxury lounges at LAX - Los ...">
+                                <img itemprop="contentUrl url" src='https://ca-times.brightspotcdn.com/dims4/default/f80bf11/2147483647/strip/true/crop/720x480+0+0/resize/2400x1600!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fcd%2F44%2F2362da234e4d961ef816520ab58c%2Ftr-lax-lounges-11.jpg' alt='Airport facials, anyone? The 7 best luxury lounges at LAX - Los ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Los Angeles Times" />
+                                </span>
+                                <a href='https://ca-times.brightspotcdn.com/dims4/default/f80bf11/2147483647/strip/true/crop/720x480+0+0/resize/2400x1600!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fcd%2F44%2F2362da234e4d961ef816520ab58c%2Ftr-lax-lounges-11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unwind in the Chase Sapphire Lounge at LaGuardia Airport">
+                                <img itemprop="contentUrl url" src='https://interiordesign.net/wp-content/uploads/2024/04/InteriorDesign_April2024_sapphire-lounge-2.jpg' alt='Unwind in the Chase Sapphire Lounge at LaGuardia Airport'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="959">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Interior Design Magazine" />
+                                </span>
+                                <a href='https://interiordesign.net/wp-content/uploads/2024/04/InteriorDesign_April2024_sapphire-lounge-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What It's Like Inside the Vienna Airport Lounge Voted Best in the ...">
+                                <img itemprop="contentUrl url" src='https://media.cntraveler.com/photos/663a3a8512ebd9b8f3ee24db/4:3/w_2480,h_1860,c_limit/4vienna%20airport%20lounge-apr24-pr.jpg' alt='What It's Like Inside the Vienna Airport Lounge Voted Best in the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2480">
+                                <meta itemprop="height" content="1860">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Condé Nast Traveler" />
+                                </span>
+                                <a href='https://media.cntraveler.com/photos/663a3a8512ebd9b8f3ee24db/4:3/w_2480,h_1860,c_limit/4vienna%20airport%20lounge-apr24-pr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Lounge by No1 Lounges | Laid Back Lounging">
+                                <img itemprop="contentUrl url" src='https://no1lounges.com/_next/image/?url=https%3A%2F%2Fmedia.umbraco.io%2Fno1lounges%2Fcahewvye%2Flgwn-my-lounge-36.jpg&w=3840&q=75' alt='My Lounge by No1 Lounges | Laid Back Lounging'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="No1 Lounges" />
+                                </span>
+                                <a href='https://no1lounges.com/_next/image/?url=https%3A%2F%2Fmedia.umbraco.io%2Fno1lounges%2Fcahewvye%2Flgwn-my-lounge-36.jpg&w=3840&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amex's Largest-Ever Centurion Lounge Is Set to Open at Atlanta's ...">
+                                <img itemprop="contentUrl url" src='https://media.cntraveler.com/photos/65cac1e7fa02a1926ebbdc68/16:9/w_2560%2Cc_limit/Centurion%2520Lounge%2520ATL_Architecture_Wellness_0085_V4.jpg' alt='Amex's Largest-Ever Centurion Lounge Is Set to Open at Atlanta's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Condé Nast Traveler" />
+                                </span>
+                                <a href='https://media.cntraveler.com/photos/65cac1e7fa02a1926ebbdc68/16:9/w_2560%2Cc_limit/Centurion%2520Lounge%2520ATL_Architecture_Wellness_0085_V4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Now Arriving at an Airport Lounge Near You: Peloton Bikes, Nap ...">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2024/04/03/oakImage-1712161077852/oakImage-1712161077852-articleLarge.jpg?quality=75&auto=webp&disable=upscale' alt='Now Arriving at an Airport Lounge Near You: Peloton Bikes, Nap ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="379">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2024/04/03/oakImage-1712161077852/oakImage-1712161077852-articleLarge.jpg?quality=75&auto=webp&disable=upscale' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to design an airport lounge | CNN">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/190227114615-gensler-copa-club-lounge-3.jpg?q=w_3000,h_1687,x_0,y_0,c_fill' alt='How to design an airport lounge | CNN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1687">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/190227114615-gensler-copa-club-lounge-3.jpg?q=w_3000,h_1687,x_0,y_0,c_fill' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chase Sapphire lounge at LAX: What cardholders should know - Los ...">
+                                <img itemprop="contentUrl url" src='https://ca-times.brightspotcdn.com/dims4/default/39a58f4/2147483647/strip/true/crop/1227x674+0+0/resize/1200x659!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fce%2Fa7%2Fdc4acbd14b4c933341b593975173%2Flax-rendering-2.png' alt='Chase Sapphire lounge at LAX: What cardholders should know - Los ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="659">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Los Angeles Times" />
+                                </span>
+                                <a href='https://ca-times.brightspotcdn.com/dims4/default/39a58f4/2147483647/strip/true/crop/1227x674+0+0/resize/1200x659!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fce%2Fa7%2Fdc4acbd14b4c933341b593975173%2Flax-rendering-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hearthstone Lounge | Hotel Dining | Disneyland Resort">
+                                <img itemprop="contentUrl url" src='https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/dam/disneyland/dining/grand-californian-hotel/hearthstone-lounge/heartstone-16x9.jpg?1738714835825' alt='Hearthstone Lounge | Hotel Dining | Disneyland Resort'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1680">
+                                <meta itemprop="height" content="945">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disneyland" />
+                                </span>
+                                <a href='https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/dam/disneyland/dining/grand-californian-hotel/hearthstone-lounge/heartstone-16x9.jpg?1738714835825' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Making Travel Better | Award Winning Airport Lounge | Plaza ...">
+                                <img itemprop="contentUrl url" src='https://www.plazapremiumlounge.com/PlazaPremiumLounge/media/PPLMedia/Pages/Home/Sliders/PPL-website-home-page-hero-image_800x600-Osaka-Umeda.jpg?ext=.jpg' alt='Making Travel Better | Award Winning Airport Lounge | Plaza ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.plazapremiumlounge.com" />
+                                </span>
+                                <a href='https://www.plazapremiumlounge.com/PlazaPremiumLounge/media/PPLMedia/Pages/Home/Sliders/PPL-website-home-page-hero-image_800x600-Osaka-Umeda.jpg?ext=.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Explore Enchanting Portals Wallpaper Designs</title>
+                    <meta name="description" content="Discover stunning portals wallpaper that transforms your walls into gateways of imagination. Perfect for any room, our designs feature enchanting landscapes and captivating patterns. Elevate your decor with a touch of magic today!">
+                    <meta name="keywords" content="portals wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/portals-wallpaper">
+                            <span itemprop="name">portals wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore Enchanting Portals Wallpaper Designs</h1>
+                <p>Transform your space with captivating portals wallpaper that invites creativity and imagination. Perfect for any room, these designs feature mesmerizing styles that resemble gateways to fantastical realms. Whether you prefer mystical landscapes or geometric patterns, our portals wallpapers add depth and intrigue to your decor. Discover your dream look today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="portals wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/73/07/f1/7307f12884172b8cb3d8c7e7eaaba0e3.jpg' alt='portals wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/73/07/f1/7307f12884172b8cb3d8c7e7eaaba0e3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Melanie Martinez, PORTALS - Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1f/b0/97/1fb097f1a7b7a8207c15db994935c372.jpg' alt='Melanie Martinez, PORTALS - Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1f/b0/97/1fb097f1a7b7a8207c15db994935c372.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check out apric1tyyy's Shuffles melanie martinez portals wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/4a/93/d7/4a93d7184c71b50817a7804515f75b6d.jpg' alt='Check out apric1tyyy's Shuffles melanie martinez portals wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shuffles" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/4a/93/d7/4a93d7184c71b50817a7804515f75b6d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Melanie Martinez Portals Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e7/27/9f/e7279fdcd9cc773ab01de7735f3eea50.jpg' alt='Melanie Martinez Portals Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e7/27/9f/e7279fdcd9cc773ab01de7735f3eea50.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::melanie martinez portals">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/2023844391746690377/8E00C209419CE8251710B870664AF488D2926E18/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::melanie martinez portals'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/2023844391746690377/8E00C209419CE8251710B870664AF488D2926E18/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Melanie Martinez Portals Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/melanie-martinez-crybaby-grave-portal-qoxkd6uom2k0ruaz.jpg' alt='100+] Melanie Martinez Portals Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/melanie-martinez-crybaby-grave-portal-qoxkd6uom2k0ruaz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Portals | Digital Blasphemy">
+                                <img itemprop="contentUrl url" src='https://cdn.digitalblasphemy.com/thumbnail/980x551/portals1_thumbnail_980x551.jpg' alt='Portals | Digital Blasphemy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="551">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Digital Blasphemy" />
+                                </span>
+                                <a href='https://cdn.digitalblasphemy.com/thumbnail/980x551/portals1_thumbnail_980x551.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Portals Inspired iPhone Layout :) : r/MelanieMartinez">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/portals-inspired-iphone-layout-v0-r4s9d6t1s0ra1.jpg?width=750&format=pjpg&auto=webp&s=50c1ca7c7f0dbf4b48821f01d29c1052960e0394' alt='Portals Inspired iPhone Layout :) : r/MelanieMartinez'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1624">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/portals-inspired-iphone-layout-v0-r4s9d6t1s0ra1.jpg?width=750&format=pjpg&auto=webp&s=50c1ca7c7f0dbf4b48821f01d29c1052960e0394' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="                                 ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/69/b7/0f/69b70f728ebb9be90e531f324eb7e086.jpg' alt='                                 '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1279">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/69/b7/0f/69b70f728ebb9be90e531f324eb7e086.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Melanie Martinez Portals">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/2032852311124875764/D41C10D1448C903466EE36DC8D3D2C6019F016E3/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Workshop::Melanie Martinez Portals'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/2032852311124875764/D41C10D1448C903466EE36DC8D3D2C6019F016E3/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

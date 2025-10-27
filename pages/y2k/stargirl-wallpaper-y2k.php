@@ -1,0 +1,129 @@
+<title>Top Y2K Stargirl Wallpapers for Your Device</title>
+                    <meta name="description" content="Immerse yourself in the colorful realm of Y2K Stargirl wallpapers! Our collection features stunning designs that blend nostalgia with modern flair, perfect for personalizing your devices. Download now for a burst of creativity and individuality on your screens!">
+                    <meta name="keywords" content="stargirl wallpaper y2k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/y2k">
+                            <span itemprop="name">Y2K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/y2k/stargirl-wallpaper-y2k">
+                            <span itemprop="name">stargirl wallpaper y2k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Top Y2K Stargirl Wallpapers for Your Device</h1>
+                <p>Discover the vibrant world of Stargirl with our Y2K-inspired wallpapers! Embrace the nostalgic aesthetic of the early 2000s, featuring lively colors and unique patterns that capture the essence of youth and creativity. Perfect for your phone or desktop, these wallpapers will brighten your screen and showcase your individual style!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="stargirl y2k lana del rey wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5a/38/b5/5a38b5cd7ac673b03aeb24b3caf6973a.jpg' alt='stargirl y2k lana del rey wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5a/38/b5/5a38b5cd7ac673b03aeb24b3caf6973a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ab/c4/6b/abc46b29226930d6a91d8573ea4e410d.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ab/c4/6b/abc46b29226930d6a91d8573ea4e410d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stargirl wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5f/2f/2b/5f2f2ba4e5911bb0afaa903a75f04d8c.jpg' alt='Stargirl wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5f/2f/2b/5f2f2ba4e5911bb0afaa903a75f04d8c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="|    Y2K Stargirl backgrounds ⭐️ |@          ☯︎♥︎ꨄ∞︎︎࿎ #CapCut #foryoupage  #like #follow #explore #viral #meme #repost #tiktoktrend #trend #stargirl  #backgounds #fyp #fypシ #fypシ゚viral #fypage #fypage ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7248205803390373121&location=0&aid=1988' alt='|    Y2K Stargirl backgrounds ⭐️ |@          ☯︎♥︎ꨄ∞︎︎࿎ #CapCut #foryoupage  #like #follow #explore #viral #meme #repost #tiktoktrend #trend #stargirl  #backgounds #fyp #fypシ #fypシ゚viral #fypage #fypage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7248205803390373121&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Diy Star Girl Lockscreen, Star Girl Wallpaper, Star Girl, Digital ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/50395796/r/il/dc9058/5848574661/il_fullxfull.5848574661_7chx.jpg' alt='Diy Star Girl Lockscreen, Star Girl Wallpaper, Star Girl, Digital ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1384">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/50395796/r/il/dc9058/5848574661/il_fullxfull.5848574661_7chx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Confira os shuffles de larasaampaioo">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/30/04/bb/3004bb4d32fb69db134a0a0efaabfa7f.jpg' alt='Confira os shuffles de larasaampaioo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1066">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/30/04/bb/3004bb4d32fb69db134a0a0efaabfa7f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check out urlocalsiriusblack's Shuffles #vibes #stargirl #wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/22/09/fc/2209fc8bb67b5c496328546d64e3f698.jpg' alt='Check out urlocalsiriusblack's Shuffles #vibes #stargirl #wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shuffles" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/22/09/fc/2209fc8bb67b5c496328546d64e3f698.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content=""Star Girl - Y2k " Photographic Print for Sale by ButterflyBoiUgh">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.5528366072.4020/pp,504x498-pad,600x600,f8f8f8.jpg' alt='"Star Girl - Y2k " Photographic Print for Sale by ButterflyBoiUgh'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.5528366072.4020/pp,504x498-pad,600x600,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Y2k stargirl ★ | Poster">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.5195306567.3820/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Y2k stargirl ★ | Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.5195306567.3820/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="stargirl wallpaper iphone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/34/d2/b8/34d2b8ed4481cd14a4ad5099c9f5af51.jpg' alt='stargirl wallpaper iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/34/d2/b8/34d2b8ed4481cd14a4ad5099c9f5af51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Vibrant Art iPhone Wallpapers: Elevate Your Aesthetic</title>
+                    <meta name="description" content="Explore our curated selection of vibrant art iPhone wallpapers. Perfect for anyone looking to enhance their device's look with unique and inspiring designs. Download now to find your ideal background and make a stylish statement with every glance at your phone!">
+                    <meta name="keywords" content="art:nb4-mdq30d8= iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/artnb4-mdq30d8-iphone-wallpaper">
+                            <span itemprop="name">art:nb4-mdq30d8= iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Art iPhone Wallpapers: Elevate Your Aesthetic</h1>
+                <p>Discover stunning iPhone wallpapers featuring vibrant art styles. Elevate your device's aesthetic with unique designs that reflect your personality. From abstract patterns to serene landscapes, find the perfect background to inspire creativity every time you unlock your phone. Browse our collection and transform your screen today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone wallpaper by Benjamin_Photo - Download on ZEDGE™ | 6792">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/b0/11/68/b011686d00fabfc69ea2600ce436ab72.jpg' alt='Iphone wallpaper by Benjamin_Photo - Download on ZEDGE™ | 6792'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/b0/11/68/b011686d00fabfc69ea2600ce436ab72.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apple Releases iOS 14.2 Public Beta 4 for iPhone, Introduces Eight ...">
+                                <img itemprop="contentUrl url" src='https://assets.content.technologyadvice.com/637388694367189811_b681bbb02d.webp' alt='Apple Releases iOS 14.2 Public Beta 4 for iPhone, Introduces Eight ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2820">
+                                <meta itemprop="height" content="2820">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iOS Gadget Hacks" />
+                                </span>
+                                <a href='https://assets.content.technologyadvice.com/637388694367189811_b681bbb02d.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="WALLPAPER IPHONE 4K - ABSTRACT DESIGN by jorgehardt on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5236376f-305d-42da-8e2d-48455360a090/dg31b6r-4cafe06c-765d-40fa-af5f-f66e5bd50475.png/v1/fill/w_764,h_685,q_80,strp/wallpaper_iphone_4k___abstract_design_by_jorgehardt_dg31b6r-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Njg1IiwicGF0aCI6IlwvZlwvNTIzNjM3NmYtMzA1ZC00MmRhLThlMmQtNDg0NTUzNjBhMDkwXC9kZzMxYjZyLTRjYWZlMDZjLTc2NWQtNDBmYS1hZjVmLWY2NmU1YmQ1MDQ3NS5wbmciLCJ3aWR0aCI6Ijw9NzY0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.e7Px3NBVbIY3ZkmrvY2-IbIqwIXoQSDar7dqhQtz3pU' alt='WALLPAPER IPHONE 4K - ABSTRACT DESIGN by jorgehardt on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="764">
+                                <meta itemprop="height" content="685">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5236376f-305d-42da-8e2d-48455360a090/dg31b6r-4cafe06c-765d-40fa-af5f-f66e5bd50475.png/v1/fill/w_764,h_685,q_80,strp/wallpaper_iphone_4k___abstract_design_by_jorgehardt_dg31b6r-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Njg1IiwicGF0aCI6IlwvZlwvNTIzNjM3NmYtMzA1ZC00MmRhLThlMmQtNDg0NTUzNjBhMDkwXC9kZzMxYjZyLTRjYWZlMDZjLTc2NWQtNDBmYS1hZjVmLWY2NmU1YmQ1MDQ3NS5wbmciLCJ3aWR0aCI6Ijw9NzY0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.e7Px3NBVbIY3ZkmrvY2-IbIqwIXoQSDar7dqhQtz3pU' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 14 Wallpaper (modified) by jorgehardt on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5236376f-305d-42da-8e2d-48455360a090/dfcyv71-ab93d5a2-57f4-46c3-b08d-69b14a00c307.jpg/v1/fill/w_1280,h_1280,q_75,strp/iphone_14_wallpaper__modified__by_jorgehardt_dfcyv71-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcLzUyMzYzNzZmLTMwNWQtNDJkYS04ZTJkLTQ4NDU1MzYwYTA5MFwvZGZjeXY3MS1hYjkzZDVhMi01N2Y0LTQ2YzMtYjA4ZC02OWIxNGEwMGMzMDcuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.57GkLIFrQzydBbB9q9PV_IUUM3r0PAiFTwjHLP1slGg' alt='iPhone 14 Wallpaper (modified) by jorgehardt on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5236376f-305d-42da-8e2d-48455360a090/dfcyv71-ab93d5a2-57f4-46c3-b08d-69b14a00c307.jpg/v1/fill/w_1280,h_1280,q_75,strp/iphone_14_wallpaper__modified__by_jorgehardt_dfcyv71-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcLzUyMzYzNzZmLTMwNWQtNDJkYS04ZTJkLTQ4NDU1MzYwYTA5MFwvZGZjeXY3MS1hYjkzZDVhMi01N2Y0LTQ2YzMtYjA4ZC02OWIxNGEwMGMzMDcuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.57GkLIFrQzydBbB9q9PV_IUUM3r0PAiFTwjHLP1slGg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="     Rev Up Your Screen!      Transform your iPhone into a ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3568496265002356445' alt='     Rev Up Your Screen!      Transform your iPhone into a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3568496265002356445' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/dd/81/74/dd8174295858ceb8361d837d58db9a12.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1127">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/dd/81/74/dd8174295858ceb8361d837d58db9a12.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/47/27/25/472725d4357fa3b0bce8f9066dfbf311.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/47/27/25/472725d4357fa3b0bce8f9066dfbf311.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Apple Releases iOS 14.2 Public Beta 4 for iPhone, Introduces Eight ...">
+                                <img itemprop="contentUrl url" src='https://assets.content.technologyadvice.com/637388695188907521_02cdcf4e44.webp' alt='Apple Releases iOS 14.2 Public Beta 4 for iPhone, Introduces Eight ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2820">
+                                <meta itemprop="height" content="2820">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iOS Gadget Hacks" />
+                                </span>
+                                <a href='https://assets.content.technologyadvice.com/637388695188907521_02cdcf4e44.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PAPERS.co | Android wallpaper | bj44-mac-apple-pattern-dark-oil-art">
+                                <img itemprop="contentUrl url" src='http://papers.co/wallpaper/papers.co-bj44-mac-apple-pattern-dark-oil-art-40-wallpaper.jpg?download=true' alt='PAPERS.co | Android wallpaper | bj44-mac-apple-pattern-dark-oil-art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5120">
+                                <meta itemprop="height" content="5120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papers.co" />
+                                </span>
+                                <a href='http://papers.co/wallpaper/papers.co-bj44-mac-apple-pattern-dark-oil-art-40-wallpaper.jpg?download=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/32/33/7a/32337a49099529ee566826550598ee57.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/32/33/7a/32337a49099529ee566826550598ee57.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

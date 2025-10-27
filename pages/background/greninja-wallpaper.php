@@ -1,0 +1,129 @@
+<title>Cool Greninja Wallpapers for Your Device</title>
+                    <meta name="description" content="Enhance your device's appearance with amazing Greninja wallpapers! Perfect for Pokémon fans, our collection features high-quality images showcasing Greninja in action. Browse a variety of designs that capture the essence of this beloved Pokémon and personalize your screen effortlessly!">
+                    <meta name="keywords" content="greninja wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/greninja-wallpaper">
+                            <span itemprop="name">greninja wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cool Greninja Wallpapers for Your Device</h1>
+                <p>Discover stunning Greninja wallpapers that bring the iconic Water/Dark-type Pokémon to life! Perfect for fans and trainers, these eye-catching backgrounds showcase Greninja's sleek design and vibrant colors, adding a dynamic touch to your devices. Upgrade your screens with these unique Greninja wallpapers today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Greninja HD Wallpapers on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ef/c4/f0/efc4f03d9d3d777fc6e8f93d1ab2fefe.jpg' alt='   Greninja HD Wallpapers on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ef/c4/f0/efc4f03d9d3d777fc6e8f93d1ab2fefe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD Wallpaper of Greninja: The Stealthy Water Pokémon in Action by ...">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/103/thumb-350-1030536.webp' alt='HD Wallpaper of Greninja: The Stealthy Water Pokémon in Action by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="219">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/103/thumb-350-1030536.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pokémon Hd Greninja Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/pokemon-hd-greninja-ll4odiiegdt2u9ea.jpg' alt='Pokémon Hd Greninja Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="478">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/pokemon-hd-greninja-ll4odiiegdt2u9ea.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fourth day of the challenge: A Greninja wallpaper! : r/smashbros">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/8gQoC-dupOtguSS_NyP0JbDSKdJfgSPazoOIHF3xz14.jpg?auto=webp&s=c3fbbf510105c5928493be8eda253773ba57b7fb' alt='Fourth day of the challenge: A Greninja wallpaper! : r/smashbros'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1191">
+                                <meta itemprop="height" content="671">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/8gQoC-dupOtguSS_NyP0JbDSKdJfgSPazoOIHF3xz14.jpg?auto=webp&s=c3fbbf510105c5928493be8eda253773ba57b7fb' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Greninja Wallpapers (35 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/7/d/7/1241035-2160x3840-mobile-4k-greninja-wallpaper-photo.jpg' alt='Greninja Wallpapers (35 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/7/d/7/1241035-2160x3840-mobile-4k-greninja-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Greninja Wallpaper - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/46/bd/6f/46bd6f93e96f76b7afd5ef16a0f37b1f.jpg' alt='Greninja Wallpaper - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/46/bd/6f/46bd6f93e96f76b7afd5ef16a0f37b1f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ash Greninja, pokemon, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/344/986/HD-wallpaper-ash-greninja-pokemon.jpg' alt='Ash Greninja, pokemon, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/344/986/HD-wallpaper-ash-greninja-pokemon.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Greninja With Friends Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/greninja-with-friends-gtswjveejmjm08g4.jpg' alt='Greninja With Friends Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1357">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/greninja-with-friends-gtswjveejmjm08g4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Greninja Anime Action - HD Wallpaper by ishmam">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/732/732389.png' alt='Greninja Anime Action - HD Wallpaper by ishmam'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/732/732389.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Greninja uses Water Shuriken by KesslerStormblade on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/997c3ab4-077c-48d7-91af-aae26000da80/dazq7br-c4878b6b-25db-4fba-8f36-c17e166c63e4.jpg/v1/fill/w_1024,h_842,q_75,strp/greninja_uses_water_shuriken_by_kesslerstormblade_dazq7br-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk5N2MzYWI0LTA3N2MtNDhkNy05MWFmLWFhZTI2MDAwZGE4MFwvZGF6cTdici1jNDg3OGI2Yi0yNWRiLTRmYmEtOGYzNi1jMTdlMTY2YzYzZTQuanBnIiwiaGVpZ2h0IjoiPD04NDIiLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiJcL3dtXC85OTdjM2FiNC0wNzdjLTQ4ZDctOTFhZi1hYWUyNjAwMGRhODBcL2tlc3NsZXJzdG9ybWJsYWRlLTQucG5nIiwib3BhY2l0eSI6OTUsInByb3BvcnRpb25zIjowLjQ1LCJncmF2aXR5IjoiY2VudGVyIn19.tmFJGCkpYxPYPc-xZyp-MAhwofIHfr80KmJnivQbmuM' alt='Greninja uses Water Shuriken by KesslerStormblade on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/997c3ab4-077c-48d7-91af-aae26000da80/dazq7br-c4878b6b-25db-4fba-8f36-c17e166c63e4.jpg/v1/fill/w_1024,h_842,q_75,strp/greninja_uses_water_shuriken_by_kesslerstormblade_dazq7br-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk5N2MzYWI0LTA3N2MtNDhkNy05MWFmLWFhZTI2MDAwZGE4MFwvZGF6cTdici1jNDg3OGI2Yi0yNWRiLTRmYmEtOGYzNi1jMTdlMTY2YzYzZTQuanBnIiwiaGVpZ2h0IjoiPD04NDIiLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiJcL3dtXC85OTdjM2FiNC0wNzdjLTQ4ZDctOTFhZi1hYWUyNjAwMGRhODBcL2tlc3NsZXJzdG9ybWJsYWRlLTQucG5nIiwib3BhY2l0eSI6OTUsInByb3BvcnRpb25zIjowLjQ1LCJncmF2aXR5IjoiY2VudGVyIn19.tmFJGCkpYxPYPc-xZyp-MAhwofIHfr80KmJnivQbmuM' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

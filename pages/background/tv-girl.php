@@ -1,0 +1,129 @@
+<title>TV Girl: Indie Pop Melodies & Nostalgic Vibes</title>
+                    <meta name="description" content="Discover TV Girl, the indie pop band with catchy melodies and nostalgic themes. Explore their unique sound and enjoy their dreamlike tunes that capture the essence of modern love and life. Perfect for fans of lo-fi aesthetics and feel-good vibes!">
+                    <meta name="keywords" content="tv girl">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/tv-girl">
+                            <span itemprop="name">tv girl</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>TV Girl: Indie Pop Melodies & Nostalgic Vibes</h1>
+                <p>TV Girl is an indie pop band known for their dreamy melodies and lo-fi aesthetic. Formed in 2010, they blend catchy hooks with nostalgic themes, exploring love and everyday life through a modern lens. Their unique sound has captivated fans, making them a favorite in the alternative music scene. Discover their hits and enjoy the vibes!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TV Girl - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/TV_Girl_au_Casa_Del_Popolo_--_1.jpg/1200px-TV_Girl_au_Casa_Del_Popolo_--_1.jpg' alt='TV Girl - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="730">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/TV_Girl_au_Casa_Del_Popolo_--_1.jpg/1200px-TV_Girl_au_Casa_Del_Popolo_--_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Man Behind TV Girl & The Girl Behind Him – UCLA Radio">
+                                <img itemprop="contentUrl url" src='https://uclaradio.com/wp-content/uploads/2022/01/tvgirl-1-scaled.jpg' alt='The Man Behind TV Girl & The Girl Behind Him – UCLA Radio'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UCLA Radio" />
+                                </span>
+                                <a href='https://uclaradio.com/wp-content/uploads/2022/01/tvgirl-1-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TV Girl - YouTube">
+                                <img itemprop="contentUrl url" src='https://yt3.googleusercontent.com/ytc/AIdro_lQZnbIpW5Q7zBjUH7TM4prAkjVirC01coXvx5mYgVE5MI=s900-c-k-c0x00ffffff-no-rj' alt='TV Girl - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://yt3.googleusercontent.com/ytc/AIdro_lQZnbIpW5Q7zBjUH7TM4prAkjVirC01coXvx5mYgVE5MI=s900-c-k-c0x00ffffff-no-rj' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TV Girl plays it frustratingly safe - Berkeley B-Side">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/berkeleybside.com/wp-content/uploads/2018/06/MG_2979.jpg?fit=1024%2C580&ssl=1' alt='TV Girl plays it frustratingly safe - Berkeley B-Side'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1023">
+                                <meta itemprop="height" content="580">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Berkeley B-Side" />
+                                </span>
+                                <a href='https://i0.wp.com/berkeleybside.com/wp-content/uploads/2018/06/MG_2979.jpg?fit=1024%2C580&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TV GIRL - The Hordern Pavilion">
+                                <img itemprop="contentUrl url" src='https://thehordern.com.au/app/uploads/2024/04/tvgirl_ticketek_1340x1900-600x740.jpg' alt='TV GIRL - The Hordern Pavilion'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="740">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Hordern Pavilion" />
+                                </span>
+                                <a href='https://thehordern.com.au/app/uploads/2024/04/tvgirl_ticketek_1340x1900-600x740.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Concert Review: TV Girl takes the stage at sold out Columbus show ...">
+                                <img itemprop="contentUrl url" src='https://snworksceo.imgix.net/ohi/495fa480-bc6d-40af-b486-dd8b3b11ef3f.sized-1000x1000.jpg?w=1000' alt='Concert Review: TV Girl takes the stage at sold out Columbus show ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="865">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Post - Athens" />
+                                </span>
+                                <a href='https://snworksceo.imgix.net/ohi/495fa480-bc6d-40af-b486-dd8b3b11ef3f.sized-1000x1000.jpg?w=1000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Music | TV Girl">
+                                <img itemprop="contentUrl url" src='https://f4.bcbits.com/img/a1540259462_2.jpg' alt='Music | TV Girl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bandcamp" />
+                                </span>
+                                <a href='https://f4.bcbits.com/img/a1540259462_2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tv Girl    : r/hanakokun">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/elgkfhz1hcdd1.jpeg?width=640&crop=smart&auto=webp&s=5815835fab312c9c77cdc7b1be104f01e5c79352' alt='Tv Girl    : r/hanakokun'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/elgkfhz1hcdd1.jpeg?width=640&crop=smart&auto=webp&s=5815835fab312c9c77cdc7b1be104f01e5c79352' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Tour Poster. 2014 “world tour” with @brothertiger And ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2533147466275921637' alt='Vintage Tour Poster. 2014 “world tour” with @brothertiger And ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2533147466275921637' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for TV Girl">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100044323673124' alt='Profile for TV Girl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100044323673124' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

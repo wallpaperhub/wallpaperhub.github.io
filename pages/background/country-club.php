@@ -1,0 +1,129 @@
+<title>Discover the Luxuries of a Country Club Experience</title>
+                    <meta name="description" content="Experience the exclusivity of a country club, where recreation meets relaxation. Enjoy world-class amenities, engaging social events, and a supportive community, all tailored to your lifestyle. Join us for unparalleled leisure and networking opportunities in a luxurious environment.">
+                    <meta name="keywords" content="country club">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/country-club">
+                            <span itemprop="name">country club</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Luxuries of a Country Club Experience</h1>
+                <p>A country club is a private membership facility offering recreational and social amenities such as golf courses, tennis courts, swimming pools, and dining areas. Members enjoy exclusive events, networking opportunities, and tailored services in a luxurious setting, promoting a vibrant community spirit among like-minded individuals.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Membership – Tacoma Country & Golf Club">
+                                <img itemprop="contentUrl url" src='https://golftcgc.com/wp-content/uploads/2019/05/tacoma-country-and-golf-club-1x1-pool-01.jpg' alt='Membership – Tacoma Country & Golf Club'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tacoma Country & Golf Club" />
+                                </span>
+                                <a href='https://golftcgc.com/wp-content/uploads/2019/05/tacoma-country-and-golf-club-1x1-pool-01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Tacoma Country and Golf Club">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063487733798' alt='Profile for Tacoma Country and Golf Club'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100063487733798' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="North Shore Country Club - Valenti">
+                                <img itemprop="contentUrl url" src='https://valentibuilders.com/wp-content/uploads/2023/02/NorthShoreCC_01-scaled.jpg' alt='North Shore Country Club - Valenti'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Valenti Builders" />
+                                </span>
+                                <a href='https://valentibuilders.com/wp-content/uploads/2023/02/NorthShoreCC_01-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Country club - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/b/b0/Waverley_Country_Club_Clubhouse_across_Willamette_-_Portland_Oregon.jpg' alt='Country club - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3867">
+                                <meta itemprop="height" content="1844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/b/b0/Waverley_Country_Club_Clubhouse_across_Willamette_-_Portland_Oregon.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Membership – Tacoma Country & Golf Club">
+                                <img itemprop="contentUrl url" src='https://golftcgc.com/wp-content/uploads/2019/07/tacoma-country-and-golf-club-1x1-clubhouse-02.jpg' alt='Membership – Tacoma Country & Golf Club'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tacoma Country & Golf Club" />
+                                </span>
+                                <a href='https://golftcgc.com/wp-content/uploads/2019/07/tacoma-country-and-golf-club-1x1-clubhouse-02.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tacoma Country & Golf Club | Golf Courses | Golf Digest">
+                                <img itemprop="contentUrl url" src='https://golfdigest.sports.sndimg.com/content/dam/images/golfdigest/fullset/course-photos-for-places-to-play/tacoma-country-and-golf-club-washington-sixth.jpg.rend.hgtvcom.966.644.suffix/1661213375570.jpeg' alt='Tacoma Country & Golf Club | Golf Courses | Golf Digest'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="966">
+                                <meta itemprop="height" content="644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Golf Digest" />
+                                </span>
+                                <a href='https://golfdigest.sports.sndimg.com/content/dam/images/golfdigest/fullset/course-photos-for-places-to-play/tacoma-country-and-golf-club-washington-sixth.jpg.rend.hgtvcom.966.644.suffix/1661213375570.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brookfield Country Club | Roswell, GA | Invited">
+                                <img itemprop="contentUrl url" src='https://www.invitedclubs.com/globalassets/brookfield-country-club/_images/photoshelter-2023/brookfield_pool_0585-drone_1920_1200.jpg?format=webp' alt='Brookfield Country Club | Roswell, GA | Invited'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Invited Clubs" />
+                                </span>
+                                <a href='https://www.invitedclubs.com/globalassets/brookfield-country-club/_images/photoshelter-2023/brookfield_pool_0585-drone_1920_1200.jpg?format=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Country Club (OH) About Us Home">
+                                <img itemprop="contentUrl url" src='https://www.thecountryclub.com/Images/Library/about_us.jpg' alt='The Country Club (OH) About Us Home'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1650">
+                                <meta itemprop="height" content="927">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Country Club" />
+                                </span>
+                                <a href='https://www.thecountryclub.com/Images/Library/about_us.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tacoma Country & Golf Club | Golf Courses | Golf Digest">
+                                <img itemprop="contentUrl url" src='https://golfdigest.sports.sndimg.com/content/dam/images/golfdigest/fullset/course-photos-for-places-to-play/tacoma-country-and-golf-washington-aerial-.jpg.rend.hgtvcom.966.725.suffix/1661175684370.jpeg' alt='Tacoma Country & Golf Club | Golf Courses | Golf Digest'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="966">
+                                <meta itemprop="height" content="725">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Golf Digest" />
+                                </span>
+                                <a href='https://golfdigest.sports.sndimg.com/content/dam/images/golfdigest/fullset/course-photos-for-places-to-play/tacoma-country-and-golf-washington-aerial-.jpg.rend.hgtvcom.966.725.suffix/1661175684370.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Country Clubs - Hodges & Hicks">
+                                <img itemprop="contentUrl url" src='https://www.hodgesandhicks.com/wp-content/uploads/cc-hero.jpg' alt='Country Clubs - Hodges & Hicks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hodges & Hicks General Contractors" />
+                                </span>
+                                <a href='https://www.hodgesandhicks.com/wp-content/uploads/cc-hero.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

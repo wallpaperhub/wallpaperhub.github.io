@@ -1,0 +1,129 @@
+<title>Accessing New Jersey Arrest Records Made Easy</title>
+                    <meta name="description" content="Discover how to access New Jersey arrest records quickly and easily. Our guide provides essential information on searching for records, understanding their contents, and what they mean for you. Stay informed and empowered with the knowledge of your rights regarding public criminal records.">
+                    <meta name="keywords" content="nj arrest records">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/nj-arrest-records">
+                            <span itemprop="name">nj arrest records</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Accessing New Jersey Arrest Records Made Easy</h1>
+                <p>New Jersey arrest records are official documents detailing an individual's arrests and criminal history in the state. These records are public and can be accessed by law enforcement, employers, and the general public. They often include information like the nature of the crime, dates of the arrests, and the eventual outcomes.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Get Your NJ Arrest Records | $895 Expungement Lawyers">
+                                <img itemprop="contentUrl url" src='https://katherineobrienlaw.com/wp-content/uploads/2017/06/nj-arrest-records-1200x1513.jpg' alt='How to Get Your NJ Arrest Records | $895 Expungement Lawyers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1513">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Katherine O'Brien Law" />
+                                </span>
+                                <a href='https://katherineobrienlaw.com/wp-content/uploads/2017/06/nj-arrest-records-1200x1513.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="State of New Jersey">
+                                <img itemprop="contentUrl url" src='https://www.nj.gov/oag/newsreleases13/Operation-Billboard-Chart-2013-0111.jpg' alt='State of New Jersey'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="438">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="State of New Jersey" />
+                                </span>
+                                <a href='https://www.nj.gov/oag/newsreleases13/Operation-Billboard-Chart-2013-0111.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AG Grewal Announces Arrests of 31 Alleged Sex Offenders in ...">
+                                <img itemprop="contentUrl url" src='https://www.njoag.gov/wp-content/uploads/2021/07/2021-0714_PC-ICAC-Press-Conf_OPERATION_24-7-PICS.png' alt='AG Grewal Announces Arrests of 31 Alleged Sex Offenders in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="- New Jersey Office of Attorney General" />
+                                </span>
+                                <a href='https://www.njoag.gov/wp-content/uploads/2021/07/2021-0714_PC-ICAC-Press-Conf_OPERATION_24-7-PICS.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="State of New Jersey">
+                                <img itemprop="contentUrl url" src='https://www.nj.gov/oag/newsreleases12/Operation-Dismayed_sm.jpg' alt='State of New Jersey'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="245">
+                                <meta itemprop="height" content="306">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="State of New Jersey" />
+                                </span>
+                                <a href='https://www.nj.gov/oag/newsreleases12/Operation-Dismayed_sm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Full list of 24 men arrested in New Jersey child luring sting">
+                                <img itemprop="contentUrl url" src='https://www.northjersey.com/gcdn/presto/2018/09/18/PNJM/7a695c0f-d6d9-483f-8059-eab9172a40a4-CHILDPREDATORS0918C.jpg?crop=1944,1104,x0,y815&width=1944&height=1104&format=pjpg&auto=webp' alt='Full list of 24 men arrested in New Jersey child luring sting'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1944">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.northjersey.com" />
+                                </span>
+                                <a href='https://www.northjersey.com/gcdn/presto/2018/09/18/PNJM/7a695c0f-d6d9-483f-8059-eab9172a40a4-CHILDPREDATORS0918C.jpg?crop=1944,1104,x0,y815&width=1944&height=1104&format=pjpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Search Free New Jersey Criminal Records & Arrest Records">
+                                <img itemprop="contentUrl url" src='https://newjersey.recordspage.org/wp-content/uploads/sites/31/2023/07/Offender-Info-Screenshot.webp' alt='Search Free New Jersey Criminal Records & Arrest Records'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="625">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free New Jersey Records Search (Warrants, Arrests, Inmates)" />
+                                </span>
+                                <a href='https://newjersey.recordspage.org/wp-content/uploads/sites/31/2023/07/Offender-Info-Screenshot.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hundreds arrested in North Jersey anti-heroin effort, Bergen ...">
+                                <img itemprop="contentUrl url" src='http://media.nj.com/bergen/photo/-7f18451018f29d7b.jpg' alt='Hundreds arrested in North Jersey anti-heroin effort, Bergen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="784">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NJ.com" />
+                                </span>
+                                <a href='http://media.nj.com/bergen/photo/-7f18451018f29d7b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Three dozen arrested in major heroin bust">
+                                <img itemprop="contentUrl url" src='https://www.app.com/gcdn/-mm-/942206fec2f317a1ecc49dee82429d7cd9ae5c9f/c=0-68-720-473/local/-/media/2015/04/29/AsburyPark/B9317163566Z.1_20150429171630_000_GSGAL5QJH.1-0.jpg?width=660&height=372&fit=crop&format=pjpg&auto=webp' alt='Three dozen arrested in major heroin bust'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="372">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.app.com" />
+                                </span>
+                                <a href='https://www.app.com/gcdn/-mm-/942206fec2f317a1ecc49dee82429d7cd9ae5c9f/c=0-68-720-473/local/-/media/2015/04/29/AsburyPark/B9317163566Z.1_20150429171630_000_GSGAL5QJH.1-0.jpg?width=660&height=372&fit=crop&format=pjpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mugshots Newark Nj">
+                                <img itemprop="contentUrl url" src='https://mugshots-newark-nj.govbackgroundchecks.com/screenshots/mugshots-newark-nj/0.jpg' alt='Mugshots Newark Nj'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://mugshots-newark-nj.govbackgroundchecks.com/screenshots/mugshots-newark-nj/0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bloomfield and West Orange Police Departments Team Up to Arrest ...">
+                                <img itemprop="contentUrl url" src='https://tapinto-production.s3.amazonaws.com/uploads/articles/im/best_crop_3bb2cf1d2f62306f38a3_IMG_1400.jpg?id=3377980' alt='Bloomfield and West Orange Police Departments Team Up to Arrest ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="905">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TAPinto" />
+                                </span>
+                                <a href='https://tapinto-production.s3.amazonaws.com/uploads/articles/im/best_crop_3bb2cf1d2f62306f38a3_IMG_1400.jpg?id=3377980' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Epic Vegeta Wallpapers: Cool & High-Res Designs</title>
+                    <meta name="description" content="Explore a vibrant range of cool Vegeta wallpapers that bring the Prince of all Saiyans to your screen. Perfect for Dragon Ball Z enthusiasts, these high-resolution images add flair to your device. Discover the best Vegeta designs and make your wallpaper stand out!">
+                    <meta name="keywords" content="cool vegeta wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cool-vegeta-wallpaper">
+                            <span itemprop="name">cool vegeta wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Vegeta Wallpapers: Cool & High-Res Designs</h1>
+                <p>Discover the ultimate collection of cool Vegeta wallpapers to elevate your device's aesthetic! Featuring dynamic poses and stunning artwork, our selection showcases the Prince of all Saiyans in epic battles and iconic moments. Perfect for fans of Dragon Ball Z, these high-resolution images will invigorate your screen.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball Z Vegeta Woven Self-Adhesive Removable Wallpaper Modern Mural  M151">
+                                <img itemprop="contentUrl url" src='https://www.decalz.co/cdn/shop/products/M151_Vegeta-EX.jpg?v=1563798327' alt='Dragon Ball Z Vegeta Woven Self-Adhesive Removable Wallpaper Modern Mural  M151'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1134">
+                                <meta itemprop="height" content="794">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Decalz" />
+                                </span>
+                                <a href='https://www.decalz.co/cdn/shop/products/M151_Vegeta-EX.jpg?v=1563798327' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cool Vegeta Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cool-vegeta-2353-x-1961-nsgcou46cvq77ahu.jpg' alt='100+] Cool Vegeta Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cool-vegeta-2353-x-1961-nsgcou46cvq77ahu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iphone wallpaper images for vegeta">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/73/e4/1a/73e41a3f4b8b061b3dc46fdd2f5a09ec.jpg' alt='iphone wallpaper images for vegeta'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/73/e4/1a/73e41a3f4b8b061b3dc46fdd2f5a09ec.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taya365 Online Casino | Download App casino in the philippines">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b0/e1/80/b0e18035ae4daeccb7115e092d617ecf.jpg' alt='Taya365 Online Casino | Download App casino in the philippines'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="696">
+                                <meta itemprop="height" content="851">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b0/e1/80/b0e18035ae4daeccb7115e092d617ecf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball Vegeta Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/download/hd-wallpapers/dragon-ball-vegeta-7680x4320.jpg' alt='Dragon Ball Vegeta Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7680">
+                                <meta itemprop="height" content="4320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/download/hd-wallpapers/dragon-ball-vegeta-7680x4320.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fluff] For those who wanted that Goku Wallpaper and those who ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/j4wml7uzegay.jpg' alt='Fluff] For those who wanted that Goku Wallpaper and those who ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/j4wml7uzegay.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vegeta Various Forms Dragon Ball Z Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/vegeta-various-forms-dragon-ball-z-iphone-v2pjzisohjljxtmw.jpg' alt='Vegeta Various Forms Dragon Ball Z Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="543">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/vegeta-various-forms-dragon-ball-z-iphone-v2pjzisohjljxtmw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top 8 Vegeta Ultra Ego 4K vertical wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d3/63/c2/d363c27a2ac455af0c19a2e39bf95a08.jpg' alt='Top 8 Vegeta Ultra Ego 4K vertical wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d3/63/c2/d363c27a2ac455af0c19a2e39bf95a08.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vegeta Wallpaper 4K, Minimal art, Black background">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/vegeta-minimal-art-black-background-amoled-1284x2778-8879.png' alt='Vegeta Wallpaper 4K, Minimal art, Black background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1284">
+                                <meta itemprop="height" content="2778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/vegeta-minimal-art-black-background-amoled-1284x2778-8879.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="EVO VEGETA - WALLPAPER (DESKTOP) : r/DragonballLegends">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/i4hr19uyv5l71.jpg' alt='EVO VEGETA - WALLPAPER (DESKTOP) : r/DragonballLegends'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/i4hr19uyv5l71.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

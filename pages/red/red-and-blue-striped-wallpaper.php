@@ -1,0 +1,129 @@
+<title>Vibrant Red and Blue Striped Wallpaper Designs</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="red and blue striped wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red">
+                            <span itemprop="name">Red</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/red/red-and-blue-striped-wallpaper">
+                            <span itemprop="name">red and blue striped wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Red and Blue Striped Wallpaper Designs</h1>
+                <p>Red and blue striped wallpaper adds a bold, vibrant touch to any room, enhancing both modern and traditional decor. The striking color combination creates an eye-catching focal point, perfect for accent walls or full-room designs. Its versatility makes it suitable for living spaces, children's rooms, or even offices, offering endless styling possibilities.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Stripes' Wallpaper by Clare V. - Red / Blue">
+                                <img itemprop="contentUrl url" src='http://www.wallshoppe.com/cdn/shop/products/Stripe_cadet-red_Product_3dadc57c-73b7-4562-b38c-10ddfe30ad6b.jpg?v=1615485782' alt=''Stripes' Wallpaper by Clare V. - Red / Blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='http://www.wallshoppe.com/cdn/shop/products/Stripe_cadet-red_Product_3dadc57c-73b7-4562-b38c-10ddfe30ad6b.jpg?v=1615485782' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Stripe Seamless Blue red White Colors Vertical Parallel Stripes  Stripe Peel and Stick Wallpaper Removable Self-Adhesive Large Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71sxP1QNy8L.jpg' alt='Amazon.com: Stripe Seamless Blue red White Colors Vertical Parallel Stripes  Stripe Peel and Stick Wallpaper Removable Self-Adhesive Large Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71sxP1QNy8L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red and navy stripes ~ wallpaper/lock screen/background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/35/96/60/3596609627fb5a6b7a1e1d013bcb8f75.jpg' alt='Red and navy stripes ~ wallpaper/lock screen/background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/35/96/60/3596609627fb5a6b7a1e1d013bcb8f75.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunshine Stripe Red Stripe Wallcovering | Astek">
+                                <img itemprop="contentUrl url" src='https://www.astek.com/cdn/shop/products/2679-002143_sunshine_stripe_red_stripe_SUNSHINESTRIPEREDSTRIPE_740x.jpg?v=1709853731' alt='Sunshine Stripe Red Stripe Wallcovering | Astek'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="586">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Astek Wallcoverings" />
+                                </span>
+                                <a href='https://www.astek.com/cdn/shop/products/2679-002143_sunshine_stripe_red_stripe_SUNSHINESTRIPEREDSTRIPE_740x.jpg?v=1709853731' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Schumacher Etruscan Stripe Red & Blue Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.decoratorsbest.com/cdn/shop/files/6706316410926.jpg?v=1714035530' alt='Schumacher Etruscan Stripe Red & Blue Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecoratorsBest" />
+                                </span>
+                                <a href='https://www.decoratorsbest.com/cdn/shop/files/6706316410926.jpg?v=1714035530' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cross The Line Red Blue Striped Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn.decorpad.com/photos/2018/08/21/pattern-red-blue-cross-the-line-striped-bold-stripes-modern-wallpaper.jpeg' alt='Cross The Line Red Blue Striped Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="569">
+                                <meta itemprop="height" content="740">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecorPad" />
+                                </span>
+                                <a href='https://cdn.decorpad.com/photos/2018/08/21/pattern-red-blue-cross-the-line-striped-bold-stripes-modern-wallpaper.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DAWEI Red and Blue Vertical Stripes British Retro Style Non-Woven Wallpaper  Boy Bedroom Children's Room 1.73'W x 32.8'L Non-Pasted">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71FYrMpfkUL._AC_UF894,1000_QL80_.jpg' alt='DAWEI Red and Blue Vertical Stripes British Retro Style Non-Woven Wallpaper  Boy Bedroom Children's Room 1.73'W x 32.8'L Non-Pasted'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71FYrMpfkUL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Stripes' Wallpaper by Clare V. - Red / Blue">
+                                <img itemprop="contentUrl url" src='https://www.wallshoppe.com/cdn/shop/products/Stripe_cadet-red_detail_7765051f-2d9d-483b-a75f-a105ff7472c3_720x.jpg?v=1633378272' alt=''Stripes' Wallpaper by Clare V. - Red / Blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='https://www.wallshoppe.com/cdn/shop/products/Stripe_cadet-red_detail_7765051f-2d9d-483b-a75f-a105ff7472c3_720x.jpg?v=1633378272' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Wallpaper Stripes Red White Blue Textured GW2105 Double Rolls">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/a4AAAOSw2QteFS-H/s-l1200.jpg' alt='Vintage Wallpaper Stripes Red White Blue Textured GW2105 Double Rolls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="753">
+                                <meta itemprop="height" content="1181">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/a4AAAOSw2QteFS-H/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Striped Wallpaper Red / Blue">
+                                <img itemprop="contentUrl url" src='https://geraldinerae.co.uk/cdn/shop/products/MG_4640_20RedBlue.jpeg?v=1446686732' alt='Striped Wallpaper Red / Blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1282">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Geraldine Rae - Geraldine Rae" />
+                                </span>
+                                <a href='https://geraldinerae.co.uk/cdn/shop/products/MG_4640_20RedBlue.jpeg?v=1446686732' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

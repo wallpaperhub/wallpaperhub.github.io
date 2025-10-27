@@ -1,0 +1,129 @@
+<title>"Kids Space Background: Explore the Universe!"</title>
+                    <meta name="description" content="Discover enchanting kids' space backgrounds featuring vibrant planets and stars. Perfect for sparking creativity and wonder, these designs transform any room into an extraterrestrial adventure. Ideal for nurseries and educational settings, they inspire young minds to dream big among the cosmos!">
+                    <meta name="keywords" content="kids space background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/kids-space-background">
+                            <span itemprop="name">kids space background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Kids Space Background: Explore the Universe!"</h1>
+                <p>Create a magical space background for kids, filled with colorful planets, twinkling stars, and whimsical rockets. This celestial theme inspires imagination and curiosity about the universe. Perfect for nurseries, classrooms, or art projects, it offers endless opportunities for playful exploration and learning. Let your child's creativity soar among the stars!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Outer Space Kids Images – Browse 53,406 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/44/61/68/360_F_244616826_dMe3C2uBRPnYgAwsMKNcRzVIG1SvPJDt.jpg' alt='Outer Space Kids Images – Browse 53,406 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="488">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/44/61/68/360_F_244616826_dMe3C2uBRPnYgAwsMKNcRzVIG1SvPJDt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Outer Space Kids Images – Browse 53,406 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/01/99/10/23/360_F_199102302_LpSGaDWCp5WzgXz30956ZS3O7JAunkJy.jpg' alt='Outer Space Kids Images – Browse 53,406 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/01/99/10/23/360_F_199102302_LpSGaDWCp5WzgXz30956ZS3O7JAunkJy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="48,700+ Kids Outer Space Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1155737788/vector/space-seamless-pattern-with-planets-solar-system-sun-meteorite-and-stars-doodle-cartoon-cute.jpg?s=612x612&w=0&k=20&c=goD1q8oX89GdV0AQi7aqJ9AH9bOh4x-I9s3wD5QDhvs=' alt='48,700+ Kids Outer Space Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1155737788/vector/space-seamless-pattern-with-planets-solar-system-sun-meteorite-and-stars-doodle-cartoon-cute.jpg?s=612x612&w=0&k=20&c=goD1q8oX89GdV0AQi7aqJ9AH9bOh4x-I9s3wD5QDhvs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Kids Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/banner-outer-space-scence-background_1308-76263.jpg' alt='Space Kids Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="486">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/banner-outer-space-scence-background_1308-76263.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kids Space Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/014/200/271/non_2x/cosmos-set-concept-set-on-a-space-theme-including-a-transport-planets-and-related-objects-satellites-instruments-for-tracking-the-cosmos-illustration-isolated-on-white-background-vector.jpg' alt='Kids Space Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1583">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/014/200/271/non_2x/cosmos-set-concept-set-on-a-space-theme-including-a-transport-planets-and-related-objects-satellites-instruments-for-tracking-the-cosmos-illustration-isolated-on-white-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Galaxy Theme Room and Wallpapers in Kids Bedroom – Hello Circus">
+                                <img itemprop="contentUrl url" src='http://www.hellocircus.com/cdn/shop/articles/HC-Fox_on_the_Moon_Mural_Wallpaper-Blue-Interior4-29032024_1200x1200.webp?v=1719979214' alt='Space Galaxy Theme Room and Wallpapers in Kids Bedroom – Hello Circus'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="899">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hello Circus" />
+                                </span>
+                                <a href='http://www.hellocircus.com/cdn/shop/articles/HC-Fox_on_the_Moon_Mural_Wallpaper-Blue-Interior4-29032024_1200x1200.webp?v=1719979214' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kids Space Background PNG Transparent Images Free Download ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20241119/original/pngtree-cartoon-kids-space-background-vector-png-image_17225160.png' alt='Kids Space Background PNG Transparent Images Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2599">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20241119/original/pngtree-cartoon-kids-space-background-vector-png-image_17225160.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Kids Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/001/928/829/small/many-astronauts-in-the-galaxy-background-free-vector.jpg' alt='Space Kids Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="489">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/001/928/829/small/many-astronauts-in-the-galaxy-background-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Space Kids Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/paper-style-galaxy-background-with-rocket_23-2148965263.jpg' alt='Space Kids Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/paper-style-galaxy-background-with-rocket_23-2148965263.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="29,000+ Kids Space Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/494055113/vector/spaceship-illustration-with-space-for-your-text.jpg?s=612x612&w=0&k=20&c=ZBzb6_G9p1A0O6Cm6ygujm6a8pxTgeJW-K2agNdvm3s=' alt='29,000+ Kids Space Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/494055113/vector/spaceship-illustration-with-space-for-your-text.jpg?s=612x612&w=0&k=20&c=ZBzb6_G9p1A0O6Cm6ygujm6a8pxTgeJW-K2agNdvm3s=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

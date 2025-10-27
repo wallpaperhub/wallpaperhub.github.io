@@ -1,0 +1,129 @@
+<title>Dark iPhone Wallpapers: Elegant & Stylish Designs</title>
+                    <meta name="description" content="Discover the best dark wallpapers for your iPhone! Explore a curated collection of elegant designs that enhance your device's look. Perfect for any style, these wallpapers will give your home and lock screens a sophisticated touch. Download your favorites now!">
+                    <meta name="keywords" content="wallpaper for iphone dark">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/wallpaper-for-iphone-dark">
+                            <span itemprop="name">wallpaper for iphone dark</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dark iPhone Wallpapers: Elegant & Stylish Designs</h1>
+                <p>Enhance your iPhone with stunning dark wallpapers that combine elegance and style. Whether you prefer minimalist designs, abstract art, or nature-inspired themes, there's a perfect dark wallpaper to suit your aesthetic. Transform your device’s home screen and lock screen today with these captivating backgrounds!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60 Aesthetic Dark Wallpapers for iPhone That Set the Mood">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/97/57/fc/9757fc8e1470888ec138463ebe4f7170.jpg' alt='60 Aesthetic Dark Wallpapers for iPhone That Set the Mood'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1003">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/97/57/fc/9757fc8e1470888ec138463ebe4f7170.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="750+ Iphone Dark Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1629694242280-20637c63285b?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aXBob25lJTIwZGFya3xlbnwwfHwwfHx8MA%3D%3D' alt='750+ Iphone Dark Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4498">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1629694242280-20637c63285b?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aXBob25lJTIwZGFya3xlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="25 Aesthetic Dark Wallpapers For iPhone (Free HD Download!)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/52/97/b4/5297b4d029cc0d64ed6484d3c9919d6b.jpg' alt='25 Aesthetic Dark Wallpapers For iPhone (Free HD Download!)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="948">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/52/97/b4/5297b4d029cc0d64ed6484d3c9919d6b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Wallpaper Dark | Free Aesthetic HD & 4K Mobile Phone Images ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNTk3ZGVzaWduLWEtMDYzLmpwZw.jpg' alt='Iphone Wallpaper Dark | Free Aesthetic HD & 4K Mobile Phone Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNTk3ZGVzaWduLWEtMDYzLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Iphone Dark Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/iphone-dark-w49769dywehudag6.jpg' alt='100+] Iphone Dark Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/iphone-dark-w49769dywehudag6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Empty Forest Iphone Dark Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/empty-forest-iphone-dark-7ay8d1t1x1iway43.jpg' alt='Empty Forest Iphone Dark Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/empty-forest-iphone-dark-7ay8d1t1x1iway43.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark iPhone Wallpaper : r/iphonewallpapers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/dark-iphone-wallpaper-v0-8tg9eso1sncc1.png?width=784&format=png&auto=webp&s=7288634fb34eb186403a3378ff04a449e588064e' alt='Dark iPhone Wallpaper : r/iphonewallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="784">
+                                <meta itemprop="height" content="1552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/dark-iphone-wallpaper-v0-8tg9eso1sncc1.png?width=784&format=png&auto=webp&s=7288634fb34eb186403a3378ff04a449e588064e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD iphone dark wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/607/144/HD-wallpaper-abstract-amoled-dark-gold-iphone-iphone-12-oneplus-shadow-thumbnail.jpg' alt='HD iphone dark wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/607/144/HD-wallpaper-abstract-amoled-dark-gold-iphone-iphone-12-oneplus-shadow-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Forest Background Wallpaper iPhone">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/phone/images/640/dark-forest.png' alt='Dark Forest Background Wallpaper iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/phone/images/640/dark-forest.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Digital Iphone Wallpaper - Dark Black Aesthetic Fall Vibes for  Iphone and IOS Devices">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30162836/r/il/ca6805/5427944439/il_570xN.5427944439_ahwv.jpg' alt='Halloween Digital Iphone Wallpaper - Dark Black Aesthetic Fall Vibes for  Iphone and IOS Devices'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="1013">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30162836/r/il/ca6805/5427944439/il_570xN.5427944439_ahwv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

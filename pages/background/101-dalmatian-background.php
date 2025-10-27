@@ -1,0 +1,129 @@
+<title>Discover the Fascinating Background of 101 Dalmatians</title>
+                    <meta name="description" content="Explore the rich history and captivating story behind "101 Dalmatians." Dive into the characters, plot twists, and thematic elements that make this classic tale a beloved favorite among audiences of all ages. Learn how it has evolved over time into various adaptations and its lasting cultural impact.">
+                    <meta name="keywords" content="101 dalmatian background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/101-dalmatian-background">
+                            <span itemprop="name">101 dalmatian background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Fascinating Background of 101 Dalmatians</h1>
+                <p>101 Dalmatians, originally a 1956 novel by Dodie Smith, tells the adventurous tale of Pongo and Perdita, two Dalmatians who embark on a mission to save their stolen puppies from the evil Cruella de Vil. The story has been adapted into various films and animated features, capturing hearts with its themes of love, friendship, and bravery.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Living Lines Library: One Hundred and One Dalmatians (1961 ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvUHHkjG9RgbEpULXqkA5hzooQ2wzzvc95YRhcufFFy_kl94mojjQq61P0JbMRHDBVJxTgxe3ubNO58UQgW-EqL7DBrOyZFfaVvuPAtZkyKMgMRJ4Q6KuRCnKFsJWmnlGNMwKYYNjcLTE/s280/001-101-one-hundred-and-one-dalmatians-background.jpg' alt='Living Lines Library: One Hundred and One Dalmatians (1961 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="280">
+                                <meta itemprop="height" content="208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Living Lines Library" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvUHHkjG9RgbEpULXqkA5hzooQ2wzzvc95YRhcufFFy_kl94mojjQq61P0JbMRHDBVJxTgxe3ubNO58UQgW-EqL7DBrOyZFfaVvuPAtZkyKMgMRJ4Q6KuRCnKFsJWmnlGNMwKYYNjcLTE/s280/001-101-one-hundred-and-one-dalmatians-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Packed 101 Dalmatians Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/packed-101-dalmatians-h0vna1do2l6mwmv8.jpg' alt='Packed 101 Dalmatians Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/packed-101-dalmatians-h0vna1do2l6mwmv8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stopping for a Moment to Appreciate the Original 1961 film One ...">
+                                <img itemprop="contentUrl url" src='https://s26162.pcdn.co/wp-content/uploads/sites/3/2021/06/Screen-Shot-2021-06-02-at-2.16.19-PM.png' alt='Stopping for a Moment to Appreciate the Original 1961 film One ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1918">
+                                <meta itemprop="height" content="1428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CrimeReads" />
+                                </span>
+                                <a href='https://s26162.pcdn.co/wp-content/uploads/sites/3/2021/06/Screen-Shot-2021-06-02-at-2.16.19-PM.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="101 Dalmatians Wallpaper">
+                                <img itemprop="contentUrl url" src='http://kidswallpapercompany.com/cdn/shop/products/DDIW217289-1-WALLPAPER.jpg?v=1692288542' alt='101 Dalmatians Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="1366">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kids Wallpaper Company" />
+                                </span>
+                                <a href='http://kidswallpapercompany.com/cdn/shop/products/DDIW217289-1-WALLPAPER.jpg?v=1692288542' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="the walt crew — The stylized background work of 101 Dalmatians,...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/58efebc55f3e1b283ea95e68302b0572/tumblr_pipsf1hiL91ul26k8o7_540.png' alt='the walt crew — The stylized background work of 101 Dalmatians,...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="405">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Walt Crew - Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/58efebc55f3e1b283ea95e68302b0572/tumblr_pipsf1hiL91ul26k8o7_540.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="101 Dalmatians Production Background - ID: maydalmatians18075 ...">
+                                <img itemprop="contentUrl url" src='https://vegalleries.com/sites/default/files/art/product_images/manual/2018/maydalmatians18075_0.jpg' alt='101 Dalmatians Production Background - ID: maydalmatians18075 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="666">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Van Eaton Galleries" />
+                                </span>
+                                <a href='https://vegalleries.com/sites/default/files/art/product_images/manual/2018/maydalmatians18075_0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stopping for a Moment to Appreciate the Original 1961 film One ...">
+                                <img itemprop="contentUrl url" src='https://s26162.pcdn.co/wp-content/uploads/sites/3/2021/06/E2qxVhZXIAE6exT.jpg' alt='Stopping for a Moment to Appreciate the Original 1961 film One ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1064">
+                                <meta itemprop="height" content="798">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CrimeReads" />
+                                </span>
+                                <a href='https://s26162.pcdn.co/wp-content/uploads/sites/3/2021/06/E2qxVhZXIAE6exT.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] 101 Dalmatians Pictures | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/101-dalmatians-pictures-aiigjdozvp0yo9n0.jpg' alt='200+] 101 Dalmatians Pictures | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="648">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/101-dalmatians-pictures-aiigjdozvp0yo9n0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Color in 101 Dalmatians">
+                                <img itemprop="contentUrl url" src='http://www.cartoonbrew.com/wp-content/uploads/dalmatians_color.jpg' alt='Color in 101 Dalmatians'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="420">
+                                <meta itemprop="height" content="312">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cartoon Brew" />
+                                </span>
+                                <a href='http://www.cartoonbrew.com/wp-content/uploads/dalmatians_color.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="101 Dalmatians Watercolor Background, 101 Dalmatians Png Clipart ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/45277786/r/il/369402/5877952225/il_570xN.5877952225_l22p.jpg' alt='101 Dalmatians Watercolor Background, 101 Dalmatians Png Clipart ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/45277786/r/il/369402/5877952225/il_570xN.5877952225_l22p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

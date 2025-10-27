@@ -1,0 +1,129 @@
+<title>Does Debt Appear on Background Checks?</title>
+                    <meta name="description" content="Explore whether debt shows on background checks and what employers might see. Understand how financial responsibility factors into your job prospects and learn the differences between background checks and credit checks. Gain clarity on how your finances could impact your employment opportunities.">
+                    <meta name="keywords" content="does debt show up on a background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/does-debt-show-up-on-a-background-check">
+                            <span itemprop="name">does debt show up on a background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Does Debt Appear on Background Checks?</h1>
+                <p>Debt does not typically show up on a standard background check. However, credit checks, which can be part of a background screening, may reveal outstanding debts. Employers may use these checks to assess your financial responsibility, especially for positions requiring financial management. Always be aware of what may be revealed.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Bankruptcies Show Up On Background Checks? | Checkr">
+                                <img itemprop="contentUrl url" src='https://a-us.storyblok.com/f/1014904/1420x1260/52c5dbc9c3/bankruptcy-background-checks-seo-supporting-image.png/m/' alt='Do Bankruptcies Show Up On Background Checks? | Checkr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1420">
+                                <meta itemprop="height" content="1260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr" />
+                                </span>
+                                <a href='https://a-us.storyblok.com/f/1014904/1420x1260/52c5dbc9c3/bankruptcy-background-checks-seo-supporting-image.png/m/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What does an Employment background Check Show?">
+                                <img itemprop="contentUrl url" src='https://hires.shareable.com/content/dam/shareable/blog/what-does-a-bg-check-show-03.png' alt='What does an Employment background Check Show?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="951">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareAble For Hires" />
+                                </span>
+                                <a href='https://hires.shareable.com/content/dam/shareable/blog/what-does-a-bg-check-show-03.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Bankruptcies Show Up on Background Checks?">
+                                <img itemprop="contentUrl url" src='https://www.financestrategists.com/uploads/Types_of_Background_Checks.png' alt='Do Bankruptcies Show Up on Background Checks?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="875">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Finance Strategists" />
+                                </span>
+                                <a href='https://www.financestrategists.com/uploads/Types_of_Background_Checks.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What's Included In Tenant Background Checks? | SmartMove">
+                                <img itemprop="contentUrl url" src='https://www.mysmartmove.com/blog/what-rental-background-checks-consist-of/_jcr_content/root/pagesection_132356844/columnrow/item_1682370731956/contentcontainer/image_copy.coreimg.jpeg/1688590433333/01-creditreport.jpeg' alt='What's Included In Tenant Background Checks? | SmartMove'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="818">
+                                <meta itemprop="height" content="983">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TransUnion SmartMove" />
+                                </span>
+                                <a href='https://www.mysmartmove.com/blog/what-rental-background-checks-consist-of/_jcr_content/root/pagesection_132356844/columnrow/item_1682370731956/contentcontainer/image_copy.coreimg.jpeg/1688590433333/01-creditreport.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What does an Employment background Check Show?">
+                                <img itemprop="contentUrl url" src='https://hires.shareable.com/content/dam/shareable/blog/what-does-a-bg-check-show-01.png' alt='What does an Employment background Check Show?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="655">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareAble For Hires" />
+                                </span>
+                                <a href='https://hires.shareable.com/content/dam/shareable/blog/what-does-a-bg-check-show-01.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Do Bankruptcies Show Up On Background Checks? | Checkr">
+                                <img itemprop="contentUrl url" src='https://a-us.storyblok.com/f/1014904/1420x1260/52c5dbc9c3/bankruptcy-background-checks-seo-supporting-image.png/m/filters:quality(0):blur(15)/' alt='Do Bankruptcies Show Up On Background Checks? | Checkr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1420">
+                                <meta itemprop="height" content="1260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr" />
+                                </span>
+                                <a href='https://a-us.storyblok.com/f/1014904/1420x1260/52c5dbc9c3/bankruptcy-background-checks-seo-supporting-image.png/m/filters:quality(0):blur(15)/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Employment Background Checks with Credit Reports">
+                                <img itemprop="contentUrl url" src='https://www.aaacredit.net/images/clipart/employment-background-check/employment-screening-1.png' alt='Employment Background Checks with Credit Reports'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AAA Credit Screening & Background Checks" />
+                                </span>
+                                <a href='https://www.aaacredit.net/images/clipart/employment-background-check/employment-screening-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What does an Employment background Check Show?">
+                                <img itemprop="contentUrl url" src='https://hires.shareable.com/content/dam/shareable/blog/what-does-a-bg-check-show-hero-desktop.png' alt='What does an Employment background Check Show?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1680">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareAble For Hires" />
+                                </span>
+                                <a href='https://hires.shareable.com/content/dam/shareable/blog/what-does-a-bg-check-show-hero-desktop.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Does a Background Check Consist of?">
+                                <img itemprop="contentUrl url" src='https://trinity-core.s3.us-west-1.amazonaws.com/techjury/assets/64da5b9653b7f.png' alt='What Does a Background Check Consist of?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1122">
+                                <meta itemprop="height" content="864">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TechJury" />
+                                </span>
+                                <a href='https://trinity-core.s3.us-west-1.amazonaws.com/techjury/assets/64da5b9653b7f.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What's Included In Tenant Background Checks? | SmartMove">
+                                <img itemprop="contentUrl url" src='https://www.mysmartmove.com/adobe/dynamicmedia/deliver/dm-aid--71e35af2-8bfe-4b38-a99f-4fc32b472cf2/00-msm-longform-what-does-a-rental-background-check-consist-of-hero.png?quality=75&preferwebp=true' alt='What's Included In Tenant Background Checks? | SmartMove'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TransUnion SmartMove" />
+                                </span>
+                                <a href='https://www.mysmartmove.com/adobe/dynamicmedia/deliver/dm-aid--71e35af2-8bfe-4b38-a99f-4fc32b472cf2/00-msm-longform-what-does-a-rental-background-check-consist-of-hero.png?quality=75&preferwebp=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

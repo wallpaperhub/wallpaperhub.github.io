@@ -1,0 +1,129 @@
+<title>Popcorn: A Delicious Snack with a Rich History</title>
+                    <meta name="description" content="Discover the amazing history of popcorn, a beloved snack enjoyed globally. Learn how this tasty treat has evolved, from ancient times to modern cinemas. Uncover its delightful flavors and versatility that make popcorn a favorite for every occasion.">
+                    <meta name="keywords" content="popcorn background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/popcorn-background">
+                            <span itemprop="name">popcorn background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Popcorn: A Delicious Snack with a Rich History</h1>
+                <p>Popcorn has a rich history, originating from ancient civilizations in Central America. It is made by heating corn kernels until they explode, creating fluffy snacks loved worldwide. Today, popcorn is a staple at cinemas and homes, often enjoyed with butter, cheese, or caramel. Its versatility makes it a favorite for all ages.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7,600+ Popcorn Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1667985122/vector/popcorn-seamless-pattern-on-yellow-and-white-color-striped-background-vector-illustration.jpg?s=612x612&w=0&k=20&c=waITEq8KdORreyQ1mKVBPNJXKHMnCTclysVkcIUCaHo=' alt='7,600+ Popcorn Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1667985122/vector/popcorn-seamless-pattern-on-yellow-and-white-color-striped-background-vector-illustration.jpg?s=612x612&w=0&k=20&c=waITEq8KdORreyQ1mKVBPNJXKHMnCTclysVkcIUCaHo=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Popcorn Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/top-view-popcorn-frame-with-copy-space_23-2148553265.jpg' alt='Popcorn Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/top-view-popcorn-frame-with-copy-space_23-2148553265.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Popcorn Background Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/026/382/730/small_2x/popcorn-background-generate-ai-photo.jpg' alt='Popcorn Background Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/026/382/730/small_2x/popcorn-background-generate-ai-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7,600+ Popcorn Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/596053766/vector/movie-night-background-popcorn-border.jpg?s=612x612&w=0&k=20&c=Lrjx1lTm0J766IDeIV_WDNCBcH1uYBaDGFiC1gtFPmU=' alt='7,600+ Popcorn Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/596053766/vector/movie-night-background-popcorn-border.jpg?s=612x612&w=0&k=20&c=Lrjx1lTm0J766IDeIV_WDNCBcH1uYBaDGFiC1gtFPmU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Popcorn Background" Images – Browse 1,928 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/08/55/26/91/360_F_855269149_yhp1EmMKQsyr8W2qHttpI3BpEUmOUnCG.jpg' alt='Popcorn Background" Images – Browse 1,928 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="798">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/08/55/26/91/360_F_855269149_yhp1EmMKQsyr8W2qHttpI3BpEUmOUnCG.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Popcorn Pattern Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/top-view-fresh-popcorn-movie-night_140725-84583.jpg' alt='Popcorn Pattern Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/top-view-fresh-popcorn-movie-night_140725-84583.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Popcorn Background" Images – Browse 1,928 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/11/92/24/77/360_F_1192247747_km34zcjRTcX0rOf1d51fomMgfj5yEk4X.jpg' alt='Popcorn Background" Images – Browse 1,928 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/11/92/24/77/360_F_1192247747_km34zcjRTcX0rOf1d51fomMgfj5yEk4X.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : EMDSPR Movie Night Backdrop Popcorn Backdrops, 7x5ft, Popcorn  Movie Theme Photography Background Kids Birthday Party Supplies Photo Booth  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/818K0GYAugL.jpg' alt='Amazon.com : EMDSPR Movie Night Backdrop Popcorn Backdrops, 7x5ft, Popcorn  Movie Theme Photography Background Kids Birthday Party Supplies Photo Booth  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/818K0GYAugL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="16,231 Popcorn Red Background Stock Photos - Free & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/popcorn-leaps-red-white-striped-container-playful-movie-night-cinema-background-generative-ai-burst-erupts-bright-337814878.jpg' alt='16,231 Popcorn Red Background Stock Photos - Free & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/popcorn-leaps-red-white-striped-container-playful-movie-night-cinema-background-generative-ai-burst-erupts-bright-337814878.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Virtual Backgrounds | The Popcorn Factory">
+                                <img itemprop="contentUrl url" src='https://images.contentstack.io/v3/assets/blt5423a503ab876a21/blt1c929830d92dd2c8/5f64ef750c4cec6883884d8f/ButterPopcornBackground-1920x1080.jpg' alt='Virtual Backgrounds | The Popcorn Factory'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Popcorn Factory" />
+                                </span>
+                                <a href='https://images.contentstack.io/v3/assets/blt5423a503ab876a21/blt1c929830d92dd2c8/5f64ef750c4cec6883884d8f/ButterPopcornBackground-1920x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Discover the Fascinating History of Gucci</title>
+                    <meta name="description" content="Explore the captivating history of Gucci, from its humble beginnings in Florence to becoming a global luxury fashion icon. Learn about its iconic products, innovative designs, and contributions to the style evolution over the decades in this concise overview.">
+                    <meta name="keywords" content="gucci history">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/gucci-history">
+                            <span itemprop="name">gucci history</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Fascinating History of Gucci</h1>
+                <p>Gucci, founded in 1921 in Florence by Guccio Gucci, began as a leather goods shop. The brand became renowned for its craftsmanship and innovation, integrating Italian luxury with artisanal quality. Throughout the decades, it grew into a global fashion powerhouse, known for iconic products like the GG logo and unique prints, reflecting style evolution.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of GUCCI | GUCCI® US">
+                                <img itemprop="contentUrl url" src='https://media.gucci.com/dynamic/b3c8/_IbyKPS24VlG4YjhonDpPtEloON6Mo3vZuAHs1UWDsWuCmH0Cv3vmM2tnXed4ql8XOf9OznMX8D1TquzYCmpLJBvv8ERHE8t4LyVZTGkZwv+c7_DrmoaALnbMa3MpIc7PXmTZi3CAto0WexlkcAc2LJIPWZPQYALAje0aWHp5+V8OXBCAGU4T+o6SyDpfGIcG6NCy49zjauFNCm_pP4jqFDdOGto+z02iV9LPYulLAwT579y3u8wajmZwvMO3hxgcI0z1+xZDr3v9+CnSynIDgG8IzAY1JKLfzXqWQszChVtcQnClbPYUavJBzmuUQQZe+9AfpODnZcQZIgDeO47ynoL760uAnZXNBc4TE89F4xSo+dYNmTIafjALDmevdX8/Mobile_Gucci_workshop__Lungarno_Guicciardini_11__Florence__1940s___Gucci_Archive.png' alt='History of GUCCI | GUCCI® US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gucci" />
+                                </span>
+                                <a href='https://media.gucci.com/dynamic/b3c8/_IbyKPS24VlG4YjhonDpPtEloON6Mo3vZuAHs1UWDsWuCmH0Cv3vmM2tnXed4ql8XOf9OznMX8D1TquzYCmpLJBvv8ERHE8t4LyVZTGkZwv+c7_DrmoaALnbMa3MpIc7PXmTZi3CAto0WexlkcAc2LJIPWZPQYALAje0aWHp5+V8OXBCAGU4T+o6SyDpfGIcG6NCy49zjauFNCm_pP4jqFDdOGto+z02iV9LPYulLAwT579y3u8wajmZwvMO3hxgcI0z1+xZDr3v9+CnSynIDgG8IzAY1JKLfzXqWQszChVtcQnClbPYUavJBzmuUQQZe+9AfpODnZcQZIgDeO47ynoL760uAnZXNBc4TE89F4xSo+dYNmTIafjALDmevdX8/Mobile_Gucci_workshop__Lungarno_Guicciardini_11__Florence__1940s___Gucci_Archive.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gucci: A History Lesson">
+                                <img itemprop="contentUrl url" src='https://wwd.com/wp-content/uploads/2011/02/history-lesson14.jpg?w=361&h=526&crop=1' alt='Gucci: A History Lesson'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="361">
+                                <meta itemprop="height" content="526">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WWD" />
+                                </span>
+                                <a href='https://wwd.com/wp-content/uploads/2011/02/history-lesson14.jpg?w=361&h=526&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of GUCCI | GUCCI® US">
+                                <img itemprop="contentUrl url" src='https://media.gucci.com/dynamic/b3c8/iGl3zZ6zZJYYSieVC1bS83ZYuQzqME0eRbFae_cUleIUydGVQJQ+2MIsLpVYdLwvKe+Dh_lJ1s2F28xnSl9_7QK+2_xD9wpx5pAdPDg1kk+gSwPqV87Fv559+3vhnihqGXyXcE44lC+urYDA8HzGRc_IgEjxuN+z6U3kvbljfHfu8Gd9lsunMr8VsV1BL2xWgwFeBstngZEjiu_2IjDw6zj0_oiQ08blJ7sH3hGKcHgWABODQxTYhqapS2E52qBCOECCIjzXrVm9ZxMRhUViEeAgOkWSUqJJYfPt3kwVOHhG+6t+yBsKqQgIWpiBic3DkF2I_x3nn873gstmu2LaHQ==/Mobile_Gucci_store_in_Florence__1980_____Archivio_Foto_Locchi_Firenze.png' alt='History of GUCCI | GUCCI® US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gucci" />
+                                </span>
+                                <a href='https://media.gucci.com/dynamic/b3c8/iGl3zZ6zZJYYSieVC1bS83ZYuQzqME0eRbFae_cUleIUydGVQJQ+2MIsLpVYdLwvKe+Dh_lJ1s2F28xnSl9_7QK+2_xD9wpx5pAdPDg1kk+gSwPqV87Fv559+3vhnihqGXyXcE44lC+urYDA8HzGRc_IgEjxuN+z6U3kvbljfHfu8Gd9lsunMr8VsV1BL2xWgwFeBstngZEjiu_2IjDw6zj0_oiQ08blJ7sH3hGKcHgWABODQxTYhqapS2E52qBCOECCIjzXrVm9ZxMRhUViEeAgOkWSUqJJYfPt3kwVOHhG+6t+yBsKqQgIWpiBic3DkF2I_x3nn873gstmu2LaHQ==/Mobile_Gucci_store_in_Florence__1980_____Archivio_Foto_Locchi_Firenze.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Evolution of Gucci: How One Brand Became a Global Fashion ...">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/1150/2764/files/The_Founder_of_Gucci_1024x1024.jpg?v=1666327345' alt='The Evolution of Gucci: How One Brand Became a Global Fashion ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="662">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fabriclore" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/1150/2764/files/The_Founder_of_Gucci_1024x1024.jpg?v=1666327345' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The House of Gucci: Brand History & A Guide to 7 of Gucci's Most ...">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0880/4684/files/Guccio_Gucci_in_front_of_his_Boutique_in_1921_480x480.jpg?v=1678808857' alt='The House of Gucci: Brand History & A Guide to 7 of Gucci's Most ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="337">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sign of the Times" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0880/4684/files/Guccio_Gucci_in_front_of_his_Boutique_in_1921_480x480.jpg?v=1678808857' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="History of GUCCI | GUCCI® US">
+                                <img itemprop="contentUrl url" src='https://media.gucci.com/dynamic/b3c8/pGk8Yo2DOGPqj6T3Ir0rBikOwMCKTWThwnat1Igs96qG6K1lyHLxHKLBRYVNXhQrmwMNrHLaoVtw93nRALa_S+B_KoBDCfjFg4StlIEgiPsoYutHfSsTyzjetlYcKcUVnmneALturc7gtuINHHXCdTPozIDiALvFjhYdLWPgQeuJrgLtCTjoi8n1wwnmcA3DrCtHAaGkhcmw5oWFRHxiTvKlJSVFQ5SJlLHDMlRmPlRqqcbAyXohY8Sm6DrKtvMr84AI7SVW2l5KM7vudwQ3RPxDCgkGAzj9vDWbkXqNc0mVM+G_NJI5Gv3se3QlQqTOALjp6xl7knwmWDtvnDL5W9D3J1r9ulQRVgYyGkq8B2GL0H8zmVhePuDgD1m67ZTx/Desktop_Artisans_in_Gucci_workshop__Florence__1953_____Archivio_Foto_Locchi_Firenze.png' alt='History of GUCCI | GUCCI® US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gucci" />
+                                </span>
+                                <a href='https://media.gucci.com/dynamic/b3c8/pGk8Yo2DOGPqj6T3Ir0rBikOwMCKTWThwnat1Igs96qG6K1lyHLxHKLBRYVNXhQrmwMNrHLaoVtw93nRALa_S+B_KoBDCfjFg4StlIEgiPsoYutHfSsTyzjetlYcKcUVnmneALturc7gtuINHHXCdTPozIDiALvFjhYdLWPgQeuJrgLtCTjoi8n1wwnmcA3DrCtHAaGkhcmw5oWFRHxiTvKlJSVFQ5SJlLHDMlRmPlRqqcbAyXohY8Sm6DrKtvMr84AI7SVW2l5KM7vudwQ3RPxDCgkGAzj9vDWbkXqNc0mVM+G_NJI5Gv3se3QlQqTOALjp6xl7knwmWDtvnDL5W9D3J1r9ulQRVgYyGkq8B2GL0H8zmVhePuDgD1m67ZTx/Desktop_Artisans_in_Gucci_workshop__Florence__1953_____Archivio_Foto_Locchi_Firenze.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Guccio Gucci - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/6/6b/Guccio_Gucci_c.1940.JPG' alt='Guccio Gucci - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/6/6b/Guccio_Gucci_c.1940.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gucci Family Tree: Members of the House of Gucci | Treemily">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/ed/b6/4b/edb64bf1a8efb28dfad2db30cc01f29a.jpg' alt='Gucci Family Tree: Members of the House of Gucci | Treemily'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Treemily" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/ed/b6/4b/edb64bf1a8efb28dfad2db30cc01f29a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gucci Logo Design – History, Meaning and Evolution | Turbologo">
+                                <img itemprop="contentUrl url" src='https://assets.turbologo.com/blog/en/2019/09/19085006/gucci-store.png' alt='Gucci Logo Design – History, Meaning and Evolution | Turbologo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Turbologo" />
+                                </span>
+                                <a href='https://assets.turbologo.com/blog/en/2019/09/19085006/gucci-store.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gucci vs Burberry vs Saint Laurent | Which brand is better ...">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0277/0193/6173/files/History_of_Gucci_Linvelles.jpg?v=1734363461' alt='Gucci vs Burberry vs Saint Laurent | Which brand is better ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="linvelles" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0277/0193/6173/files/History_of_Gucci_Linvelles.jpg?v=1734363461' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

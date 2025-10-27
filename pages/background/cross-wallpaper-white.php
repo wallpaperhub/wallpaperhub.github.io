@@ -1,0 +1,129 @@
+<title>Elegant White Cross Wallpaper for Stylish Interiors</title>
+                    <meta name="description" content="Discover the beauty of cross wallpaper in white, perfect for enhancing your home's decor. This stylish design combines elegance and versatility, making it ideal for any room. Update your space effortlessly with a fresh, modern look that invites tranquility and sophistication.">
+                    <meta name="keywords" content="cross wallpaper white">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cross-wallpaper-white">
+                            <span itemprop="name">cross wallpaper white</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant White Cross Wallpaper for Stylish Interiors</h1>
+                <p>Transform your space with stunning cross wallpaper in white. This elegant design adds a touch of sophistication to any room, making it perfect for modern, minimalist, or traditional interiors. Whether you're upgrading your living room or bedroom, white cross wallpaper provides a fresh and airy feel, creating an inviting atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="75,200+ White Christian Cross Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/879917312/photo/christian-cross-appears-bright-in-the-sky.jpg?s=612x612&w=0&k=20&c=ff8-9EdrcvyOhjKwPmH3Mnkkv2f7YsQMfhkCO-O78VQ=' alt='75,200+ White Christian Cross Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="381">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/879917312/photo/christian-cross-appears-bright-in-the-sky.jpg?s=612x612&w=0&k=20&c=ff8-9EdrcvyOhjKwPmH3Mnkkv2f7YsQMfhkCO-O78VQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Best Cross Wallpapers for Desktop and Phone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/af/b1/0c/afb10c2aebba5e633da5bb3e07360c72.jpg' alt='10 Best Cross Wallpapers for Desktop and Phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/af/b1/0c/afb10c2aebba5e633da5bb3e07360c72.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="75,200+ White Christian Cross Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1442195547/photo/background-with-the-cross-of-jesus-christ-and-falling-petals-and-doves.jpg?s=612x612&w=0&k=20&c=YpGzUqdL4FV1uMXZb6cHoPGp8PS_u5Yb9LzOt4XwrqA=' alt='75,200+ White Christian Cross Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1442195547/photo/background-with-the-cross-of-jesus-christ-and-falling-petals-and-doves.jpg?s=612x612&w=0&k=20&c=YpGzUqdL4FV1uMXZb6cHoPGp8PS_u5Yb9LzOt4XwrqA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Cross Wallpaper by ORANGEMAN80 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d130a033-5dd5-48a5-a59a-fdcf18bdd352/d51tf3a-1604a8f5-89ec-426f-87dd-08c5f5c4af38.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2QxMzBhMDMzLTVkZDUtNDhhNS1hNTlhLWZkY2YxOGJkZDM1MlwvZDUxdGYzYS0xNjA0YThmNS04OWVjLTQyNmYtODdkZC0wOGM1ZjVjNGFmMzgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.49N-Wocqb8Fgo9xYFb50boTTlUqekNZHOAqLO8Dpytc' alt='White Cross Wallpaper by ORANGEMAN80 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d130a033-5dd5-48a5-a59a-fdcf18bdd352/d51tf3a-1604a8f5-89ec-426f-87dd-08c5f5c4af38.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2QxMzBhMDMzLTVkZDUtNDhhNS1hNTlhLWZkY2YxOGJkZDM1MlwvZDUxdGYzYS0xNjA0YThmNS04OWVjLTQyNmYtODdkZC0wOGM1ZjVjNGFmMzgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.49N-Wocqb8Fgo9xYFb50boTTlUqekNZHOAqLO8Dpytc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cross wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/dc/12/5b/dc125b338dd6d83e533dd1ec3f56039e.jpg' alt='Cross wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="641">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/dc/12/5b/dc125b338dd6d83e533dd1ec3f56039e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Cross Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1678230041896-ba02043f70f5?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8d2hpdGUlMjBjcm9zc3xlbnwwfHwwfHx8MA%3D%3D' alt='White Cross Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1678230041896-ba02043f70f5?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8d2hpdGUlMjBjcm9zc3xlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : DORCEV 7x5ft Jesus Cross Backdrop Blue Sky White Clouds Heaven  Holy Light Photography Background Newborn Baby Baptism Party Cake Table ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51xAKbGHMEL.jpg' alt='Amazon.com : DORCEV 7x5ft Jesus Cross Backdrop Blue Sky White Clouds Heaven  Holy Light Photography Background Newborn Baby Baptism Party Cake Table ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1001">
+                                <meta itemprop="height" content="999">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51xAKbGHMEL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/40/b6/31/40b63148e2fa45d7e47046c8ba8dd44c.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="674">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/40/b6/31/40b63148e2fa45d7e47046c8ba8dd44c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD minimal cross wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/330/202/HD-wallpaper-minimal-christ-cross-alphabet-christian-god-jesus-jesus-christ-religion-religious-thumbnail.jpg' alt='HD minimal cross wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/330/202/HD-wallpaper-minimal-christ-cross-alphabet-christian-god-jesus-jesus-christ-religion-religious-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Let the beauty of a cross express the righteousness of ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/aesthetic-cross-n8mrbib7hv8bc7db.jpg' alt='Download Let the beauty of a cross express the righteousness of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/aesthetic-cross-n8mrbib7hv8bc7db.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

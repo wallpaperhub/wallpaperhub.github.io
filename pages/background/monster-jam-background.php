@@ -1,0 +1,129 @@
+<title>Unleash the Thrill of Monster Jam: A Celebration of Monster Trucks</title>
+                    <meta name="description" content="Experience the excitement of Monster Jam! Discover the world of massive monster trucks as they race, perform stunts, and dazzle fans. Ideal for families and thrill-seekers alike, this event promises unforgettable entertainment and adrenaline-pumping action.">
+                    <meta name="keywords" content="monster jam background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/monster-jam-background">
+                            <span itemprop="name">monster jam background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unleash the Thrill of Monster Jam: A Celebration of Monster Trucks</h1>
+                <p>Monster Jam is an exhilarating motorsport event featuring massive trucks performing stunts and racing. Originating in the late 1980s, it combines thrilling competition with family-friendly entertainment. Spectators are captivated by the impressive monster truck designs and skillful maneuvers that showcase raw power and precision.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Monster Jam™ Showdown - RELEASE DATE & KEY ART - MonsterJam">
+                                <img itemprop="contentUrl url" src='https://monsterjamvideogame.com/wp-content/uploads/MJ1_rgb_1920x1080.png' alt='Monster Jam™ Showdown - RELEASE DATE & KEY ART - MonsterJam'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Monster Jam Showdown" />
+                                </span>
+                                <a href='https://monsterjamvideogame.com/wp-content/uploads/MJ1_rgb_1920x1080.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="monster jam - Google Search">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/84/0d/10/840d10b7c41b522f387cfe990c6dfa59.jpg' alt='monster jam - Google Search'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/84/0d/10/840d10b7c41b522f387cfe990c6dfa59.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Monster Jam - Liven up your work and family calls with... | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10158131276940833' alt='Monster Jam - Liven up your work and family calls with... | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10158131276940833' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moster Monster Jam Backdrop Monster Truck Background Racing ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71yt15nfKiL._AC_UF1000,1000_QL80_.jpg' alt='Moster Monster Jam Backdrop Monster Truck Background Racing ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.ae" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71yt15nfKiL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Monster Truck Wallpaper | About Murals">
+                                <img itemprop="contentUrl url" src='https://149359637.v2.pressablecdn.com/wp-content/uploads/2017/10/Monster-Truck-Wallpaper-Nursery-About-Murals.jpg' alt='Monster Truck Wallpaper | About Murals'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="About Murals" />
+                                </span>
+                                <a href='https://149359637.v2.pressablecdn.com/wp-content/uploads/2017/10/Monster-Truck-Wallpaper-Nursery-About-Murals.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Monster Jam">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/a8/ea/94/a8ea949e0695a90368623f33836f986a.jpg' alt='Monster Jam'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="471">
+                                <meta itemprop="height" content="556">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/a8/ea/94/a8ea949e0695a90368623f33836f986a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heritage Bank Center - Monster Jam">
+                                <img itemprop="contentUrl url" src='http://static.heritagebankcenter.com/images/events/56be2db287422.jpg' alt='Heritage Bank Center - Monster Jam'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heritage Bank Center" />
+                                </span>
+                                <a href='http://static.heritagebankcenter.com/images/events/56be2db287422.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Truck Backdrop Monster Grave Digger Birthday Party Supplies Truck Jam Photo  Background Kids Boys Happy Birthday Party Banner Speed Truck Decoration ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Truck-Backdrop-Monster-Grave-Digger-Birthday-Party-Supplies-Jam-Photo-Background-Kids-Boys-Happy-Banner-Speed-Decoration-Machine-Child-7_397ca525-e03d-44d3-a228-53d24bd56987.70ce386142084b18c3745ac29d731c6a.jpeg' alt='Truck Backdrop Monster Grave Digger Birthday Party Supplies Truck Jam Photo  Background Kids Boys Happy Birthday Party Banner Speed Truck Decoration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Truck-Backdrop-Monster-Grave-Digger-Birthday-Party-Supplies-Jam-Photo-Background-Kids-Boys-Happy-Banner-Speed-Decoration-Machine-Child-7_397ca525-e03d-44d3-a228-53d24bd56987.70ce386142084b18c3745ac29d731c6a.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Monster Truck Wall Mural | Sample for Walls | About Murals">
+                                <img itemprop="contentUrl url" src='https://aboutmurals.ca/wp-content/uploads/2018/02/Big-Wheels-Monster-Truck-Wallpaper-Sample-About-Murals.jpg' alt='Monster Truck Wall Mural | Sample for Walls | About Murals'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="About Murals" />
+                                </span>
+                                <a href='https://aboutmurals.ca/wp-content/uploads/2018/02/Big-Wheels-Monster-Truck-Wallpaper-Sample-About-Murals.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Monster Jam takes over Cajundome">
+                                <img itemprop="contentUrl url" src='https://www.klfy.com/wp-content/uploads/sites/9/2015/03/monster-jam_33775738_ver1.0.jpg?w=545' alt='Monster Jam takes over Cajundome'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="545">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KLFY.com" />
+                                </span>
+                                <a href='https://www.klfy.com/wp-content/uploads/sites/9/2015/03/monster-jam_33775738_ver1.0.jpg?w=545' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

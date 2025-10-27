@@ -1,0 +1,129 @@
+<title>Captivating Vaporwave Wallpapers for Your iPhone</title>
+                    <meta name="description" content="Discover stunning vaporwave wallpapers for iPhone that blend retro aesthetics with modern design. Elevate your device's look with vibrant colors and nostalgic imagery, crafted for a unique, stylish experience. Perfect for anyone wanting to embrace the vaporwave culture!">
+                    <meta name="keywords" content="iphone:maxrs0tvov0= vaporwave wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphonemaxrs0tvov0-vaporwave-wallpaper">
+                            <span itemprop="name">iphone:maxrs0tvov0= vaporwave wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Captivating Vaporwave Wallpapers for Your iPhone</h1>
+                <p>Explore the unique vibe of vaporwave with our curated collection of iPhone vaporwave wallpapers. Embrace retro aesthetics featuring neon colors, nostalgic imagery, and digital art that transports your device into a funky, surreal world. Transform your screen with these mesmerizing designs for a fresh, stylish look.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Vaporwave Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/vaporwave-iphone-4mdck8z28nvp59ie.jpg' alt='100+] Vaporwave Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/vaporwave-iphone-4mdck8z28nvp59ie.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Vaporwave Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/vaporwave-iphone-qo8j2nbcwahwdyua.jpg' alt='100+] Vaporwave Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/vaporwave-iphone-qo8j2nbcwahwdyua.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vaporwave Wallpaper 4K, Sunset, Palm trees, Island, 5K">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/vaporwave-sunset-1290x2796-15302.jpg' alt='Vaporwave Wallpaper 4K, Sunset, Palm trees, Island, 5K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1290">
+                                <meta itemprop="height" content="2796">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/vaporwave-sunset-1290x2796-15302.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Vaporwave Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/vaporwave-iphone-0l7lz2q2r5e30vhq.jpg' alt='100+] Vaporwave Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="704">
+                                <meta itemprop="height" content="1250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/vaporwave-iphone-0l7lz2q2r5e30vhq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Vaporwave Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/vaporwave-iphone-eu2p5uk79tm1khen.jpg' alt='100+] Vaporwave Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/vaporwave-iphone-eu2p5uk79tm1khen.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Vaporwave Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/vaporwave-iphone-601cusmvspng62aw.jpg' alt='100+] Vaporwave Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/vaporwave-iphone-601cusmvspng62aw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD iphone vaporwave wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/857/455/HD-wallpaper-vaporwave-70s-colorful-higgsas-iphone-mountain-old-school-outrun-purple-retro-samsung-sun-synthwave.jpg' alt='HD iphone vaporwave wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/857/455/HD-wallpaper-vaporwave-70s-colorful-higgsas-iphone-mountain-old-school-outrun-purple-retro-samsung-sun-synthwave.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Vaporwave Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/vaporwave-iphone-pf3q2w1m7z62jp10.jpg' alt='100+] Vaporwave Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/vaporwave-iphone-pf3q2w1m7z62jp10.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Vaporwave Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/vaporwave-iphone-q3w64a0ek1adtnss.jpg' alt='100+] Vaporwave Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/vaporwave-iphone-q3w64a0ek1adtnss.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 AMAZING VAPORWAVE PHONE WALLPAPERS - Heroscreen | Free image ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVWoRCwprjan8F0iTx-MlswNely2gyIqpe8T1bY0oyxgBYvceWhbkm0vnV8rrXmKYGJox9Vi4PkKj5zKJ9xlw0dKWiHSQ5VevraVke4qen8DnVOzoU16rX3EemmefSIjJfXwmiHvVe2nQJ/w360-h640-rw/vaporwave_iphone_android_wallpaper+%25284%2529.png' alt='12 AMAZING VAPORWAVE PHONE WALLPAPERS - Heroscreen | Free image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVWoRCwprjan8F0iTx-MlswNely2gyIqpe8T1bY0oyxgBYvceWhbkm0vnV8rrXmKYGJox9Vi4PkKj5zKJ9xlw0dKWiHSQ5VevraVke4qen8DnVOzoU16rX3EemmefSIjJfXwmiHvVe2nQJ/w360-h640-rw/vaporwave_iphone_android_wallpaper+%25284%2529.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

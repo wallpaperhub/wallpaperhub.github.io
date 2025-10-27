@@ -1,0 +1,129 @@
+<title>NATO Explained: Definition & Purpose</title>
+                    <meta name="description" content="Discover the meaning of NATO and its role as a vital military alliance. Learn how the North Atlantic Treaty Organization fosters collective defense and international cooperation among its members since 1949. Explore NATO's impact on global security in this concise overview.">
+                    <meta name="keywords" content="nato definition">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/nato-definition">
+                            <span itemprop="name">nato definition</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>NATO Explained: Definition & Purpose</h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NATO - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/5/55/NATO_OTAN_landscape_logo.svg' alt='NATO - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="978">
+                                <meta itemprop="height" content="489">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/5/55/NATO_OTAN_landscape_logo.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="North Atlantic Treaty Organization (NATO) | History, Structure ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/50/160350-050-C2DBBF5E/Flag-North-Atlantic-Treaty-Organization.jpg' alt='North Atlantic Treaty Organization (NATO) | History, Structure ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/50/160350-050-C2DBBF5E/Flag-North-Atlantic-Treaty-Organization.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NATO Expands • A. W. Clausen Center for World Business • Carthage ...">
+                                <img itemprop="contentUrl url" src='https://www.carthage.edu/live/image/gid/139/width/700/23397_NATO.rev.1640048718.jpg' alt='NATO Expands • A. W. Clausen Center for World Business • Carthage ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="327">
+                                <meta itemprop="height" content="231">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Carthage College" />
+                                </span>
+                                <a href='https://www.carthage.edu/live/image/gid/139/width/700/23397_NATO.rev.1640048718.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is NATO? | Definition & Member Countries Video">
+                                <img itemprop="contentUrl url" src='https://study.com/cimages/videopreview/izl5m8qwov.jpg' alt='What is NATO? | Definition & Member Countries Video'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Study.com" />
+                                </span>
+                                <a href='https://study.com/cimages/videopreview/izl5m8qwov.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is NATO and why was it formed? - History Skills">
+                                <img itemprop="contentUrl url" src='https://image.jimcdn.com/app/cms/image/transf/none/path/s2217cd0bb1220415/image/i1f9dbafb9db1505a/version/1684005666/nato-symbol-and-flags-graphic.jpg' alt='What is NATO and why was it formed? - History Skills'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="History Skills" />
+                                </span>
+                                <a href='https://image.jimcdn.com/app/cms/image/transf/none/path/s2217cd0bb1220415/image/i1f9dbafb9db1505a/version/1684005666/nato-symbol-and-flags-graphic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NATO">
+                                <img itemprop="contentUrl url" src='https://www.u-s-history.com/images/natoflag.gif' alt='NATO'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="259">
+                                <meta itemprop="height" content="212">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Introduction to U-S-History.com" />
+                                </span>
+                                <a href='https://www.u-s-history.com/images/natoflag.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Is NATO?">
+                                <img itemprop="contentUrl url" src='https://www.thebalancemoney.com/thmb/3NZsf1tfD9vyNcMEV5OgikDtYZ0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/nato-purpose-history-members-and-alliances-3306116_FINAL-38b8c8dd3c5341d4981c912824824f1a.png' alt='What Is NATO?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Balance" />
+                                </span>
+                                <a href='https://www.thebalancemoney.com/thmb/3NZsf1tfD9vyNcMEV5OgikDtYZ0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/nato-purpose-history-members-and-alliances-3306116_FINAL-38b8c8dd3c5341d4981c912824824f1a.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Law Define: North Atlantic Treaty Organization (NATO)">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7wnS1Mn8TePyksyQOb6Ib1-3I1cvk-yBOmDurn15dZK4he1w0UWBbRplY8jZE5oMIDq3uWFZPadFsqZiKaYLqO36SOafW_lFYdhbHF06uFT17F4uU0RN5fYzUTiV4jC2uaTpVOuSPObs/s1600/NATO-logo.jpg' alt='Law Define: North Atlantic Treaty Organization (NATO)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="225">
+                                <meta itemprop="height" content="336">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Law Define" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7wnS1Mn8TePyksyQOb6Ib1-3I1cvk-yBOmDurn15dZK4he1w0UWBbRplY8jZE5oMIDq3uWFZPadFsqZiKaYLqO36SOafW_lFYdhbHF06uFT17F4uU0RN5fYzUTiV4jC2uaTpVOuSPObs/s1600/NATO-logo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NATO - Topic: Цель НАТО">
+                                <img itemprop="contentUrl url" src='https://www.nato.int/nato_static_fl2014/assets/pictures/2011_03_110310d-nac-meeting/20110310_110310d-001_rdax_775x516s.jpg' alt='NATO - Topic: Цель НАТО'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="775">
+                                <meta itemprop="height" content="516">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NATO" />
+                                </span>
+                                <a href='https://www.nato.int/nato_static_fl2014/assets/pictures/2011_03_110310d-nac-meeting/20110310_110310d-001_rdax_775x516s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NATO - Topic: Collective defence and Article 5">
+                                <img itemprop="contentUrl url" src='https://www.nato.int/nato_static_fl2014/assets/pictures/images_mfu/2024/3/stock/240307-coll-def_rdax_775x440s.jpg' alt='NATO - Topic: Collective defence and Article 5'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="774">
+                                <meta itemprop="height" content="440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NATO" />
+                                </span>
+                                <a href='https://www.nato.int/nato_static_fl2014/assets/pictures/images_mfu/2024/3/stock/240307-coll-def_rdax_775x440s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

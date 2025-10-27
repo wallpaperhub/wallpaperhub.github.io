@@ -1,0 +1,129 @@
+<title>Engage Your Audience with Stunning Colorful Flyers</title>
+                    <meta name="description" content="Discover the power of colorful flyers to elevate your marketing efforts. Vibrant designs and eye-catching visuals attract attention, making your message stand out. Perfect for events, promotions, or brand awareness, these flyers are essential for effective communication in today's visual-driven world.">
+                    <meta name="keywords" content="colorful flyers">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/colorful-flyers">
+                            <span itemprop="name">colorful flyers</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Engage Your Audience with Stunning Colorful Flyers</h1>
+                <p>Colorful flyers are vibrant marketing tools designed to capture attention and communicate messages effectively. With striking designs, bold colors, and engaging graphics, they are ideal for promoting events, businesses, or causes. Flyers can be distributed physically or digitally, making them versatile for reaching diverse audiences.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Flyer Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-psd/party-template-design_23-2151140258.jpg' alt='Colorful Flyer Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-psd/party-template-design_23-2151140258.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring Break Psd Flyer Template">
+                                <img itemprop="contentUrl url" src='https://www.creative-flyers.com/wp-content/uploads/2020/02/Spring-Break-Flyer-template-1.jpg' alt='Spring Break Psd Flyer Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="590">
+                                <meta itemprop="height" content="868">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Flyers" />
+                                </span>
+                                <a href='https://www.creative-flyers.com/wp-content/uploads/2020/02/Spring-Break-Flyer-template-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 2 | Colorful Flyer Vectors & Illustrations for Free Download ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/holi-festival-flyer-template_23-2148421824.jpg' alt='Page 2 | Colorful Flyer Vectors & Illustrations for Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/holi-festival-flyer-template_23-2148421824.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Flyer Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/006/139/855/non_2x/colorful-business-flyer-template-set-free-vector.jpg' alt='Colorful Flyer Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1531">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/006/139/855/non_2x/colorful-business-flyer-template-set-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Flyers Bundle Vol. 1">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/04/46/f9/0446f914a6d83ca9a1abae1b605a258f.jpg' alt='Colorful Flyers Bundle Vol. 1'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1082">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/04/46/f9/0446f914a6d83ca9a1abae1b605a258f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Colorful Flyer Templates - PhotoADKing">
+                                <img itemprop="contentUrl url" src='https://d3jmn01ri1fzgl.cloudfront.net/photoadking/webp_thumbnail/lime-and-mercury-colorful-street-dance-flyer-template-xwm1me280211d9.webp' alt='Free Colorful Flyer Templates - PhotoADKing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="325">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PhotoADKing" />
+                                </span>
+                                <a href='https://d3jmn01ri1fzgl.cloudfront.net/photoadking/webp_thumbnail/lime-and-mercury-colorful-street-dance-flyer-template-xwm1me280211d9.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Flyer Inspiration Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/flat-design-colorful-poster-template_23-2149972568.jpg' alt='Colorful Flyer Inspiration Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/flat-design-colorful-poster-template_23-2149972568.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Flyer Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-psd/gradient-holi-design-template_23-2150091726.jpg?semt=ais_hybrid' alt='Colorful Flyer Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-psd/gradient-holi-design-template_23-2150091726.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bright Music Festival Posters to Download - Creativeflyers">
+                                <img itemprop="contentUrl url" src='https://www.creative-flyers.com/wp-content/uploads/2019/05/Music-Festival-Poster-04_0063201905.jpg' alt='Bright Music Festival Posters to Download - Creativeflyers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="590">
+                                <meta itemprop="height" content="868">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Flyers" />
+                                </span>
+                                <a href='https://www.creative-flyers.com/wp-content/uploads/2019/05/Music-Festival-Poster-04_0063201905.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Flyer Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-psd/colorful-pop-flyer-template-design_23-2151764541.jpg?semt=ais_hybrid' alt='Colorful Flyer Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-psd/colorful-pop-flyer-template-design_23-2151764541.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

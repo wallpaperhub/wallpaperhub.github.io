@@ -1,0 +1,129 @@
+<title>Inspiring Christian Lock Screen Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover beautiful Christian lock screen wallpapers that inspire faith and positivity. Browse our collection of stunning designs to personalize your device and carry your spirituality with you everywhere. Find the perfect wallpaper to uplift your spirit daily!">
+                    <meta name="keywords" content="christian lock screen wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock">
+                            <span itemprop="name">Lock</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock/christian-lock-screen-wallpaper">
+                            <span itemprop="name">christian lock screen wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Inspiring Christian Lock Screen Wallpapers for Your Device</h1>
+                <p>Enhance your device with inspiring Christian lock screen wallpapers that reflect your faith. Choose from a variety of designs featuring scriptures, crosses, and uplifting imagery. Personalize your phone while enjoying daily reminders of your beliefs. Download your favorite wallpaper today and keep the spirit close at hand!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lock Screens | Hosanna Revival">
+                                <img itemprop="contentUrl url" src='https://hosannarevival.com/cdn/shop/articles/Hosanna-Revival-Salamanca-Lock-Screen_1080x.png?v=1674237937' alt='Lock Screens | Hosanna Revival'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1919">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hosanna Revival" />
+                                </span>
+                                <a href='https://hosannarevival.com/cdn/shop/articles/Hosanna-Revival-Salamanca-Lock-Screen_1080x.png?v=1674237937' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lockscreens - YMI">
+                                <img itemprop="contentUrl url" src='https://ymi.today/wp-content/uploads/2022/08/Sep-Lockscreen-2022.jpg' alt='Lockscreens - YMI'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YMI" />
+                                </span>
+                                <a href='https://ymi.today/wp-content/uploads/2022/08/Sep-Lockscreen-2022.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Well-Watered Women | Freebies">
+                                <img itemprop="contentUrl url" src='https://static.showit.co/file/PVAH0FTDQveZBDrlDiSLvA/75549/christ_will_never_fail_me-2-lockscreen.jpg' alt='Well-Watered Women | Freebies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Well-Watered Women" />
+                                </span>
+                                <a href='https://static.showit.co/file/PVAH0FTDQveZBDrlDiSLvA/75549/christ_will_never_fail_me-2-lockscreen.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Christian Phone Wallpapers – By Faith">
+                                <img itemprop="contentUrl url" src='https://byfaith.org/wp-content/uploads/2022/03/Phone-Wallpapers_9.jpg' alt='Free Christian Phone Wallpapers – By Faith'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="By Faith" />
+                                </span>
+                                <a href='https://byfaith.org/wp-content/uploads/2022/03/Phone-Wallpapers_9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="All things are possible - Believers4ever.com">
+                                <img itemprop="contentUrl url" src='http://believers4ever.com/wp-content/uploads/2015/01/All-things-are-possible.png' alt='All things are possible - Believers4ever.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2561">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Believers4ever.com" />
+                                </span>
+                                <a href='http://believers4ever.com/wp-content/uploads/2015/01/All-things-are-possible.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Easter & Spring Phone Wallpapers | Ashley Eddleman - Freebies">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0e/f3/4a/0ef34ac9ae388a0abf56853452fe1167.jpg' alt='Easter & Spring Phone Wallpapers | Ashley Eddleman - Freebies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0e/f3/4a/0ef34ac9ae388a0abf56853452fe1167.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Well-Watered Women | Freebies">
+                                <img itemprop="contentUrl url" src='https://static.showit.co/file/D-CKFFbLSKuO2rWFLyE-dg/75549/encouragement_study.jpg' alt='Well-Watered Women | Freebies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Well-Watered Women" />
+                                </span>
+                                <a href='https://static.showit.co/file/D-CKFFbLSKuO2rWFLyE-dg/75549/encouragement_study.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bible Verse Phone Wallpaper Phone Lock Screen Digital Download - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/33972204/r/il/db7ee9/3731829963/il_1080xN.3731829963_hqft.jpg' alt='Bible Verse Phone Wallpaper Phone Lock Screen Digital Download - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/33972204/r/il/db7ee9/3731829963/il_1080xN.3731829963_hqft.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Girly Phone Wallpaper Lock Screen Background Home Screen ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/03/3f/15/033f15ba302992952c7c27e98b01da65.jpg' alt='Cute Girly Phone Wallpaper Lock Screen Background Home Screen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/03/3f/15/033f15ba302992952c7c27e98b01da65.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="lockscreen wallpaper Archives - Believers4ever.com">
+                                <img itemprop="contentUrl url" src='https://believers4ever.com/wp-content/uploads/2015/08/I-wont-be-afraid.png' alt='lockscreen wallpaper Archives - Believers4ever.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2561">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Believers4ever.com" />
+                                </span>
+                                <a href='https://believers4ever.com/wp-content/uploads/2015/08/I-wont-be-afraid.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

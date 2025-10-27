@@ -1,0 +1,129 @@
+<title>Festive Christmas Card Backgrounds: Enhance Your Holiday Greetings</title>
+                    <meta name="description" content="Discover beautiful backgrounds for your Christmas cards! Enhance your festive greetings with a variety of designs, from traditional to modern. Perfect for spreading holiday cheer and capturing the magic of the season, our backgrounds will make your cards stand out. Celebrate in style this Christmas!">
+                    <meta name="keywords" content="christmas cards background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/christmas-cards-background">
+                            <span itemprop="name">christmas cards background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Festive Christmas Card Backgrounds: Enhance Your Holiday Greetings</h1>
+                <p>Christmas cards backgrounds evoke the warmth and joy of the holiday season. From snowy landscapes to festive ornaments, these designs enhance your heartfelt messages. Choose from classic reds and greens or opt for modern, minimalist styles. Elevate your holiday greetings with the perfect backdrop that spreads cheer and captures the spirit of Christmas.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Card Background Vector Art, Icons, and Graphics for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/003/755/377/small_2x/christmas-holidays-background-composition-xmas-greeting-card-with-hanging-balls-and-red-ribbon-fir-tree-branch-ornament-decorations-vector.jpg' alt='Christmas Card Background Vector Art, Icons, and Graphics for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="566">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/003/755/377/small_2x/christmas-holidays-background-composition-xmas-greeting-card-with-hanging-balls-and-red-ribbon-fir-tree-branch-ornament-decorations-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Background Images – Browse 18,469,263 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/01/71/62/85/360_F_171628591_fHaJkCmMmP6gapohfht7zsPl00ecoxqK.jpg' alt='Christmas Background Images – Browse 18,469,263 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/01/71/62/85/360_F_171628591_fHaJkCmMmP6gapohfht7zsPl00ecoxqK.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="939,406 Christmas Card Background Stock Photos - Free & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/merry-christmas-card-background-branches-tree-colorful-gift-boxes-341827193.jpg' alt='939,406 Christmas Card Background Stock Photos - Free & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/merry-christmas-card-background-branches-tree-colorful-gift-boxes-341827193.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vector set of Christmas cards backgrounds art 04 free download">
+                                <img itemprop="contentUrl url" src='https://freedesignfile.com/upload/2012/12/Christmas-cards-backgrounds-art-4.jpg' alt='Vector set of Christmas cards backgrounds art 04 free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="664">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FreeDesignFile" />
+                                </span>
+                                <a href='https://freedesignfile.com/upload/2012/12/Christmas-cards-backgrounds-art-4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13,400+ Christmas Cards On Table Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1284222523/photo/mary-christmas-and-happy-new-year.jpg?s=612x612&w=0&k=20&c=YebVsZwsCTc3W1X8OqGk84rLik01iAJ2uOIddDB72no=' alt='13,400+ Christmas Cards On Table Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1284222523/photo/mary-christmas-and-happy-new-year.jpg?s=612x612&w=0&k=20&c=YebVsZwsCTc3W1X8OqGk84rLik01iAJ2uOIddDB72no=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Card Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/nice-christmas-background-white-background-with-copy-space_24972-1722.jpg' alt='Christmas Card Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/nice-christmas-background-white-background-with-copy-space_24972-1722.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Card" Images – Browse 1,080,288 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/00/94/85/11/360_F_94851194_3yE3j5vgbY0wdpNpjGBUmUZSyuiUrCNk.jpg' alt='Christmas Card" Images – Browse 1,080,288 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="471">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/00/94/85/11/360_F_94851194_3yE3j5vgbY0wdpNpjGBUmUZSyuiUrCNk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Green Christmas Card Background">
+                                <img itemprop="contentUrl url" src='https://files.123freevectors.com/wp-content/original/503203-green-christmas-card-background.jpg' alt='Free Green Christmas Card Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2987">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123FreeVectors" />
+                                </span>
+                                <a href='https://files.123freevectors.com/wp-content/original/503203-green-christmas-card-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Christmas greeting card. Happy New Year. Christmas ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/christmas-greeting-card-happy-new-year-christmas-ornaments-red-background-merry-christmas-card-space-text_138888-1006.jpg' alt='Premium Photo | Christmas greeting card. Happy New Year. Christmas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="417">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/christmas-greeting-card-happy-new-year-christmas-ornaments-red-background-merry-christmas-card-space-text_138888-1006.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Merry Christmas Wallpaper | More Christmas cards/wallpaper. … | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/6116/6331649310_4a34c852d7_b.jpg' alt='Merry Christmas Wallpaper | More Christmas cards/wallpaper. … | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="647">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/6116/6331649310_4a34c852d7_b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

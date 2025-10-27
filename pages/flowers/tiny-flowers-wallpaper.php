@@ -1,0 +1,129 @@
+<title>Charming Tiny Flowers Wallpaper for Every Space</title>
+                    <meta name="description" content="Discover the beauty of tiny flowers wallpaper, perfect for adding a fresh, colorful touch to any room. Explore our collection of delicate floral designs to transform your space into a inviting and cheerful retreat. Ideal for homes and offices alike, it's a quick way to elevate your decor.">
+                    <meta name="keywords" content="tiny flowers wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flowers">
+                            <span itemprop="name">Flowers</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flowers/tiny-flowers-wallpaper">
+                            <span itemprop="name">tiny flowers wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Tiny Flowers Wallpaper for Every Space</h1>
+                <p>Tiny flowers wallpaper brings a touch of nature into your space, adding a whimsical and vibrant atmosphere. Perfect for those who love floral designs, these wallpapers showcase delicate blooms in various colors and patterns. Ideal for cozy rooms or cheerful accents, they create a serene and uplifting environment.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Miniature Roses - Porcelain Blue Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='http://mitchellblack.com/cdn/shop/products/WC410-PB_MiniatureRose_PorcelainBlue.jpg?v=1661046785' alt='Miniature Roses - Porcelain Blue Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mitchell Black" />
+                                </span>
+                                <a href='http://mitchellblack.com/cdn/shop/products/WC410-PB_MiniatureRose_PorcelainBlue.jpg?v=1661046785' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tiny Flowers Wallpaper - Lilipinso">
+                                <img itemprop="contentUrl url" src='https://www.etoffe.com/343554/tiny-flowers-wallpaper-lilipinso.jpg' alt='Tiny Flowers Wallpaper - Lilipinso'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="740">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etoffe.com" />
+                                </span>
+                                <a href='https://www.etoffe.com/343554/tiny-flowers-wallpaper-lilipinso.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Miniature Roses - Rouge Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='http://mitchellblack.com/cdn/shop/products/WC410-RG_MiniatureRose_Rouge.jpg?v=1661046808' alt='Miniature Roses - Rouge Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mitchell Black" />
+                                </span>
+                                <a href='http://mitchellblack.com/cdn/shop/products/WC410-RG_MiniatureRose_Rouge.jpg?v=1661046808' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tiny Flowers- Wallpaper">
+                                <img itemprop="contentUrl url" src='http://relativitytextiles.com/cdn/shop/files/coral_tiny-flower_SydMayme.png?v=1694799104&width=2048' alt='Tiny Flowers- Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1467">
+                                <meta itemprop="height" content="2200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Relativity Textiles" />
+                                </span>
+                                <a href='http://relativitytextiles.com/cdn/shop/files/coral_tiny-flower_SydMayme.png?v=1694799104&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Norwall Small Floral Trail Vinyl Roll Wallpaper (Covers 56 sq. ft.) PR33802">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/b791c9ea-f42c-4381-859e-84eef199138f/svn/norwall-wallpaper-rolls-pr33802-64_600.jpg' alt='Norwall Small Floral Trail Vinyl Roll Wallpaper (Covers 56 sq. ft.) PR33802'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/b791c9ea-f42c-4381-859e-84eef199138f/svn/norwall-wallpaper-rolls-pr33802-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tiny floral">
+                                <img itemprop="contentUrl url" src='http://lagrandclassique.com/cdn/shop/products/00518_small_flowers_main.jpg?v=1667386083' alt='Tiny floral'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="La Grand Classique" />
+                                </span>
+                                <a href='http://lagrandclassique.com/cdn/shop/products/00518_small_flowers_main.jpg?v=1667386083' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tiny Floral Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/7887504/p/f/m/CcACAR_hZtFqOo8nF-SW5e8BThpxMkG0LoFs7FotY8EZtz6E-3UqCYZrTb0/TINY%20Woodland%20Flowers%20-%20Pink%20Peach%20Blush%20Blue%20Floral.jpg' alt='Tiny Floral Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/7887504/p/f/m/CcACAR_hZtFqOo8nF-SW5e8BThpxMkG0LoFs7FotY8EZtz6E-3UqCYZrTb0/TINY%20Woodland%20Flowers%20-%20Pink%20Peach%20Blush%20Blue%20Floral.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tiny Vine Flowers Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/tiny-vine-flowers-wallpaper-xllg-l.jpg' alt='Tiny Vine Flowers Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/tiny-vine-flowers-wallpaper-xllg-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Tiny Flowers">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/blue-tiny-flowers-pattern-repeat-removable-wallpaper-design.jpg' alt='Blue Tiny Flowers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/blue-tiny-flowers-pattern-repeat-removable-wallpaper-design.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Schumacher Margie Floral Rose Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.decoratorsbest.com/cdn/shop/files/6884897652782.jpg?v=1714036555' alt='Schumacher Margie Floral Rose Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecoratorsBest" />
+                                </span>
+                                <a href='https://www.decoratorsbest.com/cdn/shop/files/6884897652782.jpg?v=1714036555' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

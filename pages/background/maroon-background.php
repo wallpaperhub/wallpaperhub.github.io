@@ -1,0 +1,129 @@
+<title>"Elevate Your Designs with Maroon Backgrounds"</title>
+                    <meta name="description" content="Discover the power of maroon backgrounds in design. This rich, warm color enhances visual appeal and adds sophistication, perfect for interiors and digital graphics. Explore tips for effective usage and bring elegance to your projects with maroon tones.">
+                    <meta name="keywords" content="maroon background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/maroon-background">
+                            <span itemprop="name">maroon background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>"Elevate Your Designs with Maroon Backgrounds"</h1>
+                <p>A maroon background exudes warmth and elegance, making it a perfect choice for various design themes. Its rich hue can create a sophisticated atmosphere in interiors or provide a bold, striking element in graphic design. Whether for websites, marketing materials, or decor, maroon adds depth and flair to any project.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maroon Background Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/030/669/803/non_2x/maroon-background-high-quality-free-photo.jpg' alt='Maroon Background Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1749">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/030/669/803/non_2x/maroon-background-high-quality-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maroon Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/001/953/602/small_2x/abstract-wavy-red-backgound-free-vector.jpg' alt='Maroon Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="625">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/001/953/602/small_2x/abstract-wavy-red-backgound-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1920x1080 UP Maroon Solid Color Background">
+                                <img itemprop="contentUrl url" src='https://www.solidbackgrounds.com/images/1920x1080/1920x1080-up-maroon-solid-color-background.jpg' alt='1920x1080 UP Maroon Solid Color Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Solid Color Backgrounds" />
+                                </span>
+                                <a href='https://www.solidbackgrounds.com/images/1920x1080/1920x1080-up-maroon-solid-color-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maroon Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/gradient-burgundy-gold-background_52683-149616.jpg?semt=ais_hybrid' alt='Maroon Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/gradient-burgundy-gold-background_52683-149616.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maroon Background Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/007/702/150/small_2x/red-background-color-for-paper-canvas-or-board-free-vector.jpg' alt='Maroon Background Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/007/702/150/small_2x/red-background-color-for-paper-canvas-or-board-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Burgundy Background Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA5L3Jhd3BpeGVsX29mZmljZV8zNl8zZF9yZW5kZXJfYWVzdGhldGljX3JlYWxpc3RpY19vZl9nb2xkZW5fbGlnaF82YTM4MmRmZC0xNzI2LTQ2MDktYmQyZC05Y2VjMDlkZmI4ZTBfMS5qcGc.jpg' alt='Burgundy Background Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA5L3Jhd3BpeGVsX29mZmljZV8zNl8zZF9yZW5kZXJfYWVzdGhldGljX3JlYWxpc3RpY19vZl9nb2xkZW5fbGlnaF82YTM4MmRmZC0xNzI2LTQ2MDktYmQyZC05Y2VjMDlkZmI4ZTBfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maroon background 2025">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/maroon-background-vsrj3tl29sds5gmt.jpg' alt='Maroon background 2025'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/maroon-background-vsrj3tl29sds5gmt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15,900+ Maroon Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1458021552/vector/viva-magenta-tropical-forest-foliage-vector-background-dark-palm-leaves-wedding-invitation.jpg?s=612x612&w=0&k=20&c=l0c9L_wBO1SJgkzkbsn8zATRJT7HoimQck5sOA7uzZk=' alt='15,900+ Maroon Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1458021552/vector/viva-magenta-tropical-forest-foliage-vector-background-dark-palm-leaves-wedding-invitation.jpg?s=612x612&w=0&k=20&c=l0c9L_wBO1SJgkzkbsn8zATRJT7HoimQck5sOA7uzZk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maroon Background Images – Browse 199,311 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/17/34/43/360_F_317344337_q8D4c21OFCk6YsHdj4upRxiEpuc1vQYb.jpg' alt='Maroon Background Images – Browse 199,311 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="521">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/17/34/43/360_F_317344337_q8D4c21OFCk6YsHdj4upRxiEpuc1vQYb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Maroon Abstract Background Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_social_landscape/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA5L3Jhd3BpeGVsX29mZmljZV8zNl8zZF9yZW5kZXJfZmxhdF9hZXN0aGV0aWNfcmVhbGlzdGljX29mX2x1eHVyaV9lNGY4YWFhOC0xZjc2LTQyZDMtYTgyYi05NGM4MDk5NTc3M2ZfMS5qcGc.jpg' alt='Maroon Abstract Background Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_social_landscape/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA5L3Jhd3BpeGVsX29mZmljZV8zNl8zZF9yZW5kZXJfZmxhdF9hZXN0aGV0aWNfcmVhbGlzdGljX29mX2x1eHVyaV9lNGY4YWFhOC0xZjc2LTQyZDMtYTgyYi05NGM4MDk5NTc3M2ZfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

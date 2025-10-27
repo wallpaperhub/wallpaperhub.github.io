@@ -1,0 +1,129 @@
+<title>Discover the Depths of Indian Culture and Heritage</title>
+                    <meta name="description" content="Explore the fascinating Indian background, characterized by its rich diversity of cultures, languages, and traditions. Delve into historical influences, art, and culinary delights that shape this vibrant heritage, showcasing the blend of ancient and modern India in a captivating journey.">
+                    <meta name="keywords" content="indian background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/indian-background">
+                            <span itemprop="name">indian background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Depths of Indian Culture and Heritage</h1>
+                <p>India boasts a rich tapestry of diverse cultures, languages, and traditions, rooted in its ancient history. The Indian background encompasses a myriad of influences from various civilizations, religions, and regional practices. This vibrant heritage is celebrated through festivals, cuisine, art, and literature, making India a unique blend of old and new.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="118,100+ Indian Culture Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/601938956/vector/mandala-retro-red-background.jpg?s=612x612&w=0&k=20&c=EFmiopQjuhZsuHn2tPRNj9LbLiMuq1KamTOE5Yuv2jY=' alt='118,100+ Indian Culture Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/601938956/vector/mandala-retro-red-background.jpg?s=612x612&w=0&k=20&c=EFmiopQjuhZsuHn2tPRNj9LbLiMuq1KamTOE5Yuv2jY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="218,900+ Indian Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1135714006/vector/elegant-shiny-indian-flag-theme-with-mandala-vector.jpg?s=612x612&w=0&k=20&c=RHTH3n7vRL031HoCxLg7VkCw0x8Mx7y6A0uMY1j3m9E=' alt='218,900+ Indian Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="611">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1135714006/vector/elegant-shiny-indian-flag-theme-with-mandala-vector.jpg?s=612x612&w=0&k=20&c=RHTH3n7vRL031HoCxLg7VkCw0x8Mx7y6A0uMY1j3m9E=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Indian Traditional Background Vector Art, Icons, and Graphics for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/029/107/234/non_2x/luxurious-orange-peel-lotus-mandala-simple-blank-background-vector.jpg' alt='Indian Traditional Background Vector Art, Icons, and Graphics for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1742">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/029/107/234/non_2x/luxurious-orange-peel-lotus-mandala-simple-blank-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Indian Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/background-template-with-mandala-pattern-design_1308-42133.jpg' alt='Indian Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="393">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/background-template-with-mandala-pattern-design_1308-42133.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Indian Background Images – Browse 2,931,737 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/86/73/71/360_F_286737135_FNEDjbyt7Y33eZ3WUpvY1OkUIUQua4ff.jpg' alt='Indian Background Images – Browse 2,931,737 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/86/73/71/360_F_286737135_FNEDjbyt7Y33eZ3WUpvY1OkUIUQua4ff.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Indian Background Images – Browse 2,931,737 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/09/68/57/360_F_309685781_mBaHmLqYEHKyoJDOf3K2XKi1h7R6NAu0.jpg' alt='Indian Background Images – Browse 2,931,737 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="662">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/09/68/57/360_F_309685781_mBaHmLqYEHKyoJDOf3K2XKi1h7R6NAu0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Indian Traditional Background Vector Art, Icons, and Graphics for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/007/101/572/non_2x/beautiful-mandala-background-template-free-vector.jpg' alt='Indian Traditional Background Vector Art, Icons, and Graphics for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1568">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/007/101/572/non_2x/beautiful-mandala-background-template-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : AOFOTO 7x5ft Taj Mahal Indian National Flag Background  Backdrop India Traditional Symbols 15th August Independence Day Historical  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71bCde3U8KL.jpg' alt='Amazon.com : AOFOTO 7x5ft Taj Mahal Indian National Flag Background  Backdrop India Traditional Symbols 15th August Independence Day Historical  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="681">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71bCde3U8KL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="118,100+ Indian Culture Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/598814748/vector/mandala-retro-background.jpg?s=612x612&w=0&k=20&c=1UPW9HFfUrEAtCtv4UaJWz4svkCxm1U-_OQvwinPoR0=' alt='118,100+ Indian Culture Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/598814748/vector/mandala-retro-background.jpg?s=612x612&w=0&k=20&c=1UPW9HFfUrEAtCtv4UaJWz4svkCxm1U-_OQvwinPoR0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Indian Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20211215/original/pngtree-orange-green-indian-independence-day-flag-splashes-abstract-background-picture-image_1454802.jpg' alt='Indian Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="857">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20211215/original/pngtree-orange-green-indian-independence-day-flag-splashes-abstract-background-picture-image_1454802.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

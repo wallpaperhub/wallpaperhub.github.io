@@ -1,0 +1,129 @@
+<title>Route 66 Wallpaper: Bring the Open Road Home</title>
+                    <meta name="description" content="Explore vibrant Route 66 wallpaper options that celebrate the iconic American highway. Perfect for home decor, each design captures the essence of road trips and nostalgia. Transform your walls and revitalize your space with a touch of adventure and classic Americana! Ideal for enthusiasts and decor lovers alike.">
+                    <meta name="keywords" content="route 66 wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/route-66-wallpaper">
+                            <span itemprop="name">route 66 wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Route 66 Wallpaper: Bring the Open Road Home</h1>
+                <p>Transform your space with stunning Route 66 wallpaper, capturing the spirit of Americana and the classic road trip adventure. Perfect for creating a nostalgic atmosphere or a bold statement wall, our wallpaper features vibrant colors and iconic landmarks. Ideal for vintage enthusiasts and anyone who loves a touch of the open road!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Route 66 On the Road Again">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/47316/route-66-on-the-road-again.jpg?h=699&q=85' alt='Route 66 On the Road Again'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/47316/route-66-on-the-road-again.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D US Route 66 Road Wallpaper, Mountain Wall Mural, Plant Wall ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17012360/r/il/2c0419/1675860703/il_fullxfull.1675860703_tbws.jpg' alt='3D US Route 66 Road Wallpaper, Mountain Wall Mural, Plant Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17012360/r/il/2c0419/1675860703/il_fullxfull.1675860703_tbws.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MU1445 Route 66 Wall Mural ☑️ Talissa Decor - Wall Murals | Talissa Decor">
+                                <img itemprop="contentUrl url" src='https://www.talissadecor.com/wp-content/uploads/2016/09/products-2938.jpg' alt='MU1445 Route 66 Wall Mural ☑️ Talissa Decor - Wall Murals | Talissa Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Talissa Decor Ceiling Tiles" />
+                                </span>
+                                <a href='https://www.talissadecor.com/wp-content/uploads/2016/09/products-2938.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Route 66 (Sunset) Wall Mural">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/237307/Route-66-Sunset-Mural-Wallpaper.jpg?v=638164605453370000' alt='Route 66 (Sunset) Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2986">
+                                <meta itemprop="height" content="3200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/237307/Route-66-Sunset-Mural-Wallpaper.jpg?v=638164605453370000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Route 66 Scenic Mural Wallpaper | Ever Wallpaper">
+                                <img itemprop="contentUrl url" src='https://everwallpaper.com/cdn/shop/products/677.jpg?v=1658714460' alt='Vintage Route 66 Scenic Mural Wallpaper | Ever Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1304">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everwallpaper" />
+                                </span>
+                                <a href='https://everwallpaper.com/cdn/shop/products/677.jpg?v=1658714460' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Route 66 Pictures [HD] | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1675826908169-ac0de41a213a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cm91dGUlMjA2NnxlbnwwfHwwfHx8MA%3D%3D' alt='Route 66 Pictures [HD] | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4098">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1675826908169-ac0de41a213a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cm91dGUlMjA2NnxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13,500+ Route 66 Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1365400378/photo/route-66-monument-valley.jpg?s=612x612&w=0&k=20&c=gR94IKk-O-DiS5w3AYTQS9mZqP4KZJQR52ODREim0u8=' alt='13,500+ Route 66 Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="292">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1365400378/photo/route-66-monument-valley.jpg?s=612x612&w=0&k=20&c=gR94IKk-O-DiS5w3AYTQS9mZqP4KZJQR52ODREim0u8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kicks on Route 66 Wall Mural">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/237299/Kicks-on-Route-66-Mural-Wallpaper.jpg?v=638164605565230000' alt='Kicks on Route 66 Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="3200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/237299/Kicks-on-Route-66-Mural-Wallpaper.jpg?v=638164605565230000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Route 66">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/64/d0/20/64d0202b8d5950a033505817a2c0dde2.jpg' alt='Route 66'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="528">
+                                <meta itemprop="height" content="370">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/64/d0/20/64d0202b8d5950a033505817a2c0dde2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/f8/a9/17/f8a917384de90255d6c807a6a8fc8f2c.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="464">
+                                <meta itemprop="height" content="843">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/f8/a9/17/f8a917384de90255d6c807a6a8fc8f2c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

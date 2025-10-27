@@ -1,0 +1,129 @@
+<title>Fresh Strawberry Clipart with Transparent Background</title>
+                    <meta name="description" content="Explore high-quality strawberry clipart featuring transparent backgrounds. Ideal for design projects, these fresh graphics are versatile and easy to use, adding a splash of color to your work. Perfect for designers and DIY enthusiasts alike!">
+                    <meta name="keywords" content="transparent background strawberry clipart">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/transparent-background-strawberry-clipart">
+                            <span itemprop="name">transparent background strawberry clipart</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Fresh Strawberry Clipart with Transparent Background</h1>
+                <p>Discover vibrant strawberry clipart with transparent backgrounds, perfect for your creative projects! Use these delightful graphics to enhance invitations, social media posts, or website designs. With easy customization options, you can effortlessly integrate these fruity illustrations into any design, making your visuals pop!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberry Transparent Clip Art Image​ | Gallery Yopriceville ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/downloadfullsize/send/13873' alt='Strawberry Transparent Clip Art Image​ | Gallery Yopriceville ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4567">
+                                <meta itemprop="height" content="6000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/downloadfullsize/send/13873' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberries Clipart PNG, Vector, PSD, and Clipart With ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/png-clipart/20201225/ourmid/pngtree-cartoon-strawberry-clipart-elements-png-image_2630449.jpg' alt='Strawberries Clipart PNG, Vector, PSD, and Clipart With ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/png-clipart/20201225/ourmid/pngtree-cartoon-strawberry-clipart-elements-png-image_2630449.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberry PNG Clipart - Best WEB Clipart">
+                                <img itemprop="contentUrl url" src='https://pics.clipartpng.com/Strawberry_PNG_Clipart-261.png' alt='Strawberry PNG Clipart - Best WEB Clipart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1074">
+                                <meta itemprop="height" content="1066">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ClipartPNG" />
+                                </span>
+                                <a href='https://pics.clipartpng.com/Strawberry_PNG_Clipart-261.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Fruit Strawberry PNG Images, Fruit Clipart, Strawberry Clipart ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/47/c8/df/47c8dfc960c1887f1e121335fd67110e.jpg' alt='Red Fruit Strawberry PNG Images, Fruit Clipart, Strawberry Clipart ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="878">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/47/c8/df/47c8dfc960c1887f1e121335fd67110e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberries PNG image with transparent background transparent ...">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/strawberry_PNG2631.png' alt='Strawberries PNG image with transparent background transparent ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1716">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/strawberry_PNG2631.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberry Cartoon Illustration - Cute Strawberry Cartoon ...">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180329/sgw/kisspng-strawberry-pie-blog-clip-art-strawberry-5abd909825d221.7706821815223727601549.jpg' alt='Strawberry Cartoon Illustration - Cute Strawberry Cartoon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180329/sgw/kisspng-strawberry-pie-blog-clip-art-strawberry-5abd909825d221.7706821815223727601549.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberry PNG Clip Art Image​ | Gallery Yopriceville - High ...">
+                                <img itemprop="contentUrl url" src='https://gallery.yopriceville.com/var/albums/Free-Clipart-Pictures/Fruit-PNG/Strawberry_PNG_Clip_Art_Image.png?m=1629801636' alt='Strawberry PNG Clip Art Image​ | Gallery Yopriceville - High ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3210">
+                                <meta itemprop="height" content="5000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gallery Yopriceville" />
+                                </span>
+                                <a href='https://gallery.yopriceville.com/var/albums/Free-Clipart-Pictures/Fruit-PNG/Strawberry_PNG_Clip_Art_Image.png?m=1629801636' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberry PNG, Strawberry Transparent Background - FreeIconsPNG">
+                                <img itemprop="contentUrl url" src='https://www.freeiconspng.com/thumbs/strawberry-png/strawberry-png-31.png' alt='Strawberry PNG, Strawberry Transparent Background - FreeIconsPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="252">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FreeIconsPNG.com" />
+                                </span>
+                                <a href='https://www.freeiconspng.com/thumbs/strawberry-png/strawberry-png-31.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Strawberry Clipart Transparent Background, Download Free ...">
+                                <img itemprop="contentUrl url" src='https://clipart-library.com/image_gallery/169265.png' alt='Free Strawberry Clipart Transparent Background, Download Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Clipart Library" />
+                                </span>
+                                <a href='https://clipart-library.com/image_gallery/169265.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Strawberry - Fresh Juicy Strawberry Illustration - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20190716/utg/kisspng-clip-art-strawberry-vector-graphics-berries-portab-1713879266565.webp' alt='Strawberry - Fresh Juicy Strawberry Illustration - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20190716/utg/kisspng-clip-art-strawberry-vector-graphics-berries-portab-1713879266565.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

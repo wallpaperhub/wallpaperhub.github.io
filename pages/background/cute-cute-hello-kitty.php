@@ -1,0 +1,129 @@
+<title>Cute Hello Kitty: Adorable Charm & Fun!</title>
+                    <meta name="description" content="Discover the enchanting world of cute Hello Kitty! Explore her delightful products and celebrate her iconic style. Perfect for fans of all ages, dive into the cutest adventures with Hello Kitty's charm shining brightly! Ideal for gifts and collectibles, join the fun today!">
+                    <meta name="keywords" content="cute cute hello kitty">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cute-cute-hello-kitty">
+                            <span itemprop="name">cute cute hello kitty</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cute Hello Kitty: Adorable Charm & Fun!</h1>
+                <p>Cute Hello Kitty brings joy to every fan with her adorable charm! This iconic character, known for her signature bow and sweet personality, delights hearts worldwide. From plush toys to stylish accessories, Hello Kitty embodies cuteness in every aspect. Join the playful adventure and celebrate the magic of Hello Kitty!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Kitty cute fantasy art - YouLoveIt.com">
+                                <img itemprop="contentUrl url" src='https://www.youloveit.com/uploads/posts/2024-01/1704794040_youloveit_com_cute_hello_kitty_art3.jpg' alt='Hello Kitty cute fantasy art - YouLoveIt.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouLoveIt.com" />
+                                </span>
+                                <a href='https://www.youloveit.com/uploads/posts/2024-01/1704794040_youloveit_com_cute_hello_kitty_art3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Birthday, Hello Kitty! Cute Gifts for the Hello Kitty Lover ...">
+                                <img itemprop="contentUrl url" src='https://parade.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTkwNTc4MTE5MDU4NTMxNDUz/hello-kitty-ftr.jpg' alt='Happy Birthday, Hello Kitty! Cute Gifts for the Hello Kitty Lover ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Parade" />
+                                </span>
+                                <a href='https://parade.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTkwNTc4MTE5MDU4NTMxNDUz/hello-kitty-ftr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="hellokitty #sanrio #bow #kitty #heart #kawaii #cute - Cute Kawaii ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e3/7f/2b/e37f2b086e7cf3d9493c7e58c6b56850.jpg' alt='hellokitty #sanrio #bow #kitty #heart #kawaii #cute - Cute Kawaii ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="617">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e3/7f/2b/e37f2b086e7cf3d9493c7e58c6b56850.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Draw Cup Noodles | Hello Kitty">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/x3gv05NWjpg/maxresdefault.jpg' alt='How to Draw Cup Noodles | Hello Kitty'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/x3gv05NWjpg/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Hello Kitty Cat by Botolsaos">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/cute-hello-kitty-cat-botolsaos.jpg' alt='Cute Hello Kitty Cat by Botolsaos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="690">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixels" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/cute-hello-kitty-cat-botolsaos.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Kitty Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/d4/76/4d/d4764dab789a46e778768c34854ee1a1.jpg' alt='Hello Kitty Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/d4/76/4d/d4764dab789a46e778768c34854ee1a1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Kitty Cute by lalocat on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ad8991aa-4309-4c14-9007-1f6794de8c2f/dflr2uu-3d9062c6-5aa7-4822-bab1-f1a96803aed9.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FkODk5MWFhLTQzMDktNGMxNC05MDA3LTFmNjc5NGRlOGMyZlwvZGZscjJ1dS0zZDkwNjJjNi01YWE3LTQ4MjItYmFiMS1mMWE5NjgwM2FlZDkuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wUwX8LAj58S4_IaMCj1TOT791G-FF1iKaueT0iPNigk' alt='Hello Kitty Cute by lalocat on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="384">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ad8991aa-4309-4c14-9007-1f6794de8c2f/dflr2uu-3d9062c6-5aa7-4822-bab1-f1a96803aed9.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FkODk5MWFhLTQzMDktNGMxNC05MDA3LTFmNjc5NGRlOGMyZlwvZGZscjJ1dS0zZDkwNjJjNi01YWE3LTQ4MjItYmFiMS1mMWE5NjgwM2FlZDkuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wUwX8LAj58S4_IaMCj1TOT791G-FF1iKaueT0iPNigk' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Kitty Cute Pfp">
+                                <img itemprop="contentUrl url" src='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/kitty-5_63858270854571.3.jpg' alt='Hello Kitty Cute Pfp'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Hackster" />
+                                </span>
+                                <a href='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/kitty-5_63858270854571.3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lovely Hello Kitty Holding Strawberry Transparent Background | Citypng">
+                                <img itemprop="contentUrl url" src='https://www.citypng.com/public/uploads/preview/lovely-hello-kitty-holding-strawberry-transparent-background-735811696674885x7zkjxfhrd.png' alt='Lovely Hello Kitty Holding Strawberry Transparent Background | Citypng'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CityPNG" />
+                                </span>
+                                <a href='https://www.citypng.com/public/uploads/preview/lovely-hello-kitty-holding-strawberry-transparent-background-735811696674885x7zkjxfhrd.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hello Kitty - Hope you're having a supercute week!... | Facebook">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10155761684798500' alt='Hello Kitty - Hope you're having a supercute week!... | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10155761684798500' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

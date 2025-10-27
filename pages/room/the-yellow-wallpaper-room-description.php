@@ -1,0 +1,129 @@
+<title>Captivating Room Description: The Yellow Wallpaper</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="the yellow wallpaper room description">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room">
+                            <span itemprop="name">Room</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/room/the-yellow-wallpaper-room-description">
+                            <span itemprop="name">the yellow wallpaper room description</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Captivating Room Description: The Yellow Wallpaper</h1>
+                <p>The room in "The Yellow Wallpaper" is a former nursery, adorned with fading yellow wallpaper that has a chaotic, swirling pattern. It's dim and confined, with barred windows and a bed anchored to the floor. The air is thick with a sense of oppression, reflecting the narrator's deteriorating mental state and struggles for freedom.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper,” by Charlotte Perkins Gilman: How an ...">
+                                <img itemprop="contentUrl url" src='https://sbt.blob.core.windows.net/site-images/ela/the-yellow-wallpaper.png' alt='The Yellow Wallpaper,” by Charlotte Perkins Gilman: How an ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="339">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reading Litty" />
+                                </span>
+                                <a href='https://sbt.blob.core.windows.net/site-images/ela/the-yellow-wallpaper.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Through The Lens Of “The Yellow Wallpaper:" A Photographer's ...">
+                                <img itemprop="contentUrl url" src='https://www.sabrinalgreene.com/wp-content/uploads/2023/05/TheYellowWallpaper-SabrinaLGreenePhotography-WebFriendly-11-1024x683.jpg' alt='Through The Lens Of “The Yellow Wallpaper:" A Photographer's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="683">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sabrina Greene Photography" />
+                                </span>
+                                <a href='https://www.sabrinalgreene.com/wp-content/uploads/2023/05/TheYellowWallpaper-SabrinaLGreenePhotography-WebFriendly-11-1024x683.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fiction Responding to Fiction: Charlotte Perkins Gilman and Doris ...">
+                                <img itemprop="contentUrl url" src='https://pshares.org/wp-content/uploads/2017/07/Yellow-Wallpaper-1.jpg' alt='Fiction Responding to Fiction: Charlotte Perkins Gilman and Doris ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ploughshares" />
+                                </span>
+                                <a href='https://pshares.org/wp-content/uploads/2017/07/Yellow-Wallpaper-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Symbolism in The Yellow Wallpaper by Charlotte Perkins Gilman Video">
+                                <img itemprop="contentUrl url" src='https://study.com/cimages/videopreview/videopreview-full/mapx2dfev6.jpg' alt='Symbolism in The Yellow Wallpaper by Charlotte Perkins Gilman Video'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="715">
+                                <meta itemprop="height" content="402">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Study.com" />
+                                </span>
+                                <a href='https://study.com/cimages/videopreview/videopreview-full/mapx2dfev6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="THE YELLOW WALL PAPER, The Classic and Famous Short Story by Charlotte  Perkins Gilman">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/rz3VeiOut9o/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGHIgUSgtMA8=&rs=AOn4CLACihW05e6cLJilUz6sTOaiXoHLew' alt='THE YELLOW WALL PAPER, The Classic and Famous Short Story by Charlotte  Perkins Gilman'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/rz3VeiOut9o/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGHIgUSgtMA8=&rs=AOn4CLACihW05e6cLJilUz6sTOaiXoHLew' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Realism and the Weird in “The Yellow Wallpaper” and “The Story We ...">
+                                <img itemprop="contentUrl url" src='https://pshares.org/wp-content/uploads/2022/07/A-Girl-Reading-in-an-Interior.jpg' alt='Realism and the Weird in “The Yellow Wallpaper” and “The Story We ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="790">
+                                <meta itemprop="height" content="608">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ploughshares" />
+                                </span>
+                                <a href='https://pshares.org/wp-content/uploads/2022/07/A-Girl-Reading-in-an-Interior.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Yellow Wallpaper || Short Film Trailer">
+                                <img itemprop="contentUrl url" src='https://filmshortage.com/wp-content/uploads/2016/10/trailer-the-yellow-wallpaper.jpg' alt='The Yellow Wallpaper || Short Film Trailer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Film Shortage" />
+                                </span>
+                                <a href='https://filmshortage.com/wp-content/uploads/2016/10/trailer-the-yellow-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mental Illness in Literature: Charlotte Perkins Gilman's "The ...">
+                                <img itemprop="contentUrl url" src='https://images.saymedia-content.com/.image/t_share/MTc0NjQ1MzUyNjc3NTgyNjA3/mental-illness-literature-charlotte-perkins-gillmans-the-yellow-wallpaper.jpg' alt='Mental Illness in Literature: Charlotte Perkins Gilman's "The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="776">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Owlcation" />
+                                </span>
+                                <a href='https://images.saymedia-content.com/.image/t_share/MTc0NjQ1MzUyNjc3NTgyNjA3/mental-illness-literature-charlotte-perkins-gillmans-the-yellow-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phyllis Luedke - Yellow Wallpaper Environment: Bedroom">
+                                <img itemprop="contentUrl url" src='https://cdnb.artstation.com/p/assets/images/images/019/808/263/large/phyllis-luedke-luedke-phyllis-002166641-7-interior-02.jpg?1565098709' alt='Phyllis Luedke - Yellow Wallpaper Environment: Bedroom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Phyllis Luedke" />
+                                </span>
+                                <a href='https://cdnb.artstation.com/p/assets/images/images/019/808/263/large/phyllis-luedke-luedke-phyllis-002166641-7-interior-02.jpg?1565098709' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Comparison and Contrast: The Yellow Wallpaper and Story of an Hour ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1260/1*TzKDSVnz4FcgMVli_TU-VQ.jpeg' alt='Comparison and Contrast: The Yellow Wallpaper and Story of an Hour ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Evelyn – Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1260/1*TzKDSVnz4FcgMVli_TU-VQ.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

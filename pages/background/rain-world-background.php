@@ -1,0 +1,129 @@
+<title>Explore the Enigmatic World of Rain: A Deep Dive into Rain World</title>
+                    <meta name="description" content="Discover Rain World, a stunningly vibrant and challenging game where players navigate a perilous ecosystem as a Slugcat. Experience dynamic weather and unique survival gameplay in this beautifully crafted, post-apocalyptic environment. Dive into the adventure today!">
+                    <meta name="keywords" content="rain world background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rain-world-background">
+                            <span itemprop="name">rain world background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Enigmatic World of Rain: A Deep Dive into Rain World</h1>
+                <p>Rain World is set in a beautifully crafted, post-apocalyptic environment where players navigate as a small creature known as a Slugcat. The game features dynamic weather patterns, unique ecosystems, and challenging gameplay as you explore, hunt, and survive against various predators. Its atmospheric art style immerses players in a vibrant, yet perilous world.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Rain World Wallpapers">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/1035212664432783491/DC5861C0A6CCFA9F5454221E36D55290939CF36D/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::Rain World Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1552">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/1035212664432783491/DC5861C0A6CCFA9F5454221E36D55290939CF36D/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Distant Cans wallpaper : r/rainworld">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/9zm46yj6u9c51.png' alt='Distant Cans wallpaper : r/rainworld'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/9zm46yj6u9c51.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Rain World Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/rain-world-omajv5nmuc3t38ci.jpg' alt='100+] Rain World Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/rain-world-omajv5nmuc3t38ci.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here's all the in game backgrounds, for all your background needs ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/heres-all-the-in-game-backgrounds-for-all-your-background-v0-1unsnh4fggea1.png?width=640&crop=smart&auto=webp&s=73ec493e99df9efbc3205060c2a564fc189fc9ae' alt='Here's all the in game backgrounds, for all your background needs ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="359">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/heres-all-the-in-game-backgrounds-for-all-your-background-v0-1unsnh4fggea1.png?width=640&crop=smart&auto=webp&s=73ec493e99df9efbc3205060c2a564fc189fc9ae' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="official vinyl artwork : r/rainworld">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/jcktofjiqq761.png?auto=webp&s=8ddea6b5ffdf48e8392def4bd90f4bf40064f1c8' alt='official vinyl artwork : r/rainworld'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3506">
+                                <meta itemprop="height" content="1724">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/jcktofjiqq761.png?auto=webp&s=8ddea6b5ffdf48e8392def4bd90f4bf40064f1c8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rain World Review: Another Great Switch Port">
+                                <img itemprop="contentUrl url" src='https://static1.srcdn.com/wordpress/wp-content/uploads/2018/12/Rain-World-Review.jpg' alt='Rain World Review: Another Great Switch Port'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Screen Rant" />
+                                </span>
+                                <a href='https://static1.srcdn.com/wordpress/wp-content/uploads/2018/12/Rain-World-Review.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Channeling calm and creating new ways to play in Rain World: Downpour">
+                                <img itemprop="contentUrl url" src='https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blte33b629af4e976a9/650f080ede32010bf048ba56/Rain_World.jpg' alt='Channeling calm and creating new ways to play in Rain World: Downpour'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Game Developer" />
+                                </span>
+                                <a href='https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blte33b629af4e976a9/650f080ede32010bf048ba56/Rain_World.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Here's all the in game backgrounds, for all your background needs ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/heres-all-the-in-game-backgrounds-for-all-your-background-v0-hk9ea14fggea1.png?width=1366&format=png&auto=webp&s=45a2d88627196b5e157c20bc76e6654d7c03319a' alt='Here's all the in game backgrounds, for all your background needs ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/heres-all-the-in-game-backgrounds-for-all-your-background-v0-hk9ea14fggea1.png?width=1366&format=png&auto=webp&s=45a2d88627196b5e157c20bc76e6654d7c03319a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rain World">
+                                <img itemprop="contentUrl url" src='https://rainworldgame.com/images/SCR1.png' alt='Rain World'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="rainworldgame.com" />
+                                </span>
+                                <a href='https://rainworldgame.com/images/SCR1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cheapest Rain World Key - $6.23">
+                                <img itemprop="contentUrl url" src='https://gamegator.net/_next/image?url=https%3A%2F%2Fimages.gamegator.net%2Fco24pm&w=640&q=75' alt='Cheapest Rain World Key - $6.23'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GameGator" />
+                                </span>
+                                <a href='https://gamegator.net/_next/image?url=https%3A%2F%2Fimages.gamegator.net%2Fco24pm&w=640&q=75' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

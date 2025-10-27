@@ -1,0 +1,129 @@
+<title>Explore the Wonders of the Orange Galaxy</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="orange galaxy">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/orange-galaxy">
+                            <span itemprop="name">orange galaxy</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Wonders of the Orange Galaxy</h1>
+                <p>The orange galaxy is a mesmerizing cosmic phenomenon, characterized by its vivid hues of orange and red, giving birth to stars and celestial bodies. This stellar color showcases the energy of star formation and the age of cosmic dust. Exploring the orange galaxy reveals the beauty of the universe and our place within it.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange Galaxy Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/galaxy-wallpaper-warm-colors_23-2151769515.jpg' alt='Orange Galaxy Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/galaxy-wallpaper-warm-colors_23-2151769515.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange Galaxy Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/050/647/750/small_2x/glowing-orange-dots-shimmer-on-a-dark-canvas-mirroring-a-vibrant-galaxy-arranged-into-constellations-they-create-a-mesmerizing-cosmic-display-that-captivates-the-imagination-photo.jpeg' alt='Orange Galaxy Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="714">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/050/647/750/small_2x/glowing-orange-dots-shimmer-on-a-dark-canvas-mirroring-a-vibrant-galaxy-arranged-into-constellations-they-create-a-mesmerizing-cosmic-display-that-captivates-the-imagination-photo.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5,400+ Orange Nebula Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/847375308/photo/yellow-stars.jpg?s=612x612&w=0&k=20&c=qnXr3BDADNMiaiDzNpqyfUwzTz9-X39xLsLJNKBqTr0=' alt='5,400+ Orange Nebula Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="467">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/847375308/photo/yellow-stars.jpg?s=612x612&w=0&k=20&c=qnXr3BDADNMiaiDzNpqyfUwzTz9-X39xLsLJNKBqTr0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange space galaxy Stock Photos, Royalty Free Orange space galaxy ...">
+                                <img itemprop="contentUrl url" src='https://st3.depositphotos.com/14155612/34474/i/450/depositphotos_344748400-stock-photo-awesome-space-background-elements-of.jpg' alt='Orange space galaxy Stock Photos, Royalty Free Orange space galaxy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://st3.depositphotos.com/14155612/34474/i/450/depositphotos_344748400-stock-photo-awesome-space-background-elements-of.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elliptical Galaxy (Orange) - NASA Science">
+                                <img itemprop="contentUrl url" src='https://assets.science.nasa.gov/dynamicimage/assets/science/astro/universe/2023/09/Ellipse-02150x.png' alt='Elliptical Galaxy (Orange) - NASA Science'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1457">
+                                <meta itemprop="height" content="1761">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NASA Science" />
+                                </span>
+                                <a href='https://assets.science.nasa.gov/dynamicimage/assets/science/astro/universe/2023/09/Ellipse-02150x.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange Galaxy Images – Browse 437,578 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/11/42/86/18/360_F_1142861820_zMyy1cStHNSZMhb11JZqqEHy2XisK5dK.jpg' alt='Orange Galaxy Images – Browse 437,578 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/11/42/86/18/360_F_1142861820_zMyy1cStHNSZMhb11JZqqEHy2XisK5dK.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5,400+ Orange Nebula Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1484783911/photo/space-background-with-stardust-and-shining-stars-realistic-cosmos-and-color-nebula-colorful.jpg?s=612x612&w=0&k=20&c=KCbB1rOukprYonoLt5VbPJwEJvES82R_WzOHG2pYyB4=' alt='5,400+ Orange Nebula Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1484783911/photo/space-background-with-stardust-and-shining-stars-realistic-cosmos-and-color-nebula-colorful.jpg?s=612x612&w=0&k=20&c=KCbB1rOukprYonoLt5VbPJwEJvES82R_WzOHG2pYyB4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="17,731 Orange Galaxy Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/ai-generated-background-bright-orange-galaxy-illustration-336702956.jpg' alt='17,731 Orange Galaxy Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/ai-generated-background-bright-orange-galaxy-illustration-336702956.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange Galaxy Images – Browse 437,578 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/09/33/85/78/360_F_933857832_VokAgArNohkij6Fp720jvHxgjzvZVUiR.jpg' alt='Orange Galaxy Images – Browse 437,578 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="643">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/09/33/85/78/360_F_933857832_VokAgArNohkij6Fp720jvHxgjzvZVUiR.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange Galaxy Background Photos, Images & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-illustration/universe-filled-stars-nebula-galaxy-260nw-381844735.jpg' alt='Orange Galaxy Background Photos, Images & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="337">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-illustration/universe-filled-stars-nebula-galaxy-260nw-381844735.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

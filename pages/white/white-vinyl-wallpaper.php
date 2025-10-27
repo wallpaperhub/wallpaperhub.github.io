@@ -1,0 +1,129 @@
+<title>Transform Your Space with White Vinyl Wallpaper</title>
+                    <meta name="description" content="Discover the elegance of white vinyl wallpaper, perfect for any room in your home. Easy to apply and maintain, it offers a clean, stylish backdrop while resisting stains and moisture. Elevate your interior decor with this durable, versatile option today!">
+                    <meta name="keywords" content="white vinyl wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/white-vinyl-wallpaper">
+                            <span itemprop="name">white vinyl wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with White Vinyl Wallpaper</h1>
+                <p>White vinyl wallpaper is a versatile and durable choice for home decor. Its easy application and maintenance make it ideal for any room. With a smooth surface, it resists stains and moisture, ensuring your space stays fresh-looking. Available in various textures, it adds elegance while providing a clean backdrop for your furnishings.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Norwall Textured White Abstract Vinyl Pre-Pasted Paintable Wallpaper Roll  (Covers 56 Sq. Ft.) 48905">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/fe4fca02-eb98-4db4-9f53-e50ca529bf39/svn/norwall-wallpaper-rolls-48905-64_600.jpg' alt='Norwall Textured White Abstract Vinyl Pre-Pasted Paintable Wallpaper Roll  (Covers 56 Sq. Ft.) 48905'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/fe4fca02-eb98-4db4-9f53-e50ca529bf39/svn/norwall-wallpaper-rolls-48905-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FunStick 36" x 200" Large Matte Cream White Wallpaper Peel and Stick White  Contact Paper for Cabinets Self Adhesive Thick White Vinyl Removable Wall  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/710ilopCQhL._AC_UF894,1000_QL80_.jpg' alt='FunStick 36" x 200" Large Matte Cream White Wallpaper Peel and Stick White  Contact Paper for Cabinets Self Adhesive Thick White Vinyl Removable Wall  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/710ilopCQhL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="W2ME19 | Merino Pure White Heavy Textured Basketweave Commercial Vinyl  Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.commercialwalldecor.com/Images/product/merino-pure-white-xxcy-l.jpg' alt='W2ME19 | Merino Pure White Heavy Textured Basketweave Commercial Vinyl  Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Commercial Wall Decor" />
+                                </span>
+                                <a href='https://www.commercialwalldecor.com/Images/product/merino-pure-white-xxcy-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brewster Netson White Plaster Vinyl Pre-Pasted Textured Paintable Wallpaper  4000-32818">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/7fc45c8b-23d9-4241-a474-c42006fab029/svn/brewster-wallpaper-rolls-4000-32818-64_600.jpg' alt='Brewster Netson White Plaster Vinyl Pre-Pasted Textured Paintable Wallpaper  4000-32818'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/7fc45c8b-23d9-4241-a474-c42006fab029/svn/brewster-wallpaper-rolls-4000-32818-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Homease Solid White Wallpaper 24 x 196 inch Thick Matte White  Contact Paper Decorative Peel and Stick Wallpaper for Shelf Liner Cabinet  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71hZyZqFbBL.jpg' alt='Amazon.com: Homease Solid White Wallpaper 24 x 196 inch Thick Matte White  Contact Paper Decorative Peel and Stick Wallpaper for Shelf Liner Cabinet  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71hZyZqFbBL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="allen + roth 56.4-sq ft White Vinyl Paintable Textured Abstract 3D ...">
+                                <img itemprop="contentUrl url" src='https://mobileimages.lowes.com/productimages/d5e9948a-e1be-454a-9f22-49c50c3fa945/44295004.jpg?size=pdhz' alt='allen + roth 56.4-sq ft White Vinyl Paintable Textured Abstract 3D ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lowe's" />
+                                </span>
+                                <a href='https://mobileimages.lowes.com/productimages/d5e9948a-e1be-454a-9f22-49c50c3fa945/44295004.jpg?size=pdhz' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="M23017 White plain faux fabric vinyl textured Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallcoveringsmart.com/cdn/shop/products/M23017-White-plain-faux-fabric-vinyl-textured-Wallpaper-5.jpg?v=1636033970' alt='M23017 White plain faux fabric vinyl textured Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallcoverings mart" />
+                                </span>
+                                <a href='https://wallcoveringsmart.com/cdn/shop/products/M23017-White-plain-faux-fabric-vinyl-textured-Wallpaper-5.jpg?v=1636033970' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abyssaly Grey and White Brick Wallpaper, Waterproof, Peel and ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Abyssaly-17-7-x-393-7-Brick-Wallpaper-Peel-Stick-Grey-White-Removable-Wall-Paper-Shelf-Self-Adhesive-Fireplace-Decoration_d5ff7675-cfca-4b2a-8b05-aae29fcb1f05.9806fadead9fc78f67b21d83d1a48730.jpeg' alt='Abyssaly Grey and White Brick Wallpaper, Waterproof, Peel and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Abyssaly-17-7-x-393-7-Brick-Wallpaper-Peel-Stick-Grey-White-Removable-Wall-Paper-Shelf-Self-Adhesive-Fireplace-Decoration_d5ff7675-cfca-4b2a-8b05-aae29fcb1f05.9806fadead9fc78f67b21d83d1a48730.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Natalie White Vinyl Textured Paintable Striped Wallpaper - 21 inches wide  by 33 feet long">
+                                <img itemprop="contentUrl url" src='https://ak1.ostkcdn.com/images/products/13024704/L19766479.jpg' alt='Natalie White Vinyl Textured Paintable Striped Wallpaper - 21 inches wide  by 33 feet long'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bed Bath & Beyond" />
+                                </span>
+                                <a href='https://ak1.ostkcdn.com/images/products/13024704/L19766479.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3d Vinyl Wallpaper, Volumetric Geometric Wall Art, Abstract Wall ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/23287991/r/il/503641/2646085530/il_fullxfull.2646085530_dmek.jpg' alt='3d Vinyl Wallpaper, Volumetric Geometric Wall Art, Abstract Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/23287991/r/il/503641/2646085530/il_fullxfull.2646085530_dmek.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

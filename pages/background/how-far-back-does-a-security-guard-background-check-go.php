@@ -1,0 +1,129 @@
+<title>How Far Back Do Security Guard Background Checks Go?</title>
+                    <meta name="description" content="Discover how far back security guard background checks typically go. Learn about the factors influencing the duration of checks, including state laws and employer policies, ensuring you're informed for your hiring process.">
+                    <meta name="keywords" content="how far back does a security guard background check go">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/how-far-back-does-a-security-guard-background-check-go">
+                            <span itemprop="name">how far back does a security guard background check go</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>How Far Back Do Security Guard Background Checks Go?</h1>
+                <p>Security guard background checks typically go back seven years, although some states allow up to ten years. Employers may check criminal history, employment records, and credit history. The depth of the check can depend on state laws, the hiring organization's policy, and the specific role. Always verify requirements in your area.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Far Back Does a Security Guard Background Check Go? A ...">
+                                <img itemprop="contentUrl url" src='https://fastguardservice.com/wp-content/uploads/2023/10/How-Far-Back-Do-Security-Clearance-Background-Checks-Go-1024x576.webp' alt='How Far Back Does a Security Guard Background Check Go? A ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fast Guard Service" />
+                                </span>
+                                <a href='https://fastguardservice.com/wp-content/uploads/2023/10/How-Far-Back-Do-Security-Clearance-Background-Checks-Go-1024x576.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Far Back Does A Security Guard Background Check Go? -  SecurityFirstCorp.com">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/JMpXn-jMwFg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBu1yQrhvNP1EmX43uDvP0R8kKUgg' alt='How Far Back Does A Security Guard Background Check Go? -  SecurityFirstCorp.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/JMpXn-jMwFg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBu1yQrhvNP1EmX43uDvP0R8kKUgg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Far Back Does a Security Guard Background Check Go?">
+                                <img itemprop="contentUrl url" src='https://img1.wsimg.com/isteam/ip/2eabcfee-beb7-4162-b647-b365cb6267c2/IMG_1533-min.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280' alt='How Far Back Does a Security Guard Background Check Go?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dahlcore Security Guard Services" />
+                                </span>
+                                <a href='https://img1.wsimg.com/isteam/ip/2eabcfee-beb7-4162-b647-b365cb6267c2/IMG_1533-min.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Far Back Does a Background Check Go? | Checkr">
+                                <img itemprop="contentUrl url" src='https://a-us.storyblok.com/f/1014904/22e49dea81/checkr-web-article-how-far-back-do-bcg-go-1.webp/m/' alt='How Far Back Does a Background Check Go? | Checkr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr" />
+                                </span>
+                                <a href='https://a-us.storyblok.com/f/1014904/22e49dea81/checkr-web-article-how-far-back-do-bcg-go-1.webp/m/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Far Back Does a Security Guard Background Check Go? A ...">
+                                <img itemprop="contentUrl url" src='https://fastguardservice.com/wp-content/uploads/2023/12/thumbnail_Screenshot_20240603_212934_WhatsApp-e1718920168380-675x1024.jpg' alt='How Far Back Does a Security Guard Background Check Go? A ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fast Guard Service" />
+                                </span>
+                                <a href='https://fastguardservice.com/wp-content/uploads/2023/12/thumbnail_Screenshot_20240603_212934_WhatsApp-e1718920168380-675x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Far Back Does a Security Guard Background Check Go?">
+                                <img itemprop="contentUrl url" src='https://img1.wsimg.com/isteam/ip/2eabcfee-beb7-4162-b647-b365cb6267c2/LOSS%20PREVENTION.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280' alt='How Far Back Does a Security Guard Background Check Go?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dahlcore Security Guard Services" />
+                                </span>
+                                <a href='https://img1.wsimg.com/isteam/ip/2eabcfee-beb7-4162-b647-b365cb6267c2/LOSS%20PREVENTION.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Far Back Does a Background Check Go? [A 2-Minute Guide]">
+                                <img itemprop="contentUrl url" src='https://trinity-core.s3.us-west-1.amazonaws.com/techjury/assets/6513eeb040f53.png' alt='How Far Back Does a Background Check Go? [A 2-Minute Guide]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TechJury" />
+                                </span>
+                                <a href='https://trinity-core.s3.us-west-1.amazonaws.com/techjury/assets/6513eeb040f53.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Far Back Does a Security Guard Background Check Go?">
+                                <img itemprop="contentUrl url" src='https://img1.wsimg.com/isteam/ip/2eabcfee-beb7-4162-b647-b365cb6267c2/IMG_6995.JPG/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280' alt='How Far Back Does a Security Guard Background Check Go?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dahlcore Security Guard Services" />
+                                </span>
+                                <a href='https://img1.wsimg.com/isteam/ip/2eabcfee-beb7-4162-b647-b365cb6267c2/IMG_6995.JPG/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Far Back Does a Security Guard Background Check Go? A ...">
+                                <img itemprop="contentUrl url" src='https://fastguardservice.com/wp-content/uploads/2024/10/how-do-i-check-to-see-if-someone-is-using-my-social-security-number.png' alt='How Far Back Does a Security Guard Background Check Go? A ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fast Guard Service" />
+                                </span>
+                                <a href='https://fastguardservice.com/wp-content/uploads/2024/10/how-do-i-check-to-see-if-someone-is-using-my-social-security-number.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Far Back Do Background Checks Go? | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/22a2a3d2e867f51a384eddcc6b74e6cb/How-Far-Back-Checks-Go.png' alt='How Far Back Do Background Checks Go? | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/22a2a3d2e867f51a384eddcc6b74e6cb/How-Far-Back-Checks-Go.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

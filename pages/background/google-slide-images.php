@@ -1,0 +1,129 @@
+<title>Enhance Your Google Slides with Stunning Images</title>
+                    <meta name="description" content="Learn how to effectively use images in Google Slides to elevate your presentations. Discover tips for sourcing, inserting, and formatting images, ensuring your slides are both engaging and accessible. Perfect for creating impressive visuals that captivate your audience!">
+                    <meta name="keywords" content="google slide images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/google-slide-images">
+                            <span itemprop="name">google slide images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enhance Your Google Slides with Stunning Images</h1>
+                <p>Google Slides allows you to enhance your presentations with captivating images. You can easily insert, resize, and format images to make your slides visually appealing. Additionally, explore options to add alt text for accessibility. Discover tips on sourcing high-quality images from the web or your own collections for impactful storytelling.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Google Slides? | A Comprehensive Guide to Practical Usage">
+                                <img itemprop="contentUrl url" src='https://images.wondershare.com/presentory/article/presentation-tips/how-to-use-google-slide-1.jpg' alt='What is Google Slides? | A Comprehensive Guide to Practical Usage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1207">
+                                <meta itemprop="height" content="606">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wondershare Presentory" />
+                                </span>
+                                <a href='https://images.wondershare.com/presentory/article/presentation-tips/how-to-use-google-slide-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Google Slides Review | PCMag">
+                                <img itemprop="contentUrl url" src='https://i.pcmag.com/imagery/reviews/05ii7dvO0B0NNBe1UR1UPTh-5.fit_scale.size_760x427.v1569481503.jpg' alt='Google Slides Review | PCMag'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="758">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PCMag" />
+                                </span>
+                                <a href='https://i.pcmag.com/imagery/reviews/05ii7dvO0B0NNBe1UR1UPTh-5.fit_scale.size_760x427.v1569481503.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Using your Google Slides Presentation with AhaSlides | AhaSlides Help">
+                                <img itemprop="contentUrl url" src='https://help.ahaslides.com/galleryDocuments/edbsn25c0aaea9f76e092e23728e93cc50ac145f6b2d3989ffd081d537d9dd66c0690c722d89eeb3f81a6b389e9f7117ea85b?inline=true' alt='Using your Google Slides Presentation with AhaSlides | AhaSlides Help'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AhaSlides Help Centre" />
+                                </span>
+                                <a href='https://help.ahaslides.com/galleryDocuments/edbsn25c0aaea9f76e092e23728e93cc50ac145f6b2d3989ffd081d537d9dd66c0690c722d89eeb3f81a6b389e9f7117ea85b?inline=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Download Google Slides for PC Win10 & Win11 | WPS Office ...">
+                                <img itemprop="contentUrl url" src='https://res-academy.cache.wpscdn.com/images/seo_posts/20230913/c4edf70556f6c74ea3ae4d330d95f2b3.png' alt='How to Download Google Slides for PC Win10 & Win11 | WPS Office ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1014">
+                                <meta itemprop="height" content="976">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WPS Office" />
+                                </span>
+                                <a href='https://res-academy.cache.wpscdn.com/images/seo_posts/20230913/c4edf70556f6c74ea3ae4d330d95f2b3.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Google Slides - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/DG-zbXPr8LItYD8F2nD4aR_SK_jpkipLBK77YWY-F0cdJt67VFgCHZtRtjsakzTw3EM=w240-h480-rw' alt='Google Slides - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="240">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/DG-zbXPr8LItYD8F2nD4aR_SK_jpkipLBK77YWY-F0cdJt67VFgCHZtRtjsakzTw3EM=w240-h480-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Benefits of Using Google Slides">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/D5612AQFmBWznFTZDWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1693066652158?e=2147483647&v=beta&t=IuQFv6zkonWPLvKNHibDSeqsTYbhVVP5uQFmBie81dA' alt='The Benefits of Using Google Slides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/D5612AQFmBWznFTZDWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1693066652158?e=2147483647&v=beta&t=IuQFv6zkonWPLvKNHibDSeqsTYbhVVP5uQFmBie81dA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Google Slides logo (2014-2020).svg - Wikimedia Commons">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Google_Slides_logo_%282014-2020%29.svg/1489px-Google_Slides_logo_%282014-2020%29.svg.png' alt='File:Google Slides logo (2014-2020).svg - Wikimedia Commons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1489">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikimedia Commons" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Google_Slides_logo_%282014-2020%29.svg/1489px-Google_Slides_logo_%282014-2020%29.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Google Slides: Getting Started with Your Presentation">
+                                <img itemprop="contentUrl url" src='https://media.gcflearnfree.org/content/570ba85cd6a91209980dd7a8_04_11_2016/getting_started_slides_interactive.jpg' alt='Google Slides: Getting Started with Your Presentation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1454">
+                                <meta itemprop="height" content="870">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GCFGlobal" />
+                                </span>
+                                <a href='https://media.gcflearnfree.org/content/570ba85cd6a91209980dd7a8_04_11_2016/getting_started_slides_interactive.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to use Presenter view in Google Slides | BrightCarbon">
+                                <img itemprop="contentUrl url" src='https://www.brightcarbon.com/wp/wp-content/uploads/2021/08/Google-Slides-Design-516x300-c-default.png' alt='How to use Presenter view in Google Slides | BrightCarbon'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="516">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BrightCarbon" />
+                                </span>
+                                <a href='https://www.brightcarbon.com/wp/wp-content/uploads/2021/08/Google-Slides-Design-516x300-c-default.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Google Slides rolls out 'Follow' feature, allows collaborating ...">
+                                <img itemprop="contentUrl url" src='https://bsmedia.business-standard.com/_media/bs/img/article/2022-12/10/full/1670655979-8697.jpg?im=FeatureCrop,size=(826,465)' alt='Google Slides rolls out 'Follow' feature, allows collaborating ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="826">
+                                <meta itemprop="height" content="465">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Business Standard" />
+                                </span>
+                                <a href='https://bsmedia.business-standard.com/_media/bs/img/article/2022-12/10/full/1670655979-8697.jpg?im=FeatureCrop,size=(826,465)' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

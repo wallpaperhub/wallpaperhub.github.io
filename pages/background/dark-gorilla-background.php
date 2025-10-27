@@ -1,0 +1,129 @@
+<title>Dark Gorilla Backgrounds: Power & Mystery</title>
+                    <meta name="description" content="Explore captivating dark gorilla backgrounds that combine beauty and strength. Ideal for artists and designers, these stunning visuals emphasize the power and majesty of gorillas against a shadowy backdrop, perfect for enhancing your creative projects.">
+                    <meta name="keywords" content="dark gorilla background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dark-gorilla-background">
+                            <span itemprop="name">dark gorilla background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dark Gorilla Backgrounds: Power & Mystery</h1>
+                <p>Dark gorilla backgrounds are striking visuals that evoke a sense of mystery and power. Perfect for artwork, photography, and digital design, these backgrounds highlight the majestic presence of gorillas. The interplay of shadows and light emphasizes their muscular build and emotional depth, creating an immersive scene that captures attention.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Portrait of a Gorilla. gorilla on black background, severe silve ...">
+                                <img itemprop="contentUrl url" src='https://scopeblog.stanford.edu/wp-content/uploads/2022/07/AdobeStock_210716579.jpeg' alt='Portrait of a Gorilla. gorilla on black background, severe silve ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2557">
+                                <meta itemprop="height" content="1705">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stanford' SCOPE - Stanford University" />
+                                </span>
+                                <a href='https://scopeblog.stanford.edu/wp-content/uploads/2022/07/AdobeStock_210716579.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gorilla Dark Background Stock Photos and Pictures - 1,268 Images ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/gorilla-face-mammal-animal-eyes-260nw-2091699493.jpg' alt='Gorilla Dark Background Stock Photos and Pictures - 1,268 Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/gorilla-face-mammal-animal-eyes-260nw-2091699493.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper look, monkey, gorilla, black background, the dark ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/original/1920x1280/8/e3/obezyana-gorilla-vzglyad.jpg' alt='Wallpaper look, monkey, gorilla, black background, the dark ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/original/1920x1280/8/e3/obezyana-gorilla-vzglyad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gorilla Black Background Stock Photos and Pictures - 17,523 Images ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/portrait-powerful-dominant-male-gorilla-260nw-1560681281.jpg' alt='Gorilla Black Background Stock Photos and Pictures - 17,523 Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="173">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/portrait-powerful-dominant-male-gorilla-260nw-1560681281.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Gorilla Royalty-Free Images, Stock Photos & Pictures ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/piercing-eyes-mountain-gorilla-emerge-600nw-2419306635.jpg' alt='Dark Gorilla Royalty-Free Images, Stock Photos & Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/piercing-eyes-mountain-gorilla-emerge-600nw-2419306635.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gorilla mammal animal , black white wildlife Stock Photo - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/zooms/9/c77f37001bce48bc9feb3f38ef3981ed/2gjr6wh.jpg' alt='Gorilla mammal animal , black white wildlife Stock Photo - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="347">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/zooms/9/c77f37001bce48bc9feb3f38ef3981ed/2gjr6wh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="face in the dark. Portrait of a powerful dominant male gorilla ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/03/06/17/17/1000_F_306171740_vJj4h9vtfBwgeu1p7uCVHQIHcPQRY10J.jpg' alt='face in the dark. Portrait of a powerful dominant male gorilla ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/03/06/17/17/1000_F_306171740_vJj4h9vtfBwgeu1p7uCVHQIHcPQRY10J.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Majestic Gorilla Gaze Image | Download at StockCake">
+                                <img itemprop="contentUrl url" src='https://images.stockcake.com/public/a/4/c/a4c0df72-d15b-46c0-888f-6b75619516d4_large/majestic-gorilla-gaze-stockcake.jpg' alt='Free Majestic Gorilla Gaze Image | Download at StockCake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockCake" />
+                                </span>
+                                <a href='https://images.stockcake.com/public/a/4/c/a4c0df72-d15b-46c0-888f-6b75619516d4_large/majestic-gorilla-gaze-stockcake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="620+ Silver Black Gorilla Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1172003633/photo/leader-gorilla-thinking-black-background.jpg?s=612x612&w=0&k=20&c=vEmu6FZ9U0dOj6zYtpXbRq0qBqMSoc0tVFuKA4ntsLI=' alt='620+ Silver Black Gorilla Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="493">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1172003633/photo/leader-gorilla-thinking-black-background.jpg?s=612x612&w=0&k=20&c=vEmu6FZ9U0dOj6zYtpXbRq0qBqMSoc0tVFuKA4ntsLI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gorilla dark-wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/51/05/68/510568fc99b53e65493a0141d0926274.jpg' alt='Gorilla dark-wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/51/05/68/510568fc99b53e65493a0141d0926274.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

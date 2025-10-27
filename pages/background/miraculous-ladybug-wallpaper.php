@@ -1,0 +1,129 @@
+<title>Stunning Miraculous Ladybug Wallpapers for Every Fan</title>
+                    <meta name="description" content="Discover captivating Miraculous Ladybug wallpapers that brighten up any device! Perfect for fans, our collection features Ladybug, Cat Noir, and more colorful designs. Download now to transform your screen and celebrate the magic of this beloved animated series!">
+                    <meta name="keywords" content="miraculous ladybug wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/miraculous-ladybug-wallpaper">
+                            <span itemprop="name">miraculous ladybug wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Miraculous Ladybug Wallpapers for Every Fan</h1>
+                <p>Explore the vibrant world of Miraculous Ladybug with stunning wallpapers that bring your favorite characters to life! From dynamic action scenes to heartwarming moments, these wallpapers are perfect for fans. Customize your devices with eye-catching art featuring Ladybug and Cat Noir, showcasing their heroic adventures!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ladybug and Cat Noir Wallpapers (56 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/6/e/1/891136-2160x3840-phone-4k-ladybug-and-cat-noir-wallpaper.jpg' alt='Ladybug and Cat Noir Wallpapers (56 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/6/e/1/891136-2160x3840-phone-4k-ladybug-and-cat-noir-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cat Noir Miraculous Ladybug Themed Phone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/miraculous-ladybug-collage-phone-ecw9fw7ecr8rj2pe.webp' alt='Cat Noir Miraculous Ladybug Themed Phone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/miraculous-ladybug-collage-phone-ecw9fw7ecr8rj2pe.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Miraculous photo wallpaper 312x219cm kids feature wall mural ...">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/VM0AAOSwCvxfFgVk/s-l1200.jpg' alt='Miraculous photo wallpaper 312x219cm kids feature wall mural ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="949">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/VM0AAOSwCvxfFgVk/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ladybug Wallpaper by mltrashdump on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/698040c6-2fc8-44b7-8fdf-3a30c4aa16ed/dare1wl-a60649b4-2d83-45d5-9d9b-17928ed88205.jpg/v1/fill/w_1192,h_670,q_70,strp/ladybug_wallpaper_by_mltrashdump_dare1wl-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTAwIiwicGF0aCI6IlwvZlwvNjk4MDQwYzYtMmZjOC00NGI3LThmZGYtM2EzMGM0YWExNmVkXC9kYXJlMXdsLWE2MDY0OWI0LTJkODMtNDVkNS05ZDliLTE3OTI4ZWQ4ODIwNS5qcGciLCJ3aWR0aCI6Ijw9MTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Ri_AAAdDONDgTLtBZrMFui5QR1comSabOUsReOyCTH4' alt='Ladybug Wallpaper by mltrashdump on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1192">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/698040c6-2fc8-44b7-8fdf-3a30c4aa16ed/dare1wl-a60649b4-2d83-45d5-9d9b-17928ed88205.jpg/v1/fill/w_1192,h_670,q_70,strp/ladybug_wallpaper_by_mltrashdump_dare1wl-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTAwIiwicGF0aCI6IlwvZlwvNjk4MDQwYzYtMmZjOC00NGI3LThmZGYtM2EzMGM0YWExNmVkXC9kYXJlMXdsLWE2MDY0OWI0LTJkODMtNDVkNS05ZDliLTE3OTI4ZWQ4ODIwNS5qcGciLCJ3aWR0aCI6Ijw9MTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Ri_AAAdDONDgTLtBZrMFui5QR1comSabOUsReOyCTH4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pinterest has amazing wallpapers for you miraculous ladybug fans ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/qab1wa4l1ug31.jpg' alt='Pinterest has amazing wallpapers for you miraculous ladybug fans ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="692">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/qab1wa4l1ug31.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Miraculous Ladybug HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/792/thumb-1920-792667.jpg' alt='Miraculous Ladybug HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/792/thumb-1920-792667.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Miraculous Ladybug Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/miraculous-ladybug-9oyedwhxgwuvhew6.jpg' alt='100+] Miraculous Ladybug Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1070">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/miraculous-ladybug-9oyedwhxgwuvhew6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Miraculous Photo wallpaper 312x219cm wall mural children bedroom ...">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/8qcAAOSwvZ1jBk85/s-l1200.jpg' alt='Miraculous Photo wallpaper 312x219cm wall mural children bedroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="836">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/8qcAAOSwvZ1jBk85/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Miraculous Wallpaper by myssrtkn - 3e - Free on ZEDGE ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c2/5a/9d/c25a9dcecfd9df8174c7026f6a61184f.jpg' alt='Download Miraculous Wallpaper by myssrtkn - 3e - Free on ZEDGE ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="718">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c2/5a/9d/c25a9dcecfd9df8174c7026f6a61184f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="a 4K wallpaper for miraculous    : r/miraculousladybug">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/dz8wjg72vqg51.jpg?width=1080&crop=smart&auto=webp&s=db1e24c4e6c8ce941609c5ba0fd4d7db608ef458' alt='a 4K wallpaper for miraculous    : r/miraculousladybug'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/dz8wjg72vqg51.jpg?width=1080&crop=smart&auto=webp&s=db1e24c4e6c8ce941609c5ba0fd4d7db608ef458' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

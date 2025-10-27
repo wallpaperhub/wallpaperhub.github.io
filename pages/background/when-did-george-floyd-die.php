@@ -1,0 +1,129 @@
+<title>When Did George Floyd Die? Key Details Explained</title>
+                    <meta name="description" content="Explore the details surrounding the death of George Floyd on May 25, 2020. Discover the impact of this tragic event on social movements and discussions about justice and equality. Stay informed about the ongoing significance of his legacy in the fight against racial injustice.">
+                    <meta name="keywords" content="when did george floyd die">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/when-did-george-floyd-die">
+                            <span itemprop="name">when did george floyd die</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>When Did George Floyd Die? Key Details Explained</h1>
+                <p>George Floyd died on May 25, 2020, in Minneapolis, Minnesota. His death occurred during an encounter with police officers who used excessive force, leading to widespread protests and global conversations about racial injustice, police brutality, and the Black Lives Matter movement.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How George Floyd Was Killed in Police Custody">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2021/05/10/autossell/flyod-site-1-white-box/flyod-site-1-white-box-superJumbo.jpg' alt='How George Floyd Was Killed in Police Custody'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2021/05/10/autossell/flyod-site-1-white-box/flyod-site-1-white-box-superJumbo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Private Autopsy Shows George Floyd Asphyxiated: Lawyer">
+                                <img itemprop="contentUrl url" src='https://c.ndtvimg.com/2020-05/n4jh6a2g_george-floyd_625x300_27_May_20.jpg' alt='Private Autopsy Shows George Floyd Asphyxiated: Lawyer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NDTV" />
+                                </span>
+                                <a href='https://c.ndtvimg.com/2020-05/n4jh6a2g_george-floyd_625x300_27_May_20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Timeline of events since George Floyd's arrest and murder | AP News">
+                                <img itemprop="contentUrl url" src='https://dims.apnews.com/dims4/default/dee9910/2147483647/strip/false/crop/2276x1276+0+0/resize/1486x833!/quality/90/?url=https%3A%2F%2Fstorage.googleapis.com%2Fafs-prod%2Fmedia%2F24d33484b90c42cdaff6726c00f10172%2F2276.jpeg' alt='Timeline of events since George Floyd's arrest and murder | AP News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1486">
+                                <meta itemprop="height" content="833">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AP News" />
+                                </span>
+                                <a href='https://dims.apnews.com/dims4/default/dee9910/2147483647/strip/false/crop/2276x1276+0+0/resize/1486x833!/quality/90/?url=https%3A%2F%2Fstorage.googleapis.com%2Fafs-prod%2Fmedia%2F24d33484b90c42cdaff6726c00f10172%2F2276.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="George Floyd: State, private autopsies agree death a homicide ...">
+                                <img itemprop="contentUrl url" src='https://www.aljazeera.com/wp-content/uploads/2020/05/187d4fb6a7c6459e8256afd01df59e68_18.jpeg?resize=770%2C513&quality=80' alt='George Floyd: State, private autopsies agree death a homicide ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="513">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Al Jazeera" />
+                                </span>
+                                <a href='https://www.aljazeera.com/wp-content/uploads/2020/05/187d4fb6a7c6459e8256afd01df59e68_18.jpeg?resize=770%2C513&quality=80' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="State, private autopsies differ on how George Floyd died">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/3bqKgwanA80/mqdefault.jpg' alt='State, private autopsies differ on how George Floyd died'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/3bqKgwanA80/mqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Police officer filmed kneeling on George Floyd's neck charged with ...">
+                                <img itemprop="contentUrl url" src='https://i.guim.co.uk/img/media/badb14df67f7397eab48afe392c740d22e427724/201_94_3008_1804/master/3008.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=6e583953c2e54ce7ba38b7bc686fc359' alt='Police officer filmed kneeling on George Floyd's neck charged with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Guardian" />
+                                </span>
+                                <a href='https://i.guim.co.uk/img/media/badb14df67f7397eab48afe392c740d22e427724/201_94_3008_1804/master/3008.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=6e583953c2e54ce7ba38b7bc686fc359' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minnesota officials decry death of George Floyd in Minneapolis ...">
+                                <img itemprop="contentUrl url" src='https://minnesotareformer.com/wp-content/uploads/2020/05/Screen-Shot-2020-05-26-at-11.38.49-AM-1536x960.png' alt='Minnesota officials decry death of George Floyd in Minneapolis ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Minnesota Reformer" />
+                                </span>
+                                <a href='https://minnesotareformer.com/wp-content/uploads/2020/05/Screen-Shot-2020-05-26-at-11.38.49-AM-1536x960.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why some police officers stood with protesters outraged over ...">
+                                <img itemprop="contentUrl url" src='https://s.abcnews.com/images/US/officers-kneel-floyd-protest-01-ap-jef-200531_hpMain_16x9_992.jpg' alt='Why some police officers stood with protesters outraged over ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="992">
+                                <meta itemprop="height" content="558">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ABC News - The Walt Disney Company" />
+                                </span>
+                                <a href='https://s.abcnews.com/images/US/officers-kneel-floyd-protest-01-ap-jef-200531_hpMain_16x9_992.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="George Floyd autopsy: Floyd died from asphyxiation from pressure">
+                                <img itemprop="contentUrl url" src='https://www.usatoday.com/gcdn/presto/2020/05/28/USAT/52d95d1f-31e5-4d4e-8d3d-2f7c98461721-Floyd3.JPG' alt='George Floyd autopsy: Floyd died from asphyxiation from pressure'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="784">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="USA Today" />
+                                </span>
+                                <a href='https://www.usatoday.com/gcdn/presto/2020/05/28/USAT/52d95d1f-31e5-4d4e-8d3d-2f7c98461721-Floyd3.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The place where George Floyd died is a now sacred space and a ...">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/210313175901-gfs-mural-memorial.jpg?q=w_4032,h_3024,x_0,y_0,c_fill' alt='The place where George Floyd died is a now sacred space and a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4032">
+                                <meta itemprop="height" content="3024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/210313175901-gfs-mural-memorial.jpg?q=w_4032,h_3024,x_0,y_0,c_fill' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

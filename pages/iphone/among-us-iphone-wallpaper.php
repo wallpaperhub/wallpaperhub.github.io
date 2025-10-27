@@ -1,0 +1,129 @@
+<title>Cool Among Us iPhone Wallpapers for Gamers</title>
+                    <meta name="description" content="Discover a collection of awesome Among Us iPhone wallpapers! Customize your device with eye-catching designs, showcasing your favorite crewmates and thrilling game moments. Perfect for fans looking to bring their love for the game to their screens. Download now for a fresh look!">
+                    <meta name="keywords" content="among us iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/among-us-iphone-wallpaper">
+                            <span itemprop="name">among us iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cool Among Us iPhone Wallpapers for Gamers</h1>
+                <p>Transform your iPhone with unique Among Us wallpapers! Featuring colorful crewmates and intense impostor scenes, these wallpapers add fun to your home screen. Show off your gaming passion while exploring different styles, from minimalist designs to vibrant illustrations. Perfect for every Among Us fan!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Among Us Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/among-us-iphone-eu9eszwinyyx1re7.jpg' alt='200+] Among Us Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/among-us-iphone-eu9eszwinyyx1re7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Aesthetic Among Us Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/blue-owner-among-us-iphone-3irev74idr4uxj54.webp' alt='Purple Aesthetic Among Us Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/blue-owner-among-us-iphone-3irev74idr4uxj54.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300 Among Us ideas | wallpaper iphone cute, cute wallpapers, funny ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/7c/e9/1a/7ce91a8e1740f39183b1920b1b0f6553.jpg' alt='300 Among Us ideas | wallpaper iphone cute, cute wallpapers, funny ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/7c/e9/1a/7ce91a8e1740f39183b1920b1b0f6553.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="among us iphone wallpaper, comment a photo of your among us ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/x8wkstoeglm51.jpg' alt='among us iphone wallpaper, comment a photo of your among us ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="828">
+                                <meta itemprop="height" content="1266">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/x8wkstoeglm51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Friends-Themed Among Us iPhone Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/friends-themed-among-us-iphone-kcko7itvgz69sq6h.jpg' alt='Download Friends-Themed Among Us iPhone Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="856">
+                                <meta itemprop="height" content="1805">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/friends-themed-among-us-iphone-kcko7itvgz69sq6h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Among Us Wallpaper - Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f6/13/ba/f613ba1abd73c2cbbfd7f2b0deaeca9d.jpg' alt='Among Us Wallpaper - Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f6/13/ba/f613ba1abd73c2cbbfd7f2b0deaeca9d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Among Us! Exclusive iPhone Wallpaper from the Videogame, in 4K">
+                                <img itemprop="contentUrl url" src='https://wallpapers.ispazio.net/wp-content/uploads/2020/10/iSpazio-145.jpg' alt='Among Us! Exclusive iPhone Wallpaper from the Videogame, in 4K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1420">
+                                <meta itemprop="height" content="3073">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Central - iSpazio" />
+                                </span>
+                                <a href='https://wallpapers.ispazio.net/wp-content/uploads/2020/10/iSpazio-145.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Among Us Wallpapers (63 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/4/0/d/94412-1242x2688-mobile-hd-among-us-background-image.jpg' alt='Among Us Wallpapers (63 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/4/0/d/94412-1242x2688-mobile-hd-among-us-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Neon Among Us Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/crewmates-with-laptops-among-us-iphone-1saq53u9v63gjprq.webp' alt='Rainbow Neon Among Us Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/crewmates-with-laptops-among-us-iphone-1saq53u9v63gjprq.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Among us red sus, among us, galaxy, late, night, stars, suspect ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/29/870/HD-wallpaper-among-us-red-sus-amongus-galaxy-late-night-stars-suspect.jpg' alt='Among us red sus, among us, galaxy, late, night, stars, suspect ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1467">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/29/870/HD-wallpaper-among-us-red-sus-amongus-galaxy-late-night-stars-suspect.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

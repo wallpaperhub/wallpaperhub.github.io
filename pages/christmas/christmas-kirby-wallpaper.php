@@ -1,0 +1,129 @@
+<title>Festive Christmas Kirby Wallpaper for Your Devices</title>
+                    <meta name="description" content="Discover delightful Christmas Kirby wallpaper to brighten up your screens this holiday season! Enhance your devices with this charming design featuring Kirby, perfect for fans of all ages. Celebrate in style with this festive touch, bringing joy and cheer to your everyday tech!">
+                    <meta name="keywords" content="christmas kirby wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/christmas-kirby-wallpaper">
+                            <span itemprop="name">christmas kirby wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Festive Christmas Kirby Wallpaper for Your Devices</h1>
+                <p>Transform your device for the holidays with enchanting Christmas Kirby wallpaper! Featuring Kirby surrounded by snowflakes, festive trees, and holiday cheer, this wallpaper brings joy to your screen. Perfect for fans of the beloved video game character, it captures the essence of Christmas while showcasing Kirby's playful spirit. Embrace the season!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Eve: Official art from the Kirby Twitter : r/Kirby">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/v5agiuglvk641.jpg?auto=webp&s=6c2c788165c07374361de61e57f29dce03ab5c0e' alt='Christmas Eve: Official art from the Kirby Twitter : r/Kirby'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1020">
+                                <meta itemprop="height" content="689">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/v5agiuglvk641.jpg?auto=webp&s=6c2c788165c07374361de61e57f29dce03ab5c0e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kirby-Winter-Phone-Wallpaper hosted at ImgBB">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/63/61/53/63615376d077338c6476be9c31f41104.jpg' alt='Kirby-Winter-Phone-Wallpaper hosted at ImgBB'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/63/61/53/63615376d077338c6476be9c31f41104.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Party      | Kirby">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ea/d4/db/ead4db2b0e9fae60aefcd12c74da9a4b.jpg' alt='Christmas Party      | Kirby'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ea/d4/db/ead4db2b0e9fae60aefcd12c74da9a4b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kirby Holiday! | Kirby">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/99/97/0f/99970fef61704d08b194d2ea15fa6b75.jpg' alt='Kirby Holiday! | Kirby'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/99/97/0f/99970fef61704d08b194d2ea15fa6b75.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Xmas Kirby Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp13233773.png' alt='Xmas Kirby Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1306">
+                                <meta itemprop="height" content="1310">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp13233773.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Official Kirby Twitter Christmas art compilation (It is Christmas ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/x4f643ps6i781.jpg' alt='Official Kirby Twitter Christmas art compilation (It is Christmas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1020">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/x4f643ps6i781.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas is next folks!!    ⭐️ . #digitalart #kirby #nintendo ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3492308442111442920' alt='Christmas is next folks!!    ⭐️ . #digitalart #kirby #nintendo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1290">
+                                <meta itemprop="height" content="860">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3492308442111442920' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kirby - Christmas 2018 by EeveeFromKalos123 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/68c20377-c282-405f-aadf-5caebba22c96/dcv8g26-19810098-c27f-4bf0-b2ca-b91c0bfaf2ea.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY4YzIwMzc3LWMyODItNDA1Zi1hYWRmLTVjYWViYmEyMmM5NlwvZGN2OGcyNi0xOTgxMDA5OC1jMjdmLTRiZjAtYjJjYS1iOTFjMGJmYWYyZWEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.fMxGrvUMacRxIpVOsutQFctUelGTTXaLacXZOhA3JmE' alt='Kirby - Christmas 2018 by EeveeFromKalos123 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/68c20377-c282-405f-aadf-5caebba22c96/dcv8g26-19810098-c27f-4bf0-b2ca-b91c0bfaf2ea.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY4YzIwMzc3LWMyODItNDA1Zi1hYWRmLTVjYWViYmEyMmM5NlwvZGN2OGcyNi0xOTgxMDA5OC1jMjdmLTRiZjAtYjJjYS1iOTFjMGJmYWYyZWEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.fMxGrvUMacRxIpVOsutQFctUelGTTXaLacXZOhA3JmE' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kirby Christmas wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ce/b8/99/ceb8993ac590d7ab69b3fb165259fb33.jpg' alt='Kirby Christmas wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ce/b8/99/ceb8993ac590d7ab69b3fb165259fb33.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kirby ~ Winter Music Mix 2 ~">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/TjymuVKw70U/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBSKBJMwpCZ78uswjFNb0ODPzDdlw' alt='Kirby ~ Winter Music Mix 2 ~'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/TjymuVKw70U/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBSKBJMwpCZ78uswjFNb0ODPzDdlw' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

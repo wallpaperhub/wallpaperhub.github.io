@@ -1,0 +1,129 @@
+<title>Understanding Bear Habitat and Behavior</title>
+                    <meta name="description" content="Discover the fascinating world of bears, their diverse habitats, and unique behaviors. Learn about their diet, adaptations, and conservation status while exploring these majestic creatures that symbolize nature's wonder. Perfect for wildlife enthusiasts and students alike!">
+                    <meta name="keywords" content="bear background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bear-background">
+                            <span itemprop="name">bear background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Bear Habitat and Behavior</h1>
+                <p>Bears are powerful and adaptable mammals found in diverse habitats across North America, Europe, and Asia. With eight species like the grizzly, black, and polar bear, they display a range of behaviors and diets, from omnivorous feeding to hibernation. Distinct for their size and strength, bears symbolize wilderness and conservation efforts.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bear Background" Images – Browse 460 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/11/56/96/73/360_F_1156967319_5aQsSpw91PmXaqNJcI1k1NtR3HHtcbnF.jpg' alt='Bear Background" Images – Browse 460 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/11/56/96/73/360_F_1156967319_5aQsSpw91PmXaqNJcI1k1NtR3HHtcbnF.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable bear wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFURxVaIII/1/0/900w/canva-brown-illustration-cute-bear-pattern-phone-wallpaper--mxJJ4n-19o.jpg' alt='Free and customizable bear wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFURxVaIII/1/0/900w/canva-brown-illustration-cute-bear-pattern-phone-wallpaper--mxJJ4n-19o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Bear Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/cute-teddy-bear-choco-seamless-pattern-kawaii-wallpaper_513640-1961.jpg?semt=ais_hybrid' alt='Cute Bear Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="625">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/cute-teddy-bear-choco-seamless-pattern-kawaii-wallpaper_513640-1961.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Teddy Bear Background" Images – Browse 705 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/11/50/36/75/360_F_1150367514_OaLiTmtHNvtfy0WruckFYzfY4bWAZiAl.jpg' alt='Teddy Bear Background" Images – Browse 705 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/11/50/36/75/360_F_1150367514_OaLiTmtHNvtfy0WruckFYzfY4bWAZiAl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Brown Teddy Bear Wallpaper Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA1L3Jhd3BpeGVsX29mZmljZV8yOV93YWxscGFwZXJfcGF0dGVybl9vZl9jdXRlX3RpbnlfYnJvd25fdGVkZHlfYl9mYTc4YWZmZi1kY2RlLTQzZjUtOGRlYi1kNTcwMjAyNGQ0ODlfMS5qcGc.jpg' alt='Brown Teddy Bear Wallpaper Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA1L3Jhd3BpeGVsX29mZmljZV8yOV93YWxscGFwZXJfcGF0dGVybl9vZl9jdXRlX3RpbnlfYnJvd25fdGVkZHlfYl9mYTc4YWZmZi1kY2RlLTQzZjUtOGRlYi1kNTcwMjAyNGQ0ODlfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bear Photos Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA4L3Jhd3BpeGVsb2ZmaWNlN19waG90b19vZl9hX2Jyb3duX2JlYXJfd2Fsa2luZ190aHJvdWdoX2FfZm9yZXN0Xzc3ODk4M2I4LWNjNWQtNGU5ZS1hOGMyLTgzZDUxZTNhYTFiYl8xLmpwZw.jpg' alt='Bear Photos Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA4L3Jhd3BpeGVsb2ZmaWNlN19waG90b19vZl9hX2Jyb3duX2JlYXJfd2Fsa2luZ190aHJvdWdoX2FfZm9yZXN0Xzc3ODk4M2I4LWNjNWQtNGU5ZS1hOGMyLTgzZDUxZTNhYTFiYl8xLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable bear wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFHlMDlRm4/1/0/900w/canva-brown-illustrated-teddy-bear-phone-wallpaper-lrU95WFSK9U.jpg' alt='Free and customizable bear wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFHlMDlRm4/1/0/900w/canva-brown-illustrated-teddy-bear-phone-wallpaper-lrU95WFSK9U.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cute bear//wallpaper aesthetic//wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cd/31/9a/cd319a2babab8faa38c84c3bb23976cd.jpg' alt='cute bear//wallpaper aesthetic//wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cd/31/9a/cd319a2babab8faa38c84c3bb23976cd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1000+ Brown Bear Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1595173425119-1c54835c1874?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YnJvd24lMjBiZWFyfGVufDB8fDB8fHww' alt='1000+ Brown Bear Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1595173425119-1c54835c1874?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YnJvd24lMjBiZWFyfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Teddy Bear Background Royalty-Free Images, Stock Photos & Pictures ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2502294791/display_1500/stock-vector-seamless-pattern-with-teddy-bear-cute-pattern-for-pajamas-stationery-wear-clothes-web-and-2502294791.jpg' alt='Teddy Bear Background Royalty-Free Images, Stock Photos & Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2502294791/display_1500/stock-vector-seamless-pattern-with-teddy-bear-cute-pattern-for-pajamas-stationery-wear-clothes-web-and-2502294791.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

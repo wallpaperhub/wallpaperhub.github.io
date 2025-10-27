@@ -1,0 +1,129 @@
+<title>John Pierpont Morgan: The Titan of American Finance</title>
+                    <meta name="description" content="Explore the life of John Pierpont Morgan, a key figure in American finance. Learn how his banking prowess and strategic mergers shaped industries, influenced markets, and left a lasting legacy on corporate America. Discover the impact he had on Wall Street and modern finance.">
+                    <meta name="keywords" content="john pierpont morgan">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/john-pierpont-morgan">
+                            <span itemprop="name">john pierpont morgan</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>John Pierpont Morgan: The Titan of American Finance</h1>
+                <p>John Pierpont Morgan (1837–1913) was a prominent American banker and financier who played a crucial role in the consolidation of major industries in the late 19th and early 20th centuries. He was instrumental in founding General Electric and U.S. Steel, and his influence helped to shape modern corporate finance and Wall Street.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="J.P. Morgan | Biography & Facts | Britannica Money">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/61/25261-050-9ED938CF/John-Pierpont-Morgan-1902.jpg' alt='J.P. Morgan | Biography & Facts | Britannica Money'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1386">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/61/25261-050-9ED938CF/John-Pierpont-Morgan-1902.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="J. P. Morgan">
+                                <img itemprop="contentUrl url" src='https://www.philanthropyroundtable.org/wp-content/uploads/2023/01/NPG-NPG_78_159Morgan-000001-e1663614611481.jpg' alt='J. P. Morgan'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1548">
+                                <meta itemprop="height" content="1550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Philanthropy Roundtable" />
+                                </span>
+                                <a href='https://www.philanthropyroundtable.org/wp-content/uploads/2023/01/NPG-NPG_78_159Morgan-000001-e1663614611481.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="J. P. Morgan - Simple English Wikipedia, the free encyclopedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/4/41/JohnPierpontMorgan.png' alt='J. P. Morgan - Simple English Wikipedia, the free encyclopedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="464">
+                                <meta itemprop="height" content="624">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Simple Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/4/41/JohnPierpontMorgan.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John Pierpont Morgan - Cedar Hill Cemetery Foundation">
+                                <img itemprop="contentUrl url" src='https://cedarhillfoundation.org/wp-content/uploads/2021/01/john-pierpont-morgan.jpg' alt='John Pierpont Morgan - Cedar Hill Cemetery Foundation'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="448">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cedar Hill Cemetery Foundation" />
+                                </span>
+                                <a href='https://cedarhillfoundation.org/wp-content/uploads/2021/01/john-pierpont-morgan.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="J.P. Morgan | Biography & Facts | Britannica Money">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/51/189451-050-D7EFD520/JP-Morgan-1902.jpg' alt='J.P. Morgan | Biography & Facts | Britannica Money'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="904">
+                                <meta itemprop="height" content="1432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/51/189451-050-D7EFD520/JP-Morgan-1902.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who Was J.P. Morgan? How Did He Make a Fortune?">
+                                <img itemprop="contentUrl url" src='https://www.investopedia.com/thmb/GYmO7JuebspbsBa4zYclNq2oA4o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/jp-morgan-kingpin-wall-street-V1-568dd4ff311b466fa5bcc41fdfccfaea.jpg' alt='Who Was J.P. Morgan? How Did He Make a Fortune?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Investopedia" />
+                                </span>
+                                <a href='https://www.investopedia.com/thmb/GYmO7JuebspbsBa4zYclNq2oA4o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/jp-morgan-kingpin-wall-street-V1-568dd4ff311b466fa5bcc41fdfccfaea.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stop 2. Introducing J. Pierpont Morgan | Campus wide guide | The ...">
+                                <img itemprop="contentUrl url" src='https://www.themorgan.org/sites/default/files/images/exhibitions/online/002-Introducing-J-Pierpont-Morgan.jpg' alt='Stop 2. Introducing J. Pierpont Morgan | Campus wide guide | The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="774">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Morgan Library" />
+                                </span>
+                                <a href='https://www.themorgan.org/sites/default/files/images/exhibitions/online/002-Introducing-J-Pierpont-Morgan.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="J.P. Morgan ‑ Biography, Financier & Wealth | HISTORY">
+                                <img itemprop="contentUrl url" src='https://assets.editorial.aetnd.com/uploads/2023/09/jp-morgan.jpg' alt='J.P. Morgan ‑ Biography, Financier & Wealth | HISTORY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.history.com" />
+                                </span>
+                                <a href='https://assets.editorial.aetnd.com/uploads/2023/09/jp-morgan.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="John Pierpont Morgan | Assassin's Creed Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/assassinscreed/images/7/75/JP-Morgan.jpg/revision/latest?cb=20141102020832' alt='John Pierpont Morgan | Assassin's Creed Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="247">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Assassin's Creed Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/assassinscreed/images/7/75/JP-Morgan.jpg/revision/latest?cb=20141102020832' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="J. P. Morgan - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Fedor_Encke_-_Portrait_of_John_Pierpont_Morgan_1903.jpg/170px-Fedor_Encke_-_Portrait_of_John_Pierpont_Morgan_1903.jpg' alt='J. P. Morgan - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="170">
+                                <meta itemprop="height" content="211">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Fedor_Encke_-_Portrait_of_John_Pierpont_Morgan_1903.jpg/170px-Fedor_Encke_-_Portrait_of_John_Pierpont_Morgan_1903.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

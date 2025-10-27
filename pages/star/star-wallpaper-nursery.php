@@ -1,0 +1,129 @@
+<title>Starlit Nursery Wallpaper: Create a Dreamy Space</title>
+                    <meta name="description" content="Explore enchanting star wallpaper for nurseries! Perfect for creating a calming and magical atmosphere for your baby. Discover a variety of designs that inspire sweet dreams and add a touch of charm to your child's room. Transform your nursery with beautiful, cozy starlit decor!">
+                    <meta name="keywords" content="star wallpaper nursery">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star">
+                            <span itemprop="name">Star</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star/star-wallpaper-nursery">
+                            <span itemprop="name">star wallpaper nursery</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Starlit Nursery Wallpaper: Create a Dreamy Space</h1>
+                <p>Transform your nursery into a celestial haven with star wallpaper! Delicate patterns of twinkling stars create a soothing atmosphere for your little one. Perfect for inspiring sweet dreams, this enchanting decor combines style and comfort. Explore various designs, colors, and sizes to suit your nursery's theme.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Little Stars Nursery Wallpaper Peel and Stick 10'L x 24''W">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/7e1a331c-3e4b-4055-a393-04f5f86f17dd.a8b638ae250c38bfdbe4ba9033dbdbf8.jpeg' alt='Little Stars Nursery Wallpaper Peel and Stick 10'L x 24''W'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/7e1a331c-3e4b-4055-a393-04f5f86f17dd.a8b638ae250c38bfdbe4ba9033dbdbf8.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Sky With Stars Mural - Nursery Peel and Stick Night Sky Wallpaper -  Starry Night Wall Mural - Stars and Clouds Wallpaper for Kids Room">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81F4+OPS9kL._UF894,1000_QL80_.jpg' alt='Blue Sky With Stars Mural - Nursery Peel and Stick Night Sky Wallpaper -  Starry Night Wall Mural - Stars and Clouds Wallpaper for Kids Room'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81F4+OPS9kL._UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starry Wallposter Star Themed Nursery Room Decor Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/32597141/r/il/1fb5eb/6297438868/il_fullxfull.6297438868_g4vk.jpg' alt='Starry Wallposter Star Themed Nursery Room Decor Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1643">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/32597141/r/il/1fb5eb/6297438868/il_fullxfull.6297438868_g4vk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soft Colorful Shining View Stars for Nursery Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://img.wallmur.net/@wmp/_826ax660/e/y/ey000071_style1_moc2_1.jpg' alt='Soft Colorful Shining View Stars for Nursery Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="440">
+                                <meta itemprop="height" content="660">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://img.wallmur.net/@wmp/_826ax660/e/y/ey000071_style1_moc2_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Starry Wallpaper, Pastel Color Stars Nursery Wallpaper, Peel and Stick  Removable Minimalist Wear Pattern Decor">
+                                <img itemprop="contentUrl url" src='https://chicandkiddo.com/cdn/shop/files/3-WN187-pastel-colors-stars-on-blue-background-wallpaper.jpg?v=1722694496&width=2500' alt='Blue Starry Wallpaper, Pastel Color Stars Nursery Wallpaper, Peel and Stick  Removable Minimalist Wear Pattern Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chic&Kiddo" />
+                                </span>
+                                <a href='https://chicandkiddo.com/cdn/shop/files/3-WN187-pastel-colors-stars-on-blue-background-wallpaper.jpg?v=1722694496&width=2500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moon and Stars Nursery Peel and Stick Wallpaper 10'L x 24''W">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/a44c6265-0744-46ba-aac8-73ce5cf5a1c6.7133085d0d68c82bf56002899760f8c0.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Moon and Stars Nursery Peel and Stick Wallpaper 10'L x 24''W'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/a44c6265-0744-46ba-aac8-73ce5cf5a1c6.7133085d0d68c82bf56002899760f8c0.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Stars Nursery Wallpaper, Removable Temporary Stick on ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17219117/r/il/ff45ca/3973220459/il_fullxfull.3973220459_j6k3.jpg' alt='Pink Stars Nursery Wallpaper, Removable Temporary Stick on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1997">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17219117/r/il/ff45ca/3973220459/il_fullxfull.3973220459_j6k3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Removable Navy Stars Wallpaper | Boys Nursery Wallpaper | Kids Wallpaper |  Childrens Wallpaper | Peel Stick Wallpaper | Boys Room | 3549">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3644752414_m91g.jpg' alt='Removable Navy Stars Wallpaper | Boys Nursery Wallpaper | Kids Wallpaper |  Childrens Wallpaper | Peel Stick Wallpaper | Boys Room | 3549'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2422">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3644752414_m91g.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stars Wallpaper">
+                                <img itemprop="contentUrl url" src='https://kidswallpapercompany.com/cdn/shop/products/103_3014-1-CHILDRENS_WALLPAPER_1445x.jpg?v=1642453298' alt='Stars Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="722">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kids Wallpaper Company" />
+                                </span>
+                                <a href='https://kidswallpapercompany.com/cdn/shop/products/103_3014-1-CHILDRENS_WALLPAPER_1445x.jpg?v=1642453298' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nursery Space with Colorful Planets and Little Stars Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://www.wallmur.com/media/catalog/product/cache/d2490ff774ad2196f075b30a2e194e25/k/i/kids-wallpaper-for-boys-cartoon-space-wall-mural-colorful-planet_esdjzqnjbgl_3d_1.jpg' alt='Nursery Space with Colorful Planets and Little Stars Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmur" />
+                                </span>
+                                <a href='https://www.wallmur.com/media/catalog/product/cache/d2490ff774ad2196f075b30a2e194e25/k/i/kids-wallpaper-for-boys-cartoon-space-wall-mural-colorful-planet_esdjzqnjbgl_3d_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

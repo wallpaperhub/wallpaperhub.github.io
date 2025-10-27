@@ -1,0 +1,129 @@
+<title>NWA iPhone Wallpapers: Customize Your Device</title>
+                    <meta name="description" content="Explore a vast collection of NWA iPhone wallpapers that showcase the iconic group's legacy. Perfect for fans looking to personalize their devices with striking designs, our wallpapers are optimized for maximum visual impact on any iPhone model. Download your favorite now and celebrate hip-hop history!">
+                    <meta name="keywords" content="nwa wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/nwa-wallpaper-iphone">
+                            <span itemprop="name">nwa wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>NWA iPhone Wallpapers: Customize Your Device</h1>
+                <p>Discover stunning NWA wallpaper for your iPhone! Transform your device with vibrant and dynamic designs inspired by the renowned hip-hop group. Explore a wide variety of styles that reflect the essence of N.W.A., from iconic visuals to modern graphics. Elevate your phone's look and pay homage to music history today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nwa, hip hop, rap, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/451/799/HD-wallpaper-nwa-hip-hop-rap.jpg' alt='Nwa, hip hop, rap, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/451/799/HD-wallpaper-nwa-hip-hop-rap.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fb/36/90/fb3690a42de6fc3ec40852715c3106c4.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fb/36/90/fb3690a42de6fc3ec40852715c3106c4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="N.w.a.">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c9/fd/81/c9fd813d890252d60cab6f73a3d332ee.jpg' alt='N.w.a.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c9/fd/81/c9fd813d890252d60cab6f73a3d332ee.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NWA hiphop, hip hop, ice cube, rap, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/234/117/HD-wallpaper-nwa-hiphop-hip-hop-ice-cube-rap.jpg' alt='NWA hiphop, hip hop, ice cube, rap, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/234/117/HD-wallpaper-nwa-hiphop-hip-hop-ice-cube-rap.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Nwa Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/n-w-a-rap-group-biopic-2015-8gqdkanrl7mascvi.jpg' alt='100+] Nwa Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/n-w-a-rap-group-biopic-2015-8gqdkanrl7mascvi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NWA Wallpaper Phone - KoLPaPer - Awesome Free HD Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1c/47/99/1c479977cac9eba006678326257fb9da.jpg' alt='NWA Wallpaper Phone - KoLPaPer - Awesome Free HD Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1c/47/99/1c479977cac9eba006678326257fb9da.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oldschool Hip Hop Wallpaper Collection">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7096116734469393670&location=0&aid=1988' alt='Oldschool Hip Hop Wallpaper Collection'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1714">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7096116734469393670&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hi guys, I make a N.W.A wallpaper. Download it, only if you want ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/hi-guys-i-make-a-n-w-a-wallpaper-download-it-only-if-you-v0-pj7ib8virv6c1.png?auto=webp&s=94f0d1a11d13dd339c30f98b28ad4ce9e48a2230' alt='Hi guys, I make a N.W.A wallpaper. Download it, only if you want ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/hi-guys-i-make-a-n-w-a-wallpaper-download-it-only-if-you-v0-pj7ib8virv6c1.png?auto=webp&s=94f0d1a11d13dd339c30f98b28ad4ce9e48a2230' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD nwa wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/70/641/HD-wallpaper-nwa-eazy-e-mc-ren-ice-cube-dj-yella-dr-dre.jpg' alt='HD nwa wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/70/641/HD-wallpaper-nwa-eazy-e-mc-ren-ice-cube-dj-yella-dr-dre.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nwa 90s Wallpaper Iphone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/cf/e5/14/cfe514704dde8eb12ec269f2748c55ec.jpg' alt='Nwa 90s Wallpaper Iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/cf/e5/14/cfe514704dde8eb12ec269f2748c55ec.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

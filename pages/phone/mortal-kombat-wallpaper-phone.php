@@ -1,0 +1,129 @@
+<title>Mortal Kombat Phone Wallpapers: Fierce Designs for Gamers</title>
+                    <meta name="description" content="Discover amazing Mortal Kombat wallpapers for your phone! Choose from iconic characters and vibrant scenes. Perfect for gamers who want to showcase their passion. Download now for high-quality designs that will give your device a bold and fierce look!">
+                    <meta name="keywords" content="mortal kombat wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/mortal-kombat-wallpaper-phone">
+                            <span itemprop="name">mortal kombat wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Mortal Kombat Phone Wallpapers: Fierce Designs for Gamers</h1>
+                <p>Elevate your phone's aesthetic with stunning Mortal Kombat wallpapers! Featuring iconic characters and epic battle scenes, these wallpapers bring the game to life right on your screen. Download high-quality images for a fierce look that showcases your love for the legendary fighting franchise. Perfect for true fans!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mortal kombat wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/e0/37/6b/e0376b77f3f8efc2fd8d6ae63fccce20.jpg' alt='Mortal kombat wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/e0/37/6b/e0376b77f3f8efc2fd8d6ae63fccce20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Just made this wallpaper. It's formatted for my phone screen but ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/just-made-this-wallpaper-its-formatted-for-my-phone-screen-v0-5y85bcbwiu0b1.jpg?width=640&crop=smart&auto=webp&s=7002aeb3df20162ed81a3acf75c48432896cf2f3' alt='Just made this wallpaper. It's formatted for my phone screen but ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/just-made-this-wallpaper-its-formatted-for-my-phone-screen-v0-5y85bcbwiu0b1.jpg?width=640&crop=smart&auto=webp&s=7002aeb3df20162ed81a3acf75c48432896cf2f3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Mortal Kombat Wallpaper Android, HD Backgrounds Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3d/bb/4a/3dbb4a7d10568b08f10845003b8570d3.jpg' alt='Download Mortal Kombat Wallpaper Android, HD Backgrounds Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3d/bb/4a/3dbb4a7d10568b08f10845003b8570d3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mortal Kombat, dope, game, logo, sick, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/148/799/HD-wallpaper-mortal-kombat-dope-game-logo-sick.jpg' alt='Mortal Kombat, dope, game, logo, sick, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/148/799/HD-wallpaper-mortal-kombat-dope-game-logo-sick.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD mortal kombat wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/244/294/HD-wallpaper-scorpion-mk11-mortal-kombat-mortal-kombat-11-mortalkombat-mortalkombat11.jpg' alt='HD mortal kombat wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/244/294/HD-wallpaper-scorpion-mk11-mortal-kombat-mortal-kombat-11-mortalkombat-mortalkombat11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="made some phone wallpapers for the community : r/MortalKombat">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/made-some-phone-wallpapers-for-the-community-v0-p7jjec6zidfb1.jpg?width=1080&crop=smart&auto=webp&s=abdbdf89bb26d37021acb86cad716d78ebed07b8' alt='made some phone wallpapers for the community : r/MortalKombat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/made-some-phone-wallpapers-for-the-community-v0-p7jjec6zidfb1.jpg?width=1080&crop=smart&auto=webp&s=abdbdf89bb26d37021acb86cad716d78ebed07b8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1080x1920 Mortal Kombat Wallpapers for Android Mobile Smartphone ...">
+                                <img itemprop="contentUrl url" src='https://img3.wallspic.com/previews/2/0/2/0/7/170202/170202-mortal_kombat-mortal_kombat_logo-mortal_kombat_11-mortal_kombat_x-kuai_liang-360x640.jpg' alt='1080x1920 Mortal Kombat Wallpapers for Android Mobile Smartphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallspic" />
+                                </span>
+                                <a href='https://img3.wallspic.com/previews/2/0/2/0/7/170202/170202-mortal_kombat-mortal_kombat_logo-mortal_kombat_11-mortal_kombat_x-kuai_liang-360x640.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mortal Kombat Mobile on X: "Darkness. #mkmobile #wallpaper https ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/Es6l2VEW4AAqVjI.jpg' alt='Mortal Kombat Mobile on X: "Darkness. #mkmobile #wallpaper https ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/Es6l2VEW4AAqVjI.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Scorpion (Mortal Kombat) Wallpapers (35 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/b/0/b/462497-1670x2956-phone-hd-scorpion-mortal-kombat-wallpaper.jpg' alt='Scorpion (Mortal Kombat) Wallpapers (35 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1670">
+                                <meta itemprop="height" content="2956">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/b/0/b/462497-1670x2956-phone-hd-scorpion-mortal-kombat-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD raiden mortal kombat wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/365/768/HD-wallpaper-mortal-kombat-11-mortal-kombat-raiden-scorpion-sub-zero-thumbnail.jpg' alt='HD raiden mortal kombat wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/365/768/HD-wallpaper-mortal-kombat-11-mortal-kombat-raiden-scorpion-sub-zero-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

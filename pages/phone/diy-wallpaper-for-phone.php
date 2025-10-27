@@ -1,0 +1,129 @@
+<title>DIY Phone Wallpaper: Customize Your Screen</title>
+                    <meta name="description" content="Discover how to create stunning DIY wallpaper for your phone! Personalize your device with unique designs and materials that showcase your style. Get creative and make your phone stand out with easy-to-follow tips and ideas. Perfect for anyone wanting a fresh look!">
+                    <meta name="keywords" content="diy wallpaper for phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/diy-wallpaper-for-phone">
+                            <span itemprop="name">diy wallpaper for phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>DIY Phone Wallpaper: Customize Your Screen</h1>
+                <p>Transform your phone with DIY wallpaper! Customizing your device not only reflects your personality but also enhances your visual experience. Choose from various materials like paper, fabric, or vinyl, and let your creativity flow! Create designs that resonate with your style, making your phone truly yours. Enjoy the fun of personalizing your device today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Wallpaper Maker | Make Your Own Phone Wallpaper | PicMonkey">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/h6goo9gw1hh6/1GUoBYLqMad3faOlIhzDvX/46a14089458bd23ca99756a5f1aca406/072018_MakeOwnWallpaper_Update-FB-3.png' alt='Phone Wallpaper Maker | Make Your Own Phone Wallpaper | PicMonkey'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PicMonkey" />
+                                </span>
+                                <a href='https://images.ctfassets.net/h6goo9gw1hh6/1GUoBYLqMad3faOlIhzDvX/46a14089458bd23ca99756a5f1aca406/072018_MakeOwnWallpaper_Update-FB-3.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cutest DIY Live Wallpaper for Your iPhone">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7366192536123215110&location=0&aid=1988' alt='Cutest DIY Live Wallpaper for Your iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7366192536123215110&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Design DIY Wallpaper for Your Phone | Learn BeFunky">
+                                <img itemprop="contentUrl url" src='https://www.befunky.com/images/wp/wp-2018-08-DIY-Phone-Wallpaper-4.jpg?auto=avif,webp&format=jpg&width=944' alt='How to Design DIY Wallpaper for Your Phone | Learn BeFunky'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="944">
+                                <meta itemprop="height" content="561">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BeFunky" />
+                                </span>
+                                <a href='https://www.befunky.com/images/wp/wp-2018-08-DIY-Phone-Wallpaper-4.jpg?auto=avif,webp&format=jpg&width=944' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Wallpaper Maker | Make Your Own Phone Wallpaper | PicMonkey">
+                                <img itemprop="contentUrl url" src='https://images.ctfassets.net/h6goo9gw1hh6/Rf9hVmSLAEKlMPEIDptLD/4595400cf99492773ec37e5c72f90220/make-backgrounds-on-mobile_copy.jpg?w=800&h=400&fl=progressive&q=70&fm=jpg' alt='Phone Wallpaper Maker | Make Your Own Phone Wallpaper | PicMonkey'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PicMonkey" />
+                                </span>
+                                <a href='https://images.ctfassets.net/h6goo9gw1hh6/Rf9hVmSLAEKlMPEIDptLD/4595400cf99492773ec37e5c72f90220/make-backgrounds-on-mobile_copy.jpg?w=800&h=400&fl=progressive&q=70&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable phone wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFn3BDmUK0/1/0/900w/canva-black-and-cream-simple-moodboard-photo-collage-phone-wallpaper-VRfTv9ogyls.jpg' alt='Free and customizable phone wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFn3BDmUK0/1/0/900w/canva-black-and-cream-simple-moodboard-photo-collage-phone-wallpaper-VRfTv9ogyls.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Design DIY Wallpaper for Your Phone | Learn BeFunky">
+                                <img itemprop="contentUrl url" src='https://www.befunky.com/images/wp/wp-2021-06-wp-2018-08-DIY-Phone-Wallpaper-1-2-scaled.jpg?auto=avif,webp&format=jpg&width=944' alt='How to Design DIY Wallpaper for Your Phone | Learn BeFunky'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="944">
+                                <meta itemprop="height" content="634">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BeFunky" />
+                                </span>
+                                <a href='https://www.befunky.com/images/wp/wp-2021-06-wp-2018-08-DIY-Phone-Wallpaper-1-2-scaled.jpg?auto=avif,webp&format=jpg&width=944' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to make a customized phone wallpaper on Canva! - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/stmJLxRnjy0/sddefault.jpg?v=60d7e7c4' alt='How to make a customized phone wallpaper on Canva! - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/stmJLxRnjy0/sddefault.jpg?v=60d7e7c4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Wallpaper Ideas 2024: Aesthetic, Cute Couples & More | PERFECT">
+                                <img itemprop="contentUrl url" src='https://plugins-media.makeupar.com/smb/blog/post/2021-06-18/dac5cc55-3b7d-478f-9bb3-32a10c87c586.jpg' alt='Phone Wallpaper Ideas 2024: Aesthetic, Cute Couples & More | PERFECT'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1148">
+                                <meta itemprop="height" content="646">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Perfect Corp." />
+                                </span>
+                                <a href='https://plugins-media.makeupar.com/smb/blog/post/2021-06-18/dac5cc55-3b7d-478f-9bb3-32a10c87c586.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Cell Phone Wallpaper Inspirational Cell Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.craftaholicsanonymous.net/wp-content/uploads/2016/12/Inspirational-Cell-Phone-Wallpaper.jpg' alt='Free Cell Phone Wallpaper Inspirational Cell Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1275">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Craftaholics Anonymous" />
+                                </span>
+                                <a href='https://www.craftaholicsanonymous.net/wp-content/uploads/2016/12/Inspirational-Cell-Phone-Wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Easy Wallpaper Ideas for Your Phone">
+                                <img itemprop="contentUrl url" src='https://instasize.com/content/pattern-phone-wallpaper.jpg' alt='5 Easy Wallpaper Ideas for Your Phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instasize" />
+                                </span>
+                                <a href='https://instasize.com/content/pattern-phone-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

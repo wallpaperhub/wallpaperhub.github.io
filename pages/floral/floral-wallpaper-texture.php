@@ -1,0 +1,129 @@
+<title>Vibrant Floral Wallpaper Texture for Stylish Interiors</title>
+                    <meta name="description" content="Discover the beauty of floral wallpaper texture. Transform your living spaces with vibrant patterns and colors that bring nature indoors. Perfect for adding a stylish touch to any room, explore the endless design options that will enhance your home's ambiance. Update your decor effortlessly!">
+                    <meta name="keywords" content="floral wallpaper texture">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/floral-wallpaper-texture">
+                            <span itemprop="name">floral wallpaper texture</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Floral Wallpaper Texture for Stylish Interiors</h1>
+                <p>Floral wallpaper texture adds a touch of elegance and vibrancy to any space, transforming walls into beautiful canvases. With an array of colors and patterns, floral designs can evoke a sense of nature indoors. From delicate pastels to bold blooms, this wallpaper style is perfect for creating a welcoming atmosphere in any room.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Z46043 Trussardi Floral Beige textured wallpaper 3D">
+                                <img itemprop="contentUrl url" src='http://wallcoveringsmart.com/cdn/shop/products/Z46043.jpg?v=1674105835' alt='Z46043 Trussardi Floral Beige textured wallpaper 3D'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallcoverings mart" />
+                                </span>
+                                <a href='http://wallcoveringsmart.com/cdn/shop/products/Z46043.jpg?v=1674105835' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautysaid Wallpaper Peel and Stick Floral：Boho Textured Wall Paper for  Bedroom Bathroom Renter Friendly Waterproof Pink Watercolor Modern  Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81VI3v6JDqL.jpg' alt='Beautysaid Wallpaper Peel and Stick Floral：Boho Textured Wall Paper for  Bedroom Bathroom Renter Friendly Waterproof Pink Watercolor Modern  Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81VI3v6JDqL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taupe Acrylic Texture Dogwood Floral & Leaf Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/taupe-acrylic-texture-dogwood-floral-le-repn-l.jpg' alt='Taupe Acrylic Texture Dogwood Floral & Leaf Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/taupe-acrylic-texture-dogwood-floral-le-repn-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galerie EN3395514 Floral Texture Blue Grey White Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/247145.jpg' alt='Galerie EN3395514 Floral Texture Blue Grey White Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/247145.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Carmella Floral Texture by Albany - Green - Wallpaper - 7152">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/shared-assets/images/products/213034_1_orig.jpg?v=1704726613' alt='Carmella Floral Texture by Albany - Green - Wallpaper - 7152'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/shared-assets/images/products/213034_1_orig.jpg?v=1704726613' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="For Your Bath III Gloria Peach Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='https://thefabricco.com/cdn/shop/products/2704-37400.jpg?v=1707760254&width=480' alt='For Your Bath III Gloria Peach Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Fabric Co" />
+                                </span>
+                                <a href='https://thefabricco.com/cdn/shop/products/2704-37400.jpg?v=1707760254&width=480' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Mist Peel-and-Stick Luxe Haven Wallpaper">
+                                <img itemprop="contentUrl url" src='https://lillianaugust.com/cdn/shop/products/LN30501_c3394d47-5525-48a2-a47c-06a8773a2225_1080x1080.jpg?v=1676323728' alt='Floral Mist Peel-and-Stick Luxe Haven Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lillian August" />
+                                </span>
+                                <a href='https://lillianaugust.com/cdn/shop/products/LN30501_c3394d47-5525-48a2-a47c-06a8773a2225_1080x1080.jpg?v=1676323728' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Galerie EN3395414 Floral Texture Pink Grey Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperstogo.com/images/product/large/247144.jpg' alt='Galerie EN3395414 Floral Texture Pink Grey Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers To Go" />
+                                </span>
+                                <a href='https://www.wallpaperstogo.com/images/product/large/247144.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Wallpaper with Realistic Flowers. Seamless Pattern with ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/05/86/16/73/1000_F_586167361_UYb3SC7mAvrqTkmq7TGllypES9eUGP19.jpg' alt='Floral Wallpaper with Realistic Flowers. Seamless Pattern with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/05/86/16/73/1000_F_586167361_UYb3SC7mAvrqTkmq7TGllypES9eUGP19.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watercolor Floral Wallpaper Flower Baby Nursery, Antique Pink Rose ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8274094/r/il/1aea7a/1008147467/il_570xN.1008147467_bxi8.jpg' alt='Watercolor Floral Wallpaper Flower Baby Nursery, Antique Pink Rose ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8274094/r/il/1aea7a/1008147467/il_570xN.1008147467_bxi8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

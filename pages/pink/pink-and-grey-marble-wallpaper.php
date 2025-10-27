@@ -1,0 +1,129 @@
+<title>Elegant Pink and Grey Marble Wallpaper for Modern Interiors</title>
+                    <meta name="description" content="Enhance your home with our pink and grey marble wallpaper. Perfect for creating a stylish, serene atmosphere, this wallpaper is ideal for any room. Easy to install and maintain, elevate your décor with this chic design that blends timeless elegance with contemporary flair.">
+                    <meta name="keywords" content="pink and grey marble wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-and-grey-marble-wallpaper">
+                            <span itemprop="name">pink and grey marble wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant Pink and Grey Marble Wallpaper for Modern Interiors</h1>
+                <p>Transform your space with stunning pink and grey marble wallpaper. This elegant design adds a touch of sophistication and modernity to any room, from living areas to bedrooms. The soft, soothing hues create a calming atmosphere while maintaining a chic look. Perfect for accent walls or entire rooms, it’s easy to install and clean.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soft Pink and Grey Marble Wallpaper, Light Natural Stone Texture Mural,  Peel and Stick Removable Grey Marble Custom Size Wall Decor">
+                                <img itemprop="contentUrl url" src='https://chicandkiddo.com/cdn/shop/files/6-WN070-Grey-and-pink-marble-wallpaper.jpg?v=1718633270&width=2500' alt='Soft Pink and Grey Marble Wallpaper, Light Natural Stone Texture Mural,  Peel and Stick Removable Grey Marble Custom Size Wall Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chic&Kiddo" />
+                                </span>
+                                <a href='https://chicandkiddo.com/cdn/shop/files/6-WN070-Grey-and-pink-marble-wallpaper.jpg?v=1718633270&width=2500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gray Pink Marble Wallpaper, Modern Art Wallpaper, Abstract Gray ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/39471705/r/il/86e8b7/5599536121/il_fullxfull.5599536121_bgzg.jpg' alt='Gray Pink Marble Wallpaper, Modern Art Wallpaper, Abstract Gray ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/39471705/r/il/86e8b7/5599536121/il_fullxfull.5599536121_bgzg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink and Gray Marble Wall Mural, Wall Decorations, Pink Wall Art ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/40914287/r/il/28d133/5110810772/il_fullxfull.5110810772_qeyj.jpg' alt='Pink and Gray Marble Wall Mural, Wall Decorations, Pink Wall Art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/40914287/r/il/28d133/5110810772/il_fullxfull.5110810772_qeyj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Liquid Marble Wallpaper in Pink and Gold">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/1-Liquid-Marble-Pink-and-Gold_ILW035_Thumbnail_WEB_971bd3eb-a8f9-4314-ba2d-8f9d5b5ab529.webp?crop=center&height=420&v=1706010649&width=420' alt='Liquid Marble Wallpaper in Pink and Gold'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="420">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/1-Liquid-Marble-Pink-and-Gold_ILW035_Thumbnail_WEB_971bd3eb-a8f9-4314-ba2d-8f9d5b5ab529.webp?crop=center&height=420&v=1706010649&width=420' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elegant and Striking Pink and Dark Grey Marble Effect Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://muralium.com/wp-content/uploads/2023/05/006_Front_Interior_Scene-9-scaled.jpg' alt='Elegant and Striking Pink and Dark Grey Marble Effect Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Muralium" />
+                                </span>
+                                <a href='https://muralium.com/wp-content/uploads/2023/05/006_Front_Interior_Scene-9-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink And Grey Marble Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pink-and-grey-marble-iphone-tgxbwmhlofrzsbhn.jpg' alt='Pink And Grey Marble Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pink-and-grey-marble-iphone-tgxbwmhlofrzsbhn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Marble Textured Wallpaper, Living Room Wall Mural, Peel ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35793411/r/il/0caf34/3932261907/il_fullxfull.3932261907_qx73.jpg' alt='Colorful Marble Textured Wallpaper, Living Room Wall Mural, Peel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35793411/r/il/0caf34/3932261907/il_fullxfull.3932261907_qx73.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Pink Marble Wall Mural | Marble Wallpaper - Murals Your Way">
+                                <img itemprop="contentUrl url" src='https://muralsyourway.vtexassets.com/arquivos/ids/236030/Light-Pink-Marble-Wallpaper-Mural.jpg?v=638165395864900000' alt='Light Pink Marble Wall Mural | Marble Wallpaper - Murals Your Way'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="2734">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Murals Your Way" />
+                                </span>
+                                <a href='https://muralsyourway.vtexassets.com/arquivos/ids/236030/Light-Pink-Marble-Wallpaper-Mural.jpg?v=638165395864900000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="STICKEEP White Pink Marble Wallpaper Peel and Stick Marble ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71IA5p1U9UL._AC_UF894,1000_QL80_.jpg' alt='STICKEEP White Pink Marble Wallpaper Peel and Stick Marble ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71IA5p1U9UL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marble Geo by Arthouse - Pink Multi - Wallpaper : Wallpaper Direct">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/asset/img/product/163314/main/arthouse-marble-geo-pink-multi-wallpaper-1@lg.webp' alt='Marble Geo by Arthouse - Pink Multi - Wallpaper : Wallpaper Direct'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/asset/img/product/163314/main/arthouse-marble-geo-pink-multi-wallpaper-1@lg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

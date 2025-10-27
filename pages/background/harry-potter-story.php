@@ -1,0 +1,129 @@
+<title>Discover the Magic of the Harry Potter Story</title>
+                    <meta name="description" content="Explore the enchanting world of Harry Potter, where magic, friendship, and bravery intertwine. Join Harry’s thrilling journey from an orphaned boy to a celebrated wizard battling dark forces. Perfect for fans old and new, this story captivates readers with its timeless appeal and rich imagination.">
+                    <meta name="keywords" content="harry potter story">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/harry-potter-story">
+                            <span itemprop="name">harry potter story</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Magic of the Harry Potter Story</h1>
+                <p>In a world where magic thrives, Harry Potter, an orphaned boy, discovers he is a wizard on his 11th birthday. He attends Hogwarts School of Witchcraft and Wizardry, makes friends like Hermione and Ron, and battles Lord Voldemort, who seeks to reclaim his power. Harry's journey is one of courage, friendship, and the fight between good and evil.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Book 1: Harry Potter and the Sorcerer's Stone - J.K. Rowling's ...">
+                                <img itemprop="contentUrl url" src='https://content.time.com/time/2007/harry_potter/hp_books/sorce_stone.jpg' alt='Book 1: Harry Potter and the Sorcerer's Stone - J.K. Rowling's ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Videos Index on TIME.com" />
+                                </span>
+                                <a href='https://content.time.com/time/2007/harry_potter/hp_books/sorce_stone.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Harry Potter Stories - JKR">
+                                <img itemprop="contentUrl url" src='https://stories.jkrowling.com/wp-content/uploads/2021/08/HPATPS_Hero_OnGrey-e1630873901777.png' alt='The Harry Potter Stories - JKR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="252">
+                                <meta itemprop="height" content="357">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JK Rowling Stories" />
+                                </span>
+                                <a href='https://stories.jkrowling.com/wp-content/uploads/2021/08/HPATPS_Hero_OnGrey-e1630873901777.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Harry Potter Stories - JKR">
+                                <img itemprop="contentUrl url" src='https://stories.jkrowling.com/wp-content/uploads/2021/10/HP2-ML.png' alt='The Harry Potter Stories - JKR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="359">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JK Rowling Stories" />
+                                </span>
+                                <a href='https://stories.jkrowling.com/wp-content/uploads/2021/10/HP2-ML.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter and the Philosopher's Stone: The Story of Fantasy and ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/6102abeba9fd55174a180768/01ca540d-d49f-4372-984d-981fa7267f10/Harry+Potter+and+the+Philosopher%E2%80%99s+Stone+.jpg' alt='Harry Potter and the Philosopher's Stone: The Story of Fantasy and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2096">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Digest Knowledge" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/6102abeba9fd55174a180768/01ca540d-d49f-4372-984d-981fa7267f10/Harry+Potter+and+the+Philosopher%E2%80%99s+Stone+.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter and the Philosopher's Stone | Harry Potter Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/harrypotter/images/7/7a/Harry_Potter_and_the_Philosopher%27s_Stone_%E2%80%93_Bloomsbury_2014_Children%27s_Edition_%28Paperback_and_Hardcover%29.jpg/revision/latest/scale-to-width-down/1200?cb=20170109041611' alt='Harry Potter and the Philosopher's Stone | Harry Potter Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1796">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Harry Potter Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/harrypotter/images/7/7a/Harry_Potter_and_the_Philosopher%27s_Stone_%E2%80%93_Bloomsbury_2014_Children%27s_Edition_%28Paperback_and_Hardcover%29.jpg/revision/latest/scale-to-width-down/1200?cb=20170109041611' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Short Stories (Vol 1): Hogwarts | Harry Potter Amino">
+                                <img itemprop="contentUrl url" src='http://pm1.aminoapps.com/6941/3d41fd4ec42d0d0252af840b3a0c07b025b24331r1-1367-2048v2_uhq.jpg' alt='Short Stories (Vol 1): Hogwarts | Harry Potter Amino'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1367">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amino Apps" />
+                                </span>
+                                <a href='http://pm1.aminoapps.com/6941/3d41fd4ec42d0d0252af840b3a0c07b025b24331r1-1367-2048v2_uhq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Harry Potter Stories - JKR">
+                                <img itemprop="contentUrl url" src='https://stories.jkrowling.com/wp-content/uploads/2021/08/DeathlyHallows_2017.png' alt='The Harry Potter Stories - JKR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="261">
+                                <meta itemprop="height" content="357">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JK Rowling Stories" />
+                                </span>
+                                <a href='https://stories.jkrowling.com/wp-content/uploads/2021/08/DeathlyHallows_2017.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter: Why Reading the Complete Series at Once is Not the ...">
+                                <img itemprop="contentUrl url" src='https://media.wired.com/photos/5933c04b283bfc394dcc0963/master/w_2560%2Cc_limit/hp-half-blood-prince.jpg' alt='Harry Potter: Why Reading the Complete Series at Once is Not the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="332">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WIRED" />
+                                </span>
+                                <a href='https://media.wired.com/photos/5933c04b283bfc394dcc0963/master/w_2560%2Cc_limit/hp-half-blood-prince.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Story of Harry Potter (Part 1/3) - Movies with Mikey">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/BdR3ZQbAIeg/maxresdefault.jpg' alt='The Story of Harry Potter (Part 1/3) - Movies with Mikey'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/BdR3ZQbAIeg/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Harry Potter Stories - JKR">
+                                <img itemprop="contentUrl url" src='https://stories.jkrowling.com/wp-content/uploads/2021/08/HPATPOA_Hero_OnGrey.png' alt='The Harry Potter Stories - JKR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="252">
+                                <meta itemprop="height" content="357">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JK Rowling Stories" />
+                                </span>
+                                <a href='https://stories.jkrowling.com/wp-content/uploads/2021/08/HPATPOA_Hero_OnGrey.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

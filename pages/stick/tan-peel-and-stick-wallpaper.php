@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="tan peel and stick wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick">
+                            <span itemprop="name">Stick</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/stick/tan-peel-and-stick-wallpaper">
+                            <span itemprop="name">tan peel and stick wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tan Farmhouse Floral Wallpaper | Removable Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick Wall Mural 3626">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3602959842_506l_c4b22194-0713-483a-85e4-57a888eff270.jpg' alt='Tan Farmhouse Floral Wallpaper | Removable Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick Wall Mural 3626'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2326">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3602959842_506l_c4b22194-0713-483a-85e4-57a888eff270.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Removable Wallpaper Cream Tan Floral Star Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick Wall Mural 3533">
+                                <img itemprop="contentUrl url" src='http://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3442038832_eja9_acd96959-4325-42c3-b2a9-91700c67b4cf.jpg?v=1644737410' alt='Removable Wallpaper Cream Tan Floral Star Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick Wall Mural 3533'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2590">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='http://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3442038832_eja9_acd96959-4325-42c3-b2a9-91700c67b4cf.jpg?v=1644737410' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grasscloth Peel and Stick Wallpaper 30"x236" Wide Self Adhesive Tan Brown  Textured Wallpaper Removable Fabric Contact Paper for Walls Grass Cloth ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/A1B9869SroL._AC_UF894,1000_QL80_.jpg' alt='Grasscloth Peel and Stick Wallpaper 30"x236" Wide Self Adhesive Tan Brown  Textured Wallpaper Removable Fabric Contact Paper for Walls Grass Cloth ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/A1B9869SroL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ana (Tan) Wallpaper">
+                                <img itemprop="contentUrl url" src='http://wallblush.com/cdn/shop/files/AnaTanWallpaperBohoFloralPrint.png?v=1714517905&width=2048' alt='Ana (Tan) Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="wall blush" />
+                                </span>
+                                <a href='http://wallblush.com/cdn/shop/files/AnaTanWallpaperBohoFloralPrint.png?v=1714517905&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Herringbone Stripe Peel & Stick Wallpaper Tan - Threshold™: Removable,  Self-Adhesive, Stain-Resistant, Washable">
+                                <img itemprop="contentUrl url" src='https://target.scene7.com/is/image/Target/GUEST_ec27df89-08c8-4fa1-b1bc-96b25f88a2ea' alt='Herringbone Stripe Peel & Stick Wallpaper Tan - Threshold™: Removable,  Self-Adhesive, Stain-Resistant, Washable'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Target" />
+                                </span>
+                                <a href='https://target.scene7.com/is/image/Target/GUEST_ec27df89-08c8-4fa1-b1bc-96b25f88a2ea' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Peel and Stick Wallpaper Tan Cream Floral Outline ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27349619/r/il/ccc598/3742708250/il_fullxfull.3742708250_5zbq.jpg' alt='Wallpaper Peel and Stick Wallpaper Tan Cream Floral Outline ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27349619/r/il/ccc598/3742708250/il_fullxfull.3742708250_5zbq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RMK9031WP Faux Grasscloth Peel & Stick Wallpaper - Tan – US Wall Decor">
+                                <img itemprop="contentUrl url" src='https://uswalldecor.com/cdn/shop/products/RMK9031WP-York-Peel-and-Stick-Grasscloth-Wallpaper-tan-2.jpg?v=1579903916&width=1946' alt='RMK9031WP Faux Grasscloth Peel & Stick Wallpaper - Tan – US Wall Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='https://uswalldecor.com/cdn/shop/products/RMK9031WP-York-Peel-and-Stick-Grasscloth-Wallpaper-tan-2.jpg?v=1579903916&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Peel and Stick Wallpaper Cream Floral Golden Tan Neutral  Removable Wallpaper Wall Decor Home Decor Wall Art Room Decor 60">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3866769814_dqej.jpg' alt='Wallpaper Peel and Stick Wallpaper Cream Floral Golden Tan Neutral  Removable Wallpaper Wall Decor Home Decor Wall Art Room Decor 60'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2452">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3866769814_dqej.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Wallpaper 9ft x 2ft - Beige Grey Neutral Botanicals Floral Tan  Warm Custom Removable Wallpaper by Spoonflower">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61Rn6rSk5xL._AC_UF894,1000_QL80_.jpg' alt='Peel & Stick Wallpaper 9ft x 2ft - Beige Grey Neutral Botanicals Floral Tan  Warm Custom Removable Wallpaper by Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="967">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61Rn6rSk5xL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Decoratorsbest Stripe Lines By Bobby Berk Neutral Tan Peel And Stick  Wallpaper, 28 Sq. Ft.">
+                                <img itemprop="contentUrl url" src='https://www.decoratorsbest.com/cdn/shop/files/6899909853230_7.jpg?v=1694155995' alt='Decoratorsbest Stripe Lines By Bobby Berk Neutral Tan Peel And Stick  Wallpaper, 28 Sq. Ft.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecoratorsBest" />
+                                </span>
+                                <a href='https://www.decoratorsbest.com/cdn/shop/files/6899909853230_7.jpg?v=1694155995' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

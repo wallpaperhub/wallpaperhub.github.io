@@ -1,0 +1,129 @@
+<title>Stunning Naruto Moving Wallpapers for Every Fan</title>
+                    <meta name="description" content="Discover an exciting collection of Naruto moving wallpapers! Perfect for anime enthusiasts, our vibrant designs will energize your space. Browse and personalize your devices with your favorite characters and scenes from the Naruto universe. Elevate your aesthetic today!">
+                    <meta name="keywords" content="wallpaper naruto moving">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/naruto">
+                            <span itemprop="name">Naruto</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/naruto/wallpaper-naruto-moving">
+                            <span itemprop="name">wallpaper naruto moving</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Naruto Moving Wallpapers for Every Fan</h1>
+                <p>Transform your space with dynamic Naruto moving wallpapers that bring your favorite characters to life! Whether you're a die-hard fan or just enjoy anime art, these wallpapers add an energetic vibe to any room. Perfect for personalizing your computer or phone, browse through vibrant designs showcasing iconic scenes and characters!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto Uzumaki WhallPaper - GIF Naruto">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/e0/32/97/e032973a23b3df2cfb20cf8c040545d0.gif' alt='Naruto Uzumaki WhallPaper - GIF Naruto'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1364">
+                                <meta itemprop="height" content="770">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/e0/32/97/e032973a23b3df2cfb20cf8c040545d0.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Moving Naruto Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/moving-naruto-blades-q13uhwukiaj48dhd.jpg' alt='100+] Moving Naruto Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1435">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/moving-naruto-blades-q13uhwukiaj48dhd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Naruto / Sasuke">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/af/e9/b5/afe9b5fd9e1aa9fb531de5edc4181b22.gif' alt='Steam Workshop::Naruto / Sasuke'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/af/e9/b5/afe9b5fd9e1aa9fb531de5edc4181b22.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto Animated Wallpaper GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/d4tm_FVkxNoAAAAe/dripdop.png' alt='Naruto Animated Wallpaper GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/d4tm_FVkxNoAAAAe/dripdop.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="220+ Naruto Live Wallpapers 4K & HD">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/i/c/364x205/media/5096/kakashi-hatake-naruto.jpg' alt='220+ Naruto Live Wallpapers 4K & HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="364">
+                                <meta itemprop="height" content="205">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/i/c/364x205/media/5096/kakashi-hatake-naruto.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moving Naruto Blue Stars Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/moving-naruto-blue-stars-n7idiey586ig7az1.jpg' alt='Moving Naruto Blue Stars Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/moving-naruto-blue-stars-n7idiey586ig7az1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animated Wallpaper of Naruto :)">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/gsX7JXiFv-oZEHwPkOa3Yh7WYyc93e6JqW61NhKuR8I.png?format=pjpg&auto=webp&s=c83c1a216d797d3a19ecf9895dc1ebd0442a38c8' alt='Animated Wallpaper of Naruto :)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1264">
+                                <meta itemprop="height" content="678">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/gsX7JXiFv-oZEHwPkOa3Yh7WYyc93e6JqW61NhKuR8I.png?format=pjpg&auto=webp&s=c83c1a216d797d3a19ecf9895dc1ebd0442a38c8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Live Wallpaper 4K Naruto Baryon Mode">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/O_U8MVWO290/maxresdefault.jpg' alt='Live Wallpaper 4K Naruto Baryon Mode'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/O_U8MVWO290/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Naruto Animated Wallpaper GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/W8L_FDlL4PcAAAAM/naruto-sage-mode.gif' alt='Naruto Animated Wallpaper GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/W8L_FDlL4PcAAAAM/naruto-sage-mode.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moving Naruto Minato Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/moving-naruto-minato-0kgey6f2qtml59sz.jpg' alt='Moving Naruto Minato Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/moving-naruto-minato-0kgey6f2qtml59sz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

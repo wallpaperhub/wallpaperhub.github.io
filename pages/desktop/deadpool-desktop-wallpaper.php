@@ -1,0 +1,129 @@
+<title>Ultimate Deadpool Desktop Wallpaper Collection</title>
+                    <meta name="description" content="Explore a stunning selection of Deadpool desktop wallpapers! Perfect for fans of the iconic character, these high-quality images bring the humor and action to your screen. Download your favorite designs and showcase your love for Deadpool today!">
+                    <meta name="keywords" content="deadpool desktop wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/deadpool-desktop-wallpaper">
+                            <span itemprop="name">deadpool desktop wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ultimate Deadpool Desktop Wallpaper Collection</h1>
+                <p>Transform your desktop with vibrant Deadpool wallpapers that showcase the iconic anti-hero's charm and humor. From action-packed scenes to artistic depictions, find the perfect image that reflects your love for this unconventional hero. Download high-quality wallpapers today and add a touch of Deadpool's wit to your screen!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Deadpool Wallpapers (38 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/c/e/0/51723-1920x1080-desktop-1080p-deadpool-wallpaper.jpg' alt='Deadpool Wallpapers (38 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/c/e/0/51723-1920x1080-desktop-1080p-deadpool-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Deadpool Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/deadpool-tzhfez1w8ud2z8aw.jpg' alt='200+] Deadpool Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/deadpool-tzhfez1w8ud2z8aw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Cool Deadpool Wallpapers - Wallpaperboat">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/95/45/4a/95454a0bfb23e0ef73a1533f13c4c980.jpg' alt='30 Cool Deadpool Wallpapers - Wallpaperboat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/95/45/4a/95454a0bfb23e0ef73a1533f13c4c980.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Deadpool by BlueTechWizard">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/135/thumb-350-1350862.webp' alt='Deadpool by BlueTechWizard'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="219">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/135/thumb-350-1350862.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Deadpool Wallpapers HD - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/43/5d/19/435d19c054049a106958e59a4ca30b05.jpg' alt='Deadpool Wallpapers HD - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/43/5d/19/435d19c054049a106958e59a4ca30b05.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Love Deadpool Desktop Background">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/backgrounds/desktop-backgrounds/images/love-deadpool-desktop-background.jpg' alt='Love Deadpool Desktop Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/backgrounds/desktop-backgrounds/images/love-deadpool-desktop-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7456903-4k-deadpool-desktop-wallpaper by 1trypleA on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f47613ce-17e1-4a8a-bdc4-93dd33c7271e/dhuqgoz-7ff020b8-4a44-4b42-9aa7-14653424a07a.jpg/v1/fill/w_1920,h_1080,q_75,strp/7456903_4k_deadpool_desktop_wallpaper_by_1tryplea_dhuqgoz-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcL2Y0NzYxM2NlLTE3ZTEtNGE4YS1iZGM0LTkzZGQzM2M3MjcxZVwvZGh1cWdvei03ZmYwMjBiOC00YTQ0LTRiNDItOWFhNy0xNDY1MzQyNGEwN2EuanBnIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.ISy-bHjEhmL_3EIf2MZv6_LezD5qJrtyRr299m2ult0' alt='7456903-4k-deadpool-desktop-wallpaper by 1trypleA on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f47613ce-17e1-4a8a-bdc4-93dd33c7271e/dhuqgoz-7ff020b8-4a44-4b42-9aa7-14653424a07a.jpg/v1/fill/w_1920,h_1080,q_75,strp/7456903_4k_deadpool_desktop_wallpaper_by_1tryplea_dhuqgoz-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcL2Y0NzYxM2NlLTE3ZTEtNGE4YS1iZGM0LTkzZGQzM2M3MjcxZVwvZGh1cWdvei03ZmYwMjBiOC00YTQ0LTRiNDItOWFhNy0xNDY1MzQyNGEwN2EuanBnIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.ISy-bHjEhmL_3EIf2MZv6_LezD5qJrtyRr299m2ult0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Deadpool Wallpaper for PC - Heroscreen | Free image stock ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/a/AVvXsEgMUcrClMD42BIidP5bUxgKRmFkgBkHJgNW0vQW8XgS3BZLTr99OrYPoUXw9KNDSB6-mPsa3oonbNeaZ8jLS6OXRRJiwUWee_Mi0ADl41FoxSz0_xv0a58m6qXJGx0dECkBOn9KV9cqJQe5-uwBVRlnccumjhk_URErdFw2s9wcrAqL3g3-xO28yL0OD9s=s1120-rw' alt='Deadpool Wallpaper for PC - Heroscreen | Free image stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1120">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/a/AVvXsEgMUcrClMD42BIidP5bUxgKRmFkgBkHJgNW0vQW8XgS3BZLTr99OrYPoUXw9KNDSB6-mPsa3oonbNeaZ8jLS6OXRRJiwUWee_Mi0ADl41FoxSz0_xv0a58m6qXJGx0dECkBOn9KV9cqJQe5-uwBVRlnccumjhk_URErdFw2s9wcrAqL3g3-xO28yL0OD9s=s1120-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Deadpool Poking Thanos Hd Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/deadpool-poking-thanos-hd-wvpsz2ors8rzlrdn.jpg' alt='Deadpool Poking Thanos Hd Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/deadpool-poking-thanos-hd-wvpsz2ors8rzlrdn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Comic Deadpool 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/991/991351.jpg' alt='Download Comic Deadpool 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/991/991351.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

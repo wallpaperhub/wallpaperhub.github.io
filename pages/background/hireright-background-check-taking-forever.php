@@ -1,0 +1,129 @@
+<title>Why Is Your HireRight Background Check Taking Forever?</title>
+                    <meta name="description" content="Discover the reasons behind prolonged HireRight background checks. Understand the common delays and find out how to speed up the process, ensuring a smoother hiring experience. Stay informed and proactive during your job application journey!">
+                    <meta name="keywords" content="hireright background check taking forever">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/hireright-background-check-taking-forever">
+                            <span itemprop="name">hireright background check taking forever</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Why Is Your HireRight Background Check Taking Forever?</h1>
+                <p>Hiring through HireRight can sometimes feel like an endless wait. Numerous applicants have faced delays in background checks, leaving them anxious about their job prospects. Various factors, including incomplete information and high request volumes, can contribute to these hold-ups. Staying informed and proactive is vital to navigate this process.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HireRight background is literally taking FOREVER t... | Fishbowl">
+                                <img itemprop="contentUrl url" src='https://files.getfishbowl.com/content_preview_images/hireright-background-is-literally-taking-forever-to-get-my-court-records-note-theyre-100-clean-ive-lived-in-one-statecounty-my.png' alt='HireRight background is literally taking FOREVER t... | Fishbowl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fishbowl" />
+                                </span>
+                                <a href='https://files.getfishbowl.com/content_preview_images/hireright-background-is-literally-taking-forever-to-get-my-court-records-note-theyre-100-clean-ive-lived-in-one-statecounty-my.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thanks for the help Hireright..... : r/recruitinghell">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/64o4QZUNmQaTMsUOOv5De8tTouVpjIEirZdDqG6b4dk.png?auto=webp&s=6c2e4c4bc450bc19145e67914a624c77dd9b67b3' alt='Thanks for the help Hireright..... : r/recruitinghell'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2409">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/64o4QZUNmQaTMsUOOv5De8tTouVpjIEirZdDqG6b4dk.png?auto=webp&s=6c2e4c4bc450bc19145e67914a624c77dd9b67b3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background check | HireRight : r/overemployed">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/background-check-hireright-v0-vqwbw0lrbc1e1.jpeg?auto=webp&s=cfc11ec8198071afc218360ddbde622efb8f7ff3' alt='Background check | HireRight : r/overemployed'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1839">
+                                <meta itemprop="height" content="1799">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/background-check-hireright-v0-vqwbw0lrbc1e1.jpeg?auto=webp&s=cfc11ec8198071afc218360ddbde622efb8f7ff3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HireRight experience (spoiler; it was bad)">
+                                <img itemprop="contentUrl url" src='https://blog.rfox.eu/en/Stories/HireRight_experience_spoiler_it_was_bad/screenshot_2021-11-17_at_09.39.24.png' alt='HireRight experience (spoiler; it was bad)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="950">
+                                <meta itemprop="height" content="747">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bystroushaak's blog" />
+                                </span>
+                                <a href='https://blog.rfox.eu/en/Stories/HireRight_experience_spoiler_it_was_bad/screenshot_2021-11-17_at_09.39.24.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HireRight experience (spoiler; it was bad)">
+                                <img itemprop="contentUrl url" src='https://blog.rfox.eu/en/Stories/HireRight_experience_spoiler_it_was_bad/screenshot_2021-11-17_at_08.32.30.png' alt='HireRight experience (spoiler; it was bad)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="943">
+                                <meta itemprop="height" content="690">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bystroushaak's blog" />
+                                </span>
+                                <a href='https://blog.rfox.eu/en/Stories/HireRight_experience_spoiler_it_was_bad/screenshot_2021-11-17_at_08.32.30.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Did I pass my hire right background check ? : r/recruitinghell">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/did-i-pass-my-hire-right-background-check-v0-o7a7wj39xmgc1.jpeg?auto=webp&s=833703488df9699cf6a8a43aa44be92c2e956de7' alt='Did I pass my hire right background check ? : r/recruitinghell'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/did-i-pass-my-hire-right-background-check-v0-o7a7wj39xmgc1.jpeg?auto=webp&s=833703488df9699cf6a8a43aa44be92c2e956de7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How long did your HireRight background check took ... | Fishbowl">
+                                <img itemprop="contentUrl url" src='https://files.getfishbowl.com/content_preview_images/how-long-did-your-hireright-background-check-took-for-bcg-ca-anyone-who-has-recently-go-through-it-share-experience.png' alt='How long did your HireRight background check took ... | Fishbowl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fishbowl" />
+                                </span>
+                                <a href='https://files.getfishbowl.com/content_preview_images/how-long-did-your-hireright-background-check-took-for-bcg-ca-anyone-who-has-recently-go-through-it-share-experience.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HireRight experience (spoiler; it was bad)">
+                                <img itemprop="contentUrl url" src='https://blog.rfox.eu/en/Stories/HireRight_experience_spoiler_it_was_bad/screenshot_2021-11-17_at_09.36.54.png' alt='HireRight experience (spoiler; it was bad)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="981">
+                                <meta itemprop="height" content="870">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bystroushaak's blog" />
+                                </span>
+                                <a href='https://blog.rfox.eu/en/Stories/HireRight_experience_spoiler_it_was_bad/screenshot_2021-11-17_at_09.36.54.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HireRight experience (spoiler; it was bad)">
+                                <img itemprop="contentUrl url" src='https://blog.rfox.eu/en/Stories/HireRight_experience_spoiler_it_was_bad/signal-2021-11-23-194445.jpeg' alt='HireRight experience (spoiler; it was bad)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bystroushaak's blog" />
+                                </span>
+                                <a href='https://blog.rfox.eu/en/Stories/HireRight_experience_spoiler_it_was_bad/signal-2021-11-23-194445.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Was Your HireRight Background Check Wrong? We Can Help!">
+                                <img itemprop="contentUrl url" src='https://consumerattorneys.com/media/blog/65f84d0ece638.webp' alt='Was Your HireRight Background Check Wrong? We Can Help!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Consumer Attorneys" />
+                                </span>
+                                <a href='https://consumerattorneys.com/media/blog/65f84d0ece638.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

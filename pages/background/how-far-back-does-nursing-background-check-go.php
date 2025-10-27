@@ -1,0 +1,129 @@
+<title>Understanding Nursing Background Checks: Duration and Details</title>
+                    <meta name="description" content="Explore how far back nursing background checks go, including legal guidelines and employer practices. Get insights into what factors are considered to ensure a safe healthcare environment for patients and professionals alike.">
+                    <meta name="keywords" content="how far back does nursing background check go">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/how-far-back-does-nursing-background-check-go">
+                            <span itemprop="name">how far back does nursing background check go</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Nursing Background Checks: Duration and Details</h1>
+                <p>Nursing background checks typically go back 5 to 10 years, depending on state regulations and employer policies. They may include criminal records, employment history, and any professional license verification. For accurate insights, it's essential to understand local laws and the standards set by healthcare organizations.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Far Back Does a Background Check Go? | Checkr">
+                                <img itemprop="contentUrl url" src='https://a-us.storyblok.com/f/1014904/22e49dea81/checkr-web-article-how-far-back-do-bcg-go-1.webp/m/' alt='How Far Back Does a Background Check Go? | Checkr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr" />
+                                </span>
+                                <a href='https://a-us.storyblok.com/f/1014904/22e49dea81/checkr-web-article-how-far-back-do-bcg-go-1.webp/m/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Far Back Does a Background Check Go? [A 2-Minute Guide]">
+                                <img itemprop="contentUrl url" src='https://trinity-core.s3.us-west-1.amazonaws.com/techjury/assets/6513eeb040f53.png' alt='How Far Back Does a Background Check Go? [A 2-Minute Guide]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TechJury" />
+                                </span>
+                                <a href='https://trinity-core.s3.us-west-1.amazonaws.com/techjury/assets/6513eeb040f53.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Long Does a Background Check Go Back? - JusticeArch">
+                                <img itemprop="contentUrl url" src='https://www.justicearch.com/articles/how-long-does-a-background-check-go-back/background-check-types-and-their-lookback-periods/' alt='How Long Does a Background Check Go Back? - JusticeArch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JusticeArch" />
+                                </span>
+                                <a href='https://www.justicearch.com/articles/how-long-does-a-background-check-go-back/background-check-types-and-their-lookback-periods/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Far Back Do Background Checks Go? | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/22a2a3d2e867f51a384eddcc6b74e6cb/How-Far-Back-Checks-Go.png' alt='How Far Back Do Background Checks Go? | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/22a2a3d2e867f51a384eddcc6b74e6cb/How-Far-Back-Checks-Go.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nursing Background Check: A Complete Guide [2025] - iprospectcheck">
+                                <img itemprop="contentUrl url" src='https://iprospectcheck.com/wp-content/uploads/2022/06/nurse-background-check.jpg' alt='Nursing Background Check: A Complete Guide [2025] - iprospectcheck'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iprospectcheck" />
+                                </span>
+                                <a href='https://iprospectcheck.com/wp-content/uploads/2022/06/nurse-background-check.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Complete Guide To Nursing Background Checks | GoodHire">
+                                <img itemprop="contentUrl url" src='https://www.goodhire.com/static/e94d169e35f324a6d4fc431f25990607/Article-Nursing-Background-Checks-1024x444-1.png' alt='Complete Guide To Nursing Background Checks | GoodHire'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="444">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodHire" />
+                                </span>
+                                <a href='https://www.goodhire.com/static/e94d169e35f324a6d4fc431f25990607/Article-Nursing-Background-Checks-1024x444-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nursing Background Checks: The Complete Guide | Checkr">
+                                <img itemprop="contentUrl url" src='https://a-us.storyblok.com/f/1014904/2b68e827ad/checkr-web-article-guide-to-nursing-background-checks-featured-image.webp/m/' alt='Nursing Background Checks: The Complete Guide | Checkr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Checkr" />
+                                </span>
+                                <a href='https://a-us.storyblok.com/f/1014904/2b68e827ad/checkr-web-article-guide-to-nursing-background-checks-featured-image.webp/m/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nursing Background Check Requirements: What You Need to Know">
+                                <img itemprop="contentUrl url" src='https://blog.cisive.com/hs-fs/hubfs/Blog%20Callouts/Nursing%202.png?width=650&height=365&name=Nursing%202.png' alt='Nursing Background Check Requirements: What You Need to Know'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cisive Blog" />
+                                </span>
+                                <a href='https://blog.cisive.com/hs-fs/hubfs/Blog%20Callouts/Nursing%202.png?width=650&height=365&name=Nursing%202.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smart'n | The GPT for nurses">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/637bd81f353aff5ba6055ae9/78560e78-94ea-4dd2-88b8-1801b7e0bcab/Nursing+Background+Check+Includings.png' alt='Smart'n | The GPT for nurses'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Smart'n | The GPT for nurses" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/637bd81f353aff5ba6055ae9/78560e78-94ea-4dd2-88b8-1801b7e0bcab/Nursing+Background+Check+Includings.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Importance of Thorough Travel Nurse Background Checks ...">
+                                <img itemprop="contentUrl url" src='https://theraexstaffing.com/wp-content/uploads/2023/09/Travel-Nurse-background-checks.png' alt='The Importance of Thorough Travel Nurse Background Checks ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TheraEx Staffing" />
+                                </span>
+                                <a href='https://theraexstaffing.com/wp-content/uploads/2023/09/Travel-Nurse-background-checks.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Custom UT Austin LinkedIn Banners: Stand Out Online</title>
+                    <meta name="description" content="Explore creative LinkedIn banner ideas inspired by UT Austin. Learn how to design a standout banner that reflects your unique journey and professional aspirations. Boost your profile visibility and leave a lasting impression with a personalized touch that showcases your connection to UT Austin.">
+                    <meta name="keywords" content="ut austin linkedin banner">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ut-austin-linkedin-banner">
+                            <span itemprop="name">ut austin linkedin banner</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Custom UT Austin LinkedIn Banners: Stand Out Online</h1>
+                <p>Elevate your professional presence with a custom LinkedIn banner reflecting your journey at UT Austin. Showcase your school's colors, emblem, or iconic landmarks to stand out on the platform. A well-designed banner not only grabs attention but also serves as a canvas for your aspirations and achievements. Let your banner tell your UT story!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="UT Austin Twitter Header Photo | UT Austin Twitter Header Ph… | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/3912/14767533067_ca50506bfc_b.jpg' alt='UT Austin Twitter Header Photo | UT Austin Twitter Header Ph… | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1023">
+                                <meta itemprop="height" content="341">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/3912/14767533067_ca50506bfc_b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jobs | UT iSchool">
+                                <img itemprop="contentUrl url" src='https://ischool.utexas.edu/sites/default/files/styles/utexas_image_style_1600w/public/2022-06/UT_Campus_Randall_Ford_2.jpg.webp?itok=SInKo03B' alt='Jobs | UT iSchool'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="557">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UT iSchool - University of Texas at Austin" />
+                                </span>
+                                <a href='https://ischool.utexas.edu/sites/default/files/styles/utexas_image_style_1600w/public/2022-06/UT_Campus_Randall_Ford_2.jpg.webp?itok=SInKo03B' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="UT Austin Facebook Cover Photo | UT Austin Facebook Cover Ph… | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/5561/14767404468_ec7da430de_c.jpg' alt='UT Austin Facebook Cover Photo | UT Austin Facebook Cover Ph… | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/5561/14767404468_ec7da430de_c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Angela Nelson - The University of Texas at Austin | LinkedIn">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/D4D16AQFvrbVPXrnU8A/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1686773448223?e=2147483647&v=beta&t=wp68NamIldYa-kAHP28zsJk-FAYxbZxqLO9F8rzFneI' alt='Angela Nelson - The University of Texas at Austin | LinkedIn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/D4D16AQFvrbVPXrnU8A/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1686773448223?e=2147483647&v=beta&t=wp68NamIldYa-kAHP28zsJk-FAYxbZxqLO9F8rzFneI' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The University of Texas at Austin Funcionários, localidade, ex ...">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/D563DAQHGoRCS_duhOw/image-scale_191_1128/image-scale_191_1128/0/1688153927548/theuniversityoftexasataustin__cover?e=2147483647&v=beta&t=_yqaPyaxTfTN4eKhAljMLfEldXeH5xsyylDvTa5LgRA' alt='The University of Texas at Austin Funcionários, localidade, ex ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1128">
+                                <meta itemprop="height" content="191">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/D563DAQHGoRCS_duhOw/image-scale_191_1128/image-scale_191_1128/0/1688153927548/theuniversityoftexasataustin__cover?e=2147483647&v=beta&t=_yqaPyaxTfTN4eKhAljMLfEldXeH5xsyylDvTa5LgRA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Huy Nguyen - Department of Statistics and Data Sciences, The ...">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/C5616AQGesorqU_ZpiQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1668661395804?e=2147483647&v=beta&t=GG36M7w_NNB6LZXmzK6Bwz6PBH_Q8eCmxH5XV9sh9Pg' alt='Huy Nguyen - Department of Statistics and Data Sciences, The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="798">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/C5616AQGesorqU_ZpiQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1668661395804?e=2147483647&v=beta&t=GG36M7w_NNB6LZXmzK6Bwz6PBH_Q8eCmxH5XV9sh9Pg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="UT Austin Facebook Cover Photo | UT Austin Facebook Cover Ph… | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/5470/9627383721_9f4b809956_c.jpg' alt='UT Austin Facebook Cover Photo | UT Austin Facebook Cover Ph… | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/5470/9627383721_9f4b809956_c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Center for Transportation Research at UT Austin | LinkedIn">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/C561BAQFJ4zN4Bg_Cig/company-background_10000/company-background_10000/0/1584036266529/center_for_transportation_research_at_ut_austin_cover?e=2147483647&v=beta&t=AViuL2uibOgsKP6gFBAhpsEZanZm5Hjk3uyJBGD0L7c' alt='Center for Transportation Research at UT Austin | LinkedIn'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1660">
+                                <meta itemprop="height" content="831">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/C561BAQFJ4zN4Bg_Cig/company-background_10000/company-background_10000/0/1584036266529/center_for_transportation_research_at_ut_austin_cover?e=2147483647&v=beta&t=AViuL2uibOgsKP6gFBAhpsEZanZm5Hjk3uyJBGD0L7c' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ayush B. - Austin, Texas, United States | Professional Profile ...">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/v2/D5616AQHu16MrDdF2cg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1723075102208?e=2147483647&v=beta&t=tUfbogiWhr-xHjntu_mwa7HHyf7yC7EVK9H0YVPRXRg' alt='Ayush B. - Austin, Texas, United States | Professional Profile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/v2/D5616AQHu16MrDdF2cg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1723075102208?e=2147483647&v=beta&t=tUfbogiWhr-xHjntu_mwa7HHyf7yC7EVK9H0YVPRXRg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Does UT Mean to Austin? – The Baines Report">
+                                <img itemprop="contentUrl url" src='https://sites.utexas.edu/bainesreport/files/2021/11/ethicsbannerupdate.png' alt='What Does UT Mean to Austin? – The Baines Report'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="870">
+                                <meta itemprop="height" content="385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="University of Texas at Austin" />
+                                </span>
+                                <a href='https://sites.utexas.edu/bainesreport/files/2021/11/ethicsbannerupdate.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

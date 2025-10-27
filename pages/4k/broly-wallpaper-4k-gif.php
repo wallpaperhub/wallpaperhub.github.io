@@ -1,0 +1,129 @@
+<title>Epic Broly 4K Wallpapers & GIFs for Your Device</title>
+                    <meta name="description" content="Explore an amazing selection of Broly 4K wallpapers and GIFs! Perfect for Dragon Ball fans, our collection includes stunning visuals that enhance your device's look. Download dynamic and high-resolution backgrounds featuring the iconic Saiyan warrior today!">
+                    <meta name="keywords" content="broly wallpaper 4k gif">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/broly-wallpaper-4k-gif">
+                            <span itemprop="name">broly wallpaper 4k gif</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Broly 4K Wallpapers & GIFs for Your Device</h1>
+                <p>Discover stunning Broly wallpaper in 4K resolution and mesmerizing GIFs that bring the legendary Saiyan to life! Our collection features vibrant animations and detailed images, perfect for fans of Dragon Ball. Customize your device with dynamic backgrounds, showcasing Broly’s unparalleled power and iconic moments in stunning clarity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broly Gif - IceGif">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/7b/ed/db/7beddbdae3f6dd011c20802a837ebf6f.gif' alt='Broly Gif - IceGif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/7b/ed/db/7beddbdae3f6dd011c20802a837ebf6f.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broly GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/X-s0ozfP1IIAAAAM/broly.gif' alt='Broly GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/X-s0ozfP1IIAAAAM/broly.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13 Dragon ball Super Broly Gif ideas | dragon ball super, dragon ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/7c/f5/4e/7cf54e9fe9105c10f0897da47a022d91.gif' alt='13 Dragon ball Super Broly Gif ideas | dragon ball super, dragon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/7c/f5/4e/7cf54e9fe9105c10f0897da47a022d91.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broly GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/WuDX7u6Y_GgAAAAM/anime-sragon-ball-super.gif' alt='Broly GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="124">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/WuDX7u6Y_GgAAAAM/anime-sragon-ball-super.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Ball Super Broly GIF - Dragon Ball Super Broly Charge ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/fd/8e/58/fd8e585e189b5b1eea243dd0c4f84609.gif' alt='Dragon Ball Super Broly GIF - Dragon Ball Super Broly Charge ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="257">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/fd/8e/58/fd8e585e189b5b1eea243dd0c4f84609.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broly Dbs GIF - Broly DBS DBZ - Discover & Share GIFs">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/91/c4/16/91c41654725942958e1f96d04fdd71e2.gif' alt='Broly Dbs GIF - Broly DBS DBZ - Discover & Share GIFs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/91/c4/16/91c41654725942958e1f96d04fdd71e2.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broly Gif - IceGif">
+                                <img itemprop="contentUrl url" src='https://www.icegif.com/wp-content/uploads/2022/09/icegif-1048.gif' alt='Broly Gif - IceGif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IceGif" />
+                                </span>
+                                <a href='https://www.icegif.com/wp-content/uploads/2022/09/icegif-1048.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broly Gif - IceGif">
+                                <img itemprop="contentUrl url" src='https://www.icegif.com/wp-content/uploads/2022/03/icegif-890.gif' alt='Broly Gif - IceGif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IceGif" />
+                                </span>
+                                <a href='https://www.icegif.com/wp-content/uploads/2022/03/icegif-890.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Broly: The Legendary Super Saiyan">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/933811471720037600/FF63F7095F6EF6D7FF850AFF50E0E404877BB692/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::Broly: The Legendary Super Saiyan'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="334">
+                                <meta itemprop="height" content="334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/933811471720037600/FF63F7095F6EF6D7FF850AFF50E0E404877BB692/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gogeta Vs Broly 4K UHD + HDR on Make a GIF">
+                                <img itemprop="contentUrl url" src='https://i.makeagif.com/media/7-13-2021/62eKk8.gif' alt='Gogeta Vs Broly 4K UHD + HDR on Make a GIF'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Make A Gif" />
+                                </span>
+                                <a href='https://i.makeagif.com/media/7-13-2021/62eKk8.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

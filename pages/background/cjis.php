@@ -1,0 +1,129 @@
+<title>Understanding CJIS: Your Guide to Criminal Justice Information</title>
+                    <meta name="description" content="Discover the essentials of the Criminal Justice Information Services (CJIS) Division. Learn how this FBI branch supports law enforcement with vital information and tools for crime prevention and investigation. Optimize your knowledge for effective engagement with criminal justice data.">
+                    <meta name="keywords" content="cjis">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cjis">
+                            <span itemprop="name">cjis</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding CJIS: Your Guide to Criminal Justice Information</h1>
+                <p>The Criminal Justice Information Services (CJIS) Division is a critical component of the FBI, managing the nation’s criminal justice data. It provides valuable information to law enforcement agencies, ensuring efficient crime-solving and public safety. CJIS encompasses a range of services, including background checks, fingerprinting, and crime statistics analysis.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Criminal Justice Information Services (CJIS) | Secureframe ...">
+                                <img itemprop="contentUrl url" src='https://images.prismic.io/secureframe-com/7019b8bc-63d3-4a3b-898d-2239ed3829f6_CJIS-500-500-2.jpeg?auto=compress,format' alt='Criminal Justice Information Services (CJIS) | Secureframe ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="503">
+                                <meta itemprop="height" content="502">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Secureframe" />
+                                </span>
+                                <a href='https://images.prismic.io/secureframe-com/7019b8bc-63d3-4a3b-898d-2239ed3829f6_CJIS-500-500-2.jpeg?auto=compress,format' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Criminal Justice Information Services - Login">
+                                <img itemprop="contentUrl url" src='https://www.cjis.gov/static/assets/img/CJIS_small.png' alt='Criminal Justice Information Services - Login'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.cjis.gov" />
+                                </span>
+                                <a href='https://www.cjis.gov/static/assets/img/CJIS_small.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cybersecurity Month Series: The CJIS Security Policy Was Just ...">
+                                <img itemprop="contentUrl url" src='https://mark43.com/wp-content/uploads/Thumbnail_Blog1.png' alt='Cybersecurity Month Series: The CJIS Security Policy Was Just ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="627">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mark43" />
+                                </span>
+                                <a href='https://mark43.com/wp-content/uploads/Thumbnail_Blog1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is CJIS Compliance? And How to Comply with It">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/628b7f5be8fdd0031d2ebcb0/67894bb11ceb4ee8724e439b_CJIS.jpg' alt='What is CJIS Compliance? And How to Comply with It'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redactable" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/628b7f5be8fdd0031d2ebcb0/67894bb11ceb4ee8724e439b_CJIS.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Certifications Held by Our Managed IT Team | Bit-Wizards | Bit-Wizards">
+                                <img itemprop="contentUrl url" src='https://bitwizards.com/BitWizards/media/Blogs/2022_08/OurMITCertifications/Content-Image-1-min.png' alt='Certifications Held by Our Managed IT Team | Bit-Wizards | Bit-Wizards'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bit-Wizards" />
+                                </span>
+                                <a href='https://bitwizards.com/BitWizards/media/Blogs/2022_08/OurMITCertifications/Content-Image-1-min.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CJIS Compliance and Video Security – What You Need to Know | Blog">
+                                <img itemprop="contentUrl url" src='https://rhombus.com/img/cjis-compliance-hero-image.png' alt='CJIS Compliance and Video Security – What You Need to Know | Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rhombus" />
+                                </span>
+                                <a href='https://rhombus.com/img/cjis-compliance-hero-image.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cloud Storage and CJIS Compliance in the U.S.">
+                                <img itemprop="contentUrl url" src='https://img1.wsimg.com/isteam/ip/e47c58dc-f9fd-4034-aa38-2115a41f4d02/cjis-96dad29.jpg' alt='Cloud Storage and CJIS Compliance in the U.S.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="558">
+                                <meta itemprop="height" content="365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Revo 4n6" />
+                                </span>
+                                <a href='https://img1.wsimg.com/isteam/ip/e47c58dc-f9fd-4034-aa38-2115a41f4d02/cjis-96dad29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Criminal Justice Information Services (CJIS) — FBI">
+                                <img itemprop="contentUrl url" src='https://www.fbi.gov/services/cjis/@@images/image' alt='Criminal Justice Information Services (CJIS) — FBI'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="599">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FBI" />
+                                </span>
+                                <a href='https://www.fbi.gov/services/cjis/@@images/image' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CJIS Compliance: CJIS, CJIS Compliant, CJIS Compliance Cloud, CJIS ...">
+                                <img itemprop="contentUrl url" src='https://www.kiteworks.com/wp-content/uploads/2022/09/CJIS-Compliance-Through-Secure-File-Sharing-for-Mobile-Cloud-based-IT-840x390.jpg' alt='CJIS Compliance: CJIS, CJIS Compliant, CJIS Compliance Cloud, CJIS ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="840">
+                                <meta itemprop="height" content="390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kiteworks" />
+                                </span>
+                                <a href='https://www.kiteworks.com/wp-content/uploads/2022/09/CJIS-Compliance-Through-Secure-File-Sharing-for-Mobile-Cloud-based-IT-840x390.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CJIS Security Policy Webinar – Reviewing v.5.9.4 – May 16th, 2024">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/JNI0Nfn_CJ8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA1P1dwqqPwaTCUjaQSHwwg5oneeQ' alt='CJIS Security Policy Webinar – Reviewing v.5.9.4 – May 16th, 2024'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/JNI0Nfn_CJ8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA1P1dwqqPwaTCUjaQSHwwg5oneeQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

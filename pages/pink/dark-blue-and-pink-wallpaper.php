@@ -1,0 +1,129 @@
+<title>Dark Blue and Pink Wallpaper: Chic Home Decor</title>
+                    <meta name="description" content="Add a stylish twist to your interiors with our dark blue and pink wallpaper. This trendy color combination enhances any room's aesthetic, making it perfect for creating a calm and inviting space. Discover the perfect wallpaper for a contemporary look today!">
+                    <meta name="keywords" content="dark blue and pink wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/dark-blue-and-pink-wallpaper">
+                            <span itemprop="name">dark blue and pink wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dark Blue and Pink Wallpaper: Chic Home Decor</h1>
+                <p>Transform your space with enchanting dark blue and pink wallpaper! This bold combo brings sophistication and vibrancy, creating a serene yet lively atmosphere. Perfect for bedrooms, living rooms, or creative spaces, dark blue and pink offer a striking contrast while maintaining elegance. Elevate your decor today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Meadow Wallpaper in Navy and Pink – I Love Wallpaper">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/1-SummerMeadow-NavyandPink_ILW50373_Thumbnail_WEB_1b74afba-90cf-4742-b437-61f4ce68c8bf.webp?crop=center&height=1024&v=1705932596&width=1024' alt='Summer Meadow Wallpaper in Navy and Pink – I Love Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/1-SummerMeadow-NavyandPink_ILW50373_Thumbnail_WEB_1b74afba-90cf-4742-b437-61f4ce68c8bf.webp?crop=center&height=1024&v=1705932596&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark blue Wallpaper 4K, Pink abstract, Swirl, 5K">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/dark-blue-pink-2732x2732-12661.jpg' alt='Dark blue Wallpaper 4K, Pink abstract, Swirl, 5K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2732">
+                                <meta itemprop="height" content="2732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/dark-blue-pink-2732x2732-12661.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark to Blue and pink gradient by @Ongliong11 on Twitter">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fc/dd/d6/fcddd65d92ef3f60fe73a4ff3a4158aa.jpg' alt='Dark to Blue and pink gradient by @Ongliong11 on Twitter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fc/dd/d6/fcddd65d92ef3f60fe73a4ff3a4158aa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Blue Images – Browse 11,642,005 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/05/30/95/03/360_F_530950374_mvlpCTNz1HCunRneHPOjExhOPSBUqqVt.jpg' alt='Pink Blue Images – Browse 11,642,005 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="639">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/05/30/95/03/360_F_530950374_mvlpCTNz1HCunRneHPOjExhOPSBUqqVt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Navy Blue Wallpaper With Pale Pink Flowers and Tropical ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17404047/r/il/a8be9b/3159425231/il_570xN.3159425231_d0br.jpg' alt='Beautiful Navy Blue Wallpaper With Pale Pink Flowers and Tropical ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="441">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17404047/r/il/a8be9b/3159425231/il_570xN.3159425231_d0br.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="17,800+ Blue Pink Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1491344667/vector/blue-and-pink-abstract-blurred-cloudy-background.jpg?s=612x612&w=0&k=20&c=vRM87uuHX90NTTLjUStIoso527ZZKACawl22VbpHoMY=' alt='17,800+ Blue Pink Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1491344667/vector/blue-and-pink-abstract-blurred-cloudy-background.jpg?s=612x612&w=0&k=20&c=vRM87uuHX90NTTLjUStIoso527ZZKACawl22VbpHoMY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue And Pink Smoke Images – Browse 408,992 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/60/07/86/360_F_260078608_hjr89nGjcv2NpDQHQGWsvsSaGuN377sf.jpg' alt='Blue And Pink Smoke Images – Browse 408,992 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/60/07/86/360_F_260078608_hjr89nGjcv2NpDQHQGWsvsSaGuN377sf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Pink Blue Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/abstract-background_955080-718.jpg?semt=ais_hybrid' alt='Dark Pink Blue Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/abstract-background_955080-718.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Blue Wallpaper With Pink Flowers Floral Tile">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/68270600/resize-h755-w755%5Ecompr-r85/1927/192733914/Dark+Blue+Wallpaper+With+Pink+Flowers+Floral+Tile.jpg' alt='Dark Blue Wallpaper With Pink Flowers Floral Tile'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="755">
+                                <meta itemprop="height" content="755">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wayfair" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/68270600/resize-h755-w755%5Ecompr-r85/1927/192733914/Dark+Blue+Wallpaper+With+Pink+Flowers+Floral+Tile.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink & Dark Blue Gradient">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/d3/66/c0/d366c0526d43c8153352827c57f4d92c.jpg' alt='Pink & Dark Blue Gradient'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/d3/66/c0/d366c0526d43c8153352827c57f4d92c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

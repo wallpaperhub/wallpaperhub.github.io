@@ -1,0 +1,129 @@
+<title>Stunning Passover Wallpaper for Your Digital Celebrations</title>
+                    <meta name="description" content="Discover beautiful Passover wallpaper designs to enhance your digital devices. Perfect for celebrating the holiday, our wallpapers feature iconic symbols of Passover, ensuring you stay connected to your traditions. Download now and brighten your screen with festive spirit!">
+                    <meta name="keywords" content="passover wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/passover-wallpaper">
+                            <span itemprop="name">passover wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Passover Wallpaper for Your Digital Celebrations</h1>
+                <p>Your Passover wallpaper is a perfect way to celebrate this meaningful holiday! Brighten your digital space with stunning designs featuring traditional symbols like matzah, menorahs, and seder plates. Whether for your phone or computer, these wallpapers will enhance your festive spirit and keep the traditions alive all year round!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pesach Images – Browse 116,094 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/51/02/12/360_F_251021237_FyS8aDfJ5cST8vtPvKtCfCUgWPTg0uQ6.jpg' alt='Pesach Images – Browse 116,094 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/51/02/12/360_F_251021237_FyS8aDfJ5cST8vtPvKtCfCUgWPTg0uQ6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Passover Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/passover-bjcoj6rx2mfl4npi.jpg' alt='100+] Passover Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/passover-bjcoj6rx2mfl4npi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Passover Seder Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/006/199/705/non_2x/pesach-celebration-concept-jewish-holiday-pesach-matzah-on-traditional-seder-plate-with-bottle-of-red-wine-glass-of-wine-and-nuts-on-wooden-background-and-the-inscription-passover-photo.jpg' alt='Passover Seder Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1324">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/006/199/705/non_2x/pesach-celebration-concept-jewish-holiday-pesach-matzah-on-traditional-seder-plate-with-bottle-of-red-wine-glass-of-wine-and-nuts-on-wooden-background-and-the-inscription-passover-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Passover Images – Browse 116,558 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/28/30/91/360_F_328309162_jK1J24ipwZBFjJGCfa4p2wYe2kgRDOmn.jpg' alt='Passover Images – Browse 116,558 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/28/30/91/360_F_328309162_jK1J24ipwZBFjJGCfa4p2wYe2kgRDOmn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="47+ Best Happy Passover Images 2023, Pictures, Photos, HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/51/3a/91/513a91b193f1c0ac73bcf53b3c65675f.jpg' alt='47+ Best Happy Passover Images 2023, Pictures, Photos, HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="415">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/51/3a/91/513a91b193f1c0ac73bcf53b3c65675f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Matzo, Matzoth for Jewish Passover, Wooden ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/matzo-matzoth-jewish-passover-wooden-background-close-up_93675-120370.jpg' alt='Premium Photo | Matzo, Matzoth for Jewish Passover, Wooden ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/matzo-matzoth-jewish-passover-wooden-background-close-up_93675-120370.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15,854 Background Passover Stock Photos - Free & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/flat-lay-composition-matzo-flowers-wooden-background-space-text-passover-pesach-seder-flat-lay-composition-matzo-140614976.jpg' alt='15,854 Background Passover Stock Photos - Free & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/flat-lay-composition-matzo-flowers-wooden-background-space-text-passover-pesach-seder-flat-lay-composition-matzo-140614976.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christ Our Passover Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/white-passover-aesthetic-tagxs86szehh15pl.webp' alt='Christ Our Passover Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="195">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/white-passover-aesthetic-tagxs86szehh15pl.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Passover Images – Browse 19,033 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/32/19/42/360_F_332194239_id5wTXQ31vTmixkAJO9WCbvJhxG5POBx.jpg' alt='Happy Passover Images – Browse 19,033 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="819">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/32/19/42/360_F_332194239_id5wTXQ31vTmixkAJO9WCbvJhxG5POBx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="47+ Best Happy Passover Images 2023, Pictures, Photos, HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/d0/fc/e8/d0fce86a55acc103d642e158714c2e3e.jpg' alt='47+ Best Happy Passover Images 2023, Pictures, Photos, HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/d0/fc/e8/d0fce86a55acc103d642e158714c2e3e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

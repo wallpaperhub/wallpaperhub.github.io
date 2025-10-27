@@ -1,0 +1,129 @@
+<title>Aesthetic Neon Lock Screen Wallpapers: Brighten Your Device</title>
+                    <meta name="description" content="Discover stunning aesthetic neon lock screen wallpapers that add a burst of color to your device. Perfect for those who love vibrant designs, our selection enhances personalization while providing a modern touch. Explore a variety of styles to match your vibe and make your lock screen truly unique!">
+                    <meta name="keywords" content="aesthetic neon lock screen wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock">
+                            <span itemprop="name">Lock</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock/aesthetic-neon-lock-screen-wallpaper">
+                            <span itemprop="name">aesthetic neon lock screen wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Neon Lock Screen Wallpapers: Brighten Your Device</h1>
+                <p>Aesthetic neon lock screen wallpapers are a vibrant way to personalize your device. These wallpapers blend bold colors and glowing designs, making your screen pop with energy and creativity. With themes ranging from retro to modern, you can express your unique style while often providing a striking contrast to your apps and notifications.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Free Trendy Neon Wallpapers For iPhone (HD Download!)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/dc/71/84/dc71843023bd4b73cbed65ac8932558b.jpg' alt='50 Free Trendy Neon Wallpapers For iPhone (HD Download!)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/dc/71/84/dc71843023bd4b73cbed65ac8932558b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Lock Screen wallpaper by hasaka - Download on ZEDGE™ | 4c0e">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/be/09/f0/be09f018544069dbc334aa48471910d9.jpg' alt='Neon Lock Screen wallpaper by hasaka - Download on ZEDGE™ | 4c0e'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/be/09/f0/be09f018544069dbc334aa48471910d9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Touch Me Funny Lock Screen Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/neon-touch-me-funny-lock-screen-55yti33zzi7b4vbm.jpg' alt='Neon Touch Me Funny Lock Screen Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/neon-touch-me-funny-lock-screen-55yti33zzi7b4vbm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Red Aesthetic Wallpapers For Your Home Screen - NeonGrand">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0716/5086/9563/files/MicrosoftTeams-image-16-1-450x800.jpg' alt='Neon Red Aesthetic Wallpapers For Your Home Screen - NeonGrand'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NeonGrand" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0716/5086/9563/files/MicrosoftTeams-image-16-1-450x800.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="63 Neon Wallpaper ideas | neon wallpaper, neon, aesthetic wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/de/e3/68/dee36877c3d37d900793c697ed1f71fb.jpg' alt='63 Neon Wallpaper ideas | neon wallpaper, neon, aesthetic wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/de/e3/68/dee36877c3d37d900793c697ed1f71fb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Ecg Logo Lock Screen Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/neon-ecg-logo-lock-screen-tc6wa5lzxvh9sn15.jpg' alt='Neon Ecg Logo Lock Screen Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/neon-ecg-logo-lock-screen-tc6wa5lzxvh9sn15.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Meredith Jane on lock screen. Neon, Pink iphone, Hype, Neon Baddie ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/759/87/HD-wallpaper-meredith-jane-on-lock-screen-neon-pink-iphone-hype-neon-baddie.jpg' alt='Meredith Jane on lock screen. Neon, Pink iphone, Hype, Neon Baddie ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/759/87/HD-wallpaper-meredith-jane-on-lock-screen-neon-pink-iphone-hype-neon-baddie.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50 Free Trendy Neon Wallpapers For iPhone (HD Download!)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/d4/f4/a4/d4f4a4999ace1934d55d9cef2e92480b.jpg' alt='50 Free Trendy Neon Wallpapers For iPhone (HD Download!)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/d4/f4/a4/d4f4a4999ace1934d55d9cef2e92480b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download free Rose Black Neon Aesthetic Wallpaper - MrWallpaper.com">
+                                <img itemprop="contentUrl url" src='https://mrwallpaper.com/images/hd/rose-black-neon-aesthetic-gomow2w2zuc0f43t.jpg' alt='Download free Rose Black Neon Aesthetic Wallpaper - MrWallpaper.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrWallpaper" />
+                                </span>
+                                <a href='https://mrwallpaper.com/images/hd/rose-black-neon-aesthetic-gomow2w2zuc0f43t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="daanube - Lock Screen Wallpaper Iphone Aesthetic | Lock Screen ...">
+                                <img itemprop="contentUrl url" src='https://dr.savee-cdn.com/image-fallbacks/original/5/f/8cfe0baaedda77fe290ae2.jpg' alt='daanube - Lock Screen Wallpaper Iphone Aesthetic | Lock Screen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Savee" />
+                                </span>
+                                <a href='https://dr.savee-cdn.com/image-fallbacks/original/5/f/8cfe0baaedda77fe290ae2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

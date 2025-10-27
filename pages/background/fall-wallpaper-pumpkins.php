@@ -1,0 +1,129 @@
+<title>Cozy Fall Pumpkin Wallpaper for Autumn Decor</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="fall wallpaper pumpkins">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fall-wallpaper-pumpkins">
+                            <span itemprop="name">fall wallpaper pumpkins</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cozy Fall Pumpkin Wallpaper for Autumn Decor</h1>
+                <p>Embrace the autumn vibes with fall wallpaper featuring charming pumpkins! Transform your space into a cozy haven with rich hues of orange, gold, and earthy tones. Whether you prefer a whimsical design or a minimalist approach, pumpkin-themed wallpapers add warmth and seasonal joy to any room, making it perfect for the harvest season.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Downloadable Pumpkin Wallpaper — Lily Morello">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5c5b6d69c2ff61712d6f1c8c/1602799007106-7Q7UKX88OBETJ2E1S2LF/LilyMorello_Wallpaper003_PumpkinPatch.JPG' alt='Downloadable Pumpkin Wallpaper — Lily Morello'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2270">
+                                <meta itemprop="height" content="4032">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lily Morello" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5c5b6d69c2ff61712d6f1c8c/1602799007106-7Q7UKX88OBETJ2E1S2LF/LilyMorello_Wallpaper003_PumpkinPatch.JPG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE Fall Phone Wallpapers | Downloads | Love and Specs">
+                                <img itemprop="contentUrl url" src='https://loveandspecs.com/wp-content/uploads/2018/10/Free-Fall-Phone-Wallpaper-Pink-Pumpkins.jpg' alt='FREE Fall Phone Wallpapers | Downloads | Love and Specs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="3764">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love and Specs" />
+                                </span>
+                                <a href='https://loveandspecs.com/wp-content/uploads/2018/10/Free-Fall-Phone-Wallpaper-Pink-Pumpkins.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Pumpkin Images – Browse 2,239,982 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/53/20/07/360_F_453200700_gAJt9pl9VbxiJrHTk7T91gmFfYExwV7h.jpg' alt='Fall Pumpkin Images – Browse 2,239,982 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="539">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/53/20/07/360_F_453200700_gAJt9pl9VbxiJrHTk7T91gmFfYExwV7h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 Cute Autumn Wallpaper Ideas : Pumpkin Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a8/62/b7/a862b73e0c85d1a089d863650a571ea3.jpg' alt='20 Cute Autumn Wallpaper Ideas : Pumpkin Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="567">
+                                <meta itemprop="height" content="1177">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a8/62/b7/a862b73e0c85d1a089d863650a571ea3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Pumpkin Backgrounds Stock Illustrations – 4,436 Fall Pumpkin ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/halloween-jack-o-lantern-pumpkin-fall-autumn-leaves-ai-generative-design-background-instagram-facebook-wall-painting-art-325053462.jpg' alt='Fall Pumpkin Backgrounds Stock Illustrations – 4,436 Fall Pumpkin ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/halloween-jack-o-lantern-pumpkin-fall-autumn-leaves-ai-generative-design-background-instagram-facebook-wall-painting-art-325053462.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="700,900+ Fall Pumpkins Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1277767891/photo/various-fresh-ripe-pumpkins-as-background.jpg?s=612x612&w=0&k=20&c=ze8MF929Kq3uzdYqJOZ06aGSgXT05UgO_ZfUtbmkfNU=' alt='700,900+ Fall Pumpkins Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="337">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1277767891/photo/various-fresh-ripe-pumpkins-as-background.jpg?s=612x612&w=0&k=20&c=ze8MF929Kq3uzdYqJOZ06aGSgXT05UgO_ZfUtbmkfNU=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Pumpkin Desktop Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/44948919/r/il/5d8a5a/5336977813/il_570xN.5336977813_8061.jpg' alt='Fall Pumpkin Desktop Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="321">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/44948919/r/il/5d8a5a/5336977813/il_570xN.5336977813_8061.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pumpkin Parade | Fall wallpaper, Cute fall wallpaper, Fall ...">
+                                <img itemprop="contentUrl url" src='https://d2bzx2vuetkzse.cloudfront.net/unshoppable_producs/7dcf808d-af4a-4f78-a814-352bf70c96f9.jpeg' alt='Pumpkin Parade | Fall wallpaper, Cute fall wallpaper, Fall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1101">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShopLook" />
+                                </span>
+                                <a href='https://d2bzx2vuetkzse.cloudfront.net/unshoppable_producs/7dcf808d-af4a-4f78-a814-352bf70c96f9.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE Fall Phone Wallpaper- Pretty Pumpkin Wallpapers by Roxy James">
+                                <img itemprop="contentUrl url" src='https://www.roxyjames.com/wp-content/uploads/2020/09/hello-october.jpg' alt='FREE Fall Phone Wallpaper- Pretty Pumpkin Wallpapers by Roxy James'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Roxy James" />
+                                </span>
+                                <a href='https://www.roxyjames.com/wp-content/uploads/2020/09/hello-october.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute seamless Country Fall patterns for Wallpapers and Wall Design ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/004/584/414/non_2x/cute-seamless-country-fall-patterns-for-wallpapers-and-wall-design-with-pumpkins-vector.jpg' alt='Cute seamless Country Fall patterns for Wallpapers and Wall Design ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/004/584/414/non_2x/cute-seamless-country-fall-patterns-for-wallpapers-and-wall-design-with-pumpkins-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

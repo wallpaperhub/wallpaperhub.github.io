@@ -1,0 +1,129 @@
+<title>Bebe Rexha: Rising Pop Star & Music Innovator</title>
+                    <meta name="description" content="Explore the captivating journey of Bebe Rexha, a talented singer-songwriter known for her chart-topping hits and dynamic sound. Discover her music, latest releases, and impact on the pop scene. Join us in celebrating her artistry and achievements in the industry!">
+                    <meta name="keywords" content="bebe rexha">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/bebe-rexha">
+                            <span itemprop="name">bebe rexha</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Bebe Rexha: Rising Pop Star & Music Innovator</h1>
+                <p>Bebe Rexha is an American singer-songwriter known for her unique blend of pop, R&B, and electronic music. Rising to fame with hits like “Meant to Be” and “I’m a Mess,” her powerful vocals and relatable lyrics resonate with fans worldwide. Bebe’s artistry showcases her versatility, making her a prominent figure in the music industry.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bebe Rexha - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/0/0f/Bebe_Rexha_-_Untold_2023_-_53113724212_%28cropped%29.jpg' alt='Bebe Rexha - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="622">
+                                <meta itemprop="height" content="806">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/0/0f/Bebe_Rexha_-_Untold_2023_-_53113724212_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bebe Rexha (@beberexha) • Instagram photos and videos">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3557943126368608228' alt='Bebe Rexha (@beberexha) • Instagram photos and videos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3557943126368608228' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bebe Rexha Posts Face Injury Photo After Being Hit by Phone Onstage">
+                                <img itemprop="contentUrl url" src='https://www.hollywoodreporter.com/wp-content/uploads/2023/06/GettyImages-1493257960.jpg?w=1296&h=730&crop=1' alt='Bebe Rexha Posts Face Injury Photo After Being Hit by Phone Onstage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1296">
+                                <meta itemprop="height" content="730">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Hollywood Reporter" />
+                                </span>
+                                <a href='https://www.hollywoodreporter.com/wp-content/uploads/2023/06/GettyImages-1493257960.jpg?w=1296&h=730&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bebe Rexha Removes Audience Members Throwing Objects at Green Bay Show">
+                                <img itemprop="contentUrl url" src='https://www.rollingstone.com/wp-content/uploads/2024/06/bebe-rexha-concert.jpg?w=1600&h=900&crop=1' alt='Bebe Rexha Removes Audience Members Throwing Objects at Green Bay Show'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone" />
+                                </span>
+                                <a href='https://www.rollingstone.com/wp-content/uploads/2024/06/bebe-rexha-concert.jpg?w=1600&h=900&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bebe Rexha (@beberexha) • Instagram photos and videos">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3413518142040301093' alt='Bebe Rexha (@beberexha) • Instagram photos and videos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1799">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3413518142040301093' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bebe Rexha | Famous Bi People | Bi.org">
+                                <img itemprop="contentUrl url" src='https://ucarecdn.com/c7303ad1-cf29-428e-a915-d5c419e88691/-/crop/1200x1201/186,0/-/preview/-/progressive/yes/-/format/auto/-/scale_crop/900x900/' alt='Bebe Rexha | Famous Bi People | Bi.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bi.org" />
+                                </span>
+                                <a href='https://ucarecdn.com/c7303ad1-cf29-428e-a915-d5c419e88691/-/crop/1200x1201/186,0/-/preview/-/progressive/yes/-/format/auto/-/scale_crop/900x900/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bebe Rexha Feels 'Unbothered' by Body-Shaming Comments: 'I Know I ...">
+                                <img itemprop="contentUrl url" src='https://people.com/thmb/qm1OBxC3jZt6xlwS_RcPlmjpqRs=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(665x0:667x2)/Bebe-Rexha-coachella-081524-3312e79523884e3b91fa06881d3db44e.jpg' alt='Bebe Rexha Feels 'Unbothered' by Body-Shaming Comments: 'I Know I ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1333">
+                                <meta itemprop="height" content="1797">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="People.com" />
+                                </span>
+                                <a href='https://people.com/thmb/qm1OBxC3jZt6xlwS_RcPlmjpqRs=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(665x0:667x2)/Bebe-Rexha-coachella-081524-3312e79523884e3b91fa06881d3db44e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bebe Rexha | Selena Gomez Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/selenagomez/images/9/92/Beberexha.jpg/revision/latest?cb=20210512144730' alt='Bebe Rexha | Selena Gomez Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Selena Gomez Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/selenagomez/images/9/92/Beberexha.jpg/revision/latest?cb=20210512144730' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bebe Rexha Slams the 'Daily Mail' Over Photo of Her Entering Hospital">
+                                <img itemprop="contentUrl url" src='https://www.rollingstone.com/wp-content/uploads/2025/02/bebe-rexha.jpg' alt='Bebe Rexha Slams the 'Daily Mail' Over Photo of Her Entering Hospital'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone" />
+                                </span>
+                                <a href='https://www.rollingstone.com/wp-content/uploads/2025/02/bebe-rexha.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bebe Rexha Unveils Track List For Debut Album 'Expectations ...">
+                                <img itemprop="contentUrl url" src='https://i8.amplience.net/i/naras/gettyimages-961205610.jpg.jpg' alt='Bebe Rexha Unveils Track List For Debut Album 'Expectations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2228">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GRAMMY.com" />
+                                </span>
+                                <a href='https://i8.amplience.net/i/naras/gettyimages-961205610.jpg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

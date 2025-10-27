@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="empty ted talk stage background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/empty-ted-talk-stage-background">
+                            <span itemprop="name">empty ted talk stage background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TED 2019: Bigger Than Us - Visuals & Stage Design :: Behance">
+                                <img itemprop="contentUrl url" src='https://mir-s3-cdn-cf.behance.net/project_modules/1400/c9e3a779358193.5cc0b46a788bb.jpg' alt='TED 2019: Bigger Than Us - Visuals & Stage Design :: Behance'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="933">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Behance" />
+                                </span>
+                                <a href='https://mir-s3-cdn-cf.behance.net/project_modules/1400/c9e3a779358193.5cc0b46a788bb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Ted Talk Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/ted-talk-background-fwzln5zj0vb1skb5.jpg' alt='100+] Ted Talk Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/ted-talk-background-fwzln5zj0vb1skb5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Write A TED Talk | Moxie Institute">
+                                <img itemprop="contentUrl url" src='https://www.moxieinstitute.com/wp-content/uploads/2022/08/Blog-3-Proven-Speechwriting-Techniques-all-Great-TED-Talks-Use-in-Their-Presentation.png' alt='How To Write A TED Talk | Moxie Institute'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="560">
+                                <meta itemprop="height" content="315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Moxie Institute" />
+                                </span>
+                                <a href='https://www.moxieinstitute.com/wp-content/uploads/2022/08/Blog-3-Proven-Speechwriting-Techniques-all-Great-TED-Talks-Use-in-Their-Presentation.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How we gave TED's pop-up theater a mini-makeover | TED Blog">
+                                <img itemprop="contentUrl url" src='https://blog.ted.com/wp-content/uploads/sites/2/2015/03/ted2015_031615_2bh6549.jpg' alt='How we gave TED's pop-up theater a mini-makeover | TED Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TED Blog - TED Talks" />
+                                </span>
+                                <a href='https://blog.ted.com/wp-content/uploads/sites/2/2015/03/ted2015_031615_2bh6549.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Reasons Why Doing a TEDx Event is Worth It | SpeakerHub">
+                                <img itemprop="contentUrl url" src='https://speakerhub.com/sites/default/files/lead-image-75231.png' alt='10 Reasons Why Doing a TEDx Event is Worth It | SpeakerHub'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="888">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SpeakerHUB" />
+                                </span>
+                                <a href='https://speakerhub.com/sites/default/files/lead-image-75231.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Write a TED Talk: 4 Key Steps — The Speaker Lab">
+                                <img itemprop="contentUrl url" src='https://thespeakerlab.com/wp-content/uploads/2024/07/Write-a-TED-talk-high-fidelity-v2-2x.webp' alt='How to Write a TED Talk: 4 Key Steps — The Speaker Lab'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1076">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Speaker Lab" />
+                                </span>
+                                <a href='https://thespeakerlab.com/wp-content/uploads/2024/07/Write-a-TED-talk-high-fidelity-v2-2x.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A first-timer's guide to TED. Have you ever watched a TED talk ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1400/1*SxKTsM4fOLl-3B926HIvsQ.jpeg' alt='A first-timer's guide to TED. Have you ever watched a TED talk ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="641">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1400/1*SxKTsM4fOLl-3B926HIvsQ.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Should we preach like a TED talk?">
+                                <img itemprop="contentUrl url" src='https://ministrynutsandbolts.com/wp-content/uploads/2014/06/ted-main-stage.jpg?w=500' alt='Should we preach like a TED talk?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ministry Nuts and Bolts" />
+                                </span>
+                                <a href='https://ministrynutsandbolts.com/wp-content/uploads/2014/06/ted-main-stage.jpg?w=500' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Final Research Presentations AMT Seniors - Parsons ParisParsons Paris">
+                                <img itemprop="contentUrl url" src='https://blogs.newschool.edu/parsons-paris/files/2021/12/VegNews.TedTalkStage.jpg' alt='Final Research Presentations AMT Seniors - Parsons ParisParsons Paris'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1601">
+                                <meta itemprop="height" content="946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New School News" />
+                                </span>
+                                <a href='https://blogs.newschool.edu/parsons-paris/files/2021/12/VegNews.TedTalkStage.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TEDx Stage design">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fd/ff/8e/fdff8e3dc0be12664184d577efc012c2.jpg' alt='TEDx Stage design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="525">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fd/ff/8e/fdff8e3dc0be12664184d577efc012c2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

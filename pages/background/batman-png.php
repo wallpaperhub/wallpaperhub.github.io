@@ -1,0 +1,129 @@
+<title>High-Quality Batman PNG Images for All Your Needs</title>
+                    <meta name="description" content="Explore our premium collection of Batman PNG images! Ideal for designs, fan art, and more, find the perfect high-resolution graphics to elevate your projects. Download now and unleash the power of the Dark Knight in your creative work!">
+                    <meta name="keywords" content="batman png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/batman-png">
+                            <span itemprop="name">batman png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>High-Quality Batman PNG Images for All Your Needs</h1>
+                <p>Discover a collection of high-quality Batman PNG images perfect for your projects! Whether you're designing graphics, creating artwork, or just a fan, our selection features the iconic Dark Knight in various poses and styles. Download your favorite Batman PNGs now and bring the superhero to life in your creativity!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Batman PNG Image - PurePNG | Free transparent CC0 PNG Image Library">
+                                <img itemprop="contentUrl url" src='https://purepng.com/public/uploads/large/purepng.com-batmanbatmansuperherocomicdc-comicsbob-kanebat-manbruce-wayne-1701528523524aeprs.png' alt='Batman PNG Image - PurePNG | Free transparent CC0 PNG Image Library'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="566">
+                                <meta itemprop="height" content="778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PurePNG" />
+                                </span>
+                                <a href='https://purepng.com/public/uploads/large/purepng.com-batmanbatmansuperherocomicdc-comicsbob-kanebat-manbruce-wayne-1701528523524aeprs.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Batman logo isolated - PNG editorial photo. Illustration of gothic ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/z/batman-logo-isolated-png-high-quality-illustration-famous-transparent-background-graphic-element-your-design-file-105020151.jpg' alt='Batman logo isolated - PNG editorial photo. Illustration of gothic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1690">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/z/batman-logo-isolated-png-high-quality-illustration-famous-transparent-background-graphic-element-your-design-file-105020151.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Batman PNG transparent image download, size: 1024x1024px">
+                                <img itemprop="contentUrl url" src='https://pngimg.com/d/batman_PNG37.png' alt='Batman PNG transparent image download, size: 1024x1024px'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGImg" />
+                                </span>
+                                <a href='https://pngimg.com/d/batman_PNG37.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mini Batman, png | PNGEgg">
+                                <img itemprop="contentUrl url" src='https://e7.pngegg.com/pngimages/485/816/png-clipart-batman-batcave-batman-heroes-superhero-thumbnail.png' alt='Mini Batman, png | PNGEgg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="348">
+                                <meta itemprop="height" content="493">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PNGEgg" />
+                                </span>
+                                <a href='https://e7.pngegg.com/pngimages/485/816/png-clipart-batman-batcave-batman-heroes-superhero-thumbnail.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Batman Sideview transparent PNG - StickPNG">
+                                <img itemprop="contentUrl url" src='https://assets.stickpng.com/images/580b57fbd9996e24bc43c01d.png' alt='Batman Sideview transparent PNG - StickPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="728">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StickPNG" />
+                                </span>
+                                <a href='https://assets.stickpng.com/images/580b57fbd9996e24bc43c01d.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Batman Logo PNG Vector (EPS) Free Download">
+                                <img itemprop="contentUrl url" src='https://seeklogo.com/images/B/batman-logo-A2C7E7D106-seeklogo.com.png' alt='Batman Logo PNG Vector (EPS) Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Seeklogo" />
+                                </span>
+                                <a href='https://seeklogo.com/images/B/batman-logo-A2C7E7D106-seeklogo.com.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Batman PNG, Batman Transparent Background - FreeIconsPNG">
+                                <img itemprop="contentUrl url" src='https://www.freeiconspng.com/thumbs/batman-png/batman-png-32.png' alt='Batman PNG, Batman Transparent Background - FreeIconsPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="452">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="FreeIconsPNG.com" />
+                                </span>
+                                <a href='https://www.freeiconspng.com/thumbs/batman-png/batman-png-32.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Batman Logo transparent PNG - StickPNG">
+                                <img itemprop="contentUrl url" src='https://assets.stickpng.com/images/58428ba1a6515b1e0ad75ab0.png' alt='Batman Logo transparent PNG - StickPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="637">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StickPNG" />
+                                </span>
+                                <a href='https://assets.stickpng.com/images/58428ba1a6515b1e0ad75ab0.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Batman Png PNG Transparent With Clear Background ID 136411 | TopPNG">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5f/3b/30/5f3b30949f15610299d61cd093eee797.jpg' alt='Batman Png PNG Transparent With Clear Background ID 136411 | TopPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="752">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5f/3b/30/5f3b30949f15610299d61cd093eee797.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Batman PNG (Edit by ShatterverseENT) by TytorTheBarbarian on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/169405b8-9b86-4d5f-bd58-4505c022d930/dgs43d9-7423354d-bc89-484d-b152-a2d3698c6130.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE2OTQwNWI4LTliODYtNGQ1Zi1iZDU4LTQ1MDVjMDIyZDkzMFwvZGdzNDNkOS03NDIzMzU0ZC1iYzg5LTQ4NGQtYjE1Mi1hMmQzNjk4YzYxMzAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.RkrHiyXFSbW1jdBjCoTek2tB4UEDYrO5TMmC-KL0CT4' alt='Batman PNG (Edit by ShatterverseENT) by TytorTheBarbarian on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="513">
+                                <meta itemprop="height" content="1030">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/169405b8-9b86-4d5f-bd58-4505c022d930/dgs43d9-7423354d-bc89-484d-b152-a2d3698c6130.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE2OTQwNWI4LTliODYtNGQ1Zi1iZDU4LTQ1MDVjMDIyZDkzMFwvZGdzNDNkOS03NDIzMzU0ZC1iYzg5LTQ4NGQtYjE1Mi1hMmQzNjk4YzYxMzAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.RkrHiyXFSbW1jdBjCoTek2tB4UEDYrO5TMmC-KL0CT4' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

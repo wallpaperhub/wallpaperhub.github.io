@@ -1,0 +1,129 @@
+<title>Salt and Light Wallpaper: Illuminate Your Space</title>
+                    <meta name="description" content="Discover stunning salt and light wallpaper to elevate your home decor. These inspirational designs infuse your space with positivity and warmth, reminding you to shine bright. Perfect for any room, choose your favorite style and transform your environment with uplifting beauty today!">
+                    <meta name="keywords" content="salt and light wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light">
+                            <span itemprop="name">Light</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light/salt-and-light-wallpaper">
+                            <span itemprop="name">salt and light wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Salt and Light Wallpaper: Illuminate Your Space</h1>
+                <p>Transform your space with salt and light wallpaper that beautifully embodies faith and inspiration. Perfect for any room, these designs evoke warmth and positivity, reminding you to let your light shine. Choose from a variety of styles to create a serene and uplifting atmosphere, enhancing both decor and spirit.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="88,400+ Salt And Light Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1346203757/photo/a-clay-lamp-and-pile-of-salt-illustrating-jesus-teachings-n.jpg?s=612x612&w=0&k=20&c=chGasD6q_Tzl3xbw5UZDaDovJarEU-_L3n0mtSX0PsI=' alt='88,400+ Salt And Light Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1346203757/photo/a-clay-lamp-and-pile-of-salt-illustrating-jesus-teachings-n.jpg?s=612x612&w=0&k=20&c=chGasD6q_Tzl3xbw5UZDaDovJarEU-_L3n0mtSX0PsI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="88,400+ Salt And Light Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1336510391/photo/salt-and-light-on-a-dark-moody-background-illustrating-jesus-teaching-from-the-bible.jpg?s=612x612&w=0&k=20&c=MW3AqspN2mKP5IHIFG05clEfOCfKqky30d5ZnOgSPlg=' alt='88,400+ Salt And Light Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="394">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1336510391/photo/salt-and-light-on-a-dark-moody-background-illustrating-jesus-teaching-from-the-bible.jpg?s=612x612&w=0&k=20&c=MW3AqspN2mKP5IHIFG05clEfOCfKqky30d5ZnOgSPlg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Salt Light Royalty-Free Images, Stock Photos & Pictures | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/sea-salt-candle-burning-bright-260nw-2416923547.jpg' alt='Salt Light Royalty-Free Images, Stock Photos & Pictures | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/sea-salt-candle-burning-bright-260nw-2416923547.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="88,400+ Salt And Light Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1336510432/photo/salt-and-light-on-a-dark-moody-background-illustrating-jesus-teaching-from-the-bible.jpg?s=612x612&w=0&k=20&c=xt2XxsQFwBDeSFGlKhNY8EoV9HPUsH2ab0wo6iJErYc=' alt='88,400+ Salt And Light Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1336510432/photo/salt-and-light-on-a-dark-moody-background-illustrating-jesus-teaching-from-the-bible.jpg?s=612x612&w=0&k=20&c=xt2XxsQFwBDeSFGlKhNY8EoV9HPUsH2ab0wo6iJErYc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Salt and Light on a Dark Background Illustrating Jesus teaching ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/zooms/9/d0571a01c757479fac85f8b529b6ef6b/2gfn9hc.jpg' alt='Salt and Light on a Dark Background Illustrating Jesus teaching ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="384">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/zooms/9/d0571a01c757479fac85f8b529b6ef6b/2gfn9hc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="88,400+ Salt And Light Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1198633919/photo/light-and-salt-speak-from-the-bible-with-cross.jpg?s=612x612&w=0&k=20&c=71oREsMSz-hjoZgJwCrv8Byg9BT9zl8jJ8wfz2MdGF8=' alt='88,400+ Salt And Light Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1198633919/photo/light-and-salt-speak-from-the-bible-with-cross.jpg?s=612x612&w=0&k=20&c=71oREsMSz-hjoZgJwCrv8Byg9BT9zl8jJ8wfz2MdGF8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Salt and Light Wallpaper    ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/30/82/1b/30821b25b02df83ac587e47c5967dc20.jpg' alt='Salt and Light Wallpaper    '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/30/82/1b/30821b25b02df83ac587e47c5967dc20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Salt and Light on a Dark Moody Background Stock Photo | Adobe Stock">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/04/53/14/60/1000_F_453146060_naCLiXYrm5lDxtBEWQFTTeaNmRc7oEKq.jpg' alt='Salt and Light on a Dark Moody Background Stock Photo | Adobe Stock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="614">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/04/53/14/60/1000_F_453146060_naCLiXYrm5lDxtBEWQFTTeaNmRc7oEKq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Salt & Light">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/7c/af/b8/7cafb80bb44b319e7a0d63cfa7615af4.jpg' alt='Salt & Light'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="354">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/7c/af/b8/7cafb80bb44b319e7a0d63cfa7615af4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Being Salt and Light | Redeemer University">
+                                <img itemprop="contentUrl url" src='https://www.redeemer.ca/wp-content/uploads/being-salt-and-light-hero-opt-900x506.jpg' alt='Being Salt and Light | Redeemer University'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redeemer University" />
+                                </span>
+                                <a href='https://www.redeemer.ca/wp-content/uploads/being-salt-and-light-hero-opt-900x506.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

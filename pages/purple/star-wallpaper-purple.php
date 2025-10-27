@@ -1,0 +1,129 @@
+<title>Purple Star Wallpaper: Celestial Decor for Your Space</title>
+                    <meta name="description" content="Discover enchanting purple star wallpaper that elevates your decor with a celestial touch. Ideal for bedrooms and nurseries, this vibrant design adds a dreamy atmosphere, making it perfect for anyone looking to transform their space into a whimsical retreat. Shop now to find your perfect pattern!">
+                    <meta name="keywords" content="star wallpaper purple">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/star-wallpaper-purple">
+                            <span itemprop="name">star wallpaper purple</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Purple Star Wallpaper: Celestial Decor for Your Space</h1>
+                <p>Transform your room into a celestial haven with stunning purple star wallpaper. Perfect for creating a dreamy atmosphere, the vibrant hues of purple and shimmering stars add a touch of whimsy and elegance to any space. Ideal for bedrooms, nurseries, or playrooms, elevate your decor with this enchanting design!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="purple star wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/67/00/a0/6700a0755cf3a184f060a2e27f6a264d.jpg' alt='purple star wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1636">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/67/00/a0/6700a0755cf3a184f060a2e27f6a264d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone wallpaper, background. 'purple pastel stars' (2)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d7/41/31/d74131e54087227511de238567adac5b.jpg' alt='Phone wallpaper, background. 'purple pastel stars' (2)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d7/41/31/d74131e54087227511de238567adac5b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Purple Star Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-star-zr6777fn19tcn3ta.jpg' alt='100+] Purple Star Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1221">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-star-zr6777fn19tcn3ta.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Starry Background Purple Images – Browse 130,309 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/73/50/11/360_F_373501182_AW73b2wvfm9wBuar0JYwKBeF8NAUHDOH.jpg' alt='Starry Background Purple Images – Browse 130,309 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="514">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/73/50/11/360_F_373501182_AW73b2wvfm9wBuar0JYwKBeF8NAUHDOH.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Purple Star Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-star-ck3mj1jxhgz2sgwd.jpg' alt='100+] Purple Star Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1758">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-star-ck3mj1jxhgz2sgwd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="dark purple stars">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/17/3f/19/173f195320627b442ad2e86a75328102.jpg' alt='dark purple stars'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1071">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/17/3f/19/173f195320627b442ad2e86a75328102.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Stars by SleepWalka on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b252e000-58e3-4966-a4e1-b0cb0f4c410e/d7c8hx-99879ee1-0a29-4bb7-aab0-e65fb33003b0.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2IyNTJlMDAwLTU4ZTMtNDk2Ni1hNGUxLWIwY2IwZjRjNDEwZVwvZDdjOGh4LTk5ODc5ZWUxLTBhMjktNGJiNy1hYWIwLWU2NWZiMzMwMDNiMC5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.EpU0MYkzQFdoX3RWUqb-Kf7k7Z_y9MTU_a2ovzl10xU' alt='Purple Stars by SleepWalka on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b252e000-58e3-4966-a4e1-b0cb0f4c410e/d7c8hx-99879ee1-0a29-4bb7-aab0-e65fb33003b0.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2IyNTJlMDAwLTU4ZTMtNDk2Ni1hNGUxLWIwY2IwZjRjNDEwZVwvZDdjOGh4LTk5ODc5ZWUxLTBhMjktNGJiNy1hYWIwLWU2NWZiMzMwMDNiMC5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.EpU0MYkzQFdoX3RWUqb-Kf7k7Z_y9MTU_a2ovzl10xU' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Stars Images – Browse 1,025,892 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/09/36/92/15/360_F_936921528_Rom6p9Snhn8T0wh6Zgai6PTOzaPOqw0N.jpg' alt='Purple Stars Images – Browse 1,025,892 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/09/36/92/15/360_F_936921528_Rom6p9Snhn8T0wh6Zgai6PTOzaPOqw0N.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Purple Star Wallpaper - free download">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/high/cute-purple-star-wallpaper.webp' alt='Cute Purple Star Wallpaper - free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="838">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/high/cute-purple-star-wallpaper.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Stars, gradient, space, star, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/461/689/HD-wallpaper-purple-stars-gradient-space-star.jpg' alt='Purple Stars, gradient, space, star, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1645">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/461/689/HD-wallpaper-purple-stars-gradient-space-star.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

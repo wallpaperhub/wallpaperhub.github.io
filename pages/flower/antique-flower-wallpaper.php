@@ -1,0 +1,129 @@
+<title>Timeless Antique Flower Wallpaper for Elegant Interiors</title>
+                    <meta name="description" content="Discover the charm of antique flower wallpaper! Perfect for adding a touch of elegance to any room, these vintage designs seamlessly blend classic beauty with modern decor. Enhance your home décor with intricate floral patterns that tell a story and create a warm, inviting atmosphere.">
+                    <meta name="keywords" content="antique flower wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flower">
+                            <span itemprop="name">Flower</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flower/antique-flower-wallpaper">
+                            <span itemprop="name">antique flower wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Timeless Antique Flower Wallpaper for Elegant Interiors</h1>
+                <p>Antique flower wallpaper brings a timeless elegance to any space, featuring intricate floral patterns that evoke nostalgia and charm. Perfect for restoration projects or adding character to modern interiors, these wallpapers blend vintage aesthetics with contemporary sensibilities, creating a unique atmosphere in your home.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Oversized Antique Floral Wallpaper, Vintage Handpainted Look, Romantic  Cabbage Rose, Shabby Country Cottage Garden - 12"x9" Sample AB27614so">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8274094/r/il/c8ae1b/2171675914/il_fullxfull.2171675914_a0hd.jpg' alt='Oversized Antique Floral Wallpaper, Vintage Handpainted Look, Romantic  Cabbage Rose, Shabby Country Cottage Garden - 12"x9" Sample AB27614so'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1595">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8274094/r/il/c8ae1b/2171675914/il_fullxfull.2171675914_a0hd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Antique Floral Sure Strip Wallpaper – York Wallcoverings">
+                                <img itemprop="contentUrl url" src='http://www.yorkwallcoverings.com/cdn/shop/products/KC1845ex_0805f750-a787-48d4-9e36-35842632b212.jpg?v=1703778707&width=1024' alt='Antique Floral Sure Strip Wallpaper – York Wallcoverings'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="York Wallcoverings" />
+                                </span>
+                                <a href='http://www.yorkwallcoverings.com/cdn/shop/products/KC1845ex_0805f750-a787-48d4-9e36-35842632b212.jpg?v=1703778707&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="County Flowers • Antique Floral Wallpaper • Milton & King">
+                                <img itemprop="contentUrl url" src='https://www.miltonandking.com/wp-content/uploads/2021/05/Wallpaper-County-Flowers-Neutral-1.jpg' alt='County Flowers • Antique Floral Wallpaper • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://www.miltonandking.com/wp-content/uploads/2021/05/Wallpaper-County-Flowers-Neutral-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Handpainted Floral Stripe Wallpaper – Vintage Country Cottage, Shabby Rose  Garden Bouquet, Antique Victorian Bathroom -By The Yard CN24640so">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8274094/r/il/e31b5a/2073365836/il_570xN.2073365836_ctth.jpg' alt='Handpainted Floral Stripe Wallpaper – Vintage Country Cottage, Shabby Rose  Garden Bouquet, Antique Victorian Bathroom -By The Yard CN24640so'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="565">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8274094/r/il/e31b5a/2073365836/il_570xN.2073365836_ctth.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blooming Vine Wallpaper">
+                                <img itemprop="contentUrl url" src='https://thealleyex.com/cdn/shop/products/EHN20176_main-01_1200x.jpg?v=1663973358' alt='Blooming Vine Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Alley Exchange" />
+                                </span>
+                                <a href='https://thealleyex.com/cdn/shop/products/EHN20176_main-01_1200x.jpg?v=1663973358' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mountney Garden Antique Pink Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.lauraashleyusa.com/cdn/shop/products/mountney-garden-antique-pink-wallpaper-343473.jpg?v=1705420549' alt='Mountney Garden Antique Pink Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="910">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Laura Ashley" />
+                                </span>
+                                <a href='https://www.lauraashleyusa.com/cdn/shop/products/mountney-garden-antique-pink-wallpaper-343473.jpg?v=1705420549' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Herbarium Antique • Herbal & Floral Wallpaper • Milton & King">
+                                <img itemprop="contentUrl url" src='https://s29938.pcdn.co/wp-content/uploads/2021/10/Wallpaper-Hackney-WR473HC-Herb-Antique-Grey-1.jpg.optimal.jpg' alt='Herbarium Antique • Herbal & Floral Wallpaper • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://s29938.pcdn.co/wp-content/uploads/2021/10/Wallpaper-Hackney-WR473HC-Herb-Antique-Grey-1.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral & Birds Peel and Stick Wallpaper Antique Gold Dark Self Adhesive  Removable Floral Wallpaper for Bedroom Renter Friendly Floral Contact Paper  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91-ykHwtKBL.jpg' alt='Floral & Birds Peel and Stick Wallpaper Antique Gold Dark Self Adhesive  Removable Floral Wallpaper for Bedroom Renter Friendly Floral Contact Paper  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91-ykHwtKBL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seabrook Charleston Floral Antique Rose Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.decoratorsbest.com/cdn/shop/products/3940140253251.jpg?v=1564409697' alt='Seabrook Charleston Floral Antique Rose Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecoratorsBest" />
+                                </span>
+                                <a href='https://www.decoratorsbest.com/cdn/shop/products/3940140253251.jpg?v=1564409697' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral Vintage Wallpaper">
+                                <img itemprop="contentUrl url" src='http://dekornik.com/cdn/shop/products/tapeta_kasiags-1_76aa21b1-a89d-4a89-89ef-61db2fb91d75.jpg?v=1695642919' alt='Floral Vintage Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="dekornik.com wallstickers and wallpapers store" />
+                                </span>
+                                <a href='http://dekornik.com/cdn/shop/products/tapeta_kasiags-1_76aa21b1-a89d-4a89-89ef-61db2fb91d75.jpg?v=1695642919' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

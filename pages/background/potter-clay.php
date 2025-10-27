@@ -1,0 +1,129 @@
+<title>Discover the Beauty of Potter Clay: A Creative Guide</title>
+                    <meta name="description" content="Unlock your creativity with potter clay! Explore its versatility in crafting pottery and sculptures with our essential guide. Perfect for artists of all levels, find tips, techniques, and inspiration to bring your ideas to life. Dive into the world of ceramic art today!">
+                    <meta name="keywords" content="potter clay">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/potter-clay">
+                            <span itemprop="name">potter clay</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Beauty of Potter Clay: A Creative Guide</h1>
+                <p>Potter clay is a versatile medium used in ceramic art, enabling artists to create stunning pottery and sculptures. With its fine texture and malleability, potter clay can be shaped into beautiful forms, whether on a wheel or by hand. It is suitable for various firing techniques, allowing for endless creative possibilities in art and functional wares.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="God is the Potter and we are the Clay | Reflections on Theological ...">
+                                <img itemprop="contentUrl url" src='https://regehrlein.wordpress.com/wp-content/uploads/2021/07/potter-working-with-clay.jpg' alt='God is the Potter and we are the Clay | Reflections on Theological ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reflections on Theological Topics of Interest - WordPress.com" />
+                                </span>
+                                <a href='https://regehrlein.wordpress.com/wp-content/uploads/2021/07/potter-working-with-clay.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Isaiah 64:8 | Clay In The Hands Of The Potter -">
+                                <img itemprop="contentUrl url" src='https://goingdeeperstill.com/wp-content/uploads/2021/01/2.png' alt='Isaiah 64:8 | Clay In The Hands Of The Potter -'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Going Deeper Still" />
+                                </span>
+                                <a href='https://goingdeeperstill.com/wp-content/uploads/2021/01/2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Spiritual Lesson at the Potter's House | The Ministry Collaborative">
+                                <img itemprop="contentUrl url" src='https://mministry.org/wp-content/uploads/2017/01/potter.jpg' alt='A Spiritual Lesson at the Potter's House | The Ministry Collaborative'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Ministry Collaborative" />
+                                </span>
+                                <a href='https://mministry.org/wp-content/uploads/2017/01/potter.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FANTASTIC CLAY POTTERY HACKS AND TRICKS | Ideas for Beginners and Pros   ">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/FlM4t5FYqN4/maxresdefault.jpg' alt='FANTASTIC CLAY POTTERY HACKS AND TRICKS | Ideas for Beginners and Pros   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/FlM4t5FYqN4/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lessons from the Potter and the Clay | Camille Fronk | BYU Speeches">
+                                <img itemprop="contentUrl url" src='https://speeches.byu.edu/wp-content/uploads/jpg/Lessons-from-the-Potter-and-the-Clay-Social-compressor.jpg' alt='Lessons from the Potter and the Clay | Camille Fronk | BYU Speeches'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BYU Speeches" />
+                                </span>
+                                <a href='https://speeches.byu.edu/wp-content/uploads/jpg/Lessons-from-the-Potter-and-the-Clay-Social-compressor.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Types of Clay for Pottery - The Main Clay Types – Soul Ceramics">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0836/2769/files/hands-clay-pottery_600x600.jpg?v=1671439611' alt='Types of Clay for Pottery - The Main Clay Types – Soul Ceramics'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Soul Ceramics" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0836/2769/files/hands-clay-pottery_600x600.jpg?v=1671439611' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Clay Will Tell You How You Are | The On Being Project">
+                                <img itemprop="contentUrl url" src='https://onbeing.org/wp-content/uploads/2015/10/7120363777_4b23ca4ee6_o.jpg' alt='The Clay Will Tell You How You Are | The On Being Project'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1842">
+                                <meta itemprop="height" content="1223">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OnBeing" />
+                                </span>
+                                <a href='https://onbeing.org/wp-content/uploads/2015/10/7120363777_4b23ca4ee6_o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Am the Potter; You Are the Clay-Isaiah 64:8 & Jeremiah 18 (Video)">
+                                <img itemprop="contentUrl url" src='https://www.scottlapierre.org/wp-content/uploads/2018/01/What-Kind-of-Clay-Are-You-in-the-Hands-of-the-Potter-author-scott-lapierre.jpg' alt='I Am the Potter; You Are the Clay-Isaiah 64:8 & Jeremiah 18 (Video)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1601">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scott LaPierre" />
+                                </span>
+                                <a href='https://www.scottlapierre.org/wp-content/uploads/2018/01/What-Kind-of-Clay-Are-You-in-the-Hands-of-the-Potter-author-scott-lapierre.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Parable of the Potter and the Clay -">
+                                <img itemprop="contentUrl url" src='https://busyblessedwomen.com/wp-content/uploads/2018/11/parable-of-the-potter-and-the-clay-1-1024x576.jpg' alt='Parable of the Potter and the Clay -'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Busy Blessed Women" />
+                                </span>
+                                <a href='https://busyblessedwomen.com/wp-content/uploads/2018/11/parable-of-the-potter-and-the-clay-1-1024x576.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Potter Clay Images – Browse 147,233 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/16/23/29/360_F_216232980_OHozVMYi0Y2pp9zMSpHzWIf1k76c74nL.jpg' alt='Potter Clay Images – Browse 147,233 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="702">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/16/23/29/360_F_216232980_OHozVMYi0Y2pp9zMSpHzWIf1k76c74nL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

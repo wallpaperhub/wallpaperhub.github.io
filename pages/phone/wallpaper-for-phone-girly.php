@@ -1,0 +1,129 @@
+<title>Chic Girly Phone Wallpapers: Style Your Screen</title>
+                    <meta name="description" content="Discover a stunning collection of girly wallpapers for your phone! From vibrant florals to serene pastels, find the perfect design to showcase your unique style and personality. Upgrade your mobile screen effortlessly with our curated selection!">
+                    <meta name="keywords" content="wallpaper for phone girly">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/wallpaper-for-phone-girly">
+                            <span itemprop="name">wallpaper for phone girly</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Girly Phone Wallpapers: Style Your Screen</h1>
+                <p>Transform your phone into a personal oasis with girly wallpapers! From floral patterns to pastel colors and cute quotes, find a variety that matches your style. Choose designs that reflect your personality and uplift your mood every time you unlock your phone. It's time to express yourself with the perfect wallpaper!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable girly wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFGTUMZha0/1/0/900w/canva-pink-flowers-girly-phone-wallpaper-_gyE0MitQ_8.jpg' alt='Free and customizable girly wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFGTUMZha0/1/0/900w/canva-pink-flowers-girly-phone-wallpaper-_gyE0MitQ_8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300+] Cute Girly Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cute-girly-1l3rzsz0wizifix8.jpg' alt='300+] Cute Girly Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cute-girly-1l3rzsz0wizifix8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Girly Wallpapers (96 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/c/1/c/1207373-1080x1920-mobile-full-hd-girly-background.jpg' alt='Girly Wallpapers (96 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/c/1/c/1207373-1080x1920-mobile-full-hd-girly-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable girly wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFZ_1xejoA/1/0/900w/canva-pink-cute-valentines-day-phone-wallpaper-Dvr70XDLzHY.jpg' alt='Free and customizable girly wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFZ_1xejoA/1/0/900w/canva-pink-cute-valentines-day-phone-wallpaper-Dvr70XDLzHY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="240 Girly iPhone wallpaper ideas in 2025 | iphone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/93/a3/f9/93a3f9f5a9fd9e54df17b696a4aab1c8.jpg' alt='240 Girly iPhone wallpaper ideas in 2025 | iphone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/93/a3/f9/93a3f9f5a9fd9e54df17b696a4aab1c8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Phone Wallpapers (91 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/7/9/f/5819576-1080x1920-samsung-hd-cute-phone-background-photo.jpg' alt='Cute Phone Wallpapers (91 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/7/9/f/5819576-1080x1920-samsung-hd-cute-phone-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="240 Girly iPhone wallpaper ideas in 2025 | iphone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/30/9b/70/309b7004d507f78abe1b7bf65a060568.png' alt='240 Girly iPhone wallpaper ideas in 2025 | iphone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/30/9b/70/309b7004d507f78abe1b7bf65a060568.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pretty Cute Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pretty-cute-phone-mp601y9b6psnovqx.jpg' alt='100+] Pretty Cute Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pretty-cute-phone-mp601y9b6psnovqx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable girly wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFibLHakMU/1/0/900w/canva-pink-white-cute-girly-elegant-summer-floral-daisy-phone-wallpaper-5K6Icg8ymGU.jpg' alt='Free and customizable girly wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFibLHakMU/1/0/900w/canva-pink-white-cute-girly-elegant-summer-floral-daisy-phone-wallpaper-5K6Icg8ymGU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Girly Wallpapers App">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61K07OZuyHL.jpg' alt='Girly Wallpapers App'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61K07OZuyHL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

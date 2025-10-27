@@ -1,0 +1,129 @@
+<title>Aesthetic David Statue Wallpaper for Classic Elegance</title>
+                    <meta name="description" content="Discover stunning aesthetic David statue wallpaper that adds timeless elegance to any space. Perfect for art lovers, this wallpaper transforms your room with the beauty of Michelangelo’s masterpiece, creating a sophisticated atmosphere that inspires creativity and appreciation for classical art.">
+                    <meta name="keywords" content="aesthetic david statue wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic-david-statue-wallpaper">
+                            <span itemprop="name">aesthetic david statue wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic David Statue Wallpaper for Classic Elegance</h1>
+                <p>Aesthetic David statue wallpaper enhances your space with a touch of classical beauty. Featuring the iconic sculpture by Michelangelo, this wallpaper serves as a stunning backdrop that combines elegance and artistry. Perfect for creating an inspiring atmosphere in any room, it invites conversation and appreciation for timeless craftsmanship.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40+ David Sculpture Aesthetic Wallpaper for Homescreen & Lockscreen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/1d/a2/aa/1da2aada9ca50e8d1ef4888dc4aaa532.jpg' alt='40+ David Sculpture Aesthetic Wallpaper for Homescreen & Lockscreen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/1d/a2/aa/1da2aada9ca50e8d1ef4888dc4aaa532.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="David Sculpture Aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7f/43/ad/7f43ad54d03396fd39eabbaf1cb1afa4.jpg' alt='David Sculpture Aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7f/43/ad/7f43ad54d03396fd39eabbaf1cb1afa4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Michelangelo David Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1601887389937-0b02c26b602c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWljaGVsYW5nZWxvJTIwZGF2aWR8ZW58MHx8MHx8fDA%3D' alt='Michelangelo David Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="5333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1601887389937-0b02c26b602c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWljaGVsYW5nZWxvJTIwZGF2aWR8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="David Sculpture Aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/77/c6/eb/77c6eb9b6af6e4b40559690a0e68e462.jpg' alt='David Sculpture Aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/77/c6/eb/77c6eb9b6af6e4b40559690a0e68e462.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="David Statue by Michelangelo">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/63530/david-statue-by-michelangelo.jpg?h=699&q=85' alt='David Statue by Michelangelo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1123">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/63530/david-statue-by-michelangelo.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download David Of Michelangelo Purple Aesthetic Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/michelangelo-cpe12wbv0dpuqry5.jpg' alt='Download David Of Michelangelo Purple Aesthetic Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1487">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/michelangelo-cpe12wbv0dpuqry5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="David Sculpture Aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/30/96/23/309623dcd1138e54d56644d4a33b2085.jpg' alt='David Sculpture Aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/30/96/23/309623dcd1138e54d56644d4a33b2085.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Wallpaper : r/iWallpaper">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/1562j9q7t2b41.jpg' alt='Aesthetic Wallpaper : r/iWallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/1562j9q7t2b41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="David Statue Cool For Girls Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/david-statue-cool-for-girls-fizrzu114j40adiy.jpg' alt='David Statue Cool For Girls Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/david-statue-cool-for-girls-fizrzu114j40adiy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Black And White David Of Michelangelo Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/michelangelo-oambo24iv0snmw08.jpg' alt='Download Black And White David Of Michelangelo Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/michelangelo-oambo24iv0snmw08.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

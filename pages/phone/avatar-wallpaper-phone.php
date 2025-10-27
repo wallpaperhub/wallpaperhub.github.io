@@ -1,0 +1,129 @@
+<title>Stunning Avatar Wallpapers for Your Phone</title>
+                    <meta name="description" content="Discover the perfect avatar wallpaper for your phone! Choose from a wide variety of designs that reflect your personality and style. Make your device unique and eye-catching with our vibrant options. Ideal for every avatar lover looking to personalize their screens!">
+                    <meta name="keywords" content="avatar wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/avatar-wallpaper-phone">
+                            <span itemprop="name">avatar wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Avatar Wallpapers for Your Phone</h1>
+                <p>Enhance your phone's look with vibrant avatar wallpapers! Choose from a variety of designs to express your personality. Whether you love anime, cartoons, or unique art, there’s a perfect wallpaper for everyone. Transform your device’s appearance and showcase your style every time you unlock your phone!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My avatar wallpaper for my phone : r/Avatar">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/my-avatar-wallpaper-for-my-phone-v0-oyny45yhmeta1.jpg?width=640&crop=smart&auto=webp&s=939862b23fdad1b453127e4868daa4f30f898343' alt='My avatar wallpaper for my phone : r/Avatar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1385">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/my-avatar-wallpaper-for-my-phone-v0-oyny45yhmeta1.jpg?width=640&crop=smart&auto=webp&s=939862b23fdad1b453127e4868daa4f30f898343' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avatar wallpaper phone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/68/e8/08/68e808328a38dc7ad39303cd760f847b.jpg' alt='Avatar wallpaper phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="670">
+                                <meta itemprop="height" content="1192">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/68/e8/08/68e808328a38dc7ad39303cd760f847b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Represent The World Of Avatar: The Way Of Water With These Mobile ...">
+                                <img itemprop="contentUrl url" src='https://lumiere-a.akamaihd.net/v1/images/avatar-twow-mobilewallpp38_8ec60208.jpeg' alt='Represent The World Of Avatar: The Way Of Water With These Mobile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1366">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Singapore" />
+                                </span>
+                                <a href='https://lumiere-a.akamaihd.net/v1/images/avatar-twow-mobilewallpp38_8ec60208.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My avatar wallpaper for my phone : r/Avatar">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/my-avatar-wallpaper-for-my-phone-v0-9rkoi7ockhta1.jpeg?width=1080&format=pjpg&auto=webp&s=cd7b46c2c30a026db66386159621b08ff791e320' alt='My avatar wallpaper for my phone : r/Avatar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1921">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/my-avatar-wallpaper-for-my-phone-v0-9rkoi7ockhta1.jpeg?width=1080&format=pjpg&auto=webp&s=cd7b46c2c30a026db66386159621b08ff791e320' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Represent The World Of Avatar: The Way Of Water With These Mobile ...">
+                                <img itemprop="contentUrl url" src='https://lumiere-a.akamaihd.net/v1/images/avatar-twow-mobilewallpp44_49aa3305.jpeg' alt='Represent The World Of Avatar: The Way Of Water With These Mobile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1366">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Singapore" />
+                                </span>
+                                <a href='https://lumiere-a.akamaihd.net/v1/images/avatar-twow-mobilewallpp44_49aa3305.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avatar Wallpapers (46 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/4/1/a/33180-1439x2560-phone-hd-avatar-wallpaper.jpg' alt='Avatar Wallpapers (46 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1439">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/4/1/a/33180-1439x2560-phone-hd-avatar-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="We doing phone wallpapers now? ❤️ : r/TheLastAirbender">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/35wwv1cw4ni11.jpg' alt='We doing phone wallpapers now? ❤️ : r/TheLastAirbender'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1811">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/35wwv1cw4ni11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avatar iphone 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/avatar-the-way-of-water-85@1@h-phone-4k.jpg' alt='Avatar iphone 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/avatar-the-way-of-water-85@1@h-phone-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Avatar, movie, zoe saldana, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/433/548/HD-wallpaper-avatar-movie-zoe-saldana.jpg' alt='Avatar, movie, zoe saldana, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1689">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/433/548/HD-wallpaper-avatar-movie-zoe-saldana.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My attempt at turning this beautiful shot into a phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/5lmc8rj4oofa1.jpg' alt='My attempt at turning this beautiful shot into a phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1060">
+                                <meta itemprop="height" content="1909">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/5lmc8rj4oofa1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Essential Heroin Facts: What You Need to Know</title>
+                    <meta name="description" content="Discover crucial heroin facts, from its effects and addictive nature to risks and prevention. Stay informed about this potent opioid's impact on health and society. Learn more now!">
+                    <meta name="keywords" content="heroin facts">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/heroin-facts">
+                            <span itemprop="name">heroin facts</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Heroin Facts: What You Need to Know</h1>
+                <p>Heroin is an opioid derived from morphine, highly addictive and illegal in most countries. It can lead to severe physical dependence and numerous health risks, including overdose, which can be fatal. Regular use alters brain chemistry, affecting decision-making and emotional functioning. Awareness and education are key to prevention.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heroin Facts | Infographic | Ashley Addiction Treatment">
+                                <img itemprop="contentUrl url" src='https://www.ashleytreatment.org/wp-content/uploads/2018/01/Heroin-Facts-01.png' alt='Heroin Facts | Infographic | Ashley Addiction Treatment'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="2230">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ashley Addiction Treatment" />
+                                </span>
+                                <a href='https://www.ashleytreatment.org/wp-content/uploads/2018/01/Heroin-Facts-01.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The history of heroin and its predecessors - UK Addiction ...">
+                                <img itemprop="contentUrl url" src='https://cdn.rehabfiles.com/sites/ukat/wp-content/uploads/2023/09/the-history-of-heroin-and-its-predecessors-opium-facts.svg' alt='The history of heroin and its predecessors - UK Addiction ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="372">
+                                <meta itemprop="height" content="594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UK Addiction Treatment Centres" />
+                                </span>
+                                <a href='https://cdn.rehabfiles.com/sites/ukat/wp-content/uploads/2023/09/the-history-of-heroin-and-its-predecessors-opium-facts.svg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heroin Trafficking | United States Sentencing Commission">
+                                <img itemprop="contentUrl url" src='https://www.ussc.gov/sites/default/files/images/cover_QF-heroin-24.png' alt='Heroin Trafficking | United States Sentencing Commission'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="691">
+                                <meta itemprop="height" content="904">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="United States Sentencing Commission" />
+                                </span>
+                                <a href='https://www.ussc.gov/sites/default/files/images/cover_QF-heroin-24.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Opioids & Heroin">
+                                <img itemprop="contentUrl url" src='https://www.worcesterhealth.org/images/heroin-use_1185px.jpg' alt='Opioids & Heroin'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1185">
+                                <meta itemprop="height" content="713">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Worcester County Health Department" />
+                                </span>
+                                <a href='https://www.worcesterhealth.org/images/heroin-use_1185px.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heroin Drug Facts">
+                                <img itemprop="contentUrl url" src='https://yourroom.health.nsw.gov.au/PublishingImages/Publications/48-heroin-drug-facts.png' alt='Heroin Drug Facts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="406">
+                                <meta itemprop="height" content="575">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Your Room - NSW Government" />
+                                </span>
+                                <a href='https://yourroom.health.nsw.gov.au/PublishingImages/Publications/48-heroin-drug-facts.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Facts About Heroin Addiction - Immersion Recovery Center ...">
+                                <img itemprop="contentUrl url" src='https://www.immersionrecovery.com/wp-content/uploads/2021/03/effects-of-heroin-inforgraphic.jpg' alt='10 Facts About Heroin Addiction - Immersion Recovery Center ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="363">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Immersion Recovery Center" />
+                                </span>
+                                <a href='https://www.immersionrecovery.com/wp-content/uploads/2021/03/effects-of-heroin-inforgraphic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heroin Detox Information | Lakeview Health">
+                                <img itemprop="contentUrl url" src='https://www.lakeviewhealth.com/wp-content/uploads/2023/03/Lakeview-Facts-About-Heroin-Infographic-scaled.jpg' alt='Heroin Detox Information | Lakeview Health'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1523">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lakeview Health" />
+                                </span>
+                                <a href='https://www.lakeviewhealth.com/wp-content/uploads/2023/03/Lakeview-Facts-About-Heroin-Infographic-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heroin: Factsheet - Positive Choices">
+                                <img itemprop="contentUrl url" src='https://positivechoices.org.au/img/library/heroin.png' alt='Heroin: Factsheet - Positive Choices'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Positive Choices" />
+                                </span>
+                                <a href='https://positivechoices.org.au/img/library/heroin.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Facts about Heroin from the Honey Lake Clinic Blog">
+                                <img itemprop="contentUrl url" src='https://honeylake.clinic/wp-content/uploads/2023/05/10-facts-about-heroin-scaled.jpg' alt='10 Facts about Heroin from the Honey Lake Clinic Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="839">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Honey Lake Clinic" />
+                                </span>
+                                <a href='https://honeylake.clinic/wp-content/uploads/2023/05/10-facts-about-heroin-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Facts About Heroin | A Full Review on the History of Heroin">
+                                <img itemprop="contentUrl url" src='https://lh7-us.googleusercontent.com/XgcY0EDRbpPnokNwkv5ZDGGaMzv6THFptEYzAJw4lpJrFVtm2jiRvUNNJQ-mM2gwEqhMRBvpONe5c2CJDNSqWBnxsqvWWg12SFrVQ_RV6VR_BDz_KgtGLahKbsQMrnDNAeVi9xJ9LljVbGamVDf1RJs' alt='Facts About Heroin | A Full Review on the History of Heroin'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="790">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Boca Recovery Center" />
+                                </span>
+                                <a href='https://lh7-us.googleusercontent.com/XgcY0EDRbpPnokNwkv5ZDGGaMzv6THFptEYzAJw4lpJrFVtm2jiRvUNNJQ-mM2gwEqhMRBvpONe5c2CJDNSqWBnxsqvWWg12SFrVQ_RV6VR_BDz_KgtGLahKbsQMrnDNAeVi9xJ9LljVbGamVDf1RJs' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Tan Checkered Background: Timeless Elegance for Your Designs</title>
+                    <meta name="description" content="Discover the elegance of a tan checkered background. Perfect for enhancing your designs, this warm, neutral pattern offers versatility and style. Ideal for both digital and print applications, it creates a cozy yet sophisticated atmosphere that complements any color scheme. Elevate your projects effortlessly!">
+                    <meta name="keywords" content="tan checkered background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/tan-checkered-background">
+                            <span itemprop="name">tan checkered background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Tan Checkered Background: Timeless Elegance for Your Designs</h1>
+                <p>A tan checkered background brings a warm, neutral aesthetic to any design. Its subtle pattern not only adds visual interest but also complements various color schemes. Ideal for websites, social media, or print, this background creates a classic, timeless look that evokes a sense of comfort and style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Checker Checkerboard - Neutral Tan Fabric bycarrie_cantwell">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/12555125/p/f/m/AT4XflpdQtN7RSWjjh3l9umu-WsayrVmZLvTetneVs91Anhxv3_vgWM/Retro_Checker_Checkerboard_-_Neutral_Tan.jpg' alt='Retro Checker Checkerboard - Neutral Tan Fabric bycarrie_cantwell'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/12555125/p/f/m/AT4XflpdQtN7RSWjjh3l9umu-WsayrVmZLvTetneVs91Anhxv3_vgWM/Retro_Checker_Checkerboard_-_Neutral_Tan.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="P0544 | Light Tan/Peach & White Checkered Pattern Acrylic Sheet">
+                                <img itemprop="contentUrl url" src='http://www.custommadebetter.com/cdn/shop/products/tan-white-checkered-pattern-acrylic-sheetcmb-pattern-acrylic-426354.png?v=1694822198' alt='P0544 | Light Tan/Peach & White Checkered Pattern Acrylic Sheet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3600">
+                                <meta itemprop="height" content="3600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CMB Acrylics" />
+                                </span>
+                                <a href='http://www.custommadebetter.com/cdn/shop/products/tan-white-checkered-pattern-acrylic-sheetcmb-pattern-acrylic-426354.png?v=1694822198' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tan Gingham Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://rockymountaindecals.com/cdn/shop/products/tan-gingham-wallpaper-peel-stick-843478.png?v=1666799218' alt='Tan Gingham Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="804">
+                                <meta itemprop="height" content="804">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rocky Mountain Decals" />
+                                </span>
+                                <a href='https://rockymountaindecals.com/cdn/shop/products/tan-gingham-wallpaper-peel-stick-843478.png?v=1666799218' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beige checker wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d8/8f/f1/d88ff13c389b633897e8530265dc51af.jpg' alt='Beige checker wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="629">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d8/8f/f1/d88ff13c389b633897e8530265dc51af.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neutral tan checker seamless pattern, Checker beige seamless pattern,  Checker seamless pattern, Checker seamless file, Checker pattern file">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/27078374/r/il/57f627/5495136325/il_fullxfull.5495136325_2hpc.jpg' alt='Neutral tan checker seamless pattern, Checker beige seamless pattern,  Checker seamless pattern, Checker seamless file, Checker pattern file'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/27078374/r/il/57f627/5495136325/il_fullxfull.5495136325_2hpc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tan Mod Checker Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/14319837/p/f/m/OIXmBq7AozNemkzBUvtI0nYrKujBcspA7-dmj0TbBg3OAv8c_CFT/Checkerboard%20in%20khaki%20.jpg' alt='Tan Mod Checker Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/14319837/p/f/m/OIXmBq7AozNemkzBUvtI0nYrKujBcspA7-dmj0TbBg3OAv8c_CFT/Checkerboard%20in%20khaki%20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poster, Print Vector background of tan and white checkered gingham pattern,  40x22.2 cm">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/v2/jpg/04/74/97/50/1000_F_474975083_CnkGVpF8spKwUj0MQXXwyMkLBtsHtT4A.jpg' alt='Poster, Print Vector background of tan and white checkered gingham pattern,  40x22.2 cm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="565">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abposters.com" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/v2/jpg/04/74/97/50/1000_F_474975083_CnkGVpF8spKwUj0MQXXwyMkLBtsHtT4A.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tan Checker Seamless">
+                                <img itemprop="contentUrl url" src='http://www.wildcattledesigns.com/cdn/shop/files/BeFunky-design-2023-07-24T173649.088.png?v=1690235891' alt='Tan Checker Seamless'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wild Cattle Designs" />
+                                </span>
+                                <a href='http://www.wildcattledesigns.com/cdn/shop/files/BeFunky-design-2023-07-24T173649.088.png?v=1690235891' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White and Tan Brown Checkerboard | Poster">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.1026681975.3778/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='White and Tan Brown Checkerboard | Poster'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.1026681975.3778/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beige Checkered Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cb/f8/d5/cbf8d5ca3073edb023a0a7fdc5df9b7e.jpg' alt='Beige Checkered Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cb/f8/d5/cbf8d5ca3073edb023a0a7fdc5df9b7e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Discover the Healing Power of Aloe Vera</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="aloe vera background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/aloe-vera-background">
+                            <span itemprop="name">aloe vera background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Healing Power of Aloe Vera</h1>
+                <p>Aloe vera, a succulent plant from the Liliaceae family, has been cherished for its healing properties for centuries. Originating in the Arabian Peninsula, it thrives in arid environments. Known for its soothing gel, it's used in skincare, medicinal, and culinary applications, making it a staple in natural remedies worldwide.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aloe Vera Background" Images – Browse 142 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/07/85/43/78/360_F_785437893_iPp7XWF3BSivon4WqvM7k3hU5oCwD8Cd.jpg' alt='Aloe Vera Background" Images – Browse 142 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/07/85/43/78/360_F_785437893_iPp7XWF3BSivon4WqvM7k3hU5oCwD8Cd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aloe Vera Images – Browse 189,491 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/05/03/70/53/360_F_503705379_1plgQfsGBV5XpH07AGtalGMQTgyDlCax.jpg' alt='Aloe Vera Images – Browse 189,491 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="527">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/05/03/70/53/360_F_503705379_1plgQfsGBV5XpH07AGtalGMQTgyDlCax.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aloe Vera Background Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/047/909/585/small_2x/fresh-aloe-vera-on-green-background-photo.jpg' alt='Aloe Vera Background Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/047/909/585/small_2x/fresh-aloe-vera-on-green-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aloe Vera Background Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/039/596/320/non_2x/ai-generated-slices-of-aloe-vera-placed-on-a-lush-green-background-showcasing-the-plant-s-natural-freshness-and-vitality-ai-generated-photo.jpg' alt='Aloe Vera Background Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1749">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/039/596/320/non_2x/ai-generated-slices-of-aloe-vera-placed-on-a-lush-green-background-showcasing-the-plant-s-natural-freshness-and-vitality-ai-generated-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="101,080 Aloe Vera Leaf Images, Stock Photos, 3D objects, & Vectors ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/aloe-gel-dropping-fresh-vera-600nw-2500751939.jpg' alt='101,080 Aloe Vera Leaf Images, Stock Photos, 3D objects, & Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/aloe-gel-dropping-fresh-vera-600nw-2500751939.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="21,387 Aloe Vera Product Images, Stock Photos, 3D objects ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/background-cosmetic-aloe-gel-slices-600nw-2161997849.jpg' alt='21,387 Aloe Vera Product Images, Stock Photos, 3D objects ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="409">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/background-cosmetic-aloe-gel-slices-600nw-2161997849.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aloe vera leaves realistic on green background Vector Image">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/13/30/aloe-vera-leaves-realistic-on-green-background-vector-33651330.jpg' alt='Aloe vera leaves realistic on green background Vector Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="867">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/13/30/aloe-vera-leaves-realistic-on-green-background-vector-33651330.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aloe Vera Hydrating Product Green Plant Background Wallpaper Image ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/c0/4a/15/c04a15d0b728808dbf5c04dcb850e0bd.jpg' alt='Aloe Vera Hydrating Product Green Plant Background Wallpaper Image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.fbpd.org" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/c0/4a/15/c04a15d0b728808dbf5c04dcb850e0bd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aloe Vera and Water Background for Natural Cosmetics. the Image is ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/aloe-vera-background-natural-cosmetics-aloe-vera-plant-podium-water-design-aloe-vera-water-background-307825860.jpg' alt='Aloe Vera and Water Background for Natural Cosmetics. the Image is ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/aloe-vera-background-natural-cosmetics-aloe-vera-plant-podium-water-design-aloe-vera-water-background-307825860.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Flying aloe vera leaves on green background Copy space">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/flying-aloe-vera-leaves-green-background-copy-space_106885-3656.jpg' alt='Premium Photo | Flying aloe vera leaves on green background Copy space'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="410">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/flying-aloe-vera-leaves-green-background-copy-space_106885-3656.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

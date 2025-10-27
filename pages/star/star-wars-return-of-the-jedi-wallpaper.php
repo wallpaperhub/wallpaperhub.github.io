@@ -1,0 +1,129 @@
+<title>Epic Star Wars: Return of the Jedi Wallpapers</title>
+                    <meta name="description" content="Explore a collection of captivating "Return of the Jedi" wallpapers, featuring memorable scenes and characters from the classic Star Wars movie. Perfect for mobile and desktop devices, these desktop backgrounds will elevate your fan experience and keep the force with you wherever you go!">
+                    <meta name="keywords" content="star wars return of the jedi wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star">
+                            <span itemprop="name">Star</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/star/star-wars-return-of-the-jedi-wallpaper">
+                            <span itemprop="name">star wars return of the jedi wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Epic Star Wars: Return of the Jedi Wallpapers</h1>
+                <p>Discover stunning "Return of the Jedi" wallpapers that bring the epic Star Wars saga to life! From iconic battles to beloved characters like Luke, Leia, and Darth Vader, find breathtaking visuals that enhance your screen and inspire your inner Jedi. Perfect for fans looking to celebrate this legendary film!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars: Return of the Jedi HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/115/1154483.jpg' alt='Star Wars: Return of the Jedi HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2913">
+                                <meta itemprop="height" content="2215">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/115/1154483.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="One of my favourite Star Wars desktop backgrounds ever - from an ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/iQNBCKSDY7RlTvJzV7KoNcdu1n7fF8AMLKD0KuwytDw.jpg?width=1080&crop=smart&auto=webp&s=f98ee16250fd661b474951d269e1fdd6b2d461a7' alt='One of my favourite Star Wars desktop backgrounds ever - from an ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/iQNBCKSDY7RlTvJzV7KoNcdu1n7fF8AMLKD0KuwytDw.jpg?width=1080&crop=smart&auto=webp&s=f98ee16250fd661b474951d269e1fdd6b2d461a7' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Movie Star Wars Episode VI: Return Of The Jedi HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/131/1310138.jpeg' alt='Download Movie Star Wars Episode VI: Return Of The Jedi HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/131/1310138.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Episode VI: Return Of The Jedi HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/428/thumb-1920-428996.jpg' alt='Star Wars Episode VI: Return Of The Jedi HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/428/thumb-1920-428996.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Return Of The Jedi Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/return-of-the-jedi-1920-x-1080-wallpaper-tdifjuz4ouyqnbah.jpg' alt='100+] Return Of The Jedi Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/return-of-the-jedi-1920-x-1080-wallpaper-tdifjuz4ouyqnbah.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Return of the Jedi 40th Anniversary Poster (without text ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/t81n336h16ta1.png' alt='Return of the Jedi 40th Anniversary Poster (without text ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2050">
+                                <meta itemprop="height" content="3040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/t81n336h16ta1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="40+] Star Wars Episode VI: Return Of The Jedi Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3c/fe/86/3cfe86eb204b5d79483eec96b1c34d05.jpg' alt='40+] Star Wars Episode VI: Return Of The Jedi Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3c/fe/86/3cfe86eb204b5d79483eec96b1c34d05.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars Episode VI: Return Of The Jedi HD Wallpapers and 4K ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/luke-skywalker-vs-darth-vader-emperor-palpatin_a2xuZ2qUmZqaraWkpJRmbmdmrWZnbWY.jpg' alt='Star Wars Episode VI: Return Of The Jedi HD Wallpapers and 4K ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1921">
+                                <meta itemprop="height" content="1281">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/luke-skywalker-vs-darth-vader-emperor-palpatin_a2xuZ2qUmZqaraWkpJRmbmdmrWZnbWY.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Star Wars, Star Wars Episode VI: Return Of The Jedi, Star Wars ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/65/891/HD-wallpaper-star-wars-star-wars-episode-vi-return-of-the-jedi-star-wars-episode-vi-return-of-the-jedi.jpg' alt='Star Wars, Star Wars Episode VI: Return Of The Jedi, Star Wars ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/65/891/HD-wallpaper-star-wars-star-wars-episode-vi-return-of-the-jedi-star-wars-episode-vi-return-of-the-jedi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3840x2400] Star Wars Return of the Jedi 40th Anniversary Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/3840x2400-star-wars-return-of-the-jedi-40th-anniversary-v0-6osd8pimj5ya1.jpg?auto=webp&s=b67dd2a4c66741907842031f808b79605a7c528c' alt='3840x2400] Star Wars Return of the Jedi 40th Anniversary Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/3840x2400-star-wars-return-of-the-jedi-40th-anniversary-v0-6osd8pimj5ya1.jpg?auto=webp&s=b67dd2a4c66741907842031f808b79605a7c528c' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

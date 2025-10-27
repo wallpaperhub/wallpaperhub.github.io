@@ -1,0 +1,129 @@
+<title>Understanding VA Background Checks: What You Need to Know</title>
+                    <meta name="description" content="Discover what a VA background check entails, including criminal history, credit evaluations, and employment verification. Learn how these checks ensure qualified and trustworthy candidates. Ideal for job seekers in the VA field!">
+                    <meta name="keywords" content="what does va background check look for">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/what-does-va-background-check-look-for">
+                            <span itemprop="name">what does va background check look for</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding VA Background Checks: What You Need to Know</h1>
+                <p>A VA background check primarily looks for criminal history, including felonies and misdemeanors, financial stability through credit checks, and past employment verification. It may also review any relevant licenses or certifications. Additionally, it assesses character references to ensure a trustworthy candidate.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Virginia State Background Check">
+                                <img itemprop="contentUrl url" src='https://www.backgroundchecks.com/hubfs/backgroundchecks.com%20Statewide%20Criminal%20Sample.jpg' alt='Virginia State Background Check'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2356">
+                                <meta itemprop="height" content="5844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backgroundchecks.com" />
+                                </span>
+                                <a href='https://www.backgroundchecks.com/hubfs/backgroundchecks.com%20Statewide%20Criminal%20Sample.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Does Veterans Affairs Background Check Look For? - CountyOffice.org">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/ddNkbINC9uw/maxresdefault.jpg' alt='What Does Veterans Affairs Background Check Look For? - CountyOffice.org'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/ddNkbINC9uw/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Understanding Virginia Employment Background Checks - Clean Slate ...">
+                                <img itemprop="contentUrl url" src='https://cleanslatevirginia.com/wp-content/uploads/2024/07/understanding-va-employyment-background-checks.png' alt='Understanding Virginia Employment Background Checks - Clean Slate ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="940">
+                                <meta itemprop="height" content="788">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Clean Slate Virginia" />
+                                </span>
+                                <a href='https://cleanslatevirginia.com/wp-content/uploads/2024/07/understanding-va-employyment-background-checks.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Virginia Background Check for Employment: A Complete Guide [2025]">
+                                <img itemprop="contentUrl url" src='https://iprospectcheck.com/wp-content/uploads/2021/02/virginia-background-check-1.jpg' alt='Virginia Background Check for Employment: A Complete Guide [2025]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iprospectcheck" />
+                                </span>
+                                <a href='https://iprospectcheck.com/wp-content/uploads/2021/02/virginia-background-check-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VA Job offer that requires Background check via accucheckdotorg ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/va-job-offer-that-requires-background-check-via-v0-kn9y9ft4dmcb1.jpg?width=1080&crop=smart&auto=webp&s=5e70783b9c12968dc5c6d631ad2b66b639b370d3' alt='VA Job offer that requires Background check via accucheckdotorg ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1797">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/va-job-offer-that-requires-background-check-via-v0-kn9y9ft4dmcb1.jpg?width=1080&crop=smart&auto=webp&s=5e70783b9c12968dc5c6d631ad2b66b639b370d3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Criminal History Check Virginia">
+                                <img itemprop="contentUrl url" src='https://criminal-history-check-virginia.govbackgroundchecks.com/screenshots/criminal-history-check-virginia/2.jpg' alt='Criminal History Check Virginia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Background Checks" />
+                                </span>
+                                <a href='https://criminal-history-check-virginia.govbackgroundchecks.com/screenshots/criminal-history-check-virginia/2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Types of Background Checks for Employment | ShareAble">
+                                <img itemprop="contentUrl url" src='https://hires.shareable.com/blog/types-of-background-checks/_jcr_content/root/pagesection/basicimage_copy.coreimg.png/1721242421673/sfh-7backgroundchecks-ingrpahic-1.png' alt='7 Types of Background Checks for Employment | ShareAble'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="735">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ShareAble For Hires" />
+                                </span>
+                                <a href='https://hires.shareable.com/blog/types-of-background-checks/_jcr_content/root/pagesection/basicimage_copy.coreimg.png/1721242421673/sfh-7backgroundchecks-ingrpahic-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Virginia State Background Check">
+                                <img itemprop="contentUrl url" src='https://www.backgroundchecks.com/hs-fs/hubfs/resource-center/state-maps/Virginia.png?width=602&height=386&name=Virginia.png' alt='Virginia State Background Check'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="602">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backgroundchecks.com" />
+                                </span>
+                                <a href='https://www.backgroundchecks.com/hs-fs/hubfs/resource-center/state-maps/Virginia.png?width=602&height=386&name=Virginia.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VA Job offer that requires Background check via accucheckdotorg ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/va-job-offer-that-requires-background-check-via-v0-70die125dmcb1.jpg?width=640&crop=smart&auto=webp&s=b2c8bae3c2bcfde8937dcc9825b98ffc19397f88' alt='VA Job offer that requires Background check via accucheckdotorg ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/va-job-offer-that-requires-background-check-via-v0-70die125dmcb1.jpg?width=640&crop=smart&auto=webp&s=b2c8bae3c2bcfde8937dcc9825b98ffc19397f88' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Advanced Background Checks And Screenings: Must-Know Insights">
+                                <img itemprop="contentUrl url" src='https://lawrenceryaninvestigations.com/wp-content/uploads/2017/05/what-is-needed-for-a-background-check.png' alt='Advanced Background Checks And Screenings: Must-Know Insights'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1202">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lawrence Ryan Investigations" />
+                                </span>
+                                <a href='https://lawrenceryaninvestigations.com/wp-content/uploads/2017/05/what-is-needed-for-a-background-check.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

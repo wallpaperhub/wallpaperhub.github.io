@@ -1,0 +1,129 @@
+<title>Parchment Texture: Elevate Your Art and Design</title>
+                    <meta name="description" content="Discover the beauty of parchment texture! This elegant surface is perfect for enhancing your art and design projects, from invitations to handmade books. Explore how its unique, timeless look can transform your work and captivate your audience.">
+                    <meta name="keywords" content="parchment texture">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/parchment-texture">
+                            <span itemprop="name">parchment texture</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Parchment Texture: Elevate Your Art and Design</h1>
+                <p>Parchment texture is a unique and captivating surface reminiscent of ancient manuscripts. Characterized by its slight translucency and warm, organic feel, parchment adds an elegant touch to art and design. Ideal for printing invitations or crafting handmade books, its rich appearance lends a timeless quality to any project.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Parchment Texture Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/wooden-floor-background_53876-88628.jpg' alt='Parchment Texture Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/wooden-floor-background_53876-88628.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Parchment Paper Texture by sinnedaria on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4b6bedc8-6e5d-4b55-a5e2-5e510fdd0ae6/d13abwf-5016bbda-6e43-40db-a556-1d5fe6fb4c50.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRiNmJlZGM4LTZlNWQtNGI1NS1hNWUyLTVlNTEwZmRkMGFlNlwvZDEzYWJ3Zi01MDE2YmJkYS02ZTQzLTQwZGItYTU1Ni0xZDVmZTZmYjRjNTAuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.JMkiK-MH1zRrns9OQn-rlIVvvedZvkWEccQVhdTdPSw' alt='Parchment Paper Texture by sinnedaria on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1275">
+                                <meta itemprop="height" content="1650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4b6bedc8-6e5d-4b55-a5e2-5e510fdd0ae6/d13abwf-5016bbda-6e43-40db-a556-1d5fe6fb4c50.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRiNmJlZGM4LTZlNWQtNGI1NS1hNWUyLTVlNTEwZmRkMGFlNlwvZDEzYWJ3Zi01MDE2YmJkYS02ZTQzLTQwZGItYTU1Ni0xZDVmZTZmYjRjNTAuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.JMkiK-MH1zRrns9OQn-rlIVvvedZvkWEccQVhdTdPSw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Parchment Texture Seamless Images – Browse 28,704 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/01/63/54/67/360_F_163546764_yA5oE35G3CEI8FRiWEQrORHjMt8YYOoN.jpg' alt='Parchment Texture Seamless Images – Browse 28,704 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="539">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/01/63/54/67/360_F_163546764_yA5oE35G3CEI8FRiWEQrORHjMt8YYOoN.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Aged parchment texture Image | Download at StockCake">
+                                <img itemprop="contentUrl url" src='https://images.stockcake.com/public/4/c/a/4ca5e840-7cd0-4909-b003-b435b1250aab_large/aged-parchment-texture-stockcake.jpg' alt='Free Aged parchment texture Image | Download at StockCake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockCake" />
+                                </span>
+                                <a href='https://images.stockcake.com/public/4/c/a/4ca5e840-7cd0-4909-b003-b435b1250aab_large/aged-parchment-texture-stockcake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Parchment Paper Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/000/122/367/small/vector-textured-grunge-background.jpg' alt='Parchment Paper Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="286">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/000/122/367/small/vector-textured-grunge-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old Parchment Texture Stock Photo, Picture and Royalty Free Image ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/leszekczerwonka/leszekczerwonka1601/leszekczerwonka160100235/51606647-old-parchment-texture.jpg' alt='Old Parchment Texture Stock Photo, Picture and Royalty Free Image ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="861">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/leszekczerwonka/leszekczerwonka1601/leszekczerwonka160100235/51606647-old-parchment-texture.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Old Parchment Paper Texture">
+                                <img itemprop="contentUrl url" src='https://www.wallmonkeys.com/cdn/shop/products/58884928-LRG_a2cdec11-548a-4ba8-827b-ca75e00e7503_530x.jpg?v=1578662168' alt='Old Parchment Paper Texture'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="530">
+                                <meta itemprop="height" content="777">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallmonkeys" />
+                                </span>
+                                <a href='https://www.wallmonkeys.com/cdn/shop/products/58884928-LRG_a2cdec11-548a-4ba8-827b-ca75e00e7503_530x.jpg?v=1578662168' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Parchment Texture Images – Browse 751,061 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/10/18/44/92/360_F_1018449222_YB1HnTbMLH7GbKtJ7As31nI6FAEf6OCu.jpg' alt='Parchment Texture Images – Browse 751,061 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="664">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/10/18/44/92/360_F_1018449222_YB1HnTbMLH7GbKtJ7As31nI6FAEf6OCu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="147,100+ Paper Parchment Texture Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1454497852/photo/cardboard-tone-vintage-texture-background-cream-paper-old-grunge-retro-rustic-for-wall.jpg?s=612x612&w=0&k=20&c=NopcRUN4YcIovWxKpL3Jyp8N9YF070n9bpj0sUnXcsY=' alt='147,100+ Paper Parchment Texture Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1454497852/photo/cardboard-tone-vintage-texture-background-cream-paper-old-grunge-retro-rustic-for-wall.jpg?s=612x612&w=0&k=20&c=NopcRUN4YcIovWxKpL3Jyp8N9YF070n9bpj0sUnXcsY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="here is a free old brown parchment paper texture">
+                                <img itemprop="contentUrl url" src='https://www.myfreetextures.com/wp-content/uploads/2013/07/old-brown-vintage-parchment-paper-texture.jpg' alt='here is a free old brown parchment paper texture'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2202">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="My Free Textures" />
+                                </span>
+                                <a href='https://www.myfreetextures.com/wp-content/uploads/2013/07/old-brown-vintage-parchment-paper-texture.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

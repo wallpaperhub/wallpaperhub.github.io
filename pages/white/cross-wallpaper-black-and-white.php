@@ -1,0 +1,129 @@
+<title>Stylish Black & White Cross Wallpaper for Modern Spaces</title>
+                    <meta name="description" content="Discover stunning black and white cross wallpaper that elevates your interior design. Perfect for modern decor, this bold pattern enhances any space while maintaining elegance. Transform your walls effortlessly and make a statement with our chic wallpaper collection.">
+                    <meta name="keywords" content="cross wallpaper black and white">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/cross-wallpaper-black-and-white">
+                            <span itemprop="name">cross wallpaper black and white</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Black & White Cross Wallpaper for Modern Spaces</h1>
+                <p>Cross wallpaper in black and white offers a striking and timeless aesthetic for any room. Ideal for modern and minimalist designs, this pattern adds depth and sophistication to your walls. Use it to create a feature wall or as an elegant backdrop in a variety of spaces, effortlessly blending style and simplicity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White cross with black background photo – Free Cross Image on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1617099330645-28c75f31c484?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' alt='White cross with black background photo – Free Cross Image on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1617099330645-28c75f31c484?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black White Cross Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/grunge-style-minimal-christian-cross-design_1048-20706.jpg' alt='Black White Cross Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="444">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/grunge-style-minimal-christian-cross-design_1048-20706.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60+ Black and White Cross Wallpapers - Download at WallpaperBro">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7a/81/d1/7a81d1b08f7d58993e0bc57347d3497b.jpg' alt='60+ Black and White Cross Wallpapers - Download at WallpaperBro'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="588">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7a/81/d1/7a81d1b08f7d58993e0bc57347d3497b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cross, black, symbol, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/916/555/HD-wallpaper-cross-black-symbol.jpg' alt='Cross, black, symbol, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/916/555/HD-wallpaper-cross-black-symbol.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="105 Three Crosses Black White Stock Photos - Free & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/monochrome-image-three-crosses-sitting-hill-black-white-filtered-silhouette-standing-sky-lit-up-53590840.jpg' alt='105 Three Crosses Black White Stock Photos - Free & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/monochrome-image-three-crosses-sitting-hill-black-white-filtered-silhouette-standing-sky-lit-up-53590840.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Black Cross With Garland Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/black-cross-p8bi2z5lesepjfuo.jpg' alt='Download Black Cross With Garland Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1061">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/black-cross-p8bi2z5lesepjfuo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Black Cross Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/black-cross-yg7c53icv35hhe73.jpg' alt='100+] Black Cross Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="950">
+                                <meta itemprop="height" content="1449">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/black-cross-yg7c53icv35hhe73.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Black Tribal Cross ·① WallpaperTag">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/cb/62/85/cb628554fb87c4cfb7b9f7cfc71b06ed.jpg' alt='Wallpaper Black Tribal Cross ·① WallpaperTag'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="309">
+                                <meta itemprop="height" content="550">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/cb/62/85/cb628554fb87c4cfb7b9f7cfc71b06ed.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Deers Are Standing Near White Cross In A Black Background HD Cross ...">
+                                <img itemprop="contentUrl url" src='https://www.hdwallpapers.in/download/deers_are_standing_near_white_cross_in_a_black_background_hd_cross-1920x1080.jpg' alt='Deers Are Standing Near White Cross In A Black Background HD Cross ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HD Wallpapers" />
+                                </span>
+                                <a href='https://www.hdwallpapers.in/download/deers_are_standing_near_white_cross_in_a_black_background_hd_cross-1920x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Black Cross Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/black-cross-qqntmpn3o586d1hu.jpg' alt='100+] Black Cross Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1001">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/black-cross-qqntmpn3o586d1hu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

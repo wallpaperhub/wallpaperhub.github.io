@@ -1,0 +1,129 @@
+<title>Stunning Pink Aura Wallpaper for a Dreamy Home Makeover</title>
+                    <meta name="description" content="Add a touch of elegance with our pink aura wallpaper! Perfect for any room, it creates a serene atmosphere and unique style. Transform your home decor effortlessly—shop now for the perfect blend of beauty and tranquility!">
+                    <meta name="keywords" content="aura wallpaper pink">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/aura-wallpaper-pink">
+                            <span itemprop="name">aura wallpaper pink</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Pink Aura Wallpaper for a Dreamy Home Makeover</h1>
+                <p>Transform your space with stunning aura wallpaper in pink! This soft, elegant design brings warmth and creativity to your walls, making it perfect for bedrooms, living rooms, or nurseries. The delicate hues create a peaceful ambiance, while the unique patterns add a touch of artistic flair. Elevate your interior decor effortlessly!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="aura wallpaper   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/87/15/93/871593be7d37dedc0b1f790d05ecb850.jpg' alt='aura wallpaper   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="608">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/87/15/93/871593be7d37dedc0b1f790d05ecb850.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aura wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/9f/ae/87/9fae871c657ab1e402e9288078eb4b2c.jpg' alt='Aura wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="376">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/9f/ae/87/9fae871c657ab1e402e9288078eb4b2c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Aura - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/44472229/r/il/4c4462/5050520999/il_fullxfull.5050520999_8l0u.jpg' alt='Pink Aura - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2304">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/44472229/r/il/4c4462/5050520999/il_fullxfull.5050520999_8l0u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="999 Release Pink Aura Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/999-release-pink-aura-aesthetic-5qpebg3qcshjlesg.jpg' alt='999 Release Pink Aura Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/999-release-pink-aura-aesthetic-5qpebg3qcshjlesg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pink Heart Aura Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/pink-heart-aura-l2h0t4rqtypq1et3.jpg' alt='100+] Pink Heart Aura Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/pink-heart-aura-l2h0t4rqtypq1et3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soulful Auras & Heartfelt Harmony Wallpapers : Powerful Coral-Pink ...">
+                                <img itemprop="contentUrl url" src='https://www.fabmood.com/wp-content/uploads/2024/01/wallpaper-1.jpg' alt='Soulful Auras & Heartfelt Harmony Wallpapers : Powerful Coral-Pink ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="567">
+                                <meta itemprop="height" content="1177">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fab Mood" />
+                                </span>
+                                <a href='https://www.fabmood.com/wp-content/uploads/2024/01/wallpaper-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Your Love Pink Aura Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/your-love-pink-aura-aesthetic-by86izk1r8bfgcdc.jpg' alt='Your Love Pink Aura Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/your-love-pink-aura-aesthetic-by86izk1r8bfgcdc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Aura Wallpaper - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/54/43/09/54430944e785aca2ff3965c4b75f989e.jpg' alt='Pink Aura Wallpaper - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/54/43/09/54430944e785aca2ff3965c4b75f989e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Most Popular Aura iPhone Wallpaper Pink And Wallpapers">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/iphone/aura-iphone-wallpaper-pink-and-orange-gradient-vortex-22-11-2024-1732268655-hd-wallpaper.webp' alt='Most Popular Aura iPhone Wallpaper Pink And Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/iphone/aura-iphone-wallpaper-pink-and-orange-gradient-vortex-22-11-2024-1732268655-hd-wallpaper.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soulful Auras & Heartfelt Harmony Wallpapers : Peach-Pink Aura Sky ...">
+                                <img itemprop="contentUrl url" src='https://www.fabmood.com/wp-content/uploads/2024/01/wallpaper-5-1.jpg' alt='Soulful Auras & Heartfelt Harmony Wallpapers : Peach-Pink Aura Sky ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="567">
+                                <meta itemprop="height" content="1177">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fab Mood" />
+                                </span>
+                                <a href='https://www.fabmood.com/wp-content/uploads/2024/01/wallpaper-5-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

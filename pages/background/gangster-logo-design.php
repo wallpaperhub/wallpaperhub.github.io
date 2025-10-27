@@ -1,0 +1,129 @@
+<title>Eye-Catching Gangster Logo Designs for Bold Brands</title>
+                    <meta name="description" content="Create a lasting impression with our gangster logo designs! Ideal for brands seeking a powerful, edgy identity, our logos convey rebelliousness and style, ensuring your business stands out. Discover unique designs that capture the essence of urban culture and make your brand unforgettable!">
+                    <meta name="keywords" content="gangster logo design">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/gangster-logo-design">
+                            <span itemprop="name">gangster logo design</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Eye-Catching Gangster Logo Designs for Bold Brands</h1>
+                <p>Gangster logo design combines bold typography, edgy graphics, and an urban aesthetic to create a distinctive visual identity. Utilizing dark colors, intricate details, and symbols like skulls and guns, these logos evoke a sense of power and rebellion. Perfect for brands looking to capture an iconic gangster vibe, they stand out in competitive markets.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Placeit - Gaming Logo Maker Featuring a Suited Mafia Gangster Clipart">
+                                <img itemprop="contentUrl url" src='https://placeit-img-1-p.cdn.aws.placeit.net/uploads/stage/stage_image/40780/optimized_product_thumb_stage.jpg' alt='Placeit - Gaming Logo Maker Featuring a Suited Mafia Gangster Clipart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="692">
+                                <meta itemprop="height" content="692">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Placeit" />
+                                </span>
+                                <a href='https://placeit-img-1-p.cdn.aws.placeit.net/uploads/stage/stage_image/40780/optimized_product_thumb_stage.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gangster Logos - 21+ Best Gangster Logo Ideas. Free Gangster Logo ...">
+                                <img itemprop="contentUrl url" src='https://images-platform.99static.com//SAULcLh0pvBe4LArxAQCFS8Cu9I=/0x0:1023x1023/fit-in/590x590/99designs-contests-attachments/62/62359/attachment_62359220' alt='Gangster Logos - 21+ Best Gangster Logo Ideas. Free Gangster Logo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="590">
+                                <meta itemprop="height" content="590">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="99Designs" />
+                                </span>
+                                <a href='https://images-platform.99static.com//SAULcLh0pvBe4LArxAQCFS8Cu9I=/0x0:1023x1023/fit-in/590x590/99designs-contests-attachments/62/62359/attachment_62359220' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gangster Logo Vector Images (over 4,600)">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/81/19/gangster-emblem-with-skull-in-bandana-vector-13618119.jpg' alt='Gangster Logo Vector Images (over 4,600)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/81/19/gangster-emblem-with-skull-in-bandana-vector-13618119.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gangster Logo Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/006/564/931/small_2x/skull-head-gangsta-hip-hop-style-design-free-vector.jpg' alt='Gangster Logo Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/006/564/931/small_2x/skull-head-gangsta-hip-hop-style-design-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gangster Logo Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/002/423/570/small/gangster-skull-with-crossed-baseball-bats-and-brass-knuckles-emblem-vector.jpg' alt='Gangster Logo Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/002/423/570/small/gangster-skull-with-crossed-baseball-bats-and-brass-knuckles-emblem-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,400+ Gangster Logo Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1405386336/vector/set-of-vector-gangster-skulls.jpg?s=612x612&w=0&k=20&c=VcDfOqZtrRPf5ahqlueg7jJMPgWXALamPJaWj_JmpHY=' alt='2,400+ Gangster Logo Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1405386336/vector/set-of-vector-gangster-skulls.jpg?s=612x612&w=0&k=20&c=VcDfOqZtrRPf5ahqlueg7jJMPgWXALamPJaWj_JmpHY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gangster Logo Maker | Create Gangster logos in minutes">
+                                <img itemprop="contentUrl url" src='https://uploads.turbologo.com/uploads/design/preview_image/2046971/preview_image20210713-4557-1a20pev.png' alt='Gangster Logo Maker | Create Gangster logos in minutes'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Turbologo" />
+                                </span>
+                                <a href='https://uploads.turbologo.com/uploads/design/preview_image/2046971/preview_image20210713-4557-1a20pev.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gangster Logos - 21+ Best Gangster Logo Ideas. Free Gangster Logo ...">
+                                <img itemprop="contentUrl url" src='https://images-platform.99static.com//bGjOvbdQh40kCe_ninfMTLd9LxM=/0x0:1500x1500/fit-in/500x500/projects-files/83/8399/839926/ad166dfe-e8b9-457c-8499-843f27a0fdb6.jpg' alt='Gangster Logos - 21+ Best Gangster Logo Ideas. Free Gangster Logo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="99Designs" />
+                                </span>
+                                <a href='https://images-platform.99static.com//bGjOvbdQh40kCe_ninfMTLd9LxM=/0x0:1500x1500/fit-in/500x500/projects-files/83/8399/839926/ad166dfe-e8b9-457c-8499-843f27a0fdb6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gangster Logo Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/mafia-colorful-vintage-design_153969-299.jpg?semt=ais_hybrid' alt='Gangster Logo Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/mafia-colorful-vintage-design_153969-299.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gangster Logo Images – Browse 14,393 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/67/44/33/360_F_267443314_i346tg14zQcFkN0ApN7XUXBFnjIRX5Y5.jpg' alt='Gangster Logo Images – Browse 14,393 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/67/44/33/360_F_267443314_i346tg14zQcFkN0ApN7XUXBFnjIRX5Y5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

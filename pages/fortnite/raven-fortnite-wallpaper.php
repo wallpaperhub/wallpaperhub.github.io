@@ -1,0 +1,129 @@
+<title>Stunning Raven Fortnite Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore a collection of captivating Raven Fortnite wallpapers to enhance your device's look. Discover high-quality images showcasing this iconic character, perfect for gamers and fans alike. Download now for a fresh and stylish background that stands out!">
+                    <meta name="keywords" content="raven fortnite wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/fortnite">
+                            <span itemprop="name">Fortnite</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/fortnite/raven-fortnite-wallpaper">
+                            <span itemprop="name">raven fortnite wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Raven Fortnite Wallpapers for Your Device</h1>
+                <p>Elevate your gaming aesthetic with stunning Raven Fortnite wallpapers! These high-quality images feature the enigmatic character in fierce action poses, perfect for bringing your device to life. Whether you’re a fan of the dark, mysterious vibes or just love Fortnite, these wallpapers add a touch of style to your screens. Download and customize your setup today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Raven is back!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/c6/a9/84/c6a984b9a89fb983af8de5b45b76efee.jpg' alt='Fortnite Raven is back!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="393">
+                                <meta itemprop="height" content="566">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/c6/a9/84/c6a984b9a89fb983af8de5b45b76efee.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite the Raven">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/90/db/41/90db4157cdff72369e88d001a6c5ae58.jpg' alt='Fortnite the Raven'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="542">
+                                <meta itemprop="height" content="767">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/90/db/41/90db4157cdff72369e88d001a6c5ae58.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Epic Raven Fortnite Skin In Captivating Purple Aesthetics ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/epic-raven-fortnite-skin-in-captivating-purple-aesthetics-ft0wkk5jqq769z21.jpg' alt='Epic Raven Fortnite Skin In Captivating Purple Aesthetics ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7680">
+                                <meta itemprop="height" content="4320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/epic-raven-fortnite-skin-in-captivating-purple-aesthetics-ft0wkk5jqq769z21.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Raven Fortnite Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/raven-fortnite-1280-x-720-wallpaper-2w7cypfypy94uikb.jpg' alt='100+] Raven Fortnite Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/raven-fortnite-1280-x-720-wallpaper-2w7cypfypy94uikb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite Raven Wallpaper by Cre5po on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3d69bf1f-64fc-42fc-a1d5-c0579b69a239/dcgonwv-cad484ea-7886-4a3a-be7a-63b7d6b015b6.jpg/v1/fill/w_1024,h_555,q_75,strp/fortnite_raven_wallpaper_by_cre5po_dcgonwv-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTU1IiwicGF0aCI6IlwvZlwvM2Q2OWJmMWYtNjRmYy00MmZjLWExZDUtYzA1NzliNjlhMjM5XC9kY2dvbnd2LWNhZDQ4NGVhLTc4ODYtNGEzYS1iZTdhLTYzYjdkNmIwMTViNi5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.slc05cF7bNA6EGAcHsEpr8-8TN5jZZTM2HVf17kYZgU' alt='Fortnite Raven Wallpaper by Cre5po on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="555">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3d69bf1f-64fc-42fc-a1d5-c0579b69a239/dcgonwv-cad484ea-7886-4a3a-be7a-63b7d6b015b6.jpg/v1/fill/w_1024,h_555,q_75,strp/fortnite_raven_wallpaper_by_cre5po_dcgonwv-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTU1IiwicGF0aCI6IlwvZlwvM2Q2OWJmMWYtNjRmYy00MmZjLWExZDUtYzA1NzliNjlhMjM5XC9kY2dvbnd2LWNhZDQ4NGVhLTc4ODYtNGEzYS1iZTdhLTYzYjdkNmIwMTViNi5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.slc05cF7bNA6EGAcHsEpr8-8TN5jZZTM2HVf17kYZgU' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD raven fortnite wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/274/178/HD-wallpaper-raven-fortnite.jpg' alt='HD raven fortnite wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/274/178/HD-wallpaper-raven-fortnite.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper red eyes, artwork, darkness, Raven, Fortnite, The Raven ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/original/3840x2400/6/72/raven-red-eyes-fortnite-battle-royale-fortnite-2019-games-da.jpg' alt='Wallpaper red eyes, artwork, darkness, Raven, Fortnite, The Raven ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/original/3840x2400/6/72/raven-red-eyes-fortnite-battle-royale-fortnite-2019-games-da.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Fortnite Raven Wallpaper Engine">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/959734796522300693/DF544745C37A33DBF67CD43F356A0A55A9A8329F/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::Fortnite Raven Wallpaper Engine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/959734796522300693/DF544745C37A33DBF67CD43F356A0A55A9A8329F/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Raven Mobile Wallpaper : r/FortNiteBR">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/lX6pzc0.png' alt='Raven Mobile Wallpaper : r/FortNiteBR'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.imgur.com/lX6pzc0.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fortnite's' New Raven Skin in Is a Fan Favorite for This Reason">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/71/d2/26/71d226bfb0101f01c9243c84dffe2f40.gif' alt='Fortnite's' New Raven Skin in Is a Fan Favorite for This Reason'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="449">
+                                <meta itemprop="height" content="337">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/71/d2/26/71d226bfb0101f01c9243c84dffe2f40.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

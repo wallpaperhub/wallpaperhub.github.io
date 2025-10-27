@@ -1,0 +1,129 @@
+<title>Unique Skeleton Desktop Wallpapers: Spook Your Screen!</title>
+                    <meta name="description" content="Discover an array of mesmerizing skeleton desktop wallpapers that combine style with a hint of spookiness! Perfect for personalizing your workspace and creating a striking visual impact. Download your favorite designs today and showcase your love for the unique and eerie!">
+                    <meta name="keywords" content="skeleton desktop wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/skeleton-desktop-wallpaper">
+                            <span itemprop="name">skeleton desktop wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unique Skeleton Desktop Wallpapers: Spook Your Screen!</h1>
+                <p>Elevate your desktop with unique skeleton wallpapers! Perfect for Halloween enthusiasts or anyone who appreciates the macabre, these striking images transform your workspace into an eerie yet stylish environment. Choose from a variety of designs, including artistic renditions, spooky themes, and whimsical skeletons, to express your personality!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skeletons are cute [1920x1080][OC] : r/wallpapers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/prso9dp53pl31.png?auto=webp&s=52743a1dc3ed93e0ddbc60671fd68f1e2b89d356' alt='Skeletons are cute [1920x1080][OC] : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/prso9dp53pl31.png?auto=webp&s=52743a1dc3ed93e0ddbc60671fd68f1e2b89d356' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free customizable Halloween desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFuYbBGK-A/1/0/1600w/canva-minimalist-illustrative-skeleton-halloween-desktop-wallpaper-ajfJA7POavU.jpg' alt='Free customizable Halloween desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFuYbBGK-A/1/0/1600w/canva-minimalist-illustrative-skeleton-halloween-desktop-wallpaper-ajfJA7POavU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Dark Skeleton HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/173/173175.jpg' alt='Download Dark Skeleton HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/173/173175.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goetic Skeleton Desktop Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/goetic-skeleton-desktop-x651cpet4v1s3f94.jpg' alt='Goetic Skeleton Desktop Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/goetic-skeleton-desktop-x651cpet4v1s3f94.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skeleton And Ants Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/skeleton-and-ants-s2jj50aheh714w7w-3.jpg' alt='Skeleton And Ants Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/skeleton-and-ants-s2jj50aheh714w7w-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="idk">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3a/7b/61/3a7b61b9beb4b47a02e51a0efec17538.jpg' alt='idk'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3a/7b/61/3a7b61b9beb4b47a02e51a0efec17538.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Skeleton Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/monochrome-smoking-skeleton-9pbicditw2s9ik4i.jpg' alt='Download Skeleton Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/monochrome-smoking-skeleton-9pbicditw2s9ik4i.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Berserk 1997 Skeletons desktop wallpaper edit I made : r/Berserk">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/berserk-1997-skeletons-desktop-wallpaper-edit-i-made-v0-3b4t1s5vsedb1.jpg?width=640&crop=smart&auto=webp&s=c950ab552f1e15203980bf1ffdc85a9a8d3dd7ce' alt='Berserk 1997 Skeletons desktop wallpaper edit I made : r/Berserk'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/berserk-1997-skeletons-desktop-wallpaper-edit-i-made-v0-3b4t1s5vsedb1.jpg?width=640&crop=smart&auto=webp&s=c950ab552f1e15203980bf1ffdc85a9a8d3dd7ce' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skeleton Desktop Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/black-and-white-skeleton-desktop-lit8g9r9buycqa7w.jpg' alt='Skeleton Desktop Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/black-and-white-skeleton-desktop-lit8g9r9buycqa7w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Scary Skeletons Dark Purple Desktop Wallpaper 4K">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2023/12/halloween-scary-skeletons-dark-purple-desktop-wallpaper-cover.jpg' alt='Halloween Scary Skeletons Dark Purple Desktop Wallpaper 4K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2023/12/halloween-scary-skeletons-dark-purple-desktop-wallpaper-cover.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

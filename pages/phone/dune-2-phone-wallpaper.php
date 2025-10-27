@@ -1,0 +1,129 @@
+<title>Dune 2 Phone Wallpapers: Stunning Designs for Your Device</title>
+                    <meta name="description" content="Discover the best Dune 2 phone wallpapers to elevate your phone's aesthetic. Featuring captivating imagery from the Dune universe, our collection offers a unique way to express your fandom. Download now and enjoy high-quality wallpapers optimized for any mobile display!">
+                    <meta name="keywords" content="dune 2 phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/dune-2-phone-wallpaper">
+                            <span itemprop="name">dune 2 phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dune 2 Phone Wallpapers: Stunning Designs for Your Device</h1>
+                <p>Transform your device with stunning Dune 2 phone wallpapers! Dive into the mesmerizing world of the Dune universe, featuring striking visuals, bold colors, and iconic characters. Perfect for fans, these wallpapers will not only personalize your screen but also keep the essence of Dune alive with every glance. Explore the collection today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dune Part 2 Wallpaper : r/dune">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/wycwohczboxa1.jpg' alt='Dune Part 2 Wallpaper : r/dune'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3300">
+                                <meta itemprop="height" content="5100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/wycwohczboxa1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dune Part Two wallpaper [1350x3000] : r/MobileWallpaper">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/jjatpl7vt6xb1.jpg' alt='Dune Part Two wallpaper [1350x3000] : r/MobileWallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1350">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/jjatpl7vt6xb1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dune 2 movie wallpaper - HeroWall | Phone Backgrounds. Free download!">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/a/AVvXsEj0LK457IouRg7LZmm8N-YusVek1xTaGY7_jTGuJBYYixYYrB66neV7C_ySViyK0nTh8ONEL0G9-q5r2_4ZsARnCTioVs2AI6fPtF9zUtw2QK2tIrWUBdd-OUee8Lp2o5rVkdZsRBaMIxe6Ow6DQSovURBVQYWHmT-HPdnzfZbhMT6smGDVg4ETKlWDIjnn' alt='Dune 2 movie wallpaper - HeroWall | Phone Backgrounds. Free download!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="738">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HeroWall" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/a/AVvXsEj0LK457IouRg7LZmm8N-YusVek1xTaGY7_jTGuJBYYixYYrB66neV7C_ySViyK0nTh8ONEL0G9-q5r2_4ZsARnCTioVs2AI6fPtF9zUtw2QK2tIrWUBdd-OUee8Lp2o5rVkdZsRBaMIxe6Ow6DQSovURBVQYWHmT-HPdnzfZbhMT6smGDVg4ETKlWDIjnn' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dune Part II wallpaper (3 versions) [1108x2401] : r/MobileWallpaper">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/dune-part-ii-wallpaper-3-versions-1108x2401-v0-csu11v1eprxa1.jpg?width=2162&format=pjpg&auto=webp&s=54b78eb8d1f0673564f6e716c238d54f31835638' alt='Dune Part II wallpaper (3 versions) [1108x2401] : r/MobileWallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2162">
+                                <meta itemprop="height" content="4690">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/dune-part-ii-wallpaper-3-versions-1108x2401-v0-csu11v1eprxa1.jpg?width=2162&format=pjpg&auto=webp&s=54b78eb8d1f0673564f6e716c238d54f31835638' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dune">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/45/4e/a3/454ea36fe81cd92307da0c3099ec4e6a.jpg' alt='Dune'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="657">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/45/4e/a3/454ea36fe81cd92307da0c3099ec4e6a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dune Phone Wallpapers [24+ Free Background Images] - WallpaperGap">
+                                <img itemprop="contentUrl url" src='https://www.wallpapergap.com/cdn/24/333/dune-2-iphone-wallpaper-775x1634.jpg' alt='Dune Phone Wallpapers [24+ Free Background Images] - WallpaperGap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="775">
+                                <meta itemprop="height" content="1634">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperGap" />
+                                </span>
+                                <a href='https://www.wallpapergap.com/cdn/24/333/dune-2-iphone-wallpaper-775x1634.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dune: Part 2 Wallpaper : r/iphonewallpapers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/dune-part-2-wallpaper-v0-aciaa7vn6tmc1.jpeg?auto=webp&s=9a3e89927ebf671016d06b3dc7bfdb9ed46e6afd' alt='Dune: Part 2 Wallpaper : r/iphonewallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/dune-part-2-wallpaper-v0-aciaa7vn6tmc1.jpeg?auto=webp&s=9a3e89927ebf671016d06b3dc7bfdb9ed46e6afd' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dune 2 Wallpaper 4K, 2024 Movies">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/dune-2-2024-movies-1080x1920-13967.jpg' alt='Dune 2 Wallpaper 4K, 2024 Movies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/dune-2-2024-movies-1080x1920-13967.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dune 2 iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp12601132.jpg' alt='Dune 2 iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp12601132.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dune Movie Wallpapers [17+ Free Background Images] - WallpaperGap">
+                                <img itemprop="contentUrl url" src='https://www.wallpapergap.com/cdn/24/329/dune-movie-iphone-wallpaper-1925x2888.jpg' alt='Dune Movie Wallpapers [17+ Free Background Images] - WallpaperGap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1925">
+                                <meta itemprop="height" content="2888">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperGap" />
+                                </span>
+                                <a href='https://www.wallpapergap.com/cdn/24/329/dune-movie-iphone-wallpaper-1925x2888.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

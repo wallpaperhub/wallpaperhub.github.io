@@ -1,0 +1,129 @@
+<title>Stunning Gear 5 Luffy Wallpapers for iPhone</title>
+                    <meta name="description" content="Explore a collection of vibrant Gear 5 Luffy wallpapers perfect for your iPhone. Transform your device with dynamic designs featuring Luffy's epic transformation. Ideal for anime enthusiasts, these wallpapers promise to enhance your smartphone experience. Download yours today!">
+                    <meta name="keywords" content="gear 5 luffy wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/gear-5-luffy-wallpaper-iphone">
+                            <span itemprop="name">gear 5 luffy wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Gear 5 Luffy Wallpapers for iPhone</h1>
+                <p>Discover stunning Gear 5 Luffy wallpapers for your iPhone! Elevate your device's aesthetics with vibrant and dynamic designs showcasing the formidable Straw Hat captain in his ultimate form. Perfect for anime fans, these wallpapers will bring your screen to life. Download your favorite Gear 5 Luffy wallpaper now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luffy Gear 5 Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/17/9b/95/179b95ac5e45304e16c5935612d09dbf.jpg' alt='Luffy Gear 5 Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="648">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/17/9b/95/179b95ac5e45304e16c5935612d09dbf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gear 5 Luffy Wallpaper | luffy, one piece luffy, manga anime one piece">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/f4/ec/df/f4ecdf64177c7e90a068c99879499739.jpg' alt='Gear 5 Luffy Wallpaper | luffy, one piece luffy, manga anime one piece'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1186">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/f4/ec/df/f4ecdf64177c7e90a068c99879499739.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luffy Gear 5 Wallpaper - IOS 16">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9d/1a/f8/9d1af827f419254dc0a34e68e5e9a835.jpg' alt='Luffy Gear 5 Wallpaper - IOS 16'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1303">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9d/1a/f8/9d1af827f419254dc0a34e68e5e9a835.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Luffy Gear 5 Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/one-piece-luffy-gear5-illustration-hs8szuqa4kj1pqkb.jpg' alt='100+] Luffy Gear 5 Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="886">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/one-piece-luffy-gear5-illustration-hs8szuqa4kj1pqkb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gear 5 Luffy Wallpaper | luffy, one piece luffy, manga anime one piece">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/e6/6e/c2/e66ec2f92ffbad1652b8db9086ede129.jpg' alt='Gear 5 Luffy Wallpaper | luffy, one piece luffy, manga anime one piece'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/e6/6e/c2/e66ec2f92ffbad1652b8db9086ede129.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="One Piece Wallpaper 4K, Gear 5, Luffy, Sun God Nika">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/one-piece-gear-5-luffy-720x1280-12504.png' alt='One Piece Wallpaper 4K, Gear 5, Luffy, Sun God Nika'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/one-piece-gear-5-luffy-720x1280-12504.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luffy gear 5 depth wallpaper. I am using this in my android phone ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/luffy-gear-5-depth-wallpaper-i-am-using-this-in-my-android-v0-buenvgd0hk1d1.jpg?width=640&crop=smart&auto=webp&s=786a37679b32b6e5b1f52d58c0a51ec2737c84bd' alt='Luffy gear 5 depth wallpaper. I am using this in my android phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1131">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/luffy-gear-5-depth-wallpaper-i-am-using-this-in-my-android-v0-buenvgd0hk1d1.jpg?width=640&crop=smart&auto=webp&s=786a37679b32b6e5b1f52d58c0a51ec2737c84bd' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luffy Gear 5 Sun God Nika One Piece PC, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/14/709/HD-wallpaper-luffy-gear-5-sun-god-nika-background-in-2022-one-piece-iphone-manga-anime-one-piece-one-piece-drawing-thumbnail.jpg' alt='Luffy Gear 5 Sun God Nika One Piece PC, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="599">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/14/709/HD-wallpaper-luffy-gear-5-sun-god-nika-background-in-2022-one-piece-iphone-manga-anime-one-piece-one-piece-drawing-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Luffy Gear 5 iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp12925575.jpg' alt='Luffy Gear 5 iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="6232">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp12925575.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Luffy Gear 5 Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/luffy-gear5-transformation-x5a7o3d025zx6w47.jpg' alt='100+] Luffy Gear 5 Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/luffy-gear5-transformation-x5a7o3d025zx6w47.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

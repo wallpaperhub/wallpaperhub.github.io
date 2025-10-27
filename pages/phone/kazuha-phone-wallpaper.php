@@ -1,0 +1,129 @@
+<title>Kazuha Phone Wallpapers: Beautiful & Unique Downloads</title>
+                    <meta name="description" content="Explore a collection of stunning Kazuha phone wallpapers that elevate your mobile experience. Get vibrant, character-themed designs perfect for Genshin Impact fans. Download your favorite wallpapers now and showcase your passion for Kazuha on your device!">
+                    <meta name="keywords" content="kazuha phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/kazuha-phone-wallpaper">
+                            <span itemprop="name">kazuha phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Kazuha Phone Wallpapers: Beautiful & Unique Downloads</h1>
+                <p>Transform your phone's aesthetic with stunning Kazuha wallpapers! Dive into a world of vibrant colors and dynamic designs that capture the essence of Kazuha's character from Genshin Impact. Whether you prefer serene landscapes or action-packed scenes, find the perfect wallpaper that reflects your love for Kazuha and enhances your device's look!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Official Kazuha wallpaper from the web event : r/Genshin_Impact">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/21imnctdkr771.jpg?width=1080&crop=smart&auto=webp&s=d5f0020829e0fb2a710b7a1e84b2cdcef0c6b59d' alt='Official Kazuha wallpaper from the web event : r/Genshin_Impact'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/21imnctdkr771.jpg?width=1080&crop=smart&auto=webp&s=d5f0020829e0fb2a710b7a1e84b2cdcef0c6b59d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kazuha Wallpapers for Phones Genshin Impact | HoYoLAB">
+                                <img itemprop="contentUrl url" src='https://upload-os-bbs.hoyolab.com/upload/2023/01/14/212981031/749db2e8437bdba3710bd467f28327c8_6332545283868419771.png?x-oss-process=image%2Fresize%2Cs_1000%2Fauto-orient%2C0%2Finterlace%2C1%2Fformat%2Cwebp%2Fquality%2Cq_70' alt='Kazuha Wallpapers for Phones Genshin Impact | HoYoLAB'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="754">
+                                <meta itemprop="height" content="1370">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HoYoLAB" />
+                                </span>
+                                <a href='https://upload-os-bbs.hoyolab.com/upload/2023/01/14/212981031/749db2e8437bdba3710bd467f28327c8_6332545283868419771.png?x-oss-process=image%2Fresize%2Cs_1000%2Fauto-orient%2C0%2Finterlace%2C1%2Fformat%2Cwebp%2Fquality%2Cq_70' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kazuha Phone Wallpaper by @naraemigenshin : r/KazuhaMains">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/kazuha-phone-wallpaper-by-v0-oi5bgmyj5twd1.jpeg?auto=webp&s=786f237324eeb9de5995690956962fbfb99946c0' alt='Kazuha Phone Wallpaper by @naraemigenshin : r/KazuhaMains'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1152">
+                                <meta itemprop="height" content="2047">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/kazuha-phone-wallpaper-by-v0-oi5bgmyj5twd1.jpeg?auto=webp&s=786f237324eeb9de5995690956962fbfb99946c0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kaedehara Kazuha (Genshin Impact) Phone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/993/993394.jpg' alt='Kaedehara Kazuha (Genshin Impact) Phone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2401">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/993/993394.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ArtStation - Kaedehara Kazuha (phone wallpaper)">
+                                <img itemprop="contentUrl url" src='https://cdna.artstation.com/p/assets/images/images/038/945/180/large/kyochiii-kazuha.jpg?1624505369' alt='ArtStation - Kaedehara Kazuha (phone wallpaper)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ArtStation" />
+                                </span>
+                                <a href='https://cdna.artstation.com/p/assets/images/images/038/945/180/large/kyochiii-kazuha.jpg?1624505369' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kazuha Wallpapers for Phones Genshin Impact | HoYoLAB">
+                                <img itemprop="contentUrl url" src='https://upload-os-bbs.hoyolab.com/upload/2023/01/14/212981031/4a542f1ac8fcac990eabfde097957443_8869741644226635345.png' alt='Kazuha Wallpapers for Phones Genshin Impact | HoYoLAB'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="619">
+                                <meta itemprop="height" content="1367">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HoYoLAB" />
+                                </span>
+                                <a href='https://upload-os-bbs.hoyolab.com/upload/2023/01/14/212981031/4a542f1ac8fcac990eabfde097957443_8869741644226635345.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD kazuha wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/21/598/HD-wallpaper-kazuha-red-game.jpg' alt='HD kazuha wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="952">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/21/598/HD-wallpaper-kazuha-red-game.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kaedehara Kazuha">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c0/c3/3d/c0c33d8e41972d7d26ef9da22d6198c5.jpg' alt='Kaedehara Kazuha'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c0/c3/3d/c0c33d8e41972d7d26ef9da22d6198c5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Genshin Impact Edits | Semi-Hiatus (@GenshinEdits) / X">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FD4DvggVIAEIvtw?format=jpg&name=4096x4096' alt='Genshin Impact Edits | Semi-Hiatus (@GenshinEdits) / X'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FD4DvggVIAEIvtw?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper I made of Kazuha : r/Genshin_Impact">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/oql3s1zb22571.png' alt='Wallpaper I made of Kazuha : r/Genshin_Impact'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/oql3s1zb22571.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

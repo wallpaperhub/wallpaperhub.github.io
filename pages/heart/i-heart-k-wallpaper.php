@@ -1,0 +1,129 @@
+<title>I Heart K Wallpapers: Vibrant Designs for Your Devices</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="i heart k wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart">
+                            <span itemprop="name">Heart</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/heart/i-heart-k-wallpaper">
+                            <span itemprop="name">i heart k wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>I Heart K Wallpapers: Vibrant Designs for Your Devices</h1>
+                <p>I Heart K wallpapers are perfect for expressing your love for K-pop culture! Featuring vibrant designs and popular idols, these wallpapers can brighten up your devices while showcasing your fandom. With a variety of styles and sizes, you’ll find the perfect fit for your phone or computer. Download your favorites and make your screens pop!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="i ❤️ K">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/4d/81/66/4d816673fb9a29bce552b99fcdd0af27.jpg' alt='i ❤️ K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/4d/81/66/4d816673fb9a29bce552b99fcdd0af27.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="i heart k">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7d/d5/08/7dd508ebdb42123cfbdba73c8bac2db7.jpg' alt='i heart k'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="895">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7d/d5/08/7dd508ebdb42123cfbdba73c8bac2db7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="K letter, heart, i love you, love, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/243/499/HD-wallpaper-k-letter-heart-i-love-you-love.jpg' alt='K letter, heart, i love you, love, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/243/499/HD-wallpaper-k-letter-heart-i-love-you-love.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Love K wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/20/3b/29/203b29456fcf3a00910ba39f2946987a.jpg' alt='Love K wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="771">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/20/3b/29/203b29456fcf3a00910ba39f2946987a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Love K Pfp | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7246104877821070598&location=0&aid=1988' alt='I Love K Pfp | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7246104877821070598&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="K">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/14/87/b8/1487b8b5276e0a90d911694a11d6f514.jpg' alt='K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/14/87/b8/1487b8b5276e0a90d911694a11d6f514.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Heartwarming Love Story | I Miss You | Relationship Goals">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7355357587216403730&location=0&aid=1988' alt='Heartwarming Love Story | I Miss You | Relationship Goals'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7355357587216403730&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="K Love Letter Photos, Images and Pictures">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/k-red-love-shape-letter-260nw-1947090310.jpg' alt='K Love Letter Photos, Images and Pictures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="260">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/k-red-love-shape-letter-260nw-1947090310.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="K❤A">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/32/5b/11/325b11d6d23cffb6593cc9b0460979b5.jpg' alt='K❤A'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="959">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/32/5b/11/325b11d6d23cffb6593cc9b0460979b5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Letter K Wallpaper for Million Views">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7396219093998636296&location=0&aid=1988' alt='Colorful Letter K Wallpaper for Million Views'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7396219093998636296&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

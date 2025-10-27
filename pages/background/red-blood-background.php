@@ -1,0 +1,129 @@
+<title>Vibrant Red Blood Backgrounds: Symbolism & Design</title>
+                    <meta name="description" content="Explore the significance of red blood backgrounds in design. Discover how this powerful color embodies life, passion, and energy, enhancing visual appeal in various applications. Perfect for those seeking inspiration and insight into color symbolism. Ideal for mobile browsing!">
+                    <meta name="keywords" content="red blood background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/red-blood-background">
+                            <span itemprop="name">red blood background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Red Blood Backgrounds: Symbolism & Design</h1>
+                <p>A red blood background symbolizes vitality, strength, and energy. Often associated with life, the color red evokes emotions ranging from passion to urgency. In design, it can captivate attention, making it a popular choice in various applications, from branding to art. This dynamic backdrop enhances the visual impact and resonates with the human experience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10,400+ Blood Red Wallpaper Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/963342958/vector/bloody-grunge-abstract-texture-background.jpg?s=612x612&w=0&k=20&c=zmVuVv34fH2iW4qV094IijYSPW-4VVVOp5gtZekWMbs=' alt='10,400+ Blood Red Wallpaper Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/963342958/vector/bloody-grunge-abstract-texture-background.jpg?s=612x612&w=0&k=20&c=zmVuVv34fH2iW4qV094IijYSPW-4VVVOp5gtZekWMbs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Blood Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/halloween-background-with-blood-splatters-drips_1048-16876.jpg' alt='Red Blood Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="444">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/halloween-background-with-blood-splatters-drips_1048-16876.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Blood Background Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/009/194/479/small_2x/red-background-scary-bloody-wall-white-wall-with-blood-splatter-for-halloween-background-photo.jpg' alt='Red Blood Background Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/009/194/479/small_2x/red-background-scary-bloody-wall-white-wall-with-blood-splatter-for-halloween-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,142 Red Blood Cells Background Stock Photos - Free & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/red-blood-cells-abstract-background-334895278.jpg' alt='2,142 Red Blood Cells Background Stock Photos - Free & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="505">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/red-blood-cells-abstract-background-334895278.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="187,841 Bloody Background Royalty-Free Images, Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2499505389/display_1500/stock-photo-blood-texture-background-bloody-red-stains-background-design-horror-or-crime-2499505389.jpg' alt='187,841 Bloody Background Royalty-Free Images, Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2499505389/display_1500/stock-photo-blood-texture-background-bloody-red-stains-background-design-horror-or-crime-2499505389.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Blood Splash Background Images, HD Pictures and Wallpaper For ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20210331/pngtree-blood-red-background-blood-style-splash-image_600102.jpg' alt='Red Blood Splash Background Images, HD Pictures and Wallpaper For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="862">
+                                <meta itemprop="height" content="404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20210331/pngtree-blood-red-background-blood-style-splash-image_600102.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10,400+ Blood Red Wallpaper Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1080296304/vector/bright-maroon-deep-red-colored-cracked-effect-wall-texture-vector-background-horizontal.jpg?s=612x612&w=0&k=20&c=5kB1t0OWp_VCY5Nk_ThkZTU3daOLFVOwVLkIewpNOwM=' alt='10,400+ Blood Red Wallpaper Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="382">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1080296304/vector/bright-maroon-deep-red-colored-cracked-effect-wall-texture-vector-background-horizontal.jpg?s=612x612&w=0&k=20&c=5kB1t0OWp_VCY5Nk_ThkZTU3daOLFVOwVLkIewpNOwM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bloody Background Images – Browse 158,551 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/89/42/70/360_F_289427042_Q4tqOQpUQs0REeZJdnJra8QUbEpL9TNQ.jpg' alt='Bloody Background Images – Browse 158,551 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/89/42/70/360_F_289427042_Q4tqOQpUQs0REeZJdnJra8QUbEpL9TNQ.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blood red background with overlapping elements and splat | Colourbox">
+                                <img itemprop="contentUrl url" src='https://cbx-prod.b-cdn.net/COLOURBOX1167922.jpg?width=800&height=800&quality=70' alt='Blood red background with overlapping elements and splat | Colourbox'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="569">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Colourbox" />
+                                </span>
+                                <a href='https://cbx-prod.b-cdn.net/COLOURBOX1167922.jpg?width=800&height=800&quality=70' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blood Red Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/009/195/076/small/red-background-scary-bloody-wall-white-wall-with-blood-splatter-for-halloween-background-free-photo.jpg' alt='Blood Red Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/009/195/076/small/red-background-scary-bloody-wall-white-wall-with-blood-splatter-for-halloween-background-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

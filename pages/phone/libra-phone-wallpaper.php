@@ -1,0 +1,129 @@
+<title>Stunning Libra Phone Wallpapers: Balance Your Screen!</title>
+                    <meta name="description" content="Discover the perfect Libra phone wallpapers to elevate your device's look. Choose from a variety of beautiful designs that capture the essence of the Libra zodiac sign. Download now and personalize your phone with unique, eye-catching wallpapers that reflect your astrological style!">
+                    <meta name="keywords" content="libra phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/libra-phone-wallpaper">
+                            <span itemprop="name">libra phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Libra Phone Wallpapers: Balance Your Screen!</h1>
+                <p>Transform your device with stunning Libra phone wallpapers! Explore a collection of artistic designs that embody balance and harmony, perfectly suited for astrology lovers. Discover vibrant colors, celestial motifs, and serene aesthetics that reflect the essence of Libras. Customize your screen and express your zodiac identity today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Libra Zodiac Phone Background | Phone wallpaper, Zodiac sign libra ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7b/a1/a2/7ba1a2a03655efcb6452930975d7f8c1.jpg' alt='Libra Zodiac Phone Background | Phone wallpaper, Zodiac sign libra ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7b/a1/a2/7ba1a2a03655efcb6452930975d7f8c1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Molang Zodiac Wallpapers: Discover The Libra Wallpaper of Molang">
+                                <img itemprop="contentUrl url" src='https://molang.com/cdn/shop/products/molang_wallpaper_libra_1200x2134.jpg?v=1663945128' alt='Molang Zodiac Wallpapers: Discover The Libra Wallpaper of Molang'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1001">
+                                <meta itemprop="height" content="1780">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Molang" />
+                                </span>
+                                <a href='https://molang.com/cdn/shop/products/molang_wallpaper_libra_1200x2134.jpg?v=1663945128' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peacock Libra Zodiac Mosaic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/peacock-libra-zodiac-mosaic-i6diuk3jd6at5vlz.jpg' alt='Peacock Libra Zodiac Mosaic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/peacock-libra-zodiac-mosaic-i6diuk3jd6at5vlz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Libra, quotes, sayings, skulls, zodiac, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/29/156/HD-wallpaper-libra-quotes-sayings-skulls-zodiac.jpg' alt='Libra, quotes, sayings, skulls, zodiac, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/29/156/HD-wallpaper-libra-quotes-sayings-skulls-zodiac.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Libra Aesthetic Astrology Wallpaper for phone (iphone and android)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/50/bb/9f/50bb9f691d33761cf0d2d3c2717b32dc.jpg' alt='Libra Aesthetic Astrology Wallpaper for phone (iphone and android)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/50/bb/9f/50bb9f691d33761cf0d2d3c2717b32dc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Libra Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/libra-aesthetic-jobfz3uxmshoh87u.jpg' alt='100+] Libra Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/libra-aesthetic-jobfz3uxmshoh87u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Libra Phone Wallpaper by addieartworks on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4704cb07-d0ea-4dac-85ef-25cf049ce6ff/dehn9wm-2be7629d-8770-43a1-8f3c-8e2cc8087a8b.png/v1/fill/w_1280,h_2276,q_80,strp/libra_phone_wallpaper_by_addieartworks_dehn9wm-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjI3NiIsInBhdGgiOiJcL2ZcLzQ3MDRjYjA3LWQwZWEtNGRhYy04NWVmLTI1Y2YwNDljZTZmZlwvZGVobjl3bS0yYmU3NjI5ZC04NzcwLTQzYTEtOGYzYy04ZTJjYzgwODdhOGIucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.dRCS9Gg65GpXwOmtm9-r6c5tGcdEZZtBZuxKWd7lO0I' alt='Libra Phone Wallpaper by addieartworks on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="2276">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4704cb07-d0ea-4dac-85ef-25cf049ce6ff/dehn9wm-2be7629d-8770-43a1-8f3c-8e2cc8087a8b.png/v1/fill/w_1280,h_2276,q_80,strp/libra_phone_wallpaper_by_addieartworks_dehn9wm-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjI3NiIsInBhdGgiOiJcL2ZcLzQ3MDRjYjA3LWQwZWEtNGRhYy04NWVmLTI1Y2YwNDljZTZmZlwvZGVobjl3bS0yYmU3NjI5ZC04NzcwLTQzYTEtOGYzYy04ZTJjYzgwODdhOGIucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.dRCS9Gg65GpXwOmtm9-r6c5tGcdEZZtBZuxKWd7lO0I' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Libra Phone Wallpaper, Libra star sign, Zodiac Sign Phone Background,  iPhone Background, png, jpg">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/31485971/r/il/95143d/3963125463/il_570xN.3963125463_gsl9.jpg' alt='Libra Phone Wallpaper, Libra star sign, Zodiac Sign Phone Background,  iPhone Background, png, jpg'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/31485971/r/il/95143d/3963125463/il_570xN.3963125463_gsl9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="22 Libra wallpapers ideas | libra, libra art, libra zodiac">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/10/57/15/105715209d21f8cb11429988930d300f.jpg' alt='22 Libra wallpapers ideas | libra, libra art, libra zodiac'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="568">
+                                <meta itemprop="height" content="1233">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/10/57/15/105715209d21f8cb11429988930d300f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE LIBRA DESKTOP + PHONE WALLPAPER - Spirit You">
+                                <img itemprop="contentUrl url" src='https://www.spirityou.com/wp-content/uploads/2020/09/libra-phone-background.png' alt='FREE LIBRA DESKTOP + PHONE WALLPAPER - Spirit You'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spirit You" />
+                                </span>
+                                <a href='https://www.spirityou.com/wp-content/uploads/2020/09/libra-phone-background.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

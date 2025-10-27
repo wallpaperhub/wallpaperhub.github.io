@@ -1,0 +1,129 @@
+<title>Pastel Aesthetic Collage Wallpaper: Brighten Your Space</title>
+                    <meta name="description" content="Discover the charm of pastel aesthetic collage wallpaper! Ideal for creating a calm and stylish ambiance, this wallpaper features trendy designs and soft colors to elevate any room effortlessly. Perfect for those seeking a unique decor solution. Transform your walls today!">
+                    <meta name="keywords" content="pastel:grs87sj9kwm= aesthetic collage wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/pastelgrs87sj9kwm-aesthetic-collage-wallpaper">
+                            <span itemprop="name">pastel:grs87sj9kwm= aesthetic collage wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Pastel Aesthetic Collage Wallpaper: Brighten Your Space</h1>
+                <p>Transform your space with our pastel aesthetic collage wallpaper! Featuring soft hues and whimsical designs, this wallpaper allows you to create a serene and dreamy atmosphere in any room. Perfect for adding a unique touch to your home decor, it embodies creativity and style. Elevate your environment with this delightful design!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Collage, Soft Collage, Digital Collage Kit, Aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/24947958/r/il/65a233/2894696677/il_fullxfull.2894696677_29jl.jpg' alt='Pastel Collage, Soft Collage, Digital Collage Kit, Aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/24947958/r/il/65a233/2894696677/il_fullxfull.2894696677_29jl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Summer Pastel Aesthetic Collage Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/cool-summer-pastel-aesthetic-collage-i6yct9q2j2hpft66.jpg' alt='Cool Summer Pastel Aesthetic Collage Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/cool-summer-pastel-aesthetic-collage-i6yct9q2j2hpft66.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Perfect Pastel Aesthetic Wall Collage - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/33531841/r/il/69e31b/3689938724/il_1080xN.3689938724_6vs0.jpg' alt='Perfect Pastel Aesthetic Wall Collage - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1297">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/33531841/r/il/69e31b/3689938724/il_1080xN.3689938724_6vs0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Dreams Aesthetic Wall Collage Kit | 60pcs (digital Download ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/26928918/r/il/d59a5c/2980804206/il_fullxfull.2980804206_1y0k.jpg' alt='Pastel Dreams Aesthetic Wall Collage Kit | 60pcs (digital Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/26928918/r/il/d59a5c/2980804206/il_fullxfull.2980804206_1y0k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Lockscreen Pastel Aesthetic | Pretty Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/92/03/63/92036334f62cc9eaf73ab3fe7c35567b.jpg' alt='Wallpaper Lockscreen Pastel Aesthetic | Pretty Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/92/03/63/92036334f62cc9eaf73ab3fe7c35567b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Pastel Rainbow Collage Aesthetic Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pastel-rainbow-collage-aesthetic-ke5cqaatogckkux7.jpg' alt='Download Pastel Rainbow Collage Aesthetic Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="682">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pastel-rainbow-collage-aesthetic-ke5cqaatogckkux7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Wall Collage Kit, Pastel Collage Kit, Pastel Aesthetic Wall ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11173961/r/il/e45eb3/2778227722/il_fullxfull.2778227722_nb7q.jpg' alt='Pastel Wall Collage Kit, Pastel Collage Kit, Pastel Aesthetic Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2401">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11173961/r/il/e45eb3/2778227722/il_fullxfull.2778227722_nb7q.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1000+] Pastel Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pastel-pink-and-blue-collage-89yh5vt2uxkcm0wa.jpg' alt='1000+] Pastel Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pastel-pink-and-blue-collage-89yh5vt2uxkcm0wa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Yellow Aesthetic Collage Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/pastel-yellow-aesthetic-collage-4jngpmkeyqufi50e.jpg' alt='Pastel Yellow Aesthetic Collage Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/pastel-yellow-aesthetic-collage-4jngpmkeyqufi50e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Wall Collage Kit, Cotton Candy Collage Kit, Pastel ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11173961/r/il/cf899d/2868596323/il_fullxfull.2868596323_9tlr.jpg' alt='Pastel Wall Collage Kit, Cotton Candy Collage Kit, Pastel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11173961/r/il/cf899d/2868596323/il_fullxfull.2868596323_9tlr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>K-Pop Wallpapers for Chromebook: Personalize Your Screen</title>
+                    <meta name="description" content="Discover the ultimate collection of K-Pop wallpapers for your Chromebook! Customize your device with high-quality images of top K-Pop idols and groups. Perfect for true fans looking to enhance their digital experience. Download and bring your favorite K-Pop stars right to your screens!">
+                    <meta name="keywords" content="kpop wallpaper chromebook">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/chromebook">
+                            <span itemprop="name">Chromebook</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/chromebook/kpop-wallpaper-chromebook">
+                            <span itemprop="name">kpop wallpaper chromebook</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>K-Pop Wallpapers for Chromebook: Personalize Your Screen</h1>
+                <p>Enhance your Chromebook with vibrant K-Pop wallpapers! Explore a collection of stunning backgrounds featuring your favorite idols and groups, from BTS to BLACKPINK. Personalize your device and show off your love for K-Pop with unique designs that bring energy and style to your screen. Transform your Chromebook today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stray Kids Wallpaper New Tab - Chrome Web Store">
+                                <img itemprop="contentUrl url" src='https://lh3.googleusercontent.com/LaA4RcJaIpio8Jw30ZDUMtDyqkUNdSkKVCrJuAgwbim7NnOQFE6Fd-azEXzO80hGrej7uSwvv006OqYxSP0_4bN4Wg=s1280-w1280-h800' alt='Stray Kids Wallpaper New Tab - Chrome Web Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chrome.google.com" />
+                                </span>
+                                <a href='https://lh3.googleusercontent.com/LaA4RcJaIpio8Jw30ZDUMtDyqkUNdSkKVCrJuAgwbim7NnOQFE6Fd-azEXzO80hGrej7uSwvv006OqYxSP0_4bN4Wg=s1280-w1280-h800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Explore the world of Cute Kpop Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-kpop-7r0h2pk66wfna4i6.jpg' alt='Download Explore the world of Cute Kpop Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-kpop-7r0h2pk66wfna4i6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BTS Academia Aesthetic Chromebook Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b5/bf/3c/b5bf3c49b009f852f23506cd1c24f821.jpg' alt='BTS Academia Aesthetic Chromebook Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="332">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b5/bf/3c/b5bf3c49b009f852f23506cd1c24f821.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kpop Chromebook Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/77/d1/16/77d11692290baf4ee2aa75c015410757.jpg' alt='Kpop Chromebook Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="473">
+                                <meta itemprop="height" content="266">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/77/d1/16/77d11692290baf4ee2aa75c015410757.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Get Ready To Rock With The Kpop Laptop! Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/get-ready-to-rock-with-the-kpop-laptop-m9dsyrkqqge5isnn.jpg' alt='Get Ready To Rock With The Kpop Laptop! Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1390">
+                                <meta itemprop="height" content="784">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/get-ready-to-rock-with-the-kpop-laptop-m9dsyrkqqge5isnn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BTS Kpop Wallpaper - Chrome Web Store">
+                                <img itemprop="contentUrl url" src='https://lh3.googleusercontent.com/2dGcJWOOSQoYHVL4UEsUxc1i2KI7ADEKUBiu_j3s4r5Tzh_ceXv2He8acgbe8I8V_TkjqszWpqgU_Xc5390BXwS4=s1280-w1280-h800' alt='BTS Kpop Wallpaper - Chrome Web Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Chrome - The Fast & Secure Web Browser Built to be Yours" />
+                                </span>
+                                <a href='https://lh3.googleusercontent.com/2dGcJWOOSQoYHVL4UEsUxc1i2KI7ADEKUBiu_j3s4r5Tzh_ceXv2He8acgbe8I8V_TkjqszWpqgU_Xc5390BXwS4=s1280-w1280-h800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TXT Kpop Wallpaper HD & Background | TXT K-Pop Chrome New Tab">
+                                <img itemprop="contentUrl url" src='https://coolthemestores.com/wp-content/uploads/2020/11/txt-k-pop-featured.jpg' alt='TXT Kpop Wallpaper HD & Background | TXT K-Pop Chrome New Tab'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="394">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cool Theme Stores" />
+                                </span>
+                                <a href='https://coolthemestores.com/wp-content/uploads/2020/11/txt-k-pop-featured.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Stunning K-pop Star Poses on Top of a Building ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/kpop-1920-x-1042-picture-wp3io7dnkua365ej.jpg' alt='Download Stunning K-pop Star Poses on Top of a Building ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1042">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/kpop-1920-x-1042-picture-wp3io7dnkua365ej.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Show Your K-pop Fan Heart With These Colorful Laptops! Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/show-your-k-pop-fan-heart-with-these-colorful-laptops-eyaa96raaqcxnk06.jpg' alt='Show Your K-pop Fan Heart With These Colorful Laptops! Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/show-your-k-pop-fan-heart-with-these-colorful-laptops-eyaa96raaqcxnk06.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ENHYPEN Wallpaper - Chrome Web Store">
+                                <img itemprop="contentUrl url" src='https://lh3.googleusercontent.com/64ol1W_avHdcZ9hM-Og5b3Hw9L052X3utsFUr-eBARqMJyj2Ki0QsGBfU2S7IHdgL7TF_UltaQI9NtduxSBatu_V=s1280-w1280-h800' alt='ENHYPEN Wallpaper - Chrome Web Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chrome Web Store - Google" />
+                                </span>
+                                <a href='https://lh3.googleusercontent.com/64ol1W_avHdcZ9hM-Og5b3Hw9L052X3utsFUr-eBARqMJyj2Ki0QsGBfU2S7IHdgL7TF_UltaQI9NtduxSBatu_V=s1280-w1280-h800' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

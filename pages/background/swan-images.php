@@ -1,0 +1,129 @@
+<title>Stunning Swan Images: Grace and Beauty in Nature</title>
+                    <meta name="description" content="Explore captivating swan images that reflect their elegance and beauty. Perfect for nature lovers, our curated collection showcases swans in stunning settings, highlighting their serene presence. Discover the art of swan photography and bring a touch of nature's grace to your space.">
+                    <meta name="keywords" content="swan images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/swan-images">
+                            <span itemprop="name">swan images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Swan Images: Grace and Beauty in Nature</h1>
+                <p>Discover the beauty of swan images, showcasing these graceful creatures in their natural habitat. From serene lakes to enchanting forests, swans captivate with their elegance and charm. Explore stunning photography that captures their timeless beauty and the tranquility they bring to nature's landscapes.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mute swan - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/a/a2/CygneVaires.jpg' alt='Mute swan - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3888">
+                                <meta itemprop="height" content="2592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/a/a2/CygneVaires.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celebrating the grace and beauty of swans | The Caravan Club">
+                                <img itemprop="contentUrl url" src='https://d5r9gdi4mky31.cloudfront.net/imagevault/publishedmedia/mnaq0as7bhbbu3xaw6dr/swans_-6-.jpg' alt='Celebrating the grace and beauty of swans | The Caravan Club'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Caravan and Motorhome Club" />
+                                </span>
+                                <a href='https://d5r9gdi4mky31.cloudfront.net/imagevault/publishedmedia/mnaq0as7bhbbu3xaw6dr/swans_-6-.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mute Swan Identification, All About Birds, Cornell Lab of Ornithology">
+                                <img itemprop="contentUrl url" src='https://www.allaboutbirds.org/guide/assets/og/75711651-1200px.jpg' alt='Mute Swan Identification, All About Birds, Cornell Lab of Ornithology'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="635">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="All About Birds" />
+                                </span>
+                                <a href='https://www.allaboutbirds.org/guide/assets/og/75711651-1200px.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trumpeter Swan Identification, All About Birds, Cornell Lab of ...">
+                                <img itemprop="contentUrl url" src='https://www.allaboutbirds.org/guide/assets/photo/624438976-480px.jpg' alt='Trumpeter Swan Identification, All About Birds, Cornell Lab of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="All About Birds" />
+                                </span>
+                                <a href='https://www.allaboutbirds.org/guide/assets/photo/624438976-480px.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mute Swan">
+                                <img itemprop="contentUrl url" src='https://www.chesapeakebay.net/files/critters/_700x600_fit_center-center_none/Photo-175124059-c-Jing-Yi-Lu-some-rights-reserved-CC-BY-NC-uploaded-by-Jing-Yi-Lu.jpg' alt='Mute Swan'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="467">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chesapeake Bay Program" />
+                                </span>
+                                <a href='https://www.chesapeakebay.net/files/critters/_700x600_fit_center-center_none/Photo-175124059-c-Jing-Yi-Lu-some-rights-reserved-CC-BY-NC-uploaded-by-Jing-Yi-Lu.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Swans - Wild Animals News & Facts">
+                                <img itemprop="contentUrl url" src='https://site-547756.mozfiles.com/files/547756/medium/Swan.jpg' alt='Swans - Wild Animals News & Facts'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1152">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adopt An Animal Kits" />
+                                </span>
+                                <a href='https://site-547756.mozfiles.com/files/547756/medium/Swan.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Swan Images – Browse 259,261 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/09/06/50/92/360_F_906509226_8pZYtbMLN7DEvsOEXaUKUuFONrMUfC1P.jpg' alt='Beautiful Swan Images – Browse 259,261 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/09/06/50/92/360_F_906509226_8pZYtbMLN7DEvsOEXaUKUuFONrMUfC1P.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="205,500+ Swan Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/157483108/photo/swan.jpg?s=612x612&w=0&k=20&c=RD5x7yxQss4RXKqOW-LStD6XpEQJHCA-wMSWLtctrTw=' alt='205,500+ Swan Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="406">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/157483108/photo/swan.jpg?s=612x612&w=0&k=20&c=RD5x7yxQss4RXKqOW-LStD6XpEQJHCA-wMSWLtctrTw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mute swan - Bird Aware Solent">
+                                <img itemprop="contentUrl url" src='http://birdaware.org/solent/wp-content/uploads/sites/2/2021/08/Mute-swan-other-birds.png' alt='Mute swan - Bird Aware Solent'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bird Aware" />
+                                </span>
+                                <a href='http://birdaware.org/solent/wp-content/uploads/sites/2/2021/08/Mute-swan-other-birds.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tundra Swan | Game Commission | Commonwealth of Pennsylvania">
+                                <img itemprop="contentUrl url" src='https://www.pa.gov/content/dam/copapwp-pagov/en/pgc/images/widlife/wildlifespecies/birds/tundra%20swan.png' alt='Tundra Swan | Game Commission | Commonwealth of Pennsylvania'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6912">
+                                <meta itemprop="height" content="3456">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Commonwealth of Pennsylvania" />
+                                </span>
+                                <a href='https://www.pa.gov/content/dam/copapwp-pagov/en/pgc/images/widlife/wildlifespecies/birds/tundra%20swan.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

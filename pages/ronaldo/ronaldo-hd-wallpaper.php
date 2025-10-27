@@ -1,0 +1,129 @@
+<title></title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="ronaldo hd wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/ronaldo">
+                            <span itemprop="name">Ronaldo</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/ronaldo/ronaldo-hd-wallpaper">
+                            <span itemprop="name">ronaldo hd wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1></h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top 85 Best Cristiano Ronaldo Wallpapers in 2023 [ HQ ]">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/44/e3/63/44e3636951fdde4f1a525b7d4b6fa87b.jpg' alt='Top 85 Best Cristiano Ronaldo Wallpapers in 2023 [ HQ ]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/44/e3/63/44e3636951fdde4f1a525b7d4b6fa87b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cristiano Ronaldo Real Madrid iPhone Wallpaper HD by adi-149 on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e74e7002-7e71-4d38-b7aa-324a199423f8/db83js2-1ae4f31a-ddc9-4899-a7a5-2c876ed1127f.jpg/v1/fill/w_1024,h_2088,q_75,strp/cristiano_ronaldo_real_madrid_iphone_wallpaper_hd_by_adi_149_db83js2-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjA4OCIsInBhdGgiOiJcL2ZcL2U3NGU3MDAyLTdlNzEtNGQzOC1iN2FhLTMyNGExOTk0MjNmOFwvZGI4M2pzMi0xYWU0ZjMxYS1kZGM5LTQ4OTktYTdhNS0yYzg3NmVkMTEyN2YuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.8IUReYVwDiutp6vfDbBx6rjcCki7G1dbHIhrDorZXRA' alt='Cristiano Ronaldo Real Madrid iPhone Wallpaper HD by adi-149 on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="2088">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e74e7002-7e71-4d38-b7aa-324a199423f8/db83js2-1ae4f31a-ddc9-4899-a7a5-2c876ed1127f.jpg/v1/fill/w_1024,h_2088,q_75,strp/cristiano_ronaldo_real_madrid_iphone_wallpaper_hd_by_adi_149_db83js2-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjA4OCIsInBhdGgiOiJcL2ZcL2U3NGU3MDAyLTdlNzEtNGQzOC1iN2FhLTMyNGExOTk0MjNmOFwvZGI4M2pzMi0xYWU0ZjMxYS1kZGM5LTQ4OTktYTdhNS0yYzg3NmVkMTEyN2YuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.8IUReYVwDiutp6vfDbBx6rjcCki7G1dbHIhrDorZXRA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ronaldo Siuu Celebration HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/ronaldo-3_63841814530784.9.jpg' alt='Ronaldo Siuu Celebration HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Hackster" />
+                                </span>
+                                <a href='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/ronaldo-3_63841814530784.9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Random HD Wallpapers X [Cristiano Ronaldo]. : r/realmadrid">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/9tkxvdlt5gf91.jpg?width=640&crop=smart&auto=webp&s=498ab3440f8a5c157633b6cb491515b2d502d4af' alt='Random HD Wallpapers X [Cristiano Ronaldo]. : r/realmadrid'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1135">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/9tkxvdlt5gf91.jpg?width=640&crop=smart&auto=webp&s=498ab3440f8a5c157633b6cb491515b2d502d4af' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Portugal National Football Team - Cristiano Ronaldo HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/961/961878.jpg' alt='Portugal National Football Team - Cristiano Ronaldo HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/961/961878.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cristiano Ronaldo Wallpapers (38 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/6/2/d/12495-1080x1920-mobile-1080p-cristiano-ronaldo-wallpaper.jpg' alt='Cristiano Ronaldo Wallpapers (38 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/6/2/d/12495-1080x1920-mobile-1080p-cristiano-ronaldo-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top 55 Cristiano Ronaldo iPhone Wallpapers Download [ HD ]">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8f/f9/48/8ff948bb315a7dcd1f077267b10984fe.jpg' alt='Top 55 Cristiano Ronaldo iPhone Wallpapers Download [ HD ]'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8f/f9/48/8ff948bb315a7dcd1f077267b10984fe.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cristiano Ronaldo Real Madrid iPhone Wallpaper HD by adi-149 on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e74e7002-7e71-4d38-b7aa-324a199423f8/dbjzz3e-aa407d8b-d93f-4c95-a0fd-613f27d6a20c.jpg/v1/fill/w_1024,h_1821,q_75,strp/cristiano_ronaldo_real_madrid_iphone_wallpaper_hd_by_adi_149_dbjzz3e-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTgyMSIsInBhdGgiOiJcL2ZcL2U3NGU3MDAyLTdlNzEtNGQzOC1iN2FhLTMyNGExOTk0MjNmOFwvZGJqenozZS1hYTQwN2Q4Yi1kOTNmLTRjOTUtYTBmZC02MTNmMjdkNmEyMGMuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.hUGHFnWf7daIpzTHQwtjPh-zkAAp6h5ACwZVALBP4tU' alt='Cristiano Ronaldo Real Madrid iPhone Wallpaper HD by adi-149 on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1821">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e74e7002-7e71-4d38-b7aa-324a199423f8/dbjzz3e-aa407d8b-d93f-4c95-a0fd-613f27d6a20c.jpg/v1/fill/w_1024,h_1821,q_75,strp/cristiano_ronaldo_real_madrid_iphone_wallpaper_hd_by_adi_149_dbjzz3e-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTgyMSIsInBhdGgiOiJcL2ZcL2U3NGU3MDAyLTdlNzEtNGQzOC1iN2FhLTMyNGExOTk0MjNmOFwvZGJqenozZS1hYTQwN2Q4Yi1kOTNmLTRjOTUtYTBmZC02MTNmMjdkNmEyMGMuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.hUGHFnWf7daIpzTHQwtjPh-zkAAp6h5ACwZVALBP4tU' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ronaldo, Siuuu Celebration, cr7, footballer, sports, athlete, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/375/634/HD-wallpaper-cr7-cristiano-cristiano-ronaldo-football-juve-juventus-new-ronaldo-serie-a-soccer.jpg' alt='Ronaldo, Siuuu Celebration, cr7, footballer, sports, athlete, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/375/634/HD-wallpaper-cr7-cristiano-cristiano-ronaldo-football-juve-juventus-new-ronaldo-serie-a-soccer.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cristiano Ronaldo HD wallpapers">
+                                <img itemprop="contentUrl url" src='https://statico.sportskeeda.com/Football+wallpapers/CR7/cr7.jpg' alt='Cristiano Ronaldo HD wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sportskeeda" />
+                                </span>
+                                <a href='https://statico.sportskeeda.com/Football+wallpapers/CR7/cr7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

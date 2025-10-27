@@ -1,0 +1,129 @@
+<title>Enigmatic Dark Wall Art: Transform Your Space</title>
+                    <meta name="description" content="Discover the beauty of dark wall art that enhances your home's atmosphere. Explore captivating designs that evoke mystery and sophistication. Perfect for adding a unique touch to any room, our collection of dark wall art invites creativity and bold expression. Transform your space with these stunning pieces today!">
+                    <meta name="keywords" content="dark wall art">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dark-wall-art">
+                            <span itemprop="name">dark wall art</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enigmatic Dark Wall Art: Transform Your Space</h1>
+                <p>Dark wall art brings a mystical allure to any space, transforming walls into mesmerizing canvases. From haunting landscapes to abstract designs, this genre invites intrigue and depth. Perfect for creating a dramatic ambiance, dark wall art is ideal for those who embrace the unconventional and wish to express their unique style through moody aesthetics.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Dark Academia Canvas Art - Large Abstract Landscape, Red Cloud  Tree, Perfect for Living Room or Home Office, 16x24 In: Posters & Prints">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81ZJuTK7qwL.jpg' alt='Amazon.com: Dark Academia Canvas Art - Large Abstract Landscape, Red Cloud  Tree, Perfect for Living Room or Home Office, 16x24 In: Posters & Prints'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81ZJuTK7qwL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Moody Set of Two Prints, Romantic Goth Print, Black Bathroom ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11768524/r/il/5bd31d/3953411633/il_570xN.3953411633_gezi.jpg' alt='Dark Moody Set of Two Prints, Romantic Goth Print, Black Bathroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11768524/r/il/5bd31d/3953411633/il_570xN.3953411633_gezi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: ANERZA 16 PCS Framed Dark Academia Room Decor, Gothic Home  Decor, Moody Wall Art Prints for Bedroom, Gallery Wall Frame Set, Witchy ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71Mf4RzU7xL.jpg' alt='Amazon.com: ANERZA 16 PCS Framed Dark Academia Room Decor, Gothic Home  Decor, Moody Wall Art Prints for Bedroom, Gallery Wall Frame Set, Witchy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71Mf4RzU7xL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gothic Theme Dark Clouds Wall Art, Living Room Decor, Full Moon ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/21484665/r/il/207636/4161939859/il_570xN.4161939859_5mes.jpg' alt='Gothic Theme Dark Clouds Wall Art, Living Room Decor, Full Moon ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="435">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/21484665/r/il/207636/4161939859/il_570xN.4161939859_5mes.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gothic Theme Canvas Art, Dark Gothic Framed Art Prints Wall Decor, Framed  Picture, Large Art Prints">
+                                <img itemprop="contentUrl url" src='https://unixcanvas.com/cdn/shop/products/Gothic_20Theme_20Canvas_20Art-Dark_20Gothic_bfb3b118-2a9d-4782-b301-b1e4d2002d1d.jpg?v=1690187895' alt='Gothic Theme Canvas Art, Dark Gothic Framed Art Prints Wall Decor, Framed  Picture, Large Art Prints'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UnixCanvas" />
+                                </span>
+                                <a href='https://unixcanvas.com/cdn/shop/products/Gothic_20Theme_20Canvas_20Art-Dark_20Gothic_bfb3b118-2a9d-4782-b301-b1e4d2002d1d.jpg?v=1690187895' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Abstract Wall Art | BIG Wall Décor">
+                                <img itemprop="contentUrl url" src='https://bigwalldecor.com/wp-content/uploads/2022/06/Abstract-Dark-Wall-Art.jpg' alt='Dark Abstract Wall Art | BIG Wall Décor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BIG Wall Décor" />
+                                </span>
+                                <a href='https://bigwalldecor.com/wp-content/uploads/2022/06/Abstract-Dark-Wall-Art.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blooming Heart Gothic Canvas Print - Dark Romance, Macabre Wall Decor">
+                                <img itemprop="contentUrl url" src='http://everything-pixel.com/cdn/shop/files/blooming-heart-gothic-canvas-print-dark-romance-macabre-wall-decor-562491.jpg?v=1724466243' alt='Blooming Heart Gothic Canvas Print - Dark Romance, Macabre Wall Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Everything Pixel" />
+                                </span>
+                                <a href='http://everything-pixel.com/cdn/shop/files/blooming-heart-gothic-canvas-print-dark-romance-macabre-wall-decor-562491.jpg?v=1724466243' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PixonSign Framed Canvas Print Wall Art Black Panels on Grunge Gray  Background Abstract Shapes Illustrations Minimalism Alternative Edgy Dark  for ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/PixonSign-Framed-Canvas-Print-Wall-Art-Black-Panels-Grunge-Gray-Background-Abstract-Shapes-Illustrations-Minimalism-Alternative-Edgy-Dark-Living-Room_a9609533-7212-4dd9-bec1-36e14da65413.38c26a9b507da814904d005ac045e94e.jpeg' alt='PixonSign Framed Canvas Print Wall Art Black Panels on Grunge Gray  Background Abstract Shapes Illustrations Minimalism Alternative Edgy Dark  for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1472">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/PixonSign-Framed-Canvas-Print-Wall-Art-Black-Panels-Grunge-Gray-Background-Abstract-Shapes-Illustrations-Minimalism-Alternative-Edgy-Dark-Living-Room_a9609533-7212-4dd9-bec1-36e14da65413.38c26a9b507da814904d005ac045e94e.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Glowing in the Dark | Glass Wall Art – Artdesigna">
+                                <img itemprop="contentUrl url" src='https://artdesigna.com/cdn/shop/files/Y5-OGLS-2003.jpg?v=1739972938' alt='Glowing in the Dark | Glass Wall Art – Artdesigna'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Artdesigna" />
+                                </span>
+                                <a href='https://artdesigna.com/cdn/shop/files/Y5-OGLS-2003.jpg?v=1739972938' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PixonSign Framed Canvas Print Wall Art White Brushstrokes on Black  Background Abstract Shapes Illustrations Minimalism Alternative Edgy Dark  for ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/PixonSign-Framed-Canvas-Print-Wall-Art-White-Brushstrokes-Black-Background-Abstract-Shapes-Illustrations-Minimalism-Alternative-Edgy-Dark-Living-Room_5fe07596-3475-44e7-81c3-8b0aa092feeb.53eaca831c9daaa0a31ad33667b19636.jpeg' alt='PixonSign Framed Canvas Print Wall Art White Brushstrokes on Black  Background Abstract Shapes Illustrations Minimalism Alternative Edgy Dark  for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1472">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/PixonSign-Framed-Canvas-Print-Wall-Art-White-Brushstrokes-Black-Background-Abstract-Shapes-Illustrations-Minimalism-Alternative-Edgy-Dark-Living-Room_5fe07596-3475-44e7-81c3-8b0aa092feeb.53eaca831c9daaa0a31ad33667b19636.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

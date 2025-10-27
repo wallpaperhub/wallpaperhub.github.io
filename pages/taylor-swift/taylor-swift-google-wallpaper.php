@@ -1,0 +1,129 @@
+<title>Stylish Taylor Swift Google Wallpapers for Fans</title>
+                    <meta name="description" content="Discover eye-catching Taylor Swift Google wallpapers to personalize your device! Choose from an array of designs that celebrate her music and style, perfect for any fan looking to add a touch of Swiftie charm to their screens. Download your favorites today!">
+                    <meta name="keywords" content="taylor swift google wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/taylor-swift">
+                            <span itemprop="name">Taylor-Swift</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/taylor-swift/taylor-swift-google-wallpaper">
+                            <span itemprop="name">taylor swift google wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Taylor Swift Google Wallpapers for Fans</h1>
+                <p>Transform your device with stunning Taylor Swift Google wallpapers! Whether you're a fan of her music or style, you'll find a variety of vibrant designs featuring Taylor's iconic looks and album art. Perfect for adding a personal touch to your screen, these wallpapers capture her artistry and charisma.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift Wallpapers - Chrome Web Store">
+                                <img itemprop="contentUrl url" src='https://lh3.googleusercontent.com/2pZmyjYSmrtckFJ1YO-OCTNq0LnijuwWtmfhxm1xVJdHPAL_teeBMoBnqbXAr9HieouHMtWnCefx8t2LbNCqw7FKpw=s1280-w1280-h800' alt='Taylor Swift Wallpapers - Chrome Web Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chrome Web Store - Google" />
+                                </span>
+                                <a href='https://lh3.googleusercontent.com/2pZmyjYSmrtckFJ1YO-OCTNq0LnijuwWtmfhxm1xVJdHPAL_teeBMoBnqbXAr9HieouHMtWnCefx8t2LbNCqw7FKpw=s1280-w1280-h800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor swift lover - Chrome Web Store">
+                                <img itemprop="contentUrl url" src='https://lh3.googleusercontent.com/In-Rd8mCM_ickTqZ6afwqLk4faMc6xT17iRqK4OM4IrNQo8QB6Srk90WiI3q4ye--Ov3SVGaaTeRTGkq63_ClB4CVg=s1280-w1280-h800' alt='Taylor swift lover - Chrome Web Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chrome Web Store - Google" />
+                                </span>
+                                <a href='https://lh3.googleusercontent.com/In-Rd8mCM_ickTqZ6afwqLk4faMc6xT17iRqK4OM4IrNQo8QB6Srk90WiI3q4ye--Ov3SVGaaTeRTGkq63_ClB4CVg=s1280-w1280-h800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift Wallpaper - Chrome Web Store">
+                                <img itemprop="contentUrl url" src='https://lh3.googleusercontent.com/U0CEbnaM4xeAaw9ExkSAP-llGUz5yzNmN-Qh12Q5npR0BRD10kgBfRIBtP3w-UW_2zAtzXE6bCf2dpxXSurirGlw=s1280-w1280-h800' alt='Taylor Swift Wallpaper - Chrome Web Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chrome.google.com" />
+                                </span>
+                                <a href='https://lh3.googleusercontent.com/U0CEbnaM4xeAaw9ExkSAP-llGUz5yzNmN-Qh12Q5npR0BRD10kgBfRIBtP3w-UW_2zAtzXE6bCf2dpxXSurirGlw=s1280-w1280-h800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift Wallpapers - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/lFFJ15JBVXYuKE3RbL6MqYZJiFINtVy-TcfuFoF5fPAGASKHuTtVWGPnr3sYKOiEwg=w526-h296-rw' alt='Taylor Swift Wallpapers - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="526">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/lFFJ15JBVXYuKE3RbL6MqYZJiFINtVy-TcfuFoF5fPAGASKHuTtVWGPnr3sYKOiEwg=w526-h296-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Laptop/Desktop Wallpaper : r/TaylorSwift">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/rp0leghqxhbc1.png' alt='Taylor Laptop/Desktop Wallpaper : r/TaylorSwift'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="990">
+                                <meta itemprop="height" content="557">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/rp0leghqxhbc1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift Wallpaper For Chromebook | Chromebook Wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/download/hd-wallpapers/taylor-swift-1920x1080.jpg' alt='Taylor Swift Wallpaper For Chromebook | Chromebook Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/download/hd-wallpapers/taylor-swift-1920x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift - Chrome Web Store">
+                                <img itemprop="contentUrl url" src='https://lh3.googleusercontent.com/VYOMwu_ybwkKPVsc9dHUG_Tf6d_nJmiDcYk7dbioWzvsE3VrLtzw90LsVHN2XaimWEYoRuTHyN-G6VVKhPuOMyvHKYM=s1280-w1280-h800' alt='Taylor Swift - Chrome Web Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Chrome Web Store - Google" />
+                                </span>
+                                <a href='https://lh3.googleusercontent.com/VYOMwu_ybwkKPVsc9dHUG_Tf6d_nJmiDcYk7dbioWzvsE3VrLtzw90LsVHN2XaimWEYoRuTHyN-G6VVKhPuOMyvHKYM=s1280-w1280-h800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Taylor Swift widget collage     ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/96/2e/ab/962eab183b491974b545655acb755a0f.jpg' alt='Taylor Swift widget collage     '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="345">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/96/2e/ab/962eab183b491974b545655acb755a0f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Taylor Swift Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/taylor-swift-pbamquwa6713jt40.jpg' alt='200+] Taylor Swift Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/taylor-swift-pbamquwa6713jt40.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="taylor swift wallpaper - Google Search">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3e/68/4f/3e684f99d04d2a6887937cee882ca398.jpg' alt='taylor swift wallpaper - Google Search'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3e/68/4f/3e684f99d04d2a6887937cee882ca398.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

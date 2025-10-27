@@ -1,0 +1,129 @@
+<title>Stunning Google Pixel Lock Screen Wallpapers</title>
+                    <meta name="description" content="Discover the best lock screen wallpapers for your Google Pixel! Customize your device with beautiful, high-quality images that suit your style. From nature scenes to abstract art, find the perfect wallpaper to make your lock screen stand out today!">
+                    <meta name="keywords" content="google pixel lock screen wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock">
+                            <span itemprop="name">Lock</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock/google-pixel-lock-screen-wallpaper">
+                            <span itemprop="name">google pixel lock screen wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Google Pixel Lock Screen Wallpapers</h1>
+                <p>Unlock your Google Pixel with stunning lock screen wallpapers that reflect your style. Whether you prefer nature, abstract designs, or personalized images, your lock screen can showcase your personality. Explore the best ways to customize your Pixel's lock screen for an eye-catching look every time you check your phone.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a Starfield themed lock and home screen wallpaper combo ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/i-made-a-starfield-themed-lock-and-home-screen-wallpaper-v0-s8p2q6zvp5zb1.png?width=1440&format=png&auto=webp&s=de700edbbc12e8011d13db74dc3b8782c0f3c5d4' alt='I made a Starfield themed lock and home screen wallpaper combo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="3200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/i-made-a-starfield-themed-lock-and-home-screen-wallpaper-v0-s8p2q6zvp5zb1.png?width=1440&format=png&auto=webp&s=de700edbbc12e8011d13db74dc3b8782c0f3c5d4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel lockscreen with depth effect : r/oneui">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/pixel-lockscreen-with-depth-effect-v0-4rvpglbwj10b1.png?width=640&crop=smart&auto=webp&s=6fe89c91fee9484ca6dd5d806cb3a10577002c1d' alt='Pixel lockscreen with depth effect : r/oneui'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/pixel-lockscreen-with-depth-effect-v0-4rvpglbwj10b1.png?width=640&crop=smart&auto=webp&s=6fe89c91fee9484ca6dd5d806cb3a10577002c1d' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel 7 Lock Screen Wallpaper Template : r/pixel_phones">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/pixel-7-lock-screen-wallpaper-template-v0-37b94i0q9dgb1.jpg?width=1080&crop=smart&auto=webp&s=1c9ef758d9d32dc5d28f56f95812d53f7267bb78' alt='Pixel 7 Lock Screen Wallpaper Template : r/pixel_phones'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/pixel-7-lock-screen-wallpaper-template-v0-37b94i0q9dgb1.jpg?width=1080&crop=smart&auto=webp&s=1c9ef758d9d32dc5d28f56f95812d53f7267bb78' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iOS 16-inspired Android lockscreen on Google Pixel [Gallery ...">
+                                <img itemprop="contentUrl url" src='https://9to5google.com/2022/06/24/ios-16-android-pixel-lockscreen/ios-16-android-pixel-lockscreen-4/' alt='iOS 16-inspired Android lockscreen on Google Pixel [Gallery ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="882">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="9to5Google" />
+                                </span>
+                                <a href='https://9to5google.com/2022/06/24/ios-16-android-pixel-lockscreen/ios-16-android-pixel-lockscreen-4/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixel, amoled, android, black, google, google pixel, lock screen ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/586/40/HD-wallpaper-pixel-amoled-android-black-google-google-pixel-lock-screen-logo-pixel-5-samsung.jpg' alt='Pixel, amoled, android, black, google, google pixel, lock screen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/586/40/HD-wallpaper-pixel-amoled-android-black-google-google-pixel-lock-screen-logo-pixel-5-samsung.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Issue with the lock screen wallpaper on Pixel 5 - Google Pixel ...">
+                                <img itemprop="contentUrl url" src='https://storage.googleapis.com/support-forums-api/attachment/thread-81262760-3105029398487180631.png' alt='Issue with the lock screen wallpaper on Pixel 5 - Google Pixel ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="864">
+                                <meta itemprop="height" content="1872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Help" />
+                                </span>
+                                <a href='https://storage.googleapis.com/support-forums-api/attachment/thread-81262760-3105029398487180631.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9c/f7/a1/9cf7a188e9583a01451f061750262fce.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9c/f7/a1/9cf7a188e9583a01451f061750262fce.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Google, Please Let Me Share My Pixel 8's AI Wallpapers">
+                                <img itemprop="contentUrl url" src='https://www.droid-life.com/wp-content/uploads/2023/10/AI-Wallpapers-Pixel-8-980x651.jpg' alt='Google, Please Let Me Share My Pixel 8's AI Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="651">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Droid Life" />
+                                </span>
+                                <a href='https://www.droid-life.com/wp-content/uploads/2023/10/AI-Wallpapers-Pixel-8-980x651.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Love this new pixel wallpaper on my lockscreen, nice and ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/7l8gjznhino11.png' alt='Love this new pixel wallpaper on my lockscreen, nice and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1312">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/7l8gjznhino11.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Google Locked, 929, black, dark, edge, google, lock, locked, logo ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/333/553/HD-wallpaper-google-locked-929-black-dark-edge-google-lock-locked-logo-red-screen.jpg' alt='Google Locked, 929, black, dark, edge, google, lock, locked, logo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/333/553/HD-wallpaper-google-locked-929-black-dark-edge-google-lock-locked-logo-red-screen.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

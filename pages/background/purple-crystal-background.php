@@ -1,0 +1,129 @@
+<title>Stunning Purple Crystal Backgrounds for All Your Designs</title>
+                    <meta name="description" content="Explore our collection of stunning purple crystal backgrounds. These captivating designs add elegance and mystery to your projects, making them perfect for digital wallpapers, social media, or graphic design needs. Enhance your creations with the alluring beauty of purple crystals!">
+                    <meta name="keywords" content="purple crystal background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/purple-crystal-background">
+                            <span itemprop="name">purple crystal background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Purple Crystal Backgrounds for All Your Designs</h1>
+                <p>Discover the enchanting beauty of a purple crystal background, perfect for adding a touch of elegance and mystique to any project. This stunning backdrop features a mesmerizing blend of deep purples, shimmering highlights, and intricate crystal formations, creating a captivating visual. Ideal for wallpapers, graphic designs, or social media posts.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15,800+ Purple Amethyst Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/617874190/photo/bright-violet-texture-from-natural-amethyst.jpg?s=612x612&w=0&k=20&c=_zoW8Tb3ttuxhvSeKVQr_y-1pWIk5HRZKfPXdc1wlWs=' alt='15,800+ Purple Amethyst Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="407">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/617874190/photo/bright-violet-texture-from-natural-amethyst.jpg?s=612x612&w=0&k=20&c=_zoW8Tb3ttuxhvSeKVQr_y-1pWIk5HRZKfPXdc1wlWs=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Crystal Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/038/119/641/non_2x/ai-generated-mysterious-purple-crystal-abstract-perfect-for-generative-background-designs-ai-generated-photo.jpg' alt='Purple Crystal Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1749">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/038/119/641/non_2x/ai-generated-mysterious-purple-crystal-abstract-perfect-for-generative-background-designs-ai-generated-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Crystal Background Images, HD Pictures and Wallpaper For ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20210427/pngtree-vector-crystal-purple-background-image_653523.jpg' alt='Purple Crystal Background Images, HD Pictures and Wallpaper For ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="861">
+                                <meta itemprop="height" content="404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20210427/pngtree-vector-crystal-purple-background-image_653523.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="52,200+ Purple Crystals Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1141501427/photo/3d-abstract-violet-crystal-background-blue-purple-fashion-wallpaper-faceted-geometrical.jpg?s=612x612&w=0&k=20&c=3RxzMHHT8-v9cJ6_z6kW4dmSeqtBvzD8plxJzFcO8Ek=' alt='52,200+ Purple Crystals Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1141501427/photo/3d-abstract-violet-crystal-background-blue-purple-fashion-wallpaper-faceted-geometrical.jpg?s=612x612&w=0&k=20&c=3RxzMHHT8-v9cJ6_z6kW4dmSeqtBvzD8plxJzFcO8Ek=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Abstract crystal background in purple colors with ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/abstract-crystal-background-purple-colors-with-refracting-light-highlights-facets_444390-21860.jpg' alt='Premium Vector | Abstract crystal background in purple colors with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/abstract-crystal-background-purple-colors-with-refracting-light-highlights-facets_444390-21860.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Crystal Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1692029054048-e64757fad787?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cHVycGxlJTIwY3J5c3RhbHxlbnwwfHwwfHx8MA%3D%3D' alt='Purple Crystal Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1692029054048-e64757fad787?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cHVycGxlJTIwY3J5c3RhbHxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Purple crystal background with triangles. 3d ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/purple-crystal-background-with-triangles-3d-rendering_158469-1075.jpg' alt='Premium Photo | Purple crystal background with triangles. 3d ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/purple-crystal-background-with-triangles-3d-rendering_158469-1075.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="We Heart It">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/6f/78/ec/6f78ec56e34258e7c60a2063940dff87.jpg' alt='We Heart It'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="916">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/6f/78/ec/6f78ec56e34258e7c60a2063940dff87.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="sparkling purple crystal gemstone background. . 30468506 Stock ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/030/468/506/large_2x/sparkling-purple-crystal-gemstone-background-ai-generated-photo.jpg' alt='sparkling purple crystal gemstone background. . 30468506 Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3497">
+                                <meta itemprop="height" content="1960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/030/468/506/large_2x/sparkling-purple-crystal-gemstone-background-ai-generated-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="52,200+ Purple Crystals Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1472395941/photo/amethyst-druse.jpg?s=612x612&w=0&k=20&c=6Z8RHP4GCe2iZQaVd6v_r-5FTAzQYzx7KXc18CKMtzw=' alt='52,200+ Purple Crystals Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="407">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1472395941/photo/amethyst-druse.jpg?s=612x612&w=0&k=20&c=6Z8RHP4GCe2iZQaVd6v_r-5FTAzQYzx7KXc18CKMtzw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

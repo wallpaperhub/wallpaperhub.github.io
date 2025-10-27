@@ -1,0 +1,129 @@
+<title>Se7enSins: The Ultimate Gaming & Modding Community</title>
+                    <meta name="description" content="Discover the vibrant world of Se7enSins, a thriving community for gamers and modders. Engage in forums, find tutorials, and share your gaming experiences. Join us and elevate your gaming skills today!">
+                    <meta name="keywords" content="se7ensins background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/se7ensins-background">
+                            <span itemprop="name">se7ensins background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Se7enSins: The Ultimate Gaming & Modding Community</h1>
+                <p>Se7enSins is a popular online community and forum focused on gaming, modding, and general tech discussions. Founded in 2005, it attracts gamers and modders alike, offering tutorials, cheats, and resources for various gaming platforms. The community thrives on sharing knowledge, fostering creativity, and playing together.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Se7enSins Desktop Background (Feel free to use) | Se7enSins Gaming ...">
+                                <img itemprop="contentUrl url" src='https://www.se7ensins.com/proxy.php?image=http%3A%2F%2Fi.imgur.com%2FfvEBS5d.png&hash=7d901cf5c5c05975ae77a37d6d11843b' alt='Se7enSins Desktop Background (Feel free to use) | Se7enSins Gaming ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Se7enSins Gaming Community" />
+                                </span>
+                                <a href='https://www.se7ensins.com/proxy.php?image=http%3A%2F%2Fi.imgur.com%2FfvEBS5d.png&hash=7d901cf5c5c05975ae77a37d6d11843b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="First Try at Youtube Backgrounds | Se7enSins Gaming Community">
+                                <img itemprop="contentUrl url" src='https://www.se7ensins.com/proxy.php?image=http%3A%2F%2Fi.imgur.com%2FnZJaefx.jpg&hash=636afb228431448a32561738a6f76552' alt='First Try at Youtube Backgrounds | Se7enSins Gaming Community'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Se7enSins Gaming Community" />
+                                </span>
+                                <a href='https://www.se7ensins.com/proxy.php?image=http%3A%2F%2Fi.imgur.com%2FnZJaefx.jpg&hash=636afb228431448a32561738a6f76552' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Show Off - {4K} Se7ensins audio reactive wallpapers and static ...">
+                                <img itemprop="contentUrl url" src='https://www.se7ensins.com/attachments/se7ensins_spotlight_wallpaper_720_preview-png.12238/' alt='Show Off - {4K} Se7ensins audio reactive wallpapers and static ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Se7enSins Gaming Community" />
+                                </span>
+                                <a href='https://www.se7ensins.com/attachments/se7ensins_spotlight_wallpaper_720_preview-png.12238/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Show Off - Firewatch Inspired Wallpaper | Se7enSins Gaming Community">
+                                <img itemprop="contentUrl url" src='https://www.se7ensins.com/proxy.php?image=http%3A%2F%2Fi.imgur.com%2Fuu8sboZ.png&hash=2f6d0af6591f77219d887ee4c72b3fe8' alt='Show Off - Firewatch Inspired Wallpaper | Se7enSins Gaming Community'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Se7enSins Gaming Community" />
+                                </span>
+                                <a href='https://www.se7ensins.com/proxy.php?image=http%3A%2F%2Fi.imgur.com%2Fuu8sboZ.png&hash=2f6d0af6591f77219d887ee4c72b3fe8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rate My Background 1-10 | Se7enSins Gaming Community">
+                                <img itemprop="contentUrl url" src='https://www.se7ensins.com/proxy.php?image=http%3A%2F%2Fgyazo.com%2Ff44138eea0a7a4b9debd9fd131d0e641.png&hash=bcc94570723ec0aade9084e3137437ec' alt='Rate My Background 1-10 | Se7enSins Gaming Community'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Se7enSins Gaming Community" />
+                                </span>
+                                <a href='https://www.se7ensins.com/proxy.php?image=http%3A%2F%2Fgyazo.com%2Ff44138eea0a7a4b9debd9fd131d0e641.png&hash=bcc94570723ec0aade9084e3137437ec' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Request - Steam profile background gif | Se7enSins Gaming Community">
+                                <img itemprop="contentUrl url" src='https://www.se7ensins.com/proxy.php?image=http%3A%2F%2Fsteamcommunity-a.akamaihd.net%2Feconomy%2Fimage%2FU8721VM9p9C2v1o6cKJ4qEnGqnE7IoTQgZI-VTdwyTBeimAcIoxXpgK8bPeslY9pPJIvB5IWW2-452kaM8heLSRgleGHorRBxu94O6gs2eWpD10l5ecUBjzjH0LThDHEf-r2kVAxMsYqJ0eiwZ9L6I1VC595SOK1j4-1Lg&hash=319cb4add07a1dff53a9e87f55e3c868' alt='Request - Steam profile background gif | Se7enSins Gaming Community'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Se7enSins Gaming Community" />
+                                </span>
+                                <a href='https://www.se7ensins.com/proxy.php?image=http%3A%2F%2Fsteamcommunity-a.akamaihd.net%2Feconomy%2Fimage%2FU8721VM9p9C2v1o6cKJ4qEnGqnE7IoTQgZI-VTdwyTBeimAcIoxXpgK8bPeslY9pPJIvB5IWW2-452kaM8heLSRgleGHorRBxu94O6gs2eWpD10l5ecUBjzjH0LThDHEf-r2kVAxMsYqJ0eiwZ9L6I1VC595SOK1j4-1Lg&hash=319cb4add07a1dff53a9e87f55e3c868' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Request) Se7ensins Avatar | Se7enSins Gaming Community">
+                                <img itemprop="contentUrl url" src='https://www.se7ensins.com/proxy.php?image=http%3A%2F%2Fembed.gyazo.com%2F1f83edb8796a3fe44386f3ae4a773c9f.png&hash=0957f6b3ef8f2390f9fd342e00d70d75' alt='Request) Se7ensins Avatar | Se7enSins Gaming Community'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="313">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Se7enSins Gaming Community" />
+                                </span>
+                                <a href='https://www.se7ensins.com/proxy.php?image=http%3A%2F%2Fembed.gyazo.com%2F1f83edb8796a3fe44386f3ae4a773c9f.png&hash=0957f6b3ef8f2390f9fd342e00d70d75' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2 New YouTube Backgrounds | Se7enSins Gaming Community">
+                                <img itemprop="contentUrl url" src='https://www.se7ensins.com/proxy.php?image=http%3A%2F%2Fi.imgur.com%2FHtaPxkF.png&hash=ef70b0ada235f7c71d2683ec164f81a3' alt='2 New YouTube Backgrounds | Se7enSins Gaming Community'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="965">
+                                <meta itemprop="height" content="523">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Se7enSins Gaming Community" />
+                                </span>
+                                <a href='https://www.se7ensins.com/proxy.php?image=http%3A%2F%2Fi.imgur.com%2FHtaPxkF.png&hash=ef70b0ada235f7c71d2683ec164f81a3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="First Try at Youtube Backgrounds | Se7enSins Gaming Community">
+                                <img itemprop="contentUrl url" src='https://www.se7ensins.com/proxy.php?image=http%3A%2F%2Fi.imgur.com%2FIFJ7BQc.jpg&hash=de0d95eddbd1128622877516745aa4d9' alt='First Try at Youtube Backgrounds | Se7enSins Gaming Community'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="1490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Se7enSins Gaming Community" />
+                                </span>
+                                <a href='https://www.se7ensins.com/proxy.php?image=http%3A%2F%2Fi.imgur.com%2FIFJ7BQc.jpg&hash=de0d95eddbd1128622877516745aa4d9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Discussion - CS6 | Youtube Interface Background Template | PSD + ...">
+                                <img itemprop="contentUrl url" src='https://www.se7ensins.com/proxy.php?image=http%3A%2F%2Fi.imgur.com%2F2epdK.png&hash=1b201fb8dcf720c7b2ac3981680881aa' alt='Discussion - CS6 | Youtube Interface Background Template | PSD + ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1909">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Se7enSins Gaming Community" />
+                                </span>
+                                <a href='https://www.se7ensins.com/proxy.php?image=http%3A%2F%2Fi.imgur.com%2F2epdK.png&hash=1b201fb8dcf720c7b2ac3981680881aa' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

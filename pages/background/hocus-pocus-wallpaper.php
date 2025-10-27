@@ -1,0 +1,129 @@
+<title>Hocus Pocus Wallpaper: Enchant Your Space</title>
+                    <meta name="description" content="Discover magical Hocus Pocus wallpaper to elevate your home decor. Perfect for fans, this enchanting design features beloved characters and whimsical elements. Transform your living space and celebrate the magic of Hocus Pocus all year long. Perfect for bedrooms, playrooms, or seasonal decoration!">
+                    <meta name="keywords" content="hocus pocus wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/hocus-pocus-wallpaper">
+                            <span itemprop="name">hocus pocus wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Hocus Pocus Wallpaper: Enchant Your Space</h1>
+                <p>Transform your space with enchanting Hocus Pocus wallpaper! Perfect for fans of the classic film, these whimsical designs bring magic and nostalgia into any room. Ideal for living rooms, bedrooms, or children's play areas, this wallpaper features captivating imagery of the Sanderson sisters and other iconic elements. Embrace the spirit of Halloween year-round with this delightful decor!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hocus pocus halloween phone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e5/ee/fc/e5eefcbce74f7131168b4e44ca5c31ba.jpg' alt='Hocus pocus halloween phone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e5/ee/fc/e5eefcbce74f7131168b4e44ca5c31ba.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hocus Pocus 2 Wallpapers (23 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/7/8/2/1657243-1920x1080-desktop-full-hd-hocus-pocus-2-background.jpg' alt='Hocus Pocus 2 Wallpapers (23 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/7/8/2/1657243-1920x1080-desktop-full-hd-hocus-pocus-2-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hocus pocus collage background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f9/ea/36/f9ea36e7642f98b3dfe1be03c9513fb2.jpg' alt='Hocus pocus collage background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f9/ea/36/f9ea36e7642f98b3dfe1be03c9513fb2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Hocus Pocus Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/hocus-pocus-420gx8fps8mawfg3.jpg' alt='100+] Hocus Pocus Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/hocus-pocus-420gx8fps8mawfg3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Hocus Pocus Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/hocus-pocus-iphone-h2n7qsxj0uj9auf9.jpg' alt='100+] Hocus Pocus Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/hocus-pocus-iphone-h2n7qsxj0uj9auf9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD hocus pocus halloween wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/91/802/HD-wallpaper-hocus-pocus-halloween-trick-or-treat-witches-thumbnail.jpg' alt='HD hocus pocus halloween wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="406">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/91/802/HD-wallpaper-hocus-pocus-halloween-trick-or-treat-witches-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goofy Hocus Pocus Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/goofy-hocus-pocus-gxw2quq5jnkkqswi.jpg' alt='Goofy Hocus Pocus Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/goofy-hocus-pocus-gxw2quq5jnkkqswi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Check out Pearl_maris's Shuffles hocus pocus       ‍⬛ #wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/2e/de/95/2ede95254649862e2d76676b9935ff53.jpg' alt='Check out Pearl_maris's Shuffles hocus pocus       ‍⬛ #wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shuffles" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/2e/de/95/2ede95254649862e2d76676b9935ff53.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Movie Hocus Pocus 2 HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/127/thumb-1920-1279196.jpg' alt='Download Movie Hocus Pocus 2 HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/127/thumb-1920-1279196.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Hocus Pocus Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/hocus-pocus-background-bdufvcck9297u1t9.jpg' alt='100+] Hocus Pocus Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/hocus-pocus-background-bdufvcck9297u1t9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

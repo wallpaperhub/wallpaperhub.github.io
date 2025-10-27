@@ -1,0 +1,129 @@
+<title>Download Notre Dame Logo PNG: High Quality & Free</title>
+                    <meta name="description" content="Explore our selection of Notre Dame logo PNGs! Get transparent, high-quality images of the Fighting Irish logo suitable for all your design needs. Perfect for both digital and print use, download now and elevate your projects with these iconic designs!">
+                    <meta name="keywords" content="notre dame logo png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/notre-dame-logo-png">
+                            <span itemprop="name">notre dame logo png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Download Notre Dame Logo PNG: High Quality & Free</h1>
+                <p>Looking for a high-quality Notre Dame logo PNG? You've come to the right place! Our collection features transparent PNGs of the iconic Fighting Irish logo, perfect for use in various projects, whether for personal or professional purposes. Download your favorite logo now and showcase your love for Notre Dame!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Notre Dame Fighting Irish logo.svg - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Notre_Dame_Fighting_Irish_logo.svg/1200px-Notre_Dame_Fighting_Irish_logo.svg.png' alt='File:Notre Dame Fighting Irish logo.svg - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1081">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Notre_Dame_Fighting_Irish_logo.svg/1200px-Notre_Dame_Fighting_Irish_logo.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Notre Dame Logo - Gold Notre Dame Logo Emblem - CleanPNG ...">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180614/rql/kisspng-notre-dame-fighting-irish-women-s-basketball-notre-mad-dogg-athletics-5b232ca7213dc2.0388333415290318471362.jpg' alt='Gold Notre Dame Logo - Gold Notre Dame Logo Emblem - CleanPNG ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180614/rql/kisspng-notre-dame-fighting-irish-women-s-basketball-notre-mad-dogg-athletics-5b232ca7213dc2.0388333415290318471362.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nd Logo - ND Logo Design in Blue and Gold - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180618/cg/aa683yvs6.webp' alt='Nd Logo - ND Logo Design in Blue and Gold - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180618/cg/aa683yvs6.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="File:Nd athletics gold logo 2015.svg - Wikimedia Commons">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Nd_athletics_gold_logo_2015.svg/1200px-Nd_athletics_gold_logo_2015.svg.png' alt='File:Nd athletics gold logo 2015.svg - Wikimedia Commons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1081">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikimedia Commons" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Nd_athletics_gold_logo_2015.svg/1200px-Nd_athletics_gold_logo_2015.svg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Notre Dame Fighting Irish 1964 Years Logo PNG vector in SVG, PDF ...">
+                                <img itemprop="contentUrl url" src='https://logowik.com/content/uploads/images/notre-dame-fighting-irish5813.jpg' alt='Notre Dame Fighting Irish 1964 Years Logo PNG vector in SVG, PDF ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="866">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Logowik" />
+                                </span>
+                                <a href='https://logowik.com/content/uploads/images/notre-dame-fighting-irish5813.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Notre Dame Leprechaun Logo and symbol, meaning, history, PNG, brand">
+                                <img itemprop="contentUrl url" src='https://1000logos.net/wp-content/uploads/2018/02/Notre-Dame-Leprechaun-Logo.png' alt='Notre Dame Leprechaun Logo and symbol, meaning, history, PNG, brand'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="1000 Logos" />
+                                </span>
+                                <a href='https://1000logos.net/wp-content/uploads/2018/02/Notre-Dame-Leprechaun-Logo.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="University of Notre Dame Logo, symbol, meaning, history, PNG, brand">
+                                <img itemprop="contentUrl url" src='https://logos-world.net/wp-content/uploads/2021/09/Notre-Dame-Logo-Emblem.png' alt='University of Notre Dame Logo, symbol, meaning, history, PNG, brand'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Logos-world" />
+                                </span>
+                                <a href='https://logos-world.net/wp-content/uploads/2021/09/Notre-Dame-Logo-Emblem.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Notre Dame Fighting Irish Logo PNG Vector (EPS) Free Download">
+                                <img itemprop="contentUrl url" src='https://seeklogo.com/images/N/notre-dame-fighting-irish-logo-838BA43ED0-seeklogo.com.png' alt='Notre Dame Fighting Irish Logo PNG Vector (EPS) Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="254">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Seeklogo" />
+                                </span>
+                                <a href='https://seeklogo.com/images/N/notre-dame-fighting-irish-logo-838BA43ED0-seeklogo.com.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Logo Notre Dame Football Clipart">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/dd/99/a6/dd99a6c53d19aa3cf68854d17c328b1e.jpg' alt='Logo Notre Dame Football Clipart'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="641">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/dd/99/a6/dd99a6c53d19aa3cf68854d17c328b1e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Notre Dame Fighting Irish Logo PNG Transparent & SVG Vector ...">
+                                <img itemprop="contentUrl url" src='https://cdn.freebiesupply.com/logos/large/2x/notre-dame-fighting-irish-logo-png-transparent.png' alt='Notre Dame Fighting Irish Logo PNG Transparent & SVG Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freebie Supply" />
+                                </span>
+                                <a href='https://cdn.freebiesupply.com/logos/large/2x/notre-dame-fighting-irish-logo-png-transparent.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

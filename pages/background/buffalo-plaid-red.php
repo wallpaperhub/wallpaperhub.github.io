@@ -1,0 +1,129 @@
+<title>Cozy Up with Buffalo Plaid Red: A Timeless Style</title>
+                    <meta name="description" content="Discover the charm of buffalo plaid red, a classic pattern that adds warmth and style to your wardrobe and home. Perfect for winter and holiday decor, this bold design is a must-have for anyone looking to create a cozy atmosphere. Explore its versatility and timeless appeal today!">
+                    <meta name="keywords" content="buffalo plaid red">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/buffalo-plaid-red">
+                            <span itemprop="name">buffalo plaid red</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cozy Up with Buffalo Plaid Red: A Timeless Style</h1>
+                <p>Buffalo plaid red is a timeless pattern that evokes cozy feelings of warmth and rustic charm. Perfect for winter wear, home decor, and seasonal celebrations, this classic design features bold red and black checks that seamlessly blend style with comfort. Ideal for creating a welcoming atmosphere, buffalo plaid red remains a favorite choice.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="18 x 12 Buffalo Plaid HTV Red Black Check Printed Heat Transfer Vinyl Craft  Pattern Sheet">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61Uf+RyR4NL._AC_UF894,1000_QL80_.jpg' alt='18 x 12 Buffalo Plaid HTV Red Black Check Printed Heat Transfer Vinyl Craft  Pattern Sheet'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61Uf+RyR4NL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Brief History of Buffalo Plaid | PieceWork">
+                                <img itemprop="contentUrl url" src='https://www.datocms-assets.com/75076/1656656339-macgregor_tartan_2.jpeg?auto=format&w=1600' alt='A Brief History of Buffalo Plaid | PieceWork'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PieceWork magazine" />
+                                </span>
+                                <a href='https://www.datocms-assets.com/75076/1656656339-macgregor_tartan_2.jpeg?auto=format&w=1600' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Anti-Pill Buffalo Plaid Red Black Fleece 709">
+                                <img itemprop="contentUrl url" src='https://syfabrics.com/cdn/shop/products/709_buffalo_plaid_red_black_800x.jpg?v=1521145864' alt='Premium Anti-Pill Buffalo Plaid Red Black Fleece 709'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SY Fabrics" />
+                                </span>
+                                <a href='https://syfabrics.com/cdn/shop/products/709_buffalo_plaid_red_black_800x.jpg?v=1521145864' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Outdoor Buffalo Check Red">
+                                <img itemprop="contentUrl url" src='https://www.housefabric.com/Assets/ProductImages/Outdoor_Anderson_Rojo.jpg' alt='Outdoor Buffalo Check Red'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="355">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="House Fabric" />
+                                </span>
+                                <a href='https://www.housefabric.com/Assets/ProductImages/Outdoor_Anderson_Rojo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Buffalo Plaid Tissue Paper, 20x30", Bulk 240 Sheet Pack">
+                                <img itemprop="contentUrl url" src='https://static.nashvillewraps.com/images/sku/P1164-XLARGE.jpg' alt='Red Buffalo Plaid Tissue Paper, 20x30", Bulk 240 Sheet Pack'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nashville Wraps" />
+                                </span>
+                                <a href='https://static.nashvillewraps.com/images/sku/P1164-XLARGE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fiery Red - Buffalo Plaid - 1/2" – Boxer Craft House">
+                                <img itemprop="contentUrl url" src='https://boxercrafthouse.com/cdn/shop/products/220159-Buffalo-Plaid-1.2-Square-Fiery-Red-RULER_b180e329-df04-496e-afbe-a5a5ead2b4dd.png?v=1687981094&width=1946' alt='Fiery Red - Buffalo Plaid - 1/2" – Boxer Craft House'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1951">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Boxer Craft House" />
+                                </span>
+                                <a href='https://boxercrafthouse.com/cdn/shop/products/220159-Buffalo-Plaid-1.2-Square-Fiery-Red-RULER_b180e329-df04-496e-afbe-a5a5ead2b4dd.png?v=1687981094&width=1946' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Buffalo Plaid No.1: Dk. Red Buffalo Plaid 12x12 Patterned Paper">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-96rdduop5j/images/stencil/2048x2048/products/9781/19854/CBBP1002_Dk_Red_Buffalo_Plaid__03668.1671218846.jpg?c=2' alt='Buffalo Plaid No.1: Dk. Red Buffalo Plaid 12x12 Patterned Paper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Echo Park Paper" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-96rdduop5j/images/stencil/2048x2048/products/9781/19854/CBBP1002_Dk_Red_Buffalo_Plaid__03668.1671218846.jpg?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Red Buffalo Plaid Christmas Throw TV Sherpa Blanket 50" x 60",  Super Soft Warm Comfy Plush Fleece Bedding Couch Cabin Decorative Throw ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/917+9cw00VL.jpg' alt='Amazon.com: Red Buffalo Plaid Christmas Throw TV Sherpa Blanket 50" x 60",  Super Soft Warm Comfy Plush Fleece Bedding Couch Cabin Decorative Throw ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/917+9cw00VL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Red and Black Buffalo Plaid Peel and Stick Wallpaper (Covers 30.75  sq. ft.) NW34501">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/8bd3e5f3-9273-46f9-819b-555c799daa8d/svn/nextwall-wallpaper-rolls-nw34501-64_600.jpg' alt='NextWall Red and Black Buffalo Plaid Peel and Stick Wallpaper (Covers 30.75  sq. ft.) NW34501'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/8bd3e5f3-9273-46f9-819b-555c799daa8d/svn/nextwall-wallpaper-rolls-nw34501-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rothco Extra Heavyweight Buffalo Plaid Flannel Shirt (Red Plaid)">
+                                <img itemprop="contentUrl url" src='http://allsecurityequipment.com/cdn/shop/products/Rothco-Extra-Heavyweight-Buffalo-Plaid-Flannel-Shirt-_Red-Plaid_-1.jpg?v=1674826471' alt='Rothco Extra Heavyweight Buffalo Plaid Flannel Shirt (Red Plaid)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="All Security Equipment" />
+                                </span>
+                                <a href='http://allsecurityequipment.com/cdn/shop/products/Rothco-Extra-Heavyweight-Buffalo-Plaid-Flannel-Shirt-_Red-Plaid_-1.jpg?v=1674826471' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

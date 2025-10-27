@@ -1,0 +1,129 @@
+<title>Cute Purple Aesthetic Wallpapers for a Dreamy Touch</title>
+                    <meta name="description" content="Explore a collection of cute purple aesthetic wallpapers, perfect for transforming your screens into serene spaces. Ideal for those seeking a touch of whimsy and charm, these wallpapers offer a dreamy flair to enhance your digital experience. Download and refresh your aesthetic today!">
+                    <meta name="keywords" content="cute aesthetic wallpaper purple">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/cute-aesthetic-wallpaper-purple">
+                            <span itemprop="name">cute aesthetic wallpaper purple</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cute Purple Aesthetic Wallpapers for a Dreamy Touch</h1>
+                <p>Discover the charm of cute aesthetic purple wallpapers that add a dreamy vibe to your space! Perfect for cozying up your phone or computer, these wallpapers feature soft hues, whimsical designs, and enchanting patterns. Turn your screens into a canvas of imagination and style with these stunning purple options!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable purple aesthetic wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFZKbLSVKg/1/0/900w/canva-pink-purple-gradient-aesthetic-motivational-phone-wallpaper-R7t20pyincg.jpg' alt='Free and customizable purple aesthetic wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFZKbLSVKg/1/0/900w/canva-pink-purple-gradient-aesthetic-motivational-phone-wallpaper-R7t20pyincg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable purple aesthetic wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGJYRvd5Zs/1/0/900w/canva-purple-and-white-minimalist-watercolor-background-phone-wallpaper-yVR5EwR47To.jpg' alt='Free and customizable purple aesthetic wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGJYRvd5Zs/1/0/900w/canva-purple-and-white-minimalist-watercolor-background-phone-wallpaper-yVR5EwR47To.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light purple aesthetic wallpaper | Purple aesthetic, Purple ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8f/00/89/8f00890893d4337d261a031ef085d4bf.jpg' alt='Light purple aesthetic wallpaper | Purple aesthetic, Purple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8f/00/89/8f00890893d4337d261a031ef085d4bf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Pastel Purple Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/pastel-purple-5zg9l3tzlctx5mxx.jpg' alt='200+] Pastel Purple Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/pastel-purple-5zg9l3tzlctx5mxx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Aesthetic Wallpaper - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/Xxl5Z5ajvrnQUXrkKLROiaeknxfQf80OnW3uQ-ktyQgr6-fbYvQqHKpqs-jICZqGJA=w526-h296-rw' alt='Purple Aesthetic Wallpaper - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="166">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/Xxl5Z5ajvrnQUXrkKLROiaeknxfQf80OnW3uQ-ktyQgr6-fbYvQqHKpqs-jICZqGJA=w526-h296-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple wallpaper aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/30/13/dc/3013dc0968dbfd8911abab2992d18c69.jpg' alt='Purple wallpaper aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/30/13/dc/3013dc0968dbfd8911abab2992d18c69.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable purple aesthetic wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAF5XyUW7TY/2/0/900w/canva-purple-celestial-watercolor-phone-wallpaper-orcOc9H6YrI.jpg' alt='Free and customizable purple aesthetic wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAF5XyUW7TY/2/0/900w/canva-purple-celestial-watercolor-phone-wallpaper-orcOc9H6YrI.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="17 Purple Phone Wallpapers, Aesthetic iPhone Backgrounds, Cute ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35055726/r/il/d4881e/5276524631/il_570xN.5276524631_lsvf.jpg' alt='17 Purple Phone Wallpapers, Aesthetic iPhone Backgrounds, Cute ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35055726/r/il/d4881e/5276524631/il_570xN.5276524631_lsvf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Aesthetic Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/purple-background-with-stars-stars_363897-14157.jpg?semt=ais_hybrid' alt='Purple Aesthetic Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="352">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/purple-background-with-stars-stars_363897-14157.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Aesthetic Wallpaper - Apps on Google Play">
+                                <img itemprop="contentUrl url" src='https://play-lh.googleusercontent.com/R6uIXwS1lzdEEtNDhlxQizigfrsJh4-GNqp4QCYdHZVgzy2gGCR7QJFQLxTV1X9cAeg=w526-h296-rw' alt='Purple Aesthetic Wallpaper - Apps on Google Play'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="195">
+                                <meta itemprop="height" content="296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Play" />
+                                </span>
+                                <a href='https://play-lh.googleusercontent.com/R6uIXwS1lzdEEtNDhlxQizigfrsJh4-GNqp4QCYdHZVgzy2gGCR7QJFQLxTV1X9cAeg=w526-h296-rw' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

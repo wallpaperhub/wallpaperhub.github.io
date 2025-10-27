@@ -1,0 +1,129 @@
+<title>Stunning Castle Pictures: Explore Majestic Fortresses</title>
+                    <meta name="description" content="Discover a captivating collection of castle pictures, showcasing breathtaking architecture and enchanting landscapes. Perfect for history lovers and travelers, these images evoke the charm of ancient fortresses and their fascinating stories. Browse now for inspiration and a glimpse into a magical past!">
+                    <meta name="keywords" content="castle pictures">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/castle-pictures">
+                            <span itemprop="name">castle pictures</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Castle Pictures: Explore Majestic Fortresses</h1>
+                <p>Castle pictures transport you to a world of grandeur and history. From majestic fortresses perched on hilltops to romantic ruins enveloped by nature, these images capture the essence of adventure and the allure of ancient times. Explore stunning landscapes and intricate architectural details that tell tales of royalty and battles fought.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="22 Most Beautiful Castles in the World to Visit">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/bojnice-castle-1603142898.jpg?crop=0.668xw:1.00xh;0.116xw,0&resize=980:*' alt='22 Most Beautiful Castles in the World to Visit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="977">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Veranda" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/bojnice-castle-1603142898.jpg?crop=0.668xw:1.00xh;0.116xw,0&resize=980:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Castle - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Panor%C3%A1mica_Oto%C3%B1o_Alc%C3%A1zar_de_Segovia.jpg/1200px-Panor%C3%A1mica_Oto%C3%B1o_Alc%C3%A1zar_de_Segovia.jpg' alt='Castle - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Panor%C3%A1mica_Oto%C3%B1o_Alc%C3%A1zar_de_Segovia.jpg/1200px-Panor%C3%A1mica_Oto%C3%B1o_Alc%C3%A1zar_de_Segovia.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="World's most beautiful castles | CNN">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/190806154827-bodiam-castle.jpg?q=w_2166,h_1218,x_0,y_0,c_fill' alt='World's most beautiful castles | CNN'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2166">
+                                <meta itemprop="height" content="1218">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/190806154827-bodiam-castle.jpg?q=w_2166,h_1218,x_0,y_0,c_fill' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="270+ Castle Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1518709268805-4e9042af9f23?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y2FzdGxlfGVufDB8fDB8fHww' alt='270+ Castle Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4539">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1518709268805-4e9042af9f23?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y2FzdGxlfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The World's Most-Visited Castles and Palaces | Smithsonian">
+                                <img itemprop="contentUrl url" src='https://th-thumbnailer.cdn-si-edu.com/NfoN6gi9YiirTcwO0_bj9OFTSJE=/fit-in/1600x0/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/31/e7/31e70d69-a3b2-4823-9097-2176fd515da6/neuschwanstein-castle.jpg' alt='The World's Most-Visited Castles and Palaces | Smithsonian'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1283">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Smithsonian Magazine" />
+                                </span>
+                                <a href='https://th-thumbnailer.cdn-si-edu.com/NfoN6gi9YiirTcwO0_bj9OFTSJE=/fit-in/1600x0/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/31/e7/31e70d69-a3b2-4823-9097-2176fd515da6/neuschwanstein-castle.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="270+ Castle Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1580677616212-2fa929e9c2cd?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGNhc3RsZXxlbnwwfHwwfHx8MA%3D%3D' alt='270+ Castle Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1580677616212-2fa929e9c2cd?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGNhc3RsZXxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="750,476 Castle Stock Photos, High-Res Pictures, and Images - Getty ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/482882353/photo/fairy-tale-castle.jpg?s=612x612&w=gi&k=20&c=iDFkma1sK2Pre4-vOkUnFB-2Q3kOsqV3pYf1ONQ8DjI=' alt='750,476 Castle Stock Photos, High-Res Pictures, and Images - Getty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="596">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/482882353/photo/fairy-tale-castle.jpg?s=612x612&w=gi&k=20&c=iDFkma1sK2Pre4-vOkUnFB-2Q3kOsqV3pYf1ONQ8DjI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Medieval Castles | DiscoverMiddleAges">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/6443fc2b2933363add2016d7/1682186878903-8BCD6QXD2TJXQ9955JXY/Medieval%2BCastles.jpg' alt='Medieval Castles | DiscoverMiddleAges'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1668">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Discover Middle Ages" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/6443fc2b2933363add2016d7/1682186878903-8BCD6QXD2TJXQ9955JXY/Medieval%2BCastles.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The 'Fairytale Formula' - The Most Perfect Storybook Castles ...">
+                                <img itemprop="contentUrl url" src='https://www.oliverstravels.com/blog/wp-content/uploads/2024/06/Neuschwanstein-Castle-1.jpg' alt='The 'Fairytale Formula' - The Most Perfect Storybook Castles ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5366">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oliver's Travels" />
+                                </span>
+                                <a href='https://www.oliverstravels.com/blog/wp-content/uploads/2024/06/Neuschwanstein-Castle-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="270+ Castle Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1514539079130-25950c84af65?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Y2FzdGxlfGVufDB8fDB8fHww' alt='270+ Castle Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2003">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1514539079130-25950c84af65?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Y2FzdGxlfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

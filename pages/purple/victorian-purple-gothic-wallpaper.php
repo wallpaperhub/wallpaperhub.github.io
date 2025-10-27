@@ -1,0 +1,129 @@
+<title>Victorian Purple Gothic Wallpaper: Timeless Elegance for Your Home</title>
+                    <meta name="description" content="Add a touch of drama to your interiors with Victorian purple gothic wallpaper. Featuring intricate designs and luxurious hues, this wallpaper is perfect for creating a unique atmosphere in your home. Transform your space with Victorian elegance and gothic flair to captivate any visitor.">
+                    <meta name="keywords" content="victorian purple gothic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/victorian-purple-gothic-wallpaper">
+                            <span itemprop="name">victorian purple gothic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Victorian Purple Gothic Wallpaper: Timeless Elegance for Your Home</h1>
+                <p>Victorian purple gothic wallpaper brings a touch of timeless elegance and dramatic flair to any space. Inspired by the Victorian age, these wallpapers feature intricate patterns, ornate designs, and rich, regal hues of purple that evoke mystery and sophistication. Perfect for adding a gothic aesthetic to your home decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graham & Brown Gothic Damask Flock Plum Removable Wallpaper 106586 - The  Home Depot">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/dff482eb-5006-4b9c-9123-225bb1276916/svn/graham-brown-wallpaper-rolls-106586-64_1000.jpg' alt='Graham & Brown Gothic Damask Flock Plum Removable Wallpaper 106586 - The  Home Depot'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/dff482eb-5006-4b9c-9123-225bb1276916/svn/graham-brown-wallpaper-rolls-106586-64_1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Witchy Skull Wallpaper | Happywall.com">
+                                <img itemprop="contentUrl url" src='https://happywall-img-gallery.imgix.net/88042/witchy-skull-victorian-goth-roses-purple-roll.jpg?w=1400&auto=format&q=40' alt='Witchy Skull Wallpaper | Happywall.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="933">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-img-gallery.imgix.net/88042/witchy-skull-victorian-goth-roses-purple-roll.jpg?w=1400&auto=format&q=40' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel & Stick Wallpaper Swatch - Purple Gothic Damask Skulls Black Goth  Maximalist Victorian Spooky Halloween Custom Removable Wallpaper by  Spoonflower">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71FCza1FoFL.jpg' alt='Peel & Stick Wallpaper Swatch - Purple Gothic Damask Skulls Black Goth  Maximalist Victorian Spooky Halloween Custom Removable Wallpaper by  Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71FCza1FoFL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ornate Baroque Damask Wallpaper - Purple Victorian Gothic, Dark Vintage  Edwardian, Regal Steampunk Rococo Floral – By The Yard MD29427so">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8274094/r/il/df63aa/2032351222/il_fullxfull.2032351222_j0ai.jpg' alt='Ornate Baroque Damask Wallpaper - Purple Victorian Gothic, Dark Vintage  Edwardian, Regal Steampunk Rococo Floral – By The Yard MD29427so'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1744">
+                                <meta itemprop="height" content="1665">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8274094/r/il/df63aa/2032351222/il_fullxfull.2032351222_j0ai.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Victorian Floral Damask - black purple Wallpaper">
+                                <img itemprop="contentUrl url" src='https://raspberrycreekfabrics.com/cdn/shop/files/198a7e9107b98d63445aeb9a3cb48b46.jpg?v=1690552723&width=1024' alt='Victorian Floral Damask - black purple Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Raspberry Creek Fabrics" />
+                                </span>
+                                <a href='https://raspberrycreekfabrics.com/cdn/shop/files/198a7e9107b98d63445aeb9a3cb48b46.jpg?v=1690552723&width=1024' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Skull Snake And Victorian Goth Flowers Purple Wallpaper - Happywall">
+                                <img itemprop="contentUrl url" src='https://happywall-img-gallery.imgix.net/88024/skull_snake_and_victorian_goth_flowers_purple_limited.jpg' alt='Skull Snake And Victorian Goth Flowers Purple Wallpaper - Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="467">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-img-gallery.imgix.net/88024/skull_snake_and_victorian_goth_flowers_purple_limited.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Victorian Wallpaper by kyotowolf on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/23d9281a-31fd-4c6d-a0e7-34c86f1faccf/d7ulq51-5408b85c-d807-41f1-ab4e-1895efd0e16f.jpg/v1/fill/w_1024,h_576,q_75,strp/purple_victorian_wallpaper_by_kyotowolf_d7ulq51-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvMjNkOTI4MWEtMzFmZC00YzZkLWEwZTctMzRjODZmMWZhY2NmXC9kN3VscTUxLTU0MDhiODVjLWQ4MDctNDFmMS1hYjRlLTE4OTVlZmQwZTE2Zi5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.eJumdZLRYLA47yCgmsSRics9uksxa4cjVCBSCsby_5A' alt='Purple Victorian Wallpaper by kyotowolf on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/23d9281a-31fd-4c6d-a0e7-34c86f1faccf/d7ulq51-5408b85c-d807-41f1-ab4e-1895efd0e16f.jpg/v1/fill/w_1024,h_576,q_75,strp/purple_victorian_wallpaper_by_kyotowolf_d7ulq51-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvMjNkOTI4MWEtMzFmZC00YzZkLWEwZTctMzRjODZmMWZhY2NmXC9kN3VscTUxLTU0MDhiODVjLWQ4MDctNDFmMS1hYjRlLTE4OTVlZmQwZTE2Zi5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.eJumdZLRYLA47yCgmsSRics9uksxa4cjVCBSCsby_5A' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Purple Gothic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/purple-gothic-od1ihwipxjtdqef7.jpg' alt='100+] Purple Gothic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/purple-gothic-od1ihwipxjtdqef7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peel and Stick Wallpaper Wallpaper Ultra Violet Gothic Victorian ...">
+                                <img itemprop="contentUrl url" src='https://danadudesign.com/wp-content/uploads/peel-and-stick-wallpaper-ultra-violet-gothic-victorian-damask-deep-purple-black-large-scale.jpg' alt='Peel and Stick Wallpaper Wallpaper Ultra Violet Gothic Victorian ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dana Du Design" />
+                                </span>
+                                <a href='https://danadudesign.com/wp-content/uploads/peel-and-stick-wallpaper-ultra-violet-gothic-victorian-damask-deep-purple-black-large-scale.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a4/a5/e8/a4a5e83ceecd8c42cccbcc5e274b9d78.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1129">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a4/a5/e8/a4a5e83ceecd8c42cccbcc5e274b9d78.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

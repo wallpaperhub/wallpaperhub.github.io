@@ -1,0 +1,129 @@
+<title>Blurred Club Background: Capturing Nightlife Vibes</title>
+                    <meta name="description" content="Discover the allure of a blurred club background! Enhance your photos with a soft focus that accentuates the vibrant nightlife, creating an artistic view of dancing, music, and energy. Perfect for social media posts, let the blur draw your audience into the excitement of the moment.">
+                    <meta name="keywords" content="blurred club background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blurred-club-background">
+                            <span itemprop="name">blurred club background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Blurred Club Background: Capturing Nightlife Vibes</h1>
+                <p>A blurred club background creates an ambiance of excitement and mystery. The soft focus allows vibrant colors and dynamic lights to merge, enhancing the energy of nightlife. It draws attention to the action while offering an artistic perspective, perfect for capturing moments that celebrate the exhilaration of dancing, music, and socializing.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Interior of night club with a lubricated and ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/interior-night-club-with-lubricated-blurred-background-with_118086-6325.jpg' alt='Premium Photo | Interior of night club with a lubricated and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/interior-night-club-with-lubricated-blurred-background-with_118086-6325.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blurred background of people sitting at restaurant, bar or night ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/02/66/42/43/1000_F_266424390_0esteIkQLIZrIBPQT8qOgZ34pGSxoT1f.jpg' alt='Blurred background of people sitting at restaurant, bar or night ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/02/66/42/43/1000_F_266424390_0esteIkQLIZrIBPQT8qOgZ34pGSxoT1f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="447 Blurry Club Dance Lights Stock Photos - Free & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/people-dance-sing-have-fun-relax-nightclub-blurred-background-flashes-light-beautiful-blurry-lights-floor-173468368.jpg' alt='447 Blurry Club Dance Lights Stock Photos - Free & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/people-dance-sing-have-fun-relax-nightclub-blurred-background-flashes-light-beautiful-blurry-lights-floor-173468368.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="92,100+ Club Blur Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1320185152/photo/silhouette-hands-of-audience-crowd-people-enjoying-the-club-party-concert-celebrate-party.jpg?s=612x612&w=0&k=20&c=eUL0MJDm3_4GWb5Bb6_13hUhpWIcOiz43JUGEg62bn0=' alt='92,100+ Club Blur Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1320185152/photo/silhouette-hands-of-audience-crowd-people-enjoying-the-club-party-concert-celebrate-party.jpg?s=612x612&w=0&k=20&c=eUL0MJDm3_4GWb5Bb6_13hUhpWIcOiz43JUGEg62bn0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | People dancing having fun and relax in a night ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/people-dancing-having-fun-relax-night-club-blurred-background-beautiful-blurry-lights_86390-1716.jpg' alt='Premium Photo | People dancing having fun and relax in a night ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/people-dancing-having-fun-relax-night-club-blurred-background-beautiful-blurry-lights_86390-1716.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50,800+ Blurry Dance Club Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/877837206/photo/blurred-background-concert.jpg?s=612x612&w=0&k=20&c=77RiwlO-O0oWLJ3FPdbuAulHtRuGs0TWNc9ONci_SBw=' alt='50,800+ Blurry Dance Club Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="409">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/877837206/photo/blurred-background-concert.jpg?s=612x612&w=0&k=20&c=77RiwlO-O0oWLJ3FPdbuAulHtRuGs0TWNc9ONci_SBw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blurred Background Image & Photo (Free Trial) | Bigstock">
+                                <img itemprop="contentUrl url" src='https://static3.bigstockphoto.com/9/9/2/large1500/299654668.jpg' alt='Blurred Background Image & Photo (Free Trial) | Bigstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Big Stock Photo" />
+                                </span>
+                                <a href='https://static3.bigstockphoto.com/9/9/2/large1500/299654668.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="club party is blurred background Stock Photo | Adobe Stock">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/01/65/00/71/1000_F_165007107_FuGD8O540p1qrUvJkTX9eqyShWRallOr.jpg' alt='club party is blurred background Stock Photo | Adobe Stock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="662">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="club party is blurred background Stock Photo | Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/01/65/00/71/1000_F_165007107_FuGD8O540p1qrUvJkTX9eqyShWRallOr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blur Club Party Having Fun Disco">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/videos/19458013/thumb/1.jpg?ip=x480' alt='Blur Club Party Having Fun Disco'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/videos/19458013/thumb/1.jpg?ip=x480' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blur Club Party Image & Photo (Free Trial) | Bigstock">
+                                <img itemprop="contentUrl url" src='https://static1.bigstockphoto.com/8/4/2/large1500/248364856.jpg' alt='Blur Club Party Image & Photo (Free Trial) | Bigstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Big Stock Photo" />
+                                </span>
+                                <a href='https://static1.bigstockphoto.com/8/4/2/large1500/248364856.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

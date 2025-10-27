@@ -1,0 +1,129 @@
+<title>Where Chocolate Chip Cookies Were Born</title>
+                    <meta name="description" content="Discover the sweet history of chocolate chip cookies, invented in the late 1930s at Toll House Inn in Massachusetts. Learn about Ruth Wakefield's delicious creation that became a beloved treat worldwide. Perfect for cookie lovers and history enthusiasts alike!">
+                    <meta name="keywords" content="where were chocolate chip cookies invented">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/where-were-chocolate-chip-cookies-invented">
+                            <span itemprop="name">where were chocolate chip cookies invented</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Where Chocolate Chip Cookies Were Born</h1>
+                <p>Chocolate chip cookies were invented in the late 1930s at Toll House Inn in Whitman, Massachusetts. Ruth Wakefield, the inn's owner, created a new treat by adding chopped chocolate bars to her butter cookie dough, inadvertently creating the beloved chocolate chip cookie. This sweet innovation quickly gained popularity!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Story behind the First Chocolate Chip Cookie - Suzanne Woods ...">
+                                <img itemprop="contentUrl url" src='https://suzannewoodsfisher.com/wp-content/uploads/2015/08/chocolate-chip-cookies.jpeg' alt='The Story behind the First Chocolate Chip Cookie - Suzanne Woods ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="299">
+                                <meta itemprop="height" content="168">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Suzanne Woods Fisher" />
+                                </span>
+                                <a href='https://suzannewoodsfisher.com/wp-content/uploads/2015/08/chocolate-chip-cookies.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sweet Morsels: A History of the Chocolate-Chip Cookie | The New Yorker">
+                                <img itemprop="contentUrl url" src='https://media.newyorker.com/photos/5909523bc14b3c606c103ba2/master/pass/chocolate-chip-cookie-580.jpg.jpeg' alt='Sweet Morsels: A History of the Chocolate-Chip Cookie | The New Yorker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="580">
+                                <meta itemprop="height" content="387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New Yorker" />
+                                </span>
+                                <a href='https://media.newyorker.com/photos/5909523bc14b3c606c103ba2/master/pass/chocolate-chip-cookie-580.jpg.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The American Hero who invented the Chocolate Chip Cookie.">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3253351573546931285' alt='The American Hero who invented the Chocolate Chip Cookie.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3253351573546931285' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The History of the Chocolate Chip Cookie - Depression vs WW2 - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/RVDVbu0d4i8/sddefault.jpg' alt='The History of the Chocolate Chip Cookie - Depression vs WW2 - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/RVDVbu0d4i8/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Patents Have to Do with Chocolate Chip Cookies | Dodge Legal ...">
+                                <img itemprop="contentUrl url" src='https://dodgelegal.com/wp-content/uploads/patents-1.jpg' alt='What Patents Have to Do with Chocolate Chip Cookies | Dodge Legal ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="183">
+                                <meta itemprop="height" content="275">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dodge Legal Group" />
+                                </span>
+                                <a href='https://dodgelegal.com/wp-content/uploads/patents-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chocolate Chip Cookies Inventor Sold The Recipe For $1 And A ...">
+                                <img itemprop="contentUrl url" src='http://officechai.com/wp-content/uploads/2016/10/pjimage-16.jpg' alt='Chocolate Chip Cookies Inventor Sold The Recipe For $1 And A ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="OfficeChai" />
+                                </span>
+                                <a href='http://officechai.com/wp-content/uploads/2016/10/pjimage-16.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Chocolate Chip Cookie Day and the accidental origin of this ...">
+                                <img itemprop="contentUrl url" src='https://media.cnn.com/api/v1/images/stellar/prod/170802180229-cookie-day-nestle-ad.jpg?q=w_4800,h_2700,x_0,y_0,c_fill' alt='Chocolate Chip Cookie Day and the accidental origin of this ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4800">
+                                <meta itemprop="height" content="2700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CNN" />
+                                </span>
+                                <a href='https://media.cnn.com/api/v1/images/stellar/prod/170802180229-cookie-day-nestle-ad.jpg?q=w_4800,h_2700,x_0,y_0,c_fill' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TIL chocolate chip cookies were invented less than a 100 years ago ...">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/LTrRvbgTf1svsit1afxymuRVNBADKl21RK7wJjNNR_0.jpg?width=640&crop=smart&auto=webp&s=c530275385815db1a1edb65eb082e0cce47521b3' alt='TIL chocolate chip cookies were invented less than a 100 years ago ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/LTrRvbgTf1svsit1afxymuRVNBADKl21RK7wJjNNR_0.jpg?width=640&crop=smart&auto=webp&s=c530275385815db1a1edb65eb082e0cce47521b3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Cookie Has Crumbled: Chocolate Chip Cookies and History ...">
+                                <img itemprop="contentUrl url" src='https://www.allegorypr.com/wp-content/uploads/2020/04/Toll-House-852x1024.jpg' alt='The Cookie Has Crumbled: Chocolate Chip Cookies and History ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="852">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Allegory PR Services" />
+                                </span>
+                                <a href='https://www.allegorypr.com/wp-content/uploads/2020/04/Toll-House-852x1024.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Accidental Invention of the Chocolate Chip Cookie">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/svck_XAhHMY/maxresdefault.jpg' alt='The Accidental Invention of the Chocolate Chip Cookie'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/svck_XAhHMY/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

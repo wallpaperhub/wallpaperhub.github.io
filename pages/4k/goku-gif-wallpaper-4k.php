@@ -1,0 +1,129 @@
+<title>Stunning Goku GIF Wallpapers in 4K for Anime Fans</title>
+                    <meta name="description" content="Discover the ultimate collection of Goku GIF wallpapers in 4K! Perfect for anime lovers, these animated backgrounds feature vibrant designs that make your screen come alive. Transform your mobile or desktop with high-quality visuals and showcase your passion for Goku in style!">
+                    <meta name="keywords" content="goku gif wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/goku-gif-wallpaper-4k">
+                            <span itemprop="name">goku gif wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Goku GIF Wallpapers in 4K for Anime Fans</h1>
+                <p>Enhance your device's aesthetic with stunning Goku GIF wallpapers in 4K. These high-resolution animated backgrounds showcase the iconic Saiyan in action, bringing vibrant colors and dynamic movement to your screen. Perfect for anime fans, these wallpapers add a unique touch to your mobile or desktop experience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Dragon Ball Goku GIF Desktop Wallpaper - Anime GIF Wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2024/03/dragon-ball-goku-sparks-gif-preview-desktop-wallpaper.gif' alt='   Dragon Ball Goku GIF Desktop Wallpaper - Anime GIF Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="715">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2024/03/dragon-ball-goku-sparks-gif-preview-desktop-wallpaper.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="goku ultra instinct GIF - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/aa/63/8a/aa638ac39b1a944cd6227cfb2199facd.gif' alt='goku ultra instinct GIF - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/aa/63/8a/aa638ac39b1a944cd6227cfb2199facd.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Ultra Instinct 4k Wallpaper GIF - Goku Ultra Instinct 4k ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/7e/37/c4/7e37c4c76546745bee319ebe317d0cf9.gif' alt='Goku Ultra Instinct 4k Wallpaper GIF - Goku Ultra Instinct 4k ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/7e/37/c4/7e37c4c76546745bee319ebe317d0cf9.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Gif Wallpapers">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/media/392/son-goku-ultra-power_312.gif' alt='Goku Gif Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="312">
+                                <meta itemprop="height" content="176">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/media/392/son-goku-ultra-power_312.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AMAZING Goku Gif wallpaper. The BEST ONE I'VE EVER SEEN : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/fw1p32cq2qo21.gif' alt='AMAZING Goku Gif wallpaper. The BEST ONE I'VE EVER SEEN : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="368">
+                                <meta itemprop="height" content="656">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/fw1p32cq2qo21.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Angry Blue Goku (Dragon Ball) Live Wallpaper">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/dl/gif/357' alt='Angry Blue Goku (Dragon Ball) Live Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/dl/gif/357' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Wallpaper GIFs - Find & Share on GIPHY">
+                                <img itemprop="contentUrl url" src='https://media4.giphy.com/media/YbHnru6KfNiUGeNeCf/giphy.gif?cid=6c09b952l7i652fdkfuu6vyc3hk36zvpag2i8aum8ny913p7&ep=v1_gifs_search&rid=giphy.gif&ct=g' alt='Goku Wallpaper GIFs - Find & Share on GIPHY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="268">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Giphy" />
+                                </span>
+                                <a href='https://media4.giphy.com/media/YbHnru6KfNiUGeNeCf/giphy.gif?cid=6c09b952l7i652fdkfuu6vyc3hk36zvpag2i8aum8ny913p7&ep=v1_gifs_search&rid=giphy.gif&ct=g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dbz Wallpaper GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/xnw-4pqnRpUAAAAM/whats-up-sup.gif' alt='Dbz Wallpaper GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="368">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/xnw-4pqnRpUAAAAM/whats-up-sup.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="San Goku GIF - San Goku - Discover & Share GIFs">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/58/6f/8b/586f8b74704c7d81f2c517d080f814ad.gif' alt='San Goku GIF - San Goku - Discover & Share GIFs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="498">
+                                <meta itemprop="height" content="275">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/58/6f/8b/586f8b74704c7d81f2c517d080f814ad.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Workshop::Dragon Ball Super : Goku Mastered Ultra Instinct ...">
+                                <img itemprop="contentUrl url" src='https://images.steamusercontent.com/ugc/1772698858471930280/A148F97A4DE33C801A8EC59FFEE4520ECBA9D77E/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' alt='Steam Workshop::Dragon Ball Super : Goku Mastered Ultra Instinct ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="256">
+                                <meta itemprop="height" content="256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://images.steamusercontent.com/ugc/1772698858471930280/A148F97A4DE33C801A8EC59FFEE4520ECBA9D77E/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Transform Your Space with Manifest Wallpapers</title>
+                    <meta name="description" content="Discover the power of manifest wallpapers to elevate your environment. These eye-catching designs not only beautify your space but also serve as daily inspiration for achieving your dreams. Explore a variety of vibrant styles to make your surroundings reflect your aspirations today!">
+                    <meta name="keywords" content="manifest wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/manifest-wallpaper">
+                            <span itemprop="name">manifest wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Manifest Wallpapers</h1>
+                <p>Manifest wallpaper is a stunning visual representation that enhances the ambiance of any space. Featuring vibrant colors and intricate designs, these wallpapers can inspire positivity and motivation. Whether for home decor or personal devices, manifest wallpapers serve as constant reminders of goals and aspirations, making them a perfect addition to your environment.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="FREE Phone Wallpapers: Manifesting & Inspiring by Roxy James">
+                                <img itemprop="contentUrl url" src='https://www.roxyjames.com/wp-content/uploads/2020/05/Everything-is-possible.jpg' alt='FREE Phone Wallpapers: Manifesting & Inspiring by Roxy James'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Roxy James" />
+                                </span>
+                                <a href='https://www.roxyjames.com/wp-content/uploads/2020/05/Everything-is-possible.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inspirational Mantra iPhone Wallpaper- Manifest That Sh*t - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/16936282/r/il/557ef3/1455564561/il_1080xN.1455564561_9922.jpg' alt='Inspirational Mantra iPhone Wallpaper- Manifest That Sh*t - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1921">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/16936282/r/il/557ef3/1455564561/il_1080xN.1455564561_9922.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Manifest Your Vision Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/manifest-your-vision-be4blkwziosk5ypp.jpg' alt='Manifest Your Vision Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/manifest-your-vision-be4blkwziosk5ypp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Manifest Phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/51/b6/16/51b6160de3c038fdabe04659d8e02239.jpg' alt='Free Manifest Phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/51/b6/16/51b6160de3c038fdabe04659d8e02239.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Manifest Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/manifest-zag3mtuwghxwgv96.jpg' alt='100+] Manifest Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/manifest-zag3mtuwghxwgv96.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Manifest What You Deserve Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/manifest-abundant-wealth-ma8plq5glza4aabe.webp' alt='Manifest What You Deserve Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/manifest-abundant-wealth-ma8plq5glza4aabe.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="9 iPhone Manifest Wallpaper Design, Manifest, Angel Numbers, Blue ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25975785/r/il/7e3d43/2647513042/il_fullxfull.2647513042_rx4s.jpg' alt='9 iPhone Manifest Wallpaper Design, Manifest, Angel Numbers, Blue ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25975785/r/il/7e3d43/2647513042/il_fullxfull.2647513042_rx4s.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Manifesting Manifestation Phone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f9/26/5c/f9265cba78e7397d8ee184d4fb100b2e.jpg' alt='Manifesting Manifestation Phone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f9/26/5c/f9265cba78e7397d8ee184d4fb100b2e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Manifest The Someday Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/manifest-the-someday-mik5bcfqmmaqfvm6.jpg' alt='Download Manifest The Someday Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/manifest-the-someday-mik5bcfqmmaqfvm6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Manifest netflix, Manifest, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/243/553/HD-wallpaper-manifest-netflix-manifest.jpg' alt='Manifest netflix, Manifest, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/243/553/HD-wallpaper-manifest-netflix-manifest.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

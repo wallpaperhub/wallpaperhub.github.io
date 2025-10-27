@@ -1,0 +1,129 @@
+<title>Understanding the Image of White Jesus: Cultural Perspectives</title>
+                    <meta name="description" content="Explore the cultural significance and impact of depicting Jesus as white. This concise discussion examines how these images shape perceptions of race and faith, encouraging deeper conversations about inclusivity in religious contexts. Ideal for those seeking to understand the relationship between art, culture, and religion.">
+                    <meta name="keywords" content="picture of white jesus">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/picture-of-white-jesus">
+                            <span itemprop="name">picture of white jesus</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding the Image of White Jesus: Cultural Perspectives</h1>
+                <p>The portrayal of Jesus as white has been a topic of discussion and debate. These images often reflect cultural interpretations rather than historical accuracy. The concept may affect views on race and identity in religious contexts. Understanding the roots of these representations can lead to deeper conversations about faith and inclusivity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The long history of how Jesus came to resemble a white European">
+                                <img itemprop="contentUrl url" src='https://images.theconversation.com/files/346421/original/file-20200708-3995-5ulgxa.jpg?ixlib=rb-4.1.0&q=45&auto=format&w=1000&fit=clip' alt='The long history of how Jesus came to resemble a white European'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1354">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Conversation" />
+                                </span>
+                                <a href='https://images.theconversation.com/files/346421/original/file-20200708-3995-5ulgxa.jpg?ixlib=rb-4.1.0&q=45&auto=format&w=1000&fit=clip' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="American Christians Need To Kiss White Jesus Goodbye">
+                                <img itemprop="contentUrl url" src='https://johnpavlovitz.com/wp-content/uploads/2023/05/WhiteJesus.jpg' alt='American Christians Need To Kiss White Jesus Goodbye'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="John Pavlovitz" />
+                                </span>
+                                <a href='https://johnpavlovitz.com/wp-content/uploads/2023/05/WhiteJesus.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Jesus Really Looks Like According to Scientists - ATTN:">
+                                <img itemprop="contentUrl url" src='https://static.attn.com/sites/default/files/A-Khx3TCAAIQdf6.jpg?auto=format&crop=faces&fit=crop&q=60&w=736&ixlib=js-1.1.0' alt='What Jesus Really Looks Like According to Scientists - ATTN:'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="661">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ATTN:" />
+                                </span>
+                                <a href='https://static.attn.com/sites/default/files/A-Khx3TCAAIQdf6.jpg?auto=format&crop=faces&fit=crop&q=60&w=736&ixlib=js-1.1.0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Was Jesus White? The Real History Of What Color He Was">
+                                <img itemprop="contentUrl url" src='https://allthatsinteresting.com/wordpress/wp-content/uploads/2021/11/jesus-christ-white.jpeg' alt='Was Jesus White? The Real History Of What Color He Was'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="All That's Interesting" />
+                                </span>
+                                <a href='https://allthatsinteresting.com/wordpress/wp-content/uploads/2021/11/jesus-christ-white.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why do artists portray Christ as white skinned?">
+                                <img itemprop="contentUrl url" src='https://askgramps.org/files/2017/02/Jesus-Christ1.jpg' alt='Why do artists portray Christ as white skinned?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ask Gramps" />
+                                </span>
+                                <a href='https://askgramps.org/files/2017/02/Jesus-Christ1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Opinion: White Jesus isn't always right">
+                                <img itemprop="contentUrl url" src='https://www.blackcatholicmessenger.org/content/images/size/w1304/format/webp/2022/08/white-jesus-paintings-1500x963.jpg' alt='Opinion: White Jesus isn't always right'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1304">
+                                <meta itemprop="height" content="837">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Black Catholic Messenger" />
+                                </span>
+                                <a href='https://www.blackcatholicmessenger.org/content/images/size/w1304/format/webp/2022/08/white-jesus-paintings-1500x963.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ask Sister Mary Martha: White Jesus">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXxWIc5aCoCFSsFTHRYEu1-73POXm8v-Kd91g9U_1byzGVlEAMGGO-KqjURMbCJfrqxWvKb_IYUh22pDNoCkbnloc78HiXN8Xuy9-fTNJypLUhVd0EHXnSWbWiolGj4kqDwOUR/s400/jesus_blond31246138290.jpg' alt='Ask Sister Mary Martha: White Jesus'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="280">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ask Sister Mary Martha" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXxWIc5aCoCFSsFTHRYEu1-73POXm8v-Kd91g9U_1byzGVlEAMGGO-KqjURMbCJfrqxWvKb_IYUh22pDNoCkbnloc78HiXN8Xuy9-fTNJypLUhVd0EHXnSWbWiolGj4kqDwOUR/s400/jesus_blond31246138290.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Are Images of a “White Jesus” Wrong? | by Rev. Mr. Matthew Newsome ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1400/1*Kd53EAtaI8s2QByCO2a9VA.jpeg' alt='Are Images of a “White Jesus” Wrong? | by Rev. Mr. Matthew Newsome ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="813">
+                                <meta itemprop="height" content="1096">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1400/1*Kd53EAtaI8s2QByCO2a9VA.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Resurrection and the Life by Brent Borup | Altus Fine Art">
+                                <img itemprop="contentUrl url" src='https://altusfineart.com/cdn/shop/products/BB105.jpg?v=1628631315&width=1214' alt='Resurrection and the Life by Brent Borup | Altus Fine Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Altus Fine Art" />
+                                </span>
+                                <a href='https://altusfineart.com/cdn/shop/products/BB105.jpg?v=1628631315&width=1214' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Jesus became so white - The Washington Post">
+                                <img itemprop="contentUrl url" src='https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/72LCRDBLGZFNFN2ESVARBVYLTY.jpg&w=1600&h=900' alt='How Jesus became so white - The Washington Post'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Washington Post" />
+                                </span>
+                                <a href='https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/72LCRDBLGZFNFN2ESVARBVYLTY.jpg&w=1600&h=900' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

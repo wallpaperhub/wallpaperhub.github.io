@@ -1,0 +1,129 @@
+<title>Vivid Cartoon Lock Screen Wallpapers for Your iPhone</title>
+                    <meta name="description" content="Discover the perfect lock screen cartoon wallpaper for your iPhone! Enjoy a variety of colorful designs that showcase your favorite characters and styles. Immerse yourself in engaging visuals that bring joy and personality to your device. Explore now for the best selections!">
+                    <meta name="keywords" content="lock screen cartoon wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock">
+                            <span itemprop="name">Lock</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock/lock-screen-cartoon-wallpaper-iphone">
+                            <span itemprop="name">lock screen cartoon wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vivid Cartoon Lock Screen Wallpapers for Your iPhone</h1>
+                <p>Transform your iPhone into a vibrant canvas with our selection of lock screen cartoon wallpapers! From beloved classic characters to trendy animations, discover designs that reflect your personality and style. With high-resolution images, these wallpapers not only protect your screen but also add a touch of fun to your device!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lockscreen #9765">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/49/37/f8/4937f8ed07da4590cefbbf8f93e519b9.jpg' alt='Lockscreen #9765'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/49/37/f8/4937f8ed07da4590cefbbf8f93e519b9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lock Screen Iphone Wallpaper Cartoon - 540x960 Wallpaper - teahub.io">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/2d/c5/4a/2dc54a2eae05c0cc46959ed6cbad4b7f.jpg' alt='Lock Screen Iphone Wallpaper Cartoon - 540x960 Wallpaper - teahub.io'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/2d/c5/4a/2dc54a2eae05c0cc46959ed6cbad4b7f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Lock Screen, Tom Cartoon, animated, tom, cartoon, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/26/628/HD-wallpaper-iphone-lock-screen-tom-cartoon-animated-tom-cartoon.jpg' alt='Iphone Lock Screen, Tom Cartoon, animated, tom, cartoon, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/26/628/HD-wallpaper-iphone-lock-screen-tom-cartoon-animated-tom-cartoon.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Funny Cartoon Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/funny-cartoon-iphone-gj12pt8aiqf8ofu2.jpg' alt='100+] Funny Cartoon Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/funny-cartoon-iphone-gj12pt8aiqf8ofu2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tom">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bf/78/dc/bf78dc59f973e57f767a633292c1fd9b.jpg' alt='Tom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bf/78/dc/bf78dc59f973e57f767a633292c1fd9b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Set As Lock Screen, Minions, animation, funny, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/734/668/HD-wallpaper-set-as-lock-screen-minions-animation-funny.jpg' alt='Set As Lock Screen, Minions, animation, funny, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/734/668/HD-wallpaper-set-as-lock-screen-minions-animation-funny.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Batman Cartoon Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cool-batman-cartoon-iphone-rqirxmug38voijzc.jpg' alt='Cool Batman Cartoon Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="853">
+                                <meta itemprop="height" content="1517">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cool-batman-cartoon-iphone-rqirxmug38voijzc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny #lock #screen #wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/0b/ed/e5/0bede5cb6b12c4cd579bc84d1b90b9fc.jpg' alt='Funny #lock #screen #wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="388">
+                                <meta itemprop="height" content="764">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/0b/ed/e5/0bede5cb6b12c4cd579bc84d1b90b9fc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Cartoon Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cartoon-iphone-dubzue0ncd7tr0m7.jpg' alt='200+] Cartoon Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cartoon-iphone-dubzue0ncd7tr0m7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="If you make this your lock screen, it appears animated when you ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/zr4dmxdo58y21.jpg?width=1080&crop=smart&auto=webp&s=901f8e717a4ef997e82bb89c80de847e9fe788f3' alt='If you make this your lock screen, it appears animated when you ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/zr4dmxdo58y21.jpg?width=1080&crop=smart&auto=webp&s=901f8e717a4ef997e82bb89c80de847e9fe788f3' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Vanilla Girl Aesthetic: Clean & Calm Wallpapers</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="vanilla girl:kifgqkphpae= clean girl aesthetic wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/vanilla-girlkifgqkphpae-clean-girl-aesthetic-wallpaper">
+                            <span itemprop="name">vanilla girl:kifgqkphpae= clean girl aesthetic wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vanilla Girl Aesthetic: Clean & Calm Wallpapers</h1>
+                <p>Explore the enchanting world of the vanilla girl aesthetic with our collection of clean girl aesthetic wallpapers. These serene designs feature soft pastels, minimalist touches, and soothing vibes that capture the essence of simplicity and elegance. Perfect for creating a calming atmosphere on your devices!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e2/40/93/e240931ea244a0493d46767ad2263308.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e2/40/93/e240931ea244a0493d46767ad2263308.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vanilla girl wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/78/f8/04/78f804c70b237b31f4127b6c177afce5.jpg' alt='Vanilla girl wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/78/f8/04/78f804c70b237b31f4127b6c177afce5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vanilla / clean girl aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/84/6f/9f/846f9f631403a2a334973a62e236a8b4.jpg' alt='Vanilla / clean girl aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ph.pinterest.com" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/84/6f/9f/846f9f631403a2a334973a62e236a8b4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="vanilla girl wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a7/8d/d1/a78dd1a5bc4589028f859abe1eb8a0aa.jpg' alt='vanilla girl wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1232">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a7/8d/d1/a78dd1a5bc4589028f859abe1eb8a0aa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vanilla girl aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1f/b1/87/1fb187da2a5fb7f908da68a6a67febf5.jpg' alt='Vanilla girl aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1f/b1/87/1fb187da2a5fb7f908da68a6a67febf5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="clean girl wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/87/3a/54/873a54c085b84273916e73ab260bfecf.jpg' alt='clean girl wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/87/3a/54/873a54c085b84273916e73ab260bfecf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4f/cf/e1/4fcfe161db0d1e02c4a908ffd0add3ef.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4f/cf/e1/4fcfe161db0d1e02c4a908ffd0add3ef.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="It girl aesthetic vanilla wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f6/65/78/f66578c6b6cf8ee6e05a389b5cb43c7c.jpg' alt='It girl aesthetic vanilla wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f6/65/78/f66578c6b6cf8ee6e05a389b5cb43c7c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vanilla girl white clean girl it girl aesthetic phone background ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/15/f3/d7/15f3d705adab6ad49f417d7a24378830.jpg' alt='Vanilla girl white clean girl it girl aesthetic phone background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/15/f3/d7/15f3d705adab6ad49f417d7a24378830.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Vanilla Girl Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/vanilla-girl-aesthetic-collage-0sy72oiklz5evmw2.jpg' alt='100+] Vanilla Girl Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/vanilla-girl-aesthetic-collage-0sy72oiklz5evmw2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

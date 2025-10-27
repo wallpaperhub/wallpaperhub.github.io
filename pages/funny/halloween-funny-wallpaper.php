@@ -1,0 +1,129 @@
+<title>Funny Halloween Wallpaper: Spooky & Silly Decor</title>
+                    <meta name="description" content="Discover the perfect blend of spooky and silly with our collection of funny Halloween wallpapers. Transform your space into a delightful fright fest that brings smiles and laughter this Halloween season. Ideal for kids and adults alike, browse our designs to add a fun touch to your Halloween celebrations!">
+                    <meta name="keywords" content="halloween funny wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/funny">
+                            <span itemprop="name">Funny</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/funny/halloween-funny-wallpaper">
+                            <span itemprop="name">halloween funny wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Funny Halloween Wallpaper: Spooky & Silly Decor</h1>
+                <p>Get ready to spook up your space with some hilarious Halloween funny wallpaper! Imagine walls adorned with goofy ghosts, silly skeletons, and mischievous monsters that will make you chuckle instead of shiver. This wallpaper brings a light-hearted twist to the spooky season, perfect for both kids and adults. Elevate your Halloween decor with laughter!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="45 Halloween Zoom Backgrounds - Free Download - The Bash">
+                                <img itemprop="contentUrl url" src='https://media-api.xogrp.com/images/8e5ff4cc-8aa8-4960-8057-2bcea2b5217b' alt='45 Halloween Zoom Backgrounds - Free Download - The Bash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Bash" />
+                                </span>
+                                <a href='https://media-api.xogrp.com/images/8e5ff4cc-8aa8-4960-8057-2bcea2b5217b' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Funny Jack-o'-lantern Squirrel Holiday Halloween HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images5.alphacoders.com/950/950720.jpg' alt='Download Funny Jack-o'-lantern Squirrel Holiday Halloween HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images5.alphacoders.com/950/950720.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Funny Halloween Character Desktop Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cool-funny-halloween-character-desktop-t3rylezk4fv7mvy4.jpg' alt='Cool Funny Halloween Character Desktop Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cool-funny-halloween-character-desktop-t3rylezk4fv7mvy4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Funny Halloween Pictures | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/funny-halloween-pictures-r0lz0vbzatmx7qhq.jpg' alt='100+] Funny Halloween Pictures | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/funny-halloween-pictures-r0lz0vbzatmx7qhq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="150 Funny Halloween Wallpapers Photos, Pictures And Background ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/background/20230616/original/pngtree-halloween-funny-pumpkins-and-ghosts-wallpaper-picture-image_3620372.jpg' alt='150 Funny Halloween Wallpapers Photos, Pictures And Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="673">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/background/20230616/original/pngtree-halloween-funny-pumpkins-and-ghosts-wallpaper-picture-image_3620372.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Funny Halloween Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/funny-halloween-7hqjocfqqw5vbbt6.jpg' alt='100+] Funny Halloween Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1277">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/funny-halloween-7hqjocfqqw5vbbt6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celebrate This Scared Yet Fun Holiday With This Spooky And Funny ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/celebrate-this-scared-yet-fun-holiday-with-this-spooky-and-funny-halloween-wallpaper-j7cb8l5yb6e1ydzr.jpg' alt='Celebrate This Scared Yet Fun Holiday With This Spooky And Funny ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="740">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/celebrate-this-scared-yet-fun-holiday-with-this-spooky-and-funny-halloween-wallpaper-j7cb8l5yb6e1ydzr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="167,400+ Funny Halloween Pics Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/808369484/photo/halloween-pumpkins.jpg?s=612x612&w=0&k=20&c=-gFr4ztWyp6ssYLjtNjLbhCyidg6ocGmN_wJ3giGRRI=' alt='167,400+ Funny Halloween Pics Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="412">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/808369484/photo/halloween-pumpkins.jpg?s=612x612&w=0&k=20&c=-gFr4ztWyp6ssYLjtNjLbhCyidg6ocGmN_wJ3giGRRI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween, funny, scary, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/488/969/HD-wallpaper-halloween-funny-scary.jpg' alt='Halloween, funny, scary, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1219">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/488/969/HD-wallpaper-halloween-funny-scary.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny Halloween Wallpaper HD Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a1/ea/64/a1ea64e30df7a15cd649b5168fc9e961.jpg' alt='Funny Halloween Wallpaper HD Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="388">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a1/ea/64/a1ea64e30df7a15cd649b5168fc9e961.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Elevate Your Space with Green and White Stripe Wallpaper</title>
+                    <meta name="description" content="Discover the beauty of green and white stripe wallpaper, perfect for adding a stylish touch to any room. Ideal for modern and classic interiors alike, its vibrant patterns create an inviting atmosphere. Transform your home decor effortlessly with this versatile and trendy wallpaper choice.">
+                    <meta name="keywords" content="green and white stripe wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/green-and-white-stripe-wallpaper">
+                            <span itemprop="name">green and white stripe wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Space with Green and White Stripe Wallpaper</h1>
+                <p>Transform your space with stunning green and white stripe wallpaper. This chic design adds a refreshing touch to any room, creating an illusion of height and brightness. Whether for a modern living room or a cozy bedroom, the bold yet playful stripes enhance the overall aesthetic, inviting a sense of tranquility and style.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green and White Stripes - Sample - 9” wide by 6” high / Peel and Stick">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0115/3266/4932/products/muse-wall-studio-green-and-white-stripes-peel-and-stick-wallpaper-green-and-white-stripes-12394633396310.png?v=1619799080' alt='Green and White Stripes - Sample - 9” wide by 6” high / Peel and Stick'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MUSE Wall Studio" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0115/3266/4932/products/muse-wall-studio-green-and-white-stripes-peel-and-stick-wallpaper-green-and-white-stripes-12394633396310.png?v=1619799080' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Yorkshire Stripe' Grasscloth Wallpaper by Wallshoppe - Green">
+                                <img itemprop="contentUrl url" src='http://www.wallshoppe.com/cdn/shop/products/Wallshoppe_Grasscloth_Yorkshire_Stripe_Wallpaper_Green_RS.jpg?v=1621466574' alt=''Yorkshire Stripe' Grasscloth Wallpaper by Wallshoppe - Green'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1065">
+                                <meta itemprop="height" content="1420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='http://www.wallshoppe.com/cdn/shop/products/Wallshoppe_Grasscloth_Yorkshire_Stripe_Wallpaper_Green_RS.jpg?v=1621466574' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green & White Stripe">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/0017515_green-whte-stripe-l.jpeg' alt='Green & White Stripe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/0017515_green-whte-stripe-l.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fresco Stripe Wallpaper • Milton & King">
+                                <img itemprop="contentUrl url" src='https://s29938.pcdn.co/wp-content/uploads/2021/11/Wallpaper-BLinz-Fresco-Stripe-Green-1.jpg.optimal.jpg' alt='Fresco Stripe Wallpaper • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://s29938.pcdn.co/wp-content/uploads/2021/11/Wallpaper-BLinz-Fresco-Stripe-Green-1.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green and White Striped Wallpaper, Stripes Wallpaper, Stripe Wall ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11123188/r/il/325a70/4825736956/il_fullxfull.4825736956_moor.jpg' alt='Green and White Striped Wallpaper, Stripes Wallpaper, Stripe Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11123188/r/il/325a70/4825736956/il_fullxfull.4825736956_moor.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unbranded Traditional Awning Stripe Green/White Matte Finish Vinyl on  Non-Woven Non-Pasted Wallpaper Roll G45401">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/a0c4e0d6-5743-4a94-930f-9bd63c6f81cb/svn/wallpaper-rolls-g45401-64_600.jpg' alt='Unbranded Traditional Awning Stripe Green/White Matte Finish Vinyl on  Non-Woven Non-Pasted Wallpaper Roll G45401'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/a0c4e0d6-5743-4a94-930f-9bd63c6f81cb/svn/wallpaper-rolls-g45401-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Versa Stripe - Signature Green Geometric Wallpaper by Mrs. Paranjape">
+                                <img itemprop="contentUrl url" src='http://mitchellblack.com/cdn/shop/products/VersaStripe_SignatureGreen.png?v=1661048726' alt='Versa Stripe - Signature Green Geometric Wallpaper by Mrs. Paranjape'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mitchell Black" />
+                                </span>
+                                <a href='http://mitchellblack.com/cdn/shop/products/VersaStripe_SignatureGreen.png?v=1661048726' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="'Candy Stripe' Wallpaper by Wallshoppe - Green">
+                                <img itemprop="contentUrl url" src='http://www.wallshoppe.com/cdn/shop/products/Candy_Stripe_green_3c4d3d43-aba8-4277-98ec-0c836f02bc56.jpg?v=1615484508' alt=''Candy Stripe' Wallpaper by Wallshoppe - Green'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallshoppe" />
+                                </span>
+                                <a href='http://www.wallshoppe.com/cdn/shop/products/Candy_Stripe_green_3c4d3d43-aba8-4277-98ec-0c836f02bc56.jpg?v=1615484508' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Polo Stripe by Cole & Son - Leaf Green - Wallpaper - 110/1003">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/asset/img/product/142761/tiled/cole-and-son-polo-stripe-leaf-green-wallpaper-tiled-142761.jpg' alt='Polo Stripe by Cole & Son - Leaf Green - Wallpaper - 110/1003'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/asset/img/product/142761/tiled/cole-and-son-polo-stripe-leaf-green-wallpaper-tiled-142761.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classic Stripe Wallpaper in Soft Mint – I Love Wallpaper">
+                                <img itemprop="contentUrl url" src='https://ilovewallpaper.com/cdn/shop/files/1-ClassicStripeSoftMint_ILW50311_Thumbnail_WEB_fc172f77-a5f2-40b1-a3d7-73e5510357c5.webp?crop=center&height=850&v=1705668649&width=850' alt='Classic Stripe Wallpaper in Soft Mint – I Love Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="850">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="I Love Wallpaper" />
+                                </span>
+                                <a href='https://ilovewallpaper.com/cdn/shop/files/1-ClassicStripeSoftMint_ILW50311_Thumbnail_WEB_fc172f77-a5f2-40b1-a3d7-73e5510357c5.webp?crop=center&height=850&v=1705668649&width=850' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

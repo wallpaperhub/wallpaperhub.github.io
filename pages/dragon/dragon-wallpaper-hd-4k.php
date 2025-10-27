@@ -1,0 +1,129 @@
+<title>Stunning HD 4K Dragon Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore captivating HD 4K dragon wallpapers to elevate your device's appearance. With a variety of bold designs and vivid colors, these wallpapers are perfect for any dragon enthusiast. Download now and stylishly personalize your screens with breathtaking dragon imagery!">
+                    <meta name="keywords" content="dragon wallpaper hd 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/dragon">
+                            <span itemprop="name">Dragon</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/dragon/dragon-wallpaper-hd-4k">
+                            <span itemprop="name">dragon wallpaper hd 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning HD 4K Dragon Wallpapers for Your Device</h1>
+                <p>Discover the enchanting world of dragon wallpaper in stunning HD 4K resolution! Perfect for fans of mythical creatures, these wallpapers feature vibrant colors and intricate details that bring dragons to life on your screen. Transform your device's look and feel with high-quality, mesmerizing dragon designs today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Dragon: A Stunning 4K Ultra HD Wallpaper by robokoboto">
+                                <img itemprop="contentUrl url" src='https://images.alphacoders.com/138/1383052.png' alt='Neon Dragon: A Stunning 4K Ultra HD Wallpaper by robokoboto'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4072">
+                                <meta itemprop="height" content="2280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images.alphacoders.com/138/1383052.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Wallpapers (84 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/8/b/d/69905-3840x2160-desktop-4k-dragon-background.jpg' alt='Dragon Wallpapers (84 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/8/b/d/69905-3840x2160-desktop-4k-dragon-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome 4K Ultra HD Dragon Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/52/22/7c/52227cb8a47bb455520468190257a79b.jpg' alt='Awesome 4K Ultra HD Dragon Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/52/22/7c/52227cb8a47bb455520468190257a79b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon Wallpaper HD / Dnd Wallpaper 4K">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71SwrdEgIrL.jpg' alt='Dragon Wallpaper HD / Dnd Wallpaper 4K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71SwrdEgIrL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Dragon Wallpaper,HD Abstract Wallpapers,4k Wallpapers,Images ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4b/6e/86/4b6e86228f876430c0d6413d402f712b.jpg' alt='Blue Dragon Wallpaper,HD Abstract Wallpapers,4k Wallpapers,Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4b/6e/86/4b6e86228f876430c0d6413d402f712b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon wallpaper sale">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/888/665/HD-wallpaper-dragon-blue-abstract-blue-dragon-neon.jpg' alt='Dragon wallpaper sale'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="711">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Bilumina.com" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/888/665/HD-wallpaper-dragon-blue-abstract-blue-dragon-neon.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DRAGON WALLPAPER - Heroscreen | Free image stock. Background ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPfzI5NGtdtOX4AA4_IQ5TXxYJCcya3nYGS-lWZFZ3lQDqs53t8VpDhfHXqfR7yzdVTVOTSj0iTIRYNsOXtFvlw0ovNIX4zDewc27ifJMiTTjWhBBrYJwx6oWAgeDsRyIf2s7sJsKsShl-/s1830/DRAGON.png' alt='DRAGON WALLPAPER - Heroscreen | Free image stock. Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1830">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPfzI5NGtdtOX4AA4_IQ5TXxYJCcya3nYGS-lWZFZ3lQDqs53t8VpDhfHXqfR7yzdVTVOTSj0iTIRYNsOXtFvlw0ovNIX4zDewc27ifJMiTTjWhBBrYJwx6oWAgeDsRyIf2s7sJsKsShl-/s1830/DRAGON.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download "Dragon" wallpapers for mobile phone, free "Dragon" HD ...">
+                                <img itemprop="contentUrl url" src='https://wallpaper.forfun.com/fetch/26/26a9fe0076a048e0c0986753e41529b0.jpeg' alt='Download "Dragon" wallpapers for mobile phone, free "Dragon" HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mobile wallpaper - Mob.org" />
+                                </span>
+                                <a href='https://wallpaper.forfun.com/fetch/26/26a9fe0076a048e0c0986753e41529b0.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free background 4k, hd wallpaper dragon, eyes, horns, lights, glow ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/32/d3/86/32d3862f58c4c7c5c95455b14d0788f1.jpg' alt='Free background 4k, hd wallpaper dragon, eyes, horns, lights, glow ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/32/d3/86/32d3862f58c4c7c5c95455b14d0788f1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Dragon Wallpapers (24 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/f/b/8/2134568-3840x2160-desktop-4k-abstract-dragon-wallpaper-photo.jpg' alt='Abstract Dragon Wallpapers (24 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/f/b/8/2134568-3840x2160-desktop-4k-abstract-dragon-wallpaper-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

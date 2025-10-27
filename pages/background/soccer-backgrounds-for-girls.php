@@ -1,0 +1,129 @@
+<title>Inspiring Soccer Backgrounds for Girls: Play with Passion</title>
+                    <meta name="description" content="Discover vibrant soccer backgrounds designed for girls who love the sport. Perfect for social media, these inspiring visuals celebrate female athletes and empower young players to express their passion. Elevate your online presence with styles that resonate with your love for soccer!">
+                    <meta name="keywords" content="soccer backgrounds for girls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/soccer-backgrounds-for-girls">
+                            <span itemprop="name">soccer backgrounds for girls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Inspiring Soccer Backgrounds for Girls: Play with Passion</h1>
+                <p>Soccer backgrounds for girls can enhance their online presence, showcasing their passion for the sport. Whether it’s a vibrant graphic of a soccer field, a dynamic action shot, or a stylish portrait in a uniform, these backgrounds serve to inspire and unite a community of young female athletes. Celebrate girl power on and off the pitch!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I know i play like a girl PNG, Soccer sublimation designs downloads, Soccer  girl png, Soccer Girl Sublimations, play like a girl soccer">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/20880496/r/il/1acc1f/3054503418/il_570xN.3054503418_8n4w.jpg' alt='I know i play like a girl PNG, Soccer sublimation designs downloads, Soccer  girl png, Soccer Girl Sublimations, play like a girl soccer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="453">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/20880496/r/il/1acc1f/3054503418/il_570xN.3054503418_8n4w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Personalised Name Football Theme Ball Soccer Girls Pink Graffiti Wallpaper  Mural Bedroom Playroom Games Room Wall Backdrop Scene Setter">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/29318579/r/il/f7000d/5171574522/il_570xN.5171574522_cphf.jpg' alt='Personalised Name Football Theme Ball Soccer Girls Pink Graffiti Wallpaper  Mural Bedroom Playroom Games Room Wall Backdrop Scene Setter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="501">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/29318579/r/il/f7000d/5171574522/il_570xN.5171574522_cphf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soccer fans wallpaper ⚽️  ️      ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6f/4d/5f/6f4d5fc41cd41aa08f2a902d3f68e4e0.jpg' alt='Soccer fans wallpaper ⚽️  ️      '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6f/4d/5f/6f4d5fc41cd41aa08f2a902d3f68e4e0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="soccer girls #soccer #soccergirls">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5f/81/ed/5f81ed774c1acd611fd2580396520918.jpg' alt='soccer girls #soccer #soccergirls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5f/81/ed/5f81ed774c1acd611fd2580396520918.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Soccer Floral on Black 12 inch Fabric | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/16246806/p/f/m/BOEig13EB-R67t15xU1N1dT-Qga6XD-5cuQBLZkyqAdOyf7A4DNB/Soccer_Floral_on_Black_12_inch.jpg' alt='Soccer Floral on Black 12 inch Fabric | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/16246806/p/f/m/BOEig13EB-R67t15xU1N1dT-Qga6XD-5cuQBLZkyqAdOyf7A4DNB/Soccer_Floral_on_Black_12_inch.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Soccer Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-soccer-z6yn8jw8055pwnvo.jpg' alt='100+] Cute Soccer Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-soccer-z6yn8jw8055pwnvo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Know I Play Like A Girl Try To Keep Up Soccer | Drawstring Bag">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.477431890.3130/st,small,507x507-pad,600x600,f8f8f8.u12.jpg' alt='I Know I Play Like A Girl Try To Keep Up Soccer | Drawstring Bag'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.477431890.3130/st,small,507x507-pad,600x600,f8f8f8.u12.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Girls Soccer Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/7240982/p/f/m/BJgsVEKs0jsV7KAbr0GXQEBfdp0IlnVQ78cyRruDc3qJDbosKTPtvSQ_obQ/soccer%20balls%20-%20dark%20pink.jpg' alt='Girls Soccer Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/7240982/p/f/m/BJgsVEKs0jsV7KAbr0GXQEBfdp0IlnVQ78cyRruDc3qJDbosKTPtvSQ_obQ/soccer%20balls%20-%20dark%20pink.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Just A Girl Who Loves Soccer Png Sublimation Design, Usa Soccer Png, Usa  Flag Sunflowers Png, Soccer Png, Western Soccer Png, Download">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/34991093/r/il/c1a52f/3928558914/il_fullxfull.3928558914_punl.jpg' alt='Just A Girl Who Loves Soccer Png Sublimation Design, Usa Soccer Png, Usa  Flag Sunflowers Png, Soccer Png, Western Soccer Png, Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2280">
+                                <meta itemprop="height" content="1824">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/34991093/r/il/c1a52f/3928558914/il_fullxfull.3928558914_punl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pink Sports Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-sports-73bq3n2fykktlolm.jpg' alt='100+] Pink Sports Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1193">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-sports-73bq3n2fykktlolm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

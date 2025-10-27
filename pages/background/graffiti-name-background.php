@@ -1,0 +1,129 @@
+<title>Stunning Graffiti Name Backgrounds: Enhance Your Street Art</title>
+                    <meta name="description" content="Discover the art of graffiti name backgrounds! Learn how the right backdrop enhances your tag's visual appeal, adding depth and character. Explore vibrant colors, patterns, and styles that make your street art truly pop. Perfect for artists looking to elevate their work! Find inspiration now!">
+                    <meta name="keywords" content="graffiti name background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/graffiti-name-background">
+                            <span itemprop="name">graffiti name background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Graffiti Name Backgrounds: Enhance Your Street Art</h1>
+                <p>Graffiti name backgrounds play a crucial role in enhancing the visual impact of street art. A well-chosen background complements the name, adding depth and context. From vibrant colors to intricate patterns, the right background can make a simple tag stand out. Artists often experiment with different styles to create memorable designs that reflect their personal expression.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graffiti Name Backgrounds - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/B9Oy2KEgGMg/sddefault.jpg' alt='Graffiti Name Backgrounds - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/B9Oy2KEgGMg/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graffiti Block Letters and Swirl Background Airbrushed T-Shirt. Any Name or  Colors. GREAT Gift Idea!">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8865226/r/il/7925b9/3855379003/il_570xN.3855379003_p11y.jpg' alt='Graffiti Block Letters and Swirl Background Airbrushed T-Shirt. Any Name or  Colors. GREAT Gift Idea!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="553">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8865226/r/il/7925b9/3855379003/il_570xN.3855379003_p11y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graffiti Name Wall Decal — Heart Your Walls">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/53ef66c0e4b0b3651befbb29/1653573923104-53CKMXC1YS7VE2DGPAOM/BoysNameByzantinePinkTealDepositphotos_200596962_xl-2015wMASK-Recovered.jpg?format=1500w' alt='Graffiti Name Wall Decal — Heart Your Walls'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1125">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heart Your Walls" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/53ef66c0e4b0b3651befbb29/1653573923104-53CKMXC1YS7VE2DGPAOM/BoysNameByzantinePinkTealDepositphotos_200596962_xl-2015wMASK-Recovered.jpg?format=1500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graffiti name Cut Out Stock Images & Pictures - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2GB3AFB/graffiti-styled-name-design-janna-cool-legible-graffiti-art-2GB3AFB.jpg' alt='Graffiti name Cut Out Stock Images & Pictures - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="749">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2GB3AFB/graffiti-styled-name-design-janna-cool-legible-graffiti-art-2GB3AFB.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Graffiti names with hand drawn design">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/graffiti-names-with-hand-drawn-design_644842-3193.jpg' alt='Premium Vector | Graffiti names with hand drawn design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/graffiti-names-with-hand-drawn-design_644842-3193.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Graffiti Street Art Style Name Print Digital Download ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/6456905/r/il/b27612/4628010583/il_fullxfull.4628010583_k3mx.jpg' alt='Custom Graffiti Street Art Style Name Print Digital Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2357">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/6456905/r/il/b27612/4628010583/il_fullxfull.4628010583_k3mx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graffiti Name Stock Photos and Pictures - 10,142 Images | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/1755727763/display_1500/stock-vector-sofia-name-text-graffiti-word-design-1755727763.jpg' alt='Graffiti Name Stock Photos and Pictures - 10,142 Images | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="770">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/1755727763/display_1500/stock-vector-sofia-name-text-graffiti-word-design-1755727763.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graffiti Name Art Lesson: A Student Favorite - Art With Trista">
+                                <img itemprop="contentUrl url" src='https://artwithtrista.com/wp-content/uploads/2022/04/graffiti-name_featuredImage-768x452.jpg' alt='Graffiti Name Art Lesson: A Student Favorite - Art With Trista'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="452">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Art With Trista" />
+                                </span>
+                                <a href='https://artwithtrista.com/wp-content/uploads/2022/04/graffiti-name_featuredImage-768x452.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graffiti Name splash texture urban decal">
+                                <img itemprop="contentUrl url" src='https://www.tenstickers.com/webp/sticker/large/graffiti-name-splash-texture-urban-sticker-18587.webp' alt='Graffiti Name splash texture urban decal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="752">
+                                <meta itemprop="height" content="703">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TenStickers" />
+                                </span>
+                                <a href='https://www.tenstickers.com/webp/sticker/large/graffiti-name-splash-texture-urban-sticker-18587.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Custom Graffiti Street Art Style Name Print Digital Download ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/6456905/r/il/46097a/5459650185/il_570xN.5459650185_yzso.jpg' alt='Custom Graffiti Street Art Style Name Print Digital Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/6456905/r/il/46097a/5459650185/il_570xN.5459650185_yzso.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

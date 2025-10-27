@@ -1,0 +1,129 @@
+<title>Elegant White Heart Backgrounds for All Occasions</title>
+                    <meta name="description" content="Discover beautiful white heart backgrounds that add elegance to your designs. Perfect for social media, invitations, and more, these minimalist backgrounds convey love and peace while allowing your content to shine. Explore various styles today for a fresh and sophisticated look!">
+                    <meta name="keywords" content="white heart background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/white-heart-background">
+                            <span itemprop="name">white heart background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elegant White Heart Backgrounds for All Occasions</h1>
+                <p>A white heart background is a versatile and refreshing design choice that symbolizes purity, love, and peace. Its clean and minimalistic aesthetic makes it perfect for various applications, from social media graphics to event invitations. This background allows other elements to stand out while conveying a sense of calm and sophistication.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Transparent White Heart Background in Illustrator, SVG, JPG, EPS ...">
+                                <img itemprop="contentUrl url" src='https://images.template.net/74356/Free-Transparent-White-Heart-Background-Portrait-01-1.jpg' alt='Transparent White Heart Background in Illustrator, SVG, JPG, EPS ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="1564">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template.net" />
+                                </span>
+                                <a href='https://images.template.net/74356/Free-Transparent-White-Heart-Background-Portrait-01-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="i couldnt find these white aesthetic hearts so i made one♥︎">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/aa/24/70/aa24704b0cfa5be391cc48b3da093bcc.jpg' alt='i couldnt find these white aesthetic hearts so i made one♥︎'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="513">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/aa/24/70/aa24704b0cfa5be391cc48b3da093bcc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Heart Background Vectors & Illustrations for Free Download ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/white-valentines-day-background-with-two-hearts_1017-36277.jpg?semt=ais_hybrid' alt='White Heart Background Vectors & Illustrations for Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="501">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/white-valentines-day-background-with-two-hearts_1017-36277.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f8/72/96/f872968404b53ef5f812d4adc93f5651.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f8/72/96/f872968404b53ef5f812d4adc93f5651.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Hearts Background" Images – Browse 61 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/88/80/98/360_F_388809884_QkITxFdPCb4j9hIjA0U3tk7RmI390DeH.jpg' alt='White Hearts Background" Images – Browse 61 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="468">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/88/80/98/360_F_388809884_QkITxFdPCb4j9hIjA0U3tk7RmI390DeH.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] White Heart Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-white-heart-yv14x2f04nthvvkq.jpg' alt='100+] White Heart Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-white-heart-yv14x2f04nthvvkq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD White Heart Shape Silhouette PNG | Citypng">
+                                <img itemprop="contentUrl url" src='https://www.citypng.com/public/uploads/preview/hd-white-heart-shape-silhouette-png-704081694955479k47lsgva2z.png' alt='HD White Heart Shape Silhouette PNG | Citypng'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CityPNG" />
+                                </span>
+                                <a href='https://www.citypng.com/public/uploads/preview/hd-white-heart-shape-silhouette-png-704081694955479k47lsgva2z.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5,100+ Black And White Heart Background Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/941733700/vector/seamless-pattern-with-hand-drawn-hearts-vector-illustration-in-scandinavian-style.jpg?s=612x612&w=0&k=20&c=pIJSxrGeFx4jIbtO5E_gWXCYc8zde8JvxUHP42p65WA=' alt='5,100+ Black And White Heart Background Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/941733700/vector/seamless-pattern-with-hand-drawn-hearts-vector-illustration-in-scandinavian-style.jpg?s=612x612&w=0&k=20&c=pIJSxrGeFx4jIbtO5E_gWXCYc8zde8JvxUHP42p65WA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful White Heart Wallpaper For Phone and Computer | Skip To ...">
+                                <img itemprop="contentUrl url" src='https://www.skiptomylou.org/wp-content/uploads/2023/02/White-Heart-Wallpaper-Mobile.png' alt='Beautiful White Heart Wallpaper For Phone and Computer | Skip To ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="581">
+                                <meta itemprop="height" content="961">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SkipToMyLou.org" />
+                                </span>
+                                <a href='https://www.skiptomylou.org/wp-content/uploads/2023/02/White-Heart-Wallpaper-Mobile.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shining White Hearts Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/shining-white-hearts-q3wbon28psdr0xta.jpg' alt='Shining White Hearts Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="613">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/shining-white-hearts-q3wbon28psdr0xta.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

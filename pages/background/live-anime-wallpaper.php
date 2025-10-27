@@ -1,0 +1,129 @@
+<title>Vibrant Live Anime Wallpapers for Your Screen</title>
+                    <meta name="description" content="Discover stunning live anime wallpapers to elevate your device's aesthetic. Enjoy vibrant animations featuring your favorite characters and scenes, designed to bring life and personality to your home and lock screens. Perfect for anime lovers seeking a dynamic visual experience!">
+                    <meta name="keywords" content="live anime wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/live-anime-wallpaper">
+                            <span itemprop="name">live anime wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Live Anime Wallpapers for Your Screen</h1>
+                <p>Live anime wallpapers bring your screen to life, offering stunning visuals that capture the essence of your favorite characters and scenes. Whether you're a fan of action, romance, or fantasy, these dynamic wallpapers create an immersive experience. Transform your device into a vibrant showcase of anime art!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Anime Live Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/anime-live-yv96zrvdnvfbt8nn.jpg' alt='100+] Anime Live Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/anime-live-yv96zrvdnvfbt8nn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime moving 2025 background">
+                                <img itemprop="contentUrl url" src='https://lh3.googleusercontent.com/RUg9YJuY2cPjh5znR5ZLqLJIBrm1CM2JuwCS1XP6g31ZDPa_NR--jR0JAum5qDbl2g5UKgBwM4SHSuyiWqjyd7VhBUI=w640-h400-e365-rj-sc0x00ffffff' alt='Anime moving 2025 background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://lh3.googleusercontent.com/RUg9YJuY2cPjh5znR5ZLqLJIBrm1CM2JuwCS1XP6g31ZDPa_NR--jR0JAum5qDbl2g5UKgBwM4SHSuyiWqjyd7VhBUI=w640-h400-e365-rj-sc0x00ffffff' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2550+ Anime Live Wallpapers 4K & HD">
+                                <img itemprop="contentUrl url" src='https://motionbgs.com/i/c/364x205/media/423/gojo-satoru-with-purple-lightning-effects-jujutsu-kaisen.jpg' alt='2550+ Anime Live Wallpapers 4K & HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="364">
+                                <meta itemprop="height" content="205">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://motionbgs.com/i/c/364x205/media/423/gojo-satoru-with-purple-lightning-effects-jujutsu-kaisen.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD 4K Live Wallpaper for Android - Lucas and Marcus">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7424687564025646342&location=0&aid=1988' alt='HD 4K Live Wallpaper for Android - Lucas and Marcus'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7424687564025646342&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="anime live wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/22/dd/a0/22dda076fc9dbf8cd702b1c243c9d841.gif' alt='anime live wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1066">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/22/dd/a0/22dda076fc9dbf8cd702b1c243c9d841.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Live White-haired Girl Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/anime-live-white-haired-girl-h40kx4fes4ozv01y.jpg' alt='Anime Live White-haired Girl Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/anime-live-white-haired-girl-h40kx4fes4ozv01y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Watch Anime Girl and Computers 4K Live Wallpaper | Streamable">
+                                <img itemprop="contentUrl url" src='https://cdn-cf-east.streamable.com/image/794ao.jpg' alt='Watch Anime Girl and Computers 4K Live Wallpaper | Streamable'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Streamable" />
+                                </span>
+                                <a href='https://cdn-cf-east.streamable.com/image/794ao.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I animated this live wallpaper ~">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/i-animated-this-live-wallpaper-v0-E_O1zAywfIdFXne8eN3Z5X7AWOh_cIE9iNQek5lEyEc.png?width=640&crop=smart&format=pjpg&auto=webp&s=dee3e43a0cd80e3158d29c57878b925c73743748' alt='I animated this live wallpaper ~'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/i-animated-this-live-wallpaper-v0-E_O1zAywfIdFXne8eN3Z5X7AWOh_cIE9iNQek5lEyEc.png?width=640&crop=smart&format=pjpg&auto=webp&s=dee3e43a0cd80e3158d29c57878b925c73743748' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0e/0c/98/0e0c988f26e79b9ec49f3ea0418afecd.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0e/0c/98/0e0c988f26e79b9ec49f3ea0418afecd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime live 2025 photos">
+                                <img itemprop="contentUrl url" src='https://lh3.googleusercontent.com/H5Py55JEgPpimF_VMEV_zN84btfbA13bbd5xh7f4Z-0gyNvoEVXcrPUlIRJHARrycCscN5euCY_sENbK75nHCxvh0A=w640-h400-e365-rj-sc0x00ffffff' alt='Anime live 2025 photos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://lh3.googleusercontent.com/H5Py55JEgPpimF_VMEV_zN84btfbA13bbd5xh7f4Z-0gyNvoEVXcrPUlIRJHARrycCscN5euCY_sENbK75nHCxvh0A=w640-h400-e365-rj-sc0x00ffffff' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

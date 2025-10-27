@@ -1,0 +1,129 @@
+<title>Bible Quote Wallpapers for iPhone: Inspire Daily</title>
+                    <meta name="description" content="Discover beautiful Bible quote wallpapers for your iPhone that inspire and uplift. Perfect for daily motivation, these designs offer a blend of art and faith, keeping your spirit high wherever you go. Choose from various styles to find the perfect match for your personal inspiration!">
+                    <meta name="keywords" content="bible quote wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/bible-quote-wallpaper-iphone">
+                            <span itemprop="name">bible quote wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Bible Quote Wallpapers for iPhone: Inspire Daily</h1>
+                <p>Transform your iPhone with inspiring Bible quote wallpapers that uplift your spirit every time you check your phone. Discover a wide range of designs featuring your favorite scriptures, from calming nature scenes to vibrant abstract art. Carry your faith with you, keeping motivation close at hand. Perfect for daily encouragement!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100 Best christian iphone wallpaper ideas | bible verses, bible ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9e/88/3d/9e883d399e38abf0072eb8d5ee743aa0.jpg' alt='100 Best christian iphone wallpaper ideas | bible verses, bible ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9e/88/3d/9e883d399e38abf0072eb8d5ee743aa0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bible verse iphone 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://e1.pxfuel.com/desktop-wallpaper/858/392/desktop-wallpaper-bible-verse-iphone-quotes-bible-aesthetic.jpg' alt='Bible verse iphone 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="850">
+                                <meta itemprop="height" content="1511">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://e1.pxfuel.com/desktop-wallpaper/858/392/desktop-wallpaper-bible-verse-iphone-quotes-bible-aesthetic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Bible Verse Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/bible-verse-iphone-720-x-1280-rj2ygfri477zevg1.jpg' alt='100+] Bible Verse Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/bible-verse-iphone-720-x-1280-rj2ygfri477zevg1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Isaiah 64:4 Bible Verse Phone Wallpaper - iPhone Background, Android  Background, Lock Screen, Bible Verse Calligraphy - DIGITAL DOWNLOAD">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/22331280/r/il/482519/2452942866/il_570xN.2452942866_hev0.jpg' alt='Isaiah 64:4 Bible Verse Phone Wallpaper - iPhone Background, Android  Background, Lock Screen, Bible Verse Calligraphy - DIGITAL DOWNLOAD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="738">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/22331280/r/il/482519/2452942866/il_570xN.2452942866_hev0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Inspire Yourself Daily With Biblical Verses On Your Iphone ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/inspire-yourself-daily-with-biblical-verses-on-your-iphone-8bqed5utsgiiz8n9.jpg' alt='Inspire Yourself Daily With Biblical Verses On Your Iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/inspire-yourself-daily-with-biblical-verses-on-your-iphone-8bqed5utsgiiz8n9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone christian wallpaper Archives - Believers4ever.com">
+                                <img itemprop="contentUrl url" src='https://believers4ever.com/wp-content/uploads/2021/09/Unfruitful-works-of-darkness.jpg' alt='Iphone christian wallpaper Archives - Believers4ever.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Believers4ever.com" />
+                                </span>
+                                <a href='https://believers4ever.com/wp-content/uploads/2021/09/Unfruitful-works-of-darkness.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper - scriptures.blog">
+                                <img itemprop="contentUrl url" src='https://scriptures.blog/wp-content/uploads/2024/03/faith-moves-mountains.jpg' alt='Wallpaper - scriptures.blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scriptures.blog" />
+                                </span>
+                                <a href='https://scriptures.blog/wp-content/uploads/2024/03/faith-moves-mountains.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Love Jesus'">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/72/62/6f/72626fb198458f279c18cef6137e9a7c.jpg' alt='Love Jesus''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/72/62/6f/72626fb198458f279c18cef6137e9a7c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Make Bible Verse Wallpaper for iPhones">
+                                <img itemprop="contentUrl url" src='https://ducttapeanddenim.com/wp-content/uploads/2015/06/NCC-Scripture-Memory-2015-6-Eph-4-32-600x1000.jpg' alt='How to Make Bible Verse Wallpaper for iPhones'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Duct Tape and Denim" />
+                                </span>
+                                <a href='https://ducttapeanddenim.com/wp-content/uploads/2015/06/NCC-Scripture-Memory-2015-6-Eph-4-32-600x1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Caption: Uplifting Bible Verse Iphone Wallpaper Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/draw-strength-and-courage-from-god-s-word-and-keep-it-with-you-always-on-your-iphone-8w7zxnu6lteri7iv.webp' alt='Caption: Uplifting Bible Verse Iphone Wallpaper Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/draw-strength-and-courage-from-god-s-word-and-keep-it-with-you-always-on-your-iphone-8w7zxnu6lteri7iv.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

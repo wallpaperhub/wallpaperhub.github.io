@@ -1,0 +1,129 @@
+<title>Classic Christmas Movie Wallpaper: Festive Decor for the Holidays</title>
+                    <meta name="description" content="Discover enchanting classic Christmas movie wallpaper to elevate your holiday decor. Perfect for home or office, these wallpapers bring nostalgia and festive cheer to any space. Get inspired by iconic films and celebrate the season in style! Embrace the magic of Christmas all year round.">
+                    <meta name="keywords" content="classic christmas movie wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/classic-christmas-movie-wallpaper">
+                            <span itemprop="name">classic christmas movie wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Classic Christmas Movie Wallpaper: Festive Decor for the Holidays</h1>
+                <p>Transform your holiday spirit with classic Christmas movie wallpaper! Immerse yourself in the timeless charm of beloved films like "It's a Wonderful Life," "A Christmas Carol," and "Home Alone." Perfect for adding a festive touch to your home, these wallpapers capture the essence of Christmas magic and nostalgia.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas movie collage wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b4/10/4e/b4104e7788d115f5f6b396bfc9c88ae6.jpg' alt='Christmas movie collage wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1323">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b4/10/4e/b4104e7788d115f5f6b396bfc9c88ae6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/72/0d/83/720d830d2c0c3f48a39f4158cbf5b62f.jpg' alt='Christmas wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/72/0d/83/720d830d2c0c3f48a39f4158cbf5b62f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Christmas Movie Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/christmas-movie-z3obvprcsjqqeby5.jpg' alt='100+] Christmas Movie Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1192">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/christmas-movie-z3obvprcsjqqeby5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="35+ Free Vintage Christmas Wallpaper Options For iPhone |">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/b4/53/dc/b453dcf40c6a7acdeb01dc6f616558b8.jpg' alt='35+ Free Vintage Christmas Wallpaper Options For iPhone |'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="290">
+                                <meta itemprop="height" content="515">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/b4/53/dc/b453dcf40c6a7acdeb01dc6f616558b8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Christmas Movie Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/christmas-movie-ub2koh0fhli5tu8e.jpg' alt='100+] Christmas Movie Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/christmas-movie-ub2koh0fhli5tu8e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ultimate Christmas Movie Aesthetic iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d5/63/2e/d5632eccee5b67701a9bfaa399b515ac.jpg' alt='Ultimate Christmas Movie Aesthetic iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d5/63/2e/d5632eccee5b67701a9bfaa399b515ac.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Classic Christmas Movies You Can Stream for Free in 2023">
+                                <img itemprop="contentUrl url" src='https://sm.ign.com/t/ign_ap/lists/5/5-classic-/5-classic-christmas-movies-you-can-stream-for-free-in-2023_m188.1200.jpg' alt='5 Classic Christmas Movies You Can Stream for Free in 2023'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IGN SEA" />
+                                </span>
+                                <a href='https://sm.ign.com/t/ign_ap/lists/5/5-classic-/5-classic-christmas-movies-you-can-stream-for-free-in-2023_m188.1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD best christmas movie wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/512/721/HD-wallpaper-best-christmas-movie-clans-clash-game-happy-new-year-hollyday-poster-super-video.jpg' alt='HD best christmas movie wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/512/721/HD-wallpaper-best-christmas-movie-clans-clash-game-happy-new-year-hollyday-poster-super-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download 'Spreading Holiday Cheer with Classic Christmas Movie ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/christmas-movie-hixirut71w96b3r8.jpg' alt='Download 'Spreading Holiday Cheer with Classic Christmas Movie ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="801">
+                                <meta itemprop="height" content="1426">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/christmas-movie-hixirut71w96b3r8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas lockscreen   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/40/2a/7b/402a7bc713bb8fa7a883d43970555c45.jpg' alt='Christmas lockscreen   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/40/2a/7b/402a7bc713bb8fa7a883d43970555c45.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

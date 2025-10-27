@@ -1,0 +1,129 @@
+<title>Vibrant Green Lock Screen Wallpapers for Your Phone</title>
+                    <meta name="description" content="Discover the perfect green lock screen wallpaper to energize your mobile device. Choose from stunning nature-inspired designs that transform your phone into a serene oasis. Experience tranquility and beauty at your fingertips! Great for nature lovers and anyone looking to refresh their screen aesthetic!">
+                    <meta name="keywords" content="green lock screen wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock">
+                            <span itemprop="name">Lock</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/lock/green-lock-screen-wallpaper">
+                            <span itemprop="name">green lock screen wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Green Lock Screen Wallpapers for Your Phone</h1>
+                <p>Green lock screen wallpaper brings a refreshing look to your phone, combining tranquility and vibrancy. Perfect for nature lovers, these wallpapers feature lush forests, serene plants, and soothing shades of green that uplift your mood every time you unlock your device. Enhance your screen's aesthetic and immerse yourself in nature's beauty!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/1e/7f/54/1e7f54db2278633340f7ccbdf95ca9ed.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/1e/7f/54/1e7f54db2278633340f7ccbdf95ca9ed.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green aesthetic">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/26/66/ff/2666ffb61903166f68518c85c2bed574.jpg' alt='Green aesthetic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/26/66/ff/2666ffb61903166f68518c85c2bed574.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green lock screen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f2/c5/81/f2c581536577369d2d09168c4ce8ccea.jpg' alt='Green lock screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="636">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f2/c5/81/f2c581536577369d2d09168c4ce8ccea.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Aesthetic Floral Wallpaper Poster Lockscreen Background iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/e8/5a/c3/e85ac3bff618bb477c010abbbefc6c18.jpg' alt='Green Aesthetic Floral Wallpaper Poster Lockscreen Background iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/e8/5a/c3/e85ac3bff618bb477c010abbbefc6c18.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sage Green - Lockscreen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ce/ad/e6/ceade6d241dd9d01256b98351c19f09f.jpg' alt='Sage Green - Lockscreen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ce/ad/e6/ceade6d241dd9d01256b98351c19f09f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Octavia Green iPhone Lock Screen Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/phone/images/download/octavia-green.png' alt='Octavia Green iPhone Lock Screen Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/phone/images/download/octavia-green.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper, lock screen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/36/1b/5e/361b5ed2f265ddc94341a80f9645982f.jpg' alt='Wallpaper, lock screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/36/1b/5e/361b5ed2f265ddc94341a80f9645982f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green aesthetic, circle, lock screen, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/451/467/HD-wallpaper-green-aesthetic-circle-lock-screen.jpg' alt='Green aesthetic, circle, lock screen, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/451/467/HD-wallpaper-green-aesthetic-circle-lock-screen.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="sage green aesthetic wallpaper lockscreen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ca/30/54/ca30543842e0e919626efd5d78d85833.jpg' alt='sage green aesthetic wallpaper lockscreen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ca/30/54/ca30543842e0e919626efd5d78d85833.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jelly Bean Xperia wallpaper and lock screen images leak | Xperia Blog">
+                                <img itemprop="contentUrl url" src='https://live.mrf.io/statics/i/ps/www.xperiablog.net/wp-content/uploads/2013/01/Greensemc_theme_lockscreen_wallpaper.jpg?width=1200&enable=upscale' alt='Jelly Bean Xperia wallpaper and lock screen images leak | Xperia Blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="2133">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Xperia Blog" />
+                                </span>
+                                <a href='https://live.mrf.io/statics/i/ps/www.xperiablog.net/wp-content/uploads/2013/01/Greensemc_theme_lockscreen_wallpaper.jpg?width=1200&enable=upscale' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Earth Day Wallpaper: Beautiful Designs for Every Screen</title>
+                    <meta name="description" content="Discover captivating Earth Day wallpaper designs that beautify your screens while promoting environmental awareness. Ideal for all devices, these wallpapers feature nature's splendor and inspire a sustainable mindset. Download now to celebrate our planet every day!">
+                    <meta name="keywords" content="earth day wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/day">
+                            <span itemprop="name">Day</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/day/earth-day-wallpaper">
+                            <span itemprop="name">earth day wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Earth Day Wallpaper: Beautiful Designs for Every Screen</h1>
+                <p>Celebrate Earth Day with stunning wallpaper designs that remind us of our planet's beauty. From lush forests to vibrant oceans, these wallpapers capture the essence of nature, inspiring eco-friendliness and love for the environment. Transform your screens while honoring Earth and encouraging sustainable practices in daily life.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="215,720 Earth Day Stock Photos - Free & Royalty-Free Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/concept-earth-day-globe-lies-green-grass-39296416.jpg' alt='215,720 Earth Day Stock Photos - Free & Royalty-Free Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/concept-earth-day-globe-lies-green-grass-39296416.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5,900+ Earth Day Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1257888048/vector/earth-day-doodles-seamless-pattern-background-hand-drawn-of-earth-day-ecology-go-green-clean.jpg?s=612x612&w=0&k=20&c=5I2FVSL6_gj_2hK9HVgGz9YtT2AOmdqPKN5ZQO594ok=' alt='5,900+ Earth Day Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1257888048/vector/earth-day-doodles-seamless-pattern-background-hand-drawn-of-earth-day-ecology-go-green-clean.jpg?s=612x612&w=0&k=20&c=5I2FVSL6_gj_2hK9HVgGz9YtT2AOmdqPKN5ZQO594ok=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Earth Day Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/happy-earth-day-with-cute-planet_23-2148449212.jpg' alt='Happy Earth Day Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/happy-earth-day-with-cute-planet_23-2148449212.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Holiday Earth Day HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/695/695512.jpg' alt='Download Holiday Earth Day HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/695/695512.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="World Earth Day Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/035/013/485/small_2x/ai-generated-world-environment-and-earth-day-concept-with-globe-photo.jpg' alt='World Earth Day Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/035/013/485/small_2x/ai-generated-world-environment-and-earth-day-concept-with-globe-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Earth day recycle digital seamless pattern for fabrics and wallpapers,  Mother nature seamless, Earth digital paper, Earth repeat pattern">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25961083/r/il/a1ea81/2974424874/il_570xN.2974424874_i65r.jpg' alt='Earth day recycle digital seamless pattern for fabrics and wallpapers,  Mother nature seamless, Earth digital paper, Earth repeat pattern'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25961083/r/il/a1ea81/2974424874/il_570xN.2974424874_i65r.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download "Celebrate Earth Day and take care of the planet ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/earth-day-pictures-gzpjcubczqyg4toi.jpg' alt='Download "Celebrate Earth Day and take care of the planet ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/earth-day-pictures-gzpjcubczqyg4toi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 3 | Earth Day Wallpapers Vectors & Illustrations for Free ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/watercolor-earth-day-background_23-2149323199.jpg' alt='Page 3 | Earth Day Wallpapers Vectors & Illustrations for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/watercolor-earth-day-background_23-2149323199.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Earth Day Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/earth-day-jzacming408iuhph.jpg' alt='100+] Earth Day Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1437">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/earth-day-jzacming408iuhph.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Earth Day Cartoon Pattern Design Vector Download">
+                                <img itemprop="contentUrl url" src='https://images.vexels.com/content/190795/preview/earth-day-cartoon-pattern-design-44dab2.png' alt='Earth Day Cartoon Pattern Design Vector Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="941">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vexels" />
+                                </span>
+                                <a href='https://images.vexels.com/content/190795/preview/earth-day-cartoon-pattern-design-44dab2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

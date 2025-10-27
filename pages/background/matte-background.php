@@ -1,0 +1,129 @@
+<title>Stunning Matte Backgrounds for Your Design Needs</title>
+                    <meta name="description" content="Discover the beauty of matte backgrounds! Perfect for photography and design, these finishes provide a refined look that minimizes glare and enhances focus. Boost your creative projects with sleek, modern aesthetics that truly stand out. Explore our collection today!">
+                    <meta name="keywords" content="matte background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/matte-background">
+                            <span itemprop="name">matte background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Matte Backgrounds for Your Design Needs</h1>
+                <p>A matte background adds a subtle elegance to any design, creating a sophisticated vibe that enhances visual appeal. Unlike glossy finishes, matte textures diffuse light, reducing glare and reflections. This makes them ideal for photography, branding, and digital art, offering a clean and modern aesthetic while allowing other elements to shine.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Matte Background Images – Browse 1,037,736 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/52/65/83/360_F_252658318_veARZ5m7Cz7T9J3QOABlO4jq6LAF0Ptm.jpg' alt='Matte Background Images – Browse 1,037,736 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="541">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/52/65/83/360_F_252658318_veARZ5m7Cz7T9J3QOABlO4jq6LAF0Ptm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,500+ Matte Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1256670706/vector/light-grey-coloured-wooden-textured-vector-backgrounds-with-wavy-wood-grains.jpg?s=612x612&w=0&k=20&c=09Z-wsElL5mElhif-GasvJ0di-zhacJZVUNcemNWjSQ=' alt='1,500+ Matte Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1256670706/vector/light-grey-coloured-wooden-textured-vector-backgrounds-with-wavy-wood-grains.jpg?s=612x612&w=0&k=20&c=09Z-wsElL5mElhif-GasvJ0di-zhacJZVUNcemNWjSQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Matte Background Images – Browse 1,037,736 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/13/60/49/360_F_313604929_yl8OTzIQTkxuRRFbcJwtL8ZpvmplQlvE.jpg' alt='Matte Background Images – Browse 1,037,736 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="541">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/13/60/49/360_F_313604929_yl8OTzIQTkxuRRFbcJwtL8ZpvmplQlvE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Matte Black Texture Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/black-concrete-wall_53876-92805.jpg' alt='Matte Black Texture Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/black-concrete-wall_53876-92805.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="1,500+ Matte Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1221585126/vector/dark-green-teal-coloured-grunge-backgrounds-blank-vector-illustration.jpg?s=612x612&w=0&k=20&c=b4wvfD88aJGmKZ3q5DQ7od1ozdj-tiCzLEboSMQQCV8=' alt='1,500+ Matte Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1221585126/vector/dark-green-teal-coloured-grunge-backgrounds-blank-vector-illustration.jpg?s=612x612&w=0&k=20&c=b4wvfD88aJGmKZ3q5DQ7od1ozdj-tiCzLEboSMQQCV8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Savage Savage Matte Black Vinyl Backdrop 10'x10'">
+                                <img itemprop="contentUrl url" src='https://cdn.shoplightspeed.com/shops/650021/files/39777571/1652x1652x1/savage-savage-matte-black-vinyl-backdrop-10x10.jpg' alt='Savage Savage Matte Black Vinyl Backdrop 10'x10''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1652">
+                                <meta itemprop="height" content="1652">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stewarts Photo" />
+                                </span>
+                                <a href='https://cdn.shoplightspeed.com/shops/650021/files/39777571/1652x1652x1/savage-savage-matte-black-vinyl-backdrop-10x10.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Matte Gray Hand Painted Photo Backdrop">
+                                <img itemprop="contentUrl url" src='http://dennymfg.com/cdn/shop/products/OM2529-Matte-Gray-Backdrop-High_600x.jpg?v=1619015375' alt='Matte Gray Hand Painted Photo Backdrop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Denny Manufacturing" />
+                                </span>
+                                <a href='http://dennymfg.com/cdn/shop/products/OM2529-Matte-Gray-Backdrop-High_600x.jpg?v=1619015375' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Matte Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/matte-background-zpuwiyf9o05yyfyh.jpg' alt='100+] Matte Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/matte-background-zpuwiyf9o05yyfyh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Matte Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/back_our/20200701/ourmid/pngtree-blue-matte-texture-gradient-shading-universal-background-image_346189.jpg' alt='Blue Matte Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="714">
+                                <meta itemprop="height" content="260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/back_our/20200701/ourmid/pngtree-blue-matte-texture-gradient-shading-universal-background-image_346189.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Matte Black Images – Browse 427,992 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/08/79/24/54/360_F_879245488_aD6gtm2fFrvLwqIsrnE6G4Rw5hOxBcIS.jpg' alt='Matte Black Images – Browse 427,992 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="287">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/08/79/24/54/360_F_879245488_aD6gtm2fFrvLwqIsrnE6G4Rw5hOxBcIS.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

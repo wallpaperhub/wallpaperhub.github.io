@@ -1,0 +1,129 @@
+<title>Chic Pastel Tumblr Wallpapers for Your iPhone</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="iphone aesthetic pastel tumblr wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/iphone-aesthetic-pastel-tumblr-wallpaper">
+                            <span itemprop="name">iphone aesthetic pastel tumblr wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Pastel Tumblr Wallpapers for Your iPhone</h1>
+                <p>Transform your iPhone with stunning pastel Tumblr wallpapers that embody a dreamy aesthetic! Explore a collection of soft hues and artistic designs that appeal to your personal style. Perfect for creating a serene look on your screen while complementing your other apps. Embrace the pastel trend and elevate your device aesthetics today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pastel wallpaper | Tumblr">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/a8/9c/be/a89cbee705425f63859f443733dd7497.jpg' alt='pastel wallpaper | Tumblr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="453">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/a8/9c/be/a89cbee705425f63859f443733dd7497.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pastelwallpapersss on Tumblr">
+                                <img itemprop="contentUrl url" src='https://static.tumblr.com/9d1ff3ba1a7fbb58f8abee228948af76/ukdwtns/dClouwvb3/tumblr_static_filename_2048_v2.jpg' alt='pastelwallpapersss on Tumblr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="683">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://static.tumblr.com/9d1ff3ba1a7fbb58f8abee228948af76/ukdwtns/dClouwvb3/tumblr_static_filename_2048_v2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/78/76/62/787662dd6b34cb6fb634ee0104490050.jpg' alt='Aesthetic Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/78/76/62/787662dd6b34cb6fb634ee0104490050.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pastel wallpaper | Tumblr">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/c7/22/19/c722194715a0c4b59919fd4ef82c35a5.jpg' alt='pastel wallpaper | Tumblr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="225">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/c7/22/19/c722194715a0c4b59919fd4ef82c35a5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Pink Tumblr - Colab">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/0c/ac/8e/0cac8e2f64a6a2a698a130f83ca5a2c0.jpg' alt='Wallpaper Pink Tumblr - Colab'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="427">
+                                <meta itemprop="height" content="792">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Google Colab" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/0c/ac/8e/0cac8e2f64a6a2a698a130f83ca5a2c0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Wallpapers ideas | tumblr wallpaper, aesthetic iphone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/f6/62/a7/f662a7c660b184f5c7f87b9853c6d654.jpg' alt='30 Wallpapers ideas | tumblr wallpaper, aesthetic iphone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/f6/62/a7/f662a7c660b184f5c7f87b9853c6d654.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Tumblr Wallpaper GIFs | Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/e26wNGq3jaAAAAAM/youre-stupid.gif' alt='Pastel Tumblr Wallpaper GIFs | Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="391">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/e26wNGq3jaAAAAAM/youre-stupid.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="haven't did these in a looong while now ✺ ✺ disclaimer - I don't ...">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/e9ac85dcb98ebb1e0b73a30ddc47c77a/e4fb557cef8d6a9e-3e/s500x750/f2951a1b1730c07a9d196838698048ee9cf3a736.jpg' alt='haven't did these in a looong while now ✺ ✺ disclaimer - I don't ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="422">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tumblr" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/e9ac85dcb98ebb1e0b73a30ddc47c77a/e4fb557cef8d6a9e-3e/s500x750/f2951a1b1730c07a9d196838698048ee9cf3a736.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD tumblr pink wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/696/845/HD-wallpaper-pinkmarble-aesthetic-marble-pastel-pink-pretty-tumblr-thumbnail.jpg' alt='HD tumblr pink wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/696/845/HD-wallpaper-pinkmarble-aesthetic-marble-pastel-pink-pretty-tumblr-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="pastel wallpaper | Tumblr">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/76/ab/39/76ab394c3c24c74bac65918338c764f1.jpg' alt='pastel wallpaper | Tumblr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="225">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/76/ab/39/76ab394c3c24c74bac65918338c764f1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

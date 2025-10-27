@@ -1,0 +1,129 @@
+<title>Stunning Large Flower Wallpaper for a Beautiful Home</title>
+                    <meta name="description" content="Discover the charm of large flower wallpaper! Perfect for creating a stunning focal point in any room, our vibrant designs bring nature indoors. Elevate your decor style effortlessly with a variety of floral patterns to choose from. Transform your walls today and enjoy a fresh, inviting atmosphere!">
+                    <meta name="keywords" content="large flower wallpaper for walls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/large-flower-wallpaper-for-walls">
+                            <span itemprop="name">large flower wallpaper for walls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Large Flower Wallpaper for a Beautiful Home</h1>
+                <p>Large flower wallpaper can transform your space into a vibrant oasis. With bold designs and bright colors, it adds depth and personality to any room. Ideal for feature walls or complete makeovers, floral wallpaper offers a unique blend of style and elegance. Embrace nature indoors and enjoy the refreshing ambiance it brings!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: WXHFM - Vintage Black Flowers Mural Bedroom Peony Floral  Wallpaper Room Decor Living Room tv Background Large Wall Mural - 137"x96"  (Not ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71PDjmmVr0L.jpg' alt='Amazon.com: WXHFM - Vintage Black Flowers Mural Bedroom Peony Floral  Wallpaper Room Decor Living Room tv Background Large Wall Mural - 137"x96"  (Not ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71PDjmmVr0L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hot Pink Wallpaper, Big Flower Wallpaper Peel and Stick ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/35172655/r/il/788527/3937810012/il_fullxfull.3937810012_jkcj.jpg' alt='Hot Pink Wallpaper, Big Flower Wallpaper Peel and Stick ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2271">
+                                <meta itemprop="height" content="2114">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/35172655/r/il/788527/3937810012/il_fullxfull.3937810012_jkcj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: BZHXBZ - Floral Wallpaper Pink Peony murals Girls Bedroom  Botanical Rose Flowers Leaf Aesthetic Room Decor Home Living Room tv  Background ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/814I+ikHw0L.jpg' alt='Amazon.com: BZHXBZ - Floral Wallpaper Pink Peony murals Girls Bedroom  Botanical Rose Flowers Leaf Aesthetic Room Decor Home Living Room tv  Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/814I+ikHw0L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Peony" Wallpaper | Floral Abstract Wall Decor | Fuchsia, Silver ...">
+                                <img itemprop="contentUrl url" src='https://vivianferne.com/cdn/shop/products/Large-Floral-Wallpaper-Abstract-Wall-Decor.webp?v=1680800895&width=1214' alt='Peony" Wallpaper | Floral Abstract Wall Decor | Fuchsia, Silver ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="938">
+                                <meta itemprop="height" content="1124">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vivian Ferne" />
+                                </span>
+                                <a href='https://vivianferne.com/cdn/shop/products/Large-Floral-Wallpaper-Abstract-Wall-Decor.webp?v=1680800895&width=1214' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter Flowers Black - Floral Wallpaper Black Background - Big ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25174938/r/il/ffbcc7/2581266761/il_570xN.2581266761_432p.jpg' alt='Winter Flowers Black - Floral Wallpaper Black Background - Big ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25174938/r/il/ffbcc7/2581266761/il_570xN.2581266761_432p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Large Floral Mural Wallpaper | Removable Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick Wall Mural 3669">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3667404215_oe04_a8b9f807-7631-4544-9d7c-c11c0c51bd29.jpg' alt='Large Floral Mural Wallpaper | Removable Wallpaper | Peel And Stick  Wallpaper | Adhesive Wallpaper | Wall Paper Peel Stick Wall Mural 3669'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2795">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3667404215_oe04_a8b9f807-7631-4544-9d7c-c11c0c51bd29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Large Pink Flowers Wall Mural CCM098">
+                                <img itemprop="contentUrl url" src='https://costacover.com/cdn/shop/products/02_1a18d3fa-34fa-4927-b327-d25fedc88960_1080x.jpg?v=1674961818' alt='Large Pink Flowers Wall Mural CCM098'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CostaCover" />
+                                </span>
+                                <a href='https://costacover.com/cdn/shop/products/02_1a18d3fa-34fa-4927-b327-d25fedc88960_1080x.jpg?v=1674961818' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Mural Dense Roses - Painted Large Flowers in Shades of Green on a Gray  Background - bimago">
+                                <img itemprop="contentUrl url" src='https://com.bimago.media/media/catalog/image/view/product/145180/role/image/size/1500x2240/type/ft-osmr-wiz1/2fd2edff9a0ad47854e98d66fb5d6d45.webp' alt='Wall Mural Dense Roses - Painted Large Flowers in Shades of Green on a Gray  Background - bimago'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="bimago." />
+                                </span>
+                                <a href='https://com.bimago.media/media/catalog/image/view/product/145180/role/image/size/1500x2240/type/ft-osmr-wiz1/2fd2edff9a0ad47854e98d66fb5d6d45.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Large Floral Peony Wallpaper Peel and Stick Wallpaper Removable Wallpaper  Wall Decor Home Decor Wall Art Printable Wall Art Room Decor 3713">
+                                <img itemprop="contentUrl url" src='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3693699237_o5pw_36b8b792-b506-4e26-824a-78ccb397873e.jpg?v=1644722923&width=2998' alt='Large Floral Peony Wallpaper Peel and Stick Wallpaper Removable Wallpaper  Wall Decor Home Decor Wall Art Printable Wall Art Room Decor 3713'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2998">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James and Colors" />
+                                </span>
+                                <a href='https://www.jamesandcolors.com/cdn/shop/products/il_fullxfull.3693699237_o5pw_36b8b792-b506-4e26-824a-78ccb397873e.jpg?v=1644722923&width=2998' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Big Rosses Nostalgic Floral Wall Mural">
+                                <img itemprop="contentUrl url" src='https://www.muravie.com/wp-content/uploads/aktarim/MUR-2404-01-scaled.jpg' alt='Big Rosses Nostalgic Floral Wall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="848">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Muravie" />
+                                </span>
+                                <a href='https://www.muravie.com/wp-content/uploads/aktarim/MUR-2404-01-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

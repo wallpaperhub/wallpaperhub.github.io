@@ -1,0 +1,129 @@
+<title>Spooktacular Halloween Background Vectors for Your Designs</title>
+                    <meta name="description" content="Discover a collection of Halloween background vectors to elevate your seasonal projects. Perfect for all your design needs, from invitations to social media posts, our spooky and fun vector graphics will bring your Halloween visuals to life with ease. Get your creative spirit soaring this Halloween!">
+                    <meta name="keywords" content="halloween background vector">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/halloween-background-vector">
+                            <span itemprop="name">halloween background vector</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spooktacular Halloween Background Vectors for Your Designs</h1>
+                <p>Enhance your Halloween designs with captivating Halloween background vectors! These versatile graphics feature spooky themes like haunted houses, eerie landscapes, and playful ghosts. Perfect for websites, invitations, and social media posts, these vector backgrounds add a festive touch to your Halloween celebrations.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Vectors & Illustrations for Free Download | Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/halloween-background-flat-design_52683-43845.jpg' alt='Halloween Vectors & Illustrations for Free Download | Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/halloween-background-flat-design_52683-43845.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/003/019/314/small_2x/halloween-night-scenery-concept-free-vector.jpg' alt='Halloween Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="625">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/003/019/314/small_2x/halloween-night-scenery-concept-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Vector | Hand drawn flat halloween background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-drawn-flat-halloween-background_23-2149077569.jpg' alt='Free Vector | Hand drawn flat halloween background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-drawn-flat-halloween-background_23-2149077569.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Spooky Stock Illustrations – 465,862 Halloween Spooky ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/halloween-vector-background-11402139.jpg' alt='Halloween Spooky Stock Illustrations – 465,862 Halloween Spooky ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/halloween-vector-background-11402139.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/001/331/268/small/happy-halloween-from-the-spooky-castle-free-vector.jpg' alt='Halloween Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="313">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/001/331/268/small/happy-halloween-from-the-spooky-castle-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Happy Halloween Background Vector Illustration Halloween Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/happy-halloween-background-vector-illustration-600w-741239143.jpg' alt='Happy Halloween Background Vector Illustration Halloween Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/happy-halloween-background-vector-illustration-600w-741239143.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Backgrounds" Images – Browse 1,773 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/09/22/78/07/360_F_922780795_kmrsocAfxQiFvWAYNi4EOzfjoVUpJT0v.jpg' alt='Halloween Backgrounds" Images – Browse 1,773 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/09/22/78/07/360_F_922780795_kmrsocAfxQiFvWAYNi4EOzfjoVUpJT0v.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Halloween Vector Graphics: Download 1,000+ Clipart, Art, and ...">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2024/04/27/05/38/ai-generated-8723053_1280.png' alt='Free Halloween Vector Graphics: Download 1,000+ Clipart, Art, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2024/04/27/05/38/ai-generated-8723053_1280.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="61,500+ Cute Halloween Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1559924790/vector/vector-background-with-a-set-of-halloween-icons-for-banners-cards-flyers-social-media.jpg?s=170667a&w=is&k=20&c=S7ex9TlEHLpKAJf5D2MQc7ie0V4k3XAq_WNrXrnzlVk=' alt='61,500+ Cute Halloween Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="505">
+                                <meta itemprop="height" content="341">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1559924790/vector/vector-background-with-a-set-of-halloween-icons-for-banners-cards-flyers-social-media.jpg?s=170667a&w=is&k=20&c=S7ex9TlEHLpKAJf5D2MQc7ie0V4k3XAq_WNrXrnzlVk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Background Vector Vector Art & Graphics | freevector.com">
+                                <img itemprop="contentUrl url" src='https://www.freevector.com/uploads/vector/preview/4201/FreeVector-Halloween-Background-Vector.jpg' alt='Halloween Background Vector Vector Art & Graphics | freevector.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="765">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Free Vector Art & Graphics" />
+                                </span>
+                                <a href='https://www.freevector.com/uploads/vector/preview/4201/FreeVector-Halloween-Background-Vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

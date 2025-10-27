@@ -1,0 +1,129 @@
+<title>Cute Flower Phone Wallpapers: Brighten Your Screen!</title>
+                    <meta name="description" content="Discover adorable flower phone wallpapers that bring life and color to your screen! Perfect for nature lovers, these vibrant designs will uplift your mood and personalize your device. Explore our collection to find the perfect floral backdrop for your phone today!">
+                    <meta name="keywords" content="cute flower phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/cute-flower-phone-wallpaper">
+                            <span itemprop="name">cute flower phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cute Flower Phone Wallpapers: Brighten Your Screen!</h1>
+                <p>Brighten your day with a cute flower phone wallpaper! Bursting with vibrant colors and delicate designs, these wallpapers bring a touch of nature to your device. Perfect for plant lovers or anyone looking to add a cheerful vibe to their screens. Transform your phone into a blossoming garden with just a tap!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Flower Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/flower-phone-rp0naw6jn3bc3gr9.jpg' alt='100+] Flower Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="886">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/flower-phone-rp0naw6jn3bc3gr9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Floral Phone Wallpapers • Spring Collection • BiBs 2014 ...">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/50fdc822e4b03aa4e2b9f11a/1399375491100-CMC4G7LHMM63KOHULBRC/Flower+Phone+Wallpaper' alt='Free Floral Phone Wallpapers • Spring Collection • BiBs 2014 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Capture by Lucy" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/50fdc822e4b03aa4e2b9f11a/1399375491100-CMC4G7LHMM63KOHULBRC/Flower+Phone+Wallpaper' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Flower Wallpaper Cute">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91qB-fYZGwL.png' alt='Flower Wallpaper Cute'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91qB-fYZGwL.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral iPhone Wallpapers | Download High Resolution Flower Mobile ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjIzLWItYm9yZGVyLTAwMWIuanBn.jpg' alt='Floral iPhone Wallpapers | Download High Resolution Flower Mobile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjIzLWItYm9yZGVyLTAwMWIuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable daisy wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFI9Fjsah4/1/0/900w/canva-pastel-pink-daisy-flower-phone-wallpaper-G84Qx9Ng9sA.jpg' alt='Free and customizable daisy wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFI9Fjsah4/1/0/900w/canva-pastel-pink-daisy-flower-phone-wallpaper-G84Qx9Ng9sA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral iPhone Wallpapers | Download High Resolution Flower Mobile ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjIzLXktYmFja2dyb3VuZC1hZGotMDAyYy5qcGc.jpg' alt='Floral iPhone Wallpapers | Download High Resolution Flower Mobile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL3JtNjIzLXktYmFja2dyb3VuZC1hZGotMDAyYy5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Floral store phone wallpaper">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFZNka3-jY/1/0/900w/canva-purple-and-pink-watercolor-flower-phone-wallpaper-o60c1Ih586o.jpg' alt='Floral store phone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RPM Sports" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFZNka3-jY/1/0/900w/canva-purple-and-pink-watercolor-flower-phone-wallpaper-o60c1Ih586o.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Flowery Phone Background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8c/9e/ea/8c9eeacdb26b9e003b6f70d47cf2dcde.jpg' alt='Cute Flowery Phone Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8c/9e/ea/8c9eeacdb26b9e003b6f70d47cf2dcde.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Iphone Flower Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cute-iphone-flower-9iv7h0snpuhs40hc.jpg' alt='100+] Cute Iphone Flower Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="428">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cute-iphone-flower-9iv7h0snpuhs40hc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="180 Best Flower background iPhone ideas | flower backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/5f/63/72/5f6372d7dccb2a5dc597c145e6b2d5d7.jpg' alt='180 Best Flower background iPhone ideas | flower backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1003">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/5f/63/72/5f6372d7dccb2a5dc597c145e6b2d5d7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

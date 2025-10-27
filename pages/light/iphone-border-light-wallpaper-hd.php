@@ -1,0 +1,129 @@
+<title>HD Border Light Wallpaper for iPhone | Vibrant Styles</title>
+                    <meta name="description" content="Explore a collection of HD border light wallpapers for your iPhone. Brighten up your device with vibrant designs that pop, making your home screen stand out. Perfectly optimized for mobile display, these wallpapers combine beauty and functionality for a fresh look. Download yours today!">
+                    <meta name="keywords" content="iphone border light wallpaper hd">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light">
+                            <span itemprop="name">Light</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/light/iphone-border-light-wallpaper-hd">
+                            <span itemprop="name">iphone border light wallpaper hd</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>HD Border Light Wallpaper for iPhone | Vibrant Styles</h1>
+                <p>Discover stunning HD iPhone border light wallpapers that elevate your device's aesthetic. These wallpapers feature vibrant colors and sleek designs, perfect for adding a touch of elegance to your home screen. Transform your iPhone with these eye-catching backgrounds that shine and capture attention. Perfect for every style and preference!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Border Light wallpaper by Always On Edge - Download on ZEDGE™ | 52a9">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/8e/36/dc/8e36dc6b83d9f1dfe525f1eea027bf5c.jpg' alt='Border Light wallpaper by Always On Edge - Download on ZEDGE™ | 52a9'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/8e/36/dc/8e36dc6b83d9f1dfe525f1eea027bf5c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Opposite Long Frame 1, amoled, black, border, dark, iphone, light ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/313/79/HD-wallpaper-opposite-long-frame-1-amoled-black-border-dark-iphone-light-neon-oneplus-samsung-smoke.jpg' alt='Opposite Long Frame 1, amoled, black, border, dark, iphone, light ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/313/79/HD-wallpaper-opposite-long-frame-1-amoled-black-border-dark-iphone-light-neon-oneplus-samsung-smoke.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Border App Dock iPhone Wallpaper HD">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b7/47/d1/b747d1110eb02ac3e6ef31050d2ef7b7.jpg' alt='Neon Border App Dock iPhone Wallpaper HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b7/47/d1/b747d1110eb02ac3e6ef31050d2ef7b7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Long Frame 2, amoled, border, dark, iphone, light, oneplus ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/522/290/HD-wallpaper-blue-long-frame-2-amoled-border-dark-iphone-light-oneplus-samsung-smoke-xiaomi.jpg' alt='Blue Long Frame 2, amoled, border, dark, iphone, light, oneplus ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/522/290/HD-wallpaper-blue-long-frame-2-amoled-border-dark-iphone-light-oneplus-samsung-smoke-xiaomi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60 Edge Lighting Wallpaper for Homescreen & Lockscreen">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/79/f9/b6/79f9b6ba3999704bce26c4636365bd5b.jpg' alt='60 Edge Lighting Wallpaper for Homescreen & Lockscreen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="1124">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/79/f9/b6/79f9b6ba3999704bce26c4636365bd5b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RGB Long Frame, amoled, border, dark, iphone, light, oneplus ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/630/230/HD-wallpaper-rgb-long-frame-amoled-border-dark-iphone-light-oneplus-rainbow-samsung-stars-xiaomi.jpg' alt='RGB Long Frame, amoled, border, dark, iphone, light, oneplus ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/630/230/HD-wallpaper-rgb-long-frame-amoled-border-dark-iphone-light-oneplus-rainbow-samsung-stars-xiaomi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Border Light 12 Pro Max Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp9825239.jpg' alt='iPhone Border Light 12 Pro Max Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1301">
+                                <meta itemprop="height" content="2820">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp9825239.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Notch Frame, amoled, black, border, light, neon, oneplus ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4a/64/19/4a6419ee06cd2d13f4753835120ee329.jpg' alt='Rainbow Notch Frame, amoled, black, border, light, neon, oneplus ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4a/64/19/4a6419ee06cd2d13f4753835120ee329.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD border light wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/501/239/HD-wallpaper-blue-light-frame-amoled-blue-border-dark-light-neon-notch-oneplus-samsung-xiaomi-thumbnail.jpg' alt='HD border light wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/501/239/HD-wallpaper-blue-light-frame-amoled-blue-border-dark-light-neon-notch-oneplus-samsung-xiaomi-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I took one of the graduated border wallpapers for the X and added ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/egs4kcjh1ik01.jpg?width=640&crop=smart&auto=webp&s=1d83b1960148395632a718d976a76f87a701bcc1' alt='I took one of the graduated border wallpapers for the X and added ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/egs4kcjh1ik01.jpg?width=640&crop=smart&auto=webp&s=1d83b1960148395632a718d976a76f87a701bcc1' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

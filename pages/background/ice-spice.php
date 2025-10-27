@@ -1,0 +1,129 @@
+<title>Discover Ice Spice: Rising Star in Hip-Hop</title>
+                    <meta name="description" content="Explore the captivating journey of Ice Spice, a rising talent in the music industry. With a blend of hip-hop and pop, she brings fresh sounds and relatable lyrics that resonate with fans. Stay updated on her latest tracks and social media buzz as she makes waves in contemporary music!">
+                    <meta name="keywords" content="ice spice">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/ice-spice">
+                            <span itemprop="name">ice spice</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Ice Spice: Rising Star in Hip-Hop</h1>
+                <p>Ice Spice is an emerging music artist known for her unique blend of hip-hop and pop. With catchy melodies and relatable lyrics, she has quickly captured the attention of listeners worldwide. Her vibrant style and strong social media presence resonate with fans, making her a notable force in the contemporary music scene.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ice Spice - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/c/cb/Ice_Spice_%28color_corrected%29.png' alt='Ice Spice - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="674">
+                                <meta itemprop="height" content="899">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/c/cb/Ice_Spice_%28color_corrected%29.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ice Spice Is New York's Princess of Rap">
+                                <img itemprop="contentUrl url" src='https://pyxis.nymag.com/v1/imgs/339/66b/97b57ca1b6454d02f6a2fb37fb8ed69ced-Q347-RME-TheCutxIceSpice-002-05-FNL.rvertical.w570.jpg' alt='Ice Spice Is New York's Princess of Rap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="713">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Cut" />
+                                </span>
+                                <a href='https://pyxis.nymag.com/v1/imgs/339/66b/97b57ca1b6454d02f6a2fb37fb8ed69ced-Q347-RME-TheCutxIceSpice-002-05-FNL.rvertical.w570.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ice Spice | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab6761610000e5eb99878733414d6d04a20a5c3e' alt='Ice Spice | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="489">
+                                <meta itemprop="height" content="581">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab6761610000e5eb99878733414d6d04a20a5c3e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ice Spice: Her age, Instagram and relationship status revealed">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/ice-spice-2-1675688912.jpg?resize=640:*' alt='Ice Spice: Her age, Instagram and relationship status revealed'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cosmopolitan" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/ice-spice-2-1675688912.jpg?resize=640:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Review: Ice Spice Ups the Ante on 'Y2K'">
+                                <img itemprop="contentUrl url" src='https://www.rollingstone.com/wp-content/uploads/2024/07/ice-spice-album-review.jpg?w=1581&h=1054&crop=1' alt='Review: Ice Spice Ups the Ante on 'Y2K''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1581">
+                                <meta itemprop="height" content="1054">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone" />
+                                </span>
+                                <a href='https://www.rollingstone.com/wp-content/uploads/2024/07/ice-spice-album-review.jpg?w=1581&h=1054&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ice Spice: Y2K! review – wilfully trashy wordplay from wily new ...">
+                                <img itemprop="contentUrl url" src='https://i.guim.co.uk/img/media/adb79d8cf569b774d45c341c2264bcd47b7c2b81/0_134_5496_3298/master/5496.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=07c5e704e31d978019c3c9c0c700a30e' alt='Ice Spice: Y2K! review – wilfully trashy wordplay from wily new ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Guardian" />
+                                </span>
+                                <a href='https://i.guim.co.uk/img/media/adb79d8cf569b774d45c341c2264bcd47b7c2b81/0_134_5496_3298/master/5496.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=07c5e704e31d978019c3c9c0c700a30e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ice Spice Shares Details About Debut Album, Y2K (Exclusive)">
+                                <img itemprop="contentUrl url" src='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/rockcms/2024-02/ice-spice-1x1-jp-240201-be1081.jpg' alt='Ice Spice Shares Details About Debut Album, Y2K (Exclusive)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1240">
+                                <meta itemprop="height" content="1240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Today Show" />
+                                </span>
+                                <a href='https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/rockcms/2024-02/ice-spice-1x1-jp-240201-be1081.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ice Spice: Biography, Rapper, 2024 Grammy Nominee">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/ice-spice-arrives-at-the-2024-vanity-fair-oscar-party-news-photo-1711395564.jpg' alt='Ice Spice: Biography, Rapper, 2024 Grammy Nominee'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="708">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/ice-spice-arrives-at-the-2024-vanity-fair-oscar-party-news-photo-1711395564.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ice Spice | Ice Spice Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/icespice/images/d/d1/Ice_Spice_%28White_Background%29.jpg/revision/latest?cb=20230528061924' alt='Ice Spice | Ice Spice Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ice Spice Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/icespice/images/d/d1/Ice_Spice_%28White_Background%29.jpg/revision/latest?cb=20230528061924' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Now Here's Something I Didn't Expect: Ice Spice With Black Hair ...">
+                                <img itemprop="contentUrl url" src='https://media.allure.com/photos/670fcbc226ad8c72ce01bde5/4:3/w_3332,h_2499,c_limit/ice%20spice%20dark%20hair%20hero.jpg' alt='Now Here's Something I Didn't Expect: Ice Spice With Black Hair ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3332">
+                                <meta itemprop="height" content="2499">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Allure" />
+                                </span>
+                                <a href='https://media.allure.com/photos/670fcbc226ad8c72ce01bde5/4:3/w_3332,h_2499,c_limit/ice%20spice%20dark%20hair%20hero.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

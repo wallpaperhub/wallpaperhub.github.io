@@ -1,0 +1,129 @@
+<title>Aesthetic Bratz Desktop Wallpapers for Trendy Screens</title>
+                    <meta name="description" content="Discover stunning aesthetic Bratz desktop wallpapers! Transform your screen with vibrant colors and stylish designs that reflect your love for these iconic dolls. Perfect for making your desktop aesthetically pleasing and trendy. Explore the collection today!">
+                    <meta name="keywords" content="aesthetic bratz desktop wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/aesthetic-bratz-desktop-wallpaper">
+                            <span itemprop="name">aesthetic bratz desktop wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Bratz Desktop Wallpapers for Trendy Screens</h1>
+                <p>Aesthetic Bratz desktop wallpapers bring vibrant colors and stylish designs to your screen, showcasing the iconic doll's trendsetting look. These wallpapers feature artistic interpretations with dreamy backgrounds, soft pastels, and bold patterns. Perfect for fans of all ages, they elevate your desktop vibe with flair and nostalgia!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bratz Doll aesthetic desktop wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d8/17/49/d817491c57219b3727866ada5ec6b7c2.jpg' alt='Bratz Doll aesthetic desktop wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d8/17/49/d817491c57219b3727866ada5ec6b7c2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="bratz source">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/91/7c/85/917c85ee667e05d72bcdadced8868703.jpg' alt='bratz source'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/91/7c/85/917c85ee667e05d72bcdadced8868703.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desktop Wallpapers — Lookin' Bratz — The Ultimate Bratz Resource!">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/588023714402431d67d54f8a/1634529749100-5AEEY30P2O2VQO8FHTJJ/LB+Monogram+Classic+Jade+Wallpaper.jpg' alt='Desktop Wallpapers — Lookin' Bratz — The Ultimate Bratz Resource!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lookin' Bratz" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/588023714402431d67d54f8a/1634529749100-5AEEY30P2O2VQO8FHTJJ/LB+Monogram+Classic+Jade+Wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desktop Wallpapers — Lookin' Bratz — The Ultimate Bratz Resource!">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/588023714402431d67d54f8a/1634523928025-7PRT830CP4CF4CB4WJMK/LB+Collage+Wallpaper.png' alt='Desktop Wallpapers — Lookin' Bratz — The Ultimate Bratz Resource!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lookin' Bratz" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/588023714402431d67d54f8a/1634523928025-7PRT830CP4CF4CB4WJMK/LB+Collage+Wallpaper.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Bratz Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/bratz-aesthetic-cartoon-y5vai14meqa366sq.jpg' alt='200+] Bratz Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/bratz-aesthetic-cartoon-y5vai14meqa366sq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Girl Band Bratz Aesthetic Rock Angelz Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/girl-band-bratz-aesthetic-rock-angelz-8imzuj4tgbwu0ipo.jpg' alt='Girl Band Bratz Aesthetic Rock Angelz Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/girl-band-bratz-aesthetic-rock-angelz-8imzuj4tgbwu0ipo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desktop Wallpapers — Lookin' Bratz — The Ultimate Bratz Resource!">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/588023714402431d67d54f8a/1592812827925-N7EDPGROAHMK5QS976E0/wallpaper.jpg' alt='Desktop Wallpapers — Lookin' Bratz — The Ultimate Bratz Resource!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lookin' Bratz" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/588023714402431d67d54f8a/1592812827925-N7EDPGROAHMK5QS976E0/wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bratz">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/93/de/89/93de89eb67377beb84c9498a8ac9999c.jpg' alt='Bratz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/93/de/89/93de89eb67377beb84c9498a8ac9999c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Black Bratz Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/black-bratz-aesthetic-y0vrqtauzm8cjqug.jpg' alt='100+] Black Bratz Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/black-bratz-aesthetic-y0vrqtauzm8cjqug.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Desktop Wallpapers — Lookin' Bratz — The Ultimate Bratz Resource!">
+                                <img itemprop="contentUrl url" src='https://www.lookinbratz.com/s/LB-Monogram-Yasmin-Wallpaper.jpg' alt='Desktop Wallpapers — Lookin' Bratz — The Ultimate Bratz Resource!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lookin' Bratz" />
+                                </span>
+                                <a href='https://www.lookinbratz.com/s/LB-Monogram-Yasmin-Wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

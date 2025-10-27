@@ -1,0 +1,129 @@
+<title>Stunning Excavator Pictures for Construction Enthusiasts</title>
+                    <meta name="description" content="Discover a captivating collection of excavator pictures, showcasing these powerful machines in various construction settings. Perfect for enthusiasts and professionals alike, explore the versatility and strength of excavators through stunning visuals optimized for mobile viewing.">
+                    <meta name="keywords" content="pictures of excavators">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pictures-of-excavators">
+                            <span itemprop="name">pictures of excavators</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Excavator Pictures for Construction Enthusiasts</h1>
+                <p>Explore stunning pictures of excavators in action, featuring powerful machinery on job sites worldwide. From digging foundations to landscaping projects, these images showcase the versatility and strength of excavators. Perfect for construction enthusiasts and professionals, this collection highlights the best models and their capabilities.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is an Excavator and What's It Used For? | Newman Tractor">
+                                <img itemprop="contentUrl url" src='https://cdn.sanity.io/images/agnoplrn/production/f7854fedd1a40f3f9b94c45621ebaa5acb53e537-6720x4480.jpg?rect=0,485,6720,3511&w=1200&h=627&fit=crop&auto=format' alt='What is an Excavator and What's It Used For? | Newman Tractor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="627">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Newman Tractor" />
+                                </span>
+                                <a href='https://cdn.sanity.io/images/agnoplrn/production/f7854fedd1a40f3f9b94c45621ebaa5acb53e537-6720x4480.jpg?rect=0,485,6720,3511&w=1200&h=627&fit=crop&auto=format' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Excavators (Diggers or Trackhoes) | Cat | Caterpillar">
+                                <img itemprop="contentUrl url" src='https://s7d2.scene7.com/is/image/Caterpillar/CM20180212-41328-33143?$cc-g$' alt='Excavators (Diggers or Trackhoes) | Cat | Caterpillar'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="712">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cat" />
+                                </span>
+                                <a href='https://s7d2.scene7.com/is/image/Caterpillar/CM20180212-41328-33143?$cc-g$' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7 Types of Excavators and Their Uses on the Construction Site ...">
+                                <img itemprop="contentUrl url" src='https://acropolis-wp-content-uploads.s3.us-west-1.amazonaws.com/excavators-lined-up-construction-3.webp' alt='7 Types of Excavators and Their Uses on the Construction Site ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BigRentz" />
+                                </span>
+                                <a href='https://acropolis-wp-content-uploads.s3.us-west-1.amazonaws.com/excavators-lined-up-construction-3.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CASE Excavators | CASE Construction Equipment">
+                                <img itemprop="contentUrl url" src='https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/a1dab90bdab84acf82a4a00045a138c5?v=c544e6f8' alt='CASE Excavators | CASE Construction Equipment'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="810">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CASE Construction Equipment" />
+                                </span>
+                                <a href='https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/a1dab90bdab84acf82a4a00045a138c5?v=c544e6f8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Things You Should Know About Excavators">
+                                <img itemprop="contentUrl url" src='https://worldwidemachinery.com/wp-content/uploads/2022/11/excavators.jpg' alt='8 Things You Should Know About Excavators'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7785">
+                                <meta itemprop="height" content="5230">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Worldwide Machinery" />
+                                </span>
+                                <a href='https://worldwidemachinery.com/wp-content/uploads/2022/11/excavators.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Midsize Excavators Can Grow Your Business | The Scoop">
+                                <img itemprop="contentUrl url" src='https://volvoceblog.com/wp-content/uploads/2023/11/Volvo-EC220-Excavator-1152x650.jpg' alt='How Midsize Excavators Can Grow Your Business | The Scoop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1152">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Scoop - A Blog from Volvo Construction Equipment NA" />
+                                </span>
+                                <a href='https://volvoceblog.com/wp-content/uploads/2023/11/Volvo-EC220-Excavator-1152x650.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Excavators | John Deere US">
+                                <img itemprop="contentUrl url" src='https://www.deere.com/assets/images/common/products/excavators/350p_excavator_r4f177803_rrd_1366x768_large_f74689a561d02bb82d8cddc2497c9ed02dfe1544.jpg' alt='Excavators | John Deere US'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="John Deere" />
+                                </span>
+                                <a href='https://www.deere.com/assets/images/common/products/excavators/350p_excavator_r4f177803_rrd_1366x768_large_f74689a561d02bb82d8cddc2497c9ed02dfe1544.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="150,600+ Excavator Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/143918313/photo/excavator-at-a-construction-site-against-the-setting-sun.jpg?s=612x612&w=0&k=20&c=1ULa8wwAxgczZDRpmVYuR-cC7wTpIWSZMzVhOCOgjr0=' alt='150,600+ Excavator Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/143918313/photo/excavator-at-a-construction-site-against-the-setting-sun.jpg?s=612x612&w=0&k=20&c=1ULa8wwAxgczZDRpmVYuR-cC7wTpIWSZMzVhOCOgjr0=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top Seven Uses for Excavators | The Cat Rental Store">
+                                <img itemprop="contentUrl url" src='https://www.catrentalstore.com/en_US/blog/uses-for-excavators/_jcr_content/root/responsivegrid_695813821/responsivegrid_969720642/ttac.coreimg.png/1617208332900/image.img-%2868%29.png' alt='Top Seven Uses for Excavators | The Cat Rental Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1180">
+                                <meta itemprop="height" content="493">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Cat Rental Store" />
+                                </span>
+                                <a href='https://www.catrentalstore.com/en_US/blog/uses-for-excavators/_jcr_content/root/responsivegrid_695813821/responsivegrid_969720642/ttac.coreimg.png/1617208332900/image.img-%2868%29.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Versatility of Excavators: From Construction to Archaeology">
+                                <img itemprop="contentUrl url" src='https://fivestarequipment.com/wp-content/uploads/2023/09/mini-excavator-2-1024x775.jpeg' alt='The Versatility of Excavators: From Construction to Archaeology'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="775">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Five Star Equipment" />
+                                </span>
+                                <a href='https://fivestarequipment.com/wp-content/uploads/2023/09/mini-excavator-2-1024x775.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

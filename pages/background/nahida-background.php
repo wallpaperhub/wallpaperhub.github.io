@@ -1,0 +1,129 @@
+<title>Discover Nahida: The Dendro Archon of Sumeru</title>
+                    <meta name="description" content="Explore the intriguing background of Nahida, the Dendro Archon from Sumeru. Uncover her journey, wisdom, and the unique qualities that make her a favorite among gamers. Dive into her lore and connect with her story as she navigates her divine responsibilities.">
+                    <meta name="keywords" content="nahida background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/nahida-background">
+                            <span itemprop="name">nahida background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Nahida: The Dendro Archon of Sumeru</h1>
+                <p>Nahida, a captivating character from the popular game, boasts a rich background intertwined with her role as a Dendro Archon. Reflecting the essence of wisdom and compassion, her story unfolds in the mystic land of Sumeru. As she navigates her duties and growth, players find her both relatable and inspiring, making her a beloved figure in the community.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nahida Wallpaper 8K from the event page (with icons removed) : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/p9enu6aiakwd1.png' alt='Nahida Wallpaper 8K from the event page (with icons removed) : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7680">
+                                <meta itemprop="height" content="4320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/p9enu6aiakwd1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nahida Wallpaper From “May Your Dreams of Wisdom Come True ...">
+                                <img itemprop="contentUrl url" src='https://upload-os-bbs.hoyolab.com/upload/2022/10/28/106072616/5310706a5f6104e2ea5ffb7027c1a98a_5589112838921851538.jpg?x-oss-process=image%2Fresize%2Cs_1000%2Fauto-orient%2C0%2Finterlace%2C1%2Fformat%2Cwebp%2Fquality%2Cq_70' alt='Nahida Wallpaper From “May Your Dreams of Wisdom Come True ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1778">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HoYoLAB" />
+                                </span>
+                                <a href='https://upload-os-bbs.hoyolab.com/upload/2022/10/28/106072616/5310706a5f6104e2ea5ffb7027c1a98a_5589112838921851538.jpg?x-oss-process=image%2Fresize%2Cs_1000%2Fauto-orient%2C0%2Finterlace%2C1%2Fformat%2Cwebp%2Fquality%2Cq_70' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Nahida (Genshin Impact) Video Game Genshin Impact 4k ...">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/129/1290057.jpg' alt='Download Nahida (Genshin Impact) Video Game Genshin Impact 4k ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="2480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/129/1290057.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD] Nahida Wallpaper Genshin Impact | HoYoLAB">
+                                <img itemprop="contentUrl url" src='https://upload-os-bbs.hoyolab.com/upload/2022/10/26/204617487/c58fbb80f7783ddbdc375838d243e6eb_8203918664220570891.png?x-oss-process=image%2Fresize%2Cs_1000%2Fauto-orient%2C0%2Finterlace%2C1%2Fformat%2Cwebp%2Fquality%2Cq_70' alt='HD] Nahida Wallpaper Genshin Impact | HoYoLAB'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1778">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="HoYoLAB" />
+                                </span>
+                                <a href='https://upload-os-bbs.hoyolab.com/upload/2022/10/26/204617487/c58fbb80f7783ddbdc375838d243e6eb_8203918664220570891.png?x-oss-process=image%2Fresize%2Cs_1000%2Fauto-orient%2C0%2Finterlace%2C1%2Fformat%2Cwebp%2Fquality%2Cq_70' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Nahida (Genshin Impact) Video Game Genshin Impact 4k ...">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/130/1309448.jpeg' alt='Download Nahida (Genshin Impact) Video Game Genshin Impact 4k ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4538">
+                                <meta itemprop="height" content="2346">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/130/1309448.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nahida Wallpapers made by me! : r/Genshin_Impact">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/nahida-wallpapers-made-by-me-v0-fsbzvon2xqw91.jpg?width=1280&format=pjpg&auto=webp&s=067a8b66777f1a82db12be183ac70cda04b69a4f' alt='Nahida Wallpapers made by me! : r/Genshin_Impact'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/nahida-wallpapers-made-by-me-v0-fsbzvon2xqw91.jpg?width=1280&format=pjpg&auto=webp&s=067a8b66777f1a82db12be183ac70cda04b69a4f' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nahida Wallpapers made by me! : r/Genshin_Impact">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/nahida-wallpapers-made-by-me-v0-utfr2do2xqw91.jpg?width=3840&format=pjpg&auto=webp&s=ae4f9e5d2775efbd4b1dca7234e9e295a916c329' alt='Nahida Wallpapers made by me! : r/Genshin_Impact'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/nahida-wallpapers-made-by-me-v0-utfr2do2xqw91.jpg?width=3840&format=pjpg&auto=webp&s=ae4f9e5d2775efbd4b1dca7234e9e295a916c329' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Nahida (Genshin Impact) Video Game Genshin Impact 4k ...">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/130/1306000.jpeg' alt='Download Nahida (Genshin Impact) Video Game Genshin Impact 4k ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4499">
+                                <meta itemprop="height" content="2473">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/130/1306000.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nahida - Genshin Impact - Zerochan Anime Image Board">
+                                <img itemprop="contentUrl url" src='https://static.zerochan.net/Nahida.full.3718458.jpg' alt='Nahida - Genshin Impact - Zerochan Anime Image Board'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1417">
+                                <meta itemprop="height" content="1900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zerochan" />
+                                </span>
+                                <a href='https://static.zerochan.net/Nahida.full.3718458.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nahida Wallpaper Discover more Genshin Impact, Nahida, Nahida ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9c/c7/98/9cc7986f55c7dba772efb8e5252ec872.jpg' alt='Nahida Wallpaper Discover more Genshin Impact, Nahida, Nahida ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9c/c7/98/9cc7986f55c7dba772efb8e5252ec872.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

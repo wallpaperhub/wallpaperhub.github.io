@@ -1,0 +1,129 @@
+<title>Discovering Motown: The Sound That Changed Music Forever</title>
+                    <meta name="description" content="Explore the history and impact of Motown, the influential record label that reshaped music with its unique blend of soul and pop. From iconic artists to lasting cultural significance, dive into the world of Motown and its legacy. Perfect for music lovers wanting to know more about this transformative era.">
+                    <meta name="keywords" content="what is motown">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/what-is-motown">
+                            <span itemprop="name">what is motown</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discovering Motown: The Sound That Changed Music Forever</h1>
+                <p>Motown is a legendary record label and musical genre originating in Detroit during the 1960s, known for its distinctive sound blending soul and pop. It launched the careers of iconic artists like Marvin Gaye, The Supremes, and Stevie Wonder. Motown's influence on music and culture continues to resonate globally, symbolizing a vibrant era of creativity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Motown ???">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/lGQ4-m3tGkQ/maxresdefault.jpg' alt='What is Motown ???'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/lGQ4-m3tGkQ/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Motown: The music that changed America">
+                                <img itemprop="contentUrl url" src='https://ichef.bbci.co.uk/images/ic/480xn/p06xlt9x.jpg.webp' alt='Motown: The music that changed America'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC" />
+                                </span>
+                                <a href='https://ichef.bbci.co.uk/images/ic/480xn/p06xlt9x.jpg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Motown: The Music That Changed America - LIFE">
+                                <img itemprop="contentUrl url" src='https://static.life.com/wp-content/uploads/2022/10/06175732/LifeMotown-2022_preview-e1665087052241-758x1024.jpeg' alt='Motown: The Music That Changed America - LIFE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="758">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LIFE" />
+                                </span>
+                                <a href='https://static.life.com/wp-content/uploads/2022/10/06175732/LifeMotown-2022_preview-e1665087052241-758x1024.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Motown | TIME">
+                                <img itemprop="contentUrl url" src='https://api.time.com/wp-content/uploads/2024/03/360_motown_anniv_0109.jpg' alt='Motown | TIME'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="235">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Time" />
+                                </span>
+                                <a href='https://api.time.com/wp-content/uploads/2024/03/360_motown_anniv_0109.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Motown | History, Style, Artists, Songs, & Facts | Britannica Money">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/59/69659-004-48B6F4C7/label-Motown-Records.jpg' alt='Motown | History, Style, Artists, Songs, & Facts | Britannica Money'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/59/69659-004-48B6F4C7/label-Motown-Records.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Motown | History, Style, Artists, Songs, & Facts | Britannica Money">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/15/117715-050-002BE7EA/Supremes-Florence-Ballard-Mary-Wilson-Diana-Ross.jpg' alt='Motown | History, Style, Artists, Songs, & Facts | Britannica Money'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1205">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/15/117715-050-002BE7EA/Supremes-Florence-Ballard-Mary-Wilson-Diana-Ross.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Motown Songs: Supremes, Gaye, Stevie Wonder, Smokey Robinson">
+                                <img itemprop="contentUrl url" src='https://www.rollingstone.com/wp-content/uploads/2021/03/MOTOWN-COMP.jpg' alt='Best Motown Songs: Supremes, Gaye, Stevie Wonder, Smokey Robinson'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rolling Stone" />
+                                </span>
+                                <a href='https://www.rollingstone.com/wp-content/uploads/2021/03/MOTOWN-COMP.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Motown | History, Style, Artists, Songs, & Facts | Britannica Money">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/37/101937-050-60A347CA/The-Jackson-5-1970.jpg' alt='Motown | History, Style, Artists, Songs, & Facts | Britannica Money'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1073">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/37/101937-050-60A347CA/The-Jackson-5-1970.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Motown 60th anniversary: Five ways Motown changed the music ...">
+                                <img itemprop="contentUrl url" src='http://c.files.bbci.co.uk/30CC/production/_105129421_motown.jpg' alt='Motown 60th anniversary: Five ways Motown changed the music ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="1152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BBC" />
+                                </span>
+                                <a href='http://c.files.bbci.co.uk/30CC/production/_105129421_motown.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Motown: The Groups - An In-Depth Feature | uDiscover Music">
+                                <img itemprop="contentUrl url" src='https://www.udiscovermusic.com/wp-content/uploads/2014/04/motown-the-groups-featured-1000x600.jpg' alt='Motown: The Groups - An In-Depth Feature | uDiscover Music'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uDiscover Music" />
+                                </span>
+                                <a href='https://www.udiscovermusic.com/wp-content/uploads/2014/04/motown-the-groups-featured-1000x600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

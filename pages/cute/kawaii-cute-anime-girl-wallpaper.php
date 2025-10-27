@@ -1,0 +1,129 @@
+<title>Kawaii Cute Anime Girl Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover a vibrant collection of kawaii cute anime girl wallpapers! Perfect for adding charm and cuteness to your phone or desktop. Explore unique designs that reflect Japanese pop culture and showcase your love for anime. Download now for a colorful and delightful experience!">
+                    <meta name="keywords" content="kawaii cute anime girl wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/kawaii-cute-anime-girl-wallpaper">
+                            <span itemprop="name">kawaii cute anime girl wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Kawaii Cute Anime Girl Wallpapers for Your Device</h1>
+                <p>Transform your device with our kawaii cute anime girl wallpaper collection! Featuring adorable characters in vibrant colors, these wallpapers bring joy and charm to your screens. Perfect for anime lovers, each design reflects the essence of Japanese pop culture. Download your favorites and enjoy a daily dose of cuteness!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="made myself an “kawaii pink aesthetic anime girl wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3007802966301853330' alt='made myself an “kawaii pink aesthetic anime girl wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1620">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3007802966301853330' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Kawaii Anime Fashionable Pink Girl Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-kawaii-anime-fashionable-pink-girl-41o08bi0czg31cg8.jpg' alt='Cute Kawaii Anime Fashionable Pink Girl Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="934">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-kawaii-anime-fashionable-pink-girl-41o08bi0czg31cg8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/08/a3/0a/08a30a794d6676f6cc0cb040657cabc8.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/08/a3/0a/08a30a794d6676f6cc0cb040657cabc8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Cute Kawaii Anime Girl Smiling Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/a-cute-kawaii-anime-girl-smiling-exsjwt55ykn2tq7u.jpg' alt='A Cute Kawaii Anime Girl Smiling Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/a-cute-kawaii-anime-girl-smiling-exsjwt55ykn2tq7u.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Anime Girl Wallpaper - free download">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/high/cute-anime-girl-wallpaper-121.webp' alt='Cute Anime Girl Wallpaper - free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="838">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/high/cute-anime-girl-wallpaper-121.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Girl with Pets Digital Download Poster Printable Art Cute Anime  Kawaii PNG Wallpaper Screensaver Instant Download Digital Image">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/19180976/r/il/a4e2b5/5298471469/il_570xN.5298471469_2gv3.jpg' alt='Anime Girl with Pets Digital Download Poster Printable Art Cute Anime  Kawaii PNG Wallpaper Screensaver Instant Download Digital Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/19180976/r/il/a4e2b5/5298471469/il_570xN.5298471469_2gv3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="We Heart It">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4c/9d/5e/4c9d5ebfb1895a6d3212f3e3b4a00b3f.jpg' alt='We Heart It'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4c/9d/5e/4c9d5ebfb1895a6d3212f3e3b4a00b3f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wp9157309-kawaii-cute-girl-anime-wallpapers by lina249 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4a28e349-4ce1-4419-a4d0-3dab0d23d104/dfuqx09-2d8cbaf7-485f-4d9a-b4dd-00fcefdd43e2.jpg/v1/fill/w_946,h_844,q_70,strp/wp9157309_kawaii_cute_girl_anime_wallpapers_by_lina249_dfuqx09-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA3MSIsInBhdGgiOiJcL2ZcLzRhMjhlMzQ5LTRjZTEtNDQxOS1hNGQwLTNkYWIwZDIzZDEwNFwvZGZ1cXgwOS0yZDhjYmFmNy00ODVmLTRkOWEtYjRkZC0wMGZjZWZkZDQzZTIuanBnIiwid2lkdGgiOiI8PTEyMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.727fTt2EHdF1mJGLMKbDOCgIpJQNtDBkflaTeY2in5g' alt='Wp9157309-kawaii-cute-girl-anime-wallpapers by lina249 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="946">
+                                <meta itemprop="height" content="844">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4a28e349-4ce1-4419-a4d0-3dab0d23d104/dfuqx09-2d8cbaf7-485f-4d9a-b4dd-00fcefdd43e2.jpg/v1/fill/w_946,h_844,q_70,strp/wp9157309_kawaii_cute_girl_anime_wallpapers_by_lina249_dfuqx09-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA3MSIsInBhdGgiOiJcL2ZcLzRhMjhlMzQ5LTRjZTEtNDQxOS1hNGQwLTNkYWIwZDIzZDEwNFwvZGZ1cXgwOS0yZDhjYmFmNy00ODVmLTRkOWEtYjRkZC0wMGZjZWZkZDQzZTIuanBnIiwid2lkdGgiOiI8PTEyMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.727fTt2EHdF1mJGLMKbDOCgIpJQNtDBkflaTeY2in5g' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable kawaii wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFW95hFfKM/1/0/900w/canva-pink-cute-kawaii-anime-princess-phone-wallpaper-oPO0mmW3CLA.jpg' alt='Free and customizable kawaii wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFW95hFfKM/1/0/900w/canva-pink-cute-kawaii-anime-princess-phone-wallpaper-oPO0mmW3CLA.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Kawaii Cute Aesthetic Anime Girl Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/kawaii-cute-aesthetic-anime-girl-f2jaqbbqi54pbies.jpg' alt='Download Kawaii Cute Aesthetic Anime Girl Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1635">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/kawaii-cute-aesthetic-anime-girl-f2jaqbbqi54pbies.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

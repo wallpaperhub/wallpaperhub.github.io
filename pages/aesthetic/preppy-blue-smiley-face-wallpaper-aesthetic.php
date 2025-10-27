@@ -1,0 +1,129 @@
+<title>Trendy Preppy Blue Smiley Face Wallpaper Aesthetic</title>
+                    <meta name="description" content="Discover the vibrant preppy blue smiley face wallpaper aesthetic that combines fun and style. Perfect for adding a cheerful touch to any device, this wallpaper is designed to uplift your mood while keeping your screen looking fresh and trendy. Download now for an instant aesthetic upgrade!">
+                    <meta name="keywords" content="preppy blue smiley face wallpaper aesthetic">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/preppy-blue-smiley-face-wallpaper-aesthetic">
+                            <span itemprop="name">preppy blue smiley face wallpaper aesthetic</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Trendy Preppy Blue Smiley Face Wallpaper Aesthetic</h1>
+                <p>Elevate your device's look with our preppy blue smiley face wallpaper aesthetic! Perfectly blending fun and chic, this delightful design brings a pop of color and joy to your screen. Ideal for those who love a stylish, uplifting vibe, our wallpaper adds personality while keeping things fresh and trendy. Brighten your day with a smile!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy drippy smiley face wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/4d/67/29/4d67295cc28684e4a6cce28fd7c046dc.jpg' alt='Preppy drippy smiley face wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="706">
+                                <meta itemprop="height" content="1167">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/4d/67/29/4d67295cc28684e4a6cce28fd7c046dc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Smiley Face Blue Preppy Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/blue-smiley-face-collage-kgk5ryoq3agdhyzq.jpg' alt='100+] Smiley Face Blue Preppy Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/blue-smiley-face-collage-kgk5ryoq3agdhyzq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy blue drippy smiley face wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/ab/18/51/ab185177bc9cf5253b5e20200d2f7868.jpg' alt='Preppy blue drippy smiley face wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="527">
+                                <meta itemprop="height" content="747">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/ab/18/51/ab185177bc9cf5253b5e20200d2f7868.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Smiley Face Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/db/10/66/db10660c0e032b07206fec184b3d61b0.jpg' alt='Smiley Face Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/db/10/66/db10660c0e032b07206fec184b3d61b0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Notebook: Preppy Smiley Face Aesthetic | Cute Composition for Teen Girls  College Ruled | Lined Paper Note Book Journal | Pale Blue and Yellow |  School ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/6164xqBAAxL._AC_UF350,350_QL50_.jpg' alt='Notebook: Preppy Smiley Face Aesthetic | Cute Composition for Teen Girls  College Ruled | Lined Paper Note Book Journal | Pale Blue and Yellow |  School ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="270">
+                                <meta itemprop="height" content="350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/6164xqBAAxL._AC_UF350,350_QL50_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="light blue preppy smiley face wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0c/1e/a1/0c1ea10be1b56c76e5cfed1961473b4e.jpg' alt='light blue preppy smiley face wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1003">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0c/1e/a1/0c1ea10be1b56c76e5cfed1961473b4e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Smiley Face Blue Preppy Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/blue-smiley-face-pattern-background-aulzonkz93tbp7ya.jpg' alt='100+] Smiley Face Blue Preppy Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/blue-smiley-face-pattern-background-aulzonkz93tbp7ya.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Smiley Face Blue Preppy Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/blue-smiley-face-pattern-jpg-y3lwvwdfzakf2b3p.jpg' alt='100+] Smiley Face Blue Preppy Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="783">
+                                <meta itemprop="height" content="1030">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/blue-smiley-face-pattern-jpg-y3lwvwdfzakf2b3p.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic smiley face wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/81/84/23/818423eabbd938d88f62850d5c20bf0d.jpg' alt='Aesthetic smiley face wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="723">
+                                <meta itemprop="height" content="958">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/81/84/23/818423eabbd938d88f62850d5c20bf0d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Wallpaper Ideas, Preppy Wallpaper, Aesthetic Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.fabmood.com/wp-content/uploads/2024/03/smiley-face-wallpaper-3.jpg' alt='Cute Wallpaper Ideas, Preppy Wallpaper, Aesthetic Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="567">
+                                <meta itemprop="height" content="1115">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cute Wallpaper Ideas, Preppy Wallpaper, Aesthetic Wallpaper" />
+                                </span>
+                                <a href='https://www.fabmood.com/wp-content/uploads/2024/03/smiley-face-wallpaper-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

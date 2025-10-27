@@ -1,0 +1,129 @@
+<title>Nirvana Desktop Wallpaper: Elevate Your Screens</title>
+                    <meta name="description" content="Discover a unique collection of Nirvana desktop wallpapers that celebrate the legendary band. Perfect for fans, our vibrant designs add a touch of grunge to your screens. Download now for an inspiring and nostalgic backdrop that honors the spirit of Nirvana.">
+                    <meta name="keywords" content="nirvana desktop wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/nirvana-desktop-wallpaper">
+                            <span itemprop="name">nirvana desktop wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Nirvana Desktop Wallpaper: Elevate Your Screens</h1>
+                <p>Transform your desktop with stunning Nirvana wallpapers that capture the essence of the iconic band. Our collection features vibrant designs showcasing album art, classic moments, and inspirational quotes. Perfect for fans who want to express their love for Kurt Cobain and the grunge era. Download your favorite wallpaper now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="29 Nirvana wallpaper ideas | nirvana wallpaper, band wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/05/43/18/0543188a187d51ef3fed36544ae65507.jpg' alt='29 Nirvana wallpaper ideas | nirvana wallpaper, band wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1900">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/05/43/18/0543188a187d51ef3fed36544ae65507.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nirvana Music HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images8.alphacoders.com/522/thumb-1920-522662.jpg' alt='Nirvana Music HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images8.alphacoders.com/522/thumb-1920-522662.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Nirvana 4k Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/nirvana-4k-wvgpkpod60wrpq9z.jpg' alt='100+] Nirvana 4k Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1144">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/nirvana-4k-wvgpkpod60wrpq9z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nirvana Wallpapers (21 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/e/8/e/175700-1920x1080-desktop-1080p-nirvana-wallpaper.jpg' alt='Nirvana Wallpapers (21 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/e/8/e/175700-1920x1080-desktop-1080p-nirvana-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nirvana Desktop Wallpaper : r/Nirvana">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/n6ygskl3f2351.png?auto=webp&s=2c2f0ae0fcec133bc9272fe0aec16f8ce5b24351' alt='Nirvana Desktop Wallpaper : r/Nirvana'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/n6ygskl3f2351.png?auto=webp&s=2c2f0ae0fcec133bc9272fe0aec16f8ce5b24351' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nirvana Backgrounds Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/35/95/2c/35952caa623d7ac45ace3f4340ab126d.jpg' alt='Nirvana Backgrounds Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="620">
+                                <meta itemprop="height" content="388">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/35/95/2c/35952caa623d7ac45ace3f4340ab126d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30+] Nirvana Wallpapers">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/393/393437.jpg' alt='30+] Nirvana Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/393/393437.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="nirvana, band, glasses Wallpaper, HD Music 4K Wallpapers, Images ...">
+                                <img itemprop="contentUrl url" src='https://images.wallpapersden.com/image/download/nirvana-band-glasses_amtraG6UmZqaraWkpJRmbmdlrWZlbWU.jpg' alt='nirvana, band, glasses Wallpaper, HD Music 4K Wallpapers, Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapersden" />
+                                </span>
+                                <a href='https://images.wallpapersden.com/image/download/nirvana-band-glasses_amtraG6UmZqaraWkpJRmbmdlrWZlbWU.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Nirvana Nevermind Song Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/nirvana-nevermind-song-1obdqz8s4f6pl9yb.jpg' alt='Download Nirvana Nevermind Song Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/nirvana-nevermind-song-1obdqz8s4f6pl9yb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nirvana wallpaper I made (For desktop) : r/Nirvana">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/zae0bhptkvq41.jpg' alt='Nirvana wallpaper I made (For desktop) : r/Nirvana'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/zae0bhptkvq41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

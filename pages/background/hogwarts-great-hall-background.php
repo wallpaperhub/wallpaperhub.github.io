@@ -1,0 +1,129 @@
+<title>Discover the Enchantment of Hogwarts Great Hall</title>
+                    <meta name="description" content="Explore the magical ambiance of Hogwarts Great Hall, where floating candles illuminate grand feasts. Discover its enchanting atmosphere, rich history, and role as a centerpiece of student life and important ceremonies in the Wizarding World!">
+                    <meta name="keywords" content="hogwarts great hall background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/hogwarts-great-hall-background">
+                            <span itemprop="name">hogwarts great hall background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Enchantment of Hogwarts Great Hall</h1>
+                <p>Hogwarts Great Hall, a majestic centerpiece of the magical world, features soaring enchanted ceilings, flickering floating candles, and long communal tables. Each evening, it transforms into a dazzling spectacle, reflecting the starry night or a cozy winter's scene. This iconic space serves as a gathering place for students, feasts, and important ceremonies.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter Great Hall Peel & Stick Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='http://uswalldecor.com/cdn/shop/files/RMK12541M.jpg?v=1695066227' alt='Harry Potter Great Hall Peel & Stick Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="686">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="US Wall Decor" />
+                                </span>
+                                <a href='http://uswalldecor.com/cdn/shop/files/RMK12541M.jpg?v=1695066227' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter Church Hogwarts Dining Hall Candles Backdrop for ...">
+                                <img itemprop="contentUrl url" src='http://www.starbackdrops.com/cdn/shop/products/TKH1611.jpg?v=1733928068' alt='Harry Potter Church Hogwarts Dining Hall Candles Backdrop for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="604">
+                                <meta itemprop="height" content="425">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Starbackdrop" />
+                                </span>
+                                <a href='http://www.starbackdrops.com/cdn/shop/products/TKH1611.jpg?v=1733928068' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Great Hall | Harry Potter Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/harrypotter/images/c/c6/B1-background.jpg/revision/latest?cb=20111017204834' alt='Great Hall | Harry Potter Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1620">
+                                <meta itemprop="height" content="1708">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Harry Potter Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/harrypotter/images/c/c6/B1-background.jpg/revision/latest?cb=20111017204834' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Great Hall   ‍♂️ Hogwarts Legacy : r/HarryPotterGame">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/oux8vsy00sn51.jpg?auto=webp&s=0ba8cc2a2721f928957577011a590beb5943a0e6' alt='Great Hall   ‍♂️ Hogwarts Legacy : r/HarryPotterGame'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/oux8vsy00sn51.jpg?auto=webp&s=0ba8cc2a2721f928957577011a590beb5943a0e6' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter Great Hall Mural">
+                                <img itemprop="contentUrl url" src='https://roommatesdecor.com/cdn/shop/products/RMK12541M_RS1ex_grande.jpg?v=1676575431' alt='Harry Potter Great Hall Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="RoomMates Decor" />
+                                </span>
+                                <a href='https://roommatesdecor.com/cdn/shop/products/RMK12541M_RS1ex_grande.jpg?v=1676575431' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hogwarts Great Hall Wallpapers on WallpaperDog">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/68/e7/55/68e755368194157963f8252020428068.jpg' alt='Hogwarts Great Hall Wallpapers on WallpaperDog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/68/e7/55/68e755368194157963f8252020428068.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Halloween themed Great Hall is breathtaking, I didn't know it ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/the-halloween-themed-great-hall-is-breathtaking-i-didnt-v0-418xbxmq4f9c1.png?auto=webp&s=9682fec3d4da0c3ef532fbe8e1c6efb39846b6da' alt='The Halloween themed Great Hall is breathtaking, I didn't know it ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/the-halloween-themed-great-hall-is-breathtaking-i-didnt-v0-418xbxmq4f9c1.png?auto=webp&s=9682fec3d4da0c3ef532fbe8e1c6efb39846b6da' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Great Hall of Hogwarts: Quick Set-Dressing Technique">
+                                <img itemprop="contentUrl url" src='https://cdn.80.lv/api/upload/post/9353/images/5e60f69a5e1a1/widen_2440x0.jpg' alt='The Great Hall of Hogwarts: Quick Set-Dressing Technique'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2440">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="80 Level" />
+                                </span>
+                                <a href='https://cdn.80.lv/api/upload/post/9353/images/5e60f69a5e1a1/widen_2440x0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Conquest Journals Harry Potter Hogwarts Great Hall Backdrop  Wall Banner, Large Photo Backdrop, Party Decoration, Wizarding World Room  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81iA7Rf6ekL.jpg' alt='Amazon.com : Conquest Journals Harry Potter Hogwarts Great Hall Backdrop  Wall Banner, Large Photo Backdrop, Party Decoration, Wizarding World Room  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2085">
+                                <meta itemprop="height" content="2084">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81iA7Rf6ekL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pottermore Background: Great Hall at Christmas #3 by xxtayce on ...">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7e740078-f753-4701-a779-c7124d72087f/d6xjvce-d6c4c0ee-4c28-41aa-bbaf-e37eaddd6c89.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdlNzQwMDc4LWY3NTMtNDcwMS1hNzc5LWM3MTI0ZDcyMDg3ZlwvZDZ4anZjZS1kNmM0YzBlZS00YzI4LTQxYWEtYmJhZi1lMzdlYWRkZDZjODkuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.lPrBVyRxWbKdLEhUYgoKvBz6N3FCzPZKn-daE7K62iI' alt='Pottermore Background: Great Hall at Christmas #3 by xxtayce on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7e740078-f753-4701-a779-c7124d72087f/d6xjvce-d6c4c0ee-4c28-41aa-bbaf-e37eaddd6c89.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdlNzQwMDc4LWY3NTMtNDcwMS1hNzc5LWM3MTI0ZDcyMDg3ZlwvZDZ4anZjZS1kNmM0YzBlZS00YzI4LTQxYWEtYmJhZi1lMzdlYWRkZDZjODkuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.lPrBVyRxWbKdLEhUYgoKvBz6N3FCzPZKn-daE7K62iI' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

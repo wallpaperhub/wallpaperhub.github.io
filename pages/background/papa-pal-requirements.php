@@ -1,0 +1,129 @@
+<title>Essential Requirements for Becoming a Papa Pal</title>
+                    <meta name="description" content="Discover the key requirements to become a successful papa pal, including age, experience, and certifications. Learn how to enhance your application and provide exceptional childcare services. Perfect for aspiring caregivers looking to make a difference in children's lives.">
+                    <meta name="keywords" content="papa pal requirements">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/papa-pal-requirements">
+                            <span itemprop="name">papa pal requirements</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Essential Requirements for Becoming a Papa Pal</h1>
+                <p>When applying to be a papa pal, candidates typically need to meet specific requirements, including being over 18 years old, possessing reliable transportation, and having a clean background check. Additionally, having prior experience with childcare and being first aid certified can enhance your application. Passion for nurturing children is essential.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Papa Pal Application | Papa">
+                                <img itemprop="contentUrl url" src='https://images.papa.com/wp-content/uploads/2022/02/Phones.png' alt='Papa Pal Application | Papa'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="554">
+                                <meta itemprop="height" content="617">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papa Pals" />
+                                </span>
+                                <a href='https://images.papa.com/wp-content/uploads/2022/02/Phones.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Papa Pal Job Application - Part-Time Caregiver Jobs">
+                                <img itemprop="contentUrl url" src='https://www.papa.com/pals/signup/static/media/group_4.38825c9b2c62c489ef9d.png' alt='Papa Pal Job Application - Part-Time Caregiver Jobs'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="520">
+                                <meta itemprop="height" content="495">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papa Pal" />
+                                </span>
+                                <a href='https://www.papa.com/pals/signup/static/media/group_4.38825c9b2c62c489ef9d.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Understanding Pal Earnings | Papa">
+                                <img itemprop="contentUrl url" src='https://images.papa.com/wp-content/uploads/2023/05/Screenshot-2023-05-10-at-3.41.01-PM-1.png' alt='Understanding Pal Earnings | Papa'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="582">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papa Pals" />
+                                </span>
+                                <a href='https://images.papa.com/wp-content/uploads/2023/05/Screenshot-2023-05-10-at-3.41.01-PM-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Papa Pal Requirements | Papa">
+                                <img itemprop="contentUrl url" src='https://images.papa.com/wp-content/uploads/2023/09/unnamed-2.png' alt='Papa Pal Requirements | Papa'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="341">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papa Pal" />
+                                </span>
+                                <a href='https://images.papa.com/wp-content/uploads/2023/09/unnamed-2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Understanding Pal Earnings | Papa">
+                                <img itemprop="contentUrl url" src='https://images.papa.com/wp-content/uploads/2023/10/Pay-Table.png' alt='Understanding Pal Earnings | Papa'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="916">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papa Pals" />
+                                </span>
+                                <a href='https://images.papa.com/wp-content/uploads/2023/10/Pay-Table.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Papa Pal Requirements | Papa">
+                                <img itemprop="contentUrl url" src='https://images.papa.com/wp-content/uploads/2023/09/unnamed-1.png' alt='Papa Pal Requirements | Papa'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="330">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papa Pal" />
+                                </span>
+                                <a href='https://images.papa.com/wp-content/uploads/2023/09/unnamed-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Papa Pal Safety | Papa">
+                                <img itemprop="contentUrl url" src='https://images.papa.com/wp-content/uploads/2024/01/Emergency-Button-Hand-Graphic.png' alt='Papa Pal Safety | Papa'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1553">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papa" />
+                                </span>
+                                <a href='https://images.papa.com/wp-content/uploads/2024/01/Emergency-Button-Hand-Graphic.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Papa Pal App | Download on iOS or Android">
+                                <img itemprop="contentUrl url" src='https://images.papa.com/wp-content/uploads/2024/08/papa-pal-app.webp' alt='Papa Pal App | Download on iOS or Android'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="1006">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papa Pals" />
+                                </span>
+                                <a href='https://images.papa.com/wp-content/uploads/2024/08/papa-pal-app.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Member and Visit Safety | Papa">
+                                <img itemprop="contentUrl url" src='https://images.papa.com/wp-content/uploads/2024/05/review-page.webp' alt='Member and Visit Safety | Papa'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="819">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papa" />
+                                </span>
+                                <a href='https://images.papa.com/wp-content/uploads/2024/05/review-page.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Curious about the visit types you may see as a #PapaPal? Check out ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3286902722581416266' alt='Curious about the visit types you may see as a #PapaPal? Check out ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3286902722581416266' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

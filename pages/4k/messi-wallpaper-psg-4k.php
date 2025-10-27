@@ -1,0 +1,129 @@
+<title>Stunning 4K Messi Wallpapers for PSG Fans</title>
+                    <meta name="description" content="Immerse yourself in the world of Lionel Messi with our collection of high-quality 4K PSG wallpapers. Perfect for fans, these stunning images capture the essence of the football icon. Download now and personalize your device with the best Messi moments in action!">
+                    <meta name="keywords" content="messi wallpaper psg 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/messi-wallpaper-psg-4k">
+                            <span itemprop="name">messi wallpaper psg 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Messi Wallpapers for PSG Fans</h1>
+                <p>Discover stunning 4K wallpapers of Lionel Messi in his PSG jersey! Elevate your screens with high-resolution images showcasing the football legend's skills and charisma on the pitch. Perfect for fans who want to celebrate Messi's journey at Paris Saint-Germain. Download your favorite wallpaper now and enjoy the magic!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lionel Messi PSG Wallpaper iPhone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2b/31/b4/2b31b4ce4302aed6f2be2e9c9a39db7d.jpg' alt='Lionel Messi PSG Wallpaper iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2b/31/b4/2b31b4ce4302aed6f2be2e9c9a39db7d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k Wallpaper Messi PSG 2021">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/73/79/5b/73795b38c77bf3ba76c377ba71da0a47.jpg' alt='4k Wallpaper Messi PSG 2021'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/73/79/5b/73795b38c77bf3ba76c377ba71da0a47.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD psg messi wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/763/273/HD-wallpaper-messi-psg-futbol-messi-thumbnail.jpg' alt='HD psg messi wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="555">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/763/273/HD-wallpaper-messi-psg-futbol-messi-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Paris Saint-Germain F.C Lionel Messi Sports 4k Ultra HD ...">
+                                <img itemprop="contentUrl url" src='https://images3.alphacoders.com/116/1166126.jpg' alt='Download Paris Saint-Germain F.C Lionel Messi Sports 4k Ultra HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images3.alphacoders.com/116/1166126.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lionel Messi PSG Wallpaper Download | Voetbal">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0f/f0/14/0ff0145cce51bf1a0b81eea334a78883.jpg' alt='Lionel Messi PSG Wallpaper Download | Voetbal'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0f/f0/14/0ff0145cce51bf1a0b81eea334a78883.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lionel Messi, paris saint germain, paris, psg, football, paris sg ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/128/460/HD-wallpaper-lionel-messi-paris-saint-germain-paris-psg-football-paris-sg.jpg' alt='Lionel Messi, paris saint germain, paris, psg, football, paris sg ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/128/460/HD-wallpaper-lionel-messi-paris-saint-germain-paris-psg-football-paris-sg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="السلمي on X: "4K #Wallpapers | #Messi #PSG      https://t.co ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/FErQEU8XIAYmtXi.png:large' alt='السلمي on X: "4K #Wallpapers | #Messi #PSG      https://t.co ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="946">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/FErQEU8XIAYmtXi.png:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Paris Saint-Germain F.C Lionel Messi Sports HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images2.alphacoders.com/116/1167468.png' alt='Download Paris Saint-Germain F.C Lionel Messi Sports HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images2.alphacoders.com/116/1167468.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD messi psg 30 wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/506/258/HD-wallpaper-lionel-messi-30-psg-argentina-goat.jpg' alt='HD messi psg 30 wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/506/258/HD-wallpaper-lionel-messi-30-psg-argentina-goat.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lionel Messi PSG">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/cc/89/67/cc8967fc6d6a2d4e98ecefb581ad7a46.jpg' alt='Lionel Messi PSG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/cc/89/67/cc8967fc6d6a2d4e98ecefb581ad7a46.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

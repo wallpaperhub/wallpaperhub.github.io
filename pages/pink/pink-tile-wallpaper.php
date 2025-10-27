@@ -1,0 +1,129 @@
+<title>Transform Your Space with Pink Tile Wallpaper</title>
+                    <meta name="description" content="Add a splash of elegance to your interiors with pink tile wallpaper. Perfect for kitchens and bathrooms, it enhances your decor, creating a cozy and inviting atmosphere. Explore stylish patterns and tones that effortlessly uplift your space. Discover the charm of pink tile wallpaper now!">
+                    <meta name="keywords" content="pink tile wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-tile-wallpaper">
+                            <span itemprop="name">pink tile wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Pink Tile Wallpaper</h1>
+                <p>Pink tile wallpaper brings a charming and playful aesthetic to any space. Its vibrant hues and unique patterns can brighten up a room, creating an inviting atmosphere. Whether used in kitchens, bathrooms, or feature walls, this design element adds a touch of whimsy and elegance. Transform your interiors with pink tile wallpaper today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Tiles Wallpaper • Realistic Tile Effect Wallpaper • Milton & King">
+                                <img itemprop="contentUrl url" src='https://www.miltonandking.com/wp-content/uploads/2019/02/Wallpaper-Kemra-PinkTiles-1.jpg' alt='Pink Tiles Wallpaper • Realistic Tile Effect Wallpaper • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1318">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://www.miltonandking.com/wp-content/uploads/2019/02/Wallpaper-Kemra-PinkTiles-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Light Coral Color Tiles Removable Wallpaper">
+                                <img itemprop="contentUrl url" src='https://livetteswallpaper.com/cdn/shop/products/Blush-pink-tiles-removable-wallpaper-for-bathroom-interior_900x.jpg?v=1595364657' alt='Light Coral Color Tiles Removable Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Livettes Wallpaper" />
+                                </span>
+                                <a href='https://livetteswallpaper.com/cdn/shop/products/Blush-pink-tiles-removable-wallpaper-for-bathroom-interior_900x.jpg?v=1595364657' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Tiles Wallpaper • Realistic Tile Effect Wallpaper • Milton & King">
+                                <img itemprop="contentUrl url" src='https://s29938.pcdn.co/wp-content/uploads/2019/02/Wallpaper-Kemra-PinkTiles-2-1100x1320.jpg.optimal.jpg' alt='Pink Tiles Wallpaper • Realistic Tile Effect Wallpaper • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://s29938.pcdn.co/wp-content/uploads/2019/02/Wallpaper-Kemra-PinkTiles-2-1100x1320.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metro Pale Pink Tiles Backsplash Peel and Stick in Roll - Wall ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8234181/r/il/1a2b96/3486656886/il_fullxfull.3486656886_rvu5.jpg' alt='Metro Pale Pink Tiles Backsplash Peel and Stick in Roll - Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8234181/r/il/1a2b96/3486656886/il_fullxfull.3486656886_rvu5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="RUFOUS TILE Premium Wallpaper - Wallpaper - Products">
+                                <img itemprop="contentUrl url" src='https://mindtheg.com/media/catalog/product/cache/3/thumbnail/1280x/17f82f742ffe127f42dca9de82fb58b1/r/u/rufous_tile-wp20055.jpg' alt='RUFOUS TILE Premium Wallpaper - Wallpaper - Products'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MINDTHEGAP" />
+                                </span>
+                                <a href='https://mindtheg.com/media/catalog/product/cache/3/thumbnail/1280x/17f82f742ffe127f42dca9de82fb58b1/r/u/rufous_tile-wp20055.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download premium image of Light pink tile wall texture background ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7d/a3/85/7da38519f28e0a6006fecb0af66fa5c2.jpg' alt='Download premium image of Light pink tile wall texture background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7d/a3/85/7da38519f28e0a6006fecb0af66fa5c2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="3D Pink Tiles S148 Wallpaper Mural Self-adhesive Removable Sticker Kids Pa">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/54IAAOSw6DRitSkK/s-l1200.jpg' alt='3D Pink Tiles S148 Wallpaper Mural Self-adhesive Removable Sticker Kids Pa'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="906">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/54IAAOSw6DRitSkK/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alwayspon 10 Sheets 12"x12" Pink Hexagon 3D Vinyl Backsplash Tile ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71BpdiJ32lL.jpg' alt='Alwayspon 10 Sheets 12"x12" Pink Hexagon 3D Vinyl Backsplash Tile ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71BpdiJ32lL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Sheets Pink Wall Stickers 3d Brick Baterproof Wallpaper Bathroom Kitchen  Backsplash Wall Tiles for Home Decoration - AliExpress">
+                                <img itemprop="contentUrl url" src='https://ae01.alicdn.com/kf/Sd966380aae9f41e79aa125abdc014642j.jpg' alt='10 Sheets Pink Wall Stickers 3d Brick Baterproof Wallpaper Bathroom Kitchen  Backsplash Wall Tiles for Home Decoration - AliExpress'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AliExpress" />
+                                </span>
+                                <a href='https://ae01.alicdn.com/kf/Sd966380aae9f41e79aa125abdc014642j.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | Pink tile wall and floor texture background ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/pink-tile-wall-floor-texture-background-colored-mosaic-simple-design-with-vintage-style_550395-1101.jpg' alt='Premium Photo | Pink tile wall and floor texture background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="484">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/pink-tile-wall-floor-texture-background-colored-mosaic-simple-design-with-vintage-style_550395-1101.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

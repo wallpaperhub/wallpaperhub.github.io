@@ -1,0 +1,129 @@
+<title>Amazing Galaxy Neon Rainbow Backgrounds for Your Digital Space</title>
+                    <meta name="description" content="Discover stunning galaxy neon rainbow backgrounds that elevate your digital aesthetics. Perfect for wallpapers and graphics, these vibrant designs blend cosmic colors for a contemporary touch. Enhance your creative projects with a splash of cosmic brilliance today!">
+                    <meta name="keywords" content="galaxy neon rainbow background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/galaxy-neon-rainbow-background">
+                            <span itemprop="name">galaxy neon rainbow background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Amazing Galaxy Neon Rainbow Backgrounds for Your Digital Space</h1>
+                <p>Transform your digital spaces with a galaxy neon rainbow background! This vibrant design blends cosmic hues and luminous shades, creating a stunning visual experience. Perfect for wallpapers, social media graphics, or creative projects, it captures the awe of the universe while adding a modern flair to your aesthetics. Dive into the dreamy spectrum today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon galaxy digital paper, clouds pattern, rainbow background, abstract  backdrop, nebula paper, colourful wallpaper, celestial paper, space">
+                                <img itemprop="contentUrl url" src='https://v.etsystatic.com/video/upload/q_auto/Neon_galaxy_paper_oux5vz.jpg' alt='Neon galaxy digital paper, clouds pattern, rainbow background, abstract  backdrop, nebula paper, colourful wallpaper, celestial paper, space'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://v.etsystatic.com/video/upload/q_auto/Neon_galaxy_paper_oux5vz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Colorful Rainbow Aesthetic Galaxy Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/colorful-rainbow-aesthetic-galaxy-yfu6qt2h2u1oq60l.jpg' alt='Download Colorful Rainbow Aesthetic Galaxy Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/colorful-rainbow-aesthetic-galaxy-yfu6qt2h2u1oq60l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Neon Rainbow Background Stock Illustration - Illustration ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/abstract-neon-rainbow-background-copy-space-text-319420007.jpg' alt='Abstract Neon Rainbow Background Stock Illustration - Illustration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/abstract-neon-rainbow-background-copy-space-text-319420007.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Rainbow Background Stock Illustrations – 92,572 Neon Rainbow ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/neon-rainbow-waves-vector-background-diagonal-grid-abstract-39266311.jpg' alt='Neon Rainbow Background Stock Illustrations – 92,572 Neon Rainbow ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/neon-rainbow-waves-vector-background-diagonal-grid-abstract-39266311.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Rainbowcore Desktop Wallpaper : r/midjourney">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/neon-rainbowcore-desktop-wallpaper-v0-3r79tlurkvac1.png?width=1080&crop=smart&auto=webp&s=c547e01b12b110dcfb9e8a680a5d59a454e0edcc' alt='Neon Rainbowcore Desktop Wallpaper : r/midjourney'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="605">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/neon-rainbowcore-desktop-wallpaper-v0-3r79tlurkvac1.png?width=1080&crop=smart&auto=webp&s=c547e01b12b110dcfb9e8a680a5d59a454e0edcc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="freetoedit @mpink88 #glitter #sparkle #galaxy #sky #stars #clouds ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/ac/eb/78/aceb78da5a58fe54b0cb0c1ff602de92.jpg' alt='freetoedit @mpink88 #glitter #sparkle #galaxy #sky #stars #clouds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1151">
+                                <meta itemprop="height" content="1727">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/ac/eb/78/aceb78da5a58fe54b0cb0c1ff602de92.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Galaxy Digital Paper, Clouds Pattern, Rainbow Background ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/14411294/r/il/82f902/3537370220/il_570xN.3537370220_cg87.jpg' alt='Neon Galaxy Digital Paper, Clouds Pattern, Rainbow Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/14411294/r/il/82f902/3537370220/il_570xN.3537370220_cg87.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Magical Rainbow Galaxy Background Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/rainbow-galaxy-background-yxq6fxlao0jm7gvi.jpg' alt='Download Magical Rainbow Galaxy Background Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/rainbow-galaxy-background-yxq6fxlao0jm7gvi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Neon Rainbow Background Stock Illustrations – 92,572 Neon Rainbow ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/neon-rainbow-stars-shooting-across-vibrant-galaxy-background-image-depicts-scene-bright-colored-streaking-dark-purple-354227103.jpg' alt='Neon Rainbow Background Stock Illustrations – 92,572 Neon Rainbow ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="457">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/neon-rainbow-stars-shooting-across-vibrant-galaxy-background-image-depicts-scene-bright-colored-streaking-dark-purple-354227103.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Rainbow Galaxy Custom Fabric">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/a4/7d/b7/a47db75768cc1a7587b8a71806cfe5b3.jpg' alt='Rainbow Galaxy Custom Fabric'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="340">
+                                <meta itemprop="height" content="270">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/a4/7d/b7/a47db75768cc1a7587b8a71806cfe5b3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

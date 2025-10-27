@@ -1,0 +1,129 @@
+<title>Hippie Christmas Wallpaper: Festive & Colorful Decor</title>
+                    <meta name="description" content="Discover unique hippie Christmas wallpaper to brighten up your holiday season! Featuring cheerful colors and groovy designs, this decor option adds a playful twist to your festive celebrations. Ideal for all ages, embrace the holiday spirit in style with these eye-catching wallpapers this Christmas!">
+                    <meta name="keywords" content="hippie christmas wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/hippie-christmas-wallpaper">
+                            <span itemprop="name">hippie christmas wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Hippie Christmas Wallpaper: Festive & Colorful Decor</h1>
+                <p>Transform your holiday spirit with vibrant hippie Christmas wallpaper! Featuring colorful patterns, peace symbols, and whimsical designs, it brings a retro vibe to your festive decor. Ideal for those seeking a unique twist on traditional holiday aesthetics, these wallpapers are perfect for making your space warm and inviting this season.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,200+ Hippie Christmas Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1436476824/vector/big-set-of-merry-christmas-groovy-retro-70s-elements-groovy-hippie-holiday-collection-clip.jpg?s=612x612&w=0&k=20&c=eCOfOStgbGOGygxI7PHyAA5Z2yc_EF0WcxXg90lOPIY=' alt='4,200+ Hippie Christmas Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1436476824/vector/big-set-of-merry-christmas-groovy-retro-70s-elements-groovy-hippie-holiday-collection-clip.jpg?s=612x612&w=0&k=20&c=eCOfOStgbGOGygxI7PHyAA5Z2yc_EF0WcxXg90lOPIY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hippie Christmas Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/12372111/p/f/m/3V9NhWzraHLk7Yk6_1LFPwZ7EEIFFXp-D81KJRV-Alx0iApAzVmohIs/Hippie%20Christmas%20(Small).jpg' alt='Hippie Christmas Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/12372111/p/f/m/3V9NhWzraHLk7Yk6_1LFPwZ7EEIFFXp-D81KJRV-Alx0iApAzVmohIs/Hippie%20Christmas%20(Small).jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Groovy hippie Christmas and Happy New year ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/groovy-hippie-christmas-happy-new-year-rainbow-christmas-tree-trendy-retro-cartoon-style_627156-374.jpg?w=360' alt='Premium Vector | Groovy hippie Christmas and Happy New year ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/groovy-hippie-christmas-happy-new-year-rainbow-christmas-tree-trendy-retro-cartoon-style_627156-374.jpg?w=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hippie Christmas Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/015/641/619/small/groovy-hippie-christmas-seamless-pattern-with-retro-cartoon-characters-and-elements-trendy-70s-style-merry-christmas-and-happy-new-year-vintage-background-vector.jpg' alt='Hippie Christmas Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/015/641/619/small/groovy-hippie-christmas-seamless-pattern-with-retro-cartoon-characters-and-elements-trendy-70s-style-merry-christmas-and-happy-new-year-vintage-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="christmaswallpaper #groovy #funky">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/dc/38/07/dc3807763d7b3e561fde69825dbe6633.jpg' alt='christmaswallpaper #groovy #funky'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/dc/38/07/dc3807763d7b3e561fde69825dbe6633.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Groovy Christmas seamless pattern Retro 70s ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/groovy-christmas-seamless-pattern-retro-70s-hippie-cute-festive-winter-background_499817-1120.jpg' alt='Premium Vector | Groovy Christmas seamless pattern Retro 70s ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/groovy-christmas-seamless-pattern-retro-70s-hippie-cute-festive-winter-background_499817-1120.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="642 Hippie Christmas Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/beautiful-bright-rainbowcore-christmas-tree-greeting-card-new-year-concept-high-quality-illustration-ai-generated-342779144.jpg' alt='642 Hippie Christmas Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="591">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/beautiful-bright-rainbowcore-christmas-tree-greeting-card-new-year-concept-high-quality-illustration-ai-generated-342779144.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groovy hippie Christmas. Ho ho ho in trendy retro cartoon style ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/014/072/741/non_2x/groovy-hippie-christmas-ho-ho-ho-in-trendy-retro-cartoon-style-merry-christmas-and-happy-new-year-vector.jpg' alt='Groovy hippie Christmas. Ho ho ho in trendy retro cartoon style ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="653">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/014/072/741/non_2x/groovy-hippie-christmas-ho-ho-ho-in-trendy-retro-cartoon-style-merry-christmas-and-happy-new-year-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="642 Hippie Christmas Stock Photos - Free & Royalty-Free Stock ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/hippie-santa-portrait-casual-claus-over-festive-red-background-44523757.jpg' alt='642 Hippie Christmas Stock Photos - Free & Royalty-Free Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="601">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/hippie-santa-portrait-casual-claus-over-festive-red-background-44523757.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Groovy Hippie Christmas Seamless Pattern Santa Claus Smile Peace ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1436636773/vector/groovy-hippie-christmas-seamless-pattern-santa-claus-smile-peace-in-trendy-retro-cartoon.jpg?s=612x612&w=0&k=20&c=s5kOqExf5DwR8aMFIO52gf5xALjLx0ZkxQqjq14Vq_Q=' alt='Groovy Hippie Christmas Seamless Pattern Santa Claus Smile Peace ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1436636773/vector/groovy-hippie-christmas-seamless-pattern-santa-claus-smile-peace-in-trendy-retro-cartoon.jpg?s=612x612&w=0&k=20&c=s5kOqExf5DwR8aMFIO52gf5xALjLx0ZkxQqjq14Vq_Q=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

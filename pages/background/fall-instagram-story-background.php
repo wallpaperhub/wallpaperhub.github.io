@@ -1,0 +1,129 @@
+<title>Cozy Fall Instagram Story Backgrounds</title>
+                    <meta name="description" content="Enhance your Instagram stories with the beauty of fall! Discover inspiring backgrounds that feature autumn leaves, pumpkins, and warm colors. Perfect for sharing cozy moments and seasonal aesthetics, these backgrounds will elevate your content and engage your audience this fall!">
+                    <meta name="keywords" content="fall instagram story background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/fall-instagram-story-background">
+                            <span itemprop="name">fall instagram story background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cozy Fall Instagram Story Backgrounds</h1>
+                <p>Fall is the perfect season to refresh your Instagram stories with vibrant backgrounds! Think golden leaves, pumpkin patches, cozy sweaters, and warm drinks. Incorporate rich oranges, deep reds, and earthy tones to evoke autumn vibes. Share your favorite fall moments against these stunning backdrops to capture the essence of the season!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable fall background templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGLo2I0j9M/2/0/900w/canva-peach-and-orange-illustration-autumn-background-instagram-story-Pi7Gg4Ey7Mg.jpg' alt='Free and customizable fall background templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGLo2I0j9M/2/0/900w/canva-peach-and-orange-illustration-autumn-background-instagram-story-Pi7Gg4Ey7Mg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable fall background templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGEX_T8r54/2/0/900w/canva-orange-yellow-watercolor-floral-background-instagram-story-6Nhe4bYO2cc.jpg' alt='Free and customizable fall background templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGEX_T8r54/2/0/900w/canva-orange-yellow-watercolor-floral-background-instagram-story-6Nhe4bYO2cc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable fall background templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGA6R2teAs/1/0/900w/canva-orange-yellow-autumn-watercolor-background-instagram-story-fk5ugHAeSO0.jpg' alt='Free and customizable fall background templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGA6R2teAs/1/0/900w/canva-orange-yellow-autumn-watercolor-background-instagram-story-fk5ugHAeSO0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Wallpaper Template | PosterMyWall">
+                                <img itemprop="contentUrl url" src='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/fall-wallpaper-design-template-f58079d6ac0df30c02c8655132046610_screen.jpg?ts=1637047937' alt='Fall Wallpaper Template | PosterMyWall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="388">
+                                <meta itemprop="height" content="691">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PosterMyWall" />
+                                </span>
+                                <a href='https://d1csarkz8obe9u.cloudfront.net/posterpreviews/fall-wallpaper-design-template-f58079d6ac0df30c02c8655132046610_screen.jpg?ts=1637047937' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable fall background templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGAoLENP3w/1/0/900w/canva-orange-brown-watercolor-autumn-background-instagram-story-Y4yv3_udRE4.jpg' alt='Free and customizable fall background templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGAoLENP3w/1/0/900w/canva-orange-brown-watercolor-autumn-background-instagram-story-Y4yv3_udRE4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall Instagram Background Vectors & Illustrations for Free ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/colorful-autumn-leaves-frame_53876-93900.jpg' alt='Fall Instagram Background Vectors & Illustrations for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="417">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/colorful-autumn-leaves-frame_53876-93900.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Autumn themed Instagram Templates & Graphics - ofaglasgowgirl">
+                                <img itemprop="contentUrl url" src='https://www.thelifeofaglasgowgirl.co.uk/wp-content/uploads/2019/09/20190920_223211_0000-576x1024.png' alt='Free Autumn themed Instagram Templates & Graphics - ofaglasgowgirl'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ofaglasgowgirl" />
+                                </span>
+                                <a href='https://www.thelifeofaglasgowgirl.co.uk/wp-content/uploads/2019/09/20190920_223211_0000-576x1024.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Autumn background containing autumn, background, and bright">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/74/4f/ea/744feab505b4149938dd36c891438d82.jpg' alt='Autumn background containing autumn, background, and bright'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="680">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/74/4f/ea/744feab505b4149938dd36c891438d82.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable fall background templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAGRQIywZd8/1/0/1131w/canva-orange-autumn-background-document-a4-N4V7KmAOYnE.jpg' alt='Free and customizable fall background templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1131">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAGRQIywZd8/1/0/1131w/canva-orange-autumn-background-document-a4-N4V7KmAOYnE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fall leaves instagram story background">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f3/ca/ad/f3caad1ef8d5d5b50e77639a6783c67a.jpg' alt='Fall leaves instagram story background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f3/ca/ad/f3caad1ef8d5d5b50e77639a6783c67a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

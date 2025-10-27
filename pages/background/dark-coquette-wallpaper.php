@@ -1,0 +1,129 @@
+<title>Dark Coquette Wallpaper: Elevate Your Space</title>
+                    <meta name="description" content="Discover the allure of dark coquette wallpaper to enrich your interiors. Perfect for adding a touch of elegance and drama, this wallpaper is designed to captivate and inspire. Enhance your home decor effortlessly with rich colors and intricate designs. Ideal for stylish living spaces!">
+                    <meta name="keywords" content="dark coquette wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/dark-coquette-wallpaper">
+                            <span itemprop="name">dark coquette wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dark Coquette Wallpaper: Elevate Your Space</h1>
+                <p>Transform your space with dark coquette wallpaper that exudes elegance and mystery. Ideal for creating a moody atmosphere, this wallpaper features intricate patterns and rich colors that bring sophistication to any room. Perfect for accent walls or full rooms, embrace the allure of dark glamour in your home today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="‏Dark academia!! #fyp #viral #coquette #dark#academia | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7369286172914355464&location=0&aid=1988' alt='‏Dark academia!! #fyp #viral #coquette #dark#academia | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7369286172914355464&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coquette HD iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/04/28/68/042868d9ecbfa8a7919e62693e61bfbb.jpg' alt='Coquette HD iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="552">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/04/28/68/042868d9ecbfa8a7919e62693e61bfbb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ba/e1/f2/bae1f2738055660e88370995f6f18630.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ba/e1/f2/bae1f2738055660e88370995f6f18630.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coquette Vintage Garden Wallpaper - Dark Gray">
+                                <img itemprop="contentUrl url" src='https://ayarahome.com/cdn/shop/files/Vintage-Botanicals-on-Dark-Gray-WallpaperMockups-ListingZoomView-Square_1500x.jpg?v=1726797395' alt='Coquette Vintage Garden Wallpaper - Dark Gray'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ayara Home" />
+                                </span>
+                                <a href='https://ayarahome.com/cdn/shop/files/Vintage-Botanicals-on-Dark-Gray-WallpaperMockups-ListingZoomView-Square_1500x.jpg?v=1726797395' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1d/b4/9e/1db49ee0bd3a2d0ee86b2aaeda886465.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1d/b4/9e/1db49ee0bd3a2d0ee86b2aaeda886465.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coquette Brown Flowers Silhouettes Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/coquette-brown-flowers-silhouettes-ox3kedoefr2df4xk.jpg' alt='Coquette Brown Flowers Silhouettes Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/coquette-brown-flowers-silhouettes-ox3kedoefr2df4xk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Coquette Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp13349348.jpg' alt='Dark Coquette Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp13349348.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="coquette black bow wallpaper for iphone and android hd">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c3/31/48/c33148d61ab5484828c40b8189ef8db5.jpg' alt='coquette black bow wallpaper for iphone and android hd'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c3/31/48/c33148d61ab5484828c40b8189ef8db5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Blue and Gold Coquette Wallpaper Graphic by Summer Digital ...">
+                                <img itemprop="contentUrl url" src='https://www.creativefabrica.com/wp-content/uploads/2024/03/16/Dark-Blue-and-Gold-Coquette-Wallpaper-Graphics-93386148-11-580x387.jpg' alt='Dark Blue and Gold Coquette Wallpaper Graphic by Summer Digital ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="580">
+                                <meta itemprop="height" content="387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Creative Fabrica" />
+                                </span>
+                                <a href='https://www.creativefabrica.com/wp-content/uploads/2024/03/16/Dark-Blue-and-Gold-Coquette-Wallpaper-Graphics-93386148-11-580x387.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Simple black coquette wallpaper ideas 4 you! | Gallery posted by ...">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7327803942589448709&index=2&sign=355fd1fc8fb38f687e029c4f0d4ccf33' alt='Simple black coquette wallpaper ideas 4 you! | Gallery posted by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="984">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7327803942589448709&index=2&sign=355fd1fc8fb38f687e029c4f0d4ccf33' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

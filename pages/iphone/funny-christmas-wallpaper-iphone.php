@@ -1,0 +1,129 @@
+<title>Hilarious Christmas Wallpapers for Your iPhone</title>
+                    <meta name="description" content="Discover the best funny Christmas wallpapers for your iPhone! Add a dose of humor to your holiday season with quirky designs that will make you laugh. Perfect for spreading cheer and getting into the festive spirit! Download your favorites today!">
+                    <meta name="keywords" content="funny christmas wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/funny-christmas-wallpaper-iphone">
+                            <span itemprop="name">funny christmas wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Hilarious Christmas Wallpapers for Your iPhone</h1>
+                <p>Deck your iPhone with hilarious Christmas wallpapers that bring cheer to your screen! From Santa in a funny pose to quirky reindeer antics, these wallpapers are sure to elicit a chuckle. Brighten up your holiday season and spread joy with a touch of humor each time you unlock your phone!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Grinch | Holiday iphone wallpaper, Funny christmas ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/19/13/52/191352a63dd71d2f502463dbf07ba1bc.jpg' alt='Christmas Grinch | Holiday iphone wallpaper, Funny christmas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1384">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/19/13/52/191352a63dd71d2f502463dbf07ba1bc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny christmas wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/13/72/ed/1372edfb59fdbbd0bbde1006dece8935.jpg' alt='Funny christmas wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="841">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/13/72/ed/1372edfb59fdbbd0bbde1006dece8935.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD . funny christmas wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/411/890/HD-wallpaper-funny-grinch-merry-christmas-iphone-christmas-funny-christmas-iphone-christmas-christmas-phone-thumbnail.jpg' alt='HD . funny christmas wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/411/890/HD-wallpaper-funny-grinch-merry-christmas-iphone-christmas-funny-christmas-iphone-christmas-christmas-phone-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Spread the Holiday Cheer With This Fun Christmas Iphone ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/funny-christmas-iphone-w0p3dalx434jeyu5.jpg' alt='Download Spread the Holiday Cheer With This Fun Christmas Iphone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/funny-christmas-iphone-w0p3dalx434jeyu5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/14/d1/15/14d11593d1e6e091b014fc1e28b95cd6.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/14/d1/15/14d11593d1e6e091b014fc1e28b95cd6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Cheer elf iPhone . Christmas phone, Cute christmas ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/897/497/HD-wallpaper-christmas-cheer-elf-iphone-christmas-phone-cute-christmas-iphone-christmas-funny-christmas.jpg' alt='Christmas Cheer elf iPhone . Christmas phone, Cute christmas ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/897/497/HD-wallpaper-christmas-cheer-elf-iphone-christmas-phone-cute-christmas-iphone-christmas-funny-christmas.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Add a touch of humor to your Christmas celebrations with ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/funny-christmas-iphone-w9u2aslnuvxz75pz.jpg' alt='Download Add a touch of humor to your Christmas celebrations with ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/funny-christmas-iphone-w9u2aslnuvxz75pz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Festive Christmas wallpapers for iPhone and iPad">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2014/12/funny-christmas-santa-illust-art-34-iphone6-plus-wallpaper.jpg' alt='Festive Christmas wallpapers for iPhone and iPad'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2014/12/funny-christmas-santa-illust-art-34-iphone6-plus-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/13/21/cc/1321cc66ff74f79678449b9fc7d02420.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/13/21/cc/1321cc66ff74f79678449b9fc7d02420.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funny Christmas Stitch In Red Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/funny-christmas-stitch-in-red-p5iedf3jepwpbjis.jpg' alt='Funny Christmas Stitch In Red Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/funny-christmas-stitch-in-red-p5iedf3jepwpbjis.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

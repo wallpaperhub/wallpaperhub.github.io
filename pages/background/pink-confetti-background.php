@@ -1,0 +1,129 @@
+<title>Vibrant Pink Confetti Backgrounds for Celebrations</title>
+                    <meta name="description" content="Discover delightful pink confetti backgrounds to brighten your projects! Perfect for invitations, social media, and more, these festive designs add a cheerful touch to your celebrations. Explore vibrant patterns that bring joy and energy to your visuals, making every occasion memorable!">
+                    <meta name="keywords" content="pink confetti background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pink-confetti-background">
+                            <span itemprop="name">pink confetti background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Pink Confetti Backgrounds for Celebrations</h1>
+                <p>Pink confetti backgrounds are perfect for adding a touch of whimsy and celebration to any project. Ideal for parties, birthdays, and festive events, these cheerful patterns create a vibrant atmosphere. Use a pink confetti background to enhance invitations, social media posts, or any creative design, bringing joy and liveliness to your visuals!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="72,100+ Pink Confetti Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1050979248/photo/festive-pastel-pink-background-with-metallic-confetti.jpg?s=612x612&w=0&k=20&c=j0ZJihlK-qWPXujGGnJP70DYWqDN6OVLlqdmOSQNw-w=' alt='72,100+ Pink Confetti Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="396">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1050979248/photo/festive-pastel-pink-background-with-metallic-confetti.jpg?s=612x612&w=0&k=20&c=j0ZJihlK-qWPXujGGnJP70DYWqDN6OVLlqdmOSQNw-w=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="72,100+ Pink Confetti Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1091406160/vector/falling-pink-and-gold-confetti.jpg?s=612x612&w=0&k=20&c=Y59pap89gkLmbfGu7hBOFEiZvLpPAPaiLuOLs3N-ZGA=' alt='72,100+ Pink Confetti Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="377">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1091406160/vector/falling-pink-and-gold-confetti.jpg?s=612x612&w=0&k=20&c=Y59pap89gkLmbfGu7hBOFEiZvLpPAPaiLuOLs3N-ZGA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink And Blue Confetti Background Images – Browse 171,319 Stock ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/97/59/67/360_F_297596743_BgyigSbkW9Z1BLAtNZ9TQQ7YKdECd1je.jpg' alt='Pink And Blue Confetti Background Images – Browse 171,319 Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/97/59/67/360_F_297596743_BgyigSbkW9Z1BLAtNZ9TQQ7YKdECd1je.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="72,100+ Pink Confetti Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1162206139/photo/colorful-confetti-on-pastel-pink-background-bright-and-festive-holiday-background.jpg?s=612x612&w=0&k=20&c=cm1ypELR8S23XTXc18f3drQAbXoe55VMEBilwwaih58=' alt='72,100+ Pink Confetti Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1162206139/photo/colorful-confetti-on-pastel-pink-background-bright-and-festive-holiday-background.jpg?s=612x612&w=0&k=20&c=cm1ypELR8S23XTXc18f3drQAbXoe55VMEBilwwaih58=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink confetti background hi-res stock photography and images - Alamy">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/TWWA2W/festive-glitter-sparkles-and-confetti-on-pink-pastel-trendy-background-TWWA2W.jpg' alt='Pink confetti background hi-res stock photography and images - Alamy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="956">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/TWWA2W/festive-glitter-sparkles-and-confetti-on-pink-pastel-trendy-background-TWWA2W.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Photo | Falling golden confetti on pink background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/falling-golden-confetti-pink-background_23-2147865626.jpg' alt='Free Photo | Falling golden confetti on pink background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/falling-golden-confetti-pink-background_23-2147865626.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Confetti Pink Images – Browse 590,224 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/77/58/33/360_F_277583358_C280sbI41rfX2SJehl1YW5aHp7n2xfH0.jpg' alt='Confetti Pink Images – Browse 590,224 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="539">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/77/58/33/360_F_277583358_C280sbI41rfX2SJehl1YW5aHp7n2xfH0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5,854 Pink Confetti Stock Photos, High-Res Pictures, and Images ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1256202442/photo/pink-pastel-festive-background-with-confetti-and-sparkles-flat-lay-style.jpg?s=612x612&w=gi&k=20&c=uumUrxYwPoFKBaW5md10xFkL4zNHAypZ9vlTWJlyXVM=' alt='5,854 Pink Confetti Stock Photos, High-Res Pictures, and Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1256202442/photo/pink-pastel-festive-background-with-confetti-and-sparkles-flat-lay-style.jpg?s=612x612&w=gi&k=20&c=uumUrxYwPoFKBaW5md10xFkL4zNHAypZ9vlTWJlyXVM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="320,628 Confetti Pink Background Royalty-Free Photos and Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/cute-background-illustration-pastelcolored-confetti-600nw-2275052949.jpg' alt='320,628 Confetti Pink Background Royalty-Free Photos and Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="338">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/cute-background-illustration-pastelcolored-confetti-600nw-2275052949.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="66,382 Pink Confetti Background Stock Photos - Free & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/pink-festive-confetti-background-bright-celebration-birthday-top-view-flat-lay-126815498.jpg' alt='66,382 Pink Confetti Background Stock Photos - Free & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="534">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/pink-festive-confetti-background-bright-celebration-birthday-top-view-flat-lay-126815498.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

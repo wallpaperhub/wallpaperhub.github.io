@@ -1,0 +1,129 @@
+<title>Minecraft Menu Backgrounds: Personalize Your Game</title>
+                    <meta name="description" content="Discover how to customize your Minecraft menu background! Enhance your gaming experience with unique visuals that reflect your style. Explore tips and ideas for creating the perfect menu backdrop to make each session truly yours!">
+                    <meta name="keywords" content="minecraft menu background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/minecraft-menu-background">
+                            <span itemprop="name">minecraft menu background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Minecraft Menu Backgrounds: Personalize Your Game</h1>
+                <p>The Minecraft menu background is an iconic feature, setting the tone for players as they dive into the blocky universe. Customizing this background can enhance your gaming experience. Whether it’s a serene landscape, an epic battle scene, or a personal creation, the right menu background adds a unique flair to your adventures!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BIG NEWS! We have found the SEED of Minecraft's title-screen ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/qigbmfa8hmb51.jpg?width=1920&format=pjpg&auto=webp&s=29d98e0b3f86d1a24be4fe4fd010288e0d090fe3' alt='BIG NEWS! We have found the SEED of Minecraft's title-screen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/qigbmfa8hmb51.jpg?width=1920&format=pjpg&auto=webp&s=29d98e0b3f86d1a24be4fe4fd010288e0d090fe3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made an enhanced version of the old menu background! : r/Minecraft">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ufjfuyztd2c51.jpg' alt='I made an enhanced version of the old menu background! : r/Minecraft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2430">
+                                <meta itemprop="height" content="1367">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ufjfuyztd2c51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Panorama – Minecraft Wiki">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c0/Clear_panorama.png/revision/latest?cb=20230607160249' alt='Panorama – Minecraft Wiki'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="854">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Minecraft Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c0/Clear_panorama.png/revision/latest?cb=20230607160249' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="All Minecraft Menu Background Seeds Found – Nixinova News">
+                                <img itemprop="contentUrl url" src='https://news.nixinova.com/assets/images/banners/minecraft.jpg' alt='All Minecraft Menu Background Seeds Found – Nixinova News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nixinova News" />
+                                </span>
+                                <a href='https://news.nixinova.com/assets/images/banners/minecraft.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What's the main menu background screen in Minecraft 1.8 based off ...">
+                                <img itemprop="contentUrl url" src='https://i.sstatic.net/EueGC.png' alt='What's the main menu background screen in Minecraft 1.8 based off ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="968">
+                                <meta itemprop="height" content="616">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Arqade - Stack Exchange" />
+                                </span>
+                                <a href='https://i.sstatic.net/EueGC.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minecraft: How To Make A Custom Menu Background Tutorial - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/F7jMd3zsjZQ/sddefault.jpg' alt='Minecraft: How To Make A Custom Menu Background Tutorial - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/F7jMd3zsjZQ/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cherry Background - Minecraft Resource Pack">
+                                <img itemprop="contentUrl url" src='https://i.imgur.com/U2HtGYW.png' alt='Cherry Background - Minecraft Resource Pack'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1380">
+                                <meta itemprop="height" content="782">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Modrinth" />
+                                </span>
+                                <a href='https://i.imgur.com/U2HtGYW.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BIG NEWS! We have found the SEED of Minecraft's title-screen ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/v7wu6mjchmb51.png?width=1920&format=png&auto=webp&s=ec6e60083dd4c4b9637e2cfc1073a7721eae4e5e' alt='BIG NEWS! We have found the SEED of Minecraft's title-screen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1018">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/v7wu6mjchmb51.png?width=1920&format=png&auto=webp&s=ec6e60083dd4c4b9637e2cfc1073a7721eae4e5e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background – Minecraft Wiki">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c1/Dirt_background_JE2.png/revision/latest?cb=20210507124914' alt='Background – Minecraft Wiki'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="854">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Minecraft Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c1/Dirt_background_JE2.png/revision/latest?cb=20210507124914' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Main Menu Background With shaders Minecraft Texture Pack">
+                                <img itemprop="contentUrl url" src='https://static.planetminecraft.com/files/image/minecraft/texture-pack/2021/524/15020675_xl.webp' alt='Main Menu Background With shaders Minecraft Texture Pack'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1081">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Planet Minecraft" />
+                                </span>
+                                <a href='https://static.planetminecraft.com/files/image/minecraft/texture-pack/2021/524/15020675_xl.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Transparent Dr Pepper Can: A Bold Beverage Innovation</title>
+                    <meta name="description" content="Explore the fascinating transparent Dr Pepper can, an eye-catching design that's turning heads. This striking can not only showcases the beloved beverage but also represents a fresh take on beverage packaging. Perfect blend of innovation and nostalgia for fans everywhere.">
+                    <meta name="keywords" content="transparent dr pepper can">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/transparent-dr-pepper-can">
+                            <span itemprop="name">transparent dr pepper can</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transparent Dr Pepper Can: A Bold Beverage Innovation</h1>
+                <p>Discover the unique allure of the transparent Dr Pepper can, an innovative design that showcases the iconic beverage inside. With its eye-catching clarity, this can captivates fans and collectors alike, making it a fashionable way to enjoy the classic taste of Dr Pepper. A bold step in beverage marketing!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dr. Pepper - Original - 7.5 oz (24 Cans)">
+                                <img itemprop="contentUrl url" src='https://beverageuniverse.com/media/catalog/product/cache/93e8b54da979dc164f600faa0f1e0941/d/r/dr-pepper-olvi-xrdp7.5-main.jpg' alt='Dr. Pepper - Original - 7.5 oz (24 Cans)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Beverage Universe" />
+                                </span>
+                                <a href='https://beverageuniverse.com/media/catalog/product/cache/93e8b54da979dc164f600faa0f1e0941/d/r/dr-pepper-olvi-xrdp7.5-main.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dr. Pepper | Gourmondo Cafes & Catering">
+                                <img itemprop="contentUrl url" src='https://www.gourmondoco.com/product/image/medium/2019_DrPepper.jpg' alt='Dr. Pepper | Gourmondo Cafes & Catering'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gourmondo" />
+                                </span>
+                                <a href='https://www.gourmondoco.com/product/image/medium/2019_DrPepper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dr Pepper - Refreshing Dr Pepper Soda Can - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://icon2.cleanpng.com/20180526/vcp/avp0nh6tu.webp' alt='Dr Pepper - Refreshing Dr Pepper Soda Can - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="660">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://icon2.cleanpng.com/20180526/vcp/avp0nh6tu.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DR. pepper (can)">
+                                <img itemprop="contentUrl url" src='https://139158243.cdn6.editmysite.com/uploads/1/3/9/1/139158243/s724523065535990948_p281_i1_w10000.png?width=2560' alt='DR. pepper (can)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="pizza large" />
+                                </span>
+                                <a href='https://139158243.cdn6.editmysite.com/uploads/1/3/9/1/139158243/s724523065535990948_p281_i1_w10000.png?width=2560' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dr. Pepper (12oz Can)">
+                                <img itemprop="contentUrl url" src='http://cellar.com/cdn/shop/files/DR.PEPPER.png?v=1710527446' alt='Dr. Pepper (12oz Can)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="481">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cellar.com" />
+                                </span>
+                                <a href='http://cellar.com/cdn/shop/files/DR.PEPPER.png?v=1710527446' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dr. Pepper (12 oz can)">
+                                <img itemprop="contentUrl url" src='https://www.brennanscatering.com/mm5/graphics/00000001/can_pepper300x200.gif' alt='Dr. Pepper (12 oz can)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Brennan's Catering" />
+                                </span>
+                                <a href='https://www.brennanscatering.com/mm5/graphics/00000001/can_pepper300x200.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dr Pepper Can - Refreshing Dr Pepper Soda Can - CleanPNG / KissPNG">
+                                <img itemprop="contentUrl url" src='https://banner2.cleanpng.com/20180404/pfw/avhzvf8ph.webp' alt='Dr Pepper Can - Refreshing Dr Pepper Soda Can - CleanPNG / KissPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CleanPNG" />
+                                </span>
+                                <a href='https://banner2.cleanpng.com/20180404/pfw/avhzvf8ph.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dr Pepper Soda 16 Oz">
+                                <img itemprop="contentUrl url" src='https://ip.prod.freshop.retail.ncrcloud.com/resize?url=https://images.freshop.ncrcloud.com/00078000005868/63a089acd0b72fc49e2c1eab0e67db9c_large.png&width=512&type=webp&quality=90' alt='Dr Pepper Soda 16 Oz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="512">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="KJ's Market" />
+                                </span>
+                                <a href='https://ip.prod.freshop.retail.ncrcloud.com/resize?url=https://images.freshop.ncrcloud.com/00078000005868/63a089acd0b72fc49e2c1eab0e67db9c_large.png&width=512&type=webp&quality=90' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="91 Dr Pepper Can Stock Photos, High-Res Pictures, and Images ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/458642477/photo/dr-pepper-can-isolated-on-a-white-background.jpg?s=612x612&w=gi&k=20&c=-HNydoIwl8cQ3-nuCwbcNrbd9ncgiZXKnRiKEiOWyu4=' alt='91 Dr Pepper Can Stock Photos, High-Res Pictures, and Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/458642477/photo/dr-pepper-can-isolated-on-a-white-background.jpg?s=612x612&w=gi&k=20&c=-HNydoIwl8cQ3-nuCwbcNrbd9ncgiZXKnRiKEiOWyu4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Diet Dr Pepper Can | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/diet-dr-pepper-can-vl8atuweusgizh6t-2.jpg' alt='Download Diet Dr Pepper Can | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="442">
+                                <meta itemprop="height" content="836">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/diet-dr-pepper-can-vl8atuweusgizh6t-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

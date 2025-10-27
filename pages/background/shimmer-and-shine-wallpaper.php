@@ -1,0 +1,129 @@
+<title>Shimmer and Shine Wallpaper: Enchant Your Walls!</title>
+                    <meta name="description" content="Add a magical touch to your child's room with Shimmer and Shine wallpaper! Perfect for creating a vibrant, enchanting space, this whimsical design brings adventures to life. Bright colors and fun characters inspire creativity and joy. Ideal for playrooms, nurseries, and bedrooms. Transform your child's world today!">
+                    <meta name="keywords" content="shimmer and shine wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/shimmer-and-shine-wallpaper">
+                            <span itemprop="name">shimmer and shine wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Shimmer and Shine Wallpaper: Enchant Your Walls!</h1>
+                <p>Transform your space with Shimmer and Shine wallpaper, where magic meets style! Featuring vibrant colors and enchanting designs, this wallpaper is perfect for kids' rooms or play areas. Let your child's imagination soar as they step into a whimsical world filled with adventure, friendship, and fun, all while adding a sparkling touch to their walls!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shimmer and Shine Wallpaper #2 by JPNinja426 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fd26e87c-5667-4cf9-9be9-e58887610efe/debvzdu-4faec8eb-d60c-4625-b85d-788a5c4978d8.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZkMjZlODdjLTU2NjctNGNmOS05YmU5LWU1ODg4NzYxMGVmZVwvZGVidnpkdS00ZmFlYzhlYi1kNjBjLTQ2MjUtYjg1ZC03ODhhNWM0OTc4ZDgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ruIPCwOPrO3eggOFP2liU9jpcOmWUk4jksal17ZzwJ0' alt='Shimmer and Shine Wallpaper #2 by JPNinja426 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fd26e87c-5667-4cf9-9be9-e58887610efe/debvzdu-4faec8eb-d60c-4625-b85d-788a5c4978d8.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZkMjZlODdjLTU2NjctNGNmOS05YmU5LWU1ODg4NzYxMGVmZVwvZGVidnpkdS00ZmFlYzhlYi1kNjBjLTQ2MjUtYjg1ZC03ODhhNWM0OTc4ZDgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ruIPCwOPrO3eggOFP2liU9jpcOmWUk4jksal17ZzwJ0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shimmer Shine Genie Palace Mural">
+                                <img itemprop="contentUrl url" src='https://themuralstore.com/var/images/product/550.450/P/JL1386M-01.jpg' alt='Shimmer Shine Genie Palace Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="314">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Mural Store" />
+                                </span>
+                                <a href='https://themuralstore.com/var/images/product/550.450/P/JL1386M-01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shimmer and Shine Shimmer Poster Wallpaper by JPNinja426 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fd26e87c-5667-4cf9-9be9-e58887610efe/debw1gp-f5cfa788-792c-49b2-a7f2-7db03df7cb1d.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZkMjZlODdjLTU2NjctNGNmOS05YmU5LWU1ODg4NzYxMGVmZVwvZGVidzFncC1mNWNmYTc4OC03OTJjLTQ5YjItYTdmMi03ZGIwM2RmN2NiMWQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.qNuSBE0dCgjEGGVAKOc31hwTGRvSquyRHbjlUgh0jhE' alt='Shimmer and Shine Shimmer Poster Wallpaper by JPNinja426 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="552">
+                                <meta itemprop="height" content="1105">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fd26e87c-5667-4cf9-9be9-e58887610efe/debw1gp-f5cfa788-792c-49b2-a7f2-7db03df7cb1d.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZkMjZlODdjLTU2NjctNGNmOS05YmU5LWU1ODg4NzYxMGVmZVwvZGVidzFncC1mNWNmYTc4OC03OTJjLTQ5YjItYTdmMi03ZGIwM2RmN2NiMWQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.qNuSBE0dCgjEGGVAKOc31hwTGRvSquyRHbjlUgh0jhE' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shimmer and Shine Backdrop Magic Carpet Photo Background Birthday ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61W-Tr8Ha9L._AC_UF1000,1000_QL80_.jpg' alt='Shimmer and Shine Backdrop Magic Carpet Photo Background Birthday ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.sg" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61W-Tr8Ha9L._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shimmer And Shine Leah Pets Purple Background Edible Cake Topper ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/Shimmer-And-Shine-Leah-Pets-Purple-Background-Edible-Cake-Topper-Image_c49b7ca1-660e-4fd5-8012-6ee47f6de414_1.182c28b0517b8a5286e73d8e9afb983b.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Shimmer And Shine Leah Pets Purple Background Edible Cake Topper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/Shimmer-And-Shine-Leah-Pets-Purple-Background-Edible-Cake-Topper-Image_c49b7ca1-660e-4fd5-8012-6ee47f6de414_1.182c28b0517b8a5286e73d8e9afb983b.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Celestial shimmer odyssey Iphone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a3/56/0c/a3560cc28ad3703cc9098c4bd6f6f76b.jpg' alt='Celestial shimmer odyssey Iphone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a3/56/0c/a3560cc28ad3703cc9098c4bd6f6f76b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shimmer And Shine Prepasted Wallpaper Mural">
+                                <img itemprop="contentUrl url" src='https://s7.orientaltrading.com/is/image/OrientalTrading/VIEWER_ZOOM/shimmer-and-shine-prepasted-wallpaper-mural~13955988' alt='Shimmer And Shine Prepasted Wallpaper Mural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fun Express" />
+                                </span>
+                                <a href='https://s7.orientaltrading.com/is/image/OrientalTrading/VIEWER_ZOOM/shimmer-and-shine-prepasted-wallpaper-mural~13955988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="shimmer and shine">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/25/16/13/25161377d559d9cbeb7006b5c123c143.jpg' alt='shimmer and shine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/25/16/13/25161377d559d9cbeb7006b5c123c143.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mattson Creative - Shimmer & Shine">
+                                <img itemprop="contentUrl url" src='https://mattsoncreative.com/uploads/work/shimmer_01.jpg' alt='Mattson Creative - Shimmer & Shine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1153">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mattson Creative" />
+                                </span>
+                                <a href='https://mattsoncreative.com/uploads/work/shimmer_01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shimmer and Shine, nick jr, nickelodeon, cute, adorable, kawaii ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/291/826/HD-wallpaper-shimmer-and-shine-nick-jr-nickelodeon-cute-adorable-kawaii-nostalgia-2010s-genies-thumbnail.jpg' alt='Shimmer and Shine, nick jr, nickelodeon, cute, adorable, kawaii ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="602">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/291/826/HD-wallpaper-shimmer-and-shine-nick-jr-nickelodeon-cute-adorable-kawaii-nostalgia-2010s-genies-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

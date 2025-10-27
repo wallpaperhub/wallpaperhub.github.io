@@ -1,0 +1,129 @@
+<title>Charming Pink Rabbit Wallpaper for Whimsical Decor</title>
+                    <meta name="description" content="Add a playful touch to your home with our pink rabbit wallpaper. Ideal for kids' rooms or nurseries, this whimsical design is easy to apply and remove. Discover the perfect patterns to elevate your space and create a dreamy atmosphere with vibrant, stylish decor!">
+                    <meta name="keywords" content="pink rabbit wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-rabbit-wallpaper">
+                            <span itemprop="name">pink rabbit wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Pink Rabbit Wallpaper for Whimsical Decor</h1>
+                <p>Transform your space with our delightful pink rabbit wallpaper! Perfect for nurseries, children's rooms, or whimsical decor, this charming design adds a playful touch. Available in various patterns and textures, it's easy to apply and remove, making it ideal for renters or seasonal updates. Elevate your walls with this cute, dreamy wallpaper!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute rabbit Adorable!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/db/dc/50/dbdc50603587bdf6864463fc2bdf8830.jpg' alt='Cute rabbit Adorable!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/db/dc/50/dbdc50603587bdf6864463fc2bdf8830.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Pink Kawaii Bunny iPhone Lock Screen | Pink Aesthetic Wallpaper With  Stars and Hearts - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/37375286/r/il/ecce76/4126374862/il_1080xN.4126374862_o7x6.jpg' alt='Cute Pink Kawaii Bunny iPhone Lock Screen | Pink Aesthetic Wallpaper With  Stars and Hearts - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/37375286/r/il/ecce76/4126374862/il_1080xN.4126374862_o7x6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A cute pink bunny is on a pink background | Premium AI-generated image">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/cute-pink-bunny-is-pink-background_922357-35796.jpg' alt='A cute pink bunny is on a pink background | Premium AI-generated image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/cute-pink-bunny-is-pink-background_922357-35796.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/93/69/e7/9369e7800c05399d0f42f574fef758cd.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1017">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/93/69/e7/9369e7800c05399d0f42f574fef758cd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Garden of Bunnies • Children's Wallpaper • Milton & King">
+                                <img itemprop="contentUrl url" src='https://s29938.pcdn.co/wp-content/uploads/2024/09/FH011GB-PB-GardenOfBunnies-PinkBloom-1.jpg.optimal.jpg' alt='Garden of Bunnies • Children's Wallpaper • Milton & King'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="1320">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Milton & King" />
+                                </span>
+                                <a href='https://s29938.pcdn.co/wp-content/uploads/2024/09/FH011GB-PB-GardenOfBunnies-PinkBloom-1.jpg.optimal.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Lovely Pink Rabbit Drawing Art iPhone 8 Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bf/44/73/bf4473611dc0906e101799a262dbbf61.jpg' alt='Cute Lovely Pink Rabbit Drawing Art iPhone 8 Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bf/44/73/bf4473611dc0906e101799a262dbbf61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Rabbits On White Wallpaper Sample">
+                                <img itemprop="contentUrl url" src='http://dekornik.com/cdn/shop/files/obraz_2024-07-02_142636442.png?v=1719923206' alt='Pink Rabbits On White Wallpaper Sample'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="dekornik.com wallstickers and wallpapers store" />
+                                </span>
+                                <a href='http://dekornik.com/cdn/shop/files/obraz_2024-07-02_142636442.png?v=1719923206' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pink Bunny Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-bunny-1920-x-1080-wallpaper-b018fzafeey9vb9x.jpg' alt='100+] Pink Bunny Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-bunny-1920-x-1080-wallpaper-b018fzafeey9vb9x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Bunny Heart Wallpaper - free download">
+                                <img itemprop="contentUrl url" src='https://media.livewallpapers.com/images/high/cute-bunny-heart-wallpaper-2.webp' alt='Cute Bunny Heart Wallpaper - free download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="403">
+                                <meta itemprop="height" content="839">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Live Wallpapers" />
+                                </span>
+                                <a href='https://media.livewallpapers.com/images/high/cute-bunny-heart-wallpaper-2.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Page 2 | Pink Bunny Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/055/715/281/non_2x/charming-white-rabbit-surrounded-by-vibrant-pink-flowers-in-a-serene-setting-photo.jpg' alt='Page 2 | Pink Bunny Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1749">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/055/715/281/non_2x/charming-white-rabbit-surrounded-by-vibrant-pink-flowers-in-a-serene-setting-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

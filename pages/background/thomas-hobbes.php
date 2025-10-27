@@ -1,0 +1,129 @@
+<title>Understanding Thomas Hobbes: Political Philosophy Simplified</title>
+                    <meta name="description" content="Explore the life and ideas of Thomas Hobbes, a pivotal figure in political philosophy. Discover his views on human nature, the social contract, and the necessity of strong government for societal order. Perfect for students and enthusiasts alike!">
+                    <meta name="keywords" content="thomas hobbes">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/thomas-hobbes">
+                            <span itemprop="name">thomas hobbes</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Thomas Hobbes: Political Philosophy Simplified</h1>
+                <p>Thomas Hobbes (1588-1679) was an English philosopher best known for his work in political philosophy. His most notable book, "Leviathan," argues that in a state of nature, humans act out of self-interest, leading to chaos. To avoid this, Hobbes advocates for a strong, centralized authority to maintain peace and security.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thomas Hobbes - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/d/dd/Thomas_Hobbes_by_John_Michael_Wright.jpg' alt='Thomas Hobbes - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="2928">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/d/dd/Thomas_Hobbes_by_John_Michael_Wright.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thomas Hobbes | Biography, Philosophy, Beliefs, Leviathan, Legacy ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/03/11003-050-CB252C79/Thomas-Hobbes-detail-oil-painting-John-Michael.jpg' alt='Thomas Hobbes | Biography, Philosophy, Beliefs, Leviathan, Legacy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1306">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/03/11003-050-CB252C79/Thomas-Hobbes-detail-oil-painting-John-Michael.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thomas Hobbes | Biography, Philosophy, Beliefs, Leviathan, Legacy ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/93/213093-138-ABD05A94/Top-questions-answers-Thomas-Hobbes.jpg?w=800&h=450&c=crop' alt='Thomas Hobbes | Biography, Philosophy, Beliefs, Leviathan, Legacy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/93/213093-138-ABD05A94/Top-questions-answers-Thomas-Hobbes.jpg?w=800&h=450&c=crop' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hobbes, Thomas: Moral and Political Philosophy | Internet ...">
+                                <img itemprop="contentUrl url" src='https://iep.utm.edu/wp-content/media//hobbes.jpg' alt='Hobbes, Thomas: Moral and Political Philosophy | Internet ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="222">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Internet Encyclopedia of Philosophy" />
+                                </span>
+                                <a href='https://iep.utm.edu/wp-content/media//hobbes.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Introduction to Thomas Hobbes – Discourses on Minerva">
+                                <img itemprop="contentUrl url" src='https://minervawisdom.com/wp-content/uploads/2020/01/leviathan-hobbes.jpg?w=1000&h=632&crop=1' alt='Introduction to Thomas Hobbes – Discourses on Minerva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="632">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Discourses on Minerva" />
+                                </span>
+                                <a href='https://minervawisdom.com/wp-content/uploads/2020/01/leviathan-hobbes.jpg?w=1000&h=632&crop=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thomas Hobbes: Biography, English Philosopher, Social Contract">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/gettyimages-492753601.jpg?crop=1xw:0.5xh;center,top&resize=1200:*' alt='Thomas Hobbes: Biography, English Philosopher, Social Contract'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/gettyimages-492753601.jpg?crop=1xw:0.5xh;center,top&resize=1200:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thomas Hobbes - Wikimedia Commons">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Thomas_Hobbes_%28portrait%29.jpg/800px-Thomas_Hobbes_%28portrait%29.jpg' alt='Thomas Hobbes - Wikimedia Commons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="843">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikimedia Commons" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Thomas_Hobbes_%28portrait%29.jpg/800px-Thomas_Hobbes_%28portrait%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thomas Hobbes - World History Encyclopedia">
+                                <img itemprop="contentUrl url" src='https://www.worldhistory.org/uploads/images/18183.png' alt='Thomas Hobbes - World History Encyclopedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="548">
+                                <meta itemprop="height" content="672">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World History Encyclopedia" />
+                                </span>
+                                <a href='https://www.worldhistory.org/uploads/images/18183.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thomas Hobbes Art Print">
+                                <img itemprop="contentUrl url" src='https://render.fineartamerica.com/images/rendered/default/print/7/8/break/images-medium-5/thomas-hobbes-sheila-terryscience-photo-library.jpg' alt='Thomas Hobbes Art Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="599">
+                                <meta itemprop="height" content="708">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Science Photo Gallery" />
+                                </span>
+                                <a href='https://render.fineartamerica.com/images/rendered/default/print/7/8/break/images-medium-5/thomas-hobbes-sheila-terryscience-photo-library.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thomas Hobbes Royalty-Free Images, Stock Photos & Pictures ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/2418911251/display_1500/stock-vector-thomas-hobbes-is-an-english-philosopher-one-of-the-founders-of-modern-political-philosophy-the-2418911251.jpg' alt='Thomas Hobbes Royalty-Free Images, Stock Photos & Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/2418911251/display_1500/stock-vector-thomas-hobbes-is-an-english-philosopher-one-of-the-founders-of-modern-political-philosophy-the-2418911251.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

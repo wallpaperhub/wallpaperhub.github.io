@@ -1,0 +1,129 @@
+<title>Vibrant Spring Floral Background Wallpaper for Home Decor</title>
+                    <meta name="description" content="Enhance your interiors with beautiful spring floral background wallpaper. Perfect for creating a serene and lively atmosphere, these designs add a touch of nature and charm to any space. Explore our collection and find the perfect floral pattern to revitalize your decor!">
+                    <meta name="keywords" content="spring floral background wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/spring-floral-background-wallpaper">
+                            <span itemprop="name">spring floral background wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Spring Floral Background Wallpaper for Home Decor</h1>
+                <p>Transform your space with our stunning spring floral background wallpaper. Featuring a vibrant array of blossoms in soft pastels and bright colors, it creates a refreshing atmosphere ideal for any room. Perfect for adding a touch of nature and warmth, these designs bring life to your walls and inspire joy.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6,531,900+ Spring Flowers Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1394440950/photo/natural-view-cosmos-filed-and-sunset-on-garden-background.jpg?s=612x612&w=0&k=20&c=eBnRobwsk2w_9MqM6bnXukIia5j-ayuMS0PeB6GHN0E=' alt='6,531,900+ Spring Flowers Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1394440950/photo/natural-view-cosmos-filed-and-sunset-on-garden-background.jpg?s=612x612&w=0&k=20&c=eBnRobwsk2w_9MqM6bnXukIia5j-ayuMS0PeB6GHN0E=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="400+] Spring Flowers Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/spring-flowers-eoojawyepah3if12.jpg' alt='400+] Spring Flowers Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/spring-flowers-eoojawyepah3if12.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring Floral Field Pattern Background Wallpaper. Pink Spring ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/02/42/32/02/1000_F_242320232_slJdMi8cPBeWJetfPNCGG3CeOWSwjlnR.jpg' alt='Spring Floral Field Pattern Background Wallpaper. Pink Spring ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/02/42/32/02/1000_F_242320232_slJdMi8cPBeWJetfPNCGG3CeOWSwjlnR.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poster, Print Spring floral background, texture, wallpaper, 50x21.9 cm">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/v2/jpg/01/99/09/91/1000_F_199099182_N2B1rOdNKtzMgQIcSAhAbmac8FtlvqZ8.jpg' alt='Poster, Print Spring floral background, texture, wallpaper, 50x21.9 cm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="437">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abposters.com" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/v2/jpg/01/99/09/91/1000_F_199099182_N2B1rOdNKtzMgQIcSAhAbmac8FtlvqZ8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6,531,900+ Spring Flowers Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1364013574/photo/colorful-tulips.jpg?s=612x612&w=0&k=20&c=5XxDIPX_cw8pYc-KuFoVkkFw1Jz8NhSbHrasZRyF800=' alt='6,531,900+ Spring Flowers Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="611">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1364013574/photo/colorful-tulips.jpg?s=612x612&w=0&k=20&c=5XxDIPX_cw8pYc-KuFoVkkFw1Jz8NhSbHrasZRyF800=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring Aesthetic Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/spring-background_23-2148857818.jpg' alt='Spring Aesthetic Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/spring-background_23-2148857818.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring Floral Background Stock Photos, Images and Backgrounds for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/037/394/740/small_2x/ladybug-natural-floral-background-blossoming-branch-cherry-bright-colorful-spring-flowers-photo.jpg' alt='Spring Floral Background Stock Photos, Images and Backgrounds for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/037/394/740/small_2x/ladybug-natural-floral-background-blossoming-branch-cherry-bright-colorful-spring-flowers-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring floral background, texture and wallpaper - Premium Photo ...">
+                                <img itemprop="contentUrl url" src='https://thumbnails.production.thenounproject.com/KQr3Kygov9f1OR_MAUMiRoqt-1w=/fit-in/1000x1000/photos.production.thenounproject.com/photos/62134B02-5CC6-47A0-87E3-EBD100CB21F5.jpg' alt='Spring floral background, texture and wallpaper - Premium Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Noun Project" />
+                                </span>
+                                <a href='https://thumbnails.production.thenounproject.com/KQr3Kygov9f1OR_MAUMiRoqt-1w=/fit-in/1000x1000/photos.production.thenounproject.com/photos/62134B02-5CC6-47A0-87E3-EBD100CB21F5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nature painted design wallpaper floral seamless background bloom ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/032/169/171/large_2x/nature-painted-design-wallpaper-floral-seamless-background-bloom-wedding-pattern-decoration-spring-flower-watercolor-photo.jpg' alt='Nature painted design wallpaper floral seamless background bloom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2940">
+                                <meta itemprop="height" content="1960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/032/169/171/large_2x/nature-painted-design-wallpaper-floral-seamless-background-bloom-wedding-pattern-decoration-spring-flower-watercolor-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spring Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/copy-space-spring-floral-background-blue-sky_52683-55621.jpg' alt='Spring Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/copy-space-spring-floral-background-blue-sky_52683-55621.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

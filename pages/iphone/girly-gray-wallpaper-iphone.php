@@ -1,0 +1,129 @@
+<title>Girly Gray Wallpaper for iPhone: Chic & Stylish Designs</title>
+                    <meta name="description" content="Discover elegant girly gray wallpapers for your iPhone that add a stylish touch to your device. Perfect for a feminine aesthetic, our collection ensures your phone looks trendy and modern. Find your favorite designs and personalize your iPhone effortlessly!">
+                    <meta name="keywords" content="girly gray wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/girly-gray-wallpaper-iphone">
+                            <span itemprop="name">girly gray wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Girly Gray Wallpaper for iPhone: Chic & Stylish Designs</h1>
+                <p>Transform your iPhone with girly gray wallpaper that blends elegance and style. Perfect for those who love a soft, feminine touch, these designs feature delicate patterns and subtle textures. Enhance your device's appeal with chic shades of gray that complement any outfit or mood, making your phone truly stand out!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark grey , grey aesthetic wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9f/04/f0/9f04f0ec638093cf994875368ef65dec.jpg' alt='Dark grey , grey aesthetic wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="695">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9f/04/f0/9f04f0ec638093cf994875368ef65dec.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Girly iPhone wallpapers | iPhone lock screen wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/52/75/54/52755412a4cbaf624833b9585b9edbd4.jpg' alt='Girly iPhone wallpapers | iPhone lock screen wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1003">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/52/75/54/52755412a4cbaf624833b9585b9edbd4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin on Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f1/6d/f5/f16df5be872caf77f41a541799159a9a.jpg' alt='Pin on Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f1/6d/f5/f16df5be872caf77f41a541799159a9a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Mackenzie on widgets | Iphone wallpaper girly, Simple ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/28/1c/0d/281c0d2b1c6feb5bda9e23657df8954f.jpg' alt='Pin by Mackenzie on widgets | Iphone wallpaper girly, Simple ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/28/1c/0d/281c0d2b1c6feb5bda9e23657df8954f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Grey Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-grey-t7xxkkso6uoj37dd.jpg' alt='100+] Cute Grey Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-grey-t7xxkkso6uoj37dd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Planets -medium background | iPhone screensavers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9a/af/1a/9aaf1a0f9f08de4ccfcc3e5b8c70d9f9.jpg' alt='Planets -medium background | iPhone screensavers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="462">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9a/af/1a/9aaf1a0f9f08de4ccfcc3e5b8c70d9f9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grey white mini confetti hearts iphone phone wallpaper lock screen ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/f3/c0/ab/f3c0aba446ee6f1fe4a886508981cb7f.jpg' alt='Grey white mini confetti hearts iphone phone wallpaper lock screen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="638">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/f3/c0/ab/f3c0aba446ee6f1fe4a886508981cb7f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sketch, cute, gray, simple, swirls, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/563/394/HD-wallpaper-sketch-cute-gray-simple-swirls.jpg' alt='Sketch, cute, gray, simple, swirls, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/563/394/HD-wallpaper-sketch-cute-gray-simple-swirls.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Grey Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/grey-iphone-stained-wall-paint-f3dwy5stv2wi1qtp.jpg' alt='100+] Grey Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1777">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/grey-iphone-stained-wall-paint-f3dwy5stv2wi1qtp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Elegant Grey iPhone with Sleek Polka Dot Pattern ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/grey-iphone-polka-dot-pattern-by9oam9uem5zzj40.jpg' alt='Download Elegant Grey iPhone with Sleek Polka Dot Pattern ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1777">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/grey-iphone-polka-dot-pattern-by9oam9uem5zzj40.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

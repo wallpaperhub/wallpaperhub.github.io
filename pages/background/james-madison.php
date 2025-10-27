@@ -1,0 +1,129 @@
+<title>Discover James Madison: Father of the Constitution</title>
+                    <meta name="description" content="Explore the life and legacy of James Madison, a founding father and the fourth U.S. President. Learn about his crucial role in crafting the Constitution and the Bill of Rights, and understand how his ideas still influence American democracy today.">
+                    <meta name="keywords" content="james madison">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/james-madison">
+                            <span itemprop="name">james madison</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover James Madison: Father of the Constitution</h1>
+                <p>James Madison, the fourth President of the United States, is revered as the "Father of the Constitution." He played a pivotal role in drafting the Bill of Rights and was a key architect of the federal government. His vision for a strong republic and commitment to democratic principles continue to shape American governance today.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="James Madison - White House Historical Association">
+                                <img itemprop="contentUrl url" src='https://d1y822qhq55g6.cloudfront.net/default/_superImage/James-Madison_161207_161215.jpg' alt='James Madison - White House Historical Association'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1040">
+                                <meta itemprop="height" content="1231">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="White House Historical Association" />
+                                </span>
+                                <a href='https://d1y822qhq55g6.cloudfront.net/default/_superImage/James-Madison_161207_161215.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="James Madison | Biography, Founding Father, Presidency, & Facts ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/48/166248-159-67F15C14/oil-James-Madison-wood-Gilbert-Stuart-National-1821.jpg' alt='James Madison | Biography, Founding Father, Presidency, & Facts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/48/166248-159-67F15C14/oil-James-Madison-wood-Gilbert-Stuart-National-1821.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="James Madison | Biography, Founding Father, Presidency, & Facts ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/50/2250-004-1F1AED00/detail-James-Madison-oil-painting-Asher-B-1833.jpg' alt='James Madison | Biography, Founding Father, Presidency, & Facts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="249">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/50/2250-004-1F1AED00/detail-James-Madison-oil-painting-Asher-B-1833.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="James Madison | American Battlefield Trust">
+                                <img itemprop="contentUrl url" src='https://www.battlefields.org/sites/default/files/styles/social_media/public/thumbnails/image/James%20Madison.jpg?h=2a784a8e&itok=1f0QN3IF' alt='James Madison | American Battlefield Trust'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="288">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="American Battlefield Trust" />
+                                </span>
+                                <a href='https://www.battlefields.org/sites/default/files/styles/social_media/public/thumbnails/image/James%20Madison.jpg?h=2a784a8e&itok=1f0QN3IF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="James Madison - Presidency, Facts & Wife">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/gettyimages-113492164.jpg' alt='James Madison - Presidency, Facts & Wife'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3950">
+                                <meta itemprop="height" content="4861">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/gettyimages-113492164.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="James Madison | Biography, Founding Father, Presidency, & Facts ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/99/172699-138-C62B7EBF/overview-James-Madison.jpg?w=800&h=450&c=crop' alt='James Madison | Biography, Founding Father, Presidency, & Facts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/99/172699-138-C62B7EBF/overview-James-Madison.jpg?w=800&h=450&c=crop' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="James Madison">
+                                <img itemprop="contentUrl url" src='http://shop.nybooks.com/cdn/shop/products/2ac62d457cb0eaa22982fe373b181298.gif?v=1448136119' alt='James Madison'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="262">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Reader's Catalog - The New York Review of Books" />
+                                </span>
+                                <a href='http://shop.nybooks.com/cdn/shop/products/2ac62d457cb0eaa22982fe373b181298.gif?v=1448136119' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="James Madison (4th US President and Founding Father) - On This Day">
+                                <img itemprop="contentUrl url" src='https://www.onthisday.com/images/people/james-madison.jpg?w=360' alt='James Madison (4th US President and Founding Father) - On This Day'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="On This Day" />
+                                </span>
+                                <a href='https://www.onthisday.com/images/people/james-madison.jpg?w=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Portrait of James Madison, 5th Secretary of State under President ...">
+                                <img itemprop="contentUrl url" src='https://d2rcltyodjzmvo.cloudfront.net/wp-content/uploads/2021/03/13215215/RR-1964.0004_01.jpg' alt='Portrait of James Madison, 5th Secretary of State under President ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1688">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Diplomatic Reception Rooms - Department of State" />
+                                </span>
+                                <a href='https://d2rcltyodjzmvo.cloudfront.net/wp-content/uploads/2021/03/13215215/RR-1964.0004_01.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Life of James Madison: Founding Father & Fourth President">
+                                <img itemprop="contentUrl url" src='https://www.montpelier.org/wp-content/uploads/2024/03/portrait_b0eaed17-157b-4297-967f-16822ceb7bd6.jpg' alt='The Life of James Madison: Founding Father & Fourth President'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1304">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="James Madison's Montpelier" />
+                                </span>
+                                <a href='https://www.montpelier.org/wp-content/uploads/2024/03/portrait_b0eaed17-157b-4297-967f-16822ceb7bd6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

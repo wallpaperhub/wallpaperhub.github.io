@@ -1,0 +1,129 @@
+<title>Stunning Black and White Face Wallpaper for Every Room</title>
+                    <meta name="description" content="Discover captivating black and white face wallpaper designs that elevate your home decor. Perfect for adding a touch of elegance and personality to any space, these wallpapers combine artistry with simplicity. Explore our collection and transform your walls today!">
+                    <meta name="keywords" content="black and white face wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/black-and-white-face-wallpaper">
+                            <span itemprop="name">black and white face wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Black and White Face Wallpaper for Every Room</h1>
+                <p>Black and white face wallpaper offers a striking contrast that adds elegance and sophistication to any space. These designs capture expression and emotion, making them perfect for personalizing your room. Immerse yourself in the beauty of monochrome art while creating a bold statement that complements your decor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Outline">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1716206435/articles/AB0117BW03R_product.jpg' alt='Outline'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hovia" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1716206435/articles/AB0117BW03R_product.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Line Art Mural Wallpaper | Black and White Face — WonderMural">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0657/3100/2634/files/Papierpeintlineart-visageornoiretblanc.png?v=1718962931' alt='Line Art Mural Wallpaper | Black and White Face — WonderMural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2912">
+                                <meta itemprop="height" content="1632">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WonderMural" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0657/3100/2634/files/Papierpeintlineart-visageornoiretblanc.png?v=1718962931' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Abstract Faces Wallpaper Black / White Holden 12993">
+                                <img itemprop="contentUrl url" src='https://www.worldofwallpaper.com/media/catalog/product/cache/cb6d4e8db131c61a8cb54c52a893246a/h/l/hld551-abstract-faces-wallpaper-black-and-white-ae1.jpg' alt='Abstract Faces Wallpaper Black / White Holden 12993'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World of Wallpaper" />
+                                </span>
+                                <a href='https://www.worldofwallpaper.com/media/catalog/product/cache/cb6d4e8db131c61a8cb54c52a893246a/h/l/hld551-abstract-faces-wallpaper-black-and-white-ae1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Line Art Mural Wallpaper | Black and White Female Face — WonderMural">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/0657/3100/2634/files/Papierpeintlineart-visagefemininnoiretblanc.png?v=1718968659' alt='Line Art Mural Wallpaper | Black and White Female Face — WonderMural'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2912">
+                                <meta itemprop="height" content="1632">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WonderMural" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/0657/3100/2634/files/Papierpeintlineart-visagefemininnoiretblanc.png?v=1718968659' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Face on black - Photography & Abstract Background Wallpapers on ...">
+                                <img itemprop="contentUrl url" src='https://cache.desktopnexus.com/thumbseg/24/24322-bigthumbnail.jpg' alt='Face on black - Photography & Abstract Background Wallpapers on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abstract Wallpapers - Desktop Nexus" />
+                                </span>
+                                <a href='https://cache.desktopnexus.com/thumbseg/24/24322-bigthumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Captivating Black And White Art: Man's Portrait Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/aesthetic-convergence-a-fusion-of-faces-in-black-and-white-art-fqprgad04t09cybp.webp' alt='Captivating Black And White Art: Man's Portrait Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/aesthetic-convergence-a-fusion-of-faces-in-black-and-white-art-fqprgad04t09cybp.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="310+ Smiley Face Black And White Backgrounds Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1272952189/vector/smile-icon-pattern-happy-faces-on-white-background-vector-abstract-background.jpg?s=612x612&w=0&k=20&c=_BZfloCk14-HDn2ba_Z6jVBc-CHukFBh7C--M86eRxA=' alt='310+ Smiley Face Black And White Backgrounds Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1272952189/vector/smile-icon-pattern-happy-faces-on-white-background-vector-abstract-background.jpg?s=612x612&w=0&k=20&c=_BZfloCk14-HDn2ba_Z6jVBc-CHukFBh7C--M86eRxA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="310+ Smiley Face Black And White Backgrounds Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1363039528/vector/funny-seamless-pattern-of-icons-smilies-and-emoticons.jpg?s=612x612&w=0&k=20&c=J1zrA0PwXbybN7DGrSTPtycIA_VjsvUJFqHVDescKlM=' alt='310+ Smiley Face Black And White Backgrounds Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1363039528/vector/funny-seamless-pattern-of-icons-smilies-and-emoticons.jpg?s=612x612&w=0&k=20&c=J1zrA0PwXbybN7DGrSTPtycIA_VjsvUJFqHVDescKlM=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Face Lace Mini Art Print by Explicit Design | Society6">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a7/d9/0f/a7d90fe9b29b9ad5828d830d3597d7e8.jpg' alt='Face Lace Mini Art Print by Explicit Design | Society6'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="702">
+                                <meta itemprop="height" content="993">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a7/d9/0f/a7d90fe9b29b9ad5828d830d3597d7e8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wall Mural Photo Wallpaper Abstract black and white face Nr ...">
+                                <img itemprop="contentUrl url" src='https://static.uwalls.com/products/96000/96761/u98714pig18mr_1200.webp' alt='Wall Mural Photo Wallpaper Abstract black and white face Nr ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="uwalls.com" />
+                                </span>
+                                <a href='https://static.uwalls.com/products/96000/96761/u98714pig18mr_1200.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

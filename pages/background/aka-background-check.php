@@ -1,0 +1,129 @@
+<title>Understanding Background Checks: What You Need to Know</title>
+                    <meta name="description" content="Discover the essentials of background checks, their importance in hiring, and how they help ensure workplace safety. Learn what to expect and how to prepare for the process in this concise guide.">
+                    <meta name="keywords" content="aka background check">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/aka-background-check">
+                            <span itemprop="name">aka background check</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Background Checks: What You Need to Know</h1>
+                <p>A background check, often referred to as a pre-employment screening, is a process used by employers to verify the personal and professional history of potential employees. This includes checking criminal records, employment history, education, and references. It's essential for ensuring safety and compliance within the workplace.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aka background check: Compliance is Key from Corban One.">
+                                <img itemprop="contentUrl url" src='https://corbanone.com/wp-content/w3-webp/uploads/2016/03/bigstock-Hand-Writing-Sign-Background-C-442667810-600x401.jpgw3.webp' alt='Aka background check: Compliance is Key from Corban One.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="401">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Corban OneSource" />
+                                </span>
+                                <a href='https://corbanone.com/wp-content/w3-webp/uploads/2016/03/bigstock-Hand-Writing-Sign-Background-C-442667810-600x401.jpgw3.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CornerstoneCIA">
+                                <img itemprop="contentUrl url" src='https://glass.imgix.net/8131355d-54e8-4124-8c45-e2a591c52a4e/43/b2/43b2be20cbee4608ae7e889c80357e3a-AlphaKappaAlphaSororityOfficialCrest_PMS.png?w=600' alt='CornerstoneCIA'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="CornerstoneCIA" />
+                                </span>
+                                <a href='https://glass.imgix.net/8131355d-54e8-4124-8c45-e2a591c52a4e/43/b2/43b2be20cbee4608ae7e889c80357e3a-AlphaKappaAlphaSororityOfficialCrest_PMS.png?w=600' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="So you got the offer now for the background check         #fyp #CareerNomad  #explorepage #job #work #careeradvice #careertok #careertiktok  #backgroundcheck">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7358421943273409835&location=0&aid=1988' alt='So you got the offer now for the background check         #fyp #CareerNomad  #explorepage #job #work #careeradvice #careertok #careertiktok  #backgroundcheck'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7358421943273409835&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is AKA Background Check Pass/Fail? : r/NPHCGreeks">
+                                <img itemprop="contentUrl url" src='https://styles.redditmedia.com/t5_2ze5l/styles/communityIcon_g15m92obkfi11.jpg?format=pjpg&s=5bb3c33102d6bc9d8a4dd1d91937a71f16868918' alt='Is AKA Background Check Pass/Fail? : r/NPHCGreeks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="256">
+                                <meta itemprop="height" content="256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://styles.redditmedia.com/t5_2ze5l/styles/communityIcon_g15m92obkfi11.jpg?format=pjpg&s=5bb3c33102d6bc9d8a4dd1d91937a71f16868918' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sample of a Selfie Background Check - Selfie Background Check">
+                                <img itemprop="contentUrl url" src='https://www.selfiebackgroundcheck.com/uploads/4/9/1/3/49135977/published/selfie-sample.jpg?1654286921' alt='Sample of a Selfie Background Check - Selfie Background Check'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="465">
+                                <meta itemprop="height" content="562">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Selfie Background Check" />
+                                </span>
+                                <a href='https://www.selfiebackgroundcheck.com/uploads/4/9/1/3/49135977/published/selfie-sample.jpg?1654286921' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I Got Sent A Background Check from Alpha Kappa Alpha | TikTok">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7384279498096741663&location=0&aid=1988' alt='I Got Sent A Background Check from Alpha Kappa Alpha | TikTok'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7384279498096741663&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Long Does It Take to Hear Back from Aka After Background Check ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7022946849984236806&location=0&aid=1988' alt='How Long Does It Take to Hear Back from Aka After Background Check ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7022946849984236806&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Membership Application Undergrad | PDF | Fraternities And ...">
+                                <img itemprop="contentUrl url" src='https://imgv2-2-f.scribdassets.com/img/document/399801943/original/99174d834d/1?v=1' alt='Membership Application Undergrad | PDF | Fraternities And ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Scribd" />
+                                </span>
+                                <a href='https://imgv2-2-f.scribdassets.com/img/document/399801943/original/99174d834d/1?v=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Unstoppable Alpha Kappa Alpha Sisterhood">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7308319908436266283&location=0&aid=1988' alt='Unstoppable Alpha Kappa Alpha Sisterhood'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="886">
+                                <meta itemprop="height" content="1366">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7308319908436266283&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pembuatan SKCK International aka Background Checking untuk menikah dengan  WNA (US Military) #internationalcouple #mixcouple #usspouse  #indonesiaamerica    ♥️     #weddingjourney">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7311192342290074886&location=0&aid=1988' alt='Pembuatan SKCK International aka Background Checking untuk menikah dengan  WNA (US Military) #internationalcouple #mixcouple #usspouse  #indonesiaamerica    ♥️     #weddingjourney'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7311192342290074886&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

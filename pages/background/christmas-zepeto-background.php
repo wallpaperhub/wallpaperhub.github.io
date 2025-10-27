@@ -1,0 +1,129 @@
+<title>Festive Christmas Zepeto Backgrounds for Your Holiday Vibe</title>
+                    <meta name="description" content="Discover stunning Christmas backgrounds for your Zepeto avatar! Elevate your holiday fun with enchanting themes that capture the spirit of the season. Perfect for sharing festive moments with friends and family. Explore now for a magical Zepeto experience!">
+                    <meta name="keywords" content="christmas zepeto background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/christmas-zepeto-background">
+                            <span itemprop="name">christmas zepeto background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Festive Christmas Zepeto Backgrounds for Your Holiday Vibe</h1>
+                <p>Transform your Zepeto world this holiday season with a festive Christmas background! Add a touch of magic with snowflakes, twinkling lights, and cheerful decorations. Customize your avatar's holiday outfits and capture the spirit of Christmas in your Zepeto moments. Celebrate the season by sharing your unique Zepeto Christmas experiences with friends!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 Zepeto xmas bgs ! ideas | zepeto background aesthetic living ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/34/9a/a1/349aa13146640fad8896111493718d99.jpg' alt='15 Zepeto xmas bgs ! ideas | zepeto background aesthetic living ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="937">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/34/9a/a1/349aa13146640fad8896111493718d99.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="xmas fireplace">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/78/65/06/7865060e51d7ba43d8ea1bcd9999602a.jpg' alt='xmas fireplace'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="563">
+                                <meta itemprop="height" content="845">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/78/65/06/7865060e51d7ba43d8ea1bcd9999602a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Who’s ready for Christmas    I’m so excited #fyp #zepeto #cuteoutfit  #christmas #christmasoutfit #cute #background❤️  ">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7170703714607549742&location=0&aid=1988' alt='Who’s ready for Christmas    I’m so excited #fyp #zepeto #cuteoutfit  #christmas #christmasoutfit #cute #background❤️  '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7170703714607549742&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Ashley Barnes on ZEPETO | Christmas dreaming, Preppy ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/c9/2e/fe/c92efe728a871c5c97c3873435a976f7.jpg' alt='Pin by Ashley Barnes on ZEPETO | Christmas dreaming, Preppy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="854">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/c9/2e/fe/c92efe728a871c5c97c3873435a976f7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/41/15/ae/4115ae91a3effbcabbf95e4b28163415.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="837">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/41/15/ae/4115ae91a3effbcabbf95e4b28163415.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Decorating the christmas tree!        — #sophztp #zepeto ...">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7297726376507870506&location=0&aid=1988' alt='Decorating the christmas tree!        — #sophztp #zepeto ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1072">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7297726376507870506&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 Zepeto xmas bgs ! ideas | zepeto background aesthetic living ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/27/51/0f/27510fbca508267b19c0c42fa835041a.jpg' alt='15 Zepeto xmas bgs ! ideas | zepeto background aesthetic living ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/27/51/0f/27510fbca508267b19c0c42fa835041a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="15 Zepeto xmas bgs ! ideas | zepeto background aesthetic living ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/2d/cb/e9/2dcbe9c00d2cfe6a1d2e645cf40d50b4.jpg' alt='15 Zepeto xmas bgs ! ideas | zepeto background aesthetic living ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="315">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/2d/cb/e9/2dcbe9c00d2cfe6a1d2e645cf40d50b4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Preppy Christmas tree bg!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2e/21/08/2e2108a4bb8015623b29c5b3cfc2657b.jpg' alt='Preppy Christmas tree bg!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2e/21/08/2e2108a4bb8015623b29c5b3cfc2657b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classic Holiday Lights - Winter is coming soon. Time to think ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1198767264011911' alt='Classic Holiday Lights - Winter is coming soon. Time to think ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1198767264011911' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

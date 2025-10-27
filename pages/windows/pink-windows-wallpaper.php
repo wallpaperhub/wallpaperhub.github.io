@@ -1,0 +1,129 @@
+<title>Chic Pink Windows Wallpaper for Vibrant Spaces</title>
+                    <meta name="description" content="Discover our chic pink windows wallpaper collection! Ideal for brightening up any room, these designs deliver a splash of color and style. Perfect for mobile, browse and find the perfect pink wallpaper to rejuvenate your decor today!">
+                    <meta name="keywords" content="pink windows wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/windows">
+                            <span itemprop="name">Windows</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/windows/pink-windows-wallpaper">
+                            <span itemprop="name">pink windows wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Chic Pink Windows Wallpaper for Vibrant Spaces</h1>
+                <p>Transform your space with our stunning pink windows wallpaper. Perfect for adding a pop of color, these designs blend elegance with tranquility. Whether you prefer soft pastel shades or vibrant fuchsias, our collection offers something for everyone. Elevate your interiors and enjoy the beauty of pink every day!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 10 Pink Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1f/88/70/1f88703f41dbc03bb85163db16c12836.jpg' alt='Windows 10 Pink Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="437">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1f/88/70/1f88703f41dbc03bb85163db16c12836.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 11 Abstract Pink Background 4K Wallpaper - Download Free ...">
+                                <img itemprop="contentUrl url" src='https://www.pixground.com/windows-11-abstract-pink-background-4k-wallpaper/?download-img=4k' alt='Windows 11 Abstract Pink Background 4K Wallpaper - Download Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixground" />
+                                </span>
+                                <a href='https://www.pixground.com/windows-11-abstract-pink-background-4k-wallpaper/?download-img=4k' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 11 Pink Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/windows-11-pink-qhnhvjht7ytb41uz.jpg' alt='Windows 11 Pink Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/windows-11-pink-qhnhvjht7ytb41uz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 11 Wallpaper 4K, Flow, Light, Pink background">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/windows-11-flow-light-pink-background-2560x1440-5748.jpg' alt='Windows 11 Wallpaper 4K, Flow, Light, Pink background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/windows-11-flow-light-pink-background-2560x1440-5748.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 11 Pink Wallpaper. by ISH4N72 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/14ddf384-c0f1-4491-8e1f-4a012e0c94ac/df51vc7-6c0000ce-b259-4765-832f-219424d07b4a.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE0ZGRmMzg0LWMwZjEtNDQ5MS04ZTFmLTRhMDEyZTBjOTRhY1wvZGY1MXZjNy02YzAwMDBjZS1iMjU5LTQ3NjUtODMyZi0yMTk0MjRkMDdiNGEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.MJ6B784WTaUWX153I8E_ivSSKrBtvu-6PYA8h8EWZpA' alt='Windows 11 Pink Wallpaper. by ISH4N72 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/14ddf384-c0f1-4491-8e1f-4a012e0c94ac/df51vc7-6c0000ce-b259-4765-832f-219424d07b4a.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE0ZGRmMzg0LWMwZjEtNDQ5MS04ZTFmLTRhMDEyZTBjOTRhY1wvZGY1MXZjNy02YzAwMDBjZS1iMjU5LTQ3NjUtODMyZi0yMTk0MjRkMDdiNGEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.MJ6B784WTaUWX153I8E_ivSSKrBtvu-6PYA8h8EWZpA' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Windows 7 Default Wallpaper Pink Version by dominichulme on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cfbb4e73-5e73-47f1-8b44-f0130b2e8bbf/d924vau-219e5994-3c81-435b-a4f2-1c7fb3524da1.jpg/v1/fill/w_1024,h_640,q_75,strp/windows_7_default_wallpaper_pink_version_by_dominichulme_d924vau-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjQwIiwicGF0aCI6IlwvZlwvY2ZiYjRlNzMtNWU3My00N2YxLThiNDQtZjAxMzBiMmU4YmJmXC9kOTI0dmF1LTIxOWU1OTk0LTNjODEtNDM1Yi1hNGYyLTFjN2ZiMzUyNGRhMS5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.t_ELUon2H7a-lwc9VX_W43q_nfkNumt7Wpafj68VZqQ' alt='Windows 7 Default Wallpaper Pink Version by dominichulme on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cfbb4e73-5e73-47f1-8b44-f0130b2e8bbf/d924vau-219e5994-3c81-435b-a4f2-1c7fb3524da1.jpg/v1/fill/w_1024,h_640,q_75,strp/windows_7_default_wallpaper_pink_version_by_dominichulme_d924vau-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjQwIiwicGF0aCI6IlwvZlwvY2ZiYjRlNzMtNWU3My00N2YxLThiNDQtZjAxMzBiMmU4YmJmXC9kOTI0dmF1LTIxOWU1OTk0LTNjODEtNDM1Yi1hNGYyLTFjN2ZiMzUyNGRhMS5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.t_ELUon2H7a-lwc9VX_W43q_nfkNumt7Wpafj68VZqQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD wallpaper: untitled, Windows 10, Microsoft Windows, operating ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/03/3e/5f/033e5f6147a6359d9344a5089e1cce93.jpg' alt='HD wallpaper: untitled, Windows 10, Microsoft Windows, operating ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/03/3e/5f/033e5f6147a6359d9344a5089e1cce93.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Windows 11 Logo Windows 11, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/304/237/HD-wallpaper-pink-windows-11-logo-windows-11.jpg' alt='Pink Windows 11 Logo Windows 11, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/304/237/HD-wallpaper-pink-windows-11-logo-windows-11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Most Popular Baby Pink Windows Wallpapers">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/mac/baby-pink-windows-pc-logo-09-10-2024-1728510470-hd-wallpaper.jpg' alt='Most Popular Baby Pink Windows Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3300">
+                                <meta itemprop="height" content="1856">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/mac/baby-pink-windows-pc-logo-09-10-2024-1728510470-hd-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free pink aesthetic desktop wallpaper templates | Canva">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFlbuJ-cEU/1/0/1600w/canva-pink-and-yellow-beautiful-elegant-feminine-butterfly-gradient-desktop-wallpaper-orhYGC8lcKI.jpg' alt='Free pink aesthetic desktop wallpaper templates | Canva'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFlbuJ-cEU/1/0/1600w/canva-pink-and-yellow-beautiful-elegant-feminine-butterfly-gradient-desktop-wallpaper-orhYGC8lcKI.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

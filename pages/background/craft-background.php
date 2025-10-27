@@ -1,0 +1,129 @@
+<title>Discovering the Craft Background: A Journey Through Handmade Traditions</title>
+                    <meta name="description" content="Explore the fascinating craft background, delving into the history, techniques, and cultural significance of handmade art. Uncover how traditional practices influence modern creativity and innovation in crafting. Perfect for artisans and enthusiasts alike! Start your journey today!">
+                    <meta name="keywords" content="craft background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/craft-background">
+                            <span itemprop="name">craft background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discovering the Craft Background: A Journey Through Handmade Traditions</h1>
+                <p>Craft background refers to the rich history and tradition behind various handmade practices, from pottery to textiles. It encompasses the techniques, materials, and cultural significance that shape each craft. Understanding this background not only enhances appreciation but also inspires modern crafters to innovate while honoring age-old methods.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arts And Crafts Background Images – Browse 3,085,085 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/00/81/13/95/360_F_81139557_AtIn6GPrjG8dwkNPRK87zBeqKIl2YS2Z.jpg' alt='Arts And Crafts Background Images – Browse 3,085,085 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/00/81/13/95/360_F_81139557_AtIn6GPrjG8dwkNPRK87zBeqKIl2YS2Z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arts And Crafts Background Images – Browse 3,085,085 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/90/76/82/360_F_290768244_ubUscosPwZKybJid3cBECeMviYGGJQ43.jpg' alt='Arts And Crafts Background Images – Browse 3,085,085 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="518">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/90/76/82/360_F_290768244_ubUscosPwZKybJid3cBECeMviYGGJQ43.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13,251 Craft Stuff Royalty-Free Photos and Stock Images | Shutterstock">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/pink-pastel-background-various-colorful-600nw-2285578399.jpg' alt='13,251 Craft Stuff Royalty-Free Photos and Stock Images | Shutterstock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/pink-pastel-background-various-colorful-600nw-2285578399.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4,193,500+ Art And Craft Background Stock Illustrations, Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1128195882/vector/vector-red-orange-and-blue-splattered-frame.jpg?s=612x612&w=0&k=20&c=4KfIeh1cPNFODIRQFVst8qqtbG7iunpI7hECWoFRKXI=' alt='4,193,500+ Art And Craft Background Stock Illustrations, Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="408">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1128195882/vector/vector-red-orange-and-blue-splattered-frame.jpg?s=612x612&w=0&k=20&c=4KfIeh1cPNFODIRQFVst8qqtbG7iunpI7hECWoFRKXI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art And Craft Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/craft-equipment-blue-origami-paper-fan-beige-background_23-2148188384.jpg' alt='Art And Craft Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/craft-equipment-blue-origami-paper-fan-beige-background_23-2148188384.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arts And Crafts Background Images – Browse 3,085,085 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/91/76/77/360_F_291767784_qAoDQo45GJnAG5t0x4Qu03u6oxN8W7ND.jpg' alt='Arts And Crafts Background Images – Browse 3,085,085 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/91/76/77/360_F_291767784_qAoDQo45GJnAG5t0x4Qu03u6oxN8W7ND.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Arts Crafts Background Stock Illustrations – 5,898 Arts Crafts ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/arts-crafts-table-background-ariel-view-various-objects-surrounding-blank-piece-paper-57940639.jpg' alt='Arts Crafts Background Stock Illustrations – 5,898 Arts Crafts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="802">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/arts-crafts-table-background-ariel-view-various-objects-surrounding-blank-piece-paper-57940639.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="6,000+ Craft Artist Backgrounds Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1199384244/vector/stationery-background-school-tools-seamless-pattern-art-education-wallpaper-with-line-icons.jpg?s=612x612&w=0&k=20&c=IL_HBlKt1LqvqBpdaLxH5ToTTSLNBwBFBbhHahfmKSI=' alt='6,000+ Craft Artist Backgrounds Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1199384244/vector/stationery-background-school-tools-seamless-pattern-art-education-wallpaper-with-line-icons.jpg?s=612x612&w=0&k=20&c=IL_HBlKt1LqvqBpdaLxH5ToTTSLNBwBFBbhHahfmKSI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Craft Texture Artfully Crafted Handmade Paper Background ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/wp/202344/craft-texture-artfully-crafted-handmade-paper-background_9922246.jpg!bw700' alt='Craft Texture Artfully Crafted Handmade Paper Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/wp/202344/craft-texture-artfully-crafted-handmade-paper-background_9922246.jpg!bw700' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Craft Supplies Background Vectors & Illustrations for Free ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/it-yourself-creative-workshop-copy-space_23-2148548724.jpg' alt='Craft Supplies Background Vectors & Illustrations for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/it-yourself-creative-workshop-copy-space_23-2148548724.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

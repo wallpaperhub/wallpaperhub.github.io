@@ -1,0 +1,129 @@
+<title>Enchanting Frozen Birthday Theme: A Winter Wonderland Celebration</title>
+                    <meta name="description" content="Discover the perfect frozen birthday theme for your child's celebration. Transform your space into a winter wonderland with enchanting blue decor, snowflakes, and beloved characters. Create unforgettable memories with a magical atmosphere that brings the magic of the Frozen world to life!">
+                    <meta name="keywords" content="background frozen birthday theme">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/background-frozen-birthday-theme">
+                            <span itemprop="name">background frozen birthday theme</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enchanting Frozen Birthday Theme: A Winter Wonderland Celebration</h1>
+                <p>Create a magical frozen birthday theme with icy blue decorations, snowflakes, and winter wonderland elements. Incorporate favorite characters like Elsa and Anna using themed tableware and cupcakes. Capture the essence of a snowy paradise with a backdrop of shimmering icicles and a frosty color palette, ensuring a memorable celebration!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Frozen Birthday Party Supplies, Frozen Party Decorations 82 PCS  Include Frozen Backdrop Snowflake Balloon Garland Arch Kit, Elsa, Anna and  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81UNNIzQkcL.jpg' alt='Amazon.com: Frozen Birthday Party Supplies, Frozen Party Decorations 82 PCS  Include Frozen Backdrop Snowflake Balloon Garland Arch Kit, Elsa, Anna and  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81UNNIzQkcL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frozen Elsa Birthday Party Decoration Custom Name Round Backdrop Baby  Shower Photography Background Wall Photo Backdrop Party Supplies - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/25673743/r/il/e4e720/3793419405/il_1080xN.3793419405_g0mx.jpg' alt='Frozen Elsa Birthday Party Decoration Custom Name Round Backdrop Baby  Shower Photography Background Wall Photo Backdrop Party Supplies - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/25673743/r/il/e4e720/3793419405/il_1080xN.3793419405_g0mx.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Frozen-Backdrop for Girls Birthday Party,7 x 5ft Elsa Photo  Background Wall Decorations Vinyl Photography Supplies for Kids Boys  Toddlers ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71rQgVk2-DL.jpg' alt='Amazon.com : Frozen-Backdrop for Girls Birthday Party,7 x 5ft Elsa Photo  Background Wall Decorations Vinyl Photography Supplies for Kids Boys  Toddlers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1276">
+                                <meta itemprop="height" content="1276">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71rQgVk2-DL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="470 Frozen ideas | frozen birthday, frozen birthday party, frozen ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/4e/cd/94/4ecd9487fa955a0eefbcb46107ec069c.png' alt='470 Frozen ideas | frozen birthday, frozen birthday party, frozen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/4e/cd/94/4ecd9487fa955a0eefbcb46107ec069c.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="7x5FT Frozen Birthday Backdrop for Girls Birthday Party Decoration ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/060a0234-1130-4084-8cd1-a8363c567491.139bf7f4fbcdc8bb336bac9163424bf5.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='7x5FT Frozen Birthday Backdrop for Girls Birthday Party Decoration ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/060a0234-1130-4084-8cd1-a8363c567491.139bf7f4fbcdc8bb336bac9163424bf5.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Round Circle Frozen Elsa Party Backdrop Background Birthday Photo Supplies">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/WY8AAOSw6M5lDBaK/s-l400.jpg' alt='Round Circle Frozen Elsa Party Backdrop Background Birthday Photo Supplies'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/WY8AAOSw6M5lDBaK/s-l400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frozen backdrop banner, Frozen birthday party, Frozen party decoration,  Frozen party supplies, printable Frozen, digital Frozen, background">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/19716306/r/il/c29ce7/2264861029/il_570xN.2264861029_4fce.jpg' alt='Frozen backdrop banner, Frozen birthday party, Frozen party decoration,  Frozen party supplies, printable Frozen, digital Frozen, background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="453">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/19716306/r/il/c29ce7/2264861029/il_570xN.2264861029_4fce.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Backdrops Background Disney Frozen | Background Frozen Birthday Theme -  Custom - Aliexpress">
+                                <img itemprop="contentUrl url" src='https://ae01.alicdn.com/kf/S120e60b76c84431aa79d38eea72eb9f9x.jpg' alt='Backdrops Background Disney Frozen | Background Frozen Birthday Theme -  Custom - Aliexpress'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AliExpress" />
+                                </span>
+                                <a href='https://ae01.alicdn.com/kf/S120e60b76c84431aa79d38eea72eb9f9x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Frozen Birthday Party Supplies,145pcs Frozen Party Decorations & Tableware  Set- Frozen Party Plates Napkins Cups Tablecloth Balloons Banner Crown Wand  ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/fd223766-dd9d-4bfd-9f7d-982adcb0094c.1b169d1181fc47db7d5c5a33589ab69b.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='Frozen Birthday Party Supplies,145pcs Frozen Party Decorations & Tableware  Set- Frozen Party Plates Napkins Cups Tablecloth Balloons Banner Crown Wand  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/fd223766-dd9d-4bfd-9f7d-982adcb0094c.1b169d1181fc47db7d5c5a33589ab69b.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Frozen Princess Happy Birthday Decorations - Snowflakes  Confetti Balloons, Frozen Banner, Foil Balloons : Toys & Games">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81aHVNRJRXL.jpg' alt='Amazon.com: Frozen Princess Happy Birthday Decorations - Snowflakes  Confetti Balloons, Frozen Banner, Foil Balloons : Toys & Games'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81aHVNRJRXL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

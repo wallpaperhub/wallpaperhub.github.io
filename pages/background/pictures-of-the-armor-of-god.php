@@ -1,0 +1,129 @@
+<title>Visual Guide to the Armor of God: Spiritual Protection Unveiled</title>
+                    <meta name="description" content="Discover powerful images of the Armor of God, reflecting the spiritual protection each piece offers. Learn about the significance of the belt of truth, breastplate of righteousness, and more. Equip yourself for life's challenges with this visual journey into faith and resilience.">
+                    <meta name="keywords" content="pictures of the armor of god">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pictures-of-the-armor-of-god">
+                            <span itemprop="name">pictures of the armor of god</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Visual Guide to the Armor of God: Spiritual Protection Unveiled</h1>
+                <p>Pictures of the Armor of God illustrate the spiritual protection described in Ephesians 6:10-18. Each piece, from the belt of truth to the sword of the Spirit, symbolizes vital aspects of faith. These visuals inspire believers to equip themselves for spiritual battles and serve as a reminder of God's strength and resilience in our lives.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Armor Of God Wall Chart - Laminated">
+                                <img itemprop="contentUrl url" src='https://cdn.cokesbury.com/images/products/Large/400/9789901982400.jpg' alt='Armor Of God Wall Chart - Laminated'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="298">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cokesbury" />
+                                </span>
+                                <a href='https://cdn.cokesbury.com/images/products/Large/400/9789901982400.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Armor of God Prayer Poster The 6 Pieces of Spiritual Instant Digital  Download Full Armor in Ephesians">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/49604676/r/il/940392/5718350195/il_fullxfull.5718350195_6q5t.jpg' alt='Armor of God Prayer Poster The 6 Pieces of Spiritual Instant Digital  Download Full Armor in Ephesians'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/49604676/r/il/940392/5718350195/il_fullxfull.5718350195_6q5t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Full Armor of God">
+                                <img itemprop="contentUrl url" src='https://www.truechristianmagazine.org/content/images/2021/10/ClipartKey_2103133-1.png' alt='The Full Armor of God'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1172">
+                                <meta itemprop="height" content="927">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="True Christian Magazine" />
+                                </span>
+                                <a href='https://www.truechristianmagazine.org/content/images/2021/10/ClipartKey_2103133-1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Armor of God Coloring Page - Flanders Family Home Life">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/www.flandersfamily.info/web/wp-content/uploads/2018/08/Armor-of-God-Coloring-Page-Facebook.png?fit=1024%2C670&ssl=1' alt='Armor of God Coloring Page - Flanders Family Home Life'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flanders Family Home Life" />
+                                </span>
+                                <a href='https://i0.wp.com/www.flandersfamily.info/web/wp-content/uploads/2018/08/Armor-of-God-Coloring-Page-Facebook.png?fit=1024%2C670&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Use These 7 Weapons Of The Armor Of God To Be A Powerful Warrior ...">
+                                <img itemprop="contentUrl url" src='https://warriorwomenblog.com/wp-content/uploads/2023/02/7-Weapons-533-%C3%97-800-px-1.jpg' alt='Use These 7 Weapons Of The Armor Of God To Be A Powerful Warrior ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="533">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Warrior Women Blog" />
+                                </span>
+                                <a href='https://warriorwomenblog.com/wp-content/uploads/2023/02/7-Weapons-533-%C3%97-800-px-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ephesians 6: The Armor of God – Breakfast With Jesus">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/breakfastwithjesu.com/wp-content/uploads/2023/05/ARMOR-OF-GOD-1.jpeg?fit=624%2C469&ssl=1' alt='Ephesians 6: The Armor of God – Breakfast With Jesus'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="624">
+                                <meta itemprop="height" content="469">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Breakfast With Jesus" />
+                                </span>
+                                <a href='https://i0.wp.com/breakfastwithjesu.com/wp-content/uploads/2023/05/ARMOR-OF-GOD-1.jpeg?fit=624%2C469&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Put on The Whole Armor of God Ephesians 611 - Bible Verses Wall Art  Biblical Christian Decor Poster Canvas Wall Art Picture Print Modern Home  Bedroom ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71xOfrdBOsL._AC_UF894,1000_QL80_.jpg' alt='Put on The Whole Armor of God Ephesians 611 - Bible Verses Wall Art  Biblical Christian Decor Poster Canvas Wall Art Picture Print Modern Home  Bedroom ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="749">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71xOfrdBOsL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Armor Of God" Ephesians ‭6:10-18‬ ‭(NIV‬) “..Put on the full ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1056073834579633' alt='The Armor Of God" Ephesians ‭6:10-18‬ ‭(NIV‬) “..Put on the full ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="791">
+                                <meta itemprop="height" content="1011">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1056073834579633' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Warrior The Armor Of God Canvas Bible Verse Wall Art, Christian Wall Art  Decor">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/GPcAAOSwAJZlOH8y/s-l1200.jpg' alt='Warrior The Armor Of God Canvas Bible Verse Wall Art, Christian Wall Art  Decor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/GPcAAOSwAJZlOH8y/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Put On the Full Armor of God: The Armor Prayer | Pastor ...">
+                                <img itemprop="contentUrl url" src='https://pastorbradabley.wordpress.com/wp-content/uploads/2020/12/armor-of-god.png' alt='How To Put On the Full Armor of God: The Armor Prayer | Pastor ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="668">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pastor Brad Abley's Blog - WordPress.com" />
+                                </span>
+                                <a href='https://pastorbradabley.wordpress.com/wp-content/uploads/2020/12/armor-of-god.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stereo Madness: Beat Your Best!</title>
+                    <meta name="description" content="Join the thrill of Stereo Madness, a fast-paced rhythm game where music meets challenge! Navigate vibrant levels, test your skills, and unlock new experiences. Ready to groove? Jump in and beat your best scores today!">
+                    <meta name="keywords" content="stereo madness">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/stereo-madness">
+                            <span itemprop="name">stereo madness</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stereo Madness: Beat Your Best!</h1>
+                <p>Stereo Madness is an exhilarating experience that immerses you in a rhythmic world of sound. With its catchy beats and engaging gameplay, it offers endless challenges and excitement. Players navigate through vibrant levels, showcasing creativity while enhancing their rhythm skills. Embrace the chaos and enjoy the musical journey!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stereo Madness | Geometry Dash Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/geometry-dash/images/f/f7/StereoMadness.png/revision/latest?cb=20170706225311' alt='Stereo Madness | Geometry Dash Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Geometry Dash Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/geometry-dash/images/f/f7/StereoMadness.png/revision/latest?cb=20170706225311' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Geometry Dash - Level 1: Stereo Madness (All Coins)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/HW41UNolUec/sddefault.jpg' alt='Geometry Dash - Level 1: Stereo Madness (All Coins)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/HW41UNolUec/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Műhely::Stereo Madness">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/2452853562148501643/0D7860D2A3B71C6581AE0C2740B5480C14D5C47A/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' alt='Steam Műhely::Stereo Madness'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="637">
+                                <meta itemprop="height" content="358">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/2452853562148501643/0D7860D2A3B71C6581AE0C2740B5480C14D5C47A/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Steam Community :: Gids :: How to beat Stereo Madness 3 COINS">
+                                <img itemprop="contentUrl url" src='https://steamuserimages-a.akamaihd.net/ugc/1798649638844792501/C55FF8D32000C632B355FF06D1AFC992FAFAAA39/' alt='Steam Community :: Gids :: How to beat Stereo Madness 3 COINS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Steam Community" />
+                                </span>
+                                <a href='https://steamuserimages-a.akamaihd.net/ugc/1798649638844792501/C55FF8D32000C632B355FF06D1AFC992FAFAAA39/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stereo Madness Full Version (All Secret Coins) | Geometry Dash Full Version  | By Traso56">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/o3GNmXQX57A/maxresdefault.jpg' alt='Stereo Madness Full Version (All Secret Coins) | Geometry Dash Full Version  | By Traso56'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/o3GNmXQX57A/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Geometry Dash Stereo Madness X">
+                                <img itemprop="contentUrl url" src='https://geometrydash.io/data/image/game/geometry-dash-stereo-madness-x.jpg' alt='Geometry Dash Stereo Madness X'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Geometry Dash" />
+                                </span>
+                                <a href='https://geometrydash.io/data/image/game/geometry-dash-stereo-madness-x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made Stereo Madness but it progressively gets harder (Like singularity by  septagon07) (yes noclip was used)">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/i-made-stereo-madness-but-it-progressively-gets-harder-like-v0-LBatKGbiw_RFpDXx2F-1tbDVgK0xojat8NHZLDih_X0.png?width=1080&crop=smart&format=pjpg&auto=webp&s=db18fc4815b6da0cd00c657be74432aeb1fac57e' alt='I made Stereo Madness but it progressively gets harder (Like singularity by  septagon07) (yes noclip was used)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="607">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/i-made-stereo-madness-but-it-progressively-gets-harder-like-v0-LBatKGbiw_RFpDXx2F-1tbDVgK0xojat8NHZLDih_X0.png?width=1080&crop=smart&format=pjpg&auto=webp&s=db18fc4815b6da0cd00c657be74432aeb1fac57e' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stereo Madness (Geometry Dash) - song and lyrics by Forever Bound ...">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab67616d0000b2734c774de06ab1789bfe56e4d4' alt='Stereo Madness (Geometry Dash) - song and lyrics by Forever Bound ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab67616d0000b2734c774de06ab1789bfe56e4d4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="STEREO MADNESS FULL VERSION BY: TRASO56 || Geometry Dash 2.11">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/AxdOft-dLG8/maxresdefault.jpg' alt='STEREO MADNESS FULL VERSION BY: TRASO56 || Geometry Dash 2.11'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/AxdOft-dLG8/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Made the layout easier, does it look easier or harder than stereo madness?">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/made-the-layout-easier-does-it-look-easier-or-harder-than-v0-NnFkenkzMDk4NWNiMXIRahr5LKgdCaOaTVUgnMFJ6wWaAiyZCIRuwXId8fAf.png?format=pjpg&auto=webp&s=ede3f19397883f5136f98c44df95de436fa4a58e' alt='Made the layout easier, does it look easier or harder than stereo madness?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1792">
+                                <meta itemprop="height" content="828">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/made-the-layout-easier-does-it-look-easier-or-harder-than-v0-NnFkenkzMDk4NWNiMXIRahr5LKgdCaOaTVUgnMFJ6wWaAiyZCIRuwXId8fAf.png?format=pjpg&auto=webp&s=ede3f19397883f5136f98c44df95de436fa4a58e' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

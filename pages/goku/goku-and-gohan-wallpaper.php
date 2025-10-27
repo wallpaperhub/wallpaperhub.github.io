@@ -1,0 +1,129 @@
+<title>Goku & Gohan: Epic Wallpapers for Dragon Ball Fans</title>
+                    <meta name="description" content="Explore a collection of Goku and Gohan wallpapers, featuring their legendary moments from Dragon Ball. Perfect for personalizing your devices, these vibrant images reflect their powerful journey together. Download now to show off your love for this iconic duo!">
+                    <meta name="keywords" content="goku and gohan wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/goku">
+                            <span itemprop="name">Goku</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/goku/goku-and-gohan-wallpaper">
+                            <span itemprop="name">goku and gohan wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Goku & Gohan: Epic Wallpapers for Dragon Ball Fans</h1>
+                <p>Discover stunning Goku and Gohan wallpapers that capture the essence of their powerful bond and epic battles. Perfect for fans of Dragon Ball, these wallpapers showcase their iconic moments in vibrant colors and dynamic poses. Personalize your devices with inspiring images of this legendary Saiyan duo today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku HD wallpaper art for iPhone 11pro. #Gohan HD wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/18/9f/1c/189f1cd71bdd8aad6241912df72d560b.jpg' alt='Goku HD wallpaper art for iPhone 11pro. #Gohan HD wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1433">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/18/9f/1c/189f1cd71bdd8aad6241912df72d560b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku and Gohan Wallpaper (no Text) by BrusselTheSaiyan on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ab60cab7-0751-4261-a1f6-268e74c937e3/daa459v-5fd8cba6-66f0-4dc4-93f1-ecdc153c43f6.png/v1/fill/w_1024,h_820/goku_and_gohan_wallpaper__no_text__by_brusselthesaiyan_daa459v-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODIwIiwicGF0aCI6IlwvZlwvYWI2MGNhYjctMDc1MS00MjYxLWExZjYtMjY4ZTc0YzkzN2UzXC9kYWE0NTl2LTVmZDhjYmE2LTY2ZjAtNGRjNC05M2YxLWVjZGMxNTNjNDNmNi5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.JRGDosfq5rWdwtO21i4AEfrnQewYWfoj4l3597TdZuI' alt='Goku and Gohan Wallpaper (no Text) by BrusselTheSaiyan on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="820">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ab60cab7-0751-4261-a1f6-268e74c937e3/daa459v-5fd8cba6-66f0-4dc4-93f1-ecdc153c43f6.png/v1/fill/w_1024,h_820/goku_and_gohan_wallpaper__no_text__by_brusselthesaiyan_daa459v-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODIwIiwicGF0aCI6IlwvZlwvYWI2MGNhYjctMDc1MS00MjYxLWExZjYtMjY4ZTc0YzkzN2UzXC9kYWE0NTl2LTVmZDhjYmE2LTY2ZjAtNGRjNC05M2YxLWVjZGMxNTNjNDNmNi5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.JRGDosfq5rWdwtO21i4AEfrnQewYWfoj4l3597TdZuI' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Everyone calling the SBR LR Goku and Gohan wholesome yet y'all ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/4wewe9a1fbf51.jpg' alt='Everyone calling the SBR LR Goku and Gohan wholesome yet y'all ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="854">
+                                <meta itemprop="height" content="1532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/4wewe9a1fbf51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku y Gohan, ball, cartoons, dragon, gohan, goku, hero, super, HD ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/194/580/HD-wallpaper-goku-y-gohan-ball-cartoons-dragon-gohan-goku-hero-super.jpg' alt='Goku y Gohan, ball, cartoons, dragon, gohan, goku, hero, super, HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/194/580/HD-wallpaper-goku-y-gohan-ball-cartoons-dragon-gohan-goku-hero-super.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Gohan wallpaper by TaylorGabriel on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/0c1f30e3-a530-4b74-9a2c-ce63c70ccf70/dbmnfo3-f547e880-f691-43c3-b5c4-30043a828466.png' alt='Goku Gohan wallpaper by TaylorGabriel on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/0c1f30e3-a530-4b74-9a2c-ce63c70ccf70/dbmnfo3-f547e880-f691-43c3-b5c4-30043a828466.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="An awesome Goku and Gohan wallpaper [1920x1080] : r/dbz">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/3impUuEknrK7tW0TSQ6kmoquQb0n74d0FT_hVLaKpas.jpg?auto=webp&s=6088730b0f8041474c887f84c0961c4a0470bb19' alt='An awesome Goku and Gohan wallpaper [1920x1080] : r/dbz'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/3impUuEknrK7tW0TSQ6kmoquQb0n74d0FT_hVLaKpas.jpg?auto=webp&s=6088730b0f8041474c887f84c0961c4a0470bb19' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="900+ Goku and Gohan♡ ideas | goku and gohan, goku, gohan">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/13/15/0c/13150cc8364e4c0bc42b258d92c95b4b.jpg' alt='900+ Goku and Gohan♡ ideas | goku and gohan, goku, gohan'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="432">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/13/15/0c/13150cc8364e4c0bc42b258d92c95b4b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dragon ball, gohan, goku, super saiyajin, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/240/707/HD-wallpaper-dragon-ball-gohan-goku-super-saiyajin.jpg' alt='Dragon ball, gohan, goku, super saiyajin, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1778">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/240/707/HD-wallpaper-dragon-ball-gohan-goku-super-saiyajin.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Gohan iPhone Goku and Gohan Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/gohan-iphone-goku-and-gohan-stl182rifxw24p18.jpg' alt='Download Gohan iPhone Goku and Gohan Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/gohan-iphone-goku-and-gohan-stl182rifxw24p18.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Goku Ultra Instinto vs Gohan Modo Bestia Wallpaper Video">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7351464351636770054&location=0&aid=1988' alt='Goku Ultra Instinto vs Gohan Modo Bestia Wallpaper Video'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1918">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7351464351636770054&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

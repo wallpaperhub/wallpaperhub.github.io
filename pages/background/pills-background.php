@@ -1,0 +1,129 @@
+<title>Understanding Pills: History, Uses, and Effects</title>
+                    <meta name="description" content="Explore the fascinating background of pills, from ancient remedies to modern pharmaceuticals. Discover their uses, effectiveness, and impact on health. Learn how these small but mighty medications play a vital role in medical treatment today!">
+                    <meta name="keywords" content="pills background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/pills-background">
+                            <span itemprop="name">pills background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding Pills: History, Uses, and Effects</h1>
+                <p>Pills have a rich history, originating as herbal remedies in ancient civilizations. Over time, they evolved into manufactured pharmaceuticals, allowing for precise dosages and targeted treatments. Today, pills come in various forms and colors, serving as crucial factors in healthcare to alleviate symptoms, treat diseases, and enhance well-being.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pills Background Images – Browse 2,393,550 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/66/38/58/360_F_166385891_mWiv9tlClr8DN78iMYG6hsUsUDHc2MYf.jpg' alt='Pills Background Images – Browse 2,393,550 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/66/38/58/360_F_166385891_mWiv9tlClr8DN78iMYG6hsUsUDHc2MYf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pills Background Images – Browse 2,393,550 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/09/80/78/68/360_F_980786840_nmzDQZ2ApDClJsX48HNGpeozhmCacc6y.jpg' alt='Pills Background Images – Browse 2,393,550 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="202">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/09/80/78/68/360_F_980786840_nmzDQZ2ApDClJsX48HNGpeozhmCacc6y.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="49,900+ Pile Of Pills Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1627315719/photo/the-pile-of-capsule-drug-in-the-container-background.jpg?s=612x612&w=0&k=20&c=QcJNq-SKQ-b6U6jv3KKspq6w3oKYX8rKPCrLfH8E5qQ=' alt='49,900+ Pile Of Pills Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1627315719/photo/the-pile-of-capsule-drug-in-the-container-background.jpg?s=612x612&w=0&k=20&c=QcJNq-SKQ-b6U6jv3KKspq6w3oKYX8rKPCrLfH8E5qQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Colorful Pills Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/9891645/p/f/m/Ur2Pn18nYNwQxDpRTDsXNmQ9JXyrMCmGZH4Uqg6HdiB92v7XQPGZHeEN/Colorful%20Pills%20on%20Black.jpg' alt='Colorful Pills Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/9891645/p/f/m/Ur2Pn18nYNwQxDpRTDsXNmQ9JXyrMCmGZH4Uqg6HdiB92v7XQPGZHeEN/Colorful%20Pills%20on%20Black.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+ Pills Pictures [HD] | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1628771065518-0d82f1938462?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cGlsbHN8ZW58MHx8MHx8fDA%3D' alt='100+ Pills Pictures [HD] | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1628771065518-0d82f1938462?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cGlsbHN8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pills Background Images – Browse 2,393,550 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/08/00/18/13/360_F_800181308_0eL3EVpzsv36lqWfoQRnVECgvq1pQ4Lp.jpg' alt='Pills Background Images – Browse 2,393,550 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/08/00/18/13/360_F_800181308_0eL3EVpzsv36lqWfoQRnVECgvq1pQ4Lp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pills Background Stock Photos, Images and Backgrounds for Free ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/050/137/936/non_2x/colorful-assortment-of-medicine-pills-and-capsules-background-photo.jpg' alt='Pills Background Stock Photos, Images and Backgrounds for Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1749">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/050/137/936/non_2x/colorful-assortment-of-medicine-pills-and-capsules-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pills Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/flat-lay-minimal-medicinal-pills-assortment_23-2148892352.jpg?semt=ais_hybrid' alt='Pills Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/flat-lay-minimal-medicinal-pills-assortment_23-2148892352.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="21,500+ Pills Background Stock Illustrations, Royalty-Free Vector ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/670923490/vector/colourful-pills-on-dark-background-seamless-pattern.jpg?s=612x612&w=0&k=20&c=Z7pvjo1CMzV2sctgWgChnRkZFfiYp58tWd8o2zFTnKg=' alt='21,500+ Pills Background Stock Illustrations, Royalty-Free Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/670923490/vector/colourful-pills-on-dark-background-seamless-pattern.jpg?s=612x612&w=0&k=20&c=Z7pvjo1CMzV2sctgWgChnRkZFfiYp58tWd8o2zFTnKg=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Seamless vector pattern of Red and white Capsule pill and a white ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/003/513/223/non_2x/seamless-pattern-of-red-and-white-capsule-pill-and-a-white-pills-isolated-on-dark-blue-background-medicine-creative-concepts-illustration-for-pharmaceutical-industry-free-vector.jpg' alt='Seamless vector pattern of Red and white Capsule pill and a white ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/003/513/223/non_2x/seamless-pattern-of-red-and-white-capsule-pill-and-a-white-pills-isolated-on-dark-blue-background-medicine-creative-concepts-illustration-for-pharmaceutical-industry-free-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

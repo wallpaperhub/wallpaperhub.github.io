@@ -1,0 +1,129 @@
+<title>Beautiful Alabama iPhone Wallpapers: Download Now!</title>
+                    <meta name="description" content="Discover a beautiful collection of Alabama iPhone wallpapers that capture the state's charm and landscapes. Perfect for proud Southerners and anyone who loves Alabama's beauty! Download your favorite designs now for a fresh new look on your device.">
+                    <meta name="keywords" content="alabama iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/alabama-iphone-wallpaper">
+                            <span itemprop="name">alabama iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful Alabama iPhone Wallpapers: Download Now!</h1>
+                <p>Elevate your iPhone experience with stunning Alabama-themed wallpapers! From the picturesque landscapes of the Gulf Coast to the vibrant cityscapes of Birmingham, our collection offers a variety of options that showcase the beauty and culture of Alabama. Download your favorite wallpaper today and bring a touch of Southern charm to your device!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="290 Best High Resolution Alabama Football Wallpapers HD iPhone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/10/32/de/1032deb3bbf4c8280732dc3b4bfbb228.jpg' alt='290 Best High Resolution Alabama Football Wallpapers HD iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/10/32/de/1032deb3bbf4c8280732dc3b4bfbb228.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Alabama Football Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/alabama-football-iphone-gjc6xax76s8bthqd.jpg' alt='100+] Alabama Football Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/alabama-football-iphone-gjc6xax76s8bthqd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="290 Best High Resolution Alabama Football Wallpapers HD iPhone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/550x/3b/f8/c8/3bf8c85429bd095a0f3ba3b8844f5cb1.jpg' alt='290 Best High Resolution Alabama Football Wallpapers HD iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="1190">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/550x/3b/f8/c8/3bf8c85429bd095a0f3ba3b8844f5cb1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alabama iPhone 4, crimson, football, roll, tide, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/401/972/HD-wallpaper-alabama-iphone-4-crimson-football-roll-tide.jpg' alt='Alabama iPhone 4, crimson, football, roll, tide, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1731">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/401/972/HD-wallpaper-alabama-iphone-4-crimson-football-roll-tide.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Crimson Logo Alabama Football Iphone Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/alabama-football-iphone-ztkmivy5ziffq1pq.jpg' alt='Download Crimson Logo Alabama Football Iphone Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/alabama-football-iphone-ztkmivy5ziffq1pq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="290 Best High Resolution Alabama Football Wallpapers HD iPhone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/0b/a4/c6/0ba4c634782e786398b0f97162bfdabd.png' alt='290 Best High Resolution Alabama Football Wallpapers HD iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1215">
+                                <meta itemprop="height" content="2629">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/0b/a4/c6/0ba4c634782e786398b0f97162bfdabd.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alabama Football on X: "    Christmas came early!     Bryant-Denny ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/EIIl_gdWoAEqkTJ.jpg:large' alt='Alabama Football on X: "    Christmas came early!     Bryant-Denny ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="946">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/EIIl_gdWoAEqkTJ.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alabama Crimson Tide Wood iPhone 4 Background | Alabama Crim… | Flickr">
+                                <img itemprop="contentUrl url" src='https://live.staticflickr.com/4102/4750106086_66fbf30e04_z.jpg' alt='Alabama Crimson Tide Wood iPhone 4 Background | Alabama Crim… | Flickr'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="426">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Flickr" />
+                                </span>
+                                <a href='https://live.staticflickr.com/4102/4750106086_66fbf30e04_z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alabama Crimson Tide, 150years, the greatest ever, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/310/516/HD-wallpaper-alabama-crimson-tide-150years-the-greatest-ever.jpg' alt='Alabama Crimson Tide, 150years, the greatest ever, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/310/516/HD-wallpaper-alabama-crimson-tide-150years-the-greatest-ever.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Alabama Crimson Tide Live Wallpaper (">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61IYJyw4oFL.png' alt='Alabama Crimson Tide Live Wallpaper ('>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61IYJyw4oFL.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

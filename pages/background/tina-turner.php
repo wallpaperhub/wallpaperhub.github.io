@@ -1,0 +1,129 @@
+<title>Tina Turner: Rock 'n' Roll Legend</title>
+                    <meta name="description" content="Discover the life and legacy of Tina Turner, the Queen of Rock 'n' Roll. Explore her remarkable journey, powerful voice, and unforgettable hits. Celebrate her influence on music and culture in this concise overview of a true icon.">
+                    <meta name="keywords" content="tina turner">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/tina-turner">
+                            <span itemprop="name">tina turner</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Tina Turner: Rock 'n' Roll Legend</h1>
+                <p>Tina Turner, often called the "Queen of Rock 'n' Roll," was an iconic singer and performer whose career spanned over six decades. Known for her powerful voice, dynamic stage presence, and hits like "What's Love Got to Do with It," she overcame adversity and became a symbol of resilience and empowerment in music history.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tina Turner, unstoppable superstar, dead at 83 | AP News">
+                                <img itemprop="contentUrl url" src='https://dims.apnews.com/dims4/default/f4d01e2/2147483647/strip/false/crop/2000x1295+0+0/resize/1486x962!/quality/90/?url=https%3A%2F%2Fstorage.googleapis.com%2Fafs-prod%2Fmedia%2F4347eb5b71654add9096d690493e9058%2F2000.jpeg' alt='Tina Turner, unstoppable superstar, dead at 83 | AP News'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1486">
+                                <meta itemprop="height" content="962">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AP News" />
+                                </span>
+                                <a href='https://dims.apnews.com/dims4/default/f4d01e2/2147483647/strip/false/crop/2000x1295+0+0/resize/1486x962!/quality/90/?url=https%3A%2F%2Fstorage.googleapis.com%2Fafs-prod%2Fmedia%2F4347eb5b71654add9096d690493e9058%2F2000.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The life of Tina Turner as told through her essential tracks | The ...">
+                                <img itemprop="contentUrl url" src='https://static.standard.co.uk/2025/01/23/8/17/Tina-Turner-Private-Dancer-02.jpeg?quality=75&auto=webp&width=960' alt='The life of Tina Turner as told through her essential tracks | The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="954">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Evening Standard" />
+                                </span>
+                                <a href='https://static.standard.co.uk/2025/01/23/8/17/Tina-Turner-Private-Dancer-02.jpeg?quality=75&auto=webp&width=960' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tina Turner - IMDb">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/M/MV5BMTYxNzEwNzQxOF5BMl5BanBnXkFtZTYwMjUwMjg2._V1_.jpg' alt='Tina Turner - IMDb'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="485">
+                                <meta itemprop="height" content="553">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IMDb" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/M/MV5BMTYxNzEwNzQxOF5BMl5BanBnXkFtZTYwMjUwMjg2._V1_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tina Turner | Biography, Songs, Albums, Movies, & Facts | Britannica">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/33/200233-050-561EEF58/Tina-Turner.jpg' alt='Tina Turner | Biography, Songs, Albums, Movies, & Facts | Britannica'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1067">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/33/200233-050-561EEF58/Tina-Turner.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tina Turner: Biography, Singer, Ike and Tina Turner">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/the-american-singer-tina-turner-at-her-home-in-london-news-photo-1684956673.jpg' alt='Tina Turner: Biography, Singer, Ike and Tina Turner'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="732">
+                                <meta itemprop="height" content="1024">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Biography" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/the-american-singer-tina-turner-at-her-home-in-london-news-photo-1684956673.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tina Turner, Magnetic Singer of Explosive Power, Is Dead at 83 ...">
+                                <img itemprop="contentUrl url" src='https://static01.nyt.com/images/2023/05/24/multimedia/24turner6-pckg/24turner6-pckg-articleLarge-v6.jpg?quality=75&auto=webp&disable=upscale' alt='Tina Turner, Magnetic Singer of Explosive Power, Is Dead at 83 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="916">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The New York Times" />
+                                </span>
+                                <a href='https://static01.nyt.com/images/2023/05/24/multimedia/24turner6-pckg/24turner6-pckg-articleLarge-v6.jpg?quality=75&auto=webp&disable=upscale' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tina: The Tina Turner Musical - Broadway in Tucson">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/broadwayintucson.com/wp-content/uploads/2023/03/Naomi-Rodgers-as-%E2%80%98Tina-Turner-in-the-North-American-touring-production-of-TINA-%E2%80%93-THE-TINA-TURNER-MUSICAL.-Photo-by-Matthew-Murphy-for-MurphyMade-2022-scaled.jpg?fit=2560%2C1707&ssl=1' alt='Tina: The Tina Turner Musical - Broadway in Tucson'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1707">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Broadway in Tucson" />
+                                </span>
+                                <a href='https://i0.wp.com/broadwayintucson.com/wp-content/uploads/2023/03/Naomi-Rodgers-as-%E2%80%98Tina-Turner-in-the-North-American-touring-production-of-TINA-%E2%80%93-THE-TINA-TURNER-MUSICAL.-Photo-by-Matthew-Murphy-for-MurphyMade-2022-scaled.jpg?fit=2560%2C1707&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tina Turner: legendary rock'n'roll singer dies aged 83 | Tina ...">
+                                <img itemprop="contentUrl url" src='https://i.guim.co.uk/img/media/2ae0ea9f849c50e25f5ec347778c2253eee029af/625_4_1801_1080/master/1801.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=8d1caeed6cb7b429ce337b85d4b500e2' alt='Tina Turner: legendary rock'n'roll singer dies aged 83 | Tina ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Guardian" />
+                                </span>
+                                <a href='https://i.guim.co.uk/img/media/2ae0ea9f849c50e25f5ec347778c2253eee029af/625_4_1801_1080/master/1801.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=8d1caeed6cb7b429ce337b85d4b500e2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tina Turner Dies at Age 83">
+                                <img itemprop="contentUrl url" src='https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/tina-turner-2-te-230524-896b7b.jpg' alt='Tina Turner Dies at Age 83'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="999">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Today Show" />
+                                </span>
+                                <a href='https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/tina-turner-2-te-230524-896b7b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tina Turner After Ike: The '80s Comeback | Best Classic Bands">
+                                <img itemprop="contentUrl url" src='https://bestclassicbands.com/wp-content/uploads/2018/08/Tina-Turner-via-Rhino.jpg' alt='Tina Turner After Ike: The '80s Comeback | Best Classic Bands'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1657">
+                                <meta itemprop="height" content="2300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Best Classic Bands" />
+                                </span>
+                                <a href='https://bestclassicbands.com/wp-content/uploads/2018/08/Tina-Turner-via-Rhino.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

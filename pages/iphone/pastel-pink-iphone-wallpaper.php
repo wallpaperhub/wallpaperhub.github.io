@@ -1,0 +1,129 @@
+<title>Beautiful Pastel Pink iPhone Wallpapers</title>
+                    <meta name="description" content="Discover a collection of stunning pastel pink iPhone wallpapers that elevate your device's style. Perfect for those seeking an elegant and calming aesthetic, these wallpapers offer a variety of designs to refresh your iPhone. Explore now and find the perfect backdrop for your screen!">
+                    <meta name="keywords" content="pastel pink iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/pastel-pink-iphone-wallpaper">
+                            <span itemprop="name">pastel pink iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Beautiful Pastel Pink iPhone Wallpapers</h1>
+                <p>Transform your iPhone's look with charming pastel pink wallpapers! Perfect for those who love soft, soothing hues, these wallpapers not only enhance your device's aesthetic but also add a touch of elegance. Choose from a variety of designs, from gradients to floral patterns, and make your iPhone truly yours!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Plain Pastel Pink Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/plain-pastel-pink-iphone-j9rvhcq2nba36t3a.jpg' alt='Plain Pastel Pink Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/plain-pastel-pink-iphone-j9rvhcq2nba36t3a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download premium image of Pastel pink acrylic paint phone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/92/8a/ba/928aba3782e3eca1eeaf323614363752.jpg' alt='Download premium image of Pastel pink acrylic paint phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/92/8a/ba/928aba3782e3eca1eeaf323614363752.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink aesthetic wallpapers | Cute pink background, Pink wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/64/b5/b2/64b5b2cc0c289f6f672b7ad06cc41510.jpg' alt='Pink aesthetic wallpapers | Cute pink background, Pink wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/64/b5/b2/64b5b2cc0c289f6f672b7ad06cc41510.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Pastel Pink Heart Iphone Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pastel-pink-iphone-7zxsxn7kpgv013i1.jpg' alt='Download Pastel Pink Heart Iphone Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pastel-pink-iphone-7zxsxn7kpgv013i1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone wallpaper. 'pastel pink abstract stripe'">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e5/e1/bb/e5e1bb5e0d5e7aa533009466284cd9ff.jpg' alt='Phone wallpaper. 'pastel pink abstract stripe''>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e5/e1/bb/e5e1bb5e0d5e7aa533009466284cd9ff.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink wallpaper 2025 iphone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/14/f8/cf/14f8cf62a6f1935262b4e82082bfa9f6.jpg' alt='Pink wallpaper 2025 iphone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/14/f8/cf/14f8cf62a6f1935262b4e82082bfa9f6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download "It's the little things in life that make all the ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pastel-pink-iphone-ab6es09ripbnpmvw.jpg' alt='Download "It's the little things in life that make all the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pastel-pink-iphone-ab6es09ripbnpmvw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aesthetic Pink Iphone Pastel Heart Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/aesthetic-pink-iphone-pastel-heart-9ieamgri79rx2x6h.jpg' alt='Aesthetic Pink Iphone Pastel Heart Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/aesthetic-pink-iphone-pastel-heart-9ieamgri79rx2x6h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel Pink Iphone Background in Illustrator, SVG, JPG, EPS ...">
+                                <img itemprop="contentUrl url" src='https://images.template.net/75785/Free-pastel-pink-iphone-background-3.jpg' alt='Pastel Pink Iphone Background in Illustrator, SVG, JPG, EPS ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="880">
+                                <meta itemprop="height" content="1564">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Template.net" />
+                                </span>
+                                <a href='https://images.template.net/75785/Free-pastel-pink-iphone-background-3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink - Android, iPhone, Background / (, ) #wa. Pink iphone, Baby ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/277/625/HD-wallpaper-pink-android-iphone-background-wa-pink-iphone-baby-pink-iphone-color-iphone-pastel-pink-thumbnail.jpg' alt='Pink - Android, iPhone, Background / (, ) #wa. Pink iphone, Baby ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/277/625/HD-wallpaper-pink-android-iphone-background-wa-pink-iphone-baby-pink-iphone-color-iphone-pastel-pink-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

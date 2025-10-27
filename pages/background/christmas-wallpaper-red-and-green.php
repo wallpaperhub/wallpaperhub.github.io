@@ -1,0 +1,129 @@
+<title>Vibrant Red and Green Christmas Wallpapers for Festive Decor</title>
+                    <meta name="description" content="Discover stunning red and green Christmas wallpapers to elevate your holiday decor. Our collection features festive designs that bring cheer to any room. Transform your space with easy-to-apply wallpapers that create a joyful ambiance this Christmas season. Perfect for all styles and tastes!">
+                    <meta name="keywords" content="christmas wallpaper red and green">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/christmas-wallpaper-red-and-green">
+                            <span itemprop="name">christmas wallpaper red and green</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Red and Green Christmas Wallpapers for Festive Decor</h1>
+                <p>Transform your space this holiday season with vibrant red and green Christmas wallpapers! Perfect for creating a festive atmosphere, these wallpapers feature beautiful patterns, from classic ornaments to modern designs. Bring joy and warmth into your home, making every corner feel merry and bright. Embrace the spirit of Christmas!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="47,600+ Red Green Christmas Background Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1434520454/vector/horizontal-banner-with-gold-and-red-christmas-symbols-and-text.jpg?s=612x612&w=0&k=20&c=si94gVTK3Lyyxo4Hps9L5gCNihfNCqCuZ_4aXyNUmeY=' alt='47,600+ Red Green Christmas Background Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1434520454/vector/horizontal-banner-with-gold-and-red-christmas-symbols-and-text.jpg?s=612x612&w=0&k=20&c=si94gVTK3Lyyxo4Hps9L5gCNihfNCqCuZ_4aXyNUmeY=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/d0/59/95/d059951fbc2121bed9b0cb663d0a7f37.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/d0/59/95/d059951fbc2121bed9b0cb663d0a7f37.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red and Green Christmas Wallpapers [Free Background Images ...">
+                                <img itemprop="contentUrl url" src='https://www.wallpapergap.com/cdn/24/485/christmas-red-and-green-wallpaper-1920x1080.jpg' alt='Red and Green Christmas Wallpapers [Free Background Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperGap" />
+                                </span>
+                                <a href='https://www.wallpapergap.com/cdn/24/485/christmas-red-and-green-wallpaper-1920x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NextWall Winter Forest Christmas Peel and Stick Wallpaper (Red & Evergreen)  - Amazon.com">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81JJ9Wru71L.jpg' alt='NextWall Winter Forest Christmas Peel and Stick Wallpaper (Red & Evergreen)  - Amazon.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81JJ9Wru71L.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Red And Green Christmas Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/red-and-green-christmas-99vwcpl0ycj9k0bz.jpg' alt='100+] Red And Green Christmas Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1253">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/red-and-green-christmas-99vwcpl0ycj9k0bz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20+ Christmas Collage Aesthetic Ideas : Green and Red">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/16/27/eb/1627eb0d49adacd612d6f31449d4bae9.jpg' alt='20+ Christmas Collage Aesthetic Ideas : Green and Red'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/16/27/eb/1627eb0d49adacd612d6f31449d4bae9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="47,600+ Red Green Christmas Background Stock Illustrations ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/2168503269/vector/horizontal-banner-with-gold-and-green-christmas-symbols-and-text.jpg?s=612x612&w=0&k=20&c=snygVBTHze-G5fzYcdKXHZ5BRNOoIfEM2PPuJe2MSnQ=' alt='47,600+ Red Green Christmas Background Stock Illustrations ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="459">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/2168503269/vector/horizontal-banner-with-gold-and-green-christmas-symbols-and-text.jpg?s=612x612&w=0&k=20&c=snygVBTHze-G5fzYcdKXHZ5BRNOoIfEM2PPuJe2MSnQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red And Green Christmas Background Images – Browse 2,033,560 Stock ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/05/37/80/71/360_F_537807152_yDAOJ9EYB0dl78PjZRY15mFlG3iVN6Qw.jpg' alt='Red And Green Christmas Background Images – Browse 2,033,560 Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="539">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/05/37/80/71/360_F_537807152_yDAOJ9EYB0dl78PjZRY15mFlG3iVN6Qw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Red And Green Christmas Bells Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/red-and-green-christmas-frytsq0dwk8dirwl.jpg' alt='Download Red And Green Christmas Bells Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1599">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/red-and-green-christmas-frytsq0dwk8dirwl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Digital Paper - Red and Green Christmas Backgrounds ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/7267538/r/il/7359cf/1121363133/il_570xN.1121363133_ahmr.jpg' alt='Christmas Digital Paper - Red and Green Christmas Backgrounds ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/7267538/r/il/7359cf/1121363133/il_570xN.1121363133_ahmr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

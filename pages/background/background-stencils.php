@@ -1,0 +1,129 @@
+<title>Enhance Your Spaces with Background Stencils</title>
+                    <meta name="description" content="Add depth and creativity to your projects with background stencils. Ideal for walls, furniture, and crafts, these versatile tools help you achieve stunning designs effortlessly. Explore unique patterns and elevate your DIY game today!">
+                    <meta name="keywords" content="background stencils">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/background-stencils">
+                            <span itemprop="name">background stencils</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Enhance Your Spaces with Background Stencils</h1>
+                <p>Background stencils are versatile tools for artists and DIY enthusiasts, perfect for adding intricate designs and textures to various surfaces. They offer an easy way to enhance walls, furniture, or crafts with repeated patterns. Whether you’re creating a unique focal point or adding subtle depth, background stencils can transform your projects with minimal effort.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : GSS Designs Flourish Leaf Stencils for Painting on ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/815NSXjBDLL._AC_UF894,1000_QL80_.jpg' alt='Amazon.com : GSS Designs Flourish Leaf Stencils for Painting on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="766">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/815NSXjBDLL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Thicket Background">
+                                <img itemprop="contentUrl url" src='https://www.stencilgirlproducts.com/v/vspfiles/photos/L550-2.jpg?v-cache=1497895796' alt='Thicket Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="420">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StencilGirl Products" />
+                                </span>
+                                <a href='https://www.stencilgirlproducts.com/v/vspfiles/photos/L550-2.jpg?v-cache=1497895796' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8 Pieces Stencils for Crafts Reusable Branches Musical Notes Stencil Floral  Texture Background Layering Drawing Templates Stencils for Painting on ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91YHRrGt6kL._AC_UF894,1000_QL80_.jpg' alt='8 Pieces Stencils for Crafts Reusable Branches Musical Notes Stencil Floral  Texture Background Layering Drawing Templates Stencils for Painting on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91YHRrGt6kL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Texture Background Airbrush Stencil Pack">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/11025483/r/il/16c330/4446815741/il_570xN.4446815741_pbyt.jpg' alt='Texture Background Airbrush Stencil Pack'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="453">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/11025483/r/il/16c330/4446815741/il_570xN.4446815741_pbyt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CrafTreat Stone Background Stencil 6x6 Inches">
+                                <img itemprop="contentUrl url" src='https://craftreat.com/cdn/shop/products/CTS007-Stone-Background-Stencil_5e1e8efa-8e31-43e9-94c3-35334b97fbc3_512x659.jpg?v=1670346222' alt='CrafTreat Stone Background Stencil 6x6 Inches'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="659">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Craftreat" />
+                                </span>
+                                <a href='https://craftreat.com/cdn/shop/products/CTS007-Stone-Background-Stencil_5e1e8efa-8e31-43e9-94c3-35334b97fbc3_512x659.jpg?v=1670346222' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Woodcut Blossoms Background">
+                                <img itemprop="contentUrl url" src='https://www.stencilgirlproducts.com/v/vspfiles/photos/L567-2.jpg?v-cache=1501783612' alt='Woodcut Blossoms Background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="420">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StencilGirl Products" />
+                                </span>
+                                <a href='https://www.stencilgirlproducts.com/v/vspfiles/photos/L567-2.jpg?v-cache=1501783612' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Swirls Background Stencil Design - SVG FILE ONLY">
+                                <img itemprop="contentUrl url" src='https://www.stencibelle.com/cdn/shop/products/SWIRLSBG_b3a7bd48-6e47-4ced-b8f6-33a6929ebc90.jpg?v=1653965859' alt='Swirls Background Stencil Design - SVG FILE ONLY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1757">
+                                <meta itemprop="height" content="1872">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Stencibelle" />
+                                </span>
+                                <a href='https://www.stencibelle.com/cdn/shop/products/SWIRLSBG_b3a7bd48-6e47-4ced-b8f6-33a6929ebc90.jpg?v=1653965859' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : Stencils for Crafts Reusable Texture Stencils Background  Stencil Leaf Floral Templates for Painting on Wood Furniture Card Canvas  Paper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91wfnmw4aRL.jpg' alt='Amazon.com : Stencils for Crafts Reusable Texture Stencils Background  Stencil Leaf Floral Templates for Painting on Wood Furniture Card Canvas  Paper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1428">
+                                <meta itemprop="height" content="1428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91wfnmw4aRL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Designer Stencil - Random Stacked Stone Background - 6x6">
+                                <img itemprop="contentUrl url" src='http://mbtreasurista.com/image/cache/data/Products/Prima%20Marketing/Stencils/I2966779IT0L-900x900.jpg' alt='Designer Stencil - Random Stacked Stone Background - 6x6'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="mbtreasurista.com" />
+                                </span>
+                                <a href='http://mbtreasurista.com/image/cache/data/Products/Prima%20Marketing/Stencils/I2966779IT0L-900x900.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animal Print Background Stencils 4 Pack- Cookie Stencils - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/17447803/r/il/0e0105/1906725678/il_570xN.1906725678_1elf.jpg' alt='Animal Print Background Stencils 4 Pack- Cookie Stencils - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/17447803/r/il/0e0105/1906725678/il_570xN.1906725678_1elf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

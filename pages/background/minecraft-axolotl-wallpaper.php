@@ -1,0 +1,129 @@
+<title>Minecraft Axolotl Wallpapers for Gamers</title>
+                    <meta name="description" content="Discover stunning Minecraft axolotl wallpapers that bring your favorite game to life! Perfect for fans, these vibrant backgrounds will enhance your device while showcasing these cute aquatic creatures. Download your favorite designs today and personalize your screens! Ideal for mobile display!">
+                    <meta name="keywords" content="minecraft axolotl wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/minecraft-axolotl-wallpaper">
+                            <span itemprop="name">minecraft axolotl wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Minecraft Axolotl Wallpapers for Gamers</h1>
+                <p>Transform your device with vibrant Minecraft axolotl wallpapers! Dive into a world of color and creativity with these adorable pixelated creatures. Perfect for fans and gamers, these wallpapers feature axolotls in various settings and styles, adding a playful touch to your screens. Download now and showcase your love for Minecraft!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I drew some axolotls!! :) : r/Minecraft">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/oh1t0m3bnh671.jpg' alt='I drew some axolotls!! :) : r/Minecraft'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/oh1t0m3bnh671.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Axolotl Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/dc/5d/d9/dc5dd980961254a2a2de5e495ebc1054.jpg' alt='Axolotl Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1437">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/dc/5d/d9/dc5dd980961254a2a2de5e495ebc1054.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="For anyone who (while waiting) want to have an HD Axolotl desktop ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/onlvadrwx9r51.png?auto=webp&s=511f66f37f8f3e1ce9d63bbfd223fc3e0343e8fb' alt='For anyone who (while waiting) want to have an HD Axolotl desktop ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/onlvadrwx9r51.png?auto=webp&s=511f66f37f8f3e1ce9d63bbfd223fc3e0343e8fb' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Minecraft Axolotls Underwater Wallpaper | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/minecraft-axolotls-underwater-3mof328cgqls8pzm.jpg' alt='Download Minecraft Axolotls Underwater Wallpaper | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/minecraft-axolotls-underwater-3mof328cgqls8pzm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD the axolotl wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/969/155/HD-wallpaper-cute-axolotl-cave-and-fills-minecraft-minecraft-axolotl.jpg' alt='HD the axolotl wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="799">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/969/155/HD-wallpaper-cute-axolotl-cave-and-fills-minecraft-minecraft-axolotl.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Axolotl Minecraft Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp8740299.jpg' alt='Axolotl Minecraft Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp8740299.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Axolotl Minecraft Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/c6/50/28/c6502897c6483213efe409dc50cba75d.jpg' alt='Axolotl Minecraft Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/c6/50/28/c6502897c6483213efe409dc50cba75d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minecraft Axolotl and Wardens 1.17 Fun 8K by Flowerscow on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/994bfebe-0b01-4ba1-9954-5e498a2188a7/de6ilok-e8e27948-8095-44d9-9537-6c245d581d4a.png/v1/fill/w_1192,h_670,q_70,strp/minecraft_axolotl_and_wardens_1_17_fun_8k_by_flowerscow_de6ilok-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvOTk0YmZlYmUtMGIwMS00YmExLTk5NTQtNWU0OThhMjE4OGE3XC9kZTZpbG9rLWU4ZTI3OTQ4LTgwOTUtNDRkOS05NTM3LTZjMjQ1ZDU4MWQ0YS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.BFwBGqul6kT4RNqH2BLvqBOMFlnrjeXibeG_WN7BU5I' alt='Minecraft Axolotl and Wardens 1.17 Fun 8K by Flowerscow on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1192">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/994bfebe-0b01-4ba1-9954-5e498a2188a7/de6ilok-e8e27948-8095-44d9-9537-6c245d581d4a.png/v1/fill/w_1192,h_670,q_70,strp/minecraft_axolotl_and_wardens_1_17_fun_8k_by_flowerscow_de6ilok-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvOTk0YmZlYmUtMGIwMS00YmExLTk5NTQtNWU0OThhMjE4OGE3XC9kZTZpbG9rLWU4ZTI3OTQ4LTgwOTUtNDRkOS05NTM3LTZjMjQ1ZDU4MWQ0YS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.BFwBGqul6kT4RNqH2BLvqBOMFlnrjeXibeG_WN7BU5I' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minecraft Axolotl In Can Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/minecraft-axolotl-in-can-p5b8mspcmjpkato7.jpg' alt='Minecraft Axolotl In Can Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/minecraft-axolotl-in-can-p5b8mspcmjpkato7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Minecraft blue axolotl wallpaper by yellow_wallflower - Download ...">
+                                <img itemprop="contentUrl url" src='https://is.zobj.net/image-server/v1/images?r=RtOo3ApnhytZsOhqjLSWfq1Fqk_9JP6prmXK6oI7297drS-HIdykWvXflckRdA_GOOUN0Ziwb0miyC4Yu50y8a1Ca4wLHNhczLLAUGt4fKS7ql3dml4-_Ul2YtLVSEFc7Xj6PqiQU51Z62IqFmIhMT_Mt2Izmg_GRmnBQUo8IDUsNV2JJS1CPNEmTVdmFVtMUC_G7nbpj51lPMLIxCR_p1O6eAecBykvcnpOnQ' alt='Minecraft blue axolotl wallpaper by yellow_wallflower - Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="674">
+                                <meta itemprop="height" content="1205">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Zedge" />
+                                </span>
+                                <a href='https://is.zobj.net/image-server/v1/images?r=RtOo3ApnhytZsOhqjLSWfq1Fqk_9JP6prmXK6oI7297drS-HIdykWvXflckRdA_GOOUN0Ziwb0miyC4Yu50y8a1Ca4wLHNhczLLAUGt4fKS7ql3dml4-_Ul2YtLVSEFc7Xj6PqiQU51Z62IqFmIhMT_Mt2Izmg_GRmnBQUo8IDUsNV2JJS1CPNEmTVdmFVtMUC_G7nbpj51lPMLIxCR_p1O6eAecBykvcnpOnQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

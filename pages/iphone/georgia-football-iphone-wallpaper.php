@@ -1,0 +1,129 @@
+<title>Stunning Georgia Football iPhone Wallpapers for True Fans</title>
+                    <meta name="description" content="Transform your iPhone with beautiful Georgia football wallpapers. Celebrate your team spirit with a range of eye-catching designs perfect for every Bulldog fan. Download your favorite today and keep the excitement of game day close at hand! Go Dawgs!">
+                    <meta name="keywords" content="georgia football iphone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/georgia-football-iphone-wallpaper">
+                            <span itemprop="name">georgia football iphone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Georgia Football iPhone Wallpapers for True Fans</h1>
+                <p>Elevate your phone's style with stunning Georgia football iPhone wallpapers! Perfect for fans, these vibrant designs capture the spirit of the Bulldogs, from breathtaking game-day action shots to iconic logos. Download now and show your team pride every time you check your phone. Go Dawgs!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Georgia Bulldogs National Champions Downloadable Wallpaper">
+                                <img itemprop="contentUrl url" src='https://ugawire.usatoday.com/wp-content/uploads/sites/31/2022/01/UGANAt_ChampLogo-wallpaper_2.png' alt='Georgia Bulldogs National Champions Downloadable Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UGA Wire" />
+                                </span>
+                                <a href='https://ugawire.usatoday.com/wp-content/uploads/sites/31/2022/01/UGANAt_ChampLogo-wallpaper_2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I like to photoshop helmets. Made this Georgia phone wallpaper a ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/u6vi7f2y08eb1.png' alt='I like to photoshop helmets. Made this Georgia phone wallpaper a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/u6vi7f2y08eb1.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Georgia Bulldogs Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/georgia-bulldogs-phone-axl8dg6hq3u580tv.jpg' alt='100+] Georgia Bulldogs Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/georgia-bulldogs-phone-axl8dg6hq3u580tv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Georgia Football on X: "Get your wallpaper set for week one ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/GWAD-WbbUAAXJw2.jpg:large' alt='Georgia Football on X: "Get your wallpaper set for week one ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="944">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/GWAD-WbbUAAXJw2.jpg:large' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone 6 Sports Wallpaper Thread">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/1c/90/64/1c9064e02d4579ec99fb57fb4192e630.jpg' alt='iPhone 6 Sports Wallpaper Thread'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/1c/90/64/1c9064e02d4579ec99fb57fb4192e630.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Georgia Bulldogs - Top 35 Best Georgia Bulldogs, Georgia Football ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/597/1013/HD-wallpaper-georgia-bulldogs-top-35-best-georgia-bulldogs-georgia-football.jpg' alt='Georgia Bulldogs - Top 35 Best Georgia Bulldogs, Georgia Football ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/597/1013/HD-wallpaper-georgia-bulldogs-top-35-best-georgia-bulldogs-georgia-football.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Georgia Bulldogs iPhone Wallpapers. Install in seconds, 18 to ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b8/a7/72/b8a7724567a409ffc2c8002f3403c7be.jpg' alt='Free Georgia Bulldogs iPhone Wallpapers. Install in seconds, 18 to ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b8/a7/72/b8a7724567a409ffc2c8002f3403c7be.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Georgia Bulldogs - Top 35 Best Georgia Bulldogs, HD phone ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/925/755/HD-wallpaper-georgia-bulldogs-top-35-best-georgia-bulldogs.jpg' alt='Georgia Bulldogs - Top 35 Best Georgia Bulldogs, HD phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/925/755/HD-wallpaper-georgia-bulldogs-top-35-best-georgia-bulldogs.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2023 Georgia Bulldogs Football Schedule: Downloadable phone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://ugawire.usatoday.com/wp-content/uploads/sites/31/2023/08/UGAWire_WP_23.png' alt='2023 Georgia Bulldogs Football Schedule: Downloadable phone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UGA Wire" />
+                                </span>
+                                <a href='https://ugawire.usatoday.com/wp-content/uploads/sites/31/2023/08/UGAWire_WP_23.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Georgia Bulldogs iPhone Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp13080245.jpg' alt='Georgia Bulldogs iPhone Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="946">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp13080245.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

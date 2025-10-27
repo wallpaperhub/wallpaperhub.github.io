@@ -1,0 +1,129 @@
+<title>Exploring the Vibrant 80s Grid Aesthetic</title>
+                    <meta name="description" content="Discover the captivating essence of the 80s grid aesthetic, featuring bold designs and vibrant colors. Dive into this nostalgic trend that combines geometric shapes with pop culture, leaving a lasting impact on modern design. Perfect for fans of retro styles and cultural influences!">
+                    <meta name="keywords" content="80s grid">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/80s-grid">
+                            <span itemprop="name">80s grid</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring the Vibrant 80s Grid Aesthetic</h1>
+                <p>The 80s grid was a vibrant design trend characterized by bold lines, geometric shapes, and striking color combinations. It symbolized the era's love for technology and pop culture, creating a unique visual language in fashion, art, and graphic design. This distinctive style reflects a nostalgic revival embraced in modern aesthetics.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="From Kubrick to Vaporwave: a Brief History of the 80s Grid">
+                                <img itemprop="contentUrl url" src='https://indieground.net/wp-content/uploads/2022/08/indiegroundblog_80sgrids_18.jpg' alt='From Kubrick to Vaporwave: a Brief History of the 80s Grid'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="468">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Indieground" />
+                                </span>
+                                <a href='https://indieground.net/wp-content/uploads/2022/08/indiegroundblog_80sgrids_18.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="80S Grid Images – Browse 81,082 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/55/95/19/360_F_255951967_HTrHx7FRZRGTMDpKHPLpN0vEBpJHHxXP.jpg' alt='80S Grid Images – Browse 81,082 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/55/95/19/360_F_255951967_HTrHx7FRZRGTMDpKHPLpN0vEBpJHHxXP.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="From Kubrick to Vaporwave: a Brief History of the 80s Grid">
+                                <img itemprop="contentUrl url" src='https://indieground.net/wp-content/uploads/2022/08/indiegroundblog_80sgrids_11.jpg' alt='From Kubrick to Vaporwave: a Brief History of the 80s Grid'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Indieground" />
+                                </span>
+                                <a href='https://indieground.net/wp-content/uploads/2022/08/indiegroundblog_80sgrids_11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grid 80s Perspective Vector Images (over 1,200)">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/81/17/retro-futuristic-neon-grid-background-80s-design-vector-24648117.jpg' alt='Grid 80s Perspective Vector Images (over 1,200)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="830">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/81/17/retro-futuristic-neon-grid-background-80s-design-vector-24648117.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="From Kubrick to Vaporwave: a Brief History of the 80s Grid">
+                                <img itemprop="contentUrl url" src='https://indieground.net/wp-content/uploads/2022/08/indiegroundblog_80sgrids_24.jpg' alt='From Kubrick to Vaporwave: a Brief History of the 80s Grid'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="615">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Indieground" />
+                                </span>
+                                <a href='https://indieground.net/wp-content/uploads/2022/08/indiegroundblog_80sgrids_24.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="80s Grid Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/002/774/068/non_2x/abstract-bright-retro-blue-pink-purple-background-futuristic-landscape-1980s-style-illustration-80s-party-background-80s-retro-sci-fi-background-light-perspective-grid-vector.jpg' alt='80s Grid Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1729">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/002/774/068/non_2x/abstract-bright-retro-blue-pink-purple-background-futuristic-landscape-1980s-style-illustration-80s-party-background-80s-retro-sci-fi-background-light-perspective-grid-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="80s Grid Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/gradient-grid-background_23-2150548357.jpg' alt='80s Grid Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/gradient-grid-background_23-2150548357.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Sci-Fi Background Futuristic Grid landscape of the 80s. Digital Cyber  Surface. Suitable for design in the style of the 1980s.">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/011/993/802/large/retro-sci-fi-background-futuristic-grid-landscape-of-the-80s-digital-cyber-surface-suitable-for-design-in-the-style-of-the-1980s-free-video.jpg' alt='Retro Sci-Fi Background Futuristic Grid landscape of the 80s. Digital Cyber  Surface. Suitable for design in the style of the 1980s.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="450">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/011/993/802/large/retro-sci-fi-background-futuristic-grid-landscape-of-the-80s-digital-cyber-surface-suitable-for-design-in-the-style-of-the-1980s-free-video.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="80s Grid Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/gradient-grid-background_23-2150548363.jpg' alt='80s Grid Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/gradient-grid-background_23-2150548363.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="80S Grid Images – Browse 81,082 Stock Photos, Vectors, and Video ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/95/04/53/360_F_295045340_0CD6t4ZwPCGHb5JgzzqMRVJdRdjogHGW.jpg' alt='80S Grid Images – Browse 81,082 Stock Photos, Vectors, and Video ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/95/04/53/360_F_295045340_0CD6t4ZwPCGHb5JgzzqMRVJdRdjogHGW.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

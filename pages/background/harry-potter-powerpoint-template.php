@@ -1,0 +1,129 @@
+<title>Magical Harry Potter PowerPoint Template: Unleash Your Inner Wizard!</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="harry potter powerpoint template">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/harry-potter-powerpoint-template">
+                            <span itemprop="name">harry potter powerpoint template</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Magical Harry Potter PowerPoint Template: Unleash Your Inner Wizard!</h1>
+                <p></p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Harry Potter Inspired Presentation Templates For PowerPoint and Google  Slides">
+                                <img itemprop="contentUrl url" src='https://www.slidekit.com/wp-content/uploads/2024/12/Free-Harry-Potter-Inspired-Presentation-Templates-For-PowerPoint-and-Google-Slides.jpg' alt='Free Harry Potter Inspired Presentation Templates For PowerPoint and Google  Slides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideKit" />
+                                </span>
+                                <a href='https://www.slidekit.com/wp-content/uploads/2024/12/Free-Harry-Potter-Inspired-Presentation-Templates-For-PowerPoint-and-Google-Slides.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter PowerPoint Presentation Template - EaTemp">
+                                <img itemprop="contentUrl url" src='https://eatemp.com/wp-content/uploads/2023/05/Harry-Potter-PowerPoint-Presentation-Template-1.jpeg' alt='Harry Potter PowerPoint Presentation Template - EaTemp'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="840">
+                                <meta itemprop="height" content="1296">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EaTemp" />
+                                </span>
+                                <a href='https://eatemp.com/wp-content/uploads/2023/05/Harry-Potter-PowerPoint-Presentation-Template-1.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Download | Harry Potter Design PowerPoint Template">
+                                <img itemprop="contentUrl url" src='https://free-powerpoint-templates-download.com/wp-content/uploads/Harry-PowerPoint-Template-by-PPThemes.jpg' alt='Free Download | Harry Potter Design PowerPoint Template'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PPThemes" />
+                                </span>
+                                <a href='https://free-powerpoint-templates-download.com/wp-content/uploads/Harry-PowerPoint-Template-by-PPThemes.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry potter themed Powerpoint | Upwork">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/upwork-cloud/video/upload/c_scale,w_1000/v1681838648/catalog/1648323223605153792/z7wo9ueygp7mmebgjzu9.JPEG' alt='Harry potter themed Powerpoint | Upwork'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Upwork" />
+                                </span>
+                                <a href='https://res.cloudinary.com/upwork-cloud/video/upload/c_scale,w_1000/v1681838648/catalog/1648323223605153792/z7wo9ueygp7mmebgjzu9.JPEG' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Create a Harry Potter-Inspired Presentation for PowerPoint or ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/AK6uA-g0rEY/hqdefault.jpg' alt='Create a Harry Potter-Inspired Presentation for PowerPoint or ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/AK6uA-g0rEY/hqdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Harry Potter inspired template for Matt Meyer - SlidesMania">
+                                <img itemprop="contentUrl url" src='https://slidesmania.com/wp-content/uploads/2020/02/Matt-1024x576.jpg' alt='A Harry Potter inspired template for Matt Meyer - SlidesMania'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlidesMania" />
+                                </span>
+                                <a href='https://slidesmania.com/wp-content/uploads/2020/02/Matt-1024x576.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter PowerPoint Presentation Template - EaTemp">
+                                <img itemprop="contentUrl url" src='https://eatemp.com/wp-content/uploads/2023/05/Harry-Potter-PowerPoint-Presentation-Template-Cover-compress.jpeg' alt='Harry Potter PowerPoint Presentation Template - EaTemp'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="960">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EaTemp" />
+                                </span>
+                                <a href='https://eatemp.com/wp-content/uploads/2023/05/Harry-Potter-PowerPoint-Presentation-Template-Cover-compress.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Animated Harry Potter Template PowerPoint & Google Slides">
+                                <img itemprop="contentUrl url" src='https://slidechef.net/wp-content/uploads/2022/08/Harry-Potter-PowerPoint-Template.jpg' alt='Free Animated Harry Potter Template PowerPoint & Google Slides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SlideChef" />
+                                </span>
+                                <a href='https://slidechef.net/wp-content/uploads/2022/08/Harry-Potter-PowerPoint-Template.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter Theme PowerPoint Free Template - Aesthetic PPT">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/URly8qbZsfs/maxresdefault.jpg' alt='Harry Potter Theme PowerPoint Free Template - Aesthetic PPT'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/URly8qbZsfs/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter PPT Template Presentation and Google Slides">
+                                <img itemprop="contentUrl url" src='https://www.slideegg.com/image/catalog/84804-harry-potter-powerpoint-template.png' alt='Harry Potter PPT Template Presentation and Google Slides'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Slide Egg" />
+                                </span>
+                                <a href='https://www.slideegg.com/image/catalog/84804-harry-potter-powerpoint-template.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

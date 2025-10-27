@@ -1,0 +1,129 @@
+<title>Charming Pink and White Checkered Wallpaper for Your Home</title>
+                    <meta name="description" content="Discover the delightful charm of pink and white checkered wallpaper! Perfect for a cozy ambiance in kitchens, nurseries, and playrooms. Transform your home with this stylish and timeless design that complements any decor. Embrace a whimsical touch today!">
+                    <meta name="keywords" content="pink and white checkered wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white">
+                            <span itemprop="name">White</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/white/pink-and-white-checkered-wallpaper">
+                            <span itemprop="name">pink and white checkered wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Pink and White Checkered Wallpaper for Your Home</h1>
+                <p>Pink and white checkered wallpaper offers a charming and timeless aesthetic, perfect for adding a touch of whimsy to any space. Ideal for kitchens, nurseries, or playrooms, this design combines retro flair with modern elegance. Its soft color palette complements various decor styles, creating a cozy and inviting atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink & White Chequerboard Square Pattern Wallpaper - Hovia">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1716286841/articles/GE5105PI03R_product.jpg' alt='Pink & White Chequerboard Square Pattern Wallpaper - Hovia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hovia" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1716286841/articles/GE5105PI03R_product.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trippy iPhone wallpaper | checkered iPhone wallpaper | pink iPhone ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/0d/12/02/0d12023162d76743f88e919549410e8c.jpg' alt='Trippy iPhone wallpaper | checkered iPhone wallpaper | pink iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/0d/12/02/0d12023162d76743f88e919549410e8c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Gingham Wallpaper | Peel and Stick Wallpaper | Removable for ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8591869/r/il/51005a/3152913932/il_fullxfull.3152913932_3upg.jpg' alt='Pink Gingham Wallpaper | Peel and Stick Wallpaper | Removable for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2392">
+                                <meta itemprop="height" content="2312">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8591869/r/il/51005a/3152913932/il_fullxfull.3152913932_3upg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Drydiet Retro Checkerboard Peel and Stick Wallpaper 70s Checkered Removable  Wall Paper Decorative Wallpaper Decor for Bathroom Cabinet(Pink,16.4' X ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71yYgrLwjFL.jpg' alt='Drydiet Retro Checkerboard Peel and Stick Wallpaper 70s Checkered Removable  Wall Paper Decorative Wallpaper Decor for Bathroom Cabinet(Pink,16.4' X ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71yYgrLwjFL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nude Pink Watercolor Checkered Wallpaper - Hovia">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1718624923/articles/RP5112PI04R_roll2.jpg' alt='Nude Pink Watercolor Checkered Wallpaper - Hovia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="333">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hovia" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1718624923/articles/RP5112PI04R_roll2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Checkered - White and Light Pink Art Print by CheckeredAndDiamonds">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/79/5c/36/795c3624fc7c71191a4da54dfa2afb28.jpg' alt='Checkered - White and Light Pink Art Print by CheckeredAndDiamonds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="981">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/79/5c/36/795c3624fc7c71191a4da54dfa2afb28.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Checkmate">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1728921838/articles/GE5105PI03R_interior4.jpg' alt='Checkmate'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="333">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hovia" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1728921838/articles/GE5105PI03R_interior4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Checkered Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/055/164/650/small_2x/pink-and-white-checkered-background-space-for-selling-products-backdrop-wallpaper-background-text-vintage-style-background-illustration-vector.jpg' alt='Pink Checkered Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/055/164/650/small_2x/pink-and-white-checkered-background-space-for-selling-products-backdrop-wallpaper-background-text-vintage-style-background-illustration-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink & White Chequerboard Square Pattern Wallpaper - Hovia">
+                                <img itemprop="contentUrl url" src='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1716287187/articles/GE5105PI03R_roll2.jpg' alt='Pink & White Chequerboard Square Pattern Wallpaper - Hovia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="333">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hovia" />
+                                </span>
+                                <a href='https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,h_500/v1716287187/articles/GE5105PI03R_roll2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Retro Checkered Wallpaper: Vibrant 90s Style Design">
+                                <img itemprop="contentUrl url" src='https://happywall-img-gallery.imgix.net/46899/pink_retro_groovy_checkered_limited.jpg?auto=format&w=400&h=300&fit=crop&crop=top&q=30' alt='Pink Retro Checkered Wallpaper: Vibrant 90s Style Design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-img-gallery.imgix.net/46899/pink_retro_groovy_checkered_limited.jpg?auto=format&w=400&h=300&fit=crop&crop=top&q=30' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

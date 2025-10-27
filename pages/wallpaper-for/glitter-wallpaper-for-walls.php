@@ -1,0 +1,129 @@
+<title>Transform Your Space with Glitter Wallpaper</title>
+                    <meta name="description" content="Add sparkle to your walls with our stunning glitter wallpaper collection! Ideal for every room, these wallpapers reflect light and create an inviting atmosphere. Explore vibrant colors and unique designs that enhance your decor while making a bold statement. Perfect for a chic and glamorous home makeover!">
+                    <meta name="keywords" content="glitter wallpaper for walls">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for">
+                            <span itemprop="name">Wallpaper for</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/wallpaper-for/glitter-wallpaper-for-walls">
+                            <span itemprop="name">glitter wallpaper for walls</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Space with Glitter Wallpaper</h1>
+                <p>Glitter wallpaper for walls adds a touch of elegance and glamour to any space. Perfect for bedrooms, living rooms, or even home offices, it reflects light beautifully, creating a bright and inviting ambiance. Available in various colors and patterns, it’s an easy way to elevate your decor while adding a unique charm to your interiors.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallderful Grey Glitter Wallpaper Stick and Peel Sparkling ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91cCLf0RPAL.jpg' alt='Wallderful Grey Glitter Wallpaper Stick and Peel Sparkling ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1601">
+                                <meta itemprop="height" content="1601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91cCLf0RPAL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Grey Glitter">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/471713/pr22/1/1280/grey-glitter-silver-glitter-wallpaper.jpg' alt='Grey Glitter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="645">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/471713/pr22/1/1280/grey-glitter-silver-glitter-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Glitter">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/471721/pr22/2/414/gold-glitter-gold-glitter-wallpaper.jpg' alt='Gold Glitter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="414">
+                                <meta itemprop="height" content="209">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/471721/pr22/2/414/gold-glitter-gold-glitter-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stickyart Hot Pink Sequins Sparkle Wallpaper Self Adhesive Chunky Glitter  Wallpaper Roll Peel and Stick Sparkly Contact Paper for Bedroom Girls Room  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91w4wQnj+mL.jpg' alt='Stickyart Hot Pink Sequins Sparkle Wallpaper Self Adhesive Chunky Glitter  Wallpaper Roll Peel and Stick Sparkly Contact Paper for Bedroom Girls Room  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91w4wQnj+mL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VEELIKE Shimmer Rose Gold Glitter Wallpaper Roll 15.7''x354'' Peel and  Stick Sparkle Glitter Contact Paper Decorative for Walls Cabinets Self  Adhesive ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/asr/e49f01d6-3ff3-4872-b46e-02d5ad63080f.f93d3165864d2c63a01c06fbad2bea13.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='VEELIKE Shimmer Rose Gold Glitter Wallpaper Roll 15.7''x354'' Peel and  Stick Sparkle Glitter Contact Paper Decorative for Walls Cabinets Self  Adhesive ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/asr/e49f01d6-3ff3-4872-b46e-02d5ad63080f.f93d3165864d2c63a01c06fbad2bea13.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sparkling Lavender Glitter 1 Wallpaper - Happywall">
+                                <img itemprop="contentUrl url" src='https://happywall-statix.imgix.net/rooms/chair-s.jpeg?w=2560&h=1280&fit=min&crop=center&auto=format&q=50&blend64=aHR0cHM6Ly9oYXBweXdhbGwtaW1nLWdhbGxlcnkuaW1naXgubmV0LzM3MTIvMzcxMi0yODItNDAwMHgyMDAwOTkwNTBhMWE4MjA4OWZiZjcwNDUwY2EzOWJjODM5MTkuanBnP3c9MjU2MCZxPTk5JmJsZW5kLWFscGhhPTEmYnJpPTYmc2F0PTEwJmJsZW5kLWNvbG9yPTAwMDAwMA%3D%3D&blend-mode=multiply&mark64=aHR0cHM6Ly9oYXBweXdhbGwtc3RhdGl4LmltZ2l4Lm5ldC9yb29tcy9jaGFpci1zLnBuZz93PTI1NjAmaD0xMjgwJmZpdD1taW4mY3JvcD1jZW50ZXImYXV0bz1mb3JtYXQmcT01MA%3D%3D&mark-x=0&mark-y=0' alt='Sparkling Lavender Glitter 1 Wallpaper - Happywall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Happywall" />
+                                </span>
+                                <a href='https://happywall-statix.imgix.net/rooms/chair-s.jpeg?w=2560&h=1280&fit=min&crop=center&auto=format&q=50&blend64=aHR0cHM6Ly9oYXBweXdhbGwtaW1nLWdhbGxlcnkuaW1naXgubmV0LzM3MTIvMzcxMi0yODItNDAwMHgyMDAwOTkwNTBhMWE4MjA4OWZiZjcwNDUwY2EzOWJjODM5MTkuanBnP3c9MjU2MCZxPTk5JmJsZW5kLWFscGhhPTEmYnJpPTYmc2F0PTEwJmJsZW5kLWNvbG9yPTAwMDAwMA%3D%3D&blend-mode=multiply&mark64=aHR0cHM6Ly9oYXBweXdhbGwtc3RhdGl4LmltZ2l4Lm5ldC9yb29tcy9jaGFpci1zLnBuZz93PTI1NjAmaD0xMjgwJmZpdD1taW4mY3JvcD1jZW50ZXImYXV0bz1mb3JtYXQmcT01MA%3D%3D&mark-x=0&mark-y=0' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Glitter">
+                                <img itemprop="contentUrl url" src='https://www.wallsauce.com/460645/pr22/1/1280/pink-glitter-pink-glitter-wallpaper.jpg' alt='Pink Glitter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="645">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallsauce" />
+                                </span>
+                                <a href='https://www.wallsauce.com/460645/pr22/1/1280/pink-glitter-pink-glitter-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Glitter Wallpaper for Girl Room, Self Adhesive or Pasted ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/23041200/r/il/03a69f/5192500849/il_fullxfull.5192500849_e8s7.jpg' alt='Pink Glitter Wallpaper for Girl Room, Self Adhesive or Pasted ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2700">
+                                <meta itemprop="height" content="2300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/23041200/r/il/03a69f/5192500849/il_fullxfull.5192500849_e8s7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CHIHUT Teal Blue Glitter Wallpaper for Bedroom Blue Sparkle Peel and Stick  Wallpaper Removable Fabric Wall Paper Roll for Walls Self Adhesive Glitter  ...">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/CHIHUT-Teal-Blue-Glitter-Wallpaper-Bedroom-Sparkle-Peel-Stick-Removable-Fabric-Wall-Paper-Roll-Walls-Self-Adhesive-Contact-Cabinet-Dresser-DIY-15-7-x_f8abfefe-832d-4b40-a86d-9afa94f847d4.a0b03d58d83c9ae66f3e4de47ee9850f.jpeg' alt='CHIHUT Teal Blue Glitter Wallpaper for Bedroom Blue Sparkle Peel and Stick  Wallpaper Removable Fabric Wall Paper Roll for Walls Self Adhesive Glitter  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/CHIHUT-Teal-Blue-Glitter-Wallpaper-Bedroom-Sparkle-Peel-Stick-Removable-Fabric-Wall-Paper-Roll-Walls-Self-Adhesive-Contact-Cabinet-Dresser-DIY-15-7-x_f8abfefe-832d-4b40-a86d-9afa94f847d4.a0b03d58d83c9ae66f3e4de47ee9850f.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Yullpaper Grey Glitter Wallpaper Peel and Stick Glitter Contact  Paper Removable Sparkling Silver Wallpaper Sparkle Glitter Contact Paper ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/A1wF-Q+CA2L._AC_UF894,1000_QL80_.jpg' alt='Amazon.com: Yullpaper Grey Glitter Wallpaper Peel and Stick Glitter Contact  Paper Removable Sparkling Silver Wallpaper Sparkle Glitter Contact Paper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/A1wF-Q+CA2L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Uplifting Get Well Soon Images to Brighten Your Day</title>
+                    <meta name="description" content="Discover a collection of heartfelt get well soon images designed to uplift and inspire. Perfect for sending to friends or family members in need of encouragement, these images are sure to bring a smile as they recover. Share love and positivity with a simple image today!">
+                    <meta name="keywords" content="get well soon images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/get-well-soon-images">
+                            <span itemprop="name">get well soon images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Uplifting Get Well Soon Images to Brighten Your Day</h1>
+                <p>Sending get well soon images can brighten someone's day during tough times. These heartwarming visuals, often featuring uplifting messages and cheerful designs, convey support and care. Choose images that resonate with your loved ones' personality, fostering positivity and hope as they recover. Brighten their spirits!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Get Well Soon" Images – Browse 4,612 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/00/54/37/99/360_F_54379918_BQq2nhcKdY3RRzTMsruU4GBQFwHPs1Au.jpg' alt='Get Well Soon" Images – Browse 4,612 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/00/54/37/99/360_F_54379918_BQq2nhcKdY3RRzTMsruU4GBQFwHPs1Au.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,800+ Get Well Soon Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1394062833/vector/get-well-soon-card.jpg?s=612x612&w=0&k=20&c=yoMV8zyINKXn4IGcHY64eP8Cqhhu9WLu7-HUGJW0_8U=' alt='2,800+ Get Well Soon Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1394062833/vector/get-well-soon-card.jpg?s=612x612&w=0&k=20&c=yoMV8zyINKXn4IGcHY64eP8Cqhhu9WLu7-HUGJW0_8U=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Get Well Soon Quotes With Images">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/8f/01/4f/8f014f6ff48ffb7154f8bb6ae69b87c1.jpg' alt='Get Well Soon Quotes With Images'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="471">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/8f/01/4f/8f014f6ff48ffb7154f8bb6ae69b87c1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable get well soon templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFwMiqHUuI/1/0/1600w/canva-green-white-vintage-illustrative-get-well-soon-card-FVBF3yfOYAk.jpg' alt='Free and customizable get well soon templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFwMiqHUuI/1/0/1600w/canva-green-white-vintage-illustrative-get-well-soon-card-FVBF3yfOYAk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Get Well Soon Floral Decorative Card">
+                                <img itemprop="contentUrl url" src='https://assets.cardly.net/production/artwork/4/3/e/43e0110c-c721-c24a-9c12-115674fb0418/detail/get-well-soon-floral-decorative-card-p1-r2.webp' alt='Get Well Soon Floral Decorative Card'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="496">
+                                <meta itemprop="height" content="680">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cardly" />
+                                </span>
+                                <a href='https://assets.cardly.net/production/artwork/4/3/e/43e0110c-c721-c24a-9c12-115674fb0418/detail/get-well-soon-floral-decorative-card-p1-r2.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Fun Facts You May Not Know About Ree Drummond">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/get-well-soon-messages-1658414652.jpg?crop=0.6654099905749293xw:1xh;center,top&resize=980:*' alt='5 Fun Facts You May Not Know About Ree Drummond'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Pioneer Woman" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/get-well-soon-messages-1658414652.jpg?crop=0.6654099905749293xw:1xh;center,top&resize=980:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="118 Get Well Soon Messages And Quotes For A Quick Recovery">
+                                <img itemprop="contentUrl url" src='https://www.stylecraze.com/wp-content/uploads/2021/10/Get-Well-Soon-Messages_1200px.jpg.webp' alt='118 Get Well Soon Messages And Quotes For A Quick Recovery'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StyleCraze" />
+                                </span>
+                                <a href='https://www.stylecraze.com/wp-content/uploads/2021/10/Get-Well-Soon-Messages_1200px.jpg.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Printable Get Well Soon Card,downloadable Card,digital,instant ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/43987660/r/il/575e9e/5033510779/il_fullxfull.5033510779_l6qb.jpg' alt='Printable Get Well Soon Card,downloadable Card,digital,instant ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/43987660/r/il/575e9e/5033510779/il_fullxfull.5033510779_l6qb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Get Well Soon Wishes and Greetings for Whatsapp, Facebook">
+                                <img itemprop="contentUrl url" src='https://www.deepestfeelings.com/get_well_soon/get-well-soon-card-02.jpg' alt='Get Well Soon Wishes and Greetings for Whatsapp, Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="689">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeepestFeelings" />
+                                </span>
+                                <a href='https://www.deepestfeelings.com/get_well_soon/get-well-soon-card-02.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ADD ON ITEM | GET WELL SOON CARD">
+                                <img itemprop="contentUrl url" src='https://snackboxusa.com/cdn/shop/files/2022_Get_better.png?v=1733167621&width=1080' alt='ADD ON ITEM | GET WELL SOON CARD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SnackBOX" />
+                                </span>
+                                <a href='https://snackboxusa.com/cdn/shop/files/2022_Get_better.png?v=1733167621&width=1080' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

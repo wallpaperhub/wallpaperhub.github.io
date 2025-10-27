@@ -1,0 +1,129 @@
+<title>Pink Emo Wallpaper: Aesthetic Designs for Your Screen</title>
+                    <meta name="description" content="Explore a collection of vibrant pink emo wallpapers that resonate with your style. Perfect for enhancing your device's look, these wallpapers feature artistic designs capturing the essence of emo culture. Download now and express your individuality!">
+                    <meta name="keywords" content="pink emo wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/pink-emo-wallpaper">
+                            <span itemprop="name">pink emo wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Pink Emo Wallpaper: Aesthetic Designs for Your Screen</h1>
+                <p>Transform your device with stunning pink emo wallpaper that perfectly blends moody vibes with soft hues. These wallpapers capture the essence of emo culture, featuring intricate designs, heart motifs, and expressive imagery. Ideal for anyone looking to add a unique touch to their screens while embracing their emotional aesthetic.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hot pink+emo+scene wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/28/96/37/289637fa379fe8e01a9487308337bedc.jpg' alt='Hot pink+emo+scene wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/28/96/37/289637fa379fe8e01a9487308337bedc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Skull Emo Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/22/56/00/225600c0d0c6ea3e9d71a926770ca900.jpg' alt='Pink Skull Emo Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/22/56/00/225600c0d0c6ea3e9d71a926770ca900.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emo Wallpaper Pink Version by XxTenshiDarkxX on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a5b55018-c9ce-4ca7-839f-35409fa803c6/dfygq32-b0a04b60-17d0-435e-a749-2fc6bb4f3997.png/v1/fill/w_1192,h_670,q_70,strp/emo_wallpaper_pink_version_by_xxtenshidarkxx_dfygq32-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvYTViNTUwMTgtYzljZS00Y2E3LTgzOWYtMzU0MDlmYTgwM2M2XC9kZnlncTMyLWIwYTA0YjYwLTE3ZDAtNDM1ZS1hNzQ5LTJmYzZiYjRmMzk5Ny5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.gsgzvj84FxE65KoVeBq-5Zrw5qSUDbwaNn0YMp8WsiE' alt='Emo Wallpaper Pink Version by XxTenshiDarkxX on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1192">
+                                <meta itemprop="height" content="670">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a5b55018-c9ce-4ca7-839f-35409fa803c6/dfygq32-b0a04b60-17d0-435e-a749-2fc6bb4f3997.png/v1/fill/w_1192,h_670,q_70,strp/emo_wallpaper_pink_version_by_xxtenshidarkxx_dfygq32-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvYTViNTUwMTgtYzljZS00Y2E3LTgzOWYtMzU0MDlmYTgwM2M2XC9kZnlncTMyLWIwYTA0YjYwLTE3ZDAtNDM1ZS1hNzQ5LTJmYzZiYjRmMzk5Ny5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.gsgzvj84FxE65KoVeBq-5Zrw5qSUDbwaNn0YMp8WsiE' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emo. jpg, skull, pink, wild, HD wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/509/40/HD-wallpaper-emo-jpg-skull-pink-wild.jpg' alt='Emo. jpg, skull, pink, wild, HD wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/509/40/HD-wallpaper-emo-jpg-skull-pink-wild.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Emo Hello Kitty Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/emo-hello-kitty-1280-x-800-99j4uedldgnmafaq.jpg' alt='100+] Emo Hello Kitty Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/emo-hello-kitty-1280-x-800-99j4uedldgnmafaq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Emo Pink Heart And Skull Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/emo-pink-heart-and-skull-xj58oad6g364f9kj.jpg' alt='Emo Pink Heart And Skull Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="934">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/emo-pink-heart-and-skull-xj58oad6g364f9kj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f4/62/24/f462247339e715d97838837b1071d62f.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="478">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f4/62/24/f462247339e715d97838837b1071d62f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Emo Themed Digital Art Pink And Black Background ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-and-black-background-1680-x-1050-s94620g37i0g7le8.jpg' alt='Download Emo Themed Digital Art Pink And Black Background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1680">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-and-black-background-1680-x-1050-s94620g37i0g7le8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best Emo Wallpaper Royalty-Free Images, Stock Photos & Pictures ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-vector/grunge-emo-seamless-pattern-wallpaper-260nw-2233011475.jpg' alt='Best Emo Wallpaper Royalty-Free Images, Stock Photos & Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="521">
+                                <meta itemprop="height" content="280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-vector/grunge-emo-seamless-pattern-wallpaper-260nw-2233011475.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/81/78/80/817880f24a5b14832f09c8ba78a1f932.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1025">
+                                <meta itemprop="height" content="1732">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/81/78/80/817880f24a5b14832f09c8ba78a1f932.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

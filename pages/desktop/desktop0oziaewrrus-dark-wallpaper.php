@@ -1,0 +1,129 @@
+<title>Stunning Dark Wallpapers for Your Desktop</title>
+                    <meta name="description" content="Discover the perfect dark wallpaper for your desktop. Our collection offers a variety of designs to enhance your screen while providing a modern aesthetic. Ideal for reducing eye strain and creating a sleek look. Elevate your workspace with our stunning wallpapers today!">
+                    <meta name="keywords" content="desktop:0oziaewrrus= dark wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop">
+                            <span itemprop="name">Desktop</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/desktop/desktop0oziaewrrus-dark-wallpaper">
+                            <span itemprop="name">desktop:0oziaewrrus= dark wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Dark Wallpapers for Your Desktop</h1>
+                <p>Transform your desktop with our stunning dark wallpaper collection. Featuring a range of designs from minimalist patterns to abstract art, these wallpapers not only enhance your screen but also reduce eye strain. Perfect for those who prefer a sleek, modern aesthetic. Explore now and find the perfect backdrop for your workspace!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60,000+ Best Dark Wallpapers · 100% Free Download · Pexels · Free ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1480690/pexels-photo-1480690.jpeg?cs=srgb&dl=pexels-sebastiaan9977-1480690.jpg&fm=jpg' alt='60,000+ Best Dark Wallpapers · 100% Free Download · Pexels · Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6708">
+                                <meta itemprop="height" content="4472">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1480690/pexels-photo-1480690.jpeg?cs=srgb&dl=pexels-sebastiaan9977-1480690.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60,000+ Best Dark Wallpapers · 100% Free Download · Pexels · Free ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1055613/pexels-photo-1055613.jpeg?cs=srgb&dl=pexels-lukas-hartmann-304281-1055613.jpg&fm=jpg' alt='60,000+ Best Dark Wallpapers · 100% Free Download · Pexels · Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4548">
+                                <meta itemprop="height" content="3415">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1055613/pexels-photo-1055613.jpeg?cs=srgb&dl=pexels-lukas-hartmann-304281-1055613.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60,000+ Best Dark Wallpapers · 100% Free Download · Pexels · Free ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/1097456/pexels-photo-1097456.jpeg' alt='60,000+ Best Dark Wallpapers · 100% Free Download · Pexels · Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="5999">
+                                <meta itemprop="height" content="3999">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/1097456/pexels-photo-1097456.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60,000+ Best Dark Wallpapers · 100% Free Download · Pexels · Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/174931919/photo/grunge-wall.jpg?b=1&s=612x612&w=0&k=20&c=eD2KX_nZXynMtUGgsp00xs-SkMK8Gb8alA1KRyrpq58=' alt='60,000+ Best Dark Wallpapers · 100% Free Download · Pexels · Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/174931919/photo/grunge-wall.jpg?b=1&s=612x612&w=0&k=20&c=eD2KX_nZXynMtUGgsp00xs-SkMK8Gb8alA1KRyrpq58=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60,000+ Best Dark Wallpapers · 100% Free Download · Pexels · Free ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/2823459/pexels-photo-2823459.jpeg?cs=srgb&dl=pexels-adrien-olichon-1257089-2823459.jpg&fm=jpg' alt='60,000+ Best Dark Wallpapers · 100% Free Download · Pexels · Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4000">
+                                <meta itemprop="height" content="6000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/2823459/pexels-photo-2823459.jpeg?cs=srgb&dl=pexels-adrien-olichon-1257089-2823459.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60,000+ Best Dark Wallpapers · 100% Free Download · Pexels · Free ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/162389/lost-places-old-decay-ruin-162389.jpeg?cs=srgb&dl=pexels-pixabay-162389.jpg&fm=jpg' alt='60,000+ Best Dark Wallpapers · 100% Free Download · Pexels · Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4470">
+                                <meta itemprop="height" content="2980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/162389/lost-places-old-decay-ruin-162389.jpeg?cs=srgb&dl=pexels-pixabay-162389.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="60,000+ Best Dark Wallpapers · 100% Free Download · Pexels · Free ...">
+                                <img itemprop="contentUrl url" src='https://images.pexels.com/photos/998641/pexels-photo-998641.jpeg?cs=srgb&dl=pexels-francesco-ungaro-998641.jpg&fm=jpg' alt='60,000+ Best Dark Wallpapers · 100% Free Download · Pexels · Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pexels" />
+                                </span>
+                                <a href='https://images.pexels.com/photos/998641/pexels-photo-998641.jpeg?cs=srgb&dl=pexels-francesco-ungaro-998641.jpg&fm=jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Wallpapers: Free HD Download [500+ HQ] | Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1533134486753-c833f0ed4866?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGRhcmslMjB3YWxscGFwZXJ8ZW58MHx8MHx8fDA%3D' alt='Dark Wallpapers: Free HD Download [500+ HQ] | Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1533134486753-c833f0ed4866?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGRhcmslMjB3YWxscGFwZXJ8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Asus ROG Zephyrus G14 Dark Wallpaper by sou22600 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dfac0702-f2ce-4816-a39a-7d590bee06dc/devnge6-0bdd2d46-af1c-43de-ab79-97f6505391df.png/v1/fill/w_1024,h_576,q_80,strp/asus_rog_zephyrus_g14_dark_wallpaper_by_sou22600_devnge6-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvZGZhYzA3MDItZjJjZS00ODE2LWEzOWEtN2Q1OTBiZWUwNmRjXC9kZXZuZ2U2LTBiZGQyZDQ2LWFmMWMtNDNkZS1hYjc5LTk3ZjY1MDUzOTFkZi5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.OJs1nmULWG7QPx8r5EpXmROr1d2ouYhiFPcGuEIx9Po' alt='Asus ROG Zephyrus G14 Dark Wallpaper by sou22600 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="576">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dfac0702-f2ce-4816-a39a-7d590bee06dc/devnge6-0bdd2d46-af1c-43de-ab79-97f6505391df.png/v1/fill/w_1024,h_576,q_80,strp/asus_rog_zephyrus_g14_dark_wallpaper_by_sou22600_devnge6-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvZGZhYzA3MDItZjJjZS00ODE2LWEzOWEtN2Q1OTBiZWUwNmRjXC9kZXZuZ2U2LTBiZGQyZDQ2LWFmMWMtNDNkZS1hYjc5LTk3ZjY1MDUzOTFkZi5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.OJs1nmULWG7QPx8r5EpXmROr1d2ouYhiFPcGuEIx9Po' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Wallpapers: Free HD Download [500+ HQ] | Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1484950763426-56b5bf172dbb?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZGFyayUyMHdhbGxwYXBlcnxlbnwwfHwwfHx8MA%3D%3D' alt='Dark Wallpapers: Free HD Download [500+ HQ] | Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1484950763426-56b5bf172dbb?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZGFyayUyMHdhbGxwYXBlcnxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

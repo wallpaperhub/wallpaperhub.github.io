@@ -1,0 +1,129 @@
+<title>Vibrant Hot Pink Diamond Wallpaper for Chic Interiors</title>
+                    <meta name="description" content="Add a pop of luxury to your space with our hot pink diamond wallpaper. Its bold design brings glamour and personality, making it perfect for accent walls or whole rooms. Transform your interiors effortlessly with this eye-catching decor choice. Upgrade your style today!">
+                    <meta name="keywords" content="hot pink diamond wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink">
+                            <span itemprop="name">Pink</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/pink/hot-pink-diamond-wallpaper">
+                            <span itemprop="name">hot pink diamond wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Hot Pink Diamond Wallpaper for Chic Interiors</h1>
+                <p>Hot pink diamond wallpaper is a vibrant and luxurious choice for those looking to add a touch of glamour to their interiors. The stunning design features intricate diamond patterns in a rich hot pink hue, creating a bold statement in any room. Perfect for accent walls or entire rooms, this wallpaper exudes elegance and personality.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/44/c2/27/44c22706640fcecb17ed1598c9fef4bb.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/44/c2/27/44c22706640fcecb17ed1598c9fef4bb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Diamonds Seamless Background — drypdesigns">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/609701bc21f2ee5734517421/1667080589643-EBDTEVP4HA76REFII550/Pink+Diamond+Seamless+Cover+WM+01.jpg?format=1500w' alt='Pink Diamonds Seamless Background — drypdesigns'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1364">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="drypdesigns" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/609701bc21f2ee5734517421/1667080589643-EBDTEVP4HA76REFII550/Pink+Diamond+Seamless+Cover+WM+01.jpg?format=1500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Very rare, heart-shaped pink diamond with a dazzling sparkling ...">
+                                <img itemprop="contentUrl url" src='https://s.widget-club.com/images/YyiR86zpwIMIfrCZoSs4ulVD9RF3/783846b5761f9f472dec43f586d0815e/e323fe5b81d8996bf22521455d6d556b.jpg' alt='Very rare, heart-shaped pink diamond with a dazzling sparkling ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper App by WidgetClub" />
+                                </span>
+                                <a href='https://s.widget-club.com/images/YyiR86zpwIMIfrCZoSs4ulVD9RF3/783846b5761f9f472dec43f586d0815e/e323fe5b81d8996bf22521455d6d556b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Bright PINK!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/52/0a/f7/520af7f3d753e9ab015edc568eaef834.jpg' alt='Bright PINK!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/52/0a/f7/520af7f3d753e9ab015edc568eaef834.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Diamonds Live Wallpaper - App on Amazon Appstore">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91Y0yQr8xwL.png' alt='Pink Diamonds Live Wallpaper - App on Amazon Appstore'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91Y0yQr8xwL.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pink Diamond Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/pink-diamond-background-9qodiigflm9ujkab.jpg' alt='100+] Pink Diamond Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/pink-diamond-background-9qodiigflm9ujkab.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aluring Pink Diamond Shining Bright Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/pink-diamond-s-radiant-brilliance-qo35q0zfpt4dwecq.webp' alt='Aluring Pink Diamond Shining Bright Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="509">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/pink-diamond-s-radiant-brilliance-qo35q0zfpt4dwecq.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Diamond Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1692138270836-893cffcedecf?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cGluayUyMGRpYW1vbmR8ZW58MHx8MHx8fDA%3D' alt='Pink Diamond Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1692138270836-893cffcedecf?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cGluayUyMGRpYW1vbmR8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="coffee and cigarettes: Photo">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/0e/04/33/0e04331ef80606a506df21a2cdda62e5.jpg' alt='coffee and cigarettes: Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/0e/04/33/0e04331ef80606a506df21a2cdda62e5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD pink diamond wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/11/462/HD-wallpaper-shine-like-a-diamond-pink-pink-diamond-red-shiny-solitaire-stone-thumbnail.jpg' alt='HD pink diamond wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/11/462/HD-wallpaper-shine-like-a-diamond-pink-pink-diamond-red-shiny-solitaire-stone-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

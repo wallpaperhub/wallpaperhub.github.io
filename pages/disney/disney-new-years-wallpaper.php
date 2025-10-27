@@ -1,0 +1,129 @@
+<title>Celebrate the New Year with Enchanting Disney Wallpapers</title>
+                    <meta name="description" content="Discover delightful Disney New Year wallpapers! Perfect for fans, these vibrant designs will light up your celebrations. Enhance your device and embrace the magic of Disney as you welcome 2024 in style. Explore our collection now!">
+                    <meta name="keywords" content="disney new years wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/disney">
+                            <span itemprop="name">Disney</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/disney/disney-new-years-wallpaper">
+                            <span itemprop="name">disney new years wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Celebrate the New Year with Enchanting Disney Wallpapers</h1>
+                <p>Get ready to ring in the New Year with magical Disney-themed wallpapers! Whether you adore classic characters or the latest Disney favorites, our collection offers vibrant designs to enhance your celebrations. Transform your screen with enchanting visuals that capture the spirit of joy and nostalgia. Celebrate 2024 with your favorite Disney magic!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ring in 2024 with New Disney Cinderella Castle, PeopleMover ...">
+                                <img itemprop="contentUrl url" src='https://disneyparksblog.com/app/uploads/2024/06/23_SM_NewYearsWallpapers_DLR_2880x1800.png' alt='Ring in 2024 with New Disney Cinderella Castle, PeopleMover ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2880">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Parks Blog" />
+                                </span>
+                                <a href='https://disneyparksblog.com/app/uploads/2024/06/23_SM_NewYearsWallpapers_DLR_2880x1800.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Disney Happy New Year Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/disney-happy-new-year-a4la95nefln2zawi.jpg' alt='100+] Disney Happy New Year Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="904">
+                                <meta itemprop="height" content="604">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/disney-happy-new-year-a4la95nefln2zawi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mickey Mouse Happy New Year Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/c4/5a/b0/c45ab046c12c8cb09604022d03768c3a.jpg' alt='Mickey Mouse Happy New Year Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="426">
+                                <meta itemprop="height" content="759">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/c4/5a/b0/c45ab046c12c8cb09604022d03768c3a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney - Oh, boy! It's going to be a magical year. | Facebook">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f4/f2/7e/f4f27eb75cb675fb11b493239e5a64a6.jpg' alt='Disney - Oh, boy! It's going to be a magical year. | Facebook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f4/f2/7e/f4f27eb75cb675fb11b493239e5a64a6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney's 2024 New Year Wallpapers Collection - Sam's Disney Diary">
+                                <img itemprop="contentUrl url" src='https://samsdisneydiary.com/wp-content/uploads/2023/12/1703604698_Ring-in-2024-with-New-Disney-Cinderella-Castle-PeopleMover-Wallpapers.jpg' alt='Disney's 2024 New Year Wallpapers Collection - Sam's Disney Diary'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sam's Disney Diary" />
+                                </span>
+                                <a href='https://samsdisneydiary.com/wp-content/uploads/2023/12/1703604698_Ring-in-2024-with-New-Disney-Cinderella-Castle-PeopleMover-Wallpapers.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New Disney Wallpapers to Celebrate Year of the Dragon 2024 ...">
+                                <img itemprop="contentUrl url" src='https://disneyparksblog.com/app/uploads/2024/02/2024-Year-of-the-Dragon-Wallpapers.jpg' alt='New Disney Wallpapers to Celebrate Year of the Dragon 2024 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="624">
+                                <meta itemprop="height" content="352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Parks Blog" />
+                                </span>
+                                <a href='https://disneyparksblog.com/app/uploads/2024/02/2024-Year-of-the-Dragon-Wallpapers.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="My Disney wallpaper for my phone! : r/WaltDisneyWorld">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/5ldcgho3l1461.jpg?width=1080&crop=smart&auto=webp&s=063e1a2d103bb3b4c995c3acca11b5deaaaec7dd' alt='My Disney wallpaper for my phone! : r/WaltDisneyWorld'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1963">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/5ldcgho3l1461.jpg?width=1080&crop=smart&auto=webp&s=063e1a2d103bb3b4c995c3acca11b5deaaaec7dd' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ring in 2024 with New Disney Cinderella Castle, PeopleMover ...">
+                                <img itemprop="contentUrl url" src='https://disneyparksblog.com/app/uploads/2024/06/23_DPB_NewYears_Wallpaper_Castle_1080x1920-scaled.jpg' alt='Ring in 2024 with New Disney Cinderella Castle, PeopleMover ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Parks Blog" />
+                                </span>
+                                <a href='https://disneyparksblog.com/app/uploads/2024/06/23_DPB_NewYears_Wallpaper_Castle_1080x1920-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Disney Happy New Year Wallpapers [Free Background Images ...">
+                                <img itemprop="contentUrl url" src='https://www.wallpapergap.com/cdn/24/497/disney-happy-new-year-wallpaper-1920x1200.jpg' alt='Disney Happy New Year Wallpapers [Free Background Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperGap" />
+                                </span>
+                                <a href='https://www.wallpapergap.com/cdn/24/497/disney-happy-new-year-wallpaper-1920x1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4 FREE Disney Wallpapers for Your Phone! | the disney food blog">
+                                <img itemprop="contentUrl url" src='https://www.disneyfoodblog.com/wp-content/uploads/2022/12/2023-disney-happy-new-years-wallpaper-characters-3.jpeg' alt='4 FREE Disney Wallpapers for Your Phone! | the disney food blog'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="675">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Disney Food Blog" />
+                                </span>
+                                <a href='https://www.disneyfoodblog.com/wp-content/uploads/2022/12/2023-disney-happy-new-years-wallpaper-characters-3.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Elevate Your Device with Stunning Nook Phone Wallpapers</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="nook phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/nook-phone-wallpaper">
+                            <span itemprop="name">nook phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Elevate Your Device with Stunning Nook Phone Wallpapers</h1>
+                <p>Discover the perfect nook phone wallpaper to add a personal touch to your device! From serene nature scenes to vibrant patterns, these wallpapers will transform your screen into a delightful expression of your style. Explore a variety of designs that uplift your mood and reflect your unique personality with every glance.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a cute lock screen wallpaper for your NookPhone™️ : r ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/xcipxd4hzzn51.jpg' alt='I made a cute lock screen wallpaper for your NookPhone™️ : r ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/xcipxd4hzzn51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a Nook Phone Wallpaper a few weeks ago. Thought I'd share ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/bg73yae8eju41.jpg' alt='I made a Nook Phone Wallpaper a few weeks ago. Thought I'd share ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3330">
+                                <meta itemprop="height" content="7207">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/bg73yae8eju41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nook phone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/87/62/76/876276edc034d4d4e57bf906f8e8eb9c.jpg' alt='Nook phone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/87/62/76/876276edc034d4d4e57bf906f8e8eb9c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a NookPhone wallpaper for my iPhone 7+ :)) : r/AnimalCrossing">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/1oq1t6qmmrr41.png?auto=webp&s=d2f4c5736419647f4cf43ed3f5e08347abc94215' alt='I made a NookPhone wallpaper for my iPhone 7+ :)) : r/AnimalCrossing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/1oq1t6qmmrr41.png?auto=webp&s=d2f4c5736419647f4cf43ed3f5e08347abc94215' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="ACNH nook phone halloween wallpaper by PlatinumGiratina on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cacc1c09-6a59-408c-abd6-4f1da5c9b399/de5vk43-229dae9b-6305-42ee-8d30-454d64392c6c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NhY2MxYzA5LTZhNTktNDA4Yy1hYmQ2LTRmMWRhNWM5YjM5OVwvZGU1dms0My0yMjlkYWU5Yi02MzA1LTQyZWUtOGQzMC00NTRkNjQzOTJjNmMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.kHih6HtxtqVo_HNNq33ghWxhjkPLPHtLZLVVh9ZR0F8' alt='ACNH nook phone halloween wallpaper by PlatinumGiratina on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1126">
+                                <meta itemprop="height" content="2437">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cacc1c09-6a59-408c-abd6-4f1da5c9b399/de5vk43-229dae9b-6305-42ee-8d30-454d64392c6c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NhY2MxYzA5LTZhNTktNDA4Yy1hYmQ2LTRmMWRhNWM5YjM5OVwvZGU1dms0My0yMjlkYWU5Yi02MzA1LTQyZWUtOGQzMC00NTRkNjQzOTJjNmMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.kHih6HtxtqVo_HNNq33ghWxhjkPLPHtLZLVVh9ZR0F8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nook Mobile Wallpaper - ChoPaeng's Ko-fi Shop - Ko-fi ❤️ Where ...">
+                                <img itemprop="contentUrl url" src='https://storage.ko-fi.com/cdn/useruploads/display/752abc5c-1fe6-4627-bea4-d9c80547d3ed_nookwallpaper.png' alt='Nook Mobile Wallpaper - ChoPaeng's Ko-fi Shop - Ko-fi ❤️ Where ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="780">
+                                <meta itemprop="height" content="1387">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ko-fi" />
+                                </span>
+                                <a href='https://storage.ko-fi.com/cdn/useruploads/display/752abc5c-1fe6-4627-bea4-d9c80547d3ed_nookwallpaper.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD nook wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/4/663/HD-wallpaper-ac-new-horizons-animal-animal-crossing-crossing-island-new-horizons-nook-timmy-tommy.jpg' alt='HD nook wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/4/663/HD-wallpaper-ac-new-horizons-animal-animal-crossing-crossing-island-new-horizons-nook-timmy-tommy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="so I created a Nook Phone's wallpaper : r/ac_newhorizons">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/ojqbb4bkrvj41.png?auto=webp&s=77c319fa15546058ff2003ecbe1e9e2d218b8824' alt='so I created a Nook Phone's wallpaper : r/ac_newhorizons'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/ojqbb4bkrvj41.png?auto=webp&s=77c319fa15546058ff2003ecbe1e9e2d218b8824' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="animal crossing nookphone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6a/f6/33/6af633a9c11d4de9319d1e2c9c503055.jpg' alt='animal crossing nookphone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6a/f6/33/6af633a9c11d4de9319d1e2c9c503055.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Re-illustrated the nook phone apps for my phone wallpaper to go ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/ysz1ga7sipt41.jpg' alt='Re-illustrated the nook phone apps for my phone wallpaper to go ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/ysz1ga7sipt41.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

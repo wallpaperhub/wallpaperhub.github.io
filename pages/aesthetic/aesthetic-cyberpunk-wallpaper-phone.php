@@ -1,0 +1,129 @@
+<title>Top Aesthetic Cyberpunk Wallpapers for Your Phone</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="aesthetic cyberpunk wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic-cyberpunk-wallpaper-phone">
+                            <span itemprop="name">aesthetic cyberpunk wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Top Aesthetic Cyberpunk Wallpapers for Your Phone</h1>
+                <p>Aesthetic cyberpunk wallpaper for your phone can elevate your device's look with stunning visuals of neon cities, futuristic elements, and vibrant colors. These wallpapers encapsulate the essence of a dystopian yet hopeful future, blending technology and art. Transform your phone into a portal of style and imagination today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Make A Wallpaper For Your Phone | CellularNews">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/2f/43/64/2f43640fae5984a27ed85d8a9a2883e5.jpg' alt='How To Make A Wallpaper For Your Phone | CellularNews'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="325">
+                                <meta itemprop="height" content="485">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/2f/43/64/2f43640fae5984a27ed85d8a9a2883e5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Wallpaper : r/Cyberpunk">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/52zu1sw6oop71.jpg?width=640&crop=smart&auto=webp&s=98f156be0950362d191fb77f5d7c3588aba7c0aa' alt='Phone Wallpaper : r/Cyberpunk'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/52zu1sw6oop71.jpg?width=640&crop=smart&auto=webp&s=98f156be0950362d191fb77f5d7c3588aba7c0aa' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cyberpunk Art HD Phone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/99/f1/8f/99f18fff782fba8abbecb2609a8b9c11.jpg' alt='Cyberpunk Art HD Phone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/99/f1/8f/99f18fff782fba8abbecb2609a8b9c11.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD cyberpunk iphone wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/334/652/HD-wallpaper-cyberpunk-blade-cyberpunk-cyberpunkiphone-iphone-lover-cyberpunk-mohamed-sholqamee-sad.jpg' alt='HD cyberpunk iphone wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/334/652/HD-wallpaper-cyberpunk-blade-cyberpunk-cyberpunkiphone-iphone-lover-cyberpunk-mohamed-sholqamee-sad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cyberpunk phone wallpapers - Heroscreen | Free image stock ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh527JU_-fCaSDXUqKHCXSv5RDWjl8kRua4e7dmuKsZC6u_h7tKWOoHqWZJHlRigPT4zP2nE-7k7-xbMchzWF5lo6pLnxyFsocBh89zc5Bv7GptQ3h8GVMP_xVXFs0hPzXQUEY7SNNuadpJ/w1152-d/cyberpunk-wallpaper-iphone.jpg' alt='Cyberpunk phone wallpapers - Heroscreen | Free image stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1919">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh527JU_-fCaSDXUqKHCXSv5RDWjl8kRua4e7dmuKsZC6u_h7tKWOoHqWZJHlRigPT4zP2nE-7k7-xbMchzWF5lo6pLnxyFsocBh89zc5Bv7GptQ3h8GVMP_xVXFs0hPzXQUEY7SNNuadpJ/w1152-d/cyberpunk-wallpaper-iphone.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cyberpunk Art HD Phone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/73/4c/52/734c524293d18ce697a78a25842ed328.jpg' alt='Cyberpunk Art HD Phone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/73/4c/52/734c524293d18ce697a78a25842ed328.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cyber Punk, cyberpunk, game, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/459/945/HD-wallpaper-cyber-punk-cyberpunk-game.jpg' alt='Cyber Punk, cyberpunk, game, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/459/945/HD-wallpaper-cyber-punk-cyberpunk-game.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cyberpunk 2077 Phone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/960/960039.jpg' alt='Cyberpunk 2077 Phone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/960/960039.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cyberpunk-inspired Aesthetic City Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cyberpunk-inspired-aesthetic-city-boykjzmd2btf2lfd.jpg' alt='Cyberpunk-inspired Aesthetic City Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cyberpunk-inspired-aesthetic-city-boykjzmd2btf2lfd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="COOL CYBERPUNK PHONE WALLPAPER HD - Heroscreen | Free image stock ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/a/AVvXsEhSCwVnvKWUi8p1fpqpZrGHp69-JIenyF8XnSj9DJMXoSl__-i4-pq_dECVp-UwvJI7HppQROsVo0IthJxIeG86vOSbLoI6Yxp72K3MhtYwgeDkOgghYy9yDm4VOtBy1J9ZuiYHUQnEtdXlEkA-ik7vBlYRa9yUWC8oyqGWkrE3IbMJJUr9x7qMXzzbyw=w295-h640' alt='COOL CYBERPUNK PHONE WALLPAPER HD - Heroscreen | Free image stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="295">
+                                <meta itemprop="height" content="639">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/a/AVvXsEhSCwVnvKWUi8p1fpqpZrGHp69-JIenyF8XnSj9DJMXoSl__-i4-pq_dECVp-UwvJI7HppQROsVo0IthJxIeG86vOSbLoI6Yxp72K3MhtYwgeDkOgghYy9yDm4VOtBy1J9ZuiYHUQnEtdXlEkA-ik7vBlYRa9yUWC8oyqGWkrE3IbMJJUr9x7qMXzzbyw=w295-h640' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

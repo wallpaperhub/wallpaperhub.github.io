@@ -1,0 +1,129 @@
+<title>Engaging Student of the Month Clipart for Recognition</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="student of the month clipart">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/student-of-the-month-clipart">
+                            <span itemprop="name">student of the month clipart</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Engaging Student of the Month Clipart for Recognition</h1>
+                <p>Celebrate your outstanding learners with our vibrant "Student of the Month" clipart! Perfect for awards, newsletters, or classroom displays, these colorful graphics inspire students to strive for excellence. Choose from various designs that capture the joy of achievement and motivate others. Get creative and recognize deserving students today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Student Of The Month 18" x 12" Yard Sign - Personalization ...">
+                                <img itemprop="contentUrl url" src='https://www.positivepromotions.com/images/1000/OST1965.webp?v=4' alt='Student Of The Month 18" x 12" Yard Sign - Personalization ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Positive Promotions" />
+                                </span>
+                                <a href='https://www.positivepromotions.com/images/1000/OST1965.webp?v=4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Student Of The Month Ribbon Lapel Pin">
+                                <img itemprop="contentUrl url" src='https://www.positivepromotions.com/images/1000/LP-295.jpg' alt='Student Of The Month Ribbon Lapel Pin'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Positive Promotions" />
+                                </span>
+                                <a href='https://www.positivepromotions.com/images/1000/LP-295.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Metal Button | Student of the Month">
+                                <img itemprop="contentUrl url" src='https://www.schoollife.com/media/catalog/product/b/u/but-met-sm2-1.jpg' alt='Metal Button | Student of the Month'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Brag Tags" />
+                                </span>
+                                <a href='https://www.schoollife.com/media/catalog/product/b/u/but-met-sm2-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2" Circle Tags - Student of the Month">
+                                <img itemprop="contentUrl url" src='https://www.schoollife.com/media/catalog/product/cache/2/image/9df78eab33525d08d6e5fb8d27136e95/s/o/sotm.jpg' alt='2" Circle Tags - Student of the Month'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Brag Tags" />
+                                </span>
+                                <a href='https://www.schoollife.com/media/catalog/product/cache/2/image/9df78eab33525d08d6e5fb8d27136e95/s/o/sotm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Student Of The Month Clipart | Free Images at Clker.com - vector ...">
+                                <img itemprop="contentUrl url" src='http://www.clker.com/cliparts/1/5/7/5/15163132511447359432student-of-the-month-clipart.hi.png' alt='Student Of The Month Clipart | Free Images at Clker.com - vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Clker" />
+                                </span>
+                                <a href='http://www.clker.com/cliparts/1/5/7/5/15163132511447359432student-of-the-month-clipart.hi.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Student Of The Month Lapel Pin - Jones School Supply">
+                                <img itemprop="contentUrl url" src='https://d146tiw5d2a33m.cloudfront.net/product_images/1166.jpg?width=328&height=297' alt='Student Of The Month Lapel Pin - Jones School Supply'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="328">
+                                <meta itemprop="height" content="297">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jones School Supply" />
+                                </span>
+                                <a href='https://d146tiw5d2a33m.cloudfront.net/product_images/1166.jpg?width=328&height=297' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Student of the Month Star Brag Tags | SchoolLife.com">
+                                <img itemprop="contentUrl url" src='https://www.schoollife.com/media/catalog/product/cache/2/image/9df78eab33525d08d6e5fb8d27136e95/6/9/6999.jpg' alt='Student of the Month Star Brag Tags | SchoolLife.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Brag Tags" />
+                                </span>
+                                <a href='https://www.schoollife.com/media/catalog/product/cache/2/image/9df78eab33525d08d6e5fb8d27136e95/6/9/6999.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Student of the Month Award Pin with Glitter Shooting">
+                                <img itemprop="contentUrl url" src='https://www.itselementary.com/-/media/Products/ie/student-awards/award-pins/new-award-pins/elp6827-student-of-the-month-award-pin-glitter-shooting-star-000.ashx?bc=FFFFFF&w=540&h=540' alt='Student of the Month Award Pin with Glitter Shooting'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="540">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.paperindustrial.com" />
+                                </span>
+                                <a href='https://www.itselementary.com/-/media/Products/ie/student-awards/award-pins/new-award-pins/elp6827-student-of-the-month-award-pin-glitter-shooting-star-000.ashx?bc=FFFFFF&w=540&h=540' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Student of the Month (Calendar) - C. Sanders Emblems">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-bf6jqh/products/822/images/1975/385692364__54665.1466185768.800.800.png?c=2' alt='Student of the Month (Calendar) - C. Sanders Emblems'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="C. Sanders Emblems" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-bf6jqh/products/822/images/1975/385692364__54665.1466185768.800.800.png?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Student of the Month | Sticker">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.1386215918.0334/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u2.jpg' alt='Student of the Month | Sticker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.1386215918.0334/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

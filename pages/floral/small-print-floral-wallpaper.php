@@ -1,0 +1,129 @@
+<title>Charming Small Print Floral Wallpaper for Elegant Interiors</title>
+                    <meta name="description" content="Discover the beauty of small print floral wallpaper. Perfect for bringing elegance and a touch of nature into your home. Ideal for any room, this charming decor enhances your space's atmosphere effortlessly. Shop now and transform your walls with delightful floral patterns!">
+                    <meta name="keywords" content="small print floral wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral">
+                            <span itemprop="name">Floral</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/floral/small-print-floral-wallpaper">
+                            <span itemprop="name">small print floral wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Small Print Floral Wallpaper for Elegant Interiors</h1>
+                <p>Small print floral wallpaper adds a touch of elegance and charm to any space. Its delicate patterns create a warm, inviting atmosphere, perfect for living rooms, bedrooms, or even kitchens. Easily paired with various decor styles, this timeless wallpaper brings nature indoors, enlivening your walls with color and grace.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sample Mini Mod Floral Pink/Green Wallpaper from the Small Prints Collection">
+                                <img itemprop="contentUrl url" src='https://www.burkedecor.com/cdn/shop/products/G56669_d046799d-0052-41fb-be57-e53b9ee1107a_1080x.jpg?v=1656353689' alt='Sample Mini Mod Floral Pink/Green Wallpaper from the Small Prints Collection'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Burke Decor" />
+                                </span>
+                                <a href='https://www.burkedecor.com/cdn/shop/products/G56669_d046799d-0052-41fb-be57-e53b9ee1107a_1080x.jpg?v=1656353689' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Miniature Roses - Porcelain Blue Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='http://mitchellblack.com/cdn/shop/products/WC410-PB_MiniatureRose_PorcelainBlue.jpg?v=1661046785' alt='Miniature Roses - Porcelain Blue Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mitchell Black" />
+                                </span>
+                                <a href='http://mitchellblack.com/cdn/shop/products/WC410-PB_MiniatureRose_PorcelainBlue.jpg?v=1661046785' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Norwall Small Floral Trail Vinyl Roll Wallpaper (Covers 56 sq. ft.) PR33802">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/b791c9ea-f42c-4381-859e-84eef199138f/svn/norwall-wallpaper-rolls-pr33802-64_600.jpg' alt='Norwall Small Floral Trail Vinyl Roll Wallpaper (Covers 56 sq. ft.) PR33802'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/b791c9ea-f42c-4381-859e-84eef199138f/svn/norwall-wallpaper-rolls-pr33802-64_600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PR33845 | Floral Prints 2 Neutral Small Floral Wallpaper - Norwall">
+                                <img itemprop="contentUrl url" src='http://mahoneswallpapershop.com/cdn/shop/products/ShowProductImage_0b969050-f1bb-49cc-8c5d-f2e0aa1fc43b.jpg?v=1666277862' alt='PR33845 | Floral Prints 2 Neutral Small Floral Wallpaper - Norwall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mahone's Wallpaper Shop" />
+                                </span>
+                                <a href='http://mahoneswallpapershop.com/cdn/shop/products/ShowProductImage_0b969050-f1bb-49cc-8c5d-f2e0aa1fc43b.jpg?v=1666277862' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="PR33825 | Floral Prints 2 Pink Small Floral Wallpaper - Norwall">
+                                <img itemprop="contentUrl url" src='http://mahoneswallpapershop.com/cdn/shop/products/ShowProductImage_db727f1f-0279-4199-8669-b36043065823.jpg?v=1666277906' alt='PR33825 | Floral Prints 2 Pink Small Floral Wallpaper - Norwall'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mahone's Wallpaper Shop" />
+                                </span>
+                                <a href='http://mahoneswallpapershop.com/cdn/shop/products/ShowProductImage_db727f1f-0279-4199-8669-b36043065823.jpg?v=1666277906' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Miniature Roses - Rouge Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='http://mitchellblack.com/cdn/shop/products/WC410-RG_MiniatureRose_Rouge.jpg?v=1661046808' alt='Miniature Roses - Rouge Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Mitchell Black" />
+                                </span>
+                                <a href='http://mitchellblack.com/cdn/shop/products/WC410-RG_MiniatureRose_Rouge.jpg?v=1661046808' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Delicate Floral Wallpaper">
+                                <img itemprop="contentUrl url" src='https://cdn.totalwallcovering.com/product/delicate-floral-wallpaper-ntiz-l.jpg' alt='Delicate Floral Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Total Wallcovering" />
+                                </span>
+                                <a href='https://cdn.totalwallcovering.com/product/delicate-floral-wallpaper-ntiz-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Small Pink Floral Wallpaper, Antique Victorian Rose Vine, Shabby ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/8274094/r/il/597cbb/2185701627/il_1080xN.2185701627_oeom.jpg' alt='Small Pink Floral Wallpaper, Antique Victorian Rose Vine, Shabby ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1093">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/8274094/r/il/597cbb/2185701627/il_1080xN.2185701627_oeom.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Black Delicate Small Floral & Leaf Illustrated Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.wallpaperboulevard.com/Images/product/black-delicate-small-floral-leaf-illust-zynn-l.jpg' alt='Black Delicate Small Floral & Leaf Illustrated Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Boulevard" />
+                                </span>
+                                <a href='https://www.wallpaperboulevard.com/Images/product/black-delicate-small-floral-leaf-illust-zynn-l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Schumacher Margie Floral Rose Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.decoratorsbest.com/cdn/shop/files/6884897652782.jpg?v=1714036555' alt='Schumacher Margie Floral Rose Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DecoratorsBest" />
+                                </span>
+                                <a href='https://www.decoratorsbest.com/cdn/shop/files/6884897652782.jpg?v=1714036555' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

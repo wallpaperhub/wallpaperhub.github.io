@@ -1,0 +1,129 @@
+<title>Stunning Northern Lights Wallpaper for iPhone</title>
+                    <meta name="description" content="Discover beautiful northern lights wallpaper for your iPhone! Choose from a variety of breathtaking aurora borealis designs that will make your device glow. Perfect for turning your phone into a stunning display of nature's wonder. Download your favorite wallpaper now and enjoy the magic!">
+                    <meta name="keywords" content="northern lights wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/northern-lights-wallpaper-iphone">
+                            <span itemprop="name">northern lights wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Northern Lights Wallpaper for iPhone</h1>
+                <p>Transform your iPhone with stunning northern lights wallpaper! Experience the ethereal beauty of the aurora borealis right on your screen. Our collection features vibrant colors and breathtaking designs that will mesmerize you every time you check your phone. Elevate your device’s look with these enchanting scenes today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Snow Fall Northern Lights iPhone Wallpaper HD">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/06/2f/be/062fbe1f920544fbc8192959459516eb.jpg' alt='Snow Fall Northern Lights iPhone Wallpaper HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/06/2f/be/062fbe1f920544fbc8192959459516eb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   Northern Lights iPhone Wallpapers on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/a0/dd/83/a0dd8320d4827ceec0f5ff273262bdc2.jpg' alt='   Northern Lights iPhone Wallpapers on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/a0/dd/83/a0dd8320d4827ceec0f5ff273262bdc2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone 4k Northern Lights Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/iphone-4k-northern-lights-of0738khibo3c8eh.jpg' alt='Iphone 4k Northern Lights Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1536">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/iphone-4k-northern-lights-of0738khibo3c8eh.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Northern Lights Sky Wallpaper | iPhone">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/phone/images/download/northern-lights-sky.png' alt='Northern Lights Sky Wallpaper | iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/phone/images/download/northern-lights-sky.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aurora Borealis Wallpaper 4K, Night, Northern Lights, Mountains">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/aurora-borealis-northern-lights-night-mountains-cold-lake-1242x2208-292.jpg' alt='Aurora Borealis Wallpaper 4K, Night, Northern Lights, Mountains'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1242">
+                                <meta itemprop="height" content="2208">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/aurora-borealis-northern-lights-night-mountains-cold-lake-1242x2208-292.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper Weekends: Northern Lights Wallpaper for Mac, iPhone ...">
+                                <img itemprop="contentUrl url" src='https://www.mactrast.com/wp-content/uploads/2018/07/jeff-l-735108-unsplash_iPhone.jpg' alt='Wallpaper Weekends: Northern Lights Wallpaper for Mac, iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MacTrast" />
+                                </span>
+                                <a href='https://www.mactrast.com/wp-content/uploads/2018/07/jeff-l-735108-unsplash_iPhone.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD northern lights iphone wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/328/25/HD-wallpaper-aurora-borealis-snow-night-iphone-green-northern-lights-thumbnail.jpg' alt='HD northern lights iphone wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="694">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/328/25/HD-wallpaper-aurora-borealis-snow-night-iphone-green-northern-lights-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Winter Northern Lights iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6b/9f/03/6b9f03915c2576dc584401607fdf10c9.jpg' alt='Winter Northern Lights iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6b/9f/03/6b9f03915c2576dc584401607fdf10c9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Aurora Borealis Wallpaper 4K, Scenic, Northern Lights">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/aurora-borealis-northern-lights-mountain-range-night-time-1320x2868-5938.jpg' alt='Aurora Borealis Wallpaper 4K, Scenic, Northern Lights'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1320">
+                                <meta itemprop="height" content="2868">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/aurora-borealis-northern-lights-mountain-range-night-time-1320x2868-5938.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mountains, peak, northern lights, lake, lights, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/579/553/HD-wallpaper-mountains-peak-northern-lights-lake-lights.jpg' alt='Mountains, peak, northern lights, lake, lights, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/579/553/HD-wallpaper-mountains-peak-northern-lights-lake-lights.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Stunning 4K Pumpkin Wallpapers for Fall Decor</title>
+                    <meta name="description" content="Explore our collection of high-quality 4K pumpkin wallpapers! Perfect for adding autumn charm to your device, these vibrant images capture the essence of fall. Download now and enjoy the beauty of pumpkins anytime, anywhere!">
+                    <meta name="keywords" content="pumpkin wallpaper 4k">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k">
+                            <span itemprop="name">4K</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/4k/pumpkin-wallpaper-4k">
+                            <span itemprop="name">pumpkin wallpaper 4k</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning 4K Pumpkin Wallpapers for Fall Decor</h1>
+                <p>Transform your space with stunning 4K pumpkin wallpaper! Ideal for fall enthusiasts, these vibrant and high-resolution images bring the warm colors of autumn right into your home. Perfect for any device, our collection features whimsical designs that celebrate the season, setting the perfect backdrop for cozy gatherings or festive décor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Pumpkins Wallpapers (36 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/1/a/8/2169075-3840x2160-desktop-4k-halloween-pumpkins-background-image.jpg' alt='Halloween Pumpkins Wallpapers (36 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/1/a/8/2169075-3840x2160-desktop-4k-halloween-pumpkins-background-image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Food Pumpkin 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/749/749172.jpg' alt='Download Food Pumpkin 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="7360">
+                                <meta itemprop="height" content="4906">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/749/749172.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Pumpkin Holiday Halloween 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images6.alphacoders.com/878/878788.jpg' alt='Download Pumpkin Holiday Halloween 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="6000">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images6.alphacoders.com/878/878788.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Jack O Lantern Pumpkin Head Decoration Ultra HD Poster ...">
+                                <img itemprop="contentUrl url" src='https://render.fineartamerica.com/images/rendered/default/poster/8/4.5/break/images/artworkimages/medium/2/halloween-jack-o-lantern-pumpkin-head-decoration-ultra-hd-hi-res.jpg' alt='Halloween Jack O Lantern Pumpkin Head Decoration Ultra HD Poster ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="599">
+                                <meta itemprop="height" content="337">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixels" />
+                                </span>
+                                <a href='https://render.fineartamerica.com/images/rendered/default/poster/8/4.5/break/images/artworkimages/medium/2/halloween-jack-o-lantern-pumpkin-head-decoration-ultra-hd-hi-res.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pumpkins Autumn October - Free photo on Pixabay">
+                                <img itemprop="contentUrl url" src='https://cdn.pixabay.com/photo/2019/10/23/19/52/pumpkins-4572698_1280.jpg' alt='Pumpkins Autumn October - Free photo on Pixabay'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="853">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pixabay" />
+                                </span>
+                                <a href='https://cdn.pixabay.com/photo/2019/10/23/19/52/pumpkins-4572698_1280.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Spooky Pumpkins Wallpaper Background Images, HD Pictures and ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20240625/pngtree-new-halloween-4k-wallpaper-hd-pumpkin-celebration-spooky-image_15923216.jpg' alt='Spooky Pumpkins Wallpaper Background Images, HD Pictures and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20240625/pngtree-new-halloween-4k-wallpaper-hd-pumpkin-celebration-spooky-image_15923216.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pumpkin Wallpapers HD Free Download">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7f/9d/95/7f9d95a289e4e122e0c7638b461bfd48.jpg' alt='Pumpkin Wallpapers HD Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7f/9d/95/7f9d95a289e4e122e0c7638b461bfd48.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Harvest: Stunning 4K Ultra HD Pumpkin Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/294/294030.jpg' alt='Halloween Harvest: Stunning 4K Ultra HD Pumpkin Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3870">
+                                <meta itemprop="height" content="2430">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/294/294030.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Halloween Pumpkins 4k Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp7558470.jpg' alt='Halloween Pumpkins 4k Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp7558470.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Orange pumpkins, harvest, background with pumpkins, halloween ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/486/111/HD-wallpaper-orange-pumpkins-harvest-background-with-pumpkins-halloween-autumn-harvest-pumpkins.jpg' alt='Orange pumpkins, harvest, background with pumpkins, halloween ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/486/111/HD-wallpaper-orange-pumpkins-harvest-background-with-pumpkins-halloween-autumn-harvest-pumpkins.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

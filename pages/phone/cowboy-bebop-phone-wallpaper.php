@@ -1,0 +1,129 @@
+<title>Cowboy Bebop Phone Wallpapers: Stylish Backgrounds for Fans</title>
+                    <meta name="description" content="Explore our collection of Cowboy Bebop phone wallpapers, perfect for anime fans! Find high-quality images of characters and iconic scenes that enhance your mobile experience. Download now and give your phone a stylish, personalized touch with the essence of this classic series!">
+                    <meta name="keywords" content="cowboy bebop phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/cowboy-bebop-phone-wallpaper">
+                            <span itemprop="name">cowboy bebop phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cowboy Bebop Phone Wallpapers: Stylish Backgrounds for Fans</h1>
+                <p>Discover stunning Cowboy Bebop phone wallpapers that bring the iconic anime series to life on your device! Choose from a diverse range of high-quality images featuring beloved characters like Spike, Faye, and Jet, as well as breathtaking space scenes. Customize your phone with art that ignites nostalgia and sets a cool vibe.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone Wallpapers : r/cowboybebop">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/phone-wallpapers-v0-3xe74unlxhib1.jpg?width=1170&format=pjpg&auto=webp&s=a727d16a68927851f9f9a265e56486b35c346029' alt='Phone Wallpapers : r/cowboybebop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1170">
+                                <meta itemprop="height" content="2532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/phone-wallpapers-v0-3xe74unlxhib1.jpg?width=1170&format=pjpg&auto=webp&s=a727d16a68927851f9f9a265e56486b35c346029' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="i made a phone wallpaper of swordfish : r/cowboybebop">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/y33myfdg5ab51.jpg' alt='i made a phone wallpaper of swordfish : r/cowboybebop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2408">
+                                <meta itemprop="height" content="4276">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/y33myfdg5ab51.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Awesome Cowboy Bebop iPhone Wallpapers - WallpaperAccess">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b5/ce/37/b5ce373b62cf974afa49d432cf506a9f.jpg' alt='Awesome Cowboy Bebop iPhone Wallpapers - WallpaperAccess'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b5/ce/37/b5ce373b62cf974afa49d432cf506a9f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="See you space cowboy iPhone 11 Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/e7/48/66/e7486649f4b7f0ee1474ec91c5a493f1.jpg' alt='See you space cowboy iPhone 11 Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/e7/48/66/e7486649f4b7f0ee1474ec91c5a493f1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cowboy Bebop, anime, space, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/344/643/HD-wallpaper-cowboy-bebop-anime-space.jpg' alt='Cowboy Bebop, anime, space, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1116">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/344/643/HD-wallpaper-cowboy-bebop-anime-space.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="See you space cowboy…” Cowboy Bebop wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/b4/35/fc/b435fc50829985a42198d2bbbc814a62.jpg' alt='See you space cowboy…” Cowboy Bebop wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/b4/35/fc/b435fc50829985a42198d2bbbc814a62.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made a wallpaper! : r/cowboybebop">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/yyrfu952zde21.png' alt='I made a wallpaper! : r/cowboybebop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="4500">
+                                <meta itemprop="height" content="8000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/yyrfu952zde21.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cowboy Bebop Setting Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/cowboy-bebop-black-and-white-ezak8xdef73mon2o.webp' alt='Cowboy Bebop Setting Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/cowboy-bebop-black-and-white-ezak8xdef73mon2o.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Cowboy Bebop Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cowboy-bebop-iphone-h172ae39z58invy1.jpg' alt='200+] Cowboy Bebop Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1408">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cowboy-bebop-iphone-h172ae39z58invy1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I wanted to use this wallpaper i found, but i couldn't get any HD ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/gmbhaf75y3271.png' alt='I wanted to use this wallpaper i found, but i couldn't get any HD ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/gmbhaf75y3271.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

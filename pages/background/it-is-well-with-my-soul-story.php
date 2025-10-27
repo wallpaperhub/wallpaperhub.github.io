@@ -1,0 +1,129 @@
+<title>It Is Well With My Soul: The Heartfelt Story Behind the Hymn</title>
+                    <meta name="description" content="Discover the poignant story behind the hymn "It Is Well With My Soul." Explore Horatio Spafford's journey through tragedy and faith, learning how he transformed sorrow into a timeless anthem of hope and peace. A tale that continues to inspire and uplift souls worldwide.">
+                    <meta name="keywords" content="it is well with my soul story">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/it-is-well-with-my-soul-story">
+                            <span itemprop="name">it is well with my soul story</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>It Is Well With My Soul: The Heartfelt Story Behind the Hymn</h1>
+                <p>The story behind "It Is Well With My Soul" is deeply inspiring. Written by Horatio Spafford in the late 19th century, it emerged from profound personal tragedy, including the loss of his children. Despite his heartbreak, Spafford found solace in faith, creating a hymn that resonates with many for its themes of peace and hope amidst sorrow.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="It Is Well: The Story of Horatio and Anna Spafford: Penwell, Troi:  9781726183512: Amazon.com: Books">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61VA7KFugxL._AC_UF1000,1000_QL80_.jpg' alt='It Is Well: The Story of Horatio and Anna Spafford: Penwell, Troi:  9781726183512: Amazon.com: Books'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61VA7KFugxL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Story Behind "It is Well with My Soul": A History of the ...">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/1795/6337/files/Horatio_Spafford_It_is_Well_with_my_Soul.png?v=1682446058' alt='The Story Behind "It is Well with My Soul": A History of the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Imperfect Dust" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/1795/6337/files/Horatio_Spafford_It_is_Well_with_my_Soul.png?v=1682446058' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Story Behind “It Is Well With My Soul” — SEELE">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/56ab801cfb36b1abca0e6c12/1594067447030-4RWA6NPLVW94C3LFO9GR/Horation+quote.png' alt='The Story Behind “It Is Well With My Soul” — SEELE'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="974">
+                                <meta itemprop="height" content="545">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="seele" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/56ab801cfb36b1abca0e6c12/1594067447030-4RWA6NPLVW94C3LFO9GR/Horation+quote.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="It Is Well With My Soul: Horatio Spafford's Story (Paperback)">
+                                <img itemprop="contentUrl url" src='https://i5.walmartimages.com/seo/It-Is-Well-With-My-Soul-Horatio-Spafford-s-Story-Paperback-9781716408106_d3380d65-0663-4c73-b2e1-b22cf2429cce.8452a508539751a6e642dcc736dd6bf4.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' alt='It Is Well With My Soul: Horatio Spafford's Story (Paperback)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="768">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walmart" />
+                                </span>
+                                <a href='https://i5.walmartimages.com/seo/It-Is-Well-With-My-Soul-Horatio-Spafford-s-Story-Paperback-9781716408106_d3380d65-0663-4c73-b2e1-b22cf2429cce.8452a508539751a6e642dcc736dd6bf4.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Behind the Hymn – It Is Well With My Soul – Memoir of a Writer">
+                                <img itemprop="contentUrl url" src='https://thememoirofawriter.com/wp-content/uploads/2017/09/80386ccf-7b23-4653-8c46-070a3cbccba8.png' alt='Behind the Hymn – It Is Well With My Soul – Memoir of a Writer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Memoir of a Writer" />
+                                </span>
+                                <a href='https://thememoirofawriter.com/wp-content/uploads/2017/09/80386ccf-7b23-4653-8c46-070a3cbccba8.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="It is well with my soul — Hymnology Archive">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5b11858da2772cf01402ee6e/1626362883079-LO27DSWVARTR6381BSRG/waitingformornin00auth_orig_0048a.jpg' alt='It is well with my soul — Hymnology Archive'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2014">
+                                <meta itemprop="height" content="2797">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hymnology Archive" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5b11858da2772cf01402ee6e/1626362883079-LO27DSWVARTR6381BSRG/waitingformornin00auth_orig_0048a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="It Is Well With My Soul: The True Story of the Writings of the ...">
+                                <img itemprop="contentUrl url" src='https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1530808719i/38903010.jpg' alt='It Is Well With My Soul: The True Story of the Writings of the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3366">
+                                <meta itemprop="height" content="2886">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Goodreads" />
+                                </span>
+                                <a href='https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1530808719i/38903010.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="It Is Well With My Soul: Horatio Spafford's Story (Paperback ...">
+                                <img itemprop="contentUrl url" src='https://images.booksense.com/images/106/408/9781716408106.jpg' alt='It Is Well With My Soul: Horatio Spafford's Story (Paperback ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="267">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DIESEL, A Bookstore" />
+                                </span>
+                                <a href='https://images.booksense.com/images/106/408/9781716408106.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="It Is Well | The Tragic Story Behind the Amazing Hymn | Horatio Spafford">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/9lQ5ApL3UqI/maxresdefault.jpg' alt='It Is Well | The Tragic Story Behind the Amazing Hymn | Horatio Spafford'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/9lQ5ApL3UqI/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Story Behind "It is Well with My Soul": A History of the ...">
+                                <img itemprop="contentUrl url" src='http://imperfectdust.com/cdn/shop/articles/The_Story_Behind_It_is_Well_with_My_Soul_A_History_of_the_Beloved_Hymn-2_1200x1200.png?v=1682446250' alt='The Story Behind "It is Well with My Soul": A History of the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Imperfect Dust" />
+                                </span>
+                                <a href='http://imperfectdust.com/cdn/shop/articles/The_Story_Behind_It_is_Well_with_My_Soul_A_History_of_the_Beloved_Hymn-2_1200x1200.png?v=1682446250' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

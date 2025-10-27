@@ -1,0 +1,129 @@
+<title>Transform Your Bathroom with Stylish Wallpaper Tiles</title>
+                    <meta name="description" content="Discover the beauty of wallpaper tiles for your bathroom. These stylish, water-resistant options come in various patterns and textures, perfect for creating a unique and modern space. Explore design ideas to elevate your bathroom decor today!">
+                    <meta name="keywords" content="wallpaper tiles for bathroom">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom">
+                            <span itemprop="name">Bathroom</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/bathroom/wallpaper-tiles-for-bathroom">
+                            <span itemprop="name">wallpaper tiles for bathroom</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Transform Your Bathroom with Stylish Wallpaper Tiles</h1>
+                <p>Wallpaper tiles for bathrooms offer an innovative and stylish way to enhance your space. They provide a water-resistant option that adds character and personality, allowing for endless design possibilities. With a variety of patterns and textures available, you can easily create a cozy and modern vibe in your bathroom while ensuring durability.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper and tile combinations that pair beautifully for a ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/erinkestenbaum.com/wp-content/uploads/2021/03/UM5A8671-Edit.jpg?fit=3840%2C5760&ssl=1' alt='Wallpaper and tile combinations that pair beautifully for a ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="5760">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Erin Kestenbaum" />
+                                </span>
+                                <a href='https://i0.wp.com/erinkestenbaum.com/wp-content/uploads/2021/03/UM5A8671-Edit.jpg?fit=3840%2C5760&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12-Sheet Grey Peel and Stick Wallpaper, Subway Tile 6''x12'' Self Adhesive  Wall Tiles Waterproof PVC Stick on Backsplash Vinyl Decorative Tiles ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81tnC-5j0LL._AC_UF894,1000_QL80_.jpg' alt='12-Sheet Grey Peel and Stick Wallpaper, Subway Tile 6''x12'' Self Adhesive  Wall Tiles Waterproof PVC Stick on Backsplash Vinyl Decorative Tiles ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81tnC-5j0LL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stunning Wallpaper and Tile Half Bathroom Transformation ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/growingupkemper.com/wp-content/uploads/2024/04/IMG_1686.jpg?fit=3024%2C4032&ssl=1' alt='Stunning Wallpaper and Tile Half Bathroom Transformation ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3024">
+                                <meta itemprop="height" content="4032">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Growing Up Kemper" />
+                                </span>
+                                <a href='https://i0.wp.com/growingupkemper.com/wp-content/uploads/2024/04/IMG_1686.jpg?fit=3024%2C4032&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="62+Bathroom Wallpaper Ideas (NEUTRAL & COLORFUL) - Wallpapers">
+                                <img itemprop="contentUrl url" src='https://st.hzcdn.com/simgs/pictures/bathrooms/kohler-kohler-img~63f1fd1d07573762_14-7682-1-bcdc1c5.jpg' alt='62+Bathroom Wallpaper Ideas (NEUTRAL & COLORFUL) - Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2400">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backsplash.com" />
+                                </span>
+                                <a href='https://st.hzcdn.com/simgs/pictures/bathrooms/kohler-kohler-img~63f1fd1d07573762_14-7682-1-bcdc1c5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ornamental Tile Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='https://tempaper.com/cdn/shop/products/OT15079-blue-ornamental-tile-peel-stick-wallpaper-bathroom_6aa2599a-6dd3-4327-aa5e-9ddf2a7ab2ee_1800x1800.jpg?v=1674753372' alt='Ornamental Tile Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='https://tempaper.com/cdn/shop/products/OT15079-blue-ornamental-tile-peel-stick-wallpaper-bathroom_6aa2599a-6dd3-4327-aa5e-9ddf2a7ab2ee_1800x1800.jpg?v=1674753372' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ceramic Wallpaper and Wallpaper Effect Tiles">
+                                <img itemprop="contentUrl url" src='https://www.novoceram.com/wp-content/uploads/sites/4/2022/02/ceramic_wallpaper_for_bathroom.jpg' alt='Ceramic Wallpaper and Wallpaper Effect Tiles'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Novoceram" />
+                                </span>
+                                <a href='https://www.novoceram.com/wp-content/uploads/sites/4/2022/02/ceramic_wallpaper_for_bathroom.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12-Sheet White Peel and Stick Wallpaper, Subway Tile 6''x12'' Self Adhesive  Wall Tiles Waterproof PVC Stick on Backsplash Vinyl Decorative Tiles ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/71GTNvadDkL.jpg' alt='12-Sheet White Peel and Stick Wallpaper, Subway Tile 6''x12'' Self Adhesive  Wall Tiles Waterproof PVC Stick on Backsplash Vinyl Decorative Tiles ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/71GTNvadDkL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Floral Tile Adhesive Removable Wallpaper | Walls By Me">
+                                <img itemprop="contentUrl url" src='http://wallsbyme.com/cdn/shop/products/tile_adhesive_27785717_02-sw_1200x1200.jpg?v=1612231200' alt='Blue Floral Tile Adhesive Removable Wallpaper | Walls By Me'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Walls By Me" />
+                                </span>
+                                <a href='http://wallsbyme.com/cdn/shop/products/tile_adhesive_27785717_02-sw_1200x1200.jpg?v=1612231200' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="13 Stylish Ways to Redecorate with Wallpaper and Tile">
+                                <img itemprop="contentUrl url" src='https://cdn.shopify.com/s/files/1/2395/6385/files/01-tile-club-house-of-jade-wallpaper.jpg?v=1626381007' alt='13 Stylish Ways to Redecorate with Wallpaper and Tile'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tile Club" />
+                                </span>
+                                <a href='https://cdn.shopify.com/s/files/1/2395/6385/files/01-tile-club-house-of-jade-wallpaper.jpg?v=1626381007' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mosaic Tile Peel and Stick Wallpaper">
+                                <img itemprop="contentUrl url" src='http://tempaper.com/cdn/shop/products/HD598-MosaicTiles-Grey-Bathroom_9238134c-2c30-412a-a17e-c7fe02d38855.jpg?v=1675433666' alt='Mosaic Tile Peel and Stick Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tempaper" />
+                                </span>
+                                <a href='http://tempaper.com/cdn/shop/products/HD598-MosaicTiles-Grey-Bathroom_9238134c-2c30-412a-a17e-c7fe02d38855.jpg?v=1675433666' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

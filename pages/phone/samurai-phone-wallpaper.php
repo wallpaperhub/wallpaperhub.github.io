@@ -1,0 +1,129 @@
+<title>Stunning Samurai Phone Wallpapers for Your Device</title>
+                    <meta name="description" content="Discover a captivating collection of samurai phone wallpapers that blend tradition with modern aesthetics. Perfectly crafted to enhance your device's look, these wallpapers embody the spirit of honor and bravery. Download now to elevate your mobile experience with striking imagery!">
+                    <meta name="keywords" content="samurai phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/samurai-phone-wallpaper">
+                            <span itemprop="name">samurai phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Samurai Phone Wallpapers for Your Device</h1>
+                <p>Transform your device with stunning samurai phone wallpapers that capture the essence of honor and tradition. Featuring vibrant designs and intricate details, our collection elevates your screen aesthetic while honoring the legendary warriors of Japan. Explore fierce warriors and serene landscapes for a unique backdrop.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Free Mobile Phone Wallpaper Samurai - 7050 - GSMintro.net">
+                                <img itemprop="contentUrl url" src='https://gsmintro.net/user/images/wallpaper_images/2025/01/2/gsmintro.net_samurai_7050.jpg' alt='Download Free Mobile Phone Wallpaper Samurai - 7050 - GSMintro.net'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1472">
+                                <meta itemprop="height" content="2616">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="gsmintro" />
+                                </span>
+                                <a href='https://gsmintro.net/user/images/wallpaper_images/2025/01/2/gsmintro.net_samurai_7050.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Samurai phone wallpapers amoled">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8a/b4/02/8ab4029592099e19bd46fd274e1120a3.jpg' alt='Samurai phone wallpapers amoled'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8a/b4/02/8ab4029592099e19bd46fd274e1120a3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Samurai Wallpaper Phone by DarkPrayer93 on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b5b02aff-00b5-4f53-ad26-ae8636fcbf69/d80d0ev-57c308be-7923-45b8-87fa-7eea9af9d627.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I1YjAyYWZmLTAwYjUtNGY1My1hZDI2LWFlODYzNmZjYmY2OVwvZDgwZDBldi01N2MzMDhiZS03OTIzLTQ1YjgtODdmYS03ZWVhOWFmOWQ2MjcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.qkkhrqio8_ksSlW3kamwyH2rMgwokkajD5srN1Q-l_M' alt='Samurai Wallpaper Phone by DarkPrayer93 on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b5b02aff-00b5-4f53-ad26-ae8636fcbf69/d80d0ev-57c308be-7923-45b8-87fa-7eea9af9d627.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I1YjAyYWZmLTAwYjUtNGY1My1hZDI2LWFlODYzNmZjYmY2OVwvZDgwZDBldi01N2MzMDhiZS03OTIzLTQ1YjgtODdmYS03ZWVhOWFmOWQ2MjcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.qkkhrqio8_ksSlW3kamwyH2rMgwokkajD5srN1Q-l_M' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Samurai wallpaper by Inferno_123 - Download on ZEDGE™ | 6534">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/58/6e/2d/586e2dc31c960c3b5195a151aae96634.jpg' alt='Samurai wallpaper by Inferno_123 - Download on ZEDGE™ | 6534'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/58/6e/2d/586e2dc31c960c3b5195a151aae96634.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Some Samurai Wallpapers : r/phonewallpapers">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/gypm6dp79it71.jpg?width=640&crop=smart&auto=webp&s=384228348fca5fe5985eb34b732a02be5bf27636' alt='Some Samurai Wallpapers : r/phonewallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1137">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/gypm6dp79it71.jpg?width=640&crop=smart&auto=webp&s=384228348fca5fe5985eb34b732a02be5bf27636' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Samurai Phone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/890/890323.jpg' alt='Samurai Phone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/890/890323.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Samurai - Top 30 Best Samurai, Samurayi, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/507/911/HD-wallpaper-samurai-top-30-best-samurai-samurayi.jpg' alt='Samurai - Top 30 Best Samurai, Samurayi, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/507/911/HD-wallpaper-samurai-top-30-best-samurai-samurayi.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Most Popular Samurai iPhone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/iphone/hd-wallpaper-samurai-iphone-sky-ninja-china-samsung-18-10-2024-1729296756-hd-wallpaper.jpg' alt='Most Popular Samurai iPhone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/iphone/hd-wallpaper-samurai-iphone-sky-ninja-china-samsung-18-10-2024-1729296756-hd-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="47 Ronin Samurai Wallpaper for Phone">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/download/phone-backgrounds/47-ronin-samurai.png' alt='47 Ronin Samurai Wallpaper for Phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/download/phone-backgrounds/47-ronin-samurai.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazing 4k Wallpaper For iPhones">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/bf/50/ab/bf50ab80c1b2015d78b0a193ec42f2b3.jpg' alt='Amazing 4k Wallpaper For iPhones'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/bf/50/ab/bf50ab80c1b2015d78b0a193ec42f2b3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

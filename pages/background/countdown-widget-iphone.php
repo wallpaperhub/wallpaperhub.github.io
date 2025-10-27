@@ -1,0 +1,129 @@
+<title>Countdown Widget for iPhone: Stay On Track!</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="countdown widget iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/countdown-widget-iphone">
+                            <span itemprop="name">countdown widget iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Countdown Widget for iPhone: Stay On Track!</h1>
+                <p>Stay organized and keep track of important events with a countdown widget for your iPhone. These customizable widgets offer a quick glance at upcoming birthdays, holidays, or special occasions. Easily manage your schedule, receive notifications, and make every moment count. Download one today and elevate your productivity!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to add countdown widgets on your iPhone">
+                                <img itemprop="contentUrl url" src='https://prettyprogress.app/images/countdown-home-screen-add_1.webp' alt='How to add countdown widgets on your iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="876">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pretty Progress" />
+                                </span>
+                                <a href='https://prettyprogress.app/images/countdown-home-screen-add_1.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to add countdown widgets on iPhone's Lock Screen">
+                                <img itemprop="contentUrl url" src='https://prettyprogress.app/images/countdown-home-screen-add_2.webp' alt='How to add countdown widgets on iPhone's Lock Screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="848">
+                                <meta itemprop="height" content="972">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pretty Progress" />
+                                </span>
+                                <a href='https://prettyprogress.app/images/countdown-home-screen-add_2.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Create a Countdown Widget in iOS 14 | Lifehacker">
+                                <img itemprop="contentUrl url" src='https://lifehacker.com/imagery/articles/01HF2GNM6RDNJWTTQG0RFZJ8PY/hero-image.fill.size_1248x702.v1699836025.jpg' alt='How to Create a Countdown Widget in iOS 14 | Lifehacker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1248">
+                                <meta itemprop="height" content="702">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lifehacker" />
+                                </span>
+                                <a href='https://lifehacker.com/imagery/articles/01HF2GNM6RDNJWTTQG0RFZJ8PY/hero-image.fill.size_1248x702.v1699836025.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="We added Lock Screen Widgets to our countdown app!! : r/iOSWidgets">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/we-added-lock-screen-widgets-to-our-countdown-app-v0-zfal9shinvra1.jpg?auto=webp&s=1fa918898b416752766287759c5de3a2b452d906' alt='We added Lock Screen Widgets to our countdown app!! : r/iOSWidgets'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/we-added-lock-screen-widgets-to-our-countdown-app-v0-zfal9shinvra1.jpg?auto=webp&s=1fa918898b416752766287759c5de3a2b452d906' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to Create a Countdown Widget in iOS 14 | Lifehacker">
+                                <img itemprop="contentUrl url" src='https://lifehacker.com/imagery/articles/01HF2GNM6RDNJWTTQG0RFZJ8PY/images-1.fill.size_435x750.v1699836025.jpg' alt='How to Create a Countdown Widget in iOS 14 | Lifehacker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="435">
+                                <meta itemprop="height" content="750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lifehacker" />
+                                </span>
+                                <a href='https://lifehacker.com/imagery/articles/01HF2GNM6RDNJWTTQG0RFZJ8PY/images-1.fill.size_435x750.v1699836025.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HOW TO CREATE A COUNTDOWN WIDGET | aesthetic ios14 home screen on ...">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/pAvzNiSAdZU/sddefault.jpg' alt='HOW TO CREATE A COUNTDOWN WIDGET | aesthetic ios14 home screen on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/pAvzNiSAdZU/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to add countdown widgets on your iPhone">
+                                <img itemprop="contentUrl url" src='https://uploads-ssl.webflow.com/61b2d327c2d695270bc6df5c/66850711b126bc30bb1e04fa_open-graph-image-countdown.webp' alt='How to add countdown widgets on your iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pretty Progress" />
+                                </span>
+                                <a href='https://uploads-ssl.webflow.com/61b2d327c2d695270bc6df5c/66850711b126bc30bb1e04fa_open-graph-image-countdown.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How to add countdown widgets on your iPhone Home Screen">
+                                <img itemprop="contentUrl url" src='https://framerusercontent.com/images/sIZrvBIrdsqqFRCYAKXkI3YyPo.webp' alt='How to add countdown widgets on your iPhone Home Screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="744">
+                                <meta itemprop="height" content="1510">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Outside" />
+                                </span>
+                                <a href='https://framerusercontent.com/images/sIZrvBIrdsqqFRCYAKXkI3YyPo.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="This app can put live countdown widgets on your iPhone's Home ...">
+                                <img itemprop="contentUrl url" src='https://cdn.mos.cms.futurecdn.net/hMhBmfVARJaqq6xyqCQPTL.jpg' alt='This app can put live countdown widgets on your iPhone's Home ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1493">
+                                <meta itemprop="height" content="633">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iMore" />
+                                </span>
+                                <a href='https://cdn.mos.cms.futurecdn.net/hMhBmfVARJaqq6xyqCQPTL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How To Add A Countdown Widget On iPhone - YouTube">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/qz6uOykvN3A/sddefault.jpg' alt='How To Add A Countdown Widget On iPhone - YouTube'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/qz6uOykvN3A/sddefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

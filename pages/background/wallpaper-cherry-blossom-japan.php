@@ -1,0 +1,129 @@
+<title>Cherry Blossom Wallpaper: Celebrate Japan's Beauty</title>
+                    <meta name="description" content="Discover the beauty of cherry blossom wallpaper inspired by Japan. Elevate your home or office decor with these elegant designs that capture the essence of sakura season, bringing tranquility and beauty to your space. Perfect for any room, easy to install!">
+                    <meta name="keywords" content="wallpaper cherry blossom japan">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/wallpaper-cherry-blossom-japan">
+                            <span itemprop="name">wallpaper cherry blossom japan</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cherry Blossom Wallpaper: Celebrate Japan's Beauty</h1>
+                <p>Transform your space with stunning cherry blossom wallpaper inspired by Japan’s enchanting sakura season. Perfect for adding a touch of elegance and serenity to any room, these wallpapers capture the beauty of delicate pink blooms against tranquil backdrops. Ideal for home, office, or creative spaces.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Japanese Cherry Blossom Pictures [HD] | Download Free Images on ...">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1616573763278-d61c05bb2e70?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8amFwYW5lc2UlMjBjaGVycnklMjBibG9zc29tfGVufDB8fDB8fHww' alt='Japanese Cherry Blossom Pictures [HD] | Download Free Images on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4495">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1616573763278-d61c05bb2e70?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8amFwYW5lc2UlMjBjaGVycnklMjBibG9zc29tfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cherry Blossoms in Japan">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/07/af/2d/07af2dbd6576be3ec8f8d7bac736e7c7.jpg' alt='Cherry Blossoms in Japan'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1104">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/07/af/2d/07af2dbd6576be3ec8f8d7bac736e7c7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cherry Blossoms in Japan. [1920x1080] : r/wallpapers">
+                                <img itemprop="contentUrl url" src='http://i.imgur.com/dlYCTDy.jpg' alt='Cherry Blossoms in Japan. [1920x1080] : r/wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='http://i.imgur.com/dlYCTDy.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Photo Wallpaper – Cherry Blossom – Picture Decoration Spring Tree ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91-IqnDkv6L._AC_UF894,1000_QL80_.jpg' alt='Photo Wallpaper – Cherry Blossom – Picture Decoration Spring Tree ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="594">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.ca" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91-IqnDkv6L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cherry tree in Japan - Desktop Nexus Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/df/ee/ab/dfeeabddb08aa76ad84205f746e95432.jpg' alt='Cherry tree in Japan - Desktop Nexus Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="253">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/df/ee/ab/dfeeabddb08aa76ad84205f746e95432.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Japanese Cherry Blossom Pictures [HD] | Download Free Images on ...">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1614913069635-47fcc6781232?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8amFwYW5lc2UlMjBjaGVycnklMjBibG9zc29tfGVufDB8fDB8fHww' alt='Japanese Cherry Blossom Pictures [HD] | Download Free Images on ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4495">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1614913069635-47fcc6781232?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8amFwYW5lc2UlMjBjaGVycnklMjBibG9zc29tfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A Breathtaking View Of A Japanese Cherry Blossom In Full ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/japan-cherry-blossom-7680-x-4320-4ne2279mpwqtbyee.jpg' alt='Download A Breathtaking View Of A Japanese Cherry Blossom In Full ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/japan-cherry-blossom-7680-x-4320-4ne2279mpwqtbyee.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Japanese Cherry Blossom Smartphone Wallpapers — Barrettish">
+                                <img itemprop="contentUrl url" src='https://static1.squarespace.com/static/53146b23e4b060dc36b6746a/t/5cba139aeef1a182f2364f97/1555698662738/kayabacho-cherry-blossoms-2019-01B-wallpaper.jpg?format=2500w' alt='Free Japanese Cherry Blossom Smartphone Wallpapers — Barrettish'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Barrett Ishida" />
+                                </span>
+                                <a href='https://static1.squarespace.com/static/53146b23e4b060dc36b6746a/t/5cba139aeef1a182f2364f97/1555698662738/kayabacho-cherry-blossoms-2019-01B-wallpaper.jpg?format=2500w' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Japan's Cherry Blossom Wallpapers | by Barrett Ishida | Medium">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1400/1*yuUqwV0-vNedNOp_d6v5wg.png' alt='Japan's Cherry Blossom Wallpapers | by Barrett Ishida | Medium'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1400/1*yuUqwV0-vNedNOp_d6v5wg.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sakura Street in Tokyo is straight-up breathtaking during cherry ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3446302068358796783' alt='Sakura Street in Tokyo is straight-up breathtaking during cherry ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Instagram" />
+                                </span>
+                                <a href='https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3446302068358796783' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

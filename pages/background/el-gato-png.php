@@ -1,0 +1,129 @@
+<title>Descarga Gratis Imágenes de Gatos PNG</title>
+                    <meta name="description" content="Encuentra imágenes de gatos en formato PNG para proyectos creativos. Con fondos transparentes, estas imágenes son perfectas para sitios web, blogs y redes sociales. Descarga ahora y añade un toque especial a tu contenido visual con adorables gatos en PNG.">
+                    <meta name="keywords" content="el gato png">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/el-gato-png">
+                            <span itemprop="name">el gato png</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Descarga Gratis Imágenes de Gatos PNG</h1>
+                <p>El gato PNG es un formato de imagen ideal para utilizar en proyectos digitales. Su transparencia permite integrarlo fácilmente en diferentes fondos, ya sea en sitios web, presentaciones o redes sociales. Descarga imágenes de gatos en PNG para agregar un toque divertido y atractivo a tu contenido visual.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="El gato.png by tergelbarymagnai on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0b6e49a9-24c9-4c13-b872-65631f373dc1/dgeir3f-7717f2bc-cb16-4197-ae6a-a60d850ca254.jpg/v1/fill/w_894,h_894,q_70,strp/el_gato_png_by_tergelbarymagnai_dgeir3f-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcLzBiNmU0OWE5LTI0YzktNGMxMy1iODcyLTY1NjMxZjM3M2RjMVwvZGdlaXIzZi03NzE3ZjJiYy1jYjE2LTQxOTctYWU2YS1hNjBkODUwY2EyNTQuanBnIiwid2lkdGgiOiI8PTEwODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.W-KN1-Bbuajg6Tq48KTT-gUcOiw5U0M36iPzSh5eBP8' alt='El gato.png by tergelbarymagnai on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0b6e49a9-24c9-4c13-b872-65631f373dc1/dgeir3f-7717f2bc-cb16-4197-ae6a-a60d850ca254.jpg/v1/fill/w_894,h_894,q_70,strp/el_gato_png_by_tergelbarymagnai_dgeir3f-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcLzBiNmU0OWE5LTI0YzktNGMxMy1iODcyLTY1NjMxZjM3M2RjMVwvZGdlaXIzZi03NzE3ZjJiYy1jYjE2LTQxOTctYWU2YS1hNjBkODUwY2EyNTQuanBnIiwid2lkdGgiOiI8PTEwODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.W-KN1-Bbuajg6Tq48KTT-gUcOiw5U0M36iPzSh5eBP8' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="El Gato | Roblox Evade Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/evade-nextbot/images/c/c1/ElGato_transparent.png/revision/latest/scale-to-width-down/250?cb=20230123085032' alt='El Gato | Roblox Evade Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="493">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Roblox Evade Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/evade-nextbot/images/c/c1/ElGato_transparent.png/revision/latest/scale-to-width-down/250?cb=20230123085032' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="El gato teacher.png by tergelbarymagnai on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0b6e49a9-24c9-4c13-b872-65631f373dc1/dgeir4e-7971fadf-c04f-450a-ad85-7b6395e2ae1e.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzBiNmU0OWE5LTI0YzktNGMxMy1iODcyLTY1NjMxZjM3M2RjMVwvZGdlaXI0ZS03OTcxZmFkZi1jMDRmLTQ1MGEtYWQ4NS03YjYzOTVlMmFlMWUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.98b35SyRgzYd63eWibIeR1jYCUYkZMbaMzAeobVZRHc' alt='El gato teacher.png by tergelbarymagnai on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DeviantArt" />
+                                </span>
+                                <a href='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0b6e49a9-24c9-4c13-b872-65631f373dc1/dgeir4e-7971fadf-c04f-450a-ad85-7b6395e2ae1e.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzBiNmU0OWE5LTI0YzktNGMxMy1iODcyLTY1NjMxZjM3M2RjMVwvZGdlaXI0ZS03OTcxZmFkZi1jMDRmLTQ1MGEtYWQ4NS03YjYzOTVlMmFlMWUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.98b35SyRgzYd63eWibIeR1jYCUYkZMbaMzAeobVZRHc' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="El Gato | Sticker">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.3650316753.9119/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='El Gato | Sticker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.3650316753.9119/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="El Gato | Sticker">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.3594027088.0527/raf,360x360,075,t,fafafa:ca443f4786.jpg' alt='El Gato | Sticker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.3594027088.0527/raf,360x360,075,t,fafafa:ca443f4786.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cat (el gato) | Pin">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.3497608305.1619/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='cat (el gato) | Pin'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.3497608305.1619/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="El Gato Cute Cat Foto Patch Animal Sweet Kitten Embroidered Iron On">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/7171kjeif6L._AC_UF894,1000_QL80_.jpg' alt='El Gato Cute Cat Foto Patch Animal Sweet Kitten Embroidered Iron On'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="605">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/7171kjeif6L._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cat (el gato) | Sticker">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.3497551140.1619/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='cat (el gato) | Sticker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.3497551140.1619/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Elgato Gaming Logo transparent PNG - StickPNG">
+                                <img itemprop="contentUrl url" src='https://assets.stickpng.com/images/5e90aabac7c8f9000434dd9a.png' alt='Elgato Gaming Logo transparent PNG - StickPNG'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="725">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StickPNG" />
+                                </span>
+                                <a href='https://assets.stickpng.com/images/5e90aabac7c8f9000434dd9a.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="el Gato : r/drawing">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/vya6dln6lvk91.png?width=640&crop=smart&auto=webp&s=ba264fd1a1eeb1003a4aa56fe6de84b6211a2af9' alt='el Gato : r/drawing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/vya6dln6lvk91.png?width=640&crop=smart&auto=webp&s=ba264fd1a1eeb1003a4aa56fe6de84b6211a2af9' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

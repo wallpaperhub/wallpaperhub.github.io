@@ -1,0 +1,129 @@
+<title>Stunning Versace Wallpapers for iPhone - Elevate Your Style!</title>
+                    <meta name="description" content="Discover luxurious Versace wallpapers for your iPhone that blend style and sophistication. Enhance your device's look with iconic designs that reflect your fashion sense. Explore the collection and give your phone a chic upgrade today!">
+                    <meta name="keywords" content="versace wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/versace-wallpaper-iphone">
+                            <span itemprop="name">versace wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning Versace Wallpapers for iPhone - Elevate Your Style!</h1>
+                <p>Transform your iPhone with stunning Versace wallpapers that exude elegance and luxury. Featuring iconic patterns and bold colors, these wallpapers are perfect for fashion enthusiasts looking to make a statement. Elevate your device's aesthetic and showcase your style with unique designs that embody the spirit of Versace.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Versace Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/versace-iphone-qzt0evwm8emt663l.jpg' alt='100+] Versace Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/versace-iphone-qzt0evwm8emt663l.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Adriano Patricio on adriano | Xiaomi wallpapers, Original ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3e/b6/d6/3eb6d65e46bc5c0445bc4e263e1553e9.jpg' alt='Pin by Adriano Patricio on adriano | Xiaomi wallpapers, Original ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1305">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3e/b6/d6/3eb6d65e46bc5c0445bc4e263e1553e9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="24 Designer: Versace Wallpapers ideas | versace wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/92/77/52/9277520c7390dada805ae49d1aa5841e.jpg' alt='24 Designer: Versace Wallpapers ideas | versace wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="842">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/92/77/52/9277520c7390dada805ae49d1aa5841e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Versace Black And Gold Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/versace-black-and-gold-iphone-dib3fgso989ghvza.jpg' alt='Versace Black And Gold Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="934">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/versace-black-and-gold-iphone-dib3fgso989ghvza.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="VERSACE Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/c4/00/7c/c4007c8b4da778d001dbd7ed49836c89.jpg' alt='VERSACE Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/c4/00/7c/c4007c8b4da778d001dbd7ed49836c89.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Official Versace Medusa Logo Emblem Black — Download Free iPhone ...">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/iphone/official-versace-medusa-logo-emblem-black-12-10-2024-1728725346-hd-wallpaper.jpg' alt='Official Versace Medusa Logo Emblem Black — Download Free iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1644">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/iphone/official-versace-medusa-logo-emblem-black-12-10-2024-1728725346-hd-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Versace Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/versace-iphone-cl8wahjypbs0c60n.jpg' alt='100+] Versace Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="616">
+                                <meta itemprop="height" content="979">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/versace-iphone-cl8wahjypbs0c60n.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="SUNU Store">
+                                <img itemprop="contentUrl url" src='https://wallpaperboat.com/wp-content/uploads/2019/06/versace-1.jpg' alt='SUNU Store'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SUNU Store" />
+                                </span>
+                                <a href='https://wallpaperboat.com/wp-content/uploads/2019/06/versace-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Versace Discover more Accessories, Company, Fashion ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/752/136/HD-wallpaper-background-versace-discover-more-accessories-company-fashion-gianni-versace-italian-in-2022-versace-graffiti-iphone-fashion-black-company.jpg' alt='Background Versace Discover more Accessories, Company, Fashion ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1423">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/752/136/HD-wallpaper-background-versace-discover-more-accessories-company-fashion-gianni-versace-italian-in-2022-versace-graffiti-iphone-fashion-black-company.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Versace Logo Gold — Download Free iPad Wallpapers">
+                                <img itemprop="contentUrl url" src='https://applescoop.org/image/wallpapers/ipad/versace-logo-gold-29-09-2024-1727595867-hd-wallpaper.jpeg' alt='Versace Logo Gold — Download Free iPad Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="4446">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Apple Scoop" />
+                                </span>
+                                <a href='https://applescoop.org/image/wallpapers/ipad/versace-logo-gold-29-09-2024-1727595867-hd-wallpaper.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

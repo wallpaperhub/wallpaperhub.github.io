@@ -1,0 +1,129 @@
+<title>Funky Flower Wallpaper: Vibrant Designs for Every Space</title>
+                    <meta name="description" content="Discover funky flower wallpaper that adds a splash of color and creativity to your home. Explore bold patterns and vibrant designs that elevate your decor, making every space uniquely yours. Perfect for transforming any room, shop now for exciting floral wallpaper ideas!">
+                    <meta name="keywords" content="funky flower wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flower">
+                            <span itemprop="name">Flower</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/flower/funky-flower-wallpaper">
+                            <span itemprop="name">funky flower wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Funky Flower Wallpaper: Vibrant Designs for Every Space</h1>
+                <p>Transform your space with funky flower wallpaper that brings vibrancy and charm to any room. Perfect for bedrooms, living areas, or creative studios, these designs combine bold colors and unique floral patterns. Let your walls blossom with personality and style, making a statement that resonates with your individual flair.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funky flower">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/funky-flower-pattern-repeat-removable-wallpaper-design.jpg' alt='Funky flower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/funky-flower-pattern-repeat-removable-wallpaper-design.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funky Floral Fabric, Wallpaper and Home Decor | Spoonflower">
+                                <img itemprop="contentUrl url" src='https://garden.spoonflower.com/c/16165635/p/f/m/bWOKk99TRPZdqlKmTNr9EU64QqwlIBaPeRgoTxgnlNzqap-aanNx/Cheerful%20Daisy%20Design%20-%20Mid%20Scale.jpg' alt='Funky Floral Fabric, Wallpaper and Home Decor | Spoonflower'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="294">
+                                <meta itemprop="height" content="294">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spoonflower" />
+                                </span>
+                                <a href='https://garden.spoonflower.com/c/16165635/p/f/m/bWOKk99TRPZdqlKmTNr9EU64QqwlIBaPeRgoTxgnlNzqap-aanNx/Cheerful%20Daisy%20Design%20-%20Mid%20Scale.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funky floral">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/funky-floral-pattern-repeat-removable-wallpaper-design.jpg' alt='Funky floral'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/funky-floral-pattern-repeat-removable-wallpaper-design.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funky Flowers Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/hand-drawn-groovy-flower-pattern_23-2150986218.jpg' alt='Funky Flowers Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/hand-drawn-groovy-flower-pattern_23-2150986218.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sunset Flower Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/28/0e/6c/280e6c24a258e42b8018aa73c97d638e.jpg' alt='Sunset Flower Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="1058">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/28/0e/6c/280e6c24a258e42b8018aa73c97d638e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Flower Wallpaper Design Stock Illustration - Illustration of ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/z/retro-flower-wallpaper-design-21481695.jpg' alt='Retro Flower Wallpaper Design Stock Illustration - Illustration of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1293">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/z/retro-flower-wallpaper-design-21481695.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b8/4c/49/b84c49a16ca814a240854b9c3f6c3408.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b8/4c/49/b84c49a16ca814a240854b9c3f6c3408.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="70s seamless vector pattern with vintage daisy or camomile groovy ...">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/05/21/23/10/1000_F_521231010_vALVRXRH1tJbRm3vsjRvaWcOEpMkO5kg.jpg' alt='70s seamless vector pattern with vintage daisy or camomile groovy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/05/21/23/10/1000_F_521231010_vALVRXRH1tJbRm3vsjRvaWcOEpMkO5kg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Funky Floral Retro Wallpaper, Daisy Wallpaper, Accent Retro ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/36729687/r/il/99901c/4332974913/il_570xN.4332974913_2qjf.jpg' alt='Funky Floral Retro Wallpaper, Daisy Wallpaper, Accent Retro ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/36729687/r/il/99901c/4332974913/il_570xN.4332974913_2qjf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vector illustration of multicolored funky flowers abstract pattern ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/E87RME/vector-illustration-of-multicolored-funky-flowers-abstract-pattern-E87RME.jpg' alt='Vector illustration of multicolored funky flowers abstract pattern ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="1009">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/E87RME/vector-illustration-of-multicolored-funky-flowers-abstract-pattern-E87RME.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

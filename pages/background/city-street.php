@@ -1,0 +1,129 @@
+<title>Explore the Vibrant Pulse of City Streets</title>
+                    <meta name="description" content="Discover the dynamic energy of city streets, where diverse cultures meet, and daily adventures unfold. Experience the blend of sights, sounds, and flavors that make urban life unique and captivating. Perfect for wanderers and city enthusiasts alike!">
+                    <meta name="keywords" content="city street">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/city-street">
+                            <span itemprop="name">city street</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Vibrant Pulse of City Streets</h1>
+                <p>A city street buzzes with life, filled with pedestrians, cyclists, and cars weaving gracefully among shops and cafés. Street performers add flair, while the aroma of food wafts through the air. Skyscrapers tower above, framing a vibrant urban landscape where cultures blend seamlessly, making every stroll an adventure of sights and sounds.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,675,400+ City Street Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1628010210/photo/empty-streets-and-sidewalks-of-soho-are-eerily-quiet-during-the-2020-coronavirus-pandemic.jpg?s=612x612&w=0&k=20&c=U-ErR7AfusWWLr-BZOxZlGWaeki4Bx3jNNc2EN2xSz8=' alt='2,675,400+ City Street Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="371">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1628010210/photo/empty-streets-and-sidewalks-of-soho-are-eerily-quiet-during-the-2020-coronavirus-pandemic.jpg?s=612x612&w=0&k=20&c=U-ErR7AfusWWLr-BZOxZlGWaeki4Bx3jNNc2EN2xSz8=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Empty Streets of a Still City — Beervana">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/5876279bbebafb82a7c81c00/1586712390788-SJW56COD8GF6IZT50S18/Adjustments.jpeg' alt='The Empty Streets of a Still City — Beervana'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2222">
+                                <meta itemprop="height" content="1481">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Beervana" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/5876279bbebafb82a7c81c00/1586712390788-SJW56COD8GF6IZT50S18/Adjustments.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Public Works | City of Fremont, CA Official Website">
+                                <img itemprop="contentUrl url" src='https://www.fremont.gov/home/showpublishedimage/6775/638078300235330000' alt='Public Works | City of Fremont, CA Official Website'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="City of Fremont" />
+                                </span>
+                                <a href='https://www.fremont.gov/home/showpublishedimage/6775/638078300235330000' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Poster, Print New York City street road in Manhattan at summer time,  40x26.7 cm">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/v2/jpg/01/53/24/06/1000_F_153240633_iTL2FpCwzu5KJPdU4cotBAvObaovWWO4.jpg' alt='Poster, Print New York City street road in Manhattan at summer time,  40x26.7 cm'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Abposters.com" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/v2/jpg/01/53/24/06/1000_F_153240633_iTL2FpCwzu5KJPdU4cotBAvObaovWWO4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="City Street">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/54929/city-street.jpg?h=699&q=85' alt='City Street'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1049">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/54929/city-street.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="City Street Downtown Royalty Free Photo">
+                                <img itemprop="contentUrl url" src='https://negativespace.co/wp-content/uploads/2021/04/negative-space-city-street-view-476x708.jpg' alt='City Street Downtown Royalty Free Photo'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="476">
+                                <meta itemprop="height" content="708">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NegativeSpace" />
+                                </span>
+                                <a href='https://negativespace.co/wp-content/uploads/2021/04/negative-space-city-street-view-476x708.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,270,926 City Street Stock Photos, High-Res Pictures, and Images ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1475073978/photo/street-in-manhattan-downtown-with-crysler-building-new-york-city-usa.jpg?s=612x612&w=gi&k=20&c=_uQkpVjbShQzUiXCAfat7dgK-05zhjZ6pJhGI7jlYqw=' alt='2,270,926 City Street Stock Photos, High-Res Pictures, and Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1475073978/photo/street-in-manhattan-downtown-with-crysler-building-new-york-city-usa.jpg?s=612x612&w=gi&k=20&c=_uQkpVjbShQzUiXCAfat7dgK-05zhjZ6pJhGI7jlYqw=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How NYC can create pedestrian-friendly streets during coronavirus ...">
+                                <img itemprop="contentUrl url" src='https://cdn.vox-cdn.com/thumbor/bQzTI1QiGVU5cNjNatkzBWSQtEc=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/19909387/200408_12_40_44__7R42999.jpg' alt='How NYC can create pedestrian-friendly streets during coronavirus ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1050">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Curbed NY" />
+                                </span>
+                                <a href='https://cdn.vox-cdn.com/thumbor/bQzTI1QiGVU5cNjNatkzBWSQtEc=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/19909387/200408_12_40_44__7R42999.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="270+ City Street Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1672097247804-add051dcd682?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2l0eSUyMHN0cmVldHxlbnwwfHwwfHx8MA%3D%3D' alt='270+ City Street Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2004">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1672097247804-add051dcd682?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2l0eSUyMHN0cmVldHxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="21,400+ New York City Street At Night Stock Photos, Pictures ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/509980631/photo/42nd-street-at-night-new-york-city-usa.jpg?s=612x612&w=0&k=20&c=kYQ-4VY9bPJSJqmywnrUaM1qtr6IBmbBLkJuoXRnRJI=' alt='21,400+ New York City Street At Night Stock Photos, Pictures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/509980631/photo/42nd-street-at-night-new-york-city-usa.jpg?s=612x612&w=0&k=20&c=kYQ-4VY9bPJSJqmywnrUaM1qtr6IBmbBLkJuoXRnRJI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

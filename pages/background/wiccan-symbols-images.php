@@ -1,0 +1,129 @@
+<title>Discover Wiccan Symbols: Meanings & Images</title>
+                    <meta name="description" content="Explore the fascinating world of Wiccan symbols and their rich meanings. From the pentacle to the triple goddess symbol, learn how these images enhance rituals and deepen your spiritual practice in Wicca. Uncover the power behind these mystical symbols today!">
+                    <meta name="keywords" content="wiccan symbols images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/wiccan-symbols-images">
+                            <span itemprop="name">wiccan symbols images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover Wiccan Symbols: Meanings & Images</h1>
+                <p>Wiccan symbols are powerful images that hold deep meanings in the practice of Wicca. Common symbols include the pentacle, representing earth, air, fire, and water, and the triple goddess symbol, embodying maiden, mother, and crone. These images serve as tools for focus and intention, enhancing spiritual rituals and connections.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wicca Symbols Svg, Pagan Symbols, Triple Moon, Friendship Svg ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/34061963/r/il/26823d/5769979297/il_fullxfull.5769979297_tjk8.jpg' alt='Wicca Symbols Svg, Pagan Symbols, Triple Moon, Friendship Svg ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="3000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/34061963/r/il/26823d/5769979297/il_fullxfull.5769979297_tjk8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com : 12 X 12-inch (6 in 1) Wiccan Witch Symbols Stencil Spiral  Goddess, Pentagram, Triple Moon, Triquetras! : Arts, Crafts & Sewing">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/710cAXgZWsL.jpg' alt='Amazon.com : 12 X 12-inch (6 in 1) Wiccan Witch Symbols Stencil Spiral  Goddess, Pentagram, Triple Moon, Triquetras! : Arts, Crafts & Sewing'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/710cAXgZWsL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wiccan Symbol Images – Browse 38,540 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/51/16/07/360_F_451160728_lcsjFoqHMoZuSRcFcTHxMRx5ZVCyuWSv.jpg' alt='Wiccan Symbol Images – Browse 38,540 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="455">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/51/16/07/360_F_451160728_lcsjFoqHMoZuSRcFcTHxMRx5ZVCyuWSv.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wiccan / Pagan Symbols Clip Art Vector - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18965388/r/il/31b2b1/1740770317/il_fullxfull.1740770317_4dv8.jpg' alt='Wiccan / Pagan Symbols Clip Art Vector - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18965388/r/il/31b2b1/1740770317/il_fullxfull.1740770317_4dv8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pagan Witchcraft Symbols (Wicca) : r/chiliadmystery">
+                                <img itemprop="contentUrl url" src='https://external-preview.redd.it/dxSRhWA6SfYG76qIn0PaBy33pC1wp9-6S_DWENJ5isQ.jpg?auto=webp&s=e8bc43a0869cba98401f71902e378c63588b42c3' alt='Pagan Witchcraft Symbols (Wicca) : r/chiliadmystery'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="615">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://external-preview.redd.it/dxSRhWA6SfYG76qIn0PaBy33pC1wp9-6S_DWENJ5isQ.jpg?auto=webp&s=e8bc43a0869cba98401f71902e378c63588b42c3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/c9/77/61/c977610603a3dc2092679bea2f5c5ada.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="512">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/c9/77/61/c977610603a3dc2092679bea2f5c5ada.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wiccan Symbols – Spells8">
+                                <img itemprop="contentUrl url" src='https://spells8.com/wp-content/uploads/2019/08/Wiccan-Symbols-meaning.jpg' alt='Wiccan Symbols – Spells8'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="935">
+                                <meta itemprop="height" content="630">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spells8" />
+                                </span>
+                                <a href='https://spells8.com/wp-content/uploads/2019/08/Wiccan-Symbols-meaning.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wiccan Symbols Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/023/809/407/non_2x/mystical-moon-phases-tree-of-life-and-wicca-pentacle-sacred-geometry-logo-triple-moon-half-moon-pagan-wiccan-goddess-symbol-energy-circle-boho-style-isolated-on-white-background-vector.jpg' alt='Wiccan Symbols Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1225">
+                                <meta itemprop="height" content="980">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/023/809/407/non_2x/mystical-moon-phases-tree-of-life-and-wicca-pentacle-sacred-geometry-logo-triple-moon-half-moon-pagan-wiccan-goddess-symbol-energy-circle-boho-style-isolated-on-white-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wiccan symbols set Royalty Free Vector Image - VectorStock">
+                                <img itemprop="contentUrl url" src='https://cdn.vectorstock.com/i/1000v/37/58/wiccan-symbols-set-vector-1613758.jpg' alt='Wiccan symbols set Royalty Free Vector Image - VectorStock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="907">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="VectorStock" />
+                                </span>
+                                <a href='https://cdn.vectorstock.com/i/1000v/37/58/wiccan-symbols-set-vector-1613758.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Top List Wicca And Pagan Symbols that Every Witch Should Know | by ...">
+                                <img itemprop="contentUrl url" src='https://miro.medium.com/v2/resize:fit:1000/0*IbNmSb0RLzqThsdY' alt='Top List Wicca And Pagan Symbols that Every Witch Should Know | by ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="342">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WITCHCRAFT101 - Medium" />
+                                </span>
+                                <a href='https://miro.medium.com/v2/resize:fit:1000/0*IbNmSb0RLzqThsdY' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

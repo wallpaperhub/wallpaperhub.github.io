@@ -1,0 +1,129 @@
+<title>Unearth the Chilling Background of Scary Movies</title>
+                    <meta name="description" content="Discover the gripping history and elements that shape scary movies. Explore how they mirror society's fears, using suspenseful soundtracks, haunting visuals, and notorious villains to create an unforgettable atmosphere of horror. Delve into the world of terror that keeps audiences on edge!">
+                    <meta name="keywords" content="scary movie background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/scary-movie-background">
+                            <span itemprop="name">scary movie background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Unearth the Chilling Background of Scary Movies</h1>
+                <p>Scary movies have a rich and chilling background that often reflects cultural fears and societal anxieties. From psychological thrillers to supernatural horror, these films utilize suspenseful music, unsettling visuals, and dark themes to evoke fear. Iconic elements like haunted houses, eerie forests, and notorious villains play a pivotal role in crafting an atmosphere of dread and tension.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Horror Party Decorations, Horror Classic Movie Character Photo  Backdrop Large Horror Birthday Background Supplies for Kids Adults ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/8187tV2rAkL.jpg' alt='Amazon.com: Horror Party Decorations, Horror Classic Movie Character Photo  Backdrop Large Horror Birthday Background Supplies for Kids Adults ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/8187tV2rAkL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="750+ Horror Movie Background Stock Illustrations, Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1492685467/vector/halloween-grave-background.jpg?s=612x612&w=0&k=20&c=ug0HfzbIn0K-07SBZObweUcf2TYxCf6LkMuXLwy4bhI=' alt='750+ Horror Movie Background Stock Illustrations, Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="351">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1492685467/vector/halloween-grave-background.jpg?s=612x612&w=0&k=20&c=ug0HfzbIn0K-07SBZObweUcf2TYxCf6LkMuXLwy4bhI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Long dark hallway. Horror scene. Walking down scary horror corridor. Zombie  movie scene. Stock Footage Video">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1453786819/video/long-dark-hallway-horror-scene-walking-down-scary-horror-corridor-zombie-movie-scene.jpg?s=640x640&k=20&c=mog-02jcn-5iqZavF2yGl6Mw4paVutYj1BxgvyEjVnI=' alt='Long dark hallway. Horror scene. Walking down scary horror corridor. Zombie  movie scene. Stock Footage Video'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1453786819/video/long-dark-hallway-horror-scene-walking-down-scary-horror-corridor-zombie-movie-scene.jpg?s=640x640&k=20&c=mog-02jcn-5iqZavF2yGl6Mw4paVutYj1BxgvyEjVnI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="background for horror movie Stock Photo | Adobe Stock">
+                                <img itemprop="contentUrl url" src='https://as1.ftcdn.net/jpg/04/04/74/68/1000_F_404746807_FY3rNdZ5erACaevrjxJJgTZgDZwesNux.jpg' alt='background for horror movie Stock Photo | Adobe Stock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="662">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="background for horror movie Stock Photo | Adobe Stock" />
+                                </span>
+                                <a href='https://as1.ftcdn.net/jpg/04/04/74/68/1000_F_404746807_FY3rNdZ5erACaevrjxJJgTZgDZwesNux.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Halloween Backdrop Horror Movie Tapestry, Scary Wall ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81LBB9SJhxL.jpg' alt='Amazon.com: Halloween Backdrop Horror Movie Tapestry, Scary Wall ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1800">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81LBB9SJhxL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CORFOTO 5x4ft Fabric Bloody Halloween Backdrop Horror Bloody Metal Wall  Background Murder Crime Scene Decorations Zombie Theme Party Scary Movie ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/81Uv5F3uEQL._AC_UF894,1000_QL80_.jpg' alt='CORFOTO 5x4ft Fabric Bloody Halloween Backdrop Horror Bloody Metal Wall  Background Murder Crime Scene Decorations Zombie Theme Party Scary Movie ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="637">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/81Uv5F3uEQL._AC_UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="200+] Horror Movie Backgrounds | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/horror-movie-background-rcg5jqxgj4llhhvz.jpg' alt='200+] Horror Movie Backgrounds | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="526">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/horror-movie-background-rcg5jqxgj4llhhvz.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100 Scary movie wallpaper ideas | scary movies, horror movie art ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/36/be/f1/36bef1fede99c535f7a3177fb03cf724.jpg' alt='100 Scary movie wallpaper ideas | scary movies, horror movie art ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="465">
+                                <meta itemprop="height" content="599">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/36/be/f1/36bef1fede99c535f7a3177fb03cf724.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="4k Creepy Corridor. Clean Version stock video 1398688562">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1398688562/video/4k-creepy-corridor-clean-version.jpg?s=640x640&k=20&c=5uVLCvWvs4F0S9VWUKo2ZbCTVt1uU59CoR-qRNp_Euk=' alt='4k Creepy Corridor. Clean Version stock video 1398688562'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="432">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1398688562/video/4k-creepy-corridor-clean-version.jpg?s=640x640&k=20&c=5uVLCvWvs4F0S9VWUKo2ZbCTVt1uU59CoR-qRNp_Euk=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="27+ Scary Backgrounds, Wallpapers, Images, Pictures">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8e/84/57/8e845779ed03e59058601efcb7ca2b0d.jpg' alt='27+ Scary Backgrounds, Wallpapers, Images, Pictures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="460">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8e/84/57/8e845779ed03e59058601efcb7ca2b0d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

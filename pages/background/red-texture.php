@@ -1,0 +1,129 @@
+<title>Dynamic Red Texture: Elevate Your Designs</title>
+                    <meta name="description" content="Discover the captivating world of red texture! Explore how vibrant hues of red can transform your designs, infusing them with energy and elegance. Perfect for fashion or interior decor, learn to incorporate red texture for a bold statement. Explore tips and inspiration for your creative projects!">
+                    <meta name="keywords" content="red texture">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/red-texture">
+                            <span itemprop="name">red texture</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Dynamic Red Texture: Elevate Your Designs</h1>
+                <p>Red texture captivates with its vibrant allure, evoking passion, warmth, and energy. From the rich hues of crimson to the subtle shades of burgundy, red textures can enhance any design, adding depth and dimension. Whether in fashion or interior decor, red texture embodies boldness and elegance, making a striking statement in every context.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="750+ Red Texture Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1568535904307-f48b760a39f3?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmVkJTIwdGV4dHVyZXxlbnwwfHwwfHx8MA%3D%3D' alt='750+ Red Texture Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="1688">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1568535904307-f48b760a39f3?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmVkJTIwdGV4dHVyZXxlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Metal Digital Background Texture - Modern Dark Black + Red ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/28921914/r/il/d609d7/3871586228/il_fullxfull.3871586228_47zp.jpg' alt='Red Metal Digital Background Texture - Modern Dark Black + Red ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/28921914/r/il/d609d7/3871586228/il_fullxfull.3871586228_47zp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Texture Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/002/202/061/small/red-abstract-textured-grunge-web-background-vector.jpg' alt='Red Texture Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="388">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/002/202/061/small/red-abstract-textured-grunge-web-background-vector.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Texture Images – Browse 15,244,183 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/53/81/05/360_F_453810576_0TuCFTlEPxaQ4sx2eqOzKDlFyIZc3BF9.jpg' alt='Red Texture Images – Browse 15,244,183 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="890">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/53/81/05/360_F_453810576_0TuCFTlEPxaQ4sx2eqOzKDlFyIZc3BF9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="248,900+ Shiny Red Texture Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1356779269/photo/christmas-red-foil-paper-glitter-background-aluminum-silk-shiny-ombre-award-texture-retro.jpg?s=612x612&w=0&k=20&c=RjF4rcgNvBol9-zKT3OrkhjcxXs4ENOO_BlMXQ_qs-Y=' alt='248,900+ Shiny Red Texture Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1356779269/photo/christmas-red-foil-paper-glitter-background-aluminum-silk-shiny-ombre-award-texture-retro.jpg?s=612x612&w=0&k=20&c=RjF4rcgNvBol9-zKT3OrkhjcxXs4ENOO_BlMXQ_qs-Y=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vibrant Abstract Red Texture A Captivating Background Option ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/wp/202344/vibrant-abstract-red-texture-a-captivating-background-option_9921297.jpg!bw700' alt='Vibrant Abstract Red Texture A Captivating Background Option ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/wp/202344/vibrant-abstract-red-texture-a-captivating-background-option_9921297.jpg!bw700' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Red Texture Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/red-paint-wall-background-texture_53876-14184.jpg' alt='Dark Red Texture Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="418">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/red-paint-wall-background-texture_53876-14184.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Deep red plastic with cell like pattern | Free Textures">
+                                <img itemprop="contentUrl url" src='https://everytexture.com/wp-content/uploads/2018/10/everytexture.com-stock-plastic-texture-00020.jpg' alt='Deep red plastic with cell like pattern | Free Textures'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2448">
+                                <meta itemprop="height" content="3264">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="EveryTexture.com" />
+                                </span>
+                                <a href='https://everytexture.com/wp-content/uploads/2018/10/everytexture.com-stock-plastic-texture-00020.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Red Texture Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/90/13/ec/9013ecef72e6db6e93252f38f46d2753.jpg' alt='Red Texture Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="490">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/90/13/ec/9013ecef72e6db6e93252f38f46d2753.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Texture light red background">
+                                <img itemprop="contentUrl url" src='https://files.123freevectors.com/wp-content/original/120924-abstract-cool-red-texture-background.jpg' alt='Texture light red background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="kp-photo.co.jp" />
+                                </span>
+                                <a href='https://files.123freevectors.com/wp-content/original/120924-abstract-cool-red-texture-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Emu Otori: A Sustainable Future</title>
+                    <meta name="description" content="Explore Emu Otori, where tradition meets sustainability! Discover how this innovative concept harnesses the resilience of the emu to promote eco-friendly practices and strengthen local communities. Join the movement for a greener future today!">
+                    <meta name="keywords" content="emu otori">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/emu-otori">
+                            <span itemprop="name">emu otori</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Emu Otori: A Sustainable Future</h1>
+                <p>Emu Otori is a fascinating concept that combines modern technology with traditional practices. Originating in the Australian Outback, it emphasizes sustainability and harmony with nature. The emu, a flightless bird, symbolizes resilience and adaptability. Emu Otori promotes eco-friendly initiatives, enhancing local ecosystems and enriching communities.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Otori Emu - Sekaipedia">
+                                <img itemprop="contentUrl url" src='https://static.wikitide.net/projectsekaiwiki/thumb/7/7f/Emu_V2.png/1200px-Emu_V2.png' alt='Otori Emu - Sekaipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sekaipedia" />
+                                </span>
+                                <a href='https://static.wikitide.net/projectsekaiwiki/thumb/7/7f/Emu_V2.png/1200px-Emu_V2.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Otori Emu | Project SEKAI Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/projectsekai/images/5/5d/Emu.png/revision/latest?cb=20231002174446' alt='Otori Emu | Project SEKAI Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1750">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Project SEKAI Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/projectsekai/images/5/5d/Emu.png/revision/latest?cb=20231002174446' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Count Otori Has Arrived! Emu Otori cosplay i made for Halloween ...">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/count-otori-has-arrived-emu-otori-cosplay-i-made-for-v0-jtdq5ib1equb1.png?width=640&crop=smart&auto=webp&s=e8c31584a47f43babeaabbb46b5bbd507761d732' alt='Count Otori Has Arrived! Emu Otori cosplay i made for Halloween ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="394">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/count-otori-has-arrived-emu-otori-cosplay-i-made-for-v0-jtdq5ib1equb1.png?width=640&crop=smart&auto=webp&s=e8c31584a47f43babeaabbb46b5bbd507761d732' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="emu otori | Nico's Nextbots Fanmade Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/nicos-nextbots-fanmade/images/5/5d/Otori.png/revision/latest?cb=20231010004523' alt='emu otori | Nico's Nextbots Fanmade Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="420">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Nico's Nextbots Fanmade Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/nicos-nextbots-fanmade/images/5/5d/Otori.png/revision/latest?cb=20231010004523' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Otori Emu – JapanimeHunter">
+                                <img itemprop="contentUrl url" src='http://japanimehunter.com/cdn/shop/collections/Happy_Birthday21_29_transparent_948c44d9-d835-472f-89cc-3d442db7ca08.webp?v=1695753847' alt='Otori Emu – JapanimeHunter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="824">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="JapanimeHunter" />
+                                </span>
+                                <a href='http://japanimehunter.com/cdn/shop/collections/Happy_Birthday21_29_transparent_948c44d9-d835-472f-89cc-3d442db7ca08.webp?v=1695753847' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Otori Emu/Gallery - Sekaipedia">
+                                <img itemprop="contentUrl url" src='https://static.wikitide.net/projectsekaiwiki/thumb/5/57/Emu_School_Uniform_%28Brand_New_World%29_chibi.png/180px-Emu_School_Uniform_%28Brand_New_World%29_chibi.png' alt='Otori Emu/Gallery - Sekaipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="180">
+                                <meta itemprop="height" content="180">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sekaipedia" />
+                                </span>
+                                <a href='https://static.wikitide.net/projectsekaiwiki/thumb/5/57/Emu_School_Uniform_%28Brand_New_World%29_chibi.png/180px-Emu_School_Uniform_%28Brand_New_World%29_chibi.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="꒰ ⋆♫ ˚ ̟    Emu Otori ! ! ꒱">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/66/57/db/6657dbac5f574acf883e2087d4ab5214.jpg' alt='꒰ ⋆♫ ˚ ̟    Emu Otori ! ! ꒱'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/66/57/db/6657dbac5f574acf883e2087d4ab5214.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Otori Emu - Project Sekai Hatsune Miku Colorful Stage Chibi Plush">
+                                <img itemprop="contentUrl url" src='https://miokiishop.com/cdn/shop/files/435187425_1585684518895111_1421707222199786257_n_1_1946x.jpg?v=1713478427' alt='Otori Emu - Project Sekai Hatsune Miku Colorful Stage Chibi Plush'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1946">
+                                <meta itemprop="height" content="1946">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Miokii Shop" />
+                                </span>
+                                <a href='https://miokiishop.com/cdn/shop/files/435187425_1585684518895111_1421707222199786257_n_1_1946x.jpg?v=1713478427' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Get to Know The Fun Character Emu Otori with ChatFAI">
+                                <img itemprop="contentUrl url" src='https://chatfai.com/blog/wp-content/uploads/2024/08/%E2%9C%A6-emu-otori-%E2%86%92-rimi-ushigome-card-edit.jpeg' alt='Get to Know The Fun Character Emu Otori with ChatFAI'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="736">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ChatFAI" />
+                                </span>
+                                <a href='https://chatfai.com/blog/wp-content/uploads/2024/08/%E2%9C%A6-emu-otori-%E2%86%92-rimi-ushigome-card-edit.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Project Sekai Colorful Stage! Ootori Emu Otori Emu Anime Cosplay ...">
+                                <img itemprop="contentUrl url" src='https://ae01.alicdn.com/kf/Sd5f591a78d0f44f1ad30fd37eb97dc11P.jpg?width=750&height=737&hash=1487' alt='Project Sekai Colorful Stage! Ootori Emu Otori Emu Anime Cosplay ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="737">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AliExpress" />
+                                </span>
+                                <a href='https://ae01.alicdn.com/kf/Sd5f591a78d0f44f1ad30fd37eb97dc11P.jpg?width=750&height=737&hash=1487' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

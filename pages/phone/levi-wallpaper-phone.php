@@ -1,0 +1,129 @@
+<title>“Stylish Levi Smartphone Wallpapers”</title>
+                    <meta name="description" content="Discover the best Levi wallpapers for your phone! Personalize your device with trendy designs featuring iconic Levi's styles and logos. Perfect for denim lovers looking to elevate their home screen with a touch of fashionable flair. Download now for an instant style upgrade!">
+                    <meta name="keywords" content="levi wallpaper phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/levi-wallpaper-phone">
+                            <span itemprop="name">levi wallpaper phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>“Stylish Levi Smartphone Wallpapers”</h1>
+                <p>Levi wallpaper for your phone offers a stylish and trendy way to personalize your device. Choose from various designs featuring the iconic Levi's logo and denim patterns. These wallpapers not only showcase your love for the Levi brand but also add a touch of sophistication to your home screen. Upgrade your phone's look today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I made Levi Wallpaper for mobile : r/ShingekiNoKyojin">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/sqnsuya20p441.png' alt='I made Levi Wallpaper for mobile : r/ShingekiNoKyojin'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1335">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/sqnsuya20p441.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Levi - Mobile Wallpaper (1440x3040) : r/ShingekiNoKyojin">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/x2qgwyvtpmp61.png?auto=webp&s=f419f175087e22085718a4e07e36b05985ef6095' alt='Levi - Mobile Wallpaper (1440x3040) : r/ShingekiNoKyojin'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="3040">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/x2qgwyvtpmp61.png?auto=webp&s=f419f175087e22085718a4e07e36b05985ef6095' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Levi Ackerman wallpaper by PAiNnoob - Download on ZEDGE™ | 8ff2">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/2f/ec/b0/2fecb047bf2a1208ed6716a2be1e8cb1.jpg' alt='Levi Ackerman wallpaper by PAiNnoob - Download on ZEDGE™ | 8ff2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/2f/ec/b0/2fecb047bf2a1208ed6716a2be1e8cb1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Levi Ackerman Wallpaper Phone (#474268) - HD Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/0a/09/5e/0a095e865594fe55eae57013f1d49ece.jpg' alt='Levi Ackerman Wallpaper Phone (#474268) - HD Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/0a/09/5e/0a095e865594fe55eae57013f1d49ece.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Captain Levi phone Wallpapers made by me : r/ShingekiNoKyojin">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/5gs7yrz7z8n61.jpg' alt='Captain Levi phone Wallpapers made by me : r/ShingekiNoKyojin'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/5gs7yrz7z8n61.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Attack On Titan Characters Levi Screen Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/attack-on-titan-characters-levi-screen-jebw7c8warkr9qz5.jpg' alt='Attack On Titan Characters Levi Screen Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="642">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/attack-on-titan-characters-levi-screen-jebw7c8warkr9qz5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD levi wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/685/120/HD-wallpaper-levi-ackerman-anime-attack-on-titan-levi-ackerman-snk-thumbnail.jpg' alt='HD levi wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="724">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/685/120/HD-wallpaper-levi-ackerman-anime-attack-on-titan-levi-ackerman-snk-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="AOT Levi Ackerman Battle Wallpapers - Stunning Anime Wallpapers">
+                                <img itemprop="contentUrl url" src='https://wallpapers-clan.com/wp-content/uploads/2024/07/aot-levi-ackerman-battle-wallpaper-scaled.jpg' alt='AOT Levi Ackerman Battle Wallpapers - Stunning Anime Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1183">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers Clan" />
+                                </span>
+                                <a href='https://wallpapers-clan.com/wp-content/uploads/2024/07/aot-levi-ackerman-battle-wallpaper-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="xDriftes   on X: "Levi Ackerman Free phone wallpaper Download link ...">
+                                <img itemprop="contentUrl url" src='https://pbs.twimg.com/media/Ev6EUTXXIAcMi8Y?format=jpg&name=4096x4096' alt='xDriftes   on X: "Levi Ackerman Free phone wallpaper Download link ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1356">
+                                <meta itemprop="height" content="2934">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="X" />
+                                </span>
+                                <a href='https://pbs.twimg.com/media/Ev6EUTXXIAcMi8Y?format=jpg&name=4096x4096' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download wallpaper HD for free and use it. | Wallpaper-HD">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/36/92/ee/3692ee76bbc1dfd4b545c09d8a03288b.jpg' alt='Download wallpaper HD for free and use it. | Wallpaper-HD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/36/92/ee/3692ee76bbc1dfd4b545c09d8a03288b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

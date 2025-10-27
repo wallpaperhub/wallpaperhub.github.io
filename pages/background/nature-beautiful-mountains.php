@@ -1,0 +1,129 @@
+<title>Explore Nature's Majestic Mountains</title>
+                    <meta name="description" content="Discover the breathtaking beauty of nature's mountains. From stunning landscapes to serene valleys, explore hiking trails and experience the adventure that awaits in these majestic wonders. Embrace the tranquility and inspiration that mountains bring to nature lovers and adventurers alike.">
+                    <meta name="keywords" content="nature beautiful mountains">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/nature-beautiful-mountains">
+                            <span itemprop="name">nature beautiful mountains</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore Nature's Majestic Mountains</h1>
+                <p>Nature's beautiful mountains stand as majestic sentinels, their towering peaks reaching for the sky. Draped in lush greenery, these natural wonders offer breathtaking views, tranquility, and adventure. Whether it's the thrill of hiking or the serenity of a quiet valley, the allure of mountains captivates the heart and soul.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 Most Beautiful Mountains in the World - Stunning Mountains to Visit">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/alpe-di-siusi-sunrise-with-sassolungo-or-langkofel-royalty-free-image-1623254127.jpg' alt='20 Most Beautiful Mountains in the World - Stunning Mountains to Visit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2145">
+                                <meta itemprop="height" content="1398">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Veranda" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/alpe-di-siusi-sunrise-with-sassolungo-or-langkofel-royalty-free-image-1623254127.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Most Beautiful Mountains in the World for Nature Lovers">
+                                <img itemprop="contentUrl url" src='https://worldwildschooling.com/wp-content/uploads/2024/01/Matterhorn_Mumemories_Adobe-Stock-Photo_682931585.jpg' alt='12 Most Beautiful Mountains in the World for Nature Lovers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World Wild Schooling" />
+                                </span>
+                                <a href='https://worldwildschooling.com/wp-content/uploads/2024/01/Matterhorn_Mumemories_Adobe-Stock-Photo_682931585.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 Most Beautiful Mountains in the World - Stunning Mountains to Visit">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/mt-assiniboine-provincial-park-at-sunrise-royalty-free-image-1623253564.jpg' alt='20 Most Beautiful Mountains in the World - Stunning Mountains to Visit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2120">
+                                <meta itemprop="height" content="1415">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Veranda" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/mt-assiniboine-provincial-park-at-sunrise-royalty-free-image-1623253564.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The 20 Most Beautiful Mountains in the World | Celebrity Cruises">
+                                <img itemprop="contentUrl url" src='https://www.celebritycruises.com/blog/content/uploads/2022/01/most-beautiful-mountains-in-the-world-the-pitons-st.-lucia.jpg' alt='The 20 Most Beautiful Mountains in the World | Celebrity Cruises'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1282">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Celebrity Cruises" />
+                                </span>
+                                <a href='https://www.celebritycruises.com/blog/content/uploads/2022/01/most-beautiful-mountains-in-the-world-the-pitons-st.-lucia.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 Most Beautiful Mountains in the World - Stunning Mountains to Visit">
+                                <img itemprop="contentUrl url" src='https://hips.hearstapps.com/hmg-prod/images/mount-kirkjufell-iceland-iceland-landscape-cold-royalty-free-image-1623253139.jpg?crop=1xw:1xh;center,top&resize=980:*' alt='20 Most Beautiful Mountains in the World - Stunning Mountains to Visit'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="980">
+                                <meta itemprop="height" content="652">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Veranda" />
+                                </span>
+                                <a href='https://hips.hearstapps.com/hmg-prod/images/mount-kirkjufell-iceland-iceland-landscape-cold-royalty-free-image-1623253139.jpg?crop=1xw:1xh;center,top&resize=980:*' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,570,362 Beautiful Mountain View Stock Photos - Free & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/beautiful-nature-norway-natural-landscape-fjord-mountain-amazing-view-reflection-location-scandinavian-mountains-artistic-143998386.jpg' alt='2,570,362 Beautiful Mountain View Stock Photos - Free & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/beautiful-nature-norway-natural-landscape-fjord-mountain-amazing-view-reflection-location-scandinavian-mountains-artistic-143998386.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The 20 Most Beautiful Mountains in the World | Celebrity Cruises">
+                                <img itemprop="contentUrl url" src='https://www.celebritycruises.com/blog/content/uploads/2022/01/most-beautiful-mountains-in-the-world-kirkjufell-iceland.jpg' alt='The 20 Most Beautiful Mountains in the World | Celebrity Cruises'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1088">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Celebrity Cruises" />
+                                </span>
+                                <a href='https://www.celebritycruises.com/blog/content/uploads/2022/01/most-beautiful-mountains-in-the-world-kirkjufell-iceland.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="11 Most Beautiful Mountains in the World">
+                                <img itemprop="contentUrl url" src='https://media.timeout.com/images/106041640/750/562/image.jpg' alt='11 Most Beautiful Mountains in the World'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="562">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Time Out" />
+                                </span>
+                                <a href='https://media.timeout.com/images/106041640/750/562/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Profile for Mountains are a beautiful creation of nature">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100068229454479' alt='Profile for Mountains are a beautiful creation of nature'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100068229454479' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="86 Mountain ideas | beautiful places, wonders of the world, scenery">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/57/48/29/574829a8d4392da95a9ce3922e47fcd8.jpg' alt='86 Mountain ideas | beautiful places, wonders of the world, scenery'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="434">
+                                <meta itemprop="height" content="650">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/57/48/29/574829a8d4392da95a9ce3922e47fcd8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

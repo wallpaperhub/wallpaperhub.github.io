@@ -1,0 +1,129 @@
+<title>Captivating Blurry Nature Backgrounds for Tranquil Spaces</title>
+                    <meta name="description" content="Discover stunning blurry nature backgrounds that bring a calming vibe to any space. Perfect for wallpapers, they showcase the beauty of nature in a soft, dreamy perspective. Enhance your environment with tranquil visuals—ideal for relaxation and inspiration.">
+                    <meta name="keywords" content="blurry nature background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/blurry-nature-background">
+                            <span itemprop="name">blurry nature background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Captivating Blurry Nature Backgrounds for Tranquil Spaces</h1>
+                <p>Blurry nature backgrounds create a serene and dreamy atmosphere, perfect for those seeking tranquility. These soft-focus visuals enhance the beauty of natural landscapes, like lush forests and tranquil lakes, making them ideal for wallpapers or artistic displays. Embrace the charm of nature with a touch of artistic blur.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blurry Forest Background Images – Browse 305,800 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/03/31/11/20/360_F_331112052_oYxluxyJnAESOKog71uGsrGn6v5SQHH5.jpg' alt='Blurry Forest Background Images – Browse 305,800 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/03/31/11/20/360_F_331112052_oYxluxyJnAESOKog71uGsrGn6v5SQHH5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nature Blur Background Stock Photos, Images and Backgrounds for ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/024/264/951/small/blurred-spring-background-nature-with-blooming-glade-generative-ai-technology-free-photo.jpg' alt='Nature Blur Background Stock Photos, Images and Backgrounds for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="357">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/024/264/951/small/blurred-spring-background-nature-with-blooming-glade-generative-ai-technology-free-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Nature Blur Background Images – Browse 3,550,909 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/01/60/24/02/360_F_160240280_sxDQh3O97wv7Rp2IhH9WlzXN4t8JOC26.jpg' alt='Nature Blur Background Images – Browse 3,550,909 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/01/60/24/02/360_F_160240280_sxDQh3O97wv7Rp2IhH9WlzXN4t8JOC26.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blurry Nature Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1678865842111-5e3212b00e96?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Ymx1cnJ5JTIwbmF0dXJlfGVufDB8fDB8fHww' alt='Blurry Nature Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1678865842111-5e3212b00e96?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Ymx1cnJ5JTIwbmF0dXJlfGVufDB8fDB8fHww' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blurred natural background – License image – 71088147 ❘ lookphotos">
+                                <img itemprop="contentUrl url" src='https://media02.stockfood.com/largepreviews/MjIwMzczMjU1Nw==/71088147-Blurred-natural-background.jpg' alt='Blurred natural background – License image – 71088147 ❘ lookphotos'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="734">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="lookphotos" />
+                                </span>
+                                <a href='https://media02.stockfood.com/largepreviews/MjIwMzczMjU1Nw==/71088147-Blurred-natural-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blur Nature Background Images, HD Pictures and Wallpaper For Free ...">
+                                <img itemprop="contentUrl url" src='https://png.pngtree.com/thumb_back/fh260/background/20240327/pngtree-abstract-green-nature-bokeh-background-soft-background-blur-of-natural-foliage-image_15646813.jpg' alt='Blur Nature Background Images, HD Pictures and Wallpaper For Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="404">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pngtree" />
+                                </span>
+                                <a href='https://png.pngtree.com/thumb_back/fh260/background/20240327/pngtree-abstract-green-nature-bokeh-background-soft-background-blur-of-natural-foliage-image_15646813.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Green Blur Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/sunny-defocused-green-nature-background-abstract-bokeh-effect-es-element-your-design_211682-265.jpg' alt='Green Blur Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/sunny-defocused-green-nature-background-abstract-bokeh-effect-es-element-your-design_211682-265.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Forest path trees background blur hi-res stock photography and ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/H486HM/forest-path-trees-background-blur-H486HM.jpg' alt='Forest path trees background blur hi-res stock photography and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="863">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/H486HM/forest-path-trees-background-blur-H486HM.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blurred Nature Background — Stock Photo © slickspics #72602095">
+                                <img itemprop="contentUrl url" src='https://st2.depositphotos.com/1533202/7260/i/380/depositphotos_72602095-stock-photo-blurred-nature-background.jpg' alt='Blurred Nature Background — Stock Photo © slickspics #72602095'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="380">
+                                <meta itemprop="height" content="253">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://st2.depositphotos.com/1533202/7260/i/380/depositphotos_72602095-stock-photo-blurred-nature-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download A Gorgeous, Softly Blurred Natural Landscape | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/nature-blur-background-i2611p7ihmb5ike0.jpg' alt='Download A Gorgeous, Softly Blurred Natural Landscape | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/nature-blur-background-i2611p7ihmb5ike0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

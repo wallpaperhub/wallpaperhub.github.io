@@ -1,0 +1,129 @@
+<title>Woman on White: A Celebration of Simplicity and Elegance</title>
+                    <meta name="description" content="Discover the captivating beauty of a woman against a white background. This visual representation emphasizes elegance and authenticity, inviting you to explore the powerful expressions and emotions captured in simplicity. Perfect for those who appreciate minimalistic art.">
+                    <meta name="keywords" content="woman white background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/woman-white-background">
+                            <span itemprop="name">woman white background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Woman on White: A Celebration of Simplicity and Elegance</h1>
+                <p>In a world filled with vibrant colors, the simplicity of a woman against a white background brings forth elegance and purity. This serene image highlights her strength and grace, inviting viewers to focus on her expressions and emotions. It's a powerful reminder that beauty lies in minimalism and the essence of authenticity.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Professional Woman White Background Images – Browse 1,234,908 ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/04/25/65/97/360_F_425659755_5BaLdNbbCtQbbiz1JNFBikshfiCWI5NE.jpg' alt='Professional Woman White Background Images – Browse 1,234,908 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/04/25/65/97/360_F_425659755_5BaLdNbbCtQbbiz1JNFBikshfiCWI5NE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Asian Woman White Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/portrait-happy-asian-woman-smiling-posing-confident-cross-arms-chest-standing-against-studio-background_1258-89269.jpg' alt='Asian Woman White Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/portrait-happy-asian-woman-smiling-posing-confident-cross-arms-chest-standing-against-studio-background_1258-89269.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,612,325 Brunette Woman On White Royalty-Free Images, Stock ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/image-photo/confident-business-grad-student-mba-600nw-2324674659.jpg' alt='2,612,325 Brunette Woman On White Royalty-Free Images, Stock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/image-photo/confident-business-grad-student-mba-600nw-2324674659.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Professional Woman White Background Images – Browse 1,234,908 ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/02/98/22/76/360_F_298227690_1DWTl73uxJzSOfz2Pss1urEz1XgpCCl4.jpg' alt='Professional Woman White Background Images – Browse 1,234,908 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/02/98/22/76/360_F_298227690_1DWTl73uxJzSOfz2Pss1urEz1XgpCCl4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="915,400+ Female Portrait On White Stock Photos, Pictures & Royalty ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1450952240/photo/portrait-of-woman-with-arms-crossed.jpg?s=612x612&w=0&k=20&c=_Y4iFsurvayACjOaXQp6_qDrdJ6nxsV5_oMjAlMplLA=' alt='915,400+ Female Portrait On White Stock Photos, Pictures & Royalty ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="431">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1450952240/photo/portrait-of-woman-with-arms-crossed.jpg?s=612x612&w=0&k=20&c=_Y4iFsurvayACjOaXQp6_qDrdJ6nxsV5_oMjAlMplLA=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Woman Standing Against White Background Stock Image - Image of ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/woman-standing-against-white-background-37810007.jpg' alt='Woman Standing Against White Background Stock Image - Image of ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/woman-standing-against-white-background-37810007.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Woman Smiling White Background Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-photo/closeup-attractive-brunette-girl-smiling-happy-standing-white-background_1258-122145.jpg' alt='Woman Smiling White Background Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="303">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-photo/closeup-attractive-brunette-girl-smiling-happy-standing-white-background_1258-122145.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Casual Brunette Woman Standing On White Background And Raising Her ...">
+                                <img itemprop="contentUrl url" src='https://previews.123rf.com/images/feedough/feedough1809/feedough180900002/107376529-casual-brunette-woman-standing-on-white-background-and-raising-her-hands-full-body-picture.jpg' alt='Casual Brunette Woman Standing On White Background And Raising Her ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="866">
+                                <meta itemprop="height" content="1300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="123RF" />
+                                </span>
+                                <a href='https://previews.123rf.com/images/feedough/feedough1809/feedough180900002/107376529-casual-brunette-woman-standing-on-white-background-and-raising-her-hands-full-body-picture.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Woman white background Stock Photos, Royalty Free Woman white ...">
+                                <img itemprop="contentUrl url" src='https://st4.depositphotos.com/12982378/23038/i/450/depositphotos_230387350-stock-photo-portrait-beautiful-smiling-woman-looking.jpg' alt='Woman white background Stock Photos, Royalty Free Woman white ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Depositphotos" />
+                                </span>
+                                <a href='https://st4.depositphotos.com/12982378/23038/i/450/depositphotos_230387350-stock-photo-portrait-beautiful-smiling-woman-looking.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Fashion, beauty and full body of woman on a white background for ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2M8C0K1/fashion-beauty-and-full-body-of-woman-on-a-white-background-for-trendy-stylish-and-2000s-clothes-creative-style-cosmetics-and-portrait-of-female-2M8C0K1.jpg' alt='Fashion, beauty and full body of woman on a white background for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1004">
+                                <meta itemprop="height" content="1390">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2M8C0K1/fashion-beauty-and-full-body-of-woman-on-a-white-background-for-trendy-stylish-and-2000s-clothes-creative-style-cosmetics-and-portrait-of-female-2M8C0K1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

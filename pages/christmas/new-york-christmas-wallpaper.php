@@ -1,0 +1,129 @@
+<title>Stunning New York Christmas Wallpaper for Festive Cheer</title>
+                    <meta name="description" content="Explore captivating New York Christmas wallpaper that brings the holiday spirit to your screens. Dive into beautiful scenes of festive NYC, perfect for celebrating the season. Download now for a touch of winter magic on your devices!">
+                    <meta name="keywords" content="new york christmas wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/new-york-christmas-wallpaper">
+                            <span itemprop="name">new york christmas wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning New York Christmas Wallpaper for Festive Cheer</h1>
+                <p>Transform your device with enchanting New York Christmas wallpaper! Capture the magic of the season with stunning images of iconic NYC holiday scenes, from twinkling lights and festive decorations to snow-covered streets. Enjoy the spirit of the city that never sleeps, right at your fingertips this holiday season!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York City Christmas Images – Browse 24,803 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/02/39/70/67/360_F_239706791_ihIghwf937z6seMIQgJ8XfSSneRnz5HX.jpg' alt='New York City Christmas Images – Browse 24,803 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="541">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/02/39/70/67/360_F_239706791_ihIghwf937z6seMIQgJ8XfSSneRnz5HX.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="   New York Christmas Wallpapers on WallpaperSafari">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/7a/ba/65/7aba65f843d0a15812f98d9a34d057c2.jpg' alt='   New York Christmas Wallpapers on WallpaperSafari'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/7a/ba/65/7aba65f843d0a15812f98d9a34d057c2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="50+ Aesthetic Christmas Wallpaper Backgrounds For iPhone (Free!)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/bb/0f/73/bb0f731cc5644b424b6d23105a392b8b.jpg' alt='50+ Aesthetic Christmas Wallpaper Backgrounds For iPhone (Free!)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="848">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/bb/0f/73/bb0f731cc5644b424b6d23105a392b8b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8,000+ New York Christmas Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/543477586/photo/central-park-winter.jpg?s=612x612&w=0&k=20&c=3D0FLKwX1pvq-yqTGj3Mjw4k-RqatqKMUpmJxXgkYY4=' alt='8,000+ New York Christmas Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/543477586/photo/central-park-winter.jpg?s=612x612&w=0&k=20&c=3D0FLKwX1pvq-yqTGj3Mjw4k-RqatqKMUpmJxXgkYY4=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="45,628+ New York Christmas Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1574730167300-61713bbb8ef9?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bmV3JTIweW9yayUyMGNocmlzdG1hc3xlbnwwfHwwfHx8MA%3D%3D' alt='45,628+ New York Christmas Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4199">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1574730167300-61713bbb8ef9?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bmV3JTIweW9yayUyMGNocmlzdG1hc3xlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="8,000+ New York Christmas Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/526215467/photo/central-park-winter.jpg?s=612x612&w=0&k=20&c=fECcX7U4MjsEnS-uwlm3jwwtitXgwdF01lQedZ-IhLQ=' alt='8,000+ New York Christmas Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/526215467/photo/central-park-winter.jpg?s=612x612&w=0&k=20&c=fECcX7U4MjsEnS-uwlm3jwwtitXgwdF01lQedZ-IhLQ=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York City Christmas Images – Browse 24,803 Stock Photos ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/34/39/70/360_F_434397092_J3hmWCGNq6EtMZMfHLSdgVGL7IKYtXr3.jpg' alt='New York City Christmas Images – Browse 24,803 Stock Photos ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/34/39/70/360_F_434397092_J3hmWCGNq6EtMZMfHLSdgVGL7IKYtXr3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Christmas Live Wallpaper in 4K for iPhone">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7437995717890706721&location=0&aid=1988' alt='Christmas Live Wallpaper in 4K for iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7437995717890706721&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="New York City Christmas">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/32/16/5f/32165f3642e4a6871b066d2da4b28331.jpg' alt='New York City Christmas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1174">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/32/16/5f/32165f3642e4a6871b066d2da4b28331.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="45,628+ New York Christmas Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://images.unsplash.com/photo-1609457492553-79a91395ac44?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bmV3JTIweW9yayUyMGNocmlzdG1hc3xlbnwwfHwwfHx8MA%3D%3D' alt='45,628+ New York Christmas Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="4442">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://images.unsplash.com/photo-1609457492553-79a91395ac44?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bmV3JTIweW9yayUyMGNocmlzdG1hc3xlbnwwfHwwfHx8MA%3D%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

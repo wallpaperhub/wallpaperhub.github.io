@@ -1,0 +1,129 @@
+<title>What Was the Declaration of Independence Written On?</title>
+                    <meta name="description" content="Discover what the Declaration of Independence was written on and its historical significance. Learn how parchment became the medium through which the quest for freedom and self-governance was articulated, marking a pivotal moment in American history.">
+                    <meta name="keywords" content="what is the declaration of independence written on">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/what-is-the-declaration-of-independence-written-on">
+                            <span itemprop="name">what is the declaration of independence written on</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>What Was the Declaration of Independence Written On?</h1>
+                <p>The Declaration of Independence was originally drafted on parchment, a durable writing surface made from animal skin. This document announced the American colonies' separation from British rule, articulating the principles of freedom and self-governance. Parchment’s longevity symbolizes the enduring importance of these ideals.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="United States Declaration of Independence - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/8/8f/United_States_Declaration_of_Independence.jpg' alt='United States Declaration of Independence - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3923">
+                                <meta itemprop="height" content="4656">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/8/8f/United_States_Declaration_of_Independence.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Declaration of Independence: The Full Text in English.... and ...">
+                                <img itemprop="contentUrl url" src='https://www.latinorebels.com/wp-content/uploads/2012/07/declaration-of-independence-1776.jpeg' alt='The Declaration of Independence: The Full Text in English.... and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="594">
+                                <meta itemprop="height" content="786">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Latino Rebels -" />
+                                </span>
+                                <a href='https://www.latinorebels.com/wp-content/uploads/2012/07/declaration-of-independence-1776.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Declaration of Independence | National Archives">
+                                <img itemprop="contentUrl url" src='https://www.archives.gov/files/founding-docs/declaration_of_independence_630.jpg' alt='The Declaration of Independence | National Archives'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="630">
+                                <meta itemprop="height" content="766">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Archives" />
+                                </span>
+                                <a href='https://www.archives.gov/files/founding-docs/declaration_of_independence_630.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="On this day, the Declaration of Independence is officially signed ...">
+                                <img itemprop="contentUrl url" src='https://constitutioncenter.org/images/uploads/blog/declaration_of_independence_stone_640-441x300.jpg' alt='On this day, the Declaration of Independence is officially signed ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="441">
+                                <meta itemprop="height" content="300">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The National Constitution Center" />
+                                </span>
+                                <a href='https://constitutioncenter.org/images/uploads/blog/declaration_of_independence_stone_640-441x300.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Why Was the Declaration of Independence Written? | HISTORY">
+                                <img itemprop="contentUrl url" src='https://assets.editorial.aetnd.com/uploads/2018/06/declaration-of-independence-113492099.jpg?width=800&height=400&crop=1&w=800&h=400&q=100' alt='Why Was the Declaration of Independence Written? | HISTORY'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.history.com" />
+                                </span>
+                                <a href='https://assets.editorial.aetnd.com/uploads/2018/06/declaration-of-independence-113492099.jpg?width=800&height=400&crop=1&w=800&h=400&q=100' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Declaration of Independence (1776) - Encyclopedia Virginia">
+                                <img itemprop="contentUrl url" src='https://encyclopediavirginia.org/wp-content/uploads/2020/11/1704_7bb4330869fd374.jpg' alt='Declaration of Independence (1776) - Encyclopedia Virginia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1224">
+                                <meta itemprop="height" content="1536">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Encyclopedia Virginia" />
+                                </span>
+                                <a href='https://encyclopediavirginia.org/wp-content/uploads/2020/11/1704_7bb4330869fd374.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Did You Know? 10 Facts About the Declaration of Independence | UVA ...">
+                                <img itemprop="contentUrl url" src='https://news.virginia.edu/sites/default/files/article_image/uva_obscura_declaration_da_header_3-2_0.jpg' alt='Did You Know? 10 Facts About the Declaration of Independence | UVA ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2500">
+                                <meta itemprop="height" content="1667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UVA Today - The University of Virginia" />
+                                </span>
+                                <a href='https://news.virginia.edu/sites/default/files/article_image/uva_obscura_declaration_da_header_3-2_0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Writing of Declaration of Independence ‑ Authors, Summary & Text ...">
+                                <img itemprop="contentUrl url" src='https://assets.editorial.aetnd.com/uploads/2010/02/jefferson-drafts-declaration-hero.jpg' alt='Writing of Declaration of Independence ‑ Authors, Summary & Text ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1698">
+                                <meta itemprop="height" content="1131">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.history.com" />
+                                </span>
+                                <a href='https://assets.editorial.aetnd.com/uploads/2010/02/jefferson-drafts-declaration-hero.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="July 1776 Broadside of Declaration of Independence Sells for ...">
+                                <img itemprop="contentUrl url" src='https://cdn.finebooksmagazine.com/sites/default/files/styles/gallery_item/public/media-images/2023-07/first-broadside-edition-declaration-independence-printed-massachusettsheritage-auctions.jpg?itok=x5D5K7P-' alt='July 1776 Broadside of Declaration of Independence Sells for ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="782">
+                                <meta itemprop="height" content="957">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fine Books Magazine" />
+                                </span>
+                                <a href='https://cdn.finebooksmagazine.com/sites/default/files/styles/gallery_item/public/media-images/2023-07/first-broadside-edition-declaration-independence-printed-massachusettsheritage-auctions.jpg?itok=x5D5K7P-' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Declaration of Independence — history for our times - BennettInk.com">
+                                <img itemprop="contentUrl url" src='https://bennettink.com/wp-content/uploads/2017/07/Screen-Shot-2017-07-02-at-11.54.17-AM.png' alt='Declaration of Independence — history for our times - BennettInk.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="210">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BennettInk.com" />
+                                </span>
+                                <a href='https://bennettink.com/wp-content/uploads/2017/07/Screen-Shot-2017-07-02-at-11.54.17-AM.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

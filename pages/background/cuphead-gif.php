@@ -1,0 +1,129 @@
+<title>Cuphead GIFs: Animated Fun from a Classic Game</title>
+                    <meta name="description" content="Discover the best Cuphead GIFs that bring the game's unique style to life! Perfect for sharing moments of triumph or frustration, these animated clips showcase Cuphead's beautiful art and challenging gameplay. Enjoy and share the nostalgia with fellow gamers!">
+                    <meta name="keywords" content="cuphead gif">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/cuphead-gif">
+                            <span itemprop="name">cuphead gif</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Cuphead GIFs: Animated Fun from a Classic Game</h1>
+                <p>Cuphead GIFs capture the whimsical yet challenging essence of the game, showcasing its hand-drawn animation and vintage cartoon style. Players can share these animated snippets to express emotions during gameplay or to relive their favorite moments, adding a fun twist to social interactions in the gaming community.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TheCupheadShow's GIFs on Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/0QFjOgGvh28AAAAM/smiling-cuphead.gif' alt='TheCupheadShow's GIFs on Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/0QFjOgGvh28AAAAM/smiling-cuphead.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cuphead Gif - IceGif">
+                                <img itemprop="contentUrl url" src='https://www.icegif.com/wp-content/uploads/2022/03/icegif-1051.gif' alt='Cuphead Gif - IceGif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="457">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IceGif" />
+                                </span>
+                                <a href='https://www.icegif.com/wp-content/uploads/2022/03/icegif-1051.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cuphead Gif - IceGif">
+                                <img itemprop="contentUrl url" src='https://www.icegif.com/wp-content/uploads/2023/02/icegif-404.gif' alt='Cuphead Gif - IceGif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="IceGif" />
+                                </span>
+                                <a href='https://www.icegif.com/wp-content/uploads/2023/02/icegif-404.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cuphead GIFs - Get the best gif on GIFER">
+                                <img itemprop="contentUrl url" src='https://i.gifer.com/9WOY.gif' alt='Cuphead GIFs - Get the best gif on GIFER'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="286">
+                                <meta itemprop="height" content="161">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gifer" />
+                                </span>
+                                <a href='https://i.gifer.com/9WOY.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cuphead Confused GIF - Cuphead Confused Which Way - Discover ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/3d/db/52/3ddb52731ff95382a6d7d406535d2ee0.gif' alt='Cuphead Confused GIF - Cuphead Confused Which Way - Discover ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="240">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/3d/db/52/3ddb52731ff95382a6d7d406535d2ee0.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="TheCupheadShow's GIFs on Tenor">
+                                <img itemprop="contentUrl url" src='https://media.tenor.com/2vOccOss9gkAAAAM/yikes-cuphead.gif' alt='TheCupheadShow's GIFs on Tenor'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="220">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tenor" />
+                                </span>
+                                <a href='https://media.tenor.com/2vOccOss9gkAAAAM/yikes-cuphead.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The animation is around the corner! : r/Cuphead">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/dssvajcf8jm71.gif' alt='The animation is around the corner! : r/Cuphead'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="560">
+                                <meta itemprop="height" content="560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/dssvajcf8jm71.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cuphead is weird and beautiful and late, so let's puzzle it out ...">
+                                <img itemprop="contentUrl url" src='https://platform.polygon.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/3795296/cuphead_carrot_3.0.gif' alt='Cuphead is weird and beautiful and late, so let's puzzle it out ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1088">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Polygon" />
+                                </span>
+                                <a href='https://platform.polygon.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/3795296/cuphead_carrot_3.0.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cuphead Gif - IceGif">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/9f/d0/a8/9fd0a8a15bfbde59589f7d6771a6db8e.gif' alt='Cuphead Gif - IceGif'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="572">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/9f/d0/a8/9fd0a8a15bfbde59589f7d6771a6db8e.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="no i will not shut up about sonic">
+                                <img itemprop="contentUrl url" src='https://64.media.tumblr.com/8744aa1243022e1cc35756619df6bf48/tumblr_pa4p840R5p1u15z5vo1_1280.gif' alt='no i will not shut up about sonic'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="678">
+                                <meta itemprop="height" content="382">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="no i will not shut up about sonic" />
+                                </span>
+                                <a href='https://64.media.tumblr.com/8744aa1243022e1cc35756619df6bf48/tumblr_pa4p840R5p1u15z5vo1_1280.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

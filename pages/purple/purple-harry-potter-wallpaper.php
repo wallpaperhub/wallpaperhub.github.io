@@ -1,0 +1,129 @@
+<title>Magical Purple Harry Potter Wallpaper for Every Fan</title>
+                    <meta name="description" content="Discover enchanting purple Harry Potter wallpaper that brings the magic of Hogwarts into your home. Perfect for fans, this stylish decor transforms any room with its vibrant design and iconic symbols. Embrace your love for Harry Potter and create a whimsical atmosphere today!">
+                    <meta name="keywords" content="purple harry potter wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple">
+                            <span itemprop="name">Purple</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/purple/purple-harry-potter-wallpaper">
+                            <span itemprop="name">purple harry potter wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Magical Purple Harry Potter Wallpaper for Every Fan</h1>
+                <p>Transform your space with stunning purple Harry Potter wallpaper! Featuring iconic symbols and characters from the beloved series, this wallpaper not only adds a magical touch to your room but also showcases your passion for Hogwarts. Perfect for fans of all ages, it's an enchanting way to bring the wizarding world into your home.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Magical Kingdom Wallpaper Harry Potter Style Design by Arthouse in Purple &  Blue">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/Y8QAAOSwQ9xclUnt/s-l1200.jpg' alt='Magical Kingdom Wallpaper Harry Potter Style Design by Arthouse in Purple &  Blue'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/Y8QAAOSwQ9xclUnt/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter purple">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ae/24/c6/ae24c69230db3c3bb73d06bcf22475fc.jpg' alt='Harry Potter purple'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ae/24/c6/ae24c69230db3c3bb73d06bcf22475fc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9e/10/b0/9e10b0176da20e737781c12164b8f955.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9e/10/b0/9e10b0176da20e737781c12164b8f955.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper with Harry Poters glasses | Arte harry potter, Sfondi ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/82/3a/b0/823ab0d453852f5226e9980d87506efc.jpg' alt='Wallpaper with Harry Poters glasses | Arte harry potter, Sfondi ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1307">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/82/3a/b0/823ab0d453852f5226e9980d87506efc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mural, wallpaper, wall sticker Harry Potter - Movie Poster Print ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/810B6rxw3ML.jpg' alt='Mural, wallpaper, wall sticker Harry Potter - Movie Poster Print ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.ae" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/810B6rxw3ML.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cool Harry Potter Pink Layers Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cool-harry-potter-pink-layers-h9ejhx7yysizcfy9.jpg' alt='Cool Harry Potter Pink Layers Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="820">
+                                <meta itemprop="height" content="1366">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cool-harry-potter-pink-layers-h9ejhx7yysizcfy9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter, pastel, purple, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/1007/142/HD-wallpaper-harry-potter-pastel-purple.jpg' alt='Harry Potter, pastel, purple, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/1007/142/HD-wallpaper-harry-potter-pastel-purple.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hogwarts Grounds Wallpaper : r/harrypotter">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/6ey30sle0g5z.jpg' alt='Hogwarts Grounds Wallpaper : r/harrypotter'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="550">
+                                <meta itemprop="height" content="731">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/6ey30sle0g5z.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The 65+ Best Free Harry Potter Wallpaper Downloads For iPhone |">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/3b/80/4b/3b804b05f2b04e987e46f3d15790f6a8.jpg' alt='The 65+ Best Free Harry Potter Wallpaper Downloads For iPhone |'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="889">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/3b/80/4b/3b804b05f2b04e987e46f3d15790f6a8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harry Potter wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/85/f9/53/85f953200a7475a0d29225f2f146cfcc.jpg' alt='Harry Potter wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="628">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/85/f9/53/85f953200a7475a0d29225f2f146cfcc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

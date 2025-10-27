@@ -1,0 +1,129 @@
+<title>Kretz Family: A Legacy of Faith in Paris</title>
+                    <meta name="description" content="Discover the Kretz family's profound influence on religion in Paris. Explore their heritage, values, and the role of faith in shaping community life in the vibrant city. Join us to understand how tradition meets modernity in this fascinating family story.">
+                    <meta name="keywords" content="kretz family paris religion">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/kretz-family-paris-religion">
+                            <span itemprop="name">kretz family paris religion</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Kretz Family: A Legacy of Faith in Paris</h1>
+                <p>The Kretz family in Paris has a rich religious background, reflecting the diverse spiritual landscape of the city. Known for their contributions to cultural and social life, they embrace values rooted in tradition while navigating modernity. Their story illustrates the importance of faith and community in urban Parisian life.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Parisian Agency: Valentin Kretz Shares What It's Really Like ...">
+                                <img itemprop="contentUrl url" src='https://cdn.tatlerasia.com/tatlerasia/i/2022/01/26123813-d4s-6885_cover_1500x1200.jpg' alt='The Parisian Agency: Valentin Kretz Shares What It's Really Like ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tatler Asia" />
+                                </span>
+                                <a href='https://cdn.tatlerasia.com/tatlerasia/i/2022/01/26123813-d4s-6885_cover_1500x1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Kretz Family Net Worth — How Much Does 'The Parisian Agency' Sell?">
+                                <img itemprop="contentUrl url" src='https://media.marketrealist.com/brand-img/Vfn8tbXXa/0x0/olivier-sandrine-kretz-1646247377012.jpg' alt='The Kretz Family Net Worth — How Much Does 'The Parisian Agency' Sell?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1196">
+                                <meta itemprop="height" content="642">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Market Realist" />
+                                </span>
+                                <a href='https://media.marketrealist.com/brand-img/Vfn8tbXXa/0x0/olivier-sandrine-kretz-1646247377012.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="An exclusive conversation with the stars of Netflix's The Parisian ...">
+                                <img itemprop="contentUrl url" src='https://assets.architecturaldigest.in/photos/60e298e00e8686d95b697a60/16:9/w_2560%2Cc_limit/Netflix-show-Parisian-agency-Kretz-Family.jpeg' alt='An exclusive conversation with the stars of Netflix's The Parisian ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Architectural Digest India" />
+                                </span>
+                                <a href='https://assets.architecturaldigest.in/photos/60e298e00e8686d95b697a60/16:9/w_2560%2Cc_limit/Netflix-show-Parisian-agency-Kretz-Family.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LA Exclusive: The Kretz Family on What It Takes To Run—and Sustain ...">
+                                <img itemprop="contentUrl url" src='https://lifestyleasia-onemega.com/wp-content/uploads/2021/08/Kretz-FB.jpg' alt='LA Exclusive: The Kretz Family on What It Takes To Run—and Sustain ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="730">
+                                <meta itemprop="height" content="479">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lifestyle Asia" />
+                                </span>
+                                <a href='https://lifestyleasia-onemega.com/wp-content/uploads/2021/08/Kretz-FB.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="At the home of the KRETZ Netflix family: 'Minister hid here during the war'  | FAIRY TALE HOME">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/1lnwLWnerl0/maxresdefault.jpg' alt='At the home of the KRETZ Netflix family: 'Minister hid here during the war'  | FAIRY TALE HOME'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/1lnwLWnerl0/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charina in Paris | Philstar.com">
+                                <img itemprop="contentUrl url" src='https://media.philstar.com/images//the-philippine-star/other-sections/newsmakers/20210216/3.jpg' alt='Charina in Paris | Philstar.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="586">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Philstar.com" />
+                                </span>
+                                <a href='https://media.philstar.com/images//the-philippine-star/other-sections/newsmakers/20210216/3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Kretz Family Net Worth — How Much Does 'The Parisian Agency' Sell?">
+                                <img itemprop="contentUrl url" src='https://media.marketrealist.com/brand-img/QcMT-2FWb/1200x628/kretz-family-net-worth-1646247730683.jpg' alt='The Kretz Family Net Worth — How Much Does 'The Parisian Agency' Sell?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1194">
+                                <meta itemprop="height" content="628">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Market Realist" />
+                                </span>
+                                <a href='https://media.marketrealist.com/brand-img/QcMT-2FWb/1200x628/kretz-family-net-worth-1646247730683.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Netflix's The Parisian Agency is a luxury real estate show ...">
+                                <img itemprop="contentUrl url" src='https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23611079/KretzFamily.jpg?quality=90&strip=all&crop=0,0,100,100' alt='Netflix's The Parisian Agency is a luxury real estate show ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3826">
+                                <meta itemprop="height" content="2109">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vox" />
+                                </span>
+                                <a href='https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23611079/KretzFamily.jpg?quality=90&strip=all&crop=0,0,100,100' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charina in Paris | Philstar.com">
+                                <img itemprop="contentUrl url" src='https://media.philstar.com/photos/2021/02/15/1_2021-02-15_15-47-55.jpg' alt='Charina in Paris | Philstar.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="570">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Philstar.com" />
+                                </span>
+                                <a href='https://media.philstar.com/photos/2021/02/15/1_2021-02-15_15-47-55.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Parisian Agency: Meet the Kretz family from Netflix - Complete ...">
+                                <img itemprop="contentUrl url" src='https://www.completefrance.com/wp-content/uploads/2022/04/the-kretz-family-run-a-success-61dc4912.jpg' alt='The Parisian Agency: Meet the Kretz family from Netflix - Complete ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Complete France" />
+                                </span>
+                                <a href='https://www.completefrance.com/wp-content/uploads/2022/04/the-kretz-family-run-a-success-61dc4912.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

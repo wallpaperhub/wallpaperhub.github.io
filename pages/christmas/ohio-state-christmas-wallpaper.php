@@ -1,0 +1,129 @@
+<title>Ohio State Christmas Wallpaper: Festive Designs for Buckeye Fans</title>
+                    <meta name="description" content="Deck your screens with Ohio State Christmas wallpaper! Perfect for fans, our vibrant designs celebrate the season while showcasing your Buckeye spirit. Brighten your holiday decor and spread cheer throughout your home with unique, festive wallpaper options that are just a click away!">
+                    <meta name="keywords" content="ohio state christmas wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas">
+                            <span itemprop="name">Christmas</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/christmas/ohio-state-christmas-wallpaper">
+                            <span itemprop="name">ohio state christmas wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ohio State Christmas Wallpaper: Festive Designs for Buckeye Fans</h1>
+                <p>Transform your holiday spirit with stunning Ohio State Christmas wallpaper! Celebrate the season in style by showcasing your Buckeye pride in every room. Our collection features festive designs that blend Ohio State's iconic colors and symbols with joyous Christmas themes. Perfect for fans who want to feel the cheer all season long!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/df/d2/a6/dfd2a61e2983d58f199edda91d437b0d.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="444">
+                                <meta itemprop="height" content="827">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/df/d2/a6/dfd2a61e2983d58f199edda91d437b0d.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Buckeye Nation Christmas">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/8b/95/c8/8b95c8d989ecfa053d3472ad0df63b18.jpg' alt='Buckeye Nation Christmas'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="654">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/8b/95/c8/8b95c8d989ecfa053d3472ad0df63b18.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3e/2a/20/3e2a20bd151f3b06c0bcffdedbb9b529.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="955">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3e/2a/20/3e2a20bd151f3b06c0bcffdedbb9b529.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Merry xmas bucks, ohiostate, football, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/186/119/HD-wallpaper-merry-xmas-bucks-ohiostate-football.jpg' alt='Merry xmas bucks, ohiostate, football, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/186/119/HD-wallpaper-merry-xmas-bucks-ohiostate-football.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by Cheri Randle on Buckeyes | Ohio state logo, Ohio state ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/51/25/1d/51251d4d9eccb57dde8ad704e71f2f42.jpg' alt='Pin by Cheri Randle on Buckeyes | Ohio state logo, Ohio state ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="707">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/51/25/1d/51251d4d9eccb57dde8ad704e71f2f42.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/86/50/5f/86505fd9a7f0f40686a6cb9670455151.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/86/50/5f/86505fd9a7f0f40686a6cb9670455151.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="OSU Merry Christmas!">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/a8/35/81/a835816293f909f5492fda7fd0dfcf20.jpg' alt='OSU Merry Christmas!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="704">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/a8/35/81/a835816293f909f5492fda7fd0dfcf20.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Merry Christmas from one Ohio State fan to another....">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/97/c0/50/97c050646e0eca2c915c36660c2963b2.jpg' alt='Merry Christmas from one Ohio State fan to another....'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="604">
+                                <meta itemprop="height" content="437">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/97/c0/50/97c050646e0eca2c915c36660c2963b2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ugly Christmas sweater inspired wallpapers - Page 3 - Concepts ...">
+                                <img itemprop="contentUrl url" src='https://media.invisioncic.com/r224567/monthly_2016_12/Buckeyes.png.a5363e763cfa89cf553acbef67ba9504.png' alt='Ugly Christmas sweater inspired wallpapers - Page 3 - Concepts ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SportsLogos.Net Forums" />
+                                </span>
+                                <a href='https://media.invisioncic.com/r224567/monthly_2016_12/Buckeyes.png.a5363e763cfa89cf553acbef67ba9504.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A New Design">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/01/4d/ca/014dca11467a130b8305efa7682aeff8.jpg' alt='A New Design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="488">
+                                <meta itemprop="height" content="690">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/01/4d/ca/014dca11467a130b8305efa7682aeff8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

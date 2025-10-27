@@ -1,0 +1,129 @@
+<title>Charming Vintage Pink Santa Figurines for Festive Decor</title>
+                    <meta name="description" content="Explore enchanting vintage pink Santa figurines that add a nostalgic flair to your holiday decor. Perfect for collectors or as a unique festive touch, these whimsical Santas exude warmth and charm. Discover the magic of vintage-style decorations this holiday season!">
+                    <meta name="keywords" content="vintage pink santa">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/vintage-pink-santa">
+                            <span itemprop="name">vintage pink santa</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Vintage Pink Santa Figurines for Festive Decor</h1>
+                <p>Vintage pink Santa figurines bring a charmingly nostalgic touch to holiday decor. These playful representations, often adorned with glitter and whimsical details, evoke warmth and cheer, reminding us of simpler times. Perfect for collectors and those seeking a unique holiday aesthetic, vintage pink Santas are a delightful addition to any festive display.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Pink Santa, Believe, Santa, Christmas, Iron On Heat Transfer,  T-Shirt Iron On, DYI Iron On Transfer #46 (Dark Color Fabric Transfer)">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/91D817dFOML._UF894,1000_QL80_.jpg' alt='Vintage Pink Santa, Believe, Santa, Christmas, Iron On Heat Transfer,  T-Shirt Iron On, DYI Iron On Transfer #46 (Dark Color Fabric Transfer)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="775">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/91D817dFOML._UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Pink Santa Claus Cross Stitch Pattern | The Cross Stitch ...">
+                                <img itemprop="contentUrl url" src='https://thecrossstitchstudio.com/cdn/shop/files/IMG-6134.jpg?v=1724423755' alt='Vintage Pink Santa Claus Cross Stitch Pattern | The Cross Stitch ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2152">
+                                <meta itemprop="height" content="2152">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Cross Stitch Studio" />
+                                </span>
+                                <a href='https://thecrossstitchstudio.com/cdn/shop/files/IMG-6134.jpg?v=1724423755' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Santa Wood Framed Print">
+                                <img itemprop="contentUrl url" src='http://www.acottageinthecity.com/cdn/shop/products/Pink-Santa-Wood-Framed-Print-2.webp?v=1687500074&width=2048' alt='Pink Santa Wood Framed Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="A Cottage in the City" />
+                                </span>
+                                <a href='http://www.acottageinthecity.com/cdn/shop/products/Pink-Santa-Wood-Framed-Print-2.webp?v=1687500074&width=2048' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Christmas Pink Santa Claus Mid Century Modern MCM Graphic Image Art  Fabric Block Doodaba">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/5701508/r/il/7408f9/1379546230/il_570xN.1379546230_48v7.jpg' alt='Vintage Christmas Pink Santa Claus Mid Century Modern MCM Graphic Image Art  Fabric Block Doodaba'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="741">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/5701508/r/il/7408f9/1379546230/il_570xN.1379546230_48v7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Die-Cut | Santa Claus #1 | 6 inch Pink">
+                                <img itemprop="contentUrl url" src='https://cdn11.bigcommerce.com/s-ihusvvomsj/images/stencil/1280x1280/products/15247/30158/SANTA_1_PINK_02__78613.1636185412.png?c=2' alt='Vintage Die-Cut | Santa Claus #1 | 6 inch Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pretty Little Studio" />
+                                </span>
+                                <a href='https://cdn11.bigcommerce.com/s-ihusvvomsj/images/stencil/1280x1280/products/15247/30158/SANTA_1_PINK_02__78613.1636185412.png?c=2' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage inspired shabby chic pink Santa Claus | Art Print">
+                                <img itemprop="contentUrl url" src='https://ih1.redbubble.net/image.2968388610.6261/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' alt='Vintage inspired shabby chic pink Santa Claus | Art Print'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Redbubble" />
+                                </span>
+                                <a href='https://ih1.redbubble.net/image.2968388610.6261/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Santa Print Pink Santa Claus Pink Christmas Decor Christmas Prints  Christmas Printable Wall Art Vintage Retro Santa Christmas Decor - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/30136602/r/il/c93f30/4131836132/il_1080xN.4131836132_9jme.jpg' alt='Vintage Santa Print Pink Santa Claus Pink Christmas Decor Christmas Prints  Christmas Printable Wall Art Vintage Retro Santa Christmas Decor - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/30136602/r/il/c93f30/4131836132/il_1080xN.4131836132_9jme.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Santa Claus #6 Fabric Panel - Pink">
+                                <img itemprop="contentUrl url" src='https://www.sewingpartsonline.com/cdn/shop/files/vintage-santa-claus-6-fabric-panel-pink-306815_grande.jpg?v=1719521631' alt='Vintage Santa Claus #6 Fabric Panel - Pink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sewing Parts Online" />
+                                </span>
+                                <a href='https://www.sewingpartsonline.com/cdn/shop/files/vintage-santa-claus-6-fabric-panel-pink-306815_grande.jpg?v=1719521631' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Victorian Pink Santa Christmas Designer MULTI-SIZE Cotton Fabric Quilt  Blocks">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/images/g/LpYAAOSwFc9mZw-Y/s-l1200.jpg' alt='Victorian Pink Santa Christmas Designer MULTI-SIZE Cotton Fabric Quilt  Blocks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="667">
+                                <meta itemprop="height" content="957">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/images/g/LpYAAOSwFc9mZw-Y/s-l1200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Retro Santa Pink by Sylvia Cook">
+                                <img itemprop="contentUrl url" src='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/retro-santa-pink-sylvia-cook.jpg' alt='Retro Santa Pink by Sylvia Cook'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fine Art America" />
+                                </span>
+                                <a href='https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/retro-santa-pink-sylvia-cook.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

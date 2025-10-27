@@ -1,0 +1,129 @@
+<title>Behind the Scenes: The Essential Role of Background Actors</title>
+                    <meta name="description" content="Discover the crucial impact of background actors in film and TV. From creating lifelike scenes to interacting with main characters, these unsung heroes enrich storytelling and help bring narratives to life. Explore their importance in the entertainment industry today!">
+                    <meta name="keywords" content="background actors">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/background-actors">
+                            <span itemprop="name">background actors</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Behind the Scenes: The Essential Role of Background Actors</h1>
+                <p>Background actors, also known as extras, play a vital role in film and television by enhancing the realism of scenes. They populate settings, create atmosphere, and interact with lead actors, though often without speaking lines. This essential contribution helps to tell stories more vivid and engaging, adding depth to the production.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Do Background Actors Do? - Central Casting">
+                                <img itemprop="contentUrl url" src='https://d1u6g1e1nisfhs.cloudfront.net/wp-content/uploads/articles-background-actors-job-description-w.jpg' alt='What Do Background Actors Do? - Central Casting'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="945">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Central Casting" />
+                                </span>
+                                <a href='https://d1u6g1e1nisfhs.cloudfront.net/wp-content/uploads/articles-background-actors-job-description-w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5 Key Background Acting Tips - Central Casting">
+                                <img itemprop="contentUrl url" src='https://d1u6g1e1nisfhs.cloudfront.net/wp-content/uploads/articles-background-acting-tips-w.jpg' alt='5 Key Background Acting Tips - Central Casting'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="945">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Central Casting" />
+                                </span>
+                                <a href='https://d1u6g1e1nisfhs.cloudfront.net/wp-content/uploads/articles-background-acting-tips-w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Background Acting: How to Book TONS of Work - Headshots NYC">
+                                <img itemprop="contentUrl url" src='http://www.cityheadshots.com/uploads/5/1/2/1/5121840/istock-1210331665_orig.jpg' alt='Background Acting: How to Book TONS of Work - Headshots NYC'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1100">
+                                <meta itemprop="height" content="734">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Headshots NYC" />
+                                </span>
+                                <a href='http://www.cityheadshots.com/uploads/5/1/2/1/5121840/istock-1210331665_orig.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Benefits of Being a Background Actor | Backstage">
+                                <img itemprop="contentUrl url" src='https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/5368/large_thumb%403x.jpg' alt='Benefits of Being a Background Actor | Backstage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2025">
+                                <meta itemprop="height" content="1140">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backstage" />
+                                </span>
+                                <a href='https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/5368/large_thumb%403x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A comedian explains why life as a lowly background actor is still ...">
+                                <img itemprop="contentUrl url" src='https://ca-times.brightspotcdn.com/dims4/default/447d12a/2147483647/strip/true/crop/3000x1965+0+0/resize/1200x786!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fde%2F8b%2Fa2ae09674f288886d5ee8f0f07c2%2Fgettyimages-89597476.jpg' alt='A comedian explains why life as a lowly background actor is still ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="786">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Los Angeles Times" />
+                                </span>
+                                <a href='https://ca-times.brightspotcdn.com/dims4/default/447d12a/2147483647/strip/true/crop/3000x1965+0+0/resize/1200x786!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fde%2F8b%2Fa2ae09674f288886d5ee8f0f07c2%2Fgettyimages-89597476.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Extra Work and Background Actors: How to Maximize Your Acting as ...">
+                                <img itemprop="contentUrl url" src='https://www.nycastings.com/wp-content/uploads/2017/11/extras-boom-director.jpg' alt='Extra Work and Background Actors: How to Maximize Your Acting as ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="793">
+                                <meta itemprop="height" content="572">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="NYCastings" />
+                                </span>
+                                <a href='https://www.nycastings.com/wp-content/uploads/2017/11/extras-boom-director.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What Do Background Actors Do? - Central Casting">
+                                <img itemprop="contentUrl url" src='https://d1u6g1e1nisfhs.cloudfront.net/wp-content/uploads/articles-background-actors-job-description-sq.jpg' alt='What Do Background Actors Do? - Central Casting'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="945">
+                                <meta itemprop="height" content="609">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Central Casting" />
+                                </span>
+                                <a href='https://d1u6g1e1nisfhs.cloudfront.net/wp-content/uploads/articles-background-actors-job-description-sq.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Hollywood Background Actors Face Extinction In COVID-19 Era">
+                                <img itemprop="contentUrl url" src='https://deadline.com/wp-content/uploads/2020/05/greys-anatomy-background-actors.jpg' alt='Hollywood Background Actors Face Extinction In COVID-19 Era'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="563">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Deadline" />
+                                </span>
+                                <a href='https://deadline.com/wp-content/uploads/2020/05/greys-anatomy-background-actors.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="20 Most Common Acting Jobs for Background Actors - Project Casting">
+                                <img itemprop="contentUrl url" src='https://static1.squarespace.com/static/5352fe9de4b013cdd4d0b596/t/548abab3e4b075ef31258b85/1418377907682/' alt='20 Most Common Acting Jobs for Background Actors - Project Casting'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="554">
+                                <meta itemprop="height" content="343">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Project Casting" />
+                                </span>
+                                <a href='https://static1.squarespace.com/static/5352fe9de4b013cdd4d0b596/t/548abab3e4b075ef31258b85/1418377907682/' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The Pros & Cons of Background Work for Actors | Backstage">
+                                <img itemprop="contentUrl url" src='https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/607/article_featured%403x.jpg' alt='The Pros & Cons of Background Work for Actors | Backstage'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3150">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Backstage" />
+                                </span>
+                                <a href='https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/607/article_featured%403x.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

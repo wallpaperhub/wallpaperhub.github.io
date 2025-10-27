@@ -1,0 +1,129 @@
+<title>Ja'Marr Chase: Rising NFL Star and LSU Legend</title>
+                    <meta name="description" content="Explore the incredible journey of Ja'Marr Chase, the talented NFL wide receiver who shone brightly at LSU. Discover his background, achievements, and impact on the game as he continues to rise as a superstar in the league!">
+                    <meta name="keywords" content="ja'marr chase background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/jamarr-chase-background">
+                            <span itemprop="name">ja'marr chase background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Ja'Marr Chase: Rising NFL Star and LSU Legend</h1>
+                <p>Ja'Marr Chase, born on March 1, 2000, in Harvey, Louisiana, is a standout wide receiver in the NFL. He played college football at LSU, where he won the Biletnikoff Award and played a key role in the Tigers' national championship win in 2019. Known for his speed and agility, Chase was drafted by the Cincinnati Bengals in 2021.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ja'Marr Chase HD Wallpapers">
+                                <img itemprop="contentUrl url" src='https://admin.sportshackster.com/WallPaperMedia/PlayerImage/chase-1_63834997472766.1.jpg' alt='Ja'Marr Chase HD Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Hackster" />
+                                </span>
+                                <a href='https://admin.sportshackster.com/WallPaperMedia/PlayerImage/chase-1_63834997472766.1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jamarr Chase Projects :: Photos, videos, logos, illustrations and ...">
+                                <img itemprop="contentUrl url" src='https://mir-s3-cdn-cf.behance.net/projects/404/dc6855152612765.Y3JvcCwxNjAwLDEyNTEsMCww.png' alt='Jamarr Chase Projects :: Photos, videos, logos, illustrations and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="404">
+                                <meta itemprop="height" content="316">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Behance" />
+                                </span>
+                                <a href='https://mir-s3-cdn-cf.behance.net/projects/404/dc6855152612765.Y3JvcCwxNjAwLDEyNTEsMCww.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Ja'marr Chase Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/fiery-bengals-trio-jamarr-chase-byc1kr0w3dbqdtsd.jpg' alt='100+] Ja'marr Chase Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1601">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/fiery-bengals-trio-jamarr-chase-byc1kr0w3dbqdtsd.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ja'Marr Chase HD Wallpapers">
+                                <img itemprop="contentUrl url" src='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/chase-5_63835003912416.3.jpg' alt='Ja'Marr Chase HD Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="2400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Hackster" />
+                                </span>
+                                <a href='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/chase-5_63835003912416.3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ja'Marr Chase background/design">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/1200x/2f/d0/c6/2fd0c6229f93c2a477ad05c9978e999f.jpg' alt='Ja'Marr Chase background/design'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="568">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/1200x/2f/d0/c6/2fd0c6229f93c2a477ad05c9978e999f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ja'Marr Chase NFL Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp10862975.jpg' alt='Ja'Marr Chase NFL Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3200">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp10862975.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ja'Marr Chase HD Wallpapers">
+                                <img itemprop="contentUrl url" src='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/chase-2_63834997897974.1.jpg' alt='Ja'Marr Chase HD Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="2813">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Hackster" />
+                                </span>
+                                <a href='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/chase-2_63834997897974.1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ja'marr Chase NFL Football Poster Print Photo Wall Art Limited ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/18242346/r/il/f1e2db/3715460231/il_fullxfull.3715460231_647w.jpg' alt='Ja'marr Chase NFL Football Poster Print Photo Wall Art Limited ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1944">
+                                <meta itemprop="height" content="2880">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/18242346/r/il/f1e2db/3715460231/il_fullxfull.3715460231_647w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How Preparation Has Put Bengals wide receiver Ja'Marr Chase On ...">
+                                <img itemprop="contentUrl url" src='https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/bengals/yugobofy5mtphvy9mhkl' alt='How Preparation Has Put Bengals wide receiver Ja'Marr Chase On ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Cincinnati Bengals" />
+                                </span>
+                                <a href='https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/bengals/yugobofy5mtphvy9mhkl' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ja'Marr Chase HD Wallpapers">
+                                <img itemprop="contentUrl url" src='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/chase-13_63835004261457.4.jpg' alt='Ja'Marr Chase HD Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1553">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sports Hackster" />
+                                </span>
+                                <a href='https://admin.sportshackster.com/WallPaperMedia/PlayerWallPaperImage/chase-13_63835004261457.4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

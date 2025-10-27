@@ -1,0 +1,129 @@
+<title>Trevon Diggs iPhone Wallpapers: Elevate Your Home Screen</title>
+                    <meta name="description" content="Discover the ultimate collection of Trevon Diggs wallpapers for your iPhone! Featuring captivating designs that celebrate the Dallas Cowboys star, our wallpapers are optimized for stunning clarity on any device. Personalize your phone with these amazing visuals that reflect your passion for football.">
+                    <meta name="keywords" content="trevon diggs wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/trevon-diggs-wallpaper-iphone">
+                            <span itemprop="name">trevon diggs wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Trevon Diggs iPhone Wallpapers: Elevate Your Home Screen</h1>
+                <p>Enhance your iPhone with vibrant Trevon Diggs wallpapers showcasing his electrifying performances on the field. Choose from various stunning designs that capture his dynamic spirit and dedication to the game. Perfect for any Dallas Cowboys fan, these wallpapers will keep your device fresh with every glance!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trevon Diggs #DallasCowboys">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/videos/thumbnails/originals/51/b2/f5/51b2f55ce703dee188bc650c7b5e23f3.0000000.jpg' alt='Trevon Diggs #DallasCowboys'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/videos/thumbnails/originals/51/b2/f5/51b2f55ce703dee188bc650c7b5e23f3.0000000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="trevon diggs wallpaper cowboys">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ee/20/58/ee2058069091cf6c155448870f5f433a.jpg' alt='trevon diggs wallpaper cowboys'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="890">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ee/20/58/ee2058069091cf6c155448870f5f433a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trevon Diggs Wallpaper - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/76/d5/51/76d5519e8bfb24cef872ba5941a07046.jpg' alt='Trevon Diggs Wallpaper - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/76/d5/51/76d5519e8bfb24cef872ba5941a07046.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trevon Diggs on Instagram: "Throwbacks    - Follow me @trevontoday ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/d4/d9/63/d4d963315973cd3e73886d1982adae70.jpg' alt='Trevon Diggs on Instagram: "Throwbacks    - Follow me @trevontoday ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="518">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/d4/d9/63/d4d963315973cd3e73886d1982adae70.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="NFL_Art on Instagram: “Trevon Diggs! Do you think he can break the ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/23/7e/70/237e70b967902ecdf11ae5ea42233b8c.jpg' alt='NFL_Art on Instagram: “Trevon Diggs! Do you think he can break the ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="735">
+                                <meta itemprop="height" content="737">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/23/7e/70/237e70b967902ecdf11ae5ea42233b8c.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Replying to @cadeisaqt Trevon #cowboys #nfl #wallpaper #fypシ #Comment #fyp">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7119164466842914091&location=0&aid=1988' alt='Replying to @cadeisaqt Trevon #cowboys #nfl #wallpaper #fypシ #Comment #fyp'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7119164466842914091&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/87/c1/45/87c145decd939f72ceb76298f0853a08.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="322">
+                                <meta itemprop="height" content="470">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/87/c1/45/87c145decd939f72ceb76298f0853a08.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3f/e7/50/3fe750b696dbcae16b9c377977cdaeed.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3f/e7/50/3fe750b696dbcae16b9c377977cdaeed.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trevon Diggs, Dallas Cowboys, NFL, American football, portrait ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/343/196/HD-wallpaper-trevon-diggs-dallas-cowboys-nfl-american-football-portrait-blue-stone-background-national-football-league.jpg' alt='Trevon Diggs, Dallas Cowboys, NFL, American football, portrait ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/343/196/HD-wallpaper-trevon-diggs-dallas-cowboys-nfl-american-football-portrait-blue-stone-background-national-football-league.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Trevon Diggs Edit      : r/cowboys">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/f9z1m5e5hj681.jpg?width=1080&crop=smart&auto=webp&s=ced8f664b2bf8aa2ee5192b97ce1f42183331e70' alt='Trevon Diggs Edit      : r/cowboys'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/f9z1m5e5hj681.jpg?width=1080&crop=smart&auto=webp&s=ced8f664b2bf8aa2ee5192b97ce1f42183331e70' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

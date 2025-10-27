@@ -1,0 +1,129 @@
+<title>Discover the Magic of Parallax Scrolling</title>
+                    <meta name="description" content="Explore the innovative world of parallax scrolling! This engaging web design technique enhances user experience by adding depth and movement to your site. Perfect for storytelling and creating immersive visuals that keep visitors captivated. Transform your online presence today with this stunning effect!">
+                    <meta name="keywords" content="parallax scrolling">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/parallax-scrolling">
+                            <span itemprop="name">parallax scrolling</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Magic of Parallax Scrolling</h1>
+                <p>Parallax scrolling is a web design technique that creates a 3D effect by moving background images more slowly than foreground content. This captivating visual effect enhances user engagement by providing a sense of depth and immersion. Widely used in storytelling websites, it transforms static pages into dynamic experiences, making browsing more enjoyable.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Parallax scrolling - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/d/d7/Parallax_scroll.gif' alt='Parallax scrolling - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="320">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/d/d7/Parallax_scroll.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="What is Parallax Scrolling, Explained with 10+ Examples">
+                                <img itemprop="contentUrl url" src='https://static.wixstatic.com/media/72c0b2_4c48d6bdba494361bb89d8e9e5c5457f~mv2.gif' alt='What is Parallax Scrolling, Explained with 10+ Examples'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1064">
+                                <meta itemprop="height" content="608">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wix.com" />
+                                </span>
+                                <a href='https://static.wixstatic.com/media/72c0b2_4c48d6bdba494361bb89d8e9e5c5457f~mv2.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Parallax Scrolling Website | How to Make Website using Html CSS & Javascript">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/1wfeqDyMUx4/maxresdefault.jpg' alt='Parallax Scrolling Website | How to Make Website using Html CSS & Javascript'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/1wfeqDyMUx4/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Parallax scrolling - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/The_Whispered_World_parallax_scrolling_sample_1.jpg/500px-The_Whispered_World_parallax_scrolling_sample_1.jpg' alt='Parallax scrolling - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="234">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/The_Whispered_World_parallax_scrolling_sample_1.jpg/500px-The_Whispered_World_parallax_scrolling_sample_1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Animate - Parallax Scroll Comparison">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/2z4OTRFuLP8/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgRShAMA8=&rs=AOn4CLDBTM785qihbzmHo0WscZx_X-U7Rg' alt='Animate - Parallax Scroll Comparison'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/2z4OTRFuLP8/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgRShAMA8=&rs=AOn4CLDBTM785qihbzmHo0WscZx_X-U7Rg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Design a Subtle Parallax Scrolling Effect">
+                                <img itemprop="contentUrl url" src='https://cdn.sanity.io/images/qyzm5ged/blog/955b34db393ce107f65417a16ccab6705df2b598-2138x1200.png' alt='Design a Subtle Parallax Scrolling Effect'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2138">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ProtoPie" />
+                                </span>
+                                <a href='https://cdn.sanity.io/images/qyzm5ged/blog/955b34db393ce107f65417a16ccab6705df2b598-2138x1200.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="An Oldie But a Goodie, Creative & Functional, Parallax Scrolling ...">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/6009d2de23c011ecef1fbe7a/660eea0fb7d98bce66c05a22_Parallax%20Scrolling-2.gif' alt='An Oldie But a Goodie, Creative & Functional, Parallax Scrolling ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Tacpoint" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/6009d2de23c011ecef1fbe7a/660eea0fb7d98bce66c05a22_Parallax%20Scrolling-2.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixelblog - 23 - Parallax Scrolling — SLYNYRD">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/551a19f8e4b0e8322a93850a/1573861378175-CUPY0J566KA5A117IIEE/Intro_Parallax.gif' alt='Pixelblog - 23 - Parallax Scrolling — SLYNYRD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="768">
+                                <meta itemprop="height" content="448">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SLYNYRD" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/551a19f8e4b0e8322a93850a/1573861378175-CUPY0J566KA5A117IIEE/Intro_Parallax.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Is Parallax Scrolling A Good Idea for Your Website?">
+                                <img itemprop="contentUrl url" src='https://d3uviallwqcn1r.cloudfront.net/0e17965e-f252-4e6e-ba65-d907d42c7d5d.png' alt='Is Parallax Scrolling A Good Idea for Your Website?'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2320">
+                                <meta itemprop="height" content="1160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UI/UX design agency Philadelphia" />
+                                </span>
+                                <a href='https://d3uviallwqcn1r.cloudfront.net/0e17965e-f252-4e6e-ba65-d907d42c7d5d.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pixelblog - 23 - Parallax Scrolling — SLYNYRD">
+                                <img itemprop="contentUrl url" src='https://images.squarespace-cdn.com/content/v1/551a19f8e4b0e8322a93850a/1574024073167-PRLTM8P9IEOI4Q6EZQYO/Desert.gif' alt='Pixelblog - 23 - Parallax Scrolling — SLYNYRD'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="684">
+                                <meta itemprop="height" content="210">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SLYNYRD" />
+                                </span>
+                                <a href='https://images.squarespace-cdn.com/content/v1/551a19f8e4b0e8322a93850a/1574024073167-PRLTM8P9IEOI4Q6EZQYO/Desert.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Vibrant Summer Harvest Wallpaper to Brighten Your Home</title>
+                    <meta name="description" content="Discover the beauty of summer with our enchanting harvest wallpaper. Perfect for adding a touch of warmth and freshness to your home decor. Shop now for vibrant designs that celebrate nature's bounty and transform any room into a summer paradise!">
+                    <meta name="keywords" content="summer harvest wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/summer">
+                            <span itemprop="name">Summer</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/summer/summer-harvest-wallpaper">
+                            <span itemprop="name">summer harvest wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Summer Harvest Wallpaper to Brighten Your Home</h1>
+                <p>Transform your space with our vibrant summer harvest wallpaper! Celebrate the season's bounty with fresh fruit, blooming flowers, and rustic farm designs. Perfect for kitchens, dining rooms, or any area needing a touch of warmth and nature. Bring the beauty of summer indoors and enjoy a lively atmosphere year-round.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Harvest by Sanderson - Claret / Olive - Wallpaper - 216495">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/shared-assets/images/products/146591_1_orig.jpg' alt='Summer Harvest by Sanderson - Claret / Olive - Wallpaper - 216495'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/shared-assets/images/products/146591_1_orig.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Harvest Wallpaper – Monika Hibbs Home">
+                                <img itemprop="contentUrl url" src='https://monikahibbshome.com/cdn/shop/files/MHH-SummerHarvest-Claret_Olive.png?v=1708561109&width=800' alt='Summer Harvest Wallpaper – Monika Hibbs Home'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="982">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Monika Hibbs Home" />
+                                </span>
+                                <a href='https://monikahibbshome.com/cdn/shop/files/MHH-SummerHarvest-Claret_Olive.png?v=1708561109&width=800' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Harvest by Sanderson - Cornflower / Wheat - Wallpaper - 216496">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpaperdirect.com/asset/img/product/146592/tiled/sanderson-summer-harvest-cornflower-wheat-wallpaper-tiled-146592.jpg' alt='Summer Harvest by Sanderson - Cornflower / Wheat - Wallpaper - 216496'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Direct" />
+                                </span>
+                                <a href='https://cdn.wallpaperdirect.com/asset/img/product/146592/tiled/sanderson-summer-harvest-cornflower-wheat-wallpaper-tiled-146592.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Harvest wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.selectedwallpapers.com/cdn/shop/products/Summer-Harvest-behang-Sanderson-Selected-Wallpapers_grande.jpg?v=1688138836' alt='Summer Harvest wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Selected Wallpapers & Interiors" />
+                                </span>
+                                <a href='https://www.selectedwallpapers.com/cdn/shop/products/Summer-Harvest-behang-Sanderson-Selected-Wallpapers_grande.jpg?v=1688138836' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Harvest Wallpaper">
+                                <img itemprop="contentUrl url" src='https://assets.wfcdn.com/im/33272019/resize-h755-w755%5Ecompr-r85/1186/118699156/Summer+Harvest+Wallpaper.jpg' alt='Summer Harvest Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="755">
+                                <meta itemprop="height" content="755">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Perigold" />
+                                </span>
+                                <a href='https://assets.wfcdn.com/im/33272019/resize-h755-w755%5Ecompr-r85/1186/118699156/Summer+Harvest+Wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Harvest Claret/Olive Wallpaper">
+                                <img itemprop="contentUrl url" src='https://willowbloomhome.com/wp-content/uploads/2019/01/Harvest-Wallpaper-2.jpg' alt='Harvest Claret/Olive Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1366">
+                                <meta itemprop="height" content="1366">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Willow Bloom Home" />
+                                </span>
+                                <a href='https://willowbloomhome.com/wp-content/uploads/2019/01/Harvest-Wallpaper-2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Harvest Wallpaper">
+                                <img itemprop="contentUrl url" src='https://monikahibbshome.com/cdn/shop/products/0T3A3156.jpg?v=1644952303&width=2400' alt='Summer Harvest Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="2250">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Monika Hibbs Home" />
+                                </span>
+                                <a href='https://monikahibbshome.com/cdn/shop/products/0T3A3156.jpg?v=1644952303&width=2400' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sanderson Summer Harvest Claret Olive Wallpaper 40% Off | Samples">
+                                <img itemprop="contentUrl url" src='https://images.ladesignconcepts.com/sanderson/DEBB216497_thumb.jpg' alt='Sanderson Summer Harvest Claret Olive Wallpaper 40% Off | Samples'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="225">
+                                <meta itemprop="height" content="190">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="L.A. Design Concepts" />
+                                </span>
+                                <a href='https://images.ladesignconcepts.com/sanderson/DEBB216497_thumb.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sanderson Wallpaper Summer Harvest-3684">
+                                <img itemprop="contentUrl url" src='https://www.meinewand.com/media/images/org/3684_xl4_sanderson_summer-harvest_216497.webp' alt='Sanderson Wallpaper Summer Harvest-3684'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Meine Wand" />
+                                </span>
+                                <a href='https://www.meinewand.com/media/images/org/3684_xl4_sanderson_summer-harvest_216497.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Harvest Wallpaper">
+                                <img itemprop="contentUrl url" src='https://www.lionheartwallpaper.com/cdn/shop/products/216495-3-WALLPAPER_1445x.jpg?v=1654260485' alt='Summer Harvest Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="650">
+                                <meta itemprop="height" content="722">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lionheart Wallpaper" />
+                                </span>
+                                <a href='https://www.lionheartwallpaper.com/cdn/shop/products/216495-3-WALLPAPER_1445x.jpg?v=1654260485' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

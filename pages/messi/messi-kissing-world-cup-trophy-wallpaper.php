@@ -1,0 +1,129 @@
+<title>Messi's Iconic World Cup Trophy Kiss Wallpaper</title>
+                    <meta name="description" content="Discover the stunning wallpaper of Messi kissing the World Cup trophy! Perfect for true football fans, this captivating image showcases his triumphant moment. Download now to bring inspiration and pride to your device's screen!">
+                    <meta name="keywords" content="messi kissing world cup trophy wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/messi">
+                            <span itemprop="name">Messi</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/messi/messi-kissing-world-cup-trophy-wallpaper">
+                            <span itemprop="name">messi kissing world cup trophy wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Messi's Iconic World Cup Trophy Kiss Wallpaper</h1>
+                <p>Capture the magic of Lionel Messi kissing the World Cup trophy with this mesmerizing wallpaper! Ideal for fans, this vibrant image symbolizes triumph, dedication, and the spirit of football. Whether on your phone or desktop, it serves as a daily reminder of Messi’s remarkable journey and his ultimate victory in the World Cup. Download now!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="messi kissing the world cup   ">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/09/6f/f7/096ff7fd728e880bca931a69a1417a5f.jpg' alt='messi kissing the world cup   '>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="902">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/09/6f/f7/096ff7fd728e880bca931a69a1417a5f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Messi Fifa World Cup 2022 Final Wallpaper Dump. : r/Barca">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/messi-fifa-world-cup-2022-final-wallpaper-dump-v0-fd7a0d6j4x6a1.jpg?width=1890&format=pjpg&auto=webp&s=e427a7063d88561598103708821d6c45517c8711' alt='Messi Fifa World Cup 2022 Final Wallpaper Dump. : r/Barca'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1890">
+                                <meta itemprop="height" content="4096">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/messi-fifa-world-cup-2022-final-wallpaper-dump-v0-fd7a0d6j4x6a1.jpg?width=1890&format=pjpg&auto=webp&s=e427a7063d88561598103708821d6c45517c8711' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Messi Kissing The World Cup, messi, kissing the world cup, goat ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/171/302/HD-wallpaper-messi-kissing-the-world-cup-messi-kissing-the-world-cup-goat-footballer-golden-ball-award.jpg' alt='Messi Kissing The World Cup, messi, kissing the world cup, goat ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/171/302/HD-wallpaper-messi-kissing-the-world-cup-messi-kissing-the-world-cup-goat-footballer-golden-ball-award.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Messi Kissing World Cup Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp13400468.jpg' alt='Messi Kissing World Cup Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp13400468.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lionel Messi Trophy Kiss FIFA World Cup 2022 4K Wallpaper iPhone ...">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/333-lionel-messi-trophy-kiss-fifa-world-cup-2022-51@0@i-thumb.jpg?dl' alt='Lionel Messi Trophy Kiss FIFA World Cup 2022 4K Wallpaper iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/333-lionel-messi-trophy-kiss-fifa-world-cup-2022-51@0@i-thumb.jpg?dl' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Lionel Messi Kissing World Cup Trophy Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/lionel-messi-kissing-world-cup-trophy-spvbg7mu5rvpmer4.jpg' alt='Download Lionel Messi Kissing World Cup Trophy Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1286">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/lionel-messi-kissing-world-cup-trophy-spvbg7mu5rvpmer4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Messi World Cup Trophy Wallpaper - iXpap">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/9f/12/30/9f1230203ea7707acf007504fdcae853.jpg' alt='Messi World Cup Trophy Wallpaper - iXpap'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/9f/12/30/9f1230203ea7707acf007504fdcae853.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LIONEL MESSI KISSING WORLDCUP FRAMED CANVAS WALL ART DECOR ABSTRACT 20X30  INCH">
+                                <img itemprop="contentUrl url" src='https://i.ebayimg.com/00/s/MTYwMFgxMjc5/z/~hIAAOSwbgljoi5V/$_57.JPG?set_id=880000500F' alt='LIONEL MESSI KISSING WORLDCUP FRAMED CANVAS WALL ART DECOR ABSTRACT 20X30  INCH'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1279">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="eBay" />
+                                </span>
+                                <a href='https://i.ebayimg.com/00/s/MTYwMFgxMjc5/z/~hIAAOSwbgljoi5V/$_57.JPG?set_id=880000500F' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Messi Trophy Kiss FIFA World Cup 2022 4K Wallpaper iPhone HD Phone ...">
+                                <img itemprop="contentUrl url" src='https://img.uhdpaper.com/wallpaper/333-messi-trophy-kiss-fifa-world-cup-2022-35@0@i-phone-4k.jpg' alt='Messi Trophy Kiss FIFA World Cup 2022 4K Wallpaper iPhone HD Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2160">
+                                <meta itemprop="height" content="3840">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="UHD Wallpapers" />
+                                </span>
+                                <a href='https://img.uhdpaper.com/wallpaper/333-messi-trophy-kiss-fifa-world-cup-2022-35@0@i-phone-4k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wallpaper kiss, kiss, Lionel Messi, Qatar, Lionel Messi, World Cup ...">
+                                <img itemprop="contentUrl url" src='https://img.goodfon.com/original/2560x1440/e/41/lionel-messi-lionel-messi-kiss-potselui-kubok-mira-katar.jpg' alt='Wallpaper kiss, kiss, Lionel Messi, Qatar, Lionel Messi, World Cup ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="GoodFon" />
+                                </span>
+                                <a href='https://img.goodfon.com/original/2560x1440/e/41/lionel-messi-lionel-messi-kiss-potselui-kubok-mira-katar.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

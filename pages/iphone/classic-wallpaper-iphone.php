@@ -1,0 +1,129 @@
+<title>Classic iPhone Wallpapers: Timeless Style at Your Fingertips</title>
+                    <meta name="description" content="Explore a curated collection of classic iPhone wallpapers that blend vintage appeal with modern elegance. Perfect for personalizing your device, these timeless designs enhance your iPhone's style while offering a touch of nostalgia. Discover the perfect wallpaper for your unique aesthetic today!">
+                    <meta name="keywords" content="classic wallpaper iphone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/classic-wallpaper-iphone">
+                            <span itemprop="name">classic wallpaper iphone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Classic iPhone Wallpapers: Timeless Style at Your Fingertips</h1>
+                <p>Classic wallpapers for iPhone reflect timeless elegance and style. From vintage floral patterns to retro geometric designs, these wallpapers can transform your device into a piece of art. Discover wallpapers that evoke nostalgia, enhance aesthetics, and personalize your iPhone to showcase your unique taste. Embrace beauty with every glance!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Wallpaper Classic Colors 2">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/47/ff/cd/47ffcde34083083e83bf9b3a6f8aded0.jpg' alt='Iphone Wallpaper Classic Colors 2'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="555">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/47/ff/cd/47ffcde34083083e83bf9b3a6f8aded0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="34 Classic iOS Wallpapers For iPhone You Should Download - iOS Hacker">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/0f/23/d0/0f23d06b9a182e539a653b0a8e0c0651.jpg' alt='34 Classic iOS Wallpapers For iPhone You Should Download - iOS Hacker'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1593">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/0f/23/d0/0f23d06b9a182e539a653b0a8e0c0651.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Iphone Classic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/iphone-classic-uc9d2stgn4yk2315.jpg' alt='100+] Iphone Classic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="887">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/iphone-classic-uc9d2stgn4yk2315.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Original Apple wallpapers optimized for your iPhone">
+                                <img itemprop="contentUrl url" src='https://media.idownloadblog.com/wp-content/uploads/2017/11/iOS-stock-23-for-iPhone-X.jpeg' alt='Original Apple wallpapers optimized for your iPhone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iDownloadBlog" />
+                                </span>
+                                <a href='https://media.idownloadblog.com/wp-content/uploads/2017/11/iOS-stock-23-for-iPhone-X.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classic iOS 7 wallpaper : r/iphonexwallpapers">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/y3d99kmr6q431.jpg' alt='Classic iOS 7 wallpaper : r/iphonexwallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/y3d99kmr6q431.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classic iphone 2025 wallpaper">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/iphone-classic-0cej8u803gp4oe7m.jpg' alt='Classic iphone 2025 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Gibbons Funeral Home" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/iphone-classic-0cej8u803gp4oe7m.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Ultra HD Classic Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp11951940.jpg' alt='iPhone Ultra HD Classic Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="830">
+                                <meta itemprop="height" content="1476">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp11951940.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Classic iOS For iPhone You Should, Retro Apple, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/378/1009/HD-wallpaper-classic-ios-for-iphone-you-should-retro-apple.jpg' alt='Classic iOS For iPhone You Should, Retro Apple, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1731">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/378/1009/HD-wallpaper-classic-ios-for-iphone-you-should-retro-apple.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Classic Retro Iphone With Refreshed Features Wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/a-classic-retro-iphone-with-refreshed-features-7ml1u2w32ksecsq3.jpg' alt='A Classic Retro Iphone With Refreshed Features Wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1333">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/a-classic-retro-iphone-with-refreshed-features-7ml1u2w32ksecsq3.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD classic iphone - wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/873/187/HD-wallpaper-art-iphone-classical-paintings-thumbnail.jpg' alt='HD classic iphone - wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/873/187/HD-wallpaper-art-iphone-classical-paintings-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

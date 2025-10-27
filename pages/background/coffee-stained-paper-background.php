@@ -1,0 +1,129 @@
+<title>Coffee Stained Paper Background: Perfect for Creative Projects</title>
+                    <meta name="description" content="Discover the charm of a coffee-stained paper background! Ideal for artistic projects, scrapbooking, and vintage designs, this background adds a warm, rustic feel. Elevate your creativity with this unique design element today!">
+                    <meta name="keywords" content="coffee stained paper background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/coffee-stained-paper-background">
+                            <span itemprop="name">coffee stained paper background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Coffee Stained Paper Background: Perfect for Creative Projects</h1>
+                <p>Transform your creative projects with a coffee-stained paper background. This unique textured design adds warmth and an inviting feel to your graphics, giving them an artistic touch. Perfect for vintage-themed designs, scrapbooking, or any creative endeavor seeking a rustic charm. Let your creativity flow with this delightful backdrop!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coffee Stained Paper Background Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA1L3B4MTAyNTkxNS1pbWFnZS1qLWpvYjY1NC1qb2IxNjMxLmpwZw.jpg' alt='Coffee Stained Paper Background Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1120">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA1L3B4MTAyNTkxNS1pbWFnZS1qLWpvYjY1NC1qb2IxNjMxLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coffee Stained Paper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/vintage-old-looking-coffee-cup-stain-background_231311-2527.jpg' alt='Coffee Stained Paper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/vintage-old-looking-coffee-cup-stain-background_231311-2527.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="DIY: How to Create a Coffee-Stained Texture for Aging Images in ...">
+                                <img itemprop="contentUrl url" src='https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2020/01/coffee-stained_texture.jpg?resize=1500%2C1000&ssl=1' alt='DIY: How to Create a Coffee-Stained Texture for Aging Images in ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Digital Photography School" />
+                                </span>
+                                <a href='https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2020/01/coffee-stained_texture.jpg?resize=1500%2C1000&ssl=1' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coffee Stained Paper Vector Art, Icons, and Graphics for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/000/119/076/small/vector-grunge-stained-background.jpg' alt='Coffee Stained Paper Vector Art, Icons, and Graphics for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="286">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/000/119/076/small/vector-grunge-stained-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stained Paper Natural Coffee Stain Texture On Vintage Weathered ...">
+                                <img itemprop="contentUrl url" src='https://img.pikbest.com/wp/202344/stained-paper-natural-coffee-stain-texture-on-vintage-weathered_9938461.jpg!w700wp' alt='Stained Paper Natural Coffee Stain Texture On Vintage Weathered ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="392">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pikbest" />
+                                </span>
+                                <a href='https://img.pikbest.com/wp/202344/stained-paper-natural-coffee-stain-texture-on-vintage-weathered_9938461.jpg!w700wp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,800+ Coffee Stained Paper Stock Photos, Pictures & Royalty-Free ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/472605658/vector/old-stained-paper-texture.jpg?s=612x612&w=0&k=20&c=dxvDXhdzAT1kRuhuts-ZksaT_1ATxoH_pVIMMqVZynE=' alt='2,800+ Coffee Stained Paper Stock Photos, Pictures & Royalty-Free ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/472605658/vector/old-stained-paper-texture.jpg?s=612x612&w=0&k=20&c=dxvDXhdzAT1kRuhuts-ZksaT_1ATxoH_pVIMMqVZynE=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coffee Background by Sucrotine on DeviantArt">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/71/e3/02/71e3020bdc49adaf05c5337d9a5dfda5.jpg' alt='Coffee Background by Sucrotine on DeviantArt'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1090">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/71/e3/02/71e3020bdc49adaf05c5337d9a5dfda5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Parchment paper background. Coffee stains background. Brown splash ...">
+                                <img itemprop="contentUrl url" src='https://as2.ftcdn.net/jpg/04/93/80/41/1000_F_493804158_GWF2aatDnJ1YXj8tYA0bTsNHTrQaLpde.jpg' alt='Parchment paper background. Coffee stains background. Brown splash ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://as2.ftcdn.net/jpg/04/93/80/41/1000_F_493804158_GWF2aatDnJ1YXj8tYA0bTsNHTrQaLpde.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Free Vectors, Photos, Icons, PSDs and more | Stained ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/7a/08/be/7a08bee481869916b0758891c5350764.jpg' alt='Download Free Vectors, Photos, Icons, PSDs and more | Stained ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1171">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/7a/08/be/7a08bee481869916b0758891c5350764.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Coffee Stains On Crumpled Grunge Paper Texture (Paper) | Textures ...">
+                                <img itemprop="contentUrl url" src='http://www.textures4photoshop.com/tex/thumbs/coffee-stains-on-crumpled-grunge-paper-texture-97.jpg' alt='Coffee Stains On Crumpled Grunge Paper Texture (Paper) | Textures ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Textures4Photoshop" />
+                                </span>
+                                <a href='http://www.textures4photoshop.com/tex/thumbs/coffee-stains-on-crumpled-grunge-paper-texture-97.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

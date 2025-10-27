@@ -1,0 +1,129 @@
+<title>Understanding City Watch in D&D 5e</title>
+                    <meta name="description" content="Explore the role of city watches in D&D 5e. Learn how they enforce laws, respond to crimes, and enrich urban adventures for players. Perfect for DM’s and players seeking to understand law enforcement in fantasy settings!">
+                    <meta name="keywords" content="city watch background 5e">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/city-watch-background-5e">
+                            <span itemprop="name">city watch background 5e</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Understanding City Watch in D&D 5e</h1>
+                <p>In Dungeons & Dragons 5e, city watches serve as local law enforcement, ensuring order in urban settings. Composed of guards and watchmen, they respond to crimes, patrol neighborhoods, and maintain peace. Players can interact with them for quests, information, or consequences of their actions, adding depth to city adventures.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="City Watch (Waterdeep) | Forgotten Realms Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/forgottenrealms/images/1/11/City_watch-5e.jpg/revision/latest?cb=20181010153053' alt='City Watch (Waterdeep) | Forgotten Realms Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1274">
+                                <meta itemprop="height" content="883">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forgotten Realms Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/forgottenrealms/images/1/11/City_watch-5e.jpg/revision/latest?cb=20181010153053' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="City Watch of Waterdeep Organization in Not Forgotten Realms ...">
+                                <img itemprop="contentUrl url" src='https://www.worldanvil.com/uploads/images/72ed943bd5c10182e5e0f0be69073f9d.png' alt='City Watch of Waterdeep Organization in Not Forgotten Realms ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="574">
+                                <meta itemprop="height" content="967">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World Anvil" />
+                                </span>
+                                <a href='https://www.worldanvil.com/uploads/images/72ed943bd5c10182e5e0f0be69073f9d.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="5e NPCs - City Watch">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/d0/6a/76/d06a763819dbbc36b6bec6c3d551f5aa.jpg' alt='5e NPCs - City Watch'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1250">
+                                <meta itemprop="height" content="1859">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/d0/6a/76/d06a763819dbbc36b6bec6c3d551f5aa.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="City Watch (Waterdeep) | Forgotten Realms Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/forgottenrealms/images/7/75/City_watch_members-5e.jpg/revision/latest/scale-to-width-down/250?cb=20200905040036' alt='City Watch (Waterdeep) | Forgotten Realms Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="250">
+                                <meta itemprop="height" content="316">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forgotten Realms Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/forgottenrealms/images/7/75/City_watch_members-5e.jpg/revision/latest/scale-to-width-down/250?cb=20200905040036' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Art] Puck my Vhuman swashbuckler corrupt city watch for an evil ...">
+                                <img itemprop="contentUrl url" src='https://i.redd.it/8p8q3rdjsni31.jpg' alt='Art] Puck my Vhuman swashbuckler corrupt city watch for an evil ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1895">
+                                <meta itemprop="height" content="2639">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://i.redd.it/8p8q3rdjsni31.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="City Watch of Waterdeep - OakthorneWiki">
+                                <img itemprop="contentUrl url" src='https://oakthorne.net/wiki/images/thumb/Waterdeep-watch.jpg/350px-Waterdeep-watch.jpg' alt='City Watch of Waterdeep - OakthorneWiki'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="365">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Oakthorne.Net" />
+                                </span>
+                                <a href='https://oakthorne.net/wiki/images/thumb/Waterdeep-watch.jpg/350px-Waterdeep-watch.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="City Watch of Waterdeep Organization in Not Forgotten Realms ...">
+                                <img itemprop="contentUrl url" src='https://www.worldanvil.com/uploads/images/4950d7bda7026f4c7417d3c6eebece64.jpg' alt='City Watch of Waterdeep Organization in Not Forgotten Realms ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1262">
+                                <meta itemprop="height" content="633">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World Anvil" />
+                                </span>
+                                <a href='https://www.worldanvil.com/uploads/images/4950d7bda7026f4c7417d3c6eebece64.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="City Watch 5E Background - D&D 5E">
+                                <img itemprop="contentUrl url" src='https://video-meta.humix.com/poster/KUMGbLQzwPd6/DGOpR1WQYG2_nMkEBE.webp' alt='City Watch 5E Background - D&D 5E'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="480">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="DnD Backgrounds" />
+                                </span>
+                                <a href='https://video-meta.humix.com/poster/KUMGbLQzwPd6/DGOpR1WQYG2_nMkEBE.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="City Watch (Waterdeep) | Forgotten Realms Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/forgottenrealms/images/a/a7/Delzorin.png/revision/latest?cb=20190302154139' alt='City Watch (Waterdeep) | Forgotten Realms Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="849">
+                                <meta itemprop="height" content="569">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forgotten Realms Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/forgottenrealms/images/a/a7/Delzorin.png/revision/latest?cb=20190302154139' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="City Watch | Kingsway Role Playing Group Wiki | Fandom">
+                                <img itemprop="contentUrl url" src='https://static.wikia.nocookie.net/kingsway-role-playing-group/images/6/6c/Watch.jpg/revision/latest/scale-to-width-down/284?cb=20180930204041' alt='City Watch | Kingsway Role Playing Group Wiki | Fandom'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="284">
+                                <meta itemprop="height" content="384">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Kingsway Role Playing Group Wiki - Fandom" />
+                                </span>
+                                <a href='https://static.wikia.nocookie.net/kingsway-role-playing-group/images/6/6c/Watch.jpg/revision/latest/scale-to-width-down/284?cb=20180930204041' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

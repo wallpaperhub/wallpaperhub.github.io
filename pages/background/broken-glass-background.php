@@ -1,0 +1,129 @@
+<title>Captivating Broken Glass Backgrounds for Creative Designs</title>
+                    <meta name="description" content="Discover stunning broken glass backgrounds perfect for your creative projects. These unique textures add depth and intrigue, making them ideal for digital art, photography, and more. Enhance your design with the beauty of fragility and chaos today!">
+                    <meta name="keywords" content="broken glass background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/broken-glass-background">
+                            <span itemprop="name">broken glass background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Captivating Broken Glass Backgrounds for Creative Designs</h1>
+                <p>A broken glass background can serve as a striking visual element in design projects, evoking emotions of fragility and chaos. Its jagged edges and shattered fragments create intricate patterns that can enhance digital art, photography, and presentations. Ideal for themes of transformation or disturbance, this texture adds depth and intrigue to any creative endeavor.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="21,300+ Broken Glass Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/155277394/photo/shattering-window-glass.jpg?s=612x612&w=0&k=20&c=ae-fIAg85vZkLjFyICAVdZrBQ2gsMNU9QJlrlTYqsaI=' alt='21,300+ Broken Glass Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="372">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/155277394/photo/shattering-window-glass.jpg?s=612x612&w=0&k=20&c=ae-fIAg85vZkLjFyICAVdZrBQ2gsMNU9QJlrlTYqsaI=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free Shattered Glass Art Image | Download at StockCake">
+                                <img itemprop="contentUrl url" src='https://images.stockcake.com/public/c/2/c/c2cc834d-813e-44f0-b0e8-b4bdb5787182_large/shattered-glass-art-stockcake.jpg' alt='Free Shattered Glass Art Image | Download at StockCake'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="728">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="StockCake" />
+                                </span>
+                                <a href='https://images.stockcake.com/public/c/2/c/c2cc834d-813e-44f0-b0e8-b4bdb5787182_large/shattered-glass-art-stockcake.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Realistic broken glass background">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/realistic-broken-glass-background_52683-75053.jpg' alt='Premium Vector | Realistic broken glass background'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/realistic-broken-glass-background_52683-75053.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Сracked glass close-up on dark background. Texture of broken glass ...">
+                                <img itemprop="contentUrl url" src='https://c8.alamy.com/comp/2DD3027/racked-glass-close-up-on-dark-background-texture-of-broken-glass-isolated-realistic-cracked-glass-effect-2DD3027.jpg' alt='Сracked glass close-up on dark background. Texture of broken glass ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1300">
+                                <meta itemprop="height" content="740">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alamy" />
+                                </span>
+                                <a href='https://c8.alamy.com/comp/2DD3027/racked-glass-close-up-on-dark-background-texture-of-broken-glass-isolated-realistic-cracked-glass-effect-2DD3027.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broken Glass Background Vectors & Illustrations for Free Download ...">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/broken-glass-frame_1284-9419.jpg?w=360' alt='Broken Glass Background Vectors & Illustrations for Free Download ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="360">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/broken-glass-frame_1284-9419.jpg?w=360' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Image Of A Broken Glass Window On A Black Background 30965305 ...">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/previews/030/965/305/large_2x/image-of-a-broken-glass-window-on-a-black-background-photo.jpg' alt='Image Of A Broken Glass Window On A Black Background 30965305 ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2800">
+                                <meta itemprop="height" content="1960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/previews/030/965/305/large_2x/image-of-a-broken-glass-window-on-a-black-background-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Shattered Glass Png Stock Illustrations – 111 Shattered Glass Png ...">
+                                <img itemprop="contentUrl url" src='https://thumbs.dreamstime.com/b/realistic-shattered-glass-fragments-highquality-png-images-graphic-design-web-print-projects-collection-351270016.jpg' alt='Shattered Glass Png Stock Illustrations – 111 Shattered Glass Png ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Dreamstime.com" />
+                                </span>
+                                <a href='https://thumbs.dreamstime.com/b/realistic-shattered-glass-fragments-highquality-png-images-graphic-design-web-print-projects-collection-351270016.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broken Glass Background In Black Black Minimalist Background With ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1247644004/photo/broken-glass-background-in-black-black-minimalist-background-with-cracks-on-the-glass-with.jpg?s=612x612&w=0&k=20&c=-d2DrKBM9pVAV_3qygBqeNMJw4wpev9nexQf0RfBt28=' alt='Broken Glass Background In Black Black Minimalist Background With ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1247644004/photo/broken-glass-background-in-black-black-minimalist-background-with-cracks-on-the-glass-with.jpg?s=612x612&w=0&k=20&c=-d2DrKBM9pVAV_3qygBqeNMJw4wpev9nexQf0RfBt28=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="500+ Broken Glass Pictures | Download Free Images on Unsplash">
+                                <img itemprop="contentUrl url" src='https://plus.unsplash.com/premium_photo-1725309317442-814710cef634?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YnJva2VuJTIwZ2xhc3N8ZW58MHx8MHx8fDA%3D' alt='500+ Broken Glass Pictures | Download Free Images on Unsplash'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3000">
+                                <meta itemprop="height" content="2000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Unsplash" />
+                                </span>
+                                <a href='https://plus.unsplash.com/premium_photo-1725309317442-814710cef634?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YnJva2VuJTIwZ2xhc3N8ZW58MHx8MHx8fDA%3D' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Broken Glass Background" Images – Browse 423 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/12/65/14/13/360_F_1265141333_Pv0KdKsIHDFFZmliRLEirPSC39UNscrG.jpg' alt='Broken Glass Background" Images – Browse 423 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/12/65/14/13/360_F_1265141333_Pv0KdKsIHDFFZmliRLEirPSC39UNscrG.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

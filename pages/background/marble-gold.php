@@ -1,0 +1,129 @@
+<title>Luxurious Marble Gold: Transform Your Space</title>
+                    <meta name="description" content="Explore the beauty of marble gold, a stunning blend of marble's elegance and gold's luxury. Perfect for enhancing interiors, this material offers timeless sophistication for countertops, flooring, and décor. Discover how marble gold can elevate your living space to new heights of style and glamour.">
+                    <meta name="keywords" content="marble gold">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/marble-gold">
+                            <span itemprop="name">marble gold</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Luxurious Marble Gold: Transform Your Space</h1>
+                <p>Marble gold is a luxurious material that combines the elegance of marble with the opulence of gold accents. Ideal for sophisticated interiors, it adds depth and a touch of glamour to spaces. Whether in countertops, flooring, or decorative features, marble gold creates an unmatched aesthetic appeal, elevating any environment.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Gold Marble | MGT Stone Co">
+                                <img itemprop="contentUrl url" src='https://mgtstoneco.com/wp-content/uploads/2023/08/white-gold-marble-surface.webp' alt='White Gold Marble | MGT Stone Co'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MGT Stone Co" />
+                                </span>
+                                <a href='https://mgtstoneco.com/wp-content/uploads/2023/08/white-gold-marble-surface.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold and white marble Painting by Alexandra Yaremenko | Saatchi Art">
+                                <img itemprop="contentUrl url" src='https://images.saatchiart.com/saatchi/1635155/art/8096692/7163475-TGHJLFGH-7.jpg' alt='Gold and white marble Painting by Alexandra Yaremenko | Saatchi Art'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="770">
+                                <meta itemprop="height" content="1047">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Saatchi Art" />
+                                </span>
+                                <a href='https://images.saatchiart.com/saatchi/1635155/art/8096692/7163475-TGHJLFGH-7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Calacatta Gold Extra Marble Slabs - MMG Tile & Stone">
+                                <img itemprop="contentUrl url" src='https://mmgmarble.com/wp-content/uploads/2021/04/calacatta-gold-extra-2cm-600x600.jpg' alt='Calacatta Gold Extra Marble Slabs - MMG Tile & Stone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MMG Tile & Stone" />
+                                </span>
+                                <a href='https://mmgmarble.com/wp-content/uploads/2021/04/calacatta-gold-extra-2cm-600x600.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marble Gold Images – Browse 1,040,538 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/03/26/51/19/360_F_326511984_rhvUDtuHPQYjHgyuHfUFbhu0AHSG7jmp.jpg' alt='Marble Gold Images – Browse 1,040,538 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="641">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/03/26/51/19/360_F_326511984_rhvUDtuHPQYjHgyuHfUFbhu0AHSG7jmp.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="White Gold Marble Texture Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/elegant-marble-background-with-gold-glitter_1048-18889.jpg' alt='White Gold Marble Texture Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/elegant-marble-background-with-gold-glitter_1048-18889.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="marble-with-gold-gold-marble-by-blue-gold-marble-background-gold ...">
+                                <img itemprop="contentUrl url" src='https://belmontstudios.com/wp-content/uploads/marble-with-gold-gold-marble-by-blue-gold-marble-background-gold-marble-wallpaper-uk.jpg' alt='marble-with-gold-gold-marble-by-blue-gold-marble-background-gold ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="700">
+                                <meta itemprop="height" content="700">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Belmont Studios" />
+                                </span>
+                                <a href='https://belmontstudios.com/wp-content/uploads/marble-with-gold-gold-marble-by-blue-gold-marble-background-gold-marble-wallpaper-uk.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Calacatta Gold">
+                                <img itemprop="contentUrl url" src='http://arkdeko.com/cdn/shop/files/arkdeko_marble_wall_panel_calacatta_gold_interior.jpg?v=1718539298' alt='Calacatta Gold'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="ARKdeko" />
+                                </span>
+                                <a href='http://arkdeko.com/cdn/shop/files/arkdeko_marble_wall_panel_calacatta_gold_interior.jpg?v=1718539298' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Gold Marble Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/elegant-hand-painted-alcohol-ink-background-with-gold-glitter_1048-16896.jpg' alt='Gold Marble Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="444">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/elegant-hand-painted-alcohol-ink-background-with-gold-glitter_1048-16896.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Marble Gold Grey Images – Browse 150,042 Stock Photos, Vectors ...">
+                                <img itemprop="contentUrl url" src='https://t3.ftcdn.net/jpg/04/89/16/48/360_F_489164836_AO8d1s7nUK9hID4VTDNXotZ1pK4i41FE.jpg' alt='Marble Gold Grey Images – Browse 150,042 Stock Photos, Vectors ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="853">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t3.ftcdn.net/jpg/04/89/16/48/360_F_489164836_AO8d1s7nUK9hID4VTDNXotZ1pK4i41FE.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Photo | A white marble with gold and white colors">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-photo/white-marble-with-gold-white-colors_605423-203395.jpg' alt='Premium Photo | A white marble with gold and white colors'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="417">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-photo/white-marble-with-gold-white-colors_605423-203395.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Summer Vibes: Stunning iPhone Pink Wallpapers</title>
+                    <meta name="description" content="Discover the perfect summer pink wallpapers for your iPhone! Our collection features gorgeous designs that add a splash of color to your device, ensuring your screen stands out. Explore vibrant florals, sunsets, and more—refresh your phone's look with our exclusive wallpapers today!">
+                    <meta name="keywords" content="iphone summer pink wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone">
+                            <span itemprop="name">Iphone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/iphone/iphone-summer-pink-wallpaper">
+                            <span itemprop="name">iphone summer pink wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Summer Vibes: Stunning iPhone Pink Wallpapers</h1>
+                <p>Brighten up your summer with stunning iPhone pink wallpapers! Embrace the vibrant hues of summer with our curated collection of pink-themed backgrounds. Perfect for adding a touch of elegance to your device, these wallpapers showcase beautiful pink florals, sunset skies, and abstract designs. Customize your iPhone today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beach iPhone Wallpapers HD Quality - Best Beach Backgrounds">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/fc/c8/fc/fcc8fc9b52e29ec4fe0dcda082bb99a1.jpg' alt='Beach iPhone Wallpapers HD Quality - Best Beach Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/fc/c8/fc/fcc8fc9b52e29ec4fe0dcda082bb99a1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ab/b0/27/abb027a02c1c1ec95ddd092472691377.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ab/b0/27/abb027a02c1c1ec95ddd092472691377.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pink Beach Sand Summer Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/pink-beach-sand-summer-iphone-r3bgghwgd96g0c1h.jpg' alt='Pink Beach Sand Summer Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/pink-beach-sand-summer-iphone-r3bgghwgd96g0c1h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Summer Wallpaper For iPhone | 30+ Sun-Filled Backgrounds For Summer">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/3e/59/e3/3e59e34d14bc9b0bb29786b3ed966045.jpg' alt='Summer Wallpaper For iPhone | 30+ Sun-Filled Backgrounds For Summer'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="576">
+                                <meta itemprop="height" content="1072">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="gr.pinterest.com" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/3e/59/e3/3e59e34d14bc9b0bb29786b3ed966045.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pastel pink beach wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/48/ee/bb/48eebb746876a78e3fd5b990f84221b7.jpg' alt='Pastel pink beach wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1520">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/48/ee/bb/48eebb746876a78e3fd5b990f84221b7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Pink Summer Aesthetic Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/pink-summer-aesthetic-kkeza1qfxk9el89t.jpg' alt='100+] Pink Summer Aesthetic Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/pink-summer-aesthetic-kkeza1qfxk9el89t.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="spring and summer girly iphone wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/f1/c0/51/f1c0515190b019036cbbcceed8561b36.jpg' alt='spring and summer girly iphone wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/f1/c0/51/f1c0515190b019036cbbcceed8561b36.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="np20-sea-water-beach-summer-nature-pink-wallpaper">
+                                <img itemprop="contentUrl url" src='https://papers.co/wallpaper/papers.co-np20-sea-water-beach-summer-nature-pink-41-iphone-wallpaper.jpg' alt='np20-sea-water-beach-summer-nature-pink-wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2436">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Papers.co" />
+                                </span>
+                                <a href='https://papers.co/wallpaper/papers.co-np20-sea-water-beach-summer-nature-pink-41-iphone-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="35 Trendy Pink Wallpapers For Iphone (Free Download!)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/98/4b/80/984b80a963ec6379b89bb66e4431b584.jpg' alt='35 Trendy Pink Wallpapers For Iphone (Free Download!)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="474">
+                                <meta itemprop="height" content="843">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/98/4b/80/984b80a963ec6379b89bb66e4431b584.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="30 Aesthetic Summer Wallpapers for iPhone : Strawberry Pink Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/aa/71/78/aa7178b0754ec965213c7e3c05b46b15.jpg' alt='30 Aesthetic Summer Wallpapers for iPhone : Strawberry Pink Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="567">
+                                <meta itemprop="height" content="1100">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/aa/71/78/aa7178b0754ec965213c7e3c05b46b15.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

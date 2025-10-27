@@ -1,0 +1,129 @@
+<title>Kawaii Duck Wallpapers: Adorable & Cute Backgrounds</title>
+                    <meta name="description" content="Explore our collection of cute kawaii duck wallpapers! Perfect for adding charm and joy to your screens, these adorable designs brighten any device. Dive into cuteness with unique pastel and vibrant styles tailored for every kawaii lover. Download your favorite today!">
+                    <meta name="keywords" content="cute kawaii duck wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii">
+                            <span itemprop="name">Kawaii</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/kawaii/cute-kawaii-duck-wallpaper">
+                            <span itemprop="name">cute kawaii duck wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Kawaii Duck Wallpapers: Adorable & Cute Backgrounds</h1>
+                <p>Discover the adorable world of kawaii duck wallpapers! Perfect for adding a touch of cuteness to your device, these charming duck designs feature playful colors and delightful expressions. Whether you love pastel shades or vibrant hues, our collection offers the ideal background to brighten your day. Dive into the cuteness!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii ducks">
+                                <img itemprop="contentUrl url" src='https://fancywalls.eu/wp-content/uploads/kawaii-ducks-pattern-repeat-removable-wallpaper-design.jpg' alt='Kawaii ducks'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1365">
+                                <meta itemprop="height" content="2048">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Fancy Walls" />
+                                </span>
+                                <a href='https://fancywalls.eu/wp-content/uploads/kawaii-ducks-pattern-repeat-removable-wallpaper-design.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="cute #doodle #wallpaper #desktop #screensaver #iphone #background ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/8a/96/32/8a9632a09b9c9ed5f2072466eae9e567.jpg' alt='cute #doodle #wallpaper #desktop #screensaver #iphone #background ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1377">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/8a/96/32/8a9632a09b9c9ed5f2072466eae9e567.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Kawaii Printable Ducks Goose Clipart / Commercial Use/ PNG - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/24366546/r/il/6afad6/4432454476/il_570xN.4432454476_cddj.jpg' alt='Cute Kawaii Printable Ducks Goose Clipart / Commercial Use/ PNG - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="428">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/24366546/r/il/6afad6/4432454476/il_570xN.4432454476_cddj.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/fd/85/e5/fd85e57f471c381d81375adf5172b0d4.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/fd/85/e5/fd85e57f471c381d81375adf5172b0d4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Premium Vector | Cute kawaii duck seamless pattern wallpaper">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/premium-vector/cute-kawaii-duck-seamless-pattern-wallpaper_513640-2262.jpg' alt='Premium Vector | Cute kawaii duck seamless pattern wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="626">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/premium-vector/cute-kawaii-duck-seamless-pattern-wallpaper_513640-2262.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Cute Duck doodle">
+                                <img itemprop="contentUrl url" src='https://static.displate.com/270x380/displate/2023-04-17/fe16f016d588bf723c6cd910319d79f9_df53e4ce4a46086f5fb3d36129df8e02.jpg' alt='Kawaii Cute Duck doodle'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="270">
+                                <meta itemprop="height" content="380">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Displate" />
+                                </span>
+                                <a href='https://static.displate.com/270x380/displate/2023-04-17/fe16f016d588bf723c6cd910319d79f9_df53e4ce4a46086f5fb3d36129df8e02.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/da/7f/68/da7f68acc73f5cd6eecc87dbeec17e3a.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/da/7f/68/da7f68acc73f5cd6eecc87dbeec17e3a.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Kawaii Duck Wallpapers - Wallpaper Cave">
+                                <img itemprop="contentUrl url" src='https://wallpapercave.com/wp/wp7955200.jpg' alt='Kawaii Duck Wallpapers - Wallpaper Cave'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="872">
+                                <meta itemprop="height" content="1635">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Cave" />
+                                </span>
+                                <a href='https://wallpapercave.com/wp/wp7955200.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin by 胡 哲哲 on Mofupiyo “Sanpoimo” | Cute cartoon wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/b9/4c/43/b94c43e8041291159d93f5f10ca10229.jpg' alt='Pin by 胡 哲哲 on Mofupiyo “Sanpoimo” | Cute cartoon wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/b9/4c/43/b94c43e8041291159d93f5f10ca10229.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute duck Wallpaper 4K, Cute warning, 5K">
+                                <img itemprop="contentUrl url" src='https://4kwallpapers.com/images/wallpapers/cute-duck-cute-warning-5k-1440x2560-10104.png' alt='Cute duck Wallpaper 4K, Cute warning, 5K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1440">
+                                <meta itemprop="height" content="2560">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="4K Wallpapers" />
+                                </span>
+                                <a href='https://4kwallpapers.com/images/wallpapers/cute-duck-cute-warning-5k-1440x2560-10104.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

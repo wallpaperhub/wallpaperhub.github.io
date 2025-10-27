@@ -1,0 +1,129 @@
+<title>Aesthetic Anime Scenery Wallpapers for Your Device</title>
+                    <meta name="description" content="Explore a collection of stunning aesthetic anime scenery wallpapers that will elevate your device's appearance. Perfect for creating a serene ambiance, these wallpapers are designed to inspire and transform your screen into a picturesque escape. Download your favorites today!">
+                    <meta name="keywords" content="aesthetic anime scenery wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aesthetic-anime-scenery-wallpaper">
+                            <span itemprop="name">aesthetic anime scenery wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Aesthetic Anime Scenery Wallpapers for Your Device</h1>
+                <p>Discover the enchanting world of aesthetic anime scenery wallpapers! These vibrant visuals capture the essence of dreamy landscapes, from serene sunsets to lush forests that evoke a sense of wonder. Perfect for personalizing your device, these wallpapers inspire creativity and bring artistic flair to your digital space, transforming any screen into a captivating experience.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lakeside Aesthetic Anime Scenery Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/lakeside-aesthetic-anime-scenery-5jaj165nizvk920k.jpg' alt='Lakeside Aesthetic Anime Scenery Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/lakeside-aesthetic-anime-scenery-5jaj165nizvk920k.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Night Time Aesthetic Anime Scenery Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/night-time-aesthetic-anime-scenery-56jwapqke1ff4id4.jpg' alt='Night Time Aesthetic Anime Scenery Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/night-time-aesthetic-anime-scenery-56jwapqke1ff4id4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Aesthetic Landscape Wallpapers - Wallpaper Cave 6A">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6c/bf/d4/6cbfd465d34b8a3b0e8bdb94942e4ea6.jpg' alt='Anime Aesthetic Landscape Wallpapers - Wallpaper Cave 6A'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="414">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6c/bf/d4/6cbfd465d34b8a3b0e8bdb94942e4ea6.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lavender Aesthetic Anime Scenery Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/lavender-aesthetic-anime-scenery-1gki8zasyvabkldt.jpg' alt='Lavender Aesthetic Anime Scenery Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/lavender-aesthetic-anime-scenery-1gki8zasyvabkldt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Aesthetic Anime Scenery Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/aesthetic-anime-scenery-u9q6cmyl6eclnb62.jpg' alt='100+] Aesthetic Anime Scenery Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/aesthetic-anime-scenery-u9q6cmyl6eclnb62.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Nature Landscape Peaceful Aesthetic Calming (999) - Photo ...">
+                                <img itemprop="contentUrl url" src='https://www.picture.lk/files/preview/960x1713/11710758406xs7zw263rbwcjt8l3jzgflnltxf2aojialrf1vtpytcilwgpc5l0az61dbiuf79r7ayeonsfay2tbxybjo9ksqg6ff0ke7yqes27.jpg' alt='Anime Nature Landscape Peaceful Aesthetic Calming (999) - Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="857">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Picture.lk" />
+                                </span>
+                                <a href='https://www.picture.lk/files/preview/960x1713/11710758406xs7zw263rbwcjt8l3jzgflnltxf2aojialrf1vtpytcilwgpc5l0az61dbiuf79r7ayeonsfay2tbxybjo9ksqg6ff0ke7yqes27.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Aesthetic Landscape Japan" Classic T-Shirt for Sale by Cozy ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/91/f7/83/91f7839de684dedc77345f5eac8b9166.jpg' alt='Anime Aesthetic Landscape Japan" Classic T-Shirt for Sale by Cozy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1635">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/91/f7/83/91f7839de684dedc77345f5eac8b9166.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Landscape Stock Photos, Images and Backgrounds for Free Download">
+                                <img itemprop="contentUrl url" src='https://static.vecteezy.com/system/resources/thumbnails/033/982/959/small_2x/beautiful-landscape-background-cartoon-summer-sunrise-with-clouds-field-and-sunshine-anime-style-photo.jpg' alt='Anime Landscape Stock Photos, Images and Backgrounds for Free Download'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="714">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vecteezy" />
+                                </span>
+                                <a href='https://static.vecteezy.com/system/resources/thumbnails/033/982/959/small_2x/beautiful-landscape-background-cartoon-summer-sunrise-with-clouds-field-and-sunshine-anime-style-photo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD anime scenery wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/322/235/HD-wallpaper-japanese-vibes-ideas-in-2022-scenery-japan-aesthetic-anime-scenery.jpg' alt='HD anime scenery wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1421">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/322/235/HD-wallpaper-japanese-vibes-ideas-in-2022-scenery-japan-aesthetic-anime-scenery.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Anime Nature Landscape Peaceful Aesthetic Calming (81) - Photo ...">
+                                <img itemprop="contentUrl url" src='https://picture.lk/files/preview/960x1713/11710753671iqxvknghs9p4zuimhuhkeyqyrqaxiaqn6oxhey5f5tqbzxoz4bvisaz5zjmytu1xkz44rc9ukqofk6fcnbj0qb9vr33jnyzmeod8.jpg' alt='Anime Nature Landscape Peaceful Aesthetic Calming (81) - Photo ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="857">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Picture.lk" />
+                                </span>
+                                <a href='https://picture.lk/files/preview/960x1713/11710753671iqxvknghs9p4zuimhuhkeyqyrqaxiaqn6oxhey5f5tqbzxoz4bvisaz5zjmytu1xkz44rc9ukqofk6fcnbj0qb9vr33jnyzmeod8.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

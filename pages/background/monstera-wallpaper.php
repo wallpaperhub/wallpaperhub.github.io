@@ -1,0 +1,129 @@
+<title>Vibrant Monstera Wallpaper: Elevate Your Home Decor</title>
+                    <meta name="description" content="Discover the beauty of monstera wallpaper! Ideal for bringing a touch of nature indoors, this wallpaper adds style and tranquility to your space. Perfect for living rooms, bedrooms, and more, it’s an easy way to refresh your home decor with tropical vibes. Transform your walls today!">
+                    <meta name="keywords" content="monstera wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/monstera-wallpaper">
+                            <span itemprop="name">monstera wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Vibrant Monstera Wallpaper: Elevate Your Home Decor</h1>
+                <p>Transform your space with stunning monstera wallpaper! This tropical design brings vibrant greenery to your walls, creating a refreshing atmosphere in any room. Perfect for nature lovers, the bold leaves add personality and flair, elevating your decor while promoting a sense of calm and connection to the outdoors.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A-Street Prints Samara Green Monstera Leaf Paper Strippable Roll (Covers  56.4 sq. ft.) 2969-26006 - The Home Depot">
+                                <img itemprop="contentUrl url" src='https://images.thdstatic.com/productImages/4658b303-a5e7-4217-95a7-1173c312a1e4/svn/a-street-prints-wallpaper-rolls-2969-26006-64_1000.jpg' alt='A-Street Prints Samara Green Monstera Leaf Paper Strippable Roll (Covers  56.4 sq. ft.) 2969-26006 - The Home Depot'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Home Depot" />
+                                </span>
+                                <a href='https://images.thdstatic.com/productImages/4658b303-a5e7-4217-95a7-1173c312a1e4/svn/a-street-prints-wallpaper-rolls-2969-26006-64_1000.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Monstera Botanicals Wallpaper">
+                                <img itemprop="contentUrl url" src='https://static.basicinvite.com/media/bi/33245/monstera-botanicals-wallpaper-2x.jpg?q=1696359444' alt='Monstera Botanicals Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1400">
+                                <meta itemprop="height" content="1400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Love vs. Design" />
+                                </span>
+                                <a href='https://static.basicinvite.com/media/bi/33245/monstera-botanicals-wallpaper-2x.jpg?q=1696359444' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="130 Best MONSTERA ideas | monstera, wallpaper backgrounds, plant ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/5f/1a/a0/5f1aa0131fe4a04d95dca61778f2c189.jpg' alt='130 Best MONSTERA ideas | monstera, wallpaper backgrounds, plant ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1331">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/5f/1a/a0/5f1aa0131fe4a04d95dca61778f2c189.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Monstera no 6">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/50013/monstera-no-6.jpg?h=699&q=85' alt='Monstera no 6'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1398">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/50013/monstera-no-6.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Monstera Leaves Print Wallpaper - Removable Wallpaper - Monstera ...">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/13633394/r/il/c7ed15/1082165117/il_570xN.1082165117_d25h.jpg' alt='Monstera Leaves Print Wallpaper - Removable Wallpaper - Monstera ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="570">
+                                <meta itemprop="height" content="671">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/13633394/r/il/c7ed15/1082165117/il_570xN.1082165117_d25h.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Monstera Leaves Nature Background Wallpaper for PC 4K - Heroscreen ...">
+                                <img itemprop="contentUrl url" src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8SGkXO7qvdusklJ6aB4oyCET0_XStSl31jR8bkgx6z_MtSDIsejxdeQnSjhlBWtVg-qVF3lNRzXFYiJfpNSnfhSlDnXOL8-CpZ4zPdzrwnwe_U3hvszfdqjqKctY5AExBFm1xtMqM-BVOxIseLhAOSd42aBX8R3oXkKcqgfiDMaBCtcNrFVh4qMZ6sw/w1600/monstera-leaves-nature-background-wallpaper.jpg' alt='Monstera Leaves Nature Background Wallpaper for PC 4K - Heroscreen ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Heroscreen" />
+                                </span>
+                                <a href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8SGkXO7qvdusklJ6aB4oyCET0_XStSl31jR8bkgx6z_MtSDIsejxdeQnSjhlBWtVg-qVF3lNRzXFYiJfpNSnfhSlDnXOL8-CpZ4zPdzrwnwe_U3hvszfdqjqKctY5AExBFm1xtMqM-BVOxIseLhAOSd42aBX8R3oXkKcqgfiDMaBCtcNrFVh4qMZ6sw/w1600/monstera-leaves-nature-background-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Botanical Wallpaper Monstera Pink by KEK Amsterdam">
+                                <img itemprop="contentUrl url" src='http://www.burkedecor.com/cdn/shop/products/Botanical_Wallpaper_Monstera_Pink_by_KEK_Amsterdam_00501099-9c89-49d3-b1d6-b64121695326.jpg?v=1571712159' alt='Botanical Wallpaper Monstera Pink by KEK Amsterdam'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1767">
+                                <meta itemprop="height" content="2500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Burke Decor" />
+                                </span>
+                                <a href='http://www.burkedecor.com/cdn/shop/products/Botanical_Wallpaper_Monstera_Pink_by_KEK_Amsterdam_00501099-9c89-49d3-b1d6-b64121695326.jpg?v=1571712159' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Botany Monstera">
+                                <img itemprop="contentUrl url" src='https://images.photowall.com/products/52351/botany-monstera.jpg?h=699&q=85' alt='Botany Monstera'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="699">
+                                <meta itemprop="height" content="699">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Photowall" />
+                                </span>
+                                <a href='https://images.photowall.com/products/52351/botany-monstera.jpg?h=699&q=85' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="130 Best MONSTERA ideas | monstera, wallpaper backgrounds, plant ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/originals/80/b1/fb/80b1fbda4f98829a17b2411a1f1dd53e.jpg' alt='130 Best MONSTERA ideas | monstera, wallpaper backgrounds, plant ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2250">
+                                <meta itemprop="height" content="4000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/originals/80/b1/fb/80b1fbda4f98829a17b2411a1f1dd53e.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Monstera Wallpaper | Tropical Jungle Leaf Wallcovering">
+                                <img itemprop="contentUrl url" src='https://cdn.wallpapered.com/wp-content/uploads/2018/10/05133755/Monstera-deliciosa-_closeup.jpg' alt='Monstera Wallpaper | Tropical Jungle Leaf Wallcovering'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="617">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="www.fbpd.org" />
+                                </span>
+                                <a href='https://cdn.wallpapered.com/wp-content/uploads/2018/10/05133755/Monstera-deliciosa-_closeup.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

@@ -1,0 +1,129 @@
+<title>Discover the Rich History of Phoenix, Arizona</title>
+                    <meta name="description" content="Explore the fascinating history of Phoenix, from its Native American roots to its growth as a bustling urban center. Uncover the key events and cultural influences that shaped this vibrant city in the heart of the Arizona desert. Perfect for history buffs and curious travelers alike!">
+                    <meta name="keywords" content="history of phoenix">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/history-of-phoenix">
+                            <span itemprop="name">history of phoenix</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Discover the Rich History of Phoenix, Arizona</h1>
+                <p>Phoenix, Arizona, founded in 1881, has a rich history rooted in Native American culture, particularly the Hohokam people, who lived in the region for centuries. The city blossomed with the arrival of railroads, transforming it into a thriving agricultural and urban hub. Today, Phoenix is known for its vibrant culture and desert landscape.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="City of Phoenix History">
+                                <img itemprop="contentUrl url" src='https://www.phoenix.gov/piosite/MediaAssets/d_037722.jpg' alt='City of Phoenix History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="288">
+                                <meta itemprop="height" content="167">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="City of Phoenix" />
+                                </span>
+                                <a href='https://www.phoenix.gov/piosite/MediaAssets/d_037722.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="City of Phoenix History">
+                                <img itemprop="contentUrl url" src='https://www.phoenix.gov/piosite/MediaAssets/d_037734.jpg' alt='City of Phoenix History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="288">
+                                <meta itemprop="height" content="256">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="City of Phoenix" />
+                                </span>
+                                <a href='https://www.phoenix.gov/piosite/MediaAssets/d_037734.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="140 years makes a big difference: Time travel back to the start of Phoenix  with this historical lithograph">
+                                <img itemprop="contentUrl url" src='https://media.12news.com/assets/KPNX/images/ebab6f2a-a207-471d-9c50-c84bd924446d/ebab6f2a-a207-471d-9c50-c84bd924446d_1920x1080.jpg' alt='140 years makes a big difference: Time travel back to the start of Phoenix  with this historical lithograph'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="12News" />
+                                </span>
+                                <a href='https://media.12news.com/assets/KPNX/images/ebab6f2a-a207-471d-9c50-c84bd924446d/ebab6f2a-a207-471d-9c50-c84bd924446d_1920x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="125 years later, pioneer spirit marks Phoenix's rise">
+                                <img itemprop="contentUrl url" src='https://www.azcentral.com/gcdn/-mm-/0d20cf128f2294fe246f45de7772fe7f662b4b6b/c=0-663-3398-2583/local/-/media/2015/05/12/Phoenix/Phoenix/635670496648533206-downtown-original.jpg' alt='125 years later, pioneer spirit marks Phoenix's rise'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3398">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AZCentral" />
+                                </span>
+                                <a href='https://www.azcentral.com/gcdn/-mm-/0d20cf128f2294fe246f45de7772fe7f662b4b6b/c=0-663-3398-2583/local/-/media/2015/05/12/Phoenix/Phoenix/635670496648533206-downtown-original.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="City of Phoenix History">
+                                <img itemprop="contentUrl url" src='https://www.phoenix.gov/piosite/MediaAssets/d_037725.jpg' alt='City of Phoenix History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="288">
+                                <meta itemprop="height" content="159">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="City of Phoenix" />
+                                </span>
+                                <a href='https://www.phoenix.gov/piosite/MediaAssets/d_037725.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="City of Phoenix History">
+                                <img itemprop="contentUrl url" src='https://www.phoenix.gov/piosite/MediaAssets/d_037737.jpg' alt='City of Phoenix History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="306">
+                                <meta itemprop="height" content="204">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="City of Phoenix" />
+                                </span>
+                                <a href='https://www.phoenix.gov/piosite/MediaAssets/d_037737.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="A Brief History of Phoenix: Talton, Jon: 9781467118446: Amazon.com ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61uRbnU-0xL._AC_UF1000,1000_QL80_.jpg' alt='A Brief History of Phoenix: Talton, Jon: 9781467118446: Amazon.com ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="694">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61uRbnU-0xL._AC_UF1000,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="How downtown Phoenix has changed over 14 decades">
+                                <img itemprop="contentUrl url" src='https://www.azcentral.com/gcdn/-mm-/eaa179e6dcf036923984ed5b15cc0737d52b273e/c=0-52-1954-1151/local/-/media/Phoenix/2014/12/12/B9315433927Z.1_20141212095513_000_G8E9CHEL0.1-0.jpg?width=660&height=372&fit=crop&format=pjpg&auto=webp' alt='How downtown Phoenix has changed over 14 decades'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="660">
+                                <meta itemprop="height" content="372">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="AZCentral" />
+                                </span>
+                                <a href='https://www.azcentral.com/gcdn/-mm-/eaa179e6dcf036923984ed5b15cc0737d52b273e/c=0-52-1954-1151/local/-/media/Phoenix/2014/12/12/B9315433927Z.1_20141212095513_000_G8E9CHEL0.1-0.jpg?width=660&height=372&fit=crop&format=pjpg&auto=webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="City of Phoenix History">
+                                <img itemprop="contentUrl url" src='https://www.phoenix.gov/piosite/MediaAssets/074559.jpg' alt='City of Phoenix History'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="180">
+                                <meta itemprop="height" content="252">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="City of Phoenix" />
+                                </span>
+                                <a href='https://www.phoenix.gov/piosite/MediaAssets/074559.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Historian shares history behind photo of downtown Phoenix taken in the 1800s">
+                                <img itemprop="contentUrl url" src='https://media.12news.com/assets/KPNX/images/c153075e-8882-4584-afb2-b70904215b66/c153075e-8882-4584-afb2-b70904215b66_1920x1080.jpg' alt='Historian shares history behind photo of downtown Phoenix taken in the 1800s'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="12News" />
+                                </span>
+                                <a href='https://media.12news.com/assets/KPNX/images/c153075e-8882-4584-afb2-b70904215b66/c153075e-8882-4584-afb2-b70904215b66_1920x1080.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

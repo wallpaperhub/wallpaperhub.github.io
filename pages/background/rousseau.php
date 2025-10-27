@@ -1,0 +1,129 @@
+<title>Exploring Rousseau: The Philosopher of Freedom and Education</title>
+                    <meta name="description" content="Dive into the world of Jean-Jacques Rousseau, the Enlightenment thinker whose ideas on democracy, freedom, and education have left a lasting impact on modern philosophy. Discover how his key works continue to inspire and influence contemporary discussions about society and individual rights.">
+                    <meta name="keywords" content="rousseau">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/rousseau">
+                            <span itemprop="name">rousseau</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Exploring Rousseau: The Philosopher of Freedom and Education</h1>
+                <p>Jean-Jacques Rousseau was an influential Enlightenment philosopher whose ideas on freedom, education, and government shaped modern thought. His seminal works, like "The Social Contract" and "Emile," explore the principles of democracy and the importance of nurturing natural instincts. Rousseau's legacy continues to inspire discussions about individual rights and societal responsibilities.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jean-Jacques Rousseau - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Jean-Jacques_Rousseau_%28painted_portrait%29.jpg/800px-Jean-Jacques_Rousseau_%28painted_portrait%29.jpg' alt='Jean-Jacques Rousseau - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1114">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Jean-Jacques_Rousseau_%28painted_portrait%29.jpg/800px-Jean-Jacques_Rousseau_%28painted_portrait%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jean-Jacques Rousseau | Biography, Education, Philosophy ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/80/122080-050-A80341CB/Jean-Jacques-Rousseau-aquatint.jpg' alt='Jean-Jacques Rousseau | Biography, Education, Philosophy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1485">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/80/122080-050-A80341CB/Jean-Jacques-Rousseau-aquatint.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jean-Jacques Rousseau | Biography, Education, Philosophy ...">
+                                <img itemprop="contentUrl url" src='https://cdn.britannica.com/18/60018-050-E8F7CB20/Jean-Jacques-Rousseau-pastels-Maurice-Quentin-de-La-Tour-1753.jpg' alt='Jean-Jacques Rousseau | Biography, Education, Philosophy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1172">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Britannica" />
+                                </span>
+                                <a href='https://cdn.britannica.com/18/60018-050-E8F7CB20/Jean-Jacques-Rousseau-pastels-Maurice-Quentin-de-La-Tour-1753.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Reckoning with Rousseau | Thomas Aquinas College">
+                                <img itemprop="contentUrl url" src='https://www.thomasaquinas.edu/sites/default/files/media/image/rousseau.jpg' alt='Reckoning with Rousseau | Thomas Aquinas College'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="502">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Thomas Aquinas College" />
+                                </span>
+                                <a href='https://www.thomasaquinas.edu/sites/default/files/media/image/rousseau.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jean-Jacques Rousseau - World History Encyclopedia">
+                                <img itemprop="contentUrl url" src='https://www.worldhistory.org/img/c/p/1600x900/18235.png' alt='Jean-Jacques Rousseau - World History Encyclopedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1600">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="World History Encyclopedia" />
+                                </span>
+                                <a href='https://www.worldhistory.org/img/c/p/1600x900/18235.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Portrait of Jean-Jacques Rousseau (1712- - Jean Edouard Lacretelle ...">
+                                <img itemprop="contentUrl url" src='https://www.art-prints-on-demand.com/kunst/jean_edouard_lacretelle/jean-jacques-rousseau.jpg' alt='Portrait of Jean-Jacques Rousseau (1712- - Jean Edouard Lacretelle ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Art-Prints-On-Demand" />
+                                </span>
+                                <a href='https://www.art-prints-on-demand.com/kunst/jean_edouard_lacretelle/jean-jacques-rousseau.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jean-Jacques Rousseau: as relevant as ever | Theo Hobson | The ...">
+                                <img itemprop="contentUrl url" src='https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/1/17/1389984061427/Jean-Jacques-Rousseau-011.jpg?width=465&dpr=1&s=none&crop=none' alt='Jean-Jacques Rousseau: as relevant as ever | Theo Hobson | The ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="460">
+                                <meta itemprop="height" content="276">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Guardian" />
+                                </span>
+                                <a href='https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/1/17/1389984061427/Jean-Jacques-Rousseau-011.jpg?width=465&dpr=1&s=none&crop=none' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="JEAN JACQUES ROUSSEAU Book Online available at rekhtabooks.com">
+                                <img itemprop="contentUrl url" src='http://rekhtabooks.com/cdn/shop/products/1111005842319-_1_b0ced52e-2225-4614-9460-b01ec6906ac6.jpg?v=1680033501' alt='JEAN JACQUES ROUSSEAU Book Online available at rekhtabooks.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="929">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rekhta Books" />
+                                </span>
+                                <a href='http://rekhtabooks.com/cdn/shop/products/1111005842319-_1_b0ced52e-2225-4614-9460-b01ec6906ac6.jpg?v=1680033501' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Explainer: the philosophy of Jean-Jacques Rousseau is profoundly ...">
+                                <img itemprop="contentUrl url" src='https://images.theconversation.com/files/545425/original/file-20230829-21-8099nf.jpg?ixlib=rb-4.1.0&q=45&auto=format&w=1000&fit=clip' alt='Explainer: the philosophy of Jean-Jacques Rousseau is profoundly ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1229">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Conversation" />
+                                </span>
+                                <a href='https://images.theconversation.com/files/545425/original/file-20230829-21-8099nf.jpg?ixlib=rb-4.1.0&q=45&auto=format&w=1000&fit=clip' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Jean-Jacques Rousseau | Online Library of Liberty">
+                                <img itemprop="contentUrl url" src='https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/people/3803/jean-jacques-rousseau.jpg' alt='Jean-Jacques Rousseau | Online Library of Liberty'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="905">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Online Library of Liberty - Liberty Fund" />
+                                </span>
+                                <a href='https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/people/3803/jean-jacques-rousseau.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

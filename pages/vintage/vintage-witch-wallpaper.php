@@ -1,0 +1,129 @@
+<title>Charming Vintage Witch Wallpaper for Enchanting Spaces</title>
+                    <meta name="description" content="Discover the allure of vintage witch wallpaper! Perfect for adding charm and magic to any room, our collection features enchanting designs that evoke nostalgia. Ideal for creating a whimsical atmosphere in bedrooms, living areas, and craft spaces. Transform your home with these unique wallpapers today!">
+                    <meta name="keywords" content="vintage witch wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage">
+                            <span itemprop="name">Vintage</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/vintage/vintage-witch-wallpaper">
+                            <span itemprop="name">vintage witch wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Vintage Witch Wallpaper for Enchanting Spaces</h1>
+                <p>Transform your space with vintage witch wallpaper, perfect for adding a whimsical touch to your home. Featuring enchanting designs that blend nostalgia with a hint of magic, these wallpapers bring to life the allure of witchcraft. Ideal for bedrooms, living areas, or craft rooms, they create an inviting, mystical atmosphere.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="12 Red Vintage Witches: (Halloween!) - The Graphics Fairy">
+                                <img itemprop="contentUrl url" src='https://thegraphicsfairy.com/wp-content/uploads/2013/09/Halloween-Witch-Owl-Image-GraphicsFairy-1.jpg' alt='12 Red Vintage Witches: (Halloween!) - The Graphics Fairy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1071">
+                                <meta itemprop="height" content="1668">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Graphics Fairy" />
+                                </span>
+                                <a href='https://thegraphicsfairy.com/wp-content/uploads/2013/09/Halloween-Witch-Owl-Image-GraphicsFairy-1.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="OLD WICKED WITCH - Desktop Nexus Wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/474x/26/a3/7e/26a37edaf5eaadf79a27b376ee04705f.jpg' alt='OLD WICKED WITCH - Desktop Nexus Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="450">
+                                <meta itemprop="height" content="337">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/474x/26/a3/7e/26a37edaf5eaadf79a27b376ee04705f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="mobile phone wallpapers and lock screen wallpapers!">
+                                <img itemprop="contentUrl url" src='https://666.unruled.club/wp-content/uploads/2023/10/halloween-vintage-witch_iphone-x-1125x2434.jpg' alt='mobile phone wallpapers and lock screen wallpapers!'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1125">
+                                <meta itemprop="height" content="2434">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="mobile phone wallpapers and lock screen wallpapers!" />
+                                </span>
+                                <a href='https://666.unruled.club/wp-content/uploads/2023/10/halloween-vintage-witch_iphone-x-1125x2434.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="my plans for this weekend #whimsigoth #witch #fall #aesthetic ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/d4/9b/bb/d49bbbf4ecde70a3dd09e13786df54ad.jpg' alt='my plans for this weekend #whimsigoth #witch #fall #aesthetic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/d4/9b/bb/d49bbbf4ecde70a3dd09e13786df54ad.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Witch Wallpaper – Lovecup.com">
+                                <img itemprop="contentUrl url" src='https://www.lovecup.com/cdn/shop/products/caIGAD_2400x.jpg?v=1693432315' alt='Witch Wallpaper – Lovecup.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lovecup.com" />
+                                </span>
+                                <a href='https://www.lovecup.com/cdn/shop/products/caIGAD_2400x.jpg?v=1693432315' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Witch Images | Free Photos, PNG Stickers, Wallpapers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA5L3JtNTg4ZGVzaWduLWEtcmVtaXgtMTNjLmpwZw.jpg' alt='Vintage Witch Images | Free Photos, PNG Stickers, Wallpapers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA5L3JtNTg4ZGVzaWduLWEtcmVtaXgtMTNjLmpwZw.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Witch Seamless Pattern Free Stock Photo - Public Domain ...">
+                                <img itemprop="contentUrl url" src='https://www.publicdomainpictures.net/pictures/530000/nahled/vintage-witch-seamless-pattern-1691814486Ed2.jpg' alt='Vintage Witch Seamless Pattern Free Stock Photo - Public Domain ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="615">
+                                <meta itemprop="height" content="615">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Public Domain Pictures" />
+                                </span>
+                                <a href='https://www.publicdomainpictures.net/pictures/530000/nahled/vintage-witch-seamless-pattern-1691814486Ed2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: SKYSUKEY The Witch Twilight Dark Forest Vintage Gothic Wall Art  Print, Dark Academia Decor, Witchy Halloween Poster Gift, Halloween Horror  ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/61oW8ZDg7eL.jpg' alt='Amazon.com: SKYSUKEY The Witch Twilight Dark Forest Vintage Gothic Wall Art  Print, Dark Academia Decor, Witchy Halloween Poster Gift, Halloween Horror  ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/61oW8ZDg7eL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Halloween Seamless Background Flying Witch Stock Vector ...">
+                                <img itemprop="contentUrl url" src='https://www.shutterstock.com/shutterstock/photos/320814920/display_1500/stock-vector-vintage-halloween-seamless-background-with-flying-witch-and-ornament-320814920.jpg' alt='Vintage Halloween Seamless Background Flying Witch Stock Vector ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Shutterstock" />
+                                </span>
+                                <a href='https://www.shutterstock.com/shutterstock/photos/320814920/display_1500/stock-vector-vintage-halloween-seamless-background-with-flying-witch-and-ornament-320814920.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Vintage Witch Wallpaper Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9zdGF0aWMvZmlsZXMvd2Vic2l0ZS8yMDI0LTEwL3RwNTUyLTA5MTAyNC10ZWMtMDA3LXN0b3J5LTEuanBn.jpg' alt='Vintage Witch Wallpaper Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9zdGF0aWMvZmlsZXMvd2Vic2l0ZS8yMDI0LTEwL3RwNTUyLTA5MTAyNC10ZWMtMDA3LXN0b3J5LTEuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

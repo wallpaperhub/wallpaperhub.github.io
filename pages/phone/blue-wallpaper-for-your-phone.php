@@ -1,0 +1,129 @@
+<title>Stylish Blue Wallpapers for Your Phone: Refresh Your Look</title>
+                    <meta name="description" content="Explore our collection of beautiful blue wallpapers designed for your phone. From serene skies to deep ocean tones, find the perfect backdrop to personalize your device. Elevate your mobile experience with vibrant and calming blue shades that reflect your style!">
+                    <meta name="keywords" content="blue wallpaper for your phone">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/blue-wallpaper-for-your-phone">
+                            <span itemprop="name">blue wallpaper for your phone</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stylish Blue Wallpapers for Your Phone: Refresh Your Look</h1>
+                <p>Transform your phone's look with stunning blue wallpaper! Whether you prefer a calming shade or vibrant hue, blue wallpapers offer a refreshing aesthetic. Perfect for adding personality to your device, they can enhance focus or evoke tranquility. Discover the ideal blue wallpaper to elevate your mobile experience today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable blue wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAFW7eSaHnY/1/0/900w/canva-blue-abstract-wave-phone-wallpaper-k7iCjgKKe80.jpg' alt='Free and customizable blue wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAFW7eSaHnY/1/0/900w/canva-blue-abstract-wave-phone-wallpaper-k7iCjgKKe80.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beautiful Blue Aesthetic Wallpapers For Your Phone">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/6c/a3/a6/6ca3a6d9c814865b340f5747bf149aee.jpg' alt='Beautiful Blue Aesthetic Wallpapers For Your Phone'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1592">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/6c/a3/a6/6ca3a6d9c814865b340f5747bf149aee.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Phone Wallpaper Images - Free Download on Freepik">
+                                <img itemprop="contentUrl url" src='https://img.freepik.com/free-vector/mobile_677411-3439.jpg?semt=ais_hybrid' alt='Blue Phone Wallpaper Images - Free Download on Freepik'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="391">
+                                <meta itemprop="height" content="626">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Freepik" />
+                                </span>
+                                <a href='https://img.freepik.com/free-vector/mobile_677411-3439.jpg?semt=ais_hybrid' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Free and customizable blue wallpaper templates">
+                                <img itemprop="contentUrl url" src='https://marketplace.canva.com/EAE6ppRBEro/1/0/900w/canva-blue-minimalist-abstract-phone-wallpaper-LqcLfLsTXZ0.jpg' alt='Free and customizable blue wallpaper templates'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Canva" />
+                                </span>
+                                <a href='https://marketplace.canva.com/EAE6ppRBEro/1/0/900w/canva-blue-minimalist-abstract-phone-wallpaper-LqcLfLsTXZ0.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Blue Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/blue-phone-5t4gkoedzwl87imo.jpg' alt='100+] Blue Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/blue-phone-5t4gkoedzwl87imo.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Wallpaper Iphone | Free Aesthetic HD & 4K Mobile Phone Images ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAyL3Jhd3BpeGVsX29mZmljZV81NV9hYnN0cmFjdF9uZW9uX2dlb21ldHJpY19iYWNrZ3JvdW5kLV93YXZ5X2dyYV82OTdhYmVhNi0xZGE1LTRlOWItOGZiNi03ZDRmYjQ0OWNjMjJfMS5qcGc.jpg' alt='Blue Wallpaper Iphone | Free Aesthetic HD & 4K Mobile Phone Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAyL3Jhd3BpeGVsX29mZmljZV81NV9hYnN0cmFjdF9uZW9uX2dlb21ldHJpY19iYWNrZ3JvdW5kLV93YXZ5X2dyYV82OTdhYmVhNi0xZGE1LTRlOWItOGZiNi03ZDRmYjQ0OWNjMjJfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Milky Way Phone Wallpaper Bundle, Blue, Stars, Starry Night, Night Sky,  Wallpaper, Iphone, Android - Etsy">
+                                <img itemprop="contentUrl url" src='https://i.etsystatic.com/26217935/r/il/dd6ebf/2809237123/il_1080xN.2809237123_nzry.jpg' alt='Milky Way Phone Wallpaper Bundle, Blue, Stars, Starry Night, Night Sky,  Wallpaper, Iphone, Android - Etsy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Etsy" />
+                                </span>
+                                <a href='https://i.etsystatic.com/26217935/r/il/dd6ebf/2809237123/il_1080xN.2809237123_nzry.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Blue Phone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cute-blue-phone-e5677vgek6ydwpht.jpg' alt='100+] Cute Blue Phone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cute-blue-phone-e5677vgek6ydwpht.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Charming Blue Phone Screensaver Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/thumbnail/sleek-blue-smartphone-against-a-cool-color-gradient-backdrop-eyvvbdbpgvfisf9s-2.webp' alt='Charming Blue Phone Screensaver Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="533">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/thumbnail/sleek-blue-smartphone-against-a-cool-color-gradient-backdrop-eyvvbdbpgvfisf9s-2.webp' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Graphic Blue Wallpaper for Mobile | Phones">
+                                <img itemprop="contentUrl url" src='https://www.chromethemer.com/wallpapers/phone/images/640/graphic-blue.png' alt='Graphic Blue Wallpaper for Mobile | Phones'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1138">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="chromethemer" />
+                                </span>
+                                <a href='https://www.chromethemer.com/wallpapers/phone/images/640/graphic-blue.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

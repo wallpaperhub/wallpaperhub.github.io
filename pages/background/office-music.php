@@ -1,0 +1,129 @@
+<title>Boost Productivity: Best Office Music Playlists</title>
+                    <meta name="description" content="Discover how office music can enhance productivity and create a positive work environment. Explore curated playlists designed to energize teams, reduce stress, and foster collaboration. Make your workplace more dynamic with the right tunes for every task!">
+                    <meta name="keywords" content="office music">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/office-music">
+                            <span itemprop="name">office music</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Boost Productivity: Best Office Music Playlists</h1>
+                <p>Office music can greatly enhance productivity and mood in the workplace. The right tunes create a positive atmosphere, helping to reduce stress and encourage focus. From instrumental tracks to curated playlists, finding the perfect music can energize employees, foster collaboration, and transform any office into a dynamic productive hub.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Uplifting Office Music MIX 【For Work / Study】Restaurants BGM, Lounge Music,  shop BGM">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/HOSF4VGRJuc/maxresdefault.jpg' alt='Uplifting Office Music MIX 【For Work / Study】Restaurants BGM, Lounge Music,  shop BGM'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/HOSF4VGRJuc/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Instrumental Music for Working in Office (Easy Listening)">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/2TvWZEVf6go/maxresdefault.jpg' alt='Instrumental Music for Working in Office (Easy Listening)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/2TvWZEVf6go/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Office Music - Compilation by Various Artists | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab67616d0000b27304bc0a5035f749481b091c3a' alt='Office Music - Compilation by Various Artists | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab67616d0000b27304bc0a5035f749481b091c3a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Office Music Jazz & BossaNova Special Mix【For Work / Study】Restaurants BGM,  Lounge Music, shop BGM.">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/tRO_TxWD33A/maxresdefault.jpg' alt='Office Music Jazz & BossaNova Special Mix【For Work / Study】Restaurants BGM,  Lounge Music, shop BGM.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/tRO_TxWD33A/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Best of Music for Office – Music At Work: Pop Collection">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/4xjBb5lhCqw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBSfsnbRzmo5rVMeoZKkDvI1VhYfQ' alt='Best of Music for Office – Music At Work: Pop Collection'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="686">
+                                <meta itemprop="height" content="386">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/4xjBb5lhCqw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBSfsnbRzmo5rVMeoZKkDvI1VhYfQ' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Friday Office Music - Compilation by Various Artists | Spotify">
+                                <img itemprop="contentUrl url" src='https://i.scdn.co/image/ab67616d0000b273b9a834c4d7db078e9fe0af8a' alt='Friday Office Music - Compilation by Various Artists | Spotify'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Spotify" />
+                                </span>
+                                <a href='https://i.scdn.co/image/ab67616d0000b273b9a834c4d7db078e9fe0af8a' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Science Behind Choosing the Music for Office Productivity | Jukeboxy">
+                                <img itemprop="contentUrl url" src='https://jukeboxy-media.s3.amazonaws.com/blog/wp-content/uploads/2023/04/13123915/office-music.jpg' alt='Science Behind Choosing the Music for Office Productivity | Jukeboxy'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1000">
+                                <meta itemprop="height" content="667">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Jukeboxy" />
+                                </span>
+                                <a href='https://jukeboxy-media.s3.amazonaws.com/blog/wp-content/uploads/2023/04/13123915/office-music.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Stream Office Music Experts | Listen to Office Music 2022 - Cool ...">
+                                <img itemprop="contentUrl url" src='https://i1.sndcdn.com/artworks-710ca0bf-0f0c-4c14-8de5-d51612a990e0-0-t500x500.jpg' alt='Stream Office Music Experts | Listen to Office Music 2022 - Cool ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="500">
+                                <meta itemprop="height" content="500">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="SoundCloud" />
+                                </span>
+                                <a href='https://i1.sndcdn.com/artworks-710ca0bf-0f0c-4c14-8de5-d51612a990e0-0-t500x500.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Reveal : Jeff's Office / Music Room - Deuce Cities Henhouse">
+                                <img itemprop="contentUrl url" src='https://www.deucecitieshenhouse.com/wordpress/wp-content/uploads/2017/11/thumb_2.jpg' alt='Reveal : Jeff's Office / Music Room - Deuce Cities Henhouse'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1350">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Deuce Cities Henhouse -" />
+                                </span>
+                                <a href='https://www.deucecitieshenhouse.com/wordpress/wp-content/uploads/2017/11/thumb_2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Office Music Jazz & BossaNova Special mix for Work, Study, Restaurants BGM,  Lounge Music, shop BGM">
+                                <img itemprop="contentUrl url" src='https://i.ytimg.com/vi/Jt_Pb_SJ_b0/maxresdefault.jpg' alt='Office Music Jazz & BossaNova Special mix for Work, Study, Restaurants BGM,  Lounge Music, shop BGM'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1280">
+                                <meta itemprop="height" content="720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="YouTube" />
+                                </span>
+                                <a href='https://i.ytimg.com/vi/Jt_Pb_SJ_b0/maxresdefault.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

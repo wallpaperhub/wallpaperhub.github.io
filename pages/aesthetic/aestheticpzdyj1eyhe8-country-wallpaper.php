@@ -1,0 +1,129 @@
+<title>Charming Country Wallpaper for Cozy Interiors</title>
+                    <meta name="description" content="Discover beautiful country wallpaper that transforms your home with rustic elegance. Perfect for creating inviting spaces, our selection features captivating designs that celebrate nature and countryside charm. Elevate your interior decor today with stunning wallpaper that brings warmth and character to every room.">
+                    <meta name="keywords" content="aesthetic:pzdyj1eyhe8= country wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic">
+                            <span itemprop="name">Aesthetic</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/aesthetic/aestheticpzdyj1eyhe8-country-wallpaper">
+                            <span itemprop="name">aesthetic:pzdyj1eyhe8= country wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Charming Country Wallpaper for Cozy Interiors</h1>
+                <p>Transform your space with stunning country wallpaper that evokes rustic charm. Ideal for adding a cozy, inviting atmosphere to any room, our collection features charming landscapes, vintage prints, and pastoral scenes. Embrace the beauty of the countryside with designs that bring warmth and character to your home.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="53 Country Wallpapers ideas | country backgrounds, western ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/f0/e6/e3/f0e6e36962f69f65219c93560672d3af.jpg' alt='53 Country Wallpapers ideas | country backgrounds, western ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/f0/e6/e3/f0e6e36962f69f65219c93560672d3af.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="53 Country Wallpapers ideas | country backgrounds, western ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/f8/2f/7d/f82f7d95c7fecf21665a05ef83cd885b.jpg' alt='53 Country Wallpapers ideas | country backgrounds, western ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="420">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/f8/2f/7d/f82f7d95c7fecf21665a05ef83cd885b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Country Collage With Filter Edit Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/cute-country-collage-with-filter-edit-jmuimifjq3myamns.jpg' alt='Cute Country Collage With Filter Edit Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="538">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/cute-country-collage-with-filter-edit-jmuimifjq3myamns.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Country Vintage Collage Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-country-vintage-collage-2rxfd421k099ve2f.jpg' alt='Cute Country Vintage Collage Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1200">
+                                <meta itemprop="height" content="1720">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-country-vintage-collage-2rxfd421k099ve2f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Country aesthetic wallpaper   ♡">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b3/90/94/b39094ddc2f45ee49491ee5fef8e7fc5.jpg' alt='Country aesthetic wallpaper   ♡'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1280">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b3/90/94/b39094ddc2f45ee49491ee5fef8e7fc5.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Cute Country Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/cute-country-d8jk35e3su9ko5gt.jpg' alt='100+] Cute Country Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="506">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/cute-country-d8jk35e3su9ko5gt.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Country Aesthetic Images Collage Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/cute-country-aesthetic-images-collage-o9jq8zoq8znubff2.jpg' alt='Cute Country Aesthetic Images Collage Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="627">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/cute-country-aesthetic-images-collage-o9jq8zoq8znubff2.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="53 Country Wallpapers ideas | country backgrounds, western ...">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/236x/e0/db/87/e0db87ac046e5ad18949a58f7f270ccf.jpg' alt='53 Country Wallpapers ideas | country backgrounds, western ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="236">
+                                <meta itemprop="height" content="419">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/236x/e0/db/87/e0db87ac046e5ad18949a58f7f270ccf.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Country Girl Aesthetic Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/high/cute-country-girl-aesthetic-zkczye2b1zg2ibjc.jpg' alt='Cute Country Girl Aesthetic Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/high/cute-country-girl-aesthetic-zkczye2b1zg2ibjc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="CUTE COUNTRY WALLPAPERS | Gallery posted by   ♡Sydnee♡   | Lemon8">
+                                <img itemprop="contentUrl url" src='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7338958494844518918&index=2&sign=5b89cf0e4bf6b5fc53fd393b47068bbc' alt='CUTE COUNTRY WALLPAPERS | Gallery posted by   ♡Sydnee♡   | Lemon8'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="675">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lemon8" />
+                                </span>
+                                <a href='https://api16-normal-useast1a.lemon8-app.com/seo/image?item_id=7338958494844518918&index=2&sign=5b89cf0e4bf6b5fc53fd393b47068bbc' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

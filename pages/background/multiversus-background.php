@@ -1,0 +1,129 @@
+<title>Explore the Multiversus: Epic Crossover Battles!</title>
+                    <meta name="description" content="Discover Multiversus, the thrilling crossover fighting game that unites beloved characters from DC, Cartoon Network, and beyond. Engage in strategic 2v2 battles with friends and experience a range of unique abilities and vibrant gameplay. Dive into the action and unleash your favorite heroes today!">
+                    <meta name="keywords" content="multiversus background">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/multiversus-background">
+                            <span itemprop="name">multiversus background</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Explore the Multiversus: Epic Crossover Battles!</h1>
+                <p>Multiversus is an exciting crossover fighting game blending characters from various franchises, including DC Comics, Cartoon Network, and more. Players can engage in dynamic 2v2 battles, utilizing unique abilities and team strategies. With its vibrant graphics and diverse roster, Multiversus offers endless fun for fans of all ages!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Backgrounds : r/MultiVersus">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/backgrounds-v0-9iau2kx0f26e1.png?width=640&crop=smart&auto=webp&s=c98064c9c8dd61dbcfdf607142f913057a1148d3' alt='Backgrounds : r/MultiVersus'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/backgrounds-v0-9iau2kx0f26e1.png?width=640&crop=smart&auto=webp&s=c98064c9c8dd61dbcfdf607142f913057a1148d3' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download Video Game MultiVersus HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/125/1257308.jpg' alt='Download Video Game MultiVersus HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/125/1257308.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MultiVersus - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/en/1/1d/MultiVersus_Cover_Art.png' alt='MultiVersus - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="431">
+                                <meta itemprop="height" content="242">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/en/1/1d/MultiVersus_Cover_Art.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MultiVersus Wallpapers - PlayStation Universe">
+                                <img itemprop="contentUrl url" src='https://www.psu.com/wp/wp-content/uploads/2022/08/Multiversus-PS5-Wallpapers-02.jpg' alt='MultiVersus Wallpapers - PlayStation Universe'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="PlayStation Universe" />
+                                </span>
+                                <a href='https://www.psu.com/wp/wp-content/uploads/2022/08/Multiversus-PS5-Wallpapers-02.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MULTIVERSUS">
+                                <img itemprop="contentUrl url" src='https://cdn.prod.website-files.com/636c3799fc681f2b9598d7ba/63a33bf03d9abca472df852c_MultiVersus.jpeg' alt='MULTIVERSUS'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1440">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Streamline Studios" />
+                                </span>
+                                <a href='https://cdn.prod.website-files.com/636c3799fc681f2b9598d7ba/63a33bf03d9abca472df852c_MultiVersus.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Download MultiVersus 4k Ultra HD Wallpaper">
+                                <img itemprop="contentUrl url" src='https://images7.alphacoders.com/137/1372338.jpeg' alt='Download MultiVersus 4k Ultra HD Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3840">
+                                <meta itemprop="height" content="2160">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpaper Abyss - Alpha Coders" />
+                                </span>
+                                <a href='https://images7.alphacoders.com/137/1372338.jpeg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Sign Up — WB Games Account">
+                                <img itemprop="contentUrl url" src='https://prod-network-images.wbagora.com/network/account-wbgames-com/games/multiversus/multiversus-background.jpg' alt='Sign Up — WB Games Account'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="3419">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WB Games Account" />
+                                </span>
+                                <a href='https://prod-network-images.wbagora.com/network/account-wbgames-com/games/multiversus/multiversus-background.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Picture for "Background MultiVersus" : r/MultiVersusTheGame">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/j3m1hipocyf91.png?width=1920&format=png&auto=webp&s=92637bee85b1f3b0b89f53a621c786a54319daa4' alt='Picture for "Background MultiVersus" : r/MultiVersusTheGame'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/j3m1hipocyf91.png?width=1920&format=png&auto=webp&s=92637bee85b1f3b0b89f53a621c786a54319daa4' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MultiVersus is back with new fighters Jason and Joker, plus more ...">
+                                <img itemprop="contentUrl url" src='https://platform.polygon.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25459982/multiversus_artwork.jpg?quality=90&strip=all&crop=7.8125,0,84.375,100' alt='MultiVersus is back with new fighters Jason and Joker, plus more ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1613">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Polygon" />
+                                </span>
+                                <a href='https://platform.polygon.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25459982/multiversus_artwork.jpg?quality=90&strip=all&crop=7.8125,0,84.375,100' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="MultiVersus Wallpapers (19 images) - WallpaperCat">
+                                <img itemprop="contentUrl url" src='https://wallpapercat.com/w/full/5/2/7/13033-1920x1080-desktop-1080p-multiversus-wallpaper.jpg' alt='MultiVersus Wallpapers (19 images) - WallpaperCat'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1920">
+                                <meta itemprop="height" content="1080">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperCat.com" />
+                                </span>
+                                <a href='https://wallpapercat.com/w/full/5/2/7/13033-1920x1080-desktop-1080p-multiversus-wallpaper.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

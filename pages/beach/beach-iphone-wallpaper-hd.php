@@ -1,0 +1,129 @@
+<title>Stunning HD Beach iPhone Wallpapers for Your Screen</title>
+                    <meta name="description" content="Discover a collection of HD beach wallpapers for your iPhone. Enjoy vibrant ocean scenes and tranquil shorelines that bring a touch of paradise to your screen. Perfect for anyone who loves the beach! Download now for an inspiring backdrop that captures the essence of summer!">
+                    <meta name="keywords" content="beach iphone wallpaper hd">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/beach">
+                            <span itemprop="name">Beach</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/beach/beach-iphone-wallpaper-hd">
+                            <span itemprop="name">beach iphone wallpaper hd</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Stunning HD Beach iPhone Wallpapers for Your Screen</h1>
+                <p>Transform your screen with stunning beach iPhone wallpapers in HD. Experience the serenity of sun-kissed shores and crystal-clear waters, right from your device. Choose from a variety of breathtaking views, from vibrant sunsets to serene ocean horizons. Dive into a tropical paradise every time you unlock your phone!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beach iPhone Wallpapers HD Quality - Best Beach Backgrounds">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/b7/05/da/b705dae2da64913fbc7c9296fd86a642.jpg' alt='Beach iPhone Wallpapers HD Quality - Best Beach Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="960">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/b7/05/da/b705dae2da64913fbc7c9296fd86a642.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="300+] Beach Iphone Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/featured/beach-iphone-uelc2d7e8y7wsc1w.jpg' alt='300+] Beach Iphone Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/featured/beach-iphone-uelc2d7e8y7wsc1w.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Ocean + beach. Our forever.">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/52/9b/4d/529b4dac181444203ecfac66215fca78.jpg' alt='Ocean + beach. Our forever.'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1308">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/52/9b/4d/529b4dac181444203ecfac66215fca78.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lovely Beach Iphone Wallpaper | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/lovely-beach-iphone-euv89iv6ufdhda42.jpg' alt='Lovely Beach Iphone Wallpaper | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/lovely-beach-iphone-euv89iv6ufdhda42.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beach iPhone Wallpapers HD Quality - Best Beach Backgrounds">
+                                <img itemprop="contentUrl url" src='https://anastasiablogger.com/wp-content/uploads/2019/05/Blue-Sea-iphone-se-wallpaper-ilikewallpaper_com.jpg' alt='Beach iPhone Wallpapers HD Quality - Best Beach Backgrounds'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="640">
+                                <meta itemprop="height" content="1136">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Anastasia Blogger" />
+                                </span>
+                                <a href='https://anastasiablogger.com/wp-content/uploads/2019/05/Blue-Sea-iphone-se-wallpaper-ilikewallpaper_com.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="iPhone Wallpaper Summer: 10 Stunning Designs for Your Screen">
+                                <img itemprop="contentUrl url" src='https://skyryedesign.com/wp-content/uploads/2024/05/25a1aae478677a07d09ff27f309c32b9.jpg' alt='iPhone Wallpaper Summer: 10 Stunning Designs for Your Screen'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="564">
+                                <meta itemprop="height" content="1002">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Sky Rye Design" />
+                                </span>
+                                <a href='https://skyryedesign.com/wp-content/uploads/2024/05/25a1aae478677a07d09ff27f309c32b9.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Beach Iphone HD Wallpapers (300++) - MrWallpaper.com">
+                                <img itemprop="contentUrl url" src='https://mrwallpaper.com/images/thumbnail/tropical-coast-beach-iphone-dhokvcqr77040993.jpg' alt='Beach Iphone HD Wallpapers (300++) - MrWallpaper.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="532">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MrWallpaper" />
+                                </span>
+                                <a href='https://mrwallpaper.com/images/thumbnail/tropical-coast-beach-iphone-dhokvcqr77040993.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Tropical Beach iPhone Wallpapers [Free Background Images ...">
+                                <img itemprop="contentUrl url" src='https://www.wallpapergap.com/cdn/24/255/tropical-beach-iphone-wallpaper-hd-1080x1920.jpg' alt='Tropical Beach iPhone Wallpapers [Free Background Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpaperGap" />
+                                </span>
+                                <a href='https://www.wallpapergap.com/cdn/24/255/tropical-beach-iphone-wallpaper-hd-1080x1920.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Iphone Wallpaper Beach | Free Aesthetic HD & 4K Mobile Phone ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTEyL2FuZ3VzdGVvd19zZWFfd2F2ZXNfcm9sbGluZ19vbnRvX3NhbmR5X2JlYWNoX3VuZGVyX3N0YXJyeV9za3lfYV9lNWM4NTBlMi00OGE4LTQ5ZjUtYTc1NC02MDUwZjM0YTQ2OWEuanBn.jpg' alt='Iphone Wallpaper Beach | Free Aesthetic HD & 4K Mobile Phone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTEyL2FuZ3VzdGVvd19zZWFfd2F2ZXNfcm9sbGluZ19vbnRvX3NhbmR5X2JlYWNoX3VuZGVyX3N0YXJyeV9za3lfYV9lNWM4NTBlMi00OGE4LTQ5ZjUtYTc1NC02MDUwZjM0YTQ2OWEuanBn.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Get HD Nature Wallpapers - Palm Tree Sea View Beach iPhone ...">
+                                <img itemprop="contentUrl url" src='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3810037935737326' alt='Get HD Nature Wallpapers - Palm Tree Sea View Beach iPhone ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Facebook" />
+                                </span>
+                                <a href='https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=3810037935737326' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

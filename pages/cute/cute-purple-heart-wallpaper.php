@@ -1,0 +1,129 @@
+<title>Adorable Purple Heart Wallpapers for Your Device</title>
+                    <meta name="description" content="">
+                    <meta name="keywords" content="cute purple heart wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute">
+                            <span itemprop="name">Cute</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/cute/cute-purple-heart-wallpaper">
+                            <span itemprop="name">cute purple heart wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Adorable Purple Heart Wallpapers for Your Device</h1>
+                <p>Cute purple heart wallpaper adds a touch of charm and whimsy to your devices. Perfect for expressing love and positivity, these vibrant designs feature playful hearts in shades of purple, making them ideal for any romantic or cute-themed decor. Transform your screens with these delightful wallpapers that brighten your day!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Heart iPhone Wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/80/48/b4/8048b495f8a4bf3bbbfa30bb252e22f7.jpg' alt='Purple Heart iPhone Wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1352">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/80/48/b4/8048b495f8a4bf3bbbfa30bb252e22f7.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Phone wallpaper, background. 'pastel purple heart' (2)">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/ea/78/04/ea7804f0518bd9967c3036f65e3f82ac.jpg' alt='Phone wallpaper, background. 'pastel purple heart' (2)'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="736">
+                                <meta itemprop="height" content="1309">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/ea/78/04/ea7804f0518bd9967c3036f65e3f82ac.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="100+] Purple Heart Wallpapers | Wallpapers.com">
+                                <img itemprop="contentUrl url" src='https://wallpapers.com/images/hd/cute-wallpaper-art-purple-heart-ke1ejnhlu3da3dmg.jpg' alt='100+] Purple Heart Wallpapers | Wallpapers.com'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="390">
+                                <meta itemprop="height" content="679">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wallpapers.com" />
+                                </span>
+                                <a href='https://wallpapers.com/images/hd/cute-wallpaper-art-purple-heart-ke1ejnhlu3da3dmg.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Pin page">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/bb/c5/ed/bbc5edf0c34bc671e6bf0159f7032f4b.jpg' alt='Pin page'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="600">
+                                <meta itemprop="height" content="1200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pin page" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/bb/c5/ed/bbc5edf0c34bc671e6bf0159f7032f4b.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Heart Wallpapers | WallpapersOK">
+                                <img itemprop="contentUrl url" src='https://wallpapersok.com/images/hd/cute-valentines-purple-heart-doodles-7cro841srx6og2mr.jpg' alt='Purple Heart Wallpapers | WallpapersOK'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1422">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="WallpapersOK" />
+                                </span>
+                                <a href='https://wallpapersok.com/images/hd/cute-valentines-purple-heart-doodles-7cro841srx6og2mr.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Amazon.com: Light Purple Heart Wall Decor - cute Baby Girl Boy ...">
+                                <img itemprop="contentUrl url" src='https://m.media-amazon.com/images/I/51iAcsembiL._UF894,1000_QL80_.jpg' alt='Amazon.com: Light Purple Heart Wall Decor - cute Baby Girl Boy ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="894">
+                                <meta itemprop="height" content="940">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Amazon.com" />
+                                </span>
+                                <a href='https://m.media-amazon.com/images/I/51iAcsembiL._UF894,1000_QL80_.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Cute Purple heart wallpapers">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/736x/49/1c/b6/491cb67c7446662d259708280697405f.jpg' alt='Cute Purple heart wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="625">
+                                <meta itemprop="height" content="1041">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/736x/49/1c/b6/491cb67c7446662d259708280697405f.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Heart Galaxy, galaxy, corazones, purple, HD phone wallpaper ...">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/395/439/HD-wallpaper-purple-heart-galaxy-galaxy-hearts-purple.jpg' alt='Purple Heart Galaxy, galaxy, corazones, purple, HD phone wallpaper ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1067">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/395/439/HD-wallpaper-purple-heart-galaxy-galaxy-hearts-purple.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Hearts Wallpaper Images | Free Photos, PNG Stickers ...">
+                                <img itemprop="contentUrl url" src='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsb2ZmaWNlOV9zaW1wbGlmaWVkX2hlYXJ0c19uZW9uX2xpZ2h0X2VmZmVjdHNfX2FfZGFya19iYV85YTM3NDdkZi02OTUyLTQzYjktYjFjOC00MWNhZGMzYTc5Y2FfMS5qcGc.jpg' alt='Purple Hearts Wallpaper Images | Free Photos, PNG Stickers ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1427">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Rawpixel" />
+                                </span>
+                                <a href='https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsb2ZmaWNlOV9zaW1wbGlmaWVkX2hlYXJ0c19uZW9uX2xpZ2h0X2VmZmVjdHNfX2FfZGFya19iYV85YTM3NDdkZi02OTUyLTQzYjktYjFjOC00MWNhZGMzYTc5Y2FfMS5qcGc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Purple Heart Background - Purple Heart Background Image">
+                                <img itemprop="contentUrl url" src='https://content.mycutegraphics.com/backgrounds/hearts/purple-heart-background.gif' alt='Purple Heart Background - Purple Heart Background Image'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="MyCuteGraphics" />
+                                </span>
+                                <a href='https://content.mycutegraphics.com/backgrounds/hearts/purple-heart-background.gif' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

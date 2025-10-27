@@ -1,0 +1,129 @@
+<title>Larry Fink: Leader in Sustainable Finance</title>
+                    <meta name="description" content="Explore the influential career of Larry Fink, CEO of BlackRock. Discover his role in promoting sustainable investing and corporate responsibility, shaping global financial strategies.">
+                    <meta name="keywords" content="larry fink">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/larry-fink">
+                            <span itemprop="name">larry fink</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Larry Fink: Leader in Sustainable Finance</h1>
+                <p>Larry Fink is the CEO of BlackRock, the world’s largest asset manager, overseeing over $8 trillion in assets. Known for his influence in finance and advocacy for corporate responsibility, Fink emphasizes sustainable investing and the importance of addressing climate change. His annual letters to CEOs frequently spotlight these issues.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Larry Fink - Wikipedia">
+                                <img itemprop="contentUrl url" src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Laurence_Douglas_Fink_%28cropped%29.jpg/220px-Laurence_Douglas_Fink_%28cropped%29.jpg' alt='Larry Fink - Wikipedia'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="220">
+                                <meta itemprop="height" content="289">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Wikipedia" />
+                                </span>
+                                <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Laurence_Douglas_Fink_%28cropped%29.jpg/220px-Laurence_Douglas_Fink_%28cropped%29.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Larry Fink | BlackRock">
+                                <img itemprop="contentUrl url" src='https://www.blackrock.com/blk-corp-assets/cache-1720176274000/images/media-bin/web/global/headshots/headshot-fink-larry-2024-400x400px.jpg' alt='Larry Fink | BlackRock'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="400">
+                                <meta itemprop="height" content="400">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="BlackRock" />
+                                </span>
+                                <a href='https://www.blackrock.com/blk-corp-assets/cache-1720176274000/images/media-bin/web/global/headshots/headshot-fink-larry-2024-400x400px.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Larry Fink | World Economic Forum">
+                                <img itemprop="contentUrl url" src='https://assets.weforum.org/author/image/4O9lGAJz7AUnTvxjlChw_2kDma-62SpuwsyKDWwI7Xc.jpg' alt='Larry Fink | World Economic Forum'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="710">
+                                <meta itemprop="height" content="894">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The World Economic Forum" />
+                                </span>
+                                <a href='https://assets.weforum.org/author/image/4O9lGAJz7AUnTvxjlChw_2kDma-62SpuwsyKDWwI7Xc.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Larry Fink">
+                                <img itemprop="contentUrl url" src='https://imageio.forbes.com/specials-images/imageserve/5915dc454bbe6f6c4b15378c/0x0.jpg?format=jpg&crop=1572,1571,x908,y53,safe&height=416&width=416&fit=bounds' alt='Larry Fink'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="416">
+                                <meta itemprop="height" content="416">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Forbes" />
+                                </span>
+                                <a href='https://imageio.forbes.com/specials-images/imageserve/5915dc454bbe6f6c4b15378c/0x0.jpg?format=jpg&crop=1572,1571,x908,y53,safe&height=416&width=416&fit=bounds' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="I'm Not Talking About This to Win a Popularity Contest”: An ...">
+                                <img itemprop="contentUrl url" src='https://hbr.org/resources/images/article_assets/2015/09/R1511H_HILL.jpg' alt='I'm Not Talking About This to Win a Popularity Contest”: An ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2000">
+                                <meta itemprop="height" content="940">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Harvard Business Review" />
+                                </span>
+                                <a href='https://hbr.org/resources/images/article_assets/2015/09/R1511H_HILL.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Larry Fink - Chairman and Chief Executive Officer - BlackRock ...">
+                                <img itemprop="contentUrl url" src='https://media.licdn.com/dms/image/D4E03AQEd5mJIq-u7Aw/profile-displayphoto-shrink_200_200/0/1686328232234?e=2147483647&v=beta&t=F2t6c3RAwVdPbTHxKkHZ5xrp7sHfAYNeWrbqd4DuMBk' alt='Larry Fink - Chairman and Chief Executive Officer - BlackRock ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="200">
+                                <meta itemprop="height" content="200">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="LinkedIn" />
+                                </span>
+                                <a href='https://media.licdn.com/dms/image/D4E03AQEd5mJIq-u7Aw/profile-displayphoto-shrink_200_200/0/1686328232234?e=2147483647&v=beta&t=F2t6c3RAwVdPbTHxKkHZ5xrp7sHfAYNeWrbqd4DuMBk' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Larry Fink's $12 Trillion Shadow | Vanity Fair">
+                                <img itemprop="contentUrl url" src='https://media.vanityfair.com/photos/54cc03023c894ccb27c877b3/master/w_1600%2Cc_limit/image.jpg' alt='Larry Fink's $12 Trillion Shadow | Vanity Fair'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="300">
+                                <meta itemprop="height" content="394">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Vanity Fair" />
+                                </span>
+                                <a href='https://media.vanityfair.com/photos/54cc03023c894ccb27c877b3/master/w_1600%2Cc_limit/image.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Larry Fink – Lifestyles Magazine">
+                                <img itemprop="contentUrl url" src='https://lifestylesmagazine.com/wp-content/uploads/2023/10/Larry_Fink-contributing.jpg' alt='Larry Fink – Lifestyles Magazine'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="900">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Lifestyles Magazine" />
+                                </span>
+                                <a href='https://lifestylesmagazine.com/wp-content/uploads/2023/10/Larry_Fink-contributing.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="BlackRock CEO Larry Fink On Business Leadership During the COVID ...">
+                                <img itemprop="contentUrl url" src='https://back.3blcdn.com/images/sites/default/files/styles/ratio_3_2/public/triplepundit/wide/Larry%20Fink%20BlackRock.jpg?h=a5649ab3&width=640&format=auto' alt='BlackRock CEO Larry Fink On Business Leadership During the COVID ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1497">
+                                <meta itemprop="height" content="998">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TriplePundit" />
+                                </span>
+                                <a href='https://back.3blcdn.com/images/sites/default/files/styles/ratio_3_2/public/triplepundit/wide/Larry%20Fink%20BlackRock.jpg?h=a5649ab3&width=640&format=auto' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="663 Larry Fink Blackrock Stock Photos, High-Res Pictures, and ...">
+                                <img itemprop="contentUrl url" src='https://media.gettyimages.com/id/1259079678/photo/us-chairman-and-ceo-of-blackrock-larry-fink-poses-during-a-photo-session-in-paris-on-june-22.jpg?s=612x612&w=gi&k=20&c=qbaCn5U7LC6SYepjEeO8hRhUomoipqX_pcwguBfpqkc=' alt='663 Larry Fink Blackrock Stock Photos, High-Res Pictures, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="408">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Getty Images" />
+                                </span>
+                                <a href='https://media.gettyimages.com/id/1259079678/photo/us-chairman-and-ceo-of-blackrock-larry-fink-poses-during-a-photo-session-in-paris-on-june-22.jpg?s=612x612&w=gi&k=20&c=qbaCn5U7LC6SYepjEeO8hRhUomoipqX_pcwguBfpqkc=' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

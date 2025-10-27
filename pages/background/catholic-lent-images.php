@@ -1,0 +1,129 @@
+<title>Catholic Lent: Evocative Images for Reflection</title>
+                    <meta name="description" content="Explore captivating Catholic Lent images that embody themes of sacrifice and renewal. Discover visuals that inspire reflection during this sacred season, including crosses, ashes, and the Last Supper. Perfect for enhancing your spiritual journey and understanding of Lent's significance.">
+                    <meta name="keywords" content="catholic lent images">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background">
+                            <span itemprop="name">background</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/background/catholic-lent-images">
+                            <span itemprop="name">catholic lent images</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Catholic Lent: Evocative Images for Reflection</h1>
+                <p>During Catholic Lent, imagery plays a vital role in reflection and spirituality. From the somber ashes of Ash Wednesday to the vibrant symbols of Easter, these images evoke themes of sacrifice, penance, and rebirth. Powerful visuals of crosses, the Last Supper, and Stations of the Cross serve as daily reminders of faith and devotion throughout this sacred season.</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lent Catholic Images – Browse 18,778 Stock Photos, Vectors, and ...">
+                                <img itemprop="contentUrl url" src='https://t4.ftcdn.net/jpg/05/73/87/93/360_F_573879377_WVe6lfz8zy698GK8ycYqIYnANbxjD1Nm.jpg' alt='Lent Catholic Images – Browse 18,778 Stock Photos, Vectors, and ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="540">
+                                <meta itemprop="height" content="360">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Adobe Stock" />
+                                </span>
+                                <a href='https://t4.ftcdn.net/jpg/05/73/87/93/360_F_573879377_WVe6lfz8zy698GK8ycYqIYnANbxjD1Nm.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lent for Teens">
+                                <img itemprop="contentUrl url" src='http://www.avemariapress.com/cdn/shop/files/9781594719080.jpg?v=1739187746' alt='Lent for Teens'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="900">
+                                <meta itemprop="height" content="1260">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ave Maria Press" />
+                                </span>
+                                <a href='http://www.avemariapress.com/cdn/shop/files/9781594719080.jpg?v=1739187746' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="2,300+ Catholic Lent Stock Photos, Pictures & Royalty-Free Images ...">
+                                <img itemprop="contentUrl url" src='https://media.istockphoto.com/id/1567163434/vector/grunge-style-christian-cross-for-ash-wednesday-web-banner-or-social-graphic-the-first-day-of.jpg?s=612x612&w=0&k=20&c=lhITAsXKOnp_8kxhRRpj-gUSnQw0RlFcOC7L-FLjM3A=' alt='2,300+ Catholic Lent Stock Photos, Pictures & Royalty-Free Images ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="612">
+                                <meta itemprop="height" content="612">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="iStock" />
+                                </span>
+                                <a href='https://media.istockphoto.com/id/1567163434/vector/grunge-style-christian-cross-for-ash-wednesday-web-banner-or-social-graphic-the-first-day-of.jpg?s=612x612&w=0&k=20&c=lhITAsXKOnp_8kxhRRpj-gUSnQw0RlFcOC7L-FLjM3A=' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lent 2018 | Irish Catholic Bishops' Conference">
+                                <img itemprop="contentUrl url" src='https://www.catholicbishops.ie/wp-content/uploads/2018/02/Lent-Feature-4.jpg' alt='Lent 2018 | Irish Catholic Bishops' Conference'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1692">
+                                <meta itemprop="height" content="1235">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Irish Catholic Bishops' Conference |" />
+                                </span>
+                                <a href='https://www.catholicbishops.ie/wp-content/uploads/2018/02/Lent-Feature-4.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Things to Remember for Lent - The Roman Catholic Diocese of Phoenix">
+                                <img itemprop="contentUrl url" src='https://dphx.org/wp-content/uploads/2018/02/iStock_000077666785_Large-e1579813833847.jpg' alt='10 Things to Remember for Lent - The Roman Catholic Diocese of Phoenix'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1500">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="The Roman Catholic Diocese of Phoenix" />
+                                </span>
+                                <a href='https://dphx.org/wp-content/uploads/2018/02/iStock_000077666785_Large-e1579813833847.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="10 Simple Suggestions for a Successful Lent| National Catholic ...">
+                                <img itemprop="contentUrl url" src='https://publisher-ncreg.s3.us-east-2.amazonaws.com/pb-ncregister/swp/hv9hms/media/2022021521028_0aa1b6878f326918753f14343ae8435fc864eb83b11e9bb14e05234442bfd274.jpg' alt='10 Simple Suggestions for a Successful Lent| National Catholic ...'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="760">
+                                <meta itemprop="height" content="507">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="National Catholic Register" />
+                                </span>
+                                <a href='https://publisher-ncreg.s3.us-east-2.amazonaws.com/pb-ncregister/swp/hv9hms/media/2022021521028_0aa1b6878f326918753f14343ae8435fc864eb83b11e9bb14e05234442bfd274.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="LENT CROSS- CATHOLIC PRINTS PICTURES">
+                                <img itemprop="contentUrl url" src='https://catholicpictures.com/cdn/shop/products/Lent_Cross_2048x.jpg?v=1541189567' alt='LENT CROSS- CATHOLIC PRINTS PICTURES'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2048">
+                                <meta itemprop="height" content="2506">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Catholic Pictures" />
+                                </span>
+                                <a href='https://catholicpictures.com/cdn/shop/products/Lent_Cross_2048x.jpg?v=1541189567' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="The 40 Days of Lent | Diocese of Portland">
+                                <img itemprop="contentUrl url" src='https://portlanddiocese.org/sites/default/files/styles/bp_featured_image/public/2023-02/lent4.jpg?h=1e0f40d4&itok=1GUHmjbB' alt='The 40 Days of Lent | Diocese of Portland'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1140">
+                                <meta itemprop="height" content="640">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Diocese of Portland" />
+                                </span>
+                                <a href='https://portlanddiocese.org/sites/default/files/styles/bp_featured_image/public/2023-02/lent4.jpg?h=1e0f40d4&itok=1GUHmjbB' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lent 2025: The Complete Guide to the Catholic Season of Lent – Hallow">
+                                <img itemprop="contentUrl url" src='https://hallow.com/wp-content/uploads/2022/01/Pray40-Illo_22-1024x611.png' alt='Lent 2025: The Complete Guide to the Catholic Season of Lent – Hallow'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1024">
+                                <meta itemprop="height" content="611">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Hallow" />
+                                </span>
+                                <a href='https://hallow.com/wp-content/uploads/2022/01/Pray40-Illo_22-1024x611.png' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Lent 101: What Every Catholic Should Know - Ascension Press Media">
+                                <img itemprop="contentUrl url" src='https://media.ascensionpress.com/wp-content/uploads/2020/02/matt-marzorati-2zMvnJLG8tg-unsplash-1-scaled.jpg' alt='Lent 101: What Every Catholic Should Know - Ascension Press Media'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="2560">
+                                <meta itemprop="height" content="1344">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Ascension Press" />
+                                </span>
+                                <a href='https://media.ascensionpress.com/wp-content/uploads/2020/02/matt-marzorati-2zMvnJLG8tg-unsplash-1-scaled.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>

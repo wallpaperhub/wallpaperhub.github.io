@@ -1,0 +1,129 @@
+<title>Spellbinding Wizard Phone Wallpapers for Fantasy Lovers</title>
+                    <meta name="description" content="Explore a mystical collection of wizard phone wallpapers that add a touch of magic to your screen! Perfect for fantasy enthusiasts, our curated selection features enchanting designs that inspire adventure and wonder. Download yours now for a spellbinding aesthetic!">
+                    <meta name="keywords" content="wizard phone wallpaper">
+                </head>
+                <body>
+                <?php include_once("././navbar.php"); ?>
+                <ul class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/">
+                            <span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone">
+                            <span itemprop="name">Phone</span></a>
+                        <meta itemprop="position" content="2" />
+                    </li>
+                    <li itemprop="itemListElement" itemscope
+                        itemtype="https://schema.org/ListItem">
+                        <a itemprop="item" href="/phone/wizard-phone-wallpaper">
+                            <span itemprop="name">wizard phone wallpaper</span></a>
+                        <meta itemprop="position" content="3" />
+                    </li>
+                </ul>
+                <h1>Spellbinding Wizard Phone Wallpapers for Fantasy Lovers</h1>
+                <p>Transform your device with enchanting wizard phone wallpapers! From mystical landscapes to spell-casting characters, these wallpapers capture the essence of magic and adventure. Perfect for fans of fantasy genres, each image brings a sense of wonder to your screen. Dive into a world of wizardry today!</p>
+                <div class='container'><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="i made a dark wizard edit as a phone wallpaper! : r/HarryPotterGame">
+                                <img itemprop="contentUrl url" src='https://preview.redd.it/24oxyzi0bvn51.jpg?width=1080&crop=smart&auto=webp&s=2aeb9cc9dda4019f33e53d4bcc7460735d87d4a9' alt='i made a dark wizard edit as a phone wallpaper! : r/HarryPotterGame'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="2340">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Reddit" />
+                                </span>
+                                <a href='https://preview.redd.it/24oxyzi0bvn51.jpg?width=1080&crop=smart&auto=webp&s=2aeb9cc9dda4019f33e53d4bcc7460735d87d4a9' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Blue Mage - Desktop & Phone Wallpapers - Ccrawler's Ko-fi Shop">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/4e/52/b5/4e52b5410edad4b3a8806cb303f19cce.jpg' alt='Blue Mage - Desktop & Phone Wallpapers - Ccrawler's Ko-fi Shop'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="562">
+                                <meta itemprop="height" content="1000">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/4e/52/b5/4e52b5410edad4b3a8806cb303f19cce.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Mage, fantasy, magic, wizard, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/570/662/HD-wallpaper-mage-fantasy-magic-wizard.jpg' alt='Mage, fantasy, magic, wizard, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="1091">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/570/662/HD-wallpaper-mage-fantasy-magic-wizard.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wizard Hd Wallpaper - Colab">
+                                <img itemprop="contentUrl url" src='https://e0.pxfuel.com/wallpapers/797/809/desktop-wallpaper-wizard-old-wizard-thumbnail.jpg' alt='Wizard Hd Wallpaper - Colab'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="350">
+                                <meta itemprop="height" content="499">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Colab" />
+                                </span>
+                                <a href='https://e0.pxfuel.com/wallpapers/797/809/desktop-wallpaper-wizard-old-wizard-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wizard, magic, HD phone wallpaper | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/631/716/HD-wallpaper-wizard-magic.jpg' alt='Wizard, magic, HD phone wallpaper | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="800">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/631/716/HD-wallpaper-wizard-magic.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Moon, dark, outdoor, night, wizard, fantasy, 480x800 wallpaper">
+                                <img itemprop="contentUrl url" src='https://i.pinimg.com/564x/4a/52/53/4a525347df45c33e733ef0b422aa99af.jpg' alt='Moon, dark, outdoor, night, wizard, fantasy, 480x800 wallpaper'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="480">
+                                <meta itemprop="height" content="800">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Pinterest" />
+                                </span>
+                                <a href='https://i.pinimg.com/564x/4a/52/53/4a525347df45c33e733ef0b422aa99af.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wizard Phone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/666/666883.jpg' alt='Wizard Phone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="750">
+                                <meta itemprop="height" content="1334">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/666/666883.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="HD dark wizard wallpapers | Peakpx">
+                                <img itemprop="contentUrl url" src='https://w0.peakpx.com/wallpaper/30/487/HD-wallpaper-wizard-of-death-bird-crow-dark-skull-sword-horror-thumbnail.jpg' alt='HD dark wizard wallpapers | Peakpx'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="338">
+                                <meta itemprop="height" content="601">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Peakpx" />
+                                </span>
+                                <a href='https://w0.peakpx.com/wallpaper/30/487/HD-wallpaper-wizard-of-death-bird-crow-dark-skull-sword-horror-thumbnail.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Wizard Phone Wallpapers">
+                                <img itemprop="contentUrl url" src='https://mfiles.alphacoders.com/950/950767.jpg' alt='Wizard Phone Wallpapers'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="720">
+                                <meta itemprop="height" content="1600">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="Alpha Coders" />
+                                </span>
+                                <a href='https://mfiles.alphacoders.com/950/950767.jpg' target='_blank' rel='nofollow' download>Download</a>
+                            </div><div itemscope itemtype="https://schema.org/ImageObject">
+                                <meta itemprop="name alternativeheadline" content="Dark Wizard Summoning Live Wallpaper in 4K">
+                                <img itemprop="contentUrl url" src='https://www.tiktok.com/api/img/?itemId=7445033807809367329&location=0&aid=1988' alt='Dark Wizard Summoning Live Wallpaper in 4K'>
+                                <meta itemprop="representativeOfPage" content="True">
+                                <meta itemprop="width" content="1080">
+                                <meta itemprop="height" content="1920">
+                                <span itemprop="creator" itemtype="https://schema.org/Person" itemscope>
+                                    <meta itemprop="name" content="TikTok" />
+                                </span>
+                                <a href='https://www.tiktok.com/api/img/?itemId=7445033807809367329&location=0&aid=1988' target='_blank' rel='nofollow' download>Download</a>
+                            </div></div>
